@@ -56,11 +56,17 @@ Kyuu... Kyuu?
 Fou!
 Fou...Fou!
  
+---
+
 **Fujimaru 1:**
 ...What's that sound?
  
+---
+
 **Fujimaru 2:**
 ...Feels like something just licked my cheek...
+
+---
  
 **A：???:**
 ...
@@ -68,6 +74,8 @@ Fou...Fou!
 **A：???:**
 ...Umm. Since it's neither morning nor night, please wake up, Senpai.
  
+---
+
 **Fujimaru 1:**
 Who are you?
  
@@ -82,6 +90,8 @@ I have a proper name.
 But I never really had the chance to use it...
 I'm afraid I don't leave a good first impression...
  
+---
+
 **Fujimaru 2:**
 Where are we?
  
@@ -92,13 +102,15 @@ I really appreciate it.
 **A：???:**
 This is the passageway from the front gate to the Central Command Room, which is in front of the Main Chaldea Gate.
  
-*Choice Branch End*
+---
  
 **A：???:**
 ...Ahem. Anyway, can I ask you a question, Senpai?
  
 **A：???:**
 You were asleep, but I don't see why you'd sleep in the hall. Can you not sleep unless you're on a hard bed?
+
+---
 
 **Fujimaru 1:**
 Was I sleeping here?
@@ -107,6 +119,8 @@ Was I sleeping here?
 Yes, like a log.
 It was such a deep sleep, it was almost textbook.
  
+---
+
 **Fujimaru 2:**
 Yes. I can't sleep unless I'm on a straw mat.
  
@@ -114,7 +128,7 @@ Yes. I can't sleep unless I'm on a straw mat.
 Oh, a Japanese carpet. I've heard of those before.
 I see... I see.
  
-*Choice Branch End*
+---
  
 **C：???:**
 Fou!
@@ -138,11 +152,17 @@ Mmkyu, Fou!
 He ran off somewhere again.
 He does that sometimes, just walks around.
  
+---
+
 **Fujimaru 1:**
 ...I've never seen an animal like that.
  
+---
+
 **Fujimaru 2:**
 ...What a mysterious creature.
+
+---
  
 **A：???:**
 Yes, normally he doesn't go near anyone aside from me,
@@ -177,6 +197,8 @@ I'm glad you're here.
 I heard you were selected out of many public applicants, how long was your training?
 A year? 6 months? 3 months?
 
+---
+
 **Fujimaru 1:**
 ...I'll leave that to your imagination.
  
@@ -190,6 +212,8 @@ Dr. Lev, Fujimaru's training was less than a few hours. I think it's from embarr
 **Lev:**
 Oh? Well, now... I see. We had an emergency opening for applicants to fill out numbers.
  
+---
+
 **Fujimaru 2:**
 No, I didn't go through any training.
  
@@ -199,7 +223,7 @@ Oh? So you're a complete amateur?
 **Lev:**
 Right... Come to think of it, we did call for applicants just to fill numbers.
  
-*Choice Branch End*
+---
  
 **Lev:**
 So you're one of them?
@@ -245,6 +269,8 @@ You seem to be fine, but I'd like to take you to the infirmary just in case...
 **Lev:**
 Sorry, hang in there a little longer. The Director's orientation is about to start. You should hurry over.
 
+---
+
 **Fujimaru 1:**
 Director?
  
@@ -271,6 +297,8 @@ But it's good to not get on her bad side. If you wish to work in a peaceful envi
 **Lev:**
 There's an orientation by the Director at the Central Command Room in 5 minutes. She's putting on a presentation for the newbies.
  
+---
+
 **Fujimaru 2:**
 Orientation?
  
@@ -286,7 +314,7 @@ Since the Director is not the type to forgive and forget, if you show up late, y
 **Lev:**
 The orientation begins in five minutes in the Central Command Room. Go straight down this hall. Hurry.
  
-*Choice Branch End*
+---
  
 **Mash:**
 Dr. Lev, do you think I'll be allowed to sit in on the orientation, too?
@@ -308,6 +336,8 @@ You okay with that Fujimaru?
 **Lev:**
 If you have no other questions, let's head to the Command Room. Is there anything else you want to know?
 
+---
+
 **Fujimaru 1:**
 I have no questions.
  
@@ -315,6 +345,8 @@ I have no questions.
 All right, let's get going.
 Stand up straight, but remember to relax, okay?
  
+---
+
 **Fujimaru 2:**
 Why is she calling me Senpai?
  
@@ -364,7 +396,7 @@ We're going to have to leave it to fate.
 **Lev:**
 Shall we jump into the lions' den, Fujimaru? Hey, once you get used to her, she can be a pretty sweet person.
  
-*Choice Branch End*
+---
  
 **Mash:**
 This is the Central Command Room. Your number, Senpai... Single digit, you're in the front row.
@@ -373,11 +405,17 @@ This is the Central Command Room. Your number, Senpai... Single digit, you're in
 Take an empty seat in the front row.
 ...Senpai? You're looking a bit pale...
  
+---
+
 **Fujimaru 1:**
 Sorry, I'm starting to space out again...
  
+---
+
 **Fujimaru 2:**
 ...Sleepy ...So sleepy.
+
+---
  
 **Mash:**
 It's an after effect of the simulator.
@@ -403,11 +441,17 @@ You have been selected, or discovered from each nation for your rare&mdash;
 **Mash:**
 ...Are you all right, Senpai?
  
+---
+
 **Fujimaru 1:**
 ...Uh-oh.
  
+---
+
 **Fujimaru 2:**
 ...Wait, was I asleep?
+
+---
  
 **Mash:**
 Yes.
@@ -423,11 +467,17 @@ I was taking you back to your room&mdash;Oh!
 **Fou:**
 Fou!
  
+---
+
 **Fujimaru 1:**
 A squirrel on your face!
  
+---
+
 **Fujimaru 2:**
 Watch out!
+
+---
  
 **Mash:**
 No, no, this is normal.
@@ -436,12 +486,16 @@ No problem at all!
 **Mash:**
 Fou likes to attack my face, slide around to my back, and settle on my shoulder.
 
+---
+
 **Fujimaru 1:**
 So you're used to that, huh?
  
 **Mash:**
 Yes. It's been a year since Fou came to live here.
  
+---
+
 **Fujimaru 2:**
 Wait, are you the one who named him?
  
@@ -452,7 +506,7 @@ That's right. No special reason, the word "Fou" is the first thing that popped i
 I'm impressed you knew that, Senpai.
 I see you're quite perceptive yourself.
  
-*Choice Branch End*
+---
  
 **Fou:**
 Fou.
@@ -464,11 +518,17 @@ Hmm, hmm. Apparently, Fou's embraced you as one of his own, Senpai.
 **Mash:**
 But can a squirrel who sees humans as rivals exist in this world?
  
+---
+
 **Fujimaru 1:**
 He sees me as a rival?
  
+---
+
 **Fujimaru 2:**
 Don't look at me, I have no idea
+
+---
  
 **Mash:**
 Well, knowing Fou as I do, I'm sure he'll forget it by tomorrow.
@@ -477,6 +537,8 @@ Well, knowing Fou as I do, I'm sure he'll forget it by tomorrow.
 Actually, we've reached our destination.
 This is your room, Senpai.
 
+---
+
 **Fujimaru 1:**
 ...I see. Thanks for coming all this way.
  
@@ -484,6 +546,8 @@ This is your room, Senpai.
 It's fine. If you ask me, Senpai,
 I wouldn't mind even if it's treating you to lunch.
  
+---
+
 **Fujimaru 2:**
 What team are you on, Mash?
  
@@ -491,7 +555,7 @@ What team are you on, Mash?
 First Mission, A Team.
 Speaking of which, I've got to head back now.
  
-*Choice Branch End*
+---
  
 **Fou:**
 Kyu... Kyu!
@@ -512,6 +576,8 @@ Whaaaaaat? Who are you?
 This is an empty room! It's where I slack off!
 Who gave you permission to come in?
  
+---
+
 **Fujimaru 1:**
 I was told that this was my room...
  
@@ -519,13 +585,15 @@ I was told that this was my room...
 Your room? This place? Oh...
 I see, so the last one finally showed up, huh?
  
+---
+
 **Fujimaru 2:**
 Well, who are you?
  
 **B：???:**
 Who am I? Isn't it obvious that I'm a healthy, diligent and hard-working doctor?
  
-*Choice Branch End*
+---
  
 **B：???:**
 Well, nice to meet you, Fujimaru. Didn't think I would run into you like this, but let me introduce myself again.
@@ -540,6 +608,8 @@ I don't know why, but it's easier to pronounce, so go ahead and call me Roman.
 Fact is, Roman has a nice ring to it, no?
 It sounds cool and vaguely sweet.
  
+---
+
 **Fujimaru 1:**
 Nice to meet you, Doctor.
  
@@ -547,6 +617,8 @@ Nice to meet you, Doctor.
 Yes, nice to meet you.
 I look forward to getting to know you.
  
+---
+
 **Fujimaru 2:**
 ...Oh, so you're the fluffy type?
  
@@ -554,7 +626,7 @@ I look forward to getting to know you.
 Fluffy? Oh, you mean my hair?
 I'm normally pretty busy so I just let it grow.
  
-*Choice Branch End*
+---
  
 **Fou:**
 ...
@@ -605,6 +677,8 @@ This is what they called a blessing in disguise right?
 **Dr. Roman:**
 Since we both have nowhere to go, why don't we spend some time and deepen our friendship!
 
+---
+
 **Fujimaru 1:**
 Sure. This is my room, anyhow.
  
@@ -612,13 +686,15 @@ Sure. This is my room, anyhow.
 Yeah. So that means I'm visiting a friend's room!
 Woo hoo! I've made a new friend!
  
+---
+
 **Fujimaru 2:**
 It's not like I'm a loner.
  
 **Dr. Roman:**
 Hey... You already have a friend even though you just got here... What a people person! I want in!
  
-*Choice Branch End*
+---
  
 **Dr. Roman:**
 ...So that's the structure of Chaldea. An underground workshop built on a snowy mountain 6,000 meters above sea level...
@@ -641,11 +717,17 @@ Why don't I give them some anesthesia?
 **Lev:**
 Yeah, hurry up, will you? If you're in the infirmary, then you can get here in two minutes.
  
+---
+
 **Fujimaru 1:**
 This isn't the infirmary, is it?
  
+---
+
 **Fujimaru 2:**
 ...but you're just hiding and slacking...
+
+---
  
 **Dr. Roman:**
 Whoa... Please don't mention that...
@@ -704,11 +786,17 @@ What on earth is happening?
 Monitor, show us the Command Room!
 Is everybody all right?
  
+---
+
 **Fujimaru 1:**
 ...So awful...
  
+---
+
 **Fujimaru 2:**
 ...Command Room? What about Mash?
+
+---
  
 **Dr. Roman:**
 What's this&mdash;
@@ -724,11 +812,17 @@ Get yourself out before it's too late!
 **Fou:**
 ...
  
+---
+
 **Fujimaru 1:**
 I can't just run away now...
  
+---
+
 **Fujimaru 2:**
 I know. Let's go save Mash!
+
+---
  
 **Fou:**
 Fou!
@@ -791,17 +885,25 @@ Singularity's additional factor slot secured.
 Unsummon Program set.
 Please start final adjustments.
  
+---
+
 **Fujimaru 1:**
 ...Something's wrong. Got to hurry back...
  
+---
+
 **Fujimaru 2:**
 ...I should look for survivors till the last minute...
+
+---
  
 **Fujimaru:**
 !!!
  
 **Mash:**
 ...Oh.
+
+---
 
 **Fujimaru 1:**
 ...Hang in there, I'll get you out now!
@@ -810,6 +912,8 @@ Please start final adjustments.
 ...It's all...right. You can't...save...me.
 Don't mind me, please... Run.
  
+---
+
 **Fujimaru 2:**
 (With those wounds, she's...)
  
@@ -817,7 +921,7 @@ Don't mind me, please... Run.
 ...That's right, thank you... For your understanding.
 Please Fujimaru, you need to...get out of here.
  
-*Choice Branch End*
+---
  
 **Fujimaru:**
 !?
@@ -851,9 +955,13 @@ Central Area, sealed.
 ...they, shut off, the area.
 ...Now, we can't, get out.
  
+---
+
 **Fujimaru 1:**
 ...That's right. We're in the same boat now.
  
+---
+
 **Fujimaru 2:**
 ...We'll figure it out.
  
@@ -904,11 +1012,17 @@ Kyuu.
 Fou...
 Fou... Fou...
  
+---
+
 **Fujimaru 1:**
 ...This sound...
  
+---
+
 **Fujimaru 2:**
 ...It's like something licked my cheek again...
+
+---
  
 **???:**
 Senpai.
@@ -929,6 +1043,8 @@ If you don't wake up, I will kill you.
 Thank goodness you're awake now, Senpai!
 I'm so glad you're safe.
 
+---
+
 **Fujimaru 1:**
 Mash, are you okay?
  
@@ -936,6 +1052,8 @@ Mash, are you okay?
 ...I'll explain later.
 First, take a look around you, please.
  
+---
+
 **Fujimaru 2:**
 Did you just say, "I will kill you?"
  
@@ -946,7 +1064,7 @@ What I meant to say was, "you're going to be killed."
 **Mash:**
 Um, I was confused because everything happened so quickly. As much as I want to gather our thoughts, please look around you.
  
-*Choice Branch End*
+---
  
 **???:**
 Gi&mdash;GAAAAAAAAAAAA!
@@ -969,6 +1087,8 @@ I had my worries, but we made it somehow.
 Are you hurt Senpai?
 Does your stomach hurt, or does it feel heavy?
 
+---
+
 **Fujimaru 1:**
 What was that?
  
@@ -979,6 +1099,8 @@ Something that doesn't exist in our era, let alone this era.
 **Mash:**
 That was the cause of the Singularity, or something like it. I guess calling it that isn't too far off, or maybe it is.
  
+---
+
 **Fujimaru 2:**
 Mash, you're that powerful?
  
@@ -989,7 +1111,7 @@ I couldn't even do a pull-up.
 **Mash:**
 The reason I was able to fight like that just now&mdash;
  
-*Choice Branch End*
+---
  
 **Dr. Roman:**
 Right, I finally got through! Hello?
@@ -1122,11 +1244,17 @@ I'm still analyzing the data, but it's indicating that Mash has become your Serv
 **Dr. Roman:**
 Meaning that you're Mash's Master. She's the first Heroic Spirit you've entered a contract with.
  
+---
+
 **Fujimaru 1:**
 I'm Mash's Master?
  
+---
+
 **Fujimaru 2:**
 Uh, I can't keep up with what you're saying...
+
+---
  
 **Dr. Roman:**
 Right, I don't blame you for being confused. I never explained what Masters and Servants are to you, anyway.
@@ -1156,6 +1284,8 @@ I'll try to bring the power back up as soon as&mdash;
 **Mash:**
 ...
 
+---
+
 **Fujimaru 1:**
 The connection got cut off.
  
@@ -1163,6 +1293,8 @@ The connection got cut off.
 Well, that's the Doctor for you.
 You can't rely on him in situations like this.
  
+---
+
 **Fujimaru 2:**
 It can't be helped, let's get going.
  
@@ -1170,7 +1302,7 @@ It can't be helped, let's get going.
 Right, you're so dependable Senpai.
 I was actually terrified, so thank goodness.
  
-*Choice Branch End*
+---
  
 **Fou:**
 Kyu.
@@ -1190,8 +1322,12 @@ Apparently, Fou Rayshifted here with you Senpai.
 Kyu.
 Fou, kyaao!
  
+---
+
 **Fujimaru 1:**
 He said, "don't worry about that guy."
+
+---
  
 **Mash:**
 You're right.
@@ -1221,11 +1357,17 @@ In fact, it's a lot like ancient Earth...
 **???:**
 Kyaaaaaaaaaaaaa!!!
  
+---
+
 **Fujimaru 1:**
 What was that scream?
  
+---
+
 **Fujimaru 2:**
 I'm getting a bad feeling.
+
+---
  
 **Mash:**
 It was a woman's scream for sure.
@@ -1281,11 +1423,17 @@ Only first-class Mages can enter contracts with Servants!
 There's no way you could ever become a Master!
 What did you do to her to have her do your bidding?
  
+---
+
 **Fujimaru 1:**
 You are way off base!
  
+---
+
 **Fujimaru 2:**
 Well, don't look at me...
+
+---
  
 **Mash:**
 There's a misunderstanding, Director.
@@ -1334,6 +1482,8 @@ We're the only ones here.
 **Mash:**
 I see. That's why you're the director.
  
+---
+
 **Fujimaru 1:**
 You can be reliable when you're calm, I see.
  
@@ -1341,13 +1491,15 @@ You can be reliable when you're calm, I see.
 What's that supposed to mean?
 Are you saying I'm not usually calm?
  
+---
+
 **Fujimaru 2:**
 Huh? You weren't planning to shift, Director?
  
 **Olga Marie:**
 ...Is that a problem? What commander heads to the front lines? Didn't I tell you that you were my tools?
  
-*Choice Branch End*
+---
  
 **Olga Marie:**
 ...Hmmph, whatever.
@@ -1382,13 +1534,17 @@ Mash, place your shield on the ground. I'm going to set up a summoning circle, w
 ...So she says.
 Are you all right with that, Senpai?
  
+---
+
 **Fujimaru 1:**
 Sure, go ahead and do it.
  
+---
+
 **Fujimaru 2:**
 I'm not about letting go of the weapon.
  
-*Choice Branch End*
+---
  
 **Mash:**
 ...Understood.
@@ -1526,13 +1682,17 @@ That said, since my field staff is inexperienced, the extent of this mission wil
 **Olga Marie:**
 Analysis and eradication will have to wait until after Chaldea's restored, and I can send in a second team. You okay with that?
  
+---
+
 **Fujimaru 1:**
 Only discover it?
  
+---
+
 **Fujimaru 2:**
 That would be nice and easy.
  
-*Choice Branch End*
+---
  
 **Dr. Roman:**
 Roger that. Best of luck to you, Director.
@@ -1581,13 +1741,17 @@ Come on, let's explore this town. The cause of this twisted history must be here
 Stop. Before we start exploring the city,
 Fujimaru, isn't there something you want to say to me?
  
+---
+
 **Fujimaru 1:**
 No, nothing in particular.
  
+---
+
 **Fujimaru 2:**
 Yeah, nothing in particular.
  
-*Choice Branch End*
+---
  
 **Olga Marie:**
 ...You're not very smart are you?
@@ -1661,13 +1825,17 @@ You're all mere tools to protect humanity, nothing more.
 You there. The one who came in late.
 Do you have a problem with what I just said?
  
+---
+
 **Fujimaru 1:**
 ...
  
+---
+
 **Fujimaru 2:**
 ...Yawn.
  
-*Choice Branch End*
+---
  
 **Olga Marie:**
 Uh... Am I seeing this right?
@@ -1723,13 +1891,17 @@ Are you listening? Today is&mdash;
 **Mash:**
 Do you remember now, Senpai?
  
+---
+
 **Fujimaru 1:**
 ...Vaguely, I guess.
  
+---
+
 **Fujimaru 2:**
 ...In a way.
  
-*Choice Branch End*
+---
  
 **Olga Marie:**
 Remembered... You weren't really listening after all, were you?
@@ -1745,13 +1917,17 @@ Listen up! We at Chaldea&mdash;
 Director, leave that for later.
 Enemies are incoming!
  
+---
+
 **Fujimaru 1:**
 All right! Good timing!
  
+---
+
 **Fujimaru 2:**
 Let's go, Mash!
  
-*Choice Branch End*
+---
  
 **Olga Marie:**
 Hey, come back here!
@@ -1778,13 +1954,17 @@ In fact, it's the latter half that's important!
 Make yourself remember!
 Make...your...self...re...mem...ber!
  
+---
+
 **Fujimaru 1:**
 ...Guess I have no choice.
  
+---
+
 **Fujimaru 2:**
 ...What a piece of work.
  
-*Choice Branch End*
+---
  
 **Dr. Roman:**
 Now, now, don't be like that. Director's ramblings can be useful, Fujimaru.
@@ -1992,13 +2172,17 @@ Hey you, the one who was late!
 You look confused.
 I'll give you the chance to ask one question.
  
+---
+
 **Fujimaru 1:**
 Is time travel possible?
  
+---
+
 **Fujimaru 2:**
 Is it safe to change the past?
  
-*Choice Branch End*
+---
  
 **Olga Marie:**
 ...
@@ -2090,6 +2274,8 @@ I'm busy with the Rayshift experiment and can't.
 Don't worry. This experiment will be over in 2 hours.
 I'll drop by your room then.
  
+---
+
 **Fujimaru 1:**
 Thank you.
  
@@ -2097,6 +2283,8 @@ Thank you.
 No need to thank me.
 You're really lucky, after all.
  
+---
+
 **Fujimaru 2:**
 ...
  
@@ -2107,7 +2295,7 @@ Do you know each other from somewhere?
 **Lev:**
 Not at all. I was just thinking things like eternal rivals and fated encounters are very important.
  
-*Choice Branch End*
+---
  
 **Mash:**
 Come this way.
@@ -2116,13 +2304,17 @@ I'll show you to your room.
 **Mash:**
 And that's how you were removed from the Command Room. Remember?
  
+---
+
 **Fujimaru 1:**
 I see.
  
+---
+
 **Fujimaru 2:**
 Got it.
  
-*Choice Branch End*
+---
  
 **Olga Marie:**
 You little...
@@ -2156,12 +2348,16 @@ Anyway, you understand your responsibilities and duties as a Master candidate no
 Very well, Fujimaru.
 I'm ordering you to be my bodyguard. Work hard.
  
+---
+
 **Fujimaru 1:**
 Aye-aye, oh great Director Marie!
  
 **Olga Marie:**
 W-What? That's creepy. F-Flattery will get you nowhere!
  
+---
+
 **Fujimaru 2:**
 ...Are you trying to be someone you're not?
  
@@ -2169,7 +2365,7 @@ W-What? That's creepy. F-Flattery will get you nowhere!
 This is who I am! I was just in a hurry back there!
 Once we get back to Chaldea, you're in for it.
  
-*Choice Branch End*
+---
  
 **Mash:**
 ...Good to see you two getting along.
@@ -2180,6 +2376,8 @@ Let's move before more enemies show up.
 **Olga Marie:**
 By the way, the type of being we call Servants, you know what they are, don't you?
  
+---
+
 **Fujimaru 1:**
 I have no idea.
  
@@ -2216,13 +2414,15 @@ My cells are not agreeing with what you just said.
 **Olga Marie:**
 Hmph. Meaning the Servant you fused with must be an Earth-type Heroic Spirit.
  
+---
+
 **Fujimaru 2:**
 I do have some basic knowledge.
  
 **Olga Marie:**
 Glad to hear it. Now I won't have to explain rudimentary things like what a Heroic Spirit is.
  
-*Choice Branch End*
+---
  
 **Olga Marie:**
 Servants are heroes of the past made into familiars.
@@ -2285,13 +2485,17 @@ I-I'll be hiding over here!
 I can feel the tension across the screen...
 The Director is grumpy as usual.
  
+---
+
 **Fujimaru 1:**
 She's not just grumpy, she's a total crank.
  
+---
+
 **Fujimaru 2:**
 Why is she always so mad?
  
-*Choice Branch End*
+---
  
 **Mash:**
 Well, I can feel some sympathy for the Director's ill temper.
@@ -2299,13 +2503,17 @@ Well, I can feel some sympathy for the Director's ill temper.
 **Mash:**
 Excuse me, but Fujimaru Senpai, there's too much about Chaldea you don't know.
  
+---
+
 **Fujimaru 1:**
 Y-You really think so?
  
+---
+
 **Fujimaru 2:**
 Well, I admit I came here clueless...
  
-*Choice Branch End*
+---
  
 **Mash:**
 I really don't know what to do with you.
@@ -2317,13 +2525,17 @@ It's like you're a lost little kitty.
 **Mash:**
 It's been about two years since I started here, and I still don't get it. I kind of sneaked in. Almost like an alligator.
  
+---
+
 **Fujimaru 1:**
 I-Is that right?
  
+---
+
 **Fujimaru 2:**
 True, alligators have no clue.
  
-*Choice Branch End*
+---
  
 **Mash:**
 Yes, I've learned as much as I can from the database.
@@ -2342,13 +2554,17 @@ They watch a world that magecraft couldn't observe, and science couldn't measure
 **Mash:**
 We're a special organization with national support, created to prevent humanity from reaching a "bad end."
  
+---
+
 **Fujimaru 1:**
 You sure know a lot, Mash.
  
+---
+
 **Fujimaru 2:**
 Yeah, I figured.
  
-*Choice Branch End*
+---
  
 **Mash:**
 Anyway, that's pretty much it.
@@ -2464,6 +2680,8 @@ She's worked herself so hard, I'd like her to come for counseling, but with how 
 **Dr. Roman:**
 In any event, she's been emotionally stretched to the limit. She doesn't hate you, or anything like that.
  
+---
+
 **Fujimaru 1:**
 I know. Director Marie isn't an evil person.
  
@@ -2474,6 +2692,8 @@ But you know she is evil, right?
 **Dr. Roman:**
 She isn't cruel, nefarious, and dishonest, that I can promise you. She's just a rather serious person.
  
+---
+
 **Fujimaru 2:**
 I was just having fun.
  
@@ -2487,7 +2707,7 @@ The Director wasn't allowed to go out much growing up, so everything she says is
 But make sure you don't say that in front of her.
 She'll just hate you more.
  
-*Choice Branch End*
+---
  
 **Dr. Roman:**
 Anyhow, you're the only three I can trust right now.
@@ -2589,12 +2809,16 @@ Somewhere here is the reason history has been disturbed.
 **Olga Marie:**
 Once we analyze and eliminate it, that will complete our mission. All of us will be able to return to the present.
  
+---
+
 **Fujimaru 1:**
 I see. Got it.
  
 **Mash:**
 Anyway, although we're not sure what's going on, it's good that the mission is simple.
  
+---
+
 **Fujimaru 2:**
 Heroic Spirits were summoned at Chaldea?
  
@@ -2617,7 +2841,7 @@ And, well, you know the third.
 The weirdo that now lives in Chaldea.
 Leonardo da Vinci.
  
-*Choice Branch End*
+---
  
 **???:**
 GuOOOOOOO!!!!!!
@@ -2632,13 +2856,17 @@ Get rid of them, Mash, Fujimaru!
 ...Phew, the battle is over Master.
 I'm relieved that we pulled through again.
  
+---
+
 **Fujimaru 1:**
 Good work, Mash.
  
+---
+
 **Fujimaru 2:**
 Thank you, Mash.
  
-*Choice Branch End*
+---
  
 **Mash:**
 ...Yes.
@@ -2706,6 +2934,8 @@ Once we get Chaldea's Rayshift capability back online, we're going to shift a fi
 **Olga Marie:**
 Then you're fired. Newbies with no combat experience can spend their time terrified in some corner in Chaldea.
  
+---
+
 **Fujimaru 1:**
 Weren't you the one scared, Director Marie?
  
@@ -2713,6 +2943,8 @@ Weren't you the one scared, Director Marie?
 I wasn't! Not in the least!
 You should be respectful to your elders!
  
+---
+
 **Fujimaru 2:**
 Could it be that you're worried about me?
  
@@ -2720,7 +2952,7 @@ Could it be that you're worried about me?
 O-Of course! You're our only fighting force here!
 If you get taken out, who's going to fight?
  
-*Choice Branch End*
+---
  
 **Mash:**
 ...Anyway, I'm glad you two understand each other better now. Let's move before any more of them show up.
@@ -2752,13 +2984,17 @@ Hey Fujimaru, looks like it's safe over there. Why don't you rest a bit?
 I agree with you, Doctor.
 Senpai, would you like some rations?
  
+---
+
 **Fujimaru 1:**
 Thanks. Aren't you tired, Mash?
  
+---
+
 **Fujimaru 2:**
 Sure, but how are you, Mash?
  
-*Choice Branch End*
+---
  
 **Mash:**
 Tired? Are you asking if I've been having any problems since I became a Servant?
@@ -2767,6 +3003,8 @@ Tired? Are you asking if I've been having any problems since I became a Servant?
 ...Well, for the most part.
 It's scary to fight, but I'm doing fine otherwise.
  
+---
+
 **Fujimaru 1:**
 Are you okay with me being your Master?
  
@@ -2774,6 +3012,8 @@ Are you okay with me being your Master?
 Of course.
 I think you might've been the best Master this summer.
  
+---
+
 **Fujimaru 2:**
 Any complaints since you've become a Servant?
  
@@ -2790,7 +3030,7 @@ No matter how strong you might be, your existence essentially depends on having 
 **Mash:**
 ...The risk and reward makes sense here. But I can't be too happy when I think of the burden I'm putting on you.
  
-*Choice Branch End*
+---
  
 **Dr. Roman:**
 &mdash;! That's enough rest!
@@ -2896,13 +3136,17 @@ Servant's signal confirmed, it's an Assassin-class Servant!
 I can fight!
 Senpai, please give me your orders!
  
+---
+
 **Fujimaru 1:**
 All right, I'll have us win no matter what!
  
+---
+
 **Fujimaru 2:**
 Sorry, just bear with us a little longer!
  
-*Choice Branch End*
+---
  
 **Mash:**
 &mdash;Okay.
@@ -2917,13 +3161,17 @@ All right&mdash;How about that!
 &mdash;This is a waste of time.
 I could have handled this on my own.
  
+---
+
 **Fujimaru 1:**
 ...What does that mean?
  
+---
+
 **Fujimaru 2:**
 ...Mash, fall back!
  
-*Choice Branch End*
+---
  
 **Dr. Roman:**
 Fujimaru, they've caught up!
@@ -2954,6 +3202,8 @@ Fou! Fou!
 **Dr. Roman:**
 Dammit, they both let fear get to them... Give your orders, Fujimaru! You're the only calm one now!
  
+---
+
 **Fujimaru 1:**
 ...We've got to run for now!
  
@@ -2969,6 +3219,8 @@ Ugh...
 **G：Servant:**
 This is fun! I want to kill! Yes, run!
  
+---
+
 **Fujimaru 2:**
 We have no choice but to fight!
  
@@ -2996,7 +3248,7 @@ Ha&mdash; You've just killed yourself, girl!
 **???:**
 I thought you were just some girl, but it looks like you've got some fight in you. Then I can't leave you like this.
  
-*Choice Branch End*
+---
  
 **F：Servant:**
 Ugh! Who are you?
@@ -3066,13 +3318,17 @@ I have no idea what class you are, but you're pretty sturdy... Maybe Saber? No, 
 **Olga Marie:**
 ...Hey Fujimaru, what did you think of that?
  
+---
+
 **Fujimaru 1:**
 Without a doubt, he's an old pervert.
  
+---
+
 **Fujimaru 2:**
 ...He's an ally, maybe?
  
-*Choice Branch End*
+---
  
 **Dr. Roman:**
 For now, let's get some information.
@@ -3177,13 +3433,17 @@ I could've finished off Saber with just one strike.
 Man, Caster is just not for me.
 I don't like being a Caster in a Holy Grail War like this.
  
+---
+
 **Fujimaru 1:**
 If you were a Lancer?
  
+---
+
 **Fujimaru 2:**
 Is it hard being a Caster?
  
-*Choice Branch End*
+---
  
 **Mash:**
 It's been known to happen, Senpai. Some Heroic Spirits have the attributes of multiple classes.
@@ -3288,6 +3548,8 @@ It's pretty obvious that Kyrielight's looking depressed.
 You are her Master, aren't you?
 Do something to cheer her up!
  
+---
+
 **Fujimaru 1:**
 Mash, is something wrong?
  
@@ -3298,13 +3560,15 @@ I'm operating perfectly, Master!
 **Mash:**
 But that's the problem, nothing's different...
  
+---
+
 **Fujimaru 2:**
 Could it be...
  
 **Mash:**
 Yes. I'm ashamed to be the one to say this, but...
  
-*Choice Branch End*
+---
  
 **Mash:**
 Um, under your command Senpai, I have gained enough experience...
@@ -3365,13 +3629,17 @@ Well, at any rate, I see you have enthusiasm.
 Fujimaru, you heard the young lady.
 Do you mind if we take a quick detour?
  
+---
+
 **Fujimaru 1:**
 Detour? What kind?
  
+---
+
 **Fujimaru 2:**
 Don't tease Mash. She's an innocent girl.
  
-*Choice Branch End*
+---
  
 **Caster:**
 What? I'm just talking about special training. It won't take long. I'm a Caster right now, so leave the healing to me.
@@ -3406,13 +3674,17 @@ To put it simply, a Noble Phantasm is part of a Heroic Spirit's instinct. It's h
 **Caster:**
 Therefore, you must first use up all of your energy, young lady! Man, I'm a genius!
  
+---
+
 **Fujimaru 1:**
 That isn't a cure, that's an extreme measure!
  
+---
+
 **Fujimaru 2:**
 Maybe you're an idiot?
  
-*Choice Branch End*
+---
  
 **--BATTLE--**
  
@@ -3509,13 +3781,17 @@ That young lady there is without question, a first-rate Heroic Spirit.
 **Mash:**
 Senpai, I... just now!
  
+---
+
 **Fujimaru 1:**
 Right. Congratulations, Mash.
  
+---
+
 **Fujimaru 2:**
 Yeah. That was amazing, Mash.
  
-*Choice Branch End*
+---
  
 **Mash:**
 !!
@@ -3723,6 +3999,8 @@ and just do what you need to do.
 Time for the Greater Grail. This will be our last break.
 Is there anything you've left undone?
  
+---
+
 **Fujimaru 1:**
 No, I'm ready.
  
@@ -3738,6 +4016,8 @@ The divine luck to grasp fate, and the ability to make decisions.
 **Caster:**
 Don't forget how to be reckless. People like that are the ones who'll get blessed by the stars.
  
+---
+
 **Fujimaru 2:**
 Can we go back to the base first?
  
@@ -3745,7 +4025,7 @@ Can we go back to the base first?
 If it's necessary, then by all means go back.
 We're attacking a bear in its hole, so we need plenty of supplies.
  
-*Choice Branch End*
+---
  
 **Olga Marie:**
 I don't know what you're talking about. Whether we forge ahead or go back, we need to rest first.
@@ -3786,9 +4066,13 @@ I just happened to have them. Citrus is effective against headaches. But that as
 ...
 ...
  
+---
+
 **Fujimaru 1:**
 Um, what is it, Director?
  
+---
+
 **Fujimaru 2:**
 Would you like seconds, Director?
  
@@ -3799,7 +4083,7 @@ No, I'm full! But from now on, remember that I like coffee more than tea!
 N-No, that's not it.
 That's not what I wanted to... Oh, forget it!
  
-*Choice Branch End*
+---
  
 **Olga Marie:**
 Th-The work you've done so far, has been passable.
@@ -3929,13 +4213,17 @@ This sword shall test the truth of your shield.
 **Mash:**
 Here she comes&mdash;Master!
  
+---
+
 **Fujimaru 1:**
 Yeah, let's fight together!
  
+---
+
 **Fujimaru 2:**
 Yeah, no way are we gonna lose this!
  
-*Choice Branch End*
+---
  
 **Mash:**
 Yes! Mash Kyrielight, here I come!
@@ -3983,13 +4271,17 @@ Yes, you did a fine job, Mash, Fujimaru! The Director must be so pleased... Hey,
 Grand Order...
 How did that Servant know that name?
  
+---
+
 **Fujimaru 1:**
 Orders please, Director Marie.
  
+---
+
 **Fujimaru 2:**
 ...Is something the matter?
  
-*Choice Branch End*
+---
  
 **Olga Marie:**
 Huh? O-Oh, right.
@@ -4201,13 +4493,17 @@ I haven't even accomplished anything yet!
 From the moment I was born,
 I've never been accepted by anyone&mdash;!
  
+---
+
 **Fujimaru 1:**
 Director!
  
+---
+
 **Fujimaru 2:**
 ...It's too late, we can't make it...
  
-*Choice Branch End*
+---
  
 **Fujimaru:**
 !!!
@@ -4337,13 +4633,17 @@ If we don't lose that, I might salvage&mdash;
 **Mash:**
 We won't make it!
  
+---
+
 **Fujimaru 1:**
 Mash, this way!
  
+---
+
 **Fujimaru 2:**
 Mash, you at least...
  
-*Choice Branch End*
+---
  
 **Mash:**
 Senpai, your hand!
@@ -4368,13 +4668,17 @@ There, there, that's how a main character should be.
 Good morning Fujimaru.
 You're conscious now?
  
+---
+
 **Fujimaru 1:**
 Where...
  
+---
+
 **Fujimaru 2:**
 Who are you?
  
-*Choice Branch End*
+---
  
 **???:**
 Hm, you're not thinking straight yet?
@@ -4391,13 +4695,17 @@ Or perhaps the third summoned Heroic Spirit.
 Anyway, we'll talk later.
 Somebody's waiting for you, go to the command room.
  
+---
+
 **Fujimaru 1:**
 Someone's waiting?
  
+---
+
 **Fujimaru 2:**
 Is it the doctor?
  
-*Choice Branch End*
+---
  
 **Da Vinci:**
 Roman?
@@ -4428,6 +4736,8 @@ You've been given a role to fight, not as a hero, but as a human walking a path 
 Good morning, Senpai.
 I am glad to see that you're okay.
  
+---
+
 **Fujimaru 1:**
 Good morning. Thank you, Mash.
  
@@ -4435,13 +4745,15 @@ Good morning. Thank you, Mash.
 I should be the one thanking you.
 I was able to stay conscious, thanks to you.
  
+---
+
 **Fujimaru 2:**
 Good morning. You were saved, Mash?
  
 **Mash:**
 Yes, thanks to you holding my hand. I now believe that saying "what happens twice will happen thrice."
  
-*Choice Branch End*
+---
  
 **Dr. Roman:**
 Ahem. I'm all for your reunion, but could you bring your attention here, please.
@@ -4459,16 +4771,20 @@ Thanks to you, Mash and Chaldea were saved.
 **Dr. Roman:**
 It's a shame about the Director, but we've no time to hold a service. All we can do is grieve.
  
+---
+
 **Fujimaru 1:**
 ...
  
+---
+
 **Fujimaru 2:**
 If I survived, then maybe the Director...
  
 **Dr. Roman:**
 ...
  
-*Choice Branch End*
+---
  
 **Dr. Roman:**
 Listen. We must defend humanity in the Director's place. That's how we pay her tribute.
@@ -4490,13 +4806,17 @@ Chaldea seems to be the only place outside of the normal timeline. Perhaps it's 
 **Dr. Roman:**
 Think of it like a colony floating in space. The outside world is dead, until we do something about this situation.
  
+---
+
 **Fujimaru 1:**
 Can we even do it?
  
+---
+
 **Fujimaru 2:**
 Is there something we can do?
  
-*Choice Branch End*
+---
  
 **Dr. Roman:**
 Of course. First, I want you to see this.
@@ -4586,13 +4906,17 @@ Then you alone must go and face these seven singularities in human history.
 **Dr. Roman:**
 Are you prepared to do this? Can you shoulder the burden of Chaldea and humanity's future?
  
+---
+
 **Fujimaru 1:**
 Of course.
  
+---
+
 **Fujimaru 2:**
 If it's something I can do.
  
-*Choice Branch End*
+---
  
 **Dr. Roman:**
 &mdash;Thank you.
@@ -4627,4 +4951,3 @@ The Grand Order!
 **Dr. Roman:**
 In the name of the magical world's highest order.
 We will take back the future!
-</div>
