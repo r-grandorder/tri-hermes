@@ -19,10 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Main Story]()
-
-	* # Fuyuki
-	* [Fuyuki](pages/fuyuki.md)
+[Main Story](pages/story)
 [About](pages/about.md)
 [Feedback](pages/feedback.md)
 
