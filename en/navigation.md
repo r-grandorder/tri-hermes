@@ -19,7 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Main Story](pages/story)
+[Main Story](pages/story.md)
 [About](pages/about.md)
 [Feedback](pages/feedback.md)
 
