@@ -1,4 +1,4 @@
-# Cosmos in the Lostbelt 3.5: Tokugawa Kaiten Labyrinth - Ooku
+#Cosmos in the Lostbelt 3.5: Tokugawa Kaiten Labyrinth - Ooku
 
 ## Prologue
  
@@ -8,7 +8,7 @@ Here you go, Senpai. I decided to try herbal tea today. What do you think?
 ---
 
 **Fujimaru 1:**
-It smells great.|
+It smells great.
 
 ---
 
@@ -48,7 +48,7 @@ Hehe. You know, having proper tea together like this again...
 ---
 
 **Fujimaru 1:**
-...Me too.|
+...Me too.
 
 ---
 
@@ -59,7 +59,7 @@ I know things are completely different now,so I shouldn't be feeling sorry for m
 ---
 
 **Fujimaru 1:**
-They say it's important to rest up when you can.|
+They say it's important to rest up when you can.
  
 
 ---
@@ -92,7 +92,7 @@ As much as we'd like to help,it's all just way above our heads.
 ---
 
 **Fujimaru 1:**
-I wonder how it's coming along.|
+I wonder how it's coming along.
 
 ---
 
@@ -115,7 +115,7 @@ At any rate, they also said that there's a crucial part they need for the modifi
 ---
 
 **Fujimaru 1:**
-I wonder what that's all about?|
+I wonder what that's all about?
 
 ---
 
@@ -141,7 +141,7 @@ Still, Captain did say it looks like they should be finishing this stage fairly 
 ---
 
 **Fujimaru 1:**
-Then let's recuperate until it's our turn to help.|
+Then let's recuperate until it's our turn to help.
 
 ---
 
@@ -182,7 +182,7 @@ If you are there, give me some sort of response! Even an empty message will do! 
 ---
 
 **Fujimaru 1:**
-I-I'm here, I'm here!|
+I-I'm here, I'm here!
  
 **B：Sion:**
 Great! Is Mash there with you too? Good, then we are still hanging in there by the skin of our teeth!
@@ -257,7 +257,7 @@ To think the only ones I could help in time were you two and myself, especially 
 ---
 
 **Fujimaru 1:**
-Sion?|
+Sion?
 
 ---
 
@@ -291,7 +291,7 @@ Whether this is due to external interference or internal sabotage, there is clea
 ---
 
 **Fujimaru 1:**
-Everyone's...gone...?|
+Everyone's...gone...?
 
 ---
 
@@ -365,7 +365,7 @@ And I would guess that all of Chaldea's staff and Servants are as well.
 ---
 
 **Fujimaru 1:**
-Are they okay!?|
+Are they okay!?
  
 
 ---
@@ -413,7 +413,7 @@ Then...there's still a chance we can save them?
 ---
 
 **Fujimaru 1:**
-Since they Rayshifted...does that mean you know where they went?|
+Since they Rayshifted...does that mean you know where they went?
 
 ---
 
@@ -469,7 +469,7 @@ I think the most appropriate name we could give it in these specific conditions 
 ---
 
 **Fujimaru 1:**
-...So this is a Singularity unlike any other we've seen...|
+...So this is a Singularity unlike any other we've seen...
  
 
 ---
@@ -502,7 +502,7 @@ From there, we need to find whoever or whatever's behind this, defeat them, and 
 ---
 
 **Fujimaru 1:**
-Hang on, Holmes. Hang in there, Da Vinci...!|
+Hang on, Holmes. Hang in there, Da Vinci...!
 
 ---
 
@@ -551,7 +551,7 @@ Yes, I do understand your concerns.But look at Fujimaru.
 ---
 
 **Fujimaru 1:**
-I'll admit, the idea of going there alone is terrifying...|
+I'll admit, the idea of going there alone is terrifying...
  
 
 ---
@@ -560,7 +560,7 @@ I'll admit, the idea of going there alone is terrifying...|
 ---
 
 **Fujimaru 1:**
-But that's just as true for everyone else, too.|
+But that's just as true for everyone else, too.
  
 
 ---
@@ -584,7 +584,7 @@ As long as you can get past the first hurdle, I am sure you will be able to move
 ---
 
 **Fujimaru 1:**
-Wait. What first hurdle?|
+Wait. What first hurdle?
 
 ---
 
@@ -598,7 +598,7 @@ I think they call it “burei-uchi”? Gosh, imagine a society where you cannot 
 ---
 
 **Fujimaru 1:**
-That doesn't sound reasonable at all!!!|
+That doesn't sound reasonable at all!!!
  
 
 ---
@@ -625,7 +625,7 @@ So, you are going to Japan? Then I will come with you. When do we leave?
 ---
 
 **Fujimaru 1:**
-Sessyoin...|
+Sessyoin...
  
 **Sessyoin Kiara:**
 Yes, it is I. Your faithful Servant, Sessyoin Kiara.
@@ -685,7 +685,7 @@ I couldn't have asked for anyone better right now! When did you summon her, Senp
 ---
 
 **Fujimaru 1:**
-(...Come to think of it, when DID I summon her?)|
+(...Come to think of it, when DID I summon her?)
 
 ---
 
@@ -701,7 +701,7 @@ Um... You are sure we can trust her, right?
 ---
 
 **Fujimaru 1:**
-Of course. Though I couldn't tell you why!|
+Of course. Though I couldn't tell you why!
 
 ---
 
@@ -801,7 +801,7 @@ I am sorry I cannot give you more time to prepare before you leave, Fujimaru, bu
 ---
 
 **Fujimaru 1:**
-That's okay! I'm ready!|
+That's okay! I'm ready!
 
 ---
 
@@ -869,7 +869,7 @@ So if you find something like that here too,you may need to take it into custody
 ---
 
 **Fujimaru 1:**
-No problem. Been there, done that, got the Mystic Code.|
+No problem. Been there, done that, got the Mystic Code.
 
 ---
 
@@ -915,7 +915,7 @@ So I hope you understand that this Rayshift is a crucial trial for all of us at 
 ---
 
 **Fujimaru 1:**
-Roger that!|
+Roger that!
 
 ---
 
@@ -931,16 +931,16 @@ Good! Then as this Rayshift's supervisor, I hereby declare that this emergency d
 **Mash:**
 Master... Please be careful over there!
  
-**P.A. System</b>
+**P.A. System**
 Starting Unsummon Program.Commencing Spiritron Conversion.</span>
  
-**P.A. System</b>
+**P.A. System**
 Rayshift begins in 3...2...1...</span>
  
-**P.A. System</b>
+**P.A. System**
 All systems are go.</span>
  
-**P.A. System</b>
+**P.A. System**
 Proving Urgent Order.Initiating Counter Order operations.</span>
  
 **--ARROW--:**
@@ -989,7 +989,7 @@ So that was a Rayshift... How novel. It's quite a different Mystic, and even exp
 ---
 
 **Fujimaru 1:**
-What is this place...?|
+What is this place...?
 
 ---
 
@@ -1030,7 +1030,7 @@ Please rendezvous with them first. Once they've joined you, you can start gather
 ---
 
 **Fujimaru 1:**
-Roger that!|
+Roger that!
  
 
 ---
@@ -1066,7 +1066,7 @@ Oh yes, she must be wonderfully strong-willed! We had better help her before thi
 ---
 
 **Fujimaru 1:**
-Hey Par, it's me, Fujimaru!|
+Hey Par, it's me, Fujimaru!
 
 ---
 
@@ -1091,7 +1091,7 @@ I am not the Indian goddess Pārvatī.
 ---
 
 **Fujimaru 1:**
-Th-then, who are you?|
+Th-then, who are you?
  
 
 ---
@@ -1121,7 +1121,7 @@ My surname is Saito, my given name, Fuku. Now, I go by the name bestowed upon me
 ---
 
 **Fujimaru 1:**
-Say whaaaaaat!?|
+Say whaaaaaat!?
 
 ---
 
@@ -1150,7 +1150,7 @@ For a while, I was a little worried how this would all turn out, but I feel much
 ---
 
 **Fujimaru 1:**
-Wait. What? Huh!?|
+Wait. What? Huh!?
 
 ---
 
@@ -1322,7 +1322,7 @@ Coincidence...? Definitely not!This is all clearly connected!
 ---
 
 **Fujimaru 1:**
-It is?|
+It is?
  
 **Sessyoin Kiara:**
 I don't know. I'm afraid this is all beyond me.
@@ -1367,7 +1367,7 @@ So, no, I didn't exactly get a good look at it...but I'm positive there's someth
 ---
 
 **Fujimaru 1:**
-Then let's go take a look right now.|
+Then let's go take a look right now.
 
 ---
 
@@ -1404,7 +1404,7 @@ Pitiful, just pitiful! Exactly the sort of cowardly move I would expect from ple
 ---
 
 **Fujimaru 1:**
-I-is that...!?|
+I-is that...!?
 
 ---
 
@@ -1424,7 +1424,7 @@ I do not recall giving you permission to speak!Now lower your heads in my presen
 ---
 
 **Fujimaru 1:**
-D-director...?|
+D-director...?
 
 ---
 
@@ -1458,7 +1458,7 @@ But all right, you listen to me.I am Tokugawa Goredolf, the great shogun!
 ---
 
 **Fujimaru 1:**
-(Speechless)|
+(Speechless)
  
 
 ---
@@ -1512,7 +1512,7 @@ Trust me, you'll find all manner of happiness inside the Ooku. And it's fun, too
 ---
 
 **Fujimaru 1:**
-What was that all about...?|
+What was that all about...?
 
 ---
 
@@ -1532,7 +1532,7 @@ Which can only mean that he has been brainwashed.
 ---
 
 **Fujimaru 1:**
-I thought he was one of those really distinguished mages?|
+I thought he was one of those really distinguished mages?
 
 ---
 
@@ -1581,7 +1581,7 @@ He could then use his director security clearance to disable all of the Command 
 ---
 
 **Fujimaru 1:**
-...What a simple attack.|
+...What a simple attack.
 
 ---
 
@@ -1634,7 +1634,7 @@ He might not be the only one trapped in the Ooku.Maybe the others are there too.
 ---
 
 **Fujimaru 1:**
-Then I guess going there ourselves really is our only option...|
+Then I guess going there ourselves really is our only option...
 
 ---
 
@@ -1858,7 +1858,7 @@ Anyway, be extra careful in there, everyone.This is where the expedition really 
 ---
 
 **Fujimaru 1:**
-This is the place...!?|
+This is the place...!?
 
 ---
 
@@ -1872,7 +1872,7 @@ Looks like they have no intention of letting us leave.Fine by me! Let's keep on 
 ---
 
 **Fujimaru 1:**
-This may be moot at this point, but is it really okay for me to be here?|
+This may be moot at this point, but is it really okay for me to be here?
 
 ---
 
@@ -2054,7 +2054,7 @@ You speak nonsense, Lady Kasuga.How can I serve a lord who is no longer here?
 ---
 
 **Fujimaru 1:**
-So is Goredolf this new lord of yours?|
+So is Goredolf this new lord of yours?
 
 ---
 
@@ -2229,7 +2229,7 @@ And since I have all of you helping too, I don't think we'll have any trouble ma
 ---
 
 **Fujimaru 1:**
-We could handle a thousand of them with our hands tied behind our back.|
+We could handle a thousand of them with our hands tied behind our back.
 
 ---
 
@@ -2243,7 +2243,7 @@ Master, may I ask a favor of you?
 ---
 
 **Fujimaru 1:**
-What's up?|
+What's up?
 
 ---
 
@@ -2263,7 +2263,7 @@ Okay, let's not get carried away and go around destroying any more of them than 
 ---
 
 **Fujimaru 1:**
-Sounds good to me.|
+Sounds good to me.
 
 ---
 
@@ -2294,7 +2294,7 @@ Is she treating Master like...a child...?
 ---
 
 **Fujimaru 1:**
-Th-this is kind of embarrassing.|
+Th-this is kind of embarrassing.
 
 ---
 
@@ -2311,7 +2311,7 @@ And now, it's a habit that's very hard to break.I'm truly sorry if I made you un
 ---
 
 **Fujimaru 1:**
-Oh no, I didn't mind at all.|
+Oh no, I didn't mind at all.
 
 ---
 
@@ -2422,7 +2422,7 @@ Phew. Another battle over.
 ---
 
 **Fujimaru 1:**
-Nice work!|
+Nice work!
 
 ---
 
@@ -2450,7 +2450,7 @@ I'm sorry to ask this, Fujimaru,but could you give me a few minutes?
 ---
 
 **Fujimaru 1:**
-Uh, no problem...?|
+Uh, no problem...?
 
 ---
 
@@ -2464,7 +2464,7 @@ Oh my. She appears to be gathering them together so she can pray over them.
 ---
 
 **Fujimaru 1:**
-She seems more goddess-like than ever...|
+She seems more goddess-like than ever...
 
 ---
 
@@ -2484,7 +2484,7 @@ But, I just couldn't live with myself if I didn't try to do something... Is that
 ---
 
 **Fujimaru 1:**
-Not at all.|
+Not at all.
  
 **Pārvatī:**
 Oh good. I'm relieved to hear that.
@@ -2610,7 +2610,7 @@ Either way, there might still be a tiny drop of that in me...
 ---
 
 **Fujimaru 1:**
-But, then...doesn't that disposition make it hard for you to fight?|
+But, then...doesn't that disposition make it hard for you to fight?
 
 ---
 
@@ -2645,7 +2645,7 @@ I know it would make things at least a little easier for all of you if I had, so
 ---
 
 **Fujimaru 1:**
-No problems here!|
+No problems here!
 
 ---
 
@@ -2690,7 +2690,7 @@ I mean, we already have a goddess from India here. At this point, I wouldn't be 
 ---
 
 **Fujimaru 1:**
-(Buddha... Bodhisattva... Ow, my head...)|
+(Buddha... Bodhisattva... Ow, my head...)
 
 ---
 
@@ -2769,7 +2769,7 @@ Perhaps for the time being, we should try easier route? They are sure to have en
 ---
 
 **Fujimaru 1:**
-What is this place?|
+What is this place?
 
 ---
 
@@ -2810,7 +2810,7 @@ It seems like both of us have seen better days, doesn't it?
 ---
 
 **Fujimaru 1:**
-Is she...the same person as Par...?|
+Is she...the same person as Par...?
  
 **Pārvatī:**
 Yes, she is. I'm just as shocked as you are. I never thought she would be using the same human for an avatar as I am.
@@ -2957,7 +2957,7 @@ Does that mean you're also the one who lured everyone else from Chaldea here!?
 ---
 
 **Fujimaru 1:**
-Where is everyone!?|
+Where is everyone!?
 
 ---
 
@@ -2982,7 +2982,7 @@ Everyone you think was taken from you belongs to me now. I control whether they 
 ---
 
 **Fujimaru 1:**
-...!|
+...!
 
 ---
 
@@ -3079,7 +3079,7 @@ Since that pillbox was inside of them, we should probably assume it was the cata
 ---
 
 **Fujimaru 1:**
-(Huh? What is that...?)|
+(Huh? What is that...?)
 
 ---
 
@@ -3128,7 +3128,7 @@ And I always, always will...
 ---
 
 **Fujimaru 1:**
-(...What was that?)|
+(...What was that?)
 
 ---
 
@@ -3150,7 +3150,7 @@ I'm afraid we didn't hear anything ourselves,and there isn't anything in the log
 ---
 
 **Fujimaru 1:**
-Guess it was just my imagination then.|
+Guess it was just my imagination then.
 
 ---
 
@@ -3235,7 +3235,7 @@ So, what do you think? It could give you more ways to tackle this Ooku expeditio
 ---
 
 **Fujimaru 1:**
-I think we should use whatever we can.|
+I think we should use whatever we can.
 
 ---
 
@@ -3311,7 +3311,7 @@ I'm sorry to ask you to take on such a difficult mission, Master, but...we're co
 ---
 
 **Fujimaru 1:**
-I'll do my best. I promise.|
+I'll do my best. I promise.
 
 ---
 
@@ -3341,7 +3341,7 @@ It looks like a hanafuda card. I don't really know anything about them myself, t
 ---
 
 **Fujimaru 1:**
-It's a peony.|
+It's a peony.
 
 ---
 
@@ -3393,7 +3393,7 @@ If you find any similar samples, then I should be able to conduct a more thoroug
 ---
 
 **Fujimaru 1:**
-Roger that.|
+Roger that.
 
 ---
 
@@ -3442,7 +3442,7 @@ So there was one of those here too, huh. It looks like these giant ghosts serve 
 ---
 
 **Fujimaru 1:**
-(It's happening again...!)|
+(It's happening again...!)
 
 ---
 
@@ -3474,7 +3474,7 @@ Now, what would you like to play?I'm up for anything...
 ---
 
 **Fujimaru 1:**
-(I guess I'm the only one who heard that again...)|
+(I guess I'm the only one who heard that again...)
 
 ---
 
@@ -3626,7 +3626,7 @@ Trust me when I say that no amount of zen alone will help you to endure that for
 ---
 
 **Fujimaru 1:**
-There's someone there!|
+There's someone there!
 
 ---
 
@@ -3651,7 +3651,7 @@ Huh? This reading...Master, look at what's behind Nobutsuna!
 ---
 
 **Fujimaru 1:**
-Yagyu!?|
+Yagyu!?
 
 ---
 
@@ -3706,7 +3706,7 @@ The only possible answer is...they were used as material to build this Ooku.
 ---
 
 **Fujimaru 1:**
-...!|
+...!
 
 ---
 
@@ -3765,7 +3765,7 @@ Either way, we still need to get down to the bottom floor.
 ---
 
 **Fujimaru 1:**
-Of course we'll save everyone eventually,but Yagyu needs our help right now!|
+Of course we'll save everyone eventually,but Yagyu needs our help right now!
 
 ---
 
@@ -3809,7 +3809,7 @@ The fault for this lies entirely with me, Master.Please, go on and forget about 
 ---
 
 **Fujimaru 1:**
-We have to save him!|
+We have to save him!
 
 ---
 
@@ -3832,7 +3832,7 @@ Does that mean I will be fighting this ghost by myself?
 ---
 
 **Fujimaru 1:**
-I'll back you up as best I can!|
+I'll back you up as best I can!
  
 **Sessyoin Kiara:**
 Oh my! I never thought to receive such an enthusiastic show of support from you, Master!
@@ -3864,7 +3864,7 @@ Oh my... Well then, I believe I can come up with some means by which to amuse my
 ---
 
 **Fujimaru 1:**
-How's it going over there!?|
+How's it going over there!?
 
 ---
 
@@ -3917,7 +3917,7 @@ I already...told you...Just...leave me...
 ---
 
 **Fujimaru 1:**
-That's not going to happen!|
+That's not going to happen!
 
 ---
 
@@ -4062,7 +4062,7 @@ That is all well and good, but should we be...just letting that man get away?
 ---
 
 **Fujimaru 1:**
-First, we need to make sure Yagyu is okay.|
+First, we need to make sure Yagyu is okay.
 
 ---
 
@@ -4121,7 +4121,7 @@ Forgive me, but I cannot turn my back on him now. To do so would be the height o
 ---
 
 **Fujimaru 1:**
-Don't worry. We're not leaving until we've saved Lord Iemitsu too.|
+Don't worry. We're not leaving until we've saved Lord Iemitsu too.
 
 ---
 
@@ -4179,7 +4179,7 @@ Here, why don't you lie down for a while? If you have trouble sleeping, I could 
 ---
 
 **Fujimaru 1:**
-(...)|
+(...)
 
 ---
 
@@ -4360,7 +4360,7 @@ Huh? You know Chacha&ndash;I mean, Lady Yodo too?
 ---
 
 **Fujimaru 1:**
-Oh yeah. She's very...energetic.|
+Oh yeah. She's very...energetic.
  
 **Kasuga-no-Tsubone:**
 Yes, I'm sure she is.I've heard she can be quite a handful.
@@ -4393,7 +4393,7 @@ Me? Oh no, I could never! I do have some history with Lady Oeyo, Lord Hidetada's
 ---
 
 **Fujimaru 1:**
-They don't like you? Really?|
+They don't like you? Really?
 
 ---
 
@@ -4410,7 +4410,7 @@ So...even if I had the chance to meet with Lady Yodo,I think she would be much h
 ---
 
 **Fujimaru 1:**
-You know, I see Nobbu a lot, too.|
+You know, I see Nobbu a lot, too.
 
 ---
 
@@ -4445,7 +4445,7 @@ For example...why did Kama choose to build this Ooku out of people?
 ---
 
 **Fujimaru 1:**
-Yeah... It's creepy to think everything here is made out of people.|
+Yeah... It's creepy to think everything here is made out of people.
 
 ---
 
@@ -4462,7 +4462,7 @@ Now we know that it's possible to save people here,as long as we're not too late
 ---
 
 **Fujimaru 1:**
-We're definitely not gonna stop until we've saved everyone.|
+We're definitely not gonna stop until we've saved everyone.
 
 ---
 
@@ -4509,7 +4509,7 @@ So these dolls consider you their lord, without fighting. What do you think? It 
 ---
 
 **Fujimaru 1:**
-Yes, I am the shogun!|
+Yes, I am the shogun!
  
 **Ooku Attendant A:**
 AHH, I knew it...
@@ -4566,7 +4566,7 @@ I'd want every child I raise to be as honest as you!What a good {(M) boy /(F) gi
 ---
 
 **Fujimaru 1:**
-(She just patted my head again...)|
+(She just patted my head again...)
 
 ---
 
@@ -4618,7 +4618,7 @@ Places that used to have a lavatory are now just hallways, and many of these sli
 ---
 
 **Fujimaru 1:**
-True, these routes we've been taking are almost dizzying...|
+True, these routes we've been taking are almost dizzying...
 
 ---
 
@@ -4656,7 +4656,7 @@ You did well choosing the Ooku's most knowledgeable person for your guide, Maste
 ---
 
 **Fujimaru 1:**
-I can't take credit for that. That was all Par.|
+I can't take credit for that. That was all Par.
 
 ---
 
@@ -4679,7 +4679,7 @@ I suspect you still have some wonderful latent talent lying dormant... The kind 
 ---
 
 **Fujimaru 1:**
-Y-you think so?|
+Y-you think so?
  
 **Kasuga-no-Tsubone:**
 I do!
@@ -4727,7 +4727,7 @@ Spoken like a skilled multitasker and workaholic.I can sympathize very well.
 ---
 
 **Fujimaru 1:**
-Great! I've got lots of things I want to ask!|
+Great! I've got lots of things I want to ask!
  
 **Kasuga-no-Tsubone:**
 There's a good {(M) boy /(F) girl}.That's just what I like to hear. (Pat pat)
@@ -4810,7 +4810,7 @@ Speaking of which, you've been walking for a pretty long time now. Are you holdi
 ---
 
 **Fujimaru 1:**
-Um...I might be feeling a little dizzy...|
+Um...I might be feeling a little dizzy...
 
 ---
 
@@ -4842,7 +4842,7 @@ Something soft upon which Master can lie in sweet repose... You must be referrin
 ---
 
 **Fujimaru 1:**
-I mean, yes, those are soft, but... No!|
+I mean, yes, those are soft, but... No!
 
 ---
 
@@ -4867,7 +4867,7 @@ Oh, how embarrassing... I just hope I haven't said anything to arouse your ire..
 ---
 
 **Fujimaru 1:**
-(Somewhat???)|
+(Somewhat???)
 
 ---
 
@@ -4901,7 +4901,7 @@ May I borrow the device you have been using to read it, please?
 ---
 
 **Fujimaru 1:**
-Uh, sure, fine with me.|
+Uh, sure, fine with me.
 
 ---
 
@@ -4981,7 +4981,7 @@ Oh, wait...
 ---
 
 **Fujimaru 1:**
-Did you say four? I only counted three.|
+Did you say four? I only counted three.
 
 ---
 
@@ -5064,7 +5064,7 @@ And if I'm correct, I believe that on this floor...the more we follow our urge t
 ---
 
 **Fujimaru 1:**
-I, uh, I see?|
+I, uh, I see?
 
 ---
 
@@ -5098,7 +5098,7 @@ Assuming my analysis is correct, yes, I think so.
 ---
 
 **Fujimaru 1:**
-Huh, that's impressive.|
+Huh, that's impressive.
 
 ---
 
@@ -5168,7 +5168,7 @@ I love people so very much.Guiding them to salvation is its own reward.
 ---
 
 **Fujimaru 1:**
-(Gasp)|
+(Gasp)
 
 ---
 
@@ -5187,7 +5187,7 @@ Forgive me, Lady Kasuga-no-Tsubone, but I'm afraid I must decline your kind offe
 ---
 
 **Fujimaru 1:**
-(Kiara really has been a huge help, but something still feels off about her...)|
+(Kiara really has been a huge help, but something still feels off about her...)
 
 ---
 
@@ -5295,7 +5295,7 @@ Anyway, Nobutsuna was always smart, but I'm afraid I might have focused on devel
 ---
 
 **Fujimaru 1:**
-So he's an INT build then.|
+So he's an INT build then.
 
 ---
 
@@ -5311,7 +5311,7 @@ He also gained the nickname “Wise Izu” at one point after he was assigned to
 ---
 
 **Fujimaru 1:**
-How is he with a sword?|
+How is he with a sword?
 
 ---
 
@@ -5340,7 +5340,7 @@ This was not a battle between warring daimyo, but a revolt led by civilians call
 ---
 
 **Fujimaru 1:**
-...I'm familiar.|
+...I'm familiar.
 
 ---
 
@@ -5366,7 +5366,7 @@ Master, isn't the Shimabara Rebellion where, um...
 ---
 
 **Fujimaru 1:**
-Yeah... That's the one...|
+Yeah... That's the one...
 
 ---
 
@@ -5401,7 +5401,7 @@ Oh, it is not as bad as you think. Everyone knows their place, and is content no
 ---
 
 **Fujimaru 1:**
-It's very homey as far as workplaces go.|
+It's very homey as far as workplaces go.
 
 ---
 
@@ -5423,7 +5423,7 @@ I see. Now it all makes sense. In that case,I think you deserve another round! (
 ---
 
 **Fujimaru 1:**
-(Not that I mind, but why is she patting my head again...?)|
+(Not that I mind, but why is she patting my head again...?)
 
 ---
 
@@ -5514,7 +5514,7 @@ So I'll ask you one more time.What are you up to?
 ---
 
 **Fujimaru 1:**
-Why did you make this Ooku!?|
+Why did you make this Ooku!?
 
 ---
 
@@ -5607,7 +5607,7 @@ At any rate, it looks like that ghost left behind another pillbox.
 ---
 
 **Fujimaru 1:**
-(That one was pretty short, and I don'tremember what happened in it very well...)|
+(That one was pretty short, and I don'tremember what happened in it very well...)
 
 ---
 
@@ -5626,7 +5626,7 @@ Did you just hear those voices you mentioned before again?
 ---
 
 **Fujimaru 1:**
-Yeah, I did.|
+Yeah, I did.
  
 **Mash:**
 I thought as much. Please don't hesitate to tell me things like this, Master, no matter how small they may seem.
@@ -5665,7 +5665,7 @@ Let's see... This one says “Ietsuna.”
 ---
 
 **Fujimaru 1:**
-He was the fourth shogun, right?|
+He was the fourth shogun, right?
  
 **Sion:**
 That is right! Well done! Are you something of a history buff, Fujimaru?
@@ -5743,7 +5743,7 @@ I'll do everything I can to prevent that from happening, but I think you should 
 ---
 
 **Fujimaru 1:**
-Hey, I've been in a subway. It makes sensethat we'd lose some signal the further down we go.|
+Hey, I've been in a subway. It makes sensethat we'd lose some signal the further down we go.
  
 **Mash:**
 Now that you mention it, I remember you mentioning some kind of underground labyrinths that still exist in the modern day, Master.
@@ -5883,7 +5883,7 @@ Don't worry, this is the life! Now let's go!
 ---
 
 **Fujimaru 1:**
-It kind of reeks of alcohol here...|
+It kind of reeks of alcohol here...
 
 ---
 
@@ -5903,7 +5903,7 @@ Are you okay, Master? These fumes should have little effect on us, since we are 
 ---
 
 **Fujimaru 1:**
-I'm not drunk or anything, but I can definitely feel them.|
+I'm not drunk or anything, but I can definitely feel them.
 
 ---
 
@@ -5955,7 +5955,7 @@ Normally, I would second that request in the strongest possible terms...but righ
 ---
 
 **Fujimaru 1:**
-Someone's there!|
+Someone's there!
 
 ---
 
@@ -5963,7 +5963,7 @@ Someone's there!|
 ---
 
 **Fujimaru 1:**
-Mata Hari!|
+Mata Hari!
 
 ---
 
@@ -6051,7 +6051,7 @@ What is it?
 ---
 
 **Fujimaru 1:**
-Huh?|
+Huh?
 
 ---
 
@@ -6110,7 +6110,7 @@ Yes, of course. Going along with their requests is absolutely not an option. Tha
 ---
 
 **Fujimaru 1:**
-The question is, what do we do if they try to force us?|
+The question is, what do we do if they try to force us?
 
 ---
 
@@ -6175,7 +6175,7 @@ I'm not so senile that I need your help getting anywhere, young lady. I'm still 
 ---
 
 **Fujimaru 1:**
-Sion, is there a way to get them back to normal?|
+Sion, is there a way to get them back to normal?
 
 ---
 
@@ -6225,7 +6225,7 @@ Thank goodness we somehow managed to neutralize them.
 ---
 
 **Fujimaru 1:**
-I don't know what I would've done if I didn't already know how they fight...|
+I don't know what I would've done if I didn't already know how they fight...
 
 ---
 
@@ -6263,7 +6263,7 @@ How are we supposed to figure out how to save those two now!?
 ---
 
 **Fujimaru 1:**
-What did Mash say? The same rules as with Yagyu...?|
+What did Mash say? The same rules as with Yagyu...?
 
 ---
 
@@ -6276,7 +6276,7 @@ How did we save Yagyu again...?
 ---
 
 **Fujimaru 1:**
-Hanafuda power!|
+Hanafuda power!
 
 ---
 
@@ -6319,7 +6319,7 @@ They do not appear to have any memory of the time they spent under Kama's contro
 ---
 
 **Fujimaru 1:**
-Good point. Okay, here goes...|
+Good point. Okay, here goes...
 
 ---
 
@@ -6369,7 +6369,7 @@ Go ahead and use me however you see fit, Master.I'll do whatever it takes to sav
 ---
 
 **Fujimaru 1:**
-Thanks, you two. You're the best.|
+Thanks, you two. You're the best.
 
 ---
 
@@ -6481,7 +6481,7 @@ All right, I think we'd better get back to... Hm?What's wrong, Master?
 ---
 
 **Fujimaru 1:**
-Nnn...|
+Nnn...
 
 ---
 
@@ -6530,7 +6530,7 @@ If we continue on from the precepts against killing and falsehoods, then I think
 ---
 
 **Fujimaru 1:**
-Huh?|
+Huh?
 
 ---
 
@@ -6583,7 +6583,7 @@ I still can't say with any certainty whether becoming intoxicated is necessary t
 ---
 
 **Fujimaru 1:**
-Y-yeah, you might be right!|
+Y-yeah, you might be right!
 
 ---
 
@@ -6627,7 +6627,7 @@ I know it is dangerous to have {(M) him /(F) her} drink to the point of intoxica
 ---
 
 **Fujimaru 1:**
-I can handle a headache.|
+I can handle a headache.
  
 **Scheherazade:**
 No, you mustn't! Headaches tend to be a sign of a much more serious condition! At the risk of repeating myself, you could end up dead...!
@@ -6666,7 +6666,7 @@ Wait, I just got an idea!Master, do you mind if I try a little experiment?
 ---
 
 **Fujimaru 1:**
-What'd you have in mind?|
+What'd you have in mind?
 
 ---
 
@@ -6686,7 +6686,7 @@ So I thought I'd try to replicate that with my Noble Phantasm.
 ---
 
 **Fujimaru 1:**
-Your Noble Phantasm? You mean...|
+Your Noble Phantasm? You mean...
  
 
 ---
@@ -6707,7 +6707,7 @@ Right. Though I don't know if that will be enough to convince this Ooku that {(M
 ---
 
 **Fujimaru 1:**
-It can't hurt to try.|
+It can't hurt to try.
 
 ---
 
@@ -6726,7 +6726,7 @@ Okay, here goes. Just relax, open your eyes,and let yourself drown in me...
 ---
 
 **Fujimaru 1:**
-Uh... Yeah, I think I feel drunk...|
+Uh... Yeah, I think I feel drunk...
 
 ---
 
@@ -6737,7 +6737,7 @@ How are you doing? Does your head hurt?
 ---
 
 **Fujimaru 1:**
-Nope. I actually feel great.|
+Nope. I actually feel great.
 
 ---
 
@@ -6789,7 +6789,7 @@ So let's all keep a close eye on our surroundings for clues...
 ---
 
 **Fujimaru 1:**
-Man, there sure were a lot of earthquakes in the Edo Period.|
+Man, there sure were a lot of earthquakes in the Edo Period.
 
 ---
 
@@ -6811,7 +6811,7 @@ Don't be afraid to hold onto me if you need help keeping your balance, okay?
 ---
 
 **Fujimaru 1:**
-I hate to be a bother, but thank you.|
+I hate to be a bother, but thank you.
 
 ---
 
@@ -6842,7 +6842,7 @@ Okay, here comes a widdle obstacle! Ready to step over it? ...You did it! What a
 ---
 
 **Fujimaru 1:**
-(What's with the baby talk?)|
+(What's with the baby talk?)
 
 ---
 
@@ -6891,7 +6891,7 @@ I would hate to be swept up in this place's allure and break my vow.
 ---
 
 **Fujimaru 1:**
-Let's call the elevator.|
+Let's call the elevator.
  
 **Kasuga-no-Tsubone:**
 Those walls aren't going to open up no matter how many times you press them! It's a dead end!
@@ -6953,7 +6953,7 @@ You two are no longer Ooku attendants,and the {(M) boy /(F) girl} only appears t
 ---
 
 **Fujimaru 1:**
-I'm impresshed you figured it out!|
+I'm impresshed you figured it out!
 
 ---
 
@@ -7071,7 +7071,7 @@ This very Ooku was made to have you succumb. Sooner or later, you will find your
 ---
 
 **Fujimaru 1:**
-...!|
+...!
 
 ---
 
@@ -7141,7 +7141,7 @@ Hang on just a little more, Master.I'll undo your drunken state once we get ther
 ---
 
 **Fujimaru 1:**
-I'm not drunk. I'm not.|
+I'm not drunk. I'm not.
  
 **Mata Hari:**
 Sounds like something someone who's drunk off their ass would say.
@@ -7275,7 +7275,7 @@ They dropped a key!This should get us through this door.
 ---
 
 **Fujimaru 1:**
-Is it just me, or are there way too many locked doors on this floor...?|
+Is it just me, or are there way too many locked doors on this floor...?
 
 ---
 
@@ -7292,7 +7292,7 @@ Well anyway, what do you say we just keep going for now?
 ---
 
 **Fujimaru 1:**
-Not again...|
+Not again...
 
 ---
 
@@ -7333,7 +7333,7 @@ Just a moment, please. Given how things are unfolding...I think this floor perta
 ---
 
 **Fujimaru 1:**
-I knew this had to be connected to a precept...|
+I knew this had to be connected to a precept...
 
 ---
 
@@ -7391,7 +7391,7 @@ There are still many people we need to rescue.
 ---
 
 **Fujimaru 1:**
-Yeah...I think you're right.|
+Yeah...I think you're right.
 
 ---
 
@@ -7431,7 +7431,7 @@ True, the further we are from breaking the precept ourselves, the safer it most 
 ---
 
 **Fujimaru 1:**
-Is this going where I think it's going!?|
+Is this going where I think it's going!?
 
 ---
 
@@ -7462,7 +7462,7 @@ But there are no longer any blind spots for them to hide in. It will be difficul
 ---
 
 **Fujimaru 1:**
-Don't worry, they'll be fine.|
+Don't worry, they'll be fine.
 
 ---
 
@@ -7517,7 +7517,7 @@ It seems as though it would be a perfect fit for the hollow in the pedestal.
 ---
 
 **Fujimaru 1:**
-We don't need a key, we need a key item!|
+We don't need a key, we need a key item!
 
 ---
 
@@ -7571,7 +7571,7 @@ Momotarou, Issun Boushi, Urashima Tarou... Stories are an essential part of any 
 ---
 
 **Fujimaru 1:**
-Not so far.|
+Not so far.
  
 
 ---
@@ -7658,7 +7658,7 @@ You know, at first I thought my eyes were just playing tricks on me because it s
 ---
 
 **Fujimaru 1:**
-Nah, it's got to be the statue with the missing jewel eyes.|
+Nah, it's got to be the statue with the missing jewel eyes.
 
 ---
 
@@ -7784,7 +7784,7 @@ This is the Ooku, the shogun's personal harem. All I want is to make sure you al
 ---
 
 **Fujimaru 1:**
-...!?|
+...!?
 
 ---
 
@@ -7813,7 +7813,7 @@ I can even change myself to match your preferences.Like this.
 ---
 
 **Fujimaru 1:**
-Did you just...grow up!?|
+Did you just...grow up!?
 
 ---
 
@@ -7985,7 +7985,7 @@ Aww, sorry. Maybe you didn't want to see me anymore, but here I am. It's okay, t
 ---
 
 **Fujimaru 1:**
-Huh!? We defeated you! I know we did!|
+Huh!? We defeated you! I know we did!
  
 
 ---
@@ -8024,7 +8024,7 @@ We'll help you all fall into blissful debauchery...
 ---
 
 **Fujimaru 1:**
-I... Wha... Huh!?|
+I... Wha... Huh!?
 
 ---
 
@@ -8077,7 +8077,7 @@ Then let's move on.This next floor should be the last.
 ---
 
 **Fujimaru 1:**
-What's the final precept, Kiara?|
+What's the final precept, Kiara?
 
 ---
 
@@ -8175,7 +8175,7 @@ What would you have us do, Master?
 ---
 
 **Fujimaru 1:**
-Looks like we'll just have to find another way!|
+Looks like we'll just have to find another way!
 
 ---
 
@@ -8260,7 +8260,7 @@ Teehee. Teeheehee...
 ---
 
 **Fujimaru 1:**
-Kama!|
+Kama!
 
 ---
 
@@ -8313,7 +8313,7 @@ She's thinking that even hurting one another can arguably be construed as a kind
 ---
 
 **Fujimaru 1:**
-This is the last floor. We can't stop now!|
+This is the last floor. We can't stop now!
 
 ---
 
@@ -8334,7 +8334,7 @@ If I were in her position, I would want to keep everything for myself.
 ---
 
 **Fujimaru 1:**
-Is something wrong, Tsubone?|
+Is something wrong, Tsubone?
 
 ---
 
@@ -8398,7 +8398,7 @@ Was that the right way to handle that?
 ---
 
 **Fujimaru 1:**
-(Hang in there, Lord Iemitsu...!)|
+(Hang in there, Lord Iemitsu...!)
 
 ---
 
@@ -8445,7 +8445,7 @@ If need be, I'll hold my hands over your eyes to stop you from seeing anything y
 ---
 
 **Fujimaru 1:**
-Just make sure not to poke my eyes out or anything...|
+Just make sure not to poke my eyes out or anything...
 
 ---
 
@@ -8569,7 +8569,7 @@ You're not going to see something that's,um, a bad influence on you, are you?
 ---
 
 **Fujimaru 1:**
-I'm more grown-up than you think, so I'll be fine.|
+I'm more grown-up than you think, so I'll be fine.
 
 ---
 
@@ -8636,7 +8636,7 @@ Once you go beyond this room, you will...(Cough, cough, cough)...
 ---
 
 **Fujimaru 1:**
-...?|
+...?
 
 ---
 
@@ -8659,7 +8659,7 @@ Once we go down those stairs...I'm certain we'll find everyone who was abducted.
 ---
 
 **Fujimaru 1:**
-You're not scared?|
+You're not scared?
 
 ---
 
@@ -8727,7 +8727,7 @@ His mind must have been tampered with,like ours were...
 ---
 
 **Fujimaru 1:**
-Hang in there, Director! We'll save you!|
+Hang in there, Director! We'll save you!
 
 ---
 
@@ -8819,7 +8819,7 @@ And by that...I mean through time,to his past and future.
 ---
 
 **Fujimaru 1:**
-!?|
+!?
 
 ---
 
@@ -8896,7 +8896,7 @@ Then again, maybe you just don't want to get it? I hate to break it to you, but 
 ---
 
 **Fujimaru 1:**
-A simple...goal...|
+A simple...goal...
 
 ---
 
@@ -8924,7 +8924,7 @@ Yes...it happened to be just the right kind of place to drown you in my love, Fu
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -8962,7 +8962,7 @@ And now...it's taken effect.
 ---
 
 **Fujimaru 1:**
-Ah... Ah...|
+Ah... Ah...
 
 ---
 
@@ -8979,7 +8979,7 @@ Hey, worthless human? The one crawling around on the floor? What's your name?
 ---
 
 **Fujimaru 1:**
-My name...is...|
+My name...is...
 
 ---
 
@@ -8992,7 +8992,7 @@ What...was it...? Oh, right...
 ---
 
 **Fujimaru 1:**
-My name is...Tokugawa...|
+My name is...Tokugawa...
 
 ---
 
@@ -9087,7 +9087,7 @@ And once they have become Tokugawa,they can never escape her Ooku...
 ---
 
 **Fujimaru 1:**
-Nghh... Hnghhh... Aah...|
+Nghh... Hnghhh... Aah...
 
 ---
 
@@ -9130,7 +9130,7 @@ Once {(M) he /(F) she} experiences pleasure here in the Ooku's innermost sanctum
 ---
 
 **Fujimaru 1:**
-No...way...!|
+No...way...!
 
 ---
 
@@ -9222,7 +9222,7 @@ Go on, take a look around. See for yourselves what the love enveloping you right
 ---
 
 **Fujimaru 1:**
-Huh? We're in...space?|
+Huh? We're in...space?
 
 ---
 
@@ -9281,7 +9281,7 @@ Then on the conceptual level, you and the universe are now fundamentally linked.
 ---
 
 **Fujimaru 1:**
-I can't even with this universe stuff...|
+I can't even with this universe stuff...
 
 ---
 
@@ -9357,7 +9357,7 @@ So I wouldn't count on being able to use your bodies like normal if I were you.
 ---
 
 **Fujimaru 1:**
-Huh!? So...heavy...!|
+Huh!? So...heavy...!
 
 ---
 
@@ -9452,7 +9452,7 @@ Isn't that why you came to stop me now that I'm one of the Evils of Humanity? Be
 ---
 
 **Fujimaru 1:**
-Evils of...Humanity...|
+Evils of...Humanity...
 
 ---
 
@@ -9605,7 +9605,7 @@ Go on, you'll feel muuuch better once you give in.Just accept it, and this will 
 ---
 
 **Fujimaru 1:**
-Ngh... Ghhh...!|
+Ngh... Ghhh...!
 
 ---
 
@@ -9683,7 +9683,7 @@ Of course it is.I'm neither the Kama nor the Mara you know anymore.
 ---
 
 **Fujimaru 1:**
-I'm sorry...everyone...|
+I'm sorry...everyone...
 
 ---
 
@@ -9744,7 +9744,7 @@ We can crack open another bottle of wine, partake in some delicious meat, and en
 ---
 
 **Fujimaru 1:**
-Di...rector...|
+Di...rector...
 
 ---
 
@@ -9766,7 +9766,7 @@ Surely there can't be any problem now. Let's all just relax and enjoy ourselves 
 ---
 
 **Fujimaru 1:**
-(What a kind...offer...)|
+(What a kind...offer...)
 
 ---
 
@@ -10043,7 +10043,7 @@ So instead, I think I will do everything in my not inconsiderable power to slow 
 ---
 
 **Fujimaru 1:**
-Kiara...?|
+Kiara...?
 
 ---
 
@@ -10111,7 +10111,7 @@ I don't know whether they'll lead you to joy or pain, but then, hehe, it's all t
 ---
 
 **Fujimaru 1:**
-...!|
+...!
 
 ---
 
@@ -10131,7 +10131,7 @@ You mean you're going to shield us to the end!?
 ---
 
 **Fujimaru 1:**
-Come with us, Kiara!|
+Come with us, Kiara!
 
 ---
 
@@ -10212,7 +10212,7 @@ Master! Are you okay!?
 ---
 
 **Fujimaru 1:**
-I'm fine, yeah.|
+I'm fine, yeah.
 
 ---
 
@@ -10228,7 +10228,7 @@ It seems the worst of the Tokugawafication has worn off. I'm so relieved.
 ---
 
 **Fujimaru 1:**
-But, Kiara...|
+But, Kiara...
 
 ---
 
@@ -10395,7 +10395,7 @@ These must be Beast III/L's characteristics...or her nature, as the Beasts thems
 ---
 
 **Fujimaru 1:**
-She might have a lot of properties, but it's still just her against all of us.|
+She might have a lot of properties, but it's still just her against all of us.
 
 ---
 
@@ -10444,7 +10444,7 @@ You must be a truly virtuous young {(M) man /(F) lady}! As your acting wet nurse
 ---
 
 **Fujimaru 1:**
-They're all amazing! Every last one of them!|
+They're all amazing! Every last one of them!
 
 ---
 
@@ -10463,7 +10463,7 @@ They're all amazing! Every last one of them!|
 ---
 
 **Fujimaru 1:**
-...And I think that's everything.|
+...And I think that's everything.
 
 ---
 
@@ -10504,7 +10504,7 @@ Kama told you that they were the souls of great shogun from the past and future.
 ---
 
 **Fujimaru 1:**
-Yup, that's what she said.|
+Yup, that's what she said.
 
 ---
 
@@ -10536,7 +10536,7 @@ Namely, Tokugawa Yoshinobu...the fifteenth, and final, Tokugawa shogun.
 ---
 
 **Fujimaru 1:**
-Ah...|
+Ah...
 
 ---
 
@@ -10574,7 +10574,7 @@ Does it go back to the turbulent way it was before, when the whole country was c
 ---
 
 **Fujimaru 1:**
-It went through some tough times, but things turned out okay.|
+It went through some tough times, but things turned out okay.
 
 ---
 
@@ -10630,7 +10630,7 @@ Right. So if Kama is both the Ooku and Tokugawa, there is a better than good cha
 ---
 
 **Fujimaru 1:**
-This could work!|
+This could work!
 
 ---
 
@@ -10676,7 +10676,7 @@ So do not worry. We should now be able to stay in touch even at the very bottom 
 ---
 
 **Fujimaru 1:**
-That's super reassuring.|
+That's super reassuring.
 
 ---
 
@@ -10695,7 +10695,7 @@ I'm just sorry we have to ask you to go into the Ooku again...
 ---
 
 **Fujimaru 1:**
-Don't worry. I know my way around there now.|
+Don't worry. I know my way around there now.
 
 ---
 
@@ -10782,7 +10782,7 @@ Okay, let me see. So that works like this, and this goes like... Hmm hmm. Hmm hm
 ---
 
 **Fujimaru 1:**
-Did you figure it out?|
+Did you figure it out?
 
 ---
 
@@ -10808,7 +10808,7 @@ A hole with a very specific function.Namely, a keyhole.
 ---
 
 **Fujimaru 1:**
-Really? I can't see anything like that...|
+Really? I can't see anything like that...
 
 ---
 
@@ -10837,7 +10837,7 @@ I see. Then I'm glad we took Kiara's advice and collected them.
 ---
 
 **Fujimaru 1:**
-This is great!|
+This is great!
  
 **Mata Hari:**
 We're still no closer to figuring out exactly what these cards are, though.
@@ -10917,7 +10917,7 @@ The battle is over. I can confirm that the enemy has dropped a pillbox!
 ---
 
 **Fujimaru 1:**
-(That's weird. Why can't I hear anything from this one...?)|
+(That's weird. Why can't I hear anything from this one...?)
 
 ---
 
@@ -10967,7 +10967,7 @@ I just thought I should let you know that I cannot absolutely guarantee that thi
 ---
 
 **Fujimaru 1:**
-We don't have time to fret about it.|
+We don't have time to fret about it.
 
 ---
 
@@ -11043,7 +11043,7 @@ Oh, and I think we should also be able to condense it into a projectile attack, 
 ---
 
 **Fujimaru 1:**
-That sounds more than good enough to me!|
+That sounds more than good enough to me!
 
 ---
 
@@ -11074,7 +11074,7 @@ Now, as your acting wet nurse, I have a question for you children, and I want yo
 ---
 
 **Fujimaru 1:**
-I...|
+I...
 
 ---
 
@@ -11109,7 +11109,7 @@ So as your acting wet nurse who has led you this far,please...don't make this ch
 ---
 
 **Fujimaru 1:**
-Kasuga-no-Tsubone...|
+Kasuga-no-Tsubone...
 
 ---
 
@@ -11141,7 +11141,7 @@ As such, I will not lose.Period.
 ---
 
 **Fujimaru 1:**
-Haha... Well, I'm convinced!|
+Haha... Well, I'm convinced!
 
 ---
 
@@ -11285,7 +11285,7 @@ Now, we are going to turn that knowledge into primordial fire, and use it to dri
 ---
 
 **Fujimaru 1:**
-Special Mystic Code, activate!|
+Special Mystic Code, activate!
 
 ---
 
@@ -11347,7 +11347,7 @@ We have to defeat this Beast of Disaster if we're going to get everyone back, Ma
 ---
 
 **Fujimaru 1:**
-Let's do this, guys!|
+Let's do this, guys!
 
 ---
 
@@ -11368,7 +11368,7 @@ It must mean our attacks are working on her!
 ---
 
 **Fujimaru 1:**
-Keep it up! We're almost there!|
+Keep it up! We're almost there!
 
 ---
 
@@ -11493,7 +11493,7 @@ It was a shriek of love loud enough for me to sense it...and powerful enough to 
 ---
 
 **Fujimaru 1:**
-...?|
+...?
 
 ---
 
@@ -11566,7 +11566,7 @@ A dream where you'd get to keep raising and spoiling every shogun, just like you
 ---
 
 **Fujimaru 1:**
-Does this mean those whispers I heard were actually&ndash;|
+Does this mean those whispers I heard were actually&ndash;
 
 ---
 
@@ -11649,7 +11649,7 @@ Maybe you should take a step back and think about what that really means?
 ---
 
 **Fujimaru 1:**
-My head feels...weird again...|
+My head feels...weird again...
 
 ---
 
@@ -11764,7 +11764,7 @@ If you had had the presence of mind to stop for a moment and suss out whether yo
 ---
 
 **Fujimaru 1:**
-N-ngh...!|
+N-ngh...!
 
 ---
 
@@ -11802,7 +11802,7 @@ If I decide I'd rather you all just experienced zero gravity instead, it's as ea
 ---
 
 **Fujimaru 1:**
-Wh-what the!?|
+Wh-what the!?
 
 ---
 
@@ -11824,7 +11824,7 @@ Ghh... At least we Servants can still hold on to our balance, since this isn't t
 ---
 
 **Fujimaru 1:**
-Urp. I feel sick...|
+Urp. I feel sick...
 
 ---
 
@@ -11847,7 +11847,7 @@ If you still don't get what that means...
 ---
 
 **Fujimaru 1:**
-Now that you mention it, did those stars change color...?|
+Now that you mention it, did those stars change color...?
 
 ---
 
@@ -11903,7 +11903,7 @@ I...I think just staying in this space for too long may destroy my mind...
 ---
 
 **Fujimaru 1:**
-I feel nauseous...|
+I feel nauseous...
 
 ---
 
@@ -11978,7 +11978,7 @@ It was that shamelessness that brought this punishment upon me.
 ---
 
 **Fujimaru 1:**
-(I can't see a thing.)|
+(I can't see a thing.)
 
 ---
 
@@ -12030,7 +12030,7 @@ I am simply doing my best to adhere to the way of the sword, though I still have
 ---
 
 **Fujimaru 1:**
-Thanks, Scheherazade.|
+Thanks, Scheherazade.
 
 ---
 
@@ -12082,7 +12082,7 @@ Yes...this is an incredibly difficult problem to solve.
 ---
 
 **Fujimaru 1:**
-Um... I never thought of this place as the universe.|
+Um... I never thought of this place as the universe.
  
 
 ---
@@ -12091,7 +12091,7 @@ Um... I never thought of this place as the universe.|
 ---
 
 **Fujimaru 1:**
-In my mind, this has always been...|
+In my mind, this has always been...
 
 ---
 
@@ -12099,7 +12099,7 @@ In my mind, this has always been...|
 ---
 
 **Fujimaru 1:**
-...the Ooku.|
+...the Ooku.
 
 ---
 
@@ -12268,7 +12268,7 @@ I simply realized there are some things I can only do as a soul.
 ---
 
 **Fujimaru 1:**
-Like what?|
+Like what?
 
 ---
 
@@ -12357,7 +12357,7 @@ That's all right.I know there are risks.
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -12382,7 +12382,7 @@ What a good {(M) boy /(F) girl} you are. (Pat, pat)
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -12438,7 +12438,7 @@ It shall be done, even if it should cost me my life.
 ---
 
 **Fujimaru 1:**
-I'll be here, waiting.|
+I'll be here, waiting.
 
 ---
 
@@ -12455,7 +12455,7 @@ Of course, I know you are sitting on a flying carpet while Lord Genie holds you 
 ---
 
 **Fujimaru 1:**
-I'll try zen meditation, like you.|
+I'll try zen meditation, like you.
 
 ---
 
@@ -12475,7 +12475,7 @@ No, wait, it's possible he really believes that.I just can't tell...!
 ---
 
 **Fujimaru 1:**
-(Either way, I already feel better.)|
+(Either way, I already feel better.)
 
 ---
 
@@ -12735,7 +12735,7 @@ I have also formed a life preservation zone around your head, so you should not 
 ---
 
 **Fujimaru 1:**
-Thanks, Sion!|
+Thanks, Sion!
 
 ---
 
@@ -12981,7 +12981,7 @@ I guess this means Kiara's advice to collect these cards turned out to be the ri
 ---
 
 **Fujimaru 1:**
-My body's so warm...|
+My body's so warm...
 
 ---
 
@@ -13018,7 +13018,7 @@ Yes. Do it.
 ---
 
 **Fujimaru 1:**
-Yagyu!?|
+Yagyu!?
 
 ---
 
@@ -13210,7 +13210,7 @@ How is that sword so sharp?It's cutting me down faster than I can bring in new m
 ---
 
 **Fujimaru 1:**
-We've almost reached her...!|
+We've almost reached her...!
 
 ---
 
@@ -13269,7 +13269,7 @@ How can anyone be happy keeping their lust locked away? How can anyone be happy 
 ---
 
 **Fujimaru 1:**
-Now! Hit her with everything you've got!|
+Now! Hit her with everything you've got!
 
 ---
 
@@ -13456,7 +13456,7 @@ I do not think my first case involving a Beast could have gone any better!
 ---
 
 **Fujimaru 1:**
-What about everyone else? They will come back, right?|
+What about everyone else? They will come back, right?
 
 ---
 
@@ -13488,7 +13488,7 @@ It looked important, so I pulled it out and brought it with me. I'm basically st
 ---
 
 **Fujimaru 1:**
-Kasuga-no-Tsubone...|
+Kasuga-no-Tsubone...
  
 **Kasuga-no-Tsubone:**
 Please, there's nothing to be sad about.
@@ -13566,7 +13566,7 @@ You cut me to the quick.
 ---
 
 **Fujimaru 1:**
-Rest up! You earned it!|
+Rest up! You earned it!
 
 ---
 
@@ -13610,7 +13610,7 @@ I think I would enjoy an afterlife like that very much.
 ---
 
 **Fujimaru 1:**
-It sounds like you'd be a Lancer.|
+It sounds like you'd be a Lancer.
  
 **Yagyu Tajima-no-kami:**
 ...Master, I should tell you now that Lady Fuku was much more than a wet nurse.
@@ -13693,7 +13693,7 @@ You are already such a good {(M) boy /(F) girl}. As long as you stay on your cur
 ---
 
 **Fujimaru 1:**
-(I don't know how, but I feel like she's actually patting my head...)|
+(I don't know how, but I feel like she's actually patting my head...)
 
 ---
 
@@ -13737,7 +13737,7 @@ I'll do my best to hang on so I can tell you about it before I disappear.
 ---
 
 **Fujimaru 1:**
-What is it?|
+What is it?
 
 ---
 
@@ -13799,7 +13799,7 @@ I'll try to send someone else to help you instead,but...I don't know if anyone e
 ---
 
 **Fujimaru 1:**
-You already helped us out a ton, Par.|
+You already helped us out a ton, Par.
 
 ---
 
@@ -13824,7 +13824,7 @@ I know you still have other difficult problems, like the bleached Earth, the Los
 ---
 
 **Fujimaru 1:**
-...You better believe I will.|
+...You better believe I will.
 
 ---
 
