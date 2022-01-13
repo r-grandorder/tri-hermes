@@ -1,4 +1,4 @@
-# Singularity 3: Sealed Ends of the Four Seas - Okeanos
+#Singularity 3: Sealed Ends of the Four Seas - Okeanos
 
 ![Okeanos](https://i.imgur.com/QHbedv3.png)
 
@@ -122,7 +122,7 @@ Fou! (plod, plod, plod)Fou! FOU!! (plod, plod, plod, plod)
 ---
 
 **Fujimaru 1:**
-Oww, oww.|
+Oww, oww.
  
 
 ---
@@ -146,7 +146,7 @@ Fou!
 ---
 
 **Fujimaru 1:**
-...Good morning, Mash.|
+...Good morning, Mash.
  
 
 ---
@@ -188,7 +188,7 @@ Yeah, I can only think of one thing.The familiars who served a certain ancient k
 ---
 
 **Fujimaru 1:**
-Ancient king?|
+Ancient king?
  
 
 ---
@@ -275,7 +275,7 @@ This may seem sudden, but Fujimaru,did you get seasick back in Rome?
 ---
 
 **Fujimaru 1:**
-A little bit.|
+A little bit.
  
 **Dr. Roman:**
 I see....Right, of course.
@@ -335,7 +335,7 @@ The sea only has several islands scattered around.I would like you to investigat
 ---
 
 **Fujimaru 1:**
-I hope we don't end up in the ocean...|
+I hope we don't end up in the ocean...
  
 **Dr. Roman:**
 There's no need to worry about that.We'll input the necessary coordinates for the Rayshift.
@@ -395,7 +395,7 @@ Master, let's go.I will give it everything I have.
 ---
 
 **Fujimaru 1:**
-Yeah, let's do it, Mash!|
+Yeah, let's do it, Mash!
  
 **Mash:**
 Of course.Leave the combat to me once we arrive.
@@ -425,7 +425,7 @@ Fou!
 ---
 
 **Fujimaru 1:**
-You're coming after all.|
+You're coming after all.
  
 
 ---
@@ -467,7 +467,7 @@ All procedures cleared.Grand Order, commencing operation.
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -485,7 +485,7 @@ Hey, Mash...
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -568,7 +568,7 @@ And you didn't know if it's safe to do so,yet you still attacked us?
 ---
 
 **Fujimaru 1:**
-Is he an idiot?|
+Is he an idiot?
  
 
 ---
@@ -683,7 +683,7 @@ Fou!?
 ---
 
 **Fujimaru 1:**
-Eat him and I'll beat you till you cry.|
+Eat him and I'll beat you till you cry.
  
 
 ---
@@ -728,7 +728,7 @@ Judging from the behavior of pirates we've met so far,odds are high that he's a 
 ---
 
 **Fujimaru 1:**
-Don't let your guard down.|
+Don't let your guard down.
  
 
 ---
@@ -814,7 +814,7 @@ Me too. Who knew that THE Francis Drake was&mdash; (whispering)
 ---
 
 **Fujimaru 1:**
-Who knew she was a woman!|
+Who knew she was a woman!
  
 
 ---
@@ -835,7 +835,7 @@ So? Who on earth are you?Looks like you took good care of my boys.
 ---
 
 **Fujimaru 1:**
-We're from the Organization.|
+We're from the Organization.
  
 
 ---
@@ -934,7 +934,7 @@ O-Of course!I shall respond to Captain Drake's request. Master!
 ---
 
 **Fujimaru 1:**
-Okay, let's do this!|
+Okay, let's do this!
  
 
 ---
@@ -975,7 +975,7 @@ You can boil me, fry me, sleep with me,anything you want!
 ---
 
 **Fujimaru 1:**
-I'll pass.|
+I'll pass.
  
 
 ---
@@ -1005,7 +1005,7 @@ You're looking for something, but are unfamiliar with these seas.That's why you 
 ---
 
 **Fujimaru 1:**
-You being a pirate is irrelevant.|
+You being a pirate is irrelevant.
  
 
 ---
@@ -1059,7 +1059,7 @@ It's NOT good!Hey, what are you... No, wait! Master, save me!
 ---
 
 **Fujimaru 1:**
-What's up?|
+What's up?
  
 
 ---
@@ -1088,7 +1088,7 @@ Oh, but we really don't have time for this...
 ---
 
 **Fujimaru 1:**
-It can't be helped.|
+It can't be helped.
  
 
 ---
@@ -1151,7 +1151,7 @@ I see...
 ---
 
 **Fujimaru 1:**
-Sorry for interfering.|
+Sorry for interfering.
  
 
 ---
@@ -1205,7 +1205,7 @@ U-Umm... Senpai?
 ---
 
 **Fujimaru 1:**
-What is it, Mash?|
+What is it, Mash?
  
 
 ---
@@ -1220,7 +1220,7 @@ Fou!
 ---
 
 **Fujimaru 1:**
-I know.|
+I know.
  
 
 ---
@@ -1232,7 +1232,7 @@ Senpai, the Holy Grail&ndash;!
 ---
 
 **Fujimaru 1:**
-We'll get it.|
+We'll get it.
  
 
 ---
@@ -1244,7 +1244,7 @@ No, that's not what I mean.The Holy Grail...
 ---
 
 **Fujimaru 1:**
-For everyone who fought with us!|
+For everyone who fought with us!
  
 
 ---
@@ -1256,7 +1256,7 @@ Um, okay....That's not what I mean, Senpai!
 ---
 
 **Fujimaru 1:**
-Let's do our best, Mash!|
+Let's do our best, Mash!
  
 
 ---
@@ -1268,7 +1268,7 @@ Senpai, how many fingers am I holding up?
 ---
 
 **Fujimaru 1:**
-I see two Mashes, so...|
+I see two Mashes, so...
  
 
 ---
@@ -1388,7 +1388,7 @@ Fou!
 ---
 
 **Fujimaru 1:**
-Case closed! Woohoo!|
+Case closed! Woohoo!
  
 
 ---
@@ -1438,7 +1438,7 @@ Th-Thank you very much. Since we've retrieved the Holy Grail, we've resolved the
 ---
 
 **Fujimaru 1:**
-Have we?|
+Have we?
  
 
 ---
@@ -1522,7 +1522,7 @@ Whoa, whoa, that sounds real dangerous....Are you serious?
 ---
 
 **Fujimaru 1:**
-Dead serious.|
+Dead serious.
  
 
 ---
@@ -1627,7 +1627,7 @@ No&mdash;there is!I believe there is!
 ---
 
 **Fujimaru 1:**
-Doctor?|
+Doctor?
  
 
 ---
@@ -1695,7 +1695,7 @@ Sigh...
 ---
 
 **Fujimaru 1:**
-What's wrong?|
+What's wrong?
  
 
 ---
@@ -1731,7 +1731,7 @@ Ahem.Now, here I go!
 ---
 
 **Fujimaru 1:**
-Have fuuuuun.|
+Have fuuuuun.
  
 
 ---
@@ -1882,7 +1882,7 @@ How violent...That's how an outlaw thinks!
 ---
 
 **Fujimaru 1:**
-So, did it hit?|
+So, did it hit?
  
 
 ---
@@ -1906,7 +1906,7 @@ At any rate, there goes our plan to proceed with caution.Senpai, what should we 
 ---
 
 **Fujimaru 1:**
-Let's calm down.|
+Let's calm down.
  
 
 ---
@@ -2027,7 +2027,7 @@ Of course Fujimaru will come along, too.You're Mash's Master, aren't you?
 ---
 
 **Fujimaru 1:**
-I'll see what I can do.|
+I'll see what I can do.
  
 
 ---
@@ -2045,7 +2045,7 @@ All right, and if I lose&ndash;If I lose... Hmm, is there anything else you want
 ---
 
 **Fujimaru 1:**
-Nothing.|
+Nothing.
  
 
 ---
@@ -2111,7 +2111,7 @@ Gah-go! Kill! Kill anyone in the way!Kill. KILL! Gigigiiii&ndash;!
 ---
 
 **Fujimaru 1:**
-Seems so.|
+Seems so.
  
 
 ---
@@ -2170,7 +2170,7 @@ Do you think there's treasure, Senpai?
 ---
 
 **Fujimaru 1:**
-I do.|
+I do.
  
 **Mash:**
 Really?...It would be interesting if there was one.
@@ -2245,7 +2245,7 @@ Umm...
 ---
 
 **Fujimaru 1:**
-I'll think about it.|
+I'll think about it.
  
 
 ---
@@ -2269,7 +2269,7 @@ Now, time to return to the ship!
 ---
 
 **Fujimaru 1:**
-Not a problem.|
+Not a problem.
  
 **Mash:**
 ...As her memories disappear,I suppose the problem itself will be gone, but...
@@ -2443,7 +2443,7 @@ This place is huge... Hard to imagine it's an island.This wind is amazing.
 ---
 
 **Fujimaru 1:**
-Rome?|
+Rome?
  
 **Mash:**
 Yes. I think it's a bit like when we were in Rome.
@@ -2517,7 +2517,7 @@ Seeeeeeeeriously?
 ---
 
 **Fujimaru 1:**
-She collapsed.|
+She collapsed.
  
 
 ---
@@ -2565,7 +2565,7 @@ Get down. It's a big one!
 ---
 
 **Fujimaru 1:**
-I'm fine.|
+I'm fine.
  
 
 ---
@@ -2621,7 +2621,7 @@ What on earth is happening?Fujimaru, this is your specialty, right?
 ---
 
 **Fujimaru 1:**
-A type of Magecraft?|
+A type of Magecraft?
  
 
 ---
@@ -2672,7 +2672,7 @@ But that pattern... Could it be?
 ---
 
 **Fujimaru 1:**
-Let's take a look.|
+Let's take a look.
  
 
 ---
@@ -2716,7 +2716,7 @@ Right or left... My gut says left!
 ---
 
 **Fujimaru 1:**
-Should we trust her instincts?|
+Should we trust her instincts?
  
 **Mash:**
 I don't think so...But Captain Drake is a first-rate pirate.
@@ -2749,7 +2749,7 @@ It'd be a disaster if we got separated here.Holding hands would prevent that fro
 ---
 
 **Fujimaru 1:**
-That's embarrassing...|
+That's embarrassing...
  
 
 ---
@@ -2773,7 +2773,7 @@ It may be a bit awkward at first,but better safe than sorry...
 ---
 
 **Fujimaru 1:**
-Are you embarrassed too, Mash?|
+Are you embarrassed too, Mash?
  
 **Mash:**
 ...N-No comment.
@@ -2881,7 +2881,7 @@ Bad vibes?What about you, Master?
 ---
 
 **Fujimaru 1:**
-I'm getting bad vibes, too.|
+I'm getting bad vibes, too.
  
 **Mash:**
 I see. If both you and the captain say so,perhaps we should be careful.
@@ -3024,7 +3024,7 @@ Y-You little brat!
 ---
 
 **Fujimaru 1:**
-I want to clear something up.|
+I want to clear something up.
  
 
 ---
@@ -3189,7 +3189,7 @@ Senpai, Senpai!...It seems things went quite well without us interjecting.
 ---
 
 **Fujimaru 1:**
-Happily ever after.|
+Happily ever after.
  
 
 ---
@@ -3472,7 +3472,7 @@ You think so too, right?
 ---
 
 **Fujimaru 1:**
-You're cute.|
+You're cute.
  
 
 ---
@@ -3549,7 +3549,7 @@ Mash? Thank goodness, I finally got through!What in the world's happening over t
 ---
 
 **Fujimaru 1:**
- I forgot about that...|
+ I forgot about that...
  
 
 ---
@@ -3663,7 +3663,7 @@ Show me, show me, show me, Missy Euryale!
 ---
 
 **Fujimaru 1:**
-Me too.|
+Me too.
  
 
 ---
@@ -3681,7 +3681,7 @@ Erm... What is that?
 ---
 
 **Fujimaru 1:**
-B-Blackbeard... maybe?|
+B-Blackbeard... maybe?
  
 
 ---
@@ -3735,7 +3735,7 @@ Please save me, Senpai!The goose bumps just won't stop popping up.
 ---
 
 **Fujimaru 1:**
-There, there.|
+There, there.
  
 
 ---
@@ -3906,7 +3906,7 @@ W-We already defeated him, right!?We even verified he vanished&ndash;
 ---
 
 **Fujimaru 1:**
-He didn't vanish.|
+He didn't vanish.
  
 
 ---
@@ -3977,7 +3977,7 @@ That's all you, Captain.
 ---
 
 **Fujimaru 1:**
-What's wrong?|
+What's wrong?
  
 
 ---
@@ -4209,7 +4209,7 @@ Sorry, everybody.I apologize on behalf of all pirates.
 ---
 
 **Fujimaru 1:**
-You're also a victim, Drake.|
+You're also a victim, Drake.
  
 
 ---
@@ -4340,7 +4340,7 @@ Oh no, I just thought of something...
 ---
 
 **Fujimaru 1:**
-Use the dragons as materials.|
+Use the dragons as materials.
  
 
 ---
@@ -4400,7 +4400,7 @@ In that case, we should be able to do it in a day once we found a nest.
 ---
 
 **Fujimaru 1:**
-Let's go hunting.|
+Let's go hunting.
  
 
 ---
@@ -4550,7 +4550,7 @@ Just now! I think I heard a voice...Master!
 ---
 
 **Fujimaru 1:**
-Let's rescue them.|
+Let's rescue them.
  
 
 ---
@@ -4594,7 +4594,7 @@ Hrrrnngh!?
 ---
 
 **Fujimaru 1:**
-I think you stepped on something?|
+I think you stepped on something?
  
 
 ---
@@ -4660,7 +4660,7 @@ Senpai, Senpai.The unknown object is talking.
 ---
 
 **Fujimaru 1:**
-Talking plushies are rare.|
+Talking plushies are rare.
  
 **Mash:**
 ...I see, it does look pretty rare.
@@ -4732,7 +4732,7 @@ In this era,everyone has a few loose screws!
 ---
 
 **Fujimaru 1:**
-What's your True Name?|
+What's your True Name?
  
 
 ---
@@ -4759,7 +4759,7 @@ Don't casually mix questions up!
 ---
 
 **Fujimaru 1:**
-We're here to fix this era.|
+We're here to fix this era.
  
 
 ---
@@ -4878,7 +4878,7 @@ I'm Orion. When I was summoned into this Holy Grail War, I got turned into a str
 ---
 
 **Fujimaru 1:**
-I am crying.|
+I am crying.
  
 
 ---
@@ -4976,7 +4976,7 @@ Master...
 ---
 
 **Fujimaru 1:**
-A boss battle is a given.|
+A boss battle is a given.
  
 **Mash:**
 I know nothing about such givens!
@@ -5498,7 +5498,7 @@ Well, Master, can't keep Blackbeard waiting!
 ---
 
 **Fujimaru 1:**
-Let's go, Mash!|
+Let's go, Mash!
  
 
 ---
@@ -5574,7 +5574,7 @@ Ugh. This is discouraging...
 ---
 
 **Fujimaru 1:**
-Don't give up.|
+Don't give up.
  
 
 ---
@@ -5722,7 +5722,7 @@ I can't believe that a voyager who exists only to stop that would appear. The Na
 ---
 
 **Fujimaru 1:**
-Stop him, Mash!|
+Stop him, Mash!
  
 
 ---
@@ -6056,7 +6056,7 @@ No!
 ---
 
 **Fujimaru 1:**
-We'll save her.|
+We'll save her.
  
 
 ---
@@ -6121,7 +6121,7 @@ Yes. From the start, Servant Hektor had his eye on Mistah Blackbeard's Holy Grai
 ---
 
 **Fujimaru 1:**
-Blackbeard seemed wary of that.|
+Blackbeard seemed wary of that.
  
 
 ---
@@ -6211,7 +6211,7 @@ There ya go.. Don't worry, big guy.Nobody on this ship wants to abandon that gir
 ---
 
 **Fujimaru 1:**
-What's wrong, Mash?|
+What's wrong, Mash?
  
 
 ---
@@ -6375,7 +6375,7 @@ Master!?
 ---
 
 **Fujimaru 1:**
-Huh, what?|
+Huh, what?
  
 
 ---
@@ -6520,7 +6520,7 @@ Asterios!?I-I will go with him!
 ---
 
 **Fujimaru 1:**
-Let's rescue Euryale!|
+Let's rescue Euryale!
  
 
 ---
@@ -6785,7 +6785,7 @@ What do you say, you Master-ish entity?
 ---
 
 **Fujimaru 1:**
-I refuse.|
+I refuse.
  
 
 ---
@@ -6860,7 +6860,7 @@ And Heracles!You shall go too! I'll be looking after you two from here.
 ---
 
 **Fujimaru 1:**
-The scum of mankind.|
+The scum of mankind.
  
 
 ---
@@ -7266,7 +7266,7 @@ He really wants to let Euryale escape,even if it means receiving a fatal blow.
 ---
 
 **Fujimaru 1:**
-...We're retreating!|
+...We're retreating!
  
 
 ---
@@ -7424,7 +7424,7 @@ No sign of any approaching ships.
 ---
 
 **Fujimaru 1:**
-About that "Ark" they mentioned?|
+About that "Ark" they mentioned?
  
 
 ---
@@ -7481,7 +7481,7 @@ What I found incomprehensible was the actual concept of using the Ark.
 ---
 
 **Fujimaru 1:**
-The concept itself was incomprehensible?|
+The concept itself was incomprehensible?
  
 
 ---
@@ -7559,7 +7559,7 @@ That's the reason he risked his life to protect us...It was just that pure and s
 ---
 
 **Fujimaru 1:**
-He had no regrets.|
+He had no regrets.
  
 
 ---
@@ -7663,7 +7663,7 @@ Since you've come all the way to this era,that makes you just as big a fool as m
 ---
 
 **Fujimaru 1:**
-Not as much as you, Captain.|
+Not as much as you, Captain.
  
 
 ---
@@ -7687,7 +7687,7 @@ Let's go, Senpai. With you as my Master,I feel I can take on any opponent!
 ---
 
 **Fujimaru 1:**
-Anchors aweigh!|
+Anchors aweigh!
  
 
 ---
@@ -7823,7 +7823,7 @@ Hey, Fujimaru.Which side you betting on?
 ---
 
 **Fujimaru 1:**
-Jackpot.|
+Jackpot.
  
 
 ---
@@ -8049,7 +8049,7 @@ That's right!
 ---
 
 **Fujimaru 1:**
-Foes.|
+Foes.
  
 
 ---
@@ -8160,7 +8160,7 @@ E-Even finding out the goddess I worship is hopelessly romantic won't be enough 
 ---
 
 **Fujimaru 1:**
-The wound's deep, be disappointed.|
+The wound's deep, be disappointed.
  
 
 ---
@@ -8207,7 +8207,7 @@ Thank you. I am David, King of Israel.The "Ark" is my Noble Phantasm.
 ---
 
 **Fujimaru 1:**
-...King of Israel?|
+...King of Israel?
  
 
 ---
@@ -8379,7 +8379,7 @@ We're up against Heracles, Medea, and Hektor.We don't have to count Jason, I sup
 ---
 
 **Fujimaru 1:**
-Why?|
+Why?
  
 
 ---
@@ -8438,7 +8438,7 @@ If we could at least lure Heracles away from the others&ndash;
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -8453,7 +8453,7 @@ Doctor, just go choke on an expired sesame bun or something.
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -8474,7 +8474,7 @@ Hmm, I suppose you're right.
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -8492,7 +8492,7 @@ Master?
 ---
 
 **Fujimaru 1:**
-I have an idea.|
+I have an idea.
  
 
 ---
@@ -8582,7 +8582,7 @@ We don't know when or if King David will fall into enemy hands. I'll provide all
 ---
 
 **Fujimaru 1:**
-Let's do this.|
+Let's do this.
  
 
 ---
@@ -8710,7 +8710,7 @@ Do everything you can to protect me!
 ---
 
 **Fujimaru 1:**
-Got it!|
+Got it!
  
 
 ---
@@ -8768,7 +8768,7 @@ Hey, can't you run any faster?
 ---
 
 **Fujimaru 1:**
-I am trying!|
+I am trying!
  
 
 ---
@@ -8812,7 +8812,7 @@ Master, do your best! Just hang in there a bit longer!
 ---
 
 **Fujimaru 1:**
-I'm super-duper running!|
+I'm super-duper running!
  
 
 ---
@@ -8844,7 +8844,7 @@ He's here. There's nowhere to run anymore.Scared?
 ---
 
 **Fujimaru 1:**
-I'm scared.|
+I'm scared.
  
 **Euryale:**
 I see... Me too.
@@ -8868,7 +8868,7 @@ If we stop, he'll catch up to us.We have no choice, jump over the you-know-what!
 ---
 
 **Fujimaru 1:**
-Even if a touch means death!?|
+Even if a touch means death!?
  
 
 ---
@@ -8939,7 +8939,7 @@ Honestly, I still can't believe it.Master, are you all right!?
 ---
 
 **Fujimaru 1:**
-I'm fine.|
+I'm fine.
  
 
 ---
@@ -9131,7 +9131,7 @@ I appreciate you coming all this way.I value that kind of perseverance.
 ---
 
 **Fujimaru 1:**
-This guy!|
+This guy!
  
 
 ---
@@ -9405,7 +9405,7 @@ Commencing correction&ndash;!
 ---
 
 **Fujimaru 1:**
-Let's go, Mash!|
+Let's go, Mash!
  
 
 ---
@@ -9428,7 +9428,7 @@ Yes!
 ---
 
 **Fujimaru 1:**
-All right!|
+All right!
  
 
 ---
@@ -9521,7 +9521,7 @@ Medea's about to vanish... No, before she does!Fujimaru, you have to ask her!
 ---
 
 **Fujimaru 1:**
-Who's behind all this?|
+Who's behind all this?
  
 
 ---
@@ -9782,7 +9782,7 @@ But I suppose that's an impossible request.A pirate like me could never be treat
 ---
 
 **Fujimaru 1:**
-That's not true.|
+That's not true.
  
 
 ---
@@ -9803,7 +9803,7 @@ So if history is corrected, will I really lose my memories of all of you?
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -9944,7 +9944,7 @@ When your journey ends, just remember how much fun you had with me! That'll be e
 ---
 
 **Fujimaru 1:**
-Will do. Farewell, Captain!|
+Will do. Farewell, Captain!
  
 
 ---
@@ -10016,7 +10016,7 @@ Ky, kyuuuu!
 ---
 
 **Fujimaru 1:**
-A little.|
+A little.
  
 **Mash:**
 Me too.
