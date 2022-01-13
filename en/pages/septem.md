@@ -1,4 +1,4 @@
-# Singularity 2: Eternal Mandess Empire - Septem
+#Singularity 2: Eternal Mandess Empire - Septem
 
 ![Septem](https://i.imgur.com/AVVq299.png)
 
@@ -15,7 +15,7 @@ Good morning.Did you sleep well, Senpai?
 ---
 
 **Fujimaru 1:**
-Yes, like a log.|
+Yes, like a log.
  
 **Mash:**
 Glad to hear it.I'm happy to know that you got plenty of rest.
@@ -57,7 +57,7 @@ Did you see something?
 ---
 
 **Fujimaru 1:**
-Dream? Why?|
+Dream? Why?
  
 
 ---
@@ -147,7 +147,7 @@ And...That you come back safely.
 ---
 
 **Fujimaru 1:**
-Leave it to me.|
+Leave it to me.
  
 **Mash:**
 Okay!
@@ -210,7 +210,7 @@ I realize it was logically unreasonable.But, even so...
 ---
 
 **Fujimaru 1:**
-It was to reduce the danger, right?|
+It was to reduce the danger, right?
  
 
 ---
@@ -240,7 +240,7 @@ I can promise you that much at least.Mash, Fujimaru.
 ---
 
 **Fujimaru 1:**
-Understood!|
+Understood!
  
 
 ---
@@ -284,7 +284,7 @@ The feel of the wind, the scent of earth&mdash;the vast blue sky.
 ---
 
 **Fujimaru 1:**
-What's wrong? You're breathing deeply.|
+What's wrong? You're breathing deeply.
  
 **Mash:**
 Huh? Was I? I-I see.I'm sure I was doing it without thinking.
@@ -317,7 +317,7 @@ Fou?
 ---
 
 **Fujimaru 1:**
-You tagged along again?|
+You tagged along again?
  
 
 ---
@@ -365,7 +365,7 @@ By the way, is that... Oh?Weren't you suppose to be in... Rome?
 ---
 
 **Fujimaru 1:**
-Uh, we're in the hills.|
+Uh, we're in the hills.
  
 **Mash:**
 You're right Senpai.We're in the hills.
@@ -431,7 +431,7 @@ This is&ndash;
 ---
 
 **Fujimaru 1:**
-A battle somewhere?|
+A battle somewhere?
  
 
 ---
@@ -461,7 +461,7 @@ There's a historical anomaly.That must be it.
 ---
 
 **Fujimaru 1:**
-Let's get to that noise!|
+Let's get to that noise!
  
 **Fou:**
 Fou!
@@ -521,7 +521,7 @@ Which means&ndash;
 ---
 
 **Fujimaru 1:**
-Let's help that woman.|
+Let's help that woman.
  
 
 ---
@@ -571,7 +571,7 @@ Very good, I shall allow you to fight by my side.Revel in the ultimate honor!
 ---
 
 **Fujimaru 1:**
-We are beyond words for your generous praise.|
+We are beyond words for your generous praise.
  
 **D：???:**
 Yes, yes.You may enjoy wallowing in the sweet sounds I utter.
@@ -612,7 +612,7 @@ Surely not... Britannia.The Far East... doesn't seem likely, either.
 ---
 
 **Fujimaru 1:**
-We're from Chaldea.|
+We're from Chaldea.
  
 **D：???:**
 Chaldea?
@@ -689,7 +689,7 @@ Fujimaru, are you ready?This is our first Servant battle since coming to this er
 ---
 
 **Fujimaru 1:**
-Ready when you are!|
+Ready when you are!
  
 
 ---
@@ -793,7 +793,7 @@ I am Nero Claudius,fifth emperor of the Roman Empire&ndash;!
 ---
 
 **Fujimaru 1:**
-(Gasp)|
+(Gasp)
  
 
 ---
@@ -828,7 +828,7 @@ Take a good look and be struck with awe! This is my city, a glorious regime that
 ---
 
 **Fujimaru 1:**
-It does seem incredibly vibrant!|
+It does seem incredibly vibrant!
  
 
 ---
@@ -873,7 +873,7 @@ Then how about that {(M) man /(F) woman} over there?They're delicious, don't be 
 ---
 
 **Fujimaru 1:**
-Thank you.|
+Thank you.
  
 **Nero:**
 Ah, that is a wonderful apple.
@@ -1028,7 +1028,7 @@ They call themselves emperors, but they're just pretenders.
 ---
 
 **Fujimaru 1:**
-You look troubled.|
+You look troubled.
  
 
 ---
@@ -1112,7 +1112,7 @@ That's right.What do you think, Senpai?
 ---
 
 **Fujimaru 1:**
-Let's cooperate.|
+Let's cooperate.
  
 **Nero:**
 Ah, I see! I see!That's a quick response!
@@ -1178,7 +1178,7 @@ I don't mind, but...Will Fujimaru be all right?
 ---
 
 **Fujimaru 1:**
-We owe him some payback.|
+We owe him some payback.
  
 **Mash:**
 ...Yes, Master.
@@ -1235,7 +1235,7 @@ Understood....Senpai, shall we?
 ---
 
 **Fujimaru 1:**
-Let's go, Mash!|
+Let's go, Mash!
  
 
 ---
@@ -1301,7 +1301,7 @@ You should rest while you can.Didn't I tell you as much this morning?
 ---
 
 **Fujimaru 1:**
-Yes, you did.|
+Yes, you did.
  
 **Mash:**
 Okay.
@@ -1328,7 +1328,7 @@ I have to check Magi☆Mari's blog too. She should've updated her diary by now..
 ---
 
 **Fujimaru 1:**
-Doctor...|
+Doctor...
  
 **Dr. Roman:**
 Wh-Why are you looking at me like some sort of pitiful creature? What's wrong with internet idols?
@@ -1390,7 +1390,7 @@ Etna, huh? The Court Mage used to go to Etna a lot too. Hmm, but why?
 ---
 
 **Fujimaru 1:**
-We need to set a terminal point.|
+We need to set a terminal point.
  
 
 ---
@@ -1438,7 +1438,7 @@ Ghost-type monsters?If it's naturally occurring, that's quite a leyline!
 ---
 
 **Fujimaru 1:**
-Let's eliminate them!|
+Let's eliminate them!
  
 
 ---
@@ -1525,7 +1525,7 @@ Please do your best, I'll proceed with my analysis.
 ---
 
 **Fujimaru 1:**
-Understood.|
+Understood.
  
 
 ---
@@ -1567,7 +1567,7 @@ I think you should go with her.Naturally, it'll be dangerous, but&ndash;
 ---
 
 **Fujimaru 1:**
-It can't be helped.|
+It can't be helped.
  
 
 ---
@@ -1602,7 +1602,7 @@ Senpai, are you all right? You've been walking non-stop all this way, are you no
 ---
 
 **Fujimaru 1:**
-This is nothing.|
+This is nothing.
  
 **Mash:**
 Don't tell me... Before coming to Chaldea,you were the outdoors type?
@@ -1682,7 +1682,7 @@ Well? Not a bad deal, is it?
 ---
 
 **Fujimaru 1:**
-True...|
+True...
  
 **Nero:**
 Isn't that right? Isn't that right? You're an honest soul.Heh, heh, I think I really like you now!
@@ -1747,7 +1747,7 @@ Senpai, good work! Aren't you exhausted?
 ---
 
 **Fujimaru 1:**
-Good work to you too.|
+Good work to you too.
  
 **Mash:**
 R-Right... Thank you very much,but I'm more worried about our allies.
@@ -1869,7 +1869,7 @@ Warrior of the rebellion, give me your name.Let us revolt together against the i
 ---
 
 **Fujimaru 1:**
-My name is Fujimaru.|
+My name is Fujimaru.
  
 **Mash:**
 Did he ask for your name just now?Is that what it was?
@@ -1959,7 +1959,7 @@ Understood, Doctor.
 ---
 
 **Fujimaru 1:**
-Let's go.|
+Let's go.
  
 
 ---
@@ -2027,7 +2027,7 @@ So my apologies to Nero, who wrongly sees me as a "worthy living opponent," but.
 ---
 
 **Fujimaru 1:**
-Are you keeping your Servant status a secret?|
+Are you keeping your Servant status a secret?
  
 
 ---
@@ -2060,7 +2060,7 @@ There aren't many Heroic Spirits who could put it like that. Queen Boudica, your
 ---
 
 **Fujimaru 1:**
-I don't really get it...|
+I don't really get it...
  
 **Mash:**
 I didn't think so.Sorry, I'll explain.
@@ -2138,7 +2138,7 @@ There, you see?Spartacus is embarrassed, too.
 ---
 
 **Fujimaru 1:**
-I got the gist.|
+I got the gist.
  
 **Mash:**
 Huh?R-Really?
@@ -2272,7 +2272,7 @@ I'm so proud of you, coming from a faraway time period.You're so strong. There, 
 ---
 
 **Fujimaru 1:**
-She's like an aunt... or big sister.|
+She's like an aunt... or big sister.
  
 
 ---
@@ -2305,7 +2305,7 @@ T-Thank you...Senpai, how about you? Are you hungry?
 ---
 
 **Fujimaru 1:**
-Famished.|
+Famished.
  
 **Mash:**
 I know, right?Actually, me too.
@@ -2466,7 +2466,7 @@ Right.Master!
 ---
 
 **Fujimaru 1:**
-Hold nothing back!|
+Hold nothing back!
  
 
 ---
@@ -2550,7 +2550,7 @@ You, guest commander! Thank you for coming from a distant land. Tell me your nam
 ---
 
 **Fujimaru 1:**
-I am Fujimaru.|
+I am Fujimaru.
  
 **Mash:**
 Mash Kyrielight.I'm Master Fujimaru's Servant.
@@ -2598,7 +2598,7 @@ Oh? Then, um, the what's-your-name over there...
 ---
 
 **Fujimaru 1:**
-It's Fujimaru.|
+It's Fujimaru.
  
 
 ---
@@ -2767,7 +2767,7 @@ What's this...Is this some sort of magecraft...or...
 ---
 
 **Fujimaru 1:**
-It's a Servant death.|
+It's a Servant death.
  
 **Nero:**
 What did you...
@@ -2934,7 +2934,7 @@ Fujimaru, what do you think?
 ---
 
 **Fujimaru 1:**
-It may have to do with the Holy Grail.|
+It may have to do with the Holy Grail.
  
 **Mash:**
 Well...I don't know about that.Caesar said their Court Mage has possession of it.
@@ -2976,7 +2976,7 @@ It's difficult. So much so that it's nigh impossible.At least, it's not possible
 ---
 
 **Fujimaru 1:**
-Divine Spirit?|
+Divine Spirit?
  
 **Mash:**
 Yes, a Divine Spirit.
@@ -3072,7 +3072,7 @@ Let's go, Senpai!
 ---
 
 **Fujimaru 1:**
-Let's quickly deal with it.|
+Let's quickly deal with it.
  
 
 ---
@@ -3277,7 +3277,7 @@ It's good to travel by sea. Fujimaru,let me show you my brilliant sailing skills
 ---
 
 **Fujimaru 1:**
-I can't wait!|
+I can't wait!
  
 **Nero:**
 Right? Right?Heh, heh, such a honest fellow.
@@ -3333,7 +3333,7 @@ It's amazing when you think about it.Just what you'd expect of the emperor...
 ---
 
 **Fujimaru 1:**
-Don't be stupid.|
+Don't be stupid.
  
 
 ---
@@ -3387,7 +3387,7 @@ What in the world...can this even be possible?Her reading is definitely like a S
 ---
 
 **Fujimaru 1:**
-What the...|
+What the...
  
 
 ---
@@ -3504,7 +3504,7 @@ How dare they interrupt an emperor and a goddess. Who are they? From the United 
 ---
 
 **Fujimaru 1:**
-Let's drive them off.|
+Let's drive them off.
  
 
 ---
@@ -3569,7 +3569,7 @@ I should give you a reward.Though back in the day, I would've incited Medusa&nda
 ---
 
 **Fujimaru 1:**
-Incited?|
+Incited?
  
 
 ---
@@ -3715,7 +3715,7 @@ Yes, I'm sure... Consecutive battles in a closed space will wear you out beyond 
 ---
 
 **Fujimaru 1:**
-I'm totally wiped out...|
+I'm totally wiped out...
  
 **Mash:**
 Yes, I think you should rest immediately...Should we return to the ship?
@@ -3748,7 +3748,7 @@ At any rate, we're going to take them out!
 ---
 
 **Fujimaru 1:**
-No, that's Elisabeth!|
+No, that's Elisabeth!
  
 **Mash:**
 I know, I know!
@@ -3784,7 +3784,7 @@ Senpai, a weird person told me I'm weird!
 ---
 
 **Fujimaru 1:**
-There, there.|
+There, there.
  
 
 ---
@@ -3921,7 +3921,7 @@ Oh, well. Though this island has been somewhat fun,I guess we came here for noth
 ---
 
 **Fujimaru 1:**
-You sound like it's not your problem...|
+You sound like it's not your problem...
  
 
 ---
@@ -4034,7 +4034,7 @@ What a splendid job.Thank you Mash, Fujimaru.
 ---
 
 **Fujimaru 1:**
-It was nothing.|
+It was nothing.
  
 **Nero:**
 Oh, it was definitely something.Now I'll have to think up another reward.
@@ -4103,7 +4103,7 @@ R-Really?
 ---
 
 **Fujimaru 1:**
-Dr. Roman didn't do anything.|
+Dr. Roman didn't do anything.
  
 
 ---
@@ -4252,7 +4252,7 @@ So the "emperors" aren't the only ones who came back?Hmm, then what about Boudic
 ---
 
 **Fujimaru 1:**
-Stay focused on the battle!|
+Stay focused on the battle!
  
 **Nero:**
 U-Umu?
@@ -4328,7 +4328,7 @@ But you didn't seem that uncomfortable.Maybe you like that sort of thing?
 ---
 
 **Fujimaru 1:**
-Well, yeah.|
+Well, yeah.
  
 
 ---
@@ -4364,7 +4364,7 @@ T-Thank you.It's nice of you to say that...
 ---
 
 **Fujimaru 1:**
-Why are you looking at me?|
+Why are you looking at me?
  
 
 ---
@@ -4397,7 +4397,7 @@ Yes.Senpai, your orders please.
 ---
 
 **Fujimaru 1:**
-Let's go help them.|
+Let's go help them.
  
 
 ---
@@ -4448,7 +4448,7 @@ Reinforcements, huh?Though I heard Boudica and Spartacus were in Gaul.
 ---
 
 **Fujimaru 1:**
-I'm relieved.|
+I'm relieved.
  
 **Mash:**
 Yes.We made it.
@@ -4534,7 +4534,7 @@ S-Sure.Competition...
 ---
 
 **Fujimaru 1:**
-We are not losing to you.|
+We are not losing to you.
  
 **Jing Ke:**
 Is that so?
@@ -4570,7 +4570,7 @@ W-Well.Something to look forward to...
 ---
 
 **Fujimaru 1:**
-It's okay. Me neither.|
+It's okay. Me neither.
  
 
 ---
@@ -4731,7 +4731,7 @@ will do this&ndash;
 ---
 
 **Fujimaru 1:**
-What are you doing?|
+What are you doing?
  
 **Fou:**
 Fou!
@@ -4770,7 +4770,7 @@ That sounds interesting, right? Though you do have to cover the part where a god
 ---
 
 **Fujimaru 1:**
-Are you planning to publish this?|
+Are you planning to publish this?
  
 
 ---
@@ -4818,7 +4818,7 @@ Good! Look how well you've been trained!Damn!
 ---
 
 **Fujimaru 1:**
-Mash is right.|
+Mash is right.
  
 
 ---
@@ -4869,7 +4869,7 @@ Master, we should go too. If we can crush the leading units, we can demoralize t
 ---
 
 **Fujimaru 1:**
-Understood!|
+Understood!
  
 
 ---
@@ -4949,7 +4949,7 @@ I am relatively good at fighting defensively.I want to emphasize...'relatively.'
 ---
 
 **Fujimaru 1:**
-Let's hurry up!|
+Let's hurry up!
  
 
 ---
@@ -5051,7 +5051,7 @@ It may be a Berserker. Master, we should eradicate this group of hostile creatur
 ---
 
 **Fujimaru 1:**
-Please!|
+Please!
  
 
 ---
@@ -5145,7 +5145,7 @@ Ugh...
 ---
 
 **Fujimaru 1:**
-Don't get swallowed up!|
+Don't get swallowed up!
  
 
 ---
@@ -5264,7 +5264,7 @@ Now, Fujimaru.It's time for a decision.
 ---
 
 **Fujimaru 1:**
-We're going to rescue Boudica.|
+We're going to rescue Boudica.
  
 **Dr. Roman:**
 I see.I knew you'd say that.
@@ -5419,7 +5419,7 @@ They're coming!
 ---
 
 **Fujimaru 1:**
-Intercept them!|
+Intercept them!
  
 
 ---
@@ -5593,7 +5593,7 @@ We'll be taking part in the palace raid.I hope we can find that court mage...
 ---
 
 **Fujimaru 1:**
-You mean Lev Lainur?|
+You mean Lev Lainur?
  
 **Mash:**
 I can't say for sure, but it's a strong possibility.
@@ -5674,7 +5674,7 @@ Then what's&ndash;
 ---
 
 **Fujimaru 1:**
-Do you know who that might be?|
+Do you know who that might be?
  
 **Nero:**
 W-Well...
@@ -5746,7 +5746,7 @@ Master, there's a group of enemies headed this way!I believe they're going after
 ---
 
 **Fujimaru 1:**
-Intercept them!|
+Intercept them!
  
 
 ---
@@ -5826,7 +5826,7 @@ I'm sure it came as a shock for her. The founder of the nation, King Romulus, is
 ---
 
 **Fujimaru 1:**
-Romulus?|
+Romulus?
  
 
 ---
@@ -5883,7 +5883,7 @@ Then I will protect the soldiers and the Emperor.Mash, Fujimaru, can I leave thi
 ---
 
 **Fujimaru 1:**
-Sure.|
+Sure.
  
 **Boudica:**
 Thanks, I'm going to go save our silly emperor.
@@ -5981,7 +5981,7 @@ Which is why I...I...
 ---
 
 **Fujimaru 1:**
-You're not wrong. Stay on your path!|
+You're not wrong. Stay on your path!
  
 
 ---
@@ -6020,7 +6020,7 @@ Looks like you've cheered up...Senpai, Nero looks brighter now, right?
 ---
 
 **Fujimaru 1:**
-She's the same as usual.|
+She's the same as usual.
  
 **Mash:**
 Yeah, that's true.That might just be true.
@@ -6068,7 +6068,7 @@ This will be the last battle. Will you come with me Mash, Fujimaru?
 ---
 
 **Fujimaru 1:**
-Of course!|
+Of course!
  
 
 ---
@@ -6208,7 +6208,7 @@ Actually, perhaps this is the real you? You seem more energetic than when you we
 ---
 
 **Fujimaru 1:**
-Save the small talk for later!|
+Save the small talk for later!
  
 
 ---
@@ -6265,7 +6265,7 @@ You think you can stop me, Lev Lainur,just because you defeated a few Servants?
 ---
 
 **Fujimaru 1:**
-It's not going to go like before!|
+It's not going to go like before!
  
 **Lev:**
 It's true you've changed.You've grown quite a bit.
@@ -6354,7 +6354,7 @@ We don't know the details, but that thing is dangerous.Here it comes! We've got 
 ---
 
 **Fujimaru 1:**
-All right!|
+All right!
  
 
 ---
@@ -6471,7 +6471,7 @@ Master!
 ---
 
 **Fujimaru 1:**
-Deploy your Noble Phantasm, hurry!|
+Deploy your Noble Phantasm, hurry!
  
 
 ---
@@ -6614,7 +6614,7 @@ But it makes you feel like we should at least try.Fujimaru, what do you think?
 ---
 
 **Fujimaru 1:**
-&ndash;Let's put our faith in Nero.|
+&ndash;Let's put our faith in Nero.
  
 
 ---
@@ -6722,7 +6722,7 @@ That's right everyone. No time to look back,we're close to where Altera is&ndash
 ---
 
 **Fujimaru 1:**
-That's why we're here.|
+That's why we're here.
  
 
 ---
@@ -6841,7 +6841,7 @@ Fujimaru, Fou...I see, you're all going to vanish...
 ---
 
 **Fujimaru 1:**
-Farewell.|
+Farewell.
  
 
 ---
@@ -6901,7 +6901,7 @@ Welcome back and good job you two.You retrieved the Grail.
 ---
 
 **Fujimaru 1:**
-Was that for the best?|
+Was that for the best?
  
 
 ---
@@ -6946,7 +6946,7 @@ This is our second Grail and we've also achieved our original goal of finding Le
 ---
 
 **Fujimaru 1:**
-But Lev is&mdash;|
+But Lev is&mdash;
  
 
 ---
@@ -6979,7 +6979,7 @@ All we can do is recover the Grails one by one, and restore the Singularities.
 ---
 
 **Fujimaru 1:**
-Leave the next Grail to me!|
+Leave the next Grail to me!
  
 
 ---
@@ -7006,7 +7006,7 @@ You walked a long way.You'll want a good massage, I'm sure.
 ---
 
 **Fujimaru 1:**
-You look down Mash.|
+You look down Mash.
  
 
 ---
@@ -7033,7 +7033,7 @@ She was left all alone in that huge empire with no one to rely on.
 ---
 
 **Fujimaru 1:**
-Was this battle hard for you?|
+Was this battle hard for you?
  
 
 ---
@@ -7060,7 +7060,7 @@ Partially thanks to Nero's glamour, but...It was a lot of fun.
 ---
 
 **Fujimaru 1:**
-I'm sure it was fun for Nero, too.|
+I'm sure it was fun for Nero, too.
  
 
 ---
@@ -7081,7 +7081,7 @@ By the way Senpai, about what the Doctor said.
 ---
 
 **Fujimaru 1:**
-What did Roman say?|
+What did Roman say?
  
 
 ---
@@ -7102,7 +7102,7 @@ I know several effective methods shiatsu, deep tissue...
 ---
 
 **Fujimaru 1:**
-Sounds good.|
+Sounds good.
  
 **Mash:**
 Really?
