@@ -1,4 +1,4 @@
-# Cosmos in the Lostbelt 2: Eternal Frozen Fire Century - Götterdämmerung
+#Cosmos in the Lostbelt 2: Eternal Frozen Fire Century - Götterdämmerung
 
 ![Gotterdamerung](https://i.imgur.com/D464pi4.png)
 
@@ -45,7 +45,7 @@ Hahaha, of course it does! First we'll go out and get some fresh air, then we'll
 ---
 
 **Fujimaru 1:**
-I am kind of interested, but...|
+I am kind of interested, but...
 
 ---
 
@@ -65,7 +65,7 @@ You still haven't told me what the Wandering Sea actually is...
 ---
 
 **Fujimaru 1:**
-...You don't know either, do you?|
+...You don't know either, do you?
  
 
 ---
@@ -248,7 +248,7 @@ Assuming that the Border can convert the mana in the atmosphere into electricity
 ---
 
 **Fujimaru 1:**
-What if we go to the Wandering Sea via Zero Sail?|
+What if we go to the Wandering Sea via Zero Sail?
 
 ---
 
@@ -349,7 +349,7 @@ Good grief. No sooner are we done with one Lostbelt than we're off to a second.Y
 ---
 
 **Fujimaru 1:**
-...Honestly, that's a scary thought.|
+...Honestly, that's a scary thought.
  
 **Holmes:**
 Indeed, I heartily concur.But I promise you will have our full support.
@@ -412,7 +412,7 @@ When I'm through with him, he'll have told us what the Crypters are, what Wodime
 ---
 
 **Fujimaru 1:**
-I'm coming too.|
+I'm coming too.
  
 **Goredolf:**
 Hmph. Don't you look at me like that.
@@ -499,7 +499,7 @@ Huh? Really?
 ---
 
 **Fujimaru 1:**
-Some great detective you are!|
+Some great detective you are!
 
 ---
 
@@ -540,7 +540,7 @@ I trust you're all right with that, Fujimaru?
 ---
 
 **Fujimaru 1:**
-I am. Go for it, Mash!|
+I am. Go for it, Mash!
  
 **Mash:**
 Don't worry, Senpai. I won't let them put one more scratch on the Border!
@@ -675,7 +675,7 @@ I think someone opened the Border's hatch and got outside!
 ---
 
 **Fujimaru 1:**
-...!|
+...!
 
 ---
 
@@ -707,7 +707,7 @@ Do not let Kadoc get away! I have a mountain of questions I still need to ask hi
 ---
 
 **Fujimaru 1:**
-Right...!|
+Right...!
  
 
 ---
@@ -722,7 +722,7 @@ You're looking a little less dazed now. Glad to see you're back to your usual ha
 ---
 
 **Fujimaru 1:**
-Looks like you're back up and at 'em, too.|
+Looks like you're back up and at 'em, too.
  
 **Kadoc:**
 Yeah? Guess we've both been pushing ourselves to the limit. Takes its toll though, doesn't it?
@@ -800,7 +800,7 @@ T-t-turn around, you idiot!
 ---
 
 **Fujimaru 1:**
-Kadoc!|
+Kadoc!
  
 
 ---
@@ -818,7 +818,7 @@ You too, Master of Chaldea. Allow me to offer my congratulations on successfully
 ---
 
 **Fujimaru 1:**
-Let go of him, right now...!|
+Let go of him, right now...!
  
 
 ---
@@ -836,7 +836,7 @@ So I thought I would give him as merciful a send-off as possible.
 ---
 
 **Fujimaru 1:**
-...!|
+...!
  
 
 ---
@@ -1085,7 +1085,7 @@ Will it be a hellish wasteland inhospitable to life?Or perhaps...
 ---
 
 **Fujimaru 1:**
-So that's what those storm walls look like from the outside...|
+So that's what those storm walls look like from the outside...
  
 
 ---
@@ -1139,7 +1139,7 @@ I mean, is it just me, or is looking down at your own body in third person a TRU
 ---
 
 **Fujimaru 1:**
-One thousand percent seconded.|
+One thousand percent seconded.
  
 **Goredolf:**
 Right? If I'd known this was on the agenda,I would've had a much lighter breakfast!
@@ -1202,7 +1202,7 @@ All set, Fujimaru? You do know we'll be setting foot in another brand new world 
 ---
 
 **Fujimaru 1:**
-...I'm well aware!|
+...I'm well aware!
 
 ---
 
@@ -1271,7 +1271,7 @@ So, then...
 
 **--SECTION BREAK--:**
  
-**P.A. System</b>
+**P.A. System**
 Report from the computer room.Report from the computer room.</span>
  
 **Da Vinci:**
@@ -1298,7 +1298,7 @@ Hm? O-oh, yes, did you need something,Technical Advisor? Is it teatime already?
 ---
 
 **Fujimaru 1:**
-Uhhh...no.|
+Uhhh...no.
  
 **Meunière:**
 It'd be better to wait until we're back in reality for that. Assuming we end up somewhere peaceful when we cross the storm wall, that is.
@@ -1364,7 +1364,7 @@ Not to mention, verifying the existence of Void Space may be a great feat, I'll 
 ---
 
 **Fujimaru 1:**
-Well... No, not really.|
+Well... No, not really.
 
 ---
 
@@ -1414,7 +1414,7 @@ W-well of course you haven't. Once you get to be a man of my caliber, Ms. Mash, 
 ---
 
 **Fujimaru 1:**
-That's Holmes's way of complimenting you, Director.|
+That's Holmes's way of complimenting you, Director.
  
 **Mash:**
 I think so too. Mr. Holmes only ever speaks about what he is certain of, after all.
@@ -1477,7 +1477,7 @@ Um, Director Goredolf, Da Vinci just briefed us about that right after we arrive
 ---
 
 **Fujimaru 1:**
-(...Hang on.)|
+(...Hang on.)
 
 ---
 
@@ -1618,7 +1618,7 @@ I encourage you all to remain calm and in control so that we may better react to
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -1638,7 +1638,7 @@ Wh-what was that!?
 ---
 
 **Fujimaru 1:**
-Why were those radar beeps so loud?|
+Why were those radar beeps so loud?
 
 ---
 
@@ -1769,7 +1769,7 @@ Please calm down, Director. I, um...I know this may not help put your mind at ea
 ---
 
 **Fujimaru 1:**
-What is it?|
+What is it?
 
 ---
 
@@ -1867,7 +1867,7 @@ Isn't that incredibly dangerous...!?
 ---
 
 **Fujimaru 1:**
-Don't worry.|
+Don't worry.
  
 **Mash:**
 R-right!
@@ -1906,30 +1906,30 @@ Man, wouldn't it be great if another Salieri dropped into our laps right now? Li
 **Da Vinci:**
 ...Damn, it didn't work. Ah, well, worth a shot.Guess we're on our own after all!All right then, let's do this thing!
  
-**P.A. System</b>
+**P.A. System**
 Activating Paper Moon. Initiating planet navigational chart plus/minus convergence. Commencing Shadow Border's docking sequence into reality boundary.</span>
  
-**P.A. System</b>
+**P.A. System**
 Disengaging mirror world plane voyage... Though the stratum may dissolve, I continue to exist. Reapplying timeflow attraction from Reality Space.</span>
  
-**P.A. System</b>
+**P.A. System**
 0.4 second difference between target coordinates and current recognition, confirmed! That's well within tolerances, so we are good to gooo!</span>
  
 **Mash:**
 Khh...!
  
-**P.A. System</b>
+**P.A. System**
 Emerging from Void Space.Thirty seconds until arrival at Reality Space.</span>
  
-**P.A. System</b>
+**P.A. System**
 Zero Sail, complete.Emerging into Reality Space.</span>
  
 **--ARROW--:**
  
-**P.A. System</b>
+**P.A. System**
 The Ortinax exoskeleton is operating within expected parameters. Internal pressure regulation, combustion, and weaponry are all good to go.</span>
  
-**P.A. System</b>
+**P.A. System**
 Armored Shielder is cleared to deploy.Well? Feeling up to this, Mash?</span>
  
 **Mash:**
@@ -1968,7 +1968,7 @@ You got it. Shadow Border, open the hatch!We are go for our recon mission!
 ---
 
 **Fujimaru 1:**
-How are you feeling, Mash?|
+How are you feeling, Mash?
  
 **Mash:**
 Don't worry, I'm feeling fine.And the Ortinax is in great shape, too.
@@ -2013,7 +2013,7 @@ I'm sure the temperature will drop to well below zero once night falls, but righ
 ---
 
 **Fujimaru 1:**
-Same. This place would get a lot of tourists if it existed in our history.|
+Same. This place would get a lot of tourists if it existed in our history.
 
 ---
 
@@ -2039,7 +2039,7 @@ It's enough to make me hope that maybe...not every Lostbelt is dangerous.
 ---
 
 **Fujimaru 1:**
-All right, it's perimeter check time!|
+All right, it's perimeter check time!
  
 **Mash:**
 Right! Let's start by looking for some sort of hill, so we can get a better view of our surroundings!
@@ -2078,7 +2078,7 @@ There's some sort of blue haze to the north,about halfway along the range. Wait,
 ---
 
 **Fujimaru 1:**
-Flames.|
+Flames.
 
 ---
 
@@ -2110,7 +2110,7 @@ This doesn't add up. I've heard parts of Scandinavia can get almost no sunlight 
 ---
 
 **Fujimaru 1:**
-The sun, huh...|
+The sun, huh...
  
 
 ---
@@ -2125,7 +2125,7 @@ The sun, huh...|
 ---
 
 **Fujimaru 1:**
-Huh?|
+Huh?
 
 ---
 
@@ -2166,7 +2166,7 @@ Still, we cannot afford to waste any time, which is of course why we sent the pa
 ---
 
 **Fujimaru 1:**
-...That's all we can see from here.|
+...That's all we can see from here.
  
 
 ---
@@ -2199,7 +2199,7 @@ I don't recall anything along those lines in Scandinavian or Germanic folklore, 
 ---
 
 **Fujimaru 1:**
-...What about the fire?|
+...What about the fire?
  
 **Holmes:**
 I have a theory about that.
@@ -2232,7 +2232,7 @@ Whatever it is, it must be the work of a Crypter or a Lostbelt Servant. That, I 
 ---
 
 **Fujimaru 1:**
-Assuming it's a Lostbelt Servant...|
+Assuming it's a Lostbelt Servant...
 
 ---
 
@@ -2318,7 +2318,7 @@ We...are&ndash;
 ---
 
 **Fujimaru 1:**
-It's no use, Mash!|
+It's no use, Mash!
 
 ---
 
@@ -2338,7 +2338,7 @@ He's about to attack!
 ---
 
 **Fujimaru 1:**
-Get ready to fight!|
+Get ready to fight!
 
 ---
 
@@ -2363,7 +2363,7 @@ I'll back you up!
 ---
 
 **Fujimaru 1:**
-Mash, you're looking really tired...|
+Mash, you're looking really tired...
 
 ---
 
@@ -2398,7 +2398,7 @@ He was simply an enormous humanoid creature native to Scandinavia. One that coul
 ---
 
 **Fujimaru 1:**
-Did you say...a giant?|
+Did you say...a giant?
  
 **Mash:**
 ...Yes...
@@ -2446,7 +2446,7 @@ I caught a glimpse of his eyes behind the mask and he seemed...consumed by blood
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -2497,7 +2497,7 @@ I'm picking up new hostiles in our periphery...! There's at least one...two...no
 ---
 
 **Fujimaru 1:**
-We need to get out before we're surrounded!|
+We need to get out before we're surrounded!
 
 ---
 
@@ -2517,7 +2517,7 @@ I can see them up ahead!Master!
 ---
 
 **Fujimaru 1:**
-Time to fight, then!|
+Time to fight, then!
  
 
 ---
@@ -2543,7 +2543,7 @@ Wait. You're right, Mr. Holmes. I can sense faint magical energy around us... Co
 ---
 
 **Fujimaru 1:**
-Maybe it's a Lostbelt Servant that can control snow?|
+Maybe it's a Lostbelt Servant that can control snow?
  
 **Mash:**
 I'm not sure, but that certainly seems possible.
@@ -2690,7 +2690,7 @@ Fooou...
 ---
 
 **Fujimaru 1:**
-You sure sound certain.|
+You sure sound certain.
 
 ---
 
@@ -2719,7 +2719,7 @@ Precisely. While there, I came in contact with the Pseudo-Spiritron Calculation 
 ---
 
 **Fujimaru 1:**
-Hmm.|
+Hmm.
 
 ---
 
@@ -2799,7 +2799,7 @@ At the time, there was something else we wanted to ask about...
 ---
 
 **Fujimaru 1:**
-Oh, right!|
+Oh, right!
 
 ---
 
@@ -2905,7 +2905,7 @@ Do we keep quiet and hope they don't find us?
 ---
 
 **Fujimaru 1:**
-...No. We shouldn't just wait around.|
+...No. We shouldn't just wait around.
 
 ---
 
@@ -2949,7 +2949,7 @@ Right. I've got my exoskeleton ready to go, so I can activate it at a moment's n
 ---
 
 **Fujimaru 1:**
-I'm all set too!|
+I'm all set too!
  
 
 ---
@@ -3054,7 +3054,7 @@ Director, Holmes, I'm leaving this place in your hands while I go verify our exi
 ---
 
 **Fujimaru 1:**
-So, uh, change of plans, I guess?|
+So, uh, change of plans, I guess?
 
 ---
 
@@ -3122,7 +3122,7 @@ Senpai, I...I still have sensation in my extremities,and I can still feel normal
 ---
 
 **Fujimaru 1:**
-Does this mean the Zero Sail failed!?|
+Does this mean the Zero Sail failed!?
 
 ---
 
@@ -3169,7 +3169,7 @@ Are you hurt, Senpai!?
 ---
 
 **Fujimaru 1:**
-I'm fine.|
+I'm fine.
 
 ---
 
@@ -3186,7 +3186,7 @@ Thank goodness...
 ---
 
 **Fujimaru 1:**
-They just picked us up...|
+They just picked us up...
 
 ---
 
@@ -3260,7 +3260,7 @@ I&ndash;I mean, the old me spent a ton of time making sure of that! What kind of
 ---
 
 **Fujimaru 1:**
-Right.|
+Right.
 
 ---
 
@@ -3298,7 +3298,7 @@ I've opened the hatch! I can confirm the hostile Servant is on the Border's port
 ---
 
 **Fujimaru 1:**
-That's enough...!|
+That's enough...!
 
 ---
 
@@ -3381,7 +3381,7 @@ Khh...!
 ---
 
 **Fujimaru 1:**
-Mash!|
+Mash!
  
 **Mash:**
 I...I'm all right!I can do this!
@@ -3465,7 +3465,7 @@ Just because I may not be up to the task in front of me now doesn't mean I can g
 ---
 
 **Fujimaru 1:**
-(Steel yourself)|
+(Steel yourself)
  
 
 ---
@@ -3587,7 +3587,7 @@ He still hasn't swung what I believe to be his true blade,the demonic sword Gram
 ---
 
 **Fujimaru 1:**
-That long, red sword...|
+That long, red sword...
 
 ---
 
@@ -3613,7 +3613,7 @@ Khh...!
 ---
 
 **Fujimaru 1:**
-This pressure is intense!|
+This pressure is intense!
 
 ---
 
@@ -3666,7 +3666,7 @@ Senpai... Sen...pai...!Holmes's right arm is...gone...!
 ---
 
 **Fujimaru 1:**
-Keep calm, Mash.|
+Keep calm, Mash.
  
 **Mash:**
 R...right...
@@ -3702,7 +3702,7 @@ Senpai!
 ---
 
 **Fujimaru 1:**
-I'll use a Mystic Code to heal him!|
+I'll use a Mystic Code to heal him!
 
 ---
 
@@ -3764,7 +3764,7 @@ I'm certain he isn't yet fully acclimated. There's a chance you may still be abl
 ---
 
 **Fujimaru 1:**
-Acclimated? What do you mean?|
+Acclimated? What do you mean?
 
 ---
 
@@ -3793,7 +3793,7 @@ His Spirit Core is still intact, Senpai.
 ---
 
 **Fujimaru 1:**
-...Come on! We've got to stop Sigurd!|
+...Come on! We've got to stop Sigurd!
  
 
 ---
@@ -3903,7 +3903,7 @@ He's still somewhere inside the Border...He appears to be headed for the cockpit
 ---
 
 **Fujimaru 1:**
-Holmes's Noble Phantasm is still active!|
+Holmes's Noble Phantasm is still active!
 
 ---
 
@@ -3923,7 +3923,7 @@ Huh!? There's nobody here!No signs of a struggle, either. What in the&ndash;
 ---
 
 **Fujimaru 1:**
-It looks like the side hatch is open...?|
+It looks like the side hatch is open...?
 
 ---
 
@@ -3973,7 +3973,7 @@ There's no reason for you to sully your hands with the blood of insignificant sp
 ---
 
 **Fujimaru 1:**
-Hold it right there!|
+Hold it right there!
 
 ---
 
@@ -4023,7 +4023,7 @@ All right, then tell me your names.I hear that's what human heroes are supposed 
 ---
 
 **Fujimaru 1:**
-And I'm Fujimaru!|
+And I'm Fujimaru!
  
 
 ---
@@ -4073,7 +4073,7 @@ Ghh...!Haaaaaa!
 ---
 
 **Fujimaru 1:**
-Using a Command Spell!|
+Using a Command Spell!
  
 
 ---
@@ -4082,7 +4082,7 @@ Using a Command Spell!|
 ---
 
 **Fujimaru 1:**
-Using a Command Spell!|
+Using a Command Spell!
  
 
 ---
@@ -4124,7 +4124,7 @@ What about it?
 ---
 
 **Fujimaru 1:**
-Mash!|
+Mash!
 
 ---
 
@@ -4150,7 +4150,7 @@ I can't...afford to...fall...yet...!Senpai... Sen...pai...
 ---
 
 **Fujimaru 1:**
-(Run over to her)|
+(Run over to her)
  
 
 ---
@@ -4198,7 +4198,7 @@ Farewell.
 ---
 
 **Fujimaru 1:**
-(Refuse to look away)|
+(Refuse to look away)
  
 **Fujimaru:**
 ...
@@ -4261,7 +4261,7 @@ So...please, just stay still for now...
 ---
 
 **Fujimaru 1:**
-Mash...!|
+Mash...!
  
 
 ---
@@ -4715,7 +4715,7 @@ Although...
 ---
 
 **Fujimaru 1:**
-How's Holmes doing?|
+How's Holmes doing?
 
 ---
 
@@ -4795,7 +4795,7 @@ But it was thanks to you that Holmes didn't disappear before I could finish the 
 ---
 
 **Fujimaru 1:**
-It's fine. Don't worry about that.|
+It's fine. Don't worry about that.
 
 ---
 
@@ -4884,7 +4884,7 @@ And since we have to stay here and repair the Border...
 ---
 
 **Fujimaru 1:**
-W-we're on it.|
+W-we're on it.
 
 ---
 
@@ -4901,7 +4901,7 @@ Still...I'm a little worried about leaving the Border with Holmes in such critic
 ---
 
 **Fujimaru 1:**
-What if you get attacked again...?|
+What if you get attacked again...?
  
 **Da Vinci:**
 I get where you're coming from, but it seems pretty clear that Sigurd was only after the Paper Moon.
@@ -5033,7 +5033,7 @@ I'm guessing that here in this Scandinavian Lostbelt,the Age of Gods never ended
 ---
 
 **Fujimaru 1:**
-We have run into giants...|
+We have run into giants...
  
 **Mash:**
 Yes. As we've seen for ourselves, giants are very much alive and well in this Lostbelt.
@@ -5123,7 +5123,7 @@ Which is why your mission objectives include finding it. Good luck. We're counti
 ---
 
 **Fujimaru 1:**
-Roger that!|
+Roger that!
  
 **Goredolf:**
 Good. That's what I like to hear.It really raises my hopes for your performance!
@@ -5159,7 +5159,7 @@ Fou!
 ---
 
 **Fujimaru 1:**
-Because the Border doesn't have enough power...?|
+Because the Border doesn't have enough power...?
 
 ---
 
@@ -5200,7 +5200,7 @@ I hope you can appreciate how difficult of a decision this was to reach.
 ---
 
 **Fujimaru 1:**
-All clear here.|
+All clear here.
 
 ---
 
@@ -5295,7 +5295,7 @@ So let's get started with that information gathering and, hopefully, recruiting 
 ---
 
 **Fujimaru 1:**
-Got it!|
+Got it!
 
 ---
 
@@ -5329,7 +5329,7 @@ I'm all set, Senpai.
 ---
 
 **Fujimaru 1:**
-I'm glad it's still sunny out.|
+I'm glad it's still sunny out.
  
 **Mash:**
 Me too. I think this is a good sign!
@@ -5410,7 +5410,7 @@ I'm pretty sure that was his way of showing he's worried about you two. I mean, 
 ---
 
 **Fujimaru 1:**
-I'm starting to get a better sense of him.|
+I'm starting to get a better sense of him.
  
 **Mash:**
 ...
@@ -5476,7 +5476,7 @@ But that doesn't mean I'm giving up. I've still got a few ideas I'll try when I 
 ---
 
 **Fujimaru 1:**
-You've had a lot on your plate between healing Holmes and fixing the Border.|
+You've had a lot on your plate between healing Holmes and fixing the Border.
 
 ---
 
@@ -5529,7 +5529,7 @@ Fou fou fou, fo fo fo.
 ---
 
 **Fujimaru 1:**
-I feel safer already.|
+I feel safer already.
 
 ---
 
@@ -5594,7 +5594,7 @@ Are these some kind of additional equipment for my exoskeleton? When did you eve
 ---
 
 **Fujimaru 1:**
-They're skis!|
+They're skis!
 
 ---
 
@@ -5623,7 +5623,7 @@ I've got a set for you too, Fujimaru. With these,you three should be able to mak
 ---
 
 **Fujimaru 1:**
-Now we won't have to ride any weird local animals...!|
+Now we won't have to ride any weird local animals...!
 
 ---
 
@@ -5673,7 +5673,7 @@ Right!
 ---
 
 **Fujimaru 1:**
-See you later, Da Vinci!|
+See you later, Da Vinci!
  
 
 ---
@@ -5693,7 +5693,7 @@ So this is the Scandinavian Lostbelt...Looking at it again, it's all very...
 ---
 
 **Fujimaru 1:**
-Strange.|
+Strange.
  
 **Mash:**
 Yes. I think so too.
@@ -5762,7 +5762,7 @@ No, wait... Not trees, just ice shaped like conifers...?
 ---
 
 **Fujimaru 1:**
-Does this mean there aren't any plants here?|
+Does this mean there aren't any plants here?
 
 ---
 
@@ -5803,7 +5803,7 @@ That must mean this Lostbelt has other, normal animals and not just giants and D
 ---
 
 **Fujimaru 1:**
-Looks that way.|
+Looks that way.
  
 
 ---
@@ -5851,7 +5851,7 @@ There we go. We're currently on the Scandinavian Peninsula, right on top of what
 ---
 
 **Fujimaru 1:**
-Got it.|
+Got it.
  
 **Mash:**
 ......
@@ -5917,7 +5917,7 @@ No, never mind. I'll worry about that later.Right now, we need to take care of t
 ---
 
 **Fujimaru 1:**
-Let's go head them off!|
+Let's go head them off!
 
 ---
 
@@ -5951,7 +5951,7 @@ I know I need to be extra vigilant in watching for magical energy signals and Se
 ---
 
 **Fujimaru 1:**
-Don't worry, Mash. It's okay. Really.|
+Don't worry, Mash. It's okay. Really.
  
 **Mash:**
 ...Thank you, Senpai.
@@ -5999,7 +5999,7 @@ In other words...I'm free to make decisions, act independently, and return to ba
 ---
 
 **Fujimaru 1:**
-Personnel Code, Article 23, Paragraph 2, huh...|
+Personnel Code, Article 23, Paragraph 2, huh...
 
 ---
 
@@ -6016,7 +6016,7 @@ Yes, it is. Dr. Roman added Paragraph 2 when no one was looking.
 ---
 
 **Fujimaru 1:**
-That explains it.|
+That explains it.
  
 **Mash:**
 Yes...All right, let's resume our expedition, Senpai.
@@ -6046,7 +6046,7 @@ Since there are a lot of trees in this area, I think it would be better to put t
 ---
 
 **Fujimaru 1:**
-Good idea. Let's do that.|
+Good idea. Let's do that.
  
 **Mash:**
 Okay, Senpai.
@@ -6091,7 +6091,7 @@ Maybe the path we took to avoid the fiery mountains ended up bringing us to thei
 ---
 
 **Fujimaru 1:**
-We don't want to fight them if we can help it.|
+We don't want to fight them if we can help it.
 
 ---
 
@@ -6141,7 +6141,7 @@ Fou. Fou.
 ---
 
 **Fujimaru 1:**
-Of course.|
+Of course.
  
 **Mash:**
 Thank you.
@@ -6186,7 +6186,7 @@ And yet... I don't know why, but...
 ---
 
 **Fujimaru 1:**
-True, he and Siegfried couldn't be more different.|
+True, he and Siegfried couldn't be more different.
  
 **Mash:**
 ...I agree.
@@ -6213,7 +6213,7 @@ Senpai, I think I hear some&ndash;
 ---
 
 **Fujimaru 1:**
-That sounded like a child!|
+That sounded like a child!
 
 ---
 
@@ -6269,7 +6269,7 @@ I-I don't understand... Why are you doing this!?Go on, get out of here!
 ---
 
 **Fujimaru 1:**
-We can't do that!|
+We can't do that!
 
 ---
 
@@ -6292,7 +6292,7 @@ No they won't! We won't let them! Ortinax is holding steady at maximum output. I
 ---
 
 **Fujimaru 1:**
-Let's save this girl, Mash!|
+Let's save this girl, Mash!
  
 **Mash:**
 Right!
@@ -6321,7 +6321,7 @@ But, I don't remember reading anything about them banding together and attacking
 ---
 
 **Fujimaru 1:**
-First things first: great job out there, Mash.|
+First things first: great job out there, Mash.
  
 **Mash:**
 Thank you, Master.
@@ -6381,7 +6381,7 @@ Umm... Excuse me...
 ---
 
 **Fujimaru 1:**
-It's okay. You can open your eyes.|
+It's okay. You can open your eyes.
 
 ---
 
@@ -6446,7 +6446,7 @@ What are YOUR names?
 ---
 
 **Fujimaru 1:**
-I'm Fujimaru.|
+I'm Fujimaru.
  
 **Mash:**
 And I'm Mash Kyrielight.
@@ -6524,7 +6524,7 @@ B-but I also have to find the medicinal herbs before I go back...
 ---
 
 **Fujimaru 1:**
-...Right.|
+...Right.
  
 **Mash:**
 ...Senpai?
@@ -6557,7 +6557,7 @@ But, if we're going to restore Proper Human History...
 ---
 
 **Fujimaru 1:**
-I know, it's just...|
+I know, it's just...
 
 ---
 
@@ -6654,7 +6654,7 @@ Oh, wait. Maybe it's the other way around,and Gerda's actually the one who's tak
 ---
 
 **Fujimaru 1:**
-I think so.|
+I think so.
 
 ---
 
@@ -6701,7 +6701,7 @@ If someone needed to come out here...
 ---
 
 **Fujimaru 1:**
-Those are all good points.|
+Those are all good points.
 
 ---
 
@@ -6802,7 +6802,7 @@ Wait. Me...an envoy...?
 ---
 
 **Fujimaru 1:**
-Yeah, I could see it.|
+Yeah, I could see it.
  
 **Mash:**
 S-Senpai?
@@ -6826,7 +6826,7 @@ C-come on, Master.This is no time to be joking around...
 ---
 
 **Fujimaru 1:**
-Anyway, let's go find these medicinal herbs you're looking for.|
+Anyway, let's go find these medicinal herbs you're looking for.
 
 ---
 
@@ -6902,7 +6902,7 @@ Fou, fou fooou fooou.
 ---
 
 **Fujimaru 1:**
-Yeah, you're right. It does.|
+Yeah, you're right. It does.
  
 **Mash:**
 (Right.)
@@ -6998,7 +6998,7 @@ Senpai, Gerda! I'm sorry, but please stay still for a bit! Try not to make any s
 ---
 
 **Fujimaru 1:**
-(Almost where, exactly?)|
+(Almost where, exactly?)
 
 ---
 
@@ -7051,7 +7051,7 @@ Senpai, Gerda! I'm sorry, but please stay still for a bit! Try not to make any s
 ---
 
 **Fujimaru 1:**
-(It IS beautiful here...)|
+(It IS beautiful here...)
 
 ---
 
@@ -7077,7 +7077,7 @@ Senpai, Gerda! I'm sorry, but please stay still for a bit! Try not to make any s
 ---
 
 **Fujimaru 1:**
-(There are a lot of them here...)|
+(There are a lot of them here...)
 
 ---
 
@@ -7115,7 +7115,7 @@ Senpai, Gerda! I'm sorry, but please stay still for a bit! Try not to make any s
 ---
 
 **Fujimaru 1:**
-(Don't worry, we've got that part covered.)|
+(Don't worry, we've got that part covered.)
 
 ---
 
@@ -7144,7 +7144,7 @@ Senpai, requesting orders and support!
 ---
 
 **Fujimaru 1:**
-Right! Now let's get this operation underway!|
+Right! Now let's get this operation underway!
 
 ---
 
@@ -7195,7 +7195,7 @@ Don't worry about me, Senpai!Just tell me what you need me to do...!
 ---
 
 **Fujimaru 1:**
-There's still a bunch more coming!|
+There's still a bunch more coming!
 
 ---
 
@@ -7230,7 +7230,7 @@ Expanding the Ortinax's functionality!Temporarily boosting output! ...Amalgam Go
 ---
 
 **Fujimaru 1:**
-Hang in there just a little longer, Mash!|
+Hang in there just a little longer, Mash!
  
 **Mash:**
 I will! Don't worry, I'm fine!
@@ -7254,7 +7254,7 @@ I got the herbs!
 ---
 
 **Fujimaru 1:**
-Mash!|
+Mash!
 
 ---
 
@@ -7283,7 +7283,7 @@ I bet they could never catch and squish you like they do with all the grown-ups.
 ---
 
 **Fujimaru 1:**
-All the grown-ups?|
+All the grown-ups?
 
 ---
 
@@ -7506,7 +7506,7 @@ I see...
 ---
 
 **Fujimaru 1:**
-This village is a lot bigger than I expected.|
+This village is a lot bigger than I expected.
  
 **Mash:**
 Same here. From the outside, it looked like a fairly wide area surrounded by large wooden walls.
@@ -7557,7 +7557,7 @@ Maybe “kind” is a little too vague,but I'm not quite sure how else to put it
 ---
 
 **Fujimaru 1:**
-So like, magecraft designed to enrich people's lives...?|
+So like, magecraft designed to enrich people's lives...?
  
 **Mash:**
 Yes, that's a much clearer way to put it, Senpai!
@@ -7641,7 +7641,7 @@ Fo fou.
 ---
 
 **Fujimaru 1:**
-Director?|
+Director?
 
 ---
 
@@ -7724,7 +7724,7 @@ Fo!?
 ---
 
 **Fujimaru 1:**
-You're going to come here, Director?|
+You're going to come here, Director?
 
 ---
 
@@ -7855,7 +7855,7 @@ Well, um, it just sounds a bit...
 ---
 
 **Fujimaru 1:**
-That's not like any name for a village I know.|
+That's not like any name for a village I know.
 
 ---
 
@@ -7911,7 +7911,7 @@ Just run off and play, would you!?Or better yet, go and fetch a grown-up!
 ---
 
 **Fujimaru 1:**
-Kids! Kids everywhere!|
+Kids! Kids everywhere!
 
 ---
 
@@ -7952,7 +7952,7 @@ Of course you're not going to find any in a village. I mean...
 ---
 
 **Fujimaru 1:**
-...What?|
+...What?
  
 **Gerda:**
 Yes?
@@ -8006,7 +8006,7 @@ Uh-huh. Children and the grown-ups raising them are the only ones allowed to liv
 ---
 
 **Fujimaru 1:**
-There's... There's nobody over twenty-five?|
+There's... There's nobody over twenty-five?
 
 ---
 
@@ -8478,7 +8478,7 @@ It's no use.I can't seem to get through to the Border.
 ---
 
 **Fujimaru 1:**
-I wonder why we got through earlier...|
+I wonder why we got through earlier...
 
 ---
 
@@ -8582,7 +8582,7 @@ Right. To thin the herd.
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -8651,7 +8651,7 @@ N-no, it's not that. S-Senpai?How can I clear up this misunderstanding...?
 ---
 
 **Fujimaru 1:**
-I don't think we can. She really thinks we're envoys.|
+I don't think we can. She really thinks we're envoys.
 
 ---
 
@@ -8671,7 +8671,7 @@ Yes...I suppose you're right. In that case,I'll hold off on trying to convince h
 ---
 
 **Fujimaru 1:**
-Go for it.|
+Go for it.
 
 ---
 
@@ -8700,7 +8700,7 @@ Well...You see...
 ---
 
 **Fujimaru 1:**
-Director? You're awake?|
+Director? You're awake?
 
 ---
 
@@ -8864,7 +8864,7 @@ Grrr, this whole thing really bothers me! And now our connection is acting up, t
 ---
 
 **Fujimaru 1:**
-Director Goredolf...|
+Director Goredolf...
 
 ---
 
@@ -8902,7 +8902,7 @@ But, even so...I think...that's what everyone wants.
 ---
 
 **Fujimaru 1:**
-Mash...|
+Mash...
  
 
 ---
@@ -9012,7 +9012,7 @@ Sleep deprivation is one of the worst things you can do for your health, so you 
 ---
 
 **Fujimaru 1:**
-Morning, Mash.|
+Morning, Mash.
  
 **Mash:**
 Good morning. I see you're up early too, Senpai....Did you have trouble sleeping?
@@ -9129,7 +9129,7 @@ Valhalla...?
 ---
 
 **Fujimaru 1:**
-Isn't that...|
+Isn't that...
  
 **Mash:**
 Yes... It's one of the lands of the dead in Norse mythology.
@@ -9291,7 +9291,7 @@ We will go to meet our end.Please, open the gate for us...
 ---
 
 **Fujimaru 1:**
-Hold it!|
+Hold it!
  
 
 ---
@@ -9372,7 +9372,7 @@ And I will not just look the other way while that happens here! ...Master!
 ---
 
 **Fujimaru 1:**
-You said it! Let's do this, Mash!|
+You said it! Let's do this, Mash!
  
 
 ---
@@ -9488,7 +9488,7 @@ I was foolish...reckless...
 ---
 
 **Fujimaru 1:**
-Hey, it's okay. I would've said the same.|
+Hey, it's okay. I would've said the same.
 
 ---
 
@@ -9537,7 +9537,7 @@ The Ortinax's auto-maintenance function should finish in time, but...
 ---
 
 **Fujimaru 1:**
-And we won't be getting any help from the Border.|
+And we won't be getting any help from the Border.
 
 ---
 
@@ -9596,7 +9596,7 @@ But once I'm squished, it'll all be over,and I'll be fine. So&ndash;
 ---
 
 **Fujimaru 1:**
-There's nothing fine about that!|
+There's nothing fine about that!
  
 
 ---
@@ -9605,7 +9605,7 @@ There's nothing fine about that!|
 ---
 
 **Fujimaru 1:**
-Nobody's dying on my watch if I can help it! Nobody!|
+Nobody's dying on my watch if I can help it! Nobody!
  
 
 ---
@@ -9739,7 +9739,7 @@ This is what they call lending a helping hand! Let your magical energy loose! Do
 ---
 
 **Fujimaru 1:**
-Your helping hand couldn't have come at a better time!|
+Your helping hand couldn't have come at a better time!
 
 ---
 
@@ -9797,7 +9797,7 @@ Th-the battle is...over, Sen...pai...
 ---
 
 **Fujimaru 1:**
-Nothing we can do now except brace for yelling.|
+Nothing we can do now except brace for yelling.
 
 ---
 
@@ -9844,7 +9844,7 @@ Oh, was that hard? Sorry 'bout that!Old habits die hard, as they say.
 ---
 
 **Fujimaru 1:**
-(Cough and hack)|
+(Cough and hack)
  
 
 ---
@@ -9856,7 +9856,7 @@ Sorry again. Here, how 'bout I give ya a back rub?Or are you all right now?
 ---
 
 **Fujimaru 1:**
-(Cough, cough) Are you&ndash;|
+(Cough, cough) Are you&ndash;
  
 
 ---
@@ -9960,7 +9960,7 @@ I guess it's about time I told you the point of this march, anyway. Say, I never
 ---
 
 **Fujimaru 1:**
-You didn't tell us anything.|
+You didn't tell us anything.
 
 ---
 
@@ -10043,7 +10043,7 @@ The Tree of Emptiness?Anyway, I bet they know where you can find that, too.
 ---
 
 **Fujimaru 1:**
-Huh?|
+Huh?
 
 ---
 
@@ -10153,7 +10153,7 @@ Scáthach-Skadi, goddess and queen, has been around for thousands of years, ever
 ---
 
 **Fujimaru 1:**
-Scáthach-Skadi...!?|
+Scáthach-Skadi...!?
 
 ---
 
@@ -10215,7 +10215,7 @@ That's right.
 ---
 
 **Fujimaru 1:**
-Don't worry about it.|
+Don't worry about it.
 
 ---
 
@@ -10259,7 +10259,7 @@ Is that right, Napoleon?
 ---
 
 **Fujimaru 1:**
-Yeah, how do you know so much...?|
+Yeah, how do you know so much...?
 
 ---
 
@@ -10312,7 +10312,7 @@ Just make sure you don't forget that. Long as you don't,we could even make a tem
 ---
 
 **Fujimaru 1:**
-I trust Napoleon.|
+I trust Napoleon.
 
 ---
 
@@ -10362,7 +10362,7 @@ Oh... Now that you mention it...Babbage's Heroic Spirit materialized as a mechan
 ---
 
 **Fujimaru 1:**
-There are some who seem a bit different from their real selves.|
+There are some who seem a bit different from their real selves.
 
 ---
 
@@ -10415,7 +10415,7 @@ So they must've brought a whole bunch of them along to make sure the ritual didn
 ---
 
 **Fujimaru 1:**
-Hold up.|
+Hold up.
 
 ---
 
@@ -10492,7 +10492,7 @@ Even with the odds that stacked against us,are you two still ready to fight?
 ---
 
 **Fujimaru 1:**
-...Of course.|
+...Of course.
 
 ---
 
@@ -10548,7 +10548,7 @@ Although, there IS one thing I'm a little concerned about.As I recall, Emperor N
 ---
 
 **Fujimaru 1:**
-Oh yeah, what was it again?|
+Oh yeah, what was it again?
  
 **Mash:**
 His expedition to Russia. The winter there was too harsh for his Grande Armée to endure, which ultimately led their defeat.
@@ -10578,7 +10578,7 @@ Still, since we're in a harsh wintry environment too, I will settle for avenging
 ---
 
 **Fujimaru 1:**
-Does that really count?|
+Does that really count?
 
 ---
 
@@ -10631,7 +10631,7 @@ So what do you say? Make sense to you, Private?
 ---
 
 **Fujimaru 1:**
-...I do want us to get better.|
+...I do want us to get better.
  
 **Napoleon:**
 Now we're talking.
@@ -10911,7 +10911,7 @@ At any rate, Master, I can confirm there are no more magical energy signals near
 ---
 
 **Fujimaru 1:**
-You too, Mash. Great job out there.|
+You too, Mash. Great job out there.
  
 **Mash:**
 Thank you!
@@ -10983,7 +10983,7 @@ Fou fo, fou!
 ---
 
 **Fujimaru 1:**
-You really know your way around a giant fight, huh.|
+You really know your way around a giant fight, huh.
 
 ---
 
@@ -11060,7 +11060,7 @@ Huh, that's pretty handy!But you can never have too many blankets. Here.
 ---
 
 **Fujimaru 1:**
-Thanks!|
+Thanks!
 
 ---
 
@@ -11080,7 +11080,7 @@ It's too bad we had to say our goodbyes so hastily...I wonder how Gerda's doing 
 ---
 
 **Fujimaru 1:**
-...Me too.|
+...Me too.
  
 **Mash:**
 ......
@@ -11134,7 +11134,7 @@ And when we do, we'll almost certainly have a fight waiting for us.
 ---
 
 **Fujimaru 1:**
-Do you think we can win...?|
+Do you think we can win...?
 
 ---
 
@@ -11166,7 +11166,7 @@ No, what you two need to do more than anything is...
 ---
 
 **Fujimaru 1:**
-Get the Paper Moon back!|
+Get the Paper Moon back!
 
 ---
 
@@ -11228,7 +11228,7 @@ If she ordered the giants in this area to find and attack us, we'd be fighting t
 ---
 
 **Fujimaru 1:**
-So, they're not on the alert...|
+So, they're not on the alert...
 
 ---
 
@@ -11295,7 +11295,7 @@ Huh, you don't say.So you two can see those birds too.
 ---
 
 **Fujimaru 1:**
-Huh?|
+Huh?
 
 ---
 
@@ -11362,7 +11362,7 @@ But it wasn't all for nothing, right? I may not have left with much in the way o
 ---
 
 **Fujimaru 1:**
-You mean you went in alone!?|
+You mean you went in alone!?
 
 ---
 
@@ -11412,7 +11412,7 @@ R-right.
 ---
 
 **Fujimaru 1:**
-Got it.|
+Got it.
  
 
 ---
@@ -11539,7 +11539,7 @@ You may bow your heads and kneel before me, human children.I am Scáthach-Skadi,
 ---
 
 **Fujimaru 1:**
-It's really her...|
+It's really her...
 
 ---
 
@@ -11583,7 +11583,7 @@ You did well to survive the demonic sword's assault. That is how it should be. I
 ---
 
 **Fujimaru 1:**
-(I can't believe it...)|
+(I can't believe it...)
 
 ---
 
@@ -11836,7 +11836,7 @@ Fou, fooou!!!
 ---
 
 **Fujimaru 1:**
-Over here, Fou!|
+Over here, Fou!
  
 **Fou:**
 Fo!
@@ -12028,7 +12028,7 @@ Fiancée!?
 ---
 
 **Fujimaru 1:**
-I'll just pick my jaw up off the floor...|
+I'll just pick my jaw up off the floor...
 
 ---
 
@@ -12123,7 +12123,7 @@ Yeah, that's right. I'm in love with you. How's that?Are you convinced now? Ma c
 ---
 
 **Fujimaru 1:**
-You're serious, aren't you?|
+You're serious, aren't you?
 
 ---
 
@@ -12209,7 +12209,7 @@ And then there's that odd air about him...
 ---
 
 **Fujimaru 1:**
-I don't like this! I don't like this at all!|
+I don't like this! I don't like this at all!
 
 ---
 
@@ -12402,7 +12402,7 @@ I can't turn back now, Senpai!
 ---
 
 **Fujimaru 1:**
-Don't you dare overdo it!|
+Don't you dare overdo it!
 
 ---
 
@@ -12502,7 +12502,7 @@ Let me show you what I mean...
 ---
 
 **Fujimaru 1:**
-My...body...!|
+My...body...!
 
 ---
 
@@ -12897,7 +12897,7 @@ Lord Kirschtaria...
 ---
 
 **Fujimaru 1:**
-You know...|
+You know...
 
 ---
 
@@ -13060,7 +13060,7 @@ So trust me when I say I know what I'm doing!
 ---
 
 **Fujimaru 1:**
-You got it, Supreme Commander!|
+You got it, Supreme Commander!
  
 **Mash:**
 R-right!
@@ -13122,7 +13122,7 @@ N-not at all!Your plan did work out in the end!
 ---
 
 **Fujimaru 1:**
-We did accomplish our goal without losing anyone!|
+We did accomplish our goal without losing anyone!
  
 **Mash:**
 That's true. And nobody ended up hurt, either...
@@ -13236,7 +13236,7 @@ Anyway, since I'm sure you've still got some concerns...why don't we go ahead an
 ---
 
 **Fujimaru 1:**
-That would be great, but...|
+That would be great, but...
  
 
 ---
@@ -13251,7 +13251,7 @@ Are you sure?
 ---
 
 **Fujimaru 1:**
-That would be great, but...|
+That would be great, but...
  
 
 ---
@@ -13346,7 +13346,7 @@ They were able to forge a connection with you with no problem, but you must have
 ---
 
 **Fujimaru 1:**
-You are...|
+You are...
  
 **???:**
 Don't push yourself too hard.That's it. You don't know me.
@@ -13385,7 +13385,7 @@ Stand back.
 ---
 
 **Fujimaru 1:**
-Hang on.|
+Hang on.
 
 ---
 
@@ -13407,7 +13407,7 @@ I'm still lost, but if it's dangerous, I'll fight too.
 ---
 
 **Fujimaru 1:**
-What was all that...?|
+What was all that...?
 
 ---
 
@@ -13473,7 +13473,7 @@ Can you see it?
 ---
 
 **Fujimaru 1:**
-I can see something big. Isn't that...|
+I can see something big. Isn't that...
  
 **???:**
 That's right.You already know what that thing is.
@@ -13504,7 +13504,7 @@ Whoever invited you to this dream would seem to be a truly fascinating individua
 ---
 
 **Fujimaru 1:**
-Here he comes!|
+Here he comes!
  
 **???:**
 There is no path leading backwards.If you are to proceed, you must defeat it.
@@ -13552,7 +13552,7 @@ Continue onward. Defeat it.See how far your power can take you...
 ---
 
 **Fujimaru 1:**
-Did you hear that?|
+Did you hear that?
 
 ---
 
@@ -13599,7 +13599,7 @@ From here, you must continue on alone.Do not look back.
 ---
 
 **Fujimaru 1:**
-Who are you?|
+Who are you?
  
 **Sitonai:**
 “Me? Well...”
@@ -13646,7 +13646,7 @@ Do I know you...?
 ---
 
 **Fujimaru 1:**
-I'm back...|
+I'm back...
 
 ---
 
@@ -13675,7 +13675,7 @@ But it's okay. Your soul and self are all connected just fine now, so there's no
 ---
 
 **Fujimaru 1:**
-That voice...|
+That voice...
 
 ---
 
@@ -13704,7 +13704,7 @@ I never would've thought there was another Servant of humanity here besides me! 
 ---
 
 **Fujimaru 1:**
-Wait. Hang on.|
+Wait. Hang on.
 
 ---
 
@@ -13760,7 +13760,7 @@ Usually I only let people I'm really close to call me that...but since we all sh
 ---
 
 **Fujimaru 1:**
-(Illya... Have I heard that name before...?)|
+(Illya... Have I heard that name before...?)
 
 ---
 
@@ -13831,7 +13831,7 @@ Heehee! You're so soft and fluffy!
 ---
 
 **Fujimaru 1:**
-I think I know what Alter Egos are...|
+I think I know what Alter Egos are...
  
 **Sitonai:**
 ...You do?
@@ -13921,7 +13921,7 @@ So a daughter of Einzbern is part of Proper Human History's resistance against t
 ---
 
 **Fujimaru 1:**
-Got it.|
+Got it.
  
 **Mash:**
 Y-yes. I understand, too.
@@ -13999,7 +13999,7 @@ Ah!
 ---
 
 **Fujimaru 1:**
-That's another goddess from Norse mythology!|
+That's another goddess from Norse mythology!
  
 **Mash:**
 Yes! That means her Divinity is tied closely to this very Lostbelt!
@@ -14113,7 +14113,7 @@ At least...I don't think we can rule it out entirely...
 ---
 
 **Fujimaru 1:**
-That's true.|
+That's true.
 
 ---
 
@@ -14180,7 +14180,7 @@ Be careful, okay?If it helps, I can cast a warmth spell on you...
 ---
 
 **Fujimaru 1:**
-Oh, that'd be great, thanks!|
+Oh, that'd be great, thanks!
  
 **Sitonai:**
 Okay, here you go!
@@ -14237,7 +14237,7 @@ Oho. You don't say...
 ---
 
 **Fujimaru 1:**
-What do you know about Sigurd?|
+What do you know about Sigurd?
  
 
 ---
@@ -14375,7 +14375,7 @@ Ooor you could just kill her and find the tree yourselves.
 ---
 
 **Fujimaru 1:**
-I don't want to kill her.|
+I don't want to kill her.
 
 ---
 
@@ -14440,7 +14440,7 @@ Well, if you're not sure what call to make, why don't you talk to the rest of yo
 ---
 
 **Fujimaru 1:**
-Good point.|
+Good point.
 
 ---
 
@@ -14559,7 +14559,7 @@ The concealing spell's just about worn off...but that's okay. Activate those boo
 ---
 
 **Fujimaru 1:**
-Got it!|
+Got it!
  
 **Mash:**
 Right!
@@ -14592,7 +14592,7 @@ I was just about to pounce on you from behind and wipe you all out at once, but 
 ---
 
 **Fujimaru 1:**
-...Koyanskaya!|
+...Koyanskaya!
 
 ---
 
@@ -14675,7 +14675,7 @@ That's Koyanskaya, of NFF Services! She's working with the Crypters, and was par
 ---
 
 **Fujimaru 1:**
-Pawning your dirty work off on subordinates again, huh?|
+Pawning your dirty work off on subordinates again, huh?
  
 
 ---
@@ -14719,7 +14719,7 @@ There, we've secured an exit route!Now's our chance, Master!
 ---
 
 **Fujimaru 1:**
-Full speed retreaaat!|
+Full speed retreaaat!
 
 ---
 
@@ -15070,7 +15070,7 @@ At this pace, we should be able to reach our destination before sundown!
 ---
 
 **Fujimaru 1:**
-It IS great weather today, isn't it?|
+It IS great weather today, isn't it?
 
 ---
 
@@ -15120,7 +15120,7 @@ I wish I'd been able to mass-produce canned goods, things might've turned out di
 ---
 
 **Fujimaru 1:**
-You invented bottled goods, Napoleon?|
+You invented bottled goods, Napoleon?
  
 **Mash:**
 Not exactly. Someone else came up with the idea,but it was Napoleon who inspired them to do so.
@@ -15195,7 +15195,7 @@ Even if Da Vinci has expanded her Mystic Code drones' comms range, given our cur
 ---
 
 **Fujimaru 1:**
-We're just too far away.|
+We're just too far away.
 
 ---
 
@@ -15269,7 +15269,7 @@ They're ice beasts. It'd take too long to go around them, and we don't want them
 ---
 
 **Fujimaru 1:**
-Let's do it! Keep it quiet, so the giants don't take notice!|
+Let's do it! Keep it quiet, so the giants don't take notice!
 
 ---
 
@@ -15335,7 +15335,7 @@ Fo, fou! Kyuuu!
 ---
 
 **Fujimaru 1:**
-The air's so hot...!|
+The air's so hot...!
  
 **Mash:**
 Yes! We can feel the heat all the way over here!
@@ -15437,7 +15437,7 @@ Haha! You're a spirited bunch, aren't you!
 ---
 
 **Fujimaru 1:**
-(I wouldn't have guessed giants were such good sports...)|
+(I wouldn't have guessed giants were such good sports...)
 
 ---
 
@@ -15492,7 +15492,7 @@ Does it look like the flames have gone down in intensity at all? Have the palace
 ---
 
 **Fujimaru 1:**
-The flames haven't died down at all!|
+The flames haven't died down at all!
 
 ---
 
@@ -15536,7 +15536,7 @@ Hahaha, easy there, pupper! I'll pet you all you want once the battle's over, bu
 ---
 
 **Fujimaru 1:**
-What's that sound?|
+What's that sound?
 
 ---
 
@@ -15600,7 +15600,7 @@ Nope, I still got nothing. Hmm...I don't suppose you two have any idea, do you?
 ---
 
 **Fujimaru 1:**
-Afraid not!|
+Afraid not!
  
 **Mash:**
 This is the first time we've run into something like this as well!
@@ -15639,7 +15639,7 @@ Fo fo fou fo, fou!
 ---
 
 **Fujimaru 1:**
-You know what it is, Fou!?|
+You know what it is, Fou!?
 
 ---
 
@@ -15665,7 +15665,7 @@ I've always admired Dr. Dolittle, but I'm afraid I just don't have that kind of 
 ---
 
 **Fujimaru 1:**
-Don't worry. Hardly anybody can talk to animals!|
+Don't worry. Hardly anybody can talk to animals!
  
 **Mash:**
 It does happen occasionally...But no, you're right. Resuming combat mode!
@@ -15883,7 +15883,7 @@ After all, a palace surrounded by fire appears in her legend.
 ---
 
 **Fujimaru 1:**
-She is a Heroic Spirit from Norse mythology, after all.|
+She is a Heroic Spirit from Norse mythology, after all.
  
 **Mash:**
 Yes. She appeared in the Poetic Edda and the Völsunga Saga.
@@ -15931,7 +15931,7 @@ I feel that may be something of an exaggeration...
 ---
 
 **Fujimaru 1:**
-Thank you.|
+Thank you.
 
 ---
 
@@ -16032,7 +16032,7 @@ O-okay... But what about what you were just saying to Brynhild...?
 ---
 
 **Fujimaru 1:**
-Took the words right out of my mouth.|
+Took the words right out of my mouth.
 
 ---
 
@@ -16064,7 +16064,7 @@ Haha, easy there, doggo!I'm not actually a dog person, you know.
 ---
 
 **Fujimaru 1:**
-So you finally admitted it...|
+So you finally admitted it...
 
 ---
 
@@ -16132,7 +16132,7 @@ Fo fooou!
 ---
 
 **Fujimaru 1:**
-What was that...?|
+What was that...?
 
 ---
 
@@ -16233,7 +16233,7 @@ So...
 ---
 
 **Fujimaru 1:**
-Got it.|
+Got it.
 
 ---
 
@@ -16319,7 +16319,7 @@ That Shadow Border thing of yours is around somewhere too, right? A band of huma
 ---
 
 **Fujimaru 1:**
-Yeah, you're right!|
+Yeah, you're right!
  
 **Mash:**
 Yes! They're all very dependable!
@@ -16406,7 +16406,7 @@ I see you've got good taste in women, pupper! Haha!All right then, let's get our
 ---
 
 **Fujimaru 1:**
-Got it!|
+Got it!
 
 ---
 
@@ -16473,7 +16473,7 @@ All right, I've decided. While we're doing this,we might as well make a little p
 ---
 
 **Fujimaru 1:**
-Pit stop?|
+Pit stop?
 
 ---
 
@@ -16535,7 +16535,7 @@ This place is...
 ---
 
 **Fujimaru 1:**
-It looks exactly like Village 23.|
+It looks exactly like Village 23.
 
 ---
 
@@ -16591,7 +16591,7 @@ Whoa, what are you!? Wanna play tag!?
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -16665,7 +16665,7 @@ The queen didn't make it...
 ---
 
 **Fujimaru 1:**
-So, somebody made the Bounded Field here stronger?|
+So, somebody made the Bounded Field here stronger?
 
 ---
 
@@ -16721,7 +16721,7 @@ I knew I could do it if I tried! That didn't take long at all! Shadow Border her
 ---
 
 **Fujimaru 1:**
-Director!?|
+Director!?
 
 ---
 
@@ -16780,7 +16780,7 @@ That village may be useless to us as a source of new information now, but it cou
 ---
 
 **Fujimaru 1:**
-What are we waiting for!?|
+What are we waiting for!?
 
 ---
 
@@ -16808,7 +16808,7 @@ Private Fujimaru is right!We move out at top speed, right now!
 ---
 
 **Fujimaru 1:**
-Where are the giants!?|
+Where are the giants!?
  
 **Mash:**
 I'm scanning for magical energy signals right now...!
@@ -16856,7 +16856,7 @@ I don't see any people out and about.Maybe they've holed up inside to stay safe.
 ---
 
 **Fujimaru 1:**
-I don't see any signs of a giant attack anywhere.|
+I don't see any signs of a giant attack anywhere.
 
 ---
 
@@ -16912,7 +16912,7 @@ Oh, uh, well...
 ---
 
 **Fujimaru 1:**
-Huh?|
+Huh?
 
 ---
 
@@ -16974,7 +16974,7 @@ Senpai... Did you hear that...?
 ---
 
 **Fujimaru 1:**
-(Strengthened the Bounded Field without showing their face?)|
+(Strengthened the Bounded Field without showing their face?)
 
 ---
 
@@ -17024,7 +17024,7 @@ It really warmed me up.
 ---
 
 **Fujimaru 1:**
-I feel so nice and toasty now.|
+I feel so nice and toasty now.
 
 ---
 
@@ -17065,7 +17065,7 @@ Hehehe.Please, enjoy your stay.
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 **Mash:**
 ...Senpai.
@@ -17170,7 +17170,7 @@ Guess whoever fixed up the Bounded Field missed a few. Fine by me! We'll just ha
 ---
 
 **Fujimaru 1:**
-Let's go!|
+Let's go!
 
 ---
 
@@ -17326,7 +17326,7 @@ Bene, bene! We can hear you loud and clear, too! Now, we've got an emergency on 
 ---
 
 **Fujimaru 1:**
-An emergency!?|
+An emergency!?
 
 ---
 
@@ -17385,7 +17385,7 @@ Fo fou!
 ---
 
 **Fujimaru 1:**
-Are you under attack right now!?|
+Are you under attack right now!?
  
 **Da Vinci:**
 Yep! We're pretty much at our limit here!
@@ -17415,7 +17415,7 @@ We just lost our connection... Master!
 ---
 
 **Fujimaru 1:**
-We need to go right now!|
+We need to go right now!
 
 ---
 
@@ -17450,7 +17450,7 @@ We'll be glad to have breakfast once we get back.Won't we, Fujimaru?
 ---
 
 **Fujimaru 1:**
-You bet!|
+You bet!
 
 ---
 
@@ -17494,7 +17494,7 @@ We don't need to kill them all!Once we've cleared a path, we can get moving agai
 ---
 
 **Fujimaru 1:**
-Got it!|
+Got it!
 
 ---
 
@@ -17692,7 +17692,7 @@ How deviously clever of you. Not bad at all!
 ---
 
 **Fujimaru 1:**
-So you weren't just randomly zipping around?|
+So you weren't just randomly zipping around?
 
 ---
 
@@ -17961,7 +17961,7 @@ Is that why you have no problem killing us!?
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -18650,7 +18650,7 @@ Right, Senpai?
 ---
 
 **Fujimaru 1:**
-I always did like to get my homework done early.|
+I always did like to get my homework done early.
  
 **Mash:**
 I thought as much.
@@ -18800,7 +18800,7 @@ I mean, if she wasn't, I'm pretty sure the Shadow Border would've been buried un
 ---
 
 **Fujimaru 1:**
-I agree.|
+I agree.
 
 ---
 
@@ -18988,7 +18988,7 @@ I'm sure you're well aware of this, but for them, our very existence is...well..
 ---
 
 **Fujimaru 1:**
-Yeah, I know.|
+Yeah, I know.
 
 ---
 
@@ -19005,7 +19005,7 @@ Yeah, I know.|
 ---
 
 **Fujimaru 1:**
-(Turn in for the day)|
+(Turn in for the day)
  
 
 ---
@@ -19023,7 +19023,7 @@ Yeah, I know.|
 ---
 
 **Fujimaru 1:**
-No, I'm still up.|
+No, I'm still up.
  
 **Napoleon:**
 Right on.
@@ -19059,7 +19059,7 @@ Would you mind listening?
 ---
 
 **Fujimaru 1:**
-I'd be glad to.|
+I'd be glad to.
  
 **Napoleon:**
 Thanks. You're a good Maître.
@@ -19104,7 +19104,7 @@ And then there's...well...
 ---
 
 **Fujimaru 1:**
-Sigurd...|
+Sigurd...
 
 ---
 
@@ -19214,7 +19214,7 @@ I know that's a lot to ask...but it's what any commander...any person giving ord
 ---
 
 **Fujimaru 1:**
-...Okay.|
+...Okay.
 
 ---
 
@@ -19240,7 +19240,7 @@ If it wasn't for my prior engagement...
 ---
 
 **Fujimaru 1:**
-What IS this prior engagement, anyway?|
+What IS this prior engagement, anyway?
 
 ---
 
@@ -19257,7 +19257,7 @@ Whoops. Never mind that.Just forget I said anything.
 ---
 
 **Fujimaru 1:**
-(Zzz...)|
+(Zzz...)
  
 **Napoleon:**
 ...Haha. Thanks for staying asleep.
@@ -19302,7 +19302,7 @@ I should've realized what was up once he started talking about Brynhild's legend
 ---
 
 **Fujimaru 1:**
-Who's this source you've been&ndash;|
+Who's this source you've been&ndash;
  
 **Napoleon:**
 Sorry, I can't tell you that. I promised I'd keep it a secret. Besides, I didn't get a good look at him.
@@ -19341,7 +19341,7 @@ I just came out here to look at the stars.Would you mind if I joined you?
 ---
 
 **Fujimaru 1:**
-Not at all.|
+Not at all.
  
 **Brynhild:**
 Thank you.
@@ -19371,7 +19371,7 @@ I can't even focus on it clearly, perhaps because of the magical energy present 
 ---
 
 **Fujimaru 1:**
-About the battle we fought earlier today...|
+About the battle we fought earlier today...
 
 ---
 
@@ -19409,7 +19409,7 @@ Indeed, there is no better way to describe me.
 ---
 
 **Fujimaru 1:**
-I'm sorry he was so cruel...|
+I'm sorry he was so cruel...
 
 ---
 
@@ -19537,7 +19537,7 @@ That's why I was able to kill my adoring sisters.Why I was able to kill Sigurd b
 ---
 
 **Fujimaru 1:**
-...Isn't it painful for you?|
+...Isn't it painful for you?
  
 **Brynhild:**
 ......
@@ -19669,7 +19669,7 @@ I should be able to block some of the wind!If that fails, we can always use a ro
 ---
 
 **Fujimaru 1:**
-We're okay!|
+We're okay!
 
 ---
 
@@ -19710,7 +19710,7 @@ You got it!Let's go, Private!
 ---
 
 **Fujimaru 1:**
-Got it!|
+Got it!
 
 ---
 
@@ -19851,7 +19851,7 @@ That sound good to you too, Private!?
 ---
 
 **Fujimaru 1:**
-You bet!|
+You bet!
 
 ---
 
@@ -20011,7 +20011,7 @@ This will be the fifth time for us! This time,I'll do everything I can to defend
 ---
 
 **Fujimaru 1:**
-Prepare for battle!|
+Prepare for battle!
 
 ---
 
@@ -20051,7 +20051,7 @@ I can still fight! I'm not going to shut down...Not before we bring down that de
 ---
 
 **Fujimaru 1:**
-Let's keep up the pressure!|
+Let's keep up the pressure!
 
 ---
 
@@ -20122,7 +20122,7 @@ Annihilate my soul?Yes, it would.
 ---
 
 **Fujimaru 1:**
-Whoa, wait!|
+Whoa, wait!
 
 ---
 
@@ -20205,7 +20205,7 @@ No matter what happens as a result, we've decided to hold our heads high and kee
 ---
 
 **Fujimaru 1:**
-(...Yeah. We did, didn't we.)|
+(...Yeah. We did, didn't we.)
  
 
 ---
@@ -20274,7 +20274,7 @@ Sig...urd...!Ghh... Aaaaaaaaahhh...
 ---
 
 **Fujimaru 1:**
-Brynhild!|
+Brynhild!
 
 ---
 
@@ -20327,7 +20327,7 @@ You can't see it anymore, can you?That is because I have narrowed its possibilit
 ---
 
 **Fujimaru 1:**
-You narrowed its possibilities!?|
+You narrowed its possibilities!?
 
 ---
 
@@ -20508,7 +20508,7 @@ It's okay! Luckily, I was able to raise my shield in time! Master, did you see t
 ---
 
 **Fujimaru 1:**
-Did he make that fire with a rune?|
+Did he make that fire with a rune?
 
 ---
 
@@ -21912,7 +21912,7 @@ Either way, it is impossibly hot!Make sure you stay behind me, Master!
 ---
 
 **Fujimaru 1:**
-Roger that!|
+Roger that!
 
 ---
 
@@ -21983,7 +21983,7 @@ Here he comes...!You two, keep Brynhild safe!
 ---
 
 **Fujimaru 1:**
-Got it...!|
+Got it...!
  
 **Mash:**
 Right!
@@ -22087,7 +22087,7 @@ Here comes the second wave!
 ---
 
 **Fujimaru 1:**
-Keep that shield up!|
+Keep that shield up!
 
 ---
 
@@ -22332,7 +22332,7 @@ Senpai!
 ---
 
 **Fujimaru 1:**
-I'm all right.|
+I'm all right.
 
 ---
 
@@ -22601,7 +22601,7 @@ Fou, fo fooou!
 ---
 
 **Fujimaru 1:**
-Thanks!|
+Thanks!
  
 
 ---
@@ -22667,7 +22667,7 @@ Hmm. I see.
 ---
 
 **Fujimaru 1:**
-Hold up!|
+Hold up!
  
 
 ---
@@ -22682,7 +22682,7 @@ Yes, Ms. Kyrielight?{(M) Mr. /(F) Ms.} Fujimaru?
 ---
 
 **Fujimaru 1:**
-Does this mean...|
+Does this mean...
  
 
 ---
@@ -22994,7 +22994,7 @@ Dare to sully my castle any further,and even my patience will&ndash;
 ---
 
 **Fujimaru 1:**
-Another one of those...?|
+Another one of those...?
  
 **Mash:**
 Hostile detected! It's the same species we encountered on Mt. Galdhøpiggen, Master!
@@ -23020,7 +23020,7 @@ It's the same type of enemy we encountered on Mt. Galdhøpiggen!
 ---
 
 **Fujimaru 1:**
-At least we got one of them, but it's not enough!|
+At least we got one of them, but it's not enough!
  
 
 ---
@@ -23191,7 +23191,7 @@ Very well... Now that we have dealt with those intruders...
 ---
 
 **Fujimaru 1:**
-...We'd really appreciate your help.|
+...We'd really appreciate your help.
  
 **Scáthach-Skadi:**
 ......
@@ -23305,7 +23305,7 @@ But as our temporary Master, our blades are yours to wield for humanity as you s
 ---
 
 **Fujimaru 1:**
-...All right.|
+...All right.
 
 ---
 
@@ -23367,7 +23367,7 @@ We have multiple hostiles in the area.Master, permission to engage the enemy.
 ---
 
 **Fujimaru 1:**
-Granted!|
+Granted!
 
 ---
 
@@ -23541,7 +23541,7 @@ Fou!
 ---
 
 **Fujimaru 1:**
-Huh. Birds.|
+Huh. Birds.
 
 ---
 
@@ -23600,7 +23600,7 @@ Moving to intercept now!Anyone who wants to join me, come on up!
 ---
 
 **Fujimaru 1:**
-Let's go take them out.|
+Let's go take them out.
 
 ---
 
@@ -23969,7 +23969,7 @@ Oh for... I TOLD you to be careful you don't bite your tongue! How are things ov
 ---
 
 **Fujimaru 1:**
-(Call out to Napoleon)|
+(Call out to Napoleon)
 
 ---
 
@@ -24076,7 +24076,7 @@ There you go!How do you wanna handle this, Private!?
 ---
 
 **Fujimaru 1:**
-Let's fight them off!|
+Let's fight them off!
 
 ---
 
@@ -24420,7 +24420,7 @@ This...this is something my shield and I are meant to stop. Your orders, Master.
 ---
 
 **Fujimaru 1:**
-(Nod wordlessly)|
+(Nod wordlessly)
  
 
 ---
@@ -24468,7 +24468,7 @@ O-ooh, I could punch you! I won't, since I know it wouldn't do a thing, but damn
 ---
 
 **Fujimaru 1:**
-Mash, I'll back you up!|
+Mash, I'll back you up!
 
 ---
 
@@ -24515,7 +24515,7 @@ How is that even possible!?I'm not exactly a wallflower, you know!
 ---
 
 **Fujimaru 1:**
-Napoleon...!?|
+Napoleon...!?
  
 
 ---
@@ -24920,7 +24920,7 @@ Mash....Um...
 ---
 
 **Fujimaru 1:**
-Fujimaru.|
+Fujimaru.
  
 
 ---
@@ -25013,7 +25013,7 @@ Still, regardless of what he was, it's always difficult to say goodbye to someon
 ---
 
 **Fujimaru 1:**
-Thanks, Director.|
+Thanks, Director.
 
 ---
 
@@ -25078,7 +25078,7 @@ The Emperor of France's rainbow is still there,giving us strength.
 ---
 
 **Fujimaru 1:**
-Time for the final battle!|
+Time for the final battle!
 
 ---
 
@@ -25218,7 +25218,7 @@ My Mystic Eye will lose its power...and its keystone functionality...at the same
 ---
 
 **Fujimaru 1:**
-Please! No more...!|
+Please! No more...!
 
 ---
 
@@ -25336,7 +25336,7 @@ Thank you!
 ---
 
 **Fujimaru 1:**
-Mash...|
+Mash...
 
 ---
 
@@ -25455,7 +25455,7 @@ Master!Mash Kyrielight, good to go!
 ---
 
 **Fujimaru 1:**
-Ooh la la!|
+Ooh la la!
  
 **Mash:**
 Ooh la la! Initiating combat!
@@ -25535,7 +25535,7 @@ You will NOT!
 ---
 
 **Fujimaru 1:**
-(Glare at him)|
+(Glare at him)
  
 Then you will witness them for yourself.
 You will witness the King of Giants' final, endlessly cruel smile. You will witness the darkness lurking in his eyes as he cries out in joy at your death.
@@ -25623,7 +25623,7 @@ Wh-what's going on? As soon as...Surtr pointed his fingers towards Master...
 ---
 
 **Fujimaru 1:**
-What the...?|
+What the...?
 
 ---
 
@@ -25767,7 +25767,7 @@ Sigurd... Brynhild...You're both...burning...
 ---
 
 **Fujimaru 1:**
-(Stare, speechless)|
+(Stare, speechless)
 
 ---
 
@@ -25826,7 +25826,7 @@ The next time we meet...I hope I will be able to be of help to you from the star
 ---
 
 **Fujimaru 1:**
-Thanks, Sigurd.|
+Thanks, Sigurd.
 
 ---
 
@@ -26151,7 +26151,7 @@ The same is true of you as well,Chaldeans of Proper Human History. Myself...
 ---
 
 **Fujimaru 1:**
-Whoa, she looks different now...|
+Whoa, she looks different now...
  
 **Mash:**
 !
@@ -26307,7 +26307,7 @@ You understand that, right, Mash?Fujimaru?
 ---
 
 **Fujimaru 1:**
-Yeah. I do...|
+Yeah. I do...
 
 ---
 
@@ -26495,7 +26495,7 @@ If you would save your humanity, then kill me! Kill me, and cast us aside, Chald
 ---
 
 **Fujimaru 1:**
-(...I wish it didn't have to be this way, but...)|
+(...I wish it didn't have to be this way, but...)
 
 ---
 
@@ -26851,7 +26851,7 @@ There should only be about twenty kilometers until we reach the North Sea! You s
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -26884,7 +26884,7 @@ Those flowers she gave me...her entire village... They're all going to disappear
 ---
 
 **Fujimaru 1:**
-...Yes. They are.|
+...Yes. They are.
 
 ---
 
@@ -26949,7 +26949,7 @@ Maybe we just shouldn't get involved with these Lostbelt people at all if it's j
 ---
 
 **Fujimaru 1:**
-...No. That would be&ndash;|
+...No. That would be&ndash;
  
 
 ---
@@ -27018,7 +27018,7 @@ What's going on here, Moony!?That felt like at least a ten-meter drop!
 ---
 
 **Fujimaru 1:**
-...Um, Director?|
+...Um, Director?
  
 
 ---
@@ -27030,7 +27030,7 @@ Not now, {(M) boy /(F) girl}! Hurry up and sit down before another impact throws
 ---
 
 **Fujimaru 1:**
-The window. Look out the window...!|
+The window. Look out the window...!
  
 
 ---
@@ -27099,7 +27099,7 @@ And just when we'd proved we were badass enough to defeat Ivan the Terrible and 
 ---
 
 **Fujimaru 1:**
-Da Vinciii!|
+Da Vinciii!
 
 ---
 
