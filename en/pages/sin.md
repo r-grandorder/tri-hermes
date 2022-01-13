@@ -1,8 +1,6 @@
-# Cosmos in the Lostbelt 3: The Synchronized Intellect Nation - SIN
+#Cosmos in the Lostbelt 3: The Synchronized Intellect Nation - SIN
 
-![SIN](https://i.imgur.com/D464pi4.png)
-
-![SINMap](https://i.imgur.com/OG1vbmI.png)
+![SINPrologue](https://i.imgur.com/T7mHmxV.png)
 
 ## intro.3-1
  
@@ -165,7 +163,7 @@ Being the Atlas Institute's last remaining member, the Wandering Sea higher-ups 
 ---
 
 **Fujimaru 1:**
-Okay, I know that was just a minute ago, but...|
+Okay, I know that was just a minute ago, but...
  
 
 ---
@@ -207,7 +205,7 @@ Sounds right to me.I just wish she'd given us a little heads-up.
 ---
 
 **Fujimaru 1:**
-Then, does that mean...we can go outside now?|
+Then, does that mean...we can go outside now?
 
 ---
 
@@ -248,7 +246,7 @@ Right now, this is the most peaceful, happiest, scariest island in the whole wor
 ---
 
 **Fujimaru 1:**
-That's the voice we heard earlier...|
+That's the voice we heard earlier...
 
 ---
 
@@ -286,7 +284,7 @@ S-so then...as the only combat-ready Servant here,I should be the one to&ndash;
 ---
 
 **Fujimaru 1:**
-Let's go say hi together, Mash.|
+Let's go say hi together, Mash.
 
 ---
 
@@ -342,7 +340,7 @@ Oh, and try to stick close to the Border, would you? You should be no more than 
 ---
 
 **Fujimaru 1:**
-Roger that!|
+Roger that!
  
 
 ---
@@ -363,7 +361,7 @@ It's...
 ---
 
 **Fujimaru 1:**
-It's&ndash;|
+It's&ndash;
  
 
 ---
@@ -441,7 +439,7 @@ Are you into mecha? Bioengineering? A mixture of both? Aw, what the heck! We can
 ---
 
 **Fujimaru 1:**
-Wait&ndash;|
+Wait&ndash;
  
 
 ---
@@ -450,7 +448,7 @@ Wait&ndash;|
 ---
 
 **Fujimaru 1:**
-I&ndash;|
+I&ndash;
  
 
 ---
@@ -459,7 +457,7 @@ I&ndash;|
 ---
 
 **Fujimaru 1:**
-Whaaa!?|
+Whaaa!?
  
 
 ---
@@ -498,7 +496,7 @@ I see, an advanced technique designed to better break the ice during our first e
 ---
 
 **Fujimaru 1:**
-(I don't know about that...)|
+(I don't know about that...)
 
 ---
 
@@ -617,7 +615,7 @@ From there, all I need do is contrast your behavior with our current situation, 
 ---
 
 **Fujimaru 1:**
-BS. You're just quoting from her file.|
+BS. You're just quoting from her file.
 
 ---
 
@@ -652,7 +650,7 @@ You want me to give this ship a tune-up, right?Hurry up and get the crew off it 
 ---
 
 **Fujimaru 1:**
-...(Staaare)|
+...(Staaare)
  
 
 ---
@@ -664,7 +662,7 @@ You want me to give this ship a tune-up, right?Hurry up and get the crew off it 
 ---
 
 **Fujimaru 1:**
-O-oh, right. Sorry about that.|
+O-oh, right. Sorry about that.
  
 **H：???:**
 ...You don't have to apologize.I already know humans are rude. It's in your nature.
@@ -775,7 +773,7 @@ It's...
 ---
 
 **Fujimaru 1:**
-Chaldea's Command Room...!?|
+Chaldea's Command Room...!?
  
 
 ---
@@ -868,7 +866,7 @@ How did you survive the reset of the world? And why were you waiting for us here
 ---
 
 **Fujimaru 1:**
-Took the words right out of my mouth.|
+Took the words right out of my mouth.
  
 
 ---
@@ -1006,7 +1004,7 @@ And that is all I have!Thanks for listening!
 ---
 
 **Fujimaru 1:**
-So, you really believed in us...|
+So, you really believed in us...
 
 ---
 
@@ -1140,7 +1138,7 @@ After all...there is something else we need to do!
 ---
 
 **Fujimaru 1:**
-Something else...?|
+Something else...?
  
 
 ---
@@ -1821,7 +1819,7 @@ Oh, but first! Do you know what the Atlas Institute is, or would you like a refr
 ---
 
 **Fujimaru 1:**
-I'll take that refresher, please!|
+I'll take that refresher, please!
  
 **Sion:**
 Right! You just sit back and enjoy this info reel I worked up for you.
@@ -1929,7 +1927,7 @@ I thought that was why we decided to join forces and become friends... Wait. Doe
 ---
 
 **Fujimaru 1:**
-...You're right. I'm sorry. I should have been more considerate...|
+...You're right. I'm sorry. I should have been more considerate...
  
 **Sion:**
 ...Heh. That is very kind of you to say, but do not worry about it. It is partly my fault, too!
@@ -2040,7 +2038,7 @@ Did I get all that right?Do you have logs other than the ones on the Border?
 ---
 
 **Fujimaru 1:**
-Yes, that's all right.|
+Yes, that's all right.
  
 
 ---
@@ -2124,7 +2122,7 @@ The greater the Lostbelt Depth, the more strongly it refutes Proper Human Histor
 ---
 
 **Fujimaru 1:**
-Lostbelt Depth...|
+Lostbelt Depth...
 
 ---
 
@@ -2261,7 +2259,7 @@ You will need to get all the rest you can before the final battle in the Atlanti
 ---
 
 **Fujimaru 1:**
-Don't have to tell me twice!|
+Don't have to tell me twice!
 
 ---
 
@@ -2293,7 +2291,7 @@ Why don't you go rest up too, Senpai?I know I can't wait to see what our new roo
 ---
 
 **Fujimaru 1:**
-Yesss! Let's go check them out!|
+Yesss! Let's go check them out!
 
 ---
 
@@ -2352,7 +2350,7 @@ Before I got pulled onto Trismegistus's development, I was working on a Conceptu
 ---
 
 **Fujimaru 1:**
-It's just like being back at Chaldea...!|
+It's just like being back at Chaldea...!
  
 
 ---
@@ -2370,7 +2368,7 @@ Sion and Captain really outdid themselves!
 ---
 
 **Fujimaru 1:**
-Why don't you go check out your own room, Mash?|
+Why don't you go check out your own room, Mash?
  
 
 ---
@@ -2391,7 +2389,7 @@ Good night, Senpai. I'll see you tomorrow morning for breakfast in the new cafet
 ---
 
 **Fujimaru 1:**
-Oh man. Once I let myself relax, it felt like my exhaustion hit all at once...|
+Oh man. Once I let myself relax, it felt like my exhaustion hit all at once...
 
 ---
 
@@ -2408,7 +2406,7 @@ Fou?
 ---
 
 **Fujimaru 1:**
-...Crap. I'm already awake.|
+...Crap. I'm already awake.
 
 ---
 
@@ -2422,7 +2420,7 @@ Looks like it's...one in the morning...
 ---
 
 **Fujimaru 1:**
-...Come to think of it, I didn't have any dinner...|
+...Come to think of it, I didn't have any dinner...
 
 ---
 
@@ -2439,7 +2437,7 @@ Looks like it's...one in the morning...
 ---
 
 **Fujimaru 1:**
-Fou's still fast asleep...|
+Fou's still fast asleep...
 
 ---
 
@@ -2498,7 +2496,7 @@ Midnight snack time! Hahaha!Now then, I think I'll go break in the new kitchen!
 ---
 
 **Fujimaru 1:**
-Between the curling Chaldean spaces, I could see him eating.|
+Between the curling Chaldean spaces, I could see him eating.
  
 
 ---
@@ -2531,7 +2529,7 @@ Here, you can have the other half.There's some leftover tea as well if you want 
 ---
 
 **Fujimaru 1:**
-That would be great, thank you.|
+That would be great, thank you.
 
 ---
 
@@ -2572,7 +2570,7 @@ Now that you've eaten the other half of the cake I found here, that makes you my
 ---
 
 **Fujimaru 1:**
-...Huh?|
+...Huh?
 
 ---
 
@@ -2610,7 +2608,7 @@ Now then, are you all finished? Haha, good, good!This makes us partners in crime
 ---
 
 **Fujimaru 1:**
-But, I thought you made this cake, Director...|
+But, I thought you made this cake, Director...
 
 ---
 
@@ -2633,10 +2631,10 @@ Then, who made it? And more importantly...is it just me, or are we both looking 
 **H：Goredolf:**
 I also can't help but notice that I'm feeling rather cold and dizzy all of a sudden...
  
-**P.A. System</b>
+**P.A. System**
 Warning. Warning.Unauthorized life-form detected.</span>
  
-**P.A. System</b>
+**P.A. System**
 Civilian personnel, please remain in your rooms. Security team, please suit up and come to the Command Room.</span>
  
 **H：Goredolf:**
@@ -2654,7 +2652,7 @@ Captain!?
 ---
 
 **Fujimaru 1:**
-Who is it...!?|
+Who is it...!?
 
 ---
 
@@ -2680,7 +2678,7 @@ Tamamo Vitch Koyanskaya!? Impossible!How did you get into the Wandering Sea!?
 ---
 
 **Fujimaru 1:**
-(Koyanskaya...!)|
+(Koyanskaya...!)
 
 ---
 
@@ -2754,7 +2752,7 @@ I'll do my best to cleanse the poison from them in the meantime!
 ---
 
 **Fujimaru 1:**
-I'm back.|
+I'm back.
 
 ---
 
@@ -2807,7 +2805,7 @@ If that contract were to be broken,{(M) he /(F) she} would most likely be dead i
 ---
 
 **Fujimaru 1:**
-Wow, I had no idea.|
+Wow, I had no idea.
 
 ---
 
@@ -2866,7 +2864,7 @@ I can tell you that its name is likely of Taoist origin considering all its refe
 ---
 
 **Fujimaru 1:**
-This is awful...|
+This is awful...
 
 ---
 
@@ -2928,7 +2926,7 @@ I will. Help you. From now on. I will. Work three.Times harder. To make. Up for.
 ---
 
 **Fujimaru 1:**
-...!|
+...!
 
 ---
 
@@ -2954,7 +2952,7 @@ Prepare to go immediately, everyone! We're invading the Chinese Lostbelt to take
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -2980,7 +2978,7 @@ After all, we're not wanderers.We have our own world, with our own history...
 ---
 
 **Fujimaru 1:**
-...Yeah.|
+...Yeah.
 
 ---
 
@@ -3111,7 +3109,7 @@ Fooou!?
 ---
 
 **Fujimaru 1:**
-He just started bawling...|
+He just started bawling...
 
 ---
 
@@ -3137,7 +3135,7 @@ Aaarrrgh!You stupid, stupid thiiing!
 ---
 
 **Fujimaru 1:**
-What a sad story...|
+What a sad story...
 
 ---
 
@@ -3220,7 +3218,7 @@ I'll have you to the Chinese Lostbelt in less than half a day. After that, it's 
 ---
 
 **Fujimaru 1:**
-...Right!|
+...Right!
 
 ---
 
@@ -3305,7 +3303,7 @@ How about you, {(M) Mr. /(F) Ms.} Fujimaru?Are you ready for this next phase?
 ---
 
 **Fujimaru 1:**
-...Yes. I think so.|
+...Yes. I think so.
 
 ---
 
@@ -3364,7 +3362,7 @@ Got it! But man, as if I didn't already have my hands full with driving this thi
 ---
 
 **Fujimaru 1:**
-So Koyanskaya's in the Chinese Lostbelt too...|
+So Koyanskaya's in the Chinese Lostbelt too...
 
 ---
 
@@ -3429,17 +3427,21 @@ Thank you, Nezha! It's great to have your help!
 **Holmes:**
 ...All right, we're now only four hundred meters away from the storm wall! Do it, Da Vinci!
  
-**P.A. System</b>
+**P.A. System**
 Expanding Logic Formula on Shadow Border's external armor. Removing existence verification for Reality Space.</span>
  
-**P.A. System</b>
+**P.A. System**
 Future prediction: hypothetically prove mirror world plane in twenty seconds. Relaxing space-time friction decompression for 0.4 seconds.</span>
  
-**P.A. System</b>
+**P.A. System**
 All systems are green. Void Space sea observations remain locked at previous results.</span>
  
-**P.A. System</b>
+**P.A. System**
 Shadow Border, untether from reality.Void Space Dive, Zero Sail: unfurl once again!</span>
+
+![SIN](https://i.imgur.com/9czSNa3.png)
+
+![SINMap](https://i.imgur.com/OG1vbmI.png)
  
 ## Section 1: The Third Lostbelt 
  
@@ -3532,13 +3534,13 @@ Ahh, you don't know how happy I am to hear that. In all my thirty-three years of
 
 **--SECTION BREAK--:**
  
-**P.A. System</b>
+**P.A. System**
 Reality Space anchor attached.Reality verification complete.</span>
  
-**P.A. System</b>
+**P.A. System**
 Proper Human History Resemblance: A Lostbelt Depth: E</span>
  
-**P.A. System</b>
+**P.A. System**
 Establishing Shadow Border's existence within Lostbelt.Zero Sail return successful.</span>
  
 **Mash:**
@@ -3550,7 +3552,7 @@ I know the poison isn't causing you any pain right now, but I also heard you're 
 ---
 
 **Fujimaru 1:**
-I'm fine. Just a little short of breath, is all.|
+I'm fine. Just a little short of breath, is all.
 
 ---
 
@@ -3597,7 +3599,7 @@ Hmm, not according to our instruments. Since it looks like it's safe, why don't 
 ---
 
 **Fujimaru 1:**
-Is this really the Chinese Lostbelt...?|
+Is this really the Chinese Lostbelt...?
 
 ---
 
@@ -3662,7 +3664,7 @@ Yeah, I've never seen anything quite like them before. Though I guess you could 
 ---
 
 **Fujimaru 1:**
-You mean, like an apartment building?|
+You mean, like an apartment building?
  
 
 ---
@@ -3728,7 +3730,7 @@ Hm? And what's wrong with my explanations?
 ---
 
 **Fujimaru 1:**
-A-all right!|
+A-all right!
 
 ---
 
@@ -3870,7 +3872,7 @@ Are you all right with that course of action,{(M) Mr. /(F) Ms.} Fujimaru?
 ---
 
 **Fujimaru 1:**
-I'm not a fan of mass brainwashing, but...|
+I'm not a fan of mass brainwashing, but...
  
 **Mash:**
 I agree. Since we have working translators, I think it would be best if we tried for more positive relations.
@@ -3933,7 +3935,7 @@ Da Vinci really is a force to be reckoned with, isn't she... She's not technical
 ---
 
 **Fujimaru 1:**
-She's a demon with the face of an angel...|
+She's a demon with the face of an angel...
 
 ---
 
@@ -3979,7 +3981,7 @@ Fooou...
 ---
 
 **Fujimaru 1:**
-Well, Holmes has his looks, if nothing else...|
+Well, Holmes has his looks, if nothing else...
 
 ---
 
@@ -4049,7 +4051,7 @@ What could be going on, Senpai...?
 ---
 
 **Fujimaru 1:**
-I have no idea.|
+I have no idea.
 
 ---
 
@@ -4095,7 +4097,7 @@ I do have a hypothesis, but a good detective only shares their deductions once t
 ---
 
 **Fujimaru 1:**
-The air is so clean here.|
+The air is so clean here.
 
 ---
 
@@ -4118,7 +4120,7 @@ Anyway, being surrounded by a natural landscape like this really feels like&ndas
 ---
 
 **Fujimaru 1:**
-It looks like some kind of...streak?|
+It looks like some kind of...streak?
 
 ---
 
@@ -4192,7 +4194,7 @@ We only worship from afar with gratitude. None of us would exist without Most Gl
 ---
 
 **Fujimaru 1:**
-What's up, Mash?|
+What's up, Mash?
 
 ---
 
@@ -4232,7 +4234,7 @@ Hostiles eliminated.That said...
 ---
 
 **Fujimaru 1:**
-Those were from the Russian Lostbelt...|
+Those were from the Russian Lostbelt...
  
 
 ---
@@ -4262,7 +4264,7 @@ It's the least we can do to make up for ruining your field. Right, Master?
 ---
 
 **Fujimaru 1:**
-Of course!|
+Of course!
 
 ---
 
@@ -4288,7 +4290,7 @@ How're you feeling, Fujimaru?
 ---
 
 **Fujimaru 1:**
-I'm fine.|
+I'm fine.
 
 ---
 
@@ -4403,7 +4405,7 @@ Since we can of course eliminate ourselves as suspects, that only leaves one pos
 ---
 
 **Fujimaru 1:**
-Tamamo Vitch Koyanskaya.|
+Tamamo Vitch Koyanskaya.
 
 ---
 
@@ -4435,7 +4437,7 @@ I tried zooming in and cleaning up the long-range footage as best I could, and..
 ---
 
 **Fujimaru 1:**
-...What the hell?|
+...What the hell?
 
 ---
 
@@ -4467,7 +4469,7 @@ Oh, and while I was at it, I grabbed some footage of that weird perfectly straig
 ---
 
 **Fujimaru 1:**
-Wh-what IS this thing!?|
+Wh-what IS this thing!?
 
 ---
 
@@ -4858,7 +4860,7 @@ Oh, that? That's a Benefaction.
 ---
 
 **Fujimaru 1:**
-Benefaction?|
+Benefaction?
 
 ---
 
@@ -4906,7 +4908,7 @@ No problem there.Since it's a Master traveling with their Servant&ndash;
 ---
 
 **Fujimaru 1:**
-They can just jump out right before it lands.|
+They can just jump out right before it lands.
 
 ---
 
@@ -5113,7 +5115,7 @@ Hahaha, you outsiders certainly do care a great deal about etiquette.
 ---
 
 **Fujimaru 1:**
-What's Akuta Hinako like?|
+What's Akuta Hinako like?
 
 ---
 
@@ -5262,7 +5264,7 @@ And I'm pretty sure that means&ndash;
 ---
 
 **Fujimaru 1:**
-Reinforcements, right?|
+Reinforcements, right?
 
 ---
 
@@ -5315,7 +5317,7 @@ And Jing Ke, the world's foremost expert in assassinating Qin Shi Huang.
 ---
 
 **Fujimaru 1:**
-Yeah, that makes sense.|
+Yeah, that makes sense.
 
 ---
 
@@ -5448,7 +5450,7 @@ Are you all right, Fujimaru? It must be difficult for you to be in combat given 
 ---
 
 **Fujimaru 1:**
-I'm fine. It's just a little fever.|
+I'm fine. It's just a little fever.
  
 **Spartacus:**
 That's our Master for you! I applaud your mental mettle in not succumbing to this disease!
@@ -5475,7 +5477,7 @@ Can't believe this king uses them to fight his wars.I've seen scarier dolls.
 ---
 
 **Fujimaru 1:**
-I thought they were supposed to be weapons...|
+I thought they were supposed to be weapons...
 
 ---
 
@@ -5689,7 +5691,7 @@ Tell me, what do you make of the villagers' reactions?
 ---
 
 **Fujimaru 1:**
-They're very...laid back.|
+They're very...laid back.
 
 ---
 
@@ -6027,7 +6029,7 @@ Well, uh...would you mind if we talked over there?
 ---
 
 **Fujimaru 1:**
-So what's this about?|
+So what's this about?
 
 ---
 
@@ -6059,7 +6061,7 @@ Really?Do you like exploring too, {(M) mister /(F) miss}?
 ---
 
 **Fujimaru 1:**
-Yup. I love it.|
+Yup. I love it.
  
 **Mash:**
 I knew you would say that, Senpai!You always enjoy meeting new people, after all.
@@ -6149,7 +6151,7 @@ We've sure got no shortage of options!Who do you wanna bring?
 ---
 
 **Fujimaru 1:**
-Come with us, Spartacus.|
+Come with us, Spartacus.
  
 **Spartacus:**
 Very well. I am used to fighting fearsome beasts thanks to my time in the Colosseum. Leave it to me!
@@ -6233,7 +6235,7 @@ That said, we can't go too quickly,or Fujimaru will have trouble keeping up.
 ---
 
 **Fujimaru 1:**
-I'll do...my best...|
+I'll do...my best...
 
 ---
 
@@ -6309,7 +6311,7 @@ Hmm. Master Fujimaru, how did this latest battle feel to you?
 ---
 
 **Fujimaru 1:**
-I thought I saw some weird tattoos on those Krichat'...|
+I thought I saw some weird tattoos on those Krichat'...
  
 **Jing Ke:**
 Yes. Those markings were so odd that I can't form a clear picture of them in my mind, but I did see them.
@@ -6561,7 +6563,7 @@ Um... The Ortinax's sensors are picking up an impossible amount of magical energ
 ---
 
 **Fujimaru 1:**
-Don't tell me it's a D'yavol Tron?|
+Don't tell me it's a D'yavol Tron?
 
 ---
 
@@ -6640,7 +6642,7 @@ Though it remains unclear whether these two gave the order to retreat themselves
 ---
 
 **Fujimaru 1:**
-This bloodlust reminds me of the Demonic Beasts we fought in Uruk...|
+This bloodlust reminds me of the Demonic Beasts we fought in Uruk...
  
 
 ---
@@ -6678,7 +6680,7 @@ Yeah... I was so sure we would find Koyanskaya here controlling them...
 ---
 
 **Fujimaru 1:**
-But she IS the one who brought these creatures here, right?|
+But she IS the one who brought these creatures here, right?
 
 ---
 
@@ -6772,7 +6774,7 @@ This way, we'll also have a nice souvenir to bring back to the village. Of cours
 ---
 
 **Fujimaru 1:**
-Come on, let's go back!|
+Come on, let's go back!
 
 ---
 
@@ -6980,7 +6982,7 @@ For justice can only be attained when two opposing rebellions clash.
 ---
 
 **Fujimaru 1:**
-So, you think we should step aside for them...?|
+So, you think we should step aside for them...?
 
 ---
 
@@ -7024,7 +7026,7 @@ Why not let her help them if she so wishes?
 ---
 
 **Fujimaru 1:**
-Yeah.|
+Yeah.
 
 ---
 
@@ -7171,7 +7173,7 @@ Xianyang just fired another rocket. It looks like it's aimed straight at us, jus
 ---
 
 **Fujimaru 1:**
-Think this one is more supplies for Hinako?|
+Think this one is more supplies for Hinako?
 
 ---
 
@@ -7203,7 +7205,7 @@ Why do you think that is?
 ---
 
 **Fujimaru 1:**
-Because there was no one else who could fight?|
+Because there was no one else who could fight?
 
 ---
 
@@ -7244,7 +7246,7 @@ So why don't we just smash the thing outta the sky?
 ---
 
 **Fujimaru 1:**
-All right, go ahead and use your Noble Phantasm!|
+All right, go ahead and use your Noble Phantasm!
 
 ---
 
@@ -7306,7 +7308,7 @@ But, if it's giving off this much magical energy while it's still warming up...
 ---
 
 **Fujimaru 1:**
-Th-that was a hell of a roar!|
+Th-that was a hell of a roar!
 
 ---
 
@@ -7385,7 +7387,7 @@ Dunno, but he didn't even try to keep his True Name secret.
 ---
 
 **Fujimaru 1:**
-Xiang Yu...|
+Xiang Yu...
 
 ---
 
@@ -7569,7 +7571,7 @@ What the hell was that monster...
 ---
 
 **Fujimaru 1:**
-I couldn't believe how strong he was.|
+I couldn't believe how strong he was.
 
 ---
 
@@ -7628,7 +7630,7 @@ There's a new army headed this way. And not by rocket this time. If these readin
 ---
 
 **Fujimaru 1:**
-More reinforcements from Xianyang, huh...|
+More reinforcements from Xianyang, huh...
 
 ---
 
@@ -7654,7 +7656,7 @@ We can't even run away... There's nowhere we could hide in this wide-open field.
 ---
 
 **Fujimaru 1:**
-If we can't run, then we shouldn't wait for them to get here.|
+If we can't run, then we shouldn't wait for them to get here.
 
 ---
 
@@ -7746,7 +7748,7 @@ Shit, the enemy reinforcements are almost here!
 ---
 
 **Fujimaru 1:**
-I guess we were too late...|
+I guess we were too late...
 
 ---
 
@@ -7757,7 +7759,7 @@ That's enough! Both sides, lay down your arms!
 ---
 
 **Fujimaru 1:**
-Huh?|
+Huh?
 
 ---
 
@@ -7900,7 +7902,7 @@ Wh-who said that?
 ---
 
 **Fujimaru 1:**
-I think...it's coming from Mash's shield?|
+I think...it's coming from Mash's shield?
 
 ---
 
@@ -8001,7 +8003,7 @@ And I'm pretty sure it wouldn't be happy about being interrupted.
 ---
 
 **Fujimaru 1:**
-...There's nothing we'd like more than a truce.|
+...There's nothing we'd like more than a truce.
 
 ---
 
@@ -8020,7 +8022,7 @@ Now then, let us be certain of one thing before we begin to make arrangements. D
 ---
 
 **Fujimaru 1:**
-You're Qin Shi Huang, the First Emperor of Qin.|
+You're Qin Shi Huang, the First Emperor of Qin.
  
 **???:**
 Right you are.
@@ -8074,7 +8076,7 @@ Any other questions?
 ---
 
 **Fujimaru 1:**
-Where are you speaking to us from?|
+Where are you speaking to us from?
 
 ---
 
@@ -8178,7 +8180,7 @@ Consider this a display of our benevolence.
 ---
 
 **Fujimaru 1:**
-But, the world outside the storm is&ndash;|
+But, the world outside the storm is&ndash;
 
 ---
 
@@ -8335,7 +8337,7 @@ So the emperor must have abandoned the Zhenren's aspirations, and found a way to
 ---
 
 **Fujimaru 1:**
-Zhenren?|
+Zhenren?
 
 ---
 
@@ -8400,7 +8402,7 @@ I wonder what they'd think if they saw the world outside their Lostbelt...
 ---
 
 **Fujimaru 1:**
-...I guess they'd be pretty angry.|
+...I guess they'd be pretty angry.
 
 ---
 
@@ -8429,7 +8431,7 @@ So the Lostbelts that aren't preoccupied with just scraping by are eventually go
 ---
 
 **Fujimaru 1:**
-I think Kirschtaria even said something about that...|
+I think Kirschtaria even said something about that...
 
 ---
 
@@ -8584,7 +8586,7 @@ Anyway, having the emperor constantly watching us at all times will get annoying
 ---
 
 **Fujimaru 1:**
-What is it...?|
+What is it...?
 
 ---
 
@@ -8640,7 +8642,7 @@ Man, they're so lucky. I can't wait till I'm a grown-up and can get Benefactions
 ---
 
 **Fujimaru 1:**
-You mean kids never get them?|
+You mean kids never get them?
 
 ---
 
@@ -8654,7 +8656,7 @@ Say, wanna try mine and see what they're like for yourself, {(M) mister /(F) mis
 ---
 
 **Fujimaru 1:**
-It looks like...medicine?|
+It looks like...medicine?
 
 ---
 
@@ -8668,7 +8670,7 @@ Is that so!? Give it here!!!
 ---
 
 **Fujimaru 1:**
-H-hey! Holmes!|
+H-hey! Holmes!
 
 ---
 
@@ -8729,7 +8731,7 @@ Hmm... I cannot say that the wheat is nearly as interesting as the drug...
 ---
 
 **Fujimaru 1:**
-Hey, isn't that Qin Shi Huang's&ndash;|
+Hey, isn't that Qin Shi Huang's&ndash;
 
 ---
 
@@ -8761,7 +8763,7 @@ Qin Liangyu... Hmm.
 ---
 
 **Fujimaru 1:**
-You know her, Holmes?|
+You know her, Holmes?
  
 **Holmes:**
 In Proper Human History, she existed about four hundred years ago. She's famous in China for being the only female general in recorded history.
@@ -8803,7 +8805,7 @@ Hmm, so you employ cryogenic freezing. Then I presume there is no need to keep a
 ---
 
 **Fujimaru 1:**
-Was Xiang Yu frozen in Mt. Li too?|
+Was Xiang Yu frozen in Mt. Li too?
 
 ---
 
@@ -8874,7 +8876,7 @@ It's all thanks to Most Glorious and Majestic Heavenly Emperor abandoning mortal
 ---
 
 **Fujimaru 1:**
-What's the Fusang Tree?|
+What's the Fusang Tree?
 
 ---
 
@@ -8954,7 +8956,7 @@ I can only speculate, but um...I gather the world you come from must be a cruel 
 ---
 
 **Fujimaru 1:**
-What makes you say that?|
+What makes you say that?
 
 ---
 
@@ -9046,7 +9048,7 @@ Senpai...? Are you up?
 ---
 
 **Fujimaru 1:**
-Having trouble sleeping, Mash?|
+Having trouble sleeping, Mash?
 
 ---
 
@@ -9060,7 +9062,7 @@ I'm glad we survived thanks to Qin Shi Huang interceding, but it was still too c
 ---
 
 **Fujimaru 1:**
-Why don't we get some fresh air?|
+Why don't we get some fresh air?
 
 ---
 
@@ -9080,7 +9082,7 @@ Holmes said he suspected they might be a luxury good, much like alcohol in our o
 ---
 
 **Fujimaru 1:**
-The fact that it's like a drug makes me a little nervous, though.|
+The fact that it's like a drug makes me a little nervous, though.
 
 ---
 
@@ -9094,7 +9096,7 @@ Anyway, it looks like they're going to keep the Shadow Border investigation goin
 ---
 
 **Fujimaru 1:**
-That leaves us with nothing to do for once.|
+That leaves us with nothing to do for once.
 
 ---
 
@@ -9111,7 +9113,7 @@ This Lostbelt...is really peaceful, isn't it?
 ---
 
 **Fujimaru 1:**
-Something wrong?|
+Something wrong?
 
 ---
 
@@ -9125,7 +9127,7 @@ It was a world of possibilities,united under a single ideal.
 ---
 
 **Fujimaru 1:**
-You mean...|
+You mean...
 
 ---
 
@@ -9150,7 +9152,7 @@ These people aren't illusions.They're just as real as we are.
 ---
 
 **Fujimaru 1:**
-...But we're still this world's enemies.|
+...But we're still this world's enemies.
 
 ---
 
@@ -9173,7 +9175,7 @@ I know this is a rare chance to rest and relax, but when I think about that...I 
 ---
 
 **Fujimaru 1:**
-...It's been so long since we've seen such a beautiful night sky...|
+...It's been so long since we've seen such a beautiful night sky...
 
 ---
 
@@ -9288,7 +9290,7 @@ You summoned me, Your Imperial Majesty?
 ---
 
 **Fujimaru 1:**
-Xiang Yu?|
+Xiang Yu?
 
 ---
 
@@ -9344,7 +9346,7 @@ Understood, Your Imperial Majesty.
 ---
 
 **Fujimaru 1:**
-...Let's go, Mash.|
+...Let's go, Mash.
 
 ---
 
@@ -9498,7 +9500,7 @@ It was as though her entire life story was designed to pull the wool over someon
 ---
 
 **Fujimaru 1:**
-You mean, like an intricate piece of fiction...?|
+You mean, like an intricate piece of fiction...?
  
 **Da Vinci:**
 Precisely! You are as quick to catch on as ever, Fujimaru!
@@ -9576,7 +9578,7 @@ It looks like that name only means anything to those of us from Proper Human His
 ---
 
 **Fujimaru 1:**
-I think he was called “Kuaiji Zero.”|
+I think he was called “Kuaiji Zero.”
 
 ---
 
@@ -9629,7 +9631,7 @@ Even if it is only temporary, I can't believe I have to pretend to make nice wit
 ---
 
 **Fujimaru 1:**
-Yeah, that sounds about right...|
+Yeah, that sounds about right...
 
 ---
 
@@ -9733,7 +9735,7 @@ I get that Fujimaru has {(M) his /(F) her} own way of fighting.
 ---
 
 **Fujimaru 1:**
-...I'm sorry. I know it's a lot to ask.|
+...I'm sorry. I know it's a lot to ask.
 
 ---
 
@@ -9816,7 +9818,7 @@ I estimate it to be at least several thousand times more potent than pentobarbit
 ---
 
 **Fujimaru 1:**
-...That can't be right.|
+...That can't be right.
 
 ---
 
@@ -9908,7 +9910,7 @@ In this world, the definition of a happy human life is exceedingly simple.
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -10101,7 +10103,7 @@ Didn't your records mention him obeying that Roman!?If he can listen to her, he 
 ---
 
 **Fujimaru 1:**
-That was between Nero and Spartacus, not me.|
+That was between Nero and Spartacus, not me.
 
 ---
 
@@ -10189,7 +10191,7 @@ What do you think, {(M) Mr. /(F) Ms.} Fujimaru?This is ultimately your decision 
 ---
 
 **Fujimaru 1:**
-I'm not going to use a Command Spell for this.|
+I'm not going to use a Command Spell for this.
  
 **Mordred:**
 Hell yeah! I knew you'd understand, Master!
@@ -10288,7 +10290,7 @@ I must give this Qin Shi Huang oppressor the firm embrace he deserves! I already
 ---
 
 **Fujimaru 1:**
-Please stop this, Spartacus.|
+Please stop this, Spartacus.
 
 ---
 
@@ -10346,7 +10348,7 @@ If this keeps up, you won't last much longer, Master.
 ---
 
 **Fujimaru 1:**
-Honestly, it's already rough... I'm starting to get feverish...|
+Honestly, it's already rough... I'm starting to get feverish...
  
 **Jing Ke:**
 It's no use. They don't even remember they're draining Master's magical energy.
@@ -10430,7 +10432,7 @@ Even Da Vinci's tricks had to be performed inside it to work.
 ---
 
 **Fujimaru 1:**
-Qin Shi Huang! Can you hear me?|
+Qin Shi Huang! Can you hear me?
 
 ---
 
@@ -10441,7 +10443,7 @@ We can. This entire land is our garden.No noise or tumult within escapes our not
 ---
 
 **Fujimaru 1:**
-I thought we had a deal!|
+I thought we had a deal!
 
 ---
 
@@ -10530,7 +10532,7 @@ We must obliterate you,and ensure that no trace is left behind.
 ---
 
 **Fujimaru 1:**
-Xiang Yu...!|
+Xiang Yu...!
 
 ---
 
@@ -10550,7 +10552,7 @@ Should I apologize to you for taking pity on these people?
 ---
 
 **Fujimaru 1:**
-Not at all. You should be proud!|
+Not at all. You should be proud!
 
 ---
 
@@ -10816,7 +10818,7 @@ Now is the time for you to demonstrate your authority.
 ---
 
 **Fujimaru 1:**
-What do you want me to do?|
+What do you want me to do?
 
 ---
 
@@ -10863,7 +10865,7 @@ Regardless, there's no time to debate the matter.We don't have long before that 
 ---
 
 **Fujimaru 1:**
-By my Command Spell...|
+By my Command Spell...
  
 
 ---
@@ -10878,7 +10880,7 @@ Jump, Spartacus!
 ---
 
 **Fujimaru 1:**
-By my Command Spell...|
+By my Command Spell...
  
 
 ---
@@ -11144,7 +11146,7 @@ What would you have us do, Fujimaru?
 ---
 
 **Fujimaru 1:**
-I want to hear your plan, Jing Ke.|
+I want to hear your plan, Jing Ke.
 
 ---
 
@@ -11215,7 +11217,7 @@ I too. Have no. Significant objections.
 ---
 
 **Fujimaru 1:**
-Then it's settled.|
+Then it's settled.
 
 ---
 
@@ -11355,7 +11357,7 @@ Oh, yes. I guess I should've expected you to tag along too...
 ---
 
 **Fujimaru 1:**
-I hope the others are okay...|
+I hope the others are okay...
 
 ---
 
@@ -11366,7 +11368,7 @@ You just focus on taking care of yourself right now, Fujimaru. How are you feeli
 ---
 
 **Fujimaru 1:**
-Still a little feverish.|
+Still a little feverish.
 
 ---
 
@@ -11407,7 +11409,7 @@ I'm sorry, Fujimaru, but you'll just have to hang in there for now.
 ---
 
 **Fujimaru 1:**
-Don't worry about me. I'm fine! Really!|
+Don't worry about me. I'm fine! Really!
 
 ---
 
@@ -11447,7 +11449,7 @@ So does this mean there's someone else here butting heads with the empire beside
 ---
 
 **Fujimaru 1:**
-Maybe a Rogue Servant?|
+Maybe a Rogue Servant?
 
 ---
 
@@ -11464,7 +11466,7 @@ Or a new enemy, if we're unlucky.Either way, we'd better investigate further.
 ---
 
 **Fujimaru 1:**
-Let's try looking around here and see what we can find.|
+Let's try looking around here and see what we can find.
 
 ---
 
@@ -11753,7 +11755,7 @@ No, we do not. If that Master of yours happens to be looking for new Servants, t
 ---
 
 **Fujimaru 1:**
-I'd definitely like some new Servants.|
+I'd definitely like some new Servants.
 
 ---
 
@@ -11813,7 +11815,7 @@ Answer me this! Are you my Master!?
 ---
 
 **Fujimaru 1:**
-Uhh...|
+Uhh...
 
 ---
 
@@ -11841,7 +11843,7 @@ Oh, I'm Lu Bu Fengxian.Pleased to meet you!
 ---
 
 **Fujimaru 1:**
-Wat.|
+Wat.
 
 ---
 
@@ -11855,7 +11857,7 @@ Yes, it is best you ignore that bit.It...really does not matter. At all. Moving 
 ---
 
 **Fujimaru 1:**
-Why are you refusing to make eye contact?|
+Why are you refusing to make eye contact?
  
 **Jing Ke:**
 I'm not. I just figure these kinds of compromises are worth making, given we're in this for the long haul.
@@ -11917,7 +11919,7 @@ Ahoy there! Can you hear me okay,Fujimaru?
 ---
 
 **Fujimaru 1:**
-Huh?|
+Huh?
 
 ---
 
@@ -12087,7 +12089,7 @@ So that's why the idea that we might have some way to communicate with each othe
 ---
 
 **Fujimaru 1:**
-Never even occurred to them.|
+Never even occurred to them.
 
 ---
 
@@ -12116,7 +12118,7 @@ Yes, I would encourage you to move with all possible haste. You see...
 ---
 
 **Fujimaru 1:**
-Come to think of it, there's someone I'm surprised we haven't heard from yet...|
+Come to think of it, there's someone I'm surprised we haven't heard from yet...
 
 ---
 
@@ -12150,7 +12152,7 @@ In Fujimaru's case, the effects haven't been any worse than a bad cold...
 ---
 
 **Fujimaru 1:**
-What!?|
+What!?
 
 ---
 
@@ -12179,7 +12181,7 @@ Poor Director Goredolf...I had no idea he was struggling that badly...
 ---
 
 **Fujimaru 1:**
-I can't imagine Goredolf fasting...|
+I can't imagine Goredolf fasting...
 
 ---
 
@@ -12426,7 +12428,7 @@ Uh... A-at any rate,I'm all set for combat!
 ---
 
 **Fujimaru 1:**
-Let's do this!|
+Let's do this!
 
 ---
 
@@ -12481,7 +12483,7 @@ Come on, Master, we can't be left behind!
 ---
 
 **Fujimaru 1:**
-You said it!|
+You said it!
 
 ---
 
@@ -12585,7 +12587,7 @@ Sure are! Aaand we brought along a special guest!
 ---
 
 **Fujimaru 1:**
-Koyanskaya!|
+Koyanskaya!
 
 ---
 
@@ -12638,7 +12640,7 @@ Are you serious? Did you really come all the way here to rescue your allies arme
 ---
 
 **Fujimaru 1:**
-Sorry.|
+Sorry.
 
 ---
 
@@ -13007,7 +13009,7 @@ Koyanskaya, I take it you knew that Akuta Hinako was actually Yu Mei-ren all alo
 ---
 
 **Fujimaru 1:**
-Who's Yu Mei-ren?|
+Who's Yu Mei-ren?
  
 **Holmes:**
 A notable figure from the Chu-Han Contention,which took place after the death of Qin Shi Huang.
@@ -13154,7 +13156,7 @@ I'm sure Romani knew him well enough that he could weigh in with something usefu
 ---
 
 **Fujimaru 1:**
-N-never mind all that now!|
+N-never mind all that now!
 
 ---
 
@@ -13497,7 +13499,7 @@ Fou. Fo fooou.
 ---
 
 **Fujimaru 1:**
-I see Fou's using Koyanskaya's head as a dance floor...|
+I see Fou's using Koyanskaya's head as a dance floor...
 
 ---
 
@@ -13598,7 +13600,7 @@ Xiān Shuāi Míng Mài dries you out from the inside.You only have a few days l
 ---
 
 **Fujimaru 1:**
-(I had no idea...)|
+(I had no idea...)
 
 ---
 
@@ -13621,7 +13623,7 @@ G-grrr...!
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -13665,7 +13667,7 @@ Just you, me, and whatever hand we choose to play! A fair fight if ever there wa
 ---
 
 **Fujimaru 1:**
-...All right.|
+...All right.
 
 ---
 
@@ -13694,7 +13696,7 @@ Rooock, paaaper&ndash;
 ---
 
 **Fujimaru 1:**
-I'm going to use rock.|
+I'm going to use rock.
  
 **Goredolf:**
 Wait, whaaat!?
@@ -13781,7 +13783,7 @@ It's been a good show and all, but I think it's time we got this over with, don'
 ---
 
 **Fujimaru 1:**
-Yup. Go for it.|
+Yup. Go for it.
 
 ---
 
@@ -13807,7 +13809,7 @@ That was the only antidote we had!Now what are you going to do!?
 ---
 
 **Fujimaru 1:**
-Well, I couldn't just let you die...|
+Well, I couldn't just let you die...
  
 
 ---
@@ -13816,7 +13818,7 @@ Well, I couldn't just let you die...|
 ---
 
 **Fujimaru 1:**
-After all, I wouldn't even be here now if not for you...|
+After all, I wouldn't even be here now if not for you...
 
 ---
 
@@ -13830,7 +13832,7 @@ If you had eaten the whole thing,you would have died on the spot.
 ---
 
 **Fujimaru 1:**
-The Director never said a word about that, so...|
+The Director never said a word about that, so...
  
 
 ---
@@ -13851,7 +13853,7 @@ W-well... I don't know if I'd put it quite that way...
 ---
 
 **Fujimaru 1:**
-So now, we're even.|
+So now, we're even.
  
 
 ---
@@ -14052,7 +14054,7 @@ You hang in there and focus on defeating Qin Shi Huang!
 ---
 
 **Fujimaru 1:**
-Yeah.|
+Yeah.
  
 
 ---
@@ -14637,7 +14639,7 @@ We have. Finally rendezvoused. I am.Sorry I. Did not. Get here. Sooner, Master.
 ---
 
 **Fujimaru 1:**
-Mordred!|
+Mordred!
 
 ---
 
@@ -14846,7 +14848,7 @@ My point is, we've got plenty of capable fighters to go around, so&ndash;
 ---
 
 **Fujimaru 1:**
-You want to go off on your own, don't you?|
+You want to go off on your own, don't you?
 
 ---
 
@@ -14869,7 +14871,7 @@ But, all by yourself? That just seems...
 ---
 
 **Fujimaru 1:**
-I don't want anything to happen to you.|
+I don't want anything to happen to you.
 
 ---
 
@@ -14901,7 +14903,7 @@ But, Senpai's&ndash;
 ---
 
 **Fujimaru 1:**
-I'm not worried about Jing Ke the Heroic Spirit. I'm worried about YOU.|
+I'm not worried about Jing Ke the Heroic Spirit. I'm worried about YOU.
 
 ---
 
@@ -14951,7 +14953,7 @@ Right now, I think that's the best thing I can do to help Chaldea.
 ---
 
 **Fujimaru 1:**
-...Do you promise to come back safe?|
+...Do you promise to come back safe?
 
 ---
 
@@ -14977,7 +14979,7 @@ So let's both keep that in mind as we go our separate ways, okay?
 ---
 
 **Fujimaru 1:**
-...Okay.|
+...Okay.
 
 ---
 
@@ -15021,7 +15023,7 @@ We know. See you in Xianyang!
 ---
 
 **Fujimaru 1:**
-Just be careful, okay?|
+Just be careful, okay?
 
 ---
 
@@ -15434,7 +15436,7 @@ If we don't attack first, the enemy will have the advantage. Are you sure you wi
 ---
 
 **Fujimaru 1:**
-I'm sure.|
+I'm sure.
 
 ---
 
@@ -15548,7 +15550,7 @@ Tell me, those of you who claim to be from Proper Human History: Why do you thre
 ---
 
 **Fujimaru 1:**
-...Because this history should never have happened.|
+...Because this history should never have happened.
 
 ---
 
@@ -15633,7 +15635,7 @@ Tell me... What sort of bloody future do you see past the mountain of bodies you
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -15653,7 +15655,7 @@ In the end...all I ever did to bring about peace was take up my spear...
 ---
 
 **Fujimaru 1:**
-But...|
+But...
 
 ---
 
@@ -16332,7 +16334,7 @@ You'd better not hold back against him!
 ---
 
 **Fujimaru 1:**
-...That was amazing...|
+...That was amazing...
 
 ---
 
@@ -16507,7 +16509,7 @@ Nothing so certain, to be sure. Perhaps I should say that my suspicions were rig
 ---
 
 **Fujimaru 1:**
-Wait. The Fusang Tree IS the Tree of Emptiness!?|
+Wait. The Fusang Tree IS the Tree of Emptiness!?
 
 ---
 
@@ -16985,7 +16987,7 @@ There can be no better way to determine who is more fit for these chaotic times.
 ---
 
 **Fujimaru 1:**
-...So we're not fighting in hatred,but to show the strength of our conviction...|
+...So we're not fighting in hatred,but to show the strength of our conviction...
 
 ---
 
@@ -16993,7 +16995,7 @@ There can be no better way to determine who is more fit for these chaotic times.
 ---
 
 **Fujimaru 1:**
-Well, we can't back down from that, now can we!?|
+Well, we can't back down from that, now can we!?
 
 ---
 
@@ -17039,7 +17041,7 @@ Tell us, Fujimaru. In your world, are all people...no, all humans, as strong as 
 ---
 
 **Fujimaru 1:**
-I don't know. But I do know this...|
+I don't know. But I do know this...
 
 ---
 
@@ -17047,7 +17049,7 @@ I don't know. But I do know this...|
 ---
 
 **Fujimaru 1:**
-Whoever else might have come to fight you insteadwouldn't have had to do it alone either.|
+Whoever else might have come to fight you insteadwouldn't have had to do it alone either.
 
 ---
 
@@ -17090,7 +17092,7 @@ We leave the future of the Chronicle Theoretical Phenomenon in Proper Human Hist
 ---
 
 **Fujimaru 1:**
-Thank you. That means a lot.|
+Thank you. That means a lot.
 
 ---
 
@@ -17273,7 +17275,7 @@ Qin Shi Huang!?
 ---
 
 **Fujimaru 1:**
-Does that mean you'll help us?|
+Does that mean you'll help us?
 
 ---
 
@@ -17317,7 +17319,7 @@ It's a galaxy! There's a real, actual galaxy inside the Tree of Emptiness!
 ---
 
 **Fujimaru 1:**
-A galaxy? As in, massive celestial body galaxy!?|
+A galaxy? As in, massive celestial body galaxy!?
 
 ---
 
@@ -17346,7 +17348,7 @@ Be ready to continue fighting, Fujimaru! That thing cannot be allowed to remain 
 ---
 
 **Fujimaru 1:**
-...Got it!|
+...Got it!
 
 ---
 
@@ -17503,7 +17505,7 @@ Still, if the Heroic Spirits this world summoned are already gone, that must mea
 ---
 
 **Fujimaru 1:**
-This world won't be around much longer...|
+This world won't be around much longer...
 
 ---
 
@@ -17556,7 +17558,7 @@ Well done, Chaldea. Now, we assume you have your own urgent business to attend t
 ---
 
 **Fujimaru 1:**
-Qin Shi Huang...|
+Qin Shi Huang...
 
 ---
 
@@ -17567,7 +17569,7 @@ Go on then, humanity's next crisis awaits. Do not forget your responsibility&nda
 ---
 
 **Fujimaru 1:**
-...Huh?|
+...Huh?
 
 ---
 
@@ -17611,7 +17613,7 @@ I'm certain we can assume the antidote to be safe as well. If nothing else, she 
 ---
 
 **Fujimaru 1:**
-All right then, here goes nothing...|
+All right then, here goes nothing...
 
 ---
 
@@ -17622,7 +17624,7 @@ All right then, here goes nothing...|
 ---
 
 **Fujimaru 1:**
-...Yeah, I think it worked.|
+...Yeah, I think it worked.
 
 ---
 
@@ -17734,7 +17736,7 @@ I should be able to reach you via comms now.Do you read me?
 ---
 
 **Fujimaru 1:**
-It's Sion...!|
+It's Sion...!
 
 ---
 
@@ -17778,7 +17780,7 @@ Oh no, we would never make you waste your time like that. Especially not when yo
 ---
 
 **Fujimaru 1:**
-Huh? Another one?|
+Huh? Another one?
  
 
 ---
