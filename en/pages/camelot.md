@@ -1,4 +1,4 @@
-# Singularity 6: Divine Realm of the Round Table - Camelot
+#Singularity 6: Divine Realm of the Round Table - Camelot
 
 ![Camelot](https://i.imgur.com/I37vbsk.png)
 
@@ -290,7 +290,7 @@ Please make no mistake about that. I'm also sure Mash doesn't want Fujimaru to h
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -310,7 +310,7 @@ Anyway, several years after Mash's birth, they conducted the fusion experiment.
 ---
 
 **Fujimaru 1:**
-Director Olga Marie said the experiment failed...|
+Director Olga Marie said the experiment failed...
 
 ---
 
@@ -402,7 +402,7 @@ For as long as she remained operational, she'd only be able to live in Chaldea.
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -431,7 +431,7 @@ But she'll expire when her life force dries up.One day, suddenly, like a robot r
 ---
 
 **Fujimaru 1:**
-You knew all that!?|
+You knew all that!?
  
 **Dr. Roman:**
 Of course I did. I am her primary physician after all.
@@ -494,7 +494,7 @@ She can remain operational for at most one more year... That's what I wanted to 
 ---
 
 **Fujimaru 1:**
-Does Mash know about that?|
+Does Mash know about that?
  
 
 ---
@@ -539,7 +539,7 @@ Are you any good at acting? Like pretending you're seeing a movie for the first 
 ---
 
 **Fujimaru 1:**
-...I'll do my best.|
+...I'll do my best.
  
 **Dr. Roman:**
 Yes, please do that. Mash's a perceptive kid, so I'm sure she'll catch on eventually...
@@ -614,7 +614,7 @@ If we had just one Grail to spare, we could use it on Mash. It's not too much to
 ---
 
 **Fujimaru 1:**
-I like that idea!|
+I like that idea!
 
 ---
 
@@ -643,7 +643,7 @@ Mash Kyrielight, now attending the briefing 27 minutes late!
 ---
 
 **Fujimaru 1:**
-Mash, are you feeling okay!?|
+Mash, are you feeling okay!?
  
 
 ---
@@ -676,7 +676,7 @@ But as you can see, I've recovered now, so there's no problem. I've gained exper
 ---
 
 **Fujimaru 1:**
-Next time...?|
+Next time...?
 
 ---
 
@@ -699,7 +699,7 @@ You and Mash will continue your search for the Holy Grail. Do either of you have
 ---
 
 **Fujimaru 1:**
-...No objections.|
+...No objections.
  
 **Mash:**
 Right. Me neither.I will obey you, Master.
@@ -792,7 +792,7 @@ Are you still willing to go with Mash, Fujimaru?
 ---
 
 **Fujimaru 1:**
-Of course.|
+Of course.
 
 ---
 
@@ -830,7 +830,7 @@ I mean, this is an unprecedented Foundation of Humanity EX. Fujimaru needs the h
 ---
 
 **Fujimaru 1:**
-At last, Da Vinci is...|
+At last, Da Vinci is...
  
 **Da Vinci:**
 Yes, that's right! I said so before, right?If push comes to shove, I'll take part!
@@ -914,7 +914,7 @@ Find what's causing the disruption in that era, and retrieve it, or else destroy
 ---
 
 **Fujimaru 1:**
-Understood.|
+Understood.
 
 ---
 
@@ -1110,7 +1110,7 @@ Fou, fooouuu, fooooooo!
 ---
 
 **Fujimaru 1:**
-My eyes... My eyes...|
+My eyes... My eyes...
 
 ---
 
@@ -1139,7 +1139,7 @@ Anyway, did you get in touch with Roman!? He better be working on an apology for
 ---
 
 **Fujimaru 1:**
-This sort of thing always happens, nothing we can do...|
+This sort of thing always happens, nothing we can do...
 
 ---
 
@@ -1171,7 +1171,7 @@ Fou!Fau, fuuuun!
 ---
 
 **Fujimaru 1:**
-Fou is going wild too!|
+Fou is going wild too!
 
 ---
 
@@ -1214,7 +1214,7 @@ What about you, Master? Any idea what it was?
 ---
 
 **Fujimaru 1:**
-It was a knight in armor!|
+It was a knight in armor!
 
 ---
 
@@ -1284,7 +1284,7 @@ Let's go there first.You need to rest too, right, Fujimaru?
 ---
 
 **Fujimaru 1:**
-Water sounds really good now...|
+Water sounds really good now...
  
 **Mash:**
 Yes. I agree with you, Senpai.Let's look for some cold water!
@@ -1316,7 +1316,7 @@ O-Or would you like me to carry you?If you ride on my shield, then I can just pu
 ---
 
 **Fujimaru 1:**
-...No, it's just that...|
+...No, it's just that...
 
 ---
 
@@ -1357,7 +1357,7 @@ That we are. But I can see countless shadows in the area between here and the te
 ---
 
 **Fujimaru 1:**
-...One, two, three...|
+...One, two, three...
 
 ---
 
@@ -1398,7 +1398,7 @@ All right, let's make a run for it! I thought I glimpsed a skull mask as well, b
 ---
 
 **Fujimaru 1:**
-A skull... mask?|
+A skull... mask?
 
 ---
 
@@ -1436,7 +1436,7 @@ One of them is carrying a bound woman!Senpai, your orders!
 ---
 
 **Fujimaru 1:**
-Fight back, Mash! But gently!|
+Fight back, Mash! But gently!
 
 ---
 
@@ -1458,7 +1458,7 @@ Ugh! My mask...
 ---
 
 **Fujimaru 1:**
-A Servant?|
+A Servant?
  
 **B：???:**
 ...What? Don't tell me you're a Master!?
@@ -1512,7 +1512,7 @@ Who are you people! Do you work for Ozymandias!?
 ---
 
 **Fujimaru 1:**
-I'm Fujimaru! How you doin'?|
+I'm Fujimaru! How you doin'?
  
 **Hundred Personas:**
 ...I-I am the Hassan of the Hundred Personas! One of the leaders of the West, an Old Man of the Mountain!
@@ -1548,7 +1548,7 @@ You too, human! You little {(M) wolf cub /(F) doe}!Just you wait, I will never l
 ---
 
 **Fujimaru 1:**
-Wait, hear us out!|
+Wait, hear us out!
 
 ---
 
@@ -1574,7 +1574,7 @@ Too bad, we finally ran into people we could talk to...
 ---
 
 **Fujimaru 1:**
-...Was it an actual conversation?|
+...Was it an actual conversation?
  
 **Mash:**
 Well... yes. Although I feel like everything we said backfired...
@@ -1613,7 +1613,7 @@ That may look like an ear, but it's a magical catalyst evoking Horus... No, not 
 ---
 
 **Fujimaru 1:**
-Oh, she's awake.|
+Oh, she's awake.
 
 ---
 
@@ -1689,7 +1689,7 @@ The pharaoh granted this divine beast to me. You shall be tested by it until you
 ---
 
 **Fujimaru 1:**
-This is a misunderstanding, we just helped!|
+This is a misunderstanding, we just helped!
  
 **Nitocris:**
 &mdash;How shameless.Do you really think I'd believe you?
@@ -1731,7 +1731,7 @@ Nothing seems to be getting through to her...We might have no choice but to defe
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -1843,7 +1843,7 @@ Foou!
 ---
 
 **Fujimaru 1:**
-You finally believe us!|
+You finally believe us!
  
 
 ---
@@ -1855,7 +1855,7 @@ Eek!? Wh-Why are you shouting like that all of a sudden!?
 ---
 
 **Fujimaru 1:**
-We saved you. Got a problem!?|
+We saved you. Got a problem!?
  
 
 ---
@@ -1870,7 +1870,7 @@ You have my gratitude, travelers....I'm sorry. My short temper got the best of m
 ---
 
 **Fujimaru 1:**
-By the way, we'd like some water!|
+By the way, we'd like some water!
  
 
 ---
@@ -1882,7 +1882,7 @@ W-Water!? In that case, there's an oasis nearby...
 ---
 
 **Fujimaru 1:**
-We want some fruit too!|
+We want some fruit too!
  
 
 ---
@@ -1941,7 +1941,7 @@ That's good. Then I'll take my leave here.May good fate accompany your journey.
 ---
 
 **Fujimaru 1:**
-You're leaving now?|
+You're leaving now?
 
 ---
 
@@ -1982,7 +1982,7 @@ I see. Hmm, then Lucius really might be his True Name. Don't know what to make o
 ---
 
 **Fujimaru 1:**
-Is the True Name Lucius strange?|
+Is the True Name Lucius strange?
  
 **Da Vinci:**
 It's not really strange, but saying that name itself is something of a joke.
@@ -2045,7 +2045,7 @@ If I don't return by evening, they'll realize that I've been abducted! How disgr
 ---
 
 **Fujimaru 1:**
-Oh, okay.|
+Oh, okay.
 
 ---
 
@@ -2071,7 +2071,7 @@ This is Da Vinci. And this is our Master...
 ---
 
 **Fujimaru 1:**
-Fujimaru.|
+Fujimaru.
  
 
 ---
@@ -2101,7 +2101,7 @@ I see. Beasts outside of your control...
 ---
 
 **Fujimaru 1:**
-I see. That's convincing.|
+I see. That's convincing.
 
 ---
 
@@ -2135,7 +2135,7 @@ Where did those beasts come from? I've never seen or heard of anything like them
 ---
 
 **Fujimaru 1:**
-They were... octopuses...|
+They were... octopuses...
 
 ---
 
@@ -2206,7 +2206,7 @@ This territory of Egypt is proof of that. The pharaoh saved his subjects that we
 ---
 
 **Fujimaru 1:**
-Subjects were summoned with the land?|
+Subjects were summoned with the land?
  
 **Nitocris:**
 That's right. Likely due to the pharaoh's great power.
@@ -2266,7 +2266,7 @@ All those who live in this land already know that!
 ---
 
 **Fujimaru 1:**
-What's that supposed to mean!?|
+What's that supposed to mean!?
  
 
 ---
@@ -2311,7 +2311,7 @@ A living god is the most suitable term. However&mdash;Queen Nitocris... I feel a
 ---
 
 **Fujimaru 1:**
-...She's too nice?|
+...She's too nice?
 
 ---
 
@@ -2339,7 +2339,7 @@ We did it, Master! The sphinx is retreating into the sky!
 ---
 
 **Fujimaru 1:**
-Good work, Mash!|
+Good work, Mash!
 
 ---
 
@@ -2403,7 +2403,7 @@ I'll deploy my Noble Phantasm and go straight through! If we... If we can just g
 ---
 
 **Fujimaru 1:**
-What an awesome temple!|
+What an awesome temple!
 
 ---
 
@@ -2423,7 +2423,7 @@ So that's the palace of the Sun King Ozymandias&mdash;The legendary shining temp
 ---
 
 **Fujimaru 1:**
-Yup, yup... Who's that?|
+Yup, yup... Who's that?
 
 ---
 
@@ -2461,7 +2461,7 @@ He is also called the Construction King as well. That great temple is likely one
 ---
 
 **Fujimaru 1:**
-That's amazing.|
+That's amazing.
 
 ---
 
@@ -2526,7 +2526,7 @@ In addition, according to my measurements, there is another location in this ter
 ---
 
 **Fujimaru 1:**
-Even more distorted than the desert?|
+Even more distorted than the desert?
 
 ---
 
@@ -2570,7 +2570,7 @@ If you do, His Majesty may awaken from his weariness, and speak to you!
 ---
 
 **Fujimaru 1:**
-At once&mdash;!|
+At once&mdash;!
  
 **Nitocris:**
 Heh! An excellent sight. I feel as excited as if I had done it myself!
@@ -2651,7 +2651,7 @@ If you would question my knowledge, then the answer should now be apparent: I ho
 ---
 
 **Fujimaru 1:**
-The Holy Grail!|
+The Holy Grail!
 
 ---
 
@@ -2680,7 +2680,7 @@ U-Um... King Ozymandias, that's surprising, but, um...
 ---
 
 **Fujimaru 1:**
-Your head just...|
+Your head just...
 
 ---
 
@@ -2703,7 +2703,7 @@ There's nothing wrong with my head.And now that I have the Holy Grail, I&mdash; 
 ---
 
 **Fujimaru 1:**
-... (Pretend you didn't see anything)|
+... (Pretend you didn't see anything)
 
 ---
 
@@ -2803,7 +2803,7 @@ Is this territory of Egypt something you summoned? And is that what caused the c
 ---
 
 **Fujimaru 1:**
-She's Leonardo da Vinci.|
+She's Leonardo da Vinci.
  
 **Ozymandias:**
 Oh? I know that name. One of the greatest geniuses in human history.
@@ -2868,7 +2868,7 @@ They call him the Lion King... The infamous pure-white Lion King!
 ---
 
 **Fujimaru 1:**
-Yeah. I don't get it.|
+Yeah. I don't get it.
 
 ---
 
@@ -2984,7 +2984,7 @@ This may be an issue considering I'm a pharaoh, but I... I feel envious, just a 
 ---
 
 **Fujimaru 1:**
-What are you talking to Mash about?|
+What are you talking to Mash about?
  
 
 ---
@@ -3008,7 +3008,7 @@ Yes, I'm so very jealous. I'd like to try riding a sphinx, at least once!
 ---
 
 **Fujimaru 1:**
-What are you doing, Da Vinci?|
+What are you doing, Da Vinci?
 
 ---
 
@@ -3037,7 +3037,7 @@ This is...a buggy, no matter how you look at it!It's really out of place for the
 ---
 
 **Fujimaru 1:**
-What's going on here!?|
+What's going on here!?
  
 **Da Vinci:**
 Well, technology that is ahead of its time is really hard to pull off successfully.
@@ -3088,7 +3088,7 @@ Fou!
 ---
 
 **Fujimaru 1:**
-Yay!|
+Yay!
 
 ---
 
@@ -3131,7 +3131,7 @@ We've left the sandstorm! And with the buggy running properly, this is rather pl
 ---
 
 **Fujimaru 1:**
-I'll never give up the wheel!|
+I'll never give up the wheel!
  
 **Mash:**
 Please, don't say that. You should go keep Da Vinci company in the back seat.
@@ -3161,7 +3161,7 @@ Would you like a meal? Or a massage?We've also got some cold juice...
 ---
 
 **Fujimaru 1:**
-This thing's TOO convenient...|
+This thing's TOO convenient...
 
 ---
 
@@ -3187,7 +3187,7 @@ The mana density changes past that big sand dune.We'll no doubt be able to see w
 ---
 
 **Fujimaru 1:**
-...That's a little scary.|
+...That's a little scary.
  
 **Da Vinci:**
 Right, I'm a little uneasy too. My worst expectations always have a way of hitting the mark.
@@ -3220,7 +3220,7 @@ Once we're out of Egyptian territory, we should be able to contact Romani again.
 ---
 
 **Fujimaru 1:**
-I suppose the Doctor's worried too.|
+I suppose the Doctor's worried too.
 
 ---
 
@@ -3246,7 +3246,7 @@ Fou, fou.
 ---
 
 **Fujimaru 1:**
-The Doctor isn't sleeping?|
+The Doctor isn't sleeping?
 
 ---
 
@@ -3284,7 +3284,7 @@ When that isn't enough, they push themselves further, using modern medicine to i
 ---
 
 **Fujimaru 1:**
-I didn't know...|
+I didn't know...
  
 **Fou:**
 Fou...
@@ -3338,7 +3338,7 @@ So Romani and the entire Command Room staff give everything they have to support
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -3364,7 +3364,7 @@ Why am I so angry and scornful? That goes without saying. Because ordinary peopl
 ---
 
 **Fujimaru 1:**
-Marisbury?|
+Marisbury?
 
 ---
 
@@ -3387,7 +3387,7 @@ They're acting like a wall to block our path!We need to eliminate them to cross 
 ---
 
 **Fujimaru 1:**
-They dare interfere with our big jump!?|
+They dare interfere with our big jump!?
 
 ---
 
@@ -3424,7 +3424,7 @@ The desert sandstorm was rough, but this is just as harsh... It's exactly as I e
 ---
 
 **Fujimaru 1:**
-As you expected?|
+As you expected?
 
 ---
 
@@ -3506,7 +3506,7 @@ Why don't you just die, dammit!
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -3533,7 +3533,7 @@ Although they all fainted in agony.
 ---
 
 **Fujimaru 1:**
-...Sorry.|
+...Sorry.
 
 ---
 
@@ -3553,7 +3553,7 @@ But we need to get moving. There could be more of them lurking about.
 ---
 
 **Fujimaru 1:**
-By the way, can we leave some food?|
+By the way, can we leave some food?
 
 ---
 
@@ -3638,7 +3638,7 @@ Are you all okay!? Did any unexpected accidents happen again this time!?
 ---
 
 **Fujimaru 1:**
-Ah, good ol' Dr. Roman!|
+Ah, good ol' Dr. Roman!
  
 **Mash:**
 Yes. This is the kind of entertainment we expect from him.
@@ -3710,7 +3710,7 @@ Hold on, I need to say that again.What&mdash;!?
 ---
 
 **Fujimaru 1:**
-Is it that shocking?|
+Is it that shocking?
  
 **Dr. Roman:**
 Of course it's shocking! Because&mdash;
@@ -3758,7 +3758,7 @@ Understood. Stopping the Sphinx-mobile.What should we do, Master?
 ---
 
 **Fujimaru 1:**
-...Let's hide and watch.|
+...Let's hide and watch.
 
 ---
 
@@ -3802,7 +3802,7 @@ I can't stop trembling when I look at that Archer...It hurts my heart&mdash;
 ---
 
 **Fujimaru 1:**
-All right, let's fall back.|
+All right, let's fall back.
 
 ---
 
@@ -3900,7 +3900,7 @@ How terrible!
 ---
 
 **Fujimaru 1:**
-Those people aren't even resisting!|
+Those people aren't even resisting!
  
 
 ---
@@ -3960,7 +3960,7 @@ If left alone, it'll turn into a monster that attacks people indiscriminately! B
 ---
 
 **Fujimaru 1:**
-...Got it. Let's go, Mash!|
+...Got it. Let's go, Mash!
 
 ---
 
@@ -3997,7 +3997,7 @@ That ends this situation...Master, um...
 ---
 
 **Fujimaru 1:**
-...Yeah, let's take a little detour.|
+...Yeah, let's take a little detour.
 
 ---
 
@@ -4088,7 +4088,7 @@ We still don't understand the full situation, so it's better to act in secret fo
 ---
 
 **Fujimaru 1:**
-The buggy only fits three, anyway.|
+The buggy only fits three, anyway.
 
 ---
 
@@ -4120,7 +4120,7 @@ The Sun King, the Lion King, and a group of Assassins... Does this mean it's a t
 ---
 
 **Fujimaru 1:**
-Lion beats Sun, Assassin beats Lion...|
+Lion beats Sun, Assassin beats Lion...
  
 **Da Vinci:**
 And Sun beats Assassin?Hmm, I don't really think so.
@@ -4224,7 +4224,7 @@ Fujimaru, go right ahead and discipline them!
 ---
 
 **Fujimaru 1:**
-Leave it to me!|
+Leave it to me!
 
 ---
 
@@ -4325,7 +4325,7 @@ It seems to be the knights who came out of the Holy City. They're silently guard
 ---
 
 **Fujimaru 1:**
-It's suddenly daytime!?|
+It's suddenly daytime!?
  
 **Mash:**
 Yes, this isn't an illusion!What exactly could this be&mdash;
@@ -4457,7 +4457,7 @@ But they can't escape. They're completely surrounded. The knights of the Holy Ci
 ---
 
 **Fujimaru 1:**
-Yeah, we'll open a path for everyone!|
+Yeah, we'll open a path for everyone!
  
 
 ---
@@ -4638,7 +4638,7 @@ But, but... I could see it happening, but I couldn't make it in time...
 ---
 
 **Fujimaru 1:**
-Mash, watch over that child!|
+Mash, watch over that child!
 
 ---
 
@@ -4690,7 +4690,7 @@ It was King Arthur's knights, the Knights of the Round Table, who annihilated th
 ---
 
 **Fujimaru 1:**
-The Arthur we met in Singularity F!?|
+The Arthur we met in Singularity F!?
 
 ---
 
@@ -4731,7 +4731,7 @@ Not only that, but it's daytime now, right!? In that case, you have no way to wi
 ---
 
 **Fujimaru 1:**
-What's wrong with it being daytime!?|
+What's wrong with it being daytime!?
  
 **Mash:**
 Sir Gawain is a knight blessed with the Numeral of the Saint... During the day, his power is three times greater...
@@ -4796,7 +4796,7 @@ Fou, fou!
 ---
 
 **Fujimaru 1:**
-Gawain! Why are you doing this!?|
+Gawain! Why are you doing this!?
 
 ---
 
@@ -4822,7 +4822,7 @@ Master from a foreign land. What is your name?
 ---
 
 **Fujimaru 1:**
-{(M) It's /(F) I'm} Fujimaru.|
+{(M) It's /(F) I'm} Fujimaru.
  
 
 ---
@@ -4867,7 +4867,7 @@ I have no intention of causing you suffering. Accept your fate, and let this end
 ---
 
 **Fujimaru 1:**
-You don't get to decide!|
+You don't get to decide!
 
 ---
 
@@ -4914,7 +4914,7 @@ This is the end! That shield is too heavy of a burden for you to bear!
 ---
 
 **Fujimaru 1:**
-Mash!|
+Mash!
  
 
 ---
@@ -4932,7 +4932,7 @@ Wh-What? You... You're...
 ---
 
 **Fujimaru 1:**
-Lucius!|
+Lucius!
 
 ---
 
@@ -4970,7 +4970,7 @@ Sir Bedivere! You are a Knight of the Round Table! Do you intend to commit treas
 ---
 
 **Fujimaru 1:**
-What&mdash;|
+What&mdash;
 
 ---
 
@@ -5004,7 +5004,7 @@ Let's go, Fujimaru! It's not worth the energy fighting Gawain during the day!
 ---
 
 **Fujimaru 1:**
-Got it!|
+Got it!
 
 ---
 
@@ -5030,7 +5030,7 @@ Master, please take this child!
 ---
 
 **Fujimaru 1:**
-Leave him to me!|
+Leave him to me!
 
 ---
 
@@ -5097,7 +5097,7 @@ We need to crush these pursuers first!Are you ready, Fujimaru!?
 ---
 
 **Fujimaru 1:**
-Of course, leave the rear to us!|
+Of course, leave the rear to us!
  
 **Da Vinci:**
 Wow, you've gotten pretty gallant, Fujimaru!
@@ -5453,7 +5453,7 @@ So yes, we want to know why you're helping us.
 ---
 
 **Fujimaru 1:**
-Sorry... It was on a whim.|
+Sorry... It was on a whim.
  
 **Refugee Man:**
 On a whim? You decided to rebel against the Lion King on a whim!?
@@ -5534,7 +5534,7 @@ Oh... I'm sorry! Should I have taken that liberty!?I ended up speaking on Fujima
 ---
 
 **Fujimaru 1:**
-No. Thank you for that.|
+No. Thank you for that.
  
 **Da Vinci:**
 Geez. You've taken my opportunity to be in the spotlight.
@@ -5585,7 +5585,7 @@ Hurray, a Servant who finally understands me! To think the day I'd be praised so
 ---
 
 **Fujimaru 1:**
-You shouldn't spoil this guy.|
+You shouldn't spoil this guy.
 
 ---
 
@@ -5611,7 +5611,7 @@ You must be Lucius... I mean Sir Bedivere, who saved Fujimaru out in the desert?
 ---
 
 **Fujimaru 1:**
-It was our first meeting. That's to be expected.|
+It was our first meeting. That's to be expected.
  
 **Mash:**
 Yes. I'm sure you had your own circumstances, and that doesn't change the fact that you helped us.
@@ -5689,7 +5689,7 @@ Why would they do such a thing&mdash;
 ---
 
 **Fujimaru 1:**
-It's just like Ozymandias said.|
+It's just like Ozymandias said.
 
 ---
 
@@ -5772,7 +5772,7 @@ Wait... But... Senpai, I feel like Mr. Merlin&mdash;
 ---
 
 **Fujimaru 1:**
-I feel like we met him before once...|
+I feel like we met him before once...
 
 ---
 
@@ -5798,7 +5798,7 @@ When I arrived, the Knights of the Round Table had taken the Holy Land from the 
 ---
 
 **Fujimaru 1:**
-We'll fight together.|
+We'll fight together.
 
 ---
 
@@ -5824,7 +5824,7 @@ Isn't that right, Master?
 ---
 
 **Fujimaru 1:**
-We're running away now, though.|
+We're running away now, though.
 
 ---
 
@@ -5867,7 +5867,7 @@ That's just a type of vehicle. We're playing with Rushd to try and cheer him up.
 ---
 
 **Fujimaru 1:**
-Who's Rushd?|
+Who's Rushd?
  
 
 ---
@@ -5906,7 +5906,7 @@ Looking back, they've visited a lot of different worlds. Isn't that right, Fujim
 ---
 
 **Fujimaru 1:**
-We've conquered land and sea.|
+We've conquered land and sea.
 
 ---
 
@@ -5956,7 +5956,7 @@ I can already imagine her flying into a rage and yelling, “My gauntlet is way 
 ---
 
 **Fujimaru 1:**
-That's true.|
+That's true.
 
 ---
 
@@ -5988,7 +5988,7 @@ I would win, and win beautifully. In fact, if I don't, we can't beat the Knights
 ---
 
 **Fujimaru 1:**
-???|
+???
 
 ---
 
@@ -6073,7 +6073,7 @@ It would be all the more difficult for knights from the plains. Especially when 
 ---
 
 **Fujimaru 1:**
-Sounds like we'll make it.|
+Sounds like we'll make it.
 
 ---
 
@@ -6111,7 +6111,7 @@ The Enforcement Knights will reach the rear of the refugee group in a few minute
 ---
 
 **Fujimaru 1:**
-Got it!|
+Got it!
 
 ---
 
@@ -6175,7 +6175,7 @@ Pity. I'd have let you deal with it if that Round Table knight was alone.
 ---
 
 **Fujimaru 1:**
-Da Vinci!?|
+Da Vinci!?
 
 ---
 
@@ -6267,7 +6267,7 @@ Master! Da Vinci is... Da Vinci is...
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 **Fou:**
 Fou...
@@ -6294,7 +6294,7 @@ Get a grip, Fujimaru!That Servant entrusted everything to you!
 ---
 
 **Fujimaru 1:**
-Make your way to the mountains!|
+Make your way to the mountains!
  
 
 ---
@@ -6347,7 +6347,7 @@ Fooou...
 ---
 
 **Fujimaru 1:**
-Da Vinci isn't dead yet.|
+Da Vinci isn't dead yet.
  
 **Mash:**
 Right... Da Vinci is an undisputed genius...
@@ -6463,7 +6463,7 @@ Thank you very much, Bedivere... You've added mint for us. How thoughtful...
 ---
 
 **Fujimaru 1:**
-You look more energetic now.|
+You look more energetic now.
 
 ---
 
@@ -6513,7 +6513,7 @@ The knights call it the “Lion King's Judgment,” so we call it that, too.
 ---
 
 **Fujimaru 1:**
-Man-made!?|
+Man-made!?
 
 ---
 
@@ -6613,7 +6613,7 @@ What do you want with our village, outsiders? You even bring in knights for show
 ---
 
 **Fujimaru 1:**
-We fled all the way here.|
+We fled all the way here.
  
 **???:**
 Hmph. Obviously... We've been watching you since you entered the mountains.
@@ -6706,7 +6706,7 @@ Senpai would never do that! If you want us to leave, then that's what we'll do!
 ---
 
 **Fujimaru 1:**
-Blade flats again, Mash!|
+Blade flats again, Mash!
  
 **Mash:**
 Understood! Awaiting further orders!
@@ -6786,7 +6786,7 @@ Huh? W-Wait... I'm not mentally ready...
 ---
 
 **Fujimaru 1:**
-Bring it on!|
+Bring it on!
 
 ---
 
@@ -6812,7 +6812,7 @@ Shuuuut up! You don't even know if you'll be alive six months from now!
 ---
 
 **Fujimaru 1:**
-I'm Fujimaru.|
+I'm Fujimaru.
  
 
 ---
@@ -6937,7 +6937,7 @@ Fou!
 ---
 
 **Fujimaru 1:**
-By the way, what about you, Arash?|
+By the way, what about you, Arash?
 
 ---
 
@@ -6993,7 +6993,7 @@ Umm, yeah... When you put it that way. Right, Senpai?
 ---
 
 **Fujimaru 1:**
-I'm used to unreasonable requests. Right, Roman?|
+I'm used to unreasonable requests. Right, Roman?
  
 **Dr. Roman:**
 Hahaha, hearing that puts my conscience at ease.
@@ -7041,7 +7041,7 @@ We bumped into each other again at the Holy City gates, and I have accompanied t
 ---
 
 **Fujimaru 1:**
-Meaning what?|
+Meaning what?
  
 
 ---
@@ -7101,7 +7101,7 @@ That's nonsense. Once I have delivered the people to safety, I intend to return 
 ---
 
 **Fujimaru 1:**
-You're going alone?|
+You're going alone?
  
 **Bedivere:**
 ...Well, that has always been my intent, but...
@@ -7146,7 +7146,7 @@ I think it's a win-win. What do you say? Care to go on a hunt with me?
 ---
 
 **Fujimaru 1:**
-If that means we gain their trust.|
+If that means we gain their trust.
 
 ---
 
@@ -7169,7 +7169,7 @@ First, let's get rid of the monsters gathering at the spring midway up the mount
 ---
 
 **Fujimaru 1:**
-Calling me Master already!?|
+Calling me Master already!?
  
 **Mash:**
 Indeed. You sure are fast, Arash!
@@ -7225,7 +7225,7 @@ Arash is really good with children. Rushd is always smiling when he's around.
 ---
 
 **Fujimaru 1:**
-He smiles when you're around, too, Mash.|
+He smiles when you're around, too, Mash.
  
 **Mash:**
 I'm happy to hear that. But we have still yet to tell Rushd the truth...
@@ -7270,7 +7270,7 @@ A fight with the Knights of the Round may be inevitable if we want to face the L
 ---
 
 **Fujimaru 1:**
-I still don't know...|
+I still don't know...
 
 ---
 
@@ -7317,7 +7317,7 @@ However, I must know. Pardon my manners.
 ---
 
 **Fujimaru 1:**
-You should tell him.|
+You should tell him.
  
 **Mash:**
 ...Yes, Senpai.
@@ -7386,7 +7386,7 @@ Y-Yes.
 ---
 
 **Fujimaru 1:**
-L-Lady?|
+L-Lady?
 
 ---
 
@@ -7433,7 +7433,7 @@ But, there is something I must say to you... As a fellow Knight of the Round Tab
 ---
 
 **Fujimaru 1:**
-Mash is a Knight of the Round Table!?|
+Mash is a Knight of the Round Table!?
 
 ---
 
@@ -7480,7 +7480,7 @@ Namely, will you be able to fight your former comrades?
 ---
 
 **Fujimaru 1:**
-So that's why when we fought Gawain...|
+So that's why when we fought Gawain...
 
 ---
 
@@ -7530,7 +7530,7 @@ Even then&mdash;will you still fight? Against the Knights of the Round Table? Ag
 ---
 
 **Fujimaru 1:**
-...Of course.|
+...Of course.
 
 ---
 
@@ -7556,7 +7556,7 @@ It's something that must be done to make amends to all who live here. To all tho
 ---
 
 **Fujimaru 1:**
-Mash...|
+Mash...
  
 
 ---
@@ -7594,7 +7594,7 @@ Whatever he decides, I shall obey.
 ---
 
 **Fujimaru 1:**
-Yes.|
+Yes.
 
 ---
 
@@ -7620,7 +7620,7 @@ An unexpected reply from Hassan, Senpai!
 ---
 
 **Fujimaru 1:**
-Uh... You weren't... rebelling?|
+Uh... You weren't... rebelling?
  
 **Arash:**
 Of course not. Couldn't you tell?You're easily fooled, Fujimaru!
@@ -7671,7 +7671,7 @@ I can't possibly just up and accept you. Least of all with two Knights of the Ro
 ---
 
 **Fujimaru 1:**
-You saw through Mash, too!|
+You saw through Mash, too!
  
 **Cursed Arm:**
 Ha. It's obvious when you're as experienced a Servant as we are. Isn't that right, Lord Arash?
@@ -7757,7 +7757,7 @@ I can't promise any rewards... But on my honor as an Old Man of the Mountain, I 
 ---
 
 **Fujimaru 1:**
-The pleasure is ours.|
+The pleasure is ours.
 
 ---
 
@@ -7855,7 +7855,7 @@ I hope the best assassin among us, Hassan of the Intoxicating Smoke, will answer
 ---
 
 **Fujimaru 1:**
-There really are a lot!|
+There really are a lot!
  
 **Cursed Arm:**
 Of course. We Old Men of the Mountain are a religious sect that spans eighteen generations since our great founder.
@@ -7926,7 +7926,7 @@ The village in the west... So another village is under attack!? Then, we must go
 ---
 
 **Fujimaru 1:**
-Mash, calm down...|
+Mash, calm down...
  
 **Arash:**
 Fujimaru is right. We can only do so much right now. Calm down, Mash.
@@ -7971,7 +7971,7 @@ Hundred Personas would be good at delaying them...But even then, they'd last hal
 ---
 
 **Fujimaru 1:**
-We could tell the villagers to flee and come here...|
+We could tell the villagers to flee and come here...
  
 **Cursed Arm:**
 Right. That's about all we can do now.
@@ -8016,7 +8016,7 @@ What?
 ---
 
 **Fujimaru 1:**
-Arash?|
+Arash?
  
 
 ---
@@ -8031,7 +8031,7 @@ Mind you, it's risky. We won't be able to land right at the village. Is that sti
 ---
 
 **Fujimaru 1:**
-It doesn't matter. Let's go right now!|
+It doesn't matter. Let's go right now!
 
 ---
 
@@ -8099,7 +8099,7 @@ See? Easy, right?
 ---
 
 **Fujimaru 1:**
-This guy's an idiot&mdash;!|
+This guy's an idiot&mdash;!
  
 
 ---
@@ -8132,7 +8132,7 @@ AHHHHHHHHH!AAAAAHHHHHHHHHHHHHHHHH!
 ---
 
 **Fujimaru 1:**
-We're really flying!?|
+We're really flying!?
 
 ---
 
@@ -8176,7 +8176,7 @@ All right, this time it was a success.I'm letting you down, Fujimaru.
 ---
 
 **Fujimaru 1:**
-I can't feel my face...|
+I can't feel my face...
  
 
 ---
@@ -8194,7 +8194,7 @@ It's because most people who go through it once say, “Never again.”
 ---
 
 **Fujimaru 1:**
-Please, never again!|
+Please, never again!
  
 
 ---
@@ -8218,7 +8218,7 @@ I am sure those two cannot help themselves.Even I'm shivering after that.
 ---
 
 **Fujimaru 1:**
-Hassan!?|
+Hassan!?
 
 ---
 
@@ -8383,7 +8383,7 @@ That mage there must be the Master everyone's talking about. I'm gonna do Agrava
 ---
 
 **Fujimaru 1:**
-I don't want to fight you!|
+I don't want to fight you!
  
 **Mordred:**
 What's that? You know me too? Tch.Being a Servant is such a hassle.
@@ -8938,7 +8938,7 @@ Despite only being fused with a Knight of the Round Table, even I feel an indesc
 ---
 
 **Fujimaru 1:**
-What sort of knight is Bedivere?|
+What sort of knight is Bedivere?
 
 ---
 
@@ -9039,7 +9039,7 @@ King Arthur's gravestone in England is said to have the epitaph, “Here lies Ar
 ---
 
 **Fujimaru 1:**
-Bedivere...|
+Bedivere...
 
 ---
 
@@ -9077,7 +9077,7 @@ It was a spur-of-the-moment decision, but it looks like Fujimaru's bet was corre
 ---
 
 **Fujimaru 1:**
-Um, it was spur-of-the-moment because...|
+Um, it was spur-of-the-moment because...
  
 **Mash:**
 Yes. “The Arash sky-flying incident.” Let it go down in Chaldea's history forever.
@@ -9125,7 +9125,7 @@ Whaaaat&mdash;!?You're the one from&mdash;
 ---
 
 **Fujimaru 1:**
-Whooooaaaa!|
+Whooooaaaa!
 
 ---
 
@@ -9166,7 +9166,7 @@ Even without my explanations, she should know that Fujimaru's assistance is wort
 ---
 
 **Fujimaru 1:**
-We met once, back in Egypt...|
+We met once, back in Egypt...
 
 ---
 
@@ -9198,7 +9198,7 @@ Hahaha. It's like watching my former self. It'll be hard to convince this one.
 ---
 
 **Fujimaru 1:**
-This is no time to be leisurely sipping tea!|
+This is no time to be leisurely sipping tea!
  
 **Dr. Roman:**
 Indeed. My impression of Hassan of the Cursed Arm keeps changing, but this seems to be his true form.
@@ -9255,7 +9255,7 @@ Where are you ever going find such a convenient helper!? Give me a break, fool&m
 ---
 
 **Fujimaru 1:**
-I don't get the situation but I heard your story.|
+I don't get the situation but I heard your story.
  
 
 ---
@@ -9291,7 +9291,7 @@ We've sent a select few to attempt it, but so far, none have returned...
 ---
 
 **Fujimaru 1:**
-All right, leave it to us!|
+All right, leave it to us!
  
 **Hundred Personas:**
 So an instant reply!
@@ -9345,7 +9345,7 @@ Then it's decided. Ready, Fujimaru?
 ---
 
 **Fujimaru 1:**
-Yes. Let's go with a select few.|
+Yes. Let's go with a select few.
  
 **Arash:**
 Excellent. It'll be a good chance for Bedivere to take a load off!
@@ -9431,7 +9431,7 @@ It's a colorful Servant, impossible for the Knights of the Round Table!
 ---
 
 **Fujimaru 1:**
-Sounds like a weirdo...|
+Sounds like a weirdo...
 
 ---
 
@@ -9454,7 +9454,7 @@ Did you hear that!? A woman's scream! Master!
 ---
 
 **Fujimaru 1:**
-Let's go save her!|
+Let's go save her!
 
 ---
 
@@ -9512,7 +9512,7 @@ That way, Fujimaru! We've spotted signs of the enemy!
 ---
 
 **Fujimaru 1:**
-Roger that. Let's go, Mash!|
+Roger that. Let's go, Mash!
  
 **Mash:**
 Yes! Mash Kyrielight, here to attack and rescue!
@@ -9559,7 +9559,7 @@ That woman's crying... Who is she?What shall we do, Senpai?
 ---
 
 **Fujimaru 1:**
-Hello.|
+Hello.
 
 ---
 
@@ -9612,7 +9612,7 @@ I'm going to become a Buddha!I can worry about falling in love AFTER that!
 ---
 
 **Fujimaru 1:**
-Yup, she's a Servant.|
+Yup, she's a Servant.
 
 ---
 
@@ -9688,7 +9688,7 @@ That's why I'm here! In this forsaken land, this land of endless sandstorms, Sha
 ---
 
 **Fujimaru 1:**
-This is in the middle of nowhere.|
+This is in the middle of nowhere.
  
 **Sanzang:**
 Yes, I can see that! It means I'm lost!
@@ -9826,7 +9826,7 @@ Don't worry, Sanzang. You're not alone anymore.
 ---
 
 **Fujimaru 1:**
-It's like you're already one of us.|
+It's like you're already one of us.
 
 ---
 
@@ -9864,7 +9864,7 @@ I'm his mentor, so I tried to go back and save him, but then I lost my way and..
 ---
 
 **Fujimaru 1:**
-Yeah, just... leave that to us, too.|
+Yeah, just... leave that to us, too.
 
 ---
 
@@ -9893,7 +9893,7 @@ Yeah, I'm not really supposed to play favorites, but I'll do everything I can to
 ---
 
 **Fujimaru 1:**
-That's great to hear!|
+That's great to hear!
 
 ---
 
@@ -10032,7 +10032,7 @@ Seriously!? You got more!?
 ---
 
 **Fujimaru 1:**
-This is bad...|
+This is bad...
  
 **Mash:**
 Yes. If what they were saying just now is true, that would explain the alertness at the fort.
@@ -10065,7 +10065,7 @@ Let's rescue them both before he gets here!
 ---
 
 **Fujimaru 1:**
-Of course!|
+Of course!
 
 ---
 
@@ -10130,7 +10130,7 @@ Hundred Personas...
 ---
 
 **Fujimaru 1:**
-Leave it to me!|
+Leave it to me!
 
 ---
 
@@ -10162,7 +10162,7 @@ I will carry Lady Sanzang with me.Lady Mash, please carry Fujimaru.
 ---
 
 **Fujimaru 1:**
-Thanks, Mash. Let's go quietly.|
+Thanks, Mash. Let's go quietly.
 
 ---
 
@@ -10235,7 +10235,7 @@ We've been walking down an incline from the start. Only those accustomed to the 
 ---
 
 **Fujimaru 1:**
-By the way, who's Agravain?|
+By the way, who's Agravain?
  
 
 ---
@@ -10471,7 +10471,7 @@ Then let me thank you. I am glad you made it in time... Of course I meant Sanzan
 ---
 
 **Fujimaru 1:**
-Yes. It's nice to meet you.|
+Yes. It's nice to meet you.
  
 **Tawara Touta:**
 Wow, and such fine manners.Nice to meet you too, Fujimaru!
@@ -10537,7 +10537,7 @@ Yeah, yeah. Who cares, come on, carry me.
 ---
 
 **Fujimaru 1:**
-Sanzang's behaving even more freely...|
+Sanzang's behaving even more freely...
 
 ---
 
@@ -10604,7 +10604,7 @@ Let's stop wasting both of our time... After all, pain or poison can't kill me.
 ---
 
 **Fujimaru 1:**
-We're here to rescue you!|
+We're here to rescue you!
  
 **Serenity:**
 ...Rescue...me?
@@ -10658,7 +10658,7 @@ I hate to ask, Fujimaru, but could you unshackle her? Somehow, that chain is not
 ---
 
 **Fujimaru 1:**
-Of course. Leave it to me!|
+Of course. Leave it to me!
 
 ---
 
@@ -10681,7 +10681,7 @@ Oh, look out, you'll trip if you&ndash;
 ---
 
 **Fujimaru 1:**
-(Jumps up to help)|
+(Jumps up to help)
  
 **Serenity:**
 ...Huh!?
@@ -10762,7 +10762,7 @@ You all came to save me, yet I've killed... again...
 ---
 
 **Fujimaru 1:**
-I'm a bit numb, but I'm still alive.|
+I'm a bit numb, but I'm still alive.
 
 ---
 
@@ -10943,7 +10943,7 @@ Well...
 ---
 
 **Fujimaru 1:**
-Sanzang?|
+Sanzang?
 
 ---
 
@@ -11002,7 +11002,7 @@ Oh, I get it. Budd-ha, Budd-out, Butt-out!
 ---
 
 **Fujimaru 1:**
-You butt out!|
+You butt out!
 
 ---
 
@@ -11159,7 +11159,7 @@ Was I...useful to you?
 ---
 
 **Fujimaru 1:**
-Oh, uh, of course!|
+Oh, uh, of course!
 
 ---
 
@@ -11235,7 +11235,7 @@ I'm going to go steal some horses. My brain is not functioning. Ah, I want to ea
 ---
 
 **Fujimaru 1:**
-It's physical work, and yet it's mentally draining for you.|
+It's physical work, and yet it's mentally draining for you.
  
 **Hundred Personas:**
 That's right. I turn all of my personalities into my own blade. That's how I fight.
@@ -11311,7 +11311,7 @@ Sir Bedivere, you should come out from behind the house too. We need to give a p
 ---
 
 **Fujimaru 1:**
-I'm home, Sir Bedivere!|
+I'm home, Sir Bedivere!
  
 **Bedivere:**
 Y-Yes! Welcome back, Fujimaru.
@@ -11389,7 +11389,7 @@ Wha-
 ---
 
 **Fujimaru 1:**
-What in the world!?|
+What in the world!?
  
 
 ---
@@ -11425,7 +11425,7 @@ It sounds really lively over there!?What happened, Fujimaru!?
 ---
 
 **Fujimaru 1:**
-A feast has started.|
+A feast has started.
 
 ---
 
@@ -11478,7 +11478,7 @@ No, I eat meat, too! It's just that these split peas are so damn good!
 ---
 
 **Fujimaru 1:**
-They're completely drunk...|
+They're completely drunk...
 
 ---
 
@@ -11570,7 +11570,7 @@ While we're both destined to be sober, would you keep my company a little longer
 ---
 
 **Fujimaru 1:**
-Of course.|
+Of course.
 
 ---
 
@@ -11616,7 +11616,7 @@ Did you know? I understand that's Touta's Noble Phantasm.
 ---
 
 **Fujimaru 1:**
-That's surprising.|
+That's surprising.
 
 ---
 
@@ -11648,7 +11648,7 @@ Those were her words to you during her fight with Romulus.
 ---
 
 **Fujimaru 1:**
-That's right.|
+That's right.
 
 ---
 
@@ -11695,7 +11695,7 @@ I know that, but... somehow...
 ---
 
 **Fujimaru 1:**
-It's not meaningless.|
+It's not meaningless.
  
 **Mash:**
 ...I, I suppose you're right.
@@ -11841,7 +11841,7 @@ All of you have contributed to the wellbeing of every citizen of this land. Grea
 ---
 
 **Fujimaru 1:**
-?|
+?
  
 
 ---
@@ -11894,7 +11894,7 @@ When we do, we want your help.Please lend us a hand.
 ---
 
 **Fujimaru 1:**
-We're the ones who need help from you.|
+We're the ones who need help from you.
  
 **Sanzang:**
 Well, that's what I thought. You can't possibly get through the gate of the Holy City on your own.
@@ -12035,7 +12035,7 @@ On top of that, our purpose is to face the Lion King, but there's also another �
 ---
 
 **Fujimaru 1:**
-Enemy?|
+Enemy?
  
 **Mash:**
 That's right... The one holding the Holy Grail in this time period is not the Lion King...
@@ -12086,7 +12086,7 @@ Huh? What is it? These skeletons just got gloomy all of a sudden...
 ---
 
 **Fujimaru 1:**
-Taboo?|
+Taboo?
 
 ---
 
@@ -12264,7 +12264,7 @@ I mean, if he's that capable, why hasn't he assassinated the Lion King already?
 ---
 
 **Fujimaru 1:**
-Maybe he has his reasons?|
+Maybe he has his reasons?
  
 **Cursed Arm:**
 ...
@@ -12300,7 +12300,7 @@ By their own fate? Senpai, what does that even mean?
 ---
 
 **Fujimaru 1:**
-It's too difficult for me to understand.|
+It's too difficult for me to understand.
 
 ---
 
@@ -12335,7 +12335,7 @@ No no, I wasn't lying! It wasn't a lie!I heard about the first Old Man in France
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -12364,7 +12364,7 @@ With my guide, it will take about two days to get there and come back. What do y
 ---
 
 **Fujimaru 1:**
-Of course, please lead the way.|
+Of course, please lead the way.
  
 **Serenity:**
 You got it. I'm sure the great founder would consider lending you his strength.
@@ -12460,7 +12460,7 @@ Could I be perfectly honest with you!?
 ---
 
 **Fujimaru 1:**
-Your legs are shaking, Mash.|
+Your legs are shaking, Mash.
  
 **Mash:**
 Of course they are. It's a survival instinct. If I'm not careful, I'll crash and never be able to get back up again!
@@ -12567,7 +12567,7 @@ They had no other choice.Well, that aside...
 ---
 
 **Fujimaru 1:**
-Why didn't you fight, Serenity?|
+Why didn't you fight, Serenity?
  
 **Serenity:**
 Because... I was protecting your back.It was very... Warm...
@@ -12927,7 +12927,7 @@ Based on the observation data, Fujimaru is already dead!
 ---
 
 **Fujimaru 1:**
-...Huh?|
+...Huh?
 
 ---
 
@@ -12995,7 +12995,7 @@ The head of Serenity shall be offered as a tribute by those entering here. The s
 ---
 
 **Fujimaru 1:**
-Are you telling us to kill Serenity!?|
+Are you telling us to kill Serenity!?
 
 ---
 
@@ -13032,7 +13032,7 @@ But to take down Serenity... Senpai...
 ---
 
 **Fujimaru 1:**
-It's all or nothing. We need to do this!|
+It's all or nothing. We need to do this!
 
 ---
 
@@ -13099,7 +13099,7 @@ Thou wishest for the head of the Lion King, who hath fallen to a mere deity. Is 
 ---
 
 **Fujimaru 1:**
-That's...|
+That's...
 
 ---
 
@@ -13125,7 +13125,7 @@ You can't kill someone you've never even met.All you can do is complain, right?
 ---
 
 **Fujimaru 1:**
-Well, to be honest...|
+Well, to be honest...
 
 ---
 
@@ -13160,7 +13160,7 @@ Can you use easier, simpler words?
 ---
 
 **Fujimaru 1:**
-Sanzang!|
+Sanzang!
 
 ---
 
@@ -13261,7 +13261,7 @@ Lord Hassan... You guided us here despite knowing all of that!?
 ---
 
 **Fujimaru 1:**
-If I knew that, I wouldn't have come...!|
+If I knew that, I wouldn't have come...!
 
 ---
 
@@ -13310,7 +13310,7 @@ And we secured help from the great founder. I'm still in awe that my head is att
 ---
 
 **Fujimaru 1:**
-I'm glad he didn't cut it off!|
+I'm glad he didn't cut it off!
  
 **Cursed Arm:**
 Hahaha. Absolutely.
@@ -13352,7 +13352,7 @@ She keeps hanging her head and apologizing.Even though everyone knows what reall
 ---
 
 **Fujimaru 1:**
-Everyone's safe. That's what matters most.|
+Everyone's safe. That's what matters most.
  
 **Serenity:**
 Ah... I'm sorry that you feel you need to be nice to me, Master Fujimaru... I'm a useless Hassan...
@@ -13403,7 +13403,7 @@ Yes, I believe so.
 ---
 
 **Fujimaru 1:**
-Mash, what's the Atlas Institute?|
+Mash, what's the Atlas Institute?
  
 **Mash:**
 One of the three major schools of the Mage's Association.
@@ -13487,7 +13487,7 @@ To send you guys to such a place...If Da Vinci were here, what would she say?
 ---
 
 **Fujimaru 1:**
-Doctor...|
+Doctor...
 
 ---
 
@@ -13528,7 +13528,7 @@ If we go down a bit further, we'll see the lights of the village.
 ---
 
 **Fujimaru 1:**
-I'm glad it was easy.|
+I'm glad it was easy.
  
 **Mash:**
 We're all tired, though. Great job, everyone. Let's get some sleep when we arrive.
@@ -13594,7 +13594,7 @@ Master! We should go too!
 ---
 
 **Fujimaru 1:**
-No time to lose!|
+No time to lose!
  
 
 ---
@@ -13653,7 +13653,7 @@ No, the villagers are all scattered! If the enemy attacks now...
 ---
 
 **Fujimaru 1:**
-But we need to save the villagers!|
+But we need to save the villagers!
  
 **Mash:**
 Yes! We need to save them first!
@@ -13867,7 +13867,7 @@ I... I... Ah...
 ---
 
 **Fujimaru 1:**
-Nonsense!|
+Nonsense!
 
 ---
 
@@ -13973,7 +13973,7 @@ Tristan...!
 ---
 
 **Fujimaru 1:**
-Calm down, Bedivere!|
+Calm down, Bedivere!
 
 ---
 
@@ -14177,7 +14177,7 @@ Forget it! It's just a ridiculous amount of heat! Everyone, hurry and take cover
 ---
 
 **Fujimaru 1:**
-Let's make a run for it!|
+Let's make a run for it!
  
 **Mash:**
 But... the villagers...!
@@ -14228,7 +14228,7 @@ I messed up, but... I've made it back in time for the opportunity to redeem myse
 ---
 
 **Fujimaru 1:**
-Arash...?|
+Arash...?
  
 
 ---
@@ -14294,7 +14294,7 @@ Yes, leave it to me. Farewell... Farewell!You're the greatest ally I met on this
 ---
 
 **Fujimaru 1:**
-What!?|
+What!?
 
 ---
 
@@ -14374,7 +14374,7 @@ I can hear you, idiot! Why do men insist on parting like that...
 ---
 
 **Fujimaru 1:**
-Sanzang's flipping out...|
+Sanzang's flipping out...
 
 ---
 
@@ -14879,7 +14879,7 @@ When you come back to the wastelands, be sure to come show me how much you've gr
 ---
 
 **Fujimaru 1:**
-Leave it to me!|
+Leave it to me!
  
 **Dr. Roman:**
 Yup, I'm counting on you! Good luck!
@@ -14962,7 +14962,7 @@ Do you think there's something about his appearance that'll make it obvious it's
 ---
 
 **Fujimaru 1:**
-It mentioned a turban!|
+It mentioned a turban!
 
 ---
 
@@ -14997,7 +14997,7 @@ Ah, here you are! Sorry, it's an emergency!
 ---
 
 **Fujimaru 1:**
-Don't tell me Lawrence showed up!|
+Don't tell me Lawrence showed up!
 
 ---
 
@@ -15035,7 +15035,7 @@ She's gotten lost in this sandstorm, huh...
 ---
 
 **Fujimaru 1:**
-Let's go rescue her!|
+Let's go rescue her!
  
 **Tawara Touta:**
 Sorry, everyone... Believe it or not, she doesn't mean any ill will...
@@ -15094,7 +15094,7 @@ It may have been in a panic, but she was able to ward off the sphinxes on her ow
 ---
 
 **Fujimaru 1:**
-Sanzang, what'd you do with the sphinxes?|
+Sanzang, what'd you do with the sphinxes?
  
 
 ---
@@ -15159,7 +15159,7 @@ Then how about this: we use Touta's rice to feed them one by one!
 ---
 
 **Fujimaru 1:**
-What an idea! You must be a genius, Sanzang!|
+What an idea! You must be a genius, Sanzang!
  
 **Bedivere:**
 Unfortunately, sphinxes only feed on spirits...
@@ -15216,7 +15216,7 @@ Sir Bedivere... Senpai, to let him fight a Knight of the Round Table would be...
 ---
 
 **Fujimaru 1:**
-...Of course, we'll avoid such a match.|
+...Of course, we'll avoid such a match.
 
 ---
 
@@ -15248,7 +15248,7 @@ If you resist, I will show no mercy. Surrender or fight... Whatever your creed, 
 ---
 
 **Fujimaru 1:**
-...Yeah, I bet.|
+...Yeah, I bet.
  
 **Fou:**
 Fou, fouuu...
@@ -15287,7 +15287,7 @@ Nonsense! Impossible! You would never...!
 ---
 
 **Fujimaru 1:**
-Now that you mention it...|
+Now that you mention it...
 
 ---
 
@@ -15366,7 +15366,7 @@ Master, we must retreat! It's frustrating beyond belief, but we can't fight any 
 ---
 
 **Fujimaru 1:**
-Is it that painful for you!?|
+Is it that painful for you!?
  
 **Mash:**
 ...No, even... I've never wanted to win so badly...
@@ -15410,7 +15410,7 @@ Fear me! Worship me! If you do, I shall at least spare your lives!
 ---
 
 **Fujimaru 1:**
-Giant... Nitocris!|
+Giant... Nitocris!
  
 **Sanzang:**
 Oh wow... It's a Tathagata-class Heroic Spirit... I mean, look, she's big! Really big!
@@ -15449,7 +15449,7 @@ She is not actually here! She is just controlling it remotely! Focus on making s
 ---
 
 **Fujimaru 1:**
-Now's our chance...!|
+Now's our chance...!
 
 ---
 
@@ -15513,7 +15513,7 @@ Yes, it is!
 ---
 
 **Fujimaru 1:**
-It's a pitfall trap!|
+It's a pitfall trap!
  
 
 ---
@@ -15528,7 +15528,7 @@ Is everyone here? I heard five thuds...
 ---
 
 **Fujimaru 1:**
-Roll call! Fujimaru, present...|
+Roll call! Fujimaru, present...
  
 
 ---
@@ -15555,7 +15555,7 @@ I'll turn on the lights, then. You may feel a bit dizzy, but that's part of the 
 ---
 
 **Fujimaru 1:**
-...Huh?|
+...Huh?
 
 ---
 
@@ -15592,7 +15592,7 @@ Wonderful to meet you, Sir Bedivere. As we share a homeland, it's hard not to fe
 ---
 
 **Fujimaru 1:**
-How do you know my name already!?|
+How do you know my name already!?
 
 ---
 
@@ -15630,7 +15630,7 @@ At that point, you must've accepted me as a collaborator in the shadows.
 ---
 
 **Fujimaru 1:**
-Now that you mention it...|
+Now that you mention it...
 
 ---
 
@@ -15659,7 +15659,7 @@ You needed to know it in order to solve this murder case and not just be a passi
 ---
 
 **Fujimaru 1:**
-...Murder case?|
+...Murder case?
  
 
 ---
@@ -15746,7 +15746,7 @@ I am a detective. I have no interest in justice or honor.I just solve mysteries.
 ---
 
 **Fujimaru 1:**
-In other words, he just beat us to the punch?|
+In other words, he just beat us to the punch?
  
 **Holmes:**
 Yes, that's exactly it! Although I did activate the pitfall and invite you all!
@@ -15791,7 +15791,7 @@ We seem to have ended up teaming with Mr. Holmes... Are you sure about this, Fuj
 ---
 
 **Fujimaru 1:**
-Let's trust the detective.|
+Let's trust the detective.
 
 ---
 
@@ -15894,7 +15894,7 @@ We're headed to the center of that. What do you think? Did you understand my sum
 ---
 
 **Fujimaru 1:**
-...I got that it's dangerous.|
+...I got that it's dangerous.
  
 **Holmes:**
 A simple deduction!But that's perfectly fine!
@@ -16003,7 +16003,7 @@ Oh, sorry to stop so abruptly, but there are more defense mechanisms! I expect y
 ---
 
 **Fujimaru 1:**
-Yes.|
+Yes.
 
 ---
 
@@ -16050,7 +16050,7 @@ In other words...
 ---
 
 **Fujimaru 1:**
-...In other words what? (Gulp)|
+...In other words what? (Gulp)
  
 
 ---
@@ -16065,7 +16065,7 @@ Why is that? Is it something beyond your means?
 ---
 
 **Fujimaru 1:**
-You changed the subject!?|
+You changed the subject!?
  
 **Holmes:**
 Hahaha. Hahahahahahaha.
@@ -16110,7 +16110,7 @@ But of course there wouldn't be such a convenient witness. I have no choice but 
 ---
 
 **Fujimaru 1:**
-Uh... I've seen the King of Mages.|
+Uh... I've seen the King of Mages.
 
 ---
 
@@ -16139,7 +16139,7 @@ Try to remember, no matter how trivial it may seem.Was there anything strange ab
 ---
 
 **Fujimaru 1:**
-...I remember what he looks like, but...|
+...I remember what he looks like, but...
  
 **Mash:**
 So do I, but I'm not able to share those memories with you... The recordings are all covered in static too...
@@ -16160,7 +16160,7 @@ Is there something?
 ---
 
 **Fujimaru 1:**
-...One thing about his appearance...|
+...One thing about his appearance...
 
 ---
 
@@ -16243,7 +16243,7 @@ He's just not confined to one single alignment.No, it's the exact opposite, in f
 ---
 
 **Fujimaru 1:**
-I see. Mordred was crude, so...|
+I see. Mordred was crude, so...
 
 ---
 
@@ -16337,7 +16337,7 @@ I'm prepared to answer both of those.However, before that...
 ---
 
 **Fujimaru 1:**
-We've got to eliminate the defenses, right?|
+We've got to eliminate the defenses, right?
 
 ---
 
@@ -16380,7 +16380,7 @@ Trismegistus in Chaldea was based off it.
 ---
 
 **Fujimaru 1:**
-That's...the original?|
+That's...the original?
  
 **Holmes:**
 Indeed. The one sent to Chaldea is merely a copy.
@@ -16443,7 +16443,7 @@ The simple truth... We should be able to understand the results. Although it wou
 ---
 
 **Fujimaru 1:**
-What are you checking?|
+What are you checking?
  
 **Holmes:**
 Ah, I'm embarrassed to admit it, but it's a record that even I couldn't trace. The recording of a certain event, kept secret from all.
@@ -16506,7 +16506,7 @@ Or to be precise, the daughter of that person.
 ---
 
 **Fujimaru 1:**
-...Don't tell me it's...|
+...Don't tell me it's...
 
 ---
 
@@ -16556,7 +16556,7 @@ He became the top of the medical division in his early twenties, so “special�
 ---
 
 **Fujimaru 1:**
-...The top of the medical division...|
+...The top of the medical division...
 
 ---
 
@@ -16669,7 +16669,7 @@ What's that supposed to mean!? That's ridiculous!
 ---
 
 **Fujimaru 1:**
-Sounds just like Roman!|
+Sounds just like Roman!
 
 ---
 
@@ -16755,7 +16755,7 @@ This fate was bestowed upon you.The name of the Heroic Spirit who saved your lif
 ---
 
 **Fujimaru 1:**
-Of course.|
+Of course.
 
 ---
 
@@ -16796,7 +16796,7 @@ That the first Servant you contracted with is actually the groundwork for gather
 ---
 
 **Fujimaru 1:**
-I had a feeling.|
+I had a feeling.
 
 ---
 
@@ -16837,7 +16837,7 @@ Galahad of the Knights of the Round Table...
 ---
 
 **Fujimaru 1:**
-Mash!?|
+Mash!?
 
 ---
 
@@ -17185,7 +17185,7 @@ You construct a three-dimensional map inside your mind as you proceed.
 ---
 
 **Fujimaru 1:**
-Ah, the master detective!|
+Ah, the master detective!
 
 ---
 
@@ -17247,7 +17247,7 @@ He burned it because he needed to. The result may be the same, but we cannot ove
 ---
 
 **Fujimaru 1:**
-Not because... he hates humans?|
+Not because... he hates humans?
 
 ---
 
@@ -17279,7 +17279,7 @@ And if for some reason even he could not see past 2018, then...
 ---
 
 **Fujimaru 1:**
-...No future existed in the first place?|
+...No future existed in the first place?
  
 **Holmes:**
 The same conclusion at which I have arrived.I can only pray that this is not the case.
@@ -17341,7 +17341,7 @@ A failure of one of the Knights of the Round Table... must be dealt with by a kn
 ---
 
 **Fujimaru 1:**
-But first, I want to confirm something.|
+But first, I want to confirm something.
 
 ---
 
@@ -17427,7 +17427,7 @@ Milady!?
 ---
 
 **Fujimaru 1:**
-Mash!?|
+Mash!?
  
 
 ---
@@ -17466,7 +17466,7 @@ No more words, Sir Lancelot!No, I challenge you to a duel once more!
 ---
 
 **Fujimaru 1:**
-Mash!?|
+Mash!?
  
 
 ---
@@ -17519,7 +17519,7 @@ Finally, you've come to your senses. Any way you look at it, you were fighting r
 ---
 
 **Fujimaru 1:**
-Sanzang, Galahad is...|
+Sanzang, Galahad is...
 
 ---
 
@@ -17569,7 +17569,7 @@ Capture Sir Lancelot and enter the Holy City, or entrust him to the mountain peo
 ---
 
 **Fujimaru 1:**
-What about making him an ally?|
+What about making him an ally?
  
 **Bedivere:**
 An ally? ...Hah. You are right. You say so naturally what even I would have difficulty spitting out.
@@ -17605,7 +17605,7 @@ My unit will escort you.From here it is only half a day's travel.
 ---
 
 **Fujimaru 1:**
-...Let's go see what it is.|
+...Let's go see what it is.
 
 ---
 
@@ -17667,7 +17667,7 @@ Foooo...
 ---
 
 **Fujimaru 1:**
-Da...|
+Da...
  
 
 ---
@@ -17693,7 +17693,7 @@ At any rate, I can plainly see your happiness. But if you open your mouth that b
 ---
 
 **Fujimaru 1:**
-I just can't keep it shut!|
+I just can't keep it shut!
 
 ---
 
@@ -17776,7 +17776,7 @@ Hahaha, that's Lancelot for you.Anything for beautiful women.
 ---
 
 **Fujimaru 1:**
-Ouch! A burn from another Round Table-r.|
+Ouch! A burn from another Round Table-r.
 
 ---
 
@@ -17829,7 +17829,7 @@ Me, young lady. We've met once before, haven't we?
 ---
 
 **Fujimaru 1:**
-The group of thieves from the main gate!|
+The group of thieves from the main gate!
  
 **Saruhan:**
 That's the one.I was much obliged that time, {(M) young man /(F) young lady}.
@@ -17883,7 +17883,7 @@ A battle!? How did you come to that conclusion!? Senpai, Da Vinci is acting weir
 ---
 
 **Fujimaru 1:**
-What else is new?|
+What else is new?
 
 ---
 
@@ -18007,7 +18007,7 @@ A Divine Spirit... One of the gods...
 ---
 
 **Fujimaru 1:**
-The Lion King is a Divine Spirit...|
+The Lion King is a Divine Spirit...
  
 **Fou:**
 Fou...fou...
@@ -18088,7 +18088,7 @@ We don't have the forces to attack the Holy City...But no one else has the stren
 ---
 
 **Fujimaru 1:**
-...Is that true?|
+...Is that true?
  
 
 ---
@@ -18100,7 +18100,7 @@ Fujimaru?
 ---
 
 **Fujimaru 1:**
-There is one person, isn't there?|
+There is one person, isn't there?
 
 ---
 
@@ -18164,7 +18164,7 @@ It's possible that we'll battle King Ozymandias's forces as well. Sir Lancelot a
 ---
 
 **Fujimaru 1:**
-Huh? Where is Bedivere?|
+Huh? Where is Bedivere?
  
 
 ---
@@ -18200,7 +18200,7 @@ Okay, okay. I assume it'll be an awkward talk, though. If I could use the {(M) y
 ---
 
 **Fujimaru 1:**
-?|
+?
 
 ---
 
@@ -18229,7 +18229,7 @@ Yes, my lord! Good fortunes to you!
 ---
 
 **Fujimaru 1:**
-...Are you sure it's okay?|
+...Are you sure it's okay?
 
 ---
 
@@ -18273,7 +18273,7 @@ Behold... the Bastinyan!
 ---
 
 **Fujimaru 1:**
-A universal...Bastinyan!|
+A universal...Bastinyan!
 
 ---
 
@@ -18305,7 +18305,7 @@ That is to say, you're going too fast, Fujimaru.
 ---
 
 **Fujimaru 1:**
-I mean, the more I step on it, the faster it goes!|
+I mean, the more I step on it, the faster it goes!
 
 ---
 
@@ -18369,7 +18369,7 @@ It's the same as usual, but this time I wonder if you've become a little more {(
 ---
 
 **Fujimaru 1:**
-That sounds suspicious... Something's changed?|
+That sounds suspicious... Something's changed?
  
 **Da Vinci:**
 Something. We've been busy with so many things, we haven't had time to say much.
@@ -18405,7 +18405,7 @@ Fujimaru, are you hiding something? Not from me, but from Roman.
 ---
 
 **Fujimaru 1:**
-Ugh!|
+Ugh!
 
 ---
 
@@ -18428,7 +18428,7 @@ If it's all right, if there's anything wrong, I'd like for you to be able to tel
 ---
 
 **Fujimaru 1:**
-...Actually...|
+...Actually...
 
 ---
 
@@ -18466,7 +18466,7 @@ Of course I was shocked, too. Then angry. I wished I had never been summoned to 
 ---
 
 **Fujimaru 1:**
-But then why did you stay in Chaldea?|
+But then why did you stay in Chaldea?
  
 
 ---
@@ -18484,7 +18484,7 @@ I knew from one look. “Ah, this is the kind of guy who overworks himself.”
 ---
 
 **Fujimaru 1:**
-Overwork himself...?|
+Overwork himself...?
 
 ---
 
@@ -18516,7 +18516,7 @@ That's why I chose to stay in Chaldea. The point is I couldn't turn my back on R
 ---
 
 **Fujimaru 1:**
-...Is the Doctor a bad person?|
+...Is the Doctor a bad person?
 
 ---
 
@@ -18542,7 +18542,7 @@ He's secretly holding onto a means to grant one wish. But he's too scared to eve
 ---
 
 **Fujimaru 1:**
-Why?|
+Why?
  
 
 ---
@@ -18554,7 +18554,7 @@ It's simple. If he uses it, he'll disappear. That's why he can't use it.
 ---
 
 **Fujimaru 1:**
-...You mean, he'll die?|
+...You mean, he'll die?
  
 
 ---
@@ -18575,7 +18575,7 @@ As you know, his will is like tofu. If he loses confidence, it will have an effe
 ---
 
 **Fujimaru 1:**
-...Yes, you're right.|
+...Yes, you're right.
 
 ---
 
@@ -18612,7 +18612,7 @@ Of course it was...
 ---
 
 **Fujimaru 1:**
-That's picking a fight, isn't it!?|
+That's picking a fight, isn't it!?
  
 **Tawara Touta:**
 Sure is. He's not the type of man to lend his strength to someone acting all modest.
@@ -18654,7 +18654,7 @@ Okay, we'll count on Sir Lancelot to deal with their armies. Are you ready, Fuji
 ---
 
 **Fujimaru 1:**
-Leave it to me!|
+Leave it to me!
 
 ---
 
@@ -18824,7 +18824,7 @@ It's time to send our thoughts and ideals down the raging Nile. If you want to m
 ---
 
 **Fujimaru 1:**
-Even though you saved us in Atlas?|
+Even though you saved us in Atlas?
  
 **Nitocris:**
 I know nothing of that! Nothing! If anything happened, it was because I was still half asleep!
@@ -18865,7 +18865,7 @@ My name is Pharaoh Nitocris! Upon your victory, I will show you the road to glor
 ---
 
 **Fujimaru 1:**
-...Looks like we were able to pull our punches.|
+...Looks like we were able to pull our punches.
 
 ---
 
@@ -18905,7 +18905,7 @@ I will allow either of those. I will kill you however you want.
 ---
 
 **Fujimaru 1:**
-We already stated our business.|
+We already stated our business.
  
 
 ---
@@ -18941,7 +18941,7 @@ And, let's stop laughing at what isn't fun. You don't think it's all that funny 
 ---
 
 **Fujimaru 1:**
-Sanzang!|
+Sanzang!
  
 
 ---
@@ -19052,7 +19052,7 @@ Haha. Hahaha. Hahahahahahahahahahahahahaha!Kuh hahahahahahahahahahahahahahahahah
 ---
 
 **Fujimaru 1:**
-Your Majesty, are you okay?|
+Your Majesty, are you okay?
 
 ---
 
@@ -19173,7 +19173,7 @@ Admiration is nice, but we can't win at this rate! That thing over there won't g
 ---
 
 **Fujimaru 1:**
-Sanzang apologized!?|
+Sanzang apologized!?
 
 ---
 
@@ -19228,7 +19228,7 @@ Fooou!
 ---
 
 **Fujimaru 1:**
-He can turn back just like that!|
+He can turn back just like that!
  
 
 ---
@@ -19261,7 +19261,7 @@ Are they worthy for me to entrust the entirety of my nation, my soldiers to them
 ---
 
 **Fujimaru 1:**
-Ozymandias...|
+Ozymandias...
 
 ---
 
@@ -19295,7 +19295,7 @@ In other words, this is the final decisive battle!I, Nitocris, shall make you sh
 ---
 
 **Fujimaru 1:**
-He sat back on the throne like nothing happened!|
+He sat back on the throne like nothing happened!
  
 **Nitocris:**
 Hey you, enough with your remarks! You must think of it as the pharaoh's unique way of showing consideration!
@@ -19382,7 +19382,7 @@ That's right. That skeleton told us to go to the desert. Only then would he take
 ---
 
 **Fujimaru 1:**
-Hey, you said my name!|
+Hey, you said my name!
  
 **Ozymandias:**
 Nitocris wouldn't stop blathering on about it, so it stuck in my mind.
@@ -19430,7 +19430,7 @@ Already decapitated... Oh! Senpai, it's that thing, remember!?
 ---
 
 **Fujimaru 1:**
-That thing, back when we first met!|
+That thing, back when we first met!
 
 ---
 
@@ -19518,7 +19518,7 @@ Glad to have you back, everyone. As you can see, our preparations are almost com
 ---
 
 **Fujimaru 1:**
-The village looks sort of...|
+The village looks sort of...
 
 ---
 
@@ -19547,7 +19547,7 @@ we should be able to make that up with Lancelot and Ozymandias' forces, thanks t
 ---
 
 **Fujimaru 1:**
-Hi Hassans, we're back.|
+Hi Hassans, we're back.
  
 **Cursed Arm:**
 Everything went pretty smoothly for us... Oh, who am I kidding, haha.
@@ -19595,7 +19595,7 @@ and in the end, “At the entrance of the desert, someone reminded me I was huma
 ---
 
 **Fujimaru 1:**
-Isn't that...|
+Isn't that...
 
 ---
 
@@ -19681,7 +19681,7 @@ Fofouuu!
 ---
 
 **Fujimaru 1:**
-Seriously.|
+Seriously.
 
 ---
 
@@ -19737,7 +19737,7 @@ The only countermeasure we have left is you....Will you agree to it?
 ---
 
 **Fujimaru 1:**
-...(Nod silently)|
+...(Nod silently)
  
 
 ---
@@ -19778,7 +19778,7 @@ Happyyy... parasomegateeeee... bodhi svahaaaaa!♪
 ---
 
 **Fujimaru 1:**
-What are you doing here?|
+What are you doing here?
 
 ---
 
@@ -19801,7 +19801,7 @@ One day this will be “Monk Sanzang's Tortuous Travels,” the hundred-volume s
 ---
 
 **Fujimaru 1:**
-Those will be the sutras that touch people's hearts.|
+Those will be the sutras that touch people's hearts.
  
 **Sanzang:**
 Huh? R-Really? You think they'll be? I hope they'll be, of course, but... Teeheehee.
@@ -19840,7 +19840,7 @@ Argh, gosh, just say something! I can't take the silence!
 ---
 
 **Fujimaru 1:**
-I know, right!?|
+I know, right!?
 
 ---
 
@@ -19869,7 +19869,7 @@ That's why I decided to take your guys' side. Because you were the easiest to un
 ---
 
 **Fujimaru 1:**
-...So that's why.|
+...So that's why.
 
 ---
 
@@ -19904,7 +19904,7 @@ Because, if they say there's no need for me because I keep screwing up, I'll nev
 ---
 
 **Fujimaru 1:**
-That's so like you, Sanzang.|
+That's so like you, Sanzang.
 
 ---
 
@@ -19927,7 +19927,7 @@ As a reward... can I also... in Chaldea...
 ---
 
 **Fujimaru 1:**
-?|
+?
  
 
 ---
@@ -20532,7 +20532,7 @@ Fujimaru, are you ready?
 ---
 
 **Fujimaru 1:**
-...(Silently nod)|
+...(Silently nod)
 
 ---
 
@@ -20663,7 +20663,7 @@ My promise has been fulfilled! We advance!!
 ---
 
 **Fujimaru 1:**
-The arrows can't hit us in this storm!|
+The arrows can't hit us in this storm!
  
 
 ---
@@ -20681,7 +20681,7 @@ Let us go forth... ADVANCE!
 ---
 
 **Fujimaru 1:**
-Alright, let's go Mash!|
+Alright, let's go Mash!
  
 
 ---
@@ -20945,7 +20945,7 @@ That's Sanzang's Noble Phantasm! Sanzang did it!
 ---
 
 **Fujimaru 1:**
-Wow!|
+Wow!
 
 ---
 
@@ -21063,7 +21063,7 @@ They're a type of divine construct created by the sacred lance's magical energy,
 ---
 
 **Fujimaru 1:**
-We have to fight in the town, too...?|
+We have to fight in the town, too...?
 
 ---
 
@@ -21234,7 +21234,7 @@ That's... That's true. But I don't...
 ---
 
 **Fujimaru 1:**
-They?|
+They?
 
 ---
 
@@ -21260,7 +21260,7 @@ Arash Kamangir is gone. He defeated the Light of Judgment and saved the village.
 ---
 
 **Fujimaru 1:**
-You two didn't fight.|
+You two didn't fight.
 
 ---
 
@@ -21728,7 +21728,7 @@ Now I... Gawain, Knight of the Round Table, shall go!My sword is with my king un
 ---
 
 **Fujimaru 1:**
-The wall of light...|
+The wall of light...
  
 **Bedivere:**
 ...Yes, it shattered... Have I finally gone mad?
@@ -22003,7 +22003,7 @@ Wrong! What you call tragedy, we call it comedy!
 ---
 
 **Fujimaru 1:**
-Hassan!|
+Hassan!
 
 ---
 
@@ -22029,7 +22029,7 @@ This man is our prey. By the pride of the Old Man of the Mountain, I swear we wi
 ---
 
 **Fujimaru 1:**
-...Thank you.|
+...Thank you.
 
 ---
 
@@ -22058,7 +22058,7 @@ Yes. Our fangs will definitely reach that villainous Tristan. The rest is up to 
 ---
 
 **Fujimaru 1:**
-...Understood!|
+...Understood!
 
 ---
 
@@ -22145,7 +22145,7 @@ Enforcement Knights, farewell! This is really the last of them!
 ---
 
 **Fujimaru 1:**
-If you say that, more will come out.|
+If you say that, more will come out.
 
 ---
 
@@ -22389,7 +22389,7 @@ They don't have many people on hand in here, surprisingly. Maybe we can get to t
 ---
 
 **Fujimaru 1:**
-Bedivere, is your arm fine?|
+Bedivere, is your arm fine?
 
 ---
 
@@ -22415,7 +22415,7 @@ Your words are a comfort to me, and I am afraid no longer.
 ---
 
 **Fujimaru 1:**
-Afraid?|
+Afraid?
  
 
 ---
@@ -22442,7 +22442,7 @@ If he decided to interfere while we were fighting the Lion King we would have no
 ---
 
 **Fujimaru 1:**
-...You've gotten stronger.|
+...You've gotten stronger.
 
 ---
 
@@ -22727,7 +22727,7 @@ The answer to all of that lies beyond these doors. ...Are you ready, Fujimaru?
 ---
 
 **Fujimaru 1:**
-...Let's go to the throne of the Lion King!|
+...Let's go to the throne of the Lion King!
  
 
 ---
@@ -22781,7 +22781,7 @@ Why have you come to see me?
 ---
 
 **Fujimaru 1:**
-I'm here to correct the course of humanity!|
+I'm here to correct the course of humanity!
 
 ---
 
@@ -22825,7 +22825,7 @@ Master... What should we do!?
 ---
 
 **Fujimaru 1:**
-I don't understand. Why abandon the world!?|
+I don't understand. Why abandon the world!?
 
 ---
 
@@ -22893,7 +22893,7 @@ What is wrong with that? My work is all for you, humans.
 ---
 
 **Fujimaru 1:**
-WE ARE NOT SOME BUTTERFLIES ON A BOARD!|
+WE ARE NOT SOME BUTTERFLIES ON A BOARD!
  
 
 ---
@@ -22923,7 +22923,7 @@ I...
 ---
 
 **Fujimaru 1:**
-Mash?|
+Mash?
 
 ---
 
@@ -22996,7 +22996,7 @@ My body...won't...listen to me!
 ---
 
 **Fujimaru 1:**
-...This is hopeless...|
+...This is hopeless...
 
 ---
 
@@ -23028,7 +23028,7 @@ That is the meaning behind “protecting” lives. The ultimate conclusion of wh
 ---
 
 **Fujimaru 1:**
-That's...|
+That's...
  
 
 ---
@@ -23043,7 +23043,7 @@ Milady!?
 ---
 
 **Fujimaru 1:**
-Mash!|
+Mash!
  
 
 ---
@@ -23249,7 +23249,7 @@ Ugh... Uhhh... Aaaarghhh!
 ---
 
 **Fujimaru 1:**
-You can do it, Mash!|
+You can do it, Mash!
 
 ---
 
@@ -23326,7 +23326,7 @@ I have known and have not said anything. Please forgive me for that.
 ---
 
 **Fujimaru 1:**
-Bedivere...?|
+Bedivere...?
 
 ---
 
@@ -23361,7 +23361,7 @@ He's not a Servant at all!He's human like you!
 ---
 
 **Fujimaru 1:**
-No way...|
+No way...
 
 ---
 
@@ -23480,7 +23480,7 @@ The sacred sword is to be given to the right person by someone whose heart is go
 ---
 
 **Fujimaru 1:**
-...Bedivere, let's do this!|
+...Bedivere, let's do this!
 
 ---
 
@@ -23625,7 +23625,7 @@ I will not let you go to say you have defeated me when I have yet to use it.
 ---
 
 **Fujimaru 1:**
-You're still going to fight, Lion King?|
+You're still going to fight, Lion King?
 
 ---
 
@@ -23756,7 +23756,7 @@ Heh. If we ever do meet again, yeah.
 ---
 
 **Fujimaru 1:**
-Oh...|
+Oh...
 
 ---
 
@@ -23953,7 +23953,7 @@ Senpai's awake, too! We all made it back!
 ---
 
 **Fujimaru 1:**
-I'm outside the Coffin...?|
+I'm outside the Coffin...?
 
 ---
 
@@ -23988,7 +23988,7 @@ You won't even get the glory after all you did. It's tough. I realized now by go
 ---
 
 **Fujimaru 1:**
-It doesn't bother me.|
+It doesn't bother me.
 
 ---
 
@@ -24020,7 +24020,7 @@ To us, it's all real. All the joy they gave us will never disappear.
 ---
 
 **Fujimaru 1:**
-That's right.|
+That's right.
 
 ---
 
@@ -24067,7 +24067,7 @@ The Lion King said that it was before the time of King Solomon. In other words, 
 ---
 
 **Fujimaru 1:**
-At last, we're visiting ancient Uruk!|
+At last, we're visiting ancient Uruk!
 
 ---
 
@@ -24096,7 +24096,7 @@ Both you, Fujimaru, and of course Mash, need a break, right?
 ---
 
 **Fujimaru 1:**
-That's true...|
+That's true...
 
 ---
 
@@ -24137,7 +24137,7 @@ Please, get some rest until then.
 ---
 
 **Fujimaru 1:**
-It's just one thing after another, huh?|
+It's just one thing after another, huh?
 
 ---
 
@@ -24166,7 +24166,7 @@ Tatta-tatat-tah!♪ Tatta-tatat-tah!!
 ---
 
 **Fujimaru 1:**
-You sound happy, Mash.|
+You sound happy, Mash.
 
 ---
 
@@ -24192,7 +24192,7 @@ I'm happy it's been proven that his journey wasn't meaningless.
 ---
 
 **Fujimaru 1:**
-...Our journey so far, huh?|
+...Our journey so far, huh?
 
 ---
 
@@ -24230,7 +24230,7 @@ This is what I wanted. This is what I want to do.
 ---
 
 **Fujimaru 1:**
-What you want to do...?|
+What you want to do...?
  
 
 ---
