@@ -1,6 +1,6 @@
-#Singularity F - Flame Contaminated City: Fuyuki
+# Singularity F - Flame Contaminated City: Fuyuki
 
-![Fuyuki](https://i.imgur.com/LEYAwYk.png)
+![Fuyuki](https://i.imgur.com/JOTMzUN.png)
 
 ![FuyukiMap](https://i.imgur.com/mGMoIiJ.png)
 
@@ -4064,7 +4064,6 @@ I just happened to have them. Citrus is effective against headaches. But that as
  
 **Olga Marie:**
 ...
-...
  
 ---
 
@@ -4951,3 +4950,4 @@ The Grand Order!
 **Dr. Roman:**
 In the name of the magical world's highest order.
 We will take back the future!
+</div>
