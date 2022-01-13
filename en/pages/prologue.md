@@ -1,4 +1,4 @@
-# Prologue/Dec 31st, 2019
+#Prologue/Dec 31st, 2019
 
 ![Prologue](https://i.imgur.com/0g1BXoQ.png)
 
@@ -21,7 +21,7 @@ Save for Chaldea's acting director, Leonardo da Vinci, every Chaldean Servant is
 ---
 
 **Fujimaru 1:**
-...My alarm...|
+...My alarm...
 
 ---
 
@@ -38,7 +38,7 @@ Fou, fooou?
 ---
 
 **Fujimaru 1:**
-Morning, Fou.|
+Morning, Fou.
  
 **Fou:**
 Fou, Fooou!
@@ -86,7 +86,7 @@ I was...also told that you'll first be going back to your family's home, Senpai.
 ---
 
 **Fujimaru 1:**
-I got such a huge paycheck that I'm totally at a loss.|
+I got such a huge paycheck that I'm totally at a loss.
  
 **Mash:**
 Oh right, you finally got paid for all your hard work!As I recall, Da Vinci was grumbling about that...
@@ -158,7 +158,7 @@ Please, you just relax, Senpai.I'll see you again tonight at the farewell party!
 ---
 
 **Fujimaru 1:**
-...Well...|
+...Well...
 
 ---
 
@@ -172,7 +172,7 @@ I guess I'll be saying goodbye to this room soon...
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -186,7 +186,7 @@ I guess I'll be saying goodbye to this room soon...
 ---
 
 **Fujimaru 1:**
-Maybe I'll take a walk around...|
+Maybe I'll take a walk around...
 
 ---
 
@@ -257,7 +257,7 @@ Seeing as the alternative is having it shut down for good.
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -292,7 +292,7 @@ Well excuse me for being ordinary.This is why I hate talking with you upstart ma
 ---
 
 **Fujimaru 1:**
-An ordinary engineer...?|
+An ordinary engineer...?
  
 
 ---
@@ -376,7 +376,7 @@ If I were you, I'd want to make sure I had as many happy memories as possible to
 ---
 
 **Fujimaru 1:**
-I just wanted to say my last goodbye to you.|
+I just wanted to say my last goodbye to you.
  
 **Da Vinci:**
 Well thanks for that.Too bad about that whole “last” part, though.
@@ -403,7 +403,7 @@ Got some last-minute things I need to take care of before tomorrow, you see. Any
 ---
 
 **Fujimaru 1:**
-Fine with me.|
+Fine with me.
  
 
 ---
@@ -473,7 +473,7 @@ This staff is practically knocking on our doorstep as we speak. In a few days, C
 ---
 
 **Fujimaru 1:**
-A new Chaldea...|
+A new Chaldea...
  
 
 ---
@@ -515,7 +515,7 @@ As far as they're concerned,these are all major crimes.
 ---
 
 **Fujimaru 1:**
-Even though we didn't do anything wrong?|
+Even though we didn't do anything wrong?
 
 ---
 
@@ -580,7 +580,7 @@ Then the weight of everything he stuck me with will finally be off my shoulders.
 ---
 
 **Fujimaru 1:**
-(...So that's why she's been sticking around...)|
+(...So that's why she's been sticking around...)
  
 
 ---
@@ -646,7 +646,7 @@ Not that it was especially onerous for me, of course.
 ---
 
 **Fujimaru 1:**
-Holmes!?|
+Holmes!?
 
 ---
 
@@ -678,7 +678,7 @@ I guess you could call this a kind of insurance policy, just in case everything 
 ---
 
 **Fujimaru 1:**
-Insurance policy...?|
+Insurance policy...?
 
 ---
 
@@ -701,7 +701,7 @@ Of course, I am no fighter. Should things turn violent,I won't hesitate to retre
 ---
 
 **Fujimaru 1:**
-You're not a fighter...?|
+You're not a fighter...?
 
 ---
 
@@ -748,7 +748,7 @@ If a time should come when you are imprisoned, that is when I shall reveal my mo
 ---
 
 **Fujimaru 1:**
-A secret technique...?|
+A secret technique...?
 
 ---
 
@@ -785,7 +785,7 @@ Welcome, UN inspectors.On behalf of Chaldea, we thank you for coming.</span>
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -1115,7 +1115,7 @@ Yeah... At least our bathroom is separate from the dining area... I don't care f
 ---
 
 **Fujimaru 1:**
-I'm glad we're all together.|
+I'm glad we're all together.
  
 **Da Vinci:**
 Agreed. I'd be lying if I said I didn't suspect some ulterior motive in rounding us up like this, but it's definitely better than keeping us apart.
@@ -1232,7 +1232,7 @@ Wait and see what their game is. Remember, silence is golden. Try not to say any
 ---
 
 **Fujimaru 1:**
-...Got it.|
+...Got it.
 
 ---
 
@@ -1252,7 +1252,7 @@ Just answer his questions honestly and you'll be released in no time. Don't even
 ---
 
 **Fujimaru 1:**
-Ugh... Six hours... Endless questions...|
+Ugh... Six hours... Endless questions...
 
 ---
 
@@ -1278,7 +1278,7 @@ Kyu!
 ---
 
 **Fujimaru 1:**
-Fou!?|
+Fou!?
  
 
 ---
@@ -1305,7 +1305,7 @@ It's the way of the world that it finds itself under the heel of a stronger anim
 ---
 
 **Fujimaru 1:**
-Stop it...!|
+Stop it...!
 
 ---
 
@@ -1334,7 +1334,7 @@ So what do you say?Care to swap secrets with little old me?
 ---
 
 **Fujimaru 1:**
-...Okay.|
+...Okay.
 
 ---
 
@@ -1375,7 +1375,7 @@ They probably didn't even tell you which country Chaldea is located in, did they
 ---
 
 **Fujimaru 1:**
-All I know is we're on a very tall mountain...|
+All I know is we're on a very tall mountain...
 
 ---
 
@@ -1446,7 +1446,7 @@ After all, they were training together to be Masters long before you even knew w
 ---
 
 **Fujimaru 1:**
-I...|
+I...
 
 ---
 
@@ -1502,7 +1502,7 @@ Fou... Fooou!
 ---
 
 **Fujimaru 1:**
-...She's gone...|
+...She's gone...
 
 ---
 
@@ -1528,7 +1528,7 @@ He's been hiding out for a while,so I'm relieved to see him with you.
 ---
 
 **Fujimaru 1:**
-It's not the investigation...|
+It's not the investigation...
 
 ---
 
@@ -1730,7 +1730,7 @@ So if the investigation concludes by the 31st,we should just be able to help tha
 ---
 
 **Fujimaru 1:**
-The very end of the year...|
+The very end of the year...
 
 ---
 
@@ -1763,7 +1763,7 @@ This is the beginning of the end of 2019.
 ---
 
 **Fujimaru 1:**
-...Da Vinci still isn't back...|
+...Da Vinci still isn't back...
  
 
 ---
@@ -1817,7 +1817,7 @@ It does. I talked to Musik, and he agreed to release Chaldea's entire former sta
 ---
 
 **Fujimaru 1:**
-So, we still can't leave just yet?|
+So, we still can't leave just yet?
  
 **Mash:**
 ...Wait.
@@ -1859,7 +1859,7 @@ Not at all. Servants are useful tools.What I hate is the very concept of Heroic 
 ---
 
 **Fujimaru 1:**
-What's Da Vinci working on?|
+What's Da Vinci working on?
  
 
 ---
@@ -1886,7 +1886,7 @@ That's...
 ---
 
 **Fujimaru 1:**
-That's for me to decide, not you.|
+That's for me to decide, not you.
  
 **Priest:**
 Of course. If that is your decision, I will respect your wishes. Indeed, part of me expected you would say as much.
@@ -1934,7 +1934,7 @@ I truly admire your hard work, your restraint,and your patience. More's the pity
 ---
 
 **Fujimaru 1:**
-...What do you mean?|
+...What do you mean?
  
 
 ---
@@ -2168,7 +2168,7 @@ The hell? He ran off without unlocking the door!?Now what do we do, Fujimaru!?
 ---
 
 **Fujimaru 1:**
-...I think we should keep quiet...|
+...I think we should keep quiet...
  
 **Mash:**
 Right. ...I hate to say it, but I agree.I'm concerned about whether Da Vinci is safe, but...
@@ -2222,7 +2222,7 @@ Fou. Fou, fooou.
 ---
 
 **Fujimaru 1:**
-...Don't tell me they're Servants?|
+...Don't tell me they're Servants?
  
 **Mash:**
 ...
@@ -2261,7 +2261,7 @@ If you use a Command Spell, I should be able to do it at least one more time...!
 ---
 
 **Fujimaru 1:**
-...I'm sorry, but no. Your body's just not&ndash;|
+...I'm sorry, but no. Your body's just not&ndash;
 
 ---
 
@@ -2290,7 +2290,7 @@ I get the feeling that whoever's behind this is trying to destroy Chaldea as we 
 ---
 
 **Fujimaru 1:**
-...!|
+...!
  
 
 ---
@@ -2332,7 +2332,7 @@ Nnn, ghh...!
 ---
 
 **Fujimaru 1:**
-Mash...!|
+Mash...!
  
 
 ---
@@ -2374,7 +2374,7 @@ Once I push them out into the hallway,you run as fast as you can the other way..
 ---
 
 **Fujimaru 1:**
-No way I'm gonna let you do that.|
+No way I'm gonna let you do that.
 
 ---
 
@@ -2436,7 +2436,7 @@ Yes... That is our best chance.But...
 ---
 
 **Fujimaru 1:**
-We can't leave Da Vinci behind.|
+We can't leave Da Vinci behind.
 
 ---
 
@@ -2477,7 +2477,7 @@ That's okay. Holmes has his own things he needs to take care of. Right, Master?
 ---
 
 **Fujimaru 1:**
-I'm counting on you to rescue everyone else.|
+I'm counting on you to rescue everyone else.
 
 ---
 
@@ -2549,7 +2549,7 @@ The Grand Duchess will be here any moment now. I trust you at least know how to 
 ---
 
 **Fujimaru 1:**
-That's...Koyanskaya!|
+That's...Koyanskaya!
 
 ---
 
@@ -2659,7 +2659,7 @@ We have to avoid that at all costs. If Chaldeas ends up broken, fixing it would 
 ---
 
 **Fujimaru 1:**
-Got it.|
+Got it.
 
 ---
 
@@ -2685,7 +2685,7 @@ Which isn't to say I couldn't take care of myself!Now let's get out of here and 
 ---
 
 **Fujimaru 1:**
-This is...the hangar!?|
+This is...the hangar!?
  
 
 ---
@@ -2733,7 +2733,7 @@ W-well...all of us who escaped to the west hall, anyway...
 ---
 
 **Fujimaru 1:**
-...Just the west hall...?|
+...Just the west hall...?
 
 ---
 
@@ -2765,7 +2765,7 @@ She headed to the Command Room after freezing the east hall, so that might be fr
 ---
 
 **Fujimaru 1:**
-A Servant summoned outside of Chaldea...|
+A Servant summoned outside of Chaldea...
  
 
 ---
@@ -2798,7 +2798,7 @@ If anyone's hearing this, please, answer me!Anybody at all!</span>
 ---
 
 **Fujimaru 1:**
-!|
+!
 
 ---
 
@@ -2845,7 +2845,7 @@ I...
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -2874,7 +2874,7 @@ I was going to lead Chaldea to glory! Yes, glory!That's what was supposed to hap
 ---
 
 **Fujimaru 1:**
-...That voice...|
+...That voice...
 
 ---
 
@@ -2894,7 +2894,7 @@ Why should we help a guy like that after everything he did to Chaldea!?
 ---
 
 **Fujimaru 1:**
-Well...|
+Well...
 
 ---
 
@@ -2951,7 +2951,7 @@ No one's ever praised me before!No one's ever loved me before...!</span>
 ---
 
 **Fujimaru 1:**
-...Come on, Mash!|
+...Come on, Mash!
 
 ---
 
@@ -2977,7 +2977,7 @@ Once these two have made up their minds, they won't budge an inch! But don't wor
 ---
 
 **Fujimaru 1:**
-Da Vinci!|
+Da Vinci!
 
 ---
 
@@ -3000,7 +3000,7 @@ Then, this time...this time for sure, we make sure we get there in time. Isn't t
 ---
 
 **Fujimaru 1:**
-...Yes, ma'am!|
+...Yes, ma'am!
  
 
 ---
@@ -3061,7 +3061,7 @@ The battle is over.Goredolf Musik is safe now.
 ---
 
 **Fujimaru 1:**
-Thank goodness.|
+Thank goodness.
 
 ---
 
@@ -3111,7 +3111,7 @@ I'm glad we weren't too late.Aren't you, Senpai?
 ---
 
 **Fujimaru 1:**
-Absolutely!|
+Absolutely!
  
 
 ---
@@ -3127,7 +3127,7 @@ Absolutely!|
 ---
 
 **Fujimaru 1:**
-(Mash looks like she's in a lot of pain...)|
+(Mash looks like she's in a lot of pain...)
 
 ---
 
@@ -3162,7 +3162,7 @@ Okaaay, that's far enough♡Looks like you're not going to be crossing this part
 ---
 
 **Fujimaru 1:**
-Koyanskaya...!|
+Koyanskaya...!
 
 ---
 
@@ -3382,7 +3382,7 @@ Indeed. You were just one step short.
 ---
 
 **Fujimaru 1:**
-...Wha...?|
+...Wha...?
  
 
 ---
@@ -3407,7 +3407,7 @@ Da&mdash;
 ---
 
 **Fujimaru 1:**
-DA VINCIII!!!|
+DA VINCIII!!!
  
 
 ---
@@ -3468,7 +3468,7 @@ But as long as you and Mash are alive, this isn't over.I'm positive there'll be 
 ---
 
 **Fujimaru 1:**
-...Thank you for everything.|
+...Thank you for everything.
 
 ---
 
@@ -3485,7 +3485,7 @@ Farewell, Fujimaru! I know it's a lot to ask, but don't give up, and do your bes
 ---
 
 **Fujimaru 1:**
-Let's go, Mash!|
+Let's go, Mash!
  
 
 ---
@@ -3601,7 +3601,7 @@ O-o-oh God, the container's falling apart!If we get thrown out at this speed, we
 ---
 
 **Fujimaru 1:**
-...!|
+...!
 
 ---
 
@@ -3625,7 +3625,7 @@ I didn't spend the last six months modifying this thing for nothing!
 ---
 
 **Fujimaru 1:**
-...Huh?|
+...Huh?
 
 ---
 
@@ -3660,7 +3660,7 @@ Wha&ndash;
 ---
 
 **Fujimaru 1:**
-What the hell's going on!?|
+What the hell's going on!?
  
 
 ---
@@ -3732,7 +3732,7 @@ G-good night? S-S-Senpai!Who was that tiny Da Vinci!?
 ---
 
 **Fujimaru 1:**
-I am so, so confused...|
+I am so, so confused...
 
 ---
 
@@ -3761,7 +3761,7 @@ Now then, we're about to reach the ice shelf! From there, we'll head for the coa
 ---
 
 **Fujimaru 1:**
-...Ice shelf?|
+...Ice shelf?
 
 ---
 
@@ -3819,7 +3819,7 @@ What will you do, Your Imperial Highness, Grand Duchess Anastasia?
 ---
 
 **Fujimaru 1:**
-Antarctica? We've been in Antarctica this whole time!?|
+Antarctica? We've been in Antarctica this whole time!?
 
 ---
 
@@ -3865,7 +3865,7 @@ We no longer have any means of taking it back, or even returning to it.
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -3913,7 +3913,7 @@ If I'd... If I'd only been able to fight as a real Servant...!
 ---
 
 **Fujimaru 1:**
-This isn't your fault, Mash.|
+This isn't your fault, Mash.
 
 ---
 
@@ -4031,7 +4031,7 @@ Here I was going to take him under my wing,and this is the thanks I get...!?
 ---
 
 **Fujimaru 1:**
-Crypter...?|
+Crypter...?
 
 ---
 
@@ -4073,7 +4073,7 @@ Fou, fooou!
 ---
 
 **Fujimaru 1:**
-They're covering the entire coastline...|
+They're covering the entire coastline...
 
 ---
 
@@ -4117,7 +4117,7 @@ That's one opinion. {(M) Mr. /(F) Ms.} Fujimaru,tell me, what do you think?
 ---
 
 **Fujimaru 1:**
-...Do you have some sort of plan?|
+...Do you have some sort of plan?
 
 ---
 
@@ -4209,7 +4209,7 @@ Master...! I still don't understand what's going on.Are you sure about this...!?
 ---
 
 **Fujimaru 1:**
-Sure I'm sure!|
+Sure I'm sure!
 
 ---
 
