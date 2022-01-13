@@ -1,4 +1,4 @@
-# Cosmos in the Lostbelt 5.2: Interstellar City on a Mountain Range - Olympus
+#Cosmos in the Lostbelt 5.2: Interstellar City on a Mountain Range - Olympus
 
 Complete translation notes [here](https://pastebin.com/EFTRHcyV).
 
