@@ -1,4 +1,4 @@
-# Singularity F - Flame Contaminated City: Fuyuki
+#Singularity F: Flame Contaminated City - Fuyuki
 
 ![Fuyuki](https://i.imgur.com/JOTMzUN.png)
 
@@ -4950,4 +4950,3 @@ The Grand Order!
 **Dr. Roman:**
 In the name of the magical world's highest order.
 We will take back the future!
-</div>
