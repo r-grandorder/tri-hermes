@@ -1,4 +1,4 @@
-# Singularity 4: The Mist City - London
+#Singularity 4: The Mist City - London
 
 ![London](https://i.imgur.com/1qt7ZoZ.png)
 
@@ -62,7 +62,7 @@ Rest is also an important part of our mission.Like I told you before, we are&nda
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 **Mash:**
 Senpai?
@@ -89,7 +89,7 @@ What kind of dream was it?It's just a guess, but...could it be my... Um...
 ---
 
 **Fujimaru 1:**
-The dream was like a horror movie.|
+The dream was like a horror movie.
  
 
 ---
@@ -131,7 +131,7 @@ Unfortunately, as Romani says, those who called themselves the 72 Demon Gods had
 ---
 
 **Fujimaru 1:**
-Why is that?|
+Why is that?
  
 **Da Vinci:**
 Oh, how do I put it... Think of it like a mystery novel,one where the suspect's alibi stands.
@@ -185,7 +185,7 @@ Besides, I don't think King Solomon is the kind of person that would aid such ev
 ---
 
 **Fujimaru 1:**
-Even if he was so in life...|
+Even if he was so in life...
  
 
 ---
@@ -221,7 +221,7 @@ I told you before, didn't I? I'm Chaldea's third successful summon. It's definit
 ---
 
 **Fujimaru 1:**
-So you're Servant No. 3?|
+So you're Servant No. 3?
  
 
 ---
@@ -353,7 +353,7 @@ All right, are you ready? The world hasn't been incinerated yet, so go reclaim o
 ---
 
 **Fujimaru 1:**
-Mission...start!|
+Mission...start!
  
 
 ---
@@ -415,7 +415,7 @@ How about you, Senpai?You don't seem...any different than usual.
 ---
 
 **Fujimaru 1:**
-Same as always.|
+Same as always.
  
 
 ---
@@ -496,7 +496,7 @@ They're likely survivors. No doubt they're in trouble being trapped indoors.
 ---
 
 **Fujimaru 1:**
-We need to solve this problem at once.|
+We need to solve this problem at once.
  
 
 ---
@@ -592,7 +592,7 @@ The fog is dense around here.You'd better move if you value your life.
 ---
 
 **Fujimaru 1:**
-Thanks for the warning.|
+Thanks for the warning.
  
 
 ---
@@ -625,7 +625,7 @@ It sounded like she knew what was going on. She probably knows more than us abou
 ---
 
 **Fujimaru 1:**
-Let's follow her.|
+Let's follow her.
  
 
 ---
@@ -722,7 +722,7 @@ Detecting multiple entities!Here they come! They're around the corner!
 ---
 
 **Fujimaru 1:**
-Let's drive them away!|
+Let's drive them away!
  
 
 ---
@@ -759,7 +759,7 @@ I believe these enemies...are a kind of... Well, homunculus.
 ---
 
 **Fujimaru 1:**
-Homunculus?|
+Homunculus?
  
 
 ---
@@ -777,7 +777,7 @@ Yes. An artificial human created with magecraft.
 ---
 
 **Fujimaru 1:**
-Mash?|
+Mash?
  
 
 ---
@@ -801,7 +801,7 @@ I need to learn how to adapt to any situation.I'm your Demi-Servant, after all.
 ---
 
 **Fujimaru 1:**
-I'm counting on you!|
+I'm counting on you!
  
 
 ---
@@ -856,7 +856,7 @@ Master, be on your guard.It's probably a new type of enemy.
 ---
 
 **Fujimaru 1:**
-Let's fight cautiously.|
+Let's fight cautiously.
  
 
 ---
@@ -885,7 +885,7 @@ It was powerful... But what was it, exactly?A golem? A mechanical puppet?
 ---
 
 **Fujimaru 1:**
-A robot...|
+A robot...
  
 **Mash:**
 It looks...that way...I guess you could see it that way, yes...
@@ -948,7 +948,7 @@ Yes. That's right. I mean, this era&mdash;
 ---
 
 **Fujimaru 1:**
-Mash, behind you!|
+Mash, behind you!
  
 
 ---
@@ -1049,7 +1049,7 @@ Speaking of bizarre&mdash;That's right. Doctor, we, um...
 ---
 
 **Fujimaru 1:**
-We were filming...|
+We were filming...
  
 
 ---
@@ -1109,7 +1109,7 @@ Very nice.I rather like fools like that.
 ---
 
 **Fujimaru 1:**
-Can I ask you a question?|
+Can I ask you a question?
  
 
 ---
@@ -1148,7 +1148,7 @@ And who are you?
 ---
 
 **Fujimaru 1:**
-I'm Fujimaru.|
+I'm Fujimaru.
  
 
 ---
@@ -1216,7 +1216,7 @@ Ah, right...Senpai, what should we do? Is it all right to sit?
 ---
 
 **Fujimaru 1:**
-I suppose...|
+I suppose...
  
 
 ---
@@ -1396,7 +1396,7 @@ So&ndash; Mash and Fujimaru,lucky for us, this apartment is over a Leyline!
 ---
 
 **Fujimaru 1:**
-Excuse me?|
+Excuse me?
  
 
 ---
@@ -1564,7 +1564,7 @@ It brings to mind that idiom about how "truth is stranger than fiction".
 ---
 
 **Fujimaru 1:**
-Is it that strange?|
+Is it that strange?
  
 
 ---
@@ -1612,7 +1612,7 @@ Ah! We lost the connection.
 ---
 
 **Fujimaru 1:**
-What's with her, anyway?|
+What's with her, anyway?
  
 
 ---
@@ -1677,7 +1677,7 @@ Are you ready over there, Fujimaru?
 ---
 
 **Fujimaru 1:**
-Yes, I'm ready!|
+Yes, I'm ready!
  
 
 ---
@@ -1742,7 +1742,7 @@ I'm the only one allowed to violate the land King Arthur loved. I can't let anyo
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -1760,7 +1760,7 @@ Hm? Did you say something?
 ---
 
 **Fujimaru 1:**
-No, not at all.|
+No, not at all.
  
 
 ---
@@ -1975,7 +1975,7 @@ Master, hostile Servant approaching!Orders, please&mdash;
 ---
 
 **Fujimaru 1:**
-Get him!|
+Get him!
  
 
 ---
@@ -2052,7 +2052,7 @@ Hey, come over here.
 ---
 
 **Fujimaru 1:**
-She has a horn.|
+She has a horn.
  
 **Mash:**
 Yes, she does have a horn...
@@ -2136,7 +2136,7 @@ Name, I guess.Monster&mdash;is certainly a name you don't like, right?
 ---
 
 **Fujimaru 1:**
-Then, how about Fran?|
+Then, how about Fran?
  
 
 ---
@@ -2234,7 +2234,7 @@ Most likely.
 ---
 
 **Fujimaru 1:**
-Yes, that's what she said.|
+Yes, that's what she said.
  
 
 ---
@@ -2279,7 +2279,7 @@ I need your help.Will you do it?
 ---
 
 **Fujimaru 1:**
-Leave it to me.|
+Leave it to me.
  
 
 ---
@@ -2375,7 +2375,7 @@ Aliens?Or, something like that. Yes, that's a close one.
 ---
 
 **Fujimaru 1:**
-An Arthurian joke?|
+An Arthurian joke?
  
 
 ---
@@ -2440,7 +2440,7 @@ To be honest, it feels strange to me......But that, I suppose, is also fate.
 ---
 
 **Fujimaru 1:**
-What is Mordred talking about?|
+What is Mordred talking about?
  
 
 ---
@@ -2473,7 +2473,7 @@ I'm not scolding, it's just a complaint!That's another thing you two have in com
 ---
 
 **Fujimaru 1:**
-"You two?"|
+"You two?"
  
 **Mordred:**
 ...Forget it. That was a slip of the tongue.Don't probe any further, Fujimaru.
@@ -2509,7 +2509,7 @@ I can't help myself. Come on, let's fight.Get that shield up. I'll batter it to 
 ---
 
 **Fujimaru 1:**
-You ARE upset!|
+You ARE upset!
  
 
 ---
@@ -2527,7 +2527,7 @@ Yeah, insult me all you want.I'm used to it. Feels better than awkward complimen
 ---
 
 **Fujimaru 1:**
-I won't let Mash engage in needless battles.|
+I won't let Mash engage in needless battles.
  
 
 ---
@@ -2565,7 +2565,7 @@ Hah... Ah... Ugh...
 ---
 
 **Fujimaru 1:**
-Mash!|
+Mash!
  
 **Mash:**
 Sen...pai&mdash; Thank goodness.Were you watching?
@@ -2601,7 +2601,7 @@ Yes... Thank you... Very much...Somehow, it feels&mdash;
 ---
 
 **Fujimaru 1:**
-Then perhaps...that just now was?|
+Then perhaps...that just now was?
  
 
 ---
@@ -2622,7 +2622,7 @@ Mordred...
 ---
 
 **Fujimaru 1:**
- You look after others well.|
+ You look after others well.
  
 
 ---
@@ -2655,7 +2655,7 @@ Yes, definitely!After all, Senpai is the best Master in Chaldea!
 ---
 
 **Fujimaru 1:**
-Thanks, Mash.|
+Thanks, Mash.
  
 
 ---
@@ -2723,7 +2723,7 @@ But I can't block a direct hit of, say, a drug made by a Servant's skill or Nobl
 ---
 
 **Fujimaru 1:**
-Let's be really careful.|
+Let's be really careful.
  
 
 ---
@@ -2761,7 +2761,7 @@ Thanks to you, I've ended up reading an entire novel series, roughly 20 volumes,
 ---
 
 **Fujimaru 1:**
-Who's this?|
+Who's this?
  
 
 ---
@@ -2854,7 +2854,7 @@ There is a chance that you and the boy would get caught up in the fight.
 ---
 
 **Fujimaru 1:**
-Then let's fight in an open space.|
+Then let's fight in an open space.
  
 
 ---
@@ -2940,7 +2940,7 @@ Hans Christian Andersen, the author&ndash; Amazing...He's one of the top three f
 ---
 
 **Fujimaru 1:**
-Calm down.|
+Calm down.
  
 
 ---
@@ -3012,7 +3012,7 @@ Reality Marble!?
 ---
 
 **Fujimaru 1:**
-Reality Marble?|
+Reality Marble?
  
 
 ---
@@ -3135,7 +3135,7 @@ Something...is a bit off from Mr. Andersen's predictions...But, Senpai, this is.
 ---
 
 **Fujimaru 1:**
-It's materializing!|
+It's materializing!
  
 
 ---
@@ -3310,7 +3310,7 @@ That guy!That bastard finally came out!
 ---
 
 **Fujimaru 1:**
-Sounds like a grudge.|
+Sounds like a grudge.
  
 
 ---
@@ -3355,7 +3355,7 @@ I couldn't remember most of the details until now.But, if it's a Servant, we can
 ---
 
 **Fujimaru 1:**
-A skill?|
+A skill?
  
 
 ---
@@ -3409,7 +3409,7 @@ R-Right....Senpai, excuse me for a bit.
 ---
 
 **Fujimaru 1:**
-Don't drop me.|
+Don't drop me.
  
 
 ---
@@ -3453,7 +3453,7 @@ He's swift and accurate, like a bolt of lighting flashing through the sky. You w
 ---
 
 **Fujimaru 1:**
-Treacherous Knight?|
+Treacherous Knight?
  
 
 ---
@@ -3498,7 +3498,7 @@ Only he&mdash;no, she herself knows.
 ---
 
 **Fujimaru 1:**
-Did the rebellion succeed?|
+Did the rebellion succeed?
  
 
 ---
@@ -3531,7 +3531,7 @@ Oh, r-right!
 ---
 
 **Fujimaru 1:**
-Let's hurry!|
+Let's hurry!
  
 
 ---
@@ -3622,7 +3622,7 @@ Yes. I'm a Caster Servant.I'm one of the leaders of the "Project" you know of.
 ---
 
 **Fujimaru 1:**
-Project Demonic Fog?|
+Project Demonic Fog?
  
 
 ---
@@ -3670,7 +3670,7 @@ Yet again, you guys laid your hands on what's mine.You're no king. How dare you 
 ---
 
 **Fujimaru 1:**
-A Heroic Spirit, killing innocent people?|
+A Heroic Spirit, killing innocent people?
  
 
 ---
@@ -3742,7 +3742,7 @@ I think we should stop Assassin here....Senpai...
 ---
 
 **Fujimaru 1:**
-Let's stop her.|
+Let's stop her.
  
 
 ---
@@ -3881,7 +3881,7 @@ I just woke up one moment in the fog.Huh, do Servants just naturally appear like
 ---
 
 **Fujimaru 1:**
-Maybe they do.|
+Maybe they do.
  
 **Dr. Roman:**
 No, no, no!That's impossible!
@@ -3944,7 +3944,7 @@ I don't want to hear that from a kid who doesn't even know love. I'm a virgin. I
 ---
 
 **Fujimaru 1:**
-I don't know, but those are amazing words.|
+I don't know, but those are amazing words.
  
 
 ---
@@ -3983,7 +3983,7 @@ Oh, Senpai...Mordred is about to leave.
 ---
 
 **Fujimaru 1:**
-Let's follow.|
+Let's follow.
  
 
 ---
@@ -4060,7 +4060,7 @@ If possible, I'd like to go up against a tough enemy.I hope we'll see one tonigh
 ---
 
 **Fujimaru 1:**
-Now that you've said it, we will.|
+Now that you've said it, we will.
  
 
 ---
@@ -4110,7 +4110,7 @@ I'd like to occasionally see an enemy that faces me head-on, instead of all thes
 ---
 
 **Fujimaru 1:**
-Indeed.|
+Indeed.
  
 **Mordred:**
 Right?You're quite a perceptive Master.
@@ -4199,7 +4199,7 @@ He's here. The one we've been waiting for.Hey you! You got some nerve for someon
 ---
 
 **Fujimaru 1:**
-It's "P!"|
+It's "P!"
  
 
 ---
@@ -4250,7 +4250,7 @@ We surely would have been fine friends.All of us.
 ---
 
 **Fujimaru 1:**
-I doubt it.|
+I doubt it.
  
 
 ---
@@ -4332,7 +4332,7 @@ Senpai&mdash;Are you okay? You seem a little pale.
 ---
 
 **Fujimaru 1:**
-Sleepy.|
+Sleepy.
  
 
 ---
@@ -4356,7 +4356,7 @@ However, it's not ideal...If you are starting to feel excessive fatigue...
 ---
 
 **Fujimaru 1:**
-I'm fine.|
+I'm fine.
  
 
 ---
@@ -4429,7 +4429,7 @@ I'll be as careful as I can when I use it!
 ---
 
 **Fujimaru 1:**
-Let's go!|
+Let's go!
  
 **Mash:**
 Yes!
@@ -4467,7 +4467,7 @@ Sitting on my favorite sofa again... Well... Okay fine.You did put in a lot of e
 ---
 
 **Fujimaru 1:**
-Dead tired.|
+Dead tired.
  
 
 ---
@@ -4539,7 +4539,7 @@ Nothing spoils fun like anecdotes of opening a box ending the world. The message
 ---
 
 **Fujimaru 1:**
-...Let's not talk about the Ark.|
+...Let's not talk about the Ark.
  
 **Mash:**
 ...I agree.Despite what they say, those two are obviously into it.
@@ -4662,7 +4662,7 @@ Working outside among all those Helter Skelters is a tall order...
 ---
 
 **Fujimaru 1:**
-Let's try it.|
+Let's try it.
  
 
 ---
@@ -4698,7 +4698,7 @@ Oh, come on, this is London.Your destination is obvious.
 ---
 
 **Fujimaru 1:**
-Obvious?|
+Obvious?
  
 **Dr. Roman:**
 Hmm, what is it?
@@ -4785,7 +4785,7 @@ I suppose the more firepower the better, in case you encounter Helter Skelters. 
 ---
 
 **Fujimaru 1:**
-You should stay here, Fran.|
+You should stay here, Fran.
  
 
 ---
@@ -4895,7 +4895,7 @@ They didn't waste any time. Fight your way through them and get to Regent Park o
 ---
 
 **Fujimaru 1:**
-Roger.|
+Roger.
  
 
 ---
@@ -4948,7 +4948,7 @@ Nowhere else in London were buildings destroyed.Just here...
 ---
 
 **Fujimaru 1:**
-It's sad.|
+It's sad.
  
 
 ---
@@ -5020,7 +5020,7 @@ Master, multiple incoming enemies! Magical energy signatures are growing&mdash;A
 ---
 
 **Fujimaru 1:**
-Fight!|
+Fight!
  
 
 ---
@@ -5049,7 +5049,7 @@ I don't see Helter Skelters around,but we still ran into something troublesome..
 ---
 
 **Fujimaru 1:**
-Those were...|
+Those were...
  
 
 ---
@@ -5142,7 +5142,7 @@ This is kind of amazing...Really...
 ---
 
 **Fujimaru 1:**
-Authors are twisted.|
+Authors are twisted.
  
 
 ---
@@ -5213,7 +5213,7 @@ Fou?You seem kind of excited...
 ---
 
 **Fujimaru 1:**
-Does he feel something?|
+Does he feel something?
  
 **Fou:**
 Kyukyu... Kyaau...
@@ -5261,7 +5261,7 @@ Magical energy response detected!Senpai, something's around the corner!
 ---
 
 **Fujimaru 1:**
-Time for combat!|
+Time for combat!
  
 
 ---
@@ -5299,7 +5299,7 @@ Jekyll and I are going inside.Guard the door.
 ---
 
 **Fujimaru 1:**
-Roger.|
+Roger.
  
 
 ---
@@ -5382,7 +5382,7 @@ We're okay for now, but if this drags out it'll be bad.Master!
 ---
 
 **Fujimaru 1:**
-We can't leave yet!|
+We can't leave yet!
  
 
 ---
@@ -5451,7 +5451,7 @@ Huh!?
 ---
 
 **Fujimaru 1:**
-Who are you?|
+Who are you?
  
 
 ---
@@ -5502,7 +5502,7 @@ Right.&mdash;Senpai!
 ---
 
 **Fujimaru 1:**
-Work together and don't go too deep!|
+Work together and don't go too deep!
  
 
 ---
@@ -5552,7 +5552,7 @@ Y-You need to get out of here!There are more enemies coming!
 ---
 
 **Fujimaru 1:**
-Break away, Mash!|
+Break away, Mash!
  
 
 ---
@@ -5687,7 +5687,7 @@ That's what got distorted in the Fuyuki Holy Grail War.
 ---
 
 **Fujimaru 1:**
-...Then you and the others are also?|
+...Then you and the others are also?
  
 **Andersen:**
 Yeah. Since there are only supposed to be seven of them, all the Heroic Spirits that got summoned later&mdash;
@@ -5738,7 +5738,7 @@ I guess this is the keen eye of observation owned by an author that left his nam
 ---
 
 **Fujimaru 1:**
-Maybe so.|
+Maybe so.
  
 
 ---
@@ -5806,7 +5806,7 @@ I doubt they'll break in, but they are a nuisance.Get out there and dismantle th
 ---
 
 **Fujimaru 1:**
-Let's do it!|
+Let's do it!
  
 
 ---
@@ -5856,7 +5856,7 @@ In other words...Um...
 ---
 
 **Fujimaru 1:**
-What do you mean?|
+What do you mean?
  
 **Jekyll:**
 I don't really understand...
@@ -5931,7 +5931,7 @@ Y-Yes. You're making a great effort, Doctor.Right, Senpai?
 ---
 
 **Fujimaru 1:**
-Yeah.|
+Yeah.
  
 **Dr. Roman:**
 Thank you, thank you...Fujimaru...
@@ -5982,7 +5982,7 @@ I give up, too.I'm not a real mage in the first place.
 ---
 
 **Fujimaru 1:**
-Fran's been making noise...|
+Fran's been making noise...
  
 
 ---
@@ -6024,7 +6024,7 @@ I don't mind. As long as you're fine with us,right, Senpai?
 ---
 
 **Fujimaru 1:**
-Of course.|
+Of course.
  
 
 ---
@@ -6110,7 +6110,7 @@ Fou, fou!
 ---
 
 **Fujimaru 1:**
-Margarine?|
+Margarine?
  
 
 ---
@@ -6146,7 +6146,7 @@ How can I put it? He was a flighty bastard. Imagine a perpetual flurry of flower
 ---
 
 **Fujimaru 1:**
-I do.|
+I do.
  
 
 ---
@@ -6167,7 +6167,7 @@ Well, whatever. Enough about him.He's so spineless he can't even rush over to Lo
 ---
 
 **Fujimaru 1:**
-Okay with what?|
+Okay with what?
  
 
 ---
@@ -6188,7 +6188,7 @@ Fou...
 ---
 
 **Fujimaru 1:**
-What's wrong, Mash?|
+What's wrong, Mash?
  
 
 ---
@@ -6224,7 +6224,7 @@ Yet, I still&mdash;can't use my Noble Phantasm properly.
 ---
 
 **Fujimaru 1:**
-Even without a Noble Phantasm...|
+Even without a Noble Phantasm...
  
 **Mash:**
 No, I need a Noble Phantasm!
@@ -6296,7 +6296,7 @@ For you,Mash is the perfect partner, isn't she?
 ---
 
 **Fujimaru 1:**
-Of course!|
+Of course!
  
 
 ---
@@ -6329,7 +6329,7 @@ Before Mash can become a full-fledged Servant,you need to become a first-rate Ma
 ---
 
 **Fujimaru 1:**
-We'll be first-rate together.|
+We'll be first-rate together.
  
 
 ---
@@ -6379,7 +6379,7 @@ That direction. Got it....Senpai, it seems we want to go west from here.
 ---
 
 **Fujimaru 1:**
-West is...|
+West is...
  
 
 ---
@@ -6415,7 +6415,7 @@ We can't count on Mordred during the battle then,so you guys will have to provid
 ---
 
 **Fujimaru 1:**
-Roger.|
+Roger.
  
 
 ---
@@ -6506,7 +6506,7 @@ It seems like you went by yourself to the nap room a little earlier...
 ---
 
 **Fujimaru 1:**
-I couldn't sleep much.|
+I couldn't sleep much.
  
 
 ---
@@ -6530,7 +6530,7 @@ I...wish I had let you use the sofa in the living room that was assigned to me..
 ---
 
 **Fujimaru 1:**
-It's okay.|
+It's okay.
  
 
 ---
@@ -6554,7 +6554,7 @@ Come to think of it...Oh! Senpai, maybe Fran...
 ---
 
 **Fujimaru 1:**
-In the next room.|
+In the next room.
  
 
 ---
@@ -6671,7 +6671,7 @@ Mash, Fujimaru, I'm counting on you.Make sure you stop the Helter Skelters for g
 ---
 
 **Fujimaru 1:**
-Got it!|
+Got it!
  
 
 ---
@@ -6732,7 +6732,7 @@ Senpai, is this&mdash;
 ---
 
 **Fujimaru 1:**
-It's probably Fran.|
+It's probably Fran.
  
 **Mash:**
 ...Yes, I suppose so.
@@ -6794,7 +6794,7 @@ If you have something on your mind or something to say, be frank with us.
 ---
 
 **Fujimaru 1:**
-Yeah, it's okay to talk to us.|
+Yeah, it's okay to talk to us.
  
 
 ---
@@ -6827,7 +6827,7 @@ We want you to tell us.
 ---
 
 **Fujimaru 1:**
-What is she saying?|
+What is she saying?
  
 
 ---
@@ -6887,7 +6887,7 @@ Okay, good girl.So, you understand what you need to do, right?
 ---
 
 **Fujimaru 1:**
-That settles it.|
+That settles it.
  
 
 ---
@@ -7064,7 +7064,7 @@ Master, your orders.Commencing battle with a large-type Servant!
 ---
 
 **Fujimaru 1:**
-We have no choice!|
+We have no choice!
  
 
 ---
@@ -7129,7 +7129,7 @@ Let's get Fran back to Jekyll's apartment first.Then we'll take out the final bo
 ---
 
 **Fujimaru 1:**
-Let's do that.|
+Let's do that.
  
 
 ---
@@ -7164,7 +7164,7 @@ Then maybe what Babbage said was true.After all, there really was a path leading
 ---
 
 **Fujimaru 1:**
-Why is this here in London?|
+Why is this here in London?
  
 
 ---
@@ -7215,7 +7215,7 @@ Uhh... What do you think, Senpai?
 ---
 
 **Fujimaru 1:**
-What? You're going to ask me?|
+What? You're going to ask me?
  
 **Mash:**
 ...
@@ -7260,7 +7260,7 @@ If what Mr. Babbage said was correct,then a "large-scaled machine" should exist.
 ---
 
 **Fujimaru 1:**
-The Massive Steam Engine?|
+The Massive Steam Engine?
  
 
 ---
@@ -7302,7 +7302,7 @@ But Angrboda, huh?That's a grand old name.
 ---
 
 **Fujimaru 1:**
-Angrboda?|
+Angrboda?
  
 
 ---
@@ -7440,7 +7440,7 @@ I thought you'd stand with us,but it seems you're now a hero of good. Ironic.
 ---
 
 **Fujimaru 1:**
-Who are you?|
+Who are you?
  
 
 ---
@@ -7473,7 +7473,7 @@ Our King...Master, is he part of the same group as Lev Lainur?
 ---
 
 **Fujimaru 1:**
-So you're with Lev!|
+So you're with Lev!
  
 
 ---
@@ -7565,7 +7565,7 @@ With the epitome of my abomination&mdash;Begone, you who seek to spread good as 
 ---
 
 **Fujimaru 1:**
-Good work.|
+Good work.
  
 
 ---
@@ -7747,7 +7747,7 @@ But there was a sense that his actions were controlled.If we don't stop him he'l
 ---
 
 **Fujimaru 1:**
-Let's stop him!|
+Let's stop him!
  
 
 ---
@@ -8289,7 +8289,7 @@ Now we just have to catch up and slay him. Okay,let's follow him, Mash, Fujimaru
 ---
 
 **Fujimaru 1:**
-Are we going up those stairs?|
+Are we going up those stairs?
  
 **Mash:**
 Yes, they're made with a type of magecraft...It seems, anyway. We can walk on them.
@@ -8337,7 +8337,7 @@ I've sighted Heroic Spirit Nikola Tesla once more.He's walking towards the sky a
 ---
 
 **Fujimaru 1:**
-We defeat him here!|
+We defeat him here!
  
 
 ---
@@ -8447,7 +8447,7 @@ What is it, Doctor?
 ---
 
 **Fujimaru 1:**
-I think we forgot something.|
+I think we forgot something.
  
 
 ---
@@ -8512,7 +8512,7 @@ It looks like she has a spear, not a sword...A swirling black lance...what twist
 ---
 
 **Fujimaru 1:**
-You feel the magical energy?|
+You feel the magical energy?
  
 
 ---
@@ -8587,7 +8587,7 @@ It's no good! We can't stop Mordred!I guess we have to fight... Good luck, you t
 ---
 
 **Fujimaru 1:**
-Roger!|
+Roger!
  
 
 ---
@@ -8673,7 +8673,7 @@ No, that's not it. I...No...That's not...
 ---
 
 **Fujimaru 1:**
-She said what she wanted to say.|
+She said what she wanted to say.
  
 
 ---
@@ -8730,7 +8730,7 @@ Hahaha. Sounds like you're busy.Well, the case is closed, so this is fit for a g
 ---
 
 **Fujimaru 1:**
-Yeah. Everybody's so friendly.|
+Yeah. Everybody's so friendly.
  
 
 ---
@@ -8846,7 +8846,7 @@ A stain upon the scorched ashes of human history.The name of the only fools left
 ---
 
 **Fujimaru 1:**
-Who are you!?|
+Who are you!?
  
 
 ---
@@ -8912,7 +8912,7 @@ Trash who's continuing along its foolish history.You are the sole and greatest w
 ---
 
 **Fujimaru 1:**
-You think you can do that!?|
+You think you can do that!?
  
 
 ---
@@ -9199,7 +9199,7 @@ Wait, Fujimaru!?
 ---
 
 **Fujimaru 1:**
-Why are you doing this!?|
+Why are you doing this!?
  
 
 ---
@@ -9298,7 +9298,7 @@ Know that giving up on everything here is the easiest way for you to live.
 ---
 
 **Fujimaru 1:**
-...I'm sorry.|
+...I'm sorry.
  
 **Mordred:**
 Idiot. Don't you apologize.I'm the one who's stupid.
@@ -9340,7 +9340,7 @@ In every era, the ones who build things... are always people living on the cutti
 ---
 
 **Fujimaru 1:**
-...Mordred|
+...Mordred
  
 
 ---
@@ -9400,7 +9400,7 @@ Welcome back, you two. You're both fine...well, maybe not. But I'm glad you're h
 ---
 
 **Fujimaru 1:**
-By the way, why are you here, Da Vinci?|
+By the way, why are you here, Da Vinci?
  
 
 ---
@@ -9424,7 +9424,7 @@ He's a mess, as you can see.Go snap him out of it, would you?
 ---
 
 **Fujimaru 1:**
-Get a grip, Doctor!|
+Get a grip, Doctor!
  
 
 ---
@@ -9454,7 +9454,7 @@ I should've done a forced Rayshift earlier,but my judgment was too slow...
 ---
 
 **Fujimaru 1:**
-That's okay.|
+That's okay.
  
 
 ---
@@ -9496,7 +9496,7 @@ Fou...
 ---
 
 **Fujimaru 1:**
-...Um...|
+...Um...
  
 
 ---
@@ -9526,7 +9526,7 @@ That's what I think.
 ---
 
 **Fujimaru 1:**
-She's right.|
+She's right.
  
 
 ---
@@ -9562,7 +9562,7 @@ The Grand Caster.He is our true enemy&mdash;
 ---
 
 **Fujimaru 1:**
-Next time we win!|
+Next time we win!
  
 
 ---
@@ -9595,7 +9595,7 @@ When you wake up, it'll be time for the Fifth Singularity.See you then!
 ---
 
 **Fujimaru 1:**
-You too, Mash.|
+You too, Mash.
  
 **Mash:**
 No. I'm a Demi-Servant.Physically, I'm fine.
@@ -9628,7 +9628,7 @@ And I do think you're tired.Get some rest in your room.
 ---
 
 **Fujimaru 1:**
-It's stupid.|
+It's stupid.
  
 
 ---
