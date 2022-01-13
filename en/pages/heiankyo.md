@@ -1,4 +1,4 @@
-# Cosmos in the Lostbelt 5.5: Realm of Hell Mandala - Heian-kyō
+#Cosmos in the Lostbelt 5.5: Realm of Hell Mandala - Heian-kyō
 
 ![Heiankyo](https://i.imgur.com/lvjZLpe.png)
 
@@ -15,7 +15,7 @@ Shadow Border, we have arrived at the Wandering Sea’s primary dock. Chaldean s
 ---
 
 **Fujimaru 1:**
-We’re back——!|
+We’re back——!
  
 **Mash:**
 Yes. We’ve returned to the Wandering Sea Chaldea Base safely!
@@ -121,7 +121,7 @@ In the time between Olympus and coming back to the Wandering Sea, I think our te
 ---
 
 **Fujimaru 1:**
-We were so tense all the time.|
+We were so tense all the time.
  
 
 ---
@@ -181,7 +181,7 @@ It seems like it was completely forgotten,but she just pushed it aside with that
 ---
 
 **Fujimaru 1:**
-Captain and…|
+Captain and…
 
 ---
 
@@ -219,7 +219,7 @@ Yes, the moving works went smoothly.Please do your best work when starting const
 ---
 
 **Fujimaru 1:**
-Now, let me see…|
+Now, let me see…
 
 ---
 
@@ -251,7 +251,7 @@ Miss Sion and I will&mdash;investigate and analyze the “Alien God”.
 ---
 
 **Fujimaru 1:**
-Are you able to investigate the “Alien God”!?|
+Are you able to investigate the “Alien God”!?
  
 
 ---
@@ -308,7 +308,7 @@ That’s good. It means it won’t be leaving South America for the time being.
 ---
 
 **Fujimaru 1:**
-It won’t move from the South American Lostbelt…|
+It won’t move from the South American Lostbelt…
 
 ---
 
@@ -508,7 +508,7 @@ If our opponent has planetary-grade output,then we have to be armed with a weapo
 ---
 
 **Fujimaru 1:**
-But that’s…|
+But that’s…
 
 ---
 
@@ -582,7 +582,7 @@ And,
 ---
 
 **Fujimaru 1:**
-The blank slate came first, then the Fantasy Trees…?|
+The blank slate came first, then the Fantasy Trees…?
  
 
 ---
@@ -1196,7 +1196,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-いつでも行けます|
+いつでも行けます
 
 ---
 
@@ -1252,7 +1252,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-黒い淀み……|
+黒い淀み……
  
 
 ---
@@ -1267,7 +1267,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-でも一ヶ月は安全だって、アトラスの才女が……|
+でも一ヶ月は安全だって、アトラスの才女が……
  
 
 ---
@@ -1347,7 +1347,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-時、まさに<ruby><rb>金時</rb><rt>ゴールデン</rt></ruby>！|
+時、まさに<ruby><rb>金時</rb><rt>ゴールデン</rt></ruby>！
  
 **Sakata Kintoki:**
 おうともさ！
@@ -1429,7 +1429,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-どうした{(M)んだ/(F)の}、二人とも|
+どうした{(M)んだ/(F)の}、二人とも
  
 **Fuuma Kotarou:**
 はっ。
@@ -1505,7 +1505,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-アルターエゴ・リンボ！|
+アルターエゴ・リンボ！
 
 ---
 
@@ -1754,7 +1754,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ありがとう！|
+ありがとう！
  
 **Sakata Kintoki:**
 おう！　行ってこい！
@@ -1862,7 +1862,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-絶対、油断しません|
+絶対、油断しません
  
 **Da Vinci:**
 うん！
@@ -1880,7 +1880,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-&mdash;リンボと、ここで決着をつける！|
+&mdash;リンボと、ここで決着をつける！
  
 
 ---
@@ -1934,7 +1934,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-了解！|
+了解！
  
 
 ---
@@ -1943,7 +1943,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-マシュ、行こう！|
+マシュ、行こう！
  
 
 ---
@@ -1955,7 +1955,7 @@ We’re looking for our prey.Our Casters.
 **Fou:**
 フォウフォーウ！
 
-[[File:black.png|500px]]
+[[File:black.png500px]]
  
 **--ARROW--:**
 
@@ -1963,7 +1963,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ここは……|
+ここは……
  
 
 ---
@@ -1972,7 +1972,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-レイシフト、成功した……？|
+レイシフト、成功した……？
  
 
 ---
@@ -1981,7 +1981,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-マシュ！|
+マシュ！
  
 **Danzo:**
 おそれながら！
@@ -2017,7 +2017,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-！！|
+！！
  
 
 ---
@@ -2044,7 +2044,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-レイシフト妨害！|
+レイシフト妨害！
  
 **Danzo:**
 は。恐らくは！
@@ -2092,7 +2092,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-それが、マシュと小太郎のレイシフトを……|
+それが、マシュと小太郎のレイシフトを……
  
 
 ---
@@ -2119,7 +2119,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-小太郎が、段蔵さんを送ってくれたんだね|
+小太郎が、段蔵さんを送ってくれたんだね
  
 
 ---
@@ -2149,7 +2149,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-できることを、やろう|
+できることを、やろう
  
 
 ---
@@ -2158,7 +2158,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-マシュと小太郎を捜索しつつ&mdash;|
+マシュと小太郎を捜索しつつ&mdash;
  
 
 ---
@@ -2167,7 +2167,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-現地協力者を確保して|
+現地協力者を確保して
 
 ---
 
@@ -2193,7 +2193,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ともかくここから移動、だね|
+ともかくここから移動、だね
 
 ---
 
@@ -2239,7 +2239,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-来た！|
+来た！
  
 **Danzo:**
 複数の脚を持つ、異形の巨体……現地の敵性体と断じまする。
@@ -2296,7 +2296,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-段蔵さん！|
+段蔵さん！
 
 ---
 
@@ -2322,7 +2322,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……良かった|
+……良かった
  
 **Danzo:**
 忍びなれば、この程度は。
@@ -2355,7 +2355,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-あれが、平安時代に<ruby><rb>棲息</rb><rt>せいそく</rt></ruby>する怪異なら|
+あれが、平安時代に<ruby><rb>棲息</rb><rt>せいそく</rt></ruby>する怪異なら
 
 ---
 
@@ -2390,7 +2390,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-魔圏&mdash;|
+魔圏&mdash;
 
 ---
 
@@ -2416,7 +2416,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-段蔵さん？|
+段蔵さん？
  
 
 ---
@@ -2454,7 +2454,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-すごいぞ絡繰くのいち|
+すごいぞ絡繰くのいち
 
 ---
 
@@ -2483,7 +2483,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-分かった|
+分かった
 
 ---
 
@@ -2524,7 +2524,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（待った！）|
+（待った！）
  
 
 ---
@@ -2536,7 +2536,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（一人で無茶は駄目{(M)だ/(F)だよ}、二人で戦おう）|
+（一人で無茶は駄目{(M)だ/(F)だよ}、二人で戦おう）
  
 
 ---
@@ -2567,7 +2567,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-戦闘開始！|
+戦闘開始！
 
 ---
 
@@ -2589,7 +2589,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-今の、見覚えがあるような|
+今の、見覚えがあるような
  
 
 ---
@@ -2607,7 +2607,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-断言はしないけど|
+断言はしないけど
 
 ---
 
@@ -2645,7 +2645,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-大蜘蛛！？|
+大蜘蛛！？
  
 
 ---
@@ -2657,7 +2657,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-段蔵さん！|
+段蔵さん！
  
 
 ---
@@ -2666,7 +2666,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（{(M)自分/(F)わたし}を<ruby><rb>庇</rb><rt>かば</rt></ruby>って&mdash;！？）|
+（{(M)自分/(F)わたし}を<ruby><rb>庇</rb><rt>かば</rt></ruby>って&mdash;！？）
  
 
 ---
@@ -2681,7 +2681,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-置いては行かない！|
+置いては行かない！
 
 ---
 
@@ -2695,7 +2695,7 @@ We’re looking for our prey.Our Casters.
 **Danzo:**
 いけない！マスター！
 
-[[File:black.png|500px]]
+[[File:black.png500px]]
  
 **Narration:**
 &mdash;魔圏、平安京にあって。
@@ -2750,7 +2750,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……涼しい顔してないで、逃げて！|
+……涼しい顔してないで、逃げて！
  
 
 ---
@@ -2778,7 +2778,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-&mdash;。|
+&mdash;。
  
 
 ---
@@ -2811,7 +2811,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-………………あなたは、{(M)誰だ/(F)誰}|
+………………あなたは、{(M)誰だ/(F)誰}
  
 
 ---
@@ -2840,7 +2840,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-渡辺綱……|
+渡辺綱……
  
 **Danzo:**
 渡辺綱！金時殿と同じく源氏郎等にして、平安最強……
@@ -2882,7 +2882,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-メディア！？|
+メディア！？
  
 
 ---
@@ -2909,7 +2909,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-藤原道長……？|
+藤原道長……？
  
 
 ---
@@ -2921,7 +2921,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-キャスター！？|
+キャスター！？
 
 ---
 
@@ -2970,7 +2970,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-段蔵さん！|
+段蔵さん！
  
 
 ---
@@ -3048,7 +3048,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（段蔵さんの手を掴む）|
+（段蔵さんの手を掴む）
  
 
 ---
@@ -3107,7 +3107,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-段蔵さん、怪我してる！|
+段蔵さん、怪我してる！
 
 ---
 
@@ -3133,7 +3133,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-肩を貸すよ、段蔵さん|
+肩を貸すよ、段蔵さん
  
 
 ---
@@ -3145,7 +3145,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-少しでも距離を取ろう|
+少しでも距離を取ろう
  
 
 ---
@@ -3175,7 +3175,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-段蔵さんを置いては行かない|
+段蔵さんを置いては行かない
  
 
 ---
@@ -3187,7 +3187,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-諦めるのは早い！|
+諦めるのは早い！
 
 ---
 
@@ -3267,7 +3267,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ゴールデン……！？|
+ゴールデン……！？
  
 
 ---
@@ -3309,7 +3309,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-渡辺綱！|
+渡辺綱！
  
 
 ---
@@ -3438,7 +3438,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（天覧……聖杯戦争……）|
+（天覧……聖杯戦争……）
  
 
 ---
@@ -3530,7 +3530,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-段蔵さん、霊体化！|
+段蔵さん、霊体化！
  
 
 ---
@@ -3575,7 +3575,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……………………|
+……………………
  
 
 ---
@@ -3674,7 +3674,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-行った！|
+行った！
  
 **Sakata Kintoki:**
 だよな！
@@ -3704,7 +3704,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-助けてくれてありがとう|
+助けてくれてありがとう
  
 **Sakata Kintoki:**
 おう！
@@ -3728,7 +3728,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-まるで正義の味方みたいだ|
+まるで正義の味方みたいだ
 
 ---
 
@@ -3845,7 +3845,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-聖杯戦争！？|
+聖杯戦争！？
 
 ---
 
@@ -3859,7 +3859,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-流石？|
+流石？
 
 ---
 
@@ -3918,7 +3918,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-渡辺綱……|
+渡辺綱……
  
 
 ---
@@ -3942,7 +3942,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-人界最強……|
+人界最強……
  
 
 ---
@@ -3960,7 +3960,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-見たよ|
+見たよ
 
 ---
 
@@ -3980,7 +3980,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-{(M)ああ/(F)うん}|
+{(M)ああ/(F)うん}
 
 ---
 
@@ -4045,7 +4045,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-でも、安倍晴明考案なんだよね？|
+でも、安倍晴明考案なんだよね？
  
 
 ---
@@ -4123,7 +4123,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-陰謀家が多いんだね、ここ……|
+陰謀家が多いんだね、ここ……
  
 
 ---
@@ -4159,7 +4159,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……………………|
+……………………
  
 
 ---
@@ -4198,7 +4198,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時、その左手！|
+金時、その左手！
 
 ---
 
@@ -4267,7 +4267,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……ごめんね？|
+……ごめんね？
  
 **Sakata Kintoki:**
 いや、アンタが謝るようなコトじゃねえよ。
@@ -4351,7 +4351,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-うん、そうだね|
+うん、そうだね
  
 
 ---
@@ -4420,7 +4420,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-家出ならしょうがない！|
+家出ならしょうがない！
  
 **Sakata Kintoki:**
 ははは！　話がわかるなオイ！
@@ -4453,7 +4453,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……{(M)自分/(F)わたし}のせいで、ごめん|
+……{(M)自分/(F)わたし}のせいで、ごめん
  
 
 ---
@@ -4471,7 +4471,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-そういうわけにはいかないよ|
+そういうわけにはいかないよ
  
 **Sakata Kintoki:**
 ……義理堅ぇなあ。
@@ -4561,7 +4561,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-！？|
+！？
  
 
 ---
@@ -4594,7 +4594,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-もしかして…………|
+もしかして…………
  
 
 ---
@@ -4609,7 +4609,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-清少納言？|
+清少納言？
  
 **清子:**
 んー。おー？
@@ -4651,7 +4651,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（ということは何歳なんだろう）|
+（ということは何歳なんだろう）
  
 
 ---
@@ -4771,7 +4771,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-うん、段蔵さんは<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>に乗って|
+うん、段蔵さんは<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>に乗って
  
 
 ---
@@ -4783,7 +4783,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-少しでも休んでおいて|
+少しでも休んでおいて
  
 
 ---
@@ -4831,7 +4831,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-正面方向、何かいる！|
+正面方向、何かいる！
  
 
 ---
@@ -4851,7 +4851,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-おつかれさま|
+おつかれさま
 
 ---
 
@@ -4868,7 +4868,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-どういうこと？|
+どういうこと？
 
 ---
 
@@ -4906,7 +4906,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-紫式部！|
+紫式部！
 
 ---
 
@@ -4950,7 +4950,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-えっと、さすがに初対面の人の家には……|
+えっと、さすがに初対面の人の家には……
  
 
 ---
@@ -4995,7 +4995,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-そうきたか……|
+そうきたか……
 
 ---
 
@@ -5081,7 +5081,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……至極まっとうな反応な気がする|
+……至極まっとうな反応な気がする
  
 
 ---
@@ -5147,7 +5147,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-香子さん|
+香子さん
  
 
 ---
@@ -5159,7 +5159,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-“草の庵”がよろしくと言ってました|
+“草の庵”がよろしくと言ってました
  
 
 ---
@@ -5201,7 +5201,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-うん、相部屋で|
+うん、相部屋で
 
 ---
 
@@ -5253,7 +5253,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ありがとう、段蔵さん|
+ありがとう、段蔵さん
  
 **Danzo:**
 いえ。
@@ -5292,7 +5292,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時は、頼光さんには会いたくない？|
+金時は、頼光さんには会いたくない？
 
 ---
 
@@ -5360,7 +5360,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-やった！|
+やった！
  
 **Danzo:**
 ははっ！
@@ -5399,7 +5399,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-二人とも無事だったんだ、よかった！|
+二人とも無事だったんだ、よかった！
  
 **Mash:**
 はい！　先輩もご無事でなによりです！
@@ -5459,7 +5459,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-あやまることはない{(M)さ/(F)よ}|
+あやまることはない{(M)さ/(F)よ}
 
 ---
 
@@ -5494,7 +5494,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-アルターエゴ・リンボの仕業だね|
+アルターエゴ・リンボの仕業だね
  
 
 ---
@@ -5521,7 +5521,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（頷く）|
+（頷く）
  
 
 ---
@@ -5548,7 +5548,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-特異点の調査と修復！|
+特異点の調査と修復！
 
 ---
 
@@ -5559,7 +5559,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-レイシフト直後から随分立て直せたね……|
+レイシフト直後から随分立て直せたね……
 
 ---
 
@@ -5573,7 +5573,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（背中を叩かれてむせる）|
+（背中を叩かれてむせる）
  
 **Fuuma Kotarou:**
 あ、主殿！？
@@ -5687,7 +5687,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ホームズがもう断言してる！|
+ホームズがもう断言してる！
  
 **Holmes:**
 ははは。
@@ -5738,7 +5738,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ドーマン？|
+ドーマン？
 
 ---
 
@@ -5833,7 +5833,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-根拠が、あるんだよね？|
+根拠が、あるんだよね？
  
 
 ---
@@ -5878,7 +5878,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-でも『異星の神』はもう降臨している&mdash;|
+でも『異星の神』はもう降臨している&mdash;
  
 
 ---
@@ -5941,7 +5941,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-了解！|
+了解！
 
 ---
 
@@ -6110,7 +6110,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-鋼？|
+鋼？
 
 ---
 
@@ -6135,7 +6135,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-天覧聖杯戦争……|
+天覧聖杯戦争……
 
 ---
 
@@ -6173,7 +6173,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（お茶を飲みかけてむせる）|
+（お茶を飲みかけてむせる）
  
 **Danzo:**
 マスター！
@@ -6194,7 +6194,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-そ、それってゴールデン・ヒュージ・ベアー号？|
+そ、それってゴールデン・ヒュージ・ベアー号？
 
 ---
 
@@ -6220,7 +6220,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-は、はいっ|
+は、はいっ
  
 **Sakata Kintoki:**
 わかればよしだ。おう！
@@ -6277,7 +6277,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-世界の裏側……|
+世界の裏側……
 
 ---
 
@@ -6306,7 +6306,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（もぐもぐ）|
+（もぐもぐ）
 
 ---
 
@@ -6359,7 +6359,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（もぐもぐしながら頷く）|
+（もぐもぐしながら頷く）
  
 
 ---
@@ -6431,7 +6431,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（もぐもぐ……ごくん）|
+（もぐもぐ……ごくん）
  
 
 ---
@@ -6440,7 +6440,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-段蔵さん、ちょっと近いのかも……？|
+段蔵さん、ちょっと近いのかも……？
 
 ---
 
@@ -6487,7 +6487,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-こっちこそよろしく！|
+こっちこそよろしく！
 
 ---
 
@@ -6528,7 +6528,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-蘆屋道満|
+蘆屋道満
 
 ---
 
@@ -6566,7 +6566,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-じゃあ、まずは&mdash;|
+じゃあ、まずは&mdash;
 
 ---
 
@@ -6607,7 +6607,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-じゃあ、潜入はできないね|
+じゃあ、潜入はできないね
  
 **Danzo:**
 恐らくは。
@@ -6682,7 +6682,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時、声！|
+金時、声！
  
 **Sakata Kintoki:**
 あ。そうか、悪い。
@@ -6808,7 +6808,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-確かに言った！|
+確かに言った！
 
 ---
 
@@ -6834,7 +6834,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ありがとう、香子さん|
+ありがとう、香子さん
  
 
 ---
@@ -6861,7 +6861,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-あっ、そうか|
+あっ、そうか
 
 ---
 
@@ -6950,7 +6950,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-大丈夫|
+大丈夫
 
 ---
 
@@ -6967,7 +6967,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（顔を拭く）|
+（顔を拭く）
  
 
 ---
@@ -6991,7 +6991,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-そんなに早朝でも大丈夫なんだ……|
+そんなに早朝でも大丈夫なんだ……
 
 ---
 
@@ -7029,7 +7029,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-よし、行こう！|
+よし、行こう！
 
 ---
 
@@ -7046,7 +7046,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-まさか<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>に乗れるなんて|
+まさか<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>に乗れるなんて
  
 
 ---
@@ -7055,7 +7055,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-これって普通のことなの？|
+これって普通のことなの？
  
 **Danzo:**
 い、いえ、決して普通ではありませぬ！
@@ -7091,7 +7091,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-どうかした？|
+どうかした？
 
 ---
 
@@ -7126,7 +7126,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……遠回りしてる暇はない|
+……遠回りしてる暇はない
 
 ---
 
@@ -7166,7 +7166,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-夜更けに清子さんの<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>でも遭遇したけど|
+夜更けに清子さんの<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>でも遭遇したけど
 
 ---
 
@@ -7228,7 +7228,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-怨の一文字……|
+怨の一文字……
  
 
 ---
@@ -7294,7 +7294,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-途中で下りたのかもしれないね|
+途中で下りたのかもしれないね
 
 ---
 
@@ -7329,7 +7329,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-はい|
+はい
 
 ---
 
@@ -7385,7 +7385,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-承知！|
+承知！
  
 
 ---
@@ -7433,7 +7433,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（あれ！？）|
+（あれ！？）
  
 
 ---
@@ -7496,7 +7496,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-よ、よろしくお願いします|
+よ、よろしくお願いします
  
 
 ---
@@ -7547,7 +7547,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（初対面というか初対面でないというか）|
+（初対面というか初対面でないというか）
 
 ---
 
@@ -7579,7 +7579,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（…………はい）|
+（…………はい）
  
 
 ---
@@ -7609,7 +7609,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-大丈夫|
+大丈夫
 
 ---
 
@@ -7638,7 +7638,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-！！|
+！！
  
 
 ---
@@ -7674,7 +7674,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-蘆屋……道満……？|
+蘆屋……道満……？
  
 
 ---
@@ -7701,7 +7701,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-助けて、くれ、た…………？|
+助けて、くれ、た…………？
  
 
 ---
@@ -7725,7 +7725,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……藤丸、です……|
+……藤丸、です……
 
 ---
 
@@ -7733,7 +7733,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-………………………………。|
+………………………………。
 
 ---
 
@@ -7756,7 +7756,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-…………………………。|
+…………………………。
  
 
 ---
@@ -7765,7 +7765,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-<ruby><rb>巷</rb><rt>ちまた</rt></ruby>とか、そういう話{(M)じゃない/(F)ではないです}|
+<ruby><rb>巷</rb><rt>ちまた</rt></ruby>とか、そういう話{(M)じゃない/(F)ではないです}
  
 
 ---
@@ -7929,7 +7929,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（まっすぐに見据える）|
+（まっすぐに見据える）
  
 
 ---
@@ -8133,7 +8133,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-アルターエゴ・リンボ|
+アルターエゴ・リンボ
  
 
 ---
@@ -8145,7 +8145,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-天覧聖杯戦争の裏にいるはずの人物です|
+天覧聖杯戦争の裏にいるはずの人物です
  
 
 ---
@@ -8196,7 +8196,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-…………………………。|
+…………………………。
  
 
 ---
@@ -8208,7 +8208,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-いえ……|
+いえ……
 
 ---
 
@@ -8312,7 +8312,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-あなたは……！|
+あなたは……！
 
 ---
 
@@ -8380,7 +8380,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-二人ともストーーーーーーップ！！|
+二人ともストーーーーーーップ！！
  
 
 ---
@@ -8436,7 +8436,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-それじゃあ情報収集だ|
+それじゃあ情報収集だ
 
 ---
 
@@ -8465,7 +8465,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-慣れているわけじゃないけど|
+慣れているわけじゃないけど
 
 ---
 
@@ -8560,7 +8560,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-確かそれって|
+確かそれって
 
 ---
 
@@ -8616,7 +8616,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-天覧聖杯戦争の開始時期と符合するね|
+天覧聖杯戦争の開始時期と符合するね
  
 **Danzo:**
 まさしく。
@@ -8657,7 +8657,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-張り込み……|
+張り込み……
 
 ---
 
@@ -8674,7 +8674,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時、こういうのに慣れてるんだね|
+金時、こういうのに慣れてるんだね
 
 ---
 
@@ -8709,7 +8709,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-人が多いのは嫌い？|
+人が多いのは嫌い？
  
 **Sakata Kintoki:**
 ……んー。得意じゃねえなぁ。
@@ -8769,7 +8769,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-&mdash;なんとなく、分かる気がするよ|
+&mdash;なんとなく、分かる気がするよ
  
 
 ---
@@ -8805,7 +8805,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-鋼の怪の拠点なのかも、行ってみよう|
+鋼の怪の拠点なのかも、行ってみよう
 
 ---
 
@@ -8843,7 +8843,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-霊脈の上ってことは|
+霊脈の上ってことは
 
 ---
 
@@ -8896,7 +8896,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ヘルタースケルター！|
+ヘルタースケルター！
 
 ---
 
@@ -8957,7 +8957,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……ヘルタースケルターだった|
+……ヘルタースケルターだった
  
 
 ---
@@ -8972,7 +8972,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-多分、英霊チャールズ・バベッジの使い魔|
+多分、英霊チャールズ・バベッジの使い魔
 
 ---
 
@@ -9010,7 +9010,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-階差機関を実現させた天才数学者……|
+階差機関を実現させた天才数学者……
 
 ---
 
@@ -9021,7 +9021,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-別の世界を夢見た、英霊だよ|
+別の世界を夢見た、英霊だよ
  
 
 ---
@@ -9081,7 +9081,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（頷く）|
+（頷く）
  
 
 ---
@@ -9164,7 +9164,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ごちそうさま、美味しかったです|
+ごちそうさま、美味しかったです
  
 **家人:**
 お口に合えば何よりですとも。それでは。
@@ -9215,7 +9215,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-だーかーら|
+だーかーら
  
 
 ---
@@ -9301,7 +9301,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-段蔵さん器用だ……|
+段蔵さん器用だ……
 
 ---
 
@@ -9330,7 +9330,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-即、否定！|
+即、否定！
 
 ---
 
@@ -9437,7 +9437,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-そうだよね|
+そうだよね
 
 ---
 
@@ -9556,7 +9556,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-大丈夫、香子さん？|
+大丈夫、香子さん？
  
 
 ---
@@ -9589,7 +9589,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-起きてるよ、段蔵さん|
+起きてるよ、段蔵さん
  
 
 ---
@@ -9604,7 +9604,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……香子さん、様子がおかしかったね|
+……香子さん、様子がおかしかったね
  
 
 ---
@@ -9655,7 +9655,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……香子さんの後を付けてみよう|
+……香子さんの後を付けてみよう
  
 **Sakata Kintoki:**
 ああ。<u>そうなる</u>よな&mdash;
@@ -9715,7 +9715,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ヘルタースケルター！|
+ヘルタースケルター！
  
 
 ---
@@ -9747,7 +9747,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-追いかけよう|
+追いかけよう
  
 **Sakata Kintoki:**
 おう！
@@ -9777,7 +9777,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ありがとう、段蔵さん|
+ありがとう、段蔵さん
 
 ---
 
@@ -9815,7 +9815,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-応！|
+応！
  
 **Sakata Kintoki:**
 なんだそりゃ。ハハ、いいぜ！　気が昂ぶってきやがる！
@@ -9866,7 +9866,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-清少納言！？|
+清少納言！？
  
 **清子:**
 あー、こらこら。その名はだめだってば。
@@ -9959,7 +9959,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-それは、香子さんのために？|
+それは、香子さんのために？
 
 ---
 
@@ -10068,7 +10068,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（手を伸ばす）|
+（手を伸ばす）
  
 
 ---
@@ -10089,7 +10089,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-清子さん&mdash;|
+清子さん&mdash;
  
 
 ---
@@ -10119,7 +10119,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-本当に、香子さんに危害は加えません|
+本当に、香子さんに危害は加えません
  
 
 ---
@@ -10128,7 +10128,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-だよね、金時！|
+だよね、金時！
  
 
 ---
@@ -10224,7 +10224,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-香子さん、ごめんね|
+香子さん、ごめんね
 
 ---
 
@@ -10265,7 +10265,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-バベッジ！|
+バベッジ！
 
 ---
 
@@ -10327,7 +10327,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時！|
+金時！
  
 
 ---
@@ -10380,7 +10380,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-話をしよう|
+話をしよう
 
 ---
 
@@ -10448,7 +10448,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-香子さん|
+香子さん
 
 ---
 
@@ -10498,7 +10498,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-源氏物語だね|
+源氏物語だね
 
 ---
 
@@ -10671,7 +10671,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-昼は安全な内裏、夜には直接護衛する|
+昼は安全な内裏、夜には直接護衛する
 
 ---
 
@@ -10763,7 +10763,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-そういうこと……！|
+そういうこと……！
 
 ---
 
@@ -10819,7 +10819,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-四天王筆頭、渡辺綱！|
+四天王筆頭、渡辺綱！
  
 
 ---
@@ -10953,7 +10953,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ヘルタースケルターで<ruby><rb>牽制</rb><rt>けんせい</rt></ruby>できているうちに|
+ヘルタースケルターで<ruby><rb>牽制</rb><rt>けんせい</rt></ruby>できているうちに
 
 ---
 
@@ -10982,7 +10982,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-バベッジ！？|
+バベッジ！？
  
 
 ---
@@ -11072,7 +11072,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時！|
+金時！
 
 ---
 
@@ -11092,7 +11092,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-&mdash;。|
+&mdash;。
  
 
 ---
@@ -11140,7 +11140,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-この独特の感じ、これは……|
+この独特の感じ、これは……
  
 
 ---
@@ -11149,7 +11149,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-死合舞台！|
+死合舞台！
  
 
 ---
@@ -11238,7 +11238,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-チャールズ・バベッジ……|
+チャールズ・バベッジ……
  
 **Danzo:**
 バベッジ殿……
@@ -11280,7 +11280,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-…………！|
+…………！
  
 
 ---
@@ -11343,7 +11343,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-夢……？|
+夢……？
 
 ---
 
@@ -11381,7 +11381,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-。|
+。
  
 
 ---
@@ -11461,7 +11461,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ありがとう、香子さん|
+ありがとう、香子さん
  
 **Fujiwara no Kaoriko:**
 いいえ。行って参ります。
@@ -11482,7 +11482,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-空元気、だよね|
+空元気、だよね
 
 ---
 
@@ -11610,7 +11610,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-………………{(M)そうだね/(F)わたしも、そう思う}|
+………………{(M)そうだね/(F)わたしも、そう思う}
  
 
 ---
@@ -12100,7 +12100,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-鬼種！|
+鬼種！
 
 ---
 
@@ -12168,7 +12168,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-平安時代の酒呑童子と、茨木童子！|
+平安時代の酒呑童子と、茨木童子！
  
 
 ---
@@ -12213,7 +12213,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-天覧武者！|
+天覧武者！
 
 ---
 
@@ -12254,7 +12254,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-魔力……！？|
+魔力……！？
 
 ---
 
@@ -12280,7 +12280,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……大丈夫|
+……大丈夫
 
 ---
 
@@ -12297,7 +12297,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-アフロディーテの時に比べたら|
+アフロディーテの時に比べたら
 
 ---
 
@@ -12371,7 +12371,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-戦闘態勢！|
+戦闘態勢！
  
 **Sakata Kintoki:**
 でかい火の粉だが仕方ねえや！振り払うぜ、茨木よォ！
@@ -12415,7 +12415,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-結構本気で戦っているつもりだけど|
+結構本気で戦っているつもりだけど
 
 ---
 
@@ -12495,7 +12495,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……茨木|
+……茨木
  
 
 ---
@@ -12552,7 +12552,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-パラケルスス！|
+パラケルスス！
  
 **Paracelsus:**
 我が真名を知る？では、聖杯戦争に縁ある方でしょうか。
@@ -12636,7 +12636,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ぜんぶ蹴散らす！|
+ぜんぶ蹴散らす！
 
 ---
 
@@ -12715,7 +12715,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-段蔵さん、周辺哨戒できる？|
+段蔵さん、周辺哨戒できる？
 
 ---
 
@@ -12753,7 +12753,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（頷く）|
+（頷く）
  
 
 ---
@@ -12830,7 +12830,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-そうだね|
+そうだね
  
 
 ---
@@ -12866,7 +12866,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-初対面って感じじゃなかった|
+初対面って感じじゃなかった
 
 ---
 
@@ -12925,7 +12925,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-つまり酒呑童子は……|
+つまり酒呑童子は……
 
 ---
 
@@ -12975,7 +12975,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時？|
+金時？
  
 
 ---
@@ -13029,7 +13029,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……………………。|
+……………………。
  
 
 ---
@@ -13047,7 +13047,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-うん|
+うん
  
 **Sakata Kintoki:**
 ああ。
@@ -13077,7 +13077,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-おかえり、段蔵さん！|
+おかえり、段蔵さん！
  
 
 ---
@@ -13164,7 +13164,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-地図に記入してみようか|
+地図に記入してみようか
 
 ---
 
@@ -13193,7 +13193,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-各地で、どの方角へ向かってたか分かる？|
+各地で、どの方角へ向かってたか分かる？
  
 
 ---
@@ -13229,7 +13229,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……すべての線が一箇所に交差してる……|
+……すべての線が一箇所に交差してる……
  
 
 ---
@@ -13268,7 +13268,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-知ってる場所？|
+知ってる場所？
 
 ---
 
@@ -13309,7 +13309,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-何度か名前が出た人！|
+何度か名前が出た人！
  
 **Danzo:**
 安倍晴明。平安最強の陰陽師と名高き御仁に御座います！
@@ -13365,7 +13365,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-あっちの方にあるお屋敷が、晴明さん宅|
+あっちの方にあるお屋敷が、晴明さん宅
  
 
 ---
@@ -13380,7 +13380,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-そういうこと？|
+そういうこと？
  
 
 ---
@@ -13404,7 +13404,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-へえー！|
+へえー！
  
 **Danzo:**
 なんともはや……！
@@ -13437,7 +13437,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-頼光さん、<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>の可能性はあるよね？|
+頼光さん、<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>の可能性はあるよね？
 
 ---
 
@@ -13466,7 +13466,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（はい？）|
+（はい？）
  
 
 ---
@@ -13529,7 +13529,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-知ってる子？|
+知ってる子？
  
 
 ---
@@ -13556,7 +13556,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（何も感じないよね……？）|
+（何も感じないよね……？）
  
 
 ---
@@ -13610,7 +13610,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-酒呑童子たちに対応してるのかも|
+酒呑童子たちに対応してるのかも
 
 ---
 
@@ -13675,7 +13675,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（頼光さんだ……）|
+（頼光さんだ……）
  
 
 ---
@@ -13684,7 +13684,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（でもなんだか雰囲気が）|
+（でもなんだか雰囲気が）
 
 ---
 
@@ -13731,7 +13731,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（氷の、視線……！）|
+（氷の、視線……！）
  
 
 ---
@@ -13776,7 +13776,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-あっ！|
+あっ！
 
 ---
 
@@ -13856,7 +13856,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-よかった、いつもの頼光さんだ|
+よかった、いつもの頼光さんだ
 
 ---
 
@@ -13915,7 +13915,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-そういうのじゃないですよ、頼光さん|
+そういうのじゃないですよ、頼光さん
 
 ---
 
@@ -13974,7 +13974,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-&mdash;は、はい|
+&mdash;は、はい
  
 
 ---
@@ -14003,7 +14003,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-いただきます|
+いただきます
 
 ---
 
@@ -14053,7 +14053,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-香子さんのお屋敷のご飯とはまた違う味わい|
+香子さんのお屋敷のご飯とはまた違う味わい
 
 ---
 
@@ -14091,7 +14091,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（もぐもぐ）|
+（もぐもぐ）
  
 
 ---
@@ -14100,7 +14100,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-うん、源氏の料理も美味しい|
+うん、源氏の料理も美味しい
  
 
 ---
@@ -14127,7 +14127,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（頷く）|
+（頷く）
  
 
 ---
@@ -14181,7 +14181,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-いいよ、一緒に遊ぼうか|
+いいよ、一緒に遊ぼうか
  
 
 ---
@@ -14190,7 +14190,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-でも、ごめんね|
+でも、ごめんね
 
 ---
 
@@ -14234,7 +14234,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-満仲さんっていうのは|
+満仲さんっていうのは
  
 **Danzo:**
 源頼光殿のお父上にして前<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>、摂津源氏の祖の一人として知られる御仁にて。
@@ -14476,7 +14476,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時……！|
+金時……！
 
 ---
 
@@ -14511,7 +14511,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-当然！|
+当然！
  
 
 ---
@@ -14523,7 +14523,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-お願い、段蔵さん|
+お願い、段蔵さん
 
 ---
 
@@ -14919,7 +14919,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（あの子が、ナーサリー・ライム&mdash;！？）|
+（あの子が、ナーサリー・ライム&mdash;！？）
 
 ---
 
@@ -14927,7 +14927,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（すぐにでも降りたいけど）|
+（すぐにでも降りたいけど）
 
 ---
 
@@ -14983,7 +14983,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時……！|
+金時……！
  
 
 ---
@@ -15115,7 +15115,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-この感じ&mdash;|
+この感じ&mdash;
  
 
 ---
@@ -15124,7 +15124,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-嫌な感じがする、金時！|
+嫌な感じがする、金時！
  
 
 ---
@@ -15148,7 +15148,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時！？|
+金時！？
  
 
 ---
@@ -15169,7 +15169,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-放り投げられた&mdash;！|
+放り投げられた&mdash;！
  
 
 ---
@@ -15178,7 +15178,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-滞空時間が|
+滞空時間が
 
 ---
 
@@ -15192,7 +15192,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-着地着地着地着地！|
+着地着地着地着地！
 
 ---
 
@@ -15206,7 +15206,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-着地成功！|
+着地成功！
 
 ---
 
@@ -15220,7 +15220,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-頼光さん……！|
+頼光さん……！
  
 
 ---
@@ -15349,7 +15349,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-その術式、ちょっと待った！|
+その術式、ちょっと待った！
 
 ---
 
@@ -15375,7 +15375,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-状況は一応分かってる|
+状況は一応分かってる
 
 ---
 
@@ -15389,7 +15389,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……ごめん段蔵、少しだけ待って|
+……ごめん段蔵、少しだけ待って
  
 
 ---
@@ -15410,7 +15410,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-了解！|
+了解！
  
 
 ---
@@ -15434,7 +15434,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-足りないならもう一度！|
+足りないならもう一度！
 
 ---
 
@@ -15469,7 +15469,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-本当に、ナーサリー・ライムなんだね|
+本当に、ナーサリー・ライムなんだね
  
 
 ---
@@ -15628,7 +15628,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ひとりきりは流石に無茶{(M)だ/(F)だよ}|
+ひとりきりは流石に無茶{(M)だ/(F)だよ}
 
 ---
 
@@ -15743,7 +15743,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……ちゃんと話せなかったけど|
+……ちゃんと話せなかったけど
  
 
 ---
@@ -15752,7 +15752,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-アナタの真実は知って{(M)います/(F)いるよ}、パラケルスス|
+アナタの真実は知って{(M)います/(F)いるよ}、パラケルスス
  
 
 ---
@@ -15866,7 +15866,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-よくわからないけど|
+よくわからないけど
 
 ---
 
@@ -15966,7 +15966,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（そうそう）|
+（そうそう）
  
 **Sakata Kintoki:**
 （へえ）
@@ -16005,7 +16005,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……！|
+……！
 
 ---
 
@@ -16034,7 +16034,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（すごいな、源氏の武者……）|
+（すごいな、源氏の武者……）
  
 
 ---
@@ -16058,7 +16058,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（否定出来ずにいる……！？）|
+（否定出来ずにいる……！？）
  
 **Nursery Rhyme:**
 ふふ！
@@ -16091,7 +16091,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（それはカルデアの金時だろうけど）|
+（それはカルデアの金時だろうけど）
 
 ---
 
@@ -16171,7 +16171,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（……聞こえてきちゃった）|
+（……聞こえてきちゃった）
  
 
 ---
@@ -16180,7 +16180,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（そういえば、金時は）|
+（そういえば、金時は）
 
 ---
 
@@ -16206,7 +16206,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（待ってその話気になる）|
+（待ってその話気になる）
  
 **Danzo:**
 （え、ええと、具体的にはどんな話だったか……）
@@ -16248,7 +16248,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（段蔵さんはぽんこつじゃないよ）|
+（段蔵さんはぽんこつじゃないよ）
  
 **Danzo:**
 （かたじけない、マスター）
@@ -16290,7 +16290,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-相違あり！|
+相違あり！
 
 ---
 
@@ -16361,7 +16361,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……はい|
+……はい
  
 
 ---
@@ -16403,7 +16403,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-確かに、はっきりとした証拠はありません|
+確かに、はっきりとした証拠はありません
 
 ---
 
@@ -16450,7 +16450,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-！！！|
+！！！
  
 
 ---
@@ -16474,7 +16474,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-本気で言っているのは、分かるよ|
+本気で言っているのは、分かるよ
  
 
 ---
@@ -16486,7 +16486,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……止めたいけど、きっと止められない|
+……止めたいけど、きっと止められない
  
 
 ---
@@ -16516,7 +16516,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（頷く）|
+（頷く）
  
 
 ---
@@ -16591,7 +16591,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時|
+金時
 
 ---
 
@@ -16709,7 +16709,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-…………？|
+…………？
  
 
 ---
@@ -16907,7 +16907,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-小鬼の足跡……|
+小鬼の足跡……
  
 
 ---
@@ -16943,7 +16943,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-綱さん……|
+綱さん……
  
 
 ---
@@ -17012,7 +17012,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-やったね、金時！|
+やったね、金時！
 
 ---
 
@@ -17095,7 +17095,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ありがとう|
+ありがとう
 
 ---
 
@@ -17127,7 +17127,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-世界を取り戻すために|
+世界を取り戻すために
  
 
 ---
@@ -17718,7 +17718,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-なにか、微妙に違う気もするけど、|
+なにか、微妙に違う気もするけど、
 
 ---
 
@@ -17780,7 +17780,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-香子さん！|
+香子さん！
  
 **Fujiwara no Kaoriko:**
 は、はいっ……香子です……！
@@ -17914,7 +17914,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ぜんぶ、聞かれていた？|
+ぜんぶ、聞かれていた？
  
 **空中の文字:**
 その必要があると認識しましたからね。
@@ -17965,7 +17965,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-安倍晴明さん、もしかして|
+安倍晴明さん、もしかして
 
 ---
 
@@ -18000,7 +18000,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-亜種空想樹……|
+亜種空想樹……
  
 
 ---
@@ -18099,7 +18099,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-<ruby><rb>歳殺神</rb><rt>さいせつじん</rt></ruby>、<ruby><rb>豹尾神</rb><rt>ひょうびじん</rt></ruby>は|
+<ruby><rb>歳殺神</rb><rt>さいせつじん</rt></ruby>、<ruby><rb>豹尾神</rb><rt>ひょうびじん</rt></ruby>は
 
 ---
 
@@ -18155,7 +18155,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-つまり|
+つまり
  
 
 ---
@@ -18164,7 +18164,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-どういうこと？|
+どういうこと？
  
 
 ---
@@ -18254,7 +18254,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-{(M)自分/(F)わたし}も勿論行きます！|
+{(M)自分/(F)わたし}も勿論行きます！
  
 
 ---
@@ -18263,7 +18263,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-リンボにこれ以上の好き勝手はさせない|
+リンボにこれ以上の好き勝手はさせない
  
 
 ---
@@ -18317,7 +18317,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-源氏進軍！|
+源氏進軍！
  
 
 ---
@@ -18337,7 +18337,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-英霊剣豪と、同じ……！|
+英霊剣豪と、同じ……！
 
 ---
 
@@ -18378,7 +18378,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-これが平安武者！|
+これが平安武者！
 
 ---
 
@@ -18471,7 +18471,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-………………！|
+………………！
  
 
 ---
@@ -18480,7 +18480,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-俵藤太！　鈴鹿御前！|
+俵藤太！　鈴鹿御前！
  
 
 ---
@@ -18591,7 +18591,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-…………源氏進軍！|
+…………源氏進軍！
  
 
 ---
@@ -18695,7 +18695,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-やっぱり、あの赤い目は|
+やっぱり、あの赤い目は
 
 ---
 
@@ -18931,7 +18931,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-俵藤太、鈴鹿御前の本気……|
+俵藤太、鈴鹿御前の本気……
  
 
 ---
@@ -18940,7 +18940,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-{(M)オレ/(F)わたし}も、覚悟を決めないと……！|
+{(M)オレ/(F)わたし}も、覚悟を決めないと……！
  
 
 ---
@@ -19047,7 +19047,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-真名解放……！|
+真名解放……！
 
 ---
 
@@ -19145,7 +19145,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（大きく頷く）|
+（大きく頷く）
  
 
 ---
@@ -19157,7 +19157,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（晴明の符を二枚、放る！）|
+（晴明の符を二枚、放る！）
  
 
 ---
@@ -19335,7 +19335,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-遠くから短文をどんどん送ったりするのは|
+遠くから短文をどんどん送ったりするのは
 
 ---
 
@@ -19394,7 +19394,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-今度も二騎同時に来ているんだね|
+今度も二騎同時に来ているんだね
  
 **空中の文字:**
 目の付け所が鋭い。必要な英霊の魂は三つであることを考えれば、
@@ -19606,7 +19606,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>……|
+<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>……
  
 **Danzo:**
 上総の<ruby><rb>惡七兵衛景清</rb><rt>あくしちびょうえかげきよ</rt></ruby>。転じて、<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>。源平合戦の後、何処かに落ち延びて各地に出没し、
@@ -19723,7 +19723,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-！！|
+！！
  
 
 ---
@@ -19732,7 +19732,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-牛若丸……あの牛若……！？|
+牛若丸……あの牛若……！？
  
 
 ---
@@ -19750,7 +19750,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-牛若丸のオルタだとしても……|
+牛若丸のオルタだとしても……
 
 ---
 
@@ -19776,7 +19776,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-源義経、幼名を牛若丸|
+源義経、幼名を牛若丸
 
 ---
 
@@ -19958,7 +19958,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-当然！|
+当然！
  
 **Sakata Kintoki:**
 有り難ぇ！
@@ -19999,7 +19999,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（赤い月は好きになれない！）|
+（赤い月は好きになれない！）
 
 ---
 
@@ -20007,7 +20007,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（と、空中で喋る余裕があるワケがない！）|
+（と、空中で喋る余裕があるワケがない！）
 
 ---
 
@@ -20021,7 +20021,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（黙って親指を立てる）|
+（黙って親指を立てる）
  
 
 ---
@@ -20054,7 +20054,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ちょっと早いかもしれないけど|
+ちょっと早いかもしれないけど
 
 ---
 
@@ -20077,7 +20077,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-それは|
+それは
 
 ---
 
@@ -20112,7 +20112,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-いや|
+いや
  
 
 ---
@@ -20121,7 +20121,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-それは何かおかしい|
+それは何かおかしい
 
 ---
 
@@ -20156,7 +20156,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-酒呑童子は……|
+酒呑童子は……
 
 ---
 
@@ -20422,7 +20422,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時？|
+金時？
 
 ---
 
@@ -20457,7 +20457,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-これは……！|
+これは……！
  
 
 ---
@@ -20526,7 +20526,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-源氏を殺す敵がいる{(M)んだ/(F)の}|
+源氏を殺す敵がいる{(M)んだ/(F)の}
  
 
 ---
@@ -20699,7 +20699,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-今、放り投げてきたのは……|
+今、放り投げてきたのは……
 
 ---
 
@@ -20746,7 +20746,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-無理に動かないで|
+無理に動かないで
 
 ---
 
@@ -20759,7 +20759,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-礼装起動|
+礼装起動
  
 
 ---
@@ -20798,7 +20798,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-わけが|
+わけが
 
 ---
 
@@ -20896,7 +20896,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-&mdash;もう、子供じゃない|
+&mdash;もう、子供じゃない
  
 
 ---
@@ -20905,7 +20905,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-法的に未成年かどうかは|
+法的に未成年かどうかは
 
 ---
 
@@ -20940,7 +20940,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-帰るために|
+帰るために
  
 
 ---
@@ -20949,7 +20949,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-世界を、取り戻すために|
+世界を、取り戻すために
  
 
 ---
@@ -21275,7 +21275,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……了解|
+……了解
  
 
 ---
@@ -21284,7 +21284,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-源氏進軍！|
+源氏進軍！
  
 
 ---
@@ -21373,7 +21373,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（晴明の符を一枚、放る！）|
+（晴明の符を一枚、放る！）
 
 ---
 
@@ -21572,7 +21572,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>！|
+<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>！
  
 
 ---
@@ -21581,7 +21581,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-{(M)キミ/(F)アナタ}はやっぱり、{(M)自分/(F)わたし}の知る英霊によく似てる|
+{(M)キミ/(F)アナタ}はやっぱり、{(M)自分/(F)わたし}の知る英霊によく似てる
  
 
 ---
@@ -21811,7 +21811,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（戦いを見つめる）|
+（戦いを見つめる）
  
 
 ---
@@ -21859,7 +21859,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-令呪を以て！|
+令呪を以て！
 
 ---
 
@@ -21867,7 +21867,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-我らの戦いに誓う！|
+我らの戦いに誓う！
 
 ---
 
@@ -21875,7 +21875,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-&mdash;勝利を！|
+&mdash;勝利を！
  
 
 ---
@@ -21989,7 +21989,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-勝ったね、金時|
+勝ったね、金時
  
 **Sakata Kintoki:**
 おう。大将。
@@ -22034,7 +22034,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-あえて断る|
+あえて断る
 
 ---
 
@@ -22060,7 +22060,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-待った！|
+待った！
 
 ---
 
@@ -22101,7 +22101,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-死なないよ|
+死なないよ
 
 ---
 
@@ -22109,7 +22109,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-だから、このまま進んでいこう|
+だから、このまま進んでいこう
 
 ---
 
@@ -22328,7 +22328,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-大江山は数時間前に行ったばかりだけど|
+大江山は数時間前に行ったばかりだけど
 
 ---
 
@@ -22387,7 +22387,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-つまり、これからやって来る敵は|
+つまり、これからやって来る敵は
 
 ---
 
@@ -22458,7 +22458,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-茨木がどうして！？|
+茨木がどうして！？
 
 ---
 
@@ -22514,7 +22514,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-源氏進軍！|
+源氏進軍！
  
 
 ---
@@ -22615,7 +22615,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-見えない魔力の凝集！|
+見えない魔力の凝集！
 
 ---
 
@@ -22764,7 +22764,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……名前くらいは{(M)自分/(F)わたし}も知ってる！|
+……名前くらいは{(M)自分/(F)わたし}も知ってる！
  
 **Danzo:**
 日の本最大最高の災害竜！三大化生の一角！
@@ -22806,7 +22806,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-伊吹童子&mdash;|
+伊吹童子&mdash;
  
 
 ---
@@ -22860,7 +22860,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-この感じは前にも一度！|
+この感じは前にも一度！
 
 ---
 
@@ -22868,7 +22868,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-きっと、大神ゼウスのアレに近い……！|
+きっと、大神ゼウスのアレに近い……！
 
 ---
 
@@ -23008,7 +23008,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-戦闘準備！|
+戦闘準備！
 
 ---
 
@@ -23171,7 +23171,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-体、が……|
+体、が……
  
 
 ---
@@ -23180,7 +23180,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-動かない……！|
+動かない……！
  
 
 ---
@@ -23496,7 +23496,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-空想樹が|
+空想樹が
  
 
 ---
@@ -23505,7 +23505,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-開いた……！|
+開いた……！
  
 
 ---
@@ -23631,7 +23631,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（金時！）|
+（金時！）
 
 ---
 
@@ -23654,7 +23654,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-アルターエゴ・リンボ！|
+アルターエゴ・リンボ！
  
 
 ---
@@ -23702,7 +23702,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（無言）|
+（無言）
  
 **黄幡神・蘆屋道満:**
 ンンンンふふふふふふふふふふふふ。
@@ -23792,7 +23792,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-亜種空想樹を開花させて|
+亜種空想樹を開花させて
 
 ---
 
@@ -23839,7 +23839,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-自分だけの『異星の神』……？|
+自分だけの『異星の神』……？
  
 
 ---
@@ -23848,7 +23848,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-何を……|
+何を……
 
 ---
 
@@ -24038,7 +24038,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ちょっと痺れたけど大丈夫！|
+ちょっと痺れたけど大丈夫！
 
 ---
 
@@ -24079,7 +24079,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（頷く）|
+（頷く）
  
 
 ---
@@ -24088,7 +24088,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-何がどうあってもリンボはここで止める！|
+何がどうあってもリンボはここで止める！
  
 
 ---
@@ -24202,7 +24202,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-空想樹の種子！|
+空想樹の種子！
  
 
 ---
@@ -24214,7 +24214,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-弱くはない|
+弱くはない
 
 ---
 
@@ -24299,7 +24299,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門へ！|
+<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門へ！
  
 
 ---
@@ -24340,7 +24340,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-源氏進軍！|
+源氏進軍！
 
 ---
 
@@ -24384,7 +24384,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-！！|
+！！
  
 
 ---
@@ -24489,7 +24489,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-？|
+？
  
 
 ---
@@ -24498,7 +24498,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-地鳴りと揺れはあるけど|
+地鳴りと揺れはあるけど
 
 ---
 
@@ -24551,7 +24551,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-香子さん！？|
+香子さん！？
 
 ---
 
@@ -24640,7 +24640,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-人類悪|
+人類悪
  
 
 ---
@@ -24649,7 +24649,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-それは人類を滅ぼす悪じゃない|
+それは人類を滅ぼす悪じゃない
 
 ---
 
@@ -24809,7 +24809,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-金時|
+金時
  
 
 ---
@@ -24818,7 +24818,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-戦う理由、見付けられたみたいだね|
+戦う理由、見付けられたみたいだね
  
 
 ---
@@ -24959,7 +24959,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ゴールデン・ヒュージ・ベアー号！|
+ゴールデン・ヒュージ・ベアー号！
  
 
 ---
@@ -25148,7 +25148,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-当然！　思い切りバッサリいこう！|
+当然！　思い切りバッサリいこう！
 
 ---
 
@@ -25156,7 +25156,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-リンボはこっちに任せて、金時は空想樹を！|
+リンボはこっちに任せて、金時は空想樹を！
 
 ---
 
@@ -25271,7 +25271,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に、令呪二つを重ねて|
+<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に、令呪二つを重ねて
 
 ---
 
@@ -25279,7 +25279,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-我らの戦いに誓う|
+我らの戦いに誓う
  
 
 ---
@@ -25288,7 +25288,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-断て！　ゴールデン・ベアー号！|
+断て！　ゴールデン・ベアー号！
  
 
 ---
@@ -25432,7 +25432,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-リンボ|
+リンボ
  
 
 ---
@@ -25441,7 +25441,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-もういい|
+もういい
  
 
 ---
@@ -25450,7 +25450,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-&mdash;さよなら、だ！|
+&mdash;さよなら、だ！
  
 
 ---
@@ -25686,7 +25686,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-伊吹童子とは|
+伊吹童子とは
 
 ---
 
@@ -25724,7 +25724,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-それは会ってみたいかな！|
+それは会ってみたいかな！
 
 ---
 
@@ -25753,7 +25753,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（本当に冗談なんだろうけど）|
+（本当に冗談なんだろうけど）
 
 ---
 
@@ -25776,7 +25776,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-たくさんの場所を見てきたよ|
+たくさんの場所を見てきたよ
 
 ---
 
@@ -25811,7 +25811,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-色々大変ではあったけど|
+色々大変ではあったけど
 
 ---
 
@@ -25831,7 +25831,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-それもあるにはあるけど……|
+それもあるにはあるけど……
 
 ---
 
@@ -25848,7 +25848,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-久しぶりに&mdash;|
+久しぶりに&mdash;
  
 
 ---
@@ -25857,7 +25857,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-がむしゃらに、頑張れたなって|
+がむしゃらに、頑張れたなって
  
 
 ---
@@ -26117,7 +26117,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-あれ？|
+あれ？
  
 
 ---
@@ -26126,7 +26126,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-{(M)自分/(F)わたし}がこの時代の人間じゃないって|
+{(M)自分/(F)わたし}がこの時代の人間じゃないって
 
 ---
 
@@ -26152,7 +26152,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-気付かなかった！|
+気付かなかった！
 
 ---
 
@@ -26352,7 +26352,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-まあまあ|
+まあまあ
  
 **Sakata Kintoki:**
 ぐぬぬぬぬぬ！
@@ -26421,7 +26421,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（金時の瞳を見る）|
+（金時の瞳を見る）
  
 
 ---
@@ -26430,7 +26430,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-（頷く）|
+（頷く）
  
 
 ---
@@ -26445,7 +26445,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ダ・ヴィンチちゃん！|
+ダ・ヴィンチちゃん！
 
 ---
 
@@ -26483,7 +26483,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-了解|
+了解
 
 ---
 
@@ -26515,7 +26515,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-力を貸してくれてありがとう|
+力を貸してくれてありがとう
  
 **Sakata Kintoki:**
 ソイツはこっちの言の葉だ、大将！
@@ -26575,7 +26575,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-…………|
+…………
 
 ---
 
@@ -26601,7 +26601,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ゴールデン&mdash;|
+ゴールデン&mdash;
  
 
 ---
@@ -26610,7 +26610,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-その言葉も、金時の記憶には残らないんだ|
+その言葉も、金時の記憶には残らないんだ
 
 ---
 
@@ -26618,7 +26618,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ごめん|
+ごめん
  
 
 ---
@@ -26645,7 +26645,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-……わかった！|
+……わかった！
  
 **Sakata Kintoki:**
 頼むぜ！
@@ -26903,7 +26903,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ただいま、マシュ|
+ただいま、マシュ
  
 **Mash:**
 はい。改めて、おかえりなさい先輩。
@@ -26990,7 +26990,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ありがとう、ダ・ヴィンチちゃん|
+ありがとう、ダ・ヴィンチちゃん
  
 **Da Vinci:**
 いつもの二倍えらいから、頭を撫でてあげよう。
@@ -27029,7 +27029,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-後で挨拶をします|
+後で挨拶をします
  
 **Holmes:**
 本当に後でいいさ。まずは、休みたまえ。
@@ -27086,7 +27086,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-それはもちろん|
+それはもちろん
  
 
 ---
@@ -27095,7 +27095,7 @@ We’re looking for our prey.Our Casters.
 ---
 
 **Fujimaru 1:**
-ゴールデン！　だったよ！|
+ゴールデン！　だったよ！
  
 
 ---
@@ -27103,4 +27103,3 @@ We’re looking for our prey.Our Casters.
  
 **Fou:**
 フォーーールデン！
-</div>
