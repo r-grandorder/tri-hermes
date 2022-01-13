@@ -770,16 +770,16 @@ The blizzard has come and gone.Now all that remains is clear blue sky.
 
 Before long, the pale blue is marked by the single black dot of an approaching helicopter. The helicopter brings important passengers, and the harsh reality that the end is close at hand.
 
-**P.A. System</b>
+**P.A. System**
 ...Forty-four visitors cleared and registered.</span>
  
-**P.A. System</b>
+**P.A. System**
 All entrants are permitted to enter Chaldea by special exemption granted by the Association Board of Safety.</span>
  
-**P.A. System</b>
+**P.A. System**
 Opening front gate.Welcome, Goredolf Musik.</span>
  
-**P.A. System</b>
+**P.A. System**
 Welcome, UN inspectors.On behalf of Chaldea, we thank you for coming.</span>
  
 ---
@@ -1907,13 +1907,13 @@ You ARE the Master who prevented the Incineration of Humanity. Your instincts mu
 ---
 
  
-**P.A. System</b>
+**P.A. System**
 Operation complete.Coffin thawing: successful.</span>
  
-**P.A. System</b>
+**P.A. System**
 The Coffins will be released in three minutes.</span>
  
-**P.A. System</b>
+**P.A. System**
 Father Kotomine, please report to the Command Room. We are about to begin the resuscitation procedure.</span>
  
 **Mash:**
@@ -1947,10 +1947,10 @@ Come now.You really don't know?
 All the miracles you performed are about to be destroyed at the hands of the very paragon of mediocrity.
 
  
-**P.A. System</b>
+**P.A. System**
 Operation complete.Coffin thawing: successful.</span>
  
-**P.A. System</b>
+**P.A. System**
 The Coffins will be released in three minutes.</span>
  
 **Goredolf:**
@@ -2100,13 +2100,13 @@ What's going on...? N-nobody told me this sort of thing was going to happen!
 **Goredolf:**
 Koyanskaya!Where did Koyanskaya go!?
  
-**P.A. System</b>
+**P.A. System**
 Attention all staff!Attention all staff!</span>
  
-**P.A. System</b>
+**P.A. System**
 Front and inner gates have all been shut down.</span>
  
-**P.A. System</b>
+**P.A. System**
 All exit routes currently inaccessible.Please wait until functionality is restored.</span>
  
 **Chaldea Staff:**
@@ -4045,19 +4045,19 @@ The end of human history...?
 **Chaldea Staff:**
 NOW what is it!?
  
-**P.A. System</b>
+**P.A. System**
 Emergency from the computer room!Emergency from the computer room!</span>
  
-**P.A. System</b>
+**P.A. System**
 Hey there! It's me, Da Vinci,the one controlling the Border all by my lonesome☆</span>
  
-**P.A. System</b>
+**P.A. System**
 We're less than two thousand meters away from the coast now, but I'm afraid we've got a little problem to deal with first.</span>
  
-**P.A. System</b>
+**P.A. System**
 I'm picking up a TON of Spirit Origin signals up ahead. It's more of the soldiers that attacked Chaldea.</span>
  
-**P.A. System</b>
+**P.A. System**
 I'm counting about... Well, see for yourself!As they say, a picture's worth a thousand words!</span>
 
  
@@ -4084,10 +4084,10 @@ They're covering the entire coastline...
 ---
 
  
-**P.A. System</b>
+**P.A. System**
 There's no way our Border here can break through a group like that. If we try to charge them, we'll all be dead way before we hit the water!</span>
  
-**P.A. System</b>
+**P.A. System**
 Holmes! Hard right! We'll have to give up on the ship and try for another observatory!</span>
  
 **Holmes:**
@@ -4173,28 +4173,28 @@ If all we wish to do is make it out of this predicament alive, I have no doubt t
 **Holmes:**
 But, if you have your sights set further than that, this is the one I recommend. I believe it will aid us in fighting this adversary in the future.
  
-**P.A. System</b>
+**P.A. System**
 ...Understood. Expanding Void-Reality Observation Device: Paper Moon.</span>
  
-**P.A. System</b>
+**P.A. System**
 Expanding Logic Formula on Shadow Border's external armor. Removing existence verification for Reality Space.</span>
  
-**P.A. System</b>
+**P.A. System**
 Future prediction: hypothetically prove mirror world plane in twenty seconds. Relaxing space-time friction decompression for 0.6 seconds.</span>
  
-**P.A. System</b>
+**P.A. System**
 ...Emergency processes, all green. Looking good, Holmes! We're all set for our maiden voyage!</span>
  
-**P.A. System</b>
+**P.A. System**
 Now then, a little heads-up for those of you in the cockpit!</span>
  
-**P.A. System</b>
+**P.A. System**
 Your souls will almost leave your body for a moment, but don't worry, you'll be fine! It's just your average out-of-body experience!</span>
  
-**P.A. System</b>
+**P.A. System**
 But if you find yourself saying stuff like “I-I'm floating?” or “Is that my own body I'm looking at?”...</span>
  
-**P.A. System</b>
+**P.A. System**
 ...just reach out, grab your body, and hold on for dear life! As long as you do that, you'll come out the other end alive!</span>
  
 **Goredolf:**
@@ -4220,38 +4220,38 @@ Just another day at the office.
 ---
 
  
-**P.A. System</b>
+**P.A. System**
 Now that's the Fujimaru I know!Then without further ado, let's get started.</span>
  
-**P.A. System</b>
+**P.A. System**
 Although this Phenomenon Intervention Method we're about to attempt is one of the first Chaldea ever devised, we banned its use because of its extreme difficulty and danger.</span>
  
-**P.A. System</b>
+**P.A. System**
 You know how Rayshifting involves breaking a Master down into Spiritrons and outputting them into space-time as numeric values? Well, this way of traveling through space is the exact opposite.</span>
  
-**P.A. System</b>
+**P.A. System**
 We'll be slipping through a crack in this world into a Sea of Time, completely erasing our existence from reality.</span>
  
-**P.A. System</b>
+**P.A. System**
 ...We have a lot on our plates right now. An adversary that attacked Chaldea. Those things that fell from space. The Crypters.</span>
  
-**P.A. System</b>
+**P.A. System**
 Like Mash said, we don't know WHAT'S going on right now.</span>
  
-**P.A. System</b>
+**P.A. System**
 But one thing we know for sure is that they're all enemies&ndash;threats to humanity that even destroyed Chaldea.</span>
  
-**P.A. System</b>
+**P.A. System**
 If we're going to do something about all this, we'll have to start breaking even more forbidden taboos.</span>
  
-**P.A. System</b>
+**P.A. System**
 We are NOT handing over the future we worked so hard to take back to a bunch of newcomers we don't know the first thing about.</span>
  
-**P.A. System</b>
+**P.A. System**
 So first, we find a way out of this mess.Then, we strike back.</span>
  
-**P.A. System</b>
+**P.A. System**
 Well, let's get going, Master Fujimaru.We have a new weapon, and a new course ahead of us...</span>
  
 **P.A. System:**
-<span style=color:blue>Shadow Border, untether from reality.Void Space Dive, Zero Sail: unfurl!</span>
+Shadow Border, untether from reality.Void Space Dive, Zero Sail: unfurl!</span>
