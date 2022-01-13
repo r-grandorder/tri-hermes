@@ -1,4 +1,4 @@
-# Final Singularity: The Grand Temple of Time - Solomon
+#Final Singularity: The Grand Temple of Time - Solomon
 
 ![Solomon](https://i.imgur.com/g9gUZK3.png)
 
@@ -536,7 +536,7 @@ Why? Because that was what everyone was foolish enough to see you as.
 ---
 
 **Fujimaru 1:**
-...Okay, it's time.|
+...Okay, it's time.
  
 
 ---
@@ -581,7 +581,7 @@ For one thing&mdash;
 ---
 
 **Fujimaru 1:**
-I think Mash knows.|
+I think Mash knows.
  
 
 ---
@@ -614,7 +614,7 @@ Or would you like to go to the cafeteria and get a sandwich for some quick nouri
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -649,7 +649,7 @@ Fujimaru, you are the best Master Chaldea has, and I'm very proud of you.
 ---
 
 **Fujimaru 1:**
-Mash...|
+Mash...
  
 
 ---
@@ -667,7 +667,7 @@ Fou. Fooou...
 ---
 
 **Fujimaru 1:**
-(Fou is staring right at me...?)|
+(Fou is staring right at me...?)
  
 
 ---
@@ -682,7 +682,7 @@ Fou. Fooou...
 ---
 
 **Fujimaru 1:**
-...(I see...)|
+...(I see...)
 
 ---
 
@@ -696,7 +696,7 @@ Fou. Fooou...
 ---
 
 **Fujimaru 1:**
-...Mash, you should stay in Chaldea.|
+...Mash, you should stay in Chaldea.
  
 
 ---
@@ -714,7 +714,7 @@ If you're going to fight, I want to fight too.Even if it shortens the small amou
 ---
 
 **Fujimaru 1:**
-Mash...|
+Mash...
 
 ---
 
@@ -752,7 +752,7 @@ Even if I only have a few more months left to live, I want to be proud of what I
 ---
 
 **Fujimaru 1:**
-...But that's...|
+...But that's...
 
 ---
 
@@ -808,7 +808,7 @@ To prevent the Incineration of Humanity, to show the value of human life, and to
 ---
 
 **Fujimaru 1:**
-...I'm sorry. Let's go, Mash!|
+...I'm sorry. Let's go, Mash!
 
 ---
 
@@ -840,7 +840,7 @@ Y-yes. I was lucky enough to run into Senpai in the hallway again today.
 ---
 
 **Fujimaru 1:**
-It's a good sign.|
+It's a good sign.
  
 **Dr. Roman:**
 Ah, like a good luck ritual. It's one of those everyday things you do to help you succeed...
@@ -894,7 +894,7 @@ In other words, this is a surprise landing operation! Crazy, like Normandy!
 ---
 
 **Fujimaru 1:**
-Just like always!|
+Just like always!
 
 ---
 
@@ -929,7 +929,7 @@ First, besiege the enemy temple; second, defeat the King of Mages; and third, re
 ---
 
 **Fujimaru 1:**
-Besiege the temple...|
+Besiege the temple...
 
 ---
 
@@ -1003,7 +1003,7 @@ Once the King of Mages is gone, this Singularity will disappear. In other words&
 ---
 
 **Fujimaru 1:**
-We need to run back as the Singularity collapses?|
+We need to run back as the Singularity collapses?
  
 
 ---
@@ -1048,7 +1048,7 @@ Afterward, escape the collapsing throne, and return to Chaldea via the contact p
 ---
 
 **Fujimaru 1:**
-None.|
+None.
  
 
 ---
@@ -1099,7 +1099,7 @@ The Grand Temple of Time, Reality Marble Solomon.
 ---
 
 **Fujimaru 1:**
-Dr. Roman?|
+Dr. Roman?
  
 
 ---
@@ -1129,7 +1129,7 @@ Please, put an end to his absurd scheme. Prove that an endeavor as hollow as Sol
 ---
 
 **Fujimaru 1:**
-... (Nod silently)|
+... (Nod silently)
  
 
 ---
@@ -1254,7 +1254,7 @@ But we encountered strange interference we've never experienced before during th
 ---
 
 **Fujimaru 1:**
-...It was the same image I saw in Uruk.|
+...It was the same image I saw in Uruk.
 
 ---
 
@@ -1292,7 +1292,7 @@ You are...!
 ---
 
 **Fujimaru 1:**
-Lev Lainur!|
+Lev Lainur!
  
 
 ---
@@ -1476,7 +1476,7 @@ What? Is that true, Senpai?You saved the Doctor's life...?
 ---
 
 **Fujimaru 1:**
-We were just shooting the breeze.|
+We were just shooting the breeze.
 
 ---
 
@@ -1514,7 +1514,7 @@ Lev Lainur has transformed into a Demon God Pillar! Master, your orders, please!
 ---
 
 **Fujimaru 1:**
-Let's defeat Lev and head to the Throne!|
+Let's defeat Lev and head to the Throne!
 
 ---
 
@@ -1542,7 +1542,7 @@ An entirely new Flauros has been born...!
 ---
 
 **Fujimaru 1:**
-When will this end!?|
+When will this end!?
 
 ---
 
@@ -1632,7 +1632,7 @@ We're not getting any transmissions from Chaldea...! Master, what should we do..
 ---
 
 **Fujimaru 1:**
-...No.|
+...No.
 
 ---
 
@@ -1692,7 +1692,7 @@ Senpai...!
 ---
 
 **Fujimaru 1:**
-Mash...!|
+Mash...!
 
 ---
 
@@ -1706,7 +1706,7 @@ Mash...!|
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -1715,7 +1715,7 @@ Mash...!|
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -1724,7 +1724,7 @@ Mash...!|
 ---
 
 **Fujimaru 1:**
-...Maybe...|
+...Maybe...
  
 
 ---
@@ -1733,7 +1733,7 @@ Mash...!|
 ---
 
 **Fujimaru 1:**
-...It was all pointless, after all...|
+...It was all pointless, after all...
  
 
 ---
@@ -1791,7 +1791,7 @@ No, that wasn't me. That was&mdash;
 ---
 
 **Fujimaru 1:**
-Yes, that was...!|
+Yes, that was...!
  
 
 ---
@@ -1827,7 +1827,7 @@ Ten, twenty, thirty Spirit Origin signatures!And still increasing! Fujimaru, thi
 ---
 
 **Fujimaru 1:**
-I know that banner...!|
+I know that banner...!
 
 ---
 
@@ -1954,7 +1954,7 @@ I have confirmed the presence of nine enemy pillars...!I am not sure we can take
 ---
 
 **Fujimaru 1:**
-Yeah, this might be too much for us...!|
+Yeah, this might be too much for us...!
 
 ---
 
@@ -2264,7 +2264,7 @@ May the Lord bless and protect you on that path!
 ---
 
 **Fujimaru 1:**
-Of course! Count on us!|
+Of course! Count on us!
 
 ---
 
@@ -3095,7 +3095,7 @@ Forward! Conquer! Your advance will open up the path to tomorrow's world, to Rom
 ---
 
 **Fujimaru 1:**
-To Rome!|
+To Rome!
 
 ---
 
@@ -4473,7 +4473,7 @@ I don't know how many times this line has been used. That line has been repeated
 ---
 
 **Fujimaru 1:**
-You mean...|
+You mean...
  
 **Andersen:**
 Yes, THAT, you imbecile!
@@ -4500,7 +4500,7 @@ So, leave this to us and go forth...!
 ---
 
 **Fujimaru 1:**
-I'm counting on all of you!|
+I'm counting on all of you!
 
 ---
 
@@ -5342,7 +5342,7 @@ I'm gonna have you show me ALL of your powers as my very first disciple!
 ---
 
 **Fujimaru 1:**
-Yes, ma'am!|
+Yes, ma'am!
 
 ---
 
@@ -5433,7 +5433,7 @@ For the remaining few minutes, we will do everything to hold off those monsters.
 ---
 
 **Fujimaru 1:**
-&mdash;Thank you! We leave it to you guys!|
+&mdash;Thank you! We leave it to you guys!
  
 **Ozymandias:**
 Of course, leave it to us! I cannot just let the Round Table take our thunder!
@@ -5540,7 +5540,7 @@ Gorgon!? You're going to help us too...!?
 ---
 
 **Fujimaru 1:**
-Is that you, Ana...?|
+Is that you, Ana...?
  
 **Ana:**
 ...I do not know the name Ana, but if you mean me, I am here.
@@ -5612,7 +5612,7 @@ I just came here because the Heroic Spirits who fell at least once to my underwo
 ---
 
 **Fujimaru 1:**
-Ereshkigal...!|
+Ereshkigal...!
  
 **Ereshkigal:**
 ... (Come on, be calm! Play this cool. Just be cool!)
@@ -5843,7 +5843,7 @@ Ushiwakamaru is correct. We the ambassadors of Chaldea shall take care of things
 ---
 
 **Fujimaru 1:**
-Thanks, everyone!|
+Thanks, everyone!
 
 ---
 
@@ -5922,7 +5922,7 @@ You make me laugh, Demon Gods! You, who have forgotten even the despair of being
 ---
 
 **Fujimaru 1:**
-That voice...!|
+That voice...!
 
 ---
 
@@ -5954,7 +5954,7 @@ I came here from beyond love and hatred to laugh at my co-conspirator!
 ---
 
 **Fujimaru 1:**
-The Count of Monte Cristo...!|
+The Count of Monte Cristo...!
 
 ---
 
@@ -6007,7 +6007,7 @@ Actually, I don't know who that Servant in the black overcoat is... An acquainta
 ---
 
 **Fujimaru 1:**
-He's from my nightmare...|
+He's from my nightmare...
  
 
 ---
@@ -6402,7 +6402,7 @@ Your one and only whim had led this sort of Heroic Spirit into my territory...!
 ---
 
 **Fujimaru 1:**
-Count...|
+Count...
 
 ---
 
@@ -6440,7 +6440,7 @@ We will all fight freely and die freely.It's no reason for you to stop here.
 ---
 
 **Fujimaru 1:**
-I'm leaving the rest to you.|
+I'm leaving the rest to you.
 
 ---
 
@@ -6584,7 +6584,7 @@ It's our one and only chance, Master!
 ---
 
 **Fujimaru 1:**
-Okay, let's go, Mash!|
+Okay, let's go, Mash!
  
 **Mash:**
 Yes! We cannot waste everyone's efforts!
@@ -6629,7 +6629,7 @@ Um... well, that's...
 ---
 
 **Fujimaru 1:**
-I want to hear it, Doctor.|
+I want to hear it, Doctor.
 
 ---
 
@@ -6730,7 +6730,7 @@ And then he created this Singularity and lived until the year 2018. Well, althou
 ---
 
 **Fujimaru 1:**
-Um, what is the “inside” then...?|
+Um, what is the “inside” then...?
 
 ---
 
@@ -6771,7 +6771,7 @@ Of course it is, Doctor.I have no regrets, even to the very end.
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -6829,7 +6829,7 @@ We discussed this. We reached a decision.
 ---
 
 **Fujimaru 1:**
-The King of Mages' throne&mdash;|
+The King of Mages' throne&mdash;
  
 
 ---
@@ -6877,7 +6877,7 @@ We were putting the finishing touches on the Virtual First Noble Phantasm, “Ar
 ---
 
 **Fujimaru 1:**
-First virtual Noble Phantasm...?|
+First virtual Noble Phantasm...?
  
 **Mash:**
 Like me, he didn't know his Noble Phantasm's True Name... Then this King Solomon is&mdash;
@@ -6994,7 +6994,7 @@ And you will die miserably! Cling to your insignificant lives for the brief mome
 ---
 
 **Fujimaru 1:**
-Just who are you, Solomon...!?|
+Just who are you, Solomon...!?
 
 ---
 
@@ -7068,7 +7068,7 @@ Master, I await your orders! By your will, I'll crush Solomon, the King of Mages
 ---
 
 **Fujimaru 1:**
-Yeah, let's go, Mash!|
+Yeah, let's go, Mash!
  
 
 ---
@@ -7097,7 +7097,7 @@ I'm getting an abnormal reading on King Solomon's Spirit Origin...! Master, be c
 ---
 
 **Fujimaru 1:**
-Yeah, I know...!|
+Yeah, I know...!
  
 
 ---
@@ -7183,7 +7183,7 @@ A living summoning spell that hid itself inside King Solomon's corpse after his 
 ---
 
 **Fujimaru 1:**
-Then it gained a will and incarnated!|
+Then it gained a will and incarnated!
  
 
 ---
@@ -7267,7 +7267,7 @@ Our bands of light are the infinite accumulation of human history itself. Humans
 ---
 
 **Fujimaru 1:**
-Remake the planet...|
+Remake the planet...
 
 ---
 
@@ -7290,7 +7290,7 @@ He sees things on a whole different scale
 ---
 
 **Fujimaru 1:**
-...Mash?|
+...Mash?
  
 
 ---
@@ -7406,7 +7406,7 @@ In the end, she was simply an ordinary girl.
 ---
 
 **Fujimaru 1:**
-Mash...!|
+Mash...!
 
 ---
 
@@ -7479,7 +7479,7 @@ Don't you feel the same? The Incineration of Humanity cannot be stopped. If you'
 ---
 
 **Fujimaru 1:**
-...Mash...|
+...Mash...
 
 ---
 
@@ -7529,7 +7529,7 @@ Senpai, will you hold my hand one more time?
 ---
 
 **Fujimaru 1:**
-...Yeah. Of course.|
+...Yeah. Of course.
  
 
 ---
@@ -7556,7 +7556,7 @@ You're just getting started, Master...!Your battle isn't going to end in a place
 ---
 
 **Fujimaru 1:**
-MASH!!!|
+MASH!!!
 
 ---
 
@@ -7590,7 +7590,7 @@ Do it in memory of Mash Kyrielight. Strike me with those frail human fists of yo
 ---
 
 **Fujimaru 1:**
-Fine by me!!!|
+Fine by me!!!
 
 ---
 
@@ -7610,7 +7610,7 @@ A suicidal move isn't your style.Try to save your strength for now.
 ---
 
 **Fujimaru 1:**
-...Huh?|
+...Huh?
 
 ---
 
@@ -7699,7 +7699,7 @@ But first, I should take my gloves off.That should help everyone understand.
 ---
 
 **Fujimaru 1:**
-...Doctor, that ring on your left hand...|
+...Doctor, that ring on your left hand...
 
 ---
 
@@ -7800,7 +7800,7 @@ I thank you for that, from the bottom of my heart. Thanks to you and Mash, I was
 ---
 
 **Fujimaru 1:**
-Doctor...|
+Doctor...
 
 ---
 
@@ -7850,7 +7850,7 @@ What power do you have after death!?I'll blast that empty head of yours into obl
 ---
 
 **Fujimaru 1:**
-Doctor...!|
+Doctor...!
 
 ---
 
@@ -7947,7 +7947,7 @@ What...
 ---
 
 **Fujimaru 1:**
-What did you do!?|
+What did you do!?
  
 
 ---
@@ -7965,7 +7965,7 @@ During his lifetime, King Solomon returned his rings of omnipotence to Heaven. T
 ---
 
 **Fujimaru 1:**
-But, your body...|
+But, your body...
  
 
 ---
@@ -8001,7 +8001,7 @@ An end no human has ever reached... The complete annihilation of your being! And
 ---
 
 **Fujimaru 1:**
-...What?|
+...What?
  
 
 ---
@@ -8022,7 +8022,7 @@ The agent of God will disappear from human history. The world shall be ruled by 
 ---
 
 **Fujimaru 1:**
-...You're going to... die?|
+...You're going to... die?
  
 
 ---
@@ -8037,7 +8037,7 @@ This is the right thing to do.You and Mash taught me that.
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -8097,7 +8097,7 @@ It's a fight against death and separation in what precious little time one is gi
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -8147,7 +8147,7 @@ Now... Go, Fujimaru. Everything you and Mash have done has led you to this momen
 ---
 
 **Fujimaru 1:**
-Right... Fujimaru, entering combat!|
+Right... Fujimaru, entering combat!
 
 ---
 
@@ -8398,7 +8398,7 @@ There are three Demon God Pillars remaining.Repeat, there are&mdash;
 ---
 
 **Fujimaru 1:**
-...Goetia.|
+...Goetia.
 
 ---
 
@@ -8421,7 +8421,7 @@ Fou! Fou!
 ---
 
 **Fujimaru 1:**
-...I know. Step back, Fou.|
+...I know. Step back, Fou.
  
 
 ---
@@ -8436,7 +8436,7 @@ It pains me to ask this, but I must know, Fujimaru!
 ---
 
 **Fujimaru 1:**
-...!|
+...!
 
 ---
 
@@ -8447,7 +8447,7 @@ Third Pillar, Dantalion, has shut down.
 ---
 
 **Fujimaru 1:**
-Almost there...!|
+Almost there...!
 
 ---
 
@@ -8464,7 +8464,7 @@ Second Pillar, Andromalius, has shut down.
 ---
 
 **Fujimaru 1:**
-Keep... going...!|
+Keep... going...!
 
 ---
 
@@ -8475,7 +8475,7 @@ Why do you keep fighting so hard...!?
 ---
 
 **Fujimaru 1:**
-That's obvious...!|
+That's obvious...!
  
 
 ---
@@ -8484,7 +8484,7 @@ That's obvious...!|
 ---
 
 **Fujimaru 1:**
-That's obvious...!|
+That's obvious...!
  
 
 ---
@@ -8493,7 +8493,7 @@ That's obvious...!|
 ---
 
 **Fujimaru 1:**
-To live!!!|
+To live!!!
  
 
 ---
@@ -8570,7 +8570,7 @@ Anyway, hurry back. We can talk details after that.
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -8582,7 +8582,7 @@ Fou, fouuu!
 ---
 
 **Fujimaru 1:**
-...You're right. We need to get out of here, fast...!|
+...You're right. We need to get out of here, fast...!
  
 
 ---
@@ -8684,7 +8684,7 @@ The Rayshift point is five hundred meters ahead!Hurry!!!
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -8699,7 +8699,7 @@ Be careful, Fujimaru!The Spirit Origin right in front of you is&mdash;
 ---
 
 **Fujimaru 1:**
-...I know.|
+...I know.
 
 ---
 
@@ -8743,7 +8743,7 @@ But...
 ---
 
 **Fujimaru 1:**
-...Now you have a reason to fight.|
+...Now you have a reason to fight.
 
 ---
 
@@ -8801,7 +8801,7 @@ This brief but precious time has given the creature called Goetia true life.
 ---
 
 **Fujimaru 1:**
-...Goetia...!|
+...Goetia...!
  
 
 ---
@@ -8825,7 +8825,7 @@ Get to the Rayshift point now!I'll hold till the last possible second!
 ---
 
 **Fujimaru 1:**
-Right, I'm coming!|
+Right, I'm coming!
  
 
 ---
@@ -8834,7 +8834,7 @@ Right, I'm coming!|
 ---
 
 **Fujimaru 1:**
-...Hurry!|
+...Hurry!
  
 
 ---
@@ -8843,7 +8843,7 @@ Right, I'm coming!|
 ---
 
 **Fujimaru 1:**
-...Come on!|
+...Come on!
  
 
 ---
@@ -8852,7 +8852,7 @@ Right, I'm coming!|
 ---
 
 **Fujimaru 1:**
-Just one more step...!|
+Just one more step...!
  
 
 ---
@@ -8861,7 +8861,7 @@ Just one more step...!|
 ---
 
 **Fujimaru 1:**
-Dammit... I was so close...|
+Dammit... I was so close...
  
 
 ---
@@ -8873,7 +8873,7 @@ There's still a chance! Reach out!Senpai, grab my hand!
 ---
 
 **Fujimaru 1:**
-...! Okay!|
+...! Okay!
  
 
 ---
@@ -8989,7 +8989,7 @@ Fou! Fou... fou!
 ---
 
 **Fujimaru 1:**
-...What's that sound?|
+...What's that sound?
 
 ---
 
@@ -9006,7 +9006,7 @@ Senpai!
 ---
 
 **Fujimaru 1:**
-Mash!|
+Mash!
 
 ---
 
@@ -9026,7 +9026,7 @@ Yes, good morning, Master! I made it!
 ---
 
 **Fujimaru 1:**
-Mash... I... That is so wonderful!|
+Mash... I... That is so wonderful!
  
 **Mash:**
 Senpai, I'm glad you've returned safely, too.The Coffin didn't stabilize for about an hour.
@@ -9065,7 +9065,7 @@ Hey you two, that's enough PDA for now☆You're embarrassing the staff.
 ---
 
 **Fujimaru 1:**
-Da Vinci!|
+Da Vinci!
  
 
 ---
@@ -9101,7 +9101,7 @@ Buuut, we wanted to at least make it look like a celebration. So? What do you th
 ---
 
 **Fujimaru 1:**
-...Thank you.|
+...Thank you.
 
 ---
 
@@ -9142,7 +9142,7 @@ Each of those lost is someone who cannot ever be replaced.
 ---
 
 **Fujimaru 1:**
-The one who did not return...|
+The one who did not return...
 
 ---
 
@@ -9171,7 +9171,7 @@ The Masters who are frozen will probably be revived after we get reinforcements 
 ---
 
 **Fujimaru 1:**
-What's ahead of us...?|
+What's ahead of us...?
  
 
 ---
@@ -9219,7 +9219,7 @@ Of course, I have everyone's Spirit Origin patterns stored, so if there's any ne
 ---
 
 **Fujimaru 1:**
-Glad to hear that...|
+Glad to hear that...
 
 ---
 
@@ -9266,7 +9266,7 @@ Now, hurry and get going.Go see for yourselves what you two have reclaimed.
 ---
 
 **Fujimaru 1:**
-?|
+?
 
 ---
 
@@ -9286,7 +9286,7 @@ Fou, fooou!
 ---
 
 **Fujimaru 1:**
-The blizzard stopped...!|
+The blizzard stopped...!
 
 ---
 
@@ -9303,7 +9303,7 @@ So... this is the real sky. The Earth of our own time.
 ---
 
 **Fujimaru 1:**
-...Yeah, I forgot...|
+...Yeah, I forgot...
  
 
 ---
@@ -9321,7 +9321,7 @@ He also said that one day, the time would come when I would get to see them for 
 ---
 
 **Fujimaru 1:**
-Yep, sounds just like him.|
+Yep, sounds just like him.
 
 ---
 
@@ -9356,7 +9356,7 @@ What did the journey of the Grand Order mean to you, Senpai...?
 ---
 
 **Fujimaru 1:**
-It was, of course...|
+It was, of course...
 
 ---
 
