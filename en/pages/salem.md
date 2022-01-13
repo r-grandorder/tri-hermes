@@ -1,4 +1,4 @@
-# Pseudo-Singularity IV: The Forbidden Advent Garden - Salem
+#Pseudo-Singularity IV: The Forbidden Advent Garden - Salem
 
 ![Salem](https://i.imgur.com/6hRMWJK.png)
 
@@ -213,7 +213,7 @@ Ahh...This soup really does hit the spot.
 ---
 
 **Fujimaru 1:**
-Morning, Mash.|
+Morning, Mash.
  
 **Mash:**
 Good morning, Senpai.I'm sorry I'm late.
@@ -267,7 +267,7 @@ However, there aren't many Association agents in North America, so I doubt they'
 ---
 
 **Fujimaru 1:**
-Where exactly in North America is this coming from?|
+Where exactly in North America is this coming from?
 
 ---
 
@@ -299,7 +299,7 @@ Naturally, since it's covered in such total darkness, we don't have any other vi
 ---
 
 **Fujimaru 1:**
-Do we know what's in the middle of this darkness?|
+Do we know what's in the middle of this darkness?
 
 ---
 
@@ -355,7 +355,7 @@ That's terrible...
 ---
 
 **Fujimaru 1:**
-...Could this be a Demon God Pillar?|
+...Could this be a Demon God Pillar?
 
 ---
 
@@ -399,7 +399,7 @@ So what will you do now, Da Vinci?And you, my friend?
 ---
 
 **Fujimaru 1:**
-We have to get to Salem right now!|
+We have to get to Salem right now!
 
 ---
 
@@ -521,7 +521,7 @@ At this point, we're still just running recon. Since we're not on-site ourselves
 ---
 
 **Fujimaru 1:**
-So...we wait for news from people we trust?|
+So...we wait for news from people we trust?
 
 ---
 
@@ -586,7 +586,7 @@ For a moment, I was afraid I might unwittingly cause the second huge Chaldea exp
 ---
 
 **Fujimaru 1:**
-Not...funny...|
+Not...funny...
  
 **Da Vinci:**
 Well, you can't blame me. Not after Chaldea's main power AND backup power looked like they were about to get knocked out!
@@ -646,7 +646,7 @@ The final Rayshift...
 ---
 
 **Fujimaru 1:**
-Why's that...?|
+Why's that...?
  
 
 ---
@@ -712,7 +712,7 @@ They have also tried using helicopters&ndash;I'm told they're called “Apaches�
 ---
 
 **Fujimaru 1:**
-So, not even a single drone made it back?|
+So, not even a single drone made it back?
 
 ---
 
@@ -777,7 +777,7 @@ It's especially important that you understand this part,Fujimaru.
 ---
 
 **Fujimaru 1:**
-You weren't able to contact the inside, even with magecraft?|
+You weren't able to contact the inside, even with magecraft?
  
 **Da Vinci:**
 So you do understand.
@@ -906,7 +906,7 @@ I trust you now see why I called it a cursed land.
 ---
 
 **Fujimaru 1:**
-Wait...trials? I thought the term was “witch hunt.”|
+Wait...trials? I thought the term was “witch hunt.”
  
 **Shakespeare:**
 No, no. He speaks truth.'Twas witch trials that took place there.
@@ -1059,7 +1059,7 @@ I want you to investigate whatever is inside, rescue as many people as you can, 
 ---
 
 **Fujimaru 1:**
-...Yes ma'am!|
+...Yes ma'am!
 
 ---
 
@@ -1090,7 +1090,7 @@ That's why the cutting-edge drones that were sent in ceased to function.
 ---
 
 **Fujimaru 1:**
-What's inside the Mist?|
+What's inside the Mist?
 
 ---
 
@@ -1125,7 +1125,7 @@ Whatever the reason for that may be,that's where we need to begin.
 ---
 
 **Fujimaru 1:**
-Wow. I'm impressed you figured all that out so quickly.|
+Wow. I'm impressed you figured all that out so quickly.
 
 ---
 
@@ -1243,7 +1243,7 @@ But a troupe is, by definition, a place where those who are otherwise unable to 
 ---
 
 **Fujimaru 1:**
-Wait, hold up. You mean WE'RE going to be performing?|
+Wait, hold up. You mean WE'RE going to be performing?
 
 ---
 
@@ -1386,7 +1386,7 @@ Am I wrong, little writer?
 ---
 
 **Fujimaru 1:**
-...What about you, Mash? Are you coming along too?|
+...What about you, Mash? Are you coming along too?
 
 ---
 
@@ -1421,7 +1421,7 @@ I especially want you to keep in mind that this is our one and only chance to Ra
 ---
 
 **Fujimaru 1:**
-Hi, Mash.|
+Hi, Mash.
  
 **Mash:**
 Hello, Senpai.
@@ -1478,7 +1478,7 @@ Useful......Useful... That's it.
 ---
 
 **Fujimaru 1:**
-Mash...?|
+Mash...?
 
 ---
 
@@ -1492,7 +1492,7 @@ Now if you'll excuse me, I have to prepare right away!See you later!
 ---
 
 **Fujimaru 1:**
-What was THAT all about...|
+What was THAT all about...
 
 ---
 
@@ -1548,7 +1548,7 @@ Of course, I'm certain I can be useful as an on-site Chaldea staff member as wel
 ---
 
 **Fujimaru 1:**
-Way to go, Mash...!|
+Way to go, Mash...!
 
 ---
 
@@ -1598,7 +1598,7 @@ In which case, I believe this is Master's decision to make.
 ---
 
 **Fujimaru 1:**
-I honestly did think I could use an assistant.|
+I honestly did think I could use an assistant.
  
 **Da Vinci:**
 You are aware this will put Mash in danger, right? Are you sure you can keep your kouhai safe when you'll already have your hands full with the mission?
@@ -1655,7 +1655,7 @@ I'm counting on you, Fujimaru! Good luck!
 ---
 
 **Fujimaru 1:**
-Okay everyone, we're off!|
+Okay everyone, we're off!
 
 ---
 
@@ -1760,7 +1760,7 @@ I mean, that IS what we were trying for,but it's so dark, even for night...
 ---
 
 **Fujimaru 1:**
-Is everyone all right?|
+Is everyone all right?
 
 ---
 
@@ -1819,7 +1819,7 @@ Ouch, that's harsh. Guess I deserved that.Sorry, just forget I said anything.
 ---
 
 **Fujimaru 1:**
-Is everyone here, Mash?|
+Is everyone here, Mash?
 
 ---
 
@@ -1854,7 +1854,7 @@ Anyway, that's all seven of us, including Senpai. Everyone, please make sure you
 ---
 
 **Fujimaru 1:**
-Okay, let's go find the village.|
+Okay, let's go find the village.
 
 ---
 
@@ -1889,7 +1889,7 @@ I was wondering about that too.We should figure that out before we run into anyo
 ---
 
 **Fujimaru 1:**
-Okay, let's go with...“The Fujimaru Company.”|
+Okay, let's go with...“The Fujimaru Company.”
 
 ---
 
@@ -1912,7 +1912,7 @@ I... I didn't mean it like that,but now that you mention it...
 ---
 
 **Fujimaru 1:**
-Don't worry, I don't mind.|
+Don't worry, I don't mind.
 
 ---
 
@@ -1932,7 +1932,7 @@ I know what you meant.
 ---
 
 **Fujimaru 1:**
-Well, one's the poster boy for irreverence.|
+Well, one's the poster boy for irreverence.
 
 ---
 
@@ -1970,7 +1970,7 @@ If I have to, I'll even bring Master up on the stage.
 ---
 
 **Fujimaru 1:**
-I can hear the sweet sound of applause now.|
+I can hear the sweet sound of applause now.
 
 ---
 
@@ -2049,7 +2049,7 @@ I was present as an assistant myself, but I was preoccupied with making sure Sen
 ---
 
 **Fujimaru 1:**
-What was the deal with that again?|
+What was the deal with that again?
  
 **Medea:**
 There, you see?
@@ -2199,7 +2199,7 @@ Could it be a trap?Or some sort of magecraft ritual...?
 ---
 
 **Fujimaru 1:**
-Do you sense any magical energy, Medea?|
+Do you sense any magical energy, Medea?
 
 ---
 
@@ -2273,7 +2273,7 @@ Um... (Senpai?)
 ---
 
 **Fujimaru 1:**
-(Keep calm and act troupe-ish...!)|
+(Keep calm and act troupe-ish...!)
  
 **Mash:**
 (You heard Senpai...uh, I mean, the Ringmaster.)
@@ -2408,7 +2408,7 @@ Wait, Ringmaster.We need to help these girls first.
 ---
 
 **Fujimaru 1:**
-Can't have these things acquiring a taste for people.|
+Can't have these things acquiring a taste for people.
  
 **Robin Hood:**
 Get out front, Sanson.And watch your back!
@@ -2530,7 +2530,7 @@ I'm sorry. Now that we're out of danger,I was just so relieved that my legs gave
 ---
 
 **Fujimaru 1:**
-I'm Fujimaru. Can I ask your name...?|
+I'm Fujimaru. Can I ask your name...?
 
 ---
 
@@ -2568,7 +2568,7 @@ Everyone's going to be so happy!
 ---
 
 **Fujimaru 1:**
-By the way, do you know today's date, Abigail?|
+By the way, do you know today's date, Abigail?
 
 ---
 
@@ -2630,7 +2630,7 @@ Why don't you all come stay at my home,if that's all right with you?
 ---
 
 **Fujimaru 1:**
-That sounds great. Thank you.|
+That sounds great. Thank you.
 
 ---
 
@@ -2703,7 +2703,7 @@ I see...I'm sorry to hear that.
 ---
 
 **Fujimaru 1:**
-How's the comms coming along, Mash?|
+How's the comms coming along, Mash?
 
 ---
 
@@ -2765,7 +2765,7 @@ Way to go, sis.Like you always say, first things first.
 ---
 
 **Fujimaru 1:**
-So...what IS the story with this village?|
+So...what IS the story with this village?
 
 ---
 
@@ -2839,7 +2839,7 @@ Does this mean there's major historical change on par with a Singularity from th
 ---
 
 **Fujimaru 1:**
-What about the people living in modern Salem?|
+What about the people living in modern Salem?
 
 ---
 
@@ -2979,7 +2979,7 @@ What do you make of that servant?
 ---
 
 **Fujimaru 1:**
-Uh... She seems perfectly nice?|
+Uh... She seems perfectly nice?
  
 **Medea:**
 Oh?That was not the impression I took from her.
@@ -3066,7 +3066,7 @@ I...
 ---
 
 **Fujimaru 1:**
-Is something wrong, Mr. Carter?|
+Is something wrong, Mr. Carter?
 
 ---
 
@@ -3083,7 +3083,7 @@ What?But...that's not fair...
 ---
 
 **Fujimaru 1:**
-Come on, we were all kids once, right?|
+Come on, we were all kids once, right?
 
 ---
 
@@ -3154,7 +3154,7 @@ What should we do, Senpai?
 ---
 
 **Fujimaru 1:**
-We need to look for clues about the Demon God.|
+We need to look for clues about the Demon God.
  
 **Medea:**
 ...I couldn't agree more.Something is definitely happening here.
@@ -3199,7 +3199,7 @@ And...there's something nagging me about Tituba.I'll keep an eye on Mr. Carter t
 ---
 
 **Fujimaru 1:**
-Got it. Sounds good.|
+Got it. Sounds good.
 
 ---
 
@@ -3620,7 +3620,7 @@ I thought I was just imagining things before we Rayshifted, but now...
 ---
 
 **Fujimaru 1:**
-...You know, she WAS acting strange.|
+...You know, she WAS acting strange.
  
 **Mash:**
 So you thought so too, then.
@@ -3653,7 +3653,7 @@ I'm just not sure what to think anymore.
 ---
 
 **Fujimaru 1:**
-I'll see what I can find out.|
+I'll see what I can find out.
  
 **Mash:**
 ...Okay. Thank you, Senpai.
@@ -3683,7 +3683,7 @@ It's eminently possible we've played into their hands without realizing it.
 ---
 
 **Fujimaru 1:**
-Look. There's a gold rabbit hopping around there.|
+Look. There's a gold rabbit hopping around there.
 
 ---
 
@@ -3742,7 +3742,7 @@ Is there any way we can cheer her up, Senpai?
 ---
 
 **Fujimaru 1:**
-Hmm... Why don't we take a little walk?|
+Hmm... Why don't we take a little walk?
 
 ---
 
@@ -3768,7 +3768,7 @@ Uncle said I'm not supposed to talk to the guests...
 ---
 
 **Fujimaru 1:**
-What about talking to friends?|
+What about talking to friends?
 
 ---
 
@@ -3782,7 +3782,7 @@ You're fun, {(M) Mr. /(F) Ms.} Ringmaster!
 ---
 
 **Fujimaru 1:**
-What are some of your favorite things, Abby?|
+What are some of your favorite things, Abby?
 
 ---
 
@@ -3868,7 +3868,7 @@ I'm not sure if Uncle just doesn't mind, or if he likes how she saves him money,
 ---
 
 **Fujimaru 1:**
-...Do you like this village, Abby?|
+...Do you like this village, Abby?
 
 ---
 
@@ -3987,7 +3987,7 @@ Oh, I really wish I could see your show, but since I can't, could you at least t
 ---
 
 **Fujimaru 1:**
-Sure. We can't tell you everything, though.|
+Sure. We can't tell you everything, though.
  
 **Abigail:**
 Really? That's wonderful!Thank you, {(M) Mr. /(F) Ms.} Ringmaster!
@@ -4023,7 +4023,7 @@ If Uncle gets forceful enough in his questioning,she might end up admitting to a
 ---
 
 **Fujimaru 1:**
-How do you feel about your uncle?|
+How do you feel about your uncle?
 
 ---
 
@@ -4097,7 +4097,7 @@ But...
 ---
 
 **Fujimaru 1:**
-Did you and Lavinia have a fight or something?|
+Did you and Lavinia have a fight or something?
 
 ---
 
@@ -4138,7 +4138,7 @@ She recommended I ask myself three questions.
 ---
 
 **Fujimaru 1:**
-So, what were they?|
+So, what were they?
 
 ---
 
@@ -4179,7 +4179,7 @@ I'm just sorry I didn't notice she was there...Now I have something else to apol
 ---
 
 **Fujimaru 1:**
-That's great news.|
+That's great news.
  
 **Abigail:**
 Huh...?
@@ -4245,7 +4245,7 @@ Huh? ...From the sea?
 ---
 
 **Fujimaru 1:**
-I'll go hide and take a closer look!|
+I'll go hide and take a closer look!
  
 **Mash:**
 ...Okay, Senpai!
@@ -4338,7 +4338,7 @@ You would. Have me remain silent.In the face of such shame?
 ---
 
 **Fujimaru 1:**
-What's going on here? Are you two fighting?|
+What's going on here? Are you two fighting?
  
 **Nezha:**
 Indeed. Affirmative. Of course.Now is the time. Let slip the dogs of war!
@@ -4383,7 +4383,7 @@ So yer their Ringmaster, eh? What kinda company are ye runnin', lettin' yer frea
 ---
 
 **Fujimaru 1:**
-Hmm. So, what exactly happened here, anyway?|
+Hmm. So, what exactly happened here, anyway?
 
 ---
 
@@ -4427,7 +4427,7 @@ Called me a prostitute.And began touching me near my waist.
 ---
 
 **Fujimaru 1:**
-You...didn't mind?|
+You...didn't mind?
 
 ---
 
@@ -4446,7 +4446,7 @@ Next. He made me sit. On his lap.Told me to pour him. Another glass.
 ---
 
 **Fujimaru 1:**
-You...didn't mind?|
+You...didn't mind?
 
 ---
 
@@ -4474,7 +4474,7 @@ How dare this man.Appraise this body as sad! How dare he!?
 ---
 
 **Fujimaru 1:**
-THAT'S what bothers you about this?|
+THAT'S what bothers you about this?
 
 ---
 
@@ -4512,7 +4512,7 @@ Yeah! Neither we sailors nor ye performers belong here, so we might as well get 
 ---
 
 **Fujimaru 1:**
-True, Nezha was out of line. I apologize.|
+True, Nezha was out of line. I apologize.
  
 **Eyepatch Sailor:**
 Oh yeah? And ye'll be buyin' us all a drink?Well ain't that thoughtful of ye, Ringmaster!
@@ -4629,7 +4629,7 @@ She means this'll be our first time performing with our current members. Natural
 ---
 
 **Fujimaru 1:**
-Another problem on our hands, huh...|
+Another problem on our hands, huh...
 
 ---
 
@@ -4733,7 +4733,7 @@ I see... Senpai, I think this could be a good opportunity.
 ---
 
 **Fujimaru 1:**
-Definitely.|
+Definitely.
 
 ---
 
@@ -4759,7 +4759,7 @@ I don't want to see anyone hanged here.
 ---
 
 **Fujimaru 1:**
-Hanged...!?|
+Hanged...!?
 
 ---
 
@@ -4785,7 +4785,7 @@ It's a good opportunity, and would make our investigation considerably easier.
 ---
 
 **Fujimaru 1:**
-Hmm. I guess this is a kind of test then.|
+Hmm. I guess this is a kind of test then.
  
 **Mash:**
 I'll do everything I can to help, of course.
@@ -4812,7 +4812,7 @@ If it's all right with you, Senpai,shall we go with that one?
 ---
 
 **Fujimaru 1:**
-Okay, let's do it.|
+Okay, let's do it.
 
 ---
 
@@ -4858,7 +4858,7 @@ All right, Ringmaster Fujimaru.We're all here. Go ahead and start the show.
 ---
 
 **Fujimaru 1:**
-Got it.|
+Got it.
 
 ---
 
@@ -4898,7 +4898,7 @@ You'll have multiple roles,so you're going to be busy.
 ---
 
 **Fujimaru 1:**
-This is pretty nerve-wracking.|
+This is pretty nerve-wracking.
  
 **Mash:**
 That's true. T-to be honest...I'm getting very nervous myself, and I'm not even performing.
@@ -5643,7 +5643,7 @@ You may even just offer a hint if you like.
 ---
 
 **Fujimaru 1:**
-...Wait, me?|
+...Wait, me?
 
 ---
 
@@ -5662,7 +5662,7 @@ You may even just offer a hint if you like.
 ---
 
 **Fujimaru 1:**
-Uh... “Does it have to do with the desert?”|
+Uh... “Does it have to do with the desert?”
  
 **E：Solomon:**
 The desert? Why?...Actually, hang on...
@@ -5985,7 +5985,7 @@ I will hear what she has to say in the morning.
 ---
 
 **Fujimaru 1:**
-I have to do something!|
+I have to do something!
 
 ---
 
@@ -6007,7 +6007,7 @@ You need to remain a bystander right now,or you'll get swept up in this as well.
 ---
 
 **Fujimaru 1:**
-Medea...?|
+Medea...?
 
 ---
 
@@ -6491,7 +6491,7 @@ So right now, we're the only ones here.
 ---
 
 **Fujimaru 1:**
-It was awful...|
+It was awful...
  
 **Mash:**
 A-are you okay?You look pale...
@@ -6524,7 +6524,7 @@ We learned a few things too while you were out, so I'd like to make sure we're a
 ---
 
 **Fujimaru 1:**
-You've been a big help, Mash.|
+You've been a big help, Mash.
  
 **Mash:**
 Thank you, Senpai...!
@@ -6638,7 +6638,7 @@ In the end, all I could do was watch Master get worn out.
 ---
 
 **Fujimaru 1:**
-Sorry for all the trouble, Robin...|
+Sorry for all the trouble, Robin...
  
 **Robin Hood:**
 Ah, don't sweat it. It's not every day we Servants get to help you out like this.
@@ -6731,7 +6731,7 @@ But Mr. Carter wasn't having that&ndash;so he decided to speak with the Reverend
 ---
 
 **Fujimaru 1:**
-I hope he can convince the Reverend to come around...|
+I hope he can convince the Reverend to come around...
  
 **Robin Hood:**
 Me too.
@@ -6782,7 +6782,7 @@ During his life, he was best known by the title of “Witchfinder General.”
 ---
 
 **Fujimaru 1:**
-Witchfinder General... So, he's from the military?|
+Witchfinder General... So, he's from the military?
  
 **Sanson:**
 No, he is not military.
@@ -6842,7 +6842,7 @@ As these people are British colonists, they probably share many of the same sens
 ---
 
 **Fujimaru 1:**
-Then, does that mean they're going to hang Tituba...?|
+Then, does that mean they're going to hang Tituba...?
  
 **Sanson:**
 With Hopkins here, that's definitely possible.
@@ -6902,7 +6902,7 @@ It would be great if you could do that, but...
 ---
 
 **Fujimaru 1:**
-First, tell us about this workshop ritual.|
+First, tell us about this workshop ritual.
 
 ---
 
@@ -6934,7 +6934,7 @@ That is, so long as we're in my workshop, we are not affected by the influence t
 ---
 
 **Fujimaru 1:**
-You mean, you can use your spirit forms again?|
+You mean, you can use your spirit forms again?
 
 ---
 
@@ -6981,7 +6981,7 @@ And yet, we still can't get a firm grasp on it.It's like it slips away whenever 
 ---
 
 **Fujimaru 1:**
-You discovered this, Medea. What do you think?|
+You discovered this, Medea. What do you think?
 
 ---
 
@@ -7031,7 +7031,7 @@ I know we're already asking a lot of you, Medea, but...
 ---
 
 **Fujimaru 1:**
-Oh, right. What about contacting Chaldea?|
+Oh, right. What about contacting Chaldea?
 
 ---
 
@@ -7051,7 +7051,7 @@ Do we focus on saving, or possibly capturing, Tituba?Or on making contact with C
 ---
 
 **Fujimaru 1:**
-We can't just throw Tituba to the wolves.|
+We can't just throw Tituba to the wolves.
  
 **Nezha:**
 Well said! Fujimaru!
@@ -7114,7 +7114,7 @@ Me! I'll go along too!
 ---
 
 **Fujimaru 1:**
-Anyone else want to come? Strength in numbers, right?|
+Anyone else want to come? Strength in numbers, right?
 
 ---
 
@@ -7161,7 +7161,7 @@ Unless...you have some personal reason to protest the suspect's detention?
 ---
 
 **Fujimaru 1:**
-It's the quickest way for Medea to get a look.|
+It's the quickest way for Medea to get a look.
  
 **Mash:**
 (Th-that may be true, but still...)
@@ -7188,7 +7188,7 @@ I already feel like I'm about to throw up.
 ---
 
 **Fujimaru 1:**
-Ulp... Okay, here goes...|
+Ulp... Okay, here goes...
 
 ---
 
@@ -7204,7 +7204,7 @@ Absolutely not. That evidence is crucial to this case.This is not up for discuss
 ---
 
 **Fujimaru 1:**
-Saw that one coming.|
+Saw that one coming.
 
 ---
 
@@ -7286,7 +7286,7 @@ I also recommend salad with parsley and apple vinegar dressing. It will help wit
 ---
 
 **Fujimaru 1:**
-They do say diet is the root of good health...|
+They do say diet is the root of good health...
 
 ---
 
@@ -7321,7 +7321,7 @@ Phew... This is great. Now we can examine the villagers as much as we like.
 ---
 
 **Fujimaru 1:**
-That was a very you way to handle it, Sanson.|
+That was a very you way to handle it, Sanson.
  
 **Sanson:**
 I hope you don't mind my taking the liberty, Ringmaster.
@@ -7423,7 +7423,7 @@ Hahahaha!
 ---
 
 **Fujimaru 1:**
-Don't lump us in with bandits like that.|
+Don't lump us in with bandits like that.
  
 **Mash:**
 Th-that's right.
@@ -7519,7 +7519,7 @@ Quite the opposite... Fujimaru,I give you permission to perform for the entire t
 ---
 
 **Fujimaru 1:**
-Wha&ndash;|
+Wha&ndash;
 
 ---
 
@@ -7563,7 +7563,7 @@ Lock her in a cell as well, to ensure her compatriots do not flee in the night.
 ---
 
 **Fujimaru 1:**
-Y-you can't be serious!|
+Y-you can't be serious!
 
 ---
 
@@ -7621,7 +7621,7 @@ Villagers have been coming to ask for Sanson's help since they heard about his m
 ---
 
 **Fujimaru 1:**
-I've got no problem with him prioritizing patients.|
+I've got no problem with him prioritizing patients.
 
 ---
 
@@ -7643,7 +7643,7 @@ Master.What did Hopkins say?
 ---
 
 **Fujimaru 1:**
-He's got burning at the stake in mind...|
+He's got burning at the stake in mind...
 
 ---
 
@@ -7686,7 +7686,7 @@ Dammit, we don't have time to figure this shit out before we go on stage!
 ---
 
 **Fujimaru 1:**
-Are there any scripts we can use, Mash?|
+Are there any scripts we can use, Mash?
  
 **Mash:**
 Well, technically, yes, but...
@@ -7719,7 +7719,7 @@ Besides, we've all got the hang of performing after last night's play.
 ---
 
 **Fujimaru 1:**
-Okay, we'll go with that one.|
+Okay, we'll go with that one.
 
 ---
 
@@ -7741,7 +7741,7 @@ S-so I'll just have to join you all onstage myself!
 ---
 
 **Fujimaru 1:**
-Uh...|
+Uh...
 
 ---
 
@@ -7781,7 +7781,7 @@ I-I-I am known as La Pucelle, the M-m-maiden of Orleans!
 ---
 
 **Fujimaru 1:**
-Deep breaths, Mash. Just try to stay calm.|
+Deep breaths, Mash. Just try to stay calm.
  
 **Jeanne (Mash):**
 (O-okay!)
@@ -8518,7 +8518,7 @@ We're here to get you, Medea.I'm sorry it took so long.
 ---
 
 **Fujimaru 1:**
-Are you all right, Medea?|
+Are you all right, Medea?
 
 ---
 
@@ -8549,7 +8549,7 @@ Maybe they were all released?
 ---
 
 **Fujimaru 1:**
-Where's Tituba?|
+Where's Tituba?
 
 ---
 
@@ -8598,7 +8598,7 @@ Where did you take Tituba?
 ---
 
 **Fujimaru 1:**
-What hill?|
+What hill?
 
 ---
 
@@ -8630,7 +8630,7 @@ The governor of Massachusetts should be consulted on this matter.
 ---
 
 **Fujimaru 1:**
-Yeah! This is tyranny!|
+Yeah! This is tyranny!
 
 ---
 
@@ -8652,7 +8652,7 @@ I'll tell Sanson and the others waiting outside!
 ---
 
 **Fujimaru 1:**
-Have someone go on ahead!|
+Have someone go on ahead!
 
 ---
 
@@ -8675,7 +8675,7 @@ I'm afraid I have a medical complaint that prevents me from running well.
 ---
 
 **Fujimaru 1:**
-You got it!|
+You got it!
 
 ---
 
@@ -8692,7 +8692,7 @@ Are you all right, Abby?Where's everyone else who went on ahead...?
 ---
 
 **Fujimaru 1:**
-There's Nezha! What about Sanson?|
+There's Nezha! What about Sanson?
 
 ---
 
@@ -8769,7 +8769,7 @@ Yes. Unfortunately.
 ---
 
 **Fujimaru 1:**
-You mean, on purpose...?|
+You mean, on purpose...?
 
 ---
 
@@ -8798,7 +8798,7 @@ Either way, it's most unbecoming. I'll thank you to calm yourself and mind your 
 ---
 
 **Fujimaru 1:**
-Hopkins! You tricked us, didn't you!?|
+Hopkins! You tricked us, didn't you!?
 
 ---
 
@@ -8878,7 +8878,7 @@ The execution has already been carried out. I have no intention of interfering w
 ---
 
 **Fujimaru 1:**
-You call yourself a guardian of the law!?|
+You call yourself a guardian of the law!?
 
 ---
 
@@ -8906,7 +8906,7 @@ I hope your plays serve to enlighten the other villagers in that regard.
 ---
 
 **Fujimaru 1:**
-...This is getting us nowhere.|
+...This is getting us nowhere.
 
 ---
 
@@ -8991,7 +8991,7 @@ Putting aside the question of whether it is done for good or evil means...
 ---
 
 **Fujimaru 1:**
-So what did you want to tell us, Medea?|
+So what did you want to tell us, Medea?
 
 ---
 
@@ -9008,7 +9008,7 @@ I know a lot has happened since we got here,but currently, our most pressing obl
 ---
 
 **Fujimaru 1:**
-Figuring out what's going on with the Whateleys.|
+Figuring out what's going on with the Whateleys.
 
 ---
 
@@ -9091,7 +9091,7 @@ I see. Hopefully we don't end up with more than some short-term memory loss then
 ---
 
 **Fujimaru 1:**
-You're awfully nonchalant about that, too.|
+You're awfully nonchalant about that, too.
 
 ---
 
@@ -9108,7 +9108,7 @@ How safe is {(M) he /(F) she} here?Is this phenomenon affecting {(M) his /(F) he
 ---
 
 **Fujimaru 1:**
-Don't forget that goes for you too, Mash.|
+Don't forget that goes for you too, Mash.
 
 ---
 
@@ -9128,7 +9128,7 @@ I'm afraid Mash is right to be worried. We're in real danger here, and all of ou
 ---
 
 **Fujimaru 1:**
-I know, I'm worried too, but...|
+I know, I'm worried too, but...
 
 ---
 
@@ -9168,7 +9168,7 @@ But without any way to get information from the outside world, we have no way of
 ---
 
 **Fujimaru 1:**
-Does this mean we're SOL when it comes to comms?|
+Does this mean we're SOL when it comes to comms?
 
 ---
 
@@ -9206,7 +9206,7 @@ Who are you, really?
 ---
 
 **Fujimaru 1:**
-Robin?|
+Robin?
 
 ---
 
@@ -9223,7 +9223,7 @@ Mata Hari was the first to notice something was amiss.So, Robin and I have been 
 ---
 
 **Fujimaru 1:**
-You could've filled me in, too!|
+You could've filled me in, too!
 
 ---
 
@@ -9293,7 +9293,7 @@ Sorry Mash, but I'm afraid I'm completely calm here.
 ---
 
 **Fujimaru 1:**
-...Mata Hari?|
+...Mata Hari?
  
 **Mata Hari:**
 At first I thought she might be a spy from the Mage's Association...
@@ -9326,7 +9326,7 @@ You all sure like to run your mouths, don't you...?
 ---
 
 **Fujimaru 1:**
-Let's pick this back up again later, everyone.|
+Let's pick this back up again later, everyone.
 
 ---
 
@@ -9388,7 +9388,7 @@ And that when she refused, he entered her body and controlled her himself...
 ---
 
 **Fujimaru 1:**
-The devil?|
+The devil?
 
 ---
 
@@ -9446,7 +9446,7 @@ There is a scent....It is. Evil.
 ---
 
 **Fujimaru 1:**
-We'd better go check it out right now!|
+We'd better go check it out right now!
  
 **Mash:**
 ...Agreed.
@@ -9482,7 +9482,7 @@ You need to take care of Abigail.
 ---
 
 **Fujimaru 1:**
-Mash and Medea, you two stay here too!|
+Mash and Medea, you two stay here too!
 
 ---
 
@@ -9523,7 +9523,7 @@ Are they enemies...? No, wait. Those are the prisoners who were hanged at the ga
 ---
 
 **Fujimaru 1:**
-Huh? Wait, they're zombies!?|
+Huh? Wait, they're zombies!?
 
 ---
 
@@ -9625,7 +9625,7 @@ Senpai...! Look!
 ---
 
 **Fujimaru 1:**
-Tituba...?|
+Tituba...?
 
 ---
 
@@ -9665,7 +9665,7 @@ She's preparing to attack!
 ---
 
 **Fujimaru 1:**
-I know Mr. Carter's here, but we're out of options!|
+I know Mr. Carter's here, but we're out of options!
 
 ---
 
@@ -9701,7 +9701,7 @@ We are both of us women and Casters,so I will send you to the underworld myself.
 ---
 
 **Fujimaru 1:**
-Medea...?|
+Medea...?
 
 ---
 
@@ -9740,7 +9740,7 @@ Dammit...
 ---
 
 **Fujimaru 1:**
-What's up?|
+What's up?
 
 ---
 
@@ -9852,7 +9852,7 @@ Oh, God, I can hardly bring myself to say it. Surely there can be no question. T
 ---
 
 **Fujimaru 1:**
-I guess it's not even safe inside the village now...|
+I guess it's not even safe inside the village now...
 
 ---
 
@@ -9898,7 +9898,7 @@ We must be even more vigilant now,but I'm afraid we can only do so much...
 ---
 
 **Fujimaru 1:**
-Hmm, something still doesn't sit right with me...|
+Hmm, something still doesn't sit right with me...
  
 **Mash:**
 Yes, there are still some things I'm unclear on too.
@@ -9976,7 +9976,7 @@ Was there anyone you recognized among them?
 ---
 
 **Fujimaru 1:**
-(Uhh...)|
+(Uhh...)
 
 ---
 
@@ -10028,7 +10028,7 @@ Of course. I'm afraid we can't be too careful now, even here in the village.
 ---
 
 **Fujimaru 1:**
-So what's up?|
+So what's up?
 
 ---
 
@@ -10039,7 +10039,7 @@ The Reverend says he has a favor to ask of us.What would you like to do?
 ---
 
 **Fujimaru 1:**
-What could it be?|
+What could it be?
 
 ---
 
@@ -10061,7 +10061,7 @@ Y-yes, of course it is.I'm sorry for being rude.
 ---
 
 **Fujimaru 1:**
-Can I ask you why?|
+Can I ask you why?
 
 ---
 
@@ -10102,7 +10102,7 @@ Let's do it. Master.Come on. Let's do it. Please!?
 ---
 
 **Fujimaru 1:**
-O-o-o-okay, okay. Just stop shaking me!|
+O-o-o-okay, okay. Just stop shaking me!
  
 **Nezha:**
 I knew. You would understand. Master!
@@ -10162,7 +10162,7 @@ This is, um...
 ---
 
 **Fujimaru 1:**
-She's our new rising star.|
+She's our new rising star.
  
 **B：???:**
 That's right! You've got everything to worry about with me around!
@@ -10261,7 +10261,7 @@ You're the main reason we're all confused here, Queenie. You know that?
 ---
 
 **Fujimaru 1:**
-Trust me, I'm as shocked as anyone.|
+Trust me, I'm as shocked as anyone.
 
 ---
 
@@ -10324,7 +10324,7 @@ It didn't seem like coincidence.Actually, it felt like someone was guiding me.
 ---
 
 **Fujimaru 1:**
-Why did you decide to come clean to us?|
+Why did you decide to come clean to us?
 
 ---
 
@@ -10374,7 +10374,7 @@ Neither of us is going anywhere until we've sorted out whatever's happening here
 ---
 
 **Fujimaru 1:**
-How do we know that you're really Circe?|
+How do we know that you're really Circe?
  
 **Mash:**
 She DOES look a lot like Medea...
@@ -10419,7 +10419,7 @@ Then how about we make a limited contract now, as proof of my willingness to coo
 ---
 
 **Fujimaru 1:**
-Is it really impossible to contact Chaldea?|
+Is it really impossible to contact Chaldea?
 
 ---
 
@@ -10451,7 +10451,7 @@ My original plan was to entice you into coming with me, Fujimaru.
 ---
 
 **Fujimaru 1:**
-That would be...troublesome, to say the least.|
+That would be...troublesome, to say the least.
 
 ---
 
@@ -10482,7 +10482,7 @@ I guess if I had to give you just one piece of advice, Master...
 ---
 
 **Fujimaru 1:**
-{(M) Thanks for the warning. /(F) ...You may be right.}|
+{(M) Thanks for the warning. /(F) ...You may be right.}
 
 ---
 
@@ -10501,7 +10501,7 @@ It's okay. I'm sure Circe's a good witch.
 ---
 
 **Fujimaru 1:**
-Can you keep pretending to be Medea out here?|
+Can you keep pretending to be Medea out here?
 
 ---
 
@@ -10524,7 +10524,7 @@ Huh? Nezha!?
 ---
 
 **Fujimaru 1:**
-What thing?|
+What thing?
 
 ---
 
@@ -10762,7 +10762,7 @@ Master, a word, please.
 ---
 
 **Fujimaru 1:**
-What's up?|
+What's up?
 
 ---
 
@@ -10785,7 +10785,7 @@ S-so we have to perform without you again? Now what are we going to do? S-still,
 ---
 
 **Fujimaru 1:**
-Why don't you go up on stage again then, Mash?|
+Why don't you go up on stage again then, Mash?
 
 ---
 
@@ -11233,7 +11233,7 @@ The way things are going, it's only a matter of time before the nooses end up ar
 ---
 
 **Fujimaru 1:**
-Stop it, Robin.|
+Stop it, Robin.
 
 ---
 
@@ -11259,7 +11259,7 @@ Truly. Okay with that?
 ---
 
 **Fujimaru 1:**
-...No, I am absolutely NOT okay with this.|
+...No, I am absolutely NOT okay with this.
 
 ---
 
@@ -11343,7 +11343,7 @@ Ghouls are appearing all around the village,and they seem even more aggressive t
 ---
 
 **Fujimaru 1:**
-I'm impressed you figured that out.|
+I'm impressed you figured that out.
 
 ---
 
@@ -11374,7 +11374,7 @@ No, tonight they appear to be coming from the town graveyard.
 ---
 
 **Fujimaru 1:**
-We'll have to split up and handle them individually.|
+We'll have to split up and handle them individually.
 
 ---
 
@@ -11461,7 +11461,7 @@ Hm? That makes. No sense!
 ---
 
 **Fujimaru 1:**
-Wasn't he the one controlling the ghouls?|
+Wasn't he the one controlling the ghouls?
 
 ---
 
@@ -11495,7 +11495,7 @@ Leave this place, old man.Your work in this is finished.
 ---
 
 **Fujimaru 1:**
-Carter? Get back! It's not safe!|
+Carter? Get back! It's not safe!
 
 ---
 
@@ -11533,7 +11533,7 @@ My...gran...ghter...
 ---
 
 **Fujimaru 1:**
-What are you doing up this early, Mash?|
+What are you doing up this early, Mash?
 
 ---
 
@@ -11558,7 +11558,7 @@ It looks like today will be the best weather we've seen in a while, even if the 
 ---
 
 **Fujimaru 1:**
-How come you weren't in your room?|
+How come you weren't in your room?
 
 ---
 
@@ -11587,7 +11587,7 @@ And then there's...
 ---
 
 **Fujimaru 1:**
-Mr. Carter, right?|
+Mr. Carter, right?
 
 ---
 
@@ -11607,7 +11607,7 @@ I guess I haven't been of much help to you after all, Senpai.
 ---
 
 **Fujimaru 1:**
-Of course you have, Mash. Don't be silly.|
+Of course you have, Mash. Don't be silly.
 
 ---
 
@@ -11638,7 +11638,7 @@ It's still a little early for breakfast, but I think I can make you something qu
 ---
 
 **Fujimaru 1:**
-What is it?|
+What is it?
 
 ---
 
@@ -11662,7 +11662,7 @@ Porridge. Again...
 ---
 
 **Fujimaru 1:**
-Thanks for investigating so quickly, Mata Hari.|
+Thanks for investigating so quickly, Mata Hari.
 
 ---
 
@@ -11697,7 +11697,7 @@ Some of the bereaved were very upset about that idea though, so it took a lot of
 ---
 
 **Fujimaru 1:**
-Thanks again, Mata Hari.|
+Thanks again, Mata Hari.
 
 ---
 
@@ -11731,7 +11731,7 @@ Where's Mash? I don't see her anywhere.
 ---
 
 **Fujimaru 1:**
-She said she'd be right back.|
+She said she'd be right back.
 
 ---
 
@@ -11754,7 +11754,7 @@ Worst case scenario: we may have to deal directly with the farmers.
 ---
 
 **Fujimaru 1:**
-I've got to talk to Mr. Carter.|
+I've got to talk to Mr. Carter.
 
 ---
 
@@ -11773,7 +11773,7 @@ I-I see... Oh, this is bad.SO bad...
 ---
 
 **Fujimaru 1:**
-What's so bad?|
+What's so bad?
 
 ---
 
@@ -11795,7 +11795,7 @@ Wha!?
 ---
 
 **Fujimaru 1:**
-Why didn't you say so sooner!?|
+Why didn't you say so sooner!?
 
 ---
 
@@ -11829,7 +11829,7 @@ I believe “enraged.” Is the right word.
 ---
 
 **Fujimaru 1:**
-Oh, gee, I wonder why.|
+Oh, gee, I wonder why.
 
 ---
 
@@ -11854,7 +11854,7 @@ Exactly. You made your bed, now you can lie in it.
 ---
 
 **Fujimaru 1:**
-I have no idea what she's yelling about.|
+I have no idea what she's yelling about.
 
 ---
 
@@ -11903,7 +11903,7 @@ Can we communicate with them, Master?
 ---
 
 **Fujimaru 1:**
-Got my pen and paper here. I'm good to go.|
+Got my pen and paper here. I'm good to go.
 
 ---
 
@@ -11937,7 +11937,7 @@ Got my pen and paper here. I'm good to go.|
 ---
 
 **Fujimaru 1:**
-“In the flesh.”|
+“In the flesh.”
  
 **Da Vinci:**
 “...I see. Then I guess we avoided the worst-case scenario.”
@@ -11991,7 +11991,7 @@ Hehe. Why thank you. I'm glad to see Chaldea's acting commander is so polite and
 ---
 
 **Fujimaru 1:**
-“Did you figure out why Circe was summoned?”|
+“Did you figure out why Circe was summoned?”
 
 ---
 
@@ -12022,7 +12022,7 @@ Hehe. Why thank you. I'm glad to see Chaldea's acting commander is so polite and
 ---
 
 **Fujimaru 1:**
-“Yup.”|
+“Yup.”
 
 ---
 
@@ -12047,7 +12047,7 @@ Hehe. Why thank you. I'm glad to see Chaldea's acting commander is so polite and
 ---
 
 **Fujimaru 1:**
-“You mean, we've been turned into different people?”|
+“You mean, we've been turned into different people?”
  
 **Circe:**
 That's taking it a bit far. It's more like you're all on a reeeally bad trip. Still...
@@ -12086,7 +12086,7 @@ We're practically dancing in the Demon God Pillar's palm right now. Is there not
 ---
 
 **Fujimaru 1:**
-Good point. “Is there any way to counteract it?”|
+Good point. “Is there any way to counteract it?”
 
 ---
 
@@ -12133,7 +12133,7 @@ Understood! This will. Not stand.
 ---
 
 **Fujimaru 1:**
-“So why is Circe the least affected?”|
+“So why is Circe the least affected?”
 
 ---
 
@@ -12186,7 +12186,7 @@ She was a lot smarter back when she was still a virgin.
 ---
 
 **Fujimaru 1:**
-“She said 'Absolutely,' Medea.”|
+“She said 'Absolutely,' Medea.”
 
 ---
 
@@ -12203,7 +12203,7 @@ Hey, wha......Grr...
 ---
 
 **Fujimaru 1:**
-I wouldn't say that.|
+I wouldn't say that.
  
 **Sanson:**
 I'm glad to know you're relieved, Master...
@@ -12223,7 +12223,7 @@ I feel much better now.
 ---
 
 **Fujimaru 1:**
-...By the way, has anyone seen Mash?|
+...By the way, has anyone seen Mash?
 
 ---
 
@@ -12252,7 +12252,7 @@ I can't wait to tell her about this call.
 ---
 
 **Fujimaru 1:**
-...Thanks, {(M) Mata Hari /(F) Margaretha}.|
+...Thanks, {(M) Mata Hari /(F) Margaretha}.
 
 ---
 
@@ -12272,7 +12272,7 @@ It IS a nice day for once, and I'm tired of staying inside.I think I'll take thi
 ---
 
 **Fujimaru 1:**
-You stay here, Circe.|
+You stay here, Circe.
 
 ---
 
@@ -12312,7 +12312,7 @@ She and I really don't get along...
 ---
 
 **Fujimaru 1:**
-Huh. Is she the one you were talking about?|
+Huh. Is she the one you were talking about?
 
 ---
 
@@ -12442,7 +12442,7 @@ I'm just here waiting for him.
 ---
 
 **Fujimaru 1:**
-(Looks around) Where's Mash?|
+(Looks around) Where's Mash?
 
 ---
 
@@ -12492,7 +12492,7 @@ Sh-shut up! You're the one who&ndash;
 ---
 
 **Fujimaru 1:**
-Uh oh. I'd better do something.|
+Uh oh. I'd better do something.
 
 ---
 
@@ -12511,7 +12511,7 @@ Can you come with me for a minute? It's urgent.
 ---
 
 **Fujimaru 1:**
-Whoa!|
+Whoa!
 
 ---
 
@@ -12530,7 +12530,7 @@ I'm sorry. I screwed up big time. Really big.
 ---
 
 **Fujimaru 1:**
-...What...?|
+...What...?
 
 ---
 
@@ -12552,7 +12552,7 @@ Go on ahead, Master. I'll handle things here.
 ---
 
 **Fujimaru 1:**
-Okay. Thanks, Sanson.|
+Okay. Thanks, Sanson.
 
 ---
 
@@ -12586,7 +12586,7 @@ I think she was hoping to find the way out of the village.
 ---
 
 **Fujimaru 1:**
-But, there IS no way out of Salem...|
+But, there IS no way out of Salem...
 
 ---
 
@@ -12615,7 +12615,7 @@ And that's where I lost sight of them.
 ---
 
 **Fujimaru 1:**
-Maaaaaash!!!|
+Maaaaaash!!!
 
 ---
 
@@ -12629,7 +12629,7 @@ Mash and Carter both vanished.Of course, I searched everywhere I could, but...
 ---
 
 **Fujimaru 1:**
-...You couldn't find them?|
+...You couldn't find them?
 
 ---
 
@@ -12643,7 +12643,7 @@ But even if she can protect herself,she's still just a regular human.
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -12662,7 +12662,7 @@ It's basically a Bounded Field. Try and get through, and you just end up lost, a
 ---
 
 **Fujimaru 1:**
-Maybe they somehow managed to make it out...?|
+Maybe they somehow managed to make it out...?
  
 **Robin Hood:**
 If so, one of the Chaldea agents around the Mist would spot 'em. Course, that doesn't do us much good, since we still can't contact&ndash;Huh? What is it?
@@ -12697,7 +12697,7 @@ So why didn't they...?
 ---
 
 **Fujimaru 1:**
-I've never seen so many crows in one place...|
+I've never seen so many crows in one place...
 
 ---
 
@@ -12720,7 +12720,7 @@ It ain't pretty, but you've fought enough battles by now that I figure you've se
 ---
 
 **Fujimaru 1:**
-Are these...corpses!?|
+Are these...corpses!?
  
 **Robin Hood:**
 ...Parts of them, anyway.
@@ -12750,7 +12750,7 @@ Looks to me like there were two of them.A man and a woman.
 ---
 
 **Fujimaru 1:**
-...A man and a woman?|
+...A man and a woman?
 
 ---
 
@@ -12772,7 +12772,7 @@ Based on the teeth marks, and the mess of the surrounding area, I'm guessing the
 ---
 
 **Fujimaru 1:**
-One of them has a pendant of...a cross?|
+One of them has a pendant of...a cross?
 
 ---
 
@@ -12795,7 +12795,7 @@ We may as well hold onto that for a while. We can always put it back later if we
 ---
 
 **Fujimaru 1:**
-Good point... Can you tell how they died?|
+Good point... Can you tell how they died?
 
 ---
 
@@ -12818,7 +12818,7 @@ And the man's neck was broken a long time before the crows and ghouls got to him
 ---
 
 **Fujimaru 1:**
-He was hanged...?|
+He was hanged...?
 
 ---
 
@@ -12846,7 +12846,7 @@ Hm? ...What the hell?It looks like it was broken apart on purpose... But why?
 ---
 
 **Fujimaru 1:**
-If so...maybe these two were actually sacrifices?|
+If so...maybe these two were actually sacrifices?
  
 **Robin Hood:**
 ...Good point. Seems sensible.It'd explain how AND why they died.
@@ -12885,7 +12885,7 @@ I'll take you back to town first, so you can fill everyone else in on what's&nda
 ---
 
 **Fujimaru 1:**
-...No, let's go back together.|
+...No, let's go back together.
 
 ---
 
@@ -12929,7 +12929,7 @@ Can you try to get a grip too, Fujimaru? Your anxiety is getting Nezha all worke
 ---
 
 **Fujimaru 1:**
-...Sorry.|
+...Sorry.
 
 ---
 
@@ -12958,7 +12958,7 @@ They're trying to throw us off so we'll go look for her without watching our bac
 ---
 
 **Fujimaru 1:**
-I knew Salem was a trap from the beginning.|
+I knew Salem was a trap from the beginning.
 
 ---
 
@@ -12974,7 +12974,7 @@ Hehe....You sure about that?
 ---
 
 **Fujimaru 1:**
-...What's so funny?|
+...What's so funny?
  
 **Circe:**
 If they're trying to draw a noose around a Chaldea mage's neck, they're going about it in an awfully roundabout way.
@@ -13013,7 +13013,7 @@ Well, that is the kind of power at work here in Salem as we speak.
 ---
 
 **Fujimaru 1:**
-Does it have to do with the Demon God Pillar?|
+Does it have to do with the Demon God Pillar?
  
 **Circe:**
 That's exactly what I want to know too.
@@ -13058,7 +13058,7 @@ It changes shape for each person, as if to ensnare them. It's like touching some
 ---
 
 **Fujimaru 1:**
-You lost me, Circe.|
+You lost me, Circe.
  
 **Circe:**
 ...
@@ -13097,7 +13097,7 @@ Master, we have a serious problem.
 ---
 
 **Fujimaru 1:**
-...Huh...?|
+...Huh...?
 
 ---
 
@@ -13168,7 +13168,7 @@ Yes, I most certainly do.To begin with, that woman...
 ---
 
 **Fujimaru 1:**
-...Thanks, Abby.|
+...Thanks, Abby.
 
 ---
 
@@ -13205,7 +13205,7 @@ Here, hold my hand.
 ---
 
 **Fujimaru 1:**
-You're so strong, Abby.|
+You're so strong, Abby.
  
 **Abigail:**
 N-no, I'm not...I'm just doing my best to put on a brave face.
@@ -13253,7 +13253,7 @@ And all because his friends, and David himself,believed that God would strike th
 ---
 
 **Fujimaru 1:**
-That IS probably what he would've done, huh.|
+That IS probably what he would've done, huh.
  
 **Abigail:**
 That's right! Because he was a hero!
@@ -13286,7 +13286,7 @@ You're looking a lot less pale now.Are you feeling better?
 ---
 
 **Fujimaru 1:**
-(This is...the pendant I found in the forest.)|
+(This is...the pendant I found in the forest.)
 
 ---
 
@@ -13300,7 +13300,7 @@ You found it...at the edge of the forest...?
 ---
 
 **Fujimaru 1:**
-(Does this mean that was the Williams's grave...?)|
+(Does this mean that was the Williams's grave...?)
 
 ---
 
@@ -13313,7 +13313,7 @@ You found it...at the edge of the forest...?
 ---
 
 **Fujimaru 1:**
-Here, Abby. This is yours.|
+Here, Abby. This is yours.
 
 ---
 
@@ -13330,7 +13330,7 @@ It...must have come from...outside Salem...
 ---
 
 **Fujimaru 1:**
-(...Abby?)|
+(...Abby?)
 
 ---
 
@@ -13356,7 +13356,7 @@ I call you to the stand to serve as a witness. Rise.
 ---
 
 **Fujimaru 1:**
-...Okay.|
+...Okay.
 
 ---
 
@@ -13451,7 +13451,7 @@ Huh? I... Well...
 ---
 
 **Fujimaru 1:**
-Objection!|
+Objection!
 
 ---
 
@@ -13459,7 +13459,7 @@ Objection!|
 ---
 
 **Fujimaru 1:**
-You authorized him to examine patients yourself!|
+You authorized him to examine patients yourself!
 
 ---
 
@@ -13476,7 +13476,7 @@ A scrap of this prescription has been admitted as evidence. Practicing medicine 
 ---
 
 **Fujimaru 1:**
-That's just groundless nitpicking!|
+That's just groundless nitpicking!
 
 ---
 
@@ -13543,7 +13543,7 @@ As for this “actress,” it seems that once the curtain falls, she plies her t
 ---
 
 **Fujimaru 1:**
-Everyone heals in different ways.|
+Everyone heals in different ways.
  
 **Hopkins:**
 ...Indeed.
@@ -13850,7 +13850,7 @@ What? That's absurd. I've never heard of such preposterously high court fees bef
 ---
 
 **Fujimaru 1:**
-...This is a farce! This isn't justice!|
+...This is a farce! This isn't justice!
 
 ---
 
@@ -13869,7 +13869,7 @@ How dare you show contempt for this holy court! Unlike the venues to which you a
 ---
 
 **Fujimaru 1:**
-Mata Hari!!!|
+Mata Hari!!!
 
 ---
 
@@ -13891,7 +13891,7 @@ Get back! Nobody approaches the condemned!
 ---
 
 **Fujimaru 1:**
-...Is she saying something?|
+...Is she saying something?
 
 ---
 
@@ -13904,7 +13904,7 @@ I can see her lips moving...
 ---
 
 **Fujimaru 1:**
-Damn, it's no use. I can't tell what she's saying...|
+Damn, it's no use. I can't tell what she's saying...
 
 ---
 
@@ -14006,7 +14006,7 @@ Can't you feel it?There's a will at work behind all of this.
 ---
 
 **Fujimaru 1:**
-Is it related to Mash's disappearance...?|
+Is it related to Mash's disappearance...?
  
 **Circe:**
 My, my. You arrived at the same conclusion I did.
@@ -14060,7 +14060,7 @@ Here's what we're going to do.We're going to let Mata Hari be executed.
 ---
 
 **Fujimaru 1:**
-Huh!?|
+Huh!?
  
 **Nezha:**
 Whaaa!?
@@ -14090,7 +14090,7 @@ Ugh, dammit. Dammit...!This friggin' sucks!
 ---
 
 **Fujimaru 1:**
-Why is Mata Hari just going along with this?|
+Why is Mata Hari just going along with this?
  
 **Robin Hood:**
 I know she's not the type to cry and beg for her life...
@@ -14144,7 +14144,7 @@ Mata Hari's up next...She's ignoring what he has to say, but...
 ---
 
 **Fujimaru 1:**
-I can't take this anymore. I'm going to stop&ndash;|
+I can't take this anymore. I'm going to stop&ndash;
 
 ---
 
@@ -14157,7 +14157,7 @@ I can't take this anymore. I'm going to stop&ndash;|
 ---
 
 **Fujimaru 1:**
-(Her lips are moving again...?)|
+(Her lips are moving again...?)
 
 ---
 
@@ -14168,7 +14168,7 @@ I can't take this anymore. I'm going to stop&ndash;|
 ---
 
 **Fujimaru 1:**
-Robin, read her lips! Hurry!|
+Robin, read her lips! Hurry!
 
 ---
 
@@ -14182,7 +14182,7 @@ You want me to lip-read?...Okay, got it.
 ---
 
 **Fujimaru 1:**
-Go for it.|
+Go for it.
 
 ---
 
@@ -14196,7 +14196,7 @@ Go for it.|
 ---
 
 **Fujimaru 1:**
-“It's okay. Trust Circe.”|
+“It's okay. Trust Circe.”
 
 ---
 
@@ -14222,7 +14222,7 @@ How could you. Let this happen. Master!?
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -14230,7 +14230,7 @@ How could you. Let this happen. Master!?
 ---
 
 **Fujimaru 1:**
-...What did she mean by that?|
+...What did she mean by that?
 
 ---
 
@@ -14261,7 +14261,7 @@ The workshop...?The Carter house? What happened?
 ---
 
 **Fujimaru 1:**
-Then, someone set fire to the house on purpose?|
+Then, someone set fire to the house on purpose?
  
 
 ---
@@ -14366,7 +14366,7 @@ Huh? Her body?Why're you giving me orders, anyway!?
 ---
 
 **Fujimaru 1:**
-Please, Robin!|
+Please, Robin!
 
 ---
 
@@ -14382,7 +14382,7 @@ Master! I'll get Abigail!
 ---
 
 **Fujimaru 1:**
-Got it! Thanks, Nezha!|
+Got it! Thanks, Nezha!
  
 **Nezha:**
 You are welcome!If I see. Others in danger. I shall save. Them too!
@@ -14486,7 +14486,7 @@ I-I'm sorry, Your Honor, but we've got our hands full at the moment!
 ---
 
 **Fujimaru 1:**
-Sanson!|
+Sanson!
 
 ---
 
@@ -14508,7 +14508,7 @@ I'm staying here!I have to keep these people safe!
 ---
 
 **Fujimaru 1:**
-Huh!?|
+Huh!?
 
 ---
 
@@ -14554,7 +14554,7 @@ What're you doing, you idiot!? Just leave her already! She's nothing but another
 ---
 
 **Fujimaru 1:**
-Don't stop for anything, Robin!|
+Don't stop for anything, Robin!
 
 ---
 
@@ -14626,7 +14626,7 @@ Oh, really? Crap.
 ---
 
 **Fujimaru 1:**
-We can't keep our identities secret from Abby anymore.|
+We can't keep our identities secret from Abby anymore.
 
 ---
 
@@ -14645,7 +14645,7 @@ Are you sure it's safe to&ndash;ow, ow, ow, ow!
 ---
 
 **Fujimaru 1:**
-Nezha, Circe, you'll have to do all the fighting.|
+Nezha, Circe, you'll have to do all the fighting.
  
 **Nezha:**
 What will you do? Master?
@@ -14672,7 +14672,7 @@ Rrr... Grr... Rrr...?
 ---
 
 **Fujimaru 1:**
-Wh-who're you!?|
+Wh-who're you!?
 
 ---
 
@@ -14719,7 +14719,7 @@ Hmm, shall we say a fixed price for every ghoul I kill? I'm also willing to offe
 ---
 
 **Fujimaru 1:**
-Huh? You're CHARGING us?|
+Huh? You're CHARGING us?
 
 ---
 
@@ -14744,7 +14744,7 @@ Surely you don't expect me to work for no compensation...do you?
 ---
 
 **Fujimaru 1:**
-A signing fee!? I-I'll put it on Chaldea's tab...|
+A signing fee!? I-I'll put it on Chaldea's tab...
 
 ---
 
@@ -14763,7 +14763,7 @@ All right then, I'll make sure to provide you with excellent service during our 
 ---
 
 **Fujimaru 1:**
-Heed my words.|
+Heed my words.
 
 ---
 
@@ -14776,7 +14776,7 @@ My will creates your body, and your sword creates my destiny...
 ---
 
 **Fujimaru 1:**
-If you abide by this reason...|
+If you abide by this reason...
  
 
 ---
@@ -14791,7 +14791,7 @@ If you abide by this reason...|
 ---
 
 **Fujimaru 1:**
-If you abide by this reason...|
+If you abide by this reason...
  
 
 ---
@@ -14874,7 +14874,7 @@ Senpai!
 ---
 
 **Fujimaru 1:**
-Mash!|
+Mash!
 
 ---
 
@@ -14933,7 +14933,7 @@ She took it before she was scheduled to be hanged.
 ---
 
 **Fujimaru 1:**
-So, you were only pretending to be dead?|
+So, you were only pretending to be dead?
 
 ---
 
@@ -15076,7 +15076,7 @@ Of course, now I can see what a rash,foolish thing that was to do.
 ---
 
 **Fujimaru 1:**
-Water under the bridge, Mash. Don't sweat it.|
+Water under the bridge, Mash. Don't sweat it.
  
 **Mash:**
 ...Okay. Thank you, Senpai.
@@ -15169,7 +15169,7 @@ Okaaay, so much as I'm still curious as to why Sheba here is the only one who's 
 ---
 
 **Fujimaru 1:**
-Did you figure something out, Circe?|
+Did you figure something out, Circe?
 
 ---
 
@@ -15219,7 +15219,7 @@ Abby... I know this may be hard to understand, but...
 ---
 
 **Fujimaru 1:**
-I promise we aren't blasphemers.|
+I promise we aren't blasphemers.
 
 ---
 
@@ -15257,7 +15257,7 @@ Especially if they try to use them to do good things and make people happy...
 ---
 
 **Fujimaru 1:**
-Queen of Sheba, you will help us, right?|
+Queen of Sheba, you will help us, right?
  
 
 ---
@@ -15272,7 +15272,7 @@ Queen of Sheba, will you lend a hand to Chaldea?
 ---
 
 **Fujimaru 1:**
-Queen of Sheba, you will help us, right?|
+Queen of Sheba, you will help us, right?
  
 
 ---
@@ -15409,7 +15409,7 @@ Because I don't want to make enemies out of you...
 ---
 
 **Fujimaru 1:**
-...Is there any way we can contact Chaldea again?|
+...Is there any way we can contact Chaldea again?
 
 ---
 
@@ -15528,7 +15528,7 @@ Yes. As far as I'm concerned,they're all wonderful senpai.
 ---
 
 **Fujimaru 1:**
-See you later, Mash. And be careful.|
+See you later, Mash. And be careful.
 
 ---
 
@@ -15557,7 +15557,7 @@ Dammit, Frenchie, of all the times for you to bail on us...
 ---
 
 **Fujimaru 1:**
-Sanson knows what he's doing.|
+Sanson knows what he's doing.
 
 ---
 
@@ -15594,7 +15594,7 @@ So in these dangerous times, we're not letting anyone suspicious near that house
 ---
 
 **Fujimaru 1:**
-...You've gotta be kidding me!|
+...You've gotta be kidding me!
 
 ---
 
@@ -15634,7 +15634,7 @@ What a load of crap!
 ---
 
 **Fujimaru 1:**
-Hahahaha!|
+Hahahaha!
  
 **Robin Hood:**
 How is this funny!?
@@ -15673,7 +15673,7 @@ Or maybe even a white horned owl...Hehe. Hehehe...
 ---
 
 **Fujimaru 1:**
-You did manage something though, right, Robin?|
+You did manage something though, right, Robin?
 
 ---
 
@@ -15702,7 +15702,7 @@ That's right. And there's trouble brewing there right now!
 ---
 
 **Fujimaru 1:**
-Don't tell me there's more ghouls!?|
+Don't tell me there's more ghouls!?
 
 ---
 
@@ -16141,7 +16141,7 @@ Iä...Iä...Y'gnaiih...y'gna...
 ---
 
 **Fujimaru 1:**
-Oh wow, this IS really bad.|
+Oh wow, this IS really bad.
 
 ---
 
@@ -16169,7 +16169,7 @@ This is why sailors just plain don't deserve to have normal human intelligence, 
 ---
 
 **Fujimaru 1:**
-Uh, that's a horrifying thing to say.|
+Uh, that's a horrifying thing to say.
  
 **Circe:**
 Is it?
@@ -16214,7 +16214,7 @@ I got a gander o' 'er in town. She seemed down on 'er luck, but she were prim an
 ---
 
 **Fujimaru 1:**
-(He must be talking about Medea...)|
+(He must be talking about Medea...)
 
 ---
 
@@ -16275,7 +16275,7 @@ Is it really stormy out there on the open sea?How do we know the firm ain't pull
 ---
 
 **Fujimaru 1:**
-No wonder drinking isn't cheering them up...|
+No wonder drinking isn't cheering them up...
 
 ---
 
@@ -16289,7 +16289,7 @@ Fortunately, I think this sort of thing is right up The Fujimaru Company's alley
 ---
 
 **Fujimaru 1:**
-I guess a play could help them relax.|
+I guess a play could help them relax.
  
 **Robin Hood:**
 Can't say I see what's in it for us. But, I guess we may as well now that we've come this far.
@@ -16325,7 +16325,7 @@ So I guess I'll just have to play both female parts myself. Lucky I'm so good at
 ---
 
 **Fujimaru 1:**
-Right. Circe here's actually a master of disguise.|
+Right. Circe here's actually a master of disguise.
 
 ---
 
@@ -16351,7 +16351,7 @@ At last, my stage debut! Hehe... Just goes ta show there's no tellin' what life'
 ---
 
 **Fujimaru 1:**
-No back talk!|
+No back talk!
  
 **Circe:**
 Exactly. It's time you put those muscles of yours to work for something besides fighting!
@@ -16777,7 +16777,7 @@ Can you pretend to be Lily again? Please?
 ---
 
 **Fujimaru 1:**
-I-I thought it was good...|
+I-I thought it was good...
 
 ---
 
@@ -16997,7 +16997,7 @@ Poor Abby. She's still moaning in her sleep...
 ---
 
 **Fujimaru 1:**
-I hope she's okay...|
+I hope she's okay...
 
 ---
 
@@ -17008,7 +17008,7 @@ I hope she's okay...|
 ---
 
 **Fujimaru 1:**
-Is she saying something...?|
+Is she saying something...?
 
 ---
 
@@ -17076,7 +17076,7 @@ Yes, she is. She was one of the most important people during the trials.
 ---
 
 **Fujimaru 1:**
-I knew it...|
+I knew it...
  
 **Mash:**
 I'm sorry, Senpai.I wish I could have been more helpful...
@@ -17184,7 +17184,7 @@ Senpai...
 ---
 
 **Fujimaru 1:**
-What do you think, Queen of Sheba?|
+What do you think, Queen of Sheba?
  
 **Queen of Sheba:**
 I don't begrudge Miss Abby anything...
@@ -17223,7 +17223,7 @@ If that doesn't put us over a barrel,I don't know what does.
 ---
 
 **Fujimaru 1:**
-What about you, Mash?|
+What about you, Mash?
 
 ---
 
@@ -17255,7 +17255,7 @@ I don't have any right to say things like that when I couldn't even do my own jo
 ---
 
 **Fujimaru 1:**
-Don't worry about it, Mash.|
+Don't worry about it, Mash.
 
 ---
 
@@ -17301,7 +17301,7 @@ I sense...evil.
 ---
 
 **Fujimaru 1:**
-Great, ANOTHER attack?|
+Great, ANOTHER attack?
 
 ---
 
@@ -17323,7 +17323,7 @@ If worse comes to worst I'll pretend to be a ghoul myself. Just make sure you do
 ---
 
 **Fujimaru 1:**
-Okay, everyone... Let's do this!|
+Okay, everyone... Let's do this!
 
 ---
 
@@ -17363,7 +17363,7 @@ Well there, if it ain't Fujimaru and comrades! Looks like yer in a spot o' troub
 ---
 
 **Fujimaru 1:**
-The sailors from the wharf?|
+The sailors from the wharf?
 
 ---
 
@@ -17423,7 +17423,7 @@ Abigail! Abigail, where are you!?
 ---
 
 **Fujimaru 1:**
-Mr. Carter!|
+Mr. Carter!
 
 ---
 
@@ -17460,7 +17460,7 @@ I agreed to take her with me as far as the village's exit. I thought she had hea
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -17485,7 +17485,7 @@ Keep that thing away from me!Stay back!
 ---
 
 **Fujimaru 1:**
-Please don't kick it, Mr. Carter.|
+Please don't kick it, Mr. Carter.
  
 **Carter:**
 Shoo! Shoo!
@@ -17617,7 +17617,7 @@ Ridiculous. I have never heard anything so completely absurd in all my life.
 ---
 
 **Fujimaru 1:**
-What about all the monsters? That can't be normal.|
+What about all the monsters? That can't be normal.
 
 ---
 
@@ -17667,7 +17667,7 @@ They've got great toxin, but you can't get it anymore now that they're all petri
 ---
 
 **Fujimaru 1:**
-Would you two shut up for a moment?|
+Would you two shut up for a moment?
 
 ---
 
@@ -17687,7 +17687,7 @@ It's time you learned the difference between fantasy and reality.
 ---
 
 **Fujimaru 1:**
-Where are Abby's parents' graves?|
+Where are Abby's parents' graves?
 
 ---
 
@@ -17734,7 +17734,7 @@ Even now, my niece has nightmares about it.
 ---
 
 **Fujimaru 1:**
-Who was the last one to see them alive?|
+Who was the last one to see them alive?
 
 ---
 
@@ -17757,7 +17757,7 @@ Man, oh man, I've never seen such a thick fog before.It even managed to soak thr
 ---
 
 **Fujimaru 1:**
-Hm? You mean outside?|
+Hm? You mean outside?
 
 ---
 
@@ -17771,7 +17771,7 @@ There's been more hangings.One last night, and one before dawn today.
 ---
 
 **Fujimaru 1:**
-...! Who did they execute?|
+...! Who did they execute?
 
 ---
 
@@ -17800,7 +17800,7 @@ They say they killed the tavern owner just to get out of paying their tab.
 ---
 
 **Fujimaru 1:**
-That can't be right...!|
+That can't be right...!
 
 ---
 
@@ -17828,7 +17828,7 @@ If this is all part of our forced incarnation...
 ---
 
 **Fujimaru 1:**
-Don't even joke about that.|
+Don't even joke about that.
  
 **Robin Hood:**
 ...Yeah. Sorry 'bout that.
@@ -17864,7 +17864,7 @@ For my part, I kept saying we need to do something about Hopkins ASAP...
 ---
 
 **Fujimaru 1:**
-What did the Queen of Sheba think?|
+What did the Queen of Sheba think?
 
 ---
 
@@ -17875,7 +17875,7 @@ Don't know. She refused to comment.
 ---
 
 **Fujimaru 1:**
-Why's that?|
+Why's that?
 
 ---
 
@@ -17918,7 +17918,7 @@ A land forsaken by God,where prayers just tumble out into an empty abyss.
 ---
 
 **Fujimaru 1:**
-...!? A heretical land...!?|
+...!? A heretical land...!?
  
 **Robin Hood:**
 Yup. Even the best of intentions backfire here.All they seem to get you is a noose around your neck.
@@ -17965,7 +17965,7 @@ And if that's how it is...all we can do is go along with whatever he's got in mi
 ---
 
 **Fujimaru 1:**
-I wasn't able to stop any of the hangings...|
+I wasn't able to stop any of the hangings...
  
 **Robin Hood:**
 I hate to say it, but I don't think anything about that hanging business can be avoided.
@@ -18337,7 +18337,7 @@ No. I...I did this...
 ---
 
 **Fujimaru 1:**
-...Sanson?|
+...Sanson?
 
 ---
 
@@ -18431,7 +18431,7 @@ Could you...stay with me...?
 ---
 
 **Fujimaru 1:**
-...Is there something we can get for you?|
+...Is there something we can get for you?
  
 **Abigail:**
 ...No, it's not that.It's just...
@@ -18464,7 +18464,7 @@ This is all my...
 ---
 
 **Fujimaru 1:**
-It's okay. We'll take care of it.|
+It's okay. We'll take care of it.
  
 **Mash:**
 ...
@@ -18500,7 +18500,7 @@ I'd really like it if you told me about where you're from... About Chaldea...
 ---
 
 **Fujimaru 1:**
-Sure.|
+Sure.
 
 ---
 
@@ -18525,7 +18525,7 @@ What would you like to know?
 ---
 
 **Fujimaru 1:**
-Let's just stay with her for a little while.|
+Let's just stay with her for a little while.
  
 **Mash:**
 Senpai...All right.
@@ -18549,7 +18549,7 @@ Is Chaldea very far away...? What's it like?Is it a town? A castle? A theater?
 ---
 
 **Fujimaru 1:**
-It's all of those things.|
+It's all of those things.
 
 ---
 
@@ -18566,7 +18566,7 @@ It's also...where I was born.
 ---
 
 **Fujimaru 1:**
-Yup. It's actually an observatory.|
+Yup. It's actually an observatory.
 
 ---
 
@@ -18588,7 +18588,7 @@ I wonder if you could see the comet I was born under from Chaldea...
 ---
 
 **Fujimaru 1:**
-So you already know what an observatory is.|
+So you already know what an observatory is.
 
 ---
 
@@ -18640,7 +18640,7 @@ Your friend...?
 ---
 
 **Fujimaru 1:**
-You mean this stuffed animal?|
+You mean this stuffed animal?
  
 **Abigail:**
 ...Yes, that's it.
@@ -18676,7 +18676,7 @@ A dog once tore him up,but Tituba managed to sew him back together...
 ---
 
 **Fujimaru 1:**
-So where's Migo?|
+So where's Migo?
 
 ---
 
@@ -18708,7 +18708,7 @@ We even thought up their names together...
 ---
 
 **Fujimaru 1:**
-I'm sure Migo is doing well.|
+I'm sure Migo is doing well.
  
 **Abigail:**
 I guess so... He always did love to travel...
@@ -18735,7 +18735,7 @@ Do other people tease them, and call them a baby...?
 ---
 
 **Fujimaru 1:**
-Why don't we go there together and find out?|
+Why don't we go there together and find out?
 
 ---
 
@@ -18746,7 +18746,7 @@ Huh? Senpai? What do you mean by that...?
 ---
 
 **Fujimaru 1:**
-We'll do a little improv.|
+We'll do a little improv.
 
 ---
 
@@ -18771,7 +18771,7 @@ I'm sorry... But I can never go to Chaldea...
 ---
 
 **Fujimaru 1:**
-In that case, Hugo can come along in your place.|
+In that case, Hugo can come along in your place.
 
 ---
 
@@ -18788,7 +18788,7 @@ And Abby, please stay in bed while you watch.You mustn't get too excited.
 ---
 
 **Fujimaru 1:**
-'Kaaay.|
+'Kaaay.
  
 **Mash:**
 Hehe.
@@ -18824,7 +18824,7 @@ Everyone in Chaldea has their own things they care about deeply.
 ---
 
 **Fujimaru 1:**
-“Abby, you can be kind of willful, can't you?”|
+“Abby, you can be kind of willful, can't you?”
 
 ---
 
@@ -18835,7 +18835,7 @@ Haha, is that you, Hugo?...It's true. I'm sorry.
 ---
 
 **Fujimaru 1:**
-“You're also very curious, aren't you, Abby?”|
+“You're also very curious, aren't you, Abby?”
  
 **Abigail:**
 Yes... I suppose I am.
@@ -18862,7 +18862,7 @@ What other sorts of people does Chaldea have besides actors?
 ---
 
 **Fujimaru 1:**
-“Let's see... Whoa, they're all a bunch of weirdos!”|
+“Let's see... Whoa, they're all a bunch of weirdos!”
  
 **Mash:**
 Haha. True, I guess there are a lot of people with strong personalities there.
@@ -18895,7 +18895,7 @@ Bombs!? Hurry, Hugo! Get out of there!
 ---
 
 **Fujimaru 1:**
-“Aaah! Help meee!”|
+“Aaah! Help meee!”
 
 ---
 
@@ -18906,7 +18906,7 @@ I-I'm sorry... I shouldn't have said that.
 ---
 
 **Fujimaru 1:**
-"Mash, are you actually the normal one!?”|
+"Mash, are you actually the normal one!?”
  
 **Mash:**
 I stand out for being normal? You think...?
@@ -18951,7 +18951,7 @@ Hopefully one that's peaceful and quiet?
 ---
 
 **Fujimaru 1:**
-“Hmm. In that case, what about the kitchen?”|
+“Hmm. In that case, what about the kitchen?”
 
 ---
 
@@ -18970,7 +18970,7 @@ Hahaha...
 ---
 
 **Fujimaru 1:**
-(What a dark and creepy night...)|
+(What a dark and creepy night...)
 
 ---
 
@@ -18989,7 +18989,7 @@ Hahaha...
 ---
 
 **Fujimaru 1:**
-...Who're you!?|
+...Who're you!?
 
 ---
 
@@ -19011,7 +19011,7 @@ Moooth moth moth moth moth moth!Moth moth moth moth moth moth moth!
 ---
 
 **Fujimaru 1:**
-Give it up, Mephy.|
+Give it up, Mephy.
 
 ---
 
@@ -19025,7 +19025,7 @@ It's me, Mothy&ndash;I mean, Mephy.
 ---
 
 **Fujimaru 1:**
-How did you get here without Rayshifting?|
+How did you get here without Rayshifting?
 
 ---
 
@@ -19042,7 +19042,7 @@ It's very easy, too. Unlike heaven, the doors to hellscapes are always wide open
 ---
 
 **Fujimaru 1:**
-Yeah, I guess that makes sense...|
+Yeah, I guess that makes sense...
 
 ---
 
@@ -19056,7 +19056,7 @@ My, my, the creator certainly did an excellent job here. I took a quick gander a
 ---
 
 **Fujimaru 1:**
-We haven't even found the Demon God Pillar, though...|
+We haven't even found the Demon God Pillar, though...
  
 **Mephistopheles:**
 What's this? It's not like you to be so discouraged.
@@ -19086,7 +19086,7 @@ Besides...
 ---
 
 **Fujimaru 1:**
-Are you sure?|
+Are you sure?
 
 ---
 
@@ -19151,7 +19151,7 @@ I have to agree with her.I know we don't have a lot of room to sleep, but...
 ---
 
 **Fujimaru 1:**
-H-huh?|
+H-huh?
 
 ---
 
@@ -19170,7 +19170,7 @@ But you need your rest.Even the Servants are exhausted.
 ---
 
 **Fujimaru 1:**
-I just saw Mephy.|
+I just saw Mephy.
  
 **Mash:**
 ...?
@@ -19200,7 +19200,7 @@ I thought you were just lost in thought and talking to yourself...
 ---
 
 **Fujimaru 1:**
-...Yeah, good idea...|
+...Yeah, good idea...
 
 ---
 
@@ -19208,7 +19208,7 @@ I thought you were just lost in thought and talking to yourself...
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -19219,7 +19219,7 @@ I thought you were just lost in thought and talking to yourself...
 ---
 
 **Fujimaru 1:**
-I'm glad you're here, Mash.|
+I'm glad you're here, Mash.
  
 **Mash:**
 ...!
@@ -19255,7 +19255,7 @@ So let's finish up this mission, and make Da Vinci and Geronimo proud of us.
 ---
 
 **Fujimaru 1:**
-You said it. That Demon God Pillar is going down.|
+You said it. That Demon God Pillar is going down.
  
 **Mash:**
 ...That's right!
@@ -19276,7 +19276,7 @@ Yes, of course!
 ---
 
 **Fujimaru 1:**
-So tomorrow's April 30...|
+So tomorrow's April 30...
 
 ---
 
@@ -19445,7 +19445,7 @@ Can I talk to you for a moment, Fujimaru?
 ---
 
 **Fujimaru 1:**
-Aah! Circe?|
+Aah! Circe?
  
 **Circe:**
 Keep your voice down.
@@ -19475,7 +19475,7 @@ But he refused to accept it!
 ---
 
 **Fujimaru 1:**
-You mean the medicine to fake your death?|
+You mean the medicine to fake your death?
 
 ---
 
@@ -19498,7 +19498,7 @@ What point could there possibly be in sacrificing himself? Just what is that dum
 ---
 
 **Fujimaru 1:**
-...Sanson...|
+...Sanson...
  
 **Circe:**
 He's a good-looking man, right?
@@ -19591,7 +19591,7 @@ What other explanation is there for this!?
 ---
 
 **Fujimaru 1:**
-...Objection!|
+...Objection!
 
 ---
 
@@ -19599,7 +19599,7 @@ What other explanation is there for this!?
 ---
 
 **Fujimaru 1:**
-These circumstances were beyond his control!|
+These circumstances were beyond his control!
  
 **Judge:**
 I disagree, Ringmaster.
@@ -19683,7 +19683,7 @@ And they HAVE been very good to my niece.However...
 ---
 
 **Fujimaru 1:**
-Mr. Carter?|
+Mr. Carter?
 
 ---
 
@@ -19804,7 +19804,7 @@ As such, should you wish to attend his execution,I will grant that request. What
 ---
 
 **Fujimaru 1:**
-This is outrageous...|
+This is outrageous...
 
 ---
 
@@ -19907,7 +19907,7 @@ They've already put a noose around Sanson's neck...!
 ---
 
 **Fujimaru 1:**
-It's now or never...|
+It's now or never...
  
 
 ---
@@ -19922,7 +19922,7 @@ I've got to use a Command Spell...!
 ---
 
 **Fujimaru 1:**
-It's now or never...|
+It's now or never...
  
 
 ---
@@ -19943,7 +19943,7 @@ Stay out of this, Master.
 ---
 
 **Fujimaru 1:**
-Robin...!?|
+Robin...!?
 
 ---
 
@@ -19983,7 +19983,7 @@ Or even Master {(M) himself. /(F) herself.}And there'd be no coming back from th
 ---
 
 **Fujimaru 1:**
-Maybe so, but I still can't let him do this!|
+Maybe so, but I still can't let him do this!
  
 **Circe:**
 Fujimaru, you're just barely hanging on by a thread yourself. Don't go making any reckless moves.
@@ -20169,7 +20169,7 @@ Aaaaaah!
 ---
 
 **Fujimaru 1:**
-...Abigail?|
+...Abigail?
 
 ---
 
@@ -20218,7 +20218,7 @@ Come at me, you little punk! I'll give you your first lesson in real witchcraft!
 ---
 
 **Fujimaru 1:**
-Circe! Take it down a notch!|
+Circe! Take it down a notch!
  
 
 ---
@@ -20253,7 +20253,7 @@ Abigail is back to normal...
 ---
 
 **Fujimaru 1:**
-At least we kept her under control, but...|
+At least we kept her under control, but...
 
 ---
 
@@ -20288,7 +20288,7 @@ Please don't take Senpai away!
 ---
 
 **Fujimaru 1:**
-...It's all up to you now, Mash.|
+...It's all up to you now, Mash.
 
 ---
 
@@ -20316,7 +20316,7 @@ I'm reeeally light, so hanging would be a pretty long and painful death.
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -20345,7 +20345,7 @@ Here, {(M) let me sit on your lap for a bit, . /(F) move over a bit, will you,
 ---
 
 **Fujimaru 1:**
-(I guess Circe's more anxious than she lets on...)|
+(I guess Circe's more anxious than she lets on...)
 
 ---
 
@@ -20376,7 +20376,7 @@ I mean to the outside world. Beyond Salem.
 ---
 
 **Fujimaru 1:**
-I'm still a Master of Chaldea.|
+I'm still a Master of Chaldea.
 
 ---
 
@@ -20401,7 +20401,7 @@ Or maybe a prosthetic {(M) leg /(F) arm}...?
 ---
 
 **Fujimaru 1:**
-...(Staaare)|
+...(Staaare)
 
 ---
 
@@ -20417,7 +20417,7 @@ O-on second thought, never mind.Just forget about it.
 ---
 
 **Fujimaru 1:**
-(Tickle her)|
+(Tickle her)
  
 **Circe:**
 Stooop! I'm sorry! I'll never do it again!
@@ -20462,7 +20462,7 @@ Okay, I'll let you have some privacy.If you need anything, just let me know!
 ---
 
 **Fujimaru 1:**
-Hello, Randolph Carter. Or should I say...|
+Hello, Randolph Carter. Or should I say...
 
 ---
 
@@ -20478,7 +20478,7 @@ Well, if it isn't...
 ---
 
 **Fujimaru 1:**
-The Demon God Pillar.|
+The Demon God Pillar.
 
 ---
 
@@ -20489,7 +20489,7 @@ The Demon God Pillar.|
 ---
 
 **Fujimaru 1:**
-I always had my suspicions.|
+I always had my suspicions.
 
 ---
 
@@ -20547,7 +20547,7 @@ Nor do my values align with any of the other members of the Five Envoys...
 ---
 
 **Fujimaru 1:**
-Are you here to kill us?|
+Are you here to kill us?
 
 ---
 
@@ -20579,7 +20579,7 @@ Otherwise you'll fall into the same trap as the Queen of Sheba. One of your own 
 ---
 
 **Fujimaru 1:**
-Fifty thousand people's lives are at stake.|
+Fifty thousand people's lives are at stake.
 
 ---
 
@@ -20595,7 +20595,7 @@ I AM trying to save her.I promise you that much, from the bottom of my heart.
 ---
 
 **Fujimaru 1:**
-What did you do to her?|
+What did you do to her?
 
 ---
 
@@ -20633,7 +20633,7 @@ She was everything I could have hoped for and more.Thanks to her, I am certain t
 ---
 
 **Fujimaru 1:**
-What are you planning on making her do...!?|
+What are you planning on making her do...!?
 
 ---
 
@@ -20674,7 +20674,7 @@ I expect great things of you, {(M) Mr. /(F) Ms.} Fujimaru... Great things indeed
 ---
 
 **Fujimaru 1:**
-Pain...?|
+Pain...?
  
 **Circe:**
 Man, what a sick freak, even for a Demon God Pillar. No wonder he ended up among the remnants.
@@ -20707,7 +20707,7 @@ That's playing dirty, in multiple senses of the word! Have you no shame!?
 ---
 
 **Fujimaru 1:**
-You've been looping time to recreate history?|
+You've been looping time to recreate history?
  
 **Carter:**
 Repeat? Loop? Recreate? What would be the point of that?
@@ -20743,7 +20743,7 @@ So you've been repeating that over and over with no real endgame to speak of, hu
 ---
 
 **Fujimaru 1:**
-Life isn't something for you to toy with!|
+Life isn't something for you to toy with!
 
 ---
 
@@ -20768,7 +20768,7 @@ Hey! We're not done with our questions!
 ---
 
 **Fujimaru 1:**
-One last thing. Whose body is that?|
+One last thing. Whose body is that?
 
 ---
 
@@ -21331,7 +21331,7 @@ That's right. Cook her, roast her, and serve her up on a plate!
 ---
 
 **Fujimaru 1:**
-Nice job, Circe. You really held your tongue.|
+Nice job, Circe. You really held your tongue.
 
 ---
 
@@ -21371,7 +21371,7 @@ I see. Then we shall put Mr. Carter's allegations aside for the moment.
 ---
 
 **Fujimaru 1:**
-(I wonder if they know how ridiculous they sound.)|
+(I wonder if they know how ridiculous they sound.)
  
 **Carter:**
 Fine with me.
@@ -21485,7 +21485,7 @@ First of all... Let us refresh our memories pertaining to her first sin.
 ---
 
 **Fujimaru 1:**
-(We can't let Carter keep running this show...)|
+(We can't let Carter keep running this show...)
 
 ---
 
@@ -21702,7 +21702,7 @@ Now I can get into this courthouse's Bounded Field in my true form!
 ---
 
 **Fujimaru 1:**
-...The Queen of Sheba!?|
+...The Queen of Sheba!?
 
 ---
 
@@ -21728,7 +21728,7 @@ As long as I'm here in this courtroom, nothing you do will break any religious p
 ---
 
 **Fujimaru 1:**
-Thanks, Your Majesty!|
+Thanks, Your Majesty!
  
 **Queen of Sheba:**
 No need for thanks. We can talk price later!
@@ -21788,7 +21788,7 @@ They're all coming at us at once!Wh-what should we do, Master!?
 ---
 
 **Fujimaru 1:**
-We've got this!|
+We've got this!
 
 ---
 
@@ -22010,7 +22010,7 @@ Try THIS glorious star-spangled banner on for size, you cretins!
 ---
 
 **Fujimaru 1:**
-Wait! I'm not sure that's a good idea!|
+Wait! I'm not sure that's a good idea!
 
 ---
 
@@ -22053,7 +22053,7 @@ Then valor on the battlefield is all the more important now!
 ---
 
 **Fujimaru 1:**
-Da Vinci!|
+Da Vinci!
 
 ---
 
@@ -22114,7 +22114,7 @@ Even knowing that, do you still&ndash;
 ---
 
 **Fujimaru 1:**
-Yes.|
+Yes.
 
 ---
 
@@ -22142,7 +22142,7 @@ Räum&ndash;I mean, Carter's head is tearing itself off!
 ---
 
 **Fujimaru 1:**
-He's going full crow!|
+He's going full crow!
 
 ---
 
@@ -22155,7 +22155,7 @@ I think he means to take Abby down with him!
 ---
 
 **Fujimaru 1:**
-Robin! Shoot him!|
+Robin! Shoot him!
 
 ---
 
@@ -22172,7 +22172,7 @@ Dammit!
 ---
 
 **Fujimaru 1:**
-...Lavinia!?|
+...Lavinia!?
 
 ---
 
@@ -22221,7 +22221,7 @@ Lavinia...
 ---
 
 **Fujimaru 1:**
-(Abby's like a totally different person again...)|
+(Abby's like a totally different person again...)
  
 
 ---
@@ -22254,7 +22254,7 @@ Abigail lost the last of her humanity while Räum kept us busy.
 ---
 
 **Fujimaru 1:**
-RO&ndash;|
+RO&ndash;
 
 ---
 
@@ -22298,7 +22298,7 @@ Uh-oh. This distortion in the Bounded Field... This violation of religious prece
 ---
 
 **Fujimaru 1:**
-Abi...gail...?|
+Abi...gail...?
 
 ---
 
@@ -22371,7 +22371,7 @@ Please, stop this...!!!
 ---
 
 **Fujimaru 1:**
-...Abigail.|
+...Abigail.
 
 ---
 
@@ -22387,7 +22387,7 @@ I see you understand, {(M) Mr. /(F) Ms.} Ringmaster.Unlike Mash...
 ---
 
 **Fujimaru 1:**
-You don't have to do this, Abigail.|
+You don't have to do this, Abigail.
 
 ---
 
@@ -22398,7 +22398,7 @@ Even with all these people looking for salvation...? Your happiness...is my happ
 ---
 
 **Fujimaru 1:**
-I'll be happy once I've saved you.|
+I'll be happy once I've saved you.
  
 **H：Abigail:**
 Save...me?
@@ -22437,7 +22437,7 @@ We must kill. That false god.
 ---
 
 **Fujimaru 1:**
-Nezha...|
+Nezha...
 
 ---
 
@@ -22457,7 +22457,7 @@ My own soul. Is proof of that!!!
 ---
 
 **Fujimaru 1:**
-Right, Nezha. Got it...!|
+Right, Nezha. Got it...!
 
 ---
 
@@ -22584,7 +22584,7 @@ Fujimaru...? This just...isn't enough suffering to save the world.
 ---
 
 **Fujimaru 1:**
-She's growing even stronger...|
+She's growing even stronger...
 
 ---
 
@@ -22618,7 +22618,7 @@ But, that doesn't matter anymore. You no longer need to suffer for your sins. I'
 ---
 
 **Fujimaru 1:**
-I wished for that...?|
+I wished for that...?
 
 ---
 
@@ -22634,7 +22634,7 @@ Senpai...!Please, get a hold of yourself!
 ---
 
 **Fujimaru 1:**
-But...if she's telling the truth...|
+But...if she's telling the truth...
 
 ---
 
@@ -22677,7 +22677,7 @@ All {(M) he /(F) she} cares about is making sure everyone's got a bright future 
 ---
 
 **Fujimaru 1:**
-Robin...!|
+Robin...!
 
 ---
 
@@ -22694,7 +22694,7 @@ Otherwise, that scholar guy wouldn't have a damn leg to stand on. That was his l
 ---
 
 **Fujimaru 1:**
-...Yeah.|
+...Yeah.
 
 ---
 
@@ -22719,7 +22719,7 @@ The only difference is that you've got all of Salem's incredible magical energy 
 ---
 
 **Fujimaru 1:**
-...Abigail. Let me show you what it's like outside.|
+...Abigail. Let me show you what it's like outside.
 
 ---
 
@@ -22772,7 +22772,7 @@ She's got to have a limit. She's GOT to.
 ---
 
 **Fujimaru 1:**
-Right. Besides, we're still in this too!|
+Right. Besides, we're still in this too!
 
 ---
 
@@ -22861,7 +22861,7 @@ My full power. Now. Unleashed!
 ---
 
 **Fujimaru 1:**
-Then, that means...!|
+Then, that means...!
 
 ---
 
@@ -22887,7 +22887,7 @@ Your Master...sure likes...to take {(M) his /(F) her} time...doesn't {(M) he /(F
 ---
 
 **Fujimaru 1:**
-Abigail!|
+Abigail!
 
 ---
 
@@ -22898,7 +22898,7 @@ Abigail!|
 ---
 
 **Fujimaru 1:**
-...Aha. “Oh, Abigail.”|
+...Aha. “Oh, Abigail.”
 
 ---
 
@@ -22906,7 +22906,7 @@ Abigail!|
 ---
 
 **Fujimaru 1:**
-“You can be so willful sometimes, can't you?”|
+“You can be so willful sometimes, can't you?”
 
 ---
 
@@ -22923,7 +22923,7 @@ Which is why I can't wait any longer. I'm dying to forgive you before I forgive 
 ---
 
 **Fujimaru 1:**
-Sorry, but that's not happening.|
+Sorry, but that's not happening.
 
 ---
 
@@ -22939,7 +22939,7 @@ I'm even more willful, remember!?
 ---
 
 **Fujimaru 1:**
-I can't wait to go on my next journey...|
+I can't wait to go on my next journey...
 
 ---
 
@@ -22981,7 +22981,7 @@ Any...body...
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -23061,7 +23061,7 @@ I wanted...to see the whales...one more time...
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -23069,7 +23069,7 @@ I wanted...to see the whales...one more time...
 ---
 
 **Fujimaru 1:**
-I think...Abigail has suffered enough.|
+I think...Abigail has suffered enough.
 
 ---
 
@@ -23095,7 +23095,7 @@ If anything, I'm the one who should be punished for acting so thoughtlessly...
 ---
 
 **Fujimaru 1:**
-...I see.|
+...I see.
 
 ---
 
@@ -23163,7 +23163,7 @@ Then you'll all be able to go back to Chaldea!I'm so happy for you.
 ---
 
 **Fujimaru 1:**
-Salem is still here, even though we beat the Pillar...|
+Salem is still here, even though we beat the Pillar...
 
 ---
 
@@ -23188,7 +23188,7 @@ No wonder Räum chose her.
 ---
 
 **Fujimaru 1:**
-How are the people from modern-day Salem doing...?|
+How are the people from modern-day Salem doing...?
 
 ---
 
@@ -23199,7 +23199,7 @@ They're all pretty weak, but I don't think they're in any danger. I expect they'
 ---
 
 **Fujimaru 1:**
-Edison will be glad to hear that.|
+Edison will be glad to hear that.
 
 ---
 
@@ -23213,7 +23213,7 @@ But then again, maybe that'll serve as inspiration for some authors and artists 
 ---
 
 **Fujimaru 1:**
-They pretty much owe you their lives, Sheba.|
+They pretty much owe you their lives, Sheba.
 
 ---
 
@@ -23230,7 +23230,7 @@ Still, I wonder if...
 ---
 
 **Fujimaru 1:**
-...Don't worry.|
+...Don't worry.
 
 ---
 
@@ -23249,7 +23249,7 @@ I'm sure he'd be thrilled.
 ---
 
 **Fujimaru 1:**
-(Sheba was summoned by her namesake...)|
+(Sheba was summoned by her namesake...)
 
 ---
 
@@ -23262,7 +23262,7 @@ I'm sure he'd be thrilled.
 ---
 
 **Fujimaru 1:**
-(So, does that mean...)|
+(So, does that mean...)
 
 ---
 
@@ -23284,7 +23284,7 @@ Since we checked in together,we'll also be checking out together.
 ---
 
 **Fujimaru 1:**
-...Is there anything you'd like me to tell Medea?|
+...Is there anything you'd like me to tell Medea?
  
 **Circe:**
 Nah, nothing too special.Just tell her you're sorry for me.
@@ -23341,7 +23341,7 @@ You can say that again.
 ---
 
 **Fujimaru 1:**
-...!|
+...!
 
 ---
 
@@ -23379,7 +23379,7 @@ I'm guessing the man you know is the being who made off with my body?
 ---
 
 **Fujimaru 1:**
-...Huh?|
+...Huh?
 
 ---
 
@@ -23404,7 +23404,7 @@ But unfortunately, while I was sleeping, my body was stolen from me.
 ---
 
 **Fujimaru 1:**
-By Räum, the Demon God Pillar?|
+By Räum, the Demon God Pillar?
 
 ---
 
@@ -23463,7 +23463,7 @@ Uh-oh. That rumbling...
 ---
 
 **Fujimaru 1:**
-Sounds like Salem won't be around much longer.|
+Sounds like Salem won't be around much longer.
 
 ---
 
@@ -23546,7 +23546,7 @@ Oh, I'm sorry. I suppose that was far too familiar of me. This is, in truth, our
 ---
 
 **Fujimaru 1:**
-It's that cat... And it's got friends.|
+It's that cat... And it's got friends.
 
 ---
 
@@ -23586,7 +23586,7 @@ You're nothing like my last uncle.And yet, you're still him...
 ---
 
 **Fujimaru 1:**
-Abby, what is it YOU want to do?|
+Abby, what is it YOU want to do?
 
 ---
 
@@ -23627,7 +23627,7 @@ The Demon God may have tempted me,but I still accepted his offer.
 ---
 
 **Fujimaru 1:**
-(Abby understands she's a Servant now...)|
+(Abby understands she's a Servant now...)
 
 ---
 
@@ -23661,7 +23661,7 @@ God would never forgive me for what I've done!And yet, I...
 ---
 
 **Fujimaru 1:**
-...That's for you to decide, Abby.|
+...That's for you to decide, Abby.
 
 ---
 
@@ -23813,7 +23813,7 @@ And, I know I can be naughty sometimes...So if I am, I hope you'll scold me...
 ---
 
 **Fujimaru 1:**
-I think I can handle that now and then.|
+I think I can handle that now and then.
  
 **Abigail:**
 Then, when I'm being a good girl the rest of the time...will you let me get away with lots of things?
@@ -23888,7 +23888,7 @@ You know, I actually kind of enjoyed putting on plays with you guys.
 ---
 
 **Fujimaru 1:**
-Thanks, beautiful and wise Circe.|
+Thanks, beautiful and wise Circe.
  
 **Circe:**
 Oho, so you DO know how to pay a compliment.
@@ -23930,7 +23930,7 @@ So chin up, don't lose sight of the stars, and keep putting one foot in front of
 ---
 
 **Fujimaru 1:**
-Did you...just predict the future, Sheba?|
+Did you...just predict the future, Sheba?
  
 **Queen of Sheba:**
 Now where would the fun be if I told you that?Some things are better left unsaid.
@@ -23963,7 +23963,7 @@ Welp... Looks like it's our turn to leave.
 ---
 
 **Fujimaru 1:**
-Right... I almost forgot...|
+Right... I almost forgot...
 
 ---
 
@@ -23982,7 +23982,7 @@ Senpaaai!...Give me your hand!
 ---
 
 **Fujimaru 1:**
-...You got it, Mash.|
+...You got it, Mash.
 
 ---
 
@@ -23998,7 +23998,7 @@ Thank you, Senpai...! There's nothing I'd like more!
 ---
 
 **Fujimaru 1:**
-Let's go back to Chaldea. One so different...|
+Let's go back to Chaldea. One so different...
 
 ---
 
@@ -24017,7 +24017,7 @@ One day, let's go on another trip...
 ---
 
 **Fujimaru 1:**
-Oh crap...!|
+Oh crap...!
 
 ---
 
@@ -25057,7 +25057,7 @@ Ulp...
 ---
 
 **Fujimaru 1:**
-Maybe Wukong's bringing someone from the Heavenly Realm?|
+Maybe Wukong's bringing someone from the Heavenly Realm?
  
 **Sha Wujing:**
 Hmm. Unfortunately...
