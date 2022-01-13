@@ -1,4 +1,4 @@
-# Singularity 5: North American Myth War - E Pluribus Unum
+#Singularity 5: North American Myth War - E Pluribus Unum
 
 ![America](https://i.imgur.com/ut2iR3y.png)
 
@@ -362,7 +362,7 @@ Because today, I can spend another peaceful day without changes.
 ---
 
 **Fujimaru 1:**
-...That dream just now...|
+...That dream just now...
 
 ---
 
@@ -379,7 +379,7 @@ Fou? Fooou?
 ---
 
 **Fujimaru 1:**
-Wait... Am I crying?|
+Wait... Am I crying?
 
 ---
 
@@ -396,7 +396,7 @@ Fou?Kyuuu...Fou, fooou!
 ---
 
 **Fujimaru 1:**
-Yup, times like this call for a doctor.|
+Yup, times like this call for a doctor.
  
 
 ---
@@ -423,7 +423,7 @@ As you can see, she's insisting that she follow you. Fujimaru, what do you think
 ---
 
 **Fujimaru 1:**
-I won't stop her if she wants to come.|
+I won't stop her if she wants to come.
  
 **Mash:**
 See? You are being overprotective, Doctor. You are the commander, so please keep your composure.
@@ -486,7 +486,7 @@ Yes. Let's hurry up, Senpai.
 ---
 
 **Fujimaru 1:**
-I didn't get a chance to ask the Doctor...|
+I didn't get a chance to ask the Doctor...
 
 ---
 
@@ -512,7 +512,7 @@ Out of all the information we received, here's the important detail&ndash;
 ---
 
 **Fujimaru 1:**
-He will not attack us.|
+He will not attack us.
 
 ---
 
@@ -571,7 +571,7 @@ As long as they call themselves “Demon Gods,” all 72 pillars will continue t
 ---
 
 **Fujimaru 1:**
-So you mean there is no end?|
+So you mean there is no end?
  
 **Dr. Roman:**
 Yeah. Unless we defeat King Solomon, the summoner, the 72 Demon Gods will never disappear from this planet.
@@ -678,7 +678,7 @@ Whether that's good or not, there's no doubt that this nation is absolutely esse
 ---
 
 **Fujimaru 1:**
-Is England the enemy?|
+Is England the enemy?
 
 ---
 
@@ -728,7 +728,7 @@ Th-That's... Mr. Babbage!?Senpai, it's Mr. Babbage!
 ---
 
 **Fujimaru 1:**
-Calm down, Mash. That's not him.|
+Calm down, Mash. That's not him.
 
 ---
 
@@ -754,7 +754,7 @@ The guns are pointed at us&mdash;Senpai!
 ---
 
 **Fujimaru 1:**
-For now, let's fight back!|
+For now, let's fight back!
  
 
 ---
@@ -797,7 +797,7 @@ We did it!Now those people are retreating as well!
 ---
 
 **Fujimaru 1:**
-Good job, Mash!|
+Good job, Mash!
 
 ---
 
@@ -820,7 +820,7 @@ Fou!
 ---
 
 **Fujimaru 1:**
-Huh?|
+Huh?
 
 ---
 
@@ -854,7 +854,7 @@ Senpai! Stay with me, please!Senpai, Senpai!
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -866,7 +866,7 @@ Patient No. 99, severely wounded. The wound on the right arm is serious, I recom
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -881,7 +881,7 @@ We're going to have to amputate this as well.
 ---
 
 **Fujimaru 1:**
-???|
+???
  
 
 ---
@@ -893,7 +893,7 @@ Gouge wound on the lateral region of the abdomen... No problem, as long as we re
 ---
 
 **Fujimaru 1:**
-???|
+???
  
 
 ---
@@ -911,7 +911,7 @@ Now then, it's time to amputate.
 ---
 
 **Fujimaru 1:**
-Whoa, whoa, whoa!|
+Whoa, whoa, whoa!
  
 
 ---
@@ -929,7 +929,7 @@ If I were to compare it to something...It'll hurt as much as getting your arm ri
 ---
 
 **Fujimaru 1:**
-That's the same thing!|
+That's the same thing!
 
 ---
 
@@ -946,7 +946,7 @@ You mustn't be so childish.At least it's better than dying, isn't it?
 ---
 
 **Fujimaru 1:**
-Um, I don't really think amputation is necessary.|
+Um, I don't really think amputation is necessary.
 
 ---
 
@@ -969,7 +969,7 @@ Don't worry, you're still young.I know you can endure something like this.
 ---
 
 **Fujimaru 1:**
-You're crazy!|
+You're crazy!
 
 ---
 
@@ -1004,7 +1004,7 @@ Your eyes told me otherwise.
 ---
 
 **Fujimaru 1:**
-I am fine!|
+I am fine!
 
 ---
 
@@ -1036,7 +1036,7 @@ Yes... I will do everything in my power to save you! I will take your life if I 
 ---
 
 **Fujimaru 1:**
-That's messed up!|
+That's messed up!
 
 ---
 
@@ -1092,7 +1092,7 @@ Master, here's a Scroll of Healing.
 ---
 
 **Fujimaru 1:**
-I thought I was a goner...|
+I thought I was a goner...
  
 
 ---
@@ -1107,7 +1107,7 @@ All right, if you're finished, get out of the way! My next patient is coming!
 ---
 
 **Fujimaru 1:**
-What is this place?|
+What is this place?
  
 
 ---
@@ -1137,7 +1137,7 @@ And there's one more thing. This army is strange, too.The American flag they're 
 ---
 
 **Fujimaru 1:**
-Things... Homunculi?|
+Things... Homunculi?
  
 **Mash:**
 No, unfortunately, that's not what they are.I'll give you some hints: the smell of oil, looks like iron...
@@ -1248,7 +1248,7 @@ That is the only reason and motivation for my being summoned.
 ---
 
 **Fujimaru 1:**
-There's a way to save them all.|
+There's a way to save them all.
 
 ---
 
@@ -1298,7 +1298,7 @@ If we can't maintain the front line here,the patients will...
 ---
 
 **Fujimaru 1:**
-I know!|
+I know!
 
 ---
 
@@ -1362,7 +1362,7 @@ More are on the way.They're more powerful than the ones before...
 ---
 
 **Fujimaru 1:**
-We've become more powerful as well.|
+We've become more powerful as well.
  
 
 ---
@@ -1575,7 +1575,7 @@ Now, then, farewell! Fare thee well!
 ---
 
 **Fujimaru 1:**
-He proposed to you.|
+He proposed to you.
 
 ---
 
@@ -1786,7 +1786,7 @@ I just used the back of its blade.
 ---
 
 **Fujimaru 1:**
-Do guns have blades?|
+Do guns have blades?
  
 **Mash:**
 If I have to guess... I think she means the bottom of the grip. You just lightly tap the back of the head like this?
@@ -1867,7 +1867,7 @@ Why is it when two strong-minded women clash, it always turns into a bloodbath l
 ---
 
 **Fujimaru 1:**
-Doctor, calm down.|
+Doctor, calm down.
  
 **Mash:**
 I think this is happening because they're both correct, and stubborn in their own way!
@@ -1954,7 +1954,7 @@ No. In this world, all major nations other than America are completely destroyed
 ---
 
 **Fujimaru 1:**
-Who is this king?|
+Who is this king?
 
 ---
 
@@ -1985,7 +1985,7 @@ Kind of like the Throne of Heroes.Don't you think that is a happy ending in its 
 ---
 
 **Fujimaru 1:**
-A definite no!|
+A definite no!
  
 **Blavatsky:**
 Oh, I see.
@@ -2036,7 +2036,7 @@ So the punchline to this venture is that there aren't any Servants joining our s
 ---
 
 **Fujimaru 1:**
-There is one!|
+There is one!
 
 ---
 
@@ -2098,7 +2098,7 @@ Th-They're electric?
 ---
 
 **Fujimaru 1:**
-I'm fired up!|
+I'm fired up!
 
 ---
 
@@ -2163,7 +2163,7 @@ Senpai, Senpai!I'm so glad, you woke up!
 ---
 
 **Fujimaru 1:**
-What on earth happened?|
+What on earth happened?
 
 ---
 
@@ -2218,7 +2218,7 @@ Now, now, be good.
 ---
 
 **Fujimaru 1:**
-Where are we headed?|
+Where are we headed?
 
 ---
 
@@ -2318,7 +2318,7 @@ If we didn't fight, this nation would have been completely destroyed and beyond 
 ---
 
 **Fujimaru 1:**
-So both sides just like to fight?|
+So both sides just like to fight?
  
 **Blavatsky:**
 Dear, you're not a good listener, are you? Has anyone called you stubborn before?
@@ -2369,7 +2369,7 @@ Master?
 ---
 
 **Fujimaru 1:**
-Let's fight for now.|
+Let's fight for now.
 
 ---
 
@@ -2420,7 +2420,7 @@ Come, follow me.The king, despite his appearance, has a short temper.
 ---
 
 **Fujimaru 1:**
-Nightingale, wait!|
+Nightingale, wait!
 
 ---
 
@@ -2485,7 +2485,7 @@ Understood. It will be another minute until the presi-king's arrival.
 ---
 
 **Fujimaru 1:**
-I have a bad feeling about this.|
+I have a bad feeling about this.
 
 ---
 
@@ -2538,7 +2538,7 @@ D-Did you hear how loud he was, Senpai!?No human could do that!
 ---
 
 **Fujimaru 1:**
-...|
+...
  
 
 ---
@@ -2583,7 +2583,7 @@ DI!?
 ---
 
 **Fujimaru 1:**
-SON of a gun!?|
+SON of a gun!?
  
 
 ---
@@ -2619,7 +2619,7 @@ The effects of you as poster girl are immeasurable!Hahahahahahahahahahahahaha!
 ---
 
 **Fujimaru 1:**
-To put it lightly... He's a feline?|
+To put it lightly... He's a feline?
 
 ---
 
@@ -2702,7 +2702,7 @@ Let me get to the point. Can you lend us the strength that you used to correct t
 ---
 
 **Fujimaru 1:**
-How'd you know that?|
+How'd you know that?
  
 **Edison:**
 I am well aware. You see, a certain fellow took it upon himself to inform me.
@@ -2783,7 +2783,7 @@ The Heroic Spirits meant to save America dread the enemy and refuse to fight. Th
 ---
 
 **Fujimaru 1:**
-This lion just roared!|
+This lion just roared!
 
 ---
 
@@ -2848,7 +2848,7 @@ We will play three times as hard, work three times as hard, and win three times 
 ---
 
 **Fujimaru 1:**
-...Playing three times as hard doesn't sound too bad...|
+...Playing three times as hard doesn't sound too bad...
  
 **Dr. Roman:**
 That's not okay! Recreation has its limits! Please just be normal!
@@ -2908,7 +2908,7 @@ Having been summoned by the Grail, we Servants are well aware of its power. My c
 ---
 
 **Fujimaru 1:**
-What will happen to the other eras?|
+What will happen to the other eras?
 
 ---
 
@@ -3027,7 +3027,7 @@ Well then. Have you come to a decision?Let's hear what you have to say.
 ---
 
 **Fujimaru 1:**
-I have a bad feeling about this. I can't help.|
+I have a bad feeling about this. I can't help.
 
 ---
 
@@ -3093,7 +3093,7 @@ Fou!
 ---
 
 **Fujimaru 1:**
-Fou is safe, too.|
+Fou is safe, too.
 
 ---
 
@@ -3131,7 +3131,7 @@ Why?
 ---
 
 **Fujimaru 1:**
-For Edison's sake.|
+For Edison's sake.
  
 **Blavatsky:**
 ...I see.True, I'm sure he'd be hurt if you'd betrayed him.
@@ -3272,7 +3272,7 @@ I'm sure Karna will notice us at that point.It'll take everything you have to es
 ---
 
 **Fujimaru 1:**
-Let's do it, Mash!|
+Let's do it, Mash!
 
 ---
 
@@ -3372,7 +3372,7 @@ I wouldn't want to try fooling a gaze that could even shoot a sun down. Ah, here
 ---
 
 **Fujimaru 1:**
-Let's go!|
+Let's go!
 
 ---
 
@@ -3425,7 +3425,7 @@ S-Somehow we pushed him back!Master, now's the time!
 ---
 
 **Fujimaru 1:**
-Let's escape!|
+Let's escape!
 
 ---
 
@@ -3455,7 +3455,7 @@ Good morning, Senpai.Are you awake?
 ---
 
 **Fujimaru 1:**
-Good morning, Mash.|
+Good morning, Mash.
  
 **Mash:**
 That nap was exactly three hours.Rest when you can. That's the spirit.
@@ -3730,7 +3730,7 @@ Knowing the “blueprint” of his body when he was alive will likely increase t
 ---
 
 **Fujimaru 1:**
-...Who, exactly?|
+...Who, exactly?
  
 **Rama:**
 Ah, hmm.It's embarrassing to say, but...
@@ -3832,7 +3832,7 @@ Oh, it's nothing... I mean, Rama is still young, right? Yet he has a wife...
 ---
 
 **Fujimaru 1:**
-And you're still single at thirty, eh!|
+And you're still single at thirty, eh!
 
 ---
 
@@ -3852,7 +3852,7 @@ I can't read your expression, Fujimaru!Are you sympathizing with me or laughing 
 ---
 
 **Fujimaru 1:**
-Why?|
+Why?
 
 ---
 
@@ -3869,7 +3869,7 @@ N-No, I mean&mdash; I believe the Doctor has, uh, been married previously...
 ---
 
 **Fujimaru 1:**
-Whaaaaaaaaaat!?|
+Whaaaaaaaaaat!?
 
 ---
 
@@ -4035,7 +4035,7 @@ His nickname is “Child of Light?” What a joke.He's truly fallen into darknes
 ---
 
 **Fujimaru 1:**
-By the way, what happened to you, Rama?|
+By the way, what happened to you, Rama?
 
 ---
 
@@ -4135,7 +4135,7 @@ Hey, Fujimaru.It'd be nice if you did something about this...
 ---
 
 **Fujimaru 1:**
-But she's a Berserker.|
+But she's a Berserker.
 
 ---
 
@@ -4170,7 +4170,7 @@ Understood.Let's get going, Senpai!
 ---
 
 **Fujimaru 1:**
- Huh? Where's Nightingale?|
+ Huh? Where's Nightingale?
  
 
 ---
@@ -4302,7 +4302,7 @@ I am a nurse, I understand my body more than anyone. I can still move. Wounds li
 ---
 
 **Fujimaru 1:**
-But you're bleeding.|
+But you're bleeding.
  
 
 ---
@@ -4353,7 +4353,7 @@ This is the Demi-Servant, Mash Kyrielight, and this is her Master, Fujimaru.
 ---
 
 **Fujimaru 1:**
-Nice to meet you.|
+Nice to meet you.
  
 **Robin Hood:**
 Yes, good to meet you. Well, at least we're not fighting all on our own anymore now.
@@ -4434,7 +4434,7 @@ Until we detect a Servant,I guess we have to patiently keep scouting the area?
 ---
 
 **Fujimaru 1:**
-Something wrong?|
+Something wrong?
 
 ---
 
@@ -4475,7 +4475,7 @@ When things get dire, Senpai will be able to unite us. Right, Master?
 ---
 
 **Fujimaru 1:**
-Well, I'll figure something out.|
+Well, I'll figure something out.
 
 ---
 
@@ -4704,7 +4704,7 @@ But it still feels like we're inextricably linked. Like we're connected, but sti
 ---
 
 **Fujimaru 1:**
-Ex-girlfriend?|
+Ex-girlfriend?
 
 ---
 
@@ -4800,7 +4800,7 @@ Please wait, Master.I feel like we've heard this song somewhere.
 ---
 
 **Fujimaru 1:**
-It's just your imagination-tion-tion!|
+It's just your imagination-tion-tion!
 
 ---
 
@@ -4864,7 +4864,7 @@ I believe the situation calls for you to say something that should be said.
 ---
 
 **Fujimaru 1:**
-Me?|
+Me?
 
 ---
 
@@ -4884,7 +4884,7 @@ Okay&mdash; Go ahead!
 ---
 
 **Fujimaru 1:**
-Aren't you embarrassed showing up so many times?|
+Aren't you embarrassed showing up so many times?
 
 ---
 
@@ -4967,7 +4967,7 @@ Treating damaged vocal cords is one thing,but curing delusions is beyond my expe
 ---
 
 **Fujimaru 1:**
-Mash?|
+Mash?
  
 
 ---
@@ -5015,7 +5015,7 @@ In order to promote your art(istically atrocious singing), I humbly beseech you 
 ---
 
 **Fujimaru 1:**
-Nice job, Mash!|
+Nice job, Mash!
 
 ---
 
@@ -5068,7 +5068,7 @@ We're going to pass through the eastern forest. Saber's in the town on the other
 ---
 
 **Fujimaru 1:**
-Another... Saber?|
+Another... Saber?
  
 **Robin Hood:**
 Right, Saber. An equal match for our Lancer here.
@@ -5142,7 +5142,7 @@ I worked up a little sweat. My {(M) Puppy /(F) Deerlet}, give me something to wi
 ---
 
 **Fujimaru 1:**
-Here, use this...|
+Here, use this...
  
 
 ---
@@ -5309,7 +5309,7 @@ Please accept our humble assistance.
 ---
 
 **Fujimaru 1:**
-Yeah, we owe you for your help in Rome!|
+Yeah, we owe you for your help in Rome!
 
 ---
 
@@ -5478,7 +5478,7 @@ Hollywood! That world-renowned palace of amusement!
 ---
 
 **Fujimaru 1:**
-Whaaaaaat!?|
+Whaaaaaat!?
 
 ---
 
@@ -5769,7 +5769,7 @@ That's a nurse's duty.
 ---
 
 **Fujimaru 1:**
-Yeah.|
+Yeah.
 
 ---
 
@@ -5798,7 +5798,7 @@ It's all because of you.Thank you very much.
 ---
 
 **Fujimaru 1:**
-You're welcome.|
+You're welcome.
 
 ---
 
@@ -6024,7 +6024,7 @@ If all goes well and we eliminate the enemy, that's fine. If we can't, the rest 
 ---
 
 **Fujimaru 1:**
-Understood.|
+Understood.
 
 ---
 
@@ -6062,7 +6062,7 @@ Ugh... How splendid! A once-in-a-lifetime performance! I'd expect no less from m
 ---
 
 **Fujimaru 1:**
-Judges?|
+Judges?
  
 
 ---
@@ -6128,7 +6128,7 @@ Hey, Fujimaru.I'm really confused here!
 ---
 
 **Fujimaru 1:**
-Don't worry about it.|
+Don't worry about it.
  
 **Rama:**
 You say that, but...
@@ -6173,7 +6173,7 @@ Your team will head to Alcatraz Island to rescue Sita.Any issues with that, Mast
 ---
 
 **Fujimaru 1:**
-Not at all.|
+Not at all.
 
 ---
 
@@ -6216,7 +6216,7 @@ Master. Our time together was short, but enjoyable. I pray for success on your e
 ---
 
 **Fujimaru 1:**
-You sound like you're going to die.|
+You sound like you're going to die.
 
 ---
 
@@ -6447,7 +6447,7 @@ More importantly, I don't want to swim. Got that?
 ---
 
 **Fujimaru 1:**
-Can't swim?|
+Can't swim?
 
 ---
 
@@ -6542,7 +6542,7 @@ I see. The journey to save the world sounds like quite the ordeal.
 ---
 
 **Fujimaru 1:**
-Set sail!|
+Set sail!
 
 ---
 
@@ -7133,7 +7133,7 @@ Thank you, from the bottom of my heart.I, Rama, Saber class and king of Kosala..
 ---
 
 **Fujimaru 1:**
-Ready to fight?|
+Ready to fight?
  
 
 ---
@@ -7877,7 +7877,7 @@ I'm heading to an abandoned Western United States base. Do you know the coordina
 ---
 
 **Fujimaru 1:**
-...|
+...
 
 ---
 
@@ -8325,7 +8325,7 @@ That Archer, a part of the cause, was in a dilemma. I couldn't bear not to lend 
 ---
 
 **Fujimaru 1:**
-I see...|
+I see...
 
 ---
 
@@ -8429,7 +8429,7 @@ He's rather capricious, so we have no idea what he would do. But it's certain th
 ---
 
 **Fujimaru 1:**
-Intercept them.|
+Intercept them.
 
 ---
 
@@ -8458,7 +8458,7 @@ I don't see any Servants with them.Overcome this situation first.
 ---
 
 **Fujimaru 1:**
-I'll try.|
+I'll try.
 
 ---
 
@@ -8598,7 +8598,7 @@ Master...
 ---
 
 **Fujimaru 1:**
-We have to fight.|
+We have to fight.
 
 ---
 
@@ -8689,7 +8689,7 @@ As expected of Li Shuwen in his prime. So rough, he's like a knife that cuts you
 ---
 
 **Fujimaru 1:**
-What patient?|
+What patient?
 
 ---
 
@@ -8730,7 +8730,7 @@ Master, what should we do?
 ---
 
 **Fujimaru 1:**
-Let's go see Edison.|
+Let's go see Edison.
 
 ---
 
@@ -8797,7 +8797,7 @@ Ah, wait a second. Master, sorry for the trouble, but do you think we could capt
 ---
 
 **Fujimaru 1:**
-If we tried to.|
+If we tried to.
 
 ---
 
@@ -8851,7 +8851,7 @@ Industry and domination!
 ---
 
 **Fujimaru 1:**
-Robin!?|
+Robin!?
 
 ---
 
@@ -8999,7 +8999,7 @@ Master, we need to break in!
 ---
 
 **Fujimaru 1:**
-Charge!|
+Charge!
 
 ---
 
@@ -9132,7 +9132,7 @@ Th-That's good. I couldn't communicate with you for a while... What happened?
 ---
 
 **Fujimaru 1:**
-Edison interrupted us.|
+Edison interrupted us.
  
 **Dr. Roman:**
 I-I'd expect no less from Edison. To think he could cut into our communications after just that one peek last time...
@@ -9159,7 +9159,7 @@ So shooting a gun stops hacking?I'll remember that, Master!
 ---
 
 **Fujimaru 1:**
-Forget it.|
+Forget it.
 
 ---
 
@@ -9268,7 +9268,7 @@ This nation's finest... That means...
 ---
 
 **Fujimaru 1:**
-Servants.|
+Servants.
 
 ---
 
@@ -9298,7 +9298,7 @@ Now&ndash;entering!
 ---
 
 **Fujimaru 1:**
-Let's go!|
+Let's go!
 
 ---
 
@@ -9680,7 +9680,7 @@ But&ndash;
 ---
 
 **Fujimaru 1:**
-Yup. Let's think about it together.|
+Yup. Let's think about it together.
 
 ---
 
@@ -9706,7 +9706,7 @@ Of course, as your Servant, Fujimaru!
 ---
 
 **Fujimaru 1:**
-It would be my pleasure!|
+It would be my pleasure!
  
 **Mash:**
 Yes!That's great news, Master!
@@ -9762,7 +9762,7 @@ Whyyyyyyy!?
 ---
 
 **Fujimaru 1:**
-They lack the refinement to appreciate it.|
+They lack the refinement to appreciate it.
 
 ---
 
@@ -9781,7 +9781,7 @@ One needs knowledge to understand music, too.If they don't have that, there's no
 ---
 
 **Fujimaru 1:**
-We need to wait for death metal to be invented.|
+We need to wait for death metal to be invented.
 
 ---
 
@@ -9923,7 +9923,7 @@ Painfully true. What do you think,Chief Nurse Nightingale? Quite the pickle, isn
 ---
 
 **Fujimaru 1:**
-Now, don't say that.|
+Now, don't say that.
 
 ---
 
@@ -9976,7 +9976,7 @@ Come on, little {(M) Puppy /(F) Deerlet} over there!Don't just stand around, you
 ---
 
 **Fujimaru 1:**
-Um, me?|
+Um, me?
 
 ---
 
@@ -10007,7 +10007,7 @@ Hmm, it's just like Elisabeth says.If Master selects the parties, I will be all 
 ---
 
 **Fujimaru 1:**
-Give me some time.|
+Give me some time.
 
 ---
 
@@ -10038,7 +10038,7 @@ Sleep on it for a day, if you need to.I believe you've got it in you!
 ---
 
 **Fujimaru 1:**
-Change of pace.|
+Change of pace.
  
 
 ---
@@ -10062,7 +10062,7 @@ One illness left.I only hope then the world will be healed.
 ---
 
 **Fujimaru 1:**
-I'll try my best.|
+I'll try my best.
 
 ---
 
@@ -10176,7 +10176,7 @@ Wait a minute, {(M) Puppy /(F) Deerlet}!I want to get at him, too!
 ---
 
 **Fujimaru 1:**
-I'm counting on you.|
+I'm counting on you.
 
 ---
 
@@ -10199,7 +10199,7 @@ In exchange, Cú Chulainn, the one who defeated Saber... Make sure to take him d
 ---
 
 **Fujimaru 1:**
-Understood.|
+Understood.
 
 ---
 
@@ -10290,7 +10290,7 @@ Thank you, Karna.Now, Master!
 ---
 
 **Fujimaru 1:**
-You're a role model for children.|
+You're a role model for children.
 
 ---
 
@@ -10345,7 +10345,7 @@ That's right!Why don't I write you a little song to cheer&ndash;
 ---
 
 **Fujimaru 1:**
-Ahhh! My stomach! Can't hear you!|
+Ahhh! My stomach! Can't hear you!
 
 ---
 
@@ -10445,7 +10445,7 @@ I'd like to stand out as much as possible in the vanguard... Will you allow it?
 ---
 
 **Fujimaru 1:**
-Why?|
+Why?
 
 ---
 
@@ -10476,7 +10476,7 @@ In which case, I'll concentrate on shutting down Arjuna with everything I've got
 ---
 
 **Fujimaru 1:**
-Please, Karna.|
+Please, Karna.
  
 **Karna:**
 Very well. I'll make sure to shut Arjuna down.
@@ -10524,7 +10524,7 @@ Now, Master.Your orders.
 ---
 
 **Fujimaru 1:**
-Aim for the White House!|
+Aim for the White House!
 
 ---
 
@@ -10880,7 +10880,7 @@ Is there any way we can win this?
 ---
 
 **Fujimaru 1:**
-There is.|
+There is.
 
 ---
 
@@ -10948,7 +10948,7 @@ Master, Karna's unit has broken through.The right and left wing units are headed
 ---
 
 **Fujimaru 1:**
-Let's do this.|
+Let's do this.
 
 ---
 
@@ -10996,7 +10996,7 @@ I'm sorry, please defend this place until I'm done with treatment!
 ---
 
 **Fujimaru 1:**
-Okay.|
+Okay.
 
 ---
 
@@ -11234,7 +11234,7 @@ Now let's see&ndash;Is that the famed Master?
 ---
 
 **Fujimaru 1:**
-!!!|
+!!!
 
 ---
 
@@ -11248,7 +11248,7 @@ Y-You're...
 ---
 
 **Fujimaru 1:**
-The Caster from Fuyuki!|
+The Caster from Fuyuki!
 
 ---
 
@@ -11271,7 +11271,7 @@ Fou!
 ---
 
 **Fujimaru 1:**
-Mash, calm down.|
+Mash, calm down.
 
 ---
 
@@ -11353,7 +11353,7 @@ Good morning and hello, all.Everyone's trusted advisor, Mr. Merlin, is here.
 ---
 
 **Fujimaru 1:**
-Mer... Who?|
+Mer... Who?
 
 ---
 
@@ -11535,7 +11535,7 @@ I'll understand if you decline.
 ---
 
 **Fujimaru 1:**
-Let's fight.|
+Let's fight.
  
 **Rama:**
 H-Hey!?Master, you're going to fight Arjuna!?
@@ -11594,7 +11594,7 @@ I'll be sure to make amends for what I've done.Will you please believe me?
 ---
 
 **Fujimaru 1:**
-I will.|
+I will.
 
 ---
 
@@ -11646,7 +11646,7 @@ Master!Enemy forces are straight ahead!
 ---
 
 **Fujimaru 1:**
-Crush them!|
+Crush them!
 
 ---
 
@@ -11668,7 +11668,7 @@ No stopping, not even for a moment!We'll come down on them in one giant blow!
 ---
 
 **Fujimaru 1:**
-What's the matter?|
+What's the matter?
 
 ---
 
@@ -12244,7 +12244,7 @@ If we concentrate our power, we can defeat them!
 ---
 
 **Fujimaru 1:**
-Are you forcing yourself?|
+Are you forcing yourself?
  
 **Rama:**
 Gah.No, uh... Well, how can I say this...
@@ -12442,7 +12442,7 @@ Let's go, everyone...Although we may not make it in time.
 ---
 
 **Fujimaru 1:**
-Make it in time?|
+Make it in time?
 
 ---
 
@@ -12774,7 +12774,7 @@ You've finally&ndash;become mine.
 ---
 
 **Fujimaru 1:**
-What's this “role?”|
+What's this “role?”
 
 ---
 
@@ -12829,7 +12829,7 @@ That's right!THAT was summoned on them just now!
 ---
 
 **Fujimaru 1:**
-Don't tell me that's...|
+Don't tell me that's...
 
 ---
 
@@ -13207,7 +13207,7 @@ We need to trust the guys at the northern front!
 ---
 
 **Fujimaru 1:**
-Got it!|
+Got it!
 
 ---
 
@@ -13853,7 +13853,7 @@ There's no need to thank me.That's how our agreement was originally, anyway.
 ---
 
 **Fujimaru 1:**
-Yeah, thanks to you.|
+Yeah, thanks to you.
 
 ---
 
@@ -13876,7 +13876,7 @@ My secret pleasure was to shake a patient's hand like this when they were discha
 ---
 
 **Fujimaru 1:**
-Of course, gladly.|
+Of course, gladly.
  
 **Nightingale:**
 Don't worry, I'll adjust my strength accordingly. Anyway, stay healthy, my Master.
@@ -14104,7 +14104,7 @@ I want to cherish these memories forever and ever....That's how I feel.
 ---
 
 **Fujimaru 1:**
-I feel the same.|
+I feel the same.
 
 ---
 
@@ -14127,7 +14127,7 @@ You should take a shower to relax your body before going to sleep.
 ---
 
 **Fujimaru 1:**
-Yup. Good night, see you tomorrow.|
+Yup. Good night, see you tomorrow.
 
 ---
 
@@ -14152,7 +14152,7 @@ Sen...pai...S-Strange... I can't... stand&mdash;
 ---
 
 **Fujimaru 1:**
-...Mash?|
+...Mash?
 
 ---
 
