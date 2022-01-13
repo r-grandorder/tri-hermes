@@ -1,4 +1,4 @@
-# Singularity 1: Hundred Years' War of the Dragons - Orleans
+#Singularity 1: Hundred Years' War of the Dragons - Orleans
 
 ![Orleans](https://i.imgur.com/8Ct6mL5.png)
 
@@ -297,7 +297,7 @@ Fou?Kyu, fou?
 ---
 
 **Fujimaru 1:**
-Good morning, Fou.|
+Good morning, Fou.
  
 
 ---
@@ -327,7 +327,7 @@ You too, Senpai.Did you sleep well last night?
 ---
 
 **Fujimaru 1:**
-Like a log.|
+Like a log.
  
 **Mash:**
 I'm glad to hear it.They say it takes talent to get a good night's sleep.
@@ -405,7 +405,7 @@ Those are the two objectives of this operation.Is everything clear so far?
 ---
 
 **Fujimaru 1:**
-Crystal clear.|
+Crystal clear.
  
 **Dr. Roman:**
 Glad to hear it.
@@ -459,7 +459,7 @@ What we'll need is a place to relax, a structure with a roof, a home to come bac
 ---
 
 **Fujimaru 1:**
-Yes, I'll be counting on you.|
+Yes, I'll be counting on you.
  
 
 ---
@@ -516,7 +516,7 @@ You can just call me Da Vinci. You don't get to see many pretty ladies like myse
 ---
 
 **Fujimaru 1:**
-Huh? Pretty lady?|
+Huh? Pretty lady?
  
 
 ---
@@ -597,7 +597,7 @@ I'm sorry but we don't have time to rest.We're going to prep for immediate Raysh
 ---
 
 **Fujimaru 1:**
-Of course. I'm ready to go at any time.|
+Of course. I'm ready to go at any time.
  
 
 ---
@@ -653,7 +653,7 @@ Fou...kyuu, kyao...
 ---
 
 **Fujimaru 1:**
-Can Fou Rayshift too?|
+Can Fou Rayshift too?
  
 
 ---
@@ -677,7 +677,7 @@ Since he is attached to one of us, when we return he will automatically return a
 ---
 
 **Fujimaru 1:**
-In that case, no problem, right?|
+In that case, no problem, right?
  
 
 ---
@@ -701,7 +701,7 @@ It means we're in the middle of the Hundred Years' War.But this should be during
 ---
 
 **Fujimaru 1:**
-Respite?|
+Respite?
  
 
 ---
@@ -725,7 +725,7 @@ Captured knights were released for monetary payments almost every day... Senpai?
 ---
 
 **Fujimaru 1:**
-Look at the sky.|
+Look at the sky.
  
 
 ---
@@ -785,7 +785,7 @@ What do we do?Should we attempt to make contact?
 ---
 
 **Fujimaru 1:**
-Let's do that.|
+Let's do that.
  
 
 ---
@@ -824,7 +824,7 @@ Yoo-hoo, I'm free now so lemme see how you're...Wait, why are you surrounded by 
 ---
 
 **Fujimaru 1:**
-Was that the problem!?|
+Was that the problem!?
  
 
 ---
@@ -869,7 +869,7 @@ I think it would be bad to harm the locals.We should attack to hold them back!
 ---
 
 **Fujimaru 1:**
-What are YOU talking about now, Mash?|
+What are YOU talking about now, Mash?
  
 
 ---
@@ -890,7 +890,7 @@ In that case, hit them with the back of your blade!Limit the bloodshed to a mini
 ---
 
 **Fujimaru 1:**
-With a shield?|
+With a shield?
  
 
 ---
@@ -916,7 +916,7 @@ No, burning is out of the question too!
 ---
 
 **Fujimaru 1:**
-Are you all right?|
+Are you all right?
  
 **Mash:**
 Thank you very much, Senpai.
@@ -949,7 +949,7 @@ Try not to aggravate them next time.Make sure you talk to them in French, okay?
 ---
 
 **Fujimaru 1:**
-Roger that, bonjour.|
+Roger that, bonjour.
  
 **Mash:**
 Bonjour, monsieur....I see, perfect. Leave it to me.
@@ -978,7 +978,7 @@ It's a complete ruin on the inside... The outer wall is more or less intact, but
 ---
 
 **Fujimaru 1:**
-Because it's wartime?|
+Because it's wartime?
  
 **Mash:**
 ...No, that would still be impossible.
@@ -1047,7 +1047,7 @@ Jeanne d'Arc is a witch?
 ---
 
 **Fujimaru 1:**
-Who is Jeanne d'Arc?|
+Who is Jeanne d'Arc?
  
 **Mash:**
 Saint Jeanne d'Arc, the savior.She is a world-renowned hero.
@@ -1154,7 +1154,7 @@ Visual confirmed!But that... It can't be&ndash;
 ---
 
 **Fujimaru 1:**
-Dragons!?|
+Dragons!?
  
 
 ---
@@ -1255,7 +1255,7 @@ Jeanne... d'Arc?
 ---
 
 **Fujimaru 1:**
-The one that became a witch...|
+The one that became a witch...
  
 
 ---
@@ -1279,7 +1279,7 @@ Come over here.Please.
 ---
 
 **Fujimaru 1:**
-Let's follow her.|
+Let's follow her.
  
 
 ---
@@ -1451,7 +1451,7 @@ That means... Fujimaru.If there's anything that could bend rules like this...
 ---
 
 **Fujimaru 1:**
-...It's likely to be a Holy Grail?|
+...It's likely to be a Holy Grail?
  
 **Dr. Roman:**
 Exactly. It's only speculation, but these are no longer someone else's problems.
@@ -1490,7 +1490,7 @@ Even alone, you will fight...She's just like history says, Master.
 ---
 
 **Fujimaru 1:**
-Yeah, I thought so, too.|
+Yeah, I thought so, too.
  
 
 ---
@@ -1511,7 +1511,7 @@ I was thinking about our next course of action...How about we help her?
 ---
 
 **Fujimaru 1:**
-Of course, I thought the same.|
+Of course, I thought the same.
  
 
 ---
@@ -1555,7 +1555,7 @@ Even if I'm up against myself, a witch, I have nothing to be afraid of now the t
 ---
 
 **Fujimaru 1:**
-Being called a witch...|
+Being called a witch...
  
 
 ---
@@ -1615,7 +1615,7 @@ Like other ordinary Servants, I cannot detect them unless I am within a certain 
 ---
 
 **Fujimaru 1:**
-Wait, what about the other Jeanne?|
+Wait, what about the other Jeanne?
  
 
 ---
@@ -1651,7 +1651,7 @@ Let us head out early tomorrow morning.Fujimaru is human and should probably get
 ---
 
 **Fujimaru 1:**
-I'll do that then.|
+I'll do that then.
  
 
 ---
@@ -1785,7 +1785,7 @@ As long as I am still uncertain about the forces we have, we cannot engage.
 ---
 
 **Fujimaru 1:**
-You're really cautious.|
+You're really cautious.
  
 
 ---
@@ -2135,7 +2135,7 @@ Ugh!
 ---
 
 **Fujimaru 1:**
-Let's do this.|
+Let's do this.
  
 
 ---
@@ -2223,7 +2223,7 @@ Master... Elisabeth Báthory....Do you know her?
 ---
 
 **Fujimaru 1:**
-The Blood Countess, was it?|
+The Blood Countess, was it?
  
 **Mash:**
 That's right.Like Vlad III, she was feared as a monster&ndash;
@@ -2658,7 +2658,7 @@ Nope, that won't work at all.Just Marie! Like the sheep!
 ---
 
 **Fujimaru 1:**
-I'm pretty sure that was 'Mary'...|
+I'm pretty sure that was 'Mary'...
  
 
 ---
@@ -2782,7 +2782,7 @@ This is Fujimaru.My Master.
 ---
 
 **Fujimaru 1:**
-Nice to meet you.|
+Nice to meet you.
  
 **Amadeus:**
 Pleasure is mine. As fellow non-fighters, let's get along.
@@ -2965,7 +2965,7 @@ We believe in you too.Right, Master?
 ---
 
 **Fujimaru 1:**
-Of course.|
+Of course.
  
 **Jeanne:**
 ...Heh, heh, thank you.That makes me feel better.
@@ -3027,7 +3027,7 @@ We were summoned so that&ndash;We could defeat them, like heroes!
 ---
 
 **Fujimaru 1:**
-It might be to destroy the world.|
+It might be to destroy the world.
  
 **Marie Antoinette:**
 Non, non, non!That's not right, Fujimaru.
@@ -3307,7 +3307,7 @@ Servants detected!Also, multiple life-forms detected!
 ---
 
 **Fujimaru 1:**
-Prepare for battle!|
+Prepare for battle!
  
 
 ---
@@ -3703,7 +3703,7 @@ I don't think normal soldiers can handle all those monsters in Lyon, anyway...
 ---
 
 **Fujimaru 1:**
-We can do it.|
+We can do it.
  
 
 ---
@@ -3730,7 +3730,7 @@ Well? Was it good?
 ---
 
 **Fujimaru 1:**
-Thank you!|
+Thank you!
  
 **Mash:**
 Senpai...You have a goofy grin on your face.
@@ -3842,7 +3842,7 @@ This was once a beautiful town.Why would that Dragon Witch do this&ndash;
 ---
 
 **Fujimaru 1:**
-That's a fake.|
+That's a fake.
  
 
 ---
@@ -3875,7 +3875,7 @@ We can't save them anymore...Ready for battle, Master!
 ---
 
 **Fujimaru 1:**
-Rest in peace.|
+Rest in peace.
  
 
 ---
@@ -3947,7 +3947,7 @@ Now, now, now.This is the middle of Hell, where the dead live.
 ---
 
 **Fujimaru 1:**
-We'll send you flying.|
+We'll send you flying.
  
 
 ---
@@ -4039,7 +4039,7 @@ Master, your orders!
 ---
 
 **Fujimaru 1:**
-Find the "Dragon Slayer".|
+Find the "Dragon Slayer".
  
 
 ---
@@ -4149,7 +4149,7 @@ I-I am going out!
 ---
 
 **Fujimaru 1:**
-Don't be ridiculous!|
+Don't be ridiculous!
  
 
 ---
@@ -4194,7 +4194,7 @@ You all right!?Can you hear me?
 ---
 
 **Fujimaru 1:**
-Just shut up!|
+Just shut up!
  
 
 ---
@@ -4272,7 +4272,7 @@ Master, don't fall behind!
 ---
 
 **Fujimaru 1:**
-Sorry, but my leg...|
+Sorry, but my leg...
  
 **Mash:**
 In that case, well!
@@ -4302,7 +4302,7 @@ Master, here they come!
 ---
 
 **Fujimaru 1:**
-Ready to fight back!|
+Ready to fight back!
  
 
 ---
@@ -4583,7 +4583,7 @@ It breaks the code of chivalry, but we have to bring down Lancelot!
 ---
 
 **Fujimaru 1:**
-All right, let's do it!|
+All right, let's do it!
  
 
 ---
@@ -4612,7 +4612,7 @@ Arthur?...You mean your king, Arthur?
 ---
 
 **Fujimaru 1:**
-What?|
+What?
  
 
 ---
@@ -4797,7 +4797,7 @@ You are right. I think that's a reasonable idea.What do you think, Fujimaru?
 ---
 
 **Fujimaru 1:**
-Let's look for that Saint.|
+Let's look for that Saint.
  
 
 ---
@@ -4862,7 +4862,7 @@ I'm rather worried about our side.
 ---
 
 **Fujimaru 1:**
-Mash's skill is as good as hers.|
+Mash's skill is as good as hers.
  
 
 ---
@@ -5009,7 +5009,7 @@ Very well. I'll hold onto it, then.
 ---
 
 **Fujimaru 1:**
-Take care.|
+Take care.
  
 
 ---
@@ -5032,7 +5032,7 @@ Yes, thank you.Fujimaru, please take care as well.
 ---
 
 **Fujimaru 1:**
-Don't you want to follow her?|
+Don't you want to follow her?
  
 
 ---
@@ -5110,7 +5110,7 @@ Y-Yes!I can completely understand the "ideal Senpai" part!
 ---
 
 **Fujimaru 1:**
-Mash!|
+Mash!
  
 
 ---
@@ -5318,7 +5318,7 @@ Oh, Muses! Please show mercy!My body can't stop trembling from fear.
 ---
 
 **Fujimaru 1:**
-Let's hurry up.|
+Let's hurry up.
  
 
 ---
@@ -5384,7 +5384,7 @@ Enough! Stop right there! I can't let you go further. What you're doing is sacri
 ---
 
 **Fujimaru 1:**
-Are they saints?|
+Are they saints?
  
 
 ---
@@ -5483,7 +5483,7 @@ Since I am useless and can't fight, I won't say a thing....Sorry.
 ---
 
 **Fujimaru 1:**
-Both of you, knock it off.|
+Both of you, knock it off.
  
 
 ---
@@ -5513,7 +5513,7 @@ Recklessness and bravery aren't the same.Are you stupid?
 ---
 
 **Fujimaru 1:**
-It's better than reptiles.|
+It's better than reptiles.
  
 
 ---
@@ -5599,7 +5599,7 @@ Master...It looks like we've just wasted our time.
 ---
 
 **Fujimaru 1:**
-That sucks.|
+That sucks.
  
 **Kiyohime:**
 Elisabeth aside, treating me like that is a little bit rude, don't you think?
@@ -5620,7 +5620,7 @@ What's that about shame!You met ME, and it's a shame!?
 ---
 
 **Fujimaru 1:**
-We're looking for a saint.|
+We're looking for a saint.
  
 
 ---
@@ -5889,7 +5889,7 @@ I have a reading... Unfortunately, an enemy.Please hurry and defeat it!
 ---
 
 **Fujimaru 1:**
-Full power.|
+Full power.
  
 
 ---
@@ -6094,7 +6094,7 @@ Wait...
 ---
 
 **Fujimaru 1:**
-You shouldn't, Mash.|
+You shouldn't, Mash.
  
 
 ---
@@ -6136,7 +6136,7 @@ By the way, Master.
 ---
 
 **Fujimaru 1:**
-Who?|
+Who?
  
 
 ---
@@ -6199,7 +6199,7 @@ That sound... It's the wyverns!
 ---
 
 **Fujimaru 1:**
-I will leave them to you.|
+I will leave them to you.
  
 
 ---
@@ -6225,7 +6225,7 @@ That's right Master.
 ---
 
 **Fujimaru 1:**
-Let's attack Orleans.|
+Let's attack Orleans.
  
 
 ---
@@ -6282,7 +6282,7 @@ But I wish to protect this world.Please, fight with me.
 ---
 
 **Fujimaru 1:**
-Of course.|
+Of course.
  
 
 ---
@@ -6756,7 +6756,7 @@ Would it be all right if I focus on her.
 ---
 
 **Fujimaru 1:**
-Go ahead.|
+Go ahead.
  
 **Elisabeth:**
 Oh? Thanks.
@@ -6816,7 +6816,7 @@ So, if no one has any questions...Master&ndash;please issue your orders.
 ---
 
 **Fujimaru 1:**
-Let's fight!|
+Let's fight!
  
 
 ---
@@ -6988,7 +6988,7 @@ This is it!
 ---
 
 **Fujimaru 1:**
-I'm counting on you, Mash!|
+I'm counting on you, Mash!
  
 
 ---
@@ -7243,7 +7243,7 @@ Oh, Master....Are you ready?
 ---
 
 **Fujimaru 1:**
-Let's go!|
+Let's go!
  
 
 ---
@@ -7379,7 +7379,7 @@ It's kind of my style, you know?
 ---
 
 **Fujimaru 1:**
-Yeah, it's terrible!|
+Yeah, it's terrible!
  
 
 ---
@@ -7510,7 +7510,7 @@ Thank you for your support!Jeanne!
 ---
 
 **Fujimaru 1:**
-Jeanne!|
+Jeanne!
  
 
 ---
@@ -7623,7 +7623,7 @@ Master, they're coming!
 ---
 
 **Fujimaru 1:**
-Let's do this, Mash!|
+Let's do this, Mash!
  
 
 ---
@@ -7818,7 +7818,7 @@ Master, I've confirmed the presence of the Grail.Your orders!
 ---
 
 **Fujimaru 1:**
-This is the last battle.|
+This is the last battle.
  
 
 ---
@@ -7880,7 +7880,7 @@ You're leaving?So soon?
 ---
 
 **Fujimaru 1:**
-I have work to do.|
+I have work to do.
  
 
 ---
@@ -8078,7 +8078,7 @@ Good work today.Let's get back to it tomorrow!
 ---
 
 **Fujimaru 1:**
-You too Mash.|
+You too Mash.
  
 **Mash:**
 ...Yes, thank you.
@@ -8123,7 +8123,7 @@ Maybe you should have the Doctor take a look at you, he is a doctor after all.
 ---
 
 **Fujimaru 1:**
-What's wrong?|
+What's wrong?
  
 
 ---
@@ -8159,7 +8159,7 @@ Raw feelings are powerful, aren't they?They can destroy the world&ndash;
 ---
 
 **Fujimaru 1:**
-He was human, after all.|
+He was human, after all.
  
 
 ---
