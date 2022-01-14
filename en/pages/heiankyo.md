@@ -1,4 +1,4 @@
-#Cosmos in the Lostbelt 5.5: Realm of Hell Mandala - Heian-kyō
+#Cosmos in the Lostbelt 5. 5: Realm of Hell Mandala - Heian-kyō
 
 ![Heiankyo](https://i.imgur.com/lvjZLpe.png)
 
@@ -10,21 +10,21 @@
 
  
 **Nemo:**
-Shadow Border, we have arrived at the Wandering Sea’s primary dock. Chaldean staff members should disembark promptly.
+Shadow Border, we have arrived at the Wandering Sea’s primary dock. Chaldean staff members should disembark promptly. 
 
 ---
 
 **Fujimaru 1:**
-We’re back——!
+We’re back——! 
  
 **Mash:**
-Yes. We’ve returned to the Wandering Sea Chaldea Base safely!
+Yes. We’ve returned to the Wandering Sea Chaldea Base safely! 
  
 **Goredolf:**
-Indeed, we’ve returned! Now there’s finally room for comfort!
+Indeed, we’ve returned! Now there’s finally room for comfort! 
  
 **Goredolf:**
-But, I didn’t think it would take so much effort to return to the Wandering Sea.
+But, I didn’t think it would take so much effort to return to the Wandering Sea. 
  
 **Goredolf:**
 From anchoring the Storm Border at the sea surface,to transferring to the Shadow Border and moving under the waves…
@@ -36,84 +36,84 @@ I have to say,this is a defective workshop if we can only access the Wandering S
 ---
 
 **Fujimaru 2:**
-And thank you to the Shadow Border as well!
+And thank you to the Shadow Border as well! 
  
 **Mash:**
-That’s right. After anchoring the Storm Border outside, our underwater travel in the Shadow Border must have taken about 20 minutes.
+That’s right. After anchoring the Storm Border outside, our underwater travel in the Shadow Border must have taken about 20 minutes. 
  
 **Mash:**
-It may have been a short voyage, but thanks to Nemo’s blessings, we avoided any damage. Just as expected of him!
+It may have been a short voyage, but thanks to Nemo’s blessings, we avoided any damage. Just as expected of him! 
  
 **Nemo:**
-… Now now. This was also Triton. If it’s in the seas, the Storm Border is undefeatable.
+… Now now. This was also Triton. If it’s in the seas, the Storm Border is undefeatable. 
  
 **Nemo:**
-Even if my Nautilus won’t be your Command Room anymore, I’m thrilled to hear you say that.
+Even if my Nautilus won’t be your Command Room anymore, I’m thrilled to hear you say that. 
  
 
 ---
 
  
 **Sion:**
-I’m glad you all made it.I’ve been looking forward to your return.
+I’m glad you all made it. I’ve been looking forward to your return. 
  
 **Sion:**
-Your assault on the Atlantic Lostbelt went brilliantly.But not only that, but that,that&mdash;
+Your assault on the Atlantic Lostbelt went brilliantly. But not only that, but that,that&mdash;
 
  
 **Sion:**
-That amazing ship you brought back is the most wonderful thing possible!
+That amazing ship you brought back is the most wonderful thing possible! 
  
 **Sion:**
-No, I had sufficient data to know that much.But I just can’t wait a moment to see it in person! 
+No, I had sufficient data to know that much. But I just can’t wait a moment to see it in person! 
  
 **Holmes:**
-Miss Sion. I understand the feeling quite well,but I ask you to put aside your personal curiosity for the moment.
+Miss Sion. I understand the feeling quite well,but I ask you to put aside your personal curiosity for the moment. 
  
 **Holmes:**
-Our communications should have been transmitted.We have matters to attend to first, do we not?
+Our communications should have been transmitted. We have matters to attend to first, do we not? 
  
 **Sion:**
-Of course, I’m aware.The <u>main subject at hand</u> has also been a topic of great interest to me!
+Of course, I’m aware. The <u>main subject at hand</u> has also been a topic of great interest to me! 
  
 **Holmes:**
-As expected of the wonder child of Atlas,I didn’t have to tell you.
+As expected of the wonder child of Atlas,I didn’t have to tell you. 
  
 **Holmes:**
-{(M) Mr. /(F) Ms.} Fujimaru.New Director Goredolf. Miss Kyrielight.
+{(M) Mr. /(F) Ms. } Fujimaru. New Director Goredolf. Miss Kyrielight. 
  
 **Holmes:**
-And finally, Mister M.Let’s pull our minds together and return to our places.
+And finally, Mister M. Let’s pull our minds together and return to our places. 
  
 **Meuniere:**
-W-wait a second, why do you know my username, Holmes!?！？No way, you’re addicted to online games too&mdash;
+W-wait a second, why do you know my username, Holmes!? ！？No way, you’re addicted to online games too&mdash;
  
 **Holmes:**
-Hahaha! I’m actually quite an ametuer at online games!But I can’t deny that it’s something of an addiction.
+Hahaha! I’m actually quite an ametuer at online games! But I can’t deny that it’s something of an addiction. 
  
 **Holmes:**
-But it was just a demonstration just now.
+But it was just a demonstration just now. 
  
 **Holmes:**
-You see, I was rather bad in Olympus,but I’m still a great detective.
+You see, I was rather bad in Olympus,but I’m still a great detective. 
  
 **Holmes:**
-In my line of work, exposing secrets is no different from breathing.
+In my line of work, exposing secrets is no different from breathing. 
  
 **Meuniere:**
-Seriously, you’re the worst of the great detectives.I mean, isn’t that more of an idiosyncrasy than a profession?
+Seriously, you’re the worst of the great detectives. I mean, isn’t that more of an idiosyncrasy than a profession? 
  
 **Goredolf:**
-Ah, but isn’t this alright, Mr. Ajillo?You can’t just apply those two letters to everything you know.
+Ah, but isn’t this alright, Mr. Ajillo? You can’t just apply those two letters to everything you know. 
  
 **Goredolf:**
-No matter what the level the topic’s at, Holmes has shown that his detective skills have made a full recovery.
+No matter what the level the topic’s at, Holmes has shown that his detective skills have made a full recovery. 
  
 **Goredolf:**
-Indeed, that’s why he’s my Administrative Advisor!But please don’t touch on my private life!
+Indeed, that’s why he’s my Administrative Advisor! But please don’t touch on my private life! 
  
 **Mash:**
-… I’m glad.Everyone’s so relaxed.
+… I’m glad. Everyone’s so relaxed. 
  
 **Mash:**
 In the time between Olympus and coming back to the Wandering Sea, I think our tension disappeared. 
@@ -121,62 +121,62 @@ In the time between Olympus and coming back to the Wandering Sea, I think our te
 ---
 
 **Fujimaru 1:**
-We were so tense all the time.
+We were so tense all the time. 
  
 
 ---
 
 **Fujimaru 2:**
-Yeah, I’m so relieved too.
+Yeah, I’m so relieved too. 
  
 
 ---
 
  
 **Nemo:**
-… Good grief.The dock is no place for idle chatter.
+… Good grief. The dock is no place for idle chatter. 
  
 **Nemo:**
-You should all be preparing for our next assault on a Lostbelt.
+You should all be preparing for our next assault on a Lostbelt. 
  
 **Nemo:**
-We may not be able to return to this base after that point.
+We may not be able to return to this base after that point. 
  
 **Nemo:**
-But for the time being,I want you all to go to your respective rooms and regain your strength.
+But for the time being,I want you all to go to your respective rooms and regain your strength. 
  
 **Goredolf:**
-Fuh, you don’t have to tell me to go rest.
+Fuh, you don’t have to tell me to go rest. 
  
 **Goredolf:**
-If I don’t have to worry about emergency calls,then you can find me in a nice fluffy bed!
+If I don’t have to worry about emergency calls,then you can find me in a nice fluffy bed! 
  
 **Goredolf:**
-By the way, Captain.
+By the way, Captain. 
  
 **Goredolf:**
-Is now a good time to complete my gorgeous new Director’s office?
+Is now a good time to complete my gorgeous new Director’s office? 
  
 **Nemo:**
-&mdash;Eh?
+&mdash;Eh? 
  
 **Goredolf:**
-Eh?
+Eh? 
  
 **Nemo:**
-A-aah. Yes, that.Sion, what’s your thoughts about this?
+A-aah. Yes, that. Sion, what’s your thoughts about this? 
  
 **Sion:**
 It’s finished of course
  
 **Sion:**
-However, in order to make it even more gorgeous,I started those renovations a few minutes ago.
+However, in order to make it even more gorgeous,I started those renovations a few minutes ago. 
  
 **Sion:**
-I hope you’ll be waiting with excitement outside the base’s third warehouse, Mr. Goredolf.
+I hope you’ll be waiting with excitement outside the base’s third warehouse, Mr. Goredolf. 
  
 **Goredolf:**
-It seems like it was completely forgotten,but she just pushed it aside with that confident smile…!
+It seems like it was completely forgotten,but she just pushed it aside with that confident smile…! 
  
 ---
 
@@ -186,35 +186,35 @@ Captain and…
 ---
 
 **Fujimaru 2:**
-Where’s da Vinci?
+Where’s da Vinci? 
  
 
 ---
 
  
 **Nemo:**
-I’ll be returning to the Storm Border immediately.
+I’ll be returning to the Storm Border immediately. 
  
 **Nemo:**
 It may have had a refit in Atlantis,but the Storm Border is still an unstable vessel
  
 **Nemo:**
-It’ll have to be reinforced eventually so that it can operate without me or the Shadow Border.
+It’ll have to be reinforced eventually so that it can operate without me or the Shadow Border. 
  
 **Holmes:**
 The <ruby><rb>Aronnax Phantasm</rb><rt>Evidential Mechanism</rt></ruby> can supplement the materialization stabilization faculties in replacing the imaginary components with real ones&mdash;
  
 **Holmes:**
-In other words, you’re going to begin welding works, aren’t you?
+In other words, you’re going to begin welding works, aren’t you? 
  
 **Nemo:**
-Yes. After that, we’ll swap out the central control systems slaved to the Shadow Border with completely new ones.
+Yes. After that, we’ll swap out the central control systems slaved to the Shadow Border with completely new ones. 
  
 **Nemo:**
-Otherwise, the burden on da Vinci will only keep growing.Preparations have already started, Sion.
+Otherwise, the burden on da Vinci will only keep growing. Preparations have already started, Sion. 
  
 **Sion:**
-Yes, the moving works went smoothly.Please do your best work when starting construction.
+Yes, the moving works went smoothly. Please do your best work when starting construction. 
  
 ---
 
@@ -224,26 +224,26 @@ Now, let me see…
 ---
 
 **Fujimaru 2:**
-What do you mean?
+What do you mean? 
  
 
 ---
 
  
 **Holmes:**
-Captain and da Vinci will be charged with the Storm Border for a while.
+Captain and da Vinci will be charged with the Storm Border for a while. 
  
 **Holmes:**
-We will continue as planned, training and preparing for our next assault on a Lostbelt.
+We will continue as planned, training and preparing for our next assault on a Lostbelt. 
  
 **Holmes:**
-{(M) Mr. /(F) Ms.} Fujimaru will have to improve on their skills as a Master.
+{(M) Mr. /(F) Ms. } Fujimaru will have to improve on their skills as a Master. 
  
 **Holmes:**
-Miss Kyrielight will tune her <ruby><rb>Ortinax</rb><rt>Spirit Origin Exoskeleton</rt></ruby>.
+Miss Kyrielight will tune her <ruby><rb>Ortinax</rb><rt>Spirit Origin Exoskeleton</rt></ruby>. 
  
 **Holmes:**
-Miss Sion and I will&mdash;investigate and analyze the “Alien God”.
+Miss Sion and I will&mdash;investigate and analyze the “Alien God”. 
  
 **Mash:**
 ！
@@ -251,17 +251,17 @@ Miss Sion and I will&mdash;investigate and analyze the “Alien God”.
 ---
 
 **Fujimaru 1:**
-Are you able to investigate the “Alien God”!?
+Are you able to investigate the “Alien God”!? 
  
 
 ---
 
  
 **Holmes:**
-At present, we’ll have to investigate with only the information on hand.
+At present, we’ll have to investigate with only the information on hand. 
  
 **Holmes:**
-I will be checking the Animusphere records that I brought along from the Chaldea in Antarctica.
+I will be checking the Animusphere records that I brought along from the Chaldea in Antarctica. 
  
 **Holmes:**
 Not just those of Director Olga Marie, who the “Alien God” appeared like
@@ -270,31 +270,31 @@ Not just those of Director Olga Marie, who the “Alien God” appeared like
 but also those of the Founder of Chaldea, Mr. Marisbury
  
 **Holmes:**
-It will be an “internal” investigation, so to speak.And Miss Sion-
+It will be an “internal” investigation, so to speak. And Miss Sion-
  
 **Sion:**
-An “outside” investigation. I’ll be observing the “Alien God” as it exists on the Earth now, won’t I?
+An “outside” investigation. I’ll be observing the “Alien God” as it exists on the Earth now, won’t I? 
  
 **Goredolf:**
-You can’t possibly do that, can you!?
+You can’t possibly do that, can you!? 
  
 **Goredolf:**
-&mdash;I’m in so much shock that I’m having the same reaction as Ritsuka!
+&mdash;I’m in so much shock that I’m having the same reaction as Ritsuka! 
  
 **Sion:**
-Fufufu. Thank you both for such excellent reactions.
+Fufufu. Thank you both for such excellent reactions. 
  
 **Sion:**
-To put it simply, it’s possible if I’m only searching for enemies.Or rather, I’ve already done it.
+To put it simply, it’s possible if I’m only searching for enemies. Or rather, I’ve already done it. 
  
 **Sion:**
 Trismegistus II has its own analysis function
  
 **Sion:**
-Oh, you could think of it as similar to the main body of SHEBA in Chaldea.
+Oh, you could think of it as similar to the main body of SHEBA in Chaldea. 
  
 **Sion:**
-As of now, the response from the “Alien God” has departed from the Atlantic Lostbelt,and has stopped in the South American Lostbelt.
+As of now, the response from the “Alien God” has departed from the Atlantic Lostbelt,and has stopped in the South American Lostbelt. 
  
 **Sion:**
 According to the time-delayed videos analyzed by Trismegistus II,
@@ -303,7 +303,7 @@ According to the time-delayed videos analyzed by Trismegistus II,
 “As long as the current blank slate environment remains,there is no observed future in which it will move from the South American Lostbelt”
  
 **Sion:**
-That’s good. It means it won’t be leaving South America for the time being.
+That’s good. It means it won’t be leaving South America for the time being. 
  
 ---
 
@@ -319,74 +319,74 @@ Could that mean…
 
  
 **Mash:**
-… The wound inflicted by Kirschtaria’s Magecraft was severe enough that it can’t move around…?
+… The wound inflicted by Kirschtaria’s Magecraft was severe enough that it can’t move around…? 
  
 **Holmes:**
-It would be appropriate to think so, yes.
+It would be appropriate to think so, yes. 
  
 **Holmes:**
-That’s the only reason I can think of why the “Alien God” didn’t attack us.
+That’s the only reason I can think of why the “Alien God” didn’t attack us. 
  
 **Goredolf:**
-I-In other words, we’ve got a chance!If it’s wounded, then we can attack…!
+I-In other words, we’ve got a chance! If it’s wounded, then we can attack…! 
  
 **Da Vinci:**
-No no no, dear Goredolf.I can’t recommend that.
+No no no, dear Goredolf. I can’t recommend that. 
 
  
 **Da Vinci:**
-Ah good, video communications☆.
+Ah good, video communications☆. 
  
 **Da Vinci:**
-It’s me, da Vinci, over here with the Marines, inspecting the Storm Border!
+It’s me, da Vinci, over here with the Marines, inspecting the Storm Border! 
  
 **Da Vinci:**
-Oh, hey, Marine D!Don’t use other people’s skates~!　They’re mine you know!
+Oh, hey, Marine D! Don’t use other people’s skates~! 　They’re mine you know! 
  
 **Da Vinci:**
-It’s useless for you guys to try and compete with me you know!
+It’s useless for you guys to try and compete with me you know! 
  
 **H：Nemo Marine:**
-But, we’re both Riders, so we’re rivals!We won’t be defeated by you of all people, Da Vinci!
+But, we’re both Riders, so we’re rivals! We won’t be defeated by you of all people, Da Vinci! 
  
 **H：Nemo Marine:**
-On the sea, it’s us, but on the land, it’s da Vinci, right?In that case, whichever side can control the skies will be victorious!
+On the sea, it’s us, but on the land, it’s da Vinci, right? In that case, whichever side can control the skies will be victorious! 
  
 **H：Nemo Marine:**
-So one day you’ll have to fight Captain Nemo for ownership of the Storm Border!
+So one day you’ll have to fight Captain Nemo for ownership of the Storm Border! 
  
 **H：Nemo Marine:**
-The victor will have total ownership!We’ll do our best with those rules——!
+The victor will have total ownership! We’ll do our best with those rules——! 
  
 **Da Vinci:**
-Hah?I don’t know what you’re talking about—!
+Hah? I don’t know what you’re talking about—! 
  
 **Nemo:**
-Da Vinci. You can ignore the Marines.Do you have anything more urgent to say?
+Da Vinci. You can ignore the Marines. Do you have anything more urgent to say? 
  
 **Da Vinci:**
-Oops, you’re right.I’ve already got to be careful about you, Captain. 
+Oops, you’re right. I’ve already got to be careful about you, Captain. 
  
 **Da Vinci:**
-Well, I do have to talk about attacking South America,where the “Alien God” currently resides.
+Well, I do have to talk about attacking South America,where the “Alien God” currently resides. 
  
 **Da Vinci:**
-As the technical advisor, I have to firmly disagree with the idea of going there now.
+As the technical advisor, I have to firmly disagree with the idea of going there now. 
  
 **Da Vinci:**
-Even if we assume that it’s been injured,we have no way of fighting the “Alien God” at this time.
+Even if we assume that it’s been injured,we have no way of fighting the “Alien God” at this time. 
  
 **Da Vinci:**
 The existential scale of the “Alien God” observed in Olympus was a Spirit Origin Output on the order of a third-class planetary grade&mdash;
  
 **Da Vinci:**
-in terms of magical energy output, it ranks only after Beast I, Goetia’s second-class planetary grade.
+in terms of magical energy output, it ranks only after Beast I, Goetia’s second-class planetary grade. 
  
 **Da Vinci:**
-Even if the Storm Border was finished and perfect,Chaldea simply doesn’t have the strength to fight it.
+Even if the Storm Border was finished and perfect,Chaldea simply doesn’t have the strength to fight it. 
  
 **Da Vinci:**
-If we went to South America now, we would be driven away at best.Rather, we should be thankful for this stalemate.
+If we went to South America now, we would be driven away at best. Rather, we should be thankful for this stalemate. 
  
 **Mash:**
 Ranking after Goetia…
@@ -395,13 +395,13 @@ Ranking after Goetia…
 Certainly, our defeating Goetia was supported by a variety of factors, but...
  
 **Mash:**
-...Um. Isn’t the Black Barrel able to deal damage without regard for the scale of something’s existence?
+...Um. Isn’t the Black Barrel able to deal damage without regard for the scale of something’s existence? 
  
 **Sion:**
-Well… it pains me to say this about my prized Black Barrel.
+Well… it pains me to say this about my prized Black Barrel. 
  
 **Sion:**
-But our enemy is elevated upon “A completely different common sense to our own”.
+But our enemy is elevated upon “A completely different common sense to our own”. 
  
 **Sion:**
 The Black Barrel is only able to understand a lifespan“that is of the category that can be understood by humanity on Earth”. 
@@ -413,97 +413,97 @@ Whether or not that rule can apply to the “Alien God”...
 Well, it’s been attempting to communicate in our languages,so the possibility is technically there…
  
 **Sion:**
-But the <ruby><rb>Accomplish Measure</rb><rt>Lifespan Engravement Measurement Pin</rt></ruby>,a vital component of the Black Barrel, won’t be able to measure the lifespan of the “Alien God”.
+But the <ruby><rb>Accomplish Measure</rb><rt>Lifespan Engravement Measurement Pin</rt></ruby>,a vital component of the Black Barrel, won’t be able to measure the lifespan of the “Alien God”. 
  
 **Holmes:**
-Hoh. And what’s the reasoning for that?
+Hoh. And what’s the reasoning for that? 
  
 **Holmes:**
-Isn’t the Black Barrel a weapon that specializes in overturning such “performance differences”?
+Isn’t the Black Barrel a weapon that specializes in overturning such “performance differences”? 
  
 **Sion:**
-Because it could trivially create a gravitational sphere by raising an arm.
+Because it could trivially create a gravitational sphere by raising an arm. 
  
 **Sion:**
-It was a black hole no matter how you look at itIt’s operating on a system we simply can’t beat.
+It was a black hole no matter how you look at itIt’s operating on a system we simply can’t beat. 
  
 **Sion:**
-You’re all aware of what a black hole is, right?They’re pits of darkness that absorb everything.
+You’re all aware of what a black hole is, right? They’re pits of darkness that absorb everything. 
  
 **Sion:**
-The idea of them being pitfalls is just a metaphor,to speak properly, they drag everything in.
+The idea of them being pitfalls is just a metaphor,to speak properly, they drag everything in. 
  
 **Sion:**
-The reason why they’re so dark is because even light cannot escape from that pull.
+The reason why they’re so dark is because even light cannot escape from that pull. 
  
 **Sion:**
-The speed of light is approximately 300,000 kilometers per second. According to our laws of physics,here is nothing that can exceed that speed.
+The speed of light is approximately 300,000 kilometers per second. According to our laws of physics,here is nothing that can exceed that speed. 
  
 **Sion:**
-That’s why my system can’t cope with someone who can just make themexist without even thinking about it.
+That’s why my system can’t cope with someone who can just make themexist without even thinking about it. 
  
 **Goredolf:**
-I-I see.Sure, that gravitational field was absurd, but…
+I-I see. Sure, that gravitational field was absurd, but…
  
 **Goredolf:**
-Are you saying that you can’t defeat something that is a black hole?
+Are you saying that you can’t defeat something that is a black hole? 
  
 **Sion:**
 No, I don’t want to say that it’s strong because it can make black holes, but that’s how this case is…
  
 **Sion:**
-It’s pretty simple to increase the strength of a gravitational field.All you have to do is compress matter and raise its density.
+It’s pretty simple to increase the strength of a gravitational field. All you have to do is compress matter and raise its density. 
  
 **Sion:**
-For example, if you compressed the Earth down to the size of your fingertip, it would become a black hole.
+For example, if you compressed the Earth down to the size of your fingertip, it would become a black hole. 
  
 **Sion:**
-The theory of that has been known for some time.But it’s simply impossible to do with the technology of the current mankind.
+The theory of that has been known for some time. But it’s simply impossible to do with the technology of the current mankind. 
  
 **Sion:**
-On the other hand, such phenomena occur regularly throughout the universe.
+On the other hand, such phenomena occur regularly throughout the universe. 
  
 **Sion:**
 A black hole forms in the final moments of enormous stars,
  
 **Sion:**
-When they can no longer support their own mass, and collapse in on themselves.
+When they can no longer support their own mass, and collapse in on themselves. 
  
 **Sion:**
-It’s a mundane event in the cycle of the system of the universe.In other words&mdash;
+It’s a mundane event in the cycle of the system of the universe. In other words&mdash;
  
 **Holmes:**
-<u>It uses the system of the universe</u>.
+<u>It uses the system of the universe</u>. 
  
 **Holmes:**
-Our common sense uses entirely different units of measurement…is that what you mean?
+Our common sense uses entirely different units of measurement…is that what you mean? 
  
 **Sion:**
-Unfortunately, yes.
+Unfortunately, yes. 
  
 **Sion:**
-The Black Barrel targets “life” no matter how powerful it is.
+The Black Barrel targets “life” no matter how powerful it is. 
  
 **Sion:**
 Mankind has yet to reach the level of being able to measure the lifespan of “stars” and “planets”,
  
 **Sion:**
-so we cannot substitute formulae for that into our weapons.
+so we cannot substitute formulae for that into our weapons. 
  
 **Sion:**
 The fact that we could defeat the Gods of Olympus was a hypothesis that could only apply in the Lostbelt&mdash;
  
 **Sion:**
-Because “no matter what they may be, they are the cornerstones of human history”.
+Because “no matter what they may be, they are the cornerstones of human history”. 
  
 **Mash:**
-Then you’re saying&mdash;the Black Barrel, a weapon that uses the lifespan of its target, won’t stop the “Alien God”.
+Then you’re saying&mdash;the Black Barrel, a weapon that uses the lifespan of its target, won’t stop the “Alien God”. 
  
 **Sion:**
-Yes, that’s correct.The battle against the “Alien God” will be one of pure energy.
+Yes, that’s correct. The battle against the “Alien God” will be one of pure energy. 
  
 **Sion:**
-If our opponent has planetary-grade output,then we have to be armed with a weapon of planetary-grade output.
+If our opponent has planetary-grade output,then we have to be armed with a weapon of planetary-grade output. 
  
 ---
 
@@ -520,69 +520,69 @@ How can we possibly do this&mdash;
 
  
 **Holmes:**
-...Let’s leave that matter for the future.We have to focus on stabilizing the Storm Border first.
+...Let’s leave that matter for the future. We have to focus on stabilizing the Storm Border first. 
  
 **Goredolf:**
 But… even if we perfect the Storm Border,our weapons just won’t be enough…
  
 **Holmes:**
-What do you mean? It’s not as if we have no ideas at all.Isn’t that right, da Vinci?
+What do you mean? It’s not as if we have no ideas at all. Isn’t that right, da Vinci? 
  
 **Da Vinci:**
-I don’t know~?Are there~? Are there any~?
+I don’t know~? Are there~? Are there any~? 
  
 **Da Vinci:**
-Can we solve the question of “Where to get such weapons”~?
+Can we solve the question of “Where to get such weapons”~? 
  
 **Da Vinci:**
-The harder question is probably “How do we get one” I think~.
+The harder question is probably “How do we get one” I think~. 
  
 **Holmes:**
-We have time to give it some leisurely thought.
+We have time to give it some leisurely thought. 
  
 **Holmes:**
-By the way, should we discuss Kadoc Zemlupus?
+By the way, should we discuss Kadoc Zemlupus? 
  
 **Holmes:**
-Is it true that he handed you something before you put him in the recovery pod?
+Is it true that he handed you something before you put him in the recovery pod? 
  
 **Da Vinci:**
-Ah, that’s right.You know a lot, Holmes. Who’d you hear that from?
+Ah, that’s right. You know a lot, Holmes. Who’d you hear that from? 
  
 **Meuniere:**
-Ah, I reported it to Holmes.It was a memory chip, right?
+Ah, I reported it to Holmes. It was a memory chip, right? 
  
 **Meuniere:**
-I thought it might contain information about the other Crypters.
+I thought it might contain information about the other Crypters. 
  
 **Da Vinci:**
-That’s what I thought too, Meuniere.
+That’s what I thought too, Meuniere. 
  
 **Da Vinci:**
-It’s a copy that Kadoc took of data recorded by Kirschtaria.
+It’s a copy that Kadoc took of data recorded by Kirschtaria. 
  
 **Da Vinci:**
-Well, there wasn’t much noteworthy information in there.It was just documents about the Atlantic Lostbelt.
+Well, there wasn’t much noteworthy information in there. It was just documents about the Atlantic Lostbelt. 
  
 **Da Vinci:**
-That data’s meaningless now.Ah, but there were two pieces of data that caught my attention.
+That data’s meaningless now. Ah, but there were two pieces of data that caught my attention. 
  
 **Holmes:**
-Hoh? And what would those be?
+Hoh? And what would those be? 
  
 **Da Vinci:**
-“This invasion did not begin with the Fantasy Trees.It began with the bleaching of the Earth”
+“This invasion did not begin with the Fantasy Trees. It began with the bleaching of the Earth”
  
 **Da Vinci:**
 And,
  
 **Da Vinci:**
-“The bleaching of the Earth began in Area 51 of North America”.
+“The bleaching of the Earth began in Area 51 of North America”. 
  
 ---
 
 **Fujimaru 1:**
-The blank slate came first, then the Fantasy Trees…?
+The blank slate came first, then the Fantasy Trees…? 
  
 
 ---
@@ -595,92 +595,92 @@ North America… Area 51…
 
  
 **Holmes:**
-...Hmm.I can’t make any assumptions at this stage, but...
+...Hmm. I can’t make any assumptions at this stage, but...
  
 **Holmes:**
-Da Vinci.Would you be so kind as to pass that data on to me?
+Da Vinci. Would you be so kind as to pass that data on to me? 
  
 **Da Vinci:**
-That’s fine~.Please examine it to your heart’s content!
+That’s fine~. Please examine it to your heart’s content! 
  
 **Da Vinci:**
-Well then, I’ll be out here.Adjusting the Storm Border is a big job you know~.
+Well then, I’ll be out here. Adjusting the Storm Border is a big job you know~. 
  
 **Da Vinci:**
 Fujimaru, Mash, I know the circumstances are tough,but please take it easy~☆
  
 **Da Vinci:**
-If you take a good, long rest, and train hard,your worries will all disappear.
+If you take a good, long rest, and train hard,your worries will all disappear. 
  
 **Da Vinci:**
-For the time being, I can’t come back in with you guys, but next time I see you in person, I want you to show me how much you’ve grown up!
+For the time being, I can’t come back in with you guys, but next time I see you in person, I want you to show me how much you’ve grown up! 
  
 **Sion:**
-You’ve said everything I needed to say, da Vinci.
+You’ve said everything I needed to say, da Vinci. 
  
 **Sion:**
-Now that the “Alien God” has descended,the situation’s changed dramatically.
+Now that the “Alien God” has descended,the situation’s changed dramatically. 
  
 **Sion:**
-But, we’ve got nothing to gain by panicking.
+But, we’ve got nothing to gain by panicking. 
  
 **Sion:**
-For now, we’ll just have to do what we can.We, the analysis team, will investigate our enemy, and prepare our countermeasures.
+For now, we’ll just have to do what we can. We, the analysis team, will investigate our enemy, and prepare our countermeasures. 
  
 **Sion:**
-The active team, that’s Fujimaru, Mash, and the Border Crew,should train and recover.
+The active team, that’s Fujimaru, Mash, and the Border Crew,should train and recover. 
  
 **Sion:**
-Even better, Trismegistus Ⅱ’s future predictions show no apocalyptic events for the next month.
+Even better, Trismegistus Ⅱ’s future predictions show no apocalyptic events for the next month. 
  
 **Sion:**
-I’m still the genius woman of the Atlas Institute.Knowing that much allows me time to prepare some countermeasures.
+I’m still the genius woman of the Atlas Institute. Knowing that much allows me time to prepare some countermeasures. 
  
 **Sion:**
-Please enjoy your standby duty on the big boat,rather than on that great bird outside!
+Please enjoy your standby duty on the big boat,rather than on that great bird outside! 
 
 ## Section 1: Heian-kyō, Fifth Year of Kankō 
 
  
 **Narration:**
-&mdash;The Moon is watching.
+&mdash;The Moon is watching. 
  
 **Narration:**
-It’s the dead of the night.
+It’s the dead of the night. 
  
 **Narration:**
 At the time when people fall asleep,and beasts lurk in the darkness,
  
 **Narration:**
-A devil stirs in the city of Kyoto.But only the Moon can see it.
+A devil stirs in the city of Kyoto. But only the Moon can see it. 
 
 **Narration:**
-Heian-kyō, a land of wonders.
+Heian-kyō, a land of wonders. 
  
 **Narration:**
 A land similar to the British Isles…predisposed to the rampaging of various ancient mysteries,
  
 **Narration:**
-where warriors of incredible strength hunt,a Demonic Sphere where living legends still breathe.
+where warriors of incredible strength hunt,a Demonic Sphere where living legends still breathe. 
  
 **Narration:**
 For example&mdash;
 
  
 **Narration:**
-Heian-kyō, southern end of the central region.Sai-ji.
+Heian-kyō, southern end of the central region. Sai-ji. 
  
 **Narration:**
 The temple has just finished reconstruction after the fire last year,
  
 **Narration:**
-and as the rebuilding was completed,the Minister of the Left composed a poem of congratulations to the Bettō of the Sai-ji.
+and as the rebuilding was completed,the Minister of the Left composed a poem of congratulations to the Bettō of the Sai-ji. 
  
 **Narration:**
 A particular Fujiwara is the Minister of the Left,a great man who speaks truthfully and respectfully to the august Mikado,
  
 **Narration:**
-and demonstrates the prosperity and power of the Capital with his own body.
+and demonstrates the prosperity and power of the Capital with his own body. 
  
 **Narration:**
 It was inevitable that there would be a miraculous test of the spirit at the Sai-ji&mdash;
@@ -692,35 +692,35 @@ That’s at least how it should have been.
 There was a grudge. 
  
 **Narration:**
-There was a demon.
+There was a demon. 
  
 **Narration:**
 On the grounds of the pure temple&mdash;As if they were the word “grudge” given form, all kinds of monsters appeared! 
 
  
 **Man's Voice:**
-Shut up.
+Shut up. 
  
 **Young Warrior:**
-Shut the hell up.
+Shut the hell up. 
  
 **Young Warrior:**
-What are you anyway, some Great Spirit that resents the Capital and Imperial Palace?
+What are you anyway, some Great Spirit that resents the Capital and Imperial Palace? 
  
 **Young Warrior:**
-In the end, you’re just a single evil spirit that fled to the Sai-ji,trembling in fear because of the statues of the Four Heavenly Kings at the Tō-ji.
+In the end, you’re just a single evil spirit that fled to the Sai-ji,trembling in fear because of the statues of the Four Heavenly Kings at the Tō-ji. 
  
 **Young Warrior:**
-&mdash;Yeah, I don’t give a damn.
+&mdash;Yeah, I don’t give a damn. 
 
 **Young Warrior:**
 That’s right! 
  
 **Narration:**
-Bisected in one swordstroke!Peerless, herculean strength!
+Bisected in one swordstroke! Peerless, herculean strength! 
  
 **Narration:**
-The mass of magical energy that appears to be a vengeful spirit...The amorphous Spiritual Body that had been sung as a Great Spirit had been dispersed!
+The mass of magical energy that appears to be a vengeful spirit...The amorphous Spiritual Body that had been sung as a Great Spirit had been dispersed! 
  
 **Young Warrior:**
 Haha. That’s finished! 
@@ -729,37 +729,37 @@ Haha. That’s finished!
 This is what it is to be a warrior—— A Heian Warrior. 
  
 **Narration:**
-In the archipelago of the Far East, where monsters, demons, and the evil spirits of mountains and rivers still hold dominance,he is a person who protects the world of man from the Demonic Sphere, at great risk to his own life.
+In the archipelago of the Far East, where monsters, demons, and the evil spirits of mountains and rivers still hold dominance,he is a person who protects the world of man from the Demonic Sphere, at great risk to his own life. 
  
 **Young Warrior:**
 ......
  
 **Young Warrior:**
-…………Hnnnnnn.
+…………Hnnnnnn. 
  
 **Young Warrior:**
 What a waste of time. This doesn't feel right <u>at all</u>！
  
 **Young Warrior:**
-...What is it, what am I missing?It wasn’t like this when I was a kid on the mountain!
+...What is it, what am I missing? It wasn’t like this when I was a kid on the mountain! 
  
 **Young Warrior:**
-What’s wrong?
+What’s wrong? 
  
 **Young Warrior:**
-What am I missing?
+What am I missing? 
  
 **Young Warrior:**
-This is no good, it can’t be this!
+This is no good, it can’t be this! 
  
 **Young Warrior:**
-Guardian of the Capital!I’m far from capable enough to be one of Raikou’s Four Heavenly Kings!
+Guardian of the Capital! I’m far from capable enough to be one of Raikou’s Four Heavenly Kings! 
  
 **Young Warrior:**
 This is simply&mdash;
  
 **Young Warrior:**
-I won’t ever become a heavenly warrior.
+I won’t ever become a heavenly warrior. 
  
 **Young Warrior:**
 ......
@@ -768,14 +768,14 @@ I won’t ever become a heavenly warrior.
 ...
  
 **Young Warrior:**
-Heavenly Warrior.
+Heavenly Warrior. 
  
 **Young Warrior:**
-...That doesn't feel right either.
+...That doesn't feel right either. 
 
  
 **Young Warrior:**
-How am I meant to talk to them?Oh, hey big bro.
+How am I meant to talk to them? Oh, hey big bro. 
  
 **Young Warrior:**
 Big bro Tsuna&mdash;
@@ -783,53 +783,53 @@ Big bro Tsuna&mdash;
 **--SECTION BREAK--:**
  
 **Narration:**
-&mdash;The River Horikawa.
+&mdash;The River Horikawa. 
  
 **Narration:**
-At the return bridge on Ichijo-oji.
+At the return bridge on Ichijo-oji. 
 
  
 **Man with a Long Sword:**
 ......
  
 **Man with a Long Sword:**
-...There, young lady.
+...There, young lady. 
  
 **Young Girl:**
-Yes.Lord Judicial Officer.
+Yes. Lord Judicial Officer. 
  
 **Young Girl:**
-What business would you desire of me at such a late hour?
+What business would you desire of me at such a late hour? 
  
 **Man with a Long Sword:**
 ......
  
 **Man with a Long Sword:**
-...Judicial Officer?
+...Judicial Officer? 
  
 **Man with a Long Sword:**
-Certainly, it seems to look that way.No. I’m no longer a Judicial Officer.
+Certainly, it seems to look that way. No. I’m no longer a Judicial Officer. 
  
 **Young Girl:**
-...?
+...? 
  
 **Man with a Long Sword:**
-I am a warrior.A retainer of Settsu.
+I am a warrior. A retainer of Settsu. 
  
 **Young Girl:**
 Then, there’s the rumours of the famous Genji...
  
 **Man with a Long Sword:**
-You’re certainly knowledgeable, young lady.Well then&mdash;
+You’re certainly knowledgeable, young lady. Well then&mdash;
  
 **Man with a Long Sword:**
-You know that we of the Genji clan serve the Lord Minister of the Left,expressly for the protection of the ruling Capital.
+You know that we of the Genji clan serve the Lord Minister of the Left,expressly for the protection of the ruling Capital. 
  
 **Young Girl:**
-Y-Yes!Of course!
+Y-Yes! Of course! 
  
 **Young Girl:**
-Everyone who lives in the Capital,owe their lives to the Warriors of Genji.
+Everyone who lives in the Capital,owe their lives to the Warriors of Genji. 
  
 **Young Girl:**
 Thank you very much...
@@ -838,40 +838,40 @@ Thank you very much...
 If I may say it...
  
 **Young Girl:**
-You can do anything.Be beautiful yet strong, young warrior.
+You can do anything. Be beautiful yet strong, young warrior. 
  
 **Man with a Long Sword:**
 If that’s the case&mdash;
  
 **Man with a Long Sword:**
-may I request a dance?
+may I request a dance? 
  
 **Young Girl:**
-Dance...Do you have...?
+Dance...Do you have...? 
  
 **Man with a Long Sword:**
-Indeed.
+Indeed. 
  
 **Man with a Long Sword:**
-The moon looks excellent tonight.
+The moon looks excellent tonight. 
  
 **Man with a Long Sword:**
-Then we may dance lightly on the bridge,and let the moon cast the shadow of your figure on the surface of the River Horikawa.
+Then we may dance lightly on the bridge,and let the moon cast the shadow of your figure on the surface of the River Horikawa. 
  
 **Young Girl:**
-.........?
+.........? 
  
 **Man with a Long Sword:**
-Isn’t it clear for you?
+Isn’t it clear for you? 
  
 **Man with a Long Sword:**
 I ask you to take a closer look at the water’s surfaceYou may be of the belief that you’ve done an excellent job disguising yourself, but the truth is&mdash;
  
 **Man with a Long Sword:**
-&mdash;<u>you carelessly forgot to disguise your shadow,</u>Ibaraki.
+&mdash;<u>you carelessly forgot to disguise your shadow,</u>Ibaraki. 
  
 **Young Girl:**
-!!
+! ! 
  
 **Man with a Long Sword:**
 ...
@@ -881,10 +881,10 @@ I ask you to take a closer look at the water’s surfaceYou may be of the belief
 Dammit...
  
 **Ibaraki Douji:**
-Dammit dammit dammit dammit dammiiit!For me…!
+Dammit dammit dammit dammit dammiiit! For me…! 
  
 **Ibaraki Douji:**
-You knew I was coming,and still deliberately shamed me, you damn bastard!
+You knew I was coming,and still deliberately shamed me, you damn bastard! 
  
 **Ibaraki Douji:**
 <u>If you recognized me from the beginning,</u>then that means...
@@ -893,133 +893,133 @@ You knew I was coming,and still deliberately shamed me, you damn bastard!
 I'll kill you! 
  
 **Ibaraki Douji:**
-Kill, kill, kill you!I hate, hate, hate you so much tonight&mdash;
+Kill, kill, kill you! I hate, hate, hate you so much tonight&mdash;
  
 **Ibaraki Douji:**
-so I’ll bite off your damn head! I’ll gouge out your eyeballs and skin you raw!Then I’ll decorate the Main Street Suzaku with your flesh!
+so I’ll bite off your damn head! I’ll gouge out your eyeballs and skin you raw! Then I’ll decorate the Main Street Suzaku with your flesh! 
  
 **Ibaraki Douji:**
-Tsunaaaaa!!!!!
+Tsunaaaaa! ! ! ! ! 
  
 **Man with a Long Sword:**
 &mdash;&mdash;
  
 **Ibaraki Douji:**
-Tsk!
+Tsk! 
  
 **Ibaraki Douji:**
-Look at me! Don’t you dare leave!
+Look at me! Don’t you dare leave! 
  
 **Ibaraki Douji:**
-I’m right here!Quake in fear at my claws and fangs, then choke on your tears!!
+I’m right here! Quake in fear at my claws and fangs, then choke on your tears! ! 
  
 **Ibaraki Douji:**
 To this form of mine...
  
 **Ibaraki Douji:**
-<u>I won’t allow you to heap anything else on me,</u> Tsuna!
+<u>I won’t allow you to heap anything else on me,</u> Tsuna! 
  
 **Ibaraki Douji:**
-Look at me! Look at me!
+Look at me! Look at me! 
  
 **Man with a Long Sword:**
 ...
  
 **Ibaraki Douji:**
-Oh, I don’t like this...!
+Oh, I don’t like this...! 
  
 **Ibaraki Douji:**
-Kyahahahahahahahahahahahaha!
+Kyahahahahahahahahahahahaha! 
  
 **Man with a Long Sword:**
 ......
  
 **Ibaraki Douji:**
-Fufu. Fufufufufufufufufufufufufufu. Oh Tsuna, Tsunaa, are you shaking in fear?
+Fufu. Fufufufufufufufufufufufufufu. Oh Tsuna, Tsunaa, are you shaking in fear? 
  
 **Ibaraki Douji:**
-Well that’s fine by me!
+Well that’s fine by me! 
  
 **Ibaraki Douji:**
-That’s right! I’m stronger now than I was on that day, on that night!I got stronger!
+That’s right! I’m stronger now than I was on that day, on that night! I got stronger! 
  
 **Ibaraki Douji:**
-I gathered that strength at Mount Ooe, Tsuna!My days with Shuten have elevated me to the height of an Oni!
+I gathered that strength at Mount Ooe, Tsuna! My days with Shuten have elevated me to the height of an Oni! 
  
 **Ibaraki Douji:**
-Still! I’m not at the top yet!
+Still! I’m not at the top yet! 
  
 **Ibaraki Douji:**
-Eventually though, I will be the leader of the Oni of the East and West!
+Eventually though, I will be the leader of the Oni of the East and West! 
  
 **Ibaraki Douji:**
-Shuten and I will reign forever as the Kings of Ooe,destroy you and the entire Minamoto family, and eat the entire human world!
+Shuten and I will reign forever as the Kings of Ooe,destroy you and the entire Minamoto family, and eat the entire human world! 
  
 **Ibaraki Douji:**
 Fufu&mdash;
  
 **Ibaraki Douji:**
-&mdash;fufufuahahahahahahahahahahaha!!
+&mdash;fufufuahahahahahahahahahahaha! ! 
  
 **Man with a Long Sword:**
 ......
  
 **Man with a Long Sword:**
-......Ibaraki.
+......Ibaraki. 
  
 **Man with a Long Sword:**
-You still haven’t noticed, Ibaraki.
+You still haven’t noticed, Ibaraki. 
  
 **Man with a Long Sword:**
-Then you no longer stand alongside Shuten Douji as an Oni general. You haven’t for a while.
+Then you no longer stand alongside Shuten Douji as an Oni general. You haven’t for a while. 
  
 **Ibaraki Douji:**
-?
+? 
  
 **Ibaraki Douji:**
-Huh? What?
+Huh? What? 
  
 **Man with a Long Sword:**
-Foremost, neither your claws nor your flames have touched me.I was already here.
+Foremost, neither your claws nor your flames have touched me. I was already here. 
  
 **Man with a Long Sword:**
-While you closed your eyelids.
+While you closed your eyelids. 
  
 **Ibaraki Douji:**
-!! 
+! ! 
  
 **Ibaraki Douji:**
 Oo...Oooooo...
  
 **Ibaraki Douji:**
-Ooo… Ooooooh… ooOOOOOOO!!How dare you taunt me with your human body!! 
+Ooo… Ooooooh… ooOOOOOOO! ! How dare you taunt me with your human body! ! 
  
 **Ibaraki Douji:**
 Damn you Tsunaaaa! 
  
 **Man with a Long Sword:**
-&mdash;Ibaraki.
+&mdash;Ibaraki. 
  
 **Ibaraki Douji:**
-Guuuaaaaaaaaahh!!
+Guuuaaaaaaaaahh! ! 
  
 **Ibaraki Douji:**
-My… rr… My… my right arm is…!
+My… rr… My… my right arm is…! 
  
 **Ibaraki Douji:**
-It’s fallen off…!
+It’s fallen off…! 
  
 **Ibaraki Douji:**
-You cut it off…!Aaaah… AAAAAAAA!
+You cut it off…! Aaaah… AAAAAAAA! 
  
 **Ibaraki Douji:**
-It hurts! It hurts, it hurts, it hurts it hurts it hurts!Dammiiiiit! 
+It hurts! It hurts, it hurts, it hurts it hurts it hurts! Dammiiiiit! 
  
 **Ibaraki Douji:**
-Damn you… bastard…!!
+Damn you… bastard…! ! 
  
 **Ibaraki Douji:**
-TSUNAAAA!!!
+TSUNAAAA! ! ! 
  
 **Man with a Long Sword:**
 ......
@@ -1028,103 +1028,103 @@ TSUNAAAA!!!
 Ngaahh&mdash;
  
 **Ibaraki Douji:**
-Bastard, bastard, bastard bastard bastard!
+Bastard, bastard, bastard bastard bastard! 
  
 **Ibaraki Douji:**
-Why did you sheathe your sword!?If you’re going to take my arm, why not just take my head too!?
+Why did you sheathe your sword!? If you’re going to take my arm, why not just take my head too!? 
  
 **Ibaraki Douji:**
-Again! Again!
+Again! Again! 
  
 **Ibaraki Douji:**
-Approach me with your sword drawn,and I’ll bite off your damn head!
+Approach me with your sword drawn,and I’ll bite off your damn head! 
  
 **Man with a Long Sword:**
 ......
  
 **Man with a Long Sword:**
-...<u>No Servant has appeared</u>.
+...<u>No Servant has appeared</u>. 
  
 **Man with a Long Sword:**
-I’ve removed one of your arms,but even the pretense of a support technique has not appeared.
+I’ve removed one of your arms,but even the pretense of a support technique has not appeared. 
  
 **Man with a Long Sword:**
-Then you are not one of the <ruby><rb>Masters</rb><rt>Heavenly Warriors</rt></ruby>, are you?
+Then you are not one of the <ruby><rb>Masters</rb><rt>Heavenly Warriors</rt></ruby>, are you? 
  
 **Ibaraki Douji:**
-...What are… you on about…?
+...What are… you on about…? 
  
 **Ibaraki Douji:**
-Are you saying…Sirvahnt… masta?
+Are you saying…Sirvahnt… masta? 
  
 **Man with a Long Sword:**
-You are but a single Oni,without a Caster.
+You are but a single Oni,without a Caster. 
  
 **Man with a Long Sword:**
 Then we have no more reason to fight now. 
  
 **Ibaraki Douji:**
-...?
+...? 
  
 **Ibaraki Douji:**
 Well...I don’t know… Tsuna…
  
 **Ibaraki Douji:**
-Just an Oni… did you omit a detail…?
+Just an Oni… did you omit a detail…? 
  
 **Ibaraki Douji:**
-Trying to swindle me with nonsense…You’re despicable, Tsunaaa!!
+Trying to swindle me with nonsense…You’re despicable, Tsunaaa! ! 
  
 **Man with a Long Sword:**
 How dizzying&mdash;
  
 **Man with a Long Sword:**
-Attempting to hide your form.Your escapes grow more skillful by the day, Ibaraki.
+Attempting to hide your form. Your escapes grow more skillful by the day, Ibaraki. 
  
 **Ibaraki Douji:**
-Next time, I’ll kill you.
+Next time, I’ll kill you. 
  
 **Ibaraki Douji:**
-And I’ll get my arm back too!I’ll never forget this&mdash;Tsuna, my sworn enemy!
+And I’ll get my arm back too! I’ll never forget this&mdash;Tsuna, my sworn enemy! 
  
 **Man with a Long Sword:**
-...It appears she’s left for the mountain.
+...It appears she’s left for the mountain. 
  
 **Man with a Long Sword:**
-Now then.Caster.
+Now then. Caster. 
 
  
 **Medea Lily:**
-Master.
+Master. 
  
 **Medea Lily:**
-That quantity of magical energy wasn’t merely that of a human being.But it wasn’t that of a Servant, either…
+That quantity of magical energy wasn’t merely that of a human being. But it wasn’t that of a Servant, either…
  
 **Medea Lily:**
 A Phantasmal Species, or perhaps…
  
 **Man with a Long Sword:**
-It was an Oni.
+It was an Oni. 
  
 **Man with a Long Sword:**
-Did those not exist in the land you lived in?
+Did those not exist in the land you lived in? 
  
 **Man with a Long Sword:**
-I have a particular relationship with that one.Pay no mind to it right now. I will simply keep her arm in my custody.br>
+I have a particular relationship with that one. Pay no mind to it right now. I will simply keep her arm in my custody. br>
  
 **Medea Lily:**
-Yes, of course.
+Yes, of course. 
  
 **Man with a Long Sword:**
-...Was that a Sensory Reinforcement technique?
+...Was that a Sensory Reinforcement technique? 
 
  
 **Man with a Long Sword:**
-It was magnificent, Caster.Thanks to your efforts, I have remained unharmed after facing an Oni head-on. 
+It was magnificent, Caster. Thanks to your efforts, I have remained unharmed after facing an Oni head-on. 
 
  
 **Medea Lily:**
-What are you talking about, Lord Tsuna?。
+What are you talking about, Lord Tsuna? 。
  
 **Medea Lily:**
 All I did,was apply a temporary Reinforcement to your senses…
@@ -1133,28 +1133,28 @@ All I did,was apply a temporary Reinforcement to your senses…
 Without me reinforcing your body,or using a blessing to protect you from the flames,
  
 **Medea Lily:**
-<u>You just closed your eyes and fended off the attacks of that animalistic demon</u>!It was incredibly out of character for you, Master! 
+<u>You just closed your eyes and fended off the attacks of that animalistic demon</u>! It was incredibly out of character for you, Master! 
  
 **Man with a Long Sword:**
-I’m afraid I can’t agree.
+I’m afraid I can’t agree. 
  
 **Man with a Long Sword:**
-Every person who bears a sword is…Well, perhaps I wouldn’t go so far as to say that.
+Every person who bears a sword is…Well, perhaps I wouldn’t go so far as to say that. 
  
 **Man with a Long Sword:**
-But when one is among the pinnacles of warriors,namely one of <u>Raikou’s Four Heavenly Kings</u>,then such a feat is possible.
+But when one is among the pinnacles of warriors,namely one of <u>Raikou’s Four Heavenly Kings</u>,then such a feat is possible. 
  
 **Man with a Long Sword:**
-...It’s true, really.
+...It’s true, really. 
  
 **Man with a Long Sword:**
-Now then, let’s go again tonight.
+Now then, let’s go again tonight. 
  
 **Man with a Long Sword:**
-We’re looking for our prey.Our Casters.
+We’re looking for our prey. Our Casters. 
  
 **Medea Lily:**
-&mdash;Yes, of course. I completely agree, Master.
+&mdash;Yes, of course. I completely agree, Master. 
  
 **--ARROW--:**
 
@@ -1955,7 +1955,7 @@ We’re looking for our prey.Our Casters.
 **Fou:**
 フォウフォーウ！
 
-[[File:black.png500px]]
+[[File: black. png500px]]
  
 **--ARROW--:**
 
@@ -2695,7 +2695,7 @@ We’re looking for our prey.Our Casters.
 **Danzo:**
 いけない！マスター！
 
-[[File:black.png500px]]
+[[File: black. png500px]]
  
 **Narration:**
 &mdash;魔圏、平安京にあって。
