@@ -1,10 +1,5 @@
-# Main Menu
-
-## FGO Transcripts
+# Menu
 
 * [Main Story](pages/story.md)
 * [Events]()
 * [Interludes]()
-
-
-
