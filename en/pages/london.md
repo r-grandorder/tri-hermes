@@ -7608,7 +7608,7 @@ Seventh Heaven clad in the great words of power!Come forth from the circle of bi
 This is... A Heroic Servant summoning incantation!?
  
 **Mordred:**
-<span style=font-size:25px>Shut your mouth!</span>
+Shut your mouth! 
  
 **Mordred:**
 ...Shut up and die.
@@ -8383,7 +8383,7 @@ It is a new myth!It is "my light," a gift unto humanity!
 Now,I shall display to all of you!
  
 **Nikola Tesla:**
-<span style=font-size:25px>&ndash;System Keraunos!</span>
+&ndash;System Keraunos! 
  
 **--BATTLE--:**
  
@@ -8415,7 +8415,7 @@ And so now it is time for me to return to the Throne&mdash;
 Haha! Hahahahaha!Farewell, all of you&mdash;
  
 **Nikola Tesla:**
-<span style=font-size:25px>&mdash;Farewell!</span>
+&mdash;Farewell! 
  
 **Mash:**
 ...The enemy Servant has completely disappeared.

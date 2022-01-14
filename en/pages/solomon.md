@@ -1684,7 +1684,7 @@ Chaldea will meet its end here and now!Ha ha, hahaha!
  
 **A：Demon God Flauros:**
  
-<span style=font-size:25px>Hahahahahahahahahahahahahaha!</span>
+Hahahahahahahahahahahahahaha! 
  
 **Mash:**
 Senpai...!
@@ -4010,7 +4010,7 @@ Is that right!? Then I'll be the sword!
 I'll slice through the heavens, cleave the ground, and slash through the Demon Gods along with the sky!Yes, that's the electric spark of my treasured sword!
  
 **Sakata Kintoki:**
-<span style=font-size:25px>The unparalleled Golden Spark!!!</span>
+The unparalleled Golden Spark!!! 
  
 **Nikola Tesla:**
 He's here! Mr. Golden!
@@ -4055,7 +4055,7 @@ I smash devils, punch fiends, and sometimes ride a golden machine!
 I'm gonna do this! Here I go! A flash of thunder and lightning, Gorgeous Golden Rider...
  
 **Sakata Kintoki:**
-<span style=font-size:25px>...Traaansfooorm!!!</span>
+...Traaansfooorm!!! 
  
 **Nikola Tesla:**
 !!!!!
@@ -4807,10 +4807,10 @@ No, no. That's a difficult choice for me to make.My beauty always shines through
 ...Oh, that's right! We've got someone right here who combines elegance and barbarity!
  
 **Diarmuid:**
-<span style=font-size:25px>My lord!</span>
+My lord! 
  
 **Diarmuid:**
-<span style=font-size:25px>Just this once, restrain yourself!</span>
+Just this once, restrain yourself! 
  
 **Fionn:**
 O-okay!?

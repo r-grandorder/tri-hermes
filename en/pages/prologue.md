@@ -771,16 +771,16 @@ The blizzard has come and gone.Now all that remains is clear blue sky.
 Before long, the pale blue is marked by the single black dot of an approaching helicopter. The helicopter brings important passengers, and the harsh reality that the end is close at hand.
 
 **P.A. System**
-...Forty-four visitors cleared and registered.</span>
+...Forty-four visitors cleared and registered. 
  
 **P.A. System**
-All entrants are permitted to enter Chaldea by special exemption granted by the Association Board of Safety.</span>
+All entrants are permitted to enter Chaldea by special exemption granted by the Association Board of Safety. 
  
 **P.A. System**
-Opening front gate.Welcome, Goredolf Musik.</span>
+Opening front gate.Welcome, Goredolf Musik. 
  
 **P.A. System**
-Welcome, UN inspectors.On behalf of Chaldea, we thank you for coming.</span>
+Welcome, UN inspectors.On behalf of Chaldea, we thank you for coming. 
  
 ---
 
@@ -1908,13 +1908,13 @@ You ARE the Master who prevented the Incineration of Humanity. Your instincts mu
 
  
 **P.A. System**
-Operation complete.Coffin thawing: successful.</span>
+Operation complete.Coffin thawing: successful. 
  
 **P.A. System**
-The Coffins will be released in three minutes.</span>
+The Coffins will be released in three minutes. 
  
 **P.A. System**
-Father Kotomine, please report to the Command Room. We are about to begin the resuscitation procedure.</span>
+Father Kotomine, please report to the Command Room. We are about to begin the resuscitation procedure. 
  
 **Mash:**
 So the thawing was successful...Da Vinci must have pulled it off!
@@ -1948,10 +1948,10 @@ All the miracles you performed are about to be destroyed at the hands of the ver
 
  
 **P.A. System**
-Operation complete.Coffin thawing: successful.</span>
+Operation complete.Coffin thawing: successful. 
  
 **P.A. System**
-The Coffins will be released in three minutes.</span>
+The Coffins will be released in three minutes. 
  
 **Goredolf:**
 Fwahahaha!Well done, Da Vinci! I'm impressed!
@@ -2025,22 +2025,22 @@ The Coffins' contents can't be verified until they're open. There are any number
 But who could've done that? And more importantly, how did they get Wodime and the others out of&ndash;
  
 **Announcement A</b>
-Warning! Warning!An ■■ has occurred in observational data.</span>
+Warning! Warning!An ■■ has occurred in observational data. 
  
 **Announcement A</b>
-No past observational data found.Statistical response, forecast, and prediction abilities compromised.</span>
+No past observational data found.Statistical response, forecast, and prediction abilities compromised. 
  
 **Announcement A</b>
-Unable to detect anomalies in observational data.Unable to detect any form of electromagnetic waves.</span>
+Unable to detect anomalies in observational data.Unable to detect any form of electromagnetic waves. 
  
 **Announcement A</b>
-Unable to detect cosmic rays reaching Earth.</span>
+Unable to detect cosmic rays reaching Earth. 
  
 **Announcement A</b>
-Satellite visual feed lost.Mauna Kea Observatories transmissions lost.</span>
+Satellite visual feed lost.Mauna Kea Observatories transmissions lost. 
  
 **Announcement A</b>
-There are currently no observable celestial objects on Earth.</span>
+There are currently no observable celestial objects on Earth. 
 
  
 **Da Vinci:**
@@ -2057,7 +2057,7 @@ What are those cracks showing up in Chaldeas!?
 
  
 **Announcement A</b>
-Pseudo-Celestial Sphere Chaldeas overloaded.Shutting down Observation Lens Sheba.</span>
+Pseudo-Celestial Sphere Chaldeas overloaded.Shutting down Observation Lens Sheba. 
  
 **Goredolf:**
 N-n-now what's happening!?
@@ -2101,13 +2101,13 @@ What's going on...? N-nobody told me this sort of thing was going to happen!
 Koyanskaya!Where did Koyanskaya go!?
  
 **P.A. System**
-Attention all staff!Attention all staff!</span>
+Attention all staff!Attention all staff! 
  
 **P.A. System**
-Front and inner gates have all been shut down.</span>
+Front and inner gates have all been shut down. 
  
 **P.A. System**
-All exit routes currently inaccessible.Please wait until functionality is restored.</span>
+All exit routes currently inaccessible.Please wait until functionality is restored. 
  
 **Chaldea Staff:**
 They've taken over the gates... Now what do we do? How're we supposed to escape...?
@@ -2790,10 +2790,10 @@ They caught us completely by surprise.We have nothing at all to go on at the mom
 Which is yet another reason why we should beat a temporary retreat. We can call the Mage's Association for help, gather intel on who we're up against, and&ndash;
  
 **F：P.A. System</b>
-...Uh...S-somebody! Anybody...!</span>
+...Uh...S-somebody! Anybody...! 
  
 **F：P.A. System</b>
-If anyone's hearing this, please, answer me!Anybody at all!</span>
+If anyone's hearing this, please, answer me!Anybody at all! 
  
 ---
 
@@ -2857,19 +2857,19 @@ I...
 
  
 **F：P.A. System</b>
-Oh God, they're coming! They're coming...!Ah... Ahh... Aaaaaah!</span>
+Oh God, they're coming! They're coming...!Ah... Ahh... Aaaaaah! 
  
 **F：P.A. System</b>
-Somebody! Anybody!Argh, why does this sort of thing always happen to me!?</span>
+Somebody! Anybody!Argh, why does this sort of thing always happen to me!? 
  
 **F：P.A. System</b>
-Dammit all! Who do they think I am!?</span>
+Dammit all! Who do they think I am!? 
  
 **F：P.A. System</b>
-I'm Goredolf goddamn Musik!The eldest son of the Musik family!</span>
+I'm Goredolf goddamn Musik!The eldest son of the Musik family! 
  
 **F：P.A. System</b>
-I was going to lead Chaldea to glory! Yes, glory!That's what was supposed to happen! But now...!</span>
+I was going to lead Chaldea to glory! Yes, glory!That's what was supposed to happen! But now...! 
  
 ---
 
@@ -2906,46 +2906,46 @@ You're not wrong, but...
 
  
 **F：P.A. System</b>
-Aaagh! Ow, owww...!Ah... Aah... Ghnnn...!</span>
+Aaagh! Ow, owww...!Ah... Aah... Ghnnn...! 
  
 **F：P.A. System</b>
-...Why. Why do things always turn out like this?Why do they always turn on me in the end!?</span>
+...Why. Why do things always turn out like this?Why do they always turn on me in the end!? 
  
 **F：P.A. System</b>
-This always happens to me! Always!Nothing's changed at all...!</span>
+This always happens to me! Always!Nothing's changed at all...! 
  
 **F：P.A. System</b>
-No matter where I go, no matter what I try, I was always an outcast. A loser. A social leper.</span>
+No matter where I go, no matter what I try, I was always an outcast. A loser. A social leper. 
  
 **F：P.A. System</b>
-I knew what everyone was thinking! I knew they all hated me! But what was I supposed to do about it!?</span>
+I knew what everyone was thinking! I knew they all hated me! But what was I supposed to do about it!? 
  
 **F：P.A. System</b>
-I don't know WHY they hated me!I don't know HOW to get people to like me!</span>
+I don't know WHY they hated me!I don't know HOW to get people to like me! 
  
 **F：P.A. System</b>
-But I tried!I did the best I could!</span>
+But I tried!I did the best I could! 
  
 **F：P.A. System</b>
-I never had my sights set on first place, you know?I would've been happy with second or third!</span>
+I never had my sights set on first place, you know?I would've been happy with second or third! 
  
 **F：P.A. System</b>
-But, haha, just look at how things turned out.Forget third! I didn't even end up placing at all!</span>
+But, haha, just look at how things turned out.Forget third! I didn't even end up placing at all! 
  
 **F：P.A. System</b>
-Ah... Ow, owww!Stop it! Stop iiit!</span>
+Ah... Ow, owww!Stop it! Stop iiit! 
  
 **F：P.A. System</b>
-Dammit! After a life of failure, I thought this would finally, FINALLY be my shot at success...!</span>
+Dammit! After a life of failure, I thought this would finally, FINALLY be my shot at success...! 
  
 **F：P.A. System</b>
-But a loser is all I'll ever be, no matter where I go or what I do. Dammit... Dammit...!!!</span>
+But a loser is all I'll ever be, no matter where I go or what I do. Dammit... Dammit...!!! 
  
 **F：P.A. System</b>
-I don't wanna die!I'm not ready to die! After all...</span>
+I don't wanna die!I'm not ready to die! After all... 
  
 **F：P.A. System</b>
-No one's ever praised me before!No one's ever loved me before...!</span>
+No one's ever praised me before!No one's ever loved me before...! 
 
  
 ---
@@ -4046,19 +4046,19 @@ The end of human history...?
 NOW what is it!?
  
 **P.A. System**
-Emergency from the computer room!Emergency from the computer room!</span>
+Emergency from the computer room!Emergency from the computer room! 
  
 **P.A. System**
-Hey there! It's me, Da Vinci,the one controlling the Border all by my lonesome☆</span>
+Hey there! It's me, Da Vinci,the one controlling the Border all by my lonesome☆ 
  
 **P.A. System**
-We're less than two thousand meters away from the coast now, but I'm afraid we've got a little problem to deal with first.</span>
+We're less than two thousand meters away from the coast now, but I'm afraid we've got a little problem to deal with first. 
  
 **P.A. System**
-I'm picking up a TON of Spirit Origin signals up ahead. It's more of the soldiers that attacked Chaldea.</span>
+I'm picking up a TON of Spirit Origin signals up ahead. It's more of the soldiers that attacked Chaldea. 
  
 **P.A. System**
-I'm counting about... Well, see for yourself!As they say, a picture's worth a thousand words!</span>
+I'm counting about... Well, see for yourself!As they say, a picture's worth a thousand words! 
 
  
 **Mash:**
@@ -4085,10 +4085,10 @@ They're covering the entire coastline...
 
  
 **P.A. System**
-There's no way our Border here can break through a group like that. If we try to charge them, we'll all be dead way before we hit the water!</span>
+There's no way our Border here can break through a group like that. If we try to charge them, we'll all be dead way before we hit the water! 
  
 **P.A. System**
-Holmes! Hard right! We'll have to give up on the ship and try for another observatory!</span>
+Holmes! Hard right! We'll have to give up on the ship and try for another observatory! 
  
 **Holmes:**
 I'm afraid that won't work, Da Vinci.We're getting no response from the American base.
@@ -4159,10 +4159,10 @@ The Atlas Institute may not have cleared me for it,but I'm quite familiar with i
 After all, I got a rather thorough look at its top secret manual while I was in their headquarters.
  
 **G：P.A. System</b>
-Tri-Hermes at the Atlas Institute, hmm.You detective types are always on the job, aren't you?</span>
+Tri-Hermes at the Atlas Institute, hmm.You detective types are always on the job, aren't you? 
  
 **G：P.A. System</b>
-Still, be honest with me: How good do you think our odds are of pulling that off? Better than if we tried to fight those soldiers?</span>
+Still, be honest with me: How good do you think our odds are of pulling that off? Better than if we tried to fight those soldiers? 
  
 **Holmes:**
 Thirty percent at best, I should think.For that matter, I can't even be sure where we'll end up.
@@ -4174,28 +4174,28 @@ If all we wish to do is make it out of this predicament alive, I have no doubt t
 But, if you have your sights set further than that, this is the one I recommend. I believe it will aid us in fighting this adversary in the future.
  
 **P.A. System**
-...Understood. Expanding Void-Reality Observation Device: Paper Moon.</span>
+...Understood. Expanding Void-Reality Observation Device: Paper Moon. 
  
 **P.A. System**
-Expanding Logic Formula on Shadow Border's external armor. Removing existence verification for Reality Space.</span>
+Expanding Logic Formula on Shadow Border's external armor. Removing existence verification for Reality Space. 
  
 **P.A. System**
-Future prediction: hypothetically prove mirror world plane in twenty seconds. Relaxing space-time friction decompression for 0.6 seconds.</span>
+Future prediction: hypothetically prove mirror world plane in twenty seconds. Relaxing space-time friction decompression for 0.6 seconds. 
  
 **P.A. System**
-...Emergency processes, all green. Looking good, Holmes! We're all set for our maiden voyage!</span>
+...Emergency processes, all green. Looking good, Holmes! We're all set for our maiden voyage! 
  
 **P.A. System**
-Now then, a little heads-up for those of you in the cockpit!</span>
+Now then, a little heads-up for those of you in the cockpit! 
  
 **P.A. System**
-Your souls will almost leave your body for a moment, but don't worry, you'll be fine! It's just your average out-of-body experience!</span>
+Your souls will almost leave your body for a moment, but don't worry, you'll be fine! It's just your average out-of-body experience! 
  
 **P.A. System**
-But if you find yourself saying stuff like “I-I'm floating?” or “Is that my own body I'm looking at?”...</span>
+But if you find yourself saying stuff like “I-I'm floating?” or “Is that my own body I'm looking at?”... 
  
 **P.A. System**
-...just reach out, grab your body, and hold on for dear life! As long as you do that, you'll come out the other end alive!</span>
+...just reach out, grab your body, and hold on for dear life! As long as you do that, you'll come out the other end alive! 
  
 **Goredolf:**
 How is any of that “fine”!?You've just said you're literally going to kill us!
@@ -4221,37 +4221,37 @@ Just another day at the office.
 
  
 **P.A. System**
-Now that's the Fujimaru I know!Then without further ado, let's get started.</span>
+Now that's the Fujimaru I know!Then without further ado, let's get started. 
  
 **P.A. System**
-Although this Phenomenon Intervention Method we're about to attempt is one of the first Chaldea ever devised, we banned its use because of its extreme difficulty and danger.</span>
+Although this Phenomenon Intervention Method we're about to attempt is one of the first Chaldea ever devised, we banned its use because of its extreme difficulty and danger. 
  
 **P.A. System**
-You know how Rayshifting involves breaking a Master down into Spiritrons and outputting them into space-time as numeric values? Well, this way of traveling through space is the exact opposite.</span>
+You know how Rayshifting involves breaking a Master down into Spiritrons and outputting them into space-time as numeric values? Well, this way of traveling through space is the exact opposite. 
  
 **P.A. System**
-We'll be slipping through a crack in this world into a Sea of Time, completely erasing our existence from reality.</span>
+We'll be slipping through a crack in this world into a Sea of Time, completely erasing our existence from reality. 
  
 **P.A. System**
-...We have a lot on our plates right now. An adversary that attacked Chaldea. Those things that fell from space. The Crypters.</span>
+...We have a lot on our plates right now. An adversary that attacked Chaldea. Those things that fell from space. The Crypters. 
  
 **P.A. System**
-Like Mash said, we don't know WHAT'S going on right now.</span>
+Like Mash said, we don't know WHAT'S going on right now. 
  
 **P.A. System**
-But one thing we know for sure is that they're all enemies&ndash;threats to humanity that even destroyed Chaldea.</span>
+But one thing we know for sure is that they're all enemies&ndash;threats to humanity that even destroyed Chaldea. 
  
 **P.A. System**
-If we're going to do something about all this, we'll have to start breaking even more forbidden taboos.</span>
+If we're going to do something about all this, we'll have to start breaking even more forbidden taboos. 
  
 **P.A. System**
-We are NOT handing over the future we worked so hard to take back to a bunch of newcomers we don't know the first thing about.</span>
+We are NOT handing over the future we worked so hard to take back to a bunch of newcomers we don't know the first thing about. 
  
 **P.A. System**
-So first, we find a way out of this mess.Then, we strike back.</span>
+So first, we find a way out of this mess.Then, we strike back. 
  
 **P.A. System**
-Well, let's get going, Master Fujimaru.We have a new weapon, and a new course ahead of us...</span>
+Well, let's get going, Master Fujimaru.We have a new weapon, and a new course ahead of us... 
  
 **P.A. System:**
-Shadow Border, untether from reality.Void Space Dive, Zero Sail: unfurl!</span>
+Shadow Border, untether from reality.Void Space Dive, Zero Sail: unfurl! 

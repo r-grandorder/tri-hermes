@@ -1272,7 +1272,7 @@ So, then...
 **--SECTION BREAK--:**
  
 **P.A. System**
-Report from the computer room.Report from the computer room.</span>
+Report from the computer room.Report from the computer room. 
  
 **Da Vinci:**
 So far, this Zero Sail is looking just peachy. Just kick back and enjoy this little voyage through the Sea of Time.
@@ -1907,30 +1907,30 @@ Man, wouldn't it be great if another Salieri dropped into our laps right now? Li
 ...Damn, it didn't work. Ah, well, worth a shot.Guess we're on our own after all!All right then, let's do this thing!
  
 **P.A. System**
-Activating Paper Moon. Initiating planet navigational chart plus/minus convergence. Commencing Shadow Border's docking sequence into reality boundary.</span>
+Activating Paper Moon. Initiating planet navigational chart plus/minus convergence. Commencing Shadow Border's docking sequence into reality boundary. 
  
 **P.A. System**
-Disengaging mirror world plane voyage... Though the stratum may dissolve, I continue to exist. Reapplying timeflow attraction from Reality Space.</span>
+Disengaging mirror world plane voyage... Though the stratum may dissolve, I continue to exist. Reapplying timeflow attraction from Reality Space. 
  
 **P.A. System**
-0.4 second difference between target coordinates and current recognition, confirmed! That's well within tolerances, so we are good to gooo!</span>
+0.4 second difference between target coordinates and current recognition, confirmed! That's well within tolerances, so we are good to gooo! 
  
 **Mash:**
 Khh...!
  
 **P.A. System**
-Emerging from Void Space.Thirty seconds until arrival at Reality Space.</span>
+Emerging from Void Space.Thirty seconds until arrival at Reality Space. 
  
 **P.A. System**
-Zero Sail, complete.Emerging into Reality Space.</span>
+Zero Sail, complete.Emerging into Reality Space. 
  
 **--ARROW--:**
  
 **P.A. System**
-The Ortinax exoskeleton is operating within expected parameters. Internal pressure regulation, combustion, and weaponry are all good to go.</span>
+The Ortinax exoskeleton is operating within expected parameters. Internal pressure regulation, combustion, and weaponry are all good to go. 
  
 **P.A. System**
-Armored Shielder is cleared to deploy.Well? Feeling up to this, Mash?</span>
+Armored Shielder is cleared to deploy.Well? Feeling up to this, Mash? 
  
 **Mash:**
 Yes. All of my readings and transformations are working well. Although...
@@ -3081,7 +3081,7 @@ Fou fooou!
 Hmph, I can tell you're just buttering me up, Meunière. At any rate, let's get this Zero Sail started before that Servant makes a move!
  
 **B：P.A. System</b>
-...Okay, I'm patched in and all synced up. Expanding Void-Reality Observation Device: Paper Moon.</span>
+...Okay, I'm patched in and all synced up. Expanding Void-Reality Observation Device: Paper Moon. 
  
 **Goredolf:**
 All hands, be seated! And need I remind you,do not forget your seat belts!
@@ -3090,19 +3090,19 @@ All hands, be seated! And need I remind you,do not forget your seat belts!
 Fou, fou fooou!
  
 **B：P.A. System</b>
-Expanding Logic Formula on Shadow Border's external armor. Expansion is currently at ninety percent...ninety-three percent...</span>
+Expanding Logic Formula on Shadow Border's external armor. Expansion is currently at ninety percent...ninety-three percent... 
  
 **B：P.A. System</b>
-Ninety-eight percent... There! Now we just dive in and make up the rest as we go along!</span>
+Ninety-eight percent... There! Now we just dive in and make up the rest as we go along! 
  
 **B：P.A. System</b>
-Removing existence verification for Reality Space. Shortened future prediction: hypothetically prove mirror world plane in ten seconds.</span>
+Removing existence verification for Reality Space. Shortened future prediction: hypothetically prove mirror world plane in ten seconds. 
  
 **B：P.A. System</b>
-Relaxing space-time friction decompression for 0.9 seconds.</span>
+Relaxing space-time friction decompression for 0.9 seconds. 
  
 **B：P.A. System</b>
-...Good, looks like we made it just in time.Holmes!</span>
+...Good, looks like we made it just in time.Holmes! 
  
 **Holmes:**
 Let me take over the wheel, Mr. Meunière. In the meantime, would you be so kind as to keep your eyes on the sensors?
@@ -3111,7 +3111,7 @@ Let me take over the wheel, Mr. Meunière. In the meantime, would you be so kind
 You got it!
  
 **B：P.A. System</b>
-Shadow Border, untether from reality.Void Space Dive, Zero Sail: unfurl!</span>
+Shadow Border, untether from reality.Void Space Dive, Zero Sail: unfurl! 
  
 **Mash:**
 ...!
@@ -3137,10 +3137,10 @@ It feels like something dragged us up...
 Wh-what's going on? This isn't Void Space!Did we fail to dive? Are we still stuck in reality!?
  
 **B：P.A. System</b>
-...They got us good. Whoever's out there sensed our spells going off and caught us in a split second.</span>
+...They got us good. Whoever's out there sensed our spells going off and caught us in a split second. 
  
 **B：P.A. System</b>
-They're physically holding us back. I'm impressed. Just their physical strength exceeds the Border's maximum output!</span>
+They're physically holding us back. I'm impressed. Just their physical strength exceeds the Border's maximum output! 
  
 **Mash:**
 Did you say...physical strength...?
@@ -3213,16 +3213,16 @@ That is truly incredible strength. Perhaps they're a Berserker? Whatever their c
 I expect they are a rather combat-oriented Servant, probably one focusing on being on the front lines, but&ndash;
  
 **B：P.A. System</b>
-Attention, please. I'm afraid that crash completely shut down all our navigation systems.</span>
+Attention, please. I'm afraid that crash completely shut down all our navigation systems. 
  
 **B：P.A. System</b>
-I can try to bypass the damaged systems, but even that's going to take some time. And then there's all the damage to the suspension.</span>
+I can try to bypass the damaged systems, but even that's going to take some time. And then there's all the damage to the suspension. 
  
 **B：P.A. System</b>
-Luckily we didn't end up completely upside down, but we're still not going anywhere anytime soon.</span>
+Luckily we didn't end up completely upside down, but we're still not going anywhere anytime soon. 
  
 **B：P.A. System</b>
-I'm sorry, everyone.We can't dive or run away on land anymore.</span>
+I'm sorry, everyone.We can't dive or run away on land anymore. 
  
 **Holmes:**
 You have nothing to apologize for, Da Vinci.The fault lies with our uninvited guest, not you.
@@ -3249,10 +3249,10 @@ The magical energy signature that I'm pretty sure is a Servant has collided with
 What kind of barbarian are they? It sounds like they're trying to cut their way through our defenses!
  
 **B：P.A. System</b>
-Do they realize how much time I spent reinforcing this armor...? There's no way anything should be able to break through it this easily...</span>
+Do they realize how much time I spent reinforcing this armor...? There's no way anything should be able to break through it this easily... 
  
 **B：P.A. System</b>
-I&ndash;I mean, the old me spent a ton of time making sure of that! What kind of weapon or Noble Phantasm do they have that could possibly do this!?</span>
+I&ndash;I mean, the old me spent a ton of time making sure of that! What kind of weapon or Noble Phantasm do they have that could possibly do this!? 
  
 **Mash:**
 ...Senpai.
@@ -3278,10 +3278,10 @@ H-hold it, you two...! Don't you think you should wait a bit and see what's happ
 We don't have time to wait and see anymore!I'm sorry, but it's all up to you two now!
  
 **B：P.A. System</b>
-Holmes, you go with them, too! But watch out. That Servant's magical energy is right up there with Ivan's!</span>
+Holmes, you go with them, too! But watch out. That Servant's magical energy is right up there with Ivan's! 
  
 **B：P.A. System</b>
-Make sure you don't hold anything back,or you might not be coming back at all. Got it?</span>
+Make sure you don't hold anything back,or you might not be coming back at all. Got it? 
  
 **Holmes:**
 ...I am well aware.I saw their Spirit Origin for myself earlier.

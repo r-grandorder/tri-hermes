@@ -932,16 +932,16 @@ Good! Then as this Rayshift's supervisor, I hereby declare that this emergency d
 Master... Please be careful over there!
  
 **P.A. System**
-Starting Unsummon Program.Commencing Spiritron Conversion.</span>
+Starting Unsummon Program.Commencing Spiritron Conversion. 
  
 **P.A. System**
-Rayshift begins in 3...2...1...</span>
+Rayshift begins in 3...2...1... 
  
 **P.A. System**
-All systems are go.</span>
+All systems are go. 
  
 **P.A. System**
-Proving Urgent Order.Initiating Counter Order operations.</span>
+Proving Urgent Order.Initiating Counter Order operations. 
  
 **--ARROW--:**
  

@@ -1308,10 +1308,10 @@ All hands, take your seats! You are NOT to get incapacitated under any circumsta
 As long as you're strapped in, you won't suffer any serious injuries! Trust me, I speak from experience!
  
 **P.A. System**
-Activating Paper Moon. Initiating planet navigational chart plus/minus convergence. Commencing Shadow Border's docking sequence into reality boundary.</span>
+Activating Paper Moon. Initiating planet navigational chart plus/minus convergence. Commencing Shadow Border's docking sequence into reality boundary. 
  
 **P.A. System**
-Firing existence verification tether into Reality Space. Oprichniki anchor point confirmed.</span>
+Firing existence verification tether into Reality Space. Oprichniki anchor point confirmed. 
  
 ---
 
@@ -1328,18 +1328,18 @@ Nobody knows. Nobody can even guess.So we must be prepared for anything.
 The only way we will learn what awaits us when we emerge...is to see it for ourselves.
  
 **P.A. System**
-Emerging from Void Space.Thirty seconds until arrival in Reality Space.</span>
+Emerging from Void Space.Thirty seconds until arrival in Reality Space. 
  
 **P.A. System**
-Zero Sail, complete.Emerging into Reality Space.</span>
+Zero Sail, complete.Emerging into Reality Space. 
  
 **--ARROW--:**
  
 **P.A. System**
-Reality Space anchor attached.Reality verification complete.</span>
+Reality Space anchor attached.Reality verification complete. 
  
 **P.A. System**
-Establishing Shadow Border's existence.Zero Sail return successful.</span>
+Establishing Shadow Border's existence.Zero Sail return successful. 
  
 **Goredolf:**
 I... I say...!I'm alive... I'm alive!
@@ -1348,10 +1348,10 @@ I... I say...!I'm alive... I'm alive!
 My limbs have never felt so solid! It's like I've gained several kilograms since we were in Void Space!
  
 **P.A. System**
-Attention. An armor plate came loose during reentry.Further Zero Sails currently impossible.</span>
+Attention. An armor plate came loose during reentry.Further Zero Sails currently impossible. 
  
 **P.A. System**
-Please replenish materials and food supplies and perform regular repairs and tune-ups on the Shadow Border to ensure future safe travels.</span>
+Please replenish materials and food supplies and perform regular repairs and tune-ups on the Shadow Border to ensure future safe travels. 
  
 **Holmes:**
 I see. It's a wonder the Shadow Border held up this well, given the less than ideal circumstances in which we&ndash;Hm?

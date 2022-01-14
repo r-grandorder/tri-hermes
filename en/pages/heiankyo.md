@@ -714,7 +714,7 @@ In the end, you’re just a single evil spirit that fled to the Sai-ji,trembling
 &mdash;Yeah, I don’t give a damn.
 
 **Young Warrior:**
-<span style=font-size:25px>That’s right!</span>
+That’s right! 
  
 **Narration:**
 Bisected in one swordstroke!Peerless, herculean strength!
@@ -890,7 +890,7 @@ You knew I was coming,and still deliberately shamed me, you damn bastard!
 <u>If you recognized me from the beginning,</u>then that means...
  
 **Ibaraki Douji:**
-<span style=font-size:25px>I'll kill you!</span>
+I'll kill you! 
  
 **Ibaraki Douji:**
 Kill, kill, kill you!I hate, hate, hate you so much tonight&mdash;
@@ -986,7 +986,7 @@ Foremost, neither your claws nor your flames have touched me.I was already here.
 While you closed your eyelids.
  
 **Ibaraki Douji:**
-<span style=font-size:25px>!!</span>
+!! 
  
 **Ibaraki Douji:**
 Oo...Oooooo...
@@ -995,7 +995,7 @@ Oo...Oooooo...
 Ooo… Ooooooh… ooOOOOOOO!!How dare you taunt me with your human body!! 
  
 **Ibaraki Douji:**
-<span style=font-size:25px>Damn you Tsunaaaa!</span>
+Damn you Tsunaaaa! 
  
 **Man with a Long Sword:**
 &mdash;Ibaraki.
@@ -3454,10 +3454,10 @@ We’re looking for our prey.Our Casters.
 イヤだっつってんだろうが！
  
 **Watanabe no Tsuna:**
-<span style=font-size:25px>ならば斬る！</span>
+ならば斬る！ 
  
 **Sakata Kintoki:**
-<span style=font-size:25px>やってみやがれ<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>野郎！</span>
+やってみやがれ<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>野郎！ 
  
 **--BATTLE--:**
  
@@ -8026,7 +8026,7 @@ We’re looking for our prey.Our Casters.
 天覧聖杯戦争なる大仕掛け！京の平安一千年を招くモノであるとは、<ruby><rb>是</rb><rt>これ</rt></ruby>、偽り！
  
 **Sakata Kintoki:**
-<span style=font-size:25px>偽りにて<ruby><rb>候</rb><rt>そうろう</rt></ruby>！</span>
+偽りにて<ruby><rb>候</rb><rt>そうろう</rt></ruby>！ 
  
 **Ashiya Dōman:**
 ！？
@@ -9710,7 +9710,7 @@ We’re looking for our prey.Our Casters.
 ！
  
 **Sakata Kintoki:**
-<span style=font-size:25px>うるせえ！</span>
+うるせえ！ 
  
 ---
 
@@ -10260,7 +10260,7 @@ We’re looking for our prey.Our Casters.
 となりゃ今度は本物か、<ruby><rb>正真正銘</rb><rt>しょうしんしょうめい</rt></ruby>の鋼の怪！
  
 **バベッジ:**
-<span style=font-size:25px>杖である！</span>
+杖である！ 
  
 ---
 
@@ -10310,7 +10310,7 @@ We’re looking for our prey.Our Casters.
 ンな不確かな<ruby><rb>聖杯</rb><rt>モ　ノ</rt></ruby>に命を懸けるかよ！鋼の旦那よ！
  
 **バベッジ:**
-<span style=font-size:25px><ruby><rb>問答無用</rb><rt>も　ん　ど　う　む　よ　う</rt></ruby>と云った！</span>
+<ruby><rb>問答無用</rb><rt>も　ん　ど　う　む　よ　う</rt></ruby>と云った！ 
  
 **バベッジ:**
 人とは儚きモノ。命とは脆きモノ。
@@ -10319,10 +10319,10 @@ We’re looking for our prey.Our Casters.
 故に、僅かな可能性であっても請わずにおれぬ。己が願いのために、すべてを燃やさざるを得ぬ。
  
 **バベッジ:**
-<span style=font-size:25px>分からぬならば<ruby><rb>退</rb><rt>ひ</rt></ruby>け！</span>
+分からぬならば<ruby><rb>退</rb><rt>ひ</rt></ruby>け！ 
  
 **Sakata Kintoki:**
-<span style=font-size:25px>いやだね！</span>
+いやだね！ 
  
 ---
 
@@ -10354,7 +10354,7 @@ We’re looking for our prey.Our Casters.
 だがオレっち相手に相撲勝負たぁ、面白え！いくぜえええええ！
  
 **Sakata Kintoki:**
-<span style=font-size:25px><ruby><rb>八卦</rb><rt>はっけ</rt></ruby>&mdash;よォオオい！</span>
+<ruby><rb>八卦</rb><rt>はっけ</rt></ruby>&mdash;よォオオい！ 
  
 **バベッジ:**
 …………！！
@@ -10930,7 +10930,7 @@ We’re looking for our prey.Our Casters.
 我が夢想！　我が妄念！絶ゆることなき悔恨こそ我が宝具であると知れ！
  
 **バベッジ:**
-<span style=font-size:25px>我が夢の跡に圧し潰されよ！</span>
+我が夢の跡に圧し潰されよ！ 
  
 **バベッジ:**
 はははははは、罠に掛かったは貴様である！ツナ・ワタナベ！
@@ -11126,7 +11126,7 @@ We’re looking for our prey.Our Casters.
 <u>いいんだな</u>！
  
 **バベッジ:**
-<span style=font-size:25px>無論！</span>
+無論！ 
  
 **Sakata Kintoki:**
 ……！
@@ -11816,7 +11816,7 @@ We’re looking for our prey.Our Casters.
 不甲斐ないぞ京人どもォ！太刀の百本集めながら、<ruby><rb>吾</rb><rt>われ</rt></ruby>らの一匹に届かぬさま！
  
 **Ibaraki Douji:**
-<span style=font-size:25px>無様よなァ！</span>
+無様よなァ！ 
  
 **検非違使たち:**
 退け、退け！
@@ -12604,7 +12604,7 @@ We’re looking for our prey.Our Casters.
 誘ってはるやろ。
  
 **Sakata Kintoki:**
-<span style=font-size:25px>誘ってねえ！</span>
+誘ってねえ！ 
  
 **Sakata Kintoki:**
 ごちゃごちゃ抜かしてンじゃねえ！<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>に直りやがれ、テメェら皆ふんじばって&mdash;
@@ -14430,7 +14430,7 @@ We’re looking for our prey.Our Casters.
 なあ&mdash;
  
 **Sakata Kintoki:**
-<span style=font-size:25px>酒呑！</span>
+酒呑！ 
  
 **酒呑童子の声:**
 &mdash;ありゃ、もう先回りされてもうたん？
@@ -15005,7 +15005,7 @@ We’re looking for our prey.Our Casters.
 
  
 **Sakata Kintoki:**
-<span style=font-size:25px>オイラは<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>野郎だ！</span>
+オイラは<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>野郎だ！ 
  
 **Shuten Dōji:**
 &mdash;ふ。
@@ -15107,7 +15107,7 @@ We’re looking for our prey.Our Casters.
 小僧&mdash;つれないわぁ。
  
 **Sakata Kintoki:**
-<span style=font-size:25px>うるせえ！</span>
+うるせえ！ 
  
 **Sakata Kintoki:**
 ……ッ！
@@ -15542,7 +15542,7 @@ We’re looking for our prey.Our Casters.
 頼光はん、そないに退屈な女やったっけ&mdash;
  
 **Sakata Kintoki:**
-<span style=font-size:25px>退屈結構だ<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>！</span>
+退屈結構だ<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>！ 
  
 **Shuten Dōji:**
 …………へえ。
@@ -15705,7 +15705,7 @@ We’re looking for our prey.Our Casters.
 キャスターはん！
  
 **Sakata Kintoki:**
-<span style=font-size:25px>遅ぇ！</span>
+遅ぇ！ 
  
 **Shuten Dōji:**
 …………やるやないの、小僧。
@@ -17229,7 +17229,7 @@ We’re looking for our prey.Our Casters.
 怪童丸とその供の言、まことであったか&mdash;
  
 **Ashiya Dōman:**
-<span style=font-size:25px>然り！</span>
+然り！ 
  
 **Ashiya Dōman:**
 いやはやこの蘆屋道満、ああこの場合は無論、この時代に正しく生くる哀れなる法師陰陽師ですが、
@@ -17277,7 +17277,7 @@ We’re looking for our prey.Our Casters.
 ン&mdash;
  
 **Ashiya Dōman:**
-<span style=font-size:25px>無為、無謀、無駄、無様ァ！</span>
+無為、無謀、無駄、無様ァ！ 
  
 **Ashiya Dōman:**
 <ruby><rb>六根清浄</rb><rt>ろっこんしょうじょう</rt></ruby>悪業罰示&mdash;
@@ -17397,7 +17397,7 @@ We’re looking for our prey.Our Casters.
 はは、はは、ははははははははははははははは。ははははハハハハハハハハハハハハハハハハハ。
  
 **黄幡神・蘆屋道満:**
-<span style=font-size:25px>ハハハハハハハハハァ！</span>
+ハハハハハハハハハァ！ 
  
 **Narration:**
 &mdash;空が、変わる。
@@ -17547,10 +17547,10 @@ We’re looking for our prey.Our Casters.
 …………<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の八神！　さまよえる魂！
  
 **黄幡神・蘆屋道満:**
-<span style=font-size:25px>八将神たちよ！</span>
+八将神たちよ！ 
  
 **黄幡神・蘆屋道満:**
-<span style=font-size:25px><ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に！　集え！</span>
+<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に！　集え！ 
  
 ## Section 9: Saisetsu Hyōbi (Volume One) 
  
@@ -18367,7 +18367,7 @@ We’re looking for our prey.Our Casters.
 敵性反応、完全に消滅……！<ruby><rb>是</rb><rt>これ</rt></ruby>は……！
  
 **Sakata Kintoki:**
-<span style=font-size:25px>ぜえりゃ！！</span>
+ぜえりゃ！！ 
  
 **Minamoto no Raikō:**
 ふっ！
@@ -20584,7 +20584,7 @@ We’re looking for our prey.Our Casters.
 うん、では、心地よく&mdash;
  
 **Ibaraki Douji:**
-<span style=font-size:25px>断る！</span>
+断る！ 
  
 **Ibaraki Douji:**
 ははははははははははははは、愚かなり人の子！のこのこと鬼の縄張りに踏み入って、<ruby><rb>汝</rb><rt>なれ</rt></ruby>ら！
@@ -21255,7 +21255,7 @@ We’re looking for our prey.Our Casters.
 アンタは、何故&mdash;
  
 **歳刑神・平景清:**
-<span style=font-size:25px>黙れ！！</span>
+黙れ！！ 
  
 **歳刑神・平景清:**
 儂は<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>である。<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の真名なぞに何の意味があろう！
@@ -21439,7 +21439,7 @@ We’re looking for our prey.Our Casters.
 &mdash;この武蔵坊、千本目の太刀は貴様に決めたわ！&mdash;<ruby><rb>童</rb><rt>わっぱ</rt></ruby>。いざ太刀を抜けい！
  
 **歳刑神・平景清:**
-<span style=font-size:25px>止めろ弁慶っ！</span>
+止めろ弁慶っ！ 
  
 **Danzo:**
 魔力急上昇からの霊基再臨を確認！皆さま、ご注意をば！
@@ -21487,10 +21487,10 @@ We’re looking for our prey.Our Casters.
 おのれ源氏ィィィ！！郎等ごときが弁慶を<ruby><rb>騙</rb><rt>かた</rt></ruby>るとは決して許すまじ！
  
 **歳刑神・平景清:**
-<span style=font-size:25px>怨の一文字その身で喰らえッ！</span>
+怨の一文字その身で喰らえッ！ 
  
 **Sakata Kintoki:**
-<span style=font-size:25px>おうとも！</span>
+おうとも！ 
  
 **Sakata Kintoki:**
 かかって来やがれ九郎<ruby><rb>判官</rb><rt>ほうがん</rt></ruby>！オレっちが話をしてえのはなんちゃら<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>じゃねえ！
@@ -21851,10 +21851,10 @@ We’re looking for our prey.Our Casters.
 （僅か、ほんの僅かながら金時殿が<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>を圧した！　好機と心得まする、マスター！）
  
 **Sakata Kintoki:**
-<span style=font-size:25px>押し切る！</span>
+押し切る！ 
  
 **Sakata Kintoki:**
-<span style=font-size:25px>大将頼むッ！</span>
+大将頼むッ！ 
  
 ---
 
@@ -21882,7 +21882,7 @@ We’re looking for our prey.Our Casters.
 
  
 **Sakata Kintoki:**
-<span style=font-size:25px>必殺！</span>
+必殺！ 
  
 **歳刑神・平景清:**
 宝具解放。『<ruby><rb>諸行無常</rb><rt>しょぎょうむじょう</rt></ruby>・<ruby><rb>盛者必衰</rb><rt>じょうしゃひっすい</rt></ruby>』&mdash;！
@@ -22846,7 +22846,7 @@ We’re looking for our prey.Our Casters.
 ならば。
  
 **伊吹童子:**
-<span style=font-size:25px>ひれふせ。</span>
+ひれふせ。 
  
 **Minamoto no Raikō:**
 ！
@@ -24161,7 +24161,7 @@ We’re looking for our prey.Our Casters.
 ああ、そうさ。一度負けた。大負けだ。
  
 **Sakata Kintoki:**
-<span style=font-size:25px>故にこそだ！</span>
+故にこそだ！ 
  
 **Sakata Kintoki:**
 源氏武者に二度の負けはねえンだ。
@@ -24439,7 +24439,7 @@ We’re looking for our prey.Our Casters.
 数値測定不能！伊吹童子と同様の域、或いはそれ以上の域に&mdash;
  
 **黄幡神・蘆屋道満:**
-<span style=font-size:25px>ははははははははははははァ！</span>
+ははははははははははははァ！ 
  
 **黄幡神・蘆屋道満:**
 見るがいい！見るがいい！
@@ -24679,7 +24679,7 @@ We’re looking for our prey.Our Casters.
 ンンンンンンンンンンンン！ン、ンン、ンンンンンンンンンンン～～～～～～！
  
 **黄幡神・蘆屋道満:**
-<span style=font-size:25px>まさに！　正論！</span>
+まさに！　正論！ 
  
 **黄幡神・蘆屋道満:**
 人類愛なき者に人類悪たる資格なし！正論正論、ンンンははははははは儂としたことが何たる！
@@ -24750,7 +24750,7 @@ We’re looking for our prey.Our Casters.
 成る程、伊吹童子だかの神サンまで喰ったなら、そう云うコトもできるのかもなァ&mdash;
  
 **Sakata Kintoki:**
-<span style=font-size:25px>させるか<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>！</span>
+させるか<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>！ 
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 ！？
@@ -24939,7 +24939,7 @@ We’re looking for our prey.Our Casters.
 アンタがいるからオレは想い、戦う！オレは！　<ruby><rb>邪悪</rb><rt>アンタ</rt></ruby>の<ruby><rb>不倶戴天</rb><rt>ふ ぐ た い て ん</rt></ruby>……&mdash;
  
 **Sakata Kintoki:**
-<span style=font-size:25px>正義の味方だ大<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>野郎！</span>
+正義の味方だ大<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>野郎！ 
  
 **Narration:**
 &mdash;大雷電！
@@ -25095,7 +25095,7 @@ We’re looking for our prey.Our Casters.
 『きんとき』
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<span style=font-size:25px>ギャアアアアアアアアアア！！</span>
+ギャアアアアアアアアアア！！ 
  
 **Narration:**
 <ruby><rb>剣</rb><rt>つるぎ</rt></ruby>が&mdash;
@@ -25186,7 +25186,7 @@ We’re looking for our prey.Our Casters.
 無論、そのつもりだぜ！&mdash;羅刹王！　アルターエゴ・リンボ！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<span style=font-size:25px><ruby><rb>髑髏烏帽子</rb><rt>ど　　く　　ろ　　え　　ぼ　　し</rt></ruby>蘆屋道満である！</span>
+<ruby><rb>髑髏烏帽子</rb><rt>ど　　く　　ろ　　え　　ぼ　　し</rt></ruby>蘆屋道満である！ 
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 <ruby><rb>是</rb><rt>これ</rt></ruby>ぞ、敗北せしすべての魂喰らう辺獄の血戦地！&mdash;<ruby><rb>昏</rb><rt>くら</rt></ruby>き太陽戴きし、<ruby><rb>其</rb><rt>そ</rt></ruby>の名を天覧死合舞台！
@@ -25236,7 +25236,7 @@ We’re looking for our prey.Our Casters.
 おの、れ……おのれ、おのれェ……
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<span style=font-size:25px>晴明ィ！</span>
+晴明ィ！ 
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 晴明！　晴明！　晴明ィイイイイイイイイイイイ！！何処だ何処で拙僧を<ruby><rb>嗤</rb><rt>わら</rt></ruby>っている、貴様、貴様がァアアア！
@@ -25295,13 +25295,13 @@ We’re looking for our prey.Our Casters.
 
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<span style=font-size:25px>待てええええええええええ！</span>
+待てええええええええええ！ 
  
 **真紅の大武者:**
-<span style=font-size:25px><ruby><rb>黄金無間大両断</rb><rt>ゴ　ー　ル　デ　ン　だ　い　り　ょ　う　だ　ん</rt></ruby>！</span>
+<ruby><rb>黄金無間大両断</rb><rt>ゴ　ー　ル　デ　ン　だ　い　り　ょ　う　だ　ん</rt></ruby>！ 
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<span style=font-size:25px>ッッッギャアアアアアアアアアアアア！</span>
+ッッッギャアアアアアアアアアアアア！ 
  
 **真紅の大武者:**
 おおおおおおおおおりゃああああああああああああッ！
@@ -25313,7 +25313,7 @@ We’re looking for our prey.Our Casters.
 テメェは！<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>から！
  
 **真紅の大武者:**
-<span style=font-size:25px>消えッちまえ！！</span>
+消えッちまえ！！ 
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 お、の、れ！

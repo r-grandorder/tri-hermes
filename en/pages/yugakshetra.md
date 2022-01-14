@@ -663,22 +663,22 @@ Make sure you all give it everything you have,and I look forward to your safe re
 ## Section 1: Where to Set Out 
  
 **P.A. System**
-Activating Paper Moon. Initiating planet navigational chart plus/minus convergence. Commencing Shadow Border's docking sequence into reality boundary.</span>
+Activating Paper Moon. Initiating planet navigational chart plus/minus convergence. Commencing Shadow Border's docking sequence into reality boundary. 
  
 **P.A. System**
-Proper Human History Resemblance: C Lostbelt Depth: A</span>
+Proper Human History Resemblance: C Lostbelt Depth: A 
  
 **P.A. System**
-Firing existence verification tether into Reality Space. Anchor point at Heroic Spirit ■■'s virtual nautical chart, confirmed.</span>
+Firing existence verification tether into Reality Space. Anchor point at Heroic Spirit ■■'s virtual nautical chart, confirmed. 
  
 **P.A. System**
-Zero Sail, complete. Emerging into Reality Space.</span>
+Zero Sail, complete. Emerging into Reality Space. 
  
 **P.A. System**
-Reality Space anchor secured.Reality verification complete.</span>
+Reality Space anchor secured.Reality verification complete. 
  
 **P.A. System**
-Establishing Shadow Border's existence within Lostbelt. Zero Sail return successful.</span>
+Establishing Shadow Border's existence within Lostbelt. Zero Sail return successful. 
  
 **Holmes:**
 Good, we've made it back to Reality Space.

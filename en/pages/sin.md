@@ -2632,10 +2632,10 @@ Then, who made it? And more importantly...is it just me, or are we both looking 
 I also can't help but notice that I'm feeling rather cold and dizzy all of a sudden...
  
 **P.A. System**
-Warning. Warning.Unauthorized life-form detected.</span>
+Warning. Warning.Unauthorized life-form detected. 
  
 **P.A. System**
-Civilian personnel, please remain in your rooms. Security team, please suit up and come to the Command Room.</span>
+Civilian personnel, please remain in your rooms. Security team, please suit up and come to the Command Room. 
  
 **H：Goredolf:**
 An unauthorized life-form!?Th-then, we've got an intruder here!?
@@ -3428,16 +3428,16 @@ Thank you, Nezha! It's great to have your help!
 ...All right, we're now only four hundred meters away from the storm wall! Do it, Da Vinci!
  
 **P.A. System**
-Expanding Logic Formula on Shadow Border's external armor. Removing existence verification for Reality Space.</span>
+Expanding Logic Formula on Shadow Border's external armor. Removing existence verification for Reality Space. 
  
 **P.A. System**
-Future prediction: hypothetically prove mirror world plane in twenty seconds. Relaxing space-time friction decompression for 0.4 seconds.</span>
+Future prediction: hypothetically prove mirror world plane in twenty seconds. Relaxing space-time friction decompression for 0.4 seconds. 
  
 **P.A. System**
-All systems are green. Void Space sea observations remain locked at previous results.</span>
+All systems are green. Void Space sea observations remain locked at previous results. 
  
 **P.A. System**
-Shadow Border, untether from reality.Void Space Dive, Zero Sail: unfurl once again!</span>
+Shadow Border, untether from reality.Void Space Dive, Zero Sail: unfurl once again! 
 
 ![SIN](https://i.imgur.com/9czSNa3.png)
 
@@ -3535,13 +3535,13 @@ Ahh, you don't know how happy I am to hear that. In all my thirty-three years of
 **--SECTION BREAK--:**
  
 **P.A. System**
-Reality Space anchor attached.Reality verification complete.</span>
+Reality Space anchor attached.Reality verification complete. 
  
 **P.A. System**
-Proper Human History Resemblance: A Lostbelt Depth: E</span>
+Proper Human History Resemblance: A Lostbelt Depth: E 
  
 **P.A. System**
-Establishing Shadow Border's existence within Lostbelt.Zero Sail return successful.</span>
+Establishing Shadow Border's existence within Lostbelt.Zero Sail return successful. 
  
 **Mash:**
 I'm glad we had another emergence that went so smoothly. How are you feeling, Senpai?
