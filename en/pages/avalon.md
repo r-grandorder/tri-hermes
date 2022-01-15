@@ -26944,7 +26944,7 @@ Note: Female Player
 **Artoria:**
 Muramasa, make a watchtower or something! 
  
-**Artoria:**...Artoria. Come here for a sec.
+**Artoria:**
 Fujimaru and me could climb it together! 
 
 ---
