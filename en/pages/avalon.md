@@ -60167,6 +60167,8 @@ After all, I'm going to become an extremely wicked queen and invade pan-human hi
 Me and Fujimaru will meet again. As rivals! 
 
 ---
+
+Note: Branch End
  
 **Grimm the Wise:**
 You get what you want no matter what, huh? How very like you. 
