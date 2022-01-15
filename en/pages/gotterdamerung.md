@@ -6,10 +6,10 @@
 
 ## intro. 2-1
  
-**? ? ? :**
+**???:**
 “...I repeat: I am a mage from Proper Human History. Please come find me at the following coordinates...”
  
-**? ? ? :**
+**???:**
 “This is Baldanders, the Wandering Sea. ”
  
 **Goredolf:**
@@ -1269,7 +1269,7 @@ So, then...
 **Narration:**
 ...what did I hate about Sundays...? 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **P. A. System**
 Report from the computer room. Report from the computer room. 
@@ -1701,7 +1701,7 @@ We...We...We...
 Director Goredolf...? 
  
 **Goredolf:**
-We're under attack! ! ! 
+We're under attack!!! 
  
 **Meunière:**
 Oh for...! Who was it that was saying the old man had gotten used to this stuff? 
@@ -1924,7 +1924,7 @@ Emerging from Void Space. Thirty seconds until arrival at Reality Space.
 **P. A. System**
 Zero Sail, complete. Emerging into Reality Space. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **P. A. System**
 The Ortinax exoskeleton is operating within expected parameters. Internal pressure regulation, combustion, and weaponry are all good to go. 
@@ -2265,7 +2265,7 @@ I am not usually one to skip right to the conclusion, but yes, I am quite certai
 Hm? What is it? Do calm yourself, Fou. 
  
 **Fou:**
-Fou fou, kyuuu! ! ! 
+Fou fou, kyuuu!!! 
  
 **Mash:**
 Fou? What is it? Is something wro&ndash;
@@ -2283,7 +2283,7 @@ Master, get behind me!
 We've just discovered an enormous...humanoid creature...! 
  
 **Enormous Creature:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)! ! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)!!! 
  
 **Holmes:**
 An enormous humanoid creature, you say!? I see. That is...troubling. Most troubling indeed. 
@@ -2295,7 +2295,7 @@ He appears to be about five meters tall! His arms are also very long, and he's w
 I think he's speaking a language of some kind, but...
  
 **Enormous Creature:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)! ! ! 
+![2-light](https://i.imgur.com/7VYgcEB.png)!!! 
  
 **Mash:**
 ...I can't make out what he's saying! It sounds more like an animal howling than any language I know of...
@@ -2313,7 +2313,7 @@ Please listen to me. We are not your enemy. We don't mean you any harm.
 We...are&ndash;
  
 **Mash:**
-...! ! ! 
+...!!! 
  
 ---
 
@@ -2352,7 +2352,7 @@ I'll back you up!
 **Mash:**
 ...Understood. Moving to intercept the hostile! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...(Huff, huff)......! 
@@ -2523,7 +2523,7 @@ Time to fight, then!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 That should wrap things up for now. 
@@ -3240,7 +3240,7 @@ You're damn right it is! Magical energy signal incoming! I can tell this Heroic 
 One hundred meters...Fifty meters...Dammit, now they're right on top of us! 
  
 **Fou:**
-Fooou, kyuuu! ! ! 
+Fooou, kyuuu!!! 
  
 **Meunière:**
 The magical energy signature that I'm pretty sure is a Servant has collided with our exterior! It's melting our external armor now! 
@@ -3487,12 +3487,12 @@ I'm afraid this just isn't your lucky day, girl. Or yours, kid. Now that our pat
 ...I'm going to kill you,and take your prized treasure with me. 
  
 **Mash:**
-Another short sword...! ! 
+Another short sword...!! 
  
 **Holmes:**
 Here he comes! I'll back you up as well! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Thank you, Holmes! That beam was a big help! 
@@ -3892,7 +3892,7 @@ After all...he's...
 **Holmes:**
 ...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 I've caught up to the target! 
@@ -4059,7 +4059,7 @@ This time, we've got Holmes cheering us on!
 **Mash:**
 ...Sigurd! If anyone's going to back down here, it will be you! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Khh...! 
@@ -4092,7 +4092,7 @@ Using a Command Spell!
 Nn...
  
 **Mash:**
-Haaaaaa! ! ! 
+Haaaaaa!!! 
  
 **Mash:**
 (There! )
@@ -4172,7 +4172,7 @@ I was pretty surprised to hear you put all your magical energy into that attack.
 No, that's not right. You're not hunters or heroes. You're probably not warriors, either. 
  
 **Mash:**
-Senpai...! ! ! 
+Senpai...!!! 
  
 **Mash:**
 Khh...Come on...Move, Ortinax...! Please...
@@ -4267,7 +4267,7 @@ Mash...!
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sigurd:**
 I'm back, Ophelia. 
@@ -5318,7 +5318,7 @@ Very well then, we begin tomorrow morning at zero nine hundred!
 **Goredolf:**
 Now, if there are no further questions,this briefing is concluded! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 It doesn't look like there'll be any blizzard. Looks like today's forecast for the southern Sweden region of this Lostbelt is clear skies. 
@@ -5682,7 +5682,7 @@ See you later, Da Vinci!
 **Da Vinci:**
 ...Bye! Have a good trip! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 ...Snow, ice, and fire. 
@@ -5900,7 +5900,7 @@ Kyau, kyuuu!
 Wh-what is it, Fou? Did I do something to&ndash;
  
 **Mash:**
-Ah! ! ! 
+Ah!!! 
  
 **Mash:**
 I'm so sorry! I should have noticed sooner! There are large magical energy signals nearby...They look to be giants! 
@@ -5931,7 +5931,7 @@ Make sure your newly tuned-up Ortinax is ready to go!
 **F：Mash:**
 Understood. Ready to begin battle once the giants are in range! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...The battle is over. There are no other magical energy signals within thirty meters of our position. 
@@ -6284,7 +6284,7 @@ That is not an option!
 H-huh...? 
  
 **Girl:**
-Eeyaaaaaaaaah! ! ! You idiot! Now they're going to squish all of us...! 
+Eeyaaaaaaaaah!!! You idiot! Now they're going to squish all of us...! 
  
 **Mash:**
 No they won't! We won't let them! Ortinax is holding steady at maximum output. I can do this. Master! 
@@ -6301,7 +6301,7 @@ Right!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **A：Mash:**
 ...The battle is over. I don't detect any other magical energy signals within thirty meters. 
@@ -6583,7 +6583,7 @@ No...there's no way you would have just stood by, Senpai. That's just not who yo
 **Mash:**
 You would always be the first to try and rescue her. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fou:**
 Fou fou, fooou! 
@@ -6846,7 +6846,7 @@ Even if you don't have any weapons of your own,{(M) Mr. Black Hair /(F) Ms. Red 
 **Gerda:**
 ...you must be an envoy of the gods, too! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Gerda:**
 Tree of Emptiness? The sun? 
@@ -7133,7 +7133,7 @@ Huh? You brought skis with you!? Where are they?
 ...Oops. I'm so sorr&ndash;
  
 **Fou:**
-Fou faaau! Kyau! ! ! 
+Fou faaau! Kyau!!! 
  
 **Mash:**
 It's okay, Gerda! We'll just, um,start the operation sooner than we expected! 
@@ -7161,7 +7161,7 @@ Understood, Master! Switching Ortinax from stealth mode to combat mode!
 **Mash:**
 ...Moving to intercept the enemy now! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The first wave is down! Auto-tuning Ortinax for consecutive battles. Releasing exhaust, now! 
@@ -7178,7 +7178,7 @@ Don't worry, Fou! I'm conserving energy for our escape!
 **Mash:**
 Resuming battle, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Second wave defeated. Da Vinci really is amazing. I can keep going, no problem! 
@@ -8455,7 +8455,7 @@ Is there something you want to say to me?
 **Ophelia:**
 I certainly hope you're not going to comment on my...womanhood, like Saber did...
  
-**? ? ? :**
+**???:**
 ...
  
 **Ophelia:**
@@ -8467,7 +8467,7 @@ What's your name? Am I ever going to get to hear what you sound like?
 **Ophelia:**
 I'm...Well, you already know my name. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fou:**
 Fou, fo, fooou? 
@@ -8493,7 +8493,7 @@ Well, nothing we can do now. Why don't we call it a day?
 ...Yes. You're right, Senpai. 
  
 **Da Vinci:**
-Hey! There you are! ! ! 
+Hey! There you are!!! 
  
 **Da Vinci:**
 Hi guys! Can you all see my astonishingly beautiful face? Hey, Fou! You're here too, huh! 
@@ -8992,7 +8992,7 @@ After all...
 **Narration:**
 ...nobody can ever live that long...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fou:**
 Fou, foooooou! 
@@ -9390,7 +9390,7 @@ I'm sorry, Gerda! But I'm not an envoy!
 **C：Mash:**
 That's why I can&ndash;why I WILL fight her on this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...! 
@@ -9505,7 +9505,7 @@ Thank you, Master. Multiple magical energy signals approaching quickly from abov
 **Mash:**
 Initiating combat while maintaining the Ortinax's output! Requesting orders and backup, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...(Huff, gasp...Huff, huff, phew)
@@ -9662,7 +9662,7 @@ You called? ...Yeah, you did. No need to say anything. I can tell.
 **Good Fellow:**
 Well! Here! I! Am! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Good Fellow:**
 How do you like my little cannon here!? C'est magnifique, non? Haha! Nothing better than a fine gentleman like myself fighting off a swarm of angels! 
@@ -9753,7 +9753,7 @@ What do you think we've been doing so far!?
 **Good Fellow:**
 Damn right! Now let's gooo! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Good Fellow:**
 Hraaah! 
@@ -10652,7 +10652,7 @@ Haha, good answer!
 **Napoleon:**
 All right, here they are! Let's get this battle underway, Private! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Scáthach-Skadi:**
 ...This Hinako person's Lostbelt is absolutely out of the question. 
@@ -10888,7 +10888,7 @@ No doubt they will encounter more of the giants that roam my world, and destroy 
 **Scáthach-Skadi:**
 I do wonder, though, if they will survive long enough for us to meet...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Napoleon:**
 ...All right! There goes the last one! 
@@ -11442,7 +11442,7 @@ Nah, those are just ice beasts that decided to make this place their home. Let's
 **Napoleon:**
 Artillerymen, forward! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Napoleon:**
 Phew. I swear, what the hell do those things eat to get so damn big!? 
@@ -11480,7 +11480,7 @@ Sure will. Maybe that Sigurd guy, too. We're not here for a rematch, but you mig
 **Napoleon:**
 All right, let's get a move on, Private! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 It's beautiful...
@@ -11646,7 +11646,7 @@ I have decided to grace the three of you with my love. I will, therefore, not ki
 ...I will not be telling you where the Tree of Emptiness lies. I suggest you do not pursue it further. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Scáthach-Skadi:**
 You mean to cut it down, do you not? That would be a sin even I could not forgive. 
@@ -11741,7 +11741,7 @@ Quasi-link to Muspel established. Commencing target neutralization. Engaging com
 **Scáthach-Skadi:**
 Dance, my human children. Dance. Show me how fiercely your passion burns! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The giant presumed to be a Muspel has been defeated...I believe it's most likely the strongest type of giant we've seen so far! 
@@ -11831,7 +11831,7 @@ Now, the one who filled you with such dread approaches...
 Sigurd the Dragon Slayer...! 
  
 **Fou:**
-Fou, fooou! ! ! 
+Fou, fooou!!! 
  
 ---
 
@@ -12232,7 +12232,7 @@ Time to undo some of the damage I just did to my reputation here!
 **Napoleon:**
 ...Go ahead and get ALL your hopes up! I won't let you down, no matter how big they are! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sigurd:**
 ...Well, well. You are moving better than the last time. 
@@ -12340,7 +12340,7 @@ Senpai! Napoleon! Be ready! She's about to use some sort of powerful spell!
 That armor of yours is impressive. Ich will es niemals glänzen sehen. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Mash:**
 Ah...! The load on the Ortinax just increased exponentially...! 
@@ -12416,7 +12416,7 @@ Okay, but don't push yourself too far!
 **Mash:**
 ...I won't! I'll make sure to keep just shy of reckless! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Napoleon:**
 ...Ooh la la, Lostbelt Servant! So this is the power of your demonic sword, huh! 
@@ -12568,7 +12568,7 @@ Damn straight. I'm no Heroic Spirit.
 ...I'm a Divine Spirit! 
  
 **Mash:**
-...! ! ! 
+...!!! 
  
 **Scáthach-Skadi:**
 My, my. What a strange thing to say. 
@@ -13084,7 +13084,7 @@ I'll trust him, too!
 **Napoleon:**
 All right! It might be kind of a stretch to call this a strategy, but it's what we're going with! 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 “Hmm, I see. ”
 
@@ -13096,7 +13096,7 @@ All right! It might be kind of a stretch to call this a strategy, but it's what 
 
 “But I also can't help but worry about you,so I'll lend a hand. ”
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Mash:**
 ......
@@ -13326,21 +13326,21 @@ Excuse me, Senpai, but I need to run a quick emergency medical diagnostic while&
 **Mash:**
 Senpai! 
  
-**--ARROW--:**
+**--ARROW--**
  
-**? ? ? :**
+**???:**
 . . Well, well. We don't see your kind tumbling down here every day. 
  
-**? ? ? :**
+**???:**
 You definitely didn't come down here of your own accord. You clearly fell down. 
  
-**? ? ? :**
+**???:**
 Haha, they must have taken advantage of a flaw in your temporary contract. 
  
-**? ? ? :**
+**???:**
 They were able to forge a connection with you with no problem, but you must have fallen down here when you weren't able to make it to the dream. 
  
-**? ? ? :**
+**???:**
 ...Heh. I suppose this, too, is fate. 
  
 ---
@@ -13348,10 +13348,10 @@ They were able to forge a connection with you with no problem, but you must have
 **Fujimaru 1:**
 You are...
  
-**? ? ? :**
+**???:**
 Don't push yourself too hard. That's it. You don't know me. 
  
-**? ? ? :**
+**???:**
 There you go. Just forget about it. Regrets and voids that gnaw away at people in their dreams are MY quarry. No one else's. 
  
 
@@ -13360,26 +13360,26 @@ There you go. Just forget about it. Regrets and voids that gnaw away at people i
 **Fujimaru 2:**
 I don't know where, but I've heard your voice before. 
  
-**? ? ? :**
+**???:**
 ...You're pretty sharp, aren't you? 
  
-**? ? ? :**
+**???:**
 But no, there's no way you know me. And no need for you to. 
  
-**? ? ? :**
+**???:**
 Regrets and voids that gnaw away at people in their dreams are MY quarry. No one else's. Factual records of me shouldn't exist. 
  
 
 ---
 
  
-**? ? ? :**
+**???:**
 ...Now then, if we're going to send you back the way you came...we'll have to start by burning these things away. 
  
-**? ? ? :**
+**???:**
 It'd help if you could form your sense of self soon,but that might be asking a bit too much. 
  
-**? ? ? :**
+**???:**
 Stand back. 
  
 ---
@@ -13396,12 +13396,12 @@ I'm still lost, but if it's dangerous, I'll fight too.
 ---
 
  
-**? ? ? :**
+**???:**
 ...Hmph. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
-**? ? ? :**
+**???:**
 ...Too easy. 
  
 ---
@@ -13418,56 +13418,56 @@ What is this place?
 ---
 
  
-**? ? ? :**
+**???:**
 A dream. Closer to a nightmare, really. 
  
-**? ? ? :**
+**???:**
 Once you wake up,you'll forget all about this place. 
  
-**? ? ? :**
+**???:**
 But don't drop your guard just because it's a dream. Your soul and sense of self fell down here. 
  
-**? ? ? :**
+**???:**
 If a beast sinks its fangs into you, it'll rip open your sense of self. If one tears you apart, your soul will just plain disappear. 
  
-**? ? ? :**
+**???:**
 So if you want to make it out of here alive, hurry. Crawl along the path that brought you here and talk to the one who invited you to this dream. 
  
-**? ? ? :**
+**???:**
 Go on, Fujimaru. Escape the darkness. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
-**? ? ? :**
+**???:**
 Well, well...
  
-**? ? ? :**
+**???:**
 You found the power to summon your Heroic Spirits even though you are stuck in a dream. 
  
-**? ? ? :**
+**???:**
 Good. That means your sense of self has grown stronger. 
  
-**? ? ? :**
+**???:**
 Remember yourself. Be very, very aware of who you are, and keep moving forward. 
  
-**? ? ? :**
+**???:**
 Come. Onward...
  
-**--ARROW--:**
+**--ARROW--**
  
 ......
 ...
  
-**? ? ? :**
+**???:**
 We're here. 
  
-**? ? ? :**
+**???:**
 Imagine opening your eyes. Sense those who lack form with your soul. 
  
-**? ? ? :**
+**???:**
 Rejoice. You have arrived. 
  
-**? ? ? :**
+**???:**
 Can you see it? 
  
 ---
@@ -13475,7 +13475,7 @@ Can you see it?
 **Fujimaru 1:**
 I can see something big. Isn't that...
  
-**? ? ? :**
+**???:**
 That's right. You already know what that thing is. 
  
 
@@ -13484,29 +13484,29 @@ That's right. You already know what that thing is.
 **Fujimaru 2:**
 Is that a giant...? 
  
-**? ? ? :**
+**???:**
 No. No, that...thing is not a giant. 
  
 
 ---
 
  
-**? ? ? :**
+**???:**
 It may possess gigantic power, but it was power that belonged to a human. It is a hero among heroes, one who tore through supernatural beings to lay claim to glory. 
  
-**? ? ? :**
+**???:**
 Whoever invited you to this dream would seem to be a truly fascinating individual. 
  
 **Gigantic Guard:**
  
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)! 
+![2-light](https://i.imgur.com/7VYgcEB.png)! 
  
 ---
 
 **Fujimaru 1:**
 Here he comes! 
  
-**? ? ? :**
+**???:**
 There is no path leading backwards. If you are to proceed, you must defeat it. 
  
 
@@ -13515,18 +13515,18 @@ There is no path leading backwards. If you are to proceed, you must defeat it.
 **Fujimaru 2:**
 If we can't go around him, we'll have to go through him! 
  
-**? ? ? :**
+**???:**
 Continue onward. Defeat it. See how far your power can take you...
  
 
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gigantic Guard:**
  
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)! 
+![2-light](https://i.imgur.com/7VYgcEB.png)! 
  
 **Sitonai:**
 “Good work, Berserker. ”
@@ -13547,7 +13547,7 @@ Continue onward. Defeat it. See how far your power can take you...
 “Please let {(M) him /(F) her} pass. ”
  
 **Gigantic Guard:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)...
+![1-light](https://i.imgur.com/XAqlQYL.png)...
  
 ---
 
@@ -13563,19 +13563,19 @@ That sounded like a girl...
 ---
 
  
-**? ? ? :**
+**???:**
 I see...
  
-**? ? ? :**
+**???:**
 That voice you heard is not meant for my ears. It belongs to the one who invited you into this dream. 
  
-**? ? ? :**
+**???:**
 Your soul and sense of self returned to the dream the moment you destroyed that guard's phantasm. 
  
-**? ? ? :**
+**???:**
 From here, you must continue on alone. Do not look back. 
  
-**? ? ? :**
+**???:**
 ...Haha. Don't make the same mistake Orpheus did. 
  
 **Sitonai:**
@@ -14148,7 +14148,7 @@ Fou! S-stop that! What's gotten into you?
 **Mash:**
 Why are you in such a good mood right now!? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sitonai:**
 ...Phew. I've never laughed so hard before! 
@@ -14520,7 +14520,7 @@ The queen may not see you as a threat now, but that would change if I left this 
 **Sitonai:**
 So since I can't come along, I threw in the unlocking and the hiding spells for free! Take care! I hope to see you again sometime! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fou:**
 Fo...
@@ -14711,7 +14711,7 @@ Let's do this, Fujimaru! Mash, hurry up with those boards while we work on openi
 **Mash:**
 R-right! Understood! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 There, we've secured an exit route! Now's our chance, Master! 
@@ -14790,7 +14790,7 @@ Which is why I don't understand...How did we end up drifting so far apart?
 How did we end up with such ugly,horrifying feelings within ourselves...
 ...feelings colder than the merciless ice,and hotter than a raging fire...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Ophelia:**
 ...The targets fought off Koyanskaya's attack and made their escape. 
@@ -14892,7 +14892,7 @@ Now, now, we girls have to stick together♡
 This attitude right here is why Ms. Kyrielight doesn't want to be friends with you, you know! 
  
 **Ophelia:**
-! ! ! What would you know about&ndash;
+!!! What would you know about&ndash;
  
 **Koyanskaya:**
 More than you think, honey. Believe it or not,I'm actually veeery sensitive to human emotions. 
@@ -15059,7 +15059,7 @@ And since we also have the Tree of Emptiness and that unsightly queen to worry a
 **Koyanskaya:**
 ...I'm counting on Ophelia to help this Lostbelt's true nature shine through. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Another lovely day...It doesn't even look like we'll have to worry about a blizzard, Senpai. 
@@ -15283,7 +15283,7 @@ Once we wrap this up, let's keep on moving!
 **Napoleon:**
 You got it! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We've destroyed all the ice beasts. The battle is over! 
@@ -15309,7 +15309,7 @@ Switching from thruster mode's first gear to booster. Ollerus Boards, standing b
 **Mash:**
 ...Ignition! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Napoleon:**
 Whoa! I've never seen anything like that before...! 
@@ -15457,7 +15457,7 @@ Ortinax output is stable. Auto-maintenance function, activated. Amalgam Goad, st
 **Napoleon:**
 ...All right! Let's smash our way through these guys! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Napoleon:**
 Nice work with that shield! It's even throwing the giants off-balance! 
@@ -15568,7 +15568,7 @@ I'm not sure. It looks like...some sort of large, flying...
 **Napoleon:**
 ...! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Napoleon:**
 ...Damn, this thing's tough! 
@@ -16420,7 +16420,7 @@ New Grande Armée, moving out!
 **Mash:**
 Right! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Napoleon:**
 ...Okay, where are we right now? 
@@ -16785,7 +16785,7 @@ What are we waiting for!?
 ---
 
 **Fujimaru 2:**
-We need to go now! Fast! ! ! 
+We need to go now! Fast!!! 
  
 
 ---
@@ -16800,7 +16800,7 @@ Come on! The odds are against us making it there in time...but our Grande Armée
 **Napoleon:**
 Private Fujimaru is right! We move out at top speed, right now! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...We made it to Village 23, Senpai! 
@@ -17202,7 +17202,7 @@ Please stop.
 **Napoleon:**
 Haha! Your cold demeanor makes it even better! All right, my new Grande Armée, onward to battle! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...We made it back inside the village without incident. 
@@ -17517,7 +17517,7 @@ Fou fou! Kyaaau!
 **Napoleon:**
 Ooh la la, here they come! Let's do this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Napoleon:**
 Good! We've opened a hole in their ranks! Let's blast through and keep on moving! 
@@ -17571,7 +17571,7 @@ R-right. Master, stay behind me. I'll do my best to block the wind!
 You too, Fou! 
  
 **Fou:**
-Fou, fooou! ! ! 
+Fou, fooou!!! 
  
 **Mash:**
 ...I see them. They're impossible to miss. There's a huge throng of mass-produced Valkyries right above us! 
@@ -17639,7 +17639,7 @@ So please, leave now. If you refuse...
 **Brynhild:**
 ...I will have no choice but to destroy you! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Brynhild:**
 ...Now do you see the difference in our power? 
@@ -17760,7 +17760,7 @@ She's got to be up there somewhere! If we can find her, and take her out...
 **Napoleon:**
 ...victory will be ours! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Goredolf:**
 Gah, that was a direct hit! Dammit, man, I thought I told you to drift like you're taking an S curve! 
@@ -18045,7 +18045,7 @@ We're the last Valkyries left! How dare you...!
 **Thrúd:**
 ...Come on! We will prove to you that we're true Valkyries, using these pseudo-Gungnirs that Odin himself bestowed upon us! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Thrúd:**
 Khh! 
@@ -18134,7 +18134,7 @@ How dare you!?
 **Both Valkyries:**
 Siiiiiister! Aaaaaaaaah! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Narration:**
 ...We loved our sister. 
@@ -18182,7 +18182,7 @@ This is neither love, nor romance.
 
 ...This is what humans call “envy. ”
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 An enormous spear has pierced us both. 
 The first of us, Thrúd, did not move to avoid Brynhild's final attack. 
@@ -18612,7 +18612,7 @@ I see.
 **Ophelia:**
 ...can't help but cling to the ones you love. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Goredolf:**
 All right, so...
@@ -19148,7 +19148,7 @@ In a rage, Odin stripped her of her Divinity and imprisoned her in a fiery palac
 **Napoleon:**
 That was when...
  
-**--Flashback--:**
+**--Flashback--**
 
 That was when the great hero, Sigurd, showed up. 
 He used his demonic sword to cut through all the divine shields around the palace and rescued Brynhild. 
@@ -19465,7 +19465,7 @@ In a rage, Odin stripped me of my Divinity,and most of my strength...
 **Brynhild:**
 That was when...
 
-**--Flashback--:**
+**--Flashback--**
  
 That was when Sigurd appeared. 
 He tore through the divine shields guarding the palace, even destroying my armor, and cradled me in his arms. 
@@ -19727,7 +19727,7 @@ Yes, Master! Switching Ortinax from standby mode to combat mode...now!
 **E：Mash:**
 Go ahead and stop the Border whenever you're ready! I'm good to go at any time! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Scáthach-Skadi:**
 ...I see they still have not yet learned their lesson. 
@@ -19798,7 +19798,7 @@ Brynhild may have once been the greatest Valkyrie in all the Norse lands, but no
 **Koyanskaya:**
 ...Yes. I certainly hope that proves to be true. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 There, I can see it! Hmm, so that's Scáthach-Skadi's castle. 
@@ -19871,7 +19871,7 @@ Here they come!
 **Napoleon:**
 Make sure to take 'em all down! Don't let them so much as scratch the Shadow Border! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We've defeated the Muspel giants and ice beasts! That's all the hostiles that emerged from underground! 
@@ -20034,7 +20034,7 @@ Sigurd...Sigurd...
 **Brynhild:**
 ...Now that I've found you,I won't rest until I've killed you! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...! 
@@ -20434,7 +20434,7 @@ That Noble Phantasm of yours was definitely impressive.
 **Sigurd:**
 But, unfortunately for you...I'm not Sigurd. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sigurd:**
 But, unfortunately for you...I'm not Sigurd. I'm not even one of those hero types the Valkyries yearn for. 
@@ -20537,7 +20537,7 @@ He...didn't write any runes...?
 **Brynhild:**
 ...No. You aren't Sigurd. You are...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 “Sometimes, ice and snow can cause people to freeze to death. ”
 “People must learn how to survive the cold if they want to make it through the winter. ”
@@ -20568,7 +20568,7 @@ People...we...can always wait if we must. In the meantime, we can always dream o
 “Swords...lives...love...And sometimes, even fate. ”
 “That's why fire runes are the one kind I will never use. ”
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Brynhild:**
 Sigurd...! 
@@ -20594,7 +20594,7 @@ Pitiful! Pitiful! Pitiful!
 **Sigurd:**
 Hehe! How unsightly...I can't stand to look at you any longer! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sigurd:**
 ...Enough! 
@@ -20642,7 +20642,7 @@ What are you doing!?
 Hehe. Me? I'm&ndash;
  
 **Sigurd:**
-! ! ! 
+!!! 
  
 **Brynhild:**
 ...I've pierced your armor. 
@@ -20846,7 +20846,7 @@ Even now, I think...
 **Narration:**
 ...some part of me is still waiting for someone like that. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 The moment the sun fell...
 ...every giant across the Lostbelt looked up at the sky and roared in unison. 
@@ -20867,7 +20867,7 @@ Let Ragnarök recommence. Bring on the joyful times, the end-time.
 
 ...Let us begin the destruction. Now is the time. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Gerda:**
 Huh? 
@@ -20926,7 +20926,7 @@ As for that enormous sun, I believe it is most likely Muspelheim itself, given f
 **Holmes:**
 In other words, the body of Surtr, the giant of Ragnarök. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Narration:**
 ...Our first Rayshift trial, a landmark occasion. As Team A, we were supposed to investigate Singularity F. 
@@ -20991,13 +20991,13 @@ All I felt was disappointment, for my inability to express what I felt honestly 
 **Narration:**
 I may never have reached for it myself, but just once,I would have liked to have held Wodime's hand...
  
-**? ? ? :**
+**???:**
 “Congratulations on your rebirth. I always believed you could save the world. ”
  
-**? ? ? :**
+**???:**
 “Greetings,Kirschtaria Wodime. ”
  
-**? ? ? :**
+**???:**
 “Will this work for conveying information to you? I must say, using words is such a bother. ”
  
 **Narration:**
@@ -21018,22 +21018,22 @@ It was as if he had seen the end of the world...No...like he had fought to preve
 **Narration:**
 He was so bruised and battered that I could almost believe such a ridiculous delusion was actually true...as though he was only alive now through sheer miraculous luck. 
  
-**? ? ? :**
+**???:**
 “We now share our circumstances. This...humanity you come from will be incinerated, and fade away. ”
  
-**? ? ? :**
+**???:**
 “But that is of no consequence to us. It may be unexpected, but not so much as to change our plans. ”
  
-**? ? ? :**
+**???:**
 “The assault has led to the closure of the expanse. Soon, both you and humanity will meet your end. ”
  
-**? ? ? :**
+**???:**
 “Yet unfortunately, God still has no body for this joyous feat. ”
  
-**? ? ? :**
+**???:**
 “You'll help me with that, won't you,Kirschtaria Wodime? ”
  
-**? ? ? :**
+**???:**
 “You are a Crypter, which makes you perfect to spread my word. ”
  
 **Narration:**
@@ -21060,10 +21060,10 @@ A god, a human, even a tiny ant crawling along the ground could see how out of l
 **Narration:**
 It was clear to anyone watching that his remarks, his suggestion, would usually be out of the question. 
  
-**? ? ? :**
+**???:**
 “I don't understand. Once the world is wiped clean, you will be invincible. ”
  
-**? ? ? :**
+**???:**
 “Why would you want competition when one of you would be more than sufficient? ”
  
 **Kirschtaria:**
@@ -21081,22 +21081,22 @@ Wodime wasn't proposing that his responsibilities be shared.
 **Narration:**
 He believed in our worth as individuals. It was a shining example of unwavering humanity. 
  
-**? ? ? :**
+**???:**
 “...Restoring what was lost will take considerable effort. ”
  
-**? ? ? :**
+**???:**
 “Bringing a single human back to life may only take mere moments, but it requires a level of suffering sufficient to stop the entire world in its tracks. ”
  
-**? ? ? :**
+**???:**
 “Consider the hell you just endured as an example. ”
  
-**? ? ? :**
+**???:**
 “What's more, their bodies have sunk into the Void. They can no longer pay that price themselves. ”
  
-**? ? ? :**
+**???:**
 “Can you pay it for them,Kirschtaria Wodime? ”
  
-**? ? ? :**
+**???:**
 “Can you withstand the agony that comes with fighting the entire world six more times? ”
  
 **Kirschtaria:**
@@ -21123,16 +21123,16 @@ I may not be capable of following in his footsteps,but at the very least, I want
 **Narration:**
 I want to live up to the faith he showed in us,in insisting we be given our own chance to choose. 
  
-**? ? ? :**
+**???:**
 ...Circumstantial change confirmed. The price has now been paid. 
  
-**? ? ? :**
+**???:**
 I have a proposal for you chosen ones. An offer for those of you who were cast aside. 
  
-**? ? ? :**
+**???:**
 If you desire acclaim, then choose rebirth. If you desire indolence, then choose eternal sleep. 
  
-**? ? ? :**
+**???:**
 It makes no difference to God. 
  
 **Narration:**
@@ -21168,7 +21168,7 @@ In a Norse world unlike our own,bound to one day be cut off from humanity...
 **Narration:**
 ...where fiery destruction raged as well. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Surtr:**
 “...You're looking at me, aren't you? ”
@@ -21320,7 +21320,7 @@ In a Norse world unlike our own,bound to one day be cut off from humanity...
 **Surtr:**
 “The end of this planet. ”
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Kirschtaria:**
 Good, you're all here. I knew you wouldn't turn down a challenge. 
@@ -21614,7 +21614,7 @@ If this body is shattered, my soul will be freed. Then, I will destroy Odin's pr
 Once that has happened...I will materialize in my true form, as the Fiery King of Giants. 
  
 **Ophelia:**
-! ! ! 
+!!! 
  
 **Ophelia:**
 The sun...? 
@@ -21745,7 +21745,7 @@ In the end, there will only be one territory left. I can't afford to show any we
 **Narration:**
 That's why...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Ophelia:**
 ...That concludes my report. 
@@ -21864,7 +21864,7 @@ Hey now...What's the matter?
 **Napoleon:**
 ...What are you so afraid of, mademoiselle? 
  
-**--ARROW--:**
+**--ARROW--**
  
 
 ...The false sun is falling.... The Fiery King of Giants returns. 
@@ -22025,7 +22025,7 @@ This...this is my mess. I need to be the one who cleans it up.
 **Ortlinde:**
 Ophelia! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Khh...I'm not...done yet...! 
@@ -22209,7 +22209,7 @@ Do I look a complete fool to you now? Yes. I'm sure I do.
 **Ophelia:**
 I'd probably laugh too if I saw myself now. 
  
-**? ? ? :**
+**???:**
 ...
  
 **Ophelia:**
@@ -22523,7 +22523,7 @@ Fou, fou. Faaau!
 **Napoleon:**
 Yeah, I know.... It's about time I stepped up. 
  
-**--ARROW--:**
+**--ARROW--**
  
 ...With their masks gone...
 ...the giants began an all-out assault...
@@ -23015,7 +23015,7 @@ It's the same type of enemy we encountered on Mt. Galdhøpiggen!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -23387,7 +23387,7 @@ Haha! You're getting good at giving out orders, Private! Remind me to give you a
 **Brynhild:**
 Very well...let us begin! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Holmes:**
 The battle in the castle is over. That would seem to be the last of the giants who were dwelling in the underground. 
@@ -23488,7 +23488,7 @@ What Holmes said! Now come on, let's pick up the pace so we can catch up quickly
 **Da Vinci:**
 ...All set? Then let's kill ourselves some giants! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Scáthach-Skadi:**
 ...Why are we using this lump of metal for transport? 
@@ -23632,7 +23632,7 @@ No, my love. Come what may, I will not leave your side.
 **Sigurd:**
 ...I see. Very well then, let us go together. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...The battle is over. It looks like that was the last of the seeds. 
@@ -23727,7 +23727,7 @@ I know I can stay my old, reticent self,never setting one foot forward.
 ...At Muspelheim, in what used to be northern Sweden in the Scandinavian Peninsula...
  
 **Surtr:**
-“There. I have connected myself to the Tree of Emptiness ![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only). ”
+“There. I have connected myself to the Tree of Emptiness ![1-light](https://i.imgur.com/XAqlQYL.png). ”
  
 **Surtr:**
 “Hehe. ”
@@ -23853,7 +23853,7 @@ You preyed upon it.
 “...what it did possess was the same heat that lies in all life. ”
  
 **Surtr:**
-“Yes, there was a fire deep in the heart of the Tree of Emptiness ![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only) as well. ”
+“Yes, there was a fire deep in the heart of the Tree of Emptiness ![1-light](https://i.imgur.com/XAqlQYL.png) as well. ”
  
 **Ophelia:**
 Deep in the heart...
@@ -23916,7 +23916,7 @@ A new holy land, built on an earth that's been wiped perfectly clean.
 **Narration:**
 If nothing else...I will never make trouble for him. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Meunière:**
 I'm about to really kick it into gear here! If you're not a Heroic Spirit, make sure you're strapped in good and tight, or you're liable to bite your tongue off! 
@@ -24090,7 +24090,7 @@ Let's push our way through!
 **Napoleon:**
 D'accord! All right, gods and humans of the Grande Armée, get ready! We're gonna punch our way through these things without slowing down! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Surtr:**
 “Hehe. ”
@@ -24343,13 +24343,13 @@ It's beautiful...
 “Loptr Lægjarn. ”
  
 **Giant Guard:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)! 
+![2-light](https://i.imgur.com/7VYgcEB.png)! 
  
 **Sitonai:**
 Berserker! That's it! Take it all on, magical energy and all! 
  
 **Giant Guard:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)! 
+![2-light](https://i.imgur.com/7VYgcEB.png)! 
  
 **Sitonai:**
 Thanks, Berserker! 
@@ -24597,7 +24597,7 @@ They don't dream about tomorrow. They don't wish for anything from their future.
 In which case...somebody's gotta show them what it means to hope! To wish! 
  
 **Napoleon:**
-No, scratch that! Not “somebody”! It's gotta be ME! ! ! 
+No, scratch that! Not “somebody”! It's gotta be ME!!! 
  
 **Narration:**
 The fiery good fellow assumes his gunnery stance and smiles. 
@@ -24615,9 +24615,9 @@ That's why! The time has come! To fire my victory rainbow!
 This is my final trump card! Try this on for size, you monster! 
  
 **Napoleon:**
-Arc de Triomphe de l'Étoile! ! ! 
+Arc de Triomphe de l'Étoile!!! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Surtr:**
 “Graaaaaah! ”
@@ -24882,7 +24882,7 @@ As I fall...I try taking as deep a breath as I possibly can.
 **Ophelia:**
 Napoleon, you liar...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Ophelia!? 
@@ -25138,7 +25138,7 @@ Th-then...in order to completely break your contract with him...
 ...Ophelia! 
  
 **Fou:**
-Fou! ! ! 
+Fou!!! 
  
 **Ophelia:**
 ...Hello, Fou. I haven't seen you in a long time, either. 
@@ -25207,7 +25207,7 @@ Ghh...Ah...Aah...! Ah, aaaaaaaaah...!
 ...............! 
  
 **Mash:**
-Ophelia! ! ! 
+Ophelia!!! 
  
 **Ophelia:**
 Disabling Mystic Eye and its magical circuit connection...now! 
@@ -25473,7 +25473,7 @@ Understood.... Initiating combat!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Surtr:**
 “How...!? ”
@@ -25570,7 +25570,7 @@ That Mash girl will cry out your name, her shield falling from her grasp in shoc
 **Surtr:**
 That white beast, Fou, will yelp from his spot on the ground. And then, it will all be over. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 ...! 
@@ -25659,7 +25659,7 @@ Let's go.
 “This...This can't be how I die! ”
  
 **Surtr:**
-“I was...I was going to destroy...this entire world...! ! ! ”
+“I was...I was going to destroy...this entire world...!!! ”
  
 **Surtr:**
 “...Opheliaaa! ”
@@ -25685,7 +25685,7 @@ And then, a few seconds later...
 **Narration:**
 Not a trace remains. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Surtr:**
 ...I had lost all hope. 
@@ -25753,7 +25753,7 @@ Not a trace remains.
 **Ophelia:**
 “It was nice to meet you, Fiery King of Giants. But now, I guess this is goodbye. ”
  
-**--ARROW--:**
+**--ARROW--**
  
 **Brynhild:**
 ...The time has come, my love. 
@@ -26512,7 +26512,7 @@ Raising Ortinax output. Switching to combat mode. Bunker bolt, standing by!
 **Mash:**
 Preparing to engage this Lostbelt's king, Scáthach-Skadi, and commencing demolition of the Tree of Emptiness! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Scáthach-Skadi:**
 Well done...
@@ -26574,7 +26574,7 @@ Cursed Odin...He may have kept giving me chances,right to the end...
 **Scáthach-Skadi:**
 He never was...willing to guide me...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 The Tree of Emptiness began to collapse...
@@ -26726,7 +26726,7 @@ All of you Valkyries did great delivering Stepmother's last commandment. Thanks 
 **Sitonai:**
 I know your master is gone...but I hope you can rest easy now. See you later. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 A newly ordained day. A newly ordained time. 
 
@@ -26776,7 +26776,7 @@ She vanished as though carried off by that wind,before her feet could even touch
 In the blink of an eye, she was somewhere far,far away, along with the rest of that Scandinavia. 
 All that remained in the wind...was her smile...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 Sometime in 2017. 
  
@@ -26828,7 +26828,7 @@ Would you like to eat with us? Oh, and by us, I mean me and Pepe.
 **Mash:**
 ...Sure. If you don't mind my being there,I'd love to join you. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Meunière:**
 We're just about to leave Scandinavia behind entirely! 
@@ -27125,34 +27125,34 @@ Go ahead and open up a line, Mr. Meunière! And hurry! Da Vinci's no use to us r
 **Meunière:**
 R-right. On it! 
  
-**? ? ? :**
+**???:**
 CQ, CQ. This is the Wandering Sea's dock. Do you read me? 
  
-**? ? ? :**
+**???:**
 That vessel...that would be Chaldea's ship, right? No, wait, not a ship...Oh, I see! A tank! 
  
-**? ? ? :**
+**???:**
 Rational, yes, very rational! A ship is unnecessary for a Zero Sail. But, I say, you have no sense for design! 
  
-**? ? ? :**
+**???:**
 It might as well be a large metal coffin! Nothing charming there at all! 
  
-**? ? ? :**
+**???:**
 Be honest: you would never have made it back without my Paper Moon, would you? 
  
-**? ? ? :**
+**???:**
 Still, a fine job making it all the way here! Everything is proceeding within my calculations! 
  
 **Meunière:**
 It's coming from the Wandering Sea! But, WHERE!? 
  
-**? ? ? :**
+**???:**
 Where? Right in front of you! ...Oh, hang on, let me clear the fog. It should be easier to see then. 
  
-**? ? ? :**
+**???:**
 Proceed on your current course, though you may want to reduce your speed. And be sure to give thanks. 
  
-**? ? ? :**
+**???:**
 All right...this will be the first time in over two thousand years that this island has revealed itself on a day other than December 31! 
  
 **Meunière:**
@@ -27167,17 +27167,17 @@ An imaginary world of the fairies, where fantasy is made manifest. A world that 
 **Da Vinci:**
 In the modern day, it's a Mystic among Mystics,said to only be possessed by Ploy Kickshaws. 
  
-**? ? ? :**
+**???:**
 Oh? Is that the voice of a professor type on the same level as me I hear? Well that is a welcome development. We will get on just fine! 
  
-**? ? ? :**
+**???:**
 Welcome to the primordial magecraft workshop: The Baldanders of the Wandering Sea! 
  
-**? ? ? :**
+**???:**
 My name is Sion. Sion Eltnam Sokaris. 
  
-**? ? ? :**
+**???:**
 I am a Spiritron hacker who escaped to the Wandering Sea when I predicted that the world was about to end. I have been waiting for you. 
  
-**? ? ? :**
+**???:**
 Being the Atlas Institute's last remaining member, the Wandering Sea higher-ups entrusted me with the project of righting this bleached Earth problem. 

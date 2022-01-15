@@ -40,7 +40,7 @@ No food, sadly, but...any port in a storm.
 Besides, just seeing artifacts of civilization like this again does wonders for my morale, even if it is gutted ruins from a brutal invasion. 
 
 **David:**
-![3-light](https://i.imgur.com/9QdxWyo.png#gh-dark-mode-only) ![3-dark](https://i.imgur.com/LZWwsPs.png#gh-light-mode-only), ![4-light](https://i.imgur.com/cUedQZ5.png#gh-dark-mode-only) ![4-dark](https://i.imgur.com/AMEQIBO.png#gh-light-mode-only). 
+![3-light](https://i.imgur.com/9QdxWyo.png). 
 
 **Narration:**
 I shrug my shoulders as I sit down on what used to be a sofa. 
@@ -118,46 +118,46 @@ Go ahead and open up a line, Mr. Meunière! And hurry! Da Vinci's no use to us r
 **Meunière:**
 R-right. On it! 
  
-**? ? ? :**
+**???:**
 CQ, CQ. This is the Wandering Sea's dock. Do you read me? 
  
-**? ? ? :**
+**???:**
 That vessel...that would be Chaldea's ship, right? No, wait, not a ship...Oh, I see! A tank! 
  
-**? ? ? :**
+**???:**
 Rational, yes, very rational! A ship is unnecessary for a Zero Sail. But, I say, you have no sense for design! 
  
-**? ? ? :**
+**???:**
 It might as well be a large metal coffin! Nothing charming there at all! 
  
-**? ? ? :**
+**???:**
 Be honest: you would never have made it back without my Paper Moon, would you? 
  
-**? ? ? :**
+**???:**
 Still, a fine job making it all the way here! Everything is proceeding within my calculations! 
  
 **Meunière:**
 It's coming from the Wandering Sea! But, WHERE!? 
  
-**? ? ? :**
+**???:**
 Where? Right in front of you! ...Oh, hang on, let me clear the fog. It should be easier to see then. 
  
-**? ? ? :**
+**???:**
 Proceed on your current course, though you may want to reduce your speed. And be sure to give thanks. 
  
-**? ? ? :**
+**???:**
 All right...this will be the first time in over two thousand years that this island has revealed itself on a day other than December 31! 
  
-**? ? ? :**
+**???:**
 Welcome to the primordial magecraft workshop: The Baldanders of the Wandering Sea! 
  
-**? ? ? :**
+**???:**
 My name is Sion. Sion Eltnam Sokaris. 
  
-**? ? ? :**
+**???:**
 I am a Spiritron hacker who escaped to the Wandering Sea when I predicted that the world was about to end. I have been waiting for you. 
  
-**? ? ? :**
+**???:**
 Being the Atlas Institute's last remaining member, the Wandering Sea higher-ups entrusted me with the project of righting this bleached Earth problem. 
  
 ---
@@ -228,19 +228,19 @@ Meunière! Fire up every sensor we've got! I want to know everything going on ou
 **Meunière:**
 Roger! But I've, uh, already been doing that. I'm not picking up anything at all. Not a damn thing! 
  
-**? ? ? :**
+**???:**
 Ahh, testing, testing. Can you hear me over there? 
  
-**? ? ? :**
+**???:**
 I am afraid the Wandering Sea cannot be observed by any means created by or relying upon science. Not even partially! 
  
-**? ? ? :**
+**???:**
 I would give up on trying to see what is going on outside that hunk of metal you have been riding around in. None of your sensors will see anything here. 
  
-**? ? ? :**
+**???:**
 Besides, danger is a no-no here! And there's no-no way there would be anything wrong with my calculations! 
  
-**? ? ? :**
+**???:**
 Right now, this is the most peaceful, happiest, scariest island in the whole world! 
  
 ---
@@ -257,10 +257,10 @@ How can it be peaceful and scary...?
 ---
 
  
-**? ? ? :**
+**???:**
 At any rate, come on out, visitors! 
  
-**? ? ? :**
+**???:**
 I did not open up my darling secret base today just so you could hole up in that big metal box of yours! 
  
 **Mash:**
@@ -400,7 +400,7 @@ I sure am. I'm a Da Vinci backup unit made by the one and only Leonardo da Vinci
 **Da Vinci:**
 What about you? Are you the girl who contacted us? 
  
-**? ? ? :**
+**???:**
 Oh, right. I was so surprised by Girlvinci here that I forgot my manners! Cut! Aaand take two! 
  
 **Sion:**
@@ -546,13 +546,13 @@ From what information I have, it should be Da Vinci here, but given she has the 
 **Sion:**
 I must have a gap in my information somewhere. Better get that sorted. 
  
-**? ? ? :**
+**???:**
 Heh. I'm impressed you picked up on that. You look like a girl, and it would seem that you are, in fact, something of a girl. 
  
-**? ? ? :**
+**???:**
 Indeed, the Master-slash-amateur mage, the Demi-Servant girl, and the capable technical advisor are merely my subordinates. 
  
-**? ? ? :**
+**???:**
 Who am I? Why, you surely need not ask. 
  
 **Goredolf:**
@@ -2050,7 +2050,7 @@ Yes, that's all right.
 Oh, right. Back when Senpai and I stopped by some ruins we found along the way...
  
 **Sion:**
-Huh? You found a survivor's journal? And you failed to mention it!? Let me see that! ! ! 
+Huh? You found a survivor's journal? And you failed to mention it!? Let me see that!!! 
  
 **Sion:**
 So there were some people lucky...or maybe unlucky enough to escape the bleaching...
@@ -2663,13 +2663,13 @@ This way, Director!
 ---
 
  
-**? ? ? :**
+**???:**
 ...Well this is an unpleasant surprise. I never thought a grown man would stoop to stealing food meant for a child. 
  
-**? ? ? :**
+**???:**
 In fact, you shocked me so much that I lost control of my Presence Concealment. 
  
-**? ? ? :**
+**???:**
 It seems the one thing you excel at is getting in other people's way...Wouldn't you agree, Your Excellency? 
  
 **Goredolf:**
@@ -3532,7 +3532,7 @@ Ahh, you don't know how happy I am to hear that. In all my thirty-three years of
 **Woman:**
 ...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **P. A. System**
 Reality Space anchor attached. Reality verification complete. 
@@ -3792,7 +3792,7 @@ Understood. I also. Would like. To avoid. Excessive force. I will. Be careful.
 **Mash:**
 Yes! We'll do as great gentlemen do,in the true spirit of baritsu! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Goredolf:**
 I see. So you got into a fight almost the instant you left the Border? 
@@ -4092,7 +4092,7 @@ Oh? That sounds to me like you already have a pretty good idea what's going on, 
 **Holmes:**
 I do have a hypothesis, but a good detective only shares their deductions once they are supported by clear and undeniable evidence. 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -4226,7 +4226,7 @@ Wh-what the? Those are Krichat', like we saw in Russia! What are they doing here
 **Holmes:**
 We can figure that out later, Da Vinci. Right now, we need to evacuate the villagers! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Hostiles eliminated. That said...
@@ -4549,7 +4549,7 @@ That's right. The Qin dynasty was a major empire around 200 B. C. It's known for
 **Da Vinci:**
 It was the country ruled by the great Qin Shi Huang. 
  
-**? ? ? :**
+**???:**
 Hmm...So that is Chaldea. Your enemy. 
  
 **Akuta Hinako:**
@@ -4558,13 +4558,13 @@ Yes, but not only are they my sworn enemy. They also command a threat to the saf
 **Akuta Hinako:**
 Namely, Heroic Spirits. 
  
-**? ? ? :**
+**???:**
 We see. Indeed, we were quite surprised when you first told us of them. You said this Master can summon an army of great heroes from the past, correct? 
  
-**? ? ? :**
+**???:**
 We find this difficult to credit indeed...
  
-**? ? ? :**
+**???:**
 We are certain you would not lie to us, but how could a few mere soldiers ever hope to overturn our eternal reign? We cannot even imagine the possibility. 
  
 **Akuta Hinako:**
@@ -4576,25 +4576,25 @@ Those whose souls are offered to the Counter Force are given tremendous power to
 **Akuta Hinako:**
 Trust me when I say that a single Servant is easily the equivalent of a thousand ordinary soldiers. 
  
-**? ? ? :**
+**???:**
 Hmm...So this...Alaya you spoke of? You said it is the sum total of human consciousness? 
  
-**? ? ? :**
+**???:**
 This sounds like pure nonsense to us. Is this the manner of thing you simply accept in your own world? 
  
 **Akuta Hinako:**
 You make an excellent point, Your Imperial Majesty. My world was more chaotic and less complete than yours. 
  
-**? ? ? :**
+**???:**
 It must have been, if something so preposterous as resurrecting dead Heroic Spirits to fight in one's place is considered normal. 
  
-**? ? ? :**
+**???:**
 We cannot help but wonder how a world where such things were necessary to maintain order could have lasted. 
  
 **Koyanskaya:**
 I must warn you too, Your Imperial Majesty. The Master of Chaldea is an enemy you can't afford to ignore. 
  
-**? ? ? :**
+**???:**
 Ah, right. We had forgotten that you are from the same world as Akuta, Kominskya. 
  
 **Koyanskaya:**
@@ -4603,7 +4603,7 @@ My name is Koyanskaya, Your Imperial Majesty. Do you think you could try to reme
 **Captain of the Guard:**
 Watch your tongue when speaking to the Emperor, wretch. 
  
-**? ? ? :**
+**???:**
 No matter. These visitors come from a world beyond our domain. Of course our customs elude them. 
  
 **Koyanskaya:**
@@ -4615,22 +4615,22 @@ But the fact is, Chaldea has already brought strange creatures with them that th
 **Koyanskaya:**
 This poses quite a problem for your quarantine as well. Surely you don't want them to get away with this? 
  
-**? ? ? :**
+**???:**
 ...
  
 **Akuta Hinako:**
 Please, Your Imperial Majesty, if we merely wait for them to reveal their true barbaric nature, it will be too late. 
  
-**? ? ? :**
+**???:**
 Hmm. If it is so important to you, then why have you not done something about it yourself? 
  
-**? ? ? :**
+**???:**
 You command these Servant puppets as well, do you not? 
  
 **Akuta Hinako:**
 I...Yes, I do. If you would forgive me for disturbing your eternal paradise, I can summon one right now. 
  
-**? ? ? :**
+**???:**
 Very well. Show us exactly what these warriors from another world are capable of. 
  
 **Akuta Hinako:**
@@ -4985,7 +4985,7 @@ We're about to face Akuta Hinako and her Saber!
 **Mash:**
 Commencing battle! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Akuta Hinako:**
 Ghh...Now I see. No wonder Ophelia and Kadoc lost. 
@@ -5035,31 +5035,31 @@ Looks like that profile of her saying she was a neat freak was right on the mone
 **Mash:**
 ...
  
-**? ? ? :**
+**???:**
 So, you went and made a great fool of yourself. We will not laugh at you. Your little show with the Chaldeans was interesting. 
  
 **Akuta Hinako:**
 I blame no one but myself for my disgraceful performance. Still, perhaps now you at least understand the threat these invaders pose, Your Imperial Majesty? 
  
-**? ? ? :**
+**???:**
 Threat? A threat, you say? Why should we feel threatened just because you retreated? 
  
 **Akuta Hinako:**
 ...
  
-**? ? ? :**
+**???:**
 Well, since your little display amused us, you may continue it. 
  
-**? ? ? :**
+**???:**
 In fact, you may bring ten of our puppets with you for the second act. 
  
 **Akuta Hinako:**
 With all due respect, Your Imperial Majesty, if you treat this latest disaster as mere entertainment&ndash;
  
-**? ? ? :**
+**???:**
 We might say the same of you, Akuta. Given the reluctance with which you engage in combat, we can only conclude that this is some sort of game to you. 
  
-**? ? ? :**
+**???:**
 If you are going to fight, then fight to win. There is nothing to be gained by running away before you suffer so much as a single loss. 
  
 **Akuta Hinako:**
@@ -5068,22 +5068,22 @@ If you are going to fight, then fight to win. There is nothing to be gained by r
 **Akuta Hinako:**
 Understood, Your Imperial Majesty. I won't fail again. 
  
-**? ? ? :**
+**???:**
 Good. We look forward to a future showing with a bit more...substance to it. 
  
 **Koyanskaya:**
 Oh Your Imperial Majesty, you're so bad. Is this your way of punishing poor little Akuta? 
  
-**? ? ? :**
+**???:**
 Is that how it seemed to you, Kominsky? 
  
 **Koyanskaya:**
 Ko-yan-ska-ya! 
  
-**? ? ? :**
+**???:**
 We see no sense in punishing her when we do not yet even think of these Chaldeans as our enemy. 
  
-**? ? ? :**
+**???:**
 They may have come here from another world,but that is also true of you and Akuta. 
  
 **Koyanskaya:**
@@ -5101,16 +5101,16 @@ But the only thing Chaldea has done since they arrived is cause trouble and mayh
 **Koyanskaya:**
 Don't you think that sets us apart kind of a lot? 
  
-**? ? ? :**
+**???:**
 Indeed, you have a point. But is that not why Akuta went after them? To scold them for their poor manners? 
  
-**? ? ? :**
+**???:**
 Hahaha, you outsiders certainly do care a great deal about etiquette. 
  
 **Koyanskaya:**
 ...
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -5415,7 +5415,7 @@ Make sure to finish them this time, Saber. Don't hold anything back.
 **D：? ? ? :**
 Very well, Master. Then I shall end this with my secret attack! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **G：? ? ? :**
 Curses! I cannot believe that even my leadership is not enough to defeat them! 
@@ -5509,40 +5509,40 @@ What is it, Nezha? Something on your mind?
 **Nezha:**
 I would like to. Take a. Look. At the remains. As well. 
  
-**? ? ? :**
+**???:**
 We saw your battle from here as well. 
  
-**? ? ? :**
+**???:**
 You need not bother with a third attempt. Your Servant alone is clearly no match for them. 
  
 **Akuta Hinako:**
 I'm afraid not, Your Imperial Majesty...
  
-**? ? ? :**
+**???:**
 Then we shall provide you with further assistance. Although...these Servants are indeed formidable foes. 
  
-**? ? ? :**
+**???:**
 Another one or two hundred foot soldiers are unlikely to make much difference...Ah, what of your Xiang Yu? 
  
 **Akuta Hinako:**
 L-Lord Xiang Yu!? But, he's&ndash;
  
-**? ? ? :**
+**???:**
 Indeed, even now he remains one of our most helpful retainers. 
  
-**? ? ? :**
+**???:**
 But it is when facing an unknown enemy that he shines brightest. 
  
-**? ? ? :**
+**???:**
 It would be a waste to keep him confined to Xianyang under these circumstances, so we shall lend him to you. Make good use of him. 
  
 **Akuta Hinako:**
 I-I will, Your Imperial Majesty! Such unexpected delight...You are far too kind. 
  
-**? ? ? :**
+**???:**
 Still, sending Xiang Yu out to the front line will require some time to prepare. 
  
-**? ? ? :**
+**???:**
 In the meantime, keep a close eye on Chaldea, and continue to ensure they do not attempt to take any action against our empire. 
  
 **Akuta Hinako:**
@@ -5554,7 +5554,7 @@ Well, well, I've never seen Akuta get flustered before. Who knew she had a girli
 **Koyanskaya:**
 That said...I'm surprised you're bringing out Xiang Yu now, Your Imperial Majesty. Don't you think it's time you stopped playing around? 
  
-**? ? ? :**
+**???:**
 What a strange question. Do we appear to be treating this as a game to you, Konanskya? 
  
 **Koyanskaya:**
@@ -5566,7 +5566,7 @@ If you truly see Chaldea as a threat now, the sensible thing to do would be to w
 **Koyanskaya:**
 And in your case, Your Imperial Majesty, you could accomplish that merely by lifting your little finger. 
  
-**? ? ? :**
+**???:**
 Yes, we could if we so desired. 
  
 **Koyanskaya:**
@@ -5578,10 +5578,10 @@ This latest decision may have seemed like you taking things a bit more seriously
 **Koyanskaya:**
 Be honest, Your Imperial Majesty. You aren't testing Chaldea...You're testing Akuta Hinako, aren't you? 
  
-**? ? ? :**
+**???:**
 Indeed. We can see quite clearly that the threat the Chaldeans pose stems from being backed into a corner, so to speak. 
  
-**? ? ? :**
+**???:**
 What we have yet to see is how Akuta will behave when she believes she has found a means to defeat them. 
  
 **Koyanskaya:**
@@ -5593,7 +5593,7 @@ What we have yet to see is how Akuta will behave when she believes she has found
 **Koyanskaya:**
 (It's so much harder to read someone when you can't see their face. )
  
-**? ? ? :**
+**???:**
 That aside, we underestimated these Servants. We thought they would be little more than ghosts, but it seems they are quite skilled. 
  
 **Koyanskaya:**
@@ -5605,37 +5605,37 @@ So there's more to using Servants than summoning the souls of decorated heroes a
 **Koyanskaya:**
 The difference between mere necromancy and Heroic Spirit summoning is that Heroic Spirits make contracts to serve their Masters of their own free will. 
  
-**? ? ? :**
+**???:**
 So, these dead souls lend their strength in response to the existential threat faced by their world...
  
-**? ? ? :**
+**???:**
 Would you say that is correct, Koryanchihuahua? 
  
 **Koyanskaya:**
 Yes, exactly, Your Imperial Majesty. And, once again, my name is Koyanskaya. 
  
-**? ? ? :**
+**???:**
 Hmm, what a horrific proposition. 
  
-**? ? ? :**
+**???:**
 To think your world was so perilous it could not even let the dead rest in peace. 
  
-**? ? ? :**
+**???:**
 We would never permit such things to exist in our domain. Those who meet glorious ends would never think to threaten the peace of our world. 
  
 **Koyanskaya:**
 I'm sure. I doubt something like the Counter Force would ever even take root here. 
  
-**? ? ? :**
+**???:**
 We dislike the idea of these guests traipsing about with their ghosts, doing whatever they please. 
  
-**? ? ? :**
+**???:**
 Fortunately, we have heroes sleeping here who are far more ferocious than these mere ghosts. Is that not correct, Captain of the Guard? 
  
 **Captain of the Guard:**
 Indeed, Your Imperial Majesty. Given this potential threat to our nation, I suggest we summon the ones sleeping in Mt. Li. 
  
-**? ? ? :**
+**???:**
 Yes, perhaps you are right. Some basic precautionary measures should suffice. We command that the frozen heroes be awakened. 
  
 **Captain of the Guard:**
@@ -5776,7 +5776,7 @@ Right! Moving to intercept hostiles!
 **Fou:**
 Fou, fooou! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jing Ke:**
 ...Those creatures aren't native to this land, either. 
@@ -5865,58 +5865,58 @@ This country is the ideal nation made reality. Can you even imagine such a thing
 **Captain of the Guard:**
 I have arrived at Mt. Li, Your Imperial Majesty. Which warrior would you like me to unseal? 
  
-**? ? ? :**
+**???:**
 Hmm. If this were a foreign expedition, it would be no matter if they were somewhat free-spirited...
  
-**? ? ? :**
+**???:**
 ...but since this is a domestic matter, we would prefer not to use someone too...rambunctious. 
  
 **Captain of the Guard:**
 Then, you are saying we should not evaluate our warrior on combat ability alone. 
  
-**? ? ? :**
+**???:**
 If they were to incite a rebellion, we could not keep an eye on them and Chaldea at the same time. 
  
-**? ? ? :**
+**???:**
 For example, do not even think about releasing anyone like the Taoyuan Brothers. They could get carried away and try to take over the empire for themselves. 
  
-**? ? ? :**
+**???:**
 We need a warrior who is not only brave, but also kind and modest. One who is fiercely loyal to this empire and its people, and who will defend them at all costs. 
  
-**? ? ? :**
+**???:**
 We would like you to choose this warrior, Captain. 
  
 **Captain of the Guard:**
 Me, Your Imperial Majesty? Are...are you sure you want me to handle such an important task? 
  
-**? ? ? :**
+**???:**
 Why else would we send you, our captain of the guard, all the way to Mt. Li? 
  
-**? ? ? :**
+**???:**
 Surely you are aware that reviving a frozen hero carries some risk? 
  
 **Captain of the Guard:**
 Well, yes, of course...
  
-**? ? ? :**
+**???:**
 Something could even go wrong with their mind during the unsealing, causing them to fly into a rage. 
  
-**? ? ? :**
+**???:**
 It would be bitterly ironic if we were to release a hero for the purposes of preventing a war only for them to transform into disaster incarnate. 
  
-**? ? ? :**
+**???:**
 So we deemed it prudent to have you present for the unsealing in the event such a danger did present itself. Do you understand? 
  
 **Captain of the Guard:**
 So, um...you're saying you want me to deal with them in case they happen to go berserk? 
  
-**? ? ? :**
+**???:**
 Indeed. This hero must be strong enough to defeat these Heroic Spirits from another world...
  
-**? ? ? :**
+**???:**
 ...but not so strong that you would be unable to stop them in such an unfortunate situation. 
  
-**? ? ? :**
+**???:**
 With all of these requirements to consider,would you not prefer to choose this hero yourself? 
  
 **Captain of the Guard:**
@@ -5925,7 +5925,7 @@ I see...Your kindness and wisdom humbles me,Your Imperial Majesty!
 **Koyanskaya:**
 Frozen Heroic Spirits, hmm...Interesting. I see you have yet another impressive card up your sleeve. 
  
-**? ? ? :**
+**???:**
 Mt. Li is the jewel of our empire. It is the mausoleum where the brave warriors who once fought by our side now sleep in peace. 
  
 **Koyanskaya:**
@@ -5937,19 +5937,19 @@ Shortsighted, short-tempered rulers tend to go the whole, “You have outlived y
 **Koyanskaya:**
 But not you, Your Imperial Majesty. How clever of you to literally keep them on ice so they can be useful to you again! 
  
-**? ? ? :**
+**???:**
 These warriors deserve to be praised for all eternity for their help in establishing peace. 
  
-**? ? ? :**
+**???:**
 That said, we cannot bestow all of them with the same immortality we possess. 
  
-**? ? ? :**
+**???:**
 While there is little that can be done to cushion the shock they experience whenever they are awakened and see how much has changed...
  
-**? ? ? :**
+**???:**
 ...fighting on new battlefields has become a common enough occurrence for them that they are now accustomed to it. 
  
-**? ? ? :**
+**???:**
 What do you think? Do you not agree it is a much cleaner system than your Heroic Spirits? 
  
 **Koyanskaya:**
@@ -6291,7 +6291,7 @@ Just as well. If we do not take care of them now,they will go on to hunt for pre
 **Mash:**
 Let's do it! Your orders please, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Hostiles eliminated...The battle is over. 
@@ -6377,7 +6377,7 @@ He might not look like it, but his purpose was always to protect the weak. Once 
 **Jing Ke:**
 Of course, that often ends in him sacrificing anyone and everyone to do so...I guess that's a Berserker for you. They're nothing if not committed. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Boy:**
 ...It's just up ahead. There's this huge hole in the ground you can use to get inside. 
@@ -6418,7 +6418,7 @@ A-aren't you guys scared?
 **Jing Ke:**
 Oh, don't worry. This journey would've ended ages ago if everyone here couldn't crack a joke in the face of mortal peril. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Spartacus:**
 Ha, too easy! 
@@ -6465,7 +6465,7 @@ Come with us! I will be your shield and guide,and sing a song of triumph in your
 **Holmes:**
 Indeed, we are not called Heroic Spirits for nothing. I promise we will not let your bravery go to waste. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Holmes:**
 ...Well, this answers one question. Take a look. 
@@ -6506,7 +6506,7 @@ Maybe releasing man-eating beasts into peaceful agricultural villages with no de
 **Mash:**
 ...Uh-oh! I think they've spotted us. Preparing for combat! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jing Ke:**
 Damn, it's not easy fighting so many of them at once! 
@@ -6523,7 +6523,7 @@ Take care of the boy, Spartacus!
 **Spartacus:**
 No problem! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Spartacus:**
 ...They're retreating? That can't be right. There must be more to this. 
@@ -6555,7 +6555,7 @@ O-okay...You'll keep me safe, right, Spartacus?
 **Spartacus:**
 Of course I will. As long as you are prepared to face your fears, nothing can stop me! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Um...The Ortinax's sensors are picking up an impossible amount of magical energy up ahead...
@@ -6657,7 +6657,7 @@ I thought so too, Master. These Demonic Beasts must really hate humans.
 **Mash:**
 Right now, it's time to get rid of these Demonic Beasts once and for all! Your orders please, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Both hostiles are down.... There are no other threats here. 
@@ -7051,22 +7051,22 @@ I, um, can't help but notice it's been two days since we got here, and we're no 
 **Captain of the Guard:**
 As requested, Your Imperial Majesty, I have determined who I think to be our best two warriors and brought them back from Mt. Li. 
  
-**? ? ? :**
+**???:**
 So I see. Well done, Captain. 
  
 **Captain of the Guard:**
 The first is Qin Liangyu, the fearsome general who hails from Chongqing of Szechuan. 
  
-**? ? ? :**
+**???:**
 Ah yes, the woman who commands the White Cavalry. 
  
 **Qin Liangyu:**
 It is a great honor to serve as your spear and shield again, Your Imperial Majesty! 
  
-**? ? ? :**
+**???:**
 We still have such vivid recollections of how gallantly you fought in the Bozhou Rebellion. 
  
-**? ? ? :**
+**???:**
 We can think of none better than you to fight in defense of our empire. 
  
 **Qin Liangyu:**
@@ -7075,10 +7075,10 @@ You are too kind, Your Imperial Majesty.
 **Qin Liangyu:**
 Now that I have been reawakened after such a long time sleeping, I could ask for nothing better than to help uphold your reign for another ten thousand years! 
  
-**? ? ? :**
+**???:**
 Excellent. We will hold you to that. 
  
-**? ? ? :**
+**???:**
 Our empire faces an unprecedented threat. Use your mastery of the ash spear to disperse the clouds looming over our land. 
  
 **Qin Liangyu:**
@@ -7093,13 +7093,13 @@ I gave it a lot of thought, and decided to go with your most loyal retainer, the
 **Han Xin:**
 H-h-h-hello again, Your Imperial Majesty. It's me, Han Xin, your faithful right-hand man. 
  
-**? ? ? :**
+**???:**
 Oho, our most distinguished Han Xin! 
  
-**? ? ? :**
+**???:**
 We may have many heroes at our disposal at Mt. Li, but few who knew us before we obtained this holy vessel. 
  
-**? ? ? :**
+**???:**
 You are a living witness to Qin's military history. 
  
 **Han Xin:**
@@ -7108,13 +7108,13 @@ S-s-s-so I'm guessing you woke me up to f-f-f-fight another war? Where are we in
 **Han Xin:**
 The desert? The ocean? No, wait,hehe, don't tell me...The moon? 
  
-**? ? ? :**
+**???:**
 No, no, our war of conquest is long since complete. 
  
-**? ? ? :**
+**???:**
 Your leadership in the Arctic War was crucial to defeating the Aztec Republic. 
  
-**? ? ? :**
+**???:**
 And our last great enemy, the Habsburg Empire, succumbed to economic sanctions. The world has long been at peace. 
  
 **Han Xin:**
@@ -7126,16 +7126,16 @@ I-I-I-I mean, that's wonderful to hear,Your Imperial Majesty! Who doesn't love p
 **Han Xin:**
 S-s-s-still, a peaceful world is like a tidy room;it's bound to get dusty eventually. 
  
-**? ? ? :**
+**???:**
 Indeed. So I am counting on you to handle the cleanup once again. 
  
 **Han Xin:**
 B-b-b-by the way, how's science progressed since the last time I was awake? A-a-a-any new weapons I should know about? 
  
-**? ? ? :**
+**???:**
 Ah yes. With the exception of our royal guards, and the supervisors defending the fields, we have retired most of our flesh-and-blood soldiers. 
  
-**? ? ? :**
+**???:**
 The bulk of our army is now comprised of automated mechanical soldiers. 
  
 **Han Xin:**
@@ -7147,10 +7147,10 @@ We won't have to keep them fed! Or rested! And if one breaks, we can just repair
 **Han Xin:**
 The possibilities are endless! New strategies, new tactics...Ahh, it's enough to make my head spin...Ulp! 
  
-**? ? ? :**
+**???:**
 Han Xin. While you are much too...unusual to be called a genius, tactical or otherwise, we have nothing but respect for your talent. 
  
-**? ? ? :**
+**???:**
 Make full use of your strategic cunning,and return with another victory to your name. 
  
 **Han Xin:**
@@ -7325,7 +7325,7 @@ Oh yes. We've been up against a number of opponents with vast amounts of magical
 **Da Vinci:**
 Hang in there as best you can until we can find a way to escape, guys! Whatever you do, don't go toe to toe! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jing Ke:**
 Damn, he's tough! 
@@ -7336,7 +7336,7 @@ Such devastating oppression! How can I not rush to meet it!?
 **Mordred:**
 Watch yourself, Spartacus! He'll cut even you to ribbons if you just run in like a jackass! 
  
-**? ? ? :**
+**???:**
 ...I see. So this is the extent of their capabilities. 
  
 **Mash:**
@@ -7440,22 +7440,22 @@ Me...a human? How could something so bizarre come to be? No matter how many time
 **Akuta Hinako:**
 That's how much China's history rippled out to the rest of the world. If the emperor had passed away after a normal lifespan&ndash;
  
-**? ? ? :**
+**???:**
 Enough. Merely imagining such a thing gives us chills. 
  
 **Xiang Yu:**
 Quite, Your Imperial Majesty. My humblest apologies. 
  
-**? ? ? :**
+**???:**
 ...So tell us, how did you find your long-awaited return to the field of battle? 
  
 **Xiang Yu:**
 My calculations show a clear path to victory. Let me handle the particulars, and defeating Chaldea will be no trouble. 
  
-**? ? ? :**
+**???:**
 We see...Still, one can never be too careful. Thus, we have given Qin Liangyu a battalion and sent her to join you. 
  
-**? ? ? :**
+**???:**
 You will rendezvous with her and finish the enemy for good, ensuring a glorious victory for the empire. 
  
 **Akuta Hinako:**
@@ -7464,22 +7464,22 @@ Wait, Your Imperial Majesty! As they say, cleverness has never been associated w
 **Akuta Hinako:**
 Now that we have Lord Xiang Yu with us, our victory is a foregone conclusion. I think we should move to eliminate Chaldea as soon as possible. 
  
-**? ? ? :**
+**???:**
 Surely you jest, Akuta. You have fled from them not once, but twice now. Your tactical insight, such as it is, is neither necessary nor welcome. 
  
 **Akuta Hinako:**
 ...Yes, Your Imperial Majesty. Please forgive my outburst. 
  
-**? ? ? :**
+**???:**
 Good. You are not to make a move until Qin Liangyu arrives. 
  
-**? ? ? :**
+**???:**
 Until then, you will continue to monitor Chaldea and ensure they do not turn tail and run. 
  
 **Akuta Hinako:**
 As you wish. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 Okay, you said you learned something in your analysis, Holmes? 
@@ -7740,7 +7740,7 @@ I will join you, Hegemon-King of Western Chu. It would be an honor to fight besi
 **Akuta Hinako:**
 This time, we're going to obliterate Chaldea and their Master. Don't leave so much as a trace of them behind! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 Shit, the enemy reinforcements are almost here! 
@@ -7773,7 +7773,7 @@ Stand down, Akuta Hinako. The emperor commands it!
 **Koyanskaya:**
 What's the meaning of this, Your Imperial Majesty!? I thought you were sending in Qin Liangyu and her army as reinforcements! 
  
-**? ? ? :**
+**???:**
 Indeed, I was. I ordered her to find Akuta and Chaldea, and lend her aid to whichever side was losing. 
  
 **Koyanskaya:**
@@ -7782,25 +7782,25 @@ You're kidding me...You're still being merciful to Chaldea!?
 **Koyanskaya:**
 How many times do I have to tell you? These barbarians are a threat to your entire empire! 
  
-**? ? ? :**
+**???:**
 Hah. Barbarians, is it? It seems you've forgotten what we told you. 
  
-**? ? ? :**
+**???:**
 So far as we are concerned, you and Akuta are every bit as barbaric as these Chaldeans. 
  
-**? ? ? :**
+**???:**
 Be that as it may, we are beginning to get a clearer picture of matters here. 
  
-**? ? ? :**
+**???:**
 The quarrel between you, Akuta, and Chaldea has nothing at all to do with us. 
  
-**? ? ? :**
+**???:**
 You merely hope to use our territory as a stage to settle this quarrel. 
  
-**? ? ? :**
+**???:**
 And so we are taking our time to assess both our allies and enemies, to determine who truly benefits our empire...
  
-**? ? ? :**
+**???:**
 ...and who is merely a useless interloper. 
  
 **Koyanskaya:**
@@ -7809,10 +7809,10 @@ W-well of course Akuta and I have been useful to you, right, Your Imperial Majes
 **Koyanskaya:**
 We came here to serve the empire in its hour of need! 
  
-**? ? ? :**
+**???:**
 Ah, yes. That reminds us. What IS this dire threat our empire faces? 
  
-**? ? ? :**
+**???:**
 Is it the Chaldeans, who have stumbled in like drunkards? Is it an invasion of Xianyang, my capital city? What say you, Han Xin? 
  
 **Han Xin:**
@@ -7821,7 +7821,7 @@ N-n-n-no, Your Imperial Majesty. The area that poses the greatest danger to the 
 **Han Xin:**
 I-I-I-I speak, of course, of the entire rest of the world, as it is now cut off from Your Imperial Majesty's blessings. 
  
-**? ? ? :**
+**???:**
 Then what is currently our most pressing need? 
  
 **Han Xin:**
@@ -7830,10 +7830,10 @@ Th-th-th-that would be gathering i-i-i-information about the world outside the s
 **Han Xin:**
 And n-n-n-not by taking a stranger's word,b-b-b-but by sending out soldiers you know and trust. 
  
-**? ? ? :**
+**???:**
 Good, good. That is precisely what we had planned. We would expect no less from one of our most loyal retainers. 
  
-**? ? ? :**
+**???:**
 Very well. How might we go about sending soldiers into the storm to investigate? 
  
 **Captain of the Guard:**
@@ -7842,7 +7842,7 @@ I doubt the ones who came here on their own will be much help.
 **Captain of the Guard:**
 Whatever ability that let them come from their world is most likely something they can only use on themselves. 
  
-**? ? ? :**
+**???:**
 And what of the more recent arrivals in our domain? 
  
 **Han Xin:**
@@ -7860,19 +7860,19 @@ W-w-w-we would still need to learn how to use the vehicle, if not how it was bui
 **Koyanskaya:**
 (This emperor's good! That's a surprising amount of clarity about the big and small pictures! )
  
-**? ? ? :**
+**???:**
 There you have it. Chaldea has a much more valuable bargaining chip than either you or Akuta. 
  
-**? ? ? :**
+**???:**
 If you wish to negotiate with us, you will need to offer something of far greater value, Tayunskapon. 
  
 **Koyanskaya:**
 My name is Koyanskaya! Ugh, are you sure you aren't doing this on purpose, Your Imperial Majesty!? 
  
-**? ? ? :**
+**???:**
 Of course. We thought we were doing you a kindness, since you would surely dislike being called by the name you deserve. 
  
-**? ? ? :**
+**???:**
 Or would you prefer we forego all consideration and call you Daji, fox woman? 
  
 **Koyanskaya:**
@@ -7884,16 +7884,16 @@ Pardon me.
 **Koyanskaya:**
 Khh...How...? He was...completely unarmed...
  
-**? ? ? :**
+**???:**
 You grossly underestimated our intelligence, as well as our imperial guards' proficiency in kung fu. We are almost offended. 
  
 **Captain of the Guard:**
 She must have thought this was still the same China she enjoyed toying with as she pleased. 
  
-**? ? ? :**
+**???:**
 Now then, let us begin our negotiations anew. 
  
-**? ? ? :**
+**???:**
 Hello there, loyal soldiers and people of Chaldea. We trust you can hear our voice? 
  
 **Meunière:**
@@ -7907,55 +7907,55 @@ I think...it's coming from Mash's shield?
 ---
 
  
-**? ? ? :**
+**???:**
 The voice of an empire is heard by all its citizens. No matter where they may be, it will find them just as surely as the sun's rays. 
  
-**? ? ? :**
+**???:**
 In this case, we are merely focusing a magnetic beam upon that girl's shield, thereby causing it to vibrate. 
  
-**? ? ? :**
+**???:**
 We could use anything of sufficient rigidity, but we assume you prefer your skulls not rattle directly. 
  
 **Mash:**
 The voice of an empire? Then, does that mean...
  
-**? ? ? :**
+**???:**
 We are prepared to hand over this Koya-something-or-other person you have been seeking so desperately. 
  
 **Goredolf:**
 You mean Koyanskaya!? 
  
-**? ? ? :**
+**???:**
 Correct. However, in exchange, you must agree to let us examine that vehicle of yours in detail. 
  
-**? ? ? :**
+**???:**
 Accept this condition, and we will guarantee you safe conduct in these lands. None will dare threaten you while you are under our protection. 
  
 **Akuta Hinako:**
 What!? Your Imperial Majesty, what are you saying!? 
  
-**? ? ? :**
+**???:**
 Akuta Hinako. 
  
-**? ? ? :**
+**???:**
 If you had shown yourself capable of capturing that vehicle unharmed, we would not have resorted to these measures. 
  
-**? ? ? :**
+**???:**
 But you have all but trumpeted your intention of leaving not so much as a trace of Chaldea behind. 
  
-**? ? ? :**
+**???:**
 You fought to destroy them, Shadow Border and all, despite being fully aware that is not what we desired. 
  
 **Akuta Hinako:**
 Ghh...! 
  
-**? ? ? :**
+**???:**
 Still, the fox woman aside, you have your uses,so we will treat you accordingly. 
  
-**? ? ? :**
+**???:**
 We will not punish you merely for acting against our wishes. 
  
-**? ? ? :**
+**???:**
 However, know that if you insist on continuing to war with Chaldea, you will face the White Cavalry's spears. 
  
 **Qin Liangyu:**
@@ -7970,10 +7970,10 @@ Be warned: if my emperor commands it,I will show you no mercy.
 **Akuta Hinako:**
 (We have little choice but to accept this...for now. )
  
-**? ? ? :**
+**???:**
 Very well then, Chaldea. Now that we have all had time to calm down, what is your answer? 
  
-**? ? ? :**
+**???:**
 Oh, and do note that our audio is not as crisp as our video. When you wish to speak to us, make sure that you face directly upwards and raise your voice. 
  
 **Holmes:**
@@ -8013,10 +8013,10 @@ And I'm pretty sure it wouldn't be happy about being interrupted.
 ---
 
  
-**? ? ? :**
+**???:**
 Good, good. A most reasonable answer. 
  
-**? ? ? :**
+**???:**
 Now then, let us be certain of one thing before we begin to make arrangements. Do you know who we are? 
  
 ---
@@ -8024,13 +8024,13 @@ Now then, let us be certain of one thing before we begin to make arrangements. D
 **Fujimaru 1:**
 You're Qin Shi Huang, the First Emperor of Qin. 
  
-**? ? ? :**
+**???:**
 Right you are. 
  
-**? ? ? :**
+**???:**
 We thought we might need to explain all that in excruciating detail. We are relieved to see that these concerns were baseless. 
  
-**? ? ? :**
+**???:**
 Very well then, now that we know you properly understand our eminence, let us proceed. 
  
 
@@ -8039,13 +8039,13 @@ Very well then, now that we know you properly understand our eminence, let us pr
 **Fujimaru 2:**
 You're Julius Caesar. 
  
-**? ? ? :**
+**???:**
 Caesar? ...Ah yes, the young man who attempted to profit from our invasion of Egypt. 
  
-**? ? ? :**
+**???:**
 But do not mistake us for some common dictator. 
  
-**? ? ? :**
+**???:**
 Our empire extends to this entire planet. We are the first and last emperor this world will ever know. 
  
 **Da Vinci:**
@@ -8055,22 +8055,22 @@ Our empire extends to this entire planet. We are the first and last emperor this
 ---
 
  
-**? ? ? :**
+**???:**
 To begin, Qin Liangyu there has brought with her a number of engineers. 
  
-**? ? ? :**
+**???:**
 You will admit them, along with their equipment, aboard the Shadow Border. 
  
 **Da Vinci:**
 How do we know they won't break anything? 
  
-**? ? ? :**
+**???:**
 Very well then, we will have our engineers conduct their work entirely under Chaldea's supervision. 
  
-**? ? ? :**
+**???:**
 However, be aware that they will not cease their investigation until they are satisfied with the results. We trust you can work together in good faith. 
  
-**? ? ? :**
+**???:**
 Any other questions? 
  
 ---
@@ -8084,37 +8084,37 @@ Where are you speaking to us from?
 **Da Vinci:**
 Yeah, and I thought I heard you say something terrifying about magnetic beams...? 
  
-**? ? ? :**
+**???:**
 I am speaking from directly above you, of course. Turn your heads upwards and it should be abundantly clear. 
  
 **Mash:**
 Directly above us? You mean...
  
-**? ? ? :**
+**???:**
 Yes, the Great Wall. 
  
 **Mash:**
 The Great Wall? But, I thought that was built on the ground...
  
-**? ? ? :**
+**???:**
 The ground? Ah, you mean that thing we once used to keep the Huns away? 
  
-**? ? ? :**
+**???:**
 Hahaha, just how out of date is your knowledge of China? There has not been a Great Wall on the ground since our empire absorbed all other nations. 
  
 **Holmes:**
 Does that mean this empire no longer has any foreign enemies? 
  
-**? ? ? :**
+**???:**
 Correct. This entire planet is now our domain. As such, any outside barbarians that might pose a threat would have to come from beyond the sky. 
  
-**? ? ? :**
+**???:**
 Naturally, we could not merely sit around waiting for such hostile visitors to arrive, or it would be too late to defend against them, so we decided to fortify our defenses ahead of time. 
  
-**? ? ? :**
+**???:**
 This great feat of architecture was built over the course of three hundred years. Perhaps you know that the original Great Wall's name meant“the ten-thousand-li-long castle”? Well, this is far longer. 
  
-**? ? ? :**
+**???:**
 If we were to measure it in li, it would be one hundred thirty-one thousand, four hundred twenty-four li in length. 
  
 **Da Vinci:**
@@ -8123,58 +8123,58 @@ Man, where do I even begin picking that apart...
 **Goredolf:**
 You say you began space development in the eighteenth century!? That's as preposterous as Gandhi dropping an atomic bomb! 
  
-**? ? ? :**
+**???:**
 We admit, we did believe that the only possible threat to our empire might come from the stars...
  
-**? ? ? :**
+**???:**
 ...but we must say, even we did not expect to face one of this particular nature. 
  
-**? ? ? :**
+**???:**
 Indeed, it was a great shock to see those impenetrable storm clouds&ndash;if that is even what they are&ndash;suddenly appear around this area of China. 
  
-**? ? ? :**
+**???:**
 We no longer receive reports from the parts of the Great Wall that extend beyond China. The only parts that seem to function are those above China. 
  
-**? ? ? :**
+**???:**
 The light of our glory once encompassed the entire globe, but now...
  
-**? ? ? :**
+**???:**
 ...those accursed storm clouds have severed us from our own world, plunging it back into darkness. 
  
-**? ? ? :**
+**???:**
 This is a tragedy. Without our guidance, our people will regress back to a state of chaos and violence. 
  
-**? ? ? :**
+**???:**
 Thus, we must once again bring peace and harmony to the rest of the world. 
  
 **Mash:**
 That's why you want the Shadow Border...? 
  
-**? ? ? :**
+**???:**
 Yes. That said, that single vehicle alone is insufficient to our purposes. 
  
-**? ? ? :**
+**???:**
 We will need to produce vast quantities of them, and of greater sizes capable of carrying much larger cargo. And so we shall require blueprints. 
  
 **Meunière:**
 Ahh, so that's why you want us to let your engineers analyze it. 
  
-**? ? ? :**
+**???:**
 Given that you are able to pass through a storm that permits no physical interference whatsoever...we assume you are able to pass through Void Space? 
  
 **Da Vinci:**
 ...I'm impressed. I can't believe you figured that out at a glance. 
  
-**? ? ? :**
+**???:**
 We understand the theory, of course, but cannot imagine how it was actually achieved. And so we wish to learn how this conveyance was constructed. 
  
-**? ? ? :**
+**???:**
 Ideally, we would like to confiscate it and disassemble it to be thorough, but this would be a great inconvenience to you, would it not? 
  
-**? ? ? :**
+**???:**
 So we are willing to compromise and simply work with data alone. 
  
-**? ? ? :**
+**???:**
 Consider this a display of our benevolence. 
  
 ---
@@ -8185,19 +8185,19 @@ But, the world outside the storm is&ndash;
 ---
 
  
-**? ? ? :**
+**???:**
 Ah yes, Akuta and that fox woman told us some nonsense about Lostbelts and Pruning Theoretical Phenomena. 
  
-**? ? ? :**
+**???:**
 If you insist upon feeding us the same lies,we may lose our temper. 
  
 **Da Vinci:**
 (Now would be a great time to stop talking, Fujimaru! )
  
-**? ? ? :**
+**???:**
 There is no point in guessing why you visitors speak of the outside world in such vague generalities. 
  
-**? ? ? :**
+**???:**
 We will make our own judgments once we have seen past the storm wall for ourself. 
  
 **Holmes:**
@@ -8206,28 +8206,28 @@ May I ask you something, Your Imperial Majesty?
 **Holmes:**
 Did a strange tree happen to appear in this land around the same time as the storm? Specifically, a tree of light so large it reaches up to the sky? 
  
-**? ? ? :**
+**???:**
 Hm? What an odd question. Do such things often appear out of nowhere in your world? 
  
 **Akuta Hinako:**
 ...
  
-**? ? ? :**
+**???:**
 Hmm. We see you are still hiding something from us, Akuta. 
  
-**? ? ? :**
+**???:**
 Well, no matter. We are well aware she has some cards yet to play. No doubt they have something to do with her differences with you. 
  
-**? ? ? :**
+**???:**
 Our interest, though, lies solely in maintaining peace in our empire and reclaiming its territories. 
  
-**? ? ? :**
+**???:**
 We have no intention of becoming involved in disputes between visitors, unless those disputes become something that affect us. 
  
-**? ? ? :**
+**???:**
 Now then, let us be candid. You inquired about a tree of light? 
  
-**? ? ? :**
+**???:**
 The answer is no. Our sight extends to all of China, and we have observed nothing of the sort. 
  
 **Da Vinci:**
@@ -8239,7 +8239,7 @@ Hmm. Since it seems like you don't stand on formality too much, I'm just gonna a
 **Da Vinci:**
 Are you sure you don't mind speaking with us directly like this, Your Imperial Majesty? 
  
-**? ? ? :**
+**???:**
 What do you mean? 
  
 **Da Vinci:**
@@ -8251,55 +8251,55 @@ They like to trot out intermediaries and representatives and the like. Usually t
 **Da Vinci:**
 I mean, drawing a firm line between themselves and the lesser people by refusing to speak to them directly is a big part of how nobles like to demonstrate their difference in status, right? 
  
-**? ? ? :**
+**???:**
 Hehe, hahaha. What a strange thing to say at this point. 
  
-**? ? ? :**
+**???:**
 We see. In your world, monarchs are so insecure that they refuse even to permit themselves to be seen for fear of seeming less than perfect. 
  
-**? ? ? :**
+**???:**
 Tell us, does the sun seek to hide from the public eye? Does the moon hide itself from the people's gaze? 
  
-**? ? ? :**
+**???:**
 We are the Emperor, the Child of Heaven. The celestial existence who reigns over all our citizens. 
  
-**? ? ? :**
+**???:**
 That is why we permit them audience. 
  
-**? ? ? :**
+**???:**
 Just as the sun's light bathes every corner of Earth, so too does our glory shine upon every person on this world who looks up to us. 
  
-**? ? ? :**
+**???:**
 Still, we suppose that if the sun looked the same as anyone else, it may feel a need to put on a bit of a show to emphasize its power and status. 
  
 **Da Vinci:**
 Then, you don't mind letting us see your face? 
  
-**? ? ? :**
+**???:**
 Hm? Now what are you going on about? You have been gazing upon my visage for some time now. 
  
 **Da Vinci:**
 Huh? 
  
-**? ? ? :**
+**???:**
 Well, we suppose you cannot see us with your naked eyes, not with the horizon in the way, but you have still been observing us with those mechanical birds of yours, have you not? 
  
-**? ? ? :**
+**???:**
 Indeed, our eyes have met a number of times. 
  
 **Da Vinci:**
 Um, I'm sorry, I don't understand. We've been observing Xianyang from a distance, yes, but&ndash;
  
-**? ? ? :**
+**???:**
 What? Then you stare at us without realizing who it is you look upon? How insolent. 
  
-**? ? ? :**
+**???:**
 We suppose you could not help your ignorance,but now that you know, you should be more careful. 
  
 **Da Vinci:**
 W-wait, hang on! Are you telling us that thing floating above Xianyang is&ndash;
  
-**? ? ? :**
+**???:**
 Yes. That is us. 
  
 **Qin Shi Huang:**
@@ -8665,7 +8665,7 @@ It looks like...medicine?
 Yup. It clears your head out and makes you feel really good. It's like a dream come true. 
  
 **Holmes:**
-Is that so!? Give it here! ! ! 
+Is that so!? Give it here!!! 
  
 ---
 
@@ -9246,7 +9246,7 @@ Still, now that I have heard such insolent remarks,I need feel no guilt for draw
 **Prince of Lan Ling:**
 For that, you have my thanks, General! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Qin Liangyu:**
 I've stalled long enough. Any chance you had at victory is gone, Prince of Lan Ling! 
@@ -10313,7 +10313,7 @@ Yup, I knew it. He ain't gonna listen to a word we say. Yup, time for my genius 
 **Mordred:**
 If he won't listen to reason, we'll just have to beat it into him. C'mon, Spartacus, let's you and me hash things out! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jing Ke:**
 Mordred! I thought you said you were going to make his knees give out or some such! 
@@ -10571,7 +10571,7 @@ We own up to our mistakes, and do our best to make them right! That means we can
 **Jing Ke:**
 And that...is the one thing this world will never, ever have! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 Man, this thing's seriously tough! Our attacks aren't even phasing him! 
@@ -10636,7 +10636,7 @@ Aw shit. These guys workin' together again is the last thing we needed!
 **Jing Ke:**
 And we can't afford to take our time with them,or we'll never catch up to the Shadow Border! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Qin Liangyu:**
 Hurry! Get as far away as you can while Kuaiji Zero keeps the enemy busy! 
@@ -10893,7 +10893,7 @@ Jump, Spartacus!
 
  
 **Spartacus:**
-Hraaaaaahhh! ! ! 
+Hraaaaaahhh!!! 
  
 **Spartacus:**
 I feel it! I can feel the power of our bond flowing within me! 
@@ -10935,7 +10935,7 @@ For his Noble Phantasm to be at its most powerful...he would need to be at his m
 Hahahahaha! Wonderful! This pain is honor! This pain is life! I can feel my love about to explode! 
  
 **Spartacus:**
-Warcry Overload! ! ! 
+Warcry Overload!!! 
  
 **Han Xin:**
 Th-th-this can't be right! Where did these people get a surface-to-air weapon...!? 
@@ -11420,7 +11420,7 @@ Don't worry about me. I'm fine! Really!
 **Jing Ke:**
 So I see. I did figure we were due to run into some, but I'd just as soon have been wrong! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The battle is over; no more enemies in the area. 
@@ -11495,7 +11495,7 @@ Ugh, just thinking about that stupid emperor and that stupid missing face pisses
 **Koyanskaya:**
 I can't believe I let myself get trapped like this all because I couldn't get a read on the emperor's expressions! 
  
-**? ? ? :**
+**???:**
 ...
  
 **Koyanskaya:**
@@ -11504,7 +11504,7 @@ I can't believe I let myself get trapped like this all because I couldn't get a 
 **Koyanskaya:**
 But I guess you show up just about anywhere. What is it, Foreign Priestess? 
  
-**? ? ? :**
+**???:**
 .........
  
 **Koyanskaya:**
@@ -11516,7 +11516,7 @@ I wonder if Kirschtaria already understands you.
 **Koyanskaya:**
 Maybe he's even keeping a record of everything you've been saying and doing that involves us. 
  
-**? ? ? :**
+**???:**
 ...
  
 **Koyanskaya:**
@@ -11637,7 +11637,7 @@ I mean, you're Qin Shi Huang, the great emperor of this domain! Surely you can't
 We do not do this for our own enjoyment. It is our duty to see justice served. 
  
 **Koyanskaya:**
-W-wait...Please...Don't do&ndash;Eegh! Gaaaaaah! ! ! 
+W-wait...Please...Don't do&ndash;Eegh! Gaaaaaah!!! 
  
 **Qin Shi Huang:**
 We are sorry about this,but we simply lack the information...
@@ -11703,9 +11703,9 @@ We suggest you spend this eternity of torture reflecting on the many people you 
 Until I turn to stone? Who does this jerk think I am, Sun Wukong...? 
  
 **Koyanskaya:**
-Ah...No, please&ndash;Gaaaaaahhh! ! ! 
+Ah...No, please&ndash;Gaaaaaahhh!!! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Chen Gong:**
 Pitiful. Everyone we meet here is so weak I can hardly stand it. 
@@ -11823,7 +11823,7 @@ Uhh...
 **Red Hare:**
 On second thought, don't bother! Diiie! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Chen Gong:**
 All right, that's enough! 
@@ -11911,7 +11911,7 @@ That would get people killed if they weren't robots, you know.
 **Chen Gong:**
 ...Tch. (Clucking tongue)
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 Ahoy there! Can you hear me okay,Fujimaru? 
@@ -12433,7 +12433,7 @@ Let's do this!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 Ooh, sounds like they're here☆Just listen to all that noise! 
@@ -12493,7 +12493,7 @@ Let's keep pounding that front gate!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Qin Shi Huang:**
 Hmm, hmm...So this goes here, and...Oh? Hmm, hm hm hm...
@@ -12570,7 +12570,7 @@ They truly do bring disaster wherever they go.
 **Qin Shi Huang:**
 We must wipe them out. Immediately. They are like an airborne disease. We cannot let them bring further taint to the empire! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 Hey, hey☆ How've you been, Fujimaru? Did you miss me? 
@@ -12593,7 +12593,7 @@ Koyanskaya!
 
  
 **Fou:**
-Fo fo fo fwaaah! ! ! 
+Fo fo fo fwaaah!!! 
  
 **Mash:**
 Aah! Easy, Fou! Please, calm down! 
@@ -12697,7 +12697,7 @@ A walking disaster from a very different path than Proper Human History, this ra
 Introducing one of Nine Fox Foundation's latest and greatest: a Jötunn straight from the land of frost giants! 
  
 **Jötunn:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)! 
+![1-light](https://i.imgur.com/XAqlQYL.png)! 
  
 **Holmes:**
 (Well now. So she can summon a familiar so large and powerful merely by tearing off a bit of her hair and blowing on it...? )
@@ -12714,7 +12714,7 @@ Prince of Lan Ling would usually be quite a formidable foe, but luckily for you,
 **Prince of Lan Ling:**
 Silence, fox woman! You know nothing about her! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jing Ke:**
 Akuta keeps using Command Spells like there's no tomorrow. This girl is deadly serious about finishing us off! 
@@ -12898,7 +12898,7 @@ Well, now what? You're up against a True Ancestor who just devoured an entire He
  
 ## Section 12: Travellers of the Century 
 
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jing Ke:**
 Khh...How can she attack with such power so quickly!? She should have run out of magical energy ages ago! 
@@ -13235,55 +13235,55 @@ You said my inability to die made me unclean. That my inability to age made me a
 **Narration:**
 None of you listened to what I had to say. Once you decided I was a monster, you just kept treating me like one! 
  
-**? ? ? :**
+**???:**
 I understand you hate humans. I know you want nothing to do with us. 
  
-**? ? ? :**
+**???:**
 But no matter how much you may wish it were otherwise, humans will never truly leave you alone. 
  
-**? ? ? :**
+**???:**
 Once they learn you exist, Executors will come from far and wide to hunt you down. 
  
-**? ? ? :**
+**???:**
 I cannot do anything to change that fact. As such, I cannot apologize on behalf of humanity. 
  
-**? ? ? :**
+**???:**
 All I can do is give you an outlet for your resentment. To keep my head bowed, no matter what manner of abuse you heap upon it. 
  
-**? ? ? :**
+**???:**
 ...It is with that in mind that I would like to make you a proposal, even if you think me shameless for doing so. 
  
-**? ? ? :**
+**???:**
 If you wish to obtain peace and quiet, your only choice is to move yourself somewhere outside the bounds of human activity. 
  
-**? ? ? :**
+**???:**
 Mankind has grown far too numerous. Indeed, this last century must have been a nightmare for you. 
  
-**? ? ? :**
+**???:**
 They excavate mountains, chop down forests, and greedily expand their territory with no end in sight. 
  
-**? ? ? :**
+**???:**
 You must've already realized that at this rate, there will no longer be any safe place left for you to hide. 
  
-**? ? ? :**
+**???:**
 So, speaking as one partially responsible for this state of affairs, I would like to offer you a deal. 
  
-**? ? ? :**
+**???:**
 There is a small, isolated community of mages in one of the most remote areas of this world. 
  
-**? ? ? :**
+**???:**
 Its residents are well aware that prying into the other community members' lives is taboo. 
  
-**? ? ? :**
+**???:**
 I think you would be right at home in Chaldea. 
  
-**? ? ? :**
+**???:**
 As long as you play along with the false identity I will prepare for you, no one will ever be the wiser. 
  
-**? ? ? :**
+**???:**
 In exchange, I would like you to assist me with my search&ndash;a quest of sorts to realize my family's greatest dream. 
  
-**? ? ? :**
+**???:**
 Oh yes, I almost forgot to introduce myself. My name is Marisbury Animusphere. 
  
 **Marisbury:**
@@ -13327,7 +13327,7 @@ My sole wish...My one, final request...
 **Narration:**
 ...is that I may tell my dearly departed that he no longer need weep for me...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Qin Shi Huang:**
 ...Awaken, fairy. The time has come to return to reality. 
@@ -13476,7 +13476,7 @@ Having two or more humans exist inevitably leads to quarreling. So this cannot b
 **Qin Shi Huang:**
 All they need concern themselves with is tending their land, filling their bellies, sleeping, and reproducing. What could be more peaceful? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Goredolf:**
 You've got her hands behind her back? Good! Make sure that wire is nice and tight! And don't forget the shackles! 
@@ -14489,7 +14489,7 @@ I am sorry to ask this of you,{(M) Mr. /(F) Ms. } Fujimaru...
 **Holmes:**
 ...but would you be so kind as to do something about that...thing, for Da Vinci's peace of mind and our safety, though...not necessarily in that order. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Red Hare:**
 Damn, this thing is flimsy! 
@@ -14525,9 +14525,9 @@ Aah! There's a whole bunch of them!
 I knew it. They're trying to overwhelm us with sheer numbers! 
  
 **Da Vinci:**
-Burn them! Kill them with fire! Somebody get me an Anti-World Noble Phantasm RIGHT NOW! ! ! 
+Burn them! Kill them with fire! Somebody get me an Anti-World Noble Phantasm RIGHT NOW!!! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 All of the hostiles have been eliminated...
@@ -14571,7 +14571,7 @@ Oh my...The emperor really means business!
 **Qin Liangyu:**
 (Are we...sure of that? )
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 The enemy have really started to go on the offensive, haven't they. 
@@ -14667,7 +14667,7 @@ Go on then, have at them!
 **Fou:**
 Fou, fooou! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 All hostiles eliminated. I think we should be safe for now. 
@@ -14753,7 +14753,7 @@ Very well, you have all been training your kung fu for just such an occasion. Go
 **Captain of the Guard:**
 We will, Your Imperial Majesty! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 Hmm...Hmm...
@@ -15043,7 +15043,7 @@ Yeah, let's carve a path right through them!
 **Mash:**
 Enemy hostiles confirmed. Get ready! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Narration:**
 ...The near future revealed itself before him. 
@@ -15294,7 +15294,7 @@ That's the royal guard of Xianyang, the elite soldiers assigned to protect the e
 **Koyanskaya:**
 Oh and, just so you know...They're a far, far cry from the supervisors you fought back on that farm. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We've defeated the enemy troops! 
@@ -15311,7 +15311,7 @@ Well sure, now that we're this close, it's no wonder they decided to pull out al
 **Da Vinci:**
 All right, one more gate, and we'll be inside Xianyang proper. Stay sharp, everyone! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 Damn, all this fighting's even startin' to wear me out. 
@@ -15518,7 +15518,7 @@ I will never forgive you for trying to rouse the people from that slumber!
 **Qin Liangyu:**
 Now repent for your selfish misdeeds as this white ash spear pierces your throats! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 The enemy's on the ropes! We're almost there! 
@@ -15606,7 +15606,7 @@ I don't need any other countries. I don't need any other version of myself.
 **Qin Liangyu:**
 Allow me to demonstrate for you that this other me you speak of and I are nothing alike at all! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Qin Liangyu:**
 ...Ahh, another mountain of corpses. Another ocean of blood...
@@ -16068,7 +16068,7 @@ And in our world, with all its conflict, any technology can be used as a weapon.
 For example...did you know it's possible to poison a computer just by communicating with it? 
  
 **Qin Shi Huang:**
-...Wha...! ! !? ? ? You...$#*& In that toy...^<&@u・$・ﾟ3ﾟⅢ...
+...Wha...!!!? ? ? You...$#*& In that toy...^<&@u・$・ﾟ3ﾟⅢ...
  
 **Jing Ke:**
 Yes. You obviously wanted to have a lofty discussion about worldviews and philosophy...but I'm really just here to kill you. 
@@ -16082,7 +16082,7 @@ fA◆...I...c*Nﾊ...remember...I$o...now...{ﾖyﾟI...Your......%/CA_P・ﾛ�
 **Jing Ke:**
 That's right! It's been a long two thousand and two hundred years, but I'm finally going to finish this! 
  
-**? ? ? :**
+**???:**
 ...Well done. Well done indeed. 
  
 **C：Jing Ke:**
@@ -16103,10 +16103,10 @@ Haha, I knew I never should've have pushed my luck quite so far...
 **C：Jing Ke:**
 Maybe it's just my destiny to always choke right at the very end...
  
-**? ? ? :**
+**???:**
 You are wrong there, Jing Ke. Your Heroic Spirit's true worth lies in dying with a smile, even as you fail at what you set out to accomplish. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mordred:**
 Hey, uh, you're sure the giant emperor up there isn't gonna just fall down and squish us, right? 
@@ -16258,7 +16258,7 @@ The last time I went back to Mt. Li, after I'd crushed the Aztecs, I didn't thin
 **Han Xin:**
 Now, let me see what sort of messed-up killing techniques you guys came up with in your disordered world where our empire never existed! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Han Xin:**
 Yes, yes, yes! This is awesome! I love a fight to the death! There's nothing better than war! 
@@ -16326,7 +16326,7 @@ That general isn't the only distinguished warrior here! That old guy's as tough 
 **Koyanskaya:**
 You'd better not hold back against him! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 (...Huff, huff, huff...)
@@ -16598,7 +16598,7 @@ Now that we face each other once again, I will use all the power at my disposal 
 **Mash:**
 ...Here they come, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nezha:**
 We win! Xiang Yu! You may. Be advanced. But you are also. Alone. 
@@ -17012,7 +17012,7 @@ Hehehe. Good. With that firm gaze and fighting spirit, you should make a foe wel
 **Qin Shi Huang:**
 Now, come at us with all your might, members of humanity's masses! We shall test you ourself! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Qin Shi Huang:**
 Was that...Has our knee truly touched the ground first? 
@@ -17159,7 +17159,7 @@ Just this once, I will fight not for the empire, but for the woman I love.
 **Xiang Yu:**
 Now, behold what Xiang Yu can do when he is pushed to his absolute limit! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Xiang Yu:**
 ...Alas, I could not make my wish come true...
@@ -17195,7 +17195,7 @@ Ah, Yu...My Yu...What will your fate...be...
 Ah...Aaaaaah...! 
  
 **Yu Mei-ren:**
-Lord Xiang Yu...Lord Xiang Yu...! Lord Xiang Yuuu! ! ! 
+Lord Xiang Yu...Lord Xiang Yu...! Lord Xiang Yuuu!!! 
  
 **Mash:**
 ...Akuta...
@@ -17287,7 +17287,7 @@ You may have been strong enough to defeat us,but this is still our territory.
 What's more, the fairy has shown great impertinence in taking our Fusang Tree. We will therefore gladly lend you our aid in battle! 
  
 **Yu Mei-ren:**
-Die! Die! ! ! I will wipe you from existence! ! ! 
+Die! Die!!! I will wipe you from existence!!! 
  
 **Yu Mei-ren:**
 All of my hatred, all of my curses, all my fury shall power the Tree of Emptiness! 
@@ -17365,10 +17365,10 @@ Be ready to continue fighting, Fujimaru! That thing cannot be allowed to remain 
 **Mash:**
 It's time to complete Order Lostbelt No. 3...our last battle in the Chinese Lostbelt! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Yu Mei-ren:**
-Aaahhh...Aaahhh...! ! ! 
+Aaahhh...Aaahhh...!!! 
  
 **Da Vinci:**
 Its magical energy signal is fading! We did it! 
@@ -17804,7 +17804,7 @@ Once you're all rested up, I'm going to have you head out on your next Order, Lo
 **Sion:**
 Moreover, the Captain will be joining in on your adventure into a dazzling realm of Indian mythology! 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Farmer A:**
 ...Hey, are you sure it's okay to leave the cave? 
@@ -17815,7 +17815,7 @@ Well, that nice doctor in the white outfit said we should be fine now.
 **Farmer B:**
 There was a real strange air about them, wasn't there? Kinda reminded me of those Chaldea people...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Boy:**
 “I start a song, and the moon begins to reel. I rise and dance, and the shadow moves grotesquely. ”

@@ -663,7 +663,7 @@ All right, good luck with your first battle in Agartha!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Hostiles eliminated. Well done, everyone! 
@@ -806,7 +806,7 @@ More beasts, hmm? It would appear we missed a few earlier.
 **d'Eon:**
 Although...it seems as though they're running away from something that frightened them...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Astolfo:**
 Okay, let's see where those beasties' tracks lead...I wonder if there'll be any people? 
@@ -844,7 +844,7 @@ Perhaps this man was unwittingly caught up in their stampede, and fled there for
 **Astolfo:**
 Let's wake him up and find out. Hellooo! Are you alive? 
  
-**? ? ? :**
+**???:**
 ...Nnn...
  
 **Astolfo:**
@@ -856,7 +856,7 @@ Wait! I'm getting a Servant reading! Master, that boy is a Servant!
 **Mash:**
 But...Huh? This Spirit Origin pattern...
  
-**? ? ? :**
+**???:**
 Nnn...Who are you guys? 
  
 ---
@@ -877,10 +877,10 @@ Are you okay?
 ---
 
  
-**? ? ? :**
+**???:**
 I...think I'm ok. Thank you. 
  
-**? ? ? :**
+**???:**
 Just the fact that you bothered to ask tells me you're good people. I'm glad to have met you. 
  
 **d'Eon:**
@@ -889,34 +889,34 @@ I was going to ask if you live down here...but if you are a Servant, it seems th
 **d'Eon:**
 So instead, let me ask you this: do you know much about this underground world? 
  
-**? ? ? :**
+**???:**
 No, I don't. All I know is that I was summoned here. 
  
-**? ? ? :**
+**???:**
 I know that I'm a Servant,but that's really about all I know. 
  
-**? ? ? :**
+**???:**
 Did you say “underground world”? That explains why I can't see the sky. 
  
-**? ? ? :**
+**???:**
 Still, I don't get why a fledgling like me would be summoned here in the first place. 
  
 **Astolfo:**
 Are you? A fledgling, I mean. 
  
-**? ? ? :**
+**???:**
 I'm afraid so. The whole reason you found me collapsed on the ground like that...
  
-**? ? ? :**
+**???:**
 ...is because I was helpless against those Demonic Beasts that came stampeding out of nowhere. 
  
-**? ? ? :**
+**???:**
 I wonder if those were the Demonic Boars they say every Celtic warrior should fight at least once in their lives. If so, I can die without any regrets now...
  
 **Mash:**
 Master...um...This is very hard to believe, but that boy is...well...
  
-**? ? ? :**
+**???:**
 Oh? Are these friends of yours druids? 
  
 **Da Vinci:**
@@ -928,10 +928,10 @@ Now, let me see this Spirit Origin pattern for myself...Oh? Oh!?
 **Da Vinci:**
 That IS interesting. I can see why Mash is at a loss. 
  
-**? ? ? :**
+**???:**
 You're all good people, so I believe I can trust you. 
  
-**? ? ? :**
+**???:**
 This unshakeable trust I feel must come from another, different version of me having met you before. 
  
 ---
@@ -944,29 +944,29 @@ Maybe.
 **Fujimaru 2:**
 Maybe? 
  
-**? ? ? :**
+**???:**
 I'm sure of it. 
  
 
 ---
 
  
-**? ? ? :**
+**???:**
 ...I apologize for asking this out of nowhere, but would you mind if I joined you? 
  
-**? ? ? :**
+**???:**
 To be honest, I still have a long way to go to become a full-fledged warrior. 
  
-**? ? ? :**
+**???:**
 I can't promise I'll be of much help, but I can promise I won't get in your way. 
  
-**? ? ? :**
+**???:**
 ...I believe the way my heart is racing right now means going with you is the right thing for me to do. 
  
-**? ? ? :**
+**???:**
 Of course, I'm aware that that alone won't merit your trust, so as a sign of good faith, I'll tell you my True Name. 
  
-**? ? ? :**
+**???:**
 I'm Fergus mac Róich, a member of the Ulster royal family. 
  
 ## Section 2: Contact 
@@ -1339,7 +1339,7 @@ Still, I should be able to deflect their attacks, so I can at least protect Fuji
 **Astolfo:**
 Oooh! So, you don't know how to handle them, right? No problem! d'Eon and I got this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 No sign of hostile reinforcements. The battle is over. 
@@ -1690,7 +1690,7 @@ Come on, let's do this thing! If we lose, it's curtains&ndash;I mean, chains for
 **Astolfo:**
 Course, knowing me, I bet I'd look super good in chains! But let's not find out! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **d'Eon:**
 Well, that takes care of that. 
@@ -1704,7 +1704,7 @@ You still have hostiles in your area. Please stay alert and&ndash;
 **Mash:**
 W-wait! This reading! 
  
-**? ? ? :**
+**???:**
 ...What is all this commotion? 
  
 **Amazon:**
@@ -1725,13 +1725,13 @@ Fou! Fooou!
 **Amazon:**
 Your Majesty, I&ndash;
  
-**? ? ? :**
+**???:**
 Enough. I am no fool. 
  
-**? ? ? :**
+**???:**
 I can see for myself that more rabble have come to taint our bravery, our honor. 
  
-**? ? ? :**
+**???:**
 You there. Who are you? 
  
 ---
@@ -1742,13 +1742,13 @@ I'm Fujimaru.
 ---
 
  
-**? ? ? :**
+**???:**
 Oho? I applaud your candor. 
  
-**? ? ? :**
+**???:**
 Then I would have you tell me who sent you and where you came from. 
  
-**? ? ? :**
+**???:**
 The decadent water city? The dazzling city of trash? Or are you with that band of stray dogs that have been yapping so ceaselessly of late? 
  
 ---
@@ -1760,7 +1760,7 @@ The decadent water city? The dazzling city of trash? Or are you with that band o
 ---
 
  
-**? ? ? :**
+**???:**
 You dare refuse to answer a queen!? 
  
 **Astolfo:**
@@ -1775,31 +1775,31 @@ She is clearly accustomed to standing above others and issuing commands. She's n
 **Fergus:**
 So this is a queen! She may not look the part, but even a young oaf like me can sense her regal bearing! 
  
-**? ? ? :**
+**???:**
 Don't look the part? Of course not. That is precisely why I appear this way. 
  
 **Fergus:**
 ...? 
  
-**? ? ? :**
+**???:**
 No matter. Who you are is of no consequence. My task remains the same. 
  
-**? ? ? :**
+**???:**
 You must pay for this humiliation. You WILL pay for this humiliation! 
  
-**? ? ? :**
+**???:**
 You rabble are impudent but fortunate, and yet so terribly unlucky. 
  
-**? ? ? :**
+**???:**
 Rejoice, for I shall show you your place with mine own hands. 
  
-**? ? ? :**
+**???:**
 You can regale Hades with the tale of your bravery once I have sent you to the underworld! 
  
 **Mash:**
 Wha...! The enemy Servant is about to attack! Watch out for the Amazons she's brought with her, too! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **d'Eon:**
 Wh-what a vicious weapon! All we can do is try to avoid it! 
@@ -1927,16 +1927,16 @@ It's him! He's just appeared in the neighboring town!
 ...! I see. That means...Then...
  
 **Berserker:**
-I'll kill him! Killhimkillhim! KILL HIM! KIIILL HIIIM! ! ! 
+I'll kill him! Killhimkillhim! KILL HIM! KIIILL HIIIM!!! 
  
 **d'Eon:**
 !? 
  
 **Berserker:**
-At last! I'll kill him! I'll finally kill him! Without fail! Again and again! I'll smash him, crush him, squash him, break him, strangle him! I'LL RIP HIM APART! ! ! 
+At last! I'll kill him! I'll finally kill him! Without fail! Again and again! I'll smash him, crush him, squash him, break him, strangle him! I'LL RIP HIM APART!!! 
  
 **Berserker:**
-...Let's go. You'll see! I'm coming to kill you now, now, NOW! ! ! 
+...Let's go. You'll see! I'm coming to kill you now, now, NOW!!! 
  
 **Amazon:**
 Y-your Majesty! Wait! What do we do about them!? 
@@ -1956,7 +1956,7 @@ I don't know, but we now have far fewer foes to deal with, and no Servant. Now's
 **Mash:**
 I'll do everything I can to help you out! Please make it through this, everyone! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Astolfo:**
 Weeell, they're not super tough! Buuut there's a crapload of 'em, even though half left! 
@@ -1973,7 +1973,7 @@ I might be the king of Ulster someday. I refuse to be branded a coward or weakli
 **Fergus:**
 I'll never give up. I'll keep on training, and I'll keep making progress, no matter what! 
  
-**? ? ? :**
+**???:**
 Aha! I thought I heard someone talking sense! 
  
 **Mash:**
@@ -1982,7 +1982,7 @@ I'm picking up a new reading in your vicinity! Please be on your guard, Master!
 **d'Eon:**
 ...? What's that sound!? 
  
-**? ? ? :**
+**???:**
 Don't worry men, we outnumber them! Attack! 
  
 **Men:**
@@ -1991,10 +1991,10 @@ Yeaaah!
 **Amazon:**
 It's the Resistance! Of all the times for them to show up! 
  
-**? ? ? :**
+**???:**
 You guys still alive? 
  
-**? ? ? :**
+**???:**
 If you are, then don't give up. As long as you don't, most things'll work out in some form or another! 
  
 **Astolfo:**
@@ -2012,7 +2012,7 @@ Phew, finally.
 **Mash:**
 Of course, there's now the matter of this mysterious group of men. 
  
-**? ? ? :**
+**???:**
 Hm? That sounded like the voice of a pretty young girl to me. Long-range transmission, is it? Huh...Handy. 
  
 ---
@@ -2020,13 +2020,13 @@ Hm? That sounded like the voice of a pretty young girl to me. Long-range transmi
 **Fujimaru 1:**
 Thanks for saving us. 
  
-**? ? ? :**
+**???:**
 Ah, don't worry about it. We had business here anyway. 
  
-**? ? ? :**
+**???:**
 The only reason you all got what you wanted is because you didn't give up on getting it. 
  
-**? ? ? :**
+**???:**
 No point in pretending otherwise. You ought to be proud about what you fought for. 
  
 **Mash:**
@@ -2045,7 +2045,7 @@ Who are you guys?
 **Mash:**
 An Amazon referred to you as the Resistance...
  
-**? ? ? :**
+**???:**
 We never set out to call ourselves that, but if that's what they're calling us, I guess that's what we are. 
  
 **d'Eon:**
@@ -2059,10 +2059,10 @@ So you're fighting back against the Amazons?
 ---
 
  
-**? ? ? :**
+**???:**
 It's not just them. This whole place has become extremely unfriendly to men in general. 
  
-**? ? ? :**
+**???:**
 If we're fighting back against anything, I guess it's the very status quo of this land. 
  
 **Mash:**
@@ -2071,13 +2071,13 @@ It seems we may have finally met someone who can tell us more about what's going
 **Mash:**
 Master, I suggest we start by asking this man some questions. 
  
-**? ? ? :**
+**???:**
 Fine by me, but let's change venues first. 
  
-**? ? ? :**
+**???:**
 Neutral zone or not, this is still Amazon territory. We'd best escape before that terrifying queen of theirs shows. 
  
-**? ? ? :**
+**???:**
 Besides, we need to tend to the men we just freed. Come on, let's head back to our hideout. 
  
 ---
@@ -2094,7 +2094,7 @@ Me too. I must admit, I love that it sounds like a place filled with meat and li
 **Fujimaru 2:**
 Where is this hideout? 
  
-**? ? ? :**
+**???:**
 What, you don't think I'm actually gonna tell you that smack in the middle of enemy territory, do you? Don't worry, I'll show you the way. 
  
 
@@ -2107,28 +2107,28 @@ Very well then, we'll be glad to take you up on your invitation.
 **Mash:**
 But before we do, I have to make sure: you're a Servant too, right? 
  
-**? ? ? :**
+**???:**
 Yeah. Rider. All I know is that I was somehow summoned here. I'm afraid I can't tell you my True Name. 
  
 **Mash:**
 ...It's all right. I understand why you'd be wary of us, since we've only just met. 
  
-**? ? ? :**
+**???:**
 Oh, no, it's not that at all. I mean I really CAN'T tell you what it is. 
  
-**? ? ? :**
+**???:**
 For some reason, I don't have a single memory of my life. 
  
 **Mash:**
 !? 
  
-**? ? ? :**
+**???:**
 Naturally, I can't use my Noble Phantasm either. All I know is my class. 
  
-**? ? ? :**
+**???:**
 So just go ahead and call me Rider. 
  
-**? ? ? :**
+**???:**
 Rider of the Resistance, if you like. That'll do for now. 
  
 ## Section 4: Resistance 
@@ -2377,7 +2377,7 @@ I agree. I believe we should do all we can to put these people in our debt.
 **d'Eon:**
 Let's go, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 That takes care of that. 
@@ -2742,7 +2742,7 @@ Fooou!
 **Astolfo:**
 You bet! Come on Master, let's go help them! We can get back to talkin' after we're done! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Astolfo:**
 (Yaaawn) ...
@@ -3009,7 +3009,7 @@ Good, I was just getting tired of this walk. Let's go help, Master!
 **Fergus:**
 I'll come too. This should make for good training! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 Okay, now that we've studied the new information, and you've had some rest, let's discuss our next move. 
@@ -3159,7 +3159,7 @@ But you're no use as a slave if you attack us. Shame. That one could've been a d
 Oh well, I guess it's all right, since there's plenty of others to take his place! 
  
 **G：Resistance Man C:**
-Y-you&ndash;hrrng! ! ! 
+Y-you&ndash;hrrng!!! 
  
 **Fergus:**
 They're slaughtering them! This is horrible! 
@@ -3237,7 +3237,7 @@ Don't have to tell me twice. It may not be worth much, but these cretins stole m
 **Rider:**
 Their crimes are past forgiveness, but they can pay with their lives...for a start! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rider:**
 Looks like they ambushed us from a waterway we hadn't discovered. Guess our scouting wasn't sufficient. 
@@ -3357,10 +3357,10 @@ I-I'm perfectly okay not saying anything like that! And no, I DON'T know what �
 **Man:**
 (Huff, huff) ...
  
-**? ? ? :**
+**???:**
 ...Haha. You were quite good. 
  
-**? ? ? :**
+**???:**
 No other man I've called up here has satisfied me like you have. They either tired out far too quickly, or completely lacked technique. 
  
 **Man:**
@@ -3378,28 +3378,28 @@ R-really? I-I'm honored...
 **Man:**
 (First, I'll use this woman to stay alive, then I'll&ndash;)
  
-**? ? ? :**
+**???:**
 You've treated me to such wonderful sights this evening. Your lovely face as you latched on to my breasts like a baby. 
  
-**? ? ? :**
+**???:**
 Your lovely face as you closed your eyes and desperately pleaded for your own sweet release...
  
-**? ? ? :**
+**???:**
 Your handsome face as you barely kept from screaming in pain...
  
-**? ? ? :**
+**???:**
 Thank you. I had a wonderful time. This will be a lovely memory. 
  
 **Man:**
 N-not at all. I'm the one who should be thanking you. Please feel free to call on me again whenever&ndash;
  
-**? ? ? :**
+**???:**
 There's just one last thing I'd like to see from you before we call it a night. 
  
-**? ? ? :**
+**???:**
 Do you know what that is? 
  
-**? ? ? :**
+**???:**
 The look of despair on your face as, even after all I've just told you, I end your life. 
  
 **Man:**
@@ -3408,40 +3408,40 @@ The look of despair on your face as, even after all I've just told you, I end yo
 **Man:**
 A-aaahhh! 
  
-**? ? ? :**
+**???:**
 Ahh...What a lovely face that last one was. Oooh, it's getting me excited all over again. 
  
-**? ? ? :**
+**???:**
 Do you know what my only two teachings are? 
  
-**? ? ? :**
+**???:**
 Take whatever you want, whenever you want it...and do not want what you have taken. 
  
-**? ? ? :**
+**???:**
 Now that I own your body and your last, wonderful expression, I no longer need them. 
  
-**? ? ? :**
+**???:**
 ...Ahh. 
  
-**? ? ? :**
+**???:**
 I love how easy it is to dispose of things here in this city. All you have to do is consign whatever you no longer need to the waves. 
  
-**? ? ? :**
+**???:**
 Now then...I wonder what sort of man I'll take to bed next. 
  
-**? ? ? :**
+**???:**
 There's no shortage of possibilities or replacements. I'll always get to try someone new. 
  
-**? ? ? :**
+**???:**
 After all, you can't take what you already own. 
  
-**? ? ? :**
+**???:**
 So I'll keep on taking everything I don't have. Everything I desire. 
  
-**? ? ? :**
+**???:**
 And when I'm done, I'll throw it all away. What a wonderful way to live...
  
-**? ? ? :**
+**???:**
 Hehehe...
  
 **Astolfo:**
@@ -3679,7 +3679,7 @@ But I also can't turn my back on the men they're abusing like this. I may not un
 **d'Eon:**
 Then it's decided. Come! We shall finish this quickly! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **d'Eon:**
 Well done. We beat them before they could call for help, and luckily it seems no one noticed the scuffle. 
@@ -3711,7 +3711,7 @@ Maybe next time our habits should include clearing every room?
 **Rider:**
 You can argue about that later. Right now we need to find a place to hide, or we're done for! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fou:**
 Fo...fo...fou...(Pant, pant)
@@ -3847,7 +3847,7 @@ Oh, yeah, good point. What with the kid watching and all.
 **Rider:**
 Heh, that's going to be a hassle all right...But okay. After all, if you're going to go after something, you've got to have convictions! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Girl:**
 Come on, this way! First you turn here, then you go through this hole...
@@ -4363,7 +4363,7 @@ Course she's got a buncha maids waiting in the wings!
 **d'Eon:**
 We need to take care of them quickly, before any other pirates show up! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Astolfo:**
 Yes! We almost got 'em all! Keep it up! 
@@ -4511,7 +4511,7 @@ No matter how hard things may seem...
 **Rider:**
 Hell, not knowing when to give up is the best weapon I've got! So come on, {(M) boy /(F) lady}! Time to hold our ground! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dahut:**
 Khh...! 
@@ -4674,7 +4674,7 @@ You and those silly Amazons are both the same. Attacking neighboring villages, e
 Why waste such energy to destroy an enemy state when a single key will suffice nicely? Hah! 
  
 **Dahut:**
-Assassin! ! ! 
+Assassin!!! 
  
 **Dahut:**
 Whaaaaaahhh! 
@@ -4949,7 +4949,7 @@ Just forget about this natural disaster thing for now. It's unlikely we'll be ru
 I see what Rider means about there being threats everywhere. 
  
 **Astolfo:**
-Heeey, at least they didn't surprise us! That proves Mash is sure staying alert! Way to go, Mash! ! ! 
+Heeey, at least they didn't surprise us! That proves Mash is sure staying alert! Way to go, Mash!!! 
  
 **Astolfo:**
 Master! I think Mash deserves a double-super-extra helping of praise while we're preparing to fight! 
@@ -4973,7 +4973,7 @@ Um, I really much appreciate the sentiment, Senpai...
 **Mash:**
 ...but I feel terrible about getting praised like this while you're busy giving orders for battle! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 And done. You know, that might have been a nice warmup for what's to come. 
@@ -5739,7 +5739,7 @@ There's some heavy breathing approaching you now at what appears to be running s
 **Fergus:**
 Heavy breathing!? C-could it be a half-naked woman after all...!? (Gulp)
  
-**? ? ? :**
+**???:**
 (Pant, pant, pant)
  
 **Mash:**
@@ -5751,7 +5751,7 @@ Thank goodness...Yes, I'm genuinely glad that's what it turned out to be! Though
 **Mash:**
 Be careful. It appears to be hungry! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fergus:**
 Phew...Glad that's over with. 
@@ -5829,7 +5829,7 @@ Oh god, what am I going to do? They're coming. They're coming with their billhoo
 **Man:**
 The merciless executioners will be here soon! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Astolfo:**
 That's something kinda funny about this city, don'tcha think? 
@@ -6130,7 +6130,7 @@ D-do you have to say things like that when I'm trying to steel myself for battle
 **Torturer:**
 So, you refuse to swear fealty to Her Highness! Your punishment shall now be far more severe! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Man:**
 Y-you actually beat the Torturer? You guys are amazing! 
@@ -6467,7 +6467,7 @@ Once you are all dead, the names “Sailor Paladin” and “Maid Knight” will
 **d'Eon:**
 Just to be QUITE clear, those are NOT our real names! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fou:**
 Fou, fou! 
@@ -6510,7 +6510,7 @@ Maybe that means this whole city could be a threat, kinda like Ys.
 **Astolfo:**
 Anyway, at least we managed to rescue this guy from being executed. Now we just need to find somewhere safe and catch our breath! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Astolfo:**
 Okay...I don't see any enemies nearby. I think we're good for now! 
@@ -6733,7 +6733,7 @@ There's no telling when they might come out.
 Okay, he said it was behind the scaffold, right? Gotta be quiet now...
  
 **Astolfo:**
-Y'know, I am pretty sure I've said it before, but this place SUCKS for covert ops! ! ! 
+Y'know, I am pretty sure I've said it before, but this place SUCKS for covert ops!!! 
  
 **Astolfo:**
 There's sooo much light! It's impossible to sneak through the shado&ndash;uh, is it just me, or is it getting even brighter around here? 
@@ -6930,7 +6930,7 @@ Fou!
 **Mash:**
 Right. Let's go, Master! The Assassin is almost in reach! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fergus:**
 These must be your personal chambers. 
@@ -7227,7 +7227,7 @@ We may still have many interlopers to deal with...but we are also finally within
 **Mash:**
 You're up against an Assassin and a Caster! We still don't know their True Names, so please, be careful! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Assassin:**
 You're quite good. More's the pity, really. Why do you not understand? 
@@ -7479,7 +7479,7 @@ I can't stand cats. I shall cut off all your limbs myself and stuff you into a b
 **Mash:**
 Fou being a cat is debatable, but that doesn't matter! I'll never let you do that. Let's beat her, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Resistance Boy:**
 Do you see anything yet, Rider!? 
@@ -7527,7 +7527,7 @@ I know. I've already heard the report.
 No, not that! There! Don't you hear it!? 
  
 **Narration:**
-&mdash;![6-light](https://i.imgur.com/fV3vWR2.png#gh-dark-mode-only) ![6-dark](https://i.imgur.com/DzxuPPM.png#gh-light-mode-only)&ndash;
+&mdash;![6-light](https://i.imgur.com/fV3vWR2.png)&ndash;
  
 **Rider:**
 Oh, come on. Now we have to deal with that too!? 
@@ -7541,7 +7541,7 @@ Wh-what do we do now, Rider?
 **Rider:**
 You need to ask? We get ready to head in there the moment we see the signal. Now hurry! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Caster:**
 ...
@@ -7649,9 +7649,9 @@ Thus, not even the heavens themselves can force me to kneel in defeat!
 **Rider:**
 ...Crap, he's charging straight in there. This isn't going to be pretty. 
  
-**? ? ? :**
+**???:**
  
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&ndash;! ! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;!! 
  
 **d'Eon:**
 What the!? 
@@ -7662,8 +7662,8 @@ Hoooly s&ndash;What just crashed through the ceiling!?
 **Fergus:**
 Look! 
  
-**? ? ? :**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! ! 
+**???:**
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!! 
  
 **Mash:**
 Spirit Origin pattern match confirmed. I still can't believe it! 
@@ -7874,7 +7874,7 @@ The Queen of the Amazons!
 Dammit, of all the rotten luck...! 
  
 **H：? ? ? :**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!! 
  
 **Astolfo:**
 Aw, man. We've got Berserkers for days here! And the big guy in the castle sounds like he's coming out! 
@@ -7895,7 +7895,7 @@ Here she comes! She's so fast!
 Ngh! Don't underestimate me! My sword is sworn to defend and protect! It cannot be broken through brute force alo&ndash;hm...? 
  
 **Berserker:**
-...les...! I'll kill him, I'll kill him, I'll kill you! ! ! 
+...les...! I'll kill him, I'll kill him, I'll kill you!!! 
  
 **Astolfo:**
 Sh-she just blew right past us! 
@@ -7951,10 +7951,10 @@ We were all still running away, desperately trying to put some distance between 
 **Resistance Boy:**
 There...I could see the largest building in the whole city, glowing impossibly bright as flames consumed it. 
  
-**? ? ? :**
-...![7-light](https://i.imgur.com/vEW3I1I.png#gh-dark-mode-only)  ![7-dark](https://i.imgur.com/2TitaAJ.png#gh-light-mode-only)...! 
+**???:**
+...![7-light](https://i.imgur.com/vEW3I1I.png)...! 
  
-**? ? ? :**
+**???:**
 ...AAAHHH! 
  
 **Resistance Boy:**
@@ -8371,7 +8371,7 @@ But, please do keep in mind that I usually try to avoid combat as much as possib
 **Scheherazade:**
 After all...if you lose in battle, you also lose your life...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rider:**
 Hmm. All right, Scheherazade, for the moment, I'll admit that you make a good tactician. 
@@ -8661,7 +8661,7 @@ Well now...Looks like we made contact sooner than we expected.
 **Rider:**
 We can't have them alerting their comrades. This should make for a good warm-up before the main event! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Astolfo:**
 That was easy-peasy lemon-squeezy! 
@@ -8853,7 +8853,7 @@ Right now...I'll just have to do the best I can!
 **Scheherazade:**
 ...I'll help however I can to ensure I don't die, but I don't know how much use I will be! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Berserker:**
 Well well. You are certainly powerful for such a motley group. 
@@ -8912,16 +8912,16 @@ Whatever our enemy, we are to relish the opportunity they provide. Thus, as your
 ...Roar. 
  
 **Berserker:**
-&ndash;! ! ! 
+&ndash;!!! 
  
 **Amazon:**
 Follow Her Majesty! &ndash;! 
  
 **Amazon:**
-Louder! &ndash;! ! 
+Louder! &ndash;!! 
  
 **Amazon:**
-&ndash;! ! ! 
+&ndash;!!! 
  
 ---
 
@@ -8943,7 +8943,7 @@ What the hell are they doing!?
 Could this be...the Amazons' war cry...!? 
  
 **Scheherazade:**
-This is bad. Be careful! ! ! 
+This is bad. Be careful!!! 
  
 **Resistance:**
 Aaagh! 
@@ -9000,7 +9000,7 @@ Right on! We gotta focus on breaking through their defenses!
 **Mash:**
 I'll look for the weakest link in their surrounding formation! Hang in there, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...There! I see it! 
@@ -9483,7 +9483,7 @@ I think that can be arranged. What sort of story would you like to hear next tim
 **Fergus:**
 ...Do you happen to know any about, say, princes who grow up to become great kings? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Astolfo:**
 Master, wake up! We've got serious trouble! 
@@ -9503,7 +9503,7 @@ TIL...Astolfo is soft and fluffy...
 Fou fou? 
  
 **Astolfo:**
-Master this is not the time to get all cuddly with Fou! ! ! 
+Master this is not the time to get all cuddly with Fou!!! 
  
 
 ---
@@ -9787,7 +9787,7 @@ It is a role that only you can play, precisely because of who you are.
 **Scheherazade:**
 And it is the key to this operation...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Rider:**
 ...Hah! This feels right! So incredibly right! 
@@ -9975,7 +9975,7 @@ At any rate, now is not the time to hold back! We must fight with all our streng
 **Scheherazade:**
 Right...Very well then, I shall do my best. At least enough to ensure that I don't die. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Astolfo:**
 All right, we made it through! 
@@ -10016,7 +10016,7 @@ No surprise there. The Amazons probably built a few of them to ward off the Ys p
 **Rider:**
 But I bet they didn't count on guys like us charging in at full steam! Now: RAMMING SPEED! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **d'Eon:**
 ...! Master, look! There, beyond those trees! 
@@ -10058,12 +10058,12 @@ Astolfo, you need to stop the ship immediately! Hold on to me, Master...He's abo
 No...! Why now...of all times!? 
  
 **G：? ? ? :**
-![6-light](https://i.imgur.com/fV3vWR2.png#gh-dark-mode-only) ![6-dark](https://i.imgur.com/DzxuPPM.png#gh-light-mode-only)&ndash;![7-light](https://i.imgur.com/vEW3I1I.png#gh-dark-mode-only)  ![7-dark](https://i.imgur.com/2TitaAJ.png#gh-light-mode-only)&ndash;! ! 
+![6-light](https://i.imgur.com/fV3vWR2.png)&ndash;![7-light](https://i.imgur.com/vEW3I1I.png)&ndash;!! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **A：? ? ? :**
-![8-light](https://i.imgur.com/N6jHIhJ.png#gh-dark-mode-only)  ![8-dark](https://i.imgur.com/AuKH7AC.png#gh-light-mode-only)&ndash;! ! 
+![8-light](https://i.imgur.com/N6jHIhJ.png)&ndash;!! 
  
 ---
 
@@ -10089,7 +10089,7 @@ Regardless of why he's here...he is far too dangerous. We must avoid fighting hi
 I'm afraid it doesn't look like we have a choice. He seems dead set on fighting us. 
  
 **Megalos:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&ndash;! ! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;!! 
  
 **Rider:**
 This is our last chance to reach El Dorado! We can't fall back, and we can't give up! 
@@ -10103,10 +10103,10 @@ Especially one with so many Servants aboard!
 **Rider:**
 Get ready! We're about to fight our way through the biggest storm of our lives! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Megalos:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!! 
  
 ---
 
@@ -10190,7 +10190,7 @@ I'm picking up a unique magical energy pattern! This is...Rider's Noble Phantasm
 Fou!? 
  
 **Megalos:**
-&ndash;![7-light](https://i.imgur.com/vEW3I1I.png#gh-dark-mode-only)  ![7-dark](https://i.imgur.com/2TitaAJ.png#gh-light-mode-only)&ndash;! 
+&ndash;![7-light](https://i.imgur.com/vEW3I1I.png)&ndash;! 
  
 **Rider:**
 I don't care what sort of hero you used to be. As long as you stand in my way, you're no more than just another storm to me. 
@@ -10214,7 +10214,7 @@ Whoa. There's another ship here and it's coming right up to us! It just sent our
 That must be Rider's Noble Phantasm! It's holding Megalos in place! 
  
 **Megalos:**
-&ndash;![6-light](https://i.imgur.com/fV3vWR2.png#gh-dark-mode-only) ![6-dark](https://i.imgur.com/DzxuPPM.png#gh-light-mode-only), ![6-light](https://i.imgur.com/fV3vWR2.png#gh-dark-mode-only) ![6-dark](https://i.imgur.com/DzxuPPM.png#gh-light-mode-only), ![7-light](https://i.imgur.com/vEW3I1I.png#gh-dark-mode-only)  ![7-dark](https://i.imgur.com/2TitaAJ.png#gh-light-mode-only)&ndash;! 
+&ndash;![6-light](https://i.imgur.com/fV3vWR2.png), ![7-light](https://i.imgur.com/vEW3I1I.png)&ndash;! 
  
 **Da Vinci:**
 “Santa María Drop Anchor”? I knew it. So that's who he is...
@@ -10264,10 +10264,10 @@ I do have reservations about cutting down an opponent bound in chains...But I su
 **Da Vinci:**
 Be careful, everyone! Just because he's tied up doesn't mean he's not still a threat! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Megalos:**
-![6-light](https://i.imgur.com/fV3vWR2.png#gh-dark-mode-only) ![6-dark](https://i.imgur.com/DzxuPPM.png#gh-light-mode-only), ![8-light](https://i.imgur.com/N6jHIhJ.png#gh-dark-mode-only)  ![8-dark](https://i.imgur.com/AuKH7AC.png#gh-light-mode-only)&ndash;! 
+![6-light](https://i.imgur.com/fV3vWR2.png), ![8-light](https://i.imgur.com/N6jHIhJ.png)&ndash;! 
  
 **Columbus:**
 Dammit. I can't believe he's still this strong even tied up! 
@@ -10342,7 +10342,7 @@ No, wait! She's not going for us! I think she's going for Megalos!
 I know your scent! It's you! I'll kill you! That's why I...Raaahhh! 
  
 **Berserker:**
-I'll kill you! I'LL KILL YOU! ! ! I swear I'LL KILL YOU...ACHILLES! ! ! 
+I'll kill you! I'LL KILL YOU!!! I swear I'LL KILL YOU...ACHILLES!!! 
  
 **Astolfo:**
 Huh!? Dunno why, but I'm pretty sure she's got the wrong guy...
@@ -10437,11 +10437,11 @@ Don't rile her up! Shit...looks like I was too late...
 So...you who would stop me from killing Achilles are also Achilles. Then I shall kill ALL OF YOU! 
  
 **E：Penthesilea:**
-Aah...aaahhh! ![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! 
+Aah...aaahhh!![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
  
 **Megalos:**
  
-![5-light](https://i.imgur.com/RIXDSDj.png#gh-dark-mode-only) ![5-dark](https://i.imgur.com/rLfeW8O.png#gh-light-mode-only), ![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&ndash;! 
+![5-light](https://i.imgur.com/RIXDSDj.png)&ndash;! 
  
 **Columbus:**
 Oh no! I can't hold him any longer! 
@@ -10461,7 +10461,7 @@ Focus on survival first and foremost! Be careful, Master. This is going to be a 
 **Scheherazade:**
 I couldn't agree more. Ah, I wish I could run away...I don't think dogeza will work on them...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Columbus:**
 Dammit! I'm spent! 
@@ -10473,10 +10473,10 @@ Uh oh. Captain, the ship can't take any more of this!
 ...! They're coming from above! Master, this way! 
  
 **Penthesilea:**
-![8-light](https://i.imgur.com/N6jHIhJ.png#gh-dark-mode-only)  ![8-dark](https://i.imgur.com/AuKH7AC.png#gh-light-mode-only)&ndash;! 
+![8-light](https://i.imgur.com/N6jHIhJ.png)&ndash;! 
  
 **Megalos:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)! 
+![2-light](https://i.imgur.com/7VYgcEB.png)! 
  
 **Mash:**
 Master...Master! Please, hang in there, Master...! 
@@ -10729,7 +10729,7 @@ No need for that.
 **d'Eon:**
 Ah! You...!? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **A：? ? ? :**
 No need for that. 
@@ -10821,7 +10821,7 @@ Looks like she's finally showing her true colors! Still...
 **Astolfo:**
 Yup, she's nuts! If she's gonna attack, we'll have to fight back! Give us your orders, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **A：Dahut:**
 Khh...! 
@@ -10916,7 +10916,7 @@ It's all right...I was watching Dahut use it, and I don't think opening it will 
 **Scheherazade:**
 In fact, I believe this Tamatebako may just be exactly what we need...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Scheherazade:**
 Well, I have read many books...While I am unsure of the details, I believe I have an idea of what this place is. 
@@ -11299,7 +11299,7 @@ Once we return...
 That's right. Once we return, that's when we men who don't know when to give up strike back! 
  
 **Megalos:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;! ! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;!!! 
  
 ## Section 13: Decisive Battle in El Dorado 
  
@@ -11405,7 +11405,7 @@ Yes, let's start with that big fellow who appears to have joined your side.
 I'm impressed. How did you pull that off? 
  
 **Megalos:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;! ! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;!!! 
  
 ---
 
@@ -11530,13 +11530,13 @@ Listen once more to this fearsome war cry.
 The war cry that caused the Achaeans to throw down their swords and beg for their lives in terror! 
  
 **Penthesilea:**
-RAAAHHH! ! ! ![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! 
+RAAAHHH!!!![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
  
 **Amazon:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
  
 **Amazon's Voice:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
  
 **Scheherazade:**
 These voices...I can hear still them even from this distance! 
@@ -11631,10 +11631,10 @@ So let's trust them, and do our best to do what we need to get done here, Master
 **Scheherazade:**
 (...to hold back so many Amazons all on their own!? )
  
-**--ARROW--:**
+**--ARROW--**
  
 **Amazon:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&ndash;! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;! 
  
 **Astolfo:**
 That's a lotta yelling. Yep. 
@@ -11709,7 +11709,7 @@ It's just the two of us and one biiig audience, so let's give 'em one helluva sh
 Indeed...Now is the time to open the Tamatebako! Our wish: to make use of our secret Noble Phantasms! 
  
 **Amazon:**
-&ndash;![6-light](https://i.imgur.com/fV3vWR2.png#gh-dark-mode-only) ![6-dark](https://i.imgur.com/DzxuPPM.png#gh-light-mode-only)&ndash;! ...!? 
+&ndash;![6-light](https://i.imgur.com/fV3vWR2.png)&ndash;! ...!? 
  
 **Astolfo:**
 Ugh, so much shouting. It's too bad they don't use a battle song, especially one on par with the red Saber or the dragon maiden. 
@@ -11724,7 +11724,7 @@ I got this magical instrument from Logistilla, a witch I know! Normally I can't 
 I hope you all enjoy it as much as those food-stealing harpies did. 
  
 **Astolfo:**
-All right then...time to go big, or go home! La Black Luna! ! ! 
+All right then...time to go big, or go home! La Black Luna!!! 
  
 **d'Eon:**
 S-so incredibly loud! If I hadn't prepared myself,I shudder to think of what might have happened to me. 
@@ -11733,7 +11733,7 @@ S-so incredibly loud! If I hadn't prepared myself,I shudder to think of what mig
 (Gasp) Good, that blew a lotta them away! Now let's see...
  
 **Amazon:**
-Ah...![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)...Huh? 
+Ah...![2-light](https://i.imgur.com/7VYgcEB.png)...Huh? 
  
 **Amazon:**
 What...? 
@@ -11848,7 +11848,7 @@ And who do you think she's going to start with? My guess is that she'll go strai
 Megalos! You're up! Your enemy is the queen of the Amazons before you! 
  
 **Megalos:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
  
 **Penthesilea:**
 Aah, ah...That voice. Achilles. That's the voice I will never permit to speak such tripe again. 
@@ -11860,7 +11860,7 @@ I still remember it all too clearly. I fought with all I had in our duel, only t
 And then, as I lay dying...you called me “beautiful! ”HOW DARE YOU!? 
  
 **Penthesilea:**
-Rrr...RAAAAAAHHH! ! ! ![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&ndash;! 
+Rrr...RAAAAAAHHH!!!![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;! 
  
 **Mash:**
 Penthesilea has gone berserk again! She appears to be responding to Megalos as he gears up for battle! 
@@ -11877,7 +11877,7 @@ Fortunately, you at least won't have to worry about her having support from the 
 **Mash:**
 It's time to put an end to this, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Penthesilea:**
 Khh...Curse...you...! 
@@ -11928,7 +11928,7 @@ I even took the form of my younger self so that, even should I lose, you would n
 She chose this immature form from her childhood to avoid hearing the same thing again. 
  
 **Megalos:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)...
+![1-light](https://i.imgur.com/XAqlQYL.png)...
  
 **Penthesilea:**
 I can...still fight...I can...still stand. Just you wait...Achilles! 
@@ -12332,12 +12332,12 @@ At last, this new New World is almost mine! I can't wait to drop my anchor!
 You're up, my big, beautiful slave! It's time to put that monstrous power of yours to good use! 
  
 **Megalos:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!! 
  
 **Mash:**
 Master...we can't let him win! Let's get him! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fergus:**
 Ghh...! 
@@ -12358,7 +12358,9 @@ On one island, I find a land of healthy indigenous people just waiting to be ens
 I can't wait to see what I'll find on this island! Santa Maria Drop Anchor! 
  
 **Megalos:**
-![8-light](https://i.imgur.com/N6jHIhJ.png#gh-dark-mode-only)  ![8-dark](https://i.imgur.com/AuKH7AC.png#gh-light-mode-only)&ndash;! 
+![8-light](https://i.imgur.com/N6jHIhJ.png)&ndash;! 
+
+![8-light](https://i.imgur.com/N6jHIhJ.png)&ndash;! 
  
 ---
 
@@ -12523,7 +12525,7 @@ Columbus! This world is NOT for you!
 **Fou:**
 Fou, fooou! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Megalos:**
 ...
@@ -13575,7 +13577,7 @@ Out of everyone here, you are the only one...
 **Scheherazade:**
 ...who will never have to die again once you are dead! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -13799,7 +13801,7 @@ Let's do this, Master! Let's show him how he's no different from any of the othe
 **Mash:**
 Our target is Phenex, the thirty-seventh Demon God Pillar. Please destroy him, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fergus:**
 Ghh...! 
@@ -13873,7 +13875,7 @@ There is nothing anyone can do to stop it! This is the final chapter for all of 
 **Scheherazade:**
 Hehe, hehehehe! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fergus:**
 Ghh...It looks like this is it. But...if I just disappeared now, I truly would be pathetic. 
@@ -14277,7 +14279,7 @@ Indeed. Laputa will not stop. It will only continue on its path towards the dest
 **Mash:**
 ...? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **G：? ? ? :**
 Indeed. Laputa will not stop. It will only continue on its path towards the destruction of fantasy. 
@@ -14445,7 +14447,7 @@ I have no love lost for the King of Demon Gods, but we can at least pay him the 
 **Da Vinci:**
 On behalf of Chaldea and all humanity, destroy the Demon God Phenex! Get him, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fergus:**
 Our attacks are landing...but we can't seem to kill him! 
@@ -14726,7 +14728,7 @@ This ends now!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The Demon God Pillar is slowing down! It's working! 
@@ -14767,7 +14769,7 @@ You should still find a way to smile! That exquisite body of yours is wasted if 
 ---
 
 **Fujimaru 1:**
-Fergus! ! ! 
+Fergus!!! 
 
 ---
 
@@ -14779,7 +14781,7 @@ Fergus! ! !
 
  
 **Fou:**
-Fooou! ! ! 
+Fooou!!! 
  
 **Fergus:**
 ...Wait, no, that's not right. Sorry, forget I said that. 
@@ -14948,7 +14950,7 @@ I...I'll die like this! But the concept I represent will end without dying!
 Somewhere, the concept of the phoenix will have a worthless, meaningless end where it dies countless times without rebirth! 
  
 **Demon God Phenex:**
-I'm melting I'm sinking it hurts it hurts to infinity hurry and give them to me you laggard I don't want to die hurry up hurry up it hurts AAAAAAGGGHHH! ! ! 
+I'm melting I'm sinking it hurts it hurts to infinity hurry and give them to me you laggard I don't want to die hurry up hurry up it hurts AAAAAAGGGHHH!!! 
  
 **Demon God Phenex:**
 How many times have I suffered the pain of death the fear of death it's not fair we're the only ones THE ONLY ONES! It's not fair it's not right I won't I won't I won't accept iiit! 

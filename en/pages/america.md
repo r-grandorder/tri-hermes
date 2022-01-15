@@ -264,7 +264,7 @@ Don't worry. The star is finally starting to show movement. It seems the Mage's 
 **Geronimo:**
 I hope...that this starlight is something that we can be proud of...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **A：? ? ? :**
 &mdash;I woke up at the same time today. 
@@ -739,7 +739,7 @@ Calm down, Mash. It's nothing.
 ---
 
  
-**? ? ? :**
+**???:**
 &mdash;! 
  
 **Mash:**
@@ -763,7 +763,7 @@ For now, let's fight back!
 **Mash:**
 Understood, Master! This is our first battle on North American soil, I'll do my best! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Soldier:**
 I-Impossible! The enhanced exoskeleton “Hard Work Mk-2” given by His Excellency was destroyed!? 
@@ -780,13 +780,13 @@ Hah...Hah...We did it, Master!
 **Mash:**
 I can't grasp the situation yet, but it seems one side has retreated&mdash;
  
-**? ? ? :**
+**???:**
 &mdash;! 
  
 **Dr. Roman:**
 Be careful! Now the other side has targeted you! Please hang on for a little bit longer, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **C：? ? ? :**
 &mdash;! 
@@ -848,7 +848,7 @@ Senpai! Stay with me, please! Senpai, Senpai!
  
 ## Section 2: The Lady with a Lamp 
  
-**? ? ? :**
+**???:**
 ......
  
 ---
@@ -860,7 +860,7 @@ Senpai! Stay with me, please! Senpai, Senpai!
 ---
 
  
-**? ? ? :**
+**???:**
 Patient No. 99, severely wounded. The wound on the right arm is serious, I recommend amputation. 
  
 ---
@@ -872,10 +872,10 @@ Patient No. 99, severely wounded. The wound on the right arm is serious, I recom
 ---
 
  
-**? ? ? :**
+**???:**
 Here, too...I don't think it can be saved. Left femur shattered. It's a miracle that this one's alive. 
  
-**? ? ? :**
+**???:**
 We're going to have to amputate this as well. 
  
 ---
@@ -887,7 +887,7 @@ We're going to have to amputate this as well.
 ---
 
  
-**? ? ? :**
+**???:**
 Gouge wound on the lateral region of the abdomen...No problem, as long as we remove the damaged organs and stitch it back up. 
  
 ---
@@ -899,13 +899,13 @@ Gouge wound on the lateral region of the abdomen...No problem, as long as we rem
 ---
 
  
-**? ? ? :**
+**???:**
 Don't worry, you'll still live. Your condition is far better than the other patients here. 
  
-**? ? ? :**
+**???:**
 In another 200 years, highly advanced artificial limbs should be developed...I suppose that's too far ahead. 
  
-**? ? ? :**
+**???:**
 Now then, it's time to amputate. 
  
 ---
@@ -917,13 +917,13 @@ Whoa, whoa, whoa!
 ---
 
  
-**? ? ? :**
+**???:**
 This should've been a surgeon's job, but seeing how we don't have enough physicians here, I will do it. 
  
-**? ? ? :**
+**???:**
 Please bite on this. It's going to hurt. 
  
-**? ? ? :**
+**???:**
 If I were to compare it to something...It'll hurt as much as getting your arm ripped off. 
  
 ---
@@ -940,7 +940,7 @@ You don't have much of a vocabulary, do you!?
 ---
 
  
-**? ? ? :**
+**???:**
 You mustn't be so childish. At least it's better than dying, isn't it? 
  
 ---
@@ -957,13 +957,13 @@ Just stitch me back up, please!
 ---
 
  
-**? ? ? :**
+**???:**
 No. I'm doing it. I'm cutting. This wound, at least, must be dealt with swiftly. 
  
-**? ? ? :**
+**???:**
 Don't worry, you're still young. I know you can endure something like this. 
  
-**? ? ? :**
+**???:**
 ...Sorry. That sounded rather vague. Let me correct myself. You must endure it no matter what. 
  
 ---
@@ -980,25 +980,25 @@ You just want to cut something, don't you?
 ---
 
  
-**? ? ? :**
+**???:**
 ...You there, don't come in here in that unsanitary state when I'm treating someone! 
  
 **Mash:**
 Please wait! Stop! You've got the wrong person! 
  
-**? ? ? :**
+**???:**
 There's no mistake. All patients are equal, be they a private or a colonel. 
  
-**? ? ? :**
+**???:**
 No matter who they are, I'll do the best I can to save them. In order to do that, proper hygiene is essential. 
  
-**? ? ? :**
+**???:**
 Listen to me. Take one step closer and I'll shoot you. 
  
 **Mash:**
 I-I wasn't about to! 
  
-**? ? ? :**
+**???:**
 Your eyes told me otherwise. 
  
 ---
@@ -1018,19 +1018,19 @@ I don't like where this is going!
 **Mash:**
 Senpai! Thank goodness, you're conscious! 
  
-**? ? ? :**
+**???:**
 How are you fine? It's a miracle that your limbs are still attached after taking a direct hit from the cannons. 
  
-**? ? ? :**
+**???:**
 Normally, I would amputate those limbs to prevent the blood from reaching unnecessary areas...
  
-**? ? ? :**
+**???:**
 And by keeping those wounds clean, we can prevent them from getting infected. 
  
-**? ? ? :**
+**???:**
 Don't worry, I am going to heal you, even if that means killing you. 
  
-**? ? ? :**
+**???:**
 Yes...I will do everything in my power to save you! I will take your life if I have to! 
  
 ---
@@ -1047,25 +1047,25 @@ The ends and means are reversed?
 ---
 
  
-**? ? ? :**
+**???:**
 I am sure some people see it that way. But sometimes, you have no room for doubt in the field of medicine. 
  
 **Mash:**
 Medicine...Cleanliness...Ah. Um, are you...
  
-**? ? ? :**
+**???:**
 Am I what? 
  
 **Mash:**
 You're a Servant...Aren't you? 
  
-**? ? ? :**
+**???:**
 That has nothing to do with this. As long as I'm summoned here, I'll only think about how to follow my conviction. 
  
-**? ? ? :**
+**???:**
 My conviction is my strength, and that is medical treatment. It doesn't matter if I'm a Servant or not, I must do my best here. 
  
-**? ? ? :**
+**???:**
 Now that I'm summoned to this battlefield, I must treat these patients. 
  
 **Mash:**
@@ -1074,13 +1074,13 @@ Huh? Ah, um, but you're a Servant, right? That person there is a Master.
 **Mash:**
 I'm sure you know that means that I must protect my Master. That's non-negotiable, even with you. 
  
-**? ? ? :**
+**???:**
 That goes the same with me. My conviction won't falter unless you can have a stronger...
  
-**? ? ? :**
+**???:**
 ...Wait. You...That body of yours...
  
-**? ? ? :**
+**???:**
 ...Fine, understood. I'll withhold my treatment for now. 
  
 **Mash:**
@@ -1101,7 +1101,7 @@ I thought I was a goner...
 **Mash:**
 ...Whew. Thank goodness it turned out okay...
  
-**? ? ? :**
+**???:**
 All right, if you're finished, get out of the way! My next patient is coming! 
  
 ---
@@ -1354,7 +1354,7 @@ Anyway, let's fight. This is the front line. We can't win if we don't hold them 
 **Mash:**
 Here I go, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 More are on the way. They're more powerful than the ones before...
@@ -1371,7 +1371,7 @@ We've become more powerful as well.
 **Mash:**
 Right! Let's keep going! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 It's a stalemate. For them, it may have been their first Servant battle ever. 
@@ -1436,7 +1436,7 @@ Whoa!
 **Diarmuid:**
 Ugh...So you don't listen to what people say, huh? I don't like it, I really don't like such women...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Diarmuid:**
 Ugh! 
@@ -1468,7 +1468,7 @@ In the name of the glorious Knights of Fianna,I shall claim their heads!
 **Fionn:**
 Lancer, Fionn mac Cumhaill...here I come! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fionn:**
 Hmm. To think they're more than a match for both of us. Quite impressive...Are they seasoned veterans? 
@@ -1509,10 +1509,10 @@ Ugh!
 **Fionn:**
 &ndash;What? 
  
-**? ? ? :**
+**???:**
 Right flank, left flank, surround the enemy! We're going to charge down the middle! 
  
-**? ? ? :**
+**???:**
 They're beasts who only process what's right before them! But we have wisdom! 
  
 **Fionn:**
@@ -2111,7 +2111,7 @@ That's so cool!
 **Mash:**
 Master, seeing your eyes glitter like that worries me a little...b-but anyway, here I go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We defeated them! Be they steam-powered or electric, once they're broken the victory is ours! 
@@ -2385,7 +2385,7 @@ Understood. Either way, they're enemies we must eventually stand against.
 **Mash:**
 Okay, here I go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Blavatsky:**
 Here we are. 
@@ -3056,13 +3056,13 @@ Get 'em!
 **Mash:**
 They're coming! Stand back, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Hah, hah...No good, there's no end to them! 
  
 **Nightingale:**
-! ! ! 
+!!! 
  
 **Edison:**
 So even my prized mechanized infantry will become junk in minutes when going up against a Servant, huh? 
@@ -3280,7 +3280,7 @@ Let's do it, Mash!
 **Mash:**
 Right&mdash;I'm not used to bullets yet, but I'll do my best! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Geronimo:**
 ...All right! They're down! But Karna must have noticed. Follow me, quickly! 
@@ -3385,7 +3385,7 @@ Push through!
 **Mash:**
 Right! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Karna:**
 So it is you, Geronimo. 
@@ -3414,7 +3414,7 @@ He's a Lancer. Summon Servants that are advantageous against him and unleash Nob
 **Karna:**
 It seems you're ready. Then here I come! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Karna:**
 Ugh...
@@ -3623,7 +3623,7 @@ That voice...from the sky.
 **Geronimo:**
 Tch. Scouts. I'll wipe out every last one of them. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nightingale:**
 ...I have a favor to ask of you all. At this rate, the boy's condition isn't going to improve. 
@@ -4080,7 +4080,7 @@ The war between the East and the West is at a stalemate. While it's a relief tha
 ...Wait, hide! 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Geronimo:**
 Looks like scouts. If we let even one escape, they'll call reinforcements. 
@@ -4106,7 +4106,7 @@ Wait, hey, my wound...Argh, that hurts!
 **Mash:**
 M-Master, I will be right back! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nightingale:**
 Annihilation complete. Excellent work, hygienically speaking. 
@@ -4185,7 +4185,7 @@ Huh?
 **Mash:**
 L-Let's run! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **F：? ? ? :**
 Huh? Did you hear something just now? 
@@ -4262,7 +4262,7 @@ Hey, hey! Are those people charging at us our allies too?
 **Rama:**
 Yes. They are very reliable allies.... At least more than myself right now! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Most of the Celtic warriors have been eliminated&ndash;
@@ -4288,7 +4288,7 @@ I see, so that's the first thought in your mind seeing this? You're amazing, Nig
 **Mash:**
 &ndash;Let's go, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...We won! But for some reason...I feel more exhausted than usual...
@@ -4754,7 +4754,7 @@ Don't these guys seem kind of weak? Well, whatever. I guess that's good for us.
 **Billy:**
 Okay, let's do this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Robin Hood:**
 They're weak, but there are so many of them. I wonder why they're so weak. 
@@ -4768,7 +4768,7 @@ Is something wrong?
 **Robin Hood:**
 It's nothing. Let's get on with this. We're not finished here yet. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Billy:**
 Yup, they were weak! 
@@ -4817,7 +4817,7 @@ Master, the way you are ending your sentences is very strange!
 **Robin Hood:**
 Ugh. Is she still singing...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Elisabeth:**
 ♪My heart is prickling...Romance in a box♪A little girl's iron maiden! 
@@ -5134,7 +5134,7 @@ P-P-Prepare for battle! It was clearly trying to ambush us!
 **Elisabeth:**
 Oh, it's just an enemy? That's too bad. Let's finish this up quickly! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Elisabeth:**
 I worked up a little sweat. My {(M) Puppy /(F) Deerlet}, give me something to wipe the sweat off. 
@@ -5274,7 +5274,7 @@ You know, what you're most mistaken about is your destiny. You are truly unlucky
 &ndash;You're here, right? Faceless King! 
  
 **Fergus:**
-...Ugh! ! 
+...Ugh!! 
  
 **Fergus:**
 ...Who's there? 
@@ -5345,7 +5345,7 @@ It would save us a lot of trouble if you would just surrender.
 I also shall borrow the power of my queen! Come out, brave soldiers! 
  
 **Nero Bride:**
-! ! ! 
+!!! 
  
 **Robin Hood:**
 Tch, so they were hiding. 
@@ -5362,7 +5362,7 @@ I do not pardon laziness, mouse. If you wish to serve me, fight for your life.
 **Robin Hood:**
 Got it. Well then&ndash; Guess it's time to perform my role as an ally of justice! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fergus:**
 Ugh! 
@@ -5596,7 +5596,7 @@ Using that, you can hold out for a while. Securing camp is vital, for Rama's sak
 **Mash:**
 As usual, it seems enemies are gathering at the Leyline. Let's clean them up. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 I'll set up the summoning circle now. 
@@ -5833,7 +5833,7 @@ He wanted to talk about our plans going forward...Hm?
 **Mash:**
 Night is their time. Call for everyone. Let's fight back! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Geronimo:**
 We're currently in the western region of North America. The Celtic warriors seem to mainly be coming from the East. 
@@ -6196,7 +6196,7 @@ Sure. Now rest up and prepare for tomorrow.
 **Geronimo:**
 Particularly you, Master. You need to head back west. Make sure you eat something and sleep well tonight. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Geronimo:**
 We'll be heading to the East now. 
@@ -6422,7 +6422,7 @@ That's right. I've detected enemies. They're Celt warriors, but their numbers ar
 **Mash:**
 Understood. Let's go, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Now, let's hurry onwards. No stops until Alcatraz. 
@@ -6616,7 +6616,7 @@ That's right. It's good when things are easy to understand. Let's charge, full s
 **Mash:**
 Here they come. Wyverns and Celtic warriors! Master, please give me your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Elisabeth:**
 Whew, piece of cake! Are you still doing okay? 
@@ -6642,12 +6642,12 @@ But in exchange, you'd better apologize to her properly. Every girl wants to kno
 **Rama:**
 Y-Yes...That's right. I just hope I have the chance to apologize...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Nightingale:**
 We must push forward and defeat them, for his treatment! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nightingale:**
 ...Ugh...
@@ -6715,7 +6715,7 @@ I refuse to die, not until my wish is fulfilled!
 **Nightingale:**
 This is the final gate. Please hold out just a little longer. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 ...A Servant! 
@@ -6891,7 +6891,7 @@ All right, bring it on, frail boy! If you manage to beat me now, that's a victor
 **Beowulf:**
 Put your life on the line for your woman, and die with honor! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Beowulf:**
 &mdash;Tch, I can't even win against a man who's half-dead...I've lost, no matter how anyone looks at it. 
@@ -7532,7 +7532,7 @@ Take the communicator.
 Use “No Face May King” and get out of here. We'll buy you some time. 
  
 **Robin Hood:**
-! ! ! 
+!!! 
  
 **Nero Bride:**
 What are you doing, Archer!? Go! 
@@ -7585,7 +7585,7 @@ Right. Once we're done with this assassination,I need to have that singing match
 **Rama:**
 I-I see...I hope that works out for you...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Now, let's leave this island. 
@@ -7642,7 +7642,7 @@ However, that's enough. I'll stop joking around. I'll let go of all the grudges 
 Young warrior, we are here to fight side by side. There is no greater joy than that on this earth. 
  
 **Diarmuid:**
-! ! ! Of course. That's most certain, my king! 
+!!! Of course. That's most certain, my king! 
  
 **Fionn:**
 &ndash;We can make up for their numbers with our own. Beowulf, what say you? 
@@ -7674,10 +7674,10 @@ Not to mention, I am now one with Sita!
 **Rama:**
 If you seek to defeat me, bring a million soldiers and their leader with ten heads and twenty arms to face me! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rama:**
-This is nothing! ! Hahaha! I feel great today, I could face another 10,000 opponents! 
+This is nothing!! Hahaha! I feel great today, I could face another 10,000 opponents! 
  
 **Elisabeth:**
 Wow, you're doing really well there, prince. I won't lose either! 
@@ -7685,7 +7685,7 @@ Wow, you're doing really well there, prince. I won't lose either!
 **Elisabeth:**
 Get to work, ghosts of Csejte. Now, I'll charm you with this hit song of mine! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Diarmuid:**
 Wait, wait, wait! You're a Servant, but you're also a nurse, right? 
@@ -7714,7 +7714,7 @@ As long as I am alive, I will die for his life! Bring it!
 **Nightingale:**
 As long as you are alive...Is that so? Well then, allow me to relieve you of your royal duties! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We have you now,Fionn mac Cumhaill and Diarmuid Ua Duibhne! 
@@ -7758,7 +7758,7 @@ I am Diarmuid Ua Duibhne&ndash;the first spear of the Knights of Fianna! Here I 
 **Fionn:**
 Yes, agreed! I am Fionn mac Cumhaill, captain of the Knights of Fianna! To battle! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fionn:**
 Ugh...
@@ -7860,7 +7860,7 @@ I'll switch to open transmission.
 &ndash;Sorry. We screwed up. 
  
 **Mash:**
-! ! ! Tell us what happened, Robin! 
+!!! Tell us what happened, Robin! 
  
 **Robin Hood:**
 Old Man Geronimo, Billy, and Saber...Nero. They're probably all gone. 
@@ -7930,7 +7930,7 @@ Ugh...
 &ndash;Take this! 
  
 **Arjuna:**
-! ! ! 
+!!! 
  
 **Billy:**
 ...You can even repel bullets!? 
@@ -8011,7 +8011,7 @@ However, while it is rare, it is not the “only one. ”If anyone has the “on
 They have already recovered four Holy Grails. 
  
 **Medb:**
-! ! ! 
+!!! 
  
 **Geronimo:**
 That is why. Even if we fall here...others will take our place. 
@@ -8110,7 +8110,7 @@ You make it sound like there's a survivor. Press the attack and crush them.
 Yup! 
  
 **Cú Chulainn Alter:**
-! ! ! 
+!!! 
  
 **Medb:**
 Cú? 
@@ -8127,7 +8127,7 @@ Hm, Robin Hood's fighting. All right, let's head over quickly!
 **Robin Hood:**
 Sorry, I ended up running into them along the way! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Elisabeth:**
 H-Hey! So what exactly happened out there!? 
@@ -8280,13 +8280,13 @@ I can't win unless I'm ready to die. When I fight her again, it will be when the
 **Dr. Roman:**
 Robin, the woman who you said saved you...If she's Cú Chulainn's mentor, then she...
  
-**? ? ? :**
+**???:**
 I'm right here. Is this some sort of far-seeing spell? I can't say it's in good taste. Poor disposition, too. 
  
 **Dr. Roman:**
 N-Nice to meet you, too...
  
-**? ? ? :**
+**???:**
 I should introduce myself. My name is Scáthach. Although I'm sure some of you already realized that. 
  
 **Mash:**
@@ -8472,7 +8472,7 @@ Got it.
 **Scáthach:**
 Yes, good answer. Now on your way! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Scáthach:**
 Not bad, but how about the next ones? 
@@ -8489,7 +8489,7 @@ Servants must understand their own roles and the Master must provide appropriate
 **Scáthach:**
 Trouble won't be tolerated. Now go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Scáthach:**
 Next are high ranking warriors among the Celts. Although they've given up their humanity. 
@@ -8500,7 +8500,7 @@ They're as swift and strong as Servants. But if you have trouble here, you'll ne
 **Scáthach:**
 Know your Servants, and use them well. Don't disappoint me, understand? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Scáthach:**
 Hm...Shadow Servants have appeared. That Medb seems to understand how to use the Holy Grail. 
@@ -8618,7 +8618,7 @@ If you don't treat me as such&ndash;you'll die.
 **Mash:**
 I understand...Master! Please provide your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 H-He is...really strong! 
@@ -8828,7 +8828,7 @@ Oh well, whatever. Anyway, just hold back a bit, that's all I'm asking.
 **Elisabeth:**
 I don't really get it, but okay! Now, let's go, my little {(M) Puppy /(F) Deerlet}! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Whew. We made it through the battle just fine. We also captured some retreating enemies. 
@@ -9013,7 +9013,7 @@ A rebellion!
 **Robin Hood:**
 Whoa, as I'd expect, Master! I see you're enthusiastic. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nightingale:**
 Begone! There are patients waiting! 
@@ -9227,7 +9227,7 @@ Even I'm human. I have emotions, like any ordinary person. However, that's enoug
 **Karna:**
 The first time was testing the waters. This is the second. Show me just how much you have improved&mdash;! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Elisabeth:**
 Hah...Hah...Hah...Y-You're good! 
@@ -9290,7 +9290,7 @@ Seems about right. Earlier we were speaking over the comms, but I imagine Edison
 **Mash:**
 Let's get things ready first, Master. Then we'll head out. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Now&ndash;entering! 
@@ -9372,7 +9372,7 @@ Direct current is just the way to go!
 **Mash:**
 ...So you still ARE fixated about that! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Edison:**
 Ooooooooh! Not yet...I have not lost yet! I will not surrender! 
@@ -9745,7 +9745,7 @@ Yes, Elisabeth. What is it?
 We invade, and beat them up. That's our only choice! 
  
 **Edison:**
-That's...Completely denied! ! 
+That's...Completely denied!! 
  
 **Elisabeth:**
 Whyyyyyyy!? 
@@ -9888,7 +9888,7 @@ Fujimaru! You should take this opportunity to join us!
 **Edison:**
 This is a virtual skirmish I invented. It's only slightly dangerous! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Edison:**
 Physical activity relaxes the mind,but in the end, there are only two ways to go about this. 
@@ -10114,7 +10114,7 @@ The fallen soldiers are on the move. If we leave them alone, their numbers will 
 **Nightingale:**
 A corpse is a mound of pathogens. We must carefully mourn them, and send them to the afterlife! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nightingale:**
 &ndash;Now, let's head over to heal our wounded hero. 
@@ -10368,7 +10368,7 @@ All right. Time for to head to the front lines. This is the final battle...Don't
 **Mash:**
 S-So suddenly&ndash;!? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Scáthach:**
 Hm, not bad for a practice round. 
@@ -10733,7 +10733,7 @@ But Beowulf is only barely following orders. I can't imagine him losing...but...
 Medb. We're going all in. 
  
 **Medb:**
-! ! ! O-Okay. 
+!!! O-Okay. 
  
 **Medb:**
 But I need time. Setting the North aside, the South&ndash;
@@ -10810,7 +10810,7 @@ I'll take the right wing. Nightingale can handle the left. Mash, you break throu
 **Rama:**
 Good. Then let's go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 &ndash;All done! 
@@ -10962,7 +10962,7 @@ We'll surely win.
 **Mash:**
 Yes! Mash Kyrielight&ndash; Here I go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rama:**
 Look out! Wyverns! Fire the Anti-Air Electromagnetic Net Launcher! 
@@ -10976,7 +10976,7 @@ He's picky about that kinda stuff!? Servants, take down the ones who slip throug
 **Mash:**
 Copy that! Master, your orders please! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The soldiers keep coming, don't they? 
@@ -11004,7 +11004,7 @@ Okay.
 **Nightingale:**
 I appreciate it! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nightingale:**
 Treatment is mostly complete. I've sent those unfit for battle toward the back. 
@@ -11024,7 +11024,7 @@ Huh?
 **Dr. Roman:**
 It's the very reenactment of mythology! Nothing less from a top Servant. Off the charts in every way! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Arjuna:**
 &ndash;So you've come, Karna. 
@@ -11193,7 +11193,7 @@ Karna will win!
 What...
  
 **Nightingale:**
-! ! ! 
+!!! 
  
 **Rama:**
 Wh-What&ndash;!? 
@@ -11202,7 +11202,7 @@ Wh-What&ndash;!?
 Servant responses have suddenly...Wait, what just happened!? 
  
 **Arjuna:**
-! ! ! 
+!!! 
  
 **Karna:**
 ...
@@ -11226,7 +11226,7 @@ Wait until you've read the situation before running after your own interests.
 At least be grateful that you weren't stabbed from the back, Hero of the Endowed. 
  
 **Arjuna:**
-! ! ! 
+!!! 
  
 **Cú Chulainn Alter:**
 Now let's see&ndash;Is that the famed Master? 
@@ -11234,7 +11234,7 @@ Now let's see&ndash;Is that the famed Master?
 ---
 
 **Fujimaru 1:**
-! ! ! 
+!!! 
 
 ---
 
@@ -11292,7 +11292,7 @@ Wait, Cú Chulainn! What happened to Scáthach&ndash;
 Hm? Oh, I defeated Scáthach. 
  
 **Nightingale:**
-! ! ! 
+!!! 
  
 **Rama:**
 ...You don't mince your words, do you? 
@@ -11309,7 +11309,7 @@ You're all going to die here, too. Go lick each other's wounds on the other side
 **Rama:**
 He's coming! Don't hold back on Command Spells, we'll fight with all we've got! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Hah...Hah...Hah...
@@ -11571,7 +11571,7 @@ My name is Arjuna. Consider it an honor&ndash;to fall by my arrow!
 **Rama:**
 I also have the pride of having bested the Demon King Ravana. &ndash;Prepare yourself, Arjuna! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rama:**
 How's that, Arjuna! 
@@ -11830,7 +11830,7 @@ Noble Phantasm seal. Transform&ndash;!
 ...Wh-What? 
  
 **Scáthach:**
-! ! ! 
+!!! 
  
 **Cú Chulainn Alter:**
 &ndash;You stopped moving, Scáthach! 
@@ -11928,7 +11928,7 @@ That is the fate of us Heroic Spirits.
 **Li Shuwen:**
 Hahahahaha&mdash;that's for sure. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Robin Hood:**
 Yeah, yeah. Here they come again. 
@@ -12227,7 +12227,7 @@ All right! Mostly done&ndash;What!?
 **Rama:**
 Medb's elite soldiers...Shadow Servants! Master, we should handle this! Your orders, please! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rama:**
 ...All Shadow Servants have been eliminated! 
@@ -12399,7 +12399,7 @@ It's okay. We won't lose to enemies like that after all we've been through!
 **Mash:**
 Master, let's go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Medb:**
 I guess that wasn't enough to stop you. 
@@ -12410,7 +12410,7 @@ I guess that wasn't enough to stop you.
 **Dr. Roman:**
 Even more of them!? Can Queen Medb really create an infinite number of soldiers!? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nightingale:**
 I would hesitate to call it infinite. 
@@ -12476,7 +12476,7 @@ Yes, I understand what you're trying to say, Nightingale. However, we must still
 **Rama:**
 Now, we head to the White House! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Beowulf:**
 ...Ugh! 
@@ -12563,7 +12563,7 @@ Hey, Demi-Servant. Don't utter my name so casually.
 I'm in a bad mood, mind if I kill you? 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Nightingale:**
 Leave this place. Your wickedness is no illness. You were born with it. 
@@ -12733,7 +12733,7 @@ In the name of my wife Sita,I swear by the name of the god I hold faith in.
 **Rama:**
 I shall smite thee as an iron hammer. Prepare yourself, Queen Medb! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rama:**
 &ndash;Right there! “Brahmastra! ”
@@ -13063,7 +13063,7 @@ Fou! Fou! Fou!
 **Mash:**
 ...Let's go! Master, bring us victory! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Cú Chulainn Alter:**
 ...
@@ -13095,7 +13095,7 @@ Manager, give me some water! My throat's all dry!
 **Elisabeth:**
 I won't lose! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Blavatsky:**
 ...Edison, Mr. Edison. You already know, don't you? 
@@ -13172,7 +13172,7 @@ But...Even if all five of us fight,I don't know how many more minutes we can las
 **Blavatsky:**
 ...If only there was something else...Something that would give us an edge...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 His form...Again! 
@@ -13220,7 +13220,7 @@ Full speed ahead!
 **Fou:**
 Fou! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Robin Hood:**
 Gah!? 
@@ -13621,7 +13621,7 @@ Hope you're summoned by Fujimaru next time.
 **Beowulf:**
 Hahahahaha! Sounds great, that may give me more fun than I had this time! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Dr. Roman:**
 Y-You, you did it&ndash;! Everyone, we won! 
@@ -13707,7 +13707,7 @@ So begone from this world, Demon God. I shall never give up, even if it means a 
 **Cú Chulainn Alter:**
 I am the one who bestows conflict. You who wish for peace in your hearts...You are unnecessary! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Holy Grail recovery...Mission complete! But...There were too many sacrifices...

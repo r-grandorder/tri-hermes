@@ -625,55 +625,55 @@ Just you watch, Marisbury Animusphere. Watch as I achieve what you only ever dar
  
 ## Section 1: Empire of Beasts 
  
-**? ? ? :**
+**???:**
 ...There we go. 
  
-**? ? ? :**
+**???:**
 ...Damn, it's really getting bad out here. But I can still smell three of 'em. 
  
-**? ? ? :**
+**???:**
 If I don't take 'em out now, I'll starve to death this winter for sure. Guess I'll just have to hang in there a little longer...
  
-**? ? ? :**
+**???:**
 ...! 
  
-**? ? ? :**
+**???:**
 Damn, it's a Krichat'! 
  
-**? ? ? :**
+**???:**
 Dammit! You little...! 
  
-**? ? ? :**
+**???:**
 Die! Die! Go to...hell! 
  
-**? ? ? :**
+**???:**
 (Huff, huff, huff...)Dammit, what a waste! 
  
-**? ? ? :**
+**???:**
 (Sigh...) Damn, now its brains are leaking out...Guess it's time to pack it in...
  
-**? ? ? :**
+**???:**
 ...Dammit, I'm so hungry...I really...don't wanna starve to death. 
  
-**? ? ? :**
+**???:**
 ...Whoa! Was that an earthquake!? 
  
-**? ? ? :**
+**???:**
 Was that one of the big guys? If it was, I guess I won't have to worry about starving to death...
  
-**? ? ? :**
+**???:**
 Goddammit! It's so cold! It's never this cold! 
  
-**? ? ? :**
+**???:**
 And I can't tell if the Oprichniki are listening or not, as usual...
  
-**? ? ? :**
+**???:**
 Looks like...it's gonna be an especially harsh winter...
  
-**? ? ? :**
+**???:**
 On a different note, what the hell's up with that tree? It almost looks like...a giant tower...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 ...In this version of history, Demonic Beasts have been present since the very beginning. 
 Humanity here evolved along a particularly unique route in order to combat both the beasts and the perpetual blizzard that shrouded the land. 
@@ -1185,7 +1185,7 @@ Man, we really lucked out. One wrong move, and we could've ended up on a wave th
 If we'd emerged into standard space then,it'd probably be waaay too late to do anything☆
  
 **Goredolf:**
-S-slow down! Slow down! ! ! 
+S-slow down! Slow down!!! 
  
 **Goredolf:**
 You mean a few days' difference can affect our exit time THAT much? Is that normal for Zero Sail travel!? 
@@ -1333,7 +1333,7 @@ Emerging from Void Space. Thirty seconds until arrival in Reality Space.
 **P. A. System**
 Zero Sail, complete. Emerging into Reality Space. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **P. A. System**
 Reality Space anchor attached. Reality verification complete. 
@@ -1974,7 +1974,7 @@ I-I'll have you know I have never experienced solitude once in all my life! My t
 **Goredolf:**
 Grr, what an impudent little familiar! If only you acted as cute as you look! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Meunière:**
 There we go...
@@ -2381,7 +2381,7 @@ All right. Just don't push yourself too hard...
 **G：Mash:**
 ...Yes, Master! 
 
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Khh...! Ar...gh...! 
@@ -3443,19 +3443,19 @@ She's well aware of that, so all she does now is wait around to die.
 **Narration:**
 Waiting for the time when she finally starves to death. 
  
-**? ? ? :**
+**???:**
 Who is it? 
  
 **Patxi:**
 ...Here's some meat. I'll just leave it here. 
  
-**? ? ? :**
+**???:**
 Oh, thank you. I don't know how I can...repay you...
  
 **Patxi:**
 Don't worry about it. 
  
-**? ? ? :**
+**???:**
 My husband and son will be home soon. Why don't you stay and eat with us? 
  
 **Patxi:**
@@ -4681,7 +4681,7 @@ Oh, and unfortunately for you, I won't be offering up any more hints♡ I've bee
 You'll just have to figure out whatever you don't yet know for yourselves. 
  
 **Koyanskaya:**
-Such is the wish of our leader, ![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only), who has come from far, far away...and yet who still remains shrouded in shadow. 
+Such is the wish of our leader, ![1-light](https://i.imgur.com/XAqlQYL.png), who has come from far, far away...and yet who still remains shrouded in shadow. 
  
 ---
 
@@ -5193,7 +5193,7 @@ A lot of people really hate your guts, don't they!?
 **Holmes:**
 Hahaha, that they do! Especially good, honest people like yourself! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Patxi:**
 ...I don't feel anyone staring daggers into my back anymore...
@@ -5422,7 +5422,7 @@ Hold up a minute!
 ---
 
 **Fujimaru 2:**
-You never answered the question! ! ! 
+You never answered the question!!! 
  
 
 ---
@@ -5641,7 +5641,7 @@ The Fate system. A secret ritual for summoning Heroic Spirits.
 ---
 
 
-**? ? ? :**
+**???:**
 My name is Avicebron. I am a Caster. 
  
 **Avicebron:**
@@ -5736,7 +5736,7 @@ But, I am also a miracle worker. So to begin, I would like to show you what mann
 **Avicebron:**
 ...Now, let us do battle. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Patxi:**
 Th-that was incredible...
@@ -6424,18 +6424,18 @@ My fair Yaga, while I pledge to do my utmost to restrain myself, I am afraid tha
 **Avicebron:**
 Say your prayers. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Yaga:**
 Ghh...
  
-**? ? ? :**
+**???:**
 Stop! 
  
 **Avicebron:**
 ...Hello there. I take it you are the leader? 
  
-**? ? ? :**
+**???:**
 I am...and now I have seen your power for myself. You say you are here to join the rebel army? 
  
 ---
@@ -6443,10 +6443,10 @@ I am...and now I have seen your power for myself. You say you are here to join t
 **Fujimaru 1:**
 Yes, that's right. 
  
-**? ? ? :**
+**???:**
 I see. But I cannot trust you. 
  
-**? ? ? :**
+**???:**
 You all look like humans. 
  
 
@@ -6455,41 +6455,41 @@ You all look like humans.
 **Fujimaru 2:**
 If it's okay with you. 
  
-**? ? ? :**
+**???:**
 Of course. I would be glad to welcome you...were you not human. 
  
 
 ---
 
  
-**? ? ? :**
+**???:**
 In this world, there are only two kinds of people who look like humans: mages and Servants. 
  
-**? ? ? :**
+**???:**
 And that means you are our enemy. 
  
 **Mash:**
 Huh!? Please, I promise you we're&ndash;
  
-**? ? ? :**
+**???:**
 Are you with the Tsar, or are you not? 
  
-**? ? ? :**
+**???:**
 The answer to that lies in whether you are merciful as well as strong. 
  
-**? ? ? :**
+**???:**
 ...And so I shall make you a grossly unfair proposal: fight us without killing us, even as we do our best to kill you. 
  
 **Avicebron:**
 ...I see. Well, that is certainly as unfair as you say. 
  
-**? ? ? :**
+**???:**
 If you have strength enough to kill us all, then you are no spy. There would be no point in spying on us if you could simply kill us at your leisure, after all. 
  
-**? ? ? :**
+**???:**
 But, if you are strong enough to kill us AND choose to spare our lives...
  
-**? ? ? :**
+**???:**
 ...that would prove you are merciful, and that is a kindness only humans possess. That is my offer. You may take it or leave it! 
  
 **Avicebron:**
@@ -6522,9 +6522,9 @@ Very well then, let us show her exactly why we were chosen as Heroic Spirits.
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
-**? ? ? :**
+**???:**
 Can you go on? 
  
 **Yaga Rebel Soldier:**
@@ -6539,7 +6539,7 @@ It would seem we have been thoroughly defeated. Very well, we surrender.
 **C：? ? ? :**
 If you truly had been sent by Ivan the Terrible,we would clearly have no chance of victory. 
  
-**? ? ? :**
+**???:**
 ...But fortunately,it seems you are not with him after all. 
  
 ---
@@ -6787,7 +6787,7 @@ Let's see what you're really capable of. Surely you're not going to let Demonic 
 **Avicebron:**
 Of course not. Master, I await your orders. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Patxi:**
 Hey. I finished skinning them. 
@@ -6904,7 +6904,7 @@ Got it!
 **Atalante Alter:**
 Good. This will be another chance to show me what you are capable of, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Atalante Alter:**
 It seems we find ourselves in possession of an unexpectedly large quantity of meat. Everyone, take as much as you can carry. 
@@ -7647,7 +7647,7 @@ I-I'm sorry, it's nothing.
 **Mash:**
 Okay, Master, please go ahead and give Avicebron your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Avicebron:**
 That should do it. As you can see, they are still very much alive. 
@@ -7722,7 +7722,7 @@ Please store any food or medicine you can spare in this carrier golem, if you do
 **Avicebron:**
 Now then, let us head to the next village. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 This is terrible...! 
@@ -7877,7 +7877,7 @@ It would seem they are not interested in a peaceful discussion. I believe things
 **Mash:**
 Right! Please hurry! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Avicebron:**
 There they go. It would seem there is no need to follow them. 
@@ -7915,7 +7915,7 @@ I rather doubt they are all bandits, so it would seem that there is still an opp
 **Patxi:**
 Come on, Fujimaru, let's hurry! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 What...What's going on...? 
@@ -8065,7 +8065,7 @@ Then, after treating the injured Yaga's wounds,they headed off into the mountain
 **Yaga Chief:**
 By this point, I had relaxed a bit, so I called out to them and asked their name. Their only reply was...
  
-**? ? ? :**
+**???:**
 “...I'm from Chaldea. ”
  
 **Yaga Chief:**
@@ -8681,7 +8681,7 @@ Assuming we wish to take Koyanskaya at her word,the mage is Kadoc Zemlupus...
 **Holmes:**
 But if it is, then we must ask ourselves what measures he is likely to take to deal with us...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Narration:**
 Ordinary people are scorned, and strong people envied. 
@@ -9260,7 +9260,7 @@ Right! I'll do everything I can to compile as much data about it as possible!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Avicebron:**
 It seems we were successful in disposing of the Krichat' before they could alert the D'yavol Tron to our presence. 
@@ -9655,7 +9655,7 @@ A clear blue sky brings peace of mind to all manner of people.
 **Atalante Alter:**
 Anyway, I can smell Demonic Beasts nearby. Let's go hunting, Fujimaru. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Patxi:**
 Man, I'm still super impressed with you guys...
@@ -9794,7 +9794,7 @@ It DOES regularly fall below minus one hundred degrees at night and on particula
 There was a time...back before we had guns that could kill Demonic Beasts...when we used to eat weak Yaga. 
  
 **All:**
-! ! ! 
+!!! 
  
 **Patxi:**
 Well...you know how people used to breed livestock, right? Artificial selection, I think they called it? 
@@ -9917,7 +9917,7 @@ It nags at me now, just a little bit,  like a tiny thorn jabbing me in the chest
 **Narration:**
 To close my eyes, fall asleep,and not think about anything. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Patxi:**
 According to the map, there's nothing but ruined old villages up ahead. You sure we're going the right way? 
@@ -9997,7 +9997,7 @@ Let me introduce myself right proper! Name's Billy the Kid!
 **Billy:**
 Get past me if you can! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Billy:**
 Whoa there. Hold your horses a moment. 
@@ -10169,7 +10169,7 @@ Then my six-shooter'll determine whether you're worthy!
 **Atalante Alter:**
 Here they come, Fujimaru! I trust you are ready to meet them! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Beowulf:**
 ...There we go. That oughta do it. 
@@ -10201,7 +10201,7 @@ Come on, we'll show you the way.
 **Atalante Alter:**
 ...Good grief. So that is what that was all about. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Beowulf:**
 ...Sorry about that,Master of Chaldea or whatever it was. 
@@ -10976,7 +10976,7 @@ My contact in the capital HAS reported seeing a young woman there.
 **Atalante Alter:**
 He said she's called the Grand Duchess...and that she commands the highest respect from the Oprichniki despite appearing human. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Narration:**
 (...Ah. Gotcha. This's your dream, eh. )
@@ -11038,12 +11038,12 @@ And that is why I made certain those soldiers would never again enjoy a moment o
 “I will forever pass judgment on your sins. I will forever see to your punishment. I will always, always be watching...until the day you die. ”
  
 **Narration:**
-“Always, always, alwaaays! ! ! ”
+“Always, always, alwaaays!!! ”
  
 **Narration:**
 (...Ugh, dammit. Gray skies. A world without light. I've never known anything else...)
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Grand Duchess:**
 ...Did I wake you? 
@@ -11192,7 +11192,7 @@ Remember, when you want to get rich at others' expense, or want to be happy no m
 **D：Priest:**
 You should learn to be mindful of the dangers that line your path, Koyanskaya. As things stand now, you may as well be a rat fleeing a sinking ship. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Beowulf:**
 Well that was a productive chat. Nice to get some good news for a change. 
@@ -11224,7 +11224,7 @@ Servant or no, I'm still just a good, old-fashioned human. Suits me just fine to
 **Billy:**
 See you around! 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 Two days after setting off on their journey...
  
@@ -11254,7 +11254,7 @@ Hey, that could be your catchphrase!
 **Billy:**
 Well, they ain't exactly delicious, but there's plenty of meat on them. All right, what say we rustle up some grub for the rebel army? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Patxi:**
 All right, we got meat! 
@@ -11764,7 +11764,7 @@ During that time, I would like to gather as many materials as possible in order 
 **Avicebron:**
 Indeed. A wall of golems. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Patxi:**
 (Huff, huff, huff...)  I got the golem cores! 
@@ -12191,7 +12191,7 @@ Yes...Yes...I cannot hear the piano any longer, but...Ah, Macarius...If that is 
 **Priest:**
 Now we no longer need to worry about the Tsar knocking down the Tree of Emptiness. Will this do, O Foreign Priestess? 
  
-**? ? ? :**
+**???:**
 ...
  
 **Priest:**
@@ -12214,7 +12214,7 @@ He will likely grow more unwilling to negotiate if the battle drags on, so we mu
 **Atalante Alter:**
 ...All right, let's go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Atalante Alter:**
 Ha! 
@@ -12374,7 +12374,7 @@ So, for the moment, this hostility remains relegated to tongue-clicking and spit
 **Holmes:**
 However, it will take but a single spark to ignite a conflagration. Be careful, {(M) Mr. /(F) Ms. } Fujimaru. 
  
-**? ? ? :**
+**???:**
 Aaaaaah! 
  
 **Mash:**
@@ -12548,7 +12548,7 @@ We will mow them down and return them all to dust.
 **Billy:**
 ...Let's do this, Fujimaru! I'll hold 'em off just as long as I can! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Billy:**
 Gotta reload! Gimme a bit of cover! 
@@ -12647,7 +12647,7 @@ Look closer, you idiot! That was a BROOM!
 Ah...
  
 **Yaga Citizen:**
-Fire! Fire! Fiiire! FIIIRE! ! ! 
+Fire! Fire! Fiiire! FIIIRE!!! 
  
 **Yaga Rebel Soldier:**
 Kill them! Kill them all! 
@@ -12821,7 +12821,7 @@ But there is something we must do first. It is time to hold the ones responsible
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Avicebron:**
 ...Very well, that should do it. Now then, let us make a cautious retreat. 
@@ -13019,7 +13019,7 @@ You mean, at this point in time?
 **Kadoc:**
 Yeah. At this point in time. 
  
-**? ? ? :**
+**???:**
 ...Good. I'm glad to see you've still got some fight left in you. 
  
 **Both:**
@@ -13716,7 +13716,7 @@ I believe you said you lacked confidence in your memories? Then you have cause t
 **Priest:**
 I'm going to give you the shock of a lifetime. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 &mdash;&mdash;
@@ -13778,7 +13778,7 @@ Then let us take care of them first.
 **Billy:**
 All right then, it's huntin' time! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Are you all right, Master? You're not too cold, are you? 
@@ -14214,7 +14214,7 @@ Let's go find out if this Mozart fella is the sorta monster we can beat, or the 
 **Billy:**
 However the chips fall,my six-shooter'll help see us through! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Avicebron:**
 ...Here we are. 
@@ -14240,28 +14240,28 @@ Oh, sure.... Um, may I ask why you're putting your hand up to the wall?
 **Avicebron:**
 Why, to eavesdrop, of course. 
  
-**? ? ? :**
+**???:**
 The Tsar's&ndash;
  
-**? ? ? :**
+**???:**
 Long live the Tsar! 
  
-**? ? ? :**
+**???:**
 The Oprichniki killed&ndash;
  
-**? ? ? :**
+**???:**
 Not enough Demonic Beast leather&ndash;
  
-**? ? ? :**
+**???:**
 There's a monster&ndash;
  
-**? ? ? :**
+**???:**
 I've been hearing strange sounds lately&ndash;
  
-**? ? ? :**
+**???:**
 Speaking of sounds, the Tsar&ndash;
  
-**? ? ? :**
+**???:**
 ...not joking! He said he saw an old-fashioned human with his own eyes! 
  
 **Avicebron:**
@@ -14581,7 +14581,7 @@ Snap out of it, Amadeus!
 ...Ah, aah, aaah! 
  
 **Amadeus Alter:**
-Don't you DARE say that name! ! ! 
+Don't you DARE say that name!!! 
  
 
 ---
@@ -14599,72 +14599,72 @@ It must be or else...God will never forgive me!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
-**? ? ? :**
+**???:**
 Hey, ■■■■■■■. Don't take this the wrong way, but...
  
-**? ? ? :**
+**???:**
 ...What is it? 
  
-**? ? ? :**
+**???:**
 Did you really kill him? I mean, I'm sure you didn't kill him directly. 
  
-**? ? ? :**
+**???:**
 But come on, you know...there's all sorts of indirect ways to kill someone, right? 
  
-**? ? ? :**
+**???:**
 ...You think I killed him? Don't be stupid. 
  
-**? ? ? :**
+**???:**
 R-right, of course...I'm sorry, I shouldn't have said that. 
  
-**? ? ? :**
+**???:**
 No, I really mean it. Don't be stupid&ndash;of COURSE I killed him. 
  
-**? ? ? :**
+**???:**
 Yes, I killed Amadeus myself. I am the one who requested the Requiem in D minor. 
  
-**? ? ? :**
+**???:**
 It was I! I am the reason the great prodigy is dead! 
  
-**? ? ? :**
+**???:**
 ...Preposterous. How fortunate I would be if only that were true. 
  
-**? ? ? :**
+**???:**
 I COULDN'T kill him. I just couldn't. 
  
-**? ? ? :**
+**???:**
 Not because we were good friends, or even acquaintances, but because I couldn't bring myself to snuff out the life of one with such God-given talent. 
  
-**? ? ? :**
+**???:**
 That is who Wolfgang Amadeus Mozart was. 
  
-**? ? ? :**
+**???:**
 And yet, the world, myself included, cannot but seek someone to blame for the death of one such as he. 
  
-**? ? ? :**
+**???:**
 So we told ourselves that some fool must have driven him to the depths of hell, all because they envied his divine symphonies! 
  
-**? ? ? :**
+**???:**
 And all so that we could avoid facing the most hellish truth ourselves: that even a composer of his incredible talent could die as easily as anyone else! 
  
-**? ? ? :**
+**???:**
 That is how I was remade. Yes, remade! 
  
-**? ? ? :**
+**???:**
 But that's okay! That's how it should be! 
  
-**? ? ? :**
+**???:**
 I loved him. I envied him. I yearned for him. I respected him, admired him, looked up to him...
  
-**? ? ? :**
+**???:**
 So...to bear the honor of being the one to kill that great prodigy, I could ask no greater gift of God! 
  
-**? ? ? :**
+**???:**
 Still, that said...
  
-**? ? ? :**
+**???:**
 ...I feel like...he once told me something...Something...much more important...
  
 ---
@@ -14708,19 +14708,19 @@ I'm...not Amadeus...! Dammit...I'm...NOT Amadeus...!
 **Holmes:**
 {(M) Mr. /(F) Ms. } Fujimaru, look out! It's an ambush! 
  
-**? ? ? :**
+**???:**
 You guys must be working with old-fashioned radar. That explains why it was so easy to sneak up on you. 
  
 **Mash:**
 Huh!? That voice...! 
  
-**? ? ? :**
+**???:**
 Stand by, Oprichniki. This is the one I've been waiting for. 
  
-**? ? ? :**
+**???:**
 Hmm...Looks like the court musician isn't doing so hot. Well, that's okay. I wasn't gonna need him much longer anyway. 
  
-**? ? ? :**
+**???:**
 Goodbye, Salieri. 
  
 **Holmes:**
@@ -14993,7 +14993,7 @@ Let's do this, you two!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Avicebron:**
 My, my. Looks like I'll have to make another one. 
@@ -15091,7 +15091,7 @@ Hear my command and obey:
 **Anastasia:**
 You are to become sculptures of snow and ice, writhing in agony in this world of permafrost for all eternity. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Billy:**
 Khh...! 
@@ -15324,7 +15324,7 @@ The Tsar must be looking for me by now,even if he still hasn't fully awakened.
 **Narration:**
 The flowers that bloomed here were so beautiful...so strong. 
  
-**? ? ? :**
+**???:**
 Look at this. These must be the hardiest flowers in the world. 
  
 **Narration:**
@@ -15339,7 +15339,7 @@ Either way, I grieved for the flowers.
 **Narration:**
 ...And yet, now I can no longer even remember what they looked like. 
  
-**? ? ? :**
+**???:**
 ...Why do you look so sad? 
  
 **Narration:**
@@ -15348,13 +15348,13 @@ I feel like I'm having a bad dream.
 **Narration:**
 Why would I feel this way,when everything I see is so beautiful...? 
  
-**? ? ? :**
+**???:**
 You must be tired. Come, lay your head on my lap and rest. 
  
-**? ? ? :**
+**???:**
 It is the least I could do for you,my beloved Tsar...my beloved husband. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Patxi:**
 Dad? Why do Yaga have to be strong? 
@@ -15377,7 +15377,7 @@ We're still here. We're still alive. So as long as that's the case, we'll keep o
 **Patxi:**
 Okay. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Narration:**
 ...I still remember that conversation. 
@@ -16496,7 +16496,7 @@ Well, I suppose I'll just have to help you out. This will be quite a foe for our
 **Salieri:**
 Come then! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Salieri:**
 How was I to command, Master? 
@@ -16890,7 +16890,7 @@ Hmm, very well. Just leave everything to me.
 **Atalante Alter:**
 Good. Then let the hunt begin! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Atalante Alter:**
 Did you get them? 
@@ -16928,7 +16928,7 @@ But never mind that. I believe we should be reaching this ravine you mentioned s
 **Atalante Alter:**
 Indeed. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Atalante Alter:**
 As you can see,we are still in the construction phase. 
@@ -17104,7 +17104,7 @@ That is Mozart...The very man himself...That is indeed Mozart...I knew it...I kn
 I'm...not sure how I feel about this. 
  
 **Salieri:**
-MOZART! ! ! Your foul mouth has made its last filthy joke. I shall rip out your tongue myself! 
+MOZART!!! Your foul mouth has made its last filthy joke. I shall rip out your tongue myself! 
 
 ## Choice: Tunnel Excavation 
 
@@ -17244,7 +17244,7 @@ Here come the Demon Boars!
 **Mash:**
 Avicebron, please hurry and summon some combat golems! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 You've defeated the Demonic Beasts! 
@@ -17459,7 +17459,7 @@ We don't seem to be moving as quickly as usual. Perhaps it's all the materials t
 **Avicebron:**
 ...Of course we run into a host of Demonic Beasts now. Let's take care of them quickly, Master. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Avicebron:**
 How unfortunate that we were waylaid by no fewer than THREE battles on our way here. 
@@ -18116,16 +18116,16 @@ Hold on, just give me a moment...There! I've found a group of Oprichniki next to
 **Holmes:**
 They're closer than I expected. Be on your guard! 
  
-**? ? ? :**
+**???:**
 Don't tell me you're surprised? You shouldn't be. This is the great Tsar's Noble Phantasm at work. 
  
-**? ? ? :**
+**???:**
 It's called “Chyornyj Oprichniki” or“Black dogs, come forth into my dreams. ”
  
-**? ? ? :**
+**???:**
 There are a number of Noble Phantasms which can be used to summon soldiers, but I doubt there are any others that can do so endlessly. 
  
-**? ? ? :**
+**???:**
 ...It comes with a peculiar condition for its use: Ivan the Terrible must remain stationary. 
  
 **Mash:**
@@ -18257,14 +18257,14 @@ And so I am afraid I must kill you all here and now.
 **F：Priest:**
 ...Come forth, Lostbelt Servant,and put these people in their proper place. 
  
-**? ? ? :**
+**???:**
 GRRR...RRR...
  
 **C：? ? ? :**
 KILL...I'LL KILL YOU...RRR...RRRRRR...
  
 **C：? ? ? :**
-I'LL KILL YOU...AND...EAT YOU...! ! ! 
+I'LL KILL YOU...AND...EAT YOU...!!! 
  
 **Billy:**
 Just who the hell's that? 
@@ -18330,7 +18330,7 @@ I'LL KILL YOU...I'LL KILL YOOOURRRRRRAAAHHH!
 **Billy:**
 Here he comes, Master...! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Billy:**
 Dammit, what the hell's goin' on here? 
@@ -18702,7 +18702,7 @@ One must not succumb to madness, young Yaga. Now, the time is nearly at hand. Ar
 ...Who is...that Yaga...there...? 
  
 **Patxi:**
-Aah...! ! ! 
+Aah...!!! 
  
 **Priest:**
 He is one of your subjects from the frontier, Your Imperial Majesty. 
@@ -19526,7 +19526,7 @@ I'll take the rear group!
 **Billy:**
 All right, let's get a move on, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 I'm picking up even more Oprichniki readings...! They're still coming, Master...! 
@@ -19564,16 +19564,16 @@ Nothing happened...?
 ---
 
  
-**? ? ? :**
+**???:**
 Halt, scoundrels! How dare you point your weapons at an innocent young {(M) man /(F) woman}!? 
  
-**? ? ? :**
+**???:**
 I may not know my right hand from my left in these foreign lands, but I still know a villain when I see one! 
  
-**? ? ? :**
+**???:**
 Touch one hair on {(M) his /(F) her} beautiful head,and I will cut you down where you stand! 
  
-**? ? ? :**
+**???:**
 Heaven's vengeance may be slow, but this wandering swordmaster will make sure nothing slips by! If you fear not my blades, then have at you! 
  
 ---
@@ -19592,7 +19592,7 @@ Heaven's vengeance may be slow, but this wandering swordmaster will make sure no
 **Musashi:**
 Hi there, Fujimaru! Long time no see! I KNEW I'd run into you again someday! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 I-I'm picking up an unidentified Servant reading! Did someone just appear out of nowhere, Master!? 
@@ -19722,7 +19722,7 @@ So I ain't gotta keep her outta my line of fire, huh? Gotta say, that lady's one
 **Billy:**
 Damn glad she's with us! All right, Master, let's mow these guys down! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Billy:**
 Fire! 
@@ -20180,7 +20180,7 @@ I had to save bits and pieces of these creatures to eat so I could keep a minimu
 **Musashi:**
 No more worrying about keeping the tasty bits intact. Time to show these things what I can really do! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Billy:**
 Hm, how to wrap this up? Maybe a good,old-fashioned “See you in hell” or somethin'...? 
@@ -20996,7 +20996,7 @@ Fortunately, that means we may only have to contend with the Oprichniki army for
 **Beowulf:**
 But either way, we're not heading to the capital just yet. First, we need to rescue Atalante and Salieri! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Atalante Alter:**
 ...I am so ashamed. I cannot believe they decided to spare us. 
@@ -22323,7 +22323,7 @@ Anyway, this isn't the sort of problem you can solve in a day, and in the meanti
 **Musashi:**
 And when we face Ivan the Terrible, I plan on repaying for all the help I got in Shimousa and then some! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 Chaldea had assembled a group of mages chosen for their aptitude for Rayshifting. Of these mages, Team A was head and shoulders above the rest. 
@@ -22400,7 +22400,7 @@ But not me. There was only ONE thing I had.
 **Narration:**
 All I could do was cling to the lucky coincidence that I just happened to be able to command high-quality Servants. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Peperoncino:**
 Oh come on, that's no coincidence. Being good at other things doesn't necessarily mean you're the right person to restore humanity, you know? 
@@ -22507,21 +22507,21 @@ But when I heard that, I was overwhelmed by the strongest jealousy I'd ever felt
 **Narration:**
 That could've been me! I could've done everything{(M) he /(F) she} did! I could've done it BETTER! 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
-**? ? ? :**
+**???:**
 ...Circumstantial change confirmed. 
  
-**? ? ? :**
+**???:**
 I have a proposal for you chosen ones. An offer for those of you who were cast aside. 
  
 **Narration:**
 ...I heard a voice that wasn't my own. A voice so calm, so dispassionate, in such stark contrast to the gravity of what it had to say. 
  
-**? ? ? :**
+**???:**
 If you desire acclamation, then choose rebirth. If you desire indolence, then choose eternal sleep. 
  
-**? ? ? :**
+**???:**
 It makes no difference to God. 
  
 **Narration:**
@@ -22530,13 +22530,13 @@ It makes no difference to God.
 **Narration:**
 The other six all made the same choice. So then each of us was given territory, and a Heroic Spirit. 
  
-**? ? ? :**
+**???:**
 I have descended upon this world from another. 
  
-**? ? ? :**
+**???:**
 The Tree of Emptiness will reset this world. From there, it will create new mythology. 
  
-**? ? ? :**
+**???:**
 Crush Proper Human History. Construct new gods with your own hands. Create laws that are capable of accepting me. 
  
 **Narration:**
@@ -22569,7 +22569,7 @@ I'm going to put an end to his centuries-long reign,and save Russia from his tyr
 **Narration:**
 Not for the Yaga's sake, but for hers. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Anastasia:**
 ...I don't mind either way. Well, no, I suppose that's not true. 
@@ -22610,7 +22610,7 @@ All right, Kadoc, it's time to make a stand. It's time to grit your teeth and fa
 **Narration:**
 Remember, everything you're doing...is for THIS world. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Salieri:**
 ...I'm surprised you let me live. 
@@ -23333,7 +23333,7 @@ Ha, is that so? If you think you can handle me,then you just take your best shot
 **Beowulf:**
 But I should warn you, not even the dragon was able to choke me down! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Minotaur:**
 HEEHEE, HEEHEEHEEHEE! YOU LOOK...GOOD ENOUGH TO EAT! 
@@ -23437,7 +23437,7 @@ Still, if you were hoping that'd surprise us, demon of the labyrinth, you've got
 **Beowulf:**
 Let's find out once and for all if you're a worthier foe than Grendel! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Beowulf:**
 Try THIS on for size! 
@@ -23468,7 +23468,7 @@ WHAT...WHAT WAS THAT...MEMORY...?
 **Minotaur:**
 NOBODY...EVER LOOKED AT ME...LIKE THAT...I WISH...I'D BEEN...THAT ME...
  
-**? ? ? :**
+**???:**
 Ah, I see you've defeated him. My apologies for my tardiness. 
  
 **Beowulf:**
@@ -23855,7 +23855,7 @@ Well, that didn't take long. I suppose I should have expected that here. Nonethe
 **Anastasia:**
 ...now that the Tsar is about to awaken from his dream,I'm afraid you Oprichniki have outlived your usefulness. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Narration:**
 ...This took place not too long ago. Back when I had only just been summoned. 
@@ -24083,7 +24083,7 @@ And that...wasn't too bad...at all...
 Ah...Aah...Aaaaaah. 
  
 **Salieri:**
-AaaaaaaaaAAAAAAaaahhh! ! ! 
+AaaaaaaaaAAAAAAaaahhh!!! 
  
 **Salieri:**
 That's right. I remember now...I...I...! 
@@ -24097,7 +24097,7 @@ You may play it for Amadeus, or the Tsar...or for yourself, when you lost sight 
 **B：Priest:**
 You will find an instrument right over there. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Patxi:**
 That's ridiculous! What the hell are you thinking!? 
@@ -24287,7 +24287,7 @@ What's wrong?
 **Musashi:**
 ...Doesn't look like it. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Narration:**
 ...Aah.... Aah, aah, aah. 
@@ -24825,7 +24825,7 @@ I'm going to fight, for the people I care about.
 **Patxi:**
 I...Huh!? 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Narration:**
 ...I awaken from my long dream, only to find myself alone. 
@@ -24931,7 +24931,7 @@ Chaldea...The keepers of Chaldeas! You let some of them escape, Koyanskaya!?
 ...I know Avicebron the golem master made that. 
  
 **Kadoc:**
-And I know it's possible to ride on its shoulder, since it's outfitted with defensive spells, but...it's one thing to know it and another to DO it! ! ! 
+And I know it's possible to ride on its shoulder, since it's outfitted with defensive spells, but...it's one thing to know it and another to DO it!!! 
  
 **Kadoc:**
 Are you out of your damn mind, Fujimaru? Hmm...Maybe this is exactly the sort of crazy you need to be to succeed in these sorts of situations. 
@@ -24945,7 +24945,7 @@ I'll have to remember that one! Dammit!
 **Anastasia:**
 But, this is simply what fate has in store. Prepare to die, Ivan the Terrible! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ...The giant's fists roared. Each blow slammed into the Tsar's monstrous form with earth-shattering force. 
 The Tsar howled, raising his trunk and calling down lightning from the very heavens. 
@@ -25294,7 +25294,7 @@ I know that! This is our last chance! We have to pull him off that mammoth, no m
 **Atalante Alter:**
 Get the golem ready, Fujimaru! We are going to stop this Demonic Beast once and for all! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Beowulf:**
 Dammit, it's still not enough! And we're too far from the palace to boot! 
@@ -25517,7 +25517,7 @@ There's no reason both of you have to die here too!
 **Musashi:**
 ...
  
-**? ? ? :**
+**???:**
 Do you copy? ...on our way now...We'll arrive in&ndash;
  
 **Beowulf:**
@@ -25550,7 +25550,7 @@ What the!?
 ...Hrm!? 
  
 **Mash:**
-Senpaaaaaai! ! ! 
+Senpaaaaaai!!! 
  
 ---
 
@@ -25633,7 +25633,7 @@ Thank you!
 Here it comes! Ivan the Terrible's about to unleash another lightning blast! 
  
 **Mash:**
-Ha&ndash;Aaaaaahhh! ! ! 
+Ha&ndash;Aaaaaahhh!!! 
  
 **Narration:**
 ...In that moment...
@@ -25749,7 +25749,7 @@ Plus, this is clearly the decisive moment of this battle! It's the Sekigahara of
 Come hither, my roaring sword! 
  
 **Musashi:**
-Ishana Daitenshou! ! ! 
+Ishana Daitenshou!!! 
  
 **Anastasia:**
 Impossible...Did she just cut the Tsar!? It seems as though she split his enormous trunk clean in half...! 
@@ -26165,7 +26165,7 @@ Billy ought to be headed there too,now that the Oprichniki are gone.
 **Atalante Alter:**
 Come, Yaga. It is time for the final battle. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Narration:**
 I was lonely, indifferent, wicked. 
@@ -26349,9 +26349,9 @@ I...I still have not lost...!
 These injuries are nothing to me! The lives you weaklings from Proper Human History have led are NOTHING compared to the suffering of my subjects! 
  
 **Ivan the Terrible:**
-Behold the power of the Yaga...The power of the Tsar...! ! ! 
+Behold the power of the Yaga...The power of the Tsar...!!! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ivan the Terrible:**
 Ah...Aah...Aaaaaah...So, this...This is the end...
@@ -26454,7 +26454,7 @@ Or what? You're telling me you don't care what happens to those kids anymore?
 **Atalante Alter:**
 ...No, you are right.... I am so sorry, Fujimaru. 
  
-**--ARROW--:**
+**--ARROW--**
  
 ...Just as life has winners and losers,so too does history itself. 
 History's true winner was always Proper Human History,the world Fujimaru set in place. 
@@ -26613,7 +26613,7 @@ Atalante's making a move! She's about to engage Fujimaru in combat...!
 **Atalante Alter:**
 All I wanted...was to save this world. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 (Huff, huff, huff...)
@@ -26643,7 +26643,7 @@ Just stop...
 **Yaga Rebel Soldier:**
 Now's our chance! Fiiire! 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Narration:**
 ...There. You see that? I know you did. 
@@ -26699,7 +26699,7 @@ If there's anything I AM scared of, I think...
 **Narration:**
 ...it's the idea of someone dying when they know how to go through life smiling. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Patxi:**
 Ah...dammit. 
@@ -26865,10 +26865,10 @@ As long as you keep standing, Master...I'll always be there with you...!
 **Yaga Rebel Soldier:**
 What the...!? M-my gun! 
  
-**? ? ? :**
+**???:**
 This ain't no fit place for the likes of you. Y'all done chose her for your boss, right? 
  
-**? ? ? :**
+**???:**
 Then ain't no way to settle this but a duel. 
  
 **Mash:**
@@ -27095,7 +27095,7 @@ I am Anastasia Nikolaevna Romanova.
 **Anastasia:**
 I am the new Tsaritza, and I shall destroy my Master's enemies, for they are Russia's enemies as well...! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Kadoc:**
 How...!? I KNOW we're stronger! I KNOW WE ARE! 
@@ -27125,7 +27125,7 @@ I promised I'd make her tsaritza! If I can't do that in this world, I'll just bu
 Then I'll make her tsaritza there! I'm not gonna give up! I'll NEVER give up! 
  
 **Kadoc:**
-I know I can do what you've done! That and more! ! ! 
+I know I can do what you've done! That and more!!! 
  
 ---
 
@@ -27256,7 +27256,7 @@ No problem, Master. Just doin' my job.
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Goredolf:**
 H-hmm...I'm surprised to see that wicked Servant save her Master's life...
@@ -27354,7 +27354,7 @@ Kadoc let slip our enemy's name once before. The first Lostbelt's Tree of Emptin
 **Mash:**
 The central heat source appears to be located five thousand meters above! Initiating ascent now...! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The Tree of Emptiness's heat source is gone! But, I'm afraid we still have another problem...
@@ -27383,7 +27383,7 @@ Ah! Master, over there...!
 **Mash:**
 There's something by the tree's roots...
  
-**? ? ? :**
+**???:**
 ...
  
 **Billy:**
@@ -28006,16 +28006,16 @@ There, it's done! Here, listen!
 **Mash:**
 Ah! 
  
-**? ? ? :**
+**???:**
 “This is Baldanders. I am currently traveling across the North Atlantic Ocean. ”
  
-**? ? ? :**
+**???:**
 “I await other survivors. I repeat: I await other survivors from the correct history. ”
  
-**? ? ? :**
+**???:**
 “Please come find me at the following coordinates. ”
  
-**? ? ? :**
+**???:**
 “This is Baldanders, the Wandering Sea. ”
  
 **Goredolf:**
@@ -28030,5 +28030,5 @@ That's one of the three great organizations of the magecraft world...! There's t
 **Goredolf:**
 Does this mean...it still exists!? 
  
-**? ? ? :**
+**???:**
 “...I repeat: I am a mage from Proper Human History. Please come find me at the following coordinates...”

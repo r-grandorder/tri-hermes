@@ -222,7 +222,7 @@ I remember my lips rose up into a grin.
 **Narration:**
 And then the world went black. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Staff:**
 Doctor? Are you asleep? Doctor? 
@@ -1528,7 +1528,7 @@ Dealing with a Demon God Pillar or two is no big deal now!
 **Mash:**
 Yes...! Here I go, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **A：Demon God Flauros:**
 It's pointless. Everything you do is pointless! Ha, ha, ha. Ha, ha, ha, ha. Hahahahahahahahahahahaha! 
@@ -1739,31 +1739,31 @@ Mash...!
 ---
 
  
-**? ? ? :**
+**???:**
 No. Calling it pointless is ludicrous. Isn't it a bit too early for you to be giving up? 
  
-**? ? ? :**
+**???:**
 This battle was a long journey that took you back through human history. However, you never once fell to despair. 
  
-**? ? ? :**
+**???:**
 That because you had so many encounters on that journey. 
  
-**? ? ? :**
+**???:**
 Even if this entire planet became the battleground for the Holy Grail War. 
  
-**? ? ? :**
+**???:**
 Even if everything on this land had turned into eternal ruinous grounds. 
  
-**? ? ? :**
+**???:**
 Even if countless powerful enemies stood in your away at the end of your journey. 
  
-**? ? ? :**
+**???:**
 You never gave up. You looked forward, knowing our fate has not yet been decided. 
  
-**? ? ? :**
+**???:**
 This is no different. Now...let the battles begin, Master. 
  
-**? ? ? :**
+**???:**
 Wasn't this meant to be a story about us taking back our future together? 
  
 **A：Demon God Flauros:**
@@ -1797,22 +1797,22 @@ Yes, that was...!
 ---
 
  
-**? ? ? :**
+**???:**
 Primates have flourished for thousands of years. 
  
-**? ? ? :**
+**???:**
 The Age of Gods has ended, and through time, mankind has become the most prosperous beings on Earth. 
  
-**? ? ? :**
+**???:**
 And so we shape the future of this planet, and inscribe its history on the surface. 
  
-**? ? ? :**
+**???:**
 For that, we nurtured knowledge, produced many resources, and saw countless lives reincarnated. 
  
-**? ? ? :**
+**???:**
 It is a map to prolong mankind's survival, and to ensure its everlasting prosperity. 
  
-**? ? ? :**
+**???:**
 In the world of magecraft, this is called “Humanity. ” Those at Chaldea have been charged to protect it. 
  
 **Dr. Roman:**
@@ -1871,22 +1871,22 @@ What's going on? Why are we being overpowered?
 **Demon God Ose:**
 How are humans, who reject mutual understanding, fighting together like this!? 
  
-**? ? ? :**
+**???:**
 ...Yes. It's true that we are life-forms who are obsessed with self-interest. 
  
-**? ? ? :**
+**???:**
 And it's no different as a Heroic Spirit. In fact, it is because we are Heroic Spirits that we cannot abandon our convictions. 
  
-**? ? ? :**
+**???:**
 But...There is one human who believes in us. 
  
-**? ? ? :**
+**???:**
 A human who still believes that we are heroes, even after meeting so many Heroic Spirits and witnessing so many battles. 
  
-**? ? ? :**
+**???:**
 What Heroic Spirit could ignore that call? 
  
-**? ? ? :**
+**???:**
 O Lord. I shall raise my flag once again for the salvation of a nation...Nay, for the salvation of this world. 
  
 **Jeanne d'Arc:**
@@ -2067,7 +2067,7 @@ This is shaping up to be quite the battle, but we have plenty of help this time.
 **Amadeus:**
 Let us finish off this prelude so that we may hurry on to our next venue! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Demon God Zepar:**
 This cannot be! I was unaware of any predicted future matching this! 
@@ -2326,7 +2326,7 @@ I do not know all the details, but if I am not mistaken, those horrible creature
 Then I will take this opportunity to repay a debt. My friend, I will swing my meteor-metal sword with all of my soul. 
  
 **Lu Bu:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;!! 
  
 **Boudica:**
 Oh come on! She blabbed on so long that Lu Bu started to get impatient and go on a rampage! 
@@ -2413,7 +2413,7 @@ However, we are not afraid of the Demon Gods. Not as long as we are the great so
 Crimson and gold shall conquer! We obey your orders alone, Your Majesty! 
  
 **Nero:**
-...! ! ! 
+...!!! 
  
 **Nero:**
 Splendid words, my Legion...
@@ -2455,10 +2455,10 @@ You are beautiful. You should be proud. That beauty is the nobility of your soul
 Uncle...You're...talking...!? 
  
 **Caligula:**
-Oooooohhh...! ! ! Rome, immortal...Destroy Demon God Pillaaaaaarrrsss...! ! ! 
+Oooooohhh...!!! Rome, immortal...Destroy Demon God Pillaaaaaarrrsss...!!! 
  
 **Caligula:**
-Destrooooooy! ! 
+Destrooooooy!! 
  
 **Caesar:**
 Do not grieve, Fifth Emperor. Caligula is only able to regain rationality for mere moments at a time. 
@@ -2481,14 +2481,14 @@ No, details do not matter anymore! Oh, to have even that momentary emperor and t
 **Caesar:**
 Mm, “momentary emperor”...Well, call me whatever you wish. I certainly won't argue with that. 
  
-**? ? ? :**
+**???:**
 Nero. My dear child, I must tell you something. 
  
-**? ? ? :**
+**???:**
 Words. A great command that howls to the heavens. Rome shall help you and Fujimaru at this moment. 
  
 **Nero:**
-...! ! 
+...!! 
  
 **Nero:**
 My ears do not deceive me. That tone, that majestic appearance...He is unmistakably the founding king...
@@ -2545,7 +2545,7 @@ Prove it! Fight! Be victorious! Everything is permitted for you!
 Ooooooooooooooohhh...! Long live the Holy Progenitor! Long live Her Imperial Majesty, Nero Claudius! 
  
 **Nero:**
-Umu. Umu...! ! ! 
+Umu. Umu...!!! 
  
 **Nero:**
 Clothe yourselves in crimson and gold! Rome and your Emperor promise you the glory of victory! 
@@ -2557,7 +2557,7 @@ The Demon Gods will learn. They will learn the name of their destroyer!
 They will witness a brilliance that will never go out, a brilliance that overcomes even the lights of despair that tear through the sky! 
  
 **Nero:**
-Now go! The final battle begins! ! 
+Now go! The final battle begins!! 
  
 ## Section 3: Information Center, Terminated 
  
@@ -2631,13 +2631,13 @@ That's my line...No matter. I'll do the best I can, my king.
 Roger that, my future retainer! Now let's go wild on the battlefield again, Bucephalus! 
  
 **G：Bucephalus:**
-...! ! ! 
+...!!! 
  
 **Alexander:**
 And another helper. Now, let's get going, my future rival! 
  
 **Darius III:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)...! ! ! 
+![2-light](https://i.imgur.com/7VYgcEB.png)...!!! 
  
 **El-Melloi II:**
 Are you managing to control him? Well, as long as he's not attacking us, I suppose he's under control...
@@ -2655,7 +2655,7 @@ You know, I don't hate you. I probably even like you.
 ...I don't know how the future me will be, but I don't think he'd hate you. Yes, I'm sure of it. 
  
 **Darius III:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)...
+![1-light](https://i.imgur.com/XAqlQYL.png)...
  
 **Alexander:**
 Even now, I don't want to wait for my own future to have a chance to fight you. We couldn't do it back in Rome. 
@@ -2685,7 +2685,7 @@ I'm sure you want to kill me with all of your being, so why are you fighting tho
 It'd make sense if it was because you couldn't fight me if the world ended, but that can't be it. 
  
 **Darius III:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;
  
 **Alexander:**
 Right. Maybe...and this is just a maybe...
@@ -2694,7 +2694,7 @@ Right. Maybe...and this is just a maybe...
 Through that Madness Enhancement of yours, you saw the possibility of us fighting side by side. 
  
 **Darius III:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)! ! ! ! 
+![2-light](https://i.imgur.com/7VYgcEB.png)!!!! 
  
 **El-Melloi II:**
 Ascension!? Alexander, you've overstimulated him! 
@@ -2712,7 +2712,7 @@ Sorry to keep you waiting. Anyway, let's go!
 Darius III and Lord El-Melloi II, my future rival and my future retainer! Let us go forth! 
  
 **Lu Bu:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;!! 
  
 **Spartacus:**
 Tyranny! Tyranny! Tyranny! Will you whip my flesh?! A never-ending sea of flesh is the symbol of tyranny! 
@@ -2727,7 +2727,7 @@ Don't use your Noble Phantasm at close range, Spartacus! Lu Bu, you're up too fa
 Tear them down! Break them and advance! Your destructive power is more than welcome right now! 
  
 **Lu Bu:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)...! ! 
+![2-light](https://i.imgur.com/7VYgcEB.png)...!! 
  
 **Jing Ke:**
 I know. I know. I'm not trying to act like the king. I don't want to be the commander either, so there's no need to get angry with me! 
@@ -2985,7 +2985,7 @@ What is the matter, Holy Progenitor? Why are you looking over there...
 This sound! From the sky...Something's falling on the Demon God Pillar!? 
  
 **Jing Ke:**
-So much magical energy...! ! 
+So much magical energy...!! 
  
 **Nero:**
 A pillar of light rammed into the Demon God...! It's so bright, I cannot see anything! What's going on!? 
@@ -3015,10 +3015,10 @@ Umu! I guess I'm always late to the party! Yes...I mean...?
 What was that? That was an amazing Noble Phantasm! I don't think we've seen that one before, have we? 
  
 **Lu Bu:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)...! ! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)...!!! 
  
 **Spartacus:**
-Tyranny! ! ! 
+Tyranny!!! 
  
 **Jing Ke:**
 There, there. Calm down, calm down. Don't just run off towards any magical energy you sense. 
@@ -3027,7 +3027,7 @@ There, there. Calm down, calm down. Don't just run off towards any magical energ
 No, on second thought, the Demon God Pillars have the most magical energy around. Just follow your instincts. 
  
 **Lu Bu:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)...! ! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)...!!! 
  
 **Caesar:**
 ...Holy Progenitor. That looks like Mars' sword. 
@@ -3172,7 +3172,7 @@ Wow, this is completely useless information to be giving me now that I'm dead!
 Okay, gunners! Throw Bombe into the cannons and fire him at that meat pillar! 
  
 **Bombe:**
-Aaah! Please, no! I'll do my job! ! 
+Aaah! Please, no! I'll do my job!! 
  
 **Bombe:**
 Come on, quit slacking off and work, men! I don't know what's going on, but we got dragged into this mess, too! 
@@ -3513,7 +3513,7 @@ But things are different this time! Our captain may be an idiot, but he puts him
 Aye, right indeed. 
  
 **Blackbeard:**
-Hooot! My butt! My butt! My butt is on fiiiiiire! ! ! 
+Hooot! My butt! My butt! My butt is on fiiiiiire!!! 
  
 **Blackbeard:**
 Bucket! Bucket! BUCKET! 
@@ -3753,7 +3753,7 @@ Yes, let's go. We'll support you, Heracles!
 I, Medea, will support and strengthen you with everything I have. Show them the power of the famous hero of myth! 
  
 **Heracles:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)! ! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)!!! 
  
 **Hektor:**
 See ya, Captain Jason! Just stay there and wait for good news! 
@@ -3857,7 +3857,7 @@ You never seem to have a proper Master, and this is different from a Holy Grail 
 ...Does that go for me, too? Looks like I'm not human here...
  
 **Hyde:**
-Hee, heehee! Hyahahahahahahahahaha...! ! 
+Hee, heehee! Hyahahahahahahahahaha...!! 
  
 **Hyde:**
 Here it comes, here it comes! Here it comes, here it comes, here it comes! Hyahahahaha! Now we're talking! I'm heeere! 
@@ -3892,11 +3892,11 @@ Got it? If you get out of hand, I'll kill you.
 **D：? ? ? :**
 Precisely. Control yourself. Leave the enemy to us! 
  
-**? ? ? :**
+**???:**
 Observe! The thunder of the gods hath come! Heh-heh, heh, hahahahahahahaha! A perfectly executed three-phase electrical current! 
  
 **Jekyll:**
-Th-that output...and that high-pitched laugh...! ! ! 
+Th-that output...and that high-pitched laugh...!!! 
  
 **Mordred:**
 Oh. It's him. Though I figured he would show up. 
@@ -3911,7 +3911,7 @@ Why are you fashionably late to the fight!? Are you an idiot!?
 I was escorting a maiden who was lost. Heh. I do not care if you forgive me or not. 
  
 **Frankenstein:**
-Uhh, uhh...Uuuh, uuuh...! ! ! 
+Uhh, uhh...Uuuh, uuuh...!!! 
  
 **Jekyll:**
 Is that Fran over there!? I see. So you came, too. 
@@ -3932,7 +3932,7 @@ Fran&mdash;Oh, wait. Which one are you?
 Are you still alive, like last time, or are you a Heroic Spirit? Or are you ambiguous like Jekyll over here? 
  
 **Frankenstein:**
-Uuh, uuh. Uuh...! ! ! 
+Uuh, uuh. Uuh...!!! 
  
 **Mordred:**
 Huh. I see. Glad to hear it! 
@@ -3950,7 +3950,7 @@ She's not Fran. She's Frankenstein. The one I scrapped once before...Well, you k
 See!? She's a Berserker! 
  
 **Frankenstein:**
-Uuuuuuh, naaaaaaaaaaaa! ! ! 
+Uuuuuuh, naaaaaaaaaaaa!!! 
  
 **Nikola Tesla:**
 Wonderful electricity! This pure thunder and lightning that stirs up the atmosphere is definitely alternating current! 
@@ -4010,7 +4010,7 @@ Is that right!? Then I'll be the sword!
 I'll slice through the heavens, cleave the ground, and slash through the Demon Gods along with the sky! Yes, that's the electric spark of my treasured sword! 
  
 **Sakata Kintoki:**
-The unparalleled Golden Spark! ! ! 
+The unparalleled Golden Spark!!! 
  
 **Nikola Tesla:**
 He's here! Mr. Golden! 
@@ -4055,10 +4055,10 @@ I smash devils, punch fiends, and sometimes ride a golden machine!
 I'm gonna do this! Here I go! A flash of thunder and lightning, Gorgeous Golden Rider...
  
 **Sakata Kintoki:**
-...Traaansfooorm! ! ! 
+...Traaansfooorm!!! 
  
 **Nikola Tesla:**
-! ! ! ! ! 
+!!!!! 
  
 **Frankenstein:**
 Uuh, uuh...Trans...form...! 
@@ -4339,7 +4339,7 @@ Uh-huh...Righteousness, eh...? No matter how meager it is, huh!?
 Yes, but it really isn't about quantity. 
  
 **Mephistopheles:**
-Heh-heh-heh...Pfft, ahaha! ! Ahaha, ahahahahahahahahahahahahahaha! ! ! 
+Heh-heh-heh...Pfft, ahaha!! Ahaha, ahahahahahahahahahahahahahaha!!! 
  
 **Mephistopheles:**
 I see, I see. How amusing! That's wonderful! 
@@ -6791,7 +6791,7 @@ I wish you the best of luck, Master Fujimaru.
 **Dr. Roman:**
 Your enemy is Solomon, the King of Mages&mdash; With all the strength you've built up until now, destroy this Singularity! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Narration:**
 I have seen much sorrow. 
@@ -7080,7 +7080,7 @@ Fine. A suicide attack, is it? Then I shall enjoy it from my front row seat!
 **Solomon:**
 Your vain efforts, your impotence, your frustration...Offer all of it up to us! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...! 
@@ -7154,22 +7154,22 @@ I used Solomon's body as a nest and achieved incarnation through a summoning spe
 **D：Solomon:**
 My name is&mdash;
  
-**? ? ? :**
+**???:**
 Well, I will rid myself of the title “King of Mages. ”There's no more need for deception. 
  
-**? ? ? :**
+**???:**
 I had no name, but if you want to call me something, call me this: 
  
-**? ? ? :**
+**???:**
 I am the one who shall attain true wisdom, as was desired of me. 
  
-**? ? ? :**
+**???:**
 I am the one who shall devour you to reach a new height, and create a new planet. 
  
-**? ? ? :**
+**???:**
 I am the one who shall gather 72 curses, and set flame to all of history. 
  
-**? ? ? :**
+**???:**
 I am the Ritual for the Incineration of Humanity. I am Goetia, the King of Demon Gods. 
  
 ## Section 12: The Future 
@@ -7320,7 +7320,7 @@ Goetia, the King of Demon Gods, has entered a combat stance! If he uses those ba
 **Mash:**
 We need to defeat him somehow before he uses his Noble Phantasm! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Narration:**
 ...It was like time had stopped. 
@@ -7411,13 +7411,13 @@ Mash...!
 ---
 
 **Fujimaru 2:**
-Goetia! ! ! 
+Goetia!!! 
  
 
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fou:**
 Fou, fooou! 
@@ -7556,7 +7556,7 @@ You're just getting started, Master...! Your battle isn't going to end in a plac
 ---
 
 **Fujimaru 1:**
-MASH! ! ! 
+MASH!!! 
 
 ---
 
@@ -7567,7 +7567,7 @@ MASH! ! !
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Goetia:**
 Futile. Utterly futile. 
@@ -7590,18 +7590,18 @@ Do it in memory of Mash Kyrielight. Strike me with those frail human fists of yo
 ---
 
 **Fujimaru 1:**
-Fine by me! ! ! 
+Fine by me!!! 
 
 ---
 
 **Fujimaru 2:**
-NOTHING would make me happier! ! ! 
+NOTHING would make me happier!!! 
  
 
 ---
 
  
-**? ? ? :**
+**???:**
 Wait, wait, wait. Calm yourself a little, Fujimaru. 
  
 **Dr. Roman:**
@@ -7867,7 +7867,7 @@ Yeah. Okay, this is for me to do.
 **Solomon:**
 Don't worry. It won't take long. Then it's your turn. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Narration:**
 According to legend...
@@ -8157,7 +8157,7 @@ Thank you, Doctor, for everything...!
 
 ---
 
-**--BATTLE--:**
+**--BATTLE--**
  
 ## Section 13: Singularity, Collapsed 
  
@@ -8493,7 +8493,7 @@ That's obvious...!
 ---
 
 **Fujimaru 1:**
-To live! ! ! 
+To live!!! 
  
 
 ---
@@ -8679,7 +8679,7 @@ Looks like the temple is crumbling even faster than the band of light is dispers
 The floor in that area is starting to collapse, too! It could give way any second now! 
  
 **Da Vinci:**
-The Rayshift point is five hundred meters ahead! Hurry! ! ! 
+The Rayshift point is five hundred meters ahead! Hurry!!! 
  
 ---
 
@@ -8796,7 +8796,7 @@ I want you to witness this. This brief moment is now my story.
 **Goetia:**
 This brief but precious time has given the creature called Goetia true life. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -8867,7 +8867,7 @@ Dammit...I was so close...
 ---
 
  
-**? ? ? :**
+**???:**
 There's still a chance! Reach out! Senpai, grab my hand! 
  
 ---
@@ -8884,106 +8884,106 @@ There's still a chance! Reach out! Senpai, grab my hand!
 **Mash:**
 ...
  
-**? ? ? :**
+**???:**
 ...
  
-**? ? ? :**
+**???:**
 Oh, good. You're still here, Mash. 
  
-**? ? ? :**
+**???:**
 You've completely disappeared. This, Mash, is your death. 
  
-**? ? ? :**
+**???:**
 Even still, your will persists in this void. There are yet many things you need to do. 
  
-**? ? ? :**
+**???:**
 That's why I'm not saying, “Well done. ”Instead, I will say, “Goodbye. ”
  
 **Mash:**
 ...
  
-**? ? ? :**
+**???:**
 We don't have much time, so I'll be brief: I am going to bring you back to life. 
  
-**? ? ? :**
+**???:**
 I am the embodiment of comparison. 
  
-**? ? ? :**
+**???:**
 I am the Beast that feeds on the energies that come from humans who grow and compete, who envy others' strength, who regret their own weakness. I am the Beast who stands over any and all opponents. 
  
-**? ? ? :**
+**???:**
 I am Cath Palug, a Beast of Disaster. In a different world, I was called “Primate Murder. ”
  
-**? ? ? :**
+**???:**
 As long as I stay away from human society, I'm just a harmless animal. That's why I remained on a remote island. 
  
-**? ? ? :**
+**???:**
 But the mage who was taking care of me was a real bastard. 
  
-**? ? ? :**
+**???:**
 He kicked me out of his warm, snug tower, and forced me to live outside. 
  
-**? ? ? :**
+**???:**
 ...But, that is how I ended up in Chaldea...which is where I met you and Fujimaru. 
  
 **Mash:**
 You...are...
  
-**? ? ? :**
+**???:**
 I hope you don't mind me interfering like this. 
  
-**? ? ? :**
+**???:**
 Then again, the mage always said that an act of goodwill was something forced onto someone...Let's just go with that. 
  
-**? ? ? :**
+**???:**
 Over the last few centuries, I've accumulated incredible amounts of magical energy. Using that, I'll perform a miracle that even True Magic could never achieve. 
  
-**? ? ? :**
+**???:**
 ...Although, I suppose death in the Temple of Time doesn't quite count in reality. 
  
-**? ? ? :**
+**???:**
 What I'm going to do is transfer my future to you. It will be powerful enough to extend your life past the three days you have left. 
  
-**? ? ? :**
+**???:**
 However, I'm not fully grown. So, the time I can give you will only amount to an average human lifespan. 
  
-**? ? ? :**
+**???:**
 Once I've done this, I will just be an ordinary beast. I will lose my intellect, my personality. 
  
-**? ? ? :**
+**???:**
 Up till now, I've been chiming into your conversations meaningfully, but from here on, all I'll be able to do is make animal noises. 
  
-**? ? ? :**
+**???:**
 But, I don't want you to worry about that. Nothing will change for you guys. 
  
-**? ? ? :**
+**???:**
 Still...It is a bit of a lonely way to go out. That's why I wanted to at least say goodbye here at the end. 
  
-**? ? ? :**
+**???:**
 Goodbye, Mash Kyrielight. My time with all of you, this journey, has been truly wonderful. 
  
-**? ? ? :**
+**???:**
 Normally, around people, I transform into a hideous beast, but this time I was able to stay in this form until the very end. 
  
 **Mash:**
 Wait...Fou...Fou! 
  
-**? ? ? :**
+**???:**
 ...When the mage sent me out, he told me,“Go, experience all the beauty the world has to offer. ”
  
-**? ? ? :**
+**???:**
 And, well...I have seen truly beautiful things. 
  
-**? ? ? :**
+**???:**
 There are some evils that can be defeated without shedding blood, or crossing blades. And...that is what has made this possible. 
  
-**? ? ? :**
+**???:**
 Congratulations to you, the wonderful people of Chaldea. You have defeated Beast IV without so much as a single blow. 
  
-**? ? ? :**
+**???:**
 Fou...? Kyuu...Kyuu? 
  
-**? ? ? :**
+**???:**
 Fou! Fou...fou! 
  
 ---

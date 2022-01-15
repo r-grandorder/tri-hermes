@@ -545,7 +545,7 @@ You aren't facing Servants or monsters,but they have great numbers. Be careful!
 **Mash:**
 Right! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **D：? ? ? :**
 Sheathe your swords! It's over. You there! Are you reinforcements from the capital? 
@@ -645,7 +645,7 @@ Huh? Uh, right!
 **Mash:**
 ...Senpai, now we're the ones under command somehow! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **D：? ? ? :**
 ...Somehow we're out of the danger. You ended up saving the day again. 
@@ -725,7 +725,7 @@ Uncle, how could you?
 **Mash:**
 Here he comes! It's a Servant Battle. Master, your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Caligula:**
 Oh...Oh. My beloved...younger sister's...child...
@@ -987,7 +987,7 @@ How dare you do this to my Rome, and my people! Are they enemy spies? Either way
 **Mash:**
 ...Senpai, we should go too! The townsfolk are being attacked! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nero:**
 &ndash;Now then. My Rome is currently endangered. 
@@ -1259,7 +1259,7 @@ You're facing human forces, not Servants or monsters. Take it easy on them you t
 **Mash:**
 Got it. Master, your commands please. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The sun is setting, but it seems the attack isn't over yet. 
@@ -1270,7 +1270,7 @@ I'm worried about the enemy's numbers. Keep an eye on Fujimaru's stamina and mag
 **Mash:**
 Yes Doctor. Master, try not to exert yourself too much. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...It's getting dark, huh? 
@@ -1281,7 +1281,7 @@ The enemy isn't letting up. As expected in the age of close combat, they all hav
 **Dr. Roman:**
 Still, this is where you need to make your stand. Don't let your guard down, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Whew. The enemy is retreating. 
@@ -1453,7 +1453,7 @@ Secure the leyline!
 **Mash:**
 Roger Master! Initiating combat! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The battle is over. Now I'll create a terminal point&ndash;
@@ -1476,7 +1476,7 @@ Fou, fou...
 **Mash:**
 I've completed the summoning circle. Now we can secure combat personnel even in this era. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Now then, let's return to Rome. Thank goodness there were fewer battles than I expected. 
@@ -1487,13 +1487,13 @@ What? No, wait, I am still detecting some magical energy.
 **Dr. Roman:**
 Did it get drawn by the energy that was leaking before the circle was established? 
  
-**? ? ? :**
+**???:**
 ...Oh...oh...oh! 
  
 **Mash:**
 ...Senpai, the opponent is a non-physical type. Your battle commands! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 &ndash;No sign of any nearby enemies. 
@@ -1656,7 +1656,7 @@ Anyway, here they come! Flanking from left and right! Prepare for immediate comb
 **Nero:**
 Umu, we'll get rid of them! Fujimaru, I'll leave the right side to you! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nero:**
 You handled those veterans like they were nobodies. With such small numbers, too. 
@@ -1736,7 +1736,7 @@ No, it's nothing. Nothing. Whoops! Another enemy attack! More regular soldiers, 
 **Nero:**
 This mage is really quite useful. Go on then, crush them once more! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Battle over. We've only sustained minor casualties. 
@@ -1974,7 +1974,7 @@ Sometime we can't let them go.
 **Mash:**
 Right. Let's go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 &ndash;So that's the story. I think we'll be in your care for a while. 
@@ -2195,7 +2195,7 @@ Of course I mean Britannia cuisine, not Roman. &ndash;So, let's meet face to fac
 **Boudica:**
 My True Name is Boudica, class Rider! Be careful, because my chariot is extremely strong! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Boudica:**
 Ah.... I must say, I am happy to be proven wrong about you. 
@@ -2481,7 +2481,7 @@ Let's be careful out there!
 **Mash:**
 Right! Order understood! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...What was that enemy just now. 
@@ -2495,7 +2495,7 @@ Or was it Lev Lainur&ndash;?
 **Nero:**
 Stop daydreaming! We're charging into the enemy's main camp! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 I am getting a reading on non-human, non-Servant entity. Fujimaru, more golems are coming! 
@@ -2503,7 +2503,7 @@ I am getting a reading on non-human, non-Servant entity. Fujimaru, more golems a
 **Mash:**
 I will crush them. Master, your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Caesar:**
 ...So you're here. 
@@ -2626,12 +2626,12 @@ Haha, that's the spirit. Protect her well, Demi-Servant.
 Fight well and perhaps I will tell you where to find the Holy Grail that you seek. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Caesar:**
 Now then&ndash;Come forth. The die has already been cast. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Caesar:**
 Hmm, you certainly are strong. No&ndash;
@@ -2679,7 +2679,7 @@ Try to relax. You are beautiful, truly beautiful. Your beauty can match any othe
 You, Demi-Servant, you too are beautiful. Very nice indeed. Nice body, too. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Caesar:**
 I admire your courage, strength, and beauty. Therefore, I shall tell you one thing. 
@@ -2726,7 +2726,7 @@ I guess our opponent has gotten serious! Or rather, he didn't fight seriously un
 **Caesar:**
 I came, I saw. Now, I must conquer! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nero:**
 Mm, mmm...Did we...get him? 
@@ -3087,7 +3087,7 @@ Be careful, but be quick.
 **Mash:**
 Yes, Master. Commencing battle! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 &ndash;The battle has ended. There are no reinforcements. 
@@ -3266,7 +3266,7 @@ Yes, I have detected multiple lifeforms. I am getting hostile readings from the 
 **Nero:**
 I'd leave them be if they're fleeing home, but if they're headed here it can't be helped. Let's defeat them! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nero:**
 It's more or less taken care of. Now then, let's regroup and head out to the sea. 
@@ -3358,7 +3358,7 @@ Wait, maybe we don't have to look after all? It seems the god is coming to greet
 However, I am detecting a Servant. Be on your guard. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Nero:**
 What, another enemy attack? So this island is also under the United Empire's control. 
@@ -3519,7 +3519,7 @@ Let's ask them to leave.
 **Mash:**
 Yes Senpai, commencing interceptive combat! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nero:**
 Anyway! Stop leaving me out of the conversation! 
@@ -3614,7 +3614,7 @@ I don't care what kind of treasure it is. I try to love everything.
 **Dr. Roman:**
 All right then, let's head for the cave now! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Nero:**
 Ugh...
@@ -3646,7 +3646,7 @@ Set us up? Oh, hahaha...
 **Skeleton Soldier:**
 (clank, clank, clank)
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nero:**
 What's going on here? This cave is full of skeletons! 
@@ -3663,7 +3663,7 @@ Mm, mmm, mmm! Sword-wielding skeletons aren't treasure by a long shot!
 **Mash:**
 Please give me your orders, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nero:**
 Phew, I'm getting a little exhausted...I want to go back and rest...
@@ -3681,7 +3681,7 @@ What is it, Doctor? Could the Holy Grail really be here?
 No...no, it's not the Holy Grail at all! It's a Phantasmal,not a dragon, but a powerful mystical beast! 
  
 **F：? ? ? :**
-GARRRRRRRRRR! ! 
+GARRRRRRRRRR!! 
  
 **Mash:**
 This is&ndash;
@@ -3701,7 +3701,7 @@ It's powerful and has considerable toughness, so be careful!
 **Mash:**
 Roger. Master, commencing battle! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Stheno:**
 Haha. Welcome back, did you enjoy your special reward to the fullest? 
@@ -3826,7 +3826,7 @@ Ahahahaha!
 **Dr. Roman:**
 This is worse than France! I'm even more confused about what's going on! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Stheno:**
 Anyway, when I materialized in this world I dragged these two with me. 
@@ -3994,7 +3994,7 @@ I want to take it, lust over it, and tear it apart. Your purity, your divine bea
 I want to trample all over you with my entire body! I...love...you, my beloved sister's child&ndash;
  
 **Caligula:**
-&ndash;Nerooooo! ! 
+&ndash;Nerooooo!! 
  
 **Nero:**
 ...That's right. You are a beast. You are no longer my uncle! 
@@ -4011,7 +4011,7 @@ But still, if you appear before me after being lost in death...
 **Mash:**
 Master, this is going to be a Servant battle. Your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Caligula:**
 Nero...Nero...My...beautiful...niece...
@@ -4092,7 +4092,7 @@ Your enemy, this so-called United Empire, and the gathering ground for their "em
 The United Empire capital. I shall tell you its exact location. 
  
 **Nero:**
-! ! ! 
+!!! 
  
 **Dr. Roman:**
 This is...an unexpected reward. Good thing we got into the cave, eh guys? 
@@ -4150,7 +4150,7 @@ Yes, yes.
 **Dr. Roman:**
 Your Majesty, we seem to be under attack. Enemy brigade up ahead. Multiple signatures. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 That's strange...We're running into the same amount of enemies as before. 
@@ -4179,7 +4179,7 @@ Good luck to you too, Miss Mash!
 **Mash:**
 Your orders please, Master. Commencing battle. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nero:**
 Those soldiers just now&ndash;They're not like the ones we've run into before. 
@@ -4202,7 +4202,7 @@ And I don't mean typical Noble Phantasms. The type that's designed for use on th
 **Dr. Roman:**
 In which case&ndash;
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Master, I'm sensing the presence of a Servant. There's one...no, several hundred! 
@@ -4288,7 +4288,7 @@ If we defeat the main Servant, the remaining hundreds should be gone. In that ca
 **Mash:**
 Master, it's a Servant battle. Your orders, please! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Leonidas:**
 Just as I thought, huh? In a battle with nothing to protect...
@@ -4314,7 +4314,7 @@ N-Not really...
 **Nero:**
 Haha! Hold your head up high with pride! This is our triumphant return from Gaul, after all! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Nero:**
 Phew...At last, things have settled down. 
@@ -4413,7 +4413,7 @@ Orders are orders.
 &ndash;Understood. 
  
 **G：? ? ? :**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)
+![1-light](https://i.imgur.com/XAqlQYL.png)
  
 **H：? ? ? :**
 We're completely surrounded. Nothing but swarms of enemies around us. 
@@ -4422,7 +4422,7 @@ We're completely surrounded. Nothing but swarms of enemies around us.
 That shouldn't be a problem, but...
  
 **G：? ? ? :**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)
+![1-light](https://i.imgur.com/XAqlQYL.png)
  
 **H：? ? ? :**
 Yeah, we'll probably lose the soldiers Nero Claudius provided for us. I'd like to avoid that if possible. 
@@ -4437,7 +4437,7 @@ People like you and me can get through it on our own, but it would be too harsh 
 What should we do? ...Huh? 
  
 **G：? ? ? :**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)
+![2-light](https://i.imgur.com/7VYgcEB.png)
  
 **H：? ? ? :**
 Reinforcements, huh? Though I heard Boudica and Spartacus were in Gaul. 
@@ -4487,7 +4487,7 @@ Then, let's find a way out together. My hope is to bring as many soldiers back t
 **Mash:**
 Of course. Master, massive enemy troops ahead. Your orders, please! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We have destroyed the enemy forces and sustained only minor casualties. Good work Senpai! 
@@ -4884,7 +4884,7 @@ Don't overdo it.
 **Mash:**
 Yes. Let's go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jing Ke:**
 ...That's all. Already, the United Empire is without clear leadership. 
@@ -4964,7 +4964,7 @@ Don't over do it.
 **Mash:**
 Yes, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We've crushed the enemy forces, and destroyed all the monsters. 
@@ -4978,7 +4978,7 @@ Not yet! Multiple signatures! What's this? The enemy forces are even stronger th
 **Mash:**
 Another battle! Master, your orders please! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Did we stop them? Looks like the rest retreated. Good job, Mash, Fujimaru! 
@@ -5013,10 +5013,10 @@ I wonder if it's one of the "emperors. "
 **Jing Ke:**
 I don't know. But we will find out soon. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **F：? ? ? :**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&ndash;! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;! 
  
 **Nero:**
 Wh-What's this sound? A beast howling? 
@@ -5066,7 +5066,7 @@ Pay attention to Servants!
 **Mash:**
 Right! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **El-Melloi II:**
 Looks like a Servant was summoned in the enemy vanguard. Was it that Court Mage's doing&ndash;
@@ -5125,10 +5125,10 @@ And I want to fight him again. But not right now.
 **F：? ? ? :**
 Right now, it's Nero Claudius. I want to talk to that person. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Darius III:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&ndash;! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;! 
  
 **Dr. Roman:**
 Amazing, I can almost feel the air vibrations over here! Magical energy signature confirmed. He's a Servant! 
@@ -5137,7 +5137,7 @@ Amazing, I can almost feel the air vibrations over here! Magical energy signatur
 Linguistic communication impossible, it's an enemy Servant. Master, your orders! 
  
 **Darius III:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&ndash;! ! ! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;!!! 
  
 **Mash:**
 Ugh...
@@ -5160,7 +5160,7 @@ We can beat it!
 **Mash:**
 &ndash;Right! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We have defeated the enemy Servant. Good job, Master. 
@@ -5178,7 +5178,7 @@ Commander Fujimaru, Commander Mash,a message! It's from Her Majesty the Emperor.
 There's been an ambush in the rear, both General Spartacus and General Lu Bu have left the battlefield. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Dr. Roman:**
 Oh, no! So the enemy deployed a two-front attack? 
@@ -5434,7 +5434,7 @@ Protect Nero!
 **Mash:**
 Got it, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Alexander:**
 ...Is it over? 
@@ -5535,7 +5535,7 @@ Mash, Fujimaru! I need your help. Take this bastard&ndash;
 **Nero:**
 &ndash;down! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Alexander:**
 I have one more thing to say to you, my adorable emperor. 
@@ -5761,10 +5761,10 @@ Let's pull back!
 **Mash:**
 Yes, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Lu Bu:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! ! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!!! 
  
 **Spartacus:**
 Hahaha! Hahahahahahahaha! The day of liberation has come. Crush the oppressors with your will and bodies! 
@@ -5907,7 +5907,7 @@ Yes, of course. Senpai gets things done when the need is there.
 **Mash:**
 Well then Master, commencing battle with the enemy creatures. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nero:**
 ...Mmm, so it's you. 
@@ -6112,7 +6112,7 @@ Ugh, monsters huh? Whatever they may be, I am no longer afraid!
 **Mash:**
 Master, it's enemy lifeforms...Commencing battle. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Romulus:**
 ...Here you are, my beloved child. 
@@ -6144,7 +6144,7 @@ Behold. My spear&ndash;
 **Mash:**
 An enemy Servant is approaching. Speculated class is Lancer. Battle commencing. Master, your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Romulus:**
 ...Your love, is so dazzling, Nero. 
@@ -6179,7 +6179,7 @@ That's certainly true, give or take. But unless we secure the Holy Grail, our pu
 **Jing Ke:**
 Wait, someone's there. Though it's not a Servant. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Lev:**
 ...Well, well. To think you took out Romulus. 
@@ -6191,7 +6191,7 @@ Nice work for a "mere" Demi-Servant. Have you become more powerful since I last 
 However, a Servant is still a Servant. Sorry,but you'll never surpass the power of the Holy Grail. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Nero:**
 Is that the Court Mage? Then that golden chalice he has is&ndash;
@@ -6308,7 +6308,7 @@ You will perish in sorrow! Allow me to show you the favor of our King!
 Fou! Fooou! 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Nero:**
 What's that creature! It's ugly! You're uglier than anything of this world! 
@@ -6346,7 +6346,7 @@ No, there's still not enough information. That's impossible, Demon Gods do not e
 **Dr. Roman:**
 We don't know the details, but that thing is dangerous. Here it comes! We've got to take it out! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...We've defeated the enemy lifeform Master! 
@@ -6415,7 +6415,7 @@ Come forth! Great hero of destruction, Altera!
 &mdash;
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Lev:**
 Kill. Destroy. Incinerate. With your power,burn Rome and this Singularity to the ground! 
@@ -6659,7 +6659,7 @@ Wyvern? What's that? A monster out of a fairy tale?
 **Mash:**
 No, it's a dangerous enemy! Master, your orders please! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Now I'm picking up multiple magical energy signatures. Is she attracting monsters just by walking? 
@@ -6679,7 +6679,7 @@ So reliable! Umu, I'm leaving it to you!
 **Fou:**
 Fou! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 I really want to say "good work," but more are coming. Several times more than before&ndash;
@@ -6703,7 +6703,7 @@ Exactly. You go on ahead already.
 What are you saying&ndash;
  
 **F：? ? ? :**
-GuOOOOOO&ndash;! ! ! ! ! 
+GuOOOOOO&ndash;!!!!! 
  
 **Boudica:**
 Go! You stupid emperor! Never mind this,go protect what you call your world! 
@@ -6714,7 +6714,7 @@ Go! You stupid emperor! Never mind this,go protect what you call your world!
 **Dr. Roman:**
 That's right everyone. No time to look back,we're close to where Altera is&ndash;
  
-**--ARROW--:**
+**--ARROW--**
  
 **Altera:**
 ...Are you going to stand in my way? 
@@ -6797,7 +6797,7 @@ This is the last battle for Rome&ndash;Mash, Fujimaru!
 **Mash:**
 Prepare for anti-Servant combat! Master, your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Altera:**
 ...I see. 

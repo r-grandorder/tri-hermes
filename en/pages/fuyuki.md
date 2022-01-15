@@ -898,7 +898,7 @@ Please start final adjustments.
 ---
  
 **Fujimaru:**
-! ! ! 
+!!! 
  
 **Mash:**
 ...Oh. 
@@ -1004,11 +1004,11 @@ First Order, commencing operation.
  
 ## Section 1: Burning City
  
-**? ? ? :**
+**???:**
 Kyuu...
 Kyuu. 
  
-**? ? ? :**
+**???:**
 Fou...
 Fou...Fou...
  
@@ -1024,15 +1024,15 @@ Fou...Fou...
 
 ---
  
-**? ? ? :**
+**???:**
 Senpai. 
 Please wake up, Senpai. 
  
-**? ? ? :**
+**???:**
 ...Won't wake up. 
 Maybe I should use the official title...
  
-**? ? ? :**
+**???:**
 &mdash;Master, please wake up. 
 If you don't wake up, I will kill you. 
  
@@ -1066,7 +1066,7 @@ Um, I was confused because everything happened so quickly. As much as I want to 
  
 ---
  
-**? ? ? :**
+**???:**
 Gi&mdash;GAAAAAAAAAAAA! 
  
 **Mash:**
@@ -1354,8 +1354,8 @@ There's no record of such a disaster occurring in 2004...
 The Mana density in the atmosphere is also abnormal. 
 In fact, it's a lot like ancient Earth...
  
-**? ? ? :**
-Kyaaaaaaaaaaaaa! ! ! 
+**???:**
+Kyaaaaaaaaaaaaa!!! 
  
 ---
 
@@ -2843,8 +2843,8 @@ Leonardo da Vinci.
  
 ---
  
-**? ? ? :**
-GuOOOOOOO! ! ! ! ! ! 
+**???:**
+GuOOOOOOO!!!!!! 
  
 **Olga Marie:**
 Not these guys again! 
@@ -3245,7 +3245,7 @@ I will find a way for us to get out of this alive!
 **F：Servant:**
 Ha&mdash; You've just killed yourself, girl! 
  
-**? ? ? :**
+**???:**
 I thought you were just some girl, but it looks like you've got some fight in you. Then I can't leave you like this. 
  
 ---
@@ -3253,7 +3253,7 @@ I thought you were just some girl, but it looks like you've got some fight in yo
 **F：Servant:**
 Ugh! Who are you? 
  
-**? ? ? :**
+**???:**
 What do you mean? Can't you tell? 
 Don't tell me the mud got in your eyes too? 
  
@@ -3409,7 +3409,7 @@ You want to defeat Saber, but don't stand a chance doing it alone. That's why yo
 That's right. But it's not a bad deal, is it? 
 At any rate&mdash;It looks like we've got company. 
  
-**? ? ? :**
+**???:**
 GuOOOOOOOOO! 
  
 **Olga Marie:**
@@ -3654,7 +3654,7 @@ Why are you inscribing runes on my coat?
 **Caster:**
 Even if something targets you, you can take care of yourself, right? And look, here they come. 
  
-**? ? ? :**
+**???:**
 Grrrrrr...
 Zuaaaaaaaa! 
  
@@ -3794,7 +3794,7 @@ Yeah. That was amazing, Mash.
 ---
  
 **Mash:**
-! ! 
+!! 
  
 **Fou:**
 Fou, fooooouuuu! 
@@ -4123,7 +4123,7 @@ Is that right? Certainly, the Director is older, but I feel like we have similar
 What are you going on about? 
 I told you before that you're all just tools to me! 
  
-**? ? ? :**
+**???:**
 &mdash;(Mm, hmm)
  
 **Olga Marie:**
@@ -4299,11 +4299,11 @@ It's clearly the reason why Fuyuki City became a singularity.
 **Mash:**
 Yes. An immediate retrieval&mdash;What? 
  
-**? ? ? :**
+**???:**
 Well, I didn't expect you'd get this far. 
 Beyond my plan's expectations and my own tolerances. 
  
-**? ? ? :**
+**???:**
 Master Candidate #48. It was my mistake to naively overlook you as an improbable child. 
  
 **Mash:**
@@ -4505,7 +4505,7 @@ Director!
 ---
  
 **Fujimaru:**
-! ! ! 
+!!! 
  
 **Mash:**
 No! Don't do it, Senpai! 
@@ -4647,11 +4647,11 @@ Mash, you at least...
 **Mash:**
 Senpai, your hand! 
  
-**? ? ? :**
+**???:**
 All right, you're a good boy. 
 Want something to eat? Nuts? Or maybe fish? 
  
-**? ? ? :**
+**???:**
 Hm, not sure if you are a cat or a squirrel. 
 But that's okay, you are pretty cute! 
  
@@ -4659,11 +4659,11 @@ But that's okay, you are pretty cute!
 Fou...
 Kyu, kyu...
  
-**? ? ? :**
+**???:**
 Hm? Ah, the hero has awakened. 
 There, there, that's how a main character should be. 
  
-**? ? ? :**
+**???:**
 Good morning Fujimaru. 
 You're conscious now? 
  
@@ -4679,11 +4679,11 @@ Who are you?
  
 ---
  
-**? ? ? :**
+**???:**
 Hm, you're not thinking straight yet? 
 This is the first time we've spoken directly like this. 
  
-**? ? ? :**
+**???:**
 What? Are you shocked that you woke up to the sight of such a beauty? I understand, but I'm used to it. 
  
 **Da Vinci:**

@@ -170,7 +170,7 @@ If that is impossible, then...
 
 ...Ahh, if only this world were itself a living hell. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Mash:**
 
@@ -490,7 +490,7 @@ I'm afraid I completely forgot...
 
 **Mash:**
 
-Sasaki Kojirou! ! ! 
+Sasaki Kojirou!!! 
 
 **Mash:**
 
@@ -632,15 +632,15 @@ Fujiwara-no...
 
 Harunobu...
 
-**? ? ? :**
+**???:**
 
 ...That does sound like me. 
 
-**? ? ? :**
+**???:**
 
 But I never dreamed I'd have the luxury of somebody overseeing it all to the end. 
 
-**? ? ? :**
+**???:**
 
 I never thought things would turn out like this. 
 
@@ -798,7 +798,7 @@ You see...a blue sky stretching out above you.
 
 ---
 
-**? ? ? :**
+**???:**
 
 Huh? Already awake!? I thought you'd be out for at least another day! 
 
@@ -1626,7 +1626,7 @@ I'm perfectly fine facing down evil spirits! Since the sun isn't keeping you at 
 
 The Path of the Void demands that souls devoid of flesh be cut away from this world! With my two katana, I shall do just that! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 ---
 
@@ -1736,7 +1736,7 @@ Anyway, for now,let's go pay Onui's house a visit.
 
 I'm still hungry, and we have to get her and Tasuke back home safely! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Onui:**
 
@@ -1826,27 +1826,27 @@ This time, I'll make sure to cut them down to such a small size that they'll nev
 
 Fujimaru! Get down! 
 
-**? ? ? :**
+**???:**
 
 Let's see, let's see. 
 
-**? ? ? :**
+**???:**
 
 It looks as though I've materialized in this world for reasons unknown. Now I find myself in Shimousa. 
 
-**? ? ? :**
+**???:**
 
 I couldn't believe my eyes when I saw monsters just appearing and attacking people left and right whenever the sky grew dark. 
 
-**? ? ? :**
+**???:**
 
 So whenever I found one, I would rip them to shreds with my spear. And now, after traveling the land and destroying numberless scores of them...
 
-**? ? ? :**
+**???:**
 
 I find myself in the presence of a beautiful swordsman accompanied by a child, a baby, and a young{(M) man /(F) woman} dressed in strange clothing. 
 
-**? ? ? :**
+**???:**
 
 ...Pray tell, how did this come to be? 
 
@@ -2302,7 +2302,7 @@ At this point, I am already willing to believe you are who you say you are, but 
 
 You there, young {(M) man /(F) lady}! Make sure you keep careful track of which of us defeats more spirits! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Musashi:**
 
@@ -3147,7 +3147,7 @@ There's no telling if these things can be reasoned with, so I guess they're just
 
 Let's go! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Musashi:**
 
@@ -3217,11 +3217,11 @@ That said, we can't get careless. We need to keep our guard up until we know for
 
 ...Speak of the devil! I'm sensing an evil aura! 
 
-**? ? ? :**
+**???:**
 
 Indeed. How right you are. A good swordsman never lets down their guard, no matter how skilled they may be. 
 
-**? ? ? :**
+**???:**
 
 We are the Heroic Spirit Swordmasters. You will not find us so easily defeated as ordinary evil spirits. 
 
@@ -3910,7 +3910,7 @@ It falls upon me to ensure their safe passage. And that is exactly what I shall 
 
 I see.... Then you shall soon be dead. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Narration:**
 
@@ -3938,7 +3938,7 @@ An invincible spear technique capable of adapting to any opponent or technique! 
 
 **Inshun:**
 
-...! ! ! 
+...!!! 
 
 **Narration:**
 
@@ -4002,7 +4002,7 @@ Very well then.
 
 **Inshun:**
 
-...Hraaa! ! ! 
+...Hraaa!!! 
 
 **Cold-Blooded Swordsman:**
 
@@ -4471,7 +4471,7 @@ I will not suffer babies to live. I will not suffer children to live.
 
 **Lancer of Purgatorio:**
 
-Die! Die! Die! Die! Die! Die! Die die die die die die diiieee! ! ! 
+Die! Die! Die! Die! Die! Die! Die die die die die die diiieee!!! 
 
 ---
 
@@ -4501,7 +4501,7 @@ All that remains of Houzouin Inshun is his body! Now, enough! The time for talk 
 
 Musashiii! Fujimaru! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Lancer of Purgatorio:**
 
@@ -4675,7 +4675,7 @@ Good, good. Keep running as far as you can go! Unfortunately for you, I have you
 
 Try as you might...you'll never get away from me,little girl! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Musashi:**
 
@@ -4737,7 +4737,7 @@ I'm not gonna try to contain my anger,or listen to anything you might have to sa
 
 Right now, I'm as angry and annoyed as you are. Don't expect me to hold back while I cut my way through! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Onui:**
 
@@ -4787,7 +4787,7 @@ I know it's hard, but hang in there. It'll just be a little longer now!
 
 Okay, let's get a move on! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Onui:**
 
@@ -4911,7 +4911,7 @@ W-what's going on!? Who are you!? Wh-wh-why would a monk attack us?
 
 **Village Woman:**
 
-Honey! Honey! ! ! Aieee! N-no, please! Please! ! ! 
+Honey! Honey!!! Aieee! N-no, please! Please!!! 
 
 **Village Woman:**
 
@@ -5052,7 +5052,7 @@ Yes. Come on, let's hurry over there. Even if I have to carry you all myself...
 
 ...I'll make sure you, Tasuke, and your grandfather stay safe! Now let's go! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Musashi:**
 
@@ -5717,7 +5717,7 @@ Prepare yourself, Shinmen Musashi! Our final battle is upon us!
 
 ...Let's do this! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Narration:**
 
@@ -5765,7 +5765,7 @@ No monstrous strength, no immortal body could ever surpass the pristine beauty o
 
 **Lancer of Purgatorio:**
 
-...! ! ! 
+...!!! 
 
 **Lancer of Purgatorio:**
 
@@ -6341,7 +6341,7 @@ Why?
 
 Why...am I so overcome by loathing...? 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Onui:**
 
@@ -7066,7 +7066,7 @@ We're heading to Toke Castle, whether these things like it or not! If they want 
 
 ...then they don't get to complain as I cut my way through them! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 ---
 
@@ -7675,7 +7675,7 @@ We have to stop them both and help them cool down!
 
 Got it. Don't worry, I'll use my swordsman aura to make sure everyone gets out of this without a scratch! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 ---
 
@@ -8352,7 +8352,7 @@ Well, I suppose you can't help that you've got an injured friend to care for now
 
 I guess this can just be my good deed for the day. Looks like I'll be making an extra-large portion of my special set menu tonight. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Caster of Limbo:**
 
@@ -8650,7 +8650,7 @@ It is no idle playtime, I assure you. Soon, you shall see the results for yourse
 
 At any rate, death shall soon spread over these lands. After all, Lady Inferno's fire proves to be too hot even for me...
 
-**--ARROW--:**
+**--ARROW--**
 
 **Narration:**
 
@@ -8747,7 +8747,7 @@ Since everyone else in town is fast asleep, let's take them out as quickly as po
 
 ...Okay, let's do this! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Musashi:**
 
@@ -8921,7 +8921,7 @@ As long as this world is hell...As long as humans make this world hell...
 
 My flames shall never go out! My hatred shall consume you, and everything else, with its fiery blaze! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Musashi:**
 
@@ -9457,7 +9457,7 @@ So naturally, we must get rid of her,along with those irritating interlopers.
 
 ...I must say, women certainly are fragile, aren't they. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Musashi:**
 
@@ -10218,7 +10218,7 @@ Yeah yeah, I'll get right on that. Sadly, I'm not really much for following orde
 
 Okay, Fujimaru. I'm counting on you for backup! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Yagyu Tajima-no-Kami:**
 
@@ -10636,7 +10636,7 @@ With no one to lead them, the monsters will pose no more threat than shadows and
 
 Now, go forth and defeat this woman before she puts all Shimousa to the torch! I expect good news when you return! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Danzo:**
 
@@ -10918,7 +10918,7 @@ Katou Danzo, activating Combat Mode. Objective: destroy hostile entities and res
 
 Initiating battle! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Narration:**
 
@@ -11162,7 +11162,7 @@ I shall melt your eyes, sear your hearts, and char every bone in your body until
 
 **Archer of Inferno:**
 
-NOW BURN! ! ! 
+NOW BURN!!! 
 
 **Tajima Samurai:**
 
@@ -11174,7 +11174,7 @@ Aaaggghhh! H-heeelp!
 
 **Tajima Samurai:**
 
-AAARRRGGGHHH! ! ! 
+AAARRRGGGHHH!!! 
 
 **Musashi:**
 
@@ -11322,7 +11322,7 @@ In that case...why don't we take this elsewhere. A plane where there's no strate
 
 **Archer of Inferno:**
 
-...! ! ! 
+...!!! 
 
 **Musashi:**
 
@@ -11490,7 +11490,7 @@ I...AM...
 
 **Archer of Inferno:**
 
-THE ARCHER OF INFERNO...! THE ONE WHO SHALL BURN THIS WORLD TO CINDERS! ! ! 
+THE ARCHER OF INFERNO...! THE ONE WHO SHALL BURN THIS WORLD TO CINDERS!!! 
 
 **Archer of Inferno:**
 
@@ -11508,7 +11508,7 @@ Prepare yourself, Shinmen Musashi! Our final battle is upon us!
 
 ...Let's do this! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Kiso Yoshinaka:**
 
@@ -12204,7 +12204,7 @@ I am not accustomed to engaging in fair fights like this, but I shall do my best
 
 Now you're talking! I knew the head of a ninja clan wouldn't let me down! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Fuuma Kotarou:**
 
@@ -13519,7 +13519,7 @@ Don't tell me you're talking about oil
 
 Now, let us begin! ...Um, right after I change into my training outfit! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Tiger:**
 
@@ -13641,7 +13641,7 @@ Now, if you'll excuse me.
 
 ...
 
-**--ARROW--:**
+**--ARROW--**
 
 **Kiyohime:**
 
@@ -14103,7 +14103,7 @@ U-urk! G-gaaaaah!
 ---
 
 **Fujimaru 1:**
-...! ! ! 
+...!!! 
 
 ---
 
@@ -14159,7 +14159,7 @@ We must break through to Paraíso and take her out!
 
 Yes, Master! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Kiyohime:**
 
@@ -14345,7 +14345,7 @@ Not to mention that I was obligated to say something, given my position!
 
 ---
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Assassin of Paraíso:**
 
@@ -15015,7 +15015,7 @@ Kill me! Kill meee!
 
 **Assassin of Paraíso:**
 
-This isn't me, this isn't me, this isn't me! ! ! This isn't what I accepted...! 
+This isn't me, this isn't me, this isn't me!!! This isn't what I accepted...! 
 
 **Narration:**
 
@@ -15073,7 +15073,7 @@ But the Lord Sorcerer said that Shinmen Musashi and the {(M) boy /(F) girl} from
 
 Well, see you later. I'll apologize to you in hell. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Yagyu Tajima-no-Kami:**
 
@@ -15375,7 +15375,7 @@ Excellent! I knew I could count on you, Fujimaru! Once this is all over, I'll ha
 
 ...Here they come! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Musashi:**
 
@@ -15470,9 +15470,9 @@ Kiyohime...!
 
 **Musashi:**
 
-Fujimaru! ! ! 
+Fujimaru!!! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Kiyohime:**
 
@@ -15480,7 +15480,7 @@ Fujimaru! ! !
 
 **Fuuma Kotarou:**
 
-Master! ! ! 
+Master!!! 
 
 **Fuuma Kotarou:**
 
@@ -15626,7 +15626,7 @@ Ah, good job! You figured it out! Now come, Kiyohime, and atone for your sins!
 
 Yes...I will atone...
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Fuuma Kotarou:**
 
@@ -15765,7 +15765,7 @@ They're yours...Mochizuki Chiyome!
 
 **Assassin of Paraíso:**
 
-...! ! ! 
+...!!! 
 
 **Kiyohime:**
 
@@ -15951,7 +15951,7 @@ Prepare yourself, Shinmen Musashi! Our final battle is upon us!
 
 ...Let's do this! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Assassin of Paraíso:**
 
@@ -16656,7 +16656,7 @@ Since I'm already here, I may as well take the opportunity to exterminate this h
 
 **Infantrymen:**
 
-...! ! ! L-look out! Here she comes! 
+...!!! L-look out! Here she comes! 
 
 **Rider of Kālasūtra Hell:**
 
@@ -16814,7 +16814,7 @@ Apologies, Danzo, that's just how it is. Hold the fort for us while we're away.
 
 Both of you, wait...! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Senji Muramasa:**
 
@@ -17934,7 +17934,7 @@ Let's go save Onui and Tasuke!
 
 Of course! We won't let them get away with this! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Berserker of Saṃghāta Hell:**
 
@@ -18224,7 +18224,7 @@ My blade is the sword of execution. My authority is absolute.
 
 Now, have at you. Let's see what sort of fight you put up! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Musashi:**
 
@@ -18960,7 +18960,7 @@ Got it, Master. Come, Lady Danzo, you too!
 
 Understood! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Fuuma Kotarou:**
 
@@ -19330,7 +19330,7 @@ We have to get through here quickly.
 
 ...Understood. Then I shall help you to slaughter this oni as well. 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Fuuma Kotarou:**
 
@@ -19500,7 +19500,7 @@ What...AM I...?
 
 ...A ninja without a soul is nothing more than a hollow blade.... 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Senji Muramasa:**
 
@@ -19938,7 +19938,7 @@ I don't know who this snake is descended from and I don't give a crap! If it ins
 
 I'll chop it up into bite-sized pieces! Not that I'll actually eat any of them! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Musashi:**
 
@@ -20030,7 +20030,7 @@ I'll catch up with you all later!
 
 **Fuuma Kotarou:**
 
-Master! ! ! 
+Master!!! 
 
 **Musashi:**
 
@@ -20460,7 +20460,7 @@ That's what humans and oni do: kill each other,tear at each other, rip each othe
 ---
 
 **Fujimaru 1:**
-...! ! ! 
+...!!! 
 
 ---
 
@@ -20680,7 +20680,7 @@ I still wish to be like a mother, if I can.
 
 ...Huh...? Miss, what...what are you doing with your katana...? 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Fuuma Kotarou:**
 
@@ -20978,7 +20978,7 @@ Come on everyone, let's take it down together!
 
 ---
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Berserker of Saṃghāta Hell:**
 
@@ -20986,7 +20986,7 @@ Ahahahahaha! This is so much fun! I'd only just managed to rebuild that Orochi, 
 
 **Berserker of Saṃghāta Hell:**
 
-Technically it's still descended from the god of Ooe, but you cut through it like it was nothing! Sooo scary! ! ! 
+Technically it's still descended from the god of Ooe, but you cut through it like it was nothing! Sooo scary!!! 
 
 **Berserker of Saṃghāta Hell:**
 
@@ -21104,7 +21104,7 @@ Prepare yourself, Shinmen Musashi! Our final battle is upon us!
 
 ...Let's do this! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Berserker of Saṃghāta Hell:**
 
@@ -21496,7 +21496,7 @@ No, it's...it's nothing. Please, pay it no mind!
 
 (...Isn't that right, Mother? )
 
-**--ARROW--:**
+**--ARROW--**
 
 **Musashi:**
 
@@ -22189,7 +22189,7 @@ Aaaaaahhh! S-somebody! Anybody! H-help me...! Th-there are oni here...!
 
 **Castle of Townspeople:**
 
-Oh god...what happened to my child? Come here, Mommy's here...Ah! ! ! 
+Oh god...what happened to my child? Come here, Mommy's here...Ah!!! 
 
 **Sakon:**
 
@@ -22331,7 +22331,7 @@ Now I, Amakusa Shirou Tokisada, shall avenge the atrocities of Shimabara through
 
 Haha, hahaha, HAHAHAHAHAHAHA! HAHAHAHAHAHAHAHAHA! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Onui:**
 
@@ -22613,7 +22613,7 @@ I guess I am! Like I told you before...
 
 Here they come! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Fuuma Kotarou:**
 
@@ -23229,7 +23229,7 @@ Huh!? Look, I'm just a geisha. Once I finish helping these people evacuate, I wa
 
 Ugh, you people never listen! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Otama:**
 
@@ -23431,7 +23431,7 @@ All right, you win. I promise I'll take good care of them, so go do what you hav
 
 And make sure you all finally pay a visit to my establishment when you get back! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Senji Muramasa:**
 
@@ -23501,7 +23501,7 @@ I think I've gotten the hang of fighting these now!
 
 Look out! Large hostiles incoming! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Musashi:**
 
@@ -23799,7 +23799,7 @@ But I can tell you this with absolute certainty! The keep of Onriedo Castle...
 
 ...will be the stage of your final duel to the death! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Musashi:**
 
@@ -23889,7 +23889,7 @@ Looks like this is the opening act: a pack of monsters, and a man-eating monstro
 
 No more grumbling. Let's cut our way through these things and make our way inside! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Fuuma Kotarou:**
 
@@ -23935,7 +23935,7 @@ That's what I like to hear.
 
 All right, everyone...in we go! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Musashi:**
 
@@ -24055,7 +24055,7 @@ You've actually been on the sorcerer's side all along. Am I right?
 
 **Danzo:**
 
-...! ! ! 
+...!!! 
 
 **Danzo:**
 
@@ -24403,7 +24403,7 @@ We must stop the sorcerer before that happens, or the darkness will destroy this
 
 **Fuuma Kotarou:**
 
-...! ! ! 
+...!!! 
 
 **Musashi:**
 
@@ -24725,7 +24725,7 @@ One that recreates the Curse of Annihilation's karma through machinary! It is on
 
 I do hope you enjoy it, Master of Chaldea! Shinmen Musashi! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Musashi:**
 
@@ -24829,9 +24829,9 @@ I have...met you...
 
 **Fuuma Kotarou:**
 
-Mother...! ! ! 
+Mother...!!! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Musashi:**
 
@@ -25109,7 +25109,7 @@ Go fight your way through them!
 
 Yes, Master! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Caster of Limbo:**
 
@@ -25209,7 +25209,7 @@ Mystic Code: Rain of Isis!
 
 **Caster of Limbo:**
 
-What! ! !? ? ? What is this! ! !? ? ? 
+What!!!? ? ? What is this!!!? ? ? 
 
 **Musashi:**
 
@@ -25217,7 +25217,7 @@ Looks like we're the ones who made our way to you, Caster of Limbo.
 
 **Caster of Limbo:**
 
-...! ! ! ...? ? ? 
+...!!! ...? ? ? 
 
 **Caster of Limbo:**
 
@@ -25241,7 +25241,7 @@ Curse you...
 
 **Caster of Limbo:**
 
-Curse you, Musashi! ! ! 
+Curse you, Musashi!!! 
 
 **Caster of Limbo:**
 
@@ -25271,7 +25271,7 @@ Prepare yourself, Shinmen Musashi! Our final battle is upon us!
 
 ...Let's do this! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Caster of Limbo:**
 
@@ -25287,7 +25287,7 @@ Impossible...!
 
 **Caster of Limbo:**
 
-...! ! ! 
+...!!! 
 
 **Caster of Limbo:**
 
@@ -25299,7 +25299,7 @@ Are you sure about that? Now that my mother's protection is with me...?
 
 **Caster of Limbo:**
 
-...! ! ! ! ! ! 
+...!!!!!! 
 
 **Caster of Limbo:**
 
@@ -25404,7 +25404,7 @@ Haha, hahahahaha! Hahahahahahahahaha! HAHAHAHAHAHAHAHAHAHA!
 
 **Kiyohime:**
 
-Mmf...! Mmf! Mmmf! ! ! 
+Mmf...! Mmf! Mmmf!!! 
 
 **Amakusa Shirou:**
 
@@ -26312,7 +26312,7 @@ I don't know what hardships you suffered when you were alive, but I think it's t
 
 I challenge you to a fair fight! No more howling in rage for you. I'll send you back to the afterlife myself! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Musashi:**
 
@@ -26480,7 +26480,7 @@ Behind you!
 
 **Caster of Limbo:**
 
-Musashiii! ! ! 
+Musashiii!!! 
 
 **Musashi:**
 
@@ -26576,7 +26576,7 @@ You were supposed to protect Shimousa!
 
 **Fuuma Kotarou:**
 
-...! ! ! 
+...!!! 
 
 **Senji Muramasa:**
 
@@ -27028,7 +27028,7 @@ Show me your sword, Shinmen Musashi! Our final battle is upon us!
 
 ...Let's do this! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Musashi:**
 
@@ -27098,7 +27098,7 @@ Shinmen Musashi. Master of Chaldea. This was the most enjoyable duel...I have ev
 
 ...I win, Saber of Empireo. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Amakusa Shirou:**
 
@@ -27554,7 +27554,7 @@ This is the last swordmaster duel we'll have to fight! Would you do the honors!?
 
 ---
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Amakusa Shirou:**
 
@@ -27586,7 +27586,7 @@ Too slow. Too slow by half, you scoundrels! Far too slow for a would-be Guardian
 
 **Amakusa Shirou:**
 
-Now you shall experience my anguish for yourselves! Reality Marble: The Hell of Shimabara! ! ! 
+Now you shall experience my anguish for yourselves! Reality Marble: The Hell of Shimabara!!! 
 
 ---
 
@@ -27745,7 +27745,7 @@ Unjust deaths, gather here. My whole life has been for this single swing.
 
 **Senji Muramasa:**
 
-The heart of the blade is here! Accept this blow from my Tsumukari Muramasa! ! ! 
+The heart of the blade is here! Accept this blow from my Tsumukari Muramasa!!! 
 
 **Amakusa Shirou:**
 
@@ -27875,7 +27875,7 @@ I swear, those kids were a handful. Making katana is no different from raising k
 
 What an idiot I was, reaching a divine level of swordsmithing back when I was still alive...
 
-**--ARROW--:**
+**--ARROW--**
 
 **Musashi:**
 
@@ -28103,7 +28103,7 @@ It is through this, through history's greatest duel, that we will prove who we a
 
 This shall be the ultimate duel! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Narration:**
 
@@ -28469,9 +28469,9 @@ If I had my choice...I'd want the last thing I ever see...
 
 ...to be the big, beautiful, blue sky. 
 
-**--ARROW--:**
+**--ARROW--**
 
-**? ? ? :**
+**???:**
 
 ...It sounds like a hawk is crying somewhere in the distance. 
 
@@ -29209,55 +29209,55 @@ No, wait...This is what she had on her when...
 
 ---
 
-**? ? ? :**
+**???:**
 
 Mmm...
 
-**? ? ? :**
+**???:**
 
 Mmm. Mmmmmm...
 
-**? ? ? :**
+**???:**
 
 Mmmrrrghhh, curse you, curse you, curse yooouuu! 
 
-**? ? ? :**
+**???:**
 
 They're dead. Dead. Dead...! Every blade I assembled here in Shimousa, all dead and gone! 
 
-**? ? ? :**
+**???:**
 
 The Seven Heroic Spirit Swordmasters are finished! Shinmen Musashi and the Master of Chaldea finished us all off! 
 
-**? ? ? :**
+**???:**
 
 After all those screaming, anguished souls! After five knights, one human, and one puppet gave their lives and killed countless others...
 
-**? ? ? :**
+**???:**
 
 The world remains unchanged! 
 
-**? ? ? :**
+**???:**
 
 Life's struggle, its thirst...It's so bright I can barely stand it! ...Heh. Hehe. Hehehe...
 
-**? ? ? :**
+**???:**
 
 ...(Heavy sigh). So this is what a fate worse than death feels like. 
 
-**? ? ? :**
+**???:**
 
 Curse you. I won't be satisfied with just my entrails on a plate. I shall burn off all traces of reason, and rob myself of my sanity. 
 
-**? ? ? :**
+**???:**
 
 Curse you...Who could laugh off an overwhelming loss like that!? 
 
-**? ? ? :**
+**???:**
 
 ...No. Wait. 
 
-**? ? ? :**
+**???:**
 
 Hehe, hehe, hehehehe HEHEHEHEHE! Well done on your victory, humanity! 
 
@@ -29363,7 +29363,7 @@ Please accept my heartfelt apology, my beloved...
 
 **Ashiya Douman:**
 
-...Lord ![3-light](https://i.imgur.com/9QdxWyo.png#gh-dark-mode-only) ![3-dark](https://i.imgur.com/LZWwsPs.png#gh-light-mode-only). 
+...Lord ![3-light](https://i.imgur.com/9QdxWyo.png). 
 
 **Narration:**
 
@@ -29373,7 +29373,7 @@ No one must hear that name. So, for the moment, I will not permit these terrible
 
 For that name...That name is a great curse upon the entire world. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Mash:**
 

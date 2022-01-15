@@ -178,7 +178,7 @@ Now&mdash;Shall we start at your feet? If I was burned alive by holy flames...
 ...Then your body shall be scorched by the flames of Hell. 
  
 **Pierre Cauchon:**
-Aaaaaiiiiieeeee&ndash;! ! 
+Aaaaaiiiiieeeee&ndash;!! 
  
 **Jeanne Alter:**
 ...Not even the ashes remain, I see. I apologize for taking up your time, Gilles. 
@@ -277,7 +277,7 @@ In the name of dragons, the symbol of catastrophe,we will burn this world to the
 Oh, I have one more order. Laugh. As if you are enjoying yourselves from "the bottom of your heart. "
  
 **Jeanne Alter:**
-Heh heh heh. Ah ha ha&ndash;Hahahahaha! Ahahahahahaha! ! 
+Heh heh heh. Ah ha ha&ndash;Hahahahaha! Ahahahahahaha!! 
  
 **Jeanne Alter:**
 Wonderful! This is wonderful, Gilles! I've never enjoyed myself this much in my entire life! 
@@ -908,7 +908,7 @@ I-I'll think of something! FIREEE!
 **Dr. Roman:**
 No, burning is out of the question too! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Sigh. Physical fatigue aside, the mental fatigue is overwhelming. 
@@ -1104,7 +1104,7 @@ This time it's different. Both of you can be as wild as you want!
 **Mash:**
 Yes. Orders, Master! Let's pulverize them! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Phew. Good work. 
@@ -1137,7 +1137,7 @@ What do you mean the devil? Like the skeleton soldiers earlier?
 Not those. At least those we can handle ourselves. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Soldier:**
 Dammit, just as I thought! Here they come, engage! 
@@ -1196,7 +1196,7 @@ This is...
 **Dr. Roman:**
 Oh, she's a Servant! But her energy is weak, what is she...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...I believe that was the last. 
@@ -1308,7 +1308,7 @@ I'm sure she's aware of the situation in this era. Let's ask her for details.
 **Jeanne:**
 We are close to the fort. Before they invade, let's take them out. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The enemy has been wiped out. Good job. 
@@ -1544,7 +1544,7 @@ Oh...The pleasure will be all mine. I cannot possibly thank you enough.
 **Jeanne:**
 Now at this place and time, we shall fight as one. So, Fujimaru, please give us your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jeanne:**
 I'm so ashamed that I said I'd fight on my own earlier. Thanks to you two, I feel stronger than ever. 
@@ -1813,13 +1813,13 @@ Overwhelming power and hatred can easily destroy a person, no matter how noble t
 Its location is in La Charite, which is your destination. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Dr. Roman:**
 Huh, it's getting further away. Oh no, I've lost it! It's too far away! 
  
 **Fou:**
-Fou! Fou! ! 
+Fou! Fou!! 
  
 **Mash:**
 What is it Fou? Suddenly climbing on my head? You want to see the sky over there? 
@@ -1854,7 +1854,7 @@ No...It can't, be!
 **Mash:**
 Looks like they've turned into the living dead. Master, I will scatter them! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jeanne:**
 Gasp, gasp, gasp...
@@ -1865,7 +1865,7 @@ Are you all right?
 **Jeanne:**
 Yes. I'm fine&ndash;
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 ...They're still here. They look like wyverns. 
@@ -1882,7 +1882,7 @@ Stop it!
 **Mash:**
 I'm going! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 &ndash;That was the last of the wyverns. No sign of the enemy nearby. The battle is over. 
@@ -2073,7 +2073,7 @@ But, I understand. Seeing you, I have realized all there is to the Heroic Spirit
 You are neither Ruler nor Jeanne d'Arc. You are nothing but some leftover residue that I threw away. 
  
 **Jeanne:**
-! ! ! 
+!!! 
  
 **Jeanne Alter:**
 If you were the same existence and Class as I, then I should have felt something. 
@@ -2156,7 +2156,7 @@ Jeanne! Get ready, they're coming!
 **Jeanne:**
 U-Understood! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Berserk Assassin:**
 I can't believe you couldn't finish off a young girl...I wonder if you felt sympathy for her. 
@@ -2212,7 +2212,7 @@ Wow...They're fighting amongst themselves...It's a bad work environment, over th
 **Mash:**
 Do not let your guard down, Master. They still intend to kill us! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Berserk Assassin:**
 All right, it's my turn. Please don't mistake me for that kind Count Vlad. 
@@ -2250,7 +2250,7 @@ She believed bathing in their blood would make her skin youthful again.
 **Berserk Assassin:**
 Saints' blood is valuable. No woman would let go of a gem placed before her! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Berserk Assassin:**
 Something doesn't feel right. Was that the reason Count Vlad...
@@ -2265,7 +2265,7 @@ A girl of such tender years, yet so battle-hardened. How contradictory. Who is s
 ...A Demi-Servant. An anomaly, a cross between a human and a Servant. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Jeanne Alter:**
 ...That was my mistake. You two are crueler than the others, but that's why you're so playful. 
@@ -2273,7 +2273,7 @@ A girl of such tender years, yet so battle-hardened. How contradictory. Who is s
 **Jeanne Alter:**
 Let the remaining three deal with this girl. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Berserk Lancer:**
 Wait, Carmilla and I can still fight. The saint's blood belongs to us. 
@@ -2323,7 +2323,7 @@ Wow, internet idols are HARSH! She doesn't know how I feel!
 **Mash:**
 Stay close! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Ugh! 
@@ -2358,7 +2358,7 @@ For good or for evil, shouldn't a human try to be more free?
 **Jeanne Alter:**
 ...A Servant? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **F：? ? ? :**
 Yes, that's right. I'm so happy. This is what it means to announce oneself as a hero of justice! 
@@ -2468,7 +2468,7 @@ I just meant that as a Queen, I'm going to bring you to your knees.
 **Jeanne Alter:**
 Servants, first take care of that annoying princess! Then the others! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jeanne:**
 We survived somehow. So did she! 
@@ -2709,7 +2709,7 @@ Let's go there and rest, and then we can talk about our next move.
 **Mash:**
 Let's get rid of them! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Now I will establish a summoning circle. 
@@ -2747,7 +2747,7 @@ Of course, there are some Servants who don't fall into these categories.
 **Da Vinci:**
 I'll explain them another time. Okay, circle's good to go. Have a nice journey! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Marie Antoinette:**
 Now that things have settled down, I'd like to introduce myself again. 
@@ -2995,7 +2995,7 @@ Look, it seems like we have invited some unwanted guests.
 **Amadeus:**
 No, I don't think you invited them. Well, whatever. Let's get rid of them and resume our conversation! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Marie Antoinette:**
 &ndash;Now I understand. The whole world, never mind France, is in danger. 
@@ -3159,7 +3159,7 @@ Let's take a little break first! You're all tired, right?
 **Mash:**
 Yes Master, rest for a bit. We'll stand watch. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 I'm going to patrol the area. Jeanne, please wait here. 
@@ -3296,7 +3296,7 @@ I'll show you the power that I couldn't show you before!
 **Marie Antoinette:**
 &mdash;Tomboy princess, coming through! I'll dance brilliantly, like glasswork! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Servants detected! Also, multiple life-forms detected! 
@@ -3338,7 +3338,7 @@ For instance, the sound of you and Maria's sleeping when we were camping. I enjo
 But, not just the sound of you sleeping. I've recorded all the tiny sounds your body makes in my Wolfgang Recorder! 
  
 **Mash:**
-! ! ! A-A sexually harassing Servant! 
+!!! A-A sexually harassing Servant! 
  
 **Marie Antoinette:**
 I'm sorry, Mash. As his keeper, I apologize. 
@@ -3361,7 +3361,7 @@ Naught but boorish noise. I don't write my music for fools, but&ndash;
 **Amadeus:**
 You've come all this way. I shall play my Requiem of Death for you! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 All that's left are the Servants! 
@@ -3435,7 +3435,7 @@ Let us see if you are capable of slaying me&ndash;!
 **Dr. Roman:**
 She's a dragon rider! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Berserk Rider:**
 ...I see. That's enough. 
@@ -3790,7 +3790,7 @@ Got it. Back of the blade it is!
 **Amadeus:**
 ...But that's a shield right? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We've tied up the bandits, let's hand them to the town's people. I think we can leave the rest to them. 
@@ -3798,7 +3798,7 @@ We've tied up the bandits, let's hand them to the town's people. I think we can 
 **Mash:**
 All right, let's head out everybody! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Marie Antoinette:**
 We're almost there, don't you think? 
@@ -3890,7 +3890,7 @@ Be at peace.
 **Mash:**
 Yes, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Even more enemies! 
@@ -3904,7 +3904,7 @@ You may not need any help, but I can't just sit around!
 **Marie Antoinette:**
 I will help you, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jeanne:**
 Wyvern! 
@@ -3912,7 +3912,7 @@ Wyvern!
 **Amadeus:**
 What? I am tired of seeing them. They are no more than third-rate instruments, time to get rid of them! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jeanne:**
 Phew! Enemies eliminated. May their souls rest in peace&ndash;
@@ -3962,7 +3962,7 @@ We'll crush you.
 **Mash:**
 Just like that, Master! Here we go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Phantom:**
 Ugh! Still, my mission is accomplished. Though I shall never be rewarded, never. 
@@ -4177,7 +4177,7 @@ Incinerate them...Fafnir!
 Deploying Virtual Noble Phantasm! 
  
 **Jeanne:**
-"Eternelle! ! "
+"Eternelle!! "
  
 **Marie Antoinette:**
 Kya! 
@@ -4317,7 +4317,7 @@ We'll just have to do it!
 **Mash:**
 Right, Senpai! In for a penny, in for a pound! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 There are zombies heading this way, too. No problem, we'll just fight it out! 
@@ -4325,7 +4325,7 @@ There are zombies heading this way, too. No problem, we'll just fight it out!
 **Mash:**
 Let's keep this battle going, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 I've disposed of the first wave of wyverns. Next up...
@@ -4396,12 +4396,12 @@ It's not for the likes of you who do not submit to death, but...
 **Sanson:**
 Thinking of it, this entire nation is an execution site. Now, I shall remove your head with one strike! 
  
-**? ? ? :**
+**???:**
 Arrrrrrrrrrrrr! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
-**? ? ? :**
+**???:**
 ...Arrrrrrrrrr! 
  
 **Sanson:**
@@ -4437,7 +4437,7 @@ Take her down! Avenge your hometown!
 **Jeanne:**
 Ugh! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Berserk Assassin:**
 Wyvern. Start off by eating the soldier! 
@@ -4551,7 +4551,7 @@ Retreat! Lancelot! Sanson!
 Wait! 
  
 **Lancelot:**
-...A...A&mdash;Urrrrrrr! ! 
+...A...A&mdash;Urrrrrrr!! 
  
 **Mash:**
 Huh? 
@@ -4595,7 +4595,7 @@ That's clearly no longer a knight!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Lancelot:**
 A-Arthur...
@@ -4824,7 +4824,7 @@ Wander...What?
 **Dr. Roman:**
 ...Well, never mind. Anyway, we've got enemies. Let's deal with them now so we can continue our discussion. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Marie Antoinette:**
 I just had a great idea! Let's draw lots right now! 
@@ -5024,7 +5024,7 @@ Be careful.
 **Jeanne:**
 Yes, thank you. Fujimaru, please take care as well. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Amadeus:**
 ...What I just spoke about was out of line. Let's get going. 
@@ -5152,7 +5152,7 @@ Yeah, thanks Amadeus! I've never been this unhappy with words of comfort!
 **Mash:**
 Enough. Please monitor the battle! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We're done here. Siegfried, are you all right? 
@@ -5224,7 +5224,7 @@ But the 10% that's left...Or, it might be much smaller than that.
 I hated those who killed my children&ndash;just for a little bit. 
  
 **Jeanne:**
-! ! ! 
+!!! 
  
 **Marie Antoinette:**
 They killed my son Charles, to hurt me...You should truly feel pity for him. 
@@ -5447,7 +5447,7 @@ Japanese Grass Lizard!
 **Amadeus:**
 Let's go! By the time we come back,I am hoping they'll be done, too! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 More are coming! It's the wyverns this time! 
@@ -5455,12 +5455,12 @@ More are coming! It's the wyverns this time!
 **Dr. Roman:**
 No sign of any other Servants besides those two. Don't worry, go ahead and fight! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 I am getting a powerful reading. Brace yourselves! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Looks like the enemy assault has stopped...
@@ -5546,7 +5546,7 @@ I'll show you the terror that a Dragonkin can inflict!
 **Mash:**
 Did they just team up? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Kiyohime:**
 Y-You got me...Ooooh. 
@@ -5704,7 +5704,7 @@ I understand the situation.
 **Jeanne:**
 Thank you very much! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Georgios:**
 A wyvern attack? There's been a lot of violence lately. 
@@ -5904,7 +5904,7 @@ Understood.
 **Mash:**
 Yes Master! Now, please stand back! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sanson:**
 That's, impossible! How could I be defeated? 
@@ -6009,7 +6009,7 @@ Now I am certain. Say&ndash;"Dragon Witch. "
 ...Shut up! 
  
 **Marie Antoinette:**
-&ndash;Deploy Noble Phantasm. "Crystal Palace! ! "
+&ndash;Deploy Noble Phantasm. "Crystal Palace!! "
  
 **Marie Antoinette:**
 ...Goodbye Jeanne, it was lovely meeting you. 
@@ -6214,7 +6214,7 @@ Let's go get them.
 **Siegfried:**
 Yeah. &ndash;My name is Siegfried, here I go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 All right, now we have ourselves a team. 
@@ -6297,7 +6297,7 @@ That is our duty.
 **Jeanne:**
 Thank you so much! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jeanne:**
 Let's make camp here tonight to prepare for tomorrow's showdown...
@@ -6329,7 +6329,7 @@ Amadeus? Will you be all right? You'll get hurt, you know!
 **Amadeus:**
 Oh, it's a rehearsal to prepare for tomorrow's battle. A few wounds? No worries. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Amadeus:**
 Whew! We made it through in one piece, but we accidentally left the forest during the battle. 
@@ -6502,7 +6502,7 @@ Indeed. You pass, Mademoiselle.
 **Amadeus:**
 I want you to remember one last thing. There's nothing more beautiful than a parting smile. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 The supplies have arrived, but apparently there's been a shift in topological space. 
@@ -6519,7 +6519,7 @@ Hey, I had my eye on that! Don't eat it!
 **Kiyohime:**
 You are so annoying! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Elisabeth:**
 Hey, that looks good. 
@@ -6707,9 +6707,9 @@ In that case, I shall smite them. I won't let them reconnect this world.
 **Jeanne Alter:**
 That is my wish, and Gilles' wish.... Yes, that should be my wish&mdash;
  
-**--ARROW--:**
+**--ARROW--**
 
-**--BATTLE--:**
+**--BATTLE--**
  
 **Siegfried:**
 I seem to be the only one here with experience leading an army. 
@@ -6842,12 +6842,12 @@ Everyone, take care of them as fast as you can.
 **Mash:**
 Understood! Master, the enemies are coming, give me your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Amadeus:**
 They're still coming! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Servant detected! They're coming straight for you&mdash;It's our enemies! 
@@ -6864,7 +6864,7 @@ She must be the type of Servant who'd never serve the Dragon Witch.
 **Mash:**
 It can't be helped! I'm taking her out! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Berserk Archer:**
 ...This is fine. This is fine. Really, what a troublesome and unrewarding job. 
@@ -7003,7 +7003,7 @@ Let's do it, Mash!
 **Mash:**
 Right! We'll achieve victory together! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Berserk Saber:**
 ...We've lost. Now my curse will be broken. 
@@ -7038,7 +7038,7 @@ Then I will show you the true power of my lance.
 **Berserk Lancer:**
 The lance that defended a nation&mdash;the weapons that defended my people...In your hands, they will shine&mdash;
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 (pant, pant, pant)...
@@ -7091,7 +7091,7 @@ Tsk, this is the problem with gloomy muscleheads! Damn, his intensity's overwhel
 **Amadeus:**
 Sorry, help me out Master! This is my last gift for Maria, let me make it a good one! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sanson:**
 Ha&mdash;I see. So I'm going down to you? 
@@ -7117,7 +7117,7 @@ Bye Sanson, next time I see you I'll play my Requiem until you're sick of it.
 **Amadeus:**
 I mean, you're actually a huge fan of the song aren't you? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Elisabeth:**
 Why, you! Why you, why you, why you! 
@@ -7179,7 +7179,7 @@ You may be a step down from the Master I dream of, but you're still first rate!
 **Elisabeth:**
 Please let me settle things with her! Let me sing with everything I have! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Carmilla:**
 The future doesn't reject the past, but rather, the past rejects the future? 
@@ -7202,7 +7202,7 @@ This will not lessen my sins, nor the fear others feel towards me.
 **Elisabeth:**
 I&ndash;will deny the future as many times as I must,and sing as many times as I must. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Siegfried:**
 After multiple obstacles, we're finally here. 
@@ -7261,7 +7261,7 @@ Heh. It's an honor to have such a bold Master.
 **Siegfried:**
 Return to earth once more, wicked dragon! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jeanne Alter:**
 Impossible! 
@@ -7403,7 +7403,7 @@ Only a bloodthirsty barbarian would prefer a place like this.
 **Mash:**
 Master, enemies! Let's finish them quickly! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Whoops, there's a Servant up ahead! Be careful! 
@@ -7447,7 +7447,7 @@ That is, without a doubt, the true Jeanne d'Arc. It is the darkness hidden withi
 **Gilles:**
 Jeanne, I won't let anyone stop me&ndash;even you! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We can handle this! 
@@ -7473,7 +7473,7 @@ Enemy sighted! This time it's a wyvern?
 **Kiyohime:**
 Jeez. How'd it fit inside this tiny castle? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gilles:**
 Curse you, curse you, curse you! In that case, take me on! 
@@ -7487,7 +7487,7 @@ Gilles...I shall release your soul!
 **Mash:**
 Let's go! Master, your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gilles:**
 ...Ugh! 
@@ -7632,7 +7632,7 @@ Let's do this, Mash!
 **Mash:**
 Right! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jeanne Alter:**
 Ugh...So they broke through that swarm? 
@@ -7646,7 +7646,7 @@ Shut up! Let's fight! Will despair win, or will hope win&ndash;
 **Jeanne Alter:**
 Will murderous intent win, or will pity win? Let's see if you can surpass me&ndash;Jeanne d'Arc! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jeanne Alter:**
 What? 
@@ -7687,7 +7687,7 @@ Close your eyes, and rest. When you awake, I'll have finished everything.
 **Jeanne Alter:**
 Yes, yes you're right. Gilles...If you'll fight for me, I can rest, and...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Gilles:**
 ...
@@ -7833,7 +7833,7 @@ Get ready.
 **Mash:**
 Right! Moving to recover the Grail! Mash Kyrielight&ndash;here I go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gilles:**
 Not, possible! Even with the power of the Grail, I still...fell...

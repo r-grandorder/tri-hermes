@@ -129,7 +129,7 @@ But he would never deny any kind of human effort. You only look like him. You're
 **Romani Archaman:**
 Hahahahahahahahahahahahahahahahahahahaha! 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Mash:**
 ...6: 00 AM...This is when I always wake up&mdash;
@@ -622,7 +622,7 @@ Kazallu is different than Uruk! We have no intention of following that foolish k
 W-we will sacrifice everyone up to our second-class citizens! You can have them all! Treat them like livestock I don't care! 
  
 **Sumerian:**
-So please, leave us...Leave us alone, ah! Eeeeeeyaaaaaaggghh...! ! ! 
+So please, leave us...Leave us alone, ah! Eeeeeeyaaaaaaggghh...!!! 
  
 **B：? ? ? :**
 Lowly creatures. I am utterly disgusted with you. We have said before that not a single human shall survive. 
@@ -1067,7 +1067,7 @@ Well said, Doctor! Time to do this!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The battle is over. We've only sustained minor injuries. However&mdash;
@@ -1144,13 +1144,13 @@ Yeah, that possibility is high. That's why you should leave immediately.
 **Mash:**
 I agree with the Doctor, Master. Animals act in packs. 
  
-**? ? ? :**
-OUTTA MY WAAAAAAY! ! ! 
+**???:**
+OUTTA MY WAAAAAAY!!! 
  
 **Mash:**
 I don't think that's the last of the Demonic Beasts&mdash;Oh? 
  
-**? ? ? :**
+**???:**
 Hey you! You're IN THE WAY! I can't use my decrees with you there! 
  
 **Mash:**
@@ -1173,10 +1173,10 @@ It's no use. We can't avoid this.
 **Mash:**
 Huh? ...Um...Wait, wait, wait! 
  
-**? ? ? :**
+**???:**
 How am I supposed to brake in time if the air brakes don't work! Oh no, I'm going to hit them! 
  
-**? ? ? :**
+**???:**
 If Father finds out, he'll take my license away for sure! But let me say this first: I'm NOT in the wrong! 
  
 **Mash:**
@@ -1202,13 +1202,13 @@ Owww...
 ---
 
  
-**? ? ? :**
+**???:**
 Ouch...What a disaster...I didn't think I would be sniped from the ground...
  
-**? ? ? :**
+**???:**
 Luckily the damage wasn't as bad as I thought it would be. I guess I have my usual benevolent (read: violent) deeds to thank for that. 
  
-**? ? ? :**
+**???:**
 ...Huh? What's this? 
  
 ---
@@ -1225,7 +1225,7 @@ I'll see you in court!
 ---
 
  
-**? ? ? :**
+**???:**
 Wait, what are youuuuuu! 
  
 **Dr. Roman:**
@@ -1240,28 +1240,28 @@ This era has way too many crash landings! Still, it's good we've met a native. N
 **Dr. Roman:**
 Whoa! Whoa whoa whoaaaaaa! These numbers...Is this for real!? Is this some kind of mistake!? 
  
-**? ? ? :**
+**???:**
 ...What's that? Some kind of Mystic that lets you see from afar? Also, it has a reeeally annoying voice! 
  
-**? ? ? :**
+**???:**
 But that doesn't matter for now. Let's talk about this wretched fool's punishment for touching my body without my permission. 
  
-**? ? ? :**
+**???:**
 Your face and outfit are unfamiliar. What city are you from? I didn't think there were still humans around. 
  
-**? ? ? :**
+**???:**
 Are you a sacrifice fleeing from Nippur? Or a survivor from Babylon? 
  
-**? ? ? :**
+**???:**
 Whichever it is, give yourself up. After I shoot your limbs off, I'll scatter you over Mt. Ebih. 
  
 **Mash:**
 (Master, this woman is ready for battle! I can sense her genuine animosity towards you! )
  
-**? ? ? :**
+**???:**
 I see. I'll take your silence as confirmation of my assumption. Good, I don't have to show you any mercy. 
  
-**? ? ? :**
+**???:**
 If you were from Uruk, I'd have shown some mercy. Curse your bad luck. 
  
 ---
@@ -1269,10 +1269,10 @@ If you were from Uruk, I'd have shown some mercy. Curse your bad luck.
 **Fujimaru 1:**
 Wait. Let's calm down and talk about this. 
  
-**? ? ? :**
+**???:**
 What are you talking about? How dare a mere human speak to me like that! 
  
-**? ? ? :**
+**???:**
 Talk it out? ...With me? Why would I do that? You're not even from the Sacred Temple. 
  
 
@@ -1281,10 +1281,10 @@ Talk it out? ...With me? Why would I do that? You're not even from the Sacred Te
 **Fujimaru 2:**
 Hold it. We need to settle this accident first. 
  
-**? ? ? :**
+**???:**
 Settle...You mean a trial? Th-the answer is no. I'm not falling for that! 
  
-**? ? ? :**
+**???:**
 No matter how minor the collision, the one in the vehicle is at a disadvantage! I know that! 
  
 
@@ -1309,7 +1309,7 @@ That's right. We need a name first.
 ---
 
  
-**? ? ? :**
+**???:**
 ...Are you guys seriously saying you don't know who I am? 
  
 **Mash:**
@@ -1327,28 +1327,28 @@ Actually, Senpai's hands looked plenty suspicious, so something ought to be said
 **Fou:**
 Fou, fou. 
  
-**? ? ? :**
+**???:**
 So, you're guests from afar? That's hard to believe...But, I suppose stuff like that happens. 
  
-**? ? ? :**
+**???:**
 You might say I'm here in a similar manner. Fine. I will believe your words. 
  
-**? ? ? :**
+**???:**
 In other words, you have no idea who I am. You don't know about this world, or what's happening here. 
  
-**? ? ? :**
+**???:**
 ...I see. Then your disrespect, insolence, and impoliteness can't be helped. You're barbarians from a distant world, after all. 
  
-**? ? ? :**
+**???:**
 Look, touching me without permission is completely unforgivable in this world. 
  
-**? ? ? :**
+**???:**
 Any Sumerian would immediately apologize, but wouldn't be forgiven even after offering their whole family's life savings. 
  
-**? ? ? :**
+**???:**
 Keep that in mind from now on. Assuming you want to survive in this world, that is. 
  
-**? ? ? :**
+**???:**
 And thanks for being my cushion. You were at least as helpful as a pile of hay. 
  
 **Dr. Roman:**
@@ -1372,13 +1372,13 @@ And, this girl is one of those Servants, Mash Kyrielight.
 **Dr. Roman:**
 So, who are you? Based on my readings, you're probably a&mdash;
  
-**? ? ? :**
+**???:**
 You're not worthy to hear my name. Just forget about me. 
  
-**? ? ? :**
+**???:**
 Especially you over there. Fujimaru, was it? 
  
-**? ? ? :**
+**???:**
 Forget everything that happened earlier. If you do, I'll at least spare your life. 
  
 ---
@@ -1395,10 +1395,10 @@ So many things have happened, so...
 ---
 
  
-**? ? ? :**
+**???:**
 Like! I! Was! Saying! If any of this gets out, like how I mishandled the Boat of Heaven, or how I screamed, or about my current body size...
  
-**? ? ? :**
+**???:**
 ...I'll chase you to the ends of the earth! 
  
 **Mash:**
@@ -1412,10 +1412,10 @@ Like! I! Was! Saying! If any of this gets out, like how I mishandled the Boat of
 **Fujimaru 1:**
 Seems that way...One bad move and we're dead. 
  
-**? ? ? :**
+**???:**
 Oh, you understand. Wonderful. It's a good thing to be humble. 
  
-**? ? ? :**
+**???:**
 I won't treat you with disdain with that attitude, so revere me...Like, three times a day. 
  
 
@@ -1424,23 +1424,23 @@ I won't treat you with disdain with that attitude, so revere me...Like, three ti
 **Fujimaru 2:**
 You think so? She looks like a softy...
  
-**? ? ? :**
+**???:**
 I heard that! Who are you calling a softy!? 
  
 
 ---
 
  
-**? ? ? :**
+**???:**
 ...Humph. Fine. There's no point being mad at barbarians. 
  
-**? ? ? :**
+**???:**
 You wanted to know about this era, you said. Go figure those things out with your own eyes and ears. 
  
-**? ? ? :**
+**???:**
 I won't tell you anything. Actually, you tell me. 
  
-**? ? ? :**
+**???:**
 Right...For example, did you see anything precious lying around here? 
  
 **Mash:**
@@ -1458,22 +1458,22 @@ What is it?
 ---
 
  
-**? ? ? :**
+**???:**
 Like I said, something precious. Was anything on the ground? 
  
-**? ? ? :**
+**???:**
 Like, something that makes you think, “Wooow! ”at first glance. 
  
-**? ? ? :**
+**???:**
 It's something you'd know the moment you saw it, so I won't bother to explain. So how about it? Anything ring a bell? 
  
 **Mash:**
 No, um...Even if you put it like that. Judging from the context, did you drop something? 
  
-**? ? ? :**
+**???:**
 Idiot, of course not! I didn't drop anything at all! 
  
-**? ? ? :**
+**???:**
 I'm just asking for a friend! I don't care about that thing! 
  
 ---
@@ -1490,7 +1490,7 @@ Yeah...I can tell that across a screen, too...Stay patient in dealing with her, 
 **Fujimaru 2:**
 Don't you think it'd help if you told us what it was? 
  
-**? ? ? :**
+**???:**
 I won't! If I told you what I dropped, you'd find out about my clumsiness! 
  
 **Fou:**
@@ -1500,13 +1500,13 @@ Foooou...
 ---
 
  
-**? ? ? :**
+**???:**
 Anyway, you just need to tell me if “something” was “around here” or not! 
  
-**? ? ? :**
+**???:**
 ...So? Was it? 
  
-**? ? ? :**
+**???:**
 Oh, and was it broken? Did it break? Did I do it again? 
  
 ---
@@ -1523,13 +1523,13 @@ Oh, and was it broken? Did it break? Did I do it again?
 ---
 
  
-**? ? ? :**
+**???:**
 Why don't you say anything!? Staying silent is sooo cruel! 
  
 **A：? ? ? :**
 Nosssssssss! 
  
-**? ? ? :**
+**???:**
 Nosss? North? You're telling me it's to the north? Is that it!? 
  
 **Mash:**
@@ -1553,21 +1553,21 @@ Okay! Miss Unknown, stand back!
 ---
 
  
-**? ? ? :**
+**???:**
 ...Hmph. You're pretty quick to change gears. However, you still lack the observational skills of a good mage. 
  
-**? ? ? :**
+**???:**
 Stand back because it's dangerous? Who do you think you're speaking to, you country hick!? 
  
-**? ? ? :**
+**???:**
 YOU are the one who should stand back. I'm really getting pissed off&mdash;
  
-**? ? ? :**
+**???:**
 I'll take all my frustration out on them, and I'll do it with a bang! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
-**? ? ? :**
+**???:**
 Well, that's that. I may have only pseudo-manifested, but I'm not going to lose to Tiamat's Demonic Beasts! 
  
 ---
@@ -1575,7 +1575,7 @@ Well, that's that. I may have only pseudo-manifested, but I'm not going to lose 
 **Fujimaru 1:**
 Wow! You're strong! 
  
-**? ? ? :**
+**???:**
 You're not going to get anything from me by stating the obvious. But I will repay you later if I can. 
  
 
@@ -1584,7 +1584,7 @@ You're not going to get anything from me by stating the obvious. But I will repa
 **Fujimaru 2:**
 Wow! Flashy! 
  
-**? ? ? :**
+**???:**
 I know, right? No matter what form I may be in, I'm always the best! 
  
 
@@ -1609,28 +1609,28 @@ You're not going to get out of this unless you can fly...Fujimaru, negotiate wit
 **Dr. Roman:**
 She must be able to fly! Ask her to take you two out of&mdash;
  
-**? ? ? :**
+**???:**
 Don't make decisions on your own! Weren't you listening to me? 
  
-**? ? ? :**
+**???:**
 This boat only holds one. To take those two, they would basically have to cling onto me. 
  
-**? ? ? :**
+**???:**
 But didn't I tell you? In this world, touching me is a sin punishable by death. 
  
-**? ? ? :**
+**???:**
 I only fought because I wanted to. I didn't fight for you. 
  
-**? ? ? :**
+**???:**
 Master...Fujimaru, was it? 
  
-**? ? ? :**
+**???:**
 If you're struggling against these Demonic Beasts, then repairing the course of Humanity is but a dream for you. 
  
-**? ? ? :**
+**???:**
 You should quietly return to this Chaldea place. And if you can't do that...
  
-**? ? ? :**
+**???:**
 Well, why don't you just die? I have no intention of helping the weak. 
  
 **Mash:**
@@ -1665,7 +1665,7 @@ Fujimaru, head east with Mash! There are fewer Demonic Beasts in that area!
 **Mash:**
 Roger that. We'll head for the castle ruins visible to the east! We're going to punch through this, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **C：Demonic Beast:**
 Fushaaaaaaaaaaaaaaaaaaaaa! 
@@ -1673,25 +1673,25 @@ Fushaaaaaaaaaaaaaaaaaaaaa!
 **Mash:**
 Ugh! The enemy reinforcements are endless! Without any Anti-Army Noble Phantasms, the enemies&mdash;
  
-**? ? ? :**
+**???:**
 You want numbers? That's good. Looks like I'll be able to help. 
  
-**? ? ? :**
+**???:**
 You, Demi-Servant. And you, Master of Chaldea. 
  
-**? ? ? :**
+**???:**
 Could you step back a bit? Yes, that's good. Now, all I have to do...
  
-**? ? ? :**
+**???:**
 ...is wipe the lot of them out all at once. Since there are only 100 or so of them, I won't have to wipe out the entire town. 
  
-**? ? ? :**
+**???:**
 If you're the Master of Chaldea, I'm sure you have your own Anti-Army Noble Phantasms, but you can use them next time. 
  
-**? ? ? :**
+**???:**
 This city may be in ruins, but humans once lived here. It'd be best to preserve it as long as possible, right? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **C：? ? ? :**
 Sorry for stealing the show. But it's best to keep the collateral damage to a minimum. 
@@ -1744,7 +1744,7 @@ Oh, of course! I apologize for being insensitive myself!
 **Mash:**
 Master, your orders! Enkidu and I will defeat the enemy! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Enkidu:**
 That poison dragon, Bašmu, was the last one. In any event, we have exterminated all the Demonic Beasts in this town. 
@@ -2351,7 +2351,7 @@ Are you done chatting? Then let's hurry on ahead.
 **Enkidu:**
 As we were assaulted by Demonic Beasts earlier, this area is likely still dangerous. For now, let's get under cover of the forest. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Enkidu:**
 We are almost at the safe zone. We should make it by sunset. 
@@ -2427,25 +2427,25 @@ I am sure you are tired, but hang in there. Once we get through the forest, it w
 **Mash:**
 ...Senpai, that's...! 
  
-**? ? ? :**
+**???:**
 Oh my! What wonderful news! I didn't know there was a wharf up ahead! 
  
-**? ? ? :**
+**???:**
 Hey, sorry to scare you! I'm not an enemy, so hear me out. 
  
-**? ? ? :**
+**???:**
 We're stranded. As you can see, we didn't know our way through these trails and got lost. 
  
-**? ? ? :**
+**???:**
 I figured we were going to end up monster food, but luck must be on our side! 
  
-**? ? ? :**
+**???:**
 See, Ana? Don't you think you were right to follow me? 
  
-**? ? ? :**
+**???:**
 We weren't lucky enough to reach our destination this time, but we met locals who know the way. 
  
-**? ? ? :**
+**???:**
 Good things come to those who wait! One step forward, two steps back! I didn't expect to see humans in the territory of the Goddess of Demonic Beasts! 
  
 **Mash:**
@@ -2471,16 +2471,16 @@ Are you lost? That is unfortunate.
 **Enkidu:**
 We're heading to Uruk. Will you come with us? 
  
-**? ? ? :**
+**???:**
 Of course. We'd follow you even if you refused to let us. We've been walking three days straight, and my legs are so stiff. 
  
-**? ? ? :**
+**???:**
 But, hmm...Tagging along with someone when we don't know their names is unsettling. 
  
-**? ? ? :**
+**???:**
 You there. Can you tell us your name? 
  
-**? ? ? :**
+**???:**
 Oh, I'm afraid I can't tell you mine. Nor can the girl. 
  
 ---
@@ -2488,7 +2488,7 @@ Oh, I'm afraid I can't tell you mine. Nor can the girl.
 **Fujimaru 1:**
 I'm Fujimaru. 
  
-**? ? ? :**
+**???:**
 I see. That's a unique name. Sure don't hear it around here. And the lady, then? 
  
 
@@ -2497,10 +2497,10 @@ I see. That's a unique name. Sure don't hear it around here. And the lady, then?
 **Fujimaru 2:**
 More suspicious people! 
  
-**? ? ? :**
+**???:**
 Now, now, don't be like that. Actually, we heard your name already. 
  
-**? ? ? :**
+**???:**
 You're Fujimaru, right? And who's the lady? 
  
 
@@ -2510,19 +2510,19 @@ You're Fujimaru, right? And who's the lady?
 **Mash:**
 My name is Mash Kyrielight. This is Enkidu. 
  
-**? ? ? :**
+**???:**
 Enkidu? Did you say that's Enkidu? Hmm...That's a problem. A big problem. 
  
 **Enkidu:**
 ...Why? Is there something wrong with me? 
  
-**? ? ? :**
+**???:**
 No, it's just that if you're Enkidu, I'd have to start questioning my own memory. 
  
-**? ? ? :**
+**???:**
 King Gilgamesh is commanding the front line in Uruk. He's just returned from his quest for the herb of immortality. 
  
-**? ? ? :**
+**???:**
 Which means...
  
 **Dr. Roman:**
@@ -2627,18 +2627,18 @@ So I could show you just how much weaker you are! Ahaha! Humans are so pathetic!
 So die. Die, old humans, to the sound of my laughter! Fall into the waste dump, as you envy this perfect weapon! 
  
 **Mash:**
-! ! ! 
+!!! 
  
-**? ? ? :**
+**???:**
 Humph. I have no idea what this fake Enkidu is going on about, but I understand the situation. 
  
-**? ? ? :**
+**???:**
 Fujimaru and Lady Mash are at a disadvantage. Ana, help them. 
  
 **Ana:**
 ...Fine. This wasn't part of the deal, but I will protect them. 
  
-**--BATTLE--:**
+**--BATTLE--**
 
 **Ana:**
 ...! 
@@ -2706,22 +2706,22 @@ Enkidu vanished...!?
 ---
 
  
-**? ? ? :**
+**???:**
 Hahaha! Wow, that worked out great! 
  
-**? ? ? :**
+**???:**
 I figured they wouldn't be able to resist mental attacks yet. I felt a little remorse because it was like tricking an innocent child, but oh well. 
  
-**? ? ? :**
+**???:**
 We needed to survive. Nothing wrong with a bit of ungentlemanly conduct. 
  
-**? ? ? :**
+**???:**
 After all, we were fighting the mediator of the Three Goddess Alliance, the traitor to all Uruks, Enkidu. 
  
-**? ? ? :**
+**???:**
 That young man...Or was it a young woman? Well, it doesn't matter. They've killed countless soldiers. 
  
-**? ? ? :**
+**???:**
 After all, as the leader of the Demonic Beasts, they are working directly for the Mage King! 
  
 ---
@@ -2738,22 +2738,22 @@ Was that really Enkidu...!?
 ---
 
  
-**? ? ? :**
+**???:**
 Yes. They said as much while laying waste to many fortress cities. And while many Uruks seem to want to believe it isn't the real thing...
  
-**? ? ? :**
+**???:**
 ...unfortunately, that combat capability could belong to none but Enkidu. 
  
-**? ? ? :**
+**???:**
 You should be careful. They may look beautiful, but they're actually a weapon forged to kill humans. 
  
-**? ? ? :**
+**???:**
 The Enkidu we met has reverted to their cruel nature, to the way they were before they met King Gilgamesh. 
  
-**? ? ? :**
+**???:**
 Anyway, all that aside...Let me formally say hello! 
  
-**? ? ? :**
+**???:**
 I saved you when you were in danger. Please, shower me, your savior, with your humble words of gratitude! 
  
 **Mash:**
@@ -2787,7 +2787,7 @@ His claws are out. And he's twisting his body?
 
  
 **Fou:**
-Foufoufooou! ! ! Murder Merlin foooouu! 
+Foufoufooou!!! Murder Merlin foooouu! 
  
 ---
 
@@ -2798,7 +2798,7 @@ Fou spun and slammed into him at full speed!?
 ---
 
  
-**? ? ? :**
+**???:**
 Dofooou!? 
  
 **E：? ? ? :**
@@ -3156,7 +3156,7 @@ Okay, Fujimaru, do me a favor!
 **Dr. Roman:**
 When he's distracted during battle, punch him in the face for me! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Merlin:**
 That took care of them all. Let's head to Uruk now, for real. 
@@ -3222,7 +3222,7 @@ Let's go together.
 **Mash:**
 (I have a feeling Ana isn't actually so difficult...)
  
-**--ARROW--:**
+**--ARROW--**
  
 **Dr. Roman:**
 We've been marching for an entire day. You must be tired, Fujimaru. 
@@ -3576,7 +3576,7 @@ N-no, we'll go! Thank you for pointing them out, Miss Ana!
 **Ana:**
 ...No need to use “Miss. ”But I'd appreciate some extra hands. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 It's been three days since we Rayshifted to the ruins of Babylon...Master, we've finally arrived at Uruk. 
@@ -4071,7 +4071,7 @@ Sorry! Once this is over, let's get Merlin together!
 **Ana:**
 ...It's all right. It's not your fault. I'll help you if you like. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The battle's over! 
@@ -4474,7 +4474,7 @@ Let's go, Chaldeans! Time to slay a goddess!
 **Gilgamesh:**
 Let's teach this wanton, spoiled, daddy's girl of a goddess a lesson! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gilgamesh:**
 Tsk...! Spoiled as you are, you're still a goddess! Regular magecraft won't even graze you! 
@@ -5519,7 +5519,7 @@ You're right. Good night, Mash.
 **Mash:**
 Yes. Good night, Master. I'll see you tomorrow, here in the lobby of the Chaldean Embassy! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Good morning, Senpai. You must've slept well last night. 
@@ -5619,7 +5619,7 @@ Oh, that's right. I forgot to mention that the ranch is on the outskirts of Uruk
 **Siduri:**
 There are reports of previously undocumented Demonic Beasts roaming that area. Please be careful. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Uruk Civilian:**
 Hey, I owe you one! I was helpless against those vermin! 
@@ -5677,7 +5677,7 @@ It's not that King Gilgamesh is at fault, but perhaps it was too early for the c
 **Ana:**
 I agree, Mash. The monetary system is bad civilization...Reservations are terrible...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Ushiwakamaru:**
 Good morning. I guess we're heading to work at the same hour today. 
@@ -5766,7 +5766,7 @@ Then, let us be on our way! First, we need to tail the wife.
 **Ushiwakamaru:**
 Uruk is like my backyard now. You can put all your trust in me! Come along! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ushiwakamaru:**
 Th-that was quite an experience, wasn't it? 
@@ -6067,7 +6067,7 @@ That would be a real pain...They're powerful opponents already, but if they also
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Leonidas:**
 Ho! Lord Fujimaru, Mash! Gooooood! Morning! Fine weather we're having again this morning! 
@@ -6162,7 +6162,7 @@ Lord Fujimaru, I assume you have a Spartan acquaintance?
 **Fou:**
 Fou, fooou! (Special translation: YOU! )
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -6221,7 +6221,7 @@ Illness comes from the spirit. I say that you see ghosts when you are weak-spiri
 If you're wounded, you need to switch out with someone else immediately. Fighting spirit doesn't heal wounds! 
  
 **Leonidas:**
-Fatigue and injury are separate issues. Understand? Now for lesson two! ! ! 
+Fatigue and injury are separate issues. Understand? Now for lesson two!!! 
  
 **Leonidas:**
 Toss away your spear, but not your shield! 
@@ -6341,7 +6341,7 @@ Ana...
 **Fou:**
 Fou...
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -6500,7 +6500,7 @@ That's what's best for Chaldea, too. Like they say, there's the right man for ev
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Merlin:**
 Good morning, Fujimaru. Thanks for heading out to work so early. 
@@ -6608,7 +6608,7 @@ Huh? Fight...?
 **Fou:**
 Fou, fouuu? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ana:**
 ...Good work. I think we've defeated all the evil spirits around here...
@@ -7197,7 +7197,7 @@ We're definitely not thinking of defeating you to trade jobs and head to Ur ours
 **Mash:**
 This is completely ridiculous, Master, but I guess we have to! Let's fight as a quick warm-up! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ushiwakamaru:**
 Splendid! With those skills, you shall win the day no matter what awaits you in Ur. 
@@ -7280,7 +7280,7 @@ Thank you. We'll be on our way!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ana:**
 Even Mušmaḫḫū has appeared...The number of Demonic Beasts from the north just keeps on increasing...
@@ -7423,7 +7423,7 @@ Once we cross the Euphrates, we'll be at Ur. Fujimaru, are you ready?
 **Merlin:**
 Make sure you're well prepared. If we're unlucky, you'll be forced to fight the second goddess. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 ...
@@ -7616,7 +7616,7 @@ Master! You mustn't say it! Let's pretend we saw nothing and fight!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jaguar Warrior:**
 Okay, I think I've got it! You guys look yummy! 
@@ -7636,7 +7636,7 @@ If she attacked again, I don't think we could win. Let's get to Ur first and com
 **Fou:**
 Fou, fou. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 So this is...Ur...It's about the same size as Uruk, but...
@@ -7880,7 +7880,7 @@ Begone, you humans who are devoid of the gods' grace. As long as there is jungle
 **Jaguar Warrior:**
 What I'm getting at here is, “Have a nice day, jerks! ”
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ana:**
 We got her...!? No, she's fast...! 
@@ -8210,7 +8210,7 @@ As you can see, they all seem to be Assassin-class stone statues. There should b
 **Gilgamesh:**
 Heh. Again, I'll help if absolutely necessary. Only if you insist! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gilgamesh:**
 Oh, arrrgh...! To think a front kick would tear a king's abdominal muscles! 
@@ -8234,7 +8234,7 @@ They might as well have come three at a time...
 **Gilgamesh:**
 Enough! From now on, illegal dumping of stone statues will incur severe penalties in Uruk! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 We've safely reached the observatory. 
@@ -8413,7 +8413,7 @@ The pain will be ghastly, but over in an instant. I'm just going to skewer your 
 **Mash:**
 The fake Enkidu is entering a combat stance! Master, let's give our all! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...! 
@@ -8719,7 +8719,7 @@ But those that have strayed from their pack are no threat to Fujimaru anymore.
 **Merlin:**
 Let's try to gain the ranchers' gratitude by quickly disposing of them as we move along! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Testimony: Rancher A:**
 What did the goddess Ishtar do, you ask? Just look at all the holes in the ranch! It's obvious! 
@@ -8880,7 +8880,7 @@ Sorry, I misspoke! I'll apologize and do some physical labor for once!
 **Merlin:**
 Now, let's gallantly drive them away, Fujimaru! Once we go over this hill, Kutha will be right up ahead! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 So this is Kutha...A city that went completely silent overnight...
@@ -9049,7 +9049,7 @@ Have you come to laugh...to seize...Have you come to flee...or to discard...
 **D：? ? ? :**
 Unforgivable...all are unforgivable...Warm breath, warm flesh...They're unnecessary...
  
-**? ? ? :**
+**???:**
 Die...die, die, die, die, die die die die diediediediediediediediediediediediediediedie! 
  
 ---
@@ -9315,7 +9315,7 @@ After that, let's see...Yes, if your purses are so fat, I'll help you slim them 
 **Ishtar:**
 Brace yourselves. Your luck ends right now. What's yours is going to be mine! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ishtar:**
 It's useless. Where do you think you are? We're upstream on the Tigris River with a view of Mt. Ebih! 
@@ -9755,7 +9755,7 @@ Guh...That's...impossible. Even if I wanted to talk, I couldn't.
 **Ana:**
 ...Please hurry! More are coming by the second! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Merlin:**
 Hmm...We have a problem here. Earlier, I said the number of enemies exceeded the population of Kutha. Let me rephrase that. 
@@ -9999,79 +9999,79 @@ You do not need to. Just lay your hands on its surface and say this:
 ---
 
  
-**? ? ? :**
+**???:**
 That king's evil deeds...That king's cruelty...
  
-**? ? ? :**
+**???:**
 That demon who stood by and smiled as the world's tragedies unfolded before him...
  
-**? ? ? :**
+**???:**
 I cannot let this stand. I cannot forgive him. 
  
-**? ? ? :**
+**???:**
 So, I leave this in hope&ndash;hope that these words will be passed on. 
  
-**? ? ? :**
+**???:**
 In every age, in every land, the history of mankind has been one of tragedy. 
  
-**? ? ? :**
+**???:**
 Those who kill their children. Those killed by their children. Those who know no affection. Those who abandon all affection. 
  
-**? ? ? :**
+**???:**
 Those who grieve at betrayal. Those who live for betrayal. Those who know no family. Those who abandon their families. 
  
-**? ? ? :**
+**???:**
 Those who lose wealth. Those who die for wealth. Those who know no love. Those who scorn all love. 
  
-**? ? ? :**
+**???:**
 Those who desire success. Those who loathe success. Those who defend religion. Those who despise religion. 
  
-**? ? ? :**
+**???:**
 They love their kin, detest outsiders, gain wisdom, spread ignorance, hold grudges, misunderstand, love discrimination, praise persecution, and pity compassion. 
  
-**? ? ? :**
+**???:**
 What hideous, pitiable creatures they are. However, when they are mere commoners, they may be forgiven. 
  
-**? ? ? :**
+**???:**
 Humans are imperfect. They endure their pain and loss, and live with their contradictions. 
  
-**? ? ? :**
+**???:**
 But what of an almighty king? A king with the power and means to set matters right? Then it's a different matter entirely. 
  
-**? ? ? :**
+**???:**
 He had eyes to see into the past and the future, to see all the world's struggles and sorrows. 
  
-**? ? ? :**
+**???:**
 And he stood by. He laughed. 
  
-**? ? ? :**
+**???:**
 Ignorance might have excused him, but even enlightened, he only laughed. 
  
-**? ? ? :**
+**???:**
 “Even knowing this, you feel nothing!? You would do nothing to stop it all!? ”
  
-**? ? ? :**
+**???:**
 In answer, the king said only this: 
  
-**? ? ? :**
+**???:**
 “Not particularly. ”
  
-**? ? ? :**
+**???:**
 ...This man, this king, can never be forgiven. So say we all. 
  
-**? ? ? :**
+**???:**
 Here we inscribe our rage. Here, future generations may read of our fury, and follow in our footsteps. 
  
-**? ? ? :**
+**???:**
 Construct a temple. Build a band of light. 
  
-**? ? ? :**
+**???:**
 You will need every resource to destroy him. You will need all of time to forget his indifference. 
  
-**? ? ? :**
+**???:**
 ...Find the path to the Final Singularity. That is where the throne of the King of Mages resides. 
  
-**? ? ? :**
+**???:**
 The name of that plane is Solomon. The end of the very end. The altar of spinning time. The hope at the very beginning&mdash;
  
 **Mash:**
@@ -10101,7 +10101,7 @@ Eventually, there will be a time when you will come to understand what you had a
 **Gilgamesh:**
 Until then, keep it in the back of your mind. Eventually, you will be forced to face it. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Wow! Look at this, Senpai! 
@@ -10130,7 +10130,7 @@ Don't worry, there's no need to hold back, Fujimaru. Weren't you bored on the wa
 **Merlin:**
 Let's start off strong by showing these guys what we can do! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Leonidas:**
 Okay, there was nothing for me to do! Everyone, welcome to the Northern Wall! 
@@ -10342,7 +10342,7 @@ Shall we go together?
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Merlin:**
 Hmm. Everybody's getting some sleep before tomorrow's fight. Morale's good, and we have enough combat strength, but...
@@ -10877,7 +10877,7 @@ An Ugallu! They are among the strongest of Tiamat's offspring!
 **Merlin:**
 They're different than the ones you've faced before. Give it everything you've got, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Enkidu:**
 Sorry, but you're my main target. 
@@ -11004,13 +11004,13 @@ Its Spirit Origin is a Divine Spirit-class, its upper body is 10 meters...and it
 **Dr. Roman:**
 Its classification is Extra Class! An Avenger! 
  
-**? ? ? :**
+**???:**
 ...You're quite loud, humans. 
  
-**? ? ? :**
+**???:**
 Mankind's sworn enemy, head of the Three Goddess Alliance, the monster feared as the Goddess of Demonic Beasts...
  
-**? ? ? :**
+**???:**
 Prostrate yourselves, pray, and beg. Tiamat, the Mother of All Beasts, stands before you now. 
  
 **Mash:**
@@ -11123,7 +11123,7 @@ I see. So lively. At least that is...interesting.... Very well. Step back, my ch
 **Tiamat:**
 I will crush humanity's hope as if I were plucking a ripe strawberry...A fun and sweet end for you, don't you think? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Tiamat:**
 I don't understand at all. This is the first time I've felt baffled. 
@@ -11239,7 +11239,7 @@ How DARE you wound my face with your blade! I won't forgive you. Begone!
 **Ushiwakamaru:**
 (I never thought I would be done in by a snake's tail. I seem to have come to another pathetic end...)
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Ushiwakamaru! Master, Ushiwakamaru is...! 
@@ -11321,7 +11321,7 @@ My tongue dances. My lips drip. My blood boils with past humiliation.
 **Tiamat:**
 You humans will be sacrificed. My Thousand Mystic Eyes will turn the fortress and everything around it into ash! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Tiamat:**
 Such desperate measures...How odd...It seems it was a mistake to underestimate you. 
@@ -12198,7 +12198,7 @@ All right, it's just as usual. But it's not my fault, so please bear with me.
 **Dr. Roman:**
 You've got some enemy contacts, everyone! Think of it as a warm-up before you head into the mountains! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 So this is Mt. Ebih...Looking up from the base, it seems steeper than the other mountains. 
@@ -12334,7 +12334,7 @@ They're probably demonic statues placed by Ishtar to guard the mountain.
 **Dr. Roman:**
 Each one has the magical energy of an A-ranked Servant! Stay sharp and engage them! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...That was horrible...I had no idea Ishtar's aesthetic sense was so bad...
@@ -12369,7 +12369,7 @@ I think it's clear that we'll have to fight Ishtar. Let's just accept it and pre
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Ishtar:**
 So, you just waltz right through the front door like you're here on a sightseeing tour, huh, Fujimaru? Rude! 
@@ -12432,12 +12432,12 @@ I'm actually of the exact same opinion, but let's try and make our lives easier 
 
  
 **Ishtar:**
-Okay, that does it! I am one hundred percent DONE playing the nice goddess! ! ! 
+Okay, that does it! I am one hundred percent DONE playing the nice goddess!!! 
  
 **Ishtar:**
 I am the goddess of war, and the goddess of Venus! Taste the power of Ishtar, most fearsome of all goddesses! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ishtar:**
 Not bad! That's what I'd expect from humanity's last Master! 
@@ -12608,7 +12608,7 @@ N-no, wait. It'll take more than that to make up for my years of anger.
 You're talking about the treasury Gilgamesh is building for the future, right? 
  
 **Ishtar:**
-Once completed, it's been touted to be bottomless...Or...Or that it contains ALL mankind's treasures! ! ! 
+Once completed, it's been touted to be bottomless...Or...Or that it contains ALL mankind's treasures!!! 
  
 **Ishtar:**
 And I get a huge fraction of it? That sounds too good to be true...
@@ -12787,7 +12787,7 @@ As for who's the Master and who's the Servant...Well, I'll leave that to your im
 **Mash:**
 N-no! I refuse to allow that! That method of contracting isn't in the manual...! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Ishtar:**
 And so, even though it is only a temporary contract,I have honored you by becoming a Chaldean Servant! 
@@ -12987,7 +12987,7 @@ I...will...defeat...you...Now die...demon...
 **Mash:**
 Master, a mysterious rock is attacking...I sense something sad, but let's fight it! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ishtar:**
 Yay! Ishtar's off her mountain and all's right with the world! We all made it off Mt. Ebih! 
@@ -13525,7 +13525,7 @@ A woman calling herself Quetzalcoatl has destroyed the gate with her bare hands 
 **Uruk Soldier:**
 She's heading straight for the ziggurat! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Uruk Soldier A:**
 Get the citizens out of here now! She's coming! She's charging in! 
@@ -13552,7 +13552,7 @@ I know! I'll juggle you till you cool off! Okay, uno, dos, tres...!
 Impossible! She's tossing the soldiers about like toys! 
  
 **Uruk Soldiers:**
-Oh no! That's too high! She's throwing them too high! They're gonna...! Nooooooooo! ! ! 
+Oh no! That's too high! She's throwing them too high! They're gonna...! Nooooooooo!!! 
  
 **D：Cheerful Voice:**
 Oh my. You're terrible at plancha, and also terrible at landing? You won't be top-tier luchadores like that, you know! 
@@ -13690,7 +13690,7 @@ She's not like Gorgon who used the Holy Grail to become a goddess, nor a Pseudo-
 **Dr. Roman:**
 Everyone, proceed with the utmost caution! Staying alive is more important than defeating her! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Our attacks aren't doing anything...! It seems she possesses some kind of special skill...! 
@@ -13899,7 +13899,7 @@ Well, I'm going home and drinking a Tequila Sunset while eating crocodile! I'll 
 **Mash:**
 The jaguar-headed warriors are attacking! Master, your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Merlin:**
 Hmm, well this is an altogether new problem. To think Quetzalcoatl would come barging in herself. 
@@ -14259,7 +14259,7 @@ Jaguar Warrior is now in battle mode...! And what she's saying actually makes se
 **Jaguar Warrior:**
 Humph, it's too late to notice meow. I'm not takin' it easy, baby! It's purrvival of the fittest here, and you're not looking too fit! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jaguar Warrior:**
 What, is that all you got? Meowhahaha! It doesn't hurt! Not a scratch! 
@@ -14436,7 +14436,7 @@ Sure, bring it on! It's a good opportunity to show Fujimaru what I've got.
 **Jaguar Warrior:**
 My club can be vicious. Be prepared, 'cause you ain't gettin' crocodile meat ever again! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jaguar Warrior:**
 So, we've arrived at Ur. 
@@ -14833,7 +14833,7 @@ Good night, my goddess.
 **Fou:**
 Foooooou? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jaguar Warrior:**
 We made it, meow! Behind this jungle's veil lies Eridu! 
@@ -15037,7 +15037,7 @@ I'm getting several enemy signatures from all around Eridu! From the jungle, too
 **Dr. Roman:**
 If we fight them all, it'll take all night! Break through and head towards the temple! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 We've broken through the enemy and reached the temple, but something crazy is behind it! 
@@ -15263,7 +15263,7 @@ Fine! Then give this fight with me your all! Oh my, oh my! This will be so much 
 **Quetzalcoatl:**
 I never thought I'd see the humanity we dreamed of in your generation! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Okay, you came all the way to the top! Hurry, Fujimaru! There on the altar...That's the Sun Stone...
@@ -15458,7 +15458,7 @@ I'll...get...you...for...this...Ishtaaaaaar!
 ---
 
 **Fujimaru 2:**
-SKY HIGH RIDER-BUSTER JUSTICE BOMB! ! ! 
+SKY HIGH RIDER-BUSTER JUSTICE BOMB!!! 
  
 
 ---
@@ -15886,7 +15886,7 @@ Because there's something I want you to do before I get the winged serpents read
 Okay! Look at all those groundskeepers standing around the axe, yes! 
  
 **H：Giant Statues:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)! ! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)!!! 
  
 ---
 
@@ -15920,7 +15920,7 @@ Don't worry. It's nothing compared to what Quetzalcoatl has to do. Just be caref
 **Mash:**
 That's right. Make sure you think carefully before you start the fight, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Quetzalcoatl:**
 Well done! Now just leave the next three days and three nights to my babies, yes! 
@@ -16130,7 +16130,7 @@ I'm certain Demonic Beasts will attack a few times before you reach Ur, but they
 **Dr. Roman:**
 Enjoy yourself on the way back. Just don't let your guard down. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -16398,7 +16398,7 @@ The area around Uruk is overrun with Gorgon's Demonic Beasts, but I'm sure they 
 **Ishtar:**
 Well, that ends our nightly chat. You're a frail human, so get your rest now. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Quetzalcoatl:**
 Vaya! The wall that blew to smithereens is properly restored, yes! Uruk's people are amazing, yes! 
@@ -17115,7 +17115,7 @@ Yes, truly a surprise...This underground cavern is unthinkable by our understand
 **Mash:**
 Oh? Senpai, what are those? Those long, narrow things scattered around...They look like birdcages...
  
-**? ? ? :**
+**???:**
 ...o...uh...o...ooh...
  
 **Mash:**
@@ -17265,7 +17265,7 @@ AWWWKWAAARRRD...But...ve...ry...well!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Enemy forces have been defeated! Looks like we can move on, Senpai! 
@@ -17475,7 +17475,7 @@ SAFE...YOU...MAY...PASS...
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ishtar:**
 ...I got cursed again...I guess it's useless even if I block it with magical energy at max power...
@@ -17545,13 +17545,13 @@ Literally the worst, eh?
 ---
 
  
-**? ? ? :**
+**???:**
 Didn't know you had that much spirit in you. You've certainly got a big mouth, you little brat. 
  
-**? ? ? :**
+**???:**
 ...? Wait, are you literally turning into a LITTLE brat, little brat? Fwahahaha, now that's amusing! 
  
-**? ? ? :**
+**???:**
 You must be worried descending through the underworld like this! Fujimaru, little brat...You're finally at a loss! 
  
 **Mash:**
@@ -17707,7 +17707,7 @@ That'll be Gilgamesh.
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Third Gate:**
 Gu...h...
@@ -17915,7 +17915,7 @@ H...O...P...E...BEST...OF...LUCK...TO...YOU...
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Sorry, but I think that's enough! When did this turn into Whose Goddess Is It Anyway!? This is serious! 
@@ -18153,7 +18153,7 @@ GOOD...TRULY...GOD...TIER...
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ishtar:**
 Ugh, I'm now palm-sized...This is so pathetic...I can't even cry...
@@ -18221,7 +18221,7 @@ That's what the underworld is. Not one gorgeous thing exists here.
 **Gilgamesh:**
 Isn't that right, Ereshkigal? O queen of the gallû spirits who gazes at the sky of darkness? 
  
-**? ? ? :**
+**???:**
 ...You speak as if you know. You are merely a demigod king. 
  
 **Ereshkigal:**
@@ -18403,7 +18403,7 @@ Wh-Wh-What...!?
 Y-You knew, and you let me say said such embarrassing things? I said them all to you? 
  
 **Ereshkigal:**
-Noooooooooooo! ! ! This wasn't how it was supposed to be! Not like this! 
+Noooooooooooo!!! This wasn't how it was supposed to be! Not like this! 
  
 **Mash:**
 ...It seems Ereshkigal has collapsed, cradling her head like you have dealt a blow. Do you want to defeat her now, Master? 
@@ -18623,10 +18623,10 @@ Sing the song of pain in the depths of the earth! Try with all your might to cor
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ereshkigal:**
-Aaaaaaaaah! ! ! 
+Aaaaaaaaah!!! 
  
 **Ishtar:**
 Nice! I'm back to my normal size! Now victory for Fujimaru is guaranteed! 
@@ -18736,7 +18736,7 @@ As the queen of the land of the dead, I lost to humans. As a goddess, I lost to 
 **Ereshkigal:**
 I despise the living. If you're not going to become one of my dead, don't try to understand me. 
  
-**? ? ? :**
+**???:**
 ...Fool. Such behavior ill becomes a goddess, and leads her nowhere. 
  
 **Mash:**
@@ -19437,7 +19437,7 @@ Fujimaru heads deep within the shrine as quickly as possible, faces the goddess 
 **Gilgamesh:**
 I shall call this Operation Marduk Blitz! Keep in mind, the fate of the Northern Wall rests on this battle! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -19708,7 +19708,7 @@ You think so? Well, then my long life was worth living.
 **Old Lady:**
 Even though I'm an old woman whose time is almost up, I was able to help someone else again...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Uruk Gatekeeper:**
 Why, if it isn't the heroes of Chaldea. I take it you're departing for the Northern Wall today? 
@@ -19834,7 +19834,7 @@ She's pouting and sulking too, but that's not important!
 **Ishtar:**
 Okay, leave it to me! I have no mercy for bandits. Time for some death from above! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Merlin:**
 We made it somehow. Although it took longer than I'd have liked. 
@@ -20374,7 +20374,7 @@ So feel free to use me as you like, child of humanity. As long as it's for your 
 **Merlin:**
 I'm willing to dedicate my body and soul. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Merlin:**
 It's time. We already have troops assembled inside the Northern Wall. 
@@ -20424,7 +20424,7 @@ We've got enemy signatures already! It looks like a group of rogue Demonic Beast
 **Dr. Roman:**
 This will be a skirmish before you enter the Cedar Forest! Let's do this, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Enemy Demonic Beasts annihilated! Good work! 
@@ -20614,7 +20614,7 @@ Now that you mention it, that's true...It sounded so obvious, so I didn't notice
 **Merlin:**
 At any rate, the plan is proceeding nicely. Let's head to the Cedar Forest! There's no resting from here! Let's go, everyone! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Wait. Stop, Merlin! I'm picking up signs of Divinity from three hundred meters ahead! 
@@ -20636,7 +20636,7 @@ A flare!? Senpai, a flare-like thing just went up!
 ---
 
 **Fujimaru 2:**
-RUUUUUUN! ! ! 
+RUUUUUUN!!! 
  
 
 ---
@@ -20678,7 +20678,7 @@ Merlin might've just killed us...
 
  
 **Quetzalcoatl:**
-SUUUIIIIICIIIIIDAAAAA! ! !? ? ? 
+SUUUIIIIICIIIIIDAAAAA!!!? ? ? 
  
 **Mash:**
 I just heard Quetzalcoatl scream many miles away in Babylon...
@@ -20732,7 +20732,7 @@ Things have gone exactly according to plan, yes! The axe was just a mere ticket 
 I'm just a courier who delivers things to their destination at the appointed time for&mdash;
  
 **Quetzalcoatl:**
-SUUUIIIIICIIIIIDAAAAA! ! !? ? ? 
+SUUUIIIIICIIIIIDAAAAA!!!? ? ? 
  
 **Jaguar Warrior:**
 Oh no! Kuku turned into fried chicken! And in Spanish, “suicida” means suicide! 
@@ -20785,7 +20785,7 @@ But that was surprising. Kingu was really concerned about Gorgon.
 **Quetzalcoatl:**
 I know Kingu is using Gorgon for their own benefit, but maybe they love her in their own way...? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 So this is Gorgon's temple...The wall's lined with what looks like cocoons...
@@ -21083,7 +21083,7 @@ I do not know...Don't know, don't know, don't know, don't know! I don't know you
 **Gorgon:**
 Die! Die, monster! Don't show that ugly face of yours to me! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gorgon:**
 Not yet! It won't end yet! I won't let it end yet! 
@@ -21140,7 +21140,7 @@ Quick! Give me your hand!
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 ...The throne has completely collapsed. Gorgon and Ana are gone...
@@ -21265,7 +21265,7 @@ The reading&mdash;
 **Kingu:**
 For this one moment, I shall fight as an Avenger. It's the least I can do for her! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 ...!? The observation got cut off! Sheba is turning black, and the light is not coming back! 
@@ -21677,14 +21677,14 @@ Humph, who the devil are you!? Do not speak to me as if you know me&mdash;
 **Benkei:**
 ...Impossible. Are you...
  
-**? ? ? :**
+**???:**
 You are in the way. Don't put a damper on our fun. 
  
-**? ? ? :**
+**???:**
 Fool. Didn't you say you wanted to die? I shall kill you, just as you wish. 
  
 **Benkei:**
-No! No! ...Arrr Aaaaaaaaaah...! ! ! 
+No! No! ...Arrr Aaaaaaaaaah...!!! 
  
 **Mash:**
 Master, we're over Uruk! The city...Uruk is burning! 
@@ -21733,7 +21733,7 @@ Be careful not to lose your nerve before you start fighting.
 **Uruk Civilian:**
 Aaah, stay back! Get away! Somebody help! Somebody! 
  
-**? ? ? :**
+**???:**
 ...s@4r;f@eeyw@ruit@s@k94i4b@ewe? 
  
 **Uruk Civilian:**
@@ -21742,7 +21742,7 @@ Ow! It hurts! Aaaaaah! Stop! Stop it! Please, no more!
 **Uruk Civilian:**
 It's...it's ripping me apart! Haaaugh, wh-why!? It...it hurts...Aaaargh&mdash;
  
-**? ? ? :**
+**???:**
 ! uyq@b4e3bst<u. -s@<u. -@s! 
  
 **Uruk Civilian:**
@@ -21751,7 +21751,7 @@ Ghaaaaah! Aieeeeeeee!
 **Uruk Civilian:**
 (Panting)
  
-**? ? ? :**
+**???:**
 utj utj w@fue...? 6d5w 6d5w uit@ e7uk 
  
 **Uruk Civilian:**
@@ -21760,10 +21760,10 @@ Ohhh, ohhh, ungh...! Unhhh...!
 **E：Uruk Civilian:**
 H-huhhh...Ah, aaaaah! No Please, stop! Somebody, help! 
  
-**? ? ? :**
+**???:**
 ! 4b@eq<4b@eq! 
  
-**? ? ? :**
+**???:**
 &mdash;b;f? b;m 6ud@ MONO? 6md 
  
 **Uruk Civilian:**
@@ -21781,13 +21781,13 @@ Don't run away! Fight! If we don't stop them here, we won't stand a chance!
 **Uruk Soldier:**
 Everyone, attack together! Let's kill them one by one, together! 
  
-**? ? ? :**
+**???:**
 qkde qkde! g@'ffffffffffffffffffffff! 
  
 **Uruk Soldier:**
 It's no good...We're not even making a dent! Our spears and arrows just bounce off of them! What are these creatures!? 
  
-**? ? ? :**
+**???:**
 qkde! Qkde! g@'ffffffffffffffff! 
  
 ---
@@ -21807,7 +21807,7 @@ Let's go, Mash...!
 **Mash:**
 Right...! Commencing combat with these unknown life forms, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The enemies are multiplying as we fight them! Even one of them is almost too strong! If this keeps up...
@@ -21815,7 +21815,7 @@ The enemies are multiplying as we fight them! Even one of them is almost too str
 **Quetzalcoatl:**
 There's a limit to how many we can handle! They're just overwhelming...Huh? 
  
-**? ? ? :**
+**???:**
 ...tzs@4d(4l)4. 
  
 **Mash:**
@@ -22386,7 +22386,7 @@ Mash...!
 **Mash:**
 Roger, Master! Engaging enemy Laḫmu! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Laḫmu:**
 Gyashi&mdash;Gyakikikikikiki! 
@@ -22409,7 +22409,7 @@ Of course, we're heading straight to Eridu.
 **Ishtar:**
 They're transforming so quickly. We need to save the kidnapped people fast! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 We've arrived at Eridu! I sense people&mdash;What's all this commotion? 
@@ -22444,7 +22444,7 @@ We need to find a weak point or something before we can face them head on...!
 **Dr. Roman:**
 Just one? Then engage! Neutralize it before it calls the others! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Laḫmu:**
 ...! 
@@ -22487,7 +22487,7 @@ Just do it! We don't have time to spare, right? Sorry to be so difficult, but we
 **Ishtar:**
 We're going into the plaza! Before it's too late...! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **D：Uruk Civilian:**
 (Panting)
@@ -22545,7 +22545,7 @@ You back up Fujimaru!
 **Quetzalcoatl:**
 Claro. I've reached my boiling point, too! This time, I'm really going to rip out their hearts! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Everyone, please run toward the jungle! We'll draw those monsters away! 
@@ -22789,7 +22789,7 @@ I won't let it! We'll leave the small fry to you, Coatl! We'll go and take that 
 **Quetzalcoatl:**
 Be careful! That thing has a Magical Reactor Core within its body! The amount of magical energy is incredible! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Kingu:**
 Urg...! 
@@ -22828,7 +22828,7 @@ The transformed Laḫmu has fled into the sky...! They're going to get away!
 Are you trying to outrace me!? Bring it on, I'll take you on...Ugh!? 
  
 **Ishtar:**
-Hey, get off me, you! ! Sorry, Coatl, go on with Fujimaru! 
+Hey, get off me, you!! Sorry, Coatl, go on with Fujimaru! 
  
 **Quetzalcoatl:**
 Come, my Quetzalcoatlus! Fujimaru, get on! Mash too! 
@@ -22860,7 +22860,7 @@ We have to go after that Laḫmu! Its destination is probably the ocean and if w
 Fofofofofoooo. 
  
 **Mash:**
-We've never gone this fast before! ! It reminds me of the Arash Airlines flight, Master&ndash;! 
+We've never gone this fast before!! It reminds me of the Arash Airlines flight, Master&ndash;! 
  
 ---
 
@@ -23023,7 +23023,7 @@ How come I know your name and face though...You thanking me&mdash;
 I don't have any right to receive your gratitu&mdash;Urg&mdash;
  
 **Kingu:**
-Urgguuuuugh...! Aaaaaaaaaaaaagh...! ! ! 
+Urgguuuuugh...! Aaaaaaaaaaaaagh...!!! 
  
 **Dr. Roman:**
 Another Spirit Origin detected. It's a Servant! But this is&mdash;
@@ -23064,7 +23064,7 @@ Exactly. I've never felt better, never felt more like myself from before.
 **Ushiwakamaru:**
 This blade is the voice of love and hate. I shall offer all of you to Mother...! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Ushiwakamaru has vanished...But now we can follow the Laḫmu...
@@ -23085,7 +23085,7 @@ Those who survive on the battlefield. Those who forget it. Those who avoid the b
 All of them must die. I'll kill them. I'll kill you. I'll kill every single human. 
  
 **E：Ushiwakamaru:**
-And then&mdash;Yoritomo, that fool Yoshitsune...I'll rip the ENTIRE Genji clan apart! ! ! 
+And then&mdash;Yoritomo, that fool Yoshitsune...I'll rip the ENTIRE Genji clan apart!!! 
  
 **Mash:**
 Multiple enemy Servants detected...! Doctor, what is this...!? 
@@ -23129,7 +23129,7 @@ Before I bring out the big guns, I'm going smash your face in with my macana, ye
 **Ushiwakamaru:**
 Shut up, false goddess! I shall smash that pathetic wooden sword of yours to pieces! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ushiwakamaru:**
 Humph...Perhaps you really weren't all talk. 
@@ -23232,7 +23232,7 @@ Yes, of course! Good idea, Doctor, yes! First, let's eat! Eat!
 **Quetzalcoatl:**
 Like the great lucha announcers say, you can't get in the ring on an empty stomach, yes! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Gilgamesh:**
 You're late, Chaldeans! What happened? Tell me everything! 
@@ -23535,7 +23535,7 @@ Go then, Fujimaru of Chaldea, Mash, and the survivors of the Three Stooge Goddes
 **Gilgamesh:**
 Your enemy is the primordial creature called Tiamat...The one who births the Laḫmu, the very source of Demonic Beasts! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 More and more Laḫmu are surfacing! We need to stop this unending Demonic Beast factory, fast! 
@@ -23561,7 +23561,7 @@ Everyone, they're here! Multiple enemies! Laḫmu and Demonic Beasts!
 **Dr. Roman:**
 We're almost offshore! Take them out quickly! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Abnormal Spirit Origin confirmed! It's here! Two hundred meters from contact! 
@@ -23569,7 +23569,7 @@ Abnormal Spirit Origin confirmed! It's here! Two hundred meters from contact!
 **Dr. Roman:**
 You should be able to see it! The source of this abnormality is at the ocean's surface! 
  
-**? ? ? :**
+**???:**
 Ahhhh. 
  
 ---
@@ -23673,7 +23673,7 @@ Ahhhh.
 Ahhhh, Aaaaaa, aaaaaaa! 
  
 **Mash:**
-Ugh...! ! My body...I can't move!? 
+Ugh...!! My body...I can't move!? 
  
 **Dr. Roman:**
 The magical energy within Tiamat is surging! No, something's happening! 
@@ -23701,7 +23701,7 @@ We have to do this...!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Amazing, you did it...! Confirming collapse of Tiamat's Spirit Origin! 
@@ -23907,7 +23907,7 @@ Aaaaaahhh. Aaaaaaaaaa!
 **Da Vinci:**
 Second wave incoming...! Oh no, its momentum will carry it straight to Uruk! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Uruk Soldier:**
 Echo confirmed from observation post three! 
@@ -24507,7 +24507,7 @@ But don't stop thinking. We are not going to sleep and just give up.
 **Gilgamesh:**
 We're going to get through tonight so we can survive tomorrow. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Quetzalcoatl:**
 Hey, I dropped in to say hi, Fujimaru! So this is the famous Chaldea Embassy! I'm a bit surprised, yes! 
@@ -25875,7 +25875,7 @@ Your objective is to approach Tiamat&mdash;Beast II, and bar its advance using N
 **Dr. Roman:**
 This operation will end with the burning of the Chaos Tide! All of you, proceed to it with full strength! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Master, we've entered Tiamat's field of vision! Laḫmu incoming! 
@@ -25895,7 +25895,7 @@ No matter what you do, the Chaos Tide will also be eating away at you! Be carefu
 **Mash:**
 Yes...! Commencing battle, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Increase in the number of Laḫmu and transformed Laḫmu! The potency of the Chaos Tide is also rising! 
@@ -25997,7 +25997,7 @@ For us to push forward on our own! I'm getting excited!
 **Ishtar:**
 Come, Laḫmu. I'm going to feather you all with my arrows! No matter how many of you come at me, I won't let you lay a finger on Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Tiamat's still speeding up! This is bad! She's going to reach the Fangs of Napishtim soon! 
@@ -26040,7 +26040,7 @@ You'll go flying if you don't pay attention! Make sure you lower your center of 
 **Mash:**
 Right...! Master, watch out for the rearguard! From this point onward, anything can happen! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We did it! We've caught up to Tiamat! Our plan is a go, Master! 
@@ -26126,7 +26126,7 @@ I'm going to UTTERLY destroy that Darkened Servant!
 **Ushiwakamaru:**
 Just try it! Your plan won't go anywhere as long as I'm around! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ushiwakamaru:**
 It doesn't make any difference how many of me you kill. Haven't you learned? 
@@ -26463,7 +26463,7 @@ Ouch...I can almost hear the ten second countdown...
 Ugh...I may be tough, but it's just a matter of time at this point...
  
 **Quetzalcoatl:**
-But still, I won't stop! No matter the cost, I'll keep...this...burning! ! ! 
+But still, I won't stop! No matter the cost, I'll keep...this...burning!!! 
  
 **Quetzalcoatl:**
 Come on, Ereshkigal, hurry! I'm in this until you're done or they tear me to pieces! 
@@ -26610,7 +26610,7 @@ I shall burn everything away and become the comet that killed the Earth!
 **Quetzalcoatl:**
 Here I go...Ultimo Tope Patada! Burning fighting spirit, Xiuhcoatl! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Quetzal...coatl...Her flame's extinguished and has fallen into...the black sea...
@@ -26636,7 +26636,7 @@ The Chaos Tide is coming this way! A large number of Laḫmu are approaching, as
 **Mash:**
 Senpai, your orders, please! I can't allow us to run away after all of this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 The Fangs of Napishtim have fallen! The Chaos Tide is flowing towards Uruk! 
@@ -26721,9 +26721,9 @@ Please, help us...!
 Do not interfere, Fujimaru. 
  
 **Laḫmu:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! ! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!!! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Tiamat:**
 ...Aaaahhh. 
@@ -26977,7 +26977,7 @@ Everything destroy! Fun! What fun! They still alive!
 **Ishtar:**
 They're getting on my nerves! Let's take them out, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gilgamesh:**
 You're back? Has it been half a day? Funny, it seems like it was just a moment ago. All right. 
@@ -27166,7 +27166,7 @@ Is that what you're saying, Fujimaru!?
 ---
 
 **Fujimaru 2:**
-...Uruk is far from finished! ! ! 
+...Uruk is far from finished!!! 
  
 
 ---
@@ -27293,7 +27293,7 @@ Kingu, son of Tiamat, will show you the power of the Chain of the Heavens!
 Mother's fury is a thing of the past. Now I will awaken the breath of stars&mdash;
  
 **Kingu:**
-Enuma Elish! Humans, let us bind the gods! ! ! ! ! 
+Enuma Elish! Humans, let us bind the gods!!!!! 
  
 ---
 
@@ -27510,7 +27510,7 @@ This way...!
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -27963,7 +27963,7 @@ The mistress of Kur, Ereshkigal, asks you a favor! Heroes of the surface, crush 
 **Ereshkigal:**
 The connection between Earth and the heavens must be severed by human hands&mdash; By humanity, continuing far into the future! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 We've beaten back the mutant Laḫmu defending her! We'll head for Tiamat&mdash;
@@ -28033,7 +28033,7 @@ Yes...! There is no more dependable reinforcement than you!
 **Mash:**
 Commencing battle! Let's break through the mutant Laḫmu and reach Beast II's head! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 You've finally caught up to the head, but Beast II is only three hundred meters from the surface! 
@@ -28044,7 +28044,7 @@ Hurry! At the rate she's going, she'll only need a few more minutes to climb out
 **Mash:**
 Understood...! Master, your orders, please! Beast II cleanup operation begins now! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Beast II is still standing! Dammit. Her Spirit Origin's durability is astounding! 
@@ -28120,7 +28120,7 @@ Servant, Archer. Gilgamesh, King of Heroes. You mongrels were making such a rack
 **Gilgamesh:**
 Well, I came all the way here. What's a little rule-breaking for a king? 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -28172,7 +28172,7 @@ Well. Neither of us have much time. Let's put an end to this, Fujimaru of Chalde
 **Gilgamesh:**
 I shall grant you the honor of fighting alongside me at this final hour! Now show me the worth of your tale as a deity slayer! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We've detached Beast II from the wall! She's falling to the bottom of the underworld! 

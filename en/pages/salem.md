@@ -1205,7 +1205,7 @@ Sounds great to me! I'll go first then!
 You can't. 
  
 **Edison:**
-Why not! ! !? ? ? 
+Why not!!!? ? ? 
  
 **Da Vinci:**
 Bill, tell them. 
@@ -2342,11 +2342,11 @@ Sanson, Mash, wait! We can deal with her later!
 **Mata Hari:**
 Something's going on near the campfire. Master!? 
  
-**? ? ? :**
+**???:**
 ...! 
  
 **Beasts:**
-Grrr! ! ! 
+Grrr!!! 
  
 **Girls:**
 Aah! Aaah! 
@@ -2435,7 +2435,7 @@ Your village is down that way, right? Then let's get going!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Robin Hood:**
 And, done. 
@@ -2671,7 +2671,7 @@ Now then. It's getting rather chilly, and we can talk more tomorrow. You'll feel
 **Carter:**
 I'll have Tituba fix you something to eat too. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Tituba:**
 ...There we go. 
@@ -3204,7 +3204,7 @@ Got it. Sounds good.
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **A：Villager:**
 (Those must be the traveling performers. What were they thinking, coming all this way to perform in a village like this...? )
@@ -4832,7 +4832,7 @@ She was a little shaken up by the gunshots,but she regained her composure soon e
 **Mash:**
 ...At least, I think she did...
  
-**--ARROW--:**
+**--ARROW--**
  
 **A：Villager:**
 ...How long has it been since I last saw a play? 
@@ -5117,7 +5117,7 @@ My, but aren't we pompous all of a sudden?
 **Queen of Sheba:**
 But, very well then. I leave you and your fighters to your task...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash (Narrator):**
 Thanks to their capable bodyguards, the queen's procession easily fended off their attackers. 
@@ -5389,7 +5389,7 @@ If our actions go against the will of God,then this is where our journey will co
 **Queen's Retainer:**
 Please stand back, Your Majesty! The soldiers will handle this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash (Narrator):**
 And so, the Queen of Sheba's procession fought off the guardian spirits...
@@ -5785,7 +5785,7 @@ All we can do now is imagine the fate of the legendary queen for ourselves.
 **Mash (Narrator):**
 This concludes The Fujimaru Company's special performance of “Solomon and the Queen of Sheba. ”
  
-**--ARROW--:**
+**--ARROW--**
  
 **A：? ? ? :**
 ...
@@ -6219,7 +6219,7 @@ Regardless, that was awfully bold, especially given the circumstances. People mi
 Yes. What's more, you should all be able to use your spirit forms now, too, at least within the house and its grounds. 
  
 **Mata Hari & Mash:**
-...! ! ! 
+...!!! 
  
 **Sanson:**
 ...So it would seem. I guess we have your rite to thank for this. But, what exactly is going on? 
@@ -7575,7 +7575,7 @@ You were extremely rude to a judge. Be grateful I did not pass sentence on you h
 In fact, I will even put you next to Tituba,just as you wished. 
  
 **Medea:**
-Grrr...Hopkins! ! ! 
+Grrr...Hopkins!!! 
  
 **Hopkins:**
 Ah, truly convincing anguish. I hope to see such pathos from all you actors tonight. 
@@ -7592,7 +7592,7 @@ Do not worry. I will select that for you as well.
 **Hopkins:**
 For it must be about something that Salem needs now more than ever...! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Robin Hood:**
 ...So we gotta put on a play to clear our names? The hell's that old man thinking!? 
@@ -7902,7 +7902,7 @@ Hurrah! Hurrah! Noelle! Noelle!
 Another new voice...Who might you be? 
  
 **Jeanne Alter:**
-Oh for God's&ndash;not her! ANYONE but her! ! ! 
+Oh for God's&ndash;not her! ANYONE but her!!! 
  
 **Jeanne Alter Santa Lily:**
 It's me! Jeanne d'Arc Alter Santa Lily! 
@@ -8009,7 +8009,7 @@ We could not ask for worthier opponents! Come now, show us what you've got!
 **Jeanne Alter Santa Lily:**
 We can do this, yes we can! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jeanne Alter:**
 See!? I knew we were out of our league! 
@@ -8050,7 +8050,7 @@ Here they come!
 **Jeanne Alter:**
 Oh, for...They're all connected to THE FREAKING SUN! This is even worse! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jeanne Alter:**
 Dammit! Didn't they teach you idiots to pull your punches at acting school or whatever!? 
@@ -8250,7 +8250,7 @@ That is the moral I shall take from this fable.
 **Jeanne:**
 To the battlefield...! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash (Narrator):**
 Ahem...
@@ -8288,7 +8288,7 @@ Indeed, according to official records, it was an Englishman who responded to her
 **Mash (Narrator):**
 Thank you all for coming. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sanson:**
 Her convulsions have stopped,and her breathing has stabilized. 
@@ -8719,7 +8719,7 @@ Oh, Mash.
 We didn't make it. Tituba is dead. 
  
 **Abigail:**
-! ! ! 
+!!! 
  
 **Abigail:**
 D...dead...? 
@@ -9533,7 +9533,7 @@ We need to get rid of them before the villagers show up!
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **A：Monster:**
 Grooo...Grrgh...
@@ -9614,7 +9614,7 @@ Those were gunshots! Dammit, they came around the back of the house!
 Did we screw up leaving Medea behind? 
  
 **Monsters:**
-...! ! ! 
+...!!! 
  
 **Mash:**
 Senpai...! Look! 
@@ -9675,7 +9675,7 @@ Let's finish this as quickly as possible!
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Tituba:**
 ...aAA...
@@ -9714,7 +9714,7 @@ Did you lose your mind again?
 **Medea:**
 Never mind that! Just hurry and add me to the lineup! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Tituba:**
 ...A...
@@ -11198,7 +11198,7 @@ Therefore, you will head to the hill and rebuild the gallows along with the pris
 **Hopkins:**
 It should be a most fitting task for a conceited, self-flagellating whelp like you, Charles-Henri Sanson! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Lavinia:**
 ...H...
@@ -11297,7 +11297,7 @@ To do otherwise would be going against everything we Servants stand for...
  
 　　　　　  Before Midnight – Town Graveyard 　　　　　　　　　　  –Salem Day 3–
  
-**? ? ? :**
+**???:**
 ...! 
  
 
@@ -11406,7 +11406,7 @@ It certainly seemed like he was involved, but it'll be difficult to ask him now 
 **Mata Hari:**
 ...No, wait. They can talk, can't they? Ugh, this is just great. I hate everything about this. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 (Gasp, gasp, gasp...)
@@ -11435,9 +11435,9 @@ Come forth, my beast of envy. Come forth from the dim depths of your watery home
 **Circe:**
 Bare your many fangs, and feast upon the six calamities! 
  
-**--ARROW--:**
+**--ARROW--**
  
-**? ? ? :**
+**???:**
 ...! 
  
 **Nezha:**
@@ -11475,7 +11475,7 @@ Be careful not to finish him off. We need to ask him what is really happening he
 **Nezha:**
 ...Very well. Understood. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Absalom:**
 Ur...gh...Gh...hk...
@@ -11815,10 +11815,10 @@ Hey, don't look at me! I'm as shocked as any of you!
 ...!? 
  
 **Medea? :**
-...! ! ! 
+...!!! 
  
 **Medea? :**
-...! ...! ! ! 
+...! ...!!! 
  
 **Circe:**
 Oooh, yeah. She's mad. Reeeal mad. Super mad, even. 
@@ -11952,7 +11952,7 @@ Got my pen and paper here. I'm good to go.
 !? 
  
 **Medea:**
-! ! ! ...(Stifled laughter)
+!!! ...(Stifled laughter)
  
 **Circe:**
 Wha...Wha...WHO'RE YOU CALLING A VIRGIN GODDESS!? 
@@ -12615,7 +12615,7 @@ And that's where I lost sight of them.
 ---
 
 **Fujimaru 1:**
-Maaaaaash! ! ! 
+Maaaaaash!!! 
 
 ---
 
@@ -12729,7 +12729,7 @@ Are these...corpses!?
 ---
 
 **Fujimaru 2:**
-M...Maaaaaash! ! ! 
+M...Maaaaaash!!! 
  
 **Robin Hood:**
 Whoa, whoa, easy there! Take a closer look. 
@@ -13369,7 +13369,7 @@ I call you to the stand to serve as a witness. Rise.
 **Hopkins:**
 Do you swear to tell the truth, the whole truth, and nothing but the truth, so help you God...? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mata Hari:**
 “The woman with the eyes of the sun...”
@@ -13431,7 +13431,7 @@ To kill someone I once loved. BECAUSE I once loved him, foolishly.
 **Margaretha:**
 ...That's right. In my heart, I had already killed him countless times...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mrs. Pickman:**
 The Fujimaru Company's Sanson saved my daughter's life. 
@@ -13666,7 +13666,7 @@ She deserves nothing less than to perform for the entire world!
 **Mata Hari:**
 “...From, your Mata Hari. ”
  
-**--ARROW--:**
+**--ARROW--**
  
 **Abigail:**
 This is ridiculous! 
@@ -13777,7 +13777,7 @@ You may speak. But your sentence may not be appealed.
 But I swear to you here and now that my loyalty was always to France! 
  
 **Mata Hari:**
-...Eep...! ! ! 
+...Eep...!!! 
  
 **G：Military Judge:**
 ...I see. 
@@ -13797,7 +13797,7 @@ Look their souls in the eye, and proclaim your innocence!
 **G：Military Judge:**
 Listen to their voices, ruined by the bullets that tore through their throats, and hear them yourself...! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Hopkins:**
 Mata Hari...
@@ -13869,7 +13869,7 @@ How dare you show contempt for this holy court! Unlike the venues to which you a
 ---
 
 **Fujimaru 1:**
-Mata Hari! ! ! 
+Mata Hari!!! 
 
 ---
 
@@ -14211,7 +14211,7 @@ The noose is around her neck now...Dammit, she's smiling.
 Hang them! 
  
 **Sanson:**
-MARGARETHA! ! ! 
+MARGARETHA!!! 
  
 **Nezha:**
 In the end...We let her die. 
@@ -14400,7 +14400,7 @@ Huh...!? Why am I doing all the heavy labor here? Ugh, fine!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Abigail:**
 ...
@@ -14600,7 +14600,7 @@ May God's grace...be with you...Ah...Graaah!
 **Hopkins:**
 ...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Nezha:**
 Master! I brought. Abigail! 
@@ -14809,7 +14809,7 @@ As the Caster of Midrash, I swear here and now.
 **H：? ? ? :**
 I accept you as my Master...! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **A：? ? ? :**
 I've taken the liberty of preparing a safe house. Come on, I'll show you the way. 
@@ -16136,7 +16136,7 @@ I WILL fulfill...our family's wish. I promise...
 **Lavinia:**
 Iä...Iä...Y'gnaiih...y'gna...
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -16456,7 +16456,7 @@ Ooh, I hear something rather ominous. I wonder if that's the welcome wagon...?
 **Medea Lily:**
 No...It looks like this wagon isn't very welcoming at all. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **A：? ? ? :**
 That's strange...There's no one here. I could have sworn I saw a ship pass by...
@@ -16509,7 +16509,7 @@ Hm...? Medea...?
 **Circe:**
 And you're the Crown Princess of Colchis? You mean you're that blockhead Aeëtes' daughter!? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Circe:**
 My mansion is just up ahead. Along with my altar to Hecate. 
@@ -16700,7 +16700,7 @@ Hehe. That's what I like to hear. All right, let's get started!
 **Medea Lily:**
 Yes, Auntie! I see this must be the first trial you have in mind! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Circe:**
 Phew...
@@ -16788,7 +16788,7 @@ Skeletons kinda stole the show, huh?
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Hopkins:**
 ...
@@ -16986,7 +16986,7 @@ What's more, she told me that her co-conspirator,the one who helped her to conce
 ...is Abigail Williams. 
  
 **Sanson:**
-...! ! ! 
+...!!! 
  
 **Abigail:**
 Ngh...Nnngh...
@@ -17352,7 +17352,7 @@ Go away, ghost! Get out of here!
 **Villager:**
 Aah! Stay back! I said stay back! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **D：Villager:**
 A-aah! Somebody, saaave meee! There are monsters everywhere! 
@@ -17383,7 +17383,7 @@ I TOLD you to be careful, Gramps! Ugh, this is such a frigging pain!
 **Nezha:**
 We are still. Outnumbered! These enemies are strange. Handling them. Difficult! 
  
-**--ARROW--:**
+**--ARROW--**
  
 
 　　　　　　　 Massachusetts Army – Cavalry 
@@ -17415,7 +17415,7 @@ Hey...It worked! All right, Professor!
 **Soldier:**
 So now we just shoot 'em like any other enemy, huh? They're not that fast either. We can do this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Carter:**
 Abigail! Abigail, where are you!? 
@@ -17565,19 +17565,19 @@ Zzz...Zzz...
 **Abigail:**
 Yg...naiih...yg...naiih......thfl...thkh...
  
-**? ? ? :**
+**???:**
 ...
  
-**? ? ? :**
+**???:**
 Only one left...
  
-**? ? ? :**
+**???:**
 Then, the ultimate gate will open...
  
-**? ? ? :**
+**???:**
 Wonderful...He has already begun his descent within the depths of your mind...Well done, Whateley...
  
-**? ? ? :**
+**???:**
 Soon...Very soon now...Only one...left...
  
 **Abigail:**
@@ -18086,7 +18086,7 @@ Please take me away from here. I don't care where I go, as long as it isn't here
 Please, God...
  
 **Abigail:**
-...! ! ! 
+...!!! 
  
 **Hopkins:**
 Don't move. 
@@ -20068,7 +20068,7 @@ Everyone...Please, listen to me.
 I...I have a confession to make. I would like to accuse myself. 
  
 **B：Villagers:**
-! ! ! 
+!!! 
  
 **Abigail:**
 I'm...a witch. 
@@ -20113,7 +20113,7 @@ Ow...ow...!
 Abigail's a witch! A witch! 
  
 **Nezha:**
-...! ! ! 
+...!!! 
  
 **B：Villagers:**
 Stone the one defending her too! They're both demons! 
@@ -20131,7 +20131,7 @@ These stones are a lot harder than the props in your plays, right? So, it's okay
 This is. Not okay. I am not. Okay with this. 
  
 **Nezha:**
-RrrAAAAAAhhh! ! ! 
+RrrAAAAAAhhh!!! 
  
 **Nezha:**
 ALL OF YOU! LISTEN! 
@@ -20230,7 +20230,7 @@ Robin! Nezha! Try not to hurt her!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **E：Abigail:**
 ...Nn...gh...
@@ -20453,7 +20453,7 @@ Oh, how kind of you...You shouldn't have.
 **Prison Guard:**
 Okay, I'll let you have some privacy. If you need anything, just let me know! 
  
-**? ? ? :**
+**???:**
 ...Thank you. 
  
 **A：Carter:**
@@ -20987,7 +20987,7 @@ Case in point, he went out of his way to recreate these sick witch trials.
 She said that the Demon God Pillar showed up looking like Mr. Carter, and that he says his mission here is to “save mankind”...
  
 **Lavinia:**
-...! ! ! Car...ter...! ! ! 
+...!!! Car...ter...!!! 
  
 **Mash:**
 Apparently he's taking a different approach from Goetia, whose plan focused on storing up unimaginable amounts of magical energy...
@@ -21417,7 +21417,7 @@ That's it. I've had enough!
 Even if {(M) Mr. /(F) Ms. } Ringmaster did do something bad, it's not {(M) his /(F) her} fault. 
  
 **Abigail:**
-It's because {(M) he /(F) she} has always tried to help others, whether me or someone else, without worrying about {(M) himself /(F) herself} or how it might look! ! 
+It's because {(M) he /(F) she} has always tried to help others, whether me or someone else, without worrying about {(M) himself /(F) herself} or how it might look!! 
  
 **Abigail:**
 What about me? I'm a witch, remember? 
@@ -21808,7 +21808,7 @@ Aah, aah, aaaaaahhh...
 Not again? How many times has it been? I'm sick of this! Sick of it! 
  
 **Abigail:**
-Aaaaaahhh...! ! ! 
+Aaaaaahhh...!!! 
  
 **Lavinia:**
 ...A-Abby. L-look at me...
@@ -21837,7 +21837,7 @@ Even in death, they begged for redemption! So they entrusted their wish for forg
 **Lavinia:**
 ...Abigail! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Abigail:**
 ...(Huff, huff, huff)...! 
@@ -22042,7 +22042,7 @@ Hmm. I don't have time to choose my words carefully, so at peril of being laughe
 ...I believe the very underpinnings of magecraft itself are starting to become fractured. 
  
 **Da Vinci:**
-...A heretic...! ! ! 
+...A heretic...!!! 
  
 **Edison:**
 Ahh, not again! That means there are casualties among ordinary people in this, correct!? 
@@ -22128,7 +22128,7 @@ Ahh, I can smell its alluring aroma everywhere...The descent is almost upon us..
 **Demon God Pillar Räum:**
 Iä...Iä...Y'gna...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Demon God Pillar Räum:**
 Croak...Croak...
@@ -22366,7 +22366,7 @@ I see...So I can't reach outside. Even though all I'm trying to do is find the m
 Then...if I just reach through the Bounded Field itself to send pain directly into the mages' hearts...
  
 **Mash:**
-Please, stop this...! ! ! 
+Please, stop this...!!! 
  
 ---
 
@@ -22452,7 +22452,7 @@ If Abigail. Fallen from grace. Truly possesses untainted strength...
 Then something should remain. Even after we defeat it...! 
  
 **Nezha:**
-My own soul. Is proof of that! ! ! 
+My own soul. Is proof of that!!! 
  
 ---
 
@@ -22471,7 +22471,7 @@ England, Rome, Jerusalem...I'll connect them all to each other...to me...
 **H：Abigail:**
 And then, I will bestow eternal, unending pain...pain...pain...! Upon everyone...! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Demon God Zepar:**
 Bael went back in time. Andras shut down during his escape. 
@@ -22645,7 +22645,7 @@ Am I...Am I the one who's gone mad?
 
  
 **Mash:**
-Master...! ! ! 
+Master...!!! 
  
 **Robin Hood:**
 ...La mort est l'espoir! 
@@ -22749,7 +22749,7 @@ Did you figure it would be easy to just save a single child...? Is that what you
 ...There. I just broke through your little barriers. 
  
 **Queen of Sheba:**
-...! ! ! 
+...!!! 
  
 **Abigail:**
 ...I guess I just couldn't hold back any longer. Now, there's nowhere in the world I can't reach...
@@ -22934,7 +22934,7 @@ I'm even more willful, remember!?
 
  
 **Abigail:**
-...! ! ! 
+...!!! 
  
 ---
 
@@ -22961,7 +22961,7 @@ So please...Would you do me a favor...
 **Abigail:**
 ...and die in vain, here in my Salem!? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Abigail:**
 ...Ah...Ahhh...No, please. Come back...
@@ -24036,13 +24036,13 @@ We forgot to give Abby back her pendan
 **Sanson:**
 ...Go back? 
  
-**? ? ? :**
+**???:**
 Oh yes. You can go back home, back to the Throne...
  
-**? ? ? :**
+**???:**
 ...or even back to the very beginning...a clean slate, if you're so inclined. 
  
-**? ? ? :**
+**???:**
 I'll open the gate for you either way, Charles-Henri Sanson. 
  
 **Sanson:**
@@ -24051,10 +24051,10 @@ I'll open the gate for you either way, Charles-Henri Sanson.
 **Sanson:**
 I don't need to go back anywhere. I believe I've done what I set out to do. 
  
-**? ? ? :**
+**???:**
 ...I see. 
  
-**? ? ? :**
+**???:**
 In that case, you already have the key to the gate you need to open. 
  
 **D：Sanson:**
@@ -24069,7 +24069,7 @@ Where did my sword go...?
 **D：Sanson:**
 Would you by chance know what happened to&ndash;
  
-**? ? ? :**
+**???:**
 Aah! 
  
 **D：Sanson:**
@@ -24078,19 +24078,19 @@ Oh, excusez moi, I didn't mean to step on your foot.
 **D：Sanson:**
 Please, forgive me. 
  
-**? ? ? :**
+**???:**
 Don't worry, I'm fine. I'm just glad your shoes didn't get dirty. 
  
 **D：Sanson:**
 ...I see. So it was you all along. 
  
-**? ? ? :**
+**???:**
 Now, come on, Charles. 
  
-**? ? ? :**
+**???:**
 Can you hear that music? Are you a good dancer? 
  
-**? ? ? :**
+**???:**
 Haha, you certainly don't look like you are. 
  
 **D：Sanson:**
@@ -24099,7 +24099,7 @@ It's true. I am a terrible dancer. I never did have anyone who would dance with 
 **D：Sanson:**
 So, if you don't mind...I would be grateful if you would teach me. 
  
-**? ? ? :**
+**???:**
 Of course. I'd be happy to...
  
 ## Epilogue: Chaldea 
@@ -24456,7 +24456,7 @@ Poor guy.
 Then again, I suppose he wouldn't have fit on the giant turtle that rescued us all anyway. 
  
 **White Horse:**
-“![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)! ! ! ”
+“![1-light](https://i.imgur.com/XAqlQYL.png)!!! ”
  
 **Sanzang:**
 Yes...I'm sorry about that. I just wanted to try steering the ship a little...
@@ -24527,7 +24527,7 @@ And I am Sha Wujing, her third-best disciple! Those of you who tire of living, w
 **Sanzang:**
 Hey! I told you, no killing! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash (Narrator):**
 Monstrous tigers and leopards! Poisonous, wicked creatures! Evil spirits galore! 
@@ -24697,7 +24697,7 @@ Yes, Eu. I won't lose.
 **Single Horned Rhinoceros King:**
 Not as long as I have...this Golden Jade Ring. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash (Narrator):**
 As for Sun Wukong, who had made a quick hop to a little village a few thousand li away to buy food...
@@ -24723,7 +24723,7 @@ Thus, Sun Wukong found himself in a fearsome battle against the Single Horned Rh
 **Mash (Narrator):**
 Naturally, Wukong was quick to draw his bow and arrow. But something wasn't right...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **G：Sun Wukong:**
 He's snatching every one of my arrows out of the air before they hit him! How is that possible!? 
@@ -24926,7 +24926,7 @@ Very well then, I will repay this debt! Let us duel again, and rekindle our frie
 **Nezha:**
 ...Agreed! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nezha:**
 ...Excellent! It seems your skills. Are as sharp. As ever! 
@@ -25259,7 +25259,7 @@ Wait! I would prefer to have dinner first! With peroxide!
 This WILL be your dinner tonight...my dear. 
  
 **Nezha:**
-Single Horned Rhinoceros King! ! ! 
+Single Horned Rhinoceros King!!! 
  
 **Single Horned Rhinoceros King:**
 Who calls me!? 
@@ -25313,7 +25313,7 @@ Don't get careless. Use your Golden Jade Ring to disarm her and kick her out!
 Okay. 
  
 **Nezha:**
-Very well. If you won't come. To me. I'll come. To you! Hraaaaaah! ! ! 
+Very well. If you won't come. To me. I'll come. To you! Hraaaaaah!!! 
  
 **Single Horned Rhinoceros King:**
 Absorb! 
@@ -25325,7 +25325,7 @@ Absorb!
 I got all...your weapons! It's over! 
  
 **Nezha:**
-Grrr...! ! ! 
+Grrr...!!! 
  
 **Subordinate Enchantress:**
 You did it, Great King! You won again! We'll be having fried monk tonight! 
@@ -25384,7 +25384,7 @@ Well, no matter! We'll just have to do this the old-fashioned way! Come on!
 **Nezha:**
 W-Wukong! D-don't forget. To give me back my weapons...! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash (Narrator):**
 Even with the Golden Jade Ring sealed away, the Single Horned Rhinoceros King was a fearsome opponent! 
@@ -25528,7 +25528,7 @@ Yes, sir. Can I have a ride, please?
 ...Wow, look at that. I've never seen a bull run so fast before. 
  
 **White Horse:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)! ! ! 
+![1-light](https://i.imgur.com/XAqlQYL.png)!!! 
  
 **Sanzang:**
 Aaah! You scared me! 
@@ -25540,7 +25540,7 @@ Aaah! You scared me!
 Oh, if it isn't Bailong! It's about time you caught up with us. 
  
 **White Horse:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)! ! ! 
+![2-light](https://i.imgur.com/7VYgcEB.png)!!! 
  
 **Sun Wukong:**
 What's that? When you sank down to the bottom of that river...
@@ -25552,7 +25552,7 @@ What's that? When you sank down to the bottom of that river...
 Come to think of it, I forgot all about my staff. 
  
 **Sun Wukong:**
-And you brought it along with you? Oh hey, thank you so much! ! ! 
+And you brought it along with you? Oh hey, thank you so much!!! 
  
 **Sha Wujing:**
 Hahahaha! We've all had our share of trouble, but the important thing is that we are now reunited! 

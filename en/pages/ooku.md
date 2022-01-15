@@ -274,7 +274,7 @@ Even after sounding the alarm and putting out a call,you two were the only ones 
 **Sion:**
 We are now the only ones left in the entire Chaldea Base! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sion:**
 The Spirit Origin graph is still working,but we cannot summon a single Servant. 
@@ -598,7 +598,7 @@ I think they call it “burei-uchi”? Gosh, imagine a society where you cannot 
 ---
 
 **Fujimaru 1:**
-That doesn't sound reasonable at all! ! ! 
+That doesn't sound reasonable at all!!! 
  
 
 ---
@@ -943,7 +943,7 @@ All systems are go.
 **P. A. System**
 Proving Urgent Order. Initiating Counter Order operations. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 I felt as though something. . or someone...was calling me. 
@@ -978,7 +978,7 @@ Every decent person would hope to do the same(even if they rarely do in practice
 
 So as a kind and loving goddess, how could I refuse...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Sessyoin Kiara:**
 Teehee. It looks like we've arrived successfully,{(M) Lord /(F) Lady} Fujimaru! 
@@ -1705,7 +1705,7 @@ Besides, now I have a goddess of India and her trusty companions here to help me
 **Kasuga-no-Tsubone:**
 Whatever sort of nasty person might have taken over the Ooku, I'm sure we can handle them just fine! Ah ha ha! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Kasuga-no-Tsubone:**
 What the...? What's with this Osuzurouka? I never had anything nearly this creepy in my Ooku! 
@@ -1824,7 +1824,7 @@ Sorry for the trouble, Lady Par,but would you mind taking over from here?
 **Pārvatī:**
 Wait. Huh!? You can't just spring these things on me like this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sessyoin Kiara:**
 ...(Sigh) They looked so suspicious, and we were about to fight them anyway, so I didn't hesitate to exorcise them, but&ndash;
@@ -1970,10 +1970,10 @@ I'm picking up something ahead of you!
 **Sion:**
 This is not just something. It is a human! Just a simple, ordinary human signal! 
  
-**? ? ? :**
+**???:**
 ...(Cough). Of all the possible reasons that ran through my mind when I heard that commotion near the Ojouguchi, I never expected this. 
  
-**? ? ? :**
+**???:**
 This is going to be quite the hassle...
  
 **Kasuga-no-Tsubone:**
@@ -2082,7 +2082,7 @@ Ooh, a proper welcome? Does this mean they're going to dance for us?
 **Pārvatī:**
 These look like they're going to be much more aggressive than those last guards! Please get back, Tsubone! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Pārvatī:**
 Phew. I'm glad that's over with. 
@@ -2344,73 +2344,73 @@ You really believe in mercy, don't you? I guess you really are as gentle as you 
 **Matsudaira Nobutsuna:**
 ...(Cough). Are you sure about this? 
  
-**? ? ? :**
+**???:**
 Ugh...Why would you even ask such a boring question? 
  
-**? ? ? :**
+**???:**
 Of course I'm sure. Why did you think I would say otherwise? 
  
 **Matsudaira Nobutsuna:**
 ...Forgive me. I could not help but inquire,given what an unusual looking sort they were. 
  
-**? ? ? :**
+**???:**
 You're quite the worrywart, aren't you, Matsudaira? 
  
-**? ? ? :**
+**???:**
 It doesn't matter what someone may be like before they enter this Tokugawa Ooku. Once they do, there's only one way forward for them. 
  
-**? ? ? :**
+**???:**
 And I don't just mean physically. I explicitly designed it so one can only proceed by behaving in a certain way. 
  
-**? ? ? :**
+**???:**
 So of course I'm not going to have second thoughts about the innermost chamber I created myself. 
  
 **Matsudaira Nobutsuna:**
 ...Yes, my lady. 
  
-**? ? ? :**
+**???:**
 That said, this is a little unexpected. They're not enjoying themselves as much as they're supposed to. 
  
-**? ? ? :**
+**???:**
 (Sigh)...Maybe it's because that romance-addled goody-goody Pārvatī is there with them...
  
 **Matsudaira Nobutsuna:**
 ...
  
-**? ? ? :**
+**???:**
 But that's fine. Who cares? I sure don't. 
  
-**? ? ? :**
+**???:**
 Anyway, that reminds me. How are things going with the one I left in your care? 
  
 **Matsudaira Nobutsuna:**
 ...(Cough). I'm afraid there has not yet been much progress. 
  
-**? ? ? :**
+**???:**
 Hmm, is that so? Well, that's okay. Just keep at it until you're satisfied. 
  
-**? ? ? :**
+**???:**
 Still, don't you think it would be faster to cut your losses, crush them, and make them a pillar already? 
  
 **Matsudaira Nobutsuna:**
 I do not. I appreciate the suggestion, my lady, but I would like to keep trying for a while longer. They are useful as they are now. 
  
-**? ? ? :**
+**???:**
 Hey, I left them in your charge for a reason. If that's what you want to do, go right ahead. 
  
-**? ? ? :**
+**???:**
 Just because I think you're wasting your time on that piece of trash doesn't mean I'm not rooting for you to succeed. 
  
-**? ? ? :**
+**???:**
 Hehe. Hehehehe. In the end...that is what I am, after all. 
  
-**? ? ? :**
+**???:**
 Which is why...I'm going to do the same thing to all of them. 
  
-**? ? ? :**
+**???:**
 Pārvatī may make me sick to my stomach, but I wouldn't be who I am if I didn't extend a hand to her anyway. 
  
-**? ? ? :**
+**???:**
 Teehee. Yes, why beat around the bush when there's no need to? I should go out there and greet them as soon as I can. 
  
 **Pārvatī:**
@@ -3056,7 +3056,7 @@ I find this all rather distasteful, but I suppose if there is no other way forwa
 **Sessyoin Kiara:**
 I suppose now I understand how those people who constantly go on about being averse manual labor must feel...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The hostile entities have been eliminated! But, I'm afraid&ndash;
@@ -3859,7 +3859,7 @@ Oh my...Well then, I believe I can come up with some means by which to amuse mys
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -4595,7 +4595,7 @@ As a goddess, I usually like to take people at their word, but this just reeks o
 **Pārvatī:**
 If this is a trap, we're not falling for it. If you won't get out of our way, we'll just go on without you! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Kasuga-no-Tsubone:**
 Nghhh...I feel sick. And it's even worse if I try to keep my mouth shut...
@@ -5590,7 +5590,7 @@ Now go on, my attendants. These poor, pitiful humans are being kept down by mean
 **Kama:**
 Go on and let them experience the Ooku's full and unbridled pleasures for themselves! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Kasuga-no-Tsubone:**
 How many times do I have to say it!? The Ooku is not some cheap nighttime paradise, dammit! 
@@ -6205,7 +6205,7 @@ They're two of our precious Chaldea companions. We have to rescue them from this
 **Mash:**
 Please...Please try to help them! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Yagyu Tajima-no-kami:**
 Worry not. I struck with the back of my blade. 
@@ -7112,7 +7112,7 @@ As I suspected, it would seem we have no choice but to defeat these creatures be
 **Yagyu Tajima-no-kami:**
 Shinkageryu is not meant for party tricks, but it should be well suited to bring the festivities to an end...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Pārvatī:**
 It's another pillbox. This one says “Yoshimune. ”
@@ -7917,7 +7917,7 @@ As a god from the same pantheon as you,and as the light side of your avatar...
 **Pārvatī:**
 ...I'm going to make you atone for your sins myself! This ends now, Kama! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Kama:**
 Too bad. I guess this bow and arrow I chose to save energy and piss off Indra really can't compare to the real thing. 
@@ -8595,7 +8595,7 @@ I am still concerned that we don't know exactly what these Kama clones are...
 **Pārvatī:**
 Fujimaru! Your orders, please! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Overlapping Whispers:**
 ...I know they say great heroes are fond of the pleasures of the flesh, but that many concubines? It's no wonder some people think he's a maniac...
@@ -9164,7 +9164,7 @@ In fact, the very thought of them might make me want to puke...
 **Kama:**
 But, even though I'll always despise you...I'll still love you all, forever and ever...To the very end...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Yagyu Tajima-no-kami:**
 (How is this happening? My sword refuses to do as I wish. It feels...heavy. )
@@ -9217,7 +9217,7 @@ You're all literally enveloped by me, and my love.
 **Kama:**
 Go on, take a look around. See for yourselves what the love enveloping you right now truly is! 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -9366,7 +9366,7 @@ Huh!? So...heavy...!
 As I said, this is my own universe,my own personal world. 
  
 **Kama:**
-I could end all your lives in an instant if I wanted, and you wouldn't be able to do anything about it. And you think you're going to fight me? Puh-lease! ! ! 
+I could end all your lives in an instant if I wanted, and you wouldn't be able to do anything about it. And you think you're going to fight me? Puh-lease!!! 
  
 **Kama:**
 Or what, are you really going to take on the universe itself? Don't bother. You can't possibly win. 
@@ -9507,7 +9507,7 @@ I am one of the Seven Evils of Humanity: Beast III, the Beast of Pleasure. I am 
 **Kama:**
 So get it through your thick skulls! You're all in the throes of my love&ndash;the love of Beast III/L! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Pārvatī:**
 A Beast...? You're one of the Beasts of Disaster that threatens to end all of mankind!? 
@@ -9648,7 +9648,7 @@ I can provide infinite depravity for everyone. I can provide eternal satisfactio
 **Kama:**
 It's okay, trust me. The fires of my love are more than strong enough to heat up this entire universe! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Kama:**
 Weren't you listening to me? I told you, you don't stand a chance. 
@@ -9818,7 +9818,7 @@ I know Yagyu Tajima-no-kami Munenori's strength better than anyone here, and his
 **Matsudaira Nobutsuna:**
 ...It is over. You should have known all along, as I do. No one can defeat a god, nor a monster on par with one...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Matsudaira Nobutsuna:**
 ...It is over. You should have known all along, as I do. No one can defeat a god, nor a monster on par with one...
@@ -10024,7 +10024,7 @@ Come on now, why are you all cowering in fear? She's just one woman! Just follow
 **Tokugawa Goredolf:**
 Oh? What's this now? Was I showing off my famous Shogun Fist to liven up the party or something? 
  
-**? ? ? :**
+**???:**
  
 So we have had not one, but two miracles sufficient to distract the Beast, have we? Well then...
  
@@ -10458,7 +10458,7 @@ They're all amazing! Every last one of them!
 **Kasuga-no-Tsubone:**
 (But I can't dwell on that now. I still have to save him, no matter what! Keep your chin up, Fuku! )
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -10554,7 +10554,7 @@ Lady Fuku, please try to remain calm. In approximately two hundred years from th
 ...the Tokugawa shogunate will end. 
  
 **Kasuga-no-Tsubone:**
-! ! ! 
+!!! 
  
 **Kasuga-no-Tsubone:**
 ...I see. I was trying hard not to think about it...but I knew that every great civilization falls eventually. 
@@ -10909,7 +10909,7 @@ It would have been a lucky break for us if we could damage the Ooku by fighting 
 **Sion:**
 Our goal right now is to acquire Lord Yoshinobu's pillbox. If you have to take her out to get it, then do so! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The battle is over. I can confirm that the enemy has dropped a pillbox! 
@@ -11357,7 +11357,7 @@ We're all walking out of here...together!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Master, look! I think Kama's horns are starting to crack! 
@@ -11534,7 +11534,7 @@ Now do you get it?
 **Kama:**
 It was your fixation that brought me here, Kasuga-no-Tsubone! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Kama:**
 It was your fixation that brought me here, Kasuga-no-Tsubone! 
@@ -11949,7 +11949,7 @@ Honestly, I can't say I'm thrilled about that myself, since I really do detest a
 **Kama:**
 Okay then, here goes. Enjoy your mind-shattering swim in zero gravity...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 I feel as aimless and unmoored as a dandelion seed on the wind...
@@ -12194,7 +12194,7 @@ I am the woman who created the Ooku.
 **Kasuga-no-Tsubone:**
 (I would like you to let go of my soul...)
  
-**--ARROW--:**
+**--ARROW--**
  
 **Kama:**
 I expect it won't be much longer now before I hear{(M) him /(F) her} breaking down into an ugly cry. 
@@ -12238,15 +12238,15 @@ Wait. Is it getting brighter over there...?
 **Kama:**
 What is that light? I don't remember ever...Huh!? 
  
-**? ? ? :**
+**???:**
  
 Yes, that's right. I'd forgotten something very important. 
  
-**? ? ? :**
+**???:**
  
 I am Kasuga-no-Tsubone. My name will always be spoken alongside the Tokugawa Ooku. 
  
-**? ? ? :**
+**???:**
  
 So if I'm here now, this place MUST be the Ooku...! 
  
@@ -12525,7 +12525,7 @@ I am Kasuga-no-Tsubone. My name will always be spoken alongside the Tokugawa Ook
 **Kasuga-no-Tsubone:**
 So if I'm here now, this place MUST be the Ooku...! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Kasuga-no-Tsubone:**
 I remembered the dreams I had. The ones I dreamt while I was weak and dying. 
@@ -12802,7 +12802,7 @@ Honestly, it's just a matter of time until it falls apart.
 **Kama:**
 Did you actually think you could win just by setting things back to how they were five minutes ago? What a joke. That's the most idiotic thing I've ever&ndash;
  
-**? ? ? :**
+**???:**
  
 ...(Cough) Then allow me to provide them with another trusty blade. 
  
@@ -13199,7 +13199,7 @@ By remaking this historical garden of love into a trap meant to lure people into
 **Kama:**
 I am Beast III/Lapse. I am the Demon King of Decadence and Depravity. Now, feel my infinite love! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Kama:**
 What's going on? I'm the embodiment of infinite love. My numbers are literally endless. And yet...
@@ -13374,7 +13374,7 @@ There is one kind of love inside me I know for certain to be stronger, purer, an
 The love I feel for my wonderful husband! 
  
 **Pārvatī:**
-Trishula Shakti! ! ! 
+Trishula Shakti!!! 
  
 **Sion:**
 It is over. In addition to Pārvatī's Noble Phantasm, Kama is already&ndash;
@@ -13383,7 +13383,7 @@ It is over. In addition to Pārvatī's Noble Phantasm, Kama is already&ndash;
 Indeed, she is no longer a false Tokugawa either. She is now but a mere creature, and I have already cut her down. 
  
 **Kama:**
-Aaah! Aaaaaah! It hurts, it hurts, it hurts! ! ! It's as bad as when Shiva incinerated me! 
+Aaah! Aaaaaah! It hurts, it hurts, it hurts!!! It's as bad as when Shiva incinerated me! 
  
 **Kama:**
 How!? How could I lose to a bunch of garbage wastes of space like these humans!? 
@@ -13853,7 +13853,7 @@ Oh, and please do not forget to bring our, uh, “Lord” snoozing away over the
 **Sion:**
 I have to say, part of me is going to miss that topknot of his! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Boudica:**
 Hm hm hmm hm hmm♪
@@ -14089,13 +14089,13 @@ Don't blame me. Blame the law of conservation of energy.
 **Goredolf:**
 Grrr...Dammit all! This is exactly why I hate Rayshifts! 
  
-**? ? ? :**
+**???:**
 My, my, this is a surprise. 
  
-**? ? ? :**
+**???:**
 When I plucked out the pretty meteor I saw drifting off into space before it could burn up in a nearby star...
  
-**? ? ? :**
+**???:**
 ...I never expected it to actually be you. 
  
 **Kama:**
@@ -14107,19 +14107,19 @@ What's going on? What the hell are you doing here?
 **Kama:**
 This is my own inner universe. No one else should exist here unless I invite them in. 
  
-**? ? ? :**
+**???:**
 Oh my. Even in your own mind, you still subject yourself to the experience of burning alive in the sun. Color me impressed. 
  
-**? ? ? :**
+**???:**
 I am certainly no stranger to tormenting myself as I train, but even I would not go that far. 
  
-**? ? ? :**
+**???:**
 I suppose that is something only one with boundless love for humanity and no love for herself could do. 
  
-**? ? ? :**
+**???:**
 So you willingly incinerate yourself when you deem your purpose fulfilled? You remind me of a rabbit volunteering itself as food for a starving Buddha. 
  
-**? ? ? :**
+**???:**
 How could I possibly turn my back on you now that I have seen how pure and sordid your heart truly is? 
  
 **Kama:**
@@ -14149,22 +14149,22 @@ You gain nothing by messing with me now.
 **Kama:**
 Unless...you're here to absorb me as the yin to your yang, and become a more fully realized Beast III or something? 
  
-**? ? ? :**
+**???:**
 Don't be silly. You and I could never merge into a single being. 
  
-**? ? ? :**
+**???:**
 Your existence is one of giving, mine is one of taking. 
  
-**? ? ? :**
+**???:**
 You are a hell of infinite women,and I am a hell of a single, boundless woman. 
  
-**? ? ? :**
+**???:**
 We may both be Beasts born of pleasure, but in all other respects, we could not be more different. 
  
-**? ? ? :**
+**???:**
 You and I are not right and left halves of the same whole, taking up hands in service of a common goal. We're diametrically opposed enemies who can scarcely stand to look at one another. 
  
-**? ? ? :**
+**???:**
 I could never eat such a being. You would taste awful, and no doubt give me a terrible stomachache. 
  
 **Kama:**
@@ -14176,22 +14176,22 @@ I could never eat such a being. You would taste awful, and no doubt give me a te
 **Kama:**
 You just said you don't have any interest in devouring me, right? 
  
-**? ? ? :**
+**???:**
 Oh, my. What have I done to deserve such a hateful glare? I suppose I had better make this quick. 
  
-**? ? ? :**
+**???:**
 Hehe, this won't take a second. 
  
 **Kama:**
 What the...!? What'd you just do to me!? 
  
-**? ? ? :**
+**???:**
 Oh come now. You're really going to make me say it, when you already know just as well as I do? You are a nasty one, aren't you? 
  
-**? ? ? :**
+**???:**
 But, I suppose neither of us can be surprised by your truly horrid personality at this point, hm? 
  
-**? ? ? :**
+**???:**
 At any rate, surely you don't want to remain misunderstood forever, do you? Don't you want a chance to redeem yourself? 
  
 **Kama:**
@@ -14203,16 +14203,16 @@ What the...Oh gods, this is gross...What is this nauseating smell? It's like raw
 **Kama:**
 Is this the kind of air you deal with all the time? How the hell do you stand it!? This is literally sickening! 
  
-**? ? ? :**
+**???:**
 Once you become accustomed to it, even pain can become pleasure. 
  
-**? ? ? :**
+**???:**
 Though of course, I doubt anyone as awkward as you will manage to...
  
-**? ? ? :**
+**???:**
 Regardless, you and I both well know that the wicked must pay for their misdeeds in the next life. That is karma. 
  
-**? ? ? :**
+**???:**
 So when your connection to {(M) him /(F) her} bears fruit...I expect you to work like a dog without complaint. Understand? 
  
 **Kama:**
@@ -14221,13 +14221,13 @@ Tch...So this is one last bit of salt in the wounds, huh? Fine, whatever.
 **Kama:**
 But I still have no idea where you're going with this. 
  
-**? ? ? :**
+**???:**
 Consider it a punishment of sorts. 
  
-**? ? ? :**
+**???:**
 I don't mind what you did to me, but you still caused quite a lot of trouble for everyone else. 
  
-**? ? ? :**
+**???:**
 It's only fair that you work off your karmic debt, so to speak. 
  
 **Kama:**
@@ -14239,34 +14239,34 @@ Can't you just come out and say you're going to make me do good deeds because yo
 **Kama:**
 Ugh. It must be rough being as old as you are and having to choose all your words carefully because you're worried what people will think. 
  
-**? ? ? :**
+**???:**
 ...Oh my. Hehe. Hehehehehehe. 
  
 **A：Kama:**
 Ah! Wait! I take it back! You and I are about the same age, both in mind and in body! 
  
-**? ? ? :**
+**???:**
 At any rate, you have a connection to {(M) him /(F) her} now. 
  
-**? ? ? :**
+**???:**
 After all, you will love anyone,so long as they're human, yes? 
  
-**? ? ? :**
+**???:**
 Then it should be easy for you to love {(M) him /(F) her}, right? 
  
 **Kama:**
 ...Ouch. I'll admit, you've got me there. I can't argue with that. 
  
-**? ? ? :**
+**???:**
 Right? 
  
-**? ? ? :**
+**???:**
 I still hold to shujou-muhen-seigando, the vow to save all living things, and butsudou-mujou-seiganjou, the vow to seek enlightenment...
  
-**? ? ? :**
+**???:**
 Yes, you are a god of love who became a Beast, but I still want to save you if I can. 
  
-**? ? ? :**
+**???:**
 Of course, you may very well not even remember this conversation...or that you are a Beast yourself, or anything at all to do with Beasts. 
  
 **Kama:**
@@ -14299,10 +14299,10 @@ The very idea of it makes me sick...but, if I think of it as a sanctioned opport
 **Kama:**
 I can just imagine her reaction if she saw me seducing someone with her face...Hehehe...
  
-**? ? ? :**
+**???:**
 Hehe. I'm glad to see you finding joy in an otherwise completely hellish proposition. 
  
-**? ? ? :**
+**???:**
 ...All right, I think I'll be on my way. Goodbye, giver of infinite love...bane of my existence. 
  
 **Kama:**

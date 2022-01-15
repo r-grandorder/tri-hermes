@@ -91,7 +91,7 @@ Then, after another battle in the Scandinavian Lostbelt, they arrived at the Wan
 Now, they have gained a new ally in Sion Eltnam, an alchemist from the Atlas Institute left in charge of the Wandering Sea...
 ...and are setting out on the next step of their quest to defeat the Crypters, and the Foreign God...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **B：Sion:**
 So, how was that recap? Did I do a good job jogging your memory!? 
@@ -1441,7 +1441,7 @@ We'll begin with the immediate vicinity, so just head in the direction we tell y
 **Da Vinci:**
 You might run into a wild animal or two along the way, but I'm sure you guys will be able to handle them just fine! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We did end up running into some wild animals,but you all handled them, no problem! 
@@ -1509,7 +1509,7 @@ So don't worry about us, Master. All you need to worry about is telling us what 
 **Rama:**
 Now then, it looks like we have more hungry beasts to deal with. Let's take care of them quickly so we can continue investigating our surroundings! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 So hey, what do you make of the area so far? 
@@ -1554,7 +1554,7 @@ I just picked up what appears to be one such town in the direction you're headed
 **Holmes:**
 Be sure to approach it with the utmost caution. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 Close your eyes. Clasp your hands. 
@@ -1885,7 +1885,7 @@ Right. My Ortinax is holding steady at better than expected readings. I'm good t
 **Mash:**
 Armored Shielder, moving out! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nezha:**
 There are. More than. I expected. This could. Be troublesome. 
@@ -1980,7 +1980,7 @@ We'll just have to follow Karna's lead and put everything we have into fighting 
 **Mash:**
 We can't let harm come to anyone else! Please give us your orders, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **A：Mash:**
 (Huff...Huff...)
@@ -2075,7 +2075,7 @@ Fou...
 **Ajai:**
 God...Is there any value in a dog that can't run...? 
  
-**? ? ? :**
+**???:**
  
 Wh-what happened!? The kali are dead...? AND the sacred beasts!? 
  
@@ -2175,7 +2175,7 @@ Let's go look for somewhere outside of town to set up camp...
 **Asha:**
 Poor travelers...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Goredolf:**
 Well this is a fine “how do you do? ”
@@ -2519,7 +2519,7 @@ Why, our god passes judgment and everyone dies, of course.
 **Asha:**
 But then, if our god decides you're worthy, he brings you back to life, and the first happy yuga starts all over again. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fou:**
 (Munch, munch...) Banafou fo fou! 
@@ -3079,7 +3079,7 @@ Besides, it seems we have our own things to worry about.
 **Da Vinci:**
 Yeah, figures there'd be a monster or two hanging around the mountain where that god lives. Think you guys could take these things out quickly so you can get back to looking for them, please? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Holmes:**
 Have you disposed of all the hostiles then? 
@@ -3179,7 +3179,7 @@ Oh my, you're SO much more expressive now than you were the last time I saw you.
 **Peperoncino:**
 Well I think that's just peachy♡
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 The moment I saw that thing soaring across the sky...
@@ -3356,7 +3356,7 @@ Here she comes, Master and Mash! I know how you feel right now, but you need to 
 **B：Mash:**
 ...R-right! Disengaging Ortinax limiters. Preparing for full-powered Anti-Servant combat! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Sh-she's strong...! 
@@ -3496,7 +3496,7 @@ Fou!
 **Mash:**
 Yes, Master. I promise to give this search my full effort! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rama:**
 All that aside. All that aside...
@@ -3510,22 +3510,22 @@ I've actually worked up a sweat from walking around so much. I think I'll take a
 **Rama:**
 Aha, this rock should make a fine seat. There we go...
  
-**? ? ? :**
+**???:**
 DAAAAAAHHH! 
  
 **Rama:**
 Wh-what in the world was that? It sounded like a pig squealing for its life. 
  
-**? ? ? :**
+**???:**
 I-I can't take it anymore! Fuhee! A beautiful boy's beautiful body, coming in direct contact with me! 
  
-**? ? ? :**
+**???:**
 Uh, I mean, never mind that. Ahem, testing, testing...
  
-**? ? ? :**
+**???:**
 “How dare you, humans...mans...mans...Bow your heads before me...me...me...You are in the presence of a god...od...od...”
  
-**? ? ? :**
+**???:**
 “Leave here at once if you value your lives...ives...ives...Do that, and I promise your family will live in health, and your business will prosper...er...er...er...! ”
  
 **Rama:**
@@ -3534,15 +3534,15 @@ What the!? Did the rock just talk!?
 **Fou:**
 Fou! Fo fo fo fou! (Special Translation: All right! Kill it with fire! )
  
-**? ? ? :**
+**???:**
 “What was that? What a cheeky little animal you are, daring to challenge a god...Fuheehee, yes, I can understand you. Know why? 'Cause I'm a god! ”
  
-**? ? ? :**
+**???:**
 “Very well then, if it's a fight you want, it's a fight you shall have...ave...ave...ave! Now leave all your money behind as an offering...ing...ing...ing...! ”
  
-**--BATTLE--:**
+**--BATTLE--**
  
-**? ? ? :**
+**???:**
 “Worship me...Praise me...Spoil me...Run to the convenience store and get me more ice cream so I can concentrate on grinding...”
  
 **Rama:**
@@ -3554,7 +3554,7 @@ Fou! Fo fo fo fou! (Special Translation: All right! Kill it with fire! )
 **Karna:**
 Don't move, Rama. This won't take long. 
  
-**? ? ? :**
+**???:**
 Huh? Wha? Waaaaaah!? 
  
 **D：? ? ? :**
@@ -3578,9 +3578,9 @@ I was just about to ask you that. What are you doing here, ■■■■■■?
 **Fou:**
 Fou...Foooooou!? 
  
-**--ARROW--:**
+**--ARROW--**
  
-**? ? ? :**
+**???:**
 ...Karna? What're you doing here? 
  
 **Karna:**
@@ -3591,7 +3591,7 @@ I was just about to ask you that. What are you doing here, ■■■■■■?
 **Fujimaru 1:**
 There was a woman in there!? 
  
-**? ? ? :**
+**???:**
 Hey, there's no one in here! Pay no attention to the gal behind the curtain! 
  
 
@@ -3628,31 +3628,31 @@ And like I've just encountered my big sister...And like I've just encountered my
 **Karna:**
 And like I've just encountered someone who needs to be cared for and tended to, all at once...I'm afraid I don't know how else to put it. 
  
-**? ? ? :**
+**???:**
 ...
  
-**? ? ? :**
+**???:**
 (Ahh, so that's what's going on. I guess that makes sense, since Karna's not a god...)
  
-**? ? ? :**
+**???:**
 (So he just vaguely remembers his former Masters from other worlds. )
  
-**? ? ? :**
+**???:**
 (...Oh well, can't help that now! 'Sides, nobody has to know as long as I keep my mouth shut! )
  
-**? ? ? :**
+**???:**
 Hmm, hmm. So you feel like we're friends even though we've never met before, hm? What do you know, that's more or less how I feel too. 
  
-**? ? ? :**
+**???:**
 I get the feeling a lot of stuff's happened,but I can't seem to remember any of it clearly. 
  
-**? ? ? :**
+**???:**
 Hey, doesn't this remind you of one of those RPGs where the protag's got amnesia and a tortured past? 
  
-**? ? ? :**
+**???:**
 I wonder when we'll get to the cutscene where I awaken to my hidden power! Not that waking up is really all that high on my to-do list, really...
  
-**? ? ? :**
+**???:**
 Personally, I prefer to hang out in the starter village and wait for someone else to defeat the final boss. 
  
 **Mash:**
@@ -3661,16 +3661,16 @@ I see you're, um...a very unique person.
 **Karna:**
 Wait. There is one thing I know for sure; you're human. But then, how are you cloaked in that divine aura? 
  
-**? ? ? :**
+**???:**
 Oh, that! Sorry Karna, but you got it all wrong! 
  
-**? ? ? :**
+**???:**
 I guess not even your vaunted sight managed to see all the way to the truth of the matter this time! 
  
-**? ? ? :**
+**???:**
 Meh heh heh. Me, human? Perish the thought. 
  
-**? ? ? :**
+**???:**
 I'll have you know I'm one of the best-known and most popular gods in the whole world! Just call me...Ganesha! 
  
 ---
@@ -3880,7 +3880,7 @@ I'll help Karna try to get her outside as peacefully as possible!
 **Ganesha:**
 Fuhaha, you fools! Our earlier battle was just a demo! Now, witness Ganesha's full power! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ganesha:**
 Nooo! My paradise suit...
@@ -4368,7 +4368,7 @@ It may be colder and dry today, but that also means we won't have to worry about
 **Mash:**
 Mash “Always Look on the Bright Side” Kyrielight, heading out! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ganesha:**
 Hmm, I guess I am a little heavier today than I was yesterday. Though it might just be that I ate too much breakfast. 
@@ -4709,7 +4709,7 @@ Both the Ortinax's hardware and software are working fine. For this fight, I'll 
 **Mash:**
 We're up against a lot of enemies, Master,but let's do our best to push them back! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ganesha:**
 Guuuh, there's so many of them! This is exhausting! Can I take a break now? 
@@ -4735,7 +4735,7 @@ Right. The Ortinax's output is holding steady, even after prolonged operation. I
 **Mash:**
 All right, here comes the next wave of enemies, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ganesha:**
 (Huff...huff...) That's the last of&ndash;
@@ -4818,10 +4818,10 @@ That's...
 **Da Vinci:**
 It's not the other Nezha...It's a new Servant we haven't seen before. Be careful, guys! 
  
-**? ? ? :**
+**???:**
 The hell!? I knew I sensed an unfamiliar divine aura around here, but I sure as hell wasn't expecting this! 
  
-**? ? ? :**
+**???:**
 What is this bullshit? This is pissing me the hell off...What do you think you're doing here, Karna!? 
  
 **Karna:**
@@ -4977,7 +4977,7 @@ So even though I haven't fought you since we last crossed swords while training 
 **Aśvatthāman:**
 I feel no nostalgia. No joy. The only thing I have, the only thing I feel&ndash;the only thing I AM now...is rage! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...! 
@@ -5021,7 +5021,7 @@ I concur. There's no point to your game, or in us being here. I swear, I don't e
 ---
 
 **Fujimaru 1:**
-...! ! ! 
+...!!! 
 
 ---
 
@@ -5311,7 +5311,7 @@ Permission granted! Now let him have it!
 
  
 **Rama:**
-Brahmastra! ! ! 
+Brahmastra!!! 
  
 **Ganesha:**
 Uh, Rama? I think your NP might be bugging out,'cause it looked like it didn't work on him at all! 
@@ -5383,7 +5383,7 @@ Trust me, he outclasses you guys in every way. After all...
 **Peperoncino:**
 ...he's every Indian god rolled into one single superbeing! 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -5585,7 +5585,7 @@ If nothing else, I can understand him a lot better than the being way up there. 
 **Karna:**
 Awaiting your orders, Master. Let's make our way through! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Aśvatthāman:**
 Rrrgh! Stand still, dammit! 
@@ -5609,7 +5609,7 @@ Oh for...! He's obviously lying, but we'll just have to leave it at that for the
 There're no life-forms nearby, and you're a good distance away from the town now, so don't worry about holding back! 
  
 **G：Karna:**
-Vasavi Shakti! ! ! 
+Vasavi Shakti!!! 
  
 **Mash:**
 It's a direct hit! That should do&ndash;
@@ -5877,7 +5877,7 @@ Fou, fooou!
 **Peperoncino:**
 (...Will we make it in time...? )
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -6183,7 +6183,7 @@ Kavacha and Kundara!
 Golden armor...
  
 **Karna:**
-...! ! ! 
+...!!! 
  
 **Rama:**
 He activated his defensive Noble Phantasm...! But, even with its protection...! 
@@ -7213,7 +7213,7 @@ Huh?
 **Asha:**
 Who's Vihan? 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -7632,7 +7632,7 @@ Still, I don't know if it's the sunshine or what, but my body feels lighter now.
 **Ganesha:**
 Y-yeah! I'll show you guys how well I can hold my own in a fight! O-or at least, I hope I'll be able to...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Peperoncino:**
 Okay, now that we've gone over how things generally work in this Lostbelt...
@@ -7814,16 +7814,16 @@ You could have just turned them down from the start.
 **Goredolf:**
 H-huh...? 
  
-**? ? ? :**
+**???:**
 ...Circumstantial change confirmed. 
  
-**? ? ? :**
+**???:**
 I have a proposal for you chosen ones. An offer for those of you who were cast aside. 
  
-**? ? ? :**
+**???:**
 If you desire acclamation, then choose rebirth. If you desire indolence, then choose eternal sleep. 
  
-**? ? ? :**
+**???:**
 It makes no difference to a god. 
  
 **Peperoncino:**
@@ -8095,7 +8095,7 @@ Don't worry about that! I hate going at a forced march. If I have to go hiking, 
 **Ganesha:**
 As long as I'm around, I won't be letting anyone push themselves too hard. Not even if they want to! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Ganesha:**
 (Zzz)
@@ -8240,7 +8240,7 @@ Khh...Aaah!
 **Man A:**
 Damn sacred beasts! Of all the luck,running into a huge pack of them like this! 
  
-**? ? ? :**
+**???:**
 It seems luck was not on our side today. I was hoping we could pass them by without incident, but oh well. 
  
 **Man A:**
@@ -8249,47 +8249,47 @@ It seems luck was not on our side today. I was hoping we could pass them by with
 **Man B:**
 I-I'm so sorry. I was so close to them that I ended up drawing my bow in fear! 
  
-**? ? ? :**
+**???:**
 Don't worry about it. The blame is partly mine, for forgetting how it feels to hold a weapon for the first time. 
  
-**? ? ? :**
+**???:**
 I'll need to reevaluate both the technical and mental aspects of our training program...
  
-**? ? ? :**
+**???:**
 At any rate, the rest of you hurry back to the village. I'll hold them off here. 
  
 **Woman:**
 B-but...!? 
  
-**? ? ? :**
+**???:**
 No buts. We can't risk leading them towards the village. 
  
-**? ? ? :**
+**???:**
 Besides, the more commotion we make, the more likely we are to be captured by the Lōkapāla we've been hearing rumors about. 
  
-**? ? ? :**
+**???:**
 The Lōkapāla are said to serve god directly, and have incredible power in their own right. The moment they find us, it's over. We can't let that happen. 
  
-**? ? ? :**
+**???:**
 I could manage on my own if it came to that, but if you or the village caught their eye, it would be disastrous. 
  
-**? ? ? :**
+**???:**
 So I want you all to head back to Dival ahead of me. And don't forget the supplies we collected. 
  
 **Man:**
 But you can't possibly handle them all on your own! 
  
-**? ? ? :**
+**???:**
 Don't worry. My plan isn't to defeat them all. I'll just be buying us time...and I am well accustomed to trials of endurance. 
  
-**? ? ? :**
+**???:**
 Besides, I already told you. 
  
-**? ? ? :**
+**???:**
 I am not human. I am something else...something with the power of a thousand ordinary people. 
  
-**? ? ? :**
-A shadow of humanity who manifested in this land by the grace of the rightful gods! ! ! 
+**???:**
+A shadow of humanity who manifested in this land by the grace of the rightful gods!!! 
  
 **Da Vinci:**
 I know this isn't the first time we've had to stay behind, but man, it sucks not being able to actually drive around in our vehicle. What's the point of even having it then? 
@@ -8435,7 +8435,7 @@ And since we're Servants, we could probably just jump over the wall if we have t
 **Ganesha:**
 Of course, just 'cause we can doesn't mean we&ndash;
  
-**? ? ? :**
+**???:**
 You there! What are you doing here!? 
  
 **Fou:**
@@ -8465,10 +8465,10 @@ I hate getting chewed out by strangers. It's like a hundred times worse than whe
 **Ganesha:**
 What I'm trying to say is, this lady looks really pissed off at us, so maybe do something about that? 
  
-**? ? ? :**
+**???:**
 That divine aura...Curses. Despite my best efforts,it looks like you finally found us. 
  
-**? ? ? :**
+**???:**
 You must be the ones who serve the false god...The Lōkapāla! 
  
 ---
@@ -8482,31 +8482,31 @@ Huh!? I-I think you've got the wrong idea!
 **Rama:**
 Whoa, whoa, slow down. Us, the Lōkapāla? You must be joking. 
  
-**? ? ? :**
+**???:**
 Don't lie to me. It can't be a coincidence that you've shown up now. 
  
-**? ? ? :**
+**???:**
 Besides...I heard you planning to invade our village by jumping over these walls! 
  
 **Ganesha:**
 I have no idea what you're talking about, but I'm sure this is just a misunderstanding! I only mentioned jumping the wall to rule it out as a bad ide&ndash;
  
-**? ? ? :**
+**???:**
 So, you continue to lie to me. 
  
-**? ? ? :**
+**???:**
 Very well. If you have finally learned of my existence, and the existence of this village that seeks to end the false god's cycle, then so be it. 
  
-**? ? ? :**
+**???:**
 I will run and hide no longer. If the time has come to fight, then I shall rise to the challenge. 
  
-**? ? ? :**
+**???:**
 Prepare yourselves, Lōkapāla. You will not be taking anything from me this day. 
  
-**? ? ? :**
+**???:**
 Even if I must face a god...this time,I will make sure to defend my home to the very end! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Limbo:**
 Mmm...
@@ -8538,7 +8538,7 @@ Please, listen to us! The Lōkapāla are our enemy as well.
 **Mash:**
 We only came here in the hope of finding allies who could help us fight against them! 
  
-**? ? ? :**
+**???:**
 Talk is cheap. I've lost track of how many times someone claiming to be my friend betrayed me. 
  
 **Voice Beyond The Wall:**
@@ -8553,7 +8553,7 @@ Then those ARE Lōkapāla! Dammit, they finally found our village...!
 **Voice Beyond The Wall:**
 Please, my lady, help us! The Lōkapāla showed up right after we got back to the village. We've been barring the gate and holding out until you arrived! 
  
-**? ? ? :**
+**???:**
 There, you see? I knew you couldn't be trusted! 
  
 **Goredolf:**
@@ -8605,10 +8605,10 @@ I can't seem to get through to her no matter what I say...
 **Fou:**
 Fou...
  
-**? ? ? :**
+**???:**
 Well? Aren't you going to try to scale these walls? You'll need to do better than&ndash;
  
-**? ? ? :**
+**???:**
 ...? Is that...!? 
  
 ---
@@ -8624,7 +8624,7 @@ Why'd she jump back onto the wall?
 ---
 
  
-**? ? ? :**
+**???:**
 ...
  
 **Mash:**
@@ -8653,19 +8653,19 @@ Those were going in a different direction, and I'm pretty sure they didn't notic
 **Peperoncino:**
 Maybe there's something here that lured them this way? 
  
-**? ? ? :**
+**???:**
 A different group from the sacred beasts we encountered earlier? Of all the times for them to show up...
  
-**? ? ? :**
+**???:**
 No, this is no coincidence. It only makes sense that the Lōkapāla would have the means to control them. 
  
-**? ? ? :**
+**???:**
 They must be trying to make their way into our village and “cleanse” it. Especially since one of our elderly died this morning. 
  
 **Mash:**
 ...? 
  
-**? ? ? :**
+**???:**
 Begone, foul agents of the false god! You will not be claiming our dead today! 
  
 **Peperoncino:**
@@ -8689,13 +8689,13 @@ No, um...It looked to me like she just...sort of...lost her footing.
 **Ganesha:**
 Now she's wriggling around where she fell...It looks like her feet're stuck in some hole in the ground. 
  
-**? ? ? :**
+**???:**
 Curses. I can't believe I fell right into one of the pitfalls we dug to prepare for the next kali attack...! 
  
-**? ? ? :**
+**???:**
 ...
  
-**? ? ? :**
+**???:**
 Give me a moment. I'll be out of here in no time. 
  
 **Ganesha:**
@@ -8715,36 +8715,36 @@ You know it! Get 'em, guys!
 **Fou:**
 Fooou! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 All hostiles in our vicinity, eliminated. Well done, everyone. 
  
-**? ? ? :**
+**???:**
 ...
  
 **Rama:**
 Well? Now do you understand we aren't your enemy? 
  
-**? ? ? :**
+**???:**
 ...Yes, I do. I'm not so foolish as to insist otherwise at this point. I see now that I was gravely mistaken. 
  
-**? ? ? :**
+**???:**
 No one who would fight against the sacred beasts could possibly be allies of the false god. 
  
-**? ? ? :**
+**???:**
 I am truly, sincerely sorry,and I thank you for your assistance. 
  
-**? ? ? :**
+**???:**
 Please, tell me why you have come here. No, on second thought, it's only right that I tell you about myself first. 
  
 **Rama:**
 Yes, you have a point. All right then, let me first ask you this: Are you a Divine Spirit? 
  
-**? ? ? :**
+**???:**
 Yes and no. I am a Servant, but right now, a goddess resides within my body, sharing her power with me. 
  
-**? ? ? :**
+**???:**
 When I was first summoned to this land,she was already there inside me. 
  
 **Da Vinci:**
@@ -8756,13 +8756,13 @@ And since Heroic Spirit Servants are technically people from the past, I guess i
 **Da Vinci:**
 Though I definitely haven't heard of many cases where it happened quite like this. 
  
-**? ? ? :**
+**???:**
 I expect it's because this god and I happen to share the same name. 
  
-**? ? ? :**
+**???:**
 I believe having words, sounds, and names match is very significant when it comes to magecraft. 
  
-**? ? ? :**
+**???:**
 Then again, I was originally given this name in the hope of receiving her blessing, so perhaps it isn't much of a coincidence after all...
  
 **Da Vinci:**
@@ -8776,19 +8776,19 @@ So what is that god's name?
 ---
 
  
-**? ? ? :**
+**???:**
 ...
  
-**? ? ? :**
+**???:**
 ...Lakshmi. 
  
-**? ? ? :**
+**???:**
 And I am the Rani of Jhansi, a land which once existed in India, who was named for her...
  
-**? ? ? :**
+**???:**
 My name is Lakshmi Bai. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fou:**
 Fou fooou? 
@@ -9408,7 +9408,7 @@ We're getting out of here! Now!
 **Mash:**
 Understood! We'll break through the kali behind us and make a run for it! Awaiting your orders, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ganesha:**
 (Huff, huff) Okay, I think that's enough distance between us and them. 
@@ -9541,7 +9541,7 @@ I swore I would exact revenge on them by any means necessary.
 So I chose to sneak in under the cover of night and murder all of my enemies in their sleep. 
  
 **Narration:**
-You think that cowardly? Criminal? An affront to all that is good and just? I don't care. I don't care! I don't care! ! ! 
+You think that cowardly? Criminal? An affront to all that is good and just? I don't care. I don't care! I don't care!!! 
  
 **Narration:**
 I was so angry I didn't care about anything else. I think that's when I threw away everything in me besides fury. 
@@ -9561,16 +9561,16 @@ Everything he sees, and doesn't see, makes him angry. But the things that anger 
 **Narration:**
 He is always angry. Always. 
  
-**? ? ? :**
+**???:**
 There we go. That takes care of the lost, out-of-season kali. Guess you can't even go through the Kṛta Yuga without running into at least one. 
  
-**? ? ? :**
+**???:**
 You know, there were always some dumb beasts up in the mountains who'd forget to hibernate for the winter, too. 
  
-**? ? ? :**
+**???:**
 I'd always hunt 'em whenever I happened to see one. There's no telling what sort of trouble a dumb beast could get up to. 
  
-**? ? ? :**
+**???:**
 Clearing away otherwise unfair or impossible obstacles is just part of the job. 
  
 **Child:**
@@ -9579,13 +9579,13 @@ Th-thank you for saving me, god!
 **Child:**
 It showed up so suddenly, and I haven't been praying since it's still Kṛta Yuga...
  
-**? ? ? :**
+**???:**
 Ah, don't worry about it. And I'm not a god. Just a hired hand. 
  
 **Child:**
 ...? 
  
-**? ? ? :**
+**???:**
 Oh, sorry, you don't have to worry about that, either. Anyway, you did great holding it together. I'm proud of you. 
  
 **Child:**
@@ -9597,7 +9597,7 @@ Are you a god too!?
 **Nezha:**
 Admonishment: You are late for the meeting. I had no choice but to come get you. 
  
-**? ? ? :**
+**???:**
 Whoops, is it that time already? Sorry 'bout that. Well, see you later, son. 
  
 **Child:**
@@ -9606,55 +9606,55 @@ Oh, uh, bye! Thank you again!
 **Nezha:**
 ...Do you like kids? 
  
-**? ? ? :**
+**???:**
 ...Who can say? 
  
-**? ? ? :**
+**???:**
 Hey, sorry I'm late. 
  
 **Nezha:**
 I cannot believe you made me carry you with my Wind Fire Wheels. 
  
-**? ? ? :**
+**???:**
 Hehe, well I had a great time. Thanks for the thrill ride. 
  
-**? ? ? :**
+**???:**
 'Course, a lot of those thrills were more chills at the idea of showing up here late. 
  
-**? ? ? :**
+**???:**
 I'm just a regular guy. I'm not nearly important enough to keep a mythological hero waiting, let alone a god. 
  
 **Nezha:**
 Advice: There is no point saying what you do not mean. Besides, you're something of a mythological hero yourself now. 
  
-**? ? ? :**
+**???:**
 Anyway, I hate to steal the spotlight after showing up late to the party, but I got something to discuss. 
  
-**? ? ? :**
+**???:**
 Hmm. I was hoping Aśvatthāman could help with this,but I guess he's not here? 
  
 **Nezha:**
 Answer: I cannot predict his actions. Our Master allows him to act freely. Thus, I have no intention of picking him up. 
  
-**? ? ? :**
+**???:**
 Guess I'll just have to talk to you guys about this then, if that's all right with you. 
  
-**? ? ? :**
+**???:**
 Anyway, I just noticed a little while ago that there's fewer sacred beasts in my area than there's supposed to be. 
  
 **Nezha:**
 Query: You think it is them? 
  
-**? ? ? :**
+**???:**
 Probably. I'm guessing they have a way of surviving the big guy's Noble Phantasm. 
  
-**? ? ? :**
+**???:**
 Don't you find it interesting,seeing how you overcame death yourself? 
  
-**? ? ? :**
+**???:**
 What? Don't be ridiculous. That's just reconstruction. It has nothing to do with the concept of death. I couldn't care less about it. 
  
-**? ? ? :**
+**???:**
 So no, I don't find it interesting. Besides, I'm sure that guy there already knew. He just didn't say anything. 
  
 **Limbo:**
@@ -9684,16 +9684,16 @@ Indeed, as Lōkapāla whom he personally embedded with Divinities...
 **Limbo:**
 Now then, what do you plan to do about this? 
  
-**? ? ? :**
+**???:**
 Well, I'd just been planning to point Aśvatthāman in that direction and let him go nuts. 
  
-**? ? ? :**
+**???:**
 But if he's not here, he must be off on another job. 
  
 **Limbo:**
 Yes, that he is. I believe he's dealing with a little...unfinished business on our end...
  
-**? ? ? :**
+**???:**
 Hmm. Guess that means we'll just have to take care of this ourselves then. 
  
 **Nezha:**
@@ -9702,16 +9702,16 @@ Proposal: I will go.
 **Nezha:**
 Not only do I have time to address the issue,but I also let them escape once. I will finish this. 
  
-**? ? ? :**
+**???:**
 Want some help? 
  
 **Nezha:**
 No need. 
  
-**? ? ? :**
+**???:**
 Great. Less work for me. 
  
-**? ? ? :**
+**???:**
 Just to be perfectly clear, I'm not going either. I've got plenty keeping me busy. 
  
 **Nezha:**
@@ -10014,7 +10014,7 @@ It's a word I came up with! It means my unusual willingness to try, my usual hop
 **Ganesha:**
 It's basically all sorts of feelings rolled up into one big old mess, okay!? Get with it! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Goredolf:**
 How can she have so many Noble Phantasms!? What's going on here!? 
@@ -10101,7 +10101,7 @@ Oh cripes, another OP item!? No fair! She's decked out in legendary gear, and I'
 **Peperoncino:**
 (...but it's so sad, I can barely stand to watch...)
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 You've noticed too, haven't you, Master? That fight was clearly...
@@ -10350,7 +10350,7 @@ The old man handles everything from the north to the southwest...
 **Nezha:**
 The old man is William Tell, an Archer,and the young man is Asclepius, a Caster. 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -11010,7 +11010,7 @@ I'm warning you now, hydra; the same thing's gonna happen to you if you eat me.
 **Ganesha:**
 Oh, by the way, I'm a vegetarian now, so if you wanna make me an offering, some potato (chips) would hit the spot! 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -11537,7 +11537,7 @@ Every last evil defect will disappear,and the world will finally be perfect.
 **Narration:**
 It can't get here soon enough...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Holmes:**
 I'm picking up a life-form nearby...a human. There's still some distance to your destination, so they may be a traveler. 
@@ -12029,7 +12029,7 @@ Even idiots like you know about autopsies, yes? The dead can still be valuable i
 **Asclepius:**
 You're all probably going to die here now that you're up against me...but don't you feel better knowing your deaths will be useful? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Man:**
 I don't know how we can thank you! As if curing our disease wasn't enough, you even tended our fields for us...
@@ -12040,22 +12040,22 @@ Are you a new Lōkapāla!? You must be, to show us this much kindness!
 **Man:**
 Please, stay with us. The whole town would be thrilled to have you! 
  
-**? ? ? :**
+**???:**
 ...Tch. 
  
 **Man:**
 Hm? 
  
-**? ? ? :**
+**???:**
 ...Sorry. My throat's been acting up a bit. Pay it no mind. 
  
-**? ? ? :**
+**???:**
 I just stopped by to check on things. This isn't the fundamental solution this Lost&ndash;this world needs. 
  
-**? ? ? :**
+**???:**
 It's the ones who will show up after me who are bound to end you. 
  
-**? ? ? :**
+**???:**
 They're from an organization called Chaldea, just as I am. Make sure to welcome them when they get here. It'll speed things up. 
  
 **Man:**
@@ -12067,22 +12067,22 @@ Please, won't you stay with us for just a little while? We would be honored...de
 **Woman:**
 Yes, exactly. Please, right this way. Everyone's dying to hear more about you! 
  
-**? ? ? :**
+**???:**
 (They really mean it. These people can't have much to spare, yet they still want to reward an outsider...)
  
-**? ? ? :**
+**???:**
 (...Never mind that. Why do they like me at all? This sort of thing would never have happened before. )
  
-**? ? ? :**
+**???:**
 (I'm not doing anything different than I was before. I'm still operating under the exact same principles I always have. So why am I seeing such a different reaction now...? )
  
-**? ? ? :**
+**???:**
 (Is it only because of what I look like? Do people really care about appearances that much? )
  
-**? ? ? :**
+**???:**
 (Oh well. If that's is true,it suits my needs perfectly. )
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 They just keep coming, no matter how many we take down...Wait. What's that!? 
@@ -12311,7 +12311,7 @@ Let's find our chance and get out of here!
 **Mash:**
 Yes, Master! We can't let our mission end here...Awaiting your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Narration:**
 I blink out of sheer boredom. 
@@ -12349,7 +12349,7 @@ As I grow bored of even that, I open my eyes. And once the darkness fades away..
 **Narration:**
 God has no need of dreams. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Mash:**
 ...Ortinax output...it's dropping...systems overloading...Wait...please...I'm not...done for ye&ndash;
@@ -12456,13 +12456,13 @@ Why was I holding on so hard?
 **Asclepius:**
 Wh-What the!? My specimens! 
  
-**? ? ? :**
+**???:**
 I'm surprised this place turned out to be a land of the dead. Or did I just pick an odd time to visit? 
  
 **Peperoncino:**
 Wha...What in the world!? What are you doing here, Daybit!? 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -12501,19 +12501,19 @@ What's this about? Who are you, and what is...
 **Asclepius:**
 ...!? 
  
-**? ? ? :**
+**???:**
 Yama...Also known as Yamaten. Passing judgment on the dead? What a joke. 
  
-**? ? ? :**
+**???:**
 Death is meant to be eaten. Life is meant to be sacrificed. Giving the dead freedom would never pass in my world. 
  
-**? ? ? :**
+**???:**
 So I consumed them. But they tasted terrible. It proves they haven't been eating anything decent. 
  
 **Daybit:**
 Try to stay behind me. Remember, this isn't your land. Didn't anyone ever teach you not to drink the tap water when you travel? 
  
-**? ? ? :**
+**???:**
 Good point. I'll be more careful. Besides, we didn't come here for the food. 
  
 **Mash:**
@@ -12745,7 +12745,7 @@ Ortinax load reduction sequence successful...Output has restabilized!
 **Mash:**
 Asclepius appears to still be reeling from Daybit's surprise attack! Now's our chance, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Asclepius:**
 Dammit. Can a doctor really accept his death at the hands of a violent patient? No. Definitely not. 
@@ -13199,7 +13199,7 @@ Do you think you're more important than a god!? I mean, you're really cute so I 
 **Fou:**
 Fou, fou. Kyu? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Lakshmi:**
 What the...What happened here!? 
@@ -13235,7 +13235,7 @@ We have to drive the beasts away!
 **Lakshmi:**
 Dammit...I knew it. Does this mean you won't let me forget after all...? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rama:**
 That takes care of all the sacred beasts. But, I'm afraid...
@@ -13346,7 +13346,7 @@ Told ya!
 **Mash:**
 Oh, thank goodness. This is such a relief! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Lakshmi:**
 (...)
@@ -13581,7 +13581,7 @@ It's the kali! The kali are here! Okay, everyone...
 **People:**
 Get ready to pray/fight! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **F：Woman:**
 Ahh...! 
@@ -13786,7 +13786,7 @@ This is going to be a difficult fight! Those arrows may be taking out kali right
 **Mash:**
 I'm going to focus first and foremost on keeping you safe, Master. Whatever you do, make sure to stay behind my shield! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rama:**
 That's the last of the kali! But now...
@@ -14217,7 +14217,7 @@ There's no way we're losing a close-range fight!
 **Fou:**
 Fooou! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Tell:**
 Guh...They're too damn close. I'm in trouble here. Time to get the hell out! 
@@ -14979,7 +14979,7 @@ Preparing Ortinax for immediate combat...All systems green!
 **Mash:**
 I'll try to draw as many of them towards me as I can. Awaiting your orders, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **A：Koyanskaya:**
 Hmmm, I see. So they're going after faith...the Achilles' heel of every god that shows themselves before mortals. 
@@ -15089,7 +15089,7 @@ Fine by me! Go ahead and get as mad as you want! I'm pretty furious that I've go
 **Aśvatthāman:**
 As your friend must have put it, Arjuna's all we need to end this world...There's no room for a walking disaster like you here! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 It's the Kali Yuga again. I hope we can escape in the Border with more room to spare this time. 
@@ -15149,7 +15149,7 @@ It's a shame we won't be able to help them with the other kali...
 **Rama:**
 ...but we're the only ones here who can handle that giant. Let's go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rama:**
 There, it's dead! How are the people doing!? 
@@ -15214,7 +15214,7 @@ I guess that makes sense, seeing how you turn four thousand days old tomorrow. W
 **Asha:**
 (He remembered! )
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Narration:**
 ...Once again, I dream as I close my eyes. 
@@ -15261,7 +15261,7 @@ Once all my thoughts had passed me by...and all my emotions had been drained out
 **Narration:**
 Why? 
 
-**? ? ? :**
+**???:**
 Hey...Hey! 
  
 **Asclepius:**
@@ -15291,7 +15291,7 @@ So you can understand that my request is completely justified, right?
 **God Arjuna:**
 ...A trivial matter...as all things are...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Asclepius:**
 Dammit, I didn't expect him to give me another job as part of the package. 
@@ -15524,7 +15524,7 @@ At this point, I've both conquered death and gained the power to heal people wit
 **Asclepius:**
 Maybe now, I can cure that idiocy of yours just as well as I can everything else! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Asclepius:**
 What's wrong, sacred beasts!? I know you can keep going! Come on, get up! I'll keep healing you! 
@@ -15643,7 +15643,7 @@ Ah damn, they got him, huh.
 **Tell:**
 Well, I've just wrapped things up with the kali here. Guess I may as well go and avenge him. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Asha:**
 Father fell asleep after I took him to the healer...That means he'll be okay, right...? 
@@ -15718,7 +15718,7 @@ Well, at least we don't have to worry about him sniping at us from extreme range
 **Peperoncino:**
 Keep your guard up, Fujimaru. There's no telling how he'll try shooting his arrows at us next! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ganesha:**
 Dammit! None of my attacks are landing! 
@@ -15780,7 +15780,7 @@ Even so, you shouldn't go around firing it at a real hunter.
 **Rama:**
 Dammit! There has to be some way we can defeat him! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 As I kept walking...I got more and more anxious. 
@@ -15906,7 +15906,7 @@ I-I don't know what's going on, but at least he finally stopped moving around! N
 **Rama:**
 This is the opportunity we've been waiting for! Come on, Master! It's time to finish this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Tell:**
 Khh...
@@ -15941,7 +15941,7 @@ I'm well aware!
 **Rama:**
 Huh!? 
  
-**? ? ? :**
+**???:**
 Ugh...This really pisses me off. 
  
 **Aśvatthāman:**
@@ -16060,7 +16060,7 @@ Okay, let's go, everyone! But keep an eye out in case anyone comes after us!
 
  
 **Aśvatthāman:**
-Wha...!? Hey, get back here, dammit! Oh, now I am REALLY PISSED! ! ! You're gonna pay for that, old ma&ndash;
+Wha...!? Hey, get back here, dammit! Oh, now I am REALLY PISSED!!! You're gonna pay for that, old ma&ndash;
  
 **Aśvatthāman:**
 He's gone too. Guess he must've used Vāyu's power to make an escape. I doubt he'll last long with those wounds if he pushes himself too hard, but still...Dammit! 
@@ -16182,7 +16182,7 @@ Perhaps then, we will be able to determine what brought her here...
 **Goredolf:**
 Wat. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Koyanskaya:**
 That emperor who embodied all of humanity was one thing, but I can destroy a mere warrior like you with just a few bites! 
@@ -16500,7 +16500,7 @@ And as the guy being hired,I expected you to pay me for my help.
 Nobody ever told me I'd be the one paying you such a heavy price. Consider our contract null and void! 
  
 **Tell:**
-Apfel Schießen! ! ! 
+Apfel Schießen!!! 
  
 **Limbo:**
 You fool! Your idiocy knows no bounds! What can a half-dead Archer's arrow hope to do against a god!? 
@@ -17049,7 +17049,7 @@ Anyway, I'm afraid I have a lot of work I need to get back to. You should rest n
 **Lakshmi:**
 (I think it was...guilt? )
  
-**--ARROW--:**
+**--ARROW--**
  
 **Ganesha:**
 Phew! I don't think I've ever been so happy to see the sky. 
@@ -17222,7 +17222,7 @@ Aww, what's wrong, Asha? You don't look very excited.
 Doesn't it feel like we're missing someone important? 
  
 **Mash:**
-...! ! ! 
+...!!! 
  
 **Aunt:**
 Huh? What do you mean? 
@@ -17345,7 +17345,7 @@ You poor thing...I don't know what you're talking about, but I can tell you've b
 Well, if there's anything I can do to help, please don't hesitate to call on me. Good luck...
  
 **Lakshmi:**
-Dammit...Dammit! ! ! 
+Dammit...Dammit!!! 
  
 **Lakshmi:**
 Just refusing to obey is a sin now, you false god? A crime so great you throw them away like they're worthless!? 
@@ -17431,7 +17431,7 @@ I bring adversity and tragedy wherever I go. I'm the embodiment of things everyo
 **Lakshmi:**
 The real name of the goddess within me is Alakshmi&ndash;Lakshmi's older sister, the goddess of bad luck and misfortune. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Captain:**
 ...It's true. Those two sister gods are more alike than shrimp and prawns. 
@@ -17868,7 +17868,7 @@ Just like I know that the moment my anger dies out,I won't be me anymore!
 **Aśvatthāman:**
 So as long as I'm still kicking, I've got no choice but to keep my fury burning...to keep burning my whole damn life! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Aśvatthāman:**
 Ghh...! 
@@ -18015,7 +18015,7 @@ I'm mad at how goddamn weak I am, so weak that I have to obey Arjuna, my mortal 
 **Mash:**
 Aśvatthāman is getting madder than we've ever seen him! Be careful, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Narration:**
 I don't know anything about this Crypter stuff,but whatever they are, that one was still my Master. 
@@ -18164,7 +18164,7 @@ My brother and Sita would often look at me like that...
 ---
 
 **Fujimaru 2:**
-Ramaaa! ! ! Attaboooy! ! ! 
+Ramaaa!!! Attaboooy!!! 
  
 **Rama:**
 Hey! You were supposed to gaze at me in awe and admiration there! 
@@ -18225,7 +18225,7 @@ If I don't have to worry about being held hostage to my damn curse anymore...If 
 Arjuna was always my mortal enemy, even before he made himself into some kind of god! There's no way in hell I'm not gonna revolt against him! 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Aśvatthāman:**
 But what's the damn point of me being free of my curse if you just end up cursed in my place!? 
@@ -18523,7 +18523,7 @@ Shut up, dammit! You think I don't know that!? That's why I'm saying IF we could
 **Aśvatthāman:**
 How about it? Anyone here think they can pull that off? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 ...I think back on this world. 
@@ -18735,7 +18735,7 @@ All right, here's the last part of the plan.
 **Aśvatthāman:**
 ...I'm gonna send you two back in time! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **God Arjuna:**
 ...
@@ -19157,7 +19157,7 @@ Oh for...Stop it, Ramie! You can't push yourself too hard!
 **G：Peperoncino:**
 Okay, Fujimaru, this is it! Let's try to buy them as much time as we can! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rama:**
 Ghh...! 
@@ -19238,7 +19238,7 @@ As long as their bodies follow mostly the same rules as ours, I can apply the kn
 From there, all I have to do is destroy their vital organs, and they'll die just like any other creature. 
  
 **Mash:**
-...! ! ! 
+...!!! 
  
 **B：Peperoncino:**
 That's not to say I like doing this sort of thing. It is just awful on my cuticles, and it's not even any fun. 
@@ -19261,7 +19261,7 @@ Oh well, no going back now! Especially not when we're still severely outnumbered
 **B：Peperoncino:**
 Come on, guys, let's keep it up! We don't have time to be slacking off! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 There isn't a single wasted motion in his combat style. Pepe...he's obviously very proficient in it. 
@@ -19296,7 +19296,7 @@ Aww, you're no fun...But, I guess you're right. We do still have more sacred bea
 **C：Peperoncino:**
 Hang in there, people! Aśvatthāman and the others should be done soon! For now, the dance continues! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Koyanskaya:**
 Ugh, are we still not done? This is getting REALLY old! 
@@ -19383,7 +19383,7 @@ To those kind failures lending me your strength, Alakshmi, the goddess of misfor
 We will not let one more thing be cruelly and unjustly taken from us! This time, we will protect everything! 
  
 **Lakshmi:**
-Nahi Doongi! ! ! 
+Nahi Doongi!!! 
  
 **Narration:**
 Are you seeing this, Karna? 
@@ -19456,7 +19456,7 @@ All right...You guys better hang in there. I'm gonna be mad as shit if you give 
 But hey, don't worry! Sure you'll be gone a long time, but we'll see you again real soon! 
  
 **Aśvatthāman:**
-Mahākāla Shakti! ! ! 
+Mahākāla Shakti!!! 
  
 ---
 
@@ -19521,7 +19521,7 @@ The Ortinax has accumulated some strain...but it still hasn't reached its limit.
 **Mash:**
 Moving forward! Please make sure to stay right behind me, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rama:**
 There's just...too many! Argh, if only I could use my body like normal! 
@@ -19808,7 +19808,7 @@ Fortunately...the power I needed to destroy all evil and create that world...
 **Narration:**
 ...was right there for the taking...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **God Arjuna:**
 ...
@@ -19883,7 +19883,7 @@ Isn't surviving against a god exactly what we're trying to do here!?
 Please, Director Goredolf! Please do whatever you have to in order to get us there! 
  
 **Goredolf:**
-Arrrgh! All right, you want to do this thing? Let's do this thing! ! ! 
+Arrrgh! All right, you want to do this thing? Let's do this thing!!! 
  
 **Captain:**
 ...Here comes the next one. Stay on course for the next five seconds, and...Swerve! 
@@ -19987,7 +19987,7 @@ By the way, if you pull that hidden lever there,you'll find a porthole, so make 
 **Koyanskaya:**
 You STILL won't give me a break!? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 .........
@@ -20393,7 +20393,7 @@ Maybe the only reason I was able to hang in there...was because of what he asked
 **Ganesha:**
 After all...I couldn't break my promise, could I? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Holmes:**
 Now that Ganesha and Lakshmi's existences have been confirmed here...
@@ -20587,7 +20587,7 @@ I'm pretty sure you already know this, but he's not exactly the most graceful gu
 **Aśvatthāman:**
 I knew it. I figured I'd find you here. Really pisses me off that you've been slacking. 
  
-**? ? ? :**
+**???:**
 ...I have not been slacking off. 
  
 **Aśvatthāman:**
@@ -20599,13 +20599,13 @@ A big old trash heap with no shape or form. Just different concepts floating aro
 **Aśvatthāman:**
 I figured you must still be drifting around here back when I saw you turn into Surya's light itself. 
  
-**? ? ? :**
+**???:**
 Of course you knew. You were the one who said that. 
  
 **Aśvatthāman:**
 Ugh, is there anyone more tightly wound than you? Freakin' infuriating. 
  
-**? ? ? :**
+**???:**
 ...
  
 **Aśvatthāman:**
@@ -20614,55 +20614,55 @@ All right then, let's do this. We've only got a moment to pull it off...even if 
 **Aśvatthāman:**
 Here's what's gonna happen. I'm gonna use everything I've got to pull you out of here, and you're gonna use everything you've got to climb the hell out. 
  
-**? ? ? :**
+**???:**
 What do I have to do? 
  
 **Aśvatthāman:**
 It's easy. All we gotta do is be ourselves. Long as we do that, we should be able to connect. 
  
-**? ? ? :**
+**???:**
 ...All right. Let's do it. 
  
-**? ? ? :**
+**???:**
 If there is no concept of time here, all the better. I want to keep going until I'm satisfied. 
  
-**? ? ? :**
+**???:**
 If the time we experience here has no meaning,that means we can use as much of it as we like. 
  
-**? ? ? :**
+**???:**
 So why just go back as I am now if I could use this time to train and get even stronger? 
  
 **Aśvatthāman:**
 The hell? At any moment of existing in this space, we could be torn to shreds, and you wanna TRAIN here!? What the hell is WRONG with you!? 
  
-**? ? ? :**
+**???:**
 I'm just going to do the same thing Arjuna did. 
  
-**? ? ? :**
+**???:**
 Now that I know how far he pushed himself,I have to do the same to meet him on even ground. 
  
 **Aśvatthāman:**
 The same thing he did...? 
  
-**? ? ? :**
+**???:**
 He must have put himself through tremendous hardships before he reached his current state. 
  
-**? ? ? :**
+**???:**
 It's one thing to say he collected every Indian Divinity into himself, and another altogether to actually do so. 
  
-**? ? ? :**
+**???:**
 He may rule this land now, but he has not transcended its bonds. His current state is the answer he arrived at after countless hard decisions and tribulations. 
  
-**? ? ? :**
+**???:**
 In which case, it would be the height of rudeness to challenge him as my ordinary self. 
  
-**? ? ? :**
+**???:**
 So I will put myself through the same ordeals he did as a sign of respect...and of despair. 
  
-**? ? ? :**
+**???:**
 I will only challenge him once I have pushed myself as far as I possibly can. As his brother, I owe him no less. 
  
-**? ? ? :**
+**???:**
 And you are going to help me get there, Aśvatthāman. 
  
 **Aśvatthāman:**
@@ -20677,7 +20677,7 @@ Come to think of it, I guess not caring about time is something you and the guy 
 **Aśvatthāman:**
 ...All right, here I come, Hero of Benefaction! Get ready for a world of pain! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Aśvatthāman:**
 What's the score up to? I lost count in the high thousands. 
@@ -20685,13 +20685,13 @@ What's the score up to? I lost count in the high thousands.
 **Aśvatthāman:**
 Dammit...It pisses me the hell off how strong you are! 
  
-**? ? ? :**
+**???:**
 You are impressively strong yourself. I truly think you are one of the strongest warriors I have met. 
  
 **Aśvatthāman:**
 Well? Did you do everything you wanted? 
  
-**? ? ? :**
+**???:**
 I did. 
  
 **Aśvatthāman:**
@@ -20700,19 +20700,19 @@ Then I guess you got nothing to worry about. There's only one thing left to say 
 **Aśvatthāman:**
 Let's go fight together again. I'll even let you borrow me. 
  
-**? ? ? :**
+**???:**
 ...Thank you. I accept with gratitude. 
  
 **Aśvatthāman:**
 Ha. That's what I like to hear. Now hurry up. 
  
-**? ? ? :**
+**???:**
 Thank you, my friend. 
  
-**? ? ? :**
+**???:**
 Your anger may be defective and improper...
  
-**? ? ? :**
+**???:**
 ...but there are still some lost hopes that only it can save...
  
 **Goredolf:**
@@ -21170,7 +21170,7 @@ Arjuna is no longer a god we can only look up at from afar.
 **Mash:**
 He's now destruction incarnate, and we have to stop him no matter what! Let's go get him, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Karna:**
 What incredible power. Even with Shiva's godly strength, I still can't manage to harm you. 
@@ -21268,7 +21268,7 @@ There is no question of where he is heading. There's only one thing left that he
 **Da Vinci:**
 Get in the Border, guys! We're going after him full speed ahead! 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -21688,7 +21688,7 @@ Now let's go! Full speed ahead!
 **Da Vinci:**
 Well, if the world's most famous captain insists,I guess we'll just have to oblige! Let's do this thing! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Goredolf:**
 Hold it! I still haven't given this the all clea&ndash;AAAH! A-are you sure we'll be okay!? We're not going to dissolve!? 
@@ -21918,7 +21918,7 @@ But, for now, I will humbly accept this great honor you have both entrusted to m
 I will use all the power I have been given to see that Arjuna is brought to justice! 
  
 **Ganesha:**
-Bwaaa! !? ? Your hair! Your spear! They're totally different now! 
+Bwaaa!!? ? Your hair! Your spear! They're totally different now! 
  
 **Ganesha:**
 I don't know what's going on, but it's freakin' badass! I can't put it any better than that! 
@@ -21957,9 +21957,9 @@ There he is!
 Karna...Kar...na...
  
 **Karna:**
-Arjunaaa! ! ! 
+Arjunaaa!!! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **God Arjuna:**
 ...Kar...na...Karna...! 
@@ -21992,7 +21992,7 @@ Would a perfect god be so fixated on my name,as you have been thus far?
 That can only mean one thing...Your humanity is showing through. 
  
 **God Arjuna:**
-...! ! ! 
+...!!! 
  
 **Karna:**
 You are very much still human deep down inside, Arjuna. That is why we can do battle like this. 
@@ -22124,7 +22124,7 @@ You're doing it again...Your eyes are trying to make me see something inside mys
 That is...a sin. It is evil. I must pass judgment on you...with my own hands! 
  
 **B：Arjuna:**
-Karnaaa! ! ! 
+Karnaaa!!! 
  
 **Karna:**
 The only thing I see now is the fact that you can no longer ignore my spear. 
@@ -22136,9 +22136,9 @@ Now that you have abandoned that irksome detachment,I finally have the chance I'
 It doesn't matter if you're a god. I will keep trying to surpass you, just as I always have! 
  
 **Karna:**
-Arjunaaa! ! ! 
+Arjunaaa!!! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 He...He did it, Master! Arjuna has been fatally wounded! 
@@ -22310,7 +22310,7 @@ Now I see. I was a walking paradox,right from the beginning.
 **Arjuna:**
 I couldn't even be the man...you wanted me to be...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Peperoncino:**
 (It's over...I warned you, Arjuna. )
@@ -22874,7 +22874,7 @@ Our goal is to defeat the enemy Crypter and Aśvatthāman...and to cut down the 
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Holmes:**
 ...Well done. You've managed to fell the tree. I can see its magical energy signal fading rapidly. 
@@ -22945,7 +22945,7 @@ Just as I cannot help it if I take advantage of this moment...
 **Limbo:**
 ...to pluck the Master of Chaldea's heart clean out of {(M) his /(F) her} chest. 
  
-**? ? ? :**
+**???:**
 Hey. 
  
 **Limbo:**
@@ -23618,7 +23618,7 @@ The mother who was killed by a foolish, detestable god, and reduced to ash by th
 **Narration:**
 ...will know how I feel...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Asha:**
 This is so strange, isn't it, Auntie? The Kali Yuga is over, but nothing happened. I'm shocked! 

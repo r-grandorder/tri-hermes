@@ -596,7 +596,7 @@ Not only did I get in a fight with my Lostbelt's king, my very own Servant washe
 ...and I had to run all the way here with my tail between my legs after Chaldea, our SWORN ENEMY, saved my life! I'm clearly the best Crypter! 
  
 **Peperoncino:**
-But at least the roasted bananas were suuuper yummy! ! ! 
+But at least the roasted bananas were suuuper yummy!!! 
  
 **Kadoc:**
 Never mind, I take it back! You're just as cheery as ever! Now shut up already, will you!? 
@@ -1148,7 +1148,7 @@ Make sure you all give it everything you have,and I look forward to your safe re
 ...It looks like this is as far as I go. I'm sorry, d'Eon! 
  
 **d'Eon:**
-Sanson! Ghh! ! 
+Sanson! Ghh!! 
  
 **d'Eon:**
 Haaaaaa! 
@@ -1166,7 +1166,7 @@ Khh...!
 (He's not even using...his Noble Phantasm! )
  
 **d'Eon:**
-Noble Phantasm...Fleur de Lis! ! ! 
+Noble Phantasm...Fleur de Lis!!! 
  
 **C：? ? ? :**
 I see. A series of strikes made in tandem with a lily-based illusion. 
@@ -1468,7 +1468,7 @@ After confronting, overcoming, and emerging triumphant against four Lostbelts...
 **Narration:**
 ...its crew prepares to face the fifth,and most formidable of all. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Goredolf:**
 ......
@@ -1747,52 +1747,52 @@ Sir, the lookout just reported a faint ripple at Eastern Four, the white wall.
 **Atlantis Border Guard:**
 Of course, it could just be an underwater earthquake&ndash;
  
-**? ? ? :**
+**???:**
 Do you really think we would be seeing an oceanic earthquake now? No, it's almost certainly Chaldea. 
  
-**? ? ? :**
+**???:**
 They may be arriving a little later than expected,but the plan otherwise remains the same. 
  
-**? ? ? :**
+**???:**
 Assume they have succeeded at diving through Eastern Four, and train your sights on their most likely emergence point. 
  
-**? ? ? :**
+**???:**
 All hands and ships to battle positions. And hurry up with the Lamia deployment. 
  
 **Atlantis Border Guard:**
 Yes, sir. 
  
-**? ? ? :**
+**???:**
 Listen up. Do not treat these foes as you would typical Rogue Servants. 
  
-**? ? ? :**
+**???:**
 Servants who have formed a contract with a Master are stronger than you think. 
  
-**? ? ? :**
+**???:**
 Do not for a moment think yourselves above them. Let down your guard, and you WILL find yourselves the hunted rather than the hunters. 
  
 **Atlantis Border Guard:**
 ...Yes, sir! 
  
-**? ? ? :**
-Very well then, I leave this in your hands,![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only). 
+**???:**
+Very well then, I leave this in your hands,![1-light](https://i.imgur.com/XAqlQYL.png). 
  
 **C：? ? ? :**
 Understood. The Echidna production is coming along extremely well. 
  
-**? ? ? :**
+**???:**
 Is it possible to manufacture those things? 
  
 **D：? ? ? :**
 Yes. Well, at least the prototypes. 
  
-**? ? ? :**
+**???:**
 Tch...
  
-**? ? ? :**
+**???:**
 Damn engineers. After all this time, you still haven't been able to complete them? 
  
-**? ? ? :**
+**???:**
 Well, no matter. Send them in. 
  
 **D：? ? ? :**
@@ -1804,10 +1804,10 @@ Activate the Echidna!
 **Atlantis Border Guard:**
 Right away, sir! 
  
-**? ? ? :**
+**???:**
 A creature that spits out monsters in spite of the tremendous pain it causes, hmm. It is indeed the mother of life. 
  
-**? ? ? :**
+**???:**
 This should have all manner of applications. 
  
 **Atlantis Border Guard:**
@@ -1822,7 +1822,7 @@ The Third Fleet has arrived at the target coordinates!
 **Atlantis Border Guard:**
 Lamias are now ready to deploy! Your orders, sir! 
  
-**? ? ? :**
+**???:**
 ...Take them out. 
  
 ## Section 1: Crisis After Crisis 
@@ -1965,7 +1965,7 @@ Uh-oh! I've got a report to make too, Captain!
 It's not just enemy ships! I'm picking up a Servant out there on the water too! 
  
 **Nemo Marine:**
-The one we really, really, really didn't want to run into! ! ! 
+The one we really, really, really didn't want to run into!!! 
  
 **Caenis:**
 Heh. 'Bout time you Chaldea cretins got here. 
@@ -1979,7 +1979,7 @@ Caenis, the Divine Spirit! She's here along with this entire fleet!?
 **Goredolf:**
 What are you lot waiting for!? Get us the hell out of here now! We don't have any other options! 
  
-**? ? ? :**
+**???:**
 &mdash;. &mdash;. &mdash;Cha&mdash;dea. 
  
 **Nemo:**
@@ -1996,10 +1996,10 @@ Is it Sion!?
 **Nemo:**
 No, it's not...
  
-**? ? ? :**
+**???:**
 Attention enemy vessel from Chaldea. Attention enemy vessel from Chaldea. 
  
-**? ? ? :**
+**???:**
 Requesting line of communication. Over. 
  
 **Holmes:**
@@ -2017,7 +2017,7 @@ Okay, you're on.
 **Goredolf:**
 Th-this is Goredolf Musik, commander of the Shadow Border, speaking on behalf of Novum Chaldea. 
  
-**? ? ? :**
+**???:**
  
 I am Odysseus, commander of the Olympus Defensive Forces. 
  
@@ -2025,7 +2025,7 @@ I am Odysseus, commander of the Olympus Defensive Forces.
 Wha...
  
 **Holmes:**
-...! ! ! 
+...!!! 
  
 **Odysseus:**
 I am contacting you with your first and only warning. We have come to kill you. 
@@ -2171,7 +2171,7 @@ Right! I'll be as careful as I can. Engaging now!
 **I：Mash:**
 Awaiting your orders, Master! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Goredolf:**
 Wha...What in the world is that thing!? And how is it so absurdly strong!? 
@@ -2278,7 +2278,7 @@ Master!
 **Mash:**
 Right! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 There, we've got a lull in between waves. Now's our chance! 
@@ -2384,7 +2384,7 @@ Did you really think a couple of human Heroic Spirits could even stand a chance 
 **Caenis:**
 I'll show you what happens when trash like you tries to pick a fight with a god! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Caenis:**
 Ugh! I've had to take a lot of weak-ass Noble Phantasms to the face before, but yours is by far the most irritating! 
@@ -2460,7 +2460,7 @@ At any rate, finding a way out of this situation is still our most urgent priori
 **Holmes:**
 I don't know why Caenis fell back, but I sincerely doubt it was to give us time to rest. 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -2521,7 +2521,7 @@ Evasive maneuvers! All hands, brace, brace, brace!
  
 **All:**
  
-...! ! ! 
+...!!! 
  
 **E：Nemo Marine:**
 Oh man, this is really bad! They punctured Section Two! We're starting to take on water! 
@@ -2731,13 +2731,13 @@ Ah&ndash;
 **Narration:**
 An enormous ship hangs suspended in the hazy darkness of space. 
  
-**? ? ? :**
+**???:**
 Hostile entity detected. Authenticating request...Confirmed. 
  
-**? ? ? :**
+**???:**
 Verifying target coordinates via ground-level ether sonar. 
  
-**? ? ? :**
+**???:**
 Readying cannon to fire on target location: anatolé, októ-tría. 
  
 **Nemo:**
@@ -2762,15 +2762,15 @@ Good! But don't fall behind on those Zero Sail preparations, either!
 ...! 
  
 **Nemo:**
-Here it comes! ! ! 
+Here it comes!!! 
  
-**? ? ? :**
+**???:**
 Dispatching interstellar cannon evacuation alert. Firing energy charge in three...
  
-**? ? ? :**
+**???:**
 Two...One...
  
-**? ? ? :**
+**???:**
 Shooting Star Ortygia 
  
 **Narration:**
@@ -2839,7 +2839,7 @@ That light I saw at the end...
  
 ## Section 2: Impossibly Miraculous 
  
-**? ? ? :**
+**???:**
 Whoaaa. That was amazing...
  
 **Narration:**
@@ -2872,7 +2872,7 @@ After all, the whole point of the gods' punishment...
 **Narration:**
 Which is why...
  
-**? ? ? :**
+**???:**
 Huh? 
  
 **Narration:**
@@ -2881,7 +2881,7 @@ Which is why it was so tragic to see that lone,frail-looking person washed up on
 **Narration:**
 Because I was the only one there who had any hope of saving {(M) him /(F) her}. 
  
-**? ? ? :**
+**???:**
 ...u......u! 
  
 ---
@@ -2892,7 +2892,7 @@ Because I was the only one there who had any hope of saving {(M) him /(F) her}.
 ---
 
  
-**? ? ? :**
+**???:**
 ...ou...! 
  
 ---
@@ -2903,13 +2903,13 @@ Because I was the only one there who had any hope of saving {(M) him /(F) her}.
 ---
 
  
-**? ? ? :**
+**???:**
 Fou! 
  
-**? ? ? :**
+**???:**
 Hey! Are you okay!? Are you alive!? Are you still breathing!? 
  
-**? ? ? :**
+**???:**
 ...Oh no. You aren't, are you? There's something stuck in your windpipe! 
  
 **B：? ? ? :**
@@ -3309,7 +3309,7 @@ Th-there's no way we can beat it! Run awaaay!
 Fou! 
  
 **Demonic Beast:**
-&mdash;! ! ! 
+&mdash;!!! 
  
 ---
 
@@ -3352,7 +3352,7 @@ This time?
 **Charlotte Corday:**
 ...Here goes nothing! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Charlotte Corday:**
 (Huff...Huff...Huff...)
@@ -3385,19 +3385,19 @@ Is it...raining on them?
 ---
 
  
-**? ? ? :**
+**???:**
 (Sigh) Having a body can be a real pain sometimes. 
  
-**? ? ? :**
+**???:**
 No, wait. Something's not right here. Why do I even have to do this, anyway? 
  
-**? ? ? :**
+**???:**
 I mean, I'm a Servant, for Petros's sake! 
  
-**? ? ? :**
+**???:**
 Oh...Maybe it's 'cause my name originally meant “one who discharges water”? 
  
-**? ? ? :**
+**???:**
 Hahaha, that must be it! Hahaha! Whoever thought THAT was a good name for anybody!? 
  
 **Fou:**
@@ -3417,13 +3417,13 @@ Please no...
 **Fou:**
 Fou. 
  
-**? ? ? :**
+**???:**
 Hm? What's that? Did I get it on somebody? 
  
-**? ? ? :**
+**???:**
 Haha, sorry about that! Hang on, I'll be right down! 
  
-**? ? ? :**
+**???:**
 Hup! 
  
 **F：? ? ? :**
@@ -3500,7 +3500,7 @@ Just...uh, wash your hands first...
 
  
 **Fou:**
-Fou fou! ! ! 
+Fou fou!!! 
  
 **Charlotte Corday:**
 I agree! Cleanliness comes first! 
@@ -3674,7 +3674,7 @@ Let's see...You're not an Atlantean, right? And you're a Servant?
 **Orion:**
 ...What's going on here? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Orion:**
 Now I see. So you're a Master...Oh, don't worry. 
@@ -3972,7 +3972,7 @@ Does it have other girls as cute as you? Or any other pretty ladies to speak of?
 Orion? 
  
 **Orion:**
-Gaah! Don't look at me like that! ! ! 
+Gaah! Don't look at me like that!!! 
  
 
 ---
@@ -3981,7 +3981,7 @@ Gaah! Don't look at me like that! ! !
 What about Artemis? 
  
 **Orion:**
-Urk! ! ! 
+Urk!!! 
  
 **Orion:**
 ...Well, uh, if nothing else, we don't have to worry about her at the moment. 
@@ -4034,7 +4034,7 @@ You got it.
 **Orion:**
 All right, you lot. Keep it down, so you don't wake up Fujimaru, and I'll make your deaths quick and painless. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Orion:**
 All right, that takes care of that. 
@@ -4081,13 +4081,13 @@ There's no war, and nobody wants for anything. The only thing most people have t
 **Orion:**
 Knock it off. She's not an enemy. 
  
-**? ? ? :**
+**???:**
 &mdash;. &mdash;. . 
  
 **Orion:**
 ...Get lost. I don't feel like talking right now. 
  
-**? ? ? :**
+**???:**
 ......
  
 **Orion:**
@@ -4135,7 +4135,7 @@ Anyway, it doesn't look like any more Demonic Beasts will be bothering us...
 **Charlotte Corday:**
 ...so I'm going to stay close to Fujimaru! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fou:**
 Fou, fou! 
@@ -4257,7 +4257,7 @@ Got it!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Orion:**
 Try this on for size! 
@@ -4378,7 +4378,7 @@ Ah well, never mind that.
 **Orion:**
 Here we are! Hestia Village! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Hestia Island Resident:**
 Hm? Oh, hey, Orion. 
@@ -4437,15 +4437,15 @@ W-wait for meee!
 ......
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Mash:**
-Senpai...Senpai! ! ! 
+Senpai...Senpai!!! 
  
 ---
 
 **Fujimaru 1:**
-Mash! ! ! 
+Mash!!! 
 
 ---
 
@@ -4714,7 +4714,7 @@ Ask, and you shall receive! My name is Bartholomew Roberts!
 I'm a professional pirate in the prime of my youth,and most importantly...
  
 **Bartholomew:**
-I'm single! ! ! 
+I'm single!!! 
  
 
 ---
@@ -4729,7 +4729,7 @@ Hehehe, I take it we've already met then. Perhaps there's a version of me there 
 Still, I'm a firm believer in proper introductions,so don't mind me if I do just that! 
  
 **I：? ? ? :**
-My name is Bartholomew Robeeerts! ! 
+My name is Bartholomew Robeeerts!! 
  
 **Bartholomew:**
 I'm single! 
@@ -4741,7 +4741,7 @@ I'm single!
 ? 
  
 **Bartholomew:**
-I said, I'm single! ! ! 
+I said, I'm single!!! 
  
 **Da Vinci:**
 Here, Mash, why don't you come stand next to me for a while? 
@@ -4977,16 +4977,16 @@ The operation itself was perfect,and your direction flawless.
 **Odysseus:**
 ...I appreciate your even-handed decision, Kirschtaria. Now then, if you'll excuse me, I must get back to my search. 
  
-**? ? ? :**
+**???:**
 Yes, that's a good idea. 
  
-**? ? ? :**
+**???:**
 After all, Odysseus, the whole reason you were dispatched there was to ensure the invaders would never sully Olympus. 
  
-**? ? ? :**
+**???:**
 Yes, exactly. 
  
-**? ? ? :**
+**???:**
 I hope you are duly aware of the importance of your task, Odysseus. 
  
 **Odysseus:**
@@ -4995,19 +4995,19 @@ I am.
 **Caenis:**
 ......
  
-**? ? ? :**
+**???:**
 As for you, Caenis, you should be ashamed of yourself for your failure to kill them. 
  
-**? ? ? :**
+**???:**
 Caenis. 
  
-**? ? ? :**
+**???:**
 You are to come back to Olympus at once and cleanse yourself as best you can before you are granted an audience. 
  
-**? ? ? :**
+**???:**
 If I were you, I would already be thinking up excuses for this miserable failure of yours. 
  
-**? ? ? :**
+**???:**
 I can tell you right now, the King of the Gods is going to be very upset with you. Better be ready to receive his punishment. 
  
 **Caenis:**
@@ -5019,19 +5019,19 @@ That's enough, you two. I'll deal with Caenis myself.
 **Kirschtaria:**
 I would remind both of you to conduct yourselves in a manner befitting the glorious Olympic gods. 
  
-**? ? ? :**
+**???:**
 ...Hmph. You're always much too easy on Caenis, Lord Kirschtaria. 
  
-**? ? ? :**
+**???:**
 But if you insist, I suppose we have no choice but to keep quiet. 
  
-**? ? ? :**
+**???:**
 ...Remember, Caenis, you are nothing more than a hunting dog. There is no point in keeping you around if you can't do your job. 
  
-**? ? ? :**
+**???:**
 You should be honored to have been trusted with a Divine Spirit. It's far more than you deserve. 
  
-**? ? ? :**
+**???:**
 If I were you, I would never forget the debt of gratitude I owed to Lord Kirschtaria. Difficult though that may be with such a tiny brain as yours, I nevertheless suggest you try your best. 
  
 **Caenis:**
@@ -5172,7 +5172,7 @@ If the Chaldeans are indeed still alive...they're bound to have left a trail of 
 **Odysseus:**
 And a dog's keen senses will be able to find such a trail. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Bartholomew:**
 ...In Proper Human History, the gods, including the Twelve Olympians, parted ways with humanity. 
@@ -5901,7 +5901,7 @@ Fou fou fou.
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Nemo:**
 ......
@@ -6050,7 +6050,7 @@ You totally look like a doting father!
 
  
 **Goredolf:**
-Don't be daft! ! ! 
+Don't be daft!!! 
  
 **Goredolf:**
 Guh! Now look what you did! My shouting made him kick me in the stomach! 
@@ -6100,7 +6100,7 @@ But I'm supposed to be one of the greatest Sabers ever.... Even if I do just use
 **Narration:**
 Right now, I'm a Rider...Though I can't keep my horse around all the time. 
  
-**? ? ? :**
+**???:**
 Ah crap. I'm getting all choked up. 
  
 **Narration:**
@@ -6139,10 +6139,10 @@ I wonder what they'll think of me when they show up.
 **Narration:**
 A useless, good-for-nothing, C-rank Servant? ...I just hope they're at least a little happy to meet me. 
  
-**? ? ? :**
+**???:**
 Nah, what am I saying. I've gotta stop thinking positive. 
  
-**? ? ? :**
+**???:**
 They're just gonna look down their noses at me and relegate me to backup. That's all I deserve, anyway. 
  
 **Narration:**
@@ -6312,13 +6312,13 @@ R-right then. Ahem.
 All hams, move out! 
  
 **All:**
-(He flubbed it! ! ! )
+(He flubbed it!!! )
  
 **Goredolf:**
 ......
  
 **Goredolf:**
-All hands, move out! ! ! 
+All hands, move out!!! 
  
 **Goredolf:**
 Well? What are you all waiting for? Come on, before I leave you behind! 
@@ -6395,7 +6395,7 @@ Yes, that sounds right. I'll just go ahead and leave it at that.
 ---
 
 **Fujimaru 1:**
-Directooor! ! ! 
+Directooor!!! 
 
 ---
 
@@ -6412,7 +6412,7 @@ Since I can't use my hands right now,I'll just give them a congenial smile and&n
 ---
 
 **Fujimaru 1:**
-Behind yooou! ! ! 
+Behind yooou!!! 
 
 ---
 
@@ -6674,7 +6674,7 @@ U-um, Mandricardo? Aren't you going to fight?
 **Mandricardo:**
 Oh, right, of course. Okay, let's do this thing! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mandricardo:**
 There we go. That oughta do it. 
@@ -7340,7 +7340,7 @@ My word! I'd forgotten how worked up this Demi-Servant can get whenever the topi
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mandricardo:**
 ...
@@ -7394,7 +7394,7 @@ Roger that. Okay, Master, I'm ready for your orders whenever you're ready to giv
 **Mandricardo:**
 Don't worry, I'll make sure these guys don't go anywhere! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Atlantis Border Guard:**
 ......
@@ -8105,7 +8105,7 @@ After that, it all comes down to how strong the ship that'll be towing us is. Pe
 Don't you worry, Captain Nemo. I didn't name this ship the Royal Fortune for nothing. 
  
 **Bartholomew:**
-Set sail! ! ! 
+Set sail!!! 
  
 **Pirate:**
 ......
@@ -8309,7 +8309,7 @@ There is such a thing as being TOO pumped...
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Bartholomew:**
 You got them? Great. All we have to do now is pray that Artemis doesn't come after us. 
@@ -8384,7 +8384,7 @@ So much has happened that I completely forgot about him!
 **Charlotte Corday:**
 Oh gosh, he's going to be so angry with me...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Holmes:**
 We'll leave the Border in its camouflaged mode,just like we did before. 
@@ -8575,7 +8575,7 @@ Let's do it.
 **Mandricardo:**
 Got it. Okay, guess I'd better go lend a helping hand. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **A：Heracles Island Resident:**
 All right! 
@@ -8664,7 +8664,7 @@ Um, if you don't mind my asking,could you tell us how old you are?
 We're both coming up on five hundred years old soon. Though I'm still hoping to be granted an audience with the gods at least once before I die. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Charlotte Corday:**
 Five hun&ndash;
@@ -8727,7 +8727,7 @@ Hahaha. I can see you miss Jason just as much as he misses you.
 **Charlotte Corday:**
 Nothing could be further from the truth! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jason:**
 I can't deal with this crap anymore! 
@@ -8735,10 +8735,10 @@ I can't deal with this crap anymore!
 **Jason:**
 Another! 
  
-**? ? ? :**
+**???:**
 Another mug of beer, huh? Okay, here you go. 
  
-**? ? ? :**
+**???:**
 Though I gotta say, Servant or not,don't you think you've had enough by now? 
  
 **Jason:**
@@ -8747,13 +8747,13 @@ I'm fine. Everything's fine.
 **Jason:**
 Servants can still get drunk, AND we don't have to worry about addiction. It's all good news, really! 
  
-**? ? ? :**
+**???:**
 Well, I'm not gonna complain about you racking up a big tab. Though I will come collecting one of these days, you hear? 
  
 **Jason:**
 I know, I know. Don't worry. If worse comes to worst,I can always sell my sword. 
  
-**? ? ? :**
+**???:**
 You sure? Don't you kind of need that? I mean, you are technically a Saber, right? 
  
 **Jason:**
@@ -8774,10 +8774,10 @@ Assuming the world doesn't end first, of course.
 **Jason:**
 'Cause when that happens, me, you, and everyone else here are ALL gonna vanish without a trace! 
  
-**? ? ? :**
+**???:**
 So this is what it looks like when somebody truly doesn't give a shit anymore, huh? 
  
-**? ? ? :**
+**???:**
 Well, either way, there's not a whole lot left that I can do about any of it at this point. 
  
 **Jason:**
@@ -8789,7 +8789,7 @@ Hey, barkeep, where's that nag Corday got off to?
 **Jason:**
 It feels like it's been a few days or so since I last saw her. 
  
-**? ? ? :**
+**???:**
 You sure she didn't leave your sorry ass to fend for yourself? 
  
 **Jason:**
@@ -8798,13 +8798,13 @@ She'd never do that.
 **Jason:**
 She can't even bear the idea of turning her back on someone, let alone actually do it. 
  
-**? ? ? :**
+**???:**
 So even though you know that about her, you're still not shy about running her ragged, huh. You're a real piece of work, aren't you? 
  
 **Jason:**
 Believe me, it's not like I asked for her help. I'd just as soon she leave me alone. 
  
-**? ? ? :**
+**???:**
 Well anyway, Corday said she was going to look for medicinal herbs on another island about three days ago. 
  
 **Jason:**
@@ -8813,7 +8813,7 @@ Medicinal herbs? So she left the village? All on her own?
 **Jason:**
 ...Ugh, I swear. Didn't she ever stop to think about what could happen if she ran into some border guards? 
  
-**? ? ? :**
+**???:**
 So what, you're not gonna go save her? 
  
 **Jason:**
@@ -8825,7 +8825,7 @@ And it's not like Servants leave a body behind when they die.
 **Jason:**
 The best I can do is properly mourn her if she never comes back. 
  
-**? ? ? :**
+**???:**
 Oh? Looks like you're not gonna get the chance this time. 
  
 **Jason:**
@@ -8957,7 +8957,7 @@ I guess you could say that...
 I guess the best thing to say here is“Long time no see,” Master? 
  
 **Jason:**
-We're not acquaintances! We're sworn enemies! Eh! Neh! Mees! ! ! 
+We're not acquaintances! We're sworn enemies! Eh! Neh! Mees!!! 
  
 **Mash:**
 Um...That almost sounds like you still have memories of Okeanos, Jason...
@@ -9361,7 +9361,7 @@ You got it. You're a real easygoing sort, aren't you?
 **Charlotte Corday:**
 Ahaha, maybe so, but that's one thing I like about {(M) him /(F) her}! Anyway, here goes nothing! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jason:**
 There, it's done! I lost, you won! Now go on, scram! 
@@ -9549,7 +9549,7 @@ A sharp pain shoots through my entire body whenever I pull out an arrow.
 **Narration:**
 It never gets any easier to deal with,no matter how many times I do it. 
  
-**? ? ? :**
+**???:**
 You know, I still don't get why Servants even have to feel pain at all. 
  
 **Narration:**
@@ -9564,7 +9564,7 @@ Any hero knows hesitating or letting your guard down, even just for a moment, ca
 **Narration:**
 I feel like a walking mountain of arrogance. It makes me sick. 
  
-**? ? ? :**
+**???:**
 So...What should I do now? 
  
 **Narration:**
@@ -9585,7 +9585,7 @@ Someone who lent him her power. Someone he needs to take away from all this.
 **Narration:**
 She is a god. 
  
-**? ? ? :**
+**???:**
 ...The heavens probably aren't going to be too happy with stars moving about on their own. 
  
 **Narration:**
@@ -9597,7 +9597,7 @@ It is precisely that position of neutrality that is her reason for existing.
 **Narration:**
 Justice. Scales. Judgment. 
  
-**? ? ? :**
+**???:**
 ...Still, this isn't very impartial, is it? 
  
 **Narration:**
@@ -9891,7 +9891,7 @@ I wish you'd done that sooner. It suits you way better.
 **Artemis:**
 I think that's the last thing I'm meant to do. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Atlantis Border Guard:**
 ......
@@ -9962,7 +9962,7 @@ A Demonic Beast? I don't see any&ndash;
 **Charlotte Corday:**
 It's me! Surpriiise! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mandricardo:**
 Now we just destroy their weapons...Tie 'em up...And...
@@ -10338,7 +10338,7 @@ Isn't that a good thing?
 **Mandricardo:**
 ...Well, yeah, I guess. 
  
-**? ? ? :**
+**???:**
  
 I'm gonna be a soldier! 
  
@@ -10672,7 +10672,7 @@ You mean the ones stationed at the temple to the north?
 ......
  
 **Jason:**
-You idiots! ! ! 
+You idiots!!! 
  
 **Jason:**
 What the hell were you lot thinking!? Now it's only a matter of time until Odysseus realizes we're here! 
@@ -10805,18 +10805,18 @@ Artemis is going to fire her cannon at this island in order to take you guys out
  
 **All:**
  
-! ! ! 
+!!! 
  
-**? ? ? :**
+**???:**
 He's telling the truth. The main unit has already begun preparations. 
  
-**? ? ? :**
+**???:**
 It won't be long now before she fires the cannon. 
  
 **Mash:**
 Who are&ndash;
  
-**? ? ? :**
+**???:**
 I am Artemis. I rule over the Greek skies and stars. 
  
 **A：Heracles Island Resident:**
@@ -10921,7 +10921,7 @@ Oh, right. I almost forgot.
 You nonislanders should probably run for it while you still can. 
  
 **Mash:**
-But...I...We can't! ! 
+But...I...We can't!! 
  
 **Timi:**
 ......
@@ -11247,7 +11247,7 @@ The trick to survival is to use whomever you've got! That goes for parents, love
 **Jason:**
 All right! All hands, ready your weapons! We need to finish this lightning quick! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jason:**
 (Huff, huff, huff...)Ugh, I hate feeling so sluggish! 
@@ -11780,7 +11780,7 @@ Not a problem. All right...Set sail for Hecate Island!
 **Jason:**
 We can worry about what sort of hellscape awaits us there after we've finished making our getaway! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Atlantis Border Guard:**
 We've confirmed that Heracles Island has been obliterated. 
@@ -11851,7 +11851,7 @@ You want 'em taken care of quickly? Then you'd better get in here and help us.
 **Jason:**
 Hmph, fine. Ugh, this is such a pain! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Goredolf:**
 ......
@@ -12379,7 +12379,7 @@ Whoa, that does feel pretty g&ndash;Gyaaah! Ow, ow, ow, ow!
 Good lord, woman! How can such small shoulders be so stiff!? This is exactly what comes from being sedentary! 
  
 **Da Vinci:**
-Arrrgh! Oh, wait, I think it's working pretty we&ndash;Nope, still hurts like heeell! ! ! 
+Arrrgh! Oh, wait, I think it's working pretty we&ndash;Nope, still hurts like heeell!!! 
  
 **Holmes:**
 Well, look on the bright side: at least you're finally getting all that tension out. 
@@ -12521,7 +12521,7 @@ Let's see, who was it...?
 You're thinking of Hektor. 
  
 **Mandricardo:**
-! ! ! 
+!!! 
  
 **Mash:**
 Right! It was Hektor! 
@@ -12536,7 +12536,7 @@ Right! It was Hektor!
 That line...Right! It was Hektor! 
  
 **Mandricardo:**
-! ! ! 
+!!! 
  
 
 ---
@@ -13063,7 +13063,7 @@ Oh, but trust me, it's not much of a cliff-hanger. Not to get too spoilery, but 
 **Narration:**
 It ends with me being a dumbass. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jason:**
 ......
@@ -13209,7 +13209,7 @@ Either way, it looks like a safe bet that there's something in that cave we'll p
 **Mandricardo:**
 Just say the word, Master,and we'll sneak up and take them by surprise! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 This looks just like the interior of the temples we've seen here...
@@ -13277,7 +13277,7 @@ Now then...
 Hello! I'm glad you're here! 
  
 **Jason:**
-Gah! You scared me! ! ! 
+Gah! You scared me!!! 
  
 **Jason:**
 Wait, what is this? Some sort of hologram or something? 
@@ -13480,10 +13480,10 @@ I-I see. Well, that's a relief...
 Hey, Medea's on your shoulder! 
  
 **Jason:**
-Aaahhh get her off get her off get her oooff! ! ! 
+Aaahhh get her off get her off get her oooff!!! 
  
 **Jason:**
-Fujimaru...Don't. Even. Joke. Not about that. Not ever! ! ! 
+Fujimaru...Don't. Even. Joke. Not about that. Not ever!!! 
  
 **Jason:**
 (Sigh) I swear...
@@ -13624,7 +13624,7 @@ I have no interest in your and Kirschtaria's trust issues. If you have any objec
 Oh, you better believe I'm gonna object. I'm gonna object my spear right through his goddamn head. 
  
 **Caenis:**
-I'm so pissed off I can hardly see straight. “Only two more times” my ass! That son of a bitch and his frigging plan! ! 
+I'm so pissed off I can hardly see straight. “Only two more times” my ass! That son of a bitch and his frigging plan!! 
  
 **Odysseus:**
 Hm? What did you just say? Two more times for what? 
@@ -13642,7 +13642,7 @@ He said, “My plan is perfect. I can already see how this will all end. ”
 And one of those times is gonna be with those freakin' weaklings!? 
  
 **Caenis:**
-That bastard...That goddamn bastard! ! ! That does it! I'm tired of playing it nice. 
+That bastard...That goddamn bastard!!! That does it! I'm tired of playing it nice. 
  
 **Caenis:**
 Kirschtaria can find out I've taken care of Chaldea myself after I've wiped them from the face of the Earth! 
@@ -13656,7 +13656,7 @@ Well, whoever finds them first, be it my troops, Caenis, or Kirschtaria, it's cl
 **Odysseus:**
 Enemy or not, I almost feel sorry for them. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jason:**
 All right, there should be something here on Deimos Island that can lead us to our next, um, lead...
@@ -13983,7 +13983,7 @@ All hands, battle formations!
 **Mandricardo:**
 You guys stumble too!? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 That was a difficult battle...though not for the usual reasons...
@@ -14068,7 +14068,7 @@ Shut up, Jason.
 **Jason:**
 Ouch! That's harsh, coming from you! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mandricardo:**
 Yikes. The hell happened here? 
@@ -14161,7 +14161,7 @@ Understood.
 **Mash:**
 You're right, we are intruders. But while I'm sorry to have to do this, we're not going to let that stop us from eliminating you! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Orion:**
 Alley-oop! 
@@ -14254,7 +14254,7 @@ Guess I'll sit down for a bit then.
 ---
 
 **Fujimaru 1:**
-Aaaaaahhh! ! ! 
+Aaaaaahhh!!! 
  
 **Mandricardo:**
 I think that scream literally curdled my blood! What is it, Master!? 
@@ -14263,7 +14263,7 @@ I think that scream literally curdled my blood! What is it, Master!?
 ---
 
 **Fujimaru 2:**
-Eeeeeekkk! ! ! 
+Eeeeeekkk!!! 
  
 **Mash:**
 Was that piercing shriek you, Master!? 
@@ -14275,16 +14275,16 @@ Was that piercing shriek you, Master!?
 **Mash & Mandricardo:**
 Wha&ndash;What the...!? A haaaaaand!? 
  
-**? ? ? :**
+**???:**
 (Zzz)
  
-**? ? ? :**
+**???:**
 Ngh...Keep it down, would you? 
  
-**? ? ? :**
+**???:**
 Aah! Where am I? WHO am I!? 
  
-**? ? ? :**
+**???:**
 Oh, right. I can tell from this scent that I must be in the ground! 
  
 ---
@@ -14300,10 +14300,10 @@ The hand is moving!
 ---
 
  
-**? ? ? :**
+**???:**
 Then the answer is easy. Kouga Ninja Art: Earth Evasion! 
  
-**? ? ? :**
+**???:**
 Ahhh! It feels good to breathe worldly air again. 
  
 **Mash:**
@@ -14331,10 +14331,10 @@ So, um, may I ask your name?
 ---
 
  
-**? ? ? :**
+**???:**
 Oh yes, you must be from Chaldea. Forgive me for not introducing myself sooner. 
  
-**? ? ? :**
+**???:**
 My True Name is Mochizuki Chiyome. I am a Kouga Jounin and an Assassin. 
  
 **Mash:**
@@ -14488,7 +14488,7 @@ First, let us call for Lord Jason. He should be present for this discussion.
 **Charlotte Corday:**
 Okay, I'll go get him right away! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jason:**
 All right, what's this all about? Why did you want me to come inside? 
@@ -14652,7 +14652,7 @@ After all, if Lord Jason is with them, it won't be much of a secret that I was h
 **E：? ? ? :**
 I'm Medea, student of the goddess Hecate. 
  
-**? ? ? :**
+**???:**
 Guess I'll go ahead and reveal my True Name too then! I'm Sakata Kintoki, ready and golden! 
  
 **Sakata Kintoki:**
@@ -14754,7 +14754,7 @@ Hephaestus, god of the forge,is there right now.
 **P. A. System:**
 Initiating encrypted connection. 
  
-**? ? ? :**
+**???:**
 &mdash;, &mdash;. &mdash;. 
  
 ---
@@ -14768,10 +14768,10 @@ It sounds like...someone's trying to say something...
 **P. A. System:**
 Activating automatic response program. 
  
-**? ? ? :**
+**???:**
 ...If this system's been activated,that must mean...
  
-**? ? ? :**
+**???:**
 ...I was destroyed. 
  
 **Mochizuki Chiyome:**
@@ -15666,10 +15666,10 @@ And given the sheer amount of magical energy we're seeing, it must be Caenis!
 **Mochizuki Chiyome:**
 Huh? I don't know what all the commotion is about,but surely if we all band together&ndash;
  
-**? ? ? :**
+**???:**
 Hah! That's rich. A buncha weaklings banding together to try and step up to the big leagues. Adorable. 
  
-**? ? ? :**
+**???:**
 But unfortunately for you, this isn't a fairy tale,and you won't be living happily ever after! 
  
 **Mochizuki Chiyome:**
@@ -15814,7 +15814,7 @@ Like hell I will! Let's go, everyone!
 **Caenis:**
 You idiots aren't going anywhere! Your little voyage ends here! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 It's no use! Our attacks just aren't working! 
@@ -15876,7 +15876,7 @@ Did you just...hurt Caenis's feelings?
 
  
 **Jason:**
-! ! ! 
+!!! 
  
 **Jason:**
 Master! Give me that thing you got from Drake! 
@@ -15969,7 +15969,7 @@ How else could I have managed to hurt you?
 Orion! Here! 
  
 **Orion:**
-Rrraaahhh! ! ! 
+Rrraaahhh!!! 
  
 **Caenis:**
 What...!? 
@@ -15999,7 +15999,7 @@ I might've only been able to scratch you, but I bet Orion's attack hit a lot har
 And I'm sure I don't have to tell you why that is, right? 
  
 **Caenis:**
-Now I see. You...You're that son of a bitch's kid! ! ! 
+Now I see. You...You're that son of a bitch's kid!!! 
  
 **Jason:**
 Orion! It's all up to you! Your attacks should pack a real punch now! 
@@ -16010,7 +16010,7 @@ Caenis's Noble Phantasm might be strong,but it can't last forever!
 **Orion:**
 Got it! Don't worry! I'll make sure to smash it to pieces! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Caenis:**
 Khh...Ghh...! 
@@ -16071,10 +16071,10 @@ Um, excuse me, but I think...there's something else headed our way...
 **Mash:**
 Ah&ndash;
  
-**? ? ? :**
+**???:**
 I can't let you do that. He's still useful to me. 
  
-**? ? ? :**
+**???:**
 I am truly sorry, members of Chaldea, but I am afraid that I must destroy you now. 
  
 **Meunière:**
@@ -16100,7 +16100,7 @@ Kirschtaria Wodime...
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Kirschtaria:**
 It's been a long time, Mash Kyrielight. 
@@ -16401,7 +16401,7 @@ Master!
 **Mash:**
 Here goes! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Narration:**
 It was as though the stars themselves fell upon their heads. 
@@ -16442,12 +16442,12 @@ Aaah...Khh...
 ---
 
 **Fujimaru 1:**
-Maaash! ! ! 
+Maaash!!! 
 
 ---
 
 **Fujimaru 2:**
-Nooo! ! ! 
+Nooo!!! 
  
 
 ---
@@ -16515,7 +16515,7 @@ Even the Beast whose true nature nobody knows hasn't had any power to call his o
 **Fujimaru Monologue:**
 I have no way of avoiding death. Command Spells, magecraft, the team in the Border...None of it can do any good now. 
  
-**? ? ? :**
+**???:**
 &mdash;. 
  
 **Fujimaru Monologue:**
@@ -16530,7 +16530,7 @@ I can't tell what she's feeling, nor can I hear what she's saying, but somehow, 
  
 She's looking at me sprawled out and helpless,and she's mocking me. Cursing me. Despising me. 
  
-**? ? ? :**
+**???:**
 “Begone. ”
  
 **Kirschtaria:**
@@ -16628,7 +16628,7 @@ Farewell then, Doctor.
 **Kirschtaria:**
 I doubt we'll ever see each other again, so let me leave you with one word of caution: this impression of yours is not particularly convincing. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 ...
@@ -16653,7 +16653,7 @@ Doc&ndash;
 ---
 
 **Fujimaru 1:**
-Doctor! ! ! 
+Doctor!!! 
  
 
 ---
@@ -16768,7 +16768,7 @@ All right, you can take your time and tell us all about what happened later.
 **Da Vinci:**
 Right now, we need to get out of here, pronto. Come on, hurry! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Caenis:**
 Khh...Let go of me...Castor! 
@@ -16834,7 +16834,7 @@ Exactly. Of course he didn't. In the end, Caenis...
 ...! 
  
 **Caenis:**
-Gah...! ! ! 
+Gah...!!! 
  
 **Dioscuri - Pollux:**
 We'll have to thank everyone at Chaldea for this opportunity. Though of course, I'm sure they're all dead now. 
@@ -16867,13 +16867,13 @@ I still haven't avenged the miracle of me being summoned as a Heroic Spirit...I 
 And above all...I still need to pay him back for putting this collar on me...! 
  
 **Caenis:**
-I've got to...pay him back! I NEED to pay him back! ! 
+I've got to...pay him back! I NEED to pay him back!! 
  
 **Caenis:**
 Kirschtaria...Kirschtaria...
  
 **Caenis:**
-KIRSCHTARIAaaaAAA! ! ! 
+KIRSCHTARIAaaaAAA!!! 
  
 **Goredolf:**
 Wh-wh-what's going on? What in the world just happened!? 
@@ -17413,13 +17413,13 @@ So it does. Should we check it out?
 **Jason:**
 Hmm...No, that's okay. Our first priority right now is finding Achilles. 
  
-**? ? ? :**
+**???:**
 Hold it right there! 
  
 **Jason:**
 Gah! Wh-what's this all about!? 
  
-**? ? ? :**
+**???:**
 You're just going to pass by my island without so much as a glance? How dare you insult a god like that!? 
  
 **Jason:**
@@ -17431,25 +17431,25 @@ Crap! You're a god!?
 **Jason:**
 You're probably just some river-god or mountain-god or some other minor deity, right? 
  
-**? ? ? :**
+**???:**
 Your tone of voice makes it clear you're not giving me the respect I deserve! 
  
 **Jason:**
 Well if nothing else, I'm pretty sure you're not one of the Twelve Olympians. 
  
-**? ? ? :**
+**???:**
 True, I am not. 
  
-**? ? ? :**
+**???:**
 But I do have enough power to stop your ship in its tracks. 
  
 **Jason:**
 What's your name? 
  
-**? ? ? :**
+**???:**
 I will reveal that later, when we come face-to-face. For now, I merely bid you welcome to...
  
-**? ? ? :**
+**???:**
 Astraea Island. 
  
 **Jason:**
@@ -17547,7 +17547,7 @@ It wasn't me! You've got it all wrong! {(M) He /(F) She} did it!
 ---
 
 **Fujimaru 1:**
-Hold the hell up! ! ! 
+Hold the hell up!!! 
 
 ---
 
@@ -17595,9 +17595,9 @@ Very well then. As a sign of respect for your determination...
 ...I am willing to forgive your sins if you prove yourselves capable of winning by a fall even just once. 
  
 **Astraea:**
-Now, have at you! ! ! 
+Now, have at you!!! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 (Huff, huff, huff...)
@@ -17649,7 +17649,7 @@ Part of me would like nothing more than to weigh you on my scales once again, bu
 **Astraea:**
 Come with me. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jason:**
 I see you have an entire mountain's worth of statues here as well. 
@@ -17943,7 +17943,7 @@ Very well. Then let's have you start with a Spriggan.
 **Orion:**
 Hoo boy. Welp, guess I'll just have to do the best I can! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Astraea:**
 ...Very well. 
@@ -18005,7 +18005,7 @@ However...Hehe, dealing with serpents happens to be something of a specialty of 
 **Mochizuki Chiyome:**
 So I will take this opportunity to demonstrate to Master just how devastatingly deadly a Kouga Jounin can truly be! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Astraea:**
 Enough. 
@@ -18165,7 +18165,7 @@ All right, let's do this!
 **Astraea:**
 ...Very well then. Let's see what you've got! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mandricardo:**
 (Gasp, gasp, gasp, gasp)...I-I seriously thought I was done for...
@@ -18321,7 +18321,7 @@ His body was just as finely honed as Rasputin's, but he had both a cold sharpnes
 His True Name was Senji Muramasa. He was a very handsome man who had mastered a hundred swords and a thousand sword techniques. 
  
 **A：All:**
-! ! ! 
+!!! 
  
 ---
 
@@ -18629,12 +18629,12 @@ All right, next stop, Thetis Island. For real this time.
 **Jason:**
 Cast off! 
  
-**--ARROW--:**
+**--ARROW--**
  
-**? ? ? :**
+**???:**
 (Huff, huff, huff...)
  
-**? ? ? :**
+**???:**
 Hey, you think you're gonna be okay, Paris? 
  
 **Paris:**
@@ -18742,7 +18742,7 @@ Sorry, but there's no way any of you are walking away from this.
 **Achilles:**
 I'm way too pissed off to go easy on you! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Achilles:**
 Ha! 
@@ -18840,7 +18840,7 @@ Here I come!
 **Achilles:**
 Bring it! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jason:**
 Well, we're here...
@@ -18997,12 +18997,12 @@ Troias Tragō&ndash;
 ---
 
 **Fujimaru 1:**
-Stop! ! ! 
+Stop!!! 
 
 ---
 
 **Fujimaru 2:**
-That's enough! ! ! 
+That's enough!!! 
 
 ---
 
@@ -19517,7 +19517,7 @@ Don't worry. I'll lend you a hand if you need it!
 **Paris:**
 Don't bother! I won't need your help! ...I won't! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Paris:**
 Phew...
@@ -19864,7 +19864,7 @@ Far as I'm concerned,there's no greater hero than Hektor.
 **Mandricardo:**
 So if I ever get a chance to meet him, well...I wanna be able to face him with pride. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jason:**
 All right. 
@@ -20133,7 +20133,7 @@ Here I go!
 **Paris:**
 For the record, the strongest hero of the Trojan War was my brother, Hektor! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Achilles:**
 Annnd done. Well, Master? Whatcha think? 
@@ -20785,7 +20785,7 @@ I think I'm gonna sleep really well tonight!
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Bartholomew:**
 ...And ever since that day, I vowed to never stop loving hidden eyes for as long as I lived. 
@@ -21318,7 +21318,7 @@ That got me wondering whether I even deserved to be part of something so wonderf
 **Charlotte Corday:**
 And that's why I started crying. 
  
-**? ? ? :**
+**???:**
 It is through this servitude that your life will have meaning. 
  
 ---
@@ -21561,7 +21561,7 @@ I just decided that from now on, I'm going to focus on completing the task at ha
 **Charlotte Corday:**
 All right, let's do this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jason:**
 That takes care of them...
@@ -21734,10 +21734,10 @@ Oh?
 Name me ONE thing about you that surpasses Heracles in any way! 
  
 **Orion:**
-My good looks! ! ! 
+My good looks!!! 
  
 **Jason:**
-He and I've both got you beat there! ! ! 
+He and I've both got you beat there!!! 
  
 ---
 
@@ -21854,7 +21854,7 @@ Looks like that might be our only choice...
 Then I will try speaking to him casually,so that he does not think us suspicious. 
  
 **Mochizuki Chiyome:**
-Hiya there! ! ! 
+Hiya there!!! 
  
 **Perse Island Hunter:**
 Wha...!? Who're you!? 
@@ -22033,7 +22033,7 @@ That being said, we have thus far only seen how these exiled Atlanteans view thi
 **Holmes:**
 Whereas the people who live in Olympus near the top of the Tree of Emptiness may well see things differently. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Perse Island Resident:**
 Hon! You're back! 
@@ -22199,7 +22199,7 @@ And cuteness is one of a kunoichi's primary weapons,so it only makes sense that 
 What I am trying to say, Master, is that you must have unwittingly fallen prey to my kunoichi charms! 
  
 **Mochizuki Chiyome:**
-...You have my sympathies! ! ! 
+...You have my sympathies!!! 
  
 **Jason:**
 Dammit, Master, you've got to be more careful with complimenting that one. 
@@ -22635,7 +22635,7 @@ You got it, Fujimaru!
 **Both:**
 Let's do this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 
 ---
@@ -22665,10 +22665,10 @@ It's hard to keep track of two battlefronts at once...
 
  
 **Orion:**
-Hraaah! ! ! 
+Hraaah!!! 
  
 **Achilles:**
-All right! ! ! 
+All right!!! 
  
 **Orion:**
 Since we both got the same number of kills, that means I win! 
@@ -22746,7 +22746,7 @@ Now that Lord Hephaestus's presence is getting stronger, I should have no diffic
 **Mochizuki Chiyome:**
 Follow me! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 I know we expected as much, but...this labyrinth certainly is long, isn't it? 
@@ -22842,7 +22842,7 @@ Great. I'll leave you to it then.
 Understood. Acupressure it is then. 
  
 **Jason:**
-! ! ! 
+!!! 
  
 **Mochizuki Chiyome:**
 Hmm. 
@@ -22854,7 +22854,7 @@ I was not aware that Servants could build up exhaustion to this degree.
 Here we go. 
  
 **Jason:**
-...! ......! ! ! 
+...! ......!!! 
  
 **Mochizuki Chiyome:**
 It seems you have something of a bad liver. For that, I need to really dig in, as if I were trying to gouge the pressure point right out of you. 
@@ -23133,7 +23133,7 @@ The important thing is, we're here now.
 ---
 
 **Fujimaru 1:**
-Hephaestuuus! ! ! 
+Hephaestuuus!!! 
 
 ---
 
@@ -23227,9 +23227,9 @@ THAT's me!?
 Dammit, I can already tell this is gonna be a huge pain in the ass, but fine, I'll do it! 
  
 **Orion:**
-Bring it on! ! ! 
+Bring it on!!! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Orion:**
 ...There! 
@@ -23491,7 +23491,7 @@ I've got a secret to tell you.
 **Jason:**
 I saw you telling Corday about it before, but so you&ndash;
  
-**--ARROW--:**
+**--ARROW--**
  
 **Orion:**
 ...(Sigh) Waiting around like this with nothing to do is so boring. 
@@ -23899,7 +23899,7 @@ Shit, it's going after Hephaestus! Master, we've gotta keep him safe no matter w
 **Achilles:**
 If this thing gets through, that's it! It'll be all over for us! So come on, let's go! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Charlotte Corday:**
 I-I'm sorry! I wish there was something I could do to help! 
@@ -23943,7 +23943,7 @@ Hey, I'm a hunter! Taking down dangerous beasts is my thing! If I can just lure 
 **Orion:**
 Put me in, Master! You won't regret it! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Atlantis Border Guard:**
 Cerberus has entered its combat form. We believe it should encounter the enemy shortly. 
@@ -24006,7 +24006,7 @@ What did you say?
 External intervention confirmed. 
  
 **Holmes:**
-...Run! ! ! 
+...Run!!! 
  
 **Holmes:**
 Odysseus means to have Cerberus go berserk! 
@@ -24362,7 +24362,7 @@ First things first: we need to stop her!
 **Jason:**
 Everything else can wait until after that! Come on! Take up your weapons! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Charlotte Corday:**
 Aaaaaaaaahhh! 
@@ -24382,7 +24382,7 @@ This is horrible!
 ...! 
  
 **Orion:**
-Wait! ! ! 
+Wait!!! 
  
 **Mandricardo:**
 ...!? 
@@ -24423,7 +24423,7 @@ It'd be real easy to put her out of her misery now. All I'd have to do is smash 
 ---
 
 **Fujimaru 1:**
-No way! ! ! 
+No way!!! 
 
 ---
 
@@ -24873,7 +24873,7 @@ I recommend taking immediate shelter. Repeat: I recommend taking immediate shelt
  
 **All:**
  
-! ! ! 
+!!! 
  
 **Orion:**
 Artemis!? 
@@ -25565,7 +25565,7 @@ I'm counting on your help, Lord Apollo! Yaaa!
 **Apollo:**
 Wait, you meant as an actual baaall!? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mochizuki Chiyome:**
 They were much stronger than I thought! 
@@ -25681,7 +25681,7 @@ Good luck!
 **Mash:**
 Here come the Athena Klironomia! I'll start the extraction procedure! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Athena Klironomia extraction complete. It looks like there's only enough for one Servant. 
@@ -25745,7 +25745,7 @@ Right. Let's go!
 ---
 
  
-**? ? ? :**
+**???:**
 I see {(M) him /(F) her}. I'm taking the shot. 
  
 **Achilles:**
@@ -25803,7 +25803,7 @@ Mash! Your shield!
 **Mash:**
 Khh...! 
  
-**? ? ? :**
+**???:**
  
 Oh, what a shame. I missed. 
  
@@ -25876,7 +25876,7 @@ Whatever you guys do, don't let your guard down! I'm gonna do everything I can t
 **Achilles:**
 Don't expect much support from {(M) him /(F) her}! I'm not planning to stop for anything! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Chiron:**
 ...! 
@@ -26072,7 +26072,7 @@ This is my Noble Phantasm...
 Serment de Durendal! 
  
 **Chiron:**
-! ! ! 
+!!! 
  
 **Mandricardo:**
 Come on, let's get out of here! 
@@ -26215,7 +26215,7 @@ I'm counting on you, comrade.
 **Chiron:**
 Worry not, comrade. I have everything well in hand. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mandricardo:**
 Sorry I'm late! 
@@ -26383,7 +26383,7 @@ Understood!
 ...Here goes! 
  
 **Charlotte Corday:**
-...! ! ! ...Ow! Ow ow ow ow ow owww! 
+...!!! ...Ow! Ow ow ow ow ow owww! 
  
 **Charlotte Corday:**
 Ah&ndash;aaaaaaaaahhh! 
@@ -26489,10 +26489,10 @@ What's the point? I'm not worth it.
 **Narration:**
 What am I even doing here? 
  
-**? ? ? :**
+**???:**
 There, the Hephaestus Klironomia are all out! 
  
-**? ? ? :**
+**???:**
 Now we just have to see if the Athena Klironomia can win! 
  
 **Narration:**
@@ -26953,10 +26953,10 @@ Either way, my captain's intuition tells me we're going to have something amazin
 Are you all ready!? 
  
 **Nemo Marine:**
-Aye, aye, Captain! ! ! 
+Aye, aye, Captain!!! 
  
 **Nemo Nurse:**
-Aye, aye, Captain! ! ! 
+Aye, aye, Captain!!! 
  
 **Nemo Professor:**
 The Hephaestus Klironomia are prepped and ready for administration, sir. 
@@ -27397,7 +27397,7 @@ Which is why I'm going to trust you with the most important job of all.
 **Charlotte Corday:**
 ...Okay! 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -28262,7 +28262,7 @@ We're almost at Nemesis Island...
 **Nemo:**
 I guess that means it's time for the final battle. 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -28443,7 +28443,7 @@ This is the Royal Fortune. I'm all set.
 On my honor as The Courier, I promise I'll deliver Orion to Nemesis Island as fast as I possibly can. 
  
 **A：Jason:**
-Move out! ! ! 
+Move out!!! 
  
 ## Section 21: Challenge: Breaking Through the Distant Seas 
  
@@ -28513,7 +28513,7 @@ We're under attack!
 **Mandricardo:**
 You heard Jason. We're gonna get in and get out! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mandricardo:**
 Mash! 
@@ -28542,7 +28542,7 @@ I'm also guessing we'll only be able to do this one or two more times at most!
 **Jason:**
 Still, that'll be one or two fewer ships to worry about later! Now get going! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Atlantis Border Guard:**
 Why you...! 
@@ -28644,7 +28644,7 @@ So there you have it, Lostbelt Chiron.
 I owe a whole lot to my teacher...But you ain't him. 
  
 **Achilles:**
-So don't expect me to hold back...now that it's time to kill you! ! ! 
+So don't expect me to hold back...now that it's time to kill you!!! 
  
 ## Section 22: Those Who Drive Through the Storm 
  
@@ -28771,7 +28771,7 @@ And be ready to fend off a veritable mountain of them!
 **Mandricardo:**
 You got it! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jason:**
 Dammit, they're starting to catch on to us! Look out! They're throwing two ships at us now! 
@@ -28800,7 +28800,7 @@ Will do!
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **A：Xanthos:**
 I never dreamed I'd one day be carrying my rider's mortal enemy. But I guess now's no time to complain. I should get off my high horse! Guheehee. 
@@ -28830,13 +28830,13 @@ What kind of throwback mascot are you supposed to be?
 I'm an ANCIENT Greek god, thank you very much. 
  
 **A：Paris:**
-Okay, let's do this! ! 
+Okay, let's do this!! 
  
 **Atlantis Border Guard:**
 !? 
  
 **B：Atlantis Border Guard:**
-Enemy detected, nine o'clock high! Take that chariot down! ! ! 
+Enemy detected, nine o'clock high! Take that chariot down!!! 
  
 **A：Paris:**
 Look out, Xanthos! 
@@ -28873,7 +28873,7 @@ Yes way, it would seem.
 Well, shit. 
  
 **A：Paris:**
-R-ruuun! ! ! 
+R-ruuun!!! 
  
 **Jason:**
 A new kind of enemy!? Dammit, I didn't plan for these guys! 
@@ -28898,7 +28898,7 @@ No!
 **Jason:**
 All we can do now is wade into the fight and win! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Holmes:**
 ......
@@ -28967,7 +28967,7 @@ Dive, dive, dive! Hard to port!
 Aaah! 
  
 **Goredolf:**
-Oh gods, I'm gonna be siiick! ! ! 
+Oh gods, I'm gonna be siiick!!! 
  
 **Atlantis Border Guard:**
 We did what you told us, sir. 
@@ -29081,7 +29081,7 @@ Okay then, let's go. I'll trust your pirate instincts.
 Let's go back them up! 
  
 **Mandricardo:**
-Raaaaaah! ! ! 
+Raaaaaah!!! 
  
 **F：Mandricardo:**
 Who's next!? 
@@ -29198,7 +29198,7 @@ You got it, Mandricardo!
 **F：Mandricardo:**
 ......Haha! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **A：Apollo:**
 There! There! There too! 
@@ -29371,7 +29371,7 @@ My name is Achilles! I am the strongest hero Greece has ever known!
 **Achilles:**
 If your third-rate asses think you got a chance against me, then take your best shot! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Atlantis Border Guard:**
 Reporting, sir! 
@@ -29418,7 +29418,7 @@ Jason's ship was originally headed for Nemesis Island, but now it's headed for B
 **Odysseus:**
 Set a course to cut them off immediately. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jason:**
 Good, it looks like we'll be able to rendezvous. 
@@ -29586,7 +29586,7 @@ Hephaestus Klironomia...maximum power!
 **Mandricardo:**
 All right, let's go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mandricardo:**
 Haaaaaa! 
@@ -29652,7 +29652,7 @@ Orion!
 Don't worry. I can figure out a way to&ndash;
  
 **Bartholomew:**
-It's a trap! ! ! 
+It's a trap!!! 
  
 **Bartholomew:**
 There's another one! 
@@ -29837,7 +29837,7 @@ Chiron, would you take over for me while I&ndash;
 What's going on? 
  
 **A：Atlantis Border Guard:**
-S-sir! Urgent message! ! ! 
+S-sir! Urgent message!!! 
  
 **A：Atlantis Border Guard:**
 The Echidna's, um...started to go berserk, sir! 
@@ -30130,7 +30130,7 @@ Try your best not to slip! Okay, here comes the first enemy formation! Hard to s
 **Mash:**
 More enemy ships are drawing near! Awaiting your orders, Master! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Bartholomew:**
 We still need to evade the enemy at least twice...But I don't see how we can pull it off! 
@@ -30206,7 +30206,7 @@ Some are fighting Demonic Beasts, so if we play our cards right, we might be abl
 **Mandricardo:**
 Got it. Then let's come up with a plan that takes all that into account! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mandricardo:**
 All right! 
@@ -30279,7 +30279,7 @@ Khh...! How did...this happen?
 **Paris:**
 I thought Chiyome made the Echidna go berserk! 
  
-**? ? ? :**
+**???:**
 Simple. I'm now controlling it myself. 
  
 **Mash:**
@@ -30303,7 +30303,7 @@ I am Odysseus.
 **Odysseus:**
 The Lostbelt Servant entrusted with defending Atlantis. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
  
@@ -30433,7 +30433,7 @@ Get ready to fight, Master. This will be our last stand on the sea!
 **Mash:**
 Right! I promise I'll do my best! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We've been hitting it over and over,but it just won't stop moving! 
@@ -30489,28 +30489,28 @@ You are our enemy; your judgment means nothing to us. My duty is to ensure we pr
 **Odysseus:**
 So I will use all that I must to secure victory. 
  
-**? ? ? :**
+**???:**
  
 ...And that's why you've lost, Lord Odysseus. 
  
-**? ? ? :**
+**???:**
  
 You may know all about how to use people,but you know nothing of how to love them anymore. 
  
-**? ? ? :**
+**???:**
  
 Not when your beloved Penelope never even existed in this world. 
  
 **Odysseus:**
-! ! ! 
+!!! 
  
-**? ? ? :**
+**???:**
 Le Rêve Ensoleillé! 
  
 **Odysseus:**
 ...! 
  
-**? ? ? :**
+**???:**
 Ah&ndash;
  
 **Odysseus:**
@@ -30537,7 +30537,7 @@ I suppose you deserve some credit for managing to hide your intent to kill me up
 ---
 
 **Fujimaru 1:**
-Charlotte! ! ! 
+Charlotte!!! 
 
 ---
 
@@ -30549,10 +30549,10 @@ Master...
 Farewell, my Servant. 
  
 **Mash:**
-...! ! ! 
+...!!! 
  
 **Mandricardo:**
-You bastard! ! ! 
+You bastard!!! 
  
 **Odysseus:**
 Did you truly expect to catch me off guard with such a pathetic attempt at a sneak attack? 
@@ -30739,7 +30739,7 @@ Goodbye forever, my love.
 ---
 
 **Fujimaru 1:**
-Charlotte! ! ! 
+Charlotte!!! 
 
 ---
 
@@ -30823,7 +30823,7 @@ Dammit, we're so close!
 Got it! I'll go pull it off right&ndash;
  
 **Atlantis Border Guard:**
-Oh, no you don't! ! ! 
+Oh, no you don't!!! 
  
 **Paris:**
 Come on...Just a little...longer! 
@@ -30850,7 +30850,7 @@ I'll hit 'em with my Noble Phantasm! I just hope the shock wave doesn't come bac
 **Mandricardo:**
 (Is this gonna be enough to contain it? ...Dammit, I don't know! I hope it is, but&ndash;)
  
-**? ? ? :**
+**???:**
 Out of the waaay! 
  
 **Atlantis Border Guard:**
@@ -30863,7 +30863,7 @@ The Argo! Jason, you son of a gun!
 There, that got the anchor off! Now come on, get out of here already! 
  
 **Bartholomew:**
-You got it! Hard to port! ! ! 
+You got it! Hard to port!!! 
  
 ---
 
@@ -30948,7 +30948,7 @@ Wipe that dumbfounded look off your face! Of course I'm alive!
 ---
 
 **Fujimaru 2:**
-You're alive! ! !? ? ? 
+You're alive!!!? ? ? 
  
 **Jason:**
 Believe me, I'm as surprised as you are! It was way, WAY too close for comfort, but yes, I'm still alive! 
@@ -31312,7 +31312,7 @@ I knew it! Your arms can't handle the strai
 I'm fine! Don't worry about it! 
  
 **Orion:**
-Take a good look, Fujimaru! It's not every day you get to see someone fire a divine bow! ! ! 
+Take a good look, Fujimaru! It's not every day you get to see someone fire a divine bow!!! 
  
 **Mash:**
 Charge complete! Fire at will! 
@@ -31487,7 +31487,7 @@ Never mind that! You need to get out of there! Now!
 Wait. No way. She's getting ready to fire a third shot!? 
  
 **Da Vinci:**
-Run! ! ! 
+Run!!! 
  
 **Mash:**
 ...
@@ -31557,17 +31557,17 @@ Come forth from the circle of binding, Guardian of the Scales!
 ---
 
  
-**? ? ? :**
+**???:**
 ...No need to tell me what's going on. 
  
-**? ? ? :**
+**???:**
 This old man already knows exactly what to do...
  
-**? ? ? :**
+**???:**
 ...a certain green-haired lamebrain filled me in. 
  
 **Paris:**
-! ! ! 
+!!! 
  
 **Mash:**
 It's...
@@ -31762,7 +31762,7 @@ I'll counteract this blast and buy you guys some time. After that, I'm afraid yo
 Wait! Please! There's still so much I want to ask y&ndash;
  
 **Hektor:**
-Paris! ! ! 
+Paris!!! 
  
 **Paris:**
 ...! 
@@ -31812,7 +31812,7 @@ Though my body may fall to pieces,my spear is unbreakable!
 Just like the hope it stands for! 
  
 **Hektor:**
-Go, Durindana! ! ! 
+Go, Durindana!!! 
  
 **Narration:**
 Hektor falls to his knees in agony,his right arm blown to pieces. 
@@ -32001,7 +32001,7 @@ He takes up the now ownerless, ultimate spear,and yells at the top of his lungs:
 I now hold in my hand the weapon I always swore I would: the unbreakable, ultimate sword. 
  
 **Mandricardo:**
-I hereby release its power,so that I may protect my friend! ! ! 
+I hereby release its power,so that I may protect my friend!!! 
  
 **Narration:**
 In that moment, he fulfilled the oath he swore in life. 
@@ -32016,7 +32016,7 @@ It was a new, fantastic Noble Phantasm&ndash;one even he hadn't known existed.
 Here comes my second Noble Phantasm...
  
 **Mandricardo:**
-Rêve de Durendal! ! ! 
+Rêve de Durendal!!! 
  
 **Narration:**
 He stood, facing down the moon goddess herself,and stood firm in the face of her cannon. 
@@ -32069,7 +32069,7 @@ This wasn't something I could do because I'm a Servant.
 **Mandricardo:**
 It's all because I'm your friend! 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -32384,7 +32384,7 @@ An arrow he fires not out of hatred, nor conflict,nor hostility, nor with the de
 ...with compassion, and love. 
  
 **Orion:**
-Ortygia Amore Mio! ! ! 
+Ortygia Amore Mio!!! 
  
 **Narration:**
 A lone arrow, fired for the sole purpose of felling the moon goddess. 
@@ -32782,7 +32782,7 @@ Jason!?
 ---
 
 **Fujimaru 1:**
-Jasooon! ! ! 
+Jasooon!!! 
 
 ---
 
@@ -32850,7 +32850,7 @@ But...No, never mind. It'll be clear enough once we get there.
 **Mash:**
 At any rate, we should be on our way. Let's get going! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 Welcome back, guys! 
@@ -33067,7 +33067,7 @@ Well, everyone, I have some good news.
 We've finally arrived at the Great Pit. All that's left now is to fall down it! 
  
 **All:**
-Aaahhh! ! ! 
+Aaahhh!!! 
  
 ## Section 26: Final Showdown: The Hollow Sea God 
  
@@ -33427,7 +33427,7 @@ Thirty-four...Thirty-three...Thirty-two...Thirty-one...!
 Now! Blow the main ballast tanks! Emergency dive! 
  
 **Nemo Marine:**
-Aye, aye, Captain! ! ! 
+Aye, aye, Captain!!! 
  
 **Nemo Marine:**
 We've got a topside collision! 
@@ -33518,7 +33518,7 @@ I know, dammit! Come on, tires, don't slip on me now!
 **Goredolf:**
 I refuse to tumble to my death by accident after coming this far! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 There, I'm picking up the signal of another Poseidon core! Just keep going straight, Gordy! 
@@ -33613,7 +33613,7 @@ Mobilize defenses. Mobilize defenses.
 **Mash:**
 Let's keep going! Awaiting your orders, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 That's one Poseidon core destroyed! 
@@ -33670,7 +33670,7 @@ Why's that?
 **Holmes:**
 I'll tell you on the way. Now let's get going! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Maintaining defensive position! 
@@ -33724,7 +33724,7 @@ Understood! Let's go, Master!
 **P. A. System:**
 Initiating defenses. Initiating defenses. Target: Francis Drake. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Goredolf:**
 There! We're almost to the last core! 
@@ -33767,16 +33767,16 @@ You're...
 **P. A. System:**
 Drake...Francis Drake...
  
-**? ? ? :**
+**???:**
 This is the true face of Poseidon: a factory ship designed to renovate planetary environments. 
  
-**? ? ? :**
+**???:**
 His primary objective was the renovation and oversight of marine environments. 
  
-**? ? ? :**
+**???:**
 Though of course, as you can see, he's now nothing more than the Great Pit's guard. 
  
-**? ? ? :**
+**???:**
 That said, he still had some semblance of sanity remaining. Right up until Drake took one of his cores. 
  
 ---
@@ -33872,7 +33872,7 @@ Between Master Fujimaru and myself...
 **Chiron:**
 Have at you! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **P. A. System:**
 Rebooting...Impossible. Target elimination...Impossible. 
@@ -34036,7 +34036,7 @@ Jaso&ndash;Master?
 ---
 
 **Fujimaru 1:**
-See you again someday! ! ! 
+See you again someday!!! 
 
 ---
 
@@ -34122,7 +34122,7 @@ You know...now that you mention it...
 **Chiron:**
 ......
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Mash Kyrielight and Fujimaru,returning from battle. 
@@ -34204,15 +34204,15 @@ Is it just me, or is there an odd sound coming from the ceiling in addition to t
 (Glance)
  
 **Goredolf:**
-Wah! ! ! 
+Wah!!! 
  
 **Da Vinci:**
-Water! ! ! 
+Water!!! 
  
 ---
 
 **Fujimaru 1:**
-Whoa! ! ! 
+Whoa!!! 
 
 ---
 
@@ -34262,13 +34262,13 @@ Mash!
 Come on! We're finally almost to Olympus! 
  
 **Goredolf:**
-Aaaaaah! We're falliiing! ! ! I don't wanna diiieee! ! ! 
+Aaaaaah! We're falliiing!!! I don't wanna diiieee!!! 
  
 **Nemo:**
 Don't worry, nobody's going to die. Well, this might hurt enough for you to wish you were dead...
  
 **Goredolf:**
-That's not reassuring at aaall! ! ! 
+That's not reassuring at aaall!!! 
  
 ---
 
@@ -34400,7 +34400,7 @@ All right, since this hideout looks to be deserted too, I think I'll go check ou
 **Senji Muramasa:**
 ......
  
-**? ? ? :**
+**???:**
 Magnificent. 
  
 **Senji Muramasa:**

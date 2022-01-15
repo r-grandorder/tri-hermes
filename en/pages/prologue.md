@@ -15,7 +15,7 @@ The Servants summoned to Chaldea have been released from their contracts, their 
 Save for Chaldea's acting director, Leonardo da Vinci, every Chaldean Servant is gone&ndash;vanished from the face of the earth. 
 
  
-**? ? ? :**
+**???:**
 ...ou. Fou, fooou...
  
 ---
@@ -361,7 +361,7 @@ We can all attest to that. So don't be afraid to hold your head high and tell th
 **Command Room Staff:**
 “Yeah, I'm Fujimaru, Master of Chaldea and savior of humanity. What do you want? ”
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
  
 **Da Vinci:**
@@ -817,16 +817,16 @@ Goredolf's basically just a rich brat from a well-off family. The question is, w
 **Da Vinci:**
 I can't be certain until we meet him ourselves,but if I were to guess&ndash;
  
-**? ? ? :**
+**???:**
 Oho! Oho ho! 
  
-**? ? ? :**
+**???:**
 This is great! Better than great! 
  
-**? ? ? :**
+**???:**
 I didn't have very high hopes for a lab out in the middle of nowhere, so you can imagine my surprise and delight to see how modern it all is! 
  
-**? ? ? :**
+**???:**
 In fact, I think it might be even more advanced than the ones in London! What a bargain! 
  
 **Da Vinci:**
@@ -1072,13 +1072,13 @@ But I suppose there's an exception to every rule. The staff of an organization m
 **Da Vinci:**
 (...There you go, Fujimaru. As you can see, he's hardly the most formidable opponent we've ever faced. )
  
-**? ? ? :**
+**???:**
 I believe that is more than enough in the way of pleasantries, Director Musik. 
  
-**? ? ? :**
+**???:**
 You are the future of Chaldea, and they are the past. There is no need for you to reach any sort of understanding with them, nor for them to like you. 
  
-**? ? ? :**
+**???:**
 More importantly, now that the Church is ready to investigate, I would like to begin as soon as possible. 
  
 **Goredolf:**
@@ -1778,7 +1778,7 @@ I know, Fou. It's been twelve hours since Mr. Goredolf called for her last night
 **Mash:**
 It's 4: 30 p. m. right now...That gives us less than eight hours until the year ends...
  
-**? ? ? :**
+**???:**
 Pardon me. 
  
 **Priest:**
@@ -2136,7 +2136,7 @@ What...What in the world's going on heeere!?
 
  
 **Fou:**
-! ! ! 
+!!! 
  
 **Mash:**
 Senpai...Those were gunshots! But, who's shooting inside Chaldea!? 
@@ -2314,7 +2314,7 @@ She hasn't even fought yet, and she already looks like she's about to collapse!
 **F：Mash:**
 I'm...okay...! Never mind that...! Hurry and get behind&ndash;
  
-**? ? ? :**
+**???:**
 ......
  
 **Chaldea Staff:**
@@ -2350,7 +2350,7 @@ I saw how you used to fight when I was still working in the Command Room, and th
 **Chaldea Staff:**
 There's no way we can let you fight like this! Fujimaru, you and I'll need to&ndash;
  
-**? ? ? :**
+**???:**
 ......
  
 **Chaldea Staff:**
@@ -2939,7 +2939,7 @@ Ah...Ow, owww! Stop it! Stop iiit!
 Dammit! After a life of failure, I thought this would finally, FINALLY be my shot at success...! 
  
 **F：P. A. System</b>
-But a loser is all I'll ever be, no matter where I go or what I do. Dammit...Dammit...! ! ! 
+But a loser is all I'll ever be, no matter where I go or what I do. Dammit...Dammit...!!! 
  
 **F：P. A. System</b>
 I don't wanna die! I'm not ready to die! After all...
@@ -3254,19 +3254,19 @@ If that's all we're up against,I should be able to&ndash;
 **Koyanskaya:**
 Handle them yourself? I don't think so. Not when we have the invincible Grand Duchess on our side. 
  
-**? ? ? :**
+**???:**
 ...
  
-**? ? ? :**
+**???:**
 Death to those who would disobey the glorious tsar. Eradication to those who would betray us. 
  
-**? ? ? :**
+**???:**
 Viy, I will wish this myself. I will curse them myself. 
  
-**? ? ? :**
+**???:**
 We will reduce all good people to stone, to ice, to nothingness. 
  
-**? ? ? :**
+**???:**
 Open your Wicked Eye, Viy! 
  
 **Goredolf:**
@@ -3407,7 +3407,7 @@ Da&mdash;
 ---
 
 **Fujimaru 1:**
-DA VINCIII! ! ! 
+DA VINCIII!!! 
  
 
 ---
@@ -3612,13 +3612,13 @@ Holmes!
 ---
 
  
-**? ? ? :**
+**???:**
 Don't worry! It only looks like a container from the outside! 
  
-**? ? ? :**
+**???:**
 We WILL survive this! I planned for pretty much exactly this situation! 
  
-**? ? ? :**
+**???:**
 I didn't spend the last six months modifying this thing for nothing! 
 
  
@@ -3778,7 +3778,7 @@ Hm? Oh, that's right, you don't know where we are, do you?
 **Holmes:**
 Well then! Take a look out the window, {(M) Mr. /(F) Ms. } Fujimaru! It's not every day one gets a chance to see scenery like this! 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Priest:**
 Now, time for our last job. 
@@ -3810,10 +3810,10 @@ You must bury this magnificent crown jewel of humanity yourself, in a coffin of 
 **Priest:**
 What will you do, Your Imperial Highness, Grand Duchess Anastasia? 
  
-**? ? ? :**
+**???:**
 ...
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
  
 ---
@@ -3971,51 +3971,51 @@ That they only pretended to be human in order to take over Chaldea? How can&ndas
 **Holmes:**
 My apologies, but please, do be quiet. We're picking up an external transmission. It's using the same frequency you did at Chaldea. 
  
-**? ? ? :**
+**???:**
 ...anity. We have a message for all of humanity. 
  
-**? ? ? :**
+**???:**
 This planet will soon be reborn as an old, brand-new world. 
  
-**? ? ? :**
+**???:**
 Human civilization was a mistake. The path of our growth was incorrect. 
  
-**? ? ? :**
+**???:**
 And so I have made my decision. I will revolt against all of human history&ndash;Proper Human History. 
  
-**? ? ? :**
+**???:**
 We are about to fill this world with inhuman Mystic secrets. We will restore the Age of Gods. 
  
-**? ? ? :**
+**???:**
 To that end, the gods have descended from a far-off galaxy, and in their wisdom, they have used seven seeds to select new leaders. 
  
-**? ? ? :**
+**???:**
 These leaders will remake this planet as they see fit. And the one who reign supreme shall be given the right to renew the world itself. 
  
-**? ? ? :**
+**???:**
 The life-forms from Proper Human History will not be permitted to take part in this war, or even to view it from the sidelines. 
  
-**? ? ? :**
+**???:**
 The roots of cosmic fantasy have descended upon us. Trees of creation have sprung up all across the land. 
 
  
-**? ? ? :**
+**???:**
 Now, all of the old humanity's endeavors will be set aside, frozen. 
  
-**? ? ? :**
+**???:**
 Thus shall you atone for your sins. 
  
-**? ? ? :**
+**???:**
 2019...The year that Proper Human History came to an end. 
 
  
-**? ? ? :**
+**???:**
 My name is Wodime. Kirschtaria Wodime. 
  
-**? ? ? :**
+**???:**
 On behalf of the seven Crypters, I have a message for those of you who escaped from Chaldea. 
  
-**? ? ? :**
+**???:**
 No, rather, I have a message for the scant few remnants of the human race: WE will be the inheritors of this world's history. 
 
  

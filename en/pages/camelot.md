@@ -6,7 +6,7 @@
 
 ## Prelude
  
-**? ? ? :**
+**???:**
 “So that's why I've awakened you.  You understand the situation, don't you? ”
  
 **Lucius:**
@@ -15,19 +15,19 @@
 **Lucius:**
 (However, that which I must accomplish...is still here in my hand&mdash;)
  
-**? ? ? :**
+**???:**
 “Mind, body, and soul...the Holy Trinity.  All of which have worn out during your long exile. ”
  
-**? ? ? :**
+**???:**
 “Very well, I shall grant a sinner's promise.  Know that this is your one last chance. ”
  
-**? ? ? :**
+**???:**
 “But let's be perfectly clear, okay? Regardless of the   result of this upcoming battle, you will die. ”
  
-**? ? ? :**
+**???:**
 “Your soul exhausted, ousted from the cycle of   reincarnation, your existence will fall into the void. ”
  
-**? ? ? :**
+**???:**
 “Even then&mdash;  do you still strive for the end of your journey? ”
  
 **Lucius:**
@@ -45,16 +45,16 @@
 **Lucius:**
 (&mdash;Nay. That alone shall not be the case. My mind...My will...They remain loyal to my king and his glory. )
  
-**? ? ? :**
+**???:**
 “...I see. So you've decided to take a stand.  Then take this, it's my parting gift to you. ”
  
-**? ? ? :**
+**???:**
 “The place you will travel to is a hypothetical. A place   standing at the edge of the world where chivalry is   striving to be perfected. ”
  
-**? ? ? :**
+**???:**
 “You shall face your former allies.  You shall face the sin you've committed. ”
  
-**? ? ? :**
+**???:**
 “Even so, the light in that hand shall never dwindle.  Why, you ask? Because&mdash;”
  
 **Lucius:**
@@ -87,7 +87,7 @@
 **Lucius:**
 (...This time for sure. I will kill my king with my own hands. )
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **A：? ? ? :**
 &mdash;I woke up at the same time again today. 
@@ -1048,7 +1048,7 @@ Oh well. That desert is ruthless, she won't survive by herself.
 Don't you agree, Tris? Hey, still alive there, ya bastard? 
  
 **Tristan:**
-! ! ! 
+!!! 
  
 **Tristan:**
 ...Pardon me. I wasn't asleep by the way. Please continue your conversation, don't mind me...
@@ -1200,7 +1200,7 @@ The ultimate beauty remains even in a sandstorm&mdash;
 **Da Vinci:**
 Be dazzled by the secret weapon of the Universally Gorgeous Secretary Servant, Da Vinci-chan! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 Wait, that last enemy was odd! I couldn't see that well with all the sand but...
@@ -1249,7 +1249,7 @@ Fou...Foooou!
 **Da Vinci:**
 Fujimaru, no time to sit around! Our next opponent is without a doubt a powerful one! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We defeated the giant lifeform! Except...Uh...
@@ -1418,13 +1418,13 @@ Whoa, they're moving way too fast! See, Fujimaru, I told you to move&mdash;
 **Da Vinci:**
 ...Huh? For sphinxes, their magical energy level is too low...And this number...Humans? 
  
-**? ? ? :**
+**???:**
 &mdash;Hmph, they caught on pretty fast! Sending soldiers after us, eh...How clever of you, Sun King. 
  
-**? ? ? :**
+**???:**
 Those monsters won't dare to hurt us as long as we have the queen, but the humans are different. She has no influence over them. 
  
-**? ? ? :**
+**???:**
 There's no time, get rid of them! But let one of them live! It will be a valuable source of intel! 
  
 **Mash:**
@@ -1450,7 +1450,7 @@ Hit them with the flats of your blades!
 **Mash:**
 ...Right! Please leave it to me, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **B：? ? ? :**
 Ugh! My mask...
@@ -1476,10 +1476,10 @@ What kind of reaction is that!? Don't be so casual with our names, moron!
 ---
 
  
-**? ? ? :**
+**???:**
 Please forgive us, Lord Hundred Personas! It seems they are no ordinary soldiers! 
  
-**? ? ? :**
+**???:**
 The design of that girl's armor...She's most likely from the Holy City&mdash;
  
 **Hundred Personas:**
@@ -1497,7 +1497,7 @@ Are you underestimating us? Mocking us? We of the mountain don't deserve your bl
 **Hundred Personas:**
 Our current objective is to take the queen. Now that we have our prisoner, those cursed sphinxes&mdash;
  
-**? ? ? :**
+**???:**
 Uh, about that...During our battle just now, that trickster over there...
  
 **Da Vinci:**
@@ -1530,7 +1530,7 @@ Who, you ask? ...Say, are you an idiot or what?
 ---
 
  
-**? ? ? :**
+**???:**
 I have a sitrep! The sphinxes are coming back! And some strange creatures wearing cloth are with them! 
  
 **Hundred Personas:**
@@ -1672,7 +1672,7 @@ But we have no choice. We can't prove our innocence anyway, and that queen doesn
 **Da Vinci:**
 First, we're gonna have to fight her! Let's go, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nitocris:**
 ...As I have only just awoken, I am merely at half strength...but no matter! It is surprising to be pushed this far, however...
@@ -1781,7 +1781,7 @@ You look so weak, but you've got a big mouth! I'll crush you both and make you a
 **Nitocris:**
 Now, prepare yourselves! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Lucius:**
 &mdash;My apologies! 
@@ -2121,13 +2121,13 @@ Queen Nitocris. Is that thing sneaking up behind you a creature of the desert?
 **Nitocris:**
 !? 
  
-**? ? ? :**
-Guruuuuuuu&mdash;Zbuaaaaaaaaaaaaaaa! ! ! ! 
+**???:**
+Guruuuuuuu&mdash;Zbuaaaaaaaaaaaaaaa!!!! 
  
 **Nitocris:**
 I don't recall ever seeing such a demonic beast! Destroy it, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nitocris:**
 Where did those beasts come from? I've never seen or heard of anything like them...
@@ -2331,7 +2331,7 @@ This may be convenient for us, but living as a pharaoh like this must be harsh f
 **Nitocris:**
 Save your secret talks for later! Now is the time for you to prove your innocence! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We did it, Master! The sphinx is retreating into the sky! 
@@ -2732,7 +2732,7 @@ Master! For reasons unknown, Pharaoh Ozymandias is gearing up for battle!
 **Da Vinci:**
 Okay, as expected! This king is a problem child who's always just lived by his own rules! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ozymandias:**
 Heh&mdash;that was quite heated for mere amusement. Thanks to that, my head feels better. 
@@ -2860,7 +2860,7 @@ He sits on the throne in what was once Jerusalem, that sacred city devoid of all
 **Ozymandias:**
 They call him the Lion King...The infamous pure-white Lion King! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 (Sigh) That sure was a storm of events, Senpai. 
@@ -3099,8 +3099,8 @@ Yahoo!
 ---
 
  
-**? ? ? :**
-Yeah! ! ! ! 
+**???:**
+Yeah!!!! 
  
 **Mash:**
 ...
@@ -3111,8 +3111,8 @@ Yeah! ! ! !
 **Fou:**
 ...Uu? 
  
-**? ? ? :**
-...! Y-Yeah&mdash;! ! ! ! 
+**???:**
+...! Y-Yeah&mdash;!!!! 
  
 **Mash:**
 &mdash;I've detected an extra exclamation of joy, Master! We've been surrounded without us noticing! 
@@ -3459,19 +3459,19 @@ That's terrible...What exactly happened in this era?
 **Mash:**
 Oh no! We're surrounded! They're...
  
-**? ? ? :**
+**???:**
 Food...They have food. 
  
-**? ? ? :**
+**???:**
 And water...And appetizing women. 
  
-**? ? ? :**
+**???:**
 Heh heh...They must have come running from the Sun King's man-eating beasts...Heh heh, hahahaha! 
  
-**? ? ? :**
+**???:**
 Thank you...Thank you...Thank you for surviving, for me! 
  
-**? ? ? :**
+**???:**
 Kill, kill, kill! Meat, meat, meat&mdash;! 
  
 **Mash:**
@@ -3492,15 +3492,15 @@ That's the kind of place this era has become. We've come here to fix that, to re
 **Da Vinci:**
 To do that, you must wield your sword, Master. The time has come to discard your innocence. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
-**? ? ? :**
+**???:**
 Ow...That hurts! Damn it, damn you&mdash;
  
-**? ? ? :**
+**???:**
 I thought I finally found some good meat...Damn it, you scum...
  
-**? ? ? :**
+**???:**
 Why don't you just die, dammit! 
  
 ---
@@ -3579,10 +3579,10 @@ Take it, heartless ladies and gentlemen!
 **Da Vinci:**
 You'll likely have forgotten by tomorrow, but consider this half a day of relief! 
  
-**? ? ? :**
+**???:**
 Ahh...Yeah! Water, water&mdash;! 
  
-**? ? ? :**
+**???:**
 Move, that's mine, that's mine! I worked the hardest! You all come after me! 
  
 **Da Vinci:**
@@ -3591,19 +3591,19 @@ Okay, time to withdraw! Everyone, get in the Sphinx-mobile while we have the cha
 **Fou:**
 Fooou! 
  
-**? ? ? :**
+**???:**
 ...Hold on. 
  
-**? ? ? :**
+**???:**
 Are you going east? ...Don't tell me, to the Holy City? 
  
 **Da Vinci:**
 Yes, to the Holy City. Is there a problem? It's the only city around here, right? 
  
-**? ? ? :**
+**???:**
 ...Yeah. The Holy City is the only city. A land of dreams, where they have everything. 
  
-**? ? ? :**
+**???:**
 The city where the great Lion King, who massacred every Crusader trying to burn this world down, resides...
  
 **Da Vinci:**
@@ -3615,10 +3615,10 @@ The city where the great Lion King, who massacred every Crusader trying to burn 
 **Da Vinci:**
 (But someone called the Lion King...Hmm, this is getting even more complicated. )
  
-**? ? ? :**
+**???:**
 ...Be careful. Beauty makes things all the more dreadful...
  
-**? ? ? :**
+**???:**
 ...Don't go near the walls. If you don't want to die, go back to the desert! 
  
 **Mash:**
@@ -3627,7 +3627,7 @@ Okay...Thank you for the advice!
 **Fou:**
 Fou, fooou! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Dr. Roman:**
 Thank goodness, I finally got you on the line! 
@@ -3775,16 +3775,16 @@ Understood. Stopping the Sphinx-mobile. What should we do, Master?
 **Intoxicating Smoke:**
 ...How humiliating and regrettable. It all ends here. 
  
-**? ? ? :**
+**???:**
 ...I'm sad. I'm so very sad, Old Man of the Mountain. 
  
-**? ? ? :**
+**???:**
 If you were alone, escaping this dilemma would be easy...However, you have accepted this fate. 
  
-**? ? ? :**
+**???:**
 The frightened people of the Holy Land follow you. And you remain behind to protect them. 
  
-**? ? ? :**
+**???:**
 If you do not protect the worthless, you suffer the loss of what is worthy...I find that far too sad...
  
 **Mash:**
@@ -3825,7 +3825,7 @@ If they notice, it's over. We'd be killed by that Archer.
 **Intoxicating Smoke:**
 ...Worthy? You say I have more worth than them? 
  
-**? ? ? :**
+**???:**
 Indeed. Even with my bow, capturing you would be troublesome. 
  
 **Intoxicating Smoke:**
@@ -3834,13 +3834,13 @@ Indeed. Even with my bow, capturing you would be troublesome.
 **Intoxicating Smoke:**
 I offer you my life. In exchange, allow the people to go free. 
  
-**? ? ? :**
+**???:**
 How noble of you.... But what exactly do you mean by allowing them to go free? 
  
-**? ? ? :**
+**???:**
 I am not permitted to withdraw...My most sincere apologies...
  
-**? ? ? :**
+**???:**
 I cannot leave this place until I capture all of you...
  
 **Intoxicating Smoke:**
@@ -3852,7 +3852,7 @@ For one day, your legs will not move and your right arm will be held in check.
 **Intoxicating Smoke:**
 My head may be pitiful, but it should be a good match as compensation. 
  
-**? ? ? :**
+**???:**
 Wh-What? Wait, I cannot allow that. If I do, you will...
  
 **Intoxicating Smoke:**
@@ -3864,10 +3864,10 @@ Run, my brethren! Cursed Arm in the east will accept you!
 **Refugees:**
 Ah...Thank you, thank you so very much! 
  
-**? ? ? :**
+**???:**
 ...To sever one's own head...it would be unbecoming of me to do anything but fulfill my side of the agreement. 
  
-**? ? ? :**
+**???:**
 Well done. Very impressive. &mdash;However. 
  
 **H：Refugees:**
@@ -3876,22 +3876,22 @@ Huh?  Why have I...When did I fall?
 **H：Refugees:**
 Wait, what...My head...It...aaaAAA NOOO&mdash;!? 
  
-**? ? ? :**
+**???:**
 Oh, how sad I am...I did say I cannot allow it...
  
-**? ? ? :**
+**???:**
 And to force me not to move a single step. Such conceit. 
  
-**? ? ? :**
+**???:**
 Arrows don't suit Failnaught's bewitched string. Plucking its string creates a blade of sound that severs my enemies. 
  
-**? ? ? :**
+**???:**
 I can cut these bags of flesh with a single breath...Without taking a single step, without even aiming. 
  
 **H：Refugees:**
 Aaaahhh! No! Help, help&mdash;! 
  
-**? ? ? :**
+**???:**
 Foolish Old Man of the Mountain. You should have said instead: “Do not move a single finger. ”
  
 **Mash:**
@@ -3974,21 +3974,21 @@ If left alone, it'll turn into a monster that attacks people indiscriminately! B
 **Mash:**
 ...Yes. As a knight, I pray this soul finds peace! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Spirit Origin Core destroyed. This should do it...
  
-**? ? ? :**
+**???:**
 Aaargh...Aaaaaargh...Such a shameful display, all the way to the very end...
  
-**? ? ? :**
+**???:**
 ...I thank you for putting me to rest, unnamed Servant. 
  
-**? ? ? :**
+**???:**
 ...If you still have kindness to offer...please bury my brethren...
  
-**? ? ? :**
+**???:**
 ...It seems fighting really was the only choice...Laugh at my inexperience, Cursed Arm&mdash;
  
 **Mash:**
@@ -4011,7 +4011,7 @@ That ends this situation...Master, um...
 **Mash:**
 ...Yes. We might not be able to do it well, but we can try to give it some sort of meaning. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Refugee Woman:**
 Ah, thank you so much. You've saved us. 
@@ -4200,16 +4200,16 @@ Sounds good. I suppose I'll fold up the ornithopter now.
 **Da Vinci:**
 Driving up in a car would draw unwanted attention&mdash;Who's there? You, peering at us from behind that rock! 
  
-**? ? ? :**
+**???:**
 Heh heh heh...What a beauty we've got here. Did you come from the desert? Those are some expensive-looking clothes. 
  
-**? ? ? :**
+**???:**
 It looks like you're here for the Ritual of Holy Selection. I won't think ill of you. You should turn back. 
  
-**? ? ? :**
+**???:**
 Of course, that'll be after you drop all your possessions. Don't worry, I'll pay you 10% of the market value. 
  
-**? ? ? :**
+**???:**
 ...Man, thanks to the Lion King I can just wait out here, and suckers like you show up one after another. 
  
 **Da Vinci:**
@@ -4234,33 +4234,33 @@ You be careful too, Da Vinci!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
-**? ? ? :**
+**???:**
 Ugh, I give up! I surrender, I surrender! My life isn't worth giving up for chump change! 
  
 **Da Vinci:**
 For a thief, you know pretty well when to quit. By the way, that accent...Are you a Muslim merchant? 
  
-**? ? ? :**
+**???:**
 Huh? I sure haven't heard that recently. Until a little while ago there were people like that everywhere. 
  
-**? ? ? :**
+**???:**
 There were quite a number of us around! We even did good business with the Crusaders. 
  
-**? ? ? :**
+**???:**
 But after the Holy City was built, the Lion King's aides crushed us in an instant. 
  
-**? ? ? :**
+**???:**
 I'm pretty quick-witted, though. I bowed down before them, and they let me live. 
  
-**? ? ? :**
+**???:**
 By the time I raised my head, everyone else had theirs chopped off! Isn't that just a laugh? 
  
 **Mash:**
 ...That's terrible. They killed all the local merchants? 
  
-**? ? ? :**
+**???:**
 Here's our chance! You let your guard down, knight girl! Everyone, scatter! 
  
 **Merchants:**
@@ -4305,7 +4305,7 @@ Well, that's none of our concern. Anyway, let's hurry to the Holy City. Looks li
 **Dr. Roman:**
 Yeah, everyone be careful. Hide yourselves under cloaks, and do your best not to stand out! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 ...We managed to slip in. Then again, we are at the edge of the refugee group and the furthest from the main gate...
@@ -4346,10 +4346,10 @@ Senpai, that's not it! The sun suddenly rose!
 **Refugees:**
 ...What's going on? How did the sun rise without anyone noticing? 
  
-**? ? ? :**
+**???:**
 Calm yourselves. This is a miracle from the Lion King&mdash;
  
-**? ? ? :**
+**???:**
 A Gift he bestowed upon me with the words,“May the sun always bless you. ”
  
 **Mash:**
@@ -4406,16 +4406,16 @@ Our king accepts any and all people, of all races and religions, without excepti
 **Refugees:**
 There's someone on top of the main gate!? Ahh, that's&mdash;! 
  
-**? ? ? :**
+**???:**
 &mdash;There are few who can be led to the end of this world. 
  
-**? ? ? :**
+**???:**
 The roots of humanity rot and fall. 
  
-**? ? ? :**
+**???:**
 And thus, I must choose. Those souls who are clean of filth. Those souls uncorrupted by any and all wickedness. 
  
-**? ? ? :**
+**???:**
 &mdash;Those people born of eternal, immovable purity. 
  
 **Refugees:**
@@ -4424,7 +4424,7 @@ And thus, I must choose. Those souls who are clean of filth. Those souls uncorru
 **Refugees:**
 &mdash;Hey, are you shining? &mdash;Mommy, you're all shiny! 
  
-**? ? ? :**
+**???:**
 The Holy Selection is over. Allow only those three to enter. Go and collect them, Sir Gawain. 
  
 **Gawain:**
@@ -4484,7 +4484,7 @@ Oh, just talking to myself! I agree with Fujimaru as well!
 **Da Vinci:**
 Even if we can't save a thousand, we can save a hundred! Let's break through the encircling knights! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Enemy group eliminated! 
@@ -4546,7 +4546,7 @@ This should reduce your burden a little! Da Vinci!
 **Da Vinci:**
 Got it! We'll hold out to our limit! Let's go, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Enforcement Knight:**
 You've been chosen. Come, now enter the Holy City. 
@@ -4673,7 +4673,7 @@ However, that ends now. Causing disorder at the Holy City gate is a sin worthy o
 **Gawain:**
 I am Gawain, a Knight of the Round Table. As one entrusted with the responsibility of delivering Holy Punishment, I shall judge you. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Gawain:**
 I am Gawain, a Knight of the Round Table. As one entrusted with the responsibility of delivering Holy Punishment, I shall judge you. 
@@ -4764,7 +4764,7 @@ This is the price you must pay. Weren't you prepared for this to happen?
 **Mash:**
 It's no good, we can't retreat! We're entering combat, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 It's no good, Master! Our attacks are meaningless against him during the day! 
@@ -4906,7 +4906,7 @@ The Enforcement Knight was simply following orders. The enemy you should hate is
 Someone who doesn't even understand that shouldn't be on the battlefield! Realize how you insult us by being here! 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Gawain:**
 This is the end! That shield is too heavy of a burden for you to bear! 
@@ -4981,7 +4981,7 @@ Come again!?
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gawain:**
 You brushed aside my Galatine!? Impossible, are you saying that's the true arm of Nuadha!? 
@@ -5045,7 +5045,7 @@ Sure!
 Now everyone, shield your eyes, and brace for impact! Open your mouths, and cover your eyes and ears! 
  
 **Gawain:**
-! ! ! 
+!!! 
  
 **Gawain:**
 Bedivere! Wait, what's the meaning of this!? 
@@ -5124,7 +5124,7 @@ This is such a large group of panicked people after all. Someone needs to take c
 **Mash:**
 Enforcement Knights are closing in on the refugee group! Engaging! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gawain:**
 Gawain reporting in. Where is the Lion King, Sir Agravain? 
@@ -5850,7 +5850,7 @@ I talked to the refugee leader. He said we'll reach the village of the mountain 
 **Da Vinci:**
 If we can make it, we should be safe for a while. We can plan our comeback there! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 How's this drifting!? It's faster not to drift, but cornering like this is more impressive, isn't it!? 
@@ -6056,7 +6056,7 @@ Aaah&mdash;!? Monsters, monsters&mdash;! Protect the supplies&mdash;!
 **Da Vinci:**
 Before that, we need to fulfill our task as guards! Let's go, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Refugee Man:**
 Just a little further. We'll be in the mountains soon. 
@@ -6125,7 +6125,7 @@ Let's go, Mash!
 **Mash:**
 Yes! We'll attack swiftly, and shake them off our tail, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Enforcement Knights intercepted! Refugees are abandoning their belongings and running for the mountains! 
@@ -6428,7 +6428,7 @@ Will they eat us, or will we feast on them? ...En garde!
 **Mash:**
 Whaaaaaaat!? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Bedivere:**
 Quotation from King Arthur, Number 8. “Nutritionally, a strange creature's meat is no different from any other meat! ”
@@ -6598,7 +6598,7 @@ But now that the Holy City's been built up there, the problem lies elsewhere...
 **Bedivere:**
 . . The foundation of their faith was robbed before their very eyes...That means they've lost more than their own lives...
  
-**? ? ? :**
+**???:**
 What do you know? You're a knight that defiled our Holy Land. 
  
 **Mash:**
@@ -6607,7 +6607,7 @@ Master! I have detected a Servant!
 **Dr. Roman:**
 What? Where are your readings coming fr&mdash;Assassins! Be careful, Fujimaru! 
  
-**? ? ? :**
+**???:**
 What do you want with our village, outsiders? You even bring in knights for show...Are you here to take our last hope? 
  
 ---
@@ -6615,7 +6615,7 @@ What do you want with our village, outsiders? You even bring in knights for show
 **Fujimaru 1:**
 We fled all the way here. 
  
-**? ? ? :**
+**???:**
 Hmph. Obviously...We've been watching you since you entered the mountains. 
  
 
@@ -6636,20 +6636,20 @@ U-Umm...right...I was...first among the Round Table...at being boring...anyway..
 **Fou:**
 Fou. FOU! 
  
-**? ? ? :**
+**???:**
 Really? ...That's quite a sad tale. Live strong, sad knight. 
  
-**? ? ? :**
+**???:**
 (...He was not the only one to whom I was referring, but...Oh well. )
  
 
 ---
 
  
-**? ? ? :**
+**???:**
 &mdash;Enough idle banter. We already know why you are here. 
  
-**? ? ? :**
+**???:**
 We had a report from our scouts. “Young foreigners are saving our comrades,” they said. 
  
 **Dr. Roman:**
@@ -6658,7 +6658,7 @@ That's great! Now there won't be any misunderstandings!
 **Dr. Roman:**
 You're an Assassin Servant? It's a rather long story, but we're&mdash;
  
-**? ? ? :**
+**???:**
 QUIET! You're nothing but talk, coward. Sit this one out! 
  
 **Dr. Roman:**
@@ -6676,28 +6676,28 @@ We're being chased by the Knights of the Round Table. Can you possibly shelter u
 **Refugee Man:**
 But please. Some among us are injured, others are pregnant...This is the only place we could run to...
  
-**? ? ? :**
+**???:**
 ...Fine, as long as you have some sense of guilt. People of this village all have simple, good-natured hearts. 
  
-**? ? ? :**
+**???:**
 They themselves don't believe they were persecuted by people of the Holy Land.... All you need to do is repay their good nature. 
  
 **Refugee Man:**
 ...Sorry. Thank you. Thank you! 
  
-**? ? ? :**
+**???:**
 But...those foreigners are a different story. We can't let you into our village. 
  
-**? ? ? :**
+**???:**
 Nor can we let you leave. After you leave, what's to stop you from selling us out to the knights? 
  
 **Mash:**
 Senpai would never do that! If you want us to leave, then that's what we'll do! 
  
-**? ? ? :**
+**???:**
 ...Unfortunately, the people trust me with this village. I am in no position to believe your story without proof. 
  
-**? ? ? :**
+**???:**
 &mdash;Take up arms. This is not an assassination, but a fight. If you wish to live, you best strike me down first! 
  
 **Mash:**
@@ -6724,7 +6724,7 @@ Beddy? Well, I do have a long name...Very well!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **E：? ? ? :**
 Ugh! It is I who falls first!? I cannot believe this! 
@@ -6881,7 +6881,7 @@ I'm Arash. As you can see, I'm an Archer Servant.
 **Arash:**
 Aren't you exhausted from the trip? I'll show you our village. We lead a frugal life, though, so we can't give a welcome toast...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Bedivere:**
 This is the secret mountain village? It's magnificent! 
@@ -7057,7 +7057,7 @@ No matter. In any case, I welcome you. Thanks for making the long journey over.
 First, you need to place a summoning circle, right? The Leyline here is legit. Let's get it over with. 
  
 **Fou:**
-FOU! ! 
+FOU!! 
  
 **Dr. Roman:**
 How could you possibly know that much!? This Heroic Spirit is a really sharp-witted one! 
@@ -7187,7 +7187,7 @@ That's how the Celts greet each other! I know that one!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Arash:**
 Good work out there today! Looks like you've gotten used to fighting in the mountains, Mash, Fujimaru! 
@@ -7586,7 +7586,7 @@ Whatever he decides, I shall obey.
 **Cursed Arm:**
 ...How gallant. I can't possibly turn him down now...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Cursed Arm:**
 &mdash;Oh? In other words, you wish to fight with us? 
@@ -7737,7 +7737,7 @@ Hassan, Arash...
 **Mash:**
 Master, prepare for battle! Let's prove our strength! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Cursed Arm:**
 Whew...That was impressive. Impressive indeed. 
@@ -8232,7 +8232,7 @@ When did you...!?
 **Cursed Arm:**
 You won't be able to find the animal trail leading to the village on your own, so...But first...
  
-**? ? ? :**
+**???:**
 Fuuuuu&mdash;GuRuAAAAAAAAAAAAAAAAAA&mdash;! 
  
 **Mash:**
@@ -8247,7 +8247,7 @@ Must have been quite the disaster for you guys, but we're in a hurry, too...If y
 **Bedivere:**
 (Hahaha. It was quite the disaster for us too, Lord Kamangir. )
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Hundred Personas:**
 Ugh! 
@@ -8330,7 +8330,7 @@ Roger! I've got your backs!
 **Mash:**
 Five seconds until enemy contact! Here we go, Senpai! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Enforcement Knight:**
 That can't be...Where on earth did you...
@@ -8470,10 +8470,10 @@ Interesting! In that case, let me remind you of the pitiful fact that you have n
 **Dr. Roman:**
 Look out! A second battle against the Knights of the Round Table! Watch out for their special abilities! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
-! ! ! 
+!!! 
  
 **Bedivere:**
 Ugh&mdash;! 
@@ -8544,7 +8544,7 @@ That is precisely why I shall slay you with all my strength. Switch On - Airgetl
 **Mordred:**
 Shut up! What do you know!? You don't know anything about me! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 Dammit, what am I doing!? Even with my Gift, I'm losing! 
@@ -8710,10 +8710,10 @@ Bedivere!? Are you okay? Hang in there!
 **Bedivere:**
 I have seen many things, and forgotten many things. Yet among them, that memory still remains in my heart. 
  
-**? ? ? :**
+**???:**
 They say this winter will be harsher. We must dismantle some of the villages. 
  
-**? ? ? :**
+**???:**
 And to think, we only just finished driving away the Picts from the north. The misfortunes continue, Bedivere. 
  
 **Bedivere:**
@@ -8749,16 +8749,16 @@ The one and only King of Knights, King Arthur.
 **Bedivere:**
 I told the king then and there: “As long as you shall live, Britain shall never perish, and suffering shall never prevail. ”
  
-**? ? ? :**
+**???:**
 That is not true. Camelot and its surroundings may be flourishing, but the rest of the land remains in ruins. 
  
-**? ? ? :**
+**???:**
 Even if Camelot were to accommodate those whose villages were destroyed, it could not restore their lifestyle. 
  
-**? ? ? :**
+**???:**
 Plowing the land, living life day by day, raising children...That is what leads to future prosperity. 
  
-**? ? ? :**
+**???:**
 There is no future in merely sheltering the people. Eventually, the noose is sure to tighten. 
  
 **Bedivere:**
@@ -8782,16 +8782,16 @@ One that stemmed from the doubt and unrest that had plagued me ever since I was 
 **Bedivere:**
 “Why did you choose a knight as worthless as me to be a Knight of the Round Table? ”
  
-**? ? ? :**
+**???:**
 You feel unworthy because you are inferior to the others? How foolish. The same goes for me. 
  
-**? ? ? :**
+**???:**
 In build, I am no match for others. In swordsmanship, many are my better. 
  
-**? ? ? :**
+**???:**
 However, bonds must not be measured by strength or weakness alone. Friend and foe, good and evil, benefit and detriment...
  
-**? ? ? :**
+**???:**
 Just as those are all different things, the Knights of the Round Table all serve different purposes. 
  
 **Bedivere:**
@@ -8818,46 +8818,46 @@ It's something he said only to me. And it's obvious why. In that moment, the kin
 **Bedivere:**
 If he had mentioned such a thought to the other knights, many would have criticized him. 
  
-**? ? ? :**
+**???:**
 ...That's right. The Saxons just came to this island searching for land to live on. 
  
-**? ? ? :**
+**???:**
 To us they are the enemy, but their actions are not evil. What they wish for is inherently good. 
  
-**? ? ? :**
+**???:**
 And if it is good&mdash;there must come a time when they will serve an important function for this island. 
  
-**? ? ? :**
+**???:**
 As long as we are human, conflict will arise. The division of friend or foe is born from benefit and detriment. 
  
-**? ? ? :**
+**???:**
 We are now in an era where that is at an extreme. An era of winter where neither side relents until the other is crushed. 
  
-**? ? ? :**
+**???:**
 I hate to even imagine creating a Round Table bound only by strength in such a time. 
  
-**? ? ? :**
+**???:**
 It would fall into evil. We did not take the oath in order to kill our enemies. 
  
-**? ? ? :**
+**???:**
 We took up arms for the future of our brethren. That is why&mdash;
  
-**? ? ? :**
+**???:**
 That is why we need so many roles, Bedivere. 
  
-**? ? ? :**
+**???:**
 Does our Camelot shine because it was created by force? Of course not. 
  
-**? ? ? :**
+**???:**
 This place is made up of everyone's dreams. 
  
-**? ? ? :**
+**???:**
 It is forged from the desire for man alone to create a utopia...albeit just barely. 
  
-**? ? ? :**
+**???:**
 That's why we need knights like you. 
  
-**? ? ? :**
+**???:**
 Compassionate knights who can pick up on the details of people's lives. Details that Gawain and I wouldn't notice. 
  
 **Bedivere:**
@@ -8878,10 +8878,10 @@ Stupid and weak as I was at the time, I responded thus:
 **Bedivere:**
 How mundane and commonplace a reply. Yet I remember giving it with such satisfaction, such delight. 
  
-**? ? ? :**
+**???:**
 &mdash;Good grief, you had me worried for a moment. Such concerns do not become you, O simple and honest Bedivere. 
  
-**? ? ? :**
+**???:**
 However, I am heartened to learn you lead such a fulfilling life. That should be a source of sustenance for all. 
  
 **Bedivere:**
@@ -9442,10 +9442,10 @@ Sounds formidable!
 ---
 
  
-**? ? ? :**
+**???:**
 Waaaaaaaaaaah! 
  
-**? ? ? :**
+**???:**
 Heeeeeeeelp! Someone do something! 
  
 **Mash:**
@@ -9483,7 +9483,7 @@ Fujimaru is among the best at sensing danger. If it were a hopeless battle, ther
 **Hundred Personas:**
 But still, only hesitation!? What a fool indeed! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We've defeated the hostile forces! But the source of the scream in question is still...
@@ -9494,13 +9494,13 @@ Fou, fouuu.
 **Dr. Roman:**
 That Servant is close! Be careful! 
  
-**? ? ? :**
-HEEEEEEEELP! I'm not TAAAAAAAAASTYYYYYY! ! 
+**???:**
+HEEEEEEEELP! I'm not TAAAAAAAAASTYYYYYY!! 
  
-**? ? ? :**
+**???:**
 Oh. Stop. Don't breathe fire or anything. It's hot. All right, the whole thing about my meat being tasty is only a RUUUUUUUMOR! 
  
-**? ? ? :**
+**???:**
 So don't treat me so roughly! Hungry, I am so hungry! Touta is a dummy! 
  
 **Hundred Personas:**
@@ -9533,7 +9533,7 @@ It must be some sort of mistake! Here I go, Master!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Whew. We've completely defeated the hostile forces. But there was no sign of any Servants. 
@@ -9541,16 +9541,16 @@ It must be some sort of mistake! Here I go, Master!
 **Dr. Roman:**
 Yet there's definitely a Servant response. What this means is&ndash;
  
-**? ? ? :**
+**???:**
 (Sniff, hic) That was scary...So scary...
  
-**? ? ? :**
+**???:**
 Why is it...always when you're at your weakest...that they all come at you...Like BAM!? 
  
-**? ? ? :**
+**???:**
 I didn't do anything at all...Ah, well, I guess I was hogging the watering hole, yes...
  
-**? ? ? :**
+**???:**
 But even then, I at least left enough for the wild animals...(Sniff, sniff)
  
 **Mash:**
@@ -9570,40 +9570,40 @@ Are you okay?
 ---
 
  
-**? ? ? :**
+**???:**
 (Sob, sob) Sheesh...Why do I always get into these situations...
  
-**? ? ? :**
+**???:**
 I materialize here all alone...I can't hear the Bodhisattva's voice anymore...(Sniff)
  
-**? ? ? :**
+**???:**
 Turning into Spirit Form feels kinda gross, so I don't wanna...(hic)
  
-**? ? ? :**
+**???:**
 Ugh...And it's all because...Oh! If only I didn't give Wukong and the boys time off! 
  
-**? ? ? :**
+**???:**
 But what else was I supposed to do!? Those idiot disciples were so unbelievably helpless! 
  
-**? ? ? :**
+**???:**
 Wujing's still single at that age! Go back to the Heavenly Realm already and find yourself a wife! 
  
-**? ? ? :**
+**???:**
 Then to think Bajie was actually married once! 
  
-**? ? ? :**
+**???:**
 That he had a wife and kids...You sure can't judge a pig by its cover! Haha, nice one! 
  
-**? ? ? :**
+**???:**
 But I can't forgive him for leaving his wife all alone. Hence, he is excommunicated until he apologizes to her! 
  
-**? ? ? :**
+**???:**
 And that Wukong! Back on Flowers and Fruit Mountain, he can have his pick! What's he doing hanging around me!? 
  
-**? ? ? :**
+**???:**
 Hurry back to your mountain so that everyone can feel safe! Me? I'm perfectly fine alone! 
  
-**? ? ? :**
+**???:**
 I'm going to become a Buddha! I can worry about falling in love AFTER that! 
  
 **Mash:**
@@ -9633,27 +9633,27 @@ Huh? That's the Servant you've been talking about!?
 Nonsense...Are you saying that despite her top-level Spirit Origin, she was screaming from an animal attack!? 
  
 **H：? ? ? :**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;! 
  
 **Hundred Personas:**
 Wh-Wh-What is this!? What is that gigantic monster!? There shouldn't be any monsters like that in this land! 
  
-**? ? ? :**
+**???:**
 What? No! Could that dragon be...!? 
  
-**? ? ? :**
+**???:**
 I didn't have any food, so I figured I'd ask the White Dragon Horse for help. But when I tried to summon him I failed. 
  
-**? ? ? :**
+**???:**
 So I told him, “Sorry, I can't send you home. Just give up. ” But then he got angry and attacked me! 
  
-**? ? ? :**
+**???:**
 Maybe a demonic dragon that's making people suffer in France!? 
  
 **Mash:**
 Senpai, I see it now too! This lady is indeed “interesting”! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sanzang:**
 That's right, I am Xuanzang Sanzang! 
@@ -9806,7 +9806,7 @@ Doctor! You just said that out loud!
 Fou...
  
 **Sanzang:**
-! ! ! 
+!!! 
  
 **Sanzang:**
 I-I couldn't help it, okay?! I...can't stand being by myself...
@@ -10212,7 +10212,7 @@ aryavalokitesvaro bodhisattvo gambhirayam prajnaparamitayam caryam caramano vyav
 **Sanzang:**
 Now, everyone come at me! Whatever regrets you may have, I'll guide you all to nirvana! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 This place is bigger and more complicated than we thought, isn't it...We might be outside the fort grounds by now...
@@ -10355,7 +10355,7 @@ Enemy guard presence confirmed in front of one of them! It appears there's a Ser
 **Sanzang:**
 Really?! Hang on, I'll be there, I'll be there right away! 
  
-**? ? ? :**
+**???:**
 Huh? That frantic, worried voice...Heeeyyy! Is that you, Sanzang!? 
  
 **Sanzang:**
@@ -10370,13 +10370,13 @@ In matters of the Abhidharma, namely sutta pitaka, vinaya pitaka, abhidhamma pit
 **Sanzang:**
 These be the way to the Buddha, and these have I mastered! I, Monk Sanzang! I may be late, but Xuanzang Sanzang is back! 
  
-**? ? ? :**
+**???:**
 Ah yes, there's no mistaking that sinfully showy speech! Yet, despite my joy, I'll tell you to be careful! 
  
-**? ? ? :**
+**???:**
 That prison guard is as monstrously strong as me! See, look, he's headed your way! 
  
-**? ? ? :**
+**???:**
 Especially his kicks, his kicks hurt! Hahaha, your guts will spill if he tags you a good one! 
  
 **Sanzang:**
@@ -10385,7 +10385,7 @@ What? Oh no! Everyone, intercept! Intercept!
 **Sanzang:**
 Let's take down that big one, and get Touta out of there! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **G：Touta:**
 Ah, brilliant! That was truly a match worth watching! 
@@ -10563,7 +10563,7 @@ I'd like you to find that out with your own eyes.
 **Dr. Roman:**
 What can I say? That girl Sanzang there might just be the real savior in all this. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Dr. Roman:**
 Everyone, bad news! I am detecting large-scale movement above ground! 
@@ -10693,7 +10693,7 @@ Oh, look out, you'll trip if you&ndash;
 (Watches)
  
 **Serenity:**
-...Huh! ! 
+...Huh!! 
  
 
 ---
@@ -10822,7 +10822,7 @@ Let's join her right away, and relocate somewhere where we can rest, before that
 Nonsense. You should just rest here. 
  
 **Cursed Arm:**
-! ! ! 
+!!! 
  
 **H：? ? ? :**
 Hello, everyone. And welcome to my torture chamber. 
@@ -10869,7 +10869,7 @@ My bow embodies the power of Hachiman, the Great Bodhisattva. Let my arrows rid 
 **Tawara Touta:**
 Because in a peaceful world, even a delicious meal will taste plain without smiles! Having a depressed face like that will ruin any feast! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We've defeated the Enforcement Knights. But...
@@ -11085,7 +11085,7 @@ We shall see. These Enforcement Knights are different.
 **Agravain:**
 These Enforcement Knights are modeled after that man and made stronger. They fight like pathetic mad dogs, yet that is fitting for rebel scum like you. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Agravain:**
 On to the next one. It seems we are at a stand-still...But that matters not. I have resources and time on my side. 
@@ -11274,7 +11274,7 @@ There they are! Follow me! Bring as many Golems as possible!
 **Fort Soldier:**
 Don't let anyone get away. Kill them all! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Serenity:**
 ...Mmm. That was my ability, Master Fujimaru. Please use me at your discretion...
@@ -11408,7 +11408,7 @@ Wow, what an amazing Archer! We have the greatest helper here!
 Yes, this is part of the Buddha's divine protection, you see? This is why Touta and I met! 
  
 **Sanzang:**
-AH-TATATATATATATATA! HYA! ! 
+AH-TATATATATATATATA! HYA!! 
  
 **E：Children:**
 Whoaaaaaa. Whoaaaaaaaaa! 
@@ -11587,7 +11587,7 @@ Haha, well then, let's duck out quietly. Tonight is a pleasant dream. The people
 **Mash:**
 Indeed...I'll stay with you, Hassan! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Cursed Arm:**
 Ha, it took longer than I thought. I suspect the feast must be over by now. 
@@ -11809,7 +11809,7 @@ Even if they are just insects, I cannot stand them still roaming around.
 **Tristan:**
 Ah, how sad. It seems I will have to...pluck them from the soil with these fingers once again. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Cursed Arm:**
 Good morning. It looks like everyone had a good rest last night and is fully recharged. 
@@ -11865,7 +11865,7 @@ Uh...Okay. I'm not perfectly sure, but if you say so...
 **Cursed Arm:**
 (Hmm...Should I tell Hundred Personas that assassins shouldn't fight “fair and square”? )
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Cursed Arm:**
 Oh, stop being such a baby! You should learn how to be open-minded like Serenity! 
@@ -12550,7 +12550,7 @@ Seems like the situation is a lot more dire than we imagined! Fujimaru, prepare 
 **Cursed Arm:**
 These people have already lost their sanity! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Bedivere:**
 We managed to put them down...But why were they in a place like this? 
@@ -12603,7 +12603,7 @@ It looks like we have more work to do before that.
 **Tawara Touta:**
 They're stragglers from the earlier group. Let me see you guys fight for real this time! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Sanzang, are you still awake? Everyone is asleep now...
@@ -12880,7 +12880,7 @@ I'm picking up multiple magical energy responses! Those are ghosts...and one of 
 **Cursed Arm:**
 We cannot enter the shrine unless we defeat them. Let's go, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 So this is the Shrine of Azrael...I'm not picking up anything out of the ordinary...
@@ -12938,7 +12938,7 @@ Stop it, you're creeping me out!
 ---
 
  
-**? ? ? :**
+**???:**
 &mdash;Apprentice of Magecraft. 
  
 **Cursed Arm:**
@@ -12962,19 +12962,19 @@ Nothing has come out yet!
 **Tawara Touta:**
 This guy is...the kind that would take me 30, 40 years to even come close to reaching. 
  
-**? ? ? :**
+**???:**
 &mdash;Apprentice of Magecraft and ye inhumans. 
  
-**? ? ? :**
+**???:**
 Thy voices have been heard. My blade shall accept thy will, the will of saving this era. 
  
-**? ? ? :**
+**???:**
 However...death awaiteth all those who set foot into my shrine. 
  
-**? ? ? :**
+**???:**
 Fight, ye dead, and seize life. With that rite, thou shalt be forgiven for unveiling me. 
  
-**? ? ? :**
+**???:**
 Serenity, thou shalt oversee the ritual. Show me thy conviction. 
  
 **Serenity:**
@@ -12986,10 +12986,10 @@ Lady Serenity! This aura...Her mind is being taken over?
 **Cursed Arm:**
 O great founder! Please allow me to be the one to serve you! This burden is too heavy for Serenity! 
  
-**? ? ? :**
+**???:**
 Fool. Thine head shall be taken by my sword. It is not worthy for the ritual. 
  
-**? ? ? :**
+**???:**
 The head of Serenity shall be offered as a tribute by those entering here. The scales accept but one head. 
  
 ---
@@ -13006,18 +13006,18 @@ There's no way we can do that!
 ---
 
  
-**? ? ? :**
+**???:**
 Choose thine own path. I judge only the outcome. Now, start thy dance of death, Serenity. 
  
-**? ? ? :**
+**???:**
 Whose head shall be chosen by the Evening Bell...That will be determined by thine hands. 
  
-**--ARROW--:**
+**--ARROW--**
  
-**? ? ? :**
+**???:**
 Choose thine own path. I judge only the outcome. Now, start thy dance of death, Serenity. 
  
-**? ? ? :**
+**???:**
 Whose head shall be chosen by the Evening Bell...That will be determined by thine hands. 
  
 **Dr. Roman:**
@@ -13046,7 +13046,7 @@ Just like always With everything we've got!
 **Mash:**
 &mdash;Yes! I, Mash Kyrielight, will fight with all my strength as your Servant! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We've successfully neutralized the enemy Servant, and somehow avoided destroying her Spirit Origin! 
@@ -13054,10 +13054,10 @@ We've successfully neutralized the enemy Servant, and somehow avoided destroying
 **Serenity:**
 Ah, everyone...I am so...sorry...
  
-**? ? ? :**
+**???:**
 ...I asked of thee to seize life, and yet thou would seize everything. 
  
-**? ? ? :**
+**???:**
 However, I said also that I judge only the outcome. I judge not the goodness or evil of thy path.... Very well. 
  
 **First Hassan:**
@@ -13621,7 +13621,7 @@ Aaaahhhhhhhh!
 **Serenity:**
 Stay calm, Mash! They're the ones who are going down! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...! 
@@ -13686,7 +13686,7 @@ Come in, Commander. This is Markt 5. I've located Iseult. Repeat, I've located I
 **Dr. Roman:**
 The surrounding enemies are coming towards you! You three, be careful! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Serenity:**
 As I expected...Master Fujimaru, half of the villagers have already evacuated! 
@@ -13811,7 +13811,7 @@ A chance to battle against such a skilled marksman,a true legend. Yet the fight 
 **Tristan:**
 ...I'm so sad it makes me chuckle. Fate has finally caught up with you. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Tristan:**
 I'm Tristan, a Knight of the Round Table. I've come to collect your heads. 
@@ -13899,7 +13899,7 @@ The Heroic Spirit of the Round Table who refused the Lion King's summons. The on
 **Tristan:**
 Come now, young one. I'll let you practice with me. Let your screams reveal your true identity! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Serenity:**
 Ugh! Master Fujimaru, this knight is not an Archer! 
@@ -14035,7 +14035,7 @@ As such, I have no hesitation about slaying you on the spot. Rescuing one's frie
 **Mash:**
 Enemy Servants are coming! Master, your orders please! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Bedivere:**
 ...Ugh. 
@@ -14163,7 +14163,7 @@ Yes! We will assist Master Fujimaru, even if we die here!
 **Mash:**
 Master, your orders! Let us break through the Enforcement Knights' ranks! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 Right above you! Magical energy value over 3,000,000! Um...Even the highest ranked Noble Phantasm has a value between 1,000 and 3,000, so...
@@ -15053,7 +15053,7 @@ Sanzang is such a troublemaker, isn't she...
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Phew. The battle is over. Sanzang is safe. 
@@ -15346,7 +15346,7 @@ Yes, admitting the king is wrong but still fighting...He needs a good preaching-
 **Sanzang:**
 Fujimaru, we'll back up Bedi! The way things are going, I have a feeling we can win this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sanzang:**
 No good! 
@@ -15396,7 +15396,7 @@ What...
 **Mash:**
 What's going on!? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **C：? ? ? :**
 My name is Nitocris! I am the pharaoh who has been assigned this Atlas Institute by the Sun King! 
@@ -15490,7 +15490,7 @@ Tch, they aren't going to let us go, either! Fujimaru, let's crush them to bits!
 **Mash:**
 Yes! I hate to disappoint the queen, but we can't hesitate here! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We've intercepted the sphinxes! Senpai, how should we proceed from&mdash; Argh! 
@@ -15820,7 +15820,7 @@ It seems the defense mechanisms are still active! I was right to wait for your a
 **Holmes:**
 My existence is currently in flux...There's no way I can fight. I'm counting on your success! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Holmes:**
 What's the Atlas Institute, you ask? An excellent question, {(M) Mr. /(F) Ms. } Fujimaru. 
@@ -15948,7 +15948,7 @@ Is its true identity an ideal shelter, or merely an enormous tomb?
 **Holmes:**
 Let us hold hope in our hearts, and press forward to see the truth. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Bedivere:**
 Still, the layout of this place is rather complicated. It's more of a maze than an academic institute. 
@@ -15995,7 +15995,7 @@ They had recovered four of the contracts by 2000 AD, but the whereabouts of the 
 **Holmes:**
 Oh, sorry to stop so abruptly, but there are more defense mechanisms! I expect you can handle them? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Holmes:**
 ...Hm. {(M) Mr. /(F) Ms. } Fujimaru, having watched two of your battles, may I comment on your leadership? 
@@ -16317,7 +16317,7 @@ Even if I deduce the truth behind the incident, I don't have the power to undo w
 **Holmes:**
 The King of Mages doesn't believe so...Which is your one and only chance to overcome that demon's crime. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Holmes:**
 Rejoice, everyone. We're nearly at the center. Many answers await us ahead. 
@@ -16357,7 +16357,7 @@ The greatest reason why I appeared before you is that the peering eyes of Chalde
 **Holmes:**
 Let me tell you in advance. I do not trust Doctor Roman. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 This is the heart of the Atlas Institute...We're underground, but there's a sky, Master! 
@@ -16875,7 +16875,7 @@ She never forgets gratitude. Why would she hold any pessimism in her heart towar
 **Bedivere:**
 They were eons apart, they were a different race...But he truly did entrust this to the person closest to him...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Holmes:**
 Now, {(M) Mr. /(F) Ms. } Fujimaru. I'll leave the actual awakening of the Noble Phantasm to you. 
@@ -17168,7 +17168,7 @@ The Atlas Institute does not want people to leave...I thought I've explained thi
 **Holmes:**
 This is the final battle in this underground lost world. Let's make it count! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Senpai, I see light at the end of the corridor. That must be sunlight! 
@@ -17490,7 +17490,7 @@ I am Mash Kyrielight. My True Name as a Heroic Spirit...is Galahad!
 **Mash:**
 With this flesh and bone I have been granted, I will purge the filth from the proud Knights of the Round! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Lancelot:**
 Ugh...The attack is so strong it reaches the core of my body...There's no doubt...
@@ -17900,7 +17900,7 @@ Hahaha! As expected of Fujimaru!
 **Da Vinci:**
 Well then, while we battle, I'll have you tell me about this sacred lance! Fill me in on what the Lion King is aiming for! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...And that's the truth about the sacred lance. Do you understand, Da Vinci? 
@@ -18150,7 +18150,7 @@ He only sides with whoever can win.
 **Lancelot:**
 We'll tell him directly that there is value in fighting alongside us. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 Okay, we're ready to cross the desert. Shall we leave soon, Fujimaru? 
@@ -18340,7 +18340,7 @@ What!? Senpai, emergency brake! My apologies!
 **Sanzang:**
 Wooohooo☆ We're drifting in the desert☆
  
-**? ? ? :**
+**???:**
 Hollyyyyyyyywoooooooood! 
  
 **Mash:**
@@ -18352,7 +18352,7 @@ The ones that lived seemed to have multiplied. What marvelous vitality!
 **Da Vinci:**
 But it was a mistake for them to try to take their revenge. This time we'll annihilate those mysterious lifeforms! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 And so, having overcome various trials and tribulations, we finally arrive at the great temple! 
@@ -18845,8 +18845,8 @@ I know nothing of that! Nothing! If anything happened, it was because I was stil
 **Nitocris:**
 O mirror of underworld, O warriors from the forgotten and ruined world! Nitocris orders you! Return this once to the present world! 
  
-**? ? ? :**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;
+**???:**
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;
  
 **Nitocris:**
 Now then, let your trial begin! If you desire an audience with the king, defeat these monsters that have answered my summons! 
@@ -18854,7 +18854,7 @@ Now then, let your trial begin! If you desire an audience with the king, defeat 
 **Nitocris:**
 My name is Pharaoh Nitocris! Upon your victory, I will show you the road to glory! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nitocris:**
 ...Truly the skill of a seasoned warrior. Certainly worthy of an audience with the king...
@@ -18891,7 +18891,7 @@ Ah, this is certainly “retribution. ” She saved us, so she can't complain wh
 **Da Vinci:**
 Okay, let's head to the throne, further into the inner citadel, for the confrontation with King Ozymandias! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Ozymandias:**
 So you bested Nitocris. Good. I congratulate you. 
@@ -19147,7 +19147,7 @@ Although it's temporary, that's a true Divine Spirit...A monster that far exceed
 **Mash:**
 As proof that we can defeat the Lion King...we will take down the Demon God Pillar Amun-Ra! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Demon God Amun-Ra:**
 Meryamun...Usermaatre! 
@@ -19205,7 +19205,7 @@ Pratityasamutpada! These merits, skills, and the teachings of the Buddha are hon
 **Sanzang:**
 The time has come to unleash the Buddha Palm! Now, I will save this entire world! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Demon God Amun-Ra:**
 AA...AAaaAAAAAA! 
@@ -19287,7 +19287,7 @@ The Demon God Pillar was but an opening act! Witness the pharaoh's fighting meth
 **Nitocris:**
 In other words, this is the final decisive battle! I, Nitocris, shall make you shine with all I've got! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Ozymandias:**
 ...Now then, what were we talking about? 
@@ -19767,7 +19767,7 @@ Indeed, it's as Hundred Personas says. Please go along with it, Fujimaru.
 **Cursed Arm:**
 Can we place our people's fate in your hands? Do your skills measure up or not...This will be the last time we let our fists do the talking! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sanzang:**
 Lalalaaa...gaaateee...lalaaa...paaaraaagaateeee! ♪
@@ -20658,7 +20658,7 @@ A very directional one! I can only call this divine intervention!
 Ahh! This bell! Sir Lancelot! This is the power of the great founder! 
  
 **Cursed Arm:**
-My promise has been fulfilled! We advance! ! 
+My promise has been fulfilled! We advance!! 
  
 ---
 
@@ -20690,7 +20690,7 @@ Alright, let's go Mash!
 **Mash:**
 Yes...! I am going to do my best! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gawain:**
 Hurry with the message! Tell the soldiers on the wall to only aim for enemies directly below us! 
@@ -20773,7 +20773,7 @@ I am Hassan-i Sabbah. I am come from the valley of death to bring the living wit
 **First Hassan:**
 Look upon the heavens, foolish knight. Does the sun shine above thine head? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Alliance Soldier:**
 Climb! The sandstorm won't last forever! Let's get a ladder and get up on that wall now! 
@@ -20823,7 +20823,7 @@ Enforcement Knights! This unit is under Sir Agravain's direct control!
 **Bedivere:**
 We will intercept, Fujimaru! Right now, we must protect ourselves! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Tawara Touta:**
 There's just no end to them! And they don't seem to care if they survive or not! 
@@ -21104,7 +21104,7 @@ They're coming! These are the Enforcement Knights directly assigned to the Holy 
 **Da Vinci:**
 They're clones of the Lion King. Consider this a warm-up! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 We've eliminated the Enforcement Knights! The path's clear, Master! 
@@ -21343,7 +21343,7 @@ Sir Mordred is engaging!
 **Mash:**
 The Gift of the Knights of the Round Table is still active! Let's fight with all we have, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 Gah! Grah...It'll take more than that...
@@ -21520,7 +21520,7 @@ Give me a moment! I'll take care of this!
 ...I still have strength left. Pharaoh Nitocris, do you require my aid? 
  
 **Nitocris:**
-Aah! ! AAAHHH! 
+Aah!! AAAHHH! 
  
 **Ozymandias:**
 ...No, there was no need to ask. You'll burn yourself to ash before you ask for help. That's the kind of woman you are. 
@@ -21582,7 +21582,7 @@ Don't push yourself too hard. You're a little too kind to rule the darkness.
 **Nitocris:**
 ...No, that's not true. I am still an inexperienced pharaoh...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Alliance Soldier:**
 Did you see that!? The pyramid destroyed the pillar of light in the Holy City! 
@@ -21956,7 +21956,7 @@ He's coming! Fujimaru, milady, get ready!
 **Mash:**
 Right! The enemy is Tristan, Knight of the Round Table! His bow has taken many lives! This time, we'll snap it in two! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Tristan:**
 ...How sad. To miss your mark, despite possessing all of that skill...
@@ -22137,7 +22137,7 @@ This is the royal guard. They'll be in a whole other league than the others!
 **Dr. Roman:**
 Be careful, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 Enforcement Knights, farewell! This is really the last of them! 
@@ -22378,7 +22378,7 @@ Thus, even viewing the villainous knight was horrifying. He was reduced to a mon
 **H：? ? ? ? ? :**
 ...Heh. Since coming to this land, there has been nothing but misery. And yet, in the end, it seems I saw something amusing...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Bedivere:**
 The seventh corridor and the second spiral staircase. This is the fastest route to the throne. 
@@ -22576,7 +22576,7 @@ Then I shall crush you along with that arm.
 **Gawain:**
 Last remnant of the old Round Table! Last remnant of chivalry! Your life will end here! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gawain:**
 So this is the end...I guess this is divine intervention...
@@ -22710,7 +22710,7 @@ I still have something left to do.
 **Agravain:**
 ...This is what you deserve. You have once again betrayed my king. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Dr. Roman:**
 ...It's time. I've detected a powerful magical response up ahead. 
@@ -22967,7 +22967,7 @@ The enemy is Altria, the Lion King...No, she's not a Heroic Spirit anymore!
 **Da Vinci:**
 If I were to give her a name...She is the Goddess Rhongomyniad, an avatar of the sacred lance! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 She blew away pieces of Sheba!? Her magical energy can even reach Chaldea!? 
@@ -23503,7 +23503,7 @@ Please help my weak self.
 **Mash:**
 Our enemy is the Lion King, Goddess Rhongomyniad! Let's start the final battle of this Holy City, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Merlin:**
 The king wandered without ever recovering her sword, and became a Heroic Spirit of heaven. 
@@ -23860,14 +23860,14 @@ Oh yeah? Get lost then, ya stingy jerk!
 **Saruhan:**
 You helped us with a lot...but it was the rice you gave us that made me happiest! 
  
-**? ? ? :**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;
+**???:**
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;
  
 **Cursed Arm:**
 ...Am I...alive? 
  
-**? ? ? :**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;
+**???:**
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;
  
 **Cursed Arm:**
 Haha...But not for long. I can't move my arms...or legs...
@@ -24161,7 +24161,7 @@ Or maybe it was something set up by the Lion King. Either way, you'll see him so
 Don't get too surprised, okay? His name is&mdash;
  
 **Mash:**
-Tatta-tatat-tah! ♪ Tatta-tatat-tah! ! 
+Tatta-tatat-tah! ♪ Tatta-tatat-tah!! 
  
 ---
 

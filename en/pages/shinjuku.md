@@ -1539,7 +1539,7 @@ Net?
 ---
 
  
-**? ? ? :**
+**???:**
 Damn, I missed! 
  
 **Da Vinci:**
@@ -1661,7 +1661,7 @@ Aha, no need for that. I understand perfectly. Very well, Master! Use me however
 **Archer of Shinjuku:**
 I am the Archer of Shinjuku, Servant at large and master of magical bullets! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 All enemies defeated. Well done, Master! 
@@ -1922,88 +1922,88 @@ Then I shall do my utmost to earn your trust, and you may demonstrate what you'r
 **Archer of Shinjuku:**
 You commanded numerous Servants and triumphed over the seven Singularities, right? That must mean you're not only the last Master in the world, you're also the greatest! Now, that I must see for myself! 
  
-**? ? ? :**
+**???:**
 &ndash;Month X, Day Y Dantès' Journal 
  
-**? ? ? :**
+**???:**
 To be frank, good cannot survive here. Here, good is fragile and unreliable. 
  
-**? ? ? :**
+**???:**
 Cooperation is impossible. Therefore, no choice remains but to rely on others. 
  
-**? ? ? :**
+**???:**
 Reliance makes for less than the sum of its parts. As such, evil will always refuse good. 
  
-**? ? ? :**
+**???:**
 A cat, all skin and bones, has summoned the last of its strength to consume a dog's remains. 
  
-**? ? ? :**
+**???:**
 Its gaze is as sharp and deadly as a knife. The rats nearby waiting for scraps dare not approach. 
  
-**? ? ? :**
+**???:**
 A person draws near, hoping to beat the cat to death and devour both it and the dog. 
  
-**? ? ? :**
+**???:**
 Then the rats come, swarming over the three larger creatures until even their bones are gone. 
  
-**? ? ? :**
+**???:**
 Evil consumes both good and evil alike, annihilating each with equal disdain. 
  
-**? ? ? :**
+**???:**
 To survive here, one must either possess great power, or move in a group of like-minded comrades. 
  
-**? ? ? :**
+**???:**
 Unfortunately for me, being part of a group is not something I excel at. 
  
-**? ? ? :**
+**???:**
 So, what am I to do? 
  
-**? ? ? :**
+**???:**
 My investigation of Shinjuku is proceeding apace. 
  
-**? ? ? :**
+**???:**
 Though the knowledge of Shinjuku imparted to me differs greatly from the reality of its insides, the premises of its external structure remain largely intact. 
  
-**? ? ? :**
+**???:**
 There are ruins where buildings should be, and collapsed husks where houses should be. 
  
-**? ? ? :**
+**???:**
 However, there's something different about that building. What could it be? 
  
-**? ? ? :**
+**???:**
 &ndash;Month X, Day Z Dantès' Journal 
  
-**? ? ? :**
+**???:**
 I have confirmed the presence of a visitor from Chaldea. {(M) He /(F) She} is now accompanied by...another. 
  
-**? ? ? :**
+**???:**
 {(M) His /(F) Her} situation is more perilous than {(M) he /(F) she} realizes. For that one's heart is pure evil. 
  
-**? ? ? :**
+**???:**
 Believe me, I would know. For evil is as evil does. 
  
-**? ? ? :**
+**???:**
 From the moment he was born, he only knew contempt. To him, love has always been a foreign concept. 
  
-**? ? ? :**
+**???:**
 That's why I find {(M) him /(F) her} standing at his side to be so...frightening. 
  
-**? ? ? :**
+**???:**
 However, if he was to find out what I was up to, I would lose the element of surprise. 
  
-**? ? ? :**
+**???:**
 At the moment, my sole advantage is that nobody knows I'm here. 
  
-**? ? ? :**
+**???:**
 We still believe this Singularity to be some sort of mistake. The result of mere coincidence. 
  
-**? ? ? :**
+**???:**
 No. No, no no! 
  
-**? ? ? :**
+**???:**
 This has all been meticulously planned out from the beginning. With...his...involvement, it had to be! 
  
-**? ? ? :**
+**???:**
 ...Good. That'll do nicely. 
  
 ## Section 2: Millennium Trap 
@@ -2024,7 +2024,7 @@ I hacked the Rayshift coordinates to make {(M) him /(F) her} fall, but I'm afrai
 So, what's our plan now? 
  
 **B：? ? ? :**
-![3-light](https://i.imgur.com/9QdxWyo.png#gh-dark-mode-only) ![3-dark](https://i.imgur.com/LZWwsPs.png#gh-light-mode-only)
+![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **A：? ? ? :**
 Calm yourself, Rider. Not that I blame you for being enraged. 
@@ -2660,7 +2660,7 @@ I guess now that we've been spotted, there's no turning back. Let's be about it 
 **Mash:**
 Here come the Coloraturas! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Ninth Coloratura, defeated! 
@@ -3063,8 +3063,8 @@ A human arm!
 ---
 
  
-**? ? ? :**
-![4-light](https://i.imgur.com/cUedQZ5.png#gh-dark-mode-only) ![4-dark](https://i.imgur.com/AMEQIBO.png#gh-light-mode-only)
+**???:**
+![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Archer of Shinjuku:**
 Hahaha! I see you're as much of a glutton as ever! 
@@ -3090,8 +3090,8 @@ We should be able to figure out the headless rider soon, but there must be hundr
 **Da Vinci:**
 So let's save that for later! 
  
-**? ? ? :**
-![4-light](https://i.imgur.com/cUedQZ5.png#gh-dark-mode-only) ![4-dark](https://i.imgur.com/AMEQIBO.png#gh-light-mode-only)
+**???:**
+![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Mash:**
 Here they come! 
@@ -3113,7 +3113,7 @@ That was just the call to action I needed! I must say, it's rather nice having a
 **Archer of Shinjuku:**
 Come, Rider! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Archer of Shinjuku:**
 Ha ha ha! My apologies, but I'm afraid I'm completely outclassed. 
@@ -3169,7 +3169,7 @@ Temporary contract or not, I am still your Servant for the moment! I have no pla
 Now...bring it! 
  
 **Rider of Shinjuku:**
-![4-light](https://i.imgur.com/cUedQZ5.png#gh-dark-mode-only) ![4-dark](https://i.imgur.com/AMEQIBO.png#gh-light-mode-only)
+![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Archer of Shinjuku:**
 Ngh! 
@@ -3184,7 +3184,7 @@ Huh!?
 A Servant!? 
  
 **Rider of Shinjuku:**
-![3-light](https://i.imgur.com/9QdxWyo.png#gh-dark-mode-only) ![3-dark](https://i.imgur.com/LZWwsPs.png#gh-light-mode-only)
+![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Mash:**
 And there's another one headed your way, fast! 
@@ -3253,7 +3253,7 @@ Of course, she is fairly twisted, but I can't let that stop me from paying her a
 ---
 
 **Fujimaru 1:**
-Ohgodohgodohgod! ! ! I'M GONNA DIIIIIIIIIE! ! ! 
+Ohgodohgodohgod!!! I'M GONNA DIIIIIIIIIE!!! 
 
 ---
 
@@ -3873,7 +3873,7 @@ I really hope you have sweet dreams.
 So, you were unable to take down the target. 
  
 **Rider of Shinjuku:**
-![3-light](https://i.imgur.com/9QdxWyo.png#gh-dark-mode-only) ![3-dark](https://i.imgur.com/LZWwsPs.png#gh-light-mode-only)
+![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Archer of Shinjuku:**
 Oh, sorry. I wasn't criticizing you. 
@@ -3903,7 +3903,7 @@ We are the losing side.
 Good always wins. We are destined to be defeated. 
  
 **Rider of Shinjuku:**
-![3-light](https://i.imgur.com/9QdxWyo.png#gh-dark-mode-only) ![3-dark](https://i.imgur.com/LZWwsPs.png#gh-light-mode-only)
+![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Archer of Shinjuku:**
 But matters are different here in Shinjuku. Here, we turn the tables.... They said they were going to Shinjuku Station, right? 
@@ -3912,9 +3912,9 @@ But matters are different here in Shinjuku. Here, we turn the tables.... They sa
 I'll send my personal guard to greet them. Go blow off some steam. 
  
 **Rider of Shinjuku:**
-![4-light](https://i.imgur.com/cUedQZ5.png#gh-dark-mode-only) ![4-dark](https://i.imgur.com/AMEQIBO.png#gh-light-mode-only)
+![4-light](https://i.imgur.com/cUedQZ5.png)
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Good morning, Senpai. Did you sleep we&ndash;Uh, never mind. 
@@ -4096,7 +4096,7 @@ Got it!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Altria Alter:**
 That should do it. Thank you for the instructions, Master. 
@@ -4924,7 +4924,7 @@ I believe killing someone begging for their life is a specialty of yours, isn't 
 You want an answer? Fine, here it is. 
  
 **Jeanne Alter:**
-You messed with the wrong woman, you little shit. I'll burn you to cinders! ! ! 
+You messed with the wrong woman, you little shit. I'll burn you to cinders!!! 
  
 **Emiya Alter:**
 My my. 
@@ -4939,7 +4939,7 @@ Huh!?
 She didn't...! 
  
 **Jeanne Alter:**
-Bwahahahaha! If I die here, I'm taking you with me! ! ! 
+Bwahahahaha! If I die here, I'm taking you with me!!! 
  
 **Jeanne Alter:**
 Are you so dense that you can't even figure that out, stujerk!? (Short version of “stupid jerk”)
@@ -5089,7 +5089,7 @@ Anyway, it looks like the hyenas have caught my Noble Phantasm's scent.
 **Jeanne Alter:**
 Hey, get rid of them for me. We can talk after that. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The battle is over. Well done, Master. 
@@ -5472,7 +5472,7 @@ They've created a haphazard mishmash of defective components, and somehow made i
 **Archer of Shinjuku:**
 Regardless, remain alert, and keep your guard up! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Altria Alter:**
 Hey, what's going on? How can they be this strong!? 
@@ -5521,7 +5521,7 @@ Got it.
 
  
 **Rider of Shinjuku:**
-![3-light](https://i.imgur.com/9QdxWyo.png#gh-dark-mode-only) ![3-dark](https://i.imgur.com/LZWwsPs.png#gh-light-mode-only)
+![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Altria Alter:**
 Ngh...
@@ -5580,7 +5580,7 @@ Not even you can easily jump over a wall of hellfire like this!
 On top of that, we can also use it to keep Master safe! ...Er, as long as {(M) he /(F) she} watches out for the heat! 
  
 **Rider of Shinjuku:**
-![4-light](https://i.imgur.com/cUedQZ5.png#gh-dark-mode-only) ![4-dark](https://i.imgur.com/AMEQIBO.png#gh-light-mode-only)
+![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Archer of Shinjuku:**
 Hahahaha! 
@@ -5610,10 +5610,10 @@ Very well, but make absolutely sure to stay behind me!
 **Mash:**
 Here he comes! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Rider of Shinjuku:**
-![4-light](https://i.imgur.com/cUedQZ5.png#gh-dark-mode-only) ![4-dark](https://i.imgur.com/AMEQIBO.png#gh-light-mode-only)
+![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Archer of Shinjuku:**
 Don't expect us to go easy on you, Dullahan! 
@@ -5625,10 +5625,10 @@ Did you get it!?
 Not yet! 
  
 **Rider of Shinjuku:**
-![4-light](https://i.imgur.com/cUedQZ5.png#gh-dark-mode-only) ![4-dark](https://i.imgur.com/AMEQIBO.png#gh-light-mode-only)
+![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Altria Alter:**
-Wind! ! ! 
+Wind!!! 
  
 **Archer of Shinjuku:**
 Bull's-eye! 
@@ -6478,7 +6478,7 @@ I see you're preparing for battle even as you say that. Perhaps you're kinder th
 **Altria Alter:**
 All right, it's time to capture a Coloratura. We await your orders, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Altria Alter:**
 All right, we've captured a puppet and helped the people escape. 
@@ -6843,7 +6843,7 @@ Come, sing with us. Share in our joy.
 Enjoy this beauty forevermore, for all eternity...Let them join our Coloraturas. 
  
 **Citizen A:**
-N-no! Please! Not that! Anything but thaaat! ! ! 
+N-no! Please! Not that! Anything but thaaat!!! 
  
 **Ruffian A:**
 Ah...Aah...Aaah...Please...Don't...I'm beggin' you. 
@@ -7048,7 +7048,7 @@ Very well then, let's start taking care of these Coloraturas.
 **Archer of Shinjuku:**
 Our targets are the Berserker of Shinjuku&ndash;also known as the Phantom of the Opera&ndash;and Christine Daaé! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Archer of Shinjuku:**
 All right, we're in! Now, Mash! 
@@ -7166,7 +7166,7 @@ Let's do this!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Phantom:**
 Aah, her song...It stopped. 
@@ -7963,7 +7963,7 @@ Knowing you, I'm certain you can assess the situation calmly no matter the circu
 **Mash:**
 Here come the Hornets! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Altria Alter:**
 This ends now! 
@@ -8009,7 +8009,7 @@ That thing is no King Lear!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Altria Alter:**
 ...Excalibur Morgan! 
@@ -8526,7 +8526,7 @@ Shakespeare, why did you have to go and write these things into existence!?
 **Edmond Dantès:**
 Sorry, Master, but I'm afraid I'm not at my best right now. I hope you can figure a way out of this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Edmond Dantès:**
 Phew. Looks like our escape was a success. 
@@ -8977,7 +8977,7 @@ So, on that note, {(M) Mr. /(F) Ms. } Fujimaru,I hope I can count on your help.
 **Edmond Dantès:**
 Fortunately, these should be easier than that King Lear. Of course, there are also a lot more of them! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Edmond Dantès:**
 Hmm, I had better stock up on weapons soon. I believe he should be around here. 
@@ -10120,7 +10120,7 @@ But first, go ahead and clear out those ruffians and brainwashed Coloraturas.
 **Moriarty:**
 What's that? They refuse to leave? Makes sense! In that case, it's battle time! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Moriarty:**
 Right then, everyone! What say we get changed, go out there, and raise hell!? 
@@ -10687,7 +10687,7 @@ Thank goodness we're not too late! Now then, let's start by taking care of these
 **Moriarty:**
 What say we cut them down to size! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Assassin of Shinjuku:**
 Tch! Send in more reinforcements! 
@@ -10707,19 +10707,19 @@ I'm picking up a new enemy signal. Be careful, Master!
 **Jeanne Alter:**
 What the...? Something's weird about this. 
  
-**? ? ? :**
+**???:**
 My beloved you! 
  
-**? ? ? :**
+**???:**
 My beloved me! 
  
-**? ? ? :**
+**???:**
 Now we shall be as one for all of time, where death's cold grasp can never do us part! 
  
-**? ? ? :**
+**???:**
 Ahh, Romeo! Ahh, Juliet! 
  
-**? ? ? :**
+**???:**
 Now peace we shall restore forevermore. Blend in, like us! 
  
 **Affluent Person:**
@@ -10743,7 +10743,7 @@ Love that is just a pain in the ass for everyone around is nothing more than a s
 **Jeanne Alter:**
 And this Dragon Witch isn't going to let you losers get away with it for one more second! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jeanne Alter:**
 That takes care of that! 
@@ -10833,7 +10833,7 @@ Die for glory and desire! My star is the Skillful Star!
 **Assassin of Shinjuku:**
 I am Yan Qing, one of the 108 Stars of Destiny! Prepare yourself! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Yan Qing:**
 Ngh...! 
@@ -10999,7 +10999,7 @@ Plus she's rolling around with bamboo.
  
 **Jeanne Alter:**
  
-IT'S A FLAAAG! ! ! 
+IT'S A FLAAAG!!! 
  
 **Holmes:**
 All right, now that the Assassin of Shinjuku has been dealt with...
@@ -11320,7 +11320,7 @@ Now I see. Since they loathe humans, they see Heroic Spirits like us as no more 
 **Mash:**
 Here it comes! Please keep your defenses as tight as possible! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Moriarty:**
 ...Get back! 
@@ -11504,13 +11504,13 @@ I'm counting on you.
 ...I said get lost. I got this. 
  
 **Hessian Lobo:**
-![3-light](https://i.imgur.com/9QdxWyo.png#gh-dark-mode-only) ![3-dark](https://i.imgur.com/LZWwsPs.png#gh-light-mode-only)
+![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Jeanne Alter:**
 Oh no you don't! 
  
 **Hessian Lobo:**
-![4-light](https://i.imgur.com/cUedQZ5.png#gh-dark-mode-only) ![4-dark](https://i.imgur.com/AMEQIBO.png#gh-light-mode-only)
+![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Jeanne Alter:**
 Ahahahaha!  You ain't goin' nowhere! 
@@ -11546,7 +11546,7 @@ So I'll put you out of your misery, Wolf King.
 Because those fleeting dreams we see right as we die are all we Avengers have to live for! 
  
 **Hessian Lobo:**
-![3-light](https://i.imgur.com/9QdxWyo.png#gh-dark-mode-only) ![3-dark](https://i.imgur.com/LZWwsPs.png#gh-light-mode-only)
+![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Jeanne Alter:**
 ...Ow...
@@ -11555,7 +11555,7 @@ Because those fleeting dreams we see right as we die are all we Avengers have to
 Shit...This...this wound's definitely fatal. You just had to get me through my heart, didn't you. 
  
 **Hessian Lobo:**
-![3-light](https://i.imgur.com/9QdxWyo.png#gh-dark-mode-only) ![3-dark](https://i.imgur.com/LZWwsPs.png#gh-light-mode-only)
+![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Jeanne Alter:**
 Not even a smile, huh. It's all just hate with you. At least learn to enjoy your revenge, you dumb mutt! 
@@ -11576,7 +11576,7 @@ Oh, and one more thing...I'm afraid I'm gonna make sure you stay here a little l
 La Grondement Du Haine! 
  
 **Hessian Lobo:**
-![4-light](https://i.imgur.com/cUedQZ5.png#gh-dark-mode-only) ![4-dark](https://i.imgur.com/AMEQIBO.png#gh-light-mode-only)
+![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Jeanne Alter:**
 Y'know, here's a fun fact about this fire: it's coming straight outta my body. Straight from mine into yours. 
@@ -11591,7 +11591,7 @@ Oh, I'm sure it won't be enough to kill you...but it'll damn sure slow you down 
 Gaaah. 
  
 **Hessian Lobo:**
-![3-light](https://i.imgur.com/9QdxWyo.png#gh-dark-mode-only) ![3-dark](https://i.imgur.com/LZWwsPs.png#gh-light-mode-only)
+![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Narration:**
 It's no good...I can't move a muscle. 
@@ -12436,7 +12436,7 @@ Zero!
 Zero! 
  
 **Hessian Lobo:**
-! ! ! 
+!!! 
  
 **Altria Alter:**
 How's that!? 
@@ -12493,7 +12493,7 @@ Jeanne was right. Avengers running wild must be cut down without mercy.
 
  
 **Hessian Lobo:**
-![3-light](https://i.imgur.com/9QdxWyo.png#gh-dark-mode-only) ![3-dark](https://i.imgur.com/LZWwsPs.png#gh-light-mode-only)
+![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Altria Alter:**
 ...My sacred sword shall bring you that swift and merciless end! 
@@ -12501,7 +12501,7 @@ Jeanne was right. Avengers running wild must be cut down without mercy.
 **Altria Alter:**
 Your days of vengeance are over, Wolf King...! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Hessian Lobo's magical energy is...declining rapidly. 
@@ -13553,7 +13553,7 @@ Ready your weapons, Archer. I won't even ask you for a fair fight. Feel free to 
 **Emiya Alter:**
 Why you little...! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Emiya Alter:**
 ...! Was that...!? 
@@ -13713,7 +13713,7 @@ By the way Altria, I should remind you that Fujimaru is MY chum, so I'd apprecia
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 I'm detecting a Servant behind you. 
@@ -13763,7 +13763,7 @@ S-still, he may be the same type as a King Lear! Be careful, Master!
 **Mash:**
 He can't be invincible all the time! Good luck! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Moriarty:**
 Well, he wasn't exactly weak...but overall, rather unimpressive! 
@@ -13777,7 +13777,7 @@ It may have been difficult to get Macbeth just right, since he actually existed 
 **Moriarty:**
 Lucky for us that Shakespeare guy is such a hack! Hahaha! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Moriarty:**
 Is it just me, or was that thing an amalgamation of pure malice!? 
@@ -13832,7 +13832,7 @@ Stop slacking off!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 Ha ha, sorry about that. I guess I got a little carried away. 
@@ -13986,7 +13986,7 @@ Exactly. This is the conclusion of the case of the Shinjuku Phantom Spirit.
 **F：Moriarty:**
 Try and solve it if you can, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **F：Moriarty:**
 So...I have lost. 
@@ -14654,7 +14654,7 @@ Let's do this, Moriarty!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Demon God Bael:**
  
@@ -15036,19 +15036,19 @@ Tch!
 **Moriarty:**
 Who are you!? 
  
-**? ? ? :**
+**???:**
 Hahahaha! 
  
-**? ? ? :**
+**???:**
 Regret!? To think the Napoleon of crime would have any regrets! 
  
-**? ? ? :**
+**???:**
 You truly have fallen low, haven't you, Professor!? 
  
-**? ? ? :**
+**???:**
 And yet this young {(M) man /(F) lady} doesn't regret anything! 
  
-**? ? ? :**
+**???:**
 That's my accomplice for you! 
  
 ---
@@ -15068,7 +15068,7 @@ And here I thought that impostor, Holmes, was the only one who had been summoned
 **Fujimaru 2:**
 I know that laugh...! 
  
-**? ? ? :**
+**???:**
 Hahahaha! You recover quick, don't you! 
  
 
@@ -15503,7 +15503,7 @@ There's no way I'm giving up!
 **Moriarty:**
 Then have at you! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Moriarty:**
 Ngh...! I can't believe you overpowered me in this state! 

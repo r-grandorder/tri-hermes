@@ -75,7 +75,7 @@ But&mdash;Heh heh, hahahahaha! That's what makes you Francis Drake! Your legend 
 **F：? ? ? :**
 Hahaha! HAHAHAHAH! AAAAAAHAHAHAHAHA LOLOLOLOLOL! 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **A：? ? ? :**
 &mdash;I woke up at the same time today. 
@@ -117,7 +117,7 @@ I thought, perhaps, that part of his body was in pain. "Are you okay? " I asked 
 I was extremely happy. For one more day,I'd get to enjoy the wonders of this world. 
  
 **Fou:**
-Fou! (plod, plod, plod)Fou! FOU! ! (plod, plod, plod, plod)
+Fou! (plod, plod, plod)Fou! FOU!! (plod, plod, plod, plod)
  
 ---
 
@@ -533,7 +533,7 @@ Not really sure what's going on, but...Get 'em, fellas!
 **Dr. Roman:**
 Sorry, I promise I meant well! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Pirate:**
 Sorry about that...
@@ -621,7 +621,7 @@ Woo-hoo! Women! Prey! Hunting! Looks like fun!
 **Mash:**
 ...Looks like pirates are just as enthusiastic on land. I'm taking them out! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...All right, next please. 
@@ -782,7 +782,7 @@ So you don't know...Fine, bring them in!
 **Mash:**
 If you'll excuse me. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Drake:**
 ...Well now,you certainly brought me some strange ones, Bombe. 
@@ -946,7 +946,7 @@ Let's go!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 S-So powerful...This person is flesh and blood, right? 
@@ -1068,7 +1068,7 @@ What's up?
 **Dr. Roman:**
 Nah, must be an error. I'll make some adjustments. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Drake:**
 All right, men! To our two new comrades, Fujimaru and Mash. 
@@ -1415,7 +1415,7 @@ And, now they're fighting. Looks like we have to stop them!
 **Mash:**
 This is insane...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Drake:**
 So...What? You guys came for this magical tankard...
@@ -1746,7 +1746,7 @@ Good luck.
 **Mash:**
 I-Is it just me,or are you sort of out of it, Master? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Whew...I'm all sticky from the seawater. 
@@ -1799,7 +1799,7 @@ Yes, that's correct. Now, let us be on our way!
 **Fou:**
 Fou! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Drake:**
 By the way. 
@@ -1972,7 +1972,7 @@ For King Eric,our great and glorious leader!
 **Mash:**
 Roger. Master...Let's go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Whew. The battle has ended, Master. 
@@ -1986,7 +1986,7 @@ They haven't noticed us? Anyway, you need to get out of there fast.
 **Mash:**
 Roger that. Let's move on. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Drake:**
 Mmm...Sniff, sniff. Treasure, will I get a whiff of that treasure? 
@@ -2097,7 +2097,7 @@ Looks like they sensed you guys. They're coming in fast!
 Hopefully we can talk it out with them&ndash;
  
 **F：? ? ? :**
-Gagagagaga! Gigigigi&mdash;giiiiiiii! ! 
+Gagagagaga! Gigigigi&mdash;giiiiiiii!! 
  
 **F：? ? ? :**
 M-My! My name! Eric! The Grand...Eric! 
@@ -2135,7 +2135,7 @@ I'll pay my respects, but also give him a dose of reality! Fujimaru, this is how
 **Drake:**
 "Shut up, you bearded freak! The old need to retire! "
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Eric Bloodaxe:**
 Gi, gi, gi...Ga, ga, ga...Not giving it to you! It's mine! 
@@ -2335,7 +2335,7 @@ In the first place, this maze is "that" labyrinth, right? There's no way...out o
 ...Wait, that means HE is here. As long as this labyrinth exists, HE is sure to be here. 
  
 **E：? ? ? :**
-! ! ! I knew it...
+!!! I knew it...
  
 **E：? ? ? :**
 Something's coming from behind, too...ARGH! What am I supposed to do? 
@@ -2394,7 +2394,7 @@ So, an enemy! Mash, Fujimaru, get ready! Time to get to work!
 **Mash:**
 Aye, aye, Captain Drake! Here we go, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Drake:**
 All right, this side's taken care of. 
@@ -2417,7 +2417,7 @@ Okay. You'll have the results right away.
 **Drake:**
 All right, then I'm advancing this ship. If this chart is right, the island should be in sight soon! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Dr. Roman:**
 Yes. This island is way bigger than the other one. That's why we were able to locate a Leyline. 
@@ -2473,7 +2473,7 @@ That&ndash;appears to be a skeleton,but something is slightly off.
 **Dr. Roman:**
 Dragon Tooth Warriors. Soldiers forged from dragon fangs. Fujimaru, dispose of them. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The battle has ended, Master. Creating terminal point. 
@@ -2586,7 +2586,7 @@ That was a breeze compared to a raging ocean. But I'm worried about my ship and 
 **Mash:**
 Let's do that. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 The summoning circle has been established,but communications are still cut off. 
@@ -2705,7 +2705,7 @@ I think we're rushing it too much...
 **Drake:**
 See, they're here. Let's clean this up quickly! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 I mean...Seriously! 
@@ -2827,7 +2827,7 @@ Looks like the wound itself wasn't that bad. A flesh wound.
 **Mash:**
 It's our only clue. We should follow it! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Drake:**
 The blood trail stops here. I guess we'll have to give up tracking it further? 
@@ -2841,7 +2841,7 @@ This is great. I was getting bored of dungeon-crawling anyway.
 **Drake:**
 Let's take a break and light our guns up! All right, bring it on! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Drake:**
 Well, fighting these non-humans, including the bones back there, means I now got some more great tales to tell. 
@@ -2870,7 +2870,7 @@ Oh dear, isn't this just troublesome. What do you wanna do?
 **F：? ? ? :**
 Let me warn you...I don't like breaking a sweat. So, I'm not helping you. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Drake:**
 Hmmm...It's not like we're lost in here,but I'm still getting all kinds of bad vibes. 
@@ -2906,10 +2906,10 @@ Don't tell me you're expecting to run into{(M) a cute girl /(F) a cute boy}...
 
  
 **Drake:**
-! ! ! Stop right there! 
+!!! Stop right there! 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Drake:**
 Seems my hunch was right. Something's headed our way! 
@@ -2941,7 +2941,7 @@ This labyrinth is his territory. Retreat is not an option.
 **Mash:**
 ...Let's go, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Th-That was close! Wait...No way! 
@@ -3380,7 +3380,7 @@ Boss! Unknown ship detected starboard!
 **Drake:**
 Okay, let's deal with it,then booze it up! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Drake:**
 ...Now, according to the map, the next island is a bit further...Huh? 
@@ -3497,7 +3497,7 @@ A pirate?
 Not just an ordinary pirate. A "Pirate Servant" is after me. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Euryale:**
 I don't know his True Name. But, he's certainly the most disgusting guy in the world. 
@@ -3520,7 +3520,7 @@ Oh, I see. Then you'll be all right carrying me on your shoulders?
 **Asterios:**
 Mhm...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Euryale :**
 All right, what a great view&ndash;What? What's wrong, Asterios? 
@@ -3700,7 +3700,7 @@ I refuse. I won't admit that he is a Servant.
 ...Hmm? 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Blackbeard:**
 Mm...Mm, mm-hmm...I approve! You're accepted! Ta-da-dah-da-da-dah! 
@@ -3801,7 +3801,7 @@ Fortunately, my class is Archer. I can at least give you some cover.
 **Mash:**
 ...Understood. Mash Kyrielight...heading in! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Euryale:**
 More incoming! 
@@ -3815,7 +3815,7 @@ Asterios, don't move in your state! You're already injured!
 **Asterios:**
 ...Ugh...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Drake:**
 Fire the cannons. Fire, FIRE! 
@@ -3862,7 +3862,7 @@ Dammit! No good! Our cannonballs are bouncing off!
 **Pirate:**
 Their armor thickness is on another level! Crap...They're coming on board! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Drake:**
 Damn! Seriously? Our only option is to retreat! 
@@ -3943,7 +3943,7 @@ Kyaaa!?
 Di...e! 
  
 **Eric:**
-Yooouuuuuuuuu! ! 
+Yooouuuuuuuuu!! 
  
 **Euryale:**
 What are you doing, Asterios? You can't! 
@@ -3951,7 +3951,7 @@ What are you doing, Asterios? You can't!
 **Mash:**
 Asterios, stand back! This time I will finish him for sure! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Eric:**
 ...Kill...you...kill...you...Damn...Get...Holy...Grail...
@@ -3972,7 +3972,7 @@ Plus he smelled bloody all over, his armpits reeked, and his feet were greasy. T
 That's all you, Captain. 
  
 **Mash:**
-! ! ! 
+!!! 
  
 ---
 
@@ -4156,7 +4156,7 @@ Right. I'd like to reassess the situation.
 **Drake:**
 Oh boy, when we're done, I want to ask you something...How to sink that huge fool of a pirate! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Drake:**
 There wasn't much difference in the ships' performance. The issue was the thickness of their armor. 
@@ -4279,7 +4279,7 @@ Simply put, Blackbeard's Noble Phantasm&ndash;is that ship, "Queen Anne's Reveng
 Maybe it's a Noble Phantasm that powers up as"his subordinates get stronger and stronger. "
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Dr. Roman:**
 The moment you guys defeated Eric, the magical energy surrounding the ship clearly weakened. 
@@ -4320,7 +4320,7 @@ Well, we pirates are all like that. We take treasures from people, no matter how
 **Dr. Roman:**
 Looks like they're wyverns, be careful! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Drake:**
 Oh, so this is a dragon? It really looks like a lizard! 
@@ -4418,7 +4418,7 @@ We make pretty good adventurers, right, Master?
 **Drake:**
 Hmmm, maybe I should change the ship's name to the "Golden Dragon"...
  
-**--ARROW--:**
+**--ARROW--**
  
 **H：? ? ? :**
 ...All right. Uh, chop that up...and add some spices, and sauté...
@@ -4571,7 +4571,7 @@ Wyverns!
 **Drake:**
 Good timing, I'll turn you into materials! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 That's the last one. But, I thought I heard someone's voice earlier...
@@ -4694,7 +4694,7 @@ No, it's not!
 ...I'm sorry. I think we can be friends. We have no intention of harming you. 
  
 **H：? ? ? :**
-Ah&mdash;! ! 
+Ah&mdash;!! 
  
 **Mash:**
 ...A Servant? 
@@ -4771,7 +4771,7 @@ We're here to repair the world.
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Orion:**
 ...I see. Now I get what's going on, more or less. 
@@ -4920,7 +4920,7 @@ It's just like Orion said. I am picking up multiple dragons nearby.
 **Mash:**
 Okay Servants. Let's go hunting! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Finally, we're halfway. 
@@ -5003,7 +5003,7 @@ It's useless. Go, fight now. Like a hero, do your best♪
 **Mash:**
 ...Understood. Mash Kyrielight&ndash;heading in! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 I've fought dragons before,but it never gets easier. 
@@ -5106,7 +5106,7 @@ Let's take them down to liven things up!
 **Mash:**
 Roger that! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Drake:**
 We'll be entering unknown territory soon. We won't be able to use the Vikings' map anymore. 
@@ -5189,7 +5189,7 @@ Anyway, we've been dealt a new card. Now, I have something to ask you guys...
 **Orion:**
 Great. I'm excited but have a bad feeling...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Blackbeard:**
 Woo-hoo-hoo! Heh, heh, heh...Hohohohoho...
@@ -5287,7 +5287,7 @@ Some of them are boarding our ship.
 **Euryale:**
 There aren't many, so let's defeat them quickly. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Blackbeard:**
 Hey comrades! If you get hit by Euryale-chan's arrows I'll kill you off immediately, so be careful! 
@@ -5400,7 +5400,7 @@ Artemis! Tell them we're ready!
 **Artemis:**
 Darling! Understood, Captain! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Drake:**
 All right! Helmsman, hard to starboard! Get a good angle! We'll rip through its belly with the ram! 
@@ -5487,7 +5487,7 @@ Right! Both fast and sturdy!
 Prepare to board, my filthy scoundrels! Yes, yes! Let the plundering begin! 
  
 **Asterios:**
-Uuuuuuuu! ! 
+Uuuuuuuu!! 
  
 **Euryale:**
 Asterios, go! 
@@ -5509,7 +5509,7 @@ Let's do it, Mash!
 
 ---
 
-**--BATTLE--:**
+**--BATTLE--**
  
 ## Section 8: Desperate Battle 
  
@@ -5549,7 +5549,7 @@ They have many Servants on their side as well. Mary, for now, why don't we do th
 **Mary:**
 If we can hold you off, we can win.... Let's go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mary:**
 ...So we fell short. Sorry Captain, we're going on ahead. 
@@ -5560,7 +5560,7 @@ Captain. Please don't get depressed just because we're not around anymore.
 **Anne:**
 ...Being a victor is all you're worth. If you lose,we're the ones who end up looking like fools. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Blackbeard:**
 Mmph! Then, Blackbeard's beard began shining like gold or silver or burning red, and he rose like a phoenix! 
@@ -5634,7 +5634,7 @@ And when I finish with you, not even your mom can recognize you! Mash! Fujimaru!
 **Mash:**
 I'm on it. Let's go, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Blackbeard:**
 Ugh...Not yet...not yet...I'm...not even...at my full power...yet! 
@@ -5666,7 +5666,7 @@ Ugh!
 **Drake:**
 Teach! Dammit, you...To your own comrade!? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **F：? ? ? :**
 Well...You finally let your guard down, Captain. 
@@ -5785,7 +5785,7 @@ Minotaur&ndash;huh? A combination that is truly beauty and the beast.
 **Hektor:**
 Still...This old man hasn't fallen so far as to be defeated by an incompetent Berserker! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Asterios:**
 Ugh! 
@@ -6092,7 +6092,7 @@ Master, let's take them out quickly.
 **Asterios:**
 ...Crush! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Master...I'm sure Blackbeard said "Hektor. "
@@ -6247,7 +6247,7 @@ Ah, dammit. It had to happen in a time like this!
 **Drake:**
 Everybody tie yourself to the ship! There's a storm coming! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Pirate:**
 What should we do, Boss? 
@@ -6393,7 +6393,7 @@ Nothing, I just was shocked by Drake's voice. What happened, Drake?
 **Drake:**
 F-Forget about my scream, look to the bow! Enemy attack! Ghosts are attacking us! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Drake:**
 Ugh...Thank goodness we beat them...
@@ -6413,7 +6413,7 @@ All right, the storm is winding down. Hang on just a little more.
 **Drake:**
 Let's go! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Hektor:**
 Now, according to my calculations, it's almost time. 
@@ -6541,7 +6541,7 @@ Geez, what a pain in the ass. Oh, brother&ndash;But this old man...
 **Hektor:**
 Is really good at defense to the point even I hate it! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 These pirates are way more tenacious than before! 
@@ -6576,7 +6576,7 @@ Huh. Pretty interesting, little girl. This old man would rather not take a young
 **Hektor:**
 But the world is cruel like that. Let me show you what that truly means! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Hektor:**
 Tch, she's surprisingly tough! That's why I can't stand heroes with shields! 
@@ -6594,7 +6594,7 @@ Boss! A ship up ahead! I-It's a ship that I've never seen before!
 Did you say a ship that you've never seen before?! 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Hektor:**
 Yes, thanks for that! My current "superior" is on that ship. 
@@ -6635,7 +6635,7 @@ What? They threw a boulder?
 Move...away! 
  
 **Asterios:**
-Nuaaaah! ! 
+Nuaaaah!! 
  
 **Euryale:**
 Asterios! 
@@ -6694,7 +6694,7 @@ I won't let you go!
 **Mash:**
 Master, let's defeat the remaining enemies first. We have to hurry! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Artemis:**
 Ohhh. Is that the Argo, by any chance? 
@@ -6754,9 +6754,9 @@ Powerful heroes were gathered as Argonauts, but...There is one exceptional hero 
 Yes. The greatest hero of Greek mythology. He who overcame the Twelve Labors. &ndash;Heracles. 
  
 **Heracles:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jason:**
 You can't win! As if you could! Heracles traveled everywhere, fought every monster. 
@@ -6878,7 +6878,7 @@ Hah, that's a funny joke.... Kill them all, Heracles!
 **Orion:**
 To think there's someone even scummier than me. This world is so big, and Greece is so tiny. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Look at their numbers with just the Dragon Tooth Warriors...
@@ -6913,7 +6913,7 @@ I can't do that! Stand back...Wait, are you getting in my way!?
 **Mash:**
 The second wave is coming! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Medea Lily:**
 So they have strong bodies and minds. All right, I'll go too, Master. 
@@ -6939,7 +6939,7 @@ Prepare yourselves, everyone!
 **Medea Lily:**
 I'm not the best at fighting,so please forgive me if I make you suffer...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Medea Lily:**
 Impressive. Just what you'd expect of someone who's already crushed two "eras. "
@@ -6953,16 +6953,16 @@ At this rate, we'll make it somehow!
 **Dr. Roman:**
 Thank goodness she really is a lousy fighter! But the problem is the other one! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Medea Lily:**
 I'm sorry, I can't take them down by myself. Heracles&ndash;it's your turn, brave one. 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&mdash;! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;! 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Asterios:**
 Don't...Leave...My...Side! 
@@ -7000,13 +7000,13 @@ So...I...will...go! I...Fight!
 **Asterios:**
 You...Won't...Have...Her! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Asterios:**
 Ugh...uh...aaaaaaaaaaargh! 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&ndash;! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;! 
  
 **Mash:**
 Did we defeat him? 
@@ -7084,13 +7084,13 @@ Not of this world! Not of this era! Not of our true intentions...Nothing!
 Now, Heracles! Finish them off! 
  
 **Heracles:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;! 
  
 **Mash:**
 Ugh! 
  
 **Asterios:**
-! ! ! 
+!!! 
  
 **Euryale:**
 Augh! 
@@ -7099,7 +7099,7 @@ Augh!
 Crap! 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&mdash;! ! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;!! 
  
 **Euryale:**
 &ndash;Oh, this is not good. 
@@ -7111,10 +7111,10 @@ Crap!
 This will wreck all my plans! Don't kill that woman! 
  
 **Asterios:**
-! ! ! 
+!!! 
  
 **Euryale:**
-! ! ! 
+!!! 
  
 **Euryale:**
 Asterios&ndash;!? 
@@ -7129,7 +7129,7 @@ Asterios...it's no good now. We're no match! We can't win against him!
 It's no good. It's no good, but why...Asterios! 
  
 **Asterios:**
-! ! ! ...Ugh! 
+!!! ...Ugh! 
  
 **Asterios:**
 Kill-ed. Killed...killed...killed! Killed...innocent...children! 
@@ -7192,7 +7192,7 @@ Oh, dammit! Why is everyone else but me a hopeless imbecile?
 Heracles, finish off that ox-man! But don't lay a hand on Euryale! 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&mdash;! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;! 
  
 **Asterios:**
 Ugh...uh! 
@@ -7228,7 +7228,7 @@ If you want to stop this, you should bring either Achilles'or Aias' shield! "Dur
 No! Asterios! 
  
 **Heracles:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;! 
  
 **Jason:**
 Good job, Hektor! That damn ox-head is going to hell along with Heracles! 
@@ -7595,7 +7595,7 @@ Boss, sorry to bug you when you're thinking. But a ghost ship has appeared!
 **Drake:**
 Huh? Oh fine, let's take our frustrations out and crush them! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Drake:**
 All right. We'll get going soon! 
@@ -7705,7 +7705,7 @@ Full speed ahead then! Get to it, men! Sound the bell!
 **Drake:**
 The "Ark" will be ours! Let's go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Pirate:**
 Land ho, Boss! 
@@ -7815,7 +7815,7 @@ Boss! A new island!
 **Drake:**
 All right! We're sure to hit the jackpot this time! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Orion:**
 Hey, Fujimaru. Which side you betting on? 
@@ -7913,7 +7913,7 @@ Someone you know...Um, who would that be?
 **Artemis:**
 Uh...This girl is&ndash;
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **D：? ? ? :**
 All right, it's delivered. 
@@ -8026,7 +8026,7 @@ Oh, dear me! I'm so clumsy! Tee-hee☆
 **Artemis:**
 Okay, we'll defeat them quickly! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Combat complete. Let's keep going, Master. 
@@ -8035,7 +8035,7 @@ Combat complete. Let's keep going, Master.
 Wait! 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Drake:**
 Are you the one who sent that arrow? 
@@ -8234,7 +8234,7 @@ Fou.
 **David:**
 ...Now, before I continue, it seems we've been interrupted. While we're at it, let's recover any edible meat we find. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **David:**
 Anyway, back to our discussion. 
@@ -8320,7 +8320,7 @@ Huh?
 **David:**
 Details&mdash;After the fight! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **David:**
 Like I said before, the "Ark"brings death to all things&ndash;
@@ -8424,7 +8424,7 @@ It's a what-if. Even a Berserker can sense the magical energy around Noble Phant
 **David:**
 If he had no choice but to touch it, then maybe...But how could we force that situation? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Not just Heracles. Medea and Hektor also possess terrifying power. 
@@ -8630,7 +8630,7 @@ Whoa!
 Huh, arrows? ...What fools. As if these flimsy arrows would work against Heracles&ndash;
  
 **Medea Lily:**
-! ! ! 
+!!! 
  
 **Medea Lily:**
 Lord Jason! They're&ndash;aiming at you! 
@@ -8684,7 +8684,7 @@ Hektor! You stay here too! Protect me like a true Servant!
 Heracles! They're just Archers. Pulverize them with one blow! 
  
 **Heracles:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&mdash;! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;! 
  
 **Medea Lily:**
 ...Sigh. 
@@ -8729,7 +8729,7 @@ I'll show you the route to take! For now, Fujimaru, just run!
 Yes, let's go! 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&mdash;! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;! 
  
 **Mash:**
 Just as expected, he's targeting Euryale! First, let's hold him down here! 
@@ -8746,13 +8746,13 @@ I'll take Mash with me.
 **Mash:**
 Yes! ...Mash Kyrielight, here I go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 (Pant, pant, pant...)
  
 **Heracles:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
  
 **Mash:**
 ...As predicted, he's headed towards Euryale! 
@@ -8760,7 +8760,7 @@ Yes! ...Mash Kyrielight, here I go!
 **Euryale:**
 I know! On to the next! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Euryale:**
 Hey, can't you run any faster? 
@@ -8799,9 +8799,9 @@ All right, Artemis! Let's do this!
 Yeah! I won't pull any punches here! 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&mdash;! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **David:**
 He's here. Euryale, Fujimaru, hurry! 
@@ -8830,13 +8830,13 @@ He's here, so get ready!
 **Mash:**
 We've caught up. Here we go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Euryale:**
 Run, run! If we don't hurry...
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&mdash;! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;! 
  
 **Euryale:**
 He's here. There's nowhere to run anymore. Scared? 
@@ -8890,7 +8890,7 @@ All right&ndash; One, two, three!
 W-We did it! You can do anything you put your mind to, Master! 
  
 **Heracles:**
-! ! ! 
+!!! 
  
 **Euryale:**
 He stopped! It looks like Heracles was able to understand...
@@ -8905,7 +8905,7 @@ That's far enough, Heracles!
 Heracles, the Noble Phantasm that Jason seeks is right in front of you! 
  
 **Heracles:**
-! ! ! 
+!!! 
  
 **Mash:**
 The "Ark" kills whoever touches it. Since you still have ten lives, this is the only way to defeat you. 
@@ -8916,7 +8916,7 @@ Master, bear with us just a little longer.
 **Mash:**
 Heracles, we will stop you! &ndash;Here we go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Take this! 
@@ -8925,7 +8925,7 @@ Take this!
 Force him in! 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png#gh-dark-mode-only) ![2-dark](https://i.imgur.com/siU9dhg.png#gh-light-mode-only)&mdash;! 
+![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;! 
  
 **David:**
 All right, he touched it! 
@@ -9085,7 +9085,7 @@ How dare you, you piece of...
 **David:**
 Now, now, Jason was it? No need for such a scary face...Guess I really hit the mark, didn't I? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Drake:**
 All right, let's board! ...Then again, we're just all Archers. 
@@ -9102,7 +9102,7 @@ Fou!
 **Mash:**
 Mash Kyrielight, here I go! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jason:**
 Hektor! 
@@ -9155,7 +9155,7 @@ So&mdash;Come at me with everything you've got, brat. I'll show you how experien
 **Mash:**
 ...This is Hektor, the hero of the Trojan War. We can't let our guard down. Let's take him down, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Hektor:**
 ...Dammit, this is it for me. Well, I did what I could. 
@@ -9211,7 +9211,7 @@ Yes. Of course I am thinking, Master. After all, that's what a Servant does.
 **Jason:**
 ...What's that look? Why are you still smiling!? Don't you understand what this situation means? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **David:**
 Wait! Before that, I have a question for Jason. 
@@ -9352,7 +9352,7 @@ Now then, rank number 30. Sea Fiend Forneus. Use that power to put an end to you
 A Demon God! This is the second one of those things, I mean deities, we've seen! Something like that really exists? 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **David:**
 This is a surprise...What did she just say? 
@@ -9420,7 +9420,7 @@ We're gonna win, Mash!
 **Mash:**
 Yes! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...We got it, Master! 

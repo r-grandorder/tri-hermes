@@ -48,7 +48,7 @@ What's that thing you're holding!? Stop it...Please...Just don't come...near me!
 **E：? ? ? :**
 I'm sorry. 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Mash:**
 Good morning, Senpai.... You're looking quite pale today. 
@@ -667,7 +667,7 @@ Good judgment will be even more important here&mdash;Fujimaru, be careful!
 **Mash:**
 Preparing for battle. Master, your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 &mdash;We made it through. Somehow we were able to move without being surrounded. 
@@ -731,7 +731,7 @@ Let's drive them away!
 **Mash:**
 Yes! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Hmm. It's like...a presence...What is this feeling? 
@@ -745,7 +745,7 @@ No, there are multiple readings. But they're silent...They're not puppets?
 **Dr. Roman:**
 Yeah, they might be different. They move differently. But this feeling...They're definitely enemies. Here they come! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 All enemies defeated. Good work, Senpai. 
@@ -810,7 +810,7 @@ I'm counting on you!
 **Mash:**
 ...Yes. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Dr. Roman:**
 &mdash;Okay. I'm starting to get the hang of this. 
@@ -824,7 +824,7 @@ Yeah. It could be because they're mechanical,but I'm positive they're hostile. M
 **Mash:**
 Roger. Master, prepare for battle. Waiting for orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 All enemies destroyed. There are none left as far as I can see. 
@@ -874,7 +874,7 @@ Mash, we just have to take our chances!
 **Dr. Roman:**
 Enemy contact now! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...All enemy movements have ceased. 
@@ -1002,7 +1002,7 @@ I'm so...HAPPY!
 **Mash:**
 She's coming at us! Master, your orders! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Dr. Roman:**
 The motion response is gone. Either they retreated or are hiding within the fog. 
@@ -1642,7 +1642,7 @@ So it appears. I'm picking up multiple motion signals. It'll be a fight, so watc
 **Mash:**
 Right. Master, your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 ...Damn. They're coming again. I wish I could unleash my Noble Phantasm at will. 
@@ -1692,7 +1692,7 @@ Strike foes from the left!
 **Mash:**
 Roger. Entering battle with hostiles! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Excuse me. Can I talk to you for a second? 
@@ -1808,7 +1808,7 @@ Mordred's detection is amazing. Is it an Intuition skill? We detected hostile re
 **Mash:**
 Roger. Master, orders please! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 All right, we're here. This big building is Victor's mansion. 
@@ -1849,94 +1849,94 @@ And the catalyst for the old man's favorite elemental spell? I can smell it from
 **Mordred:**
 You killed him, didn't you. You murdered Victor Frankenstein. 
  
-**? ? ? :**
+**???:**
 Yes, I did&mdash;Well, no, let me see. Just a moment, please. 
  
-**? ? ? :**
+**???:**
 Indeed, indeed. That elderly man will not open his mouth, brush his teeth, eat food, or breathe ever again. 
  
-**? ? ? :**
+**???:**
 Yes, yes. Frankly speaking, I'm certain he is dead. 
  
-**? ? ? :**
+**???:**
 It's a shame. He refused to join our cause. Right till the very end. 
  
-**? ? ? :**
+**???:**
 But, and yet, however. Who killed Victor Frankenstein? 
  
-**? ? ? :**
+**???:**
 That might be quite a difficult question to answer. Because he "blew himself up. "
  
 **Mash:**
-! ! ! 
+!!! 
  
-**? ? ? :**
+**???:**
 Oh, my. Did I scare the beautiful young lady? 
  
-**? ? ? :**
+**???:**
 My apologies. As you can see, I am a demon after all&mdash;
  
-**? ? ? :**
+**???:**
 That was a joke, and I'm sorry for letting you down,but I'm actually a Heroic Spirit. 
  
-**? ? ? :**
+**???:**
 I'm a Servant just like you. The class is Caster. 
  
-**? ? ? :**
+**???:**
 ...Oh? Well, folks, you don't get it? 
  
 **Mordred:**
 That's enough. Shut up. 
  
-**? ? ? :**
+**???:**
 No, I'm sure you got that. You wonder why I revealed my class so easily? 
  
-**? ? ? :**
+**???:**
 It is reasonable during a Holy Grail War unlike any other. At least that lady over there knows why! 
  
-**? ? ? :**
+**???:**
 An encounter instantly becomes an all-out battle! As we are Servants without Masters&mdash;
  
-**? ? ? :**
+**???:**
 We can be called the most powerful forces on the earth. However...
  
-**? ? ? :**
+**???:**
 Sadly, it seems that you have a Master. Best you protect yourself well. Otherwise, in no time...
  
 **Mordred:**
 Enough small talk. And wipe that grin off your face right now. 
  
-**? ? ? :**
+**???:**
 Pardon? 
  
 **Mordred:**
 That smirk of a smile! So annoying! Was it really that fun to kill that old man? 
  
-**? ? ? :**
+**???:**
 Well, sure&mdash;
  
-**? ? ? :**
+**???:**
 Once he rejected our cause,it was like a job to me, so to speak. 
  
 **Mash:**
 Cause? 
  
-**? ? ? :**
+**???:**
 When you are obligated to do something,it's usually quite a nuisance, indeed. 
  
-**? ? ? :**
+**???:**
 But still, it feels good to do your best. You will work hard for a job you enjoy. 
  
-**? ? ? :**
+**???:**
 His expression in the moment he died. The face of a human who understood the transition from life to death! 
  
-**? ? ? :**
+**???:**
 Despair! Sorrow! Ah! That is exactly it&mdash;! 
  
-**? ? ? :**
+**???:**
 Well, anyway, something like that&mdash;
  
-**? ? ? :**
+**???:**
 It killed my boredom? At least, I guess? 
  
 **Mordred:**
@@ -1948,22 +1948,22 @@ Immigrant or not, that old man was a citizen of Britain. Listen, you took him...
 **Mordred:**
 You put your hand on "my stuff" without my permission. You know what will happen? 
  
-**? ? ? :**
+**???:**
 &mdash;What? 
  
 **Mordred:**
 &mdash;I'm saying, I'm going to kill you, dumb-ass clown! 
  
-**? ? ? :**
+**???:**
 Well, well, well! You? Killing me? Can you, really? 
  
-**? ? ? :**
+**???:**
 You seem to be a hot-blooded person! Good, that's fine. I'll try not to disappoint you then! 
  
-**? ? ? :**
+**???:**
 You might as well watch out for the explosions! My Noble Phantasm has already been set up! 
  
-**? ? ? :**
+**???:**
 By my True Name, Mephistopheles! I shall relish striking you all down into despair! 
  
 **Dr. Roman:**
@@ -1990,7 +1990,7 @@ Fight and watch out for his Noble Phantasm!
 **Mash:**
 ...Roger! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mephistopheles:**
 This is quite...regretful! This materialization was one I couldn't enjoy much of...
@@ -2408,7 +2408,7 @@ Wait, I sense enemies. Most of them are automatas.
 **Mash:**
 ...It's a battle. Master, your orders please! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fou:**
 Fou...
@@ -2557,7 +2557,7 @@ That's good. Here goes, Shieldy! You must always be one step ahead of your own l
 **Mordred:**
 If you're gonna use that Noble Phantasm, put some spirit in it! As an experienced Servant, I will train you thoroughly! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Hah...Ah...Ugh...
@@ -2679,7 +2679,7 @@ Okay! Thank you very much, kind Sir Mordred!
 **Mordred:**
 D-Don't suddenly start calling me "Sir Mordred," dummy! You're gonna make me trip! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 All hostile units eliminated...Complete silence confirmed. Good work, Senpai. 
@@ -2750,7 +2750,7 @@ Understood.
 **Mordred:**
 Then let's get going. Soho's not far off now. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Boy:**
 ...So you've finally come. I was getting pretty sick of waiting, you idiots. 
@@ -2843,7 +2843,7 @@ It's on the 2nd floor residence of the bookshop...In other words, still on this 
 Haha! Well, well! So it's right there? 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Mash:**
 Senpai, indoor combat is dangerous. We should avoid combat in narrow, enclosed spaces if we can. 
@@ -2872,7 +2872,7 @@ Lure it outside!
 **Mordred:**
 Okay, let's get this over with! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fou:**
 Foou!? 
@@ -3109,7 +3109,7 @@ Can you hear me? I'll give you a name, Magical Tome, no&mdash;
 &mdash;A Tale for Someone, Nursery Rhyme! 
  
 **Nursery Rhyme:**
-! ! ! 
+!!! 
  
 **Mordred:**
 You can do things when you actually try, punk! But why didn't you do anything until now!? 
@@ -3168,7 +3168,7 @@ Hey, big sisters. Where is the lonely "me? "
 **Andersen:**
 This is what you call painful to watch. I'm sorry, but please defeat it quickly. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Andersen:**
 ...All bark and no bite. I was expecting at least a reproduction of Wonderland. 
@@ -3433,7 +3433,7 @@ Hey, hurry up&mdash;Tch. There's the enemy already!
 **Dr. Roman:**
 Multiple enemy responses, coming from all directions. Break through before they surround us! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 That's most of them! Forget the rest and just run, Mash! 
@@ -3540,7 +3540,7 @@ Let's hurry!
 **Mash:**
 ...Roger, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 They're attacking us while we run! They just keep coming! 
@@ -3584,7 +3584,7 @@ It's as if it's a product of some super-technology from a world that took a "dif
 **Dr. Roman:**
 That's all I've got. Good luck, guys! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jack the Ripper:**
 ...Oh? 
@@ -3757,7 +3757,7 @@ Prepare for combat.
 **Mash:**
 &mdash;Right, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jack:**
 Mo-mmy...No...No, no, noo...It hurts...
@@ -4031,7 +4031,7 @@ I just can't match Mordred for speed. I see them too. Enemy responses!
 **Mash:**
 Roger. Master, your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 There were quite a few. Whew. 
@@ -4084,7 +4084,7 @@ Um, well, I'm confirming map information...It's not like I'm particularly famili
 **Mordred:**
 Well, if something turns up, we'll deal with it then. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 ...Hmph, more gutless enemies. 
@@ -4134,7 +4134,7 @@ Senpai, let's continue patrolling. It's only a little bit further to the edge of
 **Mordred:**
 Come at me! Strong enemies! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Shakespeare:**
 Well then&mdash;who is it that doth summon me!? I, Caster Shakespeare, travelled with great haste to the city of fog. 
@@ -4283,7 +4283,7 @@ Of course...I possess a different objective at the moment.
 **Mash:**
 Master, prepare for a battle between Servants! Your orders&mdash;! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Paracelsus:**
 ...A most natural result. 
@@ -4386,7 +4386,7 @@ Oh, speak of the devil. Hah, maybe I'll finally get to fight a Helter Skelter!
 **Mash:**
 I'm sorry, Master! Preparing for battle! Your orders, please! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Dr. Roman:**
 ...I've got bad news for you. Sorry, but listen up. Right around where you are...
@@ -4400,7 +4400,7 @@ Great, bring it on! I'll crush as many as I need to! It's pretty great slashing 
 **Mash:**
 I'm really, really sorry Master! Entering consecutive battles! Your orders, please. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 ...You know, even I'm getting kind of tired. 
@@ -4450,7 +4450,7 @@ S-Senpai?
 **Mordred:**
 I guess the enemy's getting serious now that a leader's down! Bring it on&mdash;I'll fight to the finish! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jekyll:**
 ...I see. So that's what's been happening. 
@@ -4910,7 +4910,7 @@ Let's go right through them!
 **Mash:**
 Yes, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Shakespeare:**
 The British Museum! A symbol of the British Empire! Or rather, what remains&mdash;
@@ -5038,7 +5038,7 @@ Right, Master. Beginning combat!
 **Shakespeare:**
 I shall aid you as well. A shield maiden dancing amidst the rubble&mdash;truly stimulates the imagination! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Battle is over, Senpai. Good work. 
@@ -5181,7 +5181,7 @@ O-Okay! Back to my observation work!
 **Fou:**
 Fou, Kyukyu...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Jekyll:**
 ...It's like an endless dungeon, huh? 
@@ -5279,7 +5279,7 @@ This is a closed area, so be careful!
 **Andersen:**
 Hmmph. I'll help you this time. Don't expect it all the time, though. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jekyll:**
 Mr. Andersen. This door is&mdash;
@@ -5365,7 +5365,7 @@ Just shut up and fight over here! They're coming!
 **Mash:**
 ...This is a defensive battle! Master, your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 That's most of 'em&mdash;No, wait. There's more? 
@@ -5440,13 +5440,13 @@ Fo&ndash;u! Kyau!
 Haha&mdash;
  
 **Jekyll:**
-Hehehe, HAHAHAHAHAHAHAHA! It's been so long since I've been outside! HERE I AM! ! 
+Hehehe, HAHAHAHAHAHAHAHA! It's been so long since I've been outside! HERE I AM!! 
  
 **Mordred:**
 Huh!? 
  
 **Mash:**
-! ! ! !?!?!? 
+!!!!?!?!? 
  
 ---
 
@@ -5517,7 +5517,7 @@ Don't let Hyde get away!
 **Mash:**
 Roger, Master! Continuing combat! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Enemy units destroyed! 
@@ -5821,7 +5821,7 @@ We'll finish them off quickly.
 **Mash:**
 Right, Senpai. Intercepting them in the alley. Let's reduce their numbers. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Good work. We drove off the Helter Skelters. 
@@ -6084,7 +6084,7 @@ Let me double-check. Fran, can you...detect traces of the magical energy that co
 **Mordred:**
 There, you see? She nodded. All right, this makes things easier. Let's get moving! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 ...You know, even though I've gotten used to it,this poor visibility is irritating. 
@@ -6448,7 +6448,7 @@ Mash, Fujimaru! I'm leaving this one to you. Take it apart!
 **Mash:**
 Roger that. Master, it's combat with a giant hostile. Awaiting orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 &mdash;All giant hostile targets have gone silent. 
@@ -6487,7 +6487,7 @@ Perhaps the manufacturer's name? It's written in English.
 "Charles Babbage, AD 1888"
  
 **Fran:**
-...Uh! !? 
+...Uh!!? 
  
 **Mordred:**
 Hmm. What's wrong, Fran? 
@@ -6495,7 +6495,7 @@ Hmm. What's wrong, Fran?
 **Fran:**
 ......
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Good morning, Senpai. Did you sleep well? 
@@ -6701,7 +6701,7 @@ Oh, we're running into them already? We haven't reached the remote-controlled on
 **Mash:**
 ...Machine sounds ahead. Several large-type units! It's an enemy group. Master, your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...Enemy group defeated. It seems like we're being attacked more frequently. 
@@ -6721,7 +6721,7 @@ If something's wrong, it's okay to say so. Like I said, just be frank with us.
 **Fran:**
 ...
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 ...We defeated the enemy group. We believe the attack frequency has been rising. 
@@ -6762,7 +6762,7 @@ Isn't that right...Fran?
 **Mordred:**
 ......
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mordred:**
 ...Fran. We need to talk. 
@@ -7079,7 +7079,7 @@ Let's stop him!
 **Mash:**
 &mdash;Yes, Master! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Babbage:**
 ...Head to the underground part of the city. 
@@ -7350,7 +7350,7 @@ Quality aside, they're coming in large quantities! Be careful!
 **Mash:**
 Roger that. Master, starting combat! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 ...We've come pretty far down. This is the second level, isn't it? 
@@ -7376,7 +7376,7 @@ We've got enemy signatures. Quite a few! It will be another series of battles. B
 **Mash:**
 Roger that. Master, give me you orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 ...What level are we on now? 
@@ -7396,7 +7396,7 @@ We've gone pretty deep. Isn't it going to be a pain to go back up?
 **Mash:**
 Master, give me your orders. Going to demolish the enemy group! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 What the hell is this? 
@@ -7557,7 +7557,7 @@ My King has "found" my evilness. The ugliness lurking within me as I desire huma
 **Makiri:**
 With the epitome of my abomination&mdash;Begone, you who seek to spread good as I once did! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 &mdash;Demon God Barbatos has gone completely silent. We've won. 
@@ -7771,7 +7771,7 @@ Yeah. Enemies. Weak ones. Their Master is gone. How faithful of them!
 **Mash:**
 Master, your orders. We'll destroy the enemy! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 Incoming, it's another homunculus! It's needlessly huge! 
@@ -7782,7 +7782,7 @@ Maybe it absorbed too much fog and grew? No, that's not it. Maybe an effect of t
 **Mash:**
 Forget that! We have to fight it! Master, your orders! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 More! Dammit, we can't get anywhere like this! 
@@ -7802,7 +7802,7 @@ Does that mean...He's trying to help us? Maybe?
 **Mordred:**
 Enough talking! Let's do this! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mordred:**
 ...We're through! Hurry! 
@@ -7891,7 +7891,7 @@ Let's go, Mash, Fujimaru!
 **Mash:**
 Roger! Master, prepare for anti-Servant combat! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 &mdash;The fog's coming back! We'll have to temporarily retreat, Master! 
@@ -7927,7 +7927,7 @@ It'll destroy the cancer of civilization, strip the land of its ostentation, and
 With this Singularity as the origin,the rest of humanity is destined to be incinerated! 
  
 **Mash:**
-! ! ! 
+!!! 
  
 **Nikola Tesla:**
 However! However&mdash;
@@ -8174,7 +8174,7 @@ And now there's a big group coming this way! They should just run away now that 
 **Dr. Roman:**
 Multiple hostile signals! Fight your way through the battles! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Nikola Tesla:**
 &mdash;I see why you're the son of the lightning god! 
@@ -8227,7 +8227,7 @@ A-Anyway, keep up your support! It's almost time.
 **Sakata Kintoki:**
 I'm gonna ruin that nice suit of his. Now&mdash;time to slam you with my super attack! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 &mdash;I'll blow you away! Special move: 
@@ -8385,7 +8385,7 @@ Now,I shall display to all of you!
 **Nikola Tesla:**
 &ndash;System Keraunos! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 &mdash;Enemy Servant defeated! 
@@ -8492,13 +8492,13 @@ It doesn't matter what comes! I'll hack them all apart!
 **Mordred:**
 &mdash;Bring it! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Altria:**
 &mdash;
  
 **Mordred:**
-! ! ! 
+!!! 
  
 **Mash:**
 ...That's......No, she is definitely...King Arthur! 
@@ -8596,7 +8596,7 @@ Roger!
 **Mash:**
 Right, Master! ...Beginning combat! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Jekyll:**
 I just got word from Dr. Roman. The operation was a success! 
@@ -8766,7 +8766,7 @@ Huh? ...Senpai, something is strange. I have no anomalies, but I'm shivering&mda
 **Dr. Roman:**
 ...The space is opening! Here it comes! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **C：? ? ? :**
 Demon Marshal Gilles de Rais. Imperial Founder Romulus. Hero Spy Jason. And Divine Scholar Nikola Tesla. 
@@ -8999,7 +8999,7 @@ Now let's have a fun little chat.
 **D：Solomon:**
 I'll do you a special favor. Out of respect for your pure heart, I'll only summon "four of them. "
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Solomon:**
 Do you see now? This is the inevitable result of a mere Heroic Spirit trying to challenge me. 

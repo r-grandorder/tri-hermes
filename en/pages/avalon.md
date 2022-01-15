@@ -4,9 +4,9 @@
 
 ![AvalonMap](https://i.imgur.com/UqawRv8.png)
 
-**Translators: Rayshift Team -:** Gaius, Fumei, Zaszc, PorksIope, Neo, Louay, Starfire, Miro
+**Translators: Rayshift Team -** Gaius, Fumei, Zaszc, PorksIope, Neo, Louay, Starfire, Miro
 
-**Editors: Rayshift Team -:** MaxAkito, Meru, Squishy, Azumi, Udon Emperor
+**Editors: Rayshift Team -** MaxAkito, Meru, Squishy, Azumi, Udon Emperor
 
 ## Prologue
 
@@ -1144,7 +1144,7 @@ Wh&mdash;
 **Goredolf:**
 What the hell&mdash;!? 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Goredolf:**
 Hmm, mm, mmm...! That...that makes sense...! 
@@ -1463,7 +1463,7 @@ Hey, maybe we're lo&mdash;
 ---
 
 **Tristan:**
-###### I'm not lost.  
+I'm not lost.  
 
 **Tristan:**
 Certainly...those of you that are dependent on your eyes may feel that way. 
@@ -1538,7 +1538,7 @@ We're under attack! Prepare to intercept, Fujimaru!
 **Da Vinci:**
 This will be your first battle in the British Lostbelt, fight with the utmost caution! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 ---
 
@@ -1725,7 +1725,7 @@ Oh, but one thing&mdash;
 **B：? ? ? :**
 Whatever you do, don't make the mistake of saying you're human, okay? 
 
-**--ARROW--:**
+**--ARROW--**
 
 ---
 
@@ -2225,10 +2225,10 @@ Be quick, the more you dawdle, the more wounds you'll get again.
 **Doga:**
 That's right. Don't get distracted and wander off, okay? No one's going to find you at night! 
 
-**? ? ? :**
+**???:**
 Y-yes. I-I'll be fine. Thank you for trusting me with this. 
 
-**? ? ? :**
+**???:**
 Everyone, I'm going to take you back to the roof from earlier. That will be your territory from now on. 
 
 **Mash:**
@@ -2237,13 +2237,13 @@ Everyone, I'm going to take you back to the roof from earlier. That will be your
 **Tristram:**
 ...
 
-**? ? ? :**
+**???:**
 Th-then, good night. 
 
-**? ? ? :**
+**???:**
 This place is separated from the village square, but you're still within the village's boundaries. 
 
-**? ? ? :**
+**???:**
 The animals of the forest can't come in. You can rest easily. 
 
 ---
@@ -2522,30 +2522,30 @@ It happens, {(M) Lysander /(F) Hermia}. Well, good night.
 
 ---
 
-**--ARROW--:**
+**--ARROW--**
 
-**? ? ? :**
+**???:**
 G-good morning, everyone. Today, I-I've been assigned to show you around the village. 
 
-**? ? ? :**
+**???:**
 That said, it doesn't cover much area. So this will not take long. 
 
-**? ? ? :**
+**???:**
 It seems that Cornwall was built over an older village. 
 
-**? ? ? :**
+**???:**
 Two hundred years ago, after the Fairy Knights overthrew the fairy lord of Cornwall,
 
-**? ? ? :**
+**???:**
 the lord's curse brought about the mist that causes those who enter the forest to lose their memories. 
 
-**? ? ? :**
+**???:**
 It shrouded the area, and the village was abandoned. 
 
-**? ? ? :**
+**???:**
 After that, even Her Majesty couldn't touch it, and it became the most dangerous area in Britain. 
 
-**? ? ? :**
+**???:**
 Nobody comes after us here. It's like a penal colony. 
 
 ---
@@ -2553,7 +2553,7 @@ Nobody comes after us here. It's like a penal colony.
 **Fujimaru 1:**
 What's a Fairy Knight? 
 
-**? ? ? :**
+**???:**
 Ahaha, are you serious? A Fairy Knight is a Fairy Knight, you know? Hehe, you're a funny one. 
 
 
@@ -2562,31 +2562,31 @@ Ahaha, are you serious? A Fairy Knight is a Fairy Knight, you know? Hehe, you're
 **Fujimaru 2:**
 By penal colony...is everyone here a criminal...? 
 
-**? ? ? :**
+**???:**
 No, it's not quite like that, but...
 
 
 ---
 
-**? ? ? :**
+**???:**
 This is the Territory of fairies who have become “hated. ”
 
-**? ? ? :**
+**???:**
 Those whose role has ended. Those who are less valuable. Those with no friends. Those who lost their purpose. 
 
-**? ? ? :**
+**???:**
 It's a small gathering of fairies who trickle here after finishing their destinies...
 
-**? ? ? :**
+**???:**
 Everyone here has a kind heart. Fairies who would rather cooperate than compete with one another. 
 
-**? ? ? :**
+**???:**
 But...that's no way to live in Her Majesty's Britain, so...
 
-**? ? ? :**
+**???:**
 Because it's easier to die than to be laughed at, shunned, or robbed by your friends...
 
-**? ? ? :**
+**???:**
 I think everyone came to this forest because they just wanted everything to end...
 
 **Mash:**
@@ -2619,16 +2619,16 @@ Y-you're popular, {(M) Lysander /(F) Hermia}. I'm almost in the same boat as you
 **Mash:**
 I guess it's that...dignity you exude? I wonder...I'm indifferent to stuff like that...
 
-**? ? ? :**
+**???:**
 Is that so? I think you're wonderful too, Mash. 
 
-**? ? ? :**
+**???:**
 {(M) Lysander /(F) Hermia} has an air of freshness about {(M) him /(F) her}, and brings a positive atmosphere just by being here. 
 
-**? ? ? :**
+**???:**
 Mash's aura feels warm and bright. 
 
-**? ? ? :**
+**???:**
 It reminds me of peaceful times and makes me feel nostalgic. 
 
 **Mash:**
@@ -2637,16 +2637,16 @@ Hehe. That's true. I'll be honest, my only thing I have going for me is my cheer
 **Mash:**
 My creed is to smile no matter the circumstances! Thank you very much! 
 
-**? ? ? :**
+**???:**
 Hehe. That's true, a smile is the best, isn't it? 
 
-**? ? ? :**
+**???:**
 Well now, let's tour the village. 
 
-**? ? ? :**
+**???:**
 If you know the boundaries of our Territory, you won't disappear by the end of the day. 
 
-**? ? ? :**
+**???:**
 This is how far the village goes. Is there anything else you would like to ask? 
 
 **Mash:**
@@ -2655,16 +2655,16 @@ I assume the mists of the Nameless Forest don't enter the village. Is the surrou
 **Mash:**
 Also, if this used to be a village, are there any roads left that get to the middle of the country? 
 
-**? ? ? :**
+**???:**
 Let me see...the fog doesn't get that bad as long as you stay away from the depths of the forest. 
 
-**? ? ? :**
+**???:**
 But, as you might expect, you'll still get lost...and the road to the heartlands is even now overgrown with plants...
 
 **Mash:**
 I see...it seems some quick thinking is necessary to get out of the forest...
 
-**? ? ? :**
+**???:**
 Huh? Mash, do you and the others want to leave the forest? 
 
 **Mash:**
@@ -2686,19 +2686,19 @@ I still don't understand anything...
 
 ---
 
-**? ? ? :**
+**???:**
 I see...but I was almost convinced. 
 
-**? ? ? :**
+**???:**
 I had a feeling that you all were different from the fairies who usually come here. 
 
-**? ? ? :**
+**???:**
 Perhaps you wandered in here by some mistake. 
 
-**? ? ? :**
+**???:**
 Please, tell me if you require anything. All I can do is act as a guide, but...
 
-**? ? ? :**
+**???:**
 As long as nobody scolds me, I will stand by you all. 
 
 **Mash:**
@@ -2732,7 +2732,7 @@ What our limits are, what our best strategies are...
 **Mash:**
 Let's go out in the woods for a bit and try it out! Magecraft is power, so all we have to do is practice! Chop chop! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 ---
 
@@ -3042,7 +3042,7 @@ Let's get back to the tent this time. It seems like this village is dangerous at
 You're right. Let's go. 
 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Tristram:**
 Good morning, {(M) Lysander /(F) Hermia}. I slept well last night...wait...
@@ -3078,13 +3078,13 @@ Of all the cheek! I don't think we'll be able to have a feast tonight.
 **Doga:**
 Hey. Why haven't you been doing anything? Do you hate {(M) Lysander /(F) Hermia}? 
 
-**? ? ? :**
+**???:**
 Oh no...no, not at all...it's just...
 
-**? ? ? :**
+**???:**
 You see...I forgot what I was supposed to be doing...
 
-**? ? ? :**
+**???:**
 Before I knew it, it was already morning...everyone was scolding me...
 
 **I：Fang Fairy:**
@@ -3096,7 +3096,7 @@ Hah...it was foolish of me to trust you.
 **Doga:**
 You can be on your way now. Get out of here. You're an eyesore, so stay away from the village. 
 
-**? ? ? :**
+**???:**
 Oh&mdash;thank you for your understanding! Please call on me again! 
 
 **Doga:**
@@ -3269,7 +3269,7 @@ My bewitched strings will not allow it to get any closer to her.
 **Mash:**
 Thank you, leave the rest to me! Foul beast, don't you dare touch her! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Tristram:**
 How cruel it is...I dared to aim for a spot which would cause continuous pain. 
@@ -3565,7 +3565,7 @@ I see...the darkness is overtaking me, isn't it?
 **C：Fairy Girl:**
 I wonder if it's over...just when I finally had something good happen...
 
-**--ARROW--:**
+**--ARROW--**
 
 ---
 
@@ -3648,7 +3648,7 @@ Um, Halobaromia?
 ---
 
 **Halobaromia:**
-Everybody! A human being! {(M) Lysander /(F) Hermia} is human! An unregistered human! ! 
+Everybody! A human being! {(M) Lysander /(F) Hermia} is human! An unregistered human!! 
 
 **I：Fairies:**
 Huh!? What rubbish are you spouting this early in the morning? There's no way in hell a human would be in this neck of the woods&mdash;
@@ -4143,7 +4143,7 @@ That's a Mors...life that can no longer speak or hear.
 **Mash:**
 The black algae that pollutes this world with its existence&mdash;the curse of Britain, killer of fairies. 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 ---
 
@@ -4170,46 +4170,46 @@ But, it's not doing anything...does it want to say something...?
 **Mash:**
 ...
 
-**? ? ? :**
+**???:**
 Excuse me. 
 
 **Mors:**
 &mdash;...&mdash;, &mdash;...
 
-**? ? ? :**
+**???:**
 Forgive my rudeness. Delivering the blow of mercy must have been too heavy a burden for you. 
 
-**? ? ? :**
+**???:**
 So, as someone who knows the Mors, I delivered it myself. 
 
 **Tristram:**
 (From behind, a swift blow from a rapier, as smooth as the wind...! And this intimate sensation&mdash;)
 
-**? ? ? :**
+**???:**
 I'm sorry...may you rest in peace. May your next life be rewarding. 
 
 **Mash:**
 No way&mdash;you're&mdash;you're&mdash;
 
-**? ? ? :**
+**???:**
 Hi. Good to see you, Fujimaru. Sorry it took me so long to get here. 
 
-**? ? ? :**
+**???:**
 Although, I guess you're a bit confused why I've come to meet you. Fufu, I can see it already in your face. 
 
-**? ? ? :**
+**???:**
 Alright. It's a bit strange for a king like me to do this, but since I don't have any subjects with me now, I'll introduce myself. 
 
-**? ? ? :**
+**???:**
 My name is Oberon. I'm a Heroic Spirit summoned by the Human Order. 
 
-**? ? ? :**
+**???:**
 I'm the only servant destined to help you in this Lostbelt. 
 
-**? ? ? :**
+**???:**
 Call me Oberon, King of the Fairies. Whaddya think? Pretty cool, huh? 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Oberon:**
 Call me Oberon, King of the Fairies. Whaddya think? Pretty cool, huh? 
@@ -4697,7 +4697,7 @@ Ah, that's right, you weren't involved...!
 ---
 
 **Artoria:**
-Ye-yes, I am! ! Why am I acting so brazen...! 
+Ye-yes, I am!! Why am I acting so brazen...! 
 
 **Artoria:**
 Yes. Nobody would like a bumpkin like me around...huh? 
@@ -4731,7 +4731,7 @@ Chaldea can't do it alone. And just the Child of Prophecy won't be enough.
 **Oberon:**
 Yes&mdash;after all, it will take both of them to defeat the all-powerful Morgan. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Fairies:**
 Ah, the prophecy was true. That child is our shining hope. 
@@ -5007,7 +5007,7 @@ You'll really get the feeling of Britain when you see an actual fairy city&mdash
 Sorry to drop the middle of a conversation, but we've got monsters! Fujimaru, get ready for combat! 
 
 **Artoria:**
-I'm sooooorryyyyyyyy! ! I screwed up the warding spells...! 
+I'm sooooorryyyyyyyy!! I screwed up the warding spells...! 
 
 **Artoria:**
 Now I attracted a flock of wild birds...! Please help me! 
@@ -5038,7 +5038,7 @@ Yes...I feel sorry for the other Rounds. This is a great honor.
 **Oberon:**
 Here they come! Britain's beasts are ferocious! Be careful, Fujimaru! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Artoria:**
 Yay! An overwhelming victory! That felt great! 
@@ -5192,7 +5192,7 @@ We'll wake up in the morning, walk an hour, and be in Salisbury.
 **Oberon:**
 We'll have a more in-depth conversation then. Let's save the fun stuff for when we're more composed, in better surroundings, alright? 
 
-**--ARROW--:**
+**--ARROW--**
 
 ---
 
@@ -5890,7 +5890,7 @@ Da Vinci-chan!?
 **Da Vinci:**
 No way, really!? Yay, it's Fujimaru&mdash;! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Da Vinci:**
 Jeez, just listen to me already! 
@@ -7033,7 +7033,7 @@ But I was turned away at the door...
 **Oberon:**
 Hmm. The head of the Wind Clan is Aurora, right? 
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
 
 **Oberon:**
 I much prefer the current Artoria. But if you'd rather act like a big shot instead, then so be it. 
@@ -7092,7 +7092,7 @@ Eh? Well, this is heading in a different direction than I planned for...
 ---
 
 **Fujimaru 1:**
-OBERON! ! 
+OBERON!! 
 
 ---
 
@@ -7126,7 +7126,7 @@ The number of opponents does not appear to be a serious threat, but it seems we 
 **Tristan:**
 Let's go, Fujimaru. Show them our might. 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Oberon:**
 How's that, Coral!? This is our true power! 
@@ -7425,7 +7425,7 @@ Bearing the real Staff of Selection, and here to oust Morgan, the genuine Child 
 Come on down! 
 
 **Artoria:**
-O-B-E-R-O-N! ! ! ! ! 
+O-B-E-R-O-N!!!!! 
 
 **Aurora:**
 You're all fun and games, Oberon. I'd love for you to give me such an introduction one day as well. 
@@ -7451,7 +7451,7 @@ Ringing the bell, like in the prophecy?
 ---
 
 **Artoria:**
-! ! ! !? 
+!!!!? 
 
 **Oberon:**
 (whistle) Even I didn't think of going that far. Nice work. 
@@ -7504,7 +7504,7 @@ Several months ago, the “Calamity Pool”, a powerful Mors Current, began engu
 **Aurora:**
 If you can cleanse this, I shall gladly give you Salisbury's bell. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Oberon:**
 Cleansing the calamity of Norwich, huh...that's certainly one way to break the ice. 
@@ -8052,7 +8052,7 @@ We'll save Britain, and prevent the Collapse from spreading across the bleached 
 **Da Vinci:**
 When all is said and done, we'll say goodbye to her with a smiling face, never having needed to turn against this Britain. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Artoria:**
 Everyone, good morning~! Breakfast is ready! 
@@ -8201,7 +8201,7 @@ I think we're in business!
 
 ---
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Field Fairy:**
 I see, so that's how you get rid of vermin like that...that's good to know. 
@@ -8413,7 +8413,7 @@ As long as those three Fairy Knights stand in the way, nobody can rebel against 
 **Artoria:**
 ...? (Why is everyone so surprised? )
 
-**--ARROW--:**
+**--ARROW--**
 
 **Da Vinci:**
 The emergency meeting is called to order! 
@@ -8743,7 +8743,7 @@ King Arthur...a greater me from a different world...
 **Artoria:**
 Amazing. She must have worked so hard. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Artoria:**
 We're baaack! Tell us we did a good job, Mike! 
@@ -9231,8 +9231,8 @@ It's not the birthing period now, so there shouldn't be anything inside there.
 **Da Vinci:**
 &mdash;
 
-**? ? ? :**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;？
+**???:**
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;？
 
 ---
 
@@ -9253,10 +9253,10 @@ A surveillance familiar...! I see, it was disguised as the light of a lamp...!
 **Artoria:**
 I screwed up again...sorry everyone! If we don't beat that thing, a lot more will show up! 
 
-**? ? ? :**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! ! ! 
+**???:**
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!!! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Da Vinci:**
 We've defeated so many, but there's no end to them! There's got to be a fairy somewhere controlling them! 
@@ -9312,7 +9312,7 @@ Wha! What's in that thing? Not only a fairy, but...!?
 **Artoria:**
 Be careful everyone! That's probably one of the Fairy Knights we've heard about...! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **D：Knight Grant:**
 Gah&mdash;
@@ -9415,7 +9415,7 @@ It's as da Vinci says, they may be rebels, but they're not necessarily on our si
 **Artoria:**
 Let's find Mash before anything else happens, and escape before we're discovered! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Artoria:**
 Aw shucks...
@@ -9620,13 +9620,13 @@ However, if it were Sir Bedivere here in my place, the choice before him would b
 **Tristan:**
 &mdash;! Fujimaru! On the ground! 
 
-**? ? ? :**
+**???:**
 I didn't think the gap in our security would be exploited. Only the most clever could have gotten this far. 
 
-**? ? ? :**
+**???:**
 But it's not enough. Such poor, weak conviction. How very human. 
 
-**? ? ? :**
+**???:**
 If you're going to hide in the shadows and steal all our work, then you'll have no objections to being trampled, will you? 
 
 **Da Vinci:**
@@ -9651,16 +9651,16 @@ Squad 2, Squad 3, are you all right...!? Crap, how many of them got swallowed up
 **Round Table Army Soldier:**
 Are we the only ones left!? It can't be, this wall of fire&mdash;
 
-**? ? ? :**
+**???:**
 Hm. A few left over. If we were in the plains, I would have swallowed you all...
 
-**? ? ? :**
+**???:**
 This farm is the property of Her Majesty Morgan. Such destruction is unacceptable. 
 
-**? ? ? :**
+**???:**
 My horn will butcher the rest of you. Resist if you dare, humans. 
 
-**? ? ? :**
+**???:**
 I have no time for cowards. If you are brave, I will show mercy. 
 
 **Round Table Army Soldier:**
@@ -9746,7 +9746,7 @@ My name is Gawain! One of Britain's protectors, a Knight of the Fairy Round Tabl
 **Fairy Knight Gawain:**
 By this name bestowed upon me by the Queen, I shall annihilate you! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 ---
 
@@ -10350,7 +10350,7 @@ Meanwhile, Rob and Winky were nervous that Annis may have remembered something.
 **Narration:**
 &mdash;Then...
 
-**? ? ? :**
+**???:**
 GuRuuuuuuuuu...! 
 
 **Rob:**
@@ -10649,7 +10649,7 @@ How about a carrot?
 **Red Rabbit:**
 TO BATTLE! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Red Rabbit:**
 Neeeeeeeeigh! Contract complete! 
@@ -10911,13 +10911,13 @@ Spriggan, give my regards to Count Peperon.
 **Muryan:**
 If he is thinking of moving to Gloucester, please convey to him that he would always be welcome. 
 
-**? ? ? :**
+**???:**
 &mdash;. 
 
 **Clerk Yttri:**
 Head of the King's Clan. Lord of Edinburgh, Lady Knocknarea. No statement due to absence. 
 
-**? ? ? :**
+**???:**
 &mdash;
 
 **Clerk Yttri:**
@@ -10929,19 +10929,19 @@ Next, by special dispensation from Her Majesty Morgan, the Fairy Knight of New D
 **Clerk Yttri:**
 G-aagh&mdash;!? 
 
-**? ? ? :**
+**???:**
 Are you for real!? A mere clerk speaking my name, what kinda nerve is that? 
 
-**? ? ? :**
+**???:**
 Hey, Mother, how long until you quit letting the clerks run things? 
 
-**? ? ? :**
+**???:**
 At least use better-looking ones. 
 
-**? ? ? :**
+**???:**
 Like people with their limbs sewn to the wall. Or someone who's been guillotined. 
 
-**? ? ? :**
+**???:**
 Mother, aren't you being a little soft on both the humans and fairies lately? Aren't they getting enough encouragement? 
 
 **Government Officials:**
@@ -11259,14 +11259,14 @@ You know that the Earth and Wind are at loggerheads. It is a problem even Her Ma
 **Spriggan:**
 Things rarely work out the way they should. The sacrifice of Norwich is unavoidable&mdash;
 
-**? ? ? :**
+**???:**
 As a matter of fact, I disagree on that point. I believe that the poor, displaced refugees can be well taken care of. 
 
-**? ? ? :**
+**???:**
 Isn't that right, Lady Spinel? Wouldn't New Darlington be able to welcome them with open arms? 
 
 **Fairy Knight Tristan:**
-! ! ! Yes, you're right, Red Beryl! You've been listening to this boring twaddle! 
+!!! Yes, you're right, Red Beryl! You've been listening to this boring twaddle! 
 
 **Beryl:**
 Oh no, my sharp-tongued young lady. It's not boring in the least. 
@@ -11544,7 +11544,7 @@ After all, if you're shopping, Gloucester is the place to be. She said she was p
 **Fairy Knight Tristan:**
 All right, then. I'll give you an auction you'll never forget♡
 
-**--ARROW--:**
+**--ARROW--**
 
 **Artoria:**
 Look, look Fujimaru! You can see the city in the distance! 
@@ -11792,14 +11792,14 @@ You've got the money you earned in Salisbury? You can use it in Gloucester too, 
 
 ---
 
-Note: Male Character
+Note: Male Player
 
 **Oberon:**
 Oh, just think of it as a date and the time will just fly by! 
 
 ---
 
-Note: Female Character
+Note: Female Player
 
 **Oberon:**
 I heard it's fun to shop with your girlfriends! Enjoy, Girl's Holiday! 
@@ -12070,7 +12070,7 @@ I'm sure you won't like it, but...Just look at it like another lesson free of ch
 
 ---
 
-**--BATTLE--:**
+**--BATTLE--**
 
 ---
 
@@ -12139,7 +12139,7 @@ It's so cute and sparkly, yet so elegant and fun to wear!
 
 ---
 
-Note: Male Character
+Note: Male Player
 
 **Artoria:**
 I waaaant them! Oh, now that I think about it, they'd be wasted on me! 
@@ -12152,7 +12152,7 @@ This is unusual...“Japanese clothing”? I think they would look good on you, 
 
 ---
 
-Note: Female Character
+Note: Female Player
 
 **Artoria:**
 You'd also look great in those boots over there! 
@@ -12302,7 +12302,7 @@ W-well, maybe. I didn't get a bad impression just now, so...
 
 ---
 
-**--ARROW--:**
+**--ARROW--**
 
 **Oberon:**
 Oh, the invitation? Naturally, I already got my hands on one. What about it? 
@@ -12575,7 +12575,7 @@ Lady Artoria and her entourage bid five million morpounds! Are there any other b
 (A hilarious twist of fate like that will definitely go down in the history of Gloucester! )
 
 **Artoria:**
-(OBEROOOOOONNNNN! ! ! )
+(OBEROOOOOONNNNN!!! )
 
 **Auctioneer Fairy:**
 Five million, five million morpounds, going once, going twi&mdash;We have another bid! Ten million! Ten million! The bidding is heating up! 
@@ -12621,7 +12621,7 @@ If I'm outbid by someone like you, it'll be the end of Britain.
 There's no way we're losing here! Then...then&mdash;
 
 **Artoria:**
-One hundred and one million morpounds, putting Oberon's land down as collateral&mdash;! ! ! 
+One hundred and one million morpounds, putting Oberon's land down as collateral&mdash;!!! 
 
 **Oberon:**
 (Have you gone insane!? My land isn't worth even ten million! )
@@ -12857,7 +12857,7 @@ There's no way I'd ever lose to someone like that! Who cares if you're a Fairy K
 **Artoria:**
 Don't underestimate the guts of a country girl! I ate my vegetables every day for sixteen years! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Fairy Knight Tristan:**
 That doesn't count, I need a do-over! I wasn't ready yet! 
@@ -12934,19 +12934,19 @@ See you soon in Camelot, Muryan?
 **Fairy Knight Tristan:**
 As someone with the same taste in art, I'd love to show you my collection. 
 
-**? ? ? :**
-Ah&mdash;hahahaha~ ~! ! ! 
+**???:**
+Ah&mdash;hahahaha~ ~!!! 
 
-**? ? ? :**
+**???:**
 I was so nervous...! I thought she would kill us all! 
 
-**? ? ? :**
+**???:**
 That's amazing. It really felt like she would, but then that girl really won against Lady Tristan! 
 
-**? ? ? :**
+**???:**
 We have the same build, and roughly the same amount of magical energy,
 
-**? ? ? :**
+**???:**
 and yet she's got such an amazing air about her...just wow, so cool! 
 
 ---
@@ -13241,7 +13241,7 @@ In accordance with this, the manager would very much like to meet you all and re
 **Auctioneer Fairy:**
 Please, proceed to the lord's manor. The Lord of Gloucester, Lady Muryan, is waiting for you. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Muryan:**
 Nice to meet you, Artoria! And everyone from pan-human history, as well! 
@@ -13658,7 +13658,7 @@ Another visitor from the “outside” who has told me stories of you and Chalde
 **Muryan:**
 Please, come and join us, Lady F. Umm, your real name was&mdash;
 
-**? ? ? :**
+**???:**
 Koyanskaya. Tamamovitch Koyanskaya, Princess. 
 
 **Koyanskaya:**
@@ -14005,7 +14005,7 @@ Her Majesty Morgan, and Knocknarea. The Child of Prophecy, and Fujimaru.
 **Muryan:**
 To the brave who survive, I hereby invite you to my “gameboard”&mdash;
 
-**--ARROW--:**
+**--ARROW--**
 
 **Da Vinci:**
 Aww. We finally had the chance to talk to a clan head, then Oberon screwed it all up. 
@@ -14697,7 +14697,7 @@ A time of peace, unlike any other in the Fairy Kingdom. The truly shining days h
 **Narration:**
 For you see, it would only be a short while before the fortress of Sheffield would crumble in flames. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Narration:**
 In the early morning, the castle town was bustling, as if celebrating a festival. 
@@ -14921,7 +14921,7 @@ More importantly! My name is Habetrot! Mash, even you are forbidden from calling
 **H：Mash:**
 Eh, no way...! Why not!?! &mdash;
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Habetrot:**
 Hah...hah...
@@ -15280,7 +15280,7 @@ For now, a few small words of encouragement will suffice,
 **Narration:**
 so that one day, the wheel of time may spin a story just for you. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Narration:**
 Oops, I forgot an important scene. How about we go back in time for a bit? 
@@ -16092,7 +16092,7 @@ Keep an eye on those fairies!
 **Oberon:**
 Sure, see you later. I'll hold down the fort. 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **The Seventh Fairy:**
 Hi-hoooooooo! I thought I was done for, but we made it! 
@@ -16222,7 +16222,7 @@ See you, everybody! You watch out for the Mors too!
 **Artoria, Muramasa, da Vinci & Fujimaru:**
 (Dumbfounded)
 
-**? ? ? :**
+**???:**
 ...I see. I see...! 
 
 **Oberon:**
@@ -16509,28 +16509,28 @@ It was the right thing to do.
 **Senji Muramasa:**
 Alright! Pretend I never asked! Let's get to sleep! 
 
-**? ? ? :**
+**???:**
 ...are you awake? ...you're not awake, are you...? 
 
-**? ? ? :**
+**???:**
 ...you're all sleeping so soundly...that's a good thing, I think...
 
-**? ? ? :**
+**???:**
 .... Hwaaaa, I'm sleepy too, but I gotta guard, gotta guard...
 
-**? ? ? :**
+**???:**
 ...no sign of any shady characters.... no sign of Mors...
 
-**? ? ? :**
+**???:**
 ...leave it to me...leave it to me...I'll take care of you, Artoria...
 
-**? ? ? :**
+**???:**
 ...I'll protect. . protec...
 
-**? ? ? :**
+**???:**
 ......zzzzzz......
 
-**--ARROW--:**
+**--ARROW--**
 
 **Oberon:**
 We've arrived. This is my domain, the Autumn Forest of Wales! 
@@ -16549,12 +16549,12 @@ The colors of autumn are everywhere...!
 ---
 
 **F：Welsh Fairy A:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>Lord Oberon, it's Lord Oberon! </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt> Everyone, Lord Oberon's returned! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Lord Oberon, it's Lord Oberon! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Everyone, Lord Oberon's returned! </rt></ruby>
 
 **J：Welsh Fairy B:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt> Tell them!  Tell them! </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt> Go tell everyone outside! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Tell them!  Tell them! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Go tell everyone outside! </rt></ruby>
 
 **Oberon:**
 Hey everyone, I'm back. I brought guests today. 
@@ -16593,8 +16593,8 @@ This is right out of a storybook. I feel like we've finally arrived in an actual
 Well a fairy's a fairy, right? There's nothing special about this place&mdash;
 
 **G：Welsh Fairy:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt> Make!  Make!  Make a helmet! </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt> Wanna be a soldier, wanna be a soldier! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Make!  Make!  Make a helmet! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Wanna be a soldier, wanna be a soldier! </rt></ruby>
 
 **Senji Muramasa:**
 ...Okay, they're a bit different. I don't quite understand, but...
@@ -16618,12 +16618,12 @@ They all just want to play soldier. They just want something that looks the part
 I know, I won't make the real thing! They'll just be imitations! 
 
 **F：Welsh Fairy:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt> And you?  And you? </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt> Oberon's friend?  A real friend? </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> And you?  And you? </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Oberon's friend?  A real friend? </rt></ruby>
 
 **F：Welsh Fairy:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt> Then you're our friend! </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt> You saved Oberon!  Thanks for Oberon! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Then you're our friend! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> You saved Oberon!  Thanks for Oberon! </rt></ruby>
 
 ---
 
@@ -16694,12 +16694,12 @@ No, that was just by chance...I think?
 ---
 
 **Welsh Fairy:**
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/6lcSbU9.png#gh-light-mode-only)</rb><rt>Are you hungry?  Are you hungry? </rt></ruby>
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/6lcSbU9.png#gh-light-mode-only)</rb><rt>If you came with Lord Oberon, you're definitely hungry, right? </rt></ruby>
+<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Are you hungry?  Are you hungry? </rt></ruby>
+<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>If you came with Lord Oberon, you're definitely hungry, right? </rt></ruby>
 
 **Welsh Fairy:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>We'll treat you, we'll treat you! </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>The chestnuts of Wales are delicious! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>We'll treat you, we'll treat you! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>The chestnuts of Wales are delicious! </rt></ruby>
 
 **Artoria:**
 Everyone, it looks like they're going to feed us. Wait, chestnuts! They've got chestnuts! 
@@ -16736,8 +16736,8 @@ I too once received a small piece of what appeared to be a black slab from Lady 
 To be honest, I prefer carrots. The nature of the sweetness is different. 
 
 **Welsh Fairy:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>This way!  This way! </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>Tell us about Oberon!  Tell us about Oberon! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>This way!  This way! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Tell us about Oberon!  Tell us about Oberon! </rt></ruby>
 
 **Da Vinci:**
 Seems like there's a dining table over there. 
@@ -16788,8 +16788,8 @@ Chomp, chomp. (Devours a pear in one bite)
 Still, this is a lot of food. Is this Oberon's share? Is it alright to just leave this? 
 
 **Welsh Fairies:**
-<ruby><rb>![welsh3-light](https://i.imgur.com/0CccUBF.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/on4qykZ.png#gh-light-mode-only)</rb><rt>It's here, it's here!  The Black Dog! </rt></ruby>
-<ruby><rb>![welsh3-light](https://i.imgur.com/0CccUBF.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/on4qykZ.png#gh-light-mode-only)</rb><rt>Hide, hide, first come first serve, hide! </rt></ruby>
+<ruby><rb>![welsh3-light](https://i.imgur.com/0CccUBF.png)</rb><rt>It's here, it's here!  The Black Dog! </rt></ruby>
+<ruby><rb>![welsh3-light](https://i.imgur.com/0CccUBF.png)</rb><rt>Hide, hide, first come first serve, hide! </rt></ruby>
 
 **Da Vinci:**
 Huh? They all suddenly shot up the trees and into the tree trunks&mdash;
@@ -16825,7 +16825,7 @@ Is this really what pan-human history amounts to?
 
 ---
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Artoria:**
 Wh-what was with that Black Dog? It was absurdly strong...
@@ -16881,12 +16881,12 @@ But in return, the Fang Clan was cursed...or so the story goes.
 ---
 
 **Welsh Fairy:**
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/6lcSbU9.png#gh-light-mode-only)</rb><rt> They're gone!  They're gone! </rt></ruby>
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/6lcSbU9.png#gh-light-mode-only)</rb><rt> Vortigern!  Vortigern! </rt></ruby>
+<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt> They're gone!  They're gone! </rt></ruby>
+<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt> Vortigern!  Vortigern! </rt></ruby>
 
 **Welsh Fairy:**
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/6lcSbU9.png#gh-light-mode-only)</rb><rt>Oberon will be sad, Oberon will be happy! </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>Can rely on friends! </rt></ruby>
+<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Oberon will be sad, Oberon will be happy! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Can rely on friends! </rt></ruby>
 
 **Da Vinci:**
 It looks like the fairies are happy we got rid of them. 
@@ -16900,7 +16900,7 @@ Now that we're here, I can't help but worry about what's going on outside.
 **Da Vinci:**
 Let's get some rest for now and wait for Oberon to come back. 
 
-**--ARROW--:**
+**--ARROW--**
 
  ~After dinner~
 
@@ -17326,7 +17326,7 @@ Titania is a fictional fairy. She doesn't exist in pan-human history.
 **Oberon:**
 Yeah, she was an existence permitted only within fiction. 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Artoria:**
 Ow, ow ow ow...! 
@@ -17593,7 +17593,7 @@ Let me be happy for now at least, just for this moment, Muramasaaaa!
 **Senji Muramasa:**
 No, as the oldest one here, I have to offer a different view, don't I? 
 
-**? ? ? :**
+**???:**
 I've heard your conversation. Hm, if that is the case, I have a suggestion. 
 
 ---
@@ -17948,7 +17948,7 @@ What about Norwich? Is this the solution to our return to Norwich?!
 No, what do they mean by granting freedom in the first place? Do they not see Lord Boggart's expansion of armaments as a problem!? 
 
 **Boggart:**
-&mdash;Gaaaaaaah! ! ! ! 
+&mdash;Gaaaaaaah!!!! 
 
 **Boggart:**
 Whatever...! 
@@ -18007,7 +18007,7 @@ The sighting of all three fairy knights has been confirmed! What sits at our doo
 **Boggart:**
 All of them are here&mdash;!? 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Gawain's Soldier:**
 All the troops are in position. Is there anything else, Lord Gawain? 
@@ -18198,7 +18198,7 @@ This was the beginning of the end for Sheffield.
 **Narration:**
 The coup de grâce which turned the siege into a raze. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Narration:**
 The ray of light emitted from the castle's keep quite literally swept away the atmosphere of the battlefield. 
@@ -18258,7 +18258,7 @@ No need to stop at Morgan! That fool Woodwose too!
 And Knocknarea in the North! And that “Calamity Pool” that has fallen on Norwich! 
 
 **Boggart:**
-We can exterminate them all, blow them all away! This is splendid, simply SPLENDID! ! ! ! 
+We can exterminate them all, blow them all away! This is splendid, simply SPLENDID!!!! 
 
 **Narration:**
 But Boggart did not notice. Although he saw it, he did not notice it. 
@@ -18618,7 +18618,7 @@ The back gate had become an ocean of blood. Not a single person could escape.
 Of course, there was no way she would let such a thing come to pass. 
 
 **Mash:**
-Haaaaaaah! ! ! ! ! 
+Haaaaaaah!!!!! 
 
 **I：Sheffield Guard:**
 Lady Mash!? Why are you here!? 
@@ -18668,7 +18668,7 @@ I am the Knight of Sheffield, Fairy Knight Galahad!
 **Mash:**
 I am your enemy, and I will be the one to defeat you...! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Sheffield Fairy:**
 The gate has been opened! The Child of Prophecy has opened the gate! 
@@ -18691,10 +18691,10 @@ You don't have to stand with him. This is his final battle, and his alone.
 **Mash:**
 ...Habetrot! 
 
-**? ? ? :**
+**???:**
 ...escaping is prohibited. 
 
-**? ? ? :**
+**???:**
 ...death by the noose, or death here. The choice is yours to make. 
 
 **Sheffield Fairy:**
@@ -18733,10 +18733,10 @@ N-no, I don't know either, I was just spurred on by the heat of the moment...!
 **Mash:**
 Never mind that, I will fight back! Everyone, please escape...! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Mash:**
-Ugh-ghhhhh...! ! ! 
+Ugh-ghhhhh...!!! 
 
 **Mash:**
 I can't...stand up to...even one of them...my powers are...already...
@@ -18771,31 +18771,31 @@ Farewell. You were far too hasty to name yourself a Fairy Knight, and to falsely
 **Fairy Knight Lancelot:**
 &mdash;Who's there? 
 
-**? ? ? :**
+**???:**
 Sorry, but that young lady is my acquaintance. 
 
-**? ? ? :**
+**???:**
 I didn't want to involve myself, but it'd be no good for her to die here. 
 
-**? ? ? :**
+**???:**
 Stand down, Lancelot. That way, we can both return to our lives before long. 
 
 **Mash:**
 Are you&mdash;are you perhaps the wolf who's been watching over me constantly...? 
 
-**? ? ? :**
+**???:**
 Come on, does something so obvious really need to be said? 
 
-**? ? ? :**
+**???:**
 I guess you have good intuition, or rather, good discernment as always, young lady. 
 
-**? ? ? :**
+**???:**
 Leave this one to me and run. I can at least buy you some time. 
 
 **Mash:**
 Y-yes, I'll take your word for it! Thank you very much, robed man! 
 
-**? ? ? :**
+**???:**
 Huh, you're not going outside!? What are you doing, heading back into the castle!? Heeeeeyyyy!? 
 
 **Habetrot:**
@@ -18828,9 +18828,9 @@ It'd take too long to tell. Well, we're both outsiders in this Fairy Kingdom,
 **Grimm the Wise:**
 so let's not worry about our surroundings, and fight to our heart's desire! 
 
-**--ARROW--:**
+**--ARROW--**
 
-**? ? ? :**
+**???:**
 Huuuh, he deflected that one too. It seems true then, that he's as hardy as Gawain. 
 
 **Fairy Knight Tristan:**
@@ -18843,7 +18843,7 @@ I want to touch his throbbing muscles, and scrape out his rumbling knotty intest
 Look, your insides are a disarranged and suffering mess! I'm gonna make you look like an unsellable doll! 
 
 **Boggart:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
 
 **Beryl:**
 Uh-oh, careful with that, Lady. You're making blood splatter all over us. 
@@ -19184,7 +19184,7 @@ The more she acts the part of the Child of Prophecy, the more she'll despair at 
 **Beryl:**
 After all, that's the foundation on which this Fairy Kingdom was built, right? 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Narration:**
 She fell for a few seconds from the throne room, down into the castle courtyard. 
@@ -19576,7 +19576,7 @@ This is how the battle of Sheffield came to its end.
 **Narration:**
 Above that rear gate, the voices of those two fairies, seeing their friend off until the very end, lived on forever and ever. 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Narration:**
 The fairies who escaped from Sheffield were in a certain cave in the north. 
@@ -19968,19 +19968,19 @@ If anything, getting shattered is when the real fight begins.
 **Artoria:**
 I'll have you know, I'm actually really cautious! 
 
-**? ? ? :**
+**???:**
 That's right! Zooooooom! 
 
-**? ? ? :**
+**???:**
 Artoria is a bear full of courage, vigor, and the power to lead us forward! 
 
-**? ? ? :**
+**???:**
 She'll absolutely, absoluuuuutely be able to do something about Norwich, no doubt about it! 
 
-**? ? ? :**
+**???:**
 Let's get going right away, and start on our journey! Our destination is Norwich, the City of Calamity! 
 
-**? ? ? :**
+**???:**
 To save Britain, with all of our powers combined! 
 
 **Everyone else:**
@@ -19993,8 +19993,8 @@ Hello, nice to meet you! I'm Gareth!
 Gareth the Wanderer, aspiring to be Artoria's squire! 
 
 **Welsh Fairy:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>Here you go, here you go! </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>Lunch, lunch! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Here you go, here you go! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Lunch, lunch! </rt></ruby>
 
 **Gareth:**
 Aha. Thank you again for the food today. (Munch munch munch. )
@@ -20157,7 +20157,7 @@ Also, you mentioned you didn't know what kind of fairy you were, but I guess tha
 **Oberon:**
 You're the first subject of Artoria. Gareth, the “apprentice knight”. 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Artoria:**
 Nice combination! We did it, Gareth! 
@@ -20507,7 +20507,7 @@ J-just like that...
 **Fang Fairy:**
 If fairies and humans are so different...then why can't humans know their place...? 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Senji Muramasa:**
 This was the third one...Exterminating monster cats is not exactly my forte...
@@ -21041,7 +21041,7 @@ I've done it now! What the hell is that coming down the river!?
 **Oberon:**
 Magical energy sold out!? 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Senji Muramasa:**
 Hey, what do you have to say for yourselves, you morons? I'll give you one chance before I bonk you over the head. 
@@ -21177,17 +21177,17 @@ She disguised herself as gold rings and dishes floating downstream, then dragged
 **Da Vinci:**
 However, she wasn't just trying to find a lover. Dracae's purpose was to&mdash;
 
-**? ? ? :**
+**???:**
 Wish...wish...my...purpose...
 
-**? ? ? :**
+**???:**
 I beg of you...beg of you...please, I...
 
-**? ? ? :**
+**???:**
 Far...I have...searched...this...world　to...looked in vain...
 
-**? ? ? :**
-AA&mdash;AA&mdash;aaaaaaaaaaaaa! ! ! 
+**???:**
+AA&mdash;AA&mdash;aaaaaaaaaaaaa!!! 
 
 **Senji Muramasa:**
 She's coming, get ready! If she's attacking us, we have to respond! We can finish that thought later! 
@@ -21195,7 +21195,7 @@ She's coming, get ready! If she's attacking us, we have to respond! We can finis
 **Senji Muramasa:**
 From the looks of it, this thing's serious! Don't be caught off guard, Fujimaru! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Dracae:**
 Nowhere.... nowhere...why...why...
@@ -21335,7 +21335,7 @@ We'll set up camp on the other side to spend the night. Hey, there's no real rus
 **Oberon:**
 Norwich is just a stone's throw away. We're on schedule, and we'll be right on time for our destiny. 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Gareth:**
 Facing such a terrifying enemy, and then getting to taste bread as delicious as this. 
@@ -22535,7 +22535,7 @@ Our goal is just to retreat! Let's go!
 
 ---
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Senji Muramasa:**
 Tch, a second group. Form up around Fujimaru! 
@@ -22836,7 +22836,7 @@ Well, let's talk some more about it.
 **Count Peperon:**
 And please, could you tell me as much as you can about the state of affairs in Chaldea? 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Count Peperon:**
 I see...a crisis of the earth, separate from that of the Bleaching. 
@@ -23150,7 +23150,7 @@ In hindsight, it might have been a mistake to let Mash be taken by Spriggan in t
 **Count Peperon:**
 If you want to see Mash, she will have to come out of the castle. 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Count Peperon:**
 Alrighty, that concludes the battle~☆ You lovelies really showed me what you're capable of~! 
@@ -23597,7 +23597,7 @@ If this is what you've decided, I'll do what I can. Leave it to me to figure out
 **Oberon:**
 Let's go, Vesper! Speedstar, prepare for take-off! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Count Peperon:**
 HEY, GOOD MORNING! Did you all have a good night's sleep? 
@@ -23926,7 +23926,7 @@ There, a shoemaker fairy!
 **Artoria:**
 Stay where you are! We'll take care of the Mors! 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Artoria:**
 Now or never! Quickly, get to the Count's shelter! 
@@ -24031,7 +24031,7 @@ We will stand our ground here, and let everyone see that Artoria is the real thi
 **Artoria:**
 ...
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Senji Muramasa:**
 How many are there now!? They just keep coming! I'm not even gonna count past fifty! 
@@ -24491,7 +24491,7 @@ I don't care whether you're the Child of Prophecy or not&mdash;
 The voice resounded from behind her. From her heart to her fingertips, her fiery blood pumped throughout her body. 
 
 **Fujimaru:**
-Mash, give us all a show we'll never forget! ! ! 
+Mash, give us all a show we'll never forget!!! 
 
 **Narration:**
 With this, the Prophecy had been overturned. 
@@ -24538,7 +24538,7 @@ That girl's name is Mash Kyrielight.
 **Narration:**
 She, who everyone had believed to be the Child of Prophecy, was finally allowed to be selfish. 
 
-**--BATTLE--:**
+**--BATTLE--**
 
 **Mash:**
 No way...the Calamity is vanishing...
@@ -24724,34 +24724,34 @@ Mash. Mash...!
 
 ---
 
-**? ? ? :**
+**???:**
 Ah, you saw it happen right in front of you, so don't you get it? She was protecting you, and now she's gone. 
 
-**? ? ? :**
+**???:**
 That right there was Morgan's Water Mirror. Originally, it was supposed to be used against the Calamity. 
 
-**? ? ? :**
+**???:**
 It was such a flashy plot twist, but it's taken a long time to set up. 
 
-**? ? ? :**
+**???:**
 Seriously, you outsider humans are so careless. Or were you led wherever the wind took you? 
 
-**? ? ? :**
+**???:**
 Well, it doesn't matter either way. It doesn't change what I have to do. 
 
-**? ? ? :**
+**???:**
 Come now, this is no time to be falling on your ass, Fujimaru. 
 
-**? ? ? :**
+**???:**
 Don't fret, Mash is fine. She's just not here. 
 
-**? ? ? :**
+**???:**
 The Water Mirror is a transference spell. She's somewhere else in Britain by now. 
 
-**? ? ? :**
+**???:**
 Don't worry. You'll be reunited before long. If you don't, I'll be upset. 
 
-**? ? ? :**
+**???:**
 When that time comes, the bride's prince will have to rise up as graceful as ever. 
 
 ---
@@ -24777,7 +24777,7 @@ A friendly fae who will help you out on your journey, free of charge.
 **Habetrot:**
 That is, until you're reunited with Mash, at least. You should feel honored! 
 
-**--ARROW--:**
+**--ARROW--**
 
 **Habetrot:**
 Whaa, the food here is too delicious! The stuff back at Sheffield has nothing on this! 
@@ -25225,7 +25225,7 @@ The threat of the sixth Lostbelt, the Fairy Kingdom of Britain, which rejects th
 Chaldea's special investigation operative and Master, Fujimaru,
  
 **Gordolf:**
-{(M)his/(F)her} exclusive Servant, Mash Kyrielight,
+{(M) his /(F) her} exclusive Servant, Mash Kyrielight,
  
 **Gordolf:**
 technical advisor Leonardo da Vinci...along with the summoned Servant Tristan. 
@@ -25255,7 +25255,7 @@ With additional help from a new on-site local, Oberon, the so-called Fairy King,
 Fujimaru began the investigation in earnest. 
  
 **Gordolf:**
-{(M)He/(F)She} was soon able to reunite with technical advisor Leonardo da Vinci,
+{(M) He /(F) She} was soon able to reunite with technical advisor Leonardo da Vinci,
  
 **Gordolf:**
 and while their highest priority was to find Mash Kyrielight, various information about the Fairy Kingdom was collected. 
@@ -25285,7 +25285,7 @@ When this is successfully done, the Child of Prophecy will defeat Morgan and bec
 There's no way Fujimaru would sit quietly by upon hearing such a story. 
  
 **Gordolf:**
-{(M)He/(F)She} selfishly proposed cooperating with Artoria Caster without waiting for further instructions from me. 
+{(M) He /(F) She} selfishly proposed cooperating with Artoria Caster without waiting for further instructions from me. 
  
 **Gordolf:**
 For the sake of their mutual goal of defeating Morgan, they wholeheartedly supported the Child of Prophecy. 
@@ -25306,7 +25306,7 @@ Joined by another local ally, the fairy Gareth. The mysterious fairy horse, Red 
 Through many dangers, including Dracae's river of tears,
  
 **Gordolf:**
-what Fujimaru saw when {(M)he/(F)she} arrived in Norwich was...
+what Fujimaru saw when {(M) he /(F) she} arrived in Norwich was...
  
 **Gordolf:**
 Another Child of Prophecy supported by the fairies, none other than Mash Kyrielight! 
@@ -25360,7 +25360,7 @@ I'm sure that's what Fujimaru thought.
 After all, now, in accordance with our ultimate objective...
  
 **Gordolf:**
-{(M)He/(F)She} has received an invitation from Morgan, who holds the spear Rhongomyniad, a countermeasure against the Alien God. 
+{(M) He /(F) She} has received an invitation from Morgan, who holds the spear Rhongomyniad, a countermeasure against the Alien God. 
  
 **Gordolf:**
 Camelot, the castle of King Arthur in pan-human history, and the castle of evil in the Fairyland Britain. 
@@ -26040,7 +26040,7 @@ Now that the Calamity has been cleansed, the Mors' poison is spreading throughou
 **Fairy Knight Gawain:**
 As soon as they're encountered, draw your swords and annihilate them! And don't let our guests scream! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Artoria:**
 ...I'm relieved. This is no different from being in Red Rab-bit's carriage. 
@@ -26088,7 +26088,7 @@ Nervousness about 20%, calmness about 80%...oh noooo, my servant is too much of 
 No, Fujimaru is just as nervous as you, Artoria. 
  
 **Da Vinci:**
-{(M)He/(F)She} just knows that you need to stay calm in a pinch. 
+{(M) He /(F) She} just knows that you need to stay calm in a pinch. 
  
 **Da Vinci:**
 Because a Master is a commander who not only gives orders to Servants, but also has to be wary against them. 
@@ -26220,7 +26220,7 @@ Very well, I'll accept your help. Their numbers are too great. We'll take on cas
 **Fairy Knight Gawain:**
 Child of Prophecy, foreign magus, with me! Do not leave my side! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gawain's Soldier:**
 More than ten large Mors...no, they're multiplying! The difference in strength is too great, we can't handle them! 
@@ -26312,7 +26312,7 @@ I agree. I don't think you needed help either. But these were Her Majesty's orde
 **Fairy Knight Lancelot:**
 Stand back, Gawain. Crushing them all is my job. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -26813,7 +26813,7 @@ It's all in the past anyway. Just be sure to clean up!
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 
  ~2 days since departing Norwich~ ~30 days since arriving in the Fairy Kingdom~
@@ -26929,15 +26929,27 @@ Well, it's fine if you don't. It's none of your concern.
  
 **Artoria:**
 It's totally our concern! 
+
+---
+
+Note: Male Player
  
 **Artoria:**
 Fujimaru, put me on your shoulders! Pretend you're Red Rab-bit! 
+
+---
+
+Note: Female Player
  
 **Artoria:**
 Muramasa, make a watchtower or something! 
  
-**Artoria:**
+**Artoria:**...Artoria. Come here for a sec.
 Fujimaru and me could climb it together! 
+
+---
+
+Note: Branch End
  
 **Da Vinci:**
 Hold on a second, isn't this exactly where my handy tools come into play? 
@@ -27251,7 +27263,7 @@ Let's go, Artoria.
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -27628,7 +27640,7 @@ Fujimaru, Artoria, get behind me! I thought this might happen...
 Be silent. 
  
 **Beryl:**
-!?! ! ! !? (Beryl shouting something)
+!?!!!!? (Beryl shouting something)
  
 **Morgan:**
 Until they leave Camelot, these are my honored guests. 
@@ -27637,7 +27649,7 @@ Until they leave Camelot, these are my honored guests.
 I will not permit a single strand of their hair, nor a sliver of their pride to come to harm. 
  
 **Beryl:**
-! ! ! ! ! ! ! ! ! ! ...! (Beryl screaming “Are you for real!? ”)
+!!!!!!!!!! ...! (Beryl screaming “Are you for real!? ”)
  
 **Morgan:**
 Forgive my husband's rudeness, Fujimaru, infant. 
@@ -27726,7 +27738,7 @@ But I can assure you that she is safe. No one&mdash; not even I, can bring her t
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -27960,7 +27972,7 @@ When the Earth Clansmen heard that, they prepared this armor, saying “well if 
 **Artoria:**
 I see. Well, I hope you ponied it up yourself! 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -28316,7 +28328,7 @@ and are forced to obey Knocknarea until they die! (※Gareth's supposition)
 ? ? ? ? (doesn't understand what Gareth is talking about)
  
 **Chocolate Field Mors:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;! 
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
  
 **Senji Muramasa:**
 ...Well. (casually wiping his mouth with his finger) Mors from the field...!? 
@@ -28343,9 +28355,9 @@ Uh, Muramasa, why are you stepping back? And why have you been hiding your right
 Well, it's right there, isn't it? 
  
 **Gareth:**
-OLD MAN! ! 
+OLD MAN!! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gareth:**
 Oh, huh? Everyone, are you feeling a bit numb? 
@@ -28378,18 +28390,18 @@ If you're tasting the produce without permission, well...
 Shit! There's a huge army marching towards us from over the hill! And...what the hell is that? 
  
 **Mystery Soldiers:**
-Weeeeeeeeeeeei! ! ! ! Hohooooooooooi! ! ! ! 
+Weeeeeeeeeeeei!!!! Hohooooooooooi!!!! 
  
 **Artoria:**
 We've been surrounded...! This presence...no, the surrounding magical energy is as thick as honey! 
  
-**? ? ? :**
+**???:**
 That's enough, you shameless tourists! 
  
-**? ? ? :**
+**???:**
 You've got some nerve, to behave as if my farmland is an all-you-can-eat buffet! 
  
-**? ? ? :**
+**???:**
 I wonder, is it that you desire to become my slaves for the next generation? And the generation after that? And the generation after that? 
  
 ---
@@ -28447,7 +28459,7 @@ Yeah! Medb is awesome!
 **Knocknarea:**
 ...Who? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Artoria:**
 It was five years ago, in Gloucester. 
@@ -28680,6 +28692,9 @@ I'll pay you (because I'm rich now).
 
 ---
 
+---
+
+Note: Male Player
  
 **Knocknarea:**
 ...
@@ -28697,16 +28712,16 @@ What is it? It's not like you to be discreet. You want me to keep all the bad st
 ...Is that a human? Your servant? Did your dream come true? 
  
 **Artoria:**
-N-no, {(M)he/(F)she}'s my ally, a magus from the outside world. 
+N-no, he's my ally, a magus from the outside world. 
  
 **Artoria:**
-{(M)He/(F)She}'s pretending to be my servant, but if anything, {(M)he/(F)she}'s done nothing but help me so far. 
+He's pretending to be my servant, but if anything, he's done nothing but help me so far. 
  
 **Knocknarea:**
 ...I see. So they're nothing more than your guard. 
  
 **Knocknarea:**
-What's {(M)his/(F)her} name? I don't get why you haven't collared {(M)him/(F)her}. Tell me. Please. 
+What's his name? I don't get why you haven't collared him. Tell me. Please. 
  
 **Artoria:**
 So polite...are you really Knocknarea? Did you eat something bad? Or too much chocolate? 
@@ -28715,16 +28730,20 @@ So polite...are you really Knocknarea? Did you eat something bad? Or too much ch
 Uh...(No, I've got to be patient...)
  
 **Knocknarea:**
-Yeah, I've gotten sweeter lately. So what's {(M)his/(F)her} name? When did you meet? 
+Yeah, I've gotten sweeter lately. So what's his name? When did you meet? 
  
 **Artoria:**
-{(M)His/(F)Her} name is Fujimaru. We met around twenty days ago now...
+His name is Fujimaru. We met around twenty days ago now...
  
 **Knocknarea:**
 Meaning it's nothing serious yet. Well, I guess it doesn't matter who you associate with. 
  
 **Artoria:**
 Huh? 
+
+---
+
+Note: Female Player
  
 **Knocknarea:**
 ...Aren't you a human? You're a human, and you're talking to me like that? 
@@ -28749,6 +28768,10 @@ Fujimaru. If you need a place to stay, come to my castle.
  
 **Knocknarea:**
 It would be a shame to see you enslaved by the southern fairies. Maybe you can cure me of my misanthropy. 
+
+---
+
+Note: Branch End
  
 **Knocknarea:**
 Sorry, I got off track. Anyway&mdash;
@@ -28813,7 +28836,7 @@ Now let's get this started, Artoria! Who's the real savior of Britain, you or me
 **Knocknarea:**
 Let's begin the preliminaries! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -28980,7 +29003,7 @@ Ah, but I have to say one more thing.
 **Knocknarea:**
 At least show some dignity, Artoria. Nobody's going to follow a shabby king, you know? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 Well, we've gone south through the chocolate fields, and are now back in southern Britain. 
@@ -29098,7 +29121,7 @@ With Norwich's Calamity cleansed, Artoria has no need to worry about any of them
 **Oberon:**
 As the Child of Prophecy who will save Britain, why don't you pay a visit to the Round Table Army? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Oberon:**
 I appreciate you pushing this far after staying up all night and getting no rest. Londinium is just over those two hills. 
@@ -29304,46 +29327,46 @@ But now I'm all alone&mdash;
 **Gareth:**
 I'm going to die here, unimportant, unable to do anything&mdash;
  
-**? ? ? :**
+**???:**
 So close! If you had taken six, or even just three more steps, you could have run it straight through! 
  
-**? ? ? :**
+**???:**
 You're still too small. You can't pierce a Mors' hide with just the weight of your lance. 
  
-**? ? ? :**
+**???:**
 Keep in mind the leg you pivot on should be facing forward, not to the side, and make use of the weight of the earth. 
  
-**? ? ? :**
+**???:**
 But that's something to worry about later. For now, can you stand up? 
  
 **Gareth:**
 Ah&mdash;Y-yes. Um, you are&mdash;
  
-**? ? ? :**
+**???:**
 Just a passing-by waterboy. I saw you going into the woods. 
  
-**? ? ? :**
+**???:**
 I came here to warn you about the Mors lurking in this area&mdash;
  
 **Mors:**
 &ndash;！
  
-**? ? ? :**
+**???:**
 ...but it looks like I was a little late. 
  
-**? ? ? :**
+**???:**
 Luckily, there's just the two of them. I could really use your help, if that's alright. 
  
 **Gareth:**
 Y-yes, of course! I'm Gareth! 
  
-**? ? ? :**
+**???:**
 I'm Percival. You can handle the one on the right, gallant knight. 
  
 **Gareth:**
 P-Percival&mdash;Eh? Eeeeeeehhhhhh!? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gareth:**
 We won...I can beat Mors all by myself...
@@ -29384,7 +29407,7 @@ Let me introduce myself again! My name is Gareth, a follower of the Child of Pro
 **Gareth:**
 The Child of Prophecy&mdash;Artoria, has come to Londinium! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Artoria:**
 (Gareth is late...it's probably nothing to worry about, but...it's bugging me...)
@@ -29663,7 +29686,7 @@ She bears the Staff of Selection sent from Paradise, just like Percival's Spear 
 **Oberon:**
 In a nutshell, she's the one who you've been waiting for, the Child of Prophecy who will save Britain. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 The festival's in full swing now. Will we not be able to talk to Artoria for a while? 
@@ -30107,7 +30130,7 @@ Eh...
 **Artoria:**
 &mdash;Did you say...taking Norwich? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Percival:**
 We're going to use this as the operations room. 
@@ -30790,7 +30813,7 @@ Before daybreak, we'll sneak into Norwich and make a big ruckus.
 **Percival:**
 This will be a long battle. I hope you're prepared, Fujimaru. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Count Peperon:**
 Welcome, welcome! You're right on time, Fujimaru! 
@@ -30819,7 +30842,7 @@ Let's see, the ones who came in are...
 Miss Da Vinci, little ol' Muramasa and Gareth, Habetrot, and...
  
 **Count Peperon:**
-OH MY GOODNESS! ! ! 
+OH MY GOODNESS!!! 
  
 **Percival:**
 An enemy!? 
@@ -30995,7 +31018,7 @@ Understood? Only the Queen's soldiers will fight the Child of Prophecy.
 We are merely protecting Norwich. Think of it that way. 
  
 **Spriggan:**
-And have the bell tower garrison stand down. I'll greet the {(M)boy/(F)girl} there. 
+And have the bell tower garrison stand down. I'll greet the {(M) boy /(F) girl} there. 
  
 **Spriggan's Guard:**
 Yessir! 
@@ -31012,7 +31035,7 @@ If the Child of Prophecy has even a chance of winning, then investing in her isn
 **Spriggan:**
 I'm getting sick of deceiving the eyes of all these fairies anyway. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Senji Muramasa:**
 Right! We're just about done here! We'll take care of the rest on our own! 
@@ -31037,7 +31060,7 @@ Both of you, be careful!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Round Table Army Soldier A:**
 Report from Captain Landon! We've gained total control of the south district! 
@@ -31165,13 +31188,13 @@ We've seen none of his soldiers, to say nothing of Spriggan himself. It was almo
 **Senji Muramasa:**
 ...this is giving me some really bad vibes. There's something in here. Be careful. 
  
-**? ? ? :**
+**???:**
 Oooh...oooooooh...
  
-**? ? ? :**
+**???:**
 Capless...Capless...where are you...Capless...
  
-**? ? ? :**
+**???:**
 I can smell Paradise...I can hear Avalon...I see...you've finally come...
  
 **Percival:**
@@ -31186,7 +31209,7 @@ Oooh...my dead flesh is accursed...but the Earth Clan will gladly give up their 
 **Fairy Deadlord:**
 ...Yes. In exchange for your abominable flesh and blood! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Percival:**
 ...It's completely dissipated. Seems like it remained here as a Fairy Deadlord for a long time...
@@ -31197,10 +31220,10 @@ Oooh...my dead flesh is accursed...but the Earth Clan will gladly give up their 
 **Da Vinci:**
 Anyway, it doesn't seem like there's anything left in our way. All that's left is to ring the bell...
  
-**? ? ? :**
+**???:**
 Oh, splendid, simply splendid! 
  
-**? ? ? :**
+**???:**
 You've done a wonderful job exorcising the wraith haunting this tower for the last 100 years. 
  
 **Spriggan:**
@@ -31209,7 +31232,7 @@ This is exactly what it means to solve a problem quickly and skillfully. Truly t
 **Spriggan:**
 I, Spriggan, am enthralled by your power once more. 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -31335,7 +31358,7 @@ Lose control of Norwich...?
 
  
 **Spriggan:**
-Oh? Must I explain it to you, {(M)Lord/(F)Lady} Foreign Magus? 
+Oh? Must I explain it to you, {(M) Lord /(F) Lady} Foreign Magus? 
  
 **Oberon:**
 Yeah, no. I'll sum it up. 
@@ -31860,16 +31883,16 @@ Artoria, aren't you feeling incredibly strong?
 **Mash:**
 Nn...My body is tingling all over&mdash; what happened&mdash;
  
-**? ? ? :**
+**???:**
 Whoa! Whoaaa! 
  
-**? ? ? :**
+**???:**
 She's awake! She's awake! 
  
-**? ? ? :**
+**???:**
 She's waking up, Tonelico! The weird person! The one wearing the iron armor! 
  
-**? ? ? :**
+**???:**
 Can I beat her up? Can I beat her up? She's definitely a bad fairy! 
  
 **Mash:**
@@ -31878,7 +31901,7 @@ Habetrot! I'm glad you're safe!
 **Mash:**
 Thank goodness...there was an awful lightning strike and I thought Norwich might've burned down...
  
-**? ? ? :**
+**???:**
 No-witch? What are you even talking about? Did you come from those woods there? 
  
 **Mash:**
@@ -32472,7 +32495,7 @@ Yes, we'll break through Woodwose's lines where they're thinnest!
 **Oberon:**
 This will be great! The perfect debut for the all-new Artoria! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Woodwose's Army・Soldier:**
 Tch...! Damn it, we can't stop them...! 
@@ -32725,7 +32748,7 @@ Huh? Backwards how?
 **Beryl:**
 If we're lucky, we'll get to see one hell of a show. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gareth:**
 Wheeeeeeeeeeeeew! That was rough! 
@@ -32994,7 +33017,7 @@ In the end, she's just playing the Fairy Knight! All you have to do is get her t
 **Artoria:**
 Thanks for your straightforward concern and advice! We're off, Habetrot! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 I see it, it's Wales! But&mdash;the forest is burning...! 
@@ -33018,20 +33041,20 @@ By the order of Her Majesty, burn! Burn this vile Forest of Decay to the ground!
 You scum who named the Fairy King...! Repent for your sins! 
  
 **Welsh Fairy:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>It hurts.  It hurts.  It hurts. </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>Stop it.  Stop it. </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>It hurts.  It hurts.  It hurts. </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Stop it.  Stop it. </rt></ruby>
  
 **Welsh Fairy:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>Don't burn the forest. </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>Don't break Oberon's house. </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Don't burn the forest. </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Don't break Oberon's house. </rt></ruby>
  
 **Welsh Fairy:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>Don't be mean to everyone. </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>Don't be mean to us. </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Don't be mean to everyone. </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Don't be mean to us. </rt></ruby>
  
 **Welsh Fairy:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>It hurts.  It hurts.  It hurts. </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt> We'll die.  We'll die.  We'll die</rt></ruby>&mdash;
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>It hurts.  It hurts.  It hurts. </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> We'll die.  We'll die.  We'll die</rt></ruby>&mdash;
  
 ---
 
@@ -33083,7 +33106,7 @@ Got it, leave it to me!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Artoria:**
 Haa...haa...haa.... ! They're running, they're running away after all this! 
@@ -33137,7 +33160,7 @@ It's useless. We already sweeped the area. All that remains is to burn the fores
 **Fairy Knight Gawain:**
 You're half a day too late to save them. This is what you get for ringing the bell, Child of Prophecy. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Artoria:**
 Fairy Knight Gawain...! 
@@ -33185,7 +33208,7 @@ It's alright, I'm prepared to fight her! I'll use decoys to counter her eating o
 **Artoria:**
 I only have three, so we can only hold out for so long! Let's finish her off quick, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Senji Muramasa:**
 Wow, we caught a big one here! Not bad, Artoria! 
@@ -33235,7 +33258,7 @@ Your true name is Barghest! The Black Dog Lord, the Thundercloud-Eating Barghest
 **Artoria:**
 Enough of your “knightly” pretence! Face us without your gifted name! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 Barghest! The black dog fairy from England,
@@ -33314,7 +33337,7 @@ Artoria, Fujimaru, lend me your strength!
 **Oberon:**
 Let us show the Queen's dog who trampled this forest the pride of the weak...! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Percival:**
 Setting fire to a forest, slaughtering the defenseless...! So this is how the Queen controls her people!? 
@@ -33356,7 +33379,7 @@ Is that so?
 Well, sometimes she just lets her feelings get the best of her. 
  
 **Senji Muramasa:**
-Fujimaru has been through a lot too, but {(M)he/(F)she}'s still just a kid. 
+Fujimaru has been through a lot too, but {(M) he /(F) she}'s still just a kid. 
  
 **Senji Muramasa:**
 You sure it's alright for an old man like me looking after them? 
@@ -33424,7 +33447,7 @@ I'm counting on your eyes! Tell me where he is!
 **Gareth:**
 P-please leave it to me! I'll do my best! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Knight Portunes:**
 What was I thinking, calling that a precaution!? It's already been decided! 
@@ -33459,7 +33482,7 @@ Seriously&mdash;it's disgraceful how naive you are, Percival.
 **Gareth:**
 ...Lancelot...the strongest Fairy Knight in Britain&mdash;
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -33722,7 +33745,7 @@ An obvious treason against Her Majesty. If you have proof otherwise, show it now
 Kill the human beside you. 
  
 **Knight Portunes:**
-It should be easy for you. Just reach around and snap {(M)his/(F)her} neck. 
+It should be easy for you. Just reach around and snap {(M) his /(F) her} neck. 
  
 ---
 
@@ -33953,7 +33976,7 @@ Look&mdash;you see all those fallen trees? Those are “fairies who lost their l
 **Artoria:**
 This Britain is a land littered with the bodies of dead fairies. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Knight Portunes:**
 Hmph. To think a knight like myself would be forced to retreat in disgrace. There were too many factors I did not foresee. 
@@ -33985,8 +34008,8 @@ Well, no matter. I know where they are. As soon as I report to Her Majesty, I'll
 **Knight Portunes:**
 Ugh!? What, what's&mdash;my legs, my legs are vanishing...!? 
  
-**? ? ? :**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;
+**???:**
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;
  
 **Knight Portunes:**
 You&mdash;damn you&mdash;! I know your foul stench, your curse...! 
@@ -33994,8 +34017,8 @@ You&mdash;damn you&mdash;! I know your foul stench, your curse...!
 **Knight Portunes:**
 The stench of the Mors War...! 
  
-**? ? ? :**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)&ndash;
+**???:**
+![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;
  
 **Knight Portunes:**
 Impossible&mdash;you should be dead&mdash;My Queen&mdash;I have to tell the Queen&mdash;
@@ -34111,7 +34134,7 @@ No matter what I do, there will be no change in the Queen's Calendar...? Tonelic
 Come on. You're talking about the future again, aren't you? 
  
 **Mash:**
-Ah...y-you're right! ! The very mention of the Queen's Calendar is taboo, isn't it!? 
+Ah...y-you're right!! The very mention of the Queen's Calendar is taboo, isn't it!? 
  
 **Tonelico:**
 Exactly. This is a measure to safeguard your fate rather than safeguarding ours. 
@@ -34147,7 +34170,7 @@ The Knight of Londinium has finally been born, and it almost ruined everything..
 We can't ever thank you enough for that, Mash. 
  
 **Tonelico:**
-All thanks to you and, what was {(M)his/(F)her} name, Fujimaru? 
+All thanks to you and, what was {(M) his /(F) her} name, Fujimaru? 
  
 **Tonelico:**
 Our fight here will go down much more smoothly. 
@@ -34348,7 +34371,7 @@ Investigate&mdash;
 W-what is it, Tonelico? 
  
 **Tonelico:**
-I goooot it! ! ! Yaaaay! ! ! 
+I goooot it!!! Yaaaay!!! 
  
 **Tonelico:**
 Everyone, change of plans, let's go to the Great Pit! Right now! 
@@ -34800,7 +34823,7 @@ Now then, it's Aurora's turn to keep her word.
 **Oberon:**
 Let's puff our chests and go claim our reward for saving Norwich! 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -34957,7 +34980,7 @@ Sorry, man.
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Aurora:**
 The bell of Salisbury has rung. I cannot declare it yet, but...
@@ -35112,7 +35135,7 @@ We of the Liberation Army dedicate our lives to the protection of our lady and h
 **Coral:**
 (...The Pilgrim's Bells...please, ring them all before we go to war with the Queen...)
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -35468,7 +35491,7 @@ If Artoria is sticking to the prophecy, than all of this was off the record.
 **Count Peperon:**
 Saying “we might be able to escape to the outside world” would be a little demoralizing for our rebels, you know? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Percival:**
 Well then, on to present matters. 
@@ -36090,7 +36113,7 @@ I like to fight, and I'm fighting well. But I'm aghast at the idea of being prai
 I don't think anyone great in battle would wish for all that. 
  
 **Senji Muramasa:**
-Fujimaru still retained a lot of {(M)his/(F)her} good charm despite diving for Holy Grails. 
+Fujimaru still retained a lot of {(M) his /(F) her} good charm despite diving for Holy Grails. 
  
 **Artoria:**
 Um...Muramasa, what exactly did you see in that...? 
@@ -36370,7 +36393,7 @@ Of course. Only one word is inscribed.
 **Da Vinci:**
 The name of an old Celtic god...and proof there once was a god in this land. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Clerk Meldick:**
 Fairy Knight, Lord Lancelot. Former Fairy Knight Gawain, Lord Barghest. 
@@ -36556,13 +36579,13 @@ Very well, I shall allow it. This is obviously nonsense, but speak.
 Your Majesty, I do not think that the foreign magus is an invader here to destroy Britain. 
  
 **Barghest:**
-{(M)He/(F)She}, along with the Child of Prophecy, purified Norwich of the Calamity,
+{(M) He /(F) She}, along with the Child of Prophecy, purified Norwich of the Calamity,
  
 **Barghest:**
 answered Her Majesty's summons, and appeared in Wales to defend the forest. 
  
 **Barghest:**
-{(M)He/(F)She} is a far more trustworthy individual than Knocknarea, who seeks only to disrupt the harmony of our kingdom. 
+{(M) He /(F) She} is a far more trustworthy individual than Knocknarea, who seeks only to disrupt the harmony of our kingdom. 
  
 **Morgan:**
 &mdash;Barghest. 
@@ -36571,7 +36594,7 @@ answered Her Majesty's summons, and appeared in Wales to defend the forest.
 ...the Great Calamity draws near, so we should not seek fights needlessly. 
  
 **Barghest:**
-If {(M)he/(F)she} is not our enemy, then {(M)his/(F)her} knowledge becomes a powerful weapon. 
+If {(M) he /(F) she} is not our enemy, then {(M) his /(F) her} knowledge becomes a powerful weapon. 
  
 **Barghest:**
 Please allow me to enter into negotiations with pan-human history. 
@@ -36748,19 +36771,19 @@ What's more annoying is that Child of Prophecy...I didn't expect her to take dow
 Is the Chaldean Master really that strong? Strong enough to defeat a Fairy Knight? 
  
 **Beryl:**
-...That's true. {(M)He/(F)She}'s come this far, so I'd better seriously evaluate {(M)him/(F)her}. 
+...That's true. {(M) He /(F) She}'s come this far, so I'd better seriously evaluate {(M) him /(F) her}. 
  
 **Beryl:**
-Setting aside how {(M)he/(F)she} is as a magus, as a Master, {(M)he/(F)she} is first-rate. 
+Setting aside how {(M) he /(F) she} is as a magus, as a Master, {(M) he /(F) she} is first-rate. 
  
 **Beryl:**
-If you think about it, {(M)he/(F)she}'s amassed a ton of experience by now. 
+If you think about it, {(M) he /(F) she}'s amassed a ton of experience by now. 
  
 **Beryl:**
 You couldn't beat Kirschtaria Wodime on just luck. 
  
 **Beryl:**
-{(M)He/(F)She} beat that aristocrat, so {(M)he/(F)she}'s more of a Master than I am. 
+{(M) He /(F) She} beat that aristocrat, so {(M) he /(F) she}'s more of a Master than I am. 
  
 **Beryl:**
 A good Master should have a genuine connection with their Servant. 
@@ -37001,7 +37024,7 @@ We're leaving the inside to you, Oberon!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Woodwose's Army・Messenger Soldier:**
 Our battle formation in front of Londinium has been completed! 
@@ -37099,7 +37122,7 @@ It's not my field, but screw it!
 **Habetrot:**
 It's time to get my hands dirty and assist Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Senji Muramasa:**
 That was an awfully out-of-place weapon...could that have been another one of Koyanskaya's interferences!? 
@@ -37194,7 +37217,7 @@ If Britain doesn't have an ideal knight, then I'll become one!
 **Gareth:**
 Come on, you cowards! I'll protect all the people of Londinium! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -37283,7 +37306,7 @@ Huh? No, that's not Woodwose's main force coming to join the fray at the front..
 **Da Vinci:**
 Yeah, that's Percival! Percival's troops made it just in time&mdash;! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Woodwose:**
 Hahahahahahahaha! That's it, let us crush them once and for all! 
@@ -37399,7 +37422,7 @@ Of course! The Fang Clan are still really strong, and if we miss this opportunit
 **Da Vinci:**
 Let's attack at once and settle this, Fujimaru. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 We've got you completely surrounded! This battle is over, Woodwose! 
@@ -37444,7 +37467,7 @@ No more acting like a gentleman! How dare you mock the trust between Her Majesty
 Huff...huff...huff&mdash;! 
  
 **Woodwose:**
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA! ! ! ! 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!! 
  
 **Woodwose:**
 Phew.... phew&mdash;
@@ -37455,7 +37478,7 @@ Phew.... phew&mdash;
 **Woodwose:**
 Face the true ability of Woodwose, Head of the Fang Clan&mdash;I'll shred you into mincemeat! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Woodwose:**
 &mdash;So this is it? It's exactly as I imagined it. 
@@ -37504,7 +37527,7 @@ Now then, time to feast. This form is rather bestial, so I hope you're not expec
 **Percival:**
 Holy spear, call to order&mdash;! My actions, my barbarity...pass judgement unto them...! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Percival:**
 ...hah&mdash;haaaaaaah...
@@ -37594,7 +37617,7 @@ Wha&ndash;!?
 Holy spear, call to order&mdash;! My actions...my barbarity...
  
 **Gareth:**
-WAAAAAAAAIIIIIIIT! ! ! Hold it right there&mdash;! 
+WAAAAAAAAIIIIIIIT!!! Hold it right there&mdash;! 
  
 **Percival:**
 Gareth!? 
@@ -37655,7 +37678,7 @@ Now's our chance! Keep at it!
 **Percival:**
 Yes, Gareth has given us an opening! Let's all bring down Woodwose! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Woodwose:**
 KuuaaaaaaAAAAAAAAGH.... ! 
@@ -37685,7 +37708,7 @@ This is bad, if he gets away, we won't get a second chance! Somebody catch him..
 
  
 **Percival:**
-Oh...oooh&mdash; Uoooooooooooahhhhh! ! ! ! ! 
+Oh...oooh&mdash; Uoooooooooooahhhhh!!!!! 
  
 **Woodwose:**
 Ggh, aagh&mdash;I can't stop the bleeding...! I can't take it...anymore...! 
@@ -37715,12 +37738,12 @@ Now&mdash;Lord of Oxford, forgive me!
 Stop, don't kill me, don't kill Britain!  
  
 **Woodwose:**
-Without the Fang Clan, who will defend Britain&mdash; Stop, STOOOOOOOOOOP! ! ! 
+Without the Fang Clan, who will defend Britain&mdash; Stop, STOOOOOOOOOOP!!! 
  
 **Percival:**
 ...Farewell, Father. You will surely find recompense in Paradise. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Round Table Army Soldier:**
 Woodwose's army is routing! The battle is over! 
@@ -37936,7 +37959,7 @@ How can you say you're okay!? Percival, your hair changed color!
 **Percival:**
 Hm? Something's wrong with my hair? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Aurora:**
 Hehe, I can hear the cries of joy from all over the city. It seems the Round Table Army is victorious. 
@@ -37953,13 +37976,13 @@ Oberon requested that I occupy him somehow while the Round Table Army marched on
 **Aurora:**
 ...I wonder if I went too far...Woodwose, his expression was so adorable, I just...
  
-**? ? ? :**
+**???:**
 It's not your fault. Woodwose lost only because of his lack of ability. 
  
-**? ? ? :**
+**???:**
 He placed too much trust in Morgan's faith in him. 
  
-**? ? ? :**
+**???:**
 Such is the overconfidence of being born as an A-Rei. He shouldn't have taken the abilities of humans so lightly. 
  
 **Aurora:**
@@ -37968,10 +37991,10 @@ Such is the overconfidence of being born as an A-Rei. He shouldn't have taken th
 **Aurora:**
 The Wind Clan has excellent ears. You can never be too sure someone is not eavesdropping. 
  
-**? ? ? :**
+**???:**
 ...I guess so. If Coral overhears us, she'll scold us again. 
  
-**? ? ? :**
+**???:**
 Where is she? She's always at your side. 
  
 **Aurora:**
@@ -37986,7 +38009,7 @@ She has ever been sensitive to the changing trends.
 **Aurora:**
 I believe she's sponsoring a new event to celebrate the Child of Prophecy's victory. 
  
-**? ? ? :**
+**???:**
 ...And you? Are you going to play along with her? 
  
 **Aurora:**
@@ -37995,7 +38018,7 @@ Naturally. She's a dear friend of mine. No matter what happens, I will be there.
 **Aurora:**
 You'll be coming as my knight, won't you? 
  
-**? ? ? :**
+**???:**
 ...I suppose. I can't let you go to Gloucester by yourself. 
  
 **Aurora:**
@@ -38013,10 +38036,10 @@ You really haven't changed at all since then!
 **Aurora:**
 My most precious treasure, the most wonderful princess in Britain! I love you so, ■ ■ ■ ■ ■ ■ ■ ■! 
  
-**? ? ? :**
+**???:**
 &mdash;Thank you. But you are the most beautiful thing in the world, Aurora. 
  
-**? ? ? :**
+**???:**
 I am a knight only for you. I am not in Morgan's service. Don't forget that. 
  
 **Aurora:**
@@ -38034,10 +38057,10 @@ You shouldn't praise me such. From now on, Britain will be centered on the Child
 **Aurora:**
 Please don't mistake who to place your trust in. Her Majesty's reign will soon come to an end. 
  
-**? ? ? :**
+**???:**
 I don't care. You are my only star, Aurora. I don't really understand the current trends among fairies, or who they follow. 
  
-**? ? ? :**
+**???:**
 All I want is for you to be safe&mdash;
  
 **Aurora:**
@@ -38052,7 +38075,7 @@ Do you think she will become the shining star of Britain, as was foretold?
 **Aurora:**
 Tell me your thoughts, won't you, ■ ■ ■ ■ ■ ■ ■ ■? 
  
-**? ? ? :**
+**???:**
 &mdash;
  
 **Knocknarea's Army・Messenger Soldier:**
@@ -39136,7 +39159,7 @@ After all, the ball is tonight! Let's do our best to reach Gloucester by nightfa
 **Everyone else:**
 Muryan, isn't this a little short notice!? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Oberon:**
 Phew, we made it. Gloucester, we meet once again. 
@@ -39481,7 +39504,7 @@ Do not speak your opinions so carelessly, as you have been doing. Know your plac
 Thanks for the heads-up. Deep down, a part of you is always worried about the humans, right? 
  
 **Da Vinci:**
-You were just giving {(M)him/(F)her} a warning to stay out of trouble by not doing the same to other fairies. 
+You were just giving {(M) him /(F) her} a warning to stay out of trouble by not doing the same to other fairies. 
  
 **Coral:**
 I have no such intentions. Presumptuous interpretations are a bother. 
@@ -39564,7 +39587,7 @@ A difference in values?
 **Artoria:**
 &mdash;
  
-**? ? ? :**
+**???:**
 What did you say to Coral? She seemed very upset about it. 
  
 ---
@@ -39576,7 +39599,7 @@ You...the one who was next to Aurora...
 ---
 
  
-**? ? ? :**
+**???:**
 ...? Oh, right. I'm not wearing my armor today. Excuse me. 
  
 **I：? ? ? :**
@@ -39690,7 +39713,7 @@ PERCIVAL'S SISTER!?
 **Fairy Knight Lancelot:**
 ...? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Artoria:**
 Fairy Knight Lancelot...
@@ -39783,7 +39806,7 @@ Da Vinci?
 
  
 **Invited Fairy:**
-Oh, there's the human {(M)boy/(F)girl}. Yeah, you. Come here. 
+Oh, there's the human {(M) boy /(F) girl}. Yeah, you. Come here. 
  
 **Invited Fairy:**
 The Fairy Knight says she wants a word. Hurry up and head over to the terrace. Don't make her wait. 
@@ -40063,7 +40086,7 @@ I'd like you two to visit my estate in Manchester at some point. I have a propos
 **Barghest:**
 ...If I lack your trust, that's fine. What you've told me is more than enough. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Oberon:**
 About time, I finally got in! That was Barghest just now, wasn't it...? 
@@ -40339,7 +40362,7 @@ No, let go of meeee! I can't, I really can't! Give up on me!
 That's it, let's kick her onto the stage. Once she's on it, it's all the same. 
  
 **Artoria:**
-OBERON! ! ! 
+OBERON!!! 
  
 ---
 
@@ -40486,7 +40509,7 @@ And my opponent's a veteran Master who's overcome countless predicaments.
 **Beryl:**
 I guess I've got something to prove with a challenge. Let's kill one another with a smile, kouhai. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -40505,10 +40528,10 @@ Artoria wins!
 **Fairy Knight Tristan:**
 Aaah, ahhhh......! 
  
-**? ? ? :**
+**???:**
 Coming off...it's coming off...wait...stop...Mother's going to scold me again...! 
  
-**? ? ? :**
+**???:**
 “Why are you like that? ” “Why are you always like that? ”  I'm going to get scolded...! 
  
 **Masked Fairies:**
@@ -40629,7 +40652,7 @@ As long as Mash isn't around, there's no point in playing with you.
 **Beryl:**
 See you later, savior and companions! I'll be seeing you in Camelot! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Muryan:**
 Kyaaa~☆ Thank you all for coming~! I'm glad everyone enjoyed themselves~! 
@@ -40999,7 +41022,7 @@ That's why you brought it up, isn't it?
 **Oberon:**
 You could've just said nothing. But as a friend, you couldn't ignore it. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 The last days of the Edo period. 
@@ -41145,7 +41168,7 @@ Too few could measure the extent to which Her Majesty has acted.
 **Spriggan:**
 Those who live in the city cannot see past their homes. Rather, they cannot see the foundations upon which their cities lie. 
  
-**? ? ? :**
+**???:**
 That's surprising. From the way you talk, one might think you want Morgan to rule. 
  
 **Spriggan:**
@@ -41178,7 +41201,7 @@ In the pan-human history I once lived in, England was a land ruled by a queen.
 **Spriggan:**
 A queen is the only one suitable to sit on the throne of this Kingdom. Don't you agree? 
  
-**? ? ? :**
+**???:**
 &mdash;Then who would you like to be Queen next? 
  
 **Spriggan:**
@@ -41190,10 +41213,10 @@ One more beautiful than all others, surpassed only by her wickedness; and oblivi
 **Spriggan:**
 That's one worth supporting. I've had a bellyful of serving crafty leaders. 
  
-**? ? ? :**
+**???:**
 I know who you mean. You and I just might get along fine. 
  
-**? ? ? :**
+**???:**
 But she's got real dull eyes. She'll never defeat Morgan, much less seize the throne. 
  
 **Spriggan:**
@@ -41224,7 +41247,7 @@ Even though Beryl was helping me, and this time I even got serious...!
 And yet...and yet&mdash;
  
 **Baobhan Sith:**
-Why? Why couldn't I win!? I'm my mother's only daughter, so whyyyyy! ! ! ! 
+Why? Why couldn't I win!? I'm my mother's only daughter, so whyyyyy!!!! 
  
 **Baobhan Sith:**
 ...Haa...haa...haaa...
@@ -41318,7 +41341,7 @@ Behold, my boiling flesh! I am Red Rab-bit, the Flying Fairy Horse of Flame!
 **Red Rabbit:**
 Lord Percival! Lord Gareth! Now is the time for the Round Table Knights to show their true strength! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 I meant the order in which we ring the Pilgrim's Bells. 
@@ -41611,7 +41634,7 @@ Orkney may have some kind of clue about how this world came to be.
 **Oberon:**
 Knowing that might give us the key to Morgan's defeat. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 ...I can hear the tolling of the bells. 
@@ -41878,7 +41901,7 @@ Under no circumstances will there be a fight. Trust the words of me, Red Rab-bit
 **Partygoing Fairy:**
 Hyaa&ndash;! Strong-looking tourists&mdash;! I can't help myself&ndash;! Get them! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Barghest:**
 Uugh...uaaagh...uaaaaaah...! 
@@ -41922,22 +41945,22 @@ But, in truth...
 **Narration:**
 The truth is&mdash;
  
-**? ? ? :**
+**???:**
 You're crying again, ■ ■ ■ ■ ■ ■ ■ ■. Hey, come here. 
  
-**? ? ? :**
+**???:**
 It's alright, just let it all out. Tell me what happened to you today. 
  
-**? ? ? :**
+**???:**
 Was it something difficult? Something sad? 
  
-**? ? ? :**
+**???:**
 If it had to do with me, I'll laugh. If it was about someone else, I'll get mad. 
  
-**? ? ? :**
+**???:**
 Whatever it was, tell me how you feel. 
  
-**? ? ? :**
+**???:**
 It's okay. No matter how shameful it was, I won't hate you for it. 
  
 **Narration:**
@@ -41946,13 +41969,13 @@ A body that seemed to be on the verge of collapse. A voice that seemed like it w
 **Narration:**
 He, the weakest creature I'd ever known, protected my broken heart. 
  
-**? ? ? :**
+**???:**
 Hey, when you have a rough time, you should talk about something you like. How about your beloved Knights of the Round Table? 
  
-**? ? ? :**
+**???:**
 The flotsam that washed ashore in the Changeling. Showy, prideful, and rather lonesome. 
  
-**? ? ? :**
+**???:**
 The story of those gallant knights you so adore. 
  
 **Narration:**
@@ -41970,16 +41993,16 @@ I'm sure a base fairy such as myself could never measure up to them.
 **Narration:**
 Whenever I voiced such complaints, he would smile softly...
  
-**? ? ? :**
+**???:**
 Look at the garden. The flowers you planted are coming in beautifully. 
  
-**? ? ? :**
+**???:**
 You put in a new one for me today, since I can't walk. 
  
-**? ? ? :**
+**???:**
 You're very kind. Thank you. 
  
-**? ? ? :**
+**???:**
 I pray the day comes when the pain in your heart may be eased&mdash;
  
 **Narration:**
@@ -42003,10 +42026,10 @@ she has continued to maintain the peace in Britain, all the while concealing her
 **Narration:**
 She's incredibly admirable; that's why I want to help her. 
  
-**? ? ? :**
+**???:**
 It's far too sad that you, the most upstanding of fairies, would end your life. 
  
-**? ? ? :**
+**???:**
 Let's form a contract, Barghest. It's far too early in the story for you to fall under this curse. 
  
 **C：Festive Fairy:**
@@ -42298,7 +42321,7 @@ How far can a mere human go against a fairy—no.
 **Barghest:**
 Prove to me that your victories before weren't mere flukes! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -42812,18 +42835,18 @@ That is why I wanted to ask you. That man from pan-human history...
 **Barghest:**
 Is Beryl Gut truly Her Majesty's Master? 
  
-**--ARROW--:**
+**--ARROW--**
  
-**? ? ? :**
+**???:**
 &mdash;Situational changes have been confirmed. The toll has been paid. 
  
-**? ? ? :**
+**???:**
 I propose to you thus, the chosen; and present to you thus, the discarded. 
  
-**? ? ? :**
+**???:**
 If you desire glory, choose revival. If you desire idleness, choose eternal sleep. 
  
-**? ? ? :**
+**???:**
 It is all the same to a god. 
  
 **Narration:**
@@ -42851,7 +42874,7 @@ I asked if there were any “things” in that world which I would find importan
 There was an immediate answer, as expected of a god. 
  
 **Beryl:**
-Hey, Kirschtaria! ! You came back to life too, mate! 
+Hey, Kirschtaria!! You came back to life too, mate! 
  
 **Beryl:**
 Man, that's a relief. I was sure I'd be up first! 
@@ -43595,7 +43618,7 @@ You remember Barghest's advice, Fujimaru? Well, good.
 **Senji Muramasa:**
 No more being sloppy. From here on out, you're the center of our formation! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -43875,7 +43898,7 @@ I only vaguely remember it, but if that's good enough, I'll tell you before you 
 **Habetrot:**
 It's better suited as a bedtime story anyway! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 Yeah, this place is perfect! Everyone~! That's it for today~! Let's set up camp! 
@@ -44127,7 +44150,7 @@ Albion of the Boundary. Last of the dragons.
 **Habetrot:**
 The land of the northern fairies was formed from the remains of the dragon that failed to return to Paradise—to Avalon. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -44207,13 +44230,13 @@ What an odd friendship...
 **Artoria:**
 They still see each other as enemies...how strange...
  
-**? ? ? :**
+**???:**
 I know. Men have always been like that, haven't they? 
  
 **Everyone else:**
 !? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Da Vinci:**
 Alright, stop right there! You're the fairy that's been following us since yesterday, aren't you? 
@@ -44302,7 +44325,7 @@ Tamamovitch Koyanskaya...!
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Artoria:**
 Koyanskaya was the Servant who was with Muryan, right? 
@@ -44410,7 +44433,7 @@ Don't give me that! Their poison is pretty strong!
 **Habetrot:**
 Fujimaru, prepare the recovery team! I'll get this done, whatever it takes! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -44489,7 +44512,7 @@ I don't care what you're doing here, but I'm mopping up the Mors! Get out of the
 **Mira:**
 (Hail, bells that toll for Britain's end. The second Avalon le Fae, on her noble mission! )
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fairy Knight Lancelot:**
 No casualties confirmed...Well, it's of no relevance to me. 
@@ -44851,7 +44874,7 @@ My True Name is Mélusine. Mélusine of the Dark Lake!
 **K：Mélusine:**
 Named by the fairest of them all, I am the descendant of Albion! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **F：Mélusine:**
 Beast! 
@@ -45301,7 +45324,7 @@ Heheh. I'm just glad the Child of Prophecy can see that much!
 **Mira:**
 No more hesitation or reservation, save Britain and your fellow fairies! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Koyanskaya:**
 Ouch, owowowow! 
@@ -45763,7 +45786,7 @@ Yeah. There should be a small boat I used a long, long time ago. We can use it t
 **Habetrot:**
 After all, it takes less than 30 minutes to get to the other side. And that will mark the end of my adventure. 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -45886,7 +45909,7 @@ Roger that! He's quite a violent person for being Fujimaru's acquaintance!
 **Senji Muramasa:**
 Yeah, that face and voice gets on my nerves for some reason! Let's rough him up a bit! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Grimm the Wise:**
 Beating the pulp out of a Heroic Spirit you just met. Is that how the Child of Prophecy acts? I get it now. 
@@ -45960,7 +45983,7 @@ I am Grimm the Wise. My True Name is Cu Chulainn. A Heroic Spirit on Pan-human H
 **Grimm the Wise:**
 Now, I act as Odin's proxy. I've been standing vigil here since last year. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Artoria:**
 Divine Spirit...is this the 'God' you've all been talking about!? 
@@ -46204,7 +46227,7 @@ We'll overcome this, but don't underestimate them as mere ghosts, okay?
 **Grimm the Wise:**
 They'll end up being tougher than any opponent you've faced up until now if you don't watch your step, got it? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -46259,7 +46282,7 @@ That's how it is, gentlemen. Thanks for the warning, but it's of little use.
 **Grimm the Wise:**
 In the first place, the soul is something to be reincarnated. What's the point in lingering? Time to move on! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 We made it to the roof...! This is definitely the bell tower! And&mdash;
@@ -46326,7 +46349,7 @@ This is the sanctuary of Orkney. A terrace loved by fairies of peace and serenit
 **Habetrot:**
 It's not a place where the dead should linger. Their once-upon-a-time is over. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -46366,7 +46389,7 @@ Touch the coffin, Fujimaru. Get your girl back.
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Tonelico:**
 Ahh&mdash;ahh&mdash;AUUUUUGHHHH! 
@@ -46444,7 +46467,7 @@ Yet malice lingered. The foundations of peace so many fairies had worked so hard
 ...was overturned on a whim by those who found it unpleasant. 
  
 **Tonelico:**
-Ha&mdash;Haha. Ahaha. Hahaha. AHAHAHAHAHAHAHAHAHAHAHA...! ! ! ! 
+Ha&mdash;Haha. Ahaha. Hahaha. AHAHAHAHAHAHAHAHAHAHAHA...!!!! 
  
 **Narration:**
 I don't know anymore. If even this can't work, I have no faith in the innate goodness of living things. 
@@ -46846,7 +46869,7 @@ The story of the savior Tonelico, who brought me here&mdash;
 Just like that, Fujimaru was reunited with her. 
  
 **Narration:**
-{(M)He/(F)She} held her after she was released from the coffin. 
+{(M) He /(F) She} held her after she was released from the coffin. 
  
 **Narration:**
 A quiet, caring embrace respecting each other's mutual presence. 
@@ -46858,7 +46881,7 @@ When I saw that bright/dazzling scene, I breathed a sigh of relief/thankfulness.
 A magus from the world of humans. 
  
 **Narration:**
-A {(M)boy/(F)girl} forced into the leading role by those around {(M)him/(F)her}, not of {(M)his/(F)her} own free will. 
+A {(M) boy /(F) girl} forced into the leading role by those around {(M) him /(F) her}, not of {(M) his /(F) her} own free will. 
  
 **Narration:**
 Though there were times I had lied, deceived, bungled, and shown other shortcomings. 
@@ -46867,7 +46890,7 @@ Though there were times I had lied, deceived, bungled, and shown other shortcomi
 It was obvious you were putting up a tough front and holding back frustrations, so I couldn't leave well enough alone and followed you. 
  
 **Narration:**
-I'm glad. Fujimaru had a friend {(M)he/(F)she} really cared about, didn't {(M)he/(F)she}? 
+I'm glad. Fujimaru had a friend {(M) he /(F) she} really cared about, didn't {(M) he /(F) she}? 
  
 **Narration:**
 After all, that's the story everyone around here has had faith in. 
@@ -46875,7 +46898,7 @@ After all, that's the story everyone around here has had faith in.
 **Narration:**
 &mdash;There's no way they could've been like me. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 That's all. That was the Britain I experienced personally. 
@@ -47637,7 +47660,7 @@ Hahahahahahaha! Hahahahahahahahahaha!
 **The Strongest Pair:**
 Alright, let's go for a round! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Artoria:**
 Both fighters disqualified! Strong people don't quarrel in the first place! 
@@ -47701,7 +47724,7 @@ There used to be a settlement of fairies in Edinburgh, but I don't know what's h
 **Habetrot:**
 Well, Knocknarea hates humans so it can't be much more than a campfire gathering though! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Northern Fairy:**
 Attention, people of Edinburgh! Lady Knocknarea has returned! For the time being, she is home! 
@@ -47984,13 +48007,13 @@ Wait, she just meekly accepted the invitation? Seriously? She's not going to try
 **Knocknarea:**
 Oh shi&ndash;Everyone, get out of here! I want you out the back door in two seconds! Hurry! 
  
-**? ? ? :**
+**???:**
 Are you sure? 
  
-**? ? ? :**
+**???:**
 Just a second ago weren't you proudly declaring throughout the cathedral: 
  
-**? ? ? :**
+**???:**
 “She's definitely gotten a big head now that she's rung four bells. I'll show her that I won't lose to some Child of Prophecy, oh ho ho ho ho. ”
  
 **Knocknarea:**
@@ -47999,13 +48022,13 @@ There's been a change of plans, alright!?
 **Knocknarea:**
 I mean how would I look if I showed up with a full platoon and they came in unarmed!? That's just vulgar! 
  
-**? ? ? :**
+**???:**
 Seriously? You're worried about your dignity now? What are you, an apple that didn't get picked during harvest? 
  
 **Knocknarea:**
 Haa, you calling me rotten? Sounds like someone's asking for a good. old. beating. 
  
-**? ? ? :**
+**???:**
 Welp, I'm outta here~☆
  
 **Edinburgh Guards:**
@@ -48074,7 +48097,10 @@ We went through the Lake District.
 
 ---
 
- 
+---
+
+Note: Male Player
+
 **Knocknarea:**
 &mdash;
  
@@ -48092,6 +48118,10 @@ You let a human into the cathedral! You're getting the “special reward” late
  
 **Artoria:**
 Uh...what exactly is...
+
+---
+
+Note: Female Player
  
 **Knocknarea:**
 Ah, Fujimaru. You seem to be doing well. That's very good to see. 
@@ -48104,6 +48134,10 @@ Shall I get you an appointment at a high-end beauty salon later?
  
 **Artoria:**
 That's none of your business. Fujimaru isn't that frail to begin with. 
+
+---
+
+Note: Branch End
  
 **Grimm the Wise:**
 I hate to break up a meeting between good friends, but you do know that Orkney's bell has been rung, don't you? 
@@ -48372,7 +48406,7 @@ What is this&mdash;!
 ---
 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Devil Caren:**
 Both have qualified! A Mab Match shall be held, in the name of the chocolate fairy! 
@@ -48974,7 +49008,7 @@ Shouldn't the real crux of the matter at hand be why she was reeling in the firs
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 
  ~Fujimaru's room at night~
@@ -49845,7 +49879,7 @@ It's a fairy tale either way. Anything superfluous can be left out on the page. 
 **Oberon:**
 So, it's all right. My queen really needn't exist. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Devil Caren:**
 To everyone gathered here, we apologize for the long wait. 
@@ -50249,10 +50283,10 @@ Well said, Mash.
 **Artoria:**
 Be gentle! Kill it softly! That way it'll still taste goooood! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **That Which Should Never Have Been Made:**
-![1-light](https://i.imgur.com/XAqlQYL.png#gh-dark-mode-only) ![1-dark](https://i.imgur.com/NkGVSh6.png#gh-light-mode-only)
+![1-light](https://i.imgur.com/XAqlQYL.png)
  
 ---
 
@@ -50792,7 +50826,7 @@ I wanted to show you around Edinburgh, but we'll do that another day.
 **Knocknarea:**
 Next time I see you will be on the battlefield. We'll both be at our best for the final battle! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Artoria:**
 Wheeew! A lot happened, but there's a heap of good news! 
@@ -50880,7 +50914,7 @@ Damn it, to think the Queen's army would be here even though we're still in Knoc
 **Senji Muramasa:**
 Let's do this Fujimaru, Da Vinci, Mash! 
  
-**? ? ? :**
+**???:**
 A&mdash;aa, a&mdash;iiiiiyaaaaaaaaa…………
  
 ---
@@ -50912,10 +50946,10 @@ Yes, I agree.
 **Da Vinci:**
 Fujimaru, Mash, stay back. That's probably&mdash;
  
-**? ? ? :**
-aaa……aaaaaaaaaaaaaa! ! ! ! ! 
+**???:**
+aaa……aaaaaaaaaaaaaa!!!!! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 Master, this way! Let's get away from the carriage for now! 
@@ -50968,7 +51002,7 @@ That's why&mdash;
 **Baobhan Sith:**
 You'll die here, you bastards! I won't let the likes of you take my place! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Baobhan Sith:**
 Ahhh...I lost. I lost. I lost...
@@ -51254,7 +51288,7 @@ I can't move...
 **Baobhan Sith:**
 I wonder why...? I can't...move my arms...or legs...not one bit&mdash;
  
-**--ARROW--:**
+**--ARROW--**
  
 **Artoria in the Garden of Dejection:**
 Deep down inside. I awoke to the sound of overlapping hearts chipping away at each other. 
@@ -51539,7 +51573,7 @@ Training those legs that are desperate to flee, training to clear my mind...
 I don't get it...Am I really fine with this? 
  
 **Holmes:**
-{(M)Mister/(F)Miss} Fujimaru, you are scared of understanding the current situation, of analyzing the world, are you not? 
+{(M) Mister /(F) Miss} Fujimaru, you are scared of understanding the current situation, of analyzing the world, are you not? 
  
 **Holmes:**
 I understand. To tell the truth, it's always been on my mind too. 
@@ -51584,7 +51618,7 @@ Or rather, I can't watch this. Even if it's someone else's dejection.
 Fujimaru's eyes are slowly losing focus. 
  
 **Artoria:**
-And {(M)he/(F)she}'s grasping at {(M)his/(F)her} chest, almost like {(M)he/(F)she}'s suffocating in a vacuum. 
+And {(M) he /(F) she}'s grasping at {(M) his /(F) her} chest, almost like {(M) he /(F) she}'s suffocating in a vacuum. 
  
 **Gordolf:**
 Are you listening, Fujimaru? There is no need to feel sympathy for them. 
@@ -51767,7 +51801,7 @@ It was all too much, and so I hid behind a bitter smile.
 Really. Why are you acting tough even though you've been so thoroughly beaten down? 
  
 **Narration:**
-{(M)His/(F)Her} body is on the verge of collapse, on the brink of falling apart. 
+{(M) His /(F) Her} body is on the verge of collapse, on the brink of falling apart. 
  
 **Narration:**
 I know it's none of my business, but I need to stop the replay of Lost Will before that happens. 
@@ -51934,7 +51968,7 @@ Seriously?
 **Fujimaru in the Garden of Dejection:**
 Well, I'll be damned. Have humans always been this stubborn? 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -51984,7 +52018,7 @@ The Garden of Dejection, Lost Will, is a suicide charm. It's a spell that robs t
 I...didn't have anything like that, so it didn't hurt me too bad, but...
  
 **Artoria:**
-If Fujimaru had stayed in there for any longer, {(M)he/(F)she} might have&mdash;
+If Fujimaru had stayed in there for any longer, {(M) he /(F) she} might have&mdash;
  
 **Artoria:**
 Might have...
@@ -52029,7 +52063,7 @@ I see, I understand.
 Senpai's mental state does not change whether acting as Master or not. 
  
 **Mash:**
-When {(M)he/(F)she} eats at mealtime, {(M)he/(F)she} seems very relaxed too, but actually {(M)he/(F)she} is very into it. 
+When {(M) he /(F) she} eats at mealtime, {(M) he /(F) she} seems very relaxed too, but actually {(M) he /(F) she} is very into it. 
  
 ---
 
@@ -52227,7 +52261,7 @@ Nothing, nothing at aaaaaaall! Let's hurry back to the surface!
 **Count Peperon:**
 There'll be some obstacles on the way, but I'll leave it to you, Fujimaru! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Narration:**
 When I was dispatched to the Lostbelt of the British Isle, I was met by nothing but wilderness under the vast expanse of the Fantasy Tree. 
@@ -52586,7 +52620,7 @@ Even I think I'm a total bastard.
 **Beryl:**
 Killing such a pitiful thing now&mdash;that's what love means to me. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 Did you feel a tremor just now? It almost feels like the prelude to an earthquake...
@@ -52627,10 +52661,10 @@ Now, after we pass through that door, we'll be in the hallway and out of the maz
 **Count Peperon:**
 Let's make a dash for it. You're still just halfway through, aren't you? 
  
-**? ? ? :**
+**???:**
 Aaa&ndash;...aaaaaaa&ndash;...uuuuuuuuu&ndash;...
  
-**? ? ? :**
+**???:**
 Haaaa...aaaaaa...aaaaaaaa&mdash;
  
 ---
@@ -52659,7 +52693,7 @@ I see, so this was a human cemetery...!
 **Mash:**
 &mdash;Since they're attacking us, we have no choice but to fight! Let's minimize combat and secure a path upstairs! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Beryl:**
 What? You're not going for it? What a let down. 
@@ -52900,7 +52934,7 @@ Yes. Well, I'm off to finish the job then.
 **Count Peperon:**
 It's been a while since I went all out. Fufu, this is getting exciting! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Mash:**
 ...
@@ -53053,7 +53087,7 @@ But I really, really want to be alone with Mash already. I'm going to have to as
 **Artoria:**
 Woodwose...! That Saint Graph, it's Fang Clan&ndash;it's Woodwose's Saint Graph! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Beryl:**
 What's the matter? Out of breath? That's no good. I'm in the zone over here. 
@@ -53139,7 +53173,7 @@ After all, it's a curse that's 'transferred to the one who kills you'! How's the
 **H：Beryl:**
 Kh&mdash;khh, ueeeeeeeegh...! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Count Peperon:**
 Get back! Go back to the stairs! 
@@ -53163,7 +53197,7 @@ It's a bit unreasonable to try and avoid this and still make it to the exit.
 Draw close, and they chase you for help. Touch them, and you get infected. Kill them, and the curse spreads to you. 
  
 **Count Peperon:**
-Well, the poison doesn't work on Mash, so it probably won't have an effect on {(M)him/(F)her} either so...
+Well, the poison doesn't work on Mash, so it probably won't have an effect on {(M) him /(F) her} either so...
  
 **Count Peperon:**
 That's the point. “Have them kill innocent people who can't resist. ”
@@ -53242,7 +53276,7 @@ Let's do it, Mash...!
 **Mash:**
 Enemy unit, designated Black Wolf&mdash; commencing all-out counterattack! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Beryl:**
 Haah, aaah, gaaaaaaah...! 
@@ -53567,7 +53601,7 @@ Thank you, Daybit. For back then&mdash;
 **Myourenji Arou:**
 You used your one-time express ticket to come see me when I was at my most beautiful. 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -54065,19 +54099,19 @@ Just like when we were imitating the humans, the weak follow the strong in the e
 **Clans of the Fang:**
 With that logic-lover Woodwose gone, we of the Fang Clan are now free to wield our power! 
  
-**? ? ? :**
+**???:**
  
 &mdash;Sigh, I'm thoroughly amazed. Even after 1,200 years, nothing changes. 
  
-**? ? ? :**
+**???:**
  
 Not one of you seem to find anything strange about so odd a venue. 
  
-**? ? ? :**
+**???:**
  
 Oh, did your heads shrink smaller to make the rest of you look bigger by comparison? 
  
-**? ? ? :**
+**???:**
  
 Well, that's just how it goes. It takes a real piece of garbage to not remember your own deeds. 
  
@@ -54425,7 +54459,7 @@ Conflagration&mdash;could it be?
 **Round Table Army Soldier:**
 It's Londinium! It's under attack by the Queen's forces! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Gareth:**
 Morning patrol, done~! No sign of hostiles on the perimeter, yet another day of peace in Londinium~! 
@@ -54454,7 +54488,7 @@ E&mdash;ehh? Wait&mdash;what do you mean?
 **Gareth:**
 Why are the rebels attacking Londinium...? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gareth:**
 Haa, haa&mdash;I did it...I killed them, but&mdash;
@@ -54609,10 +54643,10 @@ You're the real cowards here! The cowards who used an ambush to kill everyone!
 **Gareth:**
 It doesn't matter how many of you there are, you're no match for me! You better run with your tails tucked between your legs if you want to live&mdash;
  
-**? ? ? :**
+**???:**
 ...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Soldier's Voice:**
 Kill them all! They have sinned by shunning the mercy of the exalted one! 
@@ -54764,7 +54798,7 @@ I am Gareth! Knight of the Round Table Army, Gareth!
 **Gareth:**
 The first vassal of the hardworking Child of Prophecy, and first apprentice of the renowned Percival! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Gareth:**
 Haa...haa...! I'm...I'm not done yet...! 
@@ -54847,7 +54881,7 @@ Hehe. Thank you for saving us even at the very end! You were amazing, Miss Garet
 **Gareth:**
 I know, right? I won't lose to the bad guys! After all, I am a Knight of the Round Table. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 ~Evening~
@@ -55151,7 +55185,7 @@ En garde, Morgan le Fae.
 **Knocknarea:**
 This is a declaration of war towards you, from the Child of the Queen and the Child of Prophecy! 
  
-**--ARROW--:**
+**--ARROW--**
  
 
  ~A day and a half after the attack on Londinium~
@@ -55295,6 +55329,10 @@ What is it, Knocknarea? You're breathing rather heavily.
  
 **Artoria:**
 If you have something to say, now's the time, you know? We probably won't have any free time from now until tomorrow. 
+
+---
+
+Note: Male Player
  
 **Artoria:**
 If you don't say something sweet in advance, you'll miss the chance to prove you're more than just a chocolate queen. 
@@ -55304,6 +55342,10 @@ Don't tell me what to do! You know my vow, don't you!?
  
 **Knocknarea:**
 It's fine now! Once Morgan is defeated and I've gotten the throne, I'll go for a quick win! 
+
+---
+
+Note: Female Player
  
 **Knocknarea:**
 Hmph. I don't have anything special I want to say. Everything comes down to my courage tomorrow. 
@@ -55322,6 +55364,10 @@ Just don't slip and fall to your death after the battle, or go down in fairy his
  
 **Knocknarea:**
 Like hell I'd die from something so careless! I mean, I'm immortal so long as there's a northern army in the first place! 
+
+---
+
+Note: Branch End
  
 **Grimm the Wise:**
 Sheesh. I thought you'd be grumpier when you joined up with the Round Table Army. 
@@ -55517,7 +55563,7 @@ Our hopes as comrades of the Child of Prophecy have journeyed so far.
 **Mash:**
 Let's take on Queen Morgan with those things in mind. For the future of this beautiful Britain. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Grimm the Wise:**
 Hey there. Out for a walk by yourself, Fujimaru? 
@@ -55946,7 +55992,7 @@ It is. The central figures in this war are Artoria and Knocknarea. The prophecy 
 **Percival:**
 In the end, I'm just a child who never understood love...
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -56276,7 +56322,7 @@ You knew about her. You knew, and pretended to see her for the first time.
 You knew all along that Mash was in Sheffield, but kept silent. 
  
 **Artoria:**
-Because Fujimaru would've gone there after her, so you hid it from {(M)him/(F)her} to avoid that. 
+Because Fujimaru would've gone there after her, so you hid it from {(M) him /(F) her} to avoid that. 
  
 **Oberon:**
 Yes, well, actually...
@@ -56285,7 +56331,7 @@ Yes, well, actually...
 That wouldn't have fit in with Fujimaru's mission from Chaldea. 
  
 **Oberon:**
-I wanted {(M)him/(F)her} to support the Child of Prophecy by {(M)his/(F)her} own will. 
+I wanted {(M) him /(F) her} to support the Child of Prophecy by {(M) his /(F) her} own will. 
  
 **Oberon:**
 I'll admit that I was dishonest. 
@@ -56395,7 +56441,7 @@ And isn't that what the pilgrimage was all about?
 **Oberon:**
 Hey, why not confide in them? They might just surprise you by laughing it off. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Barghest:**
 It seems Knocknarea and the Round Table Army have already joined up. 
@@ -56757,16 +56803,28 @@ I have to...make sure...
 **Woodwose:**
 I will make sure...even if it kills me...
  
-**--ARROW--:**
+**--ARROW--**
+
+---
+
+Note: Male Player
  
 **Oberon:**
 Oh dear, what brings you outside the encampment? Too worked up to sleep? 
+
+---
+
+Note: Female Player
  
 **Oberon:**
 Oh dear, even if the encampment's close by it doesn't mean a young girl ought to be wandering about alone. 
  
 **Oberon:**
 What's the matter? Too nervous to sleep? 
+
+---
+
+Note: Branch End
  
 ---
 
@@ -57074,7 +57132,7 @@ It will be necessary to deal with both the Queen's army and Barghest.
 Artoria will stand in the vanguard, and pass her magecraft's blessings among the whole force. 
  
 **Percival:**
-Fujimaru will use {(M)his/(F)her} formidable powers to combat the Queen's knights, and...
+Fujimaru will use {(M) his /(F) her} formidable powers to combat the Queen's knights, and...
  
 **Da Vinci:**
 Barghest is our opponent. 
@@ -57169,7 +57227,7 @@ Huh? Didn't Da Vinci fill you in?
 Me? Wasn't it you or Artoria who were going to? 
  
 **Artoria:**
-It wasn't me. Fujimaru said {(M)he/(F)she}'d do it. 
+It wasn't me. Fujimaru said {(M) he /(F) she}'d do it. 
  
 ---
 
@@ -57234,7 +57292,7 @@ Artoria's escort is Percival. Fujimaru's escort is Mash.
 **Oberon:**
 Now, let's go! Let us first clear the way to the main gate! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Senji Muramasa:**
 Damn it, I figured in addition to being a diversion, I'd charge in if I found an opening, but&mdash;
@@ -57302,7 +57360,7 @@ Very well! Holding back would be a waste against opponents like you!
 **Fairy Knight Lancelot:**
 I am the Fairy Knight Lancelot! You makeshift Divine Spirits of pan-human history, I'll cut through the both of you! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Senji Muramasa:**
 Got you! 
@@ -57347,7 +57405,7 @@ I know it's hard to believe, but she's the real deal. This is her real self. A n
 Wait...that's strange. 
  
 **Fairy Knight Lancelot:**
-Breaching the Main Gate should be your priority. The Foreign Magus' role is to give {(M)his/(F)her} all at the main gate. 
+Breaching the Main Gate should be your priority. The Foreign Magus' role is to give {(M) his /(F) her} all at the main gate. 
  
 **Fairy Knight Lancelot:**
 The fact that there was spare energy to share with Grimm means&mdash;
@@ -57421,7 +57479,7 @@ You go help them out. And in case of emergency...you know what to do, don't you?
 **Senji Muramasa:**
 Naturally. Everyone keeps forgetting, but taking Morgan's head has always been my job. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Percival:**
 The main gate has been opened! Proceed to enter the castle town! 
@@ -57575,7 +57633,7 @@ This wind is...from Aurora...
 **Fairy Knight Lancelot:**
 What is she saying...? 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 So this is Camelot...the city that Tonelico— no, Queen Morgan built&mdash;
@@ -57761,7 +57819,7 @@ Her Majesty departs for the battlefield. The battlefield shall now belong to Her
 **Morgan:**
 Now then&mdash;it's been 2,000 years since I have played seriously. I suppose I shall be careful not to checkmate them on the very first move. 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -57875,19 +57933,19 @@ Oh! Artoria!
 **Artoria:**
 Mash!? 
  
-**? ? ? :**
+**???:**
 That shield, the Round Table, is it? I see the mages of pan-human history know neither fear nor respect. 
  
-**? ? ? :**
+**???:**
 That place where heroes gather, the accumulation of the will to protect the country. 
  
-**? ? ? :**
+**???:**
 To use it as one's personal arms. Even I would not think of such sacrilege. 
  
-**? ? ? :**
+**???:**
 Or perhaps&ndash;that is exactly what pan-human history is. 
  
-**? ? ? :**
+**???:**
 From the start, it has never bothered choosing the means to its survival. 
  
 **Artoria:**
@@ -57989,7 +58047,7 @@ That is why I shall grant you mercy. If you cannot change it, then I shall.
 **Morgan:**
 It is time you went back to being a pitiful village girl. You will never reach the Site of Selection. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Morgan:**
 A fatal wound...the first dealt to me since my battle with Mab. 
@@ -58001,7 +58059,7 @@ As expected of one who has ablated many a Lostbelt.
 I suppose I too have reached my limit, just like the Lostbelt Kings who fell before you. 
  
 **Morgan:**
-However...Foreign Magus, you juvenile {(M)boy/(F)girl}...
+However...Foreign Magus, you juvenile {(M) boy /(F) girl}...
  
 **Morgan:**
 In an isolated world that is a Lostbelt, a technique that exerts such power is abnormal. 
@@ -58126,16 +58184,16 @@ Artoria, you idiot...!
 ---
 
  
-**? ? ? :**
+**???:**
 You are blessed with good companions. In that aspect alone, Artoria, we are the same. 
  
-**? ? ? :**
+**???:**
 &mdash;Although one of them will disappear, first of all. 
  
-**? ? ? :**
+**???:**
 And next...there, the Servant who came for my head has disappeared. 
  
-**? ? ? :**
+**???:**
 Now let's have this one here disappear. Percival, you will do. 
  
 **Mash:**
@@ -58153,7 +58211,7 @@ For a mage, it is a trifling matter to create an “alter ego equal to oneself�
 **Morgan:**
 Now look to the sky. It is time you understood the reality before you. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 I was probably the only one who noticed the anomaly. 
@@ -58231,7 +58289,7 @@ Who should I protect? Fujimaru or Artoria?
 Process of elimination made it clear. Fujimaru will be fine. 
  
 **Narration:**
-{(M)He/(F)She} is an observer, just like me. Destiny does not seek {(M)his/(F)her} life. 
+{(M) He /(F) She} is an observer, just like me. Destiny does not seek {(M) his /(F) her} life. 
  
 **Narration:**
 So the one I should be protecting here is that foolish girl alone. 
@@ -58263,7 +58321,7 @@ It's frustrating, but there's no helping it. I'll just assume the lamp has falle
 **Narration:**
 Winter's light envelops me completely. I do feel it's a tad bit too early to hibernate, though. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 The storm swept in at a moment's notice. It was a curtain that was abruptly lowered unto the stage. 
@@ -58301,7 +58359,7 @@ The price of hubris paid for a single pilgrimage. The blame lies on those who ha
 **Morgan:**
 Perish, along with your mission. My Fairy Kingdom has no need for Paradise nor the outside world. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Morgan:**
 ...Hmm. I had my concerns, but it would appear Merlin has no intention of helping. Such a heartless man. 
@@ -58429,13 +58487,13 @@ W-w-what's going on!? Her Majesty's attendant, the knight Meldick, has fallen!
 **Fairies Gathered Around the Throne:**
 Meldick is Her Majesty's escort, you know!? He's no ordinary knight, he can't simply have&mdash;
  
-**? ? ? :**
+**???:**
 Give praise...fall prostrate...
  
-**? ? ? :**
+**???:**
 The defender of Britain...we of the Fang Clan call you...our master......
  
-**? ? ? :**
+**???:**
 We stand...in the presence of...the Queen...we stand before...Her Majesty...
  
 **Fairies Gathered Around the Throne:**
@@ -58993,7 +59051,7 @@ By the way...
 **Fairies Gathered Around Morgan:**
 What's that filthy fairy lying over there? 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -59740,10 +59798,10 @@ But...in the end, it was something I could never do. You and your friends took m
 I want you to let the Foreign Magus know. 
  
 **Barghest:**
-Tell {(M)him/(F)her} that I am thankful for your supporting our world...no, thank you for supporting the Child of Prophecy. 
+Tell {(M) him /(F) her} that I am thankful for your supporting our world...no, thank you for supporting the Child of Prophecy. 
  
 **Barghest:**
-I may be a knight burdened by dishonor, but I owe {(M)him/(F)her} a debt of gratitude. 
+I may be a knight burdened by dishonor, but I owe {(M) him /(F) her} a debt of gratitude. 
  
 **Barghest:**
 Should you ever need my horn, I shall stand by your side. Wherever that may be&mdash;
@@ -60078,6 +60136,10 @@ Whatever the event, rebuilding the Fairy Kingdom will take time. During that tim
  
 **Grimm the Wise:**
 Fujimaru is leaving. You okay with that? 
+
+---
+
+Note: Male Player
  
 **Knocknarea:**
 Yes. It'll be a brief farewell...but isn't that destiny? 
@@ -60086,7 +60148,11 @@ Yes. It'll be a brief farewell...but isn't that destiny?
 When I invade pan-human history, I'll become a better queen than Morgan ever was. 
  
 **Knocknarea:**
-When she sees that I've become the greatest fairy on earth, she'll have no choice but to go along with me, right? 
+When he sees that I've become the greatest fairy on earth, he'll have no choice but to go along with me, right? 
+
+---
+
+Note: Female Player
  
 **Knocknarea:**
 That's right. I wanted her to be my counselor, but it couldn't be helped. 
@@ -60099,6 +60165,8 @@ After all, I'm going to become an extremely wicked queen and invade pan-human hi
  
 **Knocknarea:**
 Me and Fujimaru will meet again. As rivals! 
+
+---
  
 **Grimm the Wise:**
 You get what you want no matter what, huh? How very like you. 
@@ -60247,25 +60315,25 @@ The critical point is almost here.
 **Narration:**
 The Mors will outnumber the fairies. Thanks to a suitable sacrifice, the god has awoken. 
  
-**? ? ? :**
+**???:**
 Upon reflection, the reality is that there is no way it can be reclaimed. 
  
-**? ? ? :**
+**???:**
 Being aware, but aggravating it; realizing, but doing so too late. 
  
-**? ? ? :**
+**???:**
 Those who cry foul shall with foulness be contained. 
  
-**? ? ? :**
+**???:**
 Who will take responsibility? It's natural. No one will shoulder it. 
  
-**? ? ? :**
+**???:**
 As such, there can be no cure. 
  
-**? ? ? :**
+**???:**
 You know how they say “a day after the fair”? That is exactly the case. 
  
-**? ? ? :**
+**???:**
 At the very least, when this all comes to a close, I'll offer you something grand. 
  
 ## Section 25: The End ～Coronation Ceremony～ 
@@ -60431,7 +60499,7 @@ So you shouldn't try to find out. I just have a few more things to take care of.
 But I appreciate you asking. It's too early to say goodbye yet, but thanks. 
  
 **Habetrot lying down:**
-Get along with Mash now, Fujimaru! You'd have made a pretty good-looking {(M)groom/(F)bride} too! 
+Get along with Mash now, Fujimaru! You'd have made a pretty good-looking {(M) groom /(F) bride} too! 
  
 **Fairy Tavernkeep:**
 Leaving...leaving...I see...Dabinchi's going away...
@@ -60463,7 +60531,7 @@ If Dabinchi goes away, I'll be all alone again...
 **Fairy Tavernkeep:**
 How can Dabinchi stay...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Artoria:**
 We made it to the cathedral! There's upper-class fairies everywhere you look! 
@@ -60828,7 +60896,7 @@ Artoria!
 **Artoria:**
 What the hell are you all doing&mdash;!? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Knocknarea:**
 As soon as I drank the contents of my cup, I calmly realized what was happening. 
@@ -61027,6 +61095,10 @@ Weren't you going to fall in love after you became queen!? You haven't even gott
  
 **Artoria:**
 So please, Knocknarea&mdash;please...! 
+
+---
+
+Note: Male Player
  
 **Knocknarea:**
 &mdash;No. This too is my...worth...the night sky with . 
@@ -61039,18 +61111,26 @@ Very wonderful, a comforting feeling. When this ceremony is over&mdash;
  
 **Knocknarea:**
 I'll definitely make them mine. Fufu. It's going to be even harder than becoming a queen. 
+
+---
+
+Note: Female Player
  
 **Knocknarea:**
 It's okay. The me in the other world...would have known lots of love. 
  
 **Knocknarea:**
-&mdash;That's odd.  name...I wonder what it was? 
+&mdash;That's odd. Her name...I wonder what it was? 
  
 **Knocknarea:**
 On my grave...rather than my name&mdash;
  
 **Knocknarea:**
 It should definitely be...a name like a flower. 
+
+---
+
+Note: Branch End
  
 **Artoria:**
 Wait&mdash;wait, Knocknarea. Don't go. Don't just quit while you're ahead. 
@@ -61225,7 +61305,7 @@ Let's cut them down here and put their heads on display in the square.
 No. Testimony is just that. It does not constitute fact. 
  
 **Coral:**
-I will hear the truth of what happened from {(M)him/(F)her}. This is the way of the Wind Clan, as we value impartiality...
+I will hear the truth of what happened from {(M) him /(F) her}. This is the way of the Wind Clan, as we value impartiality...
  
 **Coral:**
 What are you doing!? 
@@ -61394,7 +61474,7 @@ She'll likely be back once things settle down here, though. Either way, now is o
 **Senji Muramasa:**
 Artoria, Fujimaru. Let's break through this encirclement and escape the city. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fairy Knight Lancelot:**
 ...
@@ -61547,7 +61627,7 @@ No. Before that, there's something I must do! I have to protect all these fairie
 I'll kill all the Mors in the castle! If I can't do that, I'll never be able to face Chaldea again! 
  
 **Barghest:**
-That's right...so long as {(M)he/(F)she} is there, there's hope. 
+That's right...so long as {(M) he /(F) she} is there, there's hope. 
  
 **Barghest:**
 Emigration...even if it's just a few, Britain's fairies will be saved...
@@ -61672,7 +61752,7 @@ Grimm, Fujimaru, Artoria! Let's do this, brace yourselves!
 **Senji Muramasa:**
 We'll be fine if we can hold out for two minutes! After that, we'll run for the woods too! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -61730,7 +61810,7 @@ On top of that, fairies consumed by fear are likely to turn into Mors on their o
 **Grimm the Wise:**
 There is no safe haven left in Britain. The Great Calamity has begun. 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -61922,7 +62002,7 @@ So the Border can move now!?
 
  
 **Holmes:**
-Of course, {(M)Mr. /(F)Miss} Fujimaru. 
+Of course, {(M) Mr.  /(F) Miss} Fujimaru. 
  
 **Holmes:**
 For that reason, I'd like you all to return to the Border immediately. 
@@ -62051,7 +62131,7 @@ Pathetic...feeling tired from a fight of this magnitude...
 Aah...my body feels hot...my horn feels like bursting...! 
  
 **Barghest:**
-Aaaaaahhh! ! ! 
+Aaaaaahhh!!! 
  
 **Barghest:**
 Haah, haaah&mdash;
@@ -62071,7 +62151,7 @@ They're still here...? There's no end to them. There's no end, but...
 **Barghest:**
 The Round Table Army is escaping outside...! Come, Mors! I will be your opponent! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Barghest:**
 What's happening...I'm seeing red...did the Mors poison get into my eyes...? 
@@ -62121,7 +62201,7 @@ Manchester...to Manchester...as the lord of that city, I have to...
 **Barghest:**
 I have to protect the denizens of Manchester&mdash;
  
-**--ARROW--:**
+**--ARROW--**
  
 **Spriggan:**
 &mdash;Ooh, there are Mors all over the plains! Those same predatory types that showed their faces in Norwich! 
@@ -62283,10 +62363,10 @@ I will not allow it. The Child of Prophecy must be punished accordingly.
 The Foreign Magus is...equally guilty, but must have been tricked by the Child of Prophecy. 
  
 **Aurora:**
-As the leader of the Wind Clan, I will offer clemency for {(M)his/(F)her} crimes. 
+As the leader of the Wind Clan, I will offer clemency for {(M) his /(F) her} crimes. 
  
 **Aurora:**
-{(M)He/(F)She} must have so many stories about the outside world to share! 
+{(M) He /(F) She} must have so many stories about the outside world to share! 
  
 **Aurora:**
 Hehe, what fun this will be, Coral! What could the world outside Britain be like? 
@@ -62498,40 +62578,40 @@ It's not “God” trying to destroy us, it's the island of Britain itself&mdash
 **Muryan:**
 &mdash;? 
  
-**? ? ? :**
+**???:**
 Congratulations. You found your answer, Muryan. 
  
-**? ? ? :**
+**???:**
 Well done on eradicating the Fang Clan. Thanks to you, the scale of this Calamity has increased dramatically. 
  
-**? ? ? :**
+**???:**
 If they were still around, they could have defeated the Mors, and this wouldn't have developed into a Great Calamity. 
  
-**? ? ? :**
+**???:**
 But this time, it'll be quite a show. The bigger the Calamity, the better. Thank you for your contribution in causing this apocalypse. 
  
-**? ? ? :**
+**???:**
 You've had your revenge. And now you know the truth about Britain. 
  
-**? ? ? :**
+**???:**
 Then you have no more regrets, right? It's that time, after all. 
  
 **Muryan:**
 &mdash;aah&mdash;y-you&mdash;
  
-**? ? ? :**
+**???:**
 Oh, that's right. I have one final confession. 
  
-**? ? ? :**
+**???:**
 It was so long ago, but I really am sorry for setting the Fang Clan after the Wing Clan. 
  
-**? ? ? :**
+**???:**
 There wasn't really a reason for it, I was just in a bit of a bad mood at the time. 
  
 **Muryan:**
 &mdash;
  
-**--ARROW--:**
+**--ARROW--**
  
 **Red Rabbit:**
 We've been running towards the west coast for a day and a half now! We'll reach our destination soon! 
@@ -62580,7 +62660,7 @@ Thanks, Master Red Rab-bit! We couldn't have come this far without you!
 **Senji Muramasa:**
 Leave the rest to us. Let's kick their asses, Grimm! We'll clear a path to the coast! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -62733,7 +62813,7 @@ Intense fighting is to be expected from this point forward. I want each and ever
 I see...I've got a good grasp on the situation at hand. 
  
 **Holmes:**
-Thank you for the detailed report, {(M)Mister/(F)Miss} Fujimaru. 
+Thank you for the detailed report, {(M) Mister /(F) Miss} Fujimaru. 
  
 **Holmes:**
 Now we know what must be done. Although, we must re-examine whether it is possible or not. 
@@ -62775,7 +62855,7 @@ Just a few, regarding the Divine Construct.
 We had assumed our objective would be complete once we manage to seize the Holy Lance of Camelot, however...
  
 **Holmes:**
-According to {(M)Mister/(F)Miss} Fujimaru, you had a dispirited look on your face when that topic was brought up. 
+According to {(M) Mister /(F) Miss} Fujimaru, you had a dispirited look on your face when that topic was brought up. 
  
 **Holmes:**
 May I ask why? 
@@ -63096,7 +63176,7 @@ Their wish of a future for both human and fae was genuine.
 **Artoria:**
 ...
  
-**--ARROW--:**
+**--ARROW--**
  
 **Gordolf:**
 Th-th-this is impossible! How is this happening!? It's only been a day and a half! 
@@ -63422,7 +63502,7 @@ Barghest...why...?
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 The retrieval of the Shadow Border is complete. Should I set a course for the Great Pit? 
@@ -63769,10 +63849,10 @@ Ahhhh, contact in 7, 6, 5&mdash;! Bye-bye, everyone!
 **Meunière:**
 We have our output back! We can do this, we can escape from this sector! 
  
-**? ? ? :**
+**???:**
 Splendid. That makes it worth my effort putting myself on the line. 
  
-**? ? ? :**
+**???:**
 Did that teach you a thing or two about the secureness of NFF Services? 
  
 **Gordolf:**
@@ -63902,7 +63982,7 @@ Ah! That's Koyanskaya's Beast form! Marine, can you get us a visual!?
 I can't, our visuals are being jammed! No response on the sonar either! 
  
 **G：Nemo Marine (Observer, Left):**
-Hold on, wooooooah! ! ! ! 
+Hold on, wooooooah!!!! 
  
 **Koyanskaya:**
 Would you kindly refrain from firing off those waves like you're off whaling? It's getting in the way of my focus. 
@@ -64075,31 +64155,31 @@ And this destruction will propagate across the earth, engulfing Lostbelts and pa
 ---
 
  
-**? ? ? :**
+**???:**
 Come now, there's still hope. You're an hour too early to be giving up. 
  
-**? ? ? :**
+**???:**
 The sinful deeds of the fairies accumulated over 14,000 years. 
  
-**? ? ? :**
+**???:**
 The two Calamities mentioned in the prophecy. The carcass of the god that appeared in the Great Pit. 
  
-**? ? ? :**
+**???:**
 The power of pan-human history cannot overcome them. They are not something you can defeat. 
  
-**? ? ? :**
+**???:**
 But these are all fantasies with 'this situation' as their precondition. 
  
-**? ? ? :**
+**???:**
 The British Lostbelt grew into a Singularity and reached a standing like that of pan-human history. 
  
-**? ? ? :**
+**???:**
 A distortion of history, so to speak. 
  
-**? ? ? :**
+**???:**
 If you correct the Singularity, history will be restored and the Fairy Kingdom will never have existed. 
  
-**? ? ? :**
+**???:**
 Truly, this is your area of expertise. After all, you have conducted many such corrections, have you not? 
  
 ---
@@ -64148,7 +64228,7 @@ The one and only. You seem to be doing well, Fujimaru.
 But hey, what's with that tone just now? You seem glad I'm okay, but it sounds more like you're angry with me for watching from the sidelines. 
  
 **Merlin:**
-That's a bit harsh coming from a level-headed {(M)chap/(F)lass} like you, don't you think? 
+That's a bit harsh coming from a level-headed {(M) chap /(F) lass} like you, don't you think? 
  
 
 ---
@@ -64437,7 +64517,7 @@ Yeah, you're like that when you're acting aggressively stupid. The rest of the t
 **Artoria:**
 I don't act meek, and I don't hide anything! Who are you calling meek, Muramasa!? 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Nemo:**
 As we said earlier, the Storm Border will hold position over the Lake District. 
@@ -65124,31 +65204,31 @@ The theory for life to exist as a living organism. The principle of survival and
 **Merlin:**
 The land of hope will only be open to those who demonstrate those certainties and strengths. 
  
-**? ? ? :**
+**???:**
 &mdash;Ruin. &mdash;The whole surface world in ruin. 
  
-**? ? ? :**
+**???:**
 &mdash;The sky, the sea, life...All to which that I bore witness. 
  
-**? ? ? :**
+**???:**
 &mdash;There will be no need for my records to accumulate anymore. 
  
-**? ? ? :**
+**???:**
 &mdash;There will be no need for my joy to be renewed anymore. 
  
-**? ? ? :**
+**???:**
 &mdash;He who chooses the bearer of the Holy Sword. He who chants the name of the King. 
  
-**? ? ? :**
+**???:**
 &mdash;If you would seek the new world, leave the old one behind. 
  
-**? ? ? :**
+**???:**
 &mdash;My name is ■ ■ ■ ■ ■ ■. The last dragon, who chose to continue flying above the Earth rather than return to the Inner Sea. 
  
-**? ? ? :**
+**???:**
 &mdash;If you can go beyond these tears, I would devote my heart to the one who will reforge the star. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **■ ■ ■ ■ ■:**
 Aah...I hear the tolling of bells. 
@@ -65356,7 +65436,7 @@ Let's head for the Site of Selection, Fujimaru.
 **Artoria:**
 We finally made it to Avalon, so it would be a waste not to enjoy it! I'm counting on you to escort me! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Senji Muramasa:**
 Still, just flowers as far as the eye can see. It's the complete opposite of seeing Britain covered in flames. 
@@ -65614,7 +65694,7 @@ Of course, I'll help you out here.
 **Merlin:**
 It's been quite a while. I want to see how much you and Mash have grown. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -65669,7 +65749,7 @@ You said it! It's also easier for me if I don't have to fight! Let's get a move 
 ---
 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 &mdash;Whenever I shut my eyes, I would always find myself here. 
@@ -65846,7 +65926,7 @@ After all, I couldn't use a Fairy Territory! And hitting things is about the onl
 Toa&ndash;! Toaaa&ndash;! 
  
 **Artoria:**
-Toaaaaa&ndash;! ! ! ! Haa...
+Toaaaaa&ndash;!!!! Haa...
  
 **Artoria:**
 Haha...ahahahahahaha...
@@ -65863,25 +65943,25 @@ Ahahahaha...haa...ah...
 **Narration:**
 And as though matching my voice, fading away all alone in the field: 
  
-**? ? ? :**
+**???:**
 Ahh...aaaaaa, how disgusting! The fairies you're with disgust me! 
  
 **Artoria:**
 Ah!? T-the staff spoke!? 
  
-**? ? ? :**
+**???:**
 Not quite. I'm not the Staff of Selection. 
  
-**? ? ? :**
+**???:**
 Tintagel was just too nauseating and you were just too pliant for me,
  
-**? ? ? :**
+**???:**
 and so I spoke up. I'm just a meddler, that's all. 
  
-**? ? ? :**
+**???:**
 Good grief, I had no intention of getting involved like this. But I suppose there's no helping it now. 
  
-**? ? ? :**
+**???:**
 Listen carefully now, I am Merlin. Merlin, the Magus of Flowers. 
  
 **Merlin:**
@@ -66037,7 +66117,7 @@ The days that followed only got worse.
 **Narration:**
 That concludes my winter memories. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Narration:**
 This happened around when I was twelve years old. 
@@ -66534,7 +66614,7 @@ That's why&mdash;you must protect us by taking care of him...!
 **Narration:**
 That concludes my autumn memories. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Narration:**
 The Earth Clan fairy that had settled down on the cape used to be one of Queen Morgan's elite guard. 
@@ -67053,18 +67133,18 @@ Then, a new fairy was brought over.
 &mdash;Mash? 
  
 **Narration:**
-{(M)He/(F)She} had lost {(M)his/(F)her} memories. Both {(M)his/(F)her} body and mind were in shambles, and {(M)he/(F)she} couldn't be left alone. 
+{(M) He /(F) She} had lost {(M) his /(F) her} memories. Both {(M) his /(F) her} body and mind were in shambles, and {(M) he /(F) she} couldn't be left alone. 
  
 **Narration:**
 And most importantly&mdash;
  
 **Narration:**
-If {(M)he/(F)she} had forgotten all about the Child of Prophecy, I thought that perhaps we could be friends. 
+If {(M) he /(F) she} had forgotten all about the Child of Prophecy, I thought that perhaps we could be friends. 
  
 **Narration:**
 There lay my summer memories. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Artoria:**
 It's finally time for the spring memories! 
@@ -67226,7 +67306,7 @@ Don't worry, just run after her. At this rate she really is going to get ahead o
 **Senji Muramasa:**
 No matter what, this is the ending of a long journey for her. Let's be sure to watch her see it through. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 When I closed my eyes, I saw it. When I slept, I saw it. 
@@ -67527,7 +67607,7 @@ I'm here to fulfill my mission. And the funny thing is I don't even understand w
 It's probably some self-righteous reason, you know. Something of no worth to anybody else. 
  
 **Artoria:**
-Just like Fujimaru showed in the depths of {(M)his/(F)her} Dejection. 
+Just like Fujimaru showed in the depths of {(M) his /(F) her} Dejection. 
  
 **Artoria:**
 Just like when Mash confronted the Calamity in Norwich. 
@@ -67994,7 +68074,7 @@ Oh, I forgot to ask them one thing though.
 I was using Clairvoyance to watch Chaldea's journey as close as possible...
  
 **Merlin:**
-Fujimaru was talking to {(M)him/(F)her}self an awful lot this time. 
+Fujimaru was talking to {(M) him /(F) her}self an awful lot this time. 
  
 **Merlin:**
 Hmm. What was that all about? 
@@ -68530,13 +68610,13 @@ I love you, Aurora...I love you, Aurora.
 **Aurora:**
 &mdash;
  
-**? ? ? :**
+**???:**
 &mdash;aaa&mdash;
  
-**? ? ? :**
+**???:**
 &mdash;AaAaAa, Aa&mdash;
  
-**? ? ? :**
+**???:**
 &mdash;Aaaaaaaaaaaa&mdash;
  
 ## Section 29: A Prophecy 
@@ -69041,7 +69121,7 @@ I hold the Spear of Selection, a tool of the Fairies of Paradise.
 **Percival:**
 I'm an artificial Child of Prophecy. There is none more suited for this role than I. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 That thing no longer harbored humanoid sapience. This fact did not detract anything in particular from it. 
@@ -69196,7 +69276,7 @@ Ten seconds to contact!
 **Nemo:**
 &mdash;This marks our first battle against a Calamity, best of luck to everyone! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Mash:**
 The hostile draconic organism has withdrawn from the deck! We weren't able to defeat it...! 
@@ -69326,7 +69406,7 @@ His end is reflected in the eyes of the falling dragon.
 **Narration:**
 Pain shoots through its hollow heart. The sound of the rushing wind being engulfed in flames, in that moment, resembled the sound of tears. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Gordolf:**
 Well done, all of Chaldea. The same goes to you, Artoria Caster of Britain! 
@@ -69522,7 +69602,7 @@ S-sure, leave it to me! I've gotten used to being airdropped, anyways!
 Then it's decided. The ones who will purge the Calamity at Norwich will be our elite force,
  
 **Holmes:**
-{(M)Mister/(F)Miss} Fujimaru and Mash Kyrielight. 
+{(M) Mister /(F) Miss} Fujimaru and Mash Kyrielight. 
  
 **Holmes:**
 The operation time will be 30 minutes. We cannot afford to spare more time than that. 
@@ -69599,7 +69679,7 @@ No need to worry, I know Mike's tavern like the back of my hand!
 **Da Vinci:**
 Let's meet up later, Fujimaru! I believe you'll stay safe! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 Curse you. Curse you. Curse the Fang Clan. 
@@ -69883,19 +69963,19 @@ You put in a new one for me today, since I can't walk.
 **Narration:**
 A vile beast, wanting only to ■ ■ ■ that which I loved. 
  
-**? ? ? :**
+**???:**
 Taking your life to atone for your sins? I know how you must feel, but take a step back. 
  
-**? ? ? :**
+**???:**
 It would be lamentable if the most virtuous fairy of all forfeited her life. 
  
-**? ? ? :**
+**???:**
 I'll make a contract with you, Barghest. It's still a little too early for you to succumb to the curse. 
  
-**? ? ? :**
+**???:**
 I'll put a lid on this memory. He can live on in your heart as long as you like. 
  
-**? ? ? :**
+**???:**
 Oh? If it gets to be too much, come back to this room. You can relive his final days in your dreams. 
  
 **Fairies:**
@@ -70136,7 +70216,7 @@ Be careful, Mash!
 **Mash:**
 Understood! Opening hatch, starting magical energy reinforcement of the legs. Mash Kyrielight, here I go! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -70329,7 +70409,7 @@ The Black Calamity. The head of the pack of fairy-eating beasts.
 **Mash:**
 As one of the Round Table&mdash;I will halt her advance here! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Meunière:**
 High-grade magical signature...disappeared...
@@ -70469,7 +70549,7 @@ Look out, Mash&mdash;!
 ---
 
 **Fujimaru 2:**
-Oh no you don't, Beryl! ! 
+Oh no you don't, Beryl!! 
  
 
 ---
@@ -70657,7 +70737,7 @@ I don't get it myself, but I won't stop you. So&mdash;
 **Beryl:**
 Don't get in my way. &mdash;Don't get in the way of someone's love. 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Narration:**
 Beryl Gut was a mage, but his primary occupation was that of a killer and his raison d'être alike was to kill. 
@@ -70967,7 +71047,7 @@ Perhaps no one ever will, Beryl Gut.
 **Beryl:**
 &mdash;
  
-**--ARROW--:**
+**--ARROW--**
  
 **Da Vinci:**
 The Shadow Border is headed towards Norwich. I'm up next. I'll be back in twenty minutes. 
@@ -71457,7 +71537,7 @@ That won't be necessary, Marine. Get ready, Grimm the Wise.
 **Holmes:**
 We will hereby commence the purging of the final Calamity! 
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -71813,7 +71893,7 @@ We will now launch the Servant offensive!
 **Holmes:**
 Our target is Cernunnos of the Great Pit! We shall completely eradicate Britain's Great Calamity here! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 ---
 
@@ -72373,16 +72453,16 @@ If only I&mdash;if only I hadn't been afraid back then...
 **Mash:**
 If only I hadn't run from my choices, from my responsibility, this wouldn't be...! 
  
-**? ? ? :**
+**???:**
 It's so frustrating it makes you want to cry, doesn't it? I get it. You were running from the fight back then. 
  
-**? ? ? :**
+**???:**
 No matter how gallant and courageous you try to be, you're a person who's fundamentally averse to conflict. 
  
-**? ? ? :**
+**???:**
 That still hasn't changed, but&mdash;what lies beyond your gaze has changed. 
  
-**? ? ? :**
+**???:**
 You've gained the will to fight, the heart to fight. So there's no longer any need for me to be safekeeping this. 
  
 **Mash:**
@@ -72578,7 +72658,7 @@ About me or Tonelico. About our journey through this beautiful Britain.
 &mdash;I won't. I won't&mdash;...! 
  
 **Fairy Knight Totrot:**
-Well, time's up. Fujimaru's on {(M)his/(F)her} way here. 
+Well, time's up. Fujimaru's on {(M) his /(F) her} way here. 
  
 **Fairy Knight Totrot:**
 Please put Cernunnos to sleep. He looks like he's in a lot of pain. 
@@ -72885,28 +72965,28 @@ All the Calamities have been purged! There are no threats to Britain anymore!
 **Mash:**
 So why has the collapse begun!? There's no threat anywhere! 
  
-**? ? ? :**
+**???:**
 Oh, but there is. You just did not register it as one, because it's been in plain sight from the beginning. 
  
-**? ? ? :**
+**???:**
 Do you remember that mural in Londinium? 
  
-**? ? ? :**
+**???:**
 That was a 'prophecy foretelling the destruction' that the priestess of Cernunnos left behind just before she was dismembered. 
  
-**? ? ? :**
+**???:**
 “As the world grows anew, the roots grow tiresome. At long last, unbeknownst to all,”
  
-**? ? ? :**
+**???:**
 “from the bite of a meagre insect, shall it collapse. ”
  
-**? ? ? :**
+**???:**
 It did not refer to Britain's future. 
  
-**? ? ? :**
+**???:**
 If you gnaw away at the roots, this is the end result, no matter how solid human history's foundation. 
  
-**? ? ? :**
+**???:**
 Everything will come to an end, including the planet. 
  
 ---
@@ -72920,16 +73000,16 @@ Oberon!?
 **Fujimaru 2:**
 I knew it...so that's the score. 
  
-**? ? ? :**
+**???:**
 Oh dear, did you know all along, Fujimaru? 
  
-**? ? ? :**
+**???:**
 I'll be damned. Now you're making me feel embarrassed for trying to time this right, but...
  
-**? ? ? :**
+**???:**
 Well, so what? I wasn't hiding it from you in the first place. 
  
-**? ? ? :**
+**???:**
 Because among all the insignificant pawns, you stood out as the least significant of all. 
  
 
@@ -72945,16 +73025,16 @@ Oberon!?
 ---
 
  
-**? ? ? :**
+**???:**
 Hmm? What happened to you, Blanca? That wonderful antenna of yours isn't twitching at all. 
  
-**? ? ? :**
+**???:**
 Oh, so you died. Perhaps from the Mors' black stain...
  
-**? ? ? :**
+**???:**
 Did you catch all the poison of Britain directed my way in my stead? 
  
-**? ? ? :**
+**???:**
 Thank you. I don't really care, though. 
  
 **Holmes:**
@@ -72993,7 +73073,7 @@ At this rate, he's no different from an invisible man who's both there and not t
 **Mash:**
 T-then who on earth is that person? 
  
-**? ? ? :**
+**???:**
 &mdash;
  
 **Nemo Marine:**
@@ -73030,7 +73110,7 @@ Indeed, there is something that can only be described as a hole in space flowing
 Can't you see it on the monitor? 
  
 **Holmes:**
-{(M)Mister/(F)Miss} Fujimaru! Can you confirm it from the deck!? 
+{(M) Mister /(F) Miss} Fujimaru! Can you confirm it from the deck!? 
  
 ---
 
@@ -73073,19 +73153,19 @@ It's probably&mdash;
 ---
 
  
-**? ? ? :**
+**???:**
 That's right. It's an insect. 
  
-**? ? ? :**
+**???:**
 Of course, as you can see, it's a conceptual insect. An infinite hole which will consume Britain and this planet from the inside out. 
  
-**? ? ? :**
+**???:**
 Well, you can think of it as an endless void. 
  
-**? ? ? :**
+**???:**
 Oh, and it is also me. 
  
-**? ? ? :**
+**???:**
 I don't know which is the main body and which is the shadow, though. 
  
 ---
@@ -73111,31 +73191,31 @@ Who&mdash;are you!?
 ---
 
  
-**? ? ? :**
+**???:**
 &mdash;Very well. Since it's a request from you of all people, I'll answer. 
  
 **Mash:**
 Senpai...Oberon's form is...no, his very Saint Graph itself is&mdash;
  
-**? ? ? :**
+**???:**
 My word, these fairies are truly incorrigible. 
  
-**? ? ? :**
+**???:**
 They killed a god above the land they lost due to their own negligence, and built a small island. 
  
-**? ? ? :**
+**???:**
 But not satisfied with just that, they reclaimed the sea with corpses and made land. 
  
-**? ? ? :**
+**???:**
 The audacity of that and their disgusting way of life makes you want to puke. Doesn't it, Fujimaru? 
  
-**? ? ? :**
+**???:**
 Even a human like you would find it questionable. 
  
-**? ? ? :**
+**???:**
 From the perspective of the original British Island, which was lost, it is hopelessly sickening. 
  
-**? ? ? :**
+**???:**
 To the point where it wants to be wiped out, even if it means spreading the Calamities around. 
  
 ---
@@ -73147,34 +73227,34 @@ Oberon&mdash;
 ---
 
  
-**? ? ? :**
+**???:**
 But Cernunnos wasn't like that. He was a guardian of the fairies. 
  
-**? ? ? :**
+**???:**
 Unless he disappeared, I wouldn't be able to surface. 
  
-**? ? ? :**
+**???:**
 Morgan made sealing Cernunnos, rather than defeating him, a precondition of the Fairy Kingdom. 
  
-**? ? ? :**
+**???:**
 That was a quandary, really. I had no way of defeating Morgan. 
  
-**? ? ? :**
+**???:**
 And so, I waited for a someone who could. 
  
-**? ? ? :**
+**???:**
 For someone who could remove the lid on Cernunnos, and defeat him. 
  
-**? ? ? :**
+**???:**
 The foretelling of the Child of Prophecy was a godsend. To the point I thought things were getting interesting. 
  
-**? ? ? :**
+**???:**
 That's why I even lent a hand. 
  
-**? ? ? :**
+**???:**
 So that the Child of Prophecy would set out on her journey. So that the pilgrimage would be successful. 
  
-**? ? ? :**
+**???:**
 &mdash;So that, by your hands, everything would be rendered meaningless. 
  
 ---
@@ -73186,19 +73266,19 @@ Say your name, Oberon!
 ---
 
  
-**? ? ? :**
+**???:**
 Fine. 
  
-**? ? ? :**
+**???:**
 I am a fantasy born of your pan-human history, one who took the form of the Fairy King Oberon. 
  
-**? ? ? :**
+**???:**
 The embodiment of the will of Britain, which yearned for its own destruction alongside the end of the Age of Mystery. 
  
-**? ? ? :**
+**???:**
 &mdash;The name is Vortigern. 
  
-**? ? ? :**
+**???:**
 Oberon-Vortigern. 
  
 **Oberon Vortigern:**
@@ -73267,7 +73347,7 @@ D-d-don't&mdash;
 Don't be ridiculous, what's the meaning of this!? 
  
 **Gordolf:**
-The {(M)boy/(F)girl} won. Kyrielight did it! 
+The {(M) boy /(F) girl} won. Kyrielight did it! 
  
 **Gordolf:**
 We may be at odds with the Lostbelt&mdash;
@@ -73481,10 +73561,10 @@ I couldn't afford to be careless with this. But&mdash;
 When I saw you on that beach, I had a feeling. 
  
 **Oberon Vortigern:**
-That this kid is a real moron. The best {(M)actor/(F)actress} I could imagine. {(M)He/(F)She} will surely live up to my expectations! 
+That this kid is a real moron. The best {(M) actor /(F) actress} I could imagine. {(M) He /(F) She} will surely live up to my expectations! 
  
 **Oberon Vortigern:**
-{(M)He/(F)She} will take care of everything once and for all as the worst, yet best audience. I believed that from the bottom of my heart! 
+{(M) He /(F) She} will take care of everything once and for all as the worst, yet best audience. I believed that from the bottom of my heart! 
  
 ---
 
@@ -73576,7 +73656,7 @@ We're definitely&mdash;
 **Nemo:**
 We're definitely going to find a way out! 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 When he was born, he could not even draw breath. 
@@ -74003,7 +74083,7 @@ After all, we are bystanders, aren't we?
 ---
 
 **Fujimaru 1:**
-Come, Caster! ! ! ! 
+Come, Caster!!!! 
  
 
 ---
@@ -74022,9 +74102,9 @@ I have come in response to the Foreign Magus' summons, in accordance with our co
 If it is a battle to save the world, and not to admonish Britain. 
  
 **Artoria:**
-Then even at the end of time, this sword will be within {(M)his/(F)her} hands. 
+Then even at the end of time, this sword will be within {(M) his /(F) her} hands. 
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 You hear the tolling of a bell. Not the bell of obligation you have heard countless times before. 
@@ -74270,7 +74350,7 @@ I have come in response to the Foreign Magus' summons, in accordance with our co
 If it is a battle to save the world, and not to admonish Britain. 
  
 **Artoria:**
-Then even at the end of time, this sword will be within {(M)his/(F)her} hands. 
+Then even at the end of time, this sword will be within {(M) his /(F) her} hands. 
  
 **Oberon Vortigern:**
 &mdash;You've got to be kidding me. No, I suppose this is what I told you to become. 
@@ -74489,15 +74569,15 @@ Unlike the Beasts, I will never harbor any love. This battle shall prove that.
 **Oberon Vortigern:**
 Now, let the curtain rise on this tragedy! The pilgrimage ends here! 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Welsh Fairy A:**
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>It's Lord Oberon, it's Lord Oberon! </rt></ruby>
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/8DaVFtt.png#gh-light-mode-only)</rb><rt>Everyone, Lord Oberon has returned! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>It's Lord Oberon, it's Lord Oberon! </rt></ruby>
+<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Everyone, Lord Oberon has returned! </rt></ruby>
  
 **Welsh Fairy B:**
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/6lcSbU9.png#gh-light-mode-only)</rb><rt>Tell us!  Tell us! </rt></ruby>
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/6lcSbU9.png#gh-light-mode-only)</rb><rt>Tell us about the outsiders who wanted to kill us! </rt></ruby>
+<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Tell us!  Tell us! </rt></ruby>
+<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Tell us about the outsiders who wanted to kill us! </rt></ruby>
  
 **Oberon Vortigern:**
 Hey everyone, I'm back. Did you manage to somehow survive another day? 
@@ -74526,7 +74606,7 @@ Sorry, did I doze off for a bit there?
 
  
 **Oberon Vortigern:**
-&mdash;Are you serious? Just how impudent are you, you {(M)bastard/(F)bitch}? 
+&mdash;Are you serious? Just how impudent are you, you {(M) bastard /(F) bitch}? 
  
 **Oberon Vortigern:**
 Oops, no swearing here. No swearing. 
@@ -74653,12 +74733,12 @@ Cheers, you Chaldean bastard! It was a dull journey, but one full of twists!
 Good luck with the next one! I will pray for your good fortune from the bottom of my heart! 
  
 **Welsh Fairy:**
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/6lcSbU9.png#gh-light-mode-only)</rb><rt>Where are you going?  Where are you going? </rt></ruby>
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/6lcSbU9.png#gh-light-mode-only)</rb><rt>I'll follow you!  I'll follow you! </rt></ruby>
+<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Where are you going?  Where are you going? </rt></ruby>
+<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>I'll follow you!  I'll follow you! </rt></ruby>
  
 **Welsh Fairy:**
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/6lcSbU9.png#gh-light-mode-only)</rb><rt>Farewell, friend of Oberon! </rt></ruby>
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png#gh-dark-mode-only)  ![welsh1-dark](https://i.imgur.com/6lcSbU9.png#gh-light-mode-only)</rb><rt>Visit the forest of Wales, the forest of Oberon, again sometime! </rt></ruby>
+<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Farewell, friend of Oberon! </rt></ruby>
+<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Visit the forest of Wales, the forest of Oberon, again sometime! </rt></ruby>
  
 **B：Oberon Vortigern:**
 Aaaaaaaaaaaa! 
@@ -74927,7 +75007,7 @@ It's not like we're under attack by the enemy. It's not like the ship is in any 
 I will not accept being defeated just because we couldn't find an exit. 
  
 **Nemo Marine:**
-Report, repoorrrt! ! ! ! A mysterious explosion has been confirmed 3000 km away! 
+Report, repoorrrt!!!! A mysterious explosion has been confirmed 3000 km away! 
  
 **Nemo Marine:**
 The void is being torn asunder and you can see the outside! 
@@ -74993,7 +75073,7 @@ That which destroys the Fairy Kingdom. That which guided the Fairy Kingdom to th
 That which devours the world her loved ones lived in, that which she shares the same cause with. That apocalyptic figure. 
  
 **Dragon Corpse:**
-Aaa&mdash;aaa. Aaaaaaaaaaa......! ! ! ! 
+Aaa&mdash;aaa. Aaaaaaaaaaa......!!!! 
  
 **Narration:**
 Spreading those broken wings. Shouting from that crushed throat. 

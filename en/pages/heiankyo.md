@@ -780,7 +780,7 @@ How am I meant to talk to them? Oh, hey big bro.
 **Young Warrior:**
 Big bro Tsuna&mdash;
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Narration:**
 &mdash;The River Horikawa. 
@@ -871,7 +871,7 @@ I ask you to take a closer look at the water’s surfaceYou may be of the belief
 &mdash;<u>you carelessly forgot to disguise your shadow,</u>Ibaraki. 
  
 **Young Girl:**
-! ! 
+!! 
  
 **Man with a Long Sword:**
 ...
@@ -899,7 +899,7 @@ Kill, kill, kill you! I hate, hate, hate you so much tonight&mdash;
 so I’ll bite off your damn head! I’ll gouge out your eyeballs and skin you raw! Then I’ll decorate the Main Street Suzaku with your flesh! 
  
 **Ibaraki Douji:**
-Tsunaaaaa! ! ! ! ! 
+Tsunaaaaa!!!!! 
  
 **Man with a Long Sword:**
 &mdash;&mdash;
@@ -911,7 +911,7 @@ Tsk!
 Look at me! Don’t you dare leave! 
  
 **Ibaraki Douji:**
-I’m right here! Quake in fear at my claws and fangs, then choke on your tears! ! 
+I’m right here! Quake in fear at my claws and fangs, then choke on your tears!! 
  
 **Ibaraki Douji:**
 To this form of mine...
@@ -959,7 +959,7 @@ Shuten and I will reign forever as the Kings of Ooe,destroy you and the entire M
 Fufu&mdash;
  
 **Ibaraki Douji:**
-&mdash;fufufuahahahahahahahahahahaha! ! 
+&mdash;fufufuahahahahahahahahahahaha!! 
  
 **Man with a Long Sword:**
 ......
@@ -986,13 +986,13 @@ Foremost, neither your claws nor your flames have touched me. I was already here
 While you closed your eyelids. 
  
 **Ibaraki Douji:**
-! ! 
+!! 
  
 **Ibaraki Douji:**
 Oo...Oooooo...
  
 **Ibaraki Douji:**
-Ooo… Ooooooh… ooOOOOOOO! ! How dare you taunt me with your human body! ! 
+Ooo… Ooooooh… ooOOOOOOO!! How dare you taunt me with your human body!! 
  
 **Ibaraki Douji:**
 Damn you Tsunaaaa! 
@@ -1001,7 +1001,7 @@ Damn you Tsunaaaa!
 &mdash;Ibaraki. 
  
 **Ibaraki Douji:**
-Guuuaaaaaaaaahh! ! 
+Guuuaaaaaaaaahh!! 
  
 **Ibaraki Douji:**
 My… rr… My… my right arm is…! 
@@ -1016,10 +1016,10 @@ You cut it off…! Aaaah… AAAAAAAA!
 It hurts! It hurts, it hurts, it hurts it hurts it hurts! Dammiiiiit! 
  
 **Ibaraki Douji:**
-Damn you… bastard…! ! 
+Damn you… bastard…!! 
  
 **Ibaraki Douji:**
-TSUNAAAA! ! ! 
+TSUNAAAA!!! 
  
 **Man with a Long Sword:**
 ......
@@ -1073,7 +1073,7 @@ Well...I don’t know… Tsuna…
 Just an Oni… did you omit a detail…? 
  
 **Ibaraki Douji:**
-Trying to swindle me with nonsense…You’re despicable, Tsunaaa! ! 
+Trying to swindle me with nonsense…You’re despicable, Tsunaaa!! 
  
 **Man with a Long Sword:**
 How dizzying&mdash;
@@ -1156,7 +1156,7 @@ We’re looking for our prey. Our Casters.
 **Medea Lily:**
 &mdash;Yes, of course. I completely agree, Master. 
  
-**--ARROW--:**
+**--ARROW--**
 
  
 **Goredolf:**
@@ -1957,7 +1957,7 @@ We’re looking for our prey. Our Casters.
 
 [[File: black. png500px]]
  
-**--ARROW--:**
+**--ARROW--**
 
  
 ---
@@ -2269,7 +2269,7 @@ We’re looking for our prey. Our Casters.
 **Danzo:**
 では！
  
-**--BATTLE--:**
+**--BATTLE--**
 
  
 **Danzo:**
@@ -2431,7 +2431,7 @@ We’re looking for our prey. Our Casters.
 **Danzo:**
 （マスター。必ず、お守りいたします）
  
-**--ARROW--:**
+**--ARROW--**
  
 **Danzo:**
 先刻の怪異。特有の性質を記録いたしました。
@@ -2581,7 +2581,7 @@ We’re looking for our prey. Our Casters.
 **Danzo:**
 御意！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Danzo:**
 <ruby><rb>是</rb><rt>これ</rt></ruby>にて！<ruby><rb>為済</rb><rt>し　す</rt></ruby>ませた！
@@ -2962,7 +2962,7 @@ We’re looking for our prey. Our Casters.
 **Danzo:**
 （段蔵が&mdash;何としても！！）
  
-**--ARROW--:**
+**--ARROW--**
  
 **Danzo:**
 …………くっ！
@@ -3090,7 +3090,7 @@ We’re looking for our prey. Our Casters.
 **Watanabe no Tsuna:**
 無論だ。ゆくぞ。
  
-**--ARROW--:**
+**--ARROW--**
  
 **Danzo:**
 緊急事態にて、ご無礼！
@@ -3459,7 +3459,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 やってみやがれ<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>野郎！ 
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Watanabe no Tsuna:**
 キャスター！骨の式神はもういい、邪魔だ。
@@ -3834,7 +3834,7 @@ We’re looking for our prey. Our Casters.
 **Fujiwara no Michinaga:**
 はははははははははははははははは！我らが平安京、千年の京として後世に名を遺そうぞ！
 
-**--SECTION BREAK--:**
+**--SECTION BREAK--**
  
 **Narration:**
 と&mdash;
@@ -4218,7 +4218,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 アンタがオレの<ruby><rb>英霊</rb><rt>サーヴァント</rt></ruby>&mdash;じゃねえのか？藤丸！
  
-**--ARROW--:**
+**--ARROW--**
  
 **？？？:**
 愉快。愉快。
@@ -4253,7 +4253,7 @@ We’re looking for our prey. Our Casters.
 **？？？:**
 最期の時まで&mdash;御笑覧あれ！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 はぁ。
@@ -4843,7 +4843,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 オレと藤丸で片付ける！&mdash;いくぜ！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sakata Kintoki:**
 よっ、と。今ので<ruby><rb>終</rb><rt>しま</rt></ruby>いだな！
@@ -7143,7 +7143,7 @@ We’re looking for our prey. Our Casters.
 **Danzo:**
 敵影を目視にて確認。掃討行動に移ります、マスター！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Fujiwara no Kaoriko:**
 ……驚きました。
@@ -7858,7 +7858,7 @@ We’re looking for our prey. Our Casters.
 **Fujiwara no Michinaga:**
 見ない顔だ。貴様、何者か。
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 内裏に、珍しき客あり。
@@ -8398,7 +8398,7 @@ We’re looking for our prey. Our Casters.
 **Ashiya Dōman:**
 &mdash;宮中にございます、どうか<ruby><rb>刃傷</rb><rt>にんじょう</rt></ruby>はご容赦をば。
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 てェ訳で、だ！
@@ -8643,7 +8643,7 @@ We’re looking for our prey. Our Casters.
 **Danzo:**
 承知！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 ……日が暮れたな。
@@ -8922,7 +8922,7 @@ We’re looking for our prey. Our Casters.
 **Danzo:**
 来ます！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sakata Kintoki:**
 ……止まっちまった。
@@ -9730,7 +9730,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 いくぜぇ、藤丸！！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 …………何処だ、香子サン！
@@ -10051,7 +10051,7 @@ We’re looking for our prey. Our Casters.
 **清子:**
 わはははははははははは、いっくぞう！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 ぜえいっ！
@@ -10345,7 +10345,7 @@ We’re looking for our prey. Our Casters.
 **バベッジ:**
 戦闘機能&mdash;二段階解放！！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sakata Kintoki:**
 重いったらねえぜ！　御山の大熊並だ！
@@ -10870,7 +10870,7 @@ We’re looking for our prey. Our Casters.
 **Watanabe no Tsuna:**
 &mdash;我らの縁も相当だな、金時。
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 見当付けたか何だか知らねえが！
@@ -11176,7 +11176,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 &mdash;参るッ！！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sakata Kintoki:**
 おおおッ！
@@ -11399,7 +11399,7 @@ We’re looking for our prey. Our Casters.
 **Fujiwara no Kaoriko:**
 おじさま…………！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 天覧聖杯戦争のさなか、京の都&mdash;
@@ -11762,7 +11762,7 @@ We’re looking for our prey. Our Casters.
 **幼子:**
 …………わたしは、あなただけのお友だちでいいの。
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 &mdash;<ruby><rb>丑三</rb><rt>うしみ</rt></ruby>つ<ruby><rb>時</rb><rt>どき</rt></ruby>、平安京南に鬼が湧く。
@@ -12401,7 +12401,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 &mdash;来やがれ！　茨木童子！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Ibaraki Douji:**
 おのれ人形ッ！<ruby><rb>小癪</rb><rt>こしゃく</rt></ruby>！
@@ -12650,7 +12650,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 おうよ！　やるぜ！！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sakata Kintoki:**
 ぜええええりゃあッ！
@@ -12762,7 +12762,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 おう。絶対だ。
  
-**--ARROW--:**
+**--ARROW--**
  
 **家人:**
 おかえりなさいませ皆様！
@@ -13333,7 +13333,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 しゃあねえ。行くぞ！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 &mdash;安倍家屋敷、近辺。
@@ -14435,7 +14435,7 @@ We’re looking for our prey. Our Casters.
 **酒呑童子の声:**
 &mdash;ありゃ、もう先回りされてもうたん？
  
-**--ARROW--:**
+**--ARROW--**
  
 **酒呑童子の声:**
 &mdash;ありゃ、もう先回りされてもうたん？
@@ -14606,7 +14606,7 @@ We’re looking for our prey. Our Casters.
 **Shuten Dōji:**
 <u>何が起こるかわからへん</u>わぁ！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Minamoto no Raikō:**
 ……金時も。我が郎等も。鬼どもと、よく戦ってくれている。
@@ -14914,7 +14914,7 @@ We’re looking for our prey. Our Casters.
 **Paracelsus:**
 &mdash;<ruby><rb>千変万化の御伽話</rb><rt>ナ　ー　サ　リ　ー　・　ラ　イ　ム</rt></ruby>たる、彼女であれば。
  
-**--ARROW--:**
+**--ARROW--**
  
 ---
 
@@ -15687,7 +15687,7 @@ We’re looking for our prey. Our Casters.
 **Shuten Dōji:**
 あッはははははははははははははははははは！来ぃや、小僧ォ！！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sakata Kintoki:**
 成ァる程！見えたぜ酒呑、確かに聖杯戦争ってなぁ愉快！
@@ -16626,7 +16626,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 &mdash;いくぜえッ！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 &mdash;俺は、護る。決して二度とは失わぬ。
@@ -17139,7 +17139,7 @@ We’re looking for our prey. Our Casters.
 **Watanabe no Tsuna:**
 まこと、金時と肩を並べるだけのことはある。気骨のある{(M)男/(F)娘}だ！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fujiwara no Michinaga:**
 ……フム。
@@ -17671,7 +17671,7 @@ We’re looking for our prey. Our Casters.
 **Narration:**
 &mdash;<ruby><rb>其</rb><rt>そ</rt></ruby>は、<ruby><rb>赫</rb><rt>あか</rt></ruby>き地獄のさまであった。
  
-**--ARROW--:**
+**--ARROW--**
  
 **源氏郎等:**
 申し上げる！申し上げる！
@@ -17891,7 +17891,7 @@ We’re looking for our prey. Our Casters.
 **空中の文字:**
 私は安倍晴明。史上最高にして最優の陰陽師をやっている者だ。
  
-**--ARROW--:**
+**--ARROW--**
  
 **空中の文字:**
 &mdash;話は、すべて聞かせていただいた。
@@ -18326,7 +18326,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 おおおおおおおおおおおッ！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Danzo:**
 風魔・噴進弾！
@@ -18404,7 +18404,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 &mdash;大将！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sakata Kintoki:**
 おおおッ！
@@ -18618,7 +18618,7 @@ We’re looking for our prey. Our Casters.
 **豹尾神・鈴鹿御前:**
 &mdash;確かめる！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 おおらッ！
@@ -18991,7 +18991,7 @@ We’re looking for our prey. Our Casters.
 **Watanabe no Tsuna:**
 &mdash;参るッ！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 おおおおおおおおッ！
@@ -19267,7 +19267,7 @@ We’re looking for our prey. Our Casters.
 **Narration:**
 何をしても死ぬるのみ。最早、京に、源氏の生くる場所なし&mdash;！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fujiwara no Kaoriko:**
 ……現在の内裏がどうなっているのか。
@@ -19553,7 +19553,7 @@ We’re looking for our prey. Our Casters.
 **歳刑神・平景清:**
 <ruby><rb>是</rb><rt>これ</rt></ruby>もまた、<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>の獲物である！はははははははははは！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Sakata Kintoki:**
 <ruby><rb>歳刑神</rb><rt>さいきょうじん</rt></ruby>・<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>&mdash;
@@ -19988,7 +19988,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 駆けるぜ！　大江山！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 へっ！　<ruby><rb>厭</rb><rt>いや</rt></ruby>なお月さんだ&mdash;ぜッと！
@@ -20613,7 +20613,7 @@ We’re looking for our prey. Our Casters.
 **Ibaraki Douji:**
 はははははははははははははははははははは！死ねえええええええええええええ！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 うるせえ！
@@ -21293,7 +21293,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 おうよ、源氏進軍！&mdash;九郎<ruby><rb>判官</rb><rt>ほうがん</rt></ruby>源義経、いざ勝負！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 おおおッ！頭、くらッくらするぜ！
@@ -21498,7 +21498,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 アンタだ！　義経！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 強ェなァ！
@@ -21788,7 +21788,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 おおおおおおおおおおおおおおッ！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 ……ははッ！
@@ -22251,7 +22251,7 @@ We’re looking for our prey. Our Casters.
 **Narration:**
 &mdash;<ruby><rb>其</rb><rt>そ</rt></ruby>は、<ruby><rb>神</rb><rt>カミ</rt></ruby>であった。
  
-**--ARROW--:**
+**--ARROW--**
  
 **Narration:**
 源氏武者、数十余名が<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>大路に集う。
@@ -22526,7 +22526,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 よっし！いくぜええええええええええええッ！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 ったく&mdash;
@@ -23049,7 +23049,7 @@ We’re looking for our prey. Our Casters.
 **伊吹童子:**
 あらがうのを、許す。
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Watanabe no Tsuna:**
 ……ッ！
@@ -23207,7 +23207,7 @@ We’re looking for our prey. Our Casters.
 **伊吹童子:**
 おまえか？
  
-**--ARROW--:**
+**--ARROW--**
  
 **Fujiwara no Michinaga:**
 道満&mdash;
@@ -23925,7 +23925,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 待ちやがれッ！くっそおおおおおおおおおお&mdash;！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **伊吹童子:**
 &mdash;。
@@ -24228,7 +24228,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 承知。ぶちかますぜ、大将！
  
-**--BATTLE--:**
+**--BATTLE--**
  
 **Minamoto no Raikō:**
 ……成る程。
@@ -24308,7 +24308,7 @@ We’re looking for our prey. Our Casters.
 **Sakata Kintoki:**
 &mdash;走るぜ！
  
-**--ARROW--:**
+**--ARROW--**
  
 **伊吹童子:**
 ゆかい。
@@ -25209,7 +25209,7 @@ We’re looking for our prey. Our Casters.
 **真紅の大武者:**
 &mdash;地獄で！　やってろッ！！
  
-**--ARROW--:**
+**--ARROW--**
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 <ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>……な……！
@@ -26079,7 +26079,7 @@ We’re looking for our prey. Our Casters.
 **Medea Lily:**
 …………はい！
  
-**--ARROW--:**
+**--ARROW--**
  
 **Sakata Kintoki:**
 と、云う訳でだ！
