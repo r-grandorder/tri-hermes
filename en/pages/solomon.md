@@ -198,10 +198,10 @@ I froze. I never expected this question. My wish. My wish. My wish...
 **Narration:**
 I'd never had the freedom to ask for one. So, I was about to say I didn't have one...
  
-**A：? ? ? :**
+**A：???:**
 But, no...I did. 
  
-**A：? ? ? :**
+**A：???:**
 I can really...I can really wish for anything, Marisbury? 
  
 **Marisbury:**
@@ -213,7 +213,7 @@ Come now, Caster.... No. Solomon, King of Mages. My contractor. My one and only 
 **Marisbury:**
 Knowing you, your wish will be a righteous one. Say it with pride. 
  
-**A：? ? ? :**
+**A：???:**
 ...
  
 **Narration:**
@@ -1280,10 +1280,10 @@ A Spirit Origin that doesn't fall under any of the seven classes. The Beast of C
 **Da Vinci:**
 The reading I'm getting throughout that entire space is...Beast-Class. 
  
-**B：? ? ? :**
+**B：???:**
 You've got that right. Looks like you've wisened up a bit, Chaldea. 
  
-**B：? ? ? :**
+**B：???:**
 The fact that you were lucky enough to make it past the Seventh Singularity is an accomplishment worthy of praise from me. 
  
 **Mash:**
@@ -3054,7 +3054,7 @@ It uses Altera's magical energy in itself, but its power output is compounded. P
 It's been a while since I've seen it. Looks like she wields it more skillfully than my father. 
  
 **Nero:**
-? ? ? 
+???
  
 **Boudica:**
 ...A virtual manifestation of a Divine Spirit? You're kidding. 
@@ -3764,10 +3764,10 @@ See ya, Captain Jason! Just stay there and wait for good news!
 **Jason:**
 Aah, dammit. I'm going to die for nothing again, I bet! 
  
-**C：? ? ? :**
+**C：???:**
 ...I can't believe it. I never thought I'd see the day you'd impress me, not since I became a Heroic Spirit. 
  
-**C：? ? ? :**
+**C：???:**
 I'm speechless. 
  
 **Jason:**
@@ -3889,7 +3889,7 @@ First of all, you can't be serious about switching yourself back and forth durin
 **Mordred:**
 Got it? If you get out of hand, I'll kill you. 
  
-**D：? ? ? :**
+**D：???:**
 Precisely. Control yourself. Leave the enemy to us! 
  
 **???:**
@@ -5373,10 +5373,10 @@ Whoa, did they just multiply!? Wukong's transformations aside, that's just way t
 **Cursed Arm:**
 Argh, we're getting pushed back...! We cannot take on an army like this with just our powers...! 
  
-**E：? ? ? :**
+**E：???:**
 ...Nay. You have all acquitted yourselves well. What you now hear are the death agonies of the Demon Gods. 
  
-**E：? ? ? :**
+**E：???:**
 Beings of mindless violence needn't be objects of fear. Is that not so, O distant Knights of the Round Table? 
  
 **Gawain:**
@@ -5480,7 +5480,7 @@ In the name of the 72 Demon Gods, we pronounce that disdain will never come to t
 **Demon God Sabnock:**
 It is not to threaten, but to exterminate everything...! Name yourself, fiend...! 
  
-**B：? ? ? :**
+**B：???:**
 Ha&mdash;ha, ha, ha, ha! Did you just say “adoration”? Did a bunch of fake demon gods say the word “adoration”!? 
  
 **Ishtar:**
@@ -5910,13 +5910,13 @@ Fall to your knees. Bow your head. There is no need to even despair.
 **Demon God Andromalius:**
 Everyone resigns themselves here and casts everything away, for this is the “end of will. ” No one shall ever speak your names again! 
  
-**D：? ? ? :**
+**D：???:**
 Ha. Hahaha. Heehahahahahahahahahahahahahahahahaha! 
  
 **Demon God Andromalius:**
 What? A Spirit Origin, approaching from afar, at ultra-high speed!? It can't be! Who is it&mdash;!? 
  
-**D：? ? ? :**
+**D：???:**
 You make me laugh, Demon Gods! You, who have forgotten even the despair of being discarded! Do you truly think the human is of your ilk!? 
  
 ---
@@ -5933,13 +5933,13 @@ That laughter...!
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 Yes! 
  
-**D：? ? ? :**
+**D：???:**
 The last days are here at this world's end. It is an event horizon, without even a god to pray to! 
  
-**D：? ? ? :**
+**D：???:**
 Certainly, this is a place of exile, where countless people have lost hope. It is oblivion, outside the realm of Humanity. But&mdash;
  
 **Edmond Dantès:**
@@ -8311,7 +8311,7 @@ This world is madness. You are all mad.
 **C：Demon God Flauros:**
 Why should this all hold such value to you? 
  
-**D：? ? ? :**
+**D：???:**
 Fool. You have already answered your own question. 
  
 **C：Demon God Flauros:**

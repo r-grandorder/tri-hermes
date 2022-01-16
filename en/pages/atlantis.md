@@ -569,7 +569,7 @@ It was the most retro room I could have imagined. If I hadn't known better, I wo
 **Narration:**
 And yet, there it was atop the exam table. A bizarre...thing that resembled nothing so much as a dead tree. 
  
-**A：? ? ? :**
+**A：???:**
 ...Hey there. It's about time you showed up, Bluebook. 
  
 ## intro. 5-3 
@@ -1168,22 +1168,22 @@ Khh...!
 **d'Eon:**
 Noble Phantasm...Fleur de Lis!!! 
  
-**C：? ? ? :**
+**C：???:**
 I see. A series of strikes made in tandem with a lily-based illusion. 
  
 **d'Eon:**
 (It didn't even scratch him! )
  
-**C：? ? ? :**
+**C：???:**
 What a joke. 
  
 **d'Eon:**
 Guh...! 
  
-**C：? ? ? :**
+**C：???:**
 It's over, Proper Human History. 
  
-**C：? ? ? :**
+**C：???:**
 We've destroyed every last one of your nests. 
  
 **d'Eon:**
@@ -1192,85 +1192,85 @@ We've destroyed every last one of your nests.
 **d'Eon:**
 This started long ago,and it ended long ago. 
  
-**C：? ? ? :**
+**C：???:**
 Ah, you mean them? The Olympus Alter Ego will deal with them. 
  
-**C：? ? ? :**
+**C：???:**
 Did you think this would all be over once they arrived? 
  
-**C：? ? ? :**
+**C：???:**
 There is no path forward for you. Any future you may have had is gone. 
  
-**C：? ? ? :**
+**C：???:**
 You can submit to us and live, or oppose us and die. Which will it be, Proper Human History? 
  
 **d'Eon:**
 ...We will never submit! 
  
-**C：? ? ? :**
+**C：???:**
 I see. 
  
-**C：? ? ? :**
+**C：???:**
 Then death it is. 
  
 **Atlantis Border Guard:**
 We've found the leyline, sir. 
  
-**C：? ? ? :**
+**C：???:**
 Good. This is the last one. 
  
-**C：? ? ? :**
+**C：???:**
 Once we have used it to summon a Servant, causing it to go dormant, we will destroy it completely. 
  
-**C：? ? ? :**
+**C：???:**
 Our enemies should have known better than to give us time to prepare for their arrival. Now, we will ensure they have no chance whatsoever of defeating us. 
  
-**C：? ? ? :**
+**C：???:**
 Without a catalyst, the only sort of Heroic Spirit that can be summoned here will be one drawn to this place by sheer coincidence...but make sure you stand back all the same. 
  
-**C：? ? ? :**
+**C：???:**
 We may end up summoning a Berserker, after all. 
  
 **Atlantis Border Guard:**
 Yes, sir. 
  
-**C：? ? ? :**
+**C：???:**
 Hear me now, in the name of our great demiurge. Come forth from the circle of binding, Guardian of the Scales. 
  
-**C：? ? ? :**
+**C：???:**
 Come forth and dedicate your life to Olympus, to this land brimming with the breath of the gods! 
  
-**D：? ? ? :**
+**D：???:**
 Where am I? Wait. Who am I...? 
  
-**C：? ? ? :**
+**C：???:**
 ...Hmm. 
  
-**D：? ? ? :**
+**D：???:**
 Are you...my Master? 
  
-**C：? ? ? :**
+**C：???:**
 Yes, I am. 
  
-**C：? ? ? :**
+**C：???:**
 From here on, you will dedicate your body, your life, and your skills to Olympus, down to your very last drop of blood. 
  
-**C：? ? ? :**
+**C：???:**
 It is through this servitude that your life will have meaning. 
  
-**D：? ? ? :**
+**D：???:**
 Um...What do you...mean by that? 
  
-**C：? ? ? :**
+**C：???:**
 ...If this is beyond your comprehension,then your only task is to die. 
  
 **Narration:**
 The steely man spoke quietly, but his words carried an unmistakable fury. 
  
-**D：? ? ? :**
+**D：???:**
 ......
  
-**D：? ? ? :**
+**D：???:**
 ...Yes, Master. My life is yours to command. 
  
 **Narration:**
@@ -1282,25 +1282,25 @@ It was then that the man lost interest. All that mattered to him was that the Se
 **Narration:**
 For his thoughts were already focused on the true enemy that lay before him. 
  
-**C：? ? ? :**
+**C：???:**
 ...Chaldea. The invaders who would see our world destroyed. 
  
-**C：? ? ? :**
+**C：???:**
 I will never let you reach Olympus. It is here in Atlantis that you will meet your end. 
  
-**C：? ? ? :**
+**C：???:**
 None of you will escape. None of you will survive. I will slaughter you all where you stand. 
  
-**C：? ? ? :**
+**C：???:**
 Prepare for battle. 
  
 **Narration:**
 Meanwhile, a man and a woman watch as a certain seacraft makes its way across the ocean. 
  
-**F：? ? ? :**
+**F：???:**
 ...Are they serious? 
  
-**F：? ? ? :**
+**F：???:**
 Is that really all those fools at Chaldea brought to try to cross this sea? 
  
 **Musashi:**
@@ -1315,7 +1315,7 @@ Though it might've been too soon for them to make their move. Worst case, this b
 **Musashi:**
 I just hope they haven't let their victories over those other four Lostbelts go to their heads. 
  
-**F：? ? ? :**
+**F：???:**
 Well, that's harsh. And here I thought I sensed you were firmly on the Master of Chaldea's side. 
  
 **Musashi:**
@@ -1324,10 +1324,10 @@ Hell yes I am! I can't help but go weak in the knees for Fujimaru!
 **Musashi:**
 That's why I'm only a little concerned for {(M) him /(F) her} and{(M) his /(F) her} team. Looks like they're bound to have yet another rough start! 
  
-**F：? ? ? :**
+**F：???:**
 You find that a happy turn of events? Even now, I still cannot fathom how your mind works. 
  
-**F：? ? ? :**
+**F：???:**
 Is it because of your love for dire predicaments? I swear, you're far more Berserker than Saber. 
  
 **Musashi:**
@@ -1336,67 +1336,67 @@ Well of course I'm going to smile about this. I'm genuinely thrilled that they m
 **Musashi:**
 How about you? Did you not expect Chaldea to show up here now? 
  
-**F：? ? ? :**
+**F：???:**
 ...Well, I hadn't ruled it out. 
  
-**F：? ? ? :**
+**F：???:**
 How unfortunate that this is the worst possible scenario for them. At last, I'll finally get to see them lose. 
  
 **Musashi:**
 Well, well, you sound happy. Though you certainly don't look it. 
  
-**F：? ? ? :**
+**F：???:**
 ...Hmph. 
  
-**F：? ? ? :**
+**F：???:**
 I can understand them having such a hard time in Russia. It was their first Lostbelt, after all. 
  
-**F：? ? ? :**
+**F：???:**
 I can accept their pathetic showing in Scandinavia, as that was a world too kind for its own good. 
  
-**F：? ? ? :**
+**F：???:**
 I can turn a blind eye to their raucousness in China, for that was a world too long without any manner of festivity. 
  
-**F：? ? ? :**
+**F：???:**
 And I can concede they had a right to be so self-righteous in India, for that was a clear-cut case of good and evil. 
  
-**F：? ? ? :**
+**F：???:**
 No doubt it is owing to these experiences that the Chaldeans are likely thinking something along the lines of: 
  
-**F：? ? ? :**
+**F：???:**
 “The Atlantic Lostbelt may be a threat, but there must still be a way to overcome it. ”
  
-**F：? ? ? :**
+**F：???:**
 But they would be wrong. There is no problem here that needs to be solved. None. 
  
-**F：? ? ? :**
+**F：???:**
 This Lostbelt is already perfected and is actively moving ahead to the stage beyond Proper Human History. 
  
-**F：? ? ? :**
+**F：???:**
 The Chaldeans shouldn't have come here with the intention of defeating this Lostbelt. And they especially shouldn't be trying to learn more about it. 
  
 **Musashi:**
 What are you trying to say? 
  
-**F：? ? ? :**
+**F：???:**
 I am saying that coming to this Lostbelt with any intention other than its complete and utter annihilation is a terrible mistake. 
  
-**F：? ? ? :**
+**F：???:**
 I can only hope they realize the error of their ways before they're completely wiped out. Alternatively...
  
-**F：? ? ? :**
+**F：???:**
 ...Well, no matter. I have my own work to do. 
  
-**F：? ? ? :**
+**F：???:**
 How about you? If you like, I could take you to their ship right now. 
  
 **Musashi:**
 Oh, no thanks, I'm good. I'm just gonna go ahead and wait for them at the enemy's main base. 
  
-**F：? ? ? :**
+**F：???:**
 ...
  
-**F：? ? ? :**
+**F：???:**
 ...Did I misspeak? I thought I was clear that as the Chaldeans are going about this now, they're all going to end up dead. 
  
 **Musashi:**
@@ -1411,10 +1411,10 @@ So in the meantime, I'm going to do what I'm best suited for...
 **Musashi:**
 ...so that I can be ready to pass the torch to them once they finally, doggedly make their way to the goal. 
  
-**F：? ? ? :**
+**F：???:**
 ...I see. Then you can also see how this is going to end, albeit in your own way. 
  
-**F：? ? ? :**
+**F：???:**
 Very well then, go on ahead to Olympus. If nothing else, the Chaldeans should make an excellent decoy. 
  
 **Musashi:**
@@ -1423,40 +1423,40 @@ Right? The gods can't tear their eyes away from them!
 **Musashi:**
 So, on that note, guess this is goodbye, Chaldean. If I run into you again there&ndash;
  
-**F：? ? ? :**
+**F：???:**
 You won't. This is the last time we will ever meet. 
  
-**F：? ? ? :**
+**F：???:**
 My eyes see no further trace of you once we go our separate ways here. 
  
 **Musashi:**
 Well, at least that ought to keep things nice and simple then! Hey, do me a favor and tell them I'll be waiting for them up ahead, okay? Thanks! 
  
-**F：? ? ? :**
+**F：???:**
 That fool. As if I would ever pass along such a message. 
  
-**F：? ? ? :**
+**F：???:**
 That aside...I never would have thought she would make the trek to Olympus via consecutive drifting. She truly is her own personal Rayshift device. 
  
-**F：? ? ? :**
+**F：???:**
 Unfortunately, Chaldea, the same cannot be said of the rest of you. 
  
-**F：? ? ? :**
+**F：???:**
 The insurmountable iron wall that is the fleet of Olympus will rain shots down upon you like a meteor shower before you can even see them coming. 
  
-**F：? ? ? :**
+**F：???:**
 And even if you somehow manage to get past that, you will then need to face the nihilist god of the sea. 
  
-**F：? ? ? :**
+**F：???:**
 ...Do you truly understand your position here, Fujimaru? 
  
-**F：? ? ? :**
+**F：???:**
 You have no time to spare to learn about this Lostbelt. 
  
-**F：? ? ? :**
+**F：???:**
 The moment you attempt to do so, or to get to know its Crypter, will be the moment your journey comes to an end. 
  
-**F：? ? ? :**
+**F：???:**
 ...Your incorrigibility has helped you prevail thus far, but you can't count on it forever. 
  
 **Narration:**
@@ -1777,13 +1777,13 @@ Do not for a moment think yourselves above them. Let down your guard, and you WI
 **???:**
 Very well then, I leave this in your hands,![1-light](https://i.imgur.com/XAqlQYL.png). 
  
-**C：? ? ? :**
+**C：???:**
 Understood. The Echidna production is coming along extremely well. 
  
 **???:**
 Is it possible to manufacture those things? 
  
-**D：? ? ? :**
+**D：???:**
 Yes. Well, at least the prototypes. 
  
 **???:**
@@ -1795,10 +1795,10 @@ Damn engineers. After all this time, you still haven't been able to complete the
 **???:**
 Well, no matter. Send them in. 
  
-**D：? ? ? :**
+**D：???:**
 Yes, sir. 
  
-**D：? ? ? :**
+**D：???:**
 Activate the Echidna! 
  
 **Atlantis Border Guard:**
@@ -2912,10 +2912,10 @@ Hey! Are you okay!? Are you alive!? Are you still breathing!?
 **???:**
 ...Oh no. You aren't, are you? There's something stuck in your windpipe! 
  
-**B：? ? ? :**
+**B：???:**
 Let's see, um...I think for a choking victim, you're supposed to get behind them...Put pressure on their abdomen...
  
-**B：? ? ? :**
+**B：???:**
 One...Two...Three! 
  
 ---
@@ -2926,19 +2926,19 @@ One...Two...Three!
 ---
 
  
-**A：? ? ? :**
+**A：???:**
 Oh, you're awake! Thank goodness! 
  
-**A：? ? ? :**
+**A：???:**
 Are you all right? Have you come to your senses? Can you see me okay!? 
  
-**A：? ? ? :**
+**A：???:**
 ...
  
-**A：? ? ? :**
+**A：???:**
 Oh, thank goodness! Thank goodness, thank goodness, thank goodness! 
  
-**A：? ? ? :**
+**A：???:**
 ...(Sob)...Oh, I'm sorry. I'm just so happy I could cry. Wait, no. I am crying. 
  
 ---
@@ -2946,7 +2946,7 @@ Oh, thank goodness! Thank goodness, thank goodness, thank goodness!
 **Fujimaru 1:**
 You are!? Why!? 
  
-**A：? ? ? :**
+**A：???:**
 I'm so sorry...This is my first time saving someone's life, so...
  
 
@@ -2955,7 +2955,7 @@ I'm so sorry...This is my first time saving someone's life, so...
 **Fujimaru 2:**
 O-oh. Okay...
  
-**A：? ? ? :**
+**A：???:**
 Please, just let me get it out of my system...(Sniff)...
  
 
@@ -2973,7 +2973,7 @@ Fou! It's you!
 ---
 
  
-**A：? ? ? :**
+**A：???:**
 Oh, so this little guy is named Fou? Is he your pet? 
  
 ---
@@ -2995,10 +2995,10 @@ What!? Why would you have a problem with that!?
 ---
 
  
-**A：? ? ? :**
+**A：???:**
 Ahahaha, you're funny.... Hm? Wait. Hmm...? 
  
-**A：? ? ? :**
+**A：???:**
 Um, you wouldn't happen to be a Master...would you? 
  
 ---
@@ -3006,7 +3006,7 @@ Um, you wouldn't happen to be a Master...would you?
 **Fujimaru 1:**
 ...Are you a Servant? 
  
-**A：? ? ? :**
+**A：???:**
 Why yes! Yes, I am! 
  
 
@@ -3015,23 +3015,23 @@ Why yes! Yes, I am!
 **Fujimaru 2:**
 I am, actually...
  
-**A：? ? ? :**
+**A：???:**
 Aha! I knew it! 
  
-**A：? ? ? :**
+**A：???:**
 You see, I'm actually a Servant myself. 
  
-**A：? ? ? :**
+**A：???:**
 Does that surprise you? Please say yes. 
  
 
 ---
 
  
-**A：? ? ? :**
+**A：???:**
 Oh, right, I still haven't introduced myself, have I? My name's Charlotte. 
  
-**A：? ? ? :**
+**A：???:**
 Charlotte Corday. 
  
 **Charlotte Corday:**
@@ -3426,19 +3426,19 @@ Haha, sorry about that! Hang on, I'll be right down!
 **???:**
 Hup! 
  
-**F：? ? ? :**
+**F：???:**
 Sorry again. Didn't mean to involve you guys in my little, uh, bit of fun. 
  
-**F：? ? ? :**
+**F：???:**
 So, um...Who'd I get it on? 
  
 **Charlotte Corday:**
 N-not me! I literally couldn't live with myself if it had! 
  
-**F：? ? ? :**
+**F：???:**
 Guess that means you guys were the unlucky winners then! Haha, my bad. 
  
-**F：? ? ? :**
+**F：???:**
 Ugh, gross! Stay away from me! 
  
 ---
@@ -3455,10 +3455,10 @@ I'm sorry, this is all a little too much for me...
 **Fou:**
 Fooou. 
  
-**F：? ? ? :**
+**F：???:**
 There we go. A nice, solid hit. 
  
-**F：? ? ? :**
+**F：???:**
 Hey there! I don't know who you are,but you're lucky I found you when I did! 
  
 ---
@@ -3466,7 +3466,7 @@ Hey there! I don't know who you are,but you're lucky I found you when I did!
 **Fujimaru 1:**
 Thank you for saving us. 
  
-**F：? ? ? :**
+**F：???:**
 Well aren't you polite? Nice to see you know your manners! 
  
 
@@ -3475,20 +3475,20 @@ Well aren't you polite? Nice to see you know your manners!
 **Fujimaru 2:**
 Um...I'm sorry, I didn't catch your name? 
  
-**F：? ? ? :**
+**F：???:**
 Me? I'm just your everyday devilishly handsome hunter. 
  
 
 ---
 
  
-**F：? ? ? :**
+**F：???:**
 As for the pretty young lady...You a Servant? 
  
 **Charlotte Corday:**
 Uh, yes, I am. And...I take it you are as well? 
  
-**F：? ? ? :**
+**F：???:**
 Sure am! I think this calls for a toast. To our fateful encounter! 
  
 ---
@@ -3505,10 +3505,10 @@ Fou fou!!!
 **Charlotte Corday:**
 I agree! Cleanliness comes first! 
  
-**F：? ? ? :**
+**F：???:**
 All right, all right, I hear ya. Man, what a pain...
  
-**F：? ? ? :**
+**F：???:**
 Okay, let's try that again. This means I saved your lives, yeah? 
  
 ---
@@ -3519,7 +3519,7 @@ Well, I guess...Technically...
 ---
 
  
-**F：? ? ? :**
+**F：???:**
 Yikes. I must've made an even worse first impression than I thought. 
  
 **Charlotte Corday:**
@@ -3528,10 +3528,10 @@ Well, um, your entrance WAS a little...Okay, incredibly off-putting...
 **Charlotte Corday:**
 But I suppose we wouldn't be here right now if not for you, so thank you for that. 
  
-**F：? ? ? :**
+**F：???:**
 ...So beautiful...
  
-**F：? ? ? :**
+**F：???:**
 Say, now that I've washed my hands,maybe it'd be all right if I held yours? 
  
 **Charlotte Corday:**
@@ -3540,13 +3540,13 @@ No, I think I'll pass on that, thanks.
 **Charlotte Corday:**
 We still don't even know each other's names, after all, so I think it's much too early for anything like hand-holding. 
  
-**F：? ? ? :**
+**F：???:**
 Ouch. Rejected with cold, hard logic. That's just sad. 
  
-**F：? ? ? :**
+**F：???:**
 Okay then, sounds like introductions are in order. 
  
-**F：? ? ? :**
+**F：???:**
 I'm Orion, the Tri-Star hunter. 
  
 **Fou:**
@@ -4696,10 +4696,10 @@ It takes forever to send, too. To give you an idea of the scale and difficulty, 
 **Goredolf:**
 Then, right when everything was looking abjectly hopeless...
  
-**I：? ? ? :**
+**I：???:**
 That's when I showed up and said: 
  
-**I：? ? ? :**
+**I：???:**
 “You look like you're in distress,o beautiful lady with the hidden eyes! ”
  
 ---
@@ -4707,7 +4707,7 @@ That's when I showed up and said:
 **Fujimaru 1:**
 Who're you!? 
  
-**I：? ? ? :**
+**I：???:**
 Ask, and you shall receive! My name is Bartholomew Roberts! 
  
 **Bartholomew:**
@@ -4722,13 +4722,13 @@ I'm single!!!
 **Fujimaru 2:**
 Th-that voice! That line! 
  
-**I：? ? ? :**
+**I：???:**
 Hehehe, I take it we've already met then. Perhaps there's a version of me there in Chaldea? 
  
-**I：? ? ? :**
+**I：???:**
 Still, I'm a firm believer in proper introductions,so don't mind me if I do just that! 
  
-**I：? ? ? :**
+**I：???:**
 My name is Bartholomew Robeeerts!! 
  
 **Bartholomew:**
@@ -5653,7 +5653,7 @@ Wh-what in the world IS this material? Is there some trick to how you make it?
 **G：Hairetikós:**
 No, we just&ndash;
  
-**A：? ? ? :**
+**A：???:**
 Heeey! I hunted a Demonic Beast! 
  
 **G：Hairetikós:**
@@ -6477,31 +6477,31 @@ Gah! Wh-what just happened!?
 **Goredolf:**
 Eee! Please tell me these bloody chunks that look disturbingly like crushed tomatoes aren't mine! 
  
-**F：? ? ? :**
+**F：???:**
 Don't worry. I got the beast. 
  
 **Goredolf:**
 O-oh, good. Thank...Thank you? 
  
-**F：? ? ? :**
+**F：???:**
 You and the kid would've ended up monster chow if I hadn't been here. Glad that didn't happen. 
  
 **Goredolf:**
 Er, yes, and I am quite grateful for that, believe me. But, um, I still don't know who you are. 
  
-**F：? ? ? :**
+**F：???:**
 Yeah, that's fair. But before I tell you that,I need to ask you something. 
  
 **Goredolf:**
 Wh-what!? What is it!? And did you really have to point that surprisingly sharp-looking stick at me first!? 
  
-**F：? ? ? :**
+**F：???:**
 I ask of you. Are you my Master!? 
  
 **Goredolf:**
 Uh, no? 
  
-**F：? ? ? :**
+**F：???:**
 ...
  
 ---
@@ -6512,13 +6512,13 @@ Uh, no?
 ---
 
  
-**F：? ? ? :**
+**F：???:**
 ......
  
-**F：? ? ? :**
+**F：???:**
 ...Gotcha. O-okay then...I'll just be on my way...
  
-**F：? ? ? :**
+**F：???:**
 Sorry to bother you...
  
 ---
@@ -6529,10 +6529,10 @@ Whoa, whoa, whoa! Wait up!
 ---
 
  
-**F：? ? ? :**
+**F：???:**
 No! I'm outta here! 
  
-**F：? ? ? :**
+**F：???:**
 I messed up the one line that no Servant should ever, ever mess up! There's nothing left for me to live for! 
  
 ---
@@ -6540,13 +6540,13 @@ I messed up the one line that no Servant should ever, ever mess up! There's noth
 **Fujimaru 1:**
 Wait! Take it easy! Can't we talk about this!? 
  
-**F：? ? ? :**
+**F：???:**
 Forget it! 
  
 **Mash:**
 It sounds like you're a Servant, is that right!? Well look! There's a Master right here! 
  
-**F：? ? ? :**
+**F：???:**
 ...Wait. Really? YOU'RE the Master!? 
  
 
@@ -6555,7 +6555,7 @@ It sounds like you're a Servant, is that right!? Well look! There's a Master rig
 **Fujimaru 2:**
 Me! I'm a Master! It's me! 
  
-**F：? ? ? :**
+**F：???:**
 ...Huh? YOU'RE the Master!? 
  
 
@@ -6565,16 +6565,16 @@ Me! I'm a Master! It's me!
 **Mash:**
 Yes, that's right. Now, could you please tell us who you are!? 
  
-**F：? ? ? :**
+**F：???:**
 Y-yeah, okay. 
  
-**F：? ? ? :**
+**F：???:**
 Um...Well...
  
 **Goredolf:**
 Aah! Now there's something behind you! 
  
-**F：? ? ? :**
+**F：???:**
 Grrr yourself! Shut up already, you dumb things! 
  
 **Mash:**
@@ -6594,10 +6594,10 @@ Wait a sec...Are you Heracles Lily!?
 ---
 
  
-**F：? ? ? :**
+**F：???:**
 That has to be one of the last things I ever thought I'd hear a Master say! And no, I'm nowhere near as big a deal as that! 
  
-**F：? ? ? :**
+**F：???:**
 My name's Mandricardo! 
  
 **Mandricardo:**
@@ -7011,7 +7011,7 @@ I think I press here first,then make sure it's turned on...
 Scanning...Scanning...
  
 **P. A. System:**
-Theos Klironomia allotments remaining: fifty-three. Target capacity: ? ? ? 
+Theos Klironomia allotments remaining: fifty-three. Target capacity: ???
  
 **P. A. System:**
 Error: non-Olympian detected. 
@@ -10173,28 +10173,28 @@ You're not gonna stop me from killing Chaldea anymore, right?
 **Caenis:**
 Well? Say something, dammit! You're not gonna tell me to let 'em go again or some crap like tha&ndash;
  
-**D：? ? ? :**
+**D：???:**
 Try to tame your mindless bloodlust for once, Caenis. 
  
-**D：? ? ? :**
+**D：???:**
 We are gods, and so our Master deserves far more respect than that. 
  
-**E：? ? ? :**
+**E：???:**
 My brother is right. 
  
-**E：? ? ? :**
+**E：???:**
 You're like a stray dog baring its fangs at the slightest provocation. It's pathetic, really. 
  
 **Caenis:**
 I wasn't asking you, you little brats. Just keep running around your Master like a couple of sad puppies and don't stick your nose where it doesn't belong. 
  
-**D：? ? ? :**
+**D：???:**
 ...Well, well. 
  
-**D：? ? ? :**
+**D：???:**
 I never expected to hear that sort of thing from a mongrel just barely capable of following simple instructions. 
  
-**E：? ? ? :**
+**E：???:**
 Don't bother, Brother. It's not as though she can do anything more. 
  
 **Caenis:**
@@ -10227,7 +10227,7 @@ Or is this your way of saying you wish to come to Olympus in their stead?
 **Caenis:**
 ...Tch, like hell I'd ever set foot in that creepy old city. All those smiles everywhere you look make me sick. 
  
-**D：? ? ? :**
+**D：???:**
 I'm sure. Olympus is a grand and holy city. A savage like you could never hope to understand its utopian glory. 
  
 **Caenis:**
@@ -10257,10 +10257,10 @@ Understood.
 **Kirschtaria:**
 ...
  
-**E：? ? ? :**
+**E：???:**
 You really are quite dense, aren't you? I know it must be difficult for you, but do try to refrain from asking Lord Kirschtaria to spell out the blatantly obvious to you. 
  
-**D：? ? ? :**
+**D：???:**
 Indeed. Lord Kirschtaria knows full well what he's doing. I take it we're here just to observe then, Lord Kirschtaria? 
  
 **Kirschtaria:**
@@ -10275,10 +10275,10 @@ I trust that's all right with you, Odysseus?
 **Odysseus:**
 ...It is. Your consideration is unnecessary, but appreciated. All you lot need do is sit back and wait. 
  
-**D：? ? ? :**
+**D：???:**
 Very well then. I look forward to seeing what you are capable of, Odysseus. 
  
-**E：? ? ? :**
+**E：???:**
 Agreed. Come, Brother, let's be on our way. 
  
 **Caenis:**
@@ -14643,13 +14643,13 @@ However, we understand that we cannot all remain anonymous and still ask for you
 **Archer:**
 So one of us will need to reveal their True Name. 
  
-**E：? ? ? :**
+**E：???:**
 I guess that leaves me then. 
  
-**E：? ? ? :**
+**E：???:**
 After all, if Lord Jason is with them, it won't be much of a secret that I was here, too. 
  
-**E：? ? ? :**
+**E：???:**
 I'm Medea, student of the goddess Hecate. 
  
 **???:**
@@ -16156,19 +16156,19 @@ Don't you talk down to us, mage. Who do you think you are, floating up there lik
 **Jason:**
 The only people with the right to look down on commoners are those born to be kings! Like me! 
  
-**G：? ? ? :**
+**G：???:**
 Silence, Jason. You have no business lecturing Lord Kirschtaria about anything. 
  
-**H：? ? ? :**
+**H：???:**
 Right you are, Brother. I'm embarrassed just looking at him. 
  
-**H：? ? ? :**
+**H：???:**
 A hopeless incompetent like you who was gifted with the blessings of the gods and the Argo, yet STILL failed spectacularly, doesn't even deserve to be in the same room as Lord Kirschtaria. 
  
-**H：? ? ? :**
+**H：???:**
 Lord Kirschtaria is a valiant hero who formed an alliance with Zeus the king of the gods himself despite being human. 
  
-**H：? ? ? :**
+**H：???:**
 He was born far more fit to rule the human world as a king than a loser like you could even dream of! 
  
 **Jason:**
@@ -16539,10 +16539,10 @@ She's looking at me sprawled out and helpless,and she's mocking me. Cursing me. 
 **Mash:**
 Huh? That back...
  
-**H：? ? ? :**
+**H：???:**
 ...Tch. I don't have time for this. 
  
-**H：? ? ? :**
+**H：???:**
 This wasn't on my schedule at all. But that's life for you. 
  
 **Kirschtaria:**
@@ -17530,7 +17530,7 @@ I think this might get you in trouble...
 **Jason:**
 Hahaha, what the goddess doesn't know won't hurt her, Corday. 
  
-**D：? ? ? :**
+**D：???:**
 I sense wrongdoing afoot! 
  
 ---
@@ -18640,10 +18640,10 @@ Hey, you think you're gonna be okay, Paris?
 **Paris:**
 No, I don't! Waaah! I only just woke up! Why is this happening!? 
  
-**B：? ? ? :**
+**B：???:**
 I've synced up with this Lostbelt, and I just finished downloading information about it! 
  
-**B：? ? ? :**
+**B：???:**
 Those guys are Atlantis border guards, and they're not looking to take you alive, so be careful! 
  
 **Paris:**
@@ -18694,16 +18694,16 @@ Waaah! Save me, Brotheeer!
 **Paris:**
 ......H-huh? 
  
-**E：? ? ? :**
+**E：???:**
 Damn. Even after becoming a Servant you're still just a kid. 
  
 **Paris:**
 It...it can't be...
  
-**E：? ? ? :**
+**E：???:**
 What's with the look? I'm here to rescue you, you know. 
  
-**E：? ? ? :**
+**E：???:**
 Go on, find somewhere to hide. I'll take care of these guys. 
  
 **Paris:**
@@ -23234,10 +23234,10 @@ Bring it on!!!
 **Orion:**
 ...There! 
  
-**B：? ? ? :**
+**B：???:**
 AAARRR...ghhhhhh...
  
-**B：? ? ? :**
+**B：???:**
 You'll paaaaaay...for thaaaaaat...
  
 **Orion:**
@@ -28589,7 +28589,7 @@ But as you guys can see, Achilles the hero is alive and well, wounded heel be da
 **Achilles:**
 Now come on, see if you can take me! 
  
-**C：? ? ? :**
+**C：???:**
 Oho. In that case, I suppose I'd better strike through your heart and take your head from your shoulders. Just to be sure. 
  
 **Achilles:**
@@ -28751,7 +28751,7 @@ And none of us have any combat value at all!
 Speak for yourself! I don't know about you,but I think I have incredible value! 
  
 **Atlantis Border Guard:**
-? ? ? 
+???
  
 **Atlantis Border Guard:**
 ...Oh, whatever. Just kill them all! 
@@ -30291,13 +30291,13 @@ You!
 **Paris:**
 I-it's you! 
  
-**G：? ? ? :**
+**G：???:**
 ...So, you're Fujimaru. 
  
-**G：? ? ? :**
+**G：???:**
 And you're Mandricardo, Paris,Bartholomew, and Mash Kyrielight. 
  
-**G：? ? ? :**
+**G：???:**
 I am Odysseus. 
  
 **Odysseus:**
@@ -30948,7 +30948,7 @@ Wipe that dumbfounded look off your face! Of course I'm alive!
 ---
 
 **Fujimaru 2:**
-You're alive!!!? ? ? 
+You're alive!!!???
  
 **Jason:**
 Believe me, I'm as surprised as you are! It was way, WAY too close for comfort, but yes, I'm still alive! 

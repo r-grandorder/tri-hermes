@@ -89,13 +89,13 @@
 
 **--SECTION BREAK--**
 
-**A：? ? ? :**
+**A：???:**
 &mdash;I woke up at the same time again today. 
  
-**A：? ? ? :**
+**A：???:**
 I checked my temperature. I checked my five senses. I said my name out loud, so I could understand it objectively. 
  
-**A：? ? ? :**
+**A：???:**
 Mash Kyrielight. That was the name they gave me, a human being. 
  
 **Dr. Roman:**
@@ -951,13 +951,13 @@ All procedures cleared. Grand Order, commencing operation.
 **Sanzang:**
 So there you have it. Thank you for everything, fellows of the Round Table. 
  
-**E：? ? ? :**
+**E：???:**
 ...
  
-**F：? ? ? :**
+**F：???:**
 ...
  
-**G：? ? ? :**
+**G：???:**
 ...
  
 **Sanzang:**
@@ -966,7 +966,7 @@ Huh? Why is everyone looking so serious all of a sudden? Did I say something wro
 **Sanzang:**
 All I said was, “I'm getting bored of this town, so I'm taking my leave,” right? 
  
-**H：? ? ? :**
+**H：???:**
 ...Of course. In other words, Xuanzang Sanzang. You just announced that you were breaking away from us. 
  
 **Sanzang:**
@@ -975,16 +975,16 @@ Why does it have to be like that? I have no intention of becoming your enemy.
 **Sanzang:**
 I mean, I only meant to make a brief stop here. You see, I'm on my way back from Tianzhu and I have to get home. 
  
-**H：? ? ? :**
+**H：???:**
 And what I am saying is that we cannot believe that, Xuanzang Sanzang. 
  
-**H：? ? ? :**
+**H：???:**
 You are already a Servant. Meaning there's no point for you to repeat actions taken when you were alive. 
  
-**H：? ? ? :**
+**H：???:**
 You have no reason nor responsibility to go back home. In fact, your home doesn't even exist in this world. 
  
-**H：? ? ? :**
+**H：???:**
 So, please enlighten me, where exactly are you going? 
  
 **Sanzang:**
@@ -999,10 +999,10 @@ Yes, I do find this city amazing. It's peaceful, prosperous, beautiful, and no o
 **Sanzang:**
 I'm sure that this is what people mean when they speak of utopias. 
  
-**E：? ? ? :**
+**E：???:**
 Thank you very much. It makes us proud to hear you say that. 
  
-**E：? ? ? :**
+**E：???:**
 For that very reason, Lady Sanzang, I must ask you: is staying in this castle not an option? 
  
 **Sanzang:**
@@ -1023,13 +1023,13 @@ Now, then, thank you for everything you've done for me! Bye-bye! Ciao! Zaijian!
 **Gawain:**
 That woman was truly like the sun. Her presence alone lit up the whole place. 
  
-**G：? ? ? :**
+**G：???:**
 Really? I actually feel relieved. Never liked her. 
  
-**G：? ? ? :**
+**G：???:**
 So whatcha gonna do, Agravain? You know no one is supposed to leave the castle without Father's approval...
  
-**G：? ? ? :**
+**G：???:**
 Isn't that one of the rules of this Round Table? Besides, she's a pain in the ass. 
  
 **Agravain:**
@@ -1452,7 +1452,7 @@ Hit them with the flats of your blades!
  
 **--BATTLE--**
  
-**B：? ? ? :**
+**B：???:**
 Ugh! My mask...
  
 ---
@@ -1460,7 +1460,7 @@ Ugh! My mask...
 **Fujimaru 1:**
 A Servant? 
  
-**B：? ? ? :**
+**B：???:**
 ...What? Don't tell me you're a Master!? 
  
 
@@ -1469,7 +1469,7 @@ A Servant?
 **Fujimaru 2:**
 Oh, it's just Hassan! 
  
-**B：? ? ? :**
+**B：???:**
 What kind of reaction is that!? Don't be so casual with our names, moron! 
  
 
@@ -1601,13 +1601,13 @@ Hmm, did they put her to sleep? Hey! Smack, smack. Hey!
 **Da Vinci:**
 Wakey wakey! A one-in-a-million genius is standing right in front of you! 
  
-**E：? ? ? :**
+**E：???:**
 ...Mmm...No, Pharaoh, please don't pull my hair like that...
  
-**E：? ? ? :**
+**E：???:**
 That may look like an ear, but it's a magical catalyst evoking Horus...No, not bed head either...
  
-**E：? ? ? :**
+**E：???:**
 &mdash;Huh!? 
  
 ---
@@ -1624,7 +1624,7 @@ Good evening.
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 &mdash;
  
 **Da Vinci:**
@@ -1633,7 +1633,7 @@ Good evening.
 **Mash:**
 (Right, she's frozen stiff. )
  
-**E：? ? ? :**
+**E：???:**
 &mdash;Insolent fools! Who are you? Do you know who I am? How dare you treat the pharaoh Nitocris thusly! 
  
 **Mash:**
@@ -1754,25 +1754,25 @@ Go, sphinx! Bestow upon them the judgment of the great Sun King!
 **Mash:**
 Sphinx!? Fighting a divine beast in our current situation is too harsh! 
  
-**F：? ? ? :**
+**F：???:**
 No, please raise your head. No divine beast could shatter your shield. 
  
-**F：? ? ? :**
+**F：???:**
 Above all, the justice you stand for is right. You will easily overcome a battle born of a misunderstanding such as this. 
  
 **Nitocris:**
 Who are you!? 
  
-**F：? ? ? :**
+**F：???:**
 We have yet to forge a bond for you to know my name. You may consider me the same as an enemy for now. 
  
-**F：? ? ? :**
+**F：???:**
 You must be the one called Fujimaru, yes? I am Lucius, a Servant without a Master. 
  
-**F：? ? ? :**
+**F：???:**
 I just couldn't help but interrupt. You may think I'm meddling, but please forgive me for that. 
  
-**F：? ? ? :**
+**F：???:**
 If you don't mind, I can lend some assistance. My sword is yours, make use of me as you will. 
  
 **Nitocris:**
@@ -3936,13 +3936,13 @@ What reason was there for it? Or was he just a homicidal maniac?
 **Da Vinci:**
 We can speculate later. Fujimaru, our turn's come up. 
  
-**C：? ? ? :**
+**C：???:**
 ...Curse you...Curse you...This resentment, I cannot die, even in death! 
  
-**C：? ? ? :**
+**C：???:**
 Such inexperience&mdash;To misread the cruelty of the enemy! 
  
-**C：? ? ? :**
+**C：???:**
 I cannot forgive them&mdash;I cannot! This regret, who can dispel such regret&mdash;!? 
  
 **Mash:**
@@ -5213,7 +5213,7 @@ Both likely wandered in by the call of the Holy Grail. They are not the kind of 
 **Agravain:**
 I see. Thank you for the clarification. Sir Tristan, the punishment for Sir Gawain is&mdash;
  
-**E：? ? ? :**
+**E：???:**
 &mdash;What's this ruckus? Have you started a war council for the desert invasion, Agravain? 
  
 **Gawain:**
@@ -5988,7 +5988,7 @@ I would win, and win beautifully. In fact, if I don't, we can't beat the Knights
 ---
 
 **Fujimaru 1:**
-? ? ? 
+???
 
 ---
 
@@ -6726,16 +6726,16 @@ Beddy? Well, I do have a long name...Very well!
  
 **--BATTLE--**
  
-**E：? ? ? :**
+**E：???:**
 Ugh! It is I who falls first!? I cannot believe this! 
  
 **Mash:**
 Assassin has been neutralized! We landed some really good blows, so he won't move anytime soon! 
  
-**E：? ? ? :**
+**E：???:**
 Gah, ugh! It feels as though I've been struck in the stomach with a log! 
  
-**E：? ? ? :**
+**E：???:**
 To think that I, Hassan of the Cursed Arm, could be cornered thusly! I applaud you. You must be a high-ranking Knight of the Round. 
  
 **Bedivere:**
@@ -6750,10 +6750,10 @@ But, even if every bone in my body shatters, I shall not stay down! What is the 
 **Rushd:**
 ...
  
-**H：? ? ? :**
+**H：???:**
 Come on...A normal being could not stand with every bone broken. Even your gods do not wish for such devotion. 
  
-**H：? ? ? :**
+**H：???:**
 The match is over. I understand your frustration, but why don't you admit it, Lord Cursed Arm? 
  
 **Cursed Arm:**
@@ -9632,7 +9632,7 @@ Huh? That's the Servant you've been talking about!?
 **Dr. Roman:**
 Nonsense...Are you saying that despite her top-level Spirit Origin, she was screaming from an animal attack!? 
  
-**H：? ? ? :**
+**H：???:**
 ![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;! 
  
 **Hundred Personas:**
@@ -10586,13 +10586,13 @@ Fouuu.
 **Mash:**
 This...This is no ordinary prison. There's a...girl? She's chained to the wall over there. 
  
-**E：? ? ? :**
+**E：???:**
 ...Who are you? ...You haven't given up yet? 
  
-**E：? ? ? :**
+**E：???:**
 No matter what you may do to me, I won't tell you anything. So...hurry up and slit my throat. 
  
-**E：? ? ? :**
+**E：???:**
 Let's stop wasting both of our time...After all, pain or poison can't kill me. 
  
 **Cursed Arm:**
@@ -10818,16 +10818,16 @@ Even if Hundred Personas is capable of multiplying herself, the burden is too he
 **Dr. Roman:**
 Let's join her right away, and relocate somewhere where we can rest, before that Knight of the Round Table shows up. 
  
-**H：? ? ? :**
+**H：???:**
 Nonsense. You should just rest here. 
  
 **Cursed Arm:**
 !!! 
  
-**H：? ? ? :**
+**H：???:**
 Hello, everyone. And welcome to my torture chamber. 
  
-**H：? ? ? :**
+**H：???:**
 Even thieves are still guests from far away. Greetings, Master of Chaldea. 
  
 **Cursed Arm:**
@@ -13769,7 +13769,7 @@ Are you serious? Are you telling me there's someone who can go toe-to-toe with m
 **Villager:**
 A Knight of the Round Table!? He came all the way here to attack a small village like this!? 
  
-**C：? ? ? :**
+**C：???:**
 That's right. But you got one thing wrong. 
  
 **Lancelot:**
@@ -13802,10 +13802,10 @@ O aurora, may the lake's surface be reflected upon this blade...Arondight Overlo
 **Arash:**
 What...is...this...Ugghhhh! 
  
-**B：? ? ? :**
+**B：???:**
 The great bowman is no longer in this world.... Now I am sad. 
  
-**B：? ? ? :**
+**B：???:**
 A chance to battle against such a skilled marksman,a true legend. Yet the fight ended with a sneak attack. 
  
 **Tristan:**
@@ -14195,10 +14195,10 @@ Right, we can't just abandon them! They're taking shelter in the cave...Come on,
 ---
 
  
-**F：? ? ? :**
+**F：???:**
 It's no use. We can't escape...and we can't save them either. 
  
-**F：? ? ? :**
+**F：???:**
 We're all going to die here, no matter how you look at it. I mean, we knew that from the beginning...That this would happen if the other side decided to get serious...
  
 **Cursed Arm:**
@@ -15227,13 +15227,13 @@ I hope he'll stop and listen to us...
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 I've caught up to you. This is the third time I'm stirring up trouble with you. 
  
-**H：? ? ? :**
+**H：???:**
 The first was when you were chased from the Holy City. The second was at the village of the mountain people. 
  
-**H：? ? ? :**
+**H：???:**
 Neither time was I granted my wish of facing the rebels' leader.... But that all changes now. 
  
 **Lancelot:**
@@ -15387,7 +15387,7 @@ Give it up. This is Ozymandias's desert. No mountain people will come to your ai
 **Lancelot:**
 Fleeing to the desert came back around on you. We can speak of it as we return...
  
-**C：? ? ? :**
+**C：???:**
 What are you doing, you scoundrels!? Do you wreak havoc even knowing that this is the Sun King's most cherished land!? 
  
 **Lancelot:**
@@ -15398,13 +15398,13 @@ What's going on!?
  
 **--ARROW--**
  
-**C：? ? ? :**
+**C：???:**
 My name is Nitocris! I am the pharaoh who has been assigned this Atlas Institute by the Sun King! 
  
-**C：? ? ? :**
+**C：???:**
 Fear me! Worship me! If you do, I shall at least spare your lives! 
  
-**C：? ? ? :**
+**C：???:**
 ...Or to put it bluntly, leave or surrender! As you can see, I am very powerful! 
  
 ---
@@ -15466,7 +15466,7 @@ Yes! Everyone, to the other side of the sand dune! Charge into the sphinx herd!
 **Sanzang:**
 Oh, we can ignore that giant? Really? Okay! Xiexie, strange lady! 
  
-**C：? ? ? :**
+**C：???:**
 This is no time for manners! Quit blabbering and RUN! Seriously, you're so much work! 
  
 **Lancelot:**
@@ -15481,7 +15481,7 @@ Up ahead is a sphinx nest! Before we can go after the rebels, we'll be in danger
 **Lancelot:**
 Do not panic! All units, square formation! We will annihilate the sphinxes first! 
  
-**B：? ? ? :**
+**B：???:**
 Guooooooooooooooo! 
  
 **Tawara Touta:**
@@ -15546,10 +15546,10 @@ We fell pretty far...But I didn't think there'd be that much oxygen down here.
 **Fou:**
 Fou. 
  
-**D：? ? ? :**
+**D：???:**
 Excellent. Looks like everyone was able to escape. Glad no one was hurt. 
  
-**D：? ? ? :**
+**D：???:**
 I'll turn on the lights, then. You may feel a bit dizzy, but that's part of the charm. 
  
 ---
@@ -15566,7 +15566,7 @@ I'll turn on the lights, then. You may feel a bit dizzy, but that's part of the 
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 Hello there, everyone. And welcome to the wondrous mysteries of the Atlas Institute! 
  
 **Holmes:**
@@ -17655,7 +17655,7 @@ Loafer! Good-for-nothing! Loser! Although this is something, it almost doesn't s
 **Lancelot:**
 I told you, please stop calling me that...
  
-**C：? ? ? :**
+**C：???:**
 Well well, just when I was wondering what all the ruckus was! I see you've finally arrived! Sure kept me waiting! 
  
 **Mash:**
@@ -18791,16 +18791,16 @@ With this grand temple he can probably do the same thing as the Holy City.
 **Mash:**
 So King Ozymandias doesn't have to fight the Lion King...Actually he's going to avoid the confrontation? 
  
-**G：? ? ? :**
+**G：???:**
 How disrespecful, Mash. Pharaoh Ozymandias will not run. 
  
-**G：? ? ? :**
+**G：???:**
 The likes of the Lion King are of no concern to us. Light of Judgment? What a joke! 
  
-**G：? ? ? :**
+**G：???:**
 A stream of light like that is powerless against my mirror! 
  
-**G：? ? ? :**
+**G：???:**
 No matter how many times the Lion King throws his sacred lance at us, I will be the very shield that protects this temple! 
  
 **Mash:**
@@ -20746,7 +20746,7 @@ Sir Gawain is marching out! This is the end for our enemy, there's no need for u
 **Gawain:**
 ...
  
-**D：? ? ? :**
+**D：???:**
 Thou shalt not leave. The sandstorm has shrouded thy followers, and severed thy escape. 
  
 **Gawain:**
@@ -21207,7 +21207,7 @@ It appeared out of nowhere. There has to be a way to make it disappear too!
 **Dr. Roman:**
 Everyone, hurry and look around you! Do you see a way in, or maybe a generator!? 
  
-**E：? ? ? :**
+**E：???:**
 Hah, there's no such thing...! 
  
 **Bedivere:**
@@ -21994,7 +21994,7 @@ And it seems my intuition was right. He's being atrocious!
 **Bedivere:**
 We have no time. If it comes to that, we...
  
-**D：? ? ? :**
+**D：???:**
 Wrong! What you call tragedy, we call it comedy! 
  
 **Tristan:**
@@ -22369,13 +22369,13 @@ The heathens...By rights, I shouldn't care, but...
 **Tristan:**
 What was he saying, about skills being alive and such...? ...Haha. That kind of dedication...That's not fair...
  
-**H：? ? ? ? ? :**
+**H：???? ? :**
 ...Is that me reflected in the window...? 
  
-**H：? ? ? ? ? :**
+**H：???? ? :**
 Thus, even viewing the villainous knight was horrifying. He was reduced to a monster...
  
-**H：? ? ? ? ? :**
+**H：???? ? :**
 ...Heh. Since coming to this land, there has been nothing but misery. And yet, in the end, it seems I saw something amusing...
  
 **--ARROW--**
@@ -23034,7 +23034,7 @@ That's...
 ---
 
  
-**A：? ? ? :**
+**A：???:**
 That's not right! It isn't right! 
  
 **Bedivere:**

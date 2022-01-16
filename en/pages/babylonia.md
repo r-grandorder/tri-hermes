@@ -624,109 +624,109 @@ W-we will sacrifice everyone up to our second-class citizens! You can have them 
 **Sumerian:**
 So please, leave us...Leave us alone, ah! Eeeeeeyaaaaaaggghh...!!! 
  
-**B：? ? ? :**
+**B：???:**
 Lowly creatures. I am utterly disgusted with you. We have said before that not a single human shall survive. 
  
-**B：? ? ? :**
+**B：???:**
 Even monkeys are smarter than these humans. Do they really think they're worthy as food? At best, they are fit to fertilize the land. 
  
-**C：? ? ? :**
+**C：???:**
 That's still no reason to crush them to death with that serpent body of yours. After all, we're in our assembly hall. 
  
-**C：? ? ? :**
+**C：???:**
 Isn't it good manners to dispose of the prey you capture in your own lair? 
  
-**B：? ? ? :**
+**B：???:**
 What, you don't like snakes? I thought you would enjoy playing with them like that. 
  
-**C：? ? ? :**
+**C：???:**
 Weeell...I'm really more for beating my enemies to a pulp in a hand-to-hand brawl, yes! Buuut...
  
-**C：? ? ? :**
+**C：???:**
 Gracias, pero noooooo! The weight class difference bothers meeeeee! Your way of killing is too sloppyyyyyy! 
  
-**B：? ? ? :**
+**B：???:**
 I thought I was handling them with care. Humans are just too fragile. 
  
-**B：? ? ? :**
+**B：???:**
 Eshnunna, Sippar, Kish, and Kazallu. I have swallowed up most of the northern cities. 
  
-**B：? ? ? :**
+**B：???:**
 It is only a matter of time before Nippur falls. It won't even take a month to break through that damned Northern Wall. 
  
-**D：? ? ? :**
+**D：???:**
 Well, well. Your ego sure is as big as your body. After working on it for half a year, you still need another month? 
  
-**D：? ? ? :**
+**D：???:**
 You used enough Demonic Beasts to fill the land, yet you only managed to neutralize the north? 
  
-**D：? ? ? :**
+**D：???:**
 Will you really be able to crush that front in another month? You don't need our help? 
  
-**B：? ? ? :**
+**B：???:**
 I do not. We have sworn not to interfere with each other. I do not require your help. In the first place...
  
-**B：? ? ? :**
+**B：???:**
 I find massacring humans all at once to be quite wasteful. 
  
-**B：? ? ? :**
+**B：???:**
 Thus, I have ordered the Demonic Beasts to do whatever they desire to the humans they capture. 
  
-**B：? ? ? :**
+**B：???:**
 They may drag them to their den and slowly kill them. Or they may eat them alive. 
  
-**B：? ? ? :**
+**B：???:**
 Or perhaps the humans can be used as raw materials for my temple. 
  
-**D：? ? ? :**
+**D：???:**
 ...Raw materials for your temple? No wonder it smells even worse than the last time I came here. 
  
-**D：? ? ? :**
+**D：???:**
 The stench is so strong, it makes me nauseous. A pity, since death is so very pure. 
  
-**D：? ? ? :**
+**D：???:**
 Isn't it the same with you? Wasn't death an everyday thing in your mythos? 
  
-**C：? ? ? :**
+**C：???:**
 Exaaactly! Keeping the beaten alive for later is unthiiinkable! 
  
-**C：? ? ? :**
+**C：???:**
 That being said, this is the result of the survival of the fittest. I won't condemn her principles. 
  
-**C：? ? ? :**
+**C：???:**
 ...After all, I'd do the same thing. In the end, I meticulously snuff them out, one by one. 
  
-**C：? ? ? :**
+**C：???:**
 Isn't that what this is? That's why we were summoned. 
  
-**C：? ? ? :**
+**C：???:**
 The goddess who slays this era's king and obtains the Holy Grail will become the ruler of this world. 
  
-**C：? ? ? :**
+**C：???:**
 That's what we, the Three Goddess Alliance, swore, right? 
  
-**C：? ? ? :**
+**C：???:**
 Or, what? Have you changed your mind? Do you feel pity for slaughtering humans, as foolish as they are? 
  
-**C：? ? ? :**
+**C：???:**
 As you're the one and only legitimate surviving Sumerian goddess of this era, are you losing your taste for slaughter? 
  
-**D：? ? ? :**
+**D：???:**
 ...Nonsense. This is exactly what I want. 
  
-**D：? ? ? :**
+**D：???:**
 Uruk has been my land from the very beginning. I just let the humans borrow it on a whim. 
  
-**D：? ? ? :**
+**D：???:**
 I feel neither mercy nor obligation. As a pillar for the Three Goddess Alliance, I will erase humans from the face of this land. 
  
-**B：? ? ? :**
+**B：???:**
 Heh...Abandoned even by a native goddess. The humans of this era truly are inferior wretches not worth saving. 
  
 **E：Boy's Voice:**
 Good. It sounds like your wills are unwavering. Mother will be relieved to know that the alliance's oath is eternal. 
  
-**B：? ? ? :**
+**B：???:**
 ...Is that you? When did you return? How many times must I tell you to go to Mother when you've returned? 
  
 **E：Boy's Voice:**
@@ -744,16 +744,16 @@ More importantly, they're the only beings on Earth that possess the Authority ne
 **E：Boy's Voice:**
 It's entirely possible they joined forces with you because they want the Holy Grail and are planning to betray you. 
  
-**D：? ? ? :**
+**D：???:**
 They wouldn't do that. The alliance of goddesses is not so fickle. 
  
-**D：? ? ? :**
+**D：???:**
 An attack upon another goddess will turn into divine punishment that rebounds upon the attacker. She who raises her hand would be destroyed. 
  
-**D：? ? ? :**
+**D：???:**
 Therefore the only attack we have is to obtain the Holy Grail before the others. 
  
-**D：? ? ? :**
+**D：???:**
 That is the game we play. 
  
 **E：Boy's Voice:**
@@ -1526,7 +1526,7 @@ Oh, and was it broken? Did it break? Did I do it again?
 **???:**
 Why don't you say anything!? Staying silent is sooo cruel! 
  
-**A：? ? ? :**
+**A：???:**
 Nosssssssss! 
  
 **???:**
@@ -1693,10 +1693,10 @@ This city may be in ruins, but humans once lived here. It'd be best to preserve 
  
 **--ARROW--**
  
-**C：? ? ? :**
+**C：???:**
 Sorry for stealing the show. But it's best to keep the collateral damage to a minimum. 
  
-**C：? ? ? :**
+**C：???:**
 I know this place is a ruin now, but people may want to come back one day, you know? 
  
 **Mash:**
@@ -2801,19 +2801,19 @@ Fou spun and slammed into him at full speed!?
 **???:**
 Dofooou!? 
  
-**E：? ? ? :**
+**E：???:**
 What are you doing, you feral beast!? Have you forgotten the years I took care of you!? 
  
 **Fou:**
 Fou, fooou! 
  
-**E：? ? ? :**
+**E：???:**
 I never should've taken you in, you wicked beast! Cath Palug! Take that, you cath-tastrophe! 
  
-**E：? ? ? :**
+**E：???:**
 How many busty women have you decieved with your cuteness!? You get all the ladies' attention just because you're fluffy! 
  
-**E：? ? ? :**
+**E：???:**
 I feel like an idiot for having to work so hard! Don't you feel bad for making me pull out all the stops!? 
  
 **Mash:**
@@ -3888,55 +3888,55 @@ Yes. Although all the maidens seem to be avoiding Merlin...
 **Mash:**
 So...We're still a ways away, but is that King Gilgamesh over there? 
  
-**C：? ? ? :**
+**C：???:**
 Don't make me repeat myself! The newer the information about the war, the better! Keep bringing me reports! 
  
-**C：? ? ? :**
+**C：???:**
 The harder we work, the less chance they'll have to attack! If you want to take it easy, keep fighting! 
  
 **Uruk Soldier:**
 Yes, sir! We've added three supply trains to bring more clay tablets from the secretary every hour! 
  
-**C：? ? ? :**
+**C：???:**
 Good. Next. Is this today's list of shipments? 
  
-**C：? ? ? :**
+**C：???:**
 ...The shipments from the city of Eresh are being delayed, eh...Did the Demonic Beasts set up a lair on the roads? 
  
-**C：? ? ? :**
+**C：???:**
 Send 20 men from the eastern barracks to clear the way. Temun can take command. It's his home. He knows it well. 
  
-**C：? ? ? :**
+**C：???:**
 Humph. Whose idiotic order was this!? Why aren't the Bašmu carcasses being sent to Eanna? 
  
-**C：? ? ? :**
+**C：???:**
 The researchers have nothing to do! This is the time to put their annoying little brains to work! 
  
 **Uruk Soldier:**
 Yes, sir! I'll send them over to the Tiamat research team right away! Here is the answer from Girsu. 
  
-**C：? ? ? :**
+**C：???:**
 ...! Curse that Temple Matron there in Girsu! I know there's still supplies stored in the temple of Bau! 
  
-**C：? ? ? :**
+**C：???:**
 Have them send everything to the front lines! 
  
-**C：? ? ? :**
+**C：???:**
 It'll be the end of the world if the wall breaks. Tell her food can't be taken to the underworld! 
  
-**C：? ? ? :**
+**C：???:**
 Is this the report from the astrologers? Good. They match what I observed. 
  
-**C：? ? ? :**
+**C：???:**
 The reading for the harvest season isn't bad. Give a lapis lazuli necklace to whoever is in charge. 
  
-**C：? ? ? :**
+**C：???:**
 But there's no time for them to rest! Have them read the report from the Eridu search team! 
  
-**C：? ? ? :**
+**C：???:**
 ...By the way, I heard that Tabado's daughter is giving birth. Send her a sacred prostitute to aid her, along with some healthy fruits. 
  
-**C：? ? ? :**
+**C：???:**
 And pull Tabado off the Northern Wall, and give him three days' rest. His grandson's face will give him courage. 
  
 **Ana:**
@@ -6876,22 +6876,22 @@ Fou, fooou...
  
 ## Section 5: Welcome to the Jungle 
  
-**G：? ? ? :**
+**G：???:**
 &mdash;on't go&mdash;
  
-**G：? ? ? :**
+**G：???:**
 &mdash;Don't go&mdash;
  
-**G：? ? ? :**
+**G：???:**
 &mdash;on't leave&mdash;
  
-**G：? ? ? :**
+**G：???:**
 &mdash;Don't leave me&mdash;
  
-**G：? ? ? :**
+**G：???:**
 &mdash;alone again&mdash;
  
-**G：? ? ? :**
+**G：???:**
 &mdash;Don't leave me again&mdash;
  
 ---
@@ -6903,19 +6903,19 @@ This is...?
 ---
 
  
-**G：? ? ? :**
+**G：???:**
 Come back...Come back...Once more to me...
  
-**G：? ? ? :**
+**G：???:**
 Once more...Just once more...
  
-**G：? ? ? :**
+**G：???:**
 No...No...
  
-**G：? ? ? :**
+**G：???:**
 Never again...Ever...
  
-**G：? ? ? :**
+**G：???:**
 ...love...me...again...
  
 ---
@@ -6927,16 +6927,16 @@ What is this...?
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 ...It is original sin. This is mankind's original sin. 
  
-**H：? ? ? :**
+**H：???:**
 There are different kinds of sin. To harm others. To deceive others. To envy others. To take the lives of others. 
  
-**H：? ? ? :**
+**H：???:**
 These are all evils that mankind holds. These are all toxins that affect only mankind. 
  
-**H：? ? ? :**
+**H：???:**
 However...This is the oldest evil of them all. The Original Sin II...the sin of parting from ■, and leaving paradise. 
  
 ---
@@ -6948,22 +6948,22 @@ Aah, but...
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 Life was born from the sea. The primeval sea, Nammu, the goddess of the beginning. 
  
-**H：? ? ? :**
+**H：???:**
 To mankind, the goddess is the sea itself. The roaring of the waves became a voice to expose your sins. 
  
-**H：? ? ? :**
+**H：???:**
 Never forget that. 
  
-**H：? ? ? :**
+**H：???:**
 That voice is your original sin. This name shall become your savior. 
  
-**H：? ? ? :**
+**H：???:**
 That name is&mdash;
  
-**G：? ? ? :**
+**G：???:**
 Aa, Aa...Aaaaaaaaaa&mdash;
  
 ---
@@ -7527,37 +7527,37 @@ According to the map, Ur is one kilometer south. That means we only have to endu
 **Merlin:**
 Yeah. I seriously hope we're done after that! And next time let's hire a guide or a camel! 
  
-**F：? ? ? :**
+**F：???:**
 Heh...What a commendable idea! You wimps from the plains won't last a day without a guide! 
  
-**F：? ? ? :**
+**F：???:**
 Next time you want to enter the jungle, give money to a local, and lower your head to the ground and say this: 
  
-**F：? ? ? :**
+**F：???:**
 “Buenas noches, señorita! Señor, señor, do you want some peyote? ”
  
 **Mash:**
 Master! I can't make it out, but something's there! It's moving at high speed above the trees! 
  
-**F：? ? ? :**
+**F：???:**
 Hahahaha! Hahahahahahahahaha! 
  
-**F：? ? ? :**
+**F：???:**
 Meowhahahahahaha! I'm not just something! I am&mdash;I am...Hmm. What am I? 
  
-**F：? ? ? :**
+**F：???:**
 Wait a minute. Asking meow for details puts meow into a tight spot...I know I'm a purretty girl, but...
  
-**F：? ? ? :**
+**F：???:**
 (Gasp) Oh no! While I was thinking I forgot where I put my booby (read: amusing) traps! 
  
-**F：? ? ? :**
+**F：???:**
 Tch! Curse you! You nerds should be ashamed of yourselves for challenging someone you've never met to a battle of wits! 
  
 **Merlin:**
 I got it! She's a dummy! 
  
-**F：? ? ? :**
+**F：???:**
 I'm not a bunny! Why does everybody think I'm a bunny!? 
  
 ---
@@ -7577,10 +7577,10 @@ Bwah!?
 **Dr. Roman:**
 What is this strange creature!? Did we just discover a new species!? 
  
-**F：? ? ? :**
+**F：???:**
 No! I am no one! You might call meow an avatar of the jungle! An embodiment of great warriors! 
  
-**F：? ? ? :**
+**F：???:**
 You can call meow Jaguar Warrior! Servant Jaguar Warrior makes an appearance! 
  
 **Jaguar Warrior:**
@@ -7805,16 +7805,16 @@ I felt the same way.
 **Mash:**
 But...It's true that I hurt her. She's suffering far more than I am, yet I...
  
-**E：? ? ? :**
+**E：???:**
 Hah...Hahahahahahahaha, hahahahaha! 
  
-**E：? ? ? :**
+**E：???:**
 No need to have your tail between your legs! I was scolded for killing sacrifices, 'cause it's too old-fashioned! 
  
-**E：? ? ? :**
+**E：???:**
 Any warriors who have failed the trial of strength are forced into hard labor at Eridu! 
  
-**E：? ? ? :**
+**E：???:**
 Cause, you know, even if I eat them, they're like, different from us! I only want fancy feasts, like the heart of a hero! 
  
 **Mash:**
@@ -8430,10 +8430,10 @@ Of course! Creating an inexhaustible number of blades and firing every single on
 **Enkidu:**
 That is the optimal way to fight with this body. In fact, he's the one who's imitating me...! 
  
-**B：? ? ? :**
+**B：???:**
 Well, isn't this a surprise. Surely I'm misremembering, no? 
  
-**B：? ? ? :**
+**B：???:**
 I recall a certain fool calling the new tactic I thought up, perfectly suited to a king as it was, the “ultimate waste of energy. ”
  
 **Mash:**
@@ -9040,13 +9040,13 @@ Doctor, Doctor!
 ---
 
  
-**F：? ? ? :**
+**F：???:**
 The living...It's the living. What are the living doing in the underworld...Why...
  
-**E：? ? ? :**
+**E：???:**
 Have you come to laugh...to seize...Have you come to flee...or to discard...
  
-**D：? ? ? :**
+**D：???:**
 Unforgivable...all are unforgivable...Warm breath, warm flesh...They're unnecessary...
  
 **???:**
@@ -9069,10 +9069,10 @@ Aughhhhhhh!
 **Fou:**
 Foooou! 
  
-**G：? ? ? :**
+**G：???:**
 ...Wait. O gallû spirits, this one yet lives. 
  
-**G：? ? ? :**
+**G：???:**
 Taking this soul will incur your master's wrath. Seal up the seven gates, and resume your guard of the soul cages. 
  
 ---
@@ -11719,19 +11719,19 @@ Where is this...I haven't disappeared yet...My body is fine. But my limbs...
 **Ushiwakamaru:**
 ...They're fused with the wall. I can neither flee nor die like this...
  
-**G：? ? ? :**
+**G：???:**
 ...? Forward? I just need to keep going forward? If I do, I can get outside? 
  
-**F：? ? ? :**
+**F：???:**
 That's right. When you leave the temple, there will be a lake. Use normal cedars, not the black ones, to guide your way. 
  
-**F：? ? ? :**
+**F：???:**
 What happens after that is none of my concern. But you should be able to survive for ten days or so if you stick around the lake. 
  
-**F：? ? ? :**
+**F：???:**
 You can head to the city and try to avoid the Demonic Beasts, or you can breathe your last there at the lake. Do what you like. 
  
-**G：? ? ? :**
+**G：???:**
 ...Yeah. Thanks, mister. If you'd like, please come see us. 
  
 **Ushiwakamaru:**
@@ -12972,16 +12972,16 @@ Not even a cute deer. Only a forest full of venomous snakes!
 **Ishtar:**
 I know I was the one who chose this place, but I'm really not sure why I did. 
  
-**F：? ? ? :**
+**F：???:**
 ...tar...I...sh...ta...r...
  
-**F：? ? ? :**
+**F：???:**
 Af...ter...all you...have done...Un...for...givable...
  
 **Ishtar:**
 Sorry? Who are you? 
  
-**F：? ? ? :**
+**F：???:**
 I...will...defeat...you...Now die...demon...
  
 **Mash:**
@@ -14194,13 +14194,13 @@ Quetzalcoatl is a winged serpent, right? Maybe she's just helping out Gorgon bec
 **Dr. Roman:**
 (...Ishtar isn't interested in the Three Goddess Alliance...? No, wait...This odd feeling, could it be...? )
  
-**H：? ? ? :**
+**H：???:**
 Hahahahahahahaha! Meowhahahahahahahahaha! I mew you'd come back to my jungle, my prey! 
  
-**H：? ? ? :**
+**H：???:**
 If Kuku returned to the jungle, then you guys wouldn't be far behind! That is common sense! 
  
-**H：? ? ? :**
+**H：???:**
 And ambushing prey on the flank is the jaguar's hunting style! Meow it's time to snack, hup! 
  
 **Mash:**
@@ -14388,7 +14388,7 @@ Let's have her guide us from Ur to Eridu. And she can tell us all about Quetzalc
 **Jaguar Warrior:**
 Leave it to me! To Eridu, right? I'll guide you at top speed! 
  
-**G：? ? ? :**
+**G：???:**
 Grrr. Won't. Let. You. Why. Did. You. Betray. Us. Jaguar Warrior! 
  
 **Dr. Roman:**
@@ -19775,13 +19775,13 @@ Well, you know...I can't just bring out something that doesn't belong to this er
 **Merlin:**
 Come come, no time to waste! Hold on tight! 
  
-**H：? ? ? :**
+**H：???:**
 Hahahahahahahahahahahaha! Time-out, folks! Keep your eyes on the road! 
  
-**H：? ? ? :**
+**H：???:**
 Hello, look ahead! About three kilometers ahead! Local delinquents are after you! 
  
-**H：? ? ? :**
+**H：???:**
 How do I know what's up several kilometers ahead? Because I'm watching all of you from the sky, meow! 
  
 **Mash:**
@@ -20678,7 +20678,7 @@ Merlin might've just killed us...
 
  
 **Quetzalcoatl:**
-SUUUIIIIICIIIIIDAAAAA!!!? ? ? 
+SUUUIIIIICIIIIIDAAAAA!!!???
  
 **Mash:**
 I just heard Quetzalcoatl scream many miles away in Babylon...
@@ -20732,7 +20732,7 @@ Things have gone exactly according to plan, yes! The axe was just a mere ticket 
 I'm just a courier who delivers things to their destination at the appointed time for&mdash;
  
 **Quetzalcoatl:**
-SUUUIIIIICIIIIIDAAAAA!!!? ? ? 
+SUUUIIIIICIIIIIDAAAAA!!!???
  
 **Jaguar Warrior:**
 Oh no! Kuku turned into fried chicken! And in Spanish, “suicida” means suicide! 
@@ -21662,13 +21662,13 @@ What's wrong, you gibbering mob!? Didn't the mouth of hell open up?
 **Benkei:**
 Why don't you all come at me at once!? Picking you off one at a time is unsatisfying! 
  
-**H：? ? ? :**
+**H：???:**
 Very courageous, Benkei. That's a lot of yelling for a coward. 
  
-**H：? ? ? :**
+**H：???:**
 Is your blood flowing fast? Or has your old sense of humor returned? 
  
-**H：? ? ? :**
+**H：???:**
 Either way, you're still a noise that should be silenced. 
  
 **Benkei:**
@@ -23028,10 +23028,10 @@ Urgguuuuugh...! Aaaaaaaaaaaaagh...!!!
 **Dr. Roman:**
 Another Spirit Origin detected. It's a Servant! But this is&mdash;
  
-**C：? ? ? :**
+**C：???:**
 That is correct. You lot stand no chance against me. 
  
-**C：? ? ? :**
+**C：???:**
 The Wandering Tales of Shana-oh, Act II...Usumidori: Steps of Heaven. 
  
 **Quetzalcoatl:**
@@ -26212,13 +26212,13 @@ As long as I am here, you will never touch Mother!
 **Ushiwakamaru:**
 I will tear you to bloody pieces! You can't stop all of my copies! 
  
-**D：? ? ? :**
+**D：???:**
 That is impossible. Your number is meaningless in front of the last ray of hope. 
  
-**D：? ? ? :**
+**D：???:**
 It is true the masses are ugly, however...
  
-**D：? ? ? :**
+**D：???:**
 How could you be the one to deny the only heroic deed? 
  
 **Ushiwakamaru:**
@@ -27646,7 +27646,7 @@ Impossible! We can't possibly do this! We can't beat all of those by ourselves!
 **Ereshkigal:**
 I mean, the wave's coming! It'll take over the underworld! 
  
-**E：? ? ? :**
+**E：???:**
 Quit whining, you dumb-dumb! And you call yourself the goddess of the land of death, meow!? 
  
 **Mash:**
@@ -27738,13 +27738,13 @@ The Chaos Tide's spread...stopped entirely!? Or has all its Authority been used 
 **Dr. Roman:**
 It may be unbelievable, but those flowers are draining Tiamat's power! 
  
-**F：? ? ? :**
+**F：???:**
 All right, I made it in time! You have a poor imagination, Archaman! 
  
-**F：? ? ? :**
+**F：???:**
 When faced with a sea that births life, all you have to do is use that life for something less horrible and more helpful! 
  
-**F：? ? ? :**
+**F：???:**
 And if that's the case, the spotlight is mine! After all, I enjoy bolstering my reputation as the Mage of Flowers! 
  
 **Dr. Roman:**
@@ -28105,10 +28105,10 @@ Doctor! If Master is determined to stay, I stay, too!
 **Dr. Roman:**
 Mash...! But your body can barely&mdash;
  
-**F：? ? ? :**
+**F：???:**
 What are you talking about? If a long battle is not possible, you just need to end it swiftly. 
  
-**F：? ? ? :**
+**F：???:**
 Or are you worried about your firepower? I suppose you fools leave me no choice. I will help you out. 
  
 **Mash:**

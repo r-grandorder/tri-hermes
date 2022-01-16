@@ -48,11 +48,11 @@ We hope you have a good experience as a Master for these 180 seconds.
  
 **--TUTORIAL--**
  
-**C：? ? ? :**
+**C：???:**
 Fou? 
 Kyuu...Kyuu? 
  
-**C：? ? ? :**
+**C：???:**
 Fou! 
 Fou...Fou! 
  
@@ -68,10 +68,10 @@ Fou...Fou!
 
 ---
  
-**A：? ? ? :**
+**A：???:**
 ...
  
-**A：? ? ? :**
+**A：???:**
 ...Umm. Since it's neither morning nor night, please wake up, Senpai. 
  
 ---
@@ -79,14 +79,14 @@ Fou...Fou!
 **Fujimaru 1:**
 Who are you? 
  
-**A：? ? ? :**
+**A：???:**
 That's a hard question to answer suddenly. Maybe I'm not important enough for you to know my name? 
  
-**A：? ? ? :**
+**A：???:**
 No, I do have a name. 
 I have a proper name. 
  
-**A：? ? ? :**
+**A：???:**
 But I never really had the chance to use it...
 I'm afraid I don't leave a good first impression...
  
@@ -95,19 +95,19 @@ I'm afraid I don't leave a good first impression...
 **Fujimaru 2:**
 Where are we? 
  
-**A：? ? ? :**
+**A：???:**
 Right. That's a simple question. 
 I really appreciate it. 
  
-**A：? ? ? :**
+**A：???:**
 This is the passageway from the front gate to the Central Command Room, which is in front of the Main Chaldea Gate. 
  
 ---
  
-**A：? ? ? :**
+**A：???:**
 ...Ahem. Anyway, can I ask you a question, Senpai? 
  
-**A：? ? ? :**
+**A：???:**
 You were asleep, but I don't see why you'd sleep in the hall. Can you not sleep unless you're on a hard bed? 
 
 ---
@@ -115,7 +115,7 @@ You were asleep, but I don't see why you'd sleep in the hall. Can you not sleep 
 **Fujimaru 1:**
 Was I sleeping here? 
  
-**A：? ? ? :**
+**A：???:**
 Yes, like a log. 
 It was such a deep sleep, it was almost textbook. 
  
@@ -124,31 +124,31 @@ It was such a deep sleep, it was almost textbook.
 **Fujimaru 2:**
 Yes. I can't sleep unless I'm on a straw mat. 
  
-**A：? ? ? :**
+**A：???:**
 Oh, a Japanese carpet. I've heard of those before. 
 I see...I see. 
  
 ---
  
-**C：? ? ? :**
+**C：???:**
 Fou! 
 Kyuuu! Kyao! 
  
-**A：? ? ? :**
+**A：???:**
 ...I completely forgot. 
 I still haven't introduced you yet, have I, Fou? 
  
-**A：? ? ? :**
+**A：???:**
 This squirrel-like creature is Fou. He's a Privileged Life-Form allowed to freely walk around Chaldea. 
  
-**A：? ? ? :**
+**A：???:**
 Fou led me here, and that's how I ran into you, Senpai. 
  
 **Fou:**
 Fou. 
 Mmkyu, Fou! 
  
-**A：? ? ? :**
+**A：???:**
 He ran off somewhere again. 
 He does that sometimes, just walks around. 
  
@@ -164,18 +164,18 @@ He does that sometimes, just walks around.
 
 ---
  
-**A：? ? ? :**
+**A：???:**
 Yes, normally he doesn't go near anyone aside from me,
 but he seems to like you, Senpai. 
  
-**A：? ? ? :**
+**A：???:**
 Congratulations. Now you shall be the second caretaker of Fou in Chaldea. 
  
-**D：? ? ? :**
+**D：???:**
 Ah, there you are, Mash. That won't do, you know,
 wandering about without permission...
  
-**D：? ? ? :**
+**D：???:**
 Oh, someone's already with you? You're...
 I see...The rookie who just got assigned here. 
  
@@ -421,14 +421,14 @@ Sorry, I'm starting to space out again...
 It's an after effect of the simulator. 
 I wish I could take you to the infirmary...
  
-**E：? ? ? :**
+**E：???:**
 ...
  
 **Lev:**
 No more small talk. 
 See, the orientation's already begun. 
  
-**E：? ? ? :**
+**E：???:**
 Well, that wasn't on time, but looks like we're all here now. 
  
 **Olga Marie:**
@@ -568,11 +568,11 @@ That sets my mind at ease.
 Now, then, I'm off. 
 If we're lucky, I think we'll meet again. 
  
-**B：? ? ? :**
+**B：???:**
 Okay, I'm in here&mdash;Wait? 
 Whaaaaaat? Who are you? 
  
-**B：? ? ? :**
+**B：???:**
 This is an empty room! It's where I slack off! 
 Who gave you permission to come in? 
  
@@ -581,7 +581,7 @@ Who gave you permission to come in?
 **Fujimaru 1:**
 I was told that this was my room...
  
-**B：? ? ? :**
+**B：???:**
 Your room? This place? Oh...
 I see, so the last one finally showed up, huh? 
  
@@ -590,12 +590,12 @@ I see, so the last one finally showed up, huh?
 **Fujimaru 2:**
 Well, who are you? 
  
-**B：? ? ? :**
+**B：???:**
 Who am I? Isn't it obvious that I'm a healthy, diligent and hard-working doctor? 
  
 ---
  
-**B：? ? ? :**
+**B：???:**
 Well, nice to meet you, Fujimaru. Didn't think I would run into you like this, but let me introduce myself again. 
  
 **Dr. Roman:**

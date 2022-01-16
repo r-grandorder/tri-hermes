@@ -631,7 +631,7 @@ I may no longer be able to fight on the front lines, but in return, I'll do ever
 **Mash:**
 That's the sort of kouhai I aspire to be! 
  
-**F：? ? ? :**
+**F：???:**
 Heh...Heh...
  
 **Da Vinci:**
@@ -1205,7 +1205,7 @@ Sounds great to me! I'll go first then!
 You can't. 
  
 **Edison:**
-Why not!!!? ? ? 
+Why not!!!???
  
 **Da Vinci:**
 Bill, tell them. 
@@ -2127,31 +2127,31 @@ I doubt it...If that were the case, we'd be seeing fields long before even a hin
 **Robin Hood:**
 There's a fair few people. I can hear 'em chattering amongst themselves. We oughta keep out of sight and move in for a closer look. 
  
-**G：? ? ? :**
+**G：???:**
 Do you all have your white ash branches? 
  
-**G：? ? ? :**
+**G：???:**
 These are our magic wands! Now it's time to rap on the door! 
  
-**G：? ? ? :**
+**G：???:**
 Tap it three times against the earth, against the invisible door! Rat-a-tat, rat-a-tat, rat-a-tat! Tap! 
  
-**G：? ? ? :**
+**G：???:**
 This door leads to the world beyond! And once it's open...
  
-**G：? ? ? :**
+**G：???:**
 ...a spirit will appear, and gift us with a prophecy! 
  
 **B：Girl:**
 What sort of prophecy, Abby? 
  
-**G：? ? ? :**
+**G：???:**
 It will tell you things about the future you desire, the boy of your dreams...
  
-**G：? ? ? :**
+**G：???:**
 And also, uh...glimpses of a far,faraway world that's nothing like our own...
  
-**G：? ? ? :**
+**G：???:**
 The spirit will whisper what you must do to make your dreams come true...
  
 **B：Girl:**
@@ -2166,10 +2166,10 @@ I want to know who I'm going to marry one day!
 **Girls:**
 Eek! 
  
-**G：? ? ? :**
+**G：???:**
 Okay then, everyone...Make your wish as you throw your wands into the fire. 
  
-**G：? ? ? :**
+**G：???:**
 Shall we sing Tituba's magic spell too? 
  
 **Girls:**
@@ -2246,7 +2246,7 @@ Man, this is gonna be a real pain in the ass.
 **Sanson:**
 ...! Who goes there? 
  
-**G：? ? ? :**
+**G：???:**
 ...
  
 **Robin Hood:**
@@ -2264,7 +2264,7 @@ Robin, lower your bow. It's just a child.
 **Robin Hood:**
 Hi there, young lady. What brings you out here? 
  
-**G：? ? ? :**
+**G：???:**
 ...You're outsiders. 
  
 **Mash:**
@@ -2293,7 +2293,7 @@ Not a problem. First to act. First to win. All foes. Eradicated.
 **Nezha:**
 Are you friend? Or foe? Do you offer us the blade? Or the hilt? 
  
-**G：? ? ? :**
+**G：???:**
 ...
  
 **Mash:**
@@ -2305,10 +2305,10 @@ Are you friend? Or foe? Do you offer us the blade? Or the hilt?
 **Fujimaru 2:**
 Are those girls over there friends of yours? 
  
-**G：? ? ? :**
+**G：???:**
 ...
  
-**G：? ? ? :**
+**G：???:**
 ...Friends? ...I don't have any friends...
  
 
@@ -2321,13 +2321,13 @@ Allo there. Ah am sorry if we startled you. As you saw, zat scene is not yet rea
 **Sanson:**
 But don't worry, we're not&ndash;
  
-**G：? ? ? :**
+**G：???:**
 ...Ah. Rgh...That accent...
  
-**G：? ? ? :**
+**G：???:**
 Are you...a French soldier? A fugitive...? 
  
-**G：? ? ? :**
+**G：???:**
 I-I have to get out of here...
  
 **Mash:**
@@ -2351,22 +2351,22 @@ Grrr!!!
 **Girls:**
 Aah! Aaah! 
  
-**G：? ? ? :**
+**G：???:**
 Stay together, everyone! They'll pick you off if we get separated! 
  
-**G：? ? ? :**
+**G：???:**
 What's going on...Why are there wild beasts so close to the village!? 
  
 **Girl:**
 Come on, Abby! Let's get out of here! 
  
-**G：? ? ? :**
+**G：???:**
 W-wait...! Let me get a piece of firewood! Otherwise&ndash;
  
 **Girl:**
 Aaaaaah! 
  
-**G：? ? ? :**
+**G：???:**
 We have to stay together! Get back! 
  
 **Beast:**
@@ -2378,13 +2378,13 @@ Eee!
 **Beast:**
 Gra&ndash;Yipe...! 
  
-**G：? ? ? :**
+**G：???:**
 Huh...!? 
  
 **Robin Hood:**
 Man, these New World beasties sure are rowdy. 
  
-**G：? ? ? :**
+**G：???:**
 ...Wh-who are you? 
  
 **Robin Hood:**
@@ -2503,28 +2503,28 @@ Okay. I'll examine these beasts in the meantime.
 **Mash:**
 Are you all right, Senpai? 
  
-**F：? ? ? :**
+**F：???:**
 ...“Senpai”? 
  
 **Mash:**
 Oh, uh, I mean...
  
-**F：? ? ? :**
+**F：???:**
 (Giggle) ...Thank you for helping us! 
  
-**F：? ? ? :**
+**F：???:**
 We couldn't have escaped from those mean beasts otherwise. You saved our lives. 
  
 **Robin Hood:**
 Sanson, Nezha, and Medea are putting out the campfire. They'll be here soon. 
  
-**F：? ? ? :**
+**F：???:**
 Oh...Oh goodness...
  
 **Mash:**
 Are you okay? Here, I've got you. 
  
-**F：? ? ? :**
+**F：???:**
 I'm sorry. Now that we're out of danger,I was just so relieved that my legs gave out...
  
 ---
@@ -2535,7 +2535,7 @@ I'm Fujimaru. Can I ask your name...?
 ---
 
  
-**F：? ? ? :**
+**F：???:**
 Fujimaru...
  
 **Abigail:**
@@ -2585,7 +2585,7 @@ Well, it's already past midnight, so...that would make it April 21. Yesterday wa
 **Mash:**
 ...! (1692...Of all the years to come to Salem...)
  
-**G：? ? ? :**
+**G：???:**
 ...Abigail, who are these people? 
  
 **Abigail:**
@@ -2597,10 +2597,10 @@ Oh, Uncle.
 **Mata Hari:**
 ...
  
-**G：? ? ? :**
+**G：???:**
 I don't know what you were thinking, taking the other children out into the woods in the middle of the night...
  
-**G：? ? ? :**
+**G：???:**
 But I'll deal with that later. 
  
 **Abigail:**
@@ -2609,22 +2609,22 @@ Yes, Uncle...
 **Abigail:**
 As for these people, Uncle, they're...
  
-**G：? ? ? :**
+**G：???:**
 Well now. Traveling performers, hm? 
  
-**G：? ? ? :**
+**G：???:**
 The other girls tell me you saved them from a pack of wild beasts. 
  
-**G：? ? ? :**
+**G：???:**
 And you are the troupe's Ringmaster, eh, {(M) Mr. /(F) Ms. } Fujimaru. You must let me express my thanks. 
  
-**G：? ? ? :**
+**G：???:**
 Let's see. It would be quite difficult to find a decent inn in Salem at this hour. 
  
-**G：? ? ? :**
+**G：???:**
 And I can't have such upstanding young men and women staying at the same flophouse as those ruffians from the wharf. 
  
-**G：? ? ? :**
+**G：???:**
 Why don't you all come stay at my home,if that's all right with you? 
  
 ---
@@ -2641,25 +2641,25 @@ Wow...!
 **Abigail:**
 Do you mean it, Uncle!? That's wonderful! It's the best news I've heard in my whole life! 
  
-**G：? ? ? :**
+**G：???:**
 That's enough, Abigail. 
  
-**G：? ? ? :**
+**G：???:**
 You put all of your friends in terrible danger. Once we get home, you will go straight to your room. 
  
-**G：? ? ? :**
+**G：???:**
 You will have only water tomorrow for your breakfast and lunch. 
  
-**G：? ? ? :**
+**G：???:**
 And of course, you are forbidden to speak to our guests until I give you permission. 
  
 **Abigail:**
 ...Okay. I understand...I will do as you say. 
  
-**G：? ? ? :**
+**G：???:**
 ...Oh, yes, I still haven't introduced myself. 
  
-**G：? ? ? :**
+**G：???:**
 I am Randolph Carter, a scholar. 
  
 **Carter:**
@@ -3027,7 +3027,7 @@ Oh, right. Sorry, I almost forgot about Frog Legs here hopping along after us.
 **Mata Hari:**
 Now don't start that again, you two......Hm? 
  
-**B：? ? ? :**
+**B：???:**
 ...Tituba didn't do anything wrong! Why are you doing this!? 
  
 **Mash:**
@@ -3281,7 +3281,7 @@ I'm trying to be as accommodating as I can. I just...Oh? Isn't that...
 **Mata Hari:**
 Yes, that's the girl we saw last night. I've been looking for her too. 
  
-**E：? ? ? :**
+**E：???:**
 ...
  
 **A：Villager:**
@@ -3290,7 +3290,7 @@ I can't believe a Whateley is out and about in broad daylight...
 **A：Villager:**
 You've got a lot of nerve coming out now when you never show your face at church...(Grumbling)
  
-**E：? ? ? :**
+**E：???:**
 I...I'm just going to buy whale oil...
  
 **A：Villager:**
@@ -3335,16 +3335,16 @@ He's gone now. Well, I guess that worked out in the end.
 **Sanson:**
 ...So, you do live in this village. 
  
-**E：? ? ? :**
+**E：???:**
 The fugitive...from last night...? 
  
-**E：? ? ? :**
+**E：???:**
 You're...performers? 
  
 **Sanson:**
 That's right. I'm sorry for frightening you. 
  
-**E：? ? ? :**
+**E：???:**
 ...
  
 **Mata Hari:**
@@ -3356,16 +3356,16 @@ That's right. I'm sorry for frightening you.
 **Mata Hari:**
 That really surprised us, seeing something like that happen right after we got here. 
  
-**E：? ? ? :**
+**E：???:**
 Did Abby...say something to you? 
  
 **Sanson:**
 Oh, so you're a friend of Abigail's? That makes this easier. 
  
-**E：? ? ? :**
+**E：???:**
 Stop it...Nobody's friends...with me...
  
-**E：? ? ? :**
+**E：???:**
 ...Lavinia. 
  
 **Lavinia:**
@@ -5203,7 +5203,7 @@ My, these sheep are nice and plump. And their wool is soft and well kept.
 **Queen of Sheba:**
 This is indeed a rich land. 
  
-**F：? ? ? :**
+**F：???:**
 Well now, it isn't every day one comes across such an esteemed noble. Good day to you. 
  
 **Queen of Sheba:**
@@ -5787,10 +5787,10 @@ This concludes The Fujimaru Company's special performance of “Solomon and the 
  
 **--ARROW--**
  
-**A：? ? ? :**
+**A：???:**
 ...
  
-**A：? ? ? :**
+**A：???:**
 ...So this is the Puritan colony of Salem. 
  
 **Sailor:**
@@ -5805,10 +5805,10 @@ Certainly fine by me though,since you already paid for passage!
 **Sailor:**
 Pretty rough storm we had to sail through to get here, though. You doing all right? 
  
-**A：? ? ? :**
+**A：???:**
 I'm on land now. My work is on land, where man lives and works. 
  
-**A：? ? ? :**
+**A：???:**
 There is no land inhabited by man, here or anywhere, that is free of sin. Not even Eden itself. 
  
 **C：Villager:**
@@ -5940,7 +5940,7 @@ Stop that. The Williams girl is right there.
 **Villager:**
 You...you're a witch! 
  
-**H：? ? ? :**
+**H：???:**
 That's a tool used in blasphemous curses. I suspect this woman is guilty of heresy. 
  
 **Judge:**
@@ -7823,7 +7823,7 @@ Tonight, The Fujimaru Company is proud to present...
 **Jeanne (Mash):**
 We begin in France, during the middle of the Hundred Years' War...
  
-**G：? ? ? :**
+**G：???:**
 Hold it, hold it. Just hold it right there! 
  
 **Jeanne (Mash):**
@@ -7895,7 +7895,7 @@ Ahh, at last, the great archangel Michael's prophecy has come to pass, and Franc
 **Jeanne:**
 Hurrah! Hurrah! Noelle! Noelle! 
  
-**H：? ? ? :**
+**H：???:**
 ...Did someone say “Noël”? You did, didn't you? 
  
 **Jeanne:**
@@ -9722,7 +9722,7 @@ Never mind that! Just hurry and add me to the lineup!
 **Tituba:**
 A...Abi...gail...
  
-**B：? ? ? :**
+**B：???:**
 ...
  
 **Robin Hood:**
@@ -9753,7 +9753,7 @@ Was someone hiding behind that tree?
 **Robin Hood:**
 This is real bad. Somebody saw us. 
  
-**E：? ? ? :**
+**E：???:**
 ...
  
 **Carter:**
@@ -9777,7 +9777,7 @@ I rarely see him out and about,but unless I am very much mistaken...
 **Mash:**
 I see...
  
-**B：? ? ? :**
+**B：???:**
 So THAT'S Salem's resident alchemist, eh. 
  
 **Mash:**
@@ -9795,7 +9795,7 @@ Umm...Hold up a minute.
 **Robin Hood:**
 Who might you be, exactly? 
  
-**B：? ? ? :**
+**B：???:**
 Haha, I guess that WOULD be the first thing you'd want to know, wouldn't it? 
  
 **Abigail:**
@@ -10153,7 +10153,7 @@ Oh, I see. Yes, I would love to meet her.
 **Reverend:**
 ...Is that her...? 
  
-**B：? ? ? :**
+**B：???:**
 ...(Grin)
  
 **Mash:**
@@ -10164,7 +10164,7 @@ This is, um...
 **Fujimaru 1:**
 She's our new rising star. 
  
-**B：? ? ? :**
+**B：???:**
 That's right! You've got everything to worry about with me around! 
  
 
@@ -10173,7 +10173,7 @@ That's right! You've got everything to worry about with me around!
 **Fujimaru 2:**
 She's our secret child actress. 
  
-**B：? ? ? :**
+**B：???:**
 ...Oh, so you're looking to die young, are you? I can arrange that! 
  
 
@@ -14663,7 +14663,7 @@ Huh? What the hell is THAT look for?
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 ...Incense Burner! 
  
 **Ghouls:**
@@ -14683,7 +14683,7 @@ Wait, {(M) Mr. /(F) Ms. } Ringmaster...I know who that is...
 **Abigail:**
 Huh...? 
  
-**H：? ? ? :**
+**H：???:**
 Hello, Fujimaru. You look like you could use a hand. 
  
 **Abigail:**
@@ -14692,28 +14692,28 @@ Tituba...? Is that you...?
 **Abigail:**
 But...!? 
  
-**H：? ? ? :**
+**H：???:**
 ...I'm sorry, Miss Abby. 
  
-**H：? ? ? :**
+**H：???:**
 Tituba the servant is dead. She finished her role, and stepped off the stage. 
  
-**H：? ? ? :**
+**H：???:**
 And that is why I'm free now. 
  
-**H：? ? ? :**
+**H：???:**
 Free to wield my power as I see fit! Free to make my fortune! 
  
-**H：? ? ? :**
+**H：???:**
 ...O great spirits, blow them away! 
  
 **Ghouls:**
 Hisss! 
  
-**H：? ? ? :**
+**H：???:**
 And that concludes your free trial! For more of my services, you'll have to pay! 
  
-**H：? ? ? :**
+**H：???:**
 Hmm, shall we say a fixed price for every ghoul I kill? I'm also willing to offer discounts if you pay for a dozen at a time up front! 
  
 ---
@@ -14732,13 +14732,13 @@ Seems like an awfully short trial.
 **Robin Hood:**
 Huh? You mean you're not here to help us, Titu&ndash;uh, whatever your name is? 
  
-**H：? ? ? :**
+**H：???:**
 Why, of course I am! “Helping” and “people” are two of the sweetest words I can think of. 
  
-**H：? ? ? :**
+**H：???:**
 And every good deed deserves a good reward, right? So, how much can I put you down for? 
  
-**H：? ? ? :**
+**H：???:**
 Surely you don't expect me to work for no compensation...do you? 
  
 ---
@@ -14754,10 +14754,10 @@ Calling all Goldies, calling all Goldies...
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 Hehehe. Pleasure doing business with you! 
  
-**H：? ? ? :**
+**H：???:**
 All right then, I'll make sure to provide you with excellent service during our temporary contract! 
  
 ---
@@ -14803,18 +14803,18 @@ If you abide by this reason...
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 As the Caster of Midrash, I swear here and now. 
  
-**H：? ? ? :**
+**H：???:**
 I accept you as my Master...! 
  
 **--BATTLE--**
  
-**A：? ? ? :**
+**A：???:**
 I've taken the liberty of preparing a safe house. Come on, I'll show you the way. 
  
-**A：? ? ? :**
+**A：???:**
 By the way, I don't see your friend Sanson anywhere? 
  
 **Robin Hood:**
@@ -14832,37 +14832,37 @@ Are you...Tituba...? No, you can't be.
 **Abigail:**
 ...B-but then, who ARE you? 
  
-**A：? ? ? :**
+**A：???:**
 ...Abigail Williams. 
  
-**A：? ? ? :**
+**A：???:**
 When prosperous nations deal with each other,sometimes information is the most precious of gifts. 
  
-**A：? ? ? :**
+**A：???:**
 And so, I'm afraid...I cannot lightly reveal my True Name, not even to you. 
  
 **Abigail:**
 I...I see...I'm sorry...
  
-**A：? ? ? :**
+**A：???:**
 That said...
  
-**A：? ? ? :**
+**A：???:**
 I WAS your servant once, Miss Abby. 
  
-**A：? ? ? :**
+**A：???:**
 You treated me so kindly,and I loved and respected you in turn. 
  
-**A：? ? ? :**
+**A：???:**
 I don't plan to go by Tituba anymore...but I'll never forget our time together. 
  
-**A：? ? ? :**
+**A：???:**
 In the meantime, let me tell you what most people call me. 
  
-**A：? ? ? :**
+**A：???:**
 The woman from the south,who rules all of Sheba as its queen...
  
-**A：? ? ? :**
+**A：???:**
 It's a pleasure to make your acquaintance. 
  
 **Mash:**
@@ -16458,28 +16458,28 @@ No...It looks like this wagon isn't very welcoming at all.
  
 **--BATTLE--**
  
-**A：? ? ? :**
+**A：???:**
 That's strange...There's no one here. I could have sworn I saw a ship pass by...
  
-**A：? ? ? :**
+**A：???:**
 I guess it must have left as soon as it arrived...Hm? Oh, it looks like my female intruder wards are going off. 
  
 **Medea Lily:**
 ...Oh, over there. That must be her. 
  
-**A：? ? ? :**
+**A：???:**
 ...A visitor, hmm? But, who is she? 
  
-**A：? ? ? :**
+**A：???:**
 Huh? I've never seen you before in my life. 
  
-**A：? ? ? :**
+**A：???:**
 And I don't need any more women around here. I've already got enough housemaids. 
  
 **Medea Lily:**
 Oh Auntie, don't be silly. It's me, remember? 
  
-**A：? ? ? :**
+**A：???:**
 “Auntie”!? Just how much older than you do you think I am!? 
  
 **Medea Lily:**
@@ -18980,10 +18980,10 @@ Hahaha...
 ---
 
  
-**C：? ? ? :**
+**C：???:**
 ...
  
-**C：? ? ? :**
+**C：???:**
 ...Reee......Reee...
  
 ---
@@ -18999,13 +18999,13 @@ I can totally tell it's you, Mephy.
 ---
 
  
-**B：? ? ? :**
+**B：???:**
 Meee? I ammm...
  
-**B：? ? ? :**
+**B：???:**
 A U. M. A! A human moth, known appropriately as the Mothman! 
  
-**B：? ? ? :**
+**B：???:**
 Moooth moth moth moth moth moth! Moth moth moth moth moth moth moth! 
  
 ---
@@ -19125,7 +19125,7 @@ Even the precious Sabbath is being neglected.
 Do you know what today's date is? It's actually the evening of April 29. 
  
 **Mephistopheles:**
-And do you know what this means? Do you...? ? ? 
+And do you know what this means? Do you...???
  
 **Mephistopheles:**
 It means that tomorrow is Walpurgisnacht! Heehahahahahahaha! 
@@ -19139,7 +19139,7 @@ Incidentally, that's it for me in our little story!
 **Mephistopheles:**
 I hope you'll forgive my absence, mage of Chaldea...
  
-**F：? ? ? :**
+**F：???:**
 Senpai. 
  
 **Mash:**
@@ -21693,10 +21693,10 @@ Caw, caaaw, caaaw!
 **F：Carter? :**
 Whateleeey. 
  
-**D：? ? ? :**
+**D：???:**
 Great! Thanks for all the help! 
  
-**D：? ? ? :**
+**D：???:**
 Now I can get into this courthouse's Bounded Field in my true form! 
  
 ---
@@ -22986,7 +22986,7 @@ Any...body...
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 ...Abi...gail...
  
 **Abigail:**
@@ -23346,10 +23346,10 @@ You can say that again.
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 ...Phew, thank goodness...
  
-**H：? ? ? :**
+**H：???:**
 It seems I really have come to Salem this time.... Albeit one on the brink of its destruction. 
  
 **Mash:**
@@ -23364,10 +23364,10 @@ Why are. You back here. Demon God Pillar!?
 **Abigail:**
 ...Uncle? 
  
-**H：? ? ? :**
+**H：???:**
 Wait, please. I bear you no ill will, I swear! 
  
-**H：? ? ? :**
+**H：???:**
 My name is...Ah. I'm afraid I do not have a name I can give you just now...
  
 **Cosmic-Traveling Gentleman:**
@@ -24030,7 +24030,7 @@ We forgot to give Abby back her pendan
 **Sanson:**
 ...
  
-**A：? ? ? :**
+**A：???:**
 ...Are you sure you don't want to go back? 
  
 **Sanson:**
@@ -24854,25 +24854,25 @@ Hmm. This really IS quite the predicament!
 **Sun Wukong:**
 Neither fire nor water had any effect, and the sun is about to set...
  
-**G：? ? ? :**
+**G：???:**
 (Staaare...)
  
 **Sun Wukong:**
 Hm? ...Oh, yes, I know just the person to ask! 
  
-**G：? ? ? :**
+**G：???:**
 (...! )
  
 **Sun Wukong:**
 Pagoda-Bearing Heavenly King Li, and the Four Heavenly Kings he commands! 
  
-**G：? ? ? :**
+**G：???:**
 ...(Stumble)
  
 **Sun Wukong:**
 Chiguo Tianwang, Zengzhang Tianwang, Guangmu Tianwang, and Duowen Tianwang! Duowen Tianwang is especially capable when it comes to&ndash;
  
-**G：? ? ? :**
+**G：???:**
 ...(Indignant)
  
 **Nezha:**

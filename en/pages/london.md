@@ -18,7 +18,7 @@ Not only that...
 **Woman:**
 All this time...Something's been...chasing me all this time! 
  
-**E：? ? ? :**
+**E：???:**
 &mdash;I'm sorry. 
  
 **Woman:**
@@ -30,13 +30,13 @@ Huh? Wh-When did you...get in front...of me? O-Oh...
 **Woman:**
 Oooh, no, don't come near me...I don't know you...What are you...WHAT THE HELL ARE YOU! 
  
-**E：? ? ? :**
+**E：???:**
 I'm sorry, Mom. I'm sorry. 
  
-**E：? ? ? :**
+**E：???:**
 But I want to go home...I want to go home, go home, go home, go home, so...
  
-**E：? ? ? :**
+**E：???:**
 We...We really, really...want to go home, okay? 
  
 **Woman:**
@@ -45,7 +45,7 @@ Eek! No, please stop&mdash; Stop, stop, stop, stop!
 **Woman:**
 What's that thing you're holding!? Stop it...Please...Just don't come...near me! 
  
-**E：? ? ? :**
+**E：???:**
 I'm sorry. 
 
 **--SECTION BREAK--**
@@ -538,16 +538,16 @@ Huh? Um, should I have not said that? Wait, did I say something wrong?
 **Dr. Roman:**
 &mdash;Wait a minute. Vital reaction detected. 
  
-**E：? ? ? :**
+**E：???:**
 ...Who the hell are you guys? 
  
 **Mash:**
 Ah...Umm, w-we're, uh&mdash;
  
-**E：? ? ? :**
+**E：???:**
 You're breathing in a place with that dense fog without croaking. You obviously aren't ordinary humans. 
  
-**E：? ? ? :**
+**E：???:**
 So, which is it? Friend, or foe? 
  
 **Mash:**
@@ -580,13 +580,13 @@ I can't tell at all! What do I do!? Argh, I'm so disorientated here!
 **Mash:**
 (Calm down, Doctor. The situation won't improve by consulting internet idols! )
  
-**E：? ? ? :**
+**E：???:**
 What are you sneaking around for? If you're not going to attack, well, whatever. 
  
-**E：? ? ? :**
+**E：???:**
 I have nothing to do here. Sorry to bother you. 
  
-**E：? ? ? :**
+**E：???:**
 The fog is dense around here. You'd better move if you value your life. 
  
 ---
@@ -604,7 +604,7 @@ We'll do that.
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 Hmm? Yeah. Well, see you. 
  
 **Mash:**
@@ -969,13 +969,13 @@ Hey, who are you!
 **Mash:**
 I'm under attack! An ambush? I didn't sense anything! 
  
-**G：? ? ? :**
+**G：???:**
 ...Hey, what are you, exactly? A human? Or a mage? 
  
-**G：? ? ? :**
+**G：???:**
 You're moving unhindered within the magical fog,and you seem just fine within "our fog" as well. 
  
-**G：? ? ? :**
+**G：???:**
 I guess you're just like us. 
  
 **Mash:**
@@ -1085,25 +1085,25 @@ I'm no expert, but I am a member of Chaldea. Albeit as medical staff.
 **Dr. Roman:**
 Hmm, this is...Don't tell me we've just come across some lost steam engine technology. 
  
-**E：? ? ? :**
+**E：???:**
 Oh, that&mdash;? 
  
-**E：? ? ? :**
+**E：???:**
 It's just a clump of steel, right? We call it...
  
-**E：? ? ? :**
+**E：???:**
 &mdash;Helter Skelter. 
  
 **Mash:**
 You are&ndash;
  
-**E：? ? ? :**
+**E：???:**
 I've been watching you. You destroyed one of them,which means you're probably not my enemy. 
  
-**E：? ? ? :**
+**E：???:**
 Besides, you fought well, not bad. Considering you probably have no idea about the circumstances. 
  
-**E：? ? ? :**
+**E：???:**
 Very nice. I rather like fools like that. 
  
 ---
@@ -1121,7 +1121,7 @@ Who are you calling a fool!?
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 Say what? 
  
 **Mash:**
@@ -1133,16 +1133,16 @@ Please...Can you give us some information. Will you speak with us?
 **Mash:**
 What's happening in this foggy city? 
  
-**E：? ? ? :**
+**E：???:**
 Very well. I'll talk to you. 
  
-**E：? ? ? :**
+**E：???:**
 But first, let me get one thing straight. You're a Demi-Servant, aren't you? 
  
 **Mash:**
 ...Yes. My name is Mash Kyrielight. And I am a Demi-Servant. 
  
-**E：? ? ? :**
+**E：???:**
 And who are you? 
  
 ---
@@ -1154,10 +1154,10 @@ I'm Fujimaru.
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 Mash Kyrielight and Fujimaru, huh? ...I suppose that's all right. It has nothing to do with me. 
  
-**E：? ? ? :**
+**E：???:**
 I am Mordred. A Heroic Spirit. And&mdash;
  
 **Mordred:**
@@ -1165,19 +1165,19 @@ I'm a Knight of the Round Table, here to face the perils of Londinium, a city in
  
 ## Section 3: The Demonic Fog Laughs 
  
-**F：? ? ? :**
+**F：???:**
 ...Oh boy, Saber. You always reveal your True Name to strangers right away. 
  
-**F：? ? ? :**
+**F：???:**
 We talked about this. If you're introducing yourself, just state your class. 
  
-**F：? ? ? :**
+**F：???:**
 Do you understand? Disclosing your True Name is like revealing your abilities. 
  
-**F：? ? ? :**
+**F：???:**
 That's the reason we conceal our True Names during normal Holy Grail Wars. 
  
-**F：? ? ? :**
+**F：???:**
 And yet you give out your True Name at the drop of a hat...
  
 **Mordred:**
@@ -1186,13 +1186,13 @@ Oh, what's the difference? This is no longer the "Holy Grail War" that you spoke
 **Mordred:**
 It's not the one with 7 Heroic Spirits, nor the one with 14. On top of that, no Masters. Anyway, do you have any ciders? I am thirsty. 
  
-**F：? ? ? :**
+**F：???:**
 Wait, that's my favorite sofa...Ah well. Yes, I already got your ciders chilled and ready. 
  
 **Mordred:**
 Right, we do have a refrigerator before it became widely used. Being a scholar sure is useful. 
  
-**F：? ? ? :**
+**F：???:**
 Though I have chemicals that need to be stored at low temperatures. It's necessary for scholars. 
  
 **Mordred:**
@@ -1228,10 +1228,10 @@ You with the glasses...Can I ask you something?
 ---
 
  
-**F：? ? ? :**
+**F：???:**
 ...Haha. Well, all right, I don't mind. If Saber trusts you, I'm sure we're on the same side. 
  
-**F：? ? ? :**
+**F：???:**
 I haven't introduced myself yet. I am Henry Jekyll. 
  
 **Jekyll:**
@@ -1499,7 +1499,7 @@ Who was that just now? She was beautiful,but...She wasn't actually here, was she
 Fou, fouuu! 
  
 **Jekyll:**
-? ? ? 
+???
  
 **Mordred:**
 ...Mmm. I remember seeing him somewhere before. Phantasmal? 
@@ -1794,7 +1794,7 @@ What do you mean?
 I mean, someone worthy of being the owner finally showed up. You can have the Holy Grail. 
  
 **Mash:**
-? ? ? 
+???
  
 **Mordred:**
 Enough chitchat. Don't bring up this topic ever again. 
@@ -2043,7 +2043,7 @@ And now...I've found something interesting, too.
 **Mordred:**
 Hey, come over here. 
  
-**H：? ? ? :**
+**H：???:**
 ...Uh. 
  
 **Mash:**
@@ -2073,7 +2073,7 @@ Who knows? It would be the best if we ask her.
 **Mash:**
 Are you a human? Or are you a Servant just like us? 
  
-**H：? ? ? :**
+**H：???:**
 ...Uhh. 
  
 **Mash:**
@@ -2115,7 +2115,7 @@ So it is Frankenstein's monster. But didn't it burn up in the end according to t
 **Dr. Roman:**
 I wonder if she can hear my voice. Let's see...Are you Frankenstein's monster? 
  
-**H：? ? ? :**
+**H：???:**
 ...Uhh, ah...uuuh...
  
 **Mordred:**
@@ -2124,13 +2124,13 @@ Hm?
 **Mash:**
 It seems like she doesn't have a speech function. But I can somehow understand her. 
  
-**H：? ? ? :**
+**H：???:**
 ......
  
 **Mash:**
 Name, I guess. Monster&mdash;is certainly a name you don't like, right? 
  
-**H：? ? ? :**
+**H：???:**
 ...Uhh. 
  
 ---
@@ -2142,7 +2142,7 @@ Then, how about Fran?
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 ...Uh...
  
 **Mash:**
@@ -3616,7 +3616,7 @@ There are two moving responses there besides you. Jack the Ripper, and one more.
 **Mash:**
 We can assume it's an unknown Servant. You there&mdash;
  
-**H：? ? ? :**
+**H：???:**
 Yes. I'm a Caster Servant. I'm one of the leaders of the "Project" you know of. 
  
 ---
@@ -3634,7 +3634,7 @@ Why are you doing this?
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 It's a complex set of circumstances, you see. Oh, please call me "P. "
  
 **"P":**
@@ -6055,7 +6055,7 @@ Wha...Is that true!?
 I'm shocked. Fran, I had no idea you could do that...
  
 **Jekyll:**
-? ? ? 
+???
  
 **Dr. Roman:**
 Tell me, do you really understand? Do you really understand what she's saying? 
@@ -6603,7 +6603,7 @@ Babbage was supposed to have passed away at least a decade prior to our present 
 Huh? No, that's strange. He may be old, but he should still be an active scholar in good health. 
  
 **Mash:**
-? ? ? 
+???
  
 **Dr. Roman:**
 Jekyll, are you sure that's not a lapse in your memory? Are you really sure that Babbage is a man of this era? 
@@ -7416,25 +7416,25 @@ I've never seen a machine this big. Angrboda...The name of a giant fits perfectl
 **Mordred:**
 I'd love to take a closer look&mdash;But it looks like the last boss is here. 
  
-**D：? ? ? :**
+**D：???:**
 &mdash;Oddly enough. 
  
-**D：? ? ? :**
+**D：???:**
 Oddly enough, it is just as Paracelsus said. Evil must be stopped by those who do good. 
  
-**D：? ? ? :**
+**D：???:**
 The Massive Steam Engine, Angrboda. This is our evil embodied, but it is also our hope. 
  
-**D：? ? ? :**
+**D：???:**
 Your path ends here. Good will now be destroyed by our evil. 
  
 **Mordred:**
 You folks really like to talk. Shut up. What ends here is your life. 
  
-**D：? ? ? :**
+**D：???:**
 Heroic Spirit Mordred. The 13th Knight of the Round Table and legendary Treacherous King. 
  
-**D：? ? ? :**
+**D：???:**
 I thought you'd stand with us,but it seems you're now a hero of good. Ironic. 
  
 ---
@@ -7452,7 +7452,7 @@ Are you "M"?
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 I am Makiri Zolgen. The first leader of this "Project Demonic Fog. "
  
 **Makiri:**
@@ -7645,19 +7645,19 @@ The magical energy response is huge! It's coming!
  
 ## Section 12: Myth of Thunder and Lightning 
  
-**H：? ? ? :**
+**H：???:**
 &mdash;You called me, did you not? 
  
-**H：? ? ? :**
+**H：???:**
 What was it that called me, lightning itself? What was it that called me, the genius? 
  
-**H：? ? ? :**
+**H：???:**
 A cry? A wish? Good? Evil? 
  
-**H：? ? ? :**
+**H：???:**
 I see&mdash;It was all of them that brought me here. 
  
-**H：? ? ? :**
+**H：???:**
 I, the lightning,the genius, Nikola Tesla! 
  
 **Nikola Tesla:**
@@ -7971,7 +7971,7 @@ The Perkūnas's Ladder answer my call! I shall allow them to take me there!
 **Nikola Tesla:**
 Hahahahahaha! Hahaha! Is there no one left who can stop me? 
  
-**D：? ? ? :**
+**D：???:**
 &mdash;Stop laughing and get your ass down here, then. It's easy, right? 
  
 **Nikola Tesla:**
@@ -7980,19 +7980,19 @@ Oh&mdash;?
 **Nikola Tesla:**
 Hmm. The lightning is crying. This is...
  
-**D：? ? ? :**
+**D：???:**
 "Golden" shines from a strike of lightning&mdash;
  
-**D：? ? ? :**
+**D：???:**
 Somebody's calling me. They tell me to destroy evil, and kill the demon. 
  
-**D：? ? ? :**
+**D：???:**
 Shut up&mdash;
  
-**D：? ? ? :**
+**D：???:**
 Shut up, shut up! Stop whispering in my ear! I always swing my own axe, and that's that! 
  
-**D：? ? ? :**
+**D：???:**
 I will beat down any and all evil! &mdash;The shining broad-axe, Golden! 
  
 **Sakata Kintoki:**
@@ -8278,7 +8278,7 @@ Eh, I did not. Sure you're not imagining it?
 (Those boobs! I can see your boobs, Fox! I don't know where am I supposed to look, get it!? )
  
 **Tamamo-no-Mae:**
-? ? ? 
+???
  
 **Dr. Roman:**
 Anyway, this is a big help. We've got a chance now. Without the Activated Fog we can fight him head on! 
@@ -8768,13 +8768,13 @@ Huh? ...Senpai, something is strange. I have no anomalies, but I'm shivering&mda
  
 **--ARROW--**
  
-**C：? ? ? :**
+**C：???:**
 Demon Marshal Gilles de Rais. Imperial Founder Romulus. Hero Spy Jason. And Divine Scholar Nikola Tesla. 
  
-**C：? ? ? :**
+**C：???:**
 I thought they would be somewhat useful&mdash;But they spoiled my fun as they couldn't even clean house. 
  
-**C：? ? ? :**
+**C：???:**
 Stupidity. Such stupidity. Humans really do degrade with the passage of time. 
  
 **Dr. Roman:**
@@ -8819,25 +8819,25 @@ Why do you always exaggerate so? There's all types of gods. Anyway, the only god
 **Dr. Roman:**
 The big boss!? What does that mean!? Fujimaru, tell me what's going on! 
  
-**C：? ? ? :**
+**C：???:**
 I see. Like me, only your voice reaches them. 
  
-**C：? ? ? :**
+**C：???:**
 Chaldea is isolated from the temporal axis,and so it's become a base that no one can find. 
  
-**C：? ? ? :**
+**C：???:**
 My eyes see everything&mdash;and all possible futures,but even they have trouble perceiving Chaldea. 
  
-**C：? ? ? :**
+**C：???:**
 That's why you survive. Pathetically, shamelessly, and uselessly. 
  
-**C：? ? ? :**
+**C：???:**
 Intolerant of a history of destruction already decided,a pitiful boat still adrift in the sea of void. 
  
-**C：? ? ? :**
+**C：???:**
 That is what you are, Chaldea,and what you are, Fujimaru. 
  
-**C：? ? ? :**
+**C：???:**
 A stain upon the scorched ashes of human history. The name of the only fools left who would defy "my" deeds. 
  
 **Mash:**
@@ -8858,16 +8858,16 @@ Are you the "King" that Lev talked about?
 ---
 
  
-**C：? ? ? :**
+**C：???:**
 Hmm? I thought you already had the answer? Are you so like monkeys that such a thing has to be taught? 
  
-**C：? ? ? :**
+**C：???:**
 But very well. I've taken a liking to your stupidity. If you wish to ask, I shall answer you. 
  
-**C：? ? ? :**
+**C：???:**
 I am the final destination you seek. The one who commands the 72 Demon Gods, and will destroy humanity from his throne. 
  
-**C：? ? ? :**
+**C：???:**
 My name is Solomon. Among the Heroic Spirits,I stand above them all as one of the "Grand" seven. 
  
 **Dr. Roman:**

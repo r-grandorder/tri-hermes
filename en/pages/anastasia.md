@@ -2422,22 +2422,22 @@ A rifle, in point of fact, judging by the sound. One wielded, it would seem, by 
 **Holmes:**
 Well done! 
  
-**E：? ? ? :**
+**E：???:**
 ...Take this! 
  
-**E：? ? ? :**
+**E：???:**
 Are you guys nuts!? 
  
-**E：? ? ? :**
+**E：???:**
 What were you thinking,running right into the middle of a Krichat' pack! 
  
 **Mash:**
 Huh...!? 
  
-**E：? ? ? :**
+**E：???:**
 I'm guessing you guys came from the capital looking for something to eat, but you're not gonna have much more luck out here in the boonies eith&ndash;
  
-**E：? ? ? :**
+**E：???:**
 ...What the? 
  
 ---
@@ -2453,7 +2453,7 @@ A werewolf...?
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 Wh-what the hell ARE you guys!? Why's your skin so smooth!? 
  
 **Mash:**
@@ -2472,22 +2472,22 @@ Please calm down!
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 ...Wait a second. Are you guys...mages? 
  
 **Mash:**
 Huh...!? 
  
-**E：? ? ? :**
+**E：???:**
 Dammit...C'mon, follow me! 
  
-**E：? ? ? :**
+**E：???:**
 Krichat' are cowards, but if you stick around too long, they'll call more friends and overwhelm you! 
  
 **Mash:**
 (He just hefted that huge Demonic Beast like it was nothing...! )
  
-**E：? ? ? :**
+**E：???:**
 Come on, move it! 
  
 ---
@@ -2501,7 +2501,7 @@ Let's go along with him, Mash!
 **Mash:**
 R-right. I'll bring up the rear, Master! 
  
-**E：? ? ? :**
+**E：???:**
 Dammit, the Krichat' are restless today! What'd you guys do to get them so worked up? 
  
 ---
@@ -2512,28 +2512,28 @@ I don't know!
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 Come on, keep moving! 
  
-**E：? ? ? :**
+**E：???:**
 Otherwise, the Krichat'll have you for dinner. Unless their noise attracts a D'yavol Tron first! 
  
 **Mash:**
 I-I'm sorry, what's a D'yavol Tron? 
  
-**E：? ? ? :**
+**E：???:**
 A giant serpent with multiple heads that can wipe out an entire village easy as you like! Don't you guys know ANYTHING!? 
  
-**E：? ? ? :**
+**E：???:**
 Okay, we're here...
  
-**E：? ? ? :**
+**E：???:**
 ...Dammit, the Oprichniki are on patrol! They'll collect my kill as taxes. 
  
-**E：? ? ? :**
+**E：???:**
 Listen up. Don't let any other Yaga see you. 
  
-**E：? ? ? :**
+**E：???:**
 They're always looking for more sacrifices for the Oprichniki! 
  
 **Mash:**
@@ -2552,16 +2552,16 @@ We've gotta find somewhere to hide!
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 Huh? What's with you guys? 
  
-**E：? ? ? :**
+**E：???:**
 ...Aha, I see how it is. The Oprichniki are after you guys? 
  
-**E：? ? ? :**
+**E：???:**
 Come with me. Any enemy of the Oprichniki is a friend of mine. 
  
-**E：? ? ? :**
+**E：???:**
 I think I can help you out,if you have something to offer in return. 
  
 **Mash:**
@@ -2575,7 +2575,7 @@ Let's go with him.
 **Mash:**
 ...All right. We'll accompany you! 
  
-**E：? ? ? :**
+**E：???:**
 Good. Come on, you Koldun. 
  
 
@@ -2584,89 +2584,89 @@ Good. Come on, you Koldun.
 **Fujimaru 2:**
 Let's ask for his help. 
  
-**E：? ? ? :**
+**E：???:**
 Hmm. 
  
-**E：? ? ? :**
+**E：???:**
 You Koldun have less pride than I thought. 
  
-**E：? ? ? :**
+**E：???:**
 ...Well, whatever. Let's just take it nice and easy...
  
 
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 Hey, if it isn't Patxi. 
  
-**E：? ? ? :**
+**E：???:**
 ...Try to stay out of sight. 
  
-**H：? ? ? :**
+**H：???:**
 Huh. Do you smell that weird scent too? 
  
-**H：? ? ? :**
+**H：???:**
 Is it coming from those two? 
  
 **Mash:**
 ...! 
  
-**E：? ? ? :**
+**E：???:**
 It's coming from this Demonic Beast, obviously. Didn't bleed it out properly. 
  
-**H：? ? ? :**
+**H：???:**
 No leisure for the poor, huh. You sure you're gonna make it through the winter like that? 
  
-**E：? ? ? :**
+**E：???:**
 Guess you're not worried about yourself, huh? 
  
-**H：? ? ? :**
+**H：???:**
 Hahahaha, nope. I've got plenty stored away. 
  
-**H：? ? ? :**
+**H：???:**
 If you ever find yourself running low on food,how 'bout I sell you some on the cheap? 
  
-**H：? ? ? :**
+**H：???:**
 But you WILL have to tell me where your best hunting grounds are. 
  
-**E：? ? ? :**
+**E：???:**
 ...I'll think about it. See you around. 
  
-**H：? ? ? :**
+**H：???:**
 Hey, your little friends there wouldn't be with the rebel army, would they? 
  
-**H：? ? ? :**
+**H：???:**
 Cause if they are, you know I've gotta report them to the Oprichniki. Tsar's decree and all. 
  
-**E：? ? ? :**
+**E：???:**
 If these guys turn out to be with the rebel army...
  
-**E：? ? ? :**
+**E：???:**
 ...I'm gonna tell the Oprichniki you and I are the best of friends. 
  
-**H：? ? ? :**
+**H：???:**
 ! 
  
-**H：? ? ? :**
+**H：???:**
 C'mon, cut that out. We're not friends. We barely know each other! 
  
-**E：? ? ? :**
+**E：???:**
 You sure about that? 
  
-**E：? ? ? :**
+**E：???:**
 'Cause we've been having a good,long talk for a while now. 
  
-**E：? ? ? :**
+**E：???:**
 Can't you feel everyone else watching us? 
  
-**H：? ? ? :**
+**H：???:**
 Dammit...! 
  
-**E：? ? ? :**
+**E：???:**
 All right, let's hurry up and get to my house before anyone else comes sniffing around. 
  
-**E：? ? ? :**
+**E：???:**
 ...Good. The Oprichniki still don't know you're here. 
  
 ---
@@ -2677,10 +2677,10 @@ Thank you so much.
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 Don't need your thanks. Just give me something as compensation. 
  
-**E：? ? ? :**
+**E：???:**
 It's all about bartering, right? 
  
 **Mash:**
@@ -2689,7 +2689,7 @@ It's all about bartering, right?
 **Holmes:**
 Would information suffice? 
  
-**E：? ? ? :**
+**E：???:**
 Aah! Wh-what the hell IS that!? 
  
 **Holmes:**
@@ -2701,7 +2701,7 @@ Since you realized those two are mages, I assumed your kind would possess a deep
 **Holmes:**
 ...but judging from your response, it appears that your kind have only ever HEARD of magecraft. Am I correct? 
  
-**E：? ? ? :**
+**E：???:**
 Oh...So it's not actually real. 
  
 **Holmes:**
@@ -2710,19 +2710,19 @@ I assure you, it is. I am speaking to you in person, albeit from a great distanc
 **Holmes:**
 Now, as I was saying, if we possess any information that may be of use to you, we are happy to provide it. 
  
-**E：? ? ? :**
+**E：???:**
 ...Don't suppose you know of any good hunting grounds, do you? 
  
 **Holmes:**
 If the location of a Krichat' nest would suffice, then yes, we have found a number of them. 
  
-**E：? ? ? :**
+**E：???:**
 Krichat' nests, huh. Nice. Those things are pushovers. 
  
 **Mash:**
 Pushovers? THOSE...? 
  
-**E：? ? ? :**
+**E：???:**
 Well yeah. You can actually kill them, as long as you shoot them or hit them hard enough. Waaay better than the Demonic Beasts who just won't die. 
  
 **Holmes:**
@@ -2744,22 +2744,22 @@ Can you tell us your name?
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 ...My name, huh. 
  
-**E：? ? ? :**
+**E：???:**
 They say that if you ever tell a Koldun your name, you'll be cursed. 
  
 **Mash:**
 Excuse me, but what are these “Koldun”? I can tell you mean us, but beyond that...
  
-**E：? ? ? :**
+**E：???:**
 It means “mage. ”
  
-**E：? ? ? :**
+**E：???:**
 I've never seen one myself before, but there's a whole bunch of them in the imperial family, right? 
  
-**E：? ? ? :**
+**E：???:**
 Then again, Koldun or not, you don't seem like much of a threat. I doubt you could curse anyone if you tried. 
  
 ---
@@ -2775,7 +2775,7 @@ I can't curse anyone.
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 ...All right. My name's Patxi. 
  
 **Patxi:**
@@ -3806,13 +3806,13 @@ I'll leave him a note letting him know where we are. Okay Master, let's sneak ou
 **Mash:**
 Huh? ...What was that sound? 
  
-**B：? ? ? :**
+**B：???:**
 Anastasia...Where are you...Anastasia...? 
  
 **Grand Duchess:**
 I am here, my tsar. 
  
-**B：? ? ? :**
+**B：???:**
 Ahh, my empress. My beloved wife. Tell me...Is Russia at peace? 
  
 **Grand Duchess:**
@@ -3824,16 +3824,16 @@ The Oprichniki are fighting hard all throughout the land in order to spread your
 **Grand Duchess:**
 Please, rest and do not be troubled. 
  
-**B：? ? ? :**
+**B：???:**
 I see. So Russia is at peace...
  
-**B：? ? ? :**
+**B：???:**
 That makes two hundred years of peace in Russia...What about the outside? 
  
-**B：? ? ? :**
+**B：???:**
 I must spread my glory beyond Russia's borders. I must share it with those from other lands who can only shiver in the cold, waiting for their ends. 
  
-**B：? ? ? :**
+**B：???:**
 ...Tell me, how fares Europe, and the Far East? 
  
 **Grand Duchess:**
@@ -3845,16 +3845,16 @@ Europe has bowed to your will, and negotiations in the Far East are proceeding a
 **Grand Duchess:**
 The war is over,and Russia will have their allegiance soon. 
  
-**B：? ? ? :**
+**B：???:**
 I see...That is good...
  
-**B：? ? ? :**
+**B：???:**
 ...No...That is not good at all...
  
-**B：? ? ? :**
+**B：???:**
 Peace alone is not enough. I must press onward with renewed vigor and expand my domain! 
  
-**B：? ? ? :**
+**B：???:**
 I must unite the world and ensure its happiness...! 
  
 **Grand Duchess:**
@@ -3863,7 +3863,7 @@ I must unite the world and ensure its happiness...!
 **Amadeus Alter:**
 ...Very well. 
  
-**B：? ? ? :**
+**B：???:**
 ...So sleepy...Am I...dreaming...? 
  
 **Grand Duchess:**
@@ -4561,13 +4561,13 @@ Maybe he actually came here from this Russia...?
 **Holmes:**
 ...That is a possibility, but at this point, that is all it is. We still have far too little information to theorize any further. 
  
-**D：? ? ? :**
+**D：???:**
 Well, well, I THOUGHT I smelled something delicious. Do I detect some adooorable little rats hiding out in this back alley? 
  
-**D：? ? ? :**
+**D：???:**
 I DO wish I could let you get away, but now that I've found you, I certainly can't do that, now can I? 
  
-**D：? ? ? :**
+**D：???:**
 Espeeecially not after Kotomine just told me to squash any repulsive insects I happened to find. 
  
 **Koyanskaya:**
@@ -6533,10 +6533,10 @@ Can you go on?
 **Avicebron:**
 I believe he should be all right after a few days' rest. 
  
-**C：? ? ? :**
+**C：???:**
 It would seem we have been thoroughly defeated. Very well, we surrender. 
  
-**C：? ? ? :**
+**C：???:**
 If you truly had been sent by Ivan the Terrible,we would clearly have no chance of victory. 
  
 **???:**
@@ -6550,7 +6550,7 @@ Say, your name wouldn't happen to be&ndash;
 ---
 
  
-**C：? ? ? :**
+**C：???:**
 Ah, do excuse me. 
  
 **Atalante Alter:**
@@ -9964,13 +9964,13 @@ Huh!?
 **Atalante Alter:**
 Who goes there!? 
  
-**D：? ? ? :**
+**D：???:**
 That's what I wanna know! 
  
-**D：? ? ? :**
+**D：???:**
 What're you lot doing in a dilapidated old frontier town like this? 
  
-**D：? ? ? :**
+**D：???:**
 I'm afraid with a storm like this going on,I've got no choice but to take a few potshots! 
  
 **Mash:**
@@ -9979,7 +9979,7 @@ I'm afraid with a storm like this going on,I've got no choice but to take a few 
 **Atalante Alter:**
 I am Atalante, hunter of Greece! I wish to speak to your leader! 
  
-**D：? ? ? :**
+**D：???:**
 I ain't got a damn thing to talk about with you! 
  
 **Atalante Alter:**
@@ -9988,7 +9988,7 @@ Well we do!
 **Atalante Alter:**
 And we are coming your way,whether you like it or not! 
  
-**D：? ? ? :**
+**D：???:**
 ...Fine then! You wanna come over here, be my guest! But I'm gonna see what you're made of, first! 
  
 **Billy:**
@@ -10073,7 +10073,7 @@ Now then...Hey, Berserker! That hunter lady's here!
 **Billy:**
 And she's got a human and some other Servants with her! 
  
-**E：? ? ? :**
+**E：???:**
 Ah, she's finally here, huh. All right, me and you'll do this together! 
  
 **Beowulf:**
@@ -12720,13 +12720,13 @@ How can we save everyone...!?
 **Mash:**
 We don't know who started that fire,but if it spreads to the rest of the city...! 
  
-**D：? ? ? :**
+**D：???:**
 I believe it was a dust explosion. It was most likely caused by that group who attacked the grain storehouse earlier. 
  
-**D：? ? ? :**
+**D：???:**
 From there, the resulting fire must have reached the warehouse that was filled with oil barrels. 
  
-**D：? ? ? :**
+**D：???:**
 But worry not. The blizzard is picking up, so to speak. The fire should go out before it can spread. 
  
 **Mash:**
@@ -18004,7 +18004,7 @@ Is anyone here!?
 **Billy:**
 Heeey! Anyone still kickin' heeere!? 
  
-**E：? ? ? :**
+**E：???:**
 Ngh...Nnngh...
  
 **Mash:**
@@ -18260,10 +18260,10 @@ And so I am afraid I must kill you all here and now.
 **???:**
 GRRR...RRR...
  
-**C：? ? ? :**
+**C：???:**
 KILL...I'LL KILL YOU...RRR...RRRRRR...
  
-**C：? ? ? :**
+**C：???:**
 I'LL KILL YOU...AND...EAT YOU...!!! 
  
 **Billy:**
@@ -18550,7 +18550,7 @@ Of course! {(M) He's /(F) She's} not my Master for nothing!
 **Billy:**
 The Minotaur? ...No, ain't a Servant. Maybe a Demonic Beast got lost down here? 
  
-**G：? ? ? :**
+**G：???:**
 Hey...it's you guys...
  
 **Mash:**
@@ -20440,7 +20440,7 @@ Well, before that, there's the matter of whether we can even get close to him. A
 **Holmes:**
 The frontier may be fairly free of Oprichniki,but the capital area is crawling with them. 
  
-**E：? ? ? :**
+**E：???:**
 ...Then I guess it's up to me to do something about that. 
  
 ---
@@ -21016,7 +21016,7 @@ I have no right to call myself your boss anymore. Not after so much blood has be
 **Atalante Alter:**
 The rebel army has no hope of rebuilding itself anymore...I will never be able to bare these fangs against the Tsar again. 
  
-**B：? ? ? :**
+**B：???:**
 ...Things may not be as bad as you think, Atalante. 
  
 **Atalante Alter:**
@@ -24449,7 +24449,7 @@ We'll be counting on you to use a Command Spell and play our trump card when the
 **Beowulf:**
 He's calling for Anastasia. Saying something about her betraying him. 
  
-**F：? ? ? :**
+**F：???:**
 That's because she did. 
  
 ---

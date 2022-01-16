@@ -6,82 +6,82 @@
 
 ## Prelude
  
-**A：? ? ? :**
+**A：???:**
 &mdash;Heed my words. 
  
-**A：? ? ? :**
+**A：???:**
 My will creates your body, and your sword creates my destiny. If you heed the Grail's call, and obey my will and reason, then answer me. 
  
-**A：? ? ? :**
+**A：???:**
 I hereby swear. That I shall defeat all evil in the world. 
  
-**A：? ? ? :**
+**A：???:**
 But let thine eyes be clouded with the fog of turmoil and chaos. Thou art trapped in a cage of madness, and I the summoner who holds thy chains&ndash;
  
-**A：? ? ? :**
+**A：???:**
 Seventh Heaven clad in the great words of power! Come forth from the circle of binding, Guardian of the Scales&mdash;! 
  
-**B：? ? ? :**
+**B：???:**
 Ah! 
  
-**A：? ? ? :**
+**A：???:**
 &ndash;Thank you for coming, my fellow Servants. I am your Master. 
  
-**A：? ? ? :**
+**A：???:**
 You know why you were summoned, yes? Destruction and slaughter, those are your orders. 
  
-**A：? ? ? :**
+**A：???:**
 If a city is reveling in spring, destroy it. If a town is celebrating spring, devastate it. 
  
-**A：? ? ? :**
+**A：???:**
 No matter how evil or cruel, God will forgive your every transgression. 
  
-**A：? ? ? :**
+**A：???:**
 Should He mete out punishment,that is fine in its own way. 
  
-**A：? ? ? :**
+**A：???:**
 For this is no more than a means of proving God's existence and His love. 
  
-**A：? ? ? :**
+**A：???:**
 &ndash;Now, then, Gilles. Please bring him here. 
  
 **Gilles:**
 As you wish. 
  
-**A：? ? ? :**
+**A：???:**
 I trust you have not harmed him, Gilles? 
  
 **Gilles:**
 No, of course not. Have you considered what you wish done with him? 
  
-**A：? ? ? :**
+**A：???:**
 &mdash;
  
 **Gilles:**
 Oh, my. Do you require suggestions from me? 
  
-**A：? ? ? :**
+**A：???:**
 Oh, you have noticed my distress in your infinite concern for me? 
  
-**A：? ? ? :**
+**A：???:**
 &mdash;Don't be absurd. If you continue this foolishness, I'll kill you, Gilles. 
  
-**A：? ? ? :**
+**A：???:**
 When you are eating a meal, do you think about how you use your fork? 
  
-**A：? ? ? :**
+**A：???:**
 This is the same. What I do with him is a matter so trivial it does not merit any thought. 
  
-**H：? ? ? :**
+**H：???:**
 ...Wh-What's going on? Where am I, and who are you people? 
  
-**H：? ? ? :**
+**H：???:**
 Answer me! Are you deaf? You there&mdash;Eep! 
  
-**A：? ? ? :**
+**A：???:**
 Oh, Pierre! Bishop Pierre Cauchon! How I have missed you! 
  
-**A：? ? ? :**
+**A：???:**
 A day has not gone by when your face has not crossed the mind of Jeanne d'Arc! 
  
 **Pierre Cauchon:**
@@ -1178,16 +1178,16 @@ It's coming!
 **Mash:**
 Master, respond with full force! This is different from those old bones from earlier! 
  
-**E：? ? ? :**
+**E：???:**
 Soldiers, douse yourself with water! You can momentarily defend against their flames! 
  
 **Soldier:**
 Eh? 
  
-**E：? ? ? :**
+**E：???:**
 You there! Please pick up a weapon and fight! 
  
-**E：? ? ? :**
+**E：???:**
 Together with me! Follow me&ndash;! 
  
 **Mash:**
@@ -2343,16 +2343,16 @@ What?
 **Mash:**
 A glass&ndash;rose? 
  
-**F：? ? ? :**
+**F：???:**
 &ndash;It's not elegant. 
  
-**F：? ? ? :**
+**F：???:**
 Neither is this city. Neither is that combat style. I don't like your philosophy or principles either. 
  
-**F：? ? ? :**
+**F：???:**
 You're so beautiful, yet you shroud yourself in blood and hatred. 
  
-**F：? ? ? :**
+**F：???:**
 For good or for evil, shouldn't a human try to be more free? 
  
 **Jeanne Alter:**
@@ -2360,25 +2360,25 @@ For good or for evil, shouldn't a human try to be more free?
  
 **--ARROW--**
  
-**F：? ? ? :**
+**F：???:**
 Yes, that's right. I'm so happy. This is what it means to announce oneself as a hero of justice! 
  
-**F：? ? ? :**
+**F：???:**
 I know who you are. I also know how powerful and terrifying you are. 
  
-**F：? ? ? :**
+**F：???:**
 To be honest, I have to confess that I've never trembled in fear more before anyone else. 
  
-**F：? ? ? :**
+**F：???:**
 Yet still&mdash;If you intend to invade this nation, then I shall face you even if I have to tear apart my dress. 
  
-**F：? ? ? :**
+**F：???:**
 Why? Because...
  
 **Berserk Saber:**
 You are...
  
-**F：? ? ? :**
+**F：???:**
 Oh my. So you know my True Name. Have we met before, splendid female knight? 
  
 **Jeanne Alter:**
@@ -3917,13 +3917,13 @@ What? I am tired of seeing them. They are no more than third-rate instruments, t
 **Jeanne:**
 Phew! Enemies eliminated. May their souls rest in peace&ndash;
  
-**G：? ? ? :**
+**G：???:**
 Peace...Do they desire peace? That is such a foolish thing to say. 
  
-**G：? ? ? :**
+**G：???:**
 They have no peace in their souls. There is certainly none residing in us Servants&ndash;
  
-**G：? ? ? :**
+**G：???:**
 This world has been frozen for years...
  
 **Mash:**
@@ -4089,20 +4089,20 @@ Let's go!
 **Jeanne:**
 What a terrible wound! 
  
-**G：? ? ? :**
+**G：???:**
 ...Ugh! 
  
 **Mash:**
 Oh! 
  
-**G：? ? ? :**
+**G：???:**
 One after...Another. 
  
 **Jeanne:**
 Please wait! We are on your side! At least, we have no intention of causing you harm! 
  
-**G：? ? ? :**
-? ? ? 
+**G：???:**
+???
  
 **Mash:**
 At any rate, please hurry! A dragon is approaching! 
@@ -4110,16 +4110,16 @@ At any rate, please hurry! A dragon is approaching!
 **Mash:**
 Several Servants are with it, as well. We are at an overwhelming disadvantage here&ndash;
  
-**G：? ? ? :**
+**G：???:**
 A dragon, huh......I see. 
  
-**G：? ? ? :**
+**G：???:**
 That's why I was summoned and then attacked. 
  
 **Mash:**
 We will help you, let's get out of here! 
  
-**G：? ? ? :**
+**G：???:**
 I'm sorry, I owe you one! 
  
 **Marie Antoinette:**
@@ -4212,13 +4212,13 @@ Ugh! Just as I thought, this is...
 **Mash:**
 I can't hold on anymore, it's no use! 
  
-**G：? ? ? :**
+**G：???:**
 &ndash;No, looks like you made it. Thanks to you, my power's restored for a little. 
  
 **Jeanne:**
 ...Huh? 
  
-**G：? ? ? :**
+**G：???:**
 &ndash;It's been a while Evil Dragon Fafnir. If you've resurrected, I will send you back to your slumber...
  
 **Jeanne Alter:**
@@ -4330,10 +4330,10 @@ Let's keep this battle going, Master!
 **Mash:**
 I've disposed of the first wave of wyverns. Next up...
  
-**G：? ? ? :**
+**G：???:**
 A&mdash;Urrrrr! 
  
-**H：? ? ? :**
+**H：???:**
 ...
  
 **Amadeus:**
@@ -4342,13 +4342,13 @@ A&mdash;Urrrrr!
 **Marie Antoinette:**
 &ndash;My, what a coincidence. I've never forgotten your face, you lazy artisan. 
  
-**H：? ? ? :**
+**H：???:**
 That's good to hear. I've never forgotten yours either. Your face, and your pale white neck. 
  
-**H：? ? ? :**
+**H：???:**
 At the same time, I feel like this is destiny. That you and I share a special connection. 
  
-**H：? ? ? :**
+**H：???:**
 Don't we? The fate of a executioner killing the same person twice, I feel like only we share that kind of connection. 
  
 **Amadeus:**
@@ -4369,7 +4369,7 @@ That's why we executioners respect life. We are incompatible, you and I.
 **Sanson:**
 Trash who couldn't even love humans, trash who couldn't understand her, has no right to be next to her. 
  
-**G：? ? ? :**
+**G：???:**
 ...Arrrrrrrrrrr! 
  
 **Mash:**
@@ -4520,7 +4520,7 @@ Wyvern!
 **Jeanne:**
 Ugh! 
  
-**F：? ? ? :**
+**F：???:**
 Artillery, FIRE! 
  
 **Jeanne:**
@@ -5333,13 +5333,13 @@ Let's check it out.
 **Mash:**
 O-Okay! Everyone, follow me! 
  
-**H：? ? ? :**
+**H：???:**
 You! You, you, you! You cheeky squirrel fom the East! 
  
-**G：? ? ? :**
+**G：???:**
 Hehehe! Who's the actual cheeky one? Do you really think a failure like you can beat&ndash;
  
-**G：? ? ? :**
+**G：???:**
 A true Dragon like myself, Elisabeth? 
  
 **Elisabeth:**
@@ -5348,10 +5348,10 @@ Ughhhhh! I'm so upset! I'll deal with Carmilla later, you die first!
 **Elisabeth:**
 You creepy stalker! 
  
-**G：? ? ? :**
+**G：???:**
 I'm not a stalker. I'm "a devoted bodyguard who acts like a spy. "
  
-**G：? ? ? :**
+**G：???:**
 I, Kiyohime, am a woman who lives for love. 
  
 **Elisabeth:**
@@ -6437,7 +6437,7 @@ You must leave proof that you existed, whatever it is. I have. All the music I l
 Even though&mdash;that itself is insignificant. 
  
 **Mash:**
-? ? ? 
+???
  
 **Amadeus:**
 After all, I am a man who couldn't even bear witness to the death of his one and only first love. 
@@ -7329,7 +7329,7 @@ That's fine, but...Why us?
 (Elisabeth's is the worst Noble Phantasm in the world, I'm sure of it. )
  
 **Elisabeth:**
-? ? ? 
+???
  
 **Kiyohime:**
 Huh? 

@@ -604,13 +604,13 @@ That doesn't sound reasonable at all!!!
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 Burei-uchi...I've never heard of that before. I see. So that is the situation we are in. 
  
-**D：? ? ? :**
+**D：???:**
 If this Singularity is that dangerous,I will have to summon up my courage as well. 
  
-**D：? ? ? :**
+**D：???:**
 For it seems I am the only Servant in all of Chaldea who managed to evade capture. 
  
 **Mash:**
@@ -2798,13 +2798,13 @@ Hm? Who goes there!?
 **Pārvatī:**
 I have to ask that you let me handle this, Lady Kasuga-no-Tsubone. I think she's an acquaintance of mine. 
  
-**G：? ? ? :**
+**G：???:**
 ...I guess I am. Long time no see, Pārvatī. Don't worry, you're still welcome here, no matter how much I hate you. 
  
-**G：? ? ? :**
+**G：???:**
 Praise be to our stupid reunion. Joy to these ridiculous salutations. Hehe. 
  
-**G：? ? ? :**
+**G：???:**
 It seems like both of us have seen better days, doesn't it? 
  
 ---
@@ -2837,13 +2837,13 @@ At any rate, I'm just as shocked as you are. I never thought she would be using 
 **Pārvatī:**
 There must be a long story behind how she got like this. She must have left a very checkered fate on the world, too. 
  
-**G：? ? ? :**
+**G：???:**
 You had already taken the half that was in sunlight, so the other shadowy half was still up for grabs. 
  
-**G：? ? ? :**
+**G：???:**
 It's wonderful how you ignored such a glorious fateful connection. I have to commend you for that. Ah, if only...
  
-**G：? ? ? :**
+**G：???:**
 ...you would hurry up and die already. Just looking at myself all filled with light like that makes me sick. 
  
 **Sion:**
@@ -4867,7 +4867,7 @@ Oh, how embarrassing...I just hope I haven't said anything to arouse your ire...
 ---
 
 **Fujimaru 1:**
-(Somewhat? ? ? )
+(Somewhat???)
 
 ---
 
@@ -8149,7 +8149,7 @@ Here's your brush. Go on, take it. Theeere you go. Oh my, you're so good with it
  
 		Acquired Twelfth Shogun Tokugawa Ieyoshi's inrou. 
  
-## ? ? ? 
+## ???
  
 **Kasuga-no-Tsubone:**
 Hm? It looks like a dead end. 

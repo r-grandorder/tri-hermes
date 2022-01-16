@@ -788,7 +788,7 @@ You want to interrogate me, right? Fine. I'll tell you everything you want to kn
 **Kadoc:**
 That's a small price to pay for survival. At this point, I don't care what it takes to stay ali&ndash;
  
-**E：? ? ? :**
+**E：???:**
 Excellent. This makes my little insurance trip out here well worth it. 
  
 **Kadoc:**
@@ -6957,7 +6957,7 @@ Senpai, Gerda! I'm sorry, but please stay still for a bit! Try not to make any s
 (Fou was the first to notice again. He must have sensed the giant's presence before we did. )
  
 **Gerda:**
-(? ? ? )
+(???)
  
 **Mash:**
 (I'm sorry, Gerda. This must be a lot for you to take in all at once. How can I put this...)
@@ -7867,7 +7867,7 @@ Why is your village named with a number?
 
  
 **Gerda:**
-? ? ? 
+???
  
 **Gerda:**
 There's nothing strange about it. After all&ndash;
@@ -8739,7 +8739,7 @@ You've obviously been living here in this Lostbelt&ndash;I mean, village, your w
 How do you feel about it? 
  
 **Gerda:**
-? ? ? 
+???
  
 **Mash:**
 ......
@@ -9821,7 +9821,7 @@ I couldn't believe what I was seeing...
 ...? 
  
 **Children:**
-Huh? Huh? ? ? 
+Huh? Huh???
  
 **Good Fellow:**
 Haha. Nicely done, you two! 

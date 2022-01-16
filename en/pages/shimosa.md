@@ -692,31 +692,31 @@ Hey, Fujimaru. Wake up, or I'll start nibbling on you from the head down.
 
 Senpai...! Senpai! Can you hear me...!? 
 
-**E：? ? ? :**
+**E：???:**
 
 ...There you have it. 
 
-**E：? ? ? :**
+**E：???:**
 
 {(M) Mr. /(F) Ms. } Fujimaru has fallen into a deep coma. 
 
-**E：? ? ? :**
+**E：???:**
 
 {(M) He /(F) She} was thoroughly examined, but nothing was found to be amiss. If anything, {(M) he /(F) she} appears to be the picture of health. 
 
-**E：? ? ? :**
+**E：???:**
 
 Yet, {(M) he /(F) she} will not wake up. 
 
-**E：? ? ? :**
+**E：???:**
 
 Not even all the healing-focused Casters in Chaldea working together are able to open {(M) his /(F) her} eyes. 
 
-**E：? ? ? :**
+**E：???:**
 
 And according to Mash...this is not the first time Master has succumbed to such a coma. 
 
-**E：? ? ? :**
+**E：???:**
 
 When this happened before, I believe the cause lay with...
 
@@ -724,15 +724,15 @@ When this happened before, I believe the cause lay with...
 
 ...
 
-**E：? ? ? :**
+**E：???:**
 
 Oh, my apologies. Ultimately, the King of Mages was responsible for that, of course. 
 
-**E：? ? ? :**
+**E：???:**
 
 Though you were certainly complicit, you were not the sole cause of the problem. Nor are you the sort of man to repeat the same crime twice. 
 
-**E：? ? ? :**
+**E：???:**
 
 Nonetheless, I couldn't help but suspect that you might know a thing or two about this. 
 
@@ -1878,35 +1878,35 @@ Oh well, guess I'd better say something.
 
 I can tell you're a skilled fighter from the way you mowed down those spirits with a single spear strike. Are you the powerful warrior I've been hearing about? 
 
-**C：? ? ? :**
+**C：???:**
 
 Well now, well now. 
 
-**C：? ? ? :**
+**C：???:**
 
 I wasn't expecting you to answer my question with a question of your own. 
 
-**C：? ? ? :**
+**C：???:**
 
 “A powerful warrior,” hmm? It seems I'm one of the Heroic Spirits that have left their mark on humanity, but I still find that hard to believe. 
 
-**C：? ? ? :**
+**C：???:**
 
 I find quite a bit of knowledge has been stuffed into this head of mine. 
 
-**C：? ? ? :**
+**C：???:**
 
 But none of it answers any truly important questions! For what purpose was I summoned here!? 
 
-**C：? ? ? :**
+**C：???:**
 
 Where is the one who summoned me!? I don't even know what I'm supposed to be doing! 
 
-**C：? ? ? :**
+**C：???:**
 
 For the moment, I shall tell you my name! I am Houzouin Inshun! 
 
-**C：? ? ? :**
+**C：???:**
 
 I have studied both Buddhism and the spear directly under Master In'ei, the founder of Houzouin-style Soujutsu! 
 
@@ -2563,7 +2563,7 @@ Chiba Prefecture?
 
 **Onui:**
 
-Chiba Prefecture? ? ? 
+Chiba Prefecture???
 
 ---
 
@@ -3289,7 +3289,7 @@ So there were more summoned here besides Inshun!
 
 ---
 
-**G：? ? ? :**
+**G：???:**
 
 ...Indeed. Indeed. 
 
@@ -7246,11 +7246,11 @@ Either way, I guess it's too soon to say. We'll just have to learn what we can w
 
 ---
 
-**E：? ? ? :**
+**E：???:**
 
 Oh? 
 
-**E：? ? ? :**
+**E：???:**
 
 Aha, I see, I see...
 
@@ -7426,7 +7426,7 @@ Oh, uh, haha, I was just kidding. Really. But I AM getting a little hungry!
 
 ---
 
-**F：? ? ? :**
+**F：???:**
 
 ...Excuse me. Might I have a word with you? 
 
@@ -7773,19 +7773,19 @@ Now that things are peaceful in Japan, I would have thought something out of the
 
 ...but it seems like nobody really noticed. They all just kept going about their business. 
 
-**E：? ? ? :**
+**E：???:**
 
 Indeed. 
 
-**E：? ? ? :**
+**E：???:**
 
 No matter the time or place, people never change. Hah. Change simply doesn't come that easily. 
 
-**E：? ? ? :**
+**E：???:**
 
 Onlookers, curious bystanders, New York rubberneckers...No matter what you call them, you can be sure they'll show up to make trouble whenever there's a disturbance. 
 
-**E：? ? ? :**
+**E：???:**
 
 Even if not everything they see...is necessarily real. 
 
@@ -13827,7 +13827,7 @@ Yes, I can sense them. They're here.
 
 Go on men, get her! This villain has had the gall to infiltrate the castle. See to it that she never leaves! 
 
-**E：? ? ? :**
+**E：???:**
 
 How courageous. Indeed, you samurai certainly do talk a good game. 
 
@@ -17686,23 +17686,23 @@ Aah!
 
 ...Was that the wind? Were those just some leaves being blown around? 
 
-**D：? ? ? :**
+**D：???:**
 
 Sorry, no leaves here. 
 
-**D：? ? ? :**
+**D：???:**
 
 So, you decided to go out to the lavatory aaall by yourself, even though you were afraid, mm? What a brave little girl you are. 
 
-**D：? ? ? :**
+**D：???:**
 
 But you really should've asked a grown-up to come with you, you know? Haven't they told you it's dangerous to walk around alone at night? 
 
-**D：? ? ? :**
+**D：???:**
 
 Do you know what happens to children who don't do what they're told? 
 
-**D：? ? ? :**
+**D：???:**
 
 ...They get eaten by oni. 
 
@@ -25209,7 +25209,7 @@ Mystic Code: Rain of Isis!
 
 **Caster of Limbo:**
 
-What!!!? ? ? What is this!!!? ? ? 
+What!!!???What is this!!!???
 
 **Musashi:**
 
@@ -25217,7 +25217,7 @@ Looks like we're the ones who made our way to you, Caster of Limbo.
 
 **Caster of Limbo:**
 
-...!!! ...? ? ? 
+...!!! ...???
 
 **Caster of Limbo:**
 

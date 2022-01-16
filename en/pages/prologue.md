@@ -847,13 +847,13 @@ You certainly do look the part. Let's see, Leonardo da Vinci, was it?
 **Goredolf:**
 Not bad at all for a replica of a well-known genius. I always did prefer a beautiful woman for a familiar. 
  
-**F：? ? ? :**
+**F：???:**
 Your Excellency, I believe that remark could be construed as sexual harassment♡ Remember, that Servant is, for all intents and purposes, the acting director. 
  
-**F：? ? ? :**
+**F：???:**
 Though it amounts to little more than running a dinky factory out in the sticks, she HAS managed to keep Chaldea going in lieu of a proper director over the past year. 
  
-**F：? ? ? :**
+**F：???:**
 It would be in your best interests to get on her good side. Why not lead with a compliment? 
  
 **Goredolf:**
@@ -2388,7 +2388,7 @@ As your Master, I'm with you right to the end.
 **Mash:**
 But...! 
  
-**D：? ? ? :**
+**D：???:**
 Why not take {(M) him /(F) her} up on {(M) his /(F) her} offer? This is the first time in a year you've been comrades in arms, after all. 
  
 **Mash:**
@@ -3293,7 +3293,7 @@ She IS a Servant. And not the kind we know, either.
 **=== ARROW ===:**
 
  
-**A：? ? ? :**
+**A：???:**
 ...
  
 **Koyanskaya:**
@@ -3323,22 +3323,22 @@ She's a clever inventor, that Servant. But I'm betting she's just about run out 
 **Koyanskaya:**
 Let's go after them, Your Imperial Highness. There's nowhere left for them to run. They're trapped like rats. 
  
-**A：? ? ? :**
+**A：???:**
 Rats, rats, rats...There were a lot of rats in that house, too. 
  
-**A：? ? ? :**
+**A：???:**
 All they know how to do is gnaw at their surroundings and multiply...and multiply...
  
-**A：? ? ? :**
+**A：???:**
 Still, I recognize that that is one of Proper Human History's greatest strengths. 
  
-**A：? ? ? :**
+**A：???:**
 If their strength lies in multiplying, we will show our strength in eradicating them all the more fiercely. 
  
-**A：? ? ? :**
+**A：???:**
 Our world, the Lostbelt we come from,is a cruel and frigid place. 
  
-**A：? ? ? :**
+**A：???:**
 How laughable to think they consider this mild environment cold. Soon, we will show them what true hell is. 
  
 ## Section 8: On to an Unprecedented Journey 
@@ -3375,7 +3375,7 @@ No need for that! They'll never catch up to us at this pace!
 **Da Vinci:**
 One more step and victory is ours! I'll bring up the rear. The rest of you&ndash;
  
-**F：? ? ? :**
+**F：???:**
 Indeed. You were just one step short. 
 
  
@@ -3795,10 +3795,10 @@ It is the job of adults to teach children the harsh truth of reality. Even the t
 **Priest:**
 After all, changing the past via Rayshifting is the one threat we can't counter. 
  
-**H：? ? ? :**
+**H：???:**
 ...So this is Chaldeas. It looks just like an Easter egg...
  
-**H：? ? ? :**
+**H：???:**
 So this is the device I must freeze, Father? 
  
 **Priest:**

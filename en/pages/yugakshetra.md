@@ -1601,13 +1601,13 @@ So please, o great god above...
 **Narration:**
 Please guide us to the next yuga. 
  
-**A：? ? ? :**
+**A：???:**
 Hm? What's all the commotion outside? I'm gonna go take a look! 
  
-**B：? ? ? :**
+**B：???:**
 ...Where do you think you're going? 
  
-**A：? ? ? :**
+**A：???:**
 I-it's okay, I already finished my prayers! Come on, Vihan! 
  
 **Rama:**
@@ -2082,7 +2082,7 @@ Wh-what happened!? The kali are dead...? AND the sacred beasts!?
 **Mash:**
 ...Uh, hello. Who are you? 
  
-**A：? ? ? :**
+**A：???:**
 I'm Prakash, the town mayor. 
  
 **Prakash:**
@@ -3146,7 +3146,7 @@ It was as though they had not just had not a care in the world, even after being
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 My, my, my...Since when is a Servant supposed to go tossing spears at fragile little humans? 
  
 **Karna:**
@@ -3155,13 +3155,13 @@ Were you a normal human, I would indeed be deeply ashamed, but I sensed such an 
 **Karna:**
 Now that I have seen you for myself,I am even more confident in that assertion. 
  
-**D：? ? ? :**
+**D：???:**
 Well doesn't that just smack of a bit of ex post facto covering your derriere, honey. 
  
-**D：? ? ? :**
+**D：???:**
 I thought I'd hidden myself pretty well, so imagine my surprise when that spear went whizzing past me. 
  
-**D：? ? ? :**
+**D：???:**
 Oh well...That's what I get for not being more careful about investigating strange noises. 
  
 **Mash:**
@@ -3557,19 +3557,19 @@ Don't move, Rama. This won't take long.
 **???:**
 Huh? Wha? Waaaaaah!? 
  
-**D：? ? ? :**
+**D：???:**
 H-hey, watch it! Do you have any idea what a close shave that was!? 
  
-**D：? ? ? :**
+**D：???:**
 Your spearhead was just a few centimeters away from making a yucky shish kebab out of my flab&ndash;
  
-**D：? ? ? :**
+**D：???:**
 ...
  
 **Karna:**
 ...
  
-**D：? ? ? :**
+**D：???:**
 ...Karna? What're you doing here? 
  
 **Karna:**
@@ -4577,7 +4577,7 @@ We'll just have to keep praying and do the best we can.
 **Ajai:**
 ...Hmph. 
  
-**G：? ? ? :**
+**G：???:**
 You again!? What are you doing here!? 
  
 **Mash:**
@@ -5009,13 +5009,13 @@ Hold it! Something else is headed your way! It's not reading like a kali or a sa
 **Holmes:**
 Wait, this&ndash;these are Servants! And not just one! There are several! 
  
-**E：? ? ? :**
+**E：???:**
 ...Hehe. Looks like you're out of time, Aśvatthāman. 
  
 **Nezha:**
 Recommendation: Cease this game. It is meaningless. 
  
-**G：? ? ? :**
+**G：???:**
 I concur. There's no point to your game, or in us being here. I swear, I don't even know why we came along at all. 
  
 ---
@@ -5046,7 +5046,7 @@ I guess that other Nezha was on the enemy's side after all...
 **Mash:**
 We already know how strong she is. Be very careful not to let your guard down, Master. 
  
-**D：? ? ? :**
+**D：???:**
 Whoa there, slow down, girlie. We're not here to fight. 
  
 **Mash:**
@@ -5061,7 +5061,7 @@ So they are Aśvatthāman's allies. But, why would so many Servants band togethe
 **Nezha:**
 Anger: Unnecessary. We need only obey him. 
  
-**G：? ? ? :**
+**G：???:**
 We haven't sensed Indian gods here in a long time. I don't blame him for being interested, even if it's pointless. 
  
 **Ganesha:**
@@ -5087,7 +5087,7 @@ Though maybe not too much, since we've now got new,much more difficult obstacles
 **Mash:**
 If you aren't here to fight, then why are you here? 
  
-**D：? ? ? :**
+**D：???:**
 Didn't we mention it? We're accompanying him. He told us to come along, so we did. That's all there is to it. 
  
 **Rama:**
@@ -5096,16 +5096,16 @@ This “him” you speak of...Is he your Master?
 **Nezha:**
 ...
  
-**D：? ? ? :**
+**D：???:**
 Hmm, something like that. Or close enough, anyway. 
  
-**D：? ? ? :**
+**D：???:**
 Either way, it's only natural we'd obey him. 
  
-**D：? ? ? :**
+**D：???:**
 After all, he's the only god here. The one, final god. 
  
-**D：? ? ? :**
+**D：???:**
 Look, here he comes! 
  
 **Holmes:**
@@ -5149,13 +5149,13 @@ Arjuna!? Really!?
 **Holmes:**
 Not the one recorded in Chaldea, of course. He must have an altogether different Spirit Origin here...
  
-**B：? ? ? :**
+**B：???:**
 ...No. 
  
-**B：? ? ? :**
+**B：???:**
 Once...I may have been known...as Arjuna...But now...
  
-**B：? ? ? :**
+**B：???:**
 I am a god. 
  
 **Rama:**
@@ -5202,13 +5202,13 @@ But you guys are idiots. So idiotic it's infuriating. Thanks to that, now he's n
 **Aśvatthāman:**
 Which means you guys are done for. 
  
-**D：? ? ? :**
+**D：???:**
 Well, now that you've come all this way to see them for yourself, what do you think? 
  
 **God Arjuna:**
 ...Nothing. 
  
-**I：? ? ? :**
+**I：???:**
 Huh? 
  
 **God Arjuna:**
@@ -5235,16 +5235,16 @@ God has witnessed defective beings. God has witnessed evil...
 **God Arjuna:**
 They have no place...in the next yuga...
  
-**D：? ? ? :**
+**D：???:**
 Welp, there he goes. I guess he's not going to give us any orders then? 
  
 **Nezha:**
 Conclusion: Impossible. Futile. Meaningless. Nothing and no one can break his concentration. We'll just have to wait. 
  
-**I：? ? ? :**
+**I：???:**
 Man, this really was a waste of time. I knew I should've just ignored all this and kept going with my research. 
  
-**I：? ? ? :**
+**I：???:**
 ...Yeah, yeah, I know that means I'd be gone in the next yuga. I just wanted to vent. 
  
 ---
@@ -5368,7 +5368,7 @@ All right, this time, I want you both to&ndash;
 ---
 
  
-**I：? ? ? :**
+**I：???:**
 Oh for...Can you really not see what's going on here? 
  
 **Peperoncino:**
@@ -5534,16 +5534,16 @@ Hmm, well that puts me in a pretty pickle. Would you say all the others feel the
 **Aśvatthāman:**
 How should I know? But I'd guess they wouldn't do anything unless they were directly ordered to. Pisses me off. 
  
-**B：? ? ? :**
+**B：???:**
 Hehe. Yeah, pretty much. 
  
-**B：? ? ? :**
+**B：???:**
 Oh, but don't get me wrong, it's not because I don't care about my job. I'm just confident that you're more than capable of handling this alone, Aśvatthāman. 
  
-**B：? ? ? :**
+**B：???:**
 Confidence is hugely important, you know. It's just like hunting. It's a bad idea to work too hard when you're confident in your position. 
  
-**B：? ? ? :**
+**B：???:**
 If you go around hunting down mountain animals when you don't need to, the mountain'll end up dead. 
  
 **Karna:**
@@ -22327,7 +22327,7 @@ I couldn't even be the man...you wanted me to be...
 **Peperoncino:**
 Anyway, now it's time to decide what I'm going to do next...
  
-**A：? ? ? :**
+**A：???:**
 ...
  
 **Peperoncino:**
@@ -22339,7 +22339,7 @@ I only washed my hands of this Lostbelt's king,not the Lostbelt itself.
 **Peperoncino:**
 Besides, it's not like any of us ever had a real choice anyway, especially with you watching over us. Right, U? 
  
-**A：? ? ? :**
+**A：???:**
 ......
  
 **Peperoncino:**

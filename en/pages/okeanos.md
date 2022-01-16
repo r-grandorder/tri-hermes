@@ -66,54 +66,54 @@ Now, get to work you idiots! We'll win this war and return to drink ourselves si
 **Pirates:**
 OOOOOOH! Captain Drake, you're the best! I love being a pirate! 
  
-**F：? ? ? :**
+**F：???:**
 ...You managed to escape this massive whirlpool...And you aren't even a Heroic Spirit. Unbelievable...
  
-**F：? ? ? :**
+**F：???:**
 But&mdash;Heh heh, hahahahaha! That's what makes you Francis Drake! Your legend is true! 
  
-**F：? ? ? :**
+**F：???:**
 Hahaha! HAHAHAHAH! AAAAAAHAHAHAHAHA LOLOLOLOLOL! 
 
 **--SECTION BREAK--**
  
-**A：? ? ? :**
+**A：???:**
 &mdash;I woke up at the same time today. 
  
-**A：? ? ? :**
+**A：???:**
 I checked my temperature. My five senses. To drive the point home, I said my name out loud. 
  
-**A：? ? ? :**
+**A：???:**
 A deep breath&mdash;I confirmed my consciousness,as I was told it might disappear each time I fell asleep. 
  
-**A：? ? ? :**
+**A：???:**
 I was myself. My existence had been approved one more day. 
  
-**B：? ? ? :**
+**B：???:**
 Good morning, Number 2. Aren't you cold? The temperature outside is 70 below. 
  
-**B：? ? ? :**
+**B：???:**
 It's especially cold this morning. Well, I suppose that's irrelevant as long as you're in this room. 
  
-**A：? ? ? :**
+**A：???:**
 There in that clean, comfortable room,I said what came to my mind, "That's quite troublesome. "
  
-**B：? ? ? :**
+**B：???:**
 ...Any inconveniences? If there's something you don't like, please let me know. 
  
-**A：? ? ? :**
+**A：???:**
 He smiled as he told me that,and gave me a very pained look. 
  
-**A：? ? ? :**
+**A：???:**
 I thought, perhaps, that part of his body was in pain. "Are you okay? " I asked him. 
  
-**B：? ? ? :**
+**B：???:**
 ...Yeah, I'm fine. Guess my worries were unwarranted. Good morning, ■■. Congrats on your 5,110th awakening. 
  
-**A：? ? ? :**
+**A：???:**
 "Thank you very much," I responded. It was how I genuinely felt. 
  
-**A：? ? ? :**
+**A：???:**
 I was extremely happy. For one more day,I'd get to enjoy the wonders of this world. 
  
 **Fou:**
@@ -413,7 +413,7 @@ Leave the errands till after we've returned to Chaldea. Now, let's go.
 Hahaha. Mash has really started to take charge. Fujimaru is the type that gets henpecked, too. 
  
 **Mash:**
-? ? ? 
+???
  
 
 ---
@@ -2096,13 +2096,13 @@ Looks like they sensed you guys. They're coming in fast!
 **Mash:**
 Hopefully we can talk it out with them&ndash;
  
-**F：? ? ? :**
+**F：???:**
 Gagagagaga! Gigigigi&mdash;giiiiiiii!! 
  
-**F：? ? ? :**
+**F：???:**
 M-My! My name! Eric! The Grand...Eric! 
  
-**F：? ? ? :**
+**F：???:**
 Gah-go! Kill! Kill anyone in the way! Kill. KILL! Gigigiiii&ndash;! 
  
 **Mash:**
@@ -2310,37 +2310,37 @@ All right, you scallywags! Time to set sail!
  
 ## Section 4: Lightning and Goddess 
  
-**E：? ? ? :**
+**E：???:**
 (Pant, pant, pant...)
  
-**E：? ? ? :**
+**E：???:**
 Ugh, no good. So tired, can't move, can't run. 
  
-**E：? ? ? :**
+**E：???:**
 I've never run so much in my life. Why am I a Servant in the first place? 
  
-**E：? ? ? :**
+**E：???:**
 I don't see "myself" here&ndash;Nor my "loser sister" either...
  
-**E：? ? ? :**
+**E：???:**
 ...No, even if that girl isn't here, I'm fine. I'm so fine in all sorts of ways...
  
-**E：? ? ? :**
+**E：???:**
 Sigh...I wonder who I'm talking to. 
  
-**E：? ? ? :**
+**E：???:**
 In the first place, this maze is "that" labyrinth, right? There's no way...out of here...and no string. 
  
-**E：? ? ? :**
+**E：???:**
 ...Wait, that means HE is here. As long as this labyrinth exists, HE is sure to be here. 
  
-**E：? ? ? :**
+**E：???:**
 !!! I knew it...
  
-**E：? ? ? :**
+**E：???:**
 Something's coming from behind, too...ARGH! What am I supposed to do? 
  
-**E：? ? ? :**
+**E：???:**
 Auuuuuggggghhhh! 
  
 **Drake:**
@@ -2858,16 +2858,16 @@ I think it continuously grants your wish of,"Whatever it is, gunfire is effectiv
 **Drake:**
 Oh, is that what it is? So, I guess I shouldn't wonder about when the Wild Hunt is happening then. 
  
-**F：? ? ? :**
+**F：???:**
 Hey, it looks like they're here again. I thought you wiped them out...
  
-**F：? ? ? :**
+**F：???:**
 Oh dear, isn't this just troublesome. What do you wanna do? 
  
-**F：? ? ? :**
+**F：???:**
 ...Hmmm. If you want to rampage, then be my guest? 
  
-**F：? ? ? :**
+**F：???:**
 Let me warn you...I don't like breaking a sweat. So, I'm not helping you. 
  
 **--ARROW--**
@@ -2917,7 +2917,7 @@ Seems my hunch was right. Something's headed our way!
 **Mash:**
 This is...a Servant! 
  
-**H：? ? ? :**
+**H：???:**
 ...Die. 
  
 **Drake:**
@@ -2964,25 +2964,25 @@ Now&ndash;give Davy Jones my regards!
 **Asterios:**
 Ugh! 
  
-**F：? ? ? :**
+**F：???:**
 ...Hold up! 
  
 **Mash:**
 Oh no...Two Servants? 
  
-**F：? ? ? :**
+**F：???:**
 All right! All right! I guess I just have to go with you. 
  
-**F：? ? ? :**
+**F：???:**
 Do whatever you want with me! Just hurry up! 
  
-**F：? ? ? :**
+**F：???:**
 Asterios is near death. He wouldn't be much use to you. 
  
-**F：? ? ? :**
+**F：???:**
 Besides, if we take too long, he'll die and then the labyrinth will collapse on you. 
  
-**F：? ? ? :**
+**F：???:**
 &ndash;We should hurry back. Leave the navigation to me. 
  
 **Asterios:**
@@ -2991,7 +2991,7 @@ Besides, if we take too long, he'll die and then the labyrinth will collapse on 
 **Mash:**
 U-Umm,I'm sorry. Do you have a moment? 
  
-**F：? ? ? :**
+**F：???:**
 What is it, Miss Lame-Shield? Let's hurry up and go where "he" is. 
  
 **Mash:**
@@ -3000,7 +3000,7 @@ L-Lame!?
 **Drake:**
 Hey brat, don't talk to us like that. You're the one getting rescued. 
  
-**F：? ? ? :**
+**F：???:**
 Huh? I don't think that's a way to talk to a grown woman. 
  
 **Drake:**
@@ -3227,25 +3227,25 @@ Fou!
  
 ## Section 5: Blackbeard's Misery 
  
-**G：? ? ? :**
+**G：???:**
 &ndash;I always do wonder...Isn't he ashamed to be alive? 
  
-**H：? ? ? :**
+**H：???:**
 Now, Mary. You can't say such things. 
  
-**H：? ? ? :**
+**H：???:**
 Earthworms, cockroaches, even plague-ridden sewer rats are all living beings, you know? 
  
-**H：? ? ? :**
+**H：???:**
 That means it's okay for this Servant to live. I shall allow it. 
  
-**F：? ? ? :**
+**F：???:**
 Ohoho! LOL My, my, such intense and poisonous talk you're engaging in! LOLOLOL 
  
-**F：? ? ? :**
+**F：???:**
 Heh heh! LOL Missy Anne is always so gentle when she throttles me! 
  
-**F：? ? ? :**
+**F：???:**
 Because I'm naïve, if you ever said that to me,I'd have to *&£¢% you both on the spot! (Just kidding! )
  
 **Mary:**
@@ -3260,7 +3260,7 @@ If you keep your distance, he's just a harmful,unpleasant, and stinking guy, rig
 **Anne:**
 Now Captain, give us your orders soon, or I'll gouge, crush, and blow away that lighter-than-a-balloon head of yours. 
  
-**F：? ? ? :**
+**F：???:**
 Oops, good heavens me! LOL Sorry, sorry. Please, let me work hard from now on. LOLOLOL 
  
 **Anne:**
@@ -3269,13 +3269,13 @@ Oops, good heavens me! LOL Sorry, sorry. Please, let me work hard from now on. L
 **Mary:**
 Anne, calm down or you might pop a vessel. 
  
-**F：? ? ? :**
+**F：???:**
 Going into totally serious mode! Wowowowow! It's coming, coming, coming&ndash;
  
-**F：? ? ? :**
+**F：???:**
 ...And so, my brothers. The licky-enthusiast's treasured Muse Euryale&ndash;
  
-**F：? ? ? :**
+**F：???:**
 Let's go catch her! Oh, and the you-know-what from the old hag, too! 
  
 **Anne:**
@@ -3284,25 +3284,25 @@ Huhuhu. That's the main target, idiot.
 **Mary:**
 No good, he can only think about Euryale. Fine, we'll just have to be careful. 
  
-**F：? ? ? :**
+**F：???:**
 Duhuhuhu! Missy Euryale is so fine! I love her so much! 
  
-**F：? ? ? :**
+**F：???:**
 Now, Missy Mary Read! Missy Anne Bonny! Mistah Eric Bloodaxe! And&ndash;
  
-**F：? ? ? :**
+**F：???:**
 Teacher! Our teacher! Please, take the field! 
  
-**E：? ? ? :**
+**E：???:**
 Ah, I wonder...I never did anything great enough to be called a teacher, yeah? As you can see, I'm an underdog. 
  
-**F：? ? ? :**
+**F：???:**
 Haha, stop joking! With you by our side, great hero of the Trojan War, our power level will be over 9000! 
  
-**F：? ? ? :**
+**F：???:**
 Plus we've had a nutritionally balanced breakfast! Great and Ne-great! 
  
-**E：? ? ? :**
+**E：???:**
 ...Hey, guys. Are you really okay with a captain like this? Hello? 
  
 **Mary:**
@@ -3311,7 +3311,7 @@ Plus we've had a nutritionally balanced breakfast! Great and Ne-great!
 **Anne:**
 ...
  
-**F：? ? ? :**
+**F：???:**
 Ahnm, these freezing glares feel so good. They should be coming out soon...Fuhehe! 
  
 **Euryale:**
@@ -3992,19 +3992,19 @@ Something just...
 **Mash:**
 ...He's so stubborn! That guy! 
  
-**C：? ? ? :**
+**C：???:**
 You don't let your guard down. Good girl, good girl. 
  
-**C：? ? ? :**
+**C：???:**
 I thought it would be easier if we killed the Master as soon as possible...
  
-**C：? ? ? :**
+**C：???:**
 &ndash;You're really something special. What kind of Servant are you? 
  
-**C：? ? ? :**
+**C：???:**
 Well, if you're defeated by something of this caliber,then it's not worth "letting you live. "
  
-**C：? ? ? :**
+**C：???:**
 Do your best, young girl. 
  
 **Drake:**
@@ -4420,89 +4420,89 @@ Hmmm, maybe I should change the ship's name to the "Golden Dragon"...
  
 **--ARROW--**
  
-**H：? ? ? :**
+**H：???:**
 ...All right. Uh, chop that up...and add some spices, and sauté...
  
-**H：? ? ? :**
+**H：???:**
 Oh no,we need to add some vegetables too, right? 
  
-**H：? ? ? :**
+**H：???:**
 Will that grass there do? There! 
  
-**H：? ? ? :**
+**H：???:**
 Okay, now put it in that box...And stir...Done! 
  
-**H：? ? ? :**
+**H：???:**
 Darling, I made you a boxed lunch! 
  
-**E：? ? ? :**
+**E：???:**
 Wait. Do you even know how you made that? 
  
-**E：? ? ? :**
+**E：???:**
 It's just grilled meat with some plucked weeds sprinkled on top, you can't call it a boxed lunch. 
  
-**H：? ? ? :**
+**H：???:**
 Don't say that. Please try some? It's tasty, you know? 
  
-**E：? ? ? :**
+**E：???:**
 How are you so confident in a boxed lunch with that kind of quality? 
  
-**H：? ? ? :**
+**H：???:**
 You're asking so much, darling...What? 
  
-**E：? ? ? :**
+**E：???:**
 Hmm...Something's coming. Looks like a Servant. 
  
-**H：? ? ? :**
+**H：???:**
 Is it friend or foe? 
  
-**E：? ? ? :**
+**E：???:**
 If she's cute, I don't care which side she's&ndash;
  
-**E：? ? ? :**
+**E：???:**
 No, it's nothing. Don't scrape me on this tree trunk! Owww! 
  
-**H：? ? ? :**
+**H：???:**
 Actually, this is perfect. I'm getting bored of this island already. 
  
-**H：? ? ? :**
+**H：???:**
 I don't even know why we were summoned here 
 in the first place! 
  
-**E：? ? ? :**
+**E：???:**
 Yes, you're right. Friend or foe, we need information. 
  
-**H：? ? ? :**
+**H：???:**
 ...Well, it's not like I want to leave or anything, though...
  
-**E：? ? ? :**
+**E：???:**
 Speak for yourself. These last two islands are way too boring. 
  
-**H：? ? ? :**
+**H：???:**
 And there weren't any cute girls? 
  
-**E：? ? ? :**
+**E：???:**
 No, there weren't. 
  
-**E：? ? ? :**
+**E：???:**
 ...I'm sorry. I'm really sorry. 
  
-**E：? ? ? :**
+**E：???:**
 I forgot that I rely completely on you,and that I leech off you for everything. 
  
-**E：? ? ? :**
+**E：???:**
 I'm sorry, I'm sorry, please don't swing me arouuu&ndash;
  
-**H：? ? ? :**
+**H：???:**
 Ah...(slip)
  
-**E：? ? ? :**
+**E：???:**
 Wha&mdash;at&mdash;! 
  
-**H：? ? ? :**
+**H：???:**
 Eek! Darling, I'm sorry! 
  
-**E：? ? ? :**
+**E：???:**
 You think apologizing is enough?! You moron! 
  
 **Dr. Roman:**
@@ -4541,7 +4541,7 @@ Geez...Comfy enough there, Princess?
 **Euryale:**
 Princess? I'm a goddess. 
  
-**E：? ? ? :**
+**E：???:**
 Please, stop. Stop! Don't chew, don't chew please! Not food! Not food! 
  
 **Mash:**
@@ -4588,7 +4588,7 @@ Well? Can you find it?
 **Mash:**
 No, not really...
  
-**E：? ? ? :**
+**E：???:**
 Hrrrnngh!? 
  
 ---
@@ -4618,7 +4618,7 @@ Ah, that's it. The magical energy I mentioned is coming from that thing.
 **Mash:**
 Is this the familiar you mentioned? ...Hmmm, it doesn't look like anything but a plush toy. 
  
-**E：? ? ? :**
+**E：???:**
 Kyun kyun♪
  
 **Euryale:**
@@ -4630,7 +4630,7 @@ Me too.
 **Drake:**
 What? You too? So I'm not the only one...
  
-**E：? ? ? :**
+**E：???:**
 ...
  
 **Mash:**
@@ -4642,16 +4642,16 @@ What? You too? So I'm not the only one...
 **Drake:**
 (Stare...)
  
-**E：? ? ? :**
+**E：???:**
 ...
  
 **Asterios:**
 Wah! 
  
-**E：? ? ? :**
+**E：???:**
 Hyoo? What are you doing? 
  
-**E：? ? ? :**
+**E：???:**
 ...Oh. 
  
 **Mash:**
@@ -4665,7 +4665,7 @@ Talking plushies are rare.
 **Mash:**
 ...I see, it does look pretty rare. 
  
-**E：? ? ? :**
+**E：???:**
 I'm not a plush toy, okay? Though I do look like one. I'll admit that. 
  
 
@@ -4677,7 +4677,7 @@ Let's dissect it.
 **Mash:**
 Dissect...You're right. That's a pretty good idea. 
  
-**E：? ? ? :**
+**E：???:**
 No, it's not! 
  
 
@@ -4687,37 +4687,37 @@ No, it's not!
 **Mash:**
 ...It really talks. Are you friend or foe? 
  
-**E：? ? ? :**
+**E：???:**
 &ndash;Huh? That's my line! 
  
-**E：? ? ? :**
+**E：???:**
 ...I'm sorry. I think we can be friends. We have no intention of harming you. 
  
-**H：? ? ? :**
+**H：???:**
 Ah&mdash;!! 
  
 **Mash:**
 ...A Servant? 
  
-**E：? ? ? :**
+**E：???:**
 Wait! They're not enemies...Pugyuru?! 
  
-**H：? ? ? :**
+**H：???:**
 Did you cheat on me again, darling?! Despite! Having! ME! 
  
-**H：? ? ? :**
+**H：???:**
 I'm at the limit of my patience! Come on, it is time to punish you! 
  
-**E：? ? ? :**
+**E：???:**
 What? How am I the first to get hit? Wait! Wait! There's a misunderstanding! 
  
-**E：? ? ? :**
+**E：???:**
 I really was staring at their breasts and legs, but...I'm sorr...Pugyuru! 
  
 **Mash:**
 U-Um...
  
-**H：? ? ? :**
+**H：???:**
 What? Don't interfere in a lover's spat! It is a civil matter! Civil court! 
  
 **Mash:**
@@ -4744,16 +4744,16 @@ What are you doing here?
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 Hmm? ...Wait, you're human? Are you a Master? 
  
-**E：? ? ? :**
+**E：???:**
 Fujimaru...Right. Okay, finally we meet a respectable Servant. 
  
-**E：? ? ? :**
+**E：???:**
 Let's see...This summon is for a Holy Grail War, right? Are we friend or foe? Is the busty girl single? 
  
-**H：? ? ? :**
+**H：???:**
 Don't casually mix questions up! 
  
 ---
@@ -4776,7 +4776,7 @@ We're here to repair the world.
 **Orion:**
 ...I see. Now I get what's going on, more or less. 
  
-**H：? ? ? :**
+**H：???:**
 Huh...So this world is endless? Eternal? 
  
 **Mash:**
@@ -4785,13 +4785,13 @@ Even if this era is,I believe it will still vanish if its outer frame is gone.
 **Mash:**
 And if that happens, we'll be defeated,and human history will come to an end. 
  
-**H：? ? ? :**
+**H：???:**
 Poo...
  
 **Orion:**
 Hey, you were thinking that you wanted to live in this world forever and stuff, weren't you? 
  
-**H：? ? ? :**
+**H：???:**
 Oh! Guessing what's on my mind...It's like we're in love...How lovely...
  
 **Orion:**
@@ -4803,7 +4803,7 @@ Senpai, Senpai...
 **Mash:**
 Those two people...Or one person and one thing? There's something weird about their relationship...
  
-**H：? ? ? :**
+**H：???:**
 What is it? No matter how you look at it,Darling and I are the best couple of the Servant world. 
  
 **Orion:**
@@ -4812,19 +4812,19 @@ Hmm, from a third party viewpoint, it must look strange for a woman to be talkin
 **Mash:**
 I see, each person has their own tastes. That aside, could you help us? 
  
-**H：? ? ? :**
+**H：???:**
 Hmm, what do you think, Darling? 
  
 **Orion:**
 You ask what I think, but with humanity about to be exterminated. We have no choice but to help, idiot! 
  
-**H：? ? ? :**
+**H：???:**
 I'm not an idiot! I'm a goddess! 
  
 **Orion:**
 Quiet you useless goddess! (Slap, slap, slap, slap, slap, slap! )
  
-**H：? ? ? :**
+**H：???:**
 Ah, it's DV! This is what you call domestic violence, right? 
  
 **Euryale:**
@@ -5221,13 +5221,13 @@ Heh heh. So many heroines populate my dreams, I just don't remember.
 **Anne:**
 Yes♪ Let's kill him, after all♪
  
-**C：? ? ? :**
+**C：???:**
 ...Huh? Hey Captain, your enemies are here. That Francis Drake. 
  
 **Blackbeard:**
 Euryale-chan is here? And the Holy Grail, too! 
  
-**C：? ? ? :**
+**C：???:**
 Most likely. I have to say,they're out for revenge a lot earlier than expected. 
  
 **Blackbeard:**
@@ -5239,10 +5239,10 @@ Well, I guess we don't have a choice. Let's get to work.
 **Anne:**
 Yeah, you're right. But I'm pretty sure I opened a big hole in their bilge...What did they do? 
  
-**C：? ? ? :**
+**C：???:**
 &ndash;What's more important is how they're coming back after such a severe beating. 
  
-**C：? ? ? :**
+**C：???:**
 ...They have something up their sleeve. But I have nothing to do with it. 
  
 **Blackbeard:**
@@ -5423,7 +5423,7 @@ What?
 **Anne:**
 Explode? 
  
-**C：? ? ? :**
+**C：???:**
 Ah, so that's what's going on! Dammit! 
  
 **Pirate:**
@@ -5668,16 +5668,16 @@ Teach! Dammit, you...To your own comrade!?
  
 **--ARROW--**
  
-**F：? ? ? :**
+**F：???:**
 Well...You finally let your guard down, Captain. 
  
-**F：? ? ? :**
+**F：???:**
 I mean, you act totally carefree, but wherever you are,you're always gripping your gun warily. 
  
-**F：? ? ? :**
+**F：???:**
 This old man's really impressed. 
  
-**F：? ? ? :**
+**F：???:**
 After all, a genius who acts like a moron is more trouble than a moron calling himself a genius. 
  
 **Blackbeard:**
@@ -5930,97 +5930,97 @@ Ugh...Eu...ry...ale...
  
 ## Section 9: Tracks Down the Dandies 
  
-**E：? ? ? :**
+**E：???:**
 Excuse me. I'm coming in, Master. 
  
-**F：? ? ? :**
+**F：???:**
 Hey, what's going on? My beloved! 
  
-**E：? ? ? :**
+**E：???:**
 Lord Hektor contacted us. It seems he caught Euryale. 
  
-**F：? ? ? :**
+**F：???:**
 I see! I see, I see, I see! All right! 
  
-**F：? ? ? :**
+**F：???:**
 We were told, if we offer up Euryale,we can obtain even more power. 
  
-**F：? ? ? :**
+**F：???:**
 Me! I'll be more powerful than anyone. I'll be invincible! Wouldn't that be amazing? 
  
-**E：? ? ? :**
+**E：???:**
 Yes, very. I think that would be extremely amazing, Master. 
  
-**F：? ? ? :**
+**F：???:**
 I like your smile. Your smile is like the sun. It never fails to enrich my heart. 
  
-**F：? ? ? :**
+**F：???:**
 Oh, but you seem a little tired. Are you all right? 
  
-**F：? ? ? :**
+**F：???:**
 You've been the ship's power source for so long. I want you to tell me when it gets too hard. 
  
-**F：? ? ? :**
+**F：???:**
 See. Just a bit. If it is just a bit,I can think about letting you rest. 
  
-**E：? ? ? :**
+**E：???:**
 T-Thank you very much! But it's fine. Your words alone are enough for me to go on. 
  
-**F：? ? ? :**
+**F：???:**
 Perfect&mdash;yes. That's how you should be. The woman who will become my lovely wife. 
  
-**F：? ? ? :**
+**F：???:**
 As soon as Hektor returns,let's go search for "you-know-what. "
  
-**F：? ? ? :**
+**F：???:**
 I mean, where the hell is it? You still haven't received any oracle? 
  
-**E：? ? ? :**
+**E：???:**
 Correct. I assume that as soon as Lord Hektor returns,I will receive an oracle showing where we must go. 
  
-**F：? ? ? :**
+**F：???:**
 What's with all these problems...They always keep dragging me down...
  
-**F：? ? ? :**
+**F：???:**
 Ah, I'm really sorry. I don't mean to blame them. 
  
-**F：? ? ? :**
+**F：???:**
 But, I have the right to receive these oracles too. Why is it only you&ndash;? 
  
-**E：? ? ? :**
+**E：???:**
 ...? What is it, Master? 
  
-**F：? ? ? :**
+**F：???:**
 ...Nothing. Haste makes waste I guess. 
  
-**F：? ? ? :**
+**F：???:**
 That's right, that must be it. For now, I'll believe in your oracles, and do my best as the captain. 
  
-**E：? ? ? :**
+**E：???:**
 Yes, that is what we hope. Let's go welcome Lord Hektor. 
  
-**E：? ? ? :**
+**E：???:**
 We members of Argonautai are undefeatable heroes. There is no way a random group like theirs can win. 
  
-**F：? ? ? :**
+**F：???:**
 Yes, you're right! We are the strongest! There is no mistake. Our strength is unparalleled! 
  
-**F：? ? ? :**
+**F：???:**
 We have the world's greatest, strongest hero, and witch on our side! Oh, and there's one useless woman, too. 
  
-**F：? ? ? :**
+**F：???:**
 Hmph, to think someone would vow chastity to someone like Artemis and reject my invitation like that. 
  
-**F：? ? ? :**
+**F：???:**
 Should be a shark's meal by now. Serves her right. 
  
-**F：? ? ? :**
+**F：???:**
 Now, everybody! Prepare to depart! 
  
-**F：? ? ? :**
+**F：???:**
 We shall obtain the "Ark. " Even the golden ram pales in comparison to this treasure. 
  
-**F：? ? ? :**
+**F：???:**
 With the Holy Grail and the "Ark,"I will reign as the king of Okeanos! 
  
 **Drake:**
@@ -6622,10 +6622,10 @@ Ugh, each and every one! Hmm. You know what?
 **Drake:**
 If we wanna burn down a ship, we should just ram our own burning ship into them, yeah? 
  
-**F：? ? ? :**
+**F：???:**
 &ndash;All right, found them. Okay, Heracles. 
  
-**F：? ? ? :**
+**F：???:**
 Let's send those scrappy masses gathered there a hearty greeting. 
  
 **Mash:**
@@ -6640,43 +6640,43 @@ Nuaaaah!!
 **Euryale:**
 Asterios! 
  
-**F：? ? ? :**
+**F：???:**
 Hahaha! He managed to barely catch it! That barbarian over there...
  
-**F：? ? ? :**
+**F：???:**
 What is that? Is it a werebeast? 
  
-**E：? ? ? :**
+**E：???:**
 Oh, that's probably Lord Asterios. Otherwise known as the Minotaur. 
  
-**E：? ? ? :**
+**E：???:**
 The tragic child born from the union of a divine bull and a human. 
  
-**F：? ? ? :**
+**F：???:**
 So, a poorly created human! A comical creature fated to be defeated by a hero! 
  
-**F：? ? ? :**
+**F：???:**
 The're really short on talent aren't they? Hahahaha! 
  
-**F：? ? ? :**
+**F：???:**
 Hektor! You seem to be in trouble. Need help? 
  
 **Hektor:**
 ...Yes, Captain. I'm so sorry. Could you help? 
  
-**F：? ? ? :**
+**F：???:**
 No problem, Hektor! The goddess is there? And you have the Holy Grail? 
  
-**F：? ? ? :**
+**F：???:**
 Then all is well. 
  
-**F：? ? ? :**
+**F：???:**
 While we're at it,let's settle the score once and for all! 
  
-**F：? ? ? :**
+**F：???:**
 You, the evildoers trying to "correct" the world...And us, the heroes trying to make it right! 
  
-**F：? ? ? :**
+**F：???:**
 A suitable finale for the Holy Grail War! 
  
 **Hektor:**
@@ -7165,7 +7165,7 @@ Don't you dare...
 Come over here, Euryale! 
  
 **Medea Lily:**
-? ? ? Why go so far to protect her? You're a pirate knowing no love nor romance, only desire, so why? 
+???Why go so far to protect her? You're a pirate knowing no love nor romance, only desire, so why? 
  
 **Drake:**
 Hah! You don't understand? I may be inhuman, but this girl's beauty is true! 
@@ -7915,52 +7915,52 @@ Uh...This girl is&ndash;
  
 **--BATTLE--**
  
-**D：? ? ? :**
+**D：???:**
 All right, it's delivered. 
  
-**E：? ? ? :**
+**E：???:**
 ...Whew. They're sure to notice the letter on that arrow. It's not like they have any clues right now. 
  
-**E：? ? ? :**
+**E：???:**
 Now they've got to come to this island...They should. But there is an off chance...Or not? 
  
-**E：? ? ? :**
+**E：???:**
 Oh no, I'm getting anxious. If they don't figure out that arrow, we'll never get another chance! 
  
-**E：? ? ? :**
+**E：???:**
 It's about time the Argonauts found us as well.... And if things don't play out, it's checkmate. 
  
-**E：? ? ? :**
+**E：???:**
 ...This is bad. It's super bad. I'm getting horribly anxious. I need some medicine. 
  
-**D：? ? ? :**
+**D：???:**
 Shut up. 
  
-**D：? ? ? :**
+**D：???:**
 They have no will to fight? Impossible. We've already confirmed&ndash;They're determined to fight. 
  
-**D：? ? ? :**
+**D：???:**
 We're sure they're seeking the "Ark," right? Otherwise, they wouldn't be going island-hopping. 
  
-**D：? ? ? :**
+**D：???:**
 They'll surely come. The world will be destroyed if they don't. 
  
-**E：? ? ? :**
+**E：???:**
 Of course my calculations are correct. Oh, but...No, I just can't. 
  
-**E：? ? ? :**
+**E：???:**
 I can't stand the anxiety, the feeling that everything is futile! 
  
-**E：? ? ? :**
+**E：???:**
 I know, my love...May I hold your hand? 
  
-**E：? ? ? :**
+**E：???:**
 I'd like your soft hand to guide me to tranquility. Desperately. 
  
-**D：? ? ? :**
+**D：???:**
 May you? You may not. So no. 
  
-**E：? ? ? :**
+**E：???:**
 ...I'd like an explanation as to why I may not, but...
  
 **Both:**
@@ -8031,7 +8031,7 @@ Okay, we'll defeat them quickly!
 **Mash:**
 Combat complete. Let's keep going, Master. 
  
-**E：? ? ? :**
+**E：???:**
 Wait! 
  
 **Mash:**
@@ -8040,10 +8040,10 @@ Wait!
 **Drake:**
 Are you the one who sent that arrow? 
  
-**E：? ? ? :**
+**E：???:**
 That's right! 
  
-**E：? ? ? :**
+**E：???:**
 ...Are you foes of the Argonauts? Or have you already given up and submitted? 
  
 ---
@@ -8061,13 +8061,13 @@ We haven't given up.
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 ...Very well! Then I shall show myself! 
  
-**E：? ? ? :**
+**E：???:**
 ...Forgive my questioning. I already knew the answer, but I still had to ask. 
  
-**E：? ? ? :**
+**E：???:**
 We are, after all, the last hope in these seas. 
  
 **Mash:**
@@ -8184,7 +8184,7 @@ The "Ark" is a Noble Phantasm!?
 **Atalante:**
 Indeed. He was the first Servant summoned to these seas. His True Name is&ndash;
  
-**F：? ? ? :**
+**F：???:**
 Hey, I've been waiting a long time for you guys. 
  
 **Atalante:**

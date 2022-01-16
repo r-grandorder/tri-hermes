@@ -547,25 +547,25 @@ Right!
  
 **--BATTLE--**
  
-**D：? ? ? :**
+**D：???:**
 Sheathe your swords! It's over. You there! Are you reinforcements from the capital? 
  
-**D：? ? ? :**
+**D：???:**
 I thought the capital was sealed off...No matter, I commend you! 
  
-**D：? ? ? :**
+**D：???:**
 It doesn't matter if you were once my enemy. I am merciful, so past mistakes are water under the bridge. 
  
-**D：? ? ? :**
+**D：???:**
 More importantly, I praise the way you fought just now. For a girl to brandish a weapon larger than herself...
  
-**D：? ? ? :**
+**D：???:**
 Umu, I must say I like you! You showed such indescribable, aberrant beauty! 
  
-**D：? ? ? :**
+**D：???:**
 Very good, I shall allow you to fight by my side. Revel in the ultimate honor! 
  
-**D：? ? ? :**
+**D：???:**
 ...Still, you people sure dress in a strange fashion. Aren't you showing a little too much? Are you foreigners? 
  
 ---
@@ -573,7 +573,7 @@ Very good, I shall allow you to fight by my side. Revel in the ultimate honor!
 **Fujimaru 1:**
 We are beyond words for your generous praise. 
  
-**D：? ? ? :**
+**D：???:**
 Yes, yes. You may enjoy wallowing in the sweet sounds I utter. 
  
 
@@ -582,31 +582,31 @@ Yes, yes. You may enjoy wallowing in the sweet sounds I utter.
 **Fujimaru 2:**
 We're reinforcements, just passing by. 
  
-**D：? ? ? :**
+**D：???:**
 What perfect timing! Do you serve Boudica,perhaps? Her moves are beyond shrewd. 
  
 
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 At any rate, this victory belongs to us. I will reward you handsomely! 
  
-**D：? ? ? :**
+**D：???:**
 Oh, uh, sorry.... I couldn't help myself just now. 
  
-**D：? ? ? :**
+**D：???:**
 You'll have to wait for your reward. Since I have nothing but this sword at the moment. 
  
-**D：? ? ? :**
+**D：???:**
 It will all be taken care of after we're back in Rome. Now then, follow me! 
  
 ## Section 2: All Roads Lead to Rome 
  
-**D：? ? ? :**
+**D：???:**
 By the way, you people. I don't doubt that you're foreigners, but where are you from? 
  
-**D：? ? ? :**
+**D：???:**
 Surely not...Britannia. The Far East...doesn't seem likely, either. 
  
 ---
@@ -614,7 +614,7 @@ Surely not...Britannia. The Far East...doesn't seem likely, either.
 **Fujimaru 1:**
 We're from Chaldea. 
  
-**D：? ? ? :**
+**D：???:**
 Chaldea? 
  
 
@@ -623,7 +623,7 @@ Chaldea?
 **Fujimaru 2:**
 We're from the future. 
  
-**D：? ? ? :**
+**D：???:**
 What? If that's true, we're going to have a problem. You have my sympathies, but did you fall down the stairs perhaps? 
  
 
@@ -633,10 +633,10 @@ What? If that's true, we're going to have a problem. You have my sympathies, but
 **Mash:**
 That's enough small talk. We still have many enemies to deal with, the second wave is coming. 
  
-**D：? ? ? :**
+**D：???:**
 Damn those restless United Empire fools! How dare they interrupt my beautiful voice! 
  
-**D：? ? ? :**
+**D：???:**
 Let's go! You! Very striking-looking girl,I order you to serve as my shield! 
  
 **Mash:**
@@ -647,10 +647,10 @@ Huh? Uh, right!
  
 **--BATTLE--**
  
-**D：? ? ? :**
+**D：???:**
 ...Somehow we're out of the danger. You ended up saving the day again. 
  
-**D：? ? ? :**
+**D：???:**
 I'm sure it's not uncommon to be outnumbered in war, but being on the inferior side is no fun. So tiring! 
  
 **Mash:**
@@ -662,16 +662,16 @@ A Servant, Mash, Fujimaru! I've detected a single Servant!
 **Mash:**
 Yes. I'm sensing it. It's almost...there it is! 
  
-**E：? ? ? :**
+**E：???:**
 &ndash;My beloved younger sister's child. 
  
-**D：? ? ? :**
+**D：???:**
 Uncle! 
  
-**D：? ? ? :**
+**D：???:**
 No...No, no, let me call you this now. You fool who inexplicably lost his way, aligning with the United Empire! 
  
-**D：? ? ? :**
+**D：???:**
 ..."Caligula! "
  
 **Dr. Roman:**
@@ -719,7 +719,7 @@ All of it
 **Caligula:**
 Give it up! 
  
-**D：? ? ? :**
+**D：???:**
 Uncle, how could you? 
  
 **Mash:**
@@ -736,13 +736,13 @@ Why won't you...give it to me? Why can't you give it to me?
 **Caligula:**
 My beautiful...My...My...My...My...
  
-**D：? ? ? :**
+**D：???:**
 H-He's gone? Uncle...
  
 **Mash:**
 I can no longer sense his presence. The enemy troops seem to be withdrawing as well. 
  
-**D：? ? ? :**
+**D：???:**
 ...My uncle must've been the general of that battalion. I didn't think I'd ever see him again. 
  
 **Mash:**
@@ -757,34 +757,34 @@ Berserker class from the looks of him. If so, it's hard to believe that he'd fle
 **Dr. Roman:**
 Could it be that...He has a Master? 
  
-**D：? ? ? :**
+**D：???:**
 Hmm. Huh? 
  
 **Mash:**
 Wh-What is it? 
  
-**D：? ? ? :**
+**D：???:**
 There's a man around here, who can be heard but not seen. From the feel of it, maybe a Mage? 
  
 **Dr. Roman:**
 I am glad you know of magecraft. Yes, these two and myself are from an organization called Chaldea&ndash;
  
-**D：? ? ? :**
+**D：???:**
 That's all right. You two, no, three over there! 
  
 **Dr. Roman:**
 Hey, you interrupted me...
  
-**D：? ? ? :**
+**D：???:**
 I'm not sure about the one with no body, but the two of you fought marvelously. I praise you again! 
  
-**D：? ? ? :**
+**D：???:**
 Before I ask your lineage, I'll offer my own. I am&ndash;
  
-**D：? ? ? :**
+**D：???:**
 The true protector of Rome. Truly, I am Rome itself. 
  
-**D：? ? ? :**
+**D：???:**
 I swear to rebuild the empire. Yes, this I swear to the gods, my ancestors, to myself, and to the people! 
  
 **Nero:**
@@ -1806,10 +1806,10 @@ Probably, but it's also a mystery. She's so charismatic now, but in her later ye
 **Dr. Roman:**
 Mm. This is...This reaction, Mash...right there&ndash;
  
-**G：? ? ? :**
+**G：???:**
 Well, Emperor Nero Claudius came earlier than I thought. 
  
-**G：? ? ? :**
+**G：???:**
 &ndash;You there. {(M) The boy who looks like a rookie. /(F) The girl who's doing her best. }Are you the guest commander I've heard so much about? I guess looks can be deceiving. 
  
 **Boudica:**
@@ -1821,14 +1821,14 @@ Boudica&ndash;?
 **Boudica:**
 Yes Boudica, the "former" queen of Britannia, and this huge fellow here is...
  
-**H：? ? ? :**
+**H：???:**
 Another champion who was invited to the battlefield. You should be pleased, this garden of battle is full of oppressors. 
  
-**H：? ? ? :**
+**H：???:**
 The oppressors are committing atrocities as they approach. It is time to rise up. Let us battle side by side. You who dare defy this unparalleled tyranny. 
  
 **Mash:**
-? ? ? 
+???
  
 **Mash:**
 ...Right. His words baffle me, but I have a feeling...
@@ -1864,7 +1864,7 @@ Let me correct myself. He hardly ever takes a liking to someone at first sight, 
 Warrior of the rebellion, give me your name. Let us revolt together against the inhumane empire and shout in triumph under a free sky. 
  
 **Mash:**
-? ? ? 
+???
  
 ---
 
@@ -2821,7 +2821,7 @@ Just as I wished, just as my people wished, the Rome blessed by our ancestors an
 **Nero:**
 I will bring Rome back into my hands! Until then&ndash;Until then, no matter what, I cannot afford to stop here. 
  
-**E：? ? ? :**
+**E：???:**
 ...So Caesar was defeated. 
  
 **Lev:**
@@ -2866,7 +2866,7 @@ With the power to change the world at will, yet that freedom is not allowed. Tal
 **Lev:**
 Say, wouldn't you agree? 
  
-**E：? ? ? :**
+**E：???:**
 ...Well then. 
  
 **Lev:**
@@ -2881,7 +2881,7 @@ The utter annihilation of this era. The death of Emperor Nero, the collapse of a
 **Lev:**
 That&ndash;is my duty, bestowed upon me by our king. 
  
-**E：? ? ? :**
+**E：???:**
 ...Yes. 
  
 **Lev:**
@@ -3366,16 +3366,16 @@ What, another enemy attack? So this island is also under the United Empire's con
 **Dr. Roman:**
 No, this is...a Servant, but...Something is off. It's different than normal, what is this? 
  
-**E：? ? ? :**
+**E：???:**
 Yes, that's right. I'm not a "normal" Servant. 
  
-**E：? ? ? :**
+**E：???:**
 Good day heroes, welcome to my humble temporary home for this era, the "Shaped" Isle. 
  
-**E：? ? ? :**
+**E：???:**
 My, oh my. I was wondering what kind of magnificent hero was here. 
  
-**E：? ? ? :**
+**E：???:**
 But to my surprise, it seems there are Servants in your group. Unfortunately, I was waiting for human heroes. 
  
 **Mash:**
@@ -3460,7 +3460,7 @@ Oh, that's just your imagination. Allow me to inform all of you clueless people.
 Not all gods are powerful. "Myself" and I are quite "feeble" beings. 
  
 **Mash:**
-? ? ? 
+???
  
 **Dr. Roman:**
 Based on the readings you are quite an individual...So does that mean you're not hostile because your combat abilities are low? 
@@ -3680,7 +3680,7 @@ What is it, Doctor? Could the Holy Grail really be here?
 **Dr. Roman:**
 No...no, it's not the Holy Grail at all! It's a Phantasmal,not a dragon, but a powerful mystical beast! 
  
-**F：? ? ? :**
+**F：???:**
 GARRRRRRRRRR!! 
  
 **Mash:**
@@ -4216,16 +4216,16 @@ Enemy attack! Several hundred enemy soldiers!
 **Nero:**
 Is this an ambush? Where did several hundred enemies come from? 
  
-**F：? ? ? :**
+**F：???:**
 It's not an ambush. I chose to defend this place, that's all. 
  
-**F：? ? ? :**
+**F：???:**
 You people trespassed into my stronghold. So I shall defend it. 
  
-**F：? ? ? :**
+**F：???:**
 I will crush any and all enemies more valiantly than any attack, and far stronger than any defense. 
  
-**F：? ? ? :**
+**F：???:**
 This is how we Spartans fight. You will soon experience it for yourselves. 
  
 **Mash:**
@@ -4412,34 +4412,34 @@ Orders are orders.
 **Mash:**
 &ndash;Understood. 
  
-**G：? ? ? :**
+**G：???:**
 ![1-light](https://i.imgur.com/XAqlQYL.png)
  
-**H：? ? ? :**
+**H：???:**
 We're completely surrounded. Nothing but swarms of enemies around us. 
  
-**H：? ? ? :**
+**H：???:**
 That shouldn't be a problem, but...
  
-**G：? ? ? :**
+**G：???:**
 ![1-light](https://i.imgur.com/XAqlQYL.png)
  
-**H：? ? ? :**
+**H：???:**
 Yeah, we'll probably lose the soldiers Nero Claudius provided for us. I'd like to avoid that if possible. 
  
-**H：? ? ? :**
+**H：???:**
 Find a way out of an impossible situation&ndash;
  
-**H：? ? ? :**
+**H：???:**
 People like you and me can get through it on our own, but it would be too harsh to force them to do that. 
  
-**H：? ? ? :**
+**H：???:**
 What should we do? ...Huh? 
  
-**G：? ? ? :**
+**G：???:**
 ![2-light](https://i.imgur.com/7VYgcEB.png)
  
-**H：? ? ? :**
+**H：???:**
 Reinforcements, huh? Though I heard Boudica and Spartacus were in Gaul. 
  
 **Mash:**
@@ -4588,7 +4588,7 @@ You just have to do your best
 **Lev:**
 &ndash;So they failed to eliminate Lu Bu. 
  
-**H：? ? ? :**
+**H：???:**
 ...What should we do, Lev Lainur? 
  
 **Lev:**
@@ -4597,99 +4597,99 @@ There's nothing to worry about. Don't forget that I have the Holy Grail. I told 
 **Lev:**
 I'm capable of summoning Servants at will. No matter how powerful they may be! 
  
-**F：? ? ? :**
+**F：???:**
 ...Servant Rider, huh? Hmm, I guess, that's my class? 
  
-**F：? ? ? :**
+**F：???:**
 So? What should I do, Master? 
  
 **Lev:**
 Eliminate Nero Claudius immediately. Destroy this era, and crush the foundation of humanity. 
  
-**H：? ? ? :**
+**H：???:**
 ...I'll lend you my troops. Use them as you see fit. 
  
-**F：? ? ? :**
+**F：???:**
 Got it. In short, you want me to start a war, right? 
  
-**H：? ? ? :**
+**H：???:**
 ...Exactly. 
  
-**F：? ? ? :**
+**F：???:**
 War. War, hmm. War, huh? I guess I'm very good at that. 
  
-**F：? ? ? :**
+**F：???:**
 All right, if you insist I'll borrow your troops&ndash;
  
 ## Section 11: Attack the United Empire 
  
-**E：? ? ? :**
+**E：???:**
 &ndash;That sums up Nero Claudius' army. 
  
-**E：? ? ? :**
+**E：???:**
 All the details are in the report. Look it over later. 
  
-**E：? ? ? :**
+**E：???:**
 One comment from me. Think of the enemy commander, Lu Bu as a disaster. 
  
-**E：? ? ? :**
+**E：???:**
 The same goes for Spartacus. It's no use confronting them head-on. 
  
-**E：? ? ? :**
+**E：???:**
 That said, these disasters can be dealt with. The two Berserkers are like automatic machines. 
  
-**E：? ? ? :**
+**E：???:**
 It should be easy to "lure" them. Luckily, they didn't materialize as other classes. 
  
-**F：? ? ? :**
+**F：???:**
 Guess our luck is turning. Were my Luck parameters that high? 
  
-**E：? ? ? :**
+**E：???:**
 Luck that's already played out is nothing but reality. Meaning that reality is working in your favor, nothing more. 
  
-**F：? ? ? :**
+**F：???:**
 Oh? You can look at it that way too, I guess. 
  
-**F：? ? ? :**
+**F：???:**
 It doesn't matter either way. I want to see her face. 
  
-**F：? ? ? :**
+**F：???:**
 Nero Claudius. The fifth emperor of the Roman Empire. 
  
-**F：? ? ? :**
+**F：???:**
 What kind of king is she? No, what kind of emperor is she, I should say. 
  
-**E：? ? ? :**
+**E：???:**
 I will make your wish come true. No matter what. 
  
-**F：? ? ? :**
+**F：???:**
 Thank you, but I kind of feel weird. 
  
-**F：? ? ? :**
+**F：???:**
 I'm what you may consider a curveball as a Heroic Spirit, so my "memory" is a little different too. 
  
-**F：? ? ? :**
+**F：???:**
 It seems a little bit off, that you became my teacher. 
  
-**E：? ? ? :**
+**E：???:**
 Those are my words. Can you imagine being sent back in time, and becoming a vessel for a Heroic Spirit I have no connections with. 
  
-**E：? ? ? :**
+**E：???:**
 What happened to me in my own era? Did I switch with this Heroic Spirit? 
  
-**E：? ? ? :**
+**E：???:**
 Or did the time in "my era" stop, and I'm here as myself, integrated with this Heroic Spirit? 
  
-**E：? ? ? :**
+**E：???:**
 ...I have no idea what's going on. 
  
-**F：? ? ? :**
+**F：???:**
 But you came here anyway. As my new teacher. 
  
-**F：? ? ? :**
+**F：???:**
 Right, Mr. Zhuge Liang. 
  
-**E：? ? ? :**
+**E：???:**
 No. Well, as a Heroic Spirit, that may be true. 
  
 **El-Melloi II:**
@@ -5015,7 +5015,7 @@ I don't know. But we will find out soon.
  
 **--ARROW--**
  
-**F：? ? ? :**
+**F：???:**
 ![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;! 
  
 **Nero:**
@@ -5074,55 +5074,55 @@ Looks like a Servant was summoned in the enemy vanguard. Was it that Court Mage'
 **El-Melloi II:**
 No, it couldn't have been. In that case, was it you? 
  
-**F：? ? ? :**
+**F：???:**
 I don't know. All I did was gallop my horse. 
  
-**F：? ? ? :**
+**F：???:**
 I thought they'd be on their way by now. I never thought it would be this soon. 
  
 **El-Melloi II:**
 Oh? 
  
-**F：? ? ? :**
+**F：???:**
 Have you heard the rumors about the Mediterranean goddess? They say that aside from her, there are two female monsters. 
  
-**F：? ? ? :**
+**F：???:**
 So you see...It hit me. 
  
-**F：? ? ? :**
+**F：???:**
 A Chained Summon. If such a thing could be possible. 
  
 **El-Melloi II:**
 I don't like battles that rely on luck. 
  
-**F：? ? ? :**
+**F：???:**
 Please don't say that. You're the one who created that opening in their vanguard. 
  
-**F：? ? ? :**
+**F：???:**
 Let's get ready now, while he's buying us time. 
  
 **El-Melloi II:**
 ...Are you sure? 
  
-**F：? ? ? :**
+**F：???:**
 About? 
  
 **El-Melloi II:**
 If he materialized through the chained summon,then most likely he's&ndash;
  
-**F：? ? ? :**
+**F：???:**
 Yes, I think he's Darius III. The fearless Persian King and my forever rival in life. 
  
-**F：? ? ? :**
+**F：???:**
 However, right now, I feel that I know that as a kind of future. 
  
-**F：? ? ? :**
+**F：???:**
 It's okay. I fought him once, and will fight him again. 
  
-**F：? ? ? :**
+**F：???:**
 And I want to fight him again. But not right now. 
  
-**F：? ? ? :**
+**F：???:**
 Right now, it's Nero Claudius. I want to talk to that person. 
  
 **--ARROW--**
@@ -5311,16 +5311,16 @@ Where are you Boudica? Answer me!
 **Nero:**
 I know you can't be dead yet! I can tell, I can tell. You would never die! 
  
-**F：? ? ? :**
+**F：???:**
 ...No, no. Isn't that a rather selfish way to put it? 
  
-**F：? ? ? :**
+**F：???:**
 Rest assured, she's safe. Right now, she's fast asleep thanks to his spells. 
  
-**E：? ? ? :**
+**E：???:**
 It's a Restraint Spell. Not like being fast asleep. 
  
-**F：? ? ? :**
+**F：???:**
 But she really was sleeping. Fast asleep. 
  
 **Nero:**
@@ -5329,13 +5329,13 @@ But she really was sleeping. Fast asleep.
 **Nero:**
 I assume you're both leaders of this fort. I shall allow it, tell me your names. 
  
-**F：? ? ? :**
+**F：???:**
 You're making us tell you our names? Hmm, let's see...How should I put this? 
  
-**F：? ? ? :**
+**F：???:**
 I have several names. It's hard to pick one, hmm. 
  
-**F：? ? ? :**
+**F：???:**
 &ndash;All right, this is what I'm gonna do. 
  
 **Alexander:**
@@ -5399,7 +5399,7 @@ Thank you, Lord El-Melloi II. You made my selfish wish come true.
 What are you talking about? More than half of them were your directions. 
  
 **Nero:**
-? ? ? 
+???
  
 **Mash:**
 ...Senpai! Your Majesty! The enemy soldiers are coming, their target is Your Majesty! 
@@ -5623,10 +5623,10 @@ Also&ndash;
 **Dr. Roman:**
 Wait, I've detected a Servant signature. It's close, you should be able to see it in front of you. 
  
-**E：? ? ? :**
+**E：???:**
 ...Brave ones. 
  
-**E：? ? ? :**
+**E：???:**
 You are truly brave, and that is why you rule over the current Rome. 
  
 **Nero:**
@@ -5641,16 +5641,16 @@ To us...he's talking to us. It seems Nero heard him too.
 **Dr. Roman:**
 His voices reaches this far even on the battlefield? As expected of Servants, even their vocal cords are different.  
  
-**E：? ? ? :**
+**E：???:**
 I see. So you're Nero? 
  
-**E：? ? ? :**
+**E：???:**
 How adorable. How beautiful. How gorgeous. I can see how you held Rome up with those slender arms of yours. 
  
-**E：? ? ? :**
+**E：???:**
 Now, come. 
  
-**E：? ? ? :**
+**E：???:**
 The past, the present, the future. All that is Rome loves you. 
  
 **Nero:**
@@ -5704,25 +5704,25 @@ Just one glance...and I understand...He is truly...
 **Nero:**
 Rome, itself...
  
-**E：? ? ? :**
+**E：???:**
 I'm sure you understand, Nero. 
  
-**E：? ? ? :**
+**E：???:**
 Now come back, come back to Rome my dear child. 
  
-**E：? ? ? :**
+**E：???:**
 It's Rome. Rome is the true leader of the United Empire. 
  
-**E：? ? ? :**
+**E：???:**
 You should join, as well. You shall be forgiven for everything. Rome shall forgive you. 
  
-**E：? ? ? :**
+**E：???:**
 Rome will even love that inner beast of yours. Rome is the only one that can do that. 
  
-**E：? ? ? :**
+**E：???:**
 That's right&ndash;
  
-**E：? ? ? :**
+**E：???:**
 I am Rome. 
  
 **Nero:**
@@ -6012,7 +6012,7 @@ I'm back, Senpai.... Oh, Nero?
 Umu, hey there Mash! If you're back, it's about time to finish this! 
  
 **Mash:**
-? ? ? 
+???
  
 **Mash:**
 Looks like you've cheered up...Senpai, Nero looks brighter now, right? 
@@ -6702,7 +6702,7 @@ Exactly. You go on ahead already.
 **Nero:**
 What are you saying&ndash;
  
-**F：? ? ? :**
+**F：???:**
 GuOOOOOO&ndash;!!!!! 
  
 **Boudica:**

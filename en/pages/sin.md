@@ -376,22 +376,22 @@ Look, Mash! Look, Fujimaru!
 **Da Vinci:**
 Oh this is, like, top-shelf secret base stuff! It's like a picture book come to life! Whoever designed this must have been such a dummy! 
  
-**I：? ? ? :**
+**I：???:**
 Thanks for the kind words. 
  
-**I：? ? ? :**
+**I：???:**
 I must be doing pretty well if the great Leonardo da Vinci, famous genius and notorious problem child, would speak like that about me. 
  
-**G：? ? ? :**
+**G：???:**
 ...Wait.... Is that really Da Vinci? 
  
-**G：? ? ? :**
+**G：???:**
 Isn't she a little off? Too girly? Just a little too high spec? 
  
-**G：? ? ? :**
+**G：???:**
 Hey, you there. Master Fujimaru. 
  
-**G：? ? ? :**
+**G：???:**
 Is that girl there really and truly Leonardo da Vinci? 
  
 **Da Vinci:**
@@ -641,10 +641,10 @@ So...you managed to touch Tri-Hermes directly without losing your mind, huh...Hm
 **Sion:**
 No wonder you are the pinnacle of intelligence among Servants! You and I are going to get along just fine! 
  
-**H：? ? ? :**
+**H：???:**
 ...Come on, Sion. How much time are you going to waste talking? 
  
-**H：? ? ? :**
+**H：???:**
 You want me to give this ship a tune-up, right? Hurry up and get the crew off it already. 
  
 ---
@@ -656,7 +656,7 @@ You want me to give this ship a tune-up, right? Hurry up and get the crew off it
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 ...What? Do I have something on my face? You're kind of rude, aren't you? 
  
 ---
@@ -664,7 +664,7 @@ You want me to give this ship a tune-up, right? Hurry up and get the crew off it
 **Fujimaru 1:**
 O-oh, right. Sorry about that. 
  
-**H：? ? ? :**
+**H：???:**
 ...You don't have to apologize. I already know humans are rude. It's in your nature. 
  
 
@@ -673,7 +673,7 @@ O-oh, right. Sorry about that.
 **Fujimaru 2:**
 H-hello. Nice to meet you. 
  
-**H：? ? ? :**
+**H：???:**
 ...
  
 
@@ -701,19 +701,19 @@ Hello there, Servant from the Wandering Sea. My name is Mash Kyrielight.
 **Mash:**
 May I ask who you are? You don't have to tell me your True Name...
  
-**H：? ? ? :**
+**H：???:**
 ...
  
-**H：? ? ? :**
+**H：???:**
 ...I'm no one. I don't have a name. If you have to call me something, just call me Nameless. 
  
-**H：? ? ? :**
+**H：???:**
 Now get everyone out of here, Sion. I can't call everyone else with all these people in the way. 
  
-**H：? ? ? :**
+**H：???:**
 ...This is painful to look at. It's worse than watching coral reefs die. 
  
-**H：? ? ? :**
+**H：???:**
 What happened to this ship? I can hear it crying in pain. I need to fix it now, before I go insane. 
  
 **Sion:**
@@ -4762,7 +4762,7 @@ You have your own life's work you've devoted yourself to, don't you, Akuta? So I
 **Akuta Hinako:**
 There's no way I'm letting Chaldea mess up my nice, stable Lostbelt. Don't you dare go easy on them, Saber. 
  
-**D：? ? ? :**
+**D：???:**
 As you wish, Master. I promise, I won't let you down. 
  
 **Koyanskaya:**
@@ -4973,7 +4973,7 @@ No. As long as you're part of Chaldea, that makes you my enemy. You'll have no s
 **Akuta Hinako:**
 Saber, eliminate them. Remove these eyesores from my sight. 
  
-**G：? ? ? :**
+**G：???:**
 As you wish, Master. 
  
 **Mash:**
@@ -4993,13 +4993,13 @@ Ghh...Now I see. No wonder Ophelia and Kadoc lost.
 **Akuta Hinako:**
 You're obviously used to fighting with Servants. That experience has given you quite an edge. 
  
-**G：? ? ? :**
+**G：???:**
 Master, it would be foolish to continue this battle any longer. I suggest we make a temporary retreat! 
  
 **Akuta Hinako:**
 Damn, I really underestimated them! Let's go, Saber! 
  
-**G：? ? ? :**
+**G：???:**
 Yes, Master! 
  
 **Mash:**
@@ -5382,7 +5382,7 @@ Hm? Hang on, there's more of them now. This is weird. I'm seeing magical energy 
 **Holmes:**
 Foot soldiers? ...No, I can see they aren't human. Are those...puppets? Perhaps some sort of automata? 
  
-**D：? ? ? :**
+**D：???:**
 Correct. They may be silent, but they are soldiers nonetheless. Thanks to them, I am finally able to make use of my true skills, as a general. 
  
 **Nezha:**
@@ -5412,12 +5412,12 @@ Hmph. Heroic Spirits who delight in battle and bloodshed, huh. You make me sick.
 **Akuta Hinako:**
 Make sure to finish them this time, Saber. Don't hold anything back. 
  
-**D：? ? ? :**
+**D：???:**
 Very well, Master. Then I shall end this with my secret attack! 
  
 **--BATTLE--**
  
-**G：? ? ? :**
+**G：???:**
 Curses! I cannot believe that even my leadership is not enough to defeat them! 
  
 **Holmes:**
@@ -7263,10 +7263,10 @@ It's not over yet! We're still picking up its magical energy signal.
 **Mash:**
 Something's coming out of the wreckage! 
  
-**F：? ? ? :**
+**F：???:**
 Gauging temperature...Evaluating magical energy release...Threat level: minimal. 
  
-**F：? ? ? :**
+**F：???:**
 Targets located. 
  
 **Jing Ke:**
@@ -15954,7 +15954,7 @@ If you think it's a toy, go ahead and scan it. You love analyzing stuff, right?
 Hmph. What could be so impressive about a simple rectangle...
  
 **Qin Shi Huang:**
-...? ? ? 
+...???
  
 **Qin Shi Huang:**
 ...What the? 
@@ -16068,7 +16068,7 @@ And in our world, with all its conflict, any technology can be used as a weapon.
 For example...did you know it's possible to poison a computer just by communicating with it? 
  
 **Qin Shi Huang:**
-...Wha...!!!? ? ? You...$#*& In that toy...^<&@u・$・ﾟ3ﾟⅢ...
+...Wha...!!!???You...$#*& In that toy...^<&@u・$・ﾟ3ﾟⅢ...
  
 **Jing Ke:**
 Yes. You obviously wanted to have a lofty discussion about worldviews and philosophy...but I'm really just here to kill you. 
@@ -16088,7 +16088,7 @@ That's right! It's been a long two thousand and two hundred years, but I'm final
 **C：Jing Ke:**
 Guh...Wha...? 
  
-**C：? ? ? :**
+**C：???:**
 We commend you, Jing Ke. This time, we will be sure to remember your name. You are the only one to make us fear for our life not once, but twice. 
  
 **C：Jing Ke:**

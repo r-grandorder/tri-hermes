@@ -546,7 +546,7 @@ Weeell, that was maybe less about adventure than it was about Roland acting like
 **Mash:**
 I've heard about that...but I'm still not sure if it actually happened or was supposed to be a metaphor...
  
-**H：? ? ? :**
+**H：???:**
 Hold it. Did you think there was only one escort present? 
  
 **Mash:**
@@ -3813,7 +3813,7 @@ I agree. This girl doesn't have any weapons. In fact, um...she doesn't seem to h
 She seems rather destitute, despite having access to all these things that have been thrown away. 
  
 **Girl:**
-? ? ? 
+???
  
 **Fergus:**
 N-never mind. I shouldn't pity her when I don't know her full situation. 
@@ -3984,7 +3984,7 @@ But right now, we should focus on dealing with the ruler of Ys. I can definitely
 **Mash:**
 Please proceed with caution. 
  
-**G：? ? ? :**
+**G：???:**
 My my...So you must be why my town is in such an uproar. 
  
 **Mash:**
@@ -4011,7 +4011,7 @@ Mash, Fujimaru, I've finished analyzing her Spirit Origin pattern.
 **Da Vinci:**
 It matches Chaldea's records. She is, without a doubt, Francis Drake. 
  
-**E：? ? ? :**
+**E：???:**
 I'm afraid you're mistaken. My name is Dahut. I am known both as the Pirate Princess and the Rider of Ys. 
  
 **d'Eon:**
@@ -4577,10 +4577,10 @@ I have the only key, and I keep it tightly locked up in...Wait.
 **Dahut:**
 Don't tell me somebody took it while I was fighting? 
  
-**G：? ? ? :**
+**G：???:**
 Eheh...Ahaha! Ahahahaha! 
  
-**G：? ? ? :**
+**G：???:**
 You look a right fool, Rider of Ys! 
  
 **Astolfo:**
@@ -6741,13 +6741,13 @@ There's sooo much light! It's impossible to sneak through the shado&ndash;uh, is
 **d'Eon:**
 ...! Oh no. It's a trap! 
  
-**H：? ? ? :**
+**H：???:**
 Neehahaha! ...Uh, I mean, kehehehe! 
  
-**H：? ? ? :**
+**H：???:**
 Welcome to my castle, uh...oh yes, Hun Yang. 
  
-**H：? ? ? :**
+**H：???:**
 ...On second thought, I'm already tired of that name! From now on, I'll call you Shi Gou, or “Wet Dog,” since you evidently love to slink through shadows! 
  
 **Mash:**
@@ -6941,7 +6941,7 @@ Indeed! How good of you to come, Shi Gou!
 **Mash:**
 Confirmed! That's the Assassin of the Nightless City! But...who's that next to her? 
  
-**F：? ? ? :**
+**F：???:**
 ...
  
 **Mash:**
@@ -6950,10 +6950,10 @@ Another Servant reading! Be careful, Master!
 **Assassin:**
 Hm? Oh yes, I suppose you wouldn't have met yet, would you. Very well, you may introduce yourself. 
  
-**F：? ? ? :**
+**F：???:**
 ...All right. I'm a Caster Servant. 
  
-**F：? ? ? :**
+**F：???:**
 I serve as a tactician here in the Nightless City. 
  
 **Fergus:**
@@ -7873,7 +7873,7 @@ The Queen of the Amazons!
 **Rider:**
 Dammit, of all the rotten luck...! 
  
-**H：? ? ? :**
+**H：???:**
 ![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!! 
  
 **Astolfo:**
@@ -10057,12 +10057,12 @@ Astolfo, you need to stop the ship immediately! Hold on to me, Master...He's abo
 **Scheherazade:**
 No...! Why now...of all times!? 
  
-**G：? ? ? :**
+**G：???:**
 ![6-light](https://i.imgur.com/fV3vWR2.png)&ndash;![7-light](https://i.imgur.com/vEW3I1I.png)&ndash;!! 
  
 **--ARROW--**
  
-**A：? ? ? :**
+**A：???:**
 ![8-light](https://i.imgur.com/N6jHIhJ.png)&ndash;!! 
  
 ---
@@ -10723,7 +10723,7 @@ Good point. In that case&ndash;
 ---
 
  
-**A：? ? ? :**
+**A：???:**
 No need for that. 
  
 **d'Eon:**
@@ -10731,7 +10731,7 @@ Ah! You...!?
  
 **--ARROW--**
  
-**A：? ? ? :**
+**A：???:**
 No need for that. 
  
 **d'Eon:**
@@ -12000,13 +12000,13 @@ I would never do that. Young though I may be, I'd never betray the trust they pl
 **Fergus:**
 On the subject of trust, I should mention: I mistrusted you from the very start! 
  
-**F：? ? ? :**
+**F：???:**
 Well I'll be damned. I never detected a hint of suspicion from you, but you went and deflected that shot like it was nothing. 
  
-**F：? ? ? :**
+**F：???:**
 Pity. If I could have blown Master's head off there, this would have all been wrapped up nice and neat. 
  
-**F：? ? ? :**
+**F：???:**
 What a shame. And here I thought we were all in the same boat together. 
  
 **Da Vinci:**
@@ -14273,7 +14273,7 @@ And even if you do erase my fear of death, there is still nothing you can do to 
 **Fergus:**
 That's&ndash;
  
-**G：? ? ? :**
+**G：???:**
 Indeed. Laputa will not stop. It will only continue on its path towards the destruction of fantasy. 
  
 **Mash:**
@@ -14281,7 +14281,7 @@ Indeed. Laputa will not stop. It will only continue on its path towards the dest
  
 **--ARROW--**
  
-**G：? ? ? :**
+**G：???:**
 Indeed. Laputa will not stop. It will only continue on its path towards the destruction of fantasy. 
  
 **Mash:**
@@ -14290,7 +14290,7 @@ Indeed. Laputa will not stop. It will only continue on its path towards the dest
 **Astolfo:**
 Why's the body of one of the Resistance members talking!? 
  
-**G：? ? ? :**
+**G：???:**
  
 I thought you were a storyteller, Scheherazade. Why are you listening insteadof telling. 
  
@@ -14475,7 +14475,7 @@ Don't worry, we'll get a chance. I'm sure of it!
 **Demon God Phenex:**
 ...Ragnarok then. Wonderful. This will link life and death like never before. 
  
-**F：? ? ? :**
+**F：???:**
 ...I've been waiting for this moment. 
  
 **Mash:**
@@ -15322,7 +15322,7 @@ Ow! What was that!?
 **Astolfo:**
 It looks like...some sort of flying silver pot? 
  
-**D：? ? ? :**
+**D：???:**
 Looks like you could use some help! I can feel Mahatma at work in this too! 
  
 ---

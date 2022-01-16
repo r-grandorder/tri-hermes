@@ -6,109 +6,109 @@
 
 ## Prelude
  
-**C：? ? ? :**
+**C：???:**
 Hah, hah...Hah...
  
-**A：? ? ? :**
+**A：???:**
 You don't know when to give up, do you, punk? I really want to get this over with. 
  
-**C：? ? ? :**
+**C：???:**
 ...Damn you! 
  
-**C：? ? ? :**
+**C：???:**
 Ugh! 
  
-**C：? ? ? :**
+**C：???:**
 The amount of curses covering your body...They're strong enough for you to shoulder an entire nation! 
  
-**C：? ? ? :**
+**C：???:**
 Damn you! If you possess this much strength...Why? Why have you fallen to Ravana's level!? 
  
-**C：? ? ? :**
+**C：???:**
 Your skill is not something that can be given, but obtained only through sheer will and determination! 
  
-**C：? ? ? :**
+**C：???:**
 You could've transcended good and evil! It shouldn't be possible for you to be corrupted like this! 
  
-**A：? ? ? :**
+**A：???:**
 Huh? What are you talking about? I'm like this because I've transcended good and evil. 
  
-**A：? ? ? :**
+**A：???:**
 I kill my enemies. I will keep killing until one of us dies. That's the only law on the battlefield. 
  
-**C：? ? ? :**
+**C：???:**
 Look at this mountain of corpses! Is it your law to slaughter the weak with overwhelming brutality!? 
  
-**A：? ? ? :**
+**A：???:**
 Why would I waste my time worrying about something so trivial? 
  
-**A：? ? ? :**
+**A：???:**
 What? Don't tell me you actually judge your enemy's worth? You would let them live if they're weak, yet kill them if they're strong? 
  
-**A：? ? ? :**
+**A：???:**
 &mdash;That's ridiculous. If you want to kill something in a humane way, do it at a ranch. 
  
-**A：? ? ? :**
+**A：???:**
 This is a battlefield. I'm tired of hearing your theories. Just die. 
  
-**A：? ? ? :**
+**A：???:**
 It's go time, my demonic thorn of death! 
  
-**C：? ? ? :**
+**C：???:**
 Ugh! Brahmastra, full power! 
  
-**A：? ? ? :**
+**A：???:**
 Ha! See, you do have it in you. Too bad, you're just a circus clown. 
  
-**A：? ? ? :**
+**A：???:**
 Gáe&ndash;Bolg! 
  
-**C：? ? ? :**
+**C：???:**
 ...Gaaaaaaaaaaahhhhhhhhhh! 
  
-**A：? ? ? :**
+**A：???:**
 &ndash;What? How are you still standing? 
  
-**A：? ? ? :**
+**A：???:**
 What a pain. You still hang on to life despite having 80% of your heart destroyed. Servants&ndash;Heroes, can be such a nuisance. 
  
-**C：? ? ? :**
+**C：???:**
 Gar...Hah...
  
-**C：? ? ? :**
+**C：???:**
 I can't...die here...Not...until I see...Sita! 
  
-**A：? ? ? :**
+**A：???:**
 Who the hell is that? Like I care. 
  
-**C：? ? ? :**
+**C：???:**
 ...Ugh...
  
-**A：? ? ? :**
+**A：???:**
 Huh? 
  
 **Mechanized Infantry:**
 Servant response confirmed. Commencing countermeasures. 
  
-**A：? ? ? :**
+**A：???:**
 ...That trash from the West, huh? 
  
 **Soldier:**
 Now, Geronimo! 
  
-**C：? ? ? :**
+**C：???:**
 What's...going on? 
  
 **Geronimo:**
 Just come with me! We have to escape while they keep him busy! 
  
-**C：? ? ? :**
+**C：???:**
 Who...Who are you? 
  
-**A：? ? ? :**
+**A：???:**
 I see now. You all want to get in my way. In that case, you're all my enemies. 
  
-**A：? ? ? :**
+**A：???:**
 In other words, this is a new battlefield! Let me first extend my welcome by killing you! 
  
 **Soldier:**
@@ -117,49 +117,49 @@ Geronimo, go! We'll hold him off here!
 **Geronimo:**
 ...Thank you! 
  
-**A：? ? ? :**
+**A：???:**
 Hah! Ready to sacrifice yourself? Well, look at you! Your morale is pretty high for a mere pawn! 
  
 **Soldier:**
 We won't...lose...This land...will not...yield! 
  
-**A：? ? ? :**
+**A：???:**
 Oops, I screwed up. He was too annoying so I just crushed him. 
  
-**A：? ? ? :**
+**A：???:**
 He pointed his blade toward the king of a nation. I really should just cut off his head and display it as a warning but...I guess there are more where he came from. 
  
-**A：? ? ? :**
+**A：???:**
 Hey punk, let's continue. I've already crushed your insides. How about I go for your skull next and&ndash;
  
-**A：? ? ? :**
+**A：???:**
 ...What the hell, he's gone already. 
  
-**A：? ? ? :**
+**A：???:**
 Tch, that's no fun. Oh well, injuries from my spear's thorn are incurable. He'll eventually die. 
  
-**D：? ? ? :**
+**D：???:**
 &ndash;Hehehe, you look braver than ever. Say, which do you like better, to fight, or to kill? 
  
-**A：? ? ? :**
+**A：???:**
 Huh? Is there any difference? 
  
-**A：? ? ? :**
+**A：???:**
 Or what? Are you one of those idiots who think of eating and living as two separate things? 
  
-**D：? ? ? :**
+**D：???:**
 ...You're funny, Cú. You really are different. You're like a wild beast. 
  
-**D：? ? ? :**
+**D：???:**
 Even in life, there was a part of you that somehow felt like a beast in human's clothing...
  
-**D：? ? ? :**
+**D：???:**
 But this time, I can't sense a single trace of impurity! You're without a doubt a king among all violent beasts! 
  
-**D：? ? ? :**
+**D：???:**
 Truly fantastic. I wonder if the hero Cú Chulainn lost all his rationality by being given an imaginary concept. 
  
-**D：? ? ? :**
+**D：???:**
 But I like both forms of Cú. Hehe, hehehe, hehehehe! 
  
 **Cú Chulainn Alter:**
@@ -168,13 +168,13 @@ Well, that's number thirty...Huh? Woman, did you say something?
 **Cú Chulainn Alter:**
 Either way, job's done. I'm going to sleep now. Wake me up if anything happens. 
  
-**D：? ? ? :**
+**D：???:**
 ...Oh boy. I'm happy to see you all rough and tough, but it's a shame you're strangely indifferent now. 
  
-**D：? ? ? :**
+**D：???:**
 Well, it's fine either way. You probably won't have much chance to show off anymore. 
  
-**D：? ? ? :**
+**D：???:**
 Because from here on, it's my turn! Here comes the innocent, perfect, much beloved Queen Medb☆
  
 **Celtic Warrior:**
@@ -266,97 +266,97 @@ I hope...that this starlight is something that we can be proud of...
 
 **--SECTION BREAK--**
 
-**A：? ? ? :**
+**A：???:**
 &mdash;I woke up at the same time today. 
  
-**A：? ? ? :**
+**A：???:**
 I checked my temperature. I checked my five senses. I said my name out loud, so that I could understand it better. 
  
-**A：? ? ? :**
+**A：???:**
 I think I've gotten quite used to waking up like this. Previously, my wake-up was a bit more gradual. 
  
-**A：? ? ? :**
+**A：???:**
 It was as if I was walking on thin ice,or sneaking in front of an animal in a blissful sleep. 
  
-**A：? ? ? :**
+**A：???:**
 That's how I used to wake up. Like I was looking for my way in complete darkness. 
  
-**A：? ? ? :**
+**A：???:**
 Of course it's different now. My self-consciousness is stable. I don't have to worry about my memory disappearing after each sleep. 
  
-**A：? ? ? :**
+**A：???:**
 I am who I am. Today, too, I can feel that I am myself. 
  
-**B：? ? ? :**
+**B：???:**
 Good morning. You're on time as usual. Ready for breakfast? 
  
-**B：? ? ? :**
+**B：???:**
 Your brain waves are stable. If you continue like this, you won't need to stay in this sterile chamber anymore. 
  
-**B：? ? ? :**
+**B：???:**
 Then you can finally be a researcher at Chaldea. I will throw a celebration for you when that day comes. 
  
-**B：? ? ? :**
+**B：???:**
 Do you have any requests? I'll try to get you anything within my capabilities. 
  
-**A：? ? ? :**
+**A：???:**
 I couldn't think of what I wanted,but I thought of something I wanted to do. 
  
-**A：? ? ? :**
+**A：???:**
 Though I knew this comfortable room was more than enough, I wanted to go outside, just once. 
  
-**B：? ? ? :**
+**B：???:**
 Well. You'll get out pretty soon. 
  
-**B：? ? ? :**
+**B：???:**
 What I want to give you is more like a gift, not something simple like what you just said...
  
-**A：? ? ? :**
+**A：???:**
 I expressed my intention by shaking my head. 
  
-**A：? ? ? :**
+**A：???:**
 What I wanted to see was not outside of my room, but Chaldea. I wanted to see the outside world with my own eyes, not through pictures. 
  
-**B：? ? ? :**
+**B：???:**
 Oh, I see...So you want to actually see the sea and the grass field from the VR program I showed you the other day. 
  
-**B：? ? ? :**
+**B：???:**
 That'll be difficult. Chaldea is on top of a snowy mountain, 6,000 meters above sea level. 
  
-**B：? ? ? :**
+**B：???:**
 Part of it is to prevent top secrets from leaking. Either way, you'll see nothing but a blizzard if you go outside. 
  
-**B：? ? ? :**
+**B：???:**
 Maybe you can see the ravine when the weather clears up once a year. 
  
-**B：? ? ? :**
+**B：???:**
 Even so, your body can't withstand the outside world. I think it's best for you to change your way of thinking. 
  
-**B：? ? ? :**
+**B：???:**
 If you want to see nature then VR is enough. It's not worth it for you to shorten your already short activation period. 
  
-**A：? ? ? :**
+**A：???:**
 His smile seemed so troubled, like he was sorry for me. His gaze avoided mine. 
  
-**A：? ? ? :**
+**A：???:**
 ...It made me feel terribly sorry. I suppose what I said made him feel sad. 
  
-**B：? ? ? :**
+**B：???:**
 Oh, but you'll be free anywhere within Chaldea. I will take responsibility and make sure to get the Director's approval. 
  
-**B：? ? ? :**
+**B：???:**
 You can rest assured and wait for that day to come. I will think of a gift for you. 
  
-**A：? ? ? :**
+**A：???:**
 “Thank you,” I replied. 
  
-**A：? ? ? :**
+**A：???:**
 It was hard for me to think about what I wanted, but I was happy that anyone would care that much about me. 
  
-**A：? ? ? :**
+**A：???:**
 I am very, very happy. 
  
-**A：? ? ? :**
+**A：???:**
 Because today, I can spend another peaceful day without changes. 
  
 ---
@@ -788,7 +788,7 @@ Be careful! Now the other side has targeted you! Please hang on for a little bit
  
 **--BATTLE--**
  
-**C：? ? ? :**
+**C：???:**
 &mdash;! 
  
 **Mash:**
@@ -881,7 +881,7 @@ We're going to have to amputate this as well.
 ---
 
 **Fujimaru 1:**
-? ? ? 
+???
  
 
 ---
@@ -893,7 +893,7 @@ Gouge wound on the lateral region of the abdomen...No problem, as long as we rem
 ---
 
 **Fujimaru 1:**
-? ? ? 
+???
  
 
 ---
@@ -1382,16 +1382,16 @@ I don't think they'll reach the tent, but&ndash;Mm. Mm, mm. Mm.
 **Dr. Roman:**
 &ndash;Detecting enemy Servants. Two of them! 
  
-**D：? ? ? :**
+**D：???:**
 Your Majesty. We've found them. 
  
-**D：? ? ? :**
+**D：???:**
 Apparently they're Servants. I can see why our troops aren't pushing onward. 
  
-**D：? ? ? :**
+**D：???:**
 This is probably as far as the unsung warriors can go. Now it's our turn to step up. 
  
-**C：? ? ? :**
+**C：???:**
 Just what I'd expect from my subordinate, Diarmuid Ua Duibhne. Your eyes are, yes, if I were to compare, akin to a hawk's! 
  
 **Diarmuid:**
@@ -1609,100 +1609,100 @@ Let's join Nightingale right away!
  
 ## Section 3: Fragment of the Star 
  
-**C：? ? ? :**
+**C：???:**
 Green, I'm out of ammo. Cover me. 
  
-**D：? ? ? :**
+**D：???:**
 Gotcha. 
  
-**D：? ? ? :**
+**D：???:**
 By the way, why do you call me “Green”? Who's this “Green”? 
  
-**C：? ? ? :**
+**C：???:**
 I mean, you and I are both Archers, right? So we either call each other by our True Names or use code names. 
  
-**C：? ? ? :**
+**C：???:**
 But neither of us wants to use our True Names, right? You know, as outlaws. 
  
-**D：? ? ? :**
+**D：???:**
 I'm no outlaw. That's just how it turned out. Basically, I'm just a lazy-ass. 
  
-**C：? ? ? :**
+**C：???:**
 Say, if you were an animal you would be a gorilla, right? I mean, Druids are like sages of the forest? Then you would be a gori&ndash;
  
-**D：? ? ? :**
+**D：???:**
 Green is fine, just call me Green. And why are you “Thunder”? 
  
-**C：? ? ? :**
+**C：???:**
 Huh? It sounds cool, no? Thunder. Plus it's the name of my gun. 
  
-**D：? ? ? :**
+**D：???:**
 ...To be honest, between this land, what you wear, and that gun, I have a pretty good idea of your True Name. Is that okay? 
  
-**C：? ? ? :**
+**C：???:**
 Come on, I can say the same for you. Faceless ruler of the forest, specialist in guerilla warfare. 
  
-**D：? ? ? :**
+**D：???:**
 It's not good to go without a face. Now that we're done with idle chatter&mdash;
  
-**C：? ? ? :**
+**C：???:**
 Right, now that we're done&mdash;What do we do with this? 
  
-**D：? ? ? :**
+**D：???:**
 How's that escape hatch we made? 
  
-**C：? ? ? :**
+**C：???:**
 It's good. We can use it. It'd just be a shame to, that's all. 
  
-**C：? ? ? :**
+**C：???:**
 After we gathered up all these weapons and ammo......Hmm, maybe we overdid it? 
  
-**D：? ? ? :**
+**D：???:**
 Well, after all that sabotage, I'd say a bit. 
  
-**D：? ? ? :**
+**D：???:**
 Doesn't seem like they have any Servants over there,but we're done for if they engage in close combat. 
  
-**D：? ? ? :**
+**D：???:**
 ...Well, it's all in fate's hands now. Want me to pray for the Master to come to our aid? 
  
-**C：? ? ? :**
+**C：???:**
 Are you mad? Were your prayers ever answered in life? 
  
-**D：? ? ? :**
+**D：???:**
 Why, sure. But you have to be a good boy. 
  
-**D：? ? ? :**
+**D：???:**
 Unfortunately, it hasn't worked since I became an adult. I guess we're both just bad boys? 
  
-**C：? ? ? :**
+**C：???:**
 Hmph, speak for yourself! I always said my prayers, just like my mom taught me. 
  
-**D：? ? ? :**
+**D：???:**
 Yeah, yeah. I'm sure if you pray from the bottom of your heart, we'll be saved. 
  
-**C：? ? ? :**
+**C：???:**
 Mmm, I guess praying in your spare time doesn't work. Well, I&ndash;
  
-**C：? ? ? :**
+**C：???:**
 was expecting that, too. 
  
-**D：? ? ? :**
+**D：???:**
 Praying while blasting away with your gun won't do a thing. I mean, God can't hear your prayers over the gunshots. 
  
-**D：? ? ? :**
+**D：???:**
 Whoa, someone fell for it. I'll go light 'em up. 
  
-**C：? ? ? :**
+**C：???:**
 Yeah, knock yourself out. 
  
-**C：? ? ? :**
+**C：???:**
 ...Still, I'm tired. I wonder how long the Resistance is gonna hold out. 
  
-**C：? ? ? :**
+**C：???:**
 Sooner or later, they'll reach their limit. I just hope Geronimo finds the “star” by then&ndash;
  
-**C：? ? ? :**
+**C：???:**
 Whoa, that was close. The “Regulators” are closed for today. Please visit us another day. See ya! 
  
 **Mash:**
@@ -1816,13 +1816,13 @@ Um...Senpai. Is it normal to feel a little bit worried?
 **Fou:**
 Fouuu. 
  
-**C：? ? ? :**
+**C：???:**
 Wait, Florence. Where do you think you're going? 
  
-**C：? ? ? :**
+**C：???:**
 Do you know that leaving your post in the military is an offense that can get you shot? 
  
-**C：? ? ? :**
+**C：???:**
 Get back to your post now. Or else harsh punishment will be waiting for you. 
  
 **Nightingale:**
@@ -1834,13 +1834,13 @@ My job has not changed at all.
 **Nightingale:**
 I feel like I almost found a way to treat the soldiers' ailments at their core, so that's what I'm going to do. 
  
-**C：? ? ? :**
+**C：???:**
 Oh, really? That is reasonable. Thank you. But&mdash;
  
-**C：? ? ? :**
+**C：???:**
 I can't let a Berserker like you wander off like that. What happens if you end up disrupting our troops? 
  
-**C：? ? ? :**
+**C：???:**
 The king would never approve of this. 
  
 **Nightingale:**
@@ -1849,10 +1849,10 @@ The king would never approve of this.
 **Nightingale:**
 Unless you have a better way to treat the soldiers. I'm all ears. 
  
-**C：? ? ? :**
+**C：???:**
 Sheesh, you really can't talk to a Berserker. I wonder what I should do. 
  
-**C：? ? ? :**
+**C：???:**
 We've never seen eye to eye, so maybe this is a good chance to get rid of you? 
  
 **Nightingale:**
@@ -1891,28 +1891,28 @@ Roger that. I'm not confident, but I'll do my best!
 **Mash:**
 P-Pardon me for interrupting! Are you...a Servant too? 
  
-**C：? ? ? :**
+**C：???:**
 Too? You mean...Oh! So many Servants! Great! 
  
-**C：? ? ? :**
+**C：???:**
 When I heard the Celts were driven away,I assumed Florence had lost her mind again...
  
-**C：? ? ? :**
+**C：???:**
 But it seems I was wrong. So this is good news for the king? 
  
 **Mash:**
 King? 
  
-**C：? ? ? :**
+**C：???:**
 Oh, you don't know America's current situation? This country has split into two, and now the two sides are at war with each other. 
  
-**C：? ? ? :**
+**C：???:**
 The other side is good-for-nothing savages who just want to destroy. 
  
-**C：? ? ? :**
+**C：???:**
 And there's our side&ndash;the United Western States, led by our king. 
  
-**C：? ? ? :**
+**C：???:**
 It's a civil war between the East and the West...not the North and the South. 
  
 **Dr. Roman:**
@@ -1924,16 +1924,16 @@ So it's not even “What if the South won the Civil War? ”but a clash between 
 **Mash:**
 ...Um, pardon me, miss. What's your name? 
  
-**C：? ? ? :**
+**C：???:**
 Oh. You recognized Florence at a glance,but you don't know me? 
  
 **Mash:**
 I-I'm sorry...Ms. Nightingale was...Um, anyway, it was easy to guess...
  
-**C：? ? ? :**
+**C：???:**
 That's okay, I'm only giving you a hard time. Please forgive my childishness. 
  
-**C：? ? ? :**
+**C：???:**
 I'm sorry I didn't introduce myself earlier. I am Helena Petrovna Blavatsky. 
  
 **Blavatsky:**
@@ -2508,16 +2508,16 @@ I don't want to affect your first impression with my speculation. Anyway, we'll 
 **Mechanized Infantry:**
 Thank you for waiting. The presi-king is here! 
  
-**E：? ? ? :**
+**E：???:**
 Oh! At last I get the chance to meet that angel! 
  
-**E：? ? ? :**
+**E：???:**
 How I have yearned for this moment! 
  
-**E：? ? ? :**
+**E：???:**
 I intended on inviting them only after they eliminated the Celts, but this is fine, too! 
  
-**E：? ? ? :**
+**E：???:**
 Yes, advancing the schedule is a good thing! Much better than pushing back the deadline! 
  
 **Blavatsky:**
@@ -2529,7 +2529,7 @@ That was “talking to himself? ”
 **Mash:**
 D-Did you hear how loud he was, Senpai!? No human could do that! 
  
-**E：? ? ? :**
+**E：???:**
 &mdash;To be frank, you have all done a fantastic job! Greetings, everyone! And congratulations! 
  
 **Mash:**
@@ -2550,7 +2550,7 @@ D-Did you hear how loud he was, Senpai!? No human could do that!
 **Dr. Roman:**
 Huh? Is the monitor broken? All I see on it is a creature? 
  
-**E：? ? ? :**
+**E：???:**
 I'll say it once more! All of you have done a fantastic job! 
  
 **Blavatsky:**
@@ -2565,13 +2565,13 @@ W-Well, I was indeed surprised...but it's fine, I'm getting used to things of th
 **Mash:**
 That aside, umm...You must be the king who controls Western America, right? 
  
-**E：? ? ? :**
+**E：???:**
 Indeed, it is as you say. 
  
-**E：? ? ? :**
+**E：???:**
 I have taken it upon myself to rule America in order to pulverize those barbaric Celts&mdash;
  
-**E：? ? ? :**
+**E：???:**
 I am a Servant, and a gentleman who supports other Servants! I am Thomas Alva Edison, the presi-king! 
  
 **Mash:**
@@ -3206,10 +3206,10 @@ No, I think I've managed to shave off a little bit. Come on, everyone pitch in a
 **Mash:**
 Ah, the bullets are ricocheting inside this cell! Nightingale, that's too reckless&ndash;! 
  
-**D：? ? ? :**
+**D：???:**
 ...Yes, that was reckless. 
  
-**D：? ? ? :**
+**D：???:**
 But on the bright side, the sound of the gunshots let me find you quickly. 
  
 **Mash:**
@@ -3218,22 +3218,22 @@ A Servant?
 **Dr. Roman:**
 Wait, wait, a Servant you say? But I didn't detect anything at all! 
  
-**D：? ? ? :**
+**D：???:**
 If I gave off a Servant response, we'd risk the possibility of that great hero of India finding us. 
  
-**D：? ? ? :**
+**D：???:**
 It's thanks to this Noble Phantasm that I borrowed from that man...Just a moment. I'll get you out of there. 
  
 **Mash:**
 Who on earth are you&ndash;? 
  
-**D：? ? ? :**
+**D：???:**
 ...Good question. I'm sure you can't trust me unless I tell you my name. 
  
-**D：? ? ? :**
+**D：???:**
 That said, my True Name is not to be revealed lightly. Though even if I told you, you wouldn't know who I am. 
  
-**D：? ? ? :**
+**D：???:**
 As such, you should just call me this. “Geronimo”...My name is Geronimo. 
  
 **Mash:**
@@ -3509,7 +3509,7 @@ Yes, please. In your care, he may yet have a chance.
 **Geronimo:**
 All right, bring him out! 
  
-**D：? ? ? :**
+**D：???:**
 Ungh...
  
 **Mash:**
@@ -3518,7 +3518,7 @@ Ungh...
 **Dr. Roman:**
 A part of his heart has been gouged out! I'm shocked he's still alive! 
  
-**D：? ? ? :**
+**D：???:**
 Well...Endurance...is...my strong suit...Ugh...
  
 **Nightingale:**
@@ -3527,13 +3527,13 @@ Well...Endurance...is...my strong suit...Ugh...
 **Nightingale:**
 Don't worry, young man. Even if you end up in hell, I'll drag you out. 
  
-**D：? ? ? :**
+**D：???:**
 Hnngh...That does sound...promising! 
  
-**D：? ? ? :**
+**D：???:**
 Ah, owwww! C-Can't you be a little more gentle!? 
  
-**D：? ? ? :**
+**D：???:**
 Do you understand? My heart is crushed! 
  
 **Nightingale:**
@@ -3548,10 +3548,10 @@ Because of that, blood cannot circulate properly in your body...I must cut it ou
 **Nightingale:**
 ...All limbs, I mean. And if possible, I'll take all organs out except your lungs too! 
  
-**D：? ? ? :**
+**D：???:**
 W-Wait, wait, wait! Focus on repairing just my heart, no amputation! 
  
-**D：? ? ? :**
+**D：???:**
 I cannot lose any means to fight! 
  
 **Nightingale:**
@@ -3560,7 +3560,7 @@ What are you talking about? There is no greater joy than being alive!
 **Nightingale:**
 As an individual life form who has taken root on this earth, you have a duty to survive, come what may! 
  
-**D：? ? ? :**
+**D：???:**
 Th-That's easy for you to say! 
  
 **Nightingale:**
@@ -3569,7 +3569,7 @@ It's all right. I swear that I'll heal you...I swear it!
 **Mash:**
 ...So, who is he? He doesn't seem like a Servant from this country...
  
-**D：? ? ? :**
+**D：???:**
 Y-You mean me? I am Rama! The great king of Kosala! 
  
 **Rama:**
@@ -4187,22 +4187,22 @@ L-Let's run!
  
 **--ARROW--**
  
-**F：? ? ? :**
+**F：???:**
 Huh? Did you hear something just now? 
  
-**E：? ? ? :**
+**E：???:**
 Hmm...It sounds like people fighting, or something. Have our reinforcements arrived? 
  
-**F：? ? ? :**
+**F：???:**
 The tables have turned! Old Man Geronimo's finally done it! 
  
-**E：? ? ? :**
+**E：???:**
 ...Hey, hey, Green? 
  
-**E：? ? ? :**
+**E：???:**
 Remind me. Is Geronimo a woman with a medical bag, toting a gun and carrying a kid on her back? 
  
-**F：? ? ? :**
+**F：???:**
 ...Huh? What's that scary-sounding thing? Not even our banshee is that scary. 
  
 **Rama:**
@@ -4232,31 +4232,31 @@ All right! Mash Kyrielight&ndash;going in!
 **Rama:**
 How should I say it...This is ridiculous...
  
-**E：? ? ? :**
+**E：???:**
 Hey, hey! Hey, you! You're an ally, right? I think? 
  
 **Rama:**
 Are you one of the Archers Geronimo was talking about? 
  
-**E：? ? ? :**
+**E：???:**
 Oh, good. So you ARE an ally! Hey, Green! They're allies! 
  
-**F：? ? ? :**
+**F：???:**
 That's good to hear. Really good. 
  
-**F：? ? ? :**
+**F：???:**
 Most of the enemies are gone now, but I was afraid we'd have to go against that scary lady next. 
  
 **Rama:**
 Oh, how long have you been there? 
  
-**F：? ? ? :**
+**F：???:**
 It's my skill, don't worry about it. As for me, I'm more interested in the fact that you're being carried on her back. 
  
 **Rama:**
 &ndash;Please, just don't ask. It's an excessively long and convoluted story. 
  
-**E：? ? ? :**
+**E：???:**
 Hey, hey! Are those people charging at us our allies too? 
  
 **Rama:**
@@ -4320,22 +4320,22 @@ As someone who's joined the military, that's the only mission possible for me.
 **Mash:**
 ...What should we do, Senpai? 
  
-**E：? ? ? :**
+**E：???:**
 Hey, are you the reinforcements Geronimo mentioned? 
  
 **Mash:**
 Y-Yes. You must be the ones he spoke about...
  
-**E：? ? ? :**
+**E：???:**
 Yep, the pair in a solitary struggle. My True Name is...I'll just tell you, since it's too troublesome otherwise. 
  
-**E：? ? ? :**
+**E：???:**
 I'm Robin Hood, Archer class. And this guy with me here is&ndash;
  
-**D：? ? ? :**
+**D：???:**
 What the heck? You just blurted it out? No fair. Then I guess there's no reason I should keep mine a secret. 
  
-**D：? ? ? :**
+**D：???:**
 I'm William Henry McCarty, Jr. Though people call me&ndash;Billy the Kid! 
  
 **Billy:**
@@ -4530,19 +4530,19 @@ The first time, I forgive their carelessness. The second time, I praise their na
 **Cú Chulainn Alter:**
 That, I don't need. 
  
-**E：? ? ? :**
+**E：???:**
 That opinion still suits you even after falling to darkness. Your ferocity against enemies, on the other hand, does not suit you. 
  
 **Cú Chulainn Alter:**
 ...So it's you. 
  
-**E：? ? ? :**
+**E：???:**
 Surely it's you who called me. 
  
 **Medb:**
 No, that would be me. 
  
-**E：? ? ? :**
+**E：???:**
 Oh, Medb, is it? What's wrong? No one to warm your bed at night? I'd be happy to oblige. 
  
 **Medb:**
@@ -4551,22 +4551,22 @@ No. Rest assured that I have no issue in that area. Actually, I have a bit of ne
 **Medb:**
 Servants aiming to “correct” this world have appeared. Enemies trying to return this nation to how it used to be. 
  
-**E：? ? ? :**
+**E：???:**
 Interesting. How audacious. Are those the ones whom Fionn mac Cumhaill and Diarmuid Ua Duibhne ran into? 
  
 **Cú Chulainn Alter:**
 If you're bored, you go. They're strong enough, they shouldn't disappoint you. 
  
-**E：? ? ? :**
+**E：???:**
 Oh, by myself? 
  
 **Medb:**
 No, they're trying to meet up with one another. So you could sneak ahead, take those Servants and&ndash;
  
-**E：? ? ? :**
+**E：???:**
 Oh, I see. In other words, pick them off one by one before they all meet up. 
  
-**E：? ? ? :**
+**E：???:**
 Acceptable. That should be simple enough. 
  
 **Medb:**
@@ -5183,31 +5183,31 @@ They've been tracking the Celtic soldiers for me. In particular, I want to know 
 **Robin Hood:**
 Ugh, I don't want to do this...
  
-**G：? ? ? :**
+**G：???:**
 ♪Hum, hum, hum, hum...Okay then, the groundwork is in place. 
  
-**G：? ? ? :**
+**G：???:**
 It's a shame that a Western is the only thing you can shoot in a town like this&ndash;
  
-**G：? ? ? :**
+**G：???:**
 But not to worry. Even in a Western, my extraordinary acting talent will no doubt win me an Academy Award! 
  
-**G：? ? ? :**
+**G：???:**
 I'll be concurrently responsible for production, direction, the script, music, and the leading role...
  
-**G：? ? ? :**
+**G：???:**
 Oh, no! I just realized there's no cameraman&ndash;! 
  
-**G：? ? ? :**
+**G：???:**
 Hmph, what am I to do...Perhaps the time has finally come for me to try my hand at summoning? 
  
-**G：? ? ? :**
+**G：???:**
 But my profound talent may result in summoning a big shot...I'll be forced to choose between Eastwood and Scott...
  
-**E：? ? ? :**
+**E：???:**
 Hmm. Hollywood, is it? One must not underestimate the creative minds of Servants. 
  
-**G：? ? ? :**
+**G：???:**
 Hmph, who are you? I'm quite busy, so off with you...Unless you're a cameraman. 
  
 **Fergus:**
@@ -5216,7 +5216,7 @@ Do excuse me. My name is Fergus. I once earned my keep as a Knight of the Red Br
 **Fergus:**
 Normally, I would have happily called myself a cameraman in order to hit on you&ndash;but things are complicated now. 
  
-**G：? ? ? :**
+**G：???:**
 Oh? 
  
 **Fergus:**
@@ -5225,10 +5225,10 @@ So I'm going to kill you. Period. If you want someone to resent, you have only m
 **Fergus:**
 I'm doing this entirely for myself, after all. I'll cut you down just because I want to. 
  
-**G：? ? ? :**
+**G：???:**
 Hmph. You seem to have your reasons, but I won't ask. You're quite bold to think you can kill me. 
  
-**G：? ? ? :**
+**G：???:**
 I don't mean to boast, but I, Nero Claudius, am not a petty Servant who will die so easily, you see? 
  
 **Fergus:**
@@ -5422,7 +5422,7 @@ Still, good grief&ndash;
 Hm? 
  
 **Mash:**
-? ? ? 
+???
  
 **Elisabeth:**
 Huh? 
@@ -6553,25 +6553,25 @@ Let's go!
 ---
 
  
-**E：? ? ? :**
+**E：???:**
 ...Hm. One, two, three, four...But one of them seems weakened...Is that one injured? 
  
-**E：? ? ? :**
+**E：???:**
 So that really means three. Seriously? ONLY three? 
  
-**E：? ? ? :**
+**E：???:**
 I just hope there's enough for everyone to get their fill...
  
-**E：? ? ? :**
+**E：???:**
 Tch...Whatever. All right. Guys, you've got work. 
  
-**E：? ? ? :**
+**E：???:**
 You're not just here to live idly and eat humans. Go put yourselves to the test! 
  
-**G：? ? ? :**
+**G：???:**
 ......
  
-**G：? ? ? :**
+**G：???:**
 &mdash;Lord Rama? 
  
 **Mash:**
@@ -6720,25 +6720,25 @@ This is the final gate. Please hold out just a little longer.
 **Mash:**
 ...A Servant! 
  
-**E：? ? ? :**
+**E：???:**
 Hey. Welcome to the Alcatraz Penitentiary. Are you here for imprisonment? An attack? Aiding a jailbreak? 
  
-**E：? ? ? :**
+**E：???:**
 Let me know what you want. I'll think about it after I kill you. 
  
 **Nightingale:**
 This patient's wife seems to be held here. She's necessary for his recovery, please release her. 
  
-**E：? ? ? :**
+**E：???:**
 What, you're here for a meeting? Seriously, you didn't come to fight? 
  
 **Nightingale:**
 Of course not. Why would a nurse want to fight? The only things that nurses fight are illness and injury. 
  
-**E：? ? ? :**
+**E：???:**
 You're absolutely correct. A nurse who takes lives would be out of their mind. 
  
-**E：? ? ? :**
+**E：???:**
 Hmm? That means you're actually not crazy? You're quite the respectable Servant! 
  
 **Rama:**
@@ -6747,10 +6747,10 @@ I must agree with our enemy.
 **Rama:**
 This nurse here is a contradictory woman,someone who's crazy yet isn't crazy either. 
  
-**E：? ? ? :**
+**E：???:**
 Oh? I thought you were just their luggage, but you can talk? I get it. You're that lady's husband. 
  
-**E：? ? ? :**
+**E：???:**
 Unfortunately for you,I have no intention of letting her go. 
  
 **Nightingale:**
@@ -6762,13 +6762,13 @@ I wish for bloodshed. No, I thirst for it.
 **Nightingale:**
 If it means saving a patient,I'll remove all obstacles down to their roots! 
  
-**E：? ? ? :**
+**E：???:**
 Heh...Hahahaha! How amusing! So Berserkers come in different varieties too! 
  
 **Elisabeth:**
 Ugh...This Servant doesn't make me feel well...I feel it in my horns! 
  
-**E：? ? ? :**
+**E：???:**
 I'm sure, young lady! After all, my True Name is Beowulf&ndash;the “Dragon Slayer. ”
  
 **Dr. Roman:**
@@ -6917,13 +6917,13 @@ That's right. We can talk somewhere else. Just get going, frail boy. Your dainty
 **Rama:**
 Yes...I'll do that! 
  
-**F：? ? ? :**
+**F：???:**
 ......Lord Rama? 
  
 **Rama:**
 Is that you, Sita? I've come for you...I've...come...
  
-**F：? ? ? :**
+**F：???:**
 Lord Rama! 
  
 **Mash:**
@@ -8174,19 +8174,19 @@ Ugh!
 **Arjuna:**
 Hm!? 
  
-**D：? ? ? :**
+**D：???:**
 &ndash;Weak, so weak. 
  
-**D：? ? ? :**
+**D：???:**
 You're well-trained, but you don't put any heart into your attacks. You're like a child throwing sticks. 
  
 **Arjuna:**
 ...Who are you? I pride myself in putting my full might behind that attack. 
  
-**D：? ? ? :**
+**D：???:**
 I have no obligation to answer. Just remember me as a god-slayer who happened to pass by. 
  
-**D：? ? ? :**
+**D：???:**
 I've decided to allow that boy to escape with his life. Now withdraw, youngster who was merely adored by gods. 
  
 **Arjuna:**
@@ -8207,53 +8207,53 @@ Or what? Are you trying to hold me back? Does that mean you're a traitor, too?
 **Arjuna:**
 ...Understood. 
  
-**D：? ? ? :**
+**D：???:**
 Good, good. Listening to others is a good thing. A good child, unlike you, Sétanta. 
  
 **Cú Chulainn Alter:**
 ...Quit calling me by my childhood name. What a headache. To think even you were summoned here. 
  
-**D：? ? ? :**
+**D：???:**
  
 Those are my lines, fool. That's not how you speak to your mentor. 
  
 **Cú Chulainn Alter:**
 But I've always been like this.... So? Are you my enemy? 
  
-**D：? ? ? :**
+**D：???:**
 Why yes. You know how it goes...
  
-**D：? ? ? :**
+**D：???:**
 If you see a rabid dog in your favorite flower garden, you wouldn't just sit around reading, would you? 
  
-**D：? ? ? :**
+**D：???:**
 I can't bear to see the fool you've become. Though a fool, you're still my student. I should behead you out of mercy. 
  
-**D：? ? ? :**
+**D：???:**
 Now, answer me, Cú Chulainn. What has possessed you? 
  
 **Cú Chulainn Alter:**
 ......
  
-**D：? ? ? :**
+**D：???:**
 No need to answer, huh? 
  
-**D：? ? ? :**
+**D：???:**
 In that case, the only thing left for us to do is fight to the death...However, it seems the circumstances won't allow us to. 
  
-**D：? ? ? :**
+**D：???:**
 I must allow that pale...boy in green to escape. You have that burden named Medb behind you. 
  
-**D：? ? ? :**
+**D：???:**
 If we fight, things won't end well for either of them. So what'll it be, O king who gained a queen? 
  
-**D：? ? ? :**
+**D：???:**
 Lose everything here, and promptly lighten your burden? 
  
 **Cú Chulainn Alter:**
 You must be joking. Knowing you, you'd take Medb out the second we start this fight. 
  
-**D：? ? ? :**
+**D：???:**
 Of course. I can't stand that woman. So I might just impale her with the best thrust of my life. 
  
 **Cú Chulainn Alter:**
@@ -8262,7 +8262,7 @@ We won't fight here. I'll let that Archer go.
 **Cú Chulainn Alter:**
 Now you will get out of my sight, too. Come back again when everyone has died off, so no one can stand in our way. 
  
-**D：? ? ? :**
+**D：???:**
 Very well, that would be my duty anyway. When you no longer have a way to die, I'll kill you with a smile. 
  
 **Cú Chulainn Alter:**
@@ -8421,7 +8421,7 @@ Yet they also have Arjuna. And...I suppose Beowulf is still alive as well.
 He's rather capricious, so we have no idea what he would do. But it's certain that he would side with the enemy. 
  
 **Mash:**
-? ? ? Doesn't it seem a bit noisy around us? 
+???Doesn't it seem a bit noisy around us? 
  
 **Elisabeth:**
 ...Hey! They're coming to attack us. What should we do? 
@@ -8520,7 +8520,7 @@ Thus, you could say they're beings closest to Servants. Make sure to defeat them
 **Scáthach:**
 ...Hm? 
  
-**C：? ? ? :**
+**C：???:**
 &mdash;Haaah! 
  
 **Elisabeth:**
@@ -8544,7 +8544,7 @@ Abilities like that are impossible without both innate talent and hellish traini
 **Scáthach:**
 You there! What is your name!? 
  
-**C：? ? ? :**
+**C：???:**
 Lancer, Li Shuwen! Well met, Servant of twin spears! 
  
 **Li Shuwen:**
@@ -11186,7 +11186,7 @@ Ugh&mdash;!
 **Rama:**
 Karna will win! 
  
-**C：? ? ? :**
+**C：???:**
 &ndash;“Gáe Bolg. ”
  
 **Mash:**
@@ -11341,10 +11341,10 @@ Ugh!
 **Cú Chulainn Alter:**
 What...
  
-**H：? ? ? :**
+**H：???:**
 Dozing off as I stroll along,I find myself in a strange land of wilderness. 
  
-**H：? ? ? :**
+**H：???:**
 Is this the dream continued, or merely an illusion? Well, not that it matters. 
  
 **Merlin:**
@@ -11871,10 +11871,10 @@ Yet why do you insist on being so ugly?
 **Cú Chulainn Alter:**
 Goodbye, Scáthach. We'll probably never meet again. 
  
-**C：? ? ? :**
+**C：???:**
 Too bad. As a fellow spearman,I would've liked to try fighting him, but&ndash;
  
-**C：? ? ? :**
+**C：???:**
 I had to prioritize a previous appointment. You alive? 
  
 **Scáthach:**
@@ -11883,7 +11883,7 @@ I had to prioritize a previous appointment. You alive?
 **Scáthach:**
 I've patched up my outward appearance, but that's about it. To put it into perspective, 90% of my organs are destroyed. 
  
-**C：? ? ? :**
+**C：???:**
 Hm, that's a problem. You can't fight like that. 
  
 **Scáthach:**
@@ -13131,7 +13131,7 @@ Ah, oh no!
 Hey, lady!? 
  
 **Elisabeth:**
-...? ? ? 
+...???
  
 **Elisabeth:**
 Huh? I'm fine? 
@@ -13315,10 +13315,10 @@ Edison!
 **Edison:**
 ...What...
  
-**H：? ? ? :**
+**H：???:**
 &ndash;Hahahahaha! How unsightly! How unsightly of you, Edison! 
  
-**H：? ? ? :**
+**H：???:**
 You're ordinary after all, unfit to stand before me! Hang your head in shame, and begone immediately! 
  
 **Edison:**
@@ -13327,7 +13327,7 @@ You're ordinary after all, unfit to stand before me! Hang your head in shame, an
 **Edison:**
 D-Don't tell me...You're...
  
-**H：? ? ? :**
+**H：???:**
 I'll tell you! I am the true genius, the one given the duty of pioneering the stars, I am&mdash;
  
 **Edison:**
@@ -13474,10 +13474,10 @@ I'm observing an enormous amount of Ether!
 **Edison:**
 What!? What exactly is happening&ndash;
  
-**E：? ? ? :**
+**E：???:**
 &ndash;Expanding sacred domain. Domain secured. Setting divine punishment enforcement limits. Calculating amount of time needed for magical energy convergence and acceleration. 
  
-**E：? ? ? :**
+**E：???:**
 &ndash;Countdown. 
  
 **Robin Hood:**

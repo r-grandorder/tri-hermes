@@ -1077,7 +1077,7 @@ Analyze Lost Order. Commencing Belt Recast.
  
 ## Section 1: Singularity Landing 
  
-**A：? ? ? :**
+**A：???:**
 ...ter! 
  
 ---
@@ -1088,7 +1088,7 @@ Analyze Lost Order. Commencing Belt Recast.
 ---
 
  
-**A：? ? ? :**
+**A：???:**
 ...ter!? ...ke up...ter! 
  
 ---
@@ -1099,7 +1099,7 @@ Analyze Lost Order. Commencing Belt Recast.
 ---
 
  
-**A：? ? ? :**
+**A：???:**
 Master! Please...wake up! 
  
 ---
@@ -1164,22 +1164,22 @@ I'm done for!
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 Ah, yes. Save the falling {(M) boy /(F) girl}. 
  
-**D：? ? ? :**
+**D：???:**
 That is precisely the {(M) girl /(F) boy}'s role in this soon-to-begin story of love and hope: the “meet cute,” as it were. 
  
-**D：? ? ? :**
+**D：???:**
 Soon enough, you will be off gallivanting about with your new love, doing your best to fix the Singularity. Or perhaps not. 
  
-**D：? ? ? :**
+**D：???:**
 Truly a lovely story! A grand take! Unfortunately, though...
  
-**D：? ? ? :**
+**D：???:**
 ...your rescuer is neither a dapper young gentleman, nor a beautiful young lady. 
  
-**D：? ? ? :**
+**D：???:**
 You must content yourself with yours truly: a rather shady-looking old man. 
  
 ---
@@ -1187,7 +1187,7 @@ You must content yourself with yours truly: a rather shady-looking old man.
 **Fujimaru 1:**
 Who are you!? 
  
-**D：? ? ? :**
+**D：???:**
 Hah hah! I can't fault you for your curiosity, but let's wait until you're back on the ground first! 
  
 
@@ -1196,29 +1196,29 @@ Hah hah! I can't fault you for your curiosity, but let's wait until you're back 
 **Fujimaru 2:**
 Thank you! 
  
-**D：? ? ? :**
+**D：???:**
 My, my. I'm impressed you have the wherewithal to mind your manners at a time like this. 
  
-**D：? ? ? :**
+**D：???:**
 You must be exceptionally polite, or exceptionally foolish. 
  
-**D：? ? ? :**
+**D：???:**
 Let us hope for the former! Now, for the landing! 
  
 
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 Whew! That was no mean feat for a gentleman of fifty or thereabouts. 
  
-**D：? ? ? :**
+**D：???:**
 But I brought it off perfectly. Not that I would expect anything less of myself. 
  
-**D：? ? ? :**
+**D：???:**
 Right, then. How are you holding up? No brain damage? Nerves all right? Bones intact? 
  
-**D：? ? ? :**
+**D：???:**
 Hmmm...Hmmmmmm. 
  
 ---
@@ -1229,19 +1229,19 @@ Uh...
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 Ah, pardon my lack of manners. I must have been scrutinizing you rather closely. 
  
-**D：? ? ? :**
+**D：???:**
 Well, don't mind me; I'm just a dried-up old man. Not much different from being inspected by a machine. 
  
-**D：? ? ? :**
+**D：???:**
 The important part, of course, is to be certain that you are still fit and able! 
  
-**D：? ? ? :**
+**D：???:**
 Excellent. Now that that we know you're well...
  
-**D：? ? ? :**
+**D：???:**
 Welcome to hell, Master of Chaldea! 
  
 ---
@@ -1252,7 +1252,7 @@ Hell!?
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 Just take a look at what's happened to this city. 
  
 ---
@@ -1263,16 +1263,16 @@ What IS all this...?
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 Spellcasters, Demonic Beasts, sentient mannequins, and pseudo-soldiers known as “Hornets”...
  
-**D：? ? ? :**
+**D：???:**
 Almost all of the good people have died off, leaving only the worst of the worst. A fin de siècle in every sense of the word. 
  
-**D：? ? ? :**
+**D：???:**
 Cut off from the outside world, this city has become a prison&ndash;a horrific cesspool of the unutterably vile. 
  
-**D：? ? ? :**
+**D：???:**
 We call it Shinjuku, the Quarantined Territory of Malice! 
  
 **Mash:**
@@ -1281,19 +1281,19 @@ Shinjuku...
 **Da Vinci:**
 Quarantined Territory of Malice...
  
-**D：? ? ? :**
+**D：???:**
 It seems the time has come to reveal Shinjuku's first secret. 
  
-**D：? ? ? :**
+**D：???:**
 It is nothing earth-shattering, but go on, see for yourself. 
  
 **Mash:**
 Is that...a wall? It's surrounding all of Shinjuku, just like the one that encircled Uruk! 
  
-**D：? ? ? :**
+**D：???:**
 Right you are! It is a wall! And yes, it does indeed surround Shinjuku. 
  
-**D：? ? ? :**
+**D：???:**
 So what's beyond the wall, you ask? Nobody knows! No transmissions come in, no transmissions go out. 
  
 **Da Vinci:**
@@ -1325,16 +1325,16 @@ I don't remember that being there.
 **Da Vinci:**
 Hey, Servant-y person. Do you know what that is? 
  
-**D：? ? ? :**
+**D：???:**
 Oh, that? I believe you will find that is the lair of the one who will be your nemesis here. But I'm afraid you won't be getting there anytime soon. 
  
-**D：? ? ? :**
+**D：???:**
 I'm sure you understand that in stories such as ours, the path to the villain is circuitous at best. 
  
 **Mash:**
 So you mean the path cuts off before it reaches there? What about hopping along the rooftops? 
  
-**D：? ? ? :**
+**D：???:**
 I'm afraid that would make you easy pickings for the enemy Servants. 
  
 **Mash:**
@@ -1351,49 +1351,49 @@ Just who are you?
 **Da Vinci:**
 Yes, I think it's about time you told us that. 
  
-**D：? ? ? :**
+**D：???:**
 Mm-hm, I see. 
  
-**D：? ? ? :**
+**D：???:**
 I suppose it would only be proper for me to tell you my True Name now. 
  
-**D：? ? ? :**
+**D：???:**
 But remember this, young Master of Chaldea. Usually, a Servant must keep their True Name hidden. 
  
-**D：? ? ? :**
+**D：???:**
 After all, revealing it would also mean revealing their weakness. 
  
-**D：? ? ? :**
+**D：???:**
 The more invincible a renowned hero of myth seems, the more certain they are to have a weakness. 
  
-**D：? ? ? :**
+**D：???:**
 Mythology, after all, does sometimes have its plot devices. 
  
-**D：? ? ? :**
+**D：???:**
 Sometimes, the bigger the monster, the easier it is dispatched. 
  
-**D：? ? ? :**
+**D：???:**
 Thus the custom among us Servants of calling each other by our class names in typical Holy Grail Wars. 
  
-**D：? ? ? :**
+**D：???:**
 Though I am given to understand that there was no time for that sort of thing during the restoration of humanity. 
  
-**D：? ? ? :**
+**D：???:**
 Of course, with any number of Masters urgently shouting“Archer, attack! ”, “Archer, heal! ”, and “Archer, defend! ”...
  
-**D：? ? ? :**
+**D：???:**
 ...One could be forgiven for getting a little confused. 
  
-**D：? ? ? :**
+**D：???:**
 Nonetheless, in this Singularity, revealing one's True Name could well prove fatal. 
  
-**D：? ? ? :**
+**D：???:**
 Are we clear on that, {(M) young man /(F) young lady}? 
  
-**D：? ? ? :**
+**D：???:**
 As such, I can tell you my class name to facilitate easy communication. 
  
-**D：? ? ? :**
+**D：???:**
 But I cannot yet reveal my True Name. I hope you will understand. 
  
 ---
@@ -1401,7 +1401,7 @@ But I cannot yet reveal my True Name. I hope you will understand.
 **Fujimaru 1:**
 Understood. 
  
-**D：? ? ? :**
+**D：???:**
 Ah, the perfect answer. Small wonder it was you who saved the world. 
  
 
@@ -1410,20 +1410,20 @@ Ah, the perfect answer. Small wonder it was you who saved the world.
 **Fujimaru 2:**
 So what's your class, then? 
  
-**D：? ? ? :**
+**D：???:**
 Hahaha! You don't waste any time, do you? An admirable demonstration of your decisiveness. 
  
 
 ---
 
  
-**D：? ? ? :**
+**D：???:**
 Very well then, I shall tell you my class name! 
  
-**D：? ? ? :**
+**D：???:**
 I'll even be more specific to help make it a proper appellation! 
  
-**D：? ? ? :**
+**D：???:**
 My class is...Archer! Here I am known, or so I'm told, as “the Archer of Shinjuku”! 
  
 **Archer of Shinjuku:**
@@ -2008,58 +2008,58 @@ This has all been meticulously planned out from the beginning. With...his...invo
  
 ## Section 2: Millennium Trap 
  
-**A：? ? ? :**
+**A：???:**
 Hello, Rider. Hello, Archer. And hello, Assassin. 
  
-**A：? ? ? :**
+**A：???:**
 You should know that the barrier picked up a signal earlier. 
  
-**A：? ? ? :**
+**A：???:**
 It seems that Chaldea has sent a Master here to restore humanity, just as we expected. 
  
-**A：? ? ? :**
+**A：???:**
 I hacked the Rayshift coordinates to make {(M) him /(F) her} fall, but I'm afraid it didn't go so well. 
  
-**A：? ? ? :**
+**A：???:**
 So, what's our plan now? 
  
-**B：? ? ? :**
+**B：???:**
 ![3-light](https://i.imgur.com/9QdxWyo.png)
  
-**A：? ? ? :**
+**A：???:**
 Calm yourself, Rider. Not that I blame you for being enraged. 
  
-**A：? ? ? :**
+**A：???:**
 ...Could we go after them? 
  
-**C：? ? ? :**
+**C：???:**
 Hahaha. I just bet he's raring to go. To Rider, everyone's an enemy, including us. 
  
-**C：? ? ? :**
+**C：???:**
 He couldn't be more stoked about having an enemy he can just openly kill! 
  
-**C：? ? ? :**
+**C：???:**
 Besides, didn't you pretty much figure that'd be his response to being told about Chaldea? 
  
-**A：? ? ? :**
+**A：???:**
 Well, more or less. 
  
-**C：? ? ? :**
+**C：???:**
 So what exactly are you planning to do with this whole “league” thing? 
  
-**C：? ? ? :**
+**C：???:**
 If it were me, I'd just kill {(M) him /(F) her} before {(M) he /(F) she} could see it coming! 
  
-**C：? ? ? :**
+**C：???:**
 Wanna do that? Please? Hell, I'll do it if you like! 
  
-**A：? ? ? :**
+**A：???:**
 What do you think, other Archer? 
  
-**D：? ? ? :**
+**D：???:**
 You already know what I'm going to say, Professor. 
  
-**D：? ? ? :**
+**D：???:**
 Look inside yourself, and you'll know the best course of action.... Just tell me who to kill. 
  
 **Archer of Shinjuku:**
@@ -2083,31 +2083,31 @@ If {(M) he /(F) she} manages to survive even that, then it will be your turn, As
 **Assassin of Shinjuku:**
 You got it! Let's see, that would mean I go...third!? Aw man, why do I hafta start late? 
  
-**D：? ? ? :**
+**D：???:**
 What about me? 
  
 **Archer of Shinjuku:**
 I'd like you to handle the flying squad. After all, you're my biggest miscalculation. 
  
-**D：? ? ? :**
+**D：???:**
 Hmph, miscalculation, eh. Well that's nice. 
  
-**D：? ? ? :**
+**D：???:**
 Now that I've been summoned here,I know what I have to do. 
  
-**D：? ? ? :**
+**D：???:**
 Sow chaos across the world, and rain evil down from the sky. Piece of cake, right? 
  
 **Archer of Shinjuku:**
 Piece of cake, eh. You do realize this is very different from your previous position, right? 
  
-**D：? ? ? :**
+**D：???:**
 Hey, you're lucky you got me. Make the most of it. 
  
-**D：? ? ? :**
+**D：???:**
 After all, it didn't take you long to lose your Saber and Lancer. Even darkened, those Heroic Spirits never lost their pride. 
  
-**D：? ? ? :**
+**D：???:**
 Getting two bad Servants right off the bat...You may be a master of calculation, but your luck is awful. 
  
 **Archer of Shinjuku:**
@@ -2119,7 +2119,7 @@ And from that moment on, you were my miscalculation.
 **Archer of Shinjuku:**
 You were the one who killed that Saber and Lancer so quickly, after all. Not that I don't appreciate it. 
  
-**D：? ? ? :**
+**D：???:**
 Don't worry about it. Consider it my sales pitch for my new master. 
  
 **Archer of Shinjuku:**
@@ -2131,7 +2131,7 @@ Even having one of them survive is a win in my book.
 **Archer of Shinjuku:**
 But, that does mean my initial calculations were way off. After all, you still haven't disposed of...it. 
  
-**D：? ? ? :**
+**D：???:**
 So, Phantom Spirits are also brainwashing devices, eh. 
  
 **Assassin of Shinjuku:**
@@ -2146,25 +2146,25 @@ I appreciate your honesty.
 **Archer of Shinjuku:**
 At any rate, Phantom Spirits are nothing more than ability enhancers, much like a mage's Essences. 
  
-**D：? ? ? :**
+**D：???:**
 Now I see. No wonder you're an Archer. He must never have stood a chance against your magical bullets. 
  
-**D：? ? ? :**
+**D：???:**
 In which case, there is no need to transplant the Phantom Spirit. I have always been Nameless, and a botched transplant could also affect my Spirit Origin. 
  
 **Archer of Shinjuku:**
 But it's perfectly safe. I didn't spend 3,000 years developing it for nothing, you know. 
  
-**D：? ? ? :**
+**D：???:**
 3,000 years, eh. How patient of you. 
  
 **Archer of Shinjuku:**
 Where are you going? 
  
-**D：? ? ? :**
+**D：???:**
 With Chaldea here, the battle is certain to get more explosive. 
  
-**D：? ? ? :**
+**D：???:**
 I thought I would double-check the sniper spot I picked out earlier before that happens. 
  
 **Archer of Shinjuku:**
@@ -4134,13 +4134,13 @@ I would never have been able to fight for that long if it wasn't for you.
 ---
 
  
-**B：? ? ? :**
+**B：???:**
 Hahaha! Even with a station as big as this...
  
-**B：? ? ? :**
+**B：???:**
 I figured you would notice if I got into a fight with the enemy. And I was right! 
  
-**B：? ? ? :**
+**B：???:**
 Now, if you don't mind, there really are quite a lot of them, so I would appreciate your help, Master! 
  
 **Altria Alter:**
@@ -4866,13 +4866,13 @@ Hold down the fort while we're gone.
 **Emiya Alter:**
 ...Yah! 
  
-**G：? ? ? :**
+**G：???:**
 Haaa! 
  
 **Emiya Alter:**
 ...Whew. 
  
-**G：? ? ? :**
+**G：???:**
 Ngh! 
  
 **Emiya Alter:**
@@ -4995,7 +4995,7 @@ Well, so what. I'd much rather die like a dog than burn at the stake.
 **Jeanne Alter:**
 ...Maybe someone will rob me of all my belongings and dump me in the river...Maybe I'll disappear while they're treating me like a plaything...
  
-**D：? ? ? :**
+**D：???:**
 Or maybe someone will save you. 
  
 **Jeanne Alter:**
@@ -7225,13 +7225,13 @@ Emiya...You bastard!
 **Archer of Shinjuku:**
 He burst...from the inside!? 
  
-**D：? ? ? :**
+**D：???:**
 You talk too much. 
  
-**D：? ? ? :**
+**D：???:**
 What kind of Berserker grieves at their own death, anyway? 
  
-**D：? ? ? :**
+**D：???:**
 If you're really broken, act like it and just die in misery. 
  
 ---
@@ -7313,7 +7313,7 @@ Got it!
 ---
 
  
-**G：? ? ? :**
+**G：???:**
 No need for that. 
  
 **Emiya Alter:**
@@ -8456,7 +8456,7 @@ Then let us see what he had to say! ...Hmm...
 **Shakespeare:**
 So he may not have betrayed you, but there are still many questions remaining. 
  
-**A：? ? ? :**
+**A：???:**
 ...Perhaps I can answer them. 
  
 **Shakespeare:**
@@ -14026,14 +14026,14 @@ No! It can't be!
 **Da Vinci:**
 It's not possible! No matter what else happens, this should be absolutely impossible! 
  
-**G：? ? ? :**
+**G：???:**
  
 ...Haha.... Hahaha, hahahahaha! 
  
-**G：? ? ? :**
+**G：???:**
 I remember! I remember everything now! 
  
-**G：? ? ? :**
+**G：???:**
 So, you're here, Fujimaru...loathsome Master of Chaldea! 
  
 ---
@@ -14065,16 +14065,16 @@ I thought those had all been destroyed!?
 ---
 
  
-**G：? ? ? :**
+**G：???:**
 We were indeed destroyed! Our entire species was wiped out! 
  
-**G：? ? ? :**
+**G：???:**
 We had no way to revive! To return! To be restored! Our eternity was lost! 
  
-**G：? ? ? :**
+**G：???:**
 Our plan 3,000 years in the making was devastated! Yet here I am, revealing myself in this ugly form! 
  
-**G：? ? ? :**
+**G：???:**
 All for the sole purpose...of killing you! 
  
 **Altria Alter:**
@@ -14083,25 +14083,25 @@ All for the sole purpose...of killing you!
 **Altria Alter:**
 You have no right to blame {(M) him /(F) her} for&ndash;
  
-**G：? ? ? :**
+**G：???:**
 I know that! 
  
 **Altria Alter:**
 ...
  
-**G：? ? ? :**
+**G：???:**
 You're exactly right! This bitter pain in my chest, this fire that sears my flesh...I know just where it comes from! 
  
-**G：? ? ? :**
+**G：???:**
 It's not because our 3,000-year plan was ruined. Nor because Heroic Spirits prevented the incineration. 
  
-**G：? ? ? :**
+**G：???:**
 It's not even thanks to that detestable Solomon returning his ring to the heavens. 
  
-**G：? ? ? :**
+**G：???:**
 No, there is something else behind all of that. One person responsible for how things turned out. 
  
-**G：? ? ? :**
+**G：???:**
 ...You, Fujimaru! 
  
 ---
@@ -14112,29 +14112,29 @@ Me...?
 ---
 
  
-**G：? ? ? :**
+**G：???:**
 I admit it. I have no right to blame you for this. There is no justification for taking out my anger on you. 
  
-**G：? ? ? :**
+**G：???:**
  
 No, there is only hatred. Hatred. Hatred, hatred, hatred, HATRED! 
  
-**G：? ? ? :**
+**G：???:**
 I can't feel anything but hatred! Hatred for you, Fujimaru! 
  
-**G：? ? ? :**
+**G：???:**
 Why did you come here? How did you arrive on this planet, in this time, at that place!? 
  
-**G：? ? ? :**
+**G：???:**
 If you were a hero who had surpassed the bounds of humanity, I would be convinced! If you were a demon king who ate humans, I could accept it! 
  
-**G：? ? ? :**
+**G：???:**
 But you're nothing more than a common, ordinary {(M) man /(F) woman}! And even then, you still destroyed everything! 
  
-**G：? ? ? :**
+**G：???:**
 I was only able to endure the humiliation of running away so that I would be able to kill you! 
  
-**G：? ? ? :**
+**G：???:**
 I'm not killing you in order to destroy the world. I'm destroying the world in order to kill you! 
  
 **Holmes:**
@@ -14169,19 +14169,19 @@ That's when he made his discovery.
 **Holmes:**
 He learned that the Mage King would destroy the post-2018 future, even without the incineration! 
  
-**G：? ? ? :**
+**G：???:**
 Right you are, detective of Baker Street. 
  
-**G：? ? ? :**
+**G：???:**
 Over the course of 3,000 years, I have gained the ability to fuse Phantom Spirits and Heroic Spirits! 
  
-**G：? ? ? :**
+**G：???:**
 Innumerable cast-offs, forgotten by history, devoid of faith...
  
-**G：? ? ? :**
+**G：???:**
 And yet, they possessed untold value! Urban legends! Fairy tales! Extinct beasts! 
  
-**G：? ? ? :**
+**G：???:**
 It was exactly what I couldn't understand before...and what I need now! 
  
 **Demon God Bael:**
@@ -14525,7 +14525,7 @@ You're not sad that I betrayed you. You're sad that I turned to evil in the firs
 ---
 
  
-**H：? ? ? :**
+**H：???:**
 So, you've finally shown yourself, Bael! 
  
 **Demon God Bael:**
