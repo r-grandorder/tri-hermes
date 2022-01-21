@@ -1,11 +1,5 @@
 #Singularity 3: Sealed Ends of the Four Seas - Okeanos
 
-
-![Okeanos](https://i.imgur.com/QHbedv3.png)
-
-
-![OkeanosMap](https://i.imgur.com/Ps8hSo8.png)
-
 ## Prelude
  
 **Pirate:**

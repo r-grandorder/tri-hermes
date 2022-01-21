@@ -1,11 +1,5 @@
 #Singularity 6: Divine Realm of the Round Table - Camelot
 
-
-![Camelot](https://i.imgur.com/I37vbsk.png)
-
-
-![CamelotMap](https://i.imgur.com/jF4vjGO.png)
-
 ## Prelude
  
 **???:**

@@ -90,7 +90,7 @@ Not yet.
 
 ---
 
-**Fujimaru 2:
+**Fujimaru 2:**
 I just heard we'd have 4.
 
 ---

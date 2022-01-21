@@ -1,11 +1,5 @@
 #Pseudo-Singularity I: Quarantined Territory of Malice - Shinjuku
 
-
-![Shinjuku](https://i.imgur.com/ConRBv9.png)
-
-
-![ShinjukuMap](https://i.imgur.com/ewfxwRs.png)
-
 ## Prelude
  
 **Mash:**

@@ -1,11 +1,5 @@
 #Singularity 7: Absolute Demonic Front - Babylonia
 
-
-![Babylonia](https://i.imgur.com/1kfiWii.png)
-
-
-![BabyloniaMap](https://i.imgur.com/idDPFom.png)
-
 ## Prelude
 
 **Romani Archaman:**

@@ -1,11 +1,5 @@
 #Singularity 2: Eternal Mandess Empire - Septem
 
-
-![Septem](https://i.imgur.com/AVVq299.png)
-
-
-![SeptemMap](https://i.imgur.com/9JjxXVp.png)
-
 ## Prelude
  
 **Fou:**

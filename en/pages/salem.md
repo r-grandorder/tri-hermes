@@ -1,11 +1,5 @@
 #Pseudo-Singularity IV: The Forbidden Advent Garden - Salem
 
-
-![Salem](https://i.imgur.com/6hRMWJK.png)
-
-
-![SalemMap](https://i.imgur.com/oJhnxuZ.png)
-
 ## Prelude
  
 **Sanson:**
@@ -6059,8 +6053,6 @@ Abby...
 Ahh...Poor Tituba...
  
 ## Section 2: First Knot 
- 
-**:**
  
 　　　　　　　　　　　The Next Day 　   　　　　   　　　  –Salem Day 2–
  

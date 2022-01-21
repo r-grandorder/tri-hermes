@@ -1,11 +1,5 @@
 #Cosmos in the Lostbelt 2: Eternal Frozen Fire Century - Götterdämmerung
 
-
-![Gotterdamerung](https://i.imgur.com/D464pi4.png)
-
-
-![GotterdamerungMap](https://i.imgur.com/OG1vbmI.png)
-
 ## intro. 2-1
  
 **???:**

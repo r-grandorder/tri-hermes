@@ -1,8 +1,5 @@
 #Cosmos in the Lostbelt 3: The Synchronized Intellect Nation - SIN
 
-
-![SINPrologue](https://i.imgur.com/T7mHmxV.png)
-
 ## intro. 3-1
  
 **Narration:**
@@ -3439,12 +3436,6 @@ All systems are green. Void Space sea observations remain locked at previous res
  
 **P. A. System**
 Shadow Border, untether from reality. Void Space Dive, Zero Sail: unfurl once again! 
-
-
-![SIN](https://i.imgur.com/9czSNa3.png)
-
-
-![SINMap](https://i.imgur.com/OG1vbmI.png)
  
 ## Section 1: The Third Lostbelt 
  

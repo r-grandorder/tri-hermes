@@ -68,4 +68,4 @@ Kirschtarias and Crypter adventure [here](https://www.reddit.com/r/grandorder/co
 
 Kirschtarias plan [here](https://www.reddit.com/r/grandorder/comments/g278bi/chapter_23_kirschtarias_plan_translated/). 
 
-> Kirschtarias last scene [here](https: //www. reddit. com/r/grandorder/comments/g4fzlu/olympus_ch_25_master_and_servant_at_the_end_of/). 
+Kirschtarias last scene [here](https: //www. reddit. com/r/grandorder/comments/g4fzlu/olympus_ch_25_master_and_servant_at_the_end_of/). 

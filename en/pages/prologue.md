@@ -1,8 +1,5 @@
 #Prologue/Dec 31st, 2019
 
-
-![Prologue](https://i.imgur.com/0g1BXoQ.png)
-
 ## Section 1: Prologue/Dec 26th, 2019
  
 December 26, 2019. Fujimaru has completed {(M) his /(F) her} mission. 

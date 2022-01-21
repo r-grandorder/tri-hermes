@@ -1,11 +1,5 @@
 #Cosmos in the Lostbelt 5. 5: Realm of Hell Mandala - Heian-kyō
 
-
-![Heiankyo](https://i.imgur.com/lvjZLpe.png)
-
-
-![HeiankyoMap](https://i.imgur.com/qBggOGz.png)
-
 *TL done by JusticiarHux*
 
 ## Prologue

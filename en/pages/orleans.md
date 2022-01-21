@@ -1,11 +1,5 @@
 #Singularity 1: Hundred Years' War of the Dragons - Orleans
 
-
-![Orleans](https://i.imgur.com/8Ct6mL5.png)
-
-
-![OrleansMap](https://i.imgur.com/0OzRrO5.png)
-
 ## Prelude
  
 **A：???:**

@@ -1,11 +1,5 @@
 #Final Singularity: The Grand Temple of Time - Solomon
 
-
-![Solomon](https://i.imgur.com/g9gUZK3.png)
-
-
-![SolomonMap](https://i.imgur.com/rR57qL4.png)
-
 ## Prelude
  
 **Marisbury:**

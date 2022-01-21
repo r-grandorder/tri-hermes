@@ -1,11 +1,5 @@
 #Cosmos in the Lostbelt 4: Samsara of Genesis and Terminus - Yugakshetra
 
-
-![Yugakshetra](https://i.imgur.com/xEqZdD7.png)
-
-
-![YugakshetraMap](https://i.imgur.com/O8tfXIS.png)
-
 ## intro. 4
  
 On December 31, 2019, the entirety of human history was erased in a single stroke. 
