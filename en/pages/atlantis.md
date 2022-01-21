@@ -1,9 +1,5 @@
 #Cosmos in the Lostbelt 5. 1: Ancient Ocean of the Dreadnought Gods - Atlantis
 
-![Atlantis](https://i.imgur.com/RrNvSJd.png)
-
-![AtlantisMap](https://i.imgur.com/33YFW5l.png)
-
 ## intro. 5-1
  
 **Mash:**

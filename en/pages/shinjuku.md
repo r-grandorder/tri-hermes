@@ -1,6 +1,8 @@
 #Pseudo-Singularity I: Quarantined Territory of Malice - Shinjuku
 
+
 ![Shinjuku](https://i.imgur.com/ConRBv9.png)
+
 
 ![ShinjukuMap](https://i.imgur.com/ewfxwRs.png)
 
@@ -2024,6 +2026,7 @@ I hacked the Rayshift coordinates to make {(M) him /(F) her} fall, but I'm afrai
 So, what's our plan now? 
  
 **B：???:**
+
 ![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **A：???:**
@@ -3064,6 +3067,7 @@ A human arm!
 
  
 **???:**
+
 ![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Archer of Shinjuku:**
@@ -3091,6 +3095,7 @@ We should be able to figure out the headless rider soon, but there must be hundr
 So let's save that for later! 
  
 **???:**
+
 ![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Mash:**
@@ -3169,6 +3174,7 @@ Temporary contract or not, I am still your Servant for the moment! I have no pla
 Now...bring it! 
  
 **Rider of Shinjuku:**
+
 ![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Archer of Shinjuku:**
@@ -3184,6 +3190,7 @@ Huh!?
 A Servant!? 
  
 **Rider of Shinjuku:**
+
 ![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Mash:**
@@ -3873,6 +3880,7 @@ I really hope you have sweet dreams.
 So, you were unable to take down the target. 
  
 **Rider of Shinjuku:**
+
 ![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Archer of Shinjuku:**
@@ -3903,6 +3911,7 @@ We are the losing side.
 Good always wins. We are destined to be defeated. 
  
 **Rider of Shinjuku:**
+
 ![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Archer of Shinjuku:**
@@ -3912,6 +3921,7 @@ But matters are different here in Shinjuku. Here, we turn the tables.... They sa
 I'll send my personal guard to greet them. Go blow off some steam. 
  
 **Rider of Shinjuku:**
+
 ![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **--ARROW--**
@@ -5521,6 +5531,7 @@ Got it.
 
  
 **Rider of Shinjuku:**
+
 ![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Altria Alter:**
@@ -5580,6 +5591,7 @@ Not even you can easily jump over a wall of hellfire like this!
 On top of that, we can also use it to keep Master safe! ...Er, as long as {(M) he /(F) she} watches out for the heat! 
  
 **Rider of Shinjuku:**
+
 ![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Archer of Shinjuku:**
@@ -5613,6 +5625,7 @@ Here he comes!
 **--BATTLE--**
  
 **Rider of Shinjuku:**
+
 ![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Archer of Shinjuku:**
@@ -5625,6 +5638,7 @@ Did you get it!?
 Not yet! 
  
 **Rider of Shinjuku:**
+
 ![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Altria Alter:**
@@ -11504,12 +11518,14 @@ I'm counting on you.
 ...I said get lost. I got this. 
  
 **Hessian Lobo:**
+
 ![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Jeanne Alter:**
 Oh no you don't! 
  
 **Hessian Lobo:**
+
 ![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Jeanne Alter:**
@@ -11546,6 +11562,7 @@ So I'll put you out of your misery, Wolf King.
 Because those fleeting dreams we see right as we die are all we Avengers have to live for! 
  
 **Hessian Lobo:**
+
 ![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Jeanne Alter:**
@@ -11555,6 +11572,7 @@ Because those fleeting dreams we see right as we die are all we Avengers have to
 Shit...This...this wound's definitely fatal. You just had to get me through my heart, didn't you. 
  
 **Hessian Lobo:**
+
 ![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Jeanne Alter:**
@@ -11576,6 +11594,7 @@ Oh, and one more thing...I'm afraid I'm gonna make sure you stay here a little l
 La Grondement Du Haine! 
  
 **Hessian Lobo:**
+
 ![4-light](https://i.imgur.com/cUedQZ5.png)
  
 **Jeanne Alter:**
@@ -11591,6 +11610,7 @@ Oh, I'm sure it won't be enough to kill you...but it'll damn sure slow you down 
 Gaaah. 
  
 **Hessian Lobo:**
+
 ![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Narration:**
@@ -12493,6 +12513,7 @@ Jeanne was right. Avengers running wild must be cut down without mercy.
 
  
 **Hessian Lobo:**
+
 ![3-light](https://i.imgur.com/9QdxWyo.png)
  
 **Altria Alter:**

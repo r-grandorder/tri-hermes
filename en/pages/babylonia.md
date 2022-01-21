@@ -1,6 +1,8 @@
 #Singularity 7: Absolute Demonic Front - Babylonia
 
+
 ![Babylonia](https://i.imgur.com/1kfiWii.png)
+
 
 ![BabyloniaMap](https://i.imgur.com/idDPFom.png)
 
@@ -15886,7 +15888,7 @@ Because there's something I want you to do before I get the winged serpents read
 Okay! Look at all those groundskeepers standing around the axe, yes! 
  
 **H：Giant Statues:**
-![1-light](https://i.imgur.com/XAqlQYL.png)!!! 
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 ---
 
@@ -26721,7 +26723,8 @@ Please, help us...!
 Do not interfere, Fujimaru. 
  
 **Laḫmu:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!!! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **--BATTLE--**
  

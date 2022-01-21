@@ -1,9 +1,5 @@
 #Cosmos in the Lostbelt 1: Permafrost Empire - Anastasia
 
-![Anastasia](https://i.imgur.com/9Y6mj53.png)
-
-![AnastasiaMap](https://i.imgur.com/va2zs2C.png)
-
 ## Outro 1
  
 **Narration:**

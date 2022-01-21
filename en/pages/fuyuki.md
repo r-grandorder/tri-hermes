@@ -1,6 +1,8 @@
 #Singularity F: Flame Contaminated City - Fuyuki
 
+
 ![Fuyuki](https://i.imgur.com/JOTMzUN.png)
+
 
 ![FuyukiMap](https://i.imgur.com/mGMoIiJ.png)
 

@@ -1,6 +1,8 @@
 #Cosmos in the Lostbelt 2: Eternal Frozen Fire Century - Götterdämmerung
 
+
 ![Gotterdamerung](https://i.imgur.com/D464pi4.png)
+
 
 ![GotterdamerungMap](https://i.imgur.com/OG1vbmI.png)
 
@@ -2283,7 +2285,7 @@ Master, get behind me!
 We've just discovered an enormous...humanoid creature...! 
  
 **Enormous Creature:**
-![1-light](https://i.imgur.com/XAqlQYL.png)!!! 
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Holmes:**
 An enormous humanoid creature, you say!? I see. That is...troubling. Most troubling indeed. 
@@ -2295,7 +2297,7 @@ He appears to be about five meters tall! His arms are also very long, and he's w
 I think he's speaking a language of some kind, but...
  
 **Enormous Creature:**
-![2-light](https://i.imgur.com/7VYgcEB.png)!!! 
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Mash:**
 ...I can't make out what he's saying! It sounds more like an animal howling than any language I know of...
@@ -13499,7 +13501,7 @@ Whoever invited you to this dream would seem to be a truly fascinating individua
  
 **Gigantic Guard:**
  
-![2-light](https://i.imgur.com/7VYgcEB.png)! 
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 ---
 
@@ -13526,7 +13528,7 @@ Continue onward. Defeat it. See how far your power can take you...
  
 **Gigantic Guard:**
  
-![2-light](https://i.imgur.com/7VYgcEB.png)! 
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Sitonai:**
 “Good work, Berserker. ”
@@ -24343,13 +24345,13 @@ It's beautiful...
 “Loptr Lægjarn. ”
  
 **Giant Guard:**
-![2-light](https://i.imgur.com/7VYgcEB.png)! 
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Sitonai:**
 Berserker! That's it! Take it all on, magical energy and all! 
  
 **Giant Guard:**
-![2-light](https://i.imgur.com/7VYgcEB.png)! 
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Sitonai:**
 Thanks, Berserker! 

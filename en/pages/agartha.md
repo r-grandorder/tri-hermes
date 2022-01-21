@@ -1,9 +1,5 @@
 #Pseudo-Singularity II: Subterranean World of Folklore - Agartha
 
-![Agartha](https://i.imgur.com/UrKY0nP.png)
-
-![AgarthaMap](https://i.imgur.com/b8jNH6Q.png)
-
 ## Prelude
  
 **Da Vinci:**
@@ -7527,7 +7523,8 @@ I know. I've already heard the report.
 No, not that! There! Don't you hear it!? 
  
 **Narration:**
-&mdash;![6-light](https://i.imgur.com/fV3vWR2.png)&ndash;
+&mdash;
+![6-light](https://i.imgur.com/fV3vWR2.png)
  
 **Rider:**
 Oh, come on. Now we have to deal with that too!? 
@@ -7651,7 +7648,8 @@ Thus, not even the heavens themselves can force me to kneel in defeat!
  
 **???:**
  
-![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;!! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **d'Eon:**
 What the!? 
@@ -7663,7 +7661,8 @@ Hoooly s&ndash;What just crashed through the ceiling!?
 Look! 
  
 **???:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Mash:**
 Spirit Origin pattern match confirmed. I still can't believe it! 
@@ -7874,7 +7873,8 @@ The Queen of the Amazons!
 Dammit, of all the rotten luck...! 
  
 **H：???:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Astolfo:**
 Aw, man. We've got Berserkers for days here! And the big guy in the castle sounds like he's coming out! 
@@ -10058,12 +10058,15 @@ Astolfo, you need to stop the ship immediately! Hold on to me, Master...He's abo
 No...! Why now...of all times!? 
  
 **G：???:**
-![6-light](https://i.imgur.com/fV3vWR2.png)&ndash;![7-light](https://i.imgur.com/vEW3I1I.png)&ndash;!! 
+
+
+![6-light](https://i.imgur.com/fV3vWR2.png)[7-light](https://i.imgur.com/vEW3I1I.png) 
  
 **--ARROW--**
  
 **A：???:**
-![8-light](https://i.imgur.com/N6jHIhJ.png)&ndash;!! 
+
+![8-light](https://i.imgur.com/N6jHIhJ.png) 
  
 ---
 
@@ -10089,7 +10092,8 @@ Regardless of why he's here...he is far too dangerous. We must avoid fighting hi
 I'm afraid it doesn't look like we have a choice. He seems dead set on fighting us. 
  
 **Megalos:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;!! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Rider:**
 This is our last chance to reach El Dorado! We can't fall back, and we can't give up! 
@@ -10106,7 +10110,8 @@ Get ready! We're about to fight our way through the biggest storm of our lives!
 **--BATTLE--**
  
 **Megalos:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 ---
 
@@ -10190,7 +10195,8 @@ I'm picking up a unique magical energy pattern! This is...Rider's Noble Phantasm
 Fou!? 
  
 **Megalos:**
-&ndash;![7-light](https://i.imgur.com/vEW3I1I.png)&ndash;! 
+&ndash;
+![7-light](https://i.imgur.com/vEW3I1I.png) 
  
 **Rider:**
 I don't care what sort of hero you used to be. As long as you stand in my way, you're no more than just another storm to me. 
@@ -10214,7 +10220,8 @@ Whoa. There's another ship here and it's coming right up to us! It just sent our
 That must be Rider's Noble Phantasm! It's holding Megalos in place! 
  
 **Megalos:**
-&ndash;![6-light](https://i.imgur.com/fV3vWR2.png), ![7-light](https://i.imgur.com/vEW3I1I.png)&ndash;! 
+&ndash;
+![6-light](https://i.imgur.com/fV3vWR2.png), ![7-light](https://i.imgur.com/vEW3I1I.png) 
  
 **Da Vinci:**
 “Santa María Drop Anchor”? I knew it. So that's who he is...
@@ -10267,7 +10274,8 @@ Be careful, everyone! Just because he's tied up doesn't mean he's not still a th
 **--BATTLE--**
  
 **Megalos:**
-![6-light](https://i.imgur.com/fV3vWR2.png), ![8-light](https://i.imgur.com/N6jHIhJ.png)&ndash;! 
+
+![6-light](https://i.imgur.com/fV3vWR2.png), ![8-light](https://i.imgur.com/N6jHIhJ.png) 
  
 **Columbus:**
 Dammit. I can't believe he's still this strong even tied up! 
@@ -10437,11 +10445,13 @@ Don't rile her up! Shit...looks like I was too late...
 So...you who would stop me from killing Achilles are also Achilles. Then I shall kill ALL OF YOU! 
  
 **E：Penthesilea:**
-Aah...aaahhh!![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
+Aah...aaahhh!
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Megalos:**
  
-![5-light](https://i.imgur.com/RIXDSDj.png)&ndash;! 
+
+![5-light](https://i.imgur.com/RIXDSDj.png) 
  
 **Columbus:**
 Oh no! I can't hold him any longer! 
@@ -10473,10 +10483,11 @@ Uh oh. Captain, the ship can't take any more of this!
 ...! They're coming from above! Master, this way! 
  
 **Penthesilea:**
-![8-light](https://i.imgur.com/N6jHIhJ.png)&ndash;! 
+
+![8-light](https://i.imgur.com/N6jHIhJ.png) 
  
 **Megalos:**
-![2-light](https://i.imgur.com/7VYgcEB.png)! 
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Mash:**
 Master...Master! Please, hang in there, Master...! 
@@ -11299,7 +11310,8 @@ Once we return...
 That's right. Once we return, that's when we men who don't know when to give up strike back! 
  
 **Megalos:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;!!! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 ## Section 13: Decisive Battle in El Dorado 
  
@@ -11405,7 +11417,8 @@ Yes, let's start with that big fellow who appears to have joined your side.
 I'm impressed. How did you pull that off? 
  
 **Megalos:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;!!! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 ---
 
@@ -11530,13 +11543,16 @@ Listen once more to this fearsome war cry.
 The war cry that caused the Achaeans to throw down their swords and beg for their lives in terror! 
  
 **Penthesilea:**
-RAAAHHH!!!![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
+RAAAHHH!!!
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Amazon:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Amazon's Voice:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Scheherazade:**
 These voices...I can hear still them even from this distance! 
@@ -11634,7 +11650,8 @@ So let's trust them, and do our best to do what we need to get done here, Master
 **--ARROW--**
  
 **Amazon:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Astolfo:**
 That's a lotta yelling. Yep. 
@@ -11709,7 +11726,8 @@ It's just the two of us and one biiig audience, so let's give 'em one helluva sh
 Indeed...Now is the time to open the Tamatebako! Our wish: to make use of our secret Noble Phantasms! 
  
 **Amazon:**
-&ndash;![6-light](https://i.imgur.com/fV3vWR2.png)&ndash;! ...!? 
+&ndash;
+![6-light](https://i.imgur.com/fV3vWR2.png) ...!? 
  
 **Astolfo:**
 Ugh, so much shouting. It's too bad they don't use a battle song, especially one on par with the red Saber or the dragon maiden. 
@@ -11848,7 +11866,8 @@ And who do you think she's going to start with? My guess is that she'll go strai
 Megalos! You're up! Your enemy is the queen of the Amazons before you! 
  
 **Megalos:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Penthesilea:**
 Aah, ah...That voice. Achilles. That's the voice I will never permit to speak such tripe again. 
@@ -11860,7 +11879,8 @@ I still remember it all too clearly. I fought with all I had in our duel, only t
 And then, as I lay dying...you called me “beautiful! ”HOW DARE YOU!? 
  
 **Penthesilea:**
-Rrr...RAAAAAAHHH!!!![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;! 
+Rrr...RAAAAAAHHH!!!
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Mash:**
 Penthesilea has gone berserk again! She appears to be responding to Megalos as he gears up for battle! 
@@ -12332,7 +12352,8 @@ At last, this new New World is almost mine! I can't wait to drop my anchor!
 You're up, my big, beautiful slave! It's time to put that monstrous power of yours to good use! 
  
 **Megalos:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Mash:**
 Master...we can't let him win! Let's get him! 
@@ -12358,9 +12379,11 @@ On one island, I find a land of healthy indigenous people just waiting to be ens
 I can't wait to see what I'll find on this island! Santa Maria Drop Anchor! 
  
 **Megalos:**
-![8-light](https://i.imgur.com/N6jHIhJ.png)&ndash;! 
 
-![8-light](https://i.imgur.com/N6jHIhJ.png)&ndash;! 
+![8-light](https://i.imgur.com/N6jHIhJ.png) 
+
+
+![8-light](https://i.imgur.com/N6jHIhJ.png) 
  
 ---
 

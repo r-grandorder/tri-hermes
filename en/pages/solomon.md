@@ -1,6 +1,8 @@
 #Final Singularity: The Grand Temple of Time - Solomon
 
+
 ![Solomon](https://i.imgur.com/g9gUZK3.png)
+
 
 ![SolomonMap](https://i.imgur.com/rR57qL4.png)
 
@@ -2326,7 +2328,8 @@ I do not know all the details, but if I am not mistaken, those horrible creature
 Then I will take this opportunity to repay a debt. My friend, I will swing my meteor-metal sword with all of my soul. 
  
 **Lu Bu:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;!! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Boudica:**
 Oh come on! She blabbed on so long that Lu Bu started to get impatient and go on a rampage! 
@@ -2685,7 +2688,8 @@ I'm sure you want to kill me with all of your being, so why are you fighting tho
 It'd make sense if it was because you couldn't fight me if the world ended, but that can't be it. 
  
 **Darius III:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;
+
+![1-light](https://i.imgur.com/XAqlQYL.png)
  
 **Alexander:**
 Right. Maybe...and this is just a maybe...
@@ -2694,7 +2698,7 @@ Right. Maybe...and this is just a maybe...
 Through that Madness Enhancement of yours, you saw the possibility of us fighting side by side. 
  
 **Darius III:**
-![2-light](https://i.imgur.com/7VYgcEB.png)!!!! 
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **El-Melloi II:**
 Ascension!? Alexander, you've overstimulated him! 
@@ -2712,7 +2716,8 @@ Sorry to keep you waiting. Anyway, let's go!
 Darius III and Lord El-Melloi II, my future rival and my future retainer! Let us go forth! 
  
 **Lu Bu:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;!! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Spartacus:**
 Tyranny! Tyranny! Tyranny! Will you whip my flesh?! A never-ending sea of flesh is the symbol of tyranny! 
@@ -3753,7 +3758,7 @@ Yes, let's go. We'll support you, Heracles!
 I, Medea, will support and strengthen you with everything I have. Show them the power of the famous hero of myth! 
  
 **Heracles:**
-![1-light](https://i.imgur.com/XAqlQYL.png)!!! 
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Hektor:**
 See ya, Captain Jason! Just stay there and wait for good news! 

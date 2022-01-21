@@ -58,14 +58,14 @@ Complete translation notes [here](https://pastebin.com/EFTRHcyV).
 
 [Section 27](https://www.reddit.com/r/FGOGuide/comments/gfx7q7/lostbelt_5_olympus_chapter_27_end/)
 
-Summary of the early chapters [here](https: //www. reddit. com/r/grandorder/comments/fzq8gb/lostbelt_5_part_ii_interstellar_city_of_mount/). 
+Summary of the early chapters [here](https://www.reddit.com/r/grandorder/comments/fzq8gb/lostbelt_5_part_ii_interstellar_city_of_mount/). 
 
-Summary of important plot points [here](https: //www. reddit. com/r/grandorder/comments/fyjft0/i_summarized_some_important_plot_points_in/). 
+Summary of important plot points [here](https://www.reddit.com/r/grandorder/comments/fyjft0/i_summarized_some_important_plot_points_in/). 
 
-Gordolf negotiation [here](https: //www. reddit. com/r/grandorder/comments/g02p72/gordolfs_moment/). 
+Gordolf negotiation [here](https://www.reddit.com/r/grandorder/comments/g02p72/gordolfs_moment/). 
 
-Kirschtarias and Crypter adventure [here](https: //www. reddit. com/r/grandorder/comments/fzkayo/lb_spoilers_translated_wodimes_adventures_with/). 
+Kirschtarias and Crypter adventure [here](https://www.reddit.com/r/grandorder/comments/fzkayo/lb_spoilers_translated_wodimes_adventures_with/). 
 
-Kirschtarias plan [here](https: //www. reddit. com/r/grandorder/comments/g278bi/chapter_23_kirschtarias_plan_translated/). 
+Kirschtarias plan [here](https://www.reddit.com/r/grandorder/comments/g278bi/chapter_23_kirschtarias_plan_translated/). 
 
-Kirschtarias last scene [here](https: //www. reddit. com/r/grandorder/comments/g4fzlu/olympus_ch_25_master_and_servant_at_the_end_of/). 
+> Kirschtarias last scene [here](https: //www. reddit. com/r/grandorder/comments/g4fzlu/olympus_ch_25_master_and_servant_at_the_end_of/). 

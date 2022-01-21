@@ -1,6 +1,8 @@
 #Singularity 3: Sealed Ends of the Four Seas - Okeanos
 
+
 ![Okeanos](https://i.imgur.com/QHbedv3.png)
+
 
 ![OkeanosMap](https://i.imgur.com/Ps8hSo8.png)
 
@@ -6754,7 +6756,8 @@ Powerful heroes were gathered as Argonauts, but...There is one exceptional hero 
 Yes. The greatest hero of Greek mythology. He who overcame the Twelve Labors. &ndash;Heracles. 
  
 **Heracles:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **--ARROW--**
  
@@ -6959,7 +6962,8 @@ Thank goodness she really is a lousy fighter! But the problem is the other one!
 I'm sorry, I can't take them down by myself. Heracles&ndash;it's your turn, brave one. 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Mash:**
 !!! 
@@ -7006,7 +7010,8 @@ You...Won't...Have...Her!
 Ugh...uh...aaaaaaaaaaargh! 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Mash:**
 Did we defeat him? 
@@ -7084,7 +7089,8 @@ Not of this world! Not of this era! Not of our true intentions...Nothing!
 Now, Heracles! Finish them off! 
  
 **Heracles:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Mash:**
 Ugh! 
@@ -7099,7 +7105,8 @@ Augh!
 Crap! 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;!! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Euryale:**
 &ndash;Oh, this is not good. 
@@ -7192,7 +7199,8 @@ Oh, dammit! Why is everyone else but me a hopeless imbecile?
 Heracles, finish off that ox-man! But don't lay a hand on Euryale! 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Asterios:**
 Ugh...uh! 
@@ -7228,7 +7236,8 @@ If you want to stop this, you should bring either Achilles'or Aias' shield! "Dur
 No! Asterios! 
  
 **Heracles:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Jason:**
 Good job, Hektor! That damn ox-head is going to hell along with Heracles! 
@@ -8684,7 +8693,8 @@ Hektor! You stay here too! Protect me like a true Servant!
 Heracles! They're just Archers. Pulverize them with one blow! 
  
 **Heracles:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Medea Lily:**
 ...Sigh. 
@@ -8729,7 +8739,8 @@ I'll show you the route to take! For now, Fujimaru, just run!
 Yes, let's go! 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Mash:**
 Just as expected, he's targeting Euryale! First, let's hold him down here! 
@@ -8752,7 +8763,8 @@ Yes! ...Mash Kyrielight, here I go!
 (Pant, pant, pant...)
  
 **Heracles:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Mash:**
 ...As predicted, he's headed towards Euryale! 
@@ -8799,7 +8811,8 @@ All right, Artemis! Let's do this!
 Yeah! I won't pull any punches here! 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **--BATTLE--**
  
@@ -8836,7 +8849,8 @@ We've caught up. Here we go!
 Run, run! If we don't hurry...
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Euryale:**
 He's here. There's nowhere to run anymore. Scared? 
@@ -8925,7 +8939,8 @@ Take this!
 Force him in! 
  
 **Heracles:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&mdash;! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **David:**
 All right, he touched it! 

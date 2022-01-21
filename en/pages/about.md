@@ -7,5 +7,6 @@ Hello! This wiki is maintained by Lib. For now, we will be hosting the FGO scrip
 
 We may gather more information here in the future, so stay tuned! This wiki will be lore-oriented. 
 
+
 ![LORE](https://i.imgur.com/jA86J1G.png)
 

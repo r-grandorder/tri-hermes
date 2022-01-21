@@ -1,6 +1,8 @@
 #Pseudo-Singularity III: The Stage of Carnage - Shimosa
 
+
 ![Shimosa](https://i.imgur.com/QfgDGxl.png)
+
 
 ![ShimosaMap](https://i.imgur.com/n1D6mij.png)
 

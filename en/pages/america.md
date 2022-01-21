@@ -1,9 +1,5 @@
 #Singularity 5: North American Myth War - E Pluribus Unum
 
-![America](https://i.imgur.com/ut2iR3y.png)
-
-![AmericaMap](https://i.imgur.com/Lz1MfLi.png)
-
 ## Prelude
  
 **C：???:**

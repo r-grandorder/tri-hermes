@@ -1,5 +1,6 @@
 #Cosmos in the Lostbelt 3: The Synchronized Intellect Nation - SIN
 
+
 ![SINPrologue](https://i.imgur.com/T7mHmxV.png)
 
 ## intro. 3-1
@@ -3439,7 +3440,9 @@ All systems are green. Void Space sea observations remain locked at previous res
 **P. A. System**
 Shadow Border, untether from reality. Void Space Dive, Zero Sail: unfurl once again! 
 
+
 ![SIN](https://i.imgur.com/9czSNa3.png)
+
 
 ![SINMap](https://i.imgur.com/OG1vbmI.png)
  
@@ -12697,7 +12700,7 @@ A walking disaster from a very different path than Proper Human History, this ra
 Introducing one of Nine Fox Foundation's latest and greatest: a Jötunn straight from the land of frost giants! 
  
 **Jötunn:**
-![1-light](https://i.imgur.com/XAqlQYL.png)! 
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Holmes:**
 (Well now. So she can summon a familiar so large and powerful merely by tearing off a bit of her hair and blowing on it...? )

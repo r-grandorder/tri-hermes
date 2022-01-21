@@ -1,5 +1,6 @@
 #Prologue/Dec 31st, 2019
 
+
 ![Prologue](https://i.imgur.com/0g1BXoQ.png)
 
 ## Section 1: Prologue/Dec 26th, 2019
@@ -3115,6 +3116,7 @@ Absolutely!
  
 
 ---
+
 
 ![Prologue2](https://i.imgur.com/utjUkLw.png)
  

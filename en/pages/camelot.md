@@ -1,6 +1,8 @@
 #Singularity 6: Divine Realm of the Round Table - Camelot
 
+
 ![Camelot](https://i.imgur.com/I37vbsk.png)
+
 
 ![CamelotMap](https://i.imgur.com/jF4vjGO.png)
 
@@ -9633,7 +9635,8 @@ Huh? That's the Servant you've been talking about!?
 Nonsense...Are you saying that despite her top-level Spirit Origin, she was screaming from an animal attack!? 
  
 **H：???:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Hundred Personas:**
 Wh-Wh-What is this!? What is that gigantic monster!? There shouldn't be any monsters like that in this land! 
@@ -18846,7 +18849,8 @@ I know nothing of that! Nothing! If anything happened, it was because I was stil
 O mirror of underworld, O warriors from the forgotten and ruined world! Nitocris orders you! Return this once to the present world! 
  
 **???:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;
+
+![1-light](https://i.imgur.com/XAqlQYL.png)
  
 **Nitocris:**
 Now then, let your trial begin! If you desire an audience with the king, defeat these monsters that have answered my summons! 
@@ -23861,13 +23865,15 @@ Oh yeah? Get lost then, ya stingy jerk!
 You helped us with a lot...but it was the rice you gave us that made me happiest! 
  
 **???:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;
+
+![1-light](https://i.imgur.com/XAqlQYL.png)
  
 **Cursed Arm:**
 ...Am I...alive? 
  
 **???:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&mdash;
+
+![1-light](https://i.imgur.com/XAqlQYL.png)
  
 **Cursed Arm:**
 Haha...But not for long. I can't move my arms...or legs...

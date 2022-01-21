@@ -1,6 +1,8 @@
 #Singularity 2: Eternal Mandess Empire - Septem
 
+
 ![Septem](https://i.imgur.com/AVVq299.png)
+
 
 ![SeptemMap](https://i.imgur.com/9JjxXVp.png)
 
@@ -4413,6 +4415,7 @@ Orders are orders.
 &ndash;Understood. 
  
 **G：???:**
+
 ![1-light](https://i.imgur.com/XAqlQYL.png)
  
 **H：???:**
@@ -4422,6 +4425,7 @@ We're completely surrounded. Nothing but swarms of enemies around us.
 That shouldn't be a problem, but...
  
 **G：???:**
+
 ![1-light](https://i.imgur.com/XAqlQYL.png)
  
 **H：???:**
@@ -4437,6 +4441,7 @@ People like you and me can get through it on our own, but it would be too harsh 
 What should we do? ...Huh? 
  
 **G：???:**
+
 ![2-light](https://i.imgur.com/7VYgcEB.png)
  
 **H：???:**
@@ -5016,7 +5021,8 @@ I don't know. But we will find out soon.
 **--ARROW--**
  
 **F：???:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Nero:**
 Wh-What's this sound? A beast howling? 
@@ -5128,7 +5134,8 @@ Right now, it's Nero Claudius. I want to talk to that person.
 **--ARROW--**
  
 **Darius III:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Dr. Roman:**
 Amazing, I can almost feel the air vibrations over here! Magical energy signature confirmed. He's a Servant! 
@@ -5137,7 +5144,8 @@ Amazing, I can almost feel the air vibrations over here! Magical energy signatur
 Linguistic communication impossible, it's an enemy Servant. Master, your orders! 
  
 **Darius III:**
-![2-light](https://i.imgur.com/7VYgcEB.png)&ndash;!!! 
+
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Mash:**
 Ugh...
@@ -5764,7 +5772,8 @@ Yes, Master!
 **--BATTLE--**
  
 **Lu Bu:**
-![1-light](https://i.imgur.com/XAqlQYL.png)&ndash;!!! 
+
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Spartacus:**
 Hahaha! Hahahahahahahaha! The day of liberation has come. Crush the oppressors with your will and bodies! 

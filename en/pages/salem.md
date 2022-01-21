@@ -1,6 +1,8 @@
 #Pseudo-Singularity IV: The Forbidden Advent Garden - Salem
 
+
 ![Salem](https://i.imgur.com/6hRMWJK.png)
+
 
 ![SalemMap](https://i.imgur.com/oJhnxuZ.png)
 
@@ -24456,7 +24458,7 @@ Poor guy.
 Then again, I suppose he wouldn't have fit on the giant turtle that rescued us all anyway. 
  
 **White Horse:**
-“![1-light](https://i.imgur.com/XAqlQYL.png)!!! ”
+“![1-light](https://i.imgur.com/XAqlQYL.png) ”
  
 **Sanzang:**
 Yes...I'm sorry about that. I just wanted to try steering the ship a little...
@@ -25528,7 +25530,7 @@ Yes, sir. Can I have a ride, please?
 ...Wow, look at that. I've never seen a bull run so fast before. 
  
 **White Horse:**
-![1-light](https://i.imgur.com/XAqlQYL.png)!!! 
+![1-light](https://i.imgur.com/XAqlQYL.png) 
  
 **Sanzang:**
 Aaah! You scared me! 
@@ -25540,7 +25542,7 @@ Aaah! You scared me!
 Oh, if it isn't Bailong! It's about time you caught up with us. 
  
 **White Horse:**
-![2-light](https://i.imgur.com/7VYgcEB.png)!!! 
+![2-light](https://i.imgur.com/7VYgcEB.png) 
  
 **Sun Wukong:**
 What's that? When you sank down to the bottom of that river...
