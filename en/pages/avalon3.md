@@ -12592,12 +12592,8 @@ Entering Cernunnos' estimated vantage point! &mdash;Lookout, report!
 There's movement at our destination! Multiple magical readings from the bottom of the Great Pit&mdash;
  
 **Nemo Marine:**
-Cursed Hand, incoming[[User: BlameLib
----
+Cursed Hand, incoming~~! Anti-curse layer,[r]anti-misfortune barrier, deplooooy! 
 
-**Fujimaru 2:**
-BlameLib]] ([[User talk: BlameLibtalk]])! Anti-curse layer, anti-misfortune barrier, deplooooy! 
- 
 **Nemo Marine:**
 Woah, can this really block it!? It looks like the Niagara Fallllls! 
  
