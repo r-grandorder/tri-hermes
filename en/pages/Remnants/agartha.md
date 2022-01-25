@@ -145,7 +145,7 @@ That said, I wouldn't blame you for refusing this time around. But it looks like
 Right. In our current situation, when there's no one that can take on the responsibility of Rayshifting. 
  
 **Mash:**
-Master Fujimaru is more determined than anyone to take {(M) his /(F) her} turn at bat. 
+Master Fujimaru is more determined than anyone to take [♂ his /♀ her] turn at bat. 
  
 **Mash:**
 ...I just wish I could fight alongside you again, Senpai. 
@@ -576,7 +576,7 @@ Chevalier d'Eon...Thank you. I'm glad to know you'll be accompanying Master.
 Never mind the stowing away. 
  
 **Astolfo:**
-...I kinda feel like that makes it sound like you WEREN'T feeling so good about me accompanying {(M) him /(F) her}. 
+...I kinda feel like that makes it sound like you WEREN'T feeling so good about me accompanying [♂ him /♀ her]. 
  
 **Mash:**
 I-I'm sorry! I didn't mean it like that...
@@ -3740,7 +3740,7 @@ That said, I don't see how we can reach the mansion given the current circumstan
 Who goes there!? 
  
 **Girl:**
-...Hi there, {(M) mister /(F) miss}. You guys wanna go to that mansion? I can show you the way if you want. 
+...Hi there, [♂ mister /♀ miss]. You guys wanna go to that mansion? I can show you the way if you want. 
  
 **d'Eon:**
 A child...? 
@@ -3791,7 +3791,7 @@ Heehehe, yummy!
 Master, you mustn't be so trusting! You need to be more wary around&ndash;
  
 **Astolfo:**
-I'd rather have a Master that was too trusting than one who'd haul off and punch a little kid like this because {(M) he /(F) she} was wary of her. 
+I'd rather have a Master that was too trusting than one who'd haul off and punch a little kid like this because [♂ he /♀ she] was wary of her. 
  
 **Rider:**
 I agree. The pirates may be our enemy, but kids are still just kids. They should be cherished as the treasures they are. 
@@ -4313,7 +4313,7 @@ Very well, then! Come, let us go to bed and each take our desires from the other
 That is the perfect happiness of the moment. Taking what we desire is how we obtain ultimate happiness. 
  
 **Mash:**
-Master's not going to your bed. {(M) He's /(F) She's} going to settle this right here and now. 
+Master's not going to your bed. [♂ He's /♀ She's] going to settle this right here and now. 
  
 **Dahut:**
 Here? Now? With our clothes on? While standing up? My...how passionate. 
@@ -4505,7 +4505,7 @@ No matter how hard things may seem...
 ...as long as you know what it is you have to do, you still have a chance. So I'm not giving up. 
  
 **Rider:**
-Hell, not knowing when to give up is the best weapon I've got! So come on, {(M) boy /(F) lady}! Time to hold our ground! 
+Hell, not knowing when to give up is the best weapon I've got! So come on, [♂ boy /♀ lady]! Time to hold our ground! 
  
 **--BATTLE--**
  
@@ -4703,10 +4703,10 @@ From now on, your name shall be Hun Yang, “Lost Sheep. ” You should be honor
 After all, when you let me show you the way here without suspecting a thing...
  
 **Assassin:**
-...you resembled nothing so much as a foolish little lamb who didn't even realize {(M) his /(F) her} own wool was being shorn away. 
+...you resembled nothing so much as a foolish little lamb who didn't even realize [♂ his /♀ her] own wool was being shorn away. 
  
 **Assassin:**
-Then again, perhaps you would rather I call you {(M) mister /(F) miss}, like I did earlier? 
+Then again, perhaps you would rather I call you [♂ mister /♀ miss], like I did earlier? 
  
 **Assassin:**
 I might consider doing so again if you prostrate yourself before me. I am in an extremely generous mood right now, after all. 
@@ -4862,7 +4862,7 @@ Haha, I like that. Here I am focused on the present, and you're dreaming up plan
 That's a precious talent in its own right. 
  
 **Mash:**
-Yes, that's one of Senpai's best qualities. No matter how dire things may be, {(M) he /(F) she} never fails to examine things at new and unusual angles! 
+Yes, that's one of Senpai's best qualities. No matter how dire things may be, [♂ he /♀ she] never fails to examine things at new and unusual angles! 
  
 **Rider:**
 Hah, and you never fail to deliver a truly earnest analysis, young lady. There is certainly never a dull moment with you two. 
@@ -5122,7 +5122,7 @@ Fou!
 Heh, well that's reassuring. 
  
 **Mash:**
-That's also one of Senpai's seven best qualities: {(M) he /(F) she} trusts {(M) his /(F) her} allies completely! 
+That's also one of Senpai's seven best qualities: [♂ he /♀ she] trusts [♂ his /♀ her] allies completely! 
  
 **Mash:**
 (And yet...something about working with this Rider makes me uncomfortable...Why? )
@@ -6101,7 +6101,7 @@ But you're not proud of anything. All I sense from you is self-admonition.
 As for that weapon of yours, you will never mete out your so-called judgment on Fujimaru. 
  
 **Fergus:**
-I may be young and inexperienced, but I will still protect {(M) him /(F) her} with every fiber of my being. 
+I may be young and inexperienced, but I will still protect [♂ him /♀ her] with every fiber of my being. 
  
 **Fergus:**
 Furthermore, even in death, I will never swear fealty to that Assassin. After all&ndash;
@@ -6356,7 +6356,7 @@ The important thing is that we're Servants now.
 No, no, no. That's not what I mean at all. 
  
 **Astolfo:**
-I mean that we're Master's Servants. We're acting directly on {(M) his /(F) her} behalf, remember? 
+I mean that we're Master's Servants. We're acting directly on [♂ his /♀ her] behalf, remember? 
  
 **Astolfo:**
 So all we gotta ask ourselves is: what would Master do? 
@@ -8199,7 +8199,7 @@ Oh no, this is terrible. Now my death is all but assured. I have to repent!
 (So...much...jiggling...Can't...look...away. )
  
 **Astolfo:**
-Huh, I've never seen Master look so lost in thought before. I wonder what {(M) he's /(F) she's} thinking? 
+Huh, I've never seen Master look so lost in thought before. I wonder what [♂ he's /♀ she's] thinking? 
  
 
 ---
@@ -9510,7 +9510,7 @@ Master this is not the time to get all cuddly with Fou!!!
 
  
 **Mash:**
-Astolfo, Master's safety comes first! Please get {(M) him /(F) her} out of there! 
+Astolfo, Master's safety comes first! Please get [♂ him /♀ her] out of there! 
  
 **Astolfo:**
 Yes! On it! Hup! 
@@ -10558,7 +10558,7 @@ I'm glad to see you weren't injured. Come on, another day awaits!
 Wait, Fergus. Fujimaru is not quite so durable as you are. 
  
 **d'Eon:**
-We should first give {(M) him /(F) her} time to grasp the situation at hand. Can you stand, Fujimaru? 
+We should first give [♂ him /♀ her] time to grasp the situation at hand. Can you stand, Fujimaru? 
  
 **Columbus:**
 You seem all right to me. Good. Can't have you dying on me just yet. 
@@ -11189,7 +11189,7 @@ You don't want to see your Master's body blown to bits if something goes wrong, 
 Simple or not, whoever forges this contract is going to be magically linked to this creature. None of us really has any idea what that could do. 
  
 **Columbus:**
-If something happened to Master, all you Servants contracted to {(M) him /(F) her} would be gone too. But I'm just a Rogue Servant. 
+If something happened to Master, all you Servants contracted to [♂ him /♀ her] would be gone too. But I'm just a Rogue Servant. 
  
 **Columbus:**
 This way, if anything happens, it'll affect me, and me alone. 

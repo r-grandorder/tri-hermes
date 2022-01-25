@@ -625,7 +625,7 @@ You touched Tri-Hermes when you snuck into Atlas.
 
  
 **Holmes:**
-Now, now...Don't go giving the game away,{(M) Mr. /(F) Ms. } Fujimaru! 
+Now, now...Don't go giving the game away,[♂ Mr. /♀ Ms. ] Fujimaru! 
  
 **Sion:**
 You touched Tri-Hermes...? Ah, now I see. This must have been during the Sixth Singularity! 
@@ -1337,16 +1337,16 @@ I really can't get my head around their idiot Master still being alive.
 How the hell does a third-rate amateur like that keep walking away unscathed? 
  
 **Beryl:**
-Heehee, {(M) he's /(F) she's} gotta be either incredibly lucky, or just getting carried! I've heard of flattery getting you everywhere, but this is nuts! 
+Heehee, [♂ he's /♀ she's] gotta be either incredibly lucky, or just getting carried! I've heard of flattery getting you everywhere, but this is nuts! 
  
 **Peperoncino:**
-Well, don't forget that {(M) his /(F) her} defenses are perfect. Mash is {(M) his /(F) her} Servant, after all. 
+Well, don't forget that [♂ his /♀ her] defenses are perfect. Mash is [♂ his /♀ her] Servant, after all. 
  
 **Peperoncino:**
 It only makes sense that a Shielder would ensure her Master is protected. 
  
 **Beryl:**
-Well, well...So Mash has been keeping {(M) him /(F) her} safe, huh...
+Well, well...So Mash has been keeping [♂ him /♀ her] safe, huh...
  
 **Beryl:**
 Now I'm even more jealous. Imagine getting to play hero while hiding behind a piece of ass like that! 
@@ -1361,7 +1361,7 @@ If we take Koyanskaya's report at face value,then I have no choice but to agree.
 Daybit, what do you think of the Master of Chaldea? 
  
 **Daybit:**
-Good question. It's hard to believe {(M) he's /(F) she's} made it this far. 
+Good question. It's hard to believe [♂ he's /♀ she's] made it this far. 
  
 **Daybit:**
 As a rule, people going off to war must bring a proven weapon. 
@@ -1370,34 +1370,34 @@ As a rule, people going off to war must bring a proven weapon.
 This isn't something they do to protect themselves, or even to accomplish their mission. They simply do it because they are incapable of moving forward without the assurance that they are able to fight. 
  
 **Daybit:**
-And yet, the Master of Chaldea continues to fight while fully aware {(M) he /(F) she} has no weapon to call {(M) his /(F) her} own. 
+And yet, the Master of Chaldea continues to fight while fully aware [♂ he /♀ she] has no weapon to call [♂ his /♀ her] own. 
  
 **Daybit:**
-{(M) He /(F) She} either has no sense of danger whatsoever, or&ndash;
+[♂ He /♀ She] either has no sense of danger whatsoever, or&ndash;
  
 **Kadoc:**
 Or nothing. There's no other possible explanation. 
  
 **Kadoc:**
-{(M) He's /(F) She's} a total joke of a mage. Hell, {(M) he /(F) she} doesn't even really deserve to be called a mage. 
+[♂ He's /♀ She's] a total joke of a mage. Hell, [♂ he /♀ she] doesn't even really deserve to be called a mage. 
  
 **Kadoc:**
-The only thing {(M) he /(F) she} can do is rely on Chaldea's Mystic Codes to convert {(M) his /(F) her} life energy into magical energy for {(M) his /(F) her} Servants. 
+The only thing [♂ he /♀ she] can do is rely on Chaldea's Mystic Codes to convert [♂ his /♀ her] life energy into magical energy for [♂ his /♀ her] Servants. 
  
 **Kadoc:**
-And since there's no way to do that over a distance,{(M) he /(F) she} has to be as close as possible to {(M) his /(F) her} Servants to manage even that much. 
+And since there's no way to do that over a distance,[♂ he /♀ she] has to be as close as possible to [♂ his /♀ her] Servants to manage even that much. 
  
 **Kadoc:**
-{(M) He /(F) She} has no way of defending {(M) himself /(F) herself}, and {(M) he's /(F) she's} too stupid to command {(M) his /(F) her} Servants from a safe zone,like we can. 
+[♂ He /♀ She] has no way of defending [♂ himself /♀ herself], and [♂ he's /♀ she's] too stupid to command [♂ his /♀ her] Servants from a safe zone,like we can. 
  
 **Kadoc:**
-So {(M) he's /(F) she's} only got one choice...
+So [♂ he's /♀ she's] only got one choice...
  
 **Kadoc:**
 ...and that's standing on the front lines like a goddamn moron. 
  
 **Kadoc:**
-And trust me, {(M) he's /(F) she's} trying like hell to keep from pissing {(M) himself /(F) herself} the whole time. 
+And trust me, [♂ he's /♀ she's] trying like hell to keep from pissing [♂ himself /♀ herself] the whole time. 
  
 **Daybit:**
 ...
@@ -1604,7 +1604,7 @@ The important thing is to neutralize the threat Chaldea poses, right? Won't be a
 They only have one Master to spare, after all. 
  
 **Koyanskaya:**
-So you just sit tight while I go assassinate{(M) him /(F) her} before anyone even notices I'm there. 
+So you just sit tight while I go assassinate[♂ him /♀ her] before anyone even notices I'm there. 
  
 **Kadoc:**
 ...Looks like Koyanskaya's warped away again. You really think she went to the Wandering Sea? 
@@ -1823,7 +1823,7 @@ I'll take that refresher, please!
 Right! You just sit back and enjoy this info reel I worked up for you. 
  
 **Holmes:**
-What's the Atlas Institute, you ask? An excellent question, {(M) Mr. /(F) Ms. } Fujimaru. 
+What's the Atlas Institute, you ask? An excellent question, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Holmes:**
 It is an institute of alchemists built in the Atlas Mountains of Egypt. 
@@ -2551,7 +2551,7 @@ Hmm, never mind. I can see you must have woken up in the middle of the night des
 That can only mean you've been unable to relax your mind amid all that has happened. 
  
 **Goredolf:**
-Well, I can hardly blame you. This must have been an arduous journey for a young {(M) man /(F) lady} with no military experience. 
+Well, I can hardly blame you. This must have been an arduous journey for a young [♂ man /♀ lady] with no military experience. 
  
 **Goredolf:**
 Once you've had some cake and a nice hot cup of tea, you should have no trouble drifting right off. 
@@ -2700,7 +2700,7 @@ And now...
 There was only enough poison in that cake for one person. Half a portion means half the effect! 
  
 **Koyanskaya:**
-(Sigh) I can't believe my plan to poison {(M) him /(F) her} without leaving behind any evidence has backfired so spectacularly...
+(Sigh) I can't believe my plan to poison [♂ him /♀ her] without leaving behind any evidence has backfired so spectacularly...
  
 **Goredolf:**
 Poison...? Poison!? Don't be absurd! I gave it a thorough taste test to ensure it was safe! 
@@ -2783,10 +2783,10 @@ As for Fujimaru, this is rather difficult for me to say, but...
 ...
  
 **Holmes:**
-Ahem. Difficult as this is to say,{(M) he /(F) she} is essentially fine. 
+Ahem. Difficult as this is to say,[♂ he /♀ she] is essentially fine. 
  
 **Holmes:**
-The poison remains in {(M) his /(F) her} system,but it will have no more effect than a bad cold. 
+The poison remains in [♂ his /♀ her] system,but it will have no more effect than a bad cold. 
  
 **Mash:**
 A-a cold? Even though it's fatal for Director Goredolf...? 
@@ -2795,10 +2795,10 @@ A-a cold? Even though it's fatal for Director Goredolf...?
 That can't be right! We both ingested the same amount of poison! 
  
 **Holmes:**
-Yes, but thanks to {(M) his /(F) her} contract with Ms. Kyrielight,{(M) Mr. /(F) Ms. } Fujimaru has a rather potent resistance to poison. 
+Yes, but thanks to [♂ his /♀ her] contract with Ms. Kyrielight,[♂ Mr. /♀ Ms. ] Fujimaru has a rather potent resistance to poison. 
  
 **Holmes:**
-If that contract were to be broken,{(M) he /(F) she} would most likely be dead in an hour. 
+If that contract were to be broken,[♂ he /♀ she] would most likely be dead in an hour. 
  
 ---
 
@@ -3296,7 +3296,7 @@ Mr. Goredolf, how are you&ndash;
 It would seem his fear of the poison has more or less overwhelmed him. He will not be of much use for the time being. 
  
 **Holmes:**
-How about you, {(M) Mr. /(F) Ms. } Fujimaru? Are you ready for this next phase? 
+How about you, [♂ Mr. /♀ Ms. ] Fujimaru? Are you ready for this next phase? 
  
 ---
 
@@ -3561,7 +3561,7 @@ But after I read the memoirs of a great bodybuilder, actor, and politician who o
 ...I followed his example and overcame it with rigorous training! Though sadly, I don't have his muscle to show for it. 
  
 **Goredolf:**
-My point, young {(M) man /(F) lady}, is that all you need is gumption! This is no time to let your fears get the better of you! 
+My point, young [♂ man /♀ lady], is that all you need is gumption! This is no time to let your fears get the better of you! 
  
 **Holmes:**
 Heh. I must say...It's almost encouraging to see our commander so energetic despite his poisoning. 
@@ -3736,7 +3736,7 @@ We mean you no harm!
 
  
 **Farmer A:**
-Aah! {(M) He /(F) She} talked! 
+Aah! [♂ He /♀ She] talked! 
  
 **Farmer B:**
 If you don't mean any harm, then why'd you show up in the middle of the field dressed like that!? 
@@ -3861,7 +3861,7 @@ This is an emergency, and an urgent one at that! We need to start making progres
 Fou, fooou...
  
 **Holmes:**
-Are you all right with that course of action,{(M) Mr. /(F) Ms. } Fujimaru? 
+Are you all right with that course of action,[♂ Mr. /♀ Ms. ] Fujimaru? 
  
 ---
 
@@ -4405,7 +4405,7 @@ Tamamo Vitch Koyanskaya.
 
  
 **Holmes:**
-Precisely. A most astute interjection, {(M) Mr. /(F) Ms. } Fujimaru. Watson would have been proud. 
+Precisely. A most astute interjection, [♂ Mr. /♀ Ms. ] Fujimaru. Watson would have been proud. 
  
 **Goredolf:**
 Grr...
@@ -4655,7 +4655,7 @@ We're on the same side in all of this!
 Besides, isn't the Master of Chaldea every Crypter's sworn enemy? 
  
 **Akuta Hinako:**
-Of course. You could have lured {(M) him /(F) her} to any of the others' territories, and any of them would've made sure to finish {(M) him /(F) her} off. 
+Of course. You could have lured [♂ him /♀ her] to any of the others' territories, and any of them would've made sure to finish [♂ him /♀ her] off. 
  
 **Akuta Hinako:**
 I would go so far as to say any one of them would be a better pick for this kind of work than me. 
@@ -4667,7 +4667,7 @@ So why did you have to bring them to China? They're only here because they were 
 Aww, don't be so hard on yourself, Akuta. I really thought you would be the best fit for the job, seeing how you're so good at defense and all. 
  
 **Koyanskaya:**
-You see, I actually tried to assassinate{(M) him /(F) her} as a favor to Beryl...
+You see, I actually tried to assassinate[♂ him /♀ her] as a favor to Beryl...
  
 **Koyanskaya:**
 ...but I'm afraid things didn't exactly go as planned☆
@@ -5677,7 +5677,7 @@ Hahaha, good point!
 ...Hmm. 
  
 **Holmes:**
-{(M) Mr. /(F) Ms. } Fujimaru, could I have a word with you on the Shadow Border? 
+[♂ Mr. /♀ Ms. ] Fujimaru, could I have a word with you on the Shadow Border? 
  
 **Holmes:**
 Tell me, what do you make of the villagers' reactions? 
@@ -6012,7 +6012,7 @@ Well, yeah. I know I've never even thought about going outside the village befor
 ...
  
 **Boy:**
-...Hey, uh, {(M) mister /(F) miss}? Have you got a minute? 
+...Hey, uh, [♂ mister /♀ miss]? Have you got a minute? 
  
 **Mash:**
 What is it? 
@@ -6050,7 +6050,7 @@ So sometimes, I sneak out to go exploring when everyone else is busy working the
 ...I know just how you feel. There's just something enchanting about the outside world. 
  
 **Boy:**
-Really? Do you like exploring too, {(M) mister /(F) miss}? 
+Really? Do you like exploring too, [♂ mister /♀ miss]? 
  
 ---
 
@@ -6128,7 +6128,7 @@ Setting aside for a moment that armchair detectives are, to use the modern parla
 Very well then, I will go and investigate this nest. Fortunately, my wounds have completely healed now. 
  
 **Holmes:**
-{(M) Mr. /(F) Ms. } Fujimaru, I would like you to lead this expedition. 
+[♂ Mr. /♀ Ms. ] Fujimaru, I would like you to lead this expedition. 
  
 **Holmes:**
 Left to my own devices, it is entirely plausible that I may become so engrossed in solving this mystery that I take another tumble over a waterfall. 
@@ -6401,7 +6401,7 @@ I'm so sorry. I should have been more alert...
 While you were an absolutely superlative navigator before returning to the front lines, Ms. Kyrielight...
  
 **Holmes:**
-...I cannot blame {(M) Mr. /(F) Ms. } Fujimaru for relaxing{(M) his /(F) her} guard now that you are back at {(M) his /(F) her} side once more. 
+...I cannot blame [♂ Mr. /♀ Ms. ] Fujimaru for relaxing[♂ his /♀ her] guard now that you are back at [♂ his /♀ her] side once more. 
  
 **Mash:**
 I, uh...
@@ -7554,7 +7554,7 @@ For some reason, they haven't made a move. They've just been monitoring us from 
 This silence is rather unnerving...
  
 **Holmes:**
-For the moment, I've asked {(M) Mr. /(F) Ms. } Fujimaru to take the Servants and remain on standby. 
+For the moment, I've asked [♂ Mr. /♀ Ms. ] Fujimaru to take the Servants and remain on standby. 
  
 **Nezha:**
 How dare they. Treat Taiyi Zhenren's work with. Less respect. Than it. Is due. When next we meet. I will. Show them. The power of. My Fire-Tipped Spear! 
@@ -7714,7 +7714,7 @@ Fou, fooou!
 What? They've gone on the attack? 
  
 **Prince of Lan Ling:**
-That's right. The Master of Chaldea and{(M) his /(F) her} Servants are charging in like fools. 
+That's right. The Master of Chaldea and[♂ his /♀ her] Servants are charging in like fools. 
  
 **Akuta Hinako:**
 Hmph, this is perfect. Not even the emperor would stop us from engaging invaders. 
@@ -7980,7 +7980,7 @@ Even if that option may cause other problems down the road.
 At this point, I believe capturing Koyanskaya and securing an antidote is far and away our highest priority. 
  
 **Holmes:**
-Though of course, {(M) Mr. /(F) Ms. } Fujimaru will need to make the final call. 
+Though of course, [♂ Mr. /♀ Ms. ] Fujimaru will need to make the final call. 
  
 **Goredolf:**
 Huh? Not me!? 
@@ -8500,7 +8500,7 @@ Still, while we cannot rule that outcome out definitively, it's far enough away 
 In the meantime, our most pressing concern, by far...
  
 **Holmes:**
-...is finding an antidote for Director Goredolf and {(M) Mr. /(F) Ms. } Fujimaru. 
+...is finding an antidote for Director Goredolf and [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Goredolf:**
 Y-yes, exactly, Holmes! 
@@ -8645,7 +8645,7 @@ You mean kids never get them?
 We do, but they usually don't work as well when you're little as when you're grown-up. They sure don't for me. 
  
 **Boy:**
-Say, wanna try mine and see what they're like for yourself, {(M) mister /(F) miss}? Here you go! 
+Say, wanna try mine and see what they're like for yourself, [♂ mister /♀ miss]? Here you go! 
  
 ---
 
@@ -9332,7 +9332,7 @@ Well done, Qin Liangyu. You need not concern yourself with that woman any longer
 Understood, Your Imperial Majesty. 
  
 **Qin Liangyu:**
-{(M) Lord /(F) Lady} Fujimaru, I suggest you return to the camp and retire for the night. 
+[♂ Lord /♀ Lady] Fujimaru, I suggest you return to the camp and retire for the night. 
  
 **Mash:**
 ...Senpai? 
@@ -9605,7 +9605,7 @@ The more foolish the woman, the more likely she is to chuck everything away for 
 Careful, Gordy. You're gonna lose any goodwill you may have built up with your female staff. 
  
 **Goredolf:**
-Bah, the only {(M) woman /(F) women} here {(M) is /(F) are  Mash,you borderline Lolita! 
+Bah, the only [♂ woman /♀ women] here [♂ is /♀ are  Mash,you borderline Lolita! 
  
 **Mash:**
 Well, I was certainly disappointed by what you said. 
@@ -9637,7 +9637,7 @@ Negotiate? Out of the question. That tactic plays right into the oppressors' han
 Do not be fooled, detective. They will tell you whatever the weak wish to hear, and pressure you into swearing allegiance with only the pretense of your consent at best! 
  
 **Holmes:**
-Given the urgency of {(M) Mr. /(F) Ms. } Fujimaru and Goredolf's condition, I'm afraid we have no alternative. 
+Given the urgency of [♂ Mr. /♀ Ms. ] Fujimaru and Goredolf's condition, I'm afraid we have no alternative. 
  
 **Holmes:**
 At a minimum, I would like to maintain our truce with Qin Shi Huang until Koyanskaya is securely in our custody. 
@@ -9649,7 +9649,7 @@ If we could prolong it until Akuta Hinako is out of the picture, so much the bet
 Whatever her reasons for doing so may be, Akuta Hinako remains fiercely determined to eradicate us. 
  
 **Holmes:**
-So much so that she tried to assassinate{(M) Mr. /(F) Ms. } Fujimaru in the dead of night against Qin Shi Huang's wishes. 
+So much so that she tried to assassinate[♂ Mr. /♀ Ms. ] Fujimaru in the dead of night against Qin Shi Huang's wishes. 
  
 **Da Vinci:**
 Obviously, Akuta and Qin Shi Huang aren't exactly BFFs at the moment...
@@ -9679,7 +9679,7 @@ If we don't have an antidote ready to go by the time we face off with Qin Shi Hu
 All the emperor would have to do is kill Koyanskaya...
  
 **Holmes:**
-...and {(M) Mr. /(F) Ms. } Fujimaru would be saddled with the poison's deleterious effects for the rest of {(M) his /(F) her} life. 
+...and [♂ Mr. /♀ Ms. ] Fujimaru would be saddled with the poison's deleterious effects for the rest of [♂ his /♀ her] life. 
  
 **Goredolf:**
 Let's not forget that my own life would be tragically shortened! 
@@ -9703,7 +9703,7 @@ I refuse. Acquiescence is the first step to allegiance, and allegiance inevitabl
 My Master must never side with oppression,but always rebel against it. 
  
 **Spartacus:**
-{(M) He /(F) She} should rebel against pain, rebel against suffering,and ultimately triumph by rebelling against destiny! 
+[♂ He /♀ She] should rebel against pain, rebel against suffering,and ultimately triumph by rebelling against destiny! 
  
 **Mordred:**
 Get the goddamn stick outta your ass, would ya? We're playin' the long game here, lunkhead. 
@@ -9724,7 +9724,7 @@ When I tried to assassinate the emperor before, I lost the moment I focused on s
 But, I'm not the one leading the attack this time. 
  
 **Jing Ke:**
-I get that Fujimaru has {(M) his /(F) her} own way of fighting. 
+I get that Fujimaru has [♂ his /♀ her] own way of fighting. 
  
 ---
 
@@ -10114,7 +10114,7 @@ Grr, what's with that knowing look!?
 Are those Command Spells of yours just fancy tattoos!? Go on and use one already, you fool! 
  
 **Holmes:**
-...This may be the moment of truth,{(M) Mr. /(F) Ms. } Fujimaru. 
+...This may be the moment of truth,[♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Holmes:**
 Forming a contract with an unruly Berserker inevitably means using Command Spells to keep them in check. 
@@ -10180,7 +10180,7 @@ Positive. I give ya the Mordred guarantee.
 I confess that even I cannot see the logic here. 
  
 **Holmes:**
-What do you think, {(M) Mr. /(F) Ms. } Fujimaru? This is ultimately your decision to make. 
+What do you think, [♂ Mr. /♀ Ms. ] Fujimaru? This is ultimately your decision to make. 
  
 ---
 
@@ -11823,13 +11823,13 @@ On second thought, don't bother! Diiie!
 All right, that's enough! 
  
 **Chen Gong:**
-Well, Red Hare? I believe this {(M) boy /(F) girl} is more than strong enough for us to serve. What do you think? 
+Well, Red Hare? I believe this [♂ boy /♀ girl] is more than strong enough for us to serve. What do you think? 
  
 **Red Hare:**
 That was fuuun! 
  
 **Red Hare:**
-This Master's majesty and sheer presence would outshine even Guan Yu himself! I would be happy to let {(M) him /(F) her} ride on my back! 
+This Master's majesty and sheer presence would outshine even Guan Yu himself! I would be happy to let [♂ him /♀ her] ride on my back! 
  
 **Red Hare:**
 Oh, I'm Lu Bu Fengxian. Pleased to meet you! 
@@ -11870,7 +11870,7 @@ Welcome aboard!
 Thank you, my lord! 
  
 **Chen Gong:**
-As of today, I, Chen Gong, recognize you,{(M) Lord /(F) Lady} Fujimaru, as my Master, and swear an oath of undying loyalty. 
+As of today, I, Chen Gong, recognize you,[♂ Lord /♀ Lady] Fujimaru, as my Master, and swear an oath of undying loyalty. 
  
 **Fou:**
 Fooou...
@@ -12433,7 +12433,7 @@ Let's do this!
 Ooh, sounds like they're here☆Just listen to all that noise! 
  
 **Holmes:**
-{(M) Mr. /(F) Ms. } Fujimaru would never charge in headlong without good cause. 
+[♂ Mr. /♀ Ms. ] Fujimaru would never charge in headlong without good cause. 
  
 **Holmes:**
 Which must mean&ndash;
@@ -12454,7 +12454,7 @@ All right Jing Ke! Way to stay on top of things!
 Excellent. Then I believe now is the time for us to strike back ourselves. 
  
 **Holmes:**
-We can't put everything on{(M) Mr. /(F) Ms. } Fujimaru's shoulders, after all. 
+We can't put everything on[♂ Mr. /♀ Ms. ] Fujimaru's shoulders, after all. 
  
 **Mash:**
 Listen! I can hear something going on in the prison now! 
@@ -13656,7 +13656,7 @@ Mr. Goredolf? Um, are you really sure you want to settle this like...that?
 It's all right, Mash. If they are content to make a decision this way, it is not our place to interfere. 
  
 **Goredolf:**
-Just you, me, and whatever hand we choose to play! A fair fight if ever there was one! What do you say, young {(M) man /(F) lady}!? 
+Just you, me, and whatever hand we choose to play! A fair fight if ever there was one! What do you say, young [♂ man /♀ lady]!? 
  
 ---
 
@@ -13750,7 +13750,7 @@ Also, Fujimaru? I think we need to have a little talk later.
 Were you trying to lose on purpose? 
  
 **Holmes:**
-Whether {(M) he /(F) she} was or not, Mr. Goredolf made the challenge for this particular duel. 
+Whether [♂ he /♀ she] was or not, Mr. Goredolf made the challenge for this particular duel. 
  
 **Holmes:**
 Tell us, Mr. Goredolf, what were you thinking when you used scissors after declaring you would use rock? 
@@ -13839,7 +13839,7 @@ Indeed. Whatever the circumstances may have been,the end result is that Goredolf
 ...and despite being well aware of that,he has not so much as mentioned it all this time. 
  
 **Holmes:**
-No doubt he decided it would be unfair to hold that over {(M) Mr. /(F) Ms. } Fujimaru's head, given how {(M) he /(F) she}was about to head off into battle. 
+No doubt he decided it would be unfair to hold that over [♂ Mr. /♀ Ms. ] Fujimaru's head, given how [♂ he /♀ she]was about to head off into battle. 
  
 **Goredolf:**
 W-well...I don't know if I'd put it quite that way...
@@ -13890,7 +13890,7 @@ Oh? And on what are you basing that oh-so-hopeful assertion, might I ask?
 That you chose to come to this particular Lostbelt in the first place. 
  
 **Holmes:**
-You made sure to wait until the time was ripe before you went about poisoning {(M) Mr. /(F) Ms. } Fujimaru. 
+You made sure to wait until the time was ripe before you went about poisoning [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Holmes:**
 Were your poison truly incurable, you would only need to flee once the deed was done. . 
@@ -13971,7 +13971,7 @@ Which means the antidote I had on me was your one and only hope.
 Given that I held Fujimaru's life in my hands...
  
 **Koyanskaya:**
-...I did consider making {(M) him /(F) her} my slave and forcing {(M) him /(F) her} to do my bidding...
+...I did consider making [♂ him /♀ her] my slave and forcing [♂ him /♀ her] to do my bidding...
  
 **Koyanskaya:**
 ...but I couldn't get Akuta's report out of my head. 
@@ -13992,7 +13992,7 @@ I prefer to think of it as knowing when to hedge my bets.
 Whatever you choose to call it, your instincts helped us out considerably for once. 
  
 **Holmes:**
-Once we obtain the Fusang Tree for ourselves,we can cure {(M) Mr. /(F) Ms. } Fujimaru's poison, correct? 
+Once we obtain the Fusang Tree for ourselves,we can cure [♂ Mr. /♀ Ms. ] Fujimaru's poison, correct? 
  
 **Koyanskaya:**
 Theoretically, yes. 
@@ -14013,7 +14013,7 @@ Besides, we can't leave this Lostbelt until we find the Tree of Emptiness and ch
 The hidden Tree of Emptiness...Well, I suppose it all boils down to the same thing. 
  
 **Holmes:**
-At any rate, curing {(M) Mr. /(F) Ms. } Fujimaru's poisoning remains our top priority. 
+At any rate, curing [♂ Mr. /♀ Ms. ] Fujimaru's poisoning remains our top priority. 
  
 **Holmes:**
 Can I assume our next destination to be Xianyang then, Director? 
@@ -14037,7 +14037,7 @@ Well said, Director.
 Fou, fooou! 
  
 **Goredolf:**
-Don't you worry, my {(M) boy /(F) girl}! We'll find a way to save you, you just see if we don't! 
+Don't you worry, my [♂ boy /♀ girl]! We'll find a way to save you, you just see if we don't! 
  
 **Goredolf:**
 You hang in there and focus on defeating Qin Shi Huang! 
@@ -14478,7 +14478,7 @@ If I don't turn that thing to scrap right away, I will never be able to forgive 
 The enemy is preparing to attack, Master! Even its cannon's design is almost absurd! 
  
 **Holmes:**
-I am sorry to ask this of you,{(M) Mr. /(F) Ms. } Fujimaru...
+I am sorry to ask this of you,[♂ Mr. /♀ Ms. ] Fujimaru...
  
 **Holmes:**
 ...but would you be so kind as to do something about that...thing, for Da Vinci's peace of mind and our safety, though...not necessarily in that order. 
@@ -14622,7 +14622,7 @@ Looks like the chitchat will have to wait. We've got more company.
 Um, I don't want to complain, but I'm starting to get a little worn out here...
  
 **Chen Gong:**
-And we certainly can't have our Master running{(M) his /(F) her} magical circuits at full speed right now...
+And we certainly can't have our Master running[♂ his /♀ her] magical circuits at full speed right now...
  
 **Mordred:**
 The hell're you guys mopin' around for!? We're almost at the enemy's doorstep! Now's our chance to finish this! 
@@ -14691,7 +14691,7 @@ Fujimaru, you. Still have. A fever. Have you. Not been. Cured of. The poison?
 I'm afraid not. As of yet, we've only been able to treat the director. 
  
 **Holmes:**
-Indeed, procuring an antidote for{(M) Mr. /(F) Ms. } Fujimaru...
+Indeed, procuring an antidote for[♂ Mr. /♀ Ms. ] Fujimaru...
  
 **Holmes:**
 ...is one of several reasons why we must make haste to Xianyang. 
@@ -14816,7 +14816,7 @@ Yes, it is reckless. But that kind of recklessness is pretty much why I'm here t
 It's what made me go down in history, and eventually led to me meeting Fujimaru as a Heroic Spirit. 
  
 **Da Vinci:**
-...All right. But make sure you talk this over with{(M) him /(F) her} before you go, okay? 
+...All right. But make sure you talk this over with[♂ him /♀ her] before you go, okay? 
  
 **Jing Ke:**
 I will, don't worry. I'm not Spartacus, you know. 
@@ -16575,7 +16575,7 @@ I'll still make an antidote. I make it a point of professional pride to always f
 So once Fujimaru is good and dead...
  
 **Koyanskaya:**
-...I'll be sure to leave it on {(M) his /(F) her}grave along with some lovely flowers. 
+...I'll be sure to leave it on [♂ his /♀ her]grave along with some lovely flowers. 
  
 **Fou:**
 Fou, fooou! 
@@ -17464,7 +17464,7 @@ Hahaha. If there is no further need for a tactician, then it would seem my work 
 Agreed. Where you find war, you can also find tacticians. But if there's no more war here, then I had best be on my way as well. 
  
 **Chen Gong:**
-{(M) Lord /(F) Lady} Fujimaru, I am sure we will one day meet again on a new field of battle. 
+[♂ Lord /♀ Lady] Fujimaru, I am sure we will one day meet again on a new field of battle. 
  
 **Chen Gong:**
 Next time, I won't bother to test how strong you are. I will know you to be a Master worth following from the very start. 

@@ -76,7 +76,7 @@ Of course, I’m aware. The <u>main subject at hand</u> has also been a topic of
 As expected of the wonder child of Atlas,I didn’t have to tell you. 
  
 **Holmes:**
-{(M) Mr. /(F) Ms. } Fujimaru. New Director Goredolf. Miss Kyrielight. 
+[♂ Mr. /♀ Ms. ] Fujimaru. New Director Goredolf. Miss Kyrielight. 
  
 **Holmes:**
 And finally, Mister M. Let’s pull our minds together and return to our places. 
@@ -233,7 +233,7 @@ Captain and da Vinci will be charged with the Storm Border for a while.
 We will continue as planned, training and preparing for our next assault on a Lostbelt. 
  
 **Holmes:**
-{(M) Mr. /(F) Ms. } Fujimaru will have to improve on their skills as a Master. 
+[♂ Mr. /♀ Ms. ] Fujimaru will have to improve on their skills as a Master. 
  
 **Holmes:**
 Miss Kyrielight will tune her <ruby><rb>Ortinax</rb><rt>Spirit Origin Exoskeleton</rt></ruby>. 
@@ -1184,7 +1184,7 @@ We’re looking for our prey. Our Casters.
 フォウも応援してくれてるのかな？うんうん、ありがとう！
  
 **Da Vinci:**
-早速ブリーフィングを始めよう。いいかな藤丸{(M)君/(F)ちゃん}、マシュ。
+早速ブリーフィングを始めよう。いいかな藤丸[♂君/♀ちゃん]、マシュ。
  
 **Mash:**
 はい。
@@ -1292,7 +1292,7 @@ We’re looking for our prey. Our Casters.
 特異点解決による人理修復、よろしくね～☆
  
 **Da Vinci:**
-だってさ。納得いったかい、藤丸{(M)君/(F)ちゃん}。
+だってさ。納得いったかい、藤丸[♂君/♀ちゃん]。
  
 **Da Vinci:**
 今回のキミたちの任務は、この人類史黒点の調査および消去となる。
@@ -1425,7 +1425,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-どうした{(M)んだ/(F)の}、二人とも
+どうした[♂んだ/♀の]、二人とも
  
 **Fuuma Kotarou:**
 はっ。
@@ -2532,7 +2532,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-（一人で無茶は駄目{(M)だ/(F)だよ}、二人で戦おう）
+（一人で無茶は駄目[♂だ/♀だよ]、二人で戦おう）
  
 
 ---
@@ -2662,7 +2662,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-（{(M)自分/(F)わたし}を<ruby><rb>庇</rb><rt>かば</rt></ruby>って&mdash;！？）
+（[♂自分/♀わたし]を<ruby><rb>庇</rb><rt>かば</rt></ruby>って&mdash;！？）
  
 
 ---
@@ -2697,7 +2697,7 @@ We’re looking for our prey. Our Casters.
 &mdash;魔圏、平安京にあって。
  
 **Narration:**
-連れ合いを<ruby><rb>庇</rb><rt>かば</rt></ruby>った{(M)男/(F)娘}が、哀れ、怪異に貪り喰われる光景などは日頃の常である。
+連れ合いを<ruby><rb>庇</rb><rt>かば</rt></ruby>った[♂男/♀娘]が、哀れ、怪異に貪り喰われる光景などは日頃の常である。
  
 **Narration:**
 特に、この頃、京の外れには<ruby><rb>土蜘蛛</rb><rt>つちぐも</rt></ruby>が出る。
@@ -2807,7 +2807,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-………………あなたは、{(M)誰だ/(F)誰}
+………………あなたは、[♂誰だ/♀誰]
  
 
 ---
@@ -2894,7 +2894,7 @@ We’re looking for our prey. Our Casters.
 そうか。無情な事もある。
  
 **Watanabe no Tsuna:**
-許せ、{(M)異境の男/(F)異境の娘}。一度は<ruby><rb>掬</rb><rt>すく</rt></ruby>いとった命だが……
+許せ、[♂異境の男/♀異境の娘]。一度は<ruby><rb>掬</rb><rt>すく</rt></ruby>いとった命だが……
  
 **Watanabe no Tsuna:**
 <ruby><rb>是</rb><rt>これ</rt></ruby>も天覧聖杯戦争なれば、やむを得ず。
@@ -3072,7 +3072,7 @@ We’re looking for our prey. Our Casters.
 綱さま、危険です！
  
 **Watanabe no Tsuna:**
-分からんかキャスター。あの女武芸者、見るからに{(M)男/(F)娘}を<ruby><rb>庇</rb><rt>かば</rt></ruby>っていたぞ。
+分からんかキャスター。あの女武芸者、見るからに[♂男/♀娘]を<ruby><rb>庇</rb><rt>かば</rt></ruby>っていたぞ。
  
 **Watanabe no Tsuna:**
 ならば、少なくとも致死の妖毒を撒きはすまい。
@@ -3327,7 +3327,7 @@ We’re looking for our prey. Our Casters.
 そこを<ruby><rb>退</rb><rt>ど</rt></ruby>け。邪魔だ。
  
 **Watanabe no Tsuna:**
-おまえには用はない。俺は<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の黒髪の女と、{(M)男/(F)娘}に用がある。
+おまえには用はない。俺は<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の黒髪の女と、[♂男/♀娘]に用がある。
  
 **Sakata Kintoki:**
 へえ。そうかい？
@@ -3408,7 +3408,7 @@ We’re looking for our prey. Our Casters.
 兄ィにはそう見えンのかもな。でも、オレっちにはそうは見えねえんだ。
  
 **Sakata Kintoki:**
-あっちの{(M)黒髪の坊や/(F)赤髪の娘}は、まだまだ<ruby><rb>餓鬼</rb><rt>ガ　キ</rt></ruby>さ。
+あっちの[♂黒髪の坊や/♀赤髪の娘]は、まだまだ<ruby><rb>餓鬼</rb><rt>ガ　キ</rt></ruby>さ。
  
 **Sakata Kintoki:**
 夜闇の暗さに怯えちまっても、道に迷って泣きじゃくってもいい年頃だ。
@@ -3557,7 +3557,7 @@ We’re looking for our prey. Our Casters.
 人形の方か。
  
 **Watanabe no Tsuna:**
-この{(M)男/(F)娘}ではない？……目を眩まされたと言うよりは、俺の未熟か。
+この[♂男/♀娘]ではない？……目を眩まされたと言うよりは、俺の未熟か。
  
 **Medea Lily:**
 も、申し訳ありません！私の言葉が足りぬばかりに！
@@ -3566,7 +3566,7 @@ We’re looking for our prey. Our Casters.
 サーヴァントの反応を有していたのは、たったいま姿を隠した<u>長い黒髪</u>の女性です！
  
 **Medea Lily:**
-そちらの{(M)黒髪の少年/(F)赤毛の少女}ではありません！
+そちらの[♂黒髪の少年/♀赤毛の少女]ではありません！
  
 ---
 
@@ -3626,7 +3626,7 @@ We’re looking for our prey. Our Casters.
 <ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は退く。俺が求めるのはキャスターの<ruby><rb>首級</rb><rt>しるし</rt></ruby>だけだ。
  
 **Watanabe no Tsuna:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の{(M)男/(F)娘}を連れて、何処へなりとも行くがよい。
+<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の[♂男/♀娘]を連れて、何処へなりとも行くがよい。
  
 **Watanabe no Tsuna:**
 だが……
@@ -3976,7 +3976,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-{(M)ああ/(F)うん}
+[♂ああ/♀うん]
 
 ---
 
@@ -4369,7 +4369,7 @@ We’re looking for our prey. Our Casters.
 道筋はオレがつけてやる。少なくとも、カルデアってとこには帰してやるさ。
  
 **Sakata Kintoki:**
-{(M)男同士の約束だ/(F)云った言の葉は押し通す}！五体無事でアンタを帰す！
+[♂男同士の約束だ/♀云った言の葉は押し通す]！五体無事でアンタを帰す！
  
 **Sakata Kintoki:**
 勿論、アンタもだぜ。黒髪の英霊サン。
@@ -4449,7 +4449,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-……{(M)自分/(F)わたし}のせいで、ごめん
+……[♂自分/♀わたし]のせいで、ごめん
  
 
 ---
@@ -4522,7 +4522,7 @@ We’re looking for our prey. Our Casters.
 <ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な夜更けに、見るも艶やかな偉丈夫がひとり&mdash;
  
 **牛車の中の貴人:**
-それに何やら訳ありと見ましたが、異境の装束<ruby><rb>纏</rb><rt>まと</rt></ruby>う{(M)おのこ/(F)めのこ}と、黒髪美しき<ruby><rb>女性</rb><rt>にょしょう</rt></ruby>。
+それに何やら訳ありと見ましたが、異境の装束<ruby><rb>纏</rb><rt>まと</rt></ruby>う[♂おのこ/♀めのこ]と、黒髪美しき<ruby><rb>女性</rb><rt>にょしょう</rt></ruby>。
  
 **牛車の中の貴人:**
 どうされました。もしや、行くあてなくさまよっておられる？
@@ -5189,7 +5189,7 @@ We’re looking for our prey. Our Casters.
 ああっ、いえ！
  
 **Danzo:**
-{(M)ワタシのことは/(F)ワタシたちのことは}どうかお気になさらず。{(M)主人をお守りすべく働く身なれば、/(F)昼夜問わず寄り添う身の上なれば、}
+[♂ワタシのことは/♀ワタシたちのことは]どうかお気になさらず。[♂主人をお守りすべく働く身なれば、/♀昼夜問わず寄り添う身の上なれば、]
  
 **Danzo:**
 どうか。相部屋にてお願いいたしまする。
@@ -5229,7 +5229,7 @@ We’re looking for our prey. Our Casters.
 そ、そうですか。分かりました。
  
 **Fujiwara no Kaoriko:**
-{(M)大胆なるお姿といい……/(F)そちらの大胆なるお姿といい……}ええと、開放的でおられるのですね……
+[♂大胆なるお姿といい……/♀そちらの大胆なるお姿といい……]ええと、開放的でおられるのですね……
  
 **Danzo:**
 ？
@@ -5410,7 +5410,7 @@ We’re looking for our prey. Our Casters.
 （二人して同じこと言い合ってら。　こいつぁ……なるほど、フンフンそうか！）
  
 **Sakata Kintoki:**
-（{(M)兄妹/(F)姉妹}かね？）
+（[♂兄妹/♀姉妹]かね？）
  
 **Sakata Kintoki:**
 （顔立ちは……）
@@ -5455,7 +5455,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-あやまることはない{(M)さ/(F)よ}
+あやまることはない[♂さ/♀よ]
 
 ---
 
@@ -5470,7 +5470,7 @@ We’re looking for our prey. Our Casters.
 キミが落ち着いているようで何よりだ。でも、状況はあまり芳しくない。
  
 **Da Vinci:**
-藤丸{(M)君/(F)ちゃん}と加藤段蔵、両名だけがレイシフトに成功しているのは、
+藤丸[♂君/♀ちゃん]と加藤段蔵、両名だけがレイシフトに成功しているのは、
  
 **Da Vinci:**
 つまり、妨害者にとって、両名は特別な存在&mdash;
@@ -7475,7 +7475,7 @@ We’re looking for our prey. Our Casters.
 <ruby><rb>主馬佑</rb><rt>しゅめのすけ</rt></ruby>坂田金時様。お勤めご苦労様でございます。
  
 **尊子:**
-それで<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の……ええと、ほら、{(M)黒く短い髪の/(F)赤い髪の娘}。
+それで<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の……ええと、ほら、[♂黒く短い髪の/♀赤い髪の娘]。
  
 **尊子:**
 そちらから、<ruby><rb>私</rb><rt>わたくし</rt></ruby>、随分と熱い視線を戴いてしまっているようで……
@@ -7511,7 +7511,7 @@ We’re looking for our prey. Our Casters.
 どうした藤丸。ぽかんと大口を開けて。
  
 **Sakata Kintoki:**
-はは。貴人の麗しさに目奪われたか！<ruby><rb>是</rb><rt>これ</rt></ruby>なる者は{(M)弟分/(F)妹分}、不作法をお許しいただきたい。
+はは。貴人の麗しさに目奪われたか！<ruby><rb>是</rb><rt>これ</rt></ruby>なる者は[♂弟分/♀妹分]、不作法をお許しいただきたい。
  
 **尊子:**
 ふふふふふ。そうですか、そうですか。
@@ -7761,7 +7761,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-<ruby><rb>巷</rb><rt>ちまた</rt></ruby>とか、そういう話{(M)じゃない/(F)ではないです}
+<ruby><rb>巷</rb><rt>ちまた</rt></ruby>とか、そういう話[♂じゃない/♀ではないです]
  
 
 ---
@@ -7905,7 +7905,7 @@ We’re looking for our prey. Our Casters.
 ……左大臣殿においては、ご機嫌麗しく。
  
 **Sakata Kintoki:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なるは我が{(M)弟分/(F)妹分}、いずれは四天王の一角にも並び立つ意気の持ち主！
+<ruby><rb>是</rb><rt>これ</rt></ruby>なるは我が[♂弟分/♀妹分]、いずれは四天王の一角にも並び立つ意気の持ち主！
  
 **Sakata Kintoki:**
 故あって宮中へ連れ込みましたこと、金時の独断にて。どうか、お目こぼしを！
@@ -7920,7 +7920,7 @@ We’re looking for our prey. Our Casters.
 ……は、はい。失礼いたしました。
  
 **Fujiwara no Michinaga:**
-さて&mdash;<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の{(M)男/(F)娘}、顔を見せろ。
+さて&mdash;<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の[♂男/♀娘]、顔を見せろ。
  
 ---
 
@@ -8497,7 +8497,7 @@ We’re looking for our prey. Our Casters.
 おお、<ruby><rb>相模</rb><rt>さ が み</rt></ruby>の怪童！はーまた一回りでかくならはってまあ！
  
 **京の男:**
-何や大層な{(M)べっぴんさん/(F)べっぴんさんたち}連れて、源氏の<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>様は知ってるのかい？
+何や大層な[♂べっぴんさん/♀べっぴんさんたち]連れて、源氏の<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>様は知ってるのかい？
  
 **京の女:**
 まあまあ、今日は餅でも持っていったらよろしおす。遠慮せんと、うちらと金ちゃんの仲やないの！
@@ -10824,7 +10824,7 @@ We’re looking for our prey. Our Casters.
 （戦闘態勢で構える）
  
 **Watanabe no Tsuna:**
-{(M)男/(F)娘}、相も変わらず金時と同行するか。
+[♂男/♀娘]、相も変わらず金時と同行するか。
  
 **Watanabe no Tsuna:**
 天覧聖杯戦争に関わりなき者なれば、命までは獲らぬ。
@@ -11262,7 +11262,7 @@ We’re looking for our prey. Our Casters.
 我が階差機関の導く解答に従いながら、同時に我は、我が魂の閃きに、賭けた……！
  
 **バベッジ:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の{(M)黒髪の若人/(F)赤毛の娘}、他人のようには感じぬよ。
+<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の[♂黒髪の若人/♀赤毛の娘]、他人のようには感じぬよ。
  
 **バベッジ:**
 まるで、そう、旧来の友であるかのような……遠き彼方にて共に歩んだ、ような……
@@ -11316,7 +11316,7 @@ We’re looking for our prey. Our Casters.
 麗しき東方の自動人形よ。
  
 **バベッジ:**
-{(M)黒髪の若人/(F)赤毛の娘}よ。
+[♂黒髪の若人/♀赤毛の娘]よ。
  
 **バベッジ:**
 そして、カオルコ。
@@ -11606,7 +11606,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-………………{(M)そうだね/(F)わたしも、そう思う}
+………………[♂そうだね/♀わたしも、そう思う]
  
 
 ---
@@ -12233,7 +12233,7 @@ We’re looking for our prey. Our Casters.
 小僧も何や<ruby><rb>術者</rb><rt>キャスター</rt></ruby>を連れとるんかと想うたけど、些か違うとるんやねえ。あらま。
  
 **Shuten Dōji:**
-うちの見たところ、そこな{(M)黒髪の小僧/(F)赤毛の娘}は<ruby><rb>術者</rb><rt>キャスター</rt></ruby>とちゃうねぇ。
+うちの見たところ、そこな[♂黒髪の小僧/♀赤毛の娘]は<ruby><rb>術者</rb><rt>キャスター</rt></ruby>とちゃうねぇ。
  
 **Shuten Dōji:**
 ん&mdash;
@@ -12432,7 +12432,7 @@ We’re looking for our prey. Our Casters.
 次こそは手加減なしだ！酒呑、見るだけでなしに<ruby><rb>吾</rb><rt>われ</rt></ruby>に加勢をしてくれ！
  
 **Ibaraki Douji:**
-<ruby><rb>吾</rb><rt>われ</rt></ruby>と<ruby><rb>汝</rb><rt>なれ</rt></ruby>が揃えば向かう<ruby><rb>処</rb><rt>ところ</rt></ruby>敵なしと、あれなる人形と武者と{(M)小僧/(F)小娘}に知らしめてくれようぞ！
+<ruby><rb>吾</rb><rt>われ</rt></ruby>と<ruby><rb>汝</rb><rt>なれ</rt></ruby>が揃えば向かう<ruby><rb>処</rb><rt>ところ</rt></ruby>敵なしと、あれなる人形と武者と[♂小僧/♀小娘]に知らしめてくれようぞ！
  
 **Shuten Dōji:**
 茨木。そこまで。
@@ -12477,7 +12477,7 @@ We’re looking for our prey. Our Casters.
 人血の匂いがせぬ人形なぞまだ佳いわ。如何にも、<ruby><rb>吾</rb><rt>われ</rt></ruby>を<ruby><rb>抉</rb><rt>えぐ</rt></ruby>ろうと刃を振るってくるからな。
  
 **Ibaraki Douji:**
-だが金時！　それと<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる{(M)小僧/(F)小娘}！<ruby><rb>汝</rb><rt>なれ</rt></ruby>らは何だ！
+だが金時！　それと<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる[♂小僧/♀小娘]！<ruby><rb>汝</rb><rt>なれ</rt></ruby>らは何だ！
  
 **Ibaraki Douji:**
 まるでやる気がない……
@@ -13719,7 +13719,7 @@ We’re looking for our prey. Our Casters.
 は、はいッ。
  
 **Minamoto no Raikō:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる{(M)男女両名/(F)女二名}。何者ですか。
+<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる[♂男女両名/♀女二名]。何者ですか。
  
 **Minamoto no Raikō:**
 &mdash;何者、ですか。
@@ -13746,7 +13746,7 @@ We’re looking for our prey. Our Casters.
 （重々ご注意を、マスター！）
  
 **Minamoto no Raikō:**
-答えなさい金時。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる{(M)男女両名/(F)女二名}は何者ですか。
+答えなさい金時。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる[♂男女両名/♀女二名]は何者ですか。
  
 **Minamoto no Raikō:**
 返答なきままであれば、この場にて。母が処断いたします。
@@ -13867,7 +13867,7 @@ We’re looking for our prey. Our Casters.
 む。
  
 **Minamoto no Raikō:**
-&mdash;それはそうと何者ですか。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる{(M)男女両名/(F)女二名}。
+&mdash;それはそうと何者ですか。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる[♂男女両名/♀女二名]。
  
 **Danzo:**
 また！？
@@ -13906,7 +13906,7 @@ We’re looking for our prey. Our Casters.
 おう。
  
 **Minamoto no Raikō:**
-{(M)片方は女ですが？/(F)どちらも女ですが？}
+[♂片方は女ですが？/♀どちらも女ですが？]
  
 ---
 
@@ -14106,10 +14106,10 @@ We’re looking for our prey. Our Casters.
 まあまあ、まあまあ♡
  
 **Minamoto no Raikō:**
-{(M)貴方/(F)貴女}、よく食べるのですね！金時と並ぶとまるで{(M)兄弟/(F)兄妹}であるかのよう。
+[♂貴方/♀貴女]、よく食べるのですね！金時と並ぶとまるで[♂兄弟/♀兄妹]であるかのよう。
  
 **Minamoto no Raikō:**
-{(M)貴方/(F)貴女}さえ宜しければ、我が家の子に迎えたいところです！
+[♂貴方/♀貴女]さえ宜しければ、我が家の子に迎えたいところです！
  
 **Danzo:**
 （さて。一時は肝を冷やしましたが、　この空気であれば切り出し易いやも、です）
@@ -14552,7 +14552,7 @@ We’re looking for our prey. Our Casters.
 …………小僧の熱ぅい血潮、呑みたなるわぁ。
  
 **Shuten Dōji:**
-隣の{(M)坊/(F)娘}も旨そやねえ？何や、うちの顔に見覚えあらはるみたいやし、
+隣の[♂坊/♀娘]も旨そやねえ？何や、うちの顔に見覚えあらはるみたいやし、
  
 **Shuten Dōji:**
 うち困るわぁ。一途な鬼やないのがばれてまうやないの。
@@ -15624,7 +15624,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-ひとりきりは流石に無茶{(M)だ/(F)だよ}
+ひとりきりは流石に無茶[♂だ/♀だよ]
 
 ---
 
@@ -15748,7 +15748,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-アナタの真実は知って{(M)います/(F)いるよ}、パラケルスス
+アナタの真実は知って[♂います/♀いるよ]、パラケルスス
  
 
 ---
@@ -17074,7 +17074,7 @@ We’re looking for our prey. Our Casters.
 へー。そう云うもんかね？
  
 **Watanabe no Tsuna:**
-時に、<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の{(M)男/(F)赤毛の娘}。実に見事な<ruby><rb>援</rb><rt>たす</rt></ruby>けであった。
+時に、<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の[♂男/♀赤毛の娘]。実に見事な<ruby><rb>援</rb><rt>たす</rt></ruby>けであった。
  
 **Watanabe no Tsuna:**
 たとえば<ruby><rb>此方</rb><rt>こちら</rt></ruby>の骨兵の群れ……
@@ -17109,7 +17109,7 @@ We’re looking for our prey. Our Casters.
 ……明日の先より来たる身、との話だったな。遥か千年後の日の本から来たと。
  
 **Watanabe no Tsuna:**
-佳き顔、穏やかな瞳をする{(M)男/(F)娘}だ。
+佳き顔、穏やかな瞳をする[♂男/♀娘]だ。
  
 **Watanabe no Tsuna:**
 千年後の日の本は、どうやら平安であるらしい。
@@ -17133,7 +17133,7 @@ We’re looking for our prey. Our Casters.
 迷わず云ったな。
  
 **Watanabe no Tsuna:**
-まこと、金時と肩を並べるだけのことはある。気骨のある{(M)男/(F)娘}だ！
+まこと、金時と肩を並べるだけのことはある。気骨のある[♂男/♀娘]だ！
  
 **--ARROW--**
  
@@ -18230,7 +18230,7 @@ We’re looking for our prey. Our Casters.
 メディア殿、ナーサリー・ライム。貴女たちを失えば敵方は新たなる魂を得てしまう。
  
 **Minamoto no Raikō:**
-藤丸殿と段蔵殿。{(M)貴方/(F)貴女}たちは大切な客人、金時の初めての友です。
+藤丸殿と段蔵殿。[♂貴方/♀貴女]たちは大切な客人、金時の初めての友です。
  
 **Minamoto no Raikō:**
 ですから、ですね。できればこの屋敷に留まって……
@@ -18250,7 +18250,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-{(M)自分/(F)わたし}も勿論行きます！
+[♂自分/♀わたし]も勿論行きます！
  
 
 ---
@@ -18272,7 +18272,7 @@ We’re looking for our prey. Our Casters.
 何と勇気ある子たちでしょう。綱。頼光も、目の醒める想いを得ましたよ。
  
 **Minamoto no Raikō:**
-分かりました。では、<ruby><rb>是</rb><rt>これ</rt></ruby>より{(M)貴方/(F)貴女}たちも源氏郎等と<ruby><rb>見做</rb><rt>みな</rt></ruby>しましょう！
+分かりました。では、<ruby><rb>是</rb><rt>これ</rt></ruby>より[♂貴方/♀貴女]たちも源氏郎等と<ruby><rb>見做</rb><rt>みな</rt></ruby>しましょう！
  
 **Minamoto no Raikō:**
 共に、京を護るのです。&mdash;源氏出陣！
@@ -18936,7 +18936,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-{(M)オレ/(F)わたし}も、覚悟を決めないと……！
+[♂オレ/♀わたし]も、覚悟を決めないと……！
  
 
 ---
@@ -20522,7 +20522,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-源氏を殺す敵がいる{(M)んだ/(F)の}
+源氏を殺す敵がいる[♂んだ/♀の]
  
 
 ---
@@ -20592,7 +20592,7 @@ We’re looking for our prey. Our Casters.
 綱も頼光もおらぬ！四天王とは云えども一人きり！
  
 **Ibaraki Douji:**
-他には人形がひとつと、{(M)小僧/(F)小娘}が一匹！<ruby><rb>是</rb><rt>これ</rt></ruby>でよくもまあ<ruby><rb>吾</rb><rt>われ</rt></ruby>の新羅城門に参ったものだ！
+他には人形がひとつと、[♂小僧/♀小娘]が一匹！<ruby><rb>是</rb><rt>これ</rt></ruby>でよくもまあ<ruby><rb>吾</rb><rt>われ</rt></ruby>の新羅城門に参ったものだ！
  
 **Ibaraki Douji:**
 &mdash;星熊童子！
@@ -20663,7 +20663,7 @@ We’re looking for our prey. Our Casters.
 なあ、お話ししようや。
  
 **Shuten Dōji:**
-小僧もええけど、せやなあ……そこの{(M)黒髪の小僧/(F)赤毛の娘}、うちとお話ししぃひん？
+小僧もええけど、せやなあ……そこの[♂黒髪の小僧/♀赤毛の娘]、うちとお話ししぃひん？
  
 **Shuten Dōji:**
 な。お話ししよか。
@@ -20866,10 +20866,10 @@ We’re looking for our prey. Our Casters.
 そんなら&mdash;
  
 **Shuten Dōji:**
-こっちの{(M)坊/(F)娘}の方が、なあ、よっぽど肝が据わってるんちゃう？
+こっちの[♂坊/♀娘]の方が、なあ、よっぽど肝が据わってるんちゃう？
  
 **Shuten Dōji:**
-なあ、{(M)坊/(F)娘}。
+なあ、[♂坊/♀娘]。
  
 **Shuten Dōji:**
 あんたはん。藤丸云うたねえ。
@@ -21577,7 +21577,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-{(M)キミ/(F)アナタ}はやっぱり、{(M)自分/(F)わたし}の知る英霊によく似てる
+[♂キミ/♀アナタ]はやっぱり、[♂自分/♀わたし]の知る英霊によく似てる
  
 
 ---
@@ -22760,7 +22760,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-……名前くらいは{(M)自分/(F)わたし}も知ってる！
+……名前くらいは[♂自分/♀わたし]も知ってる！
  
 **Danzo:**
 日の本最大最高の災害竜！三大化生の一角！
@@ -26122,7 +26122,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-{(M)自分/(F)わたし}がこの時代の人間じゃないって
+[♂自分/♀わたし]がこの時代の人間じゃないって
 
 ---
 

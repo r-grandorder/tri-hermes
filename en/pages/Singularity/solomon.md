@@ -2093,7 +2093,7 @@ First of all, having 71 backup dancers looking like you is unthinkable. That's s
 When you're out front on center stage, you can't whine. Be more like our Master over there. 
  
 **Elisabeth:**
-You're out of your mind for trying to take on my {(M) Puppy /(F) Deerlet}. You're still wet behind the ears! 
+You're out of your mind for trying to take on my [♂ Puppy /♀ Deerlet]. You're still wet behind the ears! 
  
 **Georgios:**
 Humph. This would be easier if they had a change of heart, but it seems they had no heart to begin with. 
@@ -3336,7 +3336,7 @@ Aww, but I'm worried!
 And you know, the way of a Greek goddess is to stick with someone to the ends of hell once they've gotten involved. 
  
 **Artemis:**
-Master is doing {(M) his /(F) her} best, so {(M) he /(F) she}'ll be rewarded with some of my special services! 
+Master is doing [♂ his /♀ her] best, so [♂ he /♀ she]'ll be rewarded with some of my special services! 
  
 **Orion:**
 Well, it's good for a goddess like you to be interested in something...At least, I'd like to believe that! 
@@ -4653,19 +4653,19 @@ You're not the kind of girl who can just forget that humiliation and come help s
 Aww, my Cú! You still don't understand how girls think, do you? 
  
 **Medb:**
-I did regret it, and of course I'm vexed! But that doesn't mean I really hated {(M) him /(F) her}. 
+I did regret it, and of course I'm vexed! But that doesn't mean I really hated [♂ him /♀ her]. 
  
 **Medb:**
-That Master fought as hard as {(M) he /(F) she} could in {(M) his /(F) her} own way. Sure, {(M) he /(F) she} was a brat, but I couldn't ignore that. 
+That Master fought as hard as [♂ he /♀ she] could in [♂ his /♀ her] own way. Sure, [♂ he /♀ she] was a brat, but I couldn't ignore that. 
  
 **Medb:**
-So I need to help {(M) him /(F) her} at least a little. It's also to redeem myself from when I got angry when I was pushed into a corner back then. 
+So I need to help [♂ him /♀ her] at least a little. It's also to redeem myself from when I got angry when I was pushed into a corner back then. 
  
 **Medb:**
 I mean, if I just get rid of those regrets, that whole fight will be nothing but a lie. 
  
 **Medb:**
-Well, I'll never forgive {(M) him /(F) her} for ruining my sweet days with you, my Cú! 
+Well, I'll never forgive [♂ him /♀ her] for ruining my sweet days with you, my Cú! 
  
 **Medb:**
 So that's how it is, Fujimaru! If you feel bad for ruining my fun, work as hard as you can! 
@@ -5082,7 +5082,7 @@ But it's all right. This hate, these ugly feelings will never go away.
 But I can face them. I can laugh in the face of that ugliness, and endure it. 
  
 **Karna:**
-Yes. Just like Fujimaru has fought {(M) his /(F) her} way here. 
+Yes. Just like Fujimaru has fought [♂ his /♀ her] way here. 
  
 **Karna:**
 Even if you can't get rid of it, you can accept it. 
@@ -5854,7 +5854,7 @@ Let's have a banquet again someday!
 
  
 **Ushiwakamaru:**
-Our lord has given us {(M) his /(F) her} blessing! Prepare yourselves, Demon Gods! 
+Our lord has given us [♂ his /♀ her] blessing! Prepare yourselves, Demon Gods! 
  
 **Ushiwakamaru:**
 No matter how many come at us, we simply have to continue to slice them up until we die! I shall show you why all those tales are written about me! 
@@ -7053,7 +7053,7 @@ And then you'll corner that bastard Grand Caster. It's something only you can do
 No&mdash;You're wrong...! Senpai's battle hasn't been meaningless! 
  
 **Mash:**
-No matter how tough or painful things got, Senpai always did everything {(M) he could /(F) she could}! {(M) He always /(F) She always} kept moving forward! 
+No matter how tough or painful things got, Senpai always did everything [♂ he could /♀ she could]! [♂ He always /♀ She always] kept moving forward! 
  
 **Mash:**
 All of those efforts have led us to this temple! 
@@ -8332,7 +8332,7 @@ Besides, value is ever-changing. Put a price on life if you like, but its true n
 Have you still not figured that out? 
  
 **Gilgamesh:**
-The {(M) boy you /(F) girl you} dismissed as worthless is backing you into a corner. 
+The [♂ boy you /♀ girl you] dismissed as worthless is backing you into a corner. 
  
 **Gilgamesh:**
 If you're having doubts, then ask. I think that'll be your final salvation. 
@@ -9411,13 +9411,13 @@ Well, how about it, Da Vinci!? How do you think Fujimaru's doing!?
 The Singularity was a good deal more difficult this time around. Nobody expected this would turn out to be a battle against an actual military force. 
  
 **Dr. Roman:**
-Fujimaru could've run away, or hidden. But {(M) he didn't /(F) she didn't} give up. 
+Fujimaru could've run away, or hidden. But [♂ he didn't /♀ she didn't] give up. 
  
 **Dr. Roman:**
-{(M) He's /(F) She's} got a long way to go yet as a mage, but as a Master {(M) he's /(F) she's} doing well. 
+[♂ He's /♀ She's] got a long way to go yet as a mage, but as a Master [♂ he's /♀ she's] doing well. 
  
 **Dr. Roman:**
-At this rate, it won't be long until {(M) he /(F) she} becomes Chaldea's most famous Master. 
+At this rate, it won't be long until [♂ he /♀ she] becomes Chaldea's most famous Master. 
  
 **Da Vinci:**
 You look so proud. It's good to see you putting your trust in others. 
@@ -9453,13 +9453,13 @@ It's not that I don't trust Fujimaru. It's just, considering the circumstances..
 I'm an awful person. I'm leaving Fujimaru in the dark about the most important thing...
  
 **Dr. Roman:**
-But I'm glad {(M) he /(F) she} came to Chaldea. A normal person, and not a mage. 
+But I'm glad [♂ he /♀ she] came to Chaldea. A normal person, and not a mage. 
  
 **Dr. Roman:**
 ...Yeah. Da Vinci, instead of a prominent genius like you saving humanity,
  
 **Dr. Roman:**
-it would be better for an ordinary, purehearted person like {(M) him /(F) her} to save the world, with the help of those around {(M) him /(F) her}...
+it would be better for an ordinary, purehearted person like [♂ him /♀ her] to save the world, with the help of those around [♂ him /♀ her]...
  
 **Dr. Roman:**
 Wouldn't that be more of a display of mankind's worth and value? 
@@ -9600,7 +9600,7 @@ It's been more than a decade, huh? It went by so fast.
 But it's okay. Fujimaru is here. 
  
 **Dr. Roman:**
-As long as {(M) he /(F) she} becomes a good Master, there will have been meaning in my time here. 
+As long as [♂ he /♀ she] becomes a good Master, there will have been meaning in my time here. 
  
 **Dr. Roman:**
 I could ask for no greater reason for this human existence. It more than makes up for the freedom I could have had. 
@@ -9630,4 +9630,4 @@ But, congratulations. Your wish came true, Romani Archaman.
 Fujimaru is a full-fledged Master now, and worthy of the grade “Cause. ”
  
 **Da Vinci:**
-Well, {(M) he's /(F) she's} maybe still a LITTLE unreliable. But that's something to work on in the future. 
+Well, [♂ he's /♀ she's] maybe still a LITTLE unreliable. But that's something to work on in the future. 

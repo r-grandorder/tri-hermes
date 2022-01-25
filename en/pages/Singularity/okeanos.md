@@ -2895,7 +2895,7 @@ I sense an encounter!
 Hmm...What on earth could we encounter inside this dungeon, Master? 
  
 **Mash:**
-Don't tell me you're expecting to run into{(M) a cute girl /(F) a cute boy}...
+Don't tell me you're expecting to run into[♂ a cute girl /♀ a cute boy]...
  
 
 ---
@@ -4218,7 +4218,7 @@ I know how you feel.
 
  
 **Drake:**
-Fujimaru...You're a good {(M) guy /(F) girl}...You'd be a great pirate! 
+Fujimaru...You're a good [♂ guy /♀ girl]...You'd be a great pirate! 
  
 **Drake:**
 As a pirate, I can guarantee it! 
@@ -8505,7 +8505,7 @@ I have an idea.
 ...Yes? 
  
 **Drake:**
-Oh good, nice, great idea! You're just as reliable a {(M) man /(F) woman} as I thought! 
+Oh good, nice, great idea! You're just as reliable a [♂ man /♀ woman] as I thought! 
  
 **David:**
 That's a reasonable strategy. But, besides the Servants,Fujimaru would also be at risk. 
@@ -9129,7 +9129,7 @@ Yes. It is my duty to protect our Master. I will look after him until the very e
 Oooh, scary...Is this what they mean by "naturally insane"...Hm? 
  
 **Hektor:**
-Hi, future {(M) boy /(F) girl}. Your name was Fujimaru, right? 
+Hi, future [♂ boy /♀ girl]. Your name was Fujimaru, right? 
  
 **Hektor:**
 I'm impressed you've come this far. It's truly amazing. France, Rome, and now "here. "

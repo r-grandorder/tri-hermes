@@ -340,7 +340,7 @@ I think making a sea voyage would be a lot to ask of the Border. We could perhap
 So what I'm saying is, I think the overland route is the best choice right now. 
  
 **Holmes:**
-Good grief. No sooner are we done with one Lostbelt than we're off to a second. Your thoughts, {(M) Mr. /(F) Ms. } Fujimaru? 
+Good grief. No sooner are we done with one Lostbelt than we're off to a second. Your thoughts, [♂ Mr. /♀ Ms. ] Fujimaru? 
  
 ---
 
@@ -439,7 +439,7 @@ If you've got nothing better to do, then go help Meunière with his work. Or jus
 
  
 **Holmes:**
-Worry not, {(M) Mr. /(F) Ms. } Fujimaru. I'll see to it that the interrogation doesn't devolve into violence. 
+Worry not, [♂ Mr. /♀ Ms. ] Fujimaru. I'll see to it that the interrogation doesn't devolve into violence. 
  
 **Holmes:**
 ...In fact,I have my own questions I wish to ask him. 
@@ -987,7 +987,7 @@ All there is to see in every direction is a pure, white plain&ndash;though there
 It looked like the remains of some buildings, but they appeared to have been warped by extreme heat, or destroyed in some kind of shock wave. 
 Whatever the cause, upon closer inspection, one could see that these had once been man-made structures of some kind. 
 
-This led to Fujimaru and {(M) his /(F) her} allies stepping out of the Shadow Border to investigate further. 
+This led to Fujimaru and [♂ his /♀ her] allies stepping out of the Shadow Border to investigate further. 
 The atmospheric composition was normal. The air was breathable, and the gravity was the same as before. There was no need for a hazard suit or space suit or anything of the sort. 
 
 “Good thing you didn't have to get all dressed up like an astronaut, huh? ” said Leonardo da Vinci with a cherubic smile. 
@@ -1443,7 +1443,7 @@ Then again, he might be easier to talk to as an administrative advisor if he wer
 Hahaha, I very much doubt that. My Spirit Origin may change, but I'm quite sure I would remain the same. 
  
 **Holmes:**
-If you require proof, I was a Caster when I first met {(M) Mr. /(F) Ms. } Fujimaru...
+If you require proof, I was a Caster when I first met [♂ Mr. /♀ Ms. ] Fujimaru...
  
 **Holmes:**
 ...and even now that I have made an official contract with Chaldea as a Ruler, nothing has changed. 
@@ -1515,7 +1515,7 @@ Do you remember what the briefing was about? Perhaps now would be a good time to
 Y-yes, that's a good point. I'm sorry. 
  
 **Mash:**
-Oh, but as for Senpai, I think {(M) he /(F) she} went off to have lunch with Fou after we left on the Zero Sail...
+Oh, but as for Senpai, I think [♂ he /♀ she] went off to have lunch with Fou after we left on the Zero Sail...
  
 **Holmes:**
 Hahahaha. You heard the man, Da Vinci. Would you be so kind as to summarize our current situation for him? 
@@ -2181,7 +2181,7 @@ We still don't understand how drastically a Lostbelt can change its environment,
 Were that the case, forget the ice and snow. The whole world would be a scorched desert. 
  
 **Holmes:**
-Ms. Kyrielight may be able to survive such an environment, but {(M) Mr. /(F) Ms. } Fujimaru most assuredly would not. 
+Ms. Kyrielight may be able to survive such an environment, but [♂ Mr. /♀ Ms. ] Fujimaru most assuredly would not. 
  
 **Mash:**
 Yes. Which means...that may not actually be our sun. 
@@ -2455,7 +2455,7 @@ So in this version of Scandinavia, creatures from the Age of Gods still live. Th
 Damn you, Crypters! Damn you for throwing something like this at us in only the second Lostbelt! Have you no sense of restraint!? 
  
 **Holmes:**
-That said, we are far from completely helpless. Ms. Kyrielight. {(M) Mr. /(F) Ms. } Fujimaru. 
+That said, we are far from completely helpless. Ms. Kyrielight. [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Holmes:**
 To begin, I've updated our database with everything I could determine about this creature. 
@@ -2934,7 +2934,7 @@ Da Vinci, I'd like you to start up the Border's engine the moment we step outsid
 You got it. But, make sure you buy us enough time for it to warm up, okay? 
  
 **Holmes:**
-I am well aware. Now then, shall we be on our way,Ms. Kyrielight and {(M) Mr. /(F) Ms. } Fujimaru? 
+I am well aware. Now then, shall we be on our way,Ms. Kyrielight and [♂ Mr. /♀ Ms. ] Fujimaru? 
  
 **Holmes:**
 Given that we are the only ones here capable of fighting,it must fall to us to greet any hostile or boorish guests. 
@@ -3283,7 +3283,7 @@ Make sure you don't hold anything back,or you might not be coming back at all. G
 ...I am well aware. I saw their Spirit Origin for myself earlier. 
  
 **Holmes:**
-If nothing else, I can promise this: I will keep {(M) Mr. /(F) Ms. } Fujimaru alive. 
+If nothing else, I can promise this: I will keep [♂ Mr. /♀ Ms. ] Fujimaru alive. 
  
 **Holmes:**
 In the meantime, Da Vinci, please focus on keeping yourself and the Border safe, and getting us up and running as quickly as possible. 
@@ -3636,7 +3636,7 @@ Look out! He's going to use Gram...!
 Die, human. 
  
 **Holmes:**
-Oh, no you don't! {(M) He /(F) She} may be human, but I'm a Heroic Spirit! One, I might add, who has seen more than his fair share of combat! 
+Oh, no you don't! [♂ He /♀ She] may be human, but I'm a Heroic Spirit! One, I might add, who has seen more than his fair share of combat! 
  
 **Holmes:**
 My apologies, but I can't have you using Gram so close to the Border! 
@@ -3710,7 +3710,7 @@ Emergency heal!
 
  
 **Mash:**
-Holmes!? Why did you stop {(M) him /(F) her}!? Please, stay still so Senpai can&ndash;
+Holmes!? Why did you stop [♂ him /♀ her]!? Please, stay still so Senpai can&ndash;
  
 **Holmes:**
 ...Don't. Please. Save as much of your magical energy as you can. 
@@ -3743,7 +3743,7 @@ That must be why he attacked us. Whatever it is he's after, we cannot let him ha
 This light...This is...your Noble Phantasm...
  
 **Holmes:**
-Precisely. As you are aware, it should provide both you and {(M) Mr. /(F) Ms. } Fujimaru with a significant boost in strength. 
+Precisely. As you are aware, it should provide both you and [♂ Mr. /♀ Ms. ] Fujimaru with a significant boost in strength. 
  
 **Holmes:**
 It may not be quite at full capacity, but it should still be rather potent for anyone attempting to fight in a desperate situation, such as yourselves. 
@@ -4204,7 +4204,7 @@ His sword swung through the air,slicing even the wind.
 ......
 ...There was no blood. 
 There was no spray from the neck. No gruesome sounds of meat being cleaved from bone. 
-Fujimaru's head remained attached to {(M) his /(F) her}shoulders. {(M) He /(F) She} was still alive. 
+Fujimaru's head remained attached to [♂ his /♀ her]shoulders. [♂ He /♀ She] was still alive. 
 If the tip of Sigurd's demonic sword had come even a hairsbreadth closer...Fujimaru's life would have ended. 
  
 But that didn't happen. 
@@ -4224,7 +4224,7 @@ A second passed, then two...and nothing changed.
 Fujimaru remained unharmed...
 ...and somehow still alive. 
 
-The red blade had stopped dead in its tracks,right before {(M) his /(F) her} eyes. 
+The red blade had stopped dead in its tracks,right before [♂ his /♀ her] eyes. 
  
 
 ---
@@ -6434,7 +6434,7 @@ Hello, Gerda. That's a lovely name you have. It has a wonderful Nordic ring to i
 Thanks! Hehe, I like the way it sounds too. 
  
 **Gerda:**
-It's very nice to meet you both, Ms. Black Armor, {(M) Mr. Black Hair /(F) Ms. Red Hair}. 
+It's very nice to meet you both, Ms. Black Armor, [♂ Mr. Black Hair /♀ Ms. Red Hair]. 
  
 **Gerda:**
 What are YOUR names? 
@@ -6457,10 +6457,10 @@ Fujimaru and Mash Kyrielight, huh. Got it!
 This girl in the armor is Mash Kyrielight. 
  
 **Mash:**
-Thank you, Master. And this nice {(M) boy /(F) girl} is Fujimaru. 
+Thank you, Master. And this nice [♂ boy /♀ girl] is Fujimaru. 
  
 **Mash:**
-{(M) He's /(F) She's} my senpai. 
+[♂ He's /♀ She's] my senpai. 
  
 **Gerda:**
 Senpai...? 
@@ -6837,7 +6837,7 @@ Maybe you can take us to your village once we've found the herbs?
 Hooray! I was hoping you might offer to help me! Ooh, does that mean you can read my mind? 
  
 **Gerda:**
-Even if you don't have any weapons of your own,{(M) Mr. Black Hair /(F) Ms. Red Hair}...
+Even if you don't have any weapons of your own,[♂ Mr. Black Hair /♀ Ms. Red Hair]...
  
 **Gerda:**
 ...you must be an envoy of the gods, too! 
@@ -8017,7 +8017,7 @@ There's...There's nobody over twenty-five?
 ......
  
 **Gerda:**
-U-um, Lady Mash? {(M) Lord /(F) Lady} Fujimaru? 
+U-um, Lady Mash? [♂ Lord /♀ Lady] Fujimaru? 
  
 **Gerda:**
 Mr. Chubby...? 
@@ -8606,7 +8606,7 @@ We still haven't found anywhere you could use to summon Servants, so I'm afraid 
 Fou, fooouuu...
  
 **Gerda:**
-Lady Mash! Fou! {(M) Lord /(F) Lady} Fujimaru! 
+Lady Mash! Fou! [♂ Lord /♀ Lady] Fujimaru! 
  
 **Gerda:**
 ...Huh? Were you just talking to a tiny person? 
@@ -9159,7 +9159,7 @@ Then, when Gerda said today was special...does that mean&ndash;
 Oh my, oh my, that's right. I haven't thanked you nearly enough! I haven't, have I? 
  
 **Gerda:**
-Lady Mash. {(M) Lord /(F) Lady} Fujimaru. Fou. 
+Lady Mash. [♂ Lord /♀ Lady] Fujimaru. Fou. 
  
 **Gerda:**
 If you hadn't saved me from those giants, they'd have squished me before I had a chance to get my own bouquet. 
@@ -9724,7 +9724,7 @@ Well, let's see...
 As long as someone out there's got their hopes up, or wishes things were different somehow, I'm the guy who makes all their dreams come true. 
  
 **Good Fellow:**
-I'm the guy who sees the stars shining bright in this young {(M) man /(F) lady} and {(M) his /(F) her} trusty partner as they fight against the fate of the world! 
+I'm the guy who sees the stars shining bright in this young [♂ man /♀ lady] and [♂ his /♀ her] trusty partner as they fight against the fate of the world! 
  
 **Good Fellow:**
 Go ahead and lead the way, kids from Proper Human History! My cannon's yours to command! 
@@ -12747,7 +12747,7 @@ Russia was nice and simple, but this Scandinavian Lostbelt's a real mess. It's w
 Don't worry, I'm not so uncouth as to do anything to ruin it. I'd say someone else has that covered. 
  
 **Caenis:**
-You win. No more killing unarmed brats. I'll let {(M) him /(F) her} off the hook for killing the Tsar. 
+You win. No more killing unarmed brats. I'll let [♂ him /♀ her] off the hook for killing the Tsar. 
  
 **Caenis:**
 Best to do this sort of thing in your own world,anyway. Ain't that right, sword boy? 
@@ -13260,7 +13260,7 @@ Are you sure?
 
  
 **Napoleon:**
-Haha, you're a good {(M) man /(F) woman}, Private! Did you forget about my sympathies for one of our enemies already? 
+Haha, you're a good [♂ man /♀ woman], Private! Did you forget about my sympathies for one of our enemies already? 
  
 **Napoleon:**
 I really don't like the idea of betraying anyone,but I also can't deny that I've fallen for her. 
@@ -13540,7 +13540,7 @@ Continue onward. Defeat it. See how far your power can take you...
 “You can rest now. ”
  
 **Sitonai:**
-“Please let {(M) him /(F) her} pass. ”
+“Please let [♂ him /♀ her] pass. ”
  
 **Gigantic Guard:**
 ![1-light](https://i.imgur.com/XAqlQYL.png)...
@@ -13663,7 +13663,7 @@ There you are, Private!
 Fou! Fou fou! 
  
 **Sitonai:**
-...I'm sorry. It's all my fault for forcing a connection with {(M) him /(F) her}. 
+...I'm sorry. It's all my fault for forcing a connection with [♂ him /♀ her]. 
  
 **Sitonai:**
 But it's okay. Your soul and self are all connected just fine now, so there's nothing to worry about. 
@@ -15468,7 +15468,7 @@ All right, I think that calls for another cannon blast! Taaaaaake THIS!
 Does that mean...the battle is over for now? 
  
 **Napoleon:**
-Nope, I'm afraid it's not gonna be that easy. There's still more of them, {(M) mes amis. /(F) mes amies. }
+Nope, I'm afraid it's not gonna be that easy. There's still more of them, [♂ mes amis. /♀ mes amies. ]
  
 **Napoleon:**
 It's still hard to make out magical energy here, but that's not the only unusual thing in the air. Can you smell it? 
@@ -16882,7 +16882,7 @@ Gerda!
 That voice! 
  
 **Gerda:**
-Lady Mash! {(M) Lord /(F) Lady} Fujimaru! And that man from the ordained day! 
+Lady Mash! [♂ Lord /♀ Lady] Fujimaru! And that man from the ordained day! 
  
 **Gerda:**
 This is amazing...And you have another envoy with you today, too? 
@@ -17047,7 +17047,7 @@ Fou, fooou.
 Oh, please don't worry about us, Gerda. Let me help you clean up. 
  
 **Gerda:**
-No, no, Lady Mash, you and {(M) Lord /(F) Lady} Fujimaru should relax. That's what guests are supposed to do. 
+No, no, Lady Mash, you and [♂ Lord /♀ Lady] Fujimaru should relax. That's what guests are supposed to do. 
  
 **Gerda:**
 I remember hearing that in one of our legends. You know, it's amazing...
@@ -17276,7 +17276,7 @@ There are other people out there besides the envoys.
 Which means...
  
 **Gerda:**
-...you and {(M) Lord /(F) Lady} Fujimaru aren't really envoys after all, are you? 
+...you and [♂ Lord /♀ Lady] Fujimaru aren't really envoys after all, are you? 
  
 **Mash:**
 ...I...
@@ -17429,7 +17429,7 @@ Got it!
 Is something wrong? Breakfast is almost ready...
  
 **Gerda:**
-Lady Mash, {(M) Lord /(F) Lady} Fujimaru...What's the matter? Did you catch a cold? 
+Lady Mash, [♂ Lord /♀ Lady] Fujimaru...What's the matter? Did you catch a cold? 
  
 **Napoleon:**
 Well now...
@@ -17700,7 +17700,7 @@ Your escape path was planned!?
 
  
 **Napoleon:**
-You got it, {(M) monsieur /(F) mademoiselle}! You'll see what your friends were up to very soon! 
+You got it, [♂ monsieur /♀ mademoiselle]! You'll see what your friends were up to very soon! 
  
 **Mash:**
 Giants! Those are from the group we broke through earlier...! 
@@ -21920,7 +21920,7 @@ I'll get my Mystic Code ready!
 
  
 **Holmes:**
-I strongly advise you keep your distance,{(M) Mr. /(F) Ms. } Fujimaru. Your Mystic Code may have been outfitted to accommodate Russia's extreme cold, but it is not nearly so effective against extreme heat. 
+I strongly advise you keep your distance,[♂ Mr. /♀ Ms. ] Fujimaru. Your Mystic Code may have been outfitted to accommodate Russia's extreme cold, but it is not nearly so effective against extreme heat. 
  
 **Holmes:**
 Make sure to remain where Ms. Kyrielight can protect you. 
@@ -22460,7 +22460,7 @@ No...No, you haven't...
 You protected me. If it hadn't been for you,Surtr's fiery sword would have killed me...
  
 **Brynhild:**
-You protected the shield-maiden, the emperor, and the {(M) boy /(F) girl} fighting to save humanity. You kept this world's hope alive. 
+You protected the shield-maiden, the emperor, and the [♂ boy /♀ girl] fighting to save humanity. You kept this world's hope alive. 
  
 **Sigurd:**
 Of course. 
@@ -22547,7 +22547,7 @@ There's nothing to worry about, everyone! So let's just all pray together!
 ......
  
 **Gerda:**
-(Lady Mash...{(M) Mr. /(F) Ms. } Fujimaru...Mr. Napoleon...Fou...)
+(Lady Mash...[♂ Mr. /♀ Ms. ] Fujimaru...Mr. Napoleon...Fou...)
  
 **Gerda:**
 (Wherever you are...I hope the giants haven't squished you...)
@@ -22673,7 +22673,7 @@ Hold up!
 E-excuse me! I'm sorry to interrupt,but may we ask you something, Holmes!? 
  
 **Holmes:**
-Yes, Ms. Kyrielight? {(M) Mr. /(F) Ms. } Fujimaru? 
+Yes, Ms. Kyrielight? [♂ Mr. /♀ Ms. ] Fujimaru? 
  
 ---
 
@@ -23293,7 +23293,7 @@ Once our task is done, it is our fate to disappear. Both Brynhild and I are well
 Let our bodies be your sword. Let our bodies be your strength. 
  
 **Sigurd:**
-{(M) Lord /(F) Lady} Fujimaru, we may not have forged official contracts with you. 
+[♂ Lord /♀ Lady] Fujimaru, we may not have forged official contracts with you. 
  
 **Sigurd:**
 But as our temporary Master, our blades are yours to wield for humanity as you see fit. 
@@ -25440,7 +25440,7 @@ Got it!
 It shall be done. 
  
 **Holmes:**
-...It's all up to you now, Ms. Kyrielight! {(M) Mr. /(F) Ms. } Fujimaru! 
+...It's all up to you now, Ms. Kyrielight! [♂ Mr. /♀ Ms. ] Fujimaru! 
  
 **Mash:**
 Ortinax, maximum output! Full functionality released! Readying bunker bolt for maximum output strikes! 
@@ -25520,7 +25520,7 @@ You will NOT!
 “You may have cut off my arm,but it's too late. ”
  
 **Surtr:**
-“I've already inscribed a death rune upon {(M) him /(F) her}...”
+“I've already inscribed a death rune upon [♂ him /♀ her]...”
  
 **Mash:**
 ...Senpai! 
@@ -25664,7 +25664,7 @@ Let's go.
 His death cries ring out. The Fiery King of Giants crumbles away under many watchful eyes. 
  
 **Narration:**
-One set belongs to the shield-bearing girl. Another, to the {(M) boy /(F) girl} with {(M) black /(F) red} hair. 
+One set belongs to the shield-bearing girl. Another, to the [♂ boy /♀ girl] with [♂ black /♀ red] hair. 
  
 **Narration:**
 Yet another belongs to the Dragon Slayer with the demonic sword. Another still, to the eldest Valkyrie. 
@@ -26055,7 +26055,7 @@ But don't worry. There's no way the giants are getting in here.
 Oh yes. I know that! 
  
 **Gerda:**
-You wouldn't happen to be friends with Lady Mash,{(M) Mr. /(F) Ms. } Fujimaru, Mr. Napoleon, and that beautiful envoy, would you? 
+You wouldn't happen to be friends with Lady Mash,[♂ Mr. /♀ Ms. ] Fujimaru, Mr. Napoleon, and that beautiful envoy, would you? 
  
 **Gerda:**
 If you are, that makes you my friend, too! 
@@ -26660,7 +26660,7 @@ And if the Goddess said so, it must be true.
 Still...
  
 **Gerda:**
-When I think about Lady Mash,and {(M) Mr. /(F) Ms. } Fujimaru, and Mr. Napoleon...
+When I think about Lady Mash,and [♂ Mr. /♀ Ms. ] Fujimaru, and Mr. Napoleon...
  
 **Gerda:**
 ...and the beautiful envoy...and Mr. Chub...and Fou...and how...
@@ -26967,7 +26967,7 @@ You should only fight those you know well, otherwise you risk your moral compass
 Of course, everyone has their own way of facing their responsibility. In Fujimaru's case...
  
 **Da Vinci:**
-...I'd say {(M) he's /(F) she's} the type to try and get to know {(M) his /(F) her} opponent as well as possible, so that {(M) he /(F) she} never forgets them. 
+...I'd say [♂ he's /♀ she's] the type to try and get to know [♂ his /♀ her] opponent as well as possible, so that [♂ he /♀ she] never forgets them. 
  
 **Meunière:**
 So pretending not to see them is actually even harder than facing them directly...or rather, the price of doing so is your own humanity, huh. 
@@ -27021,7 +27021,7 @@ What's going on here, Moony!? That felt like at least a ten-meter drop!
 
  
 **Goredolf:**
-Not now, {(M) boy /(F) girl}! Hurry up and sit down before another impact throws us for&ndash;
+Not now, [♂ boy /♀ girl]! Hurry up and sit down before another impact throws us for&ndash;
  
 ---
 

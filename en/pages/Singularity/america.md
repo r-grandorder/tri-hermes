@@ -4898,7 +4898,7 @@ What? Who has the nerve to hurl slander at an idol?
 Hey, I didn't ask to be summoned, okay!? I mean, who wouldn't want a wonderful world tour anyway! 
  
 **Elisabeth:**
-...Well, if it isn't the {(M) Puppy /(F) Deerlet} and Friends! 
+...Well, if it isn't the [♂ Puppy /♀ Deerlet] and Friends! 
  
 **Elisabeth:**
 Huh? Oh, the green mouse is also with you. What do you want? 
@@ -5133,7 +5133,7 @@ Oh, it's just an enemy? That's too bad. Let's finish this up quickly!
 **--BATTLE--**
  
 **Elisabeth:**
-I worked up a little sweat. My {(M) Puppy /(F) Deerlet}, give me something to wipe the sweat off. 
+I worked up a little sweat. My [♂ Puppy /♀ Deerlet], give me something to wipe the sweat off. 
  
 ---
 
@@ -8822,7 +8822,7 @@ Prisoners? Why? There's no use for them other than relieving my headache.
 Oh well, whatever. Anyway, just hold back a bit, that's all I'm asking. 
  
 **Elisabeth:**
-I don't really get it, but okay! Now, let's go, my little {(M) Puppy /(F) Deerlet}! 
+I don't really get it, but okay! Now, let's go, my little [♂ Puppy /♀ Deerlet]! 
  
 **--BATTLE--**
  
@@ -9665,7 +9665,7 @@ Don't worry. We're friends.
 Even that hysteric can't match me here. This is what I can call my own fortune. 
  
 **Edison:**
-...I also owe you an apology and my thanks,Fujimaru. And to all you Servants who support {(M) him /(F) her}. 
+...I also owe you an apology and my thanks,Fujimaru. And to all you Servants who support [♂ him /♀ her]. 
  
 **Edison:**
 Frankly, I still have no idea. I still don't know how to save the world, or how to defeat the Celts. 
@@ -9783,7 +9783,7 @@ We need to wait for death metal to be invented.
 
  
 **Elisabeth:**
-Right, if death metal was&ndash; What'd you just say, little {(M) Puppy /(F) Deerlet}!? 
+Right, if death metal was&ndash; What'd you just say, little [♂ Puppy /♀ Deerlet]!? 
  
 **Elisabeth:**
 Idols! My genre of choice is a cutesy pop idol song, you know? 
@@ -9967,7 +9967,7 @@ What, that's actually quite simple!
 Mmm? 
  
 **Elisabeth:**
-Come on, little {(M) Puppy /(F) Deerlet} over there! Don't just stand around, you pick the parties! 
+Come on, little [♂ Puppy /♀ Deerlet] over there! Don't just stand around, you pick the parties! 
  
 ---
 
@@ -10167,7 +10167,7 @@ I'll equip boosters on the mechanized infantry for the South Army so they can ke
 Hold the North with as few members as possible, and rush into Washington D. C. with the South Army. 
  
 **Elisabeth:**
-Wait a minute, {(M) Puppy /(F) Deerlet}! I want to get at him, too! 
+Wait a minute, [♂ Puppy /♀ Deerlet]! I want to get at him, too! 
  
 ---
 
@@ -11975,7 +11975,7 @@ How are they doing over there?
 Don't tell Old Man Edison. He'll probably sink into depression. 
  
 **Elisabeth:**
-I figured as much. Is the {(M) Puppy /(F) Deerlet} doing all right? 
+I figured as much. Is the [♂ Puppy /♀ Deerlet] doing all right? 
  
 **Robin Hood:**
 Yeah, they defeated Cú Chulainn, who then retreated. They're marching toward Washington with Rama and the others. 
@@ -12866,7 +12866,7 @@ Doctor, the Servants on the northern front!
 That's, you know...A major boss. 
  
 **Elisabeth:**
-Why would something like that appear here!? Is our {(M) Puppy /(F) Deerlet} okay!? 
+Why would something like that appear here!? Is our [♂ Puppy /♀ Deerlet] okay!? 
  
 **Robin Hood:**
 ...We've received a transmission. It seems they're fine. 
@@ -12926,7 +12926,7 @@ Well you see&mdash;Quit your whining!
 Aah, my ear!? 
  
 **Elisabeth:**
-It's true that we're in a pinch, in trouble, in a catastrophe! But that {(M) Puppy /(F) Deerlet} trusted us to do this! 
+It's true that we're in a pinch, in trouble, in a catastrophe! But that [♂ Puppy /♀ Deerlet] trusted us to do this! 
  
 **Elisabeth:**
 If we can hold out here, we win! If we give up now, the front will collapse, right!? 
@@ -13291,7 +13291,7 @@ Edison...You mustn't...
 Farewell, my friends. Trust in Fujimaru. 
  
 **Edison:**
-I'm sure {(M) he /(F) she} will surely lead you to victory&ndash;
+I'm sure [♂ he /♀ she] will surely lead you to victory&ndash;
  
 **Blavatsky:**
 Edison! 
@@ -13814,7 +13814,7 @@ It seems difficult to be a genius.
 There are things unthinkable in our lifetimes. That's just what it means to be a Servant, Mr. Ordinary. 
  
 **Edison:**
-&ndash;Hah. I will be summoned again, and this time&ndash;I will fight for {(M) his /(F) her} sake. 
+&ndash;Hah. I will be summoned again, and this time&ndash;I will fight for [♂ his /♀ her] sake. 
  
 **Edison:**
 This time as a proper Servant...along with Karna and Blavatsky. 
@@ -13864,7 +13864,7 @@ Thank you.
 While gratitude is unnecessary, I'll accept it respectfully. However, in exchange...
  
 **Nightingale:**
-Please, allow me to shake your hand, {(M) Mr. /(F) Ms. } Fujimaru. 
+Please, allow me to shake your hand, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Nightingale:**
 My secret pleasure was to shake a patient's hand like this when they were discharged from hospital. 

@@ -1052,7 +1052,7 @@ I've prepared the briefing regarding our current plan. New Director Gordolf, if 
 Umm, as long as the Storm Border keeps away from the island, there's only one policy. 
 
 **Goredolf:**
-Fujimaru makes landfall secretly on the Island of Britain with Mash Kyrielight as {(M) his /(F) her} escort. 
+Fujimaru makes landfall secretly on the Island of Britain with Mash Kyrielight as [♂ his /♀ her] escort. 
 
 **Goredolf:**
 While investigating the area, they will look for the cause of the Collapse observed in Novum Chaldea. 
@@ -1381,7 +1381,7 @@ So, the summon was possible because...or, could the land itself have sought reli
 Or maybe, Fujimaru, anxious about stepping into an unknown land...
 
 **Da Vinci:**
-{(M) He /(F) She} subconsciously wished for someone to be summoned, or something. 
+[♂ He /♀ She] subconsciously wished for someone to be summoned, or something. 
 
 **Da Vinci:**
 Either way, it's reassuring that we have Sir Tristan with us. At the same time, it gives me hope! 
@@ -1678,13 +1678,13 @@ Huh? Because I've been taking it a little too easy? Come on, cut me some slack h
 After all, this is the first time we've met. It's important to have good manners and make a good first impression. 
 
 **B：???:**
-But, I wonder if {(M) he /(F) she} was also at fault here? 
+But, I wonder if [♂ he /♀ she] was also at fault here? 
 
 **B：???:**
 After all, entering the Nameless Forest without a talisman is tantamount to suicide. 
 
 **B：???:**
-{(M) He /(F) She}'s a Master of Chaldea. {(M) He /(F) She}'s awfully brave, don't you think, Blanca? 
+[♂ He /♀ She]'s a Master of Chaldea. [♂ He /♀ She]'s awfully brave, don't you think, Blanca? 
 
 **Moth on ???'s Arm:**
 &mdash;
@@ -1696,7 +1696,7 @@ Do I trust strangers? Yes, I do. I would trust this one with all my heart.
 Well, I was a little bit skeptical until I saw them in person, but...
 
 **B：???:**
-I understand {(M) him /(F) her}. {(M) He /(F) She}'s genuine. Serious about saving the world, with such unrivaled passion. 
+I understand [♂ him /♀ her]. [♂ He /♀ She]'s genuine. Serious about saving the world, with such unrivaled passion. 
 
 **B：???:**
 &mdash;Ahh, it was worth having faith and waiting for so long. 
@@ -1784,18 +1784,18 @@ I see. Mash, huh. It's an original, but short and sweet name.
 But, if you know my name, then you and I must have been friends, after all! 
 
 **Mash:**
-Good morning, {(M) Lysander /(F) Hermia}. Do you know where we are? 
+Good morning, [♂ Lysander /♀ Hermia]. Do you know where we are? 
 
 ---
 
 **Fujimaru 1:**
-Where are we...? {(M) Lysander /(F) Hermia}...? 
+Where are we...? [♂ Lysander /♀ Hermia]...? 
 
 
 ---
 
 **Mash:**
-Uh...you're {(M) Lysander /(F) Hermia}, right? It says so on your name tag. 
+Uh...you're [♂ Lysander /♀ Hermia], right? It says so on your name tag. 
 
 **Mash:**
 I heard that we collapsed in the “Nameless Forest”. Do you know anything about it? 
@@ -1821,7 +1821,7 @@ It's like if everyone ordered ginger ale, but I was the only one to get salt wat
 ---
 
 **Fujimaru 1:**
-{(M) Lysander...Lysander? /(F) Hermia...Hermia? }
+[♂ Lysander...Lysander? /♀ Hermia...Hermia? ]
 
 ---
 
@@ -1832,22 +1832,22 @@ It's like if everyone ordered ginger ale, but I was the only one to get salt wat
 ---
 
 **Mash:**
-{(M) Lysander /(F) Hermia? } What's the matter, is something on your mind? 
+[♂ Lysander /♀ Hermia? ] What's the matter, is something on your mind? 
 
 **Mash:**
 Ah! Did you hit your head in the woods, by any chance? Is there serious damage to your skull!? 
 
 **B：???:**
-No, that's not it. Perhaps, {(M) he /(F) she} doesn't know who {(M) he /(F) she} is...
+No, that's not it. Perhaps, [♂ he /♀ she] doesn't know who [♂ he /♀ she] is...
 
 **B：???:**
-I very much doubt {(M) he /(F) she} can remember a single thing about you, about {(M) him /(F) her}self, about this place...
+I very much doubt [♂ he /♀ she] can remember a single thing about you, about [♂ him /♀ her]self, about this place...
 
 **B：???:**
 After all, I am the same...
 
 **B：???:**
-All I remember, is that I was {(M) his /(F) her} follower...
+All I remember, is that I was [♂ his /♀ her] follower...
 
 **B：???:**
 “I will defend my Lord even if it costs me my life”...that is the only thought that still keeps me standing. 
@@ -1878,7 +1878,7 @@ It's true. I can't read it properly!
 ---
 
 **Tristram:**
-Yes. So, you are {(M) Lysander /(F) Hermia}. I'm Tristram. She's Mash. 
+Yes. So, you are [♂ Lysander /♀ Hermia]. I'm Tristram. She's Mash. 
 
 **Tristram:**
 Aha. Naturally, we are three travelling companions in distress together! 
@@ -1961,7 +1961,7 @@ Um...everybody wants me to come get all of you.
 Look, it's going to get dark soon so...before then, okay? 
 
 **Tristram:**
-(...{(M) Lysander /(F) Hermia}. Have you met her before? )
+(...[♂ Lysander /♀ Hermia]. Have you met her before? )
 
 ---
 
@@ -2198,7 +2198,7 @@ What about you, Tristram? Do you know anything about the Fairy Kingdom?
 ...
 
 **Mash:**
-The same as {(M) Lysander /(F) Hermia}, I see. Then let me teach you two. 
+The same as [♂ Lysander /♀ Hermia], I see. Then let me teach you two. 
 
 **Mash:**
 I don't know anything major, but I've been taught the basics&mdash;
@@ -2213,7 +2213,7 @@ I know how you feel, I know. But unfortunately, it's getting dark. Let's pick th
 The fun times are short, huh? I guess that's it. Everyone, let's get back to our roofs. 
 
 **Doga:**
-See you later, {(M) Lysander /(F) Hermia}, Mash! You too, tight-lipped Tristram! 
+See you later, [♂ Lysander /♀ Hermia], Mash! You too, tight-lipped Tristram! 
 
 **Doga:**
 That roof is all yours! Keep yourselves hidden until morning! 
@@ -2340,7 +2340,7 @@ Then what about the "King's Clan? "
 ---
 
 **Mash:**
-&mdash;Mrgh. Do you really want to hear about them, {(M) Lyse /(F) Herm}? 
+&mdash;Mrgh. Do you really want to hear about them, [♂ Lyse /♀ Herm]? 
 
 **Mash:**
 The King's Clan are a bunch of good-for-nothings! The cause of all discord, division, and conflict in Britain! 
@@ -2493,7 +2493,7 @@ Let's see, is this the light? Oh wow, it's a glass lamp!
 Could it be that someone from the Earth Clan in Norwich washed up here? I'll try and talk to them tomorrow! 
 
 **Mash:**
-Well, good night, {(M) Lysander /(F) Hermia}, Tristram. 
+Well, good night, [♂ Lysander /♀ Hermia], Tristram. 
 
 **Mash:**
 I was concerned what would happen when you woke up, but thankfully you're both so honest and friendly! 
@@ -2519,7 +2519,7 @@ Ma? Why did you cut off the name?
 That's&mdash;I see. I'm sure it was a very important name to you. 
 
 **Mash:**
-It happens, {(M) Lysander /(F) Hermia}. Well, good night. 
+It happens, [♂ Lysander /♀ Hermia]. Well, good night. 
 
 
 ---
@@ -2595,19 +2595,19 @@ I think everyone came to this forest because they just wanted everything to end.
 That's...
 
 **Doga:**
-Oh hey, {(M) Lysander /(F) Hermia}! Last night was great! 
+Oh hey, [♂ Lysander /♀ Hermia]! Last night was great! 
 
 **Doga:**
 I like you, you seem like you enjoy good food! I'll get you some more today, alright? 
 
 **Halobaromia:**
-Good day to you, {(M) Lysander /(F) Hermia}. There is life in your voice. It is like a spring breeze. 
+Good day to you, [♂ Lysander /♀ Hermia]. There is life in your voice. It is like a spring breeze. 
 
 **Halobaromia:**
 How about a verse today as well? I too will pick up the lyre for the first time in some time. 
 
 **Onfam:**
-{(M) Lysander /(F) Hermia}. If your clothes get torn, come see me. 
+[♂ Lysander /♀ Hermia]. If your clothes get torn, come see me. 
 
 **Onfam:**
 I've still got some Norwich-made cloth left over. It'll look great if you wear it! 
@@ -2616,7 +2616,7 @@ I've still got some Norwich-made cloth left over. It'll look great if you wear i
 (※Facial expression saying, “What's with this difference in treatment? ”)
 
 **Mash:**
-Y-you're popular, {(M) Lysander /(F) Hermia}. I'm almost in the same boat as you, but...haha...
+Y-you're popular, [♂ Lysander /♀ Hermia]. I'm almost in the same boat as you, but...haha...
 
 **Mash:**
 I guess it's that...dignity you exude? I wonder...I'm indifferent to stuff like that...
@@ -2625,7 +2625,7 @@ I guess it's that...dignity you exude? I wonder...I'm indifferent to stuff like 
 Is that so? I think you're wonderful too, Mash. 
 
 **???:**
-{(M) Lysander /(F) Hermia} has an air of freshness about {(M) him /(F) her}, and brings a positive atmosphere just by being here. 
+[♂ Lysander /♀ Hermia] has an air of freshness about [♂ him /♀ her], and brings a positive atmosphere just by being here. 
 
 **???:**
 Mash's aura feels warm and bright. 
@@ -2673,7 +2673,7 @@ Huh? Mash, do you and the others want to leave the forest?
 No? Not at all? For some reason I just considered it. 
 
 **Mash:**
-Isn't that right, {(M) Lysander /(F) Hermia}? After all, we came into the Nameless Forest willingly. 
+Isn't that right, [♂ Lysander /♀ Hermia]? After all, we came into the Nameless Forest willingly. 
 
 ---
 
@@ -2707,7 +2707,7 @@ As long as nobody scolds me, I will stand by you all.
 Well...at any rate, I have a grasp of the topography of this village. 
 
 **Mash:**
-Now that there are no more fairies accompanying us, let's get to it, {(M) Lysander /(F) Hermia}. 
+Now that there are no more fairies accompanying us, let's get to it, [♂ Lysander /♀ Hermia]. 
 
 ---
 
@@ -2751,7 +2751,7 @@ No no no, it's my fault...!
 It wasn't necessary for you to learn combat skills...meaning, you never had to fight yourself...
 
 **Mash:**
-{(M) Lysander /(F) Hermia}, could you be the {(M) son /(F) daughter} of a clan head...!? H-how could I have been so careless...!? 
+[♂ Lysander /♀ Hermia], could you be the [♂ son /♀ daughter] of a clan head...!? H-how could I have been so careless...!? 
 
 **Mash:**
 I'm sorry, I'm sorry, how rude of me...! 
@@ -2774,7 +2774,7 @@ Sorry I couldn't fight before...
 ---
 
 **Tristram:**
-I hope you do not mind, {(M) Lysander /(F) Hermia}. On the contrary, I am quite convinced. 
+I hope you do not mind, [♂ Lysander /♀ Hermia]. On the contrary, I am quite convinced. 
 
 **Tristram:**
 I cannot think of the reason, but I am convinced you are capable. 
@@ -2797,7 +2797,7 @@ Thank you, Isolde's lover...
 ---
 
 **Tristram:**
-Heh&mdash;it's Tristram, {(M) Lysander /(F) Hermia}. 
+Heh&mdash;it's Tristram, [♂ Lysander /♀ Hermia]. 
 
 **Mash:**
 &mdash;. 
@@ -2861,7 +2861,7 @@ That is, if they don't drink too much...
 There are fairies among them who get really drunk. I wonder if it's the atmosphere that does it? 
 
 **Onfam:**
-What, you're not going to eat any more, {(M) Lysander /(F) Hermia}? You just got here, no need to hold back. 
+What, you're not going to eat any more, [♂ Lysander /♀ Hermia]? You just got here, no need to hold back. 
 
 **Onfam:**
 Or was it such a painful journey? Hm? Your right hand...
@@ -2873,7 +2873,7 @@ They look odd, but are those Command Spells? To have three drawn on you...damn.
 Just forget it. There's nobody here who will force you to do anything. 
 
 **Onfam:**
-You've done your best up till now. You're a great {(M) fella /(F) gal} despite being so scrawny. 
+You've done your best up till now. You're a great [♂ fella /♀ gal] despite being so scrawny. 
 
 ---
 
@@ -2919,7 +2919,7 @@ The Wind Clan must get back before anyone else! As the most beautiful of the cla
 What!? You sure get cranky when you're drunk, Halobaromia! 
 
 **Doga:**
-We'll be prepared at tomorrow's feast! See you, {(M) Lysander /(F) Hermia}! 
+We'll be prepared at tomorrow's feast! See you, [♂ Lysander /♀ Hermia]! 
 
 **Doga:**
 Tomorrow, I'll show you to our playground! It's fun to play ball! 
@@ -2948,7 +2948,7 @@ Goodness...listening to the sounds and reading the winds at all hours...how much
 Well, I may fall out of the habit eventually. It seems there is no need for us to fight here. 
 
 **Tristram:**
-Come, {(M) Lysander /(F) Hermia}, Mash. We shall return to our tent as well. 
+Come, [♂ Lysander /♀ Hermia], Mash. We shall return to our tent as well. 
 
 **Voices from the Square:**
 Hey, you over there! There's a tomorrow as well, make sure you clean up! 
@@ -2974,7 +2974,7 @@ Wait. That voice just now...
 ---
 
 **Mash:**
-No, let's go back to the tent, {(M) Lysander /(F) Hermia}. We're all still outsiders. 
+No, let's go back to the tent, [♂ Lysander /♀ Hermia]. We're all still outsiders. 
 
 **Mash:**
 I think we should wait and see a bit if we want to interfere in their affairs. 
@@ -3049,19 +3049,19 @@ You're right. Let's go.
 **--ARROW--**
 
 **Tristram:**
-Good morning, {(M) Lysander /(F) Hermia}. I slept well last night...wait...
+Good morning, [♂ Lysander /♀ Hermia]. I slept well last night...wait...
 
 **Tristram:**
 Something doesn't feel right...what I said didn't feel sincere...
 
 **Tristram:**
-{(M) Lysander /(F) Hermia}...{(M) Lysander /(F) Hermia}...don't you think that doesn't sound quite right? 
+[♂ Lysander /♀ Hermia]...[♂ Lysander /♀ Hermia]...don't you think that doesn't sound quite right? 
 
 **Voices from the Square:**
 You still haven't cleaned up! You're slacking off again, you useless wretch! 
 
 **Mash:**
-Someone is yelling in the square. Shall we go and see what's going on, {(M) Lysander /(F) Hermia}? 
+Someone is yelling in the square. Shall we go and see what's going on, [♂ Lysander /♀ Hermia]? 
 
 ---
 
@@ -3082,7 +3082,7 @@ Note! Scene Change
 Of all the cheek! I don't think we'll be able to have a feast tonight. 
 
 **Doga:**
-Hey. Why haven't you been doing anything? Do you hate {(M) Lysander /(F) Hermia}? 
+Hey. Why haven't you been doing anything? Do you hate [♂ Lysander /♀ Hermia]? 
 
 **???:**
 Oh no...no, not at all...it's just...
@@ -3106,7 +3106,7 @@ You can be on your way now. Get out of here. You're an eyesore, so stay away fro
 Oh&mdash;thank you for your understanding! Please call on me again! 
 
 **Doga:**
-Oh. Yo, {(M) Lysander /(F) Hermia}! Yesterday was a lot of fun! 
+Oh. Yo, [♂ Lysander /♀ Hermia]! Yesterday was a lot of fun! 
 
 ---
 
@@ -3140,7 +3140,7 @@ Oh, that's right. She was here from the beginning, wasn't she?
 Well, regardless of the fog, you're done for if you can't even remember your own name. 
 
 **Doga:**
-{(M) Lysander /(F) Hermia}, if I were you, I'd be minding my own business. You don't want to catch the “nameless” disease, do you? 
+[♂ Lysander /♀ Hermia], if I were you, I'd be minding my own business. You don't want to catch the “nameless” disease, do you? 
 
 **Tristram:**
 Nameless...you think she has no name? Is that why you treated her the way you did? 
@@ -3167,13 +3167,13 @@ Even the beasts of the forest aren't interested in nameless meat!
 &mdash;
 
 **Doga:**
-That's enough boring chit-chat. Let's go, {(M) Lysander /(F) Hermia}! 
+That's enough boring chit-chat. Let's go, [♂ Lysander /♀ Hermia]! 
 
 **Doga:**
 I told ya, we're playing football at noon. The playground awaits! 
 
 **Tristram:**
-What do we do now, {(M) Lysander /(F) Hermia}? They headed for the playground, but...
+What do we do now, [♂ Lysander /♀ Hermia]? They headed for the playground, but...
 
 ---
 
@@ -3216,7 +3216,7 @@ It must be. Fairies who have lost their names are hated by other fairies.
 The fairies here were generous enough to let us into their village...
 
 **Mash:**
-I know what you're thinking, {(M) Lysander /(F) Hermia}. But we can't. 
+I know what you're thinking, [♂ Lysander /♀ Hermia]. But we can't. 
 
 **Mash:**
 If we invite her to our tent, the other fairies will cause a ruckus. 
@@ -3253,7 +3253,7 @@ Huh? You want to hold hands?
 Hah...joining hands, a show of trust and gratitude...a custom I've never heard of before...
 
 **Mash:**
-What a wonderful thing! I think I like this, {(M) Lysander /(F) Hermia}! 
+What a wonderful thing! I think I like this, [♂ Lysander /♀ Hermia]! 
 
 **Mash:**
 ...! 
@@ -3321,7 +3321,7 @@ Huh? Oh my, could it be...
 Did you do that for me? 
 
 **Mash:**
-Yes. {(M) Lysander /(F) Hermia} wasn't against it, so I came to check on you. 
+Yes. [♂ Lysander /♀ Hermia] wasn't against it, so I came to check on you. 
 
 **Mash:**
 You were attacked by those beasts. Are you injured? 
@@ -3384,7 +3384,7 @@ Really!?
 I wonder...what if I gave you the flowers I picked this morning...? 
 
 **Mash:**
-{(M) Lysander /(F) Hermia}, Tristram. 
+[♂ Lysander /♀ Hermia], Tristram. 
 
 **Mash:**
 I'll put up a barrier to keep the beasts out. It will take some time, so you two should return to the village. 
@@ -3393,13 +3393,13 @@ I'll put up a barrier to keep the beasts out. It will take some time, so you two
 Hmm? In that case, we should stay behind. We can't be sure that the beasts won't return. 
 
 **Tristram:**
-If you're putting up a barrier, {(M) Lysander /(F) Hermia} and I can protect you until you are finished. 
+If you're putting up a barrier, [♂ Lysander /♀ Hermia] and I can protect you until you are finished. 
 
 **Mash:**
 It's okay, I'm strong enough to fight another one of those beasts. 
 
 **Tristram:**
-I see...what do you think, {(M) Lysander /(F) Hermia}? 
+I see...what do you think, [♂ Lysander /♀ Hermia]? 
 
 ---
 
@@ -3612,7 +3612,7 @@ With no feast last night, I'm very hungry...
 Hm? Something wrong with your stomach? 
 
 **Halobaromia:**
-Oh, good morning, {(M) Lysander /(F) Hermia}. I'm sorry to have made you feel lonely last night. 
+Oh, good morning, [♂ Lysander /♀ Hermia]. I'm sorry to have made you feel lonely last night. 
 
 **Halobaromia:**
 I'll be able to prepare the festival properly today, so please look forward to it. 
@@ -3654,13 +3654,13 @@ Um, Halobaromia?
 ---
 
 **Halobaromia:**
-Everybody! A human being! {(M) Lysander /(F) Hermia} is human! An unregistered human!! 
+Everybody! A human being! [♂ Lysander /♀ Hermia] is human! An unregistered human!! 
 
 **I：Fairies:**
 Huh!? What rubbish are you spouting this early in the morning? There's no way in hell a human would be in this neck of the woods&mdash;
 
 **Halobaromia:**
-I'm sure of it! {(M) His /(F) Her} wings aren't torn off. They're simply not there to begin with! 
+I'm sure of it! [♂ His /♀ Her] wings aren't torn off. They're simply not there to begin with! 
 
 **Halobaromia:**
 Everyone, gather round, quickly! If they get out into the woods, we're in deep trouble! 
@@ -3669,13 +3669,13 @@ Everyone, gather round, quickly! If they get out into the woods, we're in deep t
 Oh, my God! If only I'd realized sooner...! 
 
 **Halobaromia:**
-I apologize, {(M) Lysander /(F) Hermia}! We've shown you such poor hospitality! 
+I apologize, [♂ Lysander /♀ Hermia]! We've shown you such poor hospitality! 
 
 **Halobaromia:**
 We need to throw the most exquisite, fun welcome party we've ever had! Oh, what a great day this is! 
 
 **J：Fairies:**
-Let's see, let's see! Wow, it's true! {(M) Lysander /(F) Hermia} is actually human!? 
+Let's see, let's see! Wow, it's true! [♂ Lysander /♀ Hermia] is actually human!? 
 
 **I：Fairies:**
 You're human, a human! No wonder we feel so much better when we're with you! 
@@ -3697,7 +3697,7 @@ Huh...huh!?
 ---
 
 **Mash:**
-Damn it! That's right, {(M) Lysander /(F) Hermia}, if you say that you're hungry...! 
+Damn it! That's right, [♂ Lysander /♀ Hermia], if you say that you're hungry...! 
 
 **Mash:**
 Oh no! The secret is out! 
@@ -3712,7 +3712,7 @@ Then what about that harpist dude? Is he a human? No, he's a fairy!
 He hasn't eaten anything! Well whatever, it's a pain, so we'll put them together! 
 
 **Halobaromia:**
-{(M) Lysander /(F) Hermia}, Mash, Tristram! Please, you must move to the best place in the village! 
+[♂ Lysander /♀ Hermia], Mash, Tristram! Please, you must move to the best place in the village! 
 
 **Halobaromia:**
 In the center of the village, in the square, in the tent! Oh, this is exciting! 
@@ -3724,7 +3724,7 @@ So...
 Half a day has passed since we were forced into this tent, without knowing why...
 
 **Tristram:**
-Every hour, what can be called nothing less than a feast is brought to us...{(M) Lysander /(F) Hermia}, is it good? 
+Every hour, what can be called nothing less than a feast is brought to us...[♂ Lysander /♀ Hermia], is it good? 
 
 ---
 
@@ -3749,7 +3749,7 @@ This is less of a welcome and more of what you would call “house arrest”. No
 Mash. Do you know why this is happening to us? 
 
 **Mash:**
-It's because...{(M) Lysander /(F) Hermia} is really a human. 
+It's because...[♂ Lysander /♀ Hermia] is really a human. 
 
 **Mash:**
 I saw the way you were indulging yourself in those delicious fruits, but...
@@ -3780,7 +3780,7 @@ I think I'm a fairy...but I've also been told I'm a bit like a human...
 More importantly, this is the situation we're in. 
 
 **Mash:**
-{(M) Lysander /(F) Hermia} is being overindulged at the moment, and this is only going to get worse. 
+[♂ Lysander /♀ Hermia] is being overindulged at the moment, and this is only going to get worse. 
 
 **Tristram:**
 Much worse. 
@@ -3801,7 +3801,7 @@ Humans are not assigned to lower class fairies.
 The fairies that have drifted into this village are, after all, those that have fallen out due to the lack of humans. 
 
 **Mash:**
-So, you know...they'll take care of {(M) Lysander /(F) Hermia} either way. 
+So, you know...they'll take care of [♂ Lysander /♀ Hermia] either way. 
 
 **Mash:**
 But...
@@ -3837,7 +3837,7 @@ But there are only two of them, right? How come Halobaromia gets to call the sho
 We're not all gonna have a chance. I'll never get my turn. 
 
 **Fairies:**
-That's right. Then we'll tear {(M) him /(F) her} apart and share {(M) him /(F) her} with everyone! 
+That's right. Then we'll tear [♂ him /♀ her] apart and share [♂ him /♀ her] with everyone! 
 
 **Fairies:**
 Dibs on the left eye! You can have the right! 
@@ -3852,7 +3852,7 @@ We did it! Now it's all divided equally!
 Oy, what the hell are you guys doing? It's not your turn yet. Get back on the roof. 
 
 **Doga:**
-Don't you dare do anything crazy to {(M) Lysander /(F) Hermia}. He's a great shot. 
+Don't you dare do anything crazy to [♂ Lysander /♀ Hermia]. He's a great shot. 
 
 **Doga:**
 He hits the ball with his head, man. With his head! I've never seen anything like that! 
@@ -3958,7 +3958,7 @@ Onfam&mdash;
 ---
 
 **Fairy Girl:**
-Stop, {(M) Lysander /(F) Hermia}. They're not what they used to be. 
+Stop, [♂ Lysander /♀ Hermia]. They're not what they used to be. 
 
 **Fairy Girl:**
 They're drunk on blood and turning increasingly more and more violent. 
@@ -4141,7 +4141,7 @@ Aaah...I don't...want...!
 AAAAAAAAAAA. . ! 
 
 **Mash:**
-Be ready, Tristram, {(M) Lysander /(F) Hermia}. She...is no longer a fairy. 
+Be ready, Tristram, [♂ Lysander /♀ Hermia]. She...is no longer a fairy. 
 
 **Mash:**
 That's a Mors...life that can no longer speak or hear. 
@@ -5656,7 +5656,7 @@ Without a “master” being present, we'll end up with a repeat of what happene
 I'm a prince, as you can see, so...
 
 **Oberon:**
-Having a {(M) boy /(F) girl} of unknown origin as my squire, something like that isn't going to convince many. 
+Having a [♂ boy /♀ girl] of unknown origin as my squire, something like that isn't going to convince many. 
 
 **Oberon:**
 You're a much better match for Fujimaru. 
@@ -5686,7 +5686,7 @@ B-but, but only high-class fairies can take humans as servants, and...if I'm one
 If I become Fujimaru's master&mdash;
 
 **Oberon:**
-It's just for appearances' sake. Would you prefer {(M) him /(F) her} to be your pet? 
+It's just for appearances' sake. Would you prefer [♂ him /♀ her] to be your pet? 
 
 **Artoria:**
 T-t-t-t-that's disrespectful! I-I-I-I-I'm not ready for something like that! 
@@ -6009,7 +6009,7 @@ So, Fujimaru, can you tell us what you've been up to so far?
 I see...so that's what happened in the woods. In any case, I'm glad you two are alright. 
 
 **Da Vinci:**
-Thanks for guarding {(M) him /(F) her}, Tristan. You too, Oberon and Artoria. 
+Thanks for guarding [♂ him /♀ her], Tristan. You too, Oberon and Artoria. 
 
 **Da Vinci:**
 “We still don't know much about Britain. ” “We don't know where Mash is. ”
@@ -7247,7 +7247,7 @@ It has been so many years since a human has spoken to me so freely!
 What is your name, my dear? Could you be a free citizen? What is your pedigree&mdash;ah. 
 
 **Aurora:**
-My apologies, {(M) he /(F) she} is your squire. How impolite of me. 
+My apologies, [♂ he /♀ she] is your squire. How impolite of me. 
 
 **Oberon:**
 Aurora. You really ought to work on your bad habit of rushing to protect every weak human you see. 
@@ -7262,16 +7262,16 @@ The faction of the Wind Clan that's for coexistence is really only you, isn't it
 You are right, but...
 
 **Aurora:**
-I...I just couldn't deny {(M) his /(F) her} puppy-dog eyes...you know? 
+I...I just couldn't deny [♂ his /♀ her] puppy-dog eyes...you know? 
 
 **Oberon:**
-Good grief. Well, that's the reason I brought {(M) him /(F) her} here in the first place. 
+Good grief. Well, that's the reason I brought [♂ him /♀ her] here in the first place. 
 
 **Oberon:**
 I told you before about the world of pan-human history, and the group calling themselves Chaldea. 
 
 **Oberon:**
-{(M) He /(F) She}'s a Master from Chaldea. The two back there aren't fairies, but Servants. 
+[♂ He /♀ She]'s a Master from Chaldea. The two back there aren't fairies, but Servants. 
 
 **Da Vinci:**
 &mdash;Oberon. 
@@ -7298,10 +7298,10 @@ I saw the hope in your eyes when I told you about the outside world before.
 Fujimaru came here to defeat Morgan. 
 
 **Oberon:**
-{(M) He /(F) She} doesn't care about what comes afterwards. {(M) He /(F) She} isn't interested in ruling in place of Morgan. 
+[♂ He /♀ She] doesn't care about what comes afterwards. [♂ He /♀ She] isn't interested in ruling in place of Morgan. 
 
 **Oberon:**
-And after {(M) he /(F) she} leaves, whether or not Britain falls into ruin will be up to its people. 
+And after [♂ he /♀ she] leaves, whether or not Britain falls into ruin will be up to its people. 
 
 **Oberon:**
 Chaldea won't care about your efforts to save a collapsing Britain. 
@@ -7313,7 +7313,7 @@ They won't stand in your way. From the beginning, their only objective has been 
 So it seems...
 
 **Aurora:**
-The young lady behind you has a grave look upon her face, but that {(M) child /(F) girl} does not deny your words. 
+The young lady behind you has a grave look upon her face, but that [♂ child /♀ girl] does not deny your words. 
 
 **Aurora:**
 Travellers from a world different than ours...a properly advanced Britain...
@@ -9732,7 +9732,7 @@ They've become nothing more than this land's livestock. Such frail meat barely s
 There is no need to give me your name. I have no interest in such things. 
 
 **Fairy Knight Gawain:**
-Her Majesty already told me. {(M) Boy /(F) Girl}, you're the Master from pan-human history, aren't you? 
+Her Majesty already told me. [♂ Boy /♀ Girl], you're the Master from pan-human history, aren't you? 
 
 **Da Vinci:**
 ! 
@@ -13334,7 +13334,7 @@ I'd been looking forward to meeting someone from pan-human history, aside from B
 These Fairy Eyes of mine may have declined, but I can still see some “color. ”
 
 **Muryan:**
-Fujimaru, right? Just as I thought, a fine young {(M) man /(F) woman}! 
+Fujimaru, right? Just as I thought, a fine young [♂ man /♀ woman]! 
 
 **Muryan:**
 If every human from the outside world was like Beryl, I'd be killing them all in a fit of rage,
@@ -13826,7 +13826,7 @@ We're going to cooperate with them anyway, so can you not be cordial?
 Oops, there goes my mouth again. If that is what the client desires, so be it. 
 
 **Koyanskaya:**
-That's how it is, {(M) Mr. /(F) Ms. } Fujimaru, and da Vinci. 
+That's how it is, [♂ Mr. /♀ Ms. ] Fujimaru, and da Vinci. 
 
 **Koyanskaya:**
 We've been through a lot, but here in Britain, we will be fellow members of pan-human history. 
@@ -13891,7 +13891,7 @@ Yes, indeed.
 Master Gordolf's mercenary forces were all but annihilated. Chaldea's main base was overrun, and all the staff's lives were...put on ice, shall we say? 
 
 **Koyanskaya:**
-No wonder {(M) he /(F) she} despises my guts enough to want me dead. It's not surprising...
+No wonder [♂ he /♀ she] despises my guts enough to want me dead. It's not surprising...
 
 **Koyanskaya:**
 Who's that Oberon Servant? He doesn't seem to be from the Fairy Kingdom, but...
@@ -16220,7 +16220,7 @@ To force a sale of something so useless on you...she's a real piece of work, she
 Garbage disposal...? 
 
 **The Seventh Fairy:**
-Eh? Don't you know, {(M) son /(F) girl}? Ah, fresh off the farms, are you? 
+Eh? Don't you know, [♂ son /♀ girl]? Ah, fresh off the farms, are you? 
 
 
 ---
@@ -17332,7 +17332,7 @@ Well, that's it from me. I'll see you again tomorrow night, I don't want to be l
 ---
 
 **Fujimaru 1:**
-{(M) Wait up. /(F) Wait. }
+[♂ Wait up. /♀ Wait. ]
 
 
 ---
@@ -20299,7 +20299,7 @@ It's Fujimaru who would be in danger.
 In most cases, it's strictly forbidden for non-military personnel to go outside the city. 
 
 **Oberon:**
-They would question {(M) him /(F) her} about which clan they belong to, and they would find out the truth. 
+They would question [♂ him /♀ her] about which clan they belong to, and they would find out the truth. 
 
 **Da Vinci:**
 Just like a police questioning...Morgan even has that stuff figured out. 
@@ -20837,7 +20837,7 @@ So this is the end for the carriage then? Thank you for your service, Red Rab-bi
 What was that, you dog-eared mutt!? In this moment, I am Fujimaru's faithful steed. 
 
 **Red Rabbit:**
-On our journey here, as I composed my poems, I swore to accompany {(M) him /(F) her} until the end of {(M) his /(F) her} journey. 
+On our journey here, as I composed my poems, I swore to accompany [♂ him /♀ her] until the end of [♂ his /♀ her] journey. 
 
 **Red Rabbit:**
 I would rather beat you here and now and return home, than be left behind by you lot. 
@@ -21973,7 +21973,7 @@ It's settled then. Meet me on the main street at lunchtime.
 In Norwich, they won't be suspicious of Fujimaru walking around alone. 
 
 **Oberon:**
-However, if the guards were to question {(M) him /(F) her}, we'd be in trouble. Please take care of {(M) him /(F) her} should that happen, da Vinci. 
+However, if the guards were to question [♂ him /♀ her], we'd be in trouble. Please take care of [♂ him /♀ her] should that happen, da Vinci. 
 
 **Da Vinci:**
 I'll handle it. I'll assume the role of Fujimaru's big sister! 
@@ -22454,7 +22454,7 @@ I hereby vow to fight until the very end with all my power. I would be blessed s
 That's our Child of Prophecy. What a wonderful announcement. These citizens will be able to rest soundly through the night. 
 
 **Spriggan:**
-Enough talk. Guards, get this {(M) boy /(F) girl} away from me. 
+Enough talk. Guards, get this [♂ boy /♀ girl] away from me. 
 
 **Spriggan's Guard:**
 Sir! Hey you, let's go! You should be glad you don't get a beating! 
@@ -22481,7 +22481,7 @@ You must have gotten some of Norwich's soot in your eyes. That's how it is in th
 Please rest for now, Child of Prophecy. My castle is the most secure location in all the Fairy Kingdom. 
 
 **Spriggan:**
-...Guards. Keep an eye on the human for now. Should {(M) he /(F) she} go someplace outside of public favor, you may arrest {(M) him /(F) her}. 
+...Guards. Keep an eye on the human for now. Should [♂ he /♀ she] go someplace outside of public favor, you may arrest [♂ him /♀ her]. 
 
 **Spriggan:**
 I don't care if they feel it a little. As long as you don't kill them. 
@@ -24043,7 +24043,7 @@ You felt the power of the Mors just now, we all know it!
 ---
 
 **Senji Muramasa:**
-Good grief, you don't know when to give up, do you, {(M) boy /(F) girl}? Screw it, use a Command Spell on me! 
+Good grief, you don't know when to give up, do you, [♂ boy /♀ girl]? Screw it, use a Command Spell on me! 
 
 **Senji Muramasa:**
 If I'm strengthened, I should be able to hold them off on my own! This is where I'll retire from here, then! 
@@ -24329,7 +24329,7 @@ So I wanted to tell them we would run away, but I am surprised at how I was so h
 “I want to run. I can't do it. I'm scared. No, but...but...but...”
 
 **Castoria Monologue:**
-When I look to my side, there {(M) he /(F) she} is, looking up at that thing with the same face as me. 
+When I look to my side, there [♂ he /♀ she] is, looking up at that thing with the same face as me. 
 
 **Castoria Monologue:**
 Fujimaru is the same as me. 
@@ -24344,7 +24344,7 @@ And yet we cannot turn it down, so here we stand.
 Then I'll be the first to say, it's okay to run. 
 
 **Castoria Monologue:**
-That's right. I chose in {(M) his /(F) her} stead. I was about to tell them all we should run away for {(M) his /(F) her} sake. 
+That's right. I chose in [♂ his /♀ her] stead. I was about to tell them all we should run away for [♂ his /♀ her] sake. 
 
 **Castoria Monologue:**
 Then I saw that figure. 
@@ -24516,13 +24516,13 @@ Run away! Don't come over here! I can't hold it off for more than a few more sec
 But her desperate shouting did not prevent the human's approach. 
 
 **Narration:**
-Could {(M) he /(F) she} not hear her hesitant voice over the shield clashing against the curse? 
+Could [♂ he /♀ she] not hear her hesitant voice over the shield clashing against the curse? 
 
 **Narration:**
-Unbelievably, {(M) he /(F) she} ran across the pier with a voice louder than even hers, shouting “I'm not gonna let you lose! ”
+Unbelievably, [♂ he /♀ she] ran across the pier with a voice louder than even hers, shouting “I'm not gonna let you lose! ”
 
 **Narration:**
-{(M) His /(F) Her} hand touched her back, as if to support her. As if to tell her that {(M) he /(F) she} would not leave her side. 
+[♂ His /♀ Her] hand touched her back, as if to support her. As if to tell her that [♂ he /♀ she] would not leave her side. 
 
 **Mash:**
 Ah&mdash;

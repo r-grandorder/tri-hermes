@@ -1530,7 +1530,7 @@ Well now, that's a pretty last-minute request. But I'm afraid we've already fill
 Yes there is! I've heard that troupes like these have a prompter who works behind the scenes to feed the performers their lines! 
  
 **Mash:**
-In that case, I believe Senpai will need a dependable kouhai to be {(M) his /(F) her} secretary! 
+In that case, I believe Senpai will need a dependable kouhai to be [♂ his /♀ her] secretary! 
  
 **Mash:**
 Don't worry about the scripts! I've already learned them all by heart! 
@@ -1600,10 +1600,10 @@ I honestly did think I could use an assistant.
 You are aware this will put Mash in danger, right? Are you sure you can keep your kouhai safe when you'll already have your hands full with the mission? 
  
 **Andersen:**
-Of course {(M) he /(F) she} can. Hasn't {(M) he /(F) she} more than proven {(M) himself /(F) herself} by this point? 
+Of course [♂ he /♀ she] can. Hasn't [♂ he /♀ she] more than proven [♂ himself /♀ herself] by this point? 
  
 **Andersen:**
-However {(M) he /(F) she} pulled it off, {(M) he's /(F) she's} still the Master that walked through the Temple of Time. If anything, having Mash there would only make {(M) him /(F) her} more stubborn. We're talking double {(M) his /(F) her} usual tenacity! 
+However [♂ he /♀ she] pulled it off, [♂ he's /♀ she's] still the Master that walked through the Temple of Time. If anything, having Mash there would only make [♂ him /♀ her] more stubborn. We're talking double [♂ his /♀ her] usual tenacity! 
  
 
 ---
@@ -2063,7 +2063,7 @@ We can never return to Chaldea ever again...
 Huh? You're kidding, right? Don't tell me we're stuck here forever!? 
  
 **Mash:**
-Yes, {(M) he's /(F) she's} kidding. (Sigh) Oh, Senpai...
+Yes, [♂ he's /♀ she's] kidding. (Sigh) Oh, Senpai...
  
 
 ---
@@ -2547,7 +2547,7 @@ We almost never get pilgrims or travelers here. And you're all wearing such stra
 We're The Fujimaru Company,a band of traveling performers. 
  
 **Mash:**
-This is Fujimaru. {(M) He /(F) She} may be young, but {(M) he's /(F) she's} still the Ringmaster our troupe is named after. 
+This is Fujimaru. [♂ He /♀ She] may be young, but [♂ he's /♀ she's] still the Ringmaster our troupe is named after. 
  
 **Mash:**
 We got lost on our way to Salem,and ended up here in the woods. 
@@ -2570,7 +2570,7 @@ By the way, do you know today's date, Abigail?
 
  
 **Abigail:**
-Oh, please call me Abby, {(M) Mr. /(F) Ms. } Ringmaster. Today's date...? 
+Oh, please call me Abby, [♂ Mr. /♀ Ms. ] Ringmaster. Today's date...? 
  
 **Abigail:**
 Well, it's already past midnight, so...that would make it April 21. Yesterday was the Sabbath. 
@@ -2612,7 +2612,7 @@ Well now. Traveling performers, hm?
 The other girls tell me you saved them from a pack of wild beasts. 
  
 **G：???:**
-And you are the troupe's Ringmaster, eh, {(M) Mr. /(F) Ms. } Fujimaru. You must let me express my thanks. 
+And you are the troupe's Ringmaster, eh, [♂ Mr. /♀ Ms. ] Fujimaru. You must let me express my thanks. 
  
 **G：???:**
 Let's see. It would be quite difficult to find a decent inn in Salem at this hour. 
@@ -3068,7 +3068,7 @@ Is something wrong, Mr. Carter?
 
  
 **Carter:**
-{(M) Mr. /(F) Ms. } Fujimaru...I'm afraid my niece was doing something even worse than I believed last night. 
+[♂ Mr. /♀ Ms. ] Fujimaru...I'm afraid my niece was doing something even worse than I believed last night. 
  
 **Carter:**
 Unfortunately, I can no longer permit her to attend your production. 
@@ -3557,7 +3557,7 @@ We always had the option of brute force where necessary in other Singularities, 
 I'm pretty sure Master's picked up on this too, you know? 
  
 **Robin Hood:**
-If you were to ask {(M) him /(F) her}, {(M) he'd /(F) she'd} tell you that violence isn't the answer here in Salem. 
+If you were to ask [♂ him /♀ her], [♂ he'd /♀ she'd] tell you that violence isn't the answer here in Salem. 
  
 **Nezha:**
 ...
@@ -3697,7 +3697,7 @@ Ugh! Don't tease me like that, Senpai!
 ...
  
 **Abigail:**
-Oh, hello, {(M) Mr. /(F) Ms. } Ringmaster. Hello, Mash. 
+Oh, hello, [♂ Mr. /♀ Ms. ] Ringmaster. Hello, Mash. 
  
 **Abigail:**
 Did you come all this way looking for me? 
@@ -3773,7 +3773,7 @@ What about talking to friends?
 Oh, yes...! That's a wonderful idea. 
  
 **Abigail:**
-You're fun, {(M) Mr. /(F) Ms. } Ringmaster! 
+You're fun, [♂ Mr. /♀ Ms. ] Ringmaster! 
  
 ---
 
@@ -3787,7 +3787,7 @@ What are some of your favorite things, Abby?
 My favorite things...? 
  
 **Abigail:**
-I'm so glad you asked, {(M) Mr. /(F) Ms. } Ringmaster! I have so many it's hard to keep track! 
+I'm so glad you asked, [♂ Mr. /♀ Ms. ] Ringmaster! I have so many it's hard to keep track! 
  
 **Abigail:**
 Let's see...One of them is definitely pancakes! 
@@ -3823,7 +3823,7 @@ The grown-ups all like to put it on turkey and steak, but I reeeally love it on 
 It's not the kind of thing you have every day either. You only get to enjoy it on Thanksgiving. 
  
 **Abigail:**
-It's too bad you and the rest of The Fujimaru Company didn't come during a holiday, {(M) Mr. /(F) Ms. } Ringmaster. 
+It's too bad you and the rest of The Fujimaru Company didn't come during a holiday, [♂ Mr. /♀ Ms. ] Ringmaster. 
  
 **Abigail:**
 It HAS been a while since we celebrated anything, though...
@@ -3966,7 +3966,7 @@ Everything I know about Boston I heard from others...I'm sorry for misleading yo
 I just love hearing about other towns, and other countries. 
  
 **Abigail:**
-Say, {(M) Mr. /(F) Ms. } Ringmaster, you and your company have performed all over Europe and the colonies, right? 
+Say, [♂ Mr. /♀ Ms. ] Ringmaster, you and your company have performed all over Europe and the colonies, right? 
  
 **Abigail:**
 What sort of show did you put on in Boston? Did you stop by Jamestown too? 
@@ -3986,7 +3986,7 @@ Oh, I really wish I could see your show, but since I can't, could you at least t
 Sure. We can't tell you everything, though. 
  
 **Abigail:**
-Really? That's wonderful! Thank you, {(M) Mr. /(F) Ms. } Ringmaster! 
+Really? That's wonderful! Thank you, [♂ Mr. /♀ Ms. ] Ringmaster! 
  
 **Mash:**
 That's great. I love hearing about foreign countries too. 
@@ -4099,7 +4099,7 @@ Did you and Lavinia have a fight or something?
 
  
 **Abigail:**
-Yes...This time, you saw right through me, {(M) Mr. /(F) Ms. } Ringmaster. 
+Yes...This time, you saw right through me, [♂ Mr. /♀ Ms. ] Ringmaster. 
  
 **Abigail:**
 I must have upset her somehow, because lately...she just won't talk to me. 
@@ -4190,7 +4190,7 @@ Huh...?
 So that was Lavinia, huh? 
  
 **Abigail:**
-Wow, so you saw her too, {(M) Mr. /(F) Ms. } Ringmaster? 
+Wow, so you saw her too, [♂ Mr. /♀ Ms. ] Ringmaster? 
  
 
 ---
@@ -4520,7 +4520,7 @@ Ye might be young,but ye got a good head on yer shoulders!
 ...I did. Nothing wrong. 
  
 **Robin Hood:**
-(Don't worry about it. Master's just putting on an act {(M) himself. /(F) herself. } ...At least, I think {(M) he /(F) she} is? 
+(Don't worry about it. Master's just putting on an act [♂ himself. /♀ herself. ] ...At least, I think [♂ he /♀ she] is? 
  
 **Nezha:**
 Shall throw. All of their tea. Into ocean! 
@@ -5817,7 +5817,7 @@ They seem pretty upset. There's a good number of them, too.
 ...I see. Very well, I'll go and meet them. 
  
 **Carter:**
-Pardon me for a moment,{(M) Mr. /(F) Ms. } Fujimaru. 
+Pardon me for a moment,[♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Villager:**
 They're asking to see you too, Your Honor. 
@@ -6032,7 +6032,7 @@ Mr. Carter, as her owner, I'd like you to accompany her to the town's holding ce
 Mr. Carter! 
  
 **Carter:**
-Miss Mash. {(M) Mr. /(F) Ms. } Fujimaru. 
+Miss Mash. [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Carter:**
 I'm sorry to trouble you,but could I ask you to take Abigail home for me? 
@@ -6066,7 +6066,7 @@ So Master went to the village in order to accompany Mr. Carter?
 That's right. Robin went along too, to keep them safe. 
  
 **Mash:**
-{(M) He /(F) She} said {(M) he's /(F) she's} hoping they can determine whether that figure really is cursed or not, as part of our investigation. 
+[♂ He /♀ She] said [♂ he's /♀ she's] hoping they can determine whether that figure really is cursed or not, as part of our investigation. 
  
 **Mash:**
 It looks like we'll just have to rely on Senpai for this. 
@@ -6183,7 +6183,7 @@ Medea!? Where were you this morning?
 Answer the question, Mash. 
  
 **Mash:**
-W-well...Yesterday, I was still processing it myself, and along with everything else that happened last night, I never got a good chance to tell {(M) him /(F) her}...
+W-well...Yesterday, I was still processing it myself, and along with everything else that happened last night, I never got a good chance to tell [♂ him /♀ her]...
  
 **Medea:**
 I see...That may actually be for the best. 
@@ -6405,10 +6405,10 @@ Hm?
 What were. You all. Whispering about? 
  
 **Abigail:**
-Nezha told me about how Uncle is out with {(M) Mr. /(F) Ms. } Ringmaster right now. 
+Nezha told me about how Uncle is out with [♂ Mr. /♀ Ms. ] Ringmaster right now. 
  
 **Abigail:**
-{(M) He /(F) She}...{(M) he /(F) she} went to see how Tituba's doing, right? 
+[♂ He /♀ She]...[♂ he /♀ she] went to see how Tituba's doing, right? 
  
 **Mash:**
 That's right. So please don't worry, Abby. 
@@ -6453,7 +6453,7 @@ Maybe I should pray to God, and ask forgiveness...
 ...
  
 **Medea:**
-...At any rate, we have a lot we need to discuss with Master as soon as {(M) he /(F) she} gets back. 
+...At any rate, we have a lot we need to discuss with Master as soon as [♂ he /♀ she] gets back. 
  
 **Abigail:**
 ...You mean, about your plays? 
@@ -6491,7 +6491,7 @@ It was awful...
 A-are you okay? You look pale...
  
 **Robin Hood:**
-I don't blame {(M) him /(F) her}. 
+I don't blame [♂ him /♀ her]. 
  
 
 ---
@@ -6696,10 +6696,10 @@ The constables who were there were pretty freaked when Carter said how much mone
 The cursed doll? What of it?  What became. Of that evidence? 
  
 **Robin Hood:**
-That's where our Ringmaster showed what{(M) he /(F) she} was made of. 
+That's where our Ringmaster showed what[♂ he /♀ she] was made of. 
  
 **Robin Hood:**
-{(M) He /(F) She} kept insisting to see the figure again to determine whether there was black magic at work. 
+[♂ He /♀ She] kept insisting to see the figure again to determine whether there was black magic at work. 
  
 **Mata Hari:**
 ...But? 
@@ -8661,7 +8661,7 @@ Uncle, come on! We have to hurry and stop them!
 Indeed. 
  
 **Carter:**
-{(M) Mr. /(F) Ms. } Fujimaru,can I ask you to take Abigail along? 
+[♂ Mr. /♀ Ms. ] Fujimaru,can I ask you to take Abigail along? 
  
 **Carter:**
 I'm afraid I have a medical complaint that prevents me from running well. 
@@ -9097,7 +9097,7 @@ More importantly&ndash;
 ...Wait. What about Senpai? 
  
 **Mash:**
-How safe is {(M) he /(F) she} here? Is this phenomenon affecting {(M) his /(F) her} health too? 
+How safe is [♂ he /♀ she] here? Is this phenomenon affecting [♂ his /♀ her] health too? 
  
 ---
 
@@ -9261,7 +9261,7 @@ No. You're wrong about that.
 I couldn't do anything in prison with the guards always watching. And above all...
  
 **Medea:**
-...I wanted to make absolutely sure that Fujimaru wouldn't be found guilty {(M) himself /(F) herself}. 
+...I wanted to make absolutely sure that Fujimaru wouldn't be found guilty [♂ himself /♀ herself]. 
  
 **Robin Hood:**
 Oh, really? Well, I can't fault you for that. Now then. 
@@ -9996,7 +9996,7 @@ Besides, according to the document I read...ghouls and the living dead are not t
 I managed to drive away the ghouls I saw last night...
  
 **Carter:**
-...thanks to Fujimaru and {(M) his /(F) her} companions. 
+...thanks to Fujimaru and [♂ his /♀ her] companions. 
  
 **Carter:**
 That is why some of you may have heard gunshots and howls last night. 
@@ -10422,7 +10422,7 @@ Is it really impossible to contact Chaldea?
 I swear to Hekate, I can't do anything to reestablish communications until we know what's blocking them. 
  
 **Circe:**
-So let's get this limited contract underway so we can {(M) have some fun together. /(F) avoid trouble down the road. } Come on, time's a wasting. 
+So let's get this limited contract underway so we can [♂ have some fun together. /♀ avoid trouble down the road. ] Come on, time's a wasting. 
  
 **Mash:**
 S-slow down! Give Senpai a little time to think it over...! 
@@ -10471,12 +10471,12 @@ That's a specialty of mine, you know. If any Servants had gotten in my way, I wo
 I guess if I had to give you just one piece of advice, Master...
  
 **Mata Hari:**
-...it'd be to {(M) tell you that /(F) remind you that we} women are at {(M) their /(F) our} most dangerous after {(M) they've /(F) we've} shown {(M) their /(F) our} hand. Just keep that in mind. 
+...it'd be to [♂ tell you that /♀ remind you that we] women are at [♂ their /♀ our] most dangerous after [♂ they've /♀ we've] shown [♂ their /♀ our] hand. Just keep that in mind. 
  
 ---
 
 **Fujimaru 1:**
-{(M) Thanks for the warning. /(F) ...You may be right. }
+[♂ Thanks for the warning. /♀ ...You may be right. ]
 
 ---
 
@@ -12246,13 +12246,13 @@ I can't wait to tell her about this call.
 ---
 
 **Fujimaru 1:**
-...Thanks, {(M) Mata Hari /(F) Margaretha}. 
+...Thanks, [♂ Mata Hari /♀ Margaretha]. 
 
 ---
 
  
 **Mata Hari:**
-No trouble at all, {(M) Master. /(F)  
+No trouble at all, [♂ Master. /♀  
  
 **Sanson:**
 I'll go too. I see now just how strange this village really is. 
@@ -13086,7 +13086,7 @@ Guess this is it for our temporary contract......Huh?
 Master, we have a serious problem. 
  
 **Abigail:**
-{(M) Mr. /(F) Ms. } Ringmaster! Mata Hari's...
+[♂ Mr. /♀ Ms. ] Ringmaster! Mata Hari's...
  
 ---
 
@@ -13157,7 +13157,7 @@ Yes, I most certainly do. To begin with, that woman...
 ...
  
 **Abigail:**
-...{(M) Mr. /(F) Ms. } Ringmaster? Please cheer up. 
+...[♂ Mr. /♀ Ms. ] Ringmaster? Please cheer up. 
  
 ---
 
@@ -13233,7 +13233,7 @@ I can tell you both respect each other. I'm a little jealous, really...
 But that's why you have to believe in each other and stick together when times are tough. 
  
 **Abigail:**
-{(M) Mr. /(F) Ms. } Fujimaru? Remember, you're the leader of this troupe. You're like a young King David. 
+[♂ Mr. /♀ Ms. ] Fujimaru? Remember, you're the leader of this troupe. You're like a young King David. 
  
 **Abigail:**
 When Goliath ridiculed David, and cursed him in the evil demon Dagon's name...
@@ -13262,7 +13262,7 @@ I talked about this with Sanson as well. He said he's a King David fan too.
 His sling WAS loaded with miracles and blessings. 
  
 **Abigail:**
-...? Um...is that a joke, {(M) Mr. /(F) Ms. } Ringmaster? I'm afraid I don't quite get it. 
+...? Um...is that a joke, [♂ Mr. /♀ Ms. ] Ringmaster? I'm afraid I don't quite get it. 
  
 
 ---
@@ -13286,7 +13286,7 @@ You're looking a lot less pale now. Are you feeling better?
 
  
 **Abigail:**
-This was...Father's...Why do you have it, {(M) Mr. /(F) Ms. } Ringmaster...? 
+This was...Father's...Why do you have it, [♂ Mr. /♀ Ms. ] Ringmaster...? 
  
 **Abigail:**
 You found it...at the edge of the forest...? 
@@ -14235,7 +14235,7 @@ What did Circe do?
 
  
 **Circe:**
-Don't blame {(M) him /(F) her}. 
+Don't blame [♂ him /♀ her]. 
  
 **Circe:**
 ...Hm? 
@@ -14469,7 +14469,7 @@ We'll protect it ourselves, whether we're up against Indians or the devil himsel
 Hey. What do you think you're doing? Don't you dare touch that corpse! 
  
 **Hopkins:**
-Judge Hathorne! I order you to arrest Fujimaru and the rest of {(M) his /(F) her} company! 
+Judge Hathorne! I order you to arrest Fujimaru and the rest of [♂ his /♀ her] company! 
  
 **Hopkins:**
 They're no more than bandits now! 
@@ -14600,7 +14600,7 @@ May God's grace...be with you...Ah...Graaah!
 Master! I brought. Abigail! 
  
 **Abigail:**
-{(M) Mr. /(F) Ms. } Ringmaster...Are you okay!? 
+[♂ Mr. /♀ Ms. ] Ringmaster...Are you okay!? 
  
 **Circe:**
 (Huff...Huff...) Somebody get me a piglet...I'm not cut out for all this running...
@@ -14672,7 +14672,7 @@ Wh-who're you!?
 
  
 **Abigail:**
-Wait, {(M) Mr. /(F) Ms. } Ringmaster...I know who that is...
+Wait, [♂ Mr. /♀ Ms. ] Ringmaster...I know who that is...
  
 **Abigail:**
 Huh...? 
@@ -15472,10 +15472,10 @@ Even though I didn't have confidence in anything about myself, and knew nothing 
 ...I had people who cheered me up, and looked out for me, and handled everything like it was no big deal...
  
 **Mash:**
-...and someone who was always one step ahead,holding {(M) his /(F) her} hand out for me with a smile. 
+...and someone who was always one step ahead,holding [♂ his /♀ her] hand out for me with a smile. 
  
 **Mash:**
-...and someone who was always one step ahead,holding {(M) his /(F) her} hand out for me with a smile. 
+...and someone who was always one step ahead,holding [♂ his /♀ her] hand out for me with a smile. 
  
 **Mash:**
 I can't express how incredibly fortunate I was to have that. 
@@ -16311,7 +16311,7 @@ Hehe. Don't worry, I've got just the story for the occasion.
 Hmm...Problem is, we need at least two women for the female parts...
  
 **Circe:**
-I could have you play the other one, Fujimaru, but {(M) I /(F) we} don't {(M) know how well that would go over with the boat boys /(F) have time for you to memorize the script}. 
+I could have you play the other one, Fujimaru, but [♂ I /♀ we] don't [♂ know how well that would go over with the boat boys /♀ have time for you to memorize the script]. 
  
 **Circe:**
 So I guess I'll just have to play both female parts myself. Lucky I'm so good at transforma&ndash;I mean, disguises. 
@@ -17431,7 +17431,7 @@ Abigail's staying with us now.
 Then, she's all right...? My blood froze when I saw what had happened to our house...
  
 **Carter:**
-I see...So you took care of my niece while I was away, {(M) Mr. /(F) Ms. } Fujimaru. 
+I see...So you took care of my niece while I was away, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Carter:**
 I can't thank you enough. That's twice you've saved the life of my only family. 
@@ -18417,7 +18417,7 @@ All right, Abby, have a good night. Get plenty of rest, okay?
 We'll be in the next room if you need anything,and Mr. Carter should be back soon too. 
  
 **Abigail:**
-...Mash.... {(M) Mr. /(F) Ms. } Ringmaster...
+...Mash.... [♂ Mr. /♀ Ms. ] Ringmaster...
  
 **Abigail:**
 Could you...stay with me...? 
@@ -18646,7 +18646,7 @@ You mean this stuffed animal?
 Here you go. You really love that toy, don't you? 
  
 **Abigail:**
-Thank you, {(M) Mr. /(F) Ms. } Ringmaster. 
+Thank you, [♂ Mr. /♀ Ms. ] Ringmaster. 
  
 
 ---
@@ -18871,7 +18871,7 @@ Haha. True, I guess there are a lot of people with strong personalities there.
 Does that include people from Zipang? 
  
 **Mash:**
-Oh yes. There are a fair number of them, including Senpai {(M) himself /(F) herself}. 
+Oh yes. There are a fair number of them, including Senpai [♂ himself /♀ herself]. 
  
 **Abigail:**
 That sounds so wonderful. 
@@ -19377,7 +19377,7 @@ You've been sweating in the night...Here, let me dry you off.
 I feel great now. All I needed was a good night's sleep. 
  
 **Abigail:**
-I have to thank you and {(M) Mr. /(F) Ms. } Ringmaster again for all your help. 
+I have to thank you and [♂ Mr. /♀ Ms. ] Ringmaster again for all your help. 
  
 **Mash:**
 ...I'm sorry, but...
@@ -19963,13 +19963,13 @@ If you trust him at all, Master, then you can't try to stop him.
 But, if he was going to do this...why didn't he tell Master about it!? 
  
 **Robin Hood:**
-'Cause if he did, Master would stop him. And if {(M) he /(F) she} had, Mash...
+'Cause if he did, Master would stop him. And if [♂ he /♀ she] had, Mash...
  
 **Robin Hood:**
 ...it might just be you up there on the gallows now. 
  
 **Robin Hood:**
-Or even Master {(M) himself. /(F) herself. }And there'd be no coming back from that...! 
+Or even Master [♂ himself. /♀ herself. ]And there'd be no coming back from that...! 
  
 **Mash:**
 ...Gh......Khh...
@@ -19995,7 +19995,7 @@ I can't just let him sacrifice himself...
 Are you really telling me you went up against a Demon God Pillar without being prepared for any casualties? 
  
 **H：Medea (Mata Hari):**
-Ease off Fujimaru, Robin. Of course {(M) he /(F) she} knew what could happen when we came here. 
+Ease off Fujimaru, Robin. Of course [♂ he /♀ she] knew what could happen when we came here. 
  
 **H：Medea (Mata Hari):**
 Still...You're right. This is a trap...
@@ -20322,7 +20322,7 @@ I'm reeeally light, so hanging would be a pretty long and painful death.
 (Sigh)...But hey, look on the bright side, Fujimaru. 
  
 **Circe:**
-At least you've got a {(M) beautiful girl /(F) demi-god Queen Witch} here to keep you company. 
+At least you've got a [♂ beautiful girl /♀ demi-god Queen Witch] here to keep you company. 
  
 **Circe:**
 Gyah! I slipped! 
@@ -20334,7 +20334,7 @@ Ughhh! I hate this place!
 I have had it up to HERE with this jail and its slippery, slimy floors! 
  
 **Circe:**
-Here, {(M) let me sit on your lap for a bit, . /(F) move over a bit, will you,  
+Here, [♂ let me sit on your lap for a bit, . /♀ move over a bit, will you,  
  
 ---
 
@@ -20390,7 +20390,7 @@ Heeey, wait a minute...
 You wouldn't happen to have a ridiculously high tolerance for poison...would you? 
  
 **Circe:**
-Or maybe a prosthetic {(M) leg /(F) arm}...? 
+Or maybe a prosthetic [♂ leg /♀ arm]...? 
  
 ---
 
@@ -20663,7 +20663,7 @@ Many have tried to save Abigail before. But none have ever succeeded.
 Even I was not up to that task. That is why I invited Chaldea here again...
  
 **Carter:**
-I expect great things of you, {(M) Mr. /(F) Ms. } Fujimaru...Great things indeed. 
+I expect great things of you, [♂ Mr. /♀ Ms. ] Fujimaru...Great things indeed. 
  
 ---
 
@@ -21408,10 +21408,10 @@ The next accusation leveled against Fujimaru is&ndash;
 That's it. I've had enough! 
  
 **Abigail:**
-Even if {(M) Mr. /(F) Ms. } Ringmaster did do something bad, it's not {(M) his /(F) her} fault. 
+Even if [♂ Mr. /♀ Ms. ] Ringmaster did do something bad, it's not [♂ his /♀ her] fault. 
  
 **Abigail:**
-It's because {(M) he /(F) she} has always tried to help others, whether me or someone else, without worrying about {(M) himself /(F) herself} or how it might look!! 
+It's because [♂ he /♀ she] has always tried to help others, whether me or someone else, without worrying about [♂ himself /♀ herself] or how it might look!! 
  
 **Abigail:**
 What about me? I'm a witch, remember? 
@@ -21432,10 +21432,10 @@ Otherwise, my objective will never be met. I need atonement. True atonement.
 My niece is lying. She's off on one of those flights of fancy so common to girls her age. 
  
 **Carter:**
-It's no surprise that a skilled performer would have any number of tricks up {(M) his /(F) her} sleeve intended to mislead anyone who might cross {(M) his /(F) her} path. 
+It's no surprise that a skilled performer would have any number of tricks up [♂ his /♀ her] sleeve intended to mislead anyone who might cross [♂ his /♀ her] path. 
  
 **Carter:**
-And of course, {(M) he /(F) she} could just as easily use those tricks to have others take the fall for {(M) his /(F) her} own misdeeds. 
+And of course, [♂ he /♀ she] could just as easily use those tricks to have others take the fall for [♂ his /♀ her] own misdeeds. 
  
 **Abigail:**
 ...Uncle...Carter...
@@ -22376,7 +22376,7 @@ You're...
 
  
 **H：Abigail:**
-I see you understand, {(M) Mr. /(F) Ms. } Ringmaster. Unlike Mash...
+I see you understand, [♂ Mr. /♀ Ms. ] Ringmaster. Unlike Mash...
  
 ---
 
@@ -22567,7 +22567,7 @@ Demon God Räum, in Goetia's absence, I decree the following:
 This delusion of yours will be your undoing. Your approach already failed fourteen thousand years ago. 
  
 **Abigail:**
-Sorry, {(M) Mr. /(F) Ms. } Ringmaster...It's just not working. 
+Sorry, [♂ Mr. /♀ Ms. ] Ringmaster...It's just not working. 
  
 **Abigail:**
 Good...Now I'm sure...I can't save anyone that way...
@@ -22657,16 +22657,16 @@ I got NO clue what you're on about,but I know you're dead wrong about that.
 Take it from me. If our Ringmaster had any unconscious feelings, it wasn't GUILT for the world. 
  
 **Robin Hood:**
-If anything at all, it'd be responsibility to all the people {(M) he /(F) she} failed to save. Arrogance in believing that {(M) he /(F) she} could've done better if only {(M) he'd /(F) she'd} somehow done things differently. 
+If anything at all, it'd be responsibility to all the people [♂ he /♀ she] failed to save. Arrogance in believing that [♂ he /♀ she] could've done better if only [♂ he'd /♀ she'd] somehow done things differently. 
  
 **Robin Hood:**
-{(M) He /(F) She} may be great, but {(M) he's /(F) she's} still just an ordinary person, same as me. There's no way {(M) he /(F) she} ever wished to save everyone in the world. Not even once! 
+[♂ He /♀ She] may be great, but [♂ he's /♀ she's] still just an ordinary person, same as me. There's no way [♂ he /♀ she] ever wished to save everyone in the world. Not even once! 
  
 **Robin Hood:**
-{(M) He /(F) She} couldn't give a rat's ass about saving people in a walled garden. 
+[♂ He /♀ She] couldn't give a rat's ass about saving people in a walled garden. 
  
 **Robin Hood:**
-All {(M) he /(F) she} cares about is making sure everyone's got a bright future ahead of 'em! 
+All [♂ he /♀ she] cares about is making sure everyone's got a bright future ahead of 'em! 
  
 ---
 
@@ -22873,10 +22873,10 @@ But...if you wouldn't mind...hurrying up...
 Yeah...Please...
  
 **Circe:**
-Your Master...sure likes...to take {(M) his /(F) her} time...doesn't {(M) he /(F) she}...? 
+Your Master...sure likes...to take [♂ his /♀ her] time...doesn't [♂ he /♀ she]...? 
  
 **Mash:**
-...Yes, {(M) he /(F) she} does. 
+...Yes, [♂ he /♀ she] does. 
  
 ---
 
@@ -22887,7 +22887,7 @@ Abigail!
 
  
 **Abigail:**
-{(M) Mr. /(F) Ms. } Ringmaster...The time for playacting is over...
+[♂ Mr. /♀ Ms. ] Ringmaster...The time for playacting is over...
  
 ---
 
@@ -23293,7 +23293,7 @@ Sure you don't want to come to Chaldea with us?
 Um, no? Not even a little? I never did manage to entice you to come along with me, after all. 
  
 **Circe:**
-Plus, you seem like the kind of {(M) guy /(F) girl} who really gets around. That sort of thing really isn't for me. 
+Plus, you seem like the kind of [♂ guy /♀ girl] who really gets around. That sort of thing really isn't for me. 
  
 **Circe:**
 Th-that said, if Hecate and fortune smiled on us and brought us together, I could give it some thought...
@@ -23586,7 +23586,7 @@ Abby, what is it YOU want to do?
 
  
 **Abigail:**
-Mash...{(M) Mr. /(F) Ms. } Ringmaster...
+Mash...[♂ Mr. /♀ Ms. ] Ringmaster...
  
 **Abigail:**
 Even though it's falling apart...
@@ -23604,7 +23604,7 @@ But this is still my home. Even if it is a cursed land where witches were hunted
 ...
  
 **Abigail:**
-I'm sure you already know this, {(M) Mr. /(F) Ms. } Ringmaster, but I committed a terrible sin a long, long time ago...
+I'm sure you already know this, [♂ Mr. /♀ Ms. ] Ringmaster, but I committed a terrible sin a long, long time ago...
  
 **Abigail:**
 Then I went and did the same thing again, here in this false Salem...
@@ -23635,7 +23635,7 @@ The Demon God may have tempted me,but I still accepted his offer.
 But...
  
 **Abigail:**
-...even with all that, {(M) Mr. /(F) Ms. } Ringmaster...
+...even with all that, [♂ Mr. /♀ Ms. ] Ringmaster...
  
 **Abigail:**
 ...I can still hear him. 
@@ -23667,7 +23667,7 @@ God would never forgive me for what I've done! And yet, I...
 ...Mash...? 
  
 **Mash:**
-...{(M) He's /(F) She's} right, Abby. Nobody can pass judgment on another person's heart. 
+...[♂ He's /♀ She's] right, Abby. Nobody can pass judgment on another person's heart. 
  
 **Mash:**
 ...But, they can still extend a helping hand. 
@@ -23745,7 +23745,7 @@ Oh, and Uncle...I hope you don't mind if I call you Uncle...
 If I really do have that kind of ability...
  
 **Abigail:**
-...do you think I could promise something to{(M) Mr. /(F) Ms. } Ringmaster and {(M) his /(F) her} companions? 
+...do you think I could promise something to[♂ Mr. /♀ Ms. ] Ringmaster and [♂ his /♀ her] companions? 
  
 **Abigail:**
 You know how you said your mind and body each existed independently of each other? 
@@ -23796,7 +23796,7 @@ Mash, you are so lovely! Mata Hari, you are so kind!
 Robin, you are so thoughtful! Nezha, I love everything about you! 
  
 **Abigail:**
-And, {(M) Mr. /(F) Ms. } Ringmaster...Thank you for showing me a play I'll always remember! 
+And, [♂ Mr. /♀ Ms. ] Ringmaster...Thank you for showing me a play I'll always remember! 
  
 **Abigail:**
 If you ever meet another me, I do hope you'll be kind to her. 
@@ -24268,7 +24268,7 @@ Right? So come on, Robin, work with me. I need more details about what happened 
 Aren't you curious too, Sanson? You seem awfully unconcerned about all this...
  
 **Sanson:**
-I'm told Master will tell me all about that {(M) himself /(F) herself} later, so I plan to wait for that. 
+I'm told Master will tell me all about that [♂ himself /♀ herself] later, so I plan to wait for that. 
  
 **Robin Hood:**
 ...Whoa, seriously? 

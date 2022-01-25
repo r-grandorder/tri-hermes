@@ -454,7 +454,7 @@ Knowledge of The Book of Five Rings was bestowed upon me when I was summoned as 
 
 **Sasaki Kojirou:**
 
-As such, I know it quite well, though I cannot say how comprehensible its contents will be to you, {(M) Lord /(F) Lady} Fujimaru. 
+As such, I know it quite well, though I cannot say how comprehensible its contents will be to you, [♂ Lord /♀ Lady] Fujimaru. 
 
 **Sasaki Kojirou:**
 
@@ -582,7 +582,7 @@ As such, those words would prove that this Musashi was indeed who she claims.
 
 **Sasaki Kojirou:**
 
-Perhaps you even came to believe she was Musashi because you had heard her speak that line,{(M) Lord /(F) Lady} Fujimaru? 
+Perhaps you even came to believe she was Musashi because you had heard her speak that line,[♂ Lord /♀ Lady] Fujimaru? 
 
 ---
 
@@ -602,7 +602,7 @@ Oho. Oh, ho ho. That complicates matters. Then I believe this female Musashi has
 
 **Sasaki Kojirou:**
 
-Which may then make you the final piece of this puzzle, {(M) Lord /(F) Lady} Fujimaru. 
+Which may then make you the final piece of this puzzle, [♂ Lord /♀ Lady] Fujimaru. 
 
 **Sasaki Kojirou:**
 
@@ -666,7 +666,7 @@ Why, you're pale as an oni. Oh, and I see Master's collapsed in a heap.
 
 **Sasaki Kojirou:**
 
-{(M) He's /(F) She's} out cold, isn't {(M) he /(F) she}? But don't worry, {(M) he's /(F) she's} still got a pulse. We're neither too late nor too early. 
+[♂ He's /♀ She's] out cold, isn't [♂ he /♀ she]? But don't worry, [♂ he's /♀ she's] still got a pulse. We're neither too late nor too early. 
 
 **Sasaki Kojirou:**
 
@@ -674,7 +674,7 @@ I shall go and fetch Lady Martha. Lady Mash,remain calm. Lady Douji, keep an eye
 
 **Shuten-Douji:**
 
-Well, it's not like {(M) he's /(F) she's} dying or anything. Although, it does feel like there's some kind of magical energy here...
+Well, it's not like [♂ he's /♀ she's] dying or anything. Although, it does feel like there's some kind of magical energy here...
 
 **Shuten-Douji:**
 
@@ -694,19 +694,19 @@ Senpai...! Senpai! Can you hear me...!?
 
 **E：???:**
 
-{(M) Mr. /(F) Ms. } Fujimaru has fallen into a deep coma. 
+[♂ Mr. /♀ Ms. ] Fujimaru has fallen into a deep coma. 
 
 **E：???:**
 
-{(M) He /(F) She} was thoroughly examined, but nothing was found to be amiss. If anything, {(M) he /(F) she} appears to be the picture of health. 
+[♂ He /♀ She] was thoroughly examined, but nothing was found to be amiss. If anything, [♂ he /♀ she] appears to be the picture of health. 
 
 **E：???:**
 
-Yet, {(M) he /(F) she} will not wake up. 
+Yet, [♂ he /♀ she] will not wake up. 
 
 **E：???:**
 
-Not even all the healing-focused Casters in Chaldea working together are able to open {(M) his /(F) her} eyes. 
+Not even all the healing-focused Casters in Chaldea working together are able to open [♂ his /♀ her] eyes. 
 
 **E：???:**
 
@@ -774,7 +774,7 @@ It's a shame that things have come to this, but now that they have, everything d
 
 **Holmes:**
 
-And, of course, upon {(M) Mr. /(F) Ms. } Fujimaru's own battle. 
+And, of course, upon [♂ Mr. /♀ Ms. ] Fujimaru's own battle. 
 
 ---
 
@@ -1445,7 +1445,7 @@ Goo ga, ga.
 
 **Onui:**
 
-...Say, pretty samurai lady? Weird kimono {(M) guy /(F) lady}? 
+...Say, pretty samurai lady? Weird kimono [♂ guy /♀ lady]? 
 
 ---
 
@@ -1497,7 +1497,7 @@ There wasn't a cloud in the sky a moment ago!
 
 **Musashi:**
 
-Onui! Get away from the cute {(M) guy /(F) girl} in the weird kimo&ndash;I mean, get away from Fujimaru! 
+Onui! Get away from the cute [♂ guy /♀ girl] in the weird kimo&ndash;I mean, get away from Fujimaru! 
 
 **Onui:**
 
@@ -1608,7 +1608,7 @@ I knew I could trust you. No, more than that;you truly deserve respect. After al
 
 **Musashi:**
 
-({(M) He /(F) She} moved to protect the children before I even said anything. Whereas my first move...was to take up my katana. )
+([♂ He /♀ She] moved to protect the children before I even said anything. Whereas my first move...was to take up my katana. )
 
 **Musashi:**
 
@@ -1840,7 +1840,7 @@ So whenever I found one, I would rip them to shreds with my spear. And now, afte
 
 **???:**
 
-I find myself in the presence of a beautiful swordsman accompanied by a child, a baby, and a young{(M) man /(F) woman} dressed in strange clothing. 
+I find myself in the presence of a beautiful swordsman accompanied by a child, a baby, and a young[♂ man /♀ woman] dressed in strange clothing. 
 
 **???:**
 
@@ -2028,7 +2028,7 @@ Oh! You mean the kind of Servant Fujimaru talks about sometimes!
 
 **Musashi:**
 
-I believe {(M) he /(F) she} described them as the shadows of figures from fiction and history that materialize in this world to aid {(M) him /(F) her} in battle. 
+I believe [♂ he /♀ she] described them as the shadows of figures from fiction and history that materialize in this world to aid [♂ him /♀ her] in battle. 
 
 **Musashi:**
 
@@ -2128,7 +2128,7 @@ What a great pleasure this has been to have my expectations upturned like&ndash;
 
 **Inshun:**
 
-You there, young {(M) man /(F) lady}! You know who Musashi is supposed to be, right!? 
+You there, young [♂ man /♀ lady]! You know who Musashi is supposed to be, right!? 
 
 ---
 
@@ -2268,7 +2268,7 @@ Huh? What's going on?
 
 **Musashi:**
 
-Onui, I want you to stick close to Fujimaru again. Make sure you don't move from {(M) his /(F) her} side. 
+Onui, I want you to stick close to Fujimaru again. Make sure you don't move from [♂ his /♀ her] side. 
 
 **Onui:**
 
@@ -2296,7 +2296,7 @@ At this point, I am already willing to believe you are who you say you are, but 
 
 **Inshun:**
 
-You there, young {(M) man /(F) lady}! Make sure you keep careful track of which of us defeats more spirits! 
+You there, young [♂ man /♀ lady]! Make sure you keep careful track of which of us defeats more spirits! 
 
 **--BATTLE--**
 
@@ -2445,7 +2445,7 @@ Magnificently played, Lady Musashi.... Now, at last,I know what kind of situatio
 
 **Inshun:**
 
-I am a Servant who has been summoned to this place, and that young {(M) man /(F) lady} there is one of few in this time who knows what Servants are. 
+I am a Servant who has been summoned to this place, and that young [♂ man /♀ lady] there is one of few in this time who knows what Servants are. 
 
 **Inshun:**
 
@@ -3645,7 +3645,7 @@ My, my. Did you hear that, Berserker of Saṃghāta Hell? That child there seems
 
 **Rider of Kālasūtra Hell:**
 
-It seems there is more to {(M) him /(F) her} than meets the eye. Like an insect you can't...quite...squash. 
+It seems there is more to [♂ him /♀ her] than meets the eye. Like an insect you can't...quite...squash. 
 
 ---
 
@@ -3896,7 +3896,7 @@ I can also tell that you are a true master of your art, a person with monstrous 
 
 **Inshun:**
 
-Even as we speak, there is a young {(M) man /(F) woman} carrying young children while making {(M) his /(F) her} escape, and they are accompanied by a swordsman of incredible skill. 
+Even as we speak, there is a young [♂ man /♀ woman] carrying young children while making [♂ his /♀ her] escape, and they are accompanied by a swordsman of incredible skill. 
 
 **Inshun:**
 
@@ -4200,7 +4200,7 @@ But we definitely can't let our guard down yet. Won't exactly be shocking if the
 
 **Musashi:**
 
-Still, I think we can take a quick break. Enough for Fujimaru to catch {(M) his /(F) her} breath. 
+Still, I think we can take a quick break. Enough for Fujimaru to catch [♂ his /♀ her] breath. 
 
 **Onui:**
 
@@ -4529,7 +4529,7 @@ Head...
 
 **Onui:**
 
-Huh...? {(M) Mister /(F) Miss}, I can't see anything. Why are you covering my eyes? 
+Huh...? [♂ Mister /♀ Miss], I can't see anything. Why are you covering my eyes? 
 
 **Musashi:**
 
@@ -4641,7 +4641,7 @@ Run away, live to fight another day!
 
 **Onui:**
 
-Wah! What is it now, {(M) mister /(F) miss}? Ah! You're going to carry us again!? 
+Wah! What is it now, [♂ mister /♀ miss]? Ah! You're going to carry us again!? 
 
 **D：Tasuke:**
 
@@ -4966,7 +4966,7 @@ You have my thanks! Not only do I already possess an invincible body, but now an
 
 **Narration:**
 
-The {(M) man /(F) woman} held back {(M) his /(F) her} urge to scream with all {(M) his /(F) her} might. Instead, {(M) he /(F) she} ground {(M) his /(F) her} teeth until {(M) his /(F) her} gums started to bleed. 
+The [♂ man /♀ woman] held back [♂ his /♀ her] urge to scream with all [♂ his /♀ her] might. Instead, [♂ he /♀ she] ground [♂ his /♀ her] teeth until [♂ his /♀ her] gums started to bleed. 
 
 **Narration:**
 
@@ -5116,7 +5116,7 @@ Right. Of course Lord Inshun would do that. We may not have known each other lon
 
 **Onui:**
 
-Here's some water, {(M) mister /(F) miss}. 
+Here's some water, [♂ mister /♀ miss]. 
 
 ---
 
@@ -5171,7 +5171,7 @@ Feh. Absurd. The only thing here is my smithy.
 
 **Masculine Youth:**
 
-None of the village folk come by either. Outta all the things making a racket outside my window, never in my years would've thought they'd be a lady samurai and a {(M) boy /(F) girl} in strange garb. 
+None of the village folk come by either. Outta all the things making a racket outside my window, never in my years would've thought they'd be a lady samurai and a [♂ boy /♀ girl] in strange garb. 
 
 **Masculine Youth:**
 
@@ -5239,7 +5239,7 @@ They're failures. But never you mind that. Onui, you and Tasuke head inside.
 
 **Onui:**
 
-What about Ms. Samurai and the nice {(M) man /(F) lady}? 
+What about Ms. Samurai and the nice [♂ man /♀ lady]? 
 
 **Masculine Youth:**
 
@@ -5247,7 +5247,7 @@ I need to talk to them first. Now get.
 
 **Onui:**
 
-Okay! Come in soon, Ms. Samurai! You too, {(M) mister /(F) miss}! 
+Okay! Come in soon, Ms. Samurai! You too, [♂ mister /♀ miss]! 
 
 **B：Tasuke:**
 
@@ -6582,7 +6582,7 @@ Maybe they're dark ghosts or something?
 
 **Senji Muramasa:**
 
-{(M) Attaboy /(F) Attagirl}. Got it in one. 
+[♂ Attaboy /♀ Attagirl]. Got it in one. 
 
 ---
 
@@ -6778,7 +6778,7 @@ The Heroic Spirit Swordmasters!
 
 **Senji Muramasa:**
 
-{(M) Attaboy /(F) Attagirl}. Got it in one. 
+[♂ Attaboy /♀ Attagirl]. Got it in one. 
 
 ---
 
@@ -7723,7 +7723,7 @@ Come now, princess, this way. We must hurry back to the castle.
 
 **Castle Warrior:**
 
-You there, the woman with the katana, and the {(M) man /(F) woman} in strange dress. That was a truly splendid mediation. I am grateful for your assistance. 
+You there, the woman with the katana, and the [♂ man /♀ woman] in strange dress. That was a truly splendid mediation. I am grateful for your assistance. 
 
 **Castle Warrior:**
 
@@ -7854,7 +7854,7 @@ At any rate.
 
 **Missionary:**
 
-You there, young {(M) man /(F) lady}. If there is something you wish to confess, then tell me. Just this once, I shall listen to what you have to say. 
+You there, young [♂ man /♀ lady]. If there is something you wish to confess, then tell me. Just this once, I shall listen to what you have to say. 
 
 **Onui:**
 
@@ -9565,7 +9565,7 @@ Didn't you say Fujimaru's body was still in a coma in Chaldea, and showing no si
 
 **Musashi:**
 
-Also that you don't know if {(M) his /(F) her} mind has gone off to a Singularity, or if all of Shimousa is just part of a dream {(M) he's /(F) she's} having, right? 
+Also that you don't know if [♂ his /♀ her] mind has gone off to a Singularity, or if all of Shimousa is just part of a dream [♂ he's /♀ she's] having, right? 
 
 **Musashi:**
 
@@ -10048,7 +10048,7 @@ It's no fault of yours. His sword ki is incredible. Even as a Servant, it was en
 
 **Musashi:**
 
-That was uncalled for, Tajima-no-Kami. Just because I acted rudely to you before is no reason to take it out on {(M) him /(F) her}. 
+That was uncalled for, Tajima-no-Kami. Just because I acted rudely to you before is no reason to take it out on [♂ him /♀ her]. 
 
 **Musashi:**
 
@@ -10076,7 +10076,7 @@ And just what do you mean by that?
 
 **Onui:**
 
-Uh, hey, {(M) mister /(F) miss}!? There are big birds flying towards us. Do you think they're crows or something? 
+Uh, hey, [♂ mister /♀ miss]!? There are big birds flying towards us. Do you think they're crows or something? 
 
 **Onui:**
 
@@ -11970,7 +11970,7 @@ Oh, there you are, Onui. Here, you can have Tasuke back now.
 
 **B：Onui:**
 
-Welcome back, Ms. Samurai, and sorry to have kept you waiting, Tasuke! Oh, you too, {(M) mister /(F) miss}! 
+Welcome back, Ms. Samurai, and sorry to have kept you waiting, Tasuke! Oh, you too, [♂ mister /♀ miss]! 
 
 **B：Onui:**
 
@@ -12981,11 +12981,11 @@ Hehe, you all sound like you're having so much fun!
 
 **Kiyohime:**
 
-Please tell me what you were discussing,{(M) Lord /(F) Lady} Fujimaru! 
+Please tell me what you were discussing,[♂ Lord /♀ Lady] Fujimaru! 
 
 **Castle Warrior:**
 
-My lady, you are standing much too close to your guest. I implore you to give {(M) him /(F) her} some space! 
+My lady, you are standing much too close to your guest. I implore you to give [♂ him /♀ her] some space! 
 
 **Kiyohime:**
 
@@ -13001,7 +13001,7 @@ Oh...all right. You're so strict, Lord Tajima-no-Kami. But, I suppose a lady doe
 
 **Kiyohime:**
 
-It is a pleasure to see you and your retainers again, {(M) Lord /(F) Lady} Fujimaru. Oh, I see you have another in your retinue now. 
+It is a pleasure to see you and your retainers again, [♂ Lord /♀ Lady] Fujimaru. Oh, I see you have another in your retinue now. 
 
 **Kiyohime:**
 
@@ -13142,7 +13142,7 @@ Wh-what he said.
 
 **Kiyohime:**
 
-Haha, no need to be so formal! Class need never come between us, {(M) Lord /(F) Lady} Fujimaru! 
+Haha, no need to be so formal! Class need never come between us, [♂ Lord /♀ Lady] Fujimaru! 
 
 ---
 
@@ -13155,13 +13155,13 @@ How insolent.
 
 **Kiyohime:**
 
-It's fine, Lord Tajima. {(M) Lord /(F) Lady} Fujimaru can say whatever {(M) he /(F) she} likes to me. 
+It's fine, Lord Tajima. [♂ Lord /♀ Lady] Fujimaru can say whatever [♂ he /♀ she] likes to me. 
 
 ---
 
 **Kiyohime:**
 
-Well then, {(M) Lord /(F) Lady} Fujimaru! Now that we have gotten that out of the way, let's move on to more urgent matters! 
+Well then, [♂ Lord /♀ Lady] Fujimaru! Now that we have gotten that out of the way, let's move on to more urgent matters! 
 
 **Kiyohime:**
 
@@ -13201,7 +13201,7 @@ Princess...I do not blame you for feeling that way at all, what with such an awf
 
 **Kiyohime:**
 
-Still, I will say this nonetheless! {(M) Lord /(F) Lady} Fujimaru! 
+Still, I will say this nonetheless! [♂ Lord /♀ Lady] Fujimaru! 
 
 **Kiyohime:**
 
@@ -13325,7 +13325,7 @@ Oh well, it worked out how I wanted while I was off fretting, so I guess it's al
 
 **Kiyohime:**
 
-I can't believe you'll be protecting me personally,{(M) Lord /(F) Lady} Fujimaru...I'm so happy I could die...
+I can't believe you'll be protecting me personally,[♂ Lord /♀ Lady] Fujimaru...I'm so happy I could die...
 
 ---
 
@@ -13465,7 +13465,7 @@ As you wish, my lady. Lord Tajima-no-Kami has ordered me to obey your instructio
 
 **Danzo:**
 
-Oh, if it isn't Lord Kotarou and Lady Musashi. I see you are here too, {(M) Lord /(F) Lady} Fujimaru. 
+Oh, if it isn't Lord Kotarou and Lady Musashi. I see you are here too, [♂ Lord /♀ Lady] Fujimaru. 
 
 **Danzo:**
 
@@ -13497,7 +13497,7 @@ Good.
 
 **Kiyohime:**
 
-Very well then, Lady Swordfighter and {(M) Lord /(F) Lady} Fujimaru! I shall demonstrate the flammable water I imported from foreign lands! 
+Very well then, Lady Swordfighter and [♂ Lord /♀ Lady] Fujimaru! I shall demonstrate the flammable water I imported from foreign lands! 
 
 ---
 
@@ -13535,7 +13535,7 @@ Th-this battle is ours! The tiger(? ) the princess summoned has rolled over and 
 
 **Kiyohime:**
 
-But I am tremendously impressed by your skill, Lady Swordfighter and {(M) Lord /(F) Lady} Fujimaru. You are both equally wonderful! 
+But I am tremendously impressed by your skill, Lady Swordfighter and [♂ Lord /♀ Lady] Fujimaru. You are both equally wonderful! 
 
 **Musashi:**
 
@@ -13709,11 +13709,11 @@ Oh, that's a good point. Hehe, you've got me there. Come to think of it, Lady Mu
 
 **Kiyohime:**
 
-Did you know {(M) Lord /(F) Lady} Fujimaru before you met {(M) him /(F) her} here? 
+Did you know [♂ Lord /♀ Lady] Fujimaru before you met [♂ him /♀ her] here? 
 
 **Musashi:**
 
-Yeah, I first met {(M) him /(F) her} on an island not too long ago. That was a pretty rough time. 
+Yeah, I first met [♂ him /♀ her] on an island not too long ago. That was a pretty rough time. 
 
 **Musashi:**
 
@@ -13881,7 +13881,7 @@ Enough! Give yourself up, or die!
 
 **Assassin of Paraíso:**
 
-But alas, it seems the Master of Chaldea and {(M) his /(F) her} pet ninja have arrived sooner than I expected. 
+But alas, it seems the Master of Chaldea and [♂ his /♀ her] pet ninja have arrived sooner than I expected. 
 
 **Fuuma Kotarou:**
 
@@ -13949,7 +13949,7 @@ Hmph, what is that pitiable gleam in your eyes? I sense no intent to kill, or ev
 ---
 
 **Fujimaru 1:**
-{(M) Your outfit is...something else. /(F) Your outfit is...very revealing. }
+[♂ Your outfit is...something else. /♀ Your outfit is...very revealing. ]
 
 ---
 
@@ -13974,7 +13974,7 @@ That said...You may make an imposing figure, but you clearly still have the mind
 
 **Assassin of Paraíso:**
 
-{(M) Is the female form such a rare sight for you? /(F) As a woman yourself, I fail to see what shocks you so much. }
+[♂ Is the female form such a rare sight for you? /♀ As a woman yourself, I fail to see what shocks you so much. ]
 
 **Assassin of Paraíso:**
 
@@ -14641,7 +14641,7 @@ Lord Tajima has called for every samurai under his command to assemble at once. 
 
 **Kiyohime:**
 
-As long as Lady Musashi and {(M) Lord /(F) Lady} Fujimaru are here with me, I don't really need anyone else...
+As long as Lady Musashi and [♂ Lord /♀ Lady] Fujimaru are here with me, I don't really need anyone else...
 
 **Kiyohime:**
 
@@ -14654,7 +14654,7 @@ By the way, what happened to the castle's retainers? I would have thought they'd
 
 **Kiyohime:**
 
-{(M) Lord /(F) Lady} Fujimaru...? 
+[♂ Lord /♀ Lady] Fujimaru...? 
 
 ---
 
@@ -15063,7 +15063,7 @@ I really am sorry. I didn't want to do things this way.
 
 **Berserker of Saṃghāta Hell:**
 
-But the Lord Sorcerer said that Shinmen Musashi and the {(M) boy /(F) girl} from Chaldea keep getting in our way, and they need to be taken care of immediately. 
+But the Lord Sorcerer said that Shinmen Musashi and the [♂ boy /♀ girl] from Chaldea keep getting in our way, and they need to be taken care of immediately. 
 
 **Berserker of Saṃghāta Hell:**
 
@@ -15439,7 +15439,7 @@ Me!?
 
 **Kiyohime:**
 
-P-please, r-run away, {(M) Lord /(F) Lady} Fujimaru...You mustn't...I don't...
+P-please, r-run away, [♂ Lord /♀ Lady] Fujimaru...You mustn't...I don't...
 
 **Kiyohime:**
 
@@ -16129,7 +16129,7 @@ It seems that the Heroic Spirit Swordmasters didn't expect Master to be here in 
 
 **Fuuma Kotarou:**
 
-And we now know that they see {(M) him /(F) her} as a threat. The more allies we have on our side, the better. 
+And we now know that they see [♂ him /♀ her] as a threat. The more allies we have on our side, the better. 
 
 ---
 
@@ -16292,7 +16292,7 @@ But you stayed behind and fought the villain to keep the princess safe.
 
 **Danzo:**
 
-Not only that, you suffered a terrible injury when you shielded that young {(M) man /(F) woman} from a surprise attack. 
+Not only that, you suffered a terrible injury when you shielded that young [♂ man /♀ woman] from a surprise attack. 
 
 **Danzo:**
 
@@ -16830,7 +16830,7 @@ Okay! Is it someone from the village? Like Ms. Gohei, or Mr. Numazou?
 
 **Onui:**
 
-Oh, it's the nice {(M) man /(F) lady} and Ms. Samurai! Along with Mr. Redheaded Ninja and...a lady I don't recognize! 
+Oh, it's the nice [♂ man /♀ lady] and Ms. Samurai! Along with Mr. Redheaded Ninja and...a lady I don't recognize! 
 
 **G：Tasuke:**
 
@@ -16870,7 +16870,7 @@ Indeed. As of late there are so many unusual characters running around that this
 
 **Danzo:**
 
-Apologies for a belated introduction. I am Danzo. I am to escort {(M) Lord /(F) Lady} Fujimaru and Lady Musashi to this hermitage, and see that they return safely. 
+Apologies for a belated introduction. I am Danzo. I am to escort [♂ Lord /♀ Lady] Fujimaru and Lady Musashi to this hermitage, and see that they return safely. 
 
 **Danzo:**
 
@@ -16891,7 +16891,7 @@ Come on, take a break with us.
 
 **Danzo:**
 
-...Very well then. If you insist as well, {(M) Lord /(F) Lady} Fujimaru, it would be rude of me to refuse. 
+...Very well then. If you insist as well, [♂ Lord /♀ Lady] Fujimaru, it would be rude of me to refuse. 
 
 ---
 
@@ -17776,7 +17776,7 @@ Yes, it's the same as when the other Heroic Spirit Swordmasters appeared! One of
 
 **Onui:**
 
-Please save me, {(M) mister /(F) miss}...
+Please save me, [♂ mister /♀ miss]...
 
 **Berserker of Saṃghāta Hell:**
 
@@ -18316,7 +18316,7 @@ Don't worry, we'll rescue you in no time!
 
 **Onui:**
 
-{(M) Misteeer /(F) Miiiss}! 
+[♂ Misteeer /♀ Miiiss]! 
 
 **Senji Muramasa:**
 
@@ -18902,7 +18902,7 @@ That's right. Understand your capabilities. Times like these, you want your comp
 
 **Musashi:**
 
-Good point. I don't know just how much {(M) he's /(F) she's} been walking, but the fact that {(M) he /(F) she} crossed an entire continent means {(M) he /(F) she} is definitely no slouch. 
+Good point. I don't know just how much [♂ he's /♀ she's] been walking, but the fact that [♂ he /♀ she] crossed an entire continent means [♂ he /♀ she] is definitely no slouch. 
 
 **Musashi:**
 
@@ -19536,7 +19536,7 @@ So if you start to get so tired that you feel it in your knees, take a break. We
 
 **Danzo:**
 
-In that case, why don't I carry {(M) him /(F) her}? I may not look like it, but I am capable of carrying almost a ton. 
+In that case, why don't I carry [♂ him /♀ her]? I may not look like it, but I am capable of carrying almost a ton. 
 
 **Musashi:**
 
@@ -19548,7 +19548,7 @@ I mean, that's amazing,but I'm afraid it would be too risky.
 
 **Musashi:**
 
-If you happened to drop {(M) him /(F) her} for any reason while we were running at our top speed, {(M) he /(F) she} could be seriously injured, or worse. Especially since this isn't exactly the safest path. 
+If you happened to drop [♂ him /♀ her] for any reason while we were running at our top speed, [♂ he /♀ she] could be seriously injured, or worse. Especially since this isn't exactly the safest path. 
 
 **Fuuma Kotarou:**
 
@@ -19681,7 +19681,7 @@ And you don't come from nobility either, do you?
 ---
 
 **Fujimaru 1:**
-I'm just an ordinary {(M) guy /(F) girl}. 
+I'm just an ordinary [♂ guy /♀ girl]. 
 
 ---
 
@@ -19962,7 +19962,7 @@ I'm not backing off.
 
 **Danzo:**
 
-...{(M) Lord /(F) Lady} Fujimaru, I don't understand. Can't you give orders and provide support from farther back just as well? 
+...[♂ Lord /♀ Lady] Fujimaru, I don't understand. Can't you give orders and provide support from farther back just as well? 
 
 **Fuuma Kotarou:**
 
@@ -20397,7 +20397,7 @@ Now, now, don't try to run. Yeeesss, just stay niiice and still.
 
 **Berserker of Saṃghāta Hell:**
 
-Theeere's a good {(M) boy /(F) girl}. Don't move. No, no, I won't hurt you. We're friends now, right? 
+Theeere's a good [♂ boy /♀ girl]. Don't move. No, no, I won't hurt you. We're friends now, right? 
 
 **Berserker of Saṃghāta Hell:**
 
@@ -20470,7 +20470,7 @@ Now, what were those called again? Magical...something? Ah, yes! Magical circuit
 
 **Berserker of Saṃghāta Hell:**
 
-I'm just going to play with yours a little,so bear with me, okay? Theeere's a good {(M) boy /(F) girl}. 
+I'm just going to play with yours a little,so bear with me, okay? Theeere's a good [♂ boy /♀ girl]. 
 
 **Berserker of Saṃghāta Hell:**
 
@@ -20940,7 +20940,7 @@ I mean, we care at least a little. Now that you've fought all those big oni and 
 
 **Berserker of Saṃghāta Hell:**
 
-...and now that your Master's had {(M) his /(F) her} insides all stirred up, and lost sooo much blood, {(M) he /(F) she} must be exhausted. 
+...and now that your Master's had [♂ his /♀ her] insides all stirred up, and lost sooo much blood, [♂ he /♀ she] must be exhausted. 
 
 **Berserker of Saṃghāta Hell:**
 
@@ -20948,7 +20948,7 @@ And arguing over whether we ate the kids or not is only going to make that worse
 
 **Berserker of Saṃghāta Hell:**
 
-So now that {(M) he's /(F) she's} so thoroughly tired out,I bet {(M) his /(F) her} meat must be nice and tender now...
+So now that [♂ he's /♀ she's] so thoroughly tired out,I bet [♂ his /♀ her] meat must be nice and tender now...
 
 **Berserker of Saṃghāta Hell:**
 
@@ -21266,7 +21266,7 @@ Okay...
 
 **Rider of Kālasūtra Hell:**
 
-And, if I may ask you something as well, {(M) Lord /(F) Lady} Fujimaru...
+And, if I may ask you something as well, [♂ Lord /♀ Lady] Fujimaru...
 
 **Rider of Kālasūtra Hell:**
 
@@ -23007,7 +23007,7 @@ The east has the keep, right? Maybe that means you're more likely to transform t
 
 **Fuuma Kotarou:**
 
-That could be it. I believe Master should be okay thanks to {(M) his /(F) her} Mystic Codes, and you should be fine as well, Lady Musashi. 
+That could be it. I believe Master should be okay thanks to [♂ his /♀ her] Mystic Codes, and you should be fine as well, Lady Musashi. 
 
 **Fuuma Kotarou:**
 
@@ -23068,7 +23068,7 @@ Don't worry, I haven't let go of Onui's hand.
 
 **Onui:**
 
-Hehe, your hand is so warm, {(M) mister /(F) miss}. 
+Hehe, your hand is so warm, [♂ mister /♀ miss]. 
 
 **E：Tasuke:**
 
@@ -23085,7 +23085,7 @@ It's okay. I'm not scared with everyone else around. I know Grandpa and Ms. Samu
 
 **Onui:**
 
-Are you scared of them, {(M) mister /(F) miss}? Is that why you're holding my hand? 
+Are you scared of them, [♂ mister /♀ miss]? Is that why you're holding my hand? 
 
 **E：Tasuke:**
 
@@ -23215,7 +23215,7 @@ Kotarou needs backup.
 
 **Musashi:**
 
-You heard the {(M) man /(F) lady}, Otama! We'll come back after we've taken care of those creatures! 
+You heard the [♂ man /♀ lady], Otama! We'll come back after we've taken care of those creatures! 
 
 **Otama:**
 
@@ -23401,7 +23401,7 @@ I will! See you later, Ms. Samurai! See you later, Grandpa! Bye, Mr. Kotarou! By
 
 **Onui:**
 
-Be careful out there, {(M) mister /(F) miss}! 
+Be careful out there, [♂ mister /♀ miss]! 
 
 ---
 
@@ -24103,7 +24103,7 @@ I'd rather have you gathering intel where I could see you than sneaking around b
 
 **Danzo:**
 
-Th-then...did you know too,{(M) Lord /(F) Lady} Fujimaru...? 
+Th-then...did you know too,[♂ Lord /♀ Lady] Fujimaru...? 
 
 ---
 
@@ -24139,7 +24139,7 @@ Oh yeah, good point. Danzo was seriously flustered when that happened, wasn't sh
 
 **Danzo:**
 
-So you knew about me all along, Lady Musashi. Then Lord Kotarou figured it out soon after...as did {(M) Lord /(F) Lady} Fujimaru. 
+So you knew about me all along, Lady Musashi. Then Lord Kotarou figured it out soon after...as did [♂ Lord /♀ Lady] Fujimaru. 
 
 **Danzo:**
 
@@ -24179,7 +24179,7 @@ Exactly.
 
 **Fuuma Kotarou:**
 
-Even if you had been secretly planning an attempt on Master's life, I was prepared to keep {(M) him /(F) her} safe. 
+Even if you had been secretly planning an attempt on Master's life, I was prepared to keep [♂ him /♀ her] safe. 
 
 **Fuuma Kotarou:**
 
@@ -24395,7 +24395,7 @@ We must stop the sorcerer before that happens, or the darkness will destroy this
 
 **Danzo:**
 
-...and then flow into yours,{(M) Lord /(F) Lady} Fujimaru. 
+...and then flow into yours,[♂ Lord /♀ Lady] Fujimaru. 
 
 **Fuuma Kotarou:**
 
@@ -24705,7 +24705,7 @@ Danzo...!
 
 **Danzo:**
 
-...Goodbye, {(M) Lord /(F) Lady} Fujimaru. One way or another, this is where we part ways! 
+...Goodbye, [♂ Lord /♀ Lady] Fujimaru. One way or another, this is where we part ways! 
 
 ---
 
@@ -24919,11 +24919,11 @@ I'm afraid it didn't work this time.
 
 **Musashi:**
 
-I thought Fujimaru would be able to heal me with {(M) his /(F) her} Mystic Code like {(M) he /(F) she} always does, too...
+I thought Fujimaru would be able to heal me with [♂ his /♀ her] Mystic Code like [♂ he /♀ she] always does, too...
 
 **Musashi:**
 
-...but this wound on my right eye just refuses to close up. {(M) He /(F) She} did manage to stop the bleeding, though. 
+...but this wound on my right eye just refuses to close up. [♂ He /♀ She] did manage to stop the bleeding, though. 
 
 **Senji Muramasa:**
 
@@ -25631,7 +25631,7 @@ I believe the spell I brought with me finally activated when I temporarily absor
 
 **Da Vinci:**
 
-Ah yes, the special spell I prepared to reboot the comms on the Mystic Code Fujimaru always carries with {(M) him /(F) her}. 
+Ah yes, the special spell I prepared to reboot the comms on the Mystic Code Fujimaru always carries with [♂ him /♀ her]. 
 
 **Da Vinci:**
 
@@ -25763,7 +25763,7 @@ Hell, hm. Fascinating. That would mean you have indeed found yourself in a night
 
 **Holmes:**
 
-{(M) Mr. /(F) Ms. } Fujimaru has wandered into the rift between dreams and reality. 
+[♂ Mr. /♀ Ms. ] Fujimaru has wandered into the rift between dreams and reality. 
 
 **Holmes:**
 
@@ -25779,15 +25779,15 @@ Correct. Ms. Da Vinci gave a brief rundown before,but to be more precise...
 
 **Holmes:**
 
-The medical data from the last incident and {(M) Mr. /(F) Ms. } Fujimaru's condition during that nightmare {(M) he /(F) she} saw...
+The medical data from the last incident and [♂ Mr. /♀ Ms. ] Fujimaru's condition during that nightmare [♂ he /♀ she] saw...
 
 **Holmes:**
 
-...matched the data for {(M) his /(F) her} current condition very closely. Whether {(M) he /(F) she} remembers it or not, everything was carefully recorded in Chaldea's library. 
+...matched the data for [♂ his /♀ her] current condition very closely. Whether [♂ he /♀ she] remembers it or not, everything was carefully recorded in Chaldea's library. 
 
 **Holmes:**
 
-The medical team who monitored {(M) Mr. /(F) Ms. } Fujimaru during the last incident did an excellent job. 
+The medical team who monitored [♂ Mr. /♀ Ms. ] Fujimaru during the last incident did an excellent job. 
 
 **Holmes:**
 
@@ -25870,7 +25870,7 @@ She is a traveler. A world-crosser. A one of a kind being best described as a mo
 
 **Holmes:**
 
-And currently she is with {(M) Mr. /(F) Ms. } Fujimaru. 
+And currently she is with [♂ Mr. /♀ Ms. ] Fujimaru. 
 
 **Holmes:**
 
@@ -26186,7 +26186,7 @@ I...
 
 **Mash:**
 
-...I'd miss {(M) him /(F) her}, is all...
+...I'd miss [♂ him /♀ her], is all...
 
 ---
 
@@ -26378,11 +26378,11 @@ Hey! Why didn't you say something sooner!? That can have a big effect on how we 
 
 **Fuuma Kotarou:**
 
-Oh, don't worry, Master is resistant to poison. I believe {(M) him /(F) her} when {(M) he /(F) she} says it's just a little trouble. 
+Oh, don't worry, Master is resistant to poison. I believe [♂ him /♀ her] when [♂ he /♀ she] says it's just a little trouble. 
 
 **Fuuma Kotarou:**
 
-I'm guessing {(M) he /(F) she} didn't even realize anything was off until we got this far. 
+I'm guessing [♂ he /♀ she] didn't even realize anything was off until we got this far. 
 
 **Musashi:**
 
@@ -27122,7 +27122,7 @@ Lord Muramasa, the princess is safe!
 
 **Kiyohime:**
 
-A-are you two with Lady Musashi and{(M) Lord /(F) Lady} Fujimaru...? 
+A-are you two with Lady Musashi and[♂ Lord /♀ Lady] Fujimaru...? 
 
 **Fuuma Kotarou:**
 
@@ -27574,7 +27574,7 @@ Let me show you firsthand what sort of hell gave birth to that resentment!
 
 **Fuuma Kotarou:**
 
-Lord Muramasa! Lady Musashi! {(M) Lord /(F) Lady} Fujimaru! Get back! 
+Lord Muramasa! Lady Musashi! [♂ Lord /♀ Lady] Fujimaru! Get back! 
 
 **Amakusa Shirou:**
 
@@ -27942,11 +27942,11 @@ You...
 
 **Longsword Swordsman:**
 
-I could have taken that {(M) boy's /(F) girl's} head clean off just now, but I chose not to. 
+I could have taken that [♂ boy's /♀ girl's] head clean off just now, but I chose not to. 
 
 **Longsword Swordsman:**
 
-The Lord Sorcerer only asked me to kill Shinmen Musashi. He said nothing about that {(M) boy /(F) girl}. 
+The Lord Sorcerer only asked me to kill Shinmen Musashi. He said nothing about that [♂ boy /♀ girl]. 
 
 **Musashi:**
 
@@ -28399,7 +28399,7 @@ Farewell! ...Thank you, Fujimaru!
 
 **Fuuma Kotarou:**
 
-...! {(M) Lord /(F) Lady} Fujimaru! Wh-why did you jump off of the keep!? 
+...! [♂ Lord /♀ Lady] Fujimaru! Wh-why did you jump off of the keep!? 
 
 **Fuuma Kotarou:**
 
@@ -28899,7 +28899,7 @@ From the bottom of my heart...
 
 **Kiyohime:**
 
-Thank you so much, {(M) Lord /(F) Lady} Fujimaru. I'm sorry I can't repay your kindness in the way you deserve. 
+Thank you so much, [♂ Lord /♀ Lady] Fujimaru. I'm sorry I can't repay your kindness in the way you deserve. 
 
 **Kiyohime:**
 
@@ -29014,7 +29014,7 @@ Right. We will never be able to set foot in this Shimousa again...
 
 **Onui:**
 
-H-huh! You mean you're leaving, {(M) mister /(F) miss}!? I thought you were going to come back to Grandpa's hermitage with us? 
+H-huh! You mean you're leaving, [♂ mister /♀ miss]!? I thought you were going to come back to Grandpa's hermitage with us? 
 
 ---
 
@@ -29469,7 +29469,7 @@ My, that's wonderful to hear. But, Master, I'm a little worried...Don't you thin
 
 **Shuten-Douji:**
 
-Didn't you hear? Master up and wandered off somewhere while {(M) he /(F) she} was dreaming. 
+Didn't you hear? Master up and wandered off somewhere while [♂ he /♀ she] was dreaming. 
 
 **Raikou:**
 
@@ -29501,7 +29501,7 @@ Lots of alcohol...Stuff happens and you can't take it back...Yes, that sounds li
 
 **Mash:**
 
-I-I'm sorry, everyone,but Senpai really needs {(M) his /(F) her} rest...
+I-I'm sorry, everyone,but Senpai really needs [♂ his /♀ her] rest...
 
 ---
 

@@ -502,16 +502,16 @@ Okay, listen, let me put it to you like this:
 Do you really think they'll believe that a Master with no experience, who showed up on the day of the attack just to fill an empty space on the roster...
  
 **Staff B:**
-...was able to command SEVERAL different Servants, AND take on the actual heroes of all the time periods {(M) he /(F) she} visited...
+...was able to command SEVERAL different Servants, AND take on the actual heroes of all the time periods [♂ he /♀ she] visited...
  
 **Staff B:**
 ...alone, without a modicum of support? 
  
 **Staff B:**
-And finally, that when the dust settled, {(M) he /(F) she} had actually managed to restore humanity? Because even I don't believe it! 
+And finally, that when the dust settled, [♂ he /♀ she] had actually managed to restore humanity? Because even I don't believe it! 
  
 **Staff B:**
-We shouldn't even be alive right now! But we are, and it's all thanks to {(M) him /(F) her}! 
+We shouldn't even be alive right now! But we are, and it's all thanks to [♂ him /♀ her]! 
  
 **Staff A:**
 Well...I...
@@ -544,10 +544,10 @@ For example, we could have it say “Chaldea's backup was in fine shape, even af
 ...I know this is wrong. It'll even end up disgracing Fujimaru's name. 
  
 **Staff B:**
-But...{(M) He's /(F) She's} been fighting alongside us for over a year now. 
+But...[♂ He's /♀ She's] been fighting alongside us for over a year now. 
  
 **Staff B:**
-Don't you want to make sure {(M) he /(F) she} has a future? 
+Don't you want to make sure [♂ he /♀ she] has a future? 
  
 **Staff A:**
 ...Okay, I'm in. Where do we start? 
@@ -562,7 +562,7 @@ Ah...I see.
 Well, they've actually got the right idea. 
  
 **Da Vinci:**
-After everything, there's no doubting that Fujimaru is a hero who saved the world. So, now that the Association knows {(M) his /(F) her} talent, they're not going to leave {(M) him /(F) her} alone. 
+After everything, there's no doubting that Fujimaru is a hero who saved the world. So, now that the Association knows [♂ his /♀ her] talent, they're not going to leave [♂ him /♀ her] alone. 
  
 **Da Vinci:**
 Assuming, of course, that we just hand over the raw data. 
@@ -571,7 +571,7 @@ Assuming, of course, that we just hand over the raw data.
 I don't want Senpai to get caught up in a political battle either. 
  
 **Mash:**
-But, it's not fair that nobody will know {(M) he /(F) she} saved the world. 
+But, it's not fair that nobody will know [♂ he /♀ she] saved the world. 
  
 ---
 
@@ -598,13 +598,13 @@ You all know.
 
  
 **Da Vinci:**
-{(M) He's /(F) She's} right. You know, Mash. So do I. 
+[♂ He's /♀ She's] right. You know, Mash. So do I. 
  
 **Da Vinci:**
 So does the entire Chaldea staff, and Romani. 
  
 **Da Vinci:**
-And don't forget the many Servants {(M) he /(F) she} formed contracts with. 
+And don't forget the many Servants [♂ he /♀ she] formed contracts with. 
  
 **Da Vinci:**
 Heroes, Anti-Heroes, the Servants who gathered at the Temple of Time...They certainly know. 
@@ -950,16 +950,16 @@ Good. I'll be straight with you: the situation is dire, and we have no clue what
 Mash, you should have a good idea what Romani's role was by now, right? 
  
 **Da Vinci:**
-You need to verify Fujimaru's existence so that {(M) he doesn't /(F) she doesn't} disappear. 
+You need to verify Fujimaru's existence so that [♂ he doesn't /♀ she doesn't] disappear. 
  
 **Da Vinci:**
-{(M) His /(F) Her} vitals will be in a constant state of flux. Don't take your eyes off them; if any start to show abnormal values, edit them immediately. 
+[♂ His /♀ Her] vitals will be in a constant state of flux. Don't take your eyes off them; if any start to show abnormal values, edit them immediately. 
  
 **Da Vinci:**
 You won't be able to sleep until things calm down. In some ways, this may be harder than Rayshifting. 
  
 **Da Vinci:**
-But no matter how dire it gets, focus on your Master's data and keep validating {(M) his /(F) her} existence. 
+But no matter how dire it gets, focus on your Master's data and keep validating [♂ his /♀ her] existence. 
  
 **Da Vinci:**
 That's the best thing you can do for Fujimaru right now. 
@@ -1135,19 +1135,19 @@ This can't be right!
 All the Servants that should have Rayshifted along with Fujimaru have been sent flying! 
  
 **C：Staff C:**
-Fujimaru doesn't have any Servants to support {(M) him /(F) her} anymore! 
+Fujimaru doesn't have any Servants to support [♂ him /♀ her] anymore! 
  
 **Mash:**
-What!? Da Vinci, you have to call {(M) him /(F) her} back! 
+What!? Da Vinci, you have to call [♂ him /♀ her] back! 
  
 **C：Staff B:**
 We can't! The Singularity is establishing itself too quickly! 
  
 **C：Staff B:**
-We can't bring Fujimaru back until {(M) he /(F) she} fixes the era! 
+We can't bring Fujimaru back until [♂ he /♀ she] fixes the era! 
  
 **C：Staff B:**
-We'll give it a shot, but I don't think we can do it before {(M) he /(F) she} hits the ground! 
+We'll give it a shot, but I don't think we can do it before [♂ he /♀ she] hits the ground! 
  
 **Mash:**
 Master! 
@@ -1161,10 +1161,10 @@ I'm done for!
 
  
 **D：???:**
-Ah, yes. Save the falling {(M) boy /(F) girl}. 
+Ah, yes. Save the falling [♂ boy /♀ girl]. 
  
 **D：???:**
-That is precisely the {(M) girl /(F) boy}'s role in this soon-to-begin story of love and hope: the “meet cute,” as it were. 
+That is precisely the [♂ girl /♀ boy]'s role in this soon-to-begin story of love and hope: the “meet cute,” as it were. 
  
 **D：???:**
 Soon enough, you will be off gallivanting about with your new love, doing your best to fix the Singularity. Or perhaps not. 
@@ -1384,7 +1384,7 @@ Of course, with any number of Masters urgently shouting“Archer, attack! ”, �
 Nonetheless, in this Singularity, revealing one's True Name could well prove fatal. 
  
 **D：???:**
-Are we clear on that, {(M) young man /(F) young lady}? 
+Are we clear on that, [♂ young man /♀ young lady]? 
  
 **D：???:**
 As such, I can tell you my class name to facilitate easy communication. 
@@ -1563,7 +1563,7 @@ Think of this as my audition of sorts.
 Now we've got 'em! ...Hey! Over here, guys! 
  
 **Ruffian B:**
-What a {(M) handsome guy /(F) pretty lady}. I can't wait to mess {(M) him /(F) her} up! 
+What a [♂ handsome guy /♀ pretty lady]. I can't wait to mess [♂ him /♀ her] up! 
  
 **Da Vinci:**
 Those are no run-of-the-mill ruffians...Are they enchanted!? 
@@ -1629,7 +1629,7 @@ I can enjoy the show all on my own accord!
 You tell that Archer, Senpai! 
  
 **Mash:**
-Senpai repaired all seven Singularities! {(M) He's /(F) She's} the greatest Master in the world! 
+Senpai repaired all seven Singularities! [♂ He's /♀ She's] the greatest Master in the world! 
  
 ---
 
@@ -1970,10 +1970,10 @@ However, there's something different about that building. What could it be?
 &ndash;Month X, Day Z Dantès' Journal 
  
 **???:**
-I have confirmed the presence of a visitor from Chaldea. {(M) He /(F) She} is now accompanied by...another. 
+I have confirmed the presence of a visitor from Chaldea. [♂ He /♀ She] is now accompanied by...another. 
  
 **???:**
-{(M) His /(F) Her} situation is more perilous than {(M) he /(F) she} realizes. For that one's heart is pure evil. 
+[♂ His /♀ Her] situation is more perilous than [♂ he /♀ she] realizes. For that one's heart is pure evil. 
  
 **???:**
 Believe me, I would know. For evil is as evil does. 
@@ -1982,7 +1982,7 @@ Believe me, I would know. For evil is as evil does.
 From the moment he was born, he only knew contempt. To him, love has always been a foreign concept. 
  
 **???:**
-That's why I find {(M) him /(F) her} standing at his side to be so...frightening. 
+That's why I find [♂ him /♀ her] standing at his side to be so...frightening. 
  
 **???:**
 However, if he was to find out what I was up to, I would lose the element of surprise. 
@@ -2014,7 +2014,7 @@ You should know that the barrier picked up a signal earlier.
 It seems that Chaldea has sent a Master here to restore humanity, just as we expected. 
  
 **A：???:**
-I hacked the Rayshift coordinates to make {(M) him /(F) her} fall, but I'm afraid it didn't go so well. 
+I hacked the Rayshift coordinates to make [♂ him /♀ her] fall, but I'm afraid it didn't go so well. 
  
 **A：???:**
 So, what's our plan now? 
@@ -2045,7 +2045,7 @@ Well, more or less.
 So what exactly are you planning to do with this whole “league” thing? 
  
 **C：???:**
-If it were me, I'd just kill {(M) him /(F) her} before {(M) he /(F) she} could see it coming! 
+If it were me, I'd just kill [♂ him /♀ her] before [♂ he /♀ she] could see it coming! 
  
 **C：???:**
 Wanna do that? Please? Hell, I'll do it if you like! 
@@ -2072,10 +2072,10 @@ At any rate, Chaldea is finally involved. I've been waiting for this for thousan
 ...No, I shouldn't let my personal feelings show. I'll have to keep them in check. 
  
 **Archer of Shinjuku:**
-In any case, I've been expecting this. As such, I have a plan in place. First, Berserker will go on a rampage, then Rider will track {(M) him /(F) her} down. 
+In any case, I've been expecting this. As such, I have a plan in place. First, Berserker will go on a rampage, then Rider will track [♂ him /♀ her] down. 
  
 **Archer of Shinjuku:**
-If {(M) he /(F) she} manages to survive even that, then it will be your turn, Assassin. 
+If [♂ he /♀ she] manages to survive even that, then it will be your turn, Assassin. 
  
 **Assassin of Shinjuku:**
 You got it! Let's see, that would mean I go...third!? Aw man, why do I hafta start late? 
@@ -2717,7 +2717,7 @@ Are you good at that sort of thing, Master?
 Uhh...If by “good” you mean “absolutely terrible,” then sure. 
  
 **Da Vinci:**
-{(M) He /(F) She} may put {(M) his /(F) her} life on the line in everything {(M) he /(F) she} does, but {(M) he /(F) she}'s never once begged for it. 
+[♂ He /♀ She] may put [♂ his /♀ her] life on the line in everything [♂ he /♀ she] does, but [♂ he /♀ she]'s never once begged for it. 
  
 **Archer of Shinjuku:**
 My my, that certainly is brave! Although...Seen in another light, it could be a kind of cowardice. 
@@ -2729,7 +2729,7 @@ Begging for one's life is something humans do to forestall their deaths as long 
 You mustn't deny that. One should only go gentle into that good night when one is certain it is their time. 
  
 **Da Vinci:**
-Oh, but Fujimaru may be pretty good at buying time if you just let {(M) him /(F) her} keep talking! 
+Oh, but Fujimaru may be pretty good at buying time if you just let [♂ him /♀ her] keep talking! 
  
 **Archer of Shinjuku:**
 I'll be sure to keep that in mind.... Here they come! 
@@ -3003,7 +3003,7 @@ Phantom Spirits...Didn't Mr. Holmes mention those once?
 Mmm, true, there is much mystery surrounding Chaldea. But there are others I must chase right now. 
  
 **Holmes:**
-Namely, the Phantom Spirit who...No, I must not discuss this here. If you'll excuse me, {(M) Mr. /(F) Ms. } Fujimaru. 
+Namely, the Phantom Spirit who...No, I must not discuss this here. If you'll excuse me, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Archer of Shinjuku:**
 What's more, these Phantom Spirits are extraordinarily peculiar! 
@@ -3217,7 +3217,7 @@ I'll tell you where to&ndash;
 No need! Come on! 
  
 **Archer of Shinjuku:**
-...All right. Take care of {(M) him /(F) her}! 
+...All right. Take care of [♂ him /♀ her]! 
  
 **Archer of Shinjuku:**
 Now, I'd better find a way to make my own escape! 
@@ -3241,7 +3241,7 @@ And yet...I cannot see any meaning to his actions beyond a Servant defending his
 This won't do. I always get too worked up when it comes to him. 
  
 **Edmond Dantès:**
-There's also the question of...No, never mind. {(M) He /(F) She} should be fine with her. 
+There's also the question of...No, never mind. [♂ He /♀ She] should be fine with her. 
  
 **Edmond Dantès:**
 Now, we only need one more Servant to join Chaldea's side. 
@@ -3881,19 +3881,19 @@ So, you were unable to take down the target.
 Oh, sorry. I wasn't criticizing you. 
  
 **Archer of Shinjuku:**
-If anything, I expected this. {(M) He /(F) She} is Chaldea's last Master, after all. 
+If anything, I expected this. [♂ He /♀ She] is Chaldea's last Master, after all. 
  
 **Archer of Shinjuku:**
-Not only did {(M) he /(F) she} face the Incineration of Humanity alone, {(M) he /(F) she} defeated Goetia by {(M) himself /(F) herself}...and even lived to tell the tale. 
+Not only did [♂ he /♀ she] face the Incineration of Humanity alone, [♂ he /♀ she] defeated Goetia by [♂ himself /♀ herself]...and even lived to tell the tale. 
  
 **Archer of Shinjuku:**
-{(M) He's /(F) She's} the most powerful Master there is. 
+[♂ He's /♀ She's] the most powerful Master there is. 
  
 **Archer of Shinjuku:**
-If a sneak attack or two was all it took to kill {(M) him /(F) her}, {(M) he /(F) she}would have been dead long ago. 
+If a sneak attack or two was all it took to kill [♂ him /♀ her], [♂ he /♀ she]would have been dead long ago. 
  
 **Archer of Shinjuku:**
-Perhaps {(M) he /(F) she} has nine lives, or a guardian spirit watching over {(M) him /(F) her}, or is just extremely lucky. 
+Perhaps [♂ he /♀ she] has nine lives, or a guardian spirit watching over [♂ him /♀ her], or is just extremely lucky. 
  
 **Archer of Shinjuku:**
 But that's not all. You know this too, Rider. 
@@ -4237,10 +4237,10 @@ Your attempt to keep Fujimaru safe back then was one such time. Of that, I am ce
 As you know, we have not established formal contracts with Fujimaru. 
  
 **Altria Alter:**
-We are simply working together out of happenstance and shared interest. {(M) He /(F) She} has not yet reached a point where {(M) he /(F) she} can serve as an anchor for us to manifest in this world. 
+We are simply working together out of happenstance and shared interest. [♂ He /♀ She] has not yet reached a point where [♂ he /♀ she] can serve as an anchor for us to manifest in this world. 
  
 **Altria Alter:**
-Thus, there was no reason to defend {(M) him /(F) her} back then. Your fear of death was sincere. 
+Thus, there was no reason to defend [♂ him /♀ her] back then. Your fear of death was sincere. 
  
 **Altria Alter:**
 The Rider of Shinjuku is more Berserker than Rider. Stand before him, and your death is assured. Run away, and you may just manage to escape with your life. 
@@ -4249,7 +4249,7 @@ The Rider of Shinjuku is more Berserker than Rider. Stand before him, and your d
 The Incineration of Humanity is over. Fujimaru dying would have no effect on the world at large. 
  
 **Altria Alter:**
-So why did you save {(M) him /(F) her}? 
+So why did you save [♂ him /♀ her]? 
  
 **Archer of Shinjuku:**
 To be honest, I am really not quite sure. My body seemed to move almost entirely on its own. 
@@ -4258,7 +4258,7 @@ To be honest, I am really not quite sure. My body seemed to move almost entirely
 Of course, now that you mention it, you are correct! It makes not a lick of sense! 
  
 **Archer of Shinjuku:**
-Why DID I move to protect {(M) him /(F) her}? I could certainly not abide a meaningless death for myself. 
+Why DID I move to protect [♂ him /♀ her]? I could certainly not abide a meaningless death for myself. 
  
 **Archer of Shinjuku:**
 Why do you think I did it? 
@@ -4373,7 +4373,7 @@ I was bluffing.
 Bluffing. 
  
 **Archer of Shinjuku:**
-Think about it, young {(M) man /(F) lady}. How would you respond if I'd said, “Sorry, I don't actually know who I am myself! ”? 
+Think about it, young [♂ man /♀ lady]. How would you respond if I'd said, “Sorry, I don't actually know who I am myself! ”? 
  
 ---
 
@@ -4687,7 +4687,7 @@ Besides a PHONE wouldn't exactly be our method of getting back in touch if we we
 So, um...Who's going to answer it? 
  
 **Altria Alter:**
-{(M) He /(F) She} will. 
+[♂ He /♀ She] will. 
  
 ---
 
@@ -5064,7 +5064,7 @@ Hi, I'm the nervous, shady-looking Master.
 ...
  
 **Jeanne Alter:**
-{(M) Dude /(F) Girl}, I don't know what she told you, but you're being played. I mean, you did save the world, right? 
+[♂ Dude /♀ Girl], I don't know what she told you, but you're being played. I mean, you did save the world, right? 
  
 **Jeanne Alter:**
 Surely you can find a better Servant than her. 
@@ -5403,7 +5403,7 @@ I'm picking up three sources of powerful magical energy!
 Hey hey, check out the bonus just lying around! 
  
 **Ruffian B:**
-Yeehah! It's a geezer and {(M) a chick /(F) some chicks}! 
+Yeehah! It's a geezer and [♂ a chick /♀ some chicks]! 
  
 **Ruffian B:**
 Did we luck out or what! Let's take 'em all! 
@@ -5582,7 +5582,7 @@ Good! That goes for the Rider of Shinjuku as well!
 Not even you can easily jump over a wall of hellfire like this! 
  
 **Archer of Shinjuku:**
-On top of that, we can also use it to keep Master safe! ...Er, as long as {(M) he /(F) she} watches out for the heat! 
+On top of that, we can also use it to keep Master safe! ...Er, as long as [♂ he /♀ she] watches out for the heat! 
  
 **Rider of Shinjuku:**
 
@@ -6171,7 +6171,7 @@ Don't trust him too much. I have no doubt that he is your enemy.
 As long as I'm going around investigating like this, the Archer will surely be able to deduce the conclusion I've reached. 
  
 **Edmond Dantès:**
-So telling {(M) him /(F) her} not to trust him is not a stretch by any means. 
+So telling [♂ him /♀ her] not to trust him is not a stretch by any means. 
  
 **Edmond Dantès:**
 Anyway, now I just wait to see how he reacts upon learning about this. 
@@ -6180,7 +6180,7 @@ Anyway, now I just wait to see how he reacts upon learning about this.
 No doubt Master will try to trust him, but some suspicions will surely remain. 
  
 **Edmond Dantès:**
-When the time comes, will he attempt to kill {(M) him /(F) her}, or merely deceive {(M) him /(F) her}? 
+When the time comes, will he attempt to kill [♂ him /♀ her], or merely deceive [♂ him /♀ her]? 
  
 **Edmond Dantès:**
 Or perhaps he'll do something that not even “I” can predict. Either way, we'll soon find out. 
@@ -6194,10 +6194,10 @@ There are several ways of leading people into a trap. One is to cut off their es
 Another is to make them think their current path is the way they SHOULD go forward, and stop them from considering other paths as options. 
  
 **Narration:**
-I wonder which trap {(M) he /(F) she} will fall for? Not that it makes any difference now, of course. 
+I wonder which trap [♂ he /♀ she] will fall for? Not that it makes any difference now, of course. 
  
 **Narration:**
-Since {(M) he's /(F) she's} made the wrong choice right from the beginning. 
+Since [♂ he's /♀ she's] made the wrong choice right from the beginning. 
  
 **Archer of Shinjuku:**
 What's this? You say you cannot trust me!? 
@@ -6271,7 +6271,7 @@ In other words, if we charge in head-on, we'll be greeted by two hundred Colorat
 Hahaha! Needless to say, we wouldn't last long. 
  
 **Archer of Shinjuku:**
-Even if we Servants didn't die, Master certainly would, and without {(M) him /(F) her}, I'm afraid the game is over. 
+Even if we Servants didn't die, Master certainly would, and without [♂ him /♀ her], I'm afraid the game is over. 
  
 **Archer of Shinjuku:**
 And that's not all. 
@@ -6685,7 +6685,7 @@ But this thing is completely empty. Nothing we need to concern ourselves about.
 ...Tell me, Archer of Shinjuku: what is it you would have our Master choose? 
  
 **Archer of Shinjuku:**
-Proof of {(M) his /(F) her} willingness to get {(M) his /(F) her} hands dirty here in Shinjuku. 
+Proof of [♂ his /♀ her] willingness to get [♂ his /♀ her] hands dirty here in Shinjuku. 
  
 **Archer of Shinjuku:**
 I assume you've heard the expression“fight fire with fire” yes? 
@@ -7677,7 +7677,7 @@ I see.
 
  
 **Cursed Arm:**
-I must say, Master, you are a most admirable {(M) man /(F) woman}. 
+I must say, Master, you are a most admirable [♂ man /♀ woman]. 
  
 **Cursed Arm:**
 You not only prevented the Incineration of Humanity, you even came here to resolve this small Singularity. 
@@ -8270,7 +8270,7 @@ However...I believe a genius of Leonardo da Vinci's caliber should soon realize 
 At any rate, feel free to take your time and think it over. There's no reason to kill you any time soon. 
  
 **Assassin of Shinjuku:**
-Damn, talk about having the devil's own luck! You're a hell of a {(M) guy /(F) gal}, you know that? 
+Damn, talk about having the devil's own luck! You're a hell of a [♂ guy /♀ gal], you know that? 
  
 **Assassin of Shinjuku:**
 Anyway, you just sit tight for a while, all right? I know, why don't you keep him company? 
@@ -8353,7 +8353,7 @@ There are many Hornets patrolling the grounds, along with the multitude of King 
 At least I've finally just about run out of sentences praising or decrying the latter. 
  
 **Shakespeare:**
-Ahh, I'm so sorry, {(M) Sir /(F) Miss} Fujimaru! If only I hadn't written so many historical masterpieces...! 
+Ahh, I'm so sorry, [♂ Sir /♀ Miss] Fujimaru! If only I hadn't written so many historical masterpieces...! 
  
 ---
 
@@ -8386,7 +8386,7 @@ If not, I shall take it as one anyway!
 Still, from what little I heard, it was quite the foolish escapade&ndash;your being captured and all. 
  
 **Shakespeare:**
-Oh, I'm not being critical of you, {(M) Sir /(F) Miss} Fujimaru. I'm talking about the Archer of Shinjuku. 
+Oh, I'm not being critical of you, [♂ Sir /♀ Miss] Fujimaru. I'm talking about the Archer of Shinjuku. 
  
 **Shakespeare:**
 It would be foolish to believe he didn't have at least some idea of the Assassin of Shinjuku's ability. 
@@ -8508,7 +8508,7 @@ No no, it's quite all right.
 I may be subjected to more torture, but I doubt they'll kill me for a while yet. 
  
 **Shakespeare:**
-Right now, your safety is of the utmost importance, {(M) Sir /(F) Miss} Fujimaru. 
+Right now, your safety is of the utmost importance, [♂ Sir /♀ Miss] Fujimaru. 
  
 **Shakespeare:**
 Worry not about me! But, do come rescue me later, when you can. 
@@ -8602,7 +8602,7 @@ I wondered if I might have been giving too much away,but even so, you did well t
 All right, let's dispense with this disguise then, shall we. 
  
 **Holmes:**
-I believe this is the first we've met since Camelot,{(M) Mr. /(F) Ms. } Fujimaru. 
+I believe this is the first we've met since Camelot,[♂ Mr. /♀ Ms. ] Fujimaru. 
  
 ---
 
@@ -8697,7 +8697,7 @@ No, I'd better not say anything until I know for certain. Now now, don't give me
 Watson used to give me that exact look. At any rate, that is why I am here. 
  
 **Holmes:**
-Now, what say we keep going, {(M) Mr. /(F) Ms. } Fujimaru! 
+Now, what say we keep going, [♂ Mr. /♀ Ms. ] Fujimaru! 
  
 **Holmes:**
 Oh yes, I still have to tell you the most important thing of all. 
@@ -8980,7 +8980,7 @@ Of course, now there is one source of food that remains in abundance.
 After all, most good people here are dead and gone. Those that remain are either spellcasters or killers. 
  
 **Edmond Dantès:**
-So, on that note, {(M) Mr. /(F) Ms. } Fujimaru,I hope I can count on your help. 
+So, on that note, [♂ Mr. /♀ Ms. ] Fujimaru,I hope I can count on your help. 
  
 **Edmond Dantès:**
 Fortunately, these should be easier than that King Lear. Of course, there are also a lot more of them! 
@@ -9006,7 +9006,7 @@ It doesn't matter how much you change your appearance if your gait remains the s
 Ruffians, police officers, yakuza...Each has their own distinct way of walking. 
  
 **Edmond Dantès:**
-{(M) Mr. /(F) Ms. } Fujimaru, allow me to introduce you. This is Mr. Kaburagi. 
+[♂ Mr. /♀ Ms. ] Fujimaru, allow me to introduce you. This is Mr. Kaburagi. 
  
 **Edmond Dantès:**
 He runs a general store here in Shinjuku. 
@@ -9074,7 +9074,7 @@ They could make great pets. They're very friendly, and not a bit picky when it c
 No thanks. 
  
 **Kaburagi:**
-What about you, young {(M) man /(F) lady}! Interested in a nice Demonic Beast? 
+What about you, young [♂ man /♀ lady]! Interested in a nice Demonic Beast? 
  
 ---
 
@@ -9129,7 +9129,7 @@ L-lectured?
 
  
 **Holmes:**
-But of course, {(M) Mr. /(F) Ms. } Fujimaru. 
+But of course, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Holmes:**
 I'm afraid those two will be absolutely livid after spending the evening worrying so much about you. 
@@ -9272,10 +9272,10 @@ I suppose I must atone with seppuku! It is, I hear, quite excruciating.
 Hahahaha! What a funny criminal gentleman you are! 
  
 **Holmes:**
-Not to worry. It seems {(M) Mr. /(F) Ms. } Fujimaru has already forgiven you. 
+Not to worry. It seems [♂ Mr. /♀ Ms. ] Fujimaru has already forgiven you. 
  
 **Archer of Shinjuku:**
-{(M) He /(F) She} has!? 
+[♂ He /♀ She] has!? 
  
 ---
 
@@ -9342,10 +9342,10 @@ Let's wait for him to say it of his own accord.
 Yes, well...
  
 **Holmes:**
-As you have deduced, I do indeed know your True Name, and have already told {(M) Mr. /(F) Ms. } Fujimaru as well. 
+As you have deduced, I do indeed know your True Name, and have already told [♂ Mr. /♀ Ms. ] Fujimaru as well. 
  
 **Holmes:**
-At this point, {(M) he /(F) she} is just waiting for you to come clean and tell {(M) him /(F) her} yourself. 
+At this point, [♂ he /♀ she] is just waiting for you to come clean and tell [♂ him /♀ her] yourself. 
  
 **Archer of Shinjuku:**
 ...I see. So you really know who I am? 
@@ -9672,7 +9672,7 @@ You're wrong!
 
  
 **Holmes:**
-I knew you would say that, {(M) Mr. /(F) Ms. } Fujimaru. What do you think, Ms. Kyrielight? 
+I knew you would say that, [♂ Mr. /♀ Ms. ] Fujimaru. What do you think, Ms. Kyrielight? 
  
 **Mash:**
 ...As a Servant, I would like to place the highest importance on my Master's life. 
@@ -9684,7 +9684,7 @@ That said...and this may be rather impudent of me, but...
 If Master were to return here to safety, and abandon Shinjuku to its doom...Well...
  
 **Mash:**
-It just wouldn't be like {(M) him /(F) her}. 
+It just wouldn't be like [♂ him /♀ her]. 
  
 ---
 
@@ -9729,10 +9729,10 @@ Yes, good point. For a moment, I was deathly afraid for my life.
 Now then...As a representative of Chaldea, I can't just let Fujimaru share Shinjuku's fate. 
  
 **Da Vinci:**
-{(M) He /(F) She} has fought alongside us for a full year now. We won't let {(M) him /(F) her} throw {(M) his /(F) her} life away. 
+[♂ He /♀ She] has fought alongside us for a full year now. We won't let [♂ him /♀ her] throw [♂ his /♀ her] life away. 
  
 **Da Vinci:**
-However, as a Master, we also wish to respect {(M) his /(F) her} wish to save Shinjuku. 
+However, as a Master, we also wish to respect [♂ his /♀ her] wish to save Shinjuku. 
  
 **Da Vinci:**
 So I'll ask you just one more time, Fujimaru. 
@@ -9798,7 +9798,7 @@ All right then, now that you've made your decision, I suppose I had better tell 
 Does this new thing you have to tell us have anything to do with why you've been so nervous? 
  
 **Holmes:**
-Well, if {(M) Mr. /(F) Ms. } Fujimaru had decided to go home, there wouldn't have been any point in sharing this other truth. 
+Well, if [♂ Mr. /♀ Ms. ] Fujimaru had decided to go home, there wouldn't have been any point in sharing this other truth. 
  
 **Holmes:**
 I shall now tell you how the culprit&ndash;the evil Moriarty&ndash;plans on destroying the planet. 
@@ -9935,7 +9935,7 @@ Hahaha, sorry about that!
 I imagine that must be some of the knowledge I lost during the split. 
  
 **Holmes:**
-Remember the time limit I mentioned earlier,{(M) Mr. /(F) Ms. } Fujimaru? 
+Remember the time limit I mentioned earlier,[♂ Mr. /♀ Ms. ] Fujimaru? 
  
 **Holmes:**
 Once the tower is complete, it won't be long before a meteor comes our way. 
@@ -10264,12 +10264,12 @@ Again...WHY...?
 
  
 **Holmes:**
-Hahaha! Oh Moriarty, that's not why {(M) “she” /(F) “he”} is upset. 
+Hahaha! Oh Moriarty, that's not why [♂ “she” /♀ “he”] is upset. 
  
 ---
 
 **Fujimaru 1:**
-Why do I have to disguise myself as a {(M) girl /(F) guy}!? 
+Why do I have to disguise myself as a [♂ girl /♀ guy]!? 
 
 ---
 
@@ -10300,7 +10300,7 @@ Gee, thanks...
 Now now, do not be like that, Master. 
  
 **Jeanne Alter:**
-Yeah, you look good. You're a regular {(M) pretty princess /(F) Prince Charming}. 
+Yeah, you look good. You're a regular [♂ pretty princess /♀ Prince Charming]. 
  
 ---
 
@@ -10346,7 +10346,7 @@ You wouldn't...
 
  
 **Altria Alter:**
-I most certainly would. Hold {(M) him /(F) her}, Jeanne. 
+I most certainly would. Hold [♂ him /♀ her], Jeanne. 
  
 **Jeanne Alter:**
 Hey, for once we're on the exact same page! 
@@ -11051,7 +11051,7 @@ Oh, right, so you can't drink at all then. Hmm, very well.
 While my own leanings toward the evil side of the spectrum leave me wishing for nothing more than to initiate Fujimaru into the mysteries of refined spirits...
  
 **Moriarty:**
-I shall refrain from doing so, as I can clearly see{(M) his /(F) her} guardians are rather...protective. 
+I shall refrain from doing so, as I can clearly see[♂ his /♀ her] guardians are rather...protective. 
  
 **Altria Alter:**
 Something you wish to say, Moriarty? If you are prepared to face the consequences, you may speak. 
@@ -11644,7 +11644,7 @@ I used to think I'd never lift a finger to help creatures as lowly as that.
 Creatures so credulous, nitwitted, pathetic, optimistic, good-natured, airheaded, and helpless. 
  
 **Narration:**
-People like {(M) him /(F) her}, a symbol of humanity, who never stop moving forward no matter how scared, or desperate, or downtrodden they become. 
+People like [♂ him /♀ her], a symbol of humanity, who never stop moving forward no matter how scared, or desperate, or downtrodden they become. 
  
 **Narration:**
 ...Oh, I almost forgot to say something important. 
@@ -11873,7 +11873,7 @@ Don't just defeat them.
 Killing them is like freeing a bird that's fallen to the ground, and will never fly again. 
  
 **Jeanne Alter:**
-So tell {(M) him /(F) her} to do whatever it takes to make sure they're dead. Tell {(M) him /(F) her} to show no mercy. 
+So tell [♂ him /♀ her] to do whatever it takes to make sure they're dead. Tell [♂ him /♀ her] to show no mercy. 
  
 ---
 
@@ -12657,7 +12657,7 @@ He has finally regained his freedom. Your role is complete.
 I see...
  
 **Holmes:**
-Exactly so, {(M) Mr. /(F) Ms. } Fujimaru. The Wolf King is at long last nothing more than a mere beast again. 
+Exactly so, [♂ Mr. /♀ Ms. ] Fujimaru. The Wolf King is at long last nothing more than a mere beast again. 
  
 
 ---
@@ -12666,7 +12666,7 @@ Exactly so, {(M) Mr. /(F) Ms. } Fujimaru. The Wolf King is at long last nothing 
 But...
  
 **Holmes:**
-...Your fears are correct, {(M) Mr. /(F) Ms. } Fujimaru. 
+...Your fears are correct, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Holmes:**
 The Wolf King no longer has a home to return to. 
@@ -12697,7 +12697,7 @@ Even their scents have been blotted out by the stench of Shinjuku.
 All he remembers now is that he once had a home to return to. Not how to get there. 
  
 **Holmes:**
-There is nothing more we can do for him,{(M) Mr. /(F) Ms. } Fujimaru. 
+There is nothing more we can do for him,[♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Holmes:**
 I'm afraid his story has already come to an end. 
@@ -12804,7 +12804,7 @@ I swore to myself that this plan I came up with would never let me do that.
 And yet, I did it. And all because...
  
 **Narration:**
-I wanted to beat {(M) him /(F) her}. 
+I wanted to beat [♂ him /♀ her]. 
  
 **Emiya Alter:**
 And down goes the Avenger. 
@@ -12897,10 +12897,10 @@ Ugh, it's always something...Still, it's almost over now.
 It doesn't matter how bloody things get. As long as everything's consistent, that's what counts. 
  
 **Emiya Alter:**
-What a fool the Master of Chaldea is to willingly meet {(M) his /(F) her} end here after saving the world. 
+What a fool the Master of Chaldea is to willingly meet [♂ his /♀ her] end here after saving the world. 
  
 **Emiya Alter:**
-{(M) He /(F) She} may think {(M) he /(F) she} can save this place, but {(M) he's /(F) she's} wrong. All {(M) he /(F) she} can do now is die a miserable death. 
+[♂ He /♀ She] may think [♂ he /♀ she] can save this place, but [♂ he's /♀ she's] wrong. All [♂ he /♀ she] can do now is die a miserable death. 
  
 **Altria Alter:**
 Well done, Cavall II. 
@@ -12962,7 +12962,7 @@ He says it is most agreeable. At least, I believe he does.
 
  
 **Holmes:**
-We're back, {(M) Mr. /(F) Ms. } Fujimaru, Ms. Altria. 
+We're back, [♂ Mr. /♀ Ms. ] Fujimaru, Ms. Altria. 
  
 ---
 
@@ -13722,7 +13722,7 @@ I've got this!
 Hahaha, how reassuring! 
  
 **Moriarty:**
-By the way Altria, I should remind you that Fujimaru is MY chum, so I'd appreciate you letting go of {(M) him /(F) her}! 
+By the way Altria, I should remind you that Fujimaru is MY chum, so I'd appreciate you letting go of [♂ him /♀ her]! 
  
 
 ---
@@ -14096,7 +14096,7 @@ All for the sole purpose...of killing you!
 ...So, the last dregs of a forgotten race. Pathetic. And you say you're here to kill Fujimaru? 
  
 **Altria Alter:**
-You have no right to blame {(M) him /(F) her} for&ndash;
+You have no right to blame [♂ him /♀ her] for&ndash;
  
 **G：???:**
 I know that! 
@@ -14144,7 +14144,7 @@ Why did you come here? How did you arrive on this planet, in this time, at that 
 If you were a hero who had surpassed the bounds of humanity, I would be convinced! If you were a demon king who ate humans, I could accept it! 
  
 **G：???:**
-But you're nothing more than a common, ordinary {(M) man /(F) woman}! And even then, you still destroyed everything! 
+But you're nothing more than a common, ordinary [♂ man /♀ woman]! And even then, you still destroyed everything! 
  
 **G：???:**
 I was only able to endure the humiliation of running away so that I would be able to kill you! 
@@ -14250,7 +14250,7 @@ This time, there can be no doubt.
 So this is what it is to lose...Loath as I am to admit it, Moriarty, victory is indeed yours. 
  
 **Holmes:**
-I am so sorry, {(M) Mr. /(F) Ms. } Fujimaru. I made a grave mistake in my deductions. 
+I am so sorry, [♂ Mr. /♀ Ms. ] Fujimaru. I made a grave mistake in my deductions. 
  
 ---
 
@@ -15061,7 +15061,7 @@ Regret!? To think the Napoleon of crime would have any regrets!
 You truly have fallen low, haven't you, Professor!? 
  
 **???:**
-And yet this young {(M) man /(F) lady} doesn't regret anything! 
+And yet this young [♂ man /♀ lady] doesn't regret anything! 
  
 **???:**
 That's my accomplice for you! 
@@ -15398,7 +15398,7 @@ Of course, it's not my usual style, but oh well.
 I can't say I care for that. I mean, did Holmes himself ever try it out? 
  
 **Round-Faced Priest:**
-Don't worry, it's Master who will be doing it. Otherwise, {(M) he /(F) she} can't hope to defeat Moriarty. 
+Don't worry, it's Master who will be doing it. Otherwise, [♂ he /♀ she] can't hope to defeat Moriarty. 
  
 ---
 
@@ -15737,7 +15737,7 @@ Relax. Once a mercenary takes on a job, they make sure to see it through to the 
 I am the bone of my sword. 
  
 **Staff B:**
-It's no good! We can't Rayshift {(M) him /(F) her}! 
+It's no good! We can't Rayshift [♂ him /♀ her]! 
  
 **Staff C:**
 Ten seconds until Bennu makes impact! 

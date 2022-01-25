@@ -175,7 +175,7 @@ Then they don't all just look like Nemo, they ARE all Nemo!
 
  
 **Nemo Marines:**
-Aye, aye, {(M) sir /(F) ma'am}! Though of course, we all have to do whatever the Captain tells us to! 
+Aye, aye, [♂ sir /♀ ma'am]! Though of course, we all have to do whatever the Captain tells us to! 
  
 **Mash:**
 So there's going to be lots and lots of Nemos working on board the Nautilus then! 
@@ -625,10 +625,10 @@ Well damn, that's real brave of them. Gotta give 'em props for that.
 Hats off to you, Chaldea! 
  
 **Beryl:**
-We couldn't've asked for a better {(M) guy /(F) gal} to fill in that last seat! Uh...What was {(M) his /(F) her} name again? 
+We couldn't've asked for a better [♂ guy /♀ gal] to fill in that last seat! Uh...What was [♂ his /♀ her] name again? 
  
 **Beryl:**
-Ah, who cares! Like it makes any difference to me anyway! Point is, this next drink's for you, Master What's-{(M) His /(F) Her}-Face! 
+Ah, who cares! Like it makes any difference to me anyway! Point is, this next drink's for you, Master What's-[♂ His /♀ Her]-Face! 
  
 **Beryl:**
 You must be feelin' reeeal good about yourself now that you've strangled four innocent Lostbelts in their proverbial cradles! 
@@ -1318,7 +1318,7 @@ Well, that's harsh. And here I thought I sensed you were firmly on the Master of
 Hell yes I am! I can't help but go weak in the knees for Fujimaru! 
  
 **Musashi:**
-That's why I'm only a little concerned for {(M) him /(F) her} and{(M) his /(F) her} team. Looks like they're bound to have yet another rough start! 
+That's why I'm only a little concerned for [♂ him /♀ her] and[♂ his /♀ her] team. Looks like they're bound to have yet another rough start! 
  
 **F：???:**
 You find that a happy turn of events? Even now, I still cannot fathom how your mind works. 
@@ -2875,7 +2875,7 @@ Huh?
 Which is why it was so tragic to see that lone,frail-looking person washed up on the beach...
  
 **Narration:**
-Because I was the only one there who had any hope of saving {(M) him /(F) her}. 
+Because I was the only one there who had any hope of saving [♂ him /♀ her]. 
  
 **???:**
 ...u......u! 
@@ -3735,7 +3735,7 @@ What more do you need? Things don't always have to be overly complicated.
 Is that really your reason? 
  
 **Orion:**
-Man, you're a real doubting {(M) Thomas /(F) Thomasina},aren't you? Yes, that's the reason! 
+Man, you're a real doubting [♂ Thomas /♀ Thomasina],aren't you? Yes, that's the reason! 
  
 
 ---
@@ -4504,7 +4504,7 @@ If you're all right, we'll know to breathe a sigh of relief. If you're wounded, 
 Either way, once we have contact, then we can take action. But, if you never contact us at all...
  
 **Goredolf:**
-My point, {(M) boy /(F) girl}, is that it's about time you took your responsibilities as the last Master of humanity seriously. 
+My point, [♂ boy /♀ girl], is that it's about time you took your responsibilities as the last Master of humanity seriously. 
  
 ---
 
@@ -5929,7 +5929,7 @@ Unfortunately, getting to the temple could be a bit dangerous.
 You see, the Demonic Beasts seem to have picked up on the scent of battle and started to roam the area. 
  
 **Da Vinci:**
-In that case, we can't have Fujimaru carry him, since {(M) he /(F) she} needs both hands free for {(M) his /(F) her} Master duties. 
+In that case, we can't have Fujimaru carry him, since [♂ he /♀ she] needs both hands free for [♂ his /♀ her] Master duties. 
  
 **Holmes:**
 Indeed. And it would be quite difficult, if not impossible, for you to carry him either, thanks to your small stature. 
@@ -6280,7 +6280,7 @@ Not a thing. But I get the feeling I'd be stronger if I did!
 Hmm, I see...
  
 **Holmes:**
-Very well then, {(M) Mr. /(F) Ms. } Fujimaru, would you be so kind as to give us a proper send-off? 
+Very well then, [♂ Mr. /♀ Ms. ] Fujimaru, would you be so kind as to give us a proper send-off? 
  
 **Goredolf:**
 Hold on. Just a moment. 
@@ -7327,7 +7327,7 @@ Well, well, listen to you. I daresay you're starting to sound like a fully-fledg
 New Director, with all due respect, Senpai has never been anything less than an absolutely stellar Master. 
  
 **Mash:**
-I'd even argue it's no exaggeration to say that if{(M) he's /(F) she's} fully-fledged, all other Masters are only fledged at best! 
+I'd even argue it's no exaggeration to say that if[♂ he's /♀ she's] fully-fledged, all other Masters are only fledged at best! 
  
 **Goredolf:**
 My word! I'd forgotten how worked up this Demi-Servant can get whenever the topic turns to Fujimaru! 
@@ -7717,7 +7717,7 @@ N-no, wait. That's not what I meant!
 (Dammit, how could I be so stupid!? What kind of Servant goes around saying they can't win!? )
  
 **Mandricardo:**
-(Then again, I don't wanna lie. And it's not like{(M) he'd /(F) she'd} believe me, anyway! I mean, how the hell can anyone beat real-life gods? )
+(Then again, I don't wanna lie. And it's not like[♂ he'd /♀ she'd] believe me, anyway! I mean, how the hell can anyone beat real-life gods? )
  
 **Mandricardo:**
 (Not to mention we've got way fewer Servants now, and Artemis's keeping a much closer eye out than she was before. )
@@ -7916,7 +7916,7 @@ Anyway, I'm so glad you're all right, Master.
 Servants may be able to sense whether or not their Master is okay...
  
 **Mash:**
-...but that still doesn't compare to being there next to {(M) him /(F) her}. 
+...but that still doesn't compare to being there next to [♂ him /♀ her]. 
  
 **Mash:**
 Honestly, I was going out of my mind with worry,not knowing what had happened to you. 
@@ -8161,7 +8161,7 @@ Lest you forget, as the commander, I need to be ready to issue coolheaded orders
 Hahaha. If you're feeling well enough to mount such a vigorous argument on the merits of herbal tea, Goredolf, then I can rest assured knowing the Border is in good hands. 
  
 **Holmes:**
-Now then. {(M) Mr. /(F) Ms. } Fujimaru. Ms. Kyrielight. Mandricardo. 
+Now then. [♂ Mr. /♀ Ms. ] Fujimaru. Ms. Kyrielight. Mandricardo. 
  
 **Holmes:**
 I would like the three of you to move to Bartholomew's ship so as to ensure its safe passage. 
@@ -8235,10 +8235,10 @@ I'd be honored to accompany you!
 Hmm. 
  
 **Holmes:**
-Ms. Corday seems to have taken a great liking to our {(M) Mr. /(F) Ms. } Fujimaru. 
+Ms. Corday seems to have taken a great liking to our [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Holmes:**
-Of course, most Servants we've met have been quite willing to help {(M) him /(F) her}, given the existential threat humanity faces. 
+Of course, most Servants we've met have been quite willing to help [♂ him /♀ her], given the existential threat humanity faces. 
  
 **Goredolf:**
 Is there an issue here? That all seems like a good thing to me. 
@@ -9339,7 +9339,7 @@ I-it looks like there's no getting out of this peacefully now, Master!
 Goodbye, hors d'oeuvres. I'll be back for you later...
  
 **Mandricardo:**
-You're a real easygoing {(M) guy /(F) lady}, aren't you!? 
+You're a real easygoing [♂ guy /♀ lady], aren't you!? 
  
 
 ---
@@ -9355,7 +9355,7 @@ You got it. You're a real easygoing sort, aren't you?
 
  
 **Charlotte Corday:**
-Ahaha, maybe so, but that's one thing I like about {(M) him /(F) her}! Anyway, here goes nothing! 
+Ahaha, maybe so, but that's one thing I like about [♂ him /♀ her]! Anyway, here goes nothing! 
  
 **--BATTLE--**
  
@@ -10628,7 +10628,7 @@ Please be so kind as to wake up, Lord Jason.
 M-Medea!? Is that you!? I wasn't sleeping! I was fully awake! 
  
 **Mash:**
-{(M) I can't say I heard much resemblance myself /(F) I'm surprised how well you imitated her, Master}...
+[♂ I can't say I heard much resemblance myself /♀ I'm surprised how well you imitated her, Master]...
  
 
 ---
@@ -12399,7 +12399,7 @@ Zero. If she shoots us again, we'll all be vaporized before you can say “brine
 I see. 
  
 **Holmes:**
-Then I suppose there's nothing to be done but put on another pot of tea and wait for {(M) Mr. /(F) Ms. } Fujimaru's team. 
+Then I suppose there's nothing to be done but put on another pot of tea and wait for [♂ Mr. /♀ Ms. ] Fujimaru's team. 
  
 **Nemo Professor:**
 Yes, hi. 
@@ -12833,7 +12833,7 @@ Never mind. Just forget it.
 ...Hm? Hey, where'd Fujimaru go? 
  
 **Mash:**
-Oh, {(M) he /(F) she} said {(M) he /(F) she} was going to get some fresh air. 
+Oh, [♂ he /♀ she] said [♂ he /♀ she] was going to get some fresh air. 
  
 **Mandricardo:**
 ...'Scuse me for a bit. 
@@ -12946,10 +12946,10 @@ That's how it's always been.
 (Crap...Now what should I say? )
  
 **Mandricardo:**
-(I kinda get the feeling that no matter what I say now, it's just gonna make {(M) him /(F) her} feel worse. )
+(I kinda get the feeling that no matter what I say now, it's just gonna make [♂ him /♀ her] feel worse. )
  
 **Mandricardo:**
-(I could tell {(M) him /(F) her} to not feel bad for us 'cause we're just pawns, but something tells me {(M) he /(F) she} wouldn't find that too convincing...)
+(I could tell [♂ him /♀ her] to not feel bad for us 'cause we're just pawns, but something tells me [♂ he /♀ she] wouldn't find that too convincing...)
  
 **Mandricardo:**
 Man, this is so hard.... Ah. 
@@ -14932,7 +14932,7 @@ To describe them loosely, they are weapons or armor that were either granted to 
 ...or that are an intrinsic part of a great legend, or that were crystallized with natural law in the heart of the planet before being further refined. 
  
 **Holmes:**
-According to the battle records of yours I've perused,{(M) Mr. /(F) Ms. } Fujimaru, the Dark Saber you encountered in Fuyuki used a Noble Phantasm that was itself a Divine Construct. 
+According to the battle records of yours I've perused,[♂ Mr. /♀ Ms. ] Fujimaru, the Dark Saber you encountered in Fuyuki used a Noble Phantasm that was itself a Divine Construct. 
  
 **Holmes:**
 Suffice to say that Divine Constructs are incredibly rare, incredibly powerful things...
@@ -15462,7 +15462,7 @@ So he just says what he wants to say and takes his leave as he pleases, huh.
 I swear, there's nothing more stuck-up,selfish, or mechanical than a god. 
  
 **Holmes:**
-At times like this, it's best to take the deluge of new information one piece at a time. We certainly can't expect {(M) Mr. /(F) Ms. } Fujimaru to juggle all of it at once. 
+At times like this, it's best to take the deluge of new information one piece at a time. We certainly can't expect [♂ Mr. /♀ Ms. ] Fujimaru to juggle all of it at once. 
  
 **Holmes:**
 Rather than looking ahead to the end goal, we should start by examining our current position and taking one careful step forward at a time. 
@@ -16480,7 +16480,7 @@ Not even the Border could survive a hit from that! You won't be any safer in her
 Don't sugarcoat it! But it's no use! That spell covers way too much ground! 
  
 **Meunière:**
-It doesn't matter how far Fujimaru runs now, it'll still catch both {(M) him /(F) her} and us! I hate to say it, but I think this might really be curtains for&ndash;
+It doesn't matter how far Fujimaru runs now, it'll still catch both [♂ him /♀ her] and us! I hate to say it, but I think this might really be curtains for&ndash;
  
 **Fujimaru Monologue:**
 The young man raises his staff&ndash;the staff symbolizing celestial bodies&ndash;towards the universe once again. 
@@ -16982,7 +16982,7 @@ And even if you did end up designated thanks to some freak accident, I can alway
 Ha ha ha! 
  
 **Holmes:**
-Thank you for filling{(M) Mr. /(F) Ms. } Fujimaru in, Goredolf. 
+Thank you for filling[♂ Mr. /♀ Ms. ] Fujimaru in, Goredolf. 
  
 **Holmes:**
 At any rate, there you have it. 
@@ -17297,7 +17297,7 @@ Hm? Something wrong?
 Oh, no, nothing's wrong. 
  
 **Charlotte Corday:**
-I was just hoping to talk to Master, but...it looks like {(M) he's /(F) she's} already occupied...
+I was just hoping to talk to Master, but...it looks like [♂ he's /♀ she's] already occupied...
  
 **Mandricardo:**
 Gotcha...
@@ -17538,7 +17538,7 @@ How did she find out!?
 
  
 **Jason:**
-It wasn't me! You've got it all wrong! {(M) He /(F) She} did it! 
+It wasn't me! You've got it all wrong! [♂ He /♀ She] did it! 
  
 ---
 
@@ -17659,7 +17659,7 @@ Talk about creep&ndash;I mean,um, a distinctive sense of style.
 For some reason, I feel like I need to work out...
  
 **Mandricardo:**
-Hey, is Master okay? We sure {(M) he's /(F) she's} not cursed? 
+Hey, is Master okay? We sure [♂ he's /♀ she's] not cursed? 
  
 **Astraea:**
 It's no curse, I assure you. 
@@ -18251,7 +18251,7 @@ At any rate, we will need to weigh the decision of whether or not to use them ve
 Hmm. 
  
 **Holmes:**
-Do you have anything you wish to ask Ms. Astraea, {(M) Mr. /(F) Ms. } Fujimaru? 
+Do you have anything you wish to ask Ms. Astraea, [♂ Mr. /♀ Ms. ] Fujimaru? 
  
 ---
 
@@ -19308,7 +19308,7 @@ Yup. I'm Fujimaru.
 
  
 **Paris:**
-Got it. Okay, {(M) Lord /(F) Lady} Fujimaru, I recognize you as my Master, and vow to serve you to the best of my ability! 
+Got it. Okay, [♂ Lord /♀ Lady] Fujimaru, I recognize you as my Master, and vow to serve you to the best of my ability! 
  
 **Achilles:**
 Man, for someone so small, you sure are a huge stick-in-the-mud. Anyway, it's good to meet you guys. 
@@ -20085,7 +20085,7 @@ What's up?
 Now that Jason's said his piece,I want to know what you think. 
  
 **Jason:**
-Huh? You're roping {(M) him /(F) her} into this too? 
+Huh? You're roping [♂ him /♀ her] into this too? 
  
 **Achilles:**
 Hell yeah I am. I don't go around just serving anyone who barks orders at me. 
@@ -20589,7 +20589,7 @@ Hell no.
 So...you know, let's only work as hard as we have to! 
  
 **Mandricardo:**
-(Wait. Did I really just say that? That can't be what {(M) he /(F) she} needs to hear now, right? )
+(Wait. Did I really just say that? That can't be what [♂ he /♀ she] needs to hear now, right? )
  
 **Mandricardo:**
 (Then again, I can't think of any better way to get my feelings across than that...)
@@ -20690,10 +20690,10 @@ Even if that happens, don't friends stick up for each other?
 (Ahhhhhh! That's riiiiiight! )
  
 **Mandricardo:**
-(I forgot that this Master's most endearing quality is the way {(M) he /(F) she} gets along with pretty much everyone! )
+(I forgot that this Master's most endearing quality is the way [♂ he /♀ she] gets along with pretty much everyone! )
  
 **Mandricardo:**
-(So of course {(M) he'd /(F) she'd} go along with being friends if I suggested it! )
+(So of course [♂ he'd /♀ she'd] go along with being friends if I suggested it! )
  
 ---
 
@@ -21806,7 +21806,7 @@ Really? That's all you're gonna say?
 So...you're friends now? Grr, I'm kind of jealous. 
  
 **Charlotte Corday:**
-Maybe it would help me get closer to {(M) him /(F) her} too if I tried speaking more informally myself? 
+Maybe it would help me get closer to [♂ him /♀ her] too if I tried speaking more informally myself? 
  
 **Charlotte Corday:**
 ...Would that be okay? 
@@ -25354,10 +25354,10 @@ Back then, at that moment, YOU were in the right. Completely and fully.
 I agree. 
  
 **Mash:**
-Master&ndash;Senpai doesn't always do the right thing. I know {(M) he /(F) she}'s snuck food sometimes, for example. 
+Master&ndash;Senpai doesn't always do the right thing. I know [♂ he /♀ she]'s snuck food sometimes, for example. 
  
 **Mash:**
-But I absolutely, wholeheartedly support the choice {(M) he /(F) she} made back there. 
+But I absolutely, wholeheartedly support the choice [♂ he /♀ she] made back there. 
  
 **Da Vinci:**
 That aside, you really shouldn't sneak food, you know? It's not fair to the rest of us, and it's not good for you, either. 
@@ -25742,7 +25742,7 @@ Right. Let's go!
 
  
 **???:**
-I see {(M) him /(F) her}. I'm taking the shot. 
+I see [♂ him /♀ her]. I'm taking the shot. 
  
 **Achilles:**
 ...! 
@@ -25816,7 +25816,7 @@ Why wouldn't I? It is the soundest, most efficient strategy.
 And when the enemy's most key figure is also completely helpless on the field of battle...
  
 **Chiron:**
-...don't you think it only makes sense to go after {(M) him /(F) her} first? 
+...don't you think it only makes sense to go after [♂ him /♀ her] first? 
  
 **Jason:**
 It...can't be...
@@ -25870,7 +25870,7 @@ Whatever the Chiron of your world may have been like,I am firmly on the gods' si
 Whatever you guys do, don't let your guard down! I'm gonna do everything I can to keep Master out of harm's way! 
  
 **Achilles:**
-Don't expect much support from {(M) him /(F) her}! I'm not planning to stop for anything! 
+Don't expect much support from [♂ him /♀ her]! I'm not planning to stop for anything! 
  
 **--BATTLE--**
  
@@ -26552,7 +26552,7 @@ I hear a voice whispering inside me,in response to my internal screaming.
 “The joy of fighting to save the world. The joy of saving someone. ”
  
 **Narration:**
-“You didn't save {(M) him /(F) her} because you love {(M) him /(F) her}. You love {(M) him /(F) her} because you saved {(M) him /(F) her}. ”
+“You didn't save [♂ him /♀ her] because you love [♂ him /♀ her]. You love [♂ him /♀ her] because you saved [♂ him /♀ her]. ”
  
 **Narration:**
 “It's pure, innocent egoism. ”
@@ -26576,10 +26576,10 @@ Killing is the only way for me to fulfill my role. Don't give up. Keep fighting 
 My friend keeps calling out to her,never letting go of her hand. 
  
 **Narration:**
-{(M) He's /(F) She's} holding {(M) his /(F) her} head down like {(M) he's /(F) she's} praying,holding her hand to {(M) his /(F) her} forehead. 
+[♂ He's /♀ She's] holding [♂ his /♀ her] head down like [♂ he's /♀ she's] praying,holding her hand to [♂ his /♀ her] forehead. 
  
 **Narration:**
-{(M) He /(F) She} knows {(M) he /(F) she} can't just breathe new life into her. {(M) He /(F) She} knows {(M) he's /(F) she's} not actually doing anything to help. 
+[♂ He /♀ She] knows [♂ he /♀ she] can't just breathe new life into her. [♂ He /♀ She] knows [♂ he's /♀ she's] not actually doing anything to help. 
  
 **Narration:**
 But the way I see it...
@@ -26588,7 +26588,7 @@ But the way I see it...
 ...Fujimaru doesn't have any other choice. 
  
 **Narration:**
-{(M) His /(F) Her} convictions, or...something along those lines, won't let {(M) him /(F) her} do otherwise. 
+[♂ His /♀ Her] convictions, or...something along those lines, won't let [♂ him /♀ her] do otherwise. 
  
 **Narration:**
 That said...
@@ -26601,7 +26601,7 @@ Note: Branch for choosing to help Charlotte immediately.
 Corday's endurance is being brutally tested. She's hurt, injured, and in serious pain. 
  
 **Narration:**
-...And {(M) he's /(F) she's} the one who chose to use the Athena Klironomia on her. 
+...And [♂ he's /♀ she's] the one who chose to use the Athena Klironomia on her. 
  
 **Narration:**
 It could end up all being for nothing. 
@@ -26613,29 +26613,29 @@ The Athena Klironomia could end up being wasted.
 ...Maybe it would've been better if we hadn't used them on her after all. 
  
 **Narration:**
-Those are the sort of agonizing thoughts running through Fujimaru's head. {(M) He /(F) She} must be unable to live with {(M) himself /(F) herself} right now. 
+Those are the sort of agonizing thoughts running through Fujimaru's head. [♂ He /♀ She] must be unable to live with [♂ himself /♀ herself] right now. 
 
 ---
 
 Note: Branch for hesitation to give Charlotte nanomachines. 
 
 **Narration:**
-...{(M) he's /(F) she's} fully aware that it won't do anything to help. 
+...[♂ he's /♀ she's] fully aware that it won't do anything to help. 
  
 **Narration:**
 Corday's endurance is being brutally tested. She's hurt, injured, and in serious pain. 
  
 **Narration:**
-I think Fujimaru feels like {(M) he /(F) she} needs to atone. 
+I think Fujimaru feels like [♂ he /♀ she] needs to atone. 
  
 **Narration:**
-Back then, {(M) he /(F) she} hesitated to save Corday. 
+Back then, [♂ he /♀ she] hesitated to save Corday. 
  
 **Narration:**
 After all, she was begging for death. 
  
 **Narration:**
-And {(M) he /(F) she} knew that if {(M) he /(F) she} used the Hephaestus Klironomia on her, instead of Nemo and the Border...
+And [♂ he /♀ she] knew that if [♂ he /♀ she] used the Hephaestus Klironomia on her, instead of Nemo and the Border...
  
 **Narration:**
 ...it could mean losing our only shot at victory. 
@@ -26644,17 +26644,17 @@ And {(M) he /(F) she} knew that if {(M) he /(F) she} used the Hephaestus Klirono
 Those were the facts, and they laid bare a stark choice. 
  
 **Narration:**
-{(M) He /(F) She} knows that {(M) he /(F) she} shouldn't have hesitated to save her, but {(M) he /(F) she} still nearly chose not to. 
+[♂ He /♀ She] knows that [♂ he /♀ she] shouldn't have hesitated to save her, but [♂ he /♀ she] still nearly chose not to. 
  
 **Narration:**
-And now...{(M) he's /(F) she's} feeling guilty about that. 
+And now...[♂ he's /♀ she's] feeling guilty about that. 
 
 ---
 
 Note: Branches End. 
 
 **Narration:**
-...So I decided I'd try saying something to {(M) him /(F) her}. 
+...So I decided I'd try saying something to [♂ him /♀ her]. 
  
 **Mandricardo:**
 ...Don't worry about it, Fujimaru. 
@@ -27612,7 +27612,7 @@ That so? All right, knock yourself out then.... So, did you finish saying goodby
 Yup! I'm all set. 
  
 **Jason:**
-Well don't leave any scars, all right? Unlike me, {(M) he's /(F) she's} just an ordinary person, after all. 
+Well don't leave any scars, all right? Unlike me, [♂ he's /♀ she's] just an ordinary person, after all. 
  
 **Charlotte Corday:**
 ...I kind of hope I left at least a little scar...
@@ -27621,7 +27621,7 @@ Well don't leave any scars, all right? Unlike me, {(M) he's /(F) she's} just an 
 Did you really think I wouldn't be able to hear you if you whispered, you big dummy!? 
  
 **Charlotte Corday:**
-I'm sorry! I'm sorry! I'm sorry! Please make sure {(M) he /(F) she} isn't hurt! 
+I'm sorry! I'm sorry! I'm sorry! Please make sure [♂ he /♀ she] isn't hurt! 
  
 **Jason:**
 Never mind all that now! Just go already! 
@@ -27666,7 +27666,7 @@ Hell if I know.
 I'm so glad Fujimaru wasn't here to see that! 
  
 **Charlotte Corday:**
-You know, I wonder if Jason told me to say goodbye to{(M) him /(F) her} in {(M) his /(F) her} room because he foresaw this happening...
+You know, I wonder if Jason told me to say goodbye to[♂ him /♀ her] in [♂ his /♀ her] room because he foresaw this happening...
  
 **Charlotte Corday:**
 ...(Sniff) That's so nice of him...
@@ -32030,7 +32030,7 @@ His organs shut down. His ears bled as he went deaf. The light seared his skin, 
 But, even so...
  
 **Narration:**
-Artemis's blast never reached Fujimaru or {(M) his /(F) her} companions! 
+Artemis's blast never reached Fujimaru or [♂ his /♀ her] companions! 
  
 **Mandricardo:**
 It's all up to you now, Orion! 
@@ -32042,19 +32042,19 @@ Mandricardo's face relaxed at Orion's response. He knew he wouldn't have to worr
 He would die to help his friend, knowing the rest was in good hands. 
  
 **Mandricardo:**
-(Still, I'm going to miss {(M) him /(F) her}. )
+(Still, I'm going to miss [♂ him /♀ her]. )
  
 **Narration:**
 It was no more than a fleeting moment. A figurative blink of an eye. A declaration and a concept. 
  
 **Narration:**
-All he'd wanted to do was to console {(M) him /(F) her}. 
+All he'd wanted to do was to console [♂ him /♀ her]. 
  
 **Narration:**
-But despite that, right now, Mandricardo considered{(M) him /(F) her} a true friend, from the bottom of his heart. 
+But despite that, right now, Mandricardo considered[♂ him /♀ her] a true friend, from the bottom of his heart. 
  
 **Narration:**
-Even if he'd ended up never being able to do anything a friend would do for {(M) him /(F) her}. 
+Even if he'd ended up never being able to do anything a friend would do for [♂ him /♀ her]. 
  
 **Narration:**
 But, you know...
@@ -32709,7 +32709,7 @@ That went straight to your head, didn't it?
 Hahahahaha! 
  
 **Goredolf:**
-...Remember, Fujimaru there only used{(M) his /(F) her} Command Spells because I ordered {(M) him /(F) her} too. 
+...Remember, Fujimaru there only used[♂ his /♀ her] Command Spells because I ordered [♂ him /♀ her] too. 
  
 **Goredolf:**
 So don't forget about that, either. 

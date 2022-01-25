@@ -2670,7 +2670,7 @@ Nice to meet you, Marie.
 Yes! Yes, yes, yes! Nice to meet you! I'm Marie! 
  
 **Marie Antoinette:**
-I love understanding {(M) gentlemen /(F) ladies}. Let me guess. You're very popular with the opposite sex, right? 
+I love understanding [♂ gentlemen /♀ ladies]. Let me guess. You're very popular with the opposite sex, right? 
  
 **Mash:**
 ...Marie, may I speak? 
@@ -3715,7 +3715,7 @@ No problem.
 Fujimaru...You're right. This is nothing. 
  
 **Marie Antoinette:**
-Yes, that's what it means to be a {(M) boy /(F) commander}! Here's your reward! 
+Yes, that's what it means to be a [♂ boy /♀ commander]! Here's your reward! 
  
 **Mash:**
 What? 
@@ -5098,7 +5098,7 @@ Hmm, I guess I can't make you understand it with words.
 You'll understand someday. You're going to continue your journey with Fujimaru, right? 
  
 **Amadeus:**
-Then you'll figure it out. When it comes to the topic of humanity, {(M) he /(F) she} is an ideal Senpai. 
+Then you'll figure it out. When it comes to the topic of humanity, [♂ he /♀ she] is an ideal Senpai. 
  
 **Mash:**
 Y-Yes! I can completely understand the "ideal Senpai" part! 
@@ -5501,7 +5501,7 @@ Did you just say something?
 Well, that you shouldn't fi&ndash;
  
 **Elisabeth:**
-Back off, {(M) Puppy /(F) Deerlet}! 
+Back off, [♂ Puppy /♀ Deerlet]! 
  
 **Kiyohime:**
 Recklessness and bravery aren't the same. Are you stupid? 
@@ -7026,7 +7026,7 @@ It must be my destiny to fall in the presence of a Servant who slew devils and d
 Very well, I will allow it. You, the Master over there. 
  
 **Berserk Lancer:**
-You are a {(M) man /(F) woman} who does not lose sight of themselves amidst the battle. Next time, summon me. 
+You are a [♂ man /♀ woman] who does not lose sight of themselves amidst the battle. Next time, summon me. 
  
 **Berserk Lancer:**
 Then I will show you the true power of my lance. 

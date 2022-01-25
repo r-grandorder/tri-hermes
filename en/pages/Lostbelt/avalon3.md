@@ -529,10 +529,10 @@ But...in the end, it was something I could never do. You and your friends took m
 I want you to let the Foreign Magus know. 
  
 **Barghest:**
-Tell {(M) him /(F) her} that I am thankful for your supporting our world...no, thank you for supporting the Child of Prophecy. 
+Tell [♂ him /♀ her] that I am thankful for your supporting our world...no, thank you for supporting the Child of Prophecy. 
  
 **Barghest:**
-I may be a knight burdened by dishonor, but I owe {(M) him /(F) her} a debt of gratitude. 
+I may be a knight burdened by dishonor, but I owe [♂ him /♀ her] a debt of gratitude. 
  
 **Barghest:**
 Should you ever need my horn, I shall stand by your side. Wherever that may be&mdash;
@@ -1232,7 +1232,7 @@ So you shouldn't try to find out. I just have a few more things to take care of.
 But I appreciate you asking. It's too early to say goodbye yet, but thanks. 
  
 **Habetrot lying down:**
-Get along with Mash now, Fujimaru! You'd have made a pretty good-looking {(M) groom /(F) bride} too! 
+Get along with Mash now, Fujimaru! You'd have made a pretty good-looking [♂ groom /♀ bride] too! 
  
 **Fairy Tavernkeep:**
 Leaving...leaving...I see...Dabinchi's going away...
@@ -2038,7 +2038,7 @@ Let's cut them down here and put their heads on display in the square.
 No. Testimony is just that. It does not constitute fact. 
  
 **Coral:**
-I will hear the truth of what happened from {(M) him /(F) her}. This is the way of the Wind Clan, as we value impartiality...
+I will hear the truth of what happened from [♂ him /♀ her]. This is the way of the Wind Clan, as we value impartiality...
  
 **Coral:**
 What are you doing!? 
@@ -2360,7 +2360,7 @@ No. Before that, there's something I must do! I have to protect all these fairie
 I'll kill all the Mors in the castle! If I can't do that, I'll never be able to face Chaldea again! 
  
 **Barghest:**
-That's right...so long as {(M) he /(F) she} is there, there's hope. 
+That's right...so long as [♂ he /♀ she] is there, there's hope. 
  
 **Barghest:**
 Emigration...even if it's just a few, Britain's fairies will be saved...
@@ -2744,7 +2744,7 @@ So the Border can move now!?
 
  
 **Holmes:**
-Of course, {(M) Mr.  /(F) Miss} Fujimaru. 
+Of course, [♂ Mr.  /♀ Miss] Fujimaru. 
  
 **Holmes:**
 For that reason, I'd like you all to return to the Border immediately. 
@@ -3105,10 +3105,10 @@ I will not allow it. The Child of Prophecy must be punished accordingly.
 The Foreign Magus is...equally guilty, but must have been tricked by the Child of Prophecy. 
  
 **Aurora:**
-As the leader of the Wind Clan, I will offer clemency for {(M) his /(F) her} crimes. 
+As the leader of the Wind Clan, I will offer clemency for [♂ his /♀ her] crimes. 
  
 **Aurora:**
-{(M) He /(F) She} must have so many stories about the outside world to share! 
+[♂ He /♀ She] must have so many stories about the outside world to share! 
  
 **Aurora:**
 Hehe, what fun this will be, Coral! What could the world outside Britain be like? 
@@ -3555,7 +3555,7 @@ Intense fighting is to be expected from this point forward. I want each and ever
 I see...I've got a good grasp on the situation at hand. 
  
 **Holmes:**
-Thank you for the detailed report, {(M) Mister /(F) Miss} Fujimaru. 
+Thank you for the detailed report, [♂ Mister /♀ Miss] Fujimaru. 
  
 **Holmes:**
 Now we know what must be done. Although, we must re-examine whether it is possible or not. 
@@ -3597,7 +3597,7 @@ Just a few, regarding the Divine Construct.
 We had assumed our objective would be complete once we manage to seize the Holy Lance of Camelot, however...
  
 **Holmes:**
-According to {(M) Mister /(F) Miss} Fujimaru, you had a dispirited look on your face when that topic was brought up. 
+According to [♂ Mister /♀ Miss] Fujimaru, you had a dispirited look on your face when that topic was brought up. 
  
 **Holmes:**
 May I ask why? 
@@ -4970,7 +4970,7 @@ The one and only. You seem to be doing well, Fujimaru.
 But hey, what's with that tone just now? You seem glad I'm okay, but it sounds more like you're angry with me for watching from the sidelines. 
  
 **Merlin:**
-That's a bit harsh coming from a level-headed {(M) chap /(F) lass} like you, don't you think? 
+That's a bit harsh coming from a level-headed [♂ chap /♀ lass] like you, don't you think? 
  
 
 ---
@@ -7875,13 +7875,13 @@ Then, a new fairy was brought over.
 &mdash;Mash? 
  
 **Narration:**
-{(M) He /(F) She} had lost {(M) his /(F) her} memories. Both {(M) his /(F) her} body and mind were in shambles, and {(M) he /(F) she} couldn't be left alone. 
+[♂ He /♀ She] had lost [♂ his /♀ her] memories. Both [♂ his /♀ her] body and mind were in shambles, and [♂ he /♀ she] couldn't be left alone. 
  
 **Narration:**
 And most importantly&mdash;
  
 **Narration:**
-If {(M) he /(F) she} had forgotten all about the Child of Prophecy, I thought that perhaps we could be friends. 
+If [♂ he /♀ she] had forgotten all about the Child of Prophecy, I thought that perhaps we could be friends. 
  
 **Narration:**
 There lay my summer memories. 
@@ -8357,7 +8357,7 @@ I'm here to fulfill my mission. And the funny thing is I don't even understand w
 It's probably some self-righteous reason, you know. Something of no worth to anybody else. 
  
 **Artoria:**
-Just like Fujimaru showed in the depths of {(M) his /(F) her} Dejection. 
+Just like Fujimaru showed in the depths of [♂ his /♀ her] Dejection. 
  
 **Artoria:**
 Just like when Mash confronted the Calamity in Norwich. 
@@ -8824,7 +8824,7 @@ Oh, I forgot to ask them one thing though.
 I was using Clairvoyance to watch Chaldea's journey as close as possible...
  
 **Merlin:**
-Fujimaru was talking to {(M) him /(F) her}self an awful lot this time. 
+Fujimaru was talking to [♂ him /♀ her]self an awful lot this time. 
  
 **Merlin:**
 Hmm. What was that all about? 
@@ -10352,7 +10352,7 @@ S-sure, leave it to me! I've gotten used to being airdropped, anyways!
 Then it's decided. The ones who will purge the Calamity at Norwich will be our elite force,
  
 **Holmes:**
-{(M) Mister /(F) Miss} Fujimaru and Mash Kyrielight. 
+[♂ Mister /♀ Miss] Fujimaru and Mash Kyrielight. 
  
 **Holmes:**
 The operation time will be 30 minutes. We cannot afford to spare more time than that. 
@@ -13404,7 +13404,7 @@ About me or Tonelico. About our journey through this beautiful Britain.
 &mdash;I won't. I won't&mdash;...! 
  
 **Fairy Knight Totrot:**
-Well, time's up. Fujimaru's on {(M) his /(F) her} way here. 
+Well, time's up. Fujimaru's on [♂ his /♀ her] way here. 
  
 **Fairy Knight Totrot:**
 Please put Cernunnos to sleep. He looks like he's in a lot of pain. 
@@ -13879,7 +13879,7 @@ Indeed, there is something that can only be described as a hole in space flowing
 Can't you see it on the monitor? 
  
 **Holmes:**
-{(M) Mister /(F) Miss} Fujimaru! Can you confirm it from the deck!? 
+[♂ Mister /♀ Miss] Fujimaru! Can you confirm it from the deck!? 
  
 ---
 
@@ -14116,7 +14116,7 @@ D-d-don't&mdash;
 Don't be ridiculous, what's the meaning of this!? 
  
 **Gordolf:**
-The {(M) boy /(F) girl} won. Kyrielight did it! 
+The [♂ boy /♀ girl] won. Kyrielight did it! 
  
 **Gordolf:**
 We may be at odds with the Lostbelt&mdash;
@@ -14330,10 +14330,10 @@ I couldn't afford to be careless with this. But&mdash;
 When I saw you on that beach, I had a feeling. 
  
 **Oberon Vortigern:**
-That this kid is a real moron. The best {(M) actor /(F) actress} I could imagine. {(M) He /(F) She} will surely live up to my expectations! 
+That this kid is a real moron. The best [♂ actor /♀ actress] I could imagine. [♂ He /♀ She] will surely live up to my expectations! 
  
 **Oberon Vortigern:**
-{(M) He /(F) She} will take care of everything once and for all as the worst, yet best audience. I believed that from the bottom of my heart! 
+[♂ He /♀ She] will take care of everything once and for all as the worst, yet best audience. I believed that from the bottom of my heart! 
  
 ---
 
@@ -14871,7 +14871,7 @@ I have come in response to the Foreign Magus' summons, in accordance with our co
 If it is a battle to save the world, and not to admonish Britain. 
  
 **Artoria:**
-Then even at the end of time, this sword will be within {(M) his /(F) her} hands. 
+Then even at the end of time, this sword will be within [♂ his /♀ her] hands. 
  
 **--ARROW--**
  
@@ -15119,7 +15119,7 @@ I have come in response to the Foreign Magus' summons, in accordance with our co
 If it is a battle to save the world, and not to admonish Britain. 
  
 **Artoria:**
-Then even at the end of time, this sword will be within {(M) his /(F) her} hands. 
+Then even at the end of time, this sword will be within [♂ his /♀ her] hands. 
  
 **Oberon Vortigern:**
 &mdash;You've got to be kidding me. No, I suppose this is what I told you to become. 
@@ -15369,7 +15369,7 @@ Sorry, did I doze off for a bit there?
 
  
 **Oberon Vortigern:**
-&mdash;Are you serious? Just how impudent are you, you {(M) bastard /(F) bitch}? 
+&mdash;Are you serious? Just how impudent are you, you [♂ bastard /♀ bitch]? 
  
 **Oberon Vortigern:**
 Oops, no swearing here. No swearing. 

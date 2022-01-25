@@ -40,7 +40,7 @@ The threat of the sixth Lostbelt, the Fairy Kingdom of Britain, which rejects th
 Chaldea's special investigation operative and Master, Fujimaru,
  
 **Gordolf:**
-{(M) his /(F) her} exclusive Servant, Mash Kyrielight,
+[♂ his /♀ her] exclusive Servant, Mash Kyrielight,
  
 **Gordolf:**
 technical advisor Leonardo da Vinci...along with the summoned Servant Tristan. 
@@ -70,7 +70,7 @@ With additional help from a new on-site local, Oberon, the so-called Fairy King,
 Fujimaru began the investigation in earnest. 
  
 **Gordolf:**
-{(M) He /(F) She} was soon able to reunite with technical advisor Leonardo da Vinci,
+[♂ He /♀ She] was soon able to reunite with technical advisor Leonardo da Vinci,
  
 **Gordolf:**
 and while their highest priority was to find Mash Kyrielight, various information about the Fairy Kingdom was collected. 
@@ -100,7 +100,7 @@ When this is successfully done, the Child of Prophecy will defeat Morgan and bec
 There's no way Fujimaru would sit quietly by upon hearing such a story. 
  
 **Gordolf:**
-{(M) He /(F) She} selfishly proposed cooperating with Artoria Caster without waiting for further instructions from me. 
+[♂ He /♀ She] selfishly proposed cooperating with Artoria Caster without waiting for further instructions from me. 
  
 **Gordolf:**
 For the sake of their mutual goal of defeating Morgan, they wholeheartedly supported the Child of Prophecy. 
@@ -121,7 +121,7 @@ Joined by another local ally, the fairy Gareth. The mysterious fairy horse, Red 
 Through many dangers, including Dracae's river of tears,
  
 **Gordolf:**
-what Fujimaru saw when {(M) he /(F) she} arrived in Norwich was...
+what Fujimaru saw when [♂ he /♀ she] arrived in Norwich was...
  
 **Gordolf:**
 Another Child of Prophecy supported by the fairies, none other than Mash Kyrielight! 
@@ -175,7 +175,7 @@ I'm sure that's what Fujimaru thought.
 After all, now, in accordance with our ultimate objective...
  
 **Gordolf:**
-{(M) He /(F) She} has received an invitation from Morgan, who holds the spear Rhongomyniad, a countermeasure against the Alien God. 
+[♂ He /♀ She] has received an invitation from Morgan, who holds the spear Rhongomyniad, a countermeasure against the Alien God. 
  
 **Gordolf:**
 Camelot, the castle of King Arthur in pan-human history, and the castle of evil in the Fairyland Britain. 
@@ -903,7 +903,7 @@ Nervousness about 20%, calmness about 80%...oh noooo, my servant is too much of 
 No, Fujimaru is just as nervous as you, Artoria. 
  
 **Da Vinci:**
-{(M) He /(F) She} just knows that you need to stay calm in a pinch. 
+[♂ He /♀ She] just knows that you need to stay calm in a pinch. 
  
 **Da Vinci:**
 Because a Master is a commander who not only gives orders to Servants, but also has to be wary against them. 
@@ -5851,7 +5851,7 @@ Understood? Only the Queen's soldiers will fight the Child of Prophecy.
 We are merely protecting Norwich. Think of it that way. 
  
 **Spriggan:**
-And have the bell tower garrison stand down. I'll greet the {(M) boy /(F) girl} there. 
+And have the bell tower garrison stand down. I'll greet the [♂ boy /♀ girl] there. 
  
 **Spriggan's Guard:**
 Yessir! 
@@ -6191,7 +6191,7 @@ Lose control of Norwich...?
 
  
 **Spriggan:**
-Oh? Must I explain it to you, {(M) Lord /(F) Lady} Foreign Magus? 
+Oh? Must I explain it to you, [♂ Lord /♀ Lady] Foreign Magus? 
  
 **Oberon:**
 Yeah, no. I'll sum it up. 
@@ -8240,7 +8240,7 @@ Is that so?
 Well, sometimes she just lets her feelings get the best of her. 
  
 **Senji Muramasa:**
-Fujimaru has been through a lot too, but {(M) he /(F) she}'s still just a kid. 
+Fujimaru has been through a lot too, but [♂ he /♀ she]'s still just a kid. 
  
 **Senji Muramasa:**
 You sure it's alright for an old man like me looking after them? 
@@ -8606,7 +8606,7 @@ An obvious treason against Her Majesty. If you have proof otherwise, show it now
 Kill the human beside you. 
  
 **Knight Portunes:**
-It should be easy for you. Just reach around and snap {(M) his /(F) her} neck. 
+It should be easy for you. Just reach around and snap [♂ his /♀ her] neck. 
  
 ---
 
@@ -9033,7 +9033,7 @@ The Knight of Londinium has finally been born, and it almost ruined everything..
 We can't ever thank you enough for that, Mash. 
  
 **Tonelico:**
-All thanks to you and, what was {(M) his /(F) her} name, Fujimaru? 
+All thanks to you and, what was [♂ his /♀ her] name, Fujimaru? 
  
 **Tonelico:**
 Our fight here will go down much more smoothly. 
@@ -10976,7 +10976,7 @@ I like to fight, and I'm fighting well. But I'm aghast at the idea of being prai
 I don't think anyone great in battle would wish for all that. 
  
 **Senji Muramasa:**
-Fujimaru still retained a lot of {(M) his /(F) her} good charm despite diving for Holy Grails. 
+Fujimaru still retained a lot of [♂ his /♀ her] good charm despite diving for Holy Grails. 
  
 **Artoria:**
 Um...Muramasa, what exactly did you see in that...? 
@@ -11442,13 +11442,13 @@ Very well, I shall allow it. This is obviously nonsense, but speak.
 Your Majesty, I do not think that the foreign magus is an invader here to destroy Britain. 
  
 **Barghest:**
-{(M) He /(F) She}, along with the Child of Prophecy, purified Norwich of the Calamity,
+[♂ He /♀ She], along with the Child of Prophecy, purified Norwich of the Calamity,
  
 **Barghest:**
 answered Her Majesty's summons, and appeared in Wales to defend the forest. 
  
 **Barghest:**
-{(M) He /(F) She} is a far more trustworthy individual than Knocknarea, who seeks only to disrupt the harmony of our kingdom. 
+[♂ He /♀ She] is a far more trustworthy individual than Knocknarea, who seeks only to disrupt the harmony of our kingdom. 
  
 **Morgan:**
 &mdash;Barghest. 
@@ -11457,7 +11457,7 @@ answered Her Majesty's summons, and appeared in Wales to defend the forest.
 ...the Great Calamity draws near, so we should not seek fights needlessly. 
  
 **Barghest:**
-If {(M) he /(F) she} is not our enemy, then {(M) his /(F) her} knowledge becomes a powerful weapon. 
+If [♂ he /♀ she] is not our enemy, then [♂ his /♀ her] knowledge becomes a powerful weapon. 
  
 **Barghest:**
 Please allow me to enter into negotiations with pan-human history. 
@@ -11634,19 +11634,19 @@ What's more annoying is that Child of Prophecy...I didn't expect her to take dow
 Is the Chaldean Master really that strong? Strong enough to defeat a Fairy Knight? 
  
 **Beryl:**
-...That's true. {(M) He /(F) She}'s come this far, so I'd better seriously evaluate {(M) him /(F) her}. 
+...That's true. [♂ He /♀ She]'s come this far, so I'd better seriously evaluate [♂ him /♀ her]. 
  
 **Beryl:**
-Setting aside how {(M) he /(F) she} is as a magus, as a Master, {(M) he /(F) she} is first-rate. 
+Setting aside how [♂ he /♀ she] is as a magus, as a Master, [♂ he /♀ she] is first-rate. 
  
 **Beryl:**
-If you think about it, {(M) he /(F) she}'s amassed a ton of experience by now. 
+If you think about it, [♂ he /♀ she]'s amassed a ton of experience by now. 
  
 **Beryl:**
 You couldn't beat Kirschtaria Wodime on just luck. 
  
 **Beryl:**
-{(M) He /(F) She} beat that aristocrat, so {(M) he /(F) she}'s more of a Master than I am. 
+[♂ He /♀ She] beat that aristocrat, so [♂ he /♀ she]'s more of a Master than I am. 
  
 **Beryl:**
 A good Master should have a genuine connection with their Servant. 
@@ -14367,7 +14367,7 @@ Do not speak your opinions so carelessly, as you have been doing. Know your plac
 Thanks for the heads-up. Deep down, a part of you is always worried about the humans, right? 
  
 **Da Vinci:**
-You were just giving {(M) him /(F) her} a warning to stay out of trouble by not doing the same to other fairies. 
+You were just giving [♂ him /♀ her] a warning to stay out of trouble by not doing the same to other fairies. 
  
 **Coral:**
 I have no such intentions. Presumptuous interpretations are a bother. 
@@ -14669,7 +14669,7 @@ Da Vinci?
 
  
 **Invited Fairy:**
-Oh, there's the human {(M) boy /(F) girl}. Yeah, you. Come here. 
+Oh, there's the human [♂ boy /♀ girl]. Yeah, you. Come here. 
  
 **Invited Fairy:**
 The Fairy Knight says she wants a word. Hurry up and head over to the terrace. Don't make her wait. 
@@ -21742,7 +21742,7 @@ The story of the savior Tonelico, who brought me here&mdash;
 Just like that, Fujimaru was reunited with her. 
  
 **Narration:**
-{(M) He /(F) She} held her after she was released from the coffin. 
+[♂ He /♀ She] held her after she was released from the coffin. 
  
 **Narration:**
 A quiet, caring embrace respecting each other's mutual presence. 
@@ -21754,7 +21754,7 @@ When I saw that bright/dazzling scene, I breathed a sigh of relief/thankfulness.
 A magus from the world of humans. 
  
 **Narration:**
-A {(M) boy /(F) girl} forced into the leading role by those around {(M) him /(F) her}, not of {(M) his /(F) her} own free will. 
+A [♂ boy /♀ girl] forced into the leading role by those around [♂ him /♀ her], not of [♂ his /♀ her] own free will. 
  
 **Narration:**
 Though there were times I had lied, deceived, bungled, and shown other shortcomings. 
@@ -21763,7 +21763,7 @@ Though there were times I had lied, deceived, bungled, and shown other shortcomi
 It was obvious you were putting up a tough front and holding back frustrations, so I couldn't leave well enough alone and followed you. 
  
 **Narration:**
-I'm glad. Fujimaru had a friend {(M) he /(F) she} really cared about, didn't {(M) he /(F) she}? 
+I'm glad. Fujimaru had a friend [♂ he /♀ she] really cared about, didn't [♂ he /♀ she]? 
  
 **Narration:**
 After all, that's the story everyone around here has had faith in. 
@@ -26456,7 +26456,7 @@ Training those legs that are desperate to flee, training to clear my mind...
 I don't get it...Am I really fine with this? 
  
 **Holmes:**
-{(M) Mister /(F) Miss} Fujimaru, you are scared of understanding the current situation, of analyzing the world, are you not? 
+[♂ Mister /♀ Miss] Fujimaru, you are scared of understanding the current situation, of analyzing the world, are you not? 
  
 **Holmes:**
 I understand. To tell the truth, it's always been on my mind too. 
@@ -26501,7 +26501,7 @@ Or rather, I can't watch this. Even if it's someone else's dejection.
 Fujimaru's eyes are slowly losing focus. 
  
 **Artoria:**
-And {(M) he /(F) she}'s grasping at {(M) his /(F) her} chest, almost like {(M) he /(F) she}'s suffocating in a vacuum. 
+And [♂ he /♀ she]'s grasping at [♂ his /♀ her] chest, almost like [♂ he /♀ she]'s suffocating in a vacuum. 
  
 **Gordolf:**
 Are you listening, Fujimaru? There is no need to feel sympathy for them. 
@@ -26695,7 +26695,7 @@ It was all too much, and so I hid behind a bitter smile.
 Really. Why are you acting tough even though you've been so thoroughly beaten down? 
  
 **Narration:**
-{(M) His /(F) Her} body is on the verge of collapse, on the brink of falling apart. 
+[♂ His /♀ Her] body is on the verge of collapse, on the brink of falling apart. 
  
 **Narration:**
 I know it's none of my business, but I need to stop the replay of Lost Will before that happens. 
@@ -26912,7 +26912,7 @@ The Garden of Dejection, Lost Will, is a suicide charm. It's a spell that robs t
 I...didn't have anything like that, so it didn't hurt me too bad, but...
  
 **Artoria:**
-If Fujimaru had stayed in there for any longer, {(M) he /(F) she} might have&mdash;
+If Fujimaru had stayed in there for any longer, [♂ he /♀ she] might have&mdash;
  
 **Artoria:**
 Might have...
@@ -26957,7 +26957,7 @@ I see, I understand.
 Senpai's mental state does not change whether acting as Master or not. 
  
 **Mash:**
-When {(M) he /(F) she} eats at mealtime, {(M) he /(F) she} seems very relaxed too, but actually {(M) he /(F) she} is very into it. 
+When [♂ he /♀ she] eats at mealtime, [♂ he /♀ she] seems very relaxed too, but actually [♂ he /♀ she] is very into it. 
  
 ---
 
@@ -28091,7 +28091,7 @@ It's a bit unreasonable to try and avoid this and still make it to the exit.
 Draw close, and they chase you for help. Touch them, and you get infected. Kill them, and the curse spreads to you. 
  
 **Count Peperon:**
-Well, the poison doesn't work on Mash, so it probably won't have an effect on {(M) him /(F) her} either so...
+Well, the poison doesn't work on Mash, so it probably won't have an effect on [♂ him /♀ her] either so...
  
 **Count Peperon:**
 That's the point. “Have them kill innocent people who can't resist. ”
@@ -31224,7 +31224,7 @@ You knew about her. You knew, and pretended to see her for the first time.
 You knew all along that Mash was in Sheffield, but kept silent. 
  
 **Artoria:**
-Because Fujimaru would've gone there after her, so you hid it from {(M) him /(F) her} to avoid that. 
+Because Fujimaru would've gone there after her, so you hid it from [♂ him /♀ her] to avoid that. 
  
 **Oberon:**
 Yes, well, actually...
@@ -31233,7 +31233,7 @@ Yes, well, actually...
 That wouldn't have fit in with Fujimaru's mission from Chaldea. 
  
 **Oberon:**
-I wanted {(M) him /(F) her} to support the Child of Prophecy by {(M) his /(F) her} own will. 
+I wanted [♂ him /♀ her] to support the Child of Prophecy by [♂ his /♀ her] own will. 
  
 **Oberon:**
 I'll admit that I was dishonest. 
@@ -32042,7 +32042,7 @@ It will be necessary to deal with both the Queen's army and Barghest.
 Artoria will stand in the vanguard, and pass her magecraft's blessings among the whole force. 
  
 **Percival:**
-Fujimaru will use {(M) his /(F) her} formidable powers to combat the Queen's knights, and...
+Fujimaru will use [♂ his /♀ her] formidable powers to combat the Queen's knights, and...
  
 **Da Vinci:**
 Barghest is our opponent. 
@@ -32137,7 +32137,7 @@ Huh? Didn't Da Vinci fill you in?
 Me? Wasn't it you or Artoria who were going to? 
  
 **Artoria:**
-It wasn't me. Fujimaru said {(M) he /(F) she}'d do it. 
+It wasn't me. Fujimaru said [♂ he /♀ she]'d do it. 
  
 ---
 
@@ -32315,7 +32315,7 @@ I know it's hard to believe, but she's the real deal. This is her real self. A n
 Wait...that's strange. 
  
 **Fairy Knight Lancelot:**
-Breaching the Main Gate should be your priority. The Foreign Magus' role is to give {(M) his /(F) her} all at the main gate. 
+Breaching the Main Gate should be your priority. The Foreign Magus' role is to give [♂ his /♀ her] all at the main gate. 
  
 **Fairy Knight Lancelot:**
 The fact that there was spare energy to share with Grimm means&mdash;
@@ -32969,7 +32969,7 @@ As expected of one who has ablated many a Lostbelt.
 I suppose I too have reached my limit, just like the Lostbelt Kings who fell before you. 
  
 **Morgan:**
-However...Foreign Magus, you juvenile {(M) boy /(F) girl}...
+However...Foreign Magus, you juvenile [♂ boy /♀ girl]...
  
 **Morgan:**
 In an isolated world that is a Lostbelt, a technique that exerts such power is abnormal. 
@@ -33199,7 +33199,7 @@ Who should I protect? Fujimaru or Artoria?
 Process of elimination made it clear. Fujimaru will be fine. 
  
 **Narration:**
-{(M) He /(F) She} is an observer, just like me. Destiny does not seek {(M) his /(F) her} life. 
+[♂ He /♀ She] is an observer, just like me. Destiny does not seek [♂ his /♀ her] life. 
  
 **Narration:**
 So the one I should be protecting here is that foolish girl alone. 

@@ -182,7 +182,7 @@ Yeah, I guess. (Monotone)
 
  
 **Goredolf:**
-Et tu, {(M) boy /(F) girl}!? Argh, why did I have to be born so Rayshift-compatible!? 
+Et tu, [♂ boy /♀ girl]!? Argh, why did I have to be born so Rayshift-compatible!? 
  
 **Goredolf:**
 Oh, never mind all that! Sion! There's something I've been meaning to ask you! 
@@ -997,7 +997,7 @@ So the Servants who will accompany you on your investigation shall be&ndash;
 Sorry, I think that is a sensible decision, but I can't accompany them. 
  
 **Captain:**
-I was not sent here as a combatant. Were I to try to fight alongside Fujimaru, I would just get in{(M) his /(F) her} way. 
+I was not sent here as a combatant. Were I to try to fight alongside Fujimaru, I would just get in[♂ his /♀ her] way. 
  
 **Captain:**
 My job is to make improvements on this vessel. 
@@ -2039,7 +2039,7 @@ Can you tell us what these things are?
 What's there to tell? If you lot know what's good for you, you'll get out of here as soon as&ndash;
  
 **Asha:**
-{(M) Mister /(F) Miss}! Are you guys okay!? ...You are? That's astonishing! 
+[♂ Mister /♀ Miss]! Are you guys okay!? ...You are? That's astonishing! 
  
 **Asha:**
 I'm so glad you're all right...
@@ -2906,12 +2906,12 @@ But it's okay! I can be home in no time as long as I run all the way there!
 Very well. You have my word that no harm will come to her. 
  
 **Asha:**
-Okay then, see you later, {(M) mister /(F) miss}...god...? 
+Okay then, see you later, [♂ mister /♀ miss]...god...? 
  
 ---
 
 **Fujimaru 1:**
-Just {(M) mister /(F) miss} is fine. See you later! 
+Just [♂ mister /♀ miss] is fine. See you later! 
 
 ---
 
@@ -3920,7 +3920,7 @@ Listen, I just want to talk. Will you hear what we have to say?
 
  
 **Ganesha:**
-Hmm. Well, I do feel a kind of kinship with you, seeing as you look to be the only other {(M) Average Joe /(F) Plain Jane} here. 
+Hmm. Well, I do feel a kind of kinship with you, seeing as you look to be the only other [♂ Average Joe /♀ Plain Jane] here. 
  
 **Ganesha:**
 So I guess I can at least hear you out. 'Specially since it doesn't look like Karna's gonna give up anytime soon. 
@@ -3949,10 +3949,10 @@ Hm?
 
  
 **Ganesha:**
-You're actually the most important part of your operation! What gives!? I thought you were a fellow{(M) Average Joe /(F) Plain Jane}, turncoat! 
+You're actually the most important part of your operation! What gives!? I thought you were a fellow[♂ Average Joe /♀ Plain Jane], turncoat! 
  
 **Mash:**
-Yes, {(M) he /(F) she} is. Senpai may only be ranked as a standard-class Master, but {(M) his /(F) her} accomplishments easily meet or exceed those of an A-rank mage. 
+Yes, [♂ he /♀ she] is. Senpai may only be ranked as a standard-class Master, but [♂ his /♀ her] accomplishments easily meet or exceed those of an A-rank mage. 
  
 **Mash:**
 I would be happy to elaborate, but I'm afraid that to do so adequately would require me to write at least a five-hundred page report...
@@ -5184,7 +5184,7 @@ Don't forget about us normal humans.
 
  
 **Mash:**
-That's right. The Master of Chaldea and {(M) his /(F) her} Servant are here as well. 
+That's right. The Master of Chaldea and [♂ his /♀ her] Servant are here as well. 
  
 **Fou:**
 Fou, fou! 
@@ -5819,10 +5819,10 @@ All other considerations are secondary at best. Besides...
 
  
 **Holmes:**
-Just look at {(M) him /(F) her}. Once {(M) he /(F) she} makes up {(M) his /(F) her} mind to trust someone, there's nothing any of us can say to persuade{(M) him /(F) her} otherwise. 
+Just look at [♂ him /♀ her]. Once [♂ he /♀ she] makes up [♂ his /♀ her] mind to trust someone, there's nothing any of us can say to persuade[♂ him /♀ her] otherwise. 
  
 **Holmes:**
-Especially since {(M) he's /(F) she's} the one out there doing all the heavy lifting. 
+Especially since [♂ he's /♀ she's] the one out there doing all the heavy lifting. 
  
 **Peperoncino:**
 Ugh, I thought we'd been over this already. 
@@ -6338,7 +6338,7 @@ He's a god, after all. He gets to make those sort of judgments.
 Right now, the Chaldeans are little more than pests to be cleaned up along with the rest of the trash. 
  
 **Limbo:**
-If he did decide that Fujimaru and {(M) his /(F) her} little gang were truly unnecessary, he would send one of his Lōkapāla to handle them. 
+If he did decide that Fujimaru and [♂ his /♀ her] little gang were truly unnecessary, he would send one of his Lōkapāla to handle them. 
  
 **Limbo:**
 It is not our place to say anything,let alone to do so impertinently. 
@@ -6703,7 +6703,7 @@ And as long as we don't bring up the Crypters ourselves,you won't oppose us as o
 Take it however you like. But just knowing that Fujimaru spared Kadoc, and buried Ophelia...
  
 **Peperoncino:**
-Well, that's more than enough reason for me to want to avoid fighting {(M) him /(F) her} if I can. 
+Well, that's more than enough reason for me to want to avoid fighting [♂ him /♀ her] if I can. 
  
 **Holmes:**
 I notice you didn't mention Akuta Hinako there. What about her? 
@@ -6865,7 +6865,7 @@ Hold it! What do you think you're doing, Peperoncino!? Have you forgotten you're
 Huh? 
  
 **Peperoncino:**
-But the Border won't be leaving this Lostbelt until Fujimaru finishes what {(M) he /(F) she} came here to do, right? 
+But the Border won't be leaving this Lostbelt until Fujimaru finishes what [♂ he /♀ she] came here to do, right? 
  
 **Peperoncino:**
 So how could I possibly get away on my own? 
@@ -9047,7 +9047,7 @@ All I can say for sure is that our countries' histories are intertwined. Certain
 If this hadn't come up now, Fujimaru would no doubt have noticed the air of discomfort between us...
  
 **Holmes:**
-...and gone on to learn what happened between our countries for {(M) himself /(F) herself}. 
+...and gone on to learn what happened between our countries for [♂ himself /♀ herself]. 
  
 **Holmes:**
 ...If there is any meaning to be found by having people from the past come together like this&ndash;besides the role we play as Servants, of course&ndash;I suspect it lies there. 
@@ -9440,7 +9440,7 @@ I have never truly been able to accomplish the things I most wish to do. That is
 ...Be that as it may, there is no doubt whatsoever that you are far more useful in combat than a detective in a remote location. 
  
 **Holmes:**
-So I hope you will continue to lend {(M) Mr. /(F) Ms. } Fujimaru your aid. 
+So I hope you will continue to lend [♂ Mr. /♀ Ms. ] Fujimaru your aid. 
  
 **Lakshmi:**
 Of course I will. I would be pleased if you trusted me on that much. 
@@ -10617,13 +10617,13 @@ Oh? Why's that?
 Isn't it obvious? We can't have him sniping Fujimaru, now can we!? 
  
 **Goredolf:**
-{(M) He's /(F) She's} the cornerstone of our whole operation here, after all. 
+[♂ He's /♀ She's] the cornerstone of our whole operation here, after all. 
  
 **Goredolf:**
 I may be personally blessed by the goddess of fortune,but Fujimaru there is the one holding the key to our victory. 
  
 **Goredolf:**
-Therefore, we should take out the Archer first,to eliminate the risk of Fujimaru being taken out at a distance and ensure {(M) his /(F) her} safety. 
+Therefore, we should take out the Archer first,to eliminate the risk of Fujimaru being taken out at a distance and ensure [♂ his /♀ her] safety. 
  
 **Holmes:**
 I understand how you feel, but I'm not certain the choice is so clear-cut. 
@@ -10976,7 +10976,7 @@ Hmm, is this because I mentioned snakes? Maybe words have more power than we giv
 While there are many Indian legends involving serpents, such as naga and Vritra, this would seem to be no more than an ordinary creature. 
  
 **Holmes:**
-One that is apparently set on having{(M) Mr. /(F) Ms. } Fujimaru for its supper. 
+One that is apparently set on having[♂ Mr. /♀ Ms. ] Fujimaru for its supper. 
  
 ---
 
@@ -11080,7 +11080,7 @@ All I can say is, if Sion hadn't summoned me,I wouldn't be who I currently am.
 Huh? Then, does that mean&ndash;
  
 **Captain:**
-At any rate, we should be using this time to let Fujimaru and {(M) his /(F) her} team rest, right? 
+At any rate, we should be using this time to let Fujimaru and [♂ his /♀ her] team rest, right? 
  
 **Captain:**
 I don't see any need to jump in with my own old, unasked for stories. 
@@ -11587,7 +11587,7 @@ Am I right to assume we're all fully inoculated against the various pathogens we
 You bet we are! Think about all the places we've already been to. We're covered as far as just about any plague around goes! 
  
 **Da Vinci:**
-Of course, Fujimaru is already pretty well set thanks to {(M) his /(F) her} innate poison resistance, so the vaccinations are more for peace of mind than anything else. 
+Of course, Fujimaru is already pretty well set thanks to [♂ his /♀ her] innate poison resistance, so the vaccinations are more for peace of mind than anything else. 
  
 **Da Vinci:**
 But in case you're still concerned, Director...
@@ -12354,7 +12354,7 @@ God has no need of dreams.
 You...bastard...I can't...afford to lose...
  
 **Rama:**
-If I can't...protect Fujimaru and...{(M) his /(F) her}companions...then who...Guh...
+If I can't...protect Fujimaru and...[♂ his /♀ her]companions...then who...Guh...
  
 **Ganesha:**
 Oh man, oh man...I guess...I wasn't good enough after all...
@@ -13411,7 +13411,7 @@ I'm afraid you'll have to enjoy the night sky alone, young king of bygone days. 
 ...Hmm, strange. I don't even know how to describe this feeling...
  
 **Asha:**
-Whoa, it's such a surprise to wake up and see you here! Good morning, {(M) mister /(F) miss}! 
+Whoa, it's such a surprise to wake up and see you here! Good morning, [♂ mister /♀ miss]! 
  
 ---
 
@@ -13601,7 +13601,7 @@ Yeah...I don't get it. The ones in the weird outfits aside, they're just regular
 ...
  
 **Asha:**
-{(M) Mister /(F) Miss}...
+[♂ Mister /♀ Miss]...
  
 **Man:**
 A-a kali broke through the wall! God protect me! God protect us all! 
@@ -13908,7 +13908,7 @@ I guess that won't work either. So, we have a bit of a problem...
 (But, why do I sense such grim determination in their efforts...? )
  
 **Asha:**
-{(M) Mister /(F) Miss}...? A-are you guys okay? 
+[♂ Mister /♀ Miss]...? A-are you guys okay? 
  
 **Mash:**
 Please stay back, Asha! We're fine, I promise! 
@@ -14801,10 +14801,10 @@ Is it true that you've erased the people in three other Lostbelts already?
 (What an expression. )
  
 **Lakshmi:**
-(I can tell {(M) he's /(F) she's} not lying, or gone mad with power. Neither is {(M) he /(F) she} ignorant of what {(M) he's /(F) she's} done,willfully or otherwise. )
+(I can tell [♂ he's /♀ she's] not lying, or gone mad with power. Neither is [♂ he /♀ she] ignorant of what [♂ he's /♀ she's] done,willfully or otherwise. )
  
 **Lakshmi:**
-(This perfectly ordinary human child simply knows what {(M) he /(F) she} has done, and accepted it as best {(M) he /(F) she} can. )
+(This perfectly ordinary human child simply knows what [♂ he /♀ she] has done, and accepted it as best [♂ he /♀ she] can. )
  
 **Lakshmi:**
 All right. That's all I had to say. I'm sorry for keeping you up so late. 
@@ -16170,7 +16170,7 @@ F-furthermore?
 ...it is a Servant we are all familiar with, Director Goredolf. Though we are decidedly not on friendly terms, unfortunately...
  
 **Holmes:**
-Fujimaru and {(M) his /(F) her} team should be coming up on her shortly. For the moment, I suggest we wait to see what happens. 
+Fujimaru and [♂ his /♀ her] team should be coming up on her shortly. For the moment, I suggest we wait to see what happens. 
  
 **Holmes:**
 Perhaps then, we will be able to determine what brought her here...
@@ -17790,7 +17790,7 @@ You must have known the Chaldeans were hot on your tail, yet you couldn't ignore
 I'm so glad you're as simpleminded as you look. Now, let's get to our grudge match, shall we? 
  
 **Koyanskaya:**
-Oh, but do be warned: you'll be facing Fujimaru and {(M) his /(F) her} team this time around, and they're veeery tough cookies. 
+Oh, but do be warned: you'll be facing Fujimaru and [♂ his /♀ her] team this time around, and they're veeery tough cookies. 
  
 **Koyanskaya:**
 You see, they do this ungodly annoying thing where they get stronger and stronger each time they do battle. 
@@ -20229,19 +20229,19 @@ That's the one thing...I never forgot...The one thing...I've been waiting for...
 		A voice accepting me as I am. 
  
 **Narration:**
-{(M) He /(F) She} places {(M) his /(F) her} hand delicately upon the cube's surface. 
+[♂ He /♀ She] places [♂ his /♀ her] hand delicately upon the cube's surface. 
  
 **Narration:**
-{(M) He /(F) She} knew they couldn't possibly be fine with this. {(M) He /(F) She} knew they couldn't possibly be okay. 
+[♂ He /♀ She] knew they couldn't possibly be fine with this. [♂ He /♀ She] knew they couldn't possibly be okay. 
  
 **Narration:**
-{(M) He /(F) She} knew all along...The two people waiting inside here...are both liars. 
+[♂ He /♀ She] knew all along...The two people waiting inside here...are both liars. 
  
 **Narration:**
 That's why this is a kind, oh so gentle mass of lies. A wall of determination erected by the two people inside who decided to fight by lying. 
  
 **Narration:**
-{(M) He /(F) She} takes a deep breath, and readies the reunion password in {(M) his /(F) her} mind. 
+[♂ He /♀ She] takes a deep breath, and readies the reunion password in [♂ his /♀ her] mind. 
  
 **Narration:**
 The password they agreed on mere moments/eons ago...to tell them their job is finally over. 
@@ -20464,22 +20464,22 @@ Truth be told, I was already pretty much a shadow of myself by the time we got h
 I know there's no point in saying this now...
  
 **Peperoncino:**
-...but Fujimaru thought {(M) he /(F) she} would get to fight beside you right to the end. 
+...but Fujimaru thought [♂ he /♀ she] would get to fight beside you right to the end. 
  
 **Peperoncino:**
-I can tell you, {(M) he's /(F) she's} going to be real disappointed. 
+I can tell you, [♂ he's /♀ she's] going to be real disappointed. 
  
 **Aśvatthāman:**
-Ha. Well, who knows? Maybe {(M) he'll /(F) she'll}end up summoning me {(M) himself /(F) herself} one day. 
+Ha. Well, who knows? Maybe [♂ he'll /♀ she'll]end up summoning me [♂ himself /♀ herself] one day. 
  
 **Holmes:**
 That would be most encouraging. You are truly a dependable Servant. 
  
 **Holmes:**
-In the future, Fujimaru there is bound to bear witness to any number of scenes where {(M) he /(F) she} will be forced to stand back and bite {(M) his /(F) her} tongue, no matter how angry {(M) he /(F) she} may wish to get. 
+In the future, Fujimaru there is bound to bear witness to any number of scenes where [♂ he /♀ she] will be forced to stand back and bite [♂ his /♀ her] tongue, no matter how angry [♂ he /♀ she] may wish to get. 
  
 **Holmes:**
-If you could be there by {(M) his /(F) her} side at times like that,I think that would mean a great deal indeed. 
+If you could be there by [♂ his /♀ her] side at times like that,I think that would mean a great deal indeed. 
  
 **Aśvatthāman:**
 Heh. Guess you really do know the only kind of role I'm cut out to play. 
@@ -20986,10 +20986,10 @@ Well, well, look who just couldn't resist putting in an appearance. I guess that
 Master...? Do you recognize him? 
  
 **Holmes:**
-I'm quite certain {(M) he /(F) she} does. 
+I'm quite certain [♂ he /♀ she] does. 
  
 **Holmes:**
-That Servant matches the description of a hostile entity {(M) Mr. /(F) Ms. } Fujimaru encountered in the parallel world of Shimousa. 
+That Servant matches the description of a hostile entity [♂ Mr. /♀ Ms. ] Fujimaru encountered in the parallel world of Shimousa. 
  
 **Holmes:**
 Though looking back on it now, it would seem that Shimousa was actually a small Lostbelt in its own right. 
@@ -21844,7 +21844,7 @@ My body is still suffering from Krishna's curse that I drew away from Aśvatthā
 Frankly, I'll never be able to fight to the best of my ability like this. So this is all I can do. 
  
 **Rama:**
-While I do hate to do this, since it feels like I'm letting Fujimaru down as {(M) his /(F) her} Servant...a good king knows when to delegate. 
+While I do hate to do this, since it feels like I'm letting Fujimaru down as [♂ his /♀ her] Servant...a good king knows when to delegate. 
  
 **Rama:**
 As the son of Surya, and the one true hero who fought for the Kauravas, there is no one better suited to wield the Brahmastra in my place than you. 
@@ -22608,7 +22608,7 @@ Fou...
 ...You're right. I agree with you. 
  
 **Holmes:**
-I doubt that any Lostbelt is as awful as the modern world {(M) Mr. /(F) Ms. } Fujimaru hails from. 
+I doubt that any Lostbelt is as awful as the modern world [♂ Mr. /♀ Ms. ] Fujimaru hails from. 
  
 **Holmes:**
 But that's all the more reason for us to be proud of it! 
@@ -22620,7 +22620,7 @@ Any history daring to call itself Proper Human History should aspire to overcome
 If anything, this journey has only made me more certain that mankind has chosen the most difficult route possible. 
  
 **Holmes:**
-{(M) Mr. /(F) Ms. } Fujimaru has spent {(M) his /(F) her} whole life on the forefront of that route. If {(M) he /(F) she} wishes to continue down this path, we will be there with {(M) him /(F) her} every step of the way! 
+[♂ Mr. /♀ Ms. ] Fujimaru has spent [♂ his /♀ her] whole life on the forefront of that route. If [♂ he /♀ she] wishes to continue down this path, we will be there with [♂ him /♀ her] every step of the way! 
  
 ---
 
@@ -22939,7 +22939,7 @@ Indeed, how could they not be in awe at the god of a Lostbelt? Mmm, truly, they 
 Just as I cannot help it if I take advantage of this moment...
  
 **Limbo:**
-...to pluck the Master of Chaldea's heart clean out of {(M) his /(F) her} chest. 
+...to pluck the Master of Chaldea's heart clean out of [♂ his /♀ her] chest. 
  
 **???:**
 Hey. 
@@ -23687,7 +23687,7 @@ Oh...Yeah. That makes sense.
 I knew I'd forgotten something. I could tell something wasn't right. 
  
 **Asha:**
-Please tell me, {(M) mister /(F) miss}. 
+Please tell me, [♂ mister /♀ miss]. 
  
 **Asha:**
 I wanna know what I forgot...and what I lost...
@@ -23909,7 +23909,7 @@ Huh...? What was his name again? Who was I thinking about?
 I know they told me about him, but I already forgot. Even though I really cared, and wanted him to be there...
 Oh, right. I prayed about this before I went to bed. I'm sure I can still remember that. 
 
-That nice {(M) man /(F) lady} said that there could be proper reincarnations from now on. 
+That nice [♂ man /♀ lady] said that there could be proper reincarnations from now on. 
 So, I'll pray that, in the next reincarnation...or the one after that, or even the one after that...
 ...■■■■ will come back to me. 
  
@@ -23921,7 +23921,7 @@ That's weird. All of a sudden, I can't stop crying. I don't understand.
 It feels like someone I was close to used to scold me whenever I cried before, so there's no point in crying now. I don't need these tears anymore. 
 But, no matter how hard I pray for our god to take my useless tears away, they still keep coming. 
 
-I only just remembered that the nice {(M) man /(F) lady} also told me...
+I only just remembered that the nice [♂ man /♀ lady] also told me...
 ...that god isn't here anymore either. 
 Now what do I do? 
 

@@ -2,11 +2,11 @@
 
 ## Section 1: Prologue/Dec 26th, 2019
  
-December 26, 2019. Fujimaru has completed {(M) his /(F) her} mission. 
+December 26, 2019. Fujimaru has completed [♂ his /♀ her] mission. 
 
-{(M) He /(F) She} repaired every Singularity,saving mankind from a dire existential threat. 
+[♂ He /♀ She] repaired every Singularity,saving mankind from a dire existential threat. 
 
-The Rayshift system, which let {(M) him /(F) her} fight the destruction of Proper Human History, has been placed on lockdown as of this moment. 
+The Rayshift system, which let [♂ him /♀ her] fight the destruction of Proper Human History, has been placed on lockdown as of this moment. 
 
 The Servants summoned to Chaldea have been released from their contracts, their tasks complete. 
 
@@ -90,13 +90,13 @@ I got such a huge paycheck that I'm totally at a loss.
 Oh right, you finally got paid for all your hard work! As I recall, Da Vinci was grumbling about that...
  
 **Mash:**
-“I tried lowball it so it wouldn't look like I was playing favorites, but no matter how you run the numbers, this is what {(M) he's /(F) she's} earned. ”
+“I tried lowball it so it wouldn't look like I was playing favorites, but no matter how you run the numbers, this is what [♂ he's /♀ she's] earned. ”
  
 **Mash:**
-“Still, I can't help but wonder if {(M) he's /(F) she's} really up to handling all this money at such a young age. ”
+“Still, I can't help but wonder if [♂ he's /♀ she's] really up to handling all this money at such a young age. ”
  
 **Mash:**
-“Oh well, I suppose I can always hold on to it for {(M) him /(F) her} if push comes to shove! Much better than letting King David get his hands on it! ”
+“Oh well, I suppose I can always hold on to it for [♂ him /♀ her] if push comes to shove! Much better than letting King David get his hands on it! ”
  
 **Fou:**
 Fou, Fooou! 
@@ -659,7 +659,7 @@ Huh...? Why are you...?
 Ah yes, precisely the sort of reaction I was hoping for! That makes all the time I spent hiding in the shadows worthwhile! 
  
 **Da Vinci:**
-(Sigh)...Why did you have to let someone,even {(M) him /(F) her}, know you were here, Holmes? 
+(Sigh)...Why did you have to let someone,even [♂ him /♀ her], know you were here, Holmes? 
  
 **Da Vinci:**
 Sorry about that, Fujimaru. The fact that Holmes is here is the toppest of top secrets. 
@@ -1262,7 +1262,7 @@ Ugh...Six hours...Endless questions...
 
  
 **Koyanskaya:**
-You look exhausted, little {(M) boy /(F) kitty}. 
+You look exhausted, little [♂ boy /♀ kitty]. 
  
 **Koyanskaya:**
 This your first time playing with the big boys? Then you'd better hurry up and learn how the game is played. As they say, experience is every&ndash;Aah! 
@@ -2387,7 +2387,7 @@ As your Master, I'm with you right to the end.
 But...! 
  
 **D：???:**
-Why not take {(M) him /(F) her} up on {(M) his /(F) her} offer? This is the first time in a year you've been comrades in arms, after all. 
+Why not take [♂ him /♀ her] up on [♂ his /♀ her] offer? This is the first time in a year you've been comrades in arms, after all. 
  
 **Mash:**
 Holmes! 
@@ -2487,7 +2487,7 @@ A bit nerve-racking, but I'll be okay with Mash here.
 
  
 **Holmes:**
-Precisely, {(M) Mr. /(F) Ms. } Fujimaru! 
+Precisely, [♂ Mr. /♀ Ms. ] Fujimaru! 
  
 **Holmes:**
 Very well, I shall leave Da Vinci's rescue in your capable hands. Come, Mr. Meunière. I can accompany you to the hangar, at least partway. 
@@ -3775,7 +3775,7 @@ Now then, we're about to reach the ice shelf! From there, we'll head for the coa
 Hm? Oh, that's right, you don't know where we are, do you? 
  
 **Holmes:**
-Well then! Take a look out the window, {(M) Mr. /(F) Ms. } Fujimaru! It's not every day one gets a chance to see scenery like this! 
+Well then! Take a look out the window, [♂ Mr. /♀ Ms. ] Fujimaru! It's not every day one gets a chance to see scenery like this! 
 
 **--SECTION BREAK--**
 
@@ -3889,7 +3889,7 @@ Fou...
 S-stop that! What do you hope to accomplish by going back now!? Go on, youngster, talk some sense into her! 
  
 **Holmes:**
-{(M) Mr. /(F) Ms. } Fujimaru, would you mind holding Mash back from&ndash;Never mind, there is no need for that. Her body has reached its limit. 
+[♂ Mr. /♀ Ms. ] Fujimaru, would you mind holding Mash back from&ndash;Never mind, there is no need for that. Her body has reached its limit. 
  
 **Holmes:**
 I am afraid that is what happens when one transforms while one is unable to properly synchronize with one's Spirit Origin: all the duress you place on your body comes back to bite you. 
@@ -4111,7 +4111,7 @@ Even if we did somehow make it out to sea,the ship is bound to be hijacked by no
 It would only be a matter of time before they catch up to this broken-down truck and slaughter us all! 
  
 **Holmes:**
-That's one opinion. {(M) Mr. /(F) Ms. } Fujimaru,tell me, what do you think? 
+That's one opinion. [♂ Mr. /♀ Ms. ] Fujimaru,tell me, what do you think? 
  
 ---
 

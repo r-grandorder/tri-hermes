@@ -540,7 +540,7 @@ That is true. But this is a question of priorities.
 If this were a diving expedition, it would be a decision between going down to the depths with an escort but without a diving suit, or going down with a diving suit but no escort. 
  
 **Sion:**
-It's not even a matter of which is safer. If we are unable to verify {(M) his /(F) her} existence, {(M) he /(F) she} will not be able to dive down into this other world at all. 
+It's not even a matter of which is safer. If we are unable to verify [♂ his /♀ her] existence, [♂ he /♀ she] will not be able to dive down into this other world at all. 
  
 **Mash:**
 ...But, still...going into a Singularity without even a single Servant is just...
@@ -784,7 +784,7 @@ But any Heroic Spirit is completely defenseless right after a Rayshift, no matte
 They could easily be gobbled up from behind before they can adapt to the Singularity...Oh yes, I understand. 
  
 **Sessyoin Kiara:**
-I also understand why you would be reluctant to act under the circumstances, {(M) Lord /(F) Lady} Fujimaru, but I think now is the time to do so. 
+I also understand why you would be reluctant to act under the circumstances, [♂ Lord /♀ Lady] Fujimaru, but I think now is the time to do so. 
  
 **Sessyoin Kiara:**
 We should Rayshift out of here and go help this last Servant as soon as possible. 
@@ -981,7 +981,7 @@ So as a kind and loving goddess, how could I refuse...
 **--SECTION BREAK--**
  
 **Sessyoin Kiara:**
-Teehee. It looks like we've arrived successfully,{(M) Lord /(F) Lady} Fujimaru! 
+Teehee. It looks like we've arrived successfully,[♂ Lord /♀ Lady] Fujimaru! 
  
 **Sessyoin Kiara:**
 So that was a Rayshift...How novel. It's quite a different Mystic, and even experience, than entering someone's mind. Tehehe...
@@ -1224,7 +1224,7 @@ Now I see. So you are Lady Pārvatī...I'm used to hearing your Buddhist name, U
 This is also my first time meeting a being from the Mandala, so I must confess that I am a little nervous...
  
 **Sessyoin Kiara:**
-Still, right now, we are both Servants contracted to {(M) Lord /(F) Lady} Fujimaru. 
+Still, right now, we are both Servants contracted to [♂ Lord /♀ Lady] Fujimaru. 
  
 **Sessyoin Kiara:**
 In that spirit, I will do my best to contain my excitement so we may work together harmoniously. 
@@ -1435,7 +1435,7 @@ D-director...?
 
  
 **G：Goredolf:**
-You there, {(M) boy /(F) girl}! How dare you speak to me so casually! 
+You there, [♂ boy /♀ girl]! How dare you speak to me so casually! 
  
 **G：Goredolf:**
 I don't even know who any of you are! 
@@ -1881,7 +1881,7 @@ This may be moot at this point, but is it really okay for me to be here?
 Please don't call attention to that. I'm trying my hardest not to think about it. 
  
 **Kasuga-no-Tsubone:**
-Of course {(M) it's against the rules for men /(F) there are strict rules about who gets}to enter the Ooku, but those are bound to change with the times. 
+Of course [♂ it's against the rules for men /♀ there are strict rules about who gets]to enter the Ooku, but those are bound to change with the times. 
  
 **Kasuga-no-Tsubone:**
 Besides, there are clearly more important things to worry about right now. 
@@ -2274,7 +2274,7 @@ No more violence than strictly necessary. Got it.
 
  
 **Kasuga-no-Tsubone:**
-You have a kind heart, {(M) Lord /(F) Lady} Fujimaru. I like that very much. 
+You have a kind heart, [♂ Lord /♀ Lady] Fujimaru. I like that very much. 
  
 **Kasuga-no-Tsubone:**
 Everyone should be sympathetic to those who lack power, regardless of how high they may rank. 
@@ -2286,7 +2286,7 @@ The fact that you can summon up that kind of sympathy even in circumstances as t
 ...speaks volumes for your inner strength of character. I see that you are not merely repeating what you've heard, but truly believe what you say. 
  
 **Kasuga-no-Tsubone:**
-Yes, I'm very impressed. There's a good {(M) boy /(F) girl}. (Pat pat)
+Yes, I'm very impressed. There's a good [♂ boy /♀ girl]. (Pat pat)
  
 **Mash:**
 Is she treating Master like...a child...? 
@@ -2937,7 +2937,7 @@ Who are you, anyway? I can tell that you weren't on my guest list, but I don't k
 Me? Why, I'm just an ordinary Servant. No more than a nameless nun of such insignificance as to be beneath your attention. 
  
 **Sessyoin Kiara:**
-I am fortunate to be here now thanks to the contract{(M) Lord /(F) Lady} Fujimaru so kindly struck with me...
+I am fortunate to be here now thanks to the contract[♂ Lord /♀ Lady] Fujimaru so kindly struck with me...
  
 **Sessyoin Kiara:**
 ...but that could expire at any time,and I would vanish like so much stardust. 
@@ -4548,16 +4548,16 @@ Sorry, I'm not the shogun.
 Welp, I saw that coming! 
  
 **Sion:**
-Fujimaru is nothing if not honest to a fault,no matter how much it may get {(M) him /(F) her} in trouble! 
+Fujimaru is nothing if not honest to a fault,no matter how much it may get [♂ him /♀ her] in trouble! 
  
 **Kasuga-no-Tsubone:**
 Well said! No matter what the circumstances,there can be no excuse for lying. 
  
 **Kasuga-no-Tsubone:**
-I appreciate your honesty,{(M) Lord /(F) Lady} Fujimaru. 
+I appreciate your honesty,[♂ Lord /♀ Lady] Fujimaru. 
  
 **Kasuga-no-Tsubone:**
-I'd want every child I raise to be as honest as you! What a good {(M) boy /(F) girl} you are! (Pat pat)
+I'd want every child I raise to be as honest as you! What a good [♂ boy /♀ girl] you are! (Pat pat)
  
 
 ---
@@ -4671,7 +4671,7 @@ Oh, sorry, I guess you don't need me on this floor,do you? I'd just slow you all
 Okay, Tsubone, you take it from here! 
  
 **Kasuga-no-Tsubone:**
-Now that you mention the heavens...Hmm, you do have a rather virtuous face, {(M) Lord /(F) Lady} Fujimaru. 
+Now that you mention the heavens...Hmm, you do have a rather virtuous face, [♂ Lord /♀ Lady] Fujimaru. 
  
 **Kasuga-no-Tsubone:**
 I suspect you still have some wonderful latent talent lying dormant...The kind with lots of room left to grow. 
@@ -4730,7 +4730,7 @@ Spoken like a skilled multitasker and workaholic. I can sympathize very well.
 Great! I've got lots of things I want to ask! 
  
 **Kasuga-no-Tsubone:**
-There's a good {(M) boy /(F) girl}. That's just what I like to hear. (Pat pat)
+There's a good [♂ boy /♀ girl]. That's just what I like to hear. (Pat pat)
  
 **Mash:**
 (Those head pats are practically second nature to her at this point...! )
@@ -5412,7 +5412,7 @@ It's also got lots of yummy food and tea. That helps a lot.
 
  
 **Kasuga-no-Tsubone:**
-...Ah, I think I understand now. So in the end, it all comes down to your lord's ability to manage {(M) his /(F) her} people? 
+...Ah, I think I understand now. So in the end, it all comes down to your lord's ability to manage [♂ his /♀ her] people? 
  
 **Yagyu Tajima-no-kami:**
 Indeed. 
@@ -5920,7 +5920,7 @@ Well that won't do. As a wet nurse, part of my job is to make sure my charges st
 Lord Iemitsu used to have a weak constitution too. I'll never forget his brush with smallpox as long as I live...
  
 **Kasuga-no-Tsubone:**
-Anyway, now that you're one of my charges,{(M) Lord /(F) Lady} Fujimaru, I'll have to make sure you stay in good health too. 
+Anyway, now that you're one of my charges,[♂ Lord /♀ Lady] Fujimaru, I'll have to make sure you stay in good health too. 
  
 **Kasuga-no-Tsubone:**
 Please, I implore you not to push yourself too hard. 
@@ -6595,19 +6595,19 @@ By that token, it would be impossible for us to proceed if we DO follow these pr
 So, applying that rule to our current situation would&ndash;
  
 **Yagyu Tajima-no-kami:**
-...Would mean Master's current poor condition is a result of {(M) him /(F) her} coming this far without imbibing. 
+...Would mean Master's current poor condition is a result of [♂ him /♀ her] coming this far without imbibing. 
  
 **Mata Hari:**
-That definitely sounds plausible. Though it does feel counterintuitive to think {(M) he /(F) she}'s getting a hangover because {(M) he /(F) she} HASN'T been drinking. 
+That definitely sounds plausible. Though it does feel counterintuitive to think [♂ he /♀ she]'s getting a hangover because [♂ he /♀ she] HASN'T been drinking. 
  
 **Mata Hari:**
-Though if that is the case, {(M) his /(F) her} condition might get worse and worse the further we progress. 
+Though if that is the case, [♂ his /♀ her] condition might get worse and worse the further we progress. 
  
 **Mata Hari:**
-In the worst-case scenario, {(M) he /(F) she} might no longer be able to stand, or start gushing blood from {(M) his /(F) her} eyes and nose. 
+In the worst-case scenario, [♂ he /♀ she] might no longer be able to stand, or start gushing blood from [♂ his /♀ her] eyes and nose. 
  
 **Scheherazade:**
-That's awful. {(M) He /(F) She} could end up dead...! 
+That's awful. [♂ He /♀ She] could end up dead...! 
  
 **Sessyoin Kiara:**
 I am uncertain why these are the constraints by which we are bound here, but if Kama did build the Ooku with them in mind, she must have had a reason for doing so. 
@@ -6622,7 +6622,7 @@ That is why I declined their invitations earlier.
 But we absolutely cannot let Master die. 
  
 **Sessyoin Kiara:**
-I know it is dangerous to have {(M) him /(F) her} drink to the point of intoxication, as there is no telling what might happen, but we may also have no alternative...
+I know it is dangerous to have [♂ him /♀ her] drink to the point of intoxication, as there is no telling what might happen, but we may also have no alternative...
  
 ---
 
@@ -6699,10 +6699,10 @@ That's right. The one that shares my name. It's a brainwashing Noble Phantasm.
 I see. So, since Master is unable to become intoxicated through drinking...
  
 **Scheherazade:**
-...you want to use your Noble Phantasm to replicate an intoxicated state in {(M) his /(F) her} mind. 
+...you want to use your Noble Phantasm to replicate an intoxicated state in [♂ his /♀ her] mind. 
  
 **Mata Hari:**
-Right. Though I don't know if that will be enough to convince this Ooku that {(M) he /(F) she}'s really drunk. 
+Right. Though I don't know if that will be enough to convince this Ooku that [♂ he /♀ she]'s really drunk. 
  
 ---
 
@@ -6761,7 +6761,7 @@ Of course. I will be so very sad to bid farewell to this delightful intoxication
 I overheard the whole thing. 
  
 **Kasuga-no-Tsubone:**
-I'm still not quite clear on how you did it,Lady Mata Hari, but I can tell that you have saved{(M) Lord /(F) Lady} Fujimaru from {(M) his /(F) her} predicament. 
+I'm still not quite clear on how you did it,Lady Mata Hari, but I can tell that you have saved[♂ Lord /♀ Lady] Fujimaru from [♂ his /♀ her] predicament. 
  
 **Kasuga-no-Tsubone:**
 Well done! You did great! (Pat pat)
@@ -6782,7 +6782,7 @@ Now then...If this “you must be this drunk to proceed” rule really is the pr
 So let's all keep a close eye on our surroundings for clues...
  
 **Kasuga-no-Tsubone:**
-...as well as to make sure {(M) Lord /(F) Lady} Fujimaru doesn't stumble into any trouble while {(M) he's /(F) she's} inebriated! 
+...as well as to make sure [♂ Lord /♀ Lady] Fujimaru doesn't stumble into any trouble while [♂ he's /♀ she's] inebriated! 
  
 ## Act Four: Remedy for Intoxication, Extra 
  
@@ -6837,7 +6837,7 @@ So it's a really nice change of pace to have you depend on me so fully!
 Sure, you wouldn't be this helpless if I hadn't intoxicated you in the first place, but who cares! 
  
 **Mata Hari:**
-Okay, here comes a widdle obstacle! Ready to step over it? ...You did it! What a big {(M) boy /(F) girl} you are! Yes you are! 
+Okay, here comes a widdle obstacle! Ready to step over it? ...You did it! What a big [♂ boy /♀ girl] you are! Yes you are! 
  
 ---
 
@@ -6868,7 +6868,7 @@ Despite being a Servant, I don't usually have many chances to be of help...
 So, seeing Master relying on you like that, well...I confess it got me thinking about all kinds of silly things...
  
 **Sessyoin Kiara:**
-...like what it might be like for {(M) him /(F) her} to drown in me...desire me&ndash;er, depend on me so thoroughly...Oh, I'm so embarrassed...
+...like what it might be like for [♂ him /♀ her] to drown in me...desire me&ndash;er, depend on me so thoroughly...Oh, I'm so embarrassed...
  
 **Mata Hari:**
 I'm not sure what you're talking about, but I can kind of tell you're...frustrated. Want to trade? 
@@ -6880,7 +6880,7 @@ I'm not sure what you're talking about, but I can kind of tell you're...frustrat
 I'm sworn to a life of abstinence right now, and am enjoying the novelty of the accompanying bondage that entails. 
  
 **Sessyoin Kiara:**
-Besides, when the time to seduce {(M) him /(F) her} does come,all that patient waiting will have been wasted if I do not tend to that delightful task personally, with no assistance. 
+Besides, when the time to seduce [♂ him /♀ her] does come,all that patient waiting will have been wasted if I do not tend to that delightful task personally, with no assistance. 
  
 **Sessyoin Kiara:**
 I would hate to be swept up in this place's allure and break my vow. 
@@ -6909,7 +6909,7 @@ H-huh?
 D-do you mean...open sesame? 
  
 **Kasuga-no-Tsubone:**
-Oh no, now {(M) he /(F) she} can't even tell the difference between reality and fantasy. Please get ahold of yourself,{(M) Lord /(F) Lady} Fujimaru! It's just a dead end! 
+Oh no, now [♂ he /♀ she] can't even tell the difference between reality and fantasy. Please get ahold of yourself,[♂ Lord /♀ Lady] Fujimaru! It's just a dead end! 
  
 
 ---
@@ -6925,7 +6925,7 @@ Hmm. If our understanding of how this Ooku was designed is accurate...
 ...maybe we need to go down the path where you can smell the alcohol before you even set foot in it. 
  
 **Kasuga-no-Tsubone:**
-Let's hurry back and find another way,before {(M) Lord /(F) Lady} Fujimaru starts acting even stranger! 
+Let's hurry back and find another way,before [♂ Lord /♀ Lady] Fujimaru starts acting even stranger! 
  
 ## Act Four: Remedy for Intoxication, Part Four 
  
@@ -6948,7 +6948,7 @@ My only purpose was to see what sort of state our guests were in.
 But...it is as I suspected. You may be following the letter of the law, but the spirit is completely absent. 
  
 **Matsudaira Nobutsuna:**
-You two are no longer Ooku attendants,and the {(M) boy /(F) girl} only appears to be intoxicated. 
+You two are no longer Ooku attendants,and the [♂ boy /♀ girl] only appears to be intoxicated. 
  
 ---
 
@@ -7380,7 +7380,7 @@ If things are structurally set up here so that we have to break these precepts t
 I think our only option may be to find another way to advance without following our enemy's expectations...
  
 **Scheherazade:**
-...like how Mata Hari used her Noble Phantasm to intoxicate Master without requiring {(M) him /(F) her} to drink. 
+...like how Mata Hari used her Noble Phantasm to intoxicate Master without requiring [♂ him /♀ her] to drink. 
  
 **Scheherazade:**
 Because one way or another...we absolutely have to keep going. 
@@ -7417,7 +7417,7 @@ How so?
 I think it's a question of who exactly steals the keys and breaks the precept. 
  
 **Scheherazade:**
-Master doing so is probably the most dangerous option, followed by having one of {(M) his /(F) her} Servants do so in {(M) his /(F) her} stead. 
+Master doing so is probably the most dangerous option, followed by having one of [♂ his /♀ her] Servants do so in [♂ his /♀ her] stead. 
  
 **Scheherazade:**
 But, if a Servant had something else steal the keys...would that not go against Kama's expectations? 
@@ -7725,10 +7725,10 @@ Oh, incidentally, the whole reason I showed up is, of course, to check up on thi
 You've got a lot of nerve, making us into slaves like that. I hope you're ready to pay the price. 
  
 **Scheherazade:**
-As if abducting us weren't enough, you made us enemies of Master and {(M) his /(F) her} efforts to save everyone. 
+As if abducting us weren't enough, you made us enemies of Master and [♂ his /♀ her] efforts to save everyone. 
  
 **Scheherazade:**
-If it had been anyone else besides {(M) him /(F) her},I could have ended up dead...
+If it had been anyone else besides [♂ him /♀ her],I could have ended up dead...
  
 **Kama:**
 Enemies? Did you say enemies? Well that hurts. 
@@ -7852,7 +7852,7 @@ I think you'll find that you'll enjoy me very, very much...
 O-oh no you don't! I don't know what it is Fujimaru would steal from you,but whatever it is, it's not happening! 
  
 **Pārvatī:**
-We came all this way to make sure Fujimaru would never have to steal anything {(M) himself /(F) herself}! 
+We came all this way to make sure Fujimaru would never have to steal anything [♂ himself /♀ herself]! 
  
 **Scheherazade:**
 That's right. I'm the one who will be stealing. 
@@ -8186,7 +8186,7 @@ No sense moping about it! Let's go back and try again!
 
  
 **Kasuga-no-Tsubone:**
-Nothing gets you down, does it, {(M) Lord /(F) Lady} Fujimaru? I admire your optimism. 
+Nothing gets you down, does it, [♂ Lord /♀ Lady] Fujimaru? I admire your optimism. 
  
 **Kasuga-no-Tsubone:**
 You're right; there isn't any sense moping about this. So let's head back and see what other ways we can find! 
@@ -8293,7 +8293,7 @@ Definitely.
 Teehee, then it's fortunate we freed you two earlier. If you had ended up working on this floor...
  
 **Sessyoin Kiara:**
-...{(M) Lord /(F) Lady} Fujimaru might belong to Kama now, body and soul, and Lord Yagyu and I would be powerless to stop it. 
+...[♂ Lord /♀ Lady] Fujimaru might belong to Kama now, body and soul, and Lord Yagyu and I would be powerless to stop it. 
  
 **Pārvatī:**
 Let's save the chitchat for later, please! At least it looks like on this floor, we won't need to bother with keys. 
@@ -8437,7 +8437,7 @@ So if we want to proceed, maybe we need to go down the paths where there's more 
 I see. So we need to wade further into this den of depravity. 
  
 **Kasuga-no-Tsubone:**
-{(M) Lord /(F) Lady} Fujimaru, please be care&ndash;I mean,rest assured. 
+[♂ Lord /♀ Lady] Fujimaru, please be care&ndash;I mean,rest assured. 
  
 **Kasuga-no-Tsubone:**
 If need be, I'll hold my hands over your eyes to stop you from seeing anything you shouldn't! 
@@ -8561,7 +8561,7 @@ So it would seem.
 The Ooku's innermost chamber should be just past this room. This is the climax of this story. 
  
 **Kasuga-no-Tsubone:**
-Are you sure it will be okay, {(M) Lord /(F) Lady} Fujimaru? As your acting wet nurse, I can't help but worry. 
+Are you sure it will be okay, [♂ Lord /♀ Lady] Fujimaru? As your acting wet nurse, I can't help but worry. 
  
 **Kasuga-no-Tsubone:**
 You're not going to see something that's,um, a bad influence on you, are you? 
@@ -9019,7 +9019,7 @@ If we define the Ooku as a place devoted to the shogun's pleasure...
 ...I see now. All this time, I failed to grasp the greater picture. You weren't trying to corrupt Master to indulge in further depravity...
  
 **Sessyoin Kiara:**
-You wanted to corrupt {(M) him /(F) her} to turn {(M) him /(F) her} into a Tokugawa...What an absurdly obtuse way of expressing your love. 
+You wanted to corrupt [♂ him /♀ her] to turn [♂ him /♀ her] into a Tokugawa...What an absurdly obtuse way of expressing your love. 
  
 **Kama:**
 ...Would you kindly SHUT THE HELL UP!? You're making a distraction of yourself. 
@@ -9122,10 +9122,10 @@ All that said, I guess Fujimaru's Tokugawafication is taking longer than I expec
 Fine, I see how it is. 
  
 **Kama:**
-I'll just have to give Fujimaru one last push to send {(M) him /(F) her} tumbling into hell myself. 
+I'll just have to give Fujimaru one last push to send [♂ him /♀ her] tumbling into hell myself. 
  
 **Kama:**
-Once {(M) he /(F) she} experiences pleasure here in the Ooku's innermost sanctum, {(M) he'll /(F) she'll} no longer be able to resist turning into a Tokugawa. 
+Once [♂ he /♀ she] experiences pleasure here in the Ooku's innermost sanctum, [♂ he'll /♀ she'll] no longer be able to resist turning into a Tokugawa. 
  
 ---
 
@@ -9141,7 +9141,7 @@ We have to...save everyone...!
 
  
 **Kama:**
-Are you even listening to me, young {(M) man /(F) lady}? Ugh, you're so annoying. 
+Are you even listening to me, young [♂ man /♀ lady]? Ugh, you're so annoying. 
  
 **Kama:**
 Look, I'll fill you in on a little secret: I don't even remember where I put everyone from Chaldea, human or Servant. 
@@ -9493,7 +9493,7 @@ A failed Beast with a Master? What a joke.
 That's basically my reason right there. 
  
 **Kama:**
-When you were still an immature R, it was Fujimaru {(M) himself /(F) herself} who stopped you from maturing. 
+When you were still an immature R, it was Fujimaru [♂ himself /♀ herself] who stopped you from maturing. 
  
 **Kama:**
 So if, as the immature organism opposite to you,I manage to surpass Fujimaru...
@@ -9628,7 +9628,7 @@ Master, hang on to me as much as you need! I don't even care if you have to thro
 Just don't give in, whatever you do! You can't forget who you really are...! 
  
 **Kama:**
-Oh wow, that's just cruel. Spartan much, are we? Just put {(M) him /(F) her} out of {(M) his /(F) her} misery and let {(M) him /(F) her} give in. 
+Oh wow, that's just cruel. Spartan much, are we? Just put [♂ him /♀ her] out of [♂ his /♀ her] misery and let [♂ him /♀ her] give in. 
  
 **Kama:**
 It's okay, Fujimaru. Don't worry about a thing. Just give yourself over to me...and Lapse into depravity. 
@@ -9804,7 +9804,7 @@ Oh, I have that same property too, of course. And for a Tokugawa retainer...
 ...I'd imagine this works on an instinctual level, before you can even think about reaching for your sword. 
  
 **Kama:**
-So for Servants who've had their Spirit Origins pummeled half to death, or a human on the verge of turning Tokugawa {(M) himself /(F) herself}...
+So for Servants who've had their Spirit Origins pummeled half to death, or a human on the verge of turning Tokugawa [♂ himself /♀ herself]...
  
 **Kama:**
 ...that property alone might be more than strong enough for a finishing blow. 
@@ -9992,7 +9992,7 @@ I still have no idea what's going on here,but my keen insight tells me you're an
 Not only are you dressed incredibly suspiciously...
  
 **B：Goredolf:**
-...Fujimaru is glaring at you like you're the scum of the earth, despite {(M) him /(F) her} being strangely out of sorts! 
+...Fujimaru is glaring at you like you're the scum of the earth, despite [♂ him /♀ her] being strangely out of sorts! 
  
 **B：Goredolf:**
 Take this! My sadness, my lament, and all of my sorrow! Ironic Gof Puuunch! 
@@ -10184,7 +10184,7 @@ So just sit back and watch as I grow to true maturation and fill all of creation
 Between Chubs and everyone else from Chaldea,I still have plenty of hostages to spare. 
  
 **Kama:**
-{(M) He /(F) She} has no choice but to come back here. All I have to do is wait for {(M) him /(F) her} to show up again. 
+[♂ He /♀ She] has no choice but to come back here. All I have to do is wait for [♂ him /♀ her] to show up again. 
  
 **Matsudaira Nobutsuna:**
 Understood. 
@@ -10406,7 +10406,7 @@ Hey, two heads are better than one, right? And we've got way more than two heads
 
  
 **Mash:**
-...Master is right. No matter how dire things may seem, {(M) he /(F) she}...we...don't have to face them alone. 
+...Master is right. No matter how dire things may seem, [♂ he /♀ she]...we...don't have to face them alone. 
  
 **Mash:**
 We've always fought as a team,and that's not about to change now. 
@@ -10433,13 +10433,13 @@ Tell us everything that happened after we lost our connection, starting at the b
 We will throw all of that data into the calculation engine and analyze the shit out of it! Pardon my French. 
  
 **Kasuga-no-Tsubone:**
-This is wonderfully reassuring...You truly have some excellent companions, {(M) Lord /(F) Lady} Fujimaru. 
+This is wonderfully reassuring...You truly have some excellent companions, [♂ Lord /♀ Lady] Fujimaru. 
  
 **Kasuga-no-Tsubone:**
 I guess it's true what they say about great leaders attracting great talent. 
  
 **Kasuga-no-Tsubone:**
-You must be a truly virtuous young {(M) man /(F) lady}! As your acting wet nurse, I couldn't be prouder! (Pat, pat)
+You must be a truly virtuous young [♂ man /♀ lady]! As your acting wet nurse, I couldn't be prouder! (Pat, pat)
  
 ---
 
@@ -11017,7 +11017,7 @@ This will make our deaths that much less likely...Thank goodness...
 This is good news, yes, but there is one thing missing that would have made it even better: 
  
 **Sion:**
-An ability to completely rid Fujimaru of {(M) his /(F) her} existing Tokugawafication. 
+An ability to completely rid Fujimaru of [♂ his /♀ her] existing Tokugawafication. 
  
 **Mata Hari:**
 You mean it can't do that? 
@@ -11133,7 +11133,7 @@ And so there can be no chance of defeat for us.
 I was careless in our earlier battle, and the enemy took me by surprise. But this time, Master will be ready to fight. 
  
 **Yagyu Tajima-no-kami:**
-And if {(M) he /(F) she} is willing to fight, I would dishonor everything Bushido stands for if I did not ensure{(M) his /(F) her} victory. 
+And if [♂ he /♀ she] is willing to fight, I would dishonor everything Bushido stands for if I did not ensure[♂ his /♀ her] victory. 
  
 **Yagyu Tajima-no-kami:**
 As such, I will not lose. Period. 
@@ -11153,7 +11153,7 @@ You said it, Yagyu!
 
  
 **Scheherazade:**
-That's right. Master will not be fighting alone. As {(M) his /(F) her} Servants, we will be right there by {(M) his /(F) her} side. 
+That's right. Master will not be fighting alone. As [♂ his /♀ her] Servants, we will be right there by [♂ his /♀ her] side. 
  
 **Scheherazade:**
 When Master gains a new ability, it does not necessarily follow that we only gain one ability ourselves in turn. 
@@ -11297,7 +11297,7 @@ What is that...?
 Hehehe. That is Anti-Tokugawa magecraft protection...A disconfirmation field that negates Tokugawafication! 
  
 **Mash:**
-You shouldn't be able to attack {(M) his /(F) her} mind now! 
+You shouldn't be able to attack [♂ his /♀ her] mind now! 
  
 **Mash:**
 And since we designed it to focus its protection outwards, it should also help diminish the constraints Yagyu is experiencing. 
@@ -11663,7 +11663,7 @@ My name...is...
 Master!? Please, snap out of it, Master! 
  
 **Sion:**
-{(M) He /(F) She} is undergoing Tokugawafication again!? How!? 
+[♂ He /♀ She] is undergoing Tokugawafication again!? How!? 
  
 **Kama:**
 I keep trying to explain, but you morons just can't seem to get it. 
@@ -11687,13 +11687,13 @@ You may have managed to make it back to the surface and evade their effects for 
 We know that Shogun Yoshinobu's pillbox has Anti-Tokugawa effects. So why isn't it warding off this attack...!? 
  
 **Kama:**
-All that's doing for you is making it so Fujimaru has both positive and negative forces meddling with {(M) his /(F) her} mind at once. 
+All that's doing for you is making it so Fujimaru has both positive and negative forces meddling with [♂ his /♀ her] mind at once. 
  
 **Kama:**
 So it's really just a matter of which side can crank the output higher. 
  
 **Kama:**
-So this Anti-Tokugawa barrier thing you whipped up isn't nearly enough to help, given how far into depravity {(M) he's /(F) she's} already fallen...
+So this Anti-Tokugawa barrier thing you whipped up isn't nearly enough to help, given how far into depravity [♂ he's /♀ she's] already fallen...
  
 **Kama:**
 Teehee, teeheehee. In fact, you've all succumbed, haven't you! 
@@ -11819,7 +11819,7 @@ I'm still giving you oxygen out of the goodness of my heart...for now. It's all 
 Ghh...At least we Servants can still hold on to our balance, since this isn't too different from using our spirit forms...
  
 **Mata Hari:**
-...but now Master's dealing with this AND the Tokugawafication attacks on {(M) his /(F) her} mind...! 
+...but now Master's dealing with this AND the Tokugawafication attacks on [♂ his /♀ her] mind...! 
  
 ---
 
@@ -11995,7 +11995,7 @@ Master! Please, get ahold of yourself, Master!
 It looks like our connection is still barely hanging in there...Maybe Kama's love is doing this too? 
  
 **Sion:**
-Maybe it is her way of saying that even if we can communicate with {(M) him /(F) her}, there is nothing we can do to change {(M) his /(F) her} situation? 
+Maybe it is her way of saying that even if we can communicate with [♂ him /♀ her], there is nothing we can do to change [♂ his /♀ her] situation? 
  
 **Sion:**
 At least I was able to adjust the Anti-Tokugawa field's output so that it is just barely able to fend off the Tokugawa-fication mental attack. 
@@ -12147,7 +12147,7 @@ Even though that wicked god of love turned it into a labyrinth...Even though it 
 Even though it was so riddled with mistakes and misconceptions that I kept denying it...
  
 **Narration:**
-...I heard {(M) him /(F) her} say, plain as day: 
+...I heard [♂ him /♀ her] say, plain as day: 
  
 **Narration:**
 “In my mind, this place has always been...the Ooku. ”
@@ -12156,7 +12156,7 @@ Even though it was so riddled with mistakes and misconceptions that I kept denyi
 Why? Why!? 
  
 **Narration:**
-Why does {(M) he /(F) she} think that? Could it be...
+Why does [♂ he /♀ she] think that? Could it be...
  
 **Narration:**
 (...Maybe I had the wrong idea all along. )
@@ -12171,7 +12171,7 @@ But that doesn't mean I'm not still the same person I always was.
 It doesn't mean that my life up to this point was a mistake. 
  
 **Narration:**
-After all, if an ordinary {(M) boy /(F) girl} like {(M) him /(F) her} still knows about the Ooku hundreds of years in the future,I couldn't have gotten it that wrong. 
+After all, if an ordinary [♂ boy /♀ girl] like [♂ him /♀ her] still knows about the Ooku hundreds of years in the future,I couldn't have gotten it that wrong. 
  
 **Narration:**
 So I need to take responsibility. I need to fulfill my duties as the head of the Ooku. 
@@ -12197,7 +12197,7 @@ I am the woman who created the Ooku.
 **--ARROW--**
  
 **Kama:**
-I expect it won't be much longer now before I hear{(M) him /(F) her} breaking down into an ugly cry. 
+I expect it won't be much longer now before I hear[♂ him /♀ her] breaking down into an ugly cry. 
  
 **Kama:**
 ...Any moment now. 
@@ -12316,7 +12316,7 @@ A heroic story that depicts her as the powerful, ferocious, absolutely undispute
 ...! 
  
 **Kasuga-no-Tsubone:**
-After that, Lady Mata Hari, I would like you to take the mind control technique you used to make{(M) Lord /(F) Lady} Fujimaru believe {(M) he /(F) she} was intoxicated...
+After that, Lady Mata Hari, I would like you to take the mind control technique you used to make[♂ Lord /♀ Lady] Fujimaru believe [♂ he /♀ she] was intoxicated...
  
 **Kasuga-no-Tsubone:**
 ...and use it to make me believe that I am like the Kasuga-no-Tsubone in Lady Scheherazade's story. 
@@ -12377,7 +12377,7 @@ A wet nurse is supposed to take care of her charges. I am honored to be able to 
 You don't let your emotions control you, and you know to look at the big picture when giving orders. You really would make an excellent general. 
  
 **Kasuga-no-Tsubone:**
-What a good {(M) boy /(F) girl} you are. (Pat, pat)
+What a good [♂ boy /♀ girl] you are. (Pat, pat)
  
 ---
 
@@ -13597,11 +13597,11 @@ I imagined what might happen if,by some quirk of fate...
  
 **Kasuga-no-Tsubone:**
  
-...I were summoned with my naginata to fight by your side at {(M) Lord /(F) Lady} Fujimaru's behest. 
+...I were summoned with my naginata to fight by your side at [♂ Lord /♀ Lady] Fujimaru's behest. 
  
 **Kasuga-no-Tsubone:**
  
-I could even continue to raise{(M) him /(F) her} as {(M) his /(F) her} proper wet nurse...
+I could even continue to raise[♂ him /♀ her] as [♂ his /♀ her] proper wet nurse...
  
 **Kasuga-no-Tsubone:**
  
@@ -13682,13 +13682,13 @@ Uh-oh, I don't think I have much time left. I'm sorry to have to rush this part.
 Lady Mata Hari, Lady Scheherazade, I must thank you for all your help as well. Both of you, please take care! 
  
 **Kasuga-no-Tsubone:**
-{(M) Lord /(F) Lady} Fujimaru, I may not have any hands to pat your head anymore...
+[♂ Lord /♀ Lady] Fujimaru, I may not have any hands to pat your head anymore...
  
 **Kasuga-no-Tsubone:**
 ...but allow me this one last gesture, before I cease being your acting wet nurse altogether. 
  
 **Kasuga-no-Tsubone:**
-You are already such a good {(M) boy /(F) girl}. As long as you stay on your current path, I know you'll go on to be a great{(M) man /(F) woman} someday...
+You are already such a good [♂ boy /♀ girl]. As long as you stay on your current path, I know you'll go on to be a great[♂ man /♀ woman] someday...
  
 ---
 
@@ -14213,7 +14213,7 @@ Though of course, I doubt anyone as awkward as you will manage to...
 Regardless, you and I both well know that the wicked must pay for their misdeeds in the next life. That is karma. 
  
 **???:**
-So when your connection to {(M) him /(F) her} bears fruit...I expect you to work like a dog without complaint. Understand? 
+So when your connection to [♂ him /♀ her] bears fruit...I expect you to work like a dog without complaint. Understand? 
  
 **Kama:**
 Tch...So this is one last bit of salt in the wounds, huh? Fine, whatever. 
@@ -14246,13 +14246,13 @@ Ugh. It must be rough being as old as you are and having to choose all your word
 Ah! Wait! I take it back! You and I are about the same age, both in mind and in body! 
  
 **???:**
-At any rate, you have a connection to {(M) him /(F) her} now. 
+At any rate, you have a connection to [♂ him /♀ her] now. 
  
 **???:**
 After all, you will love anyone,so long as they're human, yes? 
  
 **???:**
-Then it should be easy for you to love {(M) him /(F) her}, right? 
+Then it should be easy for you to love [♂ him /♀ her], right? 
  
 **Kama:**
 ...Ouch. I'll admit, you've got me there. I can't argue with that. 
@@ -14285,7 +14285,7 @@ And then there's that thing she said to me...
 (Watching over someone grow and improve, huh...You think I can't pull that off, bitch? Watch me. )
  
 **Kama:**
-(If I succeed at tempting {(M) him /(F) her} into depravity this time, I'll be all set. And if I don't, that'll mean{(M) he's /(F) she's} grown and learned something...Patience, maybe? )
+(If I succeed at tempting [♂ him /♀ her] into depravity this time, I'll be all set. And if I don't, that'll mean[♂ he's /♀ she's] grown and learned something...Patience, maybe? )
  
 **Kama:**
 (Basically, I just need to watch over that, right? What could be easier? Besides...)

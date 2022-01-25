@@ -1357,7 +1357,7 @@ At least she seems to have calmed down, so why don't we re-introduce ourselves?
 I'm Romani Archaman. I'm the acting commander of Chaldea. 
  
 **Dr. Roman:**
-This {(M) boy /(F) girl} is Fujimaru, a Master who's formed contracts with Heroic Spirits and commands them as Servants. 
+This [♂ boy /♀ girl] is Fujimaru, a Master who's formed contracts with Heroic Spirits and commands them as Servants. 
  
 **Dr. Roman:**
 And, this girl is one of those Servants, Mash Kyrielight. 
@@ -4114,7 +4114,7 @@ Are they the strangers you spoke of?
 Merlin brought them here, so yes, they probably are. But...it's too soon. Far too soon. 
  
 **Gilgamesh:**
-See that stupid look on {(M) his /(F) her} face? Still not a clue what's happening here. 
+See that stupid look on [♂ his /♀ her] face? Still not a clue what's happening here. 
  
 **Gilgamesh:**
 There's no point in talking to them. Merlin...It seems you let yourself get distracted. 
@@ -7853,7 +7853,7 @@ I love birds! I love fish! I eat people and stuff! Witness the astonishing telep
 
  
 **Jaguar Warrior:**
-Heh...You were paw-sitively speechless from witnessing such a cool entrance. Fear not, {(M) señor /(F) señorita}! 
+Heh...You were paw-sitively speechless from witnessing such a cool entrance. Fear not, [♂ señor /♀ señorita]! 
  
 **Jaguar Warrior:**
 Scold the people of Ur all you like. They're a bunch of wimps, so it's probably even a good thing. 
@@ -10479,7 +10479,7 @@ Who cares if you hide who you are until the end? It's not going to hurt anyone.
 Fujimaru won't care that you hid something. Doesn't care now, right? 
  
 **Merlin:**
-Fujimaru is happier being with you now than {(M) he would /(F) she would} be if {(M) he /(F) she} found out your secrets. 
+Fujimaru is happier being with you now than [♂ he would /♀ she would] be if [♂ he /♀ she] found out your secrets. 
  
 **Ana:**
 ...Yes. And that annoys me. 
@@ -11395,7 +11395,7 @@ I myself will assault Uruk and kill the king! Unleash your hatred, and trample d
 What the...!? That's Tiamat!? ...Or is it Gorgon!? Jeez, this is so confusing! 
  
 **Dr. Roman:**
-She was so focused on Fujimaru earlier, but now she's not paying any attention to {(M) him /(F) her}. 
+She was so focused on Fujimaru earlier, but now she's not paying any attention to [♂ him /♀ her]. 
  
 **Dr. Roman:**
 She's planning on just advancing with the Demonic Beasts! 
@@ -13343,7 +13343,7 @@ I, the wise and farsighted goddess Ishtar, have simply entered into a business p
 Just you wait. This one's going to be an amazing Master! 
  
 **Ishtar:**
-And until then, I'll bring {(M) him /(F) her} back to life even if {(M) he /(F) she} dies or explodes! 
+And until then, I'll bring [♂ him /♀ her] back to life even if [♂ he /♀ she] dies or explodes! 
  
 **Ishtar:**
 ...Heh. There's no need to say who the real winner is here. And when that happens, this is what you'll be screaming: 
@@ -14986,7 +14986,7 @@ Sound good? You know this whole plan is a long shot, and both Master and Servant
 
  
 **Merlin:**
-...Well, Romani Archaman, you heard {(M) him /(F) her}. Any objections? 
+...Well, Romani Archaman, you heard [♂ him /♀ her]. Any objections? 
  
 **Dr. Roman:**
 It's a dangerous plan, but it's got its merits. No matter what we do, the chance of success is low anyway. 
@@ -17211,7 +17211,7 @@ No matter which you choose, we will have to deal with an annoying trial. Just pi
 Now, sinful Fujimaru, answer me...
  
 **Ishtar:**
-(Huh? {(M) He /(F) She} got called by name...? )
+(Huh? [♂ He /♀ She] got called by name...? )
  
 **First Gate:**
 Standards of beauty seem diverse but are absolute. Black wins over white, the earth wins over the heavens. Then...
@@ -18078,7 +18078,7 @@ I see. So that's why you were waiting for Fujimaru.
 Hmph. Someone who's alive and can put up a fight, basically. 
  
 **Gilgamesh:**
-My only concern was that Fujimaru might get killed by the gallû spirits the moment {(M) he /(F) she} entered the underworld. 
+My only concern was that Fujimaru might get killed by the gallû spirits the moment [♂ he /♀ she] entered the underworld. 
  
 **Gilgamesh:**
 But it seems that Ishtar prevented that. She dropped to the underworld with you and protected you when you were most vulnerable...
@@ -18646,7 +18646,7 @@ This is a just end for a goddess who tried to take control of Uruk after being c
 It seems you have accepted your fate. Why not at least give us an excuse to spare you? 
  
 **Ishtar:**
-Fujimaru sees everything in a positive light, so if you say you're going to turn over a new leaf, I'm sure {(M) he'll /(F) she'll} consider it. 
+Fujimaru sees everything in a positive light, so if you say you're going to turn over a new leaf, I'm sure [♂ he'll /♀ she'll] consider it. 
  
 ---
 
@@ -19053,7 +19053,7 @@ Had I known, I would've brought a carriage with me.
 My boat only has room for one, sorry☆
  
 **Ishtar:**
-Well, I would have been fine with having just Fujimaru on board, but “No way, not without Mash” {(M) he /(F) she} says...
+Well, I would have been fine with having just Fujimaru on board, but “No way, not without Mash” [♂ he /♀ she] says...
  
 **Quetzalcoatl:**
 If that's the case, should I call for my winged serpents? I'd have to start with getting them accustomed to humans, though! 
@@ -20449,7 +20449,7 @@ Ishtar, you're helping quite a bit.
 I know. I was thinking this was where it all started, so that's why I got all fired up. 
  
 **Ishtar:**
-Back then, I thought: “What a rude human. How can I torment {(M) him /(F) her}? ”
+Back then, I thought: “What a rude human. How can I torment [♂ him /♀ her]? ”
  
 
 ---
@@ -24760,10 +24760,10 @@ Ishtar? Were you resting?
 Yes, I was enjoying the night breeze while I watched what's become of Uruk. What about you, Mash? Why aren't you with Fujimaru? 
  
 **Mash:**
-Senpai is at the embassy. {(M) He /(F) She} wants to clean {(M) his /(F) her} room one last time. 
+Senpai is at the embassy. [♂ He /♀ She] wants to clean [♂ his /♀ her] room one last time. 
  
 **Ishtar:**
-Haha, what? That's silly. That's so like {(M) him /(F) her}. 
+Haha, what? That's silly. That's so like [♂ him /♀ her]. 
  
 **Ishtar:**
 By this time tomorrow, either Uruk will be gone, or you'll have beaten Tiamat and be heading back to your own era. 
@@ -24772,7 +24772,7 @@ By this time tomorrow, either Uruk will be gone, or you'll have beaten Tiamat an
 That's...No, I can't say for sure...
  
 **Mash:**
-but I don't think Senpai is thinking about Uruk being destroyed. I don't think {(M) he /(F) she}'s sad about leaving either. 
+but I don't think Senpai is thinking about Uruk being destroyed. I don't think [♂ he /♀ she]'s sad about leaving either. 
  
 **Mash:**
 It's probably just a natural gesture to show gratitude. We've stayed in this town longer than any other before. 
@@ -25054,10 +25054,10 @@ By the way, Mash. Is there anyone that Fujimaru has special feelings for?
 Hyah!? Someone Senpai has special feelings for!? I don't really know! Why!? 
  
 **Ishtar:**
-Hmm, I'm not really sure yet, but Ereshkigal seems to really like {(M) him /(F) her}. 
+Hmm, I'm not really sure yet, but Ereshkigal seems to really like [♂ him /♀ her]. 
  
 **Ishtar:**
-I guess you could call it imprinting? {(M) He /(F) She} was the first human who treated her normally. 
+I guess you could call it imprinting? [♂ He /♀ She] was the first human who treated her normally. 
  
 **Ishtar:**
 So I was just curious. We're basically sisters, you know. 
@@ -26221,7 +26221,7 @@ How could you be the one to deny the only heroic deed?
 ...! Who's there!? 
  
 **Benkei:**
-{(M) Lord /(F) Lady} Fujimaru! I apologize for my lateness! 
+[♂ Lord /♀ Lady] Fujimaru! I apologize for my lateness! 
  
 ---
 
@@ -26847,13 +26847,13 @@ Thank you for everything.
 But...I did get the flowers. That's enough for me. 
  
 **Gorgon:**
-Tiamat. I didn't send Fujimaru back to Uruk just to get {(M) him /(F) her} away from you. 
+Tiamat. I didn't send Fujimaru back to Uruk just to get [♂ him /♀ her] away from you. 
  
 **Gorgon:**
 I didn't want&mdash;
  
 **Gorgon:**
-I didn't want {(M) him /(F) her} to see me as a monster. I think...that would just hurt {(M) him /(F) her}, and after everything...{(M) He /(F) She} doesn't deserve that. 
+I didn't want [♂ him /♀ her] to see me as a monster. I think...that would just hurt [♂ him /♀ her], and after everything...[♂ He /♀ She] doesn't deserve that. 
  
 **Gorgon:**
 But you...I will rend you to the bone! This is what we both deserve! 
@@ -28463,10 +28463,10 @@ You won't be summoned in the first place! If it's not the current you, none of y
 But I'm okay with that. It's not like I like the current “me” or anything. 
  
 **Ereshkigal:**
-...I just liked that human's way of thinking. As long as {(M) he /(F) she} doesn't change, that's good enough for me. 
+...I just liked that human's way of thinking. As long as [♂ he /♀ she] doesn't change, that's good enough for me. 
  
 **Ereshkigal:**
-And as long as {(M) he /(F) she} remembers me, I know we'll see each other again. 
+And as long as [♂ he /♀ she] remembers me, I know we'll see each other again. 
  
 **Ereshkigal:**
 I know that, so that's why I can give up everything here. 

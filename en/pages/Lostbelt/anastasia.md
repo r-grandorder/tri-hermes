@@ -675,7 +675,7 @@ On a different note, what the hell's up with that tree? It almost looks like...a
 Humanity here evolved along a particularly unique route in order to combat both the beasts and the perpetual blizzard that shrouded the land. 
 In this world, there is nothing worse than weakness. To die is to admit defeat. Here, strength is justice, and justice, strength. 
 It is a world of permafrost, where the notion of “might makes right” has been taken to its logical conclusion. 
-And now, Fujimaru and {(M) his /(F) her} companions are about to set foot in this alternate history...
+And now, Fujimaru and [♂ his /♀ her] companions are about to set foot in this alternate history...
  
 **Fou:**
 Fou? 
@@ -884,7 +884,7 @@ Good morning.
 Ah, good morning, you two. Have you already had breakfast? 
  
 **Mash:**
-Yes, thank you. I had an Italian cuisine ration myself, and Senpai is just about to have {(M) his /(F) hers}. 
+Yes, thank you. I had an Italian cuisine ration myself, and Senpai is just about to have [♂ his /♀ hers]. 
  
 **Goredolf:**
 Oho. So you lower-level employees are stuck with rations, eh? How sad. 
@@ -1038,7 +1038,7 @@ Why are you looking so glum!? Stop that!
 Fujimaru! Fujimaru! 
  
 **Goredolf:**
-You may be a cheeky little {(M) bastard /(F) thing}, but I can tell you have sensibilities much more in line with my own. 
+You may be a cheeky little [♂ bastard /♀ thing], but I can tell you have sensibilities much more in line with my own. 
  
 **Goredolf:**
 Go on then, YOU tell them! Tell them Holmes is making this all up, or wrong, or something! 
@@ -1544,7 +1544,7 @@ Besides, the way things are going, we'll probably starve to death before we free
 Hey, if it comes to that, I bet the new director outlives us all! 
  
 **Goredolf:**
-Oho, so you can tell how resilient I am, eh? Hehe, flattery will get you nowhere, young {(M) man /(F) lady}. 
+Oho, so you can tell how resilient I am, eh? Hehe, flattery will get you nowhere, young [♂ man /♀ lady]. 
  
 **Goredolf:**
 Still, I commend your keen eye. Indeed, I am Musik the Phoenix. It will take more than a little hunger to bring ME down. 
@@ -1711,7 +1711,7 @@ You ARE the only one here with nothing better to do.
 I've got this! 
  
 **Holmes:**
-I see you are quite eager to help,{(M) Mr. /(F) Ms. } Fujimaru. Perhaps even recklessly so. But for the moment, I will spare you the lecture. 
+I see you are quite eager to help,[♂ Mr. /♀ Ms. ] Fujimaru. Perhaps even recklessly so. But for the moment, I will spare you the lecture. 
  
 
 ---
@@ -1730,7 +1730,7 @@ At this point, you are the only one we can send to investigate this area.
 It will be extremely dangerous. As the administrative advisor, I'm ashamed I must ask this of you. 
  
 **Mash:**
-...Then, will you be escorting Senpai as {(M) his /(F) her} bodyguard, Holmes? 
+...Then, will you be escorting Senpai as [♂ his /♀ her] bodyguard, Holmes? 
  
 **Mash:**
 ......
@@ -1816,7 +1816,7 @@ Were your claims that Chaldea had not been sitting around merely twiddling its t
 
  
 **Holmes:**
-...Indeed. Both {(M) Mr. /(F) Ms. } Fujimaru and the new director are correct. 
+...Indeed. Both [♂ Mr. /♀ Ms. ] Fujimaru and the new director are correct. 
  
 **Holmes:**
 The Shadow Border's destruction would mean the end of humanity itself. 
@@ -1828,13 +1828,13 @@ It is indeed important that we investigate this area, but we must concentrate th
 Therefore, I will remain to guard the Shadow Border, and do whatever I can to aid the expedition from here. 
  
 **Holmes:**
-All that said, the fact remains that it would also be reckless to send {(M) Mr. /(F) Ms. } Fujimaru out on {(M) his /(F) her} own. 
+All that said, the fact remains that it would also be reckless to send [♂ Mr. /♀ Ms. ] Fujimaru out on [♂ his /♀ her] own. 
  
 **Holmes:**
 It is a hundred degrees below zero outside, and there is no telling what else may be lying in wait. 
  
 **Goredolf:**
-I-I know that! I won't send {(M) him /(F) her} off without a buddy! 
+I-I know that! I won't send [♂ him /♀ her] off without a buddy! 
  
 **Goredolf:**
 Let's see, one of you called me an old man. What was his name again? Sauté? Piccata? 
@@ -1864,7 +1864,7 @@ Bwa!? Et tu, Fujimaru!?
 That's it! Meunière. MEUNIÈRE! 
  
 **Goredolf:**
-Get your armaments in order! You will be joining Fujimaru on {(M) his /(F) her} expedition! 
+Get your armaments in order! You will be joining Fujimaru on [♂ his /♀ her] expedition! 
  
 **Meunière:**
 Gaaah, I knew it! Why me!? 
@@ -2202,7 +2202,7 @@ Charm spells do work quickly, but their effects also wear off rapidly as well. T
 As such, I believe it would be both safer and wiser for you to employ your natural charms here. 
  
 **Holmes:**
-Should we encounter any locals, I believe the best thing to do would be for {(M) Mr. /(F) Ms. } Fujimaru to initiate the negotiations. 
+Should we encounter any locals, I believe the best thing to do would be for [♂ Mr. /♀ Ms. ] Fujimaru to initiate the negotiations. 
  
 **Holmes:**
 Once both parties have reached a mutual understanding, we can then have them come to the Border. 
@@ -2226,7 +2226,7 @@ Sure. I can whip something up that'll do the trick. (Damn, Holmes. You played hi
 (Goredolf DOES have a certain dignity...The sort that comes from being raised in a distinguished noble family. )
  
 **Holmes:**
-(And that is something that {(M) Mr. /(F) Ms. } Fujimaru can and should do without. )
+(And that is something that [♂ Mr. /♀ Ms. ] Fujimaru can and should do without. )
  
 **Fou:**
 Fou, fooou! 
@@ -2320,7 +2320,7 @@ What was that roar...!?
 I'm picking up new hostiles at Fujimaru's twelve and nine o'clock! 
  
 **E：Chaldea Staff:**
-...And another one at {(M) his /(F) her} six! They're surrounded! 
+...And another one at [♂ his /♀ her] six! They're surrounded! 
  
 **E：Chaldea Staff:**
 ...! 
@@ -2341,7 +2341,7 @@ Which means there is an established ecosystem, even in this frigid world.
 But that is a matter for later. 
  
 **Holmes:**
-{(M) Mr. /(F) Ms. } Fujimaru, Da Vinci. I'm sorry to ask you to break the rules right off the bat. 
+[♂ Mr. /♀ Ms. ] Fujimaru, Da Vinci. I'm sorry to ask you to break the rules right off the bat. 
  
 **Holmes:**
 Ms. Kyrielight, I trust you know what to do? Make your way through the Demonic Beasts to the south and return here at once. 
@@ -3625,7 +3625,7 @@ Our forecast says tomorrow. Suffice to say that time is not on our side.
 I'm afraid we must get this kite ready to fly before the end of the day. 
  
 **Holmes:**
-Now then, {(M) Mr. /(F) Ms. } Fujimaru,have you ever made a kite before? 
+Now then, [♂ Mr. /♀ Ms. ] Fujimaru,have you ever made a kite before? 
  
 ---
 
@@ -4505,7 +4505,7 @@ Y-yes, that's right. I'm quite certain he was absent for most of my meetings.
 And if we are to be investigating that soon, well...something bears mentioning. 
  
 **Holmes:**
-Da Vinci, {(M) Mr. /(F) Ms. } Fujimaru, although it's a bit untimely, there is something else I must tell you. There is no man by the name of Kotomine Kirei employed by the Holy Church. 
+Da Vinci, [♂ Mr. /♀ Ms. ] Fujimaru, although it's a bit untimely, there is something else I must tell you. There is no man by the name of Kotomine Kirei employed by the Holy Church. 
  
 **Holmes:**
 Or at least, there was no one by that name on the 2019 list of the Church's clergy. 
@@ -4587,7 +4587,7 @@ Aww, look at you, bravely trying to keep your Master safe. But you really should
 If you're going to act like you can fight, you'd better be ready for your enemy to call your bluff! 
  
 **Koyanskaya:**
-Consider your current situation, your abilities, your position. You may be okay with dying yourself, but what about the {(M) boy /(F) girl} behind you? 
+Consider your current situation, your abilities, your position. You may be okay with dying yourself, but what about the [♂ boy /♀ girl] behind you? 
  
 **Koyanskaya:**
 At times like this, the best thing you can do is throw away your pride and roll over like the dog you are. 
@@ -4760,10 +4760,10 @@ Thaaat's it. That's the way, Mash, Fujimaru.
 Don't fight an opponent you can't beat. That's the first law of the jungle. 
  
 **D：Koyanskaya:**
-Since you're such smart {(M) boys and girls /(F) girls}, I'll go ahead and make you a promise. 
+Since you're such smart [♂ boys and girls /♀ girls], I'll go ahead and make you a promise. 
  
 **D：Koyanskaya:**
-If you manage to survive Russia, I'll be sure to come see you again. When I do, we can hash things out, woman to {(M) man /(F) woman}. 
+If you manage to survive Russia, I'll be sure to come see you again. When I do, we can hash things out, woman to [♂ man /♀ woman]. 
  
 **D：Koyanskaya:**
 Keep on scurrying around like the little rats you are until then, okay? 
@@ -5288,10 +5288,10 @@ Not for us. For us, the weak aren't even worth eating.
 Every Yaga knows that.... Man, you mages really throw me off my game. 
  
 **Holmes:**
-I assure you, most mages would make the same choice you would under those circumstances. The one there with you now is the odd {(M) man /(F) woman} out. 
+I assure you, most mages would make the same choice you would under those circumstances. The one there with you now is the odd [♂ man /♀ woman] out. 
  
 **Holmes:**
-{(M) He /(F) She} is motivated primarily by {(M) his /(F) her} emotions, rather than what {(M) he /(F) she} stands to gain or lose. 
+[♂ He /♀ She] is motivated primarily by [♂ his /♀ her] emotions, rather than what [♂ he /♀ she] stands to gain or lose. 
  
 **Patxi:**
 ...Ugh, goddammit. 
@@ -5390,7 +5390,7 @@ I also hear thunder overhead.
 Sorry about that. But I'm glad you made it there in time. That thunder is the mark of some extremely precious energy, after all. 
  
 **Da Vinci:**
-Okay, Fujimaru, it's time to fly that kite! Go on, help {(M) him /(F) her}, Mash. 
+Okay, Fujimaru, it's time to fly that kite! Go on, help [♂ him /♀ her], Mash. 
  
 **Mash:**
 A-all right...! Leave the flying to me, Master...! 
@@ -5473,7 +5473,7 @@ The kite has reached the center of the thunderclouds! Activating conversion spel
 Good. Continue to keep an eye on the kite, Ms. Kyrielight. 
  
 **Holmes:**
-{(M) Mr. /(F) Ms. } Fujimaru, remain on standby near the Spirit Origin briefcase. 
+[♂ Mr. /♀ Ms. ] Fujimaru, remain on standby near the Spirit Origin briefcase. 
  
 **Holmes:**
 It is crucial for the summon that you be there. 
@@ -5570,19 +5570,19 @@ I know that mages exist,but I've no idea what they actually do.
 I figured that, being a mage and all, they'd have so much magical energy that even a Yaga like me could sense it...
  
 **Narration:**
-...but as far as I can tell, that Fujimaru {(M) guy /(F) girl} isn't anything special. 
+...but as far as I can tell, that Fujimaru [♂ guy /♀ girl] isn't anything special. 
  
 **Narration:**
-If {(M) he /(F) she} were a Yaga, {(M) he'd /(F) she'd} have been too weak to survive more than a day after being born. 
+If [♂ he /♀ she] were a Yaga, [♂ he'd /♀ she'd] have been too weak to survive more than a day after being born. 
  
 **Narration:**
-I have no idea why the Oprichniki would care about {(M) him /(F) her}, or any of them. 
+I have no idea why the Oprichniki would care about [♂ him /♀ her], or any of them. 
  
 **Narration:**
 Still...I can't help but think...
  
 **Narration:**
-...maybe {(M) he /(F) she} really will end up saving this world. 
+...maybe [♂ he /♀ she] really will end up saving this world. 
  
 **Narration:**
 Which is why I can't stand them keeping this ritual thing a secret from me. Not after they've gone and gotten my hopes up like that. 
@@ -5608,7 +5608,7 @@ The Spirit Origin briefcase now has enough charge for a single summon!
 
 ---
 
-The {(M) boy /(F) girl} extended {(M) his /(F) her} right hand,and called out loud and clear: 
+The [♂ boy /♀ girl] extended [♂ his /♀ her] right hand,and called out loud and clear: 
 
 ---
 
@@ -5683,7 +5683,7 @@ I am not.
 I am a Servant. One who long ago made his mark on history. 
  
 **Avicebron:**
-Thanks to my accomplishments, I ascended to the Throne as a Heroic Spirit. Now, I serve this {(M) man /(F) woman}, for {(M) he /(F) she} is my Master. 
+Thanks to my accomplishments, I ascended to the Throne as a Heroic Spirit. Now, I serve this [♂ man /♀ woman], for [♂ he /♀ she] is my Master. 
  
 **Patxi:**
 Heroic Spirit...
@@ -5774,10 +5774,10 @@ As you can see, I am a Caster. Just a humble maker of golems.
 But, given the circumstances, it would nonetheless seem that I am just the Servant for the job. 
  
 **Holmes:**
-So, you weren't part of the Spirit Origin graph? {(M) Mr. /(F) Ms. } Fujimaru has never met you before, eh? 
+So, you weren't part of the Spirit Origin graph? [♂ Mr. /♀ Ms. ] Fujimaru has never met you before, eh? 
  
 **Holmes:**
-Then it must have been the land itself crying out for help that brought you here, rather than a bond with {(M) him /(F) her}. 
+Then it must have been the land itself crying out for help that brought you here, rather than a bond with [♂ him /♀ her]. 
  
 **Holmes:**
 It would seem that the existing Heroic Spirits cannot easily materialize in this world. 
@@ -5819,7 +5819,7 @@ Good answer. Just what I'd expect to hear from the forefather of all golems. Min
 Not at all. That would certainly be a great help. 
  
 **Holmes:**
-Now then. {(M) Mr. /(F) Ms. } Fujimaru, Ms. Kyrielight, Patxi. 
+Now then. [♂ Mr. /♀ Ms. ] Fujimaru, Ms. Kyrielight, Patxi. 
  
 **Holmes:**
 I believe we should decide on our next course of action. Assuming that's all right with you, Goredolf? 
@@ -6630,7 +6630,7 @@ There's actually four of us!
 Four...? 
  
 **D：Yaga:**
-{(M) He /(F) She} must be talking about that Yaga, Patxi. 
+[♂ He /♀ She] must be talking about that Yaga, Patxi. 
  
 **Atalante Alter:**
 Ah, I see...Very well, bring him along too. 
@@ -7205,7 +7205,7 @@ I don't fear death, but I can't have the entire army shutting down while they wa
 ...Would you undertake these missions in my stead? 
  
 **Holmes:**
-Pardon me, Ms. Atalante. My apologies for interrupting you, and remotely at that. I believe you have heard about us from {(M) Mr. /(F) Ms. } Fujimaru and Ms. Kyrielight, but please allow us to introduce ourselves properly. 
+Pardon me, Ms. Atalante. My apologies for interrupting you, and remotely at that. I believe you have heard about us from [♂ Mr. /♀ Ms. ] Fujimaru and Ms. Kyrielight, but please allow us to introduce ourselves properly. 
  
 **Holmes:**
 My name is Sherlock Holmes. I am a Servant, just like you. And this is&ndash;
@@ -8116,7 +8116,7 @@ At any rate, the important thing is that they're not our enemy. In fact, they ev
 ...What do you make of this, Holmes? 
  
 **Holmes:**
-Had {(M) Mr. /(F) Ms. } Fujimaru summoned this Servant&ndash;assuming that is what they are&ndash;it would make sense for them to say they are from Chaldea. 
+Had [♂ Mr. /♀ Ms. ] Fujimaru summoned this Servant&ndash;assuming that is what they are&ndash;it would make sense for them to say they are from Chaldea. 
  
 **Holmes:**
 But the only Servant we have summoned here is Avicebron. 
@@ -8266,7 +8266,7 @@ All right, off to the exam room with you. Take care of Fujimaru for me, will you
 Certainly. Very well then, Goredolf. 
  
 **Holmes:**
-Now that we have the information {(M) Mr. /(F) Ms. } Fujimaru acquired for us, what say we use it to plan our next move? 
+Now that we have the information [♂ Mr. /♀ Ms. ] Fujimaru acquired for us, what say we use it to plan our next move? 
  
 **Goredolf:**
 Uh, y-yes, of course.... So, what DO we do next? 
@@ -9084,7 +9084,7 @@ I promise I'll do my very best as your navigator.
 
  
 **Holmes:**
-Good morning, {(M) Mr. /(F) Ms. } Fujimaru. 
+Good morning, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Holmes:**
 I'm sorry we couldn't let you rest longer. I do hope you made the most of your warm blanket while you had the opportunity. 
@@ -9872,16 +9872,16 @@ Even when morning came, it was only marginally brighter out than it had been at 
 But for a Yaga like me,that light was more than enough. 
  
 **Narration:**
-After all, I could still clearly make out Fujimaru as {(M) he /(F) she} was sleeping in this dimly lit cave. 
+After all, I could still clearly make out Fujimaru as [♂ he /♀ she] was sleeping in this dimly lit cave. 
  
 **Narration:**
-{(M) He /(F) She} still had {(M) his /(F) her} eyes closed, but {(M) he /(F) she} was quietly talking to Mash's projection. 
+[♂ He /♀ She] still had [♂ his /♀ her] eyes closed, but [♂ he /♀ she] was quietly talking to Mash's projection. 
  
 **Narration:**
 ...Even I didn't feel right listening in on that. 
  
 **Narration:**
-Besides, I could tell from {(M) his /(F) her} expression that they weren't talking about anything important, let alone me. 
+Besides, I could tell from [♂ his /♀ her] expression that they weren't talking about anything important, let alone me. 
  
 **Narration:**
 Atalante, though...She had her eyes closed,but I was pretty sure she wasn't actually sleeping. 
@@ -9899,7 +9899,7 @@ Atalante's no Yaga, but she looks more like one of us than she does humans.
 That's probably why the Yaga trust her;she's only a little different from us. 
  
 **Narration:**
-...That's not true for Fujimaru, though. It isn't just the way {(M) he /(F) she} looks. There's something fundamentally different about {(M) him /(F) her}. 
+...That's not true for Fujimaru, though. It isn't just the way [♂ he /♀ she] looks. There's something fundamentally different about [♂ him /♀ her]. 
  
 **Narration:**
 A long, long time ago, I left something behind that I just couldn't take anymore. 
@@ -10529,7 +10529,7 @@ We don't have anything like that right now, nor the materials to make them. PLUS
 Unlike Proper Human History, it's just too stagnant here for magical energy to reach around the world so readily. 
  
 **Da Vinci:**
-It's safe to communicate with Fujimaru, since {(M) he's /(F) she's} a Chaldean Master...
+It's safe to communicate with Fujimaru, since [♂ he's /♀ she's] a Chaldean Master...
  
 **Da Vinci:**
 ...but any other transmissions could end up getting intercepted. Sorry, but no dice. 
@@ -10676,7 +10676,7 @@ What about me...?
 Well now, he certainly seems fine with the Master here. 
  
 **Beowulf:**
-Shanshan, I want you to remember {(M) his /(F) her} scent. Can you do that? 
+Shanshan, I want you to remember [♂ his /♀ her] scent. Can you do that? 
  
 **Mash:**
 He's shaking his head...
@@ -12368,7 +12368,7 @@ Don't you tell me that! Cursed little monster. This is the thanks I get for shar
 So, for the moment, this hostility remains relegated to tongue-clicking and spitting in disgust. 
  
 **Holmes:**
-However, it will take but a single spark to ignite a conflagration. Be careful, {(M) Mr. /(F) Ms. } Fujimaru. 
+However, it will take but a single spark to ignite a conflagration. Be careful, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **???:**
 Aaaaaah! 
@@ -13266,7 +13266,7 @@ Besides, any mage worth their salt should be used to betrayal! Don't be sad abou
 Be sad you've lost your guide in this land,and how hard it'll be to replace him! 
  
 **Meunière:**
-Yeah...but I don't think it's really that Fujimaru is sad necessarily. I think {(M) he's /(F) she's} just trying to understand why he left more than anything. 
+Yeah...but I don't think it's really that Fujimaru is sad necessarily. I think [♂ he's /♀ she's] just trying to understand why he left more than anything. 
  
 **Holmes:**
 I imagine he had his reasons. And of course, we owe him a debt for involving him in all this to begin with. 
@@ -13275,7 +13275,7 @@ I imagine he had his reasons. And of course, we owe him a debt for involving him
 We will just have to hope that he is all right. There is nothing else we can do for him right now. 
  
 **Holmes:**
-Now, what say we switch gears, {(M) Mr. /(F) Ms. } Fujimaru? 
+Now, what say we switch gears, [♂ Mr. /♀ Ms. ] Fujimaru? 
  
 **Holmes:**
 It seems you have finished unloading the food. Perhaps you should inform Ms. Atalante? 
@@ -13556,13 +13556,13 @@ At the moment, though, we still have a great deal to do before we are able to fr
 Hey, guess we won't be seeing you around for a while. You guys really saved our Krichat' bacon back there. 
  
 **Yaga (Child):**
-Bye-bye, {(M) Mr. /(F) Ms. } Weakling! 
+Bye-bye, [♂ Mr. /♀ Ms. ] Weakling! 
  
 **Yaga Rebel Soldier:**
 Hey! Don't be rude to Fujimaru. 
  
 **Yaga (Child):**
-But, {(M) he's /(F) she's} human, right? Aren't humans weak? 
+But, [♂ he's /♀ she's] human, right? Aren't humans weak? 
  
 **Yaga (Child):**
 I heard that's why they all died out a long time ago,so I'm real surprised to see some now! 
@@ -13727,10 +13727,10 @@ I'm going to give you the shock of a lifetime.
 I'm afraid our transmission is cutting in and out. It might be because of how fast you're moving. 
  
 **Avicebron:**
-Can't you track Master even without communicating with {(M) him /(F) her}? 
+Can't you track Master even without communicating with [♂ him /♀ her]? 
  
 **Mash:**
-Yes, of course. I'm monitoring {(M) him /(F) her} right now. 
+Yes, of course. I'm monitoring [♂ him /♀ her] right now. 
  
 **Avicebron:**
 Perhaps we should slow down for a while and take a moment to make a report. Why don't we take a break, or even set up camp for the night? 
@@ -14148,7 +14148,7 @@ Hmm. Don't look that way, no. No scorch marks on what's left of the houses or an
 True. Likely not the work of the Oprichniki, either&ndash;they would have no need to destroy these homes. 
  
 **Holmes:**
-...Tell me, {(M) Mr. /(F) Ms. } Fujimaru, is there anything that strikes you about this scene? Anything at all? 
+...Tell me, [♂ Mr. /♀ Ms. ] Fujimaru, is there anything that strikes you about this scene? Anything at all? 
  
 ---
 
@@ -14702,7 +14702,7 @@ I'm...not Amadeus...! Dammit...I'm...NOT Amadeus...!
 ! 
  
 **Holmes:**
-{(M) Mr. /(F) Ms. } Fujimaru, look out! It's an ambush! 
+[♂ Mr. /♀ Ms. ] Fujimaru, look out! It's an ambush! 
  
 **???:**
 You guys must be working with old-fashioned radar. That explains why it was so easy to sneak up on you. 
@@ -14760,7 +14760,7 @@ Kadoc Zemlupus is a member of Team A.
 He possesses an exemplary aptitude for Rayshifting, and I believe&ndash;
  
 **Kadoc:**
-Don't bother. I don't care if {(M) he /(F) she} remembers me or not. 
+Don't bother. I don't care if [♂ he /♀ she] remembers me or not. 
  
 **Kadoc:**
 Besides, Wodime already told you who we are. I'm one of the seven Crypters, and we helped bring about the end of the world. 
@@ -15944,7 +15944,7 @@ I have one last question: What do you think of this Lostbelt?
 Fujimaru, was it? I can see you are the conductor of this little orchestra. 
  
 **Goredolf:**
-Are you mad!? I'M the commander around here! {(M) He's /(F) She's} nothing more than...than...an occasionally useful trombone! 
+Are you mad!? I'M the commander around here! [♂ He's /♀ She's] nothing more than...than...an occasionally useful trombone! 
  
 **Holmes:**
 I suppose that would make me the violin. Da Vinci, how do you feel about being the flute? 
@@ -16452,7 +16452,7 @@ Let's get going.
 
  
 **Billy:**
-You heard the {(M) man /(F) lady}! 
+You heard the [♂ man /♀ lady]! 
  
 **Avicebron:**
 ...Hm? Golems, halt. 
@@ -16994,7 +16994,7 @@ Just call me Fujimaru.
 
  
 **Yaga Rebel Soldier:**
-Yes {(M) sir /(F) ma'am}. 
+Yes [♂ sir /♀ ma'am]. 
  
 **Yaga Rebel Soldier:**
 We're just about to head into the forest and begin chopping down trees now. We'll be counting on you to keep us safe while we work...
@@ -17387,7 +17387,7 @@ If you do...I will hunt you down, even if I have to search all of Russia to do i
 Don't worry. We're not going anywhere. 
  
 **Atalante Alter:**
-Very well then...I trust you. You have proven yourself to be an honest {(M) man /(F) woman}. 
+Very well then...I trust you. You have proven yourself to be an honest [♂ man /♀ woman]. 
  
 **Atalante Alter:**
 If you say you will not run away,then I believe you. 
@@ -18538,7 +18538,7 @@ We just have to keep putting one foot in front of the other!
 Well you sure got some pep, don'tcha? 
  
 **Mash:**
-Of course! {(M) He's /(F) She's} not my Master for nothing! 
+Of course! [♂ He's /♀ She's] not my Master for nothing! 
  
 **Billy:**
 ...Hold up. Someone's here. 
@@ -19159,7 +19159,7 @@ It's really nothing special, honestly.
 Oh well ain't that just perfect. Been meanin' to take a break. 
  
 **Billy:**
-How about we all have a sit-down, a bite of jerky, and Master can talk about {(M) his /(F) her} daily life a spell. 
+How about we all have a sit-down, a bite of jerky, and Master can talk about [♂ his /♀ her] daily life a spell. 
  
 **Patxi:**
 ...So you even have hot days in your world, huh. How do you manage with those? Do you just take off all your clothes, or what? 
@@ -19561,13 +19561,13 @@ Nothing happened...?
 
  
 **???:**
-Halt, scoundrels! How dare you point your weapons at an innocent young {(M) man /(F) woman}!? 
+Halt, scoundrels! How dare you point your weapons at an innocent young [♂ man /♀ woman]!? 
  
 **???:**
 I may not know my right hand from my left in these foreign lands, but I still know a villain when I see one! 
  
 **???:**
-Touch one hair on {(M) his /(F) her} beautiful head,and I will cut you down where you stand! 
+Touch one hair on [♂ his /♀ her] beautiful head,and I will cut you down where you stand! 
  
 **???:**
 Heaven's vengeance may be slow, but this wandering swordmaster will make sure nothing slips by! If you fear not my blades, then have at you! 
@@ -19883,7 +19883,7 @@ That...is a damn good question.
 Holmes? Is something wrong? 
  
 **Holmes:**
-I was just admiring {(M) Mr. /(F) Ms. } Fujimaru's extraordinary good fortune...or perhaps I should say, {(M) his /(F) her} talent for making connections. 
+I was just admiring [♂ Mr. /♀ Ms. ] Fujimaru's extraordinary good fortune...or perhaps I should say, [♂ his /♀ her] talent for making connections. 
  
 **Holmes:**
 Ms. Miyamoto, rest assured that we have no issue with your willingness to cooperate with Chaldea. You've already been a great help to us in the past. 
@@ -19898,7 +19898,7 @@ Here in this Lostbelt, the entire world is against us, and there was no one we c
 You have been to many different worlds,yet retain your sense of right and wrong. 
  
 **Holmes:**
-{(M) Mr. /(F) Ms. } Fujimaru could not ask for a better assistant. 
+[♂ Mr. /♀ Ms. ] Fujimaru could not ask for a better assistant. 
  
 **Musashi:**
 What do you mean, carelessness!? It's not like I ASKED to go flitting around from world to&ndash;
@@ -20249,7 +20249,7 @@ What's going on?
 I'm afraid Ms. Miyamoto does not have firm roots in this Lostbelt. 
  
 **Holmes:**
-Her existence here is inherently unstable, even after forming a connection with {(M) Mr. /(F) Ms. } Fujimaru earlier. 
+Her existence here is inherently unstable, even after forming a connection with [♂ Mr. /♀ Ms. ] Fujimaru earlier. 
  
 **Holmes:**
 Now I see. So this is the downside to being able to Rayshift on one's own power. 
@@ -20625,7 +20625,7 @@ That's true. I've watched the record I left for myself several times now, and th
 ...So you're not gonna give up? 
  
 **Beowulf:**
-Patxi, this {(M) guy /(F) girl} doesn't even know how to give up. 
+Patxi, this [♂ guy /♀ girl] doesn't even know how to give up. 
  
 **Beowulf:**
 Anyway, if the Oprichniki are all going to disappear once Ivan the Terrible wakes up...
@@ -21154,7 +21154,7 @@ Y-you want us to move TOWARD the fighting!? Have you lost your mind, Holmes!?
 The time for confining ourselves to our immediate surroundings has long since passed, Goredolf. 
  
 **Holmes:**
-From here on out, we will be assuming the same risks that {(M) Mr. /(F) Ms. } Fujimaru has been facing on the front line all this time. 
+From here on out, we will be assuming the same risks that [♂ Mr. /♀ Ms. ] Fujimaru has been facing on the front line all this time. 
  
 **Holmes:**
 Attention, all hands in the cockpit-slash-Command Room, as well as those of you at your positions throughout the Shadow Border. 
@@ -21226,10 +21226,10 @@ But as the commander, I reserve the right to order an immediate retreat if I sen
 Understood, Goredolf. 
  
 **Holmes:**
-Ms. Kyrielight, would you be so kind as to contact {(M) Mr. /(F) Ms. } Fujimaru? 
+Ms. Kyrielight, would you be so kind as to contact [♂ Mr. /♀ Ms. ] Fujimaru? 
  
 **Holmes:**
-Tell {(M) him /(F) her} the Shadow Border is on its way! 
+Tell [♂ him /♀ her] the Shadow Border is on its way! 
  
 **Mash:**
 There you have it, Master. We'll be heading your way now. 
@@ -21303,10 +21303,10 @@ Talk about a traumatic experience...Still, I'm actually with the old man on this
 Nonetheless, we cannot let our fear hold us back forever. 
  
 **Holmes:**
-If we are to get through this, we will need to face her sooner or later. Don't you agree, {(M) Mr. /(F) Ms. } Fujimaru&ndash;
+If we are to get through this, we will need to face her sooner or later. Don't you agree, [♂ Mr. /♀ Ms. ] Fujimaru&ndash;
  
 **Holmes:**
-Hm? Where IS {(M) Mr. /(F) Ms. } Fujimaru? 
+Hm? Where IS [♂ Mr. /♀ Ms. ] Fujimaru? 
  
 **Mash:**
 Welcome back,Senpai, Fou. 
@@ -21362,7 +21362,7 @@ Wait, WHAT kinds of things do you want to ask her!?
 
  
 **Mash:**
-I-I can't answer any questions that would violate {(M) his /(F) her} privacy! 
+I-I can't answer any questions that would violate [♂ his /♀ her] privacy! 
  
 **Fou:**
 Fou fou. 
@@ -21627,13 +21627,13 @@ I can't really say for sure that I can beat him until I've seen the bastard for 
 ...If you guys want to go off and get yourselves killed, that's your business. But what about Fujimaru? 
  
 **Patxi:**
-Even I can tell {(M) he's /(F) she's}...well...
+Even I can tell [♂ he's /♀ she's]...well...
  
 **Patxi:**
 ...different. 
  
 **Patxi:**
-Right? {(M) He's /(F) She's} a weakling who can't even kill a single Demonic Beast on {(M) his /(F) her} own...right? 
+Right? [♂ He's /♀ She's] a weakling who can't even kill a single Demonic Beast on [♂ his /♀ her] own...right? 
  
 **Patxi:**
 Well, Fujimaru!? Are you really okay with dying!? 
@@ -21675,7 +21675,7 @@ Patxi!?
 Hold it, Billy. You too, Musashi. 
  
 **Patxi:**
-I want to talk to {(M) him /(F) her} in private. Just us. 
+I want to talk to [♂ him /♀ her] in private. Just us. 
  
 **Holmes:**
 Fine with me, Patxi. 
@@ -21684,7 +21684,7 @@ Fine with me, Patxi.
 Holmes!? 
  
 **Holmes:**
-It's quite all right, Ms. Kyrielight. Stand down, Billy, Ms. Miyamoto. Patxi won't hurt {(M) him /(F) her}. 
+It's quite all right, Ms. Kyrielight. Stand down, Billy, Ms. Miyamoto. Patxi won't hurt [♂ him /♀ her]. 
  
 **Holmes:**
 He just wants a private talk. Isn't that right? 
@@ -22179,7 +22179,7 @@ And yet...I used to be able to fight,but now, my shield feels unbelievably heavy
 Hmm, I see. So that's why you haven't been able to go out on the front lines. 
  
 **Musashi:**
-You know, Fujimaru used to brag about you all the time. I remember once, {(M) he /(F) she} told me...
+You know, Fujimaru used to brag about you all the time. I remember once, [♂ he /♀ she] told me...
  
 **Musashi:**
 “Mash's the best Shielder in the whole world! There's no other girl in the world I trust as much as her! ”
@@ -22483,13 +22483,13 @@ Still, at least now, it would be over.
 No more of this inferiority complex shit that tormented me all my life. Or, at least that is what I thought...
  
 **Narration:**
-They said {(M) he /(F) she} saved humanity. 
+They said [♂ he /♀ she] saved humanity. 
  
 **Narration:**
-A single, completely ordinary {(M) boy /(F) girl}. The very bottom of the barrel, recruited because we just needed to fill a quota, who just happened to be the only one to survive the explosion. 
+A single, completely ordinary [♂ boy /♀ girl]. The very bottom of the barrel, recruited because we just needed to fill a quota, who just happened to be the only one to survive the explosion. 
  
 **Narration:**
-{(M) He /(F) She} got to take the stage that was meant to be OURS and accomplish something so great that no one could ever deny {(M) his /(F) her} worth. 
+[♂ He /♀ She] got to take the stage that was meant to be OURS and accomplish something so great that no one could ever deny [♂ his /♀ her] worth. 
  
 **Narration:**
 ...Normally, I could just ignore that. I could just tell myself not to compare myself to anyone else and just let it go. Normally. 
@@ -22501,7 +22501,7 @@ But when I heard that, I was overwhelmed by the strongest jealousy I'd ever felt
 ...It's not fair. It's not fair...It's not fair...IT'S JUST NOT FAIR! 
  
 **Narration:**
-That could've been me! I could've done everything{(M) he /(F) she} did! I could've done it BETTER! 
+That could've been me! I could've done everything[♂ he /♀ she] did! I could've done it BETTER! 
 
 **--SECTION BREAK--**
 
@@ -22731,7 +22731,7 @@ I'm just trying not to let it show.
 That so? I'm all in favor of putting on a brave face,but don't keep it TOO bottled up. 
  
 **Beowulf:**
-It's human nature to look for an interpretation of something that fits what we want. Don't let people make you out to be a hero without regard for {(M) his /(F) her} own self-interest, all right? 
+It's human nature to look for an interpretation of something that fits what we want. Don't let people make you out to be a hero without regard for [♂ his /♀ her] own self-interest, all right? 
  
 
 ---
@@ -22743,7 +22743,7 @@ Not with all you guys here to help me.
 ...Tch. Well, now this is kind of embarrassing, huh, Lady Musashi? 
  
 **Musashi:**
-Can't let {(M) him /(F) her} down now, can we? 
+Can't let [♂ him /♀ her] down now, can we? 
  
 **Beowulf:**
 I know that. Come on, let's do this thing! 
@@ -22768,10 +22768,10 @@ You look troubled. Having second thoughts? Feeling caught between a rock and a h
 No, you're not. We're the ones who've been betrayed. 
  
 **Kadoc:**
-I just want to show {(M) him /(F) her} that{(M) his /(F) her} actions have consequences. 
+I just want to show [♂ him /♀ her] that[♂ his /♀ her] actions have consequences. 
  
 **Kadoc:**
-And if {(M) he /(F) she} has any conscience,I want {(M) him /(F) her} to make amends. 
+And if [♂ he /♀ she] has any conscience,I want [♂ him /♀ her] to make amends. 
  
 **Kadoc:**
 ...Deep down, you know we're in the right. 
@@ -22786,13 +22786,13 @@ You can call it shame if you want. Me, I think you should be proud.
 Tch......Right. 
  
 **Anastasia:**
-Can we really be sure {(M) he'll /(F) she'll} come? {(M) He /(F) She} must know {(M) he's /(F) she's} at a great disadvantage. 
+Can we really be sure [♂ he'll /♀ she'll] come? [♂ He /♀ She] must know [♂ he's /♀ she's] at a great disadvantage. 
  
 **Atalante Alter:**
-...{(M) He /(F) She} will come. I am sure of that. 
+...[♂ He /♀ She] will come. I am sure of that. 
  
 **Atalante Alter:**
-{(M) His /(F) Her} actions to date speak for themselves. 
+[♂ His /♀ Her] actions to date speak for themselves. 
  
 **Kadoc:**
 If we're going to do this, I want to turn the tables on everything, all at once. 
@@ -22807,7 +22807,7 @@ Right, Avicebron?
 You're wrong about that. There's nothing thrilling about this for me. 
  
 **Kadoc:**
-This is simply a demonstration. I'm going to prove once and for all that I can do everything {(M) he /(F) she} can and more. 
+This is simply a demonstration. I'm going to prove once and for all that I can do everything [♂ he /♀ she] can and more. 
  
 **Avicebron:**
 ...I see. Well then, this is goodbye. 
@@ -23125,7 +23125,7 @@ I will only send one there if I am certain they are capable of seeing their miss
 ...Even if that means stopping her from rushing to your aid while you are in a dire predicament. 
  
 **Holmes:**
-Do you understand? Then do please focus on the task at hand, {(M) Mr. /(F) Ms. } Fujimaru. 
+Do you understand? Then do please focus on the task at hand, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 ---
 
@@ -23742,7 +23742,7 @@ I leave the giant's command in your hands. Good luck, Master.
 You have a long path ahead of you,and difficult choices to make. But I believe in you. 
  
 **Avicebron:**
-...Fight hard, courageous young {(M) man /(F) woman}. You are human, but I know you have the strength you need to fulfill your duty...! 
+...Fight hard, courageous young [♂ man /♀ woman]. You are human, but I know you have the strength you need to fulfill your duty...! 
  
 ---
 
@@ -24108,7 +24108,7 @@ I have been quite sane for a long time now, Yaga. This is a once-in-a-lifetime o
 We now have Chaldea, those Servants,Kadoc, myself...and that giant. 
  
 **Anastasia:**
-That giant is from a realm, from a time that Demonic Beasts could not hope to touch. So I'm going to cooperate with that {(M) boy /(F) girl} and {(M) his /(F) her} team. 
+That giant is from a realm, from a time that Demonic Beasts could not hope to touch. So I'm going to cooperate with that [♂ boy /♀ girl] and [♂ his /♀ her] team. 
  
 **Anastasia:**
 Together, I'm certain they will achieve a miraculous victory. 
@@ -24135,10 +24135,10 @@ I believe they mean to restore this planet to its proper form, in order to resto
 But that doesn't mean you Yaga are going to benefit from that. Your mistaken history&ndash;your erroneous path&ndash;will merely be pruned away. 
  
 **Anastasia:**
-I take it you know that human from Chaldea well? Then please, tell me everything you can about {(M) him /(F) her}. 
+I take it you know that human from Chaldea well? Then please, tell me everything you can about [♂ him /♀ her]. 
  
 **Anastasia:**
-Does {(M) he /(F) she} really know what it is {(M) he /(F) she} should be doing? 
+Does [♂ he /♀ she] really know what it is [♂ he /♀ she] should be doing? 
  
 **Oprichnik:**
 The Tsar is waking up. The Tsar is waking up. 
@@ -25418,7 +25418,7 @@ Back then, the only reason I could do it was because I felt it was the right thi
 I was scared, yes, but more than that,I was proud...and, deep down, lonely. 
  
 **Narration:**
-I thought that, even if we won this battle, I would never again get to spend time with {(M) him /(F) her}. I couldn't help but be a bit sad about that. 
+I thought that, even if we won this battle, I would never again get to spend time with [♂ him /♀ her]. I couldn't help but be a bit sad about that. 
  
 **Narration:**
 But that's not true anymore. Now, all my pride is gone, along with any sense of what the right thing to do is. 
@@ -25609,7 +25609,7 @@ Compared to those, Ivan the Terrible's power is nothing!
 My shield may be heavy, and my heart still plagued with uncertainty...
  
 **Mash:**
-...but even so, I can still hear {(M) him /(F) her} calling me. I know that much, at least. 
+...but even so, I can still hear [♂ him /♀ her] calling me. I know that much, at least. 
  
 **Mash:**
 ...Senpai. I hear you loud and clear. 
@@ -25760,7 +25760,7 @@ She disappeared, as if she had Rayshifted!
 She must have drifted out of this world! But we can worry about that later! 
  
 **Holmes:**
-{(M) Mr. /(F) Ms. } Fujimaru! This is the best chance you will get! 
+[♂ Mr. /♀ Ms. ] Fujimaru! This is the best chance you will get! 
  
 ---
 
@@ -25829,7 +25829,7 @@ The mountainous Demonic Beast has completely shut down! And the Golem Keter Malk
 What about Fujimaru!? 
  
 **Holmes:**
-{(M) He's /(F) She's} all right. Mash took good care of {(M) him /(F) her}. 
+[♂ He's /♀ She's] all right. Mash took good care of [♂ him /♀ her]. 
  
 **Mash:**
 You did it, Master! You took down that massive Demonic Beast! 
@@ -25874,7 +25874,7 @@ You have an obligation to answer his final questions.
 ## Section 22: The Grand Duchess of the Beast Nation 
  
 **Anastasia:**
-I can't believe it...{(M) He /(F) She} really managed to separate Ivan the Terrible's true body away from that monstrosity...That golem really came through. 
+I can't believe it...[♂ He /♀ She] really managed to separate Ivan the Terrible's true body away from that monstrosity...That golem really came through. 
  
 **Ivan the Terrible:**
 ...Insolent whelps...Speak your names. 
@@ -25970,7 +25970,7 @@ So, this is as far as I go...
 So it would seem. 
  
 **Ivan the Terrible:**
-But first...I must ask that {(M) boy /(F) girl} there something. Something important. 
+But first...I must ask that [♂ boy /♀ girl] there something. Something important. 
  
 **Ivan the Terrible:**
 Let me pass, Servant who bears the name of my beloved empress. 
@@ -25994,7 +25994,7 @@ Maybe he'll even deliver the decisive blow for us.
 ...Ah, yes. That. 
  
 **Anastasia:**
-I must say, I can't tell if the Master of Chaldea is merely dense, or if {(M) he /(F) she} has deliberately chosen to turn a blind eye. 
+I must say, I can't tell if the Master of Chaldea is merely dense, or if [♂ he /♀ she] has deliberately chosen to turn a blind eye. 
  
 **Kadoc:**
 It doesn't matter either way.... But never mind that now. 
@@ -26197,7 +26197,7 @@ I once dreamed of days like this, back when I was human. Simple, ordinary days, 
 ...But even that small luxury is now gone. This world took it away. 
  
 **Narration:**
-...Young {(M) man /(F) woman} from Proper Human History,here to restore the world to its rightful form...
+...Young [♂ man /♀ woman] from Proper Human History,here to restore the world to its rightful form...
  
 **Narration:**
 ...as the Tsar who leads this world,there is something I must ask you. 
@@ -26206,7 +26206,7 @@ I once dreamed of days like this, back when I was human. Simple, ordinary days, 
 ...Are you prepared? 
  
 **Narration:**
-I found {(M) him /(F) her} amidst the blizzard, next to {(M) his /(F) her} Servant. 
+I found [♂ him /♀ her] amidst the blizzard, next to [♂ his /♀ her] Servant. 
  
 ---
 
@@ -26523,10 +26523,10 @@ Anastasia!
 But that no longer matters. Still, the least we can do for your efforts is to ensure that your deaths are quick and painless. 
  
 **Beowulf:**
-You kidding me with this crap? This {(M) guy /(F) girl} here won. Even the Tsar recognized that. 
+You kidding me with this crap? This [♂ guy /♀ girl] here won. Even the Tsar recognized that. 
  
 **Beowulf:**
-I'm not handing {(M) him /(F) her} over to you now. Outta the way, you jackasses! 
+I'm not handing [♂ him /♀ her] over to you now. Outta the way, you jackasses! 
  
 **Anastasia:**
 Yaga. 
@@ -26559,7 +26559,7 @@ Well, this would appear to be checkmate. Kadoc certainly planned this well.
 How can you be so calm about this!? Just look at Fujimaru's face! 
  
 **Goredolf:**
-{(M) He's /(F) She's} completely lost {(M) his /(F) her} will to fight! We need to get {(M) him /(F) her} out of there and make our escape! 
+[♂ He's /♀ She's] completely lost [♂ his /♀ her] will to fight! We need to get [♂ him /♀ her] out of there and make our escape! 
  
 **Holmes:**
 I do not see Kadoc allowing that to happen. 
@@ -26589,16 +26589,16 @@ Were this a matter of deduction, I could gather evidence and build a case to fin
 Were our opponents evil, I could handle them with logic, dialogue, and baritsu. 
  
 **Holmes:**
-But this...this is something Fujimaru will need to overcome by {(M) himself /(F) herself}. 
+But this...this is something Fujimaru will need to overcome by [♂ himself /♀ herself]. 
  
 **Holmes:**
-{(M) He /(F) She} is not a bullet we can fire on command. {(M) He /(F) She} is a Master, and thus must come to terms with this on {(M) his /(F) her} own. 
+[♂ He /♀ She] is not a bullet we can fire on command. [♂ He /♀ She] is a Master, and thus must come to terms with this on [♂ his /♀ her] own. 
  
 **Holmes:**
-We are {(M) his /(F) her} allies, the ones who stand with{(M) him /(F) her} in defense of Proper Human History. 
+We are [♂ his /♀ her] allies, the ones who stand with[♂ him /♀ her] in defense of Proper Human History. 
  
 **Holmes:**
-There is nothing we can do here but honor {(M) his /(F) her} wishes. 
+There is nothing we can do here but honor [♂ his /♀ her] wishes. 
  
 **Meunière:**
 Atalante's making a move! She's about to engage Fujimaru in combat...! 
@@ -26648,25 +26648,25 @@ Now's our chance! Fiiire!
 Before I knew it, a smile of pure joy spread across my face. 
  
 **Narration:**
-After an incredibly hard-won victory, all {(M) he /(F) she}got in return is the worst outcome imaginable. 
+After an incredibly hard-won victory, all [♂ he /♀ she]got in return is the worst outcome imaginable. 
  
 **Narration:**
-Death, at the hands of those{(M) he /(F) she} thought {(M) he /(F) she} had saved...
+Death, at the hands of those[♂ he /♀ she] thought [♂ he /♀ she] had saved...
  
 **Narration:**
-...and the knowledge that the world {(M) he /(F) she} worked so hard to save would ultimately be destroyed. 
+...and the knowledge that the world [♂ he /♀ she] worked so hard to save would ultimately be destroyed. 
  
 **Narration:**
-...That's all {(M) he /(F) she} has to show for {(M) his /(F) her} efforts, even after{(M) he /(F) she} finally managed to bring down Ivan the Terrible. 
+...That's all [♂ he /♀ she] has to show for [♂ his /♀ her] efforts, even after[♂ he /♀ she] finally managed to bring down Ivan the Terrible. 
  
 **Narration:**
-That's the reward {(M) he /(F) she} got for not only standing up to, but actually defeating that mountain of a tsar. 
+That's the reward [♂ he /♀ she] got for not only standing up to, but actually defeating that mountain of a tsar. 
  
 **Narration:**
-{(M) He /(F) She} fought so bravely, and now look at {(M) him /(F) her}. {(M) He /(F) She} looks so weak it's all {(M) he /(F) she} can do just to stay on {(M) his /(F) her} feet. 
+[♂ He /♀ She] fought so bravely, and now look at [♂ him /♀ her]. [♂ He /♀ She] looks so weak it's all [♂ he /♀ she] can do just to stay on [♂ his /♀ her] feet. 
  
 **Narration:**
-...If I wanted to, I could easily kill {(M) him /(F) her} myself now. 
+...If I wanted to, I could easily kill [♂ him /♀ her] myself now. 
  
 **Narration:**
 Even as I thought that, I found myself running. 
@@ -26997,7 +26997,7 @@ Right.... So, Atalante's gone, huh?
 No wonder they're all down in the dumps. 
  
 **Anastasia:**
-Does this mean {(M) he /(F) she} has “bounced back,” Kadoc? 
+Does this mean [♂ he /♀ she] has “bounced back,” Kadoc? 
  
 **Kadoc:**
 Yeah, probably.... But hey, that's life for you. 
@@ -27469,13 +27469,13 @@ Yes. Not to worry. I can store it in my shield,just like I did with all the othe
 I'll collect the Pseudo-Holy Grail now. 
  
 **Meunière:**
-...The magical energy that was flowing into the ground has stopped. The only vital signs I'm picking up now belong to Fujimaru and {(M) his /(F) her} team. 
+...The magical energy that was flowing into the ground has stopped. The only vital signs I'm picking up now belong to Fujimaru and [♂ his /♀ her] team. 
  
 **Holmes:**
 ...Y-yes, I see. Well, that one wholly inexplicable event aside...
  
 **Holmes:**
-...it would seem the battle has ended, and we have emerged victorious, {(M) Mr. /(F) Ms. } Fujimaru. 
+...it would seem the battle has ended, and we have emerged victorious, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Mash:**
 ...Yes. I can confirm that the battle here has ended as well. 

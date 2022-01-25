@@ -240,7 +240,7 @@ If there's something you don't understand,
 feel free to ask Mash or myself anytime...Hmm? 
  
 **Lev:**
-Come to think of it, what were you talking about with {(M) him /(F) her}, Mash? That's not like you. Did you know each other before? 
+Come to think of it, what were you talking about with [♂ him /♀ her], Mash? That's not like you. Did you know each other before? 
  
 **Mash:**
 No, I'd never met Senpai before. 
@@ -359,7 +359,7 @@ This might be the first time.
  
 **Lev:**
 Actually, I'm intrigued. 
-Say, Mash, why do you call {(M) him /(F) her} Senpai? 
+Say, Mash, why do you call [♂ him /♀ her] Senpai? 
  
 **Mash:**
 The reason? Fujimaru is the most human-like person I've ever met. 
@@ -1877,7 +1877,7 @@ don't make me waste my time on such matters.
 I wish you'd realize that's how dire our, no, humanity's situation is now. 
  
 **Olga Marie:**
-Look. {(M) He /(F) She} is a good example. 
+Look. [♂ He /♀ She] is a good example. 
 No argument, no opinion. Good and obedient. 
  
 **Olga Marie:**
@@ -2238,7 +2238,7 @@ Just get this amateur out of my sight!
  
 **Lev:**
 Oh...so that's it? 
-Director, {(M) he /(F) she} is a chosen Master candidate. 
+Director, [♂ he /♀ she] is a chosen Master candidate. 
  
 **Lev:**
 Sure they lack experience, but it's inappropriate to be that rude...
@@ -3270,7 +3270,7 @@ Young lady, be ready for a fight. Don't worry, you're good. You can turn this ar
 R-Right, I'll do my best! 
  
 **Caster:**
-Hey {(M) Boy /(F) Lady}, are you her Master? 
+Hey [♂ Boy /♀ Lady], are you her Master? 
 Then I'm leaving the orders to you. 
  
 **Caster:**
@@ -3470,7 +3470,7 @@ So how about we join forces?
 But if we do that, who will be your Master? 
  
 **Caster:**
-Well that {(M) kid /(F) young lady} there, of course. It doesn't seem like you have the aptitude to be a Master. 
+Well that [♂ kid /♀ young lady] there, of course. It doesn't seem like you have the aptitude to be a Master. 
  
 **Caster:**
 I mean you possess high quality magical circuits, yet you don't have the aptitude to be a Master. Is it a curse? 
@@ -3523,7 +3523,7 @@ Mr. Caster, would you show us the way?
  
 **Caster:**
 Skip the "Mister. " I'll take you there. 
-The {(M) kid /(F) young lady} here will decide when to make our move. 
+The [♂ kid /♀ young lady] here will decide when to make our move. 
  
 **Dr. Roman:**
 Much obliged. Then shall we resume the search? 
@@ -4250,7 +4250,7 @@ Oh crap, I am getting sent back too?
  
 **Caster:**
 Dammit! I don't like this, but whatever. 
-{(M) Kid /(F) Young Lady}, I'm leaving the rest to you! 
+[♂ Kid /♀ Young Lady], I'm leaving the rest to you! 
  
 **Caster:**
 If there's a next time, try to summon me as a Lancer! 

@@ -1539,7 +1539,7 @@ Damn it, we failed again! Retreat! Make sure you don't drop the food we took!
 Listen up, shield girl and staff woman...Wait, woman? Whatever, you there with the staff! 
  
 **Hundred Personas:**
-You too, human! You little {(M) wolf cub /(F) doe}! Just you wait, I will never let this go! 
+You too, human! You little [♂ wolf cub /♀ doe]! Just you wait, I will never let this go! 
  
 ---
 
@@ -4269,7 +4269,7 @@ Ah, hey wait! We want to hear more details!
 If you want me to talk, pay up! ...Or so I'd like to say, but you're all pretty scary, so I'm not making deals! 
  
 **E：Saruhan:**
-See you, weird {(M) guy /(F) girl} and crew! ...But I was serious when I warned you to turn back. 
+See you, weird [♂ guy /♀ girl] and crew! ...But I was serious when I warned you to turn back. 
  
 **E：Saruhan:**
 This is for your own good. If you want to stay human, don't go near that castle. 
@@ -4818,7 +4818,7 @@ Master from a foreign land. What is your name?
 ---
 
 **Fujimaru 1:**
-{(M) It's /(F) I'm} Fujimaru. 
+[♂ It's /♀ I'm] Fujimaru. 
  
 
 ---
@@ -8200,7 +8200,7 @@ Please, never again!
 Ouch, ouch, ouch, ouch...Senpai, are you okay!? Where did you land!? 
  
 **Arash:**
-Yo! {(M) He's /(F) She's} over here, Mash! Sir Bedivere, are you there!? 
+Yo! [♂ He's /♀ She's] over here, Mash! Sir Bedivere, are you there!? 
  
 **Bedivere:**
 I'm fine! My cheeks are still numb, though! 
@@ -11260,7 +11260,7 @@ Our village is always short of food. I would love the kids to at least have some
 ...Anyway. Serenity, it's time you showed Fujimaru your true strength. 
  
 **Hundred Personas:**
-That {(M) man /(F) girl} will lead us from now on. Let {(M) him /(F) her} know what you're capable of. 
+That [♂ man /♀ girl] will lead us from now on. Let [♂ him /♀ her] know what you're capable of. 
  
 **Serenity:**
 Yes, of course! Please count on me, Master Fujimaru! 
@@ -15575,7 +15575,7 @@ As the representative of those who shed light on a problem, I am here to guide y
 ## Section 14: The Hidden Research 
  
 **Holmes:**
-You must be {(M) Mr. /(F) Ms. } Fujimaru. And she is Ms. Kyrielight. 
+You must be [♂ Mr. /♀ Ms. ] Fujimaru. And she is Ms. Kyrielight. 
  
 **Holmes:**
 She is the Servant Xuanzang Sanzang. He is the Servant Tawara Touta. 
@@ -15708,7 +15708,7 @@ But Ms. Kyrielight. My true identity, my essence, is slightly different from wha
 And sad, but that is not the purpose of our gathering here today. 
  
 **Holmes:**
-I cannot yet accept your case, {(M) Mr. /(F) Ms. } Fujimaru. 
+I cannot yet accept your case, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Mash:**
 Oh...you can't? 
@@ -15820,7 +15820,7 @@ My existence is currently in flux...There's no way I can fight. I'm counting on 
 **--BATTLE--**
  
 **Holmes:**
-What's the Atlas Institute, you ask? An excellent question, {(M) Mr. /(F) Ms. } Fujimaru. 
+What's the Atlas Institute, you ask? An excellent question, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Holmes:**
 It is an institute of alchemists built in the Atlas Mountains of Egypt. 
@@ -15995,7 +15995,7 @@ Oh, sorry to stop so abruptly, but there are more defense mechanisms! I expect y
 **--BATTLE--**
  
 **Holmes:**
-...Hm. {(M) Mr. /(F) Ms. } Fujimaru, having watched two of your battles, may I comment on your leadership? 
+...Hm. [♂ Mr. /♀ Ms. ] Fujimaru, having watched two of your battles, may I comment on your leadership? 
  
 ---
 
@@ -16021,7 +16021,7 @@ I always voice my own deductions!
 
  
 **Holmes:**
-Anyway, {(M) Mr. /(F) Ms. } Fujimaru. To be honest, I'm quite surprised. 
+Anyway, [♂ Mr. /♀ Ms. ] Fujimaru. To be honest, I'm quite surprised. 
  
 **Holmes:**
 Your fighting abilities are unbelievable, but they're still only secondary to something else. 
@@ -16039,7 +16039,7 @@ An even more shocking aspect is the length of time that this has continued.
 Normally, Servants are only summoned temporarily, and only for a particular battle. 
  
 **Holmes:**
-Perpetual contracts like your own are unthinkable. Yet it doesn't seem like you have any particular secrets, {(M) Mr. /(F) Ms. } Fujimaru. 
+Perpetual contracts like your own are unthinkable. Yet it doesn't seem like you have any particular secrets, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Holmes:**
 In other words...
@@ -16309,7 +16309,7 @@ A detective works after an incident occurs...After there are already victims.
 Even if I deduce the truth behind the incident, I don't have the power to undo what has taken place. 
  
 **Holmes:**
-...But you do, {(M) Mr. /(F) Ms. } Fujimaru. You have that power. 
+...But you do, [♂ Mr. /♀ Ms. ] Fujimaru. You have that power. 
  
 **Holmes:**
 The King of Mages doesn't believe so...Which is your one and only chance to overcome that demon's crime. 
@@ -16483,7 +16483,7 @@ No, it's not the origin. But it is an important factor.
 The Holy Grail War. That is a grand ritual, where Heroic Spirits are summoned to fight, in which the last surviving mage and Servant standing obtain the Holy Grail. 
  
 **Holmes:**
-You already know that much. Right, {(M) Mr. /(F) Ms. } Fujimaru? 
+You already know that much. Right, [♂ Mr. /♀ Ms. ] Fujimaru? 
  
 **Holmes:**
 Very well. That ritual did indeed take place. In 2004, located in a certain city of Japan. 
@@ -16785,7 +16785,7 @@ A seat where many heroes once gathered. A rite of vows called the Round Table.
 Chaldea processed that relic, using it as a catalyst for summons, and buried it in the body of a fused being. 
  
 **Holmes:**
-I am sure you can understand this, {(M) Mr. /(F) Ms. } Fujimaru...That while the weapon she carries looks like a shield, that's not what it actually is. 
+I am sure you can understand this, [♂ Mr. /♀ Ms. ] Fujimaru...That while the weapon she carries looks like a shield, that's not what it actually is. 
  
 **Holmes:**
 That the first Servant you contracted with is actually the groundwork for gathering many Heroic Spirits. 
@@ -16875,7 +16875,7 @@ They were eons apart, they were a different race...But he truly did entrust this
 **--ARROW--**
  
 **Holmes:**
-Now, {(M) Mr. /(F) Ms. } Fujimaru. I'll leave the actual awakening of the Noble Phantasm to you. 
+Now, [♂ Mr. /♀ Ms. ] Fujimaru. I'll leave the actual awakening of the Noble Phantasm to you. 
  
 **Holmes:**
 But I fear Hermes is not doing very well. One more search and it'll run out of power. 
@@ -17203,7 +17203,7 @@ Mmm, I'm glad to be of service to you in the end. And on that note, I must bid y
 Mmm, true, there is much mystery surrounding Chaldea. But there are others I must chase right now. 
  
 **Holmes:**
-Namely, the Phantom Spirit who...No, I must not discuss this here. If you'll excuse me, {(M) Mr. /(F) Ms. } Fujimaru. 
+Namely, the Phantom Spirit who...No, I must not discuss this here. If you'll excuse me, [♂ Mr. /♀ Ms. ] Fujimaru. 
  
 **Holmes:**
 How about a little riddle, as a parting gift. The simplest of puzzles about the Incineration of Humanity. 
@@ -17829,7 +17829,7 @@ Me, young lady. We've met once before, haven't we?
 The group of thieves from the main gate! 
  
 **Saruhan:**
-That's the one. I was much obliged that time, {(M) young man /(F) young lady}. 
+That's the one. I was much obliged that time, [♂ young man /♀ young lady]. 
  
 
 ---
@@ -18192,7 +18192,7 @@ Accepting it is the only option. All right. I'm going to go, too, Ms. Da Vinci.
 Ah, I leave it up to you, Saruhan. This is exactly why your grassroots networking will help. 
  
 **Saruhan:**
-Okay, okay. I assume it'll be an awkward talk, though. If I could use the {(M) young man /(F) young lady} as an excuse, it should be 50: 50. 
+Okay, okay. I assume it'll be an awkward talk, though. If I could use the [♂ young man /♀ young lady] as an excuse, it should be 50: 50. 
  
 ---
 
@@ -18361,7 +18361,7 @@ As you can see, in preparation for tomorrow's battle, everyone is asleep, though
 Thanks for all your hard work, Fujimaru. 
  
 **Da Vinci:**
-It's the same as usual, but this time I wonder if you've become a little more {(M) masculine /(F) feminine}? 
+It's the same as usual, but this time I wonder if you've become a little more [♂ masculine /♀ feminine]? 
  
 ---
 
@@ -20908,7 +20908,7 @@ Gate, gate, paragate, para sam gate bodhi svaha.
 You know, I just remembered. I owe Fujimaru a favor. 
  
 **Sanzang:**
-{(M) He /(F) She} may not remember it, but I have memories of a very fun journey. 
+[♂ He /♀ She] may not remember it, but I have memories of a very fun journey. 
  
 **Sanzang:**
 ...So I need to pay them back. You know, because I'm a high priest girl. 

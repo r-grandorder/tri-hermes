@@ -864,7 +864,7 @@ Sweet fruit does wonders for battle fatigue. My wounds won't be healed, but my m
 Oh, no thank you. But I appreciate the gesture...
  
 **Nero:**
-Then how about that {(M) man /(F) woman} over there? They're delicious, don't be shy. 
+Then how about that [♂ man /♀ woman] over there? They're delicious, don't be shy. 
  
 ---
 
@@ -1806,7 +1806,7 @@ Mm. This is...This reaction, Mash...right there&ndash;
 Well, Emperor Nero Claudius came earlier than I thought. 
  
 **G：???:**
-&ndash;You there. {(M) The boy who looks like a rookie. /(F) The girl who's doing her best. }Are you the guest commander I've heard so much about? I guess looks can be deceiving. 
+&ndash;You there. [♂ The boy who looks like a rookie. /♀ The girl who's doing her best. ]Are you the guest commander I've heard so much about? I guess looks can be deceiving. 
  
 **Boudica:**
 Thank you for travelling so far. I'm Boudica, general of the Gaul expedition. 
@@ -6224,7 +6224,7 @@ Hand over the Holy Grail!
 
  
 **Lev:**
-I see. Looks like you've learned to talk back, {(M) boy /(F) girl}. 
+I see. Looks like you've learned to talk back, [♂ boy /♀ girl]. 
  
 **Lev:**
 I hear you did quite a bit in France. Thanks to that&mdash; I really got yelled at! 
