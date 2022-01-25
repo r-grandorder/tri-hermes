@@ -4,7 +4,7 @@
 
 * [Scatatch](Trial/Scatatch.md)
 * [Arjuna](Trial/Arjuna.md)
-* [Brynhild](Trial/Brnyhild.md)
+* [Brynhild](Trial/Brynhild.md)
 * [Amakusa Shirou](Trial/Amakusa.md)
 * [Miyamoto Musashi](Trial/Musashi.md)
 * [Mysterious Heroine X](Trial/MHX.md)

@@ -20,16 +20,20 @@ So...see anything?
 **Da Vinci:**
 Anything or anyone that seems out of place or that catches your attention in your general vicinity? 
  
+
 ---
 
 **Fujimaru 1:**
 Let's see...
+
 ---
  
+
 ---
 
 **Fujimaru 1:**
 There is a woman...dressed in Indian attire...
+
 ---
  
 **Da Vinci:**
@@ -50,14 +54,17 @@ Oh-ho. I knew this would be a special case since Sheba interpreted it as irregul
 **Da Vinci:**
 She doesn't seem hostile, but we don't know what's going to happen. Proceed with caution, Fujimaru. 
  
+
 ---
 
 **Fujimaru 1:**
 Okay... Um, excuse me, do you have a moment?
+
 ---
 
 **Fujimaru 2:**
 Hello. You there. Can I speak to you for a bit...?
+
 ---
  
 **A：???:**
@@ -81,14 +88,17 @@ Um, forgive me if I'm wrong, but...
 **A：???:**
 Are you by chance a Master who has formed a contract with a Servant...? 
  
+
 ---
 
 **Fujimaru 1:**
 Indeed I am.
+
 ---
 
 **Fujimaru 2:**
 I contract with lots of Servants.
+
 ---
  
 **A：???:**
@@ -139,15 +149,18 @@ But since you already understand the basics, I see no reason to hide my identity
 **A：???:**
 I am Pārvatī. I've manifested here using this girl's body as a vessel... She is someone to whom I am attuned in both body and soul. 
  
+
 ---
 
 **Fujimaru 1:**
 Pārvatī...?
+
 ---
 
 **Fujimaru 2:**
 A vessel? So, a Pseudo-Servant!?
  
+
 ---
  
 **Pārvatī:**
@@ -240,15 +253,18 @@ This may be hard to understand, but...let's see... Are you familiar with the con
 **Pārvatī:**
 I'm not too far off from that concept. It's a temporary state I can't change back from, but were I to do so, I would forget everything as soon as I did. 
  
+
 ---
 
 **Fujimaru 1:**
 Magical girl...I get it.
+
 ---
 
 **Fujimaru 2:**
 I don't know much about magical girls,but I think I get the idea.
  
+
 ---
  
 **Da Vinci:**
@@ -302,14 +318,17 @@ We can assert ourselves and say what we like.
 **Pārvatī:**
 Just that fact makes this manifestation worth it. 
  
+
 ---
 
 **Fujimaru 1:**
 So, Par...
+
 ---
 
 **Fujimaru 2:**
 What's a goddess like you doing in a place like this?
+
 ---
  
 **Pārvatī:**
@@ -333,6 +352,7 @@ But this Fuyuki seems to be different than the one my body is familiar with...
 **Pārvatī:**
 Embarrassing as it is to admit, I seem to have gotten lost and landed myself in a bit of a bind... 
  
+
 ---
 
 **Fujimaru 1:**
@@ -344,6 +364,7 @@ Now that we know what's going on, what do you think, Senpai? Should we help out 
 **Da Vinci:**
 Yeah. If that's her reason for being there, granting her wish will definitely lead us to some answers. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -355,19 +376,23 @@ Yes. We do have some connection with Fuyuki, and we can provide a bit of backup 
 **Mash:**
 We may be able to be of some help. 
  
+
 ---
  
 **Pārvatī:**
 Well, if you really want to, then I'd welcome it! But...are you sure you want to help me? We only just met. 
  
+
 ---
 
 **Fujimaru 1:**
 (Nod)
+
 ---
 
 **Fujimaru 2:**
 (Give a thumbs up)
+
 ---
  
 **Pārvatī:**
@@ -376,10 +401,12 @@ Oh, what kindhearted people you are! I must show my appreciation for your genero
 **Pārvatī:**
 ...Oh, my apologies. I have yet to learn your names. May I ask what they are? 
  
+
 ---
 
 **Fujimaru 1:**
 I'm Fujimaru.
+
 ---
  
 **Pārvatī:**
@@ -445,6 +472,7 @@ It's probably far from what a lance should look like... Well, no, it's probably 
 **Pārvatī:**
 I...may be a goddess, but I'm kind of a klutz. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -459,6 +487,7 @@ I have absolutely no reason to believe that, but I'm certain of it because...bec
 **Pārvatī:**
 Mash! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -467,6 +496,7 @@ You're no klutz! You're beautiful, goddess!
 **Pārvatī:**
 R-really? You think so!? You speak so much more passionately than I could... You make me blush! 
  
+
 ---
  
 **Pārvatī:**
@@ -478,15 +508,18 @@ I may not have as much firepower as Shiva, but since I've manifested...
 **Pārvatī:**
 That proves that I am a full-fledged Lancer Servant! Hi-yah! 
  
+
 ---
 
 **Fujimaru 1:**
 Hi-yah...?
+
 ---
 
 **Fujimaru 2:**
 Um... What was that wobbly move?
  
+
 ---
  
 **Pārvatī:**
@@ -588,15 +621,18 @@ Hold it right there, suspicious masked man!
 **Cursed Arm:**
 Oh? Are you perhaps addressing me? 
  
+
 ---
 
 **Fujimaru 1:**
 Well, you're the only masked man around!
+
 ---
 
 **Fujimaru 2:**
 Well... If those weirdo Island Masks were around...
  
+
 ---
  
 **Cursed Arm:**
@@ -647,10 +683,12 @@ I will not turn a blind eye to the senseless murder of innocents!
 **Pārvatī:**
 Stay right where you are, you murdering assassin. It's probably not hard to tell, but I am mad! 
  
+
 ---
 
 **Fujimaru 1:**
 (Tremble)
+
 ---
  
 **Mash:**
@@ -694,10 +732,12 @@ Damn! Why!?
 **Mohawk:**
 But we just met you, our mentor...and we were on the verge of bettering ourselves... 
  
+
 ---
 
 **Fujimaru 1:**
 Bettering yourselves?
+
 ---
  
 **Mash:**
@@ -775,14 +815,17 @@ But now, I am first and foremost the Servant of Master Fujimaru.
 **Cursed Arm:**
 Without being ordered to do so, I would certainly never attack at random. 
  
+
 ---
 
 **Fujimaru 1:**
 I forgot to mention...
+
 ---
 
 **Fujimaru 2:**
 But Hassan is actually a nice guy.
+
 ---
  
 **Pārvatī:**
@@ -799,14 +842,17 @@ Such a thing is possible!? I'm terribly sorry! I am such klutz in every possible
 **Pārvatī:**
 Oh...I can't believe I did that... I feel just awful... 
  
+
 ---
 
 **Fujimaru 1:**
 Don't think too much about it...
+
 ---
 
 **Fujimaru 2:**
 No worries! It happens!
+
 ---
  
 **Mash:**
@@ -824,10 +870,12 @@ You too, right, Fujimaru?
 **Da Vinci:**
 That incredible&ndash;if dark&ndash;fighting spirit that was practically pouring from you...it sure reinforced that you are definitely a god! 
  
+
 ---
 
 **Fujimaru 1:**
 Now I know not to make you mad.
+
 ---
  
 **Pārvatī:**
@@ -851,10 +899,12 @@ Um, are you trying to say that your REAL anger is even more intense than what we
 **Pārvatī:**
 ...(Smile) 
  
+
 ---
 
 **Fujimaru 1:**
 That wasn't much of an answer,but let's try not to tick her off.
+
 ---
  
 **Pārvatī:**
@@ -914,14 +964,17 @@ Ah! That voice...?
 **Jaguar Warrior:**
 (Providing minimal explanation) I'm pawtrolling my territory... That's right, it's mew! 
  
+
 ---
 
 **Fujimaru 1:**
 A wild animal appears!
+
 ---
 
 **Fujimaru 2:**
 Yep, pretty much a cat. Sneaking in without being called.
+
 ---
  
 **Mash:**
@@ -993,14 +1046,17 @@ I've heard enough, meow! This Jaguar is here to object to what you were talking 
 **Pārvatī:**
 Um...what WERE we talking about? 
  
+
 ---
 
 **Fujimaru 1:**
 About Masters and their Servants...
+
 ---
 
 **Fujimaru 2:**
 About a contract...
+
 ---
  
 **Jaguar Warrior:**
@@ -1024,14 +1080,17 @@ Has Emiya...and Emiya...and even another Emiya! On top of that, there's even a p
 **Pārvatī:**
 Sukhavati!!! 
  
+
 ---
 
 **Fujimaru 1:**
 I dunno, not sure there'll be more...
+
 ---
 
 **Fujimaru 2:**
 She's not lying...
+
 ---
  
 **Jaguar Warrior:**
@@ -1132,6 +1191,7 @@ Oh, crap. I'm almost out of energy. Farewell, everyone! Look forward to the next
 **Illya:**
 She just does whatever she wants, doesn't she? Hmm... She looks an awful lot like someone I know. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -1143,6 +1203,7 @@ Okay! I'll do that!
 **Illya:**
 If something like this happens again, I'm sending Chloe instead. They both act like cats anyway, so they'll probably get along. Yep! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1163,6 +1224,7 @@ While I do not have homework, I always feel that studying the books in the libra
 **Mash:**
 I'm sure I would make great progress in my studies if I asked Senpai lots of questions, and I'm sure it would be fun. 
  
+
 ---
  
 **Pārvatī:**
@@ -1185,14 +1247,17 @@ Someone's standing over there...
 **Medusa:**
 You've finally come. 
  
+
 ---
 
 **Fujimaru 1:**
 She looks familiar...
+
 ---
 
 **Fujimaru 2:**
 Nobody would ever forget that figure!
+
 ---
  
 **Medusa:**
@@ -1410,10 +1475,12 @@ Thank you very much. This is a relief.
 **Mash:**
 Looks like everything has been settled peacefully, Senpai. 
  
+
 ---
 
 **Fujimaru 1:**
 Yep, yep... Whoa, Par!?
+
 ---
  
 **Pārvatī:**
@@ -1464,10 +1531,12 @@ It might be best to consider making a duplicate of the uniform just for you.
 **Pārvatī:**
 Oh, it would be so wonderful for the two of us to wear matching uniforms and become Servants together! 
  
+
 ---
 
 **Fujimaru 1:**
 Um...
+
 ---
  
 **Medusa:**
@@ -1476,10 +1545,12 @@ I'm sorry, Master. This has turned into something of an anticlimactic farewell.
 **Medusa:**
 But that is another side of the girl...or so I feel. She can be a little ditzy... 
  
+
 ---
 
 **Fujimaru 1:**
 No worries. I have a feeling we'll meet again.
+
 ---
  
 **Medusa:**
@@ -1491,10 +1562,12 @@ Master. I know that, with you, there's no need to bring this up, but I will say 
 **Mash:**
 (Senpai, Senpai... Medusa's giving you a really terrifying glare, and she's not even using her Mystic Eyes!) 
  
+
 ---
 
 **Fujimaru 1:**
 Y-yes?
+
 ---
  
 **Medusa:**
@@ -1509,19 +1582,23 @@ I'm not asking for you to give her special treatment.
 **Medusa:**
 I'm only saying that you should treat her as well as the rest of your Servants, and take good care of her. Understood? 
  
+
 ---
 
 **Fujimaru 1:**
 Understood.
+
 ---
  
 **Medusa:**
 I can't hear you. 
  
+
 ---
 
 **Fujimaru 1:**
 YES, MA'AM!!!
+
 ---
  
 **Medusa:**
@@ -1542,6 +1619,7 @@ And not just to Medusa...
 **Mash:**
 But perhaps many others in Chaldea would feel the same way when they see her. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -1553,6 +1631,7 @@ It'll be okay. As long as Master's around, any complicated relationships between
 **Mash:**
 And of course, I will do my very best to support you! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1561,6 +1640,7 @@ That's something to look forward to.
 **Mash:**
 That's the spirit, Master! I hope to one day have an outlook as positive as yours! 
  
+
 ---
  
 **Mash:**

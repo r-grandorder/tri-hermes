@@ -29,6 +29,7 @@ My name, let me see...Companion... Valkyrie...No...no. Now, though, yes.
 **A：???:**
 You see, as I am now, call me Mash. My adorable, shining, and fleeting Master. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -43,6 +44,7 @@ Then I have no choice but to do this. I'm sorry. To be honest, I want you to be 
 **Mash:**
 ...I'm...sorry. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -57,6 +59,7 @@ Yes, you're right... Even though this is the end of time, you...
 **Mash:**
 A beautiful heart. A strong heart. I believe that was once what I loved. 
  
+
 ---
  
 **Mash:**
@@ -71,15 +74,18 @@ It's all right. There is no need to worry... Yield to the rune.
 **Mash:**
 How do you like it? You know my name, my hero, my Master. 
  
+
 ---
 
 **Fujimaru 1:**
 Mash.
+
 ---
 
 **Fujimaru 2:**
 I'm pretty sure it was Mash.
  
+
 ---
  
 **Mash:**
@@ -109,15 +115,18 @@ However, you might call this a tragedy... As this is the last island left with a
 **Mash:**
 ...I can't believe these people will be slain in this way. What a cruel, ironic punishment. 
  
+
 ---
 
 **Fujimaru 1:**
 Are you all right, Mash?
+
 ---
 
 **Fujimaru 2:**
 You're looking awfully pale.
  
+
 ---
  
 **Mash:**
@@ -153,6 +162,7 @@ I'm so flustered... Your warmth makes the flame inside me grow strong.
 **Mash:**
 Before my flames burn you to ashes, allow me to test you. Allow me to learn what kind of person you are. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -161,6 +171,7 @@ Your flames will burn me to ashes?
 **Mash:**
 ... 
  
+
 ---
 
 **Fujimaru 2:**
@@ -169,6 +180,7 @@ How are you going to test that
 **Mash:**
 ...You'll see... soon enough. 
  
+
 ---
  
 **D：???:**
@@ -176,15 +188,18 @@ How are you going to test that
 **Mash:**
 You heard that, right? It reached you, right? That is the destiny which you must face. 
  
+
 ---
 
 **Fujimaru 1:**
 Someone is fighting within the Demonic Fog!?
+
 ---
 
 **Fujimaru 2:**
 It sounds like a Helter Skelter!
  
+
 ---
  
 **Fionn mac Cumhaill:**
@@ -205,15 +220,18 @@ So don't you wander up to us like tha... I see, so you've already been stopped b
 **Beowulf:**
 Then I guess you're of no harm to us... Whoa! 
  
+
 ---
 
 **Fujimaru 1:**
 Two Heroic Spirits?
+
 ---
 
 **Fujimaru 2:**
 They are fighting the machines?
  
+
 ---
  
 **Beowulf:**
@@ -273,15 +291,18 @@ I have a question for you as well, ageless, fleeting, and shining one. Fujimaru.
 **Mash:**
 What is it you are doing, as we continue to Rayshift, today, tomorrow, and forever? 
  
+
 ---
 
 **Fujimaru 1:**
 &mdash;Fight.
+
 ---
 
 **Fujimaru 2:**
 Someday save the world.
  
+
 ---
  
 **Mash:**
@@ -361,6 +382,7 @@ When I see you like that, I... I...
 **Mash:**
 &mdash;I really don't know what to do. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -375,6 +397,7 @@ I love, I love, I love you. I love, I love, I love, I love you...
 **Mash:**
 ...I end up...loving you... 
  
+
 ---
 
 **Fujimaru 2:**
@@ -386,6 +409,7 @@ I-I'm...sorry... ...I really will...be more careful.
 **Mash:**
 I will be more careful... 
  
+
 ---
  
 **Mash:**
@@ -397,15 +421,18 @@ All I can do is show you who I am. Fujimaru.
 **Mash:**
 My true name is Brynhild. Yes, that is the truth. I am not Mash Kyrielight. 
  
+
 ---
 
 **Fujimaru 1:**
 Huh? What the... Really?
+
 ---
 
 **Fujimaru 2:**
 As I thought, you aren't Mash.
  
+
 ---
  
 **A：Brynhild:**
@@ -449,6 +476,7 @@ If I remain with you any longer, I would surely... be in greater and greater tro
 **Brynhild:**
 ...Therefore, let us part for now. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -457,6 +485,7 @@ Will we meet again?
 **Brynhild:**
 Yes, yes. Until that day... 
  
+
 ---
 
 **Fujimaru 2:**
@@ -465,6 +494,7 @@ We'll meet again.
 **Brynhild:**
 ...That's right. Someday, when the stars align and our paths cross... 
  
+
 ---
  
 **Brynhild:**

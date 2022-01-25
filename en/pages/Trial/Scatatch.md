@@ -29,6 +29,7 @@ Fou, kyaau?
 **Mash:**
 One possibility is... That this is a type of shared memory between the Servant and the Master... A type of dream. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -40,6 +41,7 @@ Yes, Senpai. I can feel the heat as if it's real.
 **Mash:**
 This is the same Fuyuki city we traveled to with the director. But whether it's the same era, or if we're dreaming... 
  
+
 ---
 
 **Fujimaru 2:**
@@ -51,6 +53,7 @@ There's so much fire but I don't feel the heat.
 **Mash:**
 I may be different than you. ...That makes me a little sad. 
  
+
 ---
  
 **???:**
@@ -80,6 +83,7 @@ You're not one of the Servants we saw in Fuyuki... Not only that, but I don't th
 **Mash:**
 we've ever met you before. I don't...think so, anyway. My memory's hazy... 
  
+
 ---
 
 **Fujimaru 1:**
@@ -106,6 +110,7 @@ That would be around the birth of Christ... Do you mean that's when you were ali
 **???:**
 ...Hmm. So drawing a clear line to explain my existence, huh? 
  
+
 ---
 
 **Fujimaru 2:**
@@ -138,6 +143,7 @@ It's true that her proportions are... just about perfect, but...
 **Fou:**
 Foou! 
  
+
 ---
  
 **???:**
@@ -173,15 +179,19 @@ Kya&mdash;u!?
 **Mash:**
 Scáthach! The god-killing superhuman who's said to practically be a divinity herself? 
  
+
 ---
 
 **Fujimaru 1:**
 Is she amazing?
+
+
 ---
 
 **Fujimaru 2:**
 I see. Scáthach, huh...
  
+
 ---
  
 **Mash:**
@@ -193,15 +203,19 @@ An invincible warrior, the ruler of a supernatural realm similar to the underwor
 **Mash:**
 And she's also a "great magus," one of the best ever... But she shouldn't "exist in the Throne of Heroes," so why!? 
  
+
 ---
 
 **Fujimaru 1:**
 Doesn't exist in the Throne of Heroes?
+
+
 ---
 
 **Fujimaru 2:**
 You mean she can't be a Servant?
  
+
 ---
  
 **Scáthach:**
@@ -243,15 +257,19 @@ AAAAAAAA!
 **Mash:**
 I saw them as soon as I sensed their magical energy! Enemy approaching, Senpai! 
  
+
 ---
 
 **Fujimaru 1:**
 If they're attacking we have to fight them.
+
+
 ---
 
 **Fujimaru 2:**
 Stay calm and be careful.
  
+
 ---
  
 **Mash:**
@@ -278,6 +296,7 @@ It's time for battle! First, fight. Fight before you think. Worrying comes after
 **Scáthach:**
 So fight, fight, fight, and win! That's the Celtic way! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -286,6 +305,7 @@ Celts are crazy...
 **Mash:**
 R-Right... It's like violence is a necessity for them... 
  
+
 ---
 
 **Fujimaru 2:**
@@ -294,6 +314,7 @@ YEAH!
 **Mash:**
 Senpai!? 
  
+
 ---
  
 **--BATTLE--**
@@ -355,6 +376,7 @@ To a Celtic warrior, numbers mean nothing.
 **Scáthach:**
 We're all idiots who fight until we're dead, or there's no one left to fight! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -363,6 +385,7 @@ We're all idiots who fight until we're dead, or there's no one left to fight!
 **Scáthach:**
 No, no, that's not it. That's not it at all. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -371,6 +394,7 @@ I don't understand.
 **Scáthach:**
 That's fine. That's how you should be. You probably haven't grasp the concept of death yet. 
  
+
 ---
  
 **Scáthach:**
@@ -448,15 +472,18 @@ D-Do you mean... Those remnants have already been corrupting us!?
 **Mash:**
 That's... What you mean, right? That's why I'm suddenly with Senpai in these flames... 
  
+
 ---
 
 **Fujimaru 1:**
 It's okay. I don't think you have to worry.
+
 ---
 
 **Fujimaru 2:**
 It'll be fine. Let's go back to Chaldea together.
  
+
 ---
  
 **Mash:**
@@ -492,6 +519,7 @@ But I do not think I can just let these things overflow.
 **Scáthach:**
 If the gods will not save them, I will. If they want a fight, I have no reason to refuse. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -500,6 +528,7 @@ So this is the Celtic way!
 **Mash:**
 Y-Yes, Senpai... This violent but dependable power is the Celtic way... 
  
+
 ---
 
 **Fujimaru 2:**
@@ -508,6 +537,7 @@ YEAH!
 **Mash:**
 Senpai! Is the Celtic way getting to you? 
  
+
 ---
  
 ## Spiral Rainbow
@@ -533,6 +563,7 @@ The year was AD 2004. 13 years ago. It's very close to the present, but it's sti
 **Mash:**
 This is where we... 
  
+
 ---
 
 **Fujimaru 1:**
@@ -541,6 +572,7 @@ Got caught up in a Holy Grail War that shouldn't exist.
 **Mash:**
 Yes, Senpai. We fought many Heroic Spirit for the fragment of the Grail. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -549,6 +581,7 @@ Got saved by that Caster guy.
 **Mash:**
 ...That's right, Senpai. Without him, we would've died. 
  
+
 ---
  
 **Fou:**
@@ -584,6 +617,7 @@ I-I'm sorry. I knew that in my head, but it's so hard for me to remember that th
 **Mash:**
 ...is the same Cú Chulainn who's part of the Ulster Cycle, and s-so... 
  
+
 ---
 
 **Fujimaru 1:**
@@ -595,6 +629,7 @@ R-R-R-R-Right, Senpai!
 **Fou:**
 Foufou. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -603,6 +638,7 @@ YEAH!
 **Mash:**
 YEAH! ...Huh? 
  
+
 ---
  
 **Mash:**
@@ -635,15 +671,18 @@ GAAAAAA!
 **Mash:**
 That roar!? 
  
+
 ---
 
 **Fujimaru 1:**
 Sounds pretty big.
+
 ---
 
 **Fujimaru 2:**
 A... Dragon?
  
+
 ---
  
 **Scáthach:**
@@ -664,15 +703,18 @@ R-Right... You're right, Fou. I think that might be...
 **Mash:**
 That might be a little too big! S-Senpai! 
  
+
 ---
 
 **Fujimaru 1:**
 Scáthach!
+
 ---
 
 **Fujimaru 2:**
 Can you do something about that?
  
+
 ---
  
 **Scáthach:**
@@ -681,15 +723,18 @@ Can you do something about that?
 **Scáthach:**
 With the divine lightning in your hand, come forth, come forth and fight! Oh Guardian of Ulster. 
  
+
 ---
 
 **Fujimaru 1:**
 My body feels numb.
+
 ---
 
 **Fujimaru 2:**
 My head feels numb.
  
+
 ---
  
 **Mash:**
@@ -728,15 +773,18 @@ I can't call the mentor I respect a little girl! That's not the Red Branch way! 
 **Mash:**
 A very boisterous looking man has appeared! Senpai, the Celtic-ness of this place is going up quickly! 
  
+
 ---
 
 **Fujimaru 1:**
 You're... Uncle Fergus!
+
 ---
 
 **Fujimaru 2:**
 YEAH!
  
+
 ---
  
 **Fergus:**
@@ -763,15 +811,18 @@ Oh, uh. Huh! N-no, I'm sorry, I&mdash;
 **Mash:**
 Huh? Senpai too? 
  
+
 ---
 
 **Fujimaru 1:**
 So that's it, huh?
+
 ---
 
 **Fujimaru 2:**
 
  
+
 ---
  
 **???:**
@@ -786,6 +837,7 @@ So that's what I'm here for, eh? You need the greatest swordsman the Ulster has!
 **Fergus:**
 Time for me to show off my blade! Ms. Scáthach, let me handle this! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -794,6 +846,7 @@ Sword... What sword?
 **Fergus:**
 Hahaha! What, you don't know my Noble Phantasm? 
  
+
 ---
 
 **Fujimaru 2:**
@@ -802,6 +855,7 @@ That drill can't be... It can't be...
 **Fergus:**
 Hahaha! So you know my Noble Phantasm, huh? 
  
+
 ---
  
 **Fergus:**
@@ -866,15 +920,18 @@ One of his natural talents is having the luck to be blessed with the most terrif
 **Fergus:**
 If I was there, I could've challenged him to see who was the better warrior. What a shame. 
  
+
 ---
 
 **Fujimaru 1:**
 He was a druid.
+
 ---
 
 **Fujimaru 2:**
 He was an amazing mage.
  
+
 ---
  
 **Scáthach:**
@@ -898,15 +955,18 @@ Don't worry about it. This was just a temporary contract. Plus, I couldn't refus
 **Fergus:**
 By the way, what kind of sorcery did you use, Ms. Scáthach? How was I summoned during my mealtime? 
  
+
 ---
 
 **Fujimaru 1:**
 It is strange, yeah.
+
 ---
 
 **Fujimaru 2:**
 I don't think a Holy Grail or its fragment is here, right?
  
+
 ---
  
 **Scáthach:**
@@ -933,6 +993,7 @@ The old runes made after that, and their modern recreations are not even close i
 **Fergus:**
 I see, but I don't get it at all. Ms. Scáthach sure knows a lot! I wish one of us in Red Branch has even a fraction of that intellect. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -944,6 +1005,7 @@ It's more than ancient, you can say it's from the Age of Gods.
 **Mash:**
 That's amazing... Actually, it's really, really, amazing! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -955,6 +1017,7 @@ Yeah... She's using a rune from the Age of Gods, made by an actual god!
 **Mash:**
 It's unimaginable to us. If the Doctor was here he'd be going crazy. 
  
+
 ---
  
 **Mash:**
@@ -987,6 +1050,7 @@ It's a matter of effectiveness. The Great God of the Norse is very kind to warri
 **Scáthach:**
 Now, on to the next location. Are you ready to face the next remnant? 
  
+
 ---
 
 **Fujimaru 1:**
@@ -995,6 +1059,7 @@ I am ready anytime.
 **Mash:**
 Yes, Senpai. I don't know how this happened, but I think I have an idea what we should do. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1006,6 +1071,7 @@ YEAH!
 **Mash:**
 Are you trying to be a Celt? Are you? 
  
+
 ---
  
 **Fou:**
@@ -1052,6 +1118,7 @@ Y-Yeah... Um...
 **Mash:**
 I don't...know...what to say... Um... S-Senpai... 
  
+
 ---
 
 **Fujimaru 1:**
@@ -1060,6 +1127,7 @@ That's amazing, Fergus.
 **Fergus:**
 Hahaha! You've got that right, if I do say so myself! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1068,6 +1136,7 @@ I don't know what to do either!
 **Fou:**
 Foufou. Fou. 
  
+
 ---
  
 **Fergus:**
@@ -1112,15 +1181,18 @@ And when that's done! I'll take you up on your offer!
 **Fergus:**
 First, we fight! If I win, of course, you keep your promise. But if I lose, we'll talk then! 
  
+
 ---
 
 **Fujimaru 1:**
 You're so bold, Fergus!
+
 ---
 
 **Fujimaru 2:**
 YEAH!
  
+
 ---
  
 **Mash:**
@@ -1147,6 +1219,7 @@ Oh... You're patting my head... R-Right...
 **Scáthach:**
 Yes. Now it's your turn, Fujimaru. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -1155,6 +1228,7 @@ Yes. Now it's your turn, Fujimaru.
 **Scáthach:**
 ...Yes, good child. There, there. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1163,6 +1237,7 @@ Yes. Now it's your turn, Fujimaru.
 **Scáthach:**
 ...What? Why are you so embarrassed? 
  
+
 ---
  
 **Scáthach:**
@@ -1186,15 +1261,18 @@ It's clearly viewing us as enemies! It's looking at us...
 **Mash:**
 This... This can't be... 
  
+
 ---
 
 **Fujimaru 1:**
 Calm down, Mash.
+
 ---
 
 **Fujimaru 2:**
 It's not that different from the others.
  
+
 ---
  
 **Mash:**
@@ -1233,15 +1311,18 @@ If you die here, you'll be ripped apart from the inside, and Chaldea will be fil
 **Scáthach:**
 Humanity, civilization, everything you've done, everything that exists will lose their last hope forever. 
  
+
 ---
 
 **Fujimaru 1:**
 I know.
+
 ---
 
 **Fujimaru 2:**
 I figured that was the case.
  
+
 ---
  
 **Mash:**
@@ -1339,15 +1420,18 @@ Go on ahead, Fujimaru, Mash!
 **Fergus:**
 My Caladbolg is enough to delay the incarnated form of the King of Destruction! 
  
+
 ---
 
 **Fujimaru 1:**
 Fergus!
+
 ---
 
 **Fujimaru 2:**
 YEAH!
  
+
 ---
  
 **Fergus:**
@@ -1418,15 +1502,18 @@ I can't detect his magical energy, maybe because of the fire. His temporary cont
 **Fou:**
 Fou, foouu... Fouu... 
  
+
 ---
 
 **Fujimaru 1:**
 Uncle...
+
 ---
 
 **Fujimaru 2:**
 Fergus...
  
+
 ---
  
 **Scáthach:**
@@ -1447,15 +1534,18 @@ Did you not hear me? ...Hmm. Maybe you didn't.
 **Scáthach:**
 Still, this town's flame sure is burning bright. Also, it seems we've been running around in circles. 
  
+
 ---
 
 **Fujimaru 1:**
 Why are we back here?
+
 ---
 
 **Fujimaru 2:**
 ...I think I understand.
  
+
 ---
  
 **Scáthach:**
@@ -1497,15 +1587,18 @@ Uh...
 **Mash:**
 Sorry. I should have kept my mouth shut. 
  
+
 ---
 
 **Fujimaru 1:**
 What do you mean?
+
 ---
 
 **Fujimaru 2:**
 Did you say something bad?
  
+
 ---
  
 **Diarmuid:**
@@ -1538,15 +1631,18 @@ It's true that I regret my end. That's why my lance can be of aid to you.
 **Diarmuid:**
 Even if this is a temporary contract, a Master is no different than a liege lord. 
  
+
 ---
 
 **Fujimaru 1:**
 Thank you, Diarmuid.
+
 ---
 
 **Fujimaru 2:**
 Let's fight together.
  
+
 ---
  
 **Diarmuid:**
@@ -1561,6 +1657,7 @@ Yes, yes. I figured you'd get along. Diarmuid prefers Masters who are exactly wh
 **Scáthach:**
 I've raised so many warriors that I think I've got a good eye for when people will get along. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -1572,6 +1669,7 @@ Well, I'm nothing of the sort, but... I don't mind being told that.
 **Scáthach:**
 Heh. That's an interesting idea, Fujimaru. Goddess of Relationships... I might think about that... 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1598,6 +1696,7 @@ The chance?
 **Scáthach:**
 Hehehe. Don't worry about it. Perhaps I'll tell you someday, but not now. 
  
+
 ---
  
 **Scáthach:**
@@ -1623,15 +1722,18 @@ That explains your human form, but...
 **Fou:**
 Fou, foouuu! Kyuu! 
  
+
 ---
 
 **Fujimaru 1:**
 What's wrong, Fou?
+
 ---
 
 **Fujimaru 2:**
 F-Fou is really excited!
  
+
 ---
  
 **Scáthach:**
@@ -1669,6 +1771,7 @@ Hahahaha! It's been so long since I've killed a god! I'm excited!
 **Scáthach:**
 I'll kill you, Artemis! It's disgusting that you would take a "human form." 
  
+
 ---
 
 **Fujimaru 1:**
@@ -1677,6 +1780,7 @@ Scáthach, you're really excited!
 **Scáthach:**
 It's been so, so long since I've fought a Mediterranean god! I can't wait! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1685,6 +1789,7 @@ YEAH!
 **Scáthach:**
 A splendid answer from the heart, Fujimaru! 
  
+
 ---
  
 **Mash:**
@@ -1693,11 +1798,13 @@ A splendid answer from the heart, Fujimaru!
 **Mash:**
 ...We're going to fight a god. A Divine Spirit. No, but it's an avatar. 
  
+
 ---
 
 **Fujimaru 1:**
 It's okay. Just calm down and do it like always.
  
+
 ---
  
 **Mash:**
@@ -1729,15 +1836,18 @@ Shield maiden, temporary Master. Someday, beyond the end of time, we may meet.
 **Diarmuid:**
 Farewell. Scáthach... A million thanks for your compassion. 
  
+
 ---
 
 **Fujimaru 1:**
 Thank you, Diarmuid Ua Duibhne.
+
 ---
 
 **Fujimaru 2:**
 Is this...the end?
  
+
 ---
  
 **Mash:**
@@ -1773,15 +1883,18 @@ If nothing else, you've done it once.
 **Scáthach:**
 So it should be just as easy to do it again, or three times, or a hundred. Do your jobs, and become the heroes who restored humanity. 
  
+
 ---
 
 **Fujimaru 1:**
 I can't do it a hundred times, Scáthach!
+
 ---
 
 **Fujimaru 2:**
 YEAH!
  
+
 ---
  
 **Mash:**

@@ -80,6 +80,7 @@ The story is about yours truly.
 **Mash:**
 Good morning, Senpai. Did you get a good night's rest? 
  
+
 ---
 
 **Fujimaru 1:**
@@ -88,11 +89,13 @@ Morning, Mash.
 **Mash:**
 Yes, hello. 
  
+
 ---
 
 **Fujimaru 2:**
 I rested well. Thanks.
  
+
 ---
  
 **Mash:**
@@ -137,15 +140,18 @@ Good, we're connected. I'm glad. This feels more like a Rayshift than a simulati
 **Mash:**
 So where...exactly is this place? 
  
+
 ---
 
 **Fujimaru 1:**
 Did the simulator always have a stage like this?
+
 ---
 
 **Fujimaru 2:**
 This seems familiar... Or maybe not so much...
  
+
 ---
  
 **Mash:**
@@ -163,6 +169,7 @@ To use the parlance of science fiction, you might call it cyberspace. In that it
 **Holmes:**
 But behold! Thanks to the program that Sir Babbage created, we are inside Chaldea's computer system! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -174,6 +181,7 @@ Inside the computer system!? Does that mean you two are digitized?
 **Holmes:**
 Correct. Though, only our consciousnesses in this case. The technology necessary to digitize the physical body has still yet to be created. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -182,6 +190,7 @@ This place really does seem familiar...
 **Mash:**
 Senpai? 
  
+
 ---
  
 **Holmes:**
@@ -202,6 +211,7 @@ I wanted to see for myself. Certain aspects of the venture tickled my fancy.
 **Holmes:**
 So I asked Sir Babbage to do the impossible task of creating a program to hack in. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -210,11 +220,13 @@ I see?
 **Holmes:**
 Do you understand now? 
  
+
 ---
 
 **Fujimaru 2:**
 So what's the point of me and Mash being here?
  
+
 ---
  
 **Holmes:**
@@ -232,14 +244,17 @@ So...because you wanted to comment on it... Well, it is true that when a great d
 **Mash:**
 We have front row seats to Mr. Holmes's commentary, Senpai! 
  
+
 ---
 
 **Fujimaru 1:**
 Yay!
+
 ---
 
 **Fujimaru 2:**
 That's cool and all, but it's REALLY early...
+
 ---
  
 **Holmes:**
@@ -260,25 +275,31 @@ Now then. Let's proceed, shall we? The node with the data mass in question is ah
 **Holmes:**
 I would have liked to appear immediately in front of the data mass, but the target node is well-protected. 
  
+
 ---
 
 **Fujimaru 1:**
 Protection?
+
 ---
 
 **Fujimaru 2:**
 So it's the usual you-know-what...?
+
 ---
  
+
 ---
 
 **Fujimaru 1:**
 An all-too-familiar howl!
+
 ---
 
 **Fujimaru 2:**
 I knew it!
  
+
 ---
  
 **Mash:**
@@ -302,15 +323,18 @@ While we are indeed in the simulator, I should warn you that the battle we now f
 **Holmes:**
 Any injuries you sustain will likely affect your physical body in reality. Proceed with caution. 
  
+
 ---
 
 **Fujimaru 1:**
 We'll be fine.
+
 ---
 
 **Fujimaru 2:**
 Yep. Saw this coming.
  
+
 ---
  
 **Holmes:**
@@ -327,15 +351,18 @@ Battle has ended. I'm not detecting any other enemies in your vicinity.
 **Mash:**
 Good work, Senpai. ...Senpai? 
  
+
 ---
 
 **Fujimaru 1:**
 Holmes...
+
 ---
 
 **Fujimaru 2:**
 ...Bare-knuckle boxing?
  
+
 ---
  
 **Mash:**
@@ -356,15 +383,18 @@ And he fought with his bare hands! Could that possibly be the famed, mysterious 
 **Mash:**
 Baritsu! 
  
+
 ---
 
 **Fujimaru 1:**
 Baritsu!
+
 ---
 
 **Fujimaru 2:**
 What kind of martial art is that!?
  
+
 ---
  
 **Holmes:**
@@ -373,15 +403,18 @@ I haven't used Baritsu for a long time, but it is quite a thrill. Hm? What's the
 **Holmes:**
 And with you, Master? As my Master, shouldn't Baritsu be familiar to you? 
  
+
 ---
 
 **Fujimaru 1:**
 Um, I don't know Baritsu.
+
 ---
 
 **Fujimaru 2:**
 Wait, what? “Master”!?
  
+
 ---
  
 **Holmes:**
@@ -393,15 +426,18 @@ I have officially become a Servant of Chaldea, and formed a contract with you. I
 **Holmes:**
 We already had a connection, so it was only a matter of time... The rest... Well, a variety of circumstances and changes have taken place. 
  
+
 ---
 
 **Fujimaru 1:**
 Wait a minute, your Class...
+
 ---
 
 **Fujimaru 2:**
 I-is the label of Ruler a typo...?
  
+
 ---
  
 **Holmes:**
@@ -422,15 +458,18 @@ When I officially became a Servant of Chaldea, my Spirit Origin changed...signif
 **Holmes:**
 I was, most assuredly, a Caster before. But as of now, I am Sherlock Holmes, Ruler. 
  
+
 ---
 
 **Fujimaru 1:**
 You turned into a Ruler!
+
 ---
 
 **Fujimaru 2:**
 So that wasn't a typo!
  
+
 ---
  
 **Mash:**
@@ -492,15 +531,18 @@ Indeed. But as it happens, I would like you to say the words this time. Actually
 **Holmes:**
 Master. You have the same question in mind, correct? 
  
+
 ---
 
 **Fujimaru 1:**
 Did you really exist, historically I mean?
+
 ---
 
 **Fujimaru 2:**
 Are you only a fictional character?
  
+
 ---
  
 **Mash:**
@@ -557,25 +599,30 @@ Even the legend of Sakata Kintoki, Mister Golden himself, was said to be set dow
 **Holmes:**
 Other than him, the majority of the heroic tales of Japan's Heian period were passed on in stories told during the early days of the Edo period. 
  
+
 ---
 
 **Fujimaru 1:**
 So these heroes existed long ago...
+
 ---
 
 **Fujimaru 2:**
 ...Their legends were told long after they lived.
  
+
 ---
  
 **Holmes:**
 Ah, indeed. That is probably true. So what of me? 
  
+
 ---
 
 **Fujimaru 1:**
 Oh, I get it.
  
+
 ---
  
 **Holmes:**
@@ -584,11 +631,13 @@ Ah, you understand now?
 **Holmes:**
 What difference is there between these heroes of legend and myself? None. We are essentially the same. 
  
+
 ---
 
 **Fujimaru 1:**
 But there isn't proof that you really existed...
  
+
 ---
  
 **Holmes:**
@@ -645,15 +694,18 @@ There is no record of the evil dragon Fafnir existing in the 5th century, and ev
 **Holmes:**
 In other words, this world is... 
  
+
 ---
 
 **Fujimaru 1:**
 I...see...?
+
 ---
 
 **Fujimaru 2:**
 Hm? I feel like we got off track...?
  
+
 ---
  
 **B：???:**
@@ -662,15 +714,18 @@ Ugh! You talk too much!
 **???:**
 Oooooooooo010100001111...! 1011100101, I don't care if it's real or fictitious!!! 
  
+
 ---
 
 **Fujimaru 1:**
 Who said that!?
+
 ---
 
 **Fujimaru 2:**
 That's one seriously digitized shout!
  
+
 ---
  
 **Holmes:**
@@ -694,29 +749,35 @@ Allow me to explain. The simulator you normally use to train contained a curious
 **Holmes:**
 I lent my aid to the staff in an effort to remove it... 
  
+
 ---
 
 **Fujimaru 1:**
 Ah!
+
 ---
 
 **Fujimaru 2:**
 He didn't say “unidentified!”
  
+
 ---
  
 **Mash:**
 A curious data mass... E-excuse me... I just said “unidentified” because what you said made me assume... 
  
+
 ---
 
 **Fujimaru 1:**
 Holmes should have worded it better.
+
 ---
 
 **Fujimaru 2:**
 Holmes...you malicious man.
  
+
 ---
  
 **Holmes:**
@@ -740,15 +801,18 @@ It is generated every time Fujimaru wins.
 **Holmes:**
 Normally it would be deleted every time training ends, but it appears some fragments have remained in the registry. 
  
+
 ---
 
 **Fujimaru 1:**
 Excess data...?
+
 ---
 
 **Fujimaru 2:**
 Generates every time we win?
  
+
 ---
  
 **Holmes:**
@@ -781,15 +845,18 @@ And a variety of Shadow Servants have also been created. It appears that these n
 **Holmes:**
 Their anger...secretly building up all this time. 
  
+
 ---
 
 **Fujimaru 1:**
 That seems to be contradictory.
+
 ---
 
 **Fujimaru 2:**
 ...Anger? But they don't have emotion, right?
  
+
 ---
  
 **Holmes:**
@@ -810,15 +877,18 @@ For the time being, we must pacify the NPCs our culprit has driven berserk in or
 **Mash:**
 (W-wow, Holmes is amazing! He's talking like this case is already closed!) 
  
+
 ---
 
 **Fujimaru 1:**
 I wonder who the true culprit is...?
+
 ---
 
 **Fujimaru 2:**
 Okay, first let's quell their anger!
  
+
 ---
  
 **???:**
@@ -877,15 +947,18 @@ It may be best to keep that in the back of your mind whenever you go through a B
 **Mash:**
 Mister Holmes... 
  
+
 ---
 
 **Fujimaru 1:**
 He sure summed that up pretty nicely...
+
 ---
 
 **Fujimaru 2:**
 So, what exactly are you, Holmes?
  
+
 ---
  
 **Holmes:**

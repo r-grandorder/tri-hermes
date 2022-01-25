@@ -86,40 +86,49 @@ I may have injured her, but her head is still on her shoulders... To survive my 
 **???:**
 Shinmen Musashi-no-Kami Fujiwara-no-Harunobu. I will never forget your name. 
  
+
 ---
 
 **Fujimaru 1:**
 ...Wait...
+
 ---
 
 **Fujimaru 2:**
 ...This is...
  
+
 ---
  
+
 ---
 
 **Fujimaru 1:**
 ...I've seen this place before?
+
 ---
 
 **Fujimaru 2:**
 ...This looks familiar...
  
+
 ---
  
 **A：???:**
 ...Ugh... Hmmm... Argh, my head hurts... 
  
+
 ---
 
 **Fujimaru 1:**
 Someone has collapsed!
+
 ---
 
 **Fujimaru 2:**
 Hey, are you okay!?
  
+
 ---
  
 **A：???:**
@@ -128,6 +137,7 @@ Hey, are you okay!?
 **A：???:**
 Wait... Huh? Who...are you? Where's that scary old geezer? 
  
+
 ---
 
 **Fujimaru 1:**
@@ -139,6 +149,7 @@ Sorry about that! Y'know, if you tell me what's going on, I'll be even MORE apol
 **A：???:**
 But, before that... 
  
+
 ---
 
 **Fujimaru 2:**
@@ -150,6 +161,7 @@ I asked the question first. You're dressed funny... Hmm, looks like you're from 
 **A：???:**
 In any case... 
  
+
 ---
  
 **A：???:**
@@ -158,11 +170,13 @@ You, unfamiliar foreigner! Before you name yourself, you must answer this!
 **A：???:**
 Who in the world am I!? And where exactly is this!? 
  
+
 ---
 
 **Fujimaru 1:**
 ...You lost your memories?
  
+
 ---
  
 **A：???:**
@@ -177,15 +191,18 @@ If you could just point me to a nearby tea shop, I'll handle the rest myself.
 **A：???:**
 So? Do you know my name? Do you know anything about this place? 
  
+
 ---
 
 **Fujimaru 1:**
 ...I'm sorry...
+
 ---
 
 **Fujimaru 2:**
 I'm afraid I don't know either...
  
+
 ---
  
 **A：???:**
@@ -197,11 +214,13 @@ Sorry for asking so much. Anyway, let's get back to the introduction.
 **A：???:**
 What's your name? My memories don't matter, but I can't call someone I just met “Hey You,” right? 
  
+
 ---
 
 **Fujimaru 1:**
 Fujimaru.
  
+
 ---
  
 **A：???:**
@@ -243,6 +262,7 @@ Hey, you two humans there. If you don't want to die, come quietly and do as we s
 **Oni A:**
 If you resist, we won't have any choice: we'll have to hurt one of you. Real bad. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -251,6 +271,7 @@ If you resist, we won't have any choice: we'll have to hurt one of you. Real bad
 **A：???:**
 Of course. If running would take care of it, I'd be happy to. But, it doesn't seem like running will do the trick. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -259,6 +280,7 @@ Can you fight?
 **A：???:**
 Hmm... My memory's hazy... Can't even remember my own name... Still, I'm guessing this isn't something we can just run away from, so... 
  
+
 ---
  
 **A：???:**
@@ -298,6 +320,7 @@ Indeed. I once devoted myself to the way of the sword. I'm familiar with all the
 **Oni A:**
 This woman is Miyamoto Musashi, without a doubt! No, but... Woman... A woman...? 
  
+
 ---
 
 **Fujimaru 1:**
@@ -309,6 +332,7 @@ Miyamoto Musashi...!
 **Musashi:**
 Do you know about me, Fujimaru? Is the name Miyamoto Musashi famous or something? 
  
+
 ---
 
 **Fujimaru 2:**
@@ -320,6 +344,7 @@ Yeah. Sounds about right to me, so let's go with that.
 **Musashi:**
 Although... I can't remember what kind of person this “Musashi” is... Well, she's probably a good-for-nothing person! 
  
+
 ---
  
 **Musashi:**
@@ -398,15 +423,18 @@ I've never heard of any of those, but I have an idea of who you are now.
 **Musashi:**
 And you're saying I'm one of those so-called Servants? 
  
+
 ---
 
 **Fujimaru 1:**
 With that dual-wielding stance? Definitely.
+
 ---
 
 **Fujimaru 2:**
 Musashi was a famous hero and swordsman.
  
+
 ---
  
 **Musashi:**
@@ -427,6 +455,7 @@ Eh, the little stuff can wait! Let's fill up our tummies first!
 **Musashi:**
 Miss, bring more dumplings! Also, bring me some udon! Plain or not doesn't matter, just gimme what you got! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -438,6 +467,7 @@ Tee hee hee. Just knowing my name's making this better.
 **Musashi:**
 Besides, there's no use worrying about what you don't know, right? 
  
+
 ---
 
 **Fujimaru 2:**
@@ -455,6 +485,7 @@ Don't worry, if I sell it, it'll cover travel expenses for a while. I'll share s
 **Musashi:**
 I mean, selling it'll kinda ruin its legacy and stuff... Eh! Luckily, I still have other swords. 
  
+
 ---
  
 **Musashi:**
@@ -463,15 +494,18 @@ Anywho, you woke up on this island, and you remember having being here before...
 **Musashi:**
 How did you get back to your original world before? I wonder if that strange hole is somewhere on this island, too? 
  
+
 ---
 
 **Fujimaru 1:**
 Original world...?
+
 ---
 
 **Fujimaru 2:**
 Don't tell me... You, too?
  
+
 ---
  
 **Musashi:**
@@ -489,15 +523,18 @@ Apparently, I'm the sort who gets spirited away all the time. That's why I end u
 **Musashi:**
 Usually, there's a hole to return to the original world nearby. So, long as I can find it, I can get back to the previous world. 
  
+
 ---
 
 **Fujimaru 1:**
 A swordsman who Rayshifts without realizing it...
+
 ---
 
 **Fujimaru 2:**
 Isn't that a big deal...?
  
+
 ---
  
 **Musashi:**
@@ -509,11 +546,13 @@ I see. Openhearted and cheerful like in all the stories.
 **B：???:**
 Even in a predicament that would kill an ordinary person, she just shrugs it off... I'm at a loss for words. 
  
+
 ---
 
 **Fujimaru 1:**
 The oni from earlier!
  
+
 ---
  
 **B：???:**
@@ -561,11 +600,13 @@ Each of you with unknown origins, but doubtless foreigners. If so, you want to r
 **Musashi:**
 Yes. The dumplings here suck! 
  
+
 ---
 
 **Fujimaru 1:**
 I really do need to get back to Chaldea...
  
+
 ---
  
 **Sukeroku:**
@@ -602,15 +643,18 @@ Defy me, and I'll give you some PAIN! So, better just do what I say!
  
 Whaaaaaat!? 
  
+
 ---
 
 **Fujimaru 1:**
 (Politeness x oppression = Musashi's power...!)
+
 ---
 
 **Fujimaru 2:**
 (And now we have yet another weirdo Saber...)
  
+
 ---
  
 **Sukeroku:**
@@ -661,15 +705,18 @@ Musashi, his son, calling his own style “Niten” is surely respect for his gr
 **Sukeroku:**
 Hmm? I'm getting a chill somehow. Do oni catch colds as well? 
  
+
 ---
 
 **Fujimaru 1:**
 Musashi is totally glaring at you!
+
 ---
 
 **Fujimaru 2:**
 I don't know why, but don't talk about her dad!
  
+
 ---
  
 **Sukeroku:**
@@ -687,11 +734,13 @@ Well, I've never heard of any oni versed in swordsmanship. On the other hand, I 
 **Musashi:**
 Oh well, I already knew that was the version of the story in your world. 
  
+
 ---
 
 **Fujimaru 1:**
 Wait, what do you mean?
  
+
 ---
  
 **Musashi:**
@@ -718,15 +767,18 @@ But the Musashi in your world became famous? That's pretty awesome.
 **Musashi:**
 When you get down to it, Miyamoto Musashi is just a careless sorta fellow. But in his version, he was at least able to touch the Throne of Void. 
  
+
 ---
 
 **Fujimaru 1:**
 Pruning Theoretical Phenomenon?
+
 ---
 
 **Fujimaru 2:**
 Throne of Void...?
  
+
 ---
  
 **Sukeroku:**
@@ -759,11 +811,13 @@ Hiiiyah!
 **Musashi:**
 ... 
  
+
 ---
 
 **Fujimaru 1:**
 ...
  
+
 ---
  
 **Cleopatra:**
@@ -802,15 +856,18 @@ But your advance ends here! I will not allow any further violence!
 **Cleopatra:**
 That's because... Yes, that's because... I'm going to turn this island into my second castle! 
  
+
 ---
 
 **Fujimaru 1:**
 Second castle...!?
+
 ---
 
 **Fujimaru 2:**
 She...she wouldn't repeat the nightmare of Castle Csejte!
  
+
 ---
  
 **Cleopatra:**
@@ -834,6 +891,7 @@ So she says. No idea what she's talking about, but she seems awfully generous, I
 **Musashi:**
 It's the New Year, right? How about we forget about going to the summit and just rest here? 
  
+
 ---
 
 **Fujimaru 1:**
@@ -848,6 +906,7 @@ Six hours per shift, two shifts a day, each separated by a six-hour break.
 **Cleopatra:**
 With this miraculous labor law, I can turn a single working day into two. That's how you lot will build my new castle! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -862,6 +921,7 @@ N-no, you can take longer than those special three days. I mean, some schools ar
 **Sukeroku:**
 Who knows? I heard people are starting to work a lot sooner now. 
  
+
 ---
  
 **Musashi:**
@@ -882,11 +942,13 @@ I don't know what Heroic Spirit you are, but I'm not just a supreme beauty!
 **Sukeroku:**
 What... Pharaoh Fighting Style...!? 
  
+
 ---
 
 **Fujimaru 1:**
 You know of it, Raiden!?
  
+
 ---
  
 **Sukeroku:**
@@ -909,11 +971,13 @@ Kyaaah...!
 **Sukeroku:**
 Amazing! The match is over! 
  
+
 ---
 
 **Fujimaru 1:**
 Winner, Shinmen Musashi-no-Kami!
  
+
 ---
  
 **Musashi:**
@@ -934,11 +998,13 @@ For the sake of my dear Caesar, I will make Cleopatra Fitness Island a reality!
 **Musashi:**
 Huh? She disappeared. I didn't even hit her that hard, though... 
  
+
 ---
 
 **Fujimaru 1:**
 She went back to Chaldea.
  
+
 ---
  
 **Musashi:**
@@ -994,11 +1060,13 @@ They're made of food that lasts so that the lady of the house doesn't have to co
 **Sukeroku:**
 And they're made elaborately and lovingly with as many of the husband's favorite foods as possible. It's their way of showing their gratitude at the end of the year. 
  
+
 ---
 
 **Fujimaru 1:**
 Huh?
  
+
 ---
  
 **Musashi:**
@@ -1010,11 +1078,13 @@ Yes... They say New Year's Day dictates the rest of the year, you know. So tradi
 **Musashi:**
 And you just went out and got a store-bought one...? Even my jerk dad gets quiet in front of a New Year's meal... 
  
+
 ---
 
 **Fujimaru 1:**
 Huh!?
  
+
 ---
  
 **Tamamo Cat Woof:**
@@ -1058,15 +1128,18 @@ Huh? The last gate's supposed to be here...
 **Sukeroku:**
 But instead there's this weird field. And what's that funky steel tower... 
  
+
 ---
 
 **Fujimaru 1:**
 That rocket...!
+
 ---
 
 **Fujimaru 2:**
 Watch out! You'll be ambushed!
  
+
 ---
  
 **Musashi:**
@@ -1081,6 +1154,7 @@ I've been watching from afar... What's with that cool battle animation!?
 **X:**
 A true Saber should only use a single beloved blade! Using two is so wrong... You should be ashamed of yourself! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -1098,6 +1172,7 @@ Anyway, did you hear that, newbie!? Dual-wielding is MY thing, so cut it out!
 **X:**
 Even my self-control, which is reinforced as tightly as a plasma chain, is still about to snap! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1118,6 +1193,7 @@ Umm... When you say that with a smile on your face, it's like you're telling me 
 **X:**
 ...This is bad... I get the same sense from this Saber as I did from that kimono-clad street murderer! 
  
+
 ---
  
 **X:**
@@ -1132,11 +1208,13 @@ Taste my ever-so-flashy Saber Ninja Technique!
 **Sukeroku:**
 What...? Saber Ninja Technique, you say!? 
  
+
 ---
 
 **Fujimaru 1:**
 I knew you would know about this, Raiden.
  
+
 ---
  
 **Sukeroku:**
@@ -1157,16 +1235,19 @@ Get ready, dual-wielder! And be careful, Fujimaru!
 **X:**
 Don't underestimate me just because it's New Year's! I'm kind of seriously strong right now! 
  
+
 ---
 
 **Fujimaru 1:**
 Fine! Bring it on!
  
+
 ---
 
 **Fujimaru 2:**
 Please go easy since it's New Year's.
  
+
 ---
  
 **--BATTLE--**
@@ -1213,15 +1294,18 @@ Until we meet again, Fujimaru! I'll see you in yet another spacey war someday!
 **Musashi:**
 Fujimaru, are all Servants like that? 
  
+
 ---
 
 **Fujimaru 1:**
 X is...special.
+
 ---
 
 **Fujimaru 2:**
 Just forget about her.
  
+
 ---
  
 **Musashi:**
@@ -1259,6 +1343,7 @@ Oh, and another thing, Master of Chaldea... Happy New Year!
 **Musashi:**
 Thanks to you, I can continue my journey! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -1273,6 +1358,7 @@ In the end, it was all about your potential!
 **Sukeroku:**
 ...I'm very interested in you as well, Shinmen Musashi. Why have you continued your wandering journeys? 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1284,6 +1370,7 @@ My journey's goal? Um, that's...
 **Sukeroku:**
 Yes. I would like to know as well. Shinmen Musashi, what do you seek? 
  
+
 ---
  
 **Musashi:**
@@ -1307,15 +1394,18 @@ So I want a sword that can exceed “one.” Before I die, I want to reach the T
 **Musashi:**
 There it is! I feel it! Fujimaru, there's a hole there! 
  
+
 ---
 
 **Fujimaru 1:**
 I can't see it, but I can tell.
+
 ---
 
 **Fujimaru 2:**
 We got here pretty anticlimactically.
  
+
 ---
  
 **Musashi:**
@@ -1333,15 +1423,18 @@ No, that will never happen. You will die here, Shinmen Musashi.
 **Sukeroku:**
 You said you wanted to go home, right? But that was never going to happen in the first place. 
  
+
 ---
 
 **Fujimaru 1:**
 ...!?
+
 ---
 
 **Fujimaru 2:**
 He's turning into... a Servant!?
  
+
 ---
  
 **Musashi:**
@@ -1401,11 +1494,13 @@ Sorry, Fujimaru, can you help me out?
 **Musashi:**
 I don't think I can slay him completely. But with you, I can let him move on to the next life. I know it's a pain, but&mdash; 
  
+
 ---
 
 **Fujimaru 1:**
 All right. It won't be for your sake...
  
+
 ---
  
 **Musashi:**
@@ -1506,15 +1601,18 @@ Like a flower blooming in the twilight, you will only scatter idly.
 **Musashi:**
 Begone to your next life. Someday, I will join you. 
  
+
 ---
 
 **Fujimaru 1:**
 ...
+
 ---
 
 **Fujimaru 2:**
 ...Musashi.
  
+
 ---
  
 **Musashi:**
@@ -1532,11 +1630,13 @@ Oh, if you do make it safely back, immortalize me in a journal or something.
 **Musashi:**
 Well, we were companions for a while. A really, really short while, though... 
  
+
 ---
 
 **Fujimaru 1:**
 I want you to remember, too.
  
+
 ---
  
 **Musashi:**
@@ -1551,11 +1651,13 @@ A once-a-year joyous and happy event&mdash; of course it was fun!
 **Musashi:**
 This was the first dream you had in the new year! 
  
+
 ---
 
 **Fujimaru 1:**
 Yeah. See you later, Musashi!
  
+
 ---
  
 **Fou:**
@@ -1576,15 +1678,18 @@ I can't wait to&mdash;Master?
 **Mash:**
 ...Um, is something wrong? It looks like you were crying... 
  
+
 ---
 
 **Fujimaru 1:**
 ...I don't know.
+
 ---
 
 **Fujimaru 2:**
 ...I think I had a strange dream...
  
+
 ---
  
 **Fou:**
@@ -1602,15 +1707,18 @@ It was sad, but there was also something good... That's the look you always have
 **Fou:**
 Fou. Fou! 
  
+
 ---
 
 **Fujimaru 1:**
 ...I see. Happy New Year, Mash.
+
 ---
 
 **Fujimaru 2:**
 Let's go see Da Vinci!
  
+
 ---
  
 **Mash:**

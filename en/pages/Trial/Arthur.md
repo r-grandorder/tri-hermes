@@ -47,6 +47,7 @@ I'm taking a chance. Whether it'll work out or not...
 **B：???:**
 ...Are you all right? You should stand back. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -55,6 +56,7 @@ I'm taking a chance. Whether it'll work out or not...
 **Knight:**
 Hah!!! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -66,9 +68,11 @@ Good. Right there's fine.
 **Knight:**
 Hmph! 
  
+
 ---
 
  
+
 ---
 
 **Fujimaru 1:**
@@ -86,6 +90,7 @@ Do you have some knowledge of swordplay? Or, I suppose you have been through mor
 **Knight:**
 Whoops, sorry. Looks like we don't have much time to chitchat. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -100,6 +105,7 @@ You're certainly no ordinary person. If you were, you'd have fainted when you st
 **Knight:**
 I'd love to talk to you more in detail... but I don't have the time. 
  
+
 ---
 
  
@@ -121,15 +127,18 @@ Well then, you must have some experience dealing with Mystics, which are so far 
 **Knight:**
 ...They're here. Sorry, I'm just short on time. So, would you give me your answer? 
  
+
 ---
 
 **Fujimaru 1:**
 Let's fight together.
+
 ---
 
 **Fujimaru 2:**
 I'd appreciate it if you'd let me!
  
+
 ---
 
  
@@ -150,11 +159,13 @@ You have the power to fight. I don't just mean the skills necessary to fight...
 **Knight:**
 You possess a sword. A sword that dwells within your heart, that is. 
  
+
 ---
 
 **Fujimaru 1:**
 ...
  
+
 ---
 
  
@@ -164,15 +175,18 @@ Hey. Did something happen?
 **Knight:**
 You look a little unfocused. Did you use too much of your magical energy? 
  
+
 ---
 
 **Fujimaru 1:**
 Um...
+
 ---
 
 **Fujimaru 2:**
 You look familiar.
  
+
 ---
 
  
@@ -191,6 +205,7 @@ Hey. You didn't come here alone, did you?
 **Knight:**
 You must have gotten separated from your group. Am I right? 
  
+
 ---
 
 **Fujimaru 1:**
@@ -199,6 +214,7 @@ Yes.
 **Knight:**
 I see. Okay, got it. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -207,6 +223,7 @@ Exactly!
 **Knight:**
 Haha. That's the spirit! 
  
+
 ---
 
  
@@ -227,6 +244,7 @@ And where the hell have YOU been!? Why'd you wander off like that!?
 **Mordred:**
 Don't think for one second you're gettin' off easy just 'cause you came back in one piece. Next time, don't you dare wander off without telling me! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -235,6 +253,7 @@ Sorry!
 **Mordred:**
 ...Ugh. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -243,6 +262,7 @@ I suddenly lost contact with Chaldea...
 **Mordred:**
 Oh yeah, Mash did mention something like that. 
  
+
 ---
 
  
@@ -279,15 +299,18 @@ Aw, c'mon. I can't believe he's managed to survive wandering around this place a
 **Mash:**
 His name was... 
  
+
 ---
 
 **Fujimaru 1:**
 Now that you mention it...
+
 ---
 
 **Fujimaru 2:**
 I didn't ask.
  
+
 ---
 
  
@@ -306,15 +329,18 @@ According to Senpai...he was a hooded man who looked like a knight?
 **Mordred:**
 Huh? A hooded knight? That means he's not from that Singularity, to say the least. 
  
+
 ---
 
 **Fujimaru 1:**
 He was like a knight, or maybe a swordsman...
+
 ---
 
 **Fujimaru 2:**
 He's like a knight in shining armor.
  
+
 ---
 
  
@@ -348,15 +374,18 @@ I see...
 **Mordred:**
 Master, what type of weapon did he use? 
  
+
 ---
 
 **Fujimaru 1:**
 A sword inlaid with gold and silver.
+
 ---
 
 **Fujimaru 2:**
 I couldn't see what it was at first...
  
+
 ---
 
  
@@ -405,15 +434,18 @@ Sorry I couldn't help. So... Yeah. Make sure to take me with you next time, okay
 **Arash:**
 You'll never get lost again with me around. I've got good eyes. 
  
+
 ---
 
 **Fujimaru 1:**
 I did get lost a bit...
+
 ---
 
 **Fujimaru 2:**
 But it was an accident!
  
+
 ---
 
  
@@ -438,15 +470,18 @@ I get it. I guess this is what you would call fate.
 **Arash:**
 I didn't think he was in the Throne of Heroes. No... He isn't... So? What's your take on it? 
  
+
 ---
 
 **Fujimaru 1:**
 Eh? Huh?
+
 ---
 
 **Fujimaru 2:**
 Arash, what are you talking about?
  
+
 ---
 
  
@@ -465,30 +500,36 @@ Well, I guess it's not entirely impossible. Yeah, yeah. Looks like I'll be able 
 **Arash:**
 Hahahaha. So he's still out there, somewhere, fighting! 
  
+
 ---
 
 **Fujimaru 1:**
 Explain!
+
 ---
 
 **Fujimaru 2:**
 What the heck!?
  
+
 ---
 
  
 **Arash:**
 Haha! Come on, don't say that! Ha... But yeah...so it was him... 
  
+
 ---
 
 **Fujimaru 1:**
 Arash!!!
+
 ---
 
 **Fujimaru 2:**
 (Stare at him silently)
  
+
 ---
 
  
@@ -729,26 +770,31 @@ No, before you answer that, you need to know that this land's atmosphere is pois
 **Knight:**
 Do you have a gas mask or a Mystic Code? If you don't, take one of my talismans. 
  
+
 ---
 
 **Fujimaru 1:**
 ...H-hello.
+
 ---
 
 **Fujimaru 2:**
 ...My head's spinning.
  
+
 ---
 
  
 **Knight:**
 ...! 
  
+
 ---
 
 **Fujimaru 1:**
 Where am I?
  
+
 ---
 
  
@@ -767,15 +813,18 @@ You're definitely full of surprises. But for the time being, as much as I'm glad
 **Knight:**
 Let me ask you this first: Are you hurt anywhere? 
  
+
 ---
 
 **Fujimaru 1:**
 I'm fine.
+
 ---
 
 **Fujimaru 2:**
 I don't think anything's broken.
  
+
 ---
 
  
@@ -791,15 +840,18 @@ There's not much here. Actually, there are really only dangerous things here.
 **Knight:**
 Do you make a habit of running headlong into danger? 
  
+
 ---
 
 **Fujimaru 1:**
 Rayshif&ndash;
+
 ---
 
 **Fujimaru 2:**
 U-uh... I mean, what was it again...?
  
+
 ---
 
  
@@ -818,15 +870,18 @@ But, yeah. If you're falling from the sky from out of nowhere...
 **Knight:**
 (Thinking back to what happened last time, could this child have gotten caught up in my warps?) 
  
+
 ---
 
 **Fujimaru 1:**
 Did you say something?
+
 ---
 
 **Fujimaru 2:**
 I think I heard something...
  
+
 ---
 
  
@@ -857,15 +912,18 @@ I'm a Heroic Spi&ndash;I am currently a Servant who possesses a Spirit Origin. U
 **Arthur:**
 The wielder of the Sacred Sword of the Planet, Excalibur. Yes, my Noble Phantasm. 
  
+
 ---
 
 **Fujimaru 1:**
 The sacred sword...?
+
 ---
 
 **Fujimaru 2:**
 King Arthur!?
  
+
 ---
 
  
@@ -899,15 +957,18 @@ Being a Master to one Servant is tough enough, but to be able to form contracts 
 **Arthur:**
 Truly, that is an achievement that goes beyond imagining. No ordinary person could save the world, after all. 
  
+
 ---
 
 **Fujimaru 1:**
 ...You think so?
+
 ---
 
 **Fujimaru 2:**
 Thank you, King Arthur.
  
+
 ---
 
  
@@ -926,15 +987,18 @@ Unless you...
 **Arthur:**
 He mentioned... So it was you. 
  
+
 ---
 
 **Fujimaru 1:**
 He?
+
 ---
 
 **Fujimaru 2:**
 Who are you talking about?
  
+
 ---
 
  
@@ -1029,11 +1093,13 @@ Someone who carries love and hope... Someone who keeps aiming for tomorrow, for 
 
 **--SECTION BREAK--**
 
+
 ---
 
 **Fujimaru 1:**
 Don't tell me that person is&mdash;
  
+
 ---
 
  
@@ -1061,15 +1127,18 @@ Because right after that conversation, I warped somewhere else. I have no contro
 **Arthur:**
 Nothing has changed. Regardless of what I want... 
  
+
 ---
 
 **Fujimaru 1:**
 Your situation sounds a lot like Musashi's...
+
 ---
 
 **Fujimaru 2:**
 Wait. Was the person you were talking about earlier
  
+
 ---
 
  
@@ -1103,15 +1172,18 @@ The one who fights to save the world. You, the one to whom that man entrusted ev
 **Arthur:**
 I want to engrave the sight of you into my memory once again! 
  
+
 ---
 
 **Fujimaru 1:**
 Got it.
+
 ---
 
 **Fujimaru 2:**
 And in exchange, you need to finish your story!
  
+
 ---
 
  
@@ -1138,15 +1210,18 @@ It wasn't the Beast I was looking for, but at the very least, its death should h
 **Arthur:**
 I'm not entirely clear on how all this works. But apparently this is what my journey entails. 
  
+
 ---
 
 **Fujimaru 1:**
 King Arthur, you promised.
+
 ---
 
 **Fujimaru 2:**
 Please continue your story.
  
+
 ---
 
  
@@ -1171,15 +1246,18 @@ Scanning... Okay, all done! Good, looks like nothing is wrong with your body!
 **Mash:**
 I will begin preparations to bring you back immediately! Please hold still, Senpai! 
  
+
 ---
 
 **Fujimaru 1:**
 Mash!
+
 ---
 
 **Fujimaru 2:**
 Communication is back up!?
  
+
 ---
 
  
@@ -1207,15 +1285,18 @@ Oh, and it's not Romani's fault either. It's my fault, since it's all under my j
 **Da Vinci:**
 Babbage was the one who found it after doing some calculations because he had nothing better to do. I guess you really can't give those analog folks flak. 
  
+
 ---
 
 **Fujimaru 1:**
 I see... I mean, wait a minute!
+
 ---
 
 **Fujimaru 2:**
 I'm in the middle of talking to King Arthur!
  
+
 ---
 
  
@@ -1228,11 +1309,13 @@ Um, do you mean Altria...?
 **Mash:**
 I'm only detecting you there. Is...another Servant with you? 
  
+
 ---
 
 **Fujimaru 1:**
 Eh?
  
+
 ---
 
  
@@ -1254,26 +1337,31 @@ I'm sure that's what it is.
 **Arthur:**
 ...Oh, or maybe it's because my warp has already started? 
  
+
 ---
 
 **Fujimaru 1:**
 Wait!
+
 ---
 
 **Fujimaru 2:**
 You were about to tell me a name...!
  
+
 ---
 
  
 **Arthur:**
 You should already know. It's the same name that the beautiful lady mentioned just now. 
  
+
 ---
 
 **Fujimaru 1:**
 So it was Romani Archaman...!
  
+
 ---
 
  

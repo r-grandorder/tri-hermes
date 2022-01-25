@@ -19,15 +19,18 @@ Black Knight...
 **A：???:**
 Yeah. You. Servant AUX Voloid K6-X4. 
  
+
 ---
 
 **Fujimaru 1:**
 (Eh...are you talking to me?)
 
+
 ---
 
 **Fujimaru 2:**
 (...I can't speak.)
+
 
 ---
  
@@ -46,6 +49,7 @@ There may be a time when I'll have to rely on you during battle. Maybe.
 **A：???:**
 Yeah, but...I guess I don't really have room to talk about spacing out. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -60,6 +64,7 @@ You want a dumpling? I just ate it. That dumpling.
 **A：???:**
 But, you know&mdash; 
  
+
 ---
 
 **Fujimaru 2:**
@@ -71,6 +76,7 @@ But, you know&mdash;
 **A：???:**
 I'd like some, too. But&mdash; 
  
+
 ---
  
 **A：???:**
@@ -85,14 +91,17 @@ It's unfortunate, but it looks like we're going to be apart from each other for 
 **A：???:**
 Is it this...circuit here... Or this one...? 
  
+
 ---
 
 **Fujimaru 1:**
 (Stop, you're tickling me.)
+
 ---
 
 **Fujimaru 2:**
 (This nonsensical way of talking... Berserker?)
+
 ---
  
 **A：???:**
@@ -254,10 +263,12 @@ Lord Agravain...! May you have good fortune in battle!
 **X Alter:**
 (Pant...pant...) Black Knight, are you there!? 
  
+
 ---
 
 **Fujimaru 1:**
 (I don't know what's going on.)
+
 ---
  
 **X Alter:**
@@ -275,6 +286,7 @@ Ah...I can't believe they've managed to invade our secret base!
 **X Alter:**
 We need to break through! At any cost! Black Knight, I need your help! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -286,6 +298,7 @@ What a cute response. It's like you're not Black Knight.
 **X Alter:**
 Target the memory banks! No records shall be left! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -300,6 +313,7 @@ Just because one's an enemy, that doesn't necessarily mean they're a bad guy. Ju
 **X Alter:**
 But what's important right now is that we need to fight or else it's game over. Let's go! 
  
+
 ---
  
 **--BATTLE--**
@@ -310,14 +324,17 @@ But what's important right now is that we need to fight or else it's game over. 
 **X Alter:**
 Check the sensors to see if anyone is following us, Black Knight. 
  
+
 ---
 
 **Fujimaru 1:**
 (I don't know how to drive a spaceship...)
+
 ---
 
 **Fujimaru 2:**
 (Huh... I'm going in and out of consciousness...)
+
 ---
  
 **X Alter:**
@@ -559,20 +576,25 @@ I want to eat more sweet things!
  
 **--BATTLE--**
  
+
 ---
 
 **Fujimaru 1:**
 (...Hm? Where am I?)
+
 ---
 
 **Fujimaru 2:**
 (This...isn't Chaldea.)
+
 ---
  
+
 ---
 
 **Fujimaru 1:**
 (I...I'm in this Voloid body again!?)
+
 ---
  
 **X:**
@@ -596,14 +618,17 @@ Why is there a weird black bucket in my room?
 **X:**
 What are you, a Voloid? Are you an invention of Professor Babbagen? You are! 
  
+
 ---
 
 **Fujimaru 1:**
 (No! Ouch!)
+
 ---
 
 **Fujimaru 2:**
 (X, it's me!)
+
 ---
  
 **X:**
@@ -663,14 +688,17 @@ There will be the two of us here from now on, so I ask you to be quieter, please
 **X:**
 What the... Are you taking over the room already!? Instead of waiting for you to sleep, maybe I'll slice you up right now! 
  
+
 ---
 
 **Fujimaru 1:**
 (Um, no fighting, please.)
+
 ---
 
 **Fujimaru 2:**
 (She already has her sword out!)
+
 ---
  
 **Ex:**
@@ -682,14 +710,17 @@ Are you calling my sword moves “weak beams”? Tsk. I didn't realize you were 
 **X:**
 Hmph, as a science buff, I don't think you and I could get along. I suggest you move to another room&mdash; 
  
+
 ---
 
 **Fujimaru 1:**
 (X is more versed in physical sports.)
+
 ---
 
 **Fujimaru 2:**
 (Haha, science buff... Good one.)
+
 ---
  
 **X:**
@@ -732,10 +763,12 @@ Stop your fighting! If you don't, I'll put you both in swimsuits, strap you to m
 **Girls' Dorm Supervisor:**
 ...Hey, I kicked something. 
  
+
 ---
 
 **Fujimaru 1:**
 (Waaahhh, I'm rolling! Stop me! Stop me!)
+
 ---
  
 **X:**
@@ -803,14 +836,17 @@ I'm...just worried about all the “use by” dates on her food in the fridge.
 **Ex:**
 What should we do...Black Knight...? 
  
+
 ---
 
 **Fujimaru 1:**
 (Oh no, not this mind-only warp again!)
+
 ---
 
 **Fujimaru 2:**
 (She seems sad...?)
+
 ---
  
 **Ex:**
@@ -898,6 +934,7 @@ I knew that this day, would come. I didn't think X would be first. But.
 **Ex:**
 But...there is still something I need to do. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -912,6 +949,7 @@ I secretly collected parts bit by bit, so you've powered up quite a bit.
 **Ex:**
 If you can help me again...that would be great. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -926,6 +964,7 @@ Maybe there's still some weird programming left. I'm going to change, so go out 
 **Ex:**
 Come on, hurry. 
  
+
 ---
  
 **Babbagen:**
@@ -1203,14 +1242,17 @@ See you. Whoever it is, from a Servant Universe far, far away...
 **X Alter:**
 May the Alternium be with you, always... 
  
+
 ---
 
 **Fujimaru 1:**
 ...Whoa! Chaldea!?
+
 ---
 
 **Fujimaru 2:**
 Did I fall asleep?
+
 ---
  
 **X:**
@@ -1237,6 +1279,7 @@ Um... It's so that Senpai will remain healthy...
 **X:**
 Let's just keep it that way. This mikan is delicious! This iyokan citrus is sour! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -1248,6 +1291,7 @@ What? Is there something on my face? (Sigh) Fine. Then have a good look at it.
 **Mash:**
 H-hey! Please! Both of you! Your faces are too close! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1262,6 +1306,7 @@ Well, they were on sale at the school's store, so I bought them all up.
 **Mash:**
 What are you talking about? 
  
+
 ---
  
 **Mash:**
@@ -1303,10 +1348,12 @@ I-is that so? Anyway, it looks like you are still going to be talking.
 **Mash:**
 We have run out of both mikan and tea, so I shall go get some more. 
  
+
 ---
 
 **Fujimaru 1:**
 Thanks, Mash. What would you like, X?
+
 ---
  
 **X:**

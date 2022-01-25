@@ -80,10 +80,12 @@ Mo...mo...mo...mochi! Get your mochi!
 **E：Voice of a Peddler:**
 Get your fans here! Folding fans are a must to celebrate the New Year! 
  
+
 ---
 
 **Fujimaru 1:**
 ...
+
 ---
  
 **D：Voice of a Peddler:**
@@ -95,14 +97,17 @@ Right here! I'll take a cup!
 **D：Voice of a Peddler:**
 Hey there, thanks for your purchase! And a Happy New Year, missy! 
  
+
 ---
 
 **Fujimaru 1:**
 I can hear the hustle and bustle of a city...
+
 ---
 
 **Fujimaru 2:**
 Amazake...New Year's... Which means...
+
 ---
  
 **C：???:**
@@ -111,14 +116,17 @@ Oh. You're awake? Master...Master!?
 **C：???:**
 If you sleep in the middle of the street, you'll like, literally get hit by a cart and die, you know? 
  
+
 ---
 
 **Fujimaru 1:**
 Suzuka...Gozen...?
+
 ---
 
 **Fujimaru 2:**
 My first dream of the year's amazing, as usual!
+
 ---
  
 **Suzuka Gozen:**
@@ -127,6 +135,7 @@ Sup, Master☆ Like, Happy New Year.
 **Suzuka Gozen:**
 Here you go. A hot cup of amazake. It tastes pretty good, and you know, it'll totes warm you up. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -138,6 +147,7 @@ HNY! We're gonna slay this year!
 **Suzuka Gozen:**
 Now that the New Year's greeting's done, it's time for the year's first selfie☆ 
  
+
 ---
 
 **Fujimaru 2:**
@@ -146,6 +156,7 @@ Um...where are we...?
 **Suzuka Gozen:**
 Don't you get it? We're on, like, a big crowded street. 
  
+
 ---
  
 **Suzuka Gozen:**
@@ -169,6 +180,7 @@ There are playhouses, sit-down teahouses, food carts and peddlers, and even frea
 **Suzuka Gozen:**
 But aren't we totally in the Edo period? I can't even. Master, did you like, just time travel? 
  
+
 ---
 
 **Fujimaru 1:**
@@ -177,11 +189,13 @@ The Edo period!?
 **Suzuka Gozen:**
 Did you think you were dreaming? 
  
+
 ---
 
 **Fujimaru 2:**
 This isn't my first dream of the year!?
  
+
 ---
  
 **Suzuka Gozen:**
@@ -193,14 +207,17 @@ But no matter how you look at it, you can't change what's happening IRL. Think a
 **Suzuka Gozen:**
 So, tell me...how much do you remember before you lost consciousness, Master? 
  
+
 ---
 
 **Fujimaru 1:**
 Um, let's see...
+
 ---
 
 **Fujimaru 2:**
 If I think back...
+
 ---
  
 **Suzuka Gozen:**
@@ -239,14 +256,17 @@ A golden, honey flavored drink!!! I say that's the cause of this whole mess!
 **Suzuka Gozen:**
 My senses are totally telling me that! It may have been honey flavored, but it was TOO sparkly! 
  
+
 ---
 
 **Fujimaru 1:**
 I was told it would bring good luck for the New Year, so I had a sip...
+
 ---
 
 **Fujimaru 2:**
 I don't remember anything after I took a drink...
+
 ---
  
 **Suzuka Gozen:**
@@ -258,6 +278,7 @@ So let's rewind. Our current galaxy brain for this place is...
 **Suzuka Gozen:**
 A Reality Marble, virtual reality on a Spiritron level, a parallel world that went off the rails from the timeline...or, to go totally cray cray...a collab dream? 
  
+
 ---
 
 **Fujimaru 1:**
@@ -266,6 +287,7 @@ Do you really think this is reality?
 **Suzuka Gozen:**
 I'm getting that you really want this to be your first dream of the year or something. Guess I can let you have that much. Not like I've got another explanation. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -277,6 +299,7 @@ Are you talking about Musashi?
 **Suzuka Gozen:**
 I heard the deets, and I think it was more like you were in a different world that made you THINK it was a dream. But whatevs. 
  
+
 ---
  
 **Suzuka Gozen:**
@@ -300,6 +323,7 @@ And if this is all a dream, there's nothing to worry about, and by the time that
 **Suzuka Gozen:**
 So if that's the case, I wouldn't mind hooking up for a mini-New Year's date with you, Master. Teehee. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -308,6 +332,7 @@ A date's not such a bad idea.
 **Suzuka Gozen:**
 Right!? Nothing beats going out! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -316,6 +341,7 @@ Do you really think we can get back to Chaldea?
 **Suzuka Gozen:**
 We'll be fine! After all, you got me here with you, right? 
  
+
 ---
  
 **Suzuka Gozen:**
@@ -345,6 +371,7 @@ Katsushika...Hokusai!? I swear I've heard that name before...
 **Suzuka Gozen:**
 Do you know the name, Master? 
  
+
 ---
 
 **Fujimaru 1:**
@@ -353,6 +380,7 @@ Katsushika Hokusai...totes famous.
 **Suzuka Gozen:**
 For real!? Then we should go check it out too! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -364,6 +392,7 @@ Ooh, a celebrity! Did you secretly wanna go to art school or something? Not many
 **Suzuka Gozen:**
 So I think the whatsit temple that guy mentioned is near by. Wanna go check it out? 
  
+
 ---
  
 **:**
@@ -373,14 +402,17 @@ So I think the whatsit temple that guy mentioned is near by. Wanna go check it o
 **???:**
 ... 
  
+
 ---
 
 **Fujimaru 1:**
 A young girl with a giant brush...
+
 ---
 
 **Fujimaru 2:**
 She's writing something on the ground...
+
 ---
  
 **Suzuka Gozen:**
@@ -392,6 +424,7 @@ Okay, that brush is STUPIDLY big! And that paper she's writing on could cover th
 **Suzuka Gozen:**
 That young girl is the painter? Is SHE Hokusai!? 
  
+
 ---
 
 **Fujimaru 1:**
@@ -403,6 +436,7 @@ Uh, considering the people you got on speed dial, that means literally nothing, 
 **Suzuka Gozen:**
 Still, the townspeople seem a little confused too. Maybe it isn't actually Hokusai after all? 
  
+
 ---
 
 **Fujimaru 2:**
@@ -414,6 +448,7 @@ Hey Master! I thought we came to see a painting!?
 **Suzuka Gozen:**
 If your mood right now is a high school girl who looks killer in a kimono, then, uh, I'm right here. 
  
+
 ---
  
 **Townspeople A:**
@@ -434,14 +469,17 @@ I hear she's quite the artist herself. Can't remember her pseudonym, though...
 **Townspeople A:**
 Heh. Don't act like a know-it-all. You don't know any more than I do. 
  
+
 ---
 
 **Fujimaru 1:**
 That's not...the real Katsushika Hokusai?
+
 ---
 
 **Fujimaru 2:**
 It's his daughter...?
+
 ---
  
 **A：Hokusai's Daughter:**
@@ -459,14 +497,17 @@ Ah... It's Hotei-son! A manifestation of the Maitreya Buddha!
 **Suzuka Gozen:**
 Huh. Not bad. 
  
+
 ---
 
 **Fujimaru 1:**
 A picture of Hotei? Oh, I see it now...
+
 ---
 
 **Fujimaru 2:**
 I couldn't tell while she was painting it.
+
 ---
  
 **A：Hokusai's Daughter:**
@@ -496,10 +537,12 @@ And for the kiddos, a painted board game where they can take a tour around Enosh
 **F：Publisher:**
 We even have Treasure Ship ukiyo-e that you put under your pillow! A necessity for your New Year's dream! 
  
+
 ---
 
 **Fujimaru 1:**
 (Maybe this really is my New Year's dream...)
+
 ---
  
 **A：Hokusai's Daughter:**
@@ -550,6 +593,7 @@ Oh, pardon me. Don't take my words too personally. Just a bit of festive teasing
 **A：Hokusai's Daughter:**
 There's always a buncha weird guys walkin' around here, it being the freak show neighborhood and all. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -561,6 +605,7 @@ Ahaha! Nope, nope. I'm just a measly assistant.
 **A：Hokusai's Daughter:**
 Katsushika Hokusai is my Toto-sama. Ya know, my father. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -572,6 +617,7 @@ What's wrong? What you starin' at?
 **A：Hokusai's Daughter:**
 You lookin' for Hokusai? Sorry, but he's not here. 
  
+
 ---
  
 **Suzuka Gozen:**
@@ -610,14 +656,17 @@ Katsushika Hokusai! Is Katsushika Hokusai the painter around!?
 **Suzuka Gozen:**
 ...! 
  
+
 ---
 
 **Fujimaru 1:**
 They look like they could be the police...!
+
 ---
 
 **Fujimaru 2:**
 (I'll just say that this is all in my imagination...)
+
 ---
  
 **Townspeople A:**
@@ -644,10 +693,12 @@ Under...arrest...
 **Oei:**
 ...Ungh... 
  
+
 ---
 
 **Fujimaru 1:**
 It's finally looking like a dream.
+
 ---
  
 **Suzuka Gozen:**
@@ -659,14 +710,17 @@ But Oei and the others didn't do anything bad.
 **Suzuka Gozen:**
 Hokusai himself coming out and explaining himself would be the real move, but... 
  
+
 ---
 
 **Fujimaru 1:**
 ...Where's Katsushika Hokusai?
+
 ---
 
 **Fujimaru 2:**
 (I really want to know what that creature is...)
+
 ---
  
 **Publisher “Nishimuraya”:**
@@ -738,10 +792,12 @@ What a spirited young lady. Hokusai sure has quite the disciple.
 **Publisher “Nishimuraya”:**
 O-Oei...please calm down. 
  
+
 ---
 
 **Fujimaru 1:**
 Oei's charging in...!
+
 ---
  
 **Suzuka Gozen:**
@@ -753,6 +809,7 @@ I mean, that Oei girl... She said I was pretty and everything...
 **Suzuka Gozen:**
 I can't just, like, left swipe this whole situation. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -767,6 +824,7 @@ Got it! Peaceful, right!?
 **Suzuka Gozen:**
 Those police who came to make arrests don't seem to be all bad either, TBH... 
  
+
 ---
 
 **Fujimaru 2:**
@@ -781,6 +839,7 @@ Though really, I like it when things get flashy!
 **Suzuka Gozen:**
 All right then, Master. Count on me! 
  
+
 ---
  
 **Oei:**
@@ -881,6 +940,7 @@ Oh? A dream? This whole city?
 **Oei:**
 Ahaha! That's so ridiculous, Fujimaru! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -889,6 +949,7 @@ I'm actually serious...
 **Suzuka Gozen:**
 Literally! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -900,6 +961,7 @@ Well, you know...you SAY it's a dream, but battle totes hurts. And...if I do thi
 **Suzuka Gozen:**
 Well, if you think about it, this is probably more than your everyday dream, Master. It's probably, like, some kinda vision or something. 
  
+
 ---
  
 **Oei:**
@@ -935,10 +997,12 @@ Nishimuraya, I won't let you get forced out of business like Tsutajuu.
 **Oei:**
 But...where in the world has my Toto-sama gone wanderin' off to? 
  
+
 ---
 
 **Fujimaru 1:**
 Is there a problem?
+
 ---
  
 **Suzuka Gozen:**
@@ -968,10 +1032,12 @@ If he tripped and fell into the Sumida River, it'll be a few more days before he
 **Suzuka Gozen:**
 Oh great, now I've got an image of a drowned body stuck in my head! Don't say that kinda stuff! Bad luck and such! 
  
+
 ---
 
 **Fujimaru 1:**
 Speaking of floating...what is that creature next to you...?
+
 ---
  
 **Oei:**
@@ -983,10 +1049,12 @@ It's...an octopus, duh.
 **Oei:**
 It ain't unusual for things to be floatin' during New Year's. I guess it'd usually be a kite though, yeah... 
  
+
 ---
 
 **Fujimaru 1:**
 Y-you think so...?
+
 ---
  
 **Suzuka Gozen:**
@@ -1031,10 +1099,12 @@ And there's also one more incredibly important job left.
 **G：Oei:**
 We definitely need Toto-sama for this one. 
  
+
 ---
 
 **Fujimaru 1:**
 An important job...?
+
 ---
  
 **:**
@@ -1155,14 +1225,17 @@ It's supposed to be an auspicious painting fit for New Year's. We were tasked to
 **Oei:**
 Toto-sama may not be here, but we have no choice. I'll at least prepare the tools and references. 
  
+
 ---
 
 **Fujimaru 1:**
 This is so messy...
+
 ---
 
 **Fujimaru 2:**
 “Make yourself at home,” she says, but there's no room...
+
 ---
  
 **Suzuka Gozen:**
@@ -1180,14 +1253,17 @@ We haven't cleaned this place since we moved in!
 **Oei:**
 And I've never cooked in my life, if I may add. 
  
+
 ---
 
 **Fujimaru 1:**
 What!? Hm...? O-ouch!
+
 ---
 
 **Fujimaru 2:**
 I stepped on something... Oh, it's a little wooden sculpture.
+
 ---
  
 **Oei:**
@@ -1217,10 +1293,12 @@ You guys just sit there and eat some of that bean paste mochi! I got it as a pre
 **Suzuka Gozen:**
 Bean paste mochi? Or...uh, is that matcha&ndash;eek! OH GROSS! It's just MOLDY! 
  
+
 ---
 
 **Fujimaru 1:**
 Where are you going?
+
 ---
  
 **Oei:**
@@ -1235,14 +1313,17 @@ I'm not sure if it's true or not, but Toto-sama said he narrowly escaped death w
 **Oei:**
 And since that happened, the work has been pouring in. 
  
+
 ---
 
 **Fujimaru 1:**
 I see... I'll help you look for him.
+
 ---
 
 **Fujimaru 2:**
 Jikken Bridge is where you can get the best photos of Tokyo Skytree.
+
 ---
  
 **E：???:**
@@ -1266,14 +1347,17 @@ Old Meowster! We found her!
 **D：???:**
 Come on, Old Meowster! This is no time to get seconds on dumplings! 
  
+
 ---
 
 **Fujimaru 1:**
 Old Meowster...?
+
 ---
 
 **Fujimaru 2:**
 What kind of Mito Jaguar-mon is this?
+
 ---
  
 **Old Meowster:**
@@ -1336,14 +1420,17 @@ Ab-purr-lutely!
 **Oei:**
 ...Give it to me. I'll take a look. 
  
+
 ---
 
 **Fujimaru 1:**
 It's a scroll of a beautiful woman...
+
 ---
 
 **Fujimaru 2:**
 Whether it's a fake or not, there's something off about all this.
+
 ---
  
 **Suzuka Gozen:**
@@ -1352,14 +1439,17 @@ Thicc and sexy bare legs are a no-no? The Edo period sure is the worst.
 **Suzuka Gozen:**
 Do you think I should change my style? Hmmm? 
  
+
 ---
 
 **Fujimaru 1:**
 Wait...is this not...
+
 ---
 
 **Fujimaru 2:**
 ...Are Suzuka and I not the ones dreaming here?
+
 ---
  
 **Suzuka Gozen:**
@@ -1458,6 +1548,7 @@ No matter what people say, this is my way of living!
 **Suzuka Gozen:**
 A p-purge!? That's...! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -1468,6 +1559,7 @@ Master, you feel it too!? Does that mean Oei's...
 **Suzuka Gozen:**
 This dream realm is...hers...? 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1479,6 +1571,7 @@ THAT'S what you're focusing on!?
 **Suzuka Gozen:**
 You know what, I curse you! I hope you get a New Year's dumpling stuck in your throat and sent to THAT nurse's armory&ndash;I mean, infirmary! 
  
+
 ---
  
 **Suzuka Gozen:**
@@ -1490,6 +1583,7 @@ If Oei's an unknown Servant...
 **G：Suzuka Gozen:**
 I'm going to up my INT too! Okay, Master!? 
  
+
 ---
 
 **Fujimaru 1:**
@@ -1498,6 +1592,7 @@ I'm counting on you, Suzuka!
 **G：Suzuka Gozen:**
 Got it! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1506,6 +1601,7 @@ That style is pretty lit too, Suzuka!
 **G：Suzuka Gozen:**
 U-uh, Master... Okay! Now you're speaking my language! 
  
+
 ---
  
 **G：Suzuka Gozen:**
@@ -1567,10 +1663,12 @@ That's enough!
 **Miss Kakuloe:**
 Looks like your Mana Burst settled down. We somehow managed to hold her back... 
  
+
 ---
 
 **Fujimaru 1:**
 Suzuka Gozen! Tend to Oei!
+
 ---
  
 **Suzuka Gozen:**
@@ -1591,10 +1689,12 @@ U-um, if I'm not overstepping my boundaries, I would like to help!
 **Suzuka Gozen:**
 OMG, thanks! 
  
+
 ---
 
 **Fujimaru 1:**
 ...Are you okay, Oei?
+
 ---
  
 **Oei:**
@@ -1663,14 +1763,17 @@ I have at least the right to ask for that!
 **Oei:**
 B-but... MY name...? 
  
+
 ---
 
 **Fujimaru 1:**
 The customer always gets what they want, right?
+
 ---
 
 **Fujimaru 2:**
 (The octopus has been nodding its head the whole time...)
+
 ---
  
 **Oei:**
@@ -1691,10 +1794,12 @@ Okay, Miss Kaku! Ink! Get the ink and brush ready!
 **Miss Kakuloe:**
 Sure, sure. 
  
+
 ---
 
 **Fujimaru 1:**
 By the way, about that suspicious art dealer selling ukiyo-e...?
+
 ---
  
 **Miss Illysuke:**
@@ -1813,14 +1918,17 @@ At worst, he could have us executed, our assets seized, and our family line ende
 **Suzuka Gozen:**
 Seppuku!? That, like, kills you! 
  
+
 ---
 
 **Fujimaru 1:**
 That's what happens when you crossthe highest authority in the land...
+
 ---
 
 **Fujimaru 2:**
 Didn't that the, uh, Old Meowster call herselfa vice shogun or something...?
+
 ---
  
 **Suzuka Gozen:**
@@ -1859,10 +1967,12 @@ Suzuka...are you THE Suzuka Gozen!? The beautiful thief of Mt. Suzuka...!?
 **Suzuka Gozen:**
 Hm? I am. I didn't mention that? 
  
+
 ---
 
 **Fujimaru 1:**
 Do you know about Suzuka Gozen, Oei?
+
 ---
  
 **Oei:**
@@ -1895,6 +2005,7 @@ I see, I didn't realize you were actually Suzuka Gozen. I'm impressed.
 **Oei:**
 If that's the case...Fujimaru? That just means you must be some sort of famous {(M) sage/(F) fairy}. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -1903,6 +2014,7 @@ I'm just a plain ol' person.
 **Suzuka Gozen:**
 Master's not really a {(M) sage/(F) fairy}; {(M) he's/(F) she's} a mage. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -1911,6 +2023,7 @@ I'm Tamuramaro.
 **Suzuka Gozen:**
 Master? You shouldn't use that name so casually around me. 
  
+
 ---
  
 **Oei:**
@@ -1940,10 +2053,12 @@ Don't you think so, Suzuka Gozen? Welcome back to the world of the living.
 **Suzuka Gozen:**
 ... 
  
+
 ---
 
 **Fujimaru 1:**
 If it turned out this was all a dream, would you still paint, Oei?
+
 ---
  
 **Oei:**
@@ -1967,10 +2082,12 @@ Oei...you're...
 **Suzuka Gozen:**
 (Master, I need to talk to you.) 
  
+
 ---
 
 **Fujimaru 1:**
 (Suzuka Gozen...?)
+
 ---
  
 **Oei:**
@@ -1982,14 +2099,17 @@ Come on, we're almost there. Hosshou Temple's right over that hill!
 **Oei:**
 If you're going to dawdle, I'm going ahead of you. 
  
+
 ---
 
 **Fujimaru 1:**
 Oei went in the temple...
+
 ---
 
 **Fujimaru 2:**
 So, Suzuka Gozen. What did you want to talk about?
+
 ---
  
 **Suzuka Gozen:**
@@ -2001,6 +2121,7 @@ Master. Don't you think this is all weird AF? Like, something might happen...
 **Suzuka Gozen:**
 And it's getting stronger. When she went into that half-naked courtesan mode... That was just the beginning. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -2009,6 +2130,7 @@ A divine presence? Are you saying she's starting to gain Divinity?
 **Suzuka Gozen:**
 I'm not talking about logic here. My Divine Power is telling me so. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -2017,6 +2139,7 @@ So we're in Oei's dream?
 **Suzuka Gozen:**
 I can't say for sure, but that's probs the correct assessment. 
  
+
 ---
  
 **Suzuka Gozen:**
@@ -2049,14 +2172,17 @@ Or, even worse...we may not be able to return at all...
 **Suzuka Gozen:**
 Yeah...I have nothing but bad vibes about this... 
  
+
 ---
 
 **Fujimaru 1:**
 Really? Do you really think so?
+
 ---
 
 **Fujimaru 2:**
 I do see that Hokusai was a godly painter, but...
+
 ---
  
 **Suzuka Gozen:**
@@ -2065,6 +2191,7 @@ Hey, I don't want to flame Oei either...
 **Suzuka Gozen:**
 ...but my job is to warn you, right? 
  
+
 ---
 
 **Fujimaru 1:**
@@ -2079,6 +2206,7 @@ That's how I roll! And getting advice from a high school girl's gonna cost you!
 **Suzuka Gozen:**
 When we get back to Chaldea, I'm gonna make a special New Year's request that'll be big enough to cover whatever work I do here! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -2093,15 +2221,18 @@ Riiight!? This is totally helpful and literal Clairvoyance on my part!
 **Suzuka Gozen:**
 Don't make me...draw my sword on one of my own... 
  
+
 ---
  
 **Suzuka Gozen:**
 Okay! We need to catch up to Oei! Hm? Something on your mind, Master? 
  
+
 ---
 
 **Fujimaru 1:**
 Do you think we're in Katsushika Hokusai's dream?
+
 ---
  
 **Suzuka Gozen:**
@@ -2123,10 +2254,12 @@ So what do you think Hokusai wants to do? Is he afraid that something's gonna br
 **Suzuka Gozen:**
 So, here we are at Hosshou Temple. Where did Oei go? 
  
+
 ---
 
 **Fujimaru 1:**
 Do you think she found Toto-sama?
+
 ---
  
 **Suzuka Gozen:**
@@ -2144,6 +2277,7 @@ Why're you here!? You're totally ruining the vibes around here!
 **Suzuka Gozen:**
 A-and my high school girl energy is just low because the sitch is so realtalk! I'm in an adaptive mode! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -2164,6 +2298,7 @@ If Senpai's memory is all mushy like that, then I'm just going to change your th
 **BB:**
 It's BB-chan☆ Don't forget the “-chan” at the end. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -2172,6 +2307,7 @@ It's BB-chan☆ Don't forget the “-chan” at the end.
 **BB:**
 Yes! Your omnipotent kouhai, the Great Devil BB-chan☆ That's me! 
  
+
 ---
  
 **BB:**
@@ -2201,14 +2337,17 @@ I have no idea what these guys are talking about, especially this “bee-bee” 
 **Oei:**
 When I mentioned that I was looking for Toto-sama, they suddenly got really angry and started saying that they won't let me get away with this. Whatever “this” is. 
  
+
 ---
 
 **Fujimaru 1:**
 Why are you getting in our way?
+
 ---
 
 **Fujimaru 2:**
 Who's BB with...?
+
 ---
  
 **BB:**
@@ -2226,10 +2365,12 @@ It's BB-chan! And don't boss me around!
 **D：Playboy:**
 I have business with that individual. 
  
+
 ---
 
 **Fujimaru 1:**
 Gilgamesh!?
+
 ---
  
 **Mister Gold, the Playboy:**
@@ -2283,10 +2424,12 @@ Or at the least, you will stay here, with me, until tomorrow.
 **Oei:**
 ...!? 
  
+
 ---
 
 **Fujimaru 1:**
 Gil...I mean, Mr. Gold? What do you mean?
+
 ---
  
 **Suzuka Gozen:**
@@ -2319,10 +2462,12 @@ Their intent and purpose was likely to undermine the currently missing painter, 
 **Suzuka Gozen:**
 That's not surprising. 
  
+
 ---
 
 **Fujimaru 1:**
 Is Mr. Gold here because he's searching for Hokusai too?
+
 ---
  
 **Mister Gold, the Playboy:**
@@ -2391,10 +2536,12 @@ What are you talking about? You are a pretender to the position of kouhai! You a
 **Mister Gold, the Playboy:**
 No, enough bickering. Fujimaru. Leave the rest to me. 
  
+
 ---
 
 **Fujimaru 1:**
 ...!?
+
 ---
  
 **Bodyguard Omoe:**
@@ -2409,14 +2556,17 @@ Even Oei...
 **Oei:**
 ... 
  
+
 ---
 
 **Fujimaru 1:**
 Go back to...Chaldea...?
+
 ---
 
 **Fujimaru 2:**
 Mr. Gold, just how much do you know...?
+
 ---
  
 **Mister Gold, the Playboy:**
@@ -2446,10 +2596,12 @@ Just as Divinity fills the body of a saint for an instant to manifest a miracle.
 **Mister Gold, the Playboy:**
 This...entity could be described as an evil god, crawling out of the Abyss. A stain upon the world almost as terrible as BB here. 
  
+
 ---
 
 **Fujimaru 1:**
 An evil god from the Abyss...!?
+
 ---
  
 **Oei:**
@@ -2485,10 +2637,12 @@ A candle's wick, for instance, is within the flames, but it continues to glow an
 **BB:**
 Isn't it human nature to try to push oneself beyond logic? 
  
+
 ---
 
 **Fujimaru 1:**
 (...Human...?)
+
 ---
  
 **BB:**
@@ -2548,6 +2702,7 @@ Any dude bro Gil who says things like that is definitely not a Servant of Master
 **Suzuka Gozen:**
 HE'S the evil god's underling! Definitely! 
  
+
 ---
 
 **Fujimaru 1:**
@@ -2559,6 +2714,7 @@ Exactly! I don't wanna hear any sob stories! And even your theory's true...
 **Suzuka Gozen:**
 As a Heroic Spirit representing this nation, I will not allow the threat of breaking Hokusai's arm to stand! 
  
+
 ---
 
 **Fujimaru 2:**
@@ -2567,6 +2723,7 @@ I want to see what happens after this dream.
 **Oei:**
 ...!!! After...Toto-sama's...dream... 
  
+
 ---
  
 **Oei:**
@@ -2613,10 +2770,12 @@ Fu...
 **Mr. Gold, the Playboy:**
 Fuhahahahahahahahahahahaha!!! 
  
+
 ---
 
 **Fujimaru 1:**
 !?
+
 ---
  
 **Mr. Gold, the Playboy:**
@@ -2646,10 +2805,12 @@ So show me. Which will come first? Will humanity crumble away, or will your sing
 **Mr. Gold, the Playboy:**
 I watch in anticipation! 
  
+
 ---
 
 **Fujimaru 1:**
 Are we really in THAT dire of a situation!?
+
 ---
  
 **Mr. Gold, the Playboy:**
@@ -2694,6 +2855,7 @@ It will be all right. Leave the rest of the arrangements to us.
 **Bodyguard Omoe:**
 And that's why we would like you to continue protecting Oei, {(M) Lord/(F) Lady} Fujimaru. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -2702,6 +2864,7 @@ And that's why we would like you to continue protecting Oei, {(M) Lord/(F) Lady}
 **Bodyguard Omoe:**
 What a dignified response. I like it. 
  
+
 ---
 
 **Fujimaru 2:**
@@ -2710,6 +2873,7 @@ What about finding Master Hokusai?
 **BB:**
 If that self-proclaimed (?) Wise King has given up on it, then I suggest you follow suit. 
  
+
 ---
  
 **BB:**
@@ -2745,6 +2909,7 @@ Be prepared, mongrel. If you really want to understand Katsushika Hokusai's abys
 **Mr. Gold, the Playboy:**
 Always be mindful of where the stars align. Know that, should you make a mistake, Edo will not be all that sinks. 
  
+
 ---
 
 **Fujimaru 1:**
@@ -2759,6 +2924,7 @@ I only did what a protector of a city is supposed to do. But you know what...Edo
 **Mr. Gold, the Playboy:**
 Is it made of wood because of the weather? Or is it built with the belief that it is going to be rebuilt soon? Well, I suppose its only weakness would be against fire... 
  
+
 ---
 
 **Fujimaru 2:**
@@ -2773,6 +2939,7 @@ Then do as you please.
 **Mr. Gold, the Playboy:**
 Being wise and intelligent are two separate things. There are foolish wise men out there somewhere. 
  
+
 ---
  
 **Bodyguard Omoe:**
@@ -2819,14 +2986,17 @@ Yaawwwn...
 **Suzuka Gozen:**
 Master's yawn was contagious. 
  
+
 ---
 
 **Fujimaru 1:**
 I didn't think I'd be sleepy in a dream...
+
 ---
 
 **Fujimaru 2:**
 I ate too much mochi soup...
+
 ---
  
 **Suzuka Gozen:**
@@ -2850,10 +3020,12 @@ She's a bona fide businesswoman. But now that I know the practical side of these
 **Suzuka Gozen:**
 ...Hm? Sounds like something is rummaging around through my room... 
  
+
 ---
 
 **Fujimaru 1:**
 The octopus seems to be fishing for something...
+
 ---
  
 **Oei:**
@@ -2874,10 +3046,12 @@ It's wrapped its tentacles around a brush and now it's trying to paint on one of
 **Suzuka Gozen:**
 (But...it's a really bad drawing...) 
  
+
 ---
 
 **Fujimaru 1:**
 (Yeah, it's pretty bad...)
+
 ---
  
 **Oei:**
@@ -2913,10 +3087,12 @@ Your depth perception is all over the place... It's strange... What an odd persp
 **Oei:**
 It's an incantation that Toto-sama began chanting recently. I don't know, it popped into my head just now. 
  
+
 ---
 
 **Fujimaru 1:**
 ...Incantation...
+
 ---
  
 **Oei:**
@@ -2949,14 +3125,17 @@ You wouldn't want to have a dream within a dream, right? So instead of having a 
 **Suzuka Gozen:**
 Eh!? That's boring! I want you to draw me a picture of a hot spring or a Ferris wheel! 
  
+
 ---
 
 **Fujimaru 1:**
 That makes sense.
+
 ---
 
 **Fujimaru 2:**
 (Little Octy is really persistent in pushing his picture on to me...)
+
 ---
  
 **:**
@@ -2996,14 +3175,17 @@ Yes!
 **Utagawa Hiroshige:**
 Sir! 
  
+
 ---
 
 **Fujimaru 1:**
 Suzuka Gozen...isn't that...?
+
 ---
 
 **Fujimaru 2:**
 Take a look behind Hiroshige.
+
 ---
  
 **Suzuka Gozen:**
@@ -3015,14 +3197,17 @@ Hmm...that's probably Toyokuni. He was the most important person within the Utag
 **Suzuka Gozen:**
 Both Hokusai and Oei totally hate that creep! 
  
+
 ---
 
 **Fujimaru 1:**
 Looks like all the actors have assembled.
+
 ---
 
 **Fujimaru 2:**
 Shouldn't Da Vinci be the one to perform in the exhibition?
+
 ---
  
 **???:**
@@ -3126,14 +3311,17 @@ You shall take your brush and paint with your lives hanging in the balance. And 
 **Suzuka Gozen:**
 Wha...!? This isn't supposed to be a duel between swordmasters! 
  
+
 ---
 
 **Fujimaru 1:**
 An all-out duel...in ukiyo-e painting!?
+
 ---
 
 **Fujimaru 2:**
 ...Isn't this...supposed to be a dream...?
+
 ---
  
 **Utagawa Toyokuni:**
@@ -3181,14 +3369,17 @@ Katsushika Oui. What will you do?
 **Suzuka Gozen:**
 This isn't fair! This is like comparing the reach of someone with a thousand followers versus one with ten! 
  
+
 ---
 
 **Fujimaru 1:**
 D-Da Vinci!?
+
 ---
 
 **Fujimaru 2:**
 What's going on!?
+
 ---
  
 **Utagawa Toyokuni:**
@@ -3200,10 +3391,12 @@ You do have the option to help out Oei, you know.
 **Utagawa Toyokuni:**
 But if you're going to participate in this match, your life will be riding on it, too. 
  
+
 ---
 
 **Fujimaru 1:**
 Are you...really Da Vinci...?
+
 ---
  
 **Utagawa Toyokuni:**
@@ -3212,14 +3405,17 @@ Sure. I'm the Da Vinci that you know SO very well.
 **Utagawa Toyokuni:**
 Because the role of “Toyokuni” is played by the one that you yourself think is most skilled in painting. 
  
+
 ---
 
 **Fujimaru 1:**
 My head hurts...
+
 ---
 
 **Fujimaru 2:**
 So, WHOSE dream are we in!?
+
 ---
  
 **Utagawa Toyokuni:**
@@ -3231,19 +3427,23 @@ This is your dream. Without a doubt, this is your dream.
 **Utagawa Toyokuni:**
 Didn't you see a bunch of familiar faces playing the parts of the townspeople of Edo? They're all near and dear to you. 
  
+
 ---
 
 **Fujimaru 1:**
 And even...Suzuka?
+
 ---
  
 **Suzuka Gozen:**
 H-hey! Don't look at me like that! I'm different! I would never betray Master! 
  
+
 ---
 
 **Fujimaru 1:**
 Oei... What about her?
+
 ---
  
 **Oei:**
@@ -3261,10 +3461,12 @@ But the one the evil god of the Abyss had set its sight on was always Katsushika
 **“Shogun”:**
 ... 
  
+
 ---
 
 **Fujimaru 1:**
 Who brought Oei into this dream?
+
 ---
  
 **Utagawa Toyokuni:**
@@ -3318,10 +3520,12 @@ Using your dream as the door, the god desires to descend upon Chaldea...into the
 **Oei:**
 So Hokusai...died... 
  
+
 ---
 
 **Fujimaru 1:**
 ...Oei...
+
 ---
  
 **Oei:**
@@ -3351,10 +3555,12 @@ Da Vinci and the others are getting consumed by the evil god... This is...
 **Suzuka Gozen:**
 Master, we're in big trouble! You're going to get swallowed up by the nightmare's corroding effects, too! 
  
+
 ---
 
 **Fujimaru 1:**
 Suzuka Gozen! Oei's...!
+
 ---
  
 **H：Oei:**
@@ -3402,14 +3608,17 @@ But Oei...! Your feelings...your emotions are REAL!
 **Suzuka Gozen:**
 That's why...don't give in! 
  
+
 ---
 
 **Fujimaru 1:**
 ...Yeah...that's right!
+
 ---
 
 **Fujimaru 2:**
 Don't disappear! Come back, Oei!
+
 ---
  
 **H：Oei:**
@@ -3418,14 +3627,17 @@ Aaahhh...I...am...
 **D：???:**
 ...It makes no sense for the master to interfere in a match between their disciples. 
  
+
 ---
 
 **Fujimaru 1:**
 Oei...? No...
+
 ---
 
 **Fujimaru 2:**
 ...Katsushika Hokusai!?
+
 ---
  
 **Katsushika Hokusai:**
@@ -3503,10 +3715,12 @@ Then why don't we commence this painting contest. Should I be the victor...
 **Utagawa Toyokuni:**
 ...channeling through Fujimaru's consciousness, I shall reach Chaldea's Da Vinci... 
  
+
 ---
 
 **Fujimaru 1:**
 Is it...using my sense of defeat...!?
+
 ---
  
 **Suzuka Gozen:**
@@ -3518,14 +3732,17 @@ As long as I'm around, I'm not going to let Master do anything cringeworthy!
 **F：Suzuka Gozen:**
 This is my time to shine! I'm putting my high school girl powers to the MAX! 
  
+
 ---
 
 **Fujimaru 1:**
 That's right, Suzuka Gozen!
+
 ---
 
 **Fujimaru 2:**
 Let's stop this nightmare, once and for all!
+
 ---
  
 **F：Suzuka Gozen:**
@@ -3560,10 +3777,12 @@ Here you go... I'll draw you a path home. Think of it as the staircase of your d
 **Katsushika Hokusai:**
 Now go home to your Chaldea. 
  
+
 ---
 
 **Fujimaru 1:**
 ...Hokusai...
+
 ---
  
 **Katsushika Hokusai:**
@@ -3575,10 +3794,12 @@ There's no use wanderin' around too much. No more tryin' to bait you with offers
 **Katsushika Hokusai:**
 I need to go pay my respects to the great Myouken. If I take too many stops, I'll get in trouble. 
  
+
 ---
 
 **Fujimaru 1:**
 What's going to happen to Oei?
+
 ---
  
 **Suzuka Gozen:**
@@ -3665,14 +3886,17 @@ The background makes the picture shine! By the way, I should introduce you to vi
 **Oei:**
 Shut up. That's none of your business. 
  
+
 ---
 
 **Fujimaru 1:**
 Goodbye, Oei.
+
 ---
 
 **Fujimaru 2:**
 Thanks so much!
+
 ---
  
 **Oei:**
