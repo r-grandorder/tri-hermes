@@ -791,7 +791,7 @@ YEAH!
 Indeed! Heh, we've got some spirited new kids, huh? 
  
 **Fergus:**
-I guess you're Ms. Scáthach's latest students. Let's see. A pretty looking girl and a {(M) boy/(F) girl}... She put her hands on you yet? 
+I guess you're Ms. Scáthach's latest students. Let's see. A pretty looking girl and a [♂ boy /♀ girl]... She put her hands on you yet? 
  
 **Scáthach:**
 I don't go after everything that moves, like you. I invite only the finest warriors to my bedchamber. 

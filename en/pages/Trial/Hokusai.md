@@ -582,10 +582,10 @@ Ahh...if I wasn't so swamped, I'd totally ask you to model for me.
 By the way... 
  
 **A：Hokusai's Daughter:**
-That {(M) sodden-looking boy/(F) stylish-looking girl} next to you is in a weird-looking getup. Is that some sort of European outfit? 
+That [♂ sodden-looking boy /♀ stylish-looking girl] next to you is in a weird-looking getup. Is that some sort of European outfit? 
  
 **A：Hokusai's Daughter:**
-Or is {(M) he/(F) she} just pretending to be {(M) an old sage/(F) a pretty fairy} or something? Year's just started! Kinda early for that sort of weirdness, isn't it? 
+Or is [♂ he /♀ she] just pretending to be [♂ an old sage /♀ a pretty fairy] or something? Year's just started! Kinda early for that sort of weirdness, isn't it? 
  
 **A：Hokusai's Daughter:**
 Oh, pardon me. Don't take my words too personally. Just a bit of festive teasing. 
@@ -2003,7 +2003,7 @@ After I learned about our situation, I felt a bit conflicted. Haha.
 I see, I didn't realize you were actually Suzuka Gozen. I'm impressed. 
  
 **Oei:**
-If that's the case...Fujimaru? That just means you must be some sort of famous {(M) sage/(F) fairy}. 
+If that's the case...Fujimaru? That just means you must be some sort of famous [♂ sage /♀ fairy]. 
  
 
 ---
@@ -2012,7 +2012,7 @@ If that's the case...Fujimaru? That just means you must be some sort of famous {
 I'm just a plain ol' person.
  
 **Suzuka Gozen:**
-Master's not really a {(M) sage/(F) fairy}; {(M) he's/(F) she's} a mage. 
+Master's not really a [♂ sage /♀ fairy]; [♂ he's /♀ she's] a mage. 
  
 
 ---
@@ -2027,7 +2027,7 @@ Master? You shouldn't use that name so casually around me.
 ---
  
 **Oei:**
-Hee hee. {(M) Mr./(F) Miss} Master, is it? 
+Hee hee. [♂ Mr. /♀ Miss] Master, is it? 
  
 **Oei:**
 Is that Dutch? It means...“mentor” or “lordship,” right? 
@@ -2036,7 +2036,7 @@ Is that Dutch? It means...“mentor” or “lordship,” right?
 I had a feeling that the people playing Mito Koumon were just messing around... 
  
 **Oei:**
-But the fact that a {(M) sage/(F) fairy} named {(M) Mr./(F) Miss} Master is traveling with the real Suzuka Gozen... 
+But the fact that a [♂ sage /♀ fairy] named [♂ Mr. /♀ Miss] Master is traveling with the real Suzuka Gozen... 
  
 **Oei:**
 ...and the fact that my body moved in an unbelievable fashion and my brush danced with surreal movements... 
@@ -2071,7 +2071,7 @@ Are you seriously asking a question like that to a painter?
 If you saw a plate of delicious food, even if you were dreaming or the world was ending, you'd still want to eat it, wouldn't you? 
  
 **Oei:**
-If a {(M) real beauty/(F) handsome fellow} appeared in front of you, you'd fall in love and want to do things with them, right? 
+If a [♂ real beauty /♀ handsome fellow] appeared in front of you, you'd fall in love and want to do things with them, right? 
  
 **Oei:**
 Nothing changes. Birds will fly, butterflies will flutter, fish will swim. And a painter will always want to paint, no matter where they are. 
@@ -2853,7 +2853,7 @@ There's no way the shogun would entertain such an absurd request! It would take 
 It will be all right. Leave the rest of the arrangements to us. 
  
 **Bodyguard Omoe:**
-And that's why we would like you to continue protecting Oei, {(M) Lord/(F) Lady} Fujimaru. 
+And that's why we would like you to continue protecting Oei, [♂ Lord /♀ Lady] Fujimaru. 
  
 
 ---
@@ -3900,7 +3900,7 @@ Thanks so much!
 ---
  
 **Oei:**
-Yeah. Right back at you, Fujimaru. You {(M) handsome sage/(F) stylish fairy} you. 
+Yeah. Right back at you, Fujimaru. You [♂ handsome sage /♀ stylish fairy] you. 
  
 **Oei:**
 And thanks for reuniting me with Toto-sama. It felt nostalgic...and I was happy... 

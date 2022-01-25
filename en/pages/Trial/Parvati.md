@@ -1602,7 +1602,7 @@ YES, MA'AM!!!
 ---
  
 **Medusa:**
-Good {(M) boy/(F) girl}. Now, let us head back. 
+Good [♂ boy /♀ girl]. Now, let us head back. 
  
 **Medusa:**
 Hm. I wonder why I'm feeling so restless. 

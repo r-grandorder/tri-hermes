@@ -46,7 +46,7 @@ Hmm. So, your perception is just as shot as I thought. You aren't able to reconc
 Your mind and memories are both still sharp, but they're having trouble accessing what happened here. 
  
 **A：???:**
-You're now essentially back to square one...a rookie Master who barely knows what {(M) he's/(F) she's} doing. 
+You're now essentially back to square one...a rookie Master who barely knows what [♂ he's /♀ she's] doing. 
  
 **A：???:**
 Ah, well. I suppose I'll have to pull out all the stops to help your sorry ass! 
@@ -168,7 +168,7 @@ This kind of reckless laziness is just like her. She wants everything she sees, 
 I knew she had a cow's tits, but I didn't know she had a cow's brain too! Hell, maybe those horns of hers are actually something she was born with! 
  
 **H. C. A.:**
-Still, that alone wouldn't be too much of a problem. It's only now that another idiot's got {(M) himself/(F) herself} mixed up in all this that it's become such a mess. 
+Still, that alone wouldn't be too much of a problem. It's only now that another idiot's got [♂ himself /♀ herself] mixed up in all this that it's become such a mess. 
  
 
 ---
@@ -458,7 +458,7 @@ After all, once you've run out of food or can't grow anymore, that's proof that 
 So if a certain Master with freakishly weird taste decided to try summoning that monster just for kicks... 
  
 **H. C. A.:**
-Who knows? {(M) He/(F) She} might just miraculously succeed at saving her without changing her monstrous nature. 
+Who knows? [♂ He /♀ She] might just miraculously succeed at saving her without changing her monstrous nature. 
  
 **H. C. A.:**
 Anyway, now that Kingprotea is gone, the gravitational fluctuations have followed suit. This little side story has officially come to an end, Fujimaru. 

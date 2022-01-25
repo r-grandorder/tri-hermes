@@ -245,10 +245,10 @@ Hey, partner! We've got some humans washed up over here! TWO OF THEM!
 Look at that one, tasty-looking meat and nice clothes! She even got swords around her waist! 
  
 **Oni B:**
-That {(M) guy/(F) girl} over there, though... No flair at all. No swords, no fancy getup... 
+That [♂ guy /♀ girl] over there, though... No flair at all. No swords, no fancy getup... 
  
 **Oni B:**
-But perfect for physical labor! Let's grab {(M) him/(F) her} so {(M) he/(F) she} can make our meals! 
+But perfect for physical labor! Let's grab [♂ him /♀ her] so [♂ he /♀ she] can make our meals! 
  
 **Oni A:**
 ...Not bad. It's about time we started aiming higher. 
@@ -1049,7 +1049,7 @@ So I was peeling my shrimp, resolved to duck out of any battles...
 When Master... Master... Master ordered the New Years meal at a convenience store! 
  
 **Tamamo Cat Woof:**
-And {(M) he/(F) she} even ordered one for me! So considerate! But that turned out to just really make me angry! 
+And [♂ he /♀ she] even ordered one for me! So considerate! But that turned out to just really make me angry! 
  
 **Sukeroku:**
 Ah... That's no good. Don't you know why New Year's meals are so elaborate, kid? 

@@ -348,7 +348,7 @@ He's like a knight in shining armor.
 What the heck? 
  
 **Mash:**
-Senpai mentioned that the man's attire reminded {(M)him/(F)her} of the Knights of the Round Table. Isn't that right, Senpai? 
+Senpai mentioned that the man's attire reminded [♂him /♀her] of the Knights of the Round Table. Isn't that right, Senpai? 
  
 **Mordred:**
 What? Us? But I don't remember anyone with a hood. 
