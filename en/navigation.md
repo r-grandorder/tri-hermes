@@ -63,11 +63,6 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-<form method="get" action="">
- <input type="text" name="search" id="search" value="" /> 
- <input type="submit" name="submit" value="Search" /> 
-</form>
-
 <script type="text/javascript">
 
 	var defaultText = "Search..."; 
