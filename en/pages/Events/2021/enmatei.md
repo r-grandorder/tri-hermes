@@ -13,11 +13,7 @@ Fou, fooou!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Happy New Year, Mash.
  
 **Mash:**
@@ -27,11 +23,7 @@ In spite of everything, I feel so fortunate that we're able to celebrate another
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Here's to another great year together.
  
 **Mash:**
@@ -105,20 +97,12 @@ But I was also relieved to see that our history together really had been preserv
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Me too.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It really was the work of a genius, wasn't it...
  
 
@@ -168,20 +152,12 @@ The whole staff is enjoying a traditional New Year's meal in the cafeteria right
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That sounds great. Let's go join them!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (New Year's meal...? But who made it...?)
  
 
@@ -198,20 +174,12 @@ Hyu, kyaaau!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Tamamo Cat!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Everything looks so gooooood!
  
 
@@ -313,21 +281,13 @@ Haaappy New Year! Here's to another great year together, guys!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Happy New Year!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Right back at you!
  
 
@@ -344,20 +304,12 @@ Happy New Year, Director Goredolf.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Happy New Year!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What she said!
  
 
@@ -392,11 +344,7 @@ A small white envelope decorated with beautiful paper...? What is this, Director
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is this...New Year's money!?
  
 
@@ -417,20 +365,12 @@ It's not something we do in my country, but I thought it would be relevant and a
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thank you, Director!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Let's see how much I got...)
  
 
@@ -516,11 +456,7 @@ Atlas alchemists must stay in great shape. You never know when the next fighting
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Happy New Year, Sion.
  
 **Sion:**
@@ -536,11 +472,7 @@ but it still feels nice to actually say it out loud.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Fighting game situation?
  
 **Sion:**
@@ -565,11 +497,7 @@ It sure does. Instead of spending New Year's in the Wandering Sea...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 R...Ray&ndash;
  
 
@@ -631,11 +559,7 @@ P-please, don't be! Just being able to Rayshift outside of Chaldea is nothing sh
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So, where would we be Rayshifting to, exactly?
  
 
@@ -782,20 +706,12 @@ Now, let us be off! To the beauty that lies deep in the mountains! Let us be off
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Talk about reassuring!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Talk about...reassuring?
  
 
@@ -1020,21 +936,13 @@ It's said the first day of January sets the tone for the rest of the year, so le
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah... I'm getting excited, too!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 See you later, Da Vinci!
  
 
@@ -1072,20 +980,12 @@ Commencing test Grand Order.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Where are we?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is this some kind of mountain valley?
  
 
@@ -1115,20 +1015,12 @@ Does this mean she deceived us?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now, now, I'm sure it's not that.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Huh? Hang on.
  
 
@@ -1172,20 +1064,12 @@ What are we going to do now, Senpai!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I guess not even Sion thought of everything...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Something tells me Sion's not used to working with people...
  
 
@@ -1237,20 +1121,12 @@ What do you say, Master? Shall we see if we can reach the top of this mountain?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's try hiking up.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's try hiking down.
  
 
@@ -1272,20 +1148,12 @@ It's just like the sound Master makes whenever [♂ he /♀ she] runs away from 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (You mean she knew all along!?)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go check it out...!
  
 
@@ -1341,11 +1209,7 @@ What would you have us do, Master!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We need to save that (thing that looks like a) sparrow!
  
 
@@ -1450,20 +1314,12 @@ Um, Master? Just to confirm, this is a pleasure trip, right? We are not here to 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You got it.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I sure didn't hear anything about repairing.
  
 
@@ -1543,20 +1399,12 @@ Once we pass the Bounded Field around the forest, chirp, you'll be able to see m
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Almost there...!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Not much farther...!
  
 
@@ -1634,11 +1482,7 @@ Chirp, are you benevolent gods?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nice to meet you, Toshi.
  
 **Sparrow:**
@@ -1648,11 +1492,7 @@ Chirp, this is great!  It's just like old times again!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, we're not, chirp.
  
 **Sparrow:**
@@ -1707,20 +1547,12 @@ Kiyohime is sweating like crazy! It's as though she's suffering from a severe PT
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wonder what everyone's on about (though it's fun to watch).
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go see what the inside is like (since this is gonna be good).
  
 
@@ -1836,11 +1668,7 @@ I should cut everything in half so it's easier to eat!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um... You already know them, Beni-Enma?
  
 
@@ -1879,11 +1707,7 @@ That's Enjaku Battoujutsu, First Form!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You know it down to the form name, Tamamo!?
  
 **Tamamo-no-Mae:**
@@ -1901,11 +1725,7 @@ And it's exactly what makes Beni-Enma's Jigoku Kitchen the scariest place in the
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Enjaku...Battoujutsu?
  
 **Kiyohime:**
@@ -2185,20 +2005,12 @@ Here, help yourselves to this freshly caught yellowtail sashimi. We also have Ja
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It all looks great! Don't mind if I do!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thank you very much.
  
 
@@ -2696,20 +2508,12 @@ Huh? Now the box is glowing! Does this mean I'm going to end up turning into a p
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What happened here...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Director Goredolf...!
  
 
@@ -2767,20 +2571,12 @@ And then, when the box started to glow...some fish got caught in my throat...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Now I see.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think I get the gist now.
  
 
@@ -2848,11 +2644,7 @@ Who is this young lady, Fujimaru?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She is the proprietress of this inn.
  
 
@@ -3002,20 +2794,12 @@ S-Senpai too...!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Me, a p-pig!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She said you too, Mash!!!
  
 
@@ -3057,11 +2841,7 @@ Still, we're all on the same team here. What do you say we all work together to 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
  
 **Goredolf:**
@@ -3075,11 +2855,7 @@ I can certainly understand how you feel, but pouting like a child won't accompli
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Biting tongue on all sorts of things) You okay with this, Mash?
  
 **Mash:**
@@ -3127,11 +2903,7 @@ We also offer free hot-water bottles for guests who get cold easily, so don't he
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You know, everything else aside...
  
 
@@ -3217,20 +2989,12 @@ Here you go. I tried making some tea with the leaves and teapot that came with t
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thank you, Mash.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They even have manjyu to go with it...!
  
 
@@ -3261,21 +3025,13 @@ I can't even begin to imagine how one might go about collecting gratitude!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do you have any ideas, Tamamo?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do you have any ideas, Tomoe?
  
 **Tomoe Gozen:**
@@ -3445,20 +3201,12 @@ Come on then, Master, let's go change into our Enma-tei work clothes and head ou
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Phew, I'm wiped...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think we could use a little break.
  
 
@@ -3519,11 +3267,7 @@ Can you think of anything that might help us, Senpai?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The Enma-tei's beautiful, but it doesn't seem to have many guests.
  
 **Kiyohime:**
@@ -3554,11 +3298,7 @@ But no matter. As long as I'm here, we have no need to seek Sion or Da Vinci or 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I say we call Chaldea and ask for help.
  
 **Goredolf:**
@@ -3634,11 +3374,7 @@ Especially since our path forward is now clear.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It is?
  
 **Fionn mac Cumhaill:**
@@ -3649,11 +3385,7 @@ You said it yourself, Master.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sure is.
  
 **Fionn mac Cumhaill:**
@@ -3748,20 +3480,12 @@ Now then, what is it we need to do in order to make that happen, Master?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do ALL the jobs!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Liven this place up!
  
 
@@ -3854,11 +3578,7 @@ Fujimaru! Cheep cheep, you fixed up that guest room to make it usable!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just doing my job, cheep.
  
 **Beni-Enma:**
@@ -3868,11 +3588,7 @@ Chirp... Tamamo did tell me you would be doing some large-scale renovations, but
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm sorry I repaired it without asking permission...
  
 **Beni-Enma:**
@@ -3973,20 +3689,12 @@ So you're the one who came here!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hey there!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Welcome to our inn!
  
 
@@ -4033,20 +3741,12 @@ Wandering samurai like him or Ms. Musashi always smell like trouble.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Musashi? As in Miyamoto Musashi!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Musashi's here!?
  
 
@@ -4092,20 +3792,12 @@ If we keep improving it at this rate, I'm sure we'll be able to gather enough gr
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All right!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's do this thing!
  
 
@@ -4121,20 +3813,12 @@ Time to wake up!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nnn... Good morning...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The day starts so early here...
  
 
@@ -4156,20 +3840,12 @@ We still have another twenty minutes until we're supposed to meet up, so we shou
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks, Mash. Okay, I'll go wash my face then.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Man, who knew taking care of an inn was this much work...
  
 
@@ -4324,11 +4000,7 @@ That may not be an issue at the moment, but if we're going to bring in more gues
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It was painful to see that the hot springs were closed.
  
 **Fionn mac Cumhaill:**
@@ -4339,11 +4011,7 @@ I wonder why they sealed them off?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It was painful to see that the big kitchen was closed.
  
 **Tamamo-no-Mae:**
@@ -4388,11 +4056,7 @@ Fooou!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All Chaldeans, present!
  
 
@@ -4448,11 +4112,7 @@ it's my duty to do so, chirp.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's an honor to study under you, Ms. Beni-Enma!
  
 
@@ -4495,20 +4155,12 @@ That was awful!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Diarmuuuid!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I know how you feel.
  
 
@@ -4534,11 +4186,7 @@ Jumping about is perfectly fine in my book.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm surprised there are so many vicious beasts here.
  
 
@@ -4676,20 +4324,12 @@ It's lovely that the Enma-tei's windows are so big, giving us quite a view, but 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We had to break out a ladder and everything.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm jealous of the sparrows when it comes to things like this.
  
 
@@ -4753,20 +4393,12 @@ I can't let you do that! Don't let everything you've worked for go to waste now!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're here to help!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's an oddly specific request!
  
 
@@ -4879,11 +4511,7 @@ Did you say something, Mr. Tiger?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Man, that was a hell of a surprise!
  
 **Beni-Enma:**
@@ -4898,11 +4526,7 @@ It warms my heart to see humans be so forgiving.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um... I'm guessing there's something of a story with him?
  
 **Beni-Enma:**
@@ -4956,21 +4580,13 @@ There she goes, back to work. I-it's cute how she has the wrong idea about us, i
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (I owe you one, Madam Beni...!)
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you say we take her up on her break idea?
  
 **Mash:**
@@ -5010,11 +4626,7 @@ What should we do!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We've got your back.
  
 **Sparrow:**
@@ -5025,11 +4637,7 @@ I knew I could count on you!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're kind of on break right now, so...
  
 **Sparrow:**
@@ -5082,20 +4690,12 @@ I can't tell you how grateful we are, [♂ Mr. /♀ Ms.] Fujimaru! Anything you 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is the most disproportionate reward I've ever received for anything.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 These sparrows are really...insistent.
  
 
@@ -5135,20 +4735,12 @@ Ki kyuu kyu, fo fou fou.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're just as surprised as you!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's drinking tea like he's been here all along!
  
 
@@ -5191,11 +4783,7 @@ It does, chirp. So today, we're paying you back for all your help. Think of it l
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's...an interesting way to put it...
  
 **Mash:**
@@ -5214,11 +4802,7 @@ Most of the other sparrows are more...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're very chatty, aren't you?
  
 
@@ -5256,20 +4840,12 @@ No, just their attendants, chirp. Although Madam Beni is the daughter of Great K
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Great King Enma...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait, THAT Great King Enma!?
  
 
@@ -5356,11 +4932,7 @@ Even today, some people think Datsue-ba inadvertently coined the Japanese for �
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who's Datsue-ba?
  
 **Kojirou:**
@@ -5382,11 +4954,7 @@ Can you imagine an old lady about your size? They say she's been in hell longer 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (So Beni-Enma's quick-draw was meant to cut off clothes? ...Umm...)
  
 **Mash:**
@@ -5554,11 +5122,7 @@ She is such an amazing proprietress I respect her even more now!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You said it!
  
 
@@ -5650,20 +5214,12 @@ In fact, they should only come if they manage to infer our predicament on their 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What a ridiculous question!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's our new director for you!
  
 
@@ -5735,11 +5291,7 @@ Aren't dragons just the worst!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 N-no, I wouldn't say that.
  
 **Kiyohime:**
@@ -5749,11 +5301,7 @@ Of course not♡ The things Chief Snake just listed are in fact some of my best 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A-are you sure you're not talking about snakes...?
  
 **Kiyohime:**
@@ -5791,11 +5339,7 @@ Senpai!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 On it! Let's go, Mash!
  
 **Mash:**
@@ -5805,11 +5349,7 @@ I have a feeling this opponent will be very formidable...! Please be careful out
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go send it packing, Kiyohime!
  
 **Kiyohime:**
@@ -5997,20 +5537,12 @@ The Enma-tei's problems are Madam Beni-Enma's to worry about, not yours.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 An incident five hundred years ago...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She never said anything about this...
  
 
@@ -6043,20 +5575,12 @@ Cursed Fionn mac Cumhaill. He must have already known it would come to this when
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 For now, let's just focus on what we can do.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I bet the snake guy will let it slip sooner or later.
  
 
@@ -6089,20 +5613,12 @@ No Mash with you today?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, funny story...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She took one look at this poster, and, well...
  
 
@@ -6150,20 +5666,12 @@ An entirely different layer of hell that will train any amateur cook into a full
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sounds like fun!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So they'll be done in, say, a couple of hours tops?
  
 
@@ -6196,20 +5704,12 @@ I must emphasize that Ms. Beni's teaching methods are considered to be particula
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wha...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why didn't you say so sooner!?
  
 
@@ -6633,20 +6133,12 @@ R-right! I'll do my best to handle the defensive prep work!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Everyone, stop what you're doing!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash! Speak to me!
  
 
@@ -6668,11 +6160,7 @@ But, I thought...I was still on Hell Island...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hell Island?
  
 
@@ -6731,11 +6219,7 @@ So you know, I had to turn tail at level five.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm just glad you're okay.
  
 **Mash:**
@@ -6746,11 +6230,7 @@ If it makes you feel any better, I really did learn a lot.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why did you sign up for this cooking class, anyway?
  
 **Mash:**
@@ -6884,20 +6364,12 @@ Not when I get to watch over two beautiful yukata-clad girls.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Let's go take care of it right now!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Reopening the hot springs would definitely attract more guests.
  
 
@@ -6954,20 +6426,12 @@ A swordswoman who only wants to fight opponents with the same class and weapon..
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'd better bring Diarmuid for this.
  
 
@@ -7015,20 +6479,12 @@ but if only you were a few years younger...!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It was just for a moment, but she let her true colors show...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What a fearsome opponent...
  
 
@@ -7589,20 +7045,12 @@ Of course we would need more hands in the kitchen to cook for more guests... I c
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll be glad to help!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If nothing else, I can at least peel veggies!
  
 
@@ -7654,20 +7102,12 @@ Fou... Fou fo fo...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...(Poor Madam Beni. She looks so distraught over this...)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...(I wish there was something I could do to help...)
  
 
@@ -7708,11 +7148,7 @@ But is there anyone among them who really knows how to cook?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Cat!
  
 **Tamamo-no-Mae:**
@@ -7722,11 +7158,7 @@ Crap.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mm... Maybe the First Hassan?
  
 **Mash:**
@@ -7841,11 +7273,7 @@ Hate me all you want, but Ms. Beni isn't yours to claim. Let's settle this, once
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, break it up!
  
 
@@ -7928,21 +7356,13 @@ Come on, Senpai. The kitchen will be in good hands with Madam Beni-Enma and the 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All right, let's do this!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Say, Fionn, who was the other Servant you had in mind, anyway?
  
 **Fionn mac Cumhaill:**
@@ -8182,21 +7602,13 @@ Nonalcoholic, of course♡
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That sounds great. Thank you.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Aren't you going to have anything, Tamamo?
  
 **Tamamo-no-Mae:**
@@ -8232,11 +7644,7 @@ This is the greatest meal that's ever been made at the Enma-tei. You both deserv
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thank you. I can't wait to dig in.
  
 **Beni-Enma:**
@@ -8272,11 +7680,7 @@ But, since it's so rare to come across ones that size, making soup with them is 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Aren't you going to take a break, Ms. Beni?
  
 **Beni-Enma:**
@@ -8376,20 +7780,12 @@ You should head to the lobby if you want to know more. There you will witness a 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A tragedy...?
  
 
@@ -8426,11 +7822,7 @@ What would you like to do, Senpai?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go check out the lobby. Quietly.
  
 
@@ -8548,20 +7940,12 @@ Is it just me, or did that sound like...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah. That was a conversation between a debtor and a creditor...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah. That was a conversation between a lender and a borrower...
  
 
@@ -8583,11 +7967,7 @@ Does this mean the Enma-tei is in debt to that man?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This have anything to do with what happened five hundred years ago?
  
 
@@ -8837,20 +8217,12 @@ It would be a fool's errand to try to match such elusive value with money. Bring
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Identical items...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you saying what I think you're saying?
  
 
@@ -8896,20 +8268,12 @@ So if we can attract even more guests to the Enma-tei...!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We can collect the five treasures ourselves...!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We can start with a highly virtuous monk!
  
 
@@ -9039,11 +8403,7 @@ Ms. Monk, but we were wondering something...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You don't happen to have one of the Buddha's stone begging bowls?
  
 **Sanzang:**
@@ -9054,11 +8414,7 @@ Why, did you want to see it?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't suppose you have any treasures you're looking to sell?
  
 **Sanzang:**
@@ -9093,20 +8449,12 @@ Oh, then again, maybe it's not the best idea to sell this... It did originally b
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There must be some way to work this out.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Please? You'd be doing us a huge favor.
  
 
@@ -9193,20 +8541,12 @@ It's all yours! Oh, but make sure you only use it outside, in case it expands to
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks, Sanzang!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The Buddha sure is huge, isn't he!
  
 
@@ -9229,11 +8569,7 @@ Well, it would seem that a Servant in possession of one such branch just made a 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Then we just need to convince them to let us have it!
  
 
@@ -9272,11 +8608,7 @@ Then let's go take care of it, shall we?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Shh! Someone's here!)
  
 
@@ -9533,11 +8865,7 @@ There's no telling what sort of mishaps may occur if I keep it with me.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now we have the jeweled branch!
  
 
@@ -9563,20 +8891,12 @@ Huh?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? (Indicating you have no idea via eye contact)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's Elisa J of the metal band Great Oni Vermilion Dragon!
  
 
@@ -9692,11 +9012,7 @@ Indeed, we can't have them literally bringing the house down! Go on, Fujimaru, p
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hold it!
  
 **Elisabeth:**
@@ -9706,11 +9022,7 @@ I'm not holding anything!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Those horns are devilishly cute.
  
 **Elisabeth:**
@@ -9747,20 +9059,12 @@ See? Even a security guard has come to stop you!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's a beautiful song, but...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm afraid your Elly Power is a bit intense for this room...
  
 
@@ -9803,20 +9107,12 @@ W-well, in folklore salamanders love fire right? I see no difference between a f
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We got a piece of...fire-rat robe?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on, let's hurry to the outdoor stage! I mean, hot springs!
  
 
@@ -10025,20 +9321,12 @@ and take the gems for ourselves.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's...actually pretty ingenious.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I didn't know you were so ruthless.
  
 
@@ -10092,11 +9380,7 @@ We must utterly obliterate this clone before she causes any more trouble!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You got that right...
  
 
@@ -10166,11 +9450,7 @@ And since we don't want to worry Ms. Beni-Enma unless we absolutely have to...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That takes care of the dragon's head gems!
  
 
@@ -10235,11 +9515,7 @@ Fou, fou!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...And so, here we are.
  
 
@@ -10304,20 +9580,12 @@ Which is why I find it strange that this bamboo cutter claimed to possess all fi
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Then...does that mean...)
  
 
@@ -10342,20 +9610,12 @@ As such, all I can do for you is rattle this cowry and pray for your success. Fo
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Hey.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Heeey!
  
 
@@ -10385,20 +9645,12 @@ I am happy to let you have this shell.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Really? Just like that?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're not gonna challenge us to a duel or something first?
  
 
@@ -10447,11 +9699,7 @@ Fou... Fo fo fou...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We did it! We got the swallow's cowry!
  
 
@@ -10503,20 +9751,12 @@ Here you go, the tea's ready, cheep. I threw in some monaka wafers filled with s
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thank you.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It all looks great.
  
 
@@ -10542,11 +9782,7 @@ Just because things are peaceful here doesn't mean your world isn't still in a l
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What sort of Heroic Spirit are you, Beni-Enma?
  
 **Beni-Enma:**
@@ -10556,11 +9792,7 @@ You want to know more about me?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay. I mess up all the time, too.
  
 **Beni-Enma:**
@@ -10693,20 +9925,12 @@ Really, once the world at large modernized, the hells and this inn had outlived 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That doesn't change the fact that the Enma-tei is a great place.
  
 
@@ -10732,11 +9956,7 @@ The Great King Enma even said I could come back home whenever I like, chirp chir
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Gotcha. Well, as long as you're okay with that...
  
 **Beni-Enma:**
@@ -10750,11 +9970,7 @@ Once you succeed, you can have the inn all to yourselves for a whole day, cheep!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...But, you don't really want to shut it down, do you?
  
 **Beni-Enma:**
@@ -10767,11 +9983,7 @@ I...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why have you been keeping the Enma-tei going all this time?
  
 
@@ -10782,7 +9994,6 @@ Why have you been keeping the Enma-tei going all this time?
 Well...
 
  
-<<<<<<< HEAD
 **Narration:**
 A long time ago, though not so long as you might think...
 
@@ -10800,30 +10011,10 @@ What she saw there were things that had always been close at hand, yet tantalizi
 
  
 **Narration:**
-=======
-**Narration::**
-A long time ago, though not so long as you might think...
-
- 
-**Narration::**
-...a young girl fled into the mountains to escape the brothel she was being kept in.
-
- 
-**Narration::**
-She ran so desperately that she hardly noticed she entered a beautiful mansion hidden amidst the mists.
-
- 
-**Narration::**
-What she saw there were things that had always been close at hand, yet tantalizingly out of her reach.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Warm blankets. Plentiful food.
 A world without any adults to berate her.
 
  
-<<<<<<< HEAD
 **Narration:**
 She did wonder why the mansion was there all alone&ndash;why there was not a single person to be found...
 
@@ -10849,38 +10040,10 @@ The girl then drew her last breath, a tear running down her cheeks at the mansio
 
  
 **Narration:**
-=======
-**Narration::**
-She did wonder why the mansion was there all alone&ndash;why there was not a single person to be found...
-
- 
-**Narration::**
-...but she smiled when she saw that at least the mansion had friends in the sparrows that fluttered about its yard.
-
- 
-**Narration::**
-The girl drifted between the mansion's many guest rooms, holding her breath as if she were afraid she might wake up and find it had all been a dream.
-
- 
-**Narration::**
-She then put her hands together in prayer to give thanks to the Buddha.
-
- 
-**Narration::**
-Thank you for giving me a roof over my head before I die. Thank you for showing me something beautiful before the end.
-
- 
-**Narration::**
-The girl then drew her last breath, a tear running down her cheeks at the mansion's beauty.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She hadn't eaten in days.
 Her body was bruised and beaten.
 
  
-<<<<<<< HEAD
 **Narration:**
 She had been so hungry it was a wonder she had managed to stay on her feet at all.
 
@@ -10890,22 +10053,10 @@ Yet even so, she did not partake in the feast laid out before her, as during her
 
  
 **Narration:**
-=======
-**Narration::**
-She had been so hungry it was a wonder she had managed to stay on her feet at all.
-
- 
-**Narration::**
-Yet even so, she did not partake in the feast laid out before her, as during her life in captivity...
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...her tongue had been torn out,
 and her throat crushed beyond repair.
 
  
-<<<<<<< HEAD
 **Narration:**
 When the girl woke, she found herself at the Sanzu River in Children's Limbo&ndash;one of the entrances to hell.
 
@@ -10935,46 +10086,11 @@ He appointed her his proxy, and entrusted her with caring for the mayoiga in the
 
  
 **Narration:**
-=======
-**Narration::**
-When the girl woke, she found herself at the Sanzu River in Children's Limbo&ndash;one of the entrances to hell.
-
- 
-**Narration::**
-Whether the Buddha had taken pity on her, or because she hadn't eaten anything at the mansion...
-
- 
-**Narration::**
-...the girl had been reborn as a sparrow oni in ancient hell, rather than joining the other dead.
-
- 
-**Narration::**
-The sparrow was named Beni, or “red,” after the color of her hair, and set about working at the Sanzu.
-
- 
-**Narration::**
-After countless years of hard work, the Supreme Judge of hell, the Great King Enma, recognized her accomplishments.
-
- 
-**Narration::**
-He appointed her his proxy, and entrusted her with caring for the mayoiga in the world of the living.
-
- 
-**Narration::**
-“The mayoiga is where your old form drew its last breath. The sparrows in its yard say they would be happy to follow your commands.”
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The sparrow went on to make the mansion flourish,
 just as the Great King Enma had said.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 However...
 
  
@@ -10983,11 +10099,7 @@ However...
 I want to see how people live now.”
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Even as an oni, the sparrow still missed human companionship, so she visited the nearby village.
 
  
@@ -10996,19 +10108,11 @@ Even as an oni, the sparrow still missed human companionship, so she visited the
 It even cries like a person when you smack it!”
 
  
-<<<<<<< HEAD
 **Narration:**
 The sparrow was so surprised she forgot she was an oni now, and found herself huddling up in fright.
 
  
 **Narration:**
-=======
-**Narration::**
-The sparrow was so surprised she forgot she was an oni now, and found herself huddling up in fright.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come to think of it, it felt as though this sort of thing had happened to her many times before.
 
  
@@ -11016,7 +10120,6 @@ Come to think of it, it felt as though this sort of thing had happened to her ma
 “Well now, that is something. I say, neighbor, would you be willing to let me have that sparrow for myself?”
 
  
-<<<<<<< HEAD
 **Narration:**
 It was an old man known for being an oddball who put a lot of time and effort into impractical endeavors.
 
@@ -11030,21 +10133,6 @@ This latest endeavor suited his penchant for impracticality quite well.
 
  
 **Narration:**
-=======
-**Narration::**
-It was an old man known for being an oddball who put a lot of time and effort into impractical endeavors.
-
- 
-**Narration::**
-As a result, the rest of the village usually kept their distance from him.
-
- 
-**Narration::**
-This latest endeavor suited his penchant for impracticality quite well.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He convinced the old woman to make a trade:
 the crying sparrow for all of his life savings.
 
@@ -11057,36 +10145,20 @@ the crying sparrow for all of his life savings.
 “I'm not sure either. But hey, you can't see someone unhappy and not try to help, right?”
 
  
-<<<<<<< HEAD
 **Narration:**
 After treating the sparrow's wounds, the old man naturally returned her to the mountain.
 
  
 **Narration:**
-=======
-**Narration::**
-After treating the sparrow's wounds, the old man naturally returned her to the mountain.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “Try not to get caught next time!”
 he said with a laugh.
 
  
-<<<<<<< HEAD
 **Narration:**
 Time passed, and one day, the sparrow learned that the old man had fallen on hard times.
 
  
 **Narration:**
-=======
-**Narration::**
-Time passed, and one day, the sparrow learned that the old man had fallen on hard times.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 With no money to pay his taxes, and no neighbors willing to help him, he was slowly starving to death.
 
  
@@ -11095,7 +10167,6 @@ With no money to pay his taxes, and no neighbors willing to help him, he was slo
 a land open to all who are pure of heart.”
 
  
-<<<<<<< HEAD
 **Narration:**
 After the old man had gone off to the mountain to die, the sparrow invited him into the mayoiga.
 
@@ -11113,25 +10184,6 @@ As happy as the old man was, it didn't compare to the joy the sparrow had when h
 
  
 **Narration:**
-=======
-**Narration::**
-After the old man had gone off to the mountain to die, the sparrow invited him into the mayoiga.
-
- 
-**Narration::**
-The old man gratefully accepted the sparrow's invitation, and enjoyed his time there immensely.
-
- 
-**Narration::**
-But not as much as the sparrow did.
-
- 
-**Narration::**
-As happy as the old man was, it didn't compare to the joy the sparrow had when he had saved her long ago.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The sparrow would have been happy to attend to the old man forever, but one day, he said he was returning to his own village.
 
  
@@ -11140,16 +10192,11 @@ The sparrow would have been happy to attend to the old man forever, but one day,
 I present you with a wicker basket.”
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 In accordance with the mayoiga's rules,
 the sparrow had prepared two wicker baskets:
 
  
-<<<<<<< HEAD
 **Narration:**
 A large one, and a small one.
 
@@ -11159,34 +10206,15 @@ The old man tried to refuse, arguing he had already been given more than enough,
 
  
 **Narration:**
-=======
-**Narration::**
-A large one, and a small one.
-
- 
-**Narration::**
-The old man tried to refuse, arguing he had already been given more than enough, but the sparrow threatened to keep him there forever unless he accepted them.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So the old man humbly chose the small basket,
 and returned to his own world.
 
  
-<<<<<<< HEAD
 **Narration:**
 From then on, the basket would fill with a modest amount of happiness each and every day...
 
  
 **Narration:**
-=======
-**Narration::**
-From then on, the basket would fill with a modest amount of happiness each and every day...
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...and the old man went on to live happily ever after.
 
  
@@ -11195,38 +10223,22 @@ Except, that's not true.
 Yes, this all really happened, but its message is off.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 After the old man returned from the inn,
 he became the talk of the village.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “That old man disappeared years ago,
 and now he comes back without having aged a day.”
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “Not only that, he looks better off than ever.
 I should ask him what happened.”
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The villagers crowded inside the old man's house;
 half out of curiosity, and half out of jealousy.
 
@@ -11235,7 +10247,6 @@ half out of curiosity, and half out of jealousy.
 “Oh, it's all thanks to the great protector of childrenthe mountain Jizou. He said he'd give me some happiness as long as I promised to live an honest life from now on.”
 
  
-<<<<<<< HEAD
 **Narration:**
 The old man wisely decided to avoid mentioning the sparrow...
 
@@ -11257,34 +10268,10 @@ Some of them searched high and low for the inn the old man had wandered into. So
 
  
 **Narration:**
-=======
-**Narration::**
-The old man wisely decided to avoid mentioning the sparrow...
-
- 
-**Narration::**
-...but otherwise told them all about the fun and surprising things that had happened in the inn...
-
- 
-**Narration::**
-...turning them into larger-than-life folktales that could be applied as lessons in their own lives.
-
- 
-**Narration::**
-The villagers' eyes sparkled at hearing these stories. Most of them looked on the old man with envy.
-
- 
-**Narration::**
-Some of them searched high and low for the inn the old man had wandered into. Some prayed that things they had lost would find their way back to them.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Some tried to live upstanding lives,
 and others worked to be true to themselves.
 
  
-<<<<<<< HEAD
 **Narration:**
 Sometimes, they would lose their footing on their chosen path. Sometimes, their eyes would well up with tears of pure envy.
 
@@ -11318,41 +10305,6 @@ All except for one person:
 
  
 **Narration:**
-=======
-**Narration::**
-Sometimes, they would lose their footing on their chosen path. Sometimes, their eyes would well up with tears of pure envy.
-
- 
-**Narration::**
-Most of them had dreams of one sort or another that kept them going in their small, selfish, aimless days.
-
- 
-**Narration::**
-Those who had strayed from the path went unrewarded, however, many found their dreams came true.
-
- 
-**Narration::**
-And why wouldn't they, given that the old man was using every bit of happiness from his basket...
-
- 
-**Narration::**
-...to ensure their dreams would be realized.
-
- 
-**Narration::**
-The village flourished, and its residents became rich. Those who feuded in poverty became friends in plenty.
-
- 
-**Narration::**
-It became a truly welcoming world where anyone and everyone was happy.
-
- 
-**Narration::**
-All except for one person:
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The old man who was always ostracized in his strangeness.
 
  
@@ -11364,20 +10316,12 @@ The old man who was always ostracized in his strangeness.
 “Why don't you tell all of them that the only reason they're all happy now is because of you!?”
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No matter how rich the village became,
 the old man's life never changed.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 One day, the sparrow chirped to the old man as he sat at his hearth, where the only bright light to be found came from the moon.
 
  
@@ -11397,7 +10341,6 @@ One day, the sparrow chirped to the old man as he sat at his hearth, where the o
 “And all the while, you're the only one who isn't happy, when you deserve it the most!”
 
  
-<<<<<<< HEAD
 **Narration:**
 The old man had used his treasure for everyone besides himself.
 
@@ -11407,22 +10350,10 @@ He kept on lying in the hope that doing good deeds would lead to his own happine
 
  
 **Narration:**
-=======
-**Narration::**
-The old man had used his treasure for everyone besides himself.
-
- 
-**Narration::**
-He kept on lying in the hope that doing good deeds would lead to his own happiness.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So many made-up tales. So many tall tales.
 So many fairy tales.
 
  
-<<<<<<< HEAD
 **Narration:**
 The old man alone remained behind in reality, all so that he could make his many fun lies become true.
 
@@ -11464,58 +10395,11 @@ Each and every last person there was grateful to the old man. Can you imagine a 
 
  
 **Narration:**
-=======
-**Narration::**
-The old man alone remained behind in reality, all so that he could make his many fun lies become true.
-
- 
-**Narration::**
-Looking back, the old man probably knew that very soon the blessed lives that the other villagers had lead would soon come to an end...
-
- 
-**Narration::**
-...and that he was alone, regarded as nothing more than an eccentric with a propensity for tall tales.
-
- 
-**Narration::**
-The old man remained so until his death. But when he died, he did so with an expression of pure joy.
-
- 
-**Narration::**
-Although nobody was with him when he passed, his funeral procession was as lively as anything...
-
- 
-**Narration::**
-...since it was attended by almost all the villagers who had heard of his passing.
-
- 
-**Narration::**
-In fact, there were attendees from the neighboring villages, and their neighbors' neighbors as well.
-
- 
-**Narration::**
-Even though none of them had caught on to the old man's well-intentioned lies...
-
- 
-**Narration::**
-...his made-up stories had still been a source of strength, so they had come to offer a smile in return.
-
- 
-**Narration::**
-Each and every last person there was grateful to the old man. Can you imagine a happier way to go?
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 In the end, not one person was left unhappy.
 Just as the old man had wanted.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It was the best possible death he could ask for.
 There was no reason for anyone to be sad. And yet...
 
@@ -11687,20 +10571,12 @@ I'll have you know I am biting it!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did he just start glowing even while he was shouting...!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll say this about Blackbeard and Jekyll: I've never seen them glow.
  
 
@@ -11795,11 +10671,7 @@ I favor the latter method, of course. Here in this lookout tower, I was able to 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Whoa. Then, you know who took the treasures?
  
 
@@ -11908,20 +10780,12 @@ In essence, we'll all be putting on a performance. Or, in the language of a midd
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is it...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Today's the day the cutter comes to collect...
  
 
@@ -11938,20 +10802,12 @@ Chirp chirp... So you all knew? I was hoping to resolve this matter without invo
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're all employees. We can't just let this slide.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Throw in some bonus pay and we'll call it even!
  
 
@@ -12000,11 +10856,7 @@ You can start by paying me back last year's interest...one hundred billion QP.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Did he say “billion”!? With a “B”!?!?)
  
 **Tamamo-no-Mae:**
@@ -12014,11 +10866,7 @@ You can start by paying me back last year's interest...one hundred billion QP.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (...Huh? That's odd...)
  
 **Mash:**
@@ -12087,11 +10935,7 @@ Th-that was never part of our agreeme&ndash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hold it right there!
  
 
@@ -12114,11 +10958,7 @@ Do you have some objection to it?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You bet we do.
  
 
@@ -12258,20 +11098,12 @@ Th-this is impossible! Only a Divine Spirit could do something like that...!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? You mean you really don't know?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's not Fionn the Bright for nothing.
  
 
@@ -12501,11 +11333,7 @@ You...are lying.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did she just cut his mask off before I could blink!?
  
 
@@ -12568,11 +11396,7 @@ I'm guessing that masked monkey claiming to be the bamboo cutter is actually&nda
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The monkey from The Quarrel of the Monkey and the Crab...!
  
 **Monkey Mask Monster:**
@@ -12582,11 +11406,7 @@ Yeah, that's right! I'm the ape who got ganged up on by a bunch of lousy do-good
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 One of the “see no evil, hear no evil, speak no evil” monkeys...!
  
 **Monkey Mask Monster:**
@@ -12667,20 +11487,12 @@ It must mean to destroy the shrine!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on, let's hurry!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We have to stop it...!
  
 
@@ -12772,20 +11584,12 @@ I'm not goin' anywhere till you're all dead, this shrine's busted up, and I've e
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This thing is rotten to the core...!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (He's right about one thing: that's a lot of magical energy...)
  
 
@@ -13147,20 +11951,12 @@ I do feel bad that you ended up taking care of us when we were supposed to be ta
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Not at all. We're the ones who learned a lot from you!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm just glad we didn't have to face divine punishment!
  
 
@@ -13249,20 +12045,12 @@ Did you know about this, Fujimaru?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, yeah, pretty much...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who, me? Nooo, of course not.
  
 
@@ -13312,11 +12100,7 @@ Senpai, there's still one last thing we have to say!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm on it!
 
 
@@ -13324,20 +12108,12 @@ I'm on it!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thank you for the wonderful New Year's!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 See you again next year!
  
 
@@ -13544,11 +12320,7 @@ Right, Senpai?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Definitely.
  
 **Fionn mac Cumhaill:**
@@ -13562,11 +12334,7 @@ Thanks to you, almost every loose end was neatly tied up. However...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...You know, there's still one thing nagging at me...
  
 
@@ -13701,11 +12469,7 @@ I wonder what sort of people we'll get to meet next.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can't wait to find out!
 
 
@@ -13744,11 +12508,7 @@ Welcome to the Enma-tei. I'm honored to hear you like it.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Say, what happened to the rest of the French crew?
  
 **Marie:**
@@ -13759,11 +12519,7 @@ It's good to mix things up every now and then.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm surprised to see you two here together.
  
 **Anastasia:**
@@ -13803,11 +12559,7 @@ Here, let me take your bags for yo&ndash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What did you do, pack everything you own!?
 
 
@@ -13824,11 +12576,7 @@ Strange. Still, it's never been a problem up till now.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let me carry your bags... Oof!
 
 
@@ -13897,11 +12645,7 @@ Why doesn't anyone else seem to see that...?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe 'cause his eyes are kind of...terrifying?
 
 
@@ -13994,20 +12738,12 @@ Okay, here you go&ndash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Right in the face!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They just threw a mud ball at her...!
 
 
@@ -14064,11 +12800,7 @@ and how I do things personally.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait. A hundred million?
 
 
@@ -14151,11 +12883,7 @@ Master, I'll make sure to back you up from here...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 O-okay!
 
 
@@ -14195,20 +12923,12 @@ That was a hard fight...though not for the usual reasons...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So many mud balls...like artillery...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can still feel where one grazed my cheek...
 
 
@@ -14234,11 +12954,7 @@ I apologize for dragging all of you into this.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No worries! It's all mud...uh, water under the bridge now.
  
 **Anastasia:**
@@ -14248,11 +12964,7 @@ I'm relieved to hear that. Thank you.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, as long as you learn from this experience...
  
 **Anastasia:**
@@ -14302,11 +13014,7 @@ Did you know this would eventually happen all along, Master?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Of course. It was pretty much inevitable.
  
 
@@ -14332,11 +13040,7 @@ This could sink the Enma-tei before it gets back on its feet!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We've definitely got our work cut out for us!
  
 **Mash:**
@@ -14346,11 +13050,7 @@ Right, Master! I'll do my very best to make sure they don't disturb the other gu
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I hope there's a way to put a figurative cork in the proceedings...
  
 **Mash:**
@@ -14373,11 +13073,7 @@ Welcome, Jing Ke.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Welcome!
 
 
@@ -14488,11 +13184,7 @@ Come on already!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's putting it mildly...
  
 **Mash:**
@@ -14503,11 +13195,7 @@ I'll keep the Ortinax on standby in crowd control mode!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Buckle up! We're in for a wild ride.
  
 **Mash:**
@@ -14721,11 +13409,7 @@ Yeah! I love you kings to death!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think you've already had a few too many...
  
 **Jing Ke:**
@@ -14735,11 +13419,7 @@ Oh wow! It's my beloved Master!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, that's enough...
  
 **Jing Ke:**
@@ -14784,11 +13464,7 @@ Theeere you go. Nice and better now, no?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Y-you don't have to hold me down!
 
 
@@ -14821,11 +13497,7 @@ Well, I guess I did technically have to peel you out of her grasp, but still.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're my guardian angel, Mash...
  
 **Mash:**
@@ -14835,11 +13507,7 @@ I-it was no problem. Anyway, it looks like everyone else is starting to become i
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't know what I'd have done without you...
  
 **Anne:**
@@ -14888,11 +13556,7 @@ It is but a matter of time before I forgot the tragedies of the past and perform
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What pose?
 
 
@@ -14908,11 +13572,7 @@ The ultimate stance almost chosen for the soundtrack cover that I was only allow
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...(I have no idea how to respond to that...)
 
 
@@ -15049,20 +13709,12 @@ comin' atcha! Here we gooo!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She...she's actually really good!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She even nailed the shrillness down to the decibel...!?
  
 
@@ -15303,11 +13955,7 @@ Huh?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's...completely spotless. How...?
 
 
@@ -15323,11 +13971,7 @@ Now, if you'll excuse me...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wow, the Round Table's even more impressive than I thought.
  
 **Mash:**
@@ -15341,11 +13985,7 @@ Yes.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wow, Servants are even more impressive than I thought.
  
 **Mash:**
@@ -15387,20 +14027,12 @@ Just keep the food and booze coming, Fujimaru! Don't stop for anything!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll be right back with more!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I didn't know the Nobbu crew was here, too.
  
 
@@ -15551,11 +14183,7 @@ Senpai, we don't have nearly enough food or drink to go around. Let's go ask the
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We need more food for this room, please!
  
 
@@ -15715,20 +14343,12 @@ I am Oda Nobunaga, Pillow Demon King!!!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All fighting in the rooms is strictly prohibited!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Looks like we'll just have to make them listen to reason!
  
 
@@ -15748,20 +14368,12 @@ I'll do my best to contain the damage!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Once they started using their Noble Phantasms, well...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We did our best to try and stop them, but...|
  
 

@@ -24,11 +24,7 @@ affection, and a little pity. Has something happened?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, but, Doctor finally...
  
 **Dr. Roman:**
@@ -43,11 +39,7 @@ I didn't do anything!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why are you walking around with an empty plate?
  
 **Dr. Roman:**
@@ -85,21 +77,13 @@ Not all the staff members are here yet.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Alcohol?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Dumplings?
  
 
@@ -152,11 +136,7 @@ As well as the offerings we prepared for the festival and everything else... Cha
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What?!
  
 **Mash:**
@@ -172,11 +152,7 @@ I'm impressed by how much you trust each other.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That aside, those glasses really look good on you, Mash.
  
 **Mash:**
@@ -329,11 +305,7 @@ and our fun Moon Festival, would you go check out the situation for us?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yes I'll go, Doctor.
  
 **Dr. Roman:**
@@ -344,11 +316,7 @@ That's why you're the Master of Chaldea.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You really like sweet bean paste, huh?
  
 **Dr. Roman:**
@@ -411,21 +379,13 @@ What's going on here?!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't know, but let's help her!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 For now, let's fight!
  
 
@@ -460,11 +420,7 @@ Doctor?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Bad connection?
  
 **Mash:**
@@ -474,11 +430,7 @@ Seems like it... We can perform a Rayshift to return to Chaldea from here, but..
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Think Roman's slacking?
  
 **Mash:**
@@ -526,11 +478,7 @@ What do you think?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Clap, clap, clap.
  
 **Orion:**
@@ -541,11 +489,7 @@ I don't know who you are, but I think we can be friends♡
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wasn't Orion a guy?
  
 **Orion:**
@@ -617,11 +561,7 @@ Pgryyyrururur!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Your stomach again?
  
 **Mash:**
@@ -632,11 +572,7 @@ You shouldn't ask a girl about her tummy.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? Seduced a goddess?
  
 **Orion:**
@@ -686,11 +622,7 @@ Especially those super rare dumplings. I have to defend them at any cost...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh... Super rare... What?
  
 **Mash:**
@@ -716,11 +648,7 @@ I'm not sure what I'm saying anymore.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash, calm down.
  
 **Mash:**
@@ -757,21 +685,13 @@ Thanks for your help, Miss Orion.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, let's get those dumplings.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let the hunt begin!
  
 
@@ -1179,21 +1099,13 @@ Senpai!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, let's hurry, Mash!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, let's get the grinding going, Mash!
  
 
@@ -1507,21 +1419,13 @@ That would be a big help, but...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're not...fighting?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can't believe you actually listened to us!
  
 
@@ -1630,21 +1534,13 @@ You shall taste the wrath of my secret blade.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They're coming, Mash!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's the problem with saints...
  
 
@@ -1673,21 +1569,13 @@ The true enemy...is close at hand... (ka-thud)
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Georgios?!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mr. George!?
  
 
@@ -1709,21 +1597,13 @@ Oh, and I was strangely strong not because I'm on my home ground, but because of
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 LEGEND OF SAMURAI?!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Kojirou what's-his-name!?
  
 
@@ -1753,21 +1633,13 @@ Such merciless truth! KWAH!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...That one really did knock them out.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Is she really a saint?
  
 
@@ -1788,11 +1660,7 @@ They'd prefer to use the extra calories obsessing over more constructive things,
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that true for you, too?
  
 **Mash:**
@@ -1802,11 +1670,7 @@ I...I don't know. I haven't fought enough to really find value in the outcome of
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 
  
 **Mash:**
@@ -1847,21 +1711,13 @@ It looks just like an unidentified flying object, doesn't it, Senpai?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, that's what everyone thought.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She just made the morning papers.
  
 
@@ -1967,21 +1823,13 @@ Try to talk to them?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't think that'll work.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's heed Martha's warning.
  
 
@@ -2016,21 +1864,13 @@ If we attack them from the front then we're in accordance with the laws of chiva
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You seem like you're getting angry.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Chival...ry?
  
 
@@ -2139,11 +1979,7 @@ And then&mdash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You came, you saw, you bought! Right?
  
 **Mash:**
@@ -2153,11 +1989,7 @@ I understand how you feel, but be quiet, Master.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ... (Deliberately say nothing)
  
 **Caesar:**
@@ -2205,11 +2037,7 @@ How about I give them back to you under these terms?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ooh...So peaceful!
  
 **Orion:**
@@ -2224,11 +2052,7 @@ but you're being tricked right now!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ooh...Such a rip-off!
  
 **Mash:**
@@ -2324,11 +2148,7 @@ Forgive me. I do not destroy life. (Nom nom)
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Something crazy came out?!
  
 **Mash:**
@@ -2339,11 +2159,7 @@ It's clearly a top-class Servant, but...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, he had to be a good guy at the end...
  
 **Caesar:**
@@ -2499,11 +2315,7 @@ We did achieve our goals, but...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? Where's Orion?
  
 
@@ -2522,11 +2334,7 @@ Do you have any goodbyes for me?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You were useless against Altera.
  
 **Caesar:**
@@ -2537,11 +2345,7 @@ I wouldn't be more useful than that woman Archer.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Want to join us for the Moon Festival at Chaldea?
  
 **Caesar:**
@@ -2664,21 +2468,13 @@ Fujimaru, any idea?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...A little.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Pick...Up...
  
 
@@ -2719,11 +2515,7 @@ Oh?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh?
  
 
@@ -2762,11 +2554,7 @@ Hey, how've you been, Mash♡ It's a bit late, but do you need an introduction a
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, I think we kind of do.
  
 **Orion:**
@@ -2817,11 +2605,7 @@ gathered almost enough rare dumplings for the special Craft Essence, and waited 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, I think we're good.
  
 **Orion:**
@@ -2909,11 +2693,7 @@ But first, don't you think we need to test your skills?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 [♂ Agreed. You'll pay for tricking me. /♀ Agreed. You're going to regret this.]
  
 **Orion:**
@@ -2924,11 +2704,7 @@ I didn't trick you, but it is true that I was having fun...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can we talk instead of fight?
  
 **Orion:**
@@ -2962,11 +2738,7 @@ Mash Kyrielight&mdash; Ready to go, Master!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Right! Let's beat this goddess, Mash!
  
 
@@ -3044,11 +2816,7 @@ Artemis...disappeared.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll see her again.
  
 **Mash:**
@@ -3058,11 +2826,7 @@ You're right. Even if none of us remember what happened tonight, I'm sure we'll 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I hope we can see her again.
  
 **Mash:**

@@ -2,7 +2,6 @@
 
 ## EP 1: An Oni Amusement Park! Oniland!
  
-<<<<<<< HEAD
 **Narration:**
 It's so cold...
 
@@ -16,44 +15,20 @@ So cold. Freezing.
 
  
 **Narration:**
-=======
-**Narration::**
-It's so cold...
-
- 
-**Narration::**
-So cold. So cold. So cold.
-
- 
-**Narration::**
-So cold. Freezing.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Cold. Freezing.
 Cold. Freezing.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 ...
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Cold... Freezing...
 Col...
 
  
-<<<<<<< HEAD
 **Narration:**
 Freezing cold freezing cold freezing cold freezing cold freezing cold freezing cold freezing cold freezing cold.
 
@@ -63,22 +38,10 @@ Freezing cold freezing cold freezing cold freezing cold freezing cold freezing c
 
  
 **Narration:**
-=======
-**Narration::**
-Freezing cold freezing cold freezing cold freezing cold freezing cold freezing cold freezing cold freezing cold.
-
- 
-**Narration::**
-...How long have I been walking?
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can't walk anymore.
 I don't want to walk anymore.
 
  
-<<<<<<< HEAD
 **Narration:**
 It's so cold it hurts.
 
@@ -88,43 +51,20 @@ It hurts that there's no one to talk to. It hurts that I'm alone. It hurts knowi
 
  
 **Narration:**
-=======
-**Narration::**
-It's so cold it hurts.
-
- 
-**Narration::**
-It hurts that there's no one to talk to. It hurts that I'm alone. It hurts knowing that everyone is afraid of me.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It hurts that one moment, I was at a mountain looking at the beautiful autumn leaves, and the very next,
 I'm wandering in ice and snow.
 
  
-<<<<<<< HEAD
 **Narration:**
 And the thing that hurts most of all...is being mistaken for something I'm not.
 
  
 **Narration:**
-=======
-**Narration::**
-And the thing that hurts most of all...is being mistaken for something I'm not.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Know what, forget it.
 I'm sick of walking.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 ...
 
@@ -147,11 +87,7 @@ You've walked alone all this time.
 That gives you the right.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who is that?
 And...what right?
 
@@ -178,11 +114,7 @@ I see that you too have desire in your heart. You will not be able to resist my 
 Please, keep going...
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 ...
 
@@ -537,20 +469,12 @@ Aha, there You're in luck, Master. Quick, weep tears of joy!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hey there, Ibaraki-Douji.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't usually see you in the Command Room.
  
 
@@ -607,20 +531,12 @@ isn't it, Master!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yup, it is.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The old Chitose Mine in Hokkaido...
  
 
@@ -652,20 +568,12 @@ We're still not sure if a Holy Grail spawned this minute Singularity or not, but
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Got it.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ready to Rayshift anytime!
  
 
@@ -699,21 +607,13 @@ Anyway, Chitose, was it? When do we leave?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (She wants to go in a swimsuit...!?)
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You want to come along too, Ibaraki-Douji?
  
 **Ibaraki-Douji:**
@@ -759,20 +659,12 @@ I was unaware oni had such keen noses...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A ninja bodyguard! Sweet!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now we've got combat and recon covered!
  
 
@@ -800,20 +692,12 @@ This is all the additional equipment you'll be able to bring with you on your Ra
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks, Mash!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll bring you back some Hokkaido souvenirs!
  
 
@@ -936,11 +820,7 @@ Is that really&ndash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's an amusement park.
  
 **Ibaraki-Douji:**
@@ -950,11 +830,7 @@ An amusement park! So this is what they're like!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oooniiilaaaaaand♪
  
 **D：:**
@@ -965,20 +841,12 @@ Please, Master! Get a hold of yourself!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Gasp)... I forgot why we're here for a moment.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks, .
  
 
@@ -1076,20 +944,12 @@ or is this Oniland place as pumpkiny as it looks?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nooo, you've got it right. It's pumpkiny as heck.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can't believe it's already October again!
  
 
@@ -1240,11 +1100,7 @@ Well they don't seem shy about pouring on the reinforcements! Interesting! Too b
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Will you stop taunting them!?
  
 **Ibaraki-Douji:**
@@ -1254,11 +1110,7 @@ What? It's true.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's just get out of here for now!
  
 **B：:**
@@ -1298,20 +1150,12 @@ I'm picking up even more hostiles headed your way! Please try to escape before t
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'd like to, but there's already a ton of them!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Easier said than done!
  
 
@@ -1343,20 +1187,12 @@ We can only fight as long as Master's magical energy lasts, and  reserves are no
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Glad we've got that sorted out.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, I can't do this forever.
  
 
@@ -1460,20 +1296,12 @@ I suppose it wouldn't hurt to make a dramatic gesture.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did she just come from the sky?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A mysterious but familiar-looking oni!
  
 
@@ -1581,20 +1409,12 @@ Pleasure.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A magifender girl...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just what is going on here...
  
 
@@ -1650,20 +1470,12 @@ I see! I had no idea that oni legends told of such things!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oni Cure, huh.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So, like magical girls, but oni...?
  
 
@@ -1896,21 +1708,13 @@ Understood.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I see.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I...still don't get it.
  
 **Mash:**
@@ -1972,20 +1776,12 @@ Say, after we've beaten all these fake oni?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Good point!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is it just me, or are we totally surrounded!?
  
 
@@ -2033,20 +1829,12 @@ I'm such a fan!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yup, she's Oni Cure all right.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Smile and nod... Just smile and nod...)
  
 
@@ -2085,42 +1873,26 @@ I'll hold him off.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I believe in you, Magifender Girl!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Sorry, Magifender Girl, but thanks!
  
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I believe in you, Magifender Girl!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Sorry, Magifender Girl, but thanks!
  
 
@@ -2194,11 +1966,7 @@ Master!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go!
  
 
@@ -2293,11 +2061,7 @@ You've already met the magifender oni, right?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm sorry, who are you?
  
 
@@ -2371,11 +2135,7 @@ Louhi of the Finns, and...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And?
  
 **Sitonai:**
@@ -2390,11 +2150,7 @@ They say she's one of the Eastern Dragon Slayers.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sitonai of the Ainu?
  
 **Sitonai:**
@@ -2467,20 +2223,12 @@ Anyway, welcome to my secret hideout!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm Fujimaru.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nice to meet you, Sitonai.
  
 
@@ -2665,11 +2413,7 @@ Yes, I do. The Great Oni's power comes from gold.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Gold?
  
 **Sitonai:**
@@ -2679,11 +2423,7 @@ Yes. Gold.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Aha! From the mine!
  
 **Sitonai:**
@@ -2788,20 +2528,12 @@ What do you think, Master?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go for the gold.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm not losing anyone if I can help it.
  
 
@@ -2927,11 +2659,7 @@ What would you have us do, Master?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Let's give it a shot.
  
 **Sitonai:**
@@ -2941,11 +2669,7 @@ Be warned, I'm very strong.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We have to prove we have what it takes.
  
 **Sitonai:**
@@ -3367,20 +3091,12 @@ It appears to be extremely popular with other Servants, Senpai!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Those are Chaldean Servants, right!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do they think they're still in Hawaii on vacation!?
  
 
@@ -3442,20 +3158,12 @@ That merry-go-round is leeching a tiny amount of magical energy from every Serva
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You mean that merry-go-round with all the pumpkins?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So if we don't stop it, the Great Oni's gonna get stronger?
  
 
@@ -3509,20 +3217,12 @@ Mwahaha...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on, tell the truth...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How do you really feel?
  
 
@@ -3620,20 +3320,12 @@ Come, Master! We should retreat before they overwhelm us with sheer numbers agai
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't think there's as many this time...
  
 
@@ -3746,20 +3438,12 @@ Shuten could pull that off, but you just look ridiculous. If you wanna devour th
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um, Ibaraki-Douji...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh, yeah, that's right. She's, erm...hungry. That's all it is. Yep.
  
 
@@ -3824,20 +3508,12 @@ Queen Medb was already a formidable opponent on her own! If we face more powerfu
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That voice!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that...!?
  
 
@@ -3905,11 +3581,7 @@ Magifender Girl is on the scene again!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She totally did.
  
 **Ibaraki-Douji:**
@@ -3925,11 +3597,7 @@ Sooo cooooool!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It might be stock footage.
  
 **Mash:**
@@ -4011,20 +3679,12 @@ I guess this mysterious Magifender Girl can help with that.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Got it.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Then let's stop Gold Medb together!
  
 
@@ -4060,20 +3720,12 @@ And she has large oni backing her up this time!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Time to fight!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's do this, Gold Servant Medb!
  
 
@@ -4130,20 +3782,12 @@ as far as I know.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Let's go get the gold fragment.
  
 
@@ -4228,20 +3872,12 @@ She almost reminds me of Shuten...!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Not saying anything... Nope...)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Bite tongue with all your might)
  
 
@@ -4319,11 +3955,6 @@ Even oni aren't completely heartless! Hahahahaha!
 
  
 ## EP 4: Spin! Spin! The Terrifying Teacups!
-<<<<<<< HEAD
-=======
- 
-[charaSet B 9002001 1 "Amakusa Shirou"
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 
  
 **Semiramis:**
@@ -4701,11 +4332,7 @@ I freakin' hate it! You agree, right, Master!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I thought it was fun. I don't see the problem.
  
 **Blackbeard Oni:**
@@ -4716,11 +4343,7 @@ Does nobody here understand me!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (...I wish I could ride that with Mash...)
  
 **Blackbeard Oni:**
@@ -4866,20 +4489,12 @@ S-still, it must have taken a lot of courage for him to confess his feelings for
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait, what!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You know you don't have to take him seriously, right!?
  
 
@@ -4935,11 +4550,7 @@ It is not entirely unpleasant to hear a confession of love directed my way...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Officer! This one, right here!
  
 
@@ -5050,20 +4661,12 @@ Don't worry. I'll make sure you have plenty of fun this time around.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That voice!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's back!?
  
 
@@ -5125,20 +4728,12 @@ Magifender Girl is on the scene again!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Magifender Girl! You came to help us again!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There's that stock footage!
  
 
@@ -5196,11 +4791,7 @@ there's no point in dragging this out!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ohhh, so that's why you went to your third Ascension!
  
 
@@ -5235,11 +4826,7 @@ That sounds awesome!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Twin!
  
 **Magifender Girl:**
@@ -5249,11 +4836,7 @@ Between the two of us, I bet we could rip that gold from him niiice and easy.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do it, Magifender Girl!
  
 **Magifender Girl:**
@@ -5618,20 +5201,12 @@ That Heroic Spirit...in the red coat...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You mean Emiya? What about him?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Have you met him before or something, Sitonai?
  
 
@@ -5682,20 +5257,12 @@ so I thought I would refrain.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You sure? Now's a good chance to eat, since the oni aren't bothering us.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Having something to eat would be a good way to rest.
  
 
@@ -5778,11 +5345,7 @@ I didn't know you were here too! What a coincidence! I guess this is my reward f
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Shuten-Douji?
  
 **Shuten-Douji:**
@@ -5793,11 +5356,7 @@ Fancy seeing you here, Master.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So it's actually, uh, you this time?
  
 **Shuten-Douji:**
@@ -5863,11 +5422,7 @@ I brought you a plate of curry rice.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ooh, curry. Thanks!
  
 **A：:**
@@ -5877,11 +5432,7 @@ Not at all!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You know you don't always have to try so hard, okay?
  
 **A：:**
@@ -5922,11 +5473,7 @@ Uh, yes. That is...quite the coincidence.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Cough, cough)
  
 
@@ -6091,20 +5638,12 @@ You know, for some reason, I get the sense it's best if we don't look too closel
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Never mind what they look like!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 First things first: we've gotta get out of here!
  
 
@@ -6135,20 +5674,12 @@ That voice! It's Shuten&ndash;I mean, never mind!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You came to help us yet again!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oni Cure!
  
 
@@ -6287,20 +5818,12 @@ I think they'd get along really well if they met.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh, yeah, I'm sure they would.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We, uh, may never know...
  
 
@@ -6338,20 +5861,12 @@ Then I shall scout the area and gather information! I have yet to fulfill my shi
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That'd be great. Thanks, .
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, we'll see you back at the cabin then.
  
 
@@ -6489,20 +6004,12 @@ You're from Japan, right? Don't they have hedge mazes out in the suburbs... Oh, 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mirror houses and escape rooms are very different.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm sure you'll get it when you see it.
  
 
@@ -6557,20 +6064,12 @@ Uh... Where's the exit?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Right there with you.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Welp, we're all lost now. That didn't take long.
  
 
@@ -6623,20 +6122,12 @@ There's no telling when the attraction manager might show up, and we don't want 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll keep an eye out, too.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll watch your back.
  
 
@@ -6800,20 +6291,12 @@ If she's not, I can't imagine what else she could be.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is Sitonai.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's Sitonai, a Servant we met here.
  
 
@@ -6833,20 +6316,12 @@ Nice to meet you, Real Blackbeard.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's a long story!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So there was a piece of gold that looked like you...
  
 
@@ -6894,20 +6369,12 @@ I cannot hear your voice... I cannot hear your song... Where are you, my beloved
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh boy, look who it is...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Pretty sure I know who those Servants are!
  
 
@@ -7054,20 +6521,12 @@ It came from behind us...near that four-way intersection we saw before! Master!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go check it out!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on, let's hurry!
  
 
@@ -7090,20 +6549,12 @@ It looks as though he was stabbed in the back...with a very sharp blade of some 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Blackbeard!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's dead!
  
 
@@ -7128,20 +6579,12 @@ Phew! I live!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm glad you're okay.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you sure you're all right?
  
 
@@ -7338,20 +6781,12 @@ Am I wrong?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Jekyll?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hang on, let's not
  
 
@@ -7370,20 +6805,12 @@ I'm a Rider, remember? You really think I could conceal my presence and sneak up
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Helping or hurting, Phantom? Helping or hurting?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you TRYING to make this worse!?
  
 
@@ -7441,20 +6868,12 @@ We've got no choice but to fight!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait!!!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Slow down, all of you!
  
 
@@ -7685,20 +7104,12 @@ then it would go nicely with my wine.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That voice!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I thought she'd be showing up soon!
  
 
@@ -7729,11 +7140,7 @@ Can I watch her fight from here, Master!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're all gonna fight together!
  
 **Ibaraki-Douji:**
@@ -7744,11 +7151,7 @@ That sounds good too!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How're you gonna be Twin Oni Cure if you don't fight side by side!
  
 **Ibaraki-Douji:**
@@ -7987,11 +7390,7 @@ Or so I am told.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Like a bird!
  
 **Ibaraki-Douji:**
@@ -8001,11 +7400,7 @@ A bird, huh.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Bet you could see pretty far away from up there.
  
 **Ibaraki-Douji:**
@@ -8080,20 +7475,12 @@ Mwahahaha!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Hm? Her “mwahaha” sounds a little lackluster...)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Sounds like she needs more practice. Mwahaha.)
  
 
@@ -8167,20 +7554,12 @@ I was, right?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh, yeah, just your imagination.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It was just a passing jaguar. Nothing to worry about.
  
 
@@ -8326,20 +7705,12 @@ In which case, Lady Mash may be right, and we might be playing right into the en
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Got it!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, it'd be easy to get surrounded here!
  
 
@@ -8421,20 +7792,12 @@ They appear to be even stronger than the last ones! Senpai, I think you should r
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That voice... No way...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There it is! I knew this was coming!
  
 
@@ -8479,20 +7842,12 @@ Never means never!!!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Salieri...!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This gold oni must have copied Salieri's form!
  
 
@@ -8736,20 +8091,12 @@ Sorry I'm late, Master! Looks like the odds are really stacked against you, huh?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Good to see you two again!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Welcome back to the, uh, party!
  
 
@@ -8858,20 +8205,12 @@ Phew. Oh, my apologies. The battle was so intense that I could not help but sigh
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm fine, thanks.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So all that's left now is...
  
 
@@ -8992,20 +8331,12 @@ When did you start taking requests?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay, Salieri.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You don't have to write more music.
  
 
@@ -9111,20 +8442,12 @@ That does not make sense...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How about we just wait for night now?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So I guess we'll be facing this parade for our last operation.
  
 
@@ -9251,20 +8574,12 @@ In retrospect, we probably should have expected it to turn into a fight at the d
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh, all hands, prepare for battle!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Everyone stay alert!
  
 
@@ -9455,20 +8770,12 @@ You had a perfect opportunity for a snappy one-liner there. Now it's gone. (Sigh
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That voice!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I thought it was about that time!
  
 
@@ -9643,11 +8950,7 @@ I am the lead vocalist for the rock band Great Oni Vermilion Dragon, and an inte
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Elisabeth...Japan...!?
  
 **Elisabeth JAPAN:**
@@ -9658,11 +8961,7 @@ They're there for a reason, you know!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Elisabeth JAPAN...!?
  
 
@@ -9760,20 +9059,12 @@ Who the hell are you guys!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Does she have amnesia or something?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did Elisabeth lose her memories?
  
 
@@ -9810,11 +9101,7 @@ Once the spell is ready, I'll activate it remotely, and it should repair her Spi
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's so vague it might just work...
  
 **Sitonai:**
@@ -9824,11 +9111,7 @@ I'm just talking about fixing a magecraft-based being with magecraft, you know?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can you really do that?
  
 **Sitonai:**
@@ -9862,20 +9145,12 @@ and I'm telling you all to shut up and get out!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Elisa!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The gold...!
  
 
@@ -9995,20 +9270,12 @@ Besides, you're the one who made the call to begin with!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Does that mean...)
  
 
@@ -10040,20 +9307,12 @@ I'm not giving that up! Idiot!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Never mind all that!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come back to us, Elisa!
  
 
@@ -10091,54 +9350,30 @@ Shut it, tiny!
  
 ## EP 10: The True Mastermind: The Golden Dragon!
  
-<<<<<<< HEAD
 **Narration:**
 When I came to, I found myself on a beach I didn't recognize.
 
  
 **Narration:**
-=======
-**Narration::**
-When I came to, I found myself on a beach I didn't recognize.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, it wasn't just the beach...
 I had never seen this country before at all.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I pushed myself up to my feet. I ached all over,
 but at least my arms and legs still worked.
 
  
-<<<<<<< HEAD
 **Narration:**
 I breathed into my hands to warm them up and tried to take stock of my situation.
 
  
 **Narration:**
-=======
-**Narration::**
-I breathed into my hands to warm them up and tried to take stock of my situation.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yup, I'm definitely stranded.
 The waves must have washed me up here.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's weirdly cold. Is this the North Pole or something?
 As I wondered where I may have ended up...
 
@@ -10147,20 +9382,12 @@ As I wondered where I may have ended up...
 Huh?
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I realized I didn't know who I was,
 or even what sort of Heroic Spirit I was.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All I remembered was my name, Elisabeth,
 and my dream to become an idol.
 
@@ -10204,50 +9431,29 @@ Haha, then again...
 ...maybe you're actually a real-life oni? Eh? Eh?
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's what he called me.
 An oni.
 
  
-<<<<<<< HEAD
 **Narration:**
 Oh, okay. Is that what I am? An oni?
 
  
 **Narration:**
-=======
-**Narration::**
-Oh, okay. Is that what I am? An oni?
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Aren't oni some kind of demon from the Far East?
 I guess if I look like one, that must be what I am.
 
  
-<<<<<<< HEAD
 **Narration:**
 That's what I was thinking when I told him that yes, I was an oni.
 
  
 **Narration:**
-=======
-**Narration::**
-That's what I was thinking when I told him that yes, I was an oni.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I did remember liking to bathe in blood,
 so I guess that makes me a blood-loving oni.
 
  
-<<<<<<< HEAD
 **Narration:**
 As soon as I said that...the old man turned white as a ghost and ran away.
 
@@ -10277,111 +9483,47 @@ But once I told them I was an oni who loved blood, they all just ran away. Some 
 
  
 **Narration:**
-=======
-**Narration::**
-As soon as I said that...the old man turned white as a ghost and ran away.
-
- 
-**Narration::**
-...The same thing happened in the mountains.
-
- 
-**Narration::**
-After I left the beach, I walked and walked and walked until I ended up deep in the mountains.
-
- 
-**Narration::**
-There, I met someone new. I thought I would finally have someone to talk to, but they ran away the second they saw me.
-
- 
-**Narration::**
-They thought I was a man-eating oni and ran off, screaming about it.
-
- 
-**Narration::**
-At first, everyone I met was really nice to me. They'd ask me what a young girl like me was doing here all by myself.
-
- 
-**Narration::**
-But once I told them I was an oni who loved blood, they all just ran away. Some even threw rocks at me.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nobody stopped for me.
 Nobody turned back to look at me.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I hate this. I don't want to be all alone.
 I like crowds and noise. I miss people.
 
  
-<<<<<<< HEAD
 **Narration:**
 ...I want someone to hear me sing.
 
  
 **Narration:**
-=======
-**Narration::**
-...I want someone to hear me sing.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I miss people.
 I want to sing for someone.
 
  
-<<<<<<< HEAD
 **Narration:**
 I kept turning that over in my head as I walked along the mountain until...
 
  
 **Narration:**
-=======
-**Narration::**
-I kept turning that over in my head as I walked along the mountain until...
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...What was that tunnel called again?
 The Seikan Tunnel?
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Anyway, I ended up in a really long, really dark tunnel.
 It was kind of claustrophobic, but I kept walking anyway.
 
  
-<<<<<<< HEAD
 **Narration:**
 Eventually, I found a huge expanse of land on the other side...
 
  
 **Narration:**
-=======
-**Narration::**
-Eventually, I found a huge expanse of land on the other side...
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...except it was incredibly cold.
 Freezing cold.
 
  
-<<<<<<< HEAD
 **Narration:**
 Apparently snow had fallen while I was inside the tunnel. I must have gone really far north.
 
@@ -10395,35 +9537,15 @@ And then it happened.
 
  
 **Narration:**
-=======
-**Narration::**
-Apparently snow had fallen while I was inside the tunnel. I must have gone really far north.
-
- 
-**Narration::**
-And then it happened.
-
- 
-**Narration::**
-...I don't really know how far I'd been walking by then.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I do remember that I couldn't keep going...
 That I didn't want to keep going.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I hated how cold it was. I hated freezing all alone.
 I hated being hit with stones.
 
  
-<<<<<<< HEAD
 **Narration:**
 I hated that there was no one to talk to, that I was alone, and that everyone I encountered always ran away scared.
 
@@ -10437,21 +9559,6 @@ But then...a voice spoke to me! Reached out to me!
 
  
 **Narration:**
-=======
-**Narration::**
-I hated that there was no one to talk to, that I was alone, and that everyone I encountered always ran away scared.
-
- 
-**Narration::**
-I was sick of being mistaken for an oni.
-
- 
-**Narration::**
-But then...a voice spoke to me! Reached out to me!
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Something beautifully, beautifully shiny!
 
  
@@ -10469,11 +9576,7 @@ I see that you too have desire in your heart.
 You will not be able to resist my gift's allure.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And then, that shining gold started to cover my whole body...
 
  
@@ -10567,20 +9670,12 @@ In fact, my whole body hurts!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Welcome back, Elisa.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Want to sing a song while we're all here?
  
 
@@ -10690,20 +9785,12 @@ So, then...does that mean he took the gold and ran!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That familiar...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come to think of it, what is he, anyway!?
  
 
@@ -10726,20 +9813,12 @@ Hm? Why are you looking at me, Oni Cure?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Ohh, now I get it.)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Having a familiar would make it more authentic!)
  
 
@@ -10754,11 +9833,7 @@ I can find his trail by following the magical energy the gold emits! This way!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on, let's hurry!
  
 
@@ -10877,20 +9952,12 @@ Does this mean all that gold fed on its own avarice...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Prepare for battle!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're going up against a dragon... Get ready, everyone!
  
 
@@ -10934,20 +10001,12 @@ Sounds pretty impressive.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did you say Kamuy?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Does that mean he's a Divinity from the same place as you?
  
 
@@ -10995,20 +10054,12 @@ Her family is primarily known for their heavy involvement in Holy Grail Wars, an
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Holmes!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I was almost sure we weren't gonna see you this time...
  
 
@@ -11111,20 +10162,12 @@ If...if only I'd never materialized here...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay. It's not like you meant for all that to happen.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If you hadn't been here, we never could have saved Elisa.
  
 
@@ -11274,20 +10317,12 @@ but I have returned with reinforcements!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Fantastic job!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There's no way we can lose now!
  
 
@@ -11393,11 +10428,7 @@ Berserker is the strongest!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Everyone, prepare for battle!
  
 
@@ -11433,20 +10464,12 @@ Was that...Gilgamesh's Gate of Babylon?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's over now.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You all did great!
  
 
@@ -11572,11 +10595,7 @@ Anyway, hope you don't mind if I stick around like this a little bit longer, swe
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Of course not. I'm glad to have you here!
  
 **Shuten-Douji:**
@@ -11586,11 +10605,7 @@ Well, aren't you just sinfully sweet?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um... Why's Haku back again?
  
 **Shuten-Douji:**

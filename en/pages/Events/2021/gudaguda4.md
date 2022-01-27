@@ -80,21 +80,13 @@ And as long as we've been squatting in this little area next to the boiler room,
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How long has it been since you started squatting here?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Eh, I think it'll work out.
  
 
@@ -211,11 +203,7 @@ Geez, as if you weren't already treating her like a child. Come on, Alter me, yo
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So this is the strange box?
  
 **Chacha:**
@@ -226,11 +214,7 @@ Little Okita might've said it seemed off to her.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you sure she'll be okay on her own?
  
 **Chacha:**
@@ -290,21 +274,13 @@ Da Vinci may be very forgiving, but even she's going to be upset if you break th
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh... Is it just me, or is the box starting to glow?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm getting serious GUDAGUDA vibes here!
  
 
@@ -402,21 +378,13 @@ Also, are you even sure the room next door is a boiler room? Looks like some sor
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You guys built another tearoom without asking?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hope you guys don't get in trouble for this unauthorized tearoom...
  
 
@@ -524,11 +492,7 @@ Geez, as if you weren't already treating her like a child. Come on, Alter me, yo
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So this is the strange box?
  
 **Chacha:**
@@ -539,11 +503,7 @@ Little Okita might've said it seemed off to her.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you sure she'll be okay on her own?
  
 **Chacha:**
@@ -603,21 +563,13 @@ Sion may be very forgiving, but even she's going to be upset if you break this b
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh... Is it just me, or is the box starting to glow?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm getting serious GUDAGUDA vibes here!
  
 
@@ -702,11 +654,7 @@ Thank goodness... It looks like you're all right.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...How about you, Mash? Are you all right?
  
 **Mash:**
@@ -716,11 +664,7 @@ Oh yes, I'm fine!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Where are the others?
  
 **Mash:**
@@ -746,11 +690,7 @@ Neither do I.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who're you!?
  
 **???:**
@@ -760,11 +700,7 @@ Oh, did I scare you? Sorry about that.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hello.
  
 **???:**
@@ -805,20 +741,12 @@ And this is...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nice to meet you, Otora. I'm Fujimaru of Chaldea.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 My name's . We're both from Chaldea.
  
 
@@ -853,21 +781,13 @@ What do you think, Senpai? I know I would feel better if we weren't out here all
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That sounds great, Otora.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The more the merrier, right?
  
 
@@ -924,11 +844,7 @@ Ah! Senpai, look! I think that's a village up ahead!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Great! Now we can finally catch our breath.
  
 **Otora:**
@@ -938,11 +854,7 @@ Great! Now we can finally catch our breath.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Does it sound kind of noisy there to you too?
  
 **Otora:**
@@ -996,21 +908,13 @@ Pillaging soldiers... I wonder who those infantrymen swear loyalty to? I've neve
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go, Mash!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We've gotta save them!
  
 
@@ -1027,21 +931,13 @@ Especially for a bunch of people you've never even met before...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It doesn't matter! We still have to go!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We don't need to have met them to tell that they're in trouble!
  
 
@@ -1127,11 +1023,7 @@ You'd both be dead right now if I hadn't been around, you know.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're right. I'm sorry, and thank you!
  
 
@@ -1198,21 +1090,13 @@ And then there's the strange armor they're wearing...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 W-wow, she's really strong...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She took them all out on her own in no time flat!
  
 
@@ -1247,21 +1131,13 @@ Yes, we can't thank you two enough either. I've never seen clothes like yours be
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh, yeah, something like that... So, what is this place?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Basically. By the way, can you tell us where we are?
  
 
@@ -1299,11 +1175,7 @@ I know! Maybe there's a reason that we met, and maybe we could form a temporary 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Fine with me.
  
 **Mash:**
@@ -1313,11 +1185,7 @@ Just like that!? Your ability to roll with the punches always surprises me, Senp
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you think, Mash?
  
 **Mash:**
@@ -1422,11 +1290,7 @@ Did you just say Nobunaga died?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We have some history of our own with Nobbu&ndash;I mean, Lady Nobunaga.
  
 **Otora:**
@@ -1437,11 +1301,7 @@ I had no idea you were friends of the Oda family.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is something wrong, Otora?
  
 **Otora:**
@@ -1462,21 +1322,13 @@ Yeah, things've been real tough everywhere since Lord Nobunaga came back to life
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What was that?
  
 
@@ -1526,11 +1378,7 @@ Everyone knows the daimyo from Kai is one of the Nobunagas, that fool Oda Kippou
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Huh?
  
 **Otora:**
@@ -1540,11 +1388,7 @@ I can't believe that Oda managed to claim Kai...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...What happened to Takeda Shingen?
  
 **Mash:**
@@ -1587,21 +1431,13 @@ And in Owari, you've got the genuine article, Real-Deal Nobunaga! Though I'm sti
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hang on. Am I hearing this right?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are there really multiple Nobbus right now?
  
 
@@ -1650,21 +1486,13 @@ There certainly were a lot of surprising revelations yesterday, weren't there, S
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A Warring States period that's nothing but Nobbus...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're definitely on the GUDAGUDA train now...
  
 
@@ -1814,21 +1642,13 @@ Ahahahaha! Did you really think this would be enough to stop me? This is the fun
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Otora's certainly excited, isn't she?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well I feel reassured.
  
 
@@ -1928,11 +1748,7 @@ Well, well. I certainly wasn't expecting to run into Nagao Kagetora of Echigo he
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Whoa, so Otora is actually SUPER famous!?
  
 **Mash:**
@@ -1942,11 +1758,7 @@ Yes! Uesugi Kenshin was known as Echigo's god of war, the strongest general of t
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who's Nagao Kagetora?
  
 **Mash:**
@@ -2008,11 +1820,7 @@ I thought that was you!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Does this mean you're Chaldea's Nobbu?
  
 **Nobbu:**
@@ -2026,11 +1834,7 @@ I'm touched you came all this way to help me out!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nobbu from Chaldea? You look...different.
  
 **Nobbu:**
@@ -2068,21 +1872,13 @@ I'll reward you with anything you want!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's head to the front gate for now!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you okay with this, Kagetora?
  
 
@@ -2113,21 +1909,13 @@ Where's the boss of this place already!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That guy seems like bad news...if it even is a guy.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Does he seem kind of out of place for the Warring States period to anyone else?
  
 
@@ -2219,21 +2007,13 @@ Thanks! Now die!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is he immortal or something!?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How's he still alive when the blade went clean through his head!?
  
 
@@ -2280,21 +2060,13 @@ Let's do this, punks! I'll kill every last one of ya!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This isn't looking good...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is there something we can do?
  
 
@@ -2360,21 +2132,13 @@ Seems he's fine. Good. He did look cramped in there.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You know each other?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Katsuzou?
  
 
@@ -2445,21 +2209,13 @@ Hey, uh, Fujimaru...?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Want to form a contract with me, Mori?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Glad to have you on the team, Mori.
  
 
@@ -2497,11 +2253,7 @@ Are you sure about this, Fujimaru?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's fine. Any friend of Nobbu's is a friend of mine.
  
 **Mori Nagayoshi:**
@@ -2515,11 +2267,7 @@ It's fine. Any friend of Nobbu's is a friend of mine.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If I was in his position, I'd want someone to do the same for me.
  
 **Nagao Kagetora:**
@@ -2571,21 +2319,13 @@ You and I are both Fujimaru's Servants now, after all...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How'd we get here again?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You want me to rule this province?
  
 
@@ -2744,21 +2484,13 @@ Just tell me who we're gonna attack first, Master!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hmm, good question.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who should we attack first, Chief Retainer Mash?
  
 
@@ -2816,21 +2548,13 @@ There you have it, Senpai. Those are the three factions that surround our Chalde
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hmm, which one to start with...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hmm. They all seem pretty tough, on multiple levels...
  
 
@@ -3156,21 +2880,13 @@ It looks like there's a bunch of people gathered over there. I wonder what's goi
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go check it out.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm curious too.
  
 
@@ -3224,21 +2940,13 @@ Huh? Hang on. Where'd Nagayoshi go?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He was just here a moment ago.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Crap.
  
 
@@ -3287,21 +2995,13 @@ He won't listen to a word I say!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Whoa, whoa, whoa! Cut that out right now, Mori!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Stop it, Mori!
  
 
@@ -3335,21 +3035,13 @@ Refuse, and I'll cut you down where you stand!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okita!?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Man-Slayer Monster?
  
 
@@ -3374,21 +3066,13 @@ Senpai, something doesn't seem right with Okita!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's for sure.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm sure you'll get your swimsuit this yea... Uh... Wow, it has been a while, hasn't it?
  
 
@@ -3414,21 +3098,13 @@ Hang on, Master! I'll just go chop off her head and present it to you!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No heads, please. I don't need a spare.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't take her head, but watch out! Okita's no pushover!
  
 
@@ -3489,21 +3165,13 @@ But don't worry, I'll finish her off right now!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, don't!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Stop! Okita's a friend of ours!
  
 
@@ -3541,21 +3209,13 @@ We can't leave Echigo unoccupied forever, so I say we keep heading for the Imper
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's do it!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Like they say, the best strike is the one your opponent never sees coming.
  
 
@@ -3666,21 +3326,13 @@ This is Oni Musashi we're talking about, after all.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is the end of the line for you, Nobunaga of the Imperial Capital!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You've got a real soft spot for Mori, don't you, Nobbu?
  
 
@@ -3814,21 +3466,13 @@ Nobunaga of the Imperial Capital has disappeared...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Does this mean we won?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It looked like she still had something to say.
  
 
@@ -4002,11 +3646,7 @@ Besides, this is the land where she and Takeda Shingen crossed swords for as lon
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Where is Kagetora, anyway?
  
 **Infantrywoman Nobbu:**
@@ -4021,11 +3661,7 @@ You know, that's a good idea. Don't want to be caught with a full bladder once t
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That was one of the battles of Kawanakajima, right?
  
 **Chief Retainer Mash:**
@@ -4157,21 +3793,13 @@ Anyway, now that the enemy thinks we're retreating, it's time to bring out our r
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Real army?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is this your plan, Nobbu?
  
 
@@ -4196,11 +3824,7 @@ Meow! Wait. Meow?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go!
  
 **Chief Retainer Mash:**
@@ -4210,11 +3834,7 @@ Right! Chief Retainer Mash Kyrielight, preparing for battle!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Kagetora seems weirdly hype about this...
  
 **Chief Retainer Mash:**
@@ -4266,21 +3886,13 @@ Damn, that smarts... Felt like my insides were about to become my outsides.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You took the blow for me, Mori!?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mori, you saved my life!
  
 
@@ -4353,21 +3965,13 @@ You're the one who's dying today!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, break it up!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's enough, Mori!
  
 
@@ -4430,21 +4034,13 @@ Do you think he's still mad at Li Shuwen!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'd better go after him!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This can't end well for either of them!
  
 
@@ -4470,11 +4066,7 @@ Your talent for tea is really something. I guess you can't judge a book by its c
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I had no idea Mori was so into tea...
  
 **Infantrywoman Nobbu:**
@@ -4484,11 +4076,7 @@ Even Rikyu the tea lover praised his skill. And believe it or not, Katsuzou's a 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They almost seem like a grandfather and his grandson.
  
 **Chief Retainer Mash:**
@@ -4532,11 +4120,7 @@ What in the world are Mini Nobus?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 An excellent question.
  
 **Chief Retainer Mash:**
@@ -4546,11 +4130,7 @@ R-right, I'm sorry. I've gotten so used to this weirdness that it's hard to keep
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh...
  
 **Infantrywoman Nobbu:**
@@ -4837,11 +4417,7 @@ Are those the Mini Nobus you were talking about?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's them all right.
  
 **Chief Retainer Mash:**
@@ -4851,11 +4427,7 @@ It looks like they're fighting people from a different faction...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait. Is that...!?
  
 **Infantrywoman Nobbu:**
@@ -4895,21 +4467,13 @@ Let's mow 'em all down right now!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That could be Chaldea's Hijikata.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I know the Mini Nobus are our enemy right now, but...
  
 
@@ -4955,21 +4519,13 @@ Shut up! Don't tell me what to do!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Would you mind, Mori?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Please, Mori?
  
 
@@ -5017,21 +4573,13 @@ Who're you? You with these monk guys?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're here to help!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm  of Chaldea!
  
 
@@ -5121,11 +4669,7 @@ Sure they are. Didn't they just say so?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You can understand them, Hijikata?
  
 **Hijikata Toshizo:**
@@ -5135,11 +4679,7 @@ More or less.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you think, Nobbu?
  
 **Infantrywoman Nobbu:**
@@ -5194,21 +4734,13 @@ shouldn't it be somewhere a little farther away?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 G-O-L-D is why. I've got a good feeling.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I get the feeling there's lots of gold to be found there...
  
 
@@ -6158,11 +5690,7 @@ Huh? You mean there really was gold there?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I knew it...
  
 **Mori Nagayoshi:**
@@ -6180,11 +5708,7 @@ Hey, don't pester Master for money.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I almost feel bad about exploiting it this soon...
  
 **Infantrywoman Nobbu:**
@@ -6251,11 +5775,7 @@ I don't care about any of that boring army stuff either, so I'll stick with you 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay then, let's all give it our best out there!
  
 **Chief Retainer Mash:**
@@ -6265,11 +5785,7 @@ Right! We're counting on every one of you to help the Chaldea clan succeed!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Here's to bringing the whole country together!
  
 **Mori Nagayoshi:**
@@ -6351,21 +5867,13 @@ Hm? Isn't that...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You know this person?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's really only one guy!?
  
 
@@ -6431,11 +5939,7 @@ It looked to me like he was getting stronger with every step he took. I wonder i
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This isn't over yet!
  
 **Nagao Kagetora:**
@@ -6449,11 +5953,7 @@ Don't tell me he came back to life!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did he just start moving again!?
  
 **Mori Nagayoshi:**
@@ -6490,11 +5990,7 @@ You don't know who Ryouma and Oryou are? You been living under a rock your whole
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sakamoto!
  
 **Sakamoto Ryouma:**
@@ -6504,11 +6000,7 @@ Hey there. Glad we found you in time.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oryou! You're here, too!
  
 **Oryou:**
@@ -6540,21 +6032,13 @@ What do you think, Fujimaru?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's see where he's going with this.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's do what he says. I trust him.
  
 
@@ -6737,21 +6221,13 @@ GRRRAAAAAAHHH!!!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That was too close...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sakamoto?
  
 
@@ -6785,11 +6261,7 @@ You'd better shut your mouth now if you know what's good for you, snake woman!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Easy there, Mori. Just calm down, okay?
  
 **Mori Nagayoshi:**
@@ -6799,11 +6271,7 @@ Ah, whatever. I don't even care what an ugly snake woman like her has to say!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Please stop riling him up, Oryou.
  
 **Oryou:**
@@ -6865,21 +6333,13 @@ I can't see any other reason why you'd be trying to unify the whole country.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, yeah, I figured it was probably something like that.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I, uh...can't say I really thought it through that far...
  
 
@@ -6926,11 +6386,7 @@ They can definitely handle themselves, after all.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I hope Alter's okay...
  
 **Chief Retainer Mash:**
@@ -6940,11 +6396,7 @@ True, she can be a little spacey at times...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm a little worried about Izo.
  
 **Oryou:**
@@ -6982,11 +6434,7 @@ So I say we take advantage of this time to gather information and figure out a m
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Like what?
  
 **Nagao Kagetora:**
@@ -7000,11 +6448,7 @@ That would certainly work, assuming he has a Master.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So like, destroying his base or something?
  
 **Sakamoto Ryouma:**
@@ -7051,21 +6495,13 @@ You remind me of Lord Toyotomi somehow.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sakamoto's a skilled detective, so don't worry.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay, Mori. Sakamoto's a good guy. I promise.
  
 
@@ -7144,21 +6580,13 @@ I don't think it isn't working on him so much as he just isn't paying it any att
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's still headed this way!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe it's some kind of Noble Phantasm?
  
 
@@ -7199,11 +6627,7 @@ You don't know who Ryouma and Oryou are? Have you been living under a rock your 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sakamoto!
  
 **Sakamoto Ryouma:**
@@ -7213,11 +6637,7 @@ Hey there. Glad we found you in time.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oryou! You're here, too!
  
 **Oryou:**
@@ -7249,21 +6669,13 @@ What do you think, Fujimaru?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's see where he's going with this.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's do what he says. I trust him.
  
 
@@ -7446,21 +6858,13 @@ GRRRAAAAAAHHH!!!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That was too close...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sakamoto?
  
 
@@ -7494,11 +6898,7 @@ You'd better shut your mouth now if you know what's good for you, snake woman!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Easy there, Mori. Just calm down, okay?
  
 **Mori Nagayoshi:**
@@ -7508,11 +6908,7 @@ Ah, whatever. I don't even care what an ugly snake woman like her has to say!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Please stop riling him up, Oryou.
  
 **Oryou:**
@@ -7574,21 +6970,13 @@ I can't see any other reason why you'd be trying to unify the whole country.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, yeah, I figured it was probably something like that.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I, uh...can't say I really thought it through that far...
  
 
@@ -7635,11 +7023,7 @@ They can definitely handle themselves, after all.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I hope Alter's okay...
  
 **Chief Retainer Mash:**
@@ -7649,11 +7033,7 @@ True, she can be a little spacey at times...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm a little worried about Izo.
  
 **Oryou:**
@@ -7691,11 +7071,7 @@ So I say we take advantage of this time to gather information and figure out a m
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Like what?
  
 **Nagao Kagetora:**
@@ -7709,11 +7085,7 @@ That would certainly work, assuming he has a Master.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So like, destroying his base or something?
  
 **Sakamoto Ryouma:**
@@ -7760,21 +7132,13 @@ You remind me of Lord Toyotomi somehow.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sakamoto's a skilled detective, so don't worry.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay, Mori. Sakamoto's a good guy. I promise.
  
 
@@ -7875,21 +7239,13 @@ However it got here, we'll have to do something about it before we can invade Ou
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So what do we do now?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So, we just fall back for now?
  
 
@@ -7974,11 +7330,7 @@ Oh? You really think your little wannabe man-slayer club is gonna be much help h
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay then, let's get our invasion of Oumi started!
  
 **Hijikata Toshizo:**
@@ -7989,11 +7341,7 @@ Not every day you get an opportunity like this.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I still want to know what that wall was, honestly.
  
 **Nagao Kagetora:**
@@ -8220,11 +7568,7 @@ Huh? Th-that voice... Auntie!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm just glad you're okay.
  
 **Mori Nagayoshi:**
@@ -8243,11 +7587,7 @@ Well, if it isn't Nagayoshi of the Mori family. Are you still going around cutti
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Chacha has some ties to Oumi, right?
  
 **Infantrywoman Nobbu:**
@@ -8313,21 +7653,13 @@ You hear that, Fujimaru? Now we don't have to feel bad about wrecking this place
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait. I don't see why we have to fight&ndash;
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait, whaaat?
  
 
@@ -8376,21 +7708,13 @@ Lady Chacha. I'll make this quick and painless.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's enough, Mori. It's over now.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Enough of that, Mori.
  
 
@@ -8455,11 +7779,7 @@ Besides, I'm getting tired of being a lowly infantrywoman. Who knows? Maybe I'll
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I already told you! Take this province, and you've got yourself a promotion!
  
 **Infantrywoman Nobbu:**
@@ -8477,11 +7797,7 @@ Huh? You heard that? C-come on, I was just kidding, okay? Please tell me you're 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Look Mash, we caught a traitor red-handed.
  
 **Chief Retainer Mash:**
@@ -8565,11 +7881,7 @@ Indeed, I am none other than the genuine Oda Nobuna&ndash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's...
  
 
@@ -8640,11 +7952,7 @@ You're the last one I want to hear that from!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's fall back for now!
  
 **Chief Retainer Mash:**
@@ -8662,11 +7970,7 @@ Everyone, fall back!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 H-how do we tell which one's the real one!?
  
 **Infantrywoman Nobbu:**
@@ -9004,11 +8308,7 @@ Hey! Get offa me! I swear, why do you always have to make this so hard!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I didn't know you were here too, Nobukatsu.
  
 **Oda Nobukatsu:**
@@ -9018,11 +8318,7 @@ Of course! Wherever Sister goes, I go!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Anyway, this takes care of our Owari conquest nicely.
  
 **Infantrywoman Nobbu:**
@@ -9150,11 +8446,7 @@ Ahahahahahaha!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is something wrong?
  
 **Nagao Kagetora:**
@@ -9164,11 +8456,7 @@ No... It's nothing.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 In spite of everything, those two really get along well, don't they?
  
 **Nagao Kagetora:**
@@ -9214,11 +8502,7 @@ Nob-booyaaah!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, this is about what I expected.
  
 **Nagao Kagetora:**
@@ -9228,11 +8512,7 @@ Ahahaha, this is a nightmare! Let's hurry and burn it all to the ground!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nob-booyaaah!
  
 **Chief Retainer Mash:**
@@ -9325,11 +8605,7 @@ Thanks for coming, everyone! This is Summer Nobbu of Suruga slash Demon King of 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? That's weird...
  
 **Chief Retainer Mash:**
@@ -9339,11 +8615,7 @@ It looks like this Summer Nobunaga isn't interested in fighting anymore...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Best concert ever.
  
 **Oda Kippoushi:**
@@ -9393,11 +8665,7 @@ There might be a reason you've been summoned here as well, Echigo's god of war.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why's that?
  
 **Oda Kippoushi:**
@@ -9407,11 +8675,7 @@ Go on then, Suruga me. Tell us what you know.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Swimsuit Nobbu being serious...you really are a Nobunaga.
  
 **Mori Nagayoshi:**
@@ -9454,11 +8718,7 @@ I see... Hey, have you guys ever heard of a religious group revolving around “
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think they're somewhere in the west?
  
 **Oda Kippoushi:**
@@ -9468,11 +8728,7 @@ Yeah, those were the monks lecturing people back near the castle. They're part o
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That sounds vaguely familiar.
  
 **Chief Retainer Mash:**
@@ -9526,21 +8782,13 @@ Oh? I'm surprised you noticed me.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What the!? Who the heck are you!?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Caster of Makuzu!?
  
 
@@ -9590,21 +8838,13 @@ We can't hurt him, but he can't hurt us, either.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So our attacks won't work on him at all?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So he can't attack us, either?
  
 
@@ -9788,11 +9028,7 @@ We've been looking into the matter ourselves, and it seems there's someone in Ou
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who could that be?
  
 **Nagao Kagetora:**
@@ -9807,11 +9043,7 @@ Whoever this person is, they must be a very powerful Heroic Spirit.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe it's the person who defeated Shibata Katsuie back when he was alive?
  
 **Chief Retainer Mash:**
@@ -9922,11 +9154,7 @@ Though I don't know who's worse...them, or my Demon King self.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you mean by that?
  
 **Summer Nobbu:**
@@ -9940,11 +9168,7 @@ Anyway, I'd better get going.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Will you help us too, Summer Nobbu?
  
 **Mori Nagayoshi:**
@@ -9982,11 +9206,7 @@ But hey, in the meantime, feel free to use my Kabuki Nobbus however you like!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You know, I still don't know what Kabuki Nobbus even are.
  
 
@@ -10075,21 +9295,13 @@ We may have no choice if we can't find a better way.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 An all-or-nothing approach, huh...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is there really nothing better we could try?
  
 
@@ -10247,11 +9459,7 @@ Ouch. I didn't know Gonroku was still hung up on that.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hung up on what?
  
 
@@ -10316,21 +9524,13 @@ I think we should be able to defeat him now!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Then let's get him!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I feel a little bad hitting him when he's down, but it can't be helped!
  
 
@@ -10434,21 +9634,13 @@ My liege! Nobunaga of Azuchi, watch over me! I promise I will devote all my stre
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He can still fight!? Seriously!?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Be careful, everyone!
  
 
@@ -10763,21 +9955,13 @@ Oryou has no idea where that dumbass could be.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All right then, to Azuchi!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's all give it everything we've got!
  
 
@@ -10896,21 +10080,13 @@ Well this sucks. If I'd known it was gonna be like this, I'd have gone with the 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's just keep going for now!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hmm. Something does seem off about this...
  
 
@@ -10936,21 +10112,13 @@ Dammit! How the hell'd an old man like you figure out what I was up to?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Izo!?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Th-that was too close...
  
 
@@ -11035,21 +10203,13 @@ Next time I see you, his head'll be decorating my spear!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks, guys!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Try to leave his head on his shoulders, if you can.
  
 
@@ -11129,21 +10289,13 @@ Then it won't be much longer until we meet Demon King Nobunaga for ourselves. Le
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're really getting into all this, aren't you, Mash?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hah hah hah. If my Chief Retainer insists, I suppose I had best oblige.
  
 
@@ -11174,21 +10326,13 @@ Heh. Now that a Demon King and a god of war are about to do battle, this truly f
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Th-that's Demon King Nobunaga...?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That seems excessive, even for Nobbu...
  
 
@@ -11294,21 +10438,13 @@ Now...experience the power of the Demon King of the Sixth Heaven!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Be careful, everyone!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's do this thing!
  
 
@@ -11406,21 +10542,13 @@ I'm just glad she's on my side.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did...did we win...?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Demon King Nobunaga...
  
 
@@ -11445,21 +10573,13 @@ Now that the Demon King, the enemy and tormentor of all living things, is about 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What are you talking about?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What are you trying to say?
  
 
@@ -11509,21 +10629,13 @@ Did you all shrink a little?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 S-somebody get her a mirror!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 N-Nobbu! Now YOU'RE Demon King Nobbu!
  
 
@@ -11578,21 +10690,13 @@ Keep it together. There's nothing to worry about. All the different Lady and Lor
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So that's what happened...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh?
  
 
@@ -11650,21 +10754,13 @@ Indeed I didn't, my lady. I have information to share about our true enemy.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 True enemy? What true enemy?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What are you talking about?
  
 
@@ -11709,21 +10805,13 @@ What should we do, Senpai?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All right, we'll meet with him.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, we'll hear what he has to say.
  
 
@@ -11806,11 +10894,7 @@ And do you now plan to make us your next target after Demon King Nobunaga?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why were you guys fighting Demon King Nobunaga anyway?
  
 **Caster of Makuzu:**
@@ -11824,11 +10908,7 @@ Instead, our land was invaded and anyone that got in the way killed blindly. A t
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Of course we want peace, but...
  
 **Caster of Makuzu:**
@@ -11891,21 +10971,13 @@ Especially since we still have a ways to go before we get to the Makuzu headquar
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sounds good to me.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's do it. I'm starving!
  
 
@@ -11945,21 +11017,13 @@ We could never live this good without the great Lord Makuzu.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you mean?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Then where'd all the food and booze come from?
  
 
@@ -12013,21 +11077,13 @@ Still, I couldn't help but notice that simply getting by seemed to be all those 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So that's what they consider paradise, huh...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't know if I agree with their idea of paradise.
  
 
@@ -12124,21 +11180,13 @@ Servant battles, Fujimaru'll pretty much have to be there.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll be counting on you guys out there.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The Makuzu headquarters, huh...
  
 
@@ -12205,21 +11253,13 @@ The hell? Are you threatening us, punk? You know what happens to people who mess
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mori! Cool it!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Stop it, Mori!
  
 
@@ -12389,21 +11429,13 @@ My lord has been expecting you. Please, right this way.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is it...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The lord of the Makuzu...
  
 
@@ -12421,21 +11453,13 @@ Welcome, welcome, clanspeople of Chaldea.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So that's the leader of Makuzu...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The High Priest of Makuzu, huh...
  
 
@@ -12492,21 +11516,13 @@ All we want is to use his glory to build a genuine paradise upon this earth...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You mean with divine power?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can you be a little more specific?
  
 
@@ -12847,21 +11863,13 @@ They seem to have been designed to rob Servants of their strength.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't know what we're gonna do now...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I wonder if there's something we haven't tried yet...
  
 
@@ -12899,21 +11907,13 @@ Yes, we were. Sorry for not telling you sooner.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh!?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sakamoto!?
  
 
@@ -13066,11 +12066,7 @@ Basically, he ignored the contest to unite Japan entirely so he could sneak in a
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That devious bastard!
  
 **Chief Retainer Mash:**
@@ -13080,11 +12076,7 @@ You said it, Senpai! That goes against every written and unwritten rule in the e
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Aha. And because he wasn't a Nobbu...
  
 **Chief Retainer Mash:**
@@ -13126,11 +12118,7 @@ That would be me, Maxwell's Demon.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that like a famous demon?
  
 **Chief Retainer Mash:**
@@ -13140,11 +12128,7 @@ I think it was a fictional demon created for a thought experiment.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You mean like in that manga and novels and stuff?
  
 **Maxwell:**
@@ -13279,21 +12263,13 @@ Indeed. Frankly, as I am a mere imagined demon who wishes to create a true perpe
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's the high priest!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let these kids go right now!
  
 
@@ -13402,21 +12378,13 @@ This limitless power will let me save even more living creatures!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're off your rocker...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The ends don't justify the means!
  
 
@@ -13483,21 +12451,13 @@ It's frogshit that these guys get infinite respawns. Tomoe would go ballistic on
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You heard Sakamoto, guys! Let's all fall back for now!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's come back once we've come up with a plan!
  
 
@@ -13617,21 +12577,13 @@ Don't worry, I'm sure I can at least take it down with me. Remember, I'm still t
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can't just leave you behind, Kagetora!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But we still have to save the children!
  
 
@@ -13672,21 +12624,13 @@ As a leader, your job is to decide what those sacrifices will be. Now is the tim
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I don't agree with that.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 When it's about people's lives, there's no such thing as a small sacrifice.
  
 
@@ -13711,21 +12655,13 @@ Especially given how you're just an ordinary, weak, powerless human.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I mean, it's just more fun having more friends around, right?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Because I know everyone else has my back.
  
 
@@ -13797,21 +12733,13 @@ One that is worth risking everything I have to fulfill!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Kagetora...!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You won't have to do it alone! We'll all help!
  
 
@@ -14242,21 +13170,13 @@ Sorry I took so long to get here, everyone.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nobbu!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I knew you'd come through for us!
  
 
@@ -14355,21 +13275,13 @@ Indeed, I'm supplying them with all the magical energy necessary. Don't worry, I
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that your Noble Phantasm, Caster!?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Caster, you're bleeding!
  
 
@@ -14565,21 +13477,13 @@ I guess this role suited me better than I thought. Plus, I didn't have to make t
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks for everything, Kagetora.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Will we see you again someday, Kagetora?
  
 
@@ -14738,21 +13642,13 @@ it's because a major abnormality took place in 1582.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 1582...?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Isn't that the year Honnoji went up in flames!?
  
 
@@ -14796,21 +13692,13 @@ Seeing as I'm an amalgamation of many possible Nobunagas, all linked to this Sin
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait, hang on. If you disappear...what happens to Chaldea's Nobbu?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But...if you go, then...
  
 
@@ -14940,21 +13828,13 @@ Master, since I'm staying here and all.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mori...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're not coming with us?
  
 
@@ -15007,21 +13887,13 @@ Oh, and do not worry about Chacha and the other Servants. I have brought them ho
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Lady Nobunaga... I'm sure we'll meet again someday!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll be waiting for you, Nobbu!
  
 
@@ -15333,21 +14205,13 @@ Okita hasn't quite been herself ever since Nobunaga went away, has she?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I guess she misses her...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They might've argued a lot, but deep down, they really were great friends.
  
 
@@ -15542,11 +14406,7 @@ Did you pray to Bishamonten for help or something?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Kagetora!
  
 **Demon King Nobbu:**
@@ -15556,11 +14416,7 @@ Don't look at me. I didn't invite her.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hmm. I might have prayed to Bishamontenwhen I had that stomachache yesterday...
  
 **Nagao Kagetora:**
@@ -15619,21 +14475,13 @@ Those are MY pickles!!!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mori!? You're here too!?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Never mind the pickles now!
  
 
@@ -15741,21 +14589,13 @@ They can certainly be a little, um, noisy when they all get together like this..
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Me too.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That was a very GUDAGUDA event, huh?
  
 
@@ -15834,21 +14674,13 @@ Hahahahaha! Truly, there's no place like Chaldea!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Was that her Demon King form just now?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That was weird. Maybe I'm seeing things...
  
 
@@ -15970,11 +14802,7 @@ Hey, where's my name? I thought this side event was about me! Huh? They're just 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on, let's let her out. I think she's ready.
  
 **Infantrywoman Nobbu:**
@@ -15984,11 +14812,7 @@ Nah, traitors are supposed to commit seppuku. I'm pretty sure it's in the man-sl
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is your year, Okita. I believe in your swimsuit!
  
 **Chief Retainer Mash:**
@@ -16041,11 +14865,7 @@ That sort of things sounds right up my alley!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Great. I'm counting on you!
  
 **Okita:**
@@ -16056,11 +14876,7 @@ And your enemies won't know what hit them!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There's also always the Okita Santa way out of here...
  
 **Chief Retainer Mash:**
@@ -16148,11 +14964,7 @@ Is that so?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This Nobbu looks pretty bored.
  
 **Nagao Kagetora:**
@@ -16167,11 +14979,7 @@ I can understand why this one was too much for Owari alone to contain.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The floor in here is falling apart.
  
 **Chief Retainer Mash:**
@@ -16244,11 +15052,7 @@ Huh!? Who're you calling a brat, you old geezer!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All right, all right, no more of that.
  
 **Mori Nagayoshi:**
@@ -16258,11 +15062,7 @@ Tch. Fine, but be ready! Later, I'm gonna serve you the tastiest goddamn cup of 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Glad to have you back on board, Li Shuwen.
  
 **Li Shuwen:**
@@ -16394,21 +15194,13 @@ And I'm Emiyuki's wife, Iri-no-Kata!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Talk about a Sanada all-star lineup.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's sure hung onto that mask for a while, huh?
  
 
@@ -16499,21 +15291,13 @@ Senpai, I'm told there's a terrifying serpent god who lives in this cave cursing
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A serpent god, huh...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That sounds pretty awful.
  
 
@@ -16576,21 +15360,13 @@ Hahahahaha! A talking snake, huh? That's great! Hey, Master, break out the firew
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I feel like I've heard that voice somewhere before...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No way. Is that...?
  
 
@@ -16618,21 +15394,13 @@ Medusa... I never thought you would turn out to be the serpent god...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Welcome to the team!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You can run from GUDAGUDA, but you can't hide.
  
 
@@ -16669,21 +15437,13 @@ Then again, I guess I prefer that.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ah, I get it. Maeda Toshiie was a great spearman too.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A scarlet spear... Somebody likes to be the star of the show!
  
 
@@ -16788,21 +15548,13 @@ Senpai, there's a merchant from Ezo on her way here to see you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ezo? You mean, Hokkaido?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I wonder what she's got to sell... Salmon, maybe?
  
 
@@ -16965,21 +15717,13 @@ Senpai, I've been looking into the rash of kidnappings that have been taking pla
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Then what are we waiting for!?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Those kidnappers are going to pay for what they've done!
  
 
@@ -17044,21 +15788,13 @@ P-please, help me...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's playing dirty!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Dammit! Now what do we do?
  
 
@@ -17117,21 +15853,13 @@ Senpai, may I suggest we invite Lord Hassandayu to help the Chaldea clan in a mo
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just what I was thinking.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How about it, Hassandayu?
  
 
@@ -17186,21 +15914,13 @@ Business was booming at first, but then another restaurant calling itself the Sp
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The Sparrow's Perch, huh... I've got a good feeling about the food there.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't know why. Kykeon's yummy.
  
 
@@ -17258,21 +15978,13 @@ It's true. Kykeon can even be taken as medicine! It's that good for you! And I'm
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If you like it that much, Kagetora, then it's fine with me.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All right Medea, you've got yourself a deal.
  
 
@@ -17518,11 +16230,7 @@ Senpai, it seems as though the Houjou clan really did have a unit comprised of f
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I get the feeling it probably wasn't those colors though...
  
 **Houjou Tristan the Red:**
@@ -17532,11 +16240,7 @@ I knew I should have insisted one of us be curry brown. Ahh, woe is me...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I feel like I'm seeing red... Uh, double...
  
 **Houjou Mordred the Red:**
@@ -17580,21 +16284,13 @@ right for a Lancer to go around riding a horse!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What about a Lancer carrying around a bunch of swords, like you do?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't you call a horse for your Noble Phantasm?
  
 
@@ -17625,21 +16321,13 @@ I guess this is what I get for growing up and filling out on all that carnival f
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Where'd that come from, Demon King?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Pretty sure that's not how it works...
  
 
@@ -17685,21 +16373,13 @@ Get back! If the restraints on my dark power fail, it could plunge the entire Wa
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I, uh, think you dropped your eyepatch.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that the plot of your next doujin or something?
  
 
@@ -17763,21 +16443,13 @@ So he started it seven years earlier than I thought... Impressive. No wonder he 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 By the way, I can't help but notice you don't look very Alterish...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So what happened to the Alter who's supposed to be here?
  
 
@@ -17869,21 +16541,13 @@ So where'd you get that armor, anyway? Sakai? Otsu?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Watch out, Kippoushi! This guy's absurdly strong!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't think you can exactly buy it off a rack.
  
 
@@ -17992,21 +16656,13 @@ I am also the Roman Daimyo who rules the Roman Osaka Empire!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh, Your Imperial Highness, last I checked, you're not an Alter.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The greatest Roman Daimyo in Japan? ...Ow, my head...
  
 
@@ -18067,21 +16723,13 @@ Umu! The Eastern nation of Zipang, where gold adorns the land! What could be bet
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um, I'm afraid the information in that book is kind of&ndash;Okay, mostly wrong, Your Imperial Highness.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I guess there are a fair number of gold mines here, but that's all...
  
 
@@ -18133,21 +16781,13 @@ That's right, it is I! The sword with the power of the Counter Force: Rengokuken
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The sword!? The sword has been talking all this time!?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I thought Rengokuken had Nobbu's power, not the Counter Force's...
  
 
@@ -18174,21 +16814,13 @@ Dammit! I guess this is it!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on, Alter! Wake up!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? Is she...
  
 
@@ -18222,21 +16854,13 @@ Hm? Did Rengoku do something while I was asleep?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well...that might be understating it...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We think Rengokuken was controlling you.
  
 
@@ -18273,21 +16897,13 @@ Hey, it wasn't just you. I was pretty beat myself.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks, Rengoku.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're a good sword, Rengoku.
  
 
@@ -18312,21 +16928,13 @@ It's a good thing you showed up when you did. I don't know how much longer I'd'v
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What guys? Please tell me you don't mean
  
 
@@ -18356,11 +16964,7 @@ Master, you take the others and&ndash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No way! We're all going home together!
  
 
@@ -18445,11 +17049,7 @@ Still, I was really happy that you all came to find me. Joyful, even.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm just glad we were able to find you.
  
 **Okita Alter:**
@@ -18459,11 +17059,7 @@ Next time, I'll research my destination before I go, then I'll make a list of ev
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe we should stick a GPS on Rengoku...
  
 **H：Rengokuken:**

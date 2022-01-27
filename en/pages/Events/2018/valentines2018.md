@@ -47,20 +47,12 @@ You can cut me into pieces and eat me up later if you want to.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That would be a crime!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What is this, a dream?
 
 
@@ -76,11 +68,7 @@ Perhaps something like “The tiger now hath seized the gentle hind?”
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, Ms. K...
  
 **???:**
@@ -91,11 +79,7 @@ It is almost Valentine's Day.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can't remember...
  
 **???:**
@@ -126,11 +110,7 @@ No reason, I am simply here to wake you up.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 From you? That's rare.
  
 **Shakespeare:**
@@ -144,11 +124,7 @@ Unfortunately, as you may be aware, she's battling with chocolate at the moment.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Where's Mash?
  
 **Shakespeare:**
@@ -197,11 +173,7 @@ Well, there are also Servants who don't care much about this kind of occasion, b
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Would they be happy to get one from me?
 
 
@@ -227,11 +199,7 @@ I urge you to exercise care, Master.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wh-What's going on?
 
 
@@ -249,11 +217,7 @@ Shall we pursue them?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yes!
 
 
@@ -284,20 +248,12 @@ More than anything&ndash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This...smells like chocolate...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This... sweet fragrance...
 
 
@@ -322,11 +278,7 @@ Oh my, Master. Say, did you happen to see a chocolate sprinting around here?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...What did you say?
 
 
@@ -360,20 +312,12 @@ Now what do I do... I put some a secret spell on it that allows it to turn into 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's way too magical...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What kind of alchemist are you?
 
 
@@ -411,20 +355,12 @@ Let's use their scarily keen senses of smell derived from their unpopulari... I 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're behind this aren't you!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I know what your final Ascension looks like...
 
 
@@ -497,11 +433,7 @@ ARGH!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What was that?
  
 **Shakespeare:**
@@ -512,11 +444,7 @@ No wonder he rampaged across Okeanos.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 B-Blackbeard?
  
 **Shakespeare:**
@@ -655,20 +583,12 @@ I insist that I am innocent!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, guilty. You have no right to remain silent.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, arrest him. No need for a lawyer.
 
 
@@ -714,11 +634,7 @@ UGH!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 BLACKBEEEARD!
 
 
@@ -747,20 +663,12 @@ Chocolate is tyranny.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 WHO THE HECK DID YOU CALL?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, this is no joke right now!
 
 
@@ -786,20 +694,12 @@ WHAT A LOAD OF HORSE SHIT! A BIG STEAMING PILE OF SHIT! IT'S TYRANNY! TYRANNY I 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You've totally made it worse.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You already turn people off, and now...
 
 
@@ -820,20 +720,12 @@ You know, just the thought of putting love or hate into desserts is wrong! Don't
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's not a bad way to show people your affection.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There's no right or wrong in expressing your emotions.
 
 
@@ -895,20 +787,12 @@ I was going to have all kinds of fun with them...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Th-That's... Terrible!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Drake, get this guy!
 
 
@@ -932,11 +816,7 @@ Now this is getting even more interesting!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You are having too much fun with this!
  
 **Shakespeare:**
@@ -946,11 +826,7 @@ Of course I am! I am good with writing tragedies, but comedies like this that ca
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you really NOT the mastermind?
  
 **Shakespeare:**
@@ -983,11 +859,7 @@ For I will come back and annoy you till you choke!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks for that discouraging remark!
 
 
@@ -1029,11 +901,7 @@ Master, it seems with the blue sky in the background, anybody can look encouragi
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I wonder...
 
 
@@ -1048,20 +916,12 @@ I wonder...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Anything you want to say?
 
 
@@ -1137,20 +997,12 @@ Chocolate is dangerous, Master!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're... T-Too convincing!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ahh yes, I believe you...
 
 
@@ -1200,20 +1052,12 @@ Master. Don't forget that the future of mankind depends on you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But, everyone gets sulky without chocolate, right?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I feel like it's better to receive some.
  
 
@@ -1266,11 +1110,7 @@ I don't remember having those evil thoughts&ndash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you mean?
 
 
@@ -1303,11 +1143,7 @@ I made this chocolate using leftover ingredients, but I thought it would be bett
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mom's chocolate...
  
 **Shakespeare:**
@@ -1318,11 +1154,7 @@ Well, in Master's case, there is Ms. K.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yay! Chocolate!
  
 **Emiya:**
@@ -1387,11 +1219,7 @@ If I try to deceiv... I mean persuade her, she'll fire beams at me! No questions
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I guess power is justice...
  
 **Caesar:**
@@ -1401,11 +1229,7 @@ NO MORE VIOLENCE! Shouldn't we make that into a slogan and post it everywhere in
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's the best approach...
  
 **Shakespeare:**
@@ -1426,11 +1250,7 @@ Well, although it feels like I am just a pawn in the hands of the mastermind, it
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The mastermind!?
 
 
@@ -1471,20 +1291,12 @@ Hmm, sweet. This is good poison.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No more chocolate!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Any more calories will be dangerous for you!
 
 
@@ -1575,11 +1387,7 @@ You too, Diarmuid!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A witty remark would do now...
 
 
@@ -1606,11 +1414,7 @@ Ah, how can this be? It's sad, but all of this is part of my plan&mdash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I knew that.
  
 **Paracelsus:**
@@ -1621,11 +1425,7 @@ I am impressed that you noticed.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ah, yes.
  
 **Paracelsus:**
@@ -1656,20 +1456,12 @@ A deadline of Friday EOD means it's okay by Monday morning. Depending on the sit
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I see, you can't trust him!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Aren't you embarrassed for saying that?
 
 
@@ -1708,11 +1500,7 @@ Besides, if I do that, they'll kill me.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I know right...
 
 
@@ -1738,20 +1526,12 @@ How exceedingly logical of you!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is a little bit extreme, right?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Isn't this way of thinking a bit dangerous?
 
 
@@ -1767,11 +1547,7 @@ A mage like me even agonizes over the question if I should use spells like the o
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A girl?
  
 **Paracelsus:**
@@ -1786,11 +1562,7 @@ I'll do the same thing over and over again.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Whose wish did you grant?
  
 **Paracelsus:**
@@ -1821,11 +1593,7 @@ I will persuade (brainwash) you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did you just say brainwash?
  
 **Paracelsus:**
@@ -1835,11 +1603,7 @@ That's sad... I think you might've misheard.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What was that in the parentheses?
  
 **Paracelsus:**
@@ -1874,11 +1638,7 @@ When I think about how Master would walk the path of carnage...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll be all right. No problem.
 
 
@@ -1890,11 +1650,7 @@ I'll be all right. No problem.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ah.
 
 
@@ -1926,11 +1682,7 @@ In case you need this... Please drink it... It's made from ancient spirit grass.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thank you!
  
 **Paracelsus:**
@@ -1940,11 +1692,7 @@ But... You'll lose your sense of taste...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If it's my stomach?
  
 **Paracelsus:**
@@ -1975,11 +1723,7 @@ Therefore we must go destroy that dream!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Having fun?
 
 
@@ -2014,11 +1758,7 @@ Also a gigantic candy and a picture book.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That means&ndash;
 
 
@@ -2031,11 +1771,7 @@ After this commercial break!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Tomorrow!
 
 
@@ -2045,11 +1781,7 @@ Tomorrow!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Happy Halloween!?
 
 
@@ -2144,11 +1876,7 @@ So what shall we do?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I want the chocolate back.
  
 **Nursery Rhyme:**
@@ -2162,11 +1890,7 @@ If you insist, then I will have you join me at this tea party.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll join your tea party so...
  
 **Nursery Rhyme:**
@@ -2201,20 +1925,12 @@ A fairytale world like this sure makes me want to write a bad ending.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Stop it.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No way.
 
 
@@ -2240,20 +1956,12 @@ You would be so much happier if you could just eat snacks and drink tea along wi
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh no, something is...
 
 
@@ -2270,11 +1978,7 @@ So at least just for the duration of Valentine's!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The chocolate...
 
 
@@ -2295,11 +1999,7 @@ This so fun! Wonderful!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Shakespeare!
  
 **Shakespeare:**
@@ -2313,11 +2013,7 @@ Aren't you the best Master of this era!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A bad ending...
  
 **Shakespeare:**
@@ -2369,20 +2065,12 @@ Senpai, you're the worst.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They're going to kill me for sure!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm playing with fire here!
  
 
@@ -2409,20 +2097,12 @@ If things stay the same, not only will Master, but even the little girl here wil
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wh-What does that mean?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She'll have a bad ending, too?
 
 
@@ -2535,20 +2215,12 @@ Tea doesn't stain my teeth when I drink it!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's so sad... So very sad.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think that's enough.
 
 
@@ -2573,20 +2245,12 @@ Huh!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's a dentist!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Reasonable, I suppose?
  
 
@@ -2644,11 +2308,7 @@ See, I prevented a bad ending, right?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But the girl seems pretty traumatized.
 
 
@@ -2681,20 +2341,12 @@ I can have an ease of mind now that I have the idea necessary for the manuscript
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Manuscript?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Anthology?
 
 
@@ -2720,7 +2372,6 @@ Hehehe. Indeed this is&ndash;
  
 ## Before the Sun Melts Away the Chocolate
  
-<<<<<<< HEAD
 **Narration:**
 With all these feelings of gratitude, here is a special gift on this special day.
 
@@ -2730,26 +2381,11 @@ Even if it's not special for that person, even if it's only natural for that per
 
  
 **Narration:**
-=======
-**Narration::**
-With all these feelings of gratitude, here is a special gift on this special day.
-
- 
-**Narration::**
-Even if it's not special for that person, even if it's only natural for that person.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't mind if this feeling of mine is one sided,
 and will never be returned.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 For I will put my whole heart and soul into this brown pastry. I hope it will be accepted.
 
  

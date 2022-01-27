@@ -88,11 +88,7 @@ Waaahahahaha!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did I just get forcefully Rayshifted again...!?
 
 
@@ -100,11 +96,7 @@ Did I just get forcefully Rayshifted again...!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What is this place...?
 
 
@@ -116,11 +108,7 @@ Goood morning!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Not so loooud!
 
 
@@ -155,11 +143,7 @@ That is to say, we are now on a stealth mission, and all weapons and equipment m
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Where have I heard this before...
  
 
@@ -180,11 +164,7 @@ In fact, I believe that is why I am the one who is here with you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So, we're here because of you, Professor?
  
 **Moriarty:**
@@ -194,11 +174,7 @@ Well, uh... I suppose you could say that...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So, we're here because of you, Grandpa?
  
 **Moriarty:**
@@ -231,11 +207,7 @@ Are you with me so far?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That explains these outfits...
 
 
@@ -267,11 +239,7 @@ Oh, and as a rule of thumb, I would strongly advise you to keep your voice low a
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Whoa, this place is fancy!
 
 
@@ -295,11 +263,7 @@ I can't speak for my ancestors, but I certainly have no recollection of being in
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (This is the mansion's owner...?)
  
 **Moriarty:**
@@ -310,11 +274,7 @@ I was just having a bit of fun.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Sieg!?)
  
 **Moriarty:**
@@ -359,11 +319,7 @@ Oh, and Mr. Moriarty? I'm counting on you to take care of that matter we discuss
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's Sieg doing here...?
  
 **Moriarty:**
@@ -373,11 +329,7 @@ That will become clear once you see the guests we are about to meet.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who are these guests he mentioned...?
  
 **Moriarty:**
@@ -469,11 +421,7 @@ At your age, all you've got left to do is pick out a burial plot.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So Diarmuid, Yan Qing, and Izo are all here, too...
  
 **Moriarty:**
@@ -483,11 +431,7 @@ Yes, but keep in mind that they are not at all the people you know.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait a minute. Is this what I think it is...?
  
 **Moriarty:**
@@ -518,11 +462,7 @@ This time, the new figures may share their names with the ones you know, but in 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do they look like to you then, Moriarty?
  
 
@@ -548,11 +488,7 @@ Diarmuid may not look the part, but I trust you can sort of see it with the othe
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well... Yeah, pretty much.
 
 
@@ -568,11 +504,7 @@ After all, his dapper looks have apparently made him quite the talk of the town 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And they don't get along very well, do they?
 
 
@@ -626,11 +558,7 @@ Well, I suppose I can't blame you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why couldn't two of the gangs just team up?
  
 **Moriarty:**
@@ -644,11 +572,7 @@ You see, each of the three gangs has something unique holding them back.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How come the weakest gang didn't get wiped out?
  
 **Moriarty:**
@@ -715,11 +639,7 @@ Do you follow me so far?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think so...
  
 **Moriarty:**
@@ -730,11 +650,7 @@ Because it only gets more complicated from here!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is getting a lot more complicated!
  
 **Moriarty:**
@@ -765,11 +681,7 @@ Now then, I think we had best adjourn the lecture now in favor of doing our job 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What is our job, exactly?
 
 
@@ -785,11 +697,7 @@ We've got wyverns!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Where'd that come from!?
  
 **Moriarty:**
@@ -803,11 +711,7 @@ Da Vinci put it together herself.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Moriarty?
  
 **Moriarty:**
@@ -828,11 +732,7 @@ The little devils apparently like to sneak into this mansion, so Sieg has entrus
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That is REALLY strange, you know!
 
 
@@ -851,11 +751,7 @@ All right, Master, I'm counting on you for backup!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How were THOSE wyverns!?
 
 
@@ -880,11 +776,7 @@ All this, and it still hasn't even begun!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What hasn't begun?
 
 
@@ -921,20 +813,12 @@ End of story!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Was the disguise really necessary?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Seems like an awful lot of trouble for so little payoff...
 
 
@@ -968,20 +852,12 @@ Me too! C'mon, hurry it up!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 C-coming!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Be right with you!
 
 
@@ -1071,11 +947,7 @@ You got it, boss.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Understood!
 
 
@@ -1140,11 +1012,7 @@ Phew, that was quite the little ordeal.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What was that about a relic?
 
 
@@ -1160,20 +1028,12 @@ I trust you recall the three organizations' different characteristics now?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All three are different sizes.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All three are in very different positions.
 
 
@@ -1339,11 +1199,7 @@ If the losers refuse to get down on their knees and beg for mercy...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did you say a Holy Grail War!?
 
 
@@ -1383,11 +1239,7 @@ In other words, whoever wins this Subspecies Holy Grail War will also win contro
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yikes.
  
 **Moriarty:**
@@ -1397,11 +1249,7 @@ Yikes indeed.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Th-this is awful...
  
 **Moriarty:**
@@ -1426,11 +1274,7 @@ Or so I gather.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, but how do we go about doing that?
 
 
@@ -1462,11 +1306,7 @@ So tomorrow, let's begin by seeing what course of action each group chooses to p
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Morning!
 
 
@@ -1486,21 +1326,13 @@ I bet you would enjoy it quite a bit if you partnered up with the young Ms. Kyri
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Running a bar with Mash...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Running a café with Mash...
  
 
@@ -1527,11 +1359,7 @@ Ei! Yah! Hrah!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So cute!
 
 
@@ -1557,20 +1385,12 @@ Welcome back, Senpai...♡
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I like that...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wh-what am I thinking? Mash would never say that.
 
 
@@ -1592,11 +1412,7 @@ Perhaps they just couldn't wait any longer!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Me and Mash...
 
 
@@ -1810,11 +1626,7 @@ there may not even be an auction at all.)
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Isn't that dangerous?)
  
 **Moriarty:**
@@ -1828,11 +1640,7 @@ there may not even be an auction at all.)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (What should we do?)
  
 **Moriarty:**
@@ -1991,11 +1799,7 @@ but for now, why don't we focus on the task at hand?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wyvern control?
  
 **Moriarty:**
@@ -2005,11 +1809,7 @@ You got it!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Komodo dragon control?
  
 **Moriarty:**
@@ -2058,11 +1858,7 @@ I'll stick to the occasional interjection.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why's that?
  
 **Moriarty:**
@@ -2072,11 +1868,7 @@ Well, my young friend, once you reach a certain age, it becomes extremely diffic
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll give it a shot!
  
 **Moriarty:**
@@ -2153,11 +1945,7 @@ Hey, that's pretty good...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay for you to drink, right?
 
 
@@ -2177,11 +1965,7 @@ Though of course, I don't expect any other mages would take it easy on me just '
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do you think you've got a good shot at the auction?
 
 
@@ -2198,20 +1982,12 @@ Can I get another of these?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, Yan Qing's organization is...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, Izo's organization is...
  
 
@@ -2243,11 +2019,7 @@ my family's got the shortest history.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Does that mean you're the weakest?
  
 **Alexander:**
@@ -2261,11 +2033,7 @@ But, you're not wrong.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is there a problem with that?
  
 **Alexander:**
@@ -2286,11 +2054,7 @@ But those two have families that go back five hundred and seven hundred years.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well-suited to combat!
 
 
@@ -2307,11 +2071,7 @@ The legendary half-human, half-horse creatures?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, sure do!
 
 
@@ -2340,11 +2100,7 @@ Even if you don't have a lot of magical energy to work with, if you focus, you c
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You mean, like an energy-efficient battery?
  
 **Alexander:**
@@ -2366,11 +2122,7 @@ Quite the superhuman training regimen.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't know what you're talking about, but it sounds impressive.
  
 **Alexander:**
@@ -2399,11 +2151,7 @@ A mage who tries his hardest to compensate for being the weakest, hm. That's an 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How so?
 
 
@@ -2469,11 +2217,7 @@ So it's a good luck charm, is it?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What if you and Alexander teamed up?
 
 
@@ -2498,11 +2242,7 @@ And he does need to understand that Vlad III is our greatest threat...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's Count Vlad like as a mage?
 
 
@@ -2655,11 +2395,7 @@ Once I've obtained the catalyst for myself, I think I'll celebrate with another 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, I'll go with oblivious.
 
 
@@ -2705,20 +2441,12 @@ That is why we can address an ordinary mage as Vlad III without causing any prob
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is getting confusing...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't know how I'm gonna keep this all straight...
 
 
@@ -2747,11 +2475,7 @@ And we&ndash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are gonna swoop in at the end and take it all for ourselves?
  
 **Moriarty:**
@@ -2761,11 +2485,7 @@ My, you are just a cunning devil after my own heart, Master. But no.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are gonna make sure none of them succeed?
  
 **Moriarty:**
@@ -2796,11 +2516,7 @@ Well, good night.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I can't sleep...
 
 
@@ -2813,11 +2529,7 @@ It's not even daybreak yet.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I just couldn't seem to fall asleep...
 
 
@@ -2833,20 +2545,12 @@ I see.  Hmm. In that case...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'd love to hear any story you're willing to tell!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (This feels a little weird, but) sure!
 
 
@@ -2885,7 +2589,6 @@ Did the events that make up my past truly happen?
 All that really matters is that I'm here now.
 
  
-<<<<<<< HEAD
 **Narration:**
 ...My childhood memories are all rather hazy.
 
@@ -2935,62 +2638,10 @@ Still, despite my lack of surprise, I was at a loss as to how to respond. How, t
 
  
 **Narration:**
-=======
-**Narration::**
-...My childhood memories are all rather hazy.
-
- 
-**Narration::**
-There is only one thing that I remember from them: equations.
-
- 
-**Narration::**
-I remember their cleanliness. The beauty inherent in their structure. How gentle they could be...and how terrifying.
-
- 
-**Narration::**
-It is thanks to equations that one can determine precisely where a ball will land once thrown.
-
- 
-**Narration::**
-...I think, back when I was just a boy, I would often ponder why no one else seemed to realize their appeal.
-
- 
-**Narration::**
-Once I had reached what most would consider an adult age, I wrote a book:
-
- 
-**Narration::**
-“The Dynamics of an Asteroid”...
-
- 
-**Narration::**
-But it never saw the light of day, thanks to the mathematicians who saw it buried before it took off.
-
- 
-**Narration::**
-But honestly, I can't say I was surprised.
-
- 
-**Narration::**
-I knew all too well how petty and guarded people could be.
-
- 
-**Narration::**
-All the more so once they realized the terrifying implications of my book.
-
- 
-**Narration::**
-Still, despite my lack of surprise, I was at a loss as to how to respond. How, then, was I to verify the equation therein?
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I remember cocking my head and thinking to myself,
 “Now what am I going to do?”
 
  
-<<<<<<< HEAD
 **Narration:**
 I didn't want to go my whole life without ever knowing if that equation was correct or not.
 
@@ -3000,36 +2651,17 @@ This may make me sound like a petulant child...but I simply did not like that id
 
  
 **Narration:**
-=======
-**Narration::**
-I didn't want to go my whole life without ever knowing if that equation was correct or not.
-
- 
-**Narration::**
-This may make me sound like a petulant child...but I simply did not like that idea. Not one bit.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I was sure I could prove my equation was correct.
 I HAD to prove it was correct.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So I decided to turn to evil.
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Why?
 
 
@@ -3085,11 +2717,7 @@ I piled up evil deeds upon evil deeds, until one day...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What did you expect?
 
 
@@ -3143,11 +2771,7 @@ Watching them stumble off a cliff, or trip on a pebble, or have a vase come cras
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Talk about Chaotic-Evil...!
  
 **Moriarty:**
@@ -3157,11 +2781,7 @@ Indeed.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That doesn't sound fun to me at all.
  
 **Moriarty:**
@@ -3208,20 +2828,12 @@ Surely you must be bored enough now to drift right off.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait. What about the other reason?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's the second reason you don't regret your choice?
 
 
@@ -3249,11 +2861,7 @@ Off to bed with you! Good night!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Time for the auction, huh...
 
 
@@ -3282,11 +2890,7 @@ D-did you say stolen!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (It's scary, seeing them all on edge like this.)
  
 **Moriarty:**
@@ -3297,11 +2901,7 @@ Anything could set them off right now...)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (This is SO not good...)
  
 **Moriarty:**
@@ -3531,11 +3131,7 @@ So I say we at least let everyone make their case to someone impartial, without 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (I don't like where this is going...!)
 
 
@@ -3562,11 +3158,7 @@ Once we know that, we should be able to resolve this.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll do my best.
  
 **Sieg:**
@@ -3576,11 +3168,7 @@ Thank you...!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you think, Moriarty?
  
 **Moriarty:**
@@ -3643,11 +3231,7 @@ The thief is almost certainly Prince of Lan Ling.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How can you be so sure?
 
 
@@ -3687,11 +3271,7 @@ But let us not forget, Count Vlad, that you have just as much of a motive as he 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They did say you've been having some financial difficulties...
 
 
@@ -3728,11 +3308,7 @@ Hmm. So Count Vlad will be keeping an eye on me, huh.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why's that?
 
 
@@ -3819,11 +3395,7 @@ So yeah, I think I have to go with Count Vlad here.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm pretty sure the Count has thought up some kind of plan...
 
 
@@ -3848,11 +3420,7 @@ Did you find out anything useful?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Prince of Lan Ling uses, uh...
  
 **Prince of Lan Ling:**
@@ -3878,11 +3446,7 @@ I'm sure it has its uses, but he'd be the first to die in a Holy Grail War unles
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Count Vlad uses...
  
 **Alexander:**
@@ -3942,11 +3506,7 @@ Which would you prefer?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's just water!
 
 
@@ -3976,20 +3536,12 @@ but none of them have it all.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So, now what do we do?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Then how are we supposed to tell who did it?
 
 
@@ -4014,11 +3566,7 @@ A wonderfully convenient state of affairs for whoever is behind this, wouldn't y
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you mean by that...?
 
 
@@ -4043,11 +3591,7 @@ At least that is the outcome as I heard it.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now that you mention it...
  
 **Moriarty:**
@@ -4057,11 +3601,7 @@ But, we still have to stop that from happening, don't we?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry, I forgot.
  
 **Moriarty:**
@@ -4093,11 +3633,7 @@ And as it turns out...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, I know a lot more now than I did before, but&ndash;
 
 
@@ -4109,11 +3645,7 @@ Oh, if it isn't the apprentice bartender.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Good evening.
 
 
@@ -4126,11 +3658,7 @@ not with this mansion's security being so lax.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (It's kind of refreshing, hearing him talk like this...)
 
 
@@ -4168,11 +3696,7 @@ I just hoped to prevent that desire for profit from breaking out into a war.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you thinking about retiring?
 
 
@@ -4232,11 +3756,7 @@ They say they see them being rowdy at restaurants, or getting drunk, and all kin
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you sure you don't want to reconcile with him?
 
 
@@ -4320,11 +3840,7 @@ But now, we've got mages involved, and we're all fighting for control of some we
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sounds like you've got it rough, too...
 
 
@@ -4347,20 +3863,12 @@ Make sure you choose a fun life, not a hard one.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's what I'm trying to do...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Easier said than done...
 
 
@@ -4380,11 +3888,7 @@ So, see you tomorrow.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Good night.
 
 
@@ -4433,11 +3937,7 @@ Once again, now is not the time!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on, we need to fight!
 
 
@@ -4551,11 +4051,7 @@ What do you think?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't think any of them are the type to go after someone like me.
  
 **Moriarty:**
@@ -4565,11 +4061,7 @@ Yes, exactly! The rules for these kind of skirmishes don't apply to you.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They're not exactly good people, but...
  
 **Moriarty:**
@@ -4761,11 +4253,7 @@ Why is that?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Because the auction's results were far from a foregone conclusion.
  
 **Moriarty:**
@@ -4779,11 +4267,7 @@ If one of them were to engage in foul play, he would still need to wait for the 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Because nobody knows for sure how this is all going to unfold.
  
 **Moriarty:**
@@ -4859,20 +4343,12 @@ Thus, the relic leaving his possession was the one thing the culprit simply coul
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Isn't that right, Sieg?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, Sieg?
 
 
@@ -4925,20 +4401,12 @@ Though my...criminal consultant did warn me not to take matters that far.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You don't say...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A criminal consultant, huh...
 
 
@@ -5085,20 +4553,12 @@ All right, Master. I trust you know what to do?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Of course.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ready your weapon, Archer.
 
 
@@ -5186,11 +4646,7 @@ He was a good man, and a true hero. Surely anyone who thought well of him could 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (True, I do think he'd love that...)
 
 
@@ -5384,11 +4840,7 @@ Sounds good!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (This is the scariest business talk I've ever heard...!)
 
 
@@ -5498,11 +4950,7 @@ All right, we're going to head back to our respective organizations now. What ab
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're going home.
  
 **Diarmuid:**
@@ -5521,11 +4969,7 @@ it'll be too damn soon.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I did what I came here to do, so...
  
 **Yan Qing:**
@@ -5586,11 +5030,7 @@ I'd bail now if I were you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Believe me, I wish I could.
  
 **Moriarty:**
@@ -5600,11 +5040,7 @@ Hey, even a shady old man like me has feelings, you know!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm happy with the way things turned out here.
  
 **Moriarty:**
@@ -5629,20 +5065,12 @@ That should make sure he gives up on trying to get the linden leaf back.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...So this happened in your time too, Moriarty?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You had a Holy Grail War back in your time?
 
 
@@ -5670,11 +5098,7 @@ The first, a time when a partnership I struck with mages destroyed this city. Th
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did this turn out the way you hoped?
  
 
@@ -5768,11 +5192,7 @@ All I can do is cast my mind back and wonder uselessly about what might have bee
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can think of something else you can do.
 
 
@@ -5784,11 +5204,7 @@ Oh? And what's that?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Next time, make sure to get it right.
 
 
@@ -5835,11 +5251,7 @@ Tell you what. Once we get home, I'll mix you a drink to make up for dragging yo
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I see my room has been redecorated without my permission... Again...
 
 
@@ -5872,11 +5284,7 @@ Here's your cocktail, young [♂ man /♀ lady].
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Th-thank you.
  
 **Moriarty:**
@@ -5886,11 +5294,7 @@ I guarantee you'll like it.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (This is kind of nerve-wracking...)
  
 
@@ -5903,20 +5307,12 @@ I guarantee you'll like it.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is really good!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It went down a lot easier than I thought!
 
 
@@ -5929,11 +5325,7 @@ Welcome to the adult world!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Adult...
 
 
@@ -5976,11 +5368,7 @@ Take it from an old man who's been there and done that.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You tricked me!
 
 
@@ -6004,11 +5392,7 @@ If you so much as breathe the word “grandfatherly,” I will post a list of yo
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 THAT'S what got you to shut up!?
 
 
@@ -6041,11 +5425,7 @@ Hahaha, why don't you put that mouth of yours to use for once and go kiss an onc
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...You know, I think I am feeling a little drunk...
 
 
@@ -6119,11 +5499,7 @@ I can kick you all out, you know!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh, this is my room, so...
 
 
@@ -6153,20 +5529,12 @@ I can't wait to try it!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're in the same boat as me, Sieg.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You will be sticking to mocktails Sieg.
 
 
@@ -6185,7 +5553,6 @@ Now then...
 What can I get for you, my good [♂ sir /♀ lady]?
 
  
-<<<<<<< HEAD
 **Narration:**
 ...The fact is...
 
@@ -6203,25 +5570,6 @@ Indeed, this old spider's web extends farther than anyone can see, catching good
 
  
 **Narration:**
-=======
-**Narration::**
-...The fact is...
-
- 
-**Narration::**
-...it is very difficult for any Master to understand a truly evil man.
-
- 
-**Narration::**
-One so wicked he has no qualms about destroying the world, and so meticulous he would risk his life to correct a miscalculation.
-
- 
-**Narration::**
-Indeed, this old spider's web extends farther than anyone can see, catching good, evil, order, and chaos alike.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And even now, he continues to spin new threads...
 
  
@@ -6239,20 +5587,12 @@ Can I get you your usual Black Beast Grease mix?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (...Oh, uh... I have a bunch already...)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (...Sometimes, I just need to kick back and relax...)
  
 
@@ -6266,20 +5606,12 @@ I hear you... That grease is addictive...)
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The hell!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Where'd this Holy Grail pop up from!?
  
 
@@ -6288,11 +5620,7 @@ Where'd this Holy Grail pop up from!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's going on here, barkeep!?
  
 
@@ -6328,20 +5656,12 @@ before you get yourself banned!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Y-you're...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (That's weird. I can't think of his name...)
  
 

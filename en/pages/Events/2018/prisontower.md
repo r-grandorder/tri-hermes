@@ -40,11 +40,7 @@ Um, is something the matter?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why do you ask?
  
 **Mash:**
@@ -58,11 +54,7 @@ You just kept standing there in silence, so I thought maybe something was worryi
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Good morning, Mash.
  
 **Mash:**
@@ -87,11 +79,7 @@ Are you not feeling well?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I haven't noticed anything.
  
 **Mash:**
@@ -101,11 +89,7 @@ Oh, okay... Just in case, let's go get you a medical check-up.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just daydreaming?
  
 **Mash:**
@@ -133,11 +117,7 @@ You are no exception.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I'm in Chaldea.
  
 **B：???:**
@@ -156,11 +136,7 @@ And neither is that meddlesome Doctor, nor that pervert who is so pleased with h
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Who are you?
  
 **B：???:**
@@ -216,20 +192,12 @@ Of you! You, who stands in this room and yet still lives!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They're going to attack me?!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...That's totally unreasonable!
  
 
@@ -254,20 +222,12 @@ For instance... Yes, the ugliness of you humans&mdash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 With just one blow...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just exactly who are you!? Where am I!?
  
 
@@ -310,11 +270,7 @@ I have no intention of becoming your very own Abbé Faria. I shall have your sou
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Abbé Faria?
  
 **B：Avenger:**
@@ -324,11 +280,7 @@ Hmmph.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...First of all, I've never even heard of an Avenger class.
  
 **B：Avenger:**
@@ -361,20 +313,12 @@ That is all.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why are you doing this?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What about Mash? And Chaldea?
  
 
@@ -398,20 +342,12 @@ A type created by the King of Mages.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hunting ground for what?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The Grand Caster?!
  
 
@@ -460,11 +396,7 @@ Which is to say...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's attacking me now?!
  
 **B：Avenger:**
@@ -475,11 +407,7 @@ I already told you he was a monster that would kill you!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Could it be due to a Mental Corruption skill?
  
 **B：Avenger:**
@@ -543,20 +471,12 @@ Or will you fight?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I'll defend myself.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I'll fight.
  
 
@@ -593,20 +513,12 @@ Christine... I offer my love...to you...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're singing of love, huh?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What a sad song...
  
 
@@ -666,11 +578,7 @@ And that one may not necessarily be good.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you mean?
  
 **Phantom:**
@@ -681,11 +589,7 @@ I can say no more.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Weren't you just killed?
  
 **Phantom:**
@@ -724,11 +628,7 @@ For you are allowed to do everything.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Hold it.
  
 **Avenger:**
@@ -743,11 +643,7 @@ Are you uncertain you're walking the right path?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can I really get out of here?
  
 **Avenger:**
@@ -792,11 +688,7 @@ It became world-famous after Dumas wrote his novel&mdash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I was just in Chaldea now.
  
 **B：Avenger:**
@@ -814,11 +706,7 @@ Have you not noticed?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? Where's Mash?
  
 **B：Avenger:**
@@ -848,11 +736,7 @@ These seven days may only be a single day in Chaldea.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'd hate if it was the other way around.
  
 **B：Avenger:**
@@ -862,11 +746,7 @@ Humph. It makes no real difference.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Could it be seven years in Chaldea?
  
 **B：Avenger:**
@@ -882,20 +762,12 @@ If you want to stop the separation of your soul and body, it's simple. You must 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But we're back in that cell.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Do I have to start over?
  
 
@@ -928,11 +800,7 @@ The rest will be taken care of automatically.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...What happens if I do that?
  
 **B：Avenger:**
@@ -942,11 +810,7 @@ Your soul rots, and you'll never wake up in Chaldea again. That's all.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...No, I'll pass.
  
 
@@ -970,20 +834,12 @@ Mmm&mdash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I heard a woman's voice!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I heard something!
  
 
@@ -1029,11 +885,7 @@ It's so dark... I'm so scared...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you okay?
  
 **C：Woman:**
@@ -1049,11 +901,7 @@ I don't know why it feels this way...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you the second Lord?
  
 **C：Woman:**
@@ -1109,11 +957,7 @@ It was the name of a woman dear to a man who was robbed of his name, and everyth
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's a good name.
  
 **B：Avenger:**
@@ -1123,11 +967,7 @@ It's a good name.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A man who was robbed of everything?
  
 **B：Avenger:**
@@ -1158,20 +998,12 @@ The choice isn't yours to make.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'd feel bad leaving her here.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I'll take her with me.
  
 
@@ -1191,11 +1023,7 @@ You... You would save me, even though you don't know who I am?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Of course.
  
 **C：Mercédès:**
@@ -1210,11 +1038,7 @@ Hmmph.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait, and hope.
  
 **B：Avenger:**
@@ -1261,20 +1085,12 @@ AND I MOSTLY LOVE WOMEN!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's spun so much he doesn't care anymore!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mostly?
  
 
@@ -1343,11 +1159,7 @@ You're in the way. I'll kill you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Huh?
  
 **Fergus:**
@@ -1357,11 +1169,7 @@ I said I'll kill you.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're kidding, right Fergus?
  
 **Fergus:**
@@ -1389,20 +1197,12 @@ My sword lies in both heaven and earth, and my power spins in the heavens! Great
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's gone crazy!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Mutation!
  
 
@@ -1468,11 +1268,7 @@ Or, despite not even knowing her name&mdash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Avenger! Lend me your strength!
  
 
@@ -1499,11 +1295,7 @@ Do you remember what we were talking about?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The Château d'If.
  
 **Mash:**
@@ -1513,11 +1305,7 @@ I'm glad. Your consciousness is intact.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What was it again?
  
 **Mash:**
@@ -1590,20 +1378,12 @@ What am I supposed to do now?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go together.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I won't leave you here.
  
 
@@ -1634,11 +1414,7 @@ But if you wish to continue&mdash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “Wait, and hope,” right?
  
 
@@ -1715,11 +1491,7 @@ You seemed to be having a bad dream so I spoke to you. I apologize for scaring y
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I was dreaming.
  
 **C：Mercédès:**
@@ -1739,11 +1511,7 @@ I... I could never be like you.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think I saw Chaldea...
  
 **C：Mercédès:**
@@ -1787,11 +1555,7 @@ You were out for an entire day.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Good morning.
  
 **B：Avenger:**
@@ -1806,11 +1570,7 @@ I have a question for your addled head.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait. Was I out that long?
  
 **B：Avenger:**
@@ -1865,11 +1625,7 @@ Whatever it is, you must choose.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I'll get up.
  
 
@@ -1901,11 +1657,7 @@ Just as you've done on your way here.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Silence.)
  
 **B：Avenger:**
@@ -1925,11 +1677,7 @@ You hate. Kill. Grind down. And then forget. Even though it is precisely that in
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Was it okay to leave Mercédès?
  
 **B：Avenger:**
@@ -1994,20 +1742,12 @@ Yes, perhaps the soul of a hope-filled hero!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How is that sloth?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He looks ready to go to me!
  
 
@@ -2067,20 +1807,12 @@ Faster than a shooting star in the night sky!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll pass.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's crazy!
  
 
@@ -2178,11 +1910,7 @@ So... You should probably try to not aggravate him.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's always angry.
  
 **C：Mercédès:**
@@ -2197,11 +1925,7 @@ But today...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is he that mad?
  
 **C：Mercédès:**
@@ -2232,20 +1956,12 @@ We're going to the fourth Judgment. Don't fall behind.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...You're right.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's gloomier than usual?
  
 
@@ -2308,11 +2024,7 @@ False salvation makes me want to vomit.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do you like wrath that much?
  
 **B：Avenger:**
@@ -2322,11 +2034,7 @@ Don't ask something so stupid. Let's go.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “That bastard”?
  
 **B：Avenger:**
@@ -2359,11 +2067,7 @@ My blade of righteousness shall condemn you!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Saber Gilles de Rais!?
  
 **B：Avenger:**
@@ -2379,11 +2083,7 @@ Behold.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The fourth Lord...
  
 **B：Avenger:**
@@ -2417,20 +2117,12 @@ As one who was once a leader, I stand in your way.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Holy Maiden Jeanne!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's the avatar of Wrath?
  
 
@@ -2532,11 +2224,7 @@ My beloved Haydée isn't here, nor is the noble Abbé Faria. So even God cannot 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Haydée? Abbé Faria?
  
 **B：Avenger:**
@@ -2555,11 +2243,7 @@ Hahahahahahaha!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Say it in a way I can understand!
  
 **B：Avenger:**
@@ -2769,11 +2453,7 @@ HAHAHAHAHAHA!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who are you, Avenger?
  
 
@@ -2833,11 +2513,7 @@ He said there's no need to follow him.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Outside always seems the same.
  
 **C：Mercédès:**
@@ -2878,11 +2554,7 @@ That's what Avenger said.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Avenger's actually a nice guy.
  
 **C：Mercédès:**
@@ -2945,20 +2617,12 @@ I am a trapped soul. Perhaps I was chosen as the avatar of some sin, too.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's probably the work of the King of Mages.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It might just be bad luck.
  
 
@@ -3040,11 +2704,7 @@ May the path you tread be filled with roses of blessing.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Nero's great, huh?)
  
 **Caligula:**
@@ -3055,11 +2715,7 @@ Yes. Yes, you're very right.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (I understand.)
  
 **Caligula:**
@@ -3186,11 +2842,7 @@ DEVOUR EVERYTHING!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Caligula!
  
 **Caligula:**
@@ -3209,11 +2861,7 @@ ROOAAARHH!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I just met you...
  
 **Caligula:**
@@ -3331,11 +2979,7 @@ His greed is for the world itself.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You sound like you're having fun.
  
 **B：Avenger:**
@@ -3375,11 +3019,7 @@ Indeed, you may be right.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do you like him(?)?
  
 **B：Avenger:**
@@ -3471,20 +3111,12 @@ Your timing is almost as bad as Caderousse!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why are you so mad at her?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...You don't like Jeanne?
  
 
@@ -3712,11 +3344,7 @@ So we must fight together, and there is no better ally I could ask for than you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're fighting two Rulers?
  
 **B：Avenger:**
@@ -3736,11 +3364,7 @@ This is the Château d'If! God's light does not reach here, and he will not play
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...It's like we're the bad guys!
  
 **B：Avenger:**
@@ -3778,20 +3402,12 @@ And I shall be the one to guide you!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I'm going back to Chaldea!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I know that already!
  
 
@@ -3904,11 +3520,7 @@ If you never give up, and you keep killing and pressing on, that is.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Were we really supposed to defeat them?
  
 **B：Avenger:**
@@ -3932,11 +3544,7 @@ Whichever it was, you can do nothing but believe me!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Silence)
  
 **B：Avenger:**
@@ -4032,11 +3640,7 @@ There's no place to go in the Château d'If.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? She disappeared...
  
 **B：Avenger:**
@@ -4046,11 +3650,7 @@ You've no idea then, I guess.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The Hall of Judgment, maybe?
  
 **B：Avenger:**
@@ -4102,11 +3702,7 @@ The endless stench of death does not assault your sense of smell.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's a good thing.
  
 **B：Avenger:**
@@ -4117,11 +3713,7 @@ You're right about that indeed.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How do you know so much about this place?
  
 **B：Avenger:**
@@ -4153,20 +3745,12 @@ But you walk a very different path than I do.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No one's here?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Didn't you say it was prepared?
  
 
@@ -4232,20 +3816,12 @@ That was true vengeance! Righteous revenge!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Was that man you, Avenger?
  
 
@@ -4271,11 +3847,7 @@ They say at the very end, he regained his goodness.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Why are you so mad?
  
 
@@ -4291,11 +3863,7 @@ He disappeared, along with the captive princess who had loved him.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A happy ending.
  
 **B：Avenger:**
@@ -4305,11 +3873,7 @@ Yes, it was.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I've heard that story somewhere...
  
 **B：Avenger:**
@@ -4368,20 +3932,12 @@ I don't know why, but I know you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mercédès?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you the seventh
  
 
@@ -4398,11 +3954,7 @@ I prefer not to kill women.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're kidding me!
  
 **B：Avenger:**
@@ -4412,11 +3964,7 @@ You're kidding me!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You went all out with Jeanne.
  
 **B：Avenger:**
@@ -4603,11 +4151,7 @@ Avenger... No...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's gone...
  
 **Avenger:**
@@ -4617,11 +4161,7 @@ She's gone...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Was she a Heroic Spirit too?
  
 **Avenger:**
@@ -4664,11 +4204,7 @@ How could it be worthy of me?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that your True Name?
  
 
@@ -4697,11 +4233,7 @@ It is the same even now that a million hatreds have reformed this place. Only on
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But there are two people here.
  
 **Avenger:**
@@ -4711,11 +4243,7 @@ Yes. Yes, there are&mdash;
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I figured this was coming.
  
 **Avenger:**
@@ -4813,11 +4341,7 @@ who fell into a terrible trap&mdash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Edmond Dantès...
  
 **B：Avenger:**
@@ -4827,11 +4351,7 @@ Edmond Dantès...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Avenger!
  
 **B：Avenger:**
@@ -4886,11 +4406,7 @@ You're so generous&mdash;Haha, Fujimaru!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So this was Solomon's...
  
 
@@ -4945,11 +4461,7 @@ Someday you shall save the world!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Will you disappear forever?
  
 
@@ -5009,11 +4521,7 @@ I'm so glad&mdash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm home, Mash.
  
 

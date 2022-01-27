@@ -26,20 +26,12 @@ It is no exaggeration to call this festival I host famed throughout both Rome an
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She started her speech already!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hear, hear!
  
 
@@ -91,11 +83,7 @@ Rome! Rome! Rome!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Rome!
  
 **Nero:**
@@ -105,11 +93,7 @@ Umu! All of humanity is indeed Rome!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All hail the Emperor!
  
 **Nero:**
@@ -1733,11 +1717,7 @@ I am...also excited.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's work hard to collect medals!
  
 **A：Mash:**
@@ -1747,11 +1727,7 @@ Yes, Senpai, my Master.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh?　Ma...sh...?
  
 **A：Mash:**
@@ -1767,24 +1743,15 @@ Don't worry, Senpai, my Master.
  
 ## Return of Nero Fest - Autumn 2019 (Second Half)
  
-<<<<<<< HEAD
 **Narration:**
 ...I have come to the conclusion...
 
  
 **Narration:**
-=======
-**Narration::**
-...I have come to the conclusion...
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 During the Emperor's festival,
 where all Heroes of Chaldea assemble...
 
  
-<<<<<<< HEAD
 **Narration:**
 A brief moment of pleasure and respite in the fight to save humanity...
 
@@ -1798,35 +1765,15 @@ The stress of our daily lives, the exhaustion of so many battles eased, if only 
 
  
 **Narration:**
-=======
-**Narration::**
-A brief moment of pleasure and respite in the fight to save humanity...
-
- 
-**Narration::**
-Surely it is a very noble event. Battles to fulfill the purest of all competitive desires without profit or gain...
-
- 
-**Narration::**
-The stress of our daily lives, the exhaustion of so many battles eased, if only for a moment.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's a wonderful thing. A festival is necessary.
 Yes. I do understand that this event is important.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But...that is why I have come to my own conclusion...
 I also want to fulfill my efforts...
 
  
-<<<<<<< HEAD
 **Narration:**
 My powers have diminished compared to what they were during my lifetime, but I still want to be of some use to you.
 
@@ -1836,17 +1783,6 @@ I do not want to impede the path you take. I just want to be of help. Be your st
 
  
 **Narration:**
-=======
-**Narration::**
-My powers have diminished compared to what they were during my lifetime, but I still want to be of some use to you.
-
- 
-**Narration::**
-I do not want to impede the path you take. I just want to be of help. Be your strength. I want to serve my purpose.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's why...I want to...
 
  
@@ -1921,11 +1857,7 @@ For you, I shall train the selected Servant and construct them anew.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 O...kay.
  
 **Brynhild:**
@@ -1940,11 +1872,7 @@ the goddess of night, detecting me.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait...Mash...I mean, you're...
  
 **Brynhild:**
@@ -1987,11 +1915,7 @@ This is exactly what Scáthach and El-Melloi mentioned!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash!?
  
 **A：Mash:**
@@ -2009,11 +1933,7 @@ I'm the real Mash Kyrielight. You are a true Heroic Spirit...a Valkyrie from Nor
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Two...Mashes!?
  
 **A：Mash:**
@@ -2510,20 +2430,12 @@ If we don't stop her soon, we'll be goners!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Stop this.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You don't need to modify Servants!
  
 
@@ -2584,20 +2496,12 @@ I leave the commands to you, Master. It seems we have no choice but to settle th
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Prepare for battle!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's stop her!
  
 
@@ -2622,11 +2526,7 @@ Me me me me me me me me meee!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Brynhild!
  
 
@@ -2848,20 +2748,12 @@ Until that time comes, I will be your strength.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I won't break you.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay. You'll never go berserk again, Brynhild.
  
 

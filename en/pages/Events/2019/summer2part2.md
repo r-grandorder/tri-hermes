@@ -377,11 +377,7 @@ Fou fou!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I hope they're all okay.
 
  
@@ -425,20 +421,12 @@ but now she's nowhere to be found!)
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh, we're just passing by!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just, uh, trying a new hiking route today...
  
 
@@ -468,11 +456,7 @@ Isn't there something you're supposed to say to me?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...You rock, Medb!
 
  
@@ -487,11 +471,7 @@ you are definitely my loyal citizens.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 By the way, did you see anyone here?
  
 
@@ -713,20 +693,12 @@ Master...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Any idea where they went, Da Vinci?
 
  
@@ -748,20 +720,12 @@ Almost certainly.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We have to make sure that everyone's okay.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We need to find out what's going on in there.
 
  
@@ -851,20 +815,12 @@ No, I'm not the Mahatma!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ishtar...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What a cute little doll! (Rub against cheek)
  
 **C：???:**
@@ -1455,11 +1411,7 @@ Oh, c'mon. Isn't that obvious? The Ishtar Cup isn't over! The prison break will 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A-are you serious!?
 
  
@@ -1477,20 +1429,12 @@ This may be a surprise, and not the way we wanted things to go, but c'mon, let's
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Make lemonade, huh?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Always trying to turn a dollar...
  
 
@@ -1534,20 +1478,12 @@ What a waste it would be to stop the race just because we've all been incarcerat
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm all for continuing the race, but...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I still want to help them escape...
 
  
@@ -1574,19 +1510,11 @@ Now, as for how exactly you'll be assisting...
  
 ## Escape 1 - Hope Under the Ground
  
-<<<<<<< HEAD
 **Narration:**
 A rip-off? Don't be silly. That was 100% a Celtic design. Make no mistake about it.
 
  
 **Narration:**
-=======
-**Narration::**
-A rip-off? Don't be silly. That was 100% a Celtic design. Make no mistake about it.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now then...the warden's day starts bright and early. I don't know exactly when she gets up, but it MUST be early because she's always yawning.
 
  
@@ -1599,7 +1527,6 @@ Ooghhh (yawn)... Okay!
 I guess I'd better get up now!
 
  
-<<<<<<< HEAD
 **Narration:**
 She's the prison warden AND the queen of Connacht, so Medb is definitely the busiest person in the country.
 
@@ -1613,21 +1540,6 @@ She never deviates from that routine. She even wears the same thing every day. W
 
  
 **Narration:**
-=======
-**Narration::**
-She's the prison warden AND the queen of Connacht, so Medb is definitely the busiest person in the country.
-
- 
-**Narration::**
-Her time sleeping in this very bed to rest up from her exhausting days is a critical part of her routine!
-
- 
-**Narration::**
-She never deviates from that routine. She even wears the same thing every day. What does she wear to bed? Why, Gabrielle No. 5, of course.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 First thing every morning, she changes out of that.
 In other words, she takes her morning shower.
 
@@ -1636,11 +1548,7 @@ In other words, she takes her morning shower.
 Hm hm hm hmmm♪
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Once she's put on fresh perfume, she dons the queen of Connacht's most formal attire: combat fatigues.
 
  
@@ -1648,11 +1556,7 @@ Once she's put on fresh perfume, she dons the queen of Connacht's most formal at
 There we go!
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What? You think I'm giving you bad intel? I am not! It IS her formal dress! It's both practical and reflects her personal tastes.
 
  
@@ -1666,7 +1570,6 @@ Understood! You rock, Medb!
 (The traditional Connacht affirmation)
 
  
-<<<<<<< HEAD
 **Narration:**
 But, since always wearing her formal attire would end up making it a bit less special, she makes sure to put on a coat over it before heading out for the day.
 
@@ -1676,17 +1579,6 @@ So, humming to herself all the while, she pulls her coat around her shoulders an
 
  
 **Narration:**
-=======
-**Narration::**
-But, since always wearing her formal attire would end up making it a bit less special, she makes sure to put on a coat over it before heading out for the day.
-
- 
-**Narration::**
-So, humming to herself all the while, she pulls her coat around her shoulders and orders her men to go about their preparations for the day.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Surrounded by her adoring public, she closes the door, absolutely beaming with her usual winning smile.
 
  
@@ -1960,20 +1852,12 @@ That's the critical question on pretty much everyone's mind, isn't it. What do y
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, they could use a pickax to chip away at a wall.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh...first, they could remove the toilets and...
 
  
@@ -2068,20 +1952,12 @@ It seems to have worked in different spots for each team&ndash;for some, it was 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Man, I really got lucky there.)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (They can never know I was just grasping at straws!)
 
  
@@ -2108,11 +1984,7 @@ that looks like our only shot.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I wish there was a way I could help with that too.
 
  
@@ -2149,7 +2021,6 @@ Come on, get up.
 You have a visitor.
 
  
-<<<<<<< HEAD
 **Narration:**
 At first, the woman the guard brought out to see me was taken aback when she saw my face.
 
@@ -2159,17 +2030,6 @@ But it wasn't long before she started to smile.
 
  
 **Narration:**
-=======
-**Narration::**
-At first, the woman the guard brought out to see me was taken aback when she saw my face.
-
- 
-**Narration::**
-But it wasn't long before she started to smile.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She drew closer to me. Of course, there was no way for us to touch. Instead of a glass window, there was a thick barrier right in the center of the room.
 
  
@@ -2185,20 +2045,12 @@ There's no possible way for the prisoners to climb over it. However...
 There's also nothing to stop us from passing them a tool or two when a guard isn't looking, is there?
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Her eyes ask me what it is.
 I respond by returning her gaze and nodding.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That should tell them all they need to know&ndash;that they won't have to fight this battle alone.
 
  
@@ -2493,11 +2345,7 @@ You know, when she puts it like that, it makes this whole business sound incredi
  
 **--BATTLE--**
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “Ruling and riding with a smile!” has always been Queen Medb's motto, but lately, something has been weighing on her mind.
 
  
@@ -2510,20 +2358,12 @@ What's the matter, boss?
 Why the long face?
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is Medb's right-hand woman;
 a (self-proclaimed) goddess from Mexico.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 As it would be unacceptable for anyone to have higher standing than the queen in this country, the self-proclaimed part is a necessary contrivance.
 
  
@@ -2627,7 +2467,6 @@ If they go up against you, you'll either break them, or they'll get so caught up
 ...Hmm, then again, if that's all it would take to stop them, they might not ever be able to become true warriors anyway. Wait right here while I go and get them!
 
  
-<<<<<<< HEAD
 **Narration:**
 That just shows what a wonderful queen we have. No matter how busy she may be, or how mind-numbingly difficult a problem she may be tackling, she still takes time to directly interact with her prisoners as much as possible.
 
@@ -2641,21 +2480,6 @@ She is truly a warden among wardens, a queen among queens. No one is better suit
 
  
 **Narration:**
-=======
-**Narration::**
-That just shows what a wonderful queen we have. No matter how busy she may be, or how mind-numbingly difficult a problem she may be tackling, she still takes time to directly interact with her prisoners as much as possible.
-
- 
-**Narration::**
-What kindness, what mercy, what devotion to equality.
-
- 
-**Narration::**
-She is truly a warden among wardens, a queen among queens. No one is better suited to rule this kingdom than her.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now, let's enjoy watching the queen's personal rehab program for ourselves. (Child-Safe Filter: ON)
 
  
@@ -2675,7 +2499,6 @@ Of course not. This didn't help resolve the problem outside the prison walls at 
 Did make for a good workout though. And hey, look at the time. I'd better get back to my office for a shower.
 
  
-<<<<<<< HEAD
 **Narration:**
 Taking a shower in her office at the same time every day is another invaluable part of the queen's routine.
 
@@ -2685,22 +2508,10 @@ In the queen's own words: “There's no telling when the trap I've laid outside 
 
  
 **Narration:**
-=======
-**Narration::**
-Taking a shower in her office at the same time every day is another invaluable part of the queen's routine.
-
- 
-**Narration::**
-In the queen's own words: “There's no telling when the trap I've laid outside might catch the guy I've had my eye on, right? I've got to be ready to go at any time!”
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What a brilliant example of risk management
 (read: the mind of a thirsty young woman).
 
  
-<<<<<<< HEAD
 **Narration:**
 To all you viewers, if you see the queen's prey anywhere, make sure to call in and let us know right away.
 
@@ -2714,38 +2525,15 @@ Be on the lookout for blue hair, squinted eyes, a red spear, and possibly a drui
 
  
 **Narration:**
-=======
-**Narration::**
-To all you viewers, if you see the queen's prey anywhere, make sure to call in and let us know right away.
-
- 
-**Narration::**
-And don't bother trying to catch him for yourself. His Evade performance make him harder to catch than his 3☆ rating would imply.
-
- 
-**Narration::**
-Be on the lookout for blue hair, squinted eyes, a red spear, and possibly a druid staff. Keep in mind that he may appear younger than you might expect.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He is also known to occasionally become a Berserker,
 so use extreme caution when approaching him.
 
  
-<<<<<<< HEAD
 **Narration:**
 Queen Medb makes sure to shower at the exact same time every day. Given how hectic her schedule is, it is one of her precious few chances to take a well-earned break.
 
  
 **Narration:**
-=======
-**Narration::**
-Queen Medb makes sure to shower at the exact same time every day. Given how hectic her schedule is, it is one of her precious few chances to take a well-earned break.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now, let's just sit back and enjoy the sound of water hitting the queen's perfect body.
 
  
@@ -2896,11 +2684,7 @@ These cups should do the trick... Now then...
 (...? Why did she just turn around like that?)
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Inhale)... (Exhale)...
 ...Okay. Here goes... Hrrrk...hrrrk...
 
@@ -2969,20 +2753,12 @@ I think we can make this work!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now I see...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Looks like we know what the next resource we need is!
 
  
@@ -3243,20 +3019,12 @@ Her weakness...is projectile cheese.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...You're kidding... Right?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is this supposed to be Greek humor...?
 
  
@@ -3283,20 +3051,12 @@ Some hard cheeses CAN be tough as rocks... I'm not sure even my shield would be 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Cheese, huh...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Celtic cheese is hardcore...
  
 
@@ -4081,20 +3841,12 @@ So I hope it also goes without saying that this picture is one of happenstance, 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Of course I'll help!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm on it!
 
  
@@ -4120,7 +3872,6 @@ I'll help you out too, so let's both do our best, Senpai!
  
 ## Assassination 2 - Execution
  
-<<<<<<< HEAD
 **Narration:**
 Between the abnormalities in Connacht's land, the invisible attack dog, and prison guards who have disappeared, probably slacking off...
 
@@ -4142,29 +3893,6 @@ What's more, today we have a very special treat: we've been authorized to show t
 
  
 **Narration:**
-=======
-**Narration::**
-Between the abnormalities in Connacht's land, the invisible attack dog, and prison guards who have disappeared, probably slacking off...
-
- 
-**Narration::**
-...Queen Medb certainly has more than her fair share of headaches.
-
- 
-**Narration::**
-Nonetheless, she never forgets the importance of smiling and keeping her composure☆
-
- 
-**Narration::**
-After another hard day of problem-solving, it's time for the queen's regular shower. How wonderfully Celtic!
-
- 
-**Narration::**
-What's more, today we have a very special treat: we've been authorized to show the queen's shower on the air. Well, not exactly authorized, I'm afraid.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Here's what I mean.
 
  
@@ -4172,7 +3900,6 @@ Here's what I mean.
 Hm hm hmm♪
 
  
-<<<<<<< HEAD
 **Narration:**
 This incredible spectacle alone should be a more than ample reward for any well-trained Connachtian. We are receiving reports of viewers fainting across the country, so please try to contain yourselves.
 
@@ -4186,21 +3913,6 @@ How alluring, how beautiful, how utterly divine!
 
  
 **Narration:**
-=======
-**Narration::**
-This incredible spectacle alone should be a more than ample reward for any well-trained Connachtian. We are receiving reports of viewers fainting across the country, so please try to contain yourselves.
-
- 
-**Narration::**
-Nonetheless, I can hardly blame you. Just the sound of the water hitting her body is almost too much. Oh, to be one of those lucky little droplets...
-
- 
-**Narration::**
-How alluring, how beautiful, how utterly divine!
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's as though the steam itself, as it dances around the shower, is hesitant to touch that perfect form.
 
  
@@ -4208,7 +3920,6 @@ It's as though the steam itself, as it dances around the shower, is hesitant to 
 Teehee☆
 
  
-<<<<<<< HEAD
 **Narration:**
 As the steam wafts shyly out the window, she turns toward it and smiles, as if to tell it has nothing to fear.
 
@@ -4234,33 +3945,6 @@ Indeed, so long as our beloved queen lives, Connacht is assured to enjoy boundle
 
  
 **Narration:**
-=======
-**Narration::**
-As the steam wafts shyly out the window, she turns toward it and smiles, as if to tell it has nothing to fear.
-
- 
-**Narration::**
-...And don't worry, there are no tall buildings nearby that can see into this window, so she has nothing to fear from Peeping Toms.
-
- 
-**Narration::**
-The only thing that could be so lucky as to catch sight of her would be a little bird flying by.
-
- 
-**Narration::**
-And should that happen, the queen would surely smile and invite the tiny citizen to come and join her in song.
-
- 
-**Narration::**
-Blue skies, shower steam, her smiling face... As long as we have these joyous sights to feast upon, the nation of Connacht will surely endure forever.
-
- 
-**Narration::**
-Indeed, so long as our beloved queen lives, Connacht is assured to enjoy boundless prosperity for&ndash;
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...What's this?
 
  
@@ -4272,11 +3956,7 @@ Indeed, so long as our beloved queen lives, Connacht is assured to enjoy boundle
 Hiiiyah!
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh my, what a surprise. The queen has performed a back-facing roundhouse! Such splendor. Such beauty! One might die of shock from viewing such perfection in motion!
 
  
@@ -4322,11 +4002,7 @@ Wha...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh, COME ON!!!
 
  
@@ -4672,11 +4348,7 @@ How about you, Fujimaru? Figured it out yet?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yup, sure have.
  
 **Mash:**
@@ -4690,11 +4362,7 @@ I don't doubt that you're telling the truth...but I can also tell from your wry 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nope, sure haven't.
  
 **Mash:**
@@ -5170,20 +4838,12 @@ So don't you worry. I'll use the real queen's face, voice, and charm to make sur
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll just have to trust in him.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He sure has a strong sense of duty.
 
  
@@ -5439,11 +5099,7 @@ So I think I'll go ahead and take advantage of those tunnels you've all been dig
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 At last...they'll finally get to escape!
 
  
@@ -5618,20 +5274,12 @@ Senpai, look! Everyone's here!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you all okay!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Congrats on the prison break!
 
  
@@ -5664,11 +5312,7 @@ Did you really think you would get away with this!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Aw crap, it's Medb!
  
 **Fou:**
@@ -5678,11 +5322,7 @@ Fooou, fooou!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Par for the course I guess!
  
 **Mash:**
@@ -5773,11 +5413,7 @@ It may have been a foolish, outmoded plan doomed to failure, but it still gave m
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I have no recollection of that whatsoever.
  
 **Oda Nobunaga:**
@@ -5792,11 +5428,7 @@ Who else could it have been!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's your penalty for aiding and abetting?
  
 **Warden Medb:**
@@ -5915,20 +5547,12 @@ I could have sworn an attack I've seen somewhere before just came flying in out 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Then we'll just have to take her out!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No one's becoming Connacht fertilizer on my watch!
 
  
@@ -6026,20 +5650,12 @@ Trust me, keeping the race going is the fastest way to get this over with.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That IS why we held this race to begin with.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're almost at the goal, so let's finish this!
 
  
@@ -6270,20 +5886,12 @@ This is finally it, Senpai!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's all been leading up to this!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 At last, we've reached the final area...
 
  
@@ -6317,11 +5925,7 @@ And we'll get to see how it all shakes out after a word from our sponsors!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ... (Gulp) ...
 
  
@@ -7168,11 +6772,7 @@ Congratulations! You're the winners!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wooo!
  
 **Fou:**
@@ -7182,11 +6782,7 @@ Fouuu!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Applaud until your hands go numb)
  
 **Fou:**
@@ -7251,11 +6847,7 @@ It zapped me all the way down to my tail!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why did things get so bad all of a sudden!?
  
 **Mash:**
@@ -7269,11 +6861,7 @@ We need to get out of here too, Master!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on Mash, we need to evacuate!
  
 **Mash:**
@@ -7323,20 +6911,12 @@ All gambling is rigged to the advantage of whoever's hosting it. If you didn't k
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's just scamming people out of their money!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's one of the worst things you've ever said!
  
 
@@ -7364,11 +6944,7 @@ Fouuu!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that an earthquake!?
 
  
@@ -7405,11 +6981,7 @@ To make sure the parts I had each team install in their vehicles all ended up he
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wh-what are you talking about!?
  
 **Ishtar:**
@@ -7419,11 +6991,7 @@ There we go! That's the kind of shocked expression I wanted to see! That look ri
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I THOUGHT there was something fishy about this!
  
 **Ishtar:**
@@ -7443,20 +7011,12 @@ First off, check out the true form of my Ishtar Temple!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What...the hell...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that...a giant ATM?
 
  
@@ -7540,11 +7100,7 @@ Hehehe, ahahahaha! It's all so deliciously perfect! Soon, sooooooon Operation Re
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Gugalanna!?
  
 **Mash:**
@@ -7560,11 +7116,7 @@ I thought she told us she had lost it somewhere...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's going on here, Ishtar!?
  
 
@@ -7673,20 +7225,12 @@ Oh man, I definitely wasn't taking this seriously enough! Ishtar! I regret my er
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Da Vinci!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You sure don't sound like you regret anything!
  
 
@@ -7709,11 +7253,7 @@ Basically, this whole race was nothing more than a way of creating a new Gugalan
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I fail to see how this is funny!
 
  
@@ -7775,20 +7315,12 @@ First, I'll use the Ishtar QPS to put together the different living body parts o
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's enormous!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It really is the Bull of Heaven!
 
  
@@ -7831,20 +7363,12 @@ You CAN still do that...right?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What was that? I can't hear you!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I thought goddesses never lie!
  
 
@@ -8045,20 +7569,12 @@ I make sure to take my opponent with me!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Isn't that literally being self-destructive?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But you already used all your money on this race...
  
 
@@ -8095,20 +7611,12 @@ This divine aura...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's the goddess of Venus, Quetzalcoatl!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Talk about larger than life, yes!
  
 
@@ -8288,20 +7796,12 @@ Please, noooooo!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No way!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's a “Backdrop” into a “Piledriver”!
  
 
@@ -8358,20 +7858,12 @@ It's just like Nero said. I'm a pathetic goddess who blew all her money on a sin
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry, Ishtar...but you're not off the hook.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yup. Which is why you're not off the hook.
  
 
@@ -8396,20 +7888,12 @@ Go ahead; do your worst. I can't stand the thought of being broke.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Gotcha. In that case...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You'll just have to save up from scratch again.
  
 
@@ -8421,11 +7905,7 @@ Huh...?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Your punishment is an official contract with me.
  
 
@@ -8452,20 +7932,12 @@ You think I'm Chaldea's true goddess of victory or something?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Of course.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're plenty capable even without Gugalanna.
  
 
@@ -8491,11 +7963,7 @@ I, Ishtar, officially vow to be your Servant!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks, Ishtar. Glad to have you.
  
 
@@ -8513,7 +7981,6 @@ Yes, there we go. Those are some lovely smiles.
 ...All right, say cheese.
 
  
-<<<<<<< HEAD
 **Narration:**
 ...And so, the summer race came to an end.
 
@@ -8543,46 +8010,11 @@ How cool and refreshing that felt...and then how Senpai and I saw how unkempt ea
 
  
 **Narration:**
-=======
-**Narration::**
-...And so, the summer race came to an end.
-
- 
-**Narration::**
-We may have just run around behind the scenes, but I still feel like I'll be looking back on memories of this event for years to come.
-
- 
-**Narration::**
-The horizon stretching out forever. The endless sky with not a single rooftop in sight. The times when Senpai and I would just stand side by side enjoying the cool breeze.
-
- 
-**Narration::**
-The way my shirt clung to me after I sweated buckets in the heat, and how even though it was heavy and unpleasant, I didn't even mind.
-
- 
-**Narration::**
-Senpai and I running until we were out of breath to get to the finish line in time.
-
- 
-**Narration::**
-The way everyone's vehicles screamed by like thunder, their speed blowing our hair completely out of place.
-
- 
-**Narration::**
-How cool and refreshing that felt...and then how Senpai and I saw how unkempt each other's hair was, and how much that made us laugh.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Our roles may have been very mundane this time,
 instead of leading ones...
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But even so...these are still precious summer memories that I'll never forget.
 
  
@@ -8604,11 +8036,7 @@ I should thank Ishtar for giving us a reason to go outside.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Heeey, Maaash!
 
  
@@ -8622,20 +8050,12 @@ Fou fou!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's time to go home.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ishtar said she (has to) clean up here.
  
 **Mash:**
@@ -8662,20 +8082,12 @@ Fouuu!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...It sure was one thing after another, wasn't it.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Are you glad we came here?
 
  
@@ -9058,11 +8470,7 @@ Wouldn't you agree, Fujimaru?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All's well that ends well.
  
 **Holmes:**
@@ -9072,11 +8480,7 @@ Precisely.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Was this your goal all along, Holmes?
  
 **Holmes:**

@@ -584,11 +584,7 @@ Did something good happen?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's the matter, Roman?
  
 **Dr. Roman:**
@@ -603,11 +599,7 @@ Doctor, sorry I haven't been able to help you out even though we're in such a te
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...That's suspicious...
  
 **Dr. Roman:**
@@ -648,11 +640,7 @@ I would like you to investigate and correct it.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...So like what we always do?
  
 **Mash:**
@@ -666,11 +654,7 @@ Now I don't think anything will hinder this mission, but...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you hiding something?
  
 **Dr. Roman:**
@@ -725,11 +709,7 @@ Doctor! Did you just mention that one castle name we can never just let slide!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...The nightmare returns...
  
 **Mash:**
@@ -747,11 +727,7 @@ Senpai, it's too dangerous! That music will destroy your psyche if you continuou
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All right, Mash! Dismissed!
  
 **Mash:**
@@ -803,11 +779,7 @@ Eep!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why you...! We'll come and haunt you!
  
 **Dr. Roman:**
@@ -817,11 +789,7 @@ Fine! When you do, I'll welcome you with some pumpkin dishes!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So the Doctor is the final boss!?
  
 **Dr. Roman:**
@@ -853,11 +821,7 @@ Now then, commence forced Rayshift!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're here...
  
 **Mash:**
@@ -872,11 +836,7 @@ Fou...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now I'm depressed...
  
 **Mash:**
@@ -961,11 +921,7 @@ Shall we head into town, Master? Although I'm pretty sure Servants are going to 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So our reward is box seats at the concert...
  
 **Mash:**
@@ -980,11 +936,7 @@ We are one as Master and Servant!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This sucks.
  
 **Mash:**
@@ -1020,11 +972,7 @@ Fou, what's wrong?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't look behind you.
  
 **Mash:**
@@ -1034,11 +982,7 @@ Th-That's right! What you don't see can't hurt you.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Run!
  
 **Mash:**
@@ -1081,11 +1025,7 @@ And all the house lights are on, but I don't see any townspeople walking around.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Actually, Mash...
  
 **Mash:**
@@ -1099,11 +1039,7 @@ Um... What!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The castle...!
  
 **Mash:**
@@ -1144,11 +1080,7 @@ The former is obviously older. And the fact that it's crushing the castle like t
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's not her?
  
 **Dr. Roman:**
@@ -1158,11 +1090,7 @@ Right. I've never heard of her having anything to do with pyramids.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So no concert!?
  
 **Dr. Roman:**
@@ -1178,11 +1106,7 @@ Head up there?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's gather intel first.
  
 **Mash:**
@@ -1200,11 +1124,7 @@ Neither of us can have alcohol, but let's go.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We should head for a tavern.
  
 **Mash:**
@@ -1266,11 +1186,7 @@ Right, Senpai!? Right!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 R-Right.
 
  
@@ -1355,20 +1271,12 @@ No wonder it's so lively.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Act like you don't... notice...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're going to leave nice and quiet.
  
 
@@ -1422,11 +1330,7 @@ Y-Yeah! It's bound to be one of the causes of this Singularity, after all!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry, I just couldn't help it...!
  
 **Mash:**
@@ -1436,11 +1340,7 @@ Last year's Halloween must be a great source of trauma for you, Master...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash is right, but...!
  
 **Mash:**
@@ -1460,21 +1360,13 @@ Master... I hear crying... from behind us...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Goodbye, eardrums...
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hello, Halloween...
 
  
@@ -1526,11 +1418,7 @@ Fou-bah!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Where's Lancerbeth and Casteli?
  
 **Elisabeth:**
@@ -1557,11 +1445,7 @@ Fou seems to be shocked at how far removed from a Servant she's become.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A swimsuit? At this time of year?
  
 **Mash:**
@@ -1622,11 +1506,7 @@ I'm going to take it out and overthrow the queen within! That is the mission of 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So that's what's going to happen this time...
  
 **Mash:**
@@ -1636,11 +1516,7 @@ Yes. I see. That's why there are tons of adventurers in the tavern.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Crimson Hero...
  
 **Fou:**
@@ -1785,11 +1661,7 @@ Now, [♂ Puppy /♀ Deerlet], you're going to help me, right!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Fujimaru has joined the party!
 
  
@@ -2045,11 +1917,7 @@ When I was an idol, I had someone on drums and taiko, woodwind, and more, all to
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's a lot of percussion.
  
 **Elisabeth:**
@@ -2060,11 +1928,7 @@ You could really feel it!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We need more cowbell...
  
 **Elisabeth:**
@@ -2118,11 +1982,7 @@ Hmm... I don't really know what I'm doing, so I'm going to take you apart. I'll 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Good idea!
  
 **Mash:**
@@ -2132,11 +1992,7 @@ Finding the right person for the job is harder than I thought... Is there anyone
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is there no one else who could do it?
  
 **Mash:**
@@ -2188,11 +2044,7 @@ In that case, Doctor...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hey!
 
  
@@ -2275,11 +2127,7 @@ I can't move! Save me, [♂ Puppy /♀ Deerlet]!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go save her!
 
  
@@ -2309,11 +2157,7 @@ Save me before you do that!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry, in a second!
 
  
@@ -2371,11 +2215,7 @@ We'll just have to bring them out somehow...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh...
  
 
@@ -2409,11 +2249,7 @@ Elisabeth, that's&mdash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I...just might.
  
 
@@ -2492,11 +2328,7 @@ Fou.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thank goodness...!
 
  
@@ -2542,11 +2374,7 @@ I'm just glad I was able to help [♂ Puppy /♀ Deerlet].
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah...
 
  
@@ -2603,11 +2431,7 @@ The latter, of course. A free safe haven doesn't feel right. Safety is maintaine
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're pretty cautious.
  
 **Robin Hood:**
@@ -2627,11 +2451,7 @@ You're actually an Assassin, aren't you?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Werebeasts...
  
 **Robin Hood:**
@@ -2792,11 +2612,7 @@ No, I want one more person, I think.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A four-person party is pretty standard.
  
 **Mash:**
@@ -2810,11 +2626,7 @@ Anyway, [♂ Puppy /♀ Deerlet], I want a mage!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A mage!
  
 **Elisabeth:**
@@ -3041,11 +2853,7 @@ When these two start talking, I get the feeling it will never end, Master!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Introduce yourselves! Both of you!
  
 **C：???:**
@@ -3055,11 +2863,7 @@ Huh? Oh, r-right.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 My name is !
  
 **Elisabeth:**
@@ -3130,11 +2934,7 @@ Th-That's my line! I hate that “Oh, look at me, I'm a queen” attitude! It ma
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Probably...
  
 **Mash:**
@@ -3144,11 +2944,7 @@ Probably...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They're denying each other, so yeah...
  
 **Robin Hood:**
@@ -3224,11 +3020,7 @@ Bring it on! Come on, [♂ Puppy /♀ Deerlet]!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I got it, so let go of my hand!
  
 
@@ -3270,11 +3062,7 @@ But I'm not done yet!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What!?
 
  
@@ -3311,11 +3099,7 @@ I will win. You know why?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Not a clue...
  
 **Elisabeth:**
@@ -3326,11 +3110,7 @@ Then I'll tell you.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Because you're strong?
  
 **Elisabeth:**
@@ -3367,11 +3147,7 @@ Th-That's strange! There's no way my guardian sphinx is this weak!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe it's not in its natural habitat?
  
 **Nitocris:**
@@ -3381,11 +3157,7 @@ That's it! How foolish! I should've brought a heater!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It seemed tired.
  
 **Nitocris:**
@@ -3489,11 +3261,7 @@ Wait... Was that a compliment?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Of course.
  
 **Elisabeth:**
@@ -3503,11 +3271,7 @@ Right!? Zebra stripes says some good things, despite being our enemy!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's Nitocris for you... She's just a little off...
  
 **Dr. Roman:**
@@ -3537,11 +3301,7 @@ Now let's fight...!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you sure you guys aren't actually getting along...?
 
  
@@ -3583,20 +3343,12 @@ And so was I... It felt so good that I was inspired spiritually.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh?
  
 
@@ -3634,11 +3386,7 @@ What happened?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I knew they'd be friends.
 
  
@@ -3698,11 +3446,7 @@ I thought Halloween was supposed to be this wonderful festival where you can eat
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What are you doing here?
  
 **Ibaraki-Douji:**
@@ -3713,11 +3457,7 @@ You just failed to notice me!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How long have you been here?
  
 **Ibaraki-Douji:**
@@ -3901,11 +3641,7 @@ That's right, it's me, Ibaraki!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You were in the corner hiding.
  
 **Ibaraki-Douji:**
@@ -3915,11 +3651,7 @@ If you noticed me there, you should've said something! Or are you teasing me!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I didn't notice you.
  
 **Mash:**
@@ -3985,11 +3717,7 @@ Uh, where was I in my story?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think we've heard enough.
 
  
@@ -4020,11 +3748,7 @@ What about you, Elisabeth? Um, since you're exposing yourself more than usual...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, I mean, your outfit...
 
  
@@ -4086,20 +3810,12 @@ And it's not for extremely selfish reasons, correct?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Trick?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Treat?
  
 
@@ -4170,11 +3886,7 @@ But if you don't have anything like that, one of those Evil Bones you always hav
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh hell no! Anything but an Evil Bone!
  
 
@@ -4189,11 +3901,7 @@ Come to think of it, running around in the cold is making me crave something wit
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What about Mash!?
  
 **Mash:**
@@ -4208,11 +3916,7 @@ Rejected!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't have any more!
  
 **Dr. Roman:**
@@ -4389,11 +4093,7 @@ When do we leave?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ibaraki...
  
 
@@ -4424,20 +4124,12 @@ Yeah. So, Fujimaru, I know it'll be tough, but please look after her.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sure, I'll do my best!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's perfectly tame now.
  
 
@@ -4501,11 +4193,7 @@ W-We're like sardines in a can!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Robin, you too! Over here!
  
 **Robin Hood:**
@@ -4520,11 +4208,7 @@ When you're on an adventurous journey, countermeasures against heat are a must. 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Baki, you too! Over here!
  
 **Ibaraki-Douji:**
@@ -4596,11 +4280,7 @@ N-Now then, let's keep moving!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
  
@@ -4620,11 +4300,7 @@ You may be ill. Maybe your body's out of whack coming from the freezing cold int
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No... I'm getting chills for no reason...
 
  
@@ -4678,11 +4354,7 @@ C'mon, we're almost at the end of this Lava Zone! There's nothing left to fear!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm going home!
 
  
@@ -4779,11 +4451,7 @@ Fujimaru, are you heeeeeere?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Eeeeek!
  
 **Mash:**
@@ -4798,11 +4466,7 @@ Calm down, Master!)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Trembling)
  
 **Ibaraki-Douji:**
@@ -4877,11 +4541,7 @@ I seeee.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's fight...!
  
 **Mash:**
@@ -4891,11 +4551,7 @@ Let's fight...!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's do our best...!
  
 **Nitocris:**
@@ -4935,11 +4591,7 @@ I saw her hesitate...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Elly!?
 
  
@@ -5168,11 +4820,7 @@ No way!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Run for your life!!
 
  
@@ -5204,11 +4852,7 @@ Come on, everyone, let's take out that witch in her pyramid!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah!
  
 **Elisabeth:**
@@ -5218,11 +4862,7 @@ Good answer, my little [♂ Puppy /♀ Deerlet]!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll do our best.
  
 **Elisabeth:**
@@ -5620,11 +5260,7 @@ Uncle Vlad was really mad!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go get another scolding.
  
 **Elisabeth:**
@@ -5655,11 +5291,7 @@ You need to make the festival a success.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's make it the best Halloween ever.
  
 **Elisabeth:**
@@ -5786,11 +5418,7 @@ Then let's start by making the place Halloween central! Right, [♂ Puppy /♀ D
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How?
  
 **Elisabeth:**
@@ -5812,11 +5440,7 @@ We can't do it alone. Let's ask the townspeople for help.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's all do it!
  
 **Robin Hood:**
@@ -5884,11 +5508,7 @@ Huh? Wait, where do I go?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Follow me.
 
  
@@ -6115,11 +5735,7 @@ Master, let's take them out now!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Get him, Masherker!
  
 **Mash:**
@@ -6129,11 +5745,7 @@ Right! Prepare to die!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 D-Deep breaths!
  
 **Mash:**
@@ -6373,11 +5985,7 @@ It's not my fault!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (In Shuten's ASMR voice) Oh, but it is.
  
 **Ibaraki-Douji:**
@@ -6392,11 +6000,7 @@ Amazing, Master. That impression was not good at all, but it had an intensity to
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (In Shuten's ASMR voice) All your fault, Ibaraki. How sad...
  
 **Ibaraki-Douji:**
@@ -6453,11 +6057,7 @@ Then trick it is!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yes, trick!
 
  
@@ -6548,11 +6148,7 @@ Right, Master?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is how it should be.
  
 **Mash:**
@@ -6570,11 +6166,7 @@ I hope that child begins to understand that soon.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Halloween sure is fun.
  
 **Robin Hood:**
@@ -6715,11 +6307,7 @@ Right. I love the feeling of a cold piece of chocolate melting in my mouth, but 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's hurry!
 
  
@@ -6937,11 +6525,7 @@ Come! To the final battle with the queen!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, let's go!
  
 **Elisabeth:**
@@ -6960,11 +6544,7 @@ Ah, Master's face suddenly went pale.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll follow you anywhere, Elly!
  
 **Elisabeth:**
@@ -7067,11 +6647,7 @@ Or perhaps we could just have a nice, long chat...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 W-Will you be okay?
  
 **Mash:**
@@ -7081,11 +6657,7 @@ W-Will you be okay?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash, relax.
  
 **Mash:**
@@ -7193,11 +6765,7 @@ I am the muscle-based idol that has become a Saber-class Servant, Elisabeth Bát
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh I get it now...! (At last)
  
 **Robin Hood:**
@@ -7215,11 +6783,7 @@ I'm not a fire lizard! I'm a female hero! A noble heroine blessed by a dragon! S
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You just came up with that on the spot, didn't you?
  
 **Elisabeth:**
@@ -7238,11 +6802,7 @@ Ahem. Anyway, you've done well to make your way here, heroes! I shall praise you
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So beautiful...!
  
 **C：???:**
@@ -7253,11 +6813,7 @@ It's good to be honest!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...!
  
 **C：???:**
@@ -7417,20 +6973,12 @@ My beautiful name is...!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, that'd be Cleopatra.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Obviously, Cleopatra.
  
 
@@ -7458,20 +7006,12 @@ No matter how you look at it, my style is more modern, but I can't beat her bran
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Modern?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Style?
  
 
@@ -8047,11 +7587,7 @@ Don't hold back and tell her!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You can be selfish.
  
 **Cleopatra:**
@@ -8066,11 +7602,7 @@ I've wanted to be, this entire time.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You do you, Cleopatra.
  
 **Cleopatra:**
@@ -8129,11 +7661,7 @@ Give it up and resign yourself to it!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'd welcome you any time!
 
  
@@ -8239,11 +7767,7 @@ Has the last boss made their appearance?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Everyone, emergency huddle.
 
  
@@ -8285,11 +7809,7 @@ Yeah, it's quite a shock to see Caesar for the first time...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Should we tell her the truth?
 
  

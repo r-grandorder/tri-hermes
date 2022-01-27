@@ -324,20 +324,12 @@ Fou fooou!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Looks like this year's Santa isn't wasting any time...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This year's Santa sure has been keeping busy...
 
  
@@ -376,20 +368,12 @@ Hey, guys? We've gotta talk. Can you swing by the Command Room real quick? And, 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Aaand here we go...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Sigh) Come on, Mash...
 
  
@@ -399,20 +383,12 @@ Aaand here we go...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So that's what the samba thing was about.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't even know where to start with this...
 
  
@@ -490,20 +466,12 @@ Let's get this samba Rayshift party started, yes!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A white Christmas? In Mexico!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Achoo!
 
  
@@ -608,20 +576,12 @@ You should be coming up on the target area pretty soon now...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What the!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think I see something!
 
  
@@ -709,11 +669,7 @@ I plan to hold a competition that will decide the true Santa: the international 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's no altar. It's a ring!
 
  
@@ -770,11 +726,7 @@ Hrrng!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's strong...!
 
  
@@ -884,20 +836,12 @@ A Santa so powerful they'll be able to make every day Christmas, whether it's De
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...(Gulp)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (I don't know what that means, but it sounds...big.)
 
  
@@ -940,20 +884,12 @@ Why would she tell us to qualify after she personally invited us to enter the to
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now that you mention it, that does seem strange...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, I wonder what that was all about?
 
  
@@ -1015,20 +951,12 @@ I trust this goes without saying, but just in case, remember that having Master 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry I'm not in better shape.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry I'm not better at pro wrestling.
 
  
@@ -1046,21 +974,13 @@ Did you hear that? ...It came from that alley.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It looks like someone just collapsed.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Aah! That pile of rags is twitching!
  
 **Mash:**
@@ -1129,20 +1049,12 @@ It's the Servant equivalent of dying in a ditch on the side of a road. So, what 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think I can at least give them some bread...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, since Fou went and confirmed they're still alive...
 
  
@@ -1165,20 +1077,12 @@ I'll help you. Come on, let's get them up and give them some water, too. Levánt
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you awake now?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did you get enough to eat?
 
  
@@ -1197,11 +1101,7 @@ Did you guys save me or something?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You could say that, yeah.
 
  
@@ -1254,11 +1154,7 @@ A dancer Servant? I didn't know those were a thing... You know, your outfit look
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I guess I'm a mage. Technically.
 
  
@@ -1284,20 +1180,12 @@ Would you... Would you two happen to have some connection to him?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, I'm a ways off from living in the lap of luxury like him.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I guess you could say we know each other.
 
  
@@ -1331,11 +1219,7 @@ So you've heard of us? Yes, I serve His Imperial Majesty Charlemagne alongside m
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Astolfo's been a big help to me.
  
 **Bradamante:**
@@ -1349,11 +1233,7 @@ He's a good guy, really! He just...doesn't always think things through! Or, um..
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I could've sworn I'd seen Charlemagne on the moon or somewhere.
  
 
@@ -1496,20 +1376,12 @@ Don't you agree, Fujimaru?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Talk about divine providence.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe Merlin really did have a hand in this.
  
 
@@ -1562,21 +1434,13 @@ Ta-da! And for my ring name, I'll go with...Quetzal Mask, Luchadora of Mystery!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Bad. Ass!)
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (She's really not cut out for disguises or dissembling, is she...)
 
  
@@ -1643,11 +1507,7 @@ You haven't seen Ruggiero anywhere, have you?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who?
 
  
@@ -1689,11 +1549,7 @@ You're the first Servant we've met here.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't think he's at Chaldea, either.
 
  
@@ -1880,20 +1736,12 @@ Black Quetzal Mask and the Christmas Grail must have brought them here, just lik
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This'll be a good preliminary skirmish!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This should be a good warm-up!
 
  
@@ -1921,16 +1769,11 @@ Let's go, Quetzal Mask! I'll show you firsthand how brightly my magical shield o
  
 **--BATTLE--**
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No contenders shall be turned away.
 The path to becoming the true Santa is open to all.
 
  
-<<<<<<< HEAD
 **Narration:**
 However, some rules must be set in place, lest everyone on Earth be swept up in a massive battle royale.
 
@@ -1944,26 +1787,10 @@ In return, I promise that the sweetness of fighting for your homeland will make 
 
  
 **Narration:**
-=======
-**Narration::**
-However, some rules must be set in place, lest everyone on Earth be swept up in a massive battle royale.
-
- 
-**Narration::**
-And so I hope you will understand why I have chosen to limit the pool of applicants by their country of origin.
-
- 
-**Narration::**
-In return, I promise that the sweetness of fighting for your homeland will make the battle all the more delicious.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...See see see! Once we become the true Santa,
 Christmas will be ours to rule!
 
  
-<<<<<<< HEAD
 **Narration:**
 Of course I'm going for this. I have to.
 
@@ -2001,64 +1828,17 @@ Now...the ring has been set.
 
  
 **Narration:**
-=======
-**Narration::**
-Of course I'm going for this. I have to.
-
- 
-**Narration::**
-Duhuhu! Once we become Santa, even we won't have any trouble scoring chicks!
-
- 
-**Narration::**
-Yeah! As long as we never give up, we have as good a chance of becoming Santa as anyone!
-
- 
-**Narration::**
-What do I think about Santa? As if you need ask.
-
- 
-**Narration::**
-Santa is a weapon.
-
- 
-**Narration::**
-(*We at the Santa Tag Team Tournament have censored this comment due to excessive brutality. We apologize for the inconvenience.)
-
- 
-**Narration::**
-Don't worry! Everyone I've seen here is so weak! We can tear our way through them as easily as dancing a samba, yes!
-
- 
-**Narration::**
-Remember, regardless of your motives for becoming the true Santa, all are equal once they step through these ropes!
-
- 
-**Narration::**
-Now...the ring has been set.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come forth, contenders among contenders for the crown of Santa, and show us what you are made of!
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...What did I just watch?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can't say I saw that promo video coming.
 
  
@@ -2135,11 +1915,7 @@ Oh, and fur your information, there's no telling if any of the teams you saw in 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So when's our first match?
 
  
@@ -2165,20 +1941,12 @@ Let's see... What do you want us to do, Fujimaru?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why don't you two spar in the ring to get used to each other's style?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It might be good training to just keep fighting the creatures outside.
 
  
@@ -2227,20 +1995,12 @@ You kind of have to be when the others are a pack of crazy children who cause no
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think I might be the most nervous one here.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I hope I can be a good trainer...
 
  
@@ -2332,11 +2092,7 @@ That you fail to grasp something so simple is deplorable.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Santa Alter!
  
 **Santa Alter:**
@@ -2355,11 +2111,7 @@ Although... Um, isn't her partner from France...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hm? Astolfo?
 
  
@@ -2399,20 +2151,12 @@ He hasn't been making too much trouble for you all, has he?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nope! He's pretty much always like that.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nah. His cheerfulness is actually really nice.
 
  
@@ -2633,11 +2377,7 @@ Present Nucadora!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's gonna powerbomb him, hippogriff and all!?
 
  
@@ -2697,20 +2437,12 @@ Squaaawk!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's, uh, really sniffing away there, huh?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's digging her nose into the hippogriff's backwith a thousand-yard stare...
 
  
@@ -2824,11 +2556,7 @@ it's no longer necessary. Pardon me...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Martha!
 
  
@@ -2965,20 +2693,12 @@ Y-yes! Please! I was just thinking I need to train for the upcoming battles!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We've got a coach!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We've got a trainer!
 
  
@@ -3032,11 +2752,7 @@ You soaked up my teachings like a sponge! I'm a little jealous of what a good fo
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Here, have a towel.
 
  
@@ -3175,11 +2891,7 @@ If we ever do end up fighting the Greek team with you-know-who on it, I'm just g
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If those two are here, then they must be...
 
  
@@ -3509,11 +3221,7 @@ Fou fooou!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Good job! Let's keep on winning!
  
 **Mash:**
@@ -3536,11 +3244,7 @@ Now come on, let's all dance a victory samba to celebrate in style! Olé!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's not let the victory go to our heads.
  
 **Bradamante:**
@@ -3649,11 +3353,7 @@ but I'll be praying for your victory...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So that's our next opponent...!
 
  
@@ -3697,11 +3397,7 @@ Huh!? Why is the ground moving!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Say whaaaaaat!?
 
  
@@ -3758,11 +3454,7 @@ I am the Direct Current Superhuman...Lionman!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Direct Current...Superhuman...?
 
  
@@ -3772,11 +3464,7 @@ My ring name, of course! It signifies my love for direct current and my superhum
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ohhh, now I get it. DC... Dee see...
 
  
@@ -3957,11 +3645,7 @@ Dee see see see!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A DC death match...!
 
  
@@ -3999,20 +3683,12 @@ Not to mention that the electrified ropes mean you can't use your aerial lucha m
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No fair!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's fighting dirty!
 
  
@@ -4092,11 +3768,7 @@ Impossible...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Good job on another win!
 
  
@@ -4127,20 +3799,12 @@ We were lucky this time, but we need to stay on our guard and keep training hard
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm glad you're so diligent.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're a hard worker, aren't you?
 
  
@@ -4224,20 +3888,12 @@ Oh, I don't think that's it. I'm just good at finding the middle ground. Althoug
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hey there.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You guys must be the French team.
 
  
@@ -4269,11 +3925,7 @@ Reindeer Master!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I didn't know you were competing as well.
 
  
@@ -4327,20 +3979,12 @@ Thank you, lady with the vaguely French color scheme!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How did they cheat, exactly?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What was this team like? Where were they from?
 
  
@@ -4437,21 +4081,13 @@ Fou!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 C-can we help you with something?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There's so many of them! Maybe they want a selfie with us?
  
 **Bradamante:**
@@ -4527,11 +4163,7 @@ Tha...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Tha?
 
  
@@ -4639,21 +4271,13 @@ Hmm, yes, I suppose you have a point.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think I know what these “forbidden techniques” are now.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay, Martha. No matter what, you'll always be a saint.
  
 **Martha:**
@@ -4713,20 +4337,12 @@ But that doesn't mean I'm gonna horse around! Just line them up for me, Commande
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A third fighter...!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh come on, that's clearly against the rules!
 
  
@@ -4757,11 +4373,7 @@ Don't be ridiculous! This is my niece, Hua Meiluo! I hired&ndash;er, brought her
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'd love to see the entry form for this...
 
  
@@ -4796,11 +4408,7 @@ If you mean to bar him, you would need to have the King of Knights and the King 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now I REALLY wanna see your entry form!
 
  
@@ -5009,20 +4617,12 @@ Now she's going underneath Bradamante...and letting Bradamante stand on her shou
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're using your own body as a platform!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What about the poison!?
 
  
@@ -5057,11 +4657,7 @@ Very well then, I'll just have to trap her inside my Iron Maiden...!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ooh, I don't like the sound of that...!
 
  
@@ -5109,11 +4705,7 @@ Olé... That's great to hear, yes... I'm just a little worn out from staying in 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Quetzal Mask!
 
  
@@ -5203,20 +4795,12 @@ In the meantime, I'll take care of everything else that needs doing. Just point 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can't say I'm not worried...but we'll do the best we can.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll get everything ready. You just focus on healing.
 
  
@@ -5272,20 +4856,12 @@ Is that...!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So she's still not up, huh...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I guess she can't compete after all...
 
  
@@ -5355,20 +4931,12 @@ Right, Master!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh yeah, you're a wrestler if ever I've seen one.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're such a natural, it's scary.
  
 
@@ -5455,11 +5023,7 @@ Heh... I guess Bradamante's tenacity must have rubbed off on me.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You don't think anyone will catch on?
 
  
@@ -5526,20 +5090,12 @@ We represent the animal kingdom! Mewhahaha, bet you never thought you'd have to 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, I had a feeling this was coming.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Expected it, actually.
 
  
@@ -5589,20 +5145,12 @@ Girl, we're this tournament's apex predator!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (She doesn't have a clue!)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (I had no idea masks really worked this well.)
 
  
@@ -5679,11 +5227,7 @@ There must be, given that the people appear to be betting on them.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...What are you talking about?
 
  
@@ -5782,20 +5326,12 @@ It was almost like watching Coach Martha!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She still hasn't realized!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Talk about being pure of heart...
 
  
@@ -5945,11 +5481,7 @@ Stew, huh... Too bad. I would have loved to try some. (That's all right. Santa d
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh, Santa Senior? I think you got your inner and outer voices mixed up.
  
 
@@ -6032,11 +5564,7 @@ Surely it must have crossed your minds at least once or twice before.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can you just tell us what you're talking about?
 
  
@@ -6074,20 +5602,12 @@ I'll admit, I was a little jealous whenever I saw the others double-teaming us..
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (So honest!)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (I know what she means...)
 
  
@@ -6146,20 +5666,12 @@ Okay, let's do it! We may not have much time, but I'll do whatever it takes to m
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Be careful you don't get hurt.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let me know if there's anything I can do to help.
 
  
@@ -6189,20 +5701,12 @@ Oof. This is...harder than I thought...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you all right?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Purifying Recovery!
 
  
@@ -6248,20 +5752,12 @@ so hurry it up and&ndash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can you hang on just a little more?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Shh. We're just getting to the best part.
 
  
@@ -6291,11 +5787,7 @@ Fou! Fou, fooou!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Looks like they just barely made it.
 
  
@@ -6360,11 +5852,7 @@ Large? You are wrong there. If anything, you should be honored that I deigned to
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...!?
 
  
@@ -6451,20 +5939,12 @@ I encased my body in this icy form on our way here because it was SO GODDAMN HOT
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The golem's body just shattered...!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You mean Anastasia was inside all along...!?
 
  
@@ -6794,20 +6274,12 @@ Mammoth Tusk Train!!!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They're gonna collide!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Which move will win!?
 
  
@@ -6854,20 +6326,12 @@ As a shield-wielder myself, I think I might just be witnessing a legend in the m
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 H-how'd it turn out...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The smoke is clearing... Who won!?
  
 
@@ -6979,11 +6443,7 @@ Congratulations! Now that you defeated those fearsome opponents, you're official
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Amazing job, you two!
 
  
@@ -7120,20 +6580,12 @@ Train hard, and make sure we're in good condition for tomorrow! Oh, and make sur
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Bring it on!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 As your manager, I'll do the best I can to finish strong, too!
 
  
@@ -7213,11 +6665,7 @@ Hehehe. Mwahahaha. Mwaaahahahaha...!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So, this is it.
 
  
@@ -7374,11 +6822,7 @@ Reindeer Master... Everyone... Good luck...
 Ho ho ho. I wonder how this match will turn out.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...This tournament has seen a great many battles so far.
 
  
@@ -7386,11 +6830,7 @@ Ho ho ho. I wonder how this match will turn out.
 Villains have feelings too!!!
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Warriors clash, seeking to prove their strength.
 Some are successful. Others are not.
 
@@ -7399,11 +6839,7 @@ Some are successful. Others are not.
 We do not waste our time with weaklings.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 In the ring, victory can turn to defeat in an instant.
 Each fighter's motivation adds to the drama...
 
@@ -7416,11 +6852,7 @@ What the hell!? Are those peace signs!?
 No! She's saying they'll finish them off in two strikes!
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Each and every battle has built to this moment&ndash;to the fight to determine who will win it all!
 
  
@@ -7505,20 +6937,12 @@ Maybe it's just a golem she brought in to fill the other slot on her team...?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just don't let your guard down.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's just focus on the match at hand.
 
  
@@ -7629,11 +7053,7 @@ I can't deny the goodness inherent in me...even if it belongs to my wicked other
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now what do we do...!?
 
  
@@ -7683,20 +7103,12 @@ It's even stronger than when it defeated the Russian team! That's got to be more
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, it's not over yet.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...She's getting back up!
 
  
@@ -7991,11 +7403,7 @@ I... I...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
  
@@ -8177,20 +7585,12 @@ Very well then, this will be our little secret.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wow!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Your Spirit Origin changed!
 
  
@@ -8398,20 +7798,12 @@ Sorry everyone, that's just how we gods are, yes!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You were amazing!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Congratulations!!!
 
  
@@ -8484,11 +7876,7 @@ Fo!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's snowing again!
 
  
@@ -8554,20 +7942,12 @@ I don't know if I'll just go back to the Throne, or continue my journey somewher
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll miss you.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So it's finally time to disband the team, huh...
 
  
@@ -8634,11 +8014,7 @@ Okay, everyone... Merry Christmas!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Merry Christmas!
 
  
@@ -8691,42 +8067,25 @@ Of course, ours was still the wildest, and the most popular! Remember, winning i
 Okay, what's next on the old to-do list... You know, as hard as I've had to work, I think I might need to invoice Kuku for triple the meat she promised...
 
  
-<<<<<<< HEAD
 **Narration:**
 Some panels are soon forgotten after their role has been fulfilled. Some are engraved with records detailing the battles that were fought there.
 
  
 **Narration:**
-=======
-**Narration::**
-Some panels are soon forgotten after their role has been fulfilled. Some are engraved with records detailing the battles that were fought there.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 With no one left to look at them,
 there is no way to tell what they say.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who competed in this tournament?
 Which teams fell to which opponents?
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Which heroes took to the ring for the African team?
 At this point, nobody knows.
 
  
-<<<<<<< HEAD
 **Narration:**
 Of course, even if the young knight had seen the name she was searching for there, she may have just said:
 
@@ -8756,36 +8115,5 @@ In the meantime, the young knight in love trusts in her feelings, and her sense 
 
  
 **Narration:**
-=======
-**Narration::**
-Of course, even if the young knight had seen the name she was searching for there, she may have just said:
-
- 
-**Narration::**
-“I didn't even notice! So there was actually another miracle at work here, huh. Too bad I missed him.”
-
- 
-**Narration::**
-...and laughed it off.
-
- 
-**Narration::**
-She would certainly not lose heart so much that she would abandon her search. Such despair would not even enter her mind.
-
- 
-**Narration::**
-While she does wish to see him again, her feelings will remain the same, whether she finds him or not.
-
- 
-**Narration::**
-Because she knows their love will endure forever...
-
- 
-**Narration::**
-In the meantime, the young knight in love trusts in her feelings, and her sense of justice...
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...and continues to put one foot in front of the other, regardless of what lies ahead.
 

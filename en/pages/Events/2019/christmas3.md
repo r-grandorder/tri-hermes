@@ -20,20 +20,12 @@ Fooou...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, this doesn't look great.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Unseasonably hot, isn't it?
  
 
@@ -97,20 +89,12 @@ If only my mentor...Santa Island Mask...were here now...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He was one of the first to collapse.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's got his own problems to deal with right now.
  
 
@@ -142,20 +126,12 @@ It all falls to you, Reindeer. Remember my chocolate mints and dozen turkeys whe
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Even the diehard Christmas fans are giving up!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This might be even worse than I thought...
  
 
@@ -175,40 +151,24 @@ Fou... Sorry, but I'm going to have to lie down next to you. ...Senpai, if I cou
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh crap, I'm the only one left standing!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'd better go get some ice for everyone!
  
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What the...? It's like a sauna in here!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There are Servants collapsed all over the place...!
  
 
@@ -231,20 +191,12 @@ NeVEr mINd that one time I wORkeD mysELF to DEath!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That voice...!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Something is very wrong with you...!
  
 
@@ -269,20 +221,12 @@ You must have acquired some resistance to it during your escapade in the underwo
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You know where this heat is coming from!? Great!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do you have any treasure that can fix this!?
  
 
@@ -316,20 +260,12 @@ This is the terrible illness that even the gods themselves fear: Sumerian Summer
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sumerian...Summer Fever?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (I think the heat may have gotten to him too...)
  
 
@@ -356,11 +292,7 @@ Unlike any other mere virus, the Sumerian Fever has a sort of will to it. It is 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So, this heat is from the Mesopotamian underworld?
  
 
@@ -394,20 +326,12 @@ I was so sure this was the year that Dark Santa would pay me a visit!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I see. Well, I guess even kings can dream.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hey, wait! Exactly what do I do here!?
  
 
@@ -438,20 +362,12 @@ Don't think you'll just waltz right to your goal the way you did on your last vi
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Glad somebody's enjoying this...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hm? What do you mean, last of your power?
  
 
@@ -475,60 +391,36 @@ May the Sheep God keep you safe! When your goal has been accomplished, a gloriou
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Your Majestyyy!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It would take a real miracle for that!
  
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ugh...huh...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh. The underworld has a sky. Who knew?
  
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ALWAYS with the falling!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Huh, this is kinda a slow fall...
  
 
@@ -540,11 +432,7 @@ WoOoooohhh!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Just when I thought everything was fine...!)
  
 
@@ -556,20 +444,12 @@ GalluUuuuu!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Rainbow...trails...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's a bird! It's a ROMA! No, wait...
  
 
@@ -585,20 +465,12 @@ young [♂ man /♀ lady]?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yes please!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (So this is this year's Santa...!)
  
 
@@ -686,11 +558,7 @@ So you will not need my help to reach the ground safely. See? So soft...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Whoa, you're right. I AM falling slowly...
  
 **Altera Santa:**
@@ -700,11 +568,7 @@ Indeed. No wonder you are the great sage who led not one but two Santas to succe
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Never mind that. What was with those ghosts' hats!?
  
 **Altera Santa:**
@@ -728,20 +592,12 @@ THE Santa Claus.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, I uh...I got that...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are... Are you seriously THE Santa Claus?
  
 
@@ -765,11 +621,7 @@ Ho ho ho. It's me, San&ndash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can you tell me what's going on here?
  
 
@@ -817,11 +669,7 @@ So let's share what we both know while we're still falling. Is that all right wi
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh... I guess...
  
 **Altera Santa:**
@@ -832,11 +680,7 @@ This will be a great help for me too.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Fine with me. Anyway, thanks for saving my life!
  
 **Altera Santa:**
@@ -884,20 +728,12 @@ What's wrong, Fujimaru? I thought you would be happier now that we've finally re
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I mean, just take a look around.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This isn't anything like the underworld I know!
  
 
@@ -968,11 +804,7 @@ so I will tell you what I can.”
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
  
 
@@ -989,20 +821,12 @@ Now you know our great secret.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you know about that letter's writer?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Does that letter say anything else?
  
 
@@ -1043,11 +867,7 @@ you should head for the abyss.”
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So...Uruk in Abyss, eh?
  
 **Altera Santa:**
@@ -1057,11 +877,7 @@ You really wanted to say that, hm? I understand.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So, the abyss is below the underworld?
  
 **Altera Santa:**
@@ -1093,22 +909,14 @@ Any other questions? Ask, and I shall answer.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, I think I understand now. So, uh...about you...
  
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What does all this have to do with you?
  
 
@@ -1178,20 +986,12 @@ You have no right to pass, nor have you met the conditions to open this gate.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think I had to answer some questions here...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is that goddess game show thing, right?
  
 
@@ -1219,20 +1019,12 @@ Do you understand? If you wish to proceed from here, you must either suffer defe
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Or?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...(Gulp)
  
 
@@ -1243,11 +1035,7 @@ Or give me a present. Do that, and I would be willing to make an exception and o
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Pardon?
  
 
@@ -1271,20 +1059,12 @@ If you don't, then go home and stop wasting my time.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (...How's your stock of butter cake, Santa?)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (...Aww, little Ana grew up so much...!)
  
 
@@ -1316,11 +1096,7 @@ Yes. The quality of the presents is far more important to Christmas than the qua
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well don't just come out and SAY it!
  
 **Altera Santa:**
@@ -1330,11 +1106,7 @@ Yeah. Santa has feelings too, you know.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think someone just got her name on the naughty list.
  
 **Altera Santa:**
@@ -1368,11 +1140,7 @@ Why did we have to fight just so you could give me a present?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, I was actually wondering about that, too.
  
 **Altera Santa:**
@@ -1390,11 +1158,7 @@ It's stamped with the official seals of the first and second Chaldean Santas. Th
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you mean? That's just how Santa rolls.
  
 **Altera Santa:**
@@ -1444,11 +1208,7 @@ Ba-baaa. (That's not it either, Lady Altera.)
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Her sheep doubles as a present sack...!)
  
 
@@ -1489,21 +1249,13 @@ Maybe someday, we'll meet again on the surface.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That sounds nice. Take care, Ana.
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh, hey, why are you even doing this?
  
 **Gatekeeper:**
@@ -1523,20 +1275,12 @@ I'd heard the gates of the underworld were gates of judgment, and didn't open ex
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe it's because the gatekeeper felt saved...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't believe everything you hear.
  
 
@@ -1593,19 +1337,11 @@ Here comes Santa Claus!
  
 ## Section 3: Stars at Dawn
  
-<<<<<<< HEAD
 **Narration:**
 I saw a star streak across the sky. A shooting star with a trail of gleaming silk threads in its wake...
 
  
 **Narration:**
-=======
-**Narration::**
-I saw a star streak across the sky. A shooting star with a trail of gleaming silk threads in its wake...
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It was the gleam of Venus, shining so bright that it was even visible from the deepest reaches of the underworld.
 
  
@@ -1629,36 +1365,20 @@ I'll do everything I can to make this land into the best nation ever! I can't wa
 There's bound to be other gods stopping by here soon, so I need to make sure they'll be comfortable here!
 
  
-<<<<<<< HEAD
 **Narration:**
 When I awoke to my Divinity, which world I would rule had already been determined for me.
 
  
 **Narration:**
-=======
-**Narration::**
-When I awoke to my Divinity, which world I would rule had already been determined for me.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The world below the surface... A freezing, untamed wilderness where the souls of the dead roamed free.
 A lifeless world bordering the abyss itself.
 
  
-<<<<<<< HEAD
 **Narration:**
 No sun shines here. No stars twinkle, no wind blows, no water flows, and no flowers bloom. The underworld is only frigid cold, and now it is my task to care for this place.
 
  
 **Narration:**
-=======
-**Narration::**
-No sun shines here. No stars twinkle, no wind blows, no water flows, and no flowers bloom. The underworld is only frigid cold, and now it is my task to care for this place.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That is the role&ndash;the only role&ndash;given to me.
 
  
@@ -1802,20 +1522,12 @@ I hope I did not wake you?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay. I just nodded off for a bit...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I dreamed about a girl who was lying to herself...
  
 
@@ -1864,11 +1576,7 @@ The underworld's ruler would normally be at the highest place here, but&ndash; A
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that your new catchphrase?
  
 **Altera Santa:**
@@ -1878,11 +1586,7 @@ Ho ho ho, "achoo" isn't a catchphrase, it's my body responding to the external e
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't tell me you've caught the Sumerian Fever too...?
  
 **Altera Santa:**
@@ -2240,11 +1944,7 @@ I see. You are clearly a woman of taste and discernment.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Altera, you got scammed.
  
 **Altera Santa:**
@@ -2260,11 +1960,7 @@ No creature with a name like that could be bad...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sooo, where's that sheep now?
  
 **Altera Santa:**
@@ -2280,20 +1976,12 @@ At any rate, I appreciate you following along with my difficult tale. Have a can
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ow! Wait...did a candy just pop out of me?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Am...am I a vending machine?
  
 
@@ -2365,20 +2053,12 @@ Wha...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Darker than...okay, hearing ABS now.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I feel like I've seen something like this before...
  
 
@@ -2499,20 +2179,12 @@ Hm... I suppose you have a point. Still, I'm afraid you're rather... How can I p
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You don't look anything like Santa Claus.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're not exactly Christmasy...
  
 
@@ -2533,11 +2205,7 @@ Decorations, activate!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now THOSE are Christmas lights!
  
 
@@ -2637,11 +2305,7 @@ Still, there's no way you'll stop the current underworld boss like this. You guy
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you mean? Do you know something?
  
 **Shadow Santa:**
@@ -2652,11 +2316,7 @@ I'm just a sacrificial lamb!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Tell us more! Who is this “boss”?
  
 **Shadow Santa:**
@@ -2686,20 +2346,12 @@ Huh, guess I ended up doing the whole “leaving you with information before I d
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's gone...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A totally...free-spirited goddess... (Gulp)
  
 
@@ -2719,7 +2371,6 @@ Next time, we should find out more about the underworld boss Shadow Santa spoke 
  
 ## Section 4: Poisonous Reunion
  
-<<<<<<< HEAD
 **Narration:**
 –––“Where am I?”–––
 
@@ -2745,33 +2396,6 @@ Next time, we should find out more about the underworld boss Shadow Santa spoke 
 
  
 **Narration:**
-=======
-**Narration::**
-–––“Where am I?”–––
-
- 
-**Narration::**
-–––“What is this place?”–––
-
- 
-**Narration::**
-–––“It's dark.”–––
-
- 
-**Narration::**
-–––“So dark.”–––
-
- 
-**Narration::**
-–––“So cold.”–––
-
- 
-**Narration::**
-–––“So cold.”–––
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 –––“I'm all alone.”–––
 
  
@@ -2852,19 +2476,11 @@ And I swear to you that so long as you are here in my care, you will always know
 I know it's freezing cold here...but hopefully your dreams will at least be pleasant.
 
  
-<<<<<<< HEAD
 **Narration:**
 –––“Oh.”–––
 
  
 **Narration:**
-=======
-**Narration::**
-–––“Oh.”–––
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 –––“I feel...a little warmer.”–––
 
  
@@ -2874,11 +2490,7 @@ I know it's freezing cold here...but hopefully your dreams will at least be plea
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's up, Santa?
  
 
@@ -2906,11 +2518,7 @@ You know the Heroic Spirit who's been summoned to be its gatekeeper, right? In t
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sure. It's probably the Mesoamerican goddess.
  
 **Altera Santa:**
@@ -2920,11 +2528,7 @@ Mesoamerica, hm...? She sounds like a warmhearted deity. I wonder how well we'll
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It'd be best if we didn't have to fight her...
  
 **Altera Santa:**
@@ -2967,11 +2571,7 @@ You're... It can't be.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ereshkigal...!?
  
 
@@ -3049,20 +2649,12 @@ Even gods can't stand against me. Humans have NO chance. If you aren't sure why,
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The stronger you are, the weaker you get here.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're pretty much invincible here, Ereshkigal.
  
 
@@ -3078,20 +2670,12 @@ Wait. How did you know that!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You...told me, Ereshkigal.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hi, Ereshkigal. Been a while!
  
 
@@ -3125,20 +2709,12 @@ I'm Santa.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (She doesn't actually have any Divinity...)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Yeeeah... That's Ereshkigal, all right.)
  
 
@@ -3185,20 +2761,12 @@ So, Fujimaru would like you to please stop this attack now, if you can.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “If you can” my ass!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, I just want you to stop it right now.
  
 
@@ -3244,20 +2812,12 @@ I guess we really do need to be victorious in battle before people can accept ou
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um, that's REALLY not the point of Christmas...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ereshkigal, please, listen to me!
  
 
@@ -3274,11 +2834,7 @@ Urk...! She really IS trying to kill us! Get out of here, Master! Hurry back to 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can't! I can't fly!
  
 **Great Sheep Zerco:**
@@ -3289,11 +2845,7 @@ Baaa. (You tell her.)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...But I'll get sick trying to ascend!
  
 **Ereshkigal:**
@@ -3322,11 +2874,7 @@ You've earned at least that much!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm Fujimaru, and I know ALL of your secrets.
  
 **Ereshkigal:**
@@ -3337,11 +2885,7 @@ You're not kidding, are you!? Seriously!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm , and I transform when I sneeze.
  
 **Ereshkigal:**
@@ -3446,43 +2990,27 @@ It feels like my head is going to explode...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Okay. Let's get some things straight.
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 First of all, Ereshkigal is NOT the bad guy.
  
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Second, I have no idea what's going on either.
  
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And third, we need to talk to Ereshkigal again!
  
 
@@ -3789,11 +3317,7 @@ I hope you enjoyed Santa's first illustrated story.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So there are other underworld gods, huh...
  
 **Altera Santa:**
@@ -3812,11 +3336,7 @@ I think she and I could be good friends...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It was amazingly high quality...
  
 **Altera Santa:**
@@ -3897,20 +3417,12 @@ I apologize for my rudeness, Lord Yoshitsune! But if I may, that would only prol
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hey... That's Ushiwakamaru and Benkei!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I've never seen Benkei look so forlorn...!
  
 
@@ -3933,20 +3445,12 @@ Still, while I could watch it all day, I'm afraid we don't have much time. May w
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sure.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Greet them? Let's make it quick.
  
 
@@ -3989,20 +3493,12 @@ I would much rather celebrate Christmas with close female friends than this dim-
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait. Back up.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Weren't you all gray and stuff like a minute ago!?
  
 
@@ -4104,20 +3600,12 @@ I think you'll be very happy with this bromide.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You look awesome here, Ushiwakamaru!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wow, Altera! You actually got it right this time!
  
 
@@ -4171,20 +3659,12 @@ I couldn't even use that for an oilcloth.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I-I guess not...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Fine, what DO you want?
  
 
@@ -4218,11 +3698,7 @@ Indeed, it is wasted on a fool like myself.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hey look, the gate opened!
  
 
@@ -4251,11 +3727,7 @@ Now we can see you off with a clear conscience.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...?
  
 
@@ -4317,11 +3789,7 @@ Jaguar Warrior... Truly a fearsome opponent.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah... And a sad one.
  
 **Altera Santa:**
@@ -4331,11 +3799,7 @@ True... I barely understood half of what she was saying, even without the feveri
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Next up: the sixth gate.
  
 **Altera Santa:**
@@ -4875,11 +4339,7 @@ And that concludes our in-flight movie and Santa's second illustrated story. I h
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...This makes even less sense now...
  
 
@@ -4895,20 +4355,12 @@ I must have inadvertently polished it too much, and taken it to the realm of hig
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, no, I understood it fine. It's just, why...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, what I don't get is why she's attacking us.
  
 
@@ -4919,11 +4371,7 @@ No, what I don't get is why she's attacking us.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And there's no reason why she would do this.
  
 
@@ -4943,11 +4391,7 @@ Do you have any idea, Fujimaru?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe...Nergal?
  
 **C：???:**
@@ -4957,11 +4401,7 @@ Well done. That is the logical conclusion to this story, after all, since it con
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Dumuzid seems very suspicious...
  
 **C：???:**
@@ -4989,20 +4429,12 @@ I've been touring this place myself and just happened to get here first. You can
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that you, Merl...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh great, this isn't shady at all...
  
 
@@ -5056,20 +4488,12 @@ Unlike Mesopotamia, the underworld is still alive and kicking, so to speak, so i
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Easy with the spoilers!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I knew it. It IS you, isn't it, Merl...?
  
 
@@ -5149,20 +4573,12 @@ If we want to celebrate Christmas, we'll have to beat this evil Ghost of Not-Chr
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Got it! Just keep those heals coming!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks, Mister Sheep!
  
 
@@ -5210,20 +4626,12 @@ After all, Ereshkigal's the one sending the plague there.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you mean?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Didn't you just say Nergal did all this?
  
 
@@ -5271,20 +4679,12 @@ she has to make Chaldea disappear too.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why would she do that...?
  
 
@@ -5312,20 +4712,12 @@ How did she seem to you?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So that's why she didn't know about Chaldea...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (She didn't seem any different, but I'll keep that to myself...)
  
 
@@ -5381,21 +4773,13 @@ If only she could have disappeared on her own, and spared the rest of us all thi
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...So now what do we do? Got a plan?
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You haven't changed a bit, Mister Sheep.
  
 **Mister Sheep:**
@@ -5431,20 +4815,12 @@ Souls would suffer and disappear... The air would go stagnant... Maggots, flies,
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (But, if we don't beat her, Chaldea is finished...)
  
 
@@ -5531,20 +4907,12 @@ Could it be the other pillar of the underworld?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Dumuzid?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Desire... Demon... Ugh, my head...!
  
 
@@ -5559,20 +4927,12 @@ Next time, come see me directly! Hopefully, that future will be one that brings 
  
 ## Section 7: Stars Shot into the Celestial Journey
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The adventure has come to an end.
 By this time tomorrow, the underworld will be closed.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Today is the last day I will be able to look up from here and see the sky.
 
  
@@ -5605,7 +4965,6 @@ So it's not like I'm jealous...
 ...But I did have a lot of fun traveling around with [♂ him /♀ her].
 
  
-<<<<<<< HEAD
 **Narration:**
 All those blooming flowers that Merlin guy brought with him have disappeared. Everything that reminded me of [♂ him /♀ her] is gone.
 
@@ -5619,55 +4978,24 @@ All those blooming flowers that Merlin guy brought with him have disappeared. Ev
 
  
 **Narration:**
-=======
-**Narration::**
-All those blooming flowers that Merlin guy brought with him have disappeared. Everything that reminded me of [♂ him /♀ her] is gone.
-
- 
-**Narration::**
-...Come to think of it, I tried several times to make flowers bloom here, didn't I?
-
- 
-**Narration::**
-...It was hopeless. All I had to show for it after thousands of years was a bunch of dead seeds.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “Don't be sad.” “The underworld is completely barren.
 It's not your fault they didn't grow.”
 
  
-<<<<<<< HEAD
 **Narration:**
 The gazelle droned on like usual while I glared at the sky, fighting back tears.
 
  
 **Narration:**
-=======
-**Narration::**
-The gazelle droned on like usual while I glared at the sky, fighting back tears.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “The underworld doesn't need flowers anyway.”
 “It's not as though they're anything special.”
 
  
-<<<<<<< HEAD
 **Narration:**
 I put on a brave face and agreed...however reluctant I was to do it.
 
  
 **Narration:**
-=======
-**Narration::**
-I put on a brave face and agreed...however reluctant I was to do it.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “Who needs flowers? The poor things would never be happy here even if they did bloom, dark as it is...”
 
  
@@ -5706,7 +5034,6 @@ All of this is to ensure the underworld's survival...
 Please, fulfill your final duty as the Queen of Kur.
 
  
-<<<<<<< HEAD
 **Narration:**
 I let myself fall into the abyss. I cast away this new me that was created when I gained this avatar.
 
@@ -5724,42 +5051,15 @@ Goodbye, memories of the surface.
 
  
 **Narration:**
-=======
-**Narration::**
-I let myself fall into the abyss. I cast away this new me that was created when I gained this avatar.
-
- 
-**Narration::**
-...How strange. Usually I would be crying from loneliness, but right now, I'm actually smiling.
-
- 
-**Narration::**
-Now that it's all ending, just thinking back brings a smile to my face. I've been so lonely, but back then, I had so much fun I can't help but be happy.
-
- 
-**Narration::**
-Goodbye, memories of the surface.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Goodbye, first friend I ever made.
 Thanks for all the lovely conversation.
 
  
-<<<<<<< HEAD
 **Narration:**
 I wonder if I'll ever be able to listen to another of your stories while I look up at the starry night sky.
 
  
 **Narration:**
-=======
-**Narration::**
-I wonder if I'll ever be able to listen to another of your stories while I look up at the starry night sky.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh, right...
 Even if I do, I won't be me anymore.
 
@@ -5770,20 +5070,12 @@ Even if I do, I won't be me anymore.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Altera Santa...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is there something on your mind?
  
 
@@ -5800,11 +5092,7 @@ since it's a bit complicated.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
  
 
@@ -5840,20 +5128,12 @@ Only one more left to go, Master.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...That's weird.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I don't see anyone here.
  
 
@@ -5882,20 +5162,12 @@ Ah! Up there!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Something's punching through all the other gates!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Something's headed straight for us!
  
 
@@ -5937,20 +5209,12 @@ Ishtar, soaring across the sky to avenge her humiliation in record time!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Damn, Ishtar's looking badass!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 NOW what are you wasting your money on!?
  
 
@@ -6003,20 +5267,12 @@ And I was right! Things turned out perfectly! Not that I ever doubted they would
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Aha... So that's why you look so demony...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Aha... So that's why you look so demony...
  
 
@@ -6062,20 +5318,12 @@ No way. Out of the question. Now come on, let's go back to the surface. I'll eve
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But, if I don't do something, Chaldea's...
  
 
@@ -6124,20 +5372,12 @@ So come on, you don't need to bother with a goddess of death like that, right?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Be that as it may...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm still going down to the abyss.
  
 
@@ -6172,20 +5412,12 @@ But I was REALLY going all out this time!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I couldn't have won if you'd stayed super.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Guess the underworld just isn't her place...)
 
  
@@ -6247,20 +5479,12 @@ A once-in-a-lifetime collaboration between Christmas and the underworld. May I, 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Go for it.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No time like the present to choose a present.
  
 
@@ -6300,20 +5524,12 @@ But... Okay, if I'm being totally honest, I guess I'm just looking for something
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now what would a goddess find touching...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now what would a goddess find exciting...
  
 
@@ -6348,20 +5564,12 @@ That's a feat on par with anything the gods could pull off! Whoever came up with
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh yeah.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You've got that right.
  
 
@@ -6411,11 +5619,7 @@ So maybe, juuust maybe...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Okay, let's go!
  
 
@@ -6430,16 +5634,11 @@ Let's go bring Ereshkigal what she lost...!
  
 ## Section 8: Flowers Bloom in the Abyss
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I woke to the sound of waves.
 Someone had come to the abyss.
 
  
-<<<<<<< HEAD
 **Narration:**
 ...It must be that human and Servant. What fools they are, coming here even after I warned them not to.
 
@@ -6449,22 +5648,10 @@ I may be losing my power, but I still won't have any trouble sweeping out a coup
 
  
 **Narration:**
-=======
-**Narration::**
-...It must be that human and Servant. What fools they are, coming here even after I warned them not to.
-
- 
-**Narration::**
-I may be losing my power, but I still won't have any trouble sweeping out a couple of pests.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's make this quick.
 I don't have long before I disappear, after all.
 
  
-<<<<<<< HEAD
 **Narration:**
 Yes. I'm going to disappear here since I broke my oath.
 
@@ -6486,34 +5673,10 @@ It's only right that I disappear. So I'll dissolve into the abyss and leave Nerg
 
  
 **Narration:**
-=======
-**Narration::**
-Yes. I'm going to disappear here since I broke my oath.
-
- 
-**Narration::**
-...And yet, I don't know why.
-
- 
-**Narration::**
-I don't remember anymore. The person I was when I broke that oath was the first thing I discarded.
-
- 
-**Narration::**
-I may not know why I did it, but the fact that I'm weakening proves that I did it all the same.
-
- 
-**Narration::**
-It's only right that I disappear. So I'll dissolve into the abyss and leave Nergal in charge.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm not afraid, and I have no regrets. If I had it all to do over again, I wouldn't change a thing.
 ...But, there is one thing I can't help but wonder about.
 
  
-<<<<<<< HEAD
 **Narration:**
 I know I broke my oath, but...my past self would never have done that, no matter what.
 
@@ -6527,21 +5690,6 @@ Something must have happened to me that led me to do what I otherwise never woul
 
  
 **Narration:**
-=======
-**Narration::**
-I know I broke my oath, but...my past self would never have done that, no matter what.
-
- 
-**Narration::**
-...So I admit, it's kind of painful.
-
- 
-**Narration::**
-Something must have happened to me that led me to do what I otherwise never would.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And I'm sad and sorry that I can't remember what it was.
 
  
@@ -6577,20 +5725,12 @@ This is the end of the line.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That voice...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nergal...!?
  
 
@@ -6622,11 +5762,7 @@ No doubt you came here thinking you could save her from her fate...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
  
 **Altera Santa:**
@@ -6651,11 +5787,7 @@ The point is, neither you nor I are outsiders.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Where's Ereshkigal?
  
 **Evil Gallû Spirit:**
@@ -6694,20 +5826,12 @@ Once I do, the underworld will finally be mine!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Bring it on, Nergal...!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (So Ereshkigal's at the bottom of the abyss...!)
  
 
@@ -6746,20 +5870,12 @@ We need to dive to the bottom of the abyss and pull her out...!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Got it!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But, how exactly!?
  
 
@@ -6801,20 +5917,12 @@ Look to your hand and grasp what you hold there with all your might! You already
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The Sands of the Underworld...!
  
 
@@ -6850,11 +5958,7 @@ All you need worry about is speaking with the goddess of the underworld!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks, King Leonidas...!
  
 
@@ -6881,11 +5985,7 @@ I can't even see myself, for that matter. So this is the bottom of the abyss, a 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ereshkigal!
  
 
@@ -6915,20 +6015,12 @@ Why have you shown yourself before me?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I came here to see you, of course.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm here to help you, whatever the circumstances.
  
 
@@ -6950,11 +6042,7 @@ even after seeing me like this...?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
  
 
@@ -7012,11 +6100,7 @@ I'm using the last of my power to help the underworld.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
  
 
@@ -7027,11 +6111,7 @@ Fujimaru?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why do you have to disappear at all?
  
 **Ereshkigal:**
@@ -7041,11 +6121,7 @@ Well... Because...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just forget about this place.
  
 **Altera Santa:**
@@ -7092,20 +6168,12 @@ Do that, and it shall be reborn as a garden of terror, as a world of death, dust
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that Nergal...!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't tell me he's down here too...!?
  
 
@@ -7158,11 +6226,7 @@ Now, come, Ereshkigal. The time has come to fulfill your duty. Kill them, and di
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ereshkigal...!
  
 
@@ -7238,31 +6302,19 @@ To save Chaldea from the Sumerian Fever?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Because...
  
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I couldn't give up on you.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I wanted to see you again, Ereshkigal.
  
 
@@ -7370,20 +6422,12 @@ I shall kill her myself!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh no...!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Altera Santa...!
  
 
@@ -7522,11 +6566,7 @@ And, um... As for you, human!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's been a long time, Ereshkigal.
  
 **Ereshkigal:**
@@ -7541,11 +6581,7 @@ but I guess for you, it feels like it's been way longer!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 First things first: thanks, Ereshkigal.
  
 **Ereshkigal:**
@@ -7562,11 +6598,7 @@ I only helped you for my own sake.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 On another note, that spear is pretty boss.
  
 
@@ -7740,20 +6772,12 @@ You've been that way since the Age of Gods, which is also why you never had many
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...(Gasp!)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're back at the top of the abyss!
  
 
@@ -7824,20 +6848,12 @@ That gives us hardly any time at all! We finally have a chance to see each other
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay, Ereshkigal.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...You're right. It's a real shame. But...
  
 
@@ -7920,11 +6936,7 @@ I'll show up looking super awesome, and be your totally amazing goddess of victo
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I know.
  
 **Ereshkigal:**
@@ -7939,11 +6951,7 @@ Now I'm getting kind of nervous...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Think back and laugh a bit)
  
 **Ereshkigal:**
@@ -8131,21 +7139,13 @@ Quick, get on Zerco, before it becomes the 24th! Hurry!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I-I'm hurrying, I'm hurrying!
  
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well... See you around, Ereshkigal!
  
 
@@ -8192,22 +7192,14 @@ What is the most important message to spread at this time of year?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What else...?
  
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Merry Christmas!
  
 

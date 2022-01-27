@@ -54,11 +54,7 @@ Noble Phantasm Level 1, Caliburn!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...We owe it all to Lily's training, I think.
 
 
@@ -81,11 +77,7 @@ I'll manage your schedule with an iron fist to make sure you become the most lov
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't joke around. This time it's serious.
 
 
@@ -136,21 +128,13 @@ Oh, Lily...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Whether strong or weak, you must...
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 True, your Noble Phantasm must get stronger.
 
 
@@ -175,21 +159,13 @@ So I want you to be particularly careful about saying anything about Noble Phant
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Got it.
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uhm, should you be in an alliance like that?
 
 
@@ -211,11 +187,7 @@ Don't worry, ok? Isn't that right, Master!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She will become an A rank for sure.
 
 
@@ -232,11 +204,7 @@ It builds my confidence to hear you say that, Master.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Whether a strong Heroic Spirit or weak Heroic Spirit, you must...
 
 
@@ -344,21 +312,13 @@ Oh, Lily...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This problem is a little too specific...
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? What was that in the sky?
 
 
@@ -378,11 +338,7 @@ Fou?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wh-wh-wh-wh-what the heck!
 
 
@@ -394,11 +350,7 @@ Whoa! Whoaaaaah!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What the heck is thaaaaaaaat!?
 
 
@@ -424,11 +376,7 @@ I mean, I would like some orders from you, Senpai!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's going on? This kind of thing happens a lot!?
 
 
@@ -441,21 +389,13 @@ but when I'm alone it happens pretty often.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I see.
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Your view of the world is pretty crazy, Lily.
 
 
@@ -528,21 +468,13 @@ Right. When my hand slipped and accidentally hit her in the shin, she kept sayin
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She must really hate losing...
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No doubt about it, she's an Altria...
 
 
@@ -603,21 +535,13 @@ To get along in the world, sometimes you must turn your eyes from the truth and 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Everyone with your look is a Saber.
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's right. The details don't matter.
 
 
@@ -697,21 +621,13 @@ They have fallen from my spacecraft. If you don't gather them and repair it, I c
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's a pretty selfish training regimen...
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wow, a Servant from outer space...
 
 
@@ -759,21 +675,13 @@ You there, Shieldy, Master, you're not going anywhere. It's too late, so give it
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I see. So it's too late...
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I thought we could make it if we left now...
 
 
@@ -808,21 +716,13 @@ A Saber's dignity rests on battle. Experience and learn this. Now&mdash;begin yo
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is way beyond crazy. This is insanity!
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now begins a crazy battle that's supposed to help Lily!
 
 
@@ -840,11 +740,7 @@ Senpai. Don't you think it's about time that we answered the question that's on 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh, you mean about the spacecraft parts.
 
 
@@ -855,11 +751,7 @@ That's right. I wasn't going to say anything, but it looks like this is going to
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ah, you mean about who X really is.
 
 
@@ -906,11 +798,7 @@ When this device is fed enough Altrium, Lily can be physically enhanced.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A Spirit Origin Enhancement Device?
 
 
@@ -925,11 +813,7 @@ You want that? Look, Fou, I understand your feelings, but just calm down!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What is Kadmon...
 
 
@@ -951,21 +835,13 @@ Adam Kadmon is a device that creates an exact Spirit Origin copy based on the Sp
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So you can just print off copies of the same Heroic Spirit!?
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You can raise a Noble Phantasm's level all you like! Wow!
 
 
@@ -999,21 +875,13 @@ Oh, dear... That was a short-lived dream... I'm sorry, Master. It seems I will a
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't worry, Mash. You'll become stronger for sure someday.
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on! You'll get there soon.
 
 
@@ -1194,21 +1062,13 @@ you seem to know him. May I dispose of him?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Go ahead.
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yes, please. Be my guest.
 
 
@@ -1351,21 +1211,13 @@ This is the kind of dazzling training experience I can offer you. How about it?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How about no.
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's obvious what you're after, Captain.
 
 
@@ -1387,21 +1239,13 @@ Blackbeard is after...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's all right, Mash. I know how this will end.
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Step back. You don't want to get caught in the crossfire.
 
 
@@ -1520,21 +1364,13 @@ Pirates tend to lose their “balls” when they're on land.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 General Gilles?
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What...was that about...
 
 
@@ -1597,11 +1433,7 @@ I think now is the time to clear up that other question.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ah, you mean about X's Class.
 
 
@@ -1624,11 +1456,7 @@ I'm 100% Saber Class. Got a problem?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ah, you mean about who X really is.
 
 
@@ -1700,11 +1528,7 @@ It's a world where we have been set free from the burden of our origins and can 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, I have no idea what you're talking about.
 
 
@@ -1716,11 +1540,7 @@ I think that universe seems all right.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 In that universe, do people become zombies?
 
 
@@ -1829,21 +1649,13 @@ Isn't that right, Master?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're right. But X is a good Saber.
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You think so? I mean, X is “that” Saber.
 
 
@@ -2172,21 +1984,13 @@ Well, it matters not. Now then, Fujimaru, Mash, Lily, X. May we enjoy much laugh
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...We've grown to become quite a large group...
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm not quite sure how to handle this...
 
 
@@ -2464,11 +2268,7 @@ Well, I guess that itself is a distant “if.”
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You certainly are knowledgeable, Emiya-senpai!
 
 
@@ -2484,11 +2284,7 @@ It's just a digression.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A Spiritron computer life?
 
 
@@ -2840,21 +2636,13 @@ Could what Babbage have said...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yes, it's about X...
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, well, it's pretty obvious...
 
 
@@ -3293,11 +3081,7 @@ Saber Lily will send you to your grave!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Lily!
 
 
@@ -3309,11 +3093,7 @@ Lily really has come into her own, hasn't she?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't you think she's getting too cool too fast?
 
 
@@ -3379,11 +3159,7 @@ I hear there's a candy in the East that shows the same face no matter how much y
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's Golden!
 
 
@@ -3395,11 +3171,7 @@ In a way, it's a good thing Kintoki isn't here!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on, Tamamo, we need a witty comment!
 
 
@@ -3507,11 +3279,7 @@ Senpai, X is awake.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Good Morning, X.
 
 
@@ -3523,11 +3291,7 @@ So you fought as well, Fujimaru.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That was one rough battle!
 
 
@@ -3611,21 +3375,13 @@ I was going to cut you down!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's very brave of you to say, but you're merciless, X!
 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You call yourself...a Holy Sword Warrior...
 
 
@@ -3685,11 +3441,7 @@ What should I do about this?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You may as well just resign yourself to training her.
 
 
@@ -3701,11 +3453,7 @@ But I'm not really sure how to do that...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just be honest with her, and accept it.
 
 
@@ -3757,11 +3505,7 @@ Even if Lily were to improve immensely and become a King, the land she would rul
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...But Nero said it could be changed...
 
 
@@ -3773,11 +3517,7 @@ But yes, that is what Nero said.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, that can't be. That's the whole reason for Chaldea.
 
 

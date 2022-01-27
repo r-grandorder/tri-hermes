@@ -2,11 +2,7 @@
 
 ## Prologue: To the Oni Tower
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is a tale of something that may or may not have happened.
 
  
@@ -20,20 +16,12 @@ Recently, a mysterious horned duo were seen using a combination of liquor and cr
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “Mysterious”? Really?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Took me all of two seconds to figure who did it.
 
  
@@ -63,11 +51,7 @@ Couple of slick operators, those two&ndash;especially that Shuten-Douji. I could
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You shouldn't go around digging up Holy Grails willy-nilly.
  
 **Mash:**
@@ -85,11 +69,7 @@ Right you are, Mash.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Impressive as always from the oni bandits of Mt. Ooe!
  
 **Mash:**
@@ -149,11 +129,7 @@ Fujimaru, I need you to Rayshift there yourself and handle this before that happ
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You got it.
 
  
@@ -196,20 +172,12 @@ As you can see, she's, uh, gotten REALLY into first person shooters.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 One hour time limit on gaming per day!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I hope you're not ruining your eyes...
 
  
@@ -257,11 +225,7 @@ I see. So that is what those two are up to...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do you know them?
 
  
@@ -343,11 +307,7 @@ However... If it is not too forward of me, there is one thing I would like to as
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What is it?
 
  
@@ -379,11 +339,7 @@ I will be happy with anything you decide, Master!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, since it's THAT time of year, how about...General Setsubun?
 
  
@@ -433,20 +389,12 @@ Master, I shall lead the way while you&ndash;
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I...don't think finding it will be a problem.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, that's...huge.
 
  
@@ -477,11 +425,7 @@ Anyway, we're still analyzing it, but I'm pretty sure this tower is Shuten-Douji
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I just...can't even with this...
 
  
@@ -559,11 +503,7 @@ So that is this tower's name?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why did you make this thing, anyway?
 
  
@@ -638,11 +578,7 @@ Lady...Minamoto-no-Raikou!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh, you're here.
  
 **Minamoto-no-Raikou:**
@@ -665,11 +601,7 @@ You don't want to make Mother cry again, do you...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Right. Of course you'd show up... (Nervous sweat)
  
 **Minamoto-no-Raikou:**
@@ -821,11 +753,7 @@ There is no telling what sort of nasty traps they may have put in place. We must
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Meaning...?
 
  
@@ -858,11 +786,7 @@ There's no stopping her!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wow, she's fast. I can't even see her any&ndash;
 
  
@@ -880,11 +804,7 @@ L-Lady Raikou!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 When did it start raining Raikou!?
 
  
@@ -950,29 +870,17 @@ Sure it might wear you out a bit, but you'll probably be fine as long as you res
 Okay then, we'll be taking it niiice and easy on the top, waiting for you to show up...
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 Mwaha, MWA HA HA HA! ...Phew. I believe that should be enough laughter for now. I AM getting rather tired.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 I must say though, Shuten, do you not find it wasteful to use your delicious wine on such frivolity?
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 I may not be as strong as you, but I can still hold my liquor quite well, you know. If you simply wanted someone to drink with, surely you and I could have suffice&ndash;
 
@@ -1004,11 +912,7 @@ Why did it have to be wine?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hm? What's with the sighing? Is there a problem?
 
  
@@ -1030,11 +934,7 @@ I shall lead by example, thus demonstrating to all who follow that General Setsu
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wow, you ARE fired up! This is really reassuring!
 
  
@@ -1055,20 +955,12 @@ I'm suddenly feeling much less reassured about this magnificent first step!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Shouldn't we still be climbing the tower?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What're we doing here?
 
  
@@ -1092,11 +984,7 @@ Now then, this is still a work in progress, but...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh?
 
  
@@ -1106,11 +994,7 @@ Haaaaaa!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 YEOWCH! Hot, hot, hot!
 
  
@@ -1133,11 +1017,7 @@ Well well, look at that.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I-it's a hot spring!
 
  
@@ -1246,11 +1126,7 @@ Good, we have nearly reached the tenth floor.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you feeling all right?
 
  
@@ -1330,11 +1206,7 @@ With all that, there was no way I was gonna turn her down! Hahaha!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Subjects...?
 
  
@@ -1408,11 +1280,7 @@ If I'm gonna paint somethin' unpaintable...I guess I got no choice but to break 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So we ARE going to have to fight...!
 
  
@@ -1454,20 +1322,12 @@ Ow ow ow...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why don't you rest up in the hot springs outside?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Everyone goes to the hot springs for a bit of R & R.
 
  
@@ -1540,11 +1400,7 @@ Now, let us keep our wits about us,
 and forge ahead one floor at a time!
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 　　　　　　　　　　 – Meanwhile –
 
@@ -1776,11 +1632,7 @@ but one can never be too careful.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you okay?
 
  
@@ -1950,11 +1802,7 @@ one completely unbefitting a shinobi, and yet...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's totally fine with me, but...
 
  
@@ -1976,20 +1824,12 @@ All of this is to say that I have no intention of standing idly by and letting y
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? Why not?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I thought you just liked being in this tower?
 
  
@@ -2070,20 +1910,12 @@ Um... What is she going on about...?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 B-beats me...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm just glad she's happy.
 
  
@@ -2118,20 +1950,12 @@ For example...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (That sounds more reptilian than anything.)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (You sure you don't just wanna slack off?)
 
  
@@ -2176,11 +2000,7 @@ Oh. They both ran off.
 Let us take this chance to advance to the next floor!
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 　　　　　　　　　　 – Meanwhile –
 
@@ -2408,11 +2228,7 @@ Hm? Isn't that...!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Talk about a surprise oni!
  
 **Mash:**
@@ -2431,11 +2247,7 @@ Hey, Great De-Slack-tive. What do you think you're doing over there instead of h
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What are YOU doing here, Holmes?
  
 
@@ -2464,20 +2276,12 @@ There is just something irritating about a game where you cannot win by skewerin
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (It wouldn't be a puzzle if you could solve it with violence.)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Don't worry about it. That's just Holmes being Holmes.)
 
  
@@ -2530,20 +2334,12 @@ Indeed, just the other day I stuffed Lord Blackbeard into a barrel and inferno'd
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (I've heard THAT one before...)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (I can totally see that happening...)
  
 
@@ -2697,11 +2493,7 @@ That's right. It's just a plain old rope. I knew you would catch on quickly, O g
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's just a bungee jump cord!
 
  
@@ -2749,11 +2541,7 @@ Er, on second thought, I only survived that by using the professor as a cushion.
 Ah, aaaaaahhh...!
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 　　　　　　　　　　 – Meanwhile –
 
@@ -3024,20 +2812,12 @@ Ouch! You wound me to my core! W-well, that is all right. I shall consider it a 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Benkei just locked eyes with me.)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Ushiwakamaru still hasn't seen us.)
 
  
@@ -3152,11 +2932,7 @@ Hey, you there! I'm the loyal oni that guards this floor for various reasons!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What're you doing, Benke&ndash;
  
 **Loyal Oni:**
@@ -3171,11 +2947,7 @@ Please! Refrain...from using...that name!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That was one hell of a distraction there.
  
 **Loyal Oni:**
@@ -3261,11 +3033,7 @@ Please, by all means, continue on your way.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So you did all this out of loyalty?
 
  
@@ -3306,11 +3074,7 @@ Let us be on our way, Master. This is not our destination. We still have many fl
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 R-right.
 
  
@@ -3328,11 +3092,7 @@ I may have squeezed them so hard that they ended up turning into mochi... I apol
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't worry, I love mochi.
 
  
@@ -3344,7 +3104,6 @@ I see. I am glad to hear that!
 ...I am in your debt.
 
  
-<<<<<<< HEAD
 **Narration:**
 (This is as it should be.)
 
@@ -3354,27 +3113,12 @@ I see. I am glad to hear that!
 
  
 **Narration:**
-=======
-**Narration::**
-(This is as it should be.)
-
- 
-**Narration::**
-(Yes... For now at least, this is the right choice.)
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (If I had revealed myself, the target of her revenge, instead of pretending to be a nameless Setsubun oni...)
 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hey, can I say something?
 
  
@@ -3384,20 +3128,12 @@ What is it, Master? I'm afraid it's still a bit early for our rice ball break.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If you ever need to talk, I'm here to listen.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let me know if you ever need help with anything, okay?
 
  
@@ -3413,11 +3149,7 @@ Let me know if you ever need help with anything, okay?
 ...Thank you...
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 　　　　　　　　　　 – Meanwhile –
 
@@ -3728,20 +3460,12 @@ Can you guess what awaits you at this wonderful milestone? Get it right, and you
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can see the ring, you know!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Lucha. It's a lucha match. A lucha match awaits me.
 
  
@@ -3751,11 +3475,7 @@ Thaaat's right! You just earned the privilege of competing in this ring, yes!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Called it!
 
  
@@ -3835,11 +3555,7 @@ I still remember our promise, but it just didn't seem right to lump the Assassin
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm surprised how well Spartacus fits in here.
  
 **Mash:**
@@ -3853,11 +3569,7 @@ Well, he was a gladiator, so he's probably used to fighting in rings like that..
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I see Fergus is still as Fergus-y as ever.
  
 **Da Vinci:**
@@ -3897,20 +3609,12 @@ Essentially, all we need to do is defeat you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm surprised you knew the term “KO.”
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sure, but that's easier said than done.
 
  
@@ -3997,11 +3701,7 @@ So this is what it is to face a goddess...
 At any rate, we have finally crossed the halfway point. Let us keep this up for the next fifty floors as well!
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 　　　　　　　　　　 – Meanwhile –
 
@@ -4234,11 +3934,7 @@ Except...all these uninvited people showed up! I'm in super lazy-hime mode right
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um...
 
  
@@ -4382,11 +4078,7 @@ Don't you think it's juuust a bit unhealthy and even kind of morbid for a widow 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well...I guess, maybe?
  
 **General Setsubun:**
@@ -4397,11 +4089,7 @@ I believe you both have the wrong idea.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Not at all. It's just a hobby.
  
 **General Setsubun:**
@@ -4417,11 +4105,7 @@ There is nothing morbid about me playing the games of video! In fact, grinding m
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That...does not help your case, General!
 
  
@@ -4436,20 +4120,12 @@ Fancy seeing you here.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All done with your makeup?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I feel like I'm living a flashback...
 
  
@@ -4570,11 +4246,7 @@ At any rate, this floor's all clear.
 Let's shake it off and move on to the next one!
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 　　　　　　　　　　 – Meanwhile –
 
@@ -4771,20 +4443,12 @@ As such, in our case, there can be nothing BUT trust between us. At the very lea
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wow, I had no idea you felt that way...!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't know where this is coming from, but I'm touched!
 
  
@@ -4819,11 +4483,7 @@ Oh, you poor man. Please, forgive my rudeness. It's not much, but I have some le
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Aaand this is how he gets you...
 
  
@@ -4869,11 +4529,7 @@ Why, naturally...the fact that this entire tower belongs to me.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Say what now?
 
  
@@ -4900,11 +4556,7 @@ Since you have been caught red-handed, I expect you to pay immediately, but I am
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You've got to be kidding me!
  
 **Mash:**
@@ -4915,11 +4567,7 @@ This is just another one of his cons!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're no attorney. You're a con man!
  
 
@@ -4971,11 +4619,7 @@ I'm SO glad I asked Da Vinci to make this special contact lens spell that makes 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “Live and in the flesh,” huh.
 
  
@@ -5051,20 +4695,12 @@ Additionally, I frequently encountered beautiful women with no one else to turn 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't think we can talk our way out of this one...!
  
 
@@ -5142,11 +4778,7 @@ Lord Caesar may be a crook, but it is nice to see a married couple so happy and 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Something wrong?
 
  
@@ -5170,20 +4802,12 @@ Is that true? If so, does that not lead to much turmoil in modern society?
 Wh-where did that come from!?
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 　　　　　　　　　　 – Meanwhile –
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who could that be!? Is it a bathing beauty!?
 Is it the hot springs of Rome!? Naturally...
 
@@ -5443,20 +5067,12 @@ Are you okay, Senpai!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry, that was just my stomach...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You have no idea how good it smells in here...
 
  
@@ -5549,11 +5165,7 @@ There is nothing we need to do here.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He looks so disappointed...
 
  
@@ -5671,11 +5283,7 @@ That said, I guess it was inevitable...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do we really have to fight...?
 
  
@@ -5760,20 +5368,12 @@ Thank you. I cannot wait to try it.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This really has me wondering...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did Shuten-Douji really just want to throw you a party?
 
  
@@ -5792,11 +5392,7 @@ As such, we must make our way to the top floor as soon as possible.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah... I guess you're right.
 
  
@@ -5810,11 +5406,7 @@ Especially now, as I have a premonition.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Premonition?
 
  
@@ -5827,11 +5419,7 @@ I feel the time is fast approaching...
 ...when we shall come face-to-face with one of the oni behind this.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 　　　　　　　　　　 – Meanwhile –
 
@@ -6011,20 +5599,12 @@ I commend you for making it this far!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ibaraki-Douji and Shuten-Douji!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Shuten...Douji...?
 
  
@@ -6040,11 +5620,7 @@ Yes, it is I, Ibaraki-Douji! The leader of the Mt. Ooe oni!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Back up. Just back the hell up!
  
 **Mash:**
@@ -6054,11 +5630,7 @@ What...did you just put down there?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um, what was that...thing you just put down?
 
  
@@ -6242,11 +5814,7 @@ I...I'm not like you!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So much for diplomacy...!
 
  
@@ -6310,11 +5878,7 @@ We only have ten floors left to go.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 R-right.
 
  
@@ -6331,11 +5895,7 @@ All I need do now is make my way to the top floor and settle things with Shuten-
 Indeed... I am the only one who can.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 　　　　　　　　　　 – Meanwhile –
 
@@ -6662,28 +6222,16 @@ that ain't ever gonna change.
 (Yeah, that's right...)
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Please! Please, I'm begging you!
 There's no one left I can turn to...!)
 
  
-<<<<<<< HEAD
 **Narration:**
 (They took everything from us. Everything...!)
 
  
 **Narration:**
-=======
-**Narration::**
-(They took everything from us. Everything...!)
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (This is too cruel. What did we do to deserve this...?
 Why did this happen to us!?)
 
@@ -6817,11 +6365,7 @@ Did you somehow think that showing me all the Heroic Spirits forced to play Sets
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, that would never happen... I hope.
 
  
@@ -6907,11 +6451,7 @@ I... I...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Shuten...
 
  
@@ -6930,11 +6470,7 @@ Master...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 When she answered my summon, I knew...
 
  
@@ -6948,11 +6484,7 @@ When she answered my summon, I knew...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...that she was the one who answered my call.
 
  
@@ -6960,7 +6492,6 @@ When she answered my summon, I knew...
 ...Huh?
 
  
-<<<<<<< HEAD
 **Narration:**
 That's all I can say.
 
@@ -6974,21 +6505,6 @@ All I can really say for sure when I summon someone is that I'm grateful they co
 
  
 **Narration:**
-=======
-**Narration::**
-That's all I can say.
-
- 
-**Narration::**
-I didn't summon her thinking she would or even SHOULD be human or oni.
-
- 
-**Narration::**
-All I can really say for sure when I summon someone is that I'm grateful they come.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Even if I don't yet know their name, I know they responded to my call for help. I'll always be grateful for that.
 
  
@@ -6998,11 +6514,7 @@ Master...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That goes for you and Ibaraki as well, Shuten.
 
  
@@ -7056,20 +6568,12 @@ Now, Master, what is your command?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's time to rein Shuten-Douji back in!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Make her tell us how to get rid of this tower!
 
  
@@ -7126,20 +6630,12 @@ My apologies, Master, but it is bound to be unstable up there, so I cannot bring
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm sorry. I suppose it's all up to you, General.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just don't be TOO hard on her, okay?
 
  
@@ -7154,11 +6650,7 @@ Just leave everything to me!
 (Glug, glug)... Ahhh.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 When I found her...she was lying on the roof, gazing up at the sky, a cup of wine raised to her lips.
 
  
@@ -7180,19 +6672,11 @@ Mmm, right. Sorry, sorry. I've had sooo much to drink, it's gone to my head a li
 ...
 
  
-<<<<<<< HEAD
 **Narration:**
 It seemed the alcoholic fumes were so thick that we were completely cut off from Chaldea.
 
  
 **Narration:**
-=======
-**Narration::**
-It seemed the alcoholic fumes were so thick that we were completely cut off from Chaldea.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So, since it was just the two of us...I decided that if I was ever going to ask her, it had to be now.
 
  
@@ -7277,7 +6761,6 @@ I've no idea if that's how he took it, though.
 ...
 
  
-<<<<<<< HEAD
 **Narration:**
 Back when I was just beginning to make my way up the tower...
 
@@ -7299,29 +6782,6 @@ How strange. They were opposites in every way, predisposed to try and kill each 
 
  
 **Narration:**
-=======
-**Narration::**
-Back when I was just beginning to make my way up the tower...
-
- 
-**Narration::**
-...I thought it made sense to speak with the people who would understand what was happening there.
-
- 
-**Narration::**
-And of course, he was one of those people.
-
- 
-**Narration::**
-Reflecting on those conversations, I suspect he knew Shuten-Douji's true intentions. Of course he did.
-
- 
-**Narration::**
-How strange. They were opposites in every way, predisposed to try and kill each other whenever they got the chance...
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And yet, this oni and that human understand each other better than anyone else.
 
  
@@ -7369,7 +6829,6 @@ I really should know better than to ask dumb questions I already know the answer
 Now I'm all out of my best wine.
 
  
-<<<<<<< HEAD
 **Narration:**
 She stretched out dejectedly, and got to her feet.
 
@@ -7379,22 +6838,10 @@ For a fleeting moment, she seemed to put her usual carefree attitude aside and l
 
  
 **Narration:**
-=======
-**Narration::**
-She stretched out dejectedly, and got to her feet.
-
- 
-**Narration::**
-For a fleeting moment, she seemed to put her usual carefree attitude aside and let herself just...be herself.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It was then that I had a thought.
 A wild, baseless, unfounded thought...
 
  
-<<<<<<< HEAD
 **Narration:**
 I wondered if perhaps her true objective in building this tower...
 
@@ -7424,37 +6871,6 @@ That way, no one else would ever learn about the question she asked.
 
  
 **Narration:**
-=======
-**Narration::**
-I wondered if perhaps her true objective in building this tower...
-
- 
-**Narration::**
-...might not have been those last few moments we spent together.
-
- 
-**Narration::**
-Up on that roof, she wouldn't have to worry about anyone else interrupting us, or overhearing what we had to say.
-
- 
-**Narration::**
-A safe haven for an oni...and the one invited to join her.
-
- 
-**Narration::**
-Perhaps that was what she truly needed. A place where she could be herself...and someone who would join her there.
-
- 
-**Narration::**
-That way, no one else would ever learn about the question she asked.
-
- 
-**Narration::**
-...Or that she even cared enough to ask in the first place.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...No, that couldn't be right.
 I must have simply been imagining things.
 
@@ -7591,7 +7007,6 @@ then know that I have driven the two oni away!
 I will complete our mission by demolishing this tower, so everyone, please make your escape as soon as possible!
 
  
-<<<<<<< HEAD
 **Narration:**
 Master and Lady Raikou responded swiftly, neither wasting any time in making the correct decision.
 
@@ -7601,17 +7016,6 @@ But they no doubt needed time to complete their evacuation. There was no need fo
 
  
 **Narration:**
-=======
-**Narration::**
-Master and Lady Raikou responded swiftly, neither wasting any time in making the correct decision.
-
- 
-**Narration::**
-But they no doubt needed time to complete their evacuation. There was no need for me to rush.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I steadied my breath,
 and slowly reached for my quiver...
 
@@ -7661,33 +7065,20 @@ That's why I called this tower the Oni Pagoda. One that was made by an oni, and 
 (...but they can't hold me responsible for THAT, right?)
 
  
-<<<<<<< HEAD
 **Narration:**
 As I narrowed my eyes and turned my gaze upward to the blazing sunlight piercing the heavens, I could have sworn I heard a familiar voice whispering in my head.
 
  
 **Narration:**
-=======
-**Narration::**
-As I narrowed my eyes and turned my gaze upward to the blazing sunlight piercing the heavens, I could have sworn I heard a familiar voice whispering in my head.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “You certainly are a strong one, aren't you!
 I like that. I like that very much.”
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “Hm? Oni blood? What of it?
 ...You are you, are you not?”
 
  
-<<<<<<< HEAD
 **Narration:**
 And that's when it hit me. Neither of them chose.
 
@@ -7697,26 +7088,11 @@ Not my current Master, and not Lord Yoshinaka.
 
  
 **Narration:**
-=======
-**Narration::**
-And that's when it hit me. Neither of them chose.
-
- 
-**Narration::**
-Not my current Master, and not Lord Yoshinaka.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So I shall do the same.
 I choose not to choose.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I am neither oni nor human.
 No, I am just...
 
@@ -7725,45 +7101,25 @@ No, I am just...
 ...
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 As I drew my bowstring, I thought about oni.
 And about humans.
 
  
-<<<<<<< HEAD
 **Narration:**
 Peering down the tip of my arrow, I saw the midday sun lying beyond it. It may not have been the morning sun, but it still reminded me of him.
 
  
 **Narration:**
-=======
-**Narration::**
-Peering down the tip of my arrow, I saw the midday sun lying beyond it. It may not have been the morning sun, but it still reminded me of him.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Would my arrow reach it if I fired now?
 Who knew?
 
  
-<<<<<<< HEAD
 **Narration:**
 What I did know is that, if I were to wish with all my heart that it would, and it succeeded, his soul would surely be at peace...
 
  
 **Narration:**
-=======
-**Narration::**
-What I did know is that, if I were to wish with all my heart that it would, and it succeeded, his soul would surely be at peace...
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 With that in mind, I chanted with all my heart...
 
  
@@ -7771,50 +7127,29 @@ With that in mind, I chanted with all my heart...
 On Arorikya Sowaka!!!
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No matter how I squinted my eyes,
 I could never look directly upon its light.
 
  
-<<<<<<< HEAD
 **Narration:**
 All I could do was let loose my arrow, taking with it my love for him, knowing with certainty that my beloved lay in the direction it flew.
 
  
 **Narration:**
-=======
-**Narration::**
-All I could do was let loose my arrow, taking with it my love for him, knowing with certainty that my beloved lay in the direction it flew.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 However, I knew that, sadly, it would never reach him,
 no matter what. Which was why, of course...
 
  
-<<<<<<< HEAD
 **Narration:**
 ...it came back to me.
 
  
 **Narration:**
-=======
-**Narration::**
-...it came back to me.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 As its piercing glimmer drew near,
 I saw all manner of things.
 
  
-<<<<<<< HEAD
 **Narration:**
 I was, in essence, dreaming.
 
@@ -7824,39 +7159,19 @@ I dreamed of the long life I once lived, solitary and alone. Of dying together o
 
  
 **Narration:**
-=======
-**Narration::**
-I was, in essence, dreaming.
-
- 
-**Narration::**
-I dreamed of the long life I once lived, solitary and alone. Of dying together on the battlefield, a fate that never came to pass.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And, of parting ways with the battlefield,
 and living a long, long life, happy together.
 
  
-<<<<<<< HEAD
 **Narration:**
 Ahh, if only I could have lived out the rest of my days by his side.
 
  
 **Narration:**
-=======
-**Narration::**
-Ahh, if only I could have lived out the rest of my days by his side.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Would I have remained human if that had come to pass?
 Or...would I have eventually succumbed...?
 
  
-<<<<<<< HEAD
 **Narration:**
 ...In the end, that too was but a meaningless dream.
 
@@ -7882,59 +7197,20 @@ That much was certain.
 
  
 **Narration:**
-=======
-**Narration::**
-...In the end, that too was but a meaningless dream.
-
- 
-**Narration::**
-I was me, at that moment, in that place. No more. No less. As much as I still loved him, he was part of my past, and there he must remain.
-
- 
-**Narration::**
-Indeed, even if I were to lay my hands on the omnipotent wish granter known as a Holy Grail, and could receive anything I asked for...
-
- 
-**Narration::**
-...I would not wish for anything at all.
-
- 
-**Narration::**
-Up to that very moment, I had wished fervently for nothing more than for my beloved to rest in peace.
-
- 
-**Narration::**
-That much was certain.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I had wished as greedily as an oni,
 and as modestly as a human.
 
  
-<<<<<<< HEAD
 **Narration:**
-=======
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Funny, that. I didn't even have to think about it.
 I had always been an oni, AND a human.
 
  
-<<<<<<< HEAD
 **Narration:**
 I leaped off the tiles and began to fall through the air.
 
  
 **Narration:**
-=======
-**Narration::**
-I leaped off the tiles and began to fall through the air.
-
- 
-**Narration::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Soon after, the arrow I had loosed earlier came back down to pierce the spot where I had stood, and from there...
 
  
@@ -7952,11 +7228,7 @@ It's nice to see you two getting along so well.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Heya.
 
  
@@ -8039,20 +7311,12 @@ I swear, Ibaraki's sweet tooth will be her downfall... Oh well, guess it's bette
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Like that Setsubun saying “Out with oni, in with good fortune”?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You know, in some places, people say “In with oni” too.
 
  
@@ -8066,11 +7330,7 @@ Oh well, I suppose I'll just cheer you all on from back here.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Want to trade with me?
 
  

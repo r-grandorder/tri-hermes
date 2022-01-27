@@ -78,11 +78,7 @@ I'm really going to (censored) you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's scary. I should get up.
  
 **Mash:**
@@ -104,11 +100,7 @@ I guess I have to ask Kiyohime to teach me the Hot Fire Wake Up Time technique n
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Zzz... (Show me what you've got.)
  
 **???:**
@@ -150,11 +142,7 @@ I've never seen such a place before.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wow... Sure is an unusual sight.
 
 
@@ -170,11 +158,7 @@ This is like a different world. I feel uneasy.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's take a look around.
  
 **Mash:**
@@ -189,11 +173,7 @@ I'm concerned if Fou might have been involved.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's contact Chaldea.
  
 **Mash:**
@@ -231,11 +211,7 @@ Ouch!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash!? Are you okay?
 
 
@@ -252,11 +228,7 @@ Oh my, I can't believe we bumped into each other head-on like that! I am very so
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A talking... stick?
  
 
@@ -274,11 +246,7 @@ Well, well! Lucky me! In that case, can I ask you for a tiny favor?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um, is something wrong?
  
 **B：???:**
@@ -306,11 +274,7 @@ Then I shall tell you! Get a load of this: I'm...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um, so what the heck are you?
  
 **???:**
@@ -357,11 +321,7 @@ You're very tough. I guess you weren't kidding about being a gem-type Mystic Cod
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A sudden barrage of attacking spells!?
 
 
@@ -392,11 +352,7 @@ Am I the familiar?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you a Servant?
  
 **C：???:**
@@ -415,11 +371,7 @@ Wound up here, oblivious to everything, like a pitiful bunch of lost rabbits. Th
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you...Queen Medb?
  
 **C：???:**
@@ -453,11 +405,7 @@ I am the Magical Girl of Honey and Geis, Connacht☆Medb! Oh, you don't need to 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Magical Girl Medb!
  
 **Medb:**
@@ -471,11 +419,7 @@ Not bad... Not bad at all! I'm so embarrassed I could die! What an irresistible 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Magical College Student Medb!?
  
 **Medb:**
@@ -517,11 +461,7 @@ I will never be yours!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh, Ruby? Is this magical girl bad?
  
 **Ruby:**
@@ -540,11 +480,7 @@ You'd get a punishment BIG TIME!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What kind of person is your Master, Ruby?
  
 **Ruby:**
@@ -583,11 +519,7 @@ Focus on the monster in front of us for now!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Roger. Let's give them a hand!
 
 
@@ -631,11 +563,7 @@ I won't let you summon any more enemies!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, Mash! Wait!
 
 
@@ -663,11 +591,7 @@ It's not over yet! I can...do more! Haah!!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash's attacks aren't working at all!?
 
 
@@ -696,11 +620,7 @@ How is this possible!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash, let's retreat! Something's off!
  
 
@@ -734,11 +654,7 @@ That's right! Don't give up!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now what!? Who's this!?
 
 
@@ -964,11 +880,7 @@ And, um, who is this (mumble) cool (mumble) person next to you?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Call me your [♂ big brother /♀ big sister] Fujimaru.
  
 **Illya:**
@@ -995,11 +907,7 @@ Um, would it be okay to just call you Fujimaru?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A real magical girl!? I am crying!
  
 **Illya:**
@@ -1106,11 +1014,7 @@ Fujimaru, Mash, what's your Earth like?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll... We'll tell you some other time.
  
 **Illya:**
@@ -1174,11 +1078,7 @@ Wouldn't that be a possibility, Master?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hmm...
 
 
@@ -1190,11 +1090,7 @@ Master?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Isn't a Demi-Servant similar to a magical girl?
 
 
@@ -1374,11 +1270,7 @@ Umm...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's a Reality Marble again?
  
 
@@ -1513,11 +1405,7 @@ But looking at you, I assume you're a different person.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Doctor, can you get us back to Chaldea?
 
 
@@ -1616,11 +1504,7 @@ Fujimaru. You understand, right?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This might be a good chance to power up Mash.
  
 **Dr. Roman:**
@@ -1630,11 +1514,7 @@ Ah, so indeed you do. Good... What?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 MG cuteness is greater than Earth's mass?
  
 **Dr. Roman:**
@@ -1706,11 +1586,7 @@ So come back to Chaldea temporarily so we can regroup. That's an order.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thank you, Doctor.
 
 
@@ -1735,11 +1611,7 @@ So just come back here later, please.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Got it. I'll be back as soon as possible.
  
 **Mash:**
@@ -1749,11 +1621,7 @@ Right, Master! Thank you!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I thought you'd say that.
  
 **Mash:**
@@ -1793,11 +1661,7 @@ This is reassuring!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll be back soon. You two take care.
 
 
@@ -1818,11 +1682,7 @@ Something they'd enjoy eating.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did you find the cause of our Rayshift?
 
 
@@ -1866,11 +1726,7 @@ And then Mash comes by, spots you, and tries to wake you up.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is Mash...? What is this...?
 
 
@@ -1905,11 +1761,7 @@ Be cautious in your judgments. And at times, be cold. Understand, Master Fujimar
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Hey, where's Da Vinci?
 
 
@@ -1968,11 +1820,7 @@ An exotic Arabian number!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm in a hurry, guys.
  
 **Blackbeard:**
@@ -1982,11 +1830,7 @@ So am I! I can't contain myself!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Was there a guy like this in Chaldea!?
  
 **Blackbeard:**
@@ -2003,11 +1847,7 @@ Lah-lah-lah! Oh, the cruel shadows of the stage awaken the spirits from the dept
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll think about it.
  
 **Blackbeard:**
@@ -2021,11 +1861,7 @@ Why are you sighing like that?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You'll corrupt the magical girls. So, no.
  
 **Blackbeard:**
@@ -2063,11 +1899,7 @@ Wait! We let 'em escape!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, that was a waste of time...
 
 
@@ -2075,11 +1907,7 @@ Well, that was a waste of time...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hmm?
 
 
@@ -2087,11 +1915,7 @@ Hmm?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? Where's Mash? Where's Illya!?
 
 
@@ -2103,11 +1927,7 @@ Fujimaru!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that Ruby?
 
 
@@ -2119,11 +1939,7 @@ Fujimaru! Trouble! This way!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What happened?
 
 
@@ -2170,11 +1986,7 @@ Would you listen to me? Please!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash! Illya! Are you okay!?
 
 
@@ -2213,11 +2025,7 @@ Ruby! Stop staring and help!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can we calm them down somehow, Mash?
  
 
@@ -2291,11 +2099,7 @@ You do look delicious...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Spill it. She'll get mad if you don't!
 
 
@@ -2328,11 +2132,7 @@ Hmm. Is there a misunderstanding here somewhere? If we continue from here, I thi
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Both a queen and a magical girl, eh...
 
 
@@ -2356,11 +2156,7 @@ But this Reality Marble is too big to travel the whole way! I can't get too far 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Candy Castle it is, then.
 
 
@@ -2389,11 +2185,7 @@ It looks kind of like Fou's ears.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A Mystic Code. Da Vinci gave it to me.
  
 **Mash:**
@@ -2407,11 +2199,7 @@ I assume it has some kind of function in this world, but it's very... unique.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is it weird?
  
 **Mash:**
@@ -2471,11 +2259,7 @@ Have some delicious sweets!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A girl in a pitch-black dress... Who could she be?
  
 **Nursery Rhyme:**
@@ -2490,11 +2274,7 @@ Have some tea&ndash;freshly brewed the day before last. Which would you prefer, 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's Nursery Rhyme!?
  
 **Nursery Rhyme:**
@@ -2597,11 +2377,7 @@ Sure. If you play with me, I'll tell you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are there any other magical girls besides you?
 
 
@@ -2702,11 +2478,7 @@ Now, let's play together.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No choice but to go all out, it seems...
  
 **Illya:**
@@ -2725,11 +2497,7 @@ This is too much excitement, don't you think!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash, go help Illya!
  
 **Mash:**
@@ -2797,11 +2565,7 @@ I think you should just give up. Too bad.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's that supposed to mean?
 
 
@@ -2900,11 +2664,7 @@ Fujimaru, what should we do?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thank her sincerely and accept it.
  
 **Illya:**
@@ -2922,11 +2682,7 @@ I'm a queen, so I have no regrets. Ahahaha.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe we can give it back to her later.
  
 **Mash:**
@@ -2964,11 +2720,7 @@ We don't even know how this jewel will come in handy yet.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 By the way, Mash, have you noticed?
 
 
@@ -3041,11 +2793,7 @@ The Land of Dragons and Sea...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All right, let's check it out!
 
 
@@ -3215,11 +2963,7 @@ I can pretty much do anything, you know!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Since we're taking a refreshing voyage, why don't we eat?
 
 
@@ -3241,11 +2985,7 @@ Yay! I'm actually starving! Eeny, meeny, miney, mo...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Mapo tofu)
  
 **Illya:**
@@ -3289,11 +3029,7 @@ Mapo will never attack you, I think.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Pickled mushrooms)
  
 **Illya:**
@@ -3456,11 +3192,7 @@ Morals!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is Chloe a friend of Illya's?
 
 
@@ -3493,11 +3225,7 @@ If we're going to do anything, we need to be careful.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Any news on the Reality Marble?
 
 
@@ -3523,11 +3251,7 @@ Senpai!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The jewel's still showing the same direction, so...
 
 
@@ -3745,11 +3469,7 @@ Even if we were the ones who trespassed into their territory first, they're stil
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just hang in there, you two!
 
 
@@ -3864,20 +3584,12 @@ I think we can resolve this by talking, like magical girls are supposed to!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm not so sure...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If we can actually talk to her...
  
 
@@ -3971,20 +3683,12 @@ Please come inside.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 By the way, Medea...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can I ask you a question?
  
 
@@ -4156,11 +3860,7 @@ Whatever you do outside this land, I promise I won't interfere.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's fine with me. Does everyone agree?
 
 
@@ -4253,11 +3953,7 @@ Each time an enemy came I would just stab, stab, and stab some more...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Medea...
  
 **Illya:**
@@ -4267,11 +3963,7 @@ That's awful... Medea...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Stab what now?
  
 **Mash:**
@@ -4293,11 +3985,7 @@ I can tell. This stone is the catalyst that supports this fantasy.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What of the area outside the kingdoms' jurisdiction?
  
 
@@ -4511,20 +4199,12 @@ Wake up, Lord Jason! Let me hear some of those nasty little comments you always 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? Jason changed...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's finally shown her true self!
  
 
@@ -4616,11 +4296,7 @@ I'm sorry, Lord Jason! But I gave Talos to Europa...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What are they talking about?
  
 **Illya:**
@@ -4630,11 +4306,7 @@ Huh? I'm having trouble following this...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe they used to be hardcore scale modelers?
  
 **Mini Jason:**
@@ -4712,11 +4384,7 @@ If we have to, we can use the Rayshift to at least get Master out of here and&md
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The connection with Chaldea's been cut!?
 
 
@@ -4752,20 +4420,12 @@ Hahaha! You're one to talk, aren't you?☆
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll have to fight them!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I know how you feel, but don't give in!
  
 
@@ -4857,20 +4517,12 @@ I'm sure I will be a lovely, elegant adult woman!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A beautiful woman, yes, but elegant?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Leave her be. She'll self-destruct.
  
 
@@ -4908,20 +4560,12 @@ Please don't come up with a convoluted plan within minutes of our first encounte
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uuuuuuh-ooooohh...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Somebody finally said it...
  
 
@@ -5092,11 +4736,7 @@ So what happened? Were you able to get any new information?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We learned about the hidden side of Medea Lily.
  
 **Mash:**
@@ -5110,11 +4750,7 @@ I think what we got a glimpse of in battle this time applies roughly to both Med
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We got the jewel.
  
 **Mash:**
@@ -5319,11 +4955,7 @@ Senpai, Illya, look. There's a huge black wall over there...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's gently curving into a dome.
 
 
@@ -5371,11 +5003,7 @@ It's okay. Leave it to me.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is this ghost trying to go somewhere?
 
 
@@ -5387,11 +5015,7 @@ What should we do, Master? Please give me your orders.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's alone. Let's go around it.
  
 **Mash:**
@@ -5401,11 +5025,7 @@ Roger. We'll circle around it and watch for other enemies.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hehehe, you're such a kid, Illya.
  
 **Illya:**
@@ -5466,11 +5086,7 @@ It would be a good place to read a book, though.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Doctor? How's it looking?
  
 
@@ -5505,11 +5121,7 @@ It's okay then? Alright, off I go!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay. Just be careful.
  
 **Illya:**
@@ -5523,11 +5135,7 @@ Illya's flying is so graceful. So wonderful, she's like flower petals dancing in
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Flying around in a miniskirt is what makes a magical girl!
  
 **Illya:**
@@ -5566,11 +5174,7 @@ Oh? You need to speak to me in private?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, you see...
 
 
@@ -5614,11 +5218,7 @@ These ghosts are clearly attacking!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's meet up with Illya as we fight through!
  
 **Mash:**
@@ -5628,11 +5228,7 @@ Right! Let's hurry!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Transform into Demi-Magical Girl Chaldea☆Mash, fou!
  
 **Mash:**
@@ -5676,11 +5272,7 @@ The Land of Dead Bookshelves?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (All the ghosts left when she came out.)
 
 
@@ -5725,11 +5317,7 @@ Magical girl... g-ghosts!? Ahhhh!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Will you tell us your name?
  
 **D：???:**
@@ -5744,11 +5332,7 @@ Helena. You can call me Helena.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Madame Blavatsky?
  
 **Mash:**
@@ -5849,11 +5433,7 @@ Is that alright, Master?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Roger that.
  
 **Mash:**
@@ -5863,11 +5443,7 @@ Okay. Come, Illya, let's accept her invitation.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash! Transform back, fou!
  
 **Mash:**
@@ -5992,11 +5568,7 @@ That's all.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you the owner of the Reality Marble?
 
 
@@ -6096,11 +5668,7 @@ And it's the final stop on our journey.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Then what about Illya and her friend?
  
 **Helena:**
@@ -6122,11 +5690,7 @@ Girls who can't accept what's happened to them end up like the Echoes outside.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's a Throne of Heroic Spirits for magical girls?
  
 **Helena:**
@@ -6156,11 +5720,7 @@ You've got a familiar with you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  I'm the familiar!?
  
 **Mash:**
@@ -6171,11 +5731,7 @@ That's a big shock. How do I face Senpai...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I wouldn't mind being a Mashcot, fou!
  
 **Mash:**
@@ -6282,11 +5838,7 @@ What? All of them?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All the jewels?
 
 
@@ -6339,11 +5891,7 @@ I agree. We are a part of this fight, even if we didn't intend to be...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Illya, you haven't been abandoned by the world.
  
 **Illya:**
@@ -6378,11 +5926,7 @@ In this world, the First Lady's power is absolute.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Helena, you aren't washed up either.
  
 **Helena:**
@@ -6424,11 +5968,7 @@ Miyu... Miyu isn't weak either! She hasn't given up yet!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Helena, you...
 
 
@@ -6436,11 +5976,7 @@ Helena, you...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You were here to bring hope to Illya.
 
 
@@ -6520,11 +6056,7 @@ You look like you want to say something, Master.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well...why don't you come with us, Helena?
 
 
@@ -6540,11 +6072,7 @@ Huh?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're coming with us.
  
 **Helena:**
@@ -6558,11 +6086,7 @@ I'll go with you then! Fine!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Magical Girl Helena, help Illya.
  
 **Helena:**
@@ -6693,11 +6217,7 @@ Please don't be. I think the way you feel about her is very sweet.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sure, it's fine. But we should hurry.
 
 
@@ -6713,11 +6233,7 @@ Thank you.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Helena. What kind of magical girl is Connacht☆Medb?
 
 
@@ -6742,11 +6258,7 @@ If the root of a magical girl's power lies in her strength to believe in herself
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Does that mean...she's almost insane?
 
 
@@ -6810,11 +6322,7 @@ What's the matter, Fujimaru?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hold on, guys... Aren't those Medb's soldiers?
 
 
@@ -6855,11 +6363,7 @@ In this neutral zone, I wouldn't be able to use that much of my power anyway.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, then. Stay in a safe area. Mash! Illya!
 
 
@@ -6877,11 +6381,7 @@ Sure, I'll back you up!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Battle completed. Doctor, Doctor!?
 
 
@@ -6909,11 +6409,7 @@ What!? You guys can't go back to Chaldea!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It seems that way. Oh?
 
 
@@ -6942,11 +6438,7 @@ It is happening. Using our Leyline connection, they sent several hostiles over!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They sent enemies... directly to Chaldea!?
 
 
@@ -7061,11 +6553,7 @@ But what should we do now, Senpai?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think we should try to pinpoint the cause.
 
 
@@ -7183,11 +6671,7 @@ Hey, Ruby! This is awkward enough without you butting in!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So you'll do it when the time is right?
 
 
@@ -7203,20 +6687,12 @@ But I... I'm okay, so...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Charge magical energy.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't charge magical energy.
 
 
@@ -7279,20 +6755,12 @@ He didn't do that, which means the doctor understands how important this matter 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yep.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If anything, he was just sulking.
  
 
@@ -7335,11 +6803,7 @@ Even if you guys are acting out a magical girl fantasy, that doesn't mean your h
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're here!
 
 
@@ -7380,11 +6844,7 @@ The transfer of territory. Reallocation of resources. Nothing new. But I've had 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Medb's familiar!
 
 
@@ -7426,11 +6886,7 @@ I don't think Medb is a woman who'll falter from the likes of us.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you the ones who sent soldiers into Chaldea?
 
 
@@ -7450,11 +6906,7 @@ Then there's no need to steal the powers of the First Lady. Medb will do as much
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If we're already inside enemy territory... Does that mean?
 
 
@@ -7513,11 +6965,7 @@ Medb wanted you for her army.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This familiar can even use a Noble Phantasm!?
  
 **Mini Cú:**
@@ -7527,11 +6975,7 @@ Yeah. Sorry, but I'm a thousand times stronger than I look. No need to brace you
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She wants Illya?
  
 **Mini Cú:**
@@ -7583,11 +7027,7 @@ Oh, this is Miyu's stick, everyone!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But where's Miyu?
 
 
@@ -7798,11 +7238,7 @@ This is dangerous! I am worried about Miyu too!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We can't overlook the First Lady's plan.
  
 **Mash:**
@@ -7812,11 +7248,7 @@ Yes. Let's all go rescue Sapphire's Master, Illya's friend!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So the rival friend is the cool type, huh?
  
 **Ruby:**
@@ -7865,11 +7297,7 @@ The First Lady's true identity?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do you know anything about it, Helena?
 
 
@@ -7971,11 +7399,7 @@ Fujimaru, are you okay with that?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah. Thanks for taking us this far, Helena.
 
 
@@ -8042,11 +7466,7 @@ Or are you that stupid as well? Do you want to die drunk on your own self-satisf
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash, calm down.
  
 **Mash:**
@@ -8060,11 +7480,7 @@ Heheh. You're always like a little puppy in heat, aren't you? Demi-Servant of Ch
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't talk about my friends like that!
  
 **Mash:**
@@ -8207,11 +7623,7 @@ I have begun my rebellion!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You figured out what she wanted...and took it?
 
 
@@ -8248,11 +7660,7 @@ I'll steal you for my own before the First Lady gets you!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Medb, you're not crazy.
 
 
@@ -8272,11 +7680,7 @@ Master...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Helena said it. You're fighting against despair.
 
 
@@ -8314,11 +7718,7 @@ Shut up. Shut up! Shut up!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's the First Lady who's at fault, not Medb.
 
 
@@ -8378,11 +7778,7 @@ Gouda? Well, whatever. Just kill them.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry Illya. I just ticked her off more.
  
 **Illya:**
@@ -8393,11 +7789,7 @@ But we have to fight!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Those two make a good pair, huh?
  
 **Ruby:**
@@ -8529,11 +7921,7 @@ You didn't say it aloud, but you saw the other magical girls who disappeared as 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The castle's falling apart!?
  
 
@@ -8593,11 +7981,7 @@ What was your name?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Fujimaru.
 
 
@@ -8640,11 +8024,7 @@ With Helena's help, we can heal you!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's right, Medb! Come with us!
 
 
@@ -8676,11 +8056,7 @@ Master!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry, Medb.
 
 
@@ -8769,11 +8145,7 @@ Which means...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We can go inside the black wall?
 
 
@@ -8860,11 +8232,7 @@ Master, if we're on schedule, then now...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, Chaldea should be... there it is!
 
 
@@ -8983,11 +8351,7 @@ Then that means...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If she disappears, everything will return to normal?
 
 
@@ -9024,11 +8388,7 @@ If you've made it this far, you should do what you want to do.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm grateful, Doctor.
 
 
@@ -9056,11 +8416,7 @@ Master!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yup, let's do our best to save Miyu!
  
 **Illya:**
@@ -9070,11 +8426,7 @@ Right!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's wrong, Helena?
  
 **Helena:**
@@ -9137,11 +8489,7 @@ Let us handle the rear! We can't rely on the Doctor's scans beyond this point!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh, right. We can't talk to him anymore, can we?
 
 
@@ -9174,11 +8522,7 @@ We need to avoid any more attacks!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Right!
 
 
@@ -9234,11 +8578,7 @@ So she's been playing hide-and-seek behind the black wall all this time... Is sh
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Or maybe she's in a hurry to try something?
  
 **Helena:**
@@ -9264,11 +8604,7 @@ Either way, to learn her true motive, we'll just have to ask the First Lady hers
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe she doesn't actually want to fight Illya...
  
 **Illya:**
@@ -9310,11 +8646,7 @@ Ungh! Getting into a drawn-out battle here isn't a good idea! If our pursuers ca
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Go on ahead, Illya!
 
 
@@ -9350,11 +8682,7 @@ Master! What should we do?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Draw out the battle here? It's our only option!
  
 **Mash:**
@@ -9364,11 +8692,7 @@ Right! We'll just have to be very careful!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Helena, can't you fight?
  
 **Helena:**
@@ -9455,11 +8779,7 @@ Those familiars are targeting magical girls. So I'll...!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay. Please stay safe.
  
 **Helena:**
@@ -9473,11 +8793,7 @@ If we ever get the chance, I'll tell you my story.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Helena, are you...?
  
 **Helena:**
@@ -9589,11 +8905,7 @@ Meet the Magical Girl Guru, Mahatma♀Helena!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's pretty sparse inside the castle.
  
 **Mash:**
@@ -9611,11 +8923,7 @@ And they've stopped pursuing us. Helena...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm worried about Helena.
  
 **Illya:**
@@ -9640,11 +8948,7 @@ You're right, Mash. After all, Miyu is waiting!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's pretty sparse inside the castle.
  
 **Mash:**
@@ -9662,11 +8966,7 @@ And they've stopped pursuing us. Helena...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm worried about Helena.
  
 **Illya:**
@@ -9788,11 +9088,7 @@ Miyu!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash, check her condition!
 
 
@@ -9804,11 +9100,7 @@ Roger that. What's this!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Part of Miyu's restraints are transforming...!?
 
 
@@ -9850,11 +9142,7 @@ Heh... This feels nostalgic. Yes. Maybe this is closer to my true self.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Illya? Is Chloe being controlled by the First Lady?
  
 **Illya:**
@@ -9873,11 +9161,7 @@ This is the normal Chloe.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How did she get her supply of magical energy?
  
 **Illya:**
@@ -9983,11 +9267,7 @@ Her familiar, to be precise.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Illya?
  
 **Illya:**
@@ -10010,11 +9290,7 @@ But we had an errand to do for Rin and we were in a hurry.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Chloe, we're from Chaldea.
  
 **Chloe:**
@@ -10102,11 +9378,7 @@ We need to somehow get to Miyu.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Servility and trust are two different things, Chloe.
  
 **Chloe:**
@@ -10120,11 +9392,7 @@ And I know that you're an extremely decent person, so much that being sarcastic 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Tanned skin and pale eyes are great charm points!
  
 **Chloe:**
@@ -10178,11 +9446,7 @@ Please give me just a little time!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 T-Take it easy, though.
  
 **Mash:**
@@ -10192,11 +9456,7 @@ If that's your wish, Illya.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is a sisterly fight, right? Knock yourself out!
  
 **Mash:**
@@ -10309,11 +9569,7 @@ Chloe's body... Even her voice has changed completely!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The First Lady...!?
 
 
@@ -10358,11 +9614,7 @@ Those feelings attracted Echoes to this Reality Marble.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you an Echo?
  
 **E：First Lady:**
@@ -10384,11 +9636,7 @@ But it wasn't the same. To really make my wish come true, I needed a real magica
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why did you set the magical girls on each other?
  
 **E：First Lady:**
@@ -10507,11 +9755,7 @@ Chloe is my precious other half!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's right! A selfish wish like that will never come true.
  
 
@@ -10528,11 +9772,7 @@ You'll forget me too, won't you?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I have no intention of consoling you.
  
 **Illya:**
@@ -10547,11 +9787,7 @@ I can't repudiate her...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Deep down, everyone has their own magical girl.
  
 **Illya:**
@@ -10825,11 +10061,7 @@ Please, just one more time! Let's fight together!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash. Mash Kyrielight.
  
 
@@ -10863,11 +10095,7 @@ But Illya didn't give up. Even if her wish was immature, there was nothing to be
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, we'll side with those that persevere.
  
 **Illya:**
@@ -10883,11 +10111,7 @@ I will always be grateful, too!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Have you learned something about strength from Illya?
  
 **Mash:**
@@ -10972,11 +10196,7 @@ I've confirmed that the binding Mystic Code has been released! Miyu!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash, take care of Miyu!
  
 **Mash:**
@@ -10994,11 +10214,7 @@ Yes, I'm fine... but... Let me hold onto your arm for a moment, Mash.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Never said it but actually prefers Miyu) You okay, Miyu?
  
 **Miyu:**
@@ -11342,11 +10558,7 @@ Oh-ho? The defensive response brought Chloe halfway back.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who are you?
 
 
@@ -11370,11 +10582,7 @@ But it just looks like Illya and Chloe are brawling.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um, Illya?
 
 
@@ -11499,11 +10707,7 @@ T-Then what about my sleepwalking at Chaldea?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That was probably Medb.
  
 **E：First Lady/Chloe:**
@@ -11517,11 +10721,7 @@ For a very brief moment, Medb's power rivaled mine.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Was that the First Lady's doing too?
  
 **E：First Lady/Chloe:**
@@ -11890,11 +11090,7 @@ If you say so, Illya...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Helena. Are you staying here?
 
 
@@ -12030,11 +11226,7 @@ I'm sure that that's what gave this world meaning. That's... what I think.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're so mature, Miyu.
  
 **Miyu:**
@@ -12065,11 +11257,7 @@ Aw...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You could probably be a little more selfish.
  
 **Mash:**
@@ -12131,11 +11319,7 @@ W-What!? I'm not like you, Chloe! Jeez!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're fine as you are, Illya.
  
 **Illya:**
@@ -12153,11 +11337,7 @@ That... that kind of hurts... (Sob)
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll meet again someday.
  
 **Mash:**
@@ -12223,11 +11403,7 @@ Unless there's any other extraordinary Mystic Codes like Ruby and Sapphire who f
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll deal with that when it happens.
  
 
@@ -12260,11 +11436,7 @@ Who is... that?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh?
 
 
@@ -12284,11 +11456,7 @@ Oh, I ended up here.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Chloe!?
 
 
@@ -12341,11 +11509,7 @@ Yes, I do. I'd love to.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are you a Servant now? Or a magical girl?
  
 **Chloe:**
@@ -12360,11 +11524,7 @@ I see... Maybe that's why I was the only one who was summoned...?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Gotta make a list of who you can't be around!
  
 **Mash:**
@@ -12498,11 +11658,7 @@ Is she... a magical girl, too?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's just nameless small fry.
  
 **Fake Tamamo Cat:**
@@ -12529,11 +11685,7 @@ Well, the Catmobile only has two pedals: accelerate and jump.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just a stray Cat. I'd bet Doctor's soul on that.
  
 **Fake Tamamo Cat:**
@@ -12579,11 +11731,7 @@ W-what? Consistent? Really?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's try battling it.
 
 
@@ -12634,11 +11782,7 @@ I can definitely say for sure that nothing good will come of it!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A fake magical girl rather than a fake Servant?
 
 
@@ -12658,11 +11802,7 @@ Aside from the fact that she was hostile towards us, we didn't really figure out
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's more on her than on us...
  
 **Mash:**
@@ -12672,11 +11812,7 @@ It would be nice to have an enemy we can communicate with... Is that a strange t
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She did look kinda like a magical girl.
  
 **Illya:**
@@ -12757,11 +11893,7 @@ Altogether it's a little over the top...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Magical... girl?
  
 **Illya:**
@@ -12784,11 +11916,7 @@ If you dig too deep, you'll get yourself in an embarrassing situation. Boyish gi
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I completely agree. You're a perfect magical girl.
  
 **Mash:**
@@ -12908,11 +12036,7 @@ Ruby is strangely excited again!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah. Let's take a break.
  
 **Mash:**
@@ -12932,11 +12056,7 @@ Oh, you'll come on a pleasure cruise with me?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can't believe it! Magical Douji...!
  
 **Ruby:**
@@ -13051,11 +12171,7 @@ Did we make it to the final boss already? What should we do, Fujimaru!? I'm not 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Running wild. As expected from a Berserker.
  
 **Fake Ibaraki-Douji:**
@@ -13069,11 +12185,7 @@ She's completely given up on herself!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait, did she just say tiger skin loincloth?
  
 **Fake Ibaraki-Douji:**
@@ -13159,20 +12271,12 @@ M-Master?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Please, let me fight you!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What a coldblooded, fearsome banana oni!
 
 
@@ -13206,11 +12310,7 @@ What are you on about!?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Fake Okita, you're a magical girl too?
 
 
@@ -13286,11 +12386,7 @@ She's serious!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Shall it be a duel, then?
  
 **Fake Okita:**
@@ -13304,11 +12400,7 @@ Why does it always turn out like this!?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Magical girls fighting... What a sad world this is...
  
 **Mash:**
@@ -13488,20 +12580,12 @@ Curses! This is not the time for the Kiyosu Conference, Monkey and Shibata! It's
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm glad it's the same GudaGuda.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Looking forward to the second event!
 
 
@@ -13539,11 +12623,7 @@ I see... We need to put an end to this!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So you work for the First Lady?
  
 **Fake Altera:**
@@ -13554,11 +12634,7 @@ It is humiliating, but I will not deny it.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Maybe it's her age?)
  
 **Fake Altera:**
@@ -13766,11 +12842,7 @@ We need to kill even more, don't we?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Illya, this is all an illusion.
  
 **Illya:**
@@ -13789,11 +12861,7 @@ Let's end this... for her sake, too.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Not at all. I've been waiting for this.
  
 **Ruby:**
@@ -13834,11 +12902,7 @@ This scenery looks familiar...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Woo-hoo! The show goes on!)
  
 
@@ -13859,11 +12923,7 @@ And Chloe and Fou are here too?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um, I'm here too.
 
 
@@ -13893,20 +12953,12 @@ LOLz! It's no coincidence!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That voice!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This dark and meme-ish aura...!
 
 
@@ -13994,20 +13046,12 @@ But are you telling me the principles expressed through our wardrobe are incompr
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What do you mean?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (I get it, but I'll keep quiet.)
 
 
@@ -14037,11 +13081,7 @@ And at last, SHE came, an answer to our ambivalent prayers!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “SHE”? Do you mean The First Lady?
 
 
@@ -14077,11 +13117,7 @@ Summon that ever-distant Magical Girl utopia!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't get it.
  
 **Chloe:**
@@ -14095,11 +13131,7 @@ That is why we desire...the truth that lies in the rifts of fiction!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Gotcha! Add me and to make it five!
  
 **Blackbeard:**
@@ -14163,11 +13195,7 @@ Don't talk about us like we're insects!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't like that one bit.
  
 **Mash:**
@@ -14185,11 +13213,7 @@ But we can't let them go out of control to the point where they threaten other w
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We can't let more magical girls suffer.
  
 **Chloe:**
@@ -14298,11 +13322,7 @@ Change before you retreat, please!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I guess we have to go after the Four Gentlemen?
 
 
@@ -14342,11 +13362,7 @@ I'm not sure who he means by “diva.”
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe he means a magical girl!?
  
 **Fou:**
@@ -14360,11 +13376,7 @@ I think Fou is saying, “That's exactly right.”
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A singing magical girl... Sounds great.
  
 **Phantom:**
@@ -14397,11 +13409,7 @@ I don't know about that. If being “serious” makes something okay, then most 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Then let's ask Phantom.
 
 
@@ -14425,11 +13433,7 @@ It should cut out its own tongue, jump into a furnace, and turn itself into gril
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How about a robin with an angelic voice?
 
 
@@ -14462,11 +13466,7 @@ Looks like we should try to convince him with a song.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'd rather sing along with someone.
  
 **Fou:**
@@ -14480,11 +13480,7 @@ I-I'd like that too!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can do a good chicken impression.
  
 **Chloe:**
@@ -14586,11 +13582,7 @@ That's the type of treasure I want.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that your ideal magical girl...?
 
 
@@ -14620,11 +13612,7 @@ This exchange is a complete waste of time, isn't it?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yup.
  
 **Mash:**
@@ -14638,11 +13626,7 @@ Fou.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's just a pirate, a so-called perverted gentleman.
  
 **Chloe:**
@@ -14659,11 +13643,7 @@ Yes! Let there be light in the heart of magical girls everywhere! Just like ther
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay. It's time for him to walk the plank.
  
 **Mash:**
@@ -14677,11 +13657,7 @@ Once you've learned your lesson, come back to Chaldea!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay. It's time for him to be shark bait.
  
 **Chloe:**
@@ -14725,11 +13701,7 @@ Oh... Jeanne!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Jeanne? Where!?
 
 
@@ -14754,11 +13726,7 @@ Why's he into magical girls? Shouldn't he be more into saints and witches and st
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You know what? You're right.
 
 
@@ -14790,11 +13758,7 @@ Oh... young, naive Jeanne. How I long to see you again...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Gotcha. Categorizing is important.
  
 **Mash:**
@@ -14804,11 +13768,7 @@ That explanation convinced you?
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Like how there are lots of different Riders.
  
 **Chloe:**
@@ -14829,11 +13789,7 @@ But Gilles, you yourself are a Caster...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Were you the one controlling the stick familiars?
  
 **Gilles:**
@@ -14851,11 +13807,7 @@ He's probably talking about, you know, that person...
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Blackbeard and Bluebeard. They've both got beards.
  
 **Chloe:**
@@ -14926,11 +13878,7 @@ Oooh! What fortune! Three Jeannes in a single day!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? You don't mean me, do you?
 
 
@@ -14954,20 +13902,12 @@ Kyaau, fofoou!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah... Let's get him, Fou.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Somehow I feel disappointed...and humiliated...
  
 
@@ -14990,11 +13930,7 @@ S-Stay back! Adult women, stay away from me!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Diarmuid?
  
 **Mash:**
@@ -15004,11 +13940,7 @@ Diarmuid is one of the Four Heavenly☆Magical Gentlemen?!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What in the world?
  
 **Chloe:**
@@ -15076,11 +14008,7 @@ I just want to wrap my arms around him.
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Chloe! It's a spell! Don't fall for it!
  
 **Chloe:**
@@ -15090,11 +14018,7 @@ Huh!? Ugh... Arrrggh... This loser has an irresistible beauty spot!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash, does he have any effect on you?
  
 **Mash:**
@@ -15145,11 +14069,7 @@ I cannot attain magical girlhood, but I can fulfil my knightly duties and presen
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hold your head up higher, Lancer!
  
 **Chloe:**
@@ -15163,11 +14083,7 @@ Compared to the other old guys, his extreme seriousness worries me a little.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Take better care of yourself, Lancer...
  
 **Mash:**
@@ -15196,11 +14112,7 @@ Not to mimic a certain iron nurse, but I also sense the necessity of medical tre
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All right, let's go!
 
 
@@ -15238,11 +14150,7 @@ Something strange is happening! Again!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that our final destination?
 
 
@@ -15273,11 +14181,7 @@ What's that...?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Shadows forming a Prisma Cosmos-ish shape!?
 
 
@@ -15305,11 +14209,7 @@ It's like how the First Lady took over Chloe...no, you look like Illya!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So Illya was the ideal magical girl?
  
 **Testament:**
@@ -15323,11 +14223,7 @@ I'm stunned. Instead of using my body this time, a form was created directly out
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Like a knockoff of a knockoff?
  
 **Chloe:**
@@ -15360,11 +14256,7 @@ I imagine that would have been quite the psychological blow...
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's the purpose of the Four Gentlemen?
 
 
@@ -15443,11 +14335,7 @@ What!? You got nasty all of a sudden!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's like a beautiful lotus growing in the mud.
  
 **Testament:**
@@ -15461,11 +14349,7 @@ I may grant their wishes, but I will never mingle with them. That's who I am.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I won't allow you to belittle magical girl fans!
  
 **Testament:**
@@ -15498,11 +14382,7 @@ Magical girls should only fall in love with each other♡
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No good. She's rotten to the core.
  
 **Chloe:**
@@ -15512,11 +14392,7 @@ Maybe she would've been better off borrowing Miyu's form.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What about cute pretty boy familiars?
  
 **Fou:**
@@ -15553,11 +14429,7 @@ So don't interfere with my journey of endlessly granting bittersweet heaven and 
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I swear she's pure evil.
  
 **Mash:**
@@ -15567,11 +14439,7 @@ And I agree!
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't like it when the DM brings a SO to play.
  
 **Fou:**
@@ -15601,11 +14469,7 @@ I'll show you with this body what color suits a true magical girl!
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You mean like 99% flesh-colored?
  
 **Chloe:**
@@ -15619,11 +14483,7 @@ But if you insist, then by all means, show me! Show me the ideal magical girl's 
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe like her 2wei Herz beast scale figure?
  
 **Mash:**
@@ -15697,11 +14557,7 @@ The power of the feelings from Blackbeard and the others is gone. It supported m
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Testament...
 
 
@@ -15774,11 +14630,7 @@ Although maybe that was better than leaving us with a parting shot like, “Ther
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Be it magic or miracles, there's always equivalent exchange.
  
 **Chloe:**
@@ -15805,11 +14657,7 @@ I can't tell if Chloe is pessimistic or optimistic.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (I see, now that's textbook savage.)
  
 **Mash:**
@@ -15846,11 +14694,7 @@ Next time take me on a proper mission, okay, Fujimaru?
  
 ---
 
-<<<<<<< HEAD
 **Fujimaru 1:**
-=======
-**Fujimaru 1::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sure. That's a promise.
  
 **Chloe:**
@@ -15861,11 +14705,7 @@ Good. That's my Master.
 
 ---
 
-<<<<<<< HEAD
 **Fujimaru 2:**
-=======
-**Fujimaru 2::**
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'd rather take Illya for sure...
  
 **Chloe:**
