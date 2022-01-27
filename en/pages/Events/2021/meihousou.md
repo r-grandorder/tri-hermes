@@ -997,12 +997,20 @@ If you need me, I'll be brainstorming down in the library.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You sure moved fast on this one!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A creative endeavor this time, huh...
  
 
@@ -1050,12 +1058,20 @@ I know, why don't you try using it to record your entire daily life for practice
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Iiinteresting...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hmmm...
  
 
@@ -1139,12 +1155,20 @@ Th-the script is...  Well...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Murasaki?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is something wrong?
 
 
@@ -1715,7 +1739,11 @@ Are you shitting me!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 T-to be fair, this was all really short notice...
 
 
@@ -1795,12 +1823,20 @@ I would love to talk to you more under different circumstances, but alas&ndash;
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hi there! I'm Fujimaru, Mash's exclusive [♂ cameraman /♀ camerawoman]!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I agree with everything you said about her, but hands off!
  
 
@@ -1848,12 +1884,20 @@ Master... Master!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm kind of trying to film a movie here...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Shh!
  
 
@@ -1891,7 +1935,11 @@ only to die off shortly after marrying her...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nothing good, that's for sure.
  
 **Moriarty:**
@@ -1901,7 +1949,11 @@ Wonderful...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It'll be fiiiiine.
  
 **Moriarty:**
@@ -1957,7 +2009,11 @@ Oh no. Murasaki Shikibu just collapsed!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Murasaki! A-are you all right!?
  
 
@@ -1996,7 +2052,11 @@ I was not. While I did serve the drinks...I didn't have time to add anything to 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I didn't see anything funny when I was recording, either...
 
 
@@ -2115,7 +2175,11 @@ now is the time to speak up.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh for... Don't tell me.
 
 
@@ -2148,12 +2212,20 @@ I have already solved this particular mystery.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Holmes!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Isn't that kind of fast, even for you?
  
 
@@ -2208,7 +2280,11 @@ As you know, it puts the patient into a state of deep sleep until they completel
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This stuff put us in a bind last time too...
  
 
@@ -3019,7 +3095,11 @@ I did indeed merely shout the first thing that came to my mind.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You never change, do you, Tristan...
  
 **Tristan:**
@@ -3029,7 +3109,11 @@ Despite your praise, I am still deeply saddened...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That was so unhelpful it almost circled back to being helpful.
  
 **Tristan:**
@@ -3079,7 +3163,11 @@ Did Lady Murasaki not go over their backgrounds with you?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't think so...
 
 
@@ -3123,13 +3211,21 @@ Would that work!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Would it! We've got to have a scene like that!
  
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're really enjoying this, aren't you, Mash?
  
 
@@ -3237,7 +3333,11 @@ Oh yes, I could gush about her eyes and hair for days on end and still not run o
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hmmm...
  
 **Mash:**
@@ -3247,7 +3347,11 @@ Is something wrong, Master?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Eyes... Hair... That sounds familiar...
  
 **Jeanne Alter:**
@@ -3303,12 +3407,20 @@ What an amusing idea!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You might be getting a little too...royal.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're a little too proud to hide.
  
 
@@ -3891,12 +4003,20 @@ What if we made Salazar here and this Daizou person one and the same?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But, they don't look anything alike.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hmm. I guess Daizou's face was covered up, so maybe...
  
 
@@ -3977,7 +4097,11 @@ Um, I guess I just wanted to kill someone?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that all you think Assassins care about!?
  
 **Salazar:**
@@ -3987,7 +4111,11 @@ I'm sorry. I'm doing my best to come up with a plausible motive as we speak!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ARE you an Assassin?
  
 **Salazar:**
@@ -4141,7 +4269,11 @@ Is Little Miss Holier-Than-Thou around or something? I know she wouldn't think t
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, she might even steal your heroine spotlight.
  
 **Jeanne Alter:**
@@ -4155,7 +4287,11 @@ Shut the hell up.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, Big Sis can be a little...reckless sometimes.
  
 **Jeanne Alter:**
@@ -4212,7 +4348,11 @@ I would be glad to handle the bottle dropping as well!!! In fact, I wouldn't eve
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Whoa, uh, take it down a notch, would you?
  
 **Salazar:**
@@ -4226,7 +4366,11 @@ Whoa, uh, take it down a notch, would you?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can somebody calm him down, please?
  
 **Tristan:**
@@ -4438,7 +4582,11 @@ That's it, Salazar... Now you go into assassin mode.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait. Something's not right.
 
 
@@ -4622,7 +4770,11 @@ Forgive me for leaving in the middle of all this.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Bartholomew...
 
 
@@ -4634,7 +4786,11 @@ By the way, about the lovely lady with the beautiful bangs&ndash;
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You realize there's more to Mash than her bangs, right?
 
 
@@ -4672,7 +4828,11 @@ What is your obsession with my eyes being hidden, anyway?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's your first question!?
  
 **Jeanne Alter:**
@@ -4683,7 +4843,11 @@ You're better off not knowing.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Honestly, I'm not sure either...
  
 **Jeanne Alter:**
@@ -4871,7 +5035,11 @@ At worst, we can always chalk it up to somehow being the true culprit's doing.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Easy for you to say! Your character's dead!
 
 
@@ -5444,7 +5612,11 @@ Master, I need to talk to you.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's up?
  
 
@@ -5515,7 +5687,11 @@ So I think he'll come up with something that appeals to a wide audience.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're really enjoying this, aren't you, Doctor?
  
 
@@ -5626,7 +5802,11 @@ I've got an idea I wanted to share with you.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Where's this coming from?
  
 
@@ -5969,7 +6149,11 @@ Haha, looks like you got me!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You seem pleased.
 
 
@@ -6238,7 +6422,11 @@ has precedent in real life.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think it means “nightfall stone” or something...?
 
 
@@ -6639,12 +6827,20 @@ Fans so devoted as to be willing to risk their lives for him? No one would do th
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can think of a few.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No comment.
  
 
@@ -6907,7 +7103,11 @@ I remember Murasaki Shikibu actually asked Jeanne Alter to say as many mean thin
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's like you were born for the role.
  
 **Jeanne Alter:**
@@ -6917,7 +7117,11 @@ Oh, my sides are splitting. You looking for an ass-kicking, Master? You just got
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You were so vicious at times it made me think you might be the culprit.
  
 **Jeanne Alter:**
@@ -6952,7 +7156,11 @@ Tch. Really? Nothing?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (SO glad I bit my tongue there!)
 
 
@@ -7021,7 +7229,11 @@ She wanted to see her beloved childhood friend again!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A childhood friend? Who would that be?
 
 
@@ -7090,7 +7302,11 @@ I think that's why I was such a bitch to her, even though I was happy to see she
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You still, um, overdid it a bit.
  
 
@@ -7261,7 +7477,11 @@ Aren't you, Fujimaru?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait. You don't mean...
  
 **Jeanne Alter:**
@@ -7272,7 +7492,11 @@ That's right. You're our new culprit!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh? What are you talking about?
  
 **Jeanne Alter:**
@@ -7455,7 +7679,11 @@ Indeed. For that matter, he hasn't even justified why he's been carrying a harp 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Have you just been asleep this whole time?
 
 
@@ -7638,7 +7866,11 @@ I guess things turned out just like Dr. Roman said they would... What do you say
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hmm... If I can only choose one...
  
 
@@ -7651,7 +7883,11 @@ Yes?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...I'd have to go with...
  
 
@@ -8602,7 +8838,11 @@ That's right. I'm looking at you.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How did you know...?
  
 
@@ -8818,12 +9058,20 @@ Is this what you were looking for?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Th-that's the trash can with the wrapping paper!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What would Mash want with that trash can?
  
 
@@ -8840,7 +9088,11 @@ The one behind all of this was none other than your faithful Demi-Servant, Mash!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Whaaat!?
  
 
@@ -8946,7 +9198,11 @@ Your only mistake, Mash, was failing to realize that my clownish incompetence wa
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 An act? Of all today's weirdness, that is the hardest to believe...
 
 
@@ -9000,7 +9256,11 @@ I would love to bring Great Detective Tristan back!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Great Detective...?
 
 
@@ -9042,7 +9302,11 @@ I'm so sorry for making you all worry about me.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay. Accidents happen.
  
 **Jeanne Alter:**
@@ -9052,7 +9316,11 @@ Sure, but next time you go taking medicine, read the damn instructions, will you
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Please don't be sorry, Murasaki. It wasn't your fault.
 
 
@@ -9088,7 +9356,11 @@ Oh my... I can't believe it...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That bad, huh?
  
 
@@ -9126,7 +9398,11 @@ Your original idea for this movie was to make it a variation on The Tale of Genj
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A variation...?
 
 
@@ -9352,7 +9628,11 @@ Senpai... Are we sure this is what we want to do?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash?
  
 
@@ -9505,7 +9785,11 @@ All you need to do is make me the lead actor!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 S-say what!?
 
 
@@ -9714,7 +9998,11 @@ Now then... Shall we, Master!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We shall!
 
 

@@ -54,7 +54,11 @@ That's what this Olympic festival, held in my Rome, is all about!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Rome!
  
 **Nero:**
@@ -64,7 +68,11 @@ Rome! Indeed!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All hail Her Majesty!
  
 **Nero:**
@@ -1434,12 +1442,20 @@ I can't wait!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go get a bunch of medals!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's make it a fun festival.
  
 

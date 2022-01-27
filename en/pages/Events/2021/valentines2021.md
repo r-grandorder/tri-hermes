@@ -30,12 +30,20 @@
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hm?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I didn't know so many Servants were bookworms...
  
 
@@ -127,12 +135,20 @@ So it's called “Sir Gawain and the Green Knight”...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hmmm.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That explains it...
  
 
@@ -170,7 +186,11 @@ I'm so sorry I didn't notice you sooner!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't worry about it.
  
 **Mash:**
@@ -181,7 +201,11 @@ but I was still so caught up in it!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What're you reading, Mash?
  
 **Mash:**
@@ -194,7 +218,11 @@ The Iliad, Homer's Greek epic.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What were you reading?
  
 
@@ -212,7 +240,11 @@ The one Achilles and Hektor fought in.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A lot of the Heroic Spirits here love that book.
  
 **Mash:**
@@ -239,7 +271,11 @@ I just couldn't put it down.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Didn't a guy named Heinrich Schliemann excavate the ruins of Troy?
  
 **Mash:**
@@ -260,7 +296,11 @@ It's a true Mystic, weaving history and mythology together like few other histor
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Sure seems like a lot of people have caught the reading bug.
  
 
@@ -310,7 +350,11 @@ As a result, it fits entirely in the storage area, and doesn't get in the way of
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 First I've heard of this.
  
 
@@ -327,7 +371,11 @@ Oh, maybe there's a bug in the email server!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That might be it.
  
 **Mash:**
@@ -338,7 +386,11 @@ It could just be a loose cable or something.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Da Vinci's definitely not the type to forget to tell us something important.
  
 **Mash:**
@@ -368,7 +420,11 @@ Maybe that's why I got so caught up in these actual books...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't sweat it! Besides, this is your time off!
  
 **Mash:**
@@ -382,7 +438,11 @@ Fou fou.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You really do like paper books, don't you?
  
 **Mash:**
@@ -416,7 +476,11 @@ And yet, it's strange. When I read a paper book...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You can't put it down?
  
 
@@ -467,7 +531,11 @@ please come straight to me.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We really do have a librarian...
  
 **H：Librarian:**
@@ -483,7 +551,11 @@ I suppose this is our first time meeting, isn't it?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nice to meet you.
  
 **H：Librarian:**
@@ -513,12 +585,20 @@ I hope you will be patient with me, as there is still much I do not know about t
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Welcome to Chaldea!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm .
  
 
@@ -531,7 +611,11 @@ Murasaki Shikibu was born in Japan during the Heian period, just like Raikou and
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think...she was an author, right?
  
 **Mash:**
@@ -550,7 +634,11 @@ But Murasaki Shikibu was also a famous tanka poet. Some of her poems are include
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's the tanka poet who wrote The Tale of Genji!
  
 **Mash:**
@@ -632,7 +720,11 @@ I still have much to learn as a Caster, but I hope I can be of use to all of you
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Glad to have you with us!
  
 
@@ -798,12 +890,20 @@ I was so determined to make a perfect debut as the Heroic Spirit of Books, and t
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't worry, everything will work out.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It sounds like we just need to get that book back, no?
  
 
@@ -829,12 +929,20 @@ Lady Mash? [♂ Lord /♀ Lady] Fujimaru?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Of course not. Besides, everyone loves the new library.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nah, it's fine. Everyone makes mistakes.
  
 
@@ -889,7 +997,11 @@ I noticed a strange book drawing near to my magical energy reserves I had set as
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did you say a strange book!?
  
 **Mash:**
@@ -899,7 +1011,11 @@ She did, Senpai! That must be the Cursed Book...!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All of it!?
  
 **Murasaki Shikibu:**
@@ -950,12 +1066,20 @@ I have to put an end to this before anyone else gets hurt! Please, let me handle
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No way! We'll fight with you!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No way! It's too dangerous to fight on your own!
  
 
@@ -983,7 +1107,11 @@ I can't believe the Cursed Book is transforming into a monster...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There it is again...!
  
 
@@ -1049,7 +1177,11 @@ So, be quick about it, Fujimaru!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, yeah, I know. It's all up to me again.
  
 **Semiramis:**
@@ -1059,7 +1191,11 @@ One “yeah” is quite enough, thank you.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 By the way, what was the deal with those Choco Dragon Tooth Warriors...?
  
 **Semiramis:**
@@ -1124,7 +1260,11 @@ But inexperienced as I may be, I will do whatever I must to clean up this mess I
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll help too, Murasaki.
  
 
@@ -1164,7 +1304,11 @@ I see. This certainly is a lively place...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 First time at a cafeteria?
  
 **Murasaki Shikibu:**
@@ -1182,7 +1326,11 @@ I have no wish to boast, but even as a child, I would frequently read books mean
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I take it you don't usually leave the library much?
  
 **Murasaki Shikibu:**
@@ -1287,12 +1435,20 @@ Nice to see you here in the cafeteria for once, Murasaki Shikibu. This your firs
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I see you know everyone besides Cat.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're pretty famous, Murasaki.
  
 
@@ -1366,12 +1522,20 @@ Cooking So Simple Even Batty Can Do It”!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hold up!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If this is going where I think it's going...!
  
 
@@ -1472,7 +1636,11 @@ Fou!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Next stop: the writer Servants' room!
  
 
@@ -1615,7 +1783,11 @@ Eh, why bother. Anyone with half a brain could see the twist that she's actually
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It sure is lively in here!
  
 **Mash:**
@@ -1625,7 +1797,11 @@ Yes, it's very lively! Usually the study is kind of...quiet, but today it's like
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Seems like things escalated quickly here!
  
 **Mash:**
@@ -1722,7 +1898,11 @@ Well, of my manifestation, that is!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're quite the fangirl aren't you?
  
 **Murasaki Shikibu:**
@@ -1733,7 +1913,11 @@ Perhaps I am...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's one way to look at the bright side!
  
 **Murasaki Shikibu:**
@@ -1918,13 +2102,21 @@ They're about to take on physical form!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's get to work!
  
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on, authors, help us out here!
  
 **Andersen:**
@@ -2011,12 +2203,20 @@ Well, I remember seeing that girl carrying an armful of them.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Which girl?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Who are you talking about?
  
 
@@ -2033,7 +2233,11 @@ Oh! I know who he means now, Senpai!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Osakabehime!
  
 
@@ -2110,12 +2314,20 @@ Hm? What is it? Why're you looking at me like that?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 When did we get a commentary track here?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You mean I wasn't just imagining things!?
  
 
@@ -2149,12 +2361,20 @@ Taizan Commentary Fest.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Taizan...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Commentary Fest...
  
 
@@ -2196,12 +2416,20 @@ It still gives me chills to think about it...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A scary monk, huh...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mmmm, something about the way he speaks sounds familiar...
  
 
@@ -2271,12 +2499,20 @@ Lord Andersen...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ander...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (I think...I just saw the ultimate tsundere in action...)
  
 
@@ -2323,7 +2559,11 @@ Thus, resigned to his fate, Mr. Andersen decided he may as well stick around unt
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There it goes again...
  
 
@@ -2426,7 +2666,11 @@ Um...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go after them!
  
 **Murasaki Shikibu:**
@@ -2440,7 +2684,11 @@ I'll close the hall to the library, just in case!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe we should seal off the entrance, too.
  
 **Mash:**
@@ -2494,7 +2742,11 @@ The girl in glasses who frequents my library...!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Osakabehime, wait! Don't return that boook!
  
 
@@ -2525,12 +2777,20 @@ This is exactly why I've been trying to avoid running into her and Ma-chan at th
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I wouldn't say you're THAT similar...
  
 
@@ -2604,12 +2864,20 @@ Yamete kudastooop!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry about this, Osakabehime!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll do my best not to look at the title!
  
 
@@ -2683,7 +2951,11 @@ Why would Ma-chan want to keep a pale imitation like me around when [♂ he /♀
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay. Really.
  
 
@@ -2697,12 +2969,20 @@ Ma-chan...?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nobody could ever replace you.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're not an imitation of her at all.
  
 
@@ -2761,12 +3041,20 @@ There, there.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm glad everything worked out.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You two really are good friends, aren't you?
  
 
@@ -2881,12 +3169,20 @@ All right, let's see if they can be reasoned with.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Heeey! Valkyries!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't return those books just yet!
  
 
@@ -3028,12 +3324,20 @@ Huh!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 M-more commentary!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe this really is a curse...
  
 
@@ -3130,12 +3434,20 @@ How does that sound, Master?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It sounds great. Thanks!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That'd be a huge help.
  
 
@@ -3196,13 +3508,21 @@ Well, come on then. We need to hurry up and check the books everyone else is ret
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Right on!
  
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It'd be great if the original's here in the library.
  
 **Mash:**
@@ -3304,12 +3624,20 @@ I do hope you can all forgive me. I promise I will take great care not to let an
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry but it's so we can save the chocolate for Valentine's Day!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We had to do this to save Valentine's Day, so...
  
 
@@ -3343,12 +3671,20 @@ Maybe I'll get enough chocolate to make a trophy out of it! Neeheehee!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're a good egg sometimes, Blackbeard.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm counting on you!
  
 
@@ -3403,12 +3739,20 @@ Come to cases, I could just spin a sob story for one of the really rich ancient 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I guess that would work, but...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't know...
  
 
@@ -3451,7 +3795,11 @@ Good idea. It'd be a real pain if this scoundrel were to flee the moment the shu
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks, Mash!
  
 **Mash:**
@@ -3461,7 +3809,11 @@ No problem!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just make sure you don't push yourself too hard, okay?
  
 **Mash:**
@@ -3490,7 +3842,11 @@ This is kind of doki-doki, isn't it, Ma-chan?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I...guess?
  
 **Andersen:**
@@ -3500,7 +3856,11 @@ As long as I get to sit down and rest my poor aching feet, I couldn't care less 
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There is something cool about having your home attached to your workplace.
  
 **Osakabehime:**
@@ -3529,7 +3889,11 @@ Oh man, oh man, oh man! So this is what Murasaki-senpai's room looks like!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It looks just like a hotel room.
  
 **Osakabehime:**
@@ -3539,7 +3903,11 @@ It looks just like a hotel room.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This looks like...the rooms we had in Luluhawa...
  
 **Osakabehime:**
@@ -3595,7 +3963,11 @@ You're all good with hot tea, right?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sounds good to me.
  
 **Osakabehime:**
@@ -3605,7 +3977,11 @@ You got it!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'd actually prefer cold...
  
 **Osakabehime:**
@@ -3641,12 +4017,20 @@ Got it!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is everything okay?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You look like something's bothering you.
  
 
@@ -3693,12 +4077,20 @@ The only thing I should be focusing on now is bringing this situation under cont
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We can be concerned about more than one thing at a time!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If this letter means that much to you, we'll just have to get it back.
  
 
@@ -3781,12 +4173,20 @@ Master. What's the main thing you know about the Cursed Books?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They feed on nearby information.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They feed on nearby magical energy.
  
 
@@ -3814,7 +4214,11 @@ and the latter explains...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The Valentine's chocolate resources!
  
 
@@ -3852,7 +4256,11 @@ So no one is really going to mind that you're worried about your precious letter
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hey, you look like you're feeling a little better now.
  
 **Murasaki Shikibu:**
@@ -3862,7 +4270,11 @@ I am!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks, Andersen.
  
 **Andersen:**
@@ -3933,7 +4345,11 @@ and says she will be done shortly. That is all.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks for telling us, Semiramis!
  
 **Semiramis:**
@@ -3943,7 +4359,11 @@ It was nothing. Truly.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Would you mind, um...keeping an eye on Amakusa for me?
  
 **Semiramis:**
@@ -3956,7 +4376,11 @@ You need not even ask. Of course.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, tea, please!
  
 
@@ -4029,7 +4453,11 @@ There are multiple interpretations, as with any renowned poem. Some consider it 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's a lovely poem.
  
 
@@ -4134,7 +4562,11 @@ It's very possible. I'm looking at the readings for all the Cursed Books that br
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 To the hall!
  
 **Fou:**
@@ -4153,7 +4585,11 @@ Of course you're going to help us fight. Now come on! I'll show what it means to
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's where we saw Blackbeard, Jeanne, and Tristan, right?
  
 **Murasaki Shikibu:**
@@ -4215,7 +4651,11 @@ These books are perfectly positioned to build a nest around their queen!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...This whole incident started in the archive, right?
  
 **Andersen:**
@@ -4225,7 +4665,11 @@ Now I see. So this queen book roamed the base creating offspring of a sort, and 
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So, like a homing instinct?
  
 **Andersen:**
@@ -4243,7 +4687,11 @@ At any rate...this is also our best chance to take these things down for good. M
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's go get them!
  
 **Andersen:**
@@ -4253,7 +4701,11 @@ Too late! We're under attack right now!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Put up your guard)
  
 **Osakabehime:**
@@ -4328,12 +4780,20 @@ I'll be doing this last part&ndash;
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 With the rest of us, of course.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nuh-uh. I'm not letting you do this alone.
  
 
@@ -4374,7 +4834,11 @@ I would be glad to have you all accompany me to the very end...Master.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Let's go!
  
 
@@ -4421,12 +4885,20 @@ That's it. I'm certain this is the original Cursed Book!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Only one thing left to do now!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on, everyone! Let's get it!
  
 
@@ -4519,7 +4991,11 @@ And to you. I can't tell you all how grateful I am for your help.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did you get your precious letter back?
  
 
@@ -4539,6 +5015,17 @@ Thank you, [♂ Lord /♀ Lady] Fujimaru!
  
 
  
+<<<<<<< HEAD
+**Narration:**
+After that...
+
+ 
+**Narration:**
+Valentine's Day preparations, as well as the customary chocolate gift-giving went smoothly.
+
+ 
+**Narration:**
+=======
 **Narration::**
 After that...
 
@@ -4548,6 +5035,7 @@ Valentine's Day preparations, as well as the customary chocolate gift-giving wen
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And it was not long before the newly built underground library reopened its doors.
 
  
@@ -4701,6 +5189,21 @@ It needn't necessarily take the form of chocolate. Whatever feelings you may hav
 ...I hope that letter successfully makes its way to its intended recipient.
 
  
+<<<<<<< HEAD
+**Narration:**
+And after that...
+
+ 
+**Narration:**
+While it is not clear whether she may have done so during the sweet revelry of Valentine's Day...
+
+ 
+**Narration:**
+...or at some other, later point...
+
+ 
+**Narration:**
+=======
 **Narration::**
 And after that...
 
@@ -4714,6 +5217,7 @@ While it is not clear whether she may have done so during the sweet revelry of V
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A young girl may just have found the courage to give a letter of her own to a certain someone...
 
  

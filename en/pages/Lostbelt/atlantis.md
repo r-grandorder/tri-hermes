@@ -1771,7 +1771,11 @@ Do not for a moment think yourselves above them. Let down your guard, and you WI
 ...Yes, sir! 
  
 **???:**
+<<<<<<< HEAD
+Very well then, I leave this in your hands,![berserk1](https://i.imgur.com/XAqlQYL.png). 
+=======
 Very well then, I leave this in your hands,![1-light](https://i.imgur.com/XAqlQYL.png). 
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **C：???:**
 Understood. The Echidna production is coming along extremely well. 

@@ -55,12 +55,20 @@ Cherry blossoms, huh? That's nice. I've seen them before, too. Although I didn't
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, I'd say it smells delicious.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait, could this scent be...
  
 
@@ -84,7 +92,11 @@ I can't get over how beautiful it is here.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can't get over how beautiful you are, Mash.
  
 **Mash:**
@@ -95,7 +107,11 @@ R-Right... As you can see, my primary colors are purple and black... So I am no 
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I wish we had some dumplings from the moon festivals.
  
 **Mash:**
@@ -154,7 +170,11 @@ Oooh, my head hurts... I went overboard brawling with those bears...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Golden morning, mister.
  
 **Sakata Kintoki:**
@@ -165,7 +185,11 @@ To be golden in the morning is very golden!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 God morning, Kintoki.
  
 **Sakata Kintoki:**
@@ -230,12 +254,20 @@ Does he hate me now?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't think that's it.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Dangerous... beast!
  
 
@@ -278,7 +310,11 @@ All the signs point to good things, so I'll push on ahead. My axe will carve a w
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Kintoki sure is in high spirits!
  
 **Mash:**
@@ -292,7 +328,11 @@ That said... Where are we going?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um... Where are we going?
  
 
@@ -475,12 +515,20 @@ Take me to paradise! Huh? You're married? Then die!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's chaos.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Some kind of weird festival?
  
 
@@ -529,12 +577,20 @@ An enemy attack?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash just jumped...on me...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This sensation... She's a beast!
  
 
@@ -596,12 +652,20 @@ I can shut out all nasty insects and external enemies completely!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash is acting weird!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Medic... Medic!
  
 
@@ -649,12 +713,20 @@ Is she always like this?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Actually, she kind of is.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, this time it's worse than usual.
  
 
@@ -692,12 +764,20 @@ Anything seem strange?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Not really. I'm sober.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I've never been drunk, so I don't know.
  
 
@@ -1114,7 +1194,11 @@ that ain't the Ibaraki I know.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is she that strong?
  
 **Sakata Kintoki:**
@@ -1124,7 +1208,11 @@ She might be strong enough that you could throw all your Servants at her and hav
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I knew it! Her lines are really...something!
  
 **Sakata Kintoki:**
@@ -1263,7 +1351,11 @@ Let's just stay calm and be careful.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's such a help that you're always calm.
  
 **Mash:**
@@ -1273,7 +1365,11 @@ I-Is it? I'm glad...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're getting tired, though...
  
 **Mash:**
@@ -1307,7 +1403,11 @@ Is she, um, drunk? (Psst psst)
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's normal during battle.
  
 **Dr. Roman:**
@@ -1317,7 +1417,11 @@ Is she? But...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Point to your side without saying a word)
  
 
@@ -1349,7 +1453,11 @@ maybe she's just barely keeping it under control when she's near danger, perhaps
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She seems stronger during combat, actually.
  
 
@@ -1365,12 +1473,20 @@ You're not going to open wide?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 S-Sure!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry, I was frozen in joy!
 
  
@@ -1420,12 +1536,20 @@ I guess we dealt a fair amount of damage.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What are you looking at, Mash?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If you're tired, you should rest.
  
 
@@ -1436,7 +1560,11 @@ I was just thinking about what the Doctor said yesterday.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (So you were listening to our conversation?)
 
  
@@ -1501,7 +1629,11 @@ There's no telling what it would do even to a Servant if they tried to touch it.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Looks like climbing over the gate is not possible...
  
 **Mash:**
@@ -1511,7 +1643,11 @@ Yes, Master. Which is why I'd like to go scout a little and see if we can find a
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So how about finding a detour?
  
 **Mash:**
@@ -1567,7 +1703,11 @@ You're probably right. It seems... that we do need to beat Ibaraki-Douji in orde
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It may be a tough fight, but let's give it our best shot.
  
 **Mash:**
@@ -1577,7 +1717,11 @@ Yes, Master. Of course, we will. As poor as my abilities are, I will absolutely 
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We can't give up now.
  
 **Mash:**
@@ -1611,12 +1755,20 @@ Again!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We were really trying not to let her escape this time too, but...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We just can't seem to make her stop!
  
 
@@ -1654,7 +1806,11 @@ Only her battle habits. We fought quite a few times.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did you know the captured oni... Shuten-Douji, too?
 
  
@@ -1812,7 +1968,11 @@ That's it! I'll rip out your bones and then use my metal rod to torment you. And
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...That dream just now...
  
 
@@ -1984,7 +2144,11 @@ Agreed. We've all been pushing through our accumulating fatigue...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah. Stay on your guard. Let's go.
  
 **Mash:**
@@ -1994,7 +2158,11 @@ Right. After all these battles, I know all too well how terrifying oni can be.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Let's win this thing.
  
 **Mash:**
@@ -2062,7 +2230,11 @@ You really need someone to spell it out for you? I guess you do. Okay, Boss, wou
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Basically, you never ate Shuten, did you?
  
 
@@ -2091,12 +2263,20 @@ See? Told you this was how Ibaraki was, right?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, she's not so...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What a chicken...
  
 
@@ -2112,7 +2292,11 @@ Speak your name, knave!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's Fujimaru.
  
 
@@ -2284,7 +2468,11 @@ I-I do not! Why don't you have any shame?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Golden... Were you two in a relationship?
  
 
@@ -2747,7 +2935,11 @@ Yes. Let's head back to Chaldea, Senpai.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What is it, Mash?
 
  
@@ -2770,12 +2962,20 @@ Well? Well? Will you drink with me? This is a chance to let me see a side of you
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash, are you still drunk?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Someone bring water!
  
 

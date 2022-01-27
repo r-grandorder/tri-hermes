@@ -50,7 +50,11 @@ Senpai, get up!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 BWAH!?
  
 **Fou:**
@@ -65,7 +69,11 @@ Looks like we've spotted land.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Fou!
  
 **Fou:**
@@ -212,7 +220,11 @@ Yes, I do.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think they'll be fine.
  
 **Mash:**
@@ -222,7 +234,11 @@ Yes, I believe in your intuition, Senpai.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There's no way they'll die.
  
 **Scáthach:**
@@ -287,7 +303,11 @@ If you have to, you may eat me!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Cannibalism isn't really my thing...
  
 **Kiyohime:**
@@ -301,7 +321,11 @@ Fou?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll take you up on that (if I have to).
  
 **Kiyohime:**
@@ -356,7 +380,11 @@ Yes, and if there are people living here...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There's food!
  
 **Altria:**
@@ -366,7 +394,11 @@ Correct! It is completely unimportant to me, but that would mean food!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There's civilization!
  
 **Mash:**
@@ -540,7 +572,11 @@ Maybe it can't talk from shock?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Glasses are cute.
  
 **Mash:**
@@ -550,7 +586,11 @@ Yes, they make him look cute and smart.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Glasses on a boar piglet...
  
 **Mash:**
@@ -668,7 +708,11 @@ Perhaps on par with the one in Master's time, in fact&ndash;though I haven't exp
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah.
 
  
@@ -702,7 +746,11 @@ I think we'll get used to it quickly.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's up with the glasses?
  
 **Scáthach:**
@@ -717,7 +765,11 @@ Do you have a thing for glasses?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I hope there are people there.
  
 **Mash:**
@@ -909,7 +961,11 @@ Space, huh...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sci-fi?
  
 **Mash:**
@@ -920,7 +976,11 @@ Don't interrupt.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A little uncanny?
  
 **E：Boar Piglet:**
@@ -1108,7 +1168,11 @@ What shall we do?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I want to save them.
  
 **Marie:**
@@ -1135,7 +1199,11 @@ Kiyohime's got a look in her eyes like she wants to swallow you whole!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll start over on this island!
  
 **Mordred:**
@@ -1254,7 +1322,11 @@ Fou!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's not true.
 
  
@@ -1363,7 +1435,11 @@ Senpai, could this be...?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A coincidence...maybe?
  
 **Tamamo-no-Mae:**
@@ -1377,7 +1453,11 @@ If you start doubting me too, Master, what am I supposed to do?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She ends up as the devil?
  
 **Tamamo-no-Mae:**
@@ -1458,7 +1538,11 @@ Master, please comfort your heartbroken Tamamo!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There, there.
  
 **Tamamo-no-Mae:**
@@ -1472,7 +1556,11 @@ You get the Fluffing Seal of Approval!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're cute, Tamamo.
  
 **Tamamo-no-Mae:**
@@ -1491,7 +1579,11 @@ OKAY!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yes!
 
  
@@ -1580,7 +1672,11 @@ Fortress-class demon boars... Just as strong as Clan Calatin, or even... Heheheh
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Keep a lid on the bloodlust.
  
 **Scáthach:**
@@ -1594,7 +1690,11 @@ I'm a good Servant who properly obeys my Master's orders.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Vetoed.
  
 **Scáthach:**
@@ -1648,7 +1748,11 @@ I get it now. Hmmm...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What?
  
 **Scáthach:**
@@ -1662,7 +1766,11 @@ There's probably something waiting for us up ahead. When you see it, you'll unde
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Notice something?
  
 **Scáthach:**
@@ -1841,7 +1949,11 @@ WAAAAH! Master!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay. There, there.
 
  
@@ -1905,7 +2017,11 @@ And so when we, oblivious to all that, returned to this place...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why weren't we affected?
  
 **Scáthach:**
@@ -1920,7 +2036,11 @@ Even if you spend a year on this island, only a fraction of that time passes in 
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How do we get out of here?
  
 **Scáthach:**
@@ -2076,7 +2196,11 @@ Fortress-class demon boars... Just as strong as Clan Calatin, or even... Heheheh
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Keep a lid on the bloodlust.
  
 **Scáthach:**
@@ -2090,7 +2214,11 @@ I'm a good Servant who properly obeys my Master's orders.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Vetoed.
  
 **Scáthach:**
@@ -2144,7 +2272,11 @@ I get it now. Hmmm...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What?
  
 **Scáthach:**
@@ -2158,7 +2290,11 @@ There's probably something waiting for us up ahead. When you see it, you'll unde
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Notice something?
  
 **Scáthach:**
@@ -2391,7 +2527,11 @@ And so when we, oblivious to all that, returned to this place...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why weren't we affected?
  
 **Scáthach:**
@@ -2406,7 +2546,11 @@ Even if you spend a year on this island, only a fraction of that time passes in 
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How do we get out of here?
  
 **Scáthach:**
@@ -2562,7 +2706,11 @@ Fortress-class demon boars... Just as strong as Clan Calatin, or even... Heheheh
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Keep a lid on the bloodlust.
  
 **Scáthach:**
@@ -2576,7 +2724,11 @@ I'm a good Servant who properly obeys my Master's orders.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Vetoed.
  
 **Scáthach:**
@@ -2630,7 +2782,11 @@ I get it now. Hmmm...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What?
  
 **Scáthach:**
@@ -2644,7 +2800,11 @@ There's probably something waiting for us up ahead. When you see it, you'll unde
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Notice something?
  
 **Scáthach:**
@@ -2872,7 +3032,11 @@ And so when we, oblivious to all that, returned to this place...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Why weren't we affected?
  
 **Scáthach:**
@@ -2887,7 +3051,11 @@ Even if you spend a year on this island, only a fraction of that time passes in 
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How do we get out of here?
  
 **Scáthach:**
@@ -2990,7 +3158,11 @@ This is what that thriving place has become!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We found our old stone statue.
 
  
@@ -3096,7 +3268,11 @@ MASTER AND I CAN BE ADAM AND EVE, RIGHT!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hey, what!?
  
 **Kiyohime:**
@@ -3127,7 +3303,11 @@ That was a close one, Master.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't tell Kiyohime that!
  
 **Kiyohime:**
@@ -3172,7 +3352,11 @@ Otherwise we'll really end up as Adam and Eve.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I am an Eve too...
  
 **Scáthach:**
@@ -3257,7 +3441,11 @@ What!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Big Bro Cú Chulainn!?
  
 **Cú Chulainn:**
@@ -3267,7 +3455,11 @@ Yo. Before I knew it, I was washed up on the shore. Thought I was a goner!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're alive!?
  
 **Cú Chulainn:**
@@ -3388,7 +3580,11 @@ Kon, kon♡
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Regrettably, that's so cute!
 
  
@@ -3407,7 +3603,11 @@ The Master will help you out.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's work together!
  
 **Cú Chulainn:**
@@ -3417,7 +3617,11 @@ U-Ugh... Whatever. All right, all right! I'll do it!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm with you.
  
 **Cú Chulainn:**
@@ -3590,7 +3794,11 @@ S-So you really are going to eat that boar...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You need to have some veggies too...
  
 **Beowulf:**
@@ -3600,7 +3808,11 @@ Whad'ya say? Protein's the best!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's not healthy.
  
 **Beowulf:**
@@ -3701,7 +3913,11 @@ I mean, eventually he shall become an enemy we have to face.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Give him a taste of your Fist of Martha.
  
 **Martha:**
@@ -3715,7 +3931,11 @@ Right. The time has come at last to unleash my family's secret technique.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hey, Boss! Let's make him pay!
  
 **Martha:**
@@ -3785,7 +4005,11 @@ Convenience stores, power plants, used book store, condominiums, burger shops...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What the heck are we doing?
  
 **Mash:**
@@ -3795,7 +4019,11 @@ Senpai, please don't say that.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 To save humanity...
  
 **Mash:**
@@ -3874,7 +4102,11 @@ Those were the mage's final words before disappearing into the depths of a large
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I will go with you.
  
 **Scáthach:**
@@ -3884,7 +4116,11 @@ Understood. I also want you to discern the nature of that Servant with your own 
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can I come along?
  
 **Mash:**
@@ -4000,7 +4236,11 @@ It's a different story in times of war, though: Chaos begets evil then. Order is
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Umm, everyone...
 
  
@@ -4016,7 +4256,11 @@ That's why I'm not wrong at all!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hellooo...
 
  
@@ -4047,7 +4291,11 @@ Fou fooou!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry, let's get ready!
 
  
@@ -4071,7 +4319,11 @@ Oh please, Mordred...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, Mordred didn't do anything wrong.
  
 **Mordred:**
@@ -4081,7 +4333,11 @@ Huh? What're you talking about? I did everything wrong!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Right. Yep, you're right.
  
 **Mordred:**
@@ -4204,7 +4460,11 @@ I am Thomas Alva Edison, the Presi-king!!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh man, here we go again...
  
 **Mash:**
@@ -4214,7 +4474,11 @@ It's all clear now. If this man sets his mind to it, civilization would indeed d
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So it wasn't Tesla.
  
 **Edison:**
@@ -4406,7 +4670,11 @@ Nothing special. Most of you should have it in your possession.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What is it?
 
  
@@ -4549,7 +4817,11 @@ In fact, I've been sneaking into your room and doing just that, Master. All in o
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Every night...
  
 **Mary:**
@@ -4567,7 +4839,11 @@ Hmmm...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's no small start, that's the finish line.
  
 **Kiyohime:**
@@ -4781,7 +5057,11 @@ We'll take care of the horde!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's charge!
  
 **Mash:**
@@ -4792,7 +5072,11 @@ Mash Kyrielight, rushing into the fray!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thank you, everyone!
  
 **Mordred:**
@@ -5012,7 +5296,11 @@ In other words, I became Twrch Trwyth...!!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A mecha!
  
 **Edison:**
@@ -5026,7 +5314,11 @@ Using the power of the Holy Grail, he forced himself to live even when he was su
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Is he even alive?
  
 **Scáthach:**
@@ -5280,7 +5572,11 @@ I know this is sudden, but... what do you think of this swimsuit?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It looks good on you.
  
 **Scáthach:**
@@ -5295,7 +5591,11 @@ If you think so, that makes me feel better.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You look pretty.
  
 **Scáthach:**
@@ -5320,7 +5620,11 @@ When I put this on, I altered my Spirit Origin, remember?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh?
 
  
@@ -5451,7 +5755,11 @@ Master, say something to them.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Be good now, okay?
  
 **C：Boar Piglet:**
@@ -5469,7 +5777,11 @@ Love and peace!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Live in harmony with nature!
  
 **C：Boar Piglet:**
@@ -5501,7 +5813,11 @@ Oh, Fujimaru, please let me take a picture. We'll make a huge statue for you.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No thanks!
 
  
@@ -5581,7 +5897,11 @@ The boar piglets will someday forget their civilization, forget their language, 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Will they really be okay?
  
 **Scáthach:**
@@ -5592,7 +5912,11 @@ That's something even I don't know the answer to.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Fingers crossed...
  
 **Scáthach:**
@@ -5765,7 +6089,11 @@ Here's one now! As expected!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay, let's fight!
 
  
@@ -5779,7 +6107,11 @@ A Shadow Servant has shown up, too!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It'll be fine, probably!
 
  
@@ -5793,7 +6125,11 @@ And a giant demon boar, too!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Give me a break!
 
  
@@ -5817,7 +6153,11 @@ While we were standing guard, we were attacked by endless waves of enemies...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm beat.
  
 **Scáthach:**
@@ -5828,7 +6168,11 @@ Fujimaru. Your head's swaying back and forth like a floppy puppet.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm exhausted.
  
 **Mash:**
@@ -5876,7 +6220,11 @@ I'm counting on you!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Zzz...
 
  
@@ -5920,7 +6268,11 @@ The boar piglets seem to want to go explore...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 To the dungeon!
  
 **Mash:**
@@ -5931,7 +6283,11 @@ Let's get going!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's an adventure!
  
 **Altria:**
@@ -5985,7 +6341,11 @@ The one we visited 2,000 years ago?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now that you mention it...
  
 **Altria:**
@@ -5999,7 +6359,11 @@ I believe it was...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Was there a cave?
  
 **Mash:**
@@ -6066,12 +6430,20 @@ Together, it feels like we've been pirates on the high seas for decades! Hehe!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So soft... a double headlock!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I-I can't breathe...
 
  
@@ -6149,12 +6521,20 @@ Thank you both. It almost impaled me.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A natural trap...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nice shot.
 
  
@@ -6184,7 +6564,11 @@ Surely my bullet was?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Both of them are surprisingly competitive...)
 
  
@@ -6216,12 +6600,20 @@ And we'll see which of us gets to the goal first?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Th-This is getting weird!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 L-Let's get along, guys!
 
  
@@ -6288,12 +6680,20 @@ Are you okay, Master?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm fine.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No problemo.
 
  
@@ -6325,12 +6725,20 @@ Sound echoes in the cave. You can tell how good their teamwork is just by listen
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is something wrong?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're good too, Altria!
 
  
@@ -6353,12 +6761,20 @@ That's what it means to have a true partner, I suppose.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You had comrades too, Altria.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What about the Knights of the Round Table?
 
  
@@ -6376,7 +6792,11 @@ They were different than partners.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Did you want a partner?
 
  
@@ -6396,7 +6816,11 @@ Someone I would have called a partner.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There's someone here who could be your partner.
 
  
@@ -6459,7 +6883,11 @@ The victor is clear as day.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (She really is competitive...)
 
  
@@ -6486,7 +6914,11 @@ Piggy!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A poisonous swamp at the back of the cave!
 
  
@@ -6516,7 +6948,11 @@ Of course, I'll fight too!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Time for some teamwork!
 
  
@@ -6609,7 +7045,11 @@ But...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They didn't copy you, Altria.
 
  
@@ -6652,7 +7092,11 @@ This time we killed them for sure!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're the best, Altria!
 
  
@@ -6722,7 +7166,11 @@ Uh, because, well...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You passionately rave about your iron fists...
  
 **Martha:**
@@ -6741,7 +7189,11 @@ Senpai, please do not hide behind me.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Because you're like a messiah, a Fist of Chaldea...
  
 **Mash:**
@@ -6764,7 +7216,11 @@ I am not worthy of such a title.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sorry for all this.
 
  
@@ -6938,7 +7394,11 @@ We should stay sharp, be ready at any moment, and always&ndash;
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's give him a good beating, Boss!
  
 **Martha:**
@@ -6953,7 +7413,11 @@ Needlessly!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're counting on you, Saint Martha.
  
 **Martha:**
@@ -7162,7 +7626,11 @@ Whoachaaaa!!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Another fighting reference!?
 
  
@@ -7511,7 +7979,11 @@ Yes, sure.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Roger!
 
  
@@ -7677,7 +8149,11 @@ Stop calling me that already.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I bet she actually wanted to go.
  
 **Mash:**
@@ -7687,7 +8163,11 @@ Exactly. No matter what she says, Mordred is actually fond of the boar piglets.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just being shy.
  
 **Mordred:**
@@ -8052,7 +8532,11 @@ It feels like they're building something crazy.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's too late now...
 
  
@@ -8099,7 +8583,11 @@ I want to make a store.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 To rob it?
  
 **Mary:**
@@ -8114,7 +8602,11 @@ No, I'm going to buy stuff. Yes, and pay.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Because you're a pirate?
  
 **Anne:**
@@ -8482,7 +8974,11 @@ What are Marie and the boar piglets doing?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Playing make-believe?
  
 **Marie:**
@@ -8492,7 +8988,11 @@ Does it suit me?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It looks like you really wanted to do it.
  
 **Marie:**
@@ -8564,7 +9064,11 @@ This is truly a three-way standoff.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're my weak point, too.
  
 **Kiyohime:**
@@ -8583,7 +9087,11 @@ Fou.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't think I could defeat you.
  
 **Kiyohime:**
@@ -8751,7 +9259,11 @@ Like a garden where you can observe animals.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Probably best not to ask.
  
 **Mash:**
@@ -8765,7 +9277,11 @@ They're not going to put me in there, are they?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's at the zoo?
  
 **F：Boar Piglet:**

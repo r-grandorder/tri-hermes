@@ -18,7 +18,11 @@ Oh, Senpai, good morning.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You look cheerful again today.
  
 **Mash:**
@@ -34,7 +38,11 @@ Greetings are important, but for now, intruder!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What was breakfast?
  
 **Mash:**
@@ -87,12 +95,20 @@ Wha&ndash;?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh?
  
 
@@ -318,7 +334,11 @@ In short, I got nerfed to a level 1 noob.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Star?
  
 **Demon Archer:**
@@ -329,7 +349,11 @@ Why did it end up like this...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So you're one of those...
  
 **Sakura Saber:**
@@ -349,7 +373,11 @@ but that seems to be the case.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How irresponsible...
  
 **Sakura Saber:**
@@ -364,7 +392,11 @@ It's basically all Archer's fault, so please complain to her as much as you want
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It only has one eye...
  
 **Demon Archer:**
@@ -430,7 +462,11 @@ Quality iron, smooth to the touch...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's what she meant by “simple and subdued!”
  
 **Demon Archer:**
@@ -445,7 +481,11 @@ Let's see, I'll rent out an entire temple somewhere...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Won't it explode?
  
 **Sakura Saber:**
@@ -535,7 +575,11 @@ Indeed, this calls for&mdash; a night raid, of course!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Night raid?
  
 **Demon Archer:**
@@ -546,7 +590,11 @@ By the way, when I was young...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's like Okehazama!
  
 **Demon Archer:**
@@ -582,12 +630,20 @@ Whaaaaaat?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A-Are you all right!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 MEDIC!
  
 
@@ -603,7 +659,11 @@ Sometimes I'm unable to act, or I'm defenseless before an enemy. That's all this
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What kind of useless skill is that?
  
 **Sakura Saber:**
@@ -614,7 +674,11 @@ Who made the Bakumatsu like that?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I see, that's pretty fatal!
  
 **Sakura Saber:**
@@ -678,12 +742,20 @@ Run!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Where can we run to?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But that's...
  
 
@@ -779,12 +851,20 @@ Well, this is kind of...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What a mess...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's Stella for you...
  
 
@@ -864,7 +944,11 @@ Now that you mention it, it seemed like arrows hurt more than usual...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's just your imagination.
  
 **Sakura Saber:**
@@ -884,7 +968,11 @@ But, your chest does look squishy enough to repel anything I throw at it.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Affinity matters, doesn't it?
  
 **Demon Archer:**
@@ -944,12 +1032,20 @@ I wanted to take Kai's food and eat to my heart's content...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Please leave.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The Warring States economy is so cruel.
  
 
@@ -987,12 +1083,20 @@ All the Servants seemed kind of strange...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, they did.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You just noticed?
  
 
@@ -1058,7 +1162,11 @@ We need to get out of here before we go kaput!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're going to go kaput?
  
 **Mash:**
@@ -1073,7 +1181,11 @@ We might end up like that weird creature!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash has already been contaminated...
  
 **Mash:**
@@ -1255,7 +1367,11 @@ Sakura Saber's really difficult to deal with...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're talking kinda funny!
  
 **Dr. Roman:**
@@ -1266,7 +1382,11 @@ Let's ask Magi☆Mari! (Escape from reality)
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Even the Doctor's been contaminated...
  
 **Dr. Roman:**
@@ -1293,7 +1413,11 @@ Let's go after him, Senpai!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All right! After him!
  
 **Mash:**
@@ -1315,7 +1439,11 @@ This is the first time!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I've got a bad feeling about this...
  
 **Demon Archer:**
@@ -1421,7 +1549,11 @@ If only Sakura Saber could fight with us...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't give up!
  
 **Mash:**
@@ -1435,7 +1567,11 @@ Well if Monkey or Micchi were here, we could leave this to them and run away...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How do you feel?
  
 **Sakura Saber:**
@@ -1544,12 +1680,20 @@ I'm not really knowledgeable about that era, but is she a famous Heroic Spirit, 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Pretty famous in Japan.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wow, a girl, no way. (lifeless)
  
 
@@ -1601,7 +1745,11 @@ When Sakura Saber... I mean, when Okita donned her haori, she was ferocious, huh
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 As expected of the genius swordsman.
  
 **Mash:**
@@ -1611,7 +1759,11 @@ If she was in the First Squad, does that mean there were other powerful swordsme
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She collapsed again...
  
 **Mash:**
@@ -1770,12 +1922,20 @@ so that next time I can show people who the true king is!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Man, this is... Yeah.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Give me a 5-star next time!
  
 
@@ -1891,7 +2051,11 @@ Wh-What do we do Senpai?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Get down!
  
 **Mash:**
@@ -1902,7 +2066,11 @@ Hold me close! As close as you can!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Throw it away!
  
 **Mash:**
@@ -1959,7 +2127,11 @@ and then make my way to your world!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You tricked us!?
  
 **Mash:**
@@ -1978,7 +2150,11 @@ Oh, we knew that.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nobbu, why...
  
 **Oda Nobunaga:**
@@ -2021,12 +2197,20 @@ Two... Nobunagas?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's going on?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This mess has reached its peak.
  
 
@@ -2063,12 +2247,20 @@ Why don't we just call them Good Nobbu and Bad Nobbu, so we can tell who's who?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, that might be a good idea...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can I just tap SKIP?
  
 
@@ -2134,7 +2326,11 @@ Band together and help me defeat my evil side!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yay! Last battle time!
  
 **Okita Souji:**
@@ -2148,7 +2344,11 @@ Your body's way too weak!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is there a way to defeat both of them?
  
 **Okita Souji:**
@@ -2189,7 +2389,11 @@ I suppose that means mission complete?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah. Let's go home.
  
 **Mash:**
@@ -2200,7 +2404,11 @@ I'm sure that will make Da Vinci happy.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That felt like forever.
  
 **Mash:**
@@ -2257,12 +2465,20 @@ I shall lend you my blade!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, thanks!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Summon... Probability... Ugh, my head...
  
 
@@ -2287,7 +2503,11 @@ Goodbye, Fujimaru! Farewell!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It felt like it was a dream.
  
 **Mash:**
@@ -2301,7 +2521,11 @@ I'm curious what happened to the Imperial Holy Grail, too.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yeah, it was such a mess.
  
 **Mash:**
@@ -2341,12 +2565,20 @@ Leave!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Give me a break...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's a mess until the very end...
  
 

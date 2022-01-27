@@ -32,7 +32,11 @@ Only two hours remain until the start of Battle in New York 2021!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wow, everyone's back this year!
  
 
@@ -68,7 +72,11 @@ I always did the best I could with the scant resources I had to ensure everyone 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It might have a different name now, but it'll always be Nero Fest at heart!
  
 **Nero Bride:**
@@ -82,7 +90,11 @@ Besides, I started this event so that everyone could have fun. It would defeat t
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Come on. Let's go take that smarmy tyrant down a peg or three.
  
 **Nero Bride:**
@@ -117,7 +129,11 @@ Oh yes. It seems that everyone has been training hard for this event, so I expec
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're very optimistic about things like this, aren't you, Mash?
  
 **Mash:**
@@ -132,7 +148,11 @@ So yes, I do enjoy it a lot.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll have to keep an eye out for Master skills better than what I've got...
  
 **Mash:**
@@ -224,12 +244,20 @@ And so I will once again be taking on the tournament winner single-handedly. Con
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Sure sounds like he's letting his pride get in the way to me...)
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Hmm... I can't tell if he's being serious or not...)
  
 
@@ -281,12 +309,20 @@ And that was Gilgamesh, the King of Heroes. He certainly knows how to give a rou
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You always see the good in people, don't you, Mash?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wasn't Chen Gong all about killing the lord he served under?
  
 
@@ -366,12 +402,20 @@ I daresay it is the perfect stage for a city of prosperity that worships money a
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Emperor Nero!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 When did you get here!?
  
 
@@ -412,7 +456,11 @@ Ahh, I was so close to winning that final battle...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't worry, you were plenty impressive.
  
 **Nero Bride:**
@@ -426,7 +474,11 @@ Very well then, I will watch the gallant figures of the warriors who defeated me
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't worry, you made for a very dashing bride.
  
 **Nero Bride:**
@@ -520,12 +572,20 @@ Heh. For my part, I can see why you were once known for your infinite supply of 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh crap!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's gonna use his Noble Phantasm on us!
  
 
@@ -594,7 +654,11 @@ Oh my, what are you doing sprawled out on the ground like that, Goldie? Gosh, I 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Huh? That voice sounds familiar...)
  
 
@@ -699,7 +763,11 @@ Oh. Um... What does that mean, exactly?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It means she's taking anything and everything that isn't nailed down.
  
 
@@ -769,12 +837,20 @@ Um... You want to keep Master? But&ndash;
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just...pretend you don't know...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Good, she's got some ridiculous idea stuck in her head again, as always.
  
 
@@ -863,7 +939,11 @@ And the Holy Grail the King of Heroes had prepared as a victory prize has been s
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's just sitting over there, pouting.
  
 
@@ -914,7 +994,11 @@ Maybe a Servant from the same setting paved the way for her? N-nah, that would j
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Say, where's our Ishtar right now, anyway?
  
 
@@ -984,12 +1068,20 @@ I'm going to Macau to have a proper vacation!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yep, he's pouting hard now...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Guess I can't blame him for being upset after she showed him up...
  
 
@@ -1008,12 +1100,20 @@ You can't wash your hands of it simply because she happened to stand out more th
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's the lady from the shop!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ■■■■■■...!
  
 
@@ -1077,12 +1177,20 @@ Just like Fujimaru there has done to date.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Does that mean you're going to fight alongside us!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yay! The King of Heroes joined our party!
  
 
@@ -1195,12 +1303,20 @@ With some help from the King of Heroes, we've managed to get this far, Senpai!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That was fun!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Anything to help New York!
  
 
@@ -1240,7 +1356,11 @@ Well? Are you so overcome by my sheer godliness that your very souls have cashed
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um...
  
 
@@ -1380,7 +1500,11 @@ Ishtar's Spirit Origin has also completely disappeared! Wh-wh-what's going on, K
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now you've done it, King of Heroes!
  
 **Gilgamesh:**
@@ -1395,7 +1519,11 @@ Tell you what: we'll share the punishment for any criminal charges fifty-fifty! 
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Does this mean...she really was from space!?
  
 
@@ -1414,12 +1542,20 @@ But now that you're gone, it makes me think that maybe, just maybe...we lost a g
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ishtar...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh goddess...
  
 
@@ -1450,7 +1586,11 @@ Hm? What is it?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ishtaaar! It's really you!
  
 
@@ -1483,12 +1623,20 @@ I...guess you have a point. Thinking back on it now, that giant spaceship did se
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Eh, New York, giant spaceships... It tracks.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I kinda expected the battle to be in Los Angeles, maybe, but here?
  
 
@@ -1518,12 +1666,20 @@ If anything, I'm the victim here...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 To be fair, you did attack Uruk way back when...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 To be fair, you pulled another stunt just a couple of summers ago, so...
  
 
@@ -1566,7 +1722,11 @@ I think we can and should just be happy about that, Master. Besides, there's som
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You know it. Come on, let's go find Nero!
  
 

@@ -9249,7 +9249,11 @@ It's not the birthing period now, so there shouldn't be anything inside there.
 
 **???:**
 
+<<<<<<< HEAD
+![berserk1](https://i.imgur.com/XAqlQYL.png)？
+=======
 ![1-light](https://i.imgur.com/XAqlQYL.png)？
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 
 ---
 
@@ -9272,7 +9276,11 @@ I screwed up again...sorry everyone! If we don't beat that thing, a lot more wil
 
 **???:**
 
+<<<<<<< HEAD
+![berserk1](https://i.imgur.com/XAqlQYL.png) 
+=======
 ![1-light](https://i.imgur.com/XAqlQYL.png) 
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 
 **--BATTLE--**
 
@@ -18898,7 +18906,11 @@ Look, your insides are a disarranged and suffering mess! I'm gonna make you look
 
 **Boggart:**
 
+<<<<<<< HEAD
+![berserk1](https://i.imgur.com/XAqlQYL.png) 
+=======
 ![1-light](https://i.imgur.com/XAqlQYL.png) 
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 
 **Beryl:**
 Uh-oh, careful with that, Lady. You're making blood splatter all over us. 

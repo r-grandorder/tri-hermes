@@ -2,11 +2,34 @@
  
 ## Prologue: The Girl in Love and Chocolates
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Valentine's Day...
 A day of battle that happens once a year.
 
  
+<<<<<<< HEAD
+**Narration:**
+But...this time the battle began well in advance of the day itself.
+
+ 
+**Narration:**
+It began the moment they decided to communicate their feelings with chocolate, the moment they made chocolate the vessel of their wishes.
+
+ 
+**Narration:**
+For some, it began a year ago, when they shed tears over chocolates they could not muster the courage to give.
+
+ 
+**Narration:**
+And now, one girl prepares to step onto the battlefield...
+
+ 
+**Narration:**
+=======
 **Narration::**
 But...this time the battle began well in advance of the day itself.
 
@@ -24,10 +47,26 @@ And now, one girl prepares to step onto the battlefield...
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Really, if we get right down to it,
 that's where all this started...
 
  
+<<<<<<< HEAD
+**Narration:**
+Don't get the wrong idea though. The girl shouldn't be criticized. She did nothing wrong.
+
+ 
+**Narration:**
+She only did what any girl in love would do.
+
+ 
+**Narration:**
+That's right. Things just happened to unfold that way, as naturally as the numbers two and three follow one.
+
+ 
+**Narration:**
+=======
 **Narration::**
 Don't get the wrong idea though. The girl shouldn't be criticized. She did nothing wrong.
 
@@ -41,11 +80,16 @@ That's right. Things just happened to unfold that way, as naturally as the numbe
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Of course, for the moment,
 no one knows that this is the beginning.
 
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 None could have anticipated that this girl's ordinary actions would lead Chaldea into a great crisis!
 
  
@@ -90,12 +134,20 @@ I hope you look forward to it, Maaaster♥
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Uh, it's nothing.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I just felt the most dreadful chill...
 
 
@@ -113,7 +165,11 @@ Oh, that's right. No matter what I end up making, the first step must be to purc
 The commissary is always swamped this time of year, and of course, one must “strike while the love is hot”!
 
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 　　　　　　　　　 ～　Commissary　～
 
  
@@ -130,11 +186,42 @@ And what is this note?
 Let's see...
 
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Notice regarding
 “Servant Specialty Plain Chocolate.”
 
  
+<<<<<<< HEAD
+**Narration:**
+The Chaldea Commissary has always offered chocolate made from divine cacao and capable of enduring the magical energy inherent in the cooking processes of most Servants.
+
+ 
+**Narration:**
+Jaguar Warrior normally provides us with the cacao in exchange for collected Jaguar Stamps.
+
+ 
+**Narration:**
+However, we received the following notice from Madame Jaguar yesterday: “Nope. Furrget it. Can't do it. I can't get cacao anymore... Oopsie.”
+
+ 
+**Narration:**
+We are thus regrettably unable to procure a shipment of this product at this time.
+
+ 
+**Narration:**
+We apologize for the inconvenience.
+
+ 
+**Narration:**
+Madame Jaguar's response can be found below: “It's not my fault. Sure, purrhaps they found out that I kept going into Tezca's territory to smuggle the stuff back here...
+
+ 
+**Narration:**
+=======
 **Narration::**
 The Chaldea Commissary has always offered chocolate made from divine cacao and capable of enduring the magical energy inherent in the cooking processes of most Servants.
 
@@ -160,6 +247,7 @@ Madame Jaguar's response can be found below: “It's not my fault. Sure, purrhap
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...but even then, it's still not MY fault!”
 This is repeated several times.
 
@@ -392,12 +480,20 @@ my most trusted person, my dear Anchin, here♪
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I-I-I see...?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't understand, but okay.
 
 
@@ -458,7 +554,11 @@ Yes. It is an incredible flying fortress, and so imposing! That means the very g
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I knew that!
  
 **Kiyohime:**
@@ -469,7 +569,11 @@ My love for you only grows!!!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I didn't know...
  
 **Kiyohime:**
@@ -626,12 +730,20 @@ I'll leave it to the judgment of the Master.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Can't have Valentine's Day without chocolates!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If it'll make everyone happy, I'll help!
 
 
@@ -669,7 +781,11 @@ Your task will be helping me collect these materials for the creation of my prod
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I see...
 
 
@@ -717,12 +833,20 @@ Devote yourself to aiding me, as if you were dedicating your life to my service.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll do our best.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't know about my life...
 
 
@@ -752,12 +876,20 @@ A magnificent honor, don't you think?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A...minister...!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The future of Chaldea's sweets and candy...in my hands...!?
 
 
@@ -811,12 +943,20 @@ Really, though...why did we even get called over here to do this?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh... Well...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I thought you were right for the job...
 
 
@@ -963,12 +1103,20 @@ A perfect day to do some farmwork...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What the hell?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What is that?
 
 
@@ -1006,12 +1154,20 @@ It is, therefore, truly the work of man.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 In other words, chemistry.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 In other words, alchemy.
 
 
@@ -1082,7 +1238,11 @@ Not a genuine homunculus, but a robot.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But isn't it moving on its own?
 
 
@@ -1144,12 +1304,20 @@ I'm not saying he's going to betray us or anything, but...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's Paracelsus for you.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We'll keep an eye on him. It'll be probably be fine... Yeah...
 
 
@@ -1177,7 +1345,11 @@ Good work, Fujimaru.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thank you.
 
 
@@ -1202,7 +1374,11 @@ My Roman three-star super taster...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sounds shady...
 
 
@@ -1268,12 +1444,20 @@ What do you say? Perhaps we can have dinner together afterward, or better yet, s
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Caesar...um...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'd quit while you're ahead...
 
 
@@ -1308,7 +1492,11 @@ Hnnng! Et tu, Master!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Murder, Cleopatra wrote.
 
 
@@ -1370,7 +1558,11 @@ You are truly handsome...if I only look at your face...!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
 
@@ -1382,12 +1574,20 @@ What...was that?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Please don't mind them.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Valentine's Day can have that effect.
 
 
@@ -1678,7 +1878,11 @@ Hehehe...(Yawn)
 Okay, easy, eeeasy...
 
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 IyyyaaaAAA...!!!
 
@@ -1807,7 +2011,11 @@ Now!
 Boeeehhh♪
 
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 LiyaaaAAAAAAAAAA&mdash;!
 
@@ -1907,12 +2115,20 @@ Now...come...coooommmmeee!!!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What are you doing? (Creeped out)
 
 
@@ -1981,7 +2197,11 @@ What do you see?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Th-this is...!
  
 **Gilles de Rais:**
@@ -1996,7 +2216,11 @@ Truly, truly, truly delicious-looking, no!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's chocolate!
 
 
@@ -2022,7 +2246,11 @@ it would be...recycling!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ???
 
 
@@ -2067,7 +2295,11 @@ Do you think research like this is a good idea?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well...recycling isn't a bad thing...
 
 
@@ -2220,7 +2452,11 @@ So, did you manage to ask her about that?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well...
 
 
@@ -2270,12 +2506,20 @@ That is probably why we turned a blind eye to all of this.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And the chocolates I filched were delicious...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I was happy to see the empress smile for once...
 
 
@@ -2305,7 +2549,11 @@ We still don't have any proof that her motives are evil.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No further increases...? Not sure about that...
 
 
@@ -2336,7 +2584,11 @@ It's chocolate.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Seriously...!?
 
 
@@ -2432,7 +2684,11 @@ If I head back and just keep going in and out of the store, it shouldn't be hard
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They don't do much business, do they?
 
 
@@ -2465,7 +2721,11 @@ The smell of chocolate is wafting all around Chaldea...and it's giving people he
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How's your investigation going?
 
 
@@ -2630,6 +2890,17 @@ I-I'm sorry. But I really didn't have a choice in that situation. I'm really sor
 (When that lady was touching me, I felt a chill from her. What was that all about...?)
 
  
+<<<<<<< HEAD
+**Narration:**
+Soon after, Semiramis developed a special Mystic Code: a sword-shaped chocolate chunk that sparkled like a jewel.
+
+ 
+**Narration:**
+The Mystic Code had an unbelievable ability of gathering chocolates with just a sweep of the arm...
+
+ 
+**Narration:**
+=======
 **Narration::**
 Soon after, Semiramis developed a special Mystic Code: a sword-shaped chocolate chunk that sparkled like a jewel.
 
@@ -2639,6 +2910,7 @@ The Mystic Code had an unbelievable ability of gathering chocolates with just a 
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This, of course, boosted chocolate production further still... However, nobody knew how the thing worked.
 
  
@@ -2661,7 +2933,11 @@ She's using a Holy Grail.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I knew it...
 
 
@@ -2710,7 +2986,11 @@ But if we don't take them here, the chocolates are just going to pile up and lik
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is there a way to stop it?
 
 
@@ -2734,7 +3014,11 @@ But, bad news there, turns out that even if we stop Semiramis, we won't stop the
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But it's a Noble Phantasm!
 
 
@@ -2796,12 +3080,20 @@ If the Holy Grail goes inert, we should be able to get to it. Then we can either
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's all or nothing.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If that's our only option, then so be it.
 
 
@@ -2987,7 +3279,11 @@ Hehe...I don't know what happened, but it seems to have worked. I have finally s
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh-huh...
 
 
@@ -2999,7 +3295,11 @@ The point of this ritual was to have the Choco-Spirits fight each other, then ta
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Uh...'kay?
 
 
@@ -3011,7 +3311,11 @@ And the end result...was THIS!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...!
 
 
@@ -3061,12 +3365,20 @@ Master!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is turning into a contest to see who breaks first!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We can't lose! This'll be our last-ditch effort!
 
 
@@ -3104,15 +3416,42 @@ We've tried, but...it's impossible! They're practically force-feeding the stuff 
 Well, this is bad. I may have kind of underestimated this since it was just about chocolate.
 
  
+<<<<<<< HEAD
+**Narration:**
+Waaahhh! I'm getting swept away in a wave of chocolates!
+
+ 
+**Narration:**
+=======
 **Narration::**
 Waaahhh! I'm getting swept away in a wave of chocolates!
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 All I wanted was a luxurious chocolate bath...
 Like the people who bathe in tubs full of cash...
 
  
+<<<<<<< HEAD
+**Narration:**
+So I've been pulling strings behind the scenes in the trade negotiations between Chaldea and the Chocolate Kingdom! I thought this was a sure thing as business goes!
+
+ 
+**Narration:**
+But I haven't even started making a profit yet, and now THIS happens!!!
+
+ 
+**Narration:**
+...Wait a minute... This whole situation actually looks a bit like that chocolate bath dream I had...
+
+ 
+**Narration:**
+...
+
+ 
+**Narration:**
+=======
 **Narration::**
 So I've been pulling strings behind the scenes in the trade negotiations between Chaldea and the Chocolate Kingdom! I thought this was a sure thing as business goes!
 
@@ -3130,6 +3469,7 @@ But I haven't even started making a profit yet, and now THIS happens!!!
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I guess balancing supply and demand needs to be done very carefully...
 
  
@@ -3192,12 +3532,20 @@ Chocolates making more chocolates! Chocolates taking over everything! A chocolat
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The chocolates have turned into a Gestaltzerfall!!!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't know what you're saying anymore!
 
 
@@ -3238,12 +3586,20 @@ Why did production stop? I did not order a halt!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Operation Overflow worked!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Even a Holy Grail can run out of power!
 
 
@@ -3279,12 +3635,20 @@ There's something in that chocolate fountain!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The fountain stopped flowing, and...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There's...something in there...
 
 
@@ -3292,7 +3656,11 @@ There's...something in there...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There's another Semiramis!?
 
 
@@ -3327,7 +3695,11 @@ Wha...!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A chocolate Semiramis... Chocoramis!?
 
 
@@ -3356,12 +3728,20 @@ And then I got careless and let it usurp my connection to the Holy Grail. That's
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How careless can you be!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She's making a GREAT first impression...
 
 
@@ -3432,12 +3812,20 @@ Since I'm her creator, that thing has completely copied my way of thinking!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I get it, but...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We cannot let it destroy Chaldea.
 
 
@@ -3453,12 +3841,20 @@ Do not embarrass me.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Still won't just ask for help...)
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (She's practically the same as Chocoramis!)
 
 
@@ -3522,7 +3918,11 @@ All of this led me to consider chocolate to be a kind of poison.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 (Chocoramis said something similar.)
 
 
@@ -3543,7 +3943,11 @@ As such, I must create the best and most powerful of poisons...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But you got carried away and made a chocolate doppelgänger.
 
 
@@ -3627,7 +4031,11 @@ Even though they're dolls...putting a seal on something that looks like you and 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It'd be sadder if you threw them away.
 
 
@@ -3712,12 +4120,20 @@ We've managed to clean up most of the area.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Were you talking to everyone in secret?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do you have more stuff than when you came in?
 
 
@@ -3880,35 +4296,59 @@ Yes... Until next time, Semiramis...the Semiramis I met for the “first time.�
 I keep telling him we aren't guaranteed to meet again. Honestly, that man is insufferable...
 
  
+<<<<<<< HEAD
+**Narration:**
+...pai. Senpai.
+
+ 
+**Narration:**
+=======
 **Narration::**
 ...pai. Senpai.
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Fouu!
 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Unnngh, unnngh...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No more chocolates...
 
 
 ---
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It looks like Senpai's having a nightmare...
 This might be bad timing...but...
 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...?
 
 
@@ -3924,12 +4364,20 @@ Foufou!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Morning Mash, Fou.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What are you doing so early in the morning?
 
 
@@ -3954,7 +4402,11 @@ Senpai!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Y-yes!?
 
 
@@ -3979,12 +4431,20 @@ I was just getting excited is all...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh no, thank you, Mash!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Please let me accept it.
 
 
@@ -4000,12 +4460,20 @@ I'm really...relieved...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It looks really good.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's really pretty.
 
 
@@ -4035,7 +4503,11 @@ And now, um...back to my duties!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's have a taste here...
 
 
@@ -4043,7 +4515,11 @@ Let's have a taste here...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...!
 
 
@@ -4051,7 +4527,11 @@ Let's have a taste here...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Hey, Fou.
 
 
@@ -4063,7 +4543,11 @@ Hey, Fou.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 “Too much of a good thing can be bad.” Think so?
 
 
@@ -4073,9 +4557,16 @@ Hey, Fou.
 Foou?
 
  
+<<<<<<< HEAD
+**Narration:**
+Final Dove Report 
+ 
+**Narration:**
+=======
 **Narration::**
 Final Dove Report 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The girls' once-a-year grand mission (a.k.a. murder using “poison”) has thus concluded...
 

@@ -89,7 +89,11 @@ They're nothing more than counterfeits, different from the originals.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Different in what way?
 
  
@@ -137,7 +141,11 @@ Master, are you keeping your room clean?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I always keep it clean.
  
 **Emiya:**
@@ -151,7 +159,11 @@ The fact that you keep your room tidy reflects your personality.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sometimes it gets messy.
  
 **Emiya:**
@@ -283,7 +295,11 @@ You misunderstand. This time it's not just my problem, but the entirety of Chald
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This time?
  
 **Da Vinci:**
@@ -294,7 +310,11 @@ I am your technical advisor, after all.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sounds like trouble.
  
 **Da Vinci:**
@@ -363,7 +383,11 @@ This is&ndash;
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The infamous Mona Lisa!
  
 **Da Vinci:**
@@ -377,7 +401,11 @@ She has a smug look on her face for some reason, Senpai!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's truly the center of deceit!
  
 **Da Vinci:**
@@ -468,12 +496,20 @@ Actually... Mona Lisa hasn't been selling well lately.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Have they ever?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What? They did at one point?
 
  
@@ -497,7 +533,11 @@ I'm sure you understand what I'm trying to say now, right!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No one is buying Mona Lisa from Da Vinci?
  
 **Da Vinci:**
@@ -508,7 +548,11 @@ But you're right!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're useless now?
  
 **Da Vinci:**
@@ -603,7 +647,11 @@ I'll get the Rayshift ready.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Weak...
  
 **Mash:**
@@ -613,7 +661,11 @@ That's Da Vinci for you...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Doctor...
  
 **Dr. Roman:**
@@ -686,12 +738,20 @@ Mash is really growing up...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks, Mash. You're so dependable.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well done, Mash. We can all suffer together.
  
 
@@ -768,7 +828,11 @@ Yes, I understand.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Excuse me!
 
  
@@ -832,7 +896,11 @@ So it seems... How sad... Trust is such a fragile thing...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Quite the contrary!
 
  
@@ -875,12 +943,20 @@ How can you honestly claim that you're innocent?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're one to talk, Da Vinci!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're not exactly innocent either!
  
 
@@ -893,7 +969,11 @@ We swear we're innocent!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Caesar, is that true?
  
 **Caesar:**
@@ -933,7 +1013,11 @@ Indeed. He knows that trust is the strongest foundation for a business.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 P, are you trying to do what you think's best, again?
  
 **Paracelsus:**
@@ -1084,7 +1168,11 @@ This one is the real one, and that one over there is a fake... Master, I can't t
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Me neither.
  
 **Da Vinci:**
@@ -1094,7 +1182,11 @@ Right? I doubt even the counterfeiter would be able to tell either.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can kind of tell.
  
 **Mash:**
@@ -1130,7 +1222,11 @@ One or two wouldn't be a problem, but to take all of these back with us...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What a pain!
 
  
@@ -1141,7 +1237,11 @@ I'll trade them for items in my workshop.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's get to it!
 
  
@@ -1350,7 +1450,11 @@ Let's fight him, Master!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Roger!
 
  
@@ -1444,7 +1548,11 @@ I don't... Neither does she. I'm a fake, so I'll just disappear when my expirati
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Sadder than you thought?
  
 **Mash:**
@@ -1455,7 +1563,11 @@ I really don't know what to feel!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is this supposed to be serious?
  
 **Emiya:**
@@ -1490,7 +1602,11 @@ I don't think Da Vinci is going to be able to help us with much, Master!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Emiyan is our only help!
 
  
@@ -1515,7 +1631,11 @@ We are in the north after all. Are you okay, Master?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Just fine.
  
 **Da Vinci:**
@@ -1525,7 +1645,11 @@ An outdoors type, huh.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 My reindeer experience is helping.
  
 **Emiya:**
@@ -1615,7 +1739,11 @@ I think you're likely to be a bit more flexible.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Tell me what your goal is.
 
  
@@ -1642,7 +1770,11 @@ The role of Hektor is&ndash;
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Too long!
 
  
@@ -1680,12 +1812,20 @@ Hmm. So a dandy-type Heroic Spirit who spoils you, huh... It works!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It does not.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No.
 
  
@@ -1794,7 +1934,11 @@ Hmm...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 She licked it!?
 
  
@@ -1858,12 +2002,20 @@ NOT!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What did you say!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No way... NO WAY!
 
  
@@ -2078,7 +2230,11 @@ I can't believe this. He may be a counterfeit, but to think they would use the g
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Mash, are you okay!?
 
  
@@ -2230,7 +2386,11 @@ Upperclassman... Science major?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe it's the white coat...
  
 **Arjuna:**
@@ -2240,7 +2400,11 @@ Maybe it's the white coat...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ah...
  
 **Da Vinci:**
@@ -2279,7 +2443,11 @@ While we're on the topic, Siegfried was “the friendly class celebrity who, by 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Class celebrity!?
 
  
@@ -2420,7 +2588,11 @@ Okay. Well, I'd expect no less of a conclusion from you, Leonardo.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wait a second!
 
  
@@ -2438,7 +2610,11 @@ Master...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't Rayshift!
 
  
@@ -2449,7 +2625,11 @@ I can create new works of art.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I want to see Da Vinci's real works.
 
  
@@ -2540,7 +2720,11 @@ Will you come with me?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Of course!
 
  
@@ -2611,7 +2795,11 @@ Senpai, if we have some time to spare later...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's walk around a bit.
  
 **Mash:**
@@ -2634,7 +2822,11 @@ However, nothing on display here is authentic. Although you should still be able
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's a date, of course!
  
 **Mash:**
@@ -2712,12 +2904,20 @@ I am Gilles de Rais, who gets shooed away with comments like “Dad, you smell l
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How tragic...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh... Yeah, I know where she's coming from though.
 
  
@@ -2770,7 +2970,11 @@ Please don't interfere with us!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We have to meet her.
 
  
@@ -2889,7 +3093,11 @@ Master, who do you think?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 E. Teach.
  
 **Mash:**
@@ -2919,7 +3127,11 @@ U-Um, did you receive a blow to the head!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Maybe Amadeus?
  
 **Emiya:**
@@ -3035,7 +3247,11 @@ Please, please yell at me some more!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Pretend we didn't see anything?
  
 **Jeanne Alter:**
@@ -3045,7 +3261,11 @@ I would appreciate it if you did!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The final battle!
  
 **Emiya:**
@@ -3073,7 +3293,11 @@ Hahhh... Hahhh...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Um, at your feet...
 
  
@@ -3190,7 +3414,11 @@ Hahh... Hahh... Hahh...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I will do that...
 
  
@@ -3563,7 +3791,11 @@ After all, the originals are bound by their sense of heroism. Fujimaru, don't yo
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They all looked like they were having a good time.
  
 **Jeanne Alter:**
@@ -3579,7 +3811,11 @@ Don't make me laugh. It couldn't have been fun.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 None of them complained.
  
 **Jeanne Alter:**
@@ -3679,7 +3915,11 @@ Humph. After all this time, I wouldn't have the nerve&ndash;
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I would welcome you.
  
 **Jeanne Alter:**
@@ -3689,7 +3929,11 @@ Think about it, you half-wit!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Welcome to Chaldea!
  
 **Jeanne Alter:**
@@ -3714,7 +3958,11 @@ So, what are you going to do?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
  
@@ -3725,7 +3973,11 @@ So, what are you going to do?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
  
@@ -3736,7 +3988,11 @@ So, what are you going to do?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
  
@@ -3779,7 +4035,11 @@ Master... You did it!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Then let's go ho&ndash;
 
  
@@ -3837,7 +4097,11 @@ This will be our last fight with her.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But...
 
  
@@ -3861,7 +4125,11 @@ I mean... Put it this way. Scary as she is, you would hate for that to happen, r
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Get ready to fight!
 
  
@@ -3905,7 +4173,11 @@ That's why this story and I shall end here.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...
 
  
@@ -4004,12 +4276,20 @@ Don't worry. A little training and we'll send you to the front. I bet you're loo
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I can't wait to have her on the team.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A bulked-up Da Vinci!?
 
  

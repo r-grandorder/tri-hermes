@@ -2,11 +2,38 @@
 
 ## 1st Night: What Ever Happened to Jeanne?
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The waves crashed and roared.
 The violent winds howled.
 
  
+<<<<<<< HEAD
+**Narration:**
+It may not have been alive, but for all its ferocity, it may as well have been.
+
+ 
+**Narration:**
+Somehow, it was as frightening as the beginning of the world, but as beautiful as the end of all things.
+
+ 
+**Narration:**
+A gift that, supposedly, was never meant to be, was being opened before my eyes.
+
+ 
+**Narration:**
+...In the end, I was probably a failure as Santa.
+
+ 
+**Narration:**
+That's why I'm sure these tears are tears of frustration.
+
+ 
+**Narration:**
+=======
 **Narration::**
 It may not have been alive, but for all its ferocity, it may as well have been.
 
@@ -28,6 +55,7 @@ That's why I'm sure these tears are tears of frustration.
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 There was a hole in my heart.
 And what filled it was&mdash;
 
@@ -39,7 +67,11 @@ That reindeer outfit really suits you!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks.
  
 **Mash:**
@@ -50,7 +82,11 @@ Here, your red nose.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is that a compliment?
  
 **Mash:**
@@ -81,7 +117,11 @@ It's made with Medea's magecraft, so it will definitely keep you warm!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 How helpful!
 
  
@@ -103,7 +143,11 @@ Oh, the one flaw is that it emits a strong smell of dumplings, so be careful whe
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Rocket dumplings...
 
  
@@ -121,7 +165,11 @@ And this is from Marie.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is all so thoughtful...
 
  
@@ -168,7 +216,11 @@ So um... If you would contact me too, that would make me happy.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Roger!
 
  
@@ -196,7 +248,11 @@ It's extremely logistical! I mean, logical!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay...what the actual hell?
 
  
@@ -644,7 +700,11 @@ If you don't tell me everything, I will poke those googly eyes right out!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What? Just... What?
  
 **Jeanne Alter Santa Lily:**
@@ -658,7 +718,11 @@ If you're my Master, you need to be composted and remain calm at all times!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I see... So they multiplied again...
  
 **Jeanne Alter Santa Lily:**
@@ -690,7 +754,11 @@ Of course. I am...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 One more time, faster.
 
  
@@ -735,7 +803,11 @@ I'm really sorry!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're not even kind of sorry, are you?
  
 **Gilgamesh (Child):**
@@ -750,7 +822,11 @@ It wasn't deliberate. It was an innocent mistake.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Forgiven.
  
 **Gilgamesh (Child):**
@@ -895,12 +971,20 @@ Welcome back, Master. Is something wrong?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nothing.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm back.
 
  
@@ -969,7 +1053,11 @@ Take that back! I demand a reduction!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm counting on you.
  
 **Jeanne Alter Santa Lily:**
@@ -983,7 +1071,11 @@ Fine. I'm gonna lead the Reindeer to the best Christmas ever!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's do our best, Santa Claus.
  
 **Jeanne Alter Santa Lily:**
@@ -1007,7 +1099,11 @@ Please, make Lily into a great Santa...!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm on it.
  
 **Jeanne:**
@@ -1025,7 +1121,11 @@ Please treat her as a full-fledged Servant.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll try.
  
 **Santa Alter:**
@@ -1169,7 +1269,11 @@ Slashing through the night, and tearing through the sky♪ This is how Santa sho
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You look like you're having fun.
  
 **Jeanne Alter Santa Lily:**
@@ -1183,7 +1287,11 @@ Singing is part of Santa's job!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What a pretty voice.
  
 **Jeanne Alter Santa Lily:**
@@ -1199,7 +1307,11 @@ In any event, the first request will be... from Jea... Jean...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Jing Ke.
 
  
@@ -1217,7 +1329,11 @@ What's an “elegant older gentleman”?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A classy old guy who got murderified.
 
  
@@ -1394,7 +1510,11 @@ Look at these weirdos...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is a terrifying scene...
  
 **Jeanne Alter Santa Lily:**
@@ -1409,7 +1529,11 @@ This is bad... This is real, real bad.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 This is so terrible in so many ways...
  
 **Jeanne Alter Santa Lily:**
@@ -1491,7 +1615,11 @@ This isn't Christmas at all!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's punish them.
  
 **Ushiwakamaru:**
@@ -1522,7 +1650,11 @@ But if you don't give me a good punishment, I, Ushiwakamaru, shall bite back wit
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's punch 'em till they straighten out.
  
 **Martha:**
@@ -1564,7 +1696,11 @@ The sad drunk girls' party is coming this way!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You were great, Santa!
  
 **Jeanne Alter Santa Lily:**
@@ -1574,7 +1710,11 @@ Yes, I am the bestest Santa!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're cute.
  
 **Jeanne Alter Santa Lily:**
@@ -1675,7 +1815,11 @@ Oh my. I can't use alcohol as an excuse to do things anymore...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...!?
 
  
@@ -1808,7 +1952,11 @@ It makes sense, but...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh, I got this.
 
  
@@ -1928,7 +2076,11 @@ Besides, everyone knows you're not supposed to take things from strangers.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Do you want one?
  
 **Jeanne Alter Santa Lily:**
@@ -1947,7 +2099,11 @@ What do you mean, grown-up...?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Want some candy?
  
 **Jeanne Alter Santa Lily:**
@@ -2234,7 +2390,11 @@ Where did Lord Amakusa go?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What is it?
  
 **Jeanne Alter Santa Lily:**
@@ -2244,7 +2404,11 @@ Umm... Am I doing this all wrong?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You look down.
  
 **Jeanne Alter Santa Lily:**
@@ -2303,7 +2467,11 @@ By the way, just because I'm wearing red doesn't mean I am in any way related to
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Oh, really?
  
 **Santa Island Mask:**
@@ -2313,7 +2481,11 @@ Nope. Not at all. I'm just red and tanned.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Of course not. Truly, your identity is shrouded in mystery.
  
 **Santa Island Mask:**
@@ -2537,7 +2709,11 @@ Plates on...table... Okay...got it.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Absatively.
  
 **Jeanne Alter Santa Lily:**
@@ -2547,7 +2723,11 @@ Yeaaah... Maybe I was wrong to think I could just figure out the labyrinth...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Well, you've been blindly wandering around...
  
 **Jeanne Alter Santa Lily:**
@@ -2577,7 +2757,11 @@ Gyah&mdash;!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So I'm the present?
  
 **Jeanne Alter Santa Lily:**
@@ -2587,7 +2771,11 @@ I don't have any er...ro...arrow presents like that! That kind of stuff is, um, 
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're labyrinth lunch.
  
 **Jeanne Alter Santa Lily:**
@@ -2721,7 +2909,11 @@ It's what the Adult-Me stopped spreading.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So. Now, this is happening... (sigh)
  
 **Jeanne Alter Santa Lily:**
@@ -2731,7 +2923,11 @@ I-I'm sorry. When I think about my future, I just can't help it...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Calm down, Little Alter.
  
 **Jeanne Alter Santa Lily:**
@@ -2808,12 +3004,20 @@ Huh!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A rose Black Key!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 A what, now?
 
  
@@ -2827,7 +3031,11 @@ I am... Santa Island Mask!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And then Christmas was saved...
 
  
@@ -2889,7 +3097,11 @@ I have no choice but to give you these presents, I guess...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You won!
 
  
@@ -2945,12 +3157,20 @@ Lots of mommies on Christmas? Really?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Santa Mask...what have you done...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No! That will only end badly!
  
 
@@ -3168,7 +3388,11 @@ I-I'm sorry!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Santa!?
 
  
@@ -3233,20 +3457,51 @@ Missing, huh...?
 Hmm. What is it?
 
  
+<<<<<<< HEAD
+**Narration:**
+...No matter what they say, I just don't have it.
+
+ 
+**Narration:**
+=======
 **Narration::**
 ...No matter what they say, I just don't have it.
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Practicality is all I am.
 Every part of my being is about what's useful...
 
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I have no wish. I could die at any time. I have no hope.
 I could vanish at any moment.
 
  
+<<<<<<< HEAD
+**Narration:**
+E-even my existence was impossible from the moment it began...
+
+ 
+**Narration:**
+Something like me...an impossible being, an impossible concept...could have no wish.
+
+ 
+**Narration:**
+...But there was one thing I thought I could do...
+
+ 
+**Narration:**
+I could be someone who grants other people's wishes, instead of my own... I could be Santa Claus.
+
+ 
+**Narration:**
+=======
 **Narration::**
 E-even my existence was impossible from the moment it began...
 
@@ -3264,20 +3519,33 @@ I could be someone who grants other people's wishes, instead of my own... I coul
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I thought I could be Santa.
 But...I was wrong.
 
  
+<<<<<<< HEAD
+**Narration:**
+I borrowed the sack, and got Reindeer Master to come with me...
+
+ 
+**Narration:**
+=======
 **Narration::**
 I borrowed the sack, and got Reindeer Master to come with me...
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But I don't know what makes people happy.
 I don't know, so I keep failing and failing&mdash;
 
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And finally, I just ran away.
 I couldn't do anything right as Santa...
 
@@ -3501,7 +3769,11 @@ Okay, let's go!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Don't forget me!
  
 **Jeanne Alter Santa Lily:**
@@ -3515,7 +3787,11 @@ Uh... It's not like I forgot about you.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You know I'm still here, right?
  
 **Jeanne Alter Santa Lily:**
@@ -3578,7 +3854,11 @@ It's like the Wizard of Oz!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Are there three Ozes?
  
 **Jack:**
@@ -3597,7 +3877,11 @@ I don't think that's what we're talking about.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 So who's Oz?
  
 **Nursery Rhyme:**
@@ -3647,7 +3931,11 @@ Reindeer, are you okay?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I think I'm gonna throw up...
  
 **Jeanne Alter Santa Lily:**
@@ -3658,7 +3946,11 @@ I'm right underneath you!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Urmpf...
  
 **Jeanne Alter Santa Lily:**
@@ -3707,12 +3999,20 @@ That's uhhh... Well... You see...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Some evil mastermind must be commanding him!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's a conspiracy!
 
  
@@ -3787,12 +4087,20 @@ Ha! Ha! Ha! It seems I have lost, Master!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Okay then, we shall pass after all.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We won, so we'll be stepping over you.
 
  
@@ -3869,7 +4177,11 @@ Yes! That was a cakewalk!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now what do you want, Santa Island Mask?
 
  
@@ -3912,7 +4224,11 @@ I-I...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That's something Santa must decide.
 
  
@@ -3952,11 +4268,34 @@ The one who prays and pleads has their wish granted, while those who don't are n
 ...When you think about it, Santa may not be a saint at all.
 
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Santa may not be a saint at all&mdash;
 That's what Santa Island Mask said.
 
  
+<<<<<<< HEAD
+**Narration:**
+I wanted to argue and say it wasn't true.
+
+ 
+**Narration:**
+I wanted to say Santa Claus is a noble saint who grants everyone's wishes, and that's why I chose to become Santa.
+
+ 
+**Narration:**
+But I can't shake the feeling that what he said might really be true.
+
+ 
+**Narration:**
+...When I think about what happens after Christmas, I start trembling with fear.
+
+ 
+**Narration:**
+=======
 **Narration::**
 I wanted to argue and say it wasn't true.
 
@@ -3974,11 +4313,16 @@ But I can't shake the feeling that what he said might really be true.
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Reindeer Master, Reindeer Master, Reindeer Master.
 Am I okay? Will I be okay?
 
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...Will I still be allowed to exist?
 
  
@@ -3989,7 +4333,11 @@ The sleigh won't move.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Huh, even Santa's sleigh can break down.
 
  
@@ -4015,7 +4363,11 @@ It may be a little taxing for Master though...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm okay, we can all walk.
 
  
@@ -4045,7 +4397,11 @@ No, I mean, you're making it difficult for Reindeer Master to walk! Stop it!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I don't mind.
  
 **Jeanne Alter Santa Lily:**
@@ -4059,7 +4415,11 @@ A Reindeer should not walk hand-in-hand with small children! Santa rules!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Wanna join, Santa?
  
 **Jeanne Alter Santa Lily:**
@@ -4109,7 +4469,11 @@ Fun, it's fun, so fun!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's a slumber party...
 
  
@@ -4125,7 +4489,11 @@ I transferred the goods you requested.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Thanks.
 
  
@@ -4185,7 +4553,11 @@ Am. Not!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Jeanne Alter Santa Lily!
 
  
@@ -4230,7 +4602,11 @@ Delicious, so deliiicious!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You should thank Emiya...
  
 **Nursery Rhyme:**
@@ -4249,7 +4625,11 @@ Mister Emiya, quit stealing Noble Phantasms, okay?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Politely thank Mister Emiya.
  
 **Nursery Rhyme:**
@@ -4402,7 +4782,11 @@ Aren't they bothering you, Master Reindeer?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No, not at all.
  
 **Jeanne Alter Santa Lily:**
@@ -4416,7 +4800,11 @@ I'm going to take my spirit form so I don't cause trouble. I'm a good girl, aren
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I prefer it this way.
  
 **Jeanne Alter Santa Lily:**
@@ -4437,7 +4825,11 @@ Have you ever seen the sea, Reindeer Master?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I have.
  
 **Jeanne Alter Santa Lily:**
@@ -4451,7 +4843,11 @@ Is it really so great for the two of them to get all worked up over it?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Actually, I haven't.
  
 **Jeanne Alter Santa Lily:**
@@ -4488,7 +4884,11 @@ So, um, what's the point in going?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'm sure you'll like it.
 
  
@@ -4532,7 +4932,11 @@ Servants detected. There are two!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You do a better job than the Doctor.
  
 **Dr. Roman:**
@@ -4547,7 +4951,11 @@ But I'm glad I can be of help with logistical support!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You've got a cuter voice than Roman.
  
 **Dr. Roman:**
@@ -4600,12 +5008,20 @@ Why, you ask!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Is there a different Santa!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Could there be other Santas!?
 
  
@@ -4692,7 +5108,11 @@ They couldn't figure out Santa Island Mask...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ahem. Anyway, Santam.
 
  
@@ -4742,7 +5162,11 @@ I-I am...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's okay. You are Santa.
  
 **Jeanne Alter Santa Lily:**
@@ -4756,7 +5180,11 @@ As long as Reindeer Master doesn't abandon me, I'll always be the really real Sa
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You're not Santa?
  
 **Jeanne Alter Santa Lily:**
@@ -4807,7 +5235,11 @@ By the way, I am an Archer, which doesn't really go well against a Lancer, but..
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Victory!
 
  
@@ -4844,7 +5276,11 @@ Then we shall disappear as the defeated should.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 What's wrong?
  
 **Jeanne Alter Santa Lily:**
@@ -4855,7 +5291,11 @@ We've almost reached the sea!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You don't look too well...
  
 **Jeanne Alter Santa Lily:**
@@ -4909,11 +5349,26 @@ Santa Island Mask is coming...
  
 ## 7th Night: Last Present For You
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We're getting closer to the sea.
 Our short but difficult journey will end soon.
 
  
+<<<<<<< HEAD
+**Narration:**
+Will I still be able to be Santa? Will I still get to be the one who delivers gifts and hope?
+
+ 
+**Narration:**
+Or will I disappear, like a dream in morning?
+
+ 
+**Narration:**
+=======
 **Narration::**
 Will I still be able to be Santa? Will I still get to be the one who delivers gifts and hope?
 
@@ -4923,17 +5378,26 @@ Or will I disappear, like a dream in morning?
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...That would've been fine.
 At least, that's what I thought to start with.
 
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 But why can't I feel that way now?
 
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Ruuuun!!!
 
  
@@ -4967,7 +5431,11 @@ Zooooom! Fast like a hippogriff!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They're light!
  
 **Jeanne Alter Santa Lily:**
@@ -4977,7 +5445,11 @@ I-I bet. I always pay careful attention to my weight!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 They're heavy!
  
 **Nursery Rhyme:**
@@ -5009,7 +5481,11 @@ It's a pebble!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Eeeeeeep!?
 
  
@@ -5032,7 +5508,11 @@ You okay? It hurts? Dismember?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 No dismembering Master on Christmas, Jack!
  
 **Jack:**
@@ -5042,7 +5522,11 @@ Too baaad.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 My nose's bleeding...
  
 **Jack:**
@@ -5103,7 +5587,11 @@ I know I am...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Yes, yes. Whatever-Mask.
 
  
@@ -5141,7 +5629,11 @@ Get it? I'm your enemy! Mwa ha ha!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Curse your sudden but inevitable betrayal!
 
  
@@ -5198,7 +5690,11 @@ What is “self-interest?”
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 It's the desire to do something for yourself.
 
  
@@ -5281,12 +5777,20 @@ I just can't lose!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Roger that, Santa Claus!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Let's grant your wish!
 
  
@@ -5404,12 +5908,20 @@ G-geez. Um, Reindeer Master...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You three go on ahead.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I'll catch up later.
 
  
@@ -5467,11 +5979,30 @@ This is really hard on a book, sheesh...!
 Oh&mdash;
 
  
+<<<<<<< HEAD
+**Narration:**
+=======
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 The waves crashed and roared.
 The violent winds howled.
 
  
+<<<<<<< HEAD
+**Narration:**
+It may not have been alive, but for all its ferocity, it may as well have been.
+
+ 
+**Narration:**
+Somehow, it was as frightening as the beginning of the world, but as beautiful as the end of all things.
+
+ 
+**Narration:**
+A gift that, supposedly, was never meant to be, was being opened before my eyes.
+
+ 
+**Narration:**
+=======
 **Narration::**
 It may not have been alive, but for all its ferocity, it may as well have been.
 
@@ -5485,6 +6016,7 @@ A gift that, supposedly, was never meant to be, was being opened before my eyes.
 
  
 **Narration::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...In the end, I was probably a failure as Santa.
 
  
@@ -5750,7 +6282,11 @@ Can I revive myself now?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 If you must.
  
 **Santa Island Mask:**
@@ -5764,7 +6300,11 @@ I actually fought like I meant it, and she took me down.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nope. Stay dead.
  
 **Santa Island Mask:**
@@ -5882,7 +6422,11 @@ Ah... Aah!!!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Busted...
 
  
@@ -5921,7 +6465,11 @@ SEEEENNPAAAAIIIII!?
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I-I'm sooorry!!
 
  
@@ -5939,7 +6487,11 @@ I'm going to the Doctor to protest right this instant!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Try to go easy on him.
  
 **Mash:**
@@ -5949,7 +6501,11 @@ Yes, of course. I have to save some energy for you, Master!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Whew...
  
 **Mash:**

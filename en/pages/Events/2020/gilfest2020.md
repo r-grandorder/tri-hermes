@@ -26,7 +26,11 @@ Though it hardly need be said that I will be this year's victor! Yes, this is th
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 I see you're in a good mood, Your Imperial Majesty.
  
 **Nero:**
@@ -36,7 +40,11 @@ Of course! The mere fact that Olympia shall open its doors again is enough to co
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You don't mean...infinite Guts...?
  
 **Nero:**
@@ -94,7 +102,11 @@ So for my part, I was really hoping Fujimaru would be the one to take it home.
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Morning, Da Vinci!
  
 **Da Vinci:**
@@ -113,7 +125,11 @@ Or at least that's what we've been doing since the Incineration of Humanity.
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 An exceptional prize...?
  
 **Nero:**
@@ -204,12 +220,20 @@ Emperor Nero happened to find me fixing up the latest such Grail, and I agreed t
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You really are a genius...
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Fair price? Do I even want to know how much QP you charged?
  
 
@@ -307,12 +331,20 @@ The Garden!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 He's in New York!?
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 And here I thought he was all about the good old days...
  
 
@@ -385,12 +417,20 @@ What... What...
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 ...(I have no idea what to say to her.)
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Nero...?
  
 
@@ -437,7 +477,11 @@ We shall pummel him with the full force of our greatest Noble Phantasms and send
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Now that's the emperor we know!
  
 
@@ -479,13 +523,21 @@ It is no mistake. I determined from the start that there would be two teams adva
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That sounded like...Gilgamesh!
  
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 That sounded like...Gorgeous P!
  
 
@@ -694,7 +746,11 @@ Next time, I shall return as an even more refined King of Heroes! Enjoy the cham
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 We... We...
  
 
@@ -710,7 +766,11 @@ Fujimaru and Mash!
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Congratulations, Nero!
  
 **Nero:**
@@ -726,7 +786,11 @@ and for leading us to victory!
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 You did great, Mash!
  
 **Mash:**
@@ -763,13 +827,21 @@ I am the one who secured it in the first place, after all, and it would be compl
  
 ---
 
+<<<<<<< HEAD
+**Fujimaru 1:**
+=======
 **Fujimaru 1::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 In that case, don't mind if I do.
  
 
 ---
 
+<<<<<<< HEAD
+**Fujimaru 2:**
+=======
 **Fujimaru 2::**
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 Then I'll just use it on you.
  
 **Nero:**

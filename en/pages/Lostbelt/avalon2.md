@@ -3144,7 +3144,11 @@ and are forced to obey Knocknarea until they die! (※Gareth's supposition)
  
 **Chocolate Field Mors:**
 
+<<<<<<< HEAD
+![berserk1](https://i.imgur.com/XAqlQYL.png) 
+=======
 ![1-light](https://i.imgur.com/XAqlQYL.png) 
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **Senji Muramasa:**
 ...Well. (casually wiping his mouth with his finger) Mors from the field...!? 
@@ -8871,7 +8875,11 @@ Ugh!? What, what's&mdash;my legs, my legs are vanishing...!?
  
 **???:**
 
+<<<<<<< HEAD
+![berserk1](https://i.imgur.com/XAqlQYL.png)
+=======
 ![1-light](https://i.imgur.com/XAqlQYL.png)
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **Knight Portunes:**
 You&mdash;damn you&mdash;! I know your foul stench, your curse...! 
@@ -8881,7 +8889,11 @@ The stench of the Mors War...!
  
 **???:**
 
+<<<<<<< HEAD
+![berserk1](https://i.imgur.com/XAqlQYL.png)
+=======
 ![1-light](https://i.imgur.com/XAqlQYL.png)
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **Knight Portunes:**
 Impossible&mdash;you should be dead&mdash;My Queen&mdash;I have to tell the Queen&mdash;
@@ -25169,7 +25181,11 @@ Be gentle! Kill it softly! That way it'll still taste goooood!
  
 **That Which Should Never Have Been Made:**
 
+<<<<<<< HEAD
+![berserk1](https://i.imgur.com/XAqlQYL.png)
+=======
 ![1-light](https://i.imgur.com/XAqlQYL.png)
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 ---
 

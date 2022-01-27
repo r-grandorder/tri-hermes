@@ -38,7 +38,12 @@ No food, sadly, but...any port in a storm.
 Besides, just seeing artifacts of civilization like this again does wonders for my morale, even if it is gutted ruins from a brutal invasion. 
 
 **David:**
+<<<<<<< HEAD
+
+![berserk3](https://i.imgur.com/9QdxWyo.png). 
+=======
 ![3-light](https://i.imgur.com/9QdxWyo.png). 
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 
 **Narration:**
 I shrug my shoulders as I sit down on what used to be a sofa. 
@@ -12691,7 +12696,11 @@ A walking disaster from a very different path than Proper Human History, this ra
 Introducing one of Nine Fox Foundation's latest and greatest: a Jötunn straight from the land of frost giants! 
  
 **Jötunn:**
+<<<<<<< HEAD
+![berserk1](https://i.imgur.com/XAqlQYL.png) 
+=======
 ![1-light](https://i.imgur.com/XAqlQYL.png) 
+>>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **Holmes:**
 (Well now. So she can summon a familiar so large and powerful merely by tearing off a bit of her hair and blowing on it...? )
