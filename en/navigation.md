@@ -21,10 +21,7 @@
 
 [Main Story](pages/story.md)
 [Events](pages/events.md)
-<<<<<<< HEAD
 [Interludes](pages/interludes.md)
-=======
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 [About](pages/about.md)
 [Feedback](pages/feedback.md)
 
@@ -68,5 +65,4 @@
   -->
 
 [gimmick:themechooser](Choose theme)
-
 
