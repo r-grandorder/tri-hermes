@@ -21,7 +21,7 @@
 
 [Main Story](pages/story.md)
 [Events](pages/events.md)
-[Interludes](pages/interludes.md)
+[Servants](pages/servants.md)
 [About](pages/about.md)
 [Feedback](pages/feedback.md)
 

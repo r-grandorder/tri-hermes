@@ -2,5 +2,5 @@
 
 * [Main Story](pages/story.md)
 * [Events](pages/events.md)
-* [Interludes](pages/interludes.md)
+* [Servant Materials and Interludes](pages/servants.md) ~ Still WIP
 
