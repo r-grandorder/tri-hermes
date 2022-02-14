@@ -11,6 +11,7 @@ Note: [This material is translated by u/kinalvin](https://redd.it/cmyy65)
 > Height: 158cm    
 > Weight: 46kg    
 
+
 > Character Creator: Nasu Kinoko    
 > Character Designer: Takeuchi Takashi    
 > Character Voice: Taneda Risa    
@@ -70,10 +71,11 @@ This seems to be a Skill not from the Noble Phantasm itself, but rather from the
 ## Noble Phantasm
 
 **Lord Chaldeas: Imaginary Noble Phantasm – Pseudo-Deployment/The Cornerstone of the Human Order**    
-Rank: D    
-Classification: Anti-Personnel Noble Phantasm   
-Range: 1    
-Maximum Number of Targets: —    
+
+> Rank: D    
+> Classification: Anti-Personnel Noble Phantasm   
+> Range: 1    
+> Maximum Number of Targets: —    
 
 Something named by Olgamarie Aminusphere. The Noble Phantasm Mash deploys according to her instincts without the True Name of the Heroic Spirit who possessed her being known to her as she is now. It expands a strong protective barrier in front of her. It appears that being crowned with the name Chaldeas is from the wish that lies within Mash’s foundation, the wish called “*To see the future of humanity.*”
 
@@ -82,11 +84,11 @@ Something named by Olgamarie Aminusphere. The Noble Phantasm Mash deploys accord
 
 # Character
 
-First Person Pronoun: watashi    
-Second Person Pronouns: ○○-san / ○○-shi / Mister ○○○ … the honorific varies accordingly with the TPO (Time, Place, Occasion).    
-For the Protagonist, Mash uses “*Senpai*” and “*Master*” for different purposes, such as on the occasions where her Master calls her name and on the occasions where she continues on as a Servant respectively.    
-Regarding the matter with Roman, although she calls him “*Doctor*”, if Roman’s comedic lines are too terrible to her, she calls him “*Dr. Roman*” instead and gives him a harsh assessment.    
-Third Person Pronouns: kare / kanojo    
+* First Person Pronoun: watashi    
+* Second Person Pronouns: ○○-san / ○○-shi / Mister ○○○ … the honorific varies accordingly with the TPO (Time, Place, Occasion).    
+* For the Protagonist, Mash uses “*Senpai*” and “*Master*” for different purposes, such as on the occasions where her Master calls her name and on the occasions where she continues on as a Servant respectively.    
+* Regarding the matter with Roman, although she calls him “*Doctor*”, if Roman’s comedic lines are too terrible to her, she calls him “*Dr. Roman*” instead and gives him a harsh assessment.    
+* Third Person Pronouns: kare / kanojo    
 
 ## Personality
 
@@ -106,8 +108,8 @@ After becoming a Servant, Mash idolizes the Protagonist as her Senpai, and she w
 
 “*… Um. It is neither morning nor night, so please wake up, Senpai.*”    
 “*The reason… huh? Ritsuka-san… he is the most humane among the humans I have encountered up to now. I really do not sense any threat from him. It is because of that that there is no reason for me to be hostile to him at all.*”    
-“*Senpai, it was a disaster immediately after she took up her new post. Nevertheless, there is room for sympathy even for the Director’s irritability.    
-With all due respect, Ritsuka-senpai is too ignorant regarding Chaldea.*”    
+“*Senpai, it was a disaster immediately after she took up her new post. Nevertheless, there is room for sympathy even for the Director’s irritability."
+"*With all due respect, Ritsuka-senpai is too ignorant regarding Chaldea.*”    
 “*It is impossible to communicate our intentions by means of language. I judge it to be a hostile creature. Master, instructions. With both Senpai and I, we will get over this situation!*”    
 
 
@@ -162,22 +164,22 @@ Rather than creating completely new things, I took from things that have been pi
 
 ## Material Images
 
-[Mash1](https://i.imgur.com/ODmo58F.jpg)
+![Mash1](https://i.imgur.com/ODmo58F.jpg)
 
-[Mash2](https://i.imgur.com/4PnwzYt.jpg)
+![Mash2](https://i.imgur.com/4PnwzYt.jpg)
 
-[Mash3](https://i.imgur.com/9HHn8hI.jpg)
+![Mash3](https://i.imgur.com/9HHn8hI.jpg)
 
-[Mash4](https://i.imgur.com/gvHnqPa.jpg)
+![Mash4](https://i.imgur.com/gvHnqPa.jpg)
 
-[Mash5](https://i.imgur.com/jloFVLC.jpg)
+![Mash5](https://i.imgur.com/jloFVLC.jpg)
 
-[Mash6](https://i.imgur.com/KrNhPFT.jpg)
+![Mash6](https://i.imgur.com/KrNhPFT.jpg)
 
-[Mash7](https://i.imgur.com/QzbwlH7.jpg)
+![Mash7](https://i.imgur.com/QzbwlH7.jpg)
 
-[Mash8](https://i.imgur.com/cGv0Oix.jpg)
+![Mash8](https://i.imgur.com/cGv0Oix.jpg)
 
-[Mash9](https://i.imgur.com/xlXqbev.jpg)
+![Mash9](https://i.imgur.com/xlXqbev.jpg)
 
-[Mash10](https://i.imgur.com/fvzt5SP.jpg)
+![Mash10](https://i.imgur.com/fvzt5SP.jpg)
