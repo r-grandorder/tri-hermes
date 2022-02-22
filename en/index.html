@@ -53,6 +53,16 @@ Contribute here: https://github.com/r-grandorder/wiki" property="og:description"
             height: 900px;
         }
     }
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    #md-page-menu::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* Hide scrollbar for IE, Edge and Firefox */
+    #md-page-menu {
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+    }
     @media (min-width: 768px) {
         .md-float-left .col-sm-8, .md-float-right .col-sm-8 {
             max-width: 66.67%;
