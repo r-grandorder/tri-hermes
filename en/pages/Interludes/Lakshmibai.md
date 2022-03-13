@@ -58,7 +58,7 @@ If there is anything I can help with, just say so.
 No, it may be better to avoid leaving important thing to me in terms of crisis management.  
 It should be something that's simple and won't affect a great number of people in case I mess up.  
 Still, I recommend it to be work that is troublesome and must be forced on someone in the end.  
-----Well then, Captain Nemo. I'm happy we could exchange a few words. See you later.  
+-Well then, Captain Nemo. I'm happy we could exchange a few words. See you later.  
   
  
   
@@ -269,7 +269,7 @@ Those two have something to do from time to time so they aren't here.
   
 **Jeanne:**  
 I see.  
-----If you could, please teach those two how to make a garland too.  
+-If you could, please teach those two how to make a garland too.  
   
  
   
@@ -742,7 +742,7 @@ I'll be in your care, Ushiwakamaru-dono. I might be a novice, but I am fully int
   
 **Ushiwakamaru:**  
 Such an earnest approach for playing around, I see!  
-----Still, yes, just like I've been told, for some reason, it feels she's way too serious, no...?  
+-Still, yes, just like I've been told, for some reason, it feels she's way too serious, no...?  
   
  
   
@@ -964,7 +964,7 @@ Despite her surprise at the sudden appearance of the monster, Lakshmi cuts it do
  
   
 **Ushi:**  
-----Splendid! What a skillful slash despite the starfish monster's unexpected entrance!  
+--Splendid! What a skillful slash despite the starfish monster's unexpected entrance!  
   
  
   
@@ -1409,7 +1409,7 @@ Hearing the news, Lakshmi shudders.
  
   
 **Ganesha:**  
-I take back what I said about the difficulty not being hard enough! ----I don't want such a nightmare!  
+I take back what I said about the difficulty not being hard enough! -I don't want such a nightmare!  
   
 We engage the Parvatis in combat, but the numbers are too high. Just as we are about to be overwhelmed something happens and they disappear.  
   
