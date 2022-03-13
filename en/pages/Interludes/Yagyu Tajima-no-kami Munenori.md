@@ -839,7 +839,7 @@ You wanted to enjoy traveling for its own sake, not just to get to a destination
 
  
 **Yagyu Tajima-no-kami**
-I hope you can forgive me. It was not my intention to drag you along on this old man's whim. I must apologize to you, Master, and to all of you who assisted {(M) him /(F) her}.
+I hope you can forgive me. It was not my intention to drag you along on this old man's whim. I must apologize to you, Master, and to all of you who assisted {♂ him /♀️ her}.
 
  
 **Chiyome**
@@ -959,7 +959,7 @@ Then, you did do this all for Master...
 
  
 **Tomoe Gozen**
-We are all {(M) Lord /(F) Lady} Fujimaru's Servants.
+We are all {♂ Lord /♀️ Lady} Fujimaru's Servants.
 That makes us comrades in arms.
 
  

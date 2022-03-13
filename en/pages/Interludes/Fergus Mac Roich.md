@@ -1,4 +1,4 @@
-# Fergus Mac Róich
+# Fergus Mac Roich
 
 ## Pretty Illusion
 

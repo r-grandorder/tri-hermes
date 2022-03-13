@@ -269,7 +269,7 @@ Oh, I know. What about a book that Master would like?
 
  
 **Prince of Lan Ling**
-I could bring it with me the next time I visit {(M) him /(F) her}.
+I could bring it with me the next time I visit {? him /?? her}.
 
  
 **Murasaki Shikibu**
