@@ -6293,7 +6293,7 @@ Okay, now seems like as good a time as any for a bit of a chat.
 **Peperoncino:**
 Plus, now that you've shown me what the Reverse Side of the World looks like, it's only fair that I reciprocate, no? 
  
-<b>--SECTION BREAK--<b>
+<b>--SECTION BREAK--</b>
 
 The rift between worlds. The inside of nothingness. The gap between heaven and earth. The space outside the universe. 
 Here, where a single moment spans an eternity, only he, and the few beings he acknowledges, are able to exist. 
