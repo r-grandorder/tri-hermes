@@ -1351,4 +1351,4 @@ Just, like, resign yourself to your fate!
 
 Note: [Translated by /u/squashyVN](https://redd.it/k6cea7)
 
-
+Will be formatted at a later date. 

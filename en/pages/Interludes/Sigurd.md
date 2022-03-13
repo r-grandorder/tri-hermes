@@ -5,9 +5,9 @@ Note: Translated by Smoof: [Part 1](https://redd.it/j5avbf), [Part 2](https://re
 ## It has no mass, no shape, yet it exists. 
 
 **Narration:**
----It burns, it burns, it’s burning.
----It burns with love, it burns with a soul, it burns with passion, and it is something that channels happiness.
----Ahh, my flame, my blaze has yet to weaken.
+-It burns, it burns, it’s burning.
+-It burns with love, it burns with a soul, it burns with passion, and it is something that channels happiness.
+-Ahh, my flame, my blaze has yet to weaken.
 
 It refuses to freeze, it melts ice and snow….
 This power within me, still rages on.
@@ -94,9 +94,9 @@ So much that my love advised me “You should refrain from trying to make jokes.
 Anyhow, with the death of my father and my mother’s second marriage….my upbringing was entrusted by a certain blacksmith.
 
 **Mash:**
-That’s-----
+That’s---
 
----
+-
 
 **Fujimaru:**
 Could it be Regin?
@@ -129,16 +129,16 @@ Along with that, I had to train my body.
 I had to run from morning to dawn, dashing through the grasslands without making any noise.
 I was taught how to hunt animals. I was taught how to defeat people.
 I learned how to defeat heroes, warriors and soldiers. I even knew how to take on a demon.
----When I was a child, I was born to train.
----I had to accept the fate of becoming a hero.
----It’s not bad.
----It wasn’t bad at all though.
+-When I was a child, I was born to train.
+-I had to accept the fate of becoming a hero.
+-It’s not bad.
+-It wasn’t bad at all though.
 
 **Sigurd:**
 ….Well, looking back on it, it was very severe.
 
 **Narration:**
----The words came out of my mouth without any hesitation nor realization just like that.
+-The words came out of my mouth without any hesitation nor realization just like that.
 
 **Martha:**
 Indeed it was. It was...very severe.
@@ -150,7 +150,7 @@ But the one I must profess my love to is absent. Here I have only companions who
 It should be acceptable to let out a little feeble complaint. That’s what I had thought.
 
 **Mash:**
-------
+-
 
 **Martha:**
 …..
@@ -198,7 +198,7 @@ Indeed. However, I turned the tables on him, as you can tell.
 I-I see. That’s the part you’re proud of.
 
 **Sigurd:**
-Naturally. I never thought of myself as a hero of justice once. However---
+Naturally. I never thought of myself as a hero of justice once. However-
 No matter how you put it, it is evil to raise me and then sweet talk me into a sneak attack for treasure.
 So me turning the tables on him fits in the general idea of justice.
 
@@ -212,8 +212,8 @@ Well, I suppose so. He deceived and betrayed you for money.
 Well, when you say like that, I look back at myself and I don’t resent him particularly.
 
 **Narration:**
----I certainly don’t feel any grudge.
----Just sadness.
+-I certainly don’t feel any grudge.
+-Just sadness.
 
 **Sigurd:**
 I am grateful that he raised me as a hero.
@@ -304,10 +304,10 @@ Alright, I will answer to this young boy’s expectation. It is a responsibility
 I’ll show you the best of the best.
 
 **Narration:**
----I don’t smile. I can’t smile. It’s unnecessary for me to smile.
----I don’t get angry. I can’t get angry. It’s unnecessary for me to get angry.
----I don’t get sad. I can’t get sad. It’s unnecessary for me to get sad.
----I never particularly desired happiness.
+-I don’t smile. I can’t smile. It’s unnecessary for me to smile.
+-I don’t get angry. I can’t get angry. It’s unnecessary for me to get angry.
+-I don’t get sad. I can’t get sad. It’s unnecessary for me to get sad.
+-I never particularly desired happiness.
 
 “That's good enough,” said the blacksmith that raised me.
 “You’re a weapon, a blade, a guard that protects the weak.”
@@ -319,7 +319,7 @@ That eventually led into a tragedy.
 Out of a million people, there will be ten thousand people among them that are outstanding.
 
 And suppose you had to choose only one hundred people within those ten thousand outstanding people.
-There is no one that is superior or inferior to the others in all three qualities: heart, technique and physique---
+There is no one that is superior or inferior to the others in all three qualities: heart, technique and physique-
 
 Those hundred people can do anything.
 And out of those hundred people.
@@ -338,7 +338,7 @@ This power could help the world.
 Alas, however.
 It’s hard to describe, it's some sort of pleasant feeling, it’s probably a habit.
 It’s buoyant and it feels like somewhere in a dream.
-It’s as if this is a------
+It’s as if this is a--
 
 **Martha:**
 SIGURD!!
@@ -419,7 +419,7 @@ The team will be buffed and enemies will be burnt with the skill: Martha and Sie
 Alright. Annihilation confirmed, Master.
 
 **Fujimaru:**
-[Thanks for your hard work---]
+[Thanks for your hard work-]
 
 **Sigurd:**
 Yea.
@@ -433,7 +433,7 @@ I should.
 Thinking about it logically, it was inexcusable for me to think about something else in the middle of battle.
 
 **Narration:**
-However---
+However-
 
 **Sigurd:**
 I have made a mistake. I’m very sorry.
@@ -491,7 +491,7 @@ He remembers this game state repeating enough times to drive him crazy, and he b
 
 **Sigurd:**
 Fierce battles are often like that.
-With my battle against Fafnir, I remember that I won, but I couldn’t tell you how I fought him---
+With my battle against Fafnir, I remember that I won, but I couldn’t tell you how I fought him-
 What was it like, I wonder?
 
 **Martha:**
@@ -548,7 +548,7 @@ It looks as if we were in Orleans that one time.
 We have to hurry before they overwhelm us with their reproduction speed.
 Master!
 
----
+-
 
 **Fujimaru:**
 [I’ll leave it to you to penetrate the center, Sigurd!]
@@ -587,7 +587,7 @@ Martha and Sieg’s Support [We’ll open a path]
 
 **Sigurd:**
 Here!
-Demonic Sword, ready, special move driving force---
+Demonic Sword, ready, special move driving force-
 What thou see is indeed the dawn of destruction!
 Bolverk Gram!! (Heavenly Wheel of Destruction)
 
@@ -643,13 +643,13 @@ Y-yayy.
 Well then, let’s head back. Thanks for your hard work, everyone.
 
 **Fujimaru:**
-[Nice work out there----]
+[Nice work out there--]
 
 **Sigurd:**
 Yea.
 
 **Narration:**
----Ever since I came to Chaldea, I surprisingly had many opportunities to smile.
+-Ever since I came to Chaldea, I surprisingly had many opportunities to smile.
 I don’t know whether it’s a good thing or a bad thing. I really can’t tell the difference myself.
 Heroes don’t smile. They’re the ones that protect smiles.
 It was either Regin that said it or perhaps it was I myself.
@@ -678,7 +678,7 @@ Sigurd-san shouldn’t have had a hard time even since he exterminated Fafnir al
 Yea, that’s right.
 Sigurd-dono, what makes you think that? In my eyes, your strength has never wavered.
 
----
+-
 
 If you choose Option 2:
 
@@ -707,7 +707,7 @@ So that’s what it was….
 **Siegfried:**
 ...However, though.
 Coincidentally, I don’t feel weaker at all than how I was in my lifetime.
-That’s because---
+That’s because-
 we have a Master. 
 And allies, who fight with us.
 That would be impossible in a situation like in a real Holy Grail War, but for that reason we’re able to roil our powers.
@@ -762,7 +762,7 @@ Alright, let us start immediately.
 
 **Sigurd:**
 Alright.
-Well then---here I come!
+Well then-here I come!
 
 The fight starts as Sieg goes on the flank and Hokusai goes for a direct approach. As Hokusai and Sigurd clash, Sigurd manages to dodge three slashes and pushes Hokusai away.
 
@@ -783,7 +783,7 @@ Sieg transforms into Siegfried and goes in on Sigurd. While he does overwhelm Si
 
 **Sigurd:**
 You still rely on Siegfried’s power too much.
-I can’t blame you for getting impatient when your transformation only last for an instant---
+I can’t blame you for getting impatient when your transformation only last for an instant-
 But you have more than enough time to use your techniques.
 
 **Sieg:**
@@ -807,7 +807,7 @@ E-ehh. It’ll be tricky.
 **Sigurd:**
 It’s also good to assign codes to your options and think about through conditional reflex.
 For example, numbering your techniques.
-Here’s a 4, 7, 2, 5------
+Here’s a 4, 7, 2, 5--
 
 He charges at the tree and slashes the tree up with pure swordsmanship.
 
@@ -824,7 +824,7 @@ Is that so?
 ….Well then, it’s alright if you associate them with something else.
 
 **Hokusai (Saber):**
-Ah---
+Ah-
 ….Sir Sigurd, can I think about mine with pictures?
 Sorry for the silly idea.
 At least, I'm more familiar with that than numbers.
@@ -845,7 +845,7 @@ Well, it’s fine. I’m next then! Let’s go!
 **Sigurd:**
 Well then, come at me as much as you like!
 
----
+-
 
 Skills:
 
@@ -883,7 +883,7 @@ Sieg collapses due to exhaustion as well.
 **Sigurd:**
 There’s no helping it. I’ll carry both of them.
 Well, however.
-------This was the most fun I had in awhile.
+--This was the most fun I had in awhile.
 ….Hm. I was having fun again.
 This is bad.
 
@@ -905,7 +905,7 @@ I will surely become weak if I smile.
 ….That’s what I thought.
 
 **Brynhildr:**
----Well, things like that happen.
+-Well, things like that happen.
 
 **Sigurd:**
 Oh, my love. What do you think is my weakness?
@@ -916,7 +916,7 @@ No, You’re not any weaker, my dear.
 You haven’t lost the qualifications of being a brave warrior.
 Long ago, you never grinned, yet, you always had the most heartfelt smile in front of me.
 Now you’re able to smile.
-You were never ever getting weaker---
+You were never ever getting weaker-
 You’re just getting closer to being human.
 I think that’s very marvelous.
 
