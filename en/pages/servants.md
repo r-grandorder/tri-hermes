@@ -14,11 +14,11 @@
 
 **Artoria Pendragon (Alter)**
 
-* [Interlude](Interludes/Artoria Pendragon \(Alter\).md)
+* [Interlude](Interludes/Artoria Pendragon (Alter).md)
 
 **Artoria Pendragon (Lily)**
 
-* [Interlude](Interludes/Artoria Pendragon \(Lily\).md)
+* [Interlude](Interludes/Artoria Pendragon (Lily).md)
 
 **Nero Claudius**
 
@@ -54,7 +54,7 @@
 
 **Nero Claudius (Bride)**
 
-* [Interlude](Interludes/Nero Claudius \(Bride\).md)
+* [Interlude](Interludes/Nero Claudius (Bride).md)
 
 **Rama**
 
@@ -62,7 +62,7 @@
 
 **Lancelot (Saber)**
 
-* [Interlude](Interludes/Lancelot \(Saber\).md)
+* [Interlude](Interludes/Lancelot (Saber).md)
 
 **Gawain**
 
@@ -74,7 +74,7 @@
 
 **Arthur Pendragon (Prototype)**
 
-* [Interlude](Interludes/Arthur Pendragon \(Prototype\).md)
+* [Interlude](Interludes/Arthur Pendragon (Prototype).md)
 
 **Suzuka Gozen**
 
