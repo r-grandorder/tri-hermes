@@ -60,10 +60,6 @@
 
 * [Interlude](Interludes/Lancelot (Saber).md)
 
-**Gawain**
-
-* [Interlude](Interludes/Gawain.md)
-
 **Bedivere**
 
 * [Interlude](Interludes/Bedivere.md)
@@ -83,10 +79,6 @@
 **Sigurd**
 
 * [Interlude](Interludes/Sigurd.md)
-
-**Lanling Wang**
-
-* [Interlude](Interludes/Lanling Wang.md)
 
 **Beni-enma**
 
