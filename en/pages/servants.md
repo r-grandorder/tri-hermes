@@ -44,10 +44,6 @@
 
 * [Interlude](Interludes/.md)
 
-**Fergus Mac Roich**
-
-* [Interlude](Interludes/Fergus Mac Roich.md)
-
 **Mordred**
 
 * [Interlude](Interludes/Mordred.md)
