@@ -551,7 +551,7 @@ Don't you agree?
 **Fujimaru 1:**
 Well you're not...not entirely...not incorrect...?
 
----
+
  
 **Arjuna**
 Puzzling...which is it!?
@@ -563,7 +563,7 @@ Do you believe it's true, or not?
 **Fujimaru 2:**
 Nope.
 
----
+
  
 **Arjuna**
 ...Really.
@@ -575,7 +575,7 @@ Waitwaitwait!
 I'll have you declare that I've overcome my trial!
 
  
-
+---
 
  
 **Arjuna**
@@ -752,7 +752,7 @@ Why do you think your wife is on my side?
 **Fujimaru 1:**
 She's a hostage...?
 
----
+
  
 **Gilgamesh**
 Fool! What use would I, who is sure to be the victor here, have for a hostage!?
@@ -763,14 +763,14 @@ Fool! What use would I, who is sure to be the victor here, have for a hostage!?
 **Fujimaru 2:**
 She's our enemy...?
 
----
+
  
 **Gilgamesh**
 Exactly.
 Your final trial is a trial of love.
 
  
-
+---
 
  
 **Sita**

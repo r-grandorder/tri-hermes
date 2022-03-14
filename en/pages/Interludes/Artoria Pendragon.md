@@ -37,8 +37,6 @@ What are your thoughts, Master?
 
 **Fujimaru 1:**
 It's most likely the Holy Grail.
-
----
  
 **Altria**
 You believe it's Holy Grail... As much as I don't want to admit it, it's seems undeniable.
@@ -48,13 +46,11 @@ You believe it's Holy Grail... As much as I don't want to admit it, it's seems u
 
 **Fujimaru 2:**
 It's because it became a singularity.
-
----
  
 **Altria**
 The Holy Grail was not the cause, rather, the very nature of the city was altered by becoming a singularity?
 
- 
+---
 
  
 **Mash**
@@ -279,7 +275,6 @@ Let us return to Chaldea, Master. I'm sure there are other matters we should be 
 **Fujimaru 1:**
 Yes, of course.
 
----
  
 **Mash**
 Just a moment.
@@ -291,12 +286,11 @@ You haven't finished your story.
 **Fujimaru 2:**
 ...Before we go, tell us one more thing.
 
----
  
 **Altria**
 One more thing?
 
- 
+---
 
  
 **Altria**
@@ -731,7 +725,6 @@ Plus, we got an upgrade on her Noble Phantasm...
 **Fujimaru 1:**
 Let's keep fighting the good fight, Saber.
 
----
  
 **Altria**
 Yes, please use the increased strength of my Noble Phantasm as your secret weapon against powerful enemies.
@@ -742,7 +735,6 @@ Yes, please use the increased strength of my Noble Phantasm as your secret weapo
 **Fujimaru 2:**
 Refrain from any crazy stuff next time, Saber.
 
----
  
 **Altria**
 Y-You think so?
@@ -758,6 +750,6 @@ She doesn't get it...
 This king just doesn't get it!
 
  
-
+---
 
 

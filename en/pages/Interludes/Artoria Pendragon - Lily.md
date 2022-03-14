@@ -11,7 +11,6 @@ The town is so peaceful despite the war. There are so many stores open along the
 **Fujimaru 1:**
 You seem to be in a fine mood, Saber.
 
----
  
 **Saber Lily**
 Yes. It is true that we are in enemy territory, but it is still pleasant to observe people going about their daily lives.
@@ -26,7 +25,6 @@ Yes. It is true that we are in enemy territory, but it is still pleasant to obse
 **Fujimaru 2:**
 Want to get something to eat?
 
----
  
 **Saber Lily**
 Oh, thank you.
@@ -35,8 +33,7 @@ Oh, thank you.
 **Saber Lily**
 I appreciate the thought, but for now I am content just to breathe the air here.
 
- 
-
+---
  
 **Dr. Roman**
 I see. You look so young that I forgot your royal status.
@@ -72,7 +69,6 @@ but we've all seen a different side to her...
 **Fujimaru 1:**
 You mean the "Dark Saber" in Fuyuki?
 
----
  
 **Mash**
 It's true they share physical characteristics, but they aren't the same Saber.
@@ -83,13 +79,12 @@ It's true they share physical characteristics, but they aren't the same Saber.
 **Fujimaru 2:**
 They are nothing alike.
 
----
  
 **Mash**
 You're right. Even if they're the same entity,
 she has nothing to do with that Dark Saber.
 
- 
+---
 
  
 **Saber Lily**
@@ -268,7 +263,6 @@ If I'm with you I won't give up, and I know that I can continue to fight for my 
 **Fujimaru 1:**
 Of course.
 
----
  
 **Saber Lily**
 I'm glad...
@@ -279,8 +273,6 @@ Thank you, Master.
 
 **Fujimaru 2:**
 When you're king, don't forget my rewards.
-
----
  
 **Saber Lily**
 R-Rewards, you say?
@@ -295,8 +287,7 @@ Fou!
 Oh, it seems Fou is opposed to this idea...
 I thought that a king could return favors easily...
 
- 
-
+---
  
 **Dr. Roman**
 Sorry, but we should get moving. If we stay here too long, the soldiers might come down from the gates.

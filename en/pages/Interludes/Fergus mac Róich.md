@@ -21,8 +21,7 @@ But I'm begging you. It's urgent, you see.
 
 **Fujimaru 2:**
 Yes and no?
-
----
+ 
  
 **Fergus**
 Hah hah hah. You deny and say it isn't so, but your face tells me you've given up on refusing, Master!
@@ -40,7 +39,6 @@ So now, I'd like you to just give up again. I've got an urgent problem.
 Could you hear me out?
 
  
-
 ---
  
 **Fergus**
@@ -378,8 +376,6 @@ I think it's no use.
 
 ---
  
-
----
  
 **Mash**
 Yes, I think so as well.
@@ -580,7 +576,6 @@ ISN'T. THAT. RIGHT?
 **Fujimaru 2:**
 I'm sorry, some other time!
 
----
  
 **Mash**
 Exactly!

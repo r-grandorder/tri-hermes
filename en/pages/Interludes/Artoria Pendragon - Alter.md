@@ -51,7 +51,6 @@ Come in... Doctor?
 **Fujimaru 1:**
 We can't contact him?
 
----
  
 **Mash**
 ...So it seems.
@@ -62,8 +61,6 @@ He said it was spatially unstable, but where are we&mdash;
 
 **Fujimaru 2:**
 I think Roman's slacking off?
-
----
  
 **Fou**
 Fou!
@@ -77,7 +74,7 @@ I can't even establish a connection.
 **Mash**
 The inside of the Greater Grail is like a singularity, and the connection won't be stable, he said. But where are we&mdash;
 
- 
+---
 
  
 **Saber Alter**
@@ -100,8 +97,6 @@ I'm amazed you believed in me enough to Rayshift inside the Greater Grail.
 
 **Fujimaru 1:**
 I want an explanation.
-
----
  
 **Saber Alter**
 There's no need for one.
@@ -117,13 +112,12 @@ I'm simply granting you that wish.
 **Fujimaru 2:**
 If it's what you want, Saber.
 
----
  
 **Saber Alter**
 ...I see.
 If that's how you feel, then I won't hold back.
 
- 
+--- 
 
  
 **Fou**
@@ -398,7 +392,6 @@ Communications went dead, and for a moment the Humanity Foundation value for Fuy
 **Fujimaru 1:**
 A lot happened.
 
----
  
 **Mash**
 ...It's as Senpai says.
@@ -410,12 +403,11 @@ So much has happened and it's hard to explain.
 **Fujimaru 2:**
 I'm tired and going to my room.
 
----
  
 **Fou**
 Fou, fooouu...
 
- 
+---
 
  
 **Dr. Roman**
@@ -639,7 +631,6 @@ I'll incinerate you and this world.
 **Fujimaru 1:**
 Sorry, we didn't mean to pry into your dreams...
 
----
  
 **Altera**
 ...It doesn't matter if you intended to or not.
@@ -651,7 +642,6 @@ The fact is, you're humiliating me.
 **Fujimaru 2:**
 You've got some crazy dreams.
 
----
  
 **Altera**
 ...I know.
@@ -663,7 +653,7 @@ But&mdash;that's why I can't forgive you.
 You have peeked into my inexplicable dreams.
 
  
-
+---
  
 **Altera**
 Answer me.

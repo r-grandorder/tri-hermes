@@ -18,8 +18,7 @@ If you're busy, cancel your plans!
 So the choice is "yes" or "yes?"
 
 ---
- 
----
+
 
 **Fujimaru 2:**
 You're going to make me go no matter what.
@@ -111,8 +110,7 @@ I could cut my way through anything, ghost or otherwise.
 **Fujimaru 1:**
 Appropriated?
 
----
- 
+
 ---
 
 **Fujimaru 2:**
@@ -270,7 +268,6 @@ All right, let's go. Master.
 **Fujimaru 1:**
 Yes?
 
----
  
 **Mordred**
 It's me, got a second?
@@ -281,14 +278,13 @@ It's me, got a second?
 **Fujimaru 2:**
 Mash?
 
----
  
 **Mordred**
 No, you idiot.
 It's me. ME.
 
  
-
+---
 
  
 **Mordred**
@@ -307,8 +303,7 @@ Do you think I could be a king?
 I don't know.
 
 ---
- 
----
+
 
 **Fujimaru 2:**
 I'm not sure.
@@ -407,8 +402,7 @@ Mokyukyu...
 Fou looks amused.
 
 ---
- 
----
+
 
 **Fujimaru 2:**
 Fou looks happy.
@@ -477,7 +471,6 @@ Why is this happening to me again...
 **Fujimaru 1:**
 ...Is that you, Mash?
 
----
  
 **Mash**
 Yes, it's me. Good morning, Senpai.
@@ -496,7 +489,6 @@ Yes, Fou is here, too.
 **Fujimaru 2:**
 ...Is that you, Fou?
 
----
  
 **Fou**
 Fou fooou!
@@ -506,7 +498,7 @@ Fou fooou!
 Good morning, Senpai.
 
  
-
+---
 
  
 **Mash**
@@ -754,7 +746,6 @@ Maybe she got some bad news or something...
 **Fujimaru 1:**
 Not for sure, no.
 
----
  
 **Jekyll**
 I see...
@@ -766,13 +757,13 @@ Well, then, there's nothing to be done.
 **Fujimaru 2:**
 More or less, but...
 
----
+
  
 **Jekyll**
 Oh, right, sorry. It would be rude to ask you to talk about her when she is not here.
 
  
-
+---
 
  
 **Jekyll**
@@ -812,7 +803,6 @@ Something wrong?
 **Fujimaru 1:**
 Yup, I did.
 
----
  
 **Mordred**
 Tch, I knew it... I know it's typical for Masters and Servants, but still...
@@ -823,7 +813,6 @@ Tch, I knew it... I know it's typical for Masters and Servants, but still...
 **Fujimaru 2:**
 Nope. By the way, what was the deal with that sword?
 
----
  
 **Mordred**
  
@@ -831,7 +820,7 @@ The hell you tryin' to pull here!?
 How else would you know about that!?
 
  
-
+---
 
  
 **Mordred**
@@ -886,7 +875,7 @@ Made me sick, honestly. It was like some old regrets were being shoved in my fac
 **Fujimaru 1:**
 So, are you scared to go to sleep now?
 
----
+
  
 **Mordred**
  
@@ -907,14 +896,14 @@ Anyway, that aside...
 **Fujimaru 2:**
 I'm here for you.
 
----
+
  
 **Mordred**
 ...Haha!
 Right. Course you are.
 
  
-
+---
 
  
 **Mordred**
@@ -1281,7 +1270,7 @@ Would never, ever say such a thing!
 **Fujimaru 1:**
 You sound pretty sure of that...
 
----
+
  
 **Mordred**
 Hell yeah I am!
@@ -1293,7 +1282,7 @@ I know my father, and that wasn't him!
 **Fujimaru 2:**
 But, isn't this your dream?
 
----
+
  
 **Mordred**
 ...!
@@ -1304,7 +1293,7 @@ Just shut up, Master!
 One more word, and I might just lose it...!
 
  
-
+---
 
  
 **Mordred**
@@ -1744,7 +1733,6 @@ You're up early today.
 **Fujimaru 1:**
 Morning, Mash.
 
----
  
 **Mash**
 Good morning.
@@ -1755,13 +1743,12 @@ Good morning.
 **Fujimaru 2:**
 I just wanted to check on something.
 
----
  
 **Mash**
 Oh? What's that...?
 
  
-
+---
 
  
 **Mash**
@@ -1778,7 +1765,7 @@ I wonder what's going on...?
 **Fujimaru 1:**
 Let's go find out!
 
----
+
  
 **Mash**
 Right!
@@ -1789,13 +1776,13 @@ Right!
 **Fujimaru 2:**
 I think I might have an idea...
 
----
+
  
 **Mash**
 You do? Well, there's only one way to find out for sure. Let's go see!
 
  
-
+---
 
  
 **Mordred**

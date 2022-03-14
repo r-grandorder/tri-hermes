@@ -434,8 +434,6 @@ I'm sure it's nothing personal.
 
 **Fujimaru 1:**
 Thanks!
-
----
  
 **Hassan of the Serenity**
 I-it was nothing, really.
@@ -447,13 +445,12 @@ I just happened to be in the right place at the right time.
 **Fujimaru 2:**
 I see. Arthur, huh...
 
----
  
 **Hassan of the Serenity**
 Yes. I saw him in the underground library.
 
  
-
+---
  
 **Hassan of the Serenity**
 I just thought you should know.
@@ -529,8 +526,6 @@ What do you think?
 
 **Fujimaru 1:**
 Don't change the subject!
-
----
  
 **Cú Chulainn**
 You're right. My bad.
@@ -540,14 +535,12 @@ You're right. My bad.
 
 **Fujimaru 2:**
 Is this one of those things where you know but can't say?
-
----
  
 **Cú Chulainn**
 Yeah, pretty much.
 You're a sharp one, aren't you, Master?
 
- 
+---
 
  
 **Cú Chulainn**
@@ -613,8 +606,6 @@ Said something like “This errand is hardly a matter worthy of my time!” Sorr
 
 **Fujimaru 1:**
 Oh yes. All too well...
-
----
  
 **Arash**
 Haha, I knew you would. Anyway, just 'cause he's not here now doesn't mean he might not show up later.
@@ -625,12 +616,11 @@ Haha, I knew you would. Anyway, just 'cause he's not here now doesn't mean he mi
 **Fujimaru 2:**
 That's okay. Thanks for trying, Arash.
 
----
  
 **Arash**
 No problem!
 
- 
+---
 
  
 **Mordred**
@@ -737,8 +727,6 @@ Right. Sorry to cut you guys off, but it looks like the man of the hour's finall
 
 **Fujimaru 1:**
 I thought having them around would make it easier to talk.
-
----
  
 **Arthur**
 I see.
@@ -750,13 +738,12 @@ You may be right about that.
 **Fujimaru 2:**
 Would you rather it was just us?
 
----
  
 **Arthur**
 I'm not sure.
 I might end up dodging your questions if it was.
 
- 
+---
 
  
 **Cú Chulainn**

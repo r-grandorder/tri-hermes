@@ -554,20 +554,19 @@ It seems our battle ended up destroying the machine...
 **Fujimaru 1:**
 War! What is it good for? Absolutely nothing...
 
----
  
 ---
 
 **Fujimaru 2:**
 Too bad we didn't get to hear you sing.
 
----
+
  
 **Suzuka Gozen**
 Y-yeah, that sucks. I wish I could've shown you guys what real singing sounds like.
 
  
-
+---
 
  
 **Suzuka Gozen**
@@ -665,7 +664,7 @@ I...guess you might be right.
 **Fujimaru 2:**
 Wouldn't a naive, innocent girl have her own appeal?
 
----
+
  
 **Suzuka Gozen**
 Um, no. Obviously.
@@ -679,7 +678,7 @@ I mean, you HAVE heard about the whole, like, missed connection thing, right? Yo
 So I can't just sit in my tower waiting for Prince Charming or whatever! I gotta go on the ATTACK!
 
  
-
+---
 
  
 **Suzuka Gozen**
@@ -1242,7 +1241,7 @@ But...that doesn't change the fact that I'm a high school girl at heart. That's 
 **Fujimaru 1:**
 ...Why did you pick that of all things?
 
----
+
  
 **Suzuka Gozen**
 It's not about a choice!
@@ -1259,7 +1258,7 @@ If you don't mind, would you please tell us why?
 **Fujimaru 2:**
 Got it. All that matters is that you're cute.
 
----
+
  
 **Suzuka Gozen**
 Aha, so you DO get it, Master.
@@ -1269,7 +1268,7 @@ Aha, so you DO get it, Master.
 Still, I'm curious why you chose this of all things to begin with.
 
  
-
+---
 
  
 **Suzuka Gozen**

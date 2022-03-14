@@ -15,8 +15,6 @@ but I don't do that. Do you know why?
 
 **Fujimaru 1:**
 (shake head)
-
----
  
 **Mash**
 Right Senpai, I don't understand his ideas either.
@@ -31,7 +29,6 @@ Fou...
 **Fujimaru 2:**
 (nod)
 
----
  
 **Mash**
 Senpai, you can understand the idea behind his words.
@@ -41,7 +38,7 @@ But I...
 **Fou**
 Fou...
 
- 
+---
 
  
 **Caesar**

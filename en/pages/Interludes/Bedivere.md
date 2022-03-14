@@ -72,8 +72,6 @@ As such, frequent checkups are of critical importance. Understood?
 
 **Fujimaru 1:**
 Okay!
-
----
  
 **Bedivere**
 Very good.
@@ -85,13 +83,12 @@ A most excellent response.
 **Fujimaru 2:**
 Thanks for looking out for me.
 
----
  
 **Bedivere**
 ...Your words humble me.
 
  
-
+---
  
 **Bedivere**
 Permit me to remind you once more:
@@ -195,8 +192,6 @@ But please, keep that to yourself...
 
 **Fujimaru 1:**
 I will!
-
----
  
 **Bedivere**
 Thank you very much.
@@ -206,14 +201,12 @@ Thank you very much.
 
 **Fujimaru 2:**
 Where is it? The Rec room?
-
----
  
 **Bedivere**
 Haha.
 Is that where you think it is?
 
- 
+---
 
  
 **Bedivere**
@@ -314,7 +307,6 @@ Sir Tristan uses his Failnaught so skillfully to catch a great many fish.
 **Fujimaru 1:**
 Darn, we don't have fishing gear.
 
----
  
 **Bedivere**
 Ah, but we do.
@@ -330,14 +322,13 @@ In that much, I planned ahead. I am excited to provide you with the best fishing
 **Fujimaru 2:**
 Don't we need to have entered that data beforehand?
 
----
  
 **Bedivere**
 Do not fret.
 I requested Miss Da Vinci's help on that front.
 
  
-
+---
  
 **Bedivere**
 I believe I open up the multipurpose window...
@@ -369,7 +360,6 @@ The bait is already on the hook, so please cast it out to sea with all your migh
 **Fujimaru 1:**
 Hi-yah!
 
----
  
 **Bedivere**
 Wonderful.
@@ -381,7 +371,6 @@ Excellent, Fujimaru.
 **Fujimaru 2:**
 Arraaaghh!
 
----
  
 **Bedivere**
 Such bold and brazen movement...!
@@ -393,7 +382,7 @@ Wonderful!
 Have you by chance tried fishing before?
 
  
-
+---
  
 **Bedivere**
 And now...the main event.
@@ -750,7 +739,6 @@ It is a place that helps me renew my resolve and reinvigorate my soul. So it may
 **Fujimaru 1:**
 Bedivere?
 
----
  
 **Bedivere**
 ...
@@ -761,13 +749,12 @@ Bedivere?
 **Fujimaru 2:**
 Care to share?
 
----
  
 **Bedivere**
 ...Yes, Master.
 
  
-
+---
  
 **Bedivere**
 Our Britain was a nation under constant threat of attack, never peaceful or stable.
@@ -879,8 +866,6 @@ I shall protect you till the very end.
 
 **Fujimaru 1:**
 Thank you, Sir Bedivere.
-
----
  
 **Bedivere**
 ...Yes, Fujimaru.

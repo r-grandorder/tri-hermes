@@ -12,7 +12,6 @@ Is now a good time?
 **Fujimaru 1:**
 I don't mind.
 
----
  
 ---
 
@@ -59,7 +58,6 @@ Although, there is one part which was untouched by its blood. My back.
 **Fujimaru 1:**
 Why wasn't it touched?
 
----
  
 ---
 
@@ -259,8 +257,6 @@ It's because of that fear, we humans desperately fought the dragons.
 
 **Fujimaru 1:**
 Weren't you afraid?
-
----
  
 ---
 
@@ -311,7 +307,6 @@ My skin which should have been badly burned was hardly hurt. ...It was strange, 
 **Fujimaru 1:**
 Were you happy?
 
----
  
 **Siegfried**
 Of course. The dragon was slain and I thought I could devote my entire life to realizing that.
@@ -322,14 +317,13 @@ Of course. The dragon was slain and I thought I could devote my entire life to r
 **Fujimaru 2:**
 Was it fun?
 
----
  
 **Siegfried**
 ...Yes, it was fun.
 The moment I realized it, I gave an uncharacteristic shout.
 
  
-
+---
 
  
 **Siegfried**
@@ -792,7 +786,6 @@ to wish for that?
 **Fujimaru 1:**
 Not at all.
 
----
  
 ---
 

@@ -26,6 +26,7 @@ this looks like a tag for a writ of seizure.
 
 **Fujimaru 1:**
 Huh? You're right.
+
 ---
 
 **Fujimaru 2:**
@@ -33,8 +34,6 @@ The latch for the item carrier is unlocked.
 
 ---
  
-
----
  
 **Gawain**
 There appears to be a note.
@@ -69,6 +68,7 @@ Is what this flier says true?
 
 **Fujimaru 1:**
 Now you mention it, he did give me a Proof of Hero.
+
 ---
 
 **Fujimaru 2:**
@@ -76,8 +76,6 @@ Honestly, it kinda got pushed on me...
 
 ---
  
-
----
  
 **Gawain**
 Why didn't you refuse...
@@ -93,15 +91,14 @@ When did this happen, Fujimaru?
 
 **Fujimaru 1:**
 About two months ago.
+
 ---
 
 **Fujimaru 2:**
 Don't remember...it was so long ago.
 
 ---
- 
 
----
  
 **Gawain**
 This course of action is so obviously corrupt... Simply absconding with the goods without so much as a letter of intent or warning...
@@ -111,6 +108,7 @@ This course of action is so obviously corrupt... Simply absconding with the good
 
 **Fujimaru 1:**
 The work of a true pro&ndash;Er, habitual criminal.
+
 ---
 
 **Fujimaru 2:**
@@ -119,7 +117,6 @@ But I didn't have much to take in the first place.
 ---
  
 
----
  
 **Gawain**
 Not much to take?
@@ -173,8 +170,6 @@ to one's lord is the hallmark of a great knight.
 
 **Fujimaru 2:**
 What a well-rounded set of materials.
-
----
  
 **Gawain**
 Of course. I thought materials like Evil Bones were unnecessary, but Gareth insisted that you would love them...
@@ -232,6 +227,7 @@ Gwaaaaaahhh!!!
 
 **Fujimaru 1:**
 Caesar!?
+
 ---
 
 **Fujimaru 2:**
@@ -239,8 +235,6 @@ Wasn't that a bit...much for him?
 
 ---
  
-
----
  
 **Gawain**
 Please do not fret. I collected your materials before I burnt that blackguard to cinders.
@@ -259,15 +253,14 @@ That isn't right...
 
 **Fujimaru 1:**
 Eight million QP...?
+
 ---
 
 **Fujimaru 2:**
 Does that mean he's already sold everything?
 
 ---
- 
 
----
  
 **Gawain**
 I see...so this QP is the proceeds...!
@@ -292,6 +285,7 @@ young leader of the Britain Group.
 
 **Fujimaru 1:**
 I thought you were a general?
+
 ---
 
 **Fujimaru 2:**
@@ -299,8 +293,6 @@ Wait, you're what now? Uh, since when? Why?
 
 ---
  
-
----
  
 **Caesar**
 Heh heh... I never imagined I of all people could be so possessed by such low greed...
@@ -314,6 +306,7 @@ Perhaps I erred in trying to go big in order not to be outdone by the David Cred
 
 **Fujimaru 1:**
 David Credit Union!?
+
 ---
 
 **Fujimaru 2:**
@@ -321,8 +314,6 @@ You'll throw Chaldea's economy into chaos!
 
 ---
  
-
----
  
 **Gawain**
 So Caesar Holdings was also a victim of greed...but that doesn't matter.
@@ -362,8 +353,6 @@ I have also heard that there was a rather uninhibited shogun in Japan who concea
 
 **Fujimaru 2:**
 What about the David Credit Union?
-
----
  
 **Gawain**
 We will raid them in due course.
@@ -474,8 +463,6 @@ We're taking the materials.
 
 ---
  
-
----
  
 **Gawain**
 Yes, let's collect the materials, Master. Let's see, two Octuplet Crystals... We're still missing two.
@@ -509,8 +496,6 @@ Y-yeah. It's not about showing off or anything like that... But I thought I coul
 
 **Fujimaru 2:**
 Come on, a king wouldn't need a medal to prove themselves...
-
----
  
 **Mordred**
 You're right! Come to think of it,
@@ -575,15 +560,14 @@ Exactly... Ungh... It did bring my Golden Rule back to its peak when I was in my
 
 **Fujimaru 1:**
 So that's why you look so pale...
+
 ---
 
 **Fujimaru 2:**
 That sounds...not good...
 
 ---
- 
 
----
  
 **Gawain**
 If the material was used in a dish made by a loving wife for her husband, then I have no cause for anger.
@@ -629,6 +613,7 @@ Ah, that carefree smile of yours... I am quite troubled...
 
 **Fujimaru 1:**
 Yeah, even if you're a pretend couple!
+
 ---
 
 **Fujimaru 2:**
@@ -636,8 +621,6 @@ Yeah, even if you're a pretend couple!
 
 ---
  
-
----
 
 **--BATTLE--**
 
@@ -674,8 +657,6 @@ And so my Galatine became the instrument of their punishment!
 
 **Fujimaru 2:**
 You've got talent as a collections agent.
-
----
  
 **Gawain**
 Hah! This was something of a first for me, but I am glad it went well.
@@ -688,8 +669,6 @@ I heed all cries for aid. A knight of my position is needed even outside of batt
 **Gawain**
 In short, I am a jack-of-all-trades.
 If you, Master, need anything, please let me know.
-
- 
 
 ---
  

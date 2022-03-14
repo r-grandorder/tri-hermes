@@ -110,7 +110,7 @@ In fact, he just activated the simulator and set it to a completely random time 
 **Fujimaru 1:**
 Maybe we should just ask him what's up.
 
----
+
  
 ---
 
@@ -405,7 +405,7 @@ I'll look into this, but for now you're just going to have to take them out! Sor
 **Fujimaru 1:**
 Nothing we can do now but fight!
 
----
+
  
 **Chiyome**
 Yes, Master! I shall cut a path through them!
@@ -416,13 +416,13 @@ Yes, Master! I shall cut a path through them!
 **Fujimaru 2:**
 Prepare for battle!
 
----
+
  
 **Tomoe Gozen**
 Yes, Master! I'm ready!
 
  
-
+---
 
 
 **--BATTLE--**
@@ -483,7 +483,7 @@ And I have located Lord Tajima-no-kami, Master!
 **Fujimaru 1:**
 Way to go, Chiyome!
 
----
+
  
 **Chiyome**
 Thank you, Master.
@@ -494,7 +494,7 @@ Thank you, Master.
 **Fujimaru 2:**
 Great job!
 
----
+
  
 **Chiyome**
 Hehe...
@@ -504,7 +504,7 @@ Hehe...
 I mean, all in a day's work!
 
  
-
+---
 
  
 **Tomoe Gozen**

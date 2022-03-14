@@ -46,7 +46,7 @@
 
 **Fergus Mac Róich**
 
-* [Interlude](Interludes/Fergus Mac Roich.md)
+* [Interlude](Interludes/Fergus Mac Róich.md)
 
 **Mordred**
 

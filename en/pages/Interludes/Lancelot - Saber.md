@@ -139,8 +139,6 @@ London?
 
 **Fujimaru 1:**
 Okay, why'd you drag me here!?
-
----
  
 **Lancelot**
 My apologies, Master.
@@ -151,8 +149,6 @@ I thought you knew why we were here.
 
 **Fujimaru 2:**
 What the hell, Shakespeare!?
-
----
  
 **Shakespeare**
 Hahaha!
@@ -162,7 +158,7 @@ Hahaha!
 Oh, nothing, nothing. I just thought it might be amusing to bring the knight to this evil version of the city, is all!
 
  
-
+---
  
 **Lancelot**
 Anyway, Shakespeare.
@@ -209,8 +205,6 @@ I know this is rather obvious, but this place is very different from the Britain
 
 **Fujimaru 1:**
 Mordred didn't seem to mind.
-
----
  
 **Lancelot**
 Well, that is Mordred. She was never the most refined among us, and could be downright uncouth about things like this.
@@ -226,7 +220,6 @@ trying to scare others out of her territory.
 **Fujimaru 2:**
 Well, yeah. It's been about a thousand years.
 
----
  
 **Lancelot**
 I see humanity has come a long way to be able to build so many structures of this sort in this benighted land.
@@ -237,7 +230,7 @@ I understand progress is progress,
 but it is still somewhat jarring.
 
  
-
+---
  
 **Lancelot**
 Yes, this place was in constant strife. It had no chance to thrive, being ever ablaze in the fires of war.
@@ -533,8 +526,6 @@ Ah, 'tis passing strange... These dreams of mine are no sooner formed than forgo
 
 **Fujimaru 1:**
 Good eye!
-
----
  
 **Shakespeare**
 Thank you, Master.
@@ -556,8 +547,6 @@ In any case, I will accept your praise with pride!
 
 **Fujimaru 2:**
 Lancelot's the best knight!
-
----
  
 **Lancelot**
 Master...
@@ -572,7 +561,7 @@ No matter the dire situation I face,
 those words will give me strength.
 
  
-
+---
  
 **Shakespeare**
 I must be honest. To think that the most capable knight is FRENCH is more than a little troubling.

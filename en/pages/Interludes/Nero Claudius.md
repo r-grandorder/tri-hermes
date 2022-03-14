@@ -24,7 +24,6 @@ I look forward to working with you Nero.
 **Fujimaru 1:**
 I'm looking forward to it as well.
 
----
  
 **Nero**
 Umu! But now I'm your Servant, not your Emperor.
@@ -36,7 +35,6 @@ From now on call me "Red Saber!"
 **Fujimaru 2:**
 Even as a Heroic Spirit, you're still short.
 
----
  
 **Nero**
 F-Fool! I am not "short!" This is my perfect form!
@@ -48,7 +46,7 @@ I have no problem with my height.
 I don't feel bitter about my height! Not one bit!
 
  
-
+---
 
  
 **Nero**
@@ -82,8 +80,6 @@ We'll arrive in no time!
 
 **Fujimaru 1:**
 &mdash;Hmm?
-
----
  
 ---
 
@@ -141,7 +137,6 @@ They use that name to refer to these waters, but don't worry about it. On board 
 **Fujimaru 1:**
 Why?
 
----
  
 ---
 
@@ -244,7 +239,6 @@ It looks like a penguin to me.
 **Fujimaru 1:**
 Looks like someone beat us here.
 
----
  
 ---
 
@@ -287,7 +281,6 @@ I don't see why an emperor would really need any treasure.
 **Fujimaru 1:**
 More capital?
 
----
  
 ---
 
@@ -343,7 +336,6 @@ Let's just give her a random answer.)
 **Fujimaru 1:**
 O-Of course I understand.
 
----
  
 ---
 
@@ -412,7 +404,6 @@ the more real the image becomes for Red Saber.
 **Fujimaru 1:**
 I think it's already real enough, but...
 
----
  
 **Nero**
 Haha, don't compliment me now, Fujimaru.
@@ -424,13 +415,12 @@ You're so cute. Compliment me later.
 **Fujimaru 2:**
 You're going to wear yourself out.
 
----
  
 **Nero**
 Dummy! Pushing yourself and pretending is the same thing! What's the point of not trying your best?
 
  
-
+---
 
  
 **Nero**
@@ -549,7 +539,6 @@ I'll show you how mankind first started using concrete!
 **Fujimaru 1:**
 In what pose will you build the statue?
 
----
  
 **Nero**
 Hm...I have to think about that...
@@ -560,13 +549,13 @@ Hm...I have to think about that...
 **Fujimaru 2:**
 I want to build a statue of Mash, too.
 
----
+
  
 **Mash**
 N-No, that's quite okay, Senpai!
 
  
-
+---
 
  
 **Nero**
@@ -659,7 +648,7 @@ the Nero at Septem became this Nero, unfortunately.
 **Fujimaru 1:**
 You didn't have to say "unfortunately,"  Mash.
 
----
+
  
 **Mash**
 ...My apologies.
@@ -684,7 +673,7 @@ You mourned me, even though I was called a tyrant.
 **Fujimaru 2:**
 Is that bad?
 
----
+
  
 **Mash**
 Yes, sorry about that Emperor Nero.
@@ -716,7 +705,7 @@ I'll forgive what you said with that smile of yours.
 You can accompany me to a bath later as an apology!
 
  
-
+---
 
  
 **Nero**

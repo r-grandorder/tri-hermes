@@ -89,7 +89,6 @@ Hey Fujimaru, what do I look like to you?
 **Fujimaru 1:**
 A woman, I guess?
 
----
  
 **d'Eon**
 Hehe...
@@ -101,14 +100,13 @@ So that's how I look.
 **Fujimaru 2:**
 A man, I guess?
 
----
  
 **d'Eon**
 Hmm...
 So that's how I look.
 
  
-
+---
  
 **d'Eon**
 I'm the Knight of the White Lily, sworn to defend France's royal family. Gender means nothing to me.

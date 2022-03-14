@@ -14,25 +14,20 @@ I was waiting for you to come Fujimaru.
 
 **Fujimaru 1:**
 Where are we now?
-
----
  
 **Altera**
 I don't know exactly.
-
  
 ---
 
 **Fujimaru 2:**
 ...Am I, in a dream?
-
----
  
 **Altera**
 Yes.
 You have a good intuition, Master.
 
- 
+---
 
  
 **Altera**

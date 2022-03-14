@@ -648,7 +648,6 @@ Well, I don't buy it. Guys like that always end up having some kind of weird fet
 **Fujimaru 2:**
 So what if there is?
 
----
  
 **Blackbeard**
 Well, if there's something we're not seeing, I wanna see it, dammit!
@@ -657,7 +656,6 @@ Well, if there's something we're not seeing, I wanna see it, dammit!
 **Blackbeard**
 Besides, it's just human nature to want to find fault with anyone who seems too good to be true!
 
- 
 
 ---
  
@@ -770,6 +768,7 @@ Um... Master? Could we please make that...man stop?
 
 **Fujimaru 1:**
 Yeah, I guess we should. (That circuit sounds like seriously bad news)
+
 ---
 
 **Fujimaru 2:**
@@ -777,7 +776,6 @@ True, this has definitely gone on long enough.
 
 ---
 
----
  
 **Blackbeard**
 Oh yeah? Then let's take this outside! I know I might not look it, but I'm still an ultra badass pirate!
@@ -832,7 +830,6 @@ We hope you'll continue to enjoy Blackbeard brand products for many years to com
 **Fujimaru 2:**
 You mean you've still got crew members!?
 
----
  
 **Blackbeard**
 Hehehe. You won't find the sad sack Blackbeard who used to lie on the ground weeping tears of loneliness here anymore.
@@ -870,6 +867,7 @@ I trust you know of what I speak?
 
 **Fujimaru 1:**
 (I think I can already see where this is going...)
+
 ---
 
 **Fujimaru 2:**
@@ -877,7 +875,6 @@ I trust you know of what I speak?
 
 ---
 
----
  
 **Blackbeard**
 All right, let's do this thing! By the way, tactician,
@@ -953,7 +950,6 @@ I do hope he'll be okay.
 **Fujimaru 2:**
 It was kind of refreshing seeing you perturbed for once, though.
 
----
  
 **Prince of Lan Ling**
 You know, you can be kind of mean-spirited sometimes, Master.

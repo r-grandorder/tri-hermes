@@ -146,7 +146,6 @@ So, to make that wish a reality, I've created a situation where I am indispensab
 **Fujimaru 1:**
 Um...?
 
----
  
 **Nero Bride**
 Don't you understand!? I am going to be the ultimate Servant under your command!
@@ -161,14 +160,14 @@ That's right! I hereby declare it!
 **Fujimaru 2:**
 You're already indispensable, Nero.
 
----
+
  
 **Nero Bride**
 Umu! I knew it. I knew it!
 Why you, stating the obvious! Yooou!
 
  
-
+---
 
  
 **Nero Bride**
@@ -223,7 +222,7 @@ Well, as you can see, this cavern is a den of wicked beasts! While I am strength
 **Fujimaru 1:**
 Leave it to me.
 
----
+
  
 **Nero Bride**
 Umu, I'm counting on you, Master!
@@ -234,7 +233,7 @@ Umu, I'm counting on you, Master!
 **Fujimaru 2:**
 We can't fight together?
 
----
+
  
 **Nero Bride**
 Urgh. Don't give me those abandoned puppy dog eyes.
@@ -245,7 +244,7 @@ I want to fight with you as well!
 But the task of reforging this sword must be mine alone. I must refrain from battling alongside you.
 
  
-
+---
 
  
 **Monster**
