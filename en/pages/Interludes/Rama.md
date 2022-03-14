@@ -47,7 +47,7 @@ No, Master is always kind to me.
  
 **Rama**
 Master treats me not as a king,
-not as {♂ his /♀️ her} retainer, but as a friend.
+not as [♂ his /♀️ her] retainer, but as a friend.
 
  
 **Rama**

@@ -175,7 +175,7 @@ Well...umm...I guess I can't refuse...
  
 **Suzuka Gozen**
 Haha! It's not every day you get to go on a walk with two cute high schoolers hanging all over you.
-Isn't Fujimaru like the luckiest {♂ guy /♀️ girl} out there?
+Isn't Fujimaru like the luckiest [♂ guy /♀️ girl] out there?
 
  
 **Mash**

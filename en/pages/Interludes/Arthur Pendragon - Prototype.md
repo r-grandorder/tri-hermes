@@ -760,7 +760,7 @@ I might end up dodging your questions if it was.
 
  
 **Cú Chulainn**
-Just so you know, we're not here to make trouble for you or anything. Not unless Master gives the okay, and we all know that's not the sort of {♂ guy he /♀️ gal she} is.
+Just so you know, we're not here to make trouble for you or anything. Not unless Master gives the okay, and we all know that's not the sort of [♂ guy he /♀️ gal she] is.
 
  
 **Cú Chulainn**
@@ -1216,7 +1216,7 @@ he always kept one eye on Master.
 
  
 **Arash**
-He must've wanted to be able to act at a moment's notice in case it looked like {♂ he /♀️ she} might be in any danger.
+He must've wanted to be able to act at a moment's notice in case it looked like [♂ he /♀️ she] might be in any danger.
 
  
 **Arash**
@@ -1272,7 +1272,7 @@ but whatever it is, it's not what I meant!
 
  
 **Arthur**
-All I'm asking is that Master let me fight by {♂ his /♀️ her} side, just this once!
+All I'm asking is that Master let me fight by [♂ his /♀️ her] side, just this once!
 
  
 ---

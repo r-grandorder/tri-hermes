@@ -44,6 +44,10 @@
 
 * [Interlude](Interludes/Chevalier d'Eon.md)
 
+**Fergus Mac Róich**
+
+* [Interlude](Interludes/Fergus Mac Roich.md)
+
 **Mordred**
 
 * [Interlude](Interludes/Mordred.md)
@@ -59,6 +63,10 @@
 **Lancelot (Saber)**
 
 * [Interlude](Interludes/Lancelot - Saber.md)
+
+**Gawain**
+
+* [Interlude](Interludes/Gawain.md)
 
 **Bedivere**
 
@@ -79,6 +87,10 @@
 **Sigurd**
 
 * [Interlude](Interludes/Sigurd.md)
+
+**Lanling Wang**
+
+* [Interlude](Interludes/Lanling Wang.md)
 
 **Beni-enma**
 
