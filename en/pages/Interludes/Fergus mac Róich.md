@@ -369,6 +369,7 @@ Senpai, we should make a bet.
 
 **Fujimaru 1:**
 MUDA MUDA MUDA.
+
 ---
 
 **Fujimaru 2:**
