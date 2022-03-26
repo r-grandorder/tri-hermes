@@ -20421,7 +20421,8 @@ We need to get [♂ him /♀️ her] to the doctor immediately!
 Doctor.
 
 **Mash:**
-Yes, Dr. ![berserk1](https://i.imgur.com/XAqlQYL.png)!
+Yes, Dr. ![berserk1](https://i.imgur.com/XAqlQYL.png) !
+
 Ophelia, would you cast a sedative spell on [♂ him /♀️ her]?
 
 **Rayshift-Compatible Person:**
@@ -20527,8 +20528,10 @@ Doctor. Doctor! I am sorry to bother you
 on your break, but this is an emergency!
 
 **Doctor?:**
-![berserk1](https://i.imgur.com/XAqlQYL.png).
-![berserk2](https://i.imgur.com/7VYgcEB.png).
+
+![berserk1](https://i.imgur.com/XAqlQYL.png) .
+
+![berserk2](https://i.imgur.com/7VYgcEB.png) .
 
 **Doctor?:**
 ![berserk2](https://i.imgur.com/7VYgcEB.png), ![berserk1](https://i.imgur.com/XAqlQYL.png).

@@ -29,8 +29,8 @@
 * [Cosmos in the Lostbelt 3.5: Ooku](Lostbelt/ooku.md)
 * [Cosmos in the Lostbelt 4: Yugakshetra](Lostbelt/yugakshetra.md)
 * Cosmos in the Lostbelt 4.5: Imaginary Scramble ~ Formatting WiP 
-* [Cosmos in the Lostbelt 5.1: Atlantis](Lostbelt/atlantis.md) ~ Branching Issues, Fix soon
-* Cosmos in the Lostbelt 5.2: Olympus ~ Formatting WiP
+* [Cosmos in the Lostbelt 5.1: Atlantis](Lostbelt/atlantis.md)
+* [Cosmos in the Lostbelt 5.2: Olympus](Lostbelt/olympus.md)
 * [Cosmos in the Lostbelt 5.5: Heiankyo](Lostbelt/heiankyo.md) ~ TL and Formatting WiP
 * [Cosmos in the Lostbelt 6: Avalon le Fae Part 1](Lostbelt/avalon1.md)
 * [Cosmos in the Lostbelt 6: Avalon le Fae Part 2](Lostbelt/avalon2.md)

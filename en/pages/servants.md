@@ -209,6 +209,10 @@
 
 * [Interlude](Interludes/Musashibou Benkei.md)
 
+**Leonidas I**
+
+* [Interlude](Interludes/Leonidas I.md)
+
 **Cú Chulainn - Prototype**
 
 * [Interlude](Interludes/Cú Chulainn - Prototype.md)
@@ -295,7 +299,7 @@
 
 **Romulus-Quirinus**
 
-* [Interlude](Interludes/Romulus-Quirinus.md)
+* [Interlude](https://redd.it/khpyvj) ~ To be formatted
 
 ## Rider
 
@@ -369,7 +373,7 @@
 
 **Reines - Sima Yi**
 
-* [Interlude](Interludes/Reines - Sima Yi.md)
+* [Interlude](https://redd.it/hkvs18) ~ To be formatted
 
 ## Caster
 
@@ -506,6 +510,10 @@
 **Mata Hari**
 
 * [Interlude](Interludes/Mata Hari.md)
+
+**Carmilla**
+
+* [Interlude](Interludes/Carmilla.md)
 
 **Jack the Ripper**
 
