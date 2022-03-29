@@ -9,7 +9,7 @@ Sei Shounagon, lady writer of the Heian Era.
 I first met her after she had already *quit being Sei Shounagon*. 
 She gave away her title, Sei Shounagon, and her magnum opus, The Pillow Book, to allow her deceased empress to rest in peace. 
 
-**Nagiko** should have nothing left in her, but she still could drive away a shadow of herself, born from misinterpretation. And then... 
+**Nagiko:** should have nothing left in her, but she still could drive away a shadow of herself, born from misinterpretation. And then... 
 she gained a form of closure, and a modest bond. 
 
 She rushed back to the Throne, promising we would meet again. And now she's here in Chaldea.
@@ -318,7 +318,7 @@ Nothing, really. And I never had a childhood, so you have nothing to worry about
 Oh, you could tell? It's not anything specific. 
 
 **Mephistopheles:**
-Ta-dah! Here's jiang! This soy you see in my hands is an alluring product obtained through routes I'm not allowed to disclose! Believe it or not, one bite in the morning can keep you awake the whole day, and one bite in the evening can make you sleep the whole night! It can heal fatigue, remove stress, and induce poisoning! And it comes in the form of the most mystic chocolate! According to the package, it's still a **prototype model**, not guaranteed to be properly digestible!
+Ta-dah! Here's jiang! This soy you see in my hands is an alluring product obtained through routes I'm not allowed to disclose! Believe it or not, one bite in the morning can keep you awake the whole day, and one bite in the evening can make you sleep the whole night! It can heal fatigue, remove stress, and induce poisoning! And it comes in the form of the most mystic chocolate! According to the package, it's still a **prototype model:**, not guaranteed to be properly digestible!
 
 **Sei Shounagon:**
 Woohoo, you rock, Mephy! I love chocolate. It's vaguely nostalgic, though I don't what it takes me back to. 
@@ -521,7 +521,7 @@ Rest assured, Rica! I'll make sure that in the *next one* will stick to normally
 ... Next one?
 
 **Sei Shounagon:**
-A more dignified ***tako-tea***, with just the three of us... Rica, Kaorucchi, and me! Just 3 people isn't a loud crowd, so it'd be much better for you, Rica! Wahaha! 
+A more dignified ***tako-tea*:**, with just the three of us... Rica, Kaorucchi, and me! Just 3 people isn't a loud crowd, so it'd be much better for you, Rica! Wahaha! 
 
 **Mandricardo:**
 (... I don't think that I'll make that much of difference, with the loudest one still with us...)

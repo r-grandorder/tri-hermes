@@ -37,15 +37,15 @@ It felt like a bottomless chasm...just waiting to swallow me whole...
 It felt damp...
 
  
-**???**
+**???:**
 How boring...
 
  
-**???**
+**???:**
 Ah, now it's crying out saying it can wait no longer. My hair...my evil...is shamelessly driveling...
 
  
-**???**
+**???:**
 If you do not wake up soon,
 I may really eat you...
 
@@ -68,7 +68,7 @@ I may really eat you...
 
 ---
  
-**Gorgon**
+**Gorgon:**
 ...Hmph. So you have awoken.
 That was a close call for you.
 
@@ -87,15 +87,15 @@ There's a snake chewing on my finger!?
 
 ---
  
-**Gorgon**
+**Gorgon:**
 If you're disappointed that I spared your life rather than relieved...
 
  
-**Gorgon**
+**Gorgon:**
 ...then tell me that you lament having missed the opportunity to merge with me and melt into sweet oblivion.
 
  
-**Gorgon**
+**Gorgon:**
 It's not too late to speak up.
 Don't you fret. I am always hungry.
 
@@ -114,11 +114,11 @@ Oh, uh, thanks, but I'm...fine...
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Mmm. What...is this place?
 
  
-**Gorgon**
+**Gorgon:**
 I just found myself here with you sleeping beside me. You're my Master. Do you know what is happening?
 
  
@@ -136,11 +136,11 @@ Probably a dream, or your unconscious or something...
 
 ---
  
-**Gorgon**
+**Gorgon:**
 ...? What do you mean? Explain more in detail.
 
  
-**Gorgon**
+**Gorgon:**
 Hehe...hahahaha!
 A dream. A dream? Of mine!? Oh you ARE funny...
 
@@ -154,40 +154,40 @@ That's...funny?
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Of course it is. Look around you.
 See this cold, empty world.
 
  
-**Gorgon**
+**Gorgon:**
 It's so dark... Not a mote of light to be seen,
 nor a sign of life anywhere.
 
  
-**Gorgon**
+**Gorgon:**
 Your lungs are filled with dark and ominous air.
 What dread sights you can see are most sinister.
 
  
-**Gorgon**
+**Gorgon:**
 The cold floor is damp, like a demon's entrails,
 and eagerly awaits you to collapse and die...
 
  
-**Gorgon**
+**Gorgon:**
 Its hideous walls stifle you,
 waiting to close around you like a coffin.
 
  
-**Gorgon**
+**Gorgon:**
 There is nothing at all good here. A true nightmare for any human. A being of pure despair and evil...that is what I am.
 
  
-**Gorgon**
+**Gorgon:**
 Ah... This place is a true reflection of my nature...utterly monstrous!
 
  
-**Gorgon**
+**Gorgon:**
 I certainly could not argue if you said this was a reflection of who I am within. All I can do is laugh at this! Hahahaha!
 
  
@@ -205,29 +205,29 @@ Maybe there's a field of flowers over there...
 
 ---
  
-**Gorgon**
+**Gorgon:**
 ... I've always wondered.
 What do you think of me, truly?
 
  
-**Gorgon**
+**Gorgon:**
 Now more than ever, you fail to understand my nature, which makes this a good opportunity to teach you.
 
  
-**Gorgon**
+**Gorgon:**
 I am...evil. That is all.
 
  
-**Gorgon**
+**Gorgon:**
 The third sister of a certain family, destined to become a monster. That is all I am.
 
  
-**Gorgon**
+**Gorgon:**
 As my power goes beyond any mere common evil,
 some may even call me the mother of Demonic Beasts.
 
  
-**Gorgon**
+**Gorgon:**
 Yet you do not fear me... Why?
 
  
@@ -245,24 +245,24 @@ You seem to understand what I say...
 
 ---
  
-**Gorgon**
+**Gorgon:**
 ...If communication is all you require, your bar is quite...low.
 
  
-**Gorgon**
+**Gorgon:**
 And even that is only possible because, at this moment, I exist in a state between my forms as a goddess and monster.
 
  
-**Gorgon**
+**Gorgon:**
 I honestly do not understand why I was summoned in this state...
 
  
-**Gorgon**
+**Gorgon:**
 Let me make myself clear. I am not a goddess.
 I am a monster. I am a divinity who turned evil.
 
  
-**Gorgon**
+**Gorgon:**
 That's why you&ndash;
 
  
@@ -280,11 +280,11 @@ Something's coming!
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Hah... I am the mother of Demonic Beasts. I devour even other evils. It would not surprise me to know there are a few lurking within me.
 
  
-**Gorgon**
+**Gorgon:**
 At least it may be amusing to watch whatever hungry beasts lurk here devour you.
 
  
@@ -297,35 +297,35 @@ I'd appreciate it if you'd help me out...
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Shut up. I don't care what you want.
 
  
-**Gorgon**
+**Gorgon:**
 But... I have no intention of feeding the other evils that work within me in this dream of mine.
 
  
-**Gorgon**
+**Gorgon:**
 Letting them feast on your flesh would be a waste.
 Besides, I happen to feel like exercising just now.
 
  
-**Gorgon**
+**Gorgon:**
 Consider yourself lucky.
 You can cower before me once we finish here.
 
  
-**Gorgon**
+**Gorgon:**
 Now, look upon my form and learn...
 
  
-**Gorgon**
+**Gorgon:**
 Learn that the being you thought you could merely talk with is a monster who will turn your stomach!
 
  
-**--BATTLE--**
+**--BATTLE--:**
 
-**Gorgon**
+**Gorgon:**
 Hahaha...what do you think!?
 Did you see my terrible serpent form!?
 
@@ -339,16 +339,16 @@ Thanks! You saved me!
 
 ---
  
-**Gorgon**
+**Gorgon:**
 That's not what I'm talking about!
 That's not what you should be saying!
 
  
-**Gorgon**
+**Gorgon:**
 You should be terrified! You should be soiling yourself! You should be begging me not to eat you!
 
  
-**Gorgon**
+**Gorgon:**
 This is the time to beg for your life!
 
  
@@ -366,12 +366,12 @@ I don't think we should stay long...
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Ungh...
 This human...is unbelievable...!
 
  
-**Gorgon**
+**Gorgon:**
 Argh! Fine! So!?
 Do you have any idea how to escape!?
 
@@ -385,19 +385,19 @@ I don't, but let's just keep going.
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Hmph. Are you saying we should simply head in that direction?
 
  
-**Gorgon**
+**Gorgon:**
 The single, obvious way out in a place steeped in nothing but evil on all sides?
 
  
-**Gorgon**
+**Gorgon:**
 I suspect that will only lead us to a hell far worse than the one we find ourselves in now.
 
  
-**Gorgon**
+**Gorgon:**
 But you willingly walk headlong into peril...and you are even willing to peek into the underbelly of the hideous monster I am?
 
  
@@ -415,31 +415,31 @@ We've got to go that way to get out, sorry.
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Silence. It seems you value neither your life nor your sanity.
 
  
-**Gorgon**
+**Gorgon:**
 Perhaps you will realize what they were worth once you've lost them. Hehe.
 
  
-**Gorgon**
+**Gorgon:**
 Very well. I'm intrigued.
 
  
-**Gorgon**
+**Gorgon:**
 I shall watch your final moments and mock them to the very end. You may meet your end without fear. Hahaha.
 
  
-**Gorgon**
+**Gorgon:**
 ...Hold it right there. Are you a fool?
 
  
-**Gorgon**
+**Gorgon:**
 Did you not think that carelessly venturing out might mean your death? If you simply perished, I would be robbed of my chance to watch a demon devour you.
 
  
-**Gorgon**
+**Gorgon:**
 Just stand behind me and follow me, scum.
 Unbelievable...
 
@@ -453,9 +453,9 @@ Unbelievable...
 
 ---
 
-**--ARROW--**
+**--ARROW--:**
 
-**Gorgon**
+**Gorgon:**
 I can feel the evil presence growing stronger.
 It certainly doesn't bother me, but you&ndash;
 
@@ -469,20 +469,20 @@ It certainly doesn't bother me, but you&ndash;
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Tsk. You're fine? Disappointing. Do you have no consideration for how your whimpering and looks of terror would keep me entertained on this dull journey?
 
  
-**Gorgon**
+**Gorgon:**
 Don't you know?
 Human suffering is my greatest pleasure.
 
  
-**Gorgon**
+**Gorgon:**
 Seeing, hearing, and tasting human suffering are my favorite things to do...
 
  
-**Gorgon**
+**Gorgon:**
 That terror, oh it makes me drool in anticipation. There is no better seasoning for my meal.
 
  
@@ -495,15 +495,15 @@ Is that because...you're an Avenger?
 
 ---
  
-**Gorgon**
+**Gorgon:**
 ...What a silly thing to say.
 
  
-**Gorgon**
+**Gorgon:**
 That class was forced upon me when I was summoned as a Servant.
 
  
-**Gorgon**
+**Gorgon:**
 But...you're probably right.
 Your absurd question jogged my memory.
 
@@ -517,32 +517,32 @@ Your absurd question jogged my memory.
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Rage!
 
  
-**Gorgon**
+**Gorgon:**
 Yes...I may truly be an Avenger. The desire for revenge does indeed burn within my Spirit Origin.
 
  
-**Gorgon**
+**Gorgon:**
 But...revenge against what?
 Whatever is it that I hate so much?
 
  
-**Gorgon**
+**Gorgon:**
 The unknown is what infuriates me, and it has led me to kill and devour all living things I encounter.
 
  
-**Gorgon**
+**Gorgon:**
 That, at least, I find fulfilling, all the more so if the victim is someone I loathe.
 
  
-**Gorgon**
+**Gorgon:**
 Heh...a monster who doesn't even know who deserves her vengeance...
 
  
-**Gorgon**
+**Gorgon:**
 Of all the Heroic Spirits you employ,
 I must be the most bizarre and horrible!
 
@@ -556,11 +556,11 @@ That's not true...
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Tsk. I've said too much. Forget it.
 
  
-**Gorgon**
+**Gorgon:**
 Either way, the stench of evil is getting stronger here. Something is bound to happ&ndash;
 
  
@@ -573,15 +573,15 @@ I-it got dark all of a sudden!
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Quiet.
 
  
-**Gorgon**
+**Gorgon:**
 Hmph. I can hardly see... Even my own eyes cannot see through...the darkness within me...
 
  
-**Gorgon**
+**Gorgon:**
 ... Fine. For now...
 
  
@@ -594,12 +594,12 @@ And something touched me!!!
 
 ---
  
-**Gorgon**
+**Gorgon:**
 I said keep quiet. That's just my hair.
 Hold on to it and don't let go.
 
  
-**Gorgon**
+**Gorgon:**
 If you annoy it, it may bite off a finger or two.
 If you want to live, deal with it. Let's go.
 
@@ -613,47 +613,47 @@ If you want to live, deal with it. Let's go.
 
 ---
  
-**Gorgon**
+**Gorgon:**
 ... There's something up ahead...
 
  
-**Gorgon**
+**Gorgon:**
 ...! Is...that...
 
  
-**Gorgon**
+**Gorgon:**
 My older sisters...
 
  
-**Gorgon**
+**Gorgon:**
 And that's...
 
  
-**Gorgon**
+**Gorgon:**
 Me!!!
 
  
-**Gorgon**
+**Gorgon:**
 Wait. Stop. What are you doing?
 
  
-**Gorgon**
+**Gorgon:**
 No...what are you...trying to show me!?
 
  
-**Gorgon**
+**Gorgon:**
 ...!
 
  
-**Gorgon**
+**Gorgon:**
 ...
 
  
-**Gorgon**
+**Gorgon:**
 Ah, I see.
 
  
-**Gorgon**
+**Gorgon:**
 So this is a dream to show me what might have been!!!
 
  
@@ -666,7 +666,7 @@ What was that...?
 
 ---
  
-**Gorgon**
+**Gorgon:**
 ...Let me ask you.
 What did you just see?
 
@@ -680,11 +680,11 @@ Uh...I don't know, it was all fuzzy...
 
 ---
  
-**Gorgon**
+**Gorgon:**
 I see. That's a relief.
 
  
-**Gorgon**
+**Gorgon:**
 Even if you did see something or THINK you saw something, don't ask. I'll kill you if you do.
 
  
@@ -702,16 +702,16 @@ I can still see the other Gorgon.
 
 ---
  
-**???**
+**???:**
 ...
 
  
-**Gorgon**
+**Gorgon:**
 Hmph. I'll let that one slide.
 That's only the “me” I see in my dreams.
 
  
-**Gorgon**
+**Gorgon:**
 And that...that is... Hahaha!
 All the more reason to kill it!
 
@@ -725,52 +725,52 @@ You're going to kill it!?
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Of course. That being is the center of the evil that has flooded this realm. My body...my every instinct...cries out for that thing's blood!
 
  
-**Gorgon**
+**Gorgon:**
 (Instinct...that's right...instinct.)
 
  
-**Gorgon**
+**Gorgon:**
 (If that is true...)
 
  
-**Gorgon**
+**Gorgon:**
 (Is that what defines my existence? Is that how I will end up? Is it telling me to seek revenge...)
 
  
-**Gorgon**
+**Gorgon:**
 (...against the humans and world that led me here...?)
 
  
-**Gorgon**
+**Gorgon:**
 (Hehe...hahaha!!!)
 
  
-**Gorgon**
+**Gorgon:**
 (Who cares? Even if that were true,
 my purpose does not change. I am not wrong.)
 
  
-**Gorgon**
+**Gorgon:**
 (I devour what I wish. I kill what I wish.
 That is the essence of my very being!)
 
  
-**Gorgon**
+**Gorgon:**
 Ah, of course. Of course. In the end...this is all monsters are able to do!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Gorgon**
+**Gorgon:**
 The darkness is starting to clear...
 Hehehe... Oh, that was satisfying!
 
  
-**Gorgon**
+**Gorgon:**
 And yet...that was no more than a shadow of my past and future. I know just how pointless it is.
 
  
@@ -783,32 +783,32 @@ And yet...that was no more than a shadow of my past and future. I know just how 
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Hah! That vacant look...
 I can see you do not understand. But I do.
 
  
-**Gorgon**
+**Gorgon:**
 What would you call something that is both satisfying and completely pointless?
 
  
-**Gorgon**
+**Gorgon:**
 ...Amusement.
 
  
-**Gorgon**
+**Gorgon:**
 I had an amusing dream. If how I feel now is any indication...I would say it was a sweet dream.
 
  
-**Gorgon**
+**Gorgon:**
 Let me reiterate: I am a monster.
 
  
-**Gorgon**
+**Gorgon:**
 Killing that monster&ndash;that other me&ndash;and bathing in its blood was exhilarating. I found that dream...amusing.
 
  
-**Gorgon**
+**Gorgon:**
 Knowing that...do you still want something like me in your Chaldea?
 
  
@@ -821,7 +821,7 @@ Of course.
 
 ---
  
-**Gorgon**
+**Gorgon:**
 Why? I've told you time and time again, and you still don't get it!? I am no Heroic Spirit! I AM A MONSTER!
 
  
@@ -839,11 +839,11 @@ You answered my call...
 
 ---
  
-**Gorgon**
+**Gorgon:**
 ...You are mistaken.
 
  
-**Gorgon**
+**Gorgon:**
 Even I do not know why I was summoned.
 It must have been some kind of accident.
 
@@ -862,37 +862,37 @@ Thank you for coming to Chaldea.
 
 ---
  
-**Gorgon**
+**Gorgon:**
 I said...you...!
 
  
-**Gorgon**
+**Gorgon:**
 (Sigh) So annoying.
 Even my hunger has dissipated.
 
  
-**Gorgon**
+**Gorgon:**
 ...Hmph. It's almost time to wake up.
 I failed to devour the moron before me.
 
  
-**Gorgon**
+**Gorgon:**
 ...
 
  
-**Gorgon**
+**Gorgon:**
 Perhaps it is the same for humans, but I will likely forget this most amusing dream of mine.
 
  
-**Gorgon**
+**Gorgon:**
 And if you don't want me to remember that I failed to devour you...
 
  
-**Gorgon**
+**Gorgon:**
 Do not ever mention what happened in this dream should you recall it. For your own safety.
 
  
-**Gorgon**
+**Gorgon:**
 Hmph.
 
  
@@ -905,11 +905,11 @@ Oh.
 
 ---
  
-**Mash**
+**Mash:**
 What's wrong, Senpai?
 
  
-**Gorgon**
+**Gorgon:**
 ...! (Silent pressure)
 
  
@@ -922,69 +922,69 @@ What's wrong, Senpai?
 
 ---
  
-**Gorgon**
+**Gorgon:**
 ... (Look that says, “Good. Keep quiet.”)
 
  
-**Mash**
+**Mash:**
 ...?
 
  
-**Stheno**
+**Stheno:**
 Very suspicious, don't you think, “me?”
 
  
-**Euryale**
+**Euryale:**
 Yes. They were exchanging knowing glances with each other, “me.”
 
  
-**Stheno**
+**Stheno:**
 Hehe...our foolish younger sister, who's three times the size of the one we're used to seeing...the BBB (Big Big Big) Mountain...
 
  
-**Stheno**
+**Stheno:**
 What in the world do you think transpired between her and Master last night? I am so curious.
 
  
-**Euryale**
+**Euryale:**
 Yes. We must pry it out of her...down to the last juicy detail.
 
  
-**Euryale**
+**Euryale:**
 Privacy? What's that?
 We had no such thing on our island.
 
  
-**Gorgon**
+**Gorgon:**
 Older sisters...!?
 
  
-**Stheno & Euryale**
+**Stheno & Euryale:**
 Fess up. Right now.
 Come on...hurry up...spill it...!
 
  
-**Gorgon**
+**Gorgon:**
 M-Master! Remember that we had planned a training session in the simulator!?
 
  
-**Gorgon**
+**Gorgon:**
 Let's get going! It's important! If I don't get exercise, I'll get rusty! Now, please excuse us!
 
  
-**Stheno**
+**Stheno:**
 She's fleeing with Master! Does that mean something really...is there some truth behind what we think happened between them!?
 
  
-**Euryale**
+**Euryale:**
 Hold it right there! Do you think you can get away with keeping secrets from your older sisters!? You big, giant fool of a sister! Wait up!
 
  
-**Mash**
+**Mash:**
 Wh-what just happened?
 
  
-**Fou**
+**Fou:**
 Fou, fooou!
 
  

@@ -2,15 +2,15 @@
 
 <h2>A Bunch of Books, a Crowd of Us</h2>
 
-**Mash**
+**Mash:**
 It's dark... isn't it?
 
  
-**Fou**
+**Fou:**
 Foooouu...
 
  
-**Mash**
+**Mash:**
 It's very similar to a place we've seen before.
 The Soho area of London.
 
@@ -31,40 +31,40 @@ Where Andersen was, right?
 
 ---
  
-**Mash**
+**Mash:**
 Yes, Senpai.
 It's very similar to the 2nd floor of that bookstore.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm sure it is.
 That's because your current location&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Is inside Nursery Rhyme's Reality Marble.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Although slightly different if we were to be technical.
 It's a subtype of the dream shared by Master and the contracted Servants.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Anyway, it's a special place.
 A special place involving the Servant Nursery Rhyme.
 
  
-**Mash**
+**Mash:**
 Understood, Doctor.
 I came up with a similar theory.
 
  
-**Mash**
+**Mash:**
 ...Because she's here.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;
 
  
@@ -84,34 +84,34 @@ She's back to being a book.
 
 ---
  
-**Mash**
+**Mash:**
 Yes. When you performed the second Ascension,
 she gained the form of a young girl.
 
  
-**Mash**
+**Mash:**
 So why has she regressed to her original form?
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;
 
  
-**Mash**
+**Mash:**
 She doesn't speak, either.
 This is&ndash;
 
  
-**Fou**
+**Fou:**
 Fooou!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Uh-oh! I'm detecting magical energy in your vicinity!
 It looks like her, but it's not!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 They're trying to surround you,
 which means they're probably enemies!
 
@@ -126,62 +126,62 @@ Prepare for combat!
 
 ---
  
-**Mash**
+**Mash:**
 Roger, Master!
 Give me your orders!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 Enemies defeated.
 ...She helped us.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Which means that, yup, Nursery Rhyme accepts Fujimaru as her Master.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 She's a book, so she doesn't talk, though.
 What is happening, exactly?
 
  
-**Mash**
+**Mash:**
 Keep looking into it, Doctor.
 It appears we've got more enemies approaching.
 
  
-**Mash**
+**Mash:**
 Senpai, give me your orders.
 The battle continues!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Fou**
+**Fou:**
 Fooou!
 
  
-**Mash**
+**Mash:**
 Battle is over. We've defeated them.
 Good work, Senpai.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm not getting anywhere with my analysis, but I have news. There's something very similar to Nursery Rhyme nearby.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 That army of books was similar to her,
 but this is more like an exact copy.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 This might be what pulled you into that space.
 Can you try talking to it?
 
@@ -202,76 +202,76 @@ Nothing else to do anyway
 
 ---
  
-**Mash**
+**Mash:**
 Okay, Senpai.
 Let's move&ndash;You too, Nursery Rhyme.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;
 
  
-**Mash**
+**Mash:**
 Oh, when you move,
 she follows you, huh?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 That book's really attached.
 That's really...rather nice...
 
  
-**Mash**
+**Mash:**
 Yeah.
 It feels like watching a cute little animal.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Is that...
 
  
-**Mash**
+**Mash:**
 Seems like it's up ahead.
 I can feel the response.
 
  
-**Fou**
+**Fou:**
 Fou...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Here it comes. Looks like it's approaching.
 It might be an enemy, so be careful!
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 &ndash;Hello, the other me.
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 I missed you, book me!
 Emotions folded in-between the pages.
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 I missed you, real me! The me who can do nothing without fingers to flip the pages.
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 I am me, Alice.
 You are me, a story.
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 No, no. I am me.
 I'm not Alice. You stay in that form, okay?
 
  
-**Mash**
+**Mash:**
 Alice?
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;
 
  
@@ -291,40 +291,40 @@ What's going on?
 
 ---
  
-**Mash**
+**Mash:**
 I don't know, exactly...
 
  
-**Mash**
+**Mash:**
 But the one that's connected to you by contract is the one that's a book.
 
  
-**Mash**
+**Mash:**
 But at the same time...
 That girl over there...
 
  
-**Mash**
+**Mash:**
 She doesn't seem to be a fake Nursery Rhyme.
 Her magical energy feels too similar.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I got a detailed analysis now that you're closer&ndash;
 Yup, Mash is right. Their magical energy response is identical.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's too identical.
 Like another copy of the same being?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I want to say that's impossible,
 but where you are, in a way, is inside Nursery Rhyme.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's possible that her core is split into two beings!
 
  
@@ -344,90 +344,90 @@ Dumb it down for me!
 
 ---
  
-**Mash**
+**Mash:**
 They're both her.
 It's a possibility.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;Correct.
 
  
-**Mash**
+**Mash:**
 (It talked!)
 
  
-**Fou**
+**Fou:**
 (Fou!)
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;That's me. The other me.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;The me in Alice's form.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;The Alice that shouldn't exist
 &mdash;Because I imitated that form.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;I thought to myself.
 &mdash;That form is Alice's, but...
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;Is it okay for me to take it?
 &mdash;Can I be Alice when there is no Alice here?
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 No, no, no. It's wrong!
 I am just a story, right?
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 Alice isn't here!
 Only I'm here!
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 I must stay a story.
 I can't stay as Alice.
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 Right&ndash;?
 
  
-**Mash**
+**Mash:**
 ??
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...I see! So that's it!
 Nursery Rhyme isn't supposed to have a human form!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 But the Ascension gave her the form of a little girl.
 That self-contradiction grew within her.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 So she called Fujimaru, her Master,
 deep inside her.
 
  
-**Mash**
+**Mash:**
 She's trying to get an answer, isn't she?
 About which form she should choose.
 
  
-**Mash**
+**Mash:**
 The book Nursery Rhyme is uncertain.
 The girl Nursery Rhyme wants to reject it.
 
@@ -448,49 +448,49 @@ It's her choice.
 
 ---
  
-**Mash**
+**Mash:**
 That's right, Senpai.
 ...Nursery Rhyme, the answer is within you.
 
  
-**Mash**
+**Mash:**
 We can't answer for you.
 We don't know what that girl's form means to you.
 
  
-**Mash**
+**Mash:**
 We don't know why you're hesitating.
 Or who or what you're thinking of.
 
  
-**Mash**
+**Mash:**
 So...
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;I am me. I know that.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;But I want to be Alice.
 &mdash;I want that form, if I can have it.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;I want to drink sweet, sweet tea as Alice.
 &mdash;I want to eat sweet, sweet candy as Alice.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;I want to play, as Alice.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 ...That was what Alice longed to do,
 ...when she held me in her arms until the very end.
 
  
-**Mash**
+**Mash:**
 ...Senpai.
 
  
@@ -504,74 +504,74 @@ There's your answer.
 
 ---
  
-**Mash**
+**Mash:**
 Right, Master!
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 I see. So that was my decision.
 But I won't allow it!
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 I am me. Alice isn't here!
 I won't let you pretend this is a happy ending!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Magical energy response expanding!
 Here she comes!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 ...Enemy unit defeated.
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 Hmph. Actually, I knew how this was going to end.
 If Alice isn't here&ndash;
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 I can just become Alice.
 That's the kind of dumb idea I'd get now.
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 Listen, me.
 If you're going to choose Alice's form...
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 Never...let your...
 story have...
 
  
-**Nursery Rhyme?**
+**Nursery Rhyme?:**
 an unhappy ending...
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 &mdash;Yeah.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 I'll make it a happy ending.
 I'll do my best for Alice.
 
  
-**Fou**
+**Fou:**
 Fooou!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Okay, I guess we're done!
 That weird space is closing, I think, so yeah!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'll use the Rayshift technology to get you back to Chaldea. Ready&ndash;go!
 
 

@@ -2,16 +2,16 @@
 
 <h2>St. George</h2>
 
-**Mash**
+**Mash:**
 Teacher, I have a question.
 What's the difference between a lizard and a dragon?
 
  
-**Georgios**
+**Georgios:**
 Good question. To answer, first we'll have to talk about the phantasmal species&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 So, um, what's going on here?
 
  
@@ -31,105 +31,105 @@ I'm not sure...
 
 ---
  
-**Georgios**
+**Georgios:**
 You there! No whispering in class!
 This is important.
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, right... But we need to get going...
 to the next dimensional distortion.
 
  
-**Georgios**
+**Georgios:**
 True. That's enough prepping, we will continue the lecture as in-field studies.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Our goal this time is to repair a space that became unstable due to the last Rayshift.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The problem should have fixed itself when we restored the timeline, but a little remained.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 My analysis shows that a number of phantasmal species, AKA dragons, have fled there.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 If we don't fix it, the distortion may cause a wide-scale dimensional collapse.
 
  
-**Mash**
+**Mash:**
 So the distortion isn't disappearing because of the dragon's magical energy, right?
 
  
-**Georgios**
+**Georgios:**
 Phantasmal species...dragons in particular generate magical energy just by breathing.
 
  
-**Georgios**
+**Georgios:**
 The output of such energy is capable of maintaining the distortion.
 
  
-**Mash**
+**Mash:**
 Let's go then, Senpai.
 Doctor, send us there.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Okay, this is an irregular Rayshift, but it's all set.
 Fujimaru, go slay us some dragons.
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Mash**
+**Mash:**
 So this is the dimensional distortion...
 
  
-**Fou**
+**Fou:**
 Fooou.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Looks like you made it.
 But this...It's like another world.
 
  
-**Georgios**
+**Georgios:**
 It's a rare phenomenon, but I'm detecting draconic essence from our surroundings.
 
  
-**Georgios**
+**Georgios:**
 Let's take a photo to record this.
 
  
-**Mash**
+**Mash:**
 Is that...a camera?
 
  
-**Georgios**
+**Georgios:**
 Yes, Master let me borrow it.
 There were none in my time.
 
  
-**Georgios**
+**Georgios:**
 It is a truly powerful relic that instantly paints what you see.
 
  
-**Georgios**
+**Georgios:**
 At first, I just collected the paintings, but lately I've gotten into it.
 
  
-**Georgios**
+**Georgios:**
 Look at this new lens for instance!
 Photography is a fascinating and endless abyss.
 
@@ -150,28 +150,28 @@ Relic...
 
 ---
  
-**Georgios**
+**Georgios:**
 Thank you for this wonderful present.
 I shall repay you with my blade.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hey, no time for talking!
 They're here! Three of them!
 
  
-**Georgios**
+**Georgios:**
 Master, be careful.
 Let's be on our way, then!
 
  
-**Fou**
+**Fou:**
 Fou!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 We did it, Master!
 
  
@@ -191,39 +191,39 @@ Is this all?
 
 ---
  
-**Georgios**
+**Georgios:**
 No, these were a lower subspecies of dragon called wyverns.
 
  
-**Georgios**
+**Georgios:**
 These wyverns lack the magical energy to maintain such a space as this.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yeah, defeating them didn't change anything.
 Hmm, I'll trace the reaction...W-What the heck?
 
  
-**Georgios**
+**Georgios:**
 ...There it is. Prepare the cam...
 I mean, prepare for combat.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 This reaction's incredible...
 It's three times bigger than a normal dragon!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I mean, there aren't really normal dragons, but...
 What's going on here?
 
  
-**Mash**
+**Mash:**
 A mutation...or something like it?
 
  
-**Georgios**
+**Georgios:**
 No, nothing so simple.
 It feels as if it's absorbed the others.
 
@@ -244,27 +244,27 @@ You mean it ate them?
 
 ---
  
-**Georgios**
+**Georgios:**
 Yes, I've never seen a cannibalistic dragon before.
 &mdash;It has power, but little intelligence.
 
  
-**Georgios**
+**Georgios:**
 Either way, it's still a rare species.
 Let me take a photograph.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 You can do that later!
 But if it ate the other dragons...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 A dragon's just a giant lump of magical energy...
 If it ate them all...this thing is crazy!
 
  
-**Mash**
+**Mash:**
 Mr. Geo, how do we deal with this?
 
  
@@ -284,48 +284,48 @@ What do we do?
 
 ---
  
-**Georgios**
+**Georgios:**
 Calm down, Mash. Your teacher's name is Mr. Georgios, not Mr. Geo.
 
  
-**Georgios**
+**Georgios:**
 And it doesn't matter what kind of dragon it is, none shall survive our attack.
 
  
-**Georgios**
+**Georgios:**
 Dragons were born to be eradicated.
 Be punished for your sins, dragon!
 
  
-**Mash**
+**Mash:**
 Let's go, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Georgios**
+**Georgios:**
 This is the end, take this!
 Ascalon!
 
  
-**Mash**
+**Mash:**
 D-Did we get it...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Man, that was one tough enemy, huh?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, now that the dragon's gone, the distortion is starting to close.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'll bring you guys back, get ready.
 Setting coordinates now...
 
  
-**Georgios**
+**Georgios:**
 &ndash;Nameless dragon of another world, rest in peace.
 
  
@@ -345,15 +345,15 @@ Aren't dragons sinners?
 
 ---
  
-**Georgios**
+**Georgios:**
 Even if dragons are sinners born to be destroyed, that doesn't mean they deserve to be destroyed.
 
  
-**Georgios**
+**Georgios:**
 &ndash;Sin and punishment should be separate things.
 
  
-**Mash**
+**Mash:**
 Senpai, we need to go or the distortion will close...
 
  
@@ -373,16 +373,16 @@ Let's go, Teacher.
 
 ---
  
-**Georgios**
+**Georgios:**
 Yes...
 Oh, let me get one last photo...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Forget about that!
 
  
-**Fou**
+**Fou:**
 Fooou.
 
 

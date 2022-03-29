@@ -426,7 +426,7 @@ You heard him, Master, representative of humanity. Take good care of my Paris. H
 **Fujimaru:**
 Roger!
 
-*Hektor vs Paris solo battle. Starts with **Hektor's pressure** giving Paris 3-turn attack and defense debuffs, **Hero training** removing Class disadvantage, and **Apollo's blessing** giving Paris permanent unremovable stun immunity.*
+*Hektor vs Paris solo battle. Starts with **Hektor's pressure** giving Paris 3-turn attack and defense debuffs, **Hero training** removing Class disadvantage, and **Apollo's blessing:** giving Paris permanent unremovable stun immunity.*
 
 **Hektor:**
 Alright, that's enough. I ask. Is there a point to you being in Chaldea? 
@@ -549,7 +549,7 @@ Hmm. I see. Souls really know how to shine. It'll take a little long before I ev
 
 ---
 
-**New profile section**
+**New profile section:**
 
 Purity, innocence, and bravery are all aspects of humanity seen as positive, but some critics would say that only makes them worse as flaws. 
 

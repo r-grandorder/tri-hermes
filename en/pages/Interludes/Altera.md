@@ -2,11 +2,11 @@
 
 ## The Beast Inside of Me
 
-**Altera**
+**Altera:**
 ...I was waiting.
 
  
-**Altera**
+**Altera:**
 I was waiting for you to come Fujimaru.
 
  
@@ -15,7 +15,7 @@ I was waiting for you to come Fujimaru.
 **Fujimaru 1:**
 Where are we now?
  
-**Altera**
+**Altera:**
 I don't know exactly.
  
 ---
@@ -23,30 +23,30 @@ I don't know exactly.
 **Fujimaru 2:**
 ...Am I, in a dream?
  
-**Altera**
+**Altera:**
 Yes.
 You have a good intuition, Master.
 
 ---
 
  
-**Altera**
+**Altera:**
 I can't be certain, but I can guess to a certain level.
 
  
-**Altera**
+**Altera:**
 This is&mdash;"inside of me."
 
  
-**Altera**
+**Altera:**
 It's not something physical, but psychological.
 
  
-**Altera**
+**Altera:**
 Inside of me. I still can't say that for sure, but it's my memory. Of me, who fought as the great King of Huns.
 
  
-**Altera**
+**Altera:**
 ...Inside of the memory of myself "as a hero."
 
  
@@ -64,65 +64,65 @@ I don't really get what you mean
  
 
  
-**Altera**
+**Altera:**
 It means exactly what I said. The memory of "me,"
 who was once called King of Destruction, Attila.
 
  
-**Altera**
+**Altera:**
 One who kept on destroying every civilization like a thoughtless, wordless machine.
 
  
-**Altera**
+**Altera:**
 It's my memory.
 That's why in here...
 
  
-**Altera**
+**Altera:**
 ...there's nothing.
 
  
-**Altera**
+**Altera:**
 I didn't think "like a human being."
 I didn't feel like one either.
 
  
-**Altera**
+**Altera:**
 I couldn't think, and couldn't feel.
 
  
-**Altera**
+**Altera:**
 ...To you, what do I look like?
 
  
-**Altera**
+**Altera:**
 To me, only the sky and the earth stretch endlessly.
 It's the end of a star that was leveled with no feeling or purpose.
 
  
-**Altera**
+**Altera:**
 To you...I suppose, it looks like a view "closest" to what you've seen.
 
  
-**Altera**
+**Altera:**
 How you see it might be different, but this dark wasteland is indeed me.
 
  
-**Altera**
+**Altera:**
 Even though I'm supposed to be looking at my memory,
 I see nothing. No friends, and no family...
 
  
-**Altera**
+**Altera:**
 I can't hear anyone's voice.
 Nothing but gusty winds.
 
  
-**Altera**
+**Altera:**
 ...Heh, talk about empty.
 
  
-**Altera**
+**Altera:**
 Despite the fact I've led many into battle, how come not even a single person is in my memory.
 
  
@@ -140,84 +140,84 @@ This is pretty calming.
  
 
  
-**Altera**
+**Altera:**
 You're kind.
 
  
-**Altera**
+**Altera:**
 Well, I suppose that's how people would call someone like you, kind.
 
  
-**Altera**
+**Altera:**
 I never...
 
  
-**Altera**
+**Altera:**
 ...I never wished to destroy lives. Still, I always kept destroying civilizations far as the eyes can see.
 
  
-**Altera**
+**Altera:**
 You see the contradiction?
 I can't help myself from choosing this way.
 
  
-**Altera**
+**Altera:**
 I deviate from this planet's absolute principle&mdash;
 that its purpose of survival is breeding.
 
  
-**Altera**
+**Altera:**
 "Destruction" is implanted deep within my heart.
 I don't want to willingly kill, but I want to destroy.
 
  
-**Altera**
+**Altera:**
 As a result people die. I killed many of them.
 The earth was always soaked with blood.
 
  
-**Altera**
+**Altera:**
 ...However.
 What is left for me is this dark wilderness...
 
  
-**Altera**
+**Altera:**
 Look&ndash;
 it's coming.
 
  
-**???**
+**???:**
 &mdash;
 
  
-**Altera**
+**Altera:**
 I said there's nothing, but well, it wasn't true.
 
  
-**Altera**
+**Altera:**
 I've got ones like them.
 Those who have unclear names, with no faces.
 
  
-**Altera**
+**Altera:**
 Those whom I fought against and killed. I simply fought and killed without recognizing them as individuals.
 
  
-**Altera**
+**Altera:**
 Now it's time to use your power, Master. Though only if that summoning system of your works.
 
  
-**Altera**
+**Altera:**
 You have no choice but to fight, if you don't want to die.
 
  
-**Altera**
+**Altera:**
 ...I'm not sure if death exists in this place, though.
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Altera**
+**Altera:**
 Splendid job, Master. You managed to stay alive because of the summoning system.
 
  
@@ -235,58 +235,58 @@ I feel like I am using a lot of magical energy.
  
 
  
-**Altera**
+**Altera:**
 This indeed is a dream, but our minds here are real.
 
  
-**Altera**
+**Altera:**
 Magical energy exists as a link between your mind and body, right? In that case, it's only natural you use it.
 
  
-**Altera**
+**Altera:**
 Have you used it all up yet? No, that's good to hear.
 You see, it's not over yet.
 
  
-**???**
+**???:**
 &mdash;
 
  
-**Altera**
+**Altera:**
 ...This time, it doesn't even look like a human.
 
  
-**Altera**
+**Altera:**
 I wonder what that was. I feel like I have a dim memory of having killed a monster.
 
  
-**Altera**
+**Altera:**
 Or, maybe that is formed by some sort of concept?
 
  
-**Altera**
+**Altera:**
 Whatever that is&ndash;
 
  
-**???**
+**???:**
 &mdash;!!!
 
  
-**Altera**
+**Altera:**
 ...Hmm. For a mere concept, I see it's ready to kill.
 
  
-**Altera**
+**Altera:**
 ...I'm so ashamed I could pass out.
 I can't believe I even envy such a thing.
 
  
-**Altera**
+**Altera:**
 Feelings, emotions.
 Things that I lacked, but now gained.
 
  
-**Altera**
+**Altera:**
 However, I can't control these feelings well.
 I've understood joy, but I don't how to express it.
 
@@ -298,7 +298,7 @@ L-Let's just focus on the monster before us!
 
 ---
  
-**Altera**
+**Altera:**
 Of course, you know your priorities, Master.
 
  
@@ -309,79 +309,79 @@ I think you're just awkward.
 
 ---
  
-**Altera**
+**Altera:**
 ...That's a problem.
 Many of my allies would tell me that back then.
 
  
-**Altera**
+**Altera:**
 It makes me happy, but I'm sad.
 I really wish it was true.
 
  
 
  
-**Altera**
+**Altera:**
 At any rate, we need to defeat that thing first.
 Come on Master, try to pull it off again.
 
  
-**Altera**
+**Altera:**
 You'll actually die if you die here.
 If that happens, our contract will end.
 
  
-**Altera**
+**Altera:**
 I'll be free from this subordination, and you'll be free from life.
 
  
-**Altera**
+**Altera:**
 But that won't be fun.
 So, try not to die.
 
  
-**Altera**
+**Altera:**
 I'd like to talk to you just a little longer.
 
  
-**--BATTLE--**
+**--BATTLE--:**
 
-**Altera**
+**Altera:**
 ...I'm impressed, Master.
 
  
-**Altera**
+**Altera:**
 I have a better opinion of you.
 I expected you'd stand frozen or something.
 
  
-**Altera**
+**Altera:**
 Apparently I underestimated your way of existence Fujimaru, the one trying to save the world.
 
  
-**Altera**
+**Altera:**
 ...It's time for you to go back.
 This place isn't appropriate for you to stay long.
 
  
-**Altera**
+**Altera:**
 It only needs me.
 This place&ndash;
 
  
-**Altera**
+**Altera:**
 &ndash;This darkness, belongs to "me".
 
  
-**Mash**
+**Mash:**
 Good morning, Senpai.
 
  
-**Mash**
+**Mash:**
 You didn't come out at the scheduled time, so I came to see how you were doing&ndash;
 
  
-**Mash**
+**Mash:**
 But I can see that you overslept. Are you okay?
 You seemed to be troubled by your dream.
 
@@ -400,67 +400,67 @@ I was fighting a real battle.
  
 
  
-**Mash**
+**Mash:**
 Is that...so? If you don't mind,
 can you tell me more...no, it's nothing.
 
  
-**Mash**
+**Mash:**
 Breakfast is ready.
 Let's go, Senpai.
 
  
-**Fou**
+**Fou:**
 Fou, Foooou!
 
 
 ## My Memories
 
-**Dr. Roman**
+**Dr. Roman:**
 Hmm&mdash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Based on my observation, I couldn't detect anything. Um, maybe I should expand the range?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hmmm, you are in 1st century Gaul, within the second singularity that's being corrected.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Are you sure it's around here, great hero of destruction, Attila&mdash;I mean, Altera?
 
  
-**Altera**
+**Altera:**
 Don't call me Attila. Yes, I'm sure it's around here.
 
  
-**Altera**
+**Altera:**
 Someone is calling me here. I'm certain that I felt it.
 
  
-**Altera**
+**Altera:**
 It's a destructive...impulse. What's worse, it's extraordinary.
 
  
-**Altera**
+**Altera:**
 Even if it destroys everything in sight, it still won't calm down... That's what it is.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 An impulse, huh? I don't know how to understand a phenomenon that can't be observed with numbers.
 
  
-**Mash**
+**Mash:**
 She probably meant she sensed something similar to that of magical energy.
 
  
-**Altera**
+**Altera:**
 Magical energy, hmm? I see, I won't deny that, but...
 
  
-**Altera**
+**Altera:**
 It's more like a forced command, one more powerful than Command Spells. That's what I've sensed.
 
  
@@ -471,7 +471,7 @@ Are you sure about that?
 
 ---
  
-**Mash**
+**Mash:**
 Yes, I am wondering the same.
 
  
@@ -482,122 +482,122 @@ Forced command, huh...
 
 ---
  
-**Mash**
+**Mash:**
 ...Right. It might be best for us to be prepared for combat.
 
  
 
  
-**Fou**
+**Fou:**
 Fou, Fou Fooou!
 
  
-**Altera**
+**Altera:**
 It seems like it is already approaching us. A collection of destructive impulses.
 
  
-**Mash**
+**Mash:**
 It's a Servant! If we're just picking that up now, that means...
 
  
-**Mash**
+**Mash:**
 ...it's hiding in spirit form until our arrival! Senpai!
 
  
-**Brynhild**
+**Brynhild:**
 ...I am troubled.
 
  
-**Brynhild**
+**Brynhild:**
 Oh, no... See, I knew it. I am troubled because of it...
 
  
-**Brynhild**
+**Brynhild:**
 I can smell that person... No wait, it's a smell similar to that person...
 
  
-**Brynhild**
+**Brynhild:**
 Why do I sense it? Why do I think like this?
 
  
-**Brynhild**
+**Brynhild:**
 ...That woman...
 
  
-**Brynhild**
+**Brynhild:**
 She must be one of the women... Who tried to get close to my...Sigurd...
 
  
-**Altera**
+**Altera:**
 Oh?
 
  
-**Mash**
+**Mash:**
 You're Brynhild...right? A woman who tried to get close to your Sigurd? Who are you talking about?
 
  
-**Brynhild**
+**Brynhild:**
 ...
 
  
-**Altera**
+**Altera:**
 She's looking at me. So that destructive impulse is directed to me.
 
  
-**Altera**
+**Altera:**
 But I don't remember anyone named Sigurd. Hm...
 
  
-**Mash**
+**Mash:**
 Ah! No, Altera, try to remember!
 
  
-**Fou**
+**Fou:**
 Fou?
 
  
-**Mash**
+**Mash:**
 How do I explain this... It's not Sigurd per se, but someone who shares the same origin and legend as him...
 
  
-**Mash**
+**Mash:**
 You've already met him, Altera. That's right, this has happened before...
 
  
-**Mash**
+**Mash:**
 ...Huh?
 
  
-**Mash**
+**Mash:**
 Wait, I'm sorry. I'm getting confused so let me get this straight.
 
  
-**Mash**
+**Mash:**
 In other words...
 
  
-**Mash**
+**Mash:**
 Siegfried and Altera married "the same woman?"
 
  
-**Siegfried**
+**Siegfried:**
 Yes, that's right. After I died, my wife Kriemhild remarried Etzel&ndash;
 
  
-**Siegfried**
+**Siegfried:**
 In other words, the great king of the Huns. I heard that the great king also lost his wife.
 
  
-**Altera**
+**Altera:**
 Kriemhild...
 
  
-**Altera**
+**Altera:**
 My wife, huh?
 Wife...
 
  
-**Altera**
+**Altera:**
 Wife...
 
  
@@ -615,19 +615,19 @@ I didn't know you had a wife.
  
 
  
-**Altera**
+**Altera:**
 I'm familiar with her name, but it feels unrealistic to have a wife.
 
  
-**Altera**
+**Altera:**
 I know nothing except for war and destruction. I never directed my attention to anything else.
 
  
-**Altera**
+**Altera:**
 So...it's possible that woman was there for me.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh I see, one of Altera's retainers probably played it smart and had them married for diplomatic reasons.
 
  
@@ -645,35 +645,35 @@ Oh, I-I see.
  
 
  
-**Siegfried**
+**Siegfried:**
 ...I do have some thoughts on that, but this is not the place to talk about it.
 
  
-**Siegfried**
+**Siegfried:**
 I heard Kriemhild used King Etzel for her revenge.
 
  
-**Siegfried**
+**Siegfried:**
 What led her to seek revenge was my death. So, I'm in no position to accuse the king.
 
  
-**Altera**
+**Altera:**
 Etzel&ndash;
 
  
-**Fou**
+**Fou:**
 Fou?
 
  
-**Altera**
+**Altera:**
 Etzel, huh&mdash;
 
  
-**Mash**
+**Mash:**
 What's the matter, Altera?
 
  
-**Altera**
+**Altera:**
 Well, the name Etzel isn't bad.
 
  
@@ -691,58 +691,58 @@ I think the name fits you.
  
 
  
-**Altera**
+**Altera:**
 ...It's not...what I meant.
 It's not...
 
  
-**Altera**
+**Altera:**
 It's not that.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 (Seems like it is.)
 
  
-**Mash**
+**Mash:**
 (Yes, it is.)
 
  
-**Siegfried**
+**Siegfried:**
 (Indeed.)
 
  
-**Fou**
+**Fou:**
 (Fou, Fou Fou♪)
 
  
-**Altera**
+**Altera:**
 ...It's not...
 
  
-**Mash**
+**Mash:**
 ...Do you remember now?
 
  
-**Altera**
+**Altera:**
 Indeed, I do. But I suppose he is a different existence, or hero, than Sigurd.
 
  
-**Altera**
+**Altera:**
 Siegfried and Sigurd. I hear both of them are heroes with the same origin...
 
  
-**Brynhild**
+**Brynhild:**
 Oh...
 Oh my...how can that be?
 
  
-**Brynhild**
+**Brynhild:**
 That's exactly what I thought.
 Taking...a wife... There's no way it can be...
 
  
-**Brynhild**
+**Brynhild:**
 &mdash;Forgiven.
 
  
@@ -760,100 +760,100 @@ Whoa, this seems dangerous!
  
 
  
-**Mash**
+**Mash:**
 Y-Yes, Senpai!
 She's obviously gone into battle mode!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 What, a Servant battle!?
 Now?
 
  
-**Brynhild**
+**Brynhild:**
 ...Fight me with everything you have.
 
  
-**Altera**
+**Altera:**
 Hmm, she wishes to fight.
 
  
-**Altera**
+**Altera:**
 Very well, I shall answer that wish. All I can do is wield the sword of destruction.
 
  
-**Altera**
+**Altera:**
 Come.
 The sword of Mars shall crush you&mdash;!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Brynhild**
+**Brynhild:**
 ...Oh... What...was I...doing?
 
  
-**Brynhild**
+**Brynhild:**
 Don't tell me... Was I fighting?
 Me? Against you?
 
  
-**Altera**
+**Altera:**
 Yes.
 
  
-**Brynhild**
+**Brynhild:**
 I-I see, so that's what happened.
 I wonder why...
 
  
-**Brynhild**
+**Brynhild:**
 It's odd. Sometimes I attack men, but usually not women.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It sounds horrible, but yes, most of Brynhild's victims are men.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Her Noble Phantasm feels like it's that way, too&ndash;
 E-Either way, I am happy we could clear up that misunderstanding!
 
  
-**Mash**
+**Mash:**
 Y-Yes.
 It was just a matter of pressing the wrong button!
 
  
-**Altera**
+**Altera:**
 Hmm...
 
  
-**Brynhild**
+**Brynhild:**
 Oh?
 
  
-**Fou**
+**Fou:**
 Fou, Fou...
 
  
-**Altera**
+**Altera:**
 ...Anyway, I was lucky to fight such a powerful individual. It helped adjust the aim for my Noble Phantasm.
 
  
-**Fou**
+**Fou:**
 Fou, Fou.
 Kyao?
 
 
 ## My Sword of the God of War
 
-**Altera**
+**Altera:**
  
 ...So we meet again.
 
  
-**Altera**
+**Altera:**
 Rather, do you still remember?
 
  
@@ -871,40 +871,40 @@ It was in a dark and stormy wasteland...
  
 
  
-**Altera**
+**Altera:**
 I see. So you...remember that.
 
  
-**Altera**
+**Altera:**
 How strange... Or perhaps not. I have come to understand that human memories are unpredictable.
 
  
-**Altera**
+**Altera:**
 I may be repeating myself, but I shall explain the bare minimum...
 
  
-**Altera**
+**Altera:**
 We are within my memories.
 The memory that equates to a dark wasteland.
 
  
-**Altera**
+**Altera:**
 Regardless, this place has nothing of value.
 
  
-**Altera**
+**Altera:**
 To rephrase, this is the memory of my birth.
 
  
-**Altera**
+**Altera:**
 If this dark wasteland was formed using memories of my life...
 
  
-**Altera**
+**Altera:**
 ...then my life was...
 
  
-**Altera**
+**Altera:**
 No, this place was given shape by memories created before I walked my so-called life.
 
  
@@ -922,82 +922,82 @@ Were you born here?
  
 
  
-**Altera**
+**Altera:**
 This is where I was discovered, where I awakened&mdash;this cave.
 
  
-**Altera**
+**Altera:**
 A darkened ruin. Remnants of a civilization thousands of years ago...or so I hear.
 
  
-**Altera**
+**Altera:**
 How do you see it?
 I can only see it as a dark cave...
 
  
-**Altera**
+**Altera:**
 This is an ancient ruin left in the Sahara Desert.
 Within, the Hun elders sought me out.
 
  
-**Altera**
+**Altera:**
 To be exact, I was not born a Hun.
 
  
-**Altera**
+**Altera:**
 But the ones who raised me and made me into their king were undoubtedly the Hun elders.
 
  
-**Altera**
+**Altera:**
 In my youth, after killing a soldier for the first time, I was told...
 
  
-**Altera**
+**Altera:**
 ...That I exist to fight.
 
  
-**Altera**
+**Altera:**
 This crest of war on my flesh, and this sword of the War God... I had them from the very beginning.
 
  
-**Altera**
+**Altera:**
 I had no father or mother. I was simply discovered by the descendants of the Huns.
 
  
-**Altera**
+**Altera:**
 I was asked to become destruction itself.
 So...
 
  
-**Altera**
+**Altera:**
 That is what I did. I became destruction incarnate.
 
  
-**Altera**
+**Altera:**
 ...I did not want to kill. Yet I did not and still do not understand the so-called value of life.
 
  
-**Altera**
+**Altera:**
 I do not know many things. Oh, how I do not know so very much of this world's matters.
 
  
-**Altera**
+**Altera:**
 If things are taken, broken, killed...what becomes of it?
 
  
-**Altera**
+**Altera:**
 These things simply vanish from this land for eternity.
 
  
-**Altera**
+**Altera:**
 It's simple. It's plain and simple.
 
  
-**Altera**
+**Altera:**
 Destruction is...something easily accomplished, yet irreversible.
 
  
-**Altera**
+**Altera:**
 However, my existence adapted well to the act.
 
  
@@ -1015,37 +1015,37 @@ Are you sad?
  
 
  
-**Altera**
+**Altera:**
 Who knows. That is a difficult question for me.
 
  
-**Altera**
+**Altera:**
 It's what you call emotions, correct? I know.
 
  
-**Altera**
+**Altera:**
 I understand that others possess them.
 However, I cannot feel.
 
  
-**Altera**
+**Altera:**
 What exists within me is only...
 
  
-**Altera**
+**Altera:**
 No. Let's speak of it later.
 
  
-**Altera**
+**Altera:**
 I might have worried too much over small matters...
 It looks like that thing from the wasteland has come to pursue me.
 
  
-**???**
+**???:**
 ...
 
  
-**Altera**
+**Altera:**
 Now, let us battle, like we always do.
 I won't mind if you just step aside and watch.
 
@@ -1064,17 +1064,17 @@ I can't leave you like this.
  
 
  
-**Altera**
+**Altera:**
 ...I see. Then let's go.
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Altera**
+**Altera:**
 That does it. Hmm.
 
  
-**Altera**
+**Altera:**
 I must apologize. It seems my idle chatter has attracted something unnecessary.
 
  
@@ -1085,7 +1085,7 @@ Keep telling us the story.
 
 ---
  
-**Altera**
+**Altera:**
 ...You sure are curious.
 
  
@@ -1095,75 +1095,75 @@ Keep telling us the story.
 I don't think it's idle chatter.
 
 ---
-**Altera**
+**Altera:**
 ...Is that so.
 
  
 
  
-**Altera**
+**Altera:**
 ...Okay.
 
  
-**Altera**
+**Altera:**
 Then I'll continue. Let me tell you what is inside the vessel shaped as I am.
 
  
-**Altera**
+**Altera:**
 I do not feel the emotions&ndash;the sadness, the happiness&ndash;that you people do.
 
  
-**Altera**
+**Altera:**
 Instead, there is only destruction.
 
  
-**Altera**
+**Altera:**
 All that these hands can do is destroy, shatter, and kill.
 
  
-**Altera**
+**Altera:**
 Yet...sometimes I think...
 
  
-**Altera**
+**Altera:**
 With these hands that bring nothing but destruction...
 
  
-**Altera**
+**Altera:**
 ...just like you humans who live honestly on this earth...
 
  
-**Altera**
+**Altera:**
 ...I want to feel affection.
 I want to embrace something, someone.
 
  
-**Altera**
+**Altera:**
 I want to acknowledge everything on Earth, not destroy it. I want to gain emotions and become a woman...
 
  
-**Altera**
+**Altera:**
 ...
 
  
-**Altera**
+**Altera:**
 That is what I sometimes think.
 That is what I dream.
 
  
-**Altera**
+**Altera:**
 Had I chosen a life different than that of a soldier of destruction...
 
  
-**Altera**
+**Altera:**
 What would I have become? What would be the makeup of “me”? I could have read books. Sing. Perhaps cooked.
 
  
-**Altera**
+**Altera:**
 Or&mdash;
 
  
-**???**
+**???:**
 ...It's futile...
 
  
@@ -1181,52 +1181,52 @@ That voice...!
  
 
  
-**???**
+**???:**
 ...You are the incarnation of destruction...
 
  
-**???**
+**???:**
 ...The Sword of the War God is proof as such...
 
  
-**???**
+**???:**
 ...Destroy, destroy, destroy...
 
  
-**???**
+**???:**
 ...Your existence is nothing but that...
 
  
-**Altera**
+**Altera:**
 You don't have to remind me.
 I already know.
 
  
-**Altera**
+**Altera:**
 ...You're a meddlesome one, aren't you.
 
  
-**???**
+**???:**
 ...You have no other choice...
 
  
-**???**
+**???:**
 ...Admit it, acknowledge it...
 
  
-**???**
+**???:**
 ...Altera, no matter what time period you are in...
 
  
-**???**
+**???:**
 ...No matter what kind of world...
 
  
-**???**
+**???:**
 ...You...will...destroy...
 
  
-**???**
+**???:**
 EVERYTHING!
 
  
@@ -1244,70 +1244,70 @@ Get ready to battle!
  
 
  
-**Altera**
+**Altera:**
 Indeed. That voice is starting to get on my nerves.
 
  
-**Altera**
+**Altera:**
 It's time to destroy it.
 Master, there's no need to hold back.
 
  
-**Altera**
+**Altera:**
 That is me, but it's just me.
 Even if that dies, I will not vanish.
 
  
-**Altera**
+**Altera:**
 So...
 
  
-**Altera**
+**Altera:**
 So let's destroy it, Master.
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Altera**
+**Altera:**
 ...This is...fine.
 
  
-**Altera**
+**Altera:**
 How many times is this now?
 How many times have I destroyed like this?
 
  
-**Altera**
+**Altera:**
 No, there's no way I could keep count.
 Then again, it felt a bit different this time around.
 
  
-**Altera**
+**Altera:**
 It wasn't bad.
 
  
-**Altera**
+**Altera:**
 If I were to express myself like a human...
 
  
-**Altera**
+**Altera:**
 It was...fun. I suppose.
 
  
-**Altera**
+**Altera:**
  
 I don't remember ever showing weakness before...
 
  
-**Altera**
+**Altera:**
 However, even though you may not remember when you wake up...
 
  
-**Altera**
+**Altera:**
 I'm sorry for getting you caught up in all this.
 
  
-**Altera**
+**Altera:**
 ...No. Thank you. This was the first time I was able to reject my memory by means other than my own will.
 
 

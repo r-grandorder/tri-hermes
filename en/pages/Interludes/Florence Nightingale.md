@@ -87,7 +87,7 @@ It's light.
 Someone's here for me.
 
  
-**A：Nurse**
+**A：Nurse:**
 Oh, good.
 You've come to.
 
@@ -105,7 +105,7 @@ I've never heard of a grim reaper wearing a military uniform. Well, everyone who
 Right, Miss Grim Reaper with the lamp?
 
  
-**A：Nurse**
+**A：Nurse:**
 ...
 
  
@@ -129,15 +129,15 @@ Hurry up and take me.
 I'm gonna...
 
  
-**A：Nurse**
+**A：Nurse:**
 Unfortunately, I do not know what you are saying.
 
  
-**A：Nurse**
+**A：Nurse:**
 But, I will say this:
 
  
-**A：Nurse**
+**A：Nurse:**
 I will save you.
 I will not let you die.
 
@@ -156,11 +156,11 @@ Only God could save me. Otherwise...
 ...Or an angel.
 
  
-**Nightingale**
+**Nightingale:**
 You had a dream?
 
  
-**Nightingale**
+**Nightingale:**
 Why would you tell me of such a thing?
 
  
@@ -179,19 +179,19 @@ Sometimes we are connected by dreams...
 
 ---
  
-**Nightingale**
+**Nightingale:**
 I see.
 
  
-**Nightingale**
+**Nightingale:**
 Is this about the supernatural? Everyone is entitled to his or her interests, whatever they may be.
 
  
-**Nightingale**
+**Nightingale:**
 But it is inappropriate to force those interests on others. Understand?
 
  
-**Nightingale**
+**Nightingale:**
 So, what kind of dream did you see?
 
  
@@ -205,11 +205,11 @@ Well, here's what happened...
 
 ---
  
-**Nightingale**
+**Nightingale:**
 That...
 
  
-**Nightingale**
+**Nightingale:**
 It is natural for things that interest you to appear in your dreams. You should study neurophysiology more.
 
  
@@ -228,143 +228,143 @@ That's not from your memory, Nightingale?
 
 ---
  
-**Nightingale**
+**Nightingale:**
 My memory?
 
  
-**Nightingale**
+**Nightingale:**
 No. You mentioned that you saw me from a male soldier's perspective.
 
  
-**Nightingale**
+**Nightingale:**
 That could not be a memory from my lifetime.
 Obviously.
 
  
-**Nightingale**
+**Nightingale:**
 But...the fact that you have taken an interest in me...
 
  
-**Nightingale**
+**Nightingale:**
 Does that mean you have taken an interest in nursing, treatment, and sanitation?
 
  
-**Nightingale**
+**Nightingale:**
 Excellent.
 In that case...
 
  
-**Nightingale**
+**Nightingale:**
 Hello.
 
  
-**Nightingale**
+**Nightingale:**
 Thank you all for gathering today.
 I, Florence Nightingale, am extremely pleased.
 
  
-**Nightingale**
+**Nightingale:**
 You have gathered here today because you all value human life, and all of you have sacrificed on behalf of others. It is my sincere belief that we can have a meaningful, productive discussion.
 
  
-**Nightingale**
+**Nightingale:**
 For the sake of all human life.
 For Fujimaru, who has also shown interest.
 
  
-**Nightingale**
+**Nightingale:**
 And, of course, for each of us as well.
 
  
-**Nightingale**
+**Nightingale:**
 I'm looking forward to hearing everyone's input.
 
  
-**Paracelsus**
+**Paracelsus:**
 Likewise, Miss Nightingale.
 
  
-**Paracelsus**
+**Paracelsus:**
 I am yet inexperienced as a practitioner of medicine, but I hope to be of some small assistance.
 
  
-**Paracelsus**
+**Paracelsus:**
 Above all, I would like to learn more, as well.
 
  
-**Nightingale**
+**Nightingale:**
 ... (Nods)
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 Hm. I thought this was simply a gathering of beautiful women. Seems I was mistaken.
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 Still, this isn't terrible. An angel in a white nurse's outfit, a black-haired beauty, and one very sprightly girl.
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 Ah, what a wonderful selection. A buffet of beauties...the cream of the crop. This isn't just about being surrounded by beauty; it's like a harem!
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 Ah, my apologies.
 I got a bit overexcited. Just a joke!
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 This is a gathering for those who want to save people, right?
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 Well, then I have every reason to be here. I do have a Noble Phantasm that can save lives, after all!
 
  
-**Nightingale**
+**Nightingale:**
 ... (Nods)
 
  
-**Sanzang**
+**Sanzang:**
 Um!
 
  
-**Sanzang**
+**Sanzang:**
 I don't really get it, but we're just here to talk about how to save people, right?
 
  
-**Sanzang**
+**Sanzang:**
 Then leave it to me! I have the guidance of the Buddha, so you're in good hands!
 
  
-**Sanzang**
+**Sanzang:**
 Aw, if I'd known there was a support group like this,
 I would have dragged Touta here, too.
 
  
-**Sanzang**
+**Sanzang:**
 So, what are we going to talk about first?
 The health benefits of fasting?
 
  
-**Nightingale**
+**Nightingale:**
 ... (Nods deeply)
 
  
-**Fou**
+**Fou:**
 Fou, fooouuu...
 
  
-**Mash**
+**Mash:**
 Y-yes, Fou.
 I sense an indescribable feeling in the air.
 
  
-**Mash**
+**Mash:**
 I thought this was just discussion group for Servants who have recovery skills...
 
  
-**Mash**
+**Mash:**
 But it feels more like they're anxious and getting pumped up to go into the simulator for combat training...
 
  
@@ -374,7 +374,7 @@ But it feels more like they're anxious and getting pumped up to go into the simu
 **Fujimaru 1:**
 This is a bit tense for a discussion group...
  
-**Mash**
+**Mash:**
 A-a just point...
 
  
@@ -384,7 +384,7 @@ A-a just point...
 **Fujimaru 2:**
 Nightingale's hosting this?
  
-**Mash**
+**Mash:**
 Yes, Senpai. It appears that Nightingale had approached everyone earlier.
 
  
@@ -392,11 +392,11 @@ Yes, Senpai. It appears that Nightingale had approached everyone earlier.
 
 ---
  
-**Mash**
+**Mash:**
 If I may ask...um...is it appropriate to call Sanzang someone with recovery skills?
 
  
-**Mash**
+**Mash:**
 I don't believe she has any skills like that.
 
  
@@ -415,92 +415,92 @@ That's totally wrong...
 
 ---
  
-**Mash**
+**Mash:**
 Y-yes...and it appears that Fionn believes that everyone but himself is female...
 
  
-**Fou**
+**Fou:**
 Fou.
 
  
-**Nightingale**
+**Nightingale:**
 Devotion to helping others is my creed. I search the battlefields after overcoming many obstacles.
 
  
-**Nightingale**
+**Nightingale:**
 All the injured and sick must be saved.
 Yes... Life is precious. I must save all lives.
 
  
-**Nightingale**
+**Nightingale:**
 And to do so, I must let go of all that holds me back or makes me hesitate. Yes...and that's why...
 
  
-**Nightingale**
+**Nightingale:**
 First and foremost, hygiene is key.
 Good hygiene is a bare minimum requirement.
 
  
-**Nightingale**
+**Nightingale:**
 All affected body parts and the surrounding environment must be sanitary. Uncleanliness is the enemy. It is the enemy of all medical practices.
 
  
-**Paracelsus**
+**Paracelsus:**
 Life is precious.
 And hygiene is indeed very important.
 
  
-**Paracelsus**
+**Paracelsus:**
 Very admirable, Miss Nightingale.
 Truly you are a noble Heroic Spirit.
 
  
-**Nightingale**
+**Nightingale:**
 ... (Nods)
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 Of course, clean water is also important. Any water I pour from these hands of mine becomes water of life...
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 But yes, water should be clean. That also helps lovely flowers bloom. I agree, my wonderful ladies.
 
  
-**Nightingale**
+**Nightingale:**
 ... (Nods)
 
  
-**Sanzang**
+**Sanzang:**
 Eh? What? Clean? Are you talking about washing or cleaning up after yourself?
 
  
-**Sanzang**
+**Sanzang:**
 I like it when things get cleaned, too.
 
  
-**Sanzang**
+**Sanzang:**
 Whenever I go to an inn, the first thing I do is clean the dust off the bed!
 
  
-**Sanzang**
+**Sanzang:**
 Of course...my disciples always said my room was too messy.
 
  
-**Sanzang**
+**Sanzang:**
 Buuut I really do like it when things are clean!
 I'd even clean up after myself if someone made me!
 
  
-**Nightingale**
+**Nightingale:**
 ... (Nods deeply)
 
  
-**Fou**
+**Fou:**
 Fou, fooou!
 
  
-**Mash**
+**Mash:**
 Senpai, this is...
 
  
@@ -519,11 +519,11 @@ Nightingale looks satisfied.
 
 ---
  
-**Mash**
+**Mash:**
 Right, Senpai.
 
  
-**Mash**
+**Mash:**
 As unbelievable as it may be, they seem to be on the same page. At least this is a productive conversation!
 
  
@@ -542,189 +542,189 @@ Are they even talking about the same things?
 
 ---
  
-**Nightingale**
+**Nightingale:**
 I ask myself：How many patients can I save with these hands of mine?
 
  
-**Nightingale**
+**Nightingale:**
 I am a nurse, not a doctor. There are some out there who say that medicine should be left to doctors.
 
  
-**Nightingale**
+**Nightingale:**
 Sterilizing and disinfecting is sure to increase the chances of survival for the wounded and ill.
 
  
-**Nightingale**
+**Nightingale:**
 So many lives are in our hands before they ever reach the doctors.
 
  
-**Nightingale**
+**Nightingale:**
 ...Yes, there were too many...
 
  
-**Nightingale**
+**Nightingale:**
 That is why I advocate sterilization so much.
 
  
-**Nightingale**
+**Nightingale:**
 Treatment. Nursing. Maintaining hygiene. These are the weapons that we use to defeat the threat of injury and illness.
 
  
-**Nightingale**
+**Nightingale:**
 We are here to save every life we can.
 
  
-**Paracelsus**
+**Paracelsus:**
 Wonderful argument.
 Hygiene is also important in the world of alchemy.
 
  
-**Paracelsus**
+**Paracelsus:**
 When doing biomedical experiments, the patient's cleanliness and health management are crucial.
 The same is true in medicine, of course.
 
  
-**Paracelsus**
+**Paracelsus:**
 But for you to focus on that subject, and advocate it to spread the word... You really must love humans.
 
  
-**Nightingale**
+**Nightingale:**
 ... (Nods)
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 I completely understand!
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 It's the same kind of joy I feel when I come across a beautiful stream while I'm hunting deep in the forest!
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 The delightful sounds of a babbling brook, so like the finest instrument...the sunlight kissing the surface of the water to make it glisten...ah, exquisite!
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 Just like when I meet a beautiful woman for the first time!
 
  
-**Nightingale**
+**Nightingale:**
 ... (Nods)
 
  
-**Mash**
+**Mash:**
 (Eh!? Is that really something to nod at in agreement, Nightingale?)
 
  
-**Sanzang**
+**Sanzang:**
 A brook? You're talking about a river?
 I love bathing in water! It feels sooo good!
 
  
-**Sanzang**
+**Sanzang:**
 But...when you talk about a river, I think of fish. Oh, but I'm a disciple of the Buddha though, so I don't eat meat.
 
  
-**Sanzang**
+**Sanzang:**
 But I love to watch them. Fishes have these beady eyes that make them sooo cute!
 
  
-**Nightingale**
+**Nightingale:**
 ... (Nods deeply)
 
  
-**Fou**
+**Fou:**
 Fou, fooouuu...
 
  
-**Mash**
+**Mash:**
 I'm sort of confused about what Nightingale's been nodding at here tonight.
 
  
-**Mash**
+**Mash:**
 A-anyway, it doesn't sound like anybody's on the same page, but somehow the conversation is still going!
 
  
-**Nightingale**
+**Nightingale:**
 And now...
 
  
-**Nightingale**
+**Nightingale:**
 Let's continue our discussion. Well, I would like to, but perhaps we should take a short break.
 
  
-**Nightingale**
+**Nightingale:**
 It's time for our practical training.
 Everyone, ready yourselves.
 
  
-**Nightingale**
+**Nightingale:**
 To save the injured and sick, sometimes the use of force is necessary. Especially in the face of a threat that may increase the number of patients.
 
  
-**Nightingale**
+**Nightingale:**
 It is very important.
 
  
-**Paracelsus**
+**Paracelsus:**
 Ah, combat training.
 The medical ward may turn into a battlefield, it seems.
 
  
-**Paracelsus**
+**Paracelsus:**
 Some superstitious people have gone deranged after seeing medicine practiced, thinking it to be a ritual of the devil, and attacked the practitioners.
 
  
-**Paracelsus**
+**Paracelsus:**
 So in situations like that...yes...the use of force is necessary.
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 Oh? Is it time for me to demonstrate my valor?
 Perfect!
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 Honestly, I was starting to think it was time for me to change my flirting approac&ndash;err, I mean the topic!
 Good timing!
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 Heh. Then let's do it! I, Fionn mac Cumhaill,
 shall show off my glorious form!
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 I'm sure it'll drive the ladies wild!
 
  
-**Fionn mac Cumhaill**
+**Fionn mac Cumhaill:**
 And, as luck would have it, I don't see my annoying subordinate here to mess it up for me!
 
  
-**Sanzang**
+**Sanzang:**
 Eh? What?
 Battle? Huh? Why?
 
  
-**Sanzang**
+**Sanzang:**
 I-I'm going to participate too!?
 I'm beyond surprised!
 
  
-**Nightingale**
+**Nightingale:**
 Please head to the training site.
 
  
-**Nightingale**
+**Nightingale:**
 <span style=font-size:25px> IMMEDIATELY!</span>
 
  
-**Fou**
+**Fou:**
 Fooou!
 
  
-**Mash**
+**Mash:**
 Oh, are we going to battle in the simulator!?
 Senpai...
 
@@ -744,7 +744,7 @@ Yeah, just let them do whatever they want at this point.
 
 ---
  
-**Nightingale**
+**Nightingale:**
 [♂ Mister /♀️ Miss} Fujimaru. You will be playing the role of my subordinate this time. Understood?
 
  
@@ -763,7 +763,7 @@ I'll do it if you tell me...
 
 ---
  
-**Nightingale**
+**Nightingale:**
 Ready to treat!
 Repeat!
 
@@ -777,32 +777,32 @@ Ready to treat!
 
 ---
  
-**Nightingale**
+**Nightingale:**
 Very good. Now let's go.
 Miss Mash, I leave the operations to you.
 
  
-**Mash**
+**Mash:**
 Yes!
 
  
-**Mash**
+**Mash:**
 Senpai.
 U-um...g-good luck!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Nightingale**
+**Nightingale:**
 ...Good work.
 
  
-**Nightingale**
+**Nightingale:**
 Now we shall resume our discussion.
 Please take your seats. Quickly.
 
  
-**Mash**
+**Mash:**
 Y-yes...
 Senpai...
 
@@ -822,37 +822,37 @@ I-I might be a little tired.
 
 ---
  
-**Nightingale**
+**Nightingale:**
 ...?
 
  
-**Nightingale**
+**Nightingale:**
 What is the matter?
 You are looking pale.
 
  
-**Nightingale**
+**Nightingale:**
 Ah, I see. Have you by chance...not had adequate sleep, or not had a proper, balanced meal?
 
  
-**Nightingale**
+**Nightingale:**
 This is a problem.
 You are therefore injured.
 
  
-**Nightingale**
+**Nightingale:**
 Change of plans. I will begin treatment. First: sterilization. Then we will maintain the hygienic state.
 
  
-**Nightingale**
+**Nightingale:**
 Rest assured, [♂ Mister /♀️  Miss} Fujimaru.
 
  
-**Nightingale**
+**Nightingale:**
 I will save your life...even if I must first kill you to do so.
 
  
-**Nightingale**
+**Nightingale:**
 ...I guarantee it.
 
  
@@ -871,33 +871,33 @@ No, no...no!!!
 
 ---
  
-**Mash**
+**Mash:**
 U-um, you have it wrong, Nightingale.
 Senpai is neither injured nor sick!
 
  
-**Nightingale**
+**Nightingale:**
 Mash.
 
  
-**Mash**
+**Mash:**
 Y-yes?
 
  
-**Nightingale**
+**Nightingale:**
 You look pale as well.
 
  
-**Mash**
+**Mash:**
 !!!
 
  
-**Mash**
+**Mash:**
 N-no...that is not true... Not true at all!
 I am not hurt nor am I sick!
 
  
-**Nightingale**
+**Nightingale:**
 I will treat you as well.
 
  
@@ -916,129 +916,129 @@ She's more intense than usual!
 
 ---
  
-**Fou**
+**Fou:**
 Fou, fooou!
 
  
-**Nightingale**
+**Nightingale:**
 ...
 
  
-**Nightingale**
+**Nightingale:**
 Name: Fujimaru.
 Place of employment: Chaldea.
 
  
-**Nightingale**
+**Nightingale:**
 Breathing, pulse...all normal. No loss of limbs.
 No issues with the special nervous system, either.
 
  
-**Nightingale**
+**Nightingale:**
 Very good.
 There are no issues.
 
  
-**D：???**
+**D：???:**
 Hmph.
 Special nerves, you say?
 
  
-**D：???**
+**D：???:**
 To you, even the structure the mages call magical circuits is just a type of nerve.
 
  
-**Edmond Dantès**
+**Edmond Dantès:**
 I see you have had quite the eventful day.
 
  
-**Edmond Dantès**
+**Edmond Dantès:**
 Is this all because someone got a glimpse of your life and you panicked? You, the angel of steel...panic?
 
  
-**Edmond Dantès**
+**Edmond Dantès:**
 I caught a glimpse of something rare.
 Haha, thank you for that.
 
  
-**Nightingale**
+**Nightingale:**
 ...You.
 
  
-**Nightingale**
+**Nightingale:**
 I'll thank you to refrain from superfluous talk. It's not just Master...this place is overrun with the wounded and potentially ill.
 
  
-**Edmond Dantès**
+**Edmond Dantès:**
 Don't mind me.
 Just keep focusing on Fujimaru.
 
  
-**Edmond Dantès**
+**Edmond Dantès:**
 I'm sure a time will come when your help is needed.
 
  
-**Nightingale**
+**Nightingale:**
 ...
 
  
-**Nightingale**
+**Nightingale:**
 Your words confuse me.
 I do not comprehend all of what you say...
 
  
-**Nightingale**
+**Nightingale:**
 But I am a nurse.
 Nothing more, nothing less.
 
  
-**Edmond Dantès**
+**Edmond Dantès:**
 Hmph.
 
  
-**Edmond Dantès**
+**Edmond Dantès:**
 Many Heroic Spirits have arisen from human history! Many heroes are men and women of dauntless courage and battlefield valor!
 
  
-**Edmond Dantès**
+**Edmond Dantès:**
 But those who heal wounds...Heroic Spirits of salvation. There are not many of those.
 
  
-**Nightingale**
+**Nightingale:**
 ...
 
  
-**Nightingale**
+**Nightingale:**
 I still do not understand.
 Why not speak in your own native language?
 
  
-**Edmond Dantès**
+**Edmond Dantès:**
 Heh.
 
  
-**Nightingale**
+**Nightingale:**
 ...And he flees once again.
 
  
-**Nightingale**
+**Nightingale:**
 Heroic Spirit of salvation...
 That is quite the overstatement.
 
  
-**Nightingale**
+**Nightingale:**
 I am simply one who takes joy in treating and nursing others. And at the same time...
 
  
-**Nightingale**
+**Nightingale:**
 I am also saddened when I see Fujimaru hurt and suffering.
 
  
-**Mash**
+**Mash:**
 Ah!
 
  
-**Mash**
+**Mash:**
 Good morning, Senpai. It's a nice morning.
 Did you sleep well last night?
 
@@ -1049,7 +1049,7 @@ Did you sleep well last night?
 **Fujimaru 1:**
 I think I dreamed of an argument...or...something...
  
-**Mash**
+**Mash:**
 Hm???
 
  
@@ -1059,7 +1059,7 @@ Hm???
 **Fujimaru 2:**
 What about you, Mash?
  
-**Mash**
+**Mash:**
 I slept very well.
 All of my vitals are good.
 
@@ -1068,16 +1068,16 @@ All of my vitals are good.
 
 ---
  
-**Mash**
+**Mash:**
 Um, breakfast is ready.
 Shall we head to the cafeteria?
 
  
-**Mash**
+**Mash:**
 Actually...
 
  
-**Mash**
+**Mash:**
 I woke up early, so I helped out Emiya and Boudica in the kitchen today.
 
  
@@ -1095,26 +1095,26 @@ Okay, let's go to the cafeteria!
 
 ---
  
-**Mash**
+**Mash:**
 Yes, Senpai.
 
  
-**Mash**
+**Mash:**
 Good health comes from a good night's sleep and a proper, nutritious meal, right!?
 
 
 <h2>Fighting for Someone</h2>
 
-**Mash**
+**Mash:**
 Welcome back, Senpai!
 
  
-**Mash**
+**Mash:**
 Welcome back, everyone!
 Great job out there!
 
  
-**Mash**
+**Mash:**
 I can see the minute Singularity shrinking even as we speak. That's one less to worry about.
 
  
@@ -1124,7 +1124,7 @@ I can see the minute Singularity shrinking even as we speak. That's one less to 
 **Fujimaru 1:**
 I'm glad we took care of it without things getting out of hand.
  
-**Mash**
+**Mash:**
 Me too.
 
  
@@ -1134,20 +1134,20 @@ Me too.
 **Fujimaru 2:**
 Great job, everyone!
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hmph, that was so easy I didn't even need to bother going! Hahaha!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 But don't forget my tribute, all right? I don't have to tell you what you need to bring me so I'll spare your life, do I?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Heh heh heh, you'd better not ever forget I'm an oni!
 You can't just go ordering me around so easily!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 The moment you drop your guard, I'll eat your head and use your intestines to floss out any bits of skull that get stuck between my fangs. Don't forget that.
 
  
@@ -1165,12 +1165,12 @@ I won't.
 
 ---
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Mwahaha, so you do know your place!
 Not bad!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...Anyway, hurry up and do something about that one.
 She's been acting weird and it's bugging me.
 
@@ -1179,11 +1179,11 @@ She's been acting weird and it's bugging me.
 
 ---
  
-**Geronimo**
+**Geronimo:**
 ...Have you noticed, Master?
 
  
-**Geronimo**
+**Geronimo:**
 I was watching while we were in battle,
 and she was far less active than usual.
 
@@ -1198,104 +1198,104 @@ and she was far less active than usual.
 
 ---
  
-**Geronimo**
+**Geronimo:**
 Florence Nightingale.
 
  
-**Geronimo**
+**Geronimo:**
 I've never seen her be so passive in battle before.
 I did not notice any affliction or wound that might explain it.
 
  
-**Geronimo**
+**Geronimo:**
 There may be something wrong with her Spirit Origin.
 We should treat her at once.
 
  
-**Geronimo**
+**Geronimo:**
 You should let Da Vinci know about this,
 just in case.
 
  
-**Nightingale**
+**Nightingale:**
 What are you talking about?
 
  
-**Nightingale**
+**Nightingale:**
 I was?
 In that last battle?
 
  
-**Geronimo**
+**Geronimo:**
 ...That's right. Twice, there was an enemy right in front of you, and you didn't lift a finger to attack them.
 
  
-**Geronimo**
+**Geronimo:**
 You would not normally allow yourself to be so passive.
 Are you aware you were acting like that?
 
  
-**Nightingale**
+**Nightingale:**
 ...
 ...
 
  
-**Nightingale**
+**Nightingale:**
 I'm sorry, I don't understand what you mean.
 It's not my job to fight. I'm a nurse, not a soldier.
 
  
-**Nightingale**
+**Nightingale:**
 Though of course, that doesn't mean I won't fight should it become necessary.
 
  
-**Nightingale**
+**Nightingale:**
 There may well be times when I'm pinned down,
 unable to reach relief supplies right in front of me.
 
  
-**Nightingale**
+**Nightingale:**
 So in circumstances like that...
 
  
-**Nightingale**
+**Nightingale:**
 ...I'm sure I would do whatever was necessary to remove the obstacles in my way.
 
  
-**Nightingale**
+**Nightingale:**
 If it came down to it, I would have no hesitation about drawing a gun and pulling the trigger. Of that, I'm certain.
 
  
-**Nightingale**
+**Nightingale:**
 But...
 
  
-**Nightingale**
+**Nightingale:**
 ...enemy or not, to do that would be to cause injury with my own hands.
 
  
-**Nightingale**
+**Nightingale:**
 And nothing could be further from what I want.
 
  
-**Nightingale**
+**Nightingale:**
 Listen, Commander, that others think of me as a small army unto myself does not make me an officer.
 
  
-**Nightingale**
+**Nightingale:**
 I'm not here because I want to win wars.
 All I want is for the fighting to stop.
 
  
-**Nightingale**
+**Nightingale:**
 I...
 
  
-**Nightingale**
+**Nightingale:**
 I want to save lives.
 
  
-**Nightingale**
+**Nightingale:**
 As long as I can do that,
 I don't care about the rest...
 
@@ -1310,34 +1310,34 @@ Nightingale...
 
 ---
  
-**Nightingale**
+**Nightingale:**
 ...(Gasp!)
 
  
-**Nightingale**
+**Nightingale:**
 Nnn, I can't remember how I got here.
 Weren't we just fighting golems?
 
  
-**Nightingale**
+**Nightingale:**
 Are we back in Chaldea now? We are, aren't we?
 What have I been doing...?
 
  
-**Geronimo**
+**Geronimo:**
 You were telling us how you aren't a soldier.
 That is certainly true, of course, but... Hmm.
 
  
-**Geronimo**
+**Geronimo:**
 I knew it. Something is wrong with her Spirit Origin, Master.
 
  
-**Nightingale**
+**Nightingale:**
 I see.
 
  
-**Nightingale**
+**Nightingale:**
 Yes, I must not be feeling well. I will go rest.
 
  
@@ -1351,115 +1351,115 @@ Nightingale?
 
 ---
  
-**Mash**
+**Mash:**
 Nightingale!?
 
  
-**Gentleman**
+**Gentleman:**
 ...Are you listening to me, Florence?
 
  
-**Nightingale**
+**Nightingale:**
 Yes. I'm listening.
 
  
-**Nightingale**
+**Nightingale:**
 We were just talking about the front line's medical supply situation. I need your help, Sidney.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 Oh for... I knew it! You aren't listening to me at all, Florence! Do you even realize where you are!?
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 This is London! The capital of the entire British Empire! You aren't on the battlefield anymore, Florence.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 But it's clear to me that your heart is still there.
 Just look at you.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 I can't believe you're wearing an army uniform.
 You don't even work for them...
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 I won't ask what happened while you were there,
 but this is London, Florence. London.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 Do you understand?
 You can't go around behaving like this.
 
  
-**Nightingale**
+**Nightingale:**
 ...I dress this way for a reason.
 
  
-**Nightingale**
+**Nightingale:**
 You may find it strange. Maybe it is strange.
 But I'm fighting too, just like those soldiers.
 
  
-**Nightingale**
+**Nightingale:**
 I'll never stop fighting against the illness and injury plaguing our world. This uniform is more than appropriate for that.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 You'll never stop fighting...?
 
  
-**Nightingale**
+**Nightingale:**
 That's right.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 Ahh...
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 Don't do this to yourself anymore, Florence.
 Please. I'm begging you.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 You haven't been the Angel of Crimea for a long time now. You don't have to keep fighting any longer.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 It's time to focus on your own life now.
 What about... What about marriage?
 
  
-**Nightingale**
+**Nightingale:**
 Sidney?
 
  
-**Nightingale**
+**Nightingale:**
 What in the world are you talking about?
 You know nobody can get married on their own.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 ...That's not what I mean, and you know it.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 How long are you going to keep pretending not to know?
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 I haven't been helping solely out of the goodness of my heart, Florence. Everything I've done has been for you...
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 For years now, I...
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 I've always lo&ndash;
 
  
@@ -1481,106 +1481,106 @@ No. It's not just that.
 In all my life, nobody ever told me they loved me...
 
  
-**Voice**
+**Voice:**
 I see.
 
  
-**Voice**
+**Voice:**
 I always thought your way of life was...bizarre, but now, you've started seeing cracks in your own facade.
 
  
-**Voice**
+**Voice:**
 Heh.
 Fascinating.
 
  
-**Voice**
+**Voice:**
 But...I'm not about to let you dig your own grave.
 
  
-**Nightingale**
+**Nightingale:**
 You have horrid taste in hobbies.
 
  
-**Nightingale**
+**Nightingale:**
 Do you always go around spying on women while they're sleeping?
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 ...Hmph.
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 Most Servants don't sleep at all, let alone dream.
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 That you are here, now, doing both makes plain that something is wrong with your Spirit Origin.
 
  
-**Nightingale**
+**Nightingale:**
 ...
 ...
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 Generally speaking, all of Chaldea's Servants are linked to Master. It's no wonder that sometimes lines may get a little blurred.
 
  
-**Nightingale**
+**Nightingale:**
 How dare you say that to me?
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 Something like this has happened to you before, hasn't it?
 
  
-**Nightingale**
+**Nightingale:**
 That wasn't me. It was Fujimaru who...
 
  
-**Nightingale**
+**Nightingale:**
 Yes. It has.
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 Nice to see you be direct about it.
 
  
-**Nightingale**
+**Nightingale:**
 It's clear what is going on here.
 There's no point in denying it.
 
  
-**Nightingale**
+**Nightingale:**
 ...I must be mentally injured.
 
  
-**Holmes**
+**Holmes:**
 Heroic Spirits...
 
  
-**Holmes**
+**Holmes:**
 ...are usually created when a human being ascends beyond their humanity. At this point, they have yet to be assigned a class.
 
  
-**Holmes**
+**Holmes:**
 For one thing, the very concept of classes only arose as a byproduct of the Heroic Spirit Summoning Ritual.
 
  
-**Holmes**
+**Holmes:**
 Naturally, Chaldea's summoning system follows the same principles, typically assigning each Heroic Spirit one of the seven classes.
 
  
-**Holmes**
+**Holmes:**
 But there are, of course, exceptions to this rule. Most potential problems can be avoided if there is an appropriate Extra class to which the Heroic Spirit can be assigned...
 
  
-**Holmes**
+**Holmes:**
 ...but there may also be times when a Heroic Spirit is forced into a class for which they may not be fully suited.
 
  
-**Holmes**
+**Holmes:**
 Such cases can certainly become cause for distortion of one sort of another.
 
  
@@ -1599,23 +1599,23 @@ Could you try that again, only way, waaay simpler?
 
 ---
  
-**Holmes**
+**Holmes:**
 ...The Ms. Nightingale we know is a Berserker.
 
  
-**Holmes**
+**Holmes:**
 She is clearly a fighter, with her struggles to save lives as a nurse now manifesting in more literal terms.
 
  
-**Holmes**
+**Holmes:**
 But is that who she truly is? Was she always so obstinate during her life as a human woman?
 
  
-**Holmes**
+**Holmes:**
 Or is the fierce devotion we see in her a caricature of her true self, exaggerated to fit her Berserker class?
 
  
-**Holmes**
+**Holmes:**
 If the latter, she will continue to strain her mind and Spirit Origin for the length of her materialization.
 
  
@@ -1634,88 +1634,88 @@ Then, I've been forcing her to be something she's not all this time...
 
 ---
  
-**Mash**
+**Mash:**
 N-not necessarily!
 
  
-**Mash**
+**Mash:**
 I know that in my case, I never felt like I was under any strain.
 
  
-**Mash**
+**Mash:**
 So maybe it's similar for&ndash;
 
  
-**Holmes**
+**Holmes:**
 As a Demi-Servant, Ms. Kyrielight,
 your circumstances are even more unusual.
 
  
-**Holmes**
+**Holmes:**
 Thus, I'm afraid your argument may not hold much water in this case.
 
  
-**Da Vinci**
+**Da Vinci:**
 Ugh, not again, Holmes. You really can be kind of a twat sometimes, you know that?
 
  
-**Holmes**
+**Holmes:**
 Can I now?
 
  
-**Da Vinci**
+**Da Vinci:**
 You don't have to put it like that. Summoning a Heroic Spirit with a mind of their own has always been a huge deal.
 
  
-**Da Vinci**
+**Da Vinci:**
 And it's especially difficult to maintain a contract with a Berserker. This is KNOWN.
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 ...It makes no difference to me.
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 Let's go, Fujimaru.
 
  
-**Mash**
+**Mash:**
 Wha&ndash;
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 Take care of [♂ his /♀️ her} body, girl.
 Er, Mash Kyrielight.
 
  
-**Mash**
+**Mash:**
 W-wait! What are you talking about, Count!?
 
  
-**Mash**
+**Mash:**
 Ah! Senpai!
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 Ah, [♂ Mr. /♀️ Miss} Fujimaru!
 Excellent timing!
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 Please, would you say something to Florence?
 I can't seem to get through to her myself.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 But maybe she'll listen to you,
 since you're one of her colleagues.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 Go on! Please, say something!
 
  
-**Nightingale**
+**Nightingale:**
 ...
 ...
 
@@ -1735,7 +1735,7 @@ What is this place...
 
 ---
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 You are seeing her mind as it is now.
 Normally you would only see this in your dreams.
 
@@ -1750,21 +1750,21 @@ So this is Nightingale's...
 
 ---
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 That's right.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 Are you all right, [♂ Mr. /♀️ Miss} Fujimaru?
 Your eyes seemed to glaze over for a moment.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 Please, you have to talk to Florence.
 She needs to rest up and return to her normal life.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 She only just got back from the war, and she's still intent on fighting. She can't keep going like this.
 
  
@@ -1783,59 +1783,59 @@ I'm sorry, do I know you?
 
 ---
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 He's nobody.
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 Remember, she's a Berserker. Most of her rational mind was sealed away when she materialized.
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 Ordinary people could never keep the fires of battle raging in their hearts at all times, but that's not the case for Berserkers.
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 However, that of course comes at a cost.
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 There's something that builds up deep down inside Berserkers over time.
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 Especially in the ones who still speak with some semblance of sanity!
 
  
-**Nightingale**
+**Nightingale:**
 ...
 ...
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 It becomes twisted, warped, distorted.
 At times, it can even manifest.
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 Sometimes, it appears as a monster who wants nothing more than to follow its destructive impulses and lay waste to everything around it...
 
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 ...and sometimes, it embodies reason in the shape of an old friend!
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 She needs to rest now.
 She shouldn't push herself anymore.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 Come now, Florence, think about it.
 There's no reason to do this to yourself.
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 Don't you agree, [♂ Mr. /♀️ Miss} Fujimaru!?
 
  
@@ -1849,11 +1849,11 @@ Maybe you're right.
 
 ---
  
-**Sidney Herbert**
+**Sidney Herbert:**
 Of course I am!
 
  
-**Sidney Herbert**
+**Sidney Herbert:**
 So she should stop this right&ndash;
 
  
@@ -1866,7 +1866,7 @@ But not yet.
 
 ---
  
-**Sidney Herbert**
+**Sidney Herbert:**
 What was that...?
 
  
@@ -1879,32 +1879,32 @@ I want to keep fighting beside her until the very end.
 
 ---
  
-**Sidney Herbert**
+**Sidney Herbert:**
 What!?
 
  
-**Nightingale**
+**Nightingale:**
 ...
 ...
 
  
-**Nightingale**
+**Nightingale:**
 ...So that's your wish, Fujimaru?
 
  
-**Nightingale**
+**Nightingale:**
 Very well then, I accept your request. I will return to the battlefield to save as many lives as I can.
 
  
-**Nightingale**
+**Nightingale:**
 If helping those in need requires me to do violence, then so be it.
 
  
-**Nightingale**
+**Nightingale:**
 Good grief. I guess you're no better than me in some ways, Commander.
 
  
-**Nightingale**
+**Nightingale:**
 Your desire to remain on the battlefield with me can't be healthy. I must cure you of it...some day.
 
  
@@ -1918,33 +1918,33 @@ Works for me.
 
 ---
  
-**Count of Monte Cristo**
+**Count of Monte Cristo:**
 I see your appearance has changed.
 Not bad.
 
  
-**Nightingale**
+**Nightingale:**
 So it has. I didn't mean for my hair to come undone...but perhaps it suits who I am now.
 
  
-**Nightingale**
+**Nightingale:**
 If I'm to embrace my Berserker self...then I must admit this is who I am.
 
  
-**Nightingale**
+**Nightingale:**
 A wild woman, hair untamed, saving every life she can without regard for her own safety.
 
  
-**Nightingale**
+**Nightingale:**
 This is who I truly am right now.
 
  
-**Nightingale**
+**Nightingale:**
 All right then, Commander. No...Master.
 First, I'll need your help with something.
 
  
-**Nightingale**
+**Nightingale:**
 The temporary excision of this fragment of rationality masquerading as an old friend.
 
  
@@ -1963,31 +1963,31 @@ Let the healing begin!
 
 ---
  
-**Nightingale**
+**Nightingale:**
 Good. Very well then...
 
  
-**Nightingale**
+**Nightingale:**
 Start the treatment!!!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Nightingale**
+**Nightingale:**
 Good morning.
 ...I see you have more or less awoken on schedule today.
 
  
-**Nightingale**
+**Nightingale:**
 It's been a week since your last morning exam, so I'd like you to come to the infirmary for a follow-up.
 
  
-**Nightingale**
+**Nightingale:**
 Mash Kyrielight is already on standby there,
 so do try to hurry.
 
  
-**Nightingale**
+**Nightingale:**
 Now, if you'll excuse me.
 
  
@@ -2000,7 +2000,7 @@ Nightingale!
 
 ---
  
-**Nightingale**
+**Nightingale:**
 Yes?
 
  
@@ -2014,11 +2014,11 @@ Yes?
 
 ---
  
-**Nightingale**
+**Nightingale:**
 Yes, it is a good morning.
 
  
-**Nightingale**
+**Nightingale:**
 ...Thank you again for fighting by my side, Master.
 
 

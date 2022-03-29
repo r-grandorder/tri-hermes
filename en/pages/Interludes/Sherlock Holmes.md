@@ -1308,7 +1308,7 @@ Hahahahahahahaha―
 
 ---
 
-**Translation Notes**
+**Translation Notes:**
 
 1) (Or else everything that I've prepared for will go to waste!) - This line only appears if you have completed [Moriarty's interlude.](https://www.reddit.com/r/grandorder/comments/ezryxd/james_moriartys_interlude_translation/)
 

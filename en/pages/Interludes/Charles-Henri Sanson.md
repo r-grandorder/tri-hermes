@@ -2,29 +2,29 @@
 
 <h2>Guillotine Boy</h2>
 
-**Sanson**
+**Sanson:**
 ...
 
  
-**Citizen**
+**Citizen:**
 Guillotine!
 Put 'em on the guillotine!
 
  
-**Citizen**
+**Citizen:**
 Be beheaded and know the evil you have done up to now!
 
  
-**Sanson**
+**Sanson:**
 ...
 
  
-**Citizen**
+**Citizen:**
 Guillotine! Guillotine! Guillotine!
 Kill them! Kill them! Kill them!
 
  
-**Sanson**
+**Sanson:**
 ...Whoa.
 You seemed to be having a nightmare. What happened?
 
@@ -39,40 +39,40 @@ The dream, just now...
 
 ---
  
-**Sanson**
+**Sanson:**
 Maybe you dreamed about me?
 Really, I was just recalling the past now, too.
 
  
-**Sanson**
+**Sanson:**
 ...My life is a repeat of what you saw.
 There are no regrets. None obviously.
 
  
-**Sanson**
+**Sanson:**
 I mean, an executioner wielding a sword with regret would be something below a packhorse.
 
  
-**Sanson**
+**Sanson:**
 I send criminals to heaven, without an instant of pain, to enable them to travel freely to their death.
 
  
-**Sanson**
+**Sanson:**
 Executioners are the blades of the state at all times.
 It wouldn't work any other way.
 
  
-**Sanson**
+**Sanson:**
 This is because the law can be bent at any time.
 If it declares a criminal innocent, that's fine too.
 
  
-**Sanson**
+**Sanson:**
 They merely slipped through a loophole of the law.
 As long as nobody gives up, the criminal will still be punished someday.
 
  
-**Sanson**
+**Sanson:**
 But&ndash;the law punishes the innocent at times.
 This was especially prominent in the French Revolution.
 
@@ -87,129 +87,129 @@ Innocent people were killed?
 
 ---
  
-**Sanson**
+**Sanson:**
 That's right.
 
  
-**Sanson**
+**Sanson:**
 ...Their crime, if any, was being born.
 
  
-**Sanson**
+**Sanson:**
 That child died simply because he served a man that should be executed.
 
  
-**Sanson**
+**Sanson:**
 Considering that, though there still are loopholes, the fact that the act of punishing the innocent has became rare 
  
-**Sanson**
+**Sanson:**
 should be something welcomed.
 
  
-**Sanson**
+**Sanson:**
 ...Oh, sorry.
 I apparently disturbed your slumber.
 
  
-**Sanson**
+**Sanson:**
 I pray that you have sweet dreams.
 Well, good night.
 
  
-**Sanson**
+**Sanson:**
 Oh, is it Mash and Master?
 What happened?
 
  
-**Sanson**
+**Sanson:**
 ...That's right. It's definitely strange here.
 It looks like... France, but not the Paris I grew up in.
 
  
-**Mash**
+**Mash:**
 I can't specify the place. It appears that I can't communicate with the Doctor either.
 
  
-**Mash**
+**Mash:**
 We may have been flown off to another era during the Rayshift.
 
  
-**Mash**
+**Mash:**
 Let's ask what's going on in the city, first.
 
  
-**Mash**
+**Mash:**
 There may be a Singularity, and we may be able to return if we fix that.
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Sanson**
+**Sanson:**
 Oh, you're here, too?
 ...Yeah, it's as you say, Mash.
 
  
-**Sanson**
+**Sanson:**
 Let's move onward, Master.
 We just might find something.
 
  
-**Citizen**
+**Citizen:**
 H-Help...
 
  
-**Soldier**
+**Soldier:**
 Quiet! You're guilty!
 Proceed with the execution!
 
  
-**Sanson**
+**Sanson:**
 What'd you say...You stop it.
 It's impossible to have an execution without a trial!
 
  
-**Mash**
+**Mash:**
 Sanson!?
 
  
-**Soldier**
+**Soldier:**
 Who're you?
 You, a townsman, dare to defy us!?
 
  
-**Soldier**
+**Soldier:**
 Gosh. These uneducated morons!
 I shall execute you, in the name of the King.
 
  
-**Sanson**
+**Sanson:**
 ...What...!?
 
  
-**Soldier**
+**Soldier:**
 No need for excuses.
 We shall judge you!
 
  
-**Sanson**
+**Sanson:**
 ...Right. How lucky. You said excuses are useless, and there's no room for discussion, right?
 
  
-**Sanson**
+**Sanson:**
 "Thanks for making this easy for me."
 I feel like my soul is defiled simply by talking to you.
 
  
-**Sanson**
+**Sanson:**
 Permission to fight, Master.
 I'll ask these soldiers where the true crime lies.
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Sanson**
+**Sanson:**
 We're good. They are unable to fight for now.
 Let's free the citizens at once.
 
@@ -230,131 +230,131 @@ What if they're guilty?
 
 ---
  
-**Sanson**
+**Sanson:**
 ...Be that as it may, the law is the law.
 The area should be arranged for an execution, at least.
 
  
-**Sanson**
+**Sanson:**
 Not believing their innocence while helping them...
 I must say I feel quite contradictory.
 
  
-**Citizen**
+**Citizen:**
 Ugh...!
 
  
-**Soldier**
+**Soldier:**
 So we're done with all executions, right?
 
  
-**Soldier**
+**Soldier:**
 Not yet.
 You still have this child.
 
  
-**Child**
+**Child:**
 Uuh...
 
  
-**Sanson**
+**Sanson:**
 &ndash;That's enough.
 
  
-**Soldier**
+**Soldier:**
 ...Why do you stop us?
 
  
-**Sanson**
+**Sanson:**
 ...er!
 It's obvious, isn't it!
 
  
-**Sanson**
+**Sanson:**
 That's not the law or an execution!
 Just one-sided, unreasonable slaughter!
 
  
-**Soldier**
+**Soldier:**
 &ndash;You were involved, too, weren't you?
 Charles-Henri Sanson.
 
  
-**Sanson**
+**Sanson:**
 ...What...!?
 
  
-**Soldier**
+**Soldier:**
 Right.
 You're in no position to say that.
 
  
-**Soldier**
+**Soldier:**
 In the name of the King.
 In the name of the government.
 
  
-**Soldier**
+**Soldier:**
 How many men did you kill?
 How many men did you punish?
 
  
-**Soldier**
+**Soldier:**
 ...There were many innocent people among them, I bet.
 
  
-**Sanson**
+**Sanson:**
 Stop...Stop!!
 
  
-**Soldier**
+**Soldier:**
 IT IS YOUR FAULT!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Sanson**
+**Sanson:**
 (Panting...)
 
  
-**Mash**
+**Mash:**
 Sanson...
 
  
-**Sanson**
+**Sanson:**
 ...I know. I do know.
 I know that!
 
  
-**Sanson**
+**Sanson:**
 But, execution and murder are different!
 No, they have to be different!
 
  
-**Sanson (?)**
+**Sanson (?):**
 &ndash;Well, can you explain the difference?
 
  
-**Sanson**
+**Sanson:**
 ...Er!?
 Are you&ndash;me?
 
  
-**Sanson (?)**
+**Sanson (?):**
 Am I you?
 
  
-**Sanson (?)**
+**Sanson (?):**
 You became a Servant.
 Do you kill somebody with your own free-will?
 
  
-**Sanson (?)**
+**Sanson (?):**
 Or will you obey your Master&ndash;conform to the law,
 and execute someone?
 
  
-**Sanson**
+**Sanson:**
 I am...
 I am...
 
@@ -375,15 +375,15 @@ Sanson is an executioner.
 
 ---
  
-**Sanson**
+**Sanson:**
 Master...
 
  
-**Sanson (?)**
+**Sanson (?):**
 This man was once greatly confused in France, and murdered many men.
 
  
-**Sanson (?)**
+**Sanson (?):**
 How can you say he won't follow the same path again?
 
  
@@ -397,53 +397,53 @@ As long as I'm the Master.
 
 ---
  
-**Sanson**
+**Sanson:**
 ...Master...
 
  
-**Sanson (?)**
+**Sanson (?):**
 If you're going to go that far, Master, I shall put that resolve to the test.
 
  
-**Sanson (?)**
+**Sanson (?):**
 Whether or not "Sanson" can truly overcome it&ndash;!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Sanson (?)**
+**Sanson (?):**
 ...Hmph.
 You're that determined, Master?
 
  
-**Sanson (?)**
+**Sanson (?):**
 That's fine, then. Though I have yet to assess whether I can place my blade of trust with you&ndash;
 
  
-**Sanson (?)**
+**Sanson (?):**
 First, let's show you what I can do as an executioner.
 
  
-**Sanson**
+**Sanson:**
 Hey there.
 Were you dreaming?
 
  
-**Sanson**
+**Sanson:**
 ...Probably.
 I was dreaming myself.
 
  
-**Sanson**
+**Sanson:**
 ...Still no end to my worries.
 No, my agony haunts me even now, after death.
 
  
-**Sanson**
+**Sanson:**
 Nevertheless, I offer my strength to you for believing in me then.
 
  
-**Sanson**
+**Sanson:**
 Because that's all that I can do now&ndash;
 
 

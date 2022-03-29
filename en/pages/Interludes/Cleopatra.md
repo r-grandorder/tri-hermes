@@ -2,36 +2,36 @@
 
 <h2>Where Beauty Lies</h2>
 
-**Cleopatra**
+**Cleopatra:**
 Hello! As ever, you have that sad puppy look on your face, Master!
 
  
-**Cleopatra**
+**Cleopatra:**
 But that doesn't mean it's a bad thing. Beauty is in the eye of the beholder, after all. Everything is!
 
  
-**Cleopatra**
+**Cleopatra:**
 Besides, it's the common crossbreed pups with that doe-eyed sad look who stop passersby at the pet shop windows.
 
  
-**Cleopatra**
+**Cleopatra:**
 Too many expensive breeds with bright eyes and shining coats could intimidate people passing by!
 
  
-**Cleopatra**
+**Cleopatra:**
 That's why you shouldn't feel ashamed and actually be proud of being a hot ticket item.
 
  
-**Cleopatra**
+**Cleopatra:**
 After all, no matter how much you flail about,
 you can never change the essence of who you are.
 
  
-**Mash**
+**Mash:**
 O-okay... To be honest, I do not really understand what you're saying.
 
  
-**Mash**
+**Mash:**
 But anyway... Welcome, Cleopatra.
 
  
@@ -41,12 +41,12 @@ But anyway... Welcome, Cleopatra.
 **Fujimaru 1:**
 You are quite the beauty today, as usual.
  
-**Cleopatra**
+**Cleopatra:**
 Tee hee. I tire of such praise.
 You're only stating the obvious, you know.
 
  
-**Cleopatra**
+**Cleopatra:**
 But at least you never fail to acknowledge those around you. Let's go eat some fruit together later.
 
  
@@ -56,11 +56,11 @@ But at least you never fail to acknowledge those around you. Let's go eat some f
 **Fujimaru 2:**
 Hello.
  
-**Cleopatra**
+**Cleopatra:**
 You have the gall to address me like a mere friend!? I should be adored like the queen that I am! This is a disgrace that I, Cleopatra VII, have never experienced!
 
  
-**Cleopatra**
+**Cleopatra:**
 Such disrespect! And yet how refreshing! Whatever should I do!? What kind of reward would you like, for offering such new experience to me!?
 
  
@@ -68,33 +68,33 @@ Such disrespect! And yet how refreshing! Whatever should I do!? What kind of rew
 
 ---
  
-**Mash**
+**Mash:**
 So, Cleopatra, we seldom see you around here.
 
  
-**Mash**
+**Mash:**
 What brings you here today?
 
  
-**Cleopatra**
+**Cleopatra:**
 ...?
 But you just mentioned my reason for being here.
 
  
-**Mash**
+**Mash:**
 Wha...?
 
  
-**Cleopatra**
+**Cleopatra:**
 ...(Sigh) I suppose I'll have to spell it out for you, won't I?
 
  
-**Cleopatra**
+**Cleopatra:**
 As a special favor to you, I'll explain everything.
 Clear as day.
 
  
-**Cleopatra**
+**Cleopatra:**
 Listen. It's been quite a while since I was summoned here.
 
  
@@ -112,11 +112,11 @@ I use your fighting technique all the time.
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 But I realized that I had forgotten something crucial.
 
  
-**Cleopatra**
+**Cleopatra:**
 It's something that should have been done much earlier, and I feel that failing to do so has caused certain complications to arise.
 
  
@@ -129,57 +129,57 @@ It's something that should have been done much earlier, and I feel that failing 
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 ... You do realize that you summoned me, the ultimate beauty of the world, Cleopatra VII Philopator, right?
 
  
-**Cleopatra**
+**Cleopatra:**
 And thus, I am able to make time, without any warning, and without opening up anyone's schedule and do this...
 
  
-**Cleopatra**
+**Cleopatra:**
 Which means, there's only one thing to do...
 
  
-**Cleopatra**
+**Cleopatra:**
 We must have a photo shoot!
 
  
-**Mash**
+**Mash:**
 !?
 
  
-**Mash**
+**Mash:**
 I-I'm sorry, Cleopatra.
 I don't quite follow...
 
  
-**Cleopatra**
+**Cleopatra:**
 What was unclear in what I said?
 
  
-**Cleopatra**
+**Cleopatra:**
 I can't imagine I need to explain what a photo shoot is, do I?
 
  
-**Cleopatra**
+**Cleopatra:**
 I do not visit Master's room that often...so I wish to immortalize this moment with a photo shoot!
 
  
-**Cleopatra**
+**Cleopatra:**
 If you still don't understand now, then you will just have to come and see for yourself.
 
  
-**Cleopatra**
+**Cleopatra:**
 Now come, Master.
 It's time to head out!
 
  
-**Cleopatra**
+**Cleopatra:**
 A professional photo shoot obviously requires a talented photographer. We must first recruit a cameraman!
 
  
-**Mash**
+**Mash:**
 Oh, wait, Cleopatra!
 Cleopatra!?
 
@@ -190,12 +190,12 @@ Cleopatra!?
 **Fujimaru 1:**
 There's no use arguing. Let's go.
  
-**Mash**
+**Mash:**
 ...I suppose we can't just leave her alone like this.
 Who knows what she has in mind, though...
 
  
-**Mash**
+**Mash:**
 All right, Senpai. After you.
 
  
@@ -205,11 +205,11 @@ All right, Senpai. After you.
 **Fujimaru 2:**
 Let's play along. Sounds like fun.
  
-**Mash**
+**Mash:**
 Fun...? Do you think so...?
 
  
-**Mash**
+**Mash:**
 Either way, we can't just leave Cleopatra to her devices. All right, Senpai. After you.
 
  
@@ -217,39 +217,39 @@ Either way, we can't just leave Cleopatra to her devices. All right, Senpai. Aft
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 You should be honored. You have been selected as the gifted artisan who will immortalize my beauty!
 
  
-**Georgios**
+**Georgios:**
 ...?
 
  
-**Mash**
+**Mash:**
 I-I'm terribly sorry, Georgios.
 
  
-**Mash**
+**Mash:**
 I'm sure Cleopatra's beautiful, wonderful greeting has you so dumbfounded that you've just stopped in your tracks, and can think of nothing to say.
 
  
-**Mash**
+**Mash:**
 Allow me to explain what she was talking about.
 
  
-**Mash**
+**Mash:**
 She is asking you to be her photographer, Georgios.
 
  
-**Georgios**
+**Georgios:**
 Well, if it isn't Master and Mash.
 
  
-**Georgios**
+**Georgios:**
 I see...so you seek my talent.
 
  
-**Georgios**
+**Georgios:**
 If that is what you require, I'd be happy to accept...
 But I was actually on my way to the Saints' Club...
 
@@ -263,77 +263,77 @@ Saints' Club?
 
 ---
  
-**Georgios**
+**Georgios:**
 As the name entails,
 it is a meeting of the saints here in Chaldea.
 
  
-**Georgios**
+**Georgios:**
 There's no official agenda, but I believe there is a purpose for me in joining such a club.
 
  
-**Georgios**
+**Georgios:**
 Yes... For example, should a saintly woman with excessive strength start shadow boxing all of a sudden...
 
  
-**Georgios**
+**Georgios:**
 Or should a mysterious, saint-like individual from the Far East chuckle menacingly...
 
  
-**Georgios**
+**Georgios:**
 Or if a precocious young saint asks where babies come from...
 
  
-**Georgios**
+**Georgios:**
 Or if a dark saintly woman who shows contempt for sainthood mistakenly gets captured on film...
 
  
-**Georgios**
+**Georgios:**
 When such a time comes, I will need to be present.
 Oh, my Lord...
 
  
-**Mash**
+**Mash:**
 Y-you seem to have it tough...
 
  
-**Cleopatra**
+**Cleopatra:**
 Then this is exactly the time you're waiting for!
 
  
-**Cleopatra**
+**Cleopatra:**
 Unlike that obscure and unfulfilling labor that you mentioned, the job that I am requesting you to do is quite simple. Rewarding. Coveted, in fact.
 
  
-**Cleopatra**
+**Cleopatra:**
 In better times, my worshippers (read: fans) would have desired even the tiniest reminder of my beauty to keep and gaze upon lovingly in their homes...
 
  
-**Cleopatra**
+**Cleopatra:**
 And they would have gladly waited in long lines carrying their expensive memory-preserving machines that were purchased with their life savings!
 
  
-**Cleopatra**
+**Cleopatra:**
 As I said, you are being freely offered this great honor. You have no cause to hesitate!
 
  
-**Georgios**
+**Georgios:**
 Yes, but I am not hesitating.
 
  
-**Georgios**
+**Georgios:**
 I have prior commitments, and who knows what kind of hellish scene the Saints' Club may be without me there.
 
  
-**Cleopatra**
+**Cleopatra:**
 Ungh... He cannot seem to grasp my simple logic. Even a child would have understood. He really must not know a thing about beauty.
 
  
-**Cleopatra**
+**Cleopatra:**
 He must have lived an abstentious life, which led to him forgetting what it even means to love beauty.
 
  
-**Cleopatra**
+**Cleopatra:**
 So obsessed with sainthood.
 How sad...
 
@@ -347,33 +347,33 @@ Well, he IS a saint...
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 It's fine.
 I have found our directive.
 
  
-**Cleopatra**
+**Cleopatra:**
 The reason why this man is not accepting the honor of being my photographer is because he is a sad, sad man who does not appreciate beauty.
 
  
-**Cleopatra**
+**Cleopatra:**
 In order to regain such appreciation, words will not suffice. Rather, he needs a shock to his system to free him of his silly notions.
 
  
-**Cleopatra**
+**Cleopatra:**
 Yes...yes. If that is what is needed,
 then we have no choice.
 
  
-**Cleopatra**
+**Cleopatra:**
 I shall personally beat an appreciation of beauty into this man! My own beauty knows no parallel, after all!
 
  
-**Georgios**
+**Georgios:**
 ...Mm, what do you mean by “personally”?
 
  
-**Mash**
+**Mash:**
 Georgios!
 What is that expression on your face!?
 
@@ -387,64 +387,64 @@ It looks like he's imagining something unsaintly!
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 Hm? What do you mean, “unsaintly”? I was just going to show that nincompoop what beauty is with my body...
 
  
-**Cleopatra**
+**Cleopatra:**
 ...!
 
  
-**Cleopatra**
+**Cleopatra:**
 There...there is absolutely no way I would have shown my skin to a man I do not love!!!
 
  
-**Cleopatra**
+**Cleopatra:**
 People may have called me a seductress who manipulated men to further her country's interests...
 
  
-**Cleopatra**
+**Cleopatra:**
 But I did what I did because I fell in love with all those handsome men!
 
  
-**Cleopatra**
+**Cleopatra:**
 ...Ahem. I digress.
 It's hard to convey your true feelings to others...
 
  
-**Cleopatra**
+**Cleopatra:**
 Let's try this again, without any misunderstandings.
 Let's demonstrate with actions, not with words.
 
  
-**Cleopatra**
+**Cleopatra:**
 Basically, I'm going to beat a sense of beauty back into you myself!
 
  
-**Cleopatra**
+**Cleopatra:**
 Brace yourself, saintly photographer!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Cleopatra**
+**Cleopatra:**
 You'll take the job? You said you'll take the job, right? Ohoho, you should have said so from the get-go!
 
  
-**Mash**
+**Mash:**
 ...Are you sure about this?
 
  
-**Georgios**
+**Georgios:**
 Yes. If she needs me that much, I cannot refuse.
 
  
-**Georgios**
+**Georgios:**
 To be honest, her dazzling form was quite blinding.
 In fact, I was nearly blinded several times.
 
  
-**Mash**
+**Mash:**
 Georgios...does that mean...are you actually blind now...?
 
  
@@ -457,24 +457,24 @@ What about the Saints' Club?
 
 ---
  
-**Georgios**
+**Georgios:**
 I've arranged it so that King David will be there as a special guest.
 
  
-**Georgios**
+**Georgios:**
 He has many moving stories to tell. He has the power to make his listeners go into a trance. So he should be able to carry the meeting for now.
 
  
-**Mash**
+**Mash:**
 How the other saints will listen and react to King David's story is intriguing in itself...
 
  
-**Mash**
+**Mash:**
 But everything has been arranged.
 Now let us head to this photography session...
 
  
-**Cleopatra**
+**Cleopatra:**
 (Gasp!)
 No, I forgot one other crucial detail!
 
@@ -485,11 +485,11 @@ No, I forgot one other crucial detail!
 **Fujimaru 1:**
 Now what!?
  
-**Cleopatra**
+**Cleopatra:**
 The background! There is absolutely no way we are doing a shoot in this dingy cave!
 
  
-**Cleopatra**
+**Cleopatra:**
 ...Actually, I wonder why the Saints' Club meets in a place like this. But let's leave that aside for now.
 
  
@@ -499,7 +499,7 @@ The background! There is absolutely no way we are doing a shoot in this dingy ca
 **Fujimaru 2:**
 It's about the shooting site, isn't it?
  
-**Cleopatra**
+**Cleopatra:**
 Exactly. Of course my Master could figure that out.
 I want a photo shoot to match a Hollywood star!
 
@@ -508,26 +508,26 @@ I want a photo shoot to match a Hollywood star!
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 If my beauty is to be preserved in a photo,
 there must also be a suitable background!
 
  
-**Cleopatra**
+**Cleopatra:**
 So there you have it. Let's continue our Rayshifting in search of the perfect background for the shoot!
 
  
-**Cleopatra**
+**Cleopatra:**
 Mash, go ahead with the preparations!
 If you're shorthanded, use all of Chaldea's staff!
 
  
-**Cleopatra**
+**Cleopatra:**
 There's no need to pay them extra for this!
 The privilege of looking upon me is reward enough!
 
  
-**Cleopatra**
+**Cleopatra:**
 Oh, but my bright and dazzling form will cause some of the staff to go blind. I guess I would have to offer them extra pay to compensate them.
 
  
@@ -540,60 +540,60 @@ Oh, but my bright and dazzling form will cause some of the staff to go blind. I 
 
 ---
  
-**Mash**
+**Mash:**
 Well, basically everything she's doing just shouts “Cleopatra”...
 
  
-**Mash**
+**Mash:**
 Anyway, it appears that I need to make some preparations.
 
  
-**Mash**
+**Mash:**
 I'm going to grin and bear it and help out in Cleopatra's photo shoot!
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Georgios**
+**Georgios:**
 Hm. Now that I've connected the instant photo processing device specially made by Da Vinci...
 
  
-**Georgios**
+**Georgios:**
 Okay. Not bad. Here's how it turned out...
 What do you think?
 
  
-**Cleopatra**
+**Cleopatra:**
 Hmmm. Not...terrible... Maybe it's that I'm alone...maybe it'll be different when we do the shoot for real...
 
  
-**Mash**
+**Mash:**
 She seems to be muttering about something. I think she's being particular at something, but I can only imagine how high her standards must be.
 
  
-**Cleopatra**
+**Cleopatra:**
 Master?
 Come over here. Next to me.
 
  
-**Cleopatra**
+**Cleopatra:**
 Yes. Direct your face over there...just like that. Got it? Now don't move. Come on, photographer, take it now!
 
  
-**Georgios**
+**Georgios:**
 Moving on to taking the two of you? Understood.
 Three, two, one... Say “cheese.”
 
  
-**Georgios**
+**Georgios:**
 What do you think?
 
  
-**Cleopatra**
+**Cleopatra:**
 ...
 
  
-**Cleopatra**
+**Cleopatra:**
 Honestly, it's bad.
 One subject totally outshines the other.
 
@@ -612,50 +612,50 @@ One subject totally outshines the other.
 
 ---
  
-**Mash**
+**Mash:**
 N-no, I don't think that's true!
 I like this photo...
 
  
-**Mash**
+**Mash:**
 So there's no need to be so disappointed...!
 
  
-**Georgios**
+**Georgios:**
 If the client is not satisfied, I fail as a photographer.
 I can retake as many as needed.
 
  
-**Cleopatra**
+**Cleopatra:**
 We obviously need a reshoot.
 Maybe the background just isn't working.
 
  
-**Cleopatra**
+**Cleopatra:**
 If the photo's not turning out right even after so many takes, maybe we're just in the wrong place. Let's head to a different location!
 
  
-**Cleopatra**
+**Cleopatra:**
 Unacceptable! You say there's something lacking, but I say EVERYTHING'S lacking!
 
  
-**Georgios**
+**Georgios:**
 Ugh...!
 
  
-**Georgios**
+**Georgios:**
 I may be able to retaliate should the comment just be an emotional outburst, but this is coming from a pharaoh who left her mark on history.
 
  
-**Georgios**
+**Georgios:**
 Even I know that this photograph does not accentuate the subject matter to its true potential.
 
  
-**Georgios**
+**Georgios:**
 I cannot call myself a photographer and say this is my best work!
 
  
-**Mash**
+**Mash:**
 Those two are very serious.
 It's like a heated battle of some sort.
 
@@ -669,28 +669,28 @@ That's fine, but why do I need to be in the photos?
 
 ---
  
-**Mash**
+**Mash:**
 (The question is whether Master's psyche can withstand every photo that gets criticized.)
 
  
-**Georgios**
+**Georgios:**
 Now, I would like to do another shoot,
 but we're starting to lose the light.
 
  
-**Cleopatra**
+**Cleopatra:**
 Isn't there anything you can do?
 
  
-**Georgios**
+**Georgios:**
 I never imagined that this photo session would take so long...and go to so many different places...
 
  
-**Georgios**
+**Georgios:**
 This problem would be solved if we just had a reflector, but I didn't bring one this time.
 
  
-**Georgios**
+**Georgios:**
 This oversight is absolutely my fault.
 I'm terribly sorry.
 
@@ -704,25 +704,25 @@ Reflexer?
 
 ---
  
-**Mash**
+**Mash:**
 No, Master. He means a reflector,
 a device that redirects light...
 
  
-**Mash**
+**Mash:**
 During a photo shoot, it can adjust the intensity and direction of the subject's lighting.
 
  
-**Mash**
+**Mash:**
 I hear that photographers have many uses for them.
 
  
-**Georgios**
+**Georgios:**
 It's exactly as Mash explained.
 What I need right now is a white reflector.
 
  
-**Georgios**
+**Georgios:**
 Hm. Maybe I should go back and retrieve it...
 Well, some white cloth might get the job done, but...
 
@@ -736,77 +736,77 @@ A white cloth... Is there one around here?
 
 ---
  
-**Mash**
+**Mash:**
 I'm sorry, I don't have one, either.
 
  
-**Mash**
+**Mash:**
 There couldn't be one just conveniently lying around...
 
  
-**Cleopatra**
+**Cleopatra:**
 !?
 
  
-**Mash**
+**Mash:**
 Y-you're...!?
 
  
-**D：???**
+**D：???:**
 ...A-ahem.
 
  
-**D：???**
+**D：???:**
 I am...a mysterious...Medjed-looking...being.
 You...two. Come...here...
 
  
-**Cleopatra**
+**Cleopatra:**
 A-am I dreaming!?
 Is a life-sized Medjed talking to me!?
 
  
-**Cleopatra**
+**Cleopatra:**
 ...And where are you taking Master and Mash!?
 
  
-**Cleopatra**
+**Cleopatra:**
 Are you going to give just the two of them some kind of special protection or something!? I'm almost jealous!
 
  
-**Mash**
+**Mash:**
 Ummm, what are you doing here, Nito&ndash;
 
  
-**D：???**
+**D：???:**
 Shhhh!
 
  
-**D：???**
+**D：???:**
 ...(Whisper, whisper)...
 
  
-**Mash**
+**Mash:**
 O-okay. You're saying that even though you prepared a swimsuit, you couldn't go swimming much in it...
 
  
-**Mash**
+**Mash:**
 And so you came here to this beach to try to make use of that swimsuit...?
 
  
-**Mash**
+**Mash:**
 But that's not a very regal thing to do, so you don't want us to let Cleopatra know you're here.
 
  
-**D：???**
+**D：???:**
 And so...right now...I am not...this Nito-something. Under...stand?
 
  
-**Mash**
+**Mash:**
 Y-yes...so you just want us to keep this a secret. Understood.
 
  
-**Mash**
+**Mash:**
 Now that I think back,
 Cleopatra wasn't around during the summer races...
 
@@ -825,51 +825,51 @@ Wasn't she stalking Caesar?
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 Hey, over there!
 How long are you going to be chatting behind my back?
 
  
-**Cleopatra**
+**Cleopatra:**
 It would be nice if you would introduce me to this person with the exceptionally godly aura!
 
  
-**D：???**
+**D：???:**
 I...am. Just a...god...who's passing...by.
 Nice to...meet you...Cleopatra...
 
  
-**Cleopatra**
+**Cleopatra:**
 My...what wonderful manners!
 And it is quite knowledgeable.
 
  
-**Cleopatra**
+**Cleopatra:**
 But then, it is the great Medjed!
 I knew you would know my name...!
 
  
-**Cleopatra**
+**Cleopatra:**
 Oh...this is the first time I've spoken with the great Medjed, so I'm a bit nervous!
 
  
-**Cleopatra**
+**Cleopatra:**
 My heart is racing like the first time I met Caesar... Could this be...love...?
 
  
-**D：???**
+**D：???:**
 ...
 
  
-**Cleopatra**
+**Cleopatra:**
 Ugh...but the great Medjed possesses beauty that could even stand alongside my own unabashed!
 
  
-**Cleopatra**
+**Cleopatra:**
 I mustn't take a photograph now...not with such greatness present. I know better than to show disrespect before a god.
 
  
-**D：???**
+**D：???:**
 By...the way. What...were you...doing?
 Photo...graph...?
 
@@ -883,88 +883,88 @@ You see...
 
 ---
  
-**Georgios**
+**Georgios:**
 ...That's what happened.
 These are the photos we have taken so far.
 
  
-**Georgios**
+**Georgios:**
 Unfortunately, none of these have met with my client's satisfaction.
 
  
-**D：???**
+**D：???:**
 Hm...I...see...
 
  
-**D：???**
+**D：???:**
 ...
 
  
-**D：???**
+**D：???:**
 I see...what her...intent...her purpose...is.
 Then...I shall...assist...
 
  
-**D：???**
+**D：???:**
 If you need...something white...I can...be...of help...
 
  
-**Cleopatra**
+**Cleopatra:**
 The great Medjed is going to act as a reflector!?
 We are not worthy!
 
  
-**Cleopatra**
+**Cleopatra:**
 But this may be what is necessary to make my special photo shoot worthy! Ah, what a conundrum!
 
  
-**D：???**
+**D：???:**
 How...ever...
 It comes...with a...price.
 
  
-**D：???**
+**D：???:**
 Show me...your beauty...
 Do so...and I will...help.
 
  
-**Georgios**
+**Georgios:**
 I'm thrilled that you will help us out, but...whatever do you mean?
 
  
-**Mash**
+**Mash:**
 That is a fair question.
 Let me ask. U-um...
 
  
-**Mash**
+**Mash:**
 “Look at me. If I helped freely, appreciation of the great Medjed would diminish.”
 
  
-**Mash**
+**Mash:**
 ...That was Medjed's response.
 
  
-**Cleopatra**
+**Cleopatra:**
 I see. I understand.
 
  
-**Cleopatra**
+**Cleopatra:**
 This is a trial. I am being given a divine revelation saying I am to receive the blessings of Medjed, and that I shouldn't be satisfied with my current state, and that I must continue pursuing beauty further!
 
  
-**Cleopatra**
+**Cleopatra:**
 ...Then I shall happily undertake this trial!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Georgios**
+**Georgios:**
 If you would, please move a bit more to the right.
 Yes, right there. The lighting is just perfect.
 
  
-**Georgios**
+**Georgios:**
 Now here we go. Say “cheese.”
 
  
@@ -977,29 +977,29 @@ Wait, how come I'm in this picture, too?
 
 ---
  
-**Georgios**
+**Georgios:**
 Hm, what do you think?
 I believe this is one of our best yet.
 
  
-**Cleopatra**
+**Cleopatra:**
 Yes. There's nothing wrong with the photo.
 But...
 
  
-**Georgios**
+**Georgios:**
 You're still not satisfied?
 
  
-**Cleopatra**
+**Cleopatra:**
 No... You know what, we should try thinking about this differently.
 
  
-**Cleopatra**
+**Cleopatra:**
 If we're not getting the result we want even after all these attempts, it means we're not lacking something... But maybe there's something...conflicting...
 
  
-**Cleopatra**
+**Cleopatra:**
 The issue is...pinpointing what exactly it is.
 
  
@@ -1017,32 +1017,32 @@ Maybe it's better if it's just Cleopatra...
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 Nonsense. If that were true, there would be no point in this endeavor in the first place.
 
  
-**Mash**
+**Mash:**
 ...?
 
  
-**D：???**
+**D：???:**
 The key...is...the point...of this...endeavor...
 
  
-**Cleopatra**
+**Cleopatra:**
 ...!?
 
  
-**Cleopatra**
+**Cleopatra:**
 Yes. You're right.
 Great Medjed, you read me like a book.
 
  
-**Cleopatra**
+**Cleopatra:**
 We should have never tried to match the background to me.
 
  
-**Cleopatra**
+**Cleopatra:**
 The most beautiful subject in this photo is undoubtedly me, but I should not be the photo's focus.
 
  
@@ -1055,23 +1055,23 @@ The most beautiful subject in this photo is undoubtedly me, but I should not be 
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 Then I will focus on matching the background with the main subject. Let me ask you, Master.
 
  
-**Cleopatra**
+**Cleopatra:**
 What backdrop do you think would be the most fitting for you?
 
  
-**Mash**
+**Mash:**
 Well, I didn't think it was going quite this way...
 
  
-**Mash**
+**Mash:**
 But I believe you just have to think of the most fitting place for a photo shoot, Senpai.
 
  
-**Mash**
+**Mash:**
 Where would that be?
 I will go wherever you like.
 
@@ -1086,7 +1086,7 @@ Hmmmm, let's see...
 
 ---
  
-**Mash**
+**Mash:**
 Eh? This is Chaldea's Command Room...
 Here?
 
@@ -1101,7 +1101,7 @@ Of course. Let's take it with everyone else too.
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 If you insist, then I don't mind letting the other staff members join in. But why here?
 
  
@@ -1114,41 +1114,41 @@ I'm here thanks to everyone's efforts.
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 So that's why you think this is the most fitting backdrop for you. ...Well, that's fine.
 
  
-**Georgios**
+**Georgios:**
 Then let's see how this one goes. I want everyone to get closer to the middle, closer to Master.
 
  
-**Georgios**
+**Georgios:**
 Yes. That's it. Here we go...
 
  
-**Cleopatra**
+**Cleopatra:**
 Let me see how it turned out.
 
  
-**Cleopatra**
+**Cleopatra:**
 ...I see.
 So this is how it was supposed to be.
 
  
-**Cleopatra**
+**Cleopatra:**
 This is fine.
 I believe it turned out splendidly.
 
  
-**Mash**
+**Mash:**
 I inadvertently got into the picture next to Senpai, too...
 
  
-**Mash**
+**Mash:**
 But it looks like this photograph has finally satisfied Cleopatra.
 
  
-**Cleopatra**
+**Cleopatra:**
 Yes. I'm satisfied. Now take a look at this picture,
 Master. Now do you understand?
 
@@ -1167,28 +1167,28 @@ I'm sorry I still don't understand...
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 ...Do I have to spell everything out for you?
 Don't you get it?
 
  
-**Cleopatra**
+**Cleopatra:**
 This is a picture that encapsulates my eternal beauty, alongside you...who are also beautiful.
 
  
-**Georgios**
+**Georgios:**
 Weren't you always saying that it was ill-matched the whole time?
 
  
-**Cleopatra**
+**Cleopatra:**
 I was never talking about the matchup between Master and me.
 
  
-**Cleopatra**
+**Cleopatra:**
 My captivating beauty, and while [♂ his /♀️ hers} could never be a match for mine, my beautiful Master...and a background that embraces the two subjects.
 
  
-**Cleopatra**
+**Cleopatra:**
 That was what was badly matched.
 
  
@@ -1201,138 +1201,138 @@ Eh? But I don't think I'm beautiful...
 
 ---
  
-**Mash**
+**Mash:**
 ...No, Senpai. If you look at that photograph, Cleopatra and I are both in agreement.
 
  
-**Mash**
+**Mash:**
 This photograph taken in the Command Room with you, Cleopatra, and all the staff...
 
  
-**Mash**
+**Mash:**
 Everyone's smiling...and in the center of all that, you're smiling, too.
 
  
-**Mash**
+**Mash:**
 I'm not able to properly put it into words, but the photo has a very warm feel, and it's dazzling.
 
  
-**Cleopatra**
+**Cleopatra:**
 You've always been like that, Master.
 From the moment you summoned me, to be exact.
 
  
-**Cleopatra**
+**Cleopatra:**
 But...it seemed like you yourself didn't realize it.
 
  
-**Cleopatra**
+**Cleopatra:**
 And so I thought, if you had just one photograph of yourself standing beside me, you would realize just how beautiful you are...
 
  
-**Cleopatra**
+**Cleopatra:**
 And yes, you would understand.
 That's what I thought.
 
  
-**Georgios**
+**Georgios:**
 Hm... So you went through all this trouble just so you could make Master realize that.
 
  
-**Cleopatra**
+**Cleopatra:**
 Not exactly. That was just the process.
 What I truly want to tell Master is beyond that.
 
  
-**Mash**
+**Mash:**
 ???
 
  
-**Cleopatra**
+**Cleopatra:**
 You said it right from the beginning, Mash.
 I rarely visit My Room. And that's the problem.
 
  
-**Cleopatra**
+**Cleopatra:**
 What I mean is...
 
  
-**Cleopatra**
+**Cleopatra:**
 WHY DON'T YOU INVITE ME OVER MORE OFTEN?
 
  
-**Cleopatra**
+**Cleopatra:**
 Yes, it seems Master is afraid of me, or is keeping [♂ his /♀️ her}
 distance from me out of reverence.
 
  
-**Cleopatra**
+**Cleopatra:**
 It's true that I am a beautiful pharaoh. There is obviously a great disparity between our ranks, so being somewhat intimidated is understandable.
 
  
-**Cleopatra**
+**Cleopatra:**
 But that should not matter.
 Take a look at the photograph once again.
 
  
-**Cleopatra**
+**Cleopatra:**
 You can see the beautiful Cleopatra and...and the less beautiful, but still very beautiful Master.
 
  
-**Cleopatra**
+**Cleopatra:**
 So, you should have more confidence! At the very least, know that I have absolute confidence in myself.
 
  
-**Cleopatra**
+**Cleopatra:**
 Which means...no matter how plain they look or how boring they act, a human who is able to summon someone as beautiful as me must surely be beautiful!
 
  
-**Mash**
+**Mash:**
 That's...true. Self-centered and maybe unfounded, but true, Cleopatra...
 
  
-**Mash**
+**Mash:**
 But I think the thought behind it is meant to be complimentary to Master...
 
  
-**Mash**
+**Mash:**
 Or rather, now that I think back,
 perhaps it's always been that way...?
 
  
-**Georgios**
+**Georgios:**
 Hm. A truly noble beauty like her may only be able to compliment people...
 
  
-**Georgios**
+**Georgios:**
 ...in roundabout ways that are bound to sometimes lead to misunderstandings.
 
  
-**Cleopatra**
+**Cleopatra:**
 Listen, Fujimaru. I know very well that you're the plainest of all plain people.
 
  
-**Cleopatra**
+**Cleopatra:**
 But the mere fact that you are my Master gives you a leg up over all the other boring people out there.
 
  
-**Cleopatra**
+**Cleopatra:**
 That's why you don't have to be so afraid of me, and should interact with me more. I may even listen to some of your requests, too.
 
  
-**Cleopatra**
+**Cleopatra:**
 Of course, this all assumes that you show the utmost reverence and respect for my beauty!
 
  
-**Cleopatra**
+**Cleopatra:**
 Now, is there something you'd like to ask of me? Why don't you grovel at my feet and beg a favor like the powerless human you are?
 
  
-**E：???**
+**E：???:**
 Ultimately, I believe she wanted to let you know that she wants you to rely on her more.
 
  
-**E：???**
+**E：???:**
 Teehee. I guess that's the only way she could convey such a sentiment.
 
  
@@ -1350,81 +1350,81 @@ I feel like we're closer now.
 
 ---
  
-**E：???**
+**E：???:**
 Yes. Hearing that from you...
 
  
-**E：???**
+**E：???:**
 While I'm not even close to being as capable as she is, and though saying this may be overstepping my boundaries, I'm relieved.
 
  
-**E：???**
+**E：???:**
 She can be difficult and may be misunderstood quite often...
 
  
-**Cleopatra**
+**Cleopatra:**
 Oh? I thought I heard a familiar voice...
 
  
-**D：???**
+**D：???:**
 Getting...along...beautiful...
 My job...here...done...
 
  
-**D：???**
+**D：???:**
 Farewell...
 May the pharaoh...be blessed...
 
  
-**Cleopatra**
+**Cleopatra:**
 Oh! Great Medjed! Please wait! Even I acknowledge your form as the embodiment of beauty!
 
  
-**Cleopatra**
+**Cleopatra:**
 Actually, I love you, so I want a photo!
 Can I take a picture with you!?
 
  
-**Mash**
+**Mash:**
 Teehee... Until now, perhaps I was keeping my distance from Cleopatra.
 
  
-**Mash**
+**Mash:**
 After all, she's a queen, the world's most beautiful woman, and a pharaoh.
 
  
-**Mash**
+**Mash:**
 But after this ordeal, I feel like I understand her a little more.
 
  
-**Mash**
+**Mash:**
 She may have odd ways of saying things,
 but she still lets those she approves of know it.
 
  
-**Mash**
+**Mash:**
 In some ways, she's quite fair.
 
  
-**Mash**
+**Mash:**
 She believes her standards are absolute, and never compromises. She's a pure, strong-willed person.
 
  
-**Mash**
+**Mash:**
 That may be what makes her the ultimate beauty.
 
 
 <h2>Where the Heart Is</h2>
 
-**Cleopatra**
+**Cleopatra:**
 ...The ideal body! That is what I seek!!!
 
  
-**Cleopatra**
+**Cleopatra:**
 Indeed, has there ever been anyone in history who has not endeavored to sculpt their body into a monument to absolute physical perfection?
 
  
-**Cleopatra**
+**Cleopatra:**
 Of course not! And that's why we're here!
 Is that clear, Master!?
 
@@ -1435,7 +1435,7 @@ Is that clear, Master!?
 **Fujimaru 1:**
 C-crystal?
  
-**Cleopatra**
+**Cleopatra:**
 No! I can tell your heart isn't in this!
 I don't need hollow reassurances!!!
 
@@ -1446,12 +1446,12 @@ I don't need hollow reassurances!!!
 **Fujimaru 2:**
 The ideal body...
  
-**Cleopatra**
+**Cleopatra:**
 That's right. The ideal body.
 Do you know what I mean?
 
  
-**Cleopatra**
+**Cleopatra:**
 ...No, I can see you don't.
 
  
@@ -1459,20 +1459,20 @@ Do you know what I mean?
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 (Sigh)...
 
  
-**Cleopatra**
+**Cleopatra:**
 So I have to explain this whole thing again, do I?
 Well, I won't! Besides, as my secretary, you should already know what I mean!
 
  
-**Cleopatra**
+**Cleopatra:**
 You only get to be a pharaoh's secretary because you truly understand them!
 
  
-**Cleopatra**
+**Cleopatra:**
 Now, begin the preparations!
 
  
@@ -1486,35 +1486,35 @@ Preparations?
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 To help me get in shape, obviously!
 
  
-**Cleopatra**
+**Cleopatra:**
 You have my permission to activate the simulator!
 
  
-**Cleopatra**
+**Cleopatra:**
 After all, there is no better way to get in shape than exercising, and there is no exercise more effective or beautiful than my Pharaoh Fighting Style!
 
  
-**Cleopatra**
+**Cleopatra:**
 I already practice for an hour every morning to maintain my looks and my health, of course, but that's not the same as using it in live combat.
 
  
-**Cleopatra**
+**Cleopatra:**
 Which is why now is the time for live combat!
 
  
-**Cleopatra**
+**Cleopatra:**
 ...Or at least, it would be, if something would attack us. (Sigh) Where's a pack of marauders when you need them?
 
  
-**Cleopatra**
+**Cleopatra:**
 Anyway, since I can't count on actual enemies to invade in accordance with my workout schedule, I decided to compromise and use the simulator with some help from other Heroic Spirits here.
 
  
-**Cleopatra**
+**Cleopatra:**
 I trust you understand all that now?
 
  
@@ -1524,7 +1524,7 @@ I trust you understand all that now?
 **Fujimaru 1:**
 More or less!
  
-**Cleopatra**
+**Cleopatra:**
 Good! That was a beautiful answer!
 Now, let us be on our merry way!
 
@@ -1535,7 +1535,7 @@ Now, let us be on our merry way!
 **Fujimaru 2:**
 What if someone's already using the simulator?
  
-**Cleopatra**
+**Cleopatra:**
 Oh, right. I hadn't thought of that... Well, if that turns out to be the case, that will just mean fate has chosen to aid me by providing me with an opponent!
 
  
@@ -1543,42 +1543,42 @@ Oh, right. I hadn't thought of that... Well, if that turns out to be the case, t
 
 ---
  
-**Nitocris**
+**Nitocris:**
 ...Yes?
 
  
-**Nitocris**
+**Nitocris:**
 I was just using the simulator to check up on my battle summons...
 
  
-**Nitocris**
+**Nitocris:**
 Is there a reason you came all this way?
 I don't want to be rude...
 
  
-**Nitocris**
+**Nitocris:**
 ...but couldn't you just set the simulator the way you want for your own training?
 Cleopatra, what are you&ndash;
 
  
-**Cleopatra**
+**Cleopatra:**
 No. No, Pharaoh Nitocris.
 No more words.
 
  
-**Cleopatra**
+**Cleopatra:**
 What I need right now is not talk, but exercise. Hard, strenuous, fat-burning exercise! I can't possibly get that from mere NPCs.
 
  
-**Cleopatra**
+**Cleopatra:**
 Now go on, don't hold back. Hit me with your best shot! On my honor as pharaoh, I can take whatever you throw at me!
 
  
-**Nitocris**
+**Nitocris:**
 (Sigh)... All right, if you insist...
 
  
-**Nitocris**
+**Nitocris:**
 ...Are you sure about this, Master?
 
  
@@ -1597,39 +1597,39 @@ I'm her secretary right now, so whatever she says, goes.
 
 ---
  
-**Nitocris**
+**Nitocris:**
 V-very well then. I'll admit, fighting another Servant should help with my own training too!
 
  
-**Nitocris**
+**Nitocris:**
 All right, here goes!
 
  
-**Nitocris**
+**Nitocris:**
 ...Come forth, my armies of the dead! Come forth from my mirror, and show my enemies the power of a pharaoh!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Cleopatra**
+**Cleopatra:**
 Phew! Not bad!
 
  
-**Cleopatra**
+**Cleopatra:**
 But, it still seems like something's missing...
 You weren't holding back, were you, Pharaoh Nitocris?
 
  
-**Nitocris**
+**Nitocris:**
 No, I was taking it fairly seriously.
 But I see that wasn't enough for you.
 
  
-**Cleopatra**
+**Cleopatra:**
 Hmm, I'm afraid not! Between this place and the minions you summoned, this just wasn't what I needed!
 
  
-**Cleopatra**
+**Cleopatra:**
 This is not what I had in mind for my ideal exercise routine. Master!
 
  
@@ -1648,61 +1648,61 @@ You want to try the next area in the simulator?
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 Right!
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Paracelsus**
+**Paracelsus:**
 Well now. I certainly didn't expect to see you here.
 
  
-**Paracelsus**
+**Paracelsus:**
 What's that? You're looking for combat training partners? I see.
 
  
-**Paracelsus**
+**Paracelsus:**
 In that case, perhaps my homunculi and golems would do the trick? I was just trying my hand at some automata as well.
 
  
-**Cleopatra**
+**Cleopatra:**
 Very well. It will be interesting to see how much of a sweat these creatures can help me work up.
 
  
-**Cleopatra**
+**Cleopatra:**
 All right, come at me!
 I'll take you all on and look beautiful doing it!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Cleopatra**
+**Cleopatra:**
 ...Well, they were certainly worthy opponents, but I'm afraid they just aren't beautiful enough for my tastes.
 
  
-**Cleopatra**
+**Cleopatra:**
 Hmm... Finding the ideal exercise routine is a lot more difficult than I expected...
 
  
-**Paracelsus**
+**Paracelsus:**
 Cleopatra, last of the pharaohs, I apologize that my creations failed to meet your expectations.
 
  
-**Cleopatra**
+**Cleopatra:**
 No, it's all right.
 I am the one who should apologize.
 
  
-**Cleopatra**
+**Cleopatra:**
 Forgive me for simply moving on without properly rewarding you for your efforts.
 
  
-**Cleopatra**
+**Cleopatra:**
 I'll make it up to you by throwing you the finest banquet you will ever see. Oh, I'll have to invite Pharaoh Nitocris too.
 
  
-**Cleopatra**
+**Cleopatra:**
 Now then...
 Master!
 
@@ -1722,33 +1722,33 @@ Time for the next area?
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 Come, let us be on our way!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Cleopatra**
+**Cleopatra:**
 That was most satisfying. Just what I would expect from an area modeled after my own Egypt.
 
  
-**Cleopatra**
+**Cleopatra:**
 But, I'm afraid it all feels a bit too familiar.
 
  
-**Cleopatra**
+**Cleopatra:**
 They were certainly strong enough opponents, but it just wasn't quite exciting enough to really make my skin glow!
 
  
-**Cleopatra**
+**Cleopatra:**
 ...This really is difficult, isn't it?
 
  
-**Cleopatra**
+**Cleopatra:**
 I guess the ideal workout, and the ideal body aren't things that can be obtained overnight...
 
  
-**Cleopatra**
+**Cleopatra:**
 But I'm not going to give up! Not after I've already come so far! Right, Master!?
 
  
@@ -1767,42 +1767,42 @@ On to the next area then?
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 Yes! This time, I'm going to find what I'm looking for!
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Cleopatra**
+**Cleopatra:**
 ...
 ...
 
  
-**Cleopatra**
+**Cleopatra:**
 This is...the ocean.
 
  
-**Cleopatra**
+**Cleopatra:**
 ...Why am I doing all this?
 
  
-**Cleopatra**
+**Cleopatra:**
 Why am I putting myself through so much strenuous exercise? Why couldn't I be satisfied with Pharaoh Nitocris's workout, or the desert's?
 
  
-**Cleopatra**
+**Cleopatra:**
 I'm sure those questions have crossed your mind at least once or twice, my secretary.
 
  
-**Cleopatra**
+**Cleopatra:**
 Why am I working so hard to improve a body that is already perfect?
 
  
-**Cleopatra**
+**Cleopatra:**
 I don't blame you for wondering. You must find it more intriguing than any of the Seven Wonders of the World. I doubt even that famous detective could understand.
 
  
-**Cleopatra**
+**Cleopatra:**
 The truth is&ndash;
 
  
@@ -1822,17 +1822,17 @@ You're looking for the ideal body, right?
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 Hehe, you really don't understand.
 I don't blame you.
 
  
-**Cleopatra**
+**Cleopatra:**
 But my search for the ideal body is not for me.
 I seek it for another.
 
  
-**Cleopatra**
+**Cleopatra:**
 Namely&ndash;
 
  
@@ -1846,11 +1846,11 @@ Caesar?
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 ...Huh?
 
  
-**Cleopatra**
+**Cleopatra:**
 Uh, y-yes, that's right.
 ...Wait...
 
@@ -1859,36 +1859,36 @@ Uh, y-yes, that's right.
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 Ho-how did you know!?
 Are you some kind of genius!?
 
  
-**Cleopatra**
+**Cleopatra:**
 I knew you were a hard worker, Master, but I didn't think you were actually one of the greatest sages of all time... You might even be wiser than Diogenes.
 
  
-**Cleopatra**
+**Cleopatra:**
 A-ahem. I suppose it is obvious by now, but yes, you're right.
 
  
-**Cleopatra**
+**Cleopatra:**
 This is all for my darling Caesar.
 
  
-**Cleopatra**
+**Cleopatra:**
 The ideal workout routine is not to help me achieve an ideal body, but to help Lord Caesar slim down!
 
  
-**Cleopatra**
+**Cleopatra:**
 What sort of arduous battle will best ensure he gets into shape?
 
  
-**Cleopatra**
+**Cleopatra:**
 That's why I've been going to such great lengths...
 
  
-**Cleopatra**
+**Cleopatra:**
 ...And now (sigh) I've ended up at the ocean. A virtual ocean that can't possibly lead back to Alexandria.
 
  
@@ -1907,82 +1907,82 @@ Don't you love him just the way he is?
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 ...This isn't just about looks.
 
  
-**Cleopatra**
+**Cleopatra:**
 Though that's not to say looks aren't part of it! They're super important, you know! But I never chose my dear Caesar for his looks alone!
 
  
-**Cleopatra**
+**Cleopatra:**
 ...It's my son, Caesarion.
 
  
-**Cleopatra**
+**Cleopatra:**
 My child who faced down Rome all on his own,
 and died just a few days after me.
 
  
-**Cleopatra**
+**Cleopatra:**
 The true last pharaoh ever to walk the earth.
 
  
-**Cleopatra**
+**Cleopatra:**
 I...I want my dear Caesar to accept him as his rightful son and heir...
 
  
-**Cleopatra**
+**Cleopatra:**
 ...and to do so in the same beautiful body he possessed on that fateful day.
 
  
-**Cleopatra**
+**Cleopatra:**
 ...
 ...
 
  
-**Cleopatra**
+**Cleopatra:**
 I know it's too late to change history. I know the past will stay the past, no matter what he says now.
 
  
-**Cleopatra**
+**Cleopatra:**
 But, even so...I still want him to say it.
 Both for my beloved son's sake, and for my own pride.
 
  
-**Cleopatra**
+**Cleopatra:**
 It's the only way my son and I will ever be able to rest in peace...
 
  
-**Caesar**
+**Caesar:**
 Are you sure that's what you want?
 
  
-**Caesar**
+**Caesar:**
 Wouldn't being at peace mean that you would no longer have the need to materialize in the present world?
 
  
-**Cleopatra**
+**Cleopatra:**
 Lord Caesar!?
 
  
-**Caesar**
+**Caesar:**
 You've finally found a Master you trust enough to accompany you wherever you choose to go.
 
  
-**Caesar**
+**Caesar:**
 Do you really want to throw that beautiful bond away just because of something I said?
 
  
-**Cleopatra**
+**Cleopatra:**
 I...!
 
  
-**Cleopatra**
+**Cleopatra:**
 Oh, Caesar! Please don't say things like that. I just had this idea when I was washing my face this morning!
 
  
-**Cleopatra**
+**Cleopatra:**
 Please don't make me second-guess my amazingly beautiful decision to see it through now.
 
  
@@ -1992,7 +1992,7 @@ Please don't make me second-guess my amazingly beautiful decision to see it thro
 **Fujimaru 1:**
 Uh, yeah, we can't have that...
  
-**Cleopatra**
+**Cleopatra:**
 No, we can't! I'm reminded yet again of just how very good Caesar is with words!
 
  
@@ -2002,7 +2002,7 @@ No, we can't! I'm reminded yet again of just how very good Caesar is with words!
 **Fujimaru 2:**
 I get ideas when washing my face all the time too.
  
-**Cleopatra**
+**Cleopatra:**
 Exactly! They just...come to you, as though they were a revelation from the heavens or something!
 
  
@@ -2010,116 +2010,116 @@ Exactly! They just...come to you, as though they were a revelation from the heav
 
 ---
  
-**Caesar**
+**Caesar:**
 (Hmm, you really are second-guessing yourself now.
 Ahh, what a good woman you are.)
 
  
-**Caesar**
+**Caesar:**
 (Being around you makes me want to be a better person, and that is no mean feat. But right now, love of my life, I must bite the bullet and tell you what you need to hear.)
 
  
-**Caesar**
+**Caesar:**
 Cleopatra, Master there is the only person you have ever known that you are willing to accept as your secretary.
 
  
-**Caesar**
+**Caesar:**
 Unlike us, you two had no existing bond to speak of.
 It was destiny that brought you two together.
 
  
-**Caesar**
+**Caesar:**
 I promise, I'm not going anywhere. So I urge you to cast your mind back and remember once again.
 
  
-**Caesar**
+**Caesar:**
 Surely you don't need to hurry to your death so quickly, do you? Yes, when you were alive, your beautiful light was snuffed out all too soon...
 
  
-**Caesar**
+**Caesar:**
 ...but does that mean you must do the same now?
 No, it absolutely does not!
 
  
-**Cleopatra**
+**Cleopatra:**
 Lord Caesar...
 
  
-**Cleopatra**
+**Cleopatra:**
 I didn't know you cared so deeply for me...
 
  
-**Cleopatra**
+**Cleopatra:**
 Or for Master...!
 
  
-**Caesar**
+**Caesar:**
 That is why, my beloved Cleopatra...
 
  
-**Caesar**
+**Caesar:**
 ...I will never lose weight!
 
  
-**Cleopatra**
+**Cleopatra:**
 !!!
 
  
-**Nitocris**
+**Nitocris:**
 !!!
 
  
-**Caesar**
+**Caesar:**
 That is all. Master, I will allow you to continue to shine bright by my Cleopatra's side.
 
  
-**Caesar**
+**Caesar:**
 I understand the bond you share is special,
 and not at all akin to cheating. So I will allow it!
 
  
-**Caesar**
+**Caesar:**
 In turn, my dear Cleopatra...I trust you will allow me a little freedom of my own.
 
  
-**Caesar**
+**Caesar:**
 My eye may wander juuust a bit from time to time, but that's not cheating either. Really. I'm talking just a teeensy little bit of ogling.
 
  
-**Cleopatra**
+**Cleopatra:**
 Hell no!
 
  
-**Caesar**
+**Caesar:**
 Curses!
 
  
-**Cleopatra**
+**Cleopatra:**
 That request would be enough to ruin a romance that lasted a hundred years, but fortunately, my determination stretches back over two thousand years!
 
  
-**Cleopatra**
+**Cleopatra:**
 It may have taken approximately two thousand and one hundred years, but at last, your time has come! Prepare to die, Lord Caesar! And to finally lose some weight as well!
 
  
-**Caesar**
+**Caesar:**
  
 Never!
 
  
-**Cleopatra**
+**Cleopatra:**
 That's the one thing you refuse to back down on, is it! Well, there are some things I won't compromise on, either!
 
  
-**Cleopatra**
+**Cleopatra:**
 Master! My secretary! I'm fairly tired after all that exercising, so it's time for the FP Fighting Style!
 
  
-**Cleopatra**
+**Cleopatra:**
 Don't look at me like you have no clue what FP stands for! It stands for “Final Pharaoh,” of course!
 
  
-**Cleopatra**
+**Cleopatra:**
 Fortunately, my makeup is already perfect for a beachside backdrop! Are you ready to shine bright with me, Master!
 
  
@@ -2138,100 +2138,100 @@ I'll shine as bright as I possibly can!
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 Very well then... Let us begin!!!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Caesar**
+**Caesar:**
 I-impossible...!
 
  
-**Caesar**
+**Caesar:**
 I can't believe you saw through my golden sword!
 
  
-**Caesar**
+**Caesar:**
 Hmm, maybe you do have a point. As impressive as my swordsmanship is, my body does limit how I can employ it.
 
  
-**Caesar**
+**Caesar:**
 Well done, Cleopatra.
 And, Master? If I may make one last request?
 
  
-**Caesar**
+**Caesar:**
 Please...take care of Cleopatra in my absence!
 
  
-**Caesar**
+**Caesar:**
 Ahh... Wait for me, Caesarion!
 I'm coming to join you, my son!
 
  
-**Caesarion's Voice**
+**Caesarion's Voice:**
 (Uh, that's okay. I'm fine on my own. Really.)
 
  
-**Cleopatra**
+**Cleopatra:**
 Wha&ndash;
 
  
-**Cleopatra**
+**Cleopatra:**
  
 N-no! No, no, no, no! Caesar is...g-gone...?
 This can't be happening...
 
  
-**Cleopatra**
+**Cleopatra:**
 Ahh...! Ahh, ahhh...!
 I... I...!
 
  
-**Cleopatra**
+**Cleopatra:**
 What have I done!?
 
  
-**Cleopatra**
+**Cleopatra:**
  
 Caesaaaaaaaaar!
 
  
-**Nitocris**
+**Nitocris:**
 ...
 ...
 
  
-**Nitocris**
+**Nitocris:**
 So, um, it turns out I've been here all along, but never mind that. I don't think you have any reason to worry. He didn't disappear; he just changed into his spirit form.
 
  
-**Nitocris**
+**Nitocris:**
 Besides, this is the simulator. Nobody disappears in here unless there's a really, really serious accident.
 
  
-**Cleopatra**
+**Cleopatra:**
 What!? B-but, but he was shimmering and everything!
 
  
-**Cleopatra**
+**Cleopatra:**
 I thought the only time Heroic Spirits shimmer like that is when their Spirit Core has been destroyed and they're about to completely disappear...
 
  
-**Nitocris**
+**Nitocris:**
 Well, um, I'm guessing that's because he also has the kind of sparkling charm that you do?
 
  
-**Nitocris**
+**Nitocris:**
 Maybe just spending so much time with you was enough for it to rub off on him...? Or something like that.
 
  
-**Cleopatra**
+**Cleopatra:**
 !
 
  
-**Cleopatra**
+**Cleopatra:**
 I don't believe it...
 Then, this means...!
 
@@ -2251,37 +2251,37 @@ Sorry, Cleopatra! It sucks, I know.
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
  
 Grrrrrrrrr, I can't believe it! He was shimmering so much I just assumed he was truly disappearing!
 
  
-**Cleopatra**
+**Cleopatra:**
 ...Well, there's no point crying about it now. Besides, pharaohs don't get discouraged. Devastatingly depressed at times, maybe, but not discouraged. Besides, that was a long time ago.
 
  
-**Cleopatra**
+**Cleopatra:**
 Anyway, Caesar was right about at least one thing.
 
  
-**Cleopatra**
+**Cleopatra:**
 Master... My very first secretary.
 
  
-**Cleopatra**
+**Cleopatra:**
 Now that I've promoted you to such an esteemed position, I would be a failure as a pharaoh if I didn't ensure you enjoyed each and every day you spent serving me.
 
  
-**Cleopatra**
+**Cleopatra:**
 Wouldn't you agree? Yes, of course you would.
 No need to answer that!
 
  
-**Cleopatra**
+**Cleopatra:**
 I want you to feel overwhelming joy and pride in being my secretary, and in having summoned me...
 
  
-**Cleopatra**
+**Cleopatra:**
 ...So it's all right if you hold off on completely fulfilling my wish until you do.
 
  
@@ -2295,74 +2295,74 @@ Does that mean you're okay with Caesar not losing weight then?
 
 ---
  
-**Cleopatra**
+**Cleopatra:**
 Absolutely not!
 
  
-**Cleopatra**
+**Cleopatra:**
 That is an entirely separate issue!
 
  
-**Cleopatra**
+**Cleopatra:**
 Now then, let us go for a walk on this beach until the sun has set! In fact, we should call Mash and have her join us as well. Oh, and Pharaoh Nitocris!
 
  
-**Nitocris**
+**Nitocris:**
 Yes?
 
  
-**Cleopatra**
+**Cleopatra:**
 I would like to demonstrate the glory of the Double Pharaoh sparkle to my secretary. I trust you don't mind!
 
  
-**Nitocris**
+**Nitocris:**
 Ah... Must I?
 
  
-**Cleopatra**
+**Cleopatra:**
 I. Trust. You. Don't. Mind?
 
  
-**Nitocris**
+**Nitocris:**
 (Sigh) Fine, fine. If you insist.
 
  
-**Cleopatra**
+**Cleopatra:**
 Wonderful! I knew you would understand,
 queen of the heavens!
 
  
-**Cleopatra**
+**Cleopatra:**
 Very well then...first, I'll need to change into a swimsuit. The finest swimsuit ever made that is sure to suit me per&ndash;
 
  
-**Nitocris**
+**Nitocris:**
 Oh, in that case, I have an idea. Why don't you try this Medjed outfit made with a new kind of&ndash;
 
  
-**Cleopatra**
+**Cleopatra:**
 No, thank you! I don't have the courage to wear something imitating Lord Medjed!
 
  
-**Cleopatra**
+**Cleopatra:**
 At this moment...
 
  
-**Nitocris**
+**Nitocris:**
  
 (Shock)
 
  
-**Cleopatra**
+**Cleopatra:**
 ...I'm looking for something on the cutting edge of fashion, such as an outfit from Paris Fashion Week!
 
  
-**Cleopatra**
+**Cleopatra:**
 I always shine bright in all my endeavors,
 and that's not about to change anytime soon!
 
  
-**Cleopatra**
+**Cleopatra:**
 Now, let us all be on our way!
 
 

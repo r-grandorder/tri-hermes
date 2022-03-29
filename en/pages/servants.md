@@ -585,7 +585,7 @@
 
 **Kama**
 
-* [Interlude](Interludes/Kama.md)
+* [Interlude](https://redd.it/itjcrt) ~ Yet to be formatted
 
 ## Berserker
 
@@ -645,9 +645,9 @@
 
 * [Interlude](Interludes/Beowulf.md)
 
-**Nightingale**
+**Florence Nightingale**
 
-* [Interlude](Interludes/Nightingale.md)
+* [Interlude](Interludes/Florence Nightingale.md)
 
 **Cú Chulainn - Alter**
 
@@ -693,7 +693,7 @@
 
 **Qin Shi Huang**
 
-* [Interlude](Interludes/Qin Shi Huang.md)
+* [Interlude](https://queenofnohr.tumblr.com/post/624385049564987392/shi-huangdi-interlude-the-arbiters-melancholy/amp?__twitter_impression=true) ~ To be formatted
 
 **Astraea**
 

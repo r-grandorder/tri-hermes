@@ -343,7 +343,7 @@ All right then, lead the way please, Master.
 **Asclepius:**
 Though you know, I can't believe you forgot exactly where you were keeping such crucial data. You should know medical records deserve much more respect than that.
 
-**--ARROW--**
+**--ARROW--:**
 
 **Asclepius:**
 All that being said, it's true that I'm still not used to this place, so it would have been difficult to find these other Servants on my own.
@@ -834,7 +834,7 @@ No matter how good a doctor you may be, there will always be times when you can'
 If you have what it takes to assist me,
 you'll always be welcome in my infirmary!
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Asclepius:**
 Well, well, not bad at all. You really have seen much more death in your time than most.
@@ -988,7 +988,7 @@ No problem. Thanks for everything!
 **Asclepius:**
 (I do still need the old data, but I'll have to lower my hopes about finding anything else useful for my progress out of it...)
 
-**--ARROW--**
+**--ARROW--:**
 
 ---
 
@@ -1344,7 +1344,7 @@ As a doctor, you should be more thorough than anyone when it comes to disinfecti
 **Nightingale:**
 I will do whatever it takes to ensure everything around me is as perfectly sterilized as possible!
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Atalante:**
 ...Hmph.
@@ -1492,7 +1492,7 @@ Go on then, lead the way.
 **Asclepius:**
 Whoever they are, I suspect they'll have the last piece of the data...
 
-**--ARROW--**
+**--ARROW--:**
 
 **Da Vinci:**
 Hey hey! Thanks for coming.
@@ -1550,7 +1550,7 @@ because your body is that of a child's.
 **Asclepius:**
 If the circumstances call for it, I have no compunctions about deploying even the most painful treatments!
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Da Vinci:**
 Yeah, that was impressive all right. I didn't think you'd know your way around the inner structure of a magecraft device as well as the human body.

@@ -2,16 +2,16 @@
 
 <h2>Heroic Spirit of the Charity</h2>
 
-**Mash**
+**Mash:**
 Master, are you going to eat?
 I'll come with you.
 
  
-**Fou**
+**Fou:**
 Fou, Fou!
 
  
-**Mash**
+**Mash:**
 You can come too, Fou...
 What? Is that... Karna?
 
@@ -31,33 +31,33 @@ Heyo-Chal-Deluxe!
 
 ---
  
-**Karna**
+**Karna:**
 Heyo-Chal-Deluxe.
 
  
-**Mash**
+**Mash:**
 What? ...Senpai? Karna!?
 What's going on!?
 
  
-**Karna**
+**Karna:**
 ...That's my question. I was told that's the standard greeting in Chaldea.
 
  
-**Mash**
+**Mash:**
 Who... Who told you that?
 
  
-**Karna**
+**Karna:**
 Master.
 
  
-**Mash**
+**Mash:**
 What?
 ...No way...
 
  
-**Mash**
+**Mash:**
 I didn't know such a wonderful greeting existed... Senpai, how come you didn't tell me?
 
  
@@ -76,7 +76,7 @@ Sorry. I forgot.
 
 ---
  
-**Mash**
+**Mash:**
 ...Please say that to me, too.
 
  
@@ -95,7 +95,7 @@ Don't tell me...
 
 ---
  
-**Mash**
+**Mash:**
 ...Heyo, something.
 The one you did, with the high-five.
 
@@ -115,19 +115,19 @@ Heyo-Chal-Deluxe!
 
 ---
  
-**Mash**
+**Mash:**
 Yes, Heyo-Chal-Deluxe.
 
  
-**Mash**
+**Mash:**
 &mdash;I see. This has a wonderful effect. It makes you feel...light and relaxed.
 
  
-**Mash**
+**Mash:**
 However, Chaldea is on high-alert right now. So from now on, this greeting will be banned.
 
  
-**Fou**
+**Fou:**
 Foou...
 
  
@@ -146,43 +146,43 @@ Foou...
 
 ---
  
-**Mash**
+**Mash:**
 By the way, what are you doing, Karna?
 
  
-**Karna**
+**Karna:**
 Oh, I'm about to go buy some bread at the store.
 
  
-**Mash**
+**Mash:**
 At Da Vinci's store?
 If you haven't had lunch, why don't we...
 
  
-**Karna**
+**Karna:**
 No, Doctor... Roman was his name?
 He asked me to buy some for him.
 
  
-**Mash**
+**Mash:**
 ...
 Doctor. It's me. Mash.
 
  
-**Mash**
+**Mash:**
 I'm going to get to the point.
 Why did you ask Karna to run errands for you?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Well, I've been busy, so I just thought...
 
  
-**Mash**
+**Mash:**
 Using a Heroic Spirit... To buy bread? I'm pretty sure there are other more useful things...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Wait, I meant it as a joke!
 But he just nodded and walked out of the room...
 
@@ -202,72 +202,72 @@ And you were okay with that?
 
 ---
  
-**Karna**
+**Karna:**
 Yes, what the Doctor said is correct.
 There isn't a single false statement.
 
  
-**Karna**
+**Karna:**
 ...Did I do something wrong?
 
  
-**Mash**
+**Mash:**
 No... I mean, I wouldn't know how to answer that myself...
 
  
-**Karna**
+**Karna:**
 I see. If nothing's wrong, I'm going to the store.
 
  
-**Da Vinci**
+**Da Vinci:**
 I'm so sorry! Da Vinci's Super Special Delicious Bread just ran out.
 
  
-**Karna**
+**Karna:**
 Oh... I see.
 
  
-**Mash**
+**Mash:**
 (He looks so depressed, Senpai!)
 You always have extra, I wonder what happened?
 
  
-**Da Vinci**
+**Da Vinci:**
 Well, we finally used up all the flour we had.
 Dr. Roman also told us not to waste it.
 
  
-**Da Vinci**
+**Da Vinci:**
 I got it. Let's use this chance to procure a new supply route!
 
  
-**Da Vinci**
+**Da Vinci:**
 Of course you will help me, right? They sell good flour in France, around here.
 
  
-**Da Vinci**
+**Da Vinci:**
 If you can stuff it into my special Da Vinci Storage Bag,
 you should be able to bring back some crops to Chaldea.
 
  
-**Da Vinci**
+**Da Vinci:**
 Normally, we'd purposely realign Chaldeas to manifest resources from our Rayshift destination but...
 
  
-**Da Vinci**
+**Da Vinci:**
 Using Chaldea like that would truly deplete our resources... It just doesn't balance out.
 
  
-**Da Vinci**
+**Da Vinci:**
 So in times like this, we need cheat a little.
 
  
-**Karna**
+**Karna:**
 Understood. Commencing Rayshift.
 Master, I'm sorry, but please get ready.
 
  
-**Mash**
+**Mash:**
 He agreed immediately!
 
  
@@ -286,165 +286,165 @@ Understood.
 
 ---
  
-**Mash**
+**Mash:**
 ...Well. That's the reason we're in this French farming village.
 
  
-**Fou**
+**Fou:**
 Fou.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hmm. How did things end up like this in the short time I was looking at Magi☆Mari's blog?
 
  
-**Mash**
+**Mash:**
 It's all the Doctor's fault!
 
  
-**Karna**
+**Karna:**
 That village... Hmm?
 
  
-**Villager**
+**Villager:**
 Oh, a traveler... No, looking at that spear... Perhaps you are part of the French army?
 
  
-**Karna**
+**Karna:**
 ...No, I'm not.
 
  
-**Villager**
+**Villager:**
 N-No way... It's been three days since the bandits seized our village...
 
  
-**Villager**
+**Villager:**
 Just when I thought someone had finally come to save us...
 
  
-**Karna**
+**Karna:**
 That sounds terrible. I will help you.
 
  
-**Villager**
+**Villager:**
 What? A-Are you sure? But... Only with this amount of people...
 
  
-**Mash**
+**Mash:**
 It won't be a problem.
 Karna... Let's hurry to the village!
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Bandit**
+**Bandit:**
 Hell yeah! Bring us some booze! Get me some women too!
 
  
-**Mash**
+**Mash:**
 That's enough! For your health, please refrain from alcohol and women!
 
  
-**Bandit**
+**Bandit:**
 Who the hell are you? A kid, a girl, and some skinny guy...
 
  
-**Bandit**
+**Bandit:**
 Ha! Hey guys, go teach them a lesson!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Karna**
+**Karna:**
 That's enough. Do you want to spend all your remaining time on momentary desires?
 
  
-**Bandit**
+**Bandit:**
 What... What are these guys? T-They're too powerful!? L-Let's get out of here!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Persistently aiming at their vital spots, and accurately reducing their wills to fight to make them surrender as quickly as possible...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It was totally one sided, artistic even.
 I learned a lot.
 
  
-**Villager**
+**Villager:**
 T-Thank you very much, traveler.
 I have no idea how to repay you...
 
  
-**Karna**
+**Karna:**
 You don't need to thank me.
 We couldn't just let your village be destroyed.
 
  
-**Karna**
+**Karna:**
 By the way, can you give us some wheat?
 We'll pay the proper market price for it.
 
  
-**Villager**
+**Villager:**
 W-Wheat? That's all you need?
 Please take as much as you need!
 
  
-**Karna**
+**Karna:**
 ...No, just enough to fill this bag.
 I heard I can pay you with these silver coins.
 
  
-**Villager**
+**Villager:**
 Well, yes...then please take this.
 Is that really enough for you?
 
  
-**Karna**
+**Karna:**
 Yes, I appreciate it.
 I'm sorry for the trouble.
 
  
-**Mash**
+**Mash:**
 Karna...
 
  
-**Da Vinci**
+**Da Vinci:**
 All right! This is Da Vinci's Super Special Delicious Bread Mark 2!
 
  
-**Karna**
+**Karna:**
 ...Splendid skill, or craftsmanship rather.
 I can even feel divinity from the steam.
 
  
-**Karna**
+**Karna:**
 You used to bake pizza before... As expected from an almighty genius, this is an almighty oven. Hat's off to you.
 
  
-**Karna**
+**Karna:**
 Sorry to make you wait, Doctor. Were you able to withstand the hunger? This is the bread you wanted.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, thank you...
 I'm sorry about the extra work.
 
  
-**Karna**
+**Karna:**
 Oh no, it was a good experience.
 Anyway, I will take my leave now.
 
  
-**Mash**
+**Mash:**
 Karna is looking...a little bit strange, don't you think?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The Hero of Benefaction... I heard he even offered his armor when someone begged for it, even though it was his flesh and blood.
 
  
@@ -463,41 +463,41 @@ Armor?
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 Yes, as long as he's wearing that gold armor no one can harm him.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 He's a hero who relinquished even that precious armor when asked for it.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 A widow's mite in a way... Takes only what is necessary and only the amount he really needs, that's him.
 
  
-**Mash**
+**Mash:**
 He is noble and aloof, yet engages with others as his peers&mdash; He is truly a model hero.
 
  
-**Mash**
+**Mash:**
 What a wonderful person. I can't believe the Doctor would ask him to do such a mundane task.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I was engaged in a task I couldn't leave, so... I am sorry.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Next time I'll ask Arjuna!
 You know... Since he's from India just like Karna!
 
  
-**Mash**
+**Mash:**
 T-That's an even bigger issue!
 Please let us do your trivial tasks!
 
  
-**Fou**
+**Fou:**
 Fou!
 
 

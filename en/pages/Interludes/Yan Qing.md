@@ -27,7 +27,7 @@ Those exist. I wonder why...
 ...Who am I?
 
  
-**Yan Qing**
+**Yan Qing:**
 (Gasp, gasp, gasp)...
 
  
@@ -46,11 +46,11 @@ The bleeding won't stop.
 There's nowhere left I can run.
 
  
-**???**
+**???:**
 How does it feel to die?
 
  
-**Yan Qing**
+**Yan Qing:**
 ...It sucks.
 
  
@@ -75,16 +75,16 @@ Who was I, really?
 I wonder if this guy has the answer.
 
  
-**Yan Qing**
+**Yan Qing:**
 Hey, do you know who I was?
 
  
-**???**
+**???:**
 ...
 ...
 
  
-**???**
+**???:**
 You were&ndash;
 
  
@@ -102,25 +102,25 @@ Never thought I'd end up back in Shinjuku...
 
 ---
  
-**Mash**
+**Mash:**
 Our connection is holding strong, Master.
 Let's go over the situation one more time.
 
  
-**Mash**
+**Mash:**
 The Shinjuku Singularity has already been repaired.
 
  
-**Mash**
+**Mash:**
 So no matter what might be going on here,
 it won't have any effect on humanity...
 
  
-**Mash**
+**Mash:**
 Still, we don't know why a single Servant decided to Rayshift here.
 
  
-**Mash**
+**Mash:**
 The Assassin of Shinjuku. True Name: Yan Qing...
 
  
@@ -130,7 +130,7 @@ The Assassin of Shinjuku. True Name: Yan Qing...
 **Fujimaru 1:**
 I wonder what's going on with him.
  
-**Mash**
+**Mash:**
 I'm afraid all we know right now is that he Rayshifted here.
 
  
@@ -140,15 +140,15 @@ I'm afraid all we know right now is that he Rayshifted here.
 **Fujimaru 2:**
 You're sure he came to Shinjuku?
  
-**Mash**
+**Mash:**
 Yes.
 
  
-**Mash**
+**Mash:**
 We were tracking his Spirit Origin up till he disappeared here.
 
  
-**Mash**
+**Mash:**
 However, there were some, um, irregularities with the tracking data, so I don't know if we can trust it entirely.
 
  
@@ -156,78 +156,78 @@ However, there were some, um, irregularities with the tracking data, so I don't 
 
 ---
  
-**Mash**
+**Mash:**
 Hassan of the Cursed Arm and Geronimo have come along to serve as your guides.
 
  
-**Mash**
+**Mash:**
 Thank you both for doing this.
 
  
-**Geronimo**
+**Geronimo:**
 I am pleased to be here.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Well Master, where shall we begin our search?
 
  
-**Geronimo**
+**Geronimo:**
 We'll never find him without a plan. I think our only option is to follow his magical energy.
 
  
-**Mash**
+**Mash:**
 I agree. And we do have tracking data that should help us with that.
 
  
-**Mash**
+**Mash:**
 The problem is that Yan Qing's trail went cold here.
 
  
-**Mash**
+**Mash:**
 Maybe he interfered with our observational equipment somehow, or maybe...
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Yes. He may have been injured or killed.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Oh, sorry, my apologies.
 Worry not, [♂ Lord /♀️ Lady} Fujimaru.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Lord Yan Qing is as tough as they come.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 What's more, I imagine he feels especially at home in an urban setting like this. He will not die easily.
 
  
-**Geronimo**
+**Geronimo:**
 Indeed. I don't even need to read his fortune to assure you that he is alive and well.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 All right, I'll begin by searching the perimeter.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Once I have the lay of the land,
 we can begin a thorough investigation.
 
  
-**Geronimo**
+**Geronimo:**
 Very well then, we'll wait here until you return.
 
  
-**Geronimo**
+**Geronimo:**
 I would like to resolve this quickly,
 given Master's physical limitations.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Haha, a good point.
 Then I will be back as soon as I can.
 
@@ -244,7 +244,7 @@ See you later!
 **Fujimaru 2:**
 Be careful out there!
  
-**Cursed Arm**
+**Cursed Arm:**
 You are too kind, Master. But worry not. We Hassans blend into shadows as naturally as breathing.
 
  
@@ -252,15 +252,15 @@ You are too kind, Master. But worry not. We Hassans blend into shadows as natura
 
 ---
  
-**Geronimo**
+**Geronimo:**
 All right, let's wait and see how&ndash;
 
  
-**Cursed Arm**
+**Cursed Arm:**
 I found him.
 
  
-**Geronimo**
+**Geronimo:**
 Wha...!?
 
  
@@ -273,15 +273,15 @@ Already!?
 
 ---
  
-**Yan Qing**
+**Yan Qing:**
 Yo, lady!
 
  
-**Yan Qing**
+**Yan Qing:**
 Can I get one of those mystery meat buns?
 
  
-**Yan Qing**
+**Yan Qing:**
 Thanks.
 
  
@@ -291,7 +291,7 @@ Thanks.
 **Fujimaru 1:**
 Yep, that's him...
  
-**Cursed Arm**
+**Cursed Arm:**
 I could hardly believe my eyes.
 I've never seen such a lazy Assassin.
 
@@ -302,7 +302,7 @@ I've never seen such a lazy Assassin.
 **Fujimaru 2:**
 What's he doing here?
  
-**Geronimo**
+**Geronimo:**
 ...We will just have to ask him once we've caught him.
 
  
@@ -310,7 +310,7 @@ What's he doing here?
 
 ---
  
-**Yan Qing**
+**Yan Qing:**
 Oh, hey Master.
 What's up?
 
@@ -324,25 +324,25 @@ That's what I wanna know!
 
 ---
  
-**Yan Qing**
+**Yan Qing:**
 ?
 
  
-**Yan Qing**
+**Yan Qing:**
 ...Oh, yeah, right.
 Guess I kinda left without saying anything, huh.
 
  
-**Yan Qing**
+**Yan Qing:**
 Sorry about that. And I'm sorry about this, too...
 
  
-**Yan Qing**
+**Yan Qing:**
 ...but there's something I gotta do here,
 and I'm not leaving till it's done.
 
  
-**A：Yan Qing (?)**
+**A：Yan Qing (?):**
 So I'm afraid I can't let you bring me back!
 
  
@@ -352,11 +352,11 @@ So I'm afraid I can't let you bring me back!
 **Fujimaru 1:**
 You're using your doppelgänger power!?
  
-**A：Yan Qing (?)**
+**A：Yan Qing (?):**
 You know it.
 
  
-**A：Yan Qing (?)**
+**A：Yan Qing (?):**
 I can't let myself be caught, no matter what!
 So you better believe I'm pulling out all the stops!
 
@@ -367,7 +367,7 @@ So you better believe I'm pulling out all the stops!
 **Fujimaru 2:**
 He transformed!
  
-**Cursed Arm**
+**Cursed Arm:**
 Hmm, this could be a problem.
 Now, what to do about it...
 
@@ -376,66 +376,66 @@ Now, what to do about it...
 
 ---
  
-**Geronimo**
+**Geronimo:**
 It would seem he's quite desperate.
 In that case...
 
  
-**Geronimo**
+**Geronimo:**
 ...the only way he'll listen to reason is if we knock some into him. Let's do this, Master.
 
  
-**Mash**
+**Mash:**
 Okay everyone, prepare for combat!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Yan Qing (?)**
+**Yan Qing (?):**
 Sorry, the answer's still no.
 Later!
 
  
-**Geronimo**
+**Geronimo:**
 A smoke bomb...!
 
  
-**Cursed Arm**
+**Cursed Arm:**
 He must have taken it from someone while we were fighting.
 
  
-**Mash**
+**Mash:**
 N-now what do we do?
 
  
-**Mash**
+**Mash:**
 He did say there was something he had to do here...
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...We can't let him do it, whatever it may be.
 Let's go after him, [♂ Lord /♀️ Lady} Fujimaru.
 
  
-**Geronimo**
+**Geronimo:**
 Oh? Does that mean you know what Yan Qing is up to, Cursed Arm?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 I do, for it concerns me personally.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Now, let us be on our way.
 We may not know what that way is yet, but no matter.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 We will just have to keep looking until we find it.
 For a Hassan, it is, as they say, business as usual.
 
 
-**--ARROW--**
+**--ARROW--:**
 
 **Narration:**
 I don't mind roaming around looking for what I have to do. That irredeemable thing I can't just wipe off my slate.
@@ -450,37 +450,37 @@ After all, I know I'm doing the right thing.
 To get my chance at being a good person...I'll take my revenge on him.
 
  
-**Geronimo**
+**Geronimo:**
 Going after Yan Qing is all well and good...
 
  
-**Geronimo**
+**Geronimo:**
 ...but how are we going to find him when he could be anyone here?
 
  
-**Geronimo**
+**Geronimo:**
 Any ideas?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Yes, actually. I snuck a cursed scent mark onto him during our battle.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 It has been passed down our clan for generations,
 and should let me know when I'm drawing near him.
 
  
-**Geronimo**
+**Geronimo:**
 Oho, you don't say. Quite clever.
 
  
-**Geronimo**
+**Geronimo:**
 In that case, Cursed Arm,
 I think it's best if you lead the way.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Is that all right with you, Master?
 
  
@@ -493,16 +493,16 @@ Absolutely!
 
 ---
  
-**Cursed Arm**
+**Cursed Arm:**
 ...Hmm. It's faint, but I can smell the scent nearby.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 We may have tracked him down sooner than I thought.
 Come, this way.
 
  
-**Geronimo**
+**Geronimo:**
 In the meantime, let's think about what Yan Qing may have meant earlier.
 
  
@@ -512,7 +512,7 @@ In the meantime, let's think about what Yan Qing may have meant earlier.
 **Fujimaru 1:**
 What do you mean?
  
-**Geronimo**
+**Geronimo:**
 I mean the thing he said he needs to do.
 
  
@@ -522,11 +522,11 @@ I mean the thing he said he needs to do.
 **Fujimaru 2:**
 The thing he said he needs to do?
  
-**Geronimo**
+**Geronimo:**
 That's right.
 
  
-**Geronimo**
+**Geronimo:**
 What does he hope to accomplish by coming back to Shinjuku?
 
  
@@ -534,19 +534,19 @@ What does he hope to accomplish by coming back to Shinjuku?
 
 ---
  
-**Geronimo**
+**Geronimo:**
 What do you know about this, Cursed Arm?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...Hmm.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 I'd rather not discuss it, but under the circumstances, I suppose I can share.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 You see, Lord Yan Qing actually came to apologize to me once, back when we were still at Chaldea.
 
  
@@ -556,7 +556,7 @@ You see, Lord Yan Qing actually came to apologize to me once, back when we were 
 **Fujimaru 1:**
 You mean, about what happened in Shinjuku?
  
-**Cursed Arm**
+**Cursed Arm:**
 Indeed. You have an excellent memory, Master.
 
  
@@ -566,7 +566,7 @@ Indeed. You have an excellent memory, Master.
 **Fujimaru 2:**
 What about?
  
-**Cursed Arm**
+**Cursed Arm:**
 The incident in Shinjuku, most likely.
 
  
@@ -574,129 +574,129 @@ The incident in Shinjuku, most likely.
 
 ---
  
-**Yan Qing**
+**Yan Qing:**
 'Sup, Cursed Arm. Got a minute?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Why, if it isn't Lord Yan Qing.
 What brings you to my humble room?
 
  
-**Yan Qing**
+**Yan Qing:**
 Uh, I just wanted to say I was sorry.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Sorry...? If you've done something to wrong me,
 I can't say I'm aware of it.
 
  
-**Yan Qing**
+**Yan Qing:**
 It sounds like I did you a real disservice back in Shinjuku, so, you know.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...Now I see. Yes, I do recall reading about that in the Shinjuku report.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 I looked it over after I heard my name was mentioned, and there is nothing for you to apologize for.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Spies like us are quite used to disguises and betrayal. It all comes with the territory.
 
  
-**Yan Qing**
+**Yan Qing:**
 Yeah, maybe. And honestly,
 I don't even remember doing it.
 
  
-**Yan Qing**
+**Yan Qing:**
 But there's this little voice in my Spirit Origin that keeps nagging at me.
 
  
-**Yan Qing**
+**Yan Qing:**
 Says I'll never be able to move on if I don't apologize to you first.
 
  
-**Yan Qing**
+**Yan Qing:**
 And that, if possible...I need to go back to Shinjuku and finish what I started.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Finish what you started...?
 
  
-**Yan Qing**
+**Yan Qing:**
 Yup. You know what they say...
 
  
-**Yan Qing**
+**Yan Qing:**
 If you commit the crime, you gotta do the time.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...But, have you not already done your “time” by fighting alongside Master?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 I see no reason why you need to seek further redemption in Shinjuku.
 
  
-**Yan Qing**
+**Yan Qing:**
 ...Yeah, true. Fair point.
 
  
-**Yan Qing**
+**Yan Qing:**
 Now that I think about, I feel pretty damn silly!
 Just forget I said anything, all right?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...
 
  
-**Cursed Arm**
+**Cursed Arm:**
 He never brought it up again after that,
 so I never chose to pursue it further...
 
  
-**Cursed Arm**
+**Cursed Arm:**
 But now that we're here, I'm reminded of how empty his smile seemed back then.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 I think Lord Yan Qing is still trying to make amends.
 
  
-**Geronimo**
+**Geronimo:**
 Amends, huh.
 
  
-**Geronimo**
+**Geronimo:**
 However, whatever the Assassin of Shinjuku may have done here, it has nothing to do with Yan Qing.
 
  
-**Geronimo**
+**Geronimo:**
 No, I'll go further: it would be wrong if it did. That would mean the sins we commit would pile higher and higher every time we were summoned.
 
  
-**Geronimo**
+**Geronimo:**
 The heroes from the Age of Gods may be able to endure such a burden, but that is far too much for an ordinary person.
 
  
-**Geronimo**
+**Geronimo:**
 That is why our actions are recorded independent of our memories.
 
  
-**Mash**
+**Mash:**
 As a Demi-Servant myself,
 I don't have any of his memories...
 
  
-**Mash**
+**Mash:**
 ...but if I did, I agree that the mental burden of such a thing would be overwhelming.
 
  
@@ -709,11 +709,11 @@ But, Yan Qing's...
 
 ---
  
-**Cursed Arm**
+**Cursed Arm:**
 ...No more talk. We've found him.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 That Hornet over there is Lord Yan Qing.
 
  
@@ -726,25 +726,25 @@ Yan Qing!
 
 ---
  
-**Yan Qing (?)**
+**Yan Qing (?):**
 Aw crap, you already found me!?
 
  
-**Geronimo**
+**Geronimo:**
 Yan Qing.
 Are you here to seek redemption?
 
  
-**Geronimo**
+**Geronimo:**
 Or perhaps, retribution for your sins?
 
  
-**E：Yan Qing**
+**E：Yan Qing:**
 ...It's not a matter of seeking it out, Geronimo.
 I HAVE to be punished for what I did.
 
  
-**E：Yan Qing**
+**E：Yan Qing:**
 Otherwise, I won't be me anymore.
 
  
@@ -770,36 +770,36 @@ Yan Qing...?
 
 ---
  
-**E：Yan Qing**
+**E：Yan Qing:**
 ...Please just let me do this, Master.
 Please... I'm begging you.
 
  
-**E：Yan Qing**
+**E：Yan Qing:**
 I have to die for what I did.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 I'm afraid that is a crude and contradictory way of seeing things, Yan Qing.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 You fight to take on sins that can only be paid for with your own life... That is a manner of thinking with which I am all too familiar.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 But you are woefully wet behind the ears if your only concern is wiping your regrets away, as mine once was.
 
  
-**E：Yan Qing**
+**E：Yan Qing:**
 ...!
 
  
-**Cursed Arm**
+**Cursed Arm:**
 What would you have us do, Master?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 If you are willing to accept his sins,
 we can return to Chaldea right now.
 
@@ -810,7 +810,7 @@ we can return to Chaldea right now.
 **Fujimaru 1:**
 I don't think that's a good idea.
  
-**Cursed Arm**
+**Cursed Arm:**
 ...Hehe, I see.
 
  
@@ -820,7 +820,7 @@ I don't think that's a good idea.
 **Fujimaru 2:**
 Let's just talk about this, okay?
  
-**E：Yan Qing**
+**E：Yan Qing:**
 Sorry, but I really don't have time to talk!
 
  
@@ -828,48 +828,48 @@ Sorry, but I really don't have time to talk!
 
 ---
  
-**E：Yan Qing**
+**E：Yan Qing:**
 ...Dammit, I shoulda known it'd come to this.
 
  
-**E：Yan Qing (?)**
+**E：Yan Qing (?):**
 Sorry, Master, but if this is how it's gonna be,
 I'm not gonna make it easy for you!
 
  
-**Geronimo**
+**Geronimo:**
 Hmm, I see has no small skill in multiplying himself.
 
  
-**Mash**
+**Mash:**
 Um, I think he just called in reinforcements...
 
  
-**Mash**
+**Mash:**
 Ahem.
 At any rate, entering combat mode...now!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Geronimo**
+**Geronimo:**
 He must have run off while we were fighting the other Hornets.
 
  
-**Geronimo**
+**Geronimo:**
 Still... Hmm.
 Are you sure about this, Cursed Arm?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 About what?
 
  
-**Geronimo**
+**Geronimo:**
 Are we truly doing the right thing here?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...Of course. That is why I came here, after all.
 
  
@@ -887,15 +887,15 @@ Wait. You don't mean...
 
 ---
  
-**Cursed Arm**
+**Cursed Arm:**
 I will explain the next time we encounter Yan Qing.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 He needs to hear this just as much as you do.
 
 
-**--ARROW--**
+**--ARROW--:**
 
 **Narration:**
 ...Where is he?
@@ -928,7 +928,7 @@ The sky is muddied and dirty.
 Even the water tastes foul.
 
  
-**???**
+**???:**
 How does it feel to die?
 
  
@@ -936,51 +936,51 @@ How does it feel to die?
 I turn around, and see Death standing there waiting for me.
 
  
-**Yan Qing**
+**Yan Qing:**
 There you are. I knew I'd find you here,
 Hassan of the Cursed Arm.
 
  
-**Yan Qing**
+**Yan Qing:**
 That's right. You're the one I've gotta apologize to. You're the one I killed.
 
  
-**Yan Qing**
+**Yan Qing:**
 No... That's not right. You killed me.
 
  
-**Yan Qing**
+**Yan Qing:**
 ...No, wait. Please, wait. My head...my memories are all a mess... I can't tell what's true or not!
 
  
-**Cursed Arm (?)**
+**Cursed Arm (?):**
 Enough of this.
 It's time you accepted your fate.
 
  
-**Cursed Arm (?)**
+**Cursed Arm (?):**
 ...
 ...
 
  
-**Cursed Arm (?)**
+**Cursed Arm (?):**
 We can't ever atone for our sins.
 
  
-**Yan Qing**
+**Yan Qing:**
 ...That voice...
 No, wait...
 
  
-**Yan Qing**
+**Yan Qing:**
 Are you me?
 
  
-**Cursed Arm (?)**
+**Cursed Arm (?):**
 Let me answer your question with one of my own.
 
  
-**Cursed Arm (?)**
+**Cursed Arm (?):**
 Who do you think you are?
 
  
@@ -998,56 +998,56 @@ Yan Qing...!?
 
 ---
  
-**C：Yan Qing**
+**C：Yan Qing:**
 Hey there, Master!
 Sorry 'bout this!
 
  
-**C：Yan Qing**
+**C：Yan Qing:**
 I definitely meant to trick you,
 but not like this!
 
  
-**Geronimo**
+**Geronimo:**
 Hmm. It would seem you are the real Yan Qing.
 
  
-**Geronimo**
+**Geronimo:**
 And yet, your Spirit Origin is indistinguishable from this Yan Qing.
 
  
-**Geronimo**
+**Geronimo:**
 ...That can only mean one thing.
 
  
-**Geronimo**
+**Geronimo:**
 The other Yan Qing is a doppelgänger.
 
  
-**A：Yan Qing (?)**
+**A：Yan Qing (?):**
 Ah...
 A-ah...
 
  
-**E：Yan Qing (?)**
+**E：Yan Qing (?):**
 Aaahhh!
 
  
-**C：Yan Qing**
+**C：Yan Qing:**
 Whoa, whoa, calm down, other me! Ah crap.
 I knew it was too soon to pull back the curtains!
 
  
-**Mash**
+**Mash:**
 Is that...a Servant? No, now they're...Christine?
 And Hassan, and Yan Qing...
 
  
-**Mash**
+**Mash:**
 They keep transforming into all sorts of different enemies!
 
  
-**C：Yan Qing**
+**C：Yan Qing:**
 It doesn't matter who he turns into.
 We just gotta get him to calm down, Master!
 
@@ -1058,7 +1058,7 @@ We just gotta get him to calm down, Master!
 **Fujimaru 1:**
 You mean beat him down.
  
-**C：Yan Qing**
+**C：Yan Qing:**
 You got it!
 
  
@@ -1068,11 +1068,11 @@ You got it!
 **Fujimaru 2:**
 So, basically...
  
-**C：Yan Qing**
+**C：Yan Qing:**
 We hit him real hard!
 
  
-**Geronimo**
+**Geronimo:**
 Well, that's certainly straightforward.
 
  
@@ -1080,184 +1080,184 @@ Well, that's certainly straightforward.
 
 ---
  
-**C：Yan Qing**
+**C：Yan Qing:**
 All right, lost other me, it's time for us to go back where we belong.
 
  
-**C：Yan Qing**
+**C：Yan Qing:**
 There's no one left here you need to make amends to.
 
  
-**C：Yan Qing**
+**C：Yan Qing:**
 So if we don't put an end to everything here...
 we're both gonna be left behind for good!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Cursed Arm**
+**Cursed Arm:**
 Khh...
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 We've got you now, Hassan-i Sabbah.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...So it would seem.
 Very well, go ahead and take my head.
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 Your head? Oh no, I don't want you dead just yet.
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 I need to copy your Spirit Origin first.
 Otherwise it'd be such a waste of material.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...!
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 Yep, that's right. I'm gonna use your form to pull the wool over those Chaldea chumps' eyes whenever they manage to get here.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...So, you are plotting ahead to ensure you can fully deceive your quarry. You truly are an Assassin born.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Very well then. If that is how it is to be, I will not go down without a fight. I can do no less after being summoned here.
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 Oh? You want a piece of me?
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 What an honor, facing off with one of the biggest names in the assassin world.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 I thought I was about to die,
 powerless to do anything...
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...but it is exactly when one can do nothing that new options open up.
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 What...?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...Zabaniya!
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 Hah, nice try! But there's no way you can copy my heart and crush it before I can stop you!
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Indeed, I cannot. Which is why it is fortunate that I have no need to copy you.
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 What...!?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Hehe... Good. It worked.
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 You crushed your own heart? Why?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 You know exactly why.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 If Chaldea comes to save this city,
 as I trust they will...
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...then it is my duty as a Servant to help them however I can.
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 Wha... Huh!?
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 You're freakin' nuts!
 What the hell are you thinking!?
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 You're just throwing your life away for these people without even knowing for sure they're coming!?
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Of course.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 I was summoned here as a Rogue Servant.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 It is therefore my obligation to try and save this city.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 It was my fate...nay, let's just say my duty.
 So I have no qualms about laying down my life.
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 ...!
 
  
-**Cursed Arm**
+**Cursed Arm:**
 With me dead, your imitation of me will be imperfect.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 ...A small stone laid upon your path,
 but one you may well trip over.
 
  
-**Cursed Arm**
+**Cursed Arm:**
 Farewell, savior of this city, whomever you may be.
 Good luck!
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 D-dammit!
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 The hell was that guy's problem!?
 The hell was wrong with him!?
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 It'd be one thing if he was dying for his master,
 but for someone he'd never even seen...!?
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 How the hell could anyone go out like that!?
 
  
-**Assassin of Shinjuku**
+**Assassin of Shinjuku:**
 Dammit, dammit, dammit!!!
 
  
@@ -1314,73 +1314,73 @@ I had no idea how I should go about repaying my master for saving my life.
 I couldn't think about...anything...anymore...
 
  
-**Yan Qing**
+**Yan Qing:**
 ...So that's how it is.
 That “me” both is and isn't me.
 
  
-**Yan Qing**
+**Yan Qing:**
 He's my doppelgänger.
 A Phantom Spirit who wasn't even supposed to exist.
 
  
-**Yan Qing**
+**Yan Qing:**
 That's why it was so easy to track him down.
 
  
-**Yan Qing**
+**Yan Qing:**
 Especially since he's been haunting me.
 
  
-**Yan Qing**
+**Yan Qing:**
 Cursed scent mark?
 Sorry, I was just bullshitting you.
 
  
-**Geronimo**
+**Geronimo:**
 Does this mean...you and he did not originally share a body then?
 
  
-**Yan Qing**
+**Yan Qing:**
 Nah, he's pretty much just a copy of me.
 
  
-**Yan Qing**
+**Yan Qing:**
 I used to be the Assassin of Shinjuku, using my doppelgänger power to turn into anyone and anything.
 
  
-**Yan Qing**
+**Yan Qing:**
 ...But I gradually forgot who I really was,
 and ended up losing to Master.
 
  
-**Yan Qing**
+**Yan Qing:**
 This guy's just the remains of that version of me, but he ended up sorta linking with the version of me that got summoned to Chaldea.
 
  
-**Yan Qing**
+**Yan Qing:**
 ...Yeah, that's it. We were linked. Connected.
 
  
-**Yan Qing**
+**Yan Qing:**
 That's why you heard I'd Rayshifted here.
 He got all mixed up.
 
  
-**Yan Qing**
+**Yan Qing:**
 He started thinking he was, well, me,
 and decided to come back to Shinjuku.
 
  
-**Yan Qing**
+**Yan Qing:**
 That's why I couldn't forgive myself for what I'd done.
 
  
-**Yan Qing**
+**Yan Qing:**
 Instead of a gangster who took over Shinjuku, I ended up reverting back into the chivalrous vigilante I always was.
 
  
-**Yan Qing**
+**Yan Qing:**
 I mean, you've seen for yourself how surprisingly strong my sense of justice is, right?
 
  
@@ -1390,7 +1390,7 @@ I mean, you've seen for yourself how surprisingly strong my sense of justice is,
 **Fujimaru 1:**
 True, you're the most upstanding vigilante I've ever known.
  
-**Yan Qing**
+**Yan Qing:**
 Wahahaha. Thanks for playing along, Master!
 
  
@@ -1400,7 +1400,7 @@ Wahahaha. Thanks for playing along, Master!
 **Fujimaru 2:**
 I thought you were a vigilante of darkness.
  
-**Yan Qing**
+**Yan Qing:**
 That's cool, I guess. They're both badass!
 
  
@@ -1408,62 +1408,62 @@ That's cool, I guess. They're both badass!
 
 ---
  
-**Yan Qing (?)**
+**Yan Qing (?):**
 Ahh... Ahhh... I can never atone...
 I can never make amends...
 
  
-**Yan Qing (?)**
+**Yan Qing (?):**
 I've always survived by...piling up regret after regret... I hate that...about myself...
 
  
-**Yan Qing**
+**Yan Qing:**
 That's why you wanted to die,
 and why you tried to kill us.
 
  
-**Yan Qing**
+**Yan Qing:**
 Because you thought trying to kill us would end with you getting killed instead. Am I wrong?
 
  
-**Doppelgänger**
+**Doppelgänger:**
 I... I... I'm everyone...and no one...
 
  
-**Doppelgänger**
+**Doppelgänger:**
 I can be anyone at all, since I lack a core self...yet I also can't be anything, since I have neither goodwill or malice.
 
  
-**Doppelgänger**
+**Doppelgänger:**
 I'm nothing more than a hapless wraith who can only survive in the space between darkness and rumor...
 
  
-**Doppelgänger**
+**Doppelgänger:**
 Which is why...I at least wanted to make amends...
 
  
-**Doppelgänger**
+**Doppelgänger:**
 And yet...I didn't want it to cost me my life...
 
  
-**Doppelgänger**
+**Doppelgänger:**
 So now...I don't know what to do...
 
  
-**Yan Qing**
+**Yan Qing:**
 Come with me then. Hell, that's the whole reason I'm here: to invite you to join me.
 
  
-**Geronimo**
+**Geronimo:**
 Oho. So you want to add a Phantom Spirit on top of all your other personalities?
 
  
-**Geronimo**
+**Geronimo:**
 Sure about that?
 It might do some damage to your sense of self.
 
  
-**Yan Qing**
+**Yan Qing:**
 Nah, I'll be fine. I know who I am.
 Isn't that right, Master?
 
@@ -1474,7 +1474,7 @@ Isn't that right, Master?
 **Fujimaru 1:**
 I think you can probably handle it.
  
-**Yan Qing**
+**Yan Qing:**
 Right!?
 
  
@@ -1484,7 +1484,7 @@ Right!?
 **Fujimaru 2:**
 I can't say I'm not concerned, but...
  
-**Geronimo**
+**Geronimo:**
 Once he has made up his mind,
 there is no stopping him, huh.
 
@@ -1493,101 +1493,101 @@ there is no stopping him, huh.
 
 ---
  
-**Doppelgänger**
+**Doppelgänger:**
 A-are you sure? Is it really okay...
 if I come with you?
 
  
-**Yan Qing**
+**Yan Qing:**
 Sure. You'll help make me stronger.
 
  
-**Yan Qing**
+**Yan Qing:**
 Just don't forget how you feel right now.
 How desperately you're longing for justice.
 
  
-**Yan Qing**
+**Yan Qing:**
 Long as you hold onto that, you'll make a great chivalrous vigilante yet.
 
  
-**Doppelgänger**
+**Doppelgänger:**
 A vigilante...
 
  
-**Doppelgänger**
+**Doppelgänger:**
 People who are loyal and considerate to a fault, but with strong enough senses of morality and self to even defy a king...
 
  
-**Doppelgänger**
+**Doppelgänger:**
 That's what I...want to be...
 
  
-**Mash**
+**Mash:**
 I've confirmed that the doppelgänger has...not vanished, but became part of Yan Qing.
 
  
-**Mash**
+**Mash:**
 His Spirit Origin readings are stable.
 
  
-**Yan Qing**
+**Yan Qing:**
 See? Told you I'd be fine.
 
  
-**Geronimo**
+**Geronimo:**
 Even so, this is quite unusual.
 
  
-**Geronimo**
+**Geronimo:**
 You should have Da Vinci take a look at you as soon as we get back.
 
  
-**Yan Qing**
+**Yan Qing:**
 Yup, will do!
 
  
-**Geronimo**
+**Geronimo:**
 ...
 ...
 
  
-**Geronimo**
+**Geronimo:**
 A doppelgänger who did horrible things in Shinjuku,
 all because he lacked a personality of his own...
 
  
-**Geronimo**
+**Geronimo:**
 ...yet who also attempted to do the right thing once he finally had one...
 
  
-**Geronimo**
+**Geronimo:**
 It's a miracle that he existed. No doubt it was only made possible thanks to humanity's current precariousness.
 
  
-**Geronimo**
+**Geronimo:**
 So I hope you will remember him,
 Master, even if no one else does.
 
  
-**Geronimo**
+**Geronimo:**
 It is through your observation that his small tragedy and struggle will live on forever.
 
  
-**Geronimo**
+**Geronimo:**
 And for him, there could be no greater honor.
 
  
-**Yan Qing**
+**Yan Qing:**
 Yeah.
 
  
-**Yan Qing**
+**Yan Qing:**
 Thanks for believing in me right to the end, Master.
 I appreciate that.
 
  
-**Yan Qing**
+**Yan Qing:**
 As long as I'm here, Fujimaru...
 I'll keep fighting for you and you alone!
 

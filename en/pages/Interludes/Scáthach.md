@@ -2,33 +2,33 @@
 
 <h2>Kill Me If You Can</h2>
 
-**Scáthach**
+**Scáthach:**
 ...Now then. Are you ready, Cú Chulainn?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Ready or not. You haven't told me why I was summoned, but... Well, I have some idea.
 
  
-**Scáthach**
+**Scáthach:**
 Hmm, being summoned like this must be fate. First off, I'd like you to try and finish me.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Uh, right. I just need to pierce through your heart or head with impeccable technique and coordination, right?
 
  
-**Mash**
+**Mash:**
 No! Wouldn't that just kill her?
 Um, we'd like you to not try and kill each other!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 That's impossible, little girl.
 At this point, nothing's going to stop her.
 
  
-**Mash**
+**Mash:**
 S-Senpai, what should we do...
 
  
@@ -38,7 +38,7 @@ S-Senpai, what should we do...
 **Fujimaru 1:**
 I'd like the two of you to stop.
  
-**Scáthach**
+**Scáthach:**
 No, please don't stop me, Master.
 This is a once-in-a-lifetime opportunity.
 
@@ -49,11 +49,11 @@ This is a once-in-a-lifetime opportunity.
 **Fujimaru 2:**
 Why do you want to die?
  
-**Scáthach**
+**Scáthach:**
 Well, that's because living makes me long for death... A satisfactory death from the ultimate thrust.
 
  
-**Scáthach**
+**Scáthach:**
 I know it's too much too ask for and an annoyance. But this is a once-in-a-lifetime opportunity.
 
  
@@ -61,167 +61,167 @@ I know it's too much too ask for and an annoyance. But this is a once-in-a-lifet
 
 ---
  
-**Scáthach**
+**Scáthach:**
 I have a body which seeks but is denied death, a mere ghost who's burned onto the world.
 
  
-**Scáthach**
+**Scáthach:**
 However, with this world incinerated, the Land of Shadows is no more. That's why I can be summoned as a Heroic Spirit.
 
  
-**Scáthach**
+**Scáthach:**
 To fight as a warrior, to lose my life if defeated&mdash;
 A chance to live like a proper person.
 
  
-**Scáthach**
+**Scáthach:**
 Then it's only natural wanting to try it, no?
 Assuming there's a warrior greater than me.
 
  
-**Scáthach**
+**Scáthach:**
 Well, Cú Chulainn?
 Have you improved a bit since that time?
 
  
-**Scáthach**
+**Scáthach:**
 Since I couldn't leave the Land of Shadows, my only way to make sure was through my messengers.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Yes, a bit. Stand back, Fujimaru.
 A spear tip is more suitable for her than words.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...Dammit. Sending clueless kids as messengers.
 What kind of bad joke is that?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 You are immortal physically, but your soul is dead. You're wise, but what you are is no different than a hellish fiend.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Now that very soul has materialized in this world, then I guess it's the pupil's job to finish his mentor off.
 
  
-**Scáthach**
+**Scáthach:**
 Yes. Now then, Child of Light.
 Try to kill me for good this time.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Leave it to me. My spear can reverse causality, and it never misses its prey.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 &mdash;Here we go, Scáthach.
 That heart will be mine&mdash;!
 
  
-**Scáthach**
+**Scáthach:**
 Well said! My pupil, the moment that red spear pierces my chest&ndash;
 
  
-**Scáthach**
+**Scáthach:**
 Oh, I have longed for such a moment...
 as I was frozen in the depths of eternity!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Sorry. I messed up.
 
  
-**Scáthach**
+**Scáthach:**
 Foolish pupil&mdash;!
 Why did your spear have to miss, now of all times!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Amazing... Gáe Bolg's tip flew way off into the horizon...
 
  
-**Mash**
+**Mash:**
 Yes, it even seems to have left a contrail. It must have hit Mach speed.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I see. Because it couldn't see Scáthach being dead in her fate, so it turned into a wild throw like that.
 
  
-**Scáthach**
+**Scáthach:**
 ...Ah. Is that what it is?
 So my foolish pupil did not go easy on me then.
 
  
-**Scáthach**
+**Scáthach:**
 Still! Come on, Sétanta! What's with you!?
 
  
-**Scáthach**
+**Scáthach:**
 You've gotten worse since your time in the Land of Shadows! You're like a squirrel! Been slacking off on your training?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Yeah yeah, I know, I know... I am weaker than before.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I mean, half of my strength is missing.
 I don't really know why, but I am just not in my prime.
 
  
-**Scáthach**
+**Scáthach:**
 What did you say?
 
  
-**Mash**
+**Mash:**
 Oh! Maybe... So when Cú Chulainn appeared as a Caster to help us that one time...
 
  
-**Mash**
+**Mash:**
 His powers got distributed to every Cú Chulainn that existed in each Servant class.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Ew. I was a Caster somewhere?
 
  
-**Scáthach**
+**Scáthach:**
 I see. Come to think of it, despite being a natural warrior, his skill with runes was needlessly high...
 
  
-**Scáthach**
+**Scáthach:**
 Still, you told me something useful, Mash. There's still a chance.
 
  
-**Scáthach**
+**Scáthach:**
 Cú Chulainn. You will start your training over in that body. Train with a clear mind and you'll regain what you've lost.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 A clear mind... So basically not to think about anything?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...Wait, start over my training?
 
  
-**Scáthach**
+**Scáthach:**
 Did you hear it any other way, fool? You have the basics. Now you just need combat experience.
 
  
-**Scáthach**
+**Scáthach:**
 Right, it's decided.
 Now then, let's start our journey of training.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Huh, like right now? Ow! Don't pull the hair on the back of my head! Hey, Pink Hair! Quit laughing and do something!
 
  
-**Mash**
+**Mash:**
 ...Th-There they go.
 What do we do, Master?
 
@@ -240,24 +240,24 @@ Let's join them.
 
 ---
  
-**Mash**
+**Mash:**
 You're right.
 It's our only option. Let's go!
 
  
-**Scáthach**
+**Scáthach:**
 Okay, we'll start by killing a chimera. Work hard.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 All right, I get it! Quit pulling my hair! ...Dammit. What a pain... But I guess I have to go along with it.
 
  
-**Mash**
+**Mash:**
 Wait, please!
 
  
-**Scáthach**
+**Scáthach:**
 Oh, you've decided to join our training?
 
  
@@ -270,151 +270,151 @@ The more of us, the better our chances.
 
 ---
  
-**Scáthach**
+**Scáthach:**
 ...I see.
 You're right, we are Servants.
 
  
-**Scáthach**
+**Scáthach:**
 They say a Servant's power increases more with backup from a Master.
 
  
-**Scáthach**
+**Scáthach:**
 All right, I'll allow you to participate.
 Try to kill the chimera along with Cú Chulainn.
 
  
-**Mash**
+**Mash:**
 Understood!
 Let's do our best, Cú Chulainn!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 You sure love to stick your nose into other people's problems, but thanks. I can't shame myself in front of my mentor a second time.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Let's go, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Scáthach**
+**Scáthach:**
 A life-or-death situation suits you, Cú Chulainn. Both your eyes are burning brightly, aren't they?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 That battle was intense, how can I not get excited? My love for a good fight has always been a bad habit of mine since childhood.
 
  
-**Scáthach**
+**Scáthach:**
 Yes. However, your spear lacks precision.
 Did you hold back and rely on strength alone because the enemy was weak?
 
  
-**Scáthach**
+**Scáthach:**
 Didn't I teach you not to swing your spear with strength alone? Your habit of skipping out on lessons was one thing I couldn't fix...
 
  
-**Scáthach**
+**Scáthach:**
 All right then, we're facing dragons next.
 Let's go earn you the title of Dragon Slayer... By killing a hundred of them.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 She's as unreasonable as he is!
 
  
-**Mash**
+**Mash:**
 Cú Chulainn, are you alive?
 ...Which is to say, should we continue?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Of course we continue. My shoulder is all nice and warmed up. All right, bring on the dragon or whatever you've got!
 
  
-**Scáthach**
+**Scáthach:**
 Very well.
 Let us have at it, my prize pupil!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Cú Chulainn**
+**Cú Chulainn:**
 Last one.
 Here we go&ndash; Gáe Bolg!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Got 'em!
 Well? Can't complain about that!
 
  
-**Scáthach**
+**Scáthach:**
 ...
 ...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Hello?
 Scáthach?
 
  
-**Scáthach**
+**Scáthach:**
 ...No, sorry.
 I was remembering you from the past.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Stop right there before you embarrass me. So, what do you think?
 
  
-**Scáthach**
+**Scáthach:**
 Hm... I don't know if it's perfect, but it's close. At the very least, not that much different when you were alive.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Good, now we're talking.
 Well, shall we do this?
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Scáthach**
+**Scáthach:**
 ...Yeah, you're right.
 To think that kid would be standing before me like this.
 
  
-**Scáthach**
+**Scáthach:**
 Human life is nothing but wonders. Rather than becoming a god, I would have preferred to associate with you as a human&ndash;
 
  
-**Scáthach**
+**Scáthach:**
 Heh, heh, that too is merely a luxury.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Something like “He who hunts two hares loses both.”
 
  
-**Scáthach**
+**Scáthach:**
 Exactly.
 Are you ready, Cú Chulainn?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 &ndash;Yeah.
 
  
-**Scáthach**
+**Scáthach:**
 Mash, you two should join, too.
 Then we'll be even.
 
  
-**Mash**
+**Mash:**
 Master?
 
  
@@ -433,119 +433,119 @@ Brace yourself.
 
 ---
  
-**Mash**
+**Mash:**
 Understood.
 ...Here we go, Scáthach!
 
  
-**Scáthach**
+**Scáthach:**
 &ndash;Come at me!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Scáthach**
+**Scáthach:**
 Ugh!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 &ndash;Gotcha!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Take this as my parting gift!
 Gáe Bolg!
 
  
-**Scáthach**
+**Scáthach:**
 &ndash;Ugh!
 
  
-**Scáthach**
+**Scáthach:**
 That was your last strike, huh?
 Then here goes... Gáe Bolg Alternative!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Wha...
 
  
-**Scáthach**
+**Scáthach:**
 Huh?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...Say, Scáthach.
 Looks like you, too...
 
  
-**Scáthach**
+**Scáthach:**
 Y-Yeah. Looks like...I also have gotten stronger than before.
 
  
-**Scáthach**
+**Scáthach:**
 ...Well, I had a hunch, but it was so fun... At times, killing dragons and giants and monsters...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Are you even more reckless than me!? Don't you want to die!?
 
  
-**Scáthach**
+**Scáthach:**
 I-I can't help it! The stronger an enemy, the more I want to see the essence of its strength.
 
  
-**Scáthach**
+**Scáthach:**
 The stronger they are, the more I respect them, the more I want to cross swords with them!
 
  
-**Scáthach**
+**Scáthach:**
 It's only natural that I'd end up getting stronger! It's not my fault!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...SIGH. Exactly how much does the Queen of the Land of Shadows love to fight?
 
  
-**Mash**
+**Mash:**
 I-I can't keep up with this inflation. She could at least slow the pace a little...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 It's not something that you can do in a short time.
 
  
-**Scáthach**
+**Scáthach:**
 You're right.
 ...No need to rush, is there?
 
  
-**Scáthach**
+**Scáthach:**
 Cú Chulainn and you, Fujimaru.
 The day will surely come when you can kill me.
 
  
-**Scáthach**
+**Scáthach:**
 Before you save the world,
 kill me, if only once.
 
  
-**Scáthach**
+**Scáthach:**
 That is my wish.
 To that abysmal probability, I devote this body.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Yeah, yeah, I got it. We're stuck together 'till we both die... No, 'till we both kill each other.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 There's still a long way to go. Going along with a woman's selfishness is also a requirement to be a top-tier Master, Fujimaru.
 
 
 <h2>Calls from the Land of Shadows</h2>
 
-**Mash**
+**Mash:**
 ...Master. Master.
 Please wake up. Master.
 
@@ -556,11 +556,11 @@ Please wake up. Master.
 **Fujimaru 1:**
 Huh? What's going on?
  
-**Mash**
+**Mash:**
 I'm not sure myself. But we're not in Chaldea, nor any recognizable era.
 
  
-**Mash**
+**Mash:**
 What I do know&mdash;
 
  
@@ -570,7 +570,7 @@ What I do know&mdash;
 **Fujimaru 2:**
 Where are we...?
  
-**Mash**
+**Mash:**
 I'm not sure. What I do know&mdash;
 
  
@@ -578,275 +578,275 @@ I'm not sure. What I do know&mdash;
 
 ---
  
-**Mash**
+**Mash:**
 I'm detecting a great deal of magical energy here. Besides you and me...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Yo. You guys wandered in here too?
 
  
-**Mash**
+**Mash:**
 Cú Chulainn!
 Does that mean...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Must be Scáthach's doing. We've finally been invited into the Land of Shadows. I apologize on behalf of my mentor, since I'm kind of involved here.
 
  
-**Mash**
+**Mash:**
 There's nothing for you to apologize for...
 Oh, so this is the Land of Shadows?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 No, it's slightly different than the place I once visited.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 It's not the Isle of Skye. It's like a remnant of the Land of Shadows when it was still connected to the real world, but it's different somehow.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 The part where the air is filled with frigid magical energy is about right, though.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...Which means, we were dragged into my mentor's memory, or something like that.
 
  
-**Mash**
+**Mash:**
 Memory?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I'm not sure if this was deliberate or not, though.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Either way, even if this is just a memory, the Land of Shadows isn't somewhere we should linger.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 If things go badly, we'll all be swallowed up and die, including Master. The world will end, and we'll all end up in the gutter.
 
  
-**Mash**
+**Mash:**
 No...!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Eh, don't worry. This is just carelessness on her part.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 It wouldn't have been an issue if it was just me, but I can't let the both of you get sucked into this.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Which means, we need to exterminate that nuisance of a woman. Let's go take her out!
 
  
-**Mash**
+**Mash:**
 There are dead spirits floating around everywhere...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 The real Land of Shadows was close to the realm of the dead. Don't let them see you. They won't be friendly.
 
  
-**Mash**
+**Mash:**
 O-okay.
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Mash**
+**Mash:**
 ...Fou, you're here too!?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Oh come on, don't shout!
 ...Oh crap.
 
  
-**Mash**
+**Mash:**
 ...They've noticed us.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...My bad.
 Well, we'll just call this more training...or something. Yeah.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Missy, don't let them take you down!
 
  
-**Mash**
+**Mash:**
 All right!
 Master, your orders!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Cú Chulainn**
+**Cú Chulainn:**
 Whew. You all right?
 
  
-**Mash**
+**Mash:**
 Yes. ...But why would Scáthach lure Master to the Land of Shadows?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Scáthach is pretty well beyond rational understanding or anything like that.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 From the looks of it, I don't think it's anything serious. She probably got a bit lonely.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 She's been stuck in this land for a few hundred years. There's nobody whom she could fight, let alone hate.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 A long time ago, ambitious fighters like me...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Came over to challenge the famed Scáthach to gain fame and glory, but she beat the crap out of every single one of us.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...Aaand then we all ended up as her disciples...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Well, none of us could live forever.
 So this situation might be partly our fault.
 
  
-**Mash**
+**Mash:**
 What do you mean?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Our mentor trained the crap out of us.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Every one of us loved women and booze more than anything. We were a bunch of barbarians.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Scáthach would kick us around for being so rowdy, but it must have been fun for her.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 “The spirits of the dead would miss no chance to infiltrate the real world, but your ruckus has managed to frighten them away.”
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 That's what Scáthach would always lament.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 But we all had a place to go home to.
 The Land of Shadows was just a stop on our journey.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 And so, Scáthach's disciples all died young.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...As for me, I turned up as a Heroic Spirit.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Come to think of it, I guess there was the option where we could have fought Scáthach in the Land of Shadows for eternity.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 But I chose not to. I think she may have resented me for that.
 
  
-**Mash**
+**Mash:**
 ...I don't think that's true.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Maybe. I was just rambling. Ignore me.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...Whoa, whoa. That's a sight. The castle gates are completely different than I remember.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 There weren't any knights in plate armor standing as gatekeeper, either. Hey Master, give us your orders!
 
  
-**Mash**
+**Mash:**
 Yes, please!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Cú Chulainn**
+**Cú Chulainn:**
 Got 'em!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 They're easy compared to the Dragonkin we faced last time. Missy, how're you doing?
 
  
-**Mash**
+**Mash:**
 I'm fine!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Okay, then.
 Hey Scáthach! We're coming in!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 We know you're hiding in there!
 Brace yourself, we're coming in!
 
  
-**Mash**
+**Mash:**
 ...There's no answer.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Well, we ARE in a memory...
 I'm not sure what's going on.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 And this might be late in the game, but in the Land of Shadows, the inside of the castle is far more dangerous than outside.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Mostly because fearless and clueless ghosts who want to challenge Scáthach are roaming around.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 We have to try to run. But, be prepared to fight.
 Okay, run!
 
  
-**Mash**
+**Mash:**
 Master, you run so magnificently!
 Fou, hold on tight!
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
@@ -865,212 +865,212 @@ A bunch of something are behind us!
 
 ---
  
-**Mash**
+**Mash:**
 There are three up ahead. We can't evade them.
 We're charging in, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 ...!
 
  
-**Mash**
+**Mash:**
 I've detected a strong magical energy reaction.
 And this sensation... Is this bloodlust?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 No. At least it's not her bloodlust.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Then what&mdash;
 
  
-**Scáthach**
+**Scáthach:**
 ...So it's you.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Hey, what the heck? Gathering all these spirits in one place, are you planning on forming an army or something?
 
  
-**Scáthach**
+**Scáthach:**
 That's not a bad idea. I wouldn't have to keep my air of being aloof and reckless.
 
  
-**Scáthach**
+**Scáthach:**
 Stand down. Lifeless one.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 What the hell? It's not really like you to respond to my heckling, Scáthach.
 
  
-**Scáthach**
+**Scáthach:**
 Is that so? Many months and years have passed while I presided over the gates of this demonic land. I've seen many lives and deaths here.
 
  
-**Scáthach**
+**Scáthach:**
 I thought... I might as well rot.
 
  
-**Scáthach**
+**Scáthach:**
 But this body never decayed. My soul was forever frozen, unchanged.
 
  
-**Scáthach**
+**Scáthach:**
 Yet, my soul was always too...decent...to allow me to plunge into the morass of true evil.
 
  
-**Scáthach**
+**Scáthach:**
 My desires faded, and my senses told only of silence and eternity.
 
  
-**Scáthach**
+**Scáthach:**
 ...And then...
 
  
-**Scáthach**
+**Scáthach:**
 Humanity was incinerated. And with its absence, I gained the chance to end my eternity of monotony...
 
  
-**Scáthach**
+**Scáthach:**
 ...the one in a million chance to finally be embraced by true death.
 
  
-**Scáthach**
+**Scáthach:**
 Yet, I still do not know where my soul goes after death.
 
  
-**Scáthach**
+**Scáthach:**
 Is it to the Throne of Heroes? To the incinerated Land of Shadows? Or&mdash;
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...
 
  
-**Scáthach**
+**Scáthach:**
 Either way, I...desire. Through this body of ether, I have flesh and bones. Even a heart.
 
  
-**Scáthach**
+**Scáthach:**
 And though it is temporary, I have “life” as a Servant.
 So, I find myself wanting to test it.
 
  
-**Scáthach**
+**Scáthach:**
 No matter how much I try to hold back, I cannot contain it.
 
  
-**Scáthach**
+**Scáthach:**
 As a result, I have involved Master and my foolish disciples in this debacle.
 
  
-**Scáthach**
+**Scáthach:**
 I apologize. Though, I know that may not be enough.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 What a roundabout way of doing things.
 ...Fine. Let's give Scáthach her last rites.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Missy, Master. You ready?
 Scáthach is serious now.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 It's a sight rarely seen! Prepare yourself!
 
  
-**Scáthach**
+**Scáthach:**
 Then I shall die. Or perhaps, I shall kill.
 
  
-**Scáthach**
+**Scáthach:**
 Let's do this. I will try not to hold back!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Scáthach**
+**Scáthach:**
 ...That is some fight you put up.
 You have grown, all of you.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 It's over, Scáthach.
 If you've lost your wits, snap out of it.
 
  
-**Scáthach**
+**Scáthach:**
 I'm still not dead. You all are still alive.
 
  
-**Scáthach**
+**Scáthach:**
 Why do you stop? This fight is not yet over.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 There's no point in this, Scáthy-teach.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Killing you in a memory wouldn't make it real. That's just death within a fantasy. It'll only leave a bitter aftertaste.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 If you're going to die, do it in the real world.
 It should be an honorable death in battle, too, right?
 
  
-**Scáthach**
+**Scáthach:**
 ...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Besides, why would you say you would TRY not to hold back!? That's not going all-out at all!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 If you really went all-out, you'd bring out a gate or two, not just your spear.
 
  
-**Mash**
+**Mash:**
 A gate...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 “Gate of Skye.” Have you seen it? It's a move where her enemies are dragged down into the Land of Shadows.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 At the bottom of the Land of Shadows, they're as good as dead. All living things simply perish.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 But then you don't even use it! If that's not holding back, what is, Scáthach!?
 
  
-**Scáthach**
+**Scáthach:**
 H-hmmmmm...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Looks like I got you there.
 That's a once in a lifetime sight.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...Is it because you're summoned as a Servant now? You're showing off a human side of yourself.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 But I guess that's partly due to Master's influence.
 After all, Master's the most human of all humans I know.
 
@@ -1090,27 +1090,27 @@ Is that a thing? That doesn't sound like a thing.
 
 ---
  
-**Cú Chulainn**
+**Cú Chulainn:**
 It means you always try your best, as much as you're able. And anything you can't do, you still try to find a way.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 You borrow wisdom from those came before you, and dream of a future. No matter how dire the situation, and fight as humanly as possible.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 At times you may be discouraged. You may look back to the past. But stopping and looking back is only for a moment.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Right? Does that ring a bell?
 
  
-**Scáthach**
+**Scáthach:**
 ...I suppose you have me there. I must have been affected by Master without realizing it.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 If not, you wouldn't be so feeble.
 
  
@@ -1129,114 +1129,114 @@ Scáthach...feeble?
 
 ---
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I guess it's her way of life. Her desires aside, it's not like Scáthach to look back.
 
  
-**Mash**
+**Mash:**
 I think...I understand that logic.
 
  
-**Mash**
+**Mash:**
 Not only were her mannerisms different from the normal Scáthach, but her way of fighting...and everything else.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Oh, Missy is starting to understand the way of the Celts. So there you have it.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Scáthach. For you to desire death is just your way of trying to escape. And that isn't you at all.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Isn't it more like you to dream of a swift yet beautiful death as the reward of a glorious battle?
 
  
-**Scáthach**
+**Scáthach:**
 ...
 
  
-**Scáthach**
+**Scáthach:**
 You really didn't hold back there, Cú Chulainn.
 But you're right.
 
  
-**Scáthach**
+**Scáthach:**
 For me to renounce everything and seek death at a time like this is nothing more than running from the truth.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Sheesh. Took you long enough.
 
  
-**Scáthach**
+**Scáthach:**
 My apologies. And forget it.
 
  
-**Scáthach**
+**Scáthach:**
 ...(Sigh) I cannot believe it...
 
  
-**Scáthach**
+**Scáthach:**
 To allow you, of all people, to see my doubts.
 As a mentor, there is no greater disgrace.
 
  
-**Scáthach**
+**Scáthach:**
 Hrm. In order to offset this disgrace, I may need you to die three times.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Now you're just taking it out on us!
 
  
-**Scáthach**
+**Scáthach:**
 Idiot. It's to clear my name. But since I wasn't falsely accused of anything, I simply need to overwrite my disgrace by doing something even more heinous.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Terrible. She really hasn't changed.
 But then again&mdash;
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Thanks to Master, I got to see a more human side of her. Let's just say that I had a valuable experience.
 
  
-**Scáthach**
+**Scáthach:**
 &mdash;Hmph. You've grown bold, Child of Light.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I've had my fair share of turmoil.
 
  
-**Scáthach**
+**Scáthach:**
 I see. Then you may be the one who will eventually stand before me in battle.
 
  
-**Scáthach**
+**Scáthach:**
 Farewell, Cú Chulainn. It seems it'll be a while before your Gáe Bolg becomes the instrument of my grand end.
 
  
-**Mash**
+**Mash:**
 ...Oh look. The dead spirits have disappeared.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Sheesh. She left me with a hell of a demand.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 In order to end that woman's life, one would need the skills capable of killing even the gods.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Well anyway, why don't we go ahead and wake up, Master?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Scáthach and my desires aside, you've got a more crucial task up ahead of you.
 
 

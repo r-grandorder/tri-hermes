@@ -2,7 +2,7 @@
 
 <h2>This Hand, For You</h2>
 
-**Asterios**
+**Asterios:**
 Um. Master.
 Hello.
 
@@ -23,12 +23,12 @@ Good morning...
 
 ---
  
-**Asterios**
+**Asterios:**
 I am glad.
 Mash, Master, awake.
 
  
-**Mash**
+**Mash:**
 Oh Master, are you all right?
 
  
@@ -42,54 +42,54 @@ What happened?
 
 ---
  
-**Mash**
+**Mash:**
 I'm not sure, but it seems we are lost inside this labyrinth.
 
  
-**Mash**
+**Mash:**
 Communication with the Doctor has been cut off as well.
 
  
-**Fou**
+**Fou:**
 Fou.
 
  
-**Mash**
+**Mash:**
 Fortunately, Asterios and Fou are with us.
 
  
-**Asterios**
+**Asterios:**
 Fou...this...cookie...want...to...eat?
 
  
-**Fou**
+**Fou:**
 Munch, munch.
 
  
-**Asterios**
+**Asterios:**
 Good boy.
 Good boy.
 
  
-**Mash**
+**Mash:**
 It appears unless we get out of this labyrinth,
 we won't be able to contact anyone.
 
  
-**Asterios**
+**Asterios:**
 I will...go...ahead.
 Everyone...get out...of here.
 
  
-**Mash**
+**Mash:**
 Yes, let's go!
 
  
-**Mash**
+**Mash:**
 It certainly is dark...
 
  
-**Asterios**
+**Asterios:**
 Master...
 
  
@@ -103,56 +103,56 @@ Yes?
 
 ---
  
-**Asterios**
+**Asterios:**
 Sorry.
 It was...nothing.
 
  
-**Asterios**
+**Asterios:**
 ...Wait.
 I smell...something...strange.
 
  
-**Mash**
+**Mash:**
 ...I can faintly smell...
 
  
-**Asterios**
+**Asterios:**
 The smell...of blood.
 
  
-**Asterios**
+**Asterios:**
 ...Master, stand back.
 I...Asterios...will defeat them!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Asterios**
+**Asterios:**
 Whew.
 Is everyone...all right?
 
  
-**Mash**
+**Mash:**
 Both Fou and Master are just fine.
 How are you, Asterios?
 
  
-**Asterios**
+**Asterios:**
 No problem.
 Continue.
 
  
-**Mash**
+**Mash:**
 It sure is far.
 It seems like this place goes on forever...
 
  
-**Fou**
+**Fou:**
 Fou...
 
  
-**Asterios**
+**Asterios:**
 Master, are you ok?
 
  
@@ -172,69 +172,69 @@ I'll be all right.
 
 ---
  
-**Asterios**
+**Asterios:**
 Are you sure?
 Don't...push yourself.
 
  
-**Mash**
+**Mash:**
 He's right. Please don't force yourself.
 For now, let's just walk a bit longer.
 
  
-**Asterios**
+**Asterios:**
 ...Hmm.
 I knew it...
 
  
-**Mash**
+**Mash:**
 What's the matter?
 
  
-**Asterios**
+**Asterios:**
 Here...turn left.
 
  
-**Mash**
+**Mash:**
 Do you know the way?
 
  
-**Asterios**
+**Asterios:**
 Yes. Used to it. This...labyrinth...
 I...grew up...here.
 
  
-**Mash**
+**Mash:**
 In the Labyrinth?
 I-I thought this place looked familiar...
 
  
-**Asterios**
+**Asterios:**
 So...I know...the exit.
 But...
 
  
-**Mash**
+**Mash:**
 But what?
 
  
-**Asterios**
+**Asterios:**
 ...We cannot avoid...being attacked.
 
  
-**Mash**
+**Mash:**
 There are more enemies.
 Master, orders please.
 
  
-**Asterios**
+**Asterios:**
 Lead us...Master.
 I will...fight!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Asterios**
+**Asterios:**
 Master...tired?
 
  
@@ -254,12 +254,12 @@ Yes.
 
 ---
  
-**Asterios**
+**Asterios:**
 Master...if all right...
 I know...it's not.
 
  
-**Asterios**
+**Asterios:**
 But...hold my hand?
 
  
@@ -279,33 +279,33 @@ Would it be ok with you?
 
 ---
  
-**Asterios**
+**Asterios:**
 You don't mind...I don't mind.
 Yes. This...is good.
 
  
-**Mash**
+**Mash:**
 Is everything all right, Asterios?
 
  
-**Asterios**
+**Asterios:**
 Why?
 
  
-**Mash**
+**Mash:**
 Well, it's just that, instead of going up we are going deeper and deeper.
 
  
-**Asterios**
+**Asterios:**
 Yes.
 That is...correct.
 
  
-**Mash**
+**Mash:**
 I see...
 
  
-**Asterios**
+**Asterios:**
 ...Excuse me...Master.
 Master...afraid...of me?
 
@@ -326,105 +326,105 @@ What's there to be afraid of?
 
 ---
  
-**Asterios**
+**Asterios:**
 ...If not afraid...then it's fine.
 I am...glad.
 
  
-**Asterios**
+**Asterios:**
 That...voice...
 
  
-**Mash**
+**Mash:**
 Asterios?
 
  
-**Child**
+**Child:**
 Stop, I am scared...
 Please stop!
 
  
-**Child**
+**Child:**
 Help...me...
 
  
-**???**
+**???:**
 ...Heeheeheeheehee!
 Tasty, tasty, tasty.
 
  
-**Mash**
+**Mash:**
 ...Ugh!
 
  
-**Asterios**
+**Asterios:**
 Are...you...
 Are you... Me?
 
  
-**Asterios(?)**
+**Asterios(?):**
 Yes, I am.
 Do I look like anything, else?
 
  
-**Asterios**
+**Asterios:**
 ...Stop that.
 
  
-**Asterios(?)**
+**Asterios(?):**
 But this is what you did.
 
  
-**Asterios**
+**Asterios:**
 ...I did...this.
 That's why...I am...ending this.
 
  
-**Asterios(?)**
+**Asterios(?):**
 Hee, hee, hee.
 What are you talking about.
 
  
-**Asterios(?)**
+**Asterios(?):**
 You know, this is what you wished!
 You wanted to eat, so you ate!
 
  
-**Asterios(?)**
+**Asterios(?):**
 I am a Minotaur!
 I am nothing else than that!
 
  
-**Asterios**
+**Asterios:**
 &ndash;I am...Asterios!
 
  
-**Asterios**
+**Asterios:**
 As long as...there are people...calling my name.
 I will...continue to...reject you!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Asterios(?)**
+**Asterios(?):**
 Y. O. U...
 You think you can reject "yourself?"
 
  
-**Asterios(?)**
+**Asterios(?):**
 You know, it's worse than death.
 
  
-**Asterios**
+**Asterios:**
 I must... I must...reject myself. I reject everything about me... I throw away everything about me.
 
  
-**Asterios**
+**Asterios:**
 &ndash;That is...my...punishment.
 &ndash;That is...my...atonement.
 
  
-**Asterios**
+**Asterios:**
 Master... Let's go...
 The exit...is not far.
 
@@ -439,7 +439,7 @@ May I hold your hand?
 
 ---
  
-**Asterios**
+**Asterios:**
 ...Yes. Let us go.
 
  

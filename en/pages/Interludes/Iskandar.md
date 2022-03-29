@@ -2,45 +2,45 @@
 
 <h2>Conqueror of Life</h2>
 
-**Iskandar**
+**Iskandar:**
 Hrm... What is this wasteland?
 
  
-**Iskandar**
+**Iskandar:**
 I came along excited about the prospect of a new battle, but this place is cold and bare.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Really? I thought the great King of Conquerors who trampled the Persian desert would find this place nostalgic.
 
  
-**Iskandar**
+**Iskandar:**
 Fool. The glorious battlefields of my memories were blazing gold at day and like tranquil moonlight at night. A sea of sand so mystical, it roused the heart.
 
  
-**Iskandar**
+**Iskandar:**
 It's nothing like this empty bore of a ruin.
 It's vastly different in epicness and scale.
 
  
-**Mash**
+**Mash:**
 Wouldn't you say an empty plain like this is rather convenient for battle, since you don't need to worry about harming innocent bystanders?
 
  
-**Iskandar**
+**Iskandar:**
 Convenient!? If it's not a fruitful land that gets the heart pumping, how do you know what you're fighting for!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 What you're fighting for, huh.
 Then, may I ask, why do you fight?
 
  
-**Iskandar**
+**Iskandar:**
 It's obvious! To conquer! To reach the undiscovered land and claim it as my own!
 
  
-**Mash**
+**Mash:**
 ...I see. I expect nothing less from you, Senpai. You have summoned yet another troublesome Heroic Spirit.
 
  
@@ -50,16 +50,16 @@ It's obvious! To conquer! To reach the undiscovered land and claim it as my own!
 **Fujimaru 1:**
 Yeah, what a headache.
  
-**Mash**
+**Mash:**
 ...I feel that's putting it lightly...
 He's almost a supervillain...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Now, now. There's no need to be so pessimistic.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 In order to have a harmonious relationship with Servants, a positive outlook on things is most important, Mash.
 
  
@@ -69,19 +69,19 @@ In order to have a harmonious relationship with Servants, a positive outlook on 
 **Fujimaru 2:**
 Actually, this is fine.
  
-**Dr. Roman**
+**Dr. Roman:**
 Are you saying that you have no problem controlling Servants, no matter how extraordinary of a Heroic Spirit they are?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Perhaps that's just your positive thinking talking? ...To be honest, I'm a little concerned about your optimism...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 No. In a situation as desperate as this, confidence and optimism are our ultimate weapons.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Fujimaru has proven yet again [♂ his /♀️ her} high suitability as a Master.
 
  
@@ -89,64 +89,64 @@ Fujimaru has proven yet again [♂ his /♀️ her} high suitability as a Master
 
 ---
  
-**Fou**
+**Fou:**
 Fou??? (Suspiciously)
 
  
-**Dr. Roman**
+**Dr. Roman:**
 King of Conquerors. You seem unimpressed with the world you've been summoned to, but why not think of it this way?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The crisis of destruction we are facing right now has the potential to make every land of this world into barren wastelands.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Which means the enthralling land that you seek to conquer will no longer be if nothing is done.
 
  
-**Iskandar**
+**Iskandar:**
 Oh-ho? That is a grave concern. This is no battle.
 It's simply a disaster.
 
  
-**Mash**
+**Mash:**
 You are not wrong to think so. To be honest, we do not fully understand the enemy ourselves.
 
  
-**Iskandar**
+**Iskandar:**
 No matter what it may be, as long as it has a physical body that bleeds when I cut it, I'll have no problem fighting.
 
  
-**Iskandar**
+**Iskandar:**
 Basically, you just want me to slaughter those ghastly creatures coming right at us, yeah?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...Say what!? Oh crap!
 Look out, you're surrounded!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Iskandar**
+**Iskandar:**
 ...Hm. Now that I've fought against some, I understand. This is no battle. This is some kind of cataclysm.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Meaning?
 
  
-**Iskandar**
+**Iskandar:**
 There's no passion in the enemy's fist. No emotion nor warm blood coursing through them. They are like locusts or portents of disaster. They are no warriors.
 
  
-**Mash**
+**Mash:**
 ...Um, so you're saying,
 they're like ghosts?
 
  
-**Iskandar**
+**Iskandar:**
 Hm. I cannot simply let such creatures roam free.
 
  
@@ -165,95 +165,95 @@ You'll regret it if you ignore them.
 
 ---
  
-**Iskandar**
+**Iskandar:**
 Indeed. With another conquest up ahead, it seems we need to settle this matter first.
 
  
-**Iskandar**
+**Iskandar:**
 This is a bizarre turn of events, but as you've summoned me, I shall offer you my sword, Master.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Ah yes! Now this is what Servant cooperation is all about! See how negotiation can make anything possible, Mash?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 To be honest, I was on guard when I heard the King of Macedonia was here, but he's quite the man! He's so heroic, but not too rough!
 
  
-**Mash**
+**Mash:**
 I wouldn't call it negotiation...
 I feel like the fight convinced him.
 
  
-**Iskandar**
+**Iskandar:**
 Now that's settled, we need to prepare!
 
  
-**Iskandar**
+**Iskandar:**
 Military strategies change with the time and place.
 I must learn more about this era!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Ah! That's quite convincing coming from the great hero who sought world domination!
 
  
-**Iskandar**
+**Iskandar:**
 Being summoned as a Servant granted me knowledge of your era, but it does not feel real yet.
 
  
-**Iskandar**
+**Iskandar:**
 Yes, I need...personal experience...
 
  
-**Mash**
+**Mash:**
 And what kind of preparations do you have in mind?
 
  
-**Iskandar**
+**Iskandar:**
 First and foremost, information from literature.
 And a map.
 
  
-**Mash**
+**Mash:**
 ...I'm a little surprised that you'd be so meticulous in forming military strategies.
 
  
-**Iskandar**
+**Iskandar:**
 Obviously. A guide is necessary when exploring foreign lands. Maybe not an interpreter, but I do want literature to help steer our way.
 
  
-**Iskandar**
+**Iskandar:**
 Prepare something that lists must-see sights, local foods, and what times are the busy times. Make sure they don't skimp on the details.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...Huh?
 
  
-**Iskandar**
+**Iskandar:**
 And...clothing. We wouldn't be fully immersing ourselves in local fare if it's just food and lodging.
 
  
-**Iskandar**
+**Iskandar:**
 Attire unique to that country! Just a wardrobe change changes your entire perspective!
 
  
-**Iskandar**
+**Iskandar:**
 My retainers all hated to do it.
 But it really is amusing.
 
  
-**Mash**
+**Mash:**
 ...Look at that smile. It's like saying, “I can get anything I want.” A royal ego like that reminds me of Gil... I mean, a different king that we know.
 
  
-**Mash**
+**Mash:**
 But when King Iskandar says it, I think I understand why his retainers would give in.
 
  
-**Mash**
+**Mash:**
 So, this is the king who thought to slice through the Gordian Knot. Only Senpai could summon a Servant like this!
 
  
@@ -272,23 +272,23 @@ Maybe that's true!
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 Well, um...yeah. I guess it wouldn't kill us to have a, uh, couple people around with one or two screws loose.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 On that same note, maybe it wouldn't be so strange to have a king who mixes up tourism with conquest.
 
  
-**Fou**
+**Fou:**
 Foooou?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 My point is, no matter what this Heroic Spirit's interpretation of the situation is...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 As long as we can count on him in battle, I don't see any issue... I guess?
 
  
@@ -298,11 +298,11 @@ As long as we can count on him in battle, I don't see any issue... I guess?
 **Fujimaru 1:**
 That may be true...
  
-**Iskandar**
+**Iskandar:**
 Hahaha! That's the spirit!
 
  
-**Iskandar**
+**Iskandar:**
 As my contractor, that's the attitude you need!
 
  
@@ -312,11 +312,11 @@ As my contractor, that's the attitude you need!
 **Fujimaru 2:**
 That's not necessarily true...
  
-**Iskandar**
+**Iskandar:**
 Hahahaha! There's nothing to fear! Life itself is a battle. Those who enjoy it will be victorious!
 
  
-**Iskandar**
+**Iskandar:**
 No matter your predicament, first eat your fill! Sing! Rest! Then you can worry about it after!
 
  
@@ -324,21 +324,21 @@ No matter your predicament, first eat your fill! Sing! Rest! Then you can worry 
 
 ---
  
-**Fou**
+**Fou:**
 Foooou... (Dumbfounded)
 
 
 <h2>The Unending Expedition</h2>
 
-**Mash**
+**Mash:**
 Let me reiterate! We need to retreat immediately! There's nothing we can gain from this battle!
 
  
-**Iskandar**
+**Iskandar:**
 Wahahaha! You may be right, Shield Maiden, but our escape route is now closed off! We just need to bite the bullet.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...Unfortunately, he's right, Mash. Now that you've started the battle, you'll need to fight to get through.
 
  
@@ -357,19 +357,19 @@ We could've escaped if you kept quiet...
 
 ---
  
-**Iskandar**
+**Iskandar:**
 Come now, don't say that!
 
  
-**Iskandar**
+**Iskandar:**
 The winds that blow in this land reminded me of Persia. It brought back the days of my passionate young blood!
 
  
-**Iskandar**
+**Iskandar:**
 And just when I felt like wreaking havoc here again, this lot showed up in need of a real thrashing!
 
  
-**Mash**
+**Mash:**
 What a meatheaded thought process...
 Senpai, be careful you don't get carried away, too!
 
@@ -380,16 +380,16 @@ Senpai, be careful you don't get carried away, too!
 **Fujimaru 1:**
 Mash, don't get distracted.
  
-**Iskandar**
+**Iskandar:**
 Wahahaha! That's my Master there! You really do have keen insight into the workings of battle!
 
  
-**Mash**
+**Mash:**
 Senpai, where were you from again?
 Did you work in a super exploitative company before coming to Chaldea?
 
  
-**Mash**
+**Mash:**
 What I'm saying is that you seem very adept at navigating a conflict and unreasonable demands!
 
  
@@ -399,19 +399,19 @@ What I'm saying is that you seem very adept at navigating a conflict and unreaso
 **Fujimaru 2:**
 I hate my life!
  
-**Iskandar**
+**Iskandar:**
 Wahaha! Don't say that. Come, even my Bucephalus is excited by the prospect of battle!
 
  
-**Fou**
+**Fou:**
 Foooou!
 
  
-**Iskandar**
+**Iskandar:**
 Even that little squirrel over there is excited!
 
  
-**Mash**
+**Mash:**
 Fou!?
 
  
@@ -419,44 +419,44 @@ Fou!?
 
 ---
  
-**Iskandar**
+**Iskandar:**
 Besides, this battle may have begun as just a fun romp, but that may not be the case now.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 What do you mean?
 
  
-**Iskandar**
+**Iskandar:**
 When I arrived in this land for an expedition, King Darius' troops were not the only ones who blocked our path.
 
  
-**Iskandar**
+**Iskandar:**
 They were like the evil spirits that we are fighting right now. They were relentless in ambushing us.
 
  
-**Iskandar**
+**Iskandar:**
 And along with those old memories...
 My men say their blood is stirring.
 
  
-**Mash**
+**Mash:**
 Huh?
 
  
-**Iskandar**
+**Iskandar:**
 They want to fight! Like back in the day... So fiercely, so courageously! Wagering their short lives for a chance at glory!
 
  
-**Iskandar**
+**Iskandar:**
 Men who had gathered to join in my path to conquer across the sea of sand! That is what they desire!
 
  
-**Iskandar**
+**Iskandar:**
 So, as king, I must answer their call!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 What's with this sudden&mdash;!?
 
  
@@ -470,82 +470,82 @@ What's with this sudden&mdash;!?
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 A Reality Marble! But this is strange. How could the King of Conquerors as a Rider manage such powerful magecraft?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 No, wait a minute! I detect numerous Servant signatures nearby!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 This... What is going on!?
 I'm detecting more than 10,000!
 
  
-**Iskandar**
+**Iskandar:**
 Ah, look at your faces! Even I am excited. I'm trembling!
 
  
-**Iskandar**
+**Iskandar:**
 Now, raise your voices for battle!
 
  
-**Iskandar**
+**Iskandar:**
 The time of wonderment is here, Fujimaru, Shield Maiden! This is truly my kingship! My bond! My ultimate Noble Phantasm!
 
  
-**Iskandar**
+**Iskandar:**
 Run them down! Ionioi Hetairoi!!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 Amazing... Was that your Noble Phantasm?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The successive Servant summoning was a surprise! How many Servants were there!? Who knew they'd all be Heroic Spirits!?
 
  
-**Iskandar**
+**Iskandar:**
 Yes, indeed. They all went wild to their hearts' content. As usual, my men are unbelievable.
 
  
-**Iskandar**
+**Iskandar:**
 Fujimaru, and Shield Maiden as well. To see you unmoved by the mass of strong enemies was admirable.
 
  
-**Iskandar**
+**Iskandar:**
 My men were also in awe of your recklessness.
 
  
-**Mash**
+**Mash:**
 ...Th-thank you.
 
  
-**Iskandar**
+**Iskandar:**
 If there ever is another opportunity to wade into battle together, they would be more than happy to, is what they are saying.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Um...I don't quite understand what's going on, but can we assume you will help us out again?
 
  
-**Iskandar**
+**Iskandar:**
 Indeed. Not only do you have my support, but my men have all agreed as well.
 
  
-**Iskandar**
+**Iskandar:**
 Therefore, I declare here and now:
 
  
-**Iskandar**
+**Iskandar:**
 Under the banner of the King of Conquerors Iskandar, we of the Eastern Expedition Mixed Army shall participate in the Grand Order.
 
  
-**Iskandar**
+**Iskandar:**
 My Master! Command my Noble Phantasm,
 “Ionioi Hetairoi,” well!
 

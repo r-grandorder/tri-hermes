@@ -2,358 +2,358 @@
 
 <h2>Tick Tock, Bang!</h2>
 
-**Mephistopheles**
+**Mephistopheles:**
 &ndash;Now then, now then.
 I have a hypothesis for you, my Master.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 I know this is sudden.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 But this world is ruled by an oppressor.
 Yes, a bad person. A very bad person!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 And so I've taken it upon myself to fix this.
 By blowing things up!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 And I want your help, you see.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Stalk the streets of London at night with me,
 and we'll set bombs!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Huge, amazing explosions! Dreadnought-class disaster!
 Come, let us travel to London!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Oh, Mash? Would you like to come with us?
 You're more than welcome.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 If you can? If you've nothing better to do?
 If you want to spoil the fun?
 
  
-**Mash**
+**Mash:**
 I'll go with you no matter what, Master.
 Being alone with him seems like suicide.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Hehe, hehehehehe! Yes, of course!
 You must be ready for anything!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 And off we go, everyone!
 
  
-**Mash**
+**Mash:**
 ...He dragged us off so quickly I didn't have time to object.
 
  
-**Mash**
+**Mash:**
 I guess we've got no choice. I can't contact the Doctor, so we'll just have to follow him.
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Here we go! Here we go! Here we go!
 We start with golems, it seems!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 This must be a test of our abilities.
 Come, Master.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Let's tear them apart!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mephistopheles**
+**Mephistopheles:**
 Heheh, too easy! Too easy!
 Weaker than the weakest of insects.
 
  
-**Mash**
+**Mash:**
 Golems... So our opponent is a mage, is that right, Mephistopheles?
 
  
-**Mephistopheles**
+**Mephistopheles:**
 ...Indeed!
 Well, basically.
 
  
-**Mash**
+**Mash:**
 ...Basically...?
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Now, now, don't worry about it! Let's go!
 Let's fight!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Now we have to set up the bombs.
 Beep, beep, beep!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Begin&ndash;the countdown!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 And look, more enemies!
 Oh, how boring, just so boring.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Ye who possess no Command Spells, no arrogance, no pride, and no greed. My past Master!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 As your Servant, I shall finish you off without any hesitation!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mephistopheles**
+**Mephistopheles:**
 And now, time for our next bomb.
 Let's go, Master.
 
  
-**Mash**
+**Mash:**
 ...Um, Master.
 Something...seems strange...
 
  
-**Mash**
+**Mash:**
 No, sorry.
 Either way, it's clear that the enemy is trying to kill us.
 
  
-**Mash**
+**Mash:**
 For now, let's cooperate with Mephistopheles.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Hehehehehe.
 The next bomb goes here.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 And look, the enemy arrives!
 Just what you'd expect, right?
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Another homunculus?
 That Alchemist never changes, does he?
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Master, let us kill them!
 For justice! Hyahahaha!
 
  
-**Mash**
+**Mash:**
 Alchemist?
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mephistopheles**
+**Mephistopheles:**
 Two more bomb sites left to go. This right arm here is incredibly important to him, isn't it?
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Now, then, shall I finish him off?
 Setting the bomb!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 And now here comes the enemy!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 ...Whew!
 Mephistopheles, this is the last one, right?
 
  
-**Mash**
+**Mash:**
 ...You can tell us now.
 The enemy was your former Master&ndash;
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Indeed! Indeed!
 Dr. Georg Faust!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 He forged me, he raised me, he feared me!
 And these bombs are a present for him.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 So he can live and die with a smile on his face.
 Now, time for the last battle!
 
  
-**???**
+**???:**
 &ndash;So you're here, Mephistopheles.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Of course I am, Faust!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Oh, oh! What a pathetic joke you are!
 How comical and beautiful!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 You're so ugly now I can't bear it!
 
  
-**Faust**
+**Faust:**
 Shut up, you failure of a project.
 It was foolish of me to grant you self-awareness.
 
  
-**Faust**
+**Faust:**
 And now you've even betrayed your master&ndash;!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 How could I not, when you're so boring?
 
  
-**Faust**
+**Faust:**
 You bastard...
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Yes, it's because you're boring!
 You were such an ordinary mage!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 You sacrificed others as if it was ordinary and yet reaped no results at all!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 You pretended to chase distant, unseen dreams and yet wasted your time on your ordinary life!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 How boring!
 What a boring mage you are!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 So why should I be blamed for taking a boring, average mage and making him famous throughout history?
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Poor little Mephistopheles just doesn't understand.
 
  
-**Faust**
+**Faust:**
 You... I'll kill you!
 I'll kill you, Mephistopheles!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Come on and try it.
 Now, my entertaining Master!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 This is the last battle!
 Shove that bomb up his butt!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Faust**
+**Faust:**
 Gahh... Aggh!
 ...You...traitor!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Oh no no. I granted your wish to never be forgotten, did I not?
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Without me, would Goethe ever have written Faust?
 
  
-**Mephistopheles**
+**Mephistopheles:**
 And without Faust, no one would have ever heard of you!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Hehehehehe! If you want someone to blame, blame Goethe! ..Bwah, ahahahahahaha!
 
  
-**Faust**
+**Faust:**
 Damn you! Damn you! My curse upon you!
 My curse upon you, Mephistopheles!
 
  
-**Mephistopheles**
+**Mephistopheles:**
 You're such a fool. A curse?
 Curses are like power-ups for me.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 Now then. The bomb is set.
 And it's time to flip the switch.
 
  
-**Mephistopheles**
+**Mephistopheles:**
 &ndash;My thanks for playing along with that entertainment.
 Master, as long as you entertain me&ndash;
 
  
-**Mephistopheles**
+**Mephistopheles:**
 I will never betray you.
 Probably... Ahahahaha!
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
  
-**Fou**
+**Fou:**
 Fou!?
 
  
-**Mash**
+**Mash:**
 Good morning, Master. What's wrong?
 You're soaked with sweat.
 
  
-**Mash**
+**Mash:**
 Did you have a bad dream?
 
  
@@ -373,12 +373,12 @@ It's nothing.
 
 ---
  
-**Mash**
+**Mash:**
 ...?
 What do you think happened, Fou?
 
  
-**Fou**
+**Fou:**
 Fou...?
 
 

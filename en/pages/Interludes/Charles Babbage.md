@@ -2,11 +2,11 @@
 
 <h2>Iron Mobile Report C. Babbage</h2>
 
-**Babbage**
+**Babbage:**
 &mdash;
 
  
-**Babbage**
+**Babbage:**
 &mdash;It's calling.
 
  
@@ -16,7 +16,7 @@
 **Fujimaru 1:**
 What's calling?
  
-**Babbage**
+**Babbage:**
 You should be able to hear it as well.
 Open those ears of yours.
 
@@ -27,7 +27,7 @@ Open those ears of yours.
 **Fujimaru 2:**
 You hear a voice calling for help?
  
-**Babbage**
+**Babbage:**
 Indeed.
 
  
@@ -35,26 +35,26 @@ Indeed.
 
 ---
  
-**Babbage**
+**Babbage:**
 It is impossible to deceive my auditory sensors.
 For I have a great, lofty mission.
 
  
-**Babbage**
+**Babbage:**
 &ndash;To save the world.
 
  
-**Babbage**
+**Babbage:**
 As long as my engine continues to operate,
 evil is incapable of existing in this world.
 
  
-**Babbage**
+**Babbage:**
 Thus, let us be off,
 you who were chosen to awaken me.
 
  
-**Babbage**
+**Babbage:**
 O Brave Heroes of Steam!
 
  
@@ -68,61 +68,61 @@ Let's go, Babbage!
 
 ---
  
-**Babbage**
+**Babbage:**
 &ndash;Affirmative!
 
  
-**Babbage**
+**Babbage:**
 Steam pressure, maximum!
 Difference Engine, full power!
 
  
-**Babbage**
+**Babbage:**
 Condensed Steam Propulsion Device, activate!
 Our mission is to save the princess in distress!
 
  
-**Babbage**
+**Babbage:**
 &ndash;Lift off!
 
  
-**Mash**
+**Mash:**
 Gyahhh!
 
  
-**???**
+**???:**
 Gah, hah, hah! I've got you now, Princess Mash!
 Stop your struggling and give up.
 
  
-**Mash**
+**Mash:**
 Someone... Someone, help me!
 These demons are going to destroy my country!
 
  
-**Babbage**
+**Babbage:**
 <span style=font-size:25px>&ndash;HAH!</span>
 
  
-**Babbage**
+**Babbage:**
 Charles Babbage has arrived! Stop right there,
 you fiends who threaten a sweet princess!
 
  
-**Mash**
+**Mash:**
 The King of Steam, and Fujimaru!
 You came to save me!
 
  
-**Babbage**
+**Babbage:**
 Indeed!
 
  
-**???**
+**???:**
 Hmph... If it isn't the pesky mechanical giant and the hero Fujimaru! How dare you get in our way!
 
  
-**???**
+**???:**
 Today will surely be your last!
 Come out, my army of evil golems!
 
@@ -143,63 +143,63 @@ Let's destroy them!
 
 ---
  
-**Babbage**
+**Babbage:**
 &ndash;Now is the time! Charles Babbage, Combat Mode!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**???**
+**???:**
 I-impossible... How could my invincible evil golem army lose to a single mechanical giant!?
 
  
-**???**
+**???:**
 Damn you!
 Who are you!
 
  
-**Babbage**
+**Babbage:**
 I am the King of Steam!!
 
  
-**Babbage**
+**Babbage:**
 Unable to grasp the future I envisioned,
 I am the king of an ephemeral world of fantasy!
 
  
-**Babbage**
+**Babbage:**
 Bravery, power, and glory evade me.
 But since this body is mere fantasy&ndash;
 
  
-**Babbage**
+**Babbage:**
 Witness my inexhaustible, unlimited,
 and matchless Noble Phantasm!
 
  
-**Babbage**
+**Babbage:**
 &mdash;!
 
  
-**Mash**
+**Mash:**
 King of Steam!
 You'll protect us tonight as well, won't you?
 
  
-**Babbage**
+**Babbage:**
 Indeed!
 
  
-**???**
+**???:**
 Damn you! Damn you! Damn you! In that case,
 witness my secret weapon&ndash; TRANSFORM!
 
  
-**???**
+**???:**
 <span style=font-size:25px>GAAAAAAAAAAA!!</span>
 
  
-**Mash**
+**Mash:**
 Gyaahhhhhhhhhh!
 
  
@@ -219,26 +219,26 @@ We have to fight!
 
 ---
  
-**Babbage**
+**Babbage:**
 ...Even if I must stand against a Phantasmal dragon king,
 I shall protect the princess and this world.
 
  
-**Babbage**
+**Babbage:**
 It's time to show the true power of my Noble Phantasm.
 Behold!
 
  
-**Babbage**
+**Babbage:**
 Dimension of Steam&ndash; The edge of my future vision,
 where evil perishes and humans flourish!
 
  
-**Babbage**
+**Babbage:**
 &mdash;Unlocking all functions!
 
  
-**Babbage**
+**Babbage:**
 All weapons live!
 Steam Ether Reactor, full power!
 
@@ -253,11 +253,11 @@ Time to fight, King of Steam!
 
 ---
  
-**Babbage**
+**Babbage:**
 &mdash;Understood!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
 
 ---
@@ -269,12 +269,12 @@ Time to fight, King of Steam!
 
 ---
  
-**Mash**
+**Mash:**
 I... Umm...
 Was a princess?
 
  
-**Mash**
+**Mash:**
 Is that right?
 
  
@@ -294,12 +294,12 @@ You were a princess.
 
 ---
  
-**Mash**
+**Mash:**
 So, in other words...
 Umm, what does that mean exactly&ndash;
 
  
-**Mash**
+**Mash:**
 U-Umm, I mean, uhh...
 Was it a fun dream...for you?
 
@@ -320,27 +320,27 @@ Everything about it was amazing!
 
 ---
  
-**Mash**
+**Mash:**
 I see.
 I'm glad.
 
  
-**Mash**
+**Mash:**
 I'm happy if you had fun.
 It seems like you got a good night's sleep.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Good morning... Huh?
 Mash, you seem to be very pleased about something.
 
  
-**Mash**
+**Mash:**
 Nope, it's nothing.
 Good morning, Doctor.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Huh?
 
 

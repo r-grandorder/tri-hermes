@@ -2,61 +2,61 @@
 
 <h2>Fionn mac Cumhaill, The Hero who Defeated the Gods</h2>
 
-**Fionn**
+**Fionn:**
 What&ndash;
 I'm not so special a man.
 
  
-**Fionn**
+**Fionn:**
 Indeed, I'm a man that would be categorized as a great hero. But that's just the end result.
 
  
-**Fionn**
+**Fionn:**
 I killed a raging demonic beast, and slaughtered a creature from the underworld you could call death itself.
 
  
-**Fionn**
+**Fionn:**
 But, all that is expected of a guardian of Erin, a warrior serving the High King.
 
  
-**Fionn**
+**Fionn:**
 The deed would have been done without me.
 For we are the glorious Knights of Fianna!
 
  
-**Fou**
+**Fou:**
 Fou, fou.
 
  
-**Mash**
+**Mash:**
 Yes, Fou.
 ...It sounds pretty heroic to me.
 
  
-**Mash**
+**Mash:**
 But you're being modest.
 Fionn mac Cumhaill of Fianna, guardian of Erin.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Huh? Modest? That's modesty?
 All it sounds like to me is bragging...
 
  
-**Fionn**
+**Fionn:**
 Haha, surely you jest.
 I'm just a man. I've nothing to brag about to anyone&ndash;
 
  
-**Fionn**
+**Fionn:**
 Am I sure? Well, I'm sure I'm the hero who managed to slay a fallen Divine Spirit.
 
  
-**Fionn**
+**Fionn:**
 I'm the descendant of the war god Nuadha, and the central figure in the Erin myth? But see, that's merely the end result.
 
  
-**Fionn**
+**Fionn:**
 I'm simply a man. Yes&ndash;just a handsome man whose face is slightly more beautiful.
 
  
@@ -75,25 +75,25 @@ What self-confidence.
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 Ugh, so bright! It's like a flood of self-confidence and bragging, isn't it!?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Why does it hit me so hard... So this is Fionn mac Cumhaill, the most fulfilled man in all of Erin!
 
  
-**Mash**
+**Mash:**
 Protector of peace who has beaten many monsters&ndash;
 He's fit to be called a hero, a great hero.
 
  
-**Mash**
+**Mash:**
 But, well, Master.
 Well...
 
  
-**Mash**
+**Mash:**
 Fionn had his fair share of problems...
 Calamities...or more like troubles...
 
@@ -113,123 +113,123 @@ I think I've heard something.
 
 ---
  
-**Mash**
+**Mash:**
 ...Yes. You might say he had “lady troubles.”
 
  
-**Mash**
+**Mash:**
 Fionn may not be personally responsible, but if what I heard about the Knights of Fianna's downfall is true...
 
  
-**Mash**
+**Mash:**
 it was partly due to his actions.
 At the very least, that's how the knights portray it.
 
  
-**Mash**
+**Mash:**
 By not saving the life of his reconciled subordinate, Diarmuid, he lost his charisma, and the order collapsed&ndash;
 
  
-**Fionn**
+**Fionn:**
 Hm? What do you speak of, Mash?
 Having second thoughts about marrying me?
 
  
-**Mash**
+**Mash:**
 N-No, not at all!
 I'd never marry you!
 
  
-**Fionn**
+**Fionn:**
 Oh? Is that so?
 Hahaha, “never” is so harsh!
 
  
-**Mash**
+**Mash:**
 (Senpai, keep this between us, okay?)
 
  
-**Mash**
+**Mash:**
 (Fionn knows about the Order's collapse in his memories, but...he doesn't feel like part of it.)
 
  
-**Mash**
+**Mash:**
 (Like when we met Alexander before. Not the King of Conquerors of his later years, but the boy.)
 
  
-**Mash**
+**Mash:**
 (I think this is similar. He's been summoned in his young form. That's why&ndash;)
 
  
-**Dr. Roman**
+**Dr. Roman:**
 (I see. So, he's aware of his later failures,
 but feels like they happened to someone else, right?)
 
  
-**Mash**
+**Mash:**
 (Yes, Doctor.)
 
  
-**Fionn**
+**Fionn:**
 What are you whispering about...
 Oh, I see. Rumors about me? Is that it?
 
  
-**Fionn**
+**Fionn:**
 No need to bite my thumbs.
 I already know. Mash&ndash;
 
  
-**Fionn**
+**Fionn:**
 &ndash;You've fallen in love with me. Sorry about that.
 
  
-**Mash**
+**Mash:**
 !?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 !?
 (Even though she said she'd never, like, 5 seconds ago!?)
 
  
-**Fou**
+**Fou:**
 Fo, fou!?
 
  
-**Fionn**
+**Fionn:**
 I am aware of it.
 Of how I'm almost way too beautiful.
 
  
-**Fionn**
+**Fionn:**
 This face, this physique.
 It must almost be cruel to you girls...
 
  
-**Fionn**
+**Fionn:**
 Thus my fate, namely&ndash; My lady troubles!
 My never-ending assault of lady troubles!
 
  
-**Fionn**
+**Fionn:**
 Yes, I need only stand still, and noble ladies will propose to me. I even once received a twin love confession from a lovely pair of witch sisters.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 T-Twin confession!
 Do things like that actually happen in real life!?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm beyond envious... I don't know about you as a person, but you shine so brightly as a man, Fionn mac Cumhaill...
 
  
-**Fou**
+**Fou:**
 Fou!?
 
  
-**Fionn**
+**Fionn:**
 My most beloved person, treasure of Erin...
 My first wife, to be specific...
 
@@ -238,20 +238,20 @@ Yes. How she and I loved each other...
 It was so instant and eternal...
 
  
-**Fionn**
+**Fionn:**
 That it made an evil fairy start stalking me like an idiot! Oh, this is all part of my destiny of endless lady troubles!
 
  
-**Fionn**
+**Fionn:**
 Oh, however, I don't want to put the blame on you ladies.
 
  
-**Fionn**
+**Fionn:**
 It's fate, and so nothing can be done.
 Overflowing beauty can drive a woman mad, at times.
 
  
-**Fionn**
+**Fionn:**
 I'm just...too beautiful...
 
  
@@ -261,7 +261,7 @@ I'm just...too beautiful...
 **Fujimaru 1:**
 Dazzling, too dazzling...
  
-**Mash**
+**Mash:**
 Y-Yes... Certainly...
 
  
@@ -271,7 +271,7 @@ Y-Yes... Certainly...
 **Fujimaru 2:**
 Um, are we done here?
  
-**Mash**
+**Mash:**
 Senpai, I don't think he can hear you&ndash;
 
  
@@ -279,65 +279,65 @@ Senpai, I don't think he can hear you&ndash;
 
 ---
  
-**Mash**
+**Mash:**
 ...Fionn seems to think the source of all his troubles is always from elsewhere.
 
  
-**Mash**
+**Mash:**
 He's right, in a sense...
 But that's... No.
 
  
-**Fou**
+**Fou:**
 Fou, fooou.
 
  
-**Mash**
+**Mash:**
 Right, Fou. Just a bit...
 He doesn't seem fully satisfied...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm terribly dissatisfied!
 Why do popular guys get even more popular?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 W-Well, never mind. Anyway, why did we come here all the way to the 1st century?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 To the Ancient Roman era that's under correction,
 and heading out specifically to Gaul&ndash;
 
  
-**Fionn**
+**Fionn:**
 I don't have actual business in Gaul.
 I sensed danger in Erin and my feet led me here.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Erin... Ireland?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, I see. You didn't come to Gaul.
 You're trying to get closer to Ireland.
 
  
-**Fionn**
+**Fionn:**
 Right, and I guess I was on the spot.
 
  
-**Fionn**
+**Fionn:**
 They seem to have sensed our approach, and they're coming out to greet us.
 
  
-**???**
+**???:**
 Guuuu!
 
  
-**Mash**
+**Mash:**
 Detecting hostile presences!
 Senpai, here they come... Combat instruction, please!
 
@@ -357,18 +357,18 @@ Calm down!
 
 ---
  
-**Mash**
+**Mash:**
 Yes, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Dr. Roman**
+**Dr. Roman:**
 Confirmed defeat of the first wave!
 But the next one will be inbound soon!
 
  
-**Mash**
+**Mash:**
 This isn't the first giant “hand” we've seen&ndash;
 but something seems strange, Senpai!
 
@@ -388,114 +388,114 @@ They're after Fionn?
 
 ---
  
-**Fionn**
+**Fionn:**
 Ah, this sensation really brings back memories... Of the time when I was a mere traveler, and not the leader of the Order.
 
  
-**Fionn**
+**Fionn:**
 I&ndash;
 
  
-**Fionn**
+**Fionn:**
 I!
 I faced evil as a lone warrior!
 
  
-**Fionn**
+**Fionn:**
 Against those who cruelly murdered innocents!
 Yes, I... I know about you!
 
  
-**Fionn**
+**Fionn:**
 &ndash;Come and get me!
 
  
-**Mash**
+**Mash:**
 M-More are coming!?
 
  
-**???**
+**???:**
 Guuuu!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Here comes the second wave! No... They've revived!?
 And there are more of them! Be careful!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Fionn**
+**Fionn:**
 ...Hm. So I guess that's all of them.
 
  
-**Fionn**
+**Fionn:**
 You made it through the fight unharmed.
 The disturbance I felt is now gone.
 
  
-**Mash**
+**Mash:**
 That giant hand...
 Was that the danger you sensed?
 
  
-**Fionn**
+**Fionn:**
 Oh, yeah. Well, I guess it turned out to be that.
 
  
-**Mash**
+**Mash:**
 That was an unknown enemy we've met multiple times. We have no accurate data on it&ndash;
 
  
-**Mash**
+**Mash:**
 But you talked as if you knew something about it.
 Is it possible...you have some idea?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'd like to hear it, too. Yeah... You definitely sounded like you know something!
 
  
-**Fionn**
+**Fionn:**
 ...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Wait, he's ignoring me? He's ignoring what I say?
 
  
-**Mash**
+**Mash:**
 Please, Fionn. If you know anything, please don't hide it...
 
  
-**Fionn**
+**Fionn:**
 ...How can I keep my mouth shut when such a lovely lady looks at me with such passion.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Right, so...that's how it is...
 He really is ignoring me...
 
  
-**Fou**
+**Fou:**
 Fou, foou...
 
  
-**Fionn**
+**Fionn:**
 That said, this is just a hunch.
 I don't have enough evidence right now.
 
  
-**Fionn**
+**Fionn:**
 As captain of the glorious Knights of Fianna, I can't afford to make an unsightly mistake in front of a lady.
 
  
-**Fionn**
+**Fionn:**
 So, could you give me some time?
 When I have solid proof, I'll most definitely tell you.
 
  
-**Mash**
+**Mash:**
 ...Senpai.
 
  
@@ -514,52 +514,52 @@ Looks like we have to wait.
 
 ---
  
-**Mash**
+**Mash:**
 ...I see.
 I understand, Fionn.
 
  
-**Fionn**
+**Fionn:**
 Now, with the power of my Noble Phantasm of wisdom,
 “Fintan Finegas”&ndash;
 
  
-**Fionn**
+**Fionn:**
 we'd solve any riddle instantly,
 but that would be boring, wouldn't it?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Boring!?
 If it'll tell us everything, then use it, please?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Like making a prediction about the King of Mages' next move! There are other things I'd like to know as well so... Please?
 
  
-**Fionn**
+**Fionn:**
 Hah hah hah. I'd say he probably set up some countermeasures so it can't be easily predicted. Same goes for that giant hand.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Ugh... Fine, b-but what's with the name of your Noble Phantasm!
 
  
-**Fionn**
+**Fionn:**
 Anyways, Mash.
 May I ask something?
 
  
-**Mash**
+**Mash:**
 Sure. What is it?
 
  
-**Fionn**
+**Fionn:**
 I did ask you to wait, but there are things that we can talk about without waiting.
 
  
-**Fionn**
+**Fionn:**
 So, let's go to My Room and discuss in detail. You're curious about me, too, right?
 
  
@@ -578,20 +578,20 @@ That room isn't yours, is it?
 
 ---
  
-**Fionn**
+**Fionn:**
 ...Right. Okay, Fujimaru can come, too. That's fine by me!
 
  
-**Mash**
+**Mash:**
 W-Wait!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Man, he's full of energy.
 Still, I'd like to learn a thing or two from him, too...
 
  
-**Fou**
+**Fou:**
 Fouuuuu!
 
 

@@ -2,7 +2,7 @@
 
 <h2>Curtain Call</h2>
 
-**Shakespeare**
+**Shakespeare:**
 Hm...Master, can I have a minute?
 This town lacks something. What do you think it is?
 
@@ -23,72 +23,72 @@ Happiness.
 
 ---
  
-**Shakespeare**
+**Shakespeare:**
 Exactly! The world is a stage, and the men and women coming and going on it are performers.
 
  
-**Shakespeare**
+**Shakespeare:**
 Regardless, there is no smile in this town.
 No happiness. Why is that&ndash;?
 
  
-**Shakespeare**
+**Shakespeare:**
 It's because there is no drama!
 If so, shall we put up an improv for people to see?
 
  
-**Mash**
+**Mash:**
 An improv? ...And you said "we."...
 By "we", you mean...
 
  
-**Shakespeare**
+**Shakespeare:**
 Why, of course I mean myself, Mash Kyrielight, and Master Fujimaru.
 
  
-**Mash**
+**Mash:**
 I-Impossible!
 I've never seen or performed a play!
 
  
-**Shakespeare**
+**Shakespeare:**
 Oh, you haven't?
 
  
-**Mash**
+**Mash:**
 Y-Yes. I'm sorry for my inexperience...
 But there was never any need for me to...
 
  
-**Shakespeare**
+**Shakespeare:**
 Hahaha, what are you talking about?
 That need is more apparent than ever for you!
 
  
-**Shakespeare**
+**Shakespeare:**
 What you need right now is love, words and poetry!
 A kindled passion is exactly what you need!
 
  
-**Mash**
+**Mash:**
 Ohhhh, but...
 
  
-**Shakespeare**
+**Shakespeare:**
 Oh, and a shield and weapon, too.
 It's kind of sudden, I know&ndash;
 
  
-**Citizen**
+**Citizen:**
 Monsters!
 Monsters are coming&ndash;!
 
  
-**Shakespeare**
+**Shakespeare:**
 But monsters are coming all of a sudden, you see!
 
  
-**Mash**
+**Mash:**
 W-Why is that&ndash;?
 
  
@@ -108,216 +108,216 @@ Let's protect everyone!
 
 ---
  
-**Shakespeare**
+**Shakespeare:**
 Oh, what a courageous line!
 But I wish you'd made your delivery a bit more complex.
 
  
-**Shakespeare**
+**Shakespeare:**
 "Hear your death bell ringing! Are you going to heaven, or to hell!" ...How about that?
 
  
-**Mash**
+**Mash:**
 Uh, excuse me.
 Please join the battle!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Shakespeare**
+**Shakespeare:**
 Oh, how valorous you were.
 You are majestic even when standing behind me, Master.
 
  
-**Shakespeare**
+**Shakespeare:**
 Well, the Holy Grail War is a fine thing. It's a war that contains elements common to historical plays, tragedy and comedy!
 
  
-**Mash**
+**Mash:**
 I'm...glad to hear that.
 
  
-**Shakespeare**
+**Shakespeare:**
 See, hear the thunderous applause.
 
  
-**Citizen**
+**Citizen:**
 You were so cool, kid!
 
  
-**Citizen**
+**Citizen:**
 I love you, let's make a baby!
 
  
-**Citizen**
+**Citizen:**
 Who's giving out the orders behind that girl...
 A king, emperor, or a general...?
 
  
-**Mash**
+**Mash:**
 Wh-Whoa.
 Whoa, whoa, whoa...
 
  
-**Mash**
+**Mash:**
 L-Let's get going, Master!
 
  
-**Shakespeare**
+**Shakespeare:**
 I wish I could work out the lines a little more there...
 
  
-**Mash**
+**Mash:**
 Give me a break...!
 
  
-**Shakespeare**
+**Shakespeare:**
 Well, it's important to select words with care.
 I hope you'll work harder next time.
 
  
-**Mash**
+**Mash:**
 Wh-What?
 Did you say&ndash;Next time?
 
  
-**Shakespeare**
+**Shakespeare:**
 Yes.
 Listen, Mash, Master.
 
  
-**Shakespeare**
+**Shakespeare:**
 You two are the protagonists of this play.
 A girl and her master rise up to save this town.
 
  
-**Shakespeare**
+**Shakespeare:**
 The girl is a steel knight with a fragile heart.
 The master is a vulnerable human with a steel heart.
 
  
-**Shakespeare**
+**Shakespeare:**
 By going hand in hand, the two characters begin to transform from craven to courageous.
 
  
-**Shakespeare**
+**Shakespeare:**
 And standing in their way&ndash;
 
  
-**Shakespeare**
+**Shakespeare:**
 Are diabolical beasts beyond human understanding.
 Unable to communicate, they are incompatible.
 
  
-**Shakespeare**
+**Shakespeare:**
 Their sad existence is fated to be hostile to humans.
 By delivering the final blow, the two heroes are able to move on.
 
  
-**Shakespeare**
+**Shakespeare:**
 It is a treacherous path denying them even sleep, the one balm for their wounded bodies and souls.
 
  
-**Shakespeare**
+**Shakespeare:**
 Regardless, they have no regret, despair, or resignation.
 
  
-**Shakespeare**
+**Shakespeare:**
 Even if what they fight against is the great existence constituting the framework of the universe&ndash;
 
  
-**Shakespeare**
+**Shakespeare:**
 You two shall march onward!
 
  
-**Mash**
+**Mash:**
 ...Excuse me, but I have one question.
 
  
-**Shakespeare**
+**Shakespeare:**
 Sure, what is it?
 
  
-**Mash**
+**Mash:**
 Sorry if I'm wrong, but are you summoning those enemies&ndash;?
 
  
-**Shakespeare**
+**Shakespeare:**
 ...Well!
 It's time to fight, Master!
 
  
-**Mash**
+**Mash:**
 Answer my question!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 (panting...)
 
  
-**Shakespeare**
+**Shakespeare:**
 And now it's time for the climax!
 
  
-**Mash**
+**Mash:**
 Uh, are you sure you didn't summon them?
 With the power a Caster might use, maybe?
 
  
-**Shakespeare**
+**Shakespeare:**
 Sorry, but I'm not skilled in magecraft at all.
 I'm a writer, after all.
 
  
-**Mash**
+**Mash:**
 Right.
 You do have a point there&ndash;
 
  
-**Shakespeare**
+**Shakespeare:**
 Anyway, there's a villain who's feeling frustrated.
 Let's say, his initial is 'S.'
 
  
-**Mash**
+**Mash:**
 S?
 Um, Mr. Shakespeare? So it is you&ndash;
 
  
-**Shakespeare**
+**Shakespeare:**
 The villain named S grows impatient with the town's neverending peace, curses the people, and to top it all off, he comes up with a plot!
 
  
-**Shakespeare**
+**Shakespeare:**
 It was to use the townspeople!
 To incite the townspeople, and turn them into daemons so he can make them attack our heroes.
 
  
-**Mash**
+**Mash:**
 What!?
 Shakespeare, is that&ndash;!?
 
  
-**Mash**
+**Mash:**
 No way...!?
 
  
-**Shakespeare**
+**Shakespeare:**
 They have no people to protect, no friends to share laughter with.All they do now is shiver with loneliness&ndash;
 
  
-**Shakespeare**
+**Shakespeare:**
 "You can give in." The demon whispers.
 "You can rest now." The nightmare murmurs.
 
  
-**Shakespeare**
+**Shakespeare:**
 Well, well, well, what are you going to do, Mash Kyrielight? Indeed, what are you going to do, Fujimaru&ndash;My Master!?
 
  
-**Mash**
+**Mash:**
 Ugh...
 Master!
 
@@ -328,26 +328,26 @@ Master!
 **Fujimaru 1:**
 We are such stuff as dreams are made on.
  
-**Shakespeare**
+**Shakespeare:**
 Ha!
 I didn't expect that answer!
 
  
-**Shakespeare**
+**Shakespeare:**
 It essentially means transience, that everything you struggle for in life is merely what happens in your dream.
 
  
-**Shakespeare**
+**Shakespeare:**
 But, however&ndash;you are different.
 You've perceived a different meaning in it.
 
  
-**Shakespeare**
+**Shakespeare:**
 A dream is hope.
 Hope is what is laid with courage and determination.
 
  
-**Shakespeare**
+**Shakespeare:**
 Then, your battle speaks for itself.
 For you are the dream!
 
@@ -358,25 +358,25 @@ For you are the dream!
 **Fujimaru 2:**
 I don't care about philosophy.
  
-**Shakespeare**
+**Shakespeare:**
 Heheheh, I knew you'd say that!
 What you just said is absolutely true, Master!
 
  
-**Shakespeare**
+**Shakespeare:**
 A demon's whisper, reasonable conclusion, and compelling valid argument.All those kinds of things&ndash;
 
  
-**Shakespeare**
+**Shakespeare:**
 You're welcome to get over them simply by saying, "I don't care!"
 
  
-**Shakespeare**
+**Shakespeare:**
 Because it is evil in the name of a valid argument.
 It is a cowardly trick trying to camouflage the evil with a facade called theory.
 
  
-**Shakespeare**
+**Shakespeare:**
 Just go ahead and do it!
 
  
@@ -384,66 +384,66 @@ Just go ahead and do it!
 
 ---
  
-**Shakespeare**
+**Shakespeare:**
 You are great, Master.
 You are fantastic and invincible!
 
  
-**Mash**
+**Mash:**
 ...Yes.
 He's absolutely right, Master.
 
  
-**Mash**
+**Mash:**
 I have no doubts. If there's no way to turn them back, we just need to defeat them.
 
  
-**Mash**
+**Mash:**
 I'm coming with you, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 We defeated them...!
 
  
-**Shakespeare**
+**Shakespeare:**
 Oh, we must hail your victory! ...Now that they won the battle, the end of their dream comes.
 
  
-**Mash**
+**Mash:**
 Huh&ndash;?
 
  
-**Mash**
+**Mash:**
 O-Oh?
 The town...is gone!?
 
  
-**Shakespeare**
+**Shakespeare:**
 Excellent job, Master.
 And you, Mash Kyrielight...the shield and sword.
 
  
-**Shakespeare**
+**Shakespeare:**
 The dream is now over.
 You gathered the beautiful threads of your story.
 
  
-**Shakespeare**
+**Shakespeare:**
 Now, let's walk toward the rest of the story. I am certain the transient dream and illusion shall satiate your mind.
 
  
-**Shakespeare**
+**Shakespeare:**
 ...And of course, for me, too.
 
  
-**Mash**
+**Mash:**
 From...where to where was it a dream...?
 
  
-**Shakespeare**
+**Shakespeare:**
 &ndash;Heheheh. Of course, that's a secret.
 Playwrights never reveal their methods so easily.
 

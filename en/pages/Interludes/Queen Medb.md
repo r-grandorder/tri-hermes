@@ -2,69 +2,69 @@
 
 <h2>Queen's Discipline</h2>
 
-**Medb**
+**Medb:**
 Whooo! This place is great!
 There's so much space!
 
  
-**Medb**
+**Medb:**
 I did say, “Take me someplace we can be alone...♡” Hehe!
 
  
-**Medb**
+**Medb:**
 I didn't expect you to play along when I seduced you.
 I'm a little impressed.
 
  
-**Medb**
+**Medb:**
 Thank you, Fujimaru. For granting my selfish request. But...
 
  
-**Medb**
+**Medb:**
 You lose points for having a third wheel.
 Is that little shrimp your bodyguard?
 
  
-**Medb**
+**Medb:**
 She's always around you, Fujimaru.
 I haven't really cared to remember her name.
 
  
-**Mash**
+**Mash:**
 Um... Sorry. I'm Senpai's ever-reliable Demi-Servant, Mash Kyrielight.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Ahem. And of course, I'm here too.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 As Fujimaru's supervisor, I can't let anybody get any strange ideas!
 
  
-**Medb**
+**Medb:**
 I see. Well, whatever.
 I'm not interested in either of you.
 
  
-**Medb**
+**Medb:**
 What's important is that Fujimaru heard my request, and properly granted it.
 
  
-**Medb**
+**Medb:**
 And to willingly choose a place like this... You're way beyond lacking in a sense of danger, big shot.
 
  
-**Medb**
+**Medb:**
 If it's this simple, it's honestly too easy for me.
 It makes me a little worried that you trust me this much.
 
  
-**Medb**
+**Medb:**
 We've got some time. So before we get started, let me ask you a question.
 
  
-**Medb**
+**Medb:**
 What do you think of me? Am I an Anti-Hero?
 A prima donna queen?
 
@@ -75,11 +75,11 @@ A prima donna queen?
 **Fujimaru 1:**
 Well, you're a potential friend or lover?
  
-**Medb**
+**Medb:**
 I see. I don't mind you being so blunt about it, but that will never happen. After all, you're no warrior.
 
  
-**Medb**
+**Medb:**
 What I need is a warrior. I don't know how to handle ordinary humans.
 
  
@@ -89,7 +89,7 @@ What I need is a warrior. I don't know how to handle ordinary humans.
 **Fujimaru 2:**
 Let's see... Prickly but with a heart of gold?
  
-**Medb**
+**Medb:**
 Heh. You make light of Queen Medb. But too bad.
 You'll never see me cooing.
 
@@ -98,46 +98,46 @@ You'll never see me cooing.
 
 ---
  
-**Medb**
+**Medb:**
 I was called to rule and to take from others. I only need talented warriors and fertile lands to plunder.
 
  
-**Medb**
+**Medb:**
 I came to Chaldea to scout this place out.
 
  
-**Medb**
+**Medb:**
 Just you wait. I'll make my preparations in secret, and invade you again and again.
 
  
-**Medb**
+**Medb:**
 Doctor Roman, was it? You should store the Holy Grails in places harder to find.
 
  
-**Medb**
+**Medb:**
 You look easy to seduce. If three more Servants as wicked as me get involved, the Holy Grails would easily be taken.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hahaha. Don't worry about that.
 The locks on the safe were specially made by Da Vinci.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Even I don't know how to open it! No matter how much I beg her, she won't tell me, damn it!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 So seduction won't work with me.
 And even if it did, it wouldn't matter.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 That's right! The ultimate security is ignorance!
 No honey trap would be a threat!
 
  
-**Fou**
+**Fou:**
 Fooou...
 
  
@@ -156,59 +156,59 @@ That's some skilled handling of the Doctor...
 
 ---
  
-**Medb**
+**Medb:**
 Da Vinci... That pesky wench. I should be the only one with the body version of “Golden Rule.”
 
  
-**Medb**
+**Medb:**
 Maybe I'll assassinate her... Casters are sitting ducks, anyway.
 
  
-**Medb**
+**Medb:**
 But there's something odd about her... Like she might turn into an Assassin if she needed to...
 
  
-**Mash**
+**Mash:**
 Um, Medb. May I say something too?
 
  
-**Medb**
+**Medb:**
 Hmm? What is it? I'll answer if it's interesting.
 But keep it quick.
 
  
-**Mash**
+**Mash:**
 R-Right, I'll do my best. As you just mentioned, you're a Rider... right?
 
  
-**Medb**
+**Medb:**
 Yes. My class is Rider. I ride all day and all night.
 What of it?
 
  
-**Mash**
+**Mash:**
 Well, um... You usually fight with that staff-like thing...
 So I thought maybe you were a Caster.
 
  
-**Mash**
+**Mash:**
 I've seen you summon your chariot as your Noble Phantasm, but I can't exactly tell what's happening there, either.
 
  
-**Mash**
+**Mash:**
 You don't send the enemy flying, so I wondered what kind of attack it is.
 
  
-**Medb**
+**Medb:**
 Oh? Really? You want to see it? Do you?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 No! Is that really your question, Mash!?
 Lancelot might give me an earful for this!
 
  
-**Fou**
+**Fou:**
 Foufou, fou!!!
 
  
@@ -218,11 +218,11 @@ Foufou, fou!!!
 **Fujimaru 1:**
 Mash, not another word.
  
-**Mash**
+**Mash:**
 No, as a fellow Servant, I can increase our odds of survival by knowing her tactics.
 
  
-**Mash**
+**Mash:**
 This is also for your sake, Senpai!
 
  
@@ -232,7 +232,7 @@ This is also for your sake, Senpai!
 **Fujimaru 2:**
 Actually, I want to know too...
  
-**Dr. Roman**
+**Dr. Roman:**
 No! You're too young to learn about the affairs of the Celtic heroes!
 
  
@@ -240,82 +240,82 @@ No! You're too young to learn about the affairs of the Celtic heroes!
 
 ---
  
-**Medb**
+**Medb:**
 I don't really need to tell you what happens in that chariot, do I?
 
  
-**Medb**
+**Medb:**
 I am Queen Medb. The mother of warriors.
 My class isn't Rider because I ride a chariot.
 
  
-**Medb**
+**Medb:**
 I ride men. Men!
 I'm a Rider, so it's only natural.
 
  
-**Mash**
+**Mash:**
 Well, um... That's...um...uh...
 
  
-**Medb**
+**Medb:**
 It's so much fun, and it feels so good to ride that thing. It's exhilarating to be in control!
 
  
-**Medb**
+**Medb:**
 Of course, I don't mind being ridden, but I prefer to be in charge, you know?
 
  
-**Medb**
+**Medb:**
 Especially big strong warriors.
 I get so excited, I want to put a collar on them!
 
  
-**Medb**
+**Medb:**
 You know what I mean? The stronger the warrior, the more my body goes crazy!
 
  
-**Medb**
+**Medb:**
 My very cells start to boil, and so many things get secreted in my head that makes me dizzy...
 
  
-**Medb**
+**Medb:**
 Each time it feels like I'm being reborn! It's like honey. Once you start you can't stop!
 
  
-**Medb**
+**Medb:**
 I say, men get little pleasure in life.
 I almost pity them.
 
  
-**Medb**
+**Medb:**
 A warrior merely kills the enemy. Such pleasure is trivial compared to the pleasure of birth.
 
  
-**Medb**
+**Medb:**
 That's why I love a strong warrior. And I love the battlefield where I can find good warriors!
 
  
-**Medb**
+**Medb:**
 No matter what I become, this truth will never change.
 I ride my chariot, I ride my men, and ride the battlefield.
 
  
-**Medb**
+**Medb:**
 That is the way of Queen Medb, the invader.
 Well? Does that explain things?
 
  
-**Mash**
+**Mash:**
 Y-Yes... Not really, but I've recorded your statements.
 
  
-**Mash**
+**Mash:**
 But um... You said “birth.”
 Do you have children?
 
  
-**Medb**
+**Medb:**
 I've given birth to more than I can count. They're the foundation of a nation. You need them to protect.
 
  
@@ -329,140 +329,140 @@ So... you like kids?
 
 ---
  
-**Medb**
+**Medb:**
 Not really?
 
  
-**Medb**
+**Medb:**
 They're a pain to raise. I just let other people do that.
 
  
-**Medb**
+**Medb:**
 What I'm saying is that a woman should ride all the men she can, and have all the children she can! It feels good, and it's a necessity.
 
  
-**Medb**
+**Medb:**
 Oh, wait. I forgot to mention one thing.
 
  
-**Medb**
+**Medb:**
 Did I mention that “creating soldiers” and the typical “birth” are separate things to me?
 
  
-**Mash**
+**Mash:**
 No, you didn't. Please elaborate.
 
  
-**Medb**
+**Medb:**
 I'm the Queen of Connacht. So giving birth to soldiers isn't like giving birth to an heir.
 
  
-**Medb**
+**Medb:**
 To make a soldier, I just need the bodily fluids of a warrior.
 
  
-**Medb**
+**Medb:**
 I take them into my chariot, we lie together, and then I prick my index finger and drip blood on to the ground.
 
  
-**Medb**
+**Medb:**
 Like mixing blood into mead, you see.
 
  
-**Medb**
+**Medb:**
 And then my beautiful new soldier is created.
 It's like an instant homunculus.
 
  
-**Medb**
+**Medb:**
 It's like a personal soldier that will never disobey me.
 
  
-**Medb**
+**Medb:**
 Unfortunately they aren't as strong as the original warrior, but my style is to compensate with sheer quantity.
 
  
-**Medb**
+**Medb:**
 Do you understand? This is how I fight. And that's why...
 
  
-**Medb**
+**Medb:**
 An heir is a different matter. It's more like, you know...
 
  
-**Medb**
+**Medb:**
 I won't bear an heir unless it's with someone I'm head over heels for, body and soul.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 (That's an unexpected maidenly comment...!)
 
  
-**Dr. Roman**
+**Dr. Roman:**
 (Her moral values with that maiden attitude... She is definitely a pain...!)
 
  
-**Medb**
+**Medb:**
 Anyway, enough of that! Back on topic!
 Let's take off our clothes!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 We went back to a point in the conversation I don't remember talking about!
 
  
-**Mash**
+**Mash:**
 W-Why? Are you and Senpai going to...
 
  
-**Medb**
+**Medb:**
 Yes. I'm taking your Master. I'll cut off their head and use it to decorate my chariot.
 
  
-**Mash**
+**Mash:**
 ...!
 
  
-**Medb**
+**Medb:**
 I never forget a humiliation.
 I won't rest until I get even.
 
  
-**Medb**
+**Medb:**
 Fujimaru. I know that in this Singularity, you defeated my kingdom.
 
  
-**Medb**
+**Medb:**
 That's why I have to do this, for my existence.
 What's a queen to do without seeking revenge?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 That's impossible! Once a contract is formed, Servants can't hurt their Masters!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Queen Medb may be a free spirit, but that doesn't change! We can use a Command Spell to get rid of her if need be!
 
  
-**Medb**
+**Medb:**
 Hehe. That's not happening. Right now my selfishness holds sway.
 
  
-**Fou**
+**Fou:**
 Fou!?
 
  
-**Medb**
+**Medb:**
 Remember what I said?
 I invited you, and you accepted.
 
  
-**Medb**
+**Medb:**
 That formed a geas bond. And it won't be released until I'm satisfied.
 
  
-**Medb**
+**Medb:**
 Do you understand, my bratty little cattle?
 It means you can no longer escape.
 
@@ -482,67 +482,67 @@ What a wicked honey trap...!
 
 ---
  
-**Medb**
+**Medb:**
 Hah! That's just the reaction I wanted to see!
 That's the Master who defeated me once!
 
  
-**Medb**
+**Medb:**
 Now fight for me, my soldiers! Show them the power of Celtic warriors!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Soldiers just appeared out of the ground! Get ready! She's serious, Fujimaru!
 
  
-**Medb**
+**Medb:**
 Of course. I'm always serious when I do something. Master or not, I always jump on the chance to devastate.
 
  
-**Medb**
+**Medb:**
 Let's see who falls first!
 Your Servants, or my soldiers!
 
  
-**Medb**
+**Medb:**
 Let's find out right now!
 Here I come, Fujimaru, Mash!
 
  
-**Mash**
+**Mash:**
 Servant Queen Medb is attacking!
 
  
-**Mash**
+**Mash:**
 Let's fight her with all we've got, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 Queen Medb has been defeated!
 She's also out of her seeds of soldiers!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Excellent work, Fujimaru!
 And Mash, let's just say she ran out of stock.
 
  
-**Medb**
+**Medb:**
 HOW COULD THIS BE!?
 
  
-**Medb**
+**Medb:**
 I had everything set up perfectly!
 I didn't let my guard down this time!
 
  
-**Medb**
+**Medb:**
 They took me down head-on... completely!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 She took a lot of damage, but her frustration is making her forget her pain.
 
  
@@ -561,44 +561,44 @@ Yeah, that's a good whipping.
 
 ---
  
-**Mash**
+**Mash:**
 Anyway, that should have undone Medb's geas.
 
  
-**Mash**
+**Mash:**
 Her “temptation” was completely shot down by Senpai.
 
  
-**Medb**
+**Medb:**
 Watch your mouth! That's infuriating!
 I wasn't rejected, I just wasn't strong enough!
 
  
-**Medb**
+**Medb:**
 If I was in my proper state, I could seduce anybody, man or woman!
 
  
-**Medb**
+**Medb:**
 This only happened because you're not strong enough to properly handle me!
 
  
-**Medb**
+**Medb:**
 If you would've made me stronger, I could've kicked your butt!
 
  
-**Medb**
+**Medb:**
 All you guys at Chaldea are just a bunch of wimps! Put me in charge, and the restoration of humanity would be done in no time!
 
  
-**Medb**
+**Medb:**
 And Fujimaru wouldn't have to go to the front lines, but fight from somewhere safe!
 
  
-**Medb**
+**Medb:**
 Forget it! I'm leaving! Just make sure I'm stronger before the next fight!
 
  
-**Medb**
+**Medb:**
 I won't say how to make me stronger, though!
 Just use a Holy Grail or something! A Holy Grail!
 
@@ -609,7 +609,7 @@ Just use a Holy Grail or something! A Holy Grail!
 **Fujimaru 1:**
 Hahaha. Yeah, not happening.
  
-**Medb**
+**Medb:**
 How perfectly infuriating!
 You dummy! I'll get you for this!
 
@@ -620,19 +620,19 @@ You dummy! I'll get you for this!
 **Fujimaru 2:**
 But I already used it, Medb...
  
-**Medb**
+**Medb:**
 Huh... Really? You used it on me...?
 
  
-**Medb**
+**Medb:**
 But wait, then I'm a bad queen who still lost in peak condition?
 
  
-**Mash**
+**Mash:**
 Yes, unfortunately. I'm female, so your attack bonus didn't work on me either...
 
  
-**Medb**
+**Medb:**
 Tch! This won't happen next time. Make sure to create your party with only male Servants!
 
  
@@ -640,17 +640,17 @@ Tch! This won't happen next time. Make sure to create your party with only male 
 
 ---
  
-**Mash**
+**Mash:**
 Queen Medb has retreated.
 Most likely she's gone back to Chaldea...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yeah, I see her response over here.
 She's heading to the cafeteria at incredible speed.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Mmm, I bet she's going there to binge eat.
 I hope she doesn't eat all of Chaldea's food.
 
@@ -670,24 +670,24 @@ The calories will help her gain weight.
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 Yeah. I was worried for a minute, but this should hopefully teach her a lesson!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 And now we know what abilities Medb was hiding.
 She can be even more helpful from here on out.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm sure it was Medb's way of getting closer to us. Though I doubt she realized it.
 
  
-**Mash**
+**Mash:**
 Yes. I think in her own way, Medb is starting to trust Master.
 
  
-**Mash**
+**Mash:**
 Since she's fighting out of frustration instead of hatred. Which means... you know.
 
  
@@ -697,7 +697,7 @@ Since she's fighting out of frustration instead of hatred. Which means... you kn
 **Fujimaru 1:**
 Yeah. She thinks of us as friends.
  
-**Mash**
+**Mash:**
 Right! I can't wait to battle her again next time!
 
  
@@ -707,7 +707,7 @@ Right! I can't wait to battle her again next time!
 **Fujimaru 2:**
 I don't know. She might just be an airhead.
  
-**Fou**
+**Fou:**
 Fou, fou.
 
  
@@ -717,7 +717,7 @@ Fou, fou.
 
 <h2>My Lovely...</h2>
 
-**Medb**
+**Medb:**
 Are you here, Master?
 
  
@@ -727,12 +727,12 @@ Are you here, Master?
 **Fujimaru 1:**
 Uh, thanks for announcing yourself with a whip crack.
  
-**Medb**
+**Medb:**
 Oh? A fine way to greet a queen.
 You may just make a decent Connacht citizen yet.
 
  
-**Medb**
+**Medb:**
 ...Still, there's something to be said for being TOO obedient, you know? It's just not as much...fun, I guess?
 
  
@@ -742,7 +742,7 @@ You may just make a decent Connacht citizen yet.
 **Fujimaru 2:**
 (Twitch)
  
-**Medb**
+**Medb:**
 Whoopsie, what am I doing?
 That's the whole reason I'm here.
 
@@ -751,53 +751,53 @@ That's the whole reason I'm here.
 
 ---
  
-**Mash**
+**Mash:**
 Um... I'm not sure I follow, Medb.
 Can I ask why you're here?
 
  
-**Medb**
+**Medb:**
 Well, frankly...I feel like lately I've been going for my whip a little too quickly.
 
  
-**Mash**
+**Mash:**
 ...Hmm...did you just say “lately”? This has been an everyday thing from the moment we met you...
 
  
-**Mash**
+**Mash:**
 You are practically synonymous with the phrase, “cracking the whip” in Chaldea.
 
  
-**Medb**
+**Medb:**
 I'm not talking about my actual whip, dummy.
 I mean I've been all stick and no carrot lately.
 
  
-**Medb**
+**Medb:**
 I'm a queen. That means I have to see to the whole nation, not just my own desires.
 
  
-**Medb**
+**Medb:**
 Sometimes, instead of the stick&ndash;whip in my case&ndash;I need some lovely carrots to win over those of my citizens who're too frigid to fall for&ndash;
 
  
-**Medb**
+**Medb:**
 Erm, I mean, who are stubbornly holding out, the poor things.
 
  
-**Medb**
+**Medb:**
 Once they see the light, they will have the honor of being a true citizen of Connacht, and accept the carrot and stick alike.
 
  
-**Medb**
+**Medb:**
 Tell me, is there another queen in this world more dedicated and tireless in working for her citizens?
 
  
-**Medb**
+**Medb:**
 One so truly dedicated to helping each and every one of them find true happiness in their queen's warm embrace?
 
  
-**Medb**
+**Medb:**
 Not to mention one so gorgeous? Of course not!
 Medb is utterly perfect in every way!
 
@@ -817,23 +817,23 @@ You're, uh, certainly one of a kind.
 
 ---
  
-**Medb**
+**Medb:**
 Right?
 
  
-**Medb**
+**Medb:**
 Still...I don't think I've been giving my citizens enough positive incentive lately, and it's got things all out of whack.
 
  
-**Mash**
+**Mash:**
 I see... I'm not sure I quite understand what you're after, but bringing people joy is a good thing.
 
  
-**Mash**
+**Mash:**
 If you take it easy with the whip for a while, and start giving people thoughtful gifts...
 
  
-**Mash**
+**Mash:**
 ...I think that would be a great way to improve your standing among your people!
 
  
@@ -846,15 +846,15 @@ What exactly do you have in mind?
 
 ---
  
-**Medb**
+**Medb:**
 I'm going to give them a present. Something that will make my people weep with joy and find a whole new appreciation for me!
 
  
-**Medb**
+**Medb:**
 I've always had it, but since I could never bring it to Chaldea for some reason, I'll just have to make it again.
 
  
-**Medb**
+**Medb:**
 Master, Mash, I expect you two to help me collect the materials I need. Got that?
 
  
@@ -864,7 +864,7 @@ Master, Mash, I expect you two to help me collect the materials I need. Got that
 **Fujimaru 1:**
 Got it.
  
-**Mash**
+**Mash:**
 How will we collect them? Will we need to go mining? Hunting? Something else?
 
  
@@ -878,24 +878,24 @@ How are we supposed to collect these materials?
 
 ---
  
-**Medb**
+**Medb:**
 Hehe, as if you need to ask. I am going to exercise my God-given right as queen for a little bit of...
 
  
-**Medb**
+**Medb:**
 ...requisitioning!
 
  
-**Mash**
+**Mash:**
 (So she wants to take things from her citizens, and use their own stuff to make a gift for them? Doesn't that defeat the purpose?)
 
  
-**Medb**
+**Medb:**
 First, we need something for the foundation.
 I heard we'd be able to find it around here...
 
  
-**Mash**
+**Mash:**
 ...?
 Do you hear that, Senpai?
 
@@ -914,78 +914,78 @@ That sounds like...a party!
 
 ---
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hehe... Hehehe. What a wonderfully tragic banquet this turned out to be! I love it!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Here we are, a group of oni, sitting out in the open and having a hanami picnic in broad daylight! I bet if any human happened by and saw this they'd jump out of their skins in terror!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Now keep those dumplings coming! And don't expect me to leave any for you lot. I've always got room for more dumplings!
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 Go on then, drink up. Don't be shy.
 
  
-**Jing Ke**
+**Jing Ke:**
 Oh I'm drinking plenty, don't worry. Mmm, I didn't know Japanese alcohol tasted so good! I like this!
 
  
-**Iskandar**
+**Iskandar:**
 Oh, I don't know about Japanese alcohol. I'd say it's the contents of that gourd in particular that are so special!
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 Fufu, I know I'm the one who invited you two here and all, but I'm still surprised how much oni wine you've been able to drink without so much as a hiccup!
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 It's veeery impressive.
 
  
-**Iskandar**
+**Iskandar:**
 I don't know if you're this country's Dionysus, or some kind of satyr, but whatever you are, you definitely know your liquor.
 
  
-**Iskandar**
+**Iskandar:**
 But, eh... Human wine, oni wine...
 Who cares? All that matters is how good it tastes!
 
  
-**Jing Ke**
+**Jing Ke:**
 You said it! Now give me another bottle! This stuff goes down so smoothly, it feels like I'll never get drunk!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Tch... Dammit, I'm gonna have some wine too, Shuten! It's too good to waste on them!
 
  
-**Iskandar**
+**Iskandar:**
 So this is what Japan calls “hanami,” huh?
 Incredibly delicious wine, beautiful flowers...
 
  
-**Iskandar**
+**Iskandar:**
 Mmm, I could get used to this. I'll have to move this country up on my schedule of conquest...
 
  
-**Jing Ke**
+**Jing Ke:**
 Hup.
 
  
-**Iskandar**
+**Iskandar:**
 What's the big idea?
 
  
-**Jing Ke**
+**Jing Ke:**
 Tch, missed agaaain! The more kingly you act,
 the more it makes me want to kill yooou!
 
  
-**Iskandar**
+**Iskandar:**
 Hahaha, this added tension makes the wine go down even better. Go on then, drink up! Try and kill me if it makes you happy!
 
  
@@ -998,115 +998,115 @@ Looks like the heavy drinkers are having a hanami picnic...
 
 ---
  
-**Mash**
+**Mash:**
 This party could easily go one of two ways: completely without incident, or incredibly dangerous...
 
  
-**Medb**
+**Medb:**
 There they are. You there!
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 Hmm? Oh, if it isn't the queen of the Celts.
 Fancy seeing you here. Care to join our picnic?
 
  
-**Medb**
+**Medb:**
 Hell no. Just shut up and hand over the wine.
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 Hmm? This isn't a liquor store, you know.
 
  
-**Medb**
+**Medb:**
 I know, and I don't care. I need the wine,
 and as queen, I'm officially requisitioning it.
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 I'm preeetty sure I am not one of your advisors,
 and I'm deeefinitely not one of your subjects.
 
  
-**Medb**
+**Medb:**
 No. I'm not so crazy that I'd make someone like you one of my advisors.
 
  
-**Medb**
+**Medb:**
 So this is just me giving you a simple order.
 
  
-**Medb**
+**Medb:**
 We're both beautiful and we're both wicked,
 so I demand you cooperate.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Ohhh, I know who she is now, Shuten. This is that idiot of an oni who likes bathing in hot springs.
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 Fufufu, I think you've already had too much to drink, and you haven't even touched my wine.
 
  
-**Medb**
+**Medb:**
 Don't be ridiculous. I'm like you. I don't get intoxicated,
 I AM intoxicating. That's why I'm here.
 
  
-**Iskandar**
+**Iskandar:**
 Wait, wait! Are you serious about this, Queen Medb?
 
  
-**Iskandar**
+**Iskandar:**
 This wonderful hanami requires both wine and scenery in equal measure to be properly enjoyed.
 
  
-**Iskandar**
+**Iskandar:**
 We will not be able to enjoy ourselves if you take our wine back to Chaldea.
 
  
-**Jing Ke**
+**Jing Ke:**
 Yeah! You better not be serious about taking it with you. This is OUR wine!
 
  
-**Jing Ke**
+**Jing Ke:**
 You can't just take it!
 
  
-**Jing Ke**
+**Jing Ke:**
 That's not fair!
 
  
-**Mash**
+**Mash:**
 U-um... Let's all just try to stay calm, okay, everyone?
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 We are calm.
 Not our fault that queenie here is having a cow.
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 You know, speaking of cattle, you remind me of Raikou. Charging headlong into a situation, oblivious to everything you think doesn't matter...
 
  
-**Medb**
+**Medb:**
 ...I'd be careful if I were you.
 The penalty for insulting a queen is death.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hmph. I don't like this whole high-and-mighty act of hers. She's not better than us.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 I can't enjoy my dumplings like this.
 Wanna kill her, Shuten?
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 Hmm, you're right. Maybe we had better show her what happens when you try to boss oni around.
 
  
@@ -1119,91 +1119,91 @@ Just take it easy, everyone! Please!
 
 ---
  
-**Iskandar**
+**Iskandar:**
 Hmm. Your request is certainly reasonable, Master, but I am afraid there is no peaceful resolution here.
 
  
-**Iskandar**
+**Iskandar:**
 I'm used to taking what I want.
 I certainly would not let anyone disturb my parties.
 
  
-**Iskandar**
+**Iskandar:**
 If this queen means to ruin our hanami,
 she'd best be prepared to face the consequences.
 
  
-**Medb**
+**Medb:**
 You know, you're pretty easy on the eyes. I wouldn't mind adding you to my collection if only you didn't reek of alcohol.
 
  
-**Iskandar**
+**Iskandar:**
 Gahaha, I'm impressed! I think you may be the most uncompromising queen I've ever met!
 
  
-**Iskandar**
+**Iskandar:**
 However, my wives were all strong women too, just like you. I wonder how well your strength matches theirs?
 
  
-**Jing Ke**
+**Jing Ke:**
 Hmm? I just had a flash of insight,
 and all because I'm not the least bit drunk!
 
  
-**Jing Ke**
+**Jing Ke:**
 ...She's a queen, so that makes her sorta like a lady king, right?
 
  
-**Jing Ke**
+**Jing Ke:**
 Yay! Mind if I just go ahead and assassinate you so we can get back to our hanami?
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 Now that I get a good look at you, you kind of look like a cherry blossom tree yourself, what with that outfit and the pink hair.
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 Why don't you do something useful and go tie yourself to one of the trees so we can enjoy the show?
 
  
-**Medb**
+**Medb:**
 I thought I told you that the penalty for insulting a queen is death. Did you not hear me, or are you Far Eastern demons as dumb as you look?
 
  
-**Medb**
+**Medb:**
 Well, no matter. I am a merciful queen, lenient to all my subjects, including country bumpkin oni who don't seem to know any better.
 
  
-**Medb**
+**Medb:**
 If you refuse to hand over your wine peacefully,
 I'll just have to pry it out of your cold, dead hands!
 
  
-**Mash**
+**Mash:**
 That doesn't sound lenient at all! M-Master!
 We need to stop them before this gets out of hand!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Iskandar**
+**Iskandar:**
 Hmm, well this won't do.
 Maybe I have had a little too much to drink.
 
  
-**Iskandar**
+**Iskandar:**
 Not sure if it was the oni wine or the sweet Celtic mead, but whatever it was, it must have been powerful stuff indeed to make me back down from a fight...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Same here. I'm full to bursting after all those dumplings. Of course, I've always got room for a human or two...hundred, but right now...
 
  
-**Jing Ke**
+**Jing Ke:**
 (Zzz)
 
  
-**Mash**
+**Mash:**
 The hanami picnickers are all down for the count,
 so that just leaves... Huh?
 
@@ -1217,19 +1217,19 @@ It looks like they're...hitting it off?
 
 ---
  
-**Medb**
+**Medb:**
 No way! You always make guys you like literally spill their guts for you? That's awesome!
 
  
-**Medb**
+**Medb:**
 I could never do that myself, and I wouldn't want to anyway since it'd make them worthless as soldiers, but that's definitely one way to make a guy literally fall for you!
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 You've got a little bit of an oni in you, don't you, sweetie? Fairy blood, you say? Iiinteresting...
 
  
-**Mash**
+**Mash:**
 I'm not sure what happened during the battle, but they seem to be having a lively conversation now...
 
  
@@ -1247,65 +1247,65 @@ I guess...it just goes to show the power of having things in common?
 
 ---
  
-**Mash**
+**Mash:**
 Yes. It may look like they've reached an understanding...
 
  
-**Mash**
+**Mash:**
 ...but I also get the feeling they could go right back into a fight to the death at the drop of a hat.
 
  
-**Mash**
+**Mash:**
 I suppose it reflects well on how open-minded they both are...
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 Say, what is it you want to do with my wine, anyway?
 
  
-**Medb**
+**Medb:**
 Oh, did I not mention that?
 Well...
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 ...Hmm, Is that so? That sounds kind of intriguing. Can't remember the last time someone entertained me instead of the other way around.
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 In that case...
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 ...I don't mind sharing some of my wine with you. Although...
 
  
-**Medb**
+**Medb:**
 Yes, yes, I know.
 I'll let you know when it's ready.
 
  
-**Mash**
+**Mash:**
 So...you got what you wanted?
 
  
-**Medb**
+**Medb:**
 Hehe, don't underestimate the power of royalty.
 
  
-**Medb**
+**Medb:**
 Of course the people I choose to requisition from are going to cry tears of joy and celebrate this day for the rest of their lives, like a second birthday.
 
  
-**Medb**
+**Medb:**
 Anyway, that takes care of the first item: wine with high magical energy affinity. Excellent wine at that since it's basically her purified magical energy!
 
  
-**Medb**
+**Medb:**
 Now, let's go requisition the next item!
 
 
-**--ARROW--**
+**--ARROW--:**
 
 
 ---
@@ -1316,11 +1316,11 @@ So what do we need next?
 
 ---
  
-**Medb**
+**Medb:**
 Good question. Here's a hint.
 
  
-**Medb**
+**Medb:**
 It's something...very sweet.
 
  
@@ -1330,12 +1330,12 @@ It's something...very sweet.
 **Fujimaru 1:**
 Sugar?
  
-**Medb**
+**Medb:**
 Ooh, so close. Yes, sugar is sweet,
 but it's not what we're after.
 
  
-**Mash**
+**Mash:**
 Something sweet that's not sugar...
 That could be any number of things.
 
@@ -1346,23 +1346,23 @@ That could be any number of things.
 **Fujimaru 2:**
 Romance?
  
-**Medb**
+**Medb:**
 ...Pffft!
 
  
-**Mash**
+**Mash:**
 Medb! There's no need to be rude!
 
  
-**Mash**
+**Mash:**
 I thought that was a lovely response! Even poetic!
 
  
-**Mash**
+**Mash:**
 That said, I've only ever read about romance in books, so I couldn't tell you exactly how it's sweet, but...
 
  
-**Medb**
+**Medb:**
 No, you're right. Romance IS pretty sweet. Hehehe.
 I just never expected to hear that here.
 
@@ -1371,72 +1371,72 @@ I just never expected to hear that here.
 
 ---
  
-**Medb**
+**Medb:**
 (Sigh) Okay, since you're as adorably clueless as ever, Master, I'll go ahead and spell it out for you. Honey. We're here for honey.
 
  
-**Mash**
+**Mash:**
 I see. True, honey is definitely sweet.
 But, are we really going to find it here?
 
  
-**Medb**
+**Medb:**
 I heard there's someone here who has it in ample supply. Let's see...
 
  
-**C：**
+**C：:**
 Huh? Honey?
 
  
-**Medb**
+**Medb:**
 Don't bother playing dumb.
 That witch in the purple robes told me you had it.
 
  
-**C：**
+**C：:**
 Well sure, I always keep some on hand to make kykeon.
 
  
-**C：**
+**C：:**
 Not every recipe uses honey,
 but Aeaea Island kykeon calls for lots of it.
 
  
-**C：**
+**C：:**
 ...Hold on a minute. You didn't come all this way just to demand I hand over my honey, did you?
 
  
-**Medb**
+**Medb:**
 Well obviously. I'm Queen Medb!
 The woman with charm sweeter than any honey!
 
  
-**C：**
+**C：:**
 That's obvious, is it? Maybe to you, but not to me.
 
  
-**C：**
+**C：:**
 But before we go any further here, let me give you my answer: hell no. I mean, how am I supposed to make kykeon without it?
 
  
-**C：**
+**C：:**
 Not to mention it's an essential sweetener for the other dishes in my banquet.
 
  
-**C：**
+**C：:**
 In fact, you showed up at just the right time, Piglet.
 
  
-**C：**
+**C：:**
 Well, it's not like I've been waiting for you to show up or anything. More that I was just thinking how I might entertain you if you did. That's all.
 
  
-**C：**
+**C：:**
 Now I can test those ideas and see if they work.
 That's all I care about. No, really.
 
  
-**C：**
+**C：:**
 Anyway, just sit tight and I'll make you some welcome kykeon right now. Know how they say anyone who shows up late needs to chug three drinks to catch up? I'm sure you understand where I'm going with that.
 
  
@@ -1452,15 +1452,15 @@ Yum, I can't wait.
 **Fujimaru 2:**
 I'm kind of already full right now, so...
  
-**C：**
+**C：:**
 Well, then we'll have to take a walk to burn off some of those calories, won't we!?
 
  
-**C：**
+**C：:**
 But as I'm sure you know, this island is riddled with rocky paths and uncertain footing. So, much as I'd rather not, I guess it falls to me to ensure my Master's safety and all.
 
  
-**C：**
+**C：:**
 All right, you've convinced me. Just hold my hand while we walk together and everything will be fine.
 
  
@@ -1468,162 +1468,162 @@ All right, you've convinced me. Just hold my hand while we walk together and eve
 
 ---
  
-**C：**
+**C：:**
 ...Anyway, queen of the Celts, you can't have my kykeon honey and that's that! Just give it up and leave already!
 
  
-**C：**
+**C：:**
 If you want honey so badly, go talk to the young Medea. She always keeps it on hand for pancakes.
 
  
-**Medb**
+**Medb:**
 I don't want just any old honey.
 
  
-**Medb**
+**Medb:**
 I need honey so tantalizingly sweet the smell alone would make you quiver all over.
 
  
-**Medb**
+**Medb:**
 Something so alluring a man would kill his own family for it... That's the kind of honey I'm looking for.
 
  
-**Medb**
+**Medb:**
 But since there is no such honey, I thought the stuff used by the witch of Aeaea would be a decent substitute.
 
  
-**Medb**
+**Medb:**
 You should be honored to give me your honey.
 Now hand it over.
 
  
-**C：**
+**C：:**
 A substitute! I hardly see why I should be honored, but THAT is why you're interfering with my kykeon making!? What do you take me for!?
 
  
-**Medb**
+**Medb:**
 Actually...now that I think of it,
 I have an even more basic question for you.
 
  
-**C：**
+**C：:**
 Yeah?
 
  
-**Medb**
+**Medb:**
 What's kykeon...?
 
  
-**C：**
+**C：:**
 Wha... Wha... You didn't even know THAT!?
 
  
-**C：**
+**C：:**
  
 This is beyond ridiculous!
 
  
-**C：**
+**C：:**
 ...Fine then. You want to know what kykeon is?
 I'll tell you what kykeon is!
 
  
-**C：**
+**C：:**
 Most people know it by its jingle, which says that it's delicious, nutritious, improves your complexion, and makes you lucky in love...
 
  
-**C：**
+**C：:**
 ...and these days, there have been pictures of people in bathtubs full of money talking about how kykeon led to their success.
 
  
-**C：**
+**C：:**
 Hehe, I tell you, it's not as easy being a trendsetter among trendsetters as you'd think!
 
  
-**Medb**
+**Medb:**
 You don't say.
 
  
-**C：**
+**C：:**
 Are you getting it now? As for what it looks like... I'm fresh out at the moment, so I'll have to conjure up an illusion.
 
  
-**C：**
+**C：:**
 There, see for yourself! Doesn't that make you want to dig in right this moment?
 
  
-**C：**
+**C：:**
 I can see you gazing longingly at it too, Piglet! How utterly shameless of you! What am I going to do with you!
 
  
-**C：**
+**C：:**
 Anyway, now do you understand? If you take my honey,
 I won't be able to make this any&ndash;
 
  
-**Medb**
+**Medb:**
 Oh, yeah, I got that. I'll admit, this kykeon stuff does seem pretty healthy, and I like that it's good for your complexion too.
 
  
-**C：**
+**C：:**
 Right? Right!?
 
  
-**Medb**
+**Medb:**
 But you know...I can't get over the fact that it's just so, well...
 
  
-**Medb**
+**Medb:**
 ...plain.
 
  
-**C：**
+**C：:**
 Wh-what do you mean, plain!?
 
  
-**C：**
+**C：:**
 W-well... Maybe I can admit that it lacks the presentation of a fancy entrée, since it's technically porridge, but...
 
  
-**C：**
+**C：:**
 No! On second thought, I will NOT admit that!
 
  
-**Medb**
+**Medb:**
 If I were you, I'd try to dress it up a little.
 Add a few more ingredients, a little color...
 
  
-**Medb**
+**Medb:**
 Really, the whole porridge thing is kind of old-fashioned to begin with, so maybe try and work out something a little less watery and dull?
 
  
-**Medb**
+**Medb:**
 I mean, this is supposed to be a dish you pull out to snag a guy you're interested in, right? Don't you think it being plain is a fatal flaw, then?
 
  
-**C：**
+**C：:**
 Stop! I don't want to hear it!
 
  
-**C：**
+**C：:**
 You... You...
 
  
-**C：**
+**C：:**
 Of course I know that!
 
  
-**C：**
+**C：:**
 But if I start dressing it up,
 it won't be kykeon anymore!
 
  
-**C：**
+**C：:**
 This is my thing! I can't just throw it all out and start over as the Queen Witch of risotto or something!
 
  
-**Mash**
+**Mash:**
 Senpai, the Queen Witch looks like she's about to burst into tears! Medb must have touched a nerve!
 
  
@@ -1633,7 +1633,7 @@ Senpai, the Queen Witch looks like she's about to burst into tears! Medb must ha
 **Fujimaru 1:**
 (Poor Queen Witch...)
  
-**C：**
+**C：:**
 Are you...pitying me, Piglet?
 That does it! I can't take it anymore!
 
@@ -1644,7 +1644,7 @@ That does it! I can't take it anymore!
 **Fujimaru 2:**
 (Auntie looks so cute right now...)
  
-**C：**
+**C：:**
 I can feel you staring at me, Piglet. Normally I'd be happy about that, but not right now. I am DONE!
 
  
@@ -1652,47 +1652,47 @@ I can feel you staring at me, Piglet. Normally I'd be happy about that, but not 
 
 ---
  
-**C：**
+**C：:**
 Prepare yourself, queen of the Celts! I'm going to turn you into a piglet and see how your meat works as a topping for my kykeon!
 
  
-**C：**
+**C：:**
 ...Yes, a topping, not an ingredient.
 I'm not making fried rice here.
 
  
-**Medb**
+**Medb:**
 If anyone's becoming a pig here, it's you.
 After all...
 
  
-**Medb**
+**Medb:**
 ...what goes together better than swine and whips!?
 
  
-**--BATTLE--**
+**--BATTLE--:**
 
-**C：**
+**C：:**
 Dammit!
 
  
-**Medb**
+**Medb:**
 Good! Now I've got the witch's honey too!
 
  
-**C：**
+**C：:**
 And after Master came all this way.
 
  
-**C：**
+**C：:**
 This was the perfect moment for me to have had kykeon ready to serve, and I didn't. I blew it.
 
  
-**C：**
+**C：:**
 I only get one chance to meet the sailors that stop by this island. Once that passes, that's it, they're gone... Not even coming back as a Heroic Spirit is enough to let me forget the ones that got away...
 
  
-**Mash**
+**Mash:**
 Master... Do you think you could say something to the Queen Witch to help her feel better?
 
  
@@ -1710,111 +1710,111 @@ I'll come back for kykeon once you have some honey again!
 
 ---
  
-**C：**
+**C：:**
 Really? You mean it? You promise? I'm gonna turn you into a pig if you're lying, okay?
 
  
-**C：**
+**C：:**
 Well, okay then. I guess I can wait. I'll make sure everything's ready the next time you come here.
 
  
-**C：**
+**C：:**
 All right, Queenie, you got what you came for, yeah? Good! Now get lost. Besides, you stink of fairies and alcohol, and I'm sick of it.
 
  
-**Medb**
+**Medb:**
 Hmph, I was just leaving anyway. I still have to get the last component, after all.
 
  
-**Medb**
+**Medb:**
 Although...this one's going to be the biggest hassle. You have to do a little ritual thing to get it.
 
  
-**Mash**
+**Mash:**
 Ritual...?
 
  
-**Medb**
+**Medb:**
 That's right. Here's a question for you two...
 
  
-**Medb**
+**Medb:**
 Where can I find a prime specimen of cow?
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Minamoto-no-Raikou**
+**Minamoto-no-Raikou:**
 Yes?
 
  
-**Medb**
+**Medb:**
 I-I see. Those certainly are impressive.
 
  
-**Medb**
+**Medb:**
 The gloss, the sheen, the sheer size...
 That is definitely a grade A cow.
 
  
-**Fergus**
+**Fergus:**
 Oh yes. Absolute prime all the way, Medb!
 
  
-**Fergus**
+**Fergus:**
 I've attempted to land her a number of times, but I've yet to lay so much as a finger on those beauties.
 
  
-**Fergus**
+**Fergus:**
 Perhaps it's the same principle as building a tolerance to electricity through repeated jolts, but the numbness I feel throughout my muscles is just as stimulating as what I get from training...
 
  
-**Mash**
+**Mash:**
 Um...can I ask what Fergus is doing here?
 
  
-**Medb**
+**Medb:**
 He seemed like the right man for the job, plus, he used to be on my side anyway, so I asked him to play the same part now that he did back then.
 
  
-**Mash**
+**Mash:**
 ...?
 
  
-**Fergus**
+**Fergus:**
 I loved Medb with all my heart back when I was a general of Connacht.
 
  
-**Fergus**
+**Fergus:**
 I see no reason to refuse a request for help.
 So, what do you think, Medb?
 
  
-**Medb**
+**Medb:**
 Yes, you were right. If someone bragged about this cow to me...I don't think I could contain myself.
 
  
-**Medb**
+**Medb:**
 I'm already jealous enough as it is.
 
  
-**Minamoto-no-Raikou**
+**Minamoto-no-Raikou:**
 ???
 
  
-**Medb**
+**Medb:**
 All right! I am queen, so I can't have anyone showing me up! That means I need to find a cow that's just as amazing as this one!
 
  
-**Medb**
+**Medb:**
 Luckily, I've heard rumors of an amazing bull that should do the trick nicely.
 
  
-**Medb**
+**Medb:**
 Let's go see about borrowing it. Onward!
 
  
-**Minamoto-no-Raikou**
+**Minamoto-no-Raikou:**
 Excuse me, but...what was that all about...?
 
  
@@ -1832,148 +1832,148 @@ Honestly, I haven't the foggiest.
 
 ---
  
-**Mash**
+**Mash:**
 All I can say for sure is that I have another bad feeling about what's going to happen next...
 
  
-**Medb**
+**Medb:**
 As queen, I hereby requisition that bull!
 Hand it over!
 
  
-**Euryale**
+**Euryale:**
 Huh?
 
  
-**Asterios**
+**Asterios:**
 Uh?
 
  
-**Fergus**
+**Fergus:**
 My queen is a woman of few words,
 so allow me to elaborate on her behalf.
 
  
-**Fergus**
+**Fergus:**
 Queen Medb, the former ruler of Connacht, once competed with her husband, Ailill, to see who had the best possessions.
 
  
-**Fergus**
+**Fergus:**
 Their treasure alone wasn't enough to settle the score, so the next thing they compared was livestock.
 
  
-**Fergus**
+**Fergus:**
 Unfortunately for Medb, she did not have a cow that could match up to Ailill's incredible steer, Finnbhennach.
 
  
-**Medb**
+**Medb:**
 Finnbhennach used to be mine, dammit! I never would've lost if he hadn't gone off to Ailill's side at some point!
 
  
-**Fergus**
+**Fergus:**
 So now, Medb would like to borrow the fabulous cow said to reside in Cooley, in the neighboring province of Ulster.
 
  
-**Euryale**
+**Euryale:**
 Uh, yeah, I still have no idea what you're on about.
 
  
-**Asterios**
+**Asterios:**
 You want...to play...with Euryale...and me?
 
  
-**Medb**
+**Medb:**
 I'm not here to play. You should be honored that the queen herself has come here asking to borrow your bull.
 
  
-**Euryale**
+**Euryale:**
 I-it's not like he's MY bull...
 
  
-**Euryale**
+**Euryale:**
 I just like riding him better than walking. And where do you get off talking to a goddess like that?
 
  
-**Medb**
+**Medb:**
 Well, I'm at least as much of a goddess as any old Greek bimbo.
 
  
-**Medb**
+**Medb:**
 I'm the undisputed queen of Connacht. My subjects worship me, I rule over them with a benevolent iron fist, and they show no mercy to any who might threaten our land.
 
  
-**Medb**
+**Medb:**
 What's a little pissant goddess holed up on a tiny island in the middle of nowhere compared to that?
 
  
-**Euryale**
+**Euryale:**
 What was that? That does it...
 
  
-**Asterios**
+**Asterios:**
 Don't...bully...Euryale!
 
  
-**Euryale**
+**Euryale:**
 I'm not being bullied!
 
  
-**Medb**
+**Medb:**
 Oh, by the way, have you seen Cú anywhere?
 I sent him an anonymous letter asking him to come.
 
  
-**Euryale**
+**Euryale:**
 Cú Chulainn? Of course not. You think I'd be here dealing with your nonsense myself if he was?
 
  
-**Euryale**
+**Euryale:**
 I'd have sicced that dog on you the moment you started ruining my mood.
 
  
-**Fergus**
+**Fergus:**
 Hmm. I'd think he would be here, seeing as he's part of Ulster...but perhaps he saw through Medb's ploy.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Whoever wrote this letter's in for it now!
 I'm gonna find them and plant my spear in their...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 No, wait.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Whoever wrote this knew exactly which of my buttons to push. Suspiciously so, in fact.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...This is Medb's handiwork. She might not've signed her name, but I can practically smell her all over this letter.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 And if she went to the trouble of sending me a letter like this...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Nope, forget it. It's obviously another one of her harebrained schemes.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I'm just gonna pretend I never got this and go back to fishing! There's nothing like it to clear your mind!
 
  
-**Medb**
+**Medb:**
 Hmm. It's too bad Cú didn't show up,
 but there's nothing we can do about that now.
 
  
-**Medb**
+**Medb:**
 Now, it's up to you guys whether I end up leaving this place with what I came for.
 
  
-**Mash**
+**Mash:**
 Sh-shouldn't we stop them, Senpai...?
 
  
@@ -1986,101 +1986,101 @@ Yeah. Abducting Asterios is going too far...
 
 ---
  
-**Fergus**
+**Fergus:**
 Now, now, hang on, Master.
 There's nothing to worry about.
 
  
-**Fergus**
+**Fergus:**
 Medb may be...Medb, but she is a true queen. I'm sure there is more to her plan than she's letting on.
 
  
-**Mash**
+**Mash:**
 I, uh, I see... So, she's actually just bluffing,
 and her real goal lies elsewhere?
 
  
-**Euryale**
+**Euryale:**
 Hmph... At this point, I don't even care about lending him out. I just hate the idea of doing what you want!
 
  
-**Euryale**
+**Euryale:**
 Get them, Asterios!
 
  
-**Asterios**
+**Asterios:**
 We should play...together!
 Let's all have...some fun!
 
  
-**Medb**
+**Medb:**
 Hehe, that's more like it. I love putting rowdy bulls in their place. Plus, it's good exercise!
 
  
-**Mash**
+**Mash:**
 They're about to fight! I am not okay with this!
 
  
-**Fergus**
+**Fergus:**
 Hahaha, I never said there wouldn't be any fighting.
 
  
-**Fergus**
+**Fergus:**
 But don't worry, everything will be fine. Medb's true goal lies in what comes before the fighting.
 
  
-**Fergus**
+**Fergus:**
 It would have gone faster if Cú Chulainn had shown up, but as it stands, how long this goes on is up to them.
 
  
-**Mash**
+**Mash:**
 ...?
 
  
-**Fergus**
+**Fergus:**
 All right, I'll make it simple. I'm sure you've already noticed, Master, but this is all just a game.
 
  
-**Fergus**
+**Fergus:**
 And as a game, the whole point is to have fun. As for what kind of game...I think you may have heard of it before.
 
  
-**Fergus**
+**Fergus:**
 You're taking part in a reenactment of the famous Cattle Raid of Cooley.
 
  
-**Fergus**
+**Fergus:**
 Not only that, two of the participants here even took part in the original one. Just keep that in mind and enjoy the show!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Medb**
+**Medb:**
 (Huff, huff...) Not bad...
 
  
-**Euryale**
+**Euryale:**
 Ugh, I can't believe you made me work so hard.
 Don't you know how frail I am?
 
  
-**Euryale**
+**Euryale:**
 How do you not see that even just making us run and sweat is just plain rude!?
 
  
-**Asterios**
+**Asterios:**
 Are you okay...Euryale?
 
  
-**Asterios**
+**Asterios:**
 ...
 
  
-**Asterios**
+**Asterios:**
 Leave...queen! From now on...no more games. You're already...bleeding. Keep going...and you'll bleed more!
 
  
-**Medb**
+**Medb:**
 Huh? I'm bleeding? Where?
 
  
@@ -2093,45 +2093,45 @@ You've got a little scratch around your navel...
 
 ---
  
-**Medb**
+**Medb:**
 Well, what do you know. I was enjoying this little workout so much I didn't even notice.
 
  
-**Medb**
+**Medb:**
 Okay, we can call it quits now.
 
  
-**Euryale**
+**Euryale:**
 What's that supposed to mean!?
 
  
-**Medb**
+**Medb:**
 I mean we're done here. I got what I came for.
 I never actually wanted that bull to begin with.
 
  
-**Euryale**
+**Euryale:**
 Huh?
 
  
-**Fergus**
+**Fergus:**
 The whole point of a game is in playing, right?
 That's just as true for Medb too.
 
  
-**Fergus**
+**Fergus:**
 It's not about what you can get from a game, it's about what you do in it. That's what she was really after, just the natural result of playing.
 
  
-**Mash**
+**Mash:**
 Come to think of it...Medb did say something about a ritual for this last component.
 
  
-**Fergus**
+**Fergus:**
 Indeed. That ritual was a reenactment of one of her most famous battles.
 
  
-**Fergus**
+**Fergus:**
 And what follows naturally from that battle? Blood shed in pain. And that's exactly what she needed.
 
  
@@ -2149,116 +2149,116 @@ So her blood was the last ingredient?
 
 ---
  
-**Medb**
+**Medb:**
 Didn't I tell you that?
 
  
-**Medb**
+**Medb:**
 It's actually supposed to be different blood, but of course, we Servants can't bleed unless we incarnate.
 
  
-**Medb**
+**Medb:**
 So I figured I could make do with pain and blood shed in a battle that recreates one of my legends.
 
  
-**Medb**
+**Medb:**
 I doubt it'll reach my true Noble Phantasm's level,
 but it should be a decent imitation.
 
  
-**Mash**
+**Mash:**
 Your true Noble Phantasm...?
 
  
-**Mash**
+**Mash:**
 Oh! Master, I think I know what she's up to now!
 
  
-**Mash**
+**Mash:**
 I've seen it in the database before.
 
  
-**Mash**
+**Mash:**
 Medb has a number of other possible Noble Phantasms besides her chariot, and one of them is&ndash;
 
  
-**Medb**
+**Medb:**
 Hehehe. Okay, let's start synthesizing these puppies.
 
  
-**Medb**
+**Medb:**
 I'll start with Shuten-Douji's magical energy-melting wine, add the Queen Witch's tantalizingly sweet honey...
 
  
-**Medb**
+**Medb:**
 ...and finish off with my blood. Mix them all together carefully, with a few little secret touches and...
 
  
-**Medb**
+**Medb:**
 Hehe... Hehehe! It's done!
 
  
-**Medb**
+**Medb:**
 It's a variation on My Red Mead. The sweetest liquor I can easily command under my current rule...
 
  
-**Medb**
+**Medb:**
 My new Siren Song, Dazzling Mead!
 
  
-**Medb**
+**Medb:**
 Its scent eviscerates any man who would defy me,
 and enthralls any man who obeys me...
 
  
-**Medb**
+**Medb:**
 It's the perfect Authority for a queen who's all about taking what she wants! You rock, Medb!
 
  
-**Mash**
+**Mash:**
 I'm not quite sure how you get mead from Japanese wine,
 since mead is made from fermented honey...
 
  
-**Mash**
+**Mash:**
 Still, at least I think I know why it's called “red” mead now.
 
  
-**Mash**
+**Mash:**
 I'd be hard-pressed to drink some if someone offered me a glass now that I know how it got its name...
 
  
-**Euryale**
+**Euryale:**
 What is that, wine? Yikes...
 It reeks of magical energy meant for Charm skills!
 
  
-**Euryale**
+**Euryale:**
 It might not be as strong as my gaze, but I doubt any ordinary human who caught a whiff of that stuff would be able to resist.
 
  
-**Euryale**
+**Euryale:**
 I thought you were a Rider.
 What are you doing with a Noble Phantasm like that?
 
  
-**Fergus**
+**Fergus:**
 I'd say that's because Medb is the Queen of Connacht first and a Rider second.
 
  
-**Fergus**
+**Fergus:**
 I've also heard that fairy blood runs through her veins.
 
  
-**Fergus**
+**Fergus:**
 No doubt that's because she needed fairy queen power to rule Connacht and keep it safe from its enemies.
 
  
-**Medb**
+**Medb:**
 Mmm, there we go! It looks, smells, and tastes perfect!
 
  
-**Medb**
+**Medb:**
 This'll be just the carrot I need to keep Connacht's citizens in line!
 
  
@@ -2271,36 +2271,36 @@ Oh yeah, I almost forgot that's why you were doing this.
 
 ---
  
-**Medb**
+**Medb:**
 That's right. You'll see. This will make my rule even more complete than it already was.
 
  
-**Medb**
+**Medb:**
 Now, no matter how my citizens choose to rebel against me, I'll be able to quell it with a metaphorical carrot and stick in equal measure!
 
  
-**Mash**
+**Mash:**
 To be honest, while I still have some...considerable concerns about this...
 
  
-**Mash**
+**Mash:**
 ...thinking about it from a more practical perspective...
 
  
-**Mash**
+**Mash:**
 ...I guess we should be glad that one of Chaldea's Servants has gotten stronger.
 
  
-**Euryale**
+**Euryale:**
 So, what, she just used me to level herself up?
 Now I'm really insulted.
 
  
-**Euryale**
+**Euryale:**
 You'd better make this up to me, Master.
 
  
-**Euryale**
+**Euryale:**
 In fact, I think this calls for doubling my vacation time and doubling her shifts to make up the difference.
 
  
@@ -2318,108 +2318,108 @@ In fact, I think this calls for doubling my vacation time and doubling her shift
 
 ---
  
-**Asterios**
+**Asterios:**
 Um...Euryale? What's...going on?
 I don't...get it.
 
  
-**Euryale**
+**Euryale:**
 ...It's nothing. Everything's fine.
 
  
-**Asterios**
+**Asterios:**
 But...we were...fighting. We hurt her.
 
  
-**Euryale**
+**Euryale:**
 Hmm, how can I put this...
 Let's say we were just play wrestling.
 
  
-**Asterios**
+**Asterios:**
 Wrestling! I've heard...of that!
 Quetzalcoatl's always...inviting me...to do it!
 
  
-**Asterios**
+**Asterios:**
 So that's...how you wrestle.
 
  
-**Fergus**
+**Fergus:**
 By the way, Medb, since I'm officially here as your lover, and your Charm mead turned out nicely...
 
  
-**Fergus**
+**Fergus:**
 ...what do you say we take this to the bedroom, have a glass ourselves, and see where things go from&ndash;
 
  
-**Medb**
+**Medb:**
 Now that it's done, the first thing I'm gonna do is give some to Cú!
 
  
-**Medb**
+**Medb:**
 Did he really think he could escape me just by not showing up? Silly Cú!
 
  
-**Fergus**
+**Fergus:**
 ...(Dejected)
 
  
-**Mash**
+**Mash:**
 There, there, Fergus...
 
  
-**Mash**
+**Mash:**
 Although, I have to ask...are you really okay with drinking Medb's mead?
 
  
-**Fergus**
+**Fergus:**
 You bet! Delicious booze is delicious booze,
 after all. Who cares what else might be in it?
 
  
-**Fergus**
+**Fergus:**
 As for the Charm effects, well, maybe I'll manage to shrug them off with sheer willpower...
 
  
-**Fergus**
+**Fergus:**
 ...or maybe I already fell prey to her charms long ago. Hahaha!
 
  
-**Fergus**
+**Fergus:**
 Still...that's a good question. Will the Celts' greatest hero agree to drink her mead?
 
  
-**Fergus**
+**Fergus:**
 And if he does...will he fall prey to her Charm?
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
  
-**Cú Chulainn**
+**Cú Chulainn:**
  
 ...!?
 
  
-**Emiya**
+**Emiya:**
 What is it, Lancer? Why's your rod shaking even though you haven't got a bite yet? Is this some kind of master angling trick?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 No, nothing like that.
 I just felt the most horrible chill down my spine.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...
 I think something terrible is about to happen.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Sorry Archer, I'll have to take a rain check on our fishing contest. Don't get me wrong! I'll still beat you when we pick this back up!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 It's just that every bone in my body is screaming at me to leave this place right now before...
 
 

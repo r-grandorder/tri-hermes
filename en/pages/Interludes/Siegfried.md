@@ -2,7 +2,7 @@
 
 ## Dragon Slayer
 
-**Siegfried**
+**Siegfried:**
 Ah Master, Mash Kyrielight, I need a word with you...
 Is now a good time?
 
@@ -23,33 +23,33 @@ Not a problem.
 
 
  
-**Mash**
+**Mash:**
 No, I don't mind.
 
  
-**Siegfried**
+**Siegfried:**
 ...I see.
 Well, where to start...
 
  
-**Siegfried**
+**Siegfried:**
 You know how I am the "Dragon Slayer?"
 
  
-**Mash**
+**Mash:**
 Of course, you defeated the evil dragon Fafnir, didn't you?
 
  
-**Siegfried**
+**Siegfried:**
 Yes. Afterward I bathed in its blood&ndash;
 and gained immortality from it.
 
  
-**Siegfried**
+**Siegfried:**
 Although, there is one part which was untouched by its blood. My back.
 
  
-**Siegfried**
+**Siegfried:**
 ...Well, that I'm aware of, at least.
 
  
@@ -69,187 +69,187 @@ Why did you leave it?
 
 
  
-**Siegfried**
+**Siegfried:**
 Let's just say I had my reasons.
 I'm terrible at explaining this.
 
  
-**Siegfried**
+**Siegfried:**
 You see, because I bathed in Fafnir's blood&ndash;
 I can resonate with "that dragon."
 
  
-**Siegfried**
+**Siegfried:**
 You could say it's like the relationship between Masters and Servants.
 
  
-**Siegfried**
+**Siegfried:**
 However, the link is extremely weak. It only allows us to confirm each other's survival at best.
 
  
-**Siegfried**
+**Siegfried:**
 During the battle in France, I was certain that Fafnir was destroyed, but...
 
  
-**Siegfried**
+**Siegfried:**
 It seems it's revived.
 
  
-**Mash**
+**Mash:**
 Wha...Fafnir has?!
 
  
-**Siegfried**
+**Siegfried:**
 Master, I beg of you.
 Return to France, and this time slay the dragon.
 
  
-**Siegfried**
+**Siegfried:**
 Won't you take me with you?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 All right, I'll start monitoring...
 Multiple signatures of lifeforms confirmed.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It goes without saying, they're not human.
 
  
-**Mash**
+**Mash:**
 Please look at this, Master!
 There are wyverns among them!
 
  
-**Siegfried**
+**Siegfried:**
 Did they survive that battle then recover?
 Or were they reborn?
 
  
-**Siegfried**
+**Siegfried:**
 ...In any case, they must be destroyed.
 Aim for the wyverns first. Let's go!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Siegfried**
+**Siegfried:**
 ...It looks like we got them for now.
 Let's look for Fafnir.
 
  
-**Mash**
+**Mash:**
 A ruined fortress.
 It looks like the wyverns attacked it.
 
  
-**Mash**
+**Mash:**
 But Doctor, I thought Fafnir was summoned by that Jeanne.
 
  
-**Mash**
+**Mash:**
 It's possible she, too is&ndash;
 
  
-**Siegfried**
+**Siegfried:**
 ...No, I doubt that.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Siegfried's correct.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 She needed the Grail to exist as a Servant, there's no sign of it in France.
 
  
-**Siegfried**
+**Siegfried:**
 I'm sure.
 ...I fear this is my fault.
 
  
-**Mash**
+**Mash:**
 ...Yours?
 
  
-**Siegfried**
+**Siegfried:**
 By defeating Fafnir, I left behind a legend and became a Heroic Spirit.
 
  
-**Siegfried**
+**Siegfried:**
 But, my very existence itself is also the proof that "Fafnir exists."
 
  
-**Siegfried**
+**Siegfried:**
 Not to mention it's already been summoned once here in France.
 
  
-**Siegfried**
+**Siegfried:**
 So long as Fafnir isn't killed completely, it will keep reviving.
 
  
-**Mash**
+**Mash:**
 But I thought its Master, Jeanne no longer exists...
 
  
-**Siegfried**
+**Siegfried:**
 Dragons generates magical energy simply by breathing.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 &ndash;I see. Standing atop of all Phantasmals,
 they never have to worry about magical energy.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Living. Just by doing that,
 it's possible to generate magical energy!
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Mash**
+**Mash:**
 Master, it's the wyverns!
 They've formed a pack and started to attack!
 
  
-**Siegfried**
+**Siegfried:**
 It's not easy being a "Dragon Slayer."
 Master, let's go!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Siegfried**
+**Siegfried:**
 &ndash;Hm.
 These wyverns were just born.
 
  
-**Mash**
+**Mash:**
 Born?
 
  
-**Siegfried**
+**Siegfried:**
 When dragons become as large as Fafnir, they can bear offspring on their own.
 
  
-**Siegfried**
+**Siegfried:**
 Just like these.
 
  
-**Siegfried**
+**Siegfried:**
 Most of them are dead, but even if a few survive&ndash;
 they'll eventually be surrounded by strong fantasies.
 
  
-**Siegfried**
+**Siegfried:**
 Then new Evil Dragons will be born.
 
  
-**Siegfried**
+**Siegfried:**
 It's because of that fear, we humans desperately fought the dragons.
 
  
@@ -268,37 +268,37 @@ You're brave.
 
 
  
-**Siegfried**
+**Siegfried:**
 I appreciate that, Master.
 Unfortunately, I was afraid.
 
  
-**Siegfried**
+**Siegfried:**
 I only killed the dragon because I was asked to.
 I suppose I'm the type who&ndash;just can't refuse a request.
 
  
-**Siegfried**
+**Siegfried:**
 To all warriors, the title Dragon Slayer was an eternal honor. ...I won't deny that I was motivated by fame.
 
  
-**Siegfried**
+**Siegfried:**
 But, it was so scary I regretted it immediately.
 
  
-**Mash**
+**Mash:**
 You still ended up victorious, right?
 
  
-**Siegfried**
+**Siegfried:**
 Yes, but as I said before, even I don't know how I won.
 
  
-**Siegfried**
+**Siegfried:**
 When I came to, there was the bloody dragon and my bloodstained self. Its lair was dyed red.
 
  
-**Siegfried**
+**Siegfried:**
 My skin which should have been badly burned was hardly hurt. ...It was strange, but I knew I had won.
 
  
@@ -308,7 +308,7 @@ My skin which should have been badly burned was hardly hurt. ...It was strange, 
 Were you happy?
 
  
-**Siegfried**
+**Siegfried:**
 Of course. The dragon was slain and I thought I could devote my entire life to realizing that.
 
  
@@ -318,7 +318,7 @@ Of course. The dragon was slain and I thought I could devote my entire life to r
 Was it fun?
 
  
-**Siegfried**
+**Siegfried:**
 ...Yes, it was fun.
 The moment I realized it, I gave an uncharacteristic shout.
 
@@ -326,68 +326,68 @@ The moment I realized it, I gave an uncharacteristic shout.
 ---
 
  
-**Siegfried**
+**Siegfried:**
 The treasure I gained eventually cast me into misfortune,
 but... I have no regrets or hesitations.
 
  
-**Siegfried**
+**Siegfried:**
 I know it's not the most enlightened way to put it,
 but I accepted the circumstances of my life.
 
  
-**Siegfried**
+**Siegfried:**
 I grant someone's wish.
 I accept their joy, their sadness, and their rage.
 
  
-**Siegfried**
+**Siegfried:**
 ...And that was enough to give my life fulfillment.
 Except&ndash;
 
  
-**Siegfried**
+**Siegfried:**
 !!!
 It seems our idle chatter is at an end.
 
  
-**Siegfried**
+**Siegfried:**
 I've located it&ndash;
 Which means it's located me, as well.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I've picked up a massive signature incoming...
 No doubt about it, it's Fafnir!
 
  
-**Siegfried**
+**Siegfried:**
 Now is the time to settle this!
 Let's go!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Siegfried**
+**Siegfried:**
 ...Farewell Fafnir.
 May you be destroyed, this time.
 
  
-**Mash**
+**Mash:**
 This is Mash.
 Fafnir's destruction confirmed.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yes, I've confirmed its destruction on my side as well.
 I'm scanning, but there's no sign at all.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I think you managed to finish him off this time.
 
  
-**Siegfried**
+**Siegfried:**
 Now it seems Balmung too has regained its original power.
 
  
@@ -401,45 +401,45 @@ Can you continue with your story?
 
 
  
-**Siegfried**
+**Siegfried:**
 ...There's nothing more to tell.
 We'll talk more next time we get the chance.
 
  
-**Siegfried**
+**Siegfried:**
 I'm grateful, let's return Master.
 
 
 ## In Search of Das Rheingold
 
-**Siegfried**
+**Siegfried:**
 Master, Mash Kyrielight.
 Forgive me, but I have a request.
 
  
-**Mash**
+**Mash:**
 Is it Fafnir again&ndash;?
 
  
-**Siegfried**
+**Siegfried:**
 No, that dragon was completely destroyed.
 Please rest assured.
 
  
-**Siegfried**
+**Siegfried:**
 But when the dragon revived, so did my lost Noble Phantasm. We must return to France and secure it&ndash;
 
  
-**Mash**
+**Mash:**
 We've arrived.
 
  
-**Mash**
+**Mash:**
 ...It's just as Siegfried said.
 I can sense a powerful presence.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I can confirm that, as well.
 Hang on while I find the shortest route.
 
@@ -454,329 +454,329 @@ What's the Noble Phantasm?
 
 
  
-**Siegfried**
+**Siegfried:**
 Have you never heard of the Rheingold?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The Rheingold
 ...The treasure you obtained.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I've heard it's a mountain of treasures that couldn't be exhausted even by all the people of the era.
 
  
-**Siegfried**
+**Siegfried:**
 That's an exaggeration.
 But it's enough to allow me, my children&ndash;
 
  
-**Siegfried**
+**Siegfried:**
 and even my grandchildren to grow old in luxury and still have some left over.
 
  
-**Siegfried**
+**Siegfried:**
 It's likely an aftereffect of Fafnir's resurrection.
 The Rheingold has been summoned, as well.
 
  
-**Siegfried**
+**Siegfried:**
 There's evil surrounding the gold.
 If we don't secure it, there will be trouble.
 
  
-**Mash**
+**Mash:**
 Trouble how?
 
  
-**Siegfried**
+**Siegfried:**
 For example... Suppose a man finds it. With one glance, the treasure would captivate him completely.
 
  
-**Siegfried**
+**Siegfried:**
 The captivated man would naturally spend the treasure.
 Once he did, he would become known as its owner.
 
  
-**Siegfried**
+**Siegfried:**
 Eventually, everything around him&ndash;will be drawn into a bloody struggle.
 The battle will drag on and spread like fire, without end.
 
  
-**Siegfried**
+**Siegfried:**
 In the end, the nation will be consumed by atrocities and executions, treachery and perfidy.
 
  
-**Siegfried**
+**Siegfried:**
 That's what Rheingold is.
 I regret having ever summoned it...
 
  
-**Mash**
+**Mash:**
 Understood. We need to prevent that from happening. Let's hurry to the location!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I've got the route.
 Hurry!
 
  
-**Siegfried**
+**Siegfried:**
 ...The gold has begun to attract evil creatures.
 Let's break through, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Siegfried**
+**Siegfried:**
 Hm...
 
  
-**Soldier A**
+**Soldier A:**
 That treasure...
 belongs to me!
 
  
-**Soldier B**
+**Soldier B:**
 Quiet!
 That's mine!
 
  
-**Siegfried**
+**Siegfried:**
 We're too late.
 The mind corruption has already begun.
 
  
-**Siegfried**
+**Siegfried:**
 We can disable them for now.
 Master, let's go!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 Will they be all right?
 
  
-**Siegfried**
+**Siegfried:**
 Once the Rheingold disappears from this nation, any related memories will also be erased and return to normal.
 
  
-**Siegfried**
+**Siegfried:**
 Let's hurry before we have casualties.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 We're almost at our destination.
 However, I am picking up multiple signatures around it.
 
  
-**Mash**
+**Mash:**
 It's spacious.
 ...Master, please stand back.
 
  
-**Mash**
+**Mash:**
 The signatures the Doctor mentioned are approaching!
 
  
-**Siegfried**
+**Siegfried:**
 We're done once we defeat these.
 What?
 
  
-**E：???**
+**E：???:**
 ...It's been a while, my friend.
 
  
-**Siegfried**
+**Siegfried:**
 You're!?
 
  
-**E：???**
+**E：???:**
 No need to be surprised.
 You're not the only one who obtained the Rheingold.
 
  
-**E：???**
+**E：???:**
 I, Hagen, killed you to acquire it.
 
  
-**Mash**
+**Mash:**
 Hagen...I believe he was the one who killed Siegfried from behind...
 
  
-**Mash**
+**Mash:**
 It seems he was summoned using the Rheingold as the catalyst.
 
  
-**Hagen**
+**Hagen:**
 Exactly. Though, I only did it because this guy asked me.
 Right, my friend?
 
  
-**Siegfried**
+**Siegfried:**
 ...If you think of me as a friend, stand aside Hagen.
 
  
-**Hagen**
+**Hagen:**
 I refuse. This treasure is mine.
 I killed you to obtain it.
 
  
-**Hagen**
+**Hagen:**
 I won't give it to a wench like Kriemhild.
 I won't give it to a coward like you who chose death!
 
  
-**Hagen**
+**Hagen:**
 This gold! This treasure!
 Everything is mine!
 
  
-**Siegfried**
+**Siegfried:**
 &ndash;No matter what I say, it will only be an excuse.
 
  
-**Siegfried**
+**Siegfried:**
 It's true that I am a coward. I should have stood firm,
 and found a way to break through.
 
  
-**Siegfried**
+**Siegfried:**
 That tragedy was not one I schemed...
 Even then, there's no doubt that I am responsible.
 
  
-**Siegfried**
+**Siegfried:**
 ...However.
 I will retrieve the Rheingold.
 
  
-**Siegfried**
+**Siegfried:**
 Not for my own greed,
 but because it is just.
 
  
-**Hagen**
+**Hagen:**
 &ndash;Haha. Says the man who wielded his sword not knowing what is just!
 
  
-**Siegfried**
+**Siegfried:**
 You're correct. When I was alive,
 I wielded my sword in ignorance.
 
  
-**Siegfried**
+**Siegfried:**
 However, lately I have finally been able to see my own righteousness.
 
  
-**Siegfried**
+**Siegfried:**
 I will have my wish granted&ndash;
 Hagen!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Hagen**
+**Hagen:**
 &ndash;Hmph, ruin it is.
 That's fine, I didn't want this gold in the first place.
 
  
-**Siegfried**
+**Siegfried:**
 What, you were just venting?
 
  
-**Hagen**
+**Hagen:**
 What else did you think it was?
 
  
-**Hagen**
+**Hagen:**
 ...I was happy when I could drink and joke with you.
 
  
-**Hagen**
+**Hagen:**
 I'm the only one that could have assaulted you from behind in that situation.
 
  
-**Hagen**
+**Hagen:**
 I can see you wanted it to be by my blade, as you trusted me.
 
  
-**Hagen**
+**Hagen:**
 However&ndash;did you not imagine that you would hurt my heart doing so?
 
  
-**Hagen**
+**Hagen:**
 Did you not think it would infuriate your wife Kriemhild?
 
  
-**Siegfried**
+**Siegfried:**
 ...You're right.
 Seems I knew little about emotions.
 
  
-**Siegfried**
+**Siegfried:**
 No, more than anything else&ndash;since I was asked to,
 I believed nothing else could have been done.
 
  
-**Siegfried**
+**Siegfried:**
 I showed excessive lack of interest in everything.
 
  
-**Hagen**
+**Hagen:**
 You neglected your life, your hope, and most of all your desires.
 
  
-**Hagen**
+**Hagen:**
 You may have been fine with that, but you should've noticed those around you couldn't bear it.
 
  
-**Siegfried**
+**Siegfried:**
 ...Yeah.
 
  
-**Hagen**
+**Hagen:**
 Then, let me ask you.
 &ndash;Do you have any wish as you are now?
 
  
-**Siegfried**
+**Siegfried:**
 I do. I had decided this from before. In this second life&ndash; I'll protect justice, and be proud of it.
 
  
-**Siegfried**
+**Siegfried:**
 I care not about the opinions of others.
 I merely wish that "I myself want to be as such."
 
  
-**Siegfried**
+**Siegfried:**
 My dream is&mdash;to be a hero of justice.
 
  
-**Hagen**
+**Hagen:**
 ...Hmph, such a childish dream, much like you.
 But that is fine.
 
  
-**Hagen**
+**Hagen:**
 I will entrust the Rheingold to you.
 I'm sure you'll be able to deal with it properly&mdash;
 
  
-**Siegfried**
+**Siegfried:**
 Master, this is what I couldn't tell you earlier.
 I neglected myself too much, and ended up causing tragedy.
 
  
-**Siegfried**
+**Siegfried:**
 I will not repeat my mistake again.
 I want to become a hero of justice and prevent it.
 
  
-**Siegfried**
+**Siegfried:**
 Is it absurd...
 to wish for that?
 
@@ -797,7 +797,7 @@ It is not absurd.
 
 
  
-**Siegfried**
+**Siegfried:**
 ...Thank you Master.
 I give you my best regards for the future.
 

@@ -5,7 +5,7 @@
 　　　　　　　　　– Chaldea Depths –
 
  
-**???**
+**???:**
 ...“A.”
 What's the password?
 
@@ -22,25 +22,25 @@ What's the password?
 **Fujimaru 2:**
 Uh...you tell me?
  
-**???**
+**???:**
 Ugh, Master, you're killing me here.
 
  
-**???**
+**???:**
 I mean, I can tell it's you from your voice,
 but come on, this was your idea, remember?
 
  
-**???**
+**???:**
 Personally, I can't help but think the foresight to not just let everyone in willy-nilly is prooobably pretty important when it comes to security.
 
  
-**Mash**
+**Mash:**
 I couldn't agree more.
 Let's see, I think the password was...“P.”
 
  
-**???**
+**???:**
 That's it. Hang on, I'll get the door now.
 Just don't forget the password once the meeting starts.
 
@@ -49,7 +49,7 @@ Just don't forget the password once the meeting starts.
 
 ---
  
-**Mash**
+**Mash:**
 It looks like everyone we invited to the meeting is already here...
 
  
@@ -62,86 +62,86 @@ Sorry we're late.
 
 ---
  
-**Hektor**
+**Hektor:**
 Nah, you're right on time.
 The rest of us just showed up early is all.
 
  
-**Da Vinci**
+**Da Vinci:**
 I was just thinking we might need to address this little issue, and this seemed like a good chance.
 
  
-**Holmes**
+**Holmes:**
 I concur...though I really must ask: Was it truly necessary to call on the professor for this?
 
  
-**E：???**
+**E：???:**
 To whom else might Master turn when seeking true intelligence?
 
  
-**E：???**
+**E：???:**
 [♂ He /♀️ She} is not concerned with trifling things like good and evil. [♂ He /♀️ She} merely wishes to bring as many capable minds to bear on the issue as possible.
 
  
-**E：???**
+**E：???:**
 Were I you, I would take this as a sign of how very dire the situation truly is.
 
  
-**E：???**
+**E：???:**
 Or are you so caught up in your “elementary” deductions and obsessions that you fail to see the purity of Master's genuinely good intentions, O “Great” Detective?
 
  
-**Holmes**
+**Holmes:**
 I never thought I would see the day when an evil genius lectured me about good intentions... Still, you are right about one thing. This is, in part, a problem of sensitivity.
 
  
-**Holmes**
+**Holmes:**
 And we can certainly use a multitude of opinions on how best to deal with it.
 
  
-**Hektor**
+**Hektor:**
 My thoughts exactly. The fact that we're all here at least means that we share the same goal, so let's try to get along, okay, everyone?
 
  
-**Hektor**
+**Hektor:**
 Why don't you two take a seat wherever you like,
 Master and Mash, and then we can get started?
 
  
-**Da Vinci**
+**Da Vinci:**
 All right, I'm pretty sure everyone here is on the same page, but just to be totally clear...
 
  
-**Da Vinci**
+**Da Vinci:**
 ...left unchecked, this A and P problem could end up destroying Chaldea as we know it.
 
  
-**Da Vinci**
+**Da Vinci:**
 What's our current status, Hektor?
 
  
-**Hektor**
+**Hektor:**
 I'd say we're just barely hanging on by a thread.
 Lucky for us, P doesn't yet know that A's here.
 
  
-**Holmes**
+**Holmes:**
 That may be, but the situation remains far too precarious for comfort. Other Servants sympathetic to our cause are taking great pains not to speak A's name in front of P...
 
  
-**Holmes**
+**Holmes:**
 ...but then, there are plenty of Servants who delight in mischief or destruction with no such qualms.
 
  
-**Holmes**
+**Holmes:**
 I can only surmise that the reason such Servants have not already done so is because they are either unaware of A and P's relationship, or of the fact that the situation is as volatile as it is.
 
  
-**Holmes**
+**Holmes:**
 Which is to say that we have thus far avoided disaster only through good fortune.
 
  
-**E：???**
+**E：???:**
 Then, to put it another way&ndash;
 
  
@@ -154,73 +154,73 @@ It's just a matter of time until P finds out about A.
 
 ---
  
-**Mash**
+**Mash:**
 Right. When all we have to rely on is luck,
 things can take a very bad turn very quickly.
 
  
-**Mash**
+**Mash:**
 So, while P is completely unaware of Achi&ndash;
 
  
-**Mash**
+**Mash:**
 Er, I mean, while P is completely unaware of A being here, we should take this opportunity and come up with a plan.
 
  
-**Mash**
+**Mash:**
 Which is why it was so smart of Senpai to think to hold this meeting.
 
  
-**Hektor**
+**Hektor:**
 Sure, but if we don't come up with something feasible, then we'll just have been spinning our wheels here.
 
  
-**Hektor**
+**Hektor:**
 I've been mulling over all sorts of strategies,
 but this isn't exactly an easy problem to solve.
 
  
-**Hektor**
+**Hektor:**
 Hahaha, if I wasn't so directly involved,
 I'd be headed for the hills even as we speak.
 
  
-**Hektor**
+**Hektor:**
 Then again, P only came along after I died,
 and I only really know A because he killed me...
 
  
-**Hektor**
+**Hektor:**
 ...Hm? Hang on. Does that mean this isn't my problem?
 I can run away and let someone else handle it?
 
  
-**Mash**
+**Mash:**
 I understand that you have a complicated and maybe not very close relationship with them, but you ARE closer to them than anyone here.
 
  
-**Mash**
+**Mash:**
 Please, help us keep Chaldea safe.
 
  
-**Hektor**
+**Hektor:**
 Yup, don't worry, I was just joking. No sense running away from home when it leaves you with no home to come back to, after all.
 
  
-**Holmes**
+**Holmes:**
 Relationship, hmm... A good point. We should begin by making certain that we are all working with the same fundamental understanding of these two.
 
  
-**Holmes**
+**Holmes:**
 And the one best suited to confirm that is,
 of course, you, [♂ Mr. /♀️ Ms.} Fujimaru.
 
  
-**Holmes**
+**Holmes:**
 Would you be so kind as to tell us your impressions of A and P again? No need to worry about maintaining objectivity.
 
  
-**Holmes**
+**Holmes:**
 The question is, what does she think of him,
 and what does he, in turn, think about her?
 
@@ -239,161 +239,161 @@ Okay. It looks like P's...
 
 ---
  
-**Da Vinci**
+**Da Vinci:**
 Hmm, just as I thought. Their relationship couldn't be more hostile even if they worked at it.
 
  
-**Da Vinci**
+**Da Vinci:**
 I think your impressions are right on the money, Fujimaru.
 
  
-**Da Vinci**
+**Da Vinci:**
 It's hard to tell if P was always like this, or if her Berserker tendencies have affected her original personality...
 
  
-**Da Vinci**
+**Da Vinci:**
 ...but it's not just that she wants to kill A, though that's certainly a significant motivating factor.
 
  
-**Da Vinci**
+**Da Vinci:**
 More than anything, she wants to avenge the humiliation she suffered at his hands in the past.
 
  
-**Da Vinci**
+**Da Vinci:**
 Which is to say, she wants to face him again,
 fair and square, warrior to warrior, and win.
 
  
-**Hektor**
+**Hektor:**
 Meanwhile, A's going around saying...
 
  
-**Hektor**
+**Hektor:**
 “I don't mind making amends by letting her kill me,
 but if I die, I won't be able to help Master anymore.”
 
  
-**Hektor**
+**Hektor:**
 I knew it, we're screwed.
 I'm gonna have to make a run for it after all.
 
  
-**Hektor**
+**Hektor:**
 This is all beyond me!
 
  
-**Mash**
+**Mash:**
 Well, I think that A might be consciously trying to give P her space.
 
  
-**Mash**
+**Mash:**
 It seems to me like he's being as careful as possible not to run into her by accident...
 
  
-**Hektor**
+**Hektor:**
 I like to think I'm pretty good at giving people the runaround myself...
 
  
-**Hektor**
+**Hektor:**
 So I can tell you pretty confidently that him doing so is his way of saying he has no intention of fighting her...
 
  
-**Hektor**
+**Hektor:**
 Why is that? Because he thinks if they fight, he'll end up killing her. He really can't imagine any other outcome.
 
  
-**Hektor**
+**Hektor:**
 And since if he killed her, she wouldn't be able to help Master anymore, he doesn't want to do that.
 
  
-**Hektor**
+**Hektor:**
 But let's say Master wasn't part of this equation,
 and so that wasn't a concern for him.
 
  
-**Holmes**
+**Holmes:**
 Since he says he would be willing to let her kill him, the answer is obvious.
 
  
-**Holmes**
+**Holmes:**
 Once again, he would refuse to fight,
 and simply offer himself up to be killed.
 
  
-**Hektor**
+**Hektor:**
 Right. In either case, there's no scenario where he gives her the fight she wants so much.
 
  
-**Da Vinci**
+**Da Vinci:**
 Hmm... That does sound like a serious problem.
 
  
-**Da Vinci**
+**Da Vinci:**
 A couldn't possibly misunderstand what P wants more.
 He just thinks she's upset about him killing her.
 
  
-**Mash**
+**Mash:**
 So can't we just explain it to him and clear up the misunderstanding that way?
 
  
-**Hektor**
+**Hektor:**
 No, I don't think someone else telling him would make any difference.
 
  
-**Hektor**
+**Hektor:**
 One's a Berserker, and the other's a hero known for his unfailing strength of will.
 
  
-**Hektor**
+**Hektor:**
 That, uh, may just be a nice way of saying he's a stubborn ass who only does things his own way.
 
  
-**Hektor**
+**Hektor:**
 At any rate, we might be able to convince A, or even brainwash him, but I don't see that working on a Berserker.
 
  
-**E：???**
+**E：???:**
 Hehehe, that sounds much like the relationship between a great detective and a villain...
 
  
-**E：???**
+**E：???:**
 ...in that their very natures make it impossible for them to coexist.
 
  
-**E：???**
+**E：???:**
 At least, perhaps that is the case for the versions of Rider A and Berserker P here in Chaldea.
 
  
-**Holmes**
+**Holmes:**
 What's this? A professor of mathematics already giving up on solving our little puzzle? How shocking. Or are you no longer listing mathematics as a specialty?
 
  
-**E：???**
+**E：???:**
 Hah! Mathematicians are not too proud to admit that there are some things even mathematics cannot tell us, Holmes.
 
  
-**E：???**
+**E：???:**
 Perhaps I should offer you a refresher on irrational numbers? Or how a circle's diameter is proportionate to its circumference?
 
  
-**Da Vinci**
+**Da Vinci:**
 You two can bicker all you want later. I swear, it'd be a blessing if the conflict between A and P was as straightforward as the one between you two.
 
  
-**Da Vinci**
+**Da Vinci:**
 I know this is a difficult problem to solve, but the whole reason we're all here is that we can't just ignore it.
 
  
-**Mash**
+**Mash:**
 That's exactly right.
 
  
-**Mash**
+**Mash:**
 If we don't do something, it will only be a matter of time until they run into each other, and the results of that will be catastrophic.
 
  
-**Mash**
+**Mash:**
 So we have to figure out some way to improve their relationship as much as possible...
 
  
@@ -411,68 +411,68 @@ We need all the brains we can get.
 
 ---
  
-**E：???**
+**E：???:**
 ...Good grief. You certainly know how to take the fun out of a good evil scheme.
 
  
-**Holmes**
+**Holmes:**
 Rest assured, we have not given up. We are just about to begin deliberations on the best possible solution.
 
  
-**Hektor**
+**Hektor:**
 Great!
 
  
-**Hektor**
+**Hektor:**
 So now that the two smarty-pants have put their minds to it, I think this old man should go ahead and take his lea&ndash;
 
  
-**Da Vinci**
+**Da Vinci:**
 Nice try.
 
  
-**Hektor**
+**Hektor:**
 I swear, something about you serious types always messes me up. Not that I've ever really properly faced one before, but still.
 
  
-**Hektor**
+**Hektor:**
 The best I've been able to do is throw something at them from as far away as I can manage...
 
  
-**Da Vinci**
+**Da Vinci:**
 That's enough of that. You're not getting out of this. Besides, you owe her, don't you?
 
  
-**Hektor**
+**Hektor:**
 Well sure.
 
  
-**Hektor**
+**Hektor:**
 I really am grateful to her for keeping Troy safe after I kicked the bucket.
 
  
-**Hektor**
+**Hektor:**
 I heard things looked really bad for a while once I was gone, so all of Troy might've folded if she hadn't come along.
 
  
-**Hektor**
+**Hektor:**
 Hell, the war might've ended so fast that Odysseus wouldn't even have had to bother making the Trojan horse. It would've been a massacre... Well, even more than it already was.
 
  
-**Hektor**
+**Hektor:**
 Well, okay. Fighting on the defensive side is my specialty, and I guess you could say this is a battle to protect Chaldea.
 
  
-**Holmes**
+**Holmes:**
 Can I take that as your consent to participate in our plan?
 
  
-**Hektor**
+**Hektor:**
 What else can I do, right?
 But you'll have to forgive me if I end up running away.
 
  
-**Hektor**
+**Hektor:**
 Like I keep saying, I don't ever want to fight Achilles again if I can help&ndash;
 
  
@@ -485,144 +485,144 @@ Ah.
 
 ---
  
-**E：???**
+**E：???:**
 Ah.
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Da Vinci**
+**Da Vinci:**
 What the hell? The whole reason we're using code names is because it's too dangerous to even mention their real ones right now! You realize that, don't you!?
 
  
-**Da Vinci**
+**Da Vinci:**
 That's why you've gotta call him A, dammit!
 
  
-**Holmes**
+**Holmes:**
 ...I'm afraid it is too late now.
 
  
-**Penthesilea**
+**Penthesilea:**
 WHO SAID “ACHILLES”!?
 
  
-**Hektor**
+**Hektor:**
 Ahhh!!!
 
  
-**Mash**
+**Mash:**
 Sh-she just burst in through the wall like it was nothing!
 
  
-**Penthesilea**
+**Penthesilea:**
 I know I heard his name... And if I heard his name, that means he must be here...
 
  
-**Penthesilea**
+**Penthesilea:**
 Yes! I can smell him! He must be here!
 HE MUST BE! ACHILLES!!!
 
  
-**Penthesilea**
+**Penthesilea:**
 Where is he...
 
  
-**Penthesilea**
+**Penthesilea:**
 Where could he be...?
 
  
-**Hektor**
+**Hektor:**
 A-are you sure he's really here? Maybe you're just imagining things, you know? That'd be my guess.
 
  
-**Hektor**
+**Hektor:**
 I mean, look around. He's not in here, right?
 So I'm pretty sure he isn't anywhere in Chaldea either.
 
  
-**Penthesilea**
+**Penthesilea:**
 (Sniff) This smell... Is that...a Greek man...?
 
  
-**Hektor**
+**Hektor:**
 Urk.
 
  
-**Penthesilea**
+**Penthesilea:**
 Yes... I smell Greece on you.
 And that can only mean...you are Achilles!
 
  
-**Penthesilea**
+**Penthesilea:**
 There you are, Achilles!!!
 
  
-**Hektor**
+**Hektor:**
 Are you kidding me!?
 
  
-**Hektor**
+**Hektor:**
 I'm a Trojan, born and raised!
 If anything, I'm on your side, dammit!
 
  
-**E：???**
+**E：???:**
 I'm afraid she is no longer able to listen to reason! Hah! There is nothing like seeing a true Berserker at work!
 
  
-**Hektor**
+**Hektor:**
 Hey! This is NOT funny! Help me, would you!?
 
  
-**Holmes**
+**Holmes:**
 Really, this all depends on how she defines what a Greek man is.
 
  
-**Holmes**
+**Holmes:**
 In your case, you may have spent so much time fighting the Greeks that their blood and sweat ended up marking you with their scent.
 
  
-**Hektor**
+**Hektor:**
 Calm analysis is really not going to do much for me here!
 
  
-**Hektor**
+**Hektor:**
 If you're gonna make me promise not to run away and abandon you guys, the least you could do is return the favor!
 
  
-**Da Vinci**
+**Da Vinci:**
 And we will.
 First, we have to get her to calm down.
 
  
-**Da Vinci**
+**Da Vinci:**
 Fujimaru, you handle the orders!
 
  
-**Mash**
+**Mash:**
 Let's try to restrain her as peacefully as we can, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Penthesilea**
+**Penthesilea:**
 Nnn...
 
  
-**Penthesilea**
+**Penthesilea:**
 ...
 Where am I...?
 
  
-**Penthesilea**
+**Penthesilea:**
 So, this is a battlefield.
 But...why?
 
  
-**Penthesilea**
+**Penthesilea:**
 Do I know this place...?
 
  
@@ -640,12 +640,12 @@ Good morning, Your Majesty.
 
 ---
  
-**Penthesilea**
+**Penthesilea:**
 Hm? You're...my Master.
 Yes. I recognize you.
 
  
-**Hektor**
+**Hektor:**
 Um...how about me? Do you know who I am?
 
  
@@ -658,75 +658,75 @@ Um...how about me? Do you know who I am?
 
 ---
  
-**Penthesilea**
+**Penthesilea:**
 Ah... Yes. I know you. As I recall,
 you are...Hektor, of the Shining Helmet.
 
  
-**Penthesilea**
+**Penthesilea:**
 You are the son of King Priam and Queen Hecuba. You are the prince of Troy, wielder of the sacred sword Durendal.
 
  
-**Hektor**
+**Hektor:**
 U-uh, yeah, that's right.
 
  
-**Hektor**
+**Hektor:**
 (Phew. Looks like getting that earlier rampage out of her system helped her calm down a bit...)
 
  
-**Hektor**
+**Hektor:**
 Okay, so if you remember who I am,
 you should remember this place too, right?
 
  
-**Hektor**
+**Hektor:**
 This is Troy, my home.
 I'd give anything to keep it safe.
 
  
-**Hektor**
+**Hektor:**
 And this is the battlefield where you and your Amazons came to help us.
 
  
-**Penthesilea**
+**Penthesilea:**
 Hm? But... That's strange... What is this feeling nagging at the back of my mind...?
 
  
-**Hektor**
+**Hektor:**
 Hey now, no spacing out on the battlefield, all right?
 
  
-**Hektor**
+**Hektor:**
 Where else're you gonna find Troy's crown prince fighting for his homeland?
 
  
-**Penthesilea**
+**Penthesilea:**
 Hmm... Yes, I suppose that makes sense...
 
  
-**Penthesilea**
+**Penthesilea:**
 Yes, I remember now. I made a terrible mistake once, and so came to save Troy, hoping to atone.
 
  
-**Hektor**
+**Hektor:**
 Never mind the backstory. Didn't you also think this would be a perfect chance to demonstrate the Amazons' strength and bravery to the world?
 
  
-**Hektor**
+**Hektor:**
 That's why you brought along your finest warriors, isn't it?
 
  
-**Penthesilea**
+**Penthesilea:**
 ...Yes, I did. Are they here? What am I saying,
 of course they are. I brought them.
 
  
-**Hektor**
+**Hektor:**
 You bet they're here. Da Vinci went all out making sure this simulation was as realistic as poss&ndash;
 
  
-**Hektor**
+**Hektor:**
 I mean, never mind.
 
  
@@ -744,85 +744,85 @@ Let's try gathering them here.
 
 ---
  
-**Penthesilea**
+**Penthesilea:**
 Agreed.
 
  
-**Penthesilea**
+**Penthesilea:**
 Heed my call, my valiant Amazons!
 Your queen, Penthesilea, is here!
 
  
-**Penthesilea**
+**Penthesilea:**
 Chlonie! Polemussa! Derinoe!
 Euandra, Antandra, Bremussa!
 
  
-**Amazon**
+**Amazon:**
 Yes, my queen!
 
  
-**Penthesilea**
+**Penthesilea:**
 Hippothoe! Where are Harmotoe,
 Alchibie, and Antibrotae!?
 
  
-**C：Amazon**
+**C：Amazon:**
 We are right here, Your Majesty!
 
  
-**Penthesilea**
+**Penthesilea:**
 What of Derimachae, or Thermodosa!?
 
  
-**D：Amazon**
+**D：Amazon:**
 We are at your command, Your Majesty! Say the word,
 and our spears will run red with our enemies' blood!
 
  
-**Penthesilea**
+**Penthesilea:**
 There is something about your faces and equipment that seems...different, somehow. Well, I suppose that is to be expected after marching all the way here.
 
  
-**Penthesilea**
+**Penthesilea:**
 They have responded to my call,
 and so can only be my subordinates!
 
  
-**Penthesilea**
+**Penthesilea:**
 Very well then... Attention, my twelve elite warriors. Saviors of Troy.
 
  
-**Penthesilea**
+**Penthesilea:**
 The time for battle is at hand.
 
  
-**Hektor**
+**Hektor:**
 Oh, just so we're all on the same page, the enemies are the guys coming in from over there.
 
  
-**Penthesilea**
+**Penthesilea:**
 Hektor, I have no objection to you or your army joining the battle, but do not interfere with us.
 
  
-**Penthesilea**
+**Penthesilea:**
 If you or any of your men come near us,
 I cannot promise you will survive doing so.
 
  
-**Hektor**
+**Hektor:**
 Yikes. Good thing I warned them ahead of time.
 
  
-**Hektor**
+**Hektor:**
 Besides, this old man has never been one to stay near the front lines, and that's not about to change now.
 
  
-**Hektor**
+**Hektor:**
 (Gotta say, though...it looks like she's really not seeing anything besides the enemies right in front of her. Ah well, guess this is a good chance to get her warmed up.)
 
  
-**Hektor**
+**Hektor:**
 Okay Master, let's start with Phase One.
 
  
@@ -835,26 +835,26 @@ Let's all make sure we don't get hurt!
 
 ---
  
-**Penthesilea**
+**Penthesilea:**
 My Amazons!
 We are the proud, fearless descendants of Ares.
 
  
-**Penthesilea**
+**Penthesilea:**
 We know neither fear nor defeat on the battlefield!
 
  
-**Penthesilea**
+**Penthesilea:**
 We know only victory, and the blood of our foes. Our enemies will know only fear and despair as they die!
 
  
-**Penthesilea**
+**Penthesilea:**
 Your queen commands you: Roar!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Penthesilea**
+**Penthesilea:**
 I will tear you to pieces!
 
  
@@ -872,16 +872,16 @@ I love how you don't hold anything back when you attack.
 
 ---
  
-**Penthesilea**
+**Penthesilea:**
 Heh... That is how we fight.
 We have no need of cheap tricks.
 
  
-**Hektor**
+**Hektor:**
 Hmm, as a guy who depends on cheap tricks and strategies to stay alive, I gotta say that stings.
 
  
-**Penthesilea**
+**Penthesilea:**
 All that aside...these foes are quite skilled.
 They make for a good challenge.
 
@@ -895,105 +895,105 @@ They do?
 
 ---
  
-**Penthesilea**
+**Penthesilea:**
 The fact that we have yet to completely dominate them after all this fighting speaks volumes.
 
  
-**Hektor**
+**Hektor:**
 Well sure they're tough.
 It'd be weird if they weren't.
 
  
-**Hektor**
+**Hektor:**
 Remember, we're up against the Achaean army.
 
  
-**Hektor**
+**Hektor:**
 They're sparing no effort to invade Troy and take back Helen after my little brother, Paris, abducted her, and they're totally in the right to do so.
 
  
-**Hektor**
+**Hektor:**
 They've even got the gods' blessing...though we do have some gods on our side, too.
 
  
-**Hektor**
+**Hektor:**
 And then there's all the heroes they've got who're as strong as gods in their own right.
 
  
-**Hektor**
+**Hektor:**
 Agamemnon, Odysseus, Patroclus, the two Ajaxes...
 
  
-**Hektor**
+**Hektor:**
 So...it shouldn't be long now before you-know-who shows up. This IS the Trojan War, after all.
 
  
-**Hektor**
+**Hektor:**
 Come on, Penthesilea.
 You've gotta be warmed up by now, right?
 
  
-**Hektor**
+**Hektor:**
 Isn't it about time you remembered who's supposed to be on this battlefield more than anyone?
 
  
-**Penthesilea**
+**Penthesilea:**
 ...
 
  
-**Penthesilea**
+**Penthesilea:**
 Yes... You're right...
 I do know...who should be here.
 
  
-**Penthesilea**
+**Penthesilea:**
 I can even smell him now. Where is he...
 Where is he? Where is he!?
 
  
-**Hektor**
+**Hektor:**
 He's over there.
 
  
-**Penthesilea**
+**Penthesilea:**
 Ahh, ahh, ahhh...!
 There you are... There you are!
 
  
-**Penthesilea**
+**Penthesilea:**
 Achilleeeeees!!!
 
  
-**Achilles**
+**Achilles:**
 ...
 
  
-**Penthesilea**
+**Penthesilea:**
 I'll kill you! I'll kill you, I'll kill you!
 This time! This time...! I WILL KILL YOU!!!
 
  
-**Hektor**
+**Hektor:**
 All right, time for Phase Two. I hope this works...
 Man, do I hope this works!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Penthesilea**
+**Penthesilea:**
 AAH, AAH, AAAHHH!
 
  
-**Penthesilea**
+**Penthesilea:**
 Achilles, Achilles, Achilles!!!
 You're dead, dead, deaaad!
 
  
-**Hektor**
+**Hektor:**
 Damn, she's so far gone she hasn't even noticed that she's already killed him, huh?
 
  
-**Hektor**
+**Hektor:**
 Guess she went from warmed up to overheated.
 
  
@@ -1006,83 +1006,83 @@ Still, this isn't over yet.
 
 ---
  
-**Hektor**
+**Hektor:**
 That it's not. Da Vinci oughta be playing her cards any moment... There we go.
 
  
-**Penthesilea**
+**Penthesilea:**
  
 Take that, and that, and that!
 You won't get away this time!
 
  
-**Penthesilea**
+**Penthesilea:**
 ...
 
  
-**Penthesilea**
+**Penthesilea:**
 What!?
 
  
-**Penthesilea**
+**Penthesilea:**
 How is this...!?
 
  
-**Penthesilea**
+**Penthesilea:**
 No. I know you, Achilles. You are...fast.
 You are quick, speedy, agile!
 
  
-**Penthesilea**
+**Penthesilea:**
 Is that why I see so many of you? Is this some trick you are playing with that incredible speed!?
 
  
-**Penthesilea**
+**Penthesilea:**
 ...Heh. Hahahahaha...
 
  
-**Penthesilea**
+**Penthesilea:**
 Enough!
 
  
-**Penthesilea**
+**Penthesilea:**
 If that is your game, then I shall simply crush every last one of you! Run as fast and as far as you like.
 
  
-**Penthesilea**
+**Penthesilea:**
 I will always, always, always find you, and kill you! You will never escape death at my hands!
 
  
-**Penthesilea**
+**Penthesilea:**
 So if I crush every single one of you that stands before me, your vaunted speed will be meaningless!
 
  
-**Hektor**
+**Hektor:**
 Hmm, looks like even her capacity for speech is starting to go. Guess that's a Berserker for you.
 
  
-**Hektor**
+**Hektor:**
 ...Don't get too close, Master. There's a much greater chance of you getting hit by accident now.
 
  
-**Hektor**
+**Hektor:**
 At this point, she probably thinks anything that moves is Achilles.
 
  
-**Hektor**
+**Hektor:**
 If she starts getting too close...I'll have to use Durindana at full strength to keep you safe.
 
  
-**Hektor**
+**Hektor:**
 If it comes to that, either she or I might end up dying...but that's a risk we'll just have to take.
 
  
-**Hektor**
+**Hektor:**
 Sheesh. This old man doesn't like working so hard,
 but what can you do?
 
  
-**Hektor**
+**Hektor:**
 Don't worry, Master, I'll make sure to hand you off to someone else if it looks like things're gonna take a turn for the worse. Mash would never forgive me if something happened to you, after all.
 
  
@@ -1095,27 +1095,27 @@ Please try not to die out there!
 
 ---
  
-**Hektor**
+**Hektor:**
 Oh I'll try, believe me. But the thing about the Trojan War is that, sometimes, there's no helping what happens.
 
  
-**Hektor**
+**Hektor:**
 There's gods and heroes, resentment and obsession, honor and arrogance, vice and morals...
 
  
-**Hektor**
+**Hektor:**
 Any one of those on their own would be enough to fill you up, and every one of them is out in spades here.
 
  
-**Hektor**
+**Hektor:**
 And that's before you have the goddess of fate stepping in and stirring the pot even more.
 
  
-**Hektor**
+**Hektor:**
 It's terrifying, even for a battlefield. Anything could happen here, and anyone could bite it at any time.
 
  
-**Hektor**
+**Hektor:**
 Honestly, I still can't believe I managed to survive it for ten years.
 
  
@@ -1128,58 +1128,58 @@ But, this isn't the real Trojan War, right...?
 
 ---
  
-**Hektor**
+**Hektor:**
 Oh, yeah, good point. This is just a simulation, huh?
 
  
-**Hektor**
+**Hektor:**
 Guess I got so caught up in it I didn't even notice.
 
  
-**Hektor**
+**Hektor:**
 Well that's embarrassing.
 
  
-**Hektor**
+**Hektor:**
 Of course, Penthesilea's still real...and so is her madness.
 
  
-**Hektor**
+**Hektor:**
 That's why I'm out here doing this...and why I'm scared shitless.
 
  
-**Hektor**
+**Hektor:**
 There's no telling what she'll have to destroy to satiate her frenzy...or even what she really wants to destroy.
 
  
-**Hektor**
+**Hektor:**
 The best we can do is make an educated guess.
 
  
-**Penthesilea**
+**Penthesilea:**
 Ahh, Achilles.
 Achilles, son of Peleus!
 
  
-**Penthesilea**
+**Penthesilea:**
 Look at me. Look, and see a proud Amazon warrior! Then fight me! Fight me as a fellow warrior! No more! No less!
 
  
-**Penthesilea**
+**Penthesilea:**
 ...I will never let you speak that word again.
 Not ever.
 
  
-**Penthesilea**
+**Penthesilea:**
 I am not beautiful. I am not even a woman!
 I am only a warrior!
 
  
-**Penthesilea**
+**Penthesilea:**
 Now...fight me, Achilles!!!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Narration:**
 (I'll kill you, I'll kill you I'll kill you I'll kill you! You're dead, you're DEAD, you're dead, YOU'RE DEAD, Achilles, Achilles, Achilleees!)
@@ -1197,15 +1197,15 @@ Now...fight me, Achilles!!!
 (...)
 
  
-**Penthesilea**
+**Penthesilea:**
 AH, AHHH...
 
  
-**Penthesilea**
+**Penthesilea:**
 Ah...
 
  
-**Penthesilea**
+**Penthesilea:**
 .........
 
  
@@ -1218,42 +1218,42 @@ Ah...
 
 ---
  
-**Penthesilea**
+**Penthesilea:**
 ...Enough. I understand now.
 
  
-**Penthesilea**
+**Penthesilea:**
 Even my rage cannot endure after fighting so many unsatisfying opponents.
 
  
-**Penthesilea**
+**Penthesilea:**
 ...This battlefield, these Achilles...
 They are all false, are they not?
 
  
-**Hektor**
+**Hektor:**
 Yup. The detective and the professor guy figured that, instead of trying to keep your rampages in check...
 
  
-**Hektor**
+**Hektor:**
 ...it'd be better for you to get it all out of your system, so to speak. That said&ndash;
 
  
-**Penthesilea**
+**Penthesilea:**
 You need not tell me.
 
  
-**Penthesilea**
+**Penthesilea:**
 I would recognize that scent anywhere...
 These false Achilles all smell like the real one.
 
  
-**Penthesilea**
+**Penthesilea:**
 They may not be nearly as strong as him,
 but they have exactly the same essence.
 
  
-**Penthesilea**
+**Penthesilea:**
 Creating copies this elaborate should be impossible...unless the real Achilles was here to help in creating them.
 
  
@@ -1271,31 +1271,31 @@ Creating copies this elaborate should be impossible...unless the real Achilles w
 
 ---
  
-**Penthesilea**
+**Penthesilea:**
 And that means...he IS here at Chaldea!
 
  
-**Penthesilea**
+**Penthesilea:**
 And the fact that he would try to placate me with this game means this is what he wants!
 
  
-**Penthesilea**
+**Penthesilea:**
 How DARE he relegate me to fighting these pale imitations rather than facing me himself!?
 
  
-**Hektor**
+**Hektor:**
 Aw crap, not again!
 
  
-**Penthesilea**
+**Penthesilea:**
 ...Still...
 
  
-**Hektor**
+**Hektor:**
 Phew! Guess she really didn't have enough gas left in the tank to get going again. Thank goodness she's burned herself out a bit.
 
  
-**Penthesilea**
+**Penthesilea:**
 Hektor. Master. I think I finally understand.
 ...He has no intention of fighting me, does he?
 
@@ -1309,40 +1309,40 @@ Hektor. Master. I think I finally understand.
 
 ---
  
-**Hektor**
+**Hektor:**
 ...
 
  
-**Penthesilea**
+**Penthesilea:**
 Even if I were to encounter him now...he would decline to battle.
 
  
-**Penthesilea**
+**Penthesilea:**
 Most likely, he would simply offer his life as a sacrifice to my rage.
 
  
-**Penthesilea**
+**Penthesilea:**
 And that means...he still does not see me as a worthy opponent...
 
  
-**Hektor**
+**Hektor:**
 ...Looks like she finally figured it out.
 Now the question is, what's gonna change?
 
  
-**Hektor**
+**Hektor:**
 Unfortunately...as much as we might have the whole death by Achilles thing in common, I don't think anything I could say will get through to her.
 
  
-**Hektor**
+**Hektor:**
 She and I are just too alike, at least when it comes to stuff like this.
 
  
-**Hektor**
+**Hektor:**
 But you, Master... You're nothing like us. In a good way. If you talk to her, she might just listen.
 
  
-**Hektor**
+**Hektor:**
 So, would you mind giving it a shot?
 
  
@@ -1360,7 +1360,7 @@ May I speak, Queen of the Amazons?
 
 ---
  
-**Penthesilea**
+**Penthesilea:**
 ............
 
  
@@ -1373,85 +1373,85 @@ I think your only choice...is to get even stronger.
 
 ---
  
-**Penthesilea**
+**Penthesilea:**
 !?
 
  
-**Penthesilea**
+**Penthesilea:**
 ...Heh... Hehehe...
 
  
-**Penthesilea**
+**Penthesilea:**
 What a ludicrously simple idea, Master.
 
  
-**Penthesilea**
+**Penthesilea:**
 But...the Amazon way of life, our manner of fighting...has always been simple. We move forward and crush those who stand in our way. That is all there has ever been for us.
 
  
-**Penthesilea**
+**Penthesilea:**
 What's more, I am their queen. I could not hope to change that at this point, even if I wished to.
 
  
-**Penthesilea**
+**Penthesilea:**
 Yes, you are right.
 That may well be the only way.
 
  
-**Penthesilea**
+**Penthesilea:**
 I once thought that if I could become a man, like Leonteus's grandfather, Caenis, that would solve this problem...but I see now that it would not.
 
  
-**Penthesilea**
+**Penthesilea:**
 In the end, all I can do is grow strong enough that he will not be able to ignore me.
 
  
-**Penthesilea**
+**Penthesilea:**
 Strength... Yes, strength! That is the only helmet that will hide my womanly features from Achilles's eyes!
 
  
-**Penthesilea**
+**Penthesilea:**
 ...And, it is the only thing that will compel him to see me as a warrior.
 
  
-**Penthesilea**
+**Penthesilea:**
 There is one form of strength that is vital for me to possess, yet also one I have neglected thus far...
 
  
-**Hektor**
+**Hektor:**
 (Phew, sounds like she's finally taking a step forward... I just hope it helps her keep her cool from now on.)
 
  
-**Penthesilea**
+**Penthesilea:**
 That is where you come in, Hektor.
 
  
-**Hektor**
+**Hektor:**
 Huh!? Wh-what do I have to do with this?
 
  
-**Penthesilea**
+**Penthesilea:**
 You will help me, Hektor of the Shining Helmet.
 
  
-**Penthesilea**
+**Penthesilea:**
 My offense is impeccable, but my defense is lacking.
 I have never before endeavored to correct this.
 
  
-**Penthesilea**
+**Penthesilea:**
 That means I have room to improve...which in turn means I have room to grow stronger.
 
  
-**Penthesilea**
+**Penthesilea:**
 You, Hektor, are the opposite of me. You specialize in defense, as proven by your successful defense of Troy for ten years.
 
  
-**Penthesilea**
+**Penthesilea:**
 And so I demand you teach me what you know. So long as it does not clash with Amazon tradition, I will accept any and all instruction.
 
  
-**Penthesilea**
+**Penthesilea:**
 No, now that I think about it, I can simply adapt your teachings to our own style. Perhaps it could culminate in an offensive defense capable of killing one's enemies... Yes, I like that.
 
  
@@ -1469,32 +1469,32 @@ Good luck!
 
 ---
  
-**Hektor**
+**Hektor:**
 Man, this isn't what I signed up for.
 Sounds like a pretty big ask, too.
 
  
-**Hektor**
+**Hektor:**
 Still...I guess I owe you for picking up my slack on Troy. This oughta more than pay off the debt.
 
  
-**Hektor**
+**Hektor:**
 And you do seem to understand that our fighting strategies couldn't be more different, thankfully.
 
  
-**Hektor**
+**Hektor:**
 Maybe it's best if I just give you the tools you need to improve your defense and let you focus on how to make use of them.
 
  
-**Hektor**
+**Hektor:**
 I mean, the main thing you're looking for is strength that he can't just shrug off, right?
 
  
-**Hektor**
+**Hektor:**
 I've got plenty of insults that are guaranteed to push Achilles's buttons, so if you start with those&ndash;
 
  
-**Penthesilea**
+**Penthesilea:**
 A...chilles...?
 
  
@@ -1507,190 +1507,190 @@ Hm? Penthesilea looks...angry...
 
 ---
  
-**Hektor**
+**Hektor:**
 Oh come on. You gotta be freakin' kidding me!
 
  
-**Hektor**
+**Hektor:**
 We've only been talking for a few minutes here.
 
  
-**Hektor**
+**Hektor:**
 Don't tell me the whole calm mode thing is over already!
 
  
-**Penthesilea**
+**Penthesilea:**
 You said Achilles! I heard you! What's more,
 I can smell him! I smell him everywhere!
 
  
-**Penthesilea**
+**Penthesilea:**
 That must mean...you are...
 
  
-**Penthesilea**
+**Penthesilea:**
 Achilleeeeees!
 
  
-**Hektor**
+**Hektor:**
 So what, we went through all that for nothing!?
 Man, I should've known a Berserker couldn't change!
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
  
-**Holmes**
+**Holmes:**
 Hektor's frustration is understandable, but misguided. She most assuredly has changed.
 
  
-**Holmes**
+**Holmes:**
 That change may be nothing more than the fact that her face is no longer twisted with her usual fury, but that just goes to show how hot her anger burns.
 
  
-**D：???**
+**D：???:**
 Indeed. As long as we managed to snuff out even a tiny fragment of the anger that lies deep in her Spirit Origin, this was not for nothing.
 
  
-**D：???**
+**D：???:**
 Right now, that may amount to no more than the most miniscule of changes, but that doesn't mean it may never extend to the rest of her anger.
 
  
-**Da Vinci**
+**Da Vinci:**
 So...what's your take on this?
 
  
-**Achilles**
+**Achilles:**
 Well, I'm gonna say the fact that she hasn't noticed my presence even at this distance means your scheme must've worked.
 
  
-**Achilles**
+**Achilles:**
 Those dolls of me she demolished must've permeated this place with my scent.
 
  
-**Achilles**
+**Achilles:**
 ...That's why she doesn't know I'm really here.
 
  
-**Da Vinci**
+**Da Vinci:**
 Hehe. I appreciate the praise for how well the decoys I had you help me with worked...
 
  
-**Da Vinci**
+**Da Vinci:**
 ...but you know that's not what I was asking.
 
  
-**D：???**
+**D：???:**
 Indeed, there is a reason for the dismembered bodies to be dismembered, but that is only one part of it.
 
  
-**D：???**
+**D：???:**
 The entire reason my villainous self and the great detective suggested that trick in the first place...
 
  
-**D：???**
+**D：???:**
 ...is because it was that important that you be here.
 
  
-**Holmes**
+**Holmes:**
 It's just as we first said.
 
  
-**Holmes**
+**Holmes:**
 If you and Penthesilea's mismatched goals are the cause of this discord, it falls to both of you to repair it.
 
  
-**Holmes**
+**Holmes:**
 In other words, there is something you need to understand just as much as she does.
 
  
-**Achilles**
+**Achilles:**
 Yeah, yeah, I know I do.
 Man, you intellectual types just never shut up.
 
  
-**Achilles**
+**Achilles:**
 ...Don't worry, I get it now. Maybe not completely, but after seeing that face of hers, I can't help but get where she's coming from.
 
  
-**Mash**
+**Mash:**
 Really...!?
 So, then, what are you going to do now?
 
  
-**Achilles**
+**Achilles:**
 Nothing.
 
  
-**Achilles**
+**Achilles:**
 She wants me to give her a rematch where I don't think of her as a beautiful woman, right?
 
  
-**Achilles**
+**Achilles:**
 I can't do that.
 
  
-**Mash**
+**Mash:**
 ...!?
 
  
-**Achilles**
+**Achilles:**
 I might not've talked to her since I came to Chaldea, but I can tell just by seeing her now.
 
  
-**Achilles**
+**Achilles:**
 Penthesilea might be younger now than she was back then...but she's still beautiful.
 
  
-**Achilles**
+**Achilles:**
 And me just sorta blurting that kinda stuff out is what got us here in the first place, right?
 
  
-**Achilles**
+**Achilles:**
 I get that... I do.
 
  
-**D：???**
+**D：???:**
 Is that a knowing smile I see? They do say great men have great fondness for the sensual pleasures, so I would not be at all surprised to learn that you were one of them.
 
  
-**Achilles**
+**Achilles:**
 Nah, it's not that.
 
  
-**Achilles**
+**Achilles:**
 It's just...I can't help thinking what I think.
 
  
-**Achilles**
+**Achilles:**
 So I at least want to be honest about it.
 
  
-**Holmes**
+**Holmes:**
 Like you were when you defeated her during the Trojan War and rather than expressing relief at a hard-won victory, exclaimed on her beauty?
 
  
-**Achilles**
+**Achilles:**
 Ouch! You detective types really don't pull your punches, do you? ...But yeah, basically.
 
  
-**Achilles**
+**Achilles:**
 Still, I want to at least say this. Even I wouldn't usually say something like that in a battle. Of course I wouldn't.
 
  
-**Da Vinci**
+**Da Vinci:**
 Oh?
 
  
-**Achilles**
+**Achilles:**
 Aw c'mon, don't act so surprised. I know you're supposed to treat your opponents with respect, no matter how strong they are.
 
  
-**Achilles**
+**Achilles:**
 Chiron taught me that a long time ago.
 But, even so...
 
  
-**Achilles**
+**Achilles:**
 Even so...
 
  
@@ -1707,109 +1707,109 @@ Even so...
 ...
 
  
-**Penthesilea**
+**Penthesilea:**
 ...You beast. Was it not enough for you to kill my Amazons? Now you would humiliate me as well?
 
  
-**Achilles**
+**Achilles:**
 Even so...sometimes, things just slip out. And back then with Penthesilea, I just couldn't help it...
 
  
-**Mash**
+**Mash:**
 Achilles...
 
  
-**Achilles**
+**Achilles:**
 I'm not saying I don't regret it.
 
  
-**Achilles**
+**Achilles:**
 But, what's done is done.
 I can't fix it now.
 
  
-**Achilles**
+**Achilles:**
 And you know what? I wouldn't want to even if I could. What I did might've been mean, and cruel...
 
  
-**Achilles**
+**Achilles:**
 ...but I did it. It's part of who I am.
 I've gotta own that.
 
  
-**Achilles**
+**Achilles:**
 I'm not gonna pretend like it never happened.
 
  
-**Mash**
+**Mash:**
 But...don't you think it's sad...?
 
  
-**Achilles**
+**Achilles:**
 Sad? Nah.
 
  
-**Achilles**
+**Achilles:**
 She and me'll always be enemies, no matter what.
 And that's okay. Otherwise, we never would've met.
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**D：???**
+**D：???:**
 Such events as leave their indelible marks on us during our lifetimes inevitably form the very foundations of who we are.
 
  
-**D：???**
+**D：???:**
 That goes for the good as well as the bad.
 
  
-**D：???**
+**D：???:**
 If it were up to me, I would like nothing more than to strike my tumble down the falls from the record, but of course, I can't, and I shouldn't.
 
  
-**Holmes**
+**Holmes:**
 I suppose this just goes to show what a deep impression she left in your memory.
 
  
-**Holmes**
+**Holmes:**
 Both the fact that she was beautiful,
 and the fact that you witnessed her beauty.
 
  
-**Achilles**
+**Achilles:**
 ...I'm not gonna say what I did was good. She's got every right to hate me for it, even if it does make my life kind of...rough, at times.
 
  
-**Achilles**
+**Achilles:**
 But you know, even with all that...
 
  
-**Achilles**
+**Achilles:**
 ...if I had a choice between never having met her...
 
  
-**Achilles**
+**Achilles:**
 ...or doing what I did and getting to see how beautiful she was under that helmet...
 
  
-**Achilles**
+**Achilles:**
 ...I'd take calling her beautiful and having her loathe me for it any day of the week.
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
  
-**Penthesilea**
+**Penthesilea:**
 Huh!? Who was that!? Who just said “beautiful”!?!?
 
  
-**Hektor**
+**Hektor:**
 Ugh, give me a friggin' break here... As if my life isn't hard enough as it is. Is he doing this on purpose?
 
  
-**Hektor**
+**Hektor:**
 ...Nah, I bet he doesn't even realize he's doing it. That's how this mess got started in the first place!
 
 

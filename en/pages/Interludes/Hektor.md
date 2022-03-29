@@ -2,15 +2,15 @@
 
 <h2>Trojan Guardian</h2>
 
-**Mash**
+**Mash:**
 Master, Hektor would like to ask something.
 
  
-**Hektor**
+**Hektor:**
 Hey Master, you there?
 
  
-**Hektor**
+**Hektor:**
 You don't have to be so on edge.
 I'm your Servant now.
 
@@ -31,20 +31,20 @@ I'm not worried.
 
 ---
  
-**Hektor**
+**Hektor:**
 I see. Good. So anyway,
 there's something I wanted to talk to you about.
 
  
-**Hektor**
+**Hektor:**
 Mind if I ask you too, Mash?
 
  
-**Mash**
+**Mash:**
 N-Not at all. Go ahead...
 
  
-**Hektor**
+**Hektor:**
 Okay, well I'll get straight to the point.
 I'm not using all of my power right now.
 
@@ -65,65 +65,65 @@ You're strong if you tried?
 
 ---
  
-**Hektor**
+**Hektor:**
 Right. Of course, I'm not trying to go easy or anything,
 and I could be powerful if I tried, you know?
 
  
-**Hektor**
+**Hektor:**
 But my Noble Phantasm...
 It's gotten a bit weaker.
 
  
-**Mash**
+**Mash:**
 Durandal, right? I think you called it...
 Durindana, was it?
 
  
-**Hektor**
+**Hektor:**
 Yeah, that's the name, I think.
 
  
-**Mash**
+**Mash:**
 Wouldn't it be better for you to remember its True Name?
 
  
-**Hektor**
+**Hektor:**
 Well... Ha, ha, ha. To be honest, I don't really care what lance I have as long as I can throw it.
 
  
-**Hektor**
+**Hektor:**
 It's natural for great swords and lances to break left and right on the battlefield.
 
  
-**Hektor**
+**Hektor:**
 And even if it didn't break, it's lost once you throw it.
 So you learn to make do with whatever you've got.
 
  
-**Hektor**
+**Hektor:**
 To be honest, this old man can even kill someone with a single stone. Whether they're a Heroic Spirit or not.
 
  
-**Hektor**
+**Hektor:**
 Well, in any event. This lance is legendary in later generations.
 
  
-**Hektor**
+**Hektor:**
 I need to get it sharpened again, ya'know. Let me see.
 As long as I can cut down 100 more people with it&ndash;
 
  
-**Mash**
+**Mash:**
 ...Then how about you do some training in a programmed simulation?
 
  
-**Hektor**
+**Hektor:**
 A virtual battle, huh?
 I guess I can't be picky.
 
  
-**Hektor**
+**Hektor:**
 Master, what do you think?
 Want to help this old man with some training?
 
@@ -144,80 +144,80 @@ Not a problem.
 
 ---
  
-**Hektor**
+**Hektor:**
 Good. Quick answers like that show one's true nature.
 You're a great Master after all.
 
  
-**Hektor**
+**Hektor:**
 All right. Let's go.
 
  
-**Mash**
+**Mash:**
 Okay, we're here.
 So about those enemies&ndash;
 
  
-**Mash**
+**Mash:**
 How about we get started with the humanoid ones first?
 
  
-**Hektor**
+**Hektor:**
 Okay, we'll use that for warm-up, then.
 All right Master&ndash;give me your orders!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Hektor**
+**Hektor:**
 I'm starting to get the hang of this.
 Let's kick it up a notch.
 
  
-**Hektor**
+**Hektor:**
 Master, add fifty more!
 Raise the level just a little, too!
 
  
-**Mash**
+**Mash:**
 G-Got it.
 I'll summon some ghost-type enemies next.
 
  
-**Hektor**
+**Hektor:**
 All right. You can't kill fog by piercing or cutting it&ndash;
 
  
-**Hektor**
+**Hektor:**
 You must scatter it,
 like a raging storm!
 
  
-**Hektor**
+**Hektor:**
 Give me your orders, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Hektor**
+**Hektor:**
 Whew.
 
  
-**Mash**
+**Mash:**
 Confirming the elimination of all ghosts.
 The next set will be the last.
 
  
-**Hektor**
+**Hektor:**
 If we're on the last set,
 then bring me a really strong one next.
 
  
-**Hektor**
+**Hektor:**
 If you want, I can even take on a dragon.
 
  
-**Mash**
+**Mash:**
 In that case&ndash;I'll summon a dragon-type enemy for you.
 
  
@@ -237,51 +237,51 @@ You're joking, right!?
 
 ---
  
-**Mash**
+**Mash:**
 Huh? That was a joke?
 I already started the summoning process!
 
  
-**Hektor**
+**Hektor:**
 It'll be fine. No problem.
 My duty is to protect my Master.
 
  
-**Hektor**
+**Hektor:**
 You know this old man, when it comes to holding the line, guard duty, defense&ndash;
 
  
-**Hektor**
+**Hektor:**
 Basically, anything involving protecting something or someone... I've never lost before.
 
  
-**Hektor**
+**Hektor:**
 The Achilles thing was different!
 
  
-**Hektor**
+**Hektor:**
 Now Master, give me your orders!
 As your shield and fortress&ndash;I pledge to fight, yeah?
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 I've confirmed its defeat!
 That was impressive, Hektor.
 
  
-**Hektor**
+**Hektor:**
 Yeah, yeah. This old man pushed himself a bit too hard.
 My shoulders and back hurt all over.
 
  
-**Hektor**
+**Hektor:**
 I think Durindana's got its sharpness back a little.
 Guess I'll call it good for now.
 
  
-**Hektor**
+**Hektor:**
 Anyway, let's head back. &ndash;Oh, yeah.
 I guess I can be a bit more useful from now on?
 
@@ -302,22 +302,22 @@ Please continue to lend us your strength.
 
 ---
  
-**Hektor**
+**Hektor:**
 I see.
 Then I'll do the best I can.
 
  
-**Mash**
+**Mash:**
 ...I'm not sure if this is the case,
 but maybe that ocean battle was on Hektor's mind?
 
  
-**Mash**
+**Mash:**
 To him it might be the distant past,
 but to us it's like yesterday.
 
  
-**Mash**
+**Mash:**
 So maybe he's trying to show he can be a good Servant...
 
  
@@ -331,15 +331,15 @@ I trust him.
 
 ---
  
-**Mash**
+**Mash:**
 ...I suppose you're right. That's what a Servant is, after all.
 
  
-**Mash**
+**Mash:**
 He is the one who answered our summons, so I'm sure that's a happy thing and not a troubling matter.
 
  
-**Mash**
+**Mash:**
 Let's continue to have him fight by our side.
 
 

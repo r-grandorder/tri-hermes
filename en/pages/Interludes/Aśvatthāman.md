@@ -350,7 +350,7 @@ Here, let us help.
 **Mash:**
 A-all right! Initiating simulation battle!
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Aśvatthāman:**
 Eat this!
@@ -379,7 +379,7 @@ R-right.
 **Mash:**
 Okay, I'll make sure to set the next environment to a proper forest that you can use for therapy.
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Tristan:**
 That's it.
@@ -648,7 +648,7 @@ even if it should cost me my life!
 **Aśvatthāman:**
 Here I come!!!
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Aśvatthāman:**
 All right! We won!!!

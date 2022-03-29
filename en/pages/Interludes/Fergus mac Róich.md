@@ -2,7 +2,7 @@
 
 ## Pretty Illusion
 
-**Fergus**
+**Fergus:**
 Sorry to bother you during your break.
 I'm looking for the Servant Consultation Room. Is this it?
 
@@ -12,7 +12,7 @@ I'm looking for the Servant Consultation Room. Is this it?
 **Fujimaru 1:**
 We're closed today...
  
-**Fergus**
+**Fergus:**
 Hm, just as I thought.
 But I'm begging you. It's urgent, you see.
 
@@ -23,104 +23,104 @@ But I'm begging you. It's urgent, you see.
 Yes and no?
  
  
-**Fergus**
+**Fergus:**
 Hah hah hah. You deny and say it isn't so, but your face tells me you've given up on refusing, Master!
 
  
-**Fergus**
+**Fergus:**
 You're probably fed up with indulging the selfishness of Servants day after day. I sympathize with you.
 
  
-**Fergus**
+**Fergus:**
 So now, I'd like you to just give up again. I've got an urgent problem.
 
  
-**Fergus**
+**Fergus:**
 Could you hear me out?
 
  
 ---
  
-**Fergus**
+**Fergus:**
 Hah hah hah, don't be so shy!
 
  
-**Fergus**
+**Fergus:**
 War is important, but whispering words of love to a woman is equally important to me.
 
  
-**Fergus**
+**Fergus:**
 Of course, I'd never force myself on an unwilling woman. Understand that I just want to look at her and hit on her.
 
  
-**Mash**
+**Mash:**
 Senpai, Senpai!
 I found sweet rice cakes in the Doctor's room!
 
  
-**Mash**
+**Mash:**
 These are quite exceptional.
 Let's eat them before anyone finds out.
 
  
-**Mash**
+**Mash:**
 But of course, the main topic is investigating the Doctor.
 
  
-**Mash**
+**Mash:**
 We must solve the mystery of how the Doctor stockpiles sweets in this time of scarcity...
 
  
-**Mash**
+**Mash:**
 Oh? Is that you, Fergus?
 
  
-**Fergus**
+**Fergus:**
 Oh, hello Mash.
 Well, I want to ask you, too.
 
  
-**Fergus**
+**Fergus:**
 You see...
 
  
-**Mash**
+**Mash:**
 I understand the circumstances,
 but maybe that's not such a good idea.
 
  
-**Mash**
+**Mash:**
 I mean, we are fighting to prevent humanity's destruction...
 
  
-**Mash**
+**Mash:**
 If you carelessly start hitting on other Servants, it may end in a bloodbath...
 
  
-**Fergus**
+**Fergus:**
 Hmm, what a mess...
 
  
-**Fergus**
+**Fergus:**
 If at least I could tell which Servants are okay to hit on...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Heh, leave stuff like that to me.
 More like, why didn't you come see me about this?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hey, those sweet rice cakes look pretty tasty.
 Let me try one, nom nom...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, this is as tasty as the one from my own collection,
 or rather, it tastes exactly the same...
 
  
-**Mash**
+**Mash:**
 Senpai's sweet rice cake!
 
  
@@ -132,236 +132,236 @@ Mash's sweet rice cake!
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 You two get along so well.
 That aside, Fergus.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I installed several Servant profiles into the virtual training system.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 They're a bit robotic, but they should at least respond to you.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 So try this out first, and if it looks good, you can go hit on them for real. How does that sound?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It will be good for future reference.
 I'll use the results for personal reference.
 
  
-**Fergus**
+**Fergus:**
 Hmm... An interesting proposal.
 Let's give it a shot!
 
  
-**Mash**
+**Mash:**
 Senpai, Senpai. I'm not sure why, but I have a bad feeling about this.
 
  
-**Fou**
+**Fou:**
 Fou, foou...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Okay, transfer confirmed.
 Why don't you try sweet-talking the first one?
 
  
-**Fergus**
+**Fergus:**
 All right, bring it on!
 Now, what kind of perky lass will appear&ndash;
 
  
-**Mash**
+**Mash:**
 ...Uhh.
 What's a “perky lass,” exactly, Senpai?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Maybe a beauty that makes his crotch perk up?
 Oh, here she comes!
 
  
-**Fergus**
+**Fergus:**
 Well, if it isn't Brynhild, the Valkyrie!
 ...Hey, wait, wait, wait!
 
  
-**Fergus**
+**Fergus:**
 Don't you already have a boyfriend?
 I'm not a fan of stealing another guy's woman...
 
  
-**Fergus**
+**Fergus:**
 Hmm. Well, I don't like it, but exceptions must be made for lust.
 
  
-**Fergus**
+**Fergus:**
 Brynhild. I want you.
 Why don't you spend the night with me?
 
  
-**Mash**
+**Mash:**
 (...A very straightforward and completely unambiguous approach...)
 
  
-**Brynhild**
+**Brynhild:**
 Oh...I don't know how to respond to such a frank confession of love&ndash;
 
  
-**Fergus**
+**Fergus:**
 Hmmm.
 
  
-**Brynhild**
+**Brynhild:**
 I guess I'll just have to kill you...
 
  
-**Fergus**
+**Fergus:**
 Yup, I don't get why, but so be it!
 You're even more ferocious in love than the Celts!
 
  
-**Brynhild**
+**Brynhild:**
 I have no idea who you are, but thank you.
 Now let us fight to the death...
 
  
-**Fergus**
+**Fergus:**
 Fujimaru, Mash, my bad!
 I was so close, but I failed!
 
  
-**Mash**
+**Mash:**
 We can see that.
 Oh geez, Master, get ready for battle!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 That was quite the ordeal...
 
  
-**Fergus**
+**Fergus:**
 Hah hah hah, if you get depressed by one or two failures, you're gonna have a tough life.
 
  
-**Fergus**
+**Fergus:**
 After all, everything, even life, is just a night's dream. You've got to live decisively.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 How reliable... You are a teacher, no,
 I must say, a guru of smooth talkers...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 All right, Guru Fergus!
 I will prepare the next Servant!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 This time it'll be fine. Based on looks,
 I chose a charming, peaceful woman!
 
  
-**Kiyohime**
+**Kiyohime:**
 ...
 ...
 
  
-**Mash**
+**Mash:**
 Senpai, Senpai, I think he will strike out.
 
  
-**Fergus**
+**Fergus:**
 I think so too, but I can't help it when met with such beauty! Hey there, foreign lady!
 
  
-**Kiyohime**
+**Kiyohime:**
 ...
 ...
 
  
-**Kiyohime**
+**Kiyohime:**
 Ah, are you referring to me?
 I beg your pardon. Do you need something?
 
  
-**Fergus**
+**Fergus:**
 Yes. I liked you the moment I saw you.
 How about it? Spending the night with me.
 
  
-**Kiyohime**
+**Kiyohime:**
 ...
 ...
 
  
-**Kiyohime**
+**Kiyohime:**
 Oh, my.
 What shall I do...
 
  
-**Mash**
+**Mash:**
 Wait, he actually has a chance?
 
  
-**Fergus**
+**Fergus:**
 Hahaha, no need to be shy.
 
  
-**Fergus**
+**Fergus:**
 I don't mean to brag, but I, Fergus, am an acknowledged authority on how to make women happy&ndash;
 
  
-**Kiyohime**
+**Kiyohime:**
 What did you just say?
 
  
-**Kiyohime**
+**Kiyohime:**
 An acknowledged authority on making women happy?
 So, in other words&ndash;you mean “infidelity.”
 
  
-**Fergus**
+**Fergus:**
 ...Hmm. Hah hah hah!
 My bad! It seems I've stepped on a land mine, Master!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Guru Fergus&mdash;!
 
  
-**Mash**
+**Mash:**
 As I expected!
 You keep stumbling at the first hurdle!
 
  
-**Kiyohime**
+**Kiyohime:**
 Destroy infidelity!
 Destroy womanizers!
 
  
-**Kiyohime**
+**Kiyohime:**
 Go repent in hell!
 Hi-yah!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Fergus**
+**Fergus:**
 Hmm, it's not going too well.
 I hope this time a compatible Servant will show up.
 
  
-**Mash**
+**Mash:**
 Senpai, we should make a bet.
 
  
@@ -378,41 +378,41 @@ I think it's no use.
 ---
  
  
-**Mash**
+**Mash:**
 Yes, I think so as well.
 
  
-**Fergus**
+**Fergus:**
 Hah hah hah! Master, you're quite harsh.
 However, rest assured. This is a tent, thus, the wild.
 
  
-**Fergus**
+**Fergus:**
 Being here means it will most likely be a ferocious woman, a warrior!
 
  
-**Fergus**
+**Fergus:**
 I know well how to woo such a woman. Well now, Doctor!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 An unshakable heart of steel...
 That is our hero Fergus!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Honestly, I'm starting to realize this is useless, so I want to go back to work... But I hope for the best this time!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The Servant up next is&ndash;her!
 
  
-**Nightingale**
+**Nightingale:**
 ...Huh?
 
  
-**Mash**
+**Mash:**
 Senpai, I think we should run.
 
  
@@ -423,137 +423,137 @@ To the ends of the earth.
 
 ---
  
-**Fergus**
+**Fergus:**
 Oooh, is this not the nurse that took care of us in America?
 
  
-**Nightingale**
+**Nightingale:**
 I only have business for the wounded. Please leave.
 
  
-**Fergus**
+**Fergus:**
 Don't be so cold.
 Actually... I have a serious illness.
 
  
-**Nightingale**
+**Nightingale:**
 ...Let's hear it. What is wrong?
 
  
-**Fergus**
+**Fergus:**
 Uh, it's like a gaping hole has opened in my chest...
 
  
-**Nightingale**
+**Nightingale:**
 Is it pneumothorax?
 Or perhaps heart failure?
 
  
-**Fergus**
+**Fergus:**
 Nothing like that, it's more of a mental problem. I've got an emptiness from the lonely nights spent alone.
 
  
-**Nightingale**
+**Nightingale:**
 ...Meaning?
 
  
-**Fergus**
+**Fergus:**
 Yes, I refer to the disease of love...
 My heart is unspeakably cold and empty!
 
  
-**Fergus**
+**Fergus:**
 But, my beautiful lady with bosom so supple and buttocks so round!
 
  
-**Fergus**
+**Fergus:**
 I do think you are capable of filling the gap in this chest. If you would, please!
 
  
-**Nightingale**
+**Nightingale:**
 ...
 ...
 
  
-**Mash**
+**Mash:**
 Nightingale, um, it's fine if you just flat out refuse him...
 
  
-**Nightingale**
+**Nightingale:**
 No. On the battlefield, it's just an unavoidable instinct for warriors to seek proof that they have lived.
 
  
-**Nightingale**
+**Nightingale:**
 Assaulting helpless nurses is one thing.
 But, if I am the one nominated, that's a different story.
 
  
-**Mash**
+**Mash:**
 Huh&ndash;!?
 S-So, that means!
 
  
-**Mash**
+**Mash:**
 You're going to give him the okay!?
 
  
-**Nightingale**
+**Nightingale:**
 Yes.
 I will respectfully counter his attack.
 
  
-**Nightingale**
+**Nightingale:**
 After all, I am currently a nurse who possesses combat skills.
 
  
-**Mash**
+**Mash:**
 Oh, so that's what you meant!
 
  
-**Fergus**
+**Fergus:**
 Hah hah hah hah! In other words, you mean if I win the battle, I can have you!
 
  
-**Fergus**
+**Fergus:**
 Fine by me, I'll take you on!
 Master, this will be a decisive battle... Let's go!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Fergus**
+**Fergus:**
 Yes, victory is mine!
 
  
-**Fergus**
+**Fergus:**
 By the way my beautiful lady, is it my imagination,
 or were all your attacks concentrated solely on me?
 
  
-**Nightingale**
+**Nightingale:**
 No, you're not imagining things.
 ...Be that as it may, I will admit defeat.
 
  
-**Nightingale**
+**Nightingale:**
 Do as you wish, Fujimaru.
 My body is yours.
 
  
-**Fergus**
+**Fergus:**
 Don't you mean mine!?
 
  
-**Nightingale**
+**Nightingale:**
 ?
 
  
-**Nightingale**
+**Nightingale:**
 The winner is not the Servant,
 but the Master who commanded them, is it not?
 
  
-**Fergus**
+**Fergus:**
 That logic is so sound I don't know what to say!
 
  
@@ -562,12 +562,12 @@ That logic is so sound I don't know what to say!
 **Fujimaru 1:**
 N-Now wait just a minute!?
  
-**Mash**
+**Mash:**
 Y-Yes!
 It's not like Master fought with such an idea in mind!
 
  
-**Mash**
+**Mash:**
 ...Isn't that right, Master?
 ISN'T. THAT. RIGHT?
 
@@ -578,65 +578,65 @@ ISN'T. THAT. RIGHT?
 I'm sorry, some other time!
 
  
-**Mash**
+**Mash:**
 Exactly!
 Senpai is on a mission to save the world.
 
  
-**Mash**
+**Mash:**
 Getting sidetracked is, well...all sorts of danger, I think!
 
  
 
 ---
  
-**Nightingale**
+**Nightingale:**
 I can't believe this... You're the winner, yet you don't want your prize.
 
  
-**Nightingale**
+**Nightingale:**
 Well then, until next we meet.
 Goodbye, Fujimaru.
 
  
-**Mash**
+**Mash:**
 Whew... That was close.
 
  
-**Mash**
+**Mash:**
 Well, if you asked me what was so close,
 I wouldn't know the answer myself...
 
  
-**Fergus**
+**Fergus:**
 Hmm, so my last chance also ended in failure after all.
 I can't help but feel my self-confidence dwindling.
 
  
-**Mash**
+**Mash:**
 Ah, um... Er, well. Whatever the reason, I think your straightforward courtship is wonderful.
 
  
-**Mash**
+**Mash:**
 Please don't be discouraged, and keep trying.
 
  
-**Fergus**
+**Fergus:**
 ...
 ...
 
  
-**Fergus**
+**Fergus:**
 Miss Mash. If you'd like, after this&ndash;
 
  
-**Mash**
+**Mash:**
 Oh, that would be a no, thank you.
 
  
-**Fergus**
+**Fergus:**
 Rejected...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Guru Fergus...

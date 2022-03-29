@@ -2,24 +2,24 @@
 
 <h2>The Feudists</h2>
 
-**Mash**
+**Mash:**
 Oh, Senpai.
 
  
-**Mash**
+**Mash:**
 Yes, I was just reading.
 
  
-**Mash**
+**Mash:**
 I wanted to learn more about Nezha,
 so I was re-reading her story.
 
  
-**Mash**
+**Mash:**
 I had read “Journey to the West” before, but I learned of “Investiture of the Gods” only recently.
 
  
-**Mash**
+**Mash:**
 Have you heard of it?
 
  
@@ -29,7 +29,7 @@ Have you heard of it?
 **Fujimaru 1:**
 Both novels are pretty popular.
  
-**Mash**
+**Mash:**
 Really?
 
  
@@ -39,7 +39,7 @@ Really?
 **Fujimaru 2:**
 I don't think that many people have read the original text...
  
-**Mash**
+**Mash:**
 So there are many spin-off works from the original text.
 
  
@@ -47,27 +47,27 @@ So there are many spin-off works from the original text.
 
 ---
  
-**Mash**
+**Mash:**
 Human culture never ceases to amaze me.
 
  
-**Mash**
+**Mash:**
 The frequently mentioned Chinese classics are: “Journey to the West,” “Romance of the Three Kingdoms,” “Water Margin,” and “The Plum in the Golden Vase.”
 
  
-**Mash**
+**Mash:**
 Though many of the passionate readers switch the “Golden Vase” with “Investiture of the Gods” to insist that it is one of the great classic Chinese novels.
 
  
-**Mash**
+**Mash:**
 And some say that the “Investiture of the Gods” is one of the great Chinese classics, along with “Romance of the Three Kingdoms” and “Journey to the West.”
 
  
-**Mash**
+**Mash:**
 I also took a brief look at related Chinese texts...
 
  
-**Mash**
+**Mash:**
 But it appears that the lore for Nezha greatly differs from work to work.
 
  
@@ -77,12 +77,12 @@ But it appears that the lore for Nezha greatly differs from work to work.
 **Fujimaru 1:**
 Really?
  
-**Mash**
+**Mash:**
 It appears that she has Taoist,
 Buddhist, and even Hindu origins.
 
  
-**Mash**
+**Mash:**
 Although, that isn't really unique,
 even among the Servants we know...
 
@@ -93,7 +93,7 @@ even among the Servants we know...
 **Fujimaru 2:**
 There's just one question (read: gender) to clear up.
  
-**Mash**
+**Mash:**
 Senpai, here's your coffee. I believe there are certain topics that are best left alone.
 
  
@@ -101,19 +101,19 @@ Senpai, here's your coffee. I believe there are certain topics that are best lef
 
 ---
  
-**Mash**
+**Mash:**
 The Nezha that we know appears to be the most similar to the version from “Journey to the West”...
 
  
-**Mash**
+**Mash:**
 The Nezha of “Investiture of the Gods” seems like a better fit for a Berserker than a Lancer...
 
  
-**Mash**
+**Mash:**
 But Nezha is...hard to define. So many characteristics and aspects are jumbled together.
 
  
-**Mash**
+**Mash:**
 In “Investiture of the Gods,” many supernatural beings and spirits of various time periods assemble and participate in a bloody melee.
 
  
@@ -123,11 +123,11 @@ In “Investiture of the Gods,” many supernatural beings and spirits of variou
 **Fujimaru 1:**
 It's like Chaldea.
  
-**Mash**
+**Mash:**
 If you're likening “Investiture of the Gods” to an all-star battle set during the Ming Dynasty, you would not be far off the mark.
 
  
-**Mash**
+**Mash:**
 Though, I would prefer to not use the word “melee”...
 
  
@@ -137,7 +137,7 @@ Though, I would prefer to not use the word “melee”...
 **Fujimaru 2:**
 Both Heroic Spirits and humans have hidden sides.
  
-**Mash**
+**Mash:**
 True...it's not right to judge others by rumors or titles alone.
 
  
@@ -145,15 +145,15 @@ True...it's not right to judge others by rumors or titles alone.
 
 ---
  
-**Mash**
+**Mash:**
 On one hand, Nezha is enshrined as a god in China and Southeast Asia, even in modern times.
 
  
-**Mash**
+**Mash:**
 Don't you think it's odd for a god to be depicted as a youth?
 
  
-**Mash**
+**Mash:**
 I was very curious about that,
 and that's why I went to the library...
 
@@ -164,11 +164,11 @@ and that's why I went to the library...
 **Fujimaru 1:**
 Why don't we just ask Nezha?
  
-**Mash**
+**Mash:**
 Wouldn't...that be too...bold of us?
 
  
-**Mash**
+**Mash:**
 With so many aspects, maybe there are some she would prefer be left alone? Still...
 
  
@@ -178,11 +178,11 @@ With so many aspects, maybe there are some she would prefer be left alone? Still
 **Fujimaru 2:**
 Long have I awaited this day...
  
-**Mash**
+**Mash:**
 ...Senpai.
 
  
-**Mash**
+**Mash:**
 This is that legendary drink called “coffee.”
 It's black, so please drink it all down.
 
@@ -191,25 +191,25 @@ It's black, so please drink it all down.
 
 ---
  
-**Mash**
+**Mash:**
 Everyone is my teacher in life,
 and they are also my friends...
 
  
-**Mash**
+**Mash:**
 Even were it necessary for a mission,
 I'd like to avoid anything that could hurt them...
 
  
-**Mash**
+**Mash:**
 Though...my curiosity may be winning out over all that...
 
  
-**Mash**
+**Mash:**
 Um...Nezha's schedule for today is...
 
  
-**Mash**
+**Mash:**
 It appears that she is participating in a meeting run by the “Buddhist Club.”
 
  
@@ -219,11 +219,11 @@ It appears that she is participating in a meeting run by the “Buddhist Club.�
 **Fujimaru 1:**
 That's new. Where do they meet?
  
-**Mash**
+**Mash:**
 This is the first I heard of the group, as well.
 
  
-**Mash**
+**Mash:**
 I've heard of groups like “Old Men Seriously Reading Fairytales” and “Air Basketball Club”...
 
  
@@ -233,16 +233,16 @@ I've heard of groups like “Old Men Seriously Reading Fairytales” and “Air 
 **Fujimaru 2:**
 How do you know about this club?
  
-**Mash**
+**Mash:**
 Because I'm aware of all the clubs that are active in Chaldea!
 
  
-**Mash**
+**Mash:**
 Well...at least I wanted to be.
 I may have exaggerated a bit...
 
  
-**Mash**
+**Mash:**
 So actually, an anonymous Japanese Lancer came to me to discuss something, and that's how I heard about it.
 
  
@@ -250,11 +250,11 @@ So actually, an anonymous Japanese Lancer came to me to discuss something, and t
 
 ---
  
-**Mash**
+**Mash:**
 The meeting is held...in the simulator room, it seems.
 
  
-**Mash**
+**Mash:**
 I can even hear the sounds of battle all the way out here. I can only assume that an extensive training session is underway.
 
  
@@ -264,7 +264,7 @@ I can even hear the sounds of battle all the way out here. I can only assume tha
 **Fujimaru 1:**
 Forcing my way in.
  
-**Mash**
+**Mash:**
 Ah, Senpai!?
 
  
@@ -274,7 +274,7 @@ Ah, Senpai!?
 **Fujimaru 2:**
 I'd like to join the club.
  
-**Mash**
+**Mash:**
 If it's a Buddhist Club, would the conditions to join the club be renouncing the world and becoming a monk?
 
  
@@ -282,14 +282,14 @@ If it's a Buddhist Club, would the conditions to join the club be renouncing the
 
 ---
 
-**--ARROW--**
+**--ARROW--:**
 
-**Nezha**
+**Nezha:**
 Master!
 Have. No need. For assistance. Or strategizing.
 
  
-**Nezha**
+**Nezha:**
 This is training!
 
  
@@ -307,100 +307,100 @@ That's why I wanted to join.
 
 ---
  
-**Benkei**
+**Benkei:**
 Wonderful, Lord Nezha.
 Such superb fighting technique!
 
  
-**Benkei**
+**Benkei:**
 My naginata is certainly getting a workout.
 Your mystical spear is especially ravishing!
 
  
-**Benkei**
+**Benkei:**
 And this is called the Fire-Tipped Spear?
 
  
-**Benkei**
+**Benkei:**
 Well, you are more than qualified to join our Buddhist Club!
 
  
-**Nezha**
+**Nezha:**
 ...??? Do not. Understand.
 
  
-**Nezha**
+**Nezha:**
 Buddhist Club? More like. Feudist club!
 
  
-**Nezha**
+**Nezha:**
 But. You helped me train...
 You were. Enthusiastic. Thank you. For that.
 
  
-**Sanzang**
+**Sanzang:**
 Huh? When did this turn into a club admission test?
 
  
-**Sanzang**
+**Sanzang:**
 Actually, we welcome anyone and everyone to our Buddhist gathering.
 
  
-**Sanzang**
+**Sanzang:**
 But honestly, I was beyond excited when I learned that Nezha had come to Chaldea!
 
  
-**Sanzang**
+**Sanzang:**
 I'd be happy to spend time with you!
 Not just when we're training, either!
 
  
-**Sanzang**
+**Sanzang:**
 From eating vegetarian sweets, picking out a priest's stole, temple hopping...I'm game for anything!
 
  
-**Nezha**
+**Nezha:**
 You just want. Me to indulge. Your desires.
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 ...Um...
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 I'm all for being wrapped in the warm embrace of friends old and new...
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 But I do not remember...EVER...joining such a club.
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 What I DO remember is being grabbed and dragged in here. Isn't this kidnapping!?
 
  
-**Mash**
+**Mash:**
 ...R-really? I was wondering why you were here.
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 Well, I'm relieved to know that at least SOMEONE is concerned about me!
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 Oh, but if Master is considering joining, I may be more inclined to do so, too. So, all's well that ends well!
 
  
-**Nezha**
+**Nezha:**
 Don't go. Near...Master! Evil fox spirit!!!
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 MIKON!?
 The end of my poor tail is on fire!
 
  
-**Mash**
+**Mash:**
 Nezha!?
 She just used her Fire-Tipped Spear!
 
@@ -419,55 +419,55 @@ We're not in the simulator anymore!
 
 ---
  
-**Benkei**
+**Benkei:**
 If I may explain...
 Lord Nezha requested a match with Lady Tamamo.
 
  
-**Nezha**
+**Nezha:**
 No. Not just a match.
 I am going. To kill her. KILL!
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 WHAAAT!?
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 No wonder it felt like you were just going after me!
 I don't understand this sudden assault against me!
 
  
-**Mash**
+**Mash:**
 Let me guess...does Nezha see Tamamo as the character from the “Investiture of the Gods”...?
 
  
-**Mash**
+**Mash:**
 That is, the fox spirit, Daji, who is said to have caused the decline of the Shang dynasty!?
 
  
-**Nezha**
+**Nezha:**
 Yes! Correct!
 
  
-**Nezha**
+**Nezha:**
 She is. The unparalleled trickster. Brutal. Conniving fox! She will. Surely cause. Chaldea's downfall!
 
  
-**Sanzang**
+**Sanzang:**
 Oh, really?
 
  
-**Sanzang**
+**Sanzang:**
 So, so...were you also Lady Huangyang from Tianzhu all that time ago? She was pretty foxy, too.
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 Hmmm...hmmm...
 Tamamo doesn't know♡
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 I can neither confirm nor deny such a thing... I'm a little fuzzy when it comes to my past life and stuff...
 
  
@@ -477,24 +477,24 @@ I can neither confirm nor deny such a thing... I'm a little fuzzy when it comes 
 **Fujimaru 1:**
 Even so, that has nothing to do with the Tamamo in Chaldea.
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 Oh, Master...!
 
  
-**Benkei**
+**Benkei:**
 Ah, that's our Master. Your acceptance and generosity toward others is more vast than any ocean!
 
  
-**Sanzang**
+**Sanzang:**
 Yes! That's my disciple you're talking about!
 
  
-**Sanzang**
+**Sanzang:**
 But...I will have a word with you later,
 Benkei, for starting this whole kerfuffle.
 
  
-**Benkei**
+**Benkei:**
 Hmgh!
 
  
@@ -504,30 +504,30 @@ Hmgh!
 **Fujimaru 2:**
 Fight, and whoever wins shall be my consort!
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 Mikon!? I heard something just like that in my previous life! Ah, that brings back memories... Now I'm all fired up!
 
  
-**Nezha**
+**Nezha:**
 C-consort!?
 I-I refuse! Why ME!?
 
  
-**Mash**
+**Mash:**
 That's right, Senpai!
 Please do not tease them like that!
 
  
-**Sanzang**
+**Sanzang:**
 That's right, my disciple! If we're going to do it, it'll have to be fair and square! Like in a tournament!
 
  
-**Nezha**
+**Nezha:**
 X-Xuanzang!
 You half-witted monk!
 
  
-**Sanzang**
+**Sanzang:**
 Leaving the consort issue aside...
 
  
@@ -535,35 +535,35 @@ Leaving the consort issue aside...
 
 ---
  
-**Sanzang**
+**Sanzang:**
 Fated enemies... Such encounters are bound to happen in a place where Servants assemble.
 
  
-**Sanzang**
+**Sanzang:**
 Nezha's grudge would probably have come up at some point.
 
  
-**Sanzang**
+**Sanzang:**
 But since she came by seeking help from our club...
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 I am not asking for help, not this shrine maiden♡
 
  
-**Sanzang**
+**Sanzang:**
 Leaving the source of the dispute alone would likely affect future activities for Fujimaru.
 
  
-**Sanzang**
+**Sanzang:**
 Now, you two...
 
  
-**Sanzang**
+**Sanzang:**
 Since we have the simulator here, why don't we banish our worldly desires here?
 
  
-**Benkei**
+**Benkei:**
 Hm...what are you suggesting?
 
  
@@ -576,101 +576,101 @@ A one-on-one all-out...battle?
 
 ---
  
-**Sanzang**
+**Sanzang:**
 Yep. That's right.
 
  
-**Sanzang**
+**Sanzang:**
 Personally, I prefer not to believe that Tamamo is a bad Heroic Spirit...
 
  
-**Nezha**
+**Nezha:**
 Xuanzang...
 
  
-**Nezha**
+**Nezha:**
 That. Is quite. A grand sentiment.
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 ...One-on-one!? (Ears twitching)
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 ...Teehee. That's the spirit.
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 You started this, so you won't mind if I hit back full-force, right?
 
  
-**Mash**
+**Mash:**
 Tamamo is quite riled up.
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 Very well. I accept your challenge!
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 And then I will assume the position of reliable consort, once and for all! Please watch, Master☆
 
  
-**Nezha**
+**Nezha:**
 I thought. We dropped. The idea.
 Of becoming. Master's consort?
 
  
-**Nezha**
+**Nezha:**
 !!!
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 Now, this will be a fair and square one-on-one fight! And your opponent will be ME!
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 Don't you dare say you've never seen anything like this in Chaldea! Just come at me!
 
  
-**Nezha**
+**Nezha:**
 Body clones!? Divided Spirits!?
 Oh, yes!
 
  
-**Nezha**
+**Nezha:**
 Even I. Know. Three-faced. Six-armed. Battle techniques. I shall. Be your. Greatest Opponent!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Nezha**
+**Nezha:**
 I won! It is my! Victory!
 
  
-**Nezha**
+**Nezha:**
 Even if. The evil. Fox spirit. Goes mad.
 Everything should. Be fine. Since I. Am here!
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 I...lost...unnnghhh... The path to becoming the perfect Servant...cannot be walked in a single day...
 
  
-**Benkei**
+**Benkei:**
 But it was a grand battle.
 
  
-**Sanzang**
+**Sanzang:**
 You think so? I think Nezha needs more training.
 
  
-**Sanzang**
+**Sanzang:**
 Growing is good, especially for Nezha,
 who will always remain in her childhood form.
 
  
-**Nezha**
+**Nezha:**
 I once. Sealed away. Ninety-six demons.
 So three. Or even. A hundred. Demons&ndash;
 
@@ -681,15 +681,15 @@ So three. Or even. A hundred. Demons&ndash;
 **Fujimaru 1:**
 I'm counting on you, Nezha.
  
-**Nezha**
+**Nezha:**
 Oh...Master...
 
  
-**Nezha**
+**Nezha:**
 Okay! Got it!
 
  
-**Nezha**
+**Nezha:**
 I will focus. And work. My hardest!
 
  
@@ -699,11 +699,11 @@ I will focus. And work. My hardest!
 **Fujimaru 2:**
 Thanks for holding back, Tamamo.
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 Master... Of course...
 
  
-**Tamamo-no-Mae**
+**Tamamo-no-Mae:**
 As the shrine maiden with a permanent spot reserved at Master's side, it's the least I can do☆
 
  
@@ -711,25 +711,25 @@ As the shrine maiden with a permanent spot reserved at Master's side, it's the l
 
 ---
  
-**Mash**
+**Mash:**
 So it appears that Nezha not only possesses memories from “Journey to the West,” but also from the “Investiture of the Gods.”
 
  
-**Nezha**
+**Nezha:**
 Yes. That is. Just another. Part of. My past.
 
  
-**Nezha**
+**Nezha:**
 The “me.” From then. Always sought. New enemies.
 And I was. Violent... Dangerous...
 
  
-**Nezha**
+**Nezha:**
 I was. Like...a Berserker. I had. No right.
 To bad-mouth. The Great Sage. Heaven's Equal.
 
  
-**Mash**
+**Mash:**
 ...
 
  
@@ -742,44 +742,44 @@ What kind of person do you want to be now, Nezha?
 
 ---
  
-**Nezha**
+**Nezha:**
 Master...
 
  
-**Nezha**
+**Nezha:**
 I...I...honestly...
 
  
-**Nezha**
+**Nezha:**
 Rather than. A strong god. Of martial arts. I want to be. A good god. One who. Is kind. To children.
 
  
-**Nezha**
+**Nezha:**
 I hated. And cursed. My parents. Especially Father.
 
  
-**Nezha**
+**Nezha:**
 Even now. Even with. My soul. Wandering so. The flame. Within me. Has yet. To be. Fully extinguished.
 
  
-**Nezha**
+**Nezha:**
 And so. I wish. To cherish. The young. I want. To Protect. Children. And save them. From going through. What I. Once did...
 
  
-**Nezha**
+**Nezha:**
 My desires...may not. Match up.
 With other. Strong people's...
 
  
-**Nezha**
+**Nezha:**
 They may. Not fit. A Servant. Of Chaldea...
 
  
-**Mash**
+**Mash:**
 No! That's not true, Nezha.
 
  
-**Mash**
+**Mash:**
 We welcome Nezha with open arms!
 Right, Senpai!?
 
@@ -798,7 +798,7 @@ There is strength in kindness.
 
 ---
  
-**Nezha**
+**Nezha:**
 ...I see.
 Then...I'm relieved. Master...thank you.
 
@@ -817,7 +817,7 @@ There's something I've been curious about...
 
 ---
  
-**Mash**
+**Mash:**
 ...Senpai...
 
  
@@ -835,23 +835,23 @@ Take a look at this list, and tell me which one you identify with...
 
 ---
  
-**Nezha**
+**Nezha:**
 ...Hm?
 
  
-**Nezha**
+**Nezha:**
 “Male,” “Female,” “Both,” “None,” “Beep-boop,” “Astrodroid,” “Non-binary”...
 
  
-**Nezha**
+**Nezha:**
 ...HMMMMMMMMMMM!?
 
  
-**Nezha**
+**Nezha:**
 NO, Master! Understand that. There are. Some topics. That I. Do not. Wish to. Talk about. Even at. My Master's. Earnest request!
 
  
-**Mash**
+**Mash:**
 ...Senpai! Please have this scalding hot cup of coffee!!!
 
 

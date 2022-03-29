@@ -7715,7 +7715,7 @@ Fou, fooou!
 What? They've gone on the attack? 
  
 **Prince of Lan Ling:**
-That's right. The Master of Chaldea and[♂ his /♀ her] Servants are charging in like fools. 
+That's right. The Master of Chaldea and [♂ his /♀ her] Servants are charging in like fools. 
  
 **Akuta Hinako:**
 Hmph, this is perfect. Not even the emperor would stop us from engaging invaders. 
@@ -13186,7 +13186,7 @@ It may be better than walking, but we'll feel every bump of the road and then so
 **Da Vinci:**
 Well, beggars can't be choosers! We'll just have to make the best of it! 
 
-<b>--SECTION BREAK--<b></br>
+**--SECTION BREAK--**
  
 **Narration:**
 Long, long ago, this was a beautiful place. 

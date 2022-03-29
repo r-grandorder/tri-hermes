@@ -2,326 +2,326 @@
 
 <h2>Grendel's Second Coming</h2>
 
-**Beowulf**
+**Beowulf:**
 Anomaly during summons?
 
  
-**Mash**
+**Mash:**
 Yes...
 
  
-**Mash**
+**Mash:**
 The Doctor says that when you were summoned, there was a disturbance during this era in this spot.
 
  
-**Mash**
+**Mash:**
 That might be the reason why you can't unlock your second Noble Phantasm.
 
  
-**Beowulf**
+**Beowulf:**
 Something else was summoned at the same time...
 The answer's simple.
 
  
-**Mash**
+**Mash:**
 So&ndash;you think it's Grendel?
 
  
-**Beowulf**
+**Beowulf:**
 No doubt. I can't think of anything besides him that could influence the summoning process.
 
  
-**Beowulf**
+**Beowulf:**
 It's true there are nameless fire dragons out there...
 
  
-**Beowulf**
+**Beowulf:**
 But Grendel was the only monster with such fierce hate and glory in my life.
 
  
-**Beowulf**
+**Beowulf:**
 He was an evil creature who played with people's lives.
 
  
-**Beowulf**
+**Beowulf:**
 The kind of evil that reveled in the meaningless slaughter of people trapped in their dwellings.
 
  
-**Beowulf**
+**Beowulf:**
 I can understand fights over territory,
 or animals just fighting for survival.
 
  
-**Beowulf**
+**Beowulf:**
 But&ndash;Grendel had both reason and intellect and was simply evil.
 
  
-**Beowulf**
+**Beowulf:**
 That's why his very existence...
 is far more of a threat to me than that of a fire dragon.
 
  
-**Beowulf**
+**Beowulf:**
 Fire dragons are passive as long as you leave their treasure alone. But Grendel's a twisted monster who revels in evil.
 
  
-**Beowulf**
+**Beowulf:**
 If he revived as a side-effect of my summoning&ndash;
 I gotta kill him.
 
  
-**Mash**
+**Mash:**
 ...Then let's go. The last response was in the old castle up ahead.
 
  
-**Mash**
+**Mash:**
 If you take a look at it, maybe you'll figure something out.
 
  
-**Beowulf**
+**Beowulf:**
 Okay.
 Let's go, Master.
 
  
-**Beowulf**
+**Beowulf:**
 There are some things that shouldn't exist in this world.
 Grendel is one of them.
 
  
-**Mash**
+**Mash:**
 It's&ndash;deserted.
 Not a soul to be seen.
 
  
-**Beowulf**
+**Beowulf:**
 I can smell blood.
 It seems we missed our chance.
 
  
-**Mash**
+**Mash:**
 Ugh...
 
  
-**Beowulf**
+**Beowulf:**
 Mash, can you tell? Looks like every last human in this castle was slaughtered.
 
  
-**Beowulf**
+**Beowulf:**
 ...Damn.
 This isn't good.
 
  
-**Beowulf**
+**Beowulf:**
 The more human flesh he consumes, the more powerful and evil he gets. We have to crush him before he attains his perfect form.
 
  
-**Mash**
+**Mash:**
 But, where is he&ndash;?
 
  
-**Beowulf**
+**Beowulf:**
 Something's close!
 Mash, prepare for battle!
 
  
-**Mash**
+**Mash:**
 It's coming!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Beowulf**
+**Beowulf:**
 Damn... We didn't take it down!
 
  
-**Mash**
+**Mash:**
 W-Was that a chimera?
 
  
-**Beowulf**
+**Beowulf:**
 Grendel is a protean creature.
 He can change his form depending on the situation.
 
  
-**Beowulf**
+**Beowulf:**
 That's why I need Hrunting,
 because it tracks enemies.
 
  
-**Beowulf**
+**Beowulf:**
 Let's go after him. Follow me!
 
  
-**Beowulf**
+**Beowulf:**
 So, here...
 
  
-**Soldier A**
+**Soldier A:**
 H-Help me...
 
  
-**Mash**
+**Mash:**
 That...
 
  
-**Soldier A**
+**Soldier A:**
 Help me...
 
  
-**Mash**
+**Mash:**
 Wait, now!
 
  
-**Beowulf**
+**Beowulf:**
 Stop!
 
  
-**Mash**
+**Mash:**
 !?
 
  
-**Mash**
+**Mash:**
 Wh-Why&ndash;!?
 
  
-**Beowulf**
+**Beowulf:**
 ...Enough of this stupid farce, Grendel.
 Hrunting is eager to bite into you.
 
  
-**???**
+**???:**
 ...
 ...
 
  
-**Mash**
+**Mash:**
 What, a fake&ndash;?
 
  
-**Beowulf**
+**Beowulf:**
 Something like that!
 Let's go, Master. It's not a human, so don't hold back!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Beowulf**
+**Beowulf:**
 He ran away again. Listen up, young lady.
 Don't trust whoever it is you next meet in this castle.
 
  
-**Beowulf**
+**Beowulf:**
 Also, don't be surprised by who you run into.
 He can read your mind like a book.
 
  
-**Beowulf**
+**Beowulf:**
 When he appears again, he'll likely take the form of someone we know.
 
  
-**Beowulf**
+**Beowulf:**
 Brace yourself, it's gonna be painful.
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Beowulf**
+**Beowulf:**
 Just a little more...
 Hey, come on out already!
 
  
-**Jeanne**
+**Jeanne:**
 ...
 ...
 
  
-**Nero**
+**Nero:**
 ...
 ...
 
  
-**Drake**
+**Drake:**
 ...
 ...
 
  
-**Mash**
+**Mash:**
 ...T-These are all fakes!?
 
  
-**Beowulf**
+**Beowulf:**
 Right. What looks like armor and clothes is hardened skin. The weapons are extensions of claws and hair.
 
  
-**Beowulf**
+**Beowulf:**
 Pretty nasty, right?
 That's why he's evil.
 
  
-**Beowulf**
+**Beowulf:**
 But luckily it looks like we can kill him before he starts talking to us.
 
  
-**Mash**
+**Mash:**
 He talks?
 
  
-**Beowulf**
+**Beowulf:**
 Only based on the speech in the memories he extracts.
 
  
-**Grendel**
+**Grendel:**
 ...N-No.
 I'm just...not...used...to this body yet.
 
  
-**Grendel**
+**Grendel:**
 I don't know...why I was...summoned.
 But...I'll do what...I have to.
 
  
-**Mash**
+**Mash:**
 What on earth...
 
  
-**Grendel**
+**Grendel:**
 I'll kill you...in a cruel way.
 Every last one...in cold blood.
 
  
-**Grendel**
+**Grendel:**
 That's how it is.
 That's how it must be.
 
  
-**Grendel**
+**Grendel:**
 That's what makes me Grendel. Like how I feasted on the human souls back in that castle!
 
  
-**Beowulf**
+**Beowulf:**
 Shut up. You probably just heard that from your mom. I'll make sure the two of you are nice and cozy together in hell.
 
  
-**Beowulf**
+**Beowulf:**
 Master, let's go!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Grendel**
+**Grendel:**
 D-Damn you!
 
  
-**Mash**
+**Mash:**
 Ugh... I feel queasy... I know they're fakes, but the sensation when you hit them...
 
  
-**Mash**
+**Mash:**
 But it's all over now, right?
 There's no response. Let's head back.
 
  
-**Beowulf**
+**Beowulf:**
 ...
 ...Master, don't you think something's off?
 
@@ -332,7 +332,7 @@ There's no response. Let's head back.
 **Fujimaru 1:**
 I don't know.
  
-**Beowulf**
+**Beowulf:**
 I see...
 
  
@@ -342,7 +342,7 @@ I see...
 **Fujimaru 2:**
 Yeah, vaguely.
  
-**Beowulf**
+**Beowulf:**
 You've got a sharp nose.
 That's my Master.
 
@@ -351,134 +351,134 @@ That's my Master.
 
 ---
  
-**Mash**
+**Mash:**
 What do you mean?
 
  
-**Beowulf**
+**Beowulf:**
 It's a vicious creature we're dealing with.
 Not the sort to accept death without a struggle.
 
  
-**Beowulf**
+**Beowulf:**
 ...Something smells.
 Can we search a little longer?
 
  
-**Mash**
+**Mash:**
 Okay... If you think it's a good idea,
 there's no problem.
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Mash**
+**Mash:**
 He's nowhere to be found...
 
  
-**Fou**
+**Fou:**
 ...Fou!
 
  
-**Mash**
+**Mash:**
 Fou?
 
  
-**Fou**
+**Fou:**
 Fou, fou, fou!
 
  
-**Mash**
+**Mash:**
 ...Below us?
 
  
-**Beowulf**
+**Beowulf:**
 Oh, damn, I didn't notice.
 This castle has a cellar. Let's check it out.
 
  
-**Mash**
+**Mash:**
 I can't believe the cellar connects to a place like this...
 
  
-**Beowulf**
+**Beowulf:**
 So that thing faked his death and fled here.
 Which means&ndash;
 
  
-**Grendel**
+**Grendel:**
 Ugh... D-Damn you...
 
  
-**Beowulf**
+**Beowulf:**
 We've got you cornered.
 Your mom's not here, buddy.
 
  
-**Beowulf**
+**Beowulf:**
 I'll send you to hell where you belong!
 I, Beowulf, will show you no mercy!
 
  
-**Grendel**
+**Grendel:**
 I could say...the same...
 I've read the memory...of the one who killed you!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Beowulf**
+**Beowulf:**
 It's over, Grendel.
 You're a monster that's not meant to be summoned.
 
  
-**Beowulf**
+**Beowulf:**
 We'll likely never meet again.
 ...Dammit, I met the one I wanted to meet the least.
 
  
-**Grendel**
+**Grendel:**
 Wh-Why...
 The one...who killed...you...
 
  
-**Beowulf**
+**Beowulf:**
 Actually, you're the one I fear the most in this world.
 The fire dragon simply dealt the killing blow.
 
  
-**Beowulf**
+**Beowulf:**
 It was strong, but didn't frighten me.
 I also now have dependable allies, unlike then.
 
  
-**Beowulf**
+**Beowulf:**
 You're a fool to not see that.
 
  
-**Beowulf**
+**Beowulf:**
 Good riddance, masquerader.
 You should've had a bit more faith in your own strength.
 
  
-**Grendel**
+**Grendel:**
 D-Damn you!
 
  
-**Mash**
+**Mash:**
 Seems we really got him this time!
 
  
-**Beowulf**
+**Beowulf:**
 Guess so. My Noble Phantasm is unlocked now.
 
  
-**Beowulf**
+**Beowulf:**
 In the future you'll face punks looking for a fight.
 When that happens, let me help you.
 
  
-**Beowulf**
+**Beowulf:**
 Well then, I guess we should head back, Master! Time for our triumphant return! Hah hah!
 
 

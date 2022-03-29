@@ -42,44 +42,44 @@ What is this place...?
 
 ---
  
-**Emiya Alter**
+**Emiya Alter:**
 You awake now, Master? You remember anything?
 
  
-**Emiya Alter**
+**Emiya Alter:**
 No, huh.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Looks like you and I are in the same boat then.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 The situation looks pretty grim.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 I think we're in Japan sometime in the 2000s,
 but as you can see, there's been a huge disaster.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 And we can't seem to get in touch with Chaldea either.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Looks like our only choice is to make our way through this burning city.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 I'm sure you're not thrilled about being stuck with me, but I'm sure we'll find a Servant who's a better fit for this sooner or later.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 In the meantime, I'll start by cleaning up the riffraff.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Don't fall behind. Make sure you keep up.
 
  
@@ -92,9 +92,9 @@ W-will do!
 
 ---
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Emiya Alter**
+**Emiya Alter:**
 Well that was a waste of time. Come on, let's hurry.
 
  
@@ -104,7 +104,7 @@ Well that was a waste of time. Come on, let's hurry.
 **Fujimaru 1:**
 You know, I've been wondering for a while now&ndash;
  
-**Emiya Alter**
+**Emiya Alter:**
 Whatever it is, I'm not interested unless it has to do with my capabilities.
 
  
@@ -112,79 +112,79 @@ Whatever it is, I'm not interested unless it has to do with my capabilities.
 
 ---
  
-**Emiya Alter**
+**Emiya Alter:**
 ...
 ...
 
  
-**Emiya Alter**
+**Emiya Alter:**
 That said, the fact that you still have energy for idle chatter is good.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 If there's something you wanna ask me on the way,
 go ahead. If I feel like it, I'll answer.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 If you're wondering what I am, that's hard to explain.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 As a Master, you ought to know that every hero has another side to them.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Some of them, they slaughter innocent people without so much as blinking. Others, they fight to protect their country like their lives depended on it.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Most of those types that everyone looks up to have some sort of hidden cruel side.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Then you have Servants, which reflect only one side of the hero they represent.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Sometimes, a Servant'll reflect that hero's hidden side...
 
  
-**Emiya Alter**
+**Emiya Alter:**
 ...and sometimes, their Spirit Origin'll end up corrupted for one reason or another.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Servants like that all get lumped into a different category.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 We're talking the possible destruction of all of humanity here. We need all the help we can get, and we can't be choosy about whether we get it from good or bad people.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 ...But even there, I'm an unusual case.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 The other me was a nameless hero,
 shaped by society at large.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 It might've been a one-of-a-kind event,
 but it still happened naturally.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 But me, I'm not one of a kind. I'm just twisted.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 The past that made me a hero is gone, and I don't remember anything about who I used to be.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 All that's left now is my ability to kill my enemies.
 That's the only reason I materialized.
 
@@ -195,15 +195,15 @@ That's the only reason I materialized.
 **Fujimaru 1:**
 Is that why you spend most of your time in your spirit form?
  
-**Emiya Alter**
+**Emiya Alter:**
 Yeah.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 The others try to find meaning in existence, but since I'm just a weapon, I don't bother with anything outside of a fight.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 After all, no one should go waving weapons around when there's no battles to be fought, right?
 
  
@@ -213,11 +213,11 @@ After all, no one should go waving weapons around when there's no battles to be 
 **Fujimaru 2:**
 Then, your memories
  
-**Emiya Alter**
+**Emiya Alter:**
 I know in my head that the other guy is who I used to be.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 But it doesn't feel real. It's like we've been separated into two completely different people.
 
  
@@ -225,11 +225,11 @@ But it doesn't feel real. It's like we've been separated into two completely dif
 
 ---
  
-**Emiya Alter**
+**Emiya Alter:**
 Anyway, enough prattling. Come on, Master.
 
 
-**--ARROW--**
+**--ARROW--:**
 
 **Narration:**
 He never remembers the intervening moments.
@@ -271,55 +271,55 @@ and feels as though he's falling ever deeper into the abyss.
 “at least I've still got something to lose.”
 
  
-**Emiya Alter**
+**Emiya Alter:**
 ...It's faint, but there are traces of magecraft being used up ahead.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 And since I don't see any other obvious leads,
 I guess we'll just have to head there next.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Come on. It'll be a walk.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 ...What? You still want to talk?
 
  
-**Emiya Alter**
+**Emiya Alter:**
 I can tell you're the inquisitive type,
 but you're better off forgetting about it.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Other Servants have pasts and presents.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 They've got honor, goals, purpose, glory, desires,
 dreams, feelings... All that stuff.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 I don't have any of that.
 I have nothing to give, and nothing to offer.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 ...That's the main thing I've got going for me. The cradle of my origin.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 So there's no point in learning about me.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 All you need to know is what I'm capable of.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 ...
 
  
@@ -332,24 +332,24 @@ A Shadow Servant...
 
 ---
  
-**Emiya Alter**
+**Emiya Alter:**
 Is this guy why we're stuck wandering around here...?
 Well, I guess it doesn't matter.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Fire up your magical energy, Master.
 We're taking him down!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Emiya Alter**
+**Emiya Alter:**
 ...
 ...Guess he wasn't the one.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 But at least I found some new traces of magecraft.
 Come on, let's keep moving.
 
@@ -363,37 +363,37 @@ R-right!
 
 ---
  
-**Emiya Alter**
+**Emiya Alter:**
 Why don't I ever talk to my other self?
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Why would I? There's no point.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 If he's all that's left of the man he used to be,
 I barely qualify as whatever's left over from that...
 
  
-**Emiya Alter**
+**Emiya Alter:**
 No, even that's giving me too much credit. If that were the case, I'd still have some reason to exist.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 But I'm just a thing, without any purpose.
 It wouldn't make any difference if I was gone.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 As far as the other guy's concerned, he could kill me a thousand times and it still wouldn't be enough.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 ...These traces lead into that cave. Let's hurry.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 ...Don't you think it's strange?
 
  
@@ -403,7 +403,7 @@ As far as the other guy's concerned, he could kill me a thousand times and it st
 **Fujimaru 1:**
 Don't I think what's strange?
  
-**Emiya Alter**
+**Emiya Alter:**
 ...
 ...
 
@@ -414,11 +414,11 @@ Don't I think what's strange?
 **Fujimaru 2:**
 I do, but what other choice do we have?
  
-**Emiya Alter**
+**Emiya Alter:**
 Gotcha.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 At least you're not as dense as I thought.
 
  
@@ -426,37 +426,37 @@ At least you're not as dense as I thought.
 
 ---
  
-**Emiya Alter**
+**Emiya Alter:**
 I'm guessing this is a dreamworld.
 An artificial hell. The end of nothingness.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 A place that makes you confront your sins and demands you pay for them.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 ...I've seen it before.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 But I don't know why we're here.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 I'm not looking for anything from you,
 and you're not looking for anything from me.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 We're just helping each other out. That's all there is to it.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 So then, why am I&ndash;why are we here?
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Anyway, let's keep moving. Whatever's going on here,
 we'll have to take care of it before we can go home.
 
@@ -510,7 +510,7 @@ But I'm not that far gone.
 ...Not yet, anyway.
 
 
-**--ARROW--**
+**--ARROW--:**
 
 
 ---
@@ -518,7 +518,7 @@ But I'm not that far gone.
 **Fujimaru 1:**
 There's nothing here...
  
-**Emiya Alter**
+**Emiya Alter:**
 You're right.
 But I'm pretty sure this is our last stop.
 
@@ -529,11 +529,11 @@ But I'm pretty sure this is our last stop.
 **Fujimaru 2:**
 I kind of thought we'd find the shadowy guy with the foul mouth here.
  
-**Emiya Alter**
+**Emiya Alter:**
 Who're you talking about?
 
  
-**Emiya Alter**
+**Emiya Alter:**
 ...Ah, whatever. Just hang on.
 
  
@@ -541,64 +541,64 @@ Who're you talking about?
 
 ---
  
-**???**
+**???:**
 If you're here, then I doubt anybody summoned me.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 That's right.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 You're like a tumor that snuck its way into my dreams, aren't you? I'm taking you out and getting Master home.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Hope you enjoyed your life, because it ends here.
 
  
-**???**
+**???:**
 Oh, I'm pretty used to that sort of thing by now.
 That said...
 
  
-**???**
+**???:**
 ...I'm not just going to abandon my survival instinct and let you chop my head off.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 ...The hell?
 
  
-**???**
+**???:**
 What's there to be upset about?
 Isn't that why you need a Master?
 
  
-**Emiya Alter**
+**Emiya Alter:**
 No...you're right.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Come on, Master. This is the last battle we've got to fight to get home.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Let's go.
 
  
-**???**
+**???:**
 I see. Well, for your sake,
 I certainly hope you can return home.
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**???**
+**???:**
 ...!
 
  
-**A：Emiya Alter**
+**A：Emiya Alter:**
 ...Something's not right.
 
  
@@ -611,20 +611,20 @@ What is it?
 
 ---
  
-**A：Emiya Alter**
+**A：Emiya Alter:**
 ...I know my swords and bullets tore through you.
 
  
-**A：Emiya Alter**
+**A：Emiya Alter:**
 So how are you still alive?
 
  
-**C：???**
+**C：???:**
 Why wouldn't I be?
 A Servant can't go down without a fight.
 
  
-**A：Emiya Alter**
+**A：Emiya Alter:**
 ...Huh!?
 
  
@@ -637,87 +637,87 @@ Th-there's two of him!?
 
 ---
  
-**D：Emiya Alter?**
+**D：Emiya Alter?:**
 ...There you have it.
 
  
-**D：Emiya Alter?**
+**D：Emiya Alter?:**
 I'm sure you can understand,
 since we are the same person.
 
  
-**A：Emiya Alter**
+**A：Emiya Alter:**
 ...
 ...
 
  
-**A：Emiya Alter**
+**A：Emiya Alter:**
 ...Yeah, I get it now.
 I was the tumor.
 
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 Sure looks that way.
 
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 There really isn't much difference between us, though.
 
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 Our rote, mechanical way of life is just so simple that even the concept of who we are starts to get hazy.
 
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 That's the long and short of it, Master.
 Now stand back a bit.
 
  
-**B：???**
+**B：???:**
 ...You came here to save Fujimaru?
 
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 Of course. Despite everything, I'm still [♂ his /♀️ her} Servant.
 
  
-**B：???**
+**B：???:**
 Hmph.
 
  
-**B：???**
+**B：???:**
 I might be the cancer here, but you're not far off from being just like me.
 
  
-**B：???**
+**B：???:**
 Whatever fate's got in store for us can't be that different.
 
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 ...You might be right.
 
  
-**B：???**
+**B：???:**
 That said, it does look like I'm getting in the way.
 
  
-**B：???**
+**B：???:**
 So then, there's only one way to end this.
 
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 Don't look at him, Fujimaru.
 
  
-**B：???**
+**B：???:**
 Screw that. You should see this through to the end.
 
  
-**B：???**
+**B：???:**
 You should see what happens when a man who's lost sight of everything is as far gone as he can be.
 
  
-**B：???**
+**B：???:**
 I'd say it's a fitting end for me, don't you think?
 
  
@@ -727,7 +727,7 @@ I'd say it's a fitting end for me, don't you think?
 **Fujimaru 1:**
 He...turned his gun...on himself...
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 I told you not to look.
 
  
@@ -737,7 +737,7 @@ I told you not to look.
 **Fujimaru 2:**
 No...
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 Don't worry about it. It's what had to be done to resolve this.
 
  
@@ -745,23 +745,23 @@ Don't worry about it. It's what had to be done to resolve this.
 
 ---
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 I don't blame you for not realizing he was an imposter. He wasn't.
 
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 This dream&ndash;if that's even what it really is&ndash;will be over soon.
 
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 Once you're awake, you should forget this ever happened.
 
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 It's all been just a nightmare. That's all.
 
  
-**D：Emiya Alter**
+**D：Emiya Alter:**
 Once you forget it, I will too. After all...
 
  
@@ -769,23 +769,23 @@ Once you forget it, I will too. After all...
 "Even things that happened five minutes ago feel like a dream from long ago."
 
  
-**Emiya Alter**
+**Emiya Alter:**
 You up now, Master?
 
  
-**Emiya Alter**
+**Emiya Alter:**
 There was something strange happening with my Spirit Origin. It happened right around the time your vitals started going haywire.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Guess you and I were sharing one of those Servant dream things.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 You look like you're all right now, but make sure you get yourself a mental health checkup too.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 So? What'd you see in there?
 
  
@@ -795,24 +795,24 @@ So? What'd you see in there?
 **Fujimaru 1:**
 I don't remember a thing.
  
-**Emiya Alter**
+**Emiya Alter:**
 Good. It's better that way.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Don't worry about it.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Whatever you saw wasn't worth remembering.
 It was just one possible end to one man's life.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 It was a glimpse of a future that has to come, sooner or later...
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Hmph. But I digress.
 
  
@@ -822,15 +822,15 @@ Hmph. But I digress.
 **Fujimaru 2:**
 All I remember is that it made me really sad...
  
-**Emiya Alter**
+**Emiya Alter:**
 ...I see.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Well, whatever you're sad about, I'm sure you don't have to be. When you get right down to it, I'm just a bullet.
 
  
-**Emiya Alter**
+**Emiya Alter:**
 I don't have any thoughts or ideals. Once you fire me, I'm gone. Out of sight, out of mind.
 
  
@@ -838,16 +838,16 @@ I don't have any thoughts or ideals. Once you fire me, I'm gone. Out of sight, o
 
 ---
  
-**Emiya Alter**
+**Emiya Alter:**
 Anyway, what do you say we get going?
 
  
-**Emiya Alter**
+**Emiya Alter:**
 You're on another mission to save the world,
 just like always, right?
 
  
-**Emiya Alter**
+**Emiya Alter:**
 Like I said, I'm a bullet, so lock and load. I'll keep on flying at my targets until the day I fall apart.
 
  

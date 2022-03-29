@@ -36,7 +36,7 @@ The beast with the right to seek revenge.
 Will you exercise that right?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Sorry, no luck.
 
  
@@ -49,190 +49,190 @@ Gotcha...
 
 ---
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I'm pretty sure I could tame him if he was just a wolf,
 or even a Demonic Beast...but he isn't.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 He just straight up detests humans.
 It's a core part of who he is.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 And if you hate humans, it doesn't really matter if they're heroes or Anti-Heroes, you know?
 
  
-**Mash**
+**Mash:**
 I see...
 
  
-**Mash**
+**Mash:**
 It's been some time since Hessian and Lobo were summoned here, so I thought that maybe...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I don't really think time is the issue.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 He can't help but hate all humans.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...But if we look at it another way,
 that might mean those two have a real shot.
 
  
-**Mash**
+**Mash:**
 Which two...?
 
  
-**D：???**
+**D：???:**
 My, oh my. I see you're still hiding out in this dank, dark cave.
 
  
-**D：???**
+**D：???:**
 What do you think you are, some gloomy old witch!?
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Hello, Mr. Big Bad Wolf.
 My name is Nursery Rhyme.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Thank you for noticing me.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 I know I look human, but I'm actually not.
 I'm just a fragment of a dream.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 There's nothing human about me for you to hate.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Well? Do I pass?
 
  
-**Hessian Lobo**
+**Hessian Lobo:**
 ...
 ...
 
  
-**E：???**
+**E：???:**
 Good grief. Please don't run off on your own like that, Nursery Rhyme.
 
  
-**Enkidu**
+**Enkidu:**
 Master is trusting me to keep you safe, just in case.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Oh, don't be such a worrywart, Enkidu.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 I might not be as strong as you,
 but I'm still a Servant.
 
  
-**Enkidu**
+**Enkidu:**
 I know.
 But this is what Master wants.
 
  
-**Enkidu**
+**Enkidu:**
 I'm made of clay, so I'll be fine no matter what, but you're a book, right? What if he bites you and rips your pages?
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Oh my, that would be awful!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 I can't bear even to think about my pages being ripped, torn, or soaked!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 But it's okay.
 Mr. Wolf King won't hurt me. Right?
 
  
-**Hessian Lobo**
+**Hessian Lobo:**
 ...
 ...
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Aww, he ignored me.
 Now I'm sad! Glum! Crestfallen!
 
  
-**Enkidu**
+**Enkidu:**
 ...All right, let's get right to it.
 
  
-**Enkidu**
+**Enkidu:**
 Do you have some sort of problem with Master?
 
  
-**Hessian Lobo**
+**Hessian Lobo:**
 !
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 It's all right. If you don't, that'll be that!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 And if you do, that's okay too,
 just as long as you don't kill [♂ him /♀️ her}!
 
  
-**Enkidu**
+**Enkidu:**
 ...Basically, yes.
 
  
-**Enkidu**
+**Enkidu:**
 Master isn't avoiding you,
 and [♂ he /♀️ she} definitely doesn't hate you.
 
  
-**Enkidu**
+**Enkidu:**
 [♂ He /♀️ She} just doesn't understand why you answered [♂ his /♀️ her} summon.
 
  
-**Enkidu**
+**Enkidu:**
 Now, [♂ he's /♀️ she's} worried that [♂ he /♀️ she} may be asking too much of you.
 
  
-**Hessian Lobo**
+**Hessian Lobo:**
 ...
 ...
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Oh?
 Oh, oh, oh?
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 What is it, Mr. Dullahan?
 
  
-**Enkidu**
+**Enkidu:**
 I see.
 
  
-**Enkidu**
+**Enkidu:**
 Thinking back, the reports from Shinjuku did say that you had a consciousness of your own.
 
  
-**Enkidu**
+**Enkidu:**
 Very well then, let me ask you:
 What is it Lobo wants?
 
@@ -353,19 +353,19 @@ But Servants still reek of humanity,
 and the beast just can't tolerate it.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Let's have some tea!
 
  
-**Enkidu**
+**Enkidu:**
 I'm fine with just hot water.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Not for my teatime, Enkidu.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 You're getting tea with lots of sugar,
 and a little gingery zest. How about you, Master?
 
@@ -376,7 +376,7 @@ and a little gingery zest. How about you, Master?
 **Fujimaru 1:**
 Give me a cup with the works.
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Teehee.
 You can be so greedy sometimes, Master!
 
@@ -387,21 +387,21 @@ You can be so greedy sometimes, Master!
 **Fujimaru 2:**
 No sugar for me, please.
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Teehee.
 Yes, you've got to watch those calories!
 
  
-**Enkidu**
+**Enkidu:**
 Shouldn't you try to stock up on nutrients while you can? You are our Master, after all.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Now don't be like that, Enkidu.
 It's rude.
 
  
-**Enkidu**
+**Enkidu:**
 Is it? I see. So it's rude to treat health management and food preferences in the same way. I'll have to remember that.
 
  
@@ -409,7 +409,7 @@ Is it? I see. So it's rude to treat health management and food preferences in th
 
 ---
  
-**Enkidu**
+**Enkidu:**
 ...So that's about what we were able to learn from him.
 
  
@@ -422,46 +422,46 @@ I see...
 
 ---
  
-**Enkidu**
+**Enkidu:**
 Honestly, I don't think anything needs to change.
 Lobo is useful as is, and he's not about to turn traitor.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Yes, that's very true.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Every Servant has different baggage we bring with us when we fight alongside Master.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 The important thing is that we all share the same goal of restoring humanity.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 So I can see the sense in not requiring that we all get to be great friends!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 But, even so...
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 ...that would be so, so sad that I...I just couldn't stand it!
 
  
-**Enkidu**
+**Enkidu:**
 So...you mean you can understand those reasons,
 but not accept them?
 
  
-**Enkidu**
+**Enkidu:**
 True, we don't want our allies to be sad.
 I understand that now, at least a little.
 
  
-**Enkidu**
+**Enkidu:**
 Well, Master? What should we do?
 
  
@@ -515,31 +515,31 @@ He bares his fangs and keeps his distance.
 For there can never be true understanding between man and beast.
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
 b>Enkidu**
 Well that was easy.
 Though I can't say I care for this city.
 
  
-**Enkidu**
+**Enkidu:**
 It feels as though evil and vice have soaked into every brick of every building.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 I don't like it here, either.
 My lovely dress is going to get filthy.
 
  
-**Enkidu**
+**Enkidu:**
 Now then...
 
  
-**Enkidu**
+**Enkidu:**
 It looks like a Demonic Beast has settled here in Shinjuku and is causing all kinds of trouble.
 
  
-**Enkidu**
+**Enkidu:**
 How do we go about finding it?
 
  
@@ -576,7 +576,7 @@ Although...doing this for his Master almost makes him feel like...a dog.
 So the beast thinks to himself as he sneers in the darkness.
 
  
-**Enkidu**
+**Enkidu:**
 Looks like he found it.
 Let's go.
 
@@ -594,7 +594,7 @@ His Master, Fujimaru.
 The one they call “human.”
 
 
-**--ARROW--**
+**--ARROW--:**
 
 **Narration:**
 The beast likes the air in this city.
@@ -622,7 +622,7 @@ Humans made this place. They permeate every corner of it. Normally, it would be 
 But now, the beast has no choice but to live within it.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 What's wrong?
 
  
@@ -665,17 +665,17 @@ His whole body shakes with excitement.
 He's found it.
 
  
-**Enkidu**
+**Enkidu:**
 There it is.
 Let's get it, Master!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 This is no fun.
 It's so very, very sad.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 A goat from the mountains, a lion from the plains, a snake from the grass... They could have all had happy lives if they had stayed where they belong.
 
  
@@ -700,7 +700,7 @@ If there is one thing the Demonic Beast all but shouts,
 it is this: “We are strong.”
 
  
-**Enkidu**
+**Enkidu:**
 Hmm. It doesn't seem like we've caught up to it so much as it's been lying in wait for us.
 
  
@@ -708,7 +708,7 @@ Hmm. It doesn't seem like we've caught up to it so much as it's been lying in wa
 An absurd number of Demonic Beasts stand before the wolf and his companions.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Uh-oh, that's not good.
 Please give us your orders, Master!
 
@@ -738,16 +738,16 @@ Who do you think you're talking to, Master?
 **Fujimaru 2:**
 Are you all okay to fight?
  
-**Enkidu**
+**Enkidu:**
 Of course.
 We'll crush them.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Ooh, I don't like violence at all.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 But if I have to get my hands bloody today, I'll make sure this sunny day is Humpty-Dumpty's last!
 
  
@@ -780,31 +780,31 @@ The beasts' instincts won out over their loyalty to their leader.
 So I shall show no mercy to any of my brethren who still remain. They have chosen instead to be my prey!
 
  
-**--BATTLE--**
+**--BATTLE--:**
 
-**Enkidu**
+**Enkidu:**
 That takes care of the monster's entourage,
 though they were stronger than I expected.
 
  
-**Enkidu**
+**Enkidu:**
 That chimera's Spirit Origin is as strong as the ones from my time. Maybe it's because of how much technology has progressed, or how human desires have built up over time...
 
  
-**Enkidu**
+**Enkidu:**
 Regardless, it would seem this is what it means for a city to grow. Maybe the emergence of some strange beast like this was just inevitable.
 
  
-**Enkidu**
+**Enkidu:**
 !
 
  
-**Enkidu**
+**Enkidu:**
 So, it's running away.
 And it's much faster than I thought...!
 
  
-**Enkidu**
+**Enkidu:**
 Let's go after it, Master!
 
  
@@ -816,11 +816,11 @@ What a pain!
 The beast tells Hessian to help Master onto his back.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 ...Oh my.
 
  
-**Enkidu**
+**Enkidu:**
 ...Interesting.
 
  
@@ -846,7 +846,7 @@ but neither is he happy about it.
 The wolf continues to run, not stopping to consider what that might mean.
 
 
-**--ARROW--**
+**--ARROW--:**
 
 **Narration:**
 These woods smell rotten.
@@ -936,7 +936,7 @@ Now, there is nothing holding him back.
 ...The hunt begins.
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Narration:**
 The wolf jumps off a nearby tree, using the springy branches to launch into a spiraling slash.
@@ -1064,7 +1064,7 @@ His Master runs over to him.
 [♂ He /♀️ She} stumbles with every other step, yet [♂ he /♀️ she} still hurries as though [♂ his /♀️ her} life depends on it.
 
  
-**F：Hessian Lobo**
+**F：Hessian Lobo:**
 !
 
  
@@ -1132,37 +1132,37 @@ So why did he answer my summons?
 
 ---
  
-**Enkidu**
+**Enkidu:**
 ...For his descendants, apparently.
 
  
-**Enkidu**
+**Enkidu:**
 Lobo and Blanca had cubs, you see.
 
  
-**Enkidu**
+**Enkidu:**
 If they were lucky, they may have survived and grown into adults.
 
  
-**Enkidu**
+**Enkidu:**
 It's possible they went on to grow their numbers,
 leave America, and head for another country.
 
  
-**Enkidu**
+**Enkidu:**
 Though of course, it is only a possibility.
 Whether it is even probable, well...
 
  
-**Enkidu**
+**Enkidu:**
 Truth be told, it's more likely that his bloodline died out a long time ago.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Even if it is unlikely, it's still at least possible.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 And who says wolves can't dream!
 
  

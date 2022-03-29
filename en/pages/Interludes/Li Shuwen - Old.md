@@ -22,52 +22,52 @@ Roughly translated, they mean “Little strokes fell great oaks” and “Drippi
 Therein lies the essence of human progress.
 
  
-**Inshun**
+**Inshun:**
 Interesting. So that is how the older and wiser Lord Shuwen sees things.
 
  
-**Inshun**
+**Inshun:**
 You are quite a change of pace from your Lancer counterpart.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Did he do something to upset you? ...Aha, I see.
 You challenged my younger self to a duel.
 
  
-**Inshun**
+**Inshun:**
 I did try to control myself, but I am afraid my excitement got the better of me while I was training.
 
  
-**Inshun**
+**Inshun:**
 It seems I still have a long way to go.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 I suppose it would be uncouth of me to apologize for instigating it then.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 That said, Houzouin...
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Surely a man with your spirit and virtue could have resisted the temptation.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Is that not what being a Servant entails?
 
  
-**Inshun**
+**Inshun:**
 I am afraid it is not as easy as you might think.
 
  
-**Inshun**
+**Inshun:**
 Although I lived to the age of sixty, and still retain memories&ndash;or rather, records of that time, I do not have any of the more temperate sensibilities I gained with age.
 
  
-**Inshun**
+**Inshun:**
 I have no fondness for fighting to the death,
 but I do get a bit hotheaded from time to time.
 
@@ -78,7 +78,7 @@ but I do get a bit hotheaded from time to time.
 **Fujimaru 1:**
 I'll say! You guys came dangerously close to killing each other, you know!
  
-**Inshun**
+**Inshun:**
 Haha, I am sorry about that, Master. I knew I should stop, but I simply couldn't help myself.
 
  
@@ -88,7 +88,7 @@ Haha, I am sorry about that, Master. I knew I should stop, but I simply couldn't
 **Fujimaru 2:**
 I'm just glad I stopped you guys in time. It wasn't easy...
  
-**Li Shuwen**
+**Li Shuwen:**
 Knowing what I was like in my youth, I'm sure this younger me must have caused a lot of trouble for you.
 
  
@@ -96,60 +96,60 @@ Knowing what I was like in my youth, I'm sure this younger me must have caused a
 
 ---
  
-**Inshun**
+**Inshun:**
 Come to think of it,
 Lord Shuwen, have you not met your younger self yet?
 
  
-**Li Shuwen**
+**Li Shuwen:**
 No, I haven't. If I did, there's no doubt in my mind that we would end up killing each other.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 I'm sure my younger self knows that as well as I do. That's why we've made it a point to never be in the same place.
 
  
-**Inshun**
+**Inshun:**
 Why would you end up killing each other?
 
  
-**Inshun**
+**Inshun:**
 Is it because he would not want to see what he is like when he is older?
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Hardly. If anything, it's the other way around.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 I've devoted my life to perfecting my martial arts. If I'd come across an older version of me when I was young, I'd want to fight him too.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 I'm sure he sees me as either the culmination or the conclusion of everything he's worked towards.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 And as a young man, he would have no reason not to see how he measures up to that as he is now.
 
  
-**Inshun**
+**Inshun:**
 Indeed. I could not agree more.
 
  
-**Inshun**
+**Inshun:**
 After all, it would be impossible for anyone besides a Servant to truly fight against oneself.
 
  
-**Inshun**
+**Inshun:**
 And if that other self is a more mature version...
 
  
-**Inshun**
+**Inshun:**
 ...the urge to resist seeing whether your current self is stronger than your future self would be irresistible.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Yes, precisely.
 
  
@@ -159,24 +159,24 @@ Yes, precisely.
 **Fujimaru 1:**
 But you're not going to fight each other?
  
-**Li Shuwen**
+**Li Shuwen:**
 I will if you ask us to,
 Master...but I know you never would.
 
  
-**Inshun**
+**Inshun:**
 Very true. It would be one thing if you were on opposing sides, but in any other circumstance...
 
  
-**Inshun**
+**Inshun:**
 Nonetheless, I would also be very interested to learn which of you is stronger!
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Hm?
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Isn't it obvious? It would be my Lancer self.
 
  
@@ -186,11 +186,11 @@ Isn't it obvious? It would be my Lancer self.
 **Fujimaru 2:**
 So, which of you IS stronger?
  
-**Li Shuwen**
+**Li Shuwen:**
 My younger, Lancer self would say he is.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 And I would agree with him.
 
  
@@ -198,23 +198,23 @@ And I would agree with him.
 
 ---
  
-**Li Shuwen**
+**Li Shuwen:**
 ...That said...
 
  
-**Li Shuwen**
+**Li Shuwen:**
 ...I would still win.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 And as long as I know that for certain, I personally have no desire to fight my younger self.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 ...But, if you'd still like us to fight even knowing that, Master, I'd be happy to oblige.
 
  
-**Inshun**
+**Inshun:**
 ...Oho. Now I see.
 
  
@@ -227,24 +227,24 @@ Huh? I don't understand.
 
 ---
  
-**Li Shuwen**
+**Li Shuwen:**
 I mean that strength alone is not the sole factor in deciding the victor.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 For me, it is not the pinnacle of strength that I seek.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 ...It may sound like I'm just an old wolf that's lost his fangs, but this is a domain the Lancer can never reach. Kaka!
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Though of course, if he has,
 that's all well and good too.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 It would just mean my victory is even more assured.
 
  
@@ -262,16 +262,16 @@ I'm still totally lost...
 
 ---
  
-**Li Shuwen**
+**Li Shuwen:**
 Heh...
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Don't you worry about it, [♂ son /♀️ sport}.
 As a Master, you have your own path to focus on.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Hmm. But if that alone doesn't convince you, there's an old story I know that might change your mind.
 
  
@@ -321,7 +321,7 @@ and peers he once studied alongside...
 ...he always preferred solitude.
 
  
-**Man**
+**Man:**
 The way I'm going, I'll surely end up dead in a gutter.
 
  
@@ -341,13 +341,13 @@ One day, he would fall.
 But that day would not be today...
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Narration:**
 ...Another day, another pile of corpses.
 
  
-**Man**
+**Man:**
 Tch...
 
  
@@ -365,48 +365,48 @@ Bruised, bloodied, a ferocious crimson tiger... Even the moon seemed to try to a
 Naturally, there was no one around who would ever try to talk to hi&ndash;
 
  
-**Child**
+**Child:**
  
 Hey, what're you doing?
 
  
-**Man**
+**Man:**
 Hm?
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Child**
+**Child:**
 Hey, what're you doing?
 
  
-**Man**
+**Man:**
 Hm?
 
  
-**Child**
+**Child:**
 Yikes, so many dead bodies.
 Did you kill them, mister?
 
  
-**Man**
+**Man:**
 I would be lying if I said I didn't.
 
  
-**Man**
+**Man:**
 I've resolved to kill no more than one person per day in duels, but this was nothing so honorable as that.
 
  
-**Child**
+**Child:**
 Gotcha. Are you gonna kill me too?
 
  
-**Man**
+**Man:**
 Of course not.
 You're hardly worth raising my fists over.
 
  
-**Child**
+**Child:**
 Aww, you're no fun.
 
  
@@ -421,31 +421,31 @@ He had no intention of preaching about morality...
 ...but he still felt that was not something a child should say.
 
  
-**Man**
+**Man:**
 Go away. This is no sight for children.
 
  
-**Child**
+**Child:**
 What's the big deal? Besides, they killed my brother.
 
  
-**Man**
+**Man:**
 ...I see. So they were bandits.
 
  
-**Child**
+**Child:**
 Uh-huh.
 
  
-**Man**
+**Man:**
 Then you should be satisfied now. Go home.
 
  
-**Child**
+**Child:**
 But, there's still more of them.
 
  
-**Man**
+**Man:**
 Oh?
 
  
@@ -474,7 +474,7 @@ He also told the man how his brother was killed for daring to fight back...
 ...keeping his voice calm and measured all the while.
 
  
-**Man**
+**Man:**
 I see.
 
  
@@ -503,7 +503,7 @@ and no quarrel with the bandits.
 ...Still...
 
  
-**Man**
+**Man:**
 ...Do you mean to go kill them yourself?
 
  
@@ -512,44 +512,44 @@ and no quarrel with the bandits.
 The man then noticed the child was holding a small dagger close to his chest.
 
  
-**Child**
+**Child:**
 Yeah, that's right. I've gotta avenge my brother.
 
  
-**Man**
+**Man:**
 You won't survive.
 
  
-**Child**
+**Child:**
 Fine by me.
 
  
-**Man**
+**Man:**
 ...You're too young to decide the manner of your death.
 
  
-**Child**
+**Child:**
 But if I don't do it, who will!?
 
  
-**Child**
+**Child:**
 Somebody's gotta make them pay!
 
  
-**Man**
+**Man:**
 Somebody, hm. So you don't care who that someone may be.
 
  
-**Man**
+**Man:**
 If a perfect stranger can go in your place&ndash;if it is not necessary that they be desirous of revenge&ndash;then there is no reason that someone cannot be me.
 
  
-**Man**
+**Man:**
 Give me that dagger.
 I'll bury it in their hearts myself.
 
  
-**Child**
+**Child:**
 ...!
 
  
@@ -558,32 +558,32 @@ I'll bury it in their hearts myself.
 The man continued, falteringly.
 
  
-**Man**
+**Man:**
 The truth is that I have no reason to seek vengeance myself. That's why I go around searching for opportunities.
 
  
-**Man**
+**Man:**
 It makes no difference to me if these bandits end up rich, or if a kid ends up throwing his life away.
 
  
-**Man**
+**Man:**
 But, as luck would have it,
 our fates have intertwined today.
 
  
-**Man**
+**Man:**
 I will honor that entangling and serve as a weapon in your stead. I'll be your spear, your fists.
 
  
-**Man**
+**Man:**
 If you can swear to yourself that your anger and hatred are justified...
 
  
-**Man**
+**Man:**
 ...then I will use these fists of mine to crush those bandits.
 
  
-**Child**
+**Child:**
 ...You mean it?
 
  
@@ -598,11 +598,11 @@ The child then handed the man his dagger,
 tears spilling down his face.
 
  
-**Child**
+**Child:**
 Please...avenge my brother.
 
  
-**Man**
+**Man:**
 Very well. Your life is now in my hands.
 
  
@@ -627,50 +627,50 @@ His bloodlust and delight in battle surged to their boiling points, and he made 
 Even the sleeping birds were startled awake by his murderous aura.
 
  
-**C：Bandit**
+**C：Bandit:**
 Hah? Why're the birds makin' so much noise this late at night?
 
  
-**Man**
+**Man:**
 Hmm. Which of you will be the first to die?
 It makes no difference to me.
 
  
-**D：Bandit**
+**D：Bandit:**
 Huh? Who the hell do you think you&ndash;
 
  
-**C：Bandit**
+**C：Bandit:**
 A-aaaaaah!
 
  
-**Man**
+**Man:**
 There is nothing to discuss. No need for words.
 Bring all your comrades here. Quickly.
 
  
-**C：Bandit**
+**C：Bandit:**
 S-somebody help! Hurry!
 
  
-**E：Bandit**
+**E：Bandit:**
 What's goin' on? The village hire some martial artist or something?
 
  
-**C：Bandit**
+**C：Bandit:**
 What're you so afraid of? He's just one man!
 
  
-**Man**
+**Man:**
 Now, now, go easy on him.
 He did well, at least for a bandit.
 
  
-**Man**
+**Man:**
 I'm glad you're all here now. It would be much more trouble to track you all down myself.
 
  
-**Man**
+**Man:**
 I've counted all of you. If the number of corpses fails to match that count when this is over, I'll know how many of you turned tail and ran.
 
  
@@ -689,7 +689,7 @@ But it was too late. The man knew that if they truly meant to kill him...
 ...they should have attacked before surrounding him.
 
  
-**Man**
+**Man:**
 None of you will leave here alive. Now fight me.
 
  
@@ -698,9 +698,9 @@ None of you will leave here alive. Now fight me.
 The man smiled like a wolf baring its fangs.
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**G：Bandit**
+**G：Bandit:**
 He's...a monster...!
 
  
@@ -714,16 +714,16 @@ The bandits' lifeless bodies were strewn across the ground, just as the man's ow
 But that made little difference to either his feet or his fists.
 
  
-**Bandit Leader**
+**Bandit Leader:**
 A-aaaaaah! Please! Spare me!
 
  
-**Bandit Leader**
+**Bandit Leader:**
 I promise I'll do anything you want!
 I'll never kill again as long as I live!
 
  
-**Man**
+**Man:**
 Too bad you didn't have your change of heart sooner. This is payback for all the villagers you and your men killed.
 
  
@@ -732,11 +732,11 @@ Too bad you didn't have your change of heart sooner. This is payback for all the
 Blood stained the blade a vivid red. The man continued on his spree, mercilessly felling bandits left and right.
 
  
-**Man**
+**Man:**
 ...Guess I should go give the dagger back.
 
  
-**Man**
+**Man:**
 But I'd better wash the blood off somewhere first...
 
  
@@ -750,7 +750,7 @@ back to the boy's village.
 But...
 
  
-**Man**
+**Man:**
 What the...
 
  
@@ -762,11 +762,11 @@ There was no one there to be found. Not even a sign that anyone had lived there 
 It was clear to see that the area had been abandoned for years.
 
  
-**Man**
+**Man:**
 ...I see. I knew retribution should be carried out swiftly...
 
  
-**Man**
+**Man:**
 ...but I never considered that I'd missed the chance entirely. I truly am useless.
 
  
@@ -776,11 +776,11 @@ Taking the dagger out from his shirt pocket,
 he found it had already half-crumbled to dust.
 
  
-**Man**
+**Man:**
 ...I wonder whose vengeance I carried out.
 
  
-**Man**
+**Man:**
 Whoever you are, I bet you would have liked to do it yourself.
 
  
@@ -788,95 +788,95 @@ Whoever you are, I bet you would have liked to do it yourself.
 ...And so, the man left the deserted village behind, with only the wind howling in his wake.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 ...Strong as I was back then,
 I still couldn't make a difference.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 It doesn't matter how strong you are,
 you still can't change the past.
 
  
-**Inshun**
+**Inshun:**
 Hmm. Still, it sounds like there was nothing you could have done about that. Sometimes, people just die for no reason.
 
  
-**Inshun**
+**Inshun:**
 In fact, neither life nor death carries any special meaning.
 
  
-**Inshun**
+**Inshun:**
 Those villagers do deserve to be mourned,
 but to try to save all of them...
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Kaka. I am well aware.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 I am far from the Buddha. I've never thought to even try to save all lives in this world.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 That said...
 
  
-**Li Shuwen**
+**Li Shuwen:**
 There are things I can teach, and lessons I can convey.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 What I lacked back then was the composure to realize that.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 I am neither a hero, nor a villain.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 So I thought, at the very least, I should leave what I've learned behind for others to study.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Even I have something I want to protect. These fists can be quite useful at getting to the crux of certain matters.
 
  
-**Inshun**
+**Inshun:**
 ...Still, Lord Shuwen, what you describe is nothing less than a break with your past self.
 
  
-**Inshun**
+**Inshun:**
 Is there nothing about that you regret?
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Regret? Of course.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 Seeing myself grow weaker by the day...
 Seeing my fists grow dull and ineffective...
 
  
-**Li Shuwen**
+**Li Shuwen:**
 It would be stranger if I had no regrets at all.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 But, all those regrets are gone, now that I'm here.
 
  
-**Inshun**
+**Inshun:**
 ...Aha, I see. You make an excellent point!
 
  
-**Inshun**
+**Inshun:**
 Late though it may be for me, perhaps that is what I should strive for too.
 
  
-**Li Shuwen**
+**Li Shuwen:**
 All right, I think that's enough idle talk for now.
 Shall we get going, Master?
 
@@ -887,15 +887,15 @@ Shall we get going, Master?
 **Fujimaru 1:**
 Sounds good!
  
-**Li Shuwen**
+**Li Shuwen:**
 Very well.
 
  
-**Inshun**
+**Inshun:**
 Indeed! I'm glad we had this talk.
 
  
-**Inshun**
+**Inshun:**
 Now I am more eager to wield my spear than ever!
 
  
@@ -905,7 +905,7 @@ Now I am more eager to wield my spear than ever!
 **Fujimaru 2:**
 So you're all set then?
  
-**Li Shuwen**
+**Li Shuwen:**
 Of course. These fists are yours to command as you see fit.
 
  

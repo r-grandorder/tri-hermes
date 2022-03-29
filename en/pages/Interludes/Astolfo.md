@@ -2,56 +2,56 @@
 
 <h2>While Waiting for Roland</h2>
 
-**Astolfo**
+**Astolfo:**
 Yahoo! Master!
 We're gonna go on an adventure!!!
 
  
-**Mash**
+**Mash:**
 ...?
 Astolfo? Where are you going?
 
  
-**Astolfo**
+**Astolfo:**
 To France!
 I thought I'd pay Roland a visit.
 
  
-**Mash**
+**Mash:**
 ...Um.
 I don't think Roland is around in 1431...
 
  
-**Astolfo**
+**Astolfo:**
 It's okay! All we gotta do is wander around France,
 and I'm sure he'll get summoned one of these days!
 
  
-**Astolfo**
+**Astolfo:**
 Now let's go, go, go!!!
 
  
-**Mash**
+**Mash:**
 H-hey, don't be so pushy!
 
  
-**Astolfo**
+**Astolfo:**
 Here...we...goooooo!!!
 
  
-**Mash**
+**Mash:**
 Senpai...Senpaaai!!!
 
  
-**Astolfo**
+**Astolfo:**
 ...
 
  
-**Astolfo**
+**Astolfo:**
 ...
 
  
-**Astolfo**
+**Astolfo:**
 Sorry! I'm lost!
 
  
@@ -70,30 +70,30 @@ I kinda figured.
 
 ---
  
-**Mash**
+**Mash:**
 Master. If you knew this would happen,
 you should have said something earlier.
 
  
-**Mash**
+**Mash:**
 I guess there's nothing to be done now. Fortunately, you have camping supplies, so I suggest you spend the night in the forest.
 
  
-**Astolfo**
+**Astolfo:**
 Yay!!! Camping! Camping!
 Hey, do you have curry?
 
  
-**Astolfo**
+**Astolfo:**
 Curry! Curry!
 
  
-**Mash**
+**Mash:**
 ...Um, if you're a Servant,
 you don't need to eat...
 
  
-**Astolfo**
+**Astolfo:**
 Ehhh?
 
  
@@ -112,12 +112,12 @@ Let's eat together.
 
 ---
  
-**Astolfo**
+**Astolfo:**
 Yay! Thank you Master!
 Then make mine an extra large curry!
 
  
-**Astolfo**
+**Astolfo:**
 More! Mooore!
 
  
@@ -131,11 +131,11 @@ Here you go.
 
 ---
  
-**Astolfo**
+**Astolfo:**
 Thanks!
 
  
-**Mash**
+**Mash:**
 I think you're spoiling Astolfo too much, Senpai.
 
  
@@ -145,7 +145,7 @@ I think you're spoiling Astolfo too much, Senpai.
 **Fujimaru 1:**
 You think so?
  
-**Mash**
+**Mash:**
 I do.
 
  
@@ -155,12 +155,12 @@ I do.
 **Fujimaru 2:**
 Then I'll spoil you when we get back, Mash!
  
-**Mash**
+**Mash:**
 Eh? Me!?
 Um...well...no...you mustn't...
 
  
-**Mash**
+**Mash:**
 Um, but if you insist,
 I shall gratefully...
 
@@ -169,33 +169,33 @@ I shall gratefully...
 
 ---
  
-**Astolfo**
+**Astolfo:**
 Master, Master! More!!!
 
  
-**Mash**
+**Mash:**
 Again!?
 
  
-**Astolfo**
+**Astolfo:**
 Whew! I ate a lot!
 I'm stuffed!
 
  
-**Mash**
+**Mash:**
 Master. You are out of emergency rations.
 You'll need to purchase food in town tomorrow...
 
  
-**Astolfo**
+**Astolfo:**
 Okay, then I'm going to sleep to prepare for tomorrow. Good night!
 
  
-**Astolfo**
+**Astolfo:**
 ...Zzzzzz.
 
  
-**Mash**
+**Mash:**
 That was fast, Master.
 Astolfo just fell asleep in the middle of a sentence.
 
@@ -215,40 +215,40 @@ Some kids act like that.
 
 ---
  
-**Mash**
+**Mash:**
 Is that true?
 I've never met any children like that in Chaldea.
 
  
-**Mash**
+**Mash:**
 Oh, but I remembered something.
 It was when I first met you, Senpai...
 
  
-**Astolfo**
+**Astolfo:**
 Ahhh! What a refreshing morning!
 ...Huh? What's wrong?
 
  
-**Mash**
+**Mash:**
 N-nothing. I just didn't get enough sleep.
 It's okay. It shouldn't affect us in combat.
 
  
-**Astolfo**
+**Astolfo:**
 Ahaha. Master, you look sleepy too.
 Well, let's head off!
 
  
-**Astolfo**
+**Astolfo:**
 Where could Roland be?
 
  
-**Mash**
+**Mash:**
 In conditions like this, I sincerely doubt a Servant could be summoned easily...
 
  
-**Astolfo**
+**Astolfo:**
 I guess so...
 
  
@@ -267,43 +267,43 @@ Is Roland your boyfriend?
 
 ---
  
-**Astolfo**
+**Astolfo:**
 Roland?
 Hahahaha! That's a riot!
 
  
-**Astolfo**
+**Astolfo:**
 That guy...he's no good, Master.
 He's good-looking, but he's bad inside.
 
  
-**Astolfo**
+**Astolfo:**
 ...No. That's not the word. He's not bad on the inside. Hmmm... To put it in today's terms, he's...disappointing?
 
  
-**Astolfo**
+**Astolfo:**
 No matter how good someone looks, you'd still kinda judge 'em if they ran around town naked, right?
 
  
-**Astolfo**
+**Astolfo:**
 Roland does that! Happily, even! It's practically a hobby! He'll just run around buck naked!
 
  
-**Astolfo**
+**Astolfo:**
 That's just the kinda guy he is,
 so prolly not really “lover” material, y'know?
 
  
-**Mash**
+**Mash:**
 ...It's true. According to legend,
 Roland stripped his clothes off, mad with grief.
 
  
-**Mash**
+**Mash:**
 But I didn't think he really ran around...
 
  
-**Astolfo**
+**Astolfo:**
 Ayup. That's cause after that, he'd get naked every chance he had. Said he got hooked on it. Hooked!
 
  
@@ -322,80 +322,80 @@ Hooked?
 
 ---
  
-**Mash**
+**Mash:**
 (Did he have a mental breakdown...?)
 
  
-**Astolfo**
+**Astolfo:**
 Anyway, let's go look for some enemies.
 My Astolfo-sense is telling me that fort looks suspicious!
 
  
-**Mash**
+**Mash:**
 Huh...
 Astolfo is always so pushy...
 
  
-**Mash**
+**Mash:**
 But if Roland ever joined us, I feel he would be a great asset. Let's do our best to find him.
 
  
-**Astolfo**
+**Astolfo:**
 Yep! He'd for sure be dependable, you've got the Astolfo guarantee on that! Other stuff...not so much.
 
  
-**Fou**
+**Fou:**
 Fou.
 
  
-**Mash**
+**Mash:**
 It seems like Fou is also concerned...or at least that's what I'm getting from that response.
 
  
-**Astolfo**
+**Astolfo:**
 By the way, I'm curious about something.
 Hey, Mash.
 
  
-**Mash**
+**Mash:**
 Yes? What is it?
 
  
-**Astolfo**
+**Astolfo:**
 Are you okay seeing naked men?
 
  
-**Mash**
+**Mash:**
 !
 
  
-**Mash**
+**Mash:**
 I-I-I-I...I suppose.
 I've never seen one, but I should be okay...
 
  
-**Mash**
+**Mash:**
 I-it is through the filter of a screen, too.
 
  
-**Mash**
+**Mash:**
 I-I-I-I think it should be okay. Yes. It'll be fine.
 I have a little knowledge about those things.
 
  
-**Mash**
+**Mash:**
 I'll be fine. I'll be ready. As long as you let me mentally prepare, it'll be totally fine.
 
  
-**Astolfo**
+**Astolfo:**
 Oh, good!
 
  
-**Mash**
+**Mash:**
 Yes. Please rest assured...somewhat.
 
  
-**Astolfo**
+**Astolfo:**
 ...Master. I'm betting Mash will scream.
 What about you?
 
@@ -415,148 +415,148 @@ There's nothing to bet on.
 
 ---
  
-**Mash**
+**Mash:**
 I-I'll be fine! Totally!
 I'll definitely probably be okay!
 
  
-**Astolfo**
+**Astolfo:**
 We've arrived!
 Hey, you guys there.
 
  
-**Soldier**
+**Soldier:**
 ...Hm? What?
 
  
-**Astolfo**
+**Astolfo:**
 You're looking kinda tired.
 Everything okay?
 
  
-**Soldier**
+**Soldier:**
 ...It's complicated. This old man is considering quitting the soldiering life and go home...
 
  
-**Astolfo**
+**Astolfo:**
 Really? Then, good work! Hey by the way,
 did you see a naked handsome guy running around?
 
  
-**Soldier**
+**Soldier:**
 ...A naked...handsome guy?
 
  
-**Astolfo**
+**Astolfo:**
 Yep!
 
  
-**Soldier**
+**Soldier:**
 A guy with a bright smile, but he looks a bit dumb,
 but at the same is stupid strong...that handsome guy?
 
  
-**Astolfo**
+**Astolfo:**
 Yep, that's the one.
 We're looking for him!
 
  
-**Soldier**
+**Soldier:**
 I see...you're looking for him?
 I see, I see. Hey, everyone!
 
  
-**Soldier**
+**Soldier:**
 Some friends of that naked jackass are here!
 Get 'em!
 
  
-**Astolfo**
+**Astolfo:**
 Eh...eh!?
 Wh-what, why!?
 
  
-**Soldier**
+**Soldier:**
 No questions asked!
 Cock-a-doodle-doo! Arrrf! Wooof!!!
 
  
-**Mash**
+**Mash:**
 What exactly happened to anger those men so much!?
 What did this Roland do!?
 
  
-**Mash**
+**Mash:**
 A-anyway, Astolfo!
 We need to calm them down!
 
  
-**Astolfo**
+**Astolfo:**
 I know, I know! I'll give 'em what for and that'll calm 'em right down! Astolfo PUNCH!
 
  
-**Mash**
+**Mash:**
 Well...um, I can't argue with that... Anyway,
 please strike with the flat of the blade, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Soldier**
+**Soldier:**
 Why you...I curse you for the nakedness...ungh.
 
  
-**Astolfo**
+**Astolfo:**
 Whew.
 I worked up a good sweat.
 
  
-**Mash**
+**Mash:**
 Mine was cold sweat...
 
  
-**Astolfo**
+**Astolfo:**
 Um, the first guys...yeah, this guy!
 Hey! Are you okay?
 
  
-**Soldier**
+**Soldier:**
 Y-yeah... (Gasp) Wh-who the hell are you guys?
 And why're you so strong?
 
  
-**Astolfo**
+**Astolfo:**
 So tell me. Roland...I mean the naked guy...do you know where he is?
 
  
-**Soldier**
+**Soldier:**
 He ran wild in that fort and then disappeared...
 All we wanted to do was to put clothes on him...
 
  
-**Astolfo**
+**Astolfo:**
 That is...I can only say I'm sorry.
 I am pretty sure he didn't not mean to do any harm.
 
  
-**Mash**
+**Mash:**
 You need to find him, Astolfo.
 
  
-**Soldier**
+**Soldier:**
 Oh, and when he jumped up, he pressed his crotch on my face... I'm scarred...forever...
 
  
-**Astolfo**
+**Astolfo:**
 Hey! You gotta say stuff like that earlier!
 I put my face right next to yours!!!
 
  
-**Soldier**
+**Soldier:**
 Terrible...
 
  
-**Astolfo**
+**Astolfo:**
 Don't cry!
 Now I'm getting sad, too!
 
@@ -576,185 +576,185 @@ Let's retreat.
 
 ---
  
-**Mash**
+**Mash:**
 N-no. If Roland is out there, running amok,
 then that's a problem we need to fix.
 
  
-**Mash**
+**Mash:**
 Let's at least resolve this problem.
 
  
-**Astolfo**
+**Astolfo:**
 Y-yeah. I'll do my best!
 So please don't abandon me, Master!
 
  
-**Astolfo**
+**Astolfo:**
 Hmmm...I haven't heard any screams...yet.
 
  
-**Mash**
+**Mash:**
 I'm worried about how all these citizens have this thousand yard stare...
 
  
-**Mash**
+**Mash:**
 They all look like they saw something no one should ever see.
 
  
-**Astolfo**
+**Astolfo:**
 I'm sure it's just a Demon King or something. Probably. Let's ask around.
 
  
-**Mash**
+**Mash:**
 I have a bad feeling about this...
 
  
-**Astolfo**
+**Astolfo:**
 Hey, soldier. Mind answering a question?
 See a naked guy running around the streets here?
 
  
-**Soldier**
+**Soldier:**
 ...Naked. Guy.
 This. Road. Straight. Go.
 
  
-**Soldier**
+**Soldier:**
 I. Lead. Way. Follow. Me.
 
  
-**Astolfo**
+**Astolfo:**
 Really? Yay, a clue!
 Let's go, Master!
 
  
-**Mash**
+**Mash:**
 Aren't you the least bit suspicious about what that man said!? W-wait just a moment!
 
  
-**Astolfo**
+**Astolfo:**
 Hm. Hey soldier.
 Where's the naked guy?
 
  
-**Soldier**
+**Soldier:**
 You. Friends. That. Guy.
 
  
-**Mash**
+**Mash:**
 N-no, that's not...
 
  
-**Astolfo**
+**Astolfo:**
 Um, technically I am.
 
  
-**Mash**
+**Mash:**
 Fou!
 
  
-**Fou**
+**Fou:**
 Fou!?
 
  
-**Mash**
+**Mash:**
 I'm sorry! I couldn't help it! It just slipped out!
 Fou, I'm sorry!
 
  
-**Soldier**
+**Soldier:**
 Fufufu. This. Grudge. Must. Not. Ignore.
 
  
-**Astolfo**
+**Astolfo:**
 Uwaa! They're attacking!
 What the heck? We were tricked!
 
  
-**Mash**
+**Mash:**
 Not tricked, really. I knew they would attack.
 Of course they would!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Astolfo**
+**Astolfo:**
 Whew. We beat them.
 They were so pale, I thought they were zombies!
 
  
-**Mash**
+**Mash:**
 They seemed that way because of those dead fish eyes of theirs...
 
  
-**Soldier**
+**Soldier:**
 Ungh...
 So what the heck was he...?
 
  
-**Astolfo**
+**Astolfo:**
 What did he do to you guys?
 
  
-**Soldier**
+**Soldier:**
 I scolded him because he was naked.
 Then he got violent...
 
  
-**Soldier**
+**Soldier:**
 He even climbed onto the two hundred year old statue of our town's saint...and he mounted his head...
 
  
-**Soldier**
+**Soldier:**
 And he shouted
 “I'm the king of the world!!!”
 
  
-**Soldier**
+**Soldier:**
 The rest...was all a mess.
 Then he ran off, laughing.
 
  
-**Soldier**
+**Soldier:**
 The kids cried...the women blushed but stared...I'm starting to get really tired of living a proper life.
 
  
-**Mash**
+**Mash:**
 Please get a hold of yourself.
 It's okay. Please live a proper life!
 
  
-**Soldier**
+**Soldier:**
 You think so? I feel like I'm in an illusion and hallucination at the same time...
 
  
-**Soldier**
+**Soldier:**
 See? There's a little girl up ahead...
 
  
-**Soldier**
+**Soldier:**
 Oh, so it was an illusion.
 
  
-**Astolfo**
+**Astolfo:**
 Aw, c'mon. A little hallucination now and then is no big deal! People get to keep on having fun after they lose their sense of reason, too!
 
  
-**Mash**
+**Mash:**
 We absolutely need to stop this rampage!
 
  
-**Mash**
+**Mash:**
 Astolfo, we need to stop the perv&ndash;I mean, Roland!
 
  
-**Astolfo**
+**Astolfo:**
 Got it! ...Wait a minute.
 I thought the plan was to get him to join us?
 
  
-**Astolfo**
+**Astolfo:**
 Oh well!
 
  
@@ -767,82 +767,82 @@ That's not good.
 
 ---
  
-**Astolfo**
+**Astolfo:**
 He came through the city.
 Where could he have gone?
 
  
-**Astolfo**
+**Astolfo:**
 Oh, footprints!
 
  
-**Mash**
+**Mash:**
 I'll analyze them.
 
  
-**Mash**
+**Mash:**
 The print isn't from a shoe.
 It's from a bare foot.
 
  
-**Mash**
+**Mash:**
 ...There's only one person crazy enough to walk a wasteland barefoot...
 
  
-**Astolfo**
+**Astolfo:**
 Roland! Okay!
 Let's get to trackin'!
 
  
-**Astolfo**
+**Astolfo:**
 I feel like we're playing a game of boy scouts! If Geronimo was here, he'd give us some big fancy lecture about tracking and the land or...something...
 
  
-**Astolfo**
+**Astolfo:**
 'Course, then I'd forget it about a minute later!
 
  
-**Astolfo**
+**Astolfo:**
 The footprints continue this way... This way...
 Turn this way... He climbed a tree...
 
  
-**Astolfo**
+**Astolfo:**
 Stole a bird egg...
 Ate it...
 
  
-**Astolfo**
+**Astolfo:**
 Ouch!
 I-I won't steal, okay!?
 
  
-**Astolfo**
+**Astolfo:**
 Afterward, he wasn't satisfied with just one egg...
 He wandered around...fought a wyvern..
 
  
-**Astolfo**
+**Astolfo:**
 Then ate it...
 
  
-**Mash**
+**Mash:**
 He ate it!?
 
  
-**Astolfo**
+**Astolfo:**
 Raw, too.
 
  
-**Mash**
+**Mash:**
 Raw!?
 
  
-**Astolfo**
+**Astolfo:**
 And then afterward, he got food poisoning from eating the raw wyvern, and he threw up right here.
 
  
-**Mash**
+**Mash:**
 Master!
 This is not encouraging!
 
@@ -853,7 +853,7 @@ This is not encouraging!
 **Fujimaru 1:**
 Just a little bit further...
  
-**Mash**
+**Mash:**
 Y-yes. As your navigator,
 I'll stick with you till the very end!
 
@@ -864,7 +864,7 @@ I'll stick with you till the very end!
 **Fujimaru 2:**
 Keep at it.
  
-**Mash**
+**Mash:**
 Oh...Master's getting discouraged too.
 A little more...let's stick to it a little bit more...!
 
@@ -873,34 +873,34 @@ A little more...let's stick to it a little bit more...!
 
 ---
  
-**Astolfo**
+**Astolfo:**
 So...
 
  
-**Astolfo**
+**Astolfo:**
 Theeen he stepped all over his own vomit,
 then he staggered along...
 
  
-**Astolfo**
+**Astolfo:**
 And then he went to sleep sulking for just a bit.
 Hey, do you think it feels nice, sleeping naked on the ground like that?
 
  
-**Mash**
+**Mash:**
 This is like a strange geoglyph, isn't it?
 
  
-**Astolfo**
+**Astolfo:**
 But then...a wild horse came rushing toward him from the side...
 
  
-**Astolfo**
+**Astolfo:**
 And it kicked Roland's back.
 Oh, his mouth's bleeding a little.
 
  
-**Mash**
+**Mash:**
 I have no more energy to comment on this.
 Master, I leave the rest to you.
 
@@ -920,118 +920,118 @@ I thought you were supposed to play the straight man!
 
 ---
  
-**Mash**
+**Mash:**
 But...
 
  
-**Astolfo**
+**Astolfo:**
 And then Roland stood up.
 He called for the horse's owner!
 
  
-**Astolfo**
+**Astolfo:**
 And then he got into an argument.
 Roland was so angry...
 
  
-**Astolfo**
+**Astolfo:**
 He choked the owner and tossed him under this tree...
 
  
-**Soldier**
+**Soldier:**
 H-how irrational...
 
  
-**Mash**
+**Mash:**
 Yet another victim.
 
  
-**Astolfo**
+**Astolfo:**
 And then Roland mounted the horse...
 Everything was going fine for a while...
 
  
-**Astolfo**
+**Astolfo:**
 But then he realized that riding a horse naked and bareback causes various areas to start hurting...and so he dismounted.
 
  
-**H：Horse**
+**H：Horse:**
 Neeeighhh.
 Brrrgh.
 
  
-**Mash**
+**Mash:**
 So it really does hurt?
 
  
-**Astolfo**
+**Astolfo:**
 Why not try it yourself?
 Naked.
 
  
-**Mash**
+**Mash:**
 Absolutely not.
 
  
-**Astolfo**
+**Astolfo:**
 A shame. By the way, mister horse,
 do you know where the naked guy who rode you went?
 
  
-**H：Horse**
+**H：Horse:**
 Neeeigh!
 
  
-**Astolfo**
+**Astolfo:**
 He said, “Follow me.”
 
  
-**Mash**
+**Mash:**
 So we're finally going to meet him.
 Hnnn...my body's trembling...
 
  
-**Astolfo**
+**Astolfo:**
 ...There! There he is!
 
  
-**Astolfo**
+**Astolfo:**
 I finally found you, Roland!
 
  
-**Mash**
+**Mash:**
 Master, I'm starting to get embarrassed!
 I'm not fine!
 
  
-**???**
+**???:**
 O-ooohhh...you are...are you by chance Astolfo?
 
  
-**Mash**
+**Mash:**
 Oh, oh! Clothes! He's wearing clothes!
 I'm so relieved!
 
  
-**Astolfo**
+**Astolfo:**
 Yeah...yeah it's me, Roland! I'm glad! I'm glad I could pick you out because you're wearing clothes!
 
  
-**Astolfo**
+**Astolfo:**
 If you were naked, I probably wouldn't have recognized your face!
 
  
-**Roland**
+**Roland:**
 Th-that cheerfully dumb child...
 You really are Astolfo!
 
  
-**Astolfo**
+**Astolfo:**
 Hey, it's been a while.
 How've you been?
 
  
-**Astolfo**
+**Astolfo:**
 Oh, let me introduce you!
 This is my Master.
 
@@ -1051,36 +1051,36 @@ I heard so much about you from Astolfo.
 
 ---
  
-**Astolfo**
+**Astolfo:**
 And this is Master's other Servant...she's a navigator for us now. Her name's Mash!
 
  
-**Mash**
+**Mash:**
 I'm Mash Kyrielight.
 I serve as a navigator for Master in Chaldea.
 
  
-**Mash**
+**Mash:**
 P-pleased to meet you.
 
  
-**Roland**
+**Roland:**
 ...
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Roland**
+**Roland:**
 ...
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Mash**
+**Mash:**
 Master, Master.
 He's looking at me. He's...really staring!
 
@@ -1100,32 +1100,32 @@ It'll be okay.
 
 ---
  
-**Roland**
+**Roland:**
 You said your name is Mash Kyrielight.
 
  
-**Mash**
+**Mash:**
 Y-yes.
 
  
-**Roland**
+**Roland:**
 What a beautiful name...
 Fitting for someone as beautiful as you...
 
  
-**Mash**
+**Mash:**
 Eh, um...thank you very much.
 
  
-**Roland**
+**Roland:**
 The moon out tonight is...beautiful...
 
  
-**Mash**
+**Mash:**
 !?
 
  
-**Astolfo**
+**Astolfo:**
 Eh?
 
  
@@ -1143,15 +1143,15 @@ Could it be...?
 
 ---
  
-**Mash**
+**Mash:**
 I-I-I-I have no idea!
 
  
-**Mash**
+**Mash:**
 I'm not sure if those were romantic words or...I really don't have any experience with that!
 
  
-**Astolfo**
+**Astolfo:**
 Roland's waiting for a response.
 He's even prostrating himself!
 
@@ -1171,80 +1171,80 @@ Mash. The gentleman is waiting. Answer him.
 
 ---
  
-**Mash**
+**Mash:**
 M-my apologies...
 I'm very sorry, but...
 
  
-**Mash**
+**Mash:**
 Men who like to be naked...are not really my...
 
  
-**Roland**
+**Roland:**
 ...
 
  
-**Astolfo**
+**Astolfo:**
 Oh, he stood up. Hey, don't get discouraged just because you got rejected by a girl!
 
  
-**Astolfo**
+**Astolfo:**
 Although...people fall for me all the time so I've never been rejected!
 
  
-**Roland**
+**Roland:**
 WHAAAAAA...!??
 
  
-**Roland**
+**Roland:**
 If that's...how it is...then let's all die together!!!
 Together!!!
 
  
-**Mash**
+**Mash:**
 Eh, together!?
 
  
-**Roland**
+**Roland:**
 Yes! This will be like Romeo and Juliet!
 Oh Romeo, Romeo, wherefore art thou Romeo!?
 
  
-**Mash**
+**Mash:**
 Wrong role!
 
  
-**Roland**
+**Roland:**
 Now, if you can hand me my Juliet, Master Romeo!
 
  
-**Roland**
+**Roland:**
 Fufu...fufufu...fuhahahahaha!
 
  
-**Mash**
+**Mash:**
 ...!
 
  
-**Mash**
+**Mash:**
 Master! He is not Roland!
 
  
-**Mash**
+**Mash:**
 To be clear, he's just lingering emotions Roland left behind...a remnant...
 
  
-**Mash**
+**Mash:**
 Anyway, he's a fake!
 That's such a relief!
 
  
-**Astolfo**
+**Astolfo:**
 Hmmm, so we're gonna have to fight, huh?
 Well, if he's a fake, it can't be helped! (Nobbu!)
 
  
-**Astolfo**
+**Astolfo:**
 Okay, Master!
 I'm going to win...for Mash's sake!
 
@@ -1264,72 +1264,72 @@ Let's do it. It's going to regret ever being born.
 
 ---
  
-**Astolfo**
+**Astolfo:**
 Okay.
 I'm gonna pull out all the stops!
 
  
-**Astolfo**
+**Astolfo:**
 Come on, Hippogriff!
 Master's cheering you on! Let's give it our all!
 
  
-**Mash**
+**Mash:**
 I'm counting on you, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Roland-ish Thing**
+**Roland-ish Thing:**
 Regret...!
 Nothing but regret!!!
 
  
-**Astolfo**
+**Astolfo:**
 Roland...
 
  
-**Roland-ish Thing**
+**Roland-ish Thing:**
 Unnnnggh...
 At least...before I die...I wanted to...
 
  
-**Roland-ish Thing**
+**Roland-ish Thing:**
 ...Expose everything...
 
  
-**Astolfo**
+**Astolfo:**
 Even his evil ghost is saying that!? THAT'S your last wish!? Ahahaha! And that's why Roland's hilarious!
 
  
-**Astolfo**
+**Astolfo:**
 I bet even our king would laugh himself silly if he saw you!
 
  
-**Mash**
+**Mash:**
 By king, you mean...?
 
  
-**Astolfo**
+**Astolfo:**
 Charlemagne, of course! Now that I think about it...
 I wonder why he hasn't been summoned yet either...
 
  
-**Astolfo**
+**Astolfo:**
 Me, Roland, the king...
 One day I'd like to fight alongside them!
 
  
-**Astolfo**
+**Astolfo:**
 Okay! Anyway, we saw Roland! Kinda! And once he gets summoned properly, we can see him again!
 
  
-**Astolfo**
+**Astolfo:**
 But my Astolfo sense tells me that if we meet,
 it'll be in a REALLY dumb situation!
 
  
-**Astolfo**
+**Astolfo:**
 Sorry for all the hassle, Master.
 Now, let's go home!
 

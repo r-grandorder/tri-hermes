@@ -2,25 +2,25 @@
 
 <h2>The Taboo</h2>
 
-**Mash**
+**Mash:**
 A demonic boar...in the forest?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yeah, someone saw it in this forest lately, I hear.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 So you came to me?
 I'm not a hunter.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Besides, there are others better suited than me.
 Fionn's first spear, maybe. Know the guy?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Well, I don't think he'd want to deal with a boar...
 That's one of the biggest traumas in all his stories...
 
@@ -41,137 +41,137 @@ Then maybe Ata
 
 ---
  
-**Mash**
+**Mash:**
 Stop, Senpai.
 Everyone has something they don't like.
 
  
-**Fou**
+**Fou:**
 Fou...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Oh, fine... Sure.
 Gáe Bolg was getting rusty anyway.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Oh, I see we're heading out now.
 In a rush, huh?
 
  
-**Mash**
+**Mash:**
 That's no boar, it's a stray homunculus.
 Master, prepare for combat!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Cú Chulainn**
+**Cú Chulainn:**
 I guess that's it, then.
 So, where's this boar?
 
  
-**Mash**
+**Mash:**
 That's strange. They said it attacks as soon as you enter the forest, but instead...we saw a homunculus...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...Oh, here we go.
 Animal tracks. This one is big.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Good work. I guess no monster is a match for the great hero of Celtic legend, huh?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Flattery will get you nowhere.
 Let's go, Master. Still...This is weird&ndash;
 
  
-**Mash**
+**Mash:**
 Oh...Senpai, let's go.
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 &ndash;Wait. There it is.
 This way.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Huh!?
 I'm not picking up anything on my end...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 &ndash;Under those rocks.
 Looks like we've got a problem on our hands.
 
  
-**Mash**
+**Mash:**
 That's a big boar... But it's already dead.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's huge...
 You can barely call it a boar now.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Really?
 This is nothing, our boars had runes on their back.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Celtic boars ate runes, huh?
 That explains why some were tougher than dragons.
 
  
-**Mash**
+**Mash:**
 But what could kill a boar that's this size?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 &ndash;We'll talk later missy.
 Here it is...Our real prey!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 What! A chimera?
 Why is something like that here?
 
  
-**Mash**
+**Mash:**
 Master, get back.
 Let's do this!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Looks like an unskilled mage is just letting it roam free... Well, whatever.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I don't know where a chimera's heart is, but your luck ran out when you met me.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 It ain't a great heart, but it's worth aiming for.
 All right, your heart is mine&mdash;!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Cú Chulainn**
+**Cú Chulainn:**
 I guess chimera's heart is just as fragile.
 It was only playing dead, huh?
 
  
-**Mash**
+**Mash:**
 No, it was a strong enough enemy...
 Master, are you hurt anywhere?
 
@@ -192,47 +192,47 @@ By the way, what is that doing here?
 
 ---
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...I see, so that's what's going on.
 Hey, step back a bit.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 &mdash;Should be around here.
 There we go.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Could that be...rune spells?
 
  
-**Mash**
+**Mash:**
 Senpai, there's a cave beneath the rock!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 It was being concealed by spells.
 This is an abandoned workshop.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Being third-rate doesn't mean it's okay to be sloppy, too.
 If you're gonna leave, at least tidy up.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I see. Test objects were left roaming free when the workshop was abandoned...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 This boar hunt may have taken an odd turn, but can we say it's been taken care of?
 
  
-**Mash**
+**Mash:**
 What do we do with the remains of the chimera and the boar? We can't just leave them here...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Yeah, how about turning them into a stew?
 The job's done, and I'm hungry!
 
@@ -253,45 +253,45 @@ Is Chimera stew even safe?
 
 ---
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Sure you can eat it. You can eat anything, as long as it's muscle. Just make sure it's cooked and you're set.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Well, if it's rotten and gives me the runs after it's sterilized, I'll deal with it then.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Right, tonight we dine in style! I'll get this cooked up and share it with you Chaldea guys!
 
  
-**Fou**
+**Fou:**
 Foooooou!
 
  
-**Mash**
+**Mash:**
 ...Speaking of which, you sure know how to cook.
 You're a Heroic Spirit of many talents, I guess.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I've been on my own a lot in my life.
 Oh, the chimera tastes pretty good, huh?
 
  
-**Fou**
+**Fou:**
 Fou! (Nom nom)
 
  
-**Mash**
+**Mash:**
 You think it's good too, Fou?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I don't know if you people are fearless or what...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Who knows what's in a chimera, but you're just gobbling it down.
 
  
@@ -311,34 +311,34 @@ It's fine like this.
 
 ---
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...Hold it.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 If this is a chimera, did it use dogs as parts?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Who knows? A chimera is made by fusing all sorts of creatures together.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It could contain any number of them.
 But, so what if it did?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 You should have told me that first, you idiot!
 I can't believe this! I'm leaving!
 
  
-**Mash**
+**Mash:**
 Huh!?
 You're done?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I don't want it! See you!
 Dammit! I can't believe this!
 
@@ -359,12 +359,12 @@ Oh, is it possible...
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, the Hound of Culann...
 He swore he'd never eat a dog, didn't he?
 
  
-**Mash**
+**Mash:**
 Didn't he consider himself a replacement... for the guard dog he killed? Ah, so that's why...(Nom nom)
 
  
@@ -384,7 +384,7 @@ We messed up.
 
 ---
  
-**Fou**
+**Fou:**
 Fou!
 
 

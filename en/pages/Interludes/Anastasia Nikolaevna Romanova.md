@@ -3,7 +3,7 @@
  
 <h2>A Despairing Past and a Hopeful Future</h2>
  
-**Anastasia**
+**Anastasia:**
 Ah, there you are, Master.
 May I speak to you for a moment?
 
@@ -14,7 +14,7 @@ May I speak to you for a moment?
 **Fujimaru 1:**
 Of course.
  
-**Anastasia**
+**Anastasia:**
 Wonderful. That's just what I like to hear.
 
  
@@ -24,7 +24,7 @@ Wonderful. That's just what I like to hear.
 **Fujimaru 2:**
 Sure, but what's this about?
  
-**Anastasia**
+**Anastasia:**
 Well, as it turns out, it's about something extremely important. Something that directly concerns me.
 
  
@@ -32,63 +32,63 @@ Well, as it turns out, it's about something extremely important. Something that 
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Let me get straight to the point:
 I have something I wish to confess to you.
 
  
-**Anastasia**
+**Anastasia:**
 Well, that's rude. There's no need to look as though you're bracing for impact.
 
  
-**Anastasia**
+**Anastasia:**
 Unlike a certain dragon princess I could name,
 I am under no delusions about who you truly are.
 
  
-**Anastasia**
+**Anastasia:**
 ...Ahem.
 
  
-**Anastasia**
+**Anastasia:**
 I know I may have been treating you a bit, well, coldly, Master. Not to put too fine a point on it.
 
  
-**Anastasia**
+**Anastasia:**
 Yet despite that, you have been perfectly patient with me and welcomed me with open arms.
 
  
-**Anastasia**
+**Anastasia:**
 Therefore, I feel it is only right that I let my hair down, so to speak, and be my true self around here.
 
  
-**Anastasia**
+**Anastasia:**
 I know what the others say about me.
 
  
-**Anastasia**
+**Anastasia:**
 “The young beauty so cool she's ice-cold.”
 “Prim and proper to a fault.”
 
  
-**Anastasia**
+**Anastasia:**
 “A porcelain doll who'll shatter at the slightest touch.”
 “Lovely bangs that half-hide her eyes.”
 
  
-**Anastasia**
+**Anastasia:**
 Those are just a few of the things I've heard myself called.
 
  
-**Anastasia**
+**Anastasia:**
 But the truth is...
 
  
-**Anastasia**
+**Anastasia:**
 I am...
 
  
-**Anastasia**
+**Anastasia:**
 An irredeemable imp.
 
  
@@ -98,7 +98,7 @@ An irredeemable imp.
 **Fujimaru 1:**
 Bwa?
  
-**Anastasia**
+**Anastasia:**
 I suppose I should be thankful that you seem so befuddled.
 
  
@@ -108,11 +108,11 @@ I suppose I should be thankful that you seem so befuddled.
 **Fujimaru 2:**
 An imp? Really?
  
-**Anastasia**
+**Anastasia:**
 Oh? You sound skeptical.
 
  
-**Anastasia**
+**Anastasia:**
 Then again, I suppose I'm usually so elegantly well-behaved that it's no wonder you find it hard to believe.
 
  
@@ -120,15 +120,15 @@ Then again, I suppose I'm usually so elegantly well-behaved that it's no wonder 
 
 ---
  
-**Anastasia**
+**Anastasia:**
 At any rate, the reason why I went to the trouble of announcing it like this...
 
  
-**Anastasia**
+**Anastasia:**
 ...is because now that you and I are on better terms, you have an obligation to know who I truly am.
 
  
-**Anastasia**
+**Anastasia:**
 Specifically, I'm going to engage in mischief.
 
  
@@ -141,19 +141,19 @@ Mischief, huh...?
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Yes. Mischief.
 
  
-**Anastasia**
+**Anastasia:**
 There is something about making mischief that makes my heart dance with joy. Perhaps it takes me back to my childhood days or something like that.
 
  
-**Anastasia**
+**Anastasia:**
 At any rate, I can no longer bear to act like the good little girl I'm not, so I will no longer be doing so.
 
  
-**Anastasia**
+**Anastasia:**
 But I will apologize in advance for the mischief I'm going to cause. I'm sorry, Master.
 
  
@@ -171,19 +171,19 @@ Okay, so exactly what kind of mischief did you have in mind?
 
 ---
  
-**Anastasia**
+**Anastasia:**
 For that...
 
  
-**Anastasia**
+**Anastasia:**
 You'll just have to wait till tomorrow to find out.
 
  
-**Anastasia**
+**Anastasia:**
 Teeheeheehee.
 
  
-**Anastasia**
+**Anastasia:**
 ...Teeheeheehee.
 
  
@@ -214,7 +214,7 @@ day!?
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Did I surprise you!?
 
  
@@ -227,11 +227,11 @@ I'll say you did...
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Teeheehee. My first bit of mischief was to change your room around.
 
  
-**Anastasia**
+**Anastasia:**
 Of course, this is nothing the professor et al. haven't already done, so I'm still only getting started.
 
  
@@ -241,36 +241,36 @@ Of course, this is nothing the professor et al. haven't already done, so I'm sti
 **Fujimaru 1:**
 Okay, but can I at least change into my uniform first?
  
-**Anastasia**
+**Anastasia:**
 Oh my.
 
  
-**Anastasia**
+**Anastasia:**
 Very well then, I'll just stay right here in the meantime.
 
  
-**Anastasia**
+**Anastasia:**
 No? I can't? Too bad...
 
  
-**Anastasia**
+**Anastasia:**
 But for the record, I've had some experience comforting wounded soldiers...
 
  
-**Anastasia**
+**Anastasia:**
 ...so I have no issue with a man getting changed in front of me. Hehehe.
 
  
-**Anastasia**
+**Anastasia:**
 Of course.
 
  
-**Anastasia**
+**Anastasia:**
 ...Well? What are you waiting for?
 The sooner you're done, the better.
 
  
-**Anastasia**
+**Anastasia:**
 What, do you need a hand?
 My, my, I guess I'm not the only princess here, hm?
 
@@ -281,7 +281,7 @@ My, my, I guess I'm not the only princess here, hm?
 **Fujimaru 2:**
 I guess that's one way to say good morning...
  
-**Anastasia**
+**Anastasia:**
 Indeed. Good morning, Master.
 Hehe, nothing fazes you, does it?
 
@@ -290,12 +290,12 @@ Hehe, nothing fazes you, does it?
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Now then, today is our combat simulation day, right?
 So let's get going.
 
  
-**Anastasia**
+**Anastasia:**
 Don't worry, Viy already set everything up.
 
  
@@ -305,12 +305,12 @@ Don't worry, Viy already set everything up.
 **Fujimaru 1:**
 ...Mind if I tweak some of those settings first?
  
-**Anastasia**
+**Anastasia:**
 Oh my. How could you even suggest such a thing?
 (Crocodile tears)
 
  
-**Anastasia**
+**Anastasia:**
 No, I think we'll be leaving the settings right where they are, thank you very much.
 
  
@@ -320,15 +320,15 @@ No, I think we'll be leaving the settings right where they are, thank you very m
 **Fujimaru 2:**
 And by “set everything up,” I assume you mean “more mischief”?
  
-**Anastasia**
+**Anastasia:**
 Why yes.
 
  
-**Anastasia**
+**Anastasia:**
 We always train in the same boring environments these days...
 
  
-**Anastasia**
+**Anastasia:**
 ...so we decided to “mix it up” with some random data from the database.
 
  
@@ -336,12 +336,12 @@ We always train in the same boring environments these days...
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Now then, come along.
 The day's not getting any younger!
 
  
-**Anastasia**
+**Anastasia:**
 Oh my, I wonder where we'll end up first.
 These random choices are so exciting.
 
@@ -355,12 +355,12 @@ There's no possible way this can end well...
 
 ---
  
-**P.A. System**
+**P.A. System:**
  
 Beginning combat simulation in three, two, one...
 
  
-**Anastasia**
+**Anastasia:**
 Let's see. This looks like...
 
  
@@ -370,11 +370,11 @@ Let's see. This looks like...
 **Fujimaru 1:**
 ...So much lava...
  
-**Anastasia**
+**Anastasia:**
 So hot.
 
  
-**Anastasia**
+**Anastasia:**
 ...I mean, it's fine. This is fine.
 
  
@@ -384,15 +384,15 @@ So hot.
 **Fujimaru 2:**
 Aren't you hot in here?
  
-**Anastasia**
+**Anastasia:**
 Who, me? Don't be silly.
 
  
-**Anastasia**
+**Anastasia:**
 So hot.
 
  
-**Anastasia**
+**Anastasia:**
 ...What? I didn't say anything.
 
  
@@ -400,11 +400,11 @@ So hot.
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Ahem, ahem.
 
  
-**Anastasia**
+**Anastasia:**
 I must say, Master, it must be awfully difficult for you, having to prepare for combat in an environment like this.
 
  
@@ -414,11 +414,11 @@ I must say, Master, it must be awfully difficult for you, having to prepare for 
 **Fujimaru 1:**
 It's okay. I'm used to it.
  
-**Anastasia**
+**Anastasia:**
 Teehee, you're a stubborn one, aren't you?
 
  
-**Anastasia**
+**Anastasia:**
 But you know...I actually prefer stubborn people over wishy-washy types.
 
  
@@ -428,21 +428,21 @@ But you know...I actually prefer stubborn people over wishy-washy types.
 **Fujimaru 2:**
 You can say that again...
  
-**Anastasia**
+**Anastasia:**
 Oh, very well then.
 
  
-**Anastasia**
+**Anastasia:**
 I'll just have to cool you off a bit myself!
 And by “cool you off” I mean freeze you solid!
 
  
-**Anastasia**
+**Anastasia:**
 What's that? Thanks, but you'll manage?
 ...Hmph, too bad.
 
  
-**Anastasia**
+**Anastasia:**
 You'd be surprised how much cooler your whole body will feel with just a mildly frozen nape.
 
  
@@ -450,16 +450,16 @@ You'd be surprised how much cooler your whole body will feel with just a mildly 
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Anyway, I assume we'll be attacked shortly, yes?
 Let's see, where will the enemies come from...?
 
  
-**Anastasia**
+**Anastasia:**
 Huh? The lava?
 
  
-**Anastasia**
+**Anastasia:**
 Oh my... How did they all survive in there?
 
  
@@ -469,20 +469,20 @@ Oh my... How did they all survive in there?
 **Fujimaru 1:**
 Lava... Swimming... Khh, my head!
  
-**Anastasia**
+**Anastasia:**
 Master? Master! What happened?
 You look white as driven snow!
 
  
-**Anastasia**
+**Anastasia:**
 What is it? Cyanosis? Anemia? A migraine?
 
  
-**Anastasia**
+**Anastasia:**
 Well, don't you worry. I might not look it, but I've actually worked as a nurse (or something similar) before!
 
  
-**Anastasia**
+**Anastasia:**
 And if I remember my training correctly, you should be fine as long as I keep performing CPR on your heart!
 
  
@@ -492,19 +492,19 @@ And if I remember my training correctly, you should be fine as long as I keep pe
 **Fujimaru 2:**
 This is... This is from that Halloween!
  
-**Anastasia**
+**Anastasia:**
 Halloween?
 
  
-**Anastasia**
+**Anastasia:**
 That's that festival Chaldea holds in autumn on an irregular basis, right?
 
  
-**Anastasia**
+**Anastasia:**
 Does that mean you last encountered Servants swimming in lava during Halloween?
 
  
-**Anastasia**
+**Anastasia:**
 ...How does that work?
 
  
@@ -521,26 +521,26 @@ Believe me, I wish I knew...
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Ahem, ahem.
 
  
-**Anastasia**
+**Anastasia:**
 At any rate, I'll take care of them.
 
  
-**Anastasia**
+**Anastasia:**
 All you have to do, Master, is ensure I can make full use of my abilities as your Servant. Are we agreed?
 
  
-**--BATTLE--**
+**--BATTLE--:**
  
-**Anastasia**
+**Anastasia:**
 ...
 ...
 
  
-**Anastasia**
+**Anastasia:**
 ...So hot...
 
  
@@ -553,23 +553,23 @@ Well, we DID just fight while surrounded by lava...
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Ugh!
 
  
-**Anastasia**
+**Anastasia:**
 Whose bright idea was it to set the combat simulator to an environment like this!?
 
  
-**Anastasia**
+**Anastasia:**
 Oh right! It was Viy!
 
  
-**Anastasia**
+**Anastasia:**
 Well, I've learned my lesson. From now on, I'll pay much closer attention when adjusting the simulator's settings.
 
  
-**Anastasia**
+**Anastasia:**
 Now come on, let's get out of here.
 I can't stand this heat for a moment longer.
 
@@ -588,16 +588,16 @@ Okay, let's go ahead and shut the simulator down then.
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Thank you, Master.
 
  
-**Anastasia**
+**Anastasia:**
 ...
 ...
 
  
-**Anastasia**
+**Anastasia:**
 ...Well?
 
  
@@ -610,7 +610,7 @@ Hang on. It'll just be a minute.
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Well!?
 
  
@@ -623,7 +623,7 @@ That's weird...
 
 ---
  
-**Anastasia**
+**Anastasia:**
 It's sooo hooot!
 
  
@@ -636,15 +636,15 @@ All that squirming around is just gonna make you hotter!
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Ghhh... But not moving makes the heat worse, too...
 
  
-**Anastasia**
+**Anastasia:**
 I know. Maybe some light conversation will serve as a distraction.
 
  
-**Anastasia**
+**Anastasia:**
 Let's see, what to talk about...
 Say, how much do you know about me, anyway?
 
@@ -655,11 +655,11 @@ Say, how much do you know about me, anyway?
 **Fujimaru 1:**
 A little something, I'd say...
  
-**Anastasia**
+**Anastasia:**
 I see. Well, I'm happy to hear you've done your homework.
 
  
-**Anastasia**
+**Anastasia:**
 In that case, I'll skip ahead a bit.
 
  
@@ -669,23 +669,23 @@ In that case, I'll skip ahead a bit.
 **Fujimaru 2:**
 Nada.
  
-**Anastasia**
+**Anastasia:**
 Oh my. Well, that won't do at all.
 
  
-**Anastasia**
+**Anastasia:**
 Every good Master should know at least a little something about their Servants.
 
  
-**Anastasia**
+**Anastasia:**
 Very well then.
 
  
-**Anastasia**
+**Anastasia:**
 In that case, I will tell you about my background myself.
 
  
-**Anastasia**
+**Anastasia:**
 ...But I'll keep it to under five minutes,
 since it's so unbearably hot.
 
@@ -700,12 +700,12 @@ since it's so unbearably hot.
 **Fujimaru 1:**
 That's like nothing!
  
-**Anastasia**
+**Anastasia:**
 What do you expect?
 I already mentioned the unbearable heat.
 
  
-**Anastasia**
+**Anastasia:**
 Now then. To begin, I was born into the title of Grand Duchess of the Romanov Dynasty...
 
  
@@ -713,23 +713,23 @@ Now then. To begin, I was born into the title of Grand Duchess of the Romanov Dy
 
 ---
  
-**Anastasia**
+**Anastasia:**
 ...And that is how I died.
 
  
-**Anastasia**
+**Anastasia:**
 Oh yes, it was dreadful. Growing up, I never expected I would die in such a cruel manner.
 
  
-**Anastasia**
+**Anastasia:**
 Even now, I will never forget this grudge. If those soldiers' graves were within walking distance, I would march right over there, spit on them, and rub it into the dirt.
 
  
-**Anastasia**
+**Anastasia:**
 And yet, strangely enough...
 
  
-**Anastasia**
+**Anastasia:**
 Here in Chaldea, it all seems like a far-off, vaguely nostalgic dream.
 
  
@@ -739,11 +739,11 @@ Here in Chaldea, it all seems like a far-off, vaguely nostalgic dream.
 **Fujimaru 1:**
 Does that mean you'd be glad to see humanity die off?
  
-**Anastasia**
+**Anastasia:**
 Ulp.
 
  
-**Anastasia**
+**Anastasia:**
 Well, um... Not always, but...
 Maybe sometimes...
 
@@ -754,11 +754,11 @@ Maybe sometimes...
 **Fujimaru 2:**
 Is that a bad thing?
  
-**Anastasia**
+**Anastasia:**
 Good question...
 
  
-**Anastasia**
+**Anastasia:**
 I would say yes, but there is also a part of me that's glad for it...because it makes me feel like I'm practically a normal person.
 
  
@@ -766,48 +766,48 @@ I would say yes, but there is also a part of me that's glad for it...because it 
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Hmm...
 
  
-**Anastasia**
+**Anastasia:**
 I suppose, deep down, I still believe people are fundamentally good.
 
  
-**Anastasia**
+**Anastasia:**
 Not people like those barbaric soldiers, of course,
 but people like my family.
 
  
-**Anastasia**
+**Anastasia:**
 ...Which isn't to say I'm not aware that, historically speaking, my family did some rather dreadful things, too.
 
  
-**Anastasia**
+**Anastasia:**
 I know they lived, and grew up, and learned, and ate, and lived their lives like any other person would.
 
  
-**Anastasia**
+**Anastasia:**
 Or at least, I thought I did.
 
  
-**Anastasia**
+**Anastasia:**
 I'm still not sure if our people starving to death was my fault or my father's fault.
 
  
-**Anastasia**
+**Anastasia:**
 Or perhaps it was entirely Father and the government officials who swore loyalty to him who were to blame.
 
  
-**Anastasia**
+**Anastasia:**
 Maybe the things they did were simply so terrible that my family...
 
  
-**Anastasia**
+**Anastasia:**
 ...Olga, Tatiana, Maria, and myself...
 
  
-**Anastasia**
+**Anastasia:**
 ...all deserved to be hacked to pieces and dissolved in sulfuric acid.
 
  
@@ -820,27 +820,27 @@ I don't&ndash;
 
 ---
  
-**Anastasia**
+**Anastasia:**
 ...(Sigh)
 
  
-**Anastasia**
+**Anastasia:**
 I'm sorry. I didn't mean to bring up such unpleasant memories.
 
  
-**Anastasia**
+**Anastasia:**
 And besides, I know I will never find answers to those questions, no matter how long I look.
 
  
-**Anastasia**
+**Anastasia:**
 I just have to keep agonizing over them and looking back on them forever.
 
  
-**Anastasia**
+**Anastasia:**
 It's not right for me to expect you to answer them for me, Master.
 
  
-**Anastasia**
+**Anastasia:**
 Oh my, this won't do at all. If I don't snap out of it, I'm liable to end up being summoned as an Avenger.
 
  
@@ -853,30 +853,30 @@ Yeah... I'd really prefer if that didn't happen.
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Is that so? ...Hehe.
 All right, Master, if you insist.
 
  
-**Anastasia**
+**Anastasia:**
 Let's see... I believe this is how you make an unbreakable promise in your homeland, yes?
 
  
-**Anastasia**
+**Anastasia:**
 I swear that I will never become an Avenger.
 Pinky promise.
 
  
-**Anastasia**
+**Anastasia:**
 If this turns out to be a lie,
 then cross my heart and hope to die.
 
  
-**Anastasia**
+**Anastasia:**
 ...You know, I thought this would be a more lighthearted endeavor. I didn't realize quite how morbid it was until we got to the end.
 
  
-**Anastasia**
+**Anastasia:**
 Though admittedly, I'm still not sure how crossing one's heart could actually bring about one's death.
 
  
@@ -886,7 +886,7 @@ Though admittedly, I'm still not sure how crossing one's heart could actually br
 **Fujimaru 1:**
 And I'm still not sure how one would actuallygo about crossing a heart at all.
  
-**Anastasia**
+**Anastasia:**
 Good point.
 
  
@@ -896,7 +896,7 @@ Good point.
 **Fujimaru 2:**
 I'd just as soon not find out...
  
-**Anastasia**
+**Anastasia:**
 True. Some mysteries are better left unsolved.
 
  
@@ -904,32 +904,32 @@ True. Some mysteries are better left unsolved.
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Oh my, was that an earthquake? ...No, it couldn't be, could it? Hopefully, it's a sign that we'll get to leave soon.
 
  
-**Anastasia**
+**Anastasia:**
 I suppose this would never have happened in the first place if I hadn't encouraged Viy to play with the simulator's settings...
 
  
-**Anastasia**
+**Anastasia:**
 Then again, who's to say it wouldn't have?
 
  
-**Anastasia**
+**Anastasia:**
 Oh my. From the look on your face, I take it you don't believe it could have happened any other way?
 
  
-**Anastasia**
+**Anastasia:**
 Well, say what you will; my Viy is still adorable.
 Especially his eyes when he has them both wide open.
 
  
-**Anastasia**
+**Anastasia:**
 Though I know some people have complained that he's scary, or shows up in their nightmares...
 
  
-**Anastasia**
+**Anastasia:**
 ...or that they'd wish he'd stop glomming on to the backs of their heads.
 
  
@@ -942,15 +942,15 @@ Me! I'M “some people”!
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Hehehe, yes, I suppose you are, aren't you?
 
  
-**Anastasia**
+**Anastasia:**
 Still, you should know that Viy holds you in very high regard, even if he has his own way of showing&ndash;
 
  
-**Anastasia**
+**Anastasia:**
 It's freezing.
 
  
@@ -963,12 +963,12 @@ If it's not one thing, it's another!
 
 ---
  
-**Anastasia**
+**Anastasia:**
 What is this place?
 It looks like...a prison made out of ice?
 
  
-**Anastasia**
+**Anastasia:**
 Well I've never seen anywhere like this before. Perhaps the system is “bugging out,” as they say. All right, shall we make our escape?
 
  
@@ -982,27 +982,27 @@ Sure, but how can we get this cell door open?
 
 ---
  
-**Anastasia**
+**Anastasia:**
 There we go. Now we can walk right out of here.
 
  
-**Anastasia**
+**Anastasia:**
 ...Hm? Now why are you looking at me like that? Are you surprised that I would employ such a brutish method?
 
  
-**Anastasia**
+**Anastasia:**
 Well in case you need a reminder, I am the Grand Duchess of the holy Romanov Dynasty. Brute force is absolutely in my wheelhouse.
 
  
-**Anastasia**
+**Anastasia:**
 Now let's be on our way!
 
  
-**Anastasia**
+**Anastasia:**
 Oh my...
 
  
-**Anastasia**
+**Anastasia:**
 Now we're at a party hall?
 It's just one surprise after another.
 
@@ -1016,15 +1016,15 @@ Looks like there's food for the taking, too...
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Hmm... Well, the flavor is nothing to write home about. And it doesn't seem to have replenished any of my magical energy.
 
  
-**Anastasia**
+**Anastasia:**
 Then again, perhaps that's only to be expected, since we are in a simulation and all... I suppose that makes this no different than eating mist.
 
  
-**Anastasia**
+**Anastasia:**
 And in that case, does that mean I've become a wise parsley, able to live off nothing but the faintest drops of dew?
 
  
@@ -1037,11 +1037,11 @@ Parsley? ...Ohhh, are you thinking of “sage”?'Cause if so, that kind of sage
 
 ---
  
-**Anastasia**
+**Anastasia:**
 ...I swear, English can be so difficult sometimes.
 
  
-**Anastasia**
+**Anastasia:**
 Why can't you all keep things simple and just speak Russian like civilized folk!?
 
  
@@ -1059,65 +1059,65 @@ Right back at you, only in reverse!
 
 ---
  
-**Anastasia**
+**Anastasia:**
 ...Fair enough.
 
  
-**Anastasia**
+**Anastasia:**
 On a different subject, I trust you're familiar with Jason the hero, yes?
 
  
-**Anastasia**
+**Anastasia:**
 And you're also familiar with the series of horror films starring an antagonist by the same name?
 
  
-**Anastasia**
+**Anastasia:**
 Well, can you even imagine our Jason running around with a shaved head and a hockey mask in place of that other Jason?
 
  
-**Anastasia**
+**Anastasia:**
 I certainly can't. The very idea of it gives me a huge case of the giggles.
 
  
-**Anastasia**
+**Anastasia:**
 I'm sure our Jason wouldn't be very happy to hear that...
 
  
-**Anastasia**
+**Anastasia:**
 ...but the way I see it, if you can't be free to imagine whatever you like, then where can you be free?
 
  
-**Anastasia**
+**Anastasia:**
 ...And on that note, it looks like Viy is doing his best to be considerate.
 
  
-**Anastasia**
+**Anastasia:**
 What's that? This is the opposite of being considerate?
 Yes, you may be right.
 
  
-**Anastasia**
+**Anastasia:**
 Anyway, I suppose this is still a combat simulation,
 so I won't feel too bad about crushing them.
 
  
-**Anastasia**
+**Anastasia:**
 Let's go, Master!
 
  
-**--BATTLE--**
+**--BATTLE--:**
  
-**Anastasia**
+**Anastasia:**
 Phew, that's that.
 I would say that battle went rather well.
 
  
-**Anastasia**
+**Anastasia:**
 Your orders were absolutely on point, Master.
 Now then, shall we take our leave of this place?
 
  
-**Anastasia**
+**Anastasia:**
 ...We CAN leave, can't we?
 
  
@@ -1130,28 +1130,28 @@ It'd be a really big deal if we couldn't.
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Hehe.
 
  
-**Anastasia**
+**Anastasia:**
 Well, if we couldn't, I suppose we'd just have to throw a never-ending party here.
 
  
-**Anastasia**
+**Anastasia:**
 ...Yes, that might have been the case.
 Now that I think about it...
 
  
-**Anastasia**
+**Anastasia:**
 If we'd been left to our own devices, my family and I might have continued throwing endless parties forever.
 
  
-**Anastasia**
+**Anastasia:**
 We would have continued to eat, and learn, and grow, without ever growing tired of our day-to-day lives.
 
  
-**Anastasia**
+**Anastasia:**
 ...All the while oblivious to the people starving to death right beneath our noses.
 
  
@@ -1164,35 +1164,35 @@ We would have continued to eat, and learn, and grow, without ever growing tired 
 
 ---
  
-**Anastasia**
+**Anastasia:**
 ...I suppose you're right.
 
  
-**Anastasia**
+**Anastasia:**
 People can only barely keep up with what's going on around them.
 
  
-**Anastasia**
+**Anastasia:**
 They're just not capable of seriously considering the plights of perfect strangers in the rest of the world.
 
  
-**Anastasia**
+**Anastasia:**
 If there was an exception to that rule...I guess it'd be the person I'm looking at right now.
 
  
-**Anastasia**
+**Anastasia:**
 ...I take it from your expression that you have mixed feelings about that statement?
 
  
-**Anastasia**
+**Anastasia:**
 Yes, I know. It's very difficult to truly be concerned for others during peaceful, ordinary times.
 
  
-**Anastasia**
+**Anastasia:**
 But in your case, you still wouldn't hesitate to help anyone in your field of vision, would you?
 
  
-**Anastasia**
+**Anastasia:**
 I'm sure that way of life will bring you more than your share of headaches, but even so, I hope you never lose that spirit, Master.
 
  
@@ -1202,11 +1202,11 @@ I'm sure that way of life will bring you more than your share of headaches, but 
 **Fujimaru 1:**
 I'll do my best.
  
-**Anastasia**
+**Anastasia:**
 Good. That's all I ask.
 
  
-**Anastasia**
+**Anastasia:**
 Because I have every faith that your best will be more than enough.
 
  
@@ -1216,15 +1216,15 @@ Because I have every faith that your best will be more than enough.
 **Fujimaru 2:**
 ...All right.
  
-**Anastasia**
+**Anastasia:**
 There's no need to think too hard about it.
 
  
-**Anastasia**
+**Anastasia:**
 Knowing you, I'm sure all you'll need to do is follow your heart. You can always rationalize your actions later.
 
  
-**Anastasia**
+**Anastasia:**
 In your case, I think that's all you'll need to be satisfied.
 
  
@@ -1232,24 +1232,24 @@ In your case, I think that's all you'll need to be satisfied.
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Now then, let's get out of here, Master.
 Tomorrow is another day, after all.
 
  
-**Anastasia**
+**Anastasia:**
 Phew...
 
  
-**Anastasia**
+**Anastasia:**
 Say, Viy? Do you think there's something wrong with me?
 
  
-**Anastasia**
+**Anastasia:**
 I might be a Servant now thanks to meeting a creature as strange and mysterious as you...
 
  
-**Anastasia**
+**Anastasia:**
 ...but do you think I'm really doing the best I can?
 ...I am, right?
 
@@ -1301,145 +1301,145 @@ Hey, you. What is it you're doing there?
 ...No way.
 
  
-**Anastasia**
+**Anastasia:**
 Huh?
 Am I...sleeping?
 
  
-**Anastasia**
+**Anastasia:**
 Even though I'm a Servant?
 
  
-**Anastasia**
+**Anastasia:**
  
 ...Was this your doing, Viy?
 
  
-**Anastasia**
+**Anastasia:**
  
 If this is your idea of mischief, it's not funny.
 I'm very sensitive, remember?
 
  
-**Anastasia**
+**Anastasia:**
 Or what? Are you telling me...that's a scene from my future?
 
  
-**Anastasia**
+**Anastasia:**
  
 ...
 ...
 
  
-**Anastasia**
+**Anastasia:**
  
 That's ridiculous.
 No, that's not even possible.
 
  
-**Viy**
+**Viy:**
 &mdash;.
 &mdash;.
 
  
-**Anastasia**
+**Anastasia:**
 ...Nobody's coming.
 Maybe this means Master isn't here.
 
  
-**Anastasia**
+**Anastasia:**
 ...There's nobody here.
 
  
-**Anastasia**
+**Anastasia:**
 ...!
 
  
-**Anastasia**
+**Anastasia:**
 Um... Who are you?
 
  
-**Anastasia**
+**Anastasia:**
 !
 
  
-**Anastasia**
+**Anastasia:**
 Enemies!
 
  
-**???**
+**???:**
 ...No.
 
  
-**Anastasia**
+**Anastasia:**
 ...?
 
  
-**???**
+**???:**
 We obey your orders.
 
  
-**Anastasia**
+**Anastasia:**
 Who are...
 What are you talking about?
 
  
-**???**
+**???:**
 We will kill everyone here,
 because that is what you want.
 
  
-**Anastasia**
+**Anastasia:**
 !
 
  
-**Anastasia**
+**Anastasia:**
 Master! Where are you!?
 We're under attack!
 
  
-**Anastasia**
+**Anastasia:**
 ...Master? Where are you?
 Where is everyone...?
 
  
-**Anastasia**
+**Anastasia:**
 Khh...  Open your eyes, Viy!
 
  
-**--BATTLE--**
+**--BATTLE--:**
  
-**Anastasia**
+**Anastasia:**
 That's strange...
 
  
-**Anastasia**
+**Anastasia:**
 I don't remember the hallway...being this broken...
 
  
-**Anastasia**
+**Anastasia:**
 And...why is there nobody here?
 ...Master?
 
  
-**Anastasia**
+**Anastasia:**
 ...Huh?
 
  
-**Viy**
+**Viy:**
 &mdash;.
 &mdash;.
 
  
-**Anastasia**
+**Anastasia:**
 Viy? Do you remember when I was summoned?
 
  
-**Anastasia**
+**Anastasia:**
 ...!
 
  
-**Anastasia**
+**Anastasia:**
 My head... It hurts...
 No... Stop it, stop it, stop it!
 
@@ -1449,11 +1449,11 @@ This isn't me!
 It's not, it's not, it's not!!!
 
  
-**???**
+**???:**
 ...Whose side are you on?
 
  
-**Anastasia**
+**Anastasia:**
 ...!
 
  
@@ -1480,7 +1480,7 @@ It's with that lament that...
 I wake up.
 
  
-**Anastasia**
+**Anastasia:**
 Huh?
 
  
@@ -1493,12 +1493,12 @@ What's wrong, Anastasia?
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Aah!
 M-Master!?
 
  
-**Anastasia**
+**Anastasia:**
 I-I'm sorry. I must have fallen asleep.
 
  
@@ -1511,16 +1511,16 @@ Yup. You were sleeping like a baby.
 
 ---
  
-**Anastasia**
+**Anastasia:**
 C-come now, Master, don't tease me like that.
 I'm supposed to be doing the teasing here, remember?
 
  
-**Anastasia**
+**Anastasia:**
 I am an imp, after all.
 
  
-**Anastasia**
+**Anastasia:**
 ...And don't look at me like that.
 This is perfectly fair.
 
@@ -1530,20 +1530,20 @@ This is perfectly fair.
 It feels like...we've had this conversation before.
 
  
-**Anastasia**
+**Anastasia:**
 Hey...Master?
 
  
-**Anastasia**
+**Anastasia:**
 I just had a bad dream.
 A really, REALLY bad dream.
 
  
-**Anastasia**
+**Anastasia:**
 So, um... Would you mind holding my hand, Master?
 
  
-**Anastasia**
+**Anastasia:**
 Would you please hold my hand so that I don't go crazy or fall to pieces?
 
  
@@ -1557,7 +1557,7 @@ I must still be dreaming.
 I've been suffering from my guilt all this time.
 
  
-**Anastasia**
+**Anastasia:**
 ...Master? I know I'm being a scaredy-cat now,
 but would you please help me anyway?
 
@@ -1576,7 +1576,7 @@ I'm always here for you. Always.
 
 ---
  
-**Anastasia**
+**Anastasia:**
 Thank you...
 
  

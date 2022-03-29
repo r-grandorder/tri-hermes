@@ -2,21 +2,21 @@
 
 <h2>Alone, Again</h2>
 
-**Carmilla**
+**Carmilla:**
 ...Master, Master.
 
  
-**Carmilla**
+**Carmilla:**
 Wake up, Master.
 I said, wake up, Master.
 
  
-**Carmilla**
+**Carmilla:**
 ...
 ...
 
  
-**Carmilla**
+**Carmilla:**
 Which is your desire, Master;
 the Iron Maiden or the Brazen Bull?
 
@@ -37,62 +37,62 @@ Where am I?!
 
 ---
  
-**Carmilla**
+**Carmilla:**
 No idea.
 How should I be expected to know such a thing?
 
  
-**Carmilla**
+**Carmilla:**
 Yet, quite clearly it is a pleasant place.
 Your pet and companion are here as well.
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Mash**
+**Mash:**
 Are you awake, Master?
 ...We're trapped somewhere.
 
  
-**Mash**
+**Mash:**
 It appears we're in some sort of Reality Marble&ndash;
 I'm unable to contact Dr. Roman either.
 
  
-**Carmilla**
+**Carmilla:**
 It doesn't just appear to be, it most certainly is.
 This is my castle, after all.
 
  
-**Mash**
+**Mash:**
 What do you mean, "your castle?"&ndash;
 
  
-**Carmilla**
+**Carmilla:**
 That's right, this is the Castle Csejte.
 It's best that you don't wonder off somewhere.
 
  
-**Carmilla**
+**Carmilla:**
 The chances of escaping this castle are a mere one in one thousand. You really ought to relax and wait.
 
  
-**Mash**
+**Mash:**
 But...
 
  
-**Carmilla**
+**Carmilla:**
 At any rate, I know this castle and I'm not going anywhere.
 
  
-**Carmilla**
+**Carmilla:**
 I am quite comfortable here, after all.
 The smell of blood here is so, so dear to me.
 
  
-**Mash**
+**Mash:**
 Ugh.
 ...What should we do, Master?
 
@@ -113,7 +113,7 @@ Let's escape.
 
 ---
  
-**Carmilla**
+**Carmilla:**
 ...Wait a moment, Master.
 Did you not listen to a word I said?
 
@@ -134,23 +134,23 @@ I heard every word.
 
 ---
  
-**Carmilla**
+**Carmilla:**
 In that case, surely you know that you won't find any lies or deception in my words.
 
  
-**Carmilla**
+**Carmilla:**
 Ask your companion, there. Have her tell you the blood-splattered legend of Elisabeth Báthory.
 
  
-**Mash**
+**Mash:**
 ...I'll admit, it's exactly as Carmilla says.
 
  
-**Mash**
+**Mash:**
 The only person to ever to escape here was a one single maiden out of a thousand.
 
  
-**Mash**
+**Mash:**
 I do believe your safest choice is to wait here...patiently.
 
  
@@ -170,33 +170,33 @@ There's no help coming for us.
 
 ---
  
-**Carmilla**
+**Carmilla:**
 ...!
 
  
-**Mash**
+**Mash:**
 You're right. After all...if this is Castle Csejte, we have been imprisoned...!
 
  
-**Mash**
+**Mash:**
 The longer we wait, the more likely we'll be sacrificed...
 
  
-**Carmilla**
+**Carmilla:**
 Ugh. J-Just how foolish can this woman be?
 Do you understand? This is MY castle.
 
  
-**Carmilla**
+**Carmilla:**
 How could I be locked inside my own castle?
 Such self-injurious action would never be...never be...
 
  
-**Carmilla**
+**Carmilla:**
 ...ok, it's completely possible.
 
  
-**Carmilla**
+**Carmilla:**
 To drain the blood from a beautiful maiden. To skewer a hateful rival. If it were for that purpose, it is a possibility.
 
  
@@ -216,169 +216,169 @@ To drain the blood from a beautiful maiden. To skewer a hateful rival. If it wer
 
 ---
  
-**Carmilla**
+**Carmilla:**
 ...As infuriating as it is, I'd have to say that is the proper choice. For the moment, I think I shall follow your orders.
 
  
-**Mash**
+**Mash:**
 What about traps...?
 
  
-**Carmilla**
+**Carmilla:**
 Do you think I would bother with such trivial matters?
 All I did was give the order, "Don't allow anyone to escape."
 
  
-**Carmilla**
+**Carmilla:**
 As to what manner of security measures were taken, do you think I would bother myself with that?
 
  
-**Mash**
+**Mash:**
 ...Uh, well.
 Do you have any advice on how to escape?
 
  
-**Carmilla**
+**Carmilla:**
 None whatsoever. Why do you look at me that way?
 You are a mere commoner&mdash;Eek!?
 
  
-**Carmilla**
+**Carmilla:**
 A hand extending from the wall?!
 What is this? A haunted mansion?
 
  
-**Mash**
+**Mash:**
 It's a Golem!
 The wall has transformed!
 
  
-**Mash**
+**Mash:**
 I'll destroy it!
 Stand back, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Carmilla**
+**Carmilla:**
 ...I'll admit, I do regret my actions a little bit.
 Not knowing anything can be quite a scary thing.
 
  
-**Carmilla**
+**Carmilla:**
 But, I will say this. Master, if you ever make a mockery of my foolishness, it's the Iron Maiden for you.
 
  
-**Mash**
+**Mash:**
 Ummm, I don't see an exit anywhere...
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Mash**
+**Mash:**
 Fou?
 Don't rush ahead like that...!
 
  
-**Fou**
+**Fou:**
 Fou, fou!
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Mash**
+**Mash:**
 Master, stay close by!
 It's an enemy!
 
  
-**Carmilla**
+**Carmilla:**
 But this is no Golem.
 Yes...It appears we finally meet the true foe.
 
  
-**???**
+**???:**
 &ndash;I hate you!
 
  
-**???**
+**???:**
 &ndash;I cannot stand you!
 I will never, ever forgive you!
 
  
-**Carmilla**
+**Carmilla:**
 Mere phantom of this castle... You weakest of the weak,
 lowest of the low! How dare you stand before me!
 
  
-**Young Girl**
+**Young Girl:**
 What did you say? ...Just because you are a noble...
 you killed me...How dare you...How dare you!
 
  
-**Carmilla**
+**Carmilla:**
 That's right. Being a noble is my way of life. I am afraid to say that I am not the type to be tormented by guilt.
 
  
-**Carmilla**
+**Carmilla:**
 I am evil. Utter and thorough evil. Void of salvation,
 I am a ludicrous beast that died in sheer despair.
 
  
-**Carmilla**
+**Carmilla:**
 However, I am not so foolish to have regretted my evil and lost sight of what lies before me.
 
  
-**Carmilla**
+**Carmilla:**
 It was perfectly logical to curse me, but to invite these ones in as well was foolish.
 
  
-**Carmilla**
+**Carmilla:**
 You will receive pity if you were to only curse me, to curse all of those living, then you're no better than me.
 
  
-**Carmilla**
+**Carmilla:**
 In that case&mdash;I shall crush you, without a shred of mercy.
 
  
-**Carmilla**
+**Carmilla:**
 Even if you are a phantom, I will wring every last drop of blood from you!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Carmilla**
+**Carmilla:**
 ...Hmph! The hem of my dress has been torn.
 That was somewhat of an inconvenience.
 
  
-**Carmilla**
+**Carmilla:**
 Let us be on our way, Master.
 The exit shouldn't be far.
 
  
-**Carmilla**
+**Carmilla:**
 ...
 
  
-**Mash**
+**Mash:**
 What's the matter, Carmilla?
 
  
-**Carmilla**
+**Carmilla:**
 Nothing at all. Only a slight headache.
 ...Master, let me ask you this.
 
  
-**Carmilla**
+**Carmilla:**
 This is just an "if." If the door does not open...
 and we are truly locked in this castle, what will you do?
 
  
-**Carmilla**
+**Carmilla:**
 Would you give up in despair?
 Or would you&ndash;?
 
@@ -399,35 +399,35 @@ I would not give up.
 
 ---
  
-**Carmilla**
+**Carmilla:**
 ...I see.
 I figured you would say as much.
 
  
-**Carmilla**
+**Carmilla:**
 Even in such a desperate situation, you'll continue fighting without giving up.
 
  
-**Carmilla**
+**Carmilla:**
 Just because you've been imprisoned,
 you're not the type to lie down and give up.
 
  
-**Mash**
+**Mash:**
 An enemy!
 It's a&ndash;Shadow Servant...!?
 
  
-**Carmilla**
+**Carmilla:**
 Oh, dear... I am imprisoned again.
 Again, I am all alone.
 
  
-**Carmilla**
+**Carmilla:**
 Again, again, again, again, again, again, again, again, again, again there is no one to rescue me...!!
 
  
-**Carmilla**
+**Carmilla:**
 No! No! Stop...! I don't want to go back to that place! No! No! Noooo!
 
  
@@ -447,120 +447,120 @@ I will rescue you this time.
 
 ---
  
-**Carmilla**
+**Carmilla:**
 ...!
 Master...
 
  
-**Mash**
+**Mash:**
 Here it comes...!
 
  
-**Carmilla**
+**Carmilla:**
 &ndash;So it is.
 Now, I am your Servant.
 
  
-**Carmilla**
+**Carmilla:**
 Even though it was my fate to become imprisoned, it is illogical that you should be imprisoned as well.
 
  
-**Carmilla**
+**Carmilla:**
 Master! Mash! Listen to me closely.
 This is merely "darkness!"
 
  
-**Carmilla**
+**Carmilla:**
 It is a darkness that envelopes this castle, preventing escape. It is the final barrier, the absolute ruler.
 
  
-**Carmilla**
+**Carmilla:**
 I cannot overcome this alone.
 But now, I have you with me.
 
  
-**Carmilla**
+**Carmilla:**
 To battle! Now is the time for me to make these ones pay for what has been done!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 We destroyed them!
 We can open the door...!
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Carmilla**
+**Carmilla:**
 ...Well done.
 You have successfully escaped.
 
  
-**Mash**
+**Mash:**
 What about you, Carmilla?
 
  
-**Carmilla**
+**Carmilla:**
 Never mind me. You go on.
 You should return to Chaldea.
 
  
-**Carmilla**
+**Carmilla:**
 This place is nothing more than a world of my own imagining.
 
  
-**Carmilla**
+**Carmilla:**
 As long as my fate has been determined, there is no hope of my escaping this place.
 
  
-**Carmilla**
+**Carmilla:**
 You see, for me to escape imprisonment would be a rejection of my life, my fate, my everything.
 
  
-**Carmilla**
+**Carmilla:**
 However&ndash;You are different. I must help you. Even if the chances are one in a thousand, I must help my Master.
 
  
-**Carmilla**
+**Carmilla:**
 ...Do not worry. This is a dream. Merely a nightmare. You will forget all of it when you awake.
 
  
-**Carmilla**
+**Carmilla:**
 In matter of fact, what if...
 
  
-**Carmilla**
+**Carmilla:**
 What if, I had met someone like you when I was "Elisabeth."
 
  
-**Carmilla**
+**Carmilla:**
 What if, I had reached out to a beacon of light like you.
 Then I&ndash;
 
  
-**Carmilla**
+**Carmilla:**
 &ndash;Oh!
 You're awake! Master.
 
  
-**Carmilla**
+**Carmilla:**
 ...Why, you look as if you were struck by a popgun.
 Did you have a strange dream?
 
  
-**Carmilla**
+**Carmilla:**
 That's right. It was just a dream. Put it out of your mind. More importantly, it is still night time.
 
  
-**Carmilla**
+**Carmilla:**
 There is still time before morning comes.
 Go back to sleep once more.
 
  
-**Carmilla**
+**Carmilla:**
 And this time&ndash;have a pleasant dream.
 Good night, Master.
 

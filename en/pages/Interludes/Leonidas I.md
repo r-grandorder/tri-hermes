@@ -2,7 +2,7 @@
 
 <h2>Leonidas Boot Camp</h2>
 
-**Leonidas**
+**Leonidas:**
 Master!
 I know it's sudden, but let's train.
 
@@ -23,19 +23,19 @@ For what...
 
 ---
  
-**Leonidas**
+**Leonidas:**
 You're a mage. So perhaps you think physical strengthening is unnecessary.
 
  
-**Leonidas**
+**Leonidas:**
 However, such notions may prove to be fatal.
 
  
-**Leonidas**
+**Leonidas:**
 As the battles get fiercer and deadlier, it's essential to fortify your body.
 
  
-**Leonidas**
+**Leonidas:**
 You must improve your strength and endurance!
 Relax, my calculations are flawless!
 
@@ -56,16 +56,16 @@ I'm not so sure about that...
 
 ---
  
-**Leonidas**
+**Leonidas:**
 Yes, just leave everything to me!
 Come on, let's be off.
 
  
-**Mash**
+**Mash:**
 We have arrived.
 
  
-**Mash**
+**Mash:**
 This is a mock battlefield.
 Um...Senpai, are you sure about this?
 
@@ -80,44 +80,44 @@ Um...Senpai, are you sure about this?
 
 ---
  
-**Leonidas**
+**Leonidas:**
 As long as I, Leonidas, am by your side, there's nothing to fear!
 
  
-**Leonidas**
+**Leonidas:**
 Let's start training!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Leonidas**
+**Leonidas:**
 You're working up a good sweat, I see.
 Let's continue!
 
  
-**Mash**
+**Mash:**
 OK.
 I will summon your next opponent.
 
  
-**Leonidas**
+**Leonidas:**
 Bring it on!
 
  
-**Mash**
+**Mash:**
 Hmm, something's not right.Let's see&ndash;
 
  
-**Mash**
+**Mash:**
 Wh-What's going on&ndash;?
 
  
-**Leonidas**
+**Leonidas:**
 Ah.
 Rejoice, Master!
 
  
-**Leonidas**
+**Leonidas:**
 It seems like our latest arrival is literally brimming with muscles!
 
  
@@ -137,94 +137,94 @@ That's nothing to "rejoice" about!
 
 ---
  
-**Mash**
+**Mash:**
 Th-There's been a malfunction!
 
  
-**Mash**
+**Mash:**
 We seem to have accidentally summoned something that we shouldn't have!
 
  
-**Mash**
+**Mash:**
 Master, retreat immediately!
 
  
-**Leonidas**
+**Leonidas:**
 What a silly suggestion!
 This is the perfect chance!
 
  
-**Leonidas**
+**Leonidas:**
 Come on, Master...let's muscle through this!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Leonidas**
+**Leonidas:**
 Ah, what a fine battle!
 
  
-**Mash**
+**Mash:**
 All adjustments complete.
 The final enemy has been set.
 
  
-**Mash**
+**Mash:**
 What do you want to do?
 
  
-**Mash**
+**Mash:**
 I think it's fair to conclude that training is over for today...
 
  
-**Leonidas**
+**Leonidas:**
 Not yet! We must follow this through to the end.
 On to the next enemy!
 
  
-**Mash**
+**Mash:**
 Understood.
 The final opponent is a random enemy.
 
  
-**Leonidas**
+**Leonidas:**
 ...Um, Miss Mash.
 Just what is that, exactly?
 
  
-**Leonidas**
+**Leonidas:**
 Is it that, uh, you know.
 I think it starts with a "G."
 
  
-**Mash**
+**Mash:**
 Yes, it's a Ghost-type enemy.
 
  
-**Leonidas**
+**Leonidas:**
 ...Ghost...collective consciousness...science!
 
  
-**Mash**
+**Mash:**
 Leonidas?
 You seem to be sweating quite a lot...
 
  
-**Leonidas**
+**Leonidas:**
 What? No, not at all!
 I'm doing fine here. Just fine.
 
  
-**Leonidas**
+**Leonidas:**
 You might not think so, but I once took on 100,000 men!
 A mere spirit devoid of muscles is nothing to fear&ndash;
 
  
-**Leonidas**
+**Leonidas:**
 I apologize, Master! I confess I don't know how to deal with ghosts!
 
  
-**Leonidas**
+**Leonidas:**
 You see, my muscles are useless against them&ndash;!
 They seem smarter than me!
 
@@ -235,21 +235,21 @@ They seem smarter than me!
 **Fujimaru 1:**
 Let's overcome it.
  
-**Leonidas**
+**Leonidas:**
 Overcome it
 ...you say?
 
  
-**Leonidas**
+**Leonidas:**
 U-Uh, I suppose it's not hard to say we won't run into ghost again in the future.
 
  
-**Leonidas**
+**Leonidas:**
 Thus, I must stand my ground!
 Fear not, Leonidas!
 
  
-**Leonidas**
+**Leonidas:**
 This enemy's nothing compared to a Persian army of 100,000 men!
 
  
@@ -259,12 +259,12 @@ This enemy's nothing compared to a Persian army of 100,000 men!
 **Fujimaru 2:**
 Don't worry. Your attacks will work.
  
-**Leonidas**
+**Leonidas:**
 What!
 ...I see, you may be right.
 
  
-**Leonidas**
+**Leonidas:**
 Indeed, even these ghosts were once human!
 Thus, my muscles are not useless after all!
 
@@ -273,32 +273,32 @@ Thus, my muscles are not useless after all!
 
 ---
  
-**Leonidas**
+**Leonidas:**
 Very well, Master!
 Let us face this ghost!
 
  
-**Leonidas**
+**Leonidas:**
 Raaaaargh!
 We are ghost hunters!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Leonidas**
+**Leonidas:**
 Huff, huff, huff...
 
  
-**Leonidas**
+**Leonidas:**
 What a powerful enemy...Contact with a ghost chills you to the bone. I just learned something...
 
  
-**Leonidas**
+**Leonidas:**
 Thank you, Master!
 I was able to overcome the ghost with your help.
 
  
-**Leonidas**
+**Leonidas:**
 I swear to safeguard you from all enemies, to stave off despair, and to always bring you victory!
 
 

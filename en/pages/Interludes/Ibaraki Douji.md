@@ -2,27 +2,27 @@
 
 <h2>Fire and Alcohol and Oni! Oh, My!</h2>
 
-**Mash**
+**Mash:**
 We've arrived. Rayshift successful.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Actually, why Rayshift to this era now?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Even if the Singularity has been resolved, it's still a handful to prove your existence in that era...
 
  
-**Mash**
+**Mash:**
 Yes...I understand that.
 
  
-**Mash**
+**Mash:**
 Especially now, when we need to rest as much as we can before the decisive battle against the King of Mages.
 
  
-**Mash**
+**Mash:**
 I also wanted Master to get some rest back in Chaldea, but...
 
  
@@ -40,20 +40,20 @@ It's hard to say no to Ibaraki...
 
 ---
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hahaha! Rest!? Like I'd let you rest! Cry!
 Cry while you tell me what a terrifying oni I am!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 People should cry in terror every time they see an oni like me! There's no peace or rest when I'm around!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...But now that I think of it...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 If I were you, every encounter I had with Shuten would only end up with memories of bitterness and agony.
 
  
@@ -71,60 +71,60 @@ True. So true.
 
 ---
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hehehe. I see, I see.
 Yup, I think that a lo&ndash;erm... Never mind.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Anyway. The point is, Shuten is amazing. Her cruelty and evil are beyond any regular oni, and I need to follow that example!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Well, do it in moderation.
 So, Ibaraki, why'd you want to come here?
 
  
-**Mash**
+**Mash:**
 ...It's not just to stop Master from resting, is it?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hmph. Nope. There's somewhere I wanna go.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 We've got a lot of walking to do.
 I hope you have your hiking shoes on.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...Actually, doesn't matter.
 If you get tired or slow me down, I'll just drag you along!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 And then you'll scream and cry and tell me how cruel and awful I am! Heehee... Just watch, and be amazed!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's really not a safe place for a stroll...
 So why do you want to go there?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...Something smells. I can't leave it be.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Smells...?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Eh, you'll see when we get there. I'll take the lead. Follow me.
 
  
-**Mash**
+**Mash:**
 ...Ibaraki's hyped up.
 Let's just follow her, Master.
 
@@ -143,7 +143,7 @@ Maybe she found a chocolate fountain...
 
 ---
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 A-as if! There's no such thing! Right? RIGHT!?
 
  
@@ -156,25 +156,25 @@ Actually, Uruk has a secret candy tree orchard.
 
 ---
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
  
 WHAT!? Wh-where is it? Tell me! We're gonna stop by on our way! E-even if it's not on our way! WE WILL GO!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hmmm... Just thinking about sweets makes my mouth water. Those are good. Such flavors are not possible within the oni realm.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 And even I know how preciously rare they are.
 I know that I mustn't have more than one per day.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Butbutbut...! If candy grows on trees...it'll never run out! And I can eat as much as I want!!!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Kwahahaha! Master, yes! You've given me the best news of my life! Candy! Unliiimited caaandy!!!
 
  
@@ -187,61 +187,61 @@ Just kidding.
 
 ---
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 YOU MONSTER!!!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hm. This is kinda homey. Reminds me of Mt. Ooe. Everything in these forests is evil.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 And obviously I'd be the boss of all this.
 Not a lotta things out there as evil as a blood-crazed oni!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm just going to say again that I never expected we'd come across an actual oni.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I wasn't even sure we'd be able to communicate properly...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Not least because of how incredibly violent you were in Rashomon the first time we ran into you...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 But since your Madness Enhancement seems to be mixed with your oni nature, you seem to be one of those Berserkers that can converse normally.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm glad we were able to get along,
 unexpected as that was.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 An oni getting along with humans...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Cut the nonsense, onmyouji. I am an oni. That's a human. There's no getting along for us.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 This human is...y-yeah...totally terrified of me!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 The only relationship we have is the kind between a frightening tyrant and a whimpering, terrified kid!
 
  
@@ -254,158 +254,158 @@ The only relationship we have is the kind between a frightening tyrant and a whi
 
 ---
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Yes, yes! I knew it! Of course it is!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 That dull, warm gaze and your dumb face twitching in a terrified half-smile is all the proof I need!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 And onmyouji... Just because I'm an oni doesn't mean you can look at me like a circus freak. I'll eat you.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm not an onmyouji. We're called doctors.
 And, well...sorry.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I see now that I was being insensitive.
 I'm sorry I upset you, Ibaraki.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hmph. Whatever.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 So are oni really that rare in this era? If you went to Mt. Ooe back in the day, there were tons around.
 
  
-**Mash**
+**Mash:**
 You mentioned that mountain earlier...
 Is that your homeland, Ibaraki-Douji?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Homeland? I guess you could call it that.
 
  
-**Mash**
+**Mash:**
 What kind of place was it?
 You said it was similar to here...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 It's a mountain where the oni I led gathered.
 We even built a palace there.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 An oni palace... Sounds incredible...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hm. Without that, the oni would be no different than mere beasts.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 I won't tell them to live like humans, but we need our pride. That's why we need food, clothes, and shelter.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...I guess thinking like that is what made me stand out from all the other oni.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 But that's my problem.
 My time spent as an oni was glorious!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 I led mighty oni troops and we rampaged through the capital in the Heian period. There was Kuma-Douji, Torakuma-Douji, Hoshiguma, Kanekuma...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 And my bestest number one companion and loving blood sister...Shuten.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 We raided and pillaged human cities all the time. When we were done, we went back to the mountain to rest.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 And when we wanted more, we took it!
 Just thinking of all the fun we had makes my heart race!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I see. Your story is...disturbing, but it sounds like you were happy.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 You rounded up a bunch of freewheeling oni and made them into a gang.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oni are powerful, but alone they can be killed by a group of humans. That's why you decided to band together.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yep, yep. No mean feat. You had the gift of foresight. Might even have been wasted on an oni, really.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...Not really. I just acted according to my mother's teachings.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 The only one who kept to her own principles, lived in luxury, and ruled as an evil, cruel oni was Shuten.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Ah, Shuten-Douji. She is certainly extraordinary. Honestly, calling her an oni might be selling her short.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hm? Speaking of which, where is she?
 She's not with you this time?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 No need. I don't wanna bother her with this.
 ...This way. Let's get this over with before she wakes up.
 
  
-**Mash**
+**Mash:**
 Oh, okay.
 Let's go, Master.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Maybe it's my imagination...but I'm starting to get a bad feeling about this...
 
  
-**???**
+**???:**
 ...Ah...ahhhhhh...
 
  
-**Mash**
+**Mash:**
 ...What's that...!?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It reads almost like a Servant...or not?
 Is it some sort of remnant...?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...Ha. That scent... I smell it. Is it you?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 You smell of oni, female warrior!
 
  
@@ -418,71 +418,71 @@ You smell of oni, female warrior!
 
 ---
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 My current form limits my ability to detect things a bit, but I'm sure you know very well yourself.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 There was supposedly a Heroic Spirit who was summoned to this land and later defeated.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Judging from the state of the battlefield...
 I'd say there were flames. Flames like mine.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 With flames intense enough to scorch your own body, you incinerated the enemies around you. ...I see that kind of intensity and desire. Am I wrong?
 
  
-**Mash**
+**Mash:**
 A female warrior...who died in Uruk?
 We did not meet her...
 
  
-**Mash**
+**Mash:**
 But I have some information on her.
 
  
-**Mash**
+**Mash:**
 A Servant named Tomoe Gozen sacrificed herself to defeat the Demonic Beasts' commander, Girtablilu.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Ah. So that means those are her charred remains.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Of course they are. I'm sure you know, but we oni are the epitome of sloppy.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Are you saying Tomoe Gozen was an oni!?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Based on her scent, not exactly.
 Maybe she was descended from oni.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Though I'm sure she has more direct lineage than that Fuuma kid.
 
  
-**Tomoe Gozen?**
+**Tomoe Gozen?:**
 Ah...ahhhhhh...!
 AHHHHHH!!!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 She has no sense or will. Just mindless violence.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Or perhaps... She absorbed some power from that, umm... Girta...waffle? Maybe that's why she's losing control.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Not that I can blame her for losing her mind after being incinerated along with her enemy.
 
  
@@ -500,50 +500,50 @@ Tastiest enemy ever.
 
 ---
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Kwahahaha, in name only!
 It certainly doesn't SMELL delicious.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 That thing's just an imitation oni.
 A writhing, burnt husk.
 
  
-**Mash**
+**Mash:**
 Ibaraki-Douji... You knew about this...?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 No. I just wanted to get rid of the source of its stench before Shuten noticed it.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 There was no way for me to recognize the smell.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Get rid of it...? If Tomoe Gozen is descended from oni, don't you feel some kinship with her?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Maybe if it was the real thing, but that's just a remnant. Looks like there's other stuff mixed in, too.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 There's no need to question its existence.
 Human, what would you do in my place?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 If the mostly dead remnants that smelled of your kind were mixed with other, unknown things...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 If all they did was writhe around and lash out violently...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...what would you do?
 
  
@@ -561,110 +561,110 @@ I've seen this movie. I know how it ends.
 
 ---
  
-**Mash**
+**Mash:**
 ...I see.
 
  
-**Mash**
+**Mash:**
 When you put it that way, Ibaraki's approach seems...understandable.
 
  
-**Mash**
+**Mash:**
 I obviously do not know what an oni scent&ndash;
 
  
-**Tomoe Gozen?**
+**Tomoe Gozen?:**
 Gu...ah...ahhh!!!
 
  
-**Mash**
+**Mash:**
 Well, I know it's something we can't just leave here.
 
  
-**Mash**
+**Mash:**
 Even if she was a great Servant who stopped the invasion of the Demonic Front and we are indebted to her...
 
  
-**Mash**
+**Mash:**
 ...all this remnant does is pose a danger to an era about to be restored.
 
  
-**Tomoe Gozen?**
+**Tomoe Gozen?:**
 ![berserk1](https://i.imgur.com/XAqlQYL.png)!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh no. It looks like you've got her attention!
 She doesn't seem at all friendly!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Kukuku... So you noticed my scent.
 Gonna try and eat me and make me a part of you, eh?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Well as a proper oni, lemme tell you:
 You're pitiful! Pathetic! Wretched!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Know your place. I'm the one who's gonna eat you!
 My name is Ibaraki-Douji!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 I'm the leader of the oni of Mt. Ooe! The one who drowned the Heian capital in blood and terror!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Tomoe Gozen?**
+**Tomoe Gozen?:**
 Ibara...ki... Yes... You...returned... How wonderful...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...?
 
  
-**Tomoe Gozen?**
+**Tomoe Gozen?:**
 Please...laugh...at me... I'm lower...than an oni...
 I... I couldn't...acknowledge you...
 
  
-**Tomoe Gozen?**
+**Tomoe Gozen?:**
 I...stomped all over...Girtablilu's heart...
 He said I...was beautiful...
 
  
-**Tomoe Gozen?**
+**Tomoe Gozen?:**
 But... But I told him...that it was impossible...
 Impossible for an oni to...understand humans...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...Threat response...completely gone.
 Good work.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 What the hell? Did she know me?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...Never mind.
 I knew it. It was neither fun nor delicious.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 I'm just glad that it didn't cause trouble for Shuten.
 
  
-**Mash**
+**Mash:**
 Master... Look how sad she looks...
 
  
-**Mash**
+**Mash:**
 She's just standing there staring at the spot where the enemy fell...
 
  
@@ -677,65 +677,65 @@ Well, she was talking about her comrades...
 
 ---
  
-**Mash**
+**Mash:**
 You're right. She talks big, but they were both oni.
 She probably has a lot on her mind.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...If only you were more than a remnant...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 If you are truly descended from oni, come to Mt. Ooe.
 I am the leader of the oni. I will not refuse you.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Maybe, if I feel like it, I'd share a human liver with you... No...I wouldn't like that, but I'd share wonderful foreign sweets or two to you...
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Dr. Roman**
+**Dr. Roman:**
 ...Whew. Who knew there'd still be irregularities in an era even after we fixed the Singularity?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Maybe it's because of the concentration of magical energy in Uruk. But no matter what, you managed to take care of it. Come back with your heads held high&ndash;
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 No.
 
  
-**Mash**
+**Mash:**
 ...?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Huh?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 I said “no,” onmyouji.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm a doctor, not an onmyouji! Ugh, never mind that.
 Are you saying that you're not coming back yet?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Indeed.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 There are other places to go.
 Accompany me, Master.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Refuse, and I'll drag you.
 
  
@@ -745,7 +745,7 @@ Refuse, and I'll drag you.
 **Fujimaru 1:**
 The poison of selfishness somethingsomething...
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Eh? Poison? No thanks. You know, though...Shuten would even drink up poisoned alcohol if it involves THAT man.
 
  
@@ -755,16 +755,16 @@ Eh? Poison? No thanks. You know, though...Shuten would even drink up poisoned al
 **Fujimaru 2:**
 (...Oh! Right!) How, uh, evil...of you...?
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hm? What did you just say? Hey, what did you say???
 I couldn't hear you! Say it again!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Bwahahaha! I knew it! I'm such a great oni, I even scare myself! Good! Cry more! Scream more!
 
  
-**Mash**
+**Mash:**
 Master... What a wonderful way to handle her.
 You really are kind!
 
@@ -773,24 +773,24 @@ You really are kind!
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 Well, I guess you did lead with your nose...?
 That helped us out.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 If there's another place you need to go to, I'm sure you have your reasons.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'd rather not think about it, but I can't guarantee there isn't another remnant like before.
 
  
-**Mash**
+**Mash:**
 Yes. Even with the Singularity resolved, we do not know for sure what would happen if we left it alone.
 
  
-**Mash**
+**Mash:**
 Besides...
 
  
@@ -803,19 +803,19 @@ Besides?
 
 ---
  
-**Mash**
+**Mash:**
 Ibaraki...has always been kind of charming, even cute...
 
  
-**Mash**
+**Mash:**
 Like when she butts heads with Raikou and Kintoki, or when she's getting bullied by Shuten, or when she's eating sweets.
 
  
-**Mash**
+**Mash:**
 But back there...when she acted like a proper leader of the oni... I was impressed.
 
  
-**Mash**
+**Mash:**
 Seeing that really cast her in a new light. I think I want to see more of this side of her. Or...something like that...
 
  
@@ -828,241 +828,241 @@ Seeing that really cast her in a new light. I think I want to see more of this s
 
 ---
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hey, what are you two babbling about?
 If we're going, let's get a move on!
 
  
-**Mash**
+**Mash:**
 Wow...
 
  
-**Mash**
+**Mash:**
 I'm not sure if this is from correcting the Singularity, or whether this is all thanks to the survivors...
 
  
-**Mash**
+**Mash:**
 But the city is very lively now!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Not quite so much as when you first arrived,
 but it is still impressive.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Glad to hear it.
 So is your next destination somewhere around here?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Yes, but we need to walk a bit more.
 Still...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Hm. What a lively city.
 If Shuten were here, she'd be thrilled.
 
  
-**Mash**
+**Mash:**
 Yes. Uruk is King Gilgamesh's city!
 I'm sure it's rowdy in a lot of ways.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Right. Being lively and bountiful is good.
 That makes the pillaging more fun!
 
  
-**Mash**
+**Mash:**
 ...Um, Ibaraki?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 I'm kidding. This isn't the Heian capital where I ran amok. Besides, I don't have Shuten nor my minions.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 (...Does that mean she would run amok if they WERE here?)
 
  
-**Mash**
+**Mash:**
 A-anyway...
 
  
-**Mash**
+**Mash:**
 I see that you really do have strong feelings for Shuten. You mention her frequently.
 
  
-**Mash**
+**Mash:**
 I can tell you are always mindful of her.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Shuten and I spent a lot of time together, like siblings.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Among all the oni on Mt. Ooe, she was the only one I saw as an equal, not an underling.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 And not just in terms of rank.
 I have a lot of respect for the way she lived her life.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hm. Would you listen to my story in all seriousness?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 In many of the stories about oni, Shuten-Douji is said to have been the leader of the oni in Mt. Ooe...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 And there's a reason for that. Shuten was flashier, stronger, and more dangerous than all the rest of us.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Even when we attacked the capital, she was the one who stood out.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 She seeks pleasure, after all.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 She lived to drink, pillage, kill, eat...
 Just watching her was fascinating.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 (For humans, I'm sure watching her was utterly horrifying...)
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Anyway. We're almost there. This way.
 
  
-**Mash**
+**Mash:**
 Yes. But how come we're going through so many alleyways...
 
  
-**Mash**
+**Mash:**
 ...Oh! We're in front of the ziggurat!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I can't believe this. The Sacred Temple watches over Uruk. There's no way ghost would be lurking around here.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Shut up. I smell something. This way.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's hard for me to believe that a threat would be hiding under HIS watchful eye, in his kingdom...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 You guys have got it all wrong.
 What I'm looking for is the treasury.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Whaaa...!?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Don't make me say “shut up” again.
 I'll rip out your throat.
 
  
-**Mash**
+**Mash:**
 I thought this was just more of what we talked about earlier!
 
  
-**Mash**
+**Mash:**
 Like some sense of duty as the leader of the oni to clean up oni remnants... Something like that...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...? Isn't this exactly the sort of thing the leader of the oni should do? Oni loot and pillage.
 
  
-**Mash**
+**Mash:**
 B-but you just said you wouldn't attack this city...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Not the city itself, obviously. I wouldn't be able to do that on my own. But I never said I wouldn't steal some treasure.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Besides, I want to bring a souvenir back for Shuten.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 We're talking about the king's treasury, so I'm sure there's some incredible treasure here that outshines whatever's in the Heian capital.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Wine Shuten would enjoy... A hairpin that would look good on her... A kimono that would accentuate her beauty...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 And this is a grand treasure vault. Some super delicious sweets that I've never even imagined must be stored here as well.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...Th-those are totally a gift for Shuten! I just...need to taste-test them in case they're poisoned... Yeah...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Kuhahaha...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 I wonder if I can carry them all out...?
 
  
-**???**
+**???:**
 I thought I smelled something unusual, so I came to see for myself. What a bold bunch of thieves.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 He's here!!!
 Hm? But...
 
  
-**Mash**
+**Mash:**
 That's right, Doctor. King Gilgamesh is...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Wh-who's that?? Are you human? Or a ghost?
 A Servant!? Um...?
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Fool!
 This is MY city, MY castle, and MY treasury!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Whether I am on my throne or in the underworld, OF COURSE I would come to see the mongrels who dare attempt to rob it.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 It would be far stranger if I did not!
 
  
@@ -1080,43 +1080,43 @@ This king is no different than the other ones...
 
 ---
  
-**Mash**
+**Mash:**
 A-anyway, allow us to explain ourselves, King of Heroes. There's a good rea&ndash;
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Silence! You have nothing to say that I need to hear!
 You all need to learn your place!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 ...Although, I did see what you did with Tomoe.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Because of that, I will excuse some of your behavior.
 You may wander my city. You may sneak into my palace...
 
  
-**Gilgamesh**
+**Gilgamesh:**
 ...but I WILL NOT show an ounce of mercy to those who dare to raid my treasury!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 This is beyond disrespect! This is treason! Anarchy!
 You will learn what it is to earn my wrath!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 A golden man... Gah, so garish. And he's so intense... That's no ordinary man!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...Well, hm... He does seem kinda familiar...
 Or, well, he makes me a little fidgety.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 It's this weird sort of discomfort...like when I need to sit down in front of Mother because I'm in for a scolding...
 
  
@@ -1134,85 +1134,85 @@ Oh yeah. Didn't Ushiwakamaru scare her off?
 
 ---
  
-**Gilgamesh**
+**Gilgamesh:**
 I have not forgotten your desertion in the face of the enemy. That, also, is not excused by your good deed in ending Tomoe Gozen.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 You may not technically be the one I summoned, but you shall take her punishment regardless.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
  
 Unnngh...unnngh... I don't know what you're talking about! I feel like I do, but I don't!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Just like Chaldea's Master, what you know or don't know does not matter!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 I shall be the judge, jury, and executioner for your crimes in trying to steal from my treasury!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Brace yourselves, fools! If you want to live, fight with all your power, or suffer my wrath!
 
  
-**Mash**
+**Mash:**
 This...is no good!
 Let's hang in there as best we can, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Gilgamesh**
+**Gilgamesh:**
 Fwahahahahaha! I'm just warming up!
 I shall even put on my armor for you!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Burn my regal, glorious presence into your minds!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Why you... This is why I hate golden guys!
 They're flashy, blinding, and they just piss me off!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 You do know that your main color is gold, right?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 It is in good taste! Mother picked it out!
 It doesn't just sparkle all the time like that thing!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 You're quite tenacious for a mongrel.
 As a reward for your spirit, I will call it a day.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Rejoice. I shall show you the contents of the treasury that you so coveted.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Gate of Babylon!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 This is the end!
 I have no other choice!
 
  
-**Mash**
+**Mash:**
 ...Ibaraki-Douji!?
 Why are you covering me and Master&ndash;
 
  
-**Mash**
+**Mash:**
 ...!?
 
  
@@ -1231,179 +1231,179 @@ Waaaaaahhh!?
 
 ---
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Close your mouth tight or you'll bite your tongue!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's no use. Even though Ibaraki-Douji could jump over the gate of Rashomon, a point-blank hit there will be fatal!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...There's...no attack!?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Could this be...Ibaraki-Douji's “Disengage” skill that lets her avoid or flee from enemy attacks?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The legend where she was the only one who managed to flee from Raikou's four oni-slayers... The legend of her escaping even after Watanabe-no-Tsuna took off her arm is&ndash;
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Shut up, onmyouji! How dare you mention that hateful Minamoto! It's making me wanna KILL!
 
  
-**Mash**
+**Mash:**
 I agree this is no time to be chatting!
 Doctor, please prepare for Rayshift!
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
  
-**Gilgamesh**
+**Gilgamesh:**
 Hmph. Mongrel.
 
  
-**???**
+**???:**
 Shall we go after them, King Gilgamesh?
 
  
-**Gilgamesh**
+**Gilgamesh:**
 No. Leave them be.
 She is only doing what is in her nature.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Never pursuing dignity or honor... She wouldn't hesitate to turn her back on all that mattered if it meant she would survive.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 How ugly...how pitiful...how beautiful that is.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 ...I remember now. That's why I gave up on her. There was no point forcing her to be my dog. A beast will live and die as a beast. That is all it can do.
 
  
-**???**
+**???:**
 Yes, but...what about the crime of attempting to loot the king's treasury? Shall that be overlooked?
 
  
-**Gilgamesh**
+**Gilgamesh:**
 I told you: no more than a beast.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 She was simply drawn to the scent of my treasures as a wild dog to meat. No more than a stray lurking near the front door.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 There's no need to chase such a creature to its lair for the kill. Of course, should she return, I won't hesitate to crush her.
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
  
-**Shuten-Douji**
+**Shuten-Douji:**
 (Yawn) ...I am so booored...
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 Hm? Ibaraki. Welcome back. Where have you been?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 ???
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 I'm sorry, Shuten. I meant to bring back a souvenir for you... But I couldn't...
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 Well, I don't even know where you've been.
 Don't worry about it.
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 But more importantly, I was bored because you left me alone.
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 My sweetie wasn't here, and when I tried to pick on the brat, he ran away as usual.
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 And Raikou didn't even come and try to take my head off...
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 If you're talking about a souvenir, you coming back is the best present, Ibaraki.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 !!!
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 I sense some large battle about to begin.
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 The best way to lighten the mood is drinking.
 Well, I drink all the time, but keep me company, Ibaraki.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Oh. Okay. Yeah... Okay.
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 ...O-of course...!
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 So where were you all this time?
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Ku... Kuhahaha. I may not have a souvenir, but I have stories to tell! Listen to all of my glorious feats!
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 I did what only a true oni could ever do! Master cried like a baby! The people trembled in fear...in the hundreds...no, thousands!
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 ...? (Sniff, sniff) Hm, I smell an unfamiliar oni on you.
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 Don't tell me... You abandoned poor, lonely Shuten to go have fun with another oni?
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 How could you... I'm... I'm going to cry...
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 N-n-n-n-n-no! Absolutely not! It's not what you think! L-listen, Shuten! I can explain!
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 ... (Sob, sob)
 
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 Sh-Shuteeeeeen!!!
 
  
-**Shuten-Douji**
+**Shuten-Douji:**
 (Ah, Ibaraki is truly the best entertainment to go along with my alcohol. I never get tired of her...)
 
 

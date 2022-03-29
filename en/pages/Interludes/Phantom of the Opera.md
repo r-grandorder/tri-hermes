@@ -2,38 +2,38 @@
 
 <h2>Christine's Call</h2>
 
-**Phantom**
+**Phantom:**
 Christine Oh, Christine, my love, my songstress&ndash;
 
  
-**Gilles**
+**Gilles:**
 Jeanne! Oh, Jeanne!
 Oh, our blessed holy maiden!
 
  
-**Phantom**
+**Phantom:**
 To you who dozes, I sing with affection&ndash;
 
  
-**Gilles**
+**Gilles:**
 Let's pile our offerings high!
 Of ridicule and blasphemy!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...Who put these two together?
 The speakers are howling because of them!
 
  
-**Mash**
+**Mash:**
 This entire underground passage is also like that...
 The echo is just awful. How can you stand it?
 
  
-**Phantom**
+**Phantom:**
 Sing once again with me, once again Christine, Christine, my songstress 
  
-**Gilles**
+**Gilles:**
 Everyone is an equal servant before God! Okay,
 let's desecrate together! Hohoho! Hohohohohoho!
 
@@ -54,25 +54,25 @@ Christine!
 
 ---
  
-**Fou**
+**Fou:**
 Foou, Foou!
 Kyuu...uh...
 
  
-**Mash**
+**Mash:**
 Ah, ahh, Senpai! Fou is getting weaker and weaker...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 What is it? I don't feel great, either...
 Mental Corruption skills aren't contagious, right?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Today we have double the Mental Corruption skills, so it feels like it's spreading.
 
  
-**Mash**
+**Mash:**
 That's a problem.
 
  
@@ -92,21 +92,21 @@ I just want to go home.
 
 ---
  
-**Mash**
+**Mash:**
 Yes, Senpai... If we go to the deepest point in this underground passage...
 
  
-**Mash**
+**Mash:**
 I'm sure Phantom will be satisfied.
 He said it'd be good just to come here.
 
  
-**Fou**
+**Fou:**
 Kyuu...u...uu...
 Fou...
 
  
-**Mash**
+**Mash:**
 Fou, a-are you all right&ndash;You aren't!
 What should we do, Senpai? A-At this rate...
 
@@ -127,84 +127,84 @@ He's quite strong, you know.
 
 ---
  
-**Fou**
+**Fou:**
 Fou, Foou!
 Fou...
 
  
-**Mash**
+**Mash:**
 Have confidence...
 Does that mean, well, that you can...keep going?
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Mash**
+**Mash:**
 ...Got it.
 If you insist, Fou, I will do my best, too!
 
  
-**Fou**
+**Fou:**
 Fou, Foou!
 
  
-**Mash**
+**Mash:**
 Okay... Well, both of you! Your feelings for loved ones are conveyed so move along!
 
  
-**Mash**
+**Mash:**
 Let's hurry!
 You have some business ahead, right, Phantom?
 
  
-**Phantom**
+**Phantom:**
 Christine&ndash;
 
  
-**Gilles**
+**Gilles:**
 Oh, Jeanne&ndash;
 
  
-**Mash**
+**Mash:**
 Well&ndash;
 
  
-**Phantom**
+**Phantom:**
 Christine, Christine 
  
-**Gilles**
+**Gilles:**
 Oh, Jeanne!
 Beloved holy maiden!
 
  
-**Mash**
+**Mash:**
 Ehh, can you hear me?
 You know, you don't have to keep stopping...
 
  
-**Phantom**
+**Phantom:**
 Christine, Christine Christine, Christine 
  
-**Gilles**
+**Gilles:**
 Jeanne! Jeanne! Jeanne!
 Jeanne! Jeanne! Jeanne!
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Phantom**
+**Phantom:**
 Christine, Christine, Christine Christine, Christine, Christine 
  
-**Gilles**
+**Gilles:**
 Jeanne! Jeanne! Jeanne! Jeanne!
 Jeanne! Jeanne! Jeanne! Jeanne!
 
  
-**Mash**
+**Mash:**
 ...
 
  
@@ -224,7 +224,7 @@ You're looking at them like they're the enemy?
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 Yup, definitely an enemy!
 
  
@@ -234,7 +234,7 @@ Yup, definitely an enemy!
 **Fujimaru 1:**
 You too, Doctor!
  
-**Dr. Roman**
+**Dr. Roman:**
 Huh?
 
  
@@ -244,7 +244,7 @@ Huh?
 **Fujimaru 2:**
 ...Indeed, they both look like Anti-Heroes.
  
-**Dr. Roman**
+**Dr. Roman:**
 What are you talking about, Fujimaru?
 No, that's not it.
 
@@ -253,29 +253,29 @@ No, that's not it.
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 Magical energy response detected!
 It's continually rising from the depths. Be careful!
 
  
-**Mash**
+**Mash:**
 ...Yes.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Are you, ahh, angry...Mash?
 
  
-**Mash**
+**Mash:**
 No.
 Senpai, please give me an order.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 You're angry, aren't you?
 
  
-**Mash**
+**Mash:**
 Order me.
 
  
@@ -295,80 +295,80 @@ Will you...fight for me?
 
 ---
  
-**Mash**
+**Mash:**
 Yes.
 
  
-**???**
+**???:**
 Ohhhhhhhhhhhhhhhhhhhhhhhhhh Ohhhhhhhhhhhhhhhhhhhhhh&ndash;
 
  
-**Phantom**
+**Phantom:**
 Christine, Christine, Christine Christine, Christine, Christine 
  
-**Gilles**
+**Gilles:**
 Jeanne! Jeanne! Jeanne! Jeanne!
 Jeanne! Jeanne! Jeanne! Jeanne!
 
  
-**???**
+**???:**
 Ohhhhhhhh Ohhh&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The enemy is losing against that pair's momentum!
 Now!
 
  
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 ...The battle is over.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 He was just making noise...
 General Gilles didn't participate in the battle...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Wait, was General Gilles among Fujimaru's contracted Heroic Spirits? I don't remember.
 
  
-**Phantom**
+**Phantom:**
 Let's go home.
 Christine, you're not here anymore.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Had enough already?
 You feel better?
 
  
-**Phantom**
+**Phantom:**
 Christine, my love, my songstress...
 Where are you&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Perhaps he was looking for some traces of Christine, the songstress he loved in life, under Paris?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 But, it's a different era. Oh, maybe he can't even see that due to his Mental Corruption.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's kind of sad...if you think about it.
 I can understand that loneliness&ndash;
 
  
-**Mash**
+**Mash:**
 Let's go home!
 Please Rayshift us, Doctor.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I tried to force this story into a good ending.
 Y-You're so heartless, Mash.
 
@@ -379,7 +379,7 @@ Y-You're so heartless, Mash.
 **Fujimaru 1:**
 Are you still angry?
  
-**Mash**
+**Mash:**
 No, Senpai.
 I'm not angry.
 
@@ -390,7 +390,7 @@ I'm not angry.
 **Fujimaru 2:**
 L-Let's go home!
  
-**Mash**
+**Mash:**
 Yes.
 
  
@@ -398,51 +398,51 @@ Yes.
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 All right, let's go home then! Yup, yup!
 But wait, where did General Gilles go?
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
  
-**Gilles**
+**Gilles:**
 Oh, How disgraceful man's greed is!
 So much vice in this darkness&ndash;hmm?
 
  
-**Fou**
+**Fou:**
 Fo...Fou (weakened)
 
  
-**Gilles**
+**Gilles:**
 What an adorable little animal!
 Suitably adorable for sacrifice to the altar of blasphemy!
 
  
-**Fou**
+**Fou:**
 Fo...u... (weakened)
 
  
-**Gilles**
+**Gilles:**
 What a coincidence that you're shaking in this darkness.
 I'm also like a beast betrayed by all, shaking in darkness.
 
  
-**Gilles**
+**Gilles:**
 Now, let us go together.
 It's warm under this cloak, you see.
 
  
-**Fou**
+**Fou:**
 ...(weakened)
 
  
-**Gilles**
+**Gilles:**
 Hohohoho, it's so adorable!
 Oh, oh, it's shaking, shaking!
 
  
-**Fou**
+**Fou:**
 ...(weakened)
 
 

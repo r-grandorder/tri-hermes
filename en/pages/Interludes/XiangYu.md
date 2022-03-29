@@ -138,7 +138,7 @@ We've got to stop the kids.
 
 ---
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Mash:**
 Well, it looks like everyone's calmed down now...

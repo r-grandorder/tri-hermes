@@ -2,12 +2,12 @@
 
 ## King of Kings
 
-**Mordred**
+**Mordred:**
 Hum, hum, hum... Hey, Master!
 Got a moment?
 
  
-**Mordred**
+**Mordred:**
 If you do, come with me for a bit.
 If you're busy, cancel your plans!
 
@@ -28,49 +28,49 @@ You're going to make me go no matter what.
 
 
  
-**Mordred**
+**Mordred:**
 Precisely.
 Come on, we're off to London!
 
  
-**Mash**
+**Mash:**
 Hey, Mordred, please don't push!
 
  
-**Fou**
+**Fou:**
 Fou, mokyu, fou!?
 
  
-**Mordred**
+**Mordred:**
 Whew, we're here, we're here.
 
  
-**Mash**
+**Mash:**
 You're so pushy, sheesh...
 So, do you have something to do in London?
 
  
-**Mordred**
+**Mordred:**
 Yeah. Maybe it's because I was summoned here in London, but I can sense it when something unusual happens here.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Seems like you're right, Mordred.
 There's an unusual life-form response from over there.
 
  
-**Mordred**
+**Mordred:**
 Well then... Will it be a demon, or will it be a dragon?
 Let's find out!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mordred**
+**Mordred:**
 A ghost, huh. I guess it was lured out by the fog that formed a little earlier.
 
  
-**Mordred**
+**Mordred:**
 ...But...
 
  
@@ -84,24 +84,24 @@ What's wrong?
 
 
  
-**Mordred**
+**Mordred:**
 Never mind, it's nothing.
 
  
-**Mordred**
+**Mordred:**
 The blade of Clarent seems a bit duller than usual, and it's bothering me.
 
  
-**Mash**
+**Mash:**
 You're fighting ghosts, after all...
 
  
-**Mordred**
+**Mordred:**
 Not really. If this blade can return to its former splendor,
 I could cut my way through anything, ghost or otherwise.
 
  
-**Mordred**
+**Mordred:**
 ...Well, I guess it's my fault. I kind of "appropriated" it.
 
  
@@ -121,145 +121,145 @@ You stole it?
 
 
  
-**Mordred**
+**Mordred:**
 Ah, no.
 ...I'm just sort of, uh, borrowing it for eternity.
 
  
-**Mordred**
+**Mordred:**
 I mean, I was still borrowing it when I died.
 Thanks to that, I'm still able to use it as a Servant.
 
  
-**Fou**
+**Fou:**
 Fou. Fou fou. Afou.
 
  
-**Mash**
+**Mash:**
 Fou is saying that's basically the same as you stealing it.
 
  
-**Mordred**
+**Mordred:**
 Shut up, you rodent!
 ...Hmm?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm getting a life response that seems like a Servant's!
 Wait! But not quite?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Anyway, I'll send you the route.
 Go check it out right away!
 
  
-**Mordred**
+**Mordred:**
 Found it!
 This time it's...not a ghost.
 
  
-**Mordred**
+**Mordred:**
 But as a Servant...you're kind of lacking a face.
 What the heck are you?
 
  
-**???**
+**???:**
 I pose a question.
 &ndash;Who art thou?
 
  
-**Mordred**
+**Mordred:**
 Huh?
 
  
-**???**
+**???:**
 I shall pose it once more.
 Who art thou? Reveal thyself to me.
 
  
-**Mordred**
+**Mordred:**
 ...Hmph.
 I'm Mordred, a Knight of the Round Table.
 
  
-**Mordred**
+**Mordred:**
 Satisfied?
 
  
-**???**
+**???:**
 &ndash;I know thee.
 Thou took up arms against thy king.
 
  
-**???**
+**???:**
 Thus, thou art undoubtedly my enemy, for I too am king.
 
  
-**???**
+**???:**
 I shall destroy thee and thereby create a new nation.
 
  
-**Mordred**
+**Mordred:**
 Yeah, yeah, whatever.
 So basically you want to kick the bucket.
 
  
-**Mordred**
+**Mordred:**
 If you're naming yourself king, I'll refute that.
 
  
-**Mordred**
+**Mordred:**
 Now and forever, the only one who can name himself king&ndash; is our King of Knights.
 
  
-**Mordred**
+**Mordred:**
 And the only one who can oppose the king is me!
 
  
-**Mordred**
+**Mordred:**
 Come on then... You big dimwit!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mordred**
+**Mordred:**
 All right, we won!
 
  
-**Mash**
+**Mash:**
 The Shadow Servant you faced...
 I guess it was a nameless king.
 
  
-**Mash**
+**Mash:**
 He neither carved his name in history nor achieved any noble feats.
 
  
-**Mash**
+**Mash:**
 His memory of being a king alone caused him to wander as a phantom, so to say.
 
  
-**Mordred**
+**Mordred:**
 Geez, what part of that is so kingly?
 Naming yourself king isn't going to make you one.
 
  
-**Mordred**
+**Mordred:**
 ...Well, whatever.
 I got the hang of this after beating up so many ghosts.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yes. I am not picking up anymore signatures.
 It shouldn't manifest itself as a Singularity now.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's okay to head back now.
 
  
-**Mordred**
+**Mordred:**
 All right, let's go. Master.
 
  
@@ -269,7 +269,7 @@ All right, let's go. Master.
 Yes?
 
  
-**Mordred**
+**Mordred:**
 It's me, got a second?
 
  
@@ -279,7 +279,7 @@ It's me, got a second?
 Mash?
 
  
-**Mordred**
+**Mordred:**
 No, you idiot.
 It's me. ME.
 
@@ -287,12 +287,12 @@ It's me. ME.
 ---
 
  
-**Mordred**
+**Mordred:**
 Sorry, but I'm gonna go ahead and talk.
 I don't care how you respond.
 
  
-**Mordred**
+**Mordred:**
 ...So, Master.
 Do you think I could be a king?
 
@@ -313,86 +313,86 @@ I'm not sure.
 
 
  
-**Mordred**
+**Mordred:**
 ...Well, yeah.
 
  
-**Mordred**
+**Mordred:**
 I thought I was fit to be king.
 But&ndash;my father, King Arthur, rejected me.
 
  
-**Mordred**
+**Mordred:**
 "You don't have what it takes to be a king," he said.
 
  
-**Mordred**
+**Mordred:**
 Even in death, I couldn't accept that.
 I thought that King Arthur loathed me.
 
  
-**Mordred**
+**Mordred:**
 That he despised his progeny with his older sister, Morgan, more than anything&ndash;
 
  
-**Mordred**
+**Mordred:**
 Well, that's what I thought.
 
  
-**Mordred**
+**Mordred:**
 But, since then... So many things happened so quickly that I gave up trying to be king.
 
  
-**Mordred**
+**Mordred:**
 Listen up, Master. Since ancient times,
 kings have always been egotistical and selfish.
 
  
-**Mordred**
+**Mordred:**
 They became kings because they wanted something.
 Wealth, land, power, sometimes esteem.
 
  
-**Mordred**
+**Mordred:**
 And then they roped others in, made sweet-talk of dreams, and strove towards their illusions&ndash;
 
  
-**Mordred**
+**Mordred:**
 But my king was not like that.
 He set down his life so that many could smile.
 
  
-**Mordred**
+**Mordred:**
 ...I believe that more than any other king, the will of the King of Knights was both noble and just.
 
  
-**Mordred**
+**Mordred:**
 So, there's no way I'm gonna lose to some guy calling himself the “Mage King.”
 
  
-**Mordred**
+**Mordred:**
 No way.
 Absolutely not&ndash;
 
  
-**Mordred**
+**Mordred:**
 ...Hey, don't you go telling anyone this, okay?
 
  
-**Mordred**
+**Mordred:**
 It's embarrassing. So don't you dare bring any of this up around the other Knights of the Round Table!
 
  
-**Mordred**
+**Mordred:**
 Okay, no tattling!
 No tattling whatsoever!
 
  
-**Mordred**
+**Mordred:**
 See ya!
 
  
-**Fou**
+**Fou:**
 Mokyukyu...
 
  
@@ -412,13 +412,13 @@ Fou looks happy.
 
 
  
-**Fou**
+**Fou:**
 Fou!
 
 
 ## A Former Dream, A Dream Hereafter
 
-**???**
+**???:**
 ...Think long and hard before you take that in hand.
 
  
@@ -445,7 +445,7 @@ And yet, here it is, stuck in its stone,
 untouched by anyone.
 
  
-**???**
+**???:**
 ...What will you swear upon this sword?
 What will you entrust to it?
 
@@ -458,11 +458,11 @@ I hear someone's whispers meant for me.
 But...I can't focus on them.
 
  
-**Mordred**
+**Mordred:**
 ...What the hell?
 
  
-**Mordred**
+**Mordred:**
 Why is this happening to me again...
 
  
@@ -472,15 +472,15 @@ Why is this happening to me again...
 ...Is that you, Mash?
 
  
-**Mash**
+**Mash:**
 Yes, it's me. Good morning, Senpai.
 
  
-**Fou**
+**Fou:**
 Fou! Fou fooou!
 
  
-**Mash**
+**Mash:**
 Yes, Fou is here, too.
 
  
@@ -490,18 +490,18 @@ Yes, Fou is here, too.
 ...Is that you, Fou?
 
  
-**Fou**
+**Fou:**
 Fou fooou!
 
  
-**Mash**
+**Mash:**
 Good morning, Senpai.
 
  
 ---
 
  
-**Mash**
+**Mash:**
 ...Senpai? Is something wrong?
 
  
@@ -519,60 +519,60 @@ I think I was having another weird dream.
 
 
  
-**Mash**
+**Mash:**
 Another weird dream, huh...
 
  
-**Mash**
+**Mash:**
 Maybe we should talk to Da Vinci about it,
 in case it's something we should be worried about.
 
  
-**Fou**
+**Fou:**
 Fou! Fou!
 
  
-**Mash**
+**Mash:**
 Oh, yes. You're right, Fou.
 
  
-**Mash**
+**Mash:**
 Why don't we have breakfast first,
 before it gets cold?
 
  
-**Mash**
+**Mash:**
 Oh? Isn't that...
 
  
-**Mash**
+**Mash:**
 It's Mordred and Jekyll...
 I wonder if everything's all right?
 
  
-**Mordred**
+**Mordred:**
 Oh for... I told you, it's no big deal!
 I just get like this sometimes!
 
  
-**Jekyll**
+**Jekyll:**
 If it were no big deal, we wouldn't be having this discussion at all. You should see a doctor right away if you're not feeling well.
 
  
-**Mash**
+**Mash:**
 Is something wrong?
 
  
-**Jekyll**
+**Jekyll:**
 Ah, Mash, Master. Perfect timing.
 Listen to this.
 
  
-**Jekyll**
+**Jekyll:**
 Mordred just asked to stop a combat simulation early.
 
  
-**Mash**
+**Mash:**
 ...Huh!?
 
  
@@ -590,26 +590,26 @@ MORDRED asked to stop early!?
 
 
  
-**Mordred**
+**Mordred:**
 ...The hell's that supposed to mean?
 You think I'm some kinda Berserker or something?
 
  
-**Mash**
+**Mash:**
 N-no, it's not that...
 It's just, well...extremely unusual for you...
 
  
-**Jekyll**
+**Jekyll:**
 You see? I'm not the only one who thinks so. If you're not feeling well, you should see a doctor and&ndash;
 
  
-**Mordred**
+**Mordred:**
 Shut the hell up!
 Just leave me alone, dammit!
 
  
-**Jekyll**
+**Jekyll:**
 All right, if you insist.
 
  
@@ -622,23 +622,23 @@ You'd make a great mother, Jekyll.
 
 
  
-**Jekyll**
+**Jekyll:**
 Haha... Thanks...I think?
 
  
-**Mordred**
+**Mordred:**
 ...The hell you talking about, Master? Moms don't worry about people. Damn sure not like this.
 
  
-**Jekyll**
+**Jekyll:**
 ...
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Mordred**
+**Mordred:**
 What?
 What'd I say?
 
@@ -657,12 +657,12 @@ What'd I say?
 
 
  
-**Mordred**
+**Mordred:**
 ...What is it, Master?
 What's up with that look?
 
  
-**Mash**
+**Mash:**
 ...S-still, that is strange.
 I can't help but wonder what might be going on...
 
@@ -682,62 +682,62 @@ You didn't have a weird dream or anything, did you?
 
 
  
-**Mordred**
+**Mordred:**
 ...!
 
  
-**Mordred**
+**Mordred:**
 Master, how did you&ndash;
 
  
-**Jekyll**
+**Jekyll:**
 A dream? Is that what this is all about?
 What kind of dream was it?
 
  
-**Mordred**
+**Mordred:**
 ...Ugh, all right already!
 You just wanna keep the simulation going, right?
 
  
-**Jekyll**
+**Jekyll:**
 Huh? No, that's not what I&ndash;
 
  
-**Mordred**
+**Mordred:**
 Fine then, if that's what you want, that's what you'll get! Get your ass in the simulator now, Master!
 
  
-**--BATTLE--**
+**--BATTLE--:**
 
-**Jekyll**
+**Jekyll:**
 Khh... I knew it was reckless taking on a Saber with this Spirit Origin...
 
  
-**Mordred**
+**Mordred:**
 All right, all done!
 Happy now?
 
  
-**Mash**
+**Mash:**
 There she goes...
 
  
-**Fou**
+**Fou:**
 Fou, fou?
 
  
-**Jekyll**
+**Jekyll:**
 Th-thank you... I'm okay.
 Ooh, that smarts...
 
  
-**Mash**
+**Mash:**
 She certainly was on edge.
 Maybe she got some bad news or something...
 
  
-**Jekyll**
+**Jekyll:**
 ...It does seem that way, doesn't it? Do you have any idea what could be bothering her, Master?
 
  
@@ -747,7 +747,7 @@ Maybe she got some bad news or something...
 Not for sure, no.
 
  
-**Jekyll**
+**Jekyll:**
 I see...
 Well, then, there's nothing to be done.
 
@@ -759,23 +759,23 @@ More or less, but...
 
 
  
-**Jekyll**
+**Jekyll:**
 Oh, right, sorry. It would be rude to ask you to talk about her when she is not here.
 
  
 ---
 
  
-**Jekyll**
+**Jekyll:**
 Anyway...would you mind talking to her?
 
  
-**Jekyll**
+**Jekyll:**
 Much as she pretends otherwise,
 Mordred really does trust you.
 
  
-**Mordred**
+**Mordred:**
 ...I'm coming in, Master.
 
  
@@ -794,7 +794,7 @@ Something wrong?
 
 
  
-**Mordred**
+**Mordred:**
 ...I wanted to talk about what happened this morning. Did you really have the same dream...?
 
  
@@ -804,7 +804,7 @@ Something wrong?
 Yup, I did.
 
  
-**Mordred**
+**Mordred:**
 Tch, I knew it... I know it's typical for Masters and Servants, but still...
 
  
@@ -814,7 +814,7 @@ Tch, I knew it... I know it's typical for Masters and Servants, but still...
 Nope. By the way, what was the deal with that sword?
 
  
-**Mordred**
+**Mordred:**
  
 The hell you tryin' to pull here!?
 How else would you know about that!?
@@ -823,50 +823,50 @@ How else would you know about that!?
 ---
 
  
-**Mordred**
+**Mordred:**
 ...That was the Sword of Selection.
 
  
-**Mordred**
+**Mordred:**
 It confers the right to rule to the one that draws it... Uh, no, more like the one who has the right to rule is the only one actually able to draw it.
 
  
-**Mordred**
+**Mordred:**
 You know stories about King Arthur drawing a sword from a stone, right? That's the Sword of Selection.
 
  
-**Mordred**
+**Mordred:**
 ...I always dreamed about trying that for myself. Think about it: me, drawing the same sword as my old man.
 
  
-**Mordred**
+**Mordred:**
 What better way could there be to prove I'm worthy of the throne?
 
  
-**Mordred**
+**Mordred:**
 So I dreamed about it. Over and over.
 More times than I could count.
 
  
-**Mordred**
+**Mordred:**
 But you know... After all the shit I've been through,
 I haven't had that dream in a good while.
 
  
-**Mordred**
+**Mordred:**
 Don't get me wrong, I haven't given up on being king.
 I don't think that wish'll ever really go away.
 
  
-**Mordred**
+**Mordred:**
 But lately...I haven't really felt overcome with a desire for it or anything. It's almost like a curse had been lifted.
 
  
-**Mordred**
+**Mordred:**
 And that's why I'm wondering why I'm having that dream again now...
 
  
-**Mordred**
+**Mordred:**
 Made me sick, honestly. It was like some old regrets were being shoved in my face.
 
  
@@ -877,17 +877,17 @@ So, are you scared to go to sleep now?
 
 
  
-**Mordred**
+**Mordred:**
  
 Huh!? Hell no!
 Who do you think you're talking to here!?
 
  
-**Mordred**
+**Mordred:**
 Sheesh... Just because you're my Master doesn't mean you can say shit like that!
 
  
-**Mordred**
+**Mordred:**
 Anyway, that aside...
 
  
@@ -898,7 +898,7 @@ I'm here for you.
 
 
  
-**Mordred**
+**Mordred:**
 ...Haha!
 Right. Course you are.
 
@@ -906,29 +906,29 @@ Right. Course you are.
 ---
 
  
-**Mordred**
+**Mordred:**
 They do say Masters and Servants share the same dreams.
 
  
-**Mordred**
+**Mordred:**
 ...If the shit ever hits the fan, it'll be nice to have your help. Just don't expect me to wait around for you to show up or anything.
 
  
-**Mordred**
+**Mordred:**
 ...Sorry about this morning.
 That's all I wanted to say. I'll get out of your hair now.
 
  
-**Mordred**
+**Mordred:**
 ...Oh, and I trust this goes without saying,
 but don't you tell anyone about this, got it?
 
  
-**Mordred**
+**Mordred:**
 ...I mean it!
 
 
-**--ARROW--**
+**--ARROW--:**
 
 **Narration:**
 ...I've lost count of how many people I've cut down.
@@ -1021,11 +1021,11 @@ Just...
 
 
  
-**Mordred**
+**Mordred:**
 Master!
 
  
-**Mordred**
+**Mordred:**
 Ha! You actually came, you freakin' nut!
 
  
@@ -1044,41 +1044,41 @@ What is this place?
 
 
  
-**Mordred**
+**Mordred:**
 Talk's gonna have to wait, Master!
 ...Something's coming this way.
 
  
-**Mordred**
+**Mordred:**
 Aren't those guys...
 
  
-**Mordred**
+**Mordred:**
 Heh. So that's how it is, huh.
 
  
-**Mordred**
+**Mordred:**
 No wonder they looked so familiar.
 As if yesterday's dream wasn't bad enough.
 
  
-**Mordred**
+**Mordred:**
 ...All right then, bring it on, assholes!
 
  
-**Mordred**
+**Mordred:**
 You want a piece of Mordred,
 Knight of the Round Table? COME GET SOME!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mordred**
+**Mordred:**
 There... That oughta take care of the riffraff.
 Awful lotta them.
 
  
-**Mordred**
+**Mordred:**
 Hm? What's up, Master?
 
  
@@ -1091,86 +1091,86 @@ Sooo, where are we again?
 
 
  
-**Mordred**
+**Mordred:**
 Oh...right. Guess I forgot to mention that, huh?
 
  
-**Mordred**
+**Mordred:**
 ...This is the Hill of Camlann.
 
  
-**Mordred**
+**Mordred:**
 The place where the unbeatable rebel Mordred met an ignoble end at King Arthur's hands, as you know.
 
  
-**Mordred**
+**Mordred:**
 Heh. Can't think of a better place to represent my psyche.
 
  
-**Mordred**
+**Mordred:**
 ...So you might wanna get psyched, Master.
 If this dream is a match for my memories...
 
  
-**Mordred**
+**Mordred:**
 ...we're gonna have to fight the guy who ended up being the last one left standing in Camlann.
 
  
-**Mordred**
+**Mordred:**
 In which case&ndash;
 
  
-**Mordred**
+**Mordred:**
 ...Ha. My dreams really do suck.
 
  
-**Mordred**
+**Mordred:**
 You wanna kill me so bad you even came to my dream, huh?
 
  
-**Mordred**
+**Mordred:**
 You really hate me that much?
 
  
-**Mordred**
+**Mordred:**
 Well, that sure proves this is a dream.
 You're nothing like the real person.
 
  
-**Mordred**
+**Mordred:**
 If Father had actually hated me that much,
 my life would've turned out way different.
 
  
-**Mordred**
+**Mordred:**
 Then again...in another sense,
 maybe this is my dream being kind to me.
 
  
-**Mordred**
+**Mordred:**
 ...Fine then. I'll play along with this little farce.
 
  
-**Mordred**
+**Mordred:**
 Come on, King Arthur!
 This is the end for your kingdom!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**G：Mordred**
+**G：Mordred:**
 ...Haaaaaa!
 
  
-**Mordred**
+**Mordred:**
 ...Hmph.
 
  
-**Mordred**
+**Mordred:**
 That's the first time...I won on this hill.
 
  
-**Mordred**
+**Mordred:**
 ...Tch. That was it, huh?
 Thought it'd feel a lot better.
 
@@ -1190,43 +1190,43 @@ Are you okay?
 
 
  
-**Mordred**
+**Mordred:**
 Yeah, I'm fine.
 
  
-**Mordred**
+**Mordred:**
 Never losing to my old man again,
 and damn sure not just some pale imitation.
 
  
-**King Arthur**
+**King Arthur:**
 ...Sir Mordred...
 
  
-**Mordred**
+**Mordred:**
 ...Huh?
 What, you're still alive?
 
  
-**King Arthur**
+**King Arthur:**
 ...Well done, Sir Mordred.
 
  
-**Mordred**
+**Mordred:**
 ...What'd you say?
 
  
-**King Arthur**
+**King Arthur:**
 You have made me proud, my son.
 Truly, no one is better suited to rule in my stead.
 
  
-**King Arthur**
+**King Arthur:**
 Will you inherit my crown,
 and take the throne as my successor?
 
  
-**Mordred**
+**Mordred:**
 ...
 
  
@@ -1239,28 +1239,28 @@ Brutal...
 
 
  
-**Mordred**
+**Mordred:**
 'Course it was.
 
  
-**Mordred**
+**Mordred:**
 “You have made me proud, my son”?
 
  
-**Mordred**
+**Mordred:**
 “Truly, no one is better suited to rule in my stead”?
 
  
-**Mordred**
+**Mordred:**
 I can only tolerate so much smoke blown up my ass, even from an imposter.
 
  
-**Mordred**
+**Mordred:**
  
 ...My father...
 
  
-**Mordred**
+**Mordred:**
  
 Would never, ever say such a thing!
 
@@ -1272,7 +1272,7 @@ You sound pretty sure of that...
 
 
  
-**Mordred**
+**Mordred:**
 Hell yeah I am!
 I know my father, and that wasn't him!
 
@@ -1284,11 +1284,11 @@ But, isn't this your dream?
 
 
  
-**Mordred**
+**Mordred:**
 ...!
 
  
-**Mordred**
+**Mordred:**
 Just shut up, Master!
 One more word, and I might just lose it...!
 
@@ -1296,23 +1296,23 @@ One more word, and I might just lose it...!
 ---
 
  
-**Mordred**
+**Mordred:**
 ...Anyhow.
 
  
-**Mordred**
+**Mordred:**
 It's okay. This is the way things are between me and Father. At least for now.
 
  
-**Mordred**
+**Mordred:**
 That's just how some relationships go.
 
  
-**Mordred**
+**Mordred:**
 ...Huh!? What the...
 
  
-**Mordred**
+**Mordred:**
 Master, look out!
 
  
@@ -1331,12 +1331,12 @@ Is this...the dream I saw yesterday?
 
 
  
-**Mordred**
+**Mordred:**
 ...Yeah, it is. We finally made it here.
 Whoever set this dream up put a lotta thought into it.
 
  
-**Merlin**
+**Merlin:**
 ...Ah, there you are.
 
  
@@ -1349,42 +1349,42 @@ Merlin?
 
 
  
-**Merlin**
+**Merlin:**
 Of course! It's your old friend, The Amazing Merlin the Great. Can't have the Sword of Selection without me!
 
  
-**Merlin**
+**Merlin:**
 Still, I'm just a guide this time around,
 so please don't pay me any mind.
 
  
-**Merlin**
+**Merlin:**
 And on that note, I'd better say my line!
 
  
-**Merlin**
+**Merlin:**
 ...Think long and hard before you take that in hand.
 
  
-**Mordred**
+**Mordred:**
 ...Hmph.
 
  
-**Mordred**
+**Mordred:**
 So first I beat my father at Camlann,
 and now I'm before the Sword of Selection, huh.
 
  
-**Mordred**
+**Mordred:**
 It's like all my old dreams all in one.
 A feast for my goddamn mind.
 
  
-**Mordred**
+**Mordred:**
 Better be careful not to get heartburn from a meal like this.
 
  
-**Mordred**
+**Mordred:**
 ...Hey, Master?
 
  
@@ -1397,95 +1397,95 @@ Yes?
 
 
  
-**Mordred**
+**Mordred:**
 I'm just gonna...do some thinking out loud,
 so don't worry too much about it, okay?
 
  
-**Mordred**
+**Mordred:**
 Forget it all once I've gotten it all out.
 Hell, just don't even listen if you don't wanna.
 
  
-**Mordred**
+**Mordred:**
 ...I used to want to be king.
 
  
-**Mordred**
+**Mordred:**
 I didn't wanna usurp the throne.
 I wanted to inherit my father's crown.
 
  
-**Mordred**
+**Mordred:**
 ...I wanted him to be proud of me.
 
  
-**Mordred**
+**Mordred:**
 Yeah, that's the key thing.
 
  
-**Mordred**
+**Mordred:**
 I only wanted to be king because my old man was.
 
  
-**Mordred**
+**Mordred:**
 Otherwise, I doubt it would have even occurred to me to want it.
 
  
-**Mordred**
+**Mordred:**
 Whenever I used to have this dream,
 I could never draw the Sword of Selection.
 
  
-**Mordred**
+**Mordred:**
 ...Hell, I couldn't even touch it.
 
  
-**Mordred**
+**Mordred:**
 But that only figures, right?
 
  
-**Mordred**
+**Mordred:**
 It's not like I had some plan or purpose to becoming king. I just wanted Father to be proud of me.
 
  
-**Mordred**
+**Mordred:**
 ...But ever since I had this dream again yesterday,
 I've been turning it over in my mind.
 
  
-**Mordred**
+**Mordred:**
 I've been trying to figure out why I'm having it again now of all times.
 
  
-**Mordred**
+**Mordred:**
 If I did manage to draw the Sword of Selection...
 what sort of king would I end up being?
 
  
-**Mordred**
+**Mordred:**
 There have been so many kings in the world,
 and they all had their own ideals and desires.
 
  
-**Mordred**
+**Mordred:**
 I can't say which of them was right and which of them was wrong.
 
  
-**Mordred**
+**Mordred:**
 But whether they were just or tyrannical,
 at least they held to their own principles.
 
  
-**Mordred**
+**Mordred:**
 ...But I think I finally have an idea of the kinda kingdom I'd want if I ever got to be king.
 
  
-**Mordred**
+**Mordred:**
 'Course, it's still kinda hazy and not so well-defined at this point, but it's something.
 
  
-**Mordred**
+**Mordred:**
 Still, I'm not sure how to say this, but&ndash;
 
  
@@ -1504,23 +1504,23 @@ Is it kinda your version of King Arthur's ideals?
 
 
  
-**Mordred**
+**Mordred:**
 ...!
 
  
-**Mordred**
+**Mordred:**
 ...
 
  
-**Mordred**
+**Mordred:**
 ...Ha! Don't be ridiculous, Master.
 
  
-**Mordred**
+**Mordred:**
 I'm the Knight of Treachery, remember?
 
  
-**Mordred**
+**Mordred:**
 Any kingdom I make is gonna be way better than my stupid father's!
 
  
@@ -1539,7 +1539,7 @@ I can't wait to see it.
 
 
  
-**Mordred**
+**Mordred:**
 Damn straight! Hell, I'll even make you my court advisor! But you better not forget I'll fire you the second you stop being useful!
 
  
@@ -1552,7 +1552,7 @@ Hey, Mordred?
 
 
  
-**Mordred**
+**Mordred:**
 What's up, Master?
 
  
@@ -1565,42 +1565,42 @@ I bet you could draw that sword now.
 
 
  
-**Mordred**
+**Mordred:**
 ...Haha, 'course I could.
 
  
-**Mordred**
+**Mordred:**
 And what do you mean “now”?
 I could've drawn it whenever I damn well pleased.
 
  
-**Mordred**
+**Mordred:**
 But this is just a dream. There's no point.
 
  
-**Mordred**
+**Mordred:**
 ...Weird as it seems, I kinda feel better now.
 
  
-**Mordred**
+**Mordred:**
 ...Anyway, this dream's gone on long enough.
 About time we woke up already.
 
  
-**Mordred**
+**Mordred:**
 ...Huh. Hey, Master, did you know...?
 
  
-**Mordred**
+**Mordred:**
 I guess if you try to wake up while you're dreaming,
 it makes you feel sleepy in the dream.
 
  
-**Mordred**
+**Mordred:**
 ...All right, see you tomorrow.
 
  
-**Mordred**
+**Mordred:**
 I didn't actually think you were gonna be much help...but you were. Thanks, Master.
 
  
@@ -1622,7 +1622,7 @@ I didn't actually think you were gonna be much help...but you were. Thanks, Mast
 
 
  
-**Merlin**
+**Merlin:**
 Hm? What is it?
 
  
@@ -1641,23 +1641,23 @@ You were behind this, weren't you, Merlin?
 
 
  
-**Merlin**
+**Merlin:**
 Now, now, don't be silly. It's not like I'm responsible for everything that goes on in dreams!
 
  
-**Merlin**
+**Merlin:**
 Besides, artificial life-forms' dreams don't even taste that good. No, this was all Mordred.
 
  
-**Merlin**
+**Merlin:**
 She's changed a lot now that she's been through several Holy Grail Wars, as well as the battle Chaldea's been fighting.
 
  
-**Merlin**
+**Merlin:**
 This dream just kinda...snuck into her subconscious... Maybe I should call it her sub-Spirit Origin?
 
  
-**Merlin**
+**Merlin:**
 That said, if there was an external factor to this particular escapade...it might have been Clarent.
 
  
@@ -1676,54 +1676,54 @@ The one without Blood Arthur?
 
 
  
-**Merlin**
+**Merlin:**
 That's right. It may have lost its power after being usurped, but it was still made to show who had the right to inherit the throne.
 
  
-**Merlin**
+**Merlin:**
 Who knows? Perhaps it was closely attuned to the changes in Mordred's demeanor.
 
  
-**Merlin**
+**Merlin:**
 Of course, that doesn't mean she's fully prepared to be king now. That will forever be beyond her grasp.
 
  
-**Merlin**
+**Merlin:**
 But, it also doesn't mean that poor childish knight has to remain the same forever.
 
  
-**Merlin**
+**Merlin:**
 She may never truly grow up,
 but she can mature mentally.
 
  
-**Merlin**
+**Merlin:**
 That said, I honestly don't know Mordred all that well.
 
  
-**Merlin**
+**Merlin:**
 I never meddled with her when she was alive more than strictly necessary. She stank too much of Morgan.
 
  
-**Merlin**
+**Merlin:**
 Still, I think that turned out for the best for her. If I had given her advice, she might well have taken her own life before turning treacherous.
 
  
-**Merlin**
+**Merlin:**
 Welp, it looks like Mordred's about to wake up.
 That's it for this particular dream.
 
  
-**Merlin**
+**Merlin:**
 Farewell, Master of Chaldea.
 Until we meet again.
 
  
-**Fou**
+**Fou:**
 Fou fou! Fooou!
 
  
-**Mash**
+**Mash:**
 Oh, hello, Senpai.
 You're up early today.
 
@@ -1734,7 +1734,7 @@ You're up early today.
 Morning, Mash.
 
  
-**Mash**
+**Mash:**
 Good morning.
 
  
@@ -1744,18 +1744,18 @@ Good morning.
 I just wanted to check on something.
 
  
-**Mash**
+**Mash:**
 Oh? What's that...?
 
  
 ---
 
  
-**Mash**
+**Mash:**
 ...!
 
  
-**Mash**
+**Mash:**
 That came from the simulator.
 I wonder what's going on...?
 
@@ -1767,7 +1767,7 @@ Let's go find out!
 
 
  
-**Mash**
+**Mash:**
 Right!
 
  
@@ -1778,48 +1778,48 @@ I think I might have an idea...
 
 
  
-**Mash**
+**Mash:**
 You do? Well, there's only one way to find out for sure. Let's go see!
 
  
 ---
 
  
-**Mordred**
+**Mordred:**
 Awww yeah! Let's do that again!
 Clarent Blood Arthur!
 
  
-**Jekyll**
+**Jekyll:**
 W-wait! Sto&ndash;!
 Aaaaaaaaah!
 
  
-**Mordred**
+**Mordred:**
 Hey, don't wimp out on me now, Bean Sprout.
 Come on, one more round.
 
  
-**Jekyll**
+**Jekyll:**
 I-I'm sorry, but...I can't.
 You win! I give up!
 
  
-**Mordred**
+**Mordred:**
 Damn, really? Oh, all right. Guess I'll go look for someone else with time to kill.
 
  
-**Mash**
+**Mash:**
 Mordred...?
 You seem to be in a much better mood today.
 
  
-**Mordred**
+**Mordred:**
 ...Oh? Hey Mash. Hey Master. Great timing!
 What do you say to a little one on one!?
 
  
-**Mash**
+**Mash:**
 N-no thank you, I'll pass...
 
  
@@ -1832,11 +1832,11 @@ You really do seem to be feeling a lot better.
 
 
  
-**Mordred**
+**Mordred:**
 Hell yeah! I'm doing great! Weirdly great, even!
 
  
-**Mordred**
+**Mordred:**
 I feel like I could take on a whole Singularity all by myself. Let's show these punks a thing or two, Master!
 
 

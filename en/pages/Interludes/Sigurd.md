@@ -536,7 +536,7 @@ Either way, we have to hurry.
 **Fujimaru:**
 [Understood!]
 
-**ARROW**
+**ARROW:**
 
 You and the others are inside the cave and look around. The dragons there seem longer around their own kind. Fafnir comes and roars and in response the others roar as well.
 

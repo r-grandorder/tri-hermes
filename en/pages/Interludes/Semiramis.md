@@ -42,7 +42,7 @@ One, two, three...
 
 ---
  
-**Fou**
+**Fou:**
 Fou, fou, fou.
 
  
@@ -55,28 +55,28 @@ Come in!
 
 ---
  
-**Shakespeare**
+**Shakespeare:**
 I do beg your pardon, Master!
 Ah, I see you were working out.
 
  
-**Fou**
+**Fou:**
 Fou.
 
  
-**Dove**
+**Dove:**
 Coo, coo.
 
  
-**Fou**
+**Fou:**
 Fouoo!?
 
  
-**Shakespeare**
+**Shakespeare:**
 Indeed.
 
  
-**Shakespeare**
+**Shakespeare:**
 This dove has taken residence upon my head and quite adamantly refuses to depart.
 
  
@@ -86,7 +86,7 @@ This dove has taken residence upon my head and quite adamantly refuses to depart
 **Fujimaru 1:**
 I'm glad you two are having fun.
  
-**Shakespeare**
+**Shakespeare:**
 Setting aside my ceaseless worry over when it might defecate on my head, I suppose I am!
 
  
@@ -96,7 +96,7 @@ Setting aside my ceaseless worry over when it might defecate on my head, I suppo
 **Fujimaru 2:**
 What's the harm? It's cute.
  
-**Shakespeare**
+**Shakespeare:**
 Do you speak of me, [♂ sir /♀️ madam}, or the bird?
 
  
@@ -104,11 +104,11 @@ Do you speak of me, [♂ sir /♀️ madam}, or the bird?
 
 ---
  
-**Shakespeare**
+**Shakespeare:**
 In any case, it seems this dove's demeaning deportment was demanded by that despotic, diabolical debutante. That is, the empress.
 
  
-**Dove**
+**Dove:**
 Coo, coo.
 
  
@@ -121,12 +121,12 @@ Is that a letter tied around its leg?
 
 ---
  
-**Shakespeare**
+**Shakespeare:**
 That it is.
 An old fashioned sort, isn't she?
 
  
-**Shakespeare**
+**Shakespeare:**
 But then I suppose she ought to be,
 as the world's oldest known poisoner.
 
@@ -140,36 +140,36 @@ I wonder what this is about...?
 
 ---
  
-**Shakespeare**
+**Shakespeare:**
 Ah, it seems the letter was bewitched with a small spell to let her know once it is read.
 
  
-**Semiramis**
+**Semiramis:**
 Come see me with the playwright within thirty seconds of reading this letter.
 
  
-**Semiramis**
+**Semiramis:**
 Fail to do so, and I will trap you both in an illusion that will have you stripping down to bathe in the dining hall.
 
  
-**Shakespeare**
+**Shakespeare:**
 How did I come to be ensnared in all this!?
 
  
-**Shakespeare**
+**Shakespeare:**
 Well, I certainly have no desire to denude myself in the dining hall.
 
  
-**Semiramis**
+**Semiramis:**
 There you are, Master.
 
  
-**Semiramis**
+**Semiramis:**
 Hmm.
 Thirty-two seconds...
 
  
-**Semiramis**
+**Semiramis:**
 Very well, then. I am generous enough to grant you a two-second grace period.
 
  
@@ -182,128 +182,128 @@ Th-thank...you...
 
 ---
  
-**Shakespeare**
+**Shakespeare:**
 (Gasp, gasp)... So...? (huff, huff)... What did...(wheeze, wheeze)...you want to...(breathing hard)
 
  
-**Semiramis**
+**Semiramis:**
 Are you gasping for breath?
 How can a Servant be that out of shape?
 
  
-**Shakespeare**
+**Shakespeare:**
 Well...I am a playwright, so...
 
  
-**Semiramis**
+**Semiramis:**
 Hmm.
 Well, no matter.
 
  
-**Semiramis**
+**Semiramis:**
 Now, let us get down to business.
 
  
-**Semiramis**
+**Semiramis:**
 Shakespeare, I seem to faintly recall your Noble Phantasm can recreate the past?
 
  
-**Shakespeare**
+**Shakespeare:**
 Oho, I'm delighted you know my Noble Phantasm's true purpose!
 
  
-**Shakespeare**
+**Shakespeare:**
 Indeed, my Noble Phantasm recreates the past, exposes one's hidden sins, and metes out justice for them.
 
  
-**Shakespeare**
+**Shakespeare:**
 Every hero or monster has a point in their past when they were powerless, whether that past is mythical, legendary, or historical.
 
  
-**Shakespeare**
+**Shakespeare:**
 My Noble Phantasm zeroes in on that point and uses it to break their spirit.
 
  
-**Shakespeare**
+**Shakespeare:**
 ...Hmm.
 
  
-**Shakespeare**
+**Shakespeare:**
 But, I suppose it could also be used to merely recreate the past.
 
  
-**Semiramis**
+**Semiramis:**
 Hmm, I see... Very well. To my next question, then.
 
  
-**Semiramis**
+**Semiramis:**
 Can your Noble Phantasm change the past once it has recreated it?
 
  
-**Shakespeare**
+**Shakespeare:**
 Oho?
 And what exactly might you mean by that?
 
  
-**Semiramis**
+**Semiramis:**
 Simple.
 
  
-**Semiramis**
+**Semiramis:**
 Were I to make a different choice in that recreated past, would it continue to unfold accordingly?
 
  
-**Semiramis**
+**Semiramis:**
 ...I understand that what is done is done.
 One cannot change reality.
 
  
-**Semiramis**
+**Semiramis:**
 But is it possible for your Noble Phantasm to reveal a possible alternate path the future might have taken?
 
  
-**Shakespeare**
+**Shakespeare:**
 Hmmmmmm.
 Good question.
 
  
-**Shakespeare**
+**Shakespeare:**
 I suppose I could ad-lib something based on your reactions, but the future would become something of my own creation more than anything else, really.
 
  
-**Shakespeare**
+**Shakespeare:**
 And surely that is not what you seek.
 
  
-**Shakespeare**
+**Shakespeare:**
 In which case, our only option is to trust your memories of the person in question.
 
  
-**Shakespeare**
+**Shakespeare:**
 That is to say, the actions they would take in response to yours...
 
  
-**Shakespeare**
+**Shakespeare:**
 ...would depend entirely on how well you understand them.
 
  
-**Semiramis**
+**Semiramis:**
 Hmm.
 
  
-**Shakespeare**
+**Shakespeare:**
 I take it this means you have something in your past you wish to change, Empress!
 
  
-**Shakespeare**
+**Shakespeare:**
 If I might hazard a guess at exactly what this is about...
 
  
-**Shakespeare**
+**Shakespeare:**
 ...perhaps you grieve for your husband General Onnes's untimely death? Or perhaps you feel remorse for killing King Ninus?
 
  
-**Semiramis**
+**Semiramis:**
 ...
 ...
 
@@ -317,20 +317,20 @@ If I might hazard a guess at exactly what this is about...
 
 ---
  
-**Semiramis**
+**Semiramis:**
 True, I suppose it could be amusing to try this with them first.
 
  
-**Semiramis**
+**Semiramis:**
 Very well, I grant you permission to use your Noble Phantasm on me.
 
  
-**Semiramis**
+**Semiramis:**
 Master, this hardly need be said,
 but you will be coming with me as well.
 
  
-**Shakespeare**
+**Shakespeare:**
 Master, just to be certain, is it all right with you for me to use my Noble Phantasm?
 
  
@@ -343,49 +343,49 @@ As long as you do it in the combat simulator.
 
 ---
  
-**Semiramis**
+**Semiramis:**
 Indeed. I have no wish to involve all of Chaldea in this exercise.
 
  
-**Semiramis**
+**Semiramis:**
 The simulator would be a better setting for this.
 
  
-**Shakespeare**
+**Shakespeare:**
 Understood!
 All right, I should be ready in about...two or three hours.
 
  
-**Semiramis**
+**Semiramis:**
 That long?
 
  
-**Shakespeare**
+**Shakespeare:**
 Ordinarily, I would prefer several days to prepare.
 
  
-**Shakespeare**
+**Shakespeare:**
 But fortunately, Chaldea has a rich store of information about Heroic Spirits I may peruse.
 
  
-**Shakespeare**
+**Shakespeare:**
 If I am to recreate the past faithfully, I must immerse myself in the culture and civilization of the time.
 
  
-**Shakespeare**
+**Shakespeare:**
 And above all...I need to understand why things happened the way they did.
 
  
-**Shakespeare**
+**Shakespeare:**
 Now then, I will see you again in two to three hours!
 
  
-**Semiramis**
+**Semiramis:**
 Tch... Very well.
 If that is what you must do, I will allow it.
 
  
-**Semiramis**
+**Semiramis:**
 In the meantime, Master, you will stay here and converse with me as my host.
 
  
@@ -398,11 +398,11 @@ Huh!?
 
 ---
  
-**Semiramis**
+**Semiramis:**
 What do you mean “huh”? Do you have a problem with that? Then you leave me no choice.
 
  
-**Semiramis**
+**Semiramis:**
 Let the illusion begi&ndash;
 
  
@@ -415,30 +415,30 @@ I would be delighted to stay with you!
 
 ---
  
-**Semiramis**
+**Semiramis:**
 Good, good.
 I thought that might be the case.
 
  
-**Semiramis**
+**Semiramis:**
 Now then, where to begin... Why don't we start with the differences between magecraft and curses?
 
  
-**Semiramis**
+**Semiramis:**
 It should be most educational for you.
 Hehehe, now, now, do not look so disappointed.
 
  
-**Semiramis**
+**Semiramis:**
 I guided my people for a long time as an empress. I will be sure to explain these concepts simply, yet thoroughly.
 
  
-**Shakespeare**
+**Shakespeare:**
 There we are! My apologies for the wait.
 ...I say, is everything all right, Master?
 
  
-**Shakespeare**
+**Shakespeare:**
 You look like a student on the verge of failing [♂ his /♀️ her}
 entrance exams for the last option on [♂ his /♀️ her} list of backup schools!
 
@@ -457,120 +457,120 @@ The special activation requirements for curses are...
 
 ---
  
-**Semiramis**
+**Semiramis:**
 It is nothing of consequence.
 
  
-**Semiramis**
+**Semiramis:**
 No matter how green a mage one might be, there is no harm in learning about what they may one day experience.
 
  
-**Semiramis**
+**Semiramis:**
 Even if the flower has yet to bloom, the seed will continue to grow. That will do for now.
 
  
-**Shakespeare**
+**Shakespeare:**
 I see you aren't much for hands-on education, Empress.
 
  
-**Semiramis**
+**Semiramis:**
 You misunderstand.
 
  
-**Semiramis**
+**Semiramis:**
 Hands-on education has its place,
 but it never hurts to broaden one's options.
 
  
-**Semiramis**
+**Semiramis:**
 Furthermore, it is important to know what one is capable of, and what one is not.
 
  
-**Semiramis**
+**Semiramis:**
 It is a sin to fret over a decision,
 and it is a sin to fixate on but a single choice.
 
  
-**Shakespeare**
+**Shakespeare:**
 I see, I see. Very good then.
 
  
-**Semiramis**
+**Semiramis:**
 Now, are you ready? Do you need anything from me?
 
  
-**Shakespeare**
+**Shakespeare:**
 Not at all, my good empress! From here on, my only role is to serve as the voice of the heavens. Which is to say, I shall be your narrator!
 
  
-**Shakespeare**
+**Shakespeare:**
 Master shall play the advisory jester, and of course,
 you shall be the hero of the story.
 
  
-**Semiramis**
+**Semiramis:**
 Good. Master, I think we can take a break from your studies for a while.
 
  
-**Semiramis**
+**Semiramis:**
 Start up the combat simulator,
 and we shall make our way to my home, Assyria.
 
  
-**Semiramis**
+**Semiramis:**
 Hmm. This recreation is lacking in some of the finer details, but I suppose I should expect no better.
 
  
-**Shakespeare**
+**Shakespeare:**
 Indeed, this is the best we can do with only the library's information to go on.
 
  
-**Shakespeare**
+**Shakespeare:**
 All right, if our capable assistant is now ready, shall we begin?
 
  
-**Mash**
+**Mash:**
 I'm all set here, Master, and Shakespeare.
 
  
-**Semiramis**
+**Semiramis:**
 Ah, Mash.
 Very well, I am counting on you to navigate for us.
 
  
-**Mash**
+**Mash:**
 Don't worry, Semiramis, leave it to me!
 
  
-**Shakespeare**
+**Shakespeare:**
 Then I believe it is time for my Noble Phantasm!
 
  
-**Shakespeare**
+**Shakespeare:**
 Ahem. Since it has been quite a long time, I hope you will allow me a few (meaningless) opening remarks!
 
  
-**Shakespeare**
+**Shakespeare:**
 Yes, yes! The curtain on my Noble Phantasm is about to rise! Please take your seats and extinguish your cigarettes! Remember, there is to be no photography, and absolutely no heckling!
 
  
-**Shakespeare**
+**Shakespeare:**
 All the world's a stage, and this world, my oyster!
 
  
-**Shakespeare**
+**Shakespeare:**
 Life is but a walking shadow; a poor player that struts and frets his hour upon the stage and then is heard no more.
 
  
-**Shakespeare**
+**Shakespeare:**
 As the curtain rises, the applause shall be like thunder... First Folio!
 
  
-**Semiramis**
+**Semiramis:**
 ...Oh?
 
  
-**???**
+**???:**
 Ngh...
 Nnngh...
 
@@ -584,67 +584,67 @@ Are you okay?
 
 ---
  
-**???**
+**???:**
 Oh, yes, I'm sorry.
 I'm just a little stressed.
 
  
-**???**
+**???:**
 You see, I'm about to go meet my new wife,
 and she's over thirty years younger than me...
 
  
-**Semiramis**
+**Semiramis:**
 ...And what's wrong with that?
 
  
-**Semiramis**
+**Semiramis:**
 If she is so much younger, then you will not lack for companionship for the rest of your days.
 
  
-**Semiramis**
+**Semiramis:**
 ...Not to mention that, as your wife,
 she will surely care for you in your old age.
 
  
-**???**
+**???:**
 That's exactly why I feel so bad.
 
  
-**???**
+**???:**
 I felt bad that she had no other family besides her adoptive father, so I agreed to take her, in something of a fatherly fashion myself...
 
  
-**???**
+**???:**
 But if she marries me, she will never be able to choose a lover for herself.
 
  
-**Semiramis**
+**Semiramis:**
 Couldn't she have an affair?
 
  
-**???**
+**???:**
 I doubt it.
 
  
-**???**
+**???:**
 She was brought up to be chaste and faithful.
 I don't think she would ever dream of having an affair.
 
  
-**Semiramis**
+**Semiramis:**
 ...Then, are you going to let her go?
 
  
-**???**
+**???:**
 If...if only it were that simple...!
 
  
-**???**
+**???:**
 But it isn't...and the way things are going now...
 
  
-**???**
+**???:**
 ...I'm afraid I'm going to rob her of any chance of happiness!
 
  
@@ -657,170 +657,170 @@ What was that...?
 
 ---
  
-**Mash**
+**Mash:**
 Oh, yes.
 
  
-**Mash**
+**Mash:**
 I'm so sorry, everyone.
 
  
-**Mash**
+**Mash:**
 Whenever I have the character you're talking to swell with emotion, it causes a change in his virtual Spirit Origin.
 
  
-**Mash**
+**Mash:**
 In other words, he's gradually becoming an enemy!
 If you keep talking to him, you might end up having to figh&ndash;
 
  
-**Semiramis**
+**Semiramis:**
 That's all right.
 Good elder, let me give you some advice.
 
  
-**Semiramis**
+**Semiramis:**
 You are working yourself up over nothing.
 That woman has no choice but to marry you.
 
  
-**Semiramis**
+**Semiramis:**
 If even an older man like you will not marry her now...
 
  
-**Semiramis**
+**Semiramis:**
 ...everyone will think there is something wrong with her.
 
  
-**Semiramis**
+**Semiramis:**
 From there, it will only be a matter of time until her life is all but destroyed.
 
  
-**???**
+**???:**
 Ah, ahhh...
 It's my fault... It's all my fault...!
 
  
-**???**
+**???:**
 Aah! Aaaaaah!
 
  
-**Semiramis**
+**Semiramis:**
 ...It seems we have no choice but to help him calm down.
 
  
-**Semiramis**
+**Semiramis:**
 Master, you will give the orders.
 But, please, do not kill him.
 
  
-**Semiramis**
+**Semiramis:**
 And Shakespeare?
 
  
-**Shakespeare**
+**Shakespeare:**
 Yes? What is it?
 
  
-**Semiramis**
+**Semiramis:**
 Don't you “what is it?” me. This is your mess,
 so you can at least help clean it up.
 
  
-**Shakespeare**
+**Shakespeare:**
 Very well! Though I must say, there is very little I can do against enemies of this sort!
 
  
-**Shakespeare**
+**Shakespeare:**
 So I shall be taking to my heels once I have sent a few buffs your way!
 
  
-**Semiramis**
+**Semiramis:**
 That will do.
 Now, come, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**???**
+**???:**
 It's all...my fault...
 
  
-**Semiramis**
+**Semiramis:**
 You are mistaken, good elder.
 
  
-**Semiramis**
+**Semiramis:**
 Had you not married her,
 she would have died without so much as a name.
 
  
-**Semiramis**
+**Semiramis:**
 ...Yes, that's right.
 This was the best choice I could make.
 
  
-**Semiramis**
+**Semiramis:**
 Allow me to apologize to you on her behalf.
 
  
-**Semiramis**
+**Semiramis:**
 Your life would have been a happier one had you not married her.
 
  
-**Semiramis**
+**Semiramis:**
 In exchange for her hand,
 you will end your days in desperation.
 
  
-**???**
+**???:**
 ...Yes. I know.
 
  
-**???**
+**???:**
 But I don't mind. As long as Semiramis is happy,
 that's all that matters to me.
 
  
-**Mash**
+**Mash:**
 Huh...!?
 
  
-**???**
+**???:**
 That's all I...
 
  
-**Semiramis**
+**Semiramis:**
 Hmm. I suppose I should have known it would not be that easy.
 
  
-**Mash**
+**Mash:**
 Um... Correct me if I'm wrong, but was that&ndash;
 
  
-**Semiramis**
+**Semiramis:**
 You mean you didn't know? That was my ex-husband.
 In modern terms, we used to...hook up? No, that sounds...wrong.
 
  
-**Semiramis**
+**Semiramis:**
 I was all alone at the time, so I didn't care what he was like as long as he was willing to marry me...
 
  
-**Semiramis**
+**Semiramis:**
 ...but he was a far better man than I had ever imagined. I'd been prepared for the worst, so it was shocking how easily we got along.
 
  
-**Semiramis**
+**Semiramis:**
 ...Of course, as I alluded to earlier,
 our end was not a happy one.
 
  
-**Semiramis**
+**Semiramis:**
 There was a man by the name of Ninus who fell in love with me the moment he saw me.
 
  
-**Semiramis**
+**Semiramis:**
 Ninus took me from Onnes, and Onnes ended up taking his own life in despair.
 
  
@@ -830,7 +830,7 @@ Ninus took me from Onnes, and Onnes ended up taking his own life in despair.
 **Fujimaru 1:**
 So you wanted to change the past to help him?
  
-**Semiramis**
+**Semiramis:**
 ...No. I would never be who I am now if he had not married me.
 
  
@@ -840,11 +840,11 @@ So you wanted to change the past to help him?
 **Fujimaru 2:**
 So you wanted to see what a different future might have been like?
  
-**Semiramis**
+**Semiramis:**
 There may have been a future where he did not end up dying in misery.
 
  
-**Semiramis**
+**Semiramis:**
 But in that future, I would have been lost to history,
 never having had a name.
 
@@ -853,61 +853,61 @@ never having had a name.
 
 ---
  
-**Semiramis**
+**Semiramis:**
 Still...this old man is an indelible part of my memories.
 
  
-**Semiramis**
+**Semiramis:**
 I merely thought that,
 if it were possible to save him...
 
  
-**Semiramis**
+**Semiramis:**
 ...I might even go so far as to entrance a saint.
 
  
-**Semiramis**
+**Semiramis:**
 Hmph, I need not have bothered.
 People never change.
 
  
-**Semiramis**
+**Semiramis:**
 They hold fast to ideals of change,
 yet also see beauty in remaining steadfast.
 
  
-**Semiramis**
+**Semiramis:**
 In the end, any change is but illusion.
 An illusion that it seems I fell prey to, however briefly.
 
  
-**Shakespeare**
+**Shakespeare:**
 Hmm.
 
  
-**Shakespeare**
+**Shakespeare:**
 It seems there is a greater story there,
 but I doubt it has anything to do with me.
 
  
-**Shakespeare**
+**Shakespeare:**
 So, if you had chosen differently, you could have lived out your life peacefully, as one of the common folk.
 
  
-**Shakespeare**
+**Shakespeare:**
 I would have thought that idea would hold great appeal for an empress, and yet you dismissed it out of hand!
 
  
-**Semiramis**
+**Semiramis:**
 Of course.
 
  
-**Semiramis**
+**Semiramis:**
 I am happy enough as a Servant.
 I need not seek my happiness elsewhere.
 
  
-**Semiramis**
+**Semiramis:**
 I am sorry for bringing you along on this, Master.
 It seems this was a waste of time.
 
@@ -921,12 +921,12 @@ I don't mind.
 
 ---
  
-**Semiramis**
+**Semiramis:**
 Hehe, you are a simple one, aren't you.
 I will see that you receive some sort of reward.
 
  
-**Semiramis**
+**Semiramis:**
 Hmm, what should it be...
 No doubt you are tired of chocolate by now...
 

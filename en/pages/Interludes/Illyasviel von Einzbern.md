@@ -2,29 +2,29 @@
 
 <h2>For Whom Do We Shine</h2>
 
-**Illya**
+**Illya:**
 Quintett Feuer!!!
 
  
-**Prisma Coalesced Men☆Gentle**
+**Prisma Coalesced Men☆Gentle:**
 Gwaaaaaahhhh!!!
 
  
-**Illya**
+**Illya:**
 (Pant, pant) ...
 I-I did it...!
 
  
-**Mash**
+**Mash:**
 Annihilation of enemy and nuisance targets confirmed.
 
  
-**Mash**
+**Mash:**
 Good work, Illya and Senpai.
 Now we are finally done.
 
  
-**Mash**
+**Mash:**
 I would never have predicted the obsessive thoughts of the Magical Gentlemen, whom we thought we defeated, would come back and attack as Fused Gentlemen...
 
  
@@ -42,65 +42,65 @@ It was a sad, horrendous battle.
 
 ---
  
-**Mash**
+**Mash:**
 Yes. Even attempting to talk about it would be a painfully drawn-out conversation... And I don't want to talk about it, so let's forget it.
 
  
-**Illya**
+**Illya:**
 ... (Tremble, tremble)
 
  
-**Mash**
+**Mash:**
 ...?
 Is something the matter, Illya?
 
  
-**Illya**
+**Illya:**
 ...My...
 
  
-**Illya**
+**Illya:**
 My entire body aches!
 
  
-**Mash**
+**Mash:**
 A-are you okay!?
 Did you injure yourself in the last battle!?
 
  
-**Ruby**
+**Ruby:**
 Ah, no...do not fret. She did not commit a blunder like getting touched by a gentleman.
 
  
-**Ruby**
+**Ruby:**
 This is something like recoil from her grand attack...or rather a price she has to pay.
 
  
-**Illya**
+**Illya:**
 This happens whenever I use Quintett Feuer... Ruby, is there anything I can do so I don't feel so much pain?
 
  
-**Ruby**
+**Ruby:**
 That's a tough one... The attack itself is a bit of a cheat, really, forcing magical energy through bodily systems it's not really meant to be routed through in order to gain an instantaneous firepower boost.
 
  
-**Ruby**
+**Ruby:**
 Normally, the blowback you'd feel from something like that would be even more severe, as you well know.
 
  
-**Ruby**
+**Ruby:**
 Your body possesses a Spirit Origin stronger than a physical body. That's why you get off with just a hearty round of griping like an old lady!
 
  
-**Illya**
+**Illya:**
 Old lady...
 
  
-**Mash**
+**Mash:**
 I never knew it was such a magnificent attack.
 
  
-**Illya**
+**Illya:**
 Hmmm, but I feel like its gotten weaker compared to when I shot it THAT time.
 
  
@@ -118,15 +118,15 @@ Which time?
 
 ---
  
-**Illya**
+**Illya:**
 Uh...um...well, it's a long story...
 
  
-**Ruby**
+**Ruby:**
 It was the time when she went up against little big Gilgamesh's Enuma Elish head-on and won.
 
  
-**Mash**
+**Mash:**
 Eh...?
 
  
@@ -136,7 +136,7 @@ Eh...?
 **Fujimaru 1:**
 Ehhhhhh!? Seriously!?
  
-**Ruby**
+**Ruby:**
 I swear upon this Ruby's bewitching form that story is one hundred percent true!
 
  
@@ -146,7 +146,7 @@ I swear upon this Ruby's bewitching form that story is one hundred percent true!
 **Fujimaru 2:**
 It's from volume five of Prisma☆Illya 2wei!
  
-**Ruby**
+**Ruby:**
 Exactly! This blatant advertisement is so bold,
 even Ruby wants to tip her hat to it!
 
@@ -155,54 +155,54 @@ even Ruby wants to tip her hat to it!
 
 ---
  
-**Ruby**
+**Ruby:**
 But you know...that was only possible because the other party wasn't going all-out...or rather, he was just toying with us, which was our saving grace.
 
  
-**Mash**
+**Mash:**
 W-well...even so, that is truly incredible!
 
  
-**Illya**
+**Illya:**
 I was just so...engrossed in the moment...
 
  
-**Illya**
+**Illya:**
 A-anyway!
 I want to get stronger!
 
  
-**Illya**
+**Illya:**
 Ruby. If I'm stronger than my physical body, don't you think I can increase my magical energy output?
 
  
-**Ruby**
+**Ruby:**
 Ah, a girl who pursues pure firepower! Yes!
 
  
-**Ruby**
+**Ruby:**
 HOOOWEEEVERRR...to cut to the chase,
 the problem is actually on your end.
 
  
-**Illya**
+**Illya:**
 Eh? What do you mean?
 
  
-**Ruby**
+**Ruby:**
 My only job is to maintain the four systems as pseudo-magical circuits.
 
  
-**Ruby**
+**Ruby:**
 The amount of magical energy that goes through them is actually dependent on Illya's willpower.
 
  
-**Illya**
+**Illya:**
 Willpower...?
 I think I'm trying my best...
 
  
-**Mash**
+**Mash:**
 Perhaps...
 
  
@@ -215,31 +215,31 @@ You're holding yourself back psychologically.
 
 ---
  
-**Ruby**
+**Ruby:**
 Ah! Way to go! Great, Master!
 
  
-**Ruby**
+**Ruby:**
 You catch on fast, like you're a seasoned vet of school girls who are innocent and pure of heart!
 
  
-**Illya**
+**Illya:**
 Putting it that way makes it sound kind of weird...
 
  
-**Ruby**
+**Ruby:**
 Now that Miss Illya is just starting to understand euphemisms, teasing her is really fun! Anyway...
 
  
-**Ruby**
+**Ruby:**
 The physical repercussions she suffers are serious, and I can only imagine how SERIOUSLY painful they are.
 
  
-**Ruby**
+**Ruby:**
 Perhaps she has unconsciously held back her output out of fear of the pain she remembers from the past.
 
  
-**Mash**
+**Mash:**
 That...
 
  
@@ -257,87 +257,87 @@ Don't push yourself too hard...
 
 ---
  
-**Illya**
+**Illya:**
 You're worried about me.
 Thanks, [♂ big brother /♀️ big sister} Fujimaru.
 
  
-**Illya**
+**Illya:**
 But even so...I want to get stronger.
 
  
-**Mash**
+**Mash:**
 I completely understand.
 
  
-**Mash**
+**Mash:**
 But you're still in elementary school.
 Why are you so eager to get stronger?
 
  
-**Illya**
+**Illya:**
 Because...because...if I don't get stronger...
 
  
-**Mash**
+**Mash:**
 If you don't...?
 
  
-**Illya**
+**Illya:**
 People will say I'm weaker than Chloe!
 
  
-**Mash**
+**Mash:**
 ...Come again?
 
  
-**Illya**
+**Illya:**
 People will say “Chloe's a much easier character to use,” or “Chloe's NP is stronger”!!!
 
  
-**Illya**
+**Illya:**
 I know...I know I'm weak. I don't have that much magical energy, and I'm bad at making snap decisions in battle...
 
  
-**Illya**
+**Illya:**
 But you know what? No matter how underdeveloped I may be, there's one thing I can't let slide.
 
  
-**Illya**
+**Illya:**
 I don't care if other people best me...
 But as the older sister...!
 
  
-**Illya**
+**Illya:**
 I can't let Chloe best me!!!
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Mash**
+**Mash:**
 U-um...it's been a while since I heard such a...um, intense pledge like that. It was almost moving...
 
  
-**Mash**
+**Mash:**
 But I don't think you are weaker than Chloe, Illya.
 
  
-**Mash**
+**Mash:**
 So please calm down...
 
  
-**Illya**
+**Illya:**
 It's true!
 Ruby told me everyone is saying that!
 
  
-**Mash**
+**Mash:**
 Ruby!?
 
  
-**Ruby**
+**Ruby:**
 Ahahahahaha!
 
  
@@ -355,23 +355,23 @@ Ummmmm...
 
 ---
  
-**???**
+**???:**
 Heh heh heh...I see you are in a bind.
 
  
-**Illya**
+**Illya:**
 Eh? Wh-who's there!?
 
  
-**???**
+**???:**
 Hah!!!
 
  
-**???**
+**???:**
 I heard it all!
 
  
-**Mash**
+**Mash:**
 Oh, that dark silhouette...!?
 
  
@@ -384,22 +384,22 @@ Who exactly are you!?
 
 ---
  
-**Ruby**
+**Ruby:**
 ...
 
  
-**Ruby**
+**Ruby:**
 Oh. Um... Y'know...
 To be continued and all that...
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**B：???**
+**B：???:**
 I'm going to say it again: I heard it all!!!
 
  
-**Illya**
+**Illya:**
 You're repeating yourself!?
 
  
@@ -417,121 +417,121 @@ That succubus-like aura...!
 
 ---
  
-**Chloe**
+**Chloe:**
 Bingo! I'm the big sister who's better than Illya in every way! The one and only Chloe von Einzbern!
 
  
-**Illya**
+**Illya:**
 Chloe!?
 
  
-**Illya**
+**Illya:**
 H-how long have you been listening!?
 
  
-**Chloe**
+**Chloe:**
 Hmm...since someone said,
 “Congratulations. She's a healthy baby girl.”
 
  
-**Illya**
+**Illya:**
 S-since the moment I was born!?
 That's such a big sister thing to say... Wh-why, you!
 
  
-**Ruby**
+**Ruby:**
 The “who's the older sister” battle...I still don't understand the rules.
 
  
-**Mash**
+**Mash:**
 Um...sorry to interrupt your sisterly banter, but...didn't you show up because you had business with us, Chloe?
 
  
-**Chloe**
+**Chloe:**
 Oh right, right.
 It's about Illya.
 
  
-**Chloe**
+**Chloe:**
 She's been mumbling “more firepower, more firepower” to herself every day, so I was worried about her.
 
  
-**Illya**
+**Illya:**
 W-was I muttering borderline scary stuff to myself?
 
  
-**Chloe**
+**Chloe:**
 Yeah, I seriously considered calling the cops.
 
  
-**Chloe**
+**Chloe:**
 Ah well, can't be helped. No matter the era,
 the weak always struggle to gain more power.
 
  
-**Chloe**
+**Chloe:**
 To support her fervent but futile efforts,
 we've all showed up. That's all.
 
  
-**Illya**
+**Illya:**
 Oh that's just infuriating!
 
  
-**Illya**
+**Illya:**
 ...Hm?
 “We”?
 
  
-**Chloe**
+**Chloe:**
 Heh heh heh! Indeed!
 
  
-**Chloe**
+**Chloe:**
 Be grateful, Illya. I went ALL over to gather everyone here together, in one place!
 
  
-**Chloe**
+**Chloe:**
 Now come on out!
 “Illya's Magnificent Strengtheners!”
 
  
-**Stheno**
+**Stheno:**
 You talk too much, Chloe. Just how long were you going to keep us in the green room?
 
  
-**Euryale**
+**Euryale:**
 Well, the only thing to do about this is to slap my dummy younger sister Medusa's butt once for every second you kept us waiting! (Slap)
 
  
-**Medusa**
+**Medusa:**
 Ow! I-I'm sorry...! Sorry to trouble you,
 but please speed things up...!
 
  
-**Mash**
+**Mash:**
 The three Gorgon sisters are here...!?
 What is going on...?
 
  
-**Illya**
+**Illya:**
 Eh? Wh-what!? What's this
 “Illya's Magnificent Strengtheners” about!?
 
  
-**Ishtar**
+**Ishtar:**
 I usually don't work for free. If you can't pay my price, I'll have to seize some of Chaldea's assets.
 
  
-**Quetzalcoatl**
+**Quetzalcoatl:**
 Nonsense! A lucha match is its own reward, more valuable than jewelry! I will jump even higher than usual, yes!
 
  
-**Artemis**
+**Artemis:**
 Yoo-hoo☆ I'm here to beat the pulp out of someone!
 
  
-**Illya**
+**Illya:**
 Again... What the heck!?
 
  
@@ -549,115 +549,115 @@ What a sight.
 
 ---
  
-**Chloe**
+**Chloe:**
 These are the seven great goddesses who have answered my call! Together they're called the
 “Bully Illya Seven!”
 
  
-**Illya**
+**Illya:**
 It's a different name now!
 
  
-**Illya**
+**Illya:**
 Wait, wait. You can't just collect so many of these UNIQUE people all of a sudden... I don't have any idea how to react to all of this...!
 
  
-**Ruby**
+**Ruby:**
 Illya's really not much for processing complicated things.
 
  
-**Chloe**
+**Chloe:**
 You want to get stronger, right?
 
  
-**Illya**
+**Illya:**
 (Gasp)
 
  
-**Chloe**
+**Chloe:**
 As the big sister, I knew. I knew that my younger sister Illya was agonizing over her ho-hum firepower.
 
  
-**Chloe**
+**Chloe:**
 A younger sister can't be mulling over things like that alone. You gotta take action, however impossible.
 
  
-**Chloe**
+**Chloe:**
 Illya may always get swept away by those around her, but being the big sister that I am, I believe in her. I know my younger sister has a strong will, however undeveloped she may be.
 
  
-**Illya**
+**Illya:**
 What you're saying sounds kind of good, but I'm also sensing a mocking undertone, and I can't concentrate!
 
  
-**Stheno**
+**Stheno:**
 Ah, it's so lovely seeing siblings getting along like this. In consideration of your sisterly love, we shall play along just this once. (Slap, slap)
 
  
-**Euryale**
+**Euryale:**
 So you want us to show that younger sister who's boss with a few love taps, right? I'm a little worried. Do you think I am fit to play such a role? (Slap, slap)
 
  
-**Medusa**
+**Medusa:**
 Ow! Um...my dear older sisters...!
 Please refrain from talking while slapping my butt...!
 
  
-**Illya**
+**Illya:**
 Huh? Um, I sense an imminent battle...but I haven't agreed to anything yet...!
 
  
-**Ishtar**
+**Ishtar:**
 I'm not sure why, but when I look at her, I feel both affection and a certain sense of caution...
 
  
-**Ishtar**
+**Ishtar:**
 Perhaps this vessel of mine has some sort of connection to her. Do you think beating her up will help me figure it out?
 
  
-**Quetzalcoatl**
+**Quetzalcoatl:**
 Of course you will, yes! The clash of bodies is a kind of communication that transcends language barriers!
 
  
-**Orion**
+**Orion:**
 Well, a future cutie has asked us to do this.
 As a grown-bear, we should fulfill our duties.
 
  
-**Artemis**
+**Artemis:**
 After we beat that girl up, I'll be sure to beat you three times harder, my darling!
 
  
-**Orion**
+**Orion:**
 What'd I say!?
 
  
-**Chloe**
+**Chloe:**
 Behold. See how these goddesses all talk and act with such...um, individuality! See how they lack anything resembling solidarity!
 
  
-**Chloe**
+**Chloe:**
 Y'know, if I'm honest, I don't really know how I got them all here together...
 
  
-**Chloe**
+**Chloe:**
 Anyway! This is what Illya needs!
 You need to free your heart! Be more open! Buck naked!
 
  
-**Mash**
+**Mash:**
 Perhaps she's saying Illya needs to follow the mentality of these goddesses as examples...
 
  
-**Mash**
+**Mash:**
 I think that's asking a lot.
 
  
-**Ruby**
+**Ruby:**
 Ruby does not approve of Illya acting like this lot...but will wholeheartedly approve of her being buck naked!
 
  
-**Illya**
+**Illya:**
 Um, even so, there's no need to fight, right!?
 That doesn't make much sense, right?
 
@@ -671,7 +671,7 @@ That doesn't make much sense, right?
 
 ---
  
-**Illya**
+**Illya:**
 Oh! [♂ Big brother /♀️ Big sister} Fujimaru, help! If you don't do something, they'll all beat me up in the name of some weird version of sisterly love!
 
  
@@ -684,93 +684,93 @@ Oh! [♂ Big brother /♀️ Big sister} Fujimaru, help! If you don't do somethi
 
 ---
  
-**Illya**
+**Illya:**
 [♂ Big brother /♀️ Big sister} Fujimaru, you traitor!!!
 
  
-**Chloe**
+**Chloe:**
 Brace yourself, Illya! Be grateful that I've arranged for you to receive the “love” of the goddesses!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Stheno**
+**Stheno:**
 Phew...I suppose that's it.
 That was a nice way to kill some time.
 
  
-**Euryale**
+**Euryale:**
 Oh come on! Our dummy of a sister Medusa can't even be a proper meat shield! What is even the point of you being so gigantic, then!?
 
  
-**Medusa**
+**Medusa:**
 I'm sorry!
 I'm sorry...!
 
  
-**Medusa**
+**Medusa:**
 ...Um. Good luck, Illyasviel.
 As a younger sister myself, I'll be rooting for you.
 
  
-**Ishtar**
+**Ishtar:**
 What the heck! She's already strong!  But I have to admit, your Noble Phantasm shined brilliantly. It was like a jewel in the Milky Way!
 
  
-**Quetzalcoatl**
+**Quetzalcoatl:**
 Mmmm... ¡Adiós, hermanita! That was a lovely fight!
 Let's meet in the ring next time!
 
  
-**Artemis**
+**Artemis:**
 Awwww, she beat me up!
 Console me fervently and lovingly, Darling!
 
  
-**Orion**
+**Orion:**
 Yeah, yeah. Later.
 
  
-**Orion**
+**Orion:**
 ...Sorry about that, missy. Bothering people is practically an occupation for these goddesses. Forgive them, will ya?
 
  
-**Orion**
+**Orion:**
 Well, let me just warn you that you shouldn't get too worked up.
 
  
-**Orion**
+**Orion:**
 There's only so much a single person can bear or do.
 
  
-**Illya**
+**Illya:**
 W-we won!?
 I'm beat...both physically and mentally.
 
  
-**Ruby**
+**Ruby:**
 The only sane advice we got was from that Orion bear, which makes it even sadder.
 
  
-**Mash**
+**Mash:**
 A-anyway, I have confirmed that the seven goddesses have retreated. Good work, Illya.
 
  
-**Illya**
+**Illya:**
 Ugh...my entire body still hurts...
 I want to go home and take a nice bath...
 
  
-**Ruby**
+**Ruby:**
 Illya is not one to skimp on self care!
 
  
-**Chloe**
+**Chloe:**
 Well, I'm impressed, Illya.
 I didn't think you would really beat all seven goddesses.
 
  
-**Chloe**
+**Chloe:**
 You beat the seven...
 Hm? Seven?
 
@@ -789,44 +789,44 @@ There were only six of them.
 
 ---
  
-**H：???**
+**H：???:**
 Fwahahahahahaha!
 Fumeow hahahahahahaha!!!
 
  
-**H：???**
+**H：???:**
 At the behest of a girl who cares for her younger sister...this feral heart roars with maternal love! If you ask for the aid of a jaguar, then I shall be happy to lend my paw!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 The beautiful goddess of love and the rainy season...the time is meow...for Jaguar Warrior!
 
  
-**Chloe**
+**Chloe:**
 Oh... (I forgot I asked this one, too.)
 
  
-**Illya**
+**Illya:**
 Um...
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 I heard there was gonna be a fight, and I couldn't resist! Meowhahahahaha! Know that the Seven Goddess Alliance is no cat...I mean, cakewalk!
 
  
-**Mash**
+**Mash:**
 Um, Jaguar Warrior...
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Meowhahaha. Good things never wait for you! If there's a deal, pounce on it! Once it's weakened, kill it! That's the law of the jungle!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Now come at me! I'm pawsitively pumped!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Come on, Ishtarin! Kuku! Let's go in with our ★5-eliminating Delta-Nabla Attack!
 
  
@@ -839,16 +839,16 @@ Sorry. That just ended.
 
 ---
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 ...Huh? Where's Ishtarin and Kuku?
 And where's the rest of the goddesses?
 
  
-**Ruby**
+**Ruby:**
 We beat 'em all.
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Seriously?
 Little girl's too strong.
 
@@ -867,44 +867,44 @@ And now it's tiger season.
 
 ---
  
-**Illya**
+**Illya:**
 Wait, what was the point of that battle?
 I'm really confused now...
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Tsk. I thought I was getting into a seven-on-one battle, but now it's a one-on-five deathmatch...
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 What's up with me being the lone wolf?
 ...I'm a feline!!!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 But this jaguar will not lose! Just you watch! I'll show you that the jaguar's wild nature is going to save human history!!!
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Are...you...kitten...me!?
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 I can't believe I lost to someone who's not even wearing short-shorts! What humiliation!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Why you... Perish, magical girls! One day I'll be lurking in the darkness and pounce on you to claim my revenge! Brace yourself for cat-astrophe!
 
  
-**Mash**
+**Mash:**
 All seven goddesses have been defeated...
 This time for real.
 
  
-**Mash**
+**Mash:**
 When she fled into the jungle I thought she was planning to use guerilla tactics, but instead she just started shouting for us to come at her one by one... Why?
 
  
@@ -922,106 +922,106 @@ It was a grrreat and fierce battle.
 
 ---
  
-**Chloe**
+**Chloe:**
 Hmmm. Even I don't want to comment on that goddess.
 Besides, that tiger wasn't even a goddess.
 
  
-**Ruby**
+**Ruby:**
 I feel like whoever tries to give it to her straight is in for a losing battle. Before she saves mankind, she needs to match the setting a little more.
 
  
-**Illya**
+**Illya:**
 Look who's talking!
 
  
-**Chloe**
+**Chloe:**
 So...Illya. What do you think?
 Did you get stronger?
 
  
-**Illya**
+**Illya:**
 Of course not!
 I just got really, really, really tired!
 
  
-**Chloe**
+**Chloe:**
 That's weird... Knowing you, I thought for sure that getting cornered would give you a powerup!
 
  
-**Illya**
+**Illya:**
 Quit playing games with my heart!
 
  
-**Mash**
+**Mash:**
 That's enough.
 Illya, you've fought so hard, and you're already strong.
 
  
-**Illya**
+**Illya:**
 Thank you, Mash.
 Ummmm...but, but...
 
  
-**Chloe**
+**Chloe:**
 See? Look how doubtful you are...
 It's no wonder you can't get strong.
 
  
-**Chloe**
+**Chloe:**
 Come on, stand up straight! If you put your mind to it, you're the type who can win against THAT Enuma Elish!
 
  
-**Ruby**
+**Ruby:**
 That's right!
 Beat the crap out of that Enuma Elish!!!
 
  
-**Mash**
+**Mash:**
 U-um...perhaps you should tone it down...
 If HE ends up hearing you...
 
  
-**Chloe**
+**Chloe:**
 You mean that shiny gold guy?
 What are you afraid of? We're fine, we're fine.
 
  
-**Chloe**
+**Chloe:**
 After all, Illya beat him once!
 To hell with that King of Heroes! Come at us!!!
 
  
-**Illya**
+**Illya:**
 S-stop...you're going overboard...!
 
  
-**Chloe**
+**Chloe:**
 What about Enuma Elish!?
 Our Illya would totally kick its butt!!!
 
  
-**Kid Gil**
+**Kid Gil:**
 Oh? Well, this sure is interesting.
 
  
-**Chloe**
+**Chloe:**
 ...
 
  
-**Illya**
+**Illya:**
 ...
 
  
-**Ruby**
+**Ruby:**
 ...
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Illya & Chloe**
+**Illya & Chloe:**
 He, he's here!?
 
  
@@ -1031,17 +1031,17 @@ He, he's here!?
 **Fujimaru 1:**
 Chloe, you've done it now!
  
-**Chloe**
+**Chloe:**
 I-I didn't think he would actually show up!
 B-besides, Ruby was egging me on!
 
  
-**Ruby**
+**Ruby:**
 System. Error.
 Language functions...shutting down...
 
  
-**Illya**
+**Illya:**
 Don't you dare act like a machine to get out of this!
 
  
@@ -1051,11 +1051,11 @@ Don't you dare act like a machine to get out of this!
 **Fujimaru 2:**
 Hurry and think of an excuse, Illya!
  
-**Illya**
+**Illya:**
 U-um...you see, Mister Kid Gil... The term kicking one's butt is just an expression...a turn of phrase...
 
  
-**Illya**
+**Illya:**
 ...Why am I making all the excuses!?
 
  
@@ -1063,111 +1063,111 @@ U-um...you see, Mister Kid Gil... The term kicking one's butt is just an express
 
 ---
  
-**Kid Gil**
+**Kid Gil:**
 Ahaha! Oh please.
 I don't understand why everyone is so scared.
 
  
-**Kid Gil**
+**Kid Gil:**
 I wouldn't get mad over a little joke like that.
 I'm not the big me, after all.
 
  
-**Mash**
+**Mash:**
 That's right. Everyone's being rude.
 Kid Gil is rational, and he listens.
 
  
-**Mash**
+**Mash:**
 Oh, um! I-I-I'm not saying that the big shiny gold you is an irrational tyrant, you see...!
 
  
-**Kid Gil**
+**Kid Gil:**
 Aha! Listen to you, big sister Mash! Don't get me wrong, I'm praising you! For both statements!
 
  
-**Chloe**
+**Chloe:**
 Hmmm? Something's...
 
  
-**Illya**
+**Illya:**
 There's something different about him.
 Different than the usual Kid Gil we know...
 
  
-**Kid Gil**
+**Kid Gil:**
 Hello, mirrored big sisters. This is the first time we've actually spoken to each other.
 
  
-**Kid Gil**
+**Kid Gil:**
 ...Yep. It appears we are connected in quite the strange twist of fate.
 
  
-**Illya**
+**Illya:**
 You are...
 Are you THE Kid Gil we know...?
 
  
-**Kid Gil**
+**Kid Gil:**
 Nope. And I don't know.
 
  
-**Illya**
+**Illya:**
 ...???
 
  
-**Chloe**
+**Chloe:**
 The way he gets all profound kind of reminds me of him...
 
  
-**Kid Gil**
+**Kid Gil:**
 There's no hidden meaning behind my words.
 And a bit of small talk is nice. It's fun.
 
  
-**Kid Gil**
+**Kid Gil:**
 Oh, but dear me. Big sisters, you're not my type, so this is no fun. Not one bit.
 
  
-**Illya & Chloe**
+**Illya & Chloe:**
 Huh?
 
  
-**Kid Gil**
+**Kid Gil:**
 Yep. Let's just go ahead and battle.
 
  
-**Illya & Chloe**
+**Illya & Chloe:**
 Huh!?
 
  
-**Mash**
+**Mash:**
 Wh-what do you mean, Kid Gil?
 Why do we need to fight...?
 
  
-**Kid Gil**
+**Kid Gil:**
 Hm? Isn't this pretty much where a story about Illya wanting to get stronger leads?
 
  
-**Kid Gil**
+**Kid Gil:**
 You said if she gave it her all, she could overwhelm even my Ea. I sure would like to see that.
 
  
-**Kid Gil**
+**Kid Gil:**
 Now, please.
 Try to “blow me away.”
 
  
-**Illya**
+**Illya:**
 U-um...if I dare ask...
 
  
-**Chloe**
+**Chloe:**
 Are you mad?
 
  
-**Kid Gil**
+**Kid Gil:**
 I am not mad.
 
  
@@ -1185,117 +1185,117 @@ Everyone, RUN!!!
 
 ---
  
-**Kid Gil**
+**Kid Gil:**
 Oh, please don't flee.
 
  
-**Chloe**
+**Chloe:**
 Oh crap...chains!?
 
  
-**Illya**
+**Illya:**
 Chloe!?
 
  
-**Chloe**
+**Chloe:**
 Hey...! Lemme go!
 Bound in chains is NOT a good look for a kid!
 
  
-**Kid Gil**
+**Kid Gil:**
 That sorta thing really isn't in my&ndash;never mind.
 
  
-**Kid Gil**
+**Kid Gil:**
 Illya, battle me.
 
  
-**Illya**
+**Illya:**
 ...!
 
  
-**Kid Gil**
+**Kid Gil:**
 If you flee, I will kill Chloe.
 Oh, and if I win, I will kill Chloe.
 
  
-**Illya**
+**Illya:**
 Wha...!?
 That's nonsense, Kid Gil!
 
  
-**Kid Gil**
+**Kid Gil:**
 Hmmm. You're really slow to make a decision, even when you've only got one choice.
 
  
-**Chloe**
+**Chloe:**
 Illy... Ungh!
 The chains are tightening...!
 
  
-**Mash**
+**Mash:**
 Chloe!
 Are you serious, Kid Gil!?
 
  
-**Kid Gil**
+**Kid Gil:**
 I've taken a slight interest in that heart of hers.
 
  
-**Kid Gil**
+**Kid Gil:**
 Since you're a Servant, please hang on and survive even if your ribcage gets caved in, Miss Chloe.
 
  
-**Chloe**
+**Chloe:**
 Hey...you...!
 Quit joking around...!
 
  
-**Illya**
+**Illya:**
 No more! Stop!
 
  
-**Mash**
+**Mash:**
 Illya?
 
  
-**Illya**
+**Illya:**
 You really are a different person.
 Different than the Kid Gil that we know...
 
  
-**Illya**
+**Illya:**
 You may mince your words a lot, and we still don't know what you're really thinking...but...!
 
  
-**Illya**
+**Illya:**
 The Kid Gil we know never did anything cruel!
 
  
-**Illya**
+**Illya:**
 I...will never lose to somebody like that!
 
  
-**Kid Gil**
+**Kid Gil:**
 Finally. Sheesh.
 The lady took her sweet time with her costume change.
 
  
-**Kid Gil**
+**Kid Gil:**
 I really don't want to do this, but I guess I can make a bit of a costume change myself.
 
  
-**Mash**
+**Mash:**
 Eh...?
 Th-that can't be...!
 
  
-**Kid Gil**
+**Kid Gil:**
 Honestly...I reeeally hate to do this.
 But for a few minutes, I'll act immature...
 
  
-**Gilgamesh**
+**Gilgamesh:**
 ...and get serious about playing. I'm going to school you on how to properly use your energy and your life!
 
  
@@ -1313,62 +1313,62 @@ H-h-he...
 
 ---
  
-**Mash**
+**Mash:**
 He grew up!!!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Illya**
+**Illya:**
 Ungh... Ack...!
 
  
-**Illya**
+**Illya:**
 Quintett Feuer!!!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Ohhhhhhhhh!!!
 
  
-**Mash**
+**Mash:**
 A-amazing!
 What a massive magical energy discharge!
 
  
-**Mash**
+**Mash:**
 H-huh!?
 Her output's still increasing!?
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Haha... I see... I see!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 So this is the purpose for which you use your energy and your life!
 
  
-**Illya**
+**Illya:**
 (Pant, pant)
 ...Hah...hah...
 
  
-**Illya**
+**Illya:**
 I-I won!?
 Ooohhh...
 
  
-**Chloe**
+**Chloe:**
 Illya!?
 
  
-**Illya**
+**Illya:**
 I-I'm fine.
 I'm just out of energy.
 
  
-**Mash**
+**Mash:**
 I didn't think we would really beat Gilgamesh...
 
  
@@ -1378,7 +1378,7 @@ I didn't think we would really beat Gilgamesh...
 **Fujimaru 1:**
 I believed in you, Illya.
  
-**Illya**
+**Illya:**
 Heh...hehe...
 Thank you, [♂ big brother /♀️ big sister} Fujimaru.
 
@@ -1389,7 +1389,7 @@ Thank you, [♂ big brother /♀️ big sister} Fujimaru.
 **Fujimaru 2:**
 I believed in you, Chloe.
  
-**Chloe**
+**Chloe:**
 See? I told you so.
 Illya's amazing when she gives her all.
 
@@ -1398,32 +1398,32 @@ Illya's amazing when she gives her all.
 
 ---
  
-**Ruby**
+**Ruby:**
 That was an amazing shot, Illya! It was every bit as powerful as you could be in your heyday!
 
  
-**Kid Gil**
+**Kid Gil:**
 It surpassed my expectations.
 Even I was a bit surprised.
 
  
-**Mash**
+**Mash:**
 Yes...indeed...
 
  
-**Kid Gil**
+**Kid Gil:**
 I suppose a girl's dream can truly take her to the stars. Ah, my apologies. That may have sounded a bit pretentious.
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Mash**
+**Mash:**
 ...Kid Gil?
 
  
-**Kid Gil**
+**Kid Gil:**
 Yes, I'm Kid Gil.
 
  
@@ -1441,50 +1441,50 @@ He shrunk!
 
 ---
  
-**Illya**
+**Illya:**
 Huh!? What happened to that shiny gold guy!?
 
  
-**Kid Gil**
+**Kid Gil:**
 Ah, I'm beat. I shouldn't be tampering with my own Spirit Origin when I'm not used to it.
 
  
-**Kid Gil**
+**Kid Gil:**
 I will not pretend to be an adult anymore. I was given the opportunity to manifest in this form, after all.
 
  
-**Illya**
+**Illya:**
 You pretended!?
 
  
-**Ruby**
+**Ruby:**
 He totally played us. That kind of intensity can't possibly be argued away as just a session of pretend.
 
  
-**Illya**
+**Illya:**
 And he's unscathed! I gave it my all,
 but it didn't even scratch him?
 
  
-**Chloe**
+**Chloe:**
 Now that you mention it, the chains binding me disappeared without me noticing.
 
  
-**Chloe**
+**Chloe:**
 Ugh! I don't believe it!
 I was played for a fool!
 
  
-**Kid Gil**
+**Kid Gil:**
 Now, now. Please give me some credit.
 See? Illya got stronger.
 
  
-**Mash**
+**Mash:**
 That... You're right. Her output was definitely exponentially higher for her final shot.
 
  
-**Illya**
+**Illya:**
 But...why?
 
  
@@ -1494,7 +1494,7 @@ But...why?
 **Fujimaru 1:**
 She did it for Chloe.
  
-**Chloe**
+**Chloe:**
 Eh?
 For me?
 
@@ -1505,7 +1505,7 @@ For me?
 **Fujimaru 2:**
 Her mind was made up.
  
-**Illya**
+**Illya:**
 Um...what do you mean?
 
  
@@ -1513,176 +1513,176 @@ Um...what do you mean?
 
 ---
  
-**Kid Gil**
+**Kid Gil:**
 Master seems to understand.
 
  
-**Kid Gil**
+**Kid Gil:**
 The reason Illya's output was so-so was because she never had a real reason to unleash her power.
 
  
-**Kid Gil**
+**Kid Gil:**
 She's not a hero, so she doesn't have a mission, honor, or pride... Without a defined cause, nobody can get stronger.
 
  
-**Kid Gil**
+**Kid Gil:**
 Why does she want to have power?
 For what purpose does she wield her power?
 
  
-**Kid Gil**
+**Kid Gil:**
 I just pushed her so she could remember, with that awful bit of theater.
 
  
-**Mash**
+**Mash:**
 So Illya wielded her power just now...
 
  
-**Illya**
+**Illya:**
 To...save Chloe...
 
  
-**Ruby**
+**Ruby:**
 Now that you mention it, she was strong that one time because she wanted to save the person most dear to her, Miyu. (Touched)
 
  
-**Illya**
+**Illya:**
 I get it...
 I didn't want to get stronger...
 
  
-**Illya**
+**Illya:**
 I wanted to be able to protect the people I care about.
 
  
-**Mash**
+**Mash:**
 If protecting someone special is what gives Illya strength...
 
  
-**Mash**
+**Mash:**
 ...That is a wonderful power.
 
  
-**Kid Gil**
+**Kid Gil:**
 Simply measuring your power against Chloe's doesn't suit you.
 
  
-**Kid Gil**
+**Kid Gil:**
 Your conviction and your heart must be pure and sincere... They must be beautiful, like a single flower blooming in an empty field.
 
  
-**Kid Gil**
+**Kid Gil:**
 Please never forget that.
 
  
-**Illya**
+**Illya:**
 Yep...
 Thank you, Kid Gil!
 
  
-**Illya**
+**Illya:**
 You're a different Kid Gil than the one I know...but you are still you!
 
  
-**Chloe**
+**Chloe:**
 (Sigh) Kid Gil ended up stealing the show.
 
  
-**Chloe**
+**Chloe:**
 But I did a lot for Illya.
 
  
-**Mash**
+**Mash:**
 Though I did question whether the Magnificent Strengtheners were really necessary...
 
  
-**Mash**
+**Mash:**
 Though in the end, Illya's Noble Phantasm was strengthened, so all's well that ends well.
 
  
-**Kid Gil**
+**Kid Gil:**
 But it still isn't strong enough to beat Ea!
 
  
-**Illya**
+**Illya:**
 Is that really what's important right now!?
 
  
-**Kid Gil**
+**Kid Gil:**
 If this was your true power, then way back, when I lost to you, I must have really been playing around!
 
  
-**Illya**
+**Illya:**
 Wow, he complimented AND dissed me in the same breath!
 
  
-**Ruby**
+**Ruby:**
 He may be small, but he's still the King of Heroes! I guess that difficult personality of his sticks around even after he grows up.
 
  
-**Illya**
+**Illya:**
 Argh. Honestly...
 
  
-**Illya**
+**Illya:**
 Say...what...you want...
 
  
-**Mash**
+**Mash:**
 Illya!?
 Are you all right?
 
  
-**Illya**
+**Illya:**
 Every...single...limb hurts like it's about to fall off...and I'm sooooooooo tiiiiiired...!
 
  
-**Mash**
+**Mash:**
 Oh.
 
  
-**Chloe**
+**Chloe:**
 I guess that doesn't change, does it.
 
  
-**Illya**
+**Illya:**
 Ungh... Chloe...take me to my room...
 
  
-**Illya**
+**Illya:**
 Zzzzzz...
 
  
-**Chloe**
+**Chloe:**
 And she fell asleep!
 
  
-**Chloe**
+**Chloe:**
 Honestly.
 My little sister's such a handful.
 
  
-**Chloe**
+**Chloe:**
 Heave-ho.
 
  
-**Illya**
+**Illya:**
 Chloe...
 
  
-**Chloe**
+**Chloe:**
 Hm?
 
  
-**Illya**
+**Illya:**
 I'll protect you...always...
 
  
-**Chloe**
+**Chloe:**
 ...
 
  
-**Chloe**
+**Chloe:**
 ...Yeah, yeah...big sister...
 
 

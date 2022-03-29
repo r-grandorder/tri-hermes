@@ -2,22 +2,22 @@
 
 ## May Good Deeds Be Protected
 
-**Gawain**
+**Gawain:**
 We've completed our daily training in the simulator.
 Good work, Fujimaru.
 
  
-**Gawain**
+**Gawain:**
 Tireless effort each day is the key to success.
 You seem to know that very well.
 
  
-**Gawain**
+**Gawain:**
 As your retainer,
 I must also strive to&ndash;Hm?
 
  
-**Gawain**
+**Gawain:**
 This is...what could this be? If I'm not mistaken,
 this looks like a tag for a writ of seizure.
 
@@ -35,31 +35,31 @@ The latch for the item carrier is unlocked.
 ---
  
  
-**Gawain**
+**Gawain:**
 There appears to be a note.
 Let's see...
 
  
-**Gawain**
+**Gawain:**
 “-Notice of Collections- Repayment for the   borrowed Ascension materials is overdue.”
 
  
-**Gawain**
+**Gawain:**
 “Therefore, under the terms of the loan as agreed upon,
   we have seized all items from your possession as   repayment with the appropriate and agreed upon   interest stipulated in the loan document.”
 
  
-**Gawain**
+**Gawain:**
 “Yours in security, experience, and...love.
   Like a great neighbor, Caesar Co. is there.”
 
  
-**Gawain**
+**Gawain:**
 I feel faint...
 I can only hope I'm not reading this right...
 
  
-**Gawain**
+**Gawain:**
 Fujimaru.
 Is what this flier says true?
 
@@ -77,12 +77,12 @@ Honestly, it kinda got pushed on me...
 ---
  
  
-**Gawain**
+**Gawain:**
 Why didn't you refuse...
 Surely you know that nothing in life is free?
 
  
-**Gawain**
+**Gawain:**
 Well, there's no use lamenting what is past.
 When did this happen, Fujimaru?
 
@@ -100,7 +100,7 @@ Don't remember...it was so long ago.
 ---
 
  
-**Gawain**
+**Gawain:**
 This course of action is so obviously corrupt... Simply absconding with the goods without so much as a letter of intent or warning...
 
  
@@ -118,12 +118,12 @@ But I didn't have much to take in the first place.
  
 
  
-**Gawain**
+**Gawain:**
 Not much to take?
 But there's a receipt here... (Gasp!)
 
  
-**Gawain**
+**Gawain:**
 It's! Not! Here! The materials I brought to commemorate your summoning me...are gone...!
 
  
@@ -135,23 +135,23 @@ Y-you brought...what?
 
 ---
  
-**Gawain**
+**Gawain:**
 What a silly thing to ask... Tribute for my liege lord, of course. Since you are the one taking care of me, it seemed the only sensible and proper thing to do.
 
  
-**Gawain**
+**Gawain:**
 Eh? Nobody does that? Everyone just comes empty-handed? ...Honestly, it seems no one has a real sense of what it is to be a hero anymore...
 
  
-**Gawain**
+**Gawain:**
 At any rate, let me list off what I brought you:
 
  
-**Gawain**
+**Gawain:**
 Four Octuplet Crystals, ten Hearts of the Foreign God, two Great Knight Medals, twenty Evil Bones, ten Forbidden Pages, and ten Seeds of Yggdrasil!
 
  
-**Gawain**
+**Gawain:**
 The “Triple Sunny Recommended Set” has been taken!
 This is a catastrophe!
 
@@ -161,7 +161,7 @@ This is a catastrophe!
 **Fujimaru 1:**
 The Knights of the Round Table are awfully generous, huh?
  
-**Gawain**
+**Gawain:**
 Of course. To be an asset, not a burden,
 to one's lord is the hallmark of a great knight.
 
@@ -171,55 +171,55 @@ to one's lord is the hallmark of a great knight.
 **Fujimaru 2:**
 What a well-rounded set of materials.
  
-**Gawain**
+**Gawain:**
 Of course. I thought materials like Evil Bones were unnecessary, but Gareth insisted that you would love them...
 
  
 
 ---
  
-**Gawain**
+**Gawain:**
 Well, now's not the time to go over the contents of my gift!
 
  
-**Gawain**
+**Gawain:**
 For a Servant to steal from his Master is a thing unheard of!
 
  
-**Gawain**
+**Gawain:**
 In the name of the sun,
 I shall bring this evil Caesar to justice!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Caesar**
+**Caesar:**
 Ack! Why are you attacking me without any kind of warning!?
 
  
-**Gawain**
+**Gawain:**
 Pardon me. I simply decided it would be most expedient to skip the annoying explanations of your crimes.
 
  
-**Gawain**
+**Gawain:**
 And it appears the collection notice was destroyed in our battle.
 
  
-**Gawain**
+**Gawain:**
 An unfortunate occurrence, but you will simply have to accept your fat&ndash;
 
  
-**Caesar**
+**Caesar:**
 No, no. What you received earlier was only a copy.
 The original, you see, was carefully stored in my bosom!
 
  
-**Gawain**
+**Gawain:**
  
 ACCEPT YOUR FAAATE!!!
 
  
-**Caesar**
+**Caesar:**
 Gwaaaaaahhh!!!
 
  
@@ -236,15 +236,15 @@ Wasn't that a bit...much for him?
 ---
  
  
-**Gawain**
+**Gawain:**
 Please do not fret. I collected your materials before I burnt that blackguard to cinders.
 
  
-**Gawain**
+**Gawain:**
 Eight million QP and one Forbidden Page...?
 
  
-**Gawain**
+**Gawain:**
 Strange...
 That isn't right...
 
@@ -262,21 +262,21 @@ Does that mean he's already sold everything?
 ---
 
  
-**Gawain**
+**Gawain:**
 I see...so this QP is the proceeds...!
 Wonderful deduction, Fujimaru!
 
  
-**Gawain**
+**Gawain:**
 Hey, you, burning man!
 To whom did you sell those materials?
 
  
-**Caesar**
+**Caesar:**
 Heh...hehehehe... You think I'd just give out my customers' private information so easily?
 
  
-**Caesar**
+**Caesar:**
 I have my pride as a businessman,
 young leader of the Britain Group.
 
@@ -294,11 +294,11 @@ Wait, you're what now? Uh, since when? Why?
 ---
  
  
-**Caesar**
+**Caesar:**
 Heh heh... I never imagined I of all people could be so possessed by such low greed...
 
  
-**Caesar**
+**Caesar:**
 Perhaps I erred in trying to go big in order not to be outdone by the David Credit Union...ungh...
 
  
@@ -315,23 +315,23 @@ You'll throw Chaldea's economy into chaos!
 ---
  
  
-**Gawain**
+**Gawain:**
 So Caesar Holdings was also a victim of greed...but that doesn't matter.
 
  
-**Gawain**
+**Gawain:**
 Fujimaru, I see some records of transactions for the past few days.
 
  
-**Gawain**
+**Gawain:**
 By tracing these transactions, we should be able to locate the materials. Do not think of me as nothing more than a wielder of a sacred sword.
 
  
-**Gawain**
+**Gawain:**
 Investigation is a matter of legwork. Crime must be punished. Wives should be young. These are the basics of being a knight!
 
  
-**Gawain**
+**Gawain:**
 Master. Will you allow me to continue spearheading this investigation?
 
  
@@ -340,12 +340,12 @@ Master. Will you allow me to continue spearheading this investigation?
 **Fujimaru 1:**
 We probably need to reexamine those “basics.”
  
-**Gawain**
+**Gawain:**
 Hahaha, that's what it means to be a land owner.
 I was always busy with odd tasks back in the day.
 
  
-**Gawain**
+**Gawain:**
 I have also heard that there was a rather uninhibited shogun in Japan who concealed his identity and took to the streets to fight crime.
 
  
@@ -354,7 +354,7 @@ I have also heard that there was a rather uninhibited shogun in Japan who concea
 **Fujimaru 2:**
 What about the David Credit Union?
  
-**Gawain**
+**Gawain:**
 We will raid them in due course.
 For now, let's concentrate on retrieving those materials.
 
@@ -362,39 +362,39 @@ For now, let's concentrate on retrieving those materials.
 
 ---
  
-**Gawain**
+**Gawain:**
 Now that that's settled,
 let's take a look at this list.
 
  
-**Gawain**
+**Gawain:**
 Knowingly purchasing stolen goods is a crime as well!
 We shall punish these purchasers!
 
  
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mordred**
+**Mordred:**
 Hot! Hot, hot! Damn you, Gawain!
 
  
-**Mordred**
+**Mordred:**
 Attacking me during the day... Coward! If you're a true knight, then spring a surprise attack at night, fair and square!
 
  
-**Gawain**
+**Gawain:**
 A thoughtless imbecile deserves a harsh punishment. Especially when they are a family member.
 
  
-**Gawain**
+**Gawain:**
 Honestly... I didn't expect you to be someone who would have bought these stolen goods. I am not Sir Tristan, but I must say that this saddens me.
 
  
-**Gawain**
+**Gawain:**
 I can overlook your boorish manners, but I never thought that even you would stoop so low as to purchase stolen goods.
 
  
-**Mordred**
+**Mordred:**
 I didn't STOOP!!!
 I paid for that stuff fair and square!
 
@@ -407,42 +407,42 @@ Why did you do business with Caesar Holdings?
 
 ---
  
-**Mordred**
+**Mordred:**
 'Course I'd get involved.
 I'm Mordred, the great king-killer!
 
  
-**Mordred**
+**Mordred:**
 When I sit the throne, I'll need a trusted minister.
 You know, like a minister of finance.
 
  
-**Mordred**
+**Mordred:**
 I had to fire that cheap-ass Agravain,
 and I wanted someone rich in his place...
 
  
-**Mordred**
+**Mordred:**
 And y'know, that Caesar guy's pretty hefty. Looks like a guy who never misses a meal, so he must be rich!
 
  
-**Gawain**
+**Gawain:**
 Well, you must disassociate yourself from that gluttonous Roman aristocrat! You've been summoned in modern times, so you should be eating vegetables! Potatoes!
 
  
-**Mordred**
+**Mordred:**
 Well, okay, yeah... I guess you've kinda got him pegged, but...I don't get you!
 
  
-**Gawain**
+**Gawain:**
 No, you must understand. As penance, you will eat only from a menu I specially design for one full month!
 
  
-**Gawain**
+**Gawain:**
 First of all, ketchup is not a vegetable, so you may not have it. You may consume only potatoes.
 
  
-**Mordred**
+**Mordred:**
 ...What the hell...
 Everyone in my family is freakin' nuts!
 
@@ -452,7 +452,7 @@ Everyone in my family is freakin' nuts!
 **Fujimaru 1:**
 It's for your own good, Mordred.
  
-**Mordred**
+**Mordred:**
 I know that, but...Gawain's always trying to play at being a big brother when no one else from the Round Table is around...
 
  
@@ -464,21 +464,21 @@ We're taking the materials.
 ---
  
  
-**Gawain**
+**Gawain:**
 Yes, let's collect the materials, Master. Let's see, two Octuplet Crystals... We're still missing two.
 
  
-**Gawain**
+**Gawain:**
 So they've been used... Well, I'll let that slide.
 Oh? Are we also missing a Great Knight Medal...?
 
  
-**Gawain**
+**Gawain:**
 What is the meaning of this, Mordred?
 So far as I know, you have no use for that catalyst.
 
  
-**Mordred**
+**Mordred:**
 Yeah, I don't use it, but I want it!
 Don't you get it!?
 
@@ -488,7 +488,7 @@ Don't you get it!?
 **Fujimaru 1:**
 ...You want it as a keepsake, right?
  
-**Mordred**
+**Mordred:**
 Y-yeah. It's not about showing off or anything like that... But I thought I could have at least one...
 
  
@@ -497,62 +497,62 @@ Y-yeah. It's not about showing off or anything like that... But I thought I coul
 **Fujimaru 2:**
 Come on, a king wouldn't need a medal to prove themselves...
  
-**Mordred**
+**Mordred:**
 You're right! Come to think of it,
 I'm the one who should be GIVING those out!
 
  
-**Mordred**
+**Mordred:**
 So...it's fine. Even if I don't have any Great Knight Medals left to hand out. Not like I care or anything...
 
  
 
 ---
  
-**Gawain**
+**Gawain:**
 ...Honestly.
 What are we going to do with you?
 
  
-**Gawain**
+**Gawain:**
 Much as I desperately desire the medals,
 I will take only one.
 
  
-**Gawain**
+**Gawain:**
 Now, let us move on to our next materials to recover. Next up: ten Hearts of the Foreign God.
 
  
-**Mordred**
+**Mordred:**
 Seriously!?
 I actually want THOSE more!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Gawain**
+**Gawain:**
 I-impossible...
 Only five Dragon Fangs!?
 
  
-**Siegfried**
+**Siegfried:**
 I am sorry.
 I am so very sorry...
 
  
-**Siegfried**
+**Siegfried:**
 I tried to stop her, but she insisted she really needed them, and then my Golden Rule got too powerful...
 
  
-**Brynhild**
+**Brynhild:**
 I'm sorry...Caesar asked me if my love was getting cold, and he suggested I cook something that would invigorate a husband.
 
  
-**Brynhild**
+**Brynhild:**
 And he said that making a stew with ten hearts would be just the thing...
 
  
-**Siegfried**
+**Siegfried:**
 Exactly... Ungh... It did bring my Golden Rule back to its peak when I was in my prime... (Burp)...
 
  
@@ -569,42 +569,42 @@ That sounds...not good...
 ---
 
  
-**Gawain**
+**Gawain:**
 If the material was used in a dish made by a loving wife for her husband, then I have no cause for anger.
 
  
-**Gawain**
+**Gawain:**
 It's a shame I lost the Hearts, but it's a small price to pay to reinforce a couple's love. The materials are yours to keep.
 
  
-**Brynhild**
+**Brynhild:**
 Oh...thank you very much...
 And I apologize. I misunderstood you...
 
  
-**Brynhild**
+**Brynhild:**
 Because...you are...you know, THAT, during the day...so I thought you had no interest in love.
 
  
-**Gawain**
+**Gawain:**
 No, I'm quite used to being seen as stuffy.
 Please, think nothing of it.
 
  
-**Gawain**
+**Gawain:**
 After all, I'm always with Sir Lancelot and Sir Tristan. Compared to those two, I must certainly seem rather boring.
 
  
-**Gawain**
+**Gawain:**
 Anyway, a loving couple is a good thing.
 I wish you two eternal happiness.
 
  
-**Siegfried**
+**Siegfried:**
 Um... I'm not...um...
 
  
-**Brynhild**
+**Brynhild:**
 Yes. Thank you, Sir Gawain.
 Ah, that carefree smile of yours... I am quite troubled...
 
@@ -622,17 +622,17 @@ Yeah, even if you're a pretend couple!
 ---
  
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Gawain**
+**Gawain:**
 ...Whew. It was a long journey, but we have managed to retrieve half of the stolen materials.
 
  
-**Gawain**
+**Gawain:**
 And yet, in a way, each and every person we encountered was a victim. Had I gone all-out, I would have brought many people to financial ruin...
 
  
-**Gawain**
+**Gawain:**
 It would seem the moment is mete to stop, lamentably.
 
  
@@ -641,15 +641,15 @@ It would seem the moment is mete to stop, lamentably.
 **Fujimaru 1:**
 We blazed through the second half...
  
-**Gawain**
+**Gawain:**
 Hahaha. Lady Cat is a force of nature. Let's just say that eating a few Evil Bones is part of her feral charm.
 
  
-**Gawain**
+**Gawain:**
 The remaining three, however, acted in a most evil and premeditated fashion. I had neither mercy nor sympathy for the likes of them.
 
  
-**Gawain**
+**Gawain:**
 And so my Galatine became the instrument of their punishment!
 
  
@@ -658,28 +658,28 @@ And so my Galatine became the instrument of their punishment!
 **Fujimaru 2:**
 You've got talent as a collections agent.
  
-**Gawain**
+**Gawain:**
 Hah! This was something of a first for me, but I am glad it went well.
 
  
-**Gawain**
+**Gawain:**
 I heed all cries for aid. A knight of my position is needed even outside of battle.
 
  
-**Gawain**
+**Gawain:**
 In short, I am a jack-of-all-trades.
 If you, Master, need anything, please let me know.
 
 ---
  
-**Gawain**
+**Gawain:**
 Anyway, the case is closed.
 
  
-**Gawain**
+**Gawain:**
 I have fewer materials than when we began, but I will simply have to collect them again.
 
  
-**Gawain**
+**Gawain:**
 Our fight continues. With you, even our daily training is a joyous task, Master.
 

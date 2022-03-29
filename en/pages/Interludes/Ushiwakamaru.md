@@ -2,7 +2,7 @@
 
 <h2>Love is Not Free</h2>
 
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Yawn... Good morning Master!
 What's wrong?
 
@@ -17,64 +17,64 @@ Where are we?
 
 ---
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Now that you mention it... That is strange.
 Did the Rayshift fail?
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Where are Mash and Fou?
 
  
-**Mash**
+**Mash:**
 Over here.
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Mash, Fou!
 I'm glad you're safe!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Are you hurt?
 If something happened to you, Master would be sad.
 
  
-**Fou**
+**Fou:**
 Nnn, kyu.
 
  
-**Mash**
+**Mash:**
 I'm fine.
 
  
-**Mash**
+**Mash:**
 ...It seems there was an accident during Rayshift.
 Please wait while I ask the Doctor to bring us back.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Sorry everybody. I don't know what happened, but I have your signals here.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 There's no data on where you jumped, but it's spatially stable.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Give me a minute.
 Once the repairs are done, I'll bring you back.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Understood! Master, I'll go look and make sure there's no danger!
 
  
-**Mash**
+**Mash:**
 Actually, we should stick together.
 Is that all right with you, Master?
 
@@ -95,78 +95,78 @@ Let's do that.
 
 ---
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Okay!
 
  
-**Mash**
+**Mash:**
 Master, Ushiwakamaru, watch yourselves.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I-I'm fine... Hyaaah!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I-I'm sorry. Thank you! I was raised by the Kurama Tengu and I still slipped...
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Still, this forest&ndash;
 It seems different than the one in my country.
 
  
-**Mash**
+**Mash:**
 That's right. From the look of that coast...
 Are we on a deserted island?
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 You're probably right, Mash.
 There's likely no land bridge.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 If we're trapped here, should we chop some wood and make a raft?
 
  
-**Mash**
+**Mash:**
 If we can Rayshift back, we probably won't need a raft.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Too bad.
 I'm quite good at chopping wood&ndash;
 
  
-**Mash**
+**Mash:**
 What's wrong?
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 &ndash;Be quiet.
 I sense an evil presence.
 
  
-**Mash**
+**Mash:**
 ...Me too.
 Fou, be quiet.
 
  
-**Fou**
+**Fou:**
 Kyu.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 ...
 S-Sorry.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Fou's so cute, I feel like my heart skipped a beat.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 The presence&ndash;is starting to approach.
 Master, shall we launch a surprise attack?
 
@@ -187,71 +187,71 @@ Got it.
 
 ---
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Right, I'll go around the side.
 Mash, you intercept them.
 
  
-**Mash**
+**Mash:**
 Wow... Her "Presence Concealment" is Assassin level.
 Let's do this, Master stand back.
 
  
-**Mash**
+**Mash:**
 ...Here they come!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I trapped them!
 Let's go!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Whew! That was good exercise!
 By the way, can we eat them?
 
  
-**Mash**
+**Mash:**
 Probably not a good idea to eat the Lamia...
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 A shame. If you carefully drain them of blood, snakes can be quite delicious.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I used to eat them all the time during war.
 
  
-**Mash**
+**Mash:**
 I-I see...
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 This island is pretty small, huh?
 Doesn't look like there's much to see.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 ...A bit of a shame, really.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, hello? It's the Doctor. It's going to take me a little longer to adjust the Rayshift.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's just refusing to stabilize...
 
  
-**Mash**
+**Mash:**
 Understood. ...I'm sorry.
 Looks like it will take a bit more time.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Anyway Master, I want to hear a story about you.
 
  
@@ -271,7 +271,7 @@ Why?
 
 ---
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Is it strange to want to know about one's Master?
 
  
@@ -291,34 +291,34 @@ I'm not interesting...
 
 ---
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 No, I want to learn about you, Master.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I might not be the best listener, but I'll try my hardest. So please, go ahead!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 ...I see, I see.
 Thank you, Master!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 ...Looks like the Rayshift's not ready yet.
 It's so quiet.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 ...
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Master, um...
 I have a question&ndash;
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Am I useful to you?
 
  
@@ -338,32 +338,32 @@ Obviously.
 
 ---
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I see. Glad to hear it. I...I'm used to people telling me they don't understand me.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 When I tell them I want to fight for someone else's sake, they all seem confused.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Is my reason that strange?
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I fought for my brother's sake, but he never believed me, even until the end.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 It's true that there were misunderstandings, but I never thought of hurting him even once&ndash;
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I'm not angry. It's just strange to me.
 Why can't people understand how I feel?
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I'm sorry. This isn't something I should be talking about with you.
 
  
@@ -383,115 +383,115 @@ I want to hear more.
 
 ---
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 ...You're a lot like Ise Yoshimori, you know?
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Oh, I don't mean that you look like him.
 He had a face like a wicked fox.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 But he was easy to talk to.
 About serious things, or just joking around.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 You have many Servants. But you take time to talk to them one-on-one&ndash;
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 It's a little embarrassing, but I'm very grateful.
 
  
-**Mash**
+**Mash:**
 Is it ready? Doctor?
 I think it's time for us to go back&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, sorry.
 I have bad news.
 
  
-**Mash**
+**Mash:**
 ...Go ahead with the bad news, Dr. Roman.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Just so we're clear, this isn't my fault, okay?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Until you can stabilize that area, even if you try to return, you'll just end up somewhere else.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The cause of the instability circles around the island. Any ideas?
 
  
-**Mash**
+**Mash:**
 Around the island?
 Could it be&ndash;that ship?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I thought it might be a ship... Yeah.
 I'm picking up magical energy coming from it.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Can you go there and remove the source of the instability?
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I think so.
 Let's jump aboard when it gets close.
 
  
-**Mash**
+**Mash:**
 A-At this distance?
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Mash, I once jumped across eight ships.
 This is nothing.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 ...I think it's about time. Mash, once I'm aboard I'll bring the ship close.
 
  
-**Mash**
+**Mash:**
 Understood.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Just watch me. Master, take this&ndash;
 "Dan-No-Ura Eight-Boat Leap!"&ndash;Here I go!
 
  
-**Mash**
+**Mash:**
 S-She jumped!
 She jumped over eight boats in length!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I did it! Okay guys, sorry!
 But I'm taking this boat to shore!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I promise I won't kill you&ndash;
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I won't kill you&ndash;
 Oh, no! They're already dead!
 
  
-**Mash**
+**Mash:**
 U-Um, Ushiwakamaru seems to be having a hard time!
 
  
@@ -511,70 +511,70 @@ She'll be fine.
 
 ---
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I'm getting this boat to shore&ndash;
 Tch, get out of my way!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Okay, got it! Mash!
 I'm turning the boat around!
 
  
-**Mash**
+**Mash:**
 It's getting closer.
 At this range I can do it too&ndash;!
 
  
-**Mash**
+**Mash:**
 Ushiwakamaru!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Oh, Mash!
 Sorry, it took me a while!
 
  
-**Mash**
+**Mash:**
 I see. It was a ghost ship!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 U-Um, Mash?
 
  
-**Mash**
+**Mash:**
 Yes?
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Was Master disappointed?
 It did take me a while...
 
  
-**Mash**
+**Mash:**
 ...Don't worry.
 Master believed in you.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I see!
 Okay, then nothing can stop me!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Come, you ghastly creatures!
 My name is Minamoto&ndash;No, Ushiwakamaru!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 As a Servant of Fujimaru,
 I shall defeat you!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Yup, that's most of them.
 Master! Master!
 
@@ -595,92 +595,92 @@ Good job!
 
 ---
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Mash!
 Master praised me!
 
  
-**Mash**
+**Mash:**
 I'm so happy for you, Ushiwakamaru!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Right!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hey guys, the readings from that ghost ship isn't totally gone.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 If you don't hurry up, you won't be able to come home.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Huh? Really?
 But&ndash;
 
  
-**Mash**
+**Mash:**
 I don't see anything else...
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 A mist? Rising from the bodies?
 
  
-**Mash**
+**Mash:**
 I see, the vengeful spirit driving the ship was the source of the instability!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 &ndash;Okay Mash, this time let's finish it.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Evil is destined to fall.
 Especially, wicked demons...
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Your grudge shall be slain by me
 &ndash;Ushiwakamaru!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Ushiwakamaru**
+**Ushiwakamaru:**
 I defeated them!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Okay, you all can come home now.
 Let me know when you're ready.
 
  
-**Mash**
+**Mash:**
 Understood.
 Let's meet with Master first.
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Master, I have slain the vengeful spirits!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 It's a shame you couldn't see me since we were fighting on the decks...
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 But next time, I promise to fight somewhere you can see!
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 And um...well.
 If you wouldn't mind...
 
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Oh, no...
 Never mind, I guess...
 
@@ -695,7 +695,7 @@ What is it?
 
 ---
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 D-Do you think you could maybe pat me on the head?
 I'd really like that.
 
@@ -710,7 +710,7 @@ Sure.
 
 ---
  
-**Ushiwakamaru**
+**Ushiwakamaru:**
 Thank you!
 
 

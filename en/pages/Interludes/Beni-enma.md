@@ -551,7 +551,7 @@ At any rate, I think that covers everything I needed to tell you before we begin
 **Fionn mac Cumhaill:**
 Standing by and letting Madam Beni fight this difficult battle alone would go against every principle I hold dear. Come, Master. What do you say we go poke our noses into her business?
 
-**--ARROW--**
+**--ARROW--:**
 
 ---
 
@@ -657,7 +657,7 @@ I'll handle the Lancer oni. Fionn mac Cumhaill, would you deal with the oni brin
 **Fionn mac Cumhaill:**
 Of course. All right, Master, let's see how well you can command all three of us!
 
-**--BATTLE--**
+**--BATTLE--:**
 
 ---
 
@@ -822,7 +822,7 @@ Chirp, I'll even go ahead and make a formal request. Would you lend a hand in ki
 Wha!? I asked you to stop me, not kill me!
 I'm not even gonna drop anything this time!
 
-**--BATTLE--**
+**--BATTLE--:**
 
 ---
 

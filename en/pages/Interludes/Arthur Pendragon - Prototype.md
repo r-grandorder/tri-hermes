@@ -2,431 +2,431 @@
 
 ## Still in Pursuit
 
-**Bradamante**
+**Bradamante:**
 Oh gosh, oh gosh, oh gosh, oh gosh!
 
  
-**Bradamante**
+**Bradamante:**
 Wh-wh-what do I do!? I never expected to run into another famous Knight of the Round Table!
 
  
-**Bradamante**
+**Bradamante:**
 It was just yesterday I resolved to always carry an autograph book with me in case I ran into more opportunities to collect signatures, too!
 
  
-**Bradamante**
+**Bradamante:**
 I can't believe I already failed so miserably!
 
  
-**Bedivere**
+**Bedivere:**
 Please be at ease, Lady Bradamante.
 
  
-**Bedivere**
+**Bedivere:**
 We serve the same Master now,
 so we can see one another whenever we like.
 
  
-**Bedivere**
+**Bedivere:**
 That said...I may technically be a Knight of the Round Table...
 
  
-**Bedivere**
+**Bedivere:**
 ...but I am not nearly as accomplished as the other knights, so...
 
  
-**Bedivere**
+**Bedivere:**
 Um... An autograph, you said?
 
  
-**Bedivere**
+**Bedivere:**
 I'm afraid I wouldn't feel right giving you one, so I must humbly decline.
 
  
-**Bradamante**
+**Bradamante:**
 Noooooo!
 
  
-**Bradamante**
+**Bradamante:**
 P-p-please don't say that! I-i-if I've offended you,
 then I beg your forgiveness!!!
 
  
-**Bradamante**
+**Bradamante:**
 Please, Sir Bedivere!
 
  
-**Bedivere**
+**Bedivere:**
 N-no, not at all!
 If anything, I'm the one who's been&ndash;
 
  
-**Bradamante**
+**Bradamante:**
 I'm so sorry!
 
  
-**Bedivere**
+**Bedivere:**
 Ah! P-please, don't be!
 
  
-**Bedivere**
+**Bedivere:**
 I promise I wasn't seeking an apology!
 Oh no, now I've gone and said all the wrong things!
 
  
-**Bedivere**
+**Bedivere:**
 ...!
 
  
-**Arthur**
+**Arthur:**
 Forgive me, Sir Bedivere.
 
  
-**Arthur**
+**Arthur:**
 I did not mean to eavesdrop,
 but I happened to be passing by.
 
  
-**Bedivere**
+**Bedivere:**
 My king!
 
  
-**Bedivere**
+**Bedivere:**
 Or rather, my king from another world.
 I, the unworthy Bedivere, am deeply ashamed.
 
  
-**Bedivere**
+**Bedivere:**
 I'm afraid I have been unspeakably rude to Lady Bradamante here, a paladin of the Kingdom of the Franks.
 
  
-**Bradamante**
+**Bradamante:**
 No, no! You haven't been anything of the sort, Sir Bedivere!
 
  
-**Bradamante**
+**Bradamante:**
 I should never have asked you for the impossible in the first place! O-oh, um...
 
  
-**Bradamante**
+**Bradamante:**
 May I ask who that is?
 
  
-**Bedivere**
+**Bedivere:**
 Ah, forgive me.
 
  
-**Bedivere**
+**Bedivere:**
 This is His Majesty Arthur Pendragon,
 Britain's King of Knights.
 
  
-**Bradamante**
+**Bradamante:**
 !!!
 
  
-**Bradamante**
+**Bradamante:**
 Arthur Pendragon, the King of Knights!?
 I-I-I-I-I can't believe it...!
 
  
-**Bradamante**
+**Bradamante:**
 Th-this is such a shock... S-so moving...and shocking!
 Although, um... Huh?
 
  
-**Bradamante**
+**Bradamante:**
 I've met the King of Knights here in Chaldea in various forms before, but...I don't recall any of them being...uh, male...
 
  
-**Bradamante**
+**Bradamante:**
 So...does this mean...
 Hmm...?
 
  
-**Bedivere**
+**Bedivere:**
 To elaborate, he is a being somewhat similar to myself.
 
  
-**Bedivere**
+**Bedivere:**
 He is something of a guest in this world, a figure who would normally never materialize as a Servant...
 
  
-**Bradamante**
+**Bradamante:**
 Whaaa...?
 
  
-**Arthur**
+**Arthur:**
 I would humbly suggest you think of me as a mere shadow from a dream, paladin Bradamante.
 
  
-**Arthur**
+**Arthur:**
 ...Sir Bedivere, I may not be your king,
 but I do have one word of advice.
 
  
-**Arthur**
+**Arthur:**
 There is no harm in giving her an autograph.
 Any King of Knights would say the same.
 
  
-**Bedivere**
+**Bedivere:**
 Yes, my king.
 
  
-**Bradamante**
+**Bradamante:**
 Then, does this mean I can have Sir Bedivere's autograph after all!? Hooray!
 
  
-**Bradamante**
+**Bradamante:**
 Oh! Uh, Sir King of Knights!?
 Could I ask you for your autograph as well!?
 
  
-**Arthur**
+**Arthur:**
 Now then, I think I shall take my leave.
 Good day, Lady Bradamante, Sir Bedivere.
 
  
-**Bedivere**
+**Bedivere:**
 Yes, my king.
 
  
-**Bradamante**
+**Bradamante:**
 Ah!
 Sir King of Knights...!
 
  
-**Bradamante**
+**Bradamante:**
 He's already gone...
 Nnn... Nnnnnn...
 
  
-**Gawain**
+**Gawain:**
 You wish to know more about King Arthur?
 
  
-**Gawain**
+**Gawain:**
 Hmm. We are indeed the Knights of the Round Table, but I am afraid we have had few opportunities to converse with him.
 
  
-**Gawain**
+**Gawain:**
 Though Sir Bedivere would seem to have had more chances than the rest of us.
 
  
-**Bradamante**
+**Bradamante:**
 I see, I see...
 
  
-**Sanzang**
+**Sanzang:**
 Hm? What's up?
 
  
-**Sanzang**
+**Sanzang:**
 Oh, the other Pendragon?
 Of course I've met him!
 
  
-**Sanzang**
+**Sanzang:**
 The Pendragon from Proper Human History's True Name is Altria Pendragon...
 
  
-**Sanzang**
+**Sanzang:**
 ...so in this case, um...
 I guess I should say his True Name is Arthur!
 
  
-**Sanzang**
+**Sanzang:**
 He's really mysterious, isn't he?
 There're so much I'd love to ask him!
 
  
-**Sanzang**
+**Sanzang:**
 You know, now that I think of it, I don't think I've ever sat down with him face-to-face. Not even to eat lunch!
 
  
-**Bradamante**
+**Bradamante:**
 Hmm, I see, I see...
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 He told us some lovely old legends. Didn't he, Jack?
 
  
-**Jack**
+**Jack:**
 Uh-huh. He's really nice. He doesn't get mad if we sit in his lap or climb on his back.
 
  
-**Jack**
+**Jack:**
 Although...
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Yeah. I know what you mean.
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 He always disappears whenever we take our eyes off him. I don't like that very much.
 
  
-**Bradamante**
+**Bradamante:**
 Hmmm...
 
  
-**Mordred**
+**Mordred:**
 Eh, my father, the one that's a guy? Hmm, I dunno.
 I don't think he means any harm.
 
  
-**Bradamante**
+**Bradamante:**
 I see...
 
  
-**Bradamante**
+**Bradamante:**
 I think so too! But I also get the feeling he's avoiding me for some reason!
 
  
-**Bradamante**
+**Bradamante:**
 So if there's something about me he dislikes,
 I need to find out what it is and fix it!
 
  
-**Mordred**
+**Mordred:**
 Oh yeah?
 
  
-**Bradamante**
+**Bradamante:**
 All that aside, um... Sir Mordred!
 
  
-**Mordred**
+**Mordred:**
 Yeah?
 
  
-**Bradamante**
+**Bradamante:**
 I know you're the ultimate villain in the legend of King Arthur!
 
  
-**Bradamante**
+**Bradamante:**
 But...you don't seem to be nearly as bad as I thought, now that I've met you.
 
  
-**Bradamante**
+**Bradamante:**
 Ah...
 
  
-**Mordred**
+**Mordred:**
 The hell'd you say to me?
 
  
-**Mordred**
+**Mordred:**
 Bahahahaha! Talk about bein' honest to a fault!
 I'm impressed!
 
  
-**Mordred**
+**Mordred:**
 You're all right, paladin of Charlemagne! Just make sure you don't slow us down by dyin' too soon, 'kay?
 
  
-**Jekyll**
+**Jekyll:**
 Is something wrong, Saber? Remember, Lady Murasaki asked you to keep your voice down in the library.
 
  
-**Jekyll**
+**Jekyll:**
 Hm?
 
  
-**Jekyll**
+**Jekyll:**
 Saber... Did you do something to this Heroic Spirit?
 
  
-**Mordred**
+**Mordred:**
 Nah, it's no biggie.
 
  
-**Mordred**
+**Mordred:**
 You know that version of my father who came here from another world? She's worried he's avoiding her.
 
  
-**Jekyll**
+**Jekyll:**
 Is that true?
 
  
-**Bradamante**
+**Bradamante:**
 Yes, that about sums it up...
 
  
-**Jekyll**
+**Jekyll:**
 Hmm...
 
  
-**Jekyll**
+**Jekyll:**
 ...If it helps, he's like that with everyone. The only one he talks to with any regularity is Sir Bedivere.
 
  
-**Jekyll**
+**Jekyll:**
 He'll respond to the situation if needed, but I don't think I've ever seen him engage with anyone on his own initiative.
 
  
-**Jekyll**
+**Jekyll:**
 Not even when dealing with Servants he knew in past Holy Grail Wars.
 
  
-**Mordred**
+**Mordred:**
 ...
 ...
 
  
-**Jekyll**
+**Jekyll:**
 I'm one of them. He and I once fought each other, though in a place and time very different from this.
 
  
-**Jekyll**
+**Jekyll:**
 However, I do not retain a clear memory of that battle...
 
  
-**Bradamante**
+**Bradamante:**
 Nnn... Nnnnnn...
 
  
-**Bradamante**
+**Bradamante:**
 I thought I heard that Servants don't usually remember their past materializations...
 
  
-**Bradamante**
+**Bradamante:**
 Hmm...?
 
  
-**Jekyll**
+**Jekyll:**
 Chaldea's summoning system is a little unusual in that regard. Every now and then, it summons a Heroic Spirit who remembers their past materializations...or so I'm told.
 
  
-**Jekyll**
+**Jekyll:**
 Unfortunately, I'm not one of them. It's all I can do to barely recall bits and pieces of my own past.
 
  
-**Jekyll**
+**Jekyll:**
 Those kinds of memories also affect my Spirit Origin's stability, so...
 
  
-**Bradamante**
+**Bradamante:**
 Huh?
 
  
-**Jekyll**
+**Jekyll:**
 Sorry, I didn't mean to ramble there.
 
  
-**Jekyll**
+**Jekyll:**
 At any rate, Arthur Pendragon tends to keep his distance from just about everyone.
 
  
-**Jekyll**
+**Jekyll:**
 So please don't worry about it.
 I'm sure it's nothing personal.
 
  
-**Hassan of the Serenity**
+**Hassan of the Serenity:**
 ...And that's all I saw.
 
  
@@ -435,7 +435,7 @@ I'm sure it's nothing personal.
 **Fujimaru 1:**
 Thanks!
  
-**Hassan of the Serenity**
+**Hassan of the Serenity:**
 I-it was nothing, really.
 I just happened to be in the right place at the right time.
 
@@ -446,13 +446,13 @@ I just happened to be in the right place at the right time.
 I see. Arthur, huh...
 
  
-**Hassan of the Serenity**
+**Hassan of the Serenity:**
 Yes. I saw him in the underground library.
 
  
 ---
  
-**Hassan of the Serenity**
+**Hassan of the Serenity:**
 I just thought you should know.
 I, um, hope I didn't overstep my bounds...
 
@@ -466,37 +466,37 @@ Not at all. I appreciate this!
  
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 So that's the scoop, huh.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 The former leader of the Knights of the Round Table, wielder of the sacred sword, is now Chaldea's lonesome King of Knights...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I don't know what he's so worried about.
 Who cares if he's from a different world or not?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Heroic Spirits are supposed to be...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...
 ...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 ...Ah, well, you know.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I'm not sure if we can really call him a proper Heroic Spirit or not, so...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Hmm, yeah, I guess that'd be tough for him.
 
  
@@ -514,11 +514,11 @@ Do you know what's going on with him?
  
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Haha.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 What do you think?
 
  
@@ -527,7 +527,7 @@ What do you think?
 **Fujimaru 1:**
 Don't change the subject!
  
-**Cú Chulainn**
+**Cú Chulainn:**
 You're right. My bad.
 
  
@@ -536,30 +536,30 @@ You're right. My bad.
 **Fujimaru 2:**
 Is this one of those things where you know but can't say?
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Yeah, pretty much.
 You're a sharp one, aren't you, Master?
 
 ---
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Until and unless he says something, it's not my place to talk about it. Especially when I don't even know for sure.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Why don'tcha just go talk to him about it?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Maybe it'll turn out that he wasn't avoiding anyone, and this was all just a big misunderstanding.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Go on and find out. Who cares whether he's inscribed in the Throne or not?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 He's still a Servant you formed a contract with.
 If you call for him, I'm sure he'll show up.
 
@@ -573,32 +573,32 @@ If you call for him, I'm sure he'll show up.
  
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Right on. Guess I'll go round up some of the family then...
 
  
-**Arash**
+**Arash:**
 Hahahaha! Sure is taking him a while!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Never would've thought he'd choose Ganryu Island.
 Well, I figure he'll show up eventually.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Say, where's the pharaoh at, hero guy?
 
  
-**Arash**
+**Arash:**
 Oh, he's not coming.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Well, that was blunt...
 
  
-**Arash**
+**Arash:**
 Said something like “This errand is hardly a matter worthy of my time!” Sorry, Master. You know how he is.
 
  
@@ -607,7 +607,7 @@ Said something like “This errand is hardly a matter worthy of my time!” Sorr
 **Fujimaru 1:**
 Oh yes. All too well...
  
-**Arash**
+**Arash:**
 Haha, I knew you would. Anyway, just 'cause he's not here now doesn't mean he might not show up later.
 
  
@@ -617,74 +617,74 @@ Haha, I knew you would. Anyway, just 'cause he's not here now doesn't mean he mi
 That's okay. Thanks for trying, Arash.
 
  
-**Arash**
+**Arash:**
 No problem!
 
 ---
 
  
-**Mordred**
+**Mordred:**
 Can I go home now? If I ain't gonna get a chance to fight my actual man old man, there's no point in me sticking around.
 
  
-**Jekyll**
+**Jekyll:**
 We're not here to fight him, Saber.
 
  
-**Jekyll**
+**Jekyll:**
 We just thought it would be easier for him to open up to Master if there were other Servants with a strong connection to him here.
 
  
-**Jekyll**
+**Jekyll:**
 He might tend to keep to himself at Chaldea, but there have been points in the past where he's initiated contact with other Servants.
 
  
-**Jekyll**
+**Jekyll:**
 Specifically, the ones he fought against in 1991 and 1999...
 
  
-**Jekyll**
+**Jekyll:**
 ...during the two Holy Grail Wars that took place in a different world.
 
  
-**Mordred**
+**Mordred:**
 Oh, I get it. Mordred doesn't get to have any fun...
 
  
-**Jekyll**
+**Jekyll:**
 No, no, Saber, it's not about that...
 
  
-**Arash**
+**Arash:**
 Haha. Don't worry about it, Doc.
 
  
-**Arash**
+**Arash:**
 Mordred's King Arthur's kid, right? Even if these two are from different worlds, they're not total strangers.
 
  
-**Mordred**
+**Mordred:**
 What he said, Doc.
 
  
-**Jekyll**
+**Jekyll:**
 Doc...
 
  
-**Arash**
+**Arash:**
 Anyway, what about you? Your Spirit Origin isn't exactly, uh, what it used to be, right...?
 
  
-**Jekyll**
+**Jekyll:**
 ...So you could tell. You're perceptive as always.
 
  
-**Jekyll**
+**Jekyll:**
 True, my Spirit Origin is still unstable.
 But I also know I'll be fine as long as I'm not alone.
 
  
-**Jekyll**
+**Jekyll:**
 If nothing else, I can maintain my mental state even if my body changes with my Noble Phantasm.
 
  
@@ -702,24 +702,24 @@ We should have tea sometime, Jekyll.
  
 
  
-**Jekyll**
+**Jekyll:**
 I would love that.
 
  
-**Jekyll**
+**Jekyll:**
 Although...I should warn you that my Spirit Origin tends to waver when it's just us.
 But as long as Lady Kyrielight&ndash;
 
  
-**Hassan of the Serenity**
+**Hassan of the Serenity:**
 ...Master.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Right. Sorry to cut you guys off, but it looks like the man of the hour's finally arrived.
 
  
-**Arthur**
+**Arthur:**
 ...I see the gang's all here, Master.
 
  
@@ -728,7 +728,7 @@ Right. Sorry to cut you guys off, but it looks like the man of the hour's finall
 **Fujimaru 1:**
 I thought having them around would make it easier to talk.
  
-**Arthur**
+**Arthur:**
 I see.
 You may be right about that.
 
@@ -739,53 +739,53 @@ You may be right about that.
 Would you rather it was just us?
 
  
-**Arthur**
+**Arthur:**
 I'm not sure.
 I might end up dodging your questions if it was.
 
 ---
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Just so you know, we're not here to make trouble for you or anything. Not unless Master gives the okay, and we all know that's not the sort of [♂ guy he /♀️ gal she] is.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I'm just gonna get straight to the point.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 You're avoiding everyone at Chaldea, aren't you,
 King of Knights? It's pretty damn obvious.
 
  
-**Arthur**
+**Arthur:**
 ...Yes, I am.
 
  
-**Arthur**
+**Arthur:**
 I've been doing my best not to interact with anyone more than strictly necessary.
 
  
-**Arthur**
+**Arthur:**
 All the more so when it comes to beings with deep ties to this world.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Well, that's awfully straightforward of you.
 
  
-**Arthur**
+**Arthur:**
 It was never my intention to hide anything.
 I simply never brought it up of my own accord.
 
  
-**Arthur**
+**Arthur:**
 But if I've caused you to worry by doing so,
 Master, I will always be happy to apologize.
 
  
-**Arthur**
+**Arthur:**
 I would never want to worry you.
 
  
@@ -803,47 +803,47 @@ It's okay. I'm not looking for an apology.
  
 
  
-**Arthur**
+**Arthur:**
 ...I do not belong in this world.
 
  
-**Arthur**
+**Arthur:**
 I am but a traveler who came from a faraway land in pursuit of a single, specific goal.
 
  
-**Arthur**
+**Arthur:**
 Of course, I am happy to help you, Master. If my sword can help save this planet and bring it a new tomorrow, then I will gladly lend it to your cause.
 
  
-**Arthur**
+**Arthur:**
 I will never betray you, and I will continue to fight as the modern-day wielder of the sacred sword.
 
  
-**Arthur**
+**Arthur:**
 That said...I came here to eradicate evil before it has a chance to spread in the future.
 
  
-**Arthur**
+**Arthur:**
 Once my work here is done, I expect I will be sent back to my own world.
 
  
-**Arthur**
+**Arthur:**
 Therefore&ndash;
 
  
-**Arash**
+**Arash:**
 Hold up!
 
  
-**Arash**
+**Arash:**
 Just relax a bit, would you? I could've sworn you were a little more laid back in 1999.
 
  
-**Arash**
+**Arash:**
 I get that you're here on a mission, but there's no law that says travelers can't make friends.
 
  
-**Arash**
+**Arash:**
 Right, Master?
 
  
@@ -856,7 +856,7 @@ Right.
  
 
  
-**Arthur**
+**Arthur:**
 ...
 ...
 
@@ -875,140 +875,140 @@ So come on, have some fun with us!
  
 
  
-**Arthur**
+**Arthur:**
 ...Fujimaru.
 
  
-**Arthur**
+**Arthur:**
 You may well be right.
 But even so...
 
  
-**Arthur**
+**Arthur:**
 ...I want to leave as few traces of myself in this world as possible. You see, I had a premonition of sorts that&ndash;
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I can tell you're still not being straight with us.
 
  
-**Mordred**
+**Mordred:**
 Hell no he ain't. Just shut up already, old man!
 There's nothing to talk about!
 
  
-**Mordred**
+**Mordred:**
 If he won't listen to reason, then I guess I get to&ndash;er, have to beat some into him!
 
  
-**Jekyll**
+**Jekyll:**
 Saber&ndash;
 
  
-**Mordred**
+**Mordred:**
 You stay out of this.
 
  
-**Mordred**
+**Mordred:**
 Y'know, I just remembered something.
 I've still gotta pay you back for that one time!
 
  
-**Fran**
+**Fran:**
 Uh...
 
  
-**Mordred**
+**Mordred:**
 You feel like cake?
 
  
-**Mordred**
+**Mordred:**
 Cake sounds good.
 And hey, I think Cat and Boudica were just makin' some.
 
  
-**Mordred**
+**Mordred:**
 Let's go get ourselves a slice!
 
  
-**Fran**
+**Fran:**
 Uh!
 
  
-**Mordred**
+**Mordred:**
 Right on.
 ...Oh hey, if it isn't my male father!
 
  
-**Mordred**
+**Mordred:**
 Yo, pops!
 Let's go get us some cake!
 
  
-**Mordred**
+**Mordred:**
 Hm? That's weird. He just not hear me or something...?
 
  
-**Fran**
+**Fran:**
 Uh...
 
  
-**Mordred**
+**Mordred:**
 What? 'Course it wasn't 'cause he didn't want to eat with you, Fran.
 
  
-**Mordred**
+**Mordred:**
 ...
 ...
 
  
-**Mordred**
+**Mordred:**
 You ran off without sayin' a word!
 
  
-**Mordred**
+**Mordred:**
 Not a damn word!!!
 
  
-**Mordred**
+**Mordred:**
 Who the hell just runs off without a word after giving the person inviting them for cake nothing but a funny look!?
 
  
-**Mordred**
+**Mordred:**
 That does it! Nobody does that to me!
 Especially not my old man!
 
  
-**Mordred**
+**Mordred:**
 I remember now! I knew I had a good reason to beat your ass!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Mordred's got a point, Arthur! No gentleman or knight should turn down an invite without at least giving a response!
 
  
-**Arash**
+**Arash:**
 Hahahaha, looks like you're outnumbered, Saber.
 What're you gonna do now?
 
  
-**Arthur**
+**Arthur:**
 What can I do?
 
  
-**Arthur**
+**Arthur:**
 You're right. I was rude to you back then. The least I can do now is face my punishment with some dignity.
 
  
-**Arthur**
+**Arthur:**
 Have at you, Mordred!
 
  
-**Mordred**
+**Mordred:**
 Now that's more like it! Let's go, Master! Don't worry, I'm not gonna kill him. I'm just gonna beat the everliving shit outta him!
 
  
-**Jekyll**
+**Jekyll:**
 But if you do that, you'll...! Oh, forget it!
 I'll just have to step in if things get out of hand!
 
@@ -1027,39 +1027,39 @@ Try to hold back, Mordred!
  
 
  
-**Mordred**
+**Mordred:**
 All right Clarent, it's been too long since I gave you a taste of your favorite blood! Let's fix that right now!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mordred**
+**Mordred:**
 Hah! Figures this version of you'd be tough too!
 
  
-**Mordred**
+**Mordred:**
 But at least I got a good one in for Fran! Didja see!?
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 I got a few good hits in too...but damn, you really are a tough bastard! Almost pisses me off how seasoned you are!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Don't hold back, Arash!
 We'll never pin him down unless we go all out!
 
  
-**Arash**
+**Arash:**
 I'm just doing the same thing I always do.
 That goes for you too, right, Missy?
 
  
-**Serenity**
+**Serenity:**
 I-I try not to get too involved with warrior types...
 
  
-**Jekyll**
+**Jekyll:**
 I'm glad I decided to sit this one out. Hyde might be able to keep up, but there's no way I could!
 
  
@@ -1077,28 +1077,28 @@ Everyone stand down! This battle is over!
  
 
  
-**Mordred**
+**Mordred:**
 Huh!? But we were just starting to have fun!
 
  
-**Arthur**
+**Arthur:**
 ...I suppose I'd best not push my luck,
 given my overwhelming disadvantage.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Ha! Looks like the Red Dragon of Britain's still confident enough to make wisecracks. Just don't forget, you're not the only one who knows his opponent's tricks.
 
  
-**Arthur**
+**Arthur:**
 Confident?
 
  
-**Arthur**
+**Arthur:**
 No. That's impossible. There is never a time nor a place when I do not consider myself to be on the battlefield.
 
  
-**Arthur**
+**Arthur:**
 ...
 ...
 
@@ -1117,24 +1117,24 @@ That must mean you never get to enjoy a moment's peace.
  
 
  
-**Arthur**
+**Arthur:**
 I...
 
  
-**Arthur**
+**Arthur:**
 Khh! This powerful magical energy pouring down from the sky... Is that&ndash;
 
  
-**Ozymandias**
+**Ozymandias:**
 Hahahahahahahahahahahahahahahahahaha!
 Hahahahaha! Behold the descent of the sun!
 
  
-**Ozymandias**
+**Ozymandias:**
 I was told that vengeance was to be had upon a certain insolent wielder of the sacred sword, so I have come to lend my aid!
 
  
-**Ozymandias**
+**Ozymandias:**
 Hmm, it would seem that my way is blocked by rabble! This must be remedied! I shall begin by clearing the field!
 
  
@@ -1152,113 +1152,113 @@ H-hey, watch it! This is seriously dangerous!
  
 
  
-**Serenity**
+**Serenity:**
 Master! This way!
 
  
-**Serenity**
+**Serenity:**
 I'll take you somewhere safe&ndash;
 
  
-**Arash**
+**Arash:**
 Missy, behind you!
 
  
-**Serenity**
+**Serenity:**
 Huh!?
 
  
-**Serenity**
+**Serenity:**
 A-a Sphinx!?
 
  
-**Jekyll**
+**Jekyll:**
 More powerful magical energy readings are right behind it! Saber, keep Master safe!
 
  
-**Arthur**
+**Arthur:**
 ...Was he just talking to you?
 
  
-**Mordred**
+**Mordred:**
 Shut your damn mouth!
 
  
-**Mordred**
+**Mordred:**
 We can get back to our tussle later! If you got time to act cool, then you got time to protect Master!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Well, whaddaya know.
 He was the first in line to keep Master safe.
 
  
-**Arash**
+**Arash:**
 Of course. That's just the kind of guy he is.
 
  
-**Arash**
+**Arash:**
 Even when he was fighting us,
 he always kept one eye on Master.
 
  
-**Arash**
+**Arash:**
 He must've wanted to be able to act at a moment's notice in case it looked like [♂ he /♀️ she] might be in any danger.
 
  
-**Arash**
+**Arash:**
 In that sense, I don't think he's any different from you, the red Saber, Doc, or Missy.
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Are you shitting me? Ugh, I knew I hated that guy!
 
  
-**Arash**
+**Arash:**
 Hahahaha!
 
  
-**Arthur**
+**Arthur:**
 He truly isn't holding back at all.
 What is the meaning of this, Ozymandias!?
 
  
-**Ozymandias**
+**Ozymandias:**
 Is that a joke, wielder of the sacred sword!?
 You should know better than any why I am doing this.
 
  
-**Ozymandias**
+**Ozymandias:**
 Now reflect on your misdeeds, and let the rays of the sun's light scatter your ashes!
 
  
-**Arthur**
+**Arthur:**
 Khh...!
 
  
-**Arthur**
+**Arthur:**
 ...Master, it looks as though Ozymandias means business. So there is something I wish to ask of you.
 
  
-**Arthur**
+**Arthur:**
 I, um... I would like to keep you safe.
 Will you let me?
 
  
-**Mordred**
+**Mordred:**
 Hey! What do you think you're doing here?
 
  
-**Jekyll**
+**Jekyll:**
 I'd like to know that too.
 
  
-**Arthur**
+**Arthur:**
 H-huh? I-I'm not quite sure what you're insinuating,
 but whatever it is, it's not what I meant!
 
  
-**Arthur**
+**Arthur:**
 All I'm asking is that Master let me fight by [♂ his /♀️ her] side, just this once!
 
  
@@ -1276,46 +1276,46 @@ Of course! I've never thought of you as an enemy, anyway!
  
 
  
-**Arthur**
+**Arthur:**
 ...Thank you, Master.
 
  
-**Mordred**
+**Mordred:**
 Haha! So we're up against a bunch of Divine Beasts from the Age of Gods, huh! This oughta be a good way to kill time, huh, Bean Sprout!?
 
  
-**Jekyll**
+**Jekyll:**
 This is really not the time to be joking...
 
  
-**Arthur**
+**Arthur:**
 I know these beasts are not truly alive. They are merely constructs given form by God-King Ozymandias's magical energy.
 
  
-**Arthur**
+**Arthur:**
 Nonetheless, there is meaning in form. I wish to inflict neither pain nor suffering if I can help it.
 
  
-**Arthur**
+**Arthur:**
 However, if the god-king means to attack us without so much as a word of warning...
 
  
-**Arthur**
+**Arthur:**
 ...then I will not hesitate to wield my sacred sword!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Romulus**
+**Romulus:**
 Romans!
 
  
-**Romulus**
+**Romulus:**
 Hear me, my children of Rome, and stay your blades.
 Hear me, sacred beasts, and bare your fangs no more.
 
  
-**Romulus**
+**Romulus:**
 Any further bloodshed would be meaningless.
 Cease your warring at once.
 
@@ -1334,57 +1334,57 @@ Wh-what are you doing here, Romulus?
  
 
  
-**Arthur**
+**Arthur:**
 Holy Progenitor Romulus!
 
  
-**Jekyll**
+**Jekyll:**
 Wh-why is the Holy Progenitor of Rome here!? Not only that, his magical energy is far, far greater than usual!
 
  
-**Ozymandias**
+**Ozymandias:**
 He said he could not bear to see his children fighting amongst themselves, so I brought him along with me. Hmph.
 
  
-**Ozymandias**
+**Ozymandias:**
 As the son of a god, Romulus ascended to the greatest rank of his mythology. Even I cannot ignore his pleas.
 
  
-**Romulus**
+**Romulus:**
 ...Arthur Pendragon, the Red Dragon of Britain.
 
  
-**Romulus**
+**Romulus:**
 I am Rome, and Rome is I. As all roads lead to Rome,
 so do I possess knowledge of all things.
 
  
-**Romulus**
+**Romulus:**
 And so, my child, I know where your destination lies.
 Ahh, my dear child.
 
  
-**Romulus**
+**Romulus:**
 This may not be where your journey will ultimately end, but it is a fine place to stop and gaze up at the stars.
 
  
-**Romulus**
+**Romulus:**
 You are so focused on what tomorrow brings that you pay the sky no heed, but that is a mistake, my child.
 
  
-**Romulus**
+**Romulus:**
 As you have paused your journey for now, this is the time to cast your gaze upward and behold the stars.
 
  
-**Romulus**
+**Romulus:**
 Indeed, it is for that purpose that you have come here.
 
  
-**Arthur**
+**Arthur:**
 ...
 
  
-**Romulus**
+**Romulus:**
 Look to the stars. The great calamity you have been pursuing will come from beyond their borders.
 
  
@@ -1397,33 +1397,33 @@ Calamity...?
  
 
  
-**Arthur**
+**Arthur:**
 ...
 ...
 
  
-**Arthur**
+**Arthur:**
 ......
 
  
-**Arthur**
+**Arthur:**
 ...I pursue something truly wicked.
 
  
-**Arthur**
+**Arthur:**
 ...A great Beast that will come from far beyond to devour everything in its path.
 
  
-**Arthur**
+**Arthur:**
 The Sixth Beast will surely rear its head someday.
 That is why I am here.
 
  
-**Jekyll**
+**Jekyll:**
 A Beast...
 
  
-**Arthur**
+**Arthur:**
 It is known as Beast VI and it is one of the great Evils of Humanity, as fearsome as any of the others you have defeated.
 
  
@@ -1436,44 +1436,44 @@ So that's what you've been looking for all this time.
  
 
  
-**Arthur**
+**Arthur:**
 Indeed.
 
  
-**Arthur**
+**Arthur:**
 Now that Beast I has appeared in this world, it is only a matter of time until Beast VI follows suit.
 
  
-**Arthur**
+**Arthur:**
 When it does, it will devour everything. People... Cities... Prosperity... Corruption... All of civilization.
 
  
-**Arthur**
+**Arthur:**
 In a different world,
 I...we, managed to defeat it twice...
 
  
-**Arthur**
+**Arthur:**
 ...but my world's Merlin told me Beast VI would come once again.
 
  
-**Arthur**
+**Arthur:**
 My goal...my duty, is to defeat it a third and final time.
 
  
-**Arthur**
+**Arthur:**
 ...I'm sorry, Master. I wasn't sure what to do.
 
  
-**Arthur**
+**Arthur:**
 All this time, I've been thinking I needed to fulfill this duty on my own.
 
  
-**Arthur**
+**Arthur:**
 But I was wrong. I should have told you what I'm about to say the moment we formed a contract.
 
  
-**Arthur**
+**Arthur:**
 Master, please lend me your strength, that I may win this battle. In return I will devote myself to helping you succeed in yours.
 
  
@@ -1486,56 +1486,56 @@ You've got a deal, Arthur Pendragon.
  
 
  
-**Arthur**
+**Arthur:**
 Thank you, Master.
 
  
-**Arthur**
+**Arthur:**
 When that time comes, I hope I can count on your help as well, Heroic Spirits of Chaldea.
 
  
-**Mordred**
+**Mordred:**
 Ha! You think there's even a chance we'd sit out for a fight against a goddamn Beast!?
 
  
-**Mordred**
+**Mordred:**
 If and when this thing shows up, I'll cut it down to size whether you ask me to or not!
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 You said it!
 I think you and I'll get along just fine, Scion of Pendragon!
 
  
-**Mordred**
+**Mordred:**
 That makes one of us...
 
  
-**Cú Chulainn**
+**Cú Chulainn:**
 Huh!?
 
  
-**Arash**
+**Arash:**
 Haha, hey, you know what they say. We're all in this boat together, so we'd better make sure it doesn't sink!
 
  
-**Serenity**
+**Serenity:**
 I...don't think that's how it goes...
 
  
-**Jekyll**
+**Jekyll:**
 Y-yeah. There must be a better way to put that!
 
  
-**Ozymandias**
+**Ozymandias:**
 Very well then. It would seem our business here is concluded, so I will take my leave! Romulus, who became Quirinus, show us out!
 
  
-**Romulus**
+**Romulus:**
 We are Rome!
 
 
-**--ARROW--**
+**--ARROW--:**
 
 ---
 
@@ -1546,7 +1546,7 @@ So?
  
 
  
-**Arthur**
+**Arthur:**
 ...Hm?
 
  
@@ -1564,168 +1564,168 @@ I was hoping you would try to be more sociable from now on...
  
 
  
-**Arthur**
+**Arthur:**
 ...Ah, right.
 That is what this was originally about, was it not?
 
  
-**Arthur**
+**Arthur:**
 I surrender, Master. I've learned my lesson.
 
  
-**Arthur**
+**Arthur:**
 Besides, I did think that if many Heroic Spirits, or even just you yourself, were to confront me about this...
 
  
-**Arthur**
+**Arthur:**
 ...I would need to reconsider my approach to staying here.
 
  
-**Arthur**
+**Arthur:**
 I was hoping to stay out of sight,
 but I never wished to cause any trouble.
 
  
-**Arthur**
+**Arthur:**
 Thank you again for having me here, Fujimaru.
 
  
-**Serenity**
+**Serenity:**
 ...It's over.
 
  
-**Serenity**
+**Serenity:**
 It looks like the problem has been resolved. He should get along better with the other Servants from now on...
 
  
-**Serenity**
+**Serenity:**
 ...
 ...
 
  
-**Serenity**
+**Serenity:**
 I'm glad I asked for your help with this.
 
  
-**Serenity**
+**Serenity:**
 I would never have been able to figure out by myself whether I should tell Master what I saw in the library.
 
  
-**Paracelsus**
+**Paracelsus:**
 I'm just glad everything has come together as it should. I truly am.
 
  
-**Serenity**
+**Serenity:**
 Me too.
 
  
-**Serenity**
+**Serenity:**
 By the way, um... Are you sure about this, Paracelsus?
 
  
-**Serenity**
+**Serenity:**
 Don't you want to talk to this otherworldly King of Knights yourself?
 
  
-**Paracelsus**
+**Paracelsus:**
 I'm sure.
 
  
-**Serenity**
+**Serenity:**
 ...
 ...
 
  
-**Serenity**
+**Serenity:**
 I don't know anything about the Holy Grail War you two fought in, so...I don't know the right thing to say...
 
  
-**Serenity**
+**Serenity:**
 But, I do know that...
 
  
-**Serenity**
+**Serenity:**
 ...it's...sad that you're avoiding him.
 
  
-**Paracelsus**
+**Paracelsus:**
 Thank you. You really are a kind soul at heart.
 
  
-**Paracelsus**
+**Paracelsus:**
 But it's all right.
 Just hearing you say that is all I need...
 
  
-**Bradamante**
+**Bradamante:**
 Hm hm hmm♪
 
  
-**Bradamante**
+**Bradamante:**
 Where, oh where, could Ruggiero beee♪
 Merlin, Lord Merlin, please show me the waaay♪
 
  
-**Bradamante**
+**Bradamante:**
 Ah! Those footsteps... This presence...!
 Could it be!?
 
  
-**Arthur**
+**Arthur:**
 Oh. If it isn't&ndash;
 
  
-**Bradamante**
+**Bradamante:**
 O-oh gosh! Your Majesty, King of Knights!
 
  
-**Bradamante**
+**Bradamante:**
 I, um, I'm so sorry about pressuring you for an autograph the other day!
 
  
-**Bradamante**
+**Bradamante:**
 I feel terrible about it! I should've known better than to ask Your Majesty of all people for&ndash;
 
  
-**Arthur**
+**Arthur:**
 Wait, Lady Bradamante.
 
  
-**Arthur**
+**Arthur:**
 I am the one who should apologize to you.
 My behavior the other day was truly unworthy of a knight.
 
  
-**Bradamante**
+**Bradamante:**
 Wha...? H-huh?
 
  
-**Arthur**
+**Arthur:**
 Lady Bradamante, I never even introduced myself properly.
 
  
-**Arthur**
+**Arthur:**
 If it's not too much to ask, would you permit me to start over and introduce myself properly?
 
  
-**Bradamante**
+**Bradamante:**
 Y-yes! O-o-of course!
 
  
-**Bradamante**
+**Bradamante:**
 Oh, but...are you sure it's okay for a lowly knight like me to speak to the great King of Knights like this...?
 
  
-**Arthur**
+**Arthur:**
 Of course it is. You and I are comrades now,
 both sworn to serve the same Master.
 
  
-**Arthur**
+**Arthur:**
 I am a Saber. My True Name is Arthur Pendragon.
 
  
-**Arthur**
+**Arthur:**
 I am the modern-day wielder of the sacred sword,
 and the King of Knights who hails from another world!
 

@@ -2,180 +2,180 @@
 
 ## Vishnu's Test
 
-**Rama**
+**Rama:**
 U-ungh...
 
  
-**???**
+**???:**
 Rama...Rama...
 
  
-**Rama**
+**Rama:**
 Uh...ungh...
 Who calls me?
 
  
-**Vishnu**
+**Vishnu:**
 It is I, Vishnu.
 Rama, awaken...
 
  
-**Rama**
+**Rama:**
 Oh, crap, Vishnu!?
 
  
-**Vishnu**
+**Vishnu:**
 “Crap”?
 
  
-**Rama**
+**Rama:**
 M-my sincerest apologies...!
 
  
-**Vishnu**
+**Vishnu:**
 Rama. How has everything been going since Fujimaru summoned you?
 
  
-**Vishnu**
+**Vishnu:**
 Is there anything you feel is missing,
 or do you have any immediate concerns?
 
  
-**Rama**
+**Rama:**
 No, Master is always kind to me.
 
  
-**Rama**
+**Rama:**
 Master treats me not as a king,
 not as [♂ his /♀️ her] retainer, but as a friend.
 
  
-**Rama**
+**Rama:**
 I have not had any complaints since I have been summoned.
 
  
-**Vishnu**
+**Vishnu:**
 ...I see. That was a quick response.
 How about during battle?
 
  
-**Rama**
+**Rama:**
 Hahaha. I'm all good on the fighting front!
 I would love to show you my power, Vishnu!
 
  
-**Vishnu**
+**Vishnu:**
 Oh, really? Is that so? That's some big talk.
 I never took you for the type to talk that way.
 
  
-**Rama**
+**Rama:**
 Eh?
 V-Vishnu...?
 
  
-**Vishnu**
+**Vishnu:**
 Rama...
 Oh, Rama...
 
  
-**Vishnu**
+**Vishnu:**
 Think back, Rama. Back to when you manifested as a Servant, to when you were given your Noble Phantasm...
 
  
-**Rama**
+**Rama:**
 Eh? Are you talking about another, different Noble Phantasm than my Brahmastra...?
 
  
-**Rama**
+**Rama:**
 Vishnu Baazoo, the Arm of the Great One...oh!
 
  
-**Vishnu**
+**Vishnu:**
 Rama...
 Oh, Rama...
 
  
-**Vishnu**
+**Vishnu:**
 You! Have! Forgotten! The Noble Phantasm!
 With! My! Name! You! Forgot! You can't use it!!!
 
  
-**Rama**
+**Rama:**
 Gyaaaaaahhh!!!
 I-I-I-I'm terribly sorry, great Vishnu!
 
  
-**Vishnu**
+**Vishnu:**
 Well, that won't do, will it?
 What's the deal, Rama?
 
  
-**Vishnu**
+**Vishnu:**
 Did you really not realize until I just reminded you that your Noble Phantasm was sealed!? What have you got between your ears!? Marshmallows!?
 
  
-**Rama**
+**Rama:**
 A-absolutely not! I d-didn't forget It's just... W-well, um, I've never encountered any enemies strong enough to require using your power...
 
  
-**Vishnu**
+**Vishnu:**
 Oh-ho. I suppose I shouldn't be surprised, knowing your power. But then, I suppose you must not have any use for this Noble Phantasm, either.
 
  
-**Vishnu**
+**Vishnu:**
 Even without your Brahmastra, you'll be fine.
 
  
-**Rama**
+**Rama:**
 But...!
 P-please do not go, great Vishnu!
 
  
-**Rama**
+**Rama:**
 I...I was mistaken!
 Please, at least leave me my Brahmastra!
 
  
-**Vishnu**
+**Vishnu:**
 ...Very well. If you're that desperate,
 I shall give you a chance.
 
  
-**Vishnu**
+**Vishnu:**
 However, understand that to succeed, you must repeatedly shout my favorite word.
 
  
-**Rama**
+**Rama:**
 Y-yes! Certainly and swiftly!
 
  
-**Vishnu**
+**Vishnu:**
 Very well. That is the lifestyle that you must always be mindful of. They say that swiftness and decisiveness are most important to a soldier.
 
  
-**Vishnu**
+**Vishnu:**
 Now, then. I have somewhere for you to travel with your Master. There, you will find the trial I have set for you.
 
  
-**Vishnu**
+**Vishnu:**
 Know this: should you fail in this trial...you will no longer receive my blessing.
 
  
-**Rama**
+**Rama:**
 You can count on me!
 
  
-**Vishnu**
+**Vishnu:**
 You must always mind me, and never again forget me... Use your Noble Phantasm properly (...erly...erly...)
 
  
-**Rama**
+**Rama:**
 ...And that was my dream.
 Please, Master, you gotta help me! Mash, you too!!!
 
  
-**Mash**
+**Mash:**
 ...Well, in that case...
 
  
@@ -194,76 +194,76 @@ Th-that sounds suspicious...
 
 
  
-**Rama**
+**Rama:**
 Hm. Well, actually... The being I spoke to was both the great Vishnu, and not Vishnu at the same time.
 
  
-**Rama**
+**Rama:**
 It's the Vishnu that I envision, since I've never really MET them personally!
 
  
-**Rama**
+**Rama:**
 Besides, the great Vishnu who appears in my dreams doesn't seem to have a fully formed personality and is maybe a bit wacky.
 
  
-**Rama**
+**Rama:**
 But this much I'm certain of: I receive a message from the great Vishnu whenever I lose my way or forget something.
 
  
-**Rama**
+**Rama:**
 It could be my subconscious trying to make me realize that I had unknowingly blinded myself to something...
 
  
-**Rama**
+**Rama:**
 Or perhaps the real great Vishnu is truly sending me a message... I'm honestly not sure.
 
  
-**Mash**
+**Mash:**
 So, you have no clue.
 
  
-**Rama**
+**Rama:**
 Pretty much!
 
  
-**Rama**
+**Rama:**
 Regardless, I'm sure there is some truth to the notion that something is about to happen to me!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 True...there may be some truth in Rama's dream.
 
  
-**Mash**
+**Mash:**
 Doctor, what do you mean?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 A few hours ago, a minute Singularity formed, and we detected it in America, on the island of Alcatraz.
 
  
-**Rama**
+**Rama:**
 Alcatraz, huh?
 
  
-**Rama**
+**Rama:**
 That's where Sita was...
 That place must have something to do with my dream.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 With the Sixth and Seventh Singularities remaining, leaving it alone could endanger humanity.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Let's take care of it. Swiftly.
 
  
-**Mash**
+**Mash:**
 Roger that, Doctor.
 
  
-**Rama**
+**Rama:**
 Obviously, you'll take me with you, right?
 
  
@@ -276,20 +276,20 @@ Of course!
 
 
  
-**Rama**
+**Rama:**
 Ah, my friend!
 
  
-**Fou**
+**Fou:**
 Fou.
 
  
-**Mash**
+**Mash:**
 What is it, Fou?
 You're saying it's a friendship of self-interest?
 
  
-**Mash**
+**Mash:**
 That can't be true, Fou.
 Right, Master?
 
@@ -309,240 +309,240 @@ Friendship must be true.
 
 
  
-**Rama**
+**Rama:**
 A-anyway, let's get a move on, quickly!
 Our trial awaits...probably!
 
  
-**Rama**
+**Rama:**
 A trial, huh? Now that I reflect back,
 it seems like my life was full of them.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 According to the Ramayana, Rama was first exiled from his homeland when he was a prince.
 
  
-**Rama**
+**Rama:**
 Indeed.
 
  
-**Rama**
+**Rama:**
 My stepmother Kaikeyi suspected that I would treat her unfairly if I became king.
 
  
-**Rama**
+**Rama:**
 Most conspiracies have their genesis in tiny doubts.
 I count myself lucky that I wasn't killed, at least.
 
  
-**Rama**
+**Rama:**
 Luckily, my younger brother Lakshmana also came with me. It felt like I was heading out on a long journey rather than getting exiled.
 
  
-**Rama**
+**Rama:**
 And above all, since I had Sita with me, my exile wasn't so bad.
 
  
-**Mash**
+**Mash:**
 And if I remember correctly, Bharata, who was supposed to be king, refused to ascend the throne, and waited for you.
 
  
-**Rama**
+**Rama:**
 Yes. I was fortunate in all respects. I must admit that the fun was confined to the beginning of my journey, though.
 
  
-**Rama**
+**Rama:**
 Everything went downhill after Sita was taken.
 Hey, Master...
 
  
-**Rama**
+**Rama:**
 You fight all your battles to restore humanity. I have no hesitation offering my life for that purpose.
 
  
-**Rama**
+**Rama:**
 However, had I been summoned for a proper Holy Grail War, I may have wished for the following:
 
  
-**Rama**
+**Rama:**
 To change the past.
 To undo the past where Sita was taken from me.
 
  
-**Mash**
+**Mash:**
 Rama...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's true that a normal Holy Grail War might be able to grant that wish.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 But it could create various distortions. For example, Sita may not have been taken, but the curse may still be there...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Or perhaps, in consequence of your group being saved, your homeland may have met a different fate.
 
  
-**Rama**
+**Rama:**
 ...Distortion, huh? I suppose that's what happens when things are changed.
 
  
-**Rama**
+**Rama:**
 In any case, that's all hypothetical.
 Let's concentrate on the matter at hand.
 
  
-**Mash**
+**Mash:**
 We've arrived at the coast.
 This was where we headed to Alcatraz by boat.
 
  
-**Mash**
+**Mash:**
 It feels so long ago.
 I wonder if the old man we met back then is well.
 
  
-**F：???**
+**F：???:**
 I hear he is in good health. But I had him evacuate, because this place is about to become a battlefield.
 
  
-**Mash**
+**Mash:**
 !
 
  
-**Rama**
+**Rama:**
 A hero sent to test me!
 
  
-**F：???**
+**F：???:**
 Indeed.
 
  
-**Rama**
+**Rama:**
 I am King Rama of Kosala!
 Hero that I must overcome, please show yourself!
 
  
-**F：???**
+**F：???:**
 Understood.
 I did have every intention of doing so eventually...
 
  
-**Rama**
+**Rama:**
 ...!
 
  
-**Mash**
+**Mash:**
 It can't be... Karna?!
 
  
-**Karna**
+**Karna:**
 I am your first trial. I shall demonstrate a piercing stare...
 I mean, the proper bearing of a hero.
 
  
-**Karna**
+**Karna:**
 A real hero kills with his eyes.
 King of Kosala, receive my Brahmastra!
 
  
-**Rama**
+**Rama:**
 Got it. If you're my first opponent, then I have no complaints!
 
  
-**Rama**
+**Rama:**
 I will push my power to its limit!
 Let's do this, Master!!!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Karna**
+**Karna:**
 ...Splendid. This is the end.
 I have seen enough of your indestructible blade.
 
  
-**Karna**
+**Karna:**
 I wish I could emulate the valiant, and yet disarmingly honest moves that you retain as a result of being summoned as an inexperienced hero.
 
  
-**Karna**
+**Karna:**
 Move on to the second trial, but proceed with caution.
 It may not be as easy as this one.
 
  
-**Rama**
+**Rama:**
 Thank you, Lord Karna. It was an honor to cross blades with a famed hero like you.
 
  
-**Karna**
+**Karna:**
 Compared to the hero awaiting you at the second trial,
 I was but a trifling opponent. Go, board the boat.
 
  
-**Rama**
+**Rama:**
 A hero that Karna thinks makes him seem insignificant...
 
  
-**Mash**
+**Mash:**
 Do you think he's being humble?
 Karna is quite modest...
 
  
-**Rama**
+**Rama:**
 I hope that's all it is. These are, after all,
 heroes gathered specifically for this trial...
 
  
-**Rama**
+**Rama:**
 Which means the next hero is...
 
  
-**Mash**
+**Mash:**
 Master, watch out!
 
  
-**Rama**
+**Rama:**
 An arrow!
 So, we're looking for an Archer!
 
  
-**D：???**
+**D：???:**
 You are correct. I am the gatekeeper for this second trial...
 
  
-**D：???**
+**D：???:**
 Rest assured, I will not allow my personal feelings to interfere with this trial.
 
  
-**D：???**
+**D：???:**
 No matter what happened in the past, even if I was on your side...please do not think too much of it.
 
  
-**Rama**
+**Rama:**
 Now we're up against Arjuna...!
 
  
-**Arjuna**
+**Arjuna:**
 Now, show me this indestructible blade of yours.
 I will judge whether you are worthy of wielding it!
 
  
-**--BATTLE--**
+**--BATTLE--:**
 
-**Arjuna**
+**Arjuna:**
 ...Well, it seems you pass.
 Something is still missing, but that's hardly a surprise.
 
  
-**Arjuna**
+**Arjuna:**
 Of course, any Heroic Spirit would find himself lacking when standing in comparison to me.
 
  
-**Arjuna**
+**Arjuna:**
 Don't you agree?
 
  
@@ -553,7 +553,7 @@ Well you're not...not entirely...not incorrect...?
 
 
  
-**Arjuna**
+**Arjuna:**
 Puzzling...which is it!?
 Do you believe it's true, or not?
 
@@ -565,12 +565,12 @@ Nope.
 
 
  
-**Arjuna**
+**Arjuna:**
 ...Really.
 Then shall we battle once more?
 
  
-**Rama**
+**Rama:**
 Waitwaitwait!
 I'll have you declare that I've overcome my trial!
 
@@ -578,171 +578,171 @@ I'll have you declare that I've overcome my trial!
 ---
 
  
-**Arjuna**
+**Arjuna:**
 Ah. That may have been somewhat childish of me.
 
  
-**Arjuna**
+**Arjuna:**
 Rama. You are quite perplexing.
 You overcame so many trials in your lifetime.
 
  
-**Arjuna**
+**Arjuna:**
 And, in doing so, you became a full and complete hero.
 
  
-**Arjuna**
+**Arjuna:**
 Had you not been summoned as your youthful self,
 these trials now would be unnecessary.
 
  
-**Rama**
+**Rama:**
 You may be right.
 
  
-**Rama**
+**Rama:**
 It's possible that I could be summoned as an older king, one who would remember Sita, but had also come to terms with what happened to her.
 
  
-**Rama**
+**Rama:**
 Had that version of me been more compatible with Master, it might have been summoned...
 
  
-**Rama**
+**Rama:**
 But it appears that this form was best suited to my Master.
 
  
-**Rama**
+**Rama:**
 And knowing that makes me happy.
 
  
-**Arjuna**
+**Arjuna:**
 Hm. How heartwarming.
 I mean...ahem.
 
  
-**Arjuna**
+**Arjuna:**
 That is precisely why one must grow stronger.
 Even Servants.
 
  
-**Arjuna**
+**Arjuna:**
 That is the purpose of this trial.
 Grow stronger, Lord Rama.
 
  
-**Rama**
+**Rama:**
 ...Okay.
 
  
-**Arjuna**
+**Arjuna:**
 I shall bid you farewell.
 The final hero awaits you.
 
  
-**Arjuna**
+**Arjuna:**
 ...He will be your greatest challenge of all.
 He is not one to hold back.
 
  
-**Rama**
+**Rama:**
 A hero who doesn't hold back...
 I wonder who could that be?
 
  
-**Mash**
+**Mash:**
 It should be all right. Karna and Arjuna were both great and famous heroes.
 
  
-**Mash**
+**Mash:**
 And you defeated both of them, Rama.
 You should have more confidence as you go forward.
 
  
-**Rama**
+**Rama:**
 ...Yeah, you're right.
 Okay, I'm ready for anyone!
 
  
-**Rama**
+**Rama:**
 No matter who the opponent, I'll squash them!
 
  
-**D：???**
+**D：???:**
 ...Oh? What's this?
 It seems a yammering mongrel approaches.
 
  
-**Rama**
+**Rama:**
 Wha...!?
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Nothing to be surprised about.
 You summoned me here.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 I am Gilgamesh, King of Heroes,
 and I crush you underfoot.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Battle with Sabers&ndash;any Saber&ndash;never fails to excite me.
 
  
-**Rama**
+**Rama:**
 Ugh...Gilgamesh!!!
 They always save the greatest challenge for last...
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Fuhahaha! Do you think this trial is just about going up against a tough opponent!? Wrong!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 The true trial isn't just a matter of defeating me. As if a mongrel like you could ever defeat the likes of me!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 (Nice to see he's still completely full of himself...)
 
  
-**Gilgamesh**
+**Gilgamesh:**
 One who still needs to prove his strength through battle will be of no use in the Restoration of Humanity.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 So show yourself!
 
  
-**Sita**
+**Sita:**
 Rama...
 Lord Rama, is that you?
 
  
-**Rama**
+**Rama:**
 ...
 
  
-**Rama**
+**Rama:**
 That voice...
 It can't be. Sita!?
 
  
-**Sita**
+**Sita:**
 Yes, it is I.
 
  
-**Sita**
+**Sita:**
 It seems the great Vishnu arranged for me to be summoned on this land once again.
 
  
-**Rama**
+**Rama:**
 I'm so glad...!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Hahahaha. Excited, are you not, King of Kosala?
 Why do you think your wife is on my side?
 
@@ -754,7 +754,7 @@ She's a hostage...?
 
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Fool! What use would I, who is sure to be the victor here, have for a hostage!?
 
  
@@ -765,7 +765,7 @@ She's our enemy...?
 
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Exactly.
 Your final trial is a trial of love.
 
@@ -773,91 +773,91 @@ Your final trial is a trial of love.
 ---
 
  
-**Sita**
+**Sita:**
 Lord Rama...
 The great Vishnu has lifted our curse.
 
  
-**Sita**
+**Sita:**
 We can be together now...forever.
 
  
-**Rama**
+**Rama:**
 What...!?
 
  
-**Rama**
+**Rama:**
 Th-that is most generous of Vishnu...
 I'm grateful, sincerely...
 
  
-**Rama**
+**Rama:**
 But Sita, why are you on his side?
 
  
-**Sita**
+**Sita:**
 The great Vishnu was kind enough not only to lift our curse, but also to grant my wish...
 
  
-**Sita**
+**Sita:**
 I wished that my Lord Rama would never be hurt...would be spared these endless battles.
 
  
-**Sita**
+**Sita:**
 Please, join us, Lord Rama.
 Leave the Restoration of Humanity to the others.
 
  
-**Sita**
+**Sita:**
 If there are as many heroes as stars in the sky, what is one fewer? We should be able to have our peace, to have our happiness...
 
  
-**Rama**
+**Rama:**
 ...
 
  
-**Rama**
+**Rama:**
 Are you saying, that I can be with you as long as I break my contract with Master?
 
  
-**Sita**
+**Sita:**
 Yes, it is I.
 
  
-**Rama**
+**Rama:**
 ...
 
  
-**Rama**
+**Rama:**
 Then I know that you are a fake.
 
  
-**Rama**
+**Rama:**
 I could never deserve such a reward without overcoming my trials.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Oh?
 
  
-**Sita**
+**Sita:**
 If you're calling me a fake,
 then the same must be true of you...
 
  
-**Rama**
+**Rama:**
 This is not about being a Servant or Heroic Spirit.
 
  
-**Rama**
+**Rama:**
 First of all, you're not even a Servant.
 
  
-**Rama**
+**Rama:**
 ...Yeah, I know... I understand, and I know this is an offer I must refuse.
 
  
-**Rama**
+**Rama:**
 But...well...you know...Master...
 
  
@@ -876,149 +876,149 @@ Are you all right?
 
 
  
-**Rama**
+**Rama:**
 Rejecting loved ones is so hard.
 
  
-**Rama**
+**Rama:**
 How, in my past life...even if it was to avoid unnecessary bloodshed...
 
  
-**Rama**
+**Rama:**
 How did I manage to go through with this?
 
  
-**Sita**
+**Sita:**
 ...I see. So you mean to reject me.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 (Even though his rank as a Heroic Spirit is far beneath mine, he does not waver in his beliefs. Impertinent mongrel.)
 
  
-**Rama**
+**Rama:**
 I can't do it, Sita.
 That is the one thing I cannot do.
 
  
-**Rama**
+**Rama:**
 To break my contract with Master would mean doing the same thing I did to you, Sita.
 
  
-**Rama**
+**Rama:**
 I know I'm not supposed to let go this time.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Heh. What will you do, queen?
 You heard what your husband said.
 
  
-**Sita**
+**Sita:**
 If he rejects my love, then the only thing left to do is to devour him...! That's my only option!
 
  
-**Gilgamesh**
+**Gilgamesh:**
 ...What?
 
  
-**Mash**
+**Mash:**
 ...Um, does it look like Gilgamesh is also surprised?
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Fuhahahaha! Why, humanity's on the brink of collapse. This sort of strangeness is to be expected.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Now, small king of a smaller nation. It is time for you to face your final trial: this monster...and me!
 
  
-**Rama**
+**Rama:**
 Yeah, let's do this!
 
  
-**Rama**
+**Rama:**
 Brahmastra!
 Shine...like you did back then!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Gilgamesh**
+**Gilgamesh:**
 ...Hmph.
 Battle's over.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 You may be bleeding from a hundred wounds,
 but your trial is over.
 
  
-**Rama**
+**Rama:**
 (Pant...pant...pant...)
 
  
-**Sita**
+**Sita:**
 Rama...
 My dear Rama...
 
  
-**Rama**
+**Rama:**
 ...Next time...we meet...I'll go...see you...I'll be sure to walk tall and proud...
 
  
-**Sita**
+**Sita:**
 ...Okay...
 
  
-**Sita**
+**Sita:**
 If you tell the real Sita...she'll likely...
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Sheesh. I heard somewhere that even Lancers (better known as dogs) prefer to stay out of lovers' spats.
 
  
-**Mash**
+**Mash:**
 Lancers...?
 
  
-**Gilgamesh**
+**Gilgamesh:**
 You had to be there.
 Anyway, this is the end of your trial.
 
  
-**Gilgamesh**
+**Gilgamesh:**
 Young king of a small nation, it's all right to agonize over this kind of thing, but not in public. Understand?
 
  
-**Rama**
+**Rama:**
 Trials...
 
  
-**Rama**
+**Rama:**
 This might have been for the best.
 This body and psyche of mine are both still immature.
 
  
-**Rama**
+**Rama:**
 A fake Sita agitating me so much proves that.
 
  
-**Rama**
+**Rama:**
 But hear me out, Master: I will show you my strength in overcoming adversity.
 
  
-**Rama**
+**Rama:**
 And if that helps me grow stronger to protect you and Sita...that just means I'm going in the right direction.
 
  
-**Rama**
+**Rama:**
 Now, Master, our journey to restore humanity continues.
 
  
-**Rama**
+**Rama:**
 Let's go!
 
 

@@ -2,71 +2,71 @@
 
 <h2>The Beginning of a Trampling Conquest</h2>
 
-**Mash**
+**Mash:**
 ...You want to meet the hero of the Iliad?
 
  
-**Alexander**
+**Alexander:**
 Yes, that's right.
 Can you help me out?
 
  
-**Alexander**
+**Alexander:**
 With your summoning system, I should be able to meet that great hero, right?
 
  
-**Alexander**
+**Alexander:**
 The great Greek hero from the greatest of epics! His spear, his chariot, his body...the strongest is the only word to describe them!
 
  
-**Alexander**
+**Alexander:**
 I love it all. My tutor, Aristotle, gave me a copy of the Iliad a while ago&ndash;
 
  
-**Mash**
+**Mash:**
 (A while ago?)
 
  
-**Fou**
+**Fou:**
 Fou, foufou.
 
  
-**Alexander**
+**Alexander:**
 Oh, no, no. In life, I mean.
 In this form, I sometimes get it wrong.
 
  
-**Alexander**
+**Alexander:**
 I'm sure you know this, but I love the Iliad and its heroes.
 
  
-**Alexander**
+**Alexander:**
 You want to read it, Master? It's great! It's like an exquisite fruit, you never get tired of it.
 
  
-**Alexander**
+**Alexander:**
 Someday when I go to battle,
 I want to keep it with me at all times.
 
  
-**Mash**
+**Mash:**
 (Someday?)
 
  
-**Fou**
+**Fou:**
 Fou, foufou?
 
  
-**Alexander**
+**Alexander:**
 Oh, oops. I got it wrong again.
 Haha, sorry. It just all seems so strange.
 
  
-**Alexander**
+**Alexander:**
 My personality and emotions from when I was young are very strong in this form. Somehow, my memories are being influenced as well.
 
  
-**Alexander**
+**Alexander:**
 I need to watch out for that, huh?
 So, how about it&mdash;Master?
 
@@ -86,76 +86,76 @@ Achilles, huh?
 
 ---
  
-**Mash**
+**Mash:**
 Yes, Senpai. The hero Achilles, the protagonist of the Iliad.
 
  
-**Mash**
+**Mash:**
 One of Ancient Greece's greatest heroes.
 But now&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I heard what you were saying, and unfortunately...
 We haven't been able to summon him.
 
  
-**Alexander**
+**Alexander:**
 You haven't, huh?
 Well, that's even better!
 
  
-**Mash**
+**Mash:**
 Huh? How is it even better?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...Oh, I see. Even as his younger self, he still has a heart for adventure? I've got a bad feeling about this.
 
  
-**Alexander**
+**Alexander:**
 That's right, Doctor!
 Now we get to go look for him!
 
  
-**Alexander**
+**Alexander:**
 Let's go in search of the great hero!
 There was an era where you saw the Argo, right?
 
  
-**Alexander**
+**Alexander:**
 If we go there, we might be able to find him.
 
  
-**Alexander**
+**Alexander:**
 Do you remember?
 When I met you in ancient Rome&ndash;
 
  
-**Mash**
+**Mash:**
 ...You're right. Your presence there seemed to guide other Heroic Spirits too.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I couldn't analyze the data in real time then, but you're right. That big Berserker is your...
 
  
-**Alexander**
+**Alexander:**
 My rival...or someone destined to be.
 That's what I think now.
 
  
-**Alexander**
+**Alexander:**
 Yes, Darius III.
 He was brought there by a “chained summoning.”
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hmm, it makes sense.
 Even with the Singularity repaired&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It might still be possible to chain summon in the Age of Exploration!
 
  
@@ -174,34 +174,34 @@ Let's go!
 
 ---
  
-**Mash**
+**Mash:**
 Yes, Master.
 But the Third Singularity is&ndash;
 
  
-**Alexander**
+**Alexander:**
 Okay Doctor, get ready!
 We're off in search of the hero of the Iliad!
 
  
-**Alexander**
+**Alexander:**
 ???
 Hmm?
 
  
-**Alexander**
+**Alexander:**
 What? What is...this? This thing in front of me?
 
  
-**Mash**
+**Mash:**
 (I thought so...)
 
  
-**Fou**
+**Fou:**
 Fou, fou?
 
  
-**Alexander**
+**Alexander:**
 What is this?
 
  
@@ -220,53 +220,53 @@ He's looking in shock at the sea.
 
 ---
  
-**Mash**
+**Mash:**
 R-Right&ndash; The sea has a special meaning to him.
 
  
-**Mash**
+**Mash:**
 Okeanos, the end of the world. What he would eventually seek later in life. The limits of his territory.
 
  
-**Mash**
+**Mash:**
 It's said that all his conquests in his later years were to bring him to Okeanos&ndash;
 
  
-**Mash**
+**Mash:**
 Seeing the ocean should be a special thing for him...
 
  
-**Alexander**
+**Alexander:**
 ...It's like there's a haze over it.
 
  
-**Alexander**
+**Alexander:**
 I can't see it, or hear it.
 Hey, what's that's over there?
 
  
-**Alexander**
+**Alexander:**
 What can you hear?
 I can't really hear anything.
 
  
-**Alexander**
+**Alexander:**
 I can see the land, and I can hear your voices, but...
 
  
-**Mash**
+**Mash:**
 Huh?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Maybe young Alexander is unconsciously choosing not to see it.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 He can't see or hear it, huh? Maybe Iskandar the conqueror would have wanted to&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 But this young Alexander might not want to see it yet.
 
  
@@ -276,7 +276,7 @@ But this young Alexander might not want to see it yet.
 **Fujimaru 1:**
 &ndash;How romantic.
  
-**Mash**
+**Mash:**
 ...Yes, you're right.
 
  
@@ -286,7 +286,7 @@ But this young Alexander might not want to see it yet.
 **Fujimaru 2:**
 It's kind of sad.
  
-**Mash**
+**Mash:**
 ...Yes. And very like him at the same time.
 
  
@@ -294,62 +294,62 @@ It's kind of sad.
 
 ---
  
-**Alexander**
+**Alexander:**
 Hmm, I don't know.
 Maybe I should head over there with Bucephalus?
 
  
-**Fou**
+**Fou:**
 Fou, foufou!
 ...Kyuu?
 
  
-**Mash**
+**Mash:**
 N-No, that's&ndash;
 
  
-**Alexander**
+**Alexander:**
 I'm fine. Sorry. It was a joke.
 Anyway, guys, looks like we have company.
 
  
-**Mash**
+**Mash:**
 Oh, you're right... A group of humans is approaching.
 I'm not detecting any trace of magical energy from them.
 
  
-**Alexander**
+**Alexander:**
 They're... You know... Burglars or bandits...?
 
  
-**Pirate**
+**Pirate:**
 Who are ye callin' bandits?
 We're pirates! Real live pirates!
 
  
-**Pirate**
+**Pirate:**
 We just stopped here to resupply, and it's our lucky day! A pretty lady and a rich little brat!
 
  
-**Pirate**
+**Pirate:**
 Ransom 'em for all they're worth!
 
  
-**Pirate**
+**Pirate:**
 Let's go, men! With our skill and pride&mdash;
 It's super-plunderin' time!
 
  
-**Pirates**
+**Pirates:**
 Aye aye! Let's finish this quick so we don't have to work overtime&ndash;!
 
  
-**Alexander**
+**Alexander:**
 Hahaha, you guys are hard workers, huh?
 But you shouldn't mix up work and hobbies.
 
  
-**Mash**
+**Mash:**
 Um, just think of them as a type of bandit!
 Senpai, enemy group approaching!
 
@@ -369,41 +369,41 @@ They're human, so don't kill them!
 
 ---
  
-**Mash**
+**Mash:**
 Right, Master!
 &ndash;Commencing combat!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Pirate**
+**Pirate:**
 No way&mdash;!? He's seriously ripped for being a brat!
 
  
-**Pirate**
+**Pirate:**
 H-he's like a bodybuilder... We are no match for him! Run... Run away!
 
  
-**Pirates**
+**Pirates:**
 Uwah&ndash;!
 
  
-**Alexander**
+**Alexander:**
 Not a scrap of talent among you. Alright, run.
 I won't kill you!
 
  
-**Alexander**
+**Alexander:**
 If you run, it's because you're weak!
 A true plunderer leaves with a victory song!
 
  
-**Mash**
+**Mash:**
 That's the future King of Conquerors for you.
 He's very wild.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yup, very wild.
 
  
@@ -422,82 +422,82 @@ He's wild.
 
 ---
  
-**???**
+**???:**
 Yup, I think so too. I see, the future King of Conquerors, huh&ndash;
 
  
-**???**
+**???:**
 I heard a kid just beat up some veteran pirates, and since I was sponging off of them I came to check it out.
 
  
-**???**
+**???:**
 But it looks like you're not an ordinary kid.
 Interesting. And that book you've got&ndash;
 
  
-**Alexander**
+**Alexander:**
 What about the Iliad?
 It's my favorite book.
 
  
-**Alexander**
+**Alexander:**
 And who are you? You look “stronger” than the others.
 
  
-**Alexander**
+**Alexander:**
 ...May I have your name?
 
  
-**???**
+**???:**
 Wait, you don't know who I am?
 I guess that'd be hard without my Noble Phantasm.
 
  
-**Fou**
+**Fou:**
 Fou, foou! Fou??
 
  
-**Mash**
+**Mash:**
 Alexander, he is&mdash;
 
  
-**Alexander**
+**Alexander:**
 I know. He's a Servant.
 So what's your name?
 
  
-**???**
+**???:**
 So, you're not gonna introduce yourself? You ask my name and you won't even give me yours? That's rather rude.
 
  
-**Alexander**
+**Alexander:**
 That's right. I apologize.
 My name is Alexander.
 
  
-**Alexander**
+**Alexander:**
 I'm the future King of Conquerors. Not that it seems real to me. This form is from before that.
 
  
-**???**
+**???:**
 Alexander, huh?
 
  
-**???**
+**???:**
 Man, I bet that lightning geezer would like that name.
 It's a pain, but I'll remember it anyway.
 
  
-**???**
+**???:**
 My name's “Achilles.” The Greek warrior written of in that book. You know that name, right?
 
  
-**Alexander**
+**Alexander:**
 !!! It's you! You're Achilles!
 Oh, I can't believe this. I&ndash;
 
  
-**Alexander**
+**Alexander:**
 I found you so quickly! Mash, Fujimaru!
 
  
@@ -516,198 +516,198 @@ Is he getting excited?
 
 ---
  
-**Alexander**
+**Alexander:**
 I can't hold back my excitement!
 Haha, I'm sorry, but this is so wonderful!
 
  
-**Alexander**
+**Alexander:**
 Even now, I feel an overwhelming desire to&ndash;
 
  
-**Alexander**
+**Alexander:**
 Fight him!
 It's okay, right, Master?
 
  
-**Achilles**
+**Achilles:**
 I thought you'd say that.
 
  
-**Achilles**
+**Achilles:**
 I know a fighter by their smell.
 Both you and I are the same type of punk.
 
  
-**Achilles**
+**Achilles:**
 But&mdash;Nah, I'm really sorry.
 I'm just a freeloader, I mean, mentor now.
 
  
-**Achilles**
+**Achilles:**
 I wanted to try copying Chiron for once...
 And so I've been looking after them.
 
  
-**Achilles**
+**Achilles:**
 So I won't fight you.
 
  
-**Achilles**
+**Achilles:**
 My job isn't to defeat you, it's to let these guys beat you.
 
  
-**Pirate**
+**Pirate:**
 Sir! Sir Spikey!
 
  
-**Pirate**
+**Pirate:**
 You'd really do that? For a bunch of no-name losers like us with zero attention span!?
 
  
-**Pirate**
+**Pirate:**
 Did you hear that, men! No running! Gather up, Gather up! Let's show our teacher what we can do!
 
  
-**Pirate**
+**Pirate:**
 Let's use the Achilles-style technique,
 “Gang up on a lone guy and beat him up.”
 
  
-**Pirate**
+**Pirate:**
 AKA, “What to do if you see a Lancer with an unkempt beard!” Now is the time!
 
  
-**Mash**
+**Mash:**
 I think we just heard a name for a tactic that we can never let Hektor hear, Senpai!
 
  
-**Achilles**
+**Achilles:**
 Feeling better, you losers?
 Okay, now go get your butts kicked!
 
  
-**Pirate**
+**Pirate:**
 Aye aye, sir! Let's do this!
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Mash**
+**Mash:**
 Senpai, there's no stopping them!
 Resuming battle!!
 
  
-**Alexander**
+**Alexander:**
 That's fine. If a leader makes them stronger, that makes me happy.
 
  
-**Alexander**
+**Alexander:**
 I just have to defeat them all, right? Once the students are gone, the teacher will be out of work.
 
  
-**Alexander**
+**Alexander:**
 And after that&mdash;
 We can fight, Achilles!
 
  
-**Achilles**
+**Achilles:**
 So you don't even think the pirates have a chance, huh? You're pretty cruel, kid! Wahahaha!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Achilles**
+**Achilles:**
 Impressive. I'm not a big fan of kings,
 but you, I think I like.
 
  
-**Achilles**
+**Achilles:**
 And that horse, too&mdash;
 It's splendid. Truly excellent.
 
  
-**Achilles**
+**Achilles:**
 Actually, I think there are no bad Riders.
 That's my theory, anyway.
 
  
-**Alexander**
+**Alexander:**
 Hah, hah... I agree, but I didn't think...
 You'd have this much talent as a general!
 
  
-**Alexander**
+**Alexander:**
 The pirates' tactics were as messed up as Elisabeth's singing, and you brought them together...
 
  
-**Alexander**
+**Alexander:**
 Fighting with soldiers, not just one on one...is so much fun!
 
  
-**Alexander**
+**Alexander:**
 Someday I'll learn this feeling for myself, although really I should already know it. But I think...
 
  
-**Alexander**
+**Alexander:**
 I want to... I want to fight you more. I want to share this excitement, and the honor of the battlefield...
 
  
-**Alexander**
+**Alexander:**
 With more...people...someday...
 
  
-**Mash**
+**Mash:**
 A-Alexander&ndash;?
 
  
-**Alexander**
+**Alexander:**
 ...Zzzz.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 He has the magical energy to keep going, but I guess he's just exhausted. He fell asleep.
 
  
-**Pirate**
+**Pirate:**
 ...Wow, we just saw something amazing...
 I can't believe we're still alive...
 
  
-**Pirate**
+**Pirate:**
 The world's big... It's too big...
 
  
-**Pirate**
+**Pirate:**
 There's flying horses that summon lightning and stuff...
 I think I'm reevaluating my life!
 
  
-**Pirate**
+**Pirate:**
 Yup, I can't do this!
 Being a pirate on seas like this is suicide!
 
  
-**Pirate**
+**Pirate:**
 We're better off landlocked!
 Teacher, we're getting out of the pirate business!
 
  
-**Pirate**
+**Pirate:**
 We'll pay the lesson fees later! Bye!
 
  
-**Achilles**
+**Achilles:**
 H-Huh? Later? If you guys go on land you'll be arrested and thrown in prison...
 
  
-**Achilles**
+**Achilles:**
 Well, whatever. Take care, idiots!
 
  
-**Mash**
+**Mash:**
 ...Combat has concluded. No wounded on our side, and no casualties among theirs.
 
  
@@ -726,52 +726,52 @@ This is a different kind of fight altogether.
 
 ---
  
-**Mash**
+**Mash:**
 ...Yes. Alexander's charge on horseback and the way Achilles rallied the pirates were both amazing.
 
  
-**Mash**
+**Mash:**
 The pirates that seemed so dangerous at first...
 They were completely taken aback by it.
 
  
-**Achilles**
+**Achilles:**
 &ndash;Now then.
 You guys fought hard too.
 
  
-**Achilles**
+**Achilles:**
 Good work. You're that kid's guardian, right?
 I bet he gets you in all kinds of trouble.
 
  
-**Achilles**
+**Achilles:**
 One day, I'm sure he'll be a great king somewhere.
 Until then, just keep an eye on him.
 
  
-**Achilles**
+**Achilles:**
 Right now he's just a little brat.
 Man, look at his sleeping face.
 
  
-**Alexander**
+**Alexander:**
 ...Zzzz.
 
  
-**Mash**
+**Mash:**
 ...Yeah. He looks really happy, doesn't he Senpai?
 
  
-**Mash**
+**Mash:**
 No matter how cheerful he may seem, his actions and beliefs are filled with power. I can feel it.
 
  
-**Mash**
+**Mash:**
 ...Even if that path is filled with turmoil and chaos.
 
  
-**Mash**
+**Mash:**
 The men he commands will probably lead happy lives.
 
  
@@ -790,7 +790,7 @@ It'll be hard for those around him.
 
 ---
  
-**Fou**
+**Fou:**
 Fou, foou.
 
 

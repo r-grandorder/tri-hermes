@@ -2,25 +2,25 @@
 
 <h2>A Man's Battle</h2>
 
-**Blackbeard**
+**Blackbeard:**
 Big trouble, Mistah Fujimaru! Big trouble!
 There's a big trouble a brewin'!
 
  
-**Mash**
+**Mash:**
 Mistah Blackbeard... I can estimate with 99% probability that it's something stupid, but what is it?
 
  
-**Blackbeard**
+**Blackbeard:**
 Bwaha, Missy Mash has got a sharp tongue on her, don't she? But I like that, I do!
 
  
-**Mash**
+**Mash:**
 ...Blackbeard,
 Master is actually pretty busy.
 
  
-**Mash**
+**Mash:**
 There's a lot of work to be done with the Servants.
 Right, Senpai?
 
@@ -41,59 +41,59 @@ Mash, isn't Mistah Blackbeard...
 
 ---
  
-**Blackbeard**
+**Blackbeard:**
 With all the Grail business goin' on, I forgot about it, but today's an important day in history.
 
  
-**Blackbeard**
+**Blackbeard:**
 I remembered that it's a historical turning point, I did.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Today? Hmm... What happened today?
 There's nothing in Chaldea's database.
 
  
-**Blackbeard**
+**Blackbeard:**
 Today's when all the pirates of the Caribbean gather for the biggest event of the high seas!
 
  
-**Blackbeard**
+**Blackbeard:**
 The Pirate Market!
 AKA PaiKet, begins today!
 
  
-**Blackbeard**
+**Blackbeard:**
 Now, Missy Mash, Mistah Fujimaru!
 Repeat after me!
 
  
-**Blackbeard**
+**Blackbeard:**
 PAIKET!
 
  
-**Fou**
+**Fou:**
 Fou...
 
  
-**Mash**
+**Mash:**
 ...So Doctor, about that Singularity.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh right. I rescanned the data and it turns out that era&ndash;
 
  
-**Blackbeard**
+**Blackbeard:**
 Hnnng LOL Just the right amount of salt!
 It just makes me wanna try harder!
 
  
-**Blackbeard**
+**Blackbeard:**
 Come on, guys, whadd'ya got to lose?
 
  
-**Blackbeard**
+**Blackbeard:**
 Come with me, and enjoy the flourishment of a new human culture!
 
  
@@ -103,7 +103,7 @@ Come with me, and enjoy the flourishment of a new human culture!
 **Fujimaru 1:**
 I guess it wouldn't hurt...
  
-**Mash**
+**Mash:**
 If you say so, Senpai...
 
  
@@ -113,7 +113,7 @@ If you say so, Senpai...
 **Fujimaru 2:**
 I can't miss this!
  
-**Mash**
+**Mash:**
 Senpai!
 
  
@@ -121,54 +121,54 @@ Senpai!
 
 ---
  
-**Mash**
+**Mash:**
 Dozens of ships linked into one big event venue.
 These people... What are they doing with their lives...
 
  
-**Blackbeard**
+**Blackbeard:**
 LOLOLOL How I've missed that salty Caribbean air!
 Ya know, there's something I gotta say here!
 
  
-**Blackbeard**
+**Blackbeard:**
 Caribbean, I'm back!
 Bwaha-LOLOLOL! Ahahaha! ROFL!
 
  
-**Pirate**
+**Pirate:**
 We've been waiting for you, Mistah Blackbeard!
 They only hold the PaiKet every few years!
 
  
-**Pirate**
+**Pirate:**
 It's an honor to be here with you,
 the famous PaiKet warrior! Ahahaha-LOLOLOL!
 
  
-**Mash**
+**Mash:**
 Um...Mistah Blackbeard, who are these people?
 
  
-**Blackbeard**
+**Blackbeard:**
 They're the comrades I've gathered via the internet! I've prepared carefully in advance.
 
  
-**Blackbeard**
+**Blackbeard:**
 Even I'm not foolish enough to attempt to conquer this place on my own!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 So what do you do here, exactly?
 It just looks like a bazaar to me...
 
  
-**Blackbeard**
+**Blackbeard:**
 There's records of pirate glories, navigational maps,
 rare treasures, legendary treasure maps&ndash;
 
  
-**Blackbeard**
+**Blackbeard:**
 We've got the whole world, right here for the buying! Well? Sounds fun, right? Right?
 
  
@@ -188,111 +188,111 @@ What are you after?
 
 ---
  
-**Blackbeard**
+**Blackbeard:**
 That's my Master/Captain/CEO!
 Getting right to the point!
 
  
-**Blackbeard**
+**Blackbeard:**
 Today I'm after the legendary pirate Francis Drake's rough sketches!
 
  
-**Blackbeard**
+**Blackbeard:**
 Oh, by roughs, I mean nudes okay?
 Not just some crap somebody dashed off either, LOLOL!
 
  
-**Blackbeard**
+**Blackbeard:**
 I mean, I ain't interested in that old hag's nudes!
 Not at all! 100%, no way!
 
  
-**Blackbeard**
+**Blackbeard:**
 It's just, you know... For my collection?
 I wanna have em? Bwahahah-LOL!
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Those were made with her permission, right?
 
  
-**Pirate Staff**
+**Pirate Staff:**
 &ndash;We will now begin the 88th Pirate's Market.
 Please remain calm and do not run&ndash;
 
  
-**Blackbeard**
+**Blackbeard:**
 ...
 
  
-**Mash**
+**Mash:**
 Looks like it's started.
 What's wrong, Mistah Blackbeard?
 
  
-**Blackbeard**
+**Blackbeard:**
 Fool! Call me Cap'n here!
 Men, are ye ready!
 
  
-**Pirate**
+**Pirate:**
 Aye, aye, Cap'n!
 
  
-**Blackbeard**
+**Blackbeard:**
 Listen up! We're pirates of the Caribbean!
 We left our pride and lives behind in the sea!
 
  
-**Blackbeard**
+**Blackbeard:**
 We do what we always do: pillage, plunder, and kill!
 That's all there is to it! Let's go, men!
 
  
-**Blackbeard**
+**Blackbeard:**
 First, we start with the night campers,
 who are leading the charge toward us! Stay sharp!
 
  
-**Mash**
+**Mash:**
 W-What's happening?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 A group's coming up from the rear at incredible speed...
 
  
-**Blackbeard**
+**Blackbeard:**
 YARGH! Send 'em to Davy Jones' locker!
 Battle is a party, it's party time!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Blackbeard**
+**Blackbeard:**
 Yar, that's the last of 'em!
 Hmm? More?
 
  
-**Enemy Pirate**
+**Enemy Pirate:**
 It's been a long time, Blackbeard... You're going to pay for embarrassing our captain!
 
  
-**Blackbeard**
+**Blackbeard:**
 Hah, I don't even know who ya are!
 Hey, Mash, Fujimaru!
 
  
-**Blackbeard**
+**Blackbeard:**
 Go on ahead!
 I'm gonna slaughter these guys first!
 
  
-**Mash**
+**Mash:**
 R-Right...
 This is a bazaar, isn't it?
 
@@ -313,22 +313,22 @@ Don't die, Blackbeard!
 
 ---
  
-**Blackbeard**
+**Blackbeard:**
 Huh? Who do ye think yer talkin' to?
 I'm Blackbeard, the devil of the Caribbean!
 
  
-**Blackbeard**
+**Blackbeard:**
 I ain't so far gone I need a wet-behind-the-ears kid to be lookin' after me! Get going!
 
  
-**Mash**
+**Mash:**
 L-Let's just go, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Artist Pirate**
+**Artist Pirate:**
 Ya just bought the last copy of
 "100 Sketches of Francis the Old Hag!"
 
@@ -349,35 +349,35 @@ We finally got it!
 
 ---
  
-**Mash**
+**Mash:**
 ...L-Looks like we got the last one.
 Let's get back to Blackbeard.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Um, well...
 What exactly is this?
 
  
-**Fou**
+**Fou:**
 Foou...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, Fou...
 I didn't see you there.
 
  
-**Blackbeard**
+**Blackbeard:**
 ...Yar, looks like ya pulled it off.
 
  
-**Mash**
+**Mash:**
 Blackbeard!
 You're badly hurt!
 
  
-**Blackbeard**
+**Blackbeard:**
 Eh, I'm a pirate... It happens.
 Just glad to have me head on me shoulders still.
 
@@ -398,21 +398,21 @@ Blackbeard! Don't die on me!
 
 ---
  
-**Blackbeard**
+**Blackbeard:**
 Yar, look at you, all grown up now...
 Hey, I got no regrets. I can die as a pirate.
 
  
-**Blackbeard**
+**Blackbeard:**
 This is the greatest treasure of 'em all... I just wish I could've seen the treasure I sought once before I died...
 
  
-**Blackbeard**
+**Blackbeard:**
 Bye-bye! It was a great life!
 Farewell! Gwahahahahaha!
 
  
-**Mash**
+**Mash:**
 Mistah Blackbeard...
 
  
@@ -432,53 +432,53 @@ Huh? Did that just happen?
 
 ---
  
-**Mash**
+**Mash:**
 &ndash;Here's the sketchbook you sought.
 Take it and rest in peace.
 
  
-**Fou**
+**Fou:**
 Foou...
 
  
-**Blackbeard**
+**Blackbeard:**
 Bwah!? This is the PaiKet-only Old Hag Sketchbook?
 There's a new issue out! A new one! I win!
 
  
-**Blackbeard**
+**Blackbeard:**
 I win at everything! I mean,
 I've got huge respect for old hag Francis.
 
  
-**Blackbeard**
+**Blackbeard:**
 Though in my case, I like her, but less as a pirate.
 
  
-**Blackbeard**
+**Blackbeard:**
 More as a Pioneer of the Stars,
 I'm a little weird that way, LOL.
 
  
-**Blackbeard**
+**Blackbeard:**
 Maybe it's Ferdinand Magellan's influence, ROFL.
 Bwahaha-LOLOLOL, ahem, excuse me.
 
  
-**Blackbeard**
+**Blackbeard:**
 This is what makes PaiKet so great, lolol.
 It's what makes me and the hag eternal, LOL!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Shall we go home?
 
  
-**Mash**
+**Mash:**
 Let's go home...
 
  
@@ -488,7 +488,7 @@ Let's go home...
 **Fujimaru 1:**
 Let's come back next year, okay?
  
-**Mash**
+**Mash:**
 Huh?
 
  
@@ -498,7 +498,7 @@ Huh?
 **Fujimaru 2:**
 I'm tired...
  
-**Fou**
+**Fou:**
 Foou...
 
  

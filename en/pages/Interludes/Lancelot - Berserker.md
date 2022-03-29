@@ -2,7 +2,7 @@
 
 <h2>Knight of Owner</h2>
 
-**Mash**
+**Mash:**
 Ahh...
 This breeze certainly feels nice, doesn't it Senpai?
 
@@ -23,23 +23,23 @@ It sure does, come to think of it...
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 I was wondering why you brought a Berserker to such a peaceful picnic.
 
  
-**Lancelot**
+**Lancelot:**
 ...
 
  
-**Mash**
+**Mash:**
 Doctor, Lancelot may be a Berserker, but I think if you talk to him he'll understand.
 
  
-**Mash**
+**Mash:**
 He's a reasonable Berserker, so I think it's all right.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 A reasonable Berserker...
 He couldn't be a Berserker then, could he...
 
@@ -60,30 +60,30 @@ To be honest, it seems that way.
 
 ---
  
-**Mash**
+**Mash:**
 Yes...
 He does seem to understand us.
 
  
-**Fou**
+**Fou:**
 Foou?
 
  
-**Lancelot**
+**Lancelot:**
 ![berserk2](https://i.imgur.com/7VYgcEB.png)&ndash;!!!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Gah! I knew it!
 He doesn't understand us!
 
  
-**Mash**
+**Mash:**
 No, that's not it! &ndash;Senpai! It's an enemy attack!
 Get behind me! I'll intercept th...
 
  
-**Mash**
+**Mash:**
 Huh?
 Where's my shield?
 
@@ -104,30 +104,30 @@ Sorry, I put our lunches on it...
 
 ---
  
-**Mash**
+**Mash:**
 Oh! It still has our lunches on it!
 Senpai, watch out!
 
  
-**Lancelot**
+**Lancelot:**
 ![berserk2](https://i.imgur.com/7VYgcEB.png)&ndash;!!!
 
  
-**Mash**
+**Mash:**
 Lancelot!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 He used the chopsticks&ndash;
 to stop the attack... That's amazing...
 
  
-**Mash**
+**Mash:**
 So that's the skill of the Knight of Owner.
 Bravo, Lancelot!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 But those chopsticks won't hold out for long!
 
  
@@ -147,30 +147,30 @@ I think we need to get Mash's shield...
 
 ---
  
-**Fou**
+**Fou:**
 Foou!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Huh? ...What did you find, Fou?
 That's a log! Well done, Fou!
 
  
-**Mash**
+**Mash:**
 Take it, Lancelot!
 
  
-**Lancelot**
+**Lancelot:**
 ![berserk2](https://i.imgur.com/7VYgcEB.png)&ndash;!!!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Whoa! Just touching that log he instantly transformed it into a Noble Phantasm-level weapon!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 They're still coming!
 Senpai, your orders!
 
@@ -191,13 +191,13 @@ Lancelot, a fresh log for you!
 
 ---
  
-**Lancelot**
+**Lancelot:**
 ![berserk2](https://i.imgur.com/7VYgcEB.png)&ndash;!!!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 This is the last wave of enemies!
 Lancelot, your log&mdash;
 
@@ -218,31 +218,31 @@ Thank goodness there's a forest nearby!
 
 ---
  
-**Lancelot**
+**Lancelot:**
 ![berserk2](https://i.imgur.com/7VYgcEB.png)&ndash;!!!
 
  
-**Mash**
+**Mash:**
 H-He seems upset! Master, it seems as if he's had it with logs, and wants a real weapon!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 Whew... Somehow, we fought them off.
 You were a great help, Lancelot!
 
  
-**Lancelot**
+**Lancelot:**
 ...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Knight of Owner... I see.
 But, can logs and chopsticks be counted as weapons?
 
  
-**Mash**
+**Mash:**
 I've heard of a great swordsman in ancient Japan who used chopsticks to defeat an insect-like monster, so I don't think it's unusual.
 
  
@@ -262,20 +262,20 @@ Was that Musashi?
 
 ---
  
-**Mash**
+**Mash:**
 Yes. But even then, they wouldn't work as weapons without Lancelot's unparallel abilities.
 
  
-**Lancelot**
+**Lancelot:**
 ![berserk1](https://i.imgur.com/XAqlQYL.png)!!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 What? Another enemy attack?
 ...Or not. Is he communicating with us?
 
  
-**Mash**
+**Mash:**
 I'm sure that's it.
 Don't you agree Senpai?
 
@@ -296,21 +296,21 @@ So it seems.
 
 ---
  
-**Lancelot**
+**Lancelot:**
 ![berserk1](https://i.imgur.com/XAqlQYL.png)!!
 
  
-**Fou**
+**Fou:**
 Fou!
 
 
 <h2>For Someone's Glory</h2>
 
-**Mash**
+**Mash:**
 Lancelot's...face?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yeah. See, he's always wearing that helmet, right?
 Don't you want to see what's under there?
 
@@ -331,47 +331,47 @@ He's probably quite handsome.
 
 ---
  
-**Fou**
+**Fou:**
 Foou?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 You'll have to admit, Lancelot is the ideal image of a knight! He's the most popular Heroic Spirit among the ladies in this world.
 
  
-**Mash**
+**Mash:**
 Haa...
 But how can we get his helmet off?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Plan A: A slip of the hand during battle!
 All right, let's give it a try!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Now then, I'm going to start the battle simulation program. Is everybody ready?
 
  
-**Lancelot**
+**Lancelot:**
 ...
 
  
-**Mash**
+**Mash:**
 (I feel really bad about tricking him...)
 ...Got it, Doctor. I'm ready any time.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The enemy's a simulated Servant used for trainings,
 so it's not dangerous. Don't worry.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 (I'm going to set the parameters at the highest, though.)
 
  
-**Mash**
+**Mash:**
 Let's begin, Master.
 
  
@@ -391,63 +391,63 @@ Am I supposed to slip and pull his helmet off?
 
 ---
  
-**Mash**
+**Mash:**
 Senpai!
 Shhh! Shhh!
 
  
-**Lancelot**
+**Lancelot:**
 ![berserk2](https://i.imgur.com/7VYgcEB.png)&ndash;!!!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Lancelot**
+**Lancelot:**
 ![berserk2](https://i.imgur.com/7VYgcEB.png)&ndash;!!
 
  
-**Mash**
+**Mash:**
 Th-That was excellent... (It's no good.
 He doesn't leave any openings during or after battle!)
 
  
-**Dr. Roman**
+**Dr. Roman:**
 (He truly is the Knight of the Lake!)
 Is he really under Madness Enhancement?
 
  
-**Mash**
+**Mash:**
 That must be his famous "Eternal Arms Mastery."
 
  
-**Mash**
+**Mash:**
 Even under Madness Enhancement, his combat skills will never deteriorate.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 We're not through yet! Don't give up, Mash!
 The next Shadow Servant will be incredible!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 (Hahaha, I'm gonna rig the settings.)
 (Even the Knight of the Lake won't be able to...)
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...Oops.
 
  
-**Mash**
+**Mash:**
 Um...
 Doctor, what is this?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Sorry, I messed up. I might've summoned an extremely powerful mock Servant.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oopsie Daisy?
 
  
@@ -467,48 +467,48 @@ Oopsie daisy my butt!
 
 ---
  
-**Fou**
+**Fou:**
 Foou!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, just FYI.
 This Shadow Servant might cost you your lives...
 
  
-**Mash**
+**Mash:**
 Doctor?!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 D-Do your best!
 
  
-**Mash**
+**Mash:**
 I'll make you pay for this later, got it?
 Anyway, let's take care of this Lancelot!
 
  
-**Lancelot**
+**Lancelot:**
 ![berserk2](https://i.imgur.com/7VYgcEB.png)&ndash;!!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 W-We won...just barely.
 
  
-**Lancelot**
+**Lancelot:**
 ...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 He made that fight look like a walk in the park...
 The Knight of the Lake... What a guy...
 
  
-**Fou**
+**Fou:**
 Foou...
 
  
@@ -528,19 +528,19 @@ I just want to go back to my room...
 
 ---
  
-**Mash**
+**Mash:**
 Sheesh, it's all because the Doctor wanted to see Lancelot's face, that's why we... Oops.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Mash?
 
  
-**Lancelot**
+**Lancelot:**
 ...
 
  
-**Mash**
+**Mash:**
 I-I'm sorry...
 
  
@@ -560,45 +560,45 @@ Come on and just show us!
 
 ---
  
-**Lancelot**
+**Lancelot:**
 ...!!! (Kachank)
 
  
-**Mash**
+**Mash:**
 ...What?
 You're going to show us?
 
  
-**Fou**
+**Fou:**
 Fou!?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Whaaaaaat?
 All my effort was for nothing...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 But, finally, we can see the Knight of the Lake's true face!
 
  
-**Mash**
+**Mash:**
 ...!!! (Gulp)
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Whooooah! ...What the?
 
  
-**Mash**
+**Mash:**
 I don't know what to say...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 For some reason, even with his helmet off, it's a blur and I can't make out his features at all.
 
  
-**Lancelot**
+**Lancelot:**
 ...
 
  
@@ -618,20 +618,20 @@ Show us your face!
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 I get it. I think this is the effect of
 "For Someone's Glory."
 
  
-**Mash**
+**Mash:**
 The skill that conceals his status and appearance, isn't it?
 
  
-**Mash**
+**Mash:**
 But still, even this close with his helmet off, I still can't see a thing...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 All this has made me...so tired.
 
  
@@ -651,21 +651,21 @@ Let's go back and eat...
 
 ---
  
-**Mash**
+**Mash:**
 Y-Yeah, let's...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Well, talk about a waste of time.
 I think that's the right phrase for today.
 
  
-**Mash**
+**Mash:**
 Don't talk like that, Doctor!
 Lancelot, please don't be offended.
 
  
-**Lancelot**
+**Lancelot:**
 ...
 
  
@@ -685,11 +685,11 @@ Someday we'll be able to see your real face, right?
 
 ---
  
-**Mash**
+**Mash:**
 Haha... Yes, that's right.
 I have a feeling it will happen.
 
  
-**Fou**
+**Fou:**
 Fou!!
 

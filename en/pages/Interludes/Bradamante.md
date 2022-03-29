@@ -719,7 +719,7 @@ Gareth and Mandricardo vs. Bradamante and me, huh? Let's do it!
 
 ---
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Bradamante:**
 Here goes!

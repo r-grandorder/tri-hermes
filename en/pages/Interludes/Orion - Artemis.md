@@ -2,7 +2,7 @@
 
 <h2>Unsweet Honeymoon</h2>
 
-**Artemis**
+**Artemis:**
 Hello, Master! Are you here?
 
  
@@ -22,36 +22,36 @@ I'm not home.
 
 ---
  
-**Artemis**
+**Artemis:**
 How mean!
 Darling, this Master is neglecting his duties.
 
  
-**Artemis**
+**Artemis:**
 ...Darling?
 
  
-**Mash**
+**Mash:**
 Um, please don't stare at me like that.
 
  
-**Fou**
+**Fou:**
 Fuukaaaa!
 
  
-**Orion**
+**Orion:**
 It's fine, it's all right, it's not like it'll hurt you.
 
  
-**Artemis**
+**Artemis:**
 ...Hmph!
 
  
-**Mash**
+**Mash:**
 You (Orion) are in trouble, aren't you?
 
  
-**Orion**
+**Orion:**
 That's right. I'm in trouble.
 Physically.
 
@@ -72,24 +72,24 @@ I just remembered something, gotta go.
 
 ---
  
-**Artemis**
+**Artemis:**
 Darling,
 This person is so heartless.
 
  
-**Artemis**
+**Artemis:**
 Just because Mash is here is no excuse!
 
  
-**Mash**
+**Mash:**
 ???
 
  
-**Orion**
+**Orion:**
 ...Just tell them what you want already.
 
  
-**Artemis**
+**Artemis:**
 Okay!
 Um, we want to go to France!
 
@@ -110,7 +110,7 @@ For what reason?
 
 ---
  
-**Artemis**
+**Artemis:**
 Our honeymoon!
 
  
@@ -124,103 +124,103 @@ Please leave!
 
 ---
  
-**Mash**
+**Mash:**
 We're here...
 
  
-**Artemis**
+**Artemis:**
 Wow, so this is France!
 It's wonderful! The air's so different than Greece!
 
  
-**Orion**
+**Orion:**
 Sorry, she's being so selfish...
 
  
-**Artemis**
+**Artemis:**
 Let's get this honeymoon started!
 First, the Arc de Triomphe!
 
  
-**Mash**
+**Mash:**
 The Arc de Triomphe was built in 1806,
 so it doesn't exist yet...
 
  
-**Artemis**
+**Artemis:**
 How about the Eiffel Tower?
 
  
-**Mash**
+**Mash:**
 That's 1887.
 If you're willing to wait another 450 years or so...
 
  
-**Artemis**
+**Artemis:**
 Aww! No way!
 
  
-**Orion**
+**Orion:**
 Right, right, are you done?
 Let's just wander around a bit and go home.
 
  
-**Mash**
+**Mash:**
 I really don't feel like going on a tourist trip...
 
  
-**Artemis**
+**Artemis:**
 Sigh... I guess we'll have to see the towns or something.
 
  
-**Artemis**
+**Artemis:**
 But it's probably boring without the Arc de Triomphe or Eiffel Tower... Let's go, but don't expect too much.
 
  
-**Artemis**
+**Artemis:**
 Aww, it really is boring.
 The only things different are the buildings and clothes.
 
  
-**Artemis**
+**Artemis:**
 There's people,
 there's dogs...
 
  
-**Artemis**
+**Artemis:**
 And there's monsters...
 
  
-**Mash**
+**Mash:**
 ...Why are there monsters here?
 Oh, forget it. Let's just fight them! Help me out!
 
  
-**Artemis**
+**Artemis:**
 What? I don't wanna!
 
  
-**Orion**
+**Orion:**
 Just do it!
 
  
-**Artemis**
+**Artemis:**
 Okaay.
 It can't be helped, let's kill them!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 Whew. I didn't expect to see monsters...
 
  
-**Artemis**
+**Artemis:**
 What are they doing here?
 This world was repaired, right?
 
  
-**Mash**
+**Mash:**
 Something might be happening.
 We have to look into it.
 
@@ -241,64 +241,64 @@ Agreed.
 
 ---
  
-**Artemis**
+**Artemis:**
 Huh? But our honeymoon...
 
  
-**Orion**
+**Orion:**
 Right, right. Well, the honeymoon's delayed.
 
  
-**Artemis**
+**Artemis:**
 Noooo...
 
  
-**Orion**
+**Orion:**
 ...
 
  
-**Artemis**
+**Artemis:**
 ...
 
  
-**Orion**
+**Orion:**
 Oh, fine! Fine!
 Listen, Artemis.
 
  
-**Orion**
+**Orion:**
 "This is our honeymoon."
 We're fighting monsters on our honeymoon.
 
  
-**Orion**
+**Orion:**
 We'll sightsee and beat bad guys.
 Good times all around.
 
  
-**Artemis**
+**Artemis:**
 Orion...
 
  
-**Orion**
+**Orion:**
 Sounds fun, right? Sounds great, right?
 I know it sounds totally fun to me!
 
  
-**Artemis**
+**Artemis:**
 ...Yeah, you're right!
 Darling, I love you!
 
  
-**Orion**
+**Orion:**
 Your love is way too clingy. No thanks.
 
  
-**Artemis**
+**Artemis:**
 That's so mean!
 
  
-**Mash**
+**Mash:**
 ...Master, do those two like each other, or not?
 
  
@@ -308,7 +308,7 @@ That's so mean!
 **Fujimaru 1:**
 What do you think?
  
-**Mash**
+**Mash:**
 ...I'm not sure.
 
  
@@ -318,7 +318,7 @@ What do you think?
 **Fujimaru 2:**
 They're lovey-dovey.
  
-**Mash**
+**Mash:**
 I-I see.
 
  
@@ -326,63 +326,63 @@ I-I see.
 
 ---
  
-**Mash**
+**Mash:**
 Love is... Very deep.
 
  
-**Artemis**
+**Artemis:**
 Where are we?
 
  
-**Mash**
+**Mash:**
 An abandoned military camp, I think.
 There shouldn't be anything interesting here.
 
  
-**Orion**
+**Orion:**
 Yeah, the only interesting things would be...
 You see all those bags in the corner?
 
  
-**Mash**
+**Mash:**
 Yes, I do...
 
  
-**Orion**
+**Orion:**
 Body bags, right?
 
  
-**Mash**
+**Mash:**
 They are.
 
  
-**Orion**
+**Orion:**
 ...They're moving around.
 
  
-**Artemis**
+**Artemis:**
 Aah! That's scary!
 Orion, protect me!
 
  
-**Orion**
+**Orion:**
 It's the other way around, dummy!
 I need you to protect me!
 
  
-**Mash**
+**Mash:**
 So this time it's the living dead, huh?
 Artemis, let's fight!
 
  
-**Artemis**
+**Artemis:**
 Okay! Orion needs my help, which powers me up!
 Let's go!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Orion**
+**Orion:**
 ...Whew. That was hard work.
 
  
@@ -402,129 +402,129 @@ You did something?
 
 ---
  
-**Orion**
+**Orion:**
 Master, don't say that.
 It's depressing... It makes me really sad...
 
  
-**Artemis**
+**Artemis:**
 Sad Orion is so cute!
 Mmmmmmm!
 
  
-**Orion**
+**Orion:**
 You'll crush me! You're crushing me!
 And I'm not cute, I'm cool!
 
  
-**Artemis**
+**Artemis:**
 Come on, let's go somewhere else. This time,
 I'd like someplace that doesn't smell like blood!
 
  
-**Mash**
+**Mash:**
 O-Okay, we'll go somewhere else.
 
  
-**Artemis**
+**Artemis:**
 ...This place reeks of blood!
 
  
-**Mash**
+**Mash:**
 I'm sorry.
 But this castle should have been purified long ago&ndash;
 
  
-**Artemis**
+**Artemis:**
 Aww, my honeymoon...
 Our trip as newlyweds...
 
  
-**Orion**
+**Orion:**
 Don't worry, as long as we defeat whatever's lurking here, I'm sure the smell will be gone.
 
  
-**Artemis**
+**Artemis:**
 Hmph... I'm really irritated now!
 Whoever runs into me should just blame their fate!
 
  
-**Artemis**
+**Artemis:**
 Let's go, Orion, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Artemis**
+**Artemis:**
 Okay, we beat them!
 
  
-**Orion**
+**Orion:**
 Sigh, oh brother...
 I'm tired (mentally, even though I did nothing)...
 
  
-**Mash**
+**Mash:**
 To think Lamias nested up in the castle...
 
  
-**Artemis**
+**Artemis:**
 My honeymoon is ruined...
 
  
-**Orion**
+**Orion:**
 ...Hmm?
 Hey, Artemis.
 
  
-**Artemis**
+**Artemis:**
 What is it, Darling?
 
  
-**Orion**
+**Orion:**
 Here.
 
  
-**Artemis**
+**Artemis:**
 Huh? This is...a ring?
 
  
-**Orion**
+**Orion:**
 The Lamia had it... Well, you want a ring for your honeymoon, right?
 
  
-**Artemis**
+**Artemis:**
 Oh...
 
  
-**Orion**
+**Orion:**
 Listen, I know a ring I took off a Lamia isn't going to make you that happy&ndash;
 
  
-**Artemis**
+**Artemis:**
 No, I'll treasure it! I'll treasure it forever!
 Yay! Hooray!
 
  
-**Orion**
+**Orion:**
 Sigh. Oh, brother...
 
  
-**Orion**
+**Orion:**
 Master, Mash.
 Sorry for the trouble.
 
  
-**Mash**
+**Mash:**
 Not at all.
 ...I see. Their love is very complex.
 
  
-**Mash**
+**Mash:**
 But it's kind of nice to watch.
 
  
-**Orion**
+**Orion:**
 I-It's not like that, okay!?
 This is... um... it's not like that!
 
@@ -539,23 +539,23 @@ No one likes a male tsundere.
 
 ---
  
-**Orion**
+**Orion:**
 It's not like that, I said&ndash; Argh, whatever!
 Mash, just let me snuggle between your breasts!
 
  
-**Mash**
+**Mash:**
 Please stop using me as a way to get out of trouble!
 
  
-**Artemis**
+**Artemis:**
 ...What are you doing, Darling?
 You idiot! Idiot! IDIOT!
 
 
 <h2>A Certain Love Song</h2>
 
-**Artemis**
+**Artemis:**
 Hey, Master!
 
  
@@ -575,21 +575,21 @@ I'm not home!
 
 ---
  
-**Mash**
+**Mash:**
 Good answer, Senpai.
 But the door's already open so that won't work.
 
  
-**Orion**
+**Orion:**
 What's up, guys?
 We've come to cause more trouble.
 
  
-**Mash**
+**Mash:**
 Oh, so trouble is guaranteed...
 
  
-**Artemis**
+**Artemis:**
 I want to go to America!
 Take me there!
 
@@ -610,16 +610,16 @@ You can't!
 
 ---
  
-**Mash**
+**Mash:**
 ...And here we are in America.
 
  
-**Artemis**
+**Artemis:**
 Yay! Broadway!
 Let's go to Broadway, Darling!
 
  
-**Orion**
+**Orion:**
 Um... Broadway is...
 
  
@@ -633,80 +633,80 @@ Not here.
 
 ---
  
-**Mash**
+**Mash:**
 If you can wait another century or so...
 
  
-**Artemis**
+**Artemis:**
 Aww, I'm disappointed! But that's okay, anywhere's fun as long as I'm with Darling!
 
  
-**Artemis**
+**Artemis:**
 Come on, let's go!
 
  
-**Orion**
+**Orion:**
 Sorry, can you come with us for a while?
 
  
-**Mash**
+**Mash:**
 ...Fine.
 Let's go.
 
  
-**Artemis**
+**Artemis:**
 Wow, it's a town! How wonderful!
 It feels just like a Western!
 
  
-**Artemis**
+**Artemis:**
 ...Are there cowboys?
 
  
-**Mash**
+**Mash:**
 I don't think there are any in this era...
 Wait a minute. Why is there no one here?
 
  
-**Mash**
+**Mash:**
 That cry... Is that...
 A wyvern?
 
  
-**Artemis**
+**Artemis:**
 Oh, wonderful!
 A dragon!
 
  
-**Artemis**
+**Artemis:**
 ...Wait, I'm sick of dragons.
 We fought a bunch of them at sea.
 
  
-**Artemis**
+**Artemis:**
 I don't know who it is, but they suck at picking enemies.
 
  
-**Mash**
+**Mash:**
 Um, let's fight them!
 
  
-**Orion**
+**Orion:**
 Right, right. Let's do it!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 I don't see any Celtic warriors...
 I guess this wasn't their doing.
 
  
-**Artemis**
+**Artemis:**
 It's strange, huh?
 
  
-**Orion**
+**Orion:**
 ...
 
  
@@ -726,96 +726,96 @@ Something bothering you?
 
 ---
  
-**Orion**
+**Orion:**
 No, sorry.
 It's nothing.
 
  
-**Orion**
+**Orion:**
 I was just... Yeah, I was just thinking which I like better, Mash's legs or breasts.
 
  
-**Artemis**
+**Artemis:**
 &ndash;Darling?
 
  
-**Orion**
+**Orion:**
 No, um, well, wai&mdash;
 
  
-**Mash**
+**Mash:**
 Aww,
 Orion is such a silly person.
 
  
-**Mash**
+**Mash:**
 ...He is a person, right?
 
  
-**Orion**
+**Orion:**
 I'm a person, okay!?
 This is just a temporary form, okay!?
 
  
-**Artemis**
+**Artemis:**
 Sigh.
 Hey, Orion?
 
  
-**Orion**
+**Orion:**
 Huh? What is it?
 
  
-**Artemis**
+**Artemis:**
 All these empty plains are boring me!
 We came all the way to America!
 
  
-**Orion**
+**Orion:**
 Sigh, there's nothing we can do.
 
  
-**Orion**
+**Orion:**
 Then let me tell you this funny story about how I met this guy's wife when she was wearing nothing but&ndash;
 
  
-**Artemis**
+**Artemis:**
 ...That's not a funny story, is it?
 
  
-**Orion**
+**Orion:**
 It's not, is... BWRAGH!
 
  
-**Artemis**
+**Artemis:**
 Like, sheesh! HMPH!
 
  
-**Mash**
+**Mash:**
 She just said “Hmph!”
 
  
-**Fou**
+**Fou:**
 Fou...
 
  
-**Artemis**
+**Artemis:**
 ...Hmm? Not again!
 First wyverns, now what!?
 
  
-**Artemis**
+**Artemis:**
 Golems! Golems, I see!
 Fine, fine! I'll do it!
 
  
-**Orion**
+**Orion:**
 Oww...
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Artemis**
+**Artemis:**
 Hmph!
 Where are all these monsters coming from?
 
@@ -830,105 +830,105 @@ Where are all these monsters coming from?
 
 ---
  
-**Mash**
+**Mash:**
 Master?
 
  
-**Orion**
+**Orion:**
 Master!
 
  
-**Orion**
+**Orion:**
 ...Sorry, but don't say anything.
 It's better if I tell her.
 
  
-**Mash**
+**Mash:**
 ?
 
  
-**Artemis**
+**Artemis:**
 Huh? What? Are you keeping secrets?
 Come on, you have to tell me, too!
 
  
-**Orion**
+**Orion:**
 ...It's not a secret, but, um, well, you see...
 
  
-**Orion**
+**Orion:**
 ...Basically, don't you think that all these monsters who show up in this world are our fault?
 
  
-**Artemis**
+**Artemis:**
 &ndash;Huh?
 
  
-**Orion**
+**Orion:**
 I mean, I'm nothing special,
 but you're supposedly a god, right?
 
  
-**Orion**
+**Orion:**
 Even if not in your Divine Form, you still have some influence on this world.
 
  
-**Orion**
+**Orion:**
 Distorting it, opening holes and what have you...
 
  
-**Orion**
+**Orion:**
 So it's kind of obvious that weird things are gonna pour out from there&ndash;
 
  
-**Artemis**
+**Artemis:**
 ...So what?
 I'm not allowed to go to other worlds?
 
  
-**Artemis**
+**Artemis:**
 ...Only where a Holy Grail War is being fought?
 
  
-**Orion**
+**Orion:**
 Well, I guess... that's how things look.
 
  
-**Artemis**
+**Artemis:**
 ...
 ...
 
  
-**Artemis**
+**Artemis:**
 WAAAAHHHHHHHHHHHHHHHHHHHHH!
 No, no, no, NO, NOOOO!
 
  
-**Orion**
+**Orion:**
 Sigh, what do I do now...
 
  
-**Artemis**
+**Artemis:**
 I mean, I thought we could finally, finally go outdoors on a date!
 
  
-**Artemis**
+**Artemis:**
 Without having to sneak behind Big Brother's back!
 
  
-**Artemis**
+**Artemis:**
 I wanted to hold hands, and hug, and make out and stuff!
 
  
-**Artemis**
+**Artemis:**
 WAAAAHHHH!
 
  
-**Orion**
+**Orion:**
 Sigh...
 
  
-**Mash**
+**Mash:**
 ...W-What do we do, Master?
 She's bawling. She's totally bawling.
 
@@ -943,7 +943,7 @@ Just leave it to Orion.
 
 ---
  
-**Orion**
+**Orion:**
 Thanks, Master.
 Could you help with something else, too?
 
@@ -958,125 +958,125 @@ Sure.
 
 ---
  
-**Artemis**
+**Artemis:**
 What?
 
  
-**Orion**
+**Orion:**
 Does it really matter?
 
  
-**Artemis**
+**Artemis:**
 Does what...matter?
 
  
-**Orion**
+**Orion:**
 Does it matter if there are enemies?
 It doesn't mean you and I can't go out.
 
  
-**Artemis**
+**Artemis:**
 Huh?
 
  
-**Orion**
+**Orion:**
 I mean, you're one of the gods of Olympus!
 Does a god really care if she causes others trouble!?
 
  
-**Artemis**
+**Artemis:**
 B-But I can't do that!
 
  
-**Orion**
+**Orion:**
 You retaliated a hundredfold to those that peeked on you when you were taking a bath, didn't you?
 
  
-**Artemis**
+**Artemis:**
 (Sob) You've got me there!
 But I was embarrassed!
 
  
-**Orion**
+**Orion:**
 Then it doesn't matter!
 What kind of god cares what happens to other people?
 
  
-**Artemis**
+**Artemis:**
 But&ndash;
 
  
-**Orion**
+**Orion:**
 One more thing! ...Throw those stupid worries that I'm going to hate you into Hades or something!
 
  
-**Orion**
+**Orion:**
 It's too late! It's way too late for me to hate you for stuff like that now, dummy!
 
  
-**Artemis**
+**Artemis:**
 (Sob...)
 
  
-**Orion**
+**Orion:**
 ...
 
  
-**Mash**
+**Mash:**
 A... A dragon!
 It's directly above us, and descending!
 
  
-**Orion**
+**Orion:**
 Artemis, you ready?
 
  
-**Artemis**
+**Artemis:**
 Yeah... Yeah!
 That's right! I'm a god! I'm super-duper important!
 
  
-**Artemis**
+**Artemis:**
 So I'm allowed to cause a little bit of trouble, right? 'Cause I'm a god!
 
  
-**Artemis**
+**Artemis:**
 All right! Let's do this!
 Orion, get on my head like always!
 
  
-**Orion**
+**Orion:**
 Sure, sure, let's win this!
 
  
-**Artemis**
+**Artemis:**
 Yeah!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Artemis**
+**Artemis:**
 Easy win!
 
  
-**Artemis**
+**Artemis:**
 Whew, I worked up a sweat!
 
  
-**Orion**
+**Orion:**
 (Pant, pant) ...I say this all the time,
 but fighting as a plush toy is rough...
 
  
-**Artemis**
+**Artemis:**
 Oh, hey! Hey! Master!
 
  
-**Artemis**
+**Artemis:**
 Um, I might cause a lot of problems for you in the future, but&ndash;
 
  
-**Artemis**
+**Artemis:**
 Thanks for having me with you!
 
  
@@ -1096,19 +1096,19 @@ I'm ready for it.
 
 ---
  
-**Artemis**
+**Artemis:**
 Thanks! Teeheehee!
 I like you almost as much as Orion!
 
  
-**Artemis**
+**Artemis:**
 If there's a god you like, let me know, okay?
 I'll introduce you!
 
 
 <h2>Golden Anniversary!</h2>
 
-**???**
+**???:**
 Master! Master! Please hide me, Master!!
 
  
@@ -1118,12 +1118,12 @@ Master! Master! Please hide me, Master!!
 **Fujimaru 1:**
 Not here now, leave a message.
  
-**???**
+**???:**
 Waaah! Your rejection hurts my poor little heart!
 I beg of you, Master!!!
 
  
-**Orion**
+**Orion:**
 A murderer! I'm being chased by a bloodthirsty killer!
 It's a murderer in a red and green striped sweater and a hockey mask!
 
@@ -1134,15 +1134,15 @@ It's a murderer in a red and green striped sweater and a hockey mask!
 **Fujimaru 2:**
 Orion, what's going on!?
  
-**Orion**
+**Orion:**
 Just open up! We'll talk then!
 
  
-**Orion**
+**Orion:**
 ...
 
  
-**Orion**
+**Orion:**
 Don't tell me you're not going to open up!?
 You devil! Oni! Artemis!!!
 
@@ -1151,32 +1151,32 @@ You devil! Oni! Artemis!!!
 
 ---
  
-**???**
+**???:**
 Daaarling♪
 
  
-**Orion**
+**Orion:**
 Oh, Lady Artemis has made her appearance!
 Sorry! I'm sorry, I'm sorry, I'm sorry!
 
  
-**Orion**
+**Orion:**
 I understand!
 
  
-**Orion**
+**Orion:**
 If this is about pretending to be Nursery Rhyme's partner to trick the female staff of Chaldea into fawning over me...
 
  
-**Orion**
+**Orion:**
 I regret my actions from the bottom of my heart!
 
  
-**Artemis**
+**Artemis:**
 ...You were doing that?
 
  
-**Orion**
+**Orion:**
 Ah, so you didn't know...then forge&ndash;gyaaah!!! Please! Please don't twist me like that! I don't bend that way!
 
  
@@ -1195,7 +1195,7 @@ I'm going to bed...
 
 ---
  
-**Artemis**
+**Artemis:**
 Yoo-hoo, Master! How are you?
 
  
@@ -1205,24 +1205,24 @@ Yoo-hoo, Master! How are you?
 **Fujimaru 1:**
 Um... Who's that next to you?
  
-**Artemis**
+**Artemis:**
 Oh this? It used to be Orion. Now it's a rag.
 
  
-**Artemis**
+**Artemis:**
 You can use it to clean the floors!
 
  
-**Orion**
+**Orion:**
 Cut it out!
 
  
-**Orion**
+**Orion:**
 I thought I was going to die!
 Actually, I very nearly DID die!
 
  
-**Artemis**
+**Artemis:**
 Oh, you're fine. I held back.
 
  
@@ -1232,15 +1232,15 @@ Oh, you're fine. I held back.
 **Fujimaru 2:**
 I'm good.
  
-**Artemis**
+**Artemis:**
 Yep, yep. Being good is a wonderful thing☆
 
  
-**Artemis**
+**Artemis:**
 Does darling appreciate his health now, too?
 
  
-**Orion**
+**Orion:**
 Yes! Absolutely, yes! Especially with you!
 Hooray for health! Not hurting is wonderful!
 
@@ -1258,11 +1258,11 @@ So, what's all this, then?
 
 ---
  
-**Orion**
+**Orion:**
 ...What is it?
 
  
-**Artemis**
+**Artemis:**
 Oh, right! So I've been wanting to ask Master...
 
  
@@ -1275,29 +1275,29 @@ Golden...
 
 ---
  
-**Orion**
+**Orion:**
 Wedding...
 
  
-**Mash**
+**Mash:**
 Anniversary?
 
  
-**Fou**
+**Fou:**
 Foufoufoufoufou.
 
  
-**Mash**
+**Mash:**
 Yes, yes, Fou.
 Food time? Here you go.
 
  
-**Artemis**
+**Artemis:**
 Mash, that was a sad response.
 As a goddess, that absolutely infuriates me!!!
 
  
-**Mash**
+**Mash:**
 M-my apologies. I was just surprised that it was a golden anniversary...
 
  
@@ -1310,64 +1310,64 @@ Doesn't a golden anniversary mean...
 
 ---
  
-**Mash**
+**Mash:**
 Yes, it is a celebration for a couple who's been married for fifty years.
 
  
-**Mash**
+**Mash:**
 The celebration is said to have started in the year 1860 in Germany, and the custom spread throughout Europe.
 
  
-**Orion**
+**Orion:**
 Oh, I see. It must have been a big deal if a couple was together for 50 years in the nineteenth century.
 
  
-**Orion**
+**Orion:**
 No wonder people want to celebrate.
 
  
-**Artemis**
+**Artemis:**
 Isn't it wonderful? I admire that kind of celebration...
 
  
-**Mash**
+**Mash:**
 The custom is to give gifts of gold, or anything made in pairs.
 
  
-**Orion**
+**Orion:**
 ...So what's this golden thing have to do with anything?
 
  
-**Mash**
+**Mash:**
 Yes, um... Artemis, your marriage was quite recent...
 
  
-**Orion**
+**Orion:**
 I'M STILL SINGLE!
 
  
-**Artemis**
+**Artemis:**
 How cruel! But we did get married! Married! M-A-R-R-I-E-D!
 
  
-**Artemis**
+**Artemis:**
 We even went on a honeymoon, and you even gave me a ring!!!
 
  
-**Mash**
+**Mash:**
 She's having a tantrum...
 
  
-**Mash**
+**Mash:**
 But Artemis is correct.
 You gave her a ring, and you went on a honeymoon.
 
  
-**Orion**
+**Orion:**
 Heh. Miss Mash. You've forgotten one critical thing: I'm a nice guy who goes around freely like a wandering cloud in the sky.
 
  
-**Orion**
+**Orion:**
 From one journey to another, from port to port...
 I start from Greece and go all around the world.
 
@@ -1386,37 +1386,37 @@ To do a lot of Celtic-ing with a bunch of women.
 
 ---
  
-**Orion**
+**Orion:**
 DAMN RIGHT!
 
  
-**Orion**
+**Orion:**
 (Gasp!) Oh crap! I didn't mean to say that out loud!
 
  
-**Artemis**
+**Artemis:**
 Teehee. Is that so, Orion?
 Then I shall tear this wandering cloud to shreds!
 
  
-**Orion**
+**Orion:**
 NOOOOOO!
 
  
-**Orion**
+**Orion:**
 I think this golden anniversary is a GREAT idea!
 Now that I think of it, we're Heroic Spirits...
 
  
-**Orion**
+**Orion:**
 ...and Heroic Spirits essentially have no concept of time.
 
  
-**Orion**
+**Orion:**
 I feel like we've been together for fifty years already.
 
  
-**Artemis**
+**Artemis:**
 You're absolutely right, darling! For fifty years, our love as a married couple has grown stronger!
 
  
@@ -1429,16 +1429,16 @@ He's been brainwashed...
 
 ---
  
-**Mash**
+**Mash:**
 What makes this sad is that...though it could be harmful, this shouldn't be much of a hindrance to us if we don't do anything...
 
  
-**Artemis**
+**Artemis:**
 Now come, let's do a golden anniversary!
 Um, what do we do on a golden anniversary?
 
  
-**Artemis**
+**Artemis:**
 Shall we gather a bunch of humans with the golden touch, like King Midas?
 
  
@@ -1456,11 +1456,11 @@ Please no.
 
 ---
  
-**Artemis**
+**Artemis:**
 Oh, you're right! A golden statue is nothing special these days! ...If that's the case, it has to be...
 
  
-**Artemis**
+**Artemis:**
 A Rayshift trip to travel around the world!
 
  
@@ -1473,60 +1473,60 @@ A Rayshift trip to travel around the world!
 
 ---
  
-**Mash**
+**Mash:**
 (Yes, I have a very bad feeling about this. They are definitely going to get Senpai in all kinds of trouble...)
 
  
-**Mash**
+**Mash:**
 (Let's just slowly back out of the room so they don't notice.)
 
  
-**Fou**
+**Fou:**
 Fou!!!
 
  
-**Artemis**
+**Artemis:**
 !
 
  
-**Orion**
+**Orion:**
 !
 
  
-**Artemis**
+**Artemis:**
 Teehee, you're not getting away! Come, Master!
 
  
-**Artemis**
+**Artemis:**
 You're going to help make sure our golden anniversary goes beautifully!
 
  
-**Mash**
+**Mash:**
 Fou...
 
  
-**Fou**
+**Fou:**
 Fou?
 
  
-**Mash**
+**Mash:**
 Rayshift successful.
 We have safely arrived at the French seaside.
 
  
-**Mash**
+**Mash:**
 Good work, Master.
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Artemis**
+**Artemis:**
 Ahhh, what a wonderful breeze! The ocean is outside my jurisdiction but that just makes it all the more exciting.
 
  
-**Artemis**
+**Artemis:**
 We're in an era where I don't have to fight for territory. So let's have a nice, peaceful talk about our married life!
 
  
@@ -1544,62 +1544,62 @@ Where's Orion?
 
 ---
  
-**Artemis**
+**Artemis:**
 ...Darling!?
 
  
-**Orion**
+**Orion:**
 Hahahaha! Successfully escaped!
 
  
-**Orion**
+**Orion:**
 I mean, I know we'll eventually go back to Chaldea, so I am definitely going to get punished...
 
  
-**Orion**
+**Orion:**
 But to hell with that!
 My name's Orion, the famed hunter of love!!!
 
  
-**Orion**
+**Orion:**
 I'm a hero with a real lust for life, if you know what I'm saying!
 Because when I'm around, it's always bear season, eyy!
 
  
-**???**
+**???:**
 ～♪
 
  
-**Orion**
+**Orion:**
 Whoa! I spy a real sweet hottie over there!
 
  
-**Orion**
+**Orion:**
 I only see the back of her head, but it's a black-haired beauty! Prim and proper! Looks like I hit the jackpot!
 
  
-**Orion**
+**Orion:**
 Woohoo! I'm gonna snuggle her by pretending to be a cute creature!
 
  
-**Orion**
+**Orion:**
 My body is a cute teddy bear!
 No one can resist a cute stuffed bear!
 
  
-**Orion**
+**Orion:**
 Hewwo, pwetty wady, I'm Owion!
 
  
-**???**
+**???:**
 ...!
 
  
-**???**
+**???:**
 What the...!?
 
  
-**Artemis**
+**Artemis:**
 Ah!
 
  
@@ -1612,11 +1612,11 @@ What's wrong?
 
 ---
  
-**Artemis**
+**Artemis:**
 My goddess senses are tingling! I sense danger!
 
  
-**Artemis**
+**Artemis:**
 Darling... My darling's...skull...is getting caved in...
 
  
@@ -1626,16 +1626,16 @@ Darling... My darling's...skull...is getting caved in...
 **Fujimaru 1:**
 Let's go save him!
  
-**Artemis**
+**Artemis:**
 Right! Hold on, my darling!
 We're coming to rescue you!
 
  
-**Artemis**
+**Artemis:**
 And then afterwards, if you can explain to me IN DETAIL why you fled, that would be appreciated!
 
  
-**Mash**
+**Mash:**
 (Artemis may be worried about Orion, but she is still REALLY angry...)
 
  
@@ -1645,21 +1645,21 @@ And then afterwards, if you can explain to me IN DETAIL why you fled, that would
 **Fujimaru 2:**
 Huh. Well, he'll be missed.
  
-**Artemis**
+**Artemis:**
 He's not dead yet!!!
 
  
-**Artemis**
+**Artemis:**
 Let's go, Master!
 Let's go and save my darling!
 
  
-**Artemis**
+**Artemis:**
 There will be many mouths-to-mouths!
 Much smooching!
 
  
-**Mash**
+**Mash:**
 I hate to break this to you, but mouth-to-mouth won't be effective on a caved-in skull!
 
  
@@ -1667,15 +1667,15 @@ I hate to break this to you, but mouth-to-mouth won't be effective on a caved-in
 
 ---
  
-**Artemis**
+**Artemis:**
 Ummm, according to my goddess senses, he should be around here...
 
  
-**Artemis**
+**Artemis:**
 There!
 
  
-**Orion**
+**Orion:**
 Kyuuu...kyuu...kyu...
 
  
@@ -1693,21 +1693,21 @@ Has turned into a creature that's only cute...
 
 ---
  
-**Artemis**
+**Artemis:**
 Come to your senses, Darling!
 I shall immediately do mouth-to-mouth on you!
 
  
-**Artemis**
+**Artemis:**
 Hng!!! (Squeeze)
 
  
-**Orion**
+**Orion:**
 Gagck!?
 ...!?!?!?!?!?!!?!?!?
 
  
-**Mash**
+**Mash:**
 S-S-S-S-S-S-Senpai! Orion's face is turning into something unbelievable! Even though he's only a bear! Even though he's only a plushie...!
 
  
@@ -1717,7 +1717,7 @@ S-S-S-S-S-S-Senpai! Orion's face is turning into something unbelievable! Even th
 **Fujimaru 1:**
 (Punch Orion with all my might.)
  
-**Orion**
+**Orion:**
 Ahhh... Aaaaaagck!?
 
  
@@ -1727,15 +1727,15 @@ Ahhh... Aaaaaagck!?
 **Fujimaru 2:**
 (Pull Artemis away with all my might.)
  
-**Artemis**
+**Artemis:**
 Kyaaah!? Master, touching someone else's wife is fiendish!!!
 
  
-**Artemis**
+**Artemis:**
 And doing so in front of Mash...!
 
  
-**Mash**
+**Mash:**
 No, it's fine! I know this is all a misunderstanding, so I'm not mad!
 
  
@@ -1743,15 +1743,15 @@ No, it's fine! I know this is all a misunderstanding, so I'm not mad!
 
 ---
  
-**Orion**
+**Orion:**
 I thought I was gonna die. Actually, I did die. TWICE! Once from my caved-in skull, and again from getting suffocated!
 
  
-**Mash**
+**Mash:**
 I'm glad you&ndash;
 
  
-**Orion**
+**Orion:**
 Master. Have you ever wondered why you're alive?
 
  
@@ -1764,50 +1764,50 @@ A few times...
 
 ---
  
-**Orion**
+**Orion:**
 We both...have it tough...
 
  
-**Martha**
+**Martha:**
 My apologies... Something like a tiny wild animal jumped on me, so I punched it to smithereens without thinking...
 
  
-**Mash**
+**Mash:**
 Martha...
 
  
-**Martha**
+**Martha:**
 Yes, I know! I know what you are thinking!
 But I hope you understand my predicament as well!
 
  
-**Martha**
+**Martha:**
 As you know, in this getup, I become more aggressive than usual.
 
  
-**Martha**
+**Martha:**
 So...I couldn't help it... I'm sorry! I regret my actions!
 So much so, I will double my praying time!
 
  
-**Orion**
+**Orion:**
 This woman's amazing.
 That was the first time I ever felt my insides leaking out.
 
  
-**Artemis**
+**Artemis:**
 His first time... How dare she be my darling's first!!
 
  
-**Artemis**
+**Artemis:**
 This is unforgivable! You're supposed to be a saint... Have you no shame!?
 
  
-**Artemis**
+**Artemis:**
 The only person who can hurt my darling is me!
 
  
-**Orion**
+**Orion:**
 Oh boy. Aren't you just full of cheerful bloodlust.
 
  
@@ -1820,56 +1820,56 @@ And she's your wife.
 
 ---
  
-**Orion**
+**Orion:**
 What. A. Let. Down.
 
  
-**Martha**
+**Martha:**
 Uh, um... I'm not sure if I can say this, given that I was the one who directly inflicted this holy punishment...
 
  
-**Martha**
+**Martha:**
 Actually, I am not foolish enough to get involved in lovers' quarrels or domestic disputes...
 
  
-**Martha**
+**Martha:**
 I'm not like that, but...Artemis!
 Your love is a bit too aggressive!
 
  
-**Martha**
+**Martha:**
 First of all, love should be tender, even when you're hurting your beloved.
 
  
-**Martha**
+**Martha:**
 No matter how fiendish, devilish, demonic, or even...um, ursine your partner is&mdash;
 
  
-**Martha**
+**Martha:**
 I can say with certainty that unrequited love is no good!
 
  
-**Artemis**
+**Artemis:**
 It's not unrequited! We are very much in love!
 
  
-**Orion**
+**Orion:**
 I'm actually a little hurt to be called fiendish, devilish, and demonic.
 
  
-**Martha**
+**Martha:**
 No. If it truly was a mutual love, no married man would so casually hit on another woman.
 
  
-**Martha**
+**Martha:**
 Even if Orion is guilty, I can see that Artemis also has need for improvement and reform.
 
  
-**Martha**
+**Martha:**
 I do not intend to criticize the ways of the Greeks, but I am called the patron saint of wives!
 
  
-**Martha**
+**Martha:**
 Artemis and Orion! I shall correct your twisted, unrequited love with my holy fists!
 
  
@@ -1887,74 +1887,74 @@ Head trauma, here I come...
 
 ---
  
-**Martha**
+**Martha:**
 Well, yes, I'm afraid that's the plan! Don't worry.
 I will make sure not to hurt you much, Fujimaru!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Artemis**
+**Artemis:**
 Ungh... She's tough! Darling, were you holding back!?
 
  
-**Orion**
+**Orion:**
 'Course not! I always take battle seriously!
 
  
-**Martha**
+**Martha:**
 Mnnngh...as obsessive and unhealthy as it is, love is still love...I suppose.
 
  
-**Martha**
+**Martha:**
 And based on Orion's behavior, it doesn't seem like it is completely unrequited love...
 
  
-**Artemis**
+**Artemis:**
 That's right! Our love is mutual... It is!
 
  
-**Mash**
+**Mash:**
 Mutual love... To think of others, and love others.
 
  
-**Mash**
+**Mash:**
 It doesn't appear that way... No, but maybe...those two seem to have some bizarre sort of love of their own...
 
  
-**Mash**
+**Mash:**
 ...Even if they do not follow the same path, or if it's unrequited, as long as they respect one another, that may be fine...
 
  
-**Martha**
+**Martha:**
 ...Well, there are indeed very dangerous unrequited affections in this world...
 
  
-**Mash**
+**Mash:**
 And yet... I suppose...
 
  
-**Martha**
+**Martha:**
 ...Either way, I seem to have jumped to conclusions. One cannot say that just understanding each other can be called love.
 
  
-**Martha**
+**Martha:**
 I'm sorry, Artemis. And Bearion.
 
  
-**Martha**
+**Martha:**
 No matter what form it takes, love is unchanging, and it is one of the primal emotions. One should love greatly, and so find great happiness.
 
  
-**Artemis**
+**Artemis:**
 Our beliefs may differ, but love is the same all around! Orion, let's love each other to the fullest!
 
  
-**Mash**
+**Mash:**
 ...Oh?
 
  
-**Artemis**
+**Artemis:**
 Huh? I thought my head felt light. Darling's gone.
 
  
@@ -1967,92 +1967,92 @@ He sneaked away a minute ago.
 
 ---
  
-**Artemis**
+**Artemis:**
 ...
 
  
-**Artemis**
+**Artemis:**
 Daaarrrliiing!!!
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Orion**
+**Orion:**
 Fwahahahahaha!
 
  
-**Orion**
+**Orion:**
 I don't know how or where I escaped to, but looks like I ended up in a different world!
 
  
-**Orion**
+**Orion:**
 What should I do? It'll be scary if I get found now. Maybe I should hide out here for a couple of days until things cool down.
 
  
-**???**
+**???:**
 Oh? Oh my, oh my.
 A guest. It's a guest! And it's a bear!
 
  
-**???**
+**???:**
 Oh, sir! Are you the one she's been waiting for?
 
  
-**Orion**
+**Orion:**
 Not sure what you're talking about, but sure!
 
  
-**???**
+**???:**
 I see. Then we need to have a wedding!
 
  
-**Orion**
+**Orion:**
 Uh, actually, wrong person!
 I mean, wrong bear!
 
  
-**???**
+**???:**
 It's a wedding! The entire country is going to party!
 The princess will surely be pleased!
 
  
-**???**
+**???:**
 Her prince has come back!
 
  
-**Orion**
+**Orion:**
 Time to be a sneaky bear...
 
  
-**???**
+**???:**
 No! You can't run away! (Grab)
 
  
-**Orion**
+**Orion:**
 Gyaaah! Let go! You got the wrong bear!
 
  
-**Orion**
+**Orion:**
 Nothing good can come of me posing as a prince in a fairytale place like this!
 
  
-**???**
+**???:**
 Don't be so naughty!
 
  
-**???**
+**???:**
 A bad prince like you...needs to turn into a ■■■!
 
  
-**???**
+**???:**
 This curse won't break until the princess kisses you!
 
  
-**Orion**
+**Orion:**
 ...What the heck!?
 
  
-**Artemis**
+**Artemis:**
 Here! I've got darling's scent!
 
  
@@ -2062,11 +2062,11 @@ Here! I've got darling's scent!
 **Fujimaru 1:**
 ...I'm exhausted.
  
-**Mash**
+**Mash:**
 You really are getting dragged around the world.
 
  
-**Mash**
+**Mash:**
 Where could Orion have fled to so quickly?
 
  
@@ -2076,7 +2076,7 @@ Where could Orion have fled to so quickly?
 **Fujimaru 2:**
 You mean...the scent of your prey?
  
-**Mash**
+**Mash:**
 Master's burn doesn't have the usual sting...
 Maybe because jet lag has [♂ him /♀️ her} worn out?
 
@@ -2085,65 +2085,65 @@ Maybe because jet lag has [♂ him /♀️ her} worn out?
 
 ---
  
-**Artemis**
+**Artemis:**
 What a cute town...
 
  
-**Artemis**
+**Artemis:**
 After our golden anniversary celebration, I would love to live in a home like this!
 
  
-**Artemis**
+**Artemis:**
 Master, since you saved the world, I want you to find a nice property for me!
 
  
-**Artemis**
+**Artemis:**
 And I want you to live nearby, so we can be neighbors!
 
  
-**Artemis**
+**Artemis:**
 You know, it's important to have good neighbors!
 
  
-**Mash**
+**Mash:**
 Good neighbors...
 
  
-**Artemis**
+**Artemis:**
 Now all I need is my darling...
 
  
-**???**
+**???:**
 Oh? Oh my, oh my.
 There are so many visitors today!
 
  
-**???**
+**???:**
 I'm so happy. Adults and children both are welcome in the Land of Sweets!
 
  
-**???**
+**???:**
 Why? Because I can just turn the adults into children, and then it's fine!
 
  
-**Mash**
+**Mash:**
 Nursery Rhyme...!
 
  
-**Artemis**
+**Artemis:**
 Oh my, you are a cutie.
 But... I'm sorry, my heart belongs only to my darling!
 
  
-**Artemis**
+**Artemis:**
 But that strange fate of yours, make sure you treasure it, okay?
 
  
-**Artemis**
+**Artemis:**
 Anyway, have you seen my darling?
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Darling...?
 
  
@@ -2156,39 +2156,39 @@ The talking stuffed bear.
 
 ---
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Oh no... You can't! That prince bear is the princess's!
 
  
-**Artemis**
+**Artemis:**
 ...What did you just say?
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 The prince has finally come home to his sweet princess!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 And we're going to hold a grand wedding party to celebrate! You can't steal someone's true love in a fairytale!
 
  
-**Artemis**
+**Artemis:**
 ...Oh? Uh-huuuh...
 
  
-**Artemis**
+**Artemis:**
 Hey Master. Sounds like my darling is at the princess's place.
 
  
-**Artemis**
+**Artemis:**
 How strange. If he's not here, where could he be?
 
  
-**Mash**
+**Mash:**
 M-Master...this is bad! This is very bad!
 
  
-**Mash**
+**Mash:**
 I'm afraid the Land of Sweets is going to be set on fire, melting the chocolates and candies... Even the cakes will get charred!
 
  
@@ -2201,79 +2201,79 @@ Calm down!
 
 ---
  
-**Artemis**
+**Artemis:**
 It's fine. I am calm.
 But I will never forgive Orion.
 
  
-**Artemis**
+**Artemis:**
 A grand party with a princess...
 This isn't an affair... This is the real deal!
 
  
-**Artemis**
+**Artemis:**
 This was supposed to be a happy golden anniversary celebration...but to learn that he's in another serious relationship...! Orion, you dummy!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Protect the Land of Sweets, everyone!
 
  
-**Mash**
+**Mash:**
 I'm not sure if they're enemies...but let's ready for battle, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Kyuuu. I'm dizzy...
 
  
-**Mash**
+**Mash:**
 Poor Nursery Rhyme is down!
 
  
-**Artemis**
+**Artemis:**
 I will not allow my darling to get married! I'll capture that bear and take him to file divorce papers right away!
 
  
-**Artemis**
+**Artemis:**
 Oh, and Master, use your authority to annul the marriage! That way, he won't be a divorcé!
 
  
-**Artemis**
+**Artemis:**
 Darling, where are you!?
 
  
-**Brynhild**
+**Brynhild:**
 Um... Excuse me... Are you perhaps looking for a bear?
 
  
-**Mash**
+**Mash:**
 Brynhild!?
 
  
-**Artemis**
+**Artemis:**
 Are you the homewrecker!?
 
  
-**Brynhild**
+**Brynhild:**
 Please, no... It is not what you think...
 
  
-**Brynhild**
+**Brynhild:**
 ...I wanted to return him to you.
 
  
-**Artemis**
+**Artemis:**
 ...Come again?
 
  
-**Artemis**
+**Artemis:**
 Darling! No... Look at you...!
 
  
-**Mash**
+**Mash:**
 (I thought I saw a similar-looking chocolate during last year's Valentine's Day...)
 
  
@@ -2291,19 +2291,19 @@ He's mouthing something...
 
 ---
  
-**Brynhild**
+**Brynhild:**
 Um... I was searching for Sigurd...
 
  
-**Brynhild**
+**Brynhild:**
 Nursery brought this bear thinking he was Sigurd...
 
  
-**Brynhild**
+**Brynhild:**
 Even when I said he wasn't, she wouldn't listen. She said, “He may be a chocolate bear right now, but he'll turn into Sigurd when the curse is lifted.”
 
  
-**Brynhild**
+**Brynhild:**
 And so I was a little flustered.
 
  
@@ -2316,11 +2316,11 @@ Is there a way to lift the chocolate curse?
 
 ---
  
-**Brynhild**
+**Brynhild:**
 Yes... According to Nursery...
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 You KISS him!!!
 
  
@@ -2333,60 +2333,60 @@ You what, now?
 
 ---
  
-**Mash**
+**Mash:**
 What!?
 
  
-**Artemis**
+**Artemis:**
 Kiss!?
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Yes, that's right. Kissing him will lift the chocolate curse!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 His bear curse may also get lifted, but I'm not sure, since that's not my specialty!
 
  
-**Mash**
+**Mash:**
 I see...
 
  
-**Mash**
+**Mash:**
 So that's why Brynhild was flustered... She was afraid that whoever could lift the curse wouldn't show up if she left.
 
  
-**Brynhild**
+**Brynhild:**
 Yes, I was at a loss.
 
  
-**Brynhild**
+**Brynhild:**
 This bear is not Sigurd, but there is no doubt he is a hero.
 
  
-**Brynhild**
+**Brynhild:**
 No matter what form he'd taken, as a former Valkyrie,
 I didn't feel right abandoning him...
 
  
-**Artemis**
+**Artemis:**
 ...
 
  
-**Artemis**
+**Artemis:**
 Hey Master, why do you think darling tries to escape?
 
  
-**Artemis**
+**Artemis:**
 Weddings, golden anniversary celebrations... They don't really matter to me... Well, I might not go that far.
 
  
-**Artemis**
+**Artemis:**
 But as long as my darling just stays with me... As long as he and I can live together forever, for eternity...
 
  
-**Artemis**
+**Artemis:**
 That's all I really need.
 
  
@@ -2396,27 +2396,27 @@ That's all I really need.
 **Fujimaru 1:**
 He's scared he'll start to hate you.
  
-**Artemis**
+**Artemis:**
 Scared...that he'll hate me?
 
  
-**Brynhild**
+**Brynhild:**
 ...That may be correct.
 
  
-**Brynhild**
+**Brynhild:**
 No matter how intimate a man and woman might be, if they are together for long enough, they may end up killing each other.
 
  
-**Brynhild**
+**Brynhild:**
 That is not because of pure hatred, but hatred that stems from love.
 
  
-**Brynhild**
+**Brynhild:**
 The more one loves, the stronger their wish not to detest or be detested becomes.
 
  
-**Brynhild**
+**Brynhild:**
 Human emotion is not something that is constant...
 But it shines all the brighter for it.
 
@@ -2427,27 +2427,27 @@ But it shines all the brighter for it.
 **Fujimaru 2:**
 He loves, therefore he wants to be pursued.
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 I know! I know!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 The prince falls for Cinderella when she flees!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 That bear flees from you because he wants you to always feel excited!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Because eternity is too boring!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 When you're super bored, you might start hating the person you're with!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 That's why you flee! The chase keeps you interested in the other person!
 
  
@@ -2455,140 +2455,140 @@ That's why you flee! The chase keeps you interested in the other person!
 
 ---
  
-**Artemis**
+**Artemis:**
 ...I see. So that's how human emotions work.
 
  
-**Artemis**
+**Artemis:**
 As a Divine Spirit, that kind of thinking is incomprehensible to me. I can't imagine eternity being...uncertain...
 
  
-**Brynhild**
+**Brynhild:**
 ...True, it may not be something you can comprehend.
 I really only understand it in theory.
 
  
-**Artemis**
+**Artemis:**
 Eternity is boring... So you say.
 
  
-**Artemis**
+**Artemis:**
 Aw, my darling is impossible! He wants me to keep loving him by making me so anxious!
 
  
-**Artemis**
+**Artemis:**
 Fine. If that's what he wants, I'll chase after him for eternity!
 
  
-**Artemis**
+**Artemis:**
 As long as my heart swells from the occasional, whimsical kindness from him, I will go absolutely crazy for my darling!
 
  
-**Artemis**
+**Artemis:**
 Yes, yes, my Maiden Circuits are in overdrive! Now, my darling! I shall lift your dreadful chocolate curse!
 
  
-**Orion**
+**Orion:**
 Owwwwwwwwwwwwwww!
 
  
-**Artemis**
+**Artemis:**
 Good morning, my darling!
 
  
-**Orion**
+**Orion:**
 Eh? Huh? I thought I was chocolate...
 
  
-**Orion**
+**Orion:**
 Ack! Artemis!? I-I'm sorry I ran away!
 It was just a spur of the moment thing! I swear!
 
  
-**Artemis**
+**Artemis:**
 ...Yep! It's fine, my darling. I forgive you!
 
  
-**Orion**
+**Orion:**
 Eh, seriously!?
 
  
-**Orion**
+**Orion:**
 Normally this kind of offense would result in you reducing me to my constituent atoms!
 
  
-**Orion**
+**Orion:**
 Wait, did I end up in a parallel world? Is this for real?
 Oh, no, I'm in a world that's gonna get pruned, aren't I!?
 
  
-**Orion**
+**Orion:**
 Oh, but if it's a parallel world...
 
  
-**Artemis**
+**Artemis:**
 Come, my darling. Let's continue our golden anniversary celebration!
 
  
-**Artemis**
+**Artemis:**
 Where shall we go next? It is a golden anniversary, so maybe the Temple of the Golden Pavilion in Japan?
 
  
-**Artemis**
+**Artemis:**
 Or perhaps the Golden Gate Bridge?
 
  
-**Artemis**
+**Artemis:**
 Anywhere is fine. As long as I'm with my darling, it will be wonderful!
 
  
-**Orion**
+**Orion:**
 Why hello there, delicate-looking girl.
 I don't see much of your type in Greece.
 
  
-**Orion**
+**Orion:**
 How would you like to escape into a love adventure, hmm?
 
  
-**Brynhild**
+**Brynhild:**
 Um... I can't... My lance will become lighter and lighter...
 
  
-**Brynhild**
+**Brynhild:**
 It could even float up and away like a balloon...
 
  
-**Orion**
+**Orion:**
 Wha&ndash;whoa!?
 
  
-**Artemis**
+**Artemis:**
 Okay, my darling.
 
  
-**Artemis**
+**Artemis:**
 Let's go get you set on fire at the Temple of the Golden Pavilion. It's fine, you'll burn well!
 
  
-**Artemis**
+**Artemis:**
 Or the Golden Gate Bridge is fine too.
 You can bungee jump without a rope!
 
  
-**Orion**
+**Orion:**
 Well, I guess that's one way to go...
 
  
-**Orion**
+**Orion:**
 ...What the heck am I making clever commentary for!? Aaand Artemis is just her usual self!
 
  
-**Orion**
+**Orion:**
 HEEELLLP MEEE!!!
 
  
-**Mash**
+**Mash:**
 ...Master, do you have any closing remarks?
 
  
@@ -2598,7 +2598,7 @@ HEEELLLP MEEE!!!
 **Fujimaru 1:**
 Love takes so many forms!
  
-**Brynhild**
+**Brynhild:**
 That wasn't...much of a closing remark...
 
  
@@ -2608,7 +2608,7 @@ That wasn't...much of a closing remark...
 **Fujimaru 2:**
 Love is scary!
  
-**Ibaraki-Douji**
+**Ibaraki-Douji:**
 That's my line.
 
  

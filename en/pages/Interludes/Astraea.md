@@ -95,7 +95,7 @@ That would mean I may have a clear reason for being called forth here.
 
 **Astraea:**  
  
-Indeed. Whomever it was who called me here **likely needs my judgment.**  
+Indeed. Whomever it was who called me here **likely needs my judgment.:**  
  
 Crime and judgment are hand in hand. Would society not collapse if one lacked the other?  
  
@@ -147,7 +147,7 @@ Like myself, it seems they were pulled into this place.
  
 My scales yet sway. Now, proclaim your crime!  
  
-**Mecha Eli Chan**  
+**Mecha Eli Chan:**  
  
 I HAVEN’T DONE ANYTHING!  
  
@@ -157,7 +157,7 @@ I was only taking my cut of energy as salary from Chaldea’s Magic Kiln.
 
 [Aaah, busted!]  / [You totally can’t do that…]
 
-**Mecha Eli Chan**  
+**Mecha Eli Chan:**  
  
 Being [busted] or [can’t do that]…don’t make me laugh.  
  
@@ -295,7 +295,7 @@ Master…
  
 **Astraea:**  
  
-Aah, I recognize you. You are ***that*** **Bedivere.**  
+Aah, I recognize you. You are ***that*** **Bedivere.:**  
  
 The Knight of the Round Table who did not return the Holy Sword.  
  
@@ -349,7 +349,7 @@ The former is simple to understand. In order to maintain peace, criminals must r
  
 On the other hand, for personal judgment, the significance lies in the offender.  
  
-The reason being that time is irreversible, and intrinsically, **people may not be able to fully atone for what they have done.**  
+The reason being that time is irreversible, and intrinsically, **people may not be able to fully atone for what they have done.:**  
  
 For example, even if you pay back a sum greater than an item you stole, you cannot erase the theft you’ve already committed.  
  
@@ -379,7 +379,7 @@ When we wake from this dream, we shall be drinking tea together in Chaldea. Alon
 
 **Astraea:**  
  
-That man was quite something to bear the Holy Sword for 1500 years. Even more extraordinary was their ability to **put on a brave face** and persevere to success.
+That man was quite something to bear the Holy Sword for 1500 years. Even more extraordinary was their ability to **put on a brave face:** and persevere to success.
 
 […Agreed!]
 
@@ -433,7 +433,7 @@ But I wonder. How would that question be answered in a much more different scena
  
 Aw man, quit it with the brain-scratchers already.  
  
-**Sakata Kintoki (Berserker)**  
+**Sakata Kintoki (Berserker):**  
  
 Gooo------lden! Fancy meetin’ you here, Chief!  
  
@@ -461,7 +461,7 @@ Specifically, human beings with strong ideologies can continue to cause issues b
  
 Indeed, for you, there’s nothing to do about when you were alive. Societal judgments have passed, and now we must look towards the personal.  
  
-But, **is your life over** now?  
+But, **is your life over:** now?  
  
 **Sakata Kintoki:**  
  
@@ -865,7 +865,7 @@ This is the place of due pardons.
 
 **Divine Astraea:**  
  
-[*Now, Justice Returns –* ***Iam redit et Virgo***]…!
+[*Now, Justice Returns –* ***Iam redit et Virgo*:**]…!
 
 *Her noble phantasm procs, and the dream world begins to crumble.*
 

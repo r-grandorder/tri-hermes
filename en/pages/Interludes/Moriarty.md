@@ -345,7 +345,7 @@ Please don't rip books apart in front of Nursery Rhyme!
 
 ---
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Mash:**
 There. The Demonic Book has been eliminated.
@@ -376,7 +376,7 @@ Come on! The tower awaits!
 ...I see I'll need to watch
 what I say around that one...
 
-**--ARROW--**
+**--ARROW--:**
 
 **Moriarty:**
 Hmm. Looks like this is the place.
@@ -473,7 +473,7 @@ If it's all the same to you, I'd just as soon not see my own doppelganger suffer
 
 ---
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Moriarty(?):**
 Arrrghhh!
@@ -532,7 +532,7 @@ Look out! More enemies are coming!
 **Moriarty:**
 Dammit, of all the times! Come on then, let's take them out quickly and find an area where the fog isn't so thick!
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Moriarty:**
 There, that should hold them off.

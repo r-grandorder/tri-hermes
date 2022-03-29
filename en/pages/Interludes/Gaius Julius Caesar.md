@@ -2,11 +2,11 @@
 
 ## Nostalgic Merrits
 
-**Caesar**
+**Caesar:**
 &ndash;So nostalgic.
 
  
-**Caesar**
+**Caesar:**
 It's easy to end with just that one phrase,
 but I don't do that. Do you know why?
 
@@ -16,11 +16,11 @@ but I don't do that. Do you know why?
 **Fujimaru 1:**
 (shake head)
  
-**Mash**
+**Mash:**
 Right Senpai, I don't understand his ideas either.
 
  
-**Fou**
+**Fou:**
 Fou...
 
  
@@ -30,55 +30,55 @@ Fou...
 (nod)
 
  
-**Mash**
+**Mash:**
 Senpai, you can understand the idea behind his words.
 But I...
 
  
-**Fou**
+**Fou:**
 Fou...
 
 ---
 
  
-**Caesar**
+**Caesar:**
 I achieved valor in Gaul and Britannia.
 That is a fact, and it was written down as well.
 
  
-**Caesar**
+**Caesar:**
 I guess you could say that I was young.
 But, that was not all.
 
  
-**Caesar**
+**Caesar:**
 I escaped. It felt slightly better to preoccupy myself with service by sword than the schemes surging through Rome.
 
  
-**Caesar**
+**Caesar:**
 Betrayal for betrayal, conspiracy for conspiracy.
 It's easy for me to climb the ladder of power as such.
 
  
-**Caesar**
+**Caesar:**
 After all&ndash;
 
  
-**Caesar**
+**Caesar:**
 I am a descendant of the goddess of love and beauty,
 and a man who fathered a child with a female fairy.
 
  
-**Caesar**
+**Caesar:**
 My beauty makes women fall into my hands at will.
 Add in my intelligence and I'm the best at scheming.
 
  
-**Caesar**
+**Caesar:**
 But...
 
  
-**Mash**
+**Mash:**
 ...
 
  
@@ -96,55 +96,55 @@ He said beauty, right?
  
 
  
-**Fou**
+**Fou:**
 Fou.
 
  
-**Caesar**
+**Caesar:**
 Actually, scheming takes quite a bit of courage.
 At first you feel nothing, but gradually. Gradually.
 
  
-**Caesar**
+**Caesar:**
 While I bite into juicy grapes, while I fool around with women, political enemies die off by my schemes&ndash;
 
  
-**Caesar**
+**Caesar:**
 But when it's being repeated over and over, you start to feel sick, as if something's been tainted.
 
  
-**Caesar**
+**Caesar:**
 That is why, at times, I escaped to the battlefield.
 
  
-**Mash**
+**Mash:**
 ...I now finally understand.
 Gaius Julius Caesar.
 
  
-**Mash**
+**Mash:**
 You seek to settle all the escaping you did right here and right now.
 
  
-**Caesar**
+**Caesar:**
 That's right. I&ndash;wait, enemies.
 They must have noticed us.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Enemy signatures are approaching!
 Is this like, remnants of the United Empire army?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Rome should be correcting itself now, so why are there United Empire soldiers still left?
 
  
-**Caesar**
+**Caesar:**
 I'll tell you later. Before that Fujimaru, hurry up and drive them off.
 
  
-**Caesar**
+**Caesar:**
 I will take command for you.
 I am a great commander.
 
@@ -163,37 +163,37 @@ You're a Saber and you're hanging back?
  
 
  
-**Caesar**
+**Caesar:**
 Saber, right, Saber. Saber.
 By rights I shouldn't even be in the Saber class.
 
  
-**Caesar**
+**Caesar:**
 ...I only unsheathe my sword when I'm next to a beauty.
 
  
-**Mash**
+**Mash:**
 Why look at me...
 
  
-**Caesar**
+**Caesar:**
 Not knowing your own beauty is equal to a crime, yes?
 Well anyways, I shall unsheathe my sword.
 Oh, brother&ndash;
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Caesar**
+**Caesar:**
 ...I guess that's it.
 Makes me sick.
 
  
-**Caesar**
+**Caesar:**
 Wielding a sword like this gets me fired up with nostalgia. Though, swordfights are the epitome of nuisances.
 
  
-**Caesar**
+**Caesar:**
 I seem to be escaping even now that I am a Heroic Spirit.
 How pathetic!
 
@@ -212,79 +212,79 @@ Despite the lack of scheming?
  
 
  
-**Mash**
+**Mash:**
 Yes, Senpai's question is legitimate.
 Caesar, what is upsetting you?
 
  
-**Mash**
+**Mash:**
 You are already a Heroic Spirit, unrelated to the bloodstained schemes of ancient Rome.
 
  
-**Mash**
+**Mash:**
 And still...
 You end up returning to Rome with us, why?
 
  
-**Caesar**
+**Caesar:**
 I've said it many times.
 It is to escape.
 
  
-**Caesar**
+**Caesar:**
 To put it nicely, it's to settle things.
 Oh, it also answers this Doctor guy's question.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 You mean these United Empire remnants?
 For some reason, they're still around...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Whoa, another enemy attack as we speak!
 Is this area under the United Empire influence?
 
  
-**Caesar**
+**Caesar:**
 Right.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 What?
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Mash**
+**Mash:**
 We're entering combat, Master!
 Your orders, please!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 &ndash;Battle complete.
 Soldiers perceived as United Empire are retreating.
 
  
-**Caesar**
+**Caesar:**
 After them. If they're headed home,
 it'll save us the trouble of searching.
 
  
-**Mash**
+**Mash:**
 Search?
 Search for what&ndash;
 
  
-**Caesar**
+**Caesar:**
 I'll go on ahead.
 
  
-**Mash**
+**Mash:**
 Please wait&ndash;
 Oh, h-he's fast!
 
@@ -303,11 +303,11 @@ I expect nothing less from a Saber.
  
 
  
-**Mash**
+**Mash:**
 Y-Yes... No, well&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 You guys should chase them, too!
 I don't know what he'll do, but you can't abandon him!
 
@@ -321,89 +321,89 @@ Understood!
  
 
  
-**Mash**
+**Mash:**
 Yes.
 
  
-**Mash**
+**Mash:**
 We've caught up.
 Caesar is right there&ndash;
 
  
-**Caesar**
+**Caesar:**
 You're finally here.
 Perfect, you can see me face my own foolishness.
 
  
-**Mash**
+**Mash:**
 Face?
 
  
-**Fou**
+**Fou:**
 Fou?
 
  
-**???**
+**???:**
 ...I am a distinguished general of Rome.
 
  
-**???**
+**???:**
 I'm the general that conquered Gaul, and made a successful expedition to Britannia.
 
  
-**???**
+**???:**
 I slaughtered the great general Pompey.
 I'm the only ruler of Rome, the origin of its Emperor.
 
  
-**???**
+**???:**
 I danced within the cruelty of Rome, and also danced in the battlefield.
 
  
-**???**
+**???:**
 I shall continue fighting.
 As long as Rome exists, my dance continues.
 
  
-**Caesar**
+**Caesar:**
 No, that horrible dance ends here.
 This is the end of your escapism.
 
  
-**Caesar**
+**Caesar:**
 A general? The origin of Emperor?
 That is quite absurd!
 
  
-**Caesar**
+**Caesar:**
 You are merely escaping!
 You pig!
 
  
-**Caesar**
+**Caesar:**
 You could not grant the wish of the one woman you loved, and you chose not to name your loving child as your heir!
 
  
-**???**
+**???:**
 I am! I am Caesar!
 The origin of all Roman Emperors!
 
  
-**Caesar**
+**Caesar:**
 That's right, you are me!
 My unsightly half that still clings onto Rome!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I see, I get it now! Residual effects of the Second Holy Grail is what "that" is!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 So that's why it's leading the United Empire remnants.
 In other words, "that" is like Caesar's shadow!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 He sensed its presence, and guided you guys all the way here&ndash;!
 
  
@@ -421,16 +421,16 @@ That is indeed hard to mention.
  
 
  
-**Mash**
+**Mash:**
 ...Yes.
 
  
-**Caesar**
+**Caesar:**
 I apologize, beautiful friends.
 I'd like to defeat my ugly escapism half right here.
 
  
-**Caesar**
+**Caesar:**
 ...No, I want to return it to myself.
 Lend me your powers.
 
@@ -444,40 +444,40 @@ Understood!
  
 
  
-**Mash**
+**Mash:**
 Yes, Senpai!
 
  
-**???**
+**???:**
 Oh... Ooooh!
 I am! I am Caesar! I am!
 
  
-**Caesar**
+**Caesar:**
 Shut up, you pig! Such ugliness will scatter like flower petals before my beauty!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Caesar**
+**Caesar:**
 ...Begone my foolish past.
 
  
-**Mash**
+**Mash:**
 Confirming zero response.
 Battle's over, Senpai.
 
  
-**Fou**
+**Fou:**
 Fou...
 
  
-**Caesar**
+**Caesar:**
 Whew, I'm tired.
 Indeed, I am not fit to fight at the front line.
 
  
-**Caesar**
+**Caesar:**
 Let us hurry back to this Chaldea and rest.
 I won't move one step further.
 
@@ -496,29 +496,29 @@ Thanks for the hard work.
  
 
  
-**Mash**
+**Mash:**
 Thank you for your hard work.
 Senpai, Doctor, please start the return process to Chaldea.
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yes, yes, return&ndash; Hmm?
 Looks like Caesar's magical capacity has increased?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 After defeating his own shadow, he absorbed it as his own magical energy I guess?
 
  
-**Fou**
+**Fou:**
 Fou, Fou!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yes, yes, the return process.
 You don't have to rush me so much...
 

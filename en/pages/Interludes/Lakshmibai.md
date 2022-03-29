@@ -182,7 +182,7 @@ And so the strategy commences. The Nemo Marines follow Lakshmi in secret whereve
   
  
   
-**~ Inside the Environment Simulator ~**  
+**~ Inside the Environment Simulator ~:**  
   
  
   
@@ -329,7 +329,7 @@ No, like I said...
 **Gilles:**  
 Hohoho. You can not deceive my eyes and ears.  
 Nonetheless, I have no idea what she was looking at since I was captivated by her every single action in this manner. Still, I know of the reason for her sigh, indeed.  
-Precisely! She...**was envious**!?  
+Precisely! She...**was envious:**!?  
   
  
   
@@ -725,7 +725,7 @@ To think the [training](#fg "playing") I did in the mountains would come in hand
   
  
   
-**Nemo Marines**  
+**Nemo Marines:**  
 Master Nyotengu~! Master Nyotangu~! ^[1] (They are having fun for some reason)  
   
  
@@ -977,7 +977,7 @@ The spinning monster bit hits the ceiling and...
   
  
   
-**Nemo**  
+**Nemo:**  
  ! It hit the ceiling and the impact has turned on the sprinklers!  
 Also...!?  
   
@@ -1275,7 +1275,7 @@ Looking back at the quest targets, we can see Anastasia slowly approach a fright
   
  
   
-**??? (Anastasia)**  
+**??? (Anastasia):**  
 Hehehe. It's useless to scream, Princess.  
   
  

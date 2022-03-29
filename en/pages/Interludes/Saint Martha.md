@@ -2,41 +2,41 @@
 
 <h2>Saint of the Dragon and Sea</h2>
 
-**Martha**
+**Martha:**
 A normal...
 Yes, the kind of normal girl you'd find in any town.
 
  
-**Martha**
+**Martha:**
 I lived happily with my little sister and brother, even though we quarreled from time to time.
 
  
-**Martha**
+**Martha:**
 I was born in Bethany, and raised in the same town.
 
  
-**Martha**
+**Martha:**
 I thought that I'd live my life the same as everyone else.
 
  
-**Martha**
+**Martha:**
 ...No. Actually, how shall I put it?
 Perhaps I never even thought about the future.
 
  
-**Martha**
+**Martha:**
 Because I was always busy. What should we have for dinner tonight? What would tomorrow's weather be&ndash;
 
  
-**Martha**
+**Martha:**
 I was always running around, even when "He" was there.
 
  
-**Martha**
+**Martha:**
 While my sister listened to "His" words, all I did was worry about making guests feel welcomed.
 
  
-**Mash**
+**Mash:**
 Martha, you were a girl who put her family first.
 I think that's admirable.
 
@@ -57,84 +57,84 @@ I think it's nice.
 
 ---
  
-**Martha**
+**Martha:**
 I wonder about that.
 Aren't you disappointed?
 
  
-**Martha**
+**Martha:**
 Saints whom people love always seem to shine...Yes, like Jeanne d'Arc.
 
  
-**Mash**
+**Mash:**
 Both Jeanne and you seem like shining saints to me.
 
  
-**Mash**
+**Mash:**
 In loving people, you became their hope.
 That's the sort of women you are.
 
  
-**Mash**
+**Mash:**
 That's why I think you equally deserve to be called saints.
 
  
-**Martha**
+**Martha:**
 ...Thank you, Mash Kyrielight.
 
  
-**Mash**
+**Mash:**
 Don't mention it&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, sorry to interrupt, but I'm detecting multiple magical signatures in the sea ahead.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Just as Martha feared, there's some sort of distortion on the Marseille coast as it's being repaired.
 
  
-**Mash**
+**Mash:**
 Doctor, do we need to dive under the sea?
 
  
-**Martha**
+**Martha:**
 I doubt it. If push comes to shove,
 my Tarasque will guide the "swarm" to the shore.
 
  
-**Mash**
+**Mash:**
 Swarm?
 
  
-**Fou**
+**Fou:**
 Fooou?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Guide? Wait, is Fou there with you?
 
  
-**Martha**
+**Martha:**
 Yes. That's a swarm, without a doubt.
 My trait allows me to accurately detect that.
 
  
-**Martha**
+**Martha:**
 A swarm of an incomplete subspecies of dragon.
 Something that shouldn't be in this area of the 15th century.
 
  
-**???**
+**???:**
 GYAAAAAA&ndash;!
 
  
-**Mash**
+**Mash:**
 ...That's the roar of a wyvern!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I see! As expected of the Saint of Dragons!
 You sensed the swarm of wyverns gather.
 
@@ -155,59 +155,59 @@ Martha, call the Tarasque!
 
 ---
  
-**Martha**
+**Martha:**
 ...This is nothing.
 This coast was once part of the Tarasque's domain.
 
  
-**Martha**
+**Martha:**
 Born of Leviathan, created by God on the Fifth Day&ndash;
 he is a fierce monster many a brave man tried to slay.
 
  
-**Martha**
+**Martha:**
 Now the Tarasque exists with me.
 The sad dragon who knows not of love.
 
  
-**Martha**
+**Martha:**
 Go now Tarasque, wielding a burning heat equal to the sun...
 
  
-**Martha**
+**Martha:**
 Grant momentary peace to these creatures made pitiful by the moment of their birth&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 St. Martha's magical energy is rising! I-Is this turning into a battle of Kaiju Tarasque vs. Wyvern Army?
 
  
-**Mash**
+**Mash:**
 The wyvern swarm is approaching!
 Time for battle, Senpai!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 Battle's over. No&ndash;
 more are coming! Confirming a trailing swarm!
 
  
-**Martha**
+**Martha:**
 There's just no end to them!
 This is annoying!
 
  
-**Mash**
+**Mash:**
 Huh?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hm?
 
  
-**Fou**
+**Fou:**
 Fou?
 
  
@@ -227,7 +227,7 @@ I must have imagined it.
 
 ---
  
-**Martha**
+**Martha:**
 Did something happen, everyone?
 Come on, let's hang on a little longer. FIGHT!
 
@@ -248,31 +248,31 @@ I must have imagined it.
 
 ---
  
-**Mash**
+**Mash:**
 Um, uh, right. We're going to continue the battle!
 Senpai, your orders, please!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 I confirm the enemy is completely destroyed!
 We did it, Senpai!
 
  
-**Martha**
+**Martha:**
 &ndash;Ha. You're no match for us, lizards. Did those mere wyverns hope to best me and the Tarasque?
 
  
-**Martha**
+**Martha:**
 They're just peeping hatchlings, fresh from their eggs.
 
  
-**Mash**
+**Mash:**
 !!!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Y-Your Holiness?
 
  
@@ -292,12 +292,12 @@ Lalala, I don't hear anything.
 
 ---
  
-**Martha**
+**Martha:**
 ...Ahem.
 Thus return the poor souls who know not of love.
 
  
-**Martha**
+**Martha:**
 God's love is equal.
 Yes, in the past, the Tarasque was treated the same.
 
@@ -318,63 +318,63 @@ I'm sure.
 
 ---
  
-**Martha**
+**Martha:**
 When dragons choose slaughter and refuse to listen,
 the use of force is the only way♡
 
  
-**Dr. Roman**
+**Dr. Roman:**
 O-Oh ...Terrible...
 I mean, total respect, Your Holiness!
 
  
-**Mash**
+**Mash:**
 St. Martha may be a saint, but she's also an extremely gifted dragon slayer, isn't she?
 
  
-**Mash**
+**Mash:**
 I see that now.
 Senpai, she'll be a very dependable Servant.
 
  
-**Martha**
+**Martha:**
 Oh, you're too kind.
 I'm just&ndash;
 
  
-**Martha**
+**Martha:**
 &ndash;Just a magnificent dragon slayer♡
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Huh&ndash;?
 She called herself a dragon slayer?
 
  
-**Fou**
+**Fou:**
 Foou, foufou!
 
 
 <h2>The Desired Saint</h2>
 
-**Martha**
+**Martha:**
 ...
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Fou**
+**Fou:**
 Fou...
 
  
-**Mash**
+**Mash:**
 ...Yes, Fou.
 But please be quiet for now.
 
  
-**Martha**
+**Martha:**
 ...
 
  
@@ -394,22 +394,22 @@ What's with this atmosphere?
 
 ---
  
-**Mash**
+**Mash:**
 Yes, Martha's on edge, isn't she?
 Ever since we came to this era.
 
  
-**Mash**
+**Mash:**
 There's something wrong in Ancient Rome, in the Second Singularity.
 It was her&ndash;It was Martha who told us that.
 
  
-**Mash**
+**Mash:**
 I assume it's not a good news.
 Could it be related to the dragons again?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 If so, then that's odd.
 Wasn't she all excited about it before?
 
@@ -420,7 +420,7 @@ Wasn't she all excited about it before?
 **Fujimaru 1:**
 Maybe it's personal this time?
  
-**Mash**
+**Mash:**
 But the era she lived in before&ndash;
 was the 1st century, wasn't it?
 
@@ -431,7 +431,7 @@ was the 1st century, wasn't it?
 **Fujimaru 2:**
 What could it be?
  
-**Mash**
+**Mash:**
 I have no idea&ndash;
 
  
@@ -439,35 +439,35 @@ I have no idea&ndash;
 
 ---
  
-**Martha**
+**Martha:**
 ...Normally.
 
  
-**Martha**
+**Martha:**
 It's normally not possible, because all souls are under God's divine grace.
 
  
-**Martha**
+**Martha:**
 Wandering the Earth, not going to either Heaven or Hell.
 
  
-**Martha**
+**Martha:**
 Such acts are not allowed, I mean, all of the...
 
  
-**Martha**
+**Martha:**
 Original Sins have already...
 
  
-**Mash**
+**Mash:**
 Martha?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The souls&ndash; Oh! I detect a magical energy reaction! A large amount, dead ahead!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Based on the signature pattern, ghosts are coming, be careful!
 
  
@@ -477,7 +477,7 @@ Based on the signature pattern, ghosts are coming, be careful!
 **Fujimaru 1:**
 Mash, prepare for battle!
  
-**Mash**
+**Mash:**
 Yes, Master!
 
  
@@ -487,7 +487,7 @@ Yes, Master!
 **Fujimaru 2:**
 Martha, time for battle!
  
-**Martha**
+**Martha:**
 ...
 
  
@@ -495,29 +495,29 @@ Martha, time for battle!
 
 ---
  
-**Martha**
+**Martha:**
 ...Damn.
 
  
-**Mash**
+**Mash:**
 Huh?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Damn! A saint said damn?
 Uh, d-did I say something wrong?
 
  
-**Martha**
+**Martha:**
 I said it's freaking impossible...
 And what's with that stupid amount.
 
  
-**Martha**
+**Martha:**
 I thought I said all souls, are under the God's divine grace...
 
  
-**Fou**
+**Fou:**
 Fou.
 
  
@@ -537,63 +537,63 @@ Martha!
 
 ---
  
-**Mash**
+**Mash:**
 So I didn't imagine it last time.
 Something's wrong with Martha&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yes, you're right! You're definitely right!
 Souls wandering the Earth is normally "not possible!"
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Sending them back to God's grace, yes.
 But ghost-type monsters, really?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 They only exist because of magecraft, they aren't "naturally" generated.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 In other words, they aren't part of nature.
 But, hold on, if that's the case then Heroic Spirits&ndash;
 
  
-**???**
+**???:**
 Ohh, oh, ohhhh&ndash;
 
  
-**Martha**
+**Martha:**
 ...I told you.
 
  
-**Martha**
+**Martha:**
 This is freaking impossible.
 Why do they appear before us, especially&ndash;
 
  
-**Martha**
+**Martha:**
 ...before me!
 
  
-**Mash**
+**Mash:**
 St. Martha's magical energy level is rising!
 S-Senpai, she's going to unleash her Noble Phantasm!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Without the Master's order? S-She's pissed!
 O-Oh no, Fujimaru!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 With Kaiju Tarasque on the rampage Rome is done for!
 Get her under control! T-To battle!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Eliminate those ghost as soon as you can!
 Is that clear?
 
@@ -608,87 +608,87 @@ Mash, prepare for battle!
 
 ---
  
-**Mash**
+**Mash:**
 Yes, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 Hostiles, destroyed!
 ...The battle's over, Senpai.
 
  
-**Mash**
+**Mash:**
 This should put Martha back to being her usual quiet self...
 
  
-**Martha**
+**Martha:**
 ...
 
  
-**Mash**
+**Mash:**
 Huh?
 
  
-**Fou**
+**Fou:**
 Foou...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 If she's not back to normal, then, Umm&ndash;
 Right, of course. I've got it, you two!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 There's still something there.
 Rather, she's here because she sensed "this."
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Something much larger than a mere ghost.
 This is, yes, the sixth imaginary element&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Its true nature is unknown, but at the very least, its magical energy indicates is "that".
 
  
-**Mash**
+**Mash:**
 ...I sense it, too.
 Senpai, prepare for battle.
 
  
-**Fou**
+**Fou:**
 Fou&ndash;
 
  
-**Martha**
+**Martha:**
 ...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Don't let Martha go out! It's likely she'll unleash the True Name of her Noble Phantasm like before.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 At any rate, your opponent is&ndash;
 
  
-**???**
+**???:**
 GAAAAAA&ndash;!!
 
  
-**Mash**
+**Mash:**
 Picking up high level of magical energy!
 It's definitely a "demon."
 
  
-**Martha**
+**Martha:**
 ...Tarasque.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, no! Fujimaru, hurry! We have to defeat the enemy and take control of St. Martha!
 
  
@@ -698,7 +698,7 @@ Oh, no! Fujimaru, hurry! We have to defeat the enemy and take control of St. Mar
 **Fujimaru 1:**
 Mash, prepare for battle!
  
-**Mash**
+**Mash:**
 Yes, Master!
 Preparing for battle!
 
@@ -709,7 +709,7 @@ Preparing for battle!
 **Fujimaru 2:**
 Martha, please take care of this!
  
-**Martha**
+**Martha:**
 ...Unforgivable. Unforgivable!
 I'll crush it.
 
@@ -718,91 +718,91 @@ I'll crush it.
 
 ---
  
-**Fou**
+**Fou:**
 Fou, fou-foou!!
 
  
-**Mash**
+**Mash:**
 Here we go!!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Martha**
+**Martha:**
 ...For heaven's sake.
 
  
-**Martha**
+**Martha:**
 Haven't we enough trials to face?
 Just look at this world, isn't it obvious?
 
  
-**Martha**
+**Martha:**
 There's no place for anyone who can't see that, may that be men or demons. Back to hell with you!
 
  
-**Martha**
+**Martha:**
 No matter what era it is, there's no place for demons.
 
  
-**Martha**
+**Martha:**
 ...Because all original sins were carried away by "Him."
 
  
-**Mash**
+**Mash:**
 ...Martha...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 All right, the battle's over.
 And it looks like St. Martha's calm again. Whew!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 All's well that ends well.
 Wow, that was scary...
 
  
-**Fou**
+**Fou:**
 Fou, foou!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 A demon possessing the power equal to a dragon is scary, but, I think I am more afraid of St. Martha actually.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Really, I'm really glad she didn't go berserk...
 
  
-**Martha**
+**Martha:**
 Pardon?
 Did I do something?
 
  
-**Martha**
+**Martha:**
 Thanks to you, we've driven off the lost souls and the demon. All this too is God's will.
 
  
-**Martha**
+**Martha:**
 Yes, in normal circumstances, my existence as a Heroic Spirit is unnatural.
 
  
-**Martha**
+**Martha:**
 Even so... As long as I am with you, those who strive to save the world.
 
  
-**Martha**
+**Martha:**
 My momentary existence.
 My shallow resurrection.
 
  
-**Martha**
+**Martha:**
 ...I believe all that has a purpose.
 Thank you. Fujimaru, Mash Kyrielight.
 
  
-**Mash**
+**Mash:**
 No, St. Martha, thank you for lending us your assistance.
 
  
@@ -822,15 +822,15 @@ We'll be counting on you.
 
 ---
  
-**Martha**
+**Martha:**
 ...Yes.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 (Huh? Did she skip my name just now?)
 
  
-**Fou**
+**Fou:**
 (Fou, foou)
 
 

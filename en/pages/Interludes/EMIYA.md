@@ -2,20 +2,20 @@
 
 <h2>To be a Master</h2>
 
-**Emiya**
+**Emiya:**
 What a disaster...
 What kind of Holy Grail War happened here?
 
  
-**Emiya**
+**Emiya:**
 No sign of the Mage's Association or Holy Church, which means a battle royale among the Masters.
 
  
-**Emiya**
+**Emiya:**
 They probably misused their Servants, and let them do whatever they want.
 
  
-**Emiya**
+**Emiya:**
 Fujimaru, make sure you control your Servants, so you don't end up with a mess like this.
 
  
@@ -35,72 +35,72 @@ Is it wrong to let them do what they want?
 
 ---
  
-**Emiya**
+**Emiya:**
 Use your Command Spells to keep them in check.
 If they're up to something, teach them a lesson, or make them fight.
 
  
-**Emiya**
+**Emiya:**
 Many Masters use their Command Spells to force their Servants to commit suicide as a safety measure.
 
  
-**Emiya**
+**Emiya:**
 When a Master realizes a Heroic Spirit is "too much to handle," using the Spells that way can save many lives.
 
  
-**Mash**
+**Mash:**
 I see... It's true that there are many Servants who just want to cause destruction.
 
  
-**Mash**
+**Mash:**
 Most Berserkers are like that.
 I didn't realize you could use a Spell that way.
 
  
-**Mash**
+**Mash:**
 As expected of the great Emiya, a true veteran who's been through many Holy Grail Wars.
 
  
-**Emiya**
+**Emiya:**
 Y-Yeah. Well, when it comes to Holy Grail Wars,
 I know more than your average Servant.
 
  
-**Emiya**
+**Emiya:**
 Ahem. All right Fujimaru, this is a good chance. I'm going to give you a proper lecture.
 
  
-**Emiya**
+**Emiya:**
 ...Of course, Dr. Roman has already taught you what you need to know about combat.
 
  
-**Emiya**
+**Emiya:**
 So this time, I'll teach you about something you won't see in the stats, a Heroic Spirit's...attributes.
 
  
-**Emiya**
+**Emiya:**
 Heroic Spirits can be divided into four main categories.
 "Human", "Earth", "Heaven," and "Star."
 
  
-**Emiya**
+**Emiya:**
 Those under the "Human" category are people born after AD, and praised as heroes after their death because of their great deeds in life.
 
  
-**Emiya**
+**Emiya:**
 Some of them were actual super humans when alive, but most of them were only glorified after death.
 
  
-**Emiya**
+**Emiya:**
 Andersen, Shakespeare, Robin Hood, and Lady Nightingale would all be examples.
 
  
-**Emiya**
+**Emiya:**
 Next, the "Earth" category.
 These are heroes spoken of in local folklore&mdash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 (...This feels like another long talk.
 Fujimaru, is he always like this?)
 
@@ -111,11 +111,11 @@ Fujimaru, is he always like this?)
 **Fujimaru 1:**
 Sometimes he gets this way.
  
-**Mash**
+**Mash:**
 Yes. He's normally quiet and serious, but from time to time he gets very nosy.
 
  
-**Mash**
+**Mash:**
 He sort of talks too much.
 That's our Emiya.
 
@@ -126,7 +126,7 @@ That's our Emiya.
 **Fujimaru 2:**
 His attribute is "talky mom."
  
-**Dr. Roman**
+**Dr. Roman:**
 I see... Talky mom attribute, eh?
 We'll just have to let him talk till he's done then.
 
@@ -135,189 +135,189 @@ We'll just have to let him talk till he's done then.
 
 ---
  
-**Emiya**
+**Emiya:**
 The fourth category "Star," is where things get important.
 
  
-**Emiya**
+**Emiya:**
 The "Star" is a special category. It represents mankind's hope and symbolizes overcoming hardship.
 
  
-**Emiya**
+**Emiya:**
 This category might seem powerful as it has no weakness against the other three, but its true nature lies elsewhere.
 
  
-**Emiya**
+**Emiya:**
 There's another category equal to the "Star."
 That's the fifth&mdash;
 
  
-**Emiya**
+**Emiya:**
 ...We were interrupted just as it was getting good.
 Fujimaru, prepare for combat.
 
  
-**Emiya**
+**Emiya:**
 They must have smelled us.
 They'll make contact in 20 seconds!
 
  
-**Mash**
+**Mash:**
 R-Right! Preparing for combat immediately!
 Initiate anti-wild beast combat!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Emiya**
+**Emiya:**
 For our next topic, I'll explain what makes each class unique. We'll start with the Archer class,
 
  
-**Emiya**
+**Emiya:**
 Archers, as the name implies, use a bow as their primary weapon.
 
  
-**Emiya**
+**Emiya:**
 While inferior to Saber and Lancer in close range combat, they excel at providing long range support.
 
  
-**Emiya**
+**Emiya:**
 They also have a skill called "Independent Action."
 
  
-**Emiya**
+**Emiya:**
 Even without a link to their Master, they can function for a while on their own.
 
  
-**Mash**
+**Mash:**
 But they won't be able to maintain the physical body.
 
  
-**Mash**
+**Mash:**
 Lack of energy source aside, wouldn't they be forced back to the Throne without an anchor to this world?
 
  
-**Emiya**
+**Emiya:**
 Normally, yeah. But with Independent Action,
 they can ease up the "force exerted by the World."
 
  
-**Emiya**
+**Emiya:**
 After all, there are many stories of snipers camping out 3 days and 3 nights just to hit their targets.
 
  
-**Emiya**
+**Emiya:**
 Think of it as a skill that allows them to function for a few days apart from their Master.
 
  
-**Emiya**
+**Emiya:**
 What's important is that the skill differs from Assassin's Presence Concealment. It does not conceal your movement.
 
  
-**Emiya**
+**Emiya:**
 Stealth operations thus require the appropriate skill, or backups from their Master.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Archer, I hate to interrupt Fujimaru's lecture, but as I'm sure you're aware...
 
  
-**Emiya**
+**Emiya:**
 An enemy attack, right? They always pick the worst timing. It's so hard to have class outdoors.
 
  
-**Mash**
+**Mash:**
 (...I probably shouldn't mention that Archer's loud voice is telling the enemy exactly where we are, right?)
 
  
-**--BATTLE--**
+**--BATTLE--:**
 
-**Emiya**
+**Emiya:**
 Lastly, a word about what it means to be a Master.
 I'll tell you how to get along with your Servants.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 You're still keeping this up!
 Man, you don't know when to quit, do you?
 
  
-**Emiya**
+**Emiya:**
 What are you talking about?
 I'm here lecturing because the people at Chaldea won't.
 
  
-**Emiya**
+**Emiya:**
 I heard how you became a Master, Fujimaru.
 
  
-**Emiya**
+**Emiya:**
 You're no Mage, and you have no experience.
 You became a Master by accident, yes?
 
  
-**Emiya**
+**Emiya:**
 Even if no one else can do your job, that's still absurd.
 I should at least teach you how to act like a Master.
 
  
-**Mash**
+**Mash:**
 ...I'm sorry, Senpai. Emiya's right,
 none of the adults left at Chaldea are any good...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I do feel bad, you know!
 I am devoting myself fully to medical work as well!
 
  
-**Emiya**
+**Emiya:**
 Enough. We're talking about Servants.
 They are Heroic Spirits from many different eras.
 
  
-**Emiya**
+**Emiya:**
 Basically, a Servant will be more powerful than their Master. You understand that?
 
  
-**Mash**
+**Mash:**
 Yes.
 No one needs a familiar weaker than they are.
 
  
-**Emiya**
+**Emiya:**
 Correct. But it's wrong for a Master to unduly respect or fear their Servant.
 
  
-**Emiya**
+**Emiya:**
 They have achieved great things, but within the confines of the contract, that means nothing.
 
  
-**Emiya**
+**Emiya:**
 The Master and Servant relationship is defined by the contract, but mentally it's best for them to be equals.
 
  
-**Emiya**
+**Emiya:**
 Listen. Even a godlike Servant got their start the same way as you.
 
  
-**Emiya**
+**Emiya:**
 Anyone who lives in the modern era, uses the wisdom their ancestors left behind&mdash;
 
  
-**Emiya**
+**Emiya:**
 Servants are no different.
 
  
-**Emiya**
+**Emiya:**
 Even Heroic Spirits achieved deeds with the help of others when they were alive, and that's why they choose to contract with you.
 
  
-**Emiya**
+**Emiya:**
 In other words, being summoned and relied on isn't necessarily a bad thing for a Heroic Spirit.
 
  
-**Emiya**
+**Emiya:**
 For example, how would you feel if something you left behind could aid the people of the next era?
 
  
@@ -337,102 +337,102 @@ It would feel like the proof that I lived.
 
 ---
  
-**Emiya**
+**Emiya:**
 That's right.
 Servants feel the same way.
 
  
-**Emiya**
+**Emiya:**
 The deeds you did, the things you left behind nurtures the next generation&mdash;All Servants take pride in that.
 
  
-**Emiya**
+**Emiya:**
 Doesn't matter if the Servant is good or evil.
 Servants and Masters are mentally equal.
 
  
-**Emiya**
+**Emiya:**
 A Servant aiding a Master, is simply a matter of duty.
 
  
-**Emiya**
+**Emiya:**
 That is what it means to live on this planet.
 What you do will surely help someone in the future.
 
  
-**Mash**
+**Mash:**
 ...Someone in the future...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...Ahem, Mr. Emiya?
 I hate to interrupt the speech, but...
 
  
-**Emiya**
+**Emiya:**
 (Sigh) Very well.
 I've said what I must.
 
  
-**Emiya**
+**Emiya:**
 So, what is it this time? Golems? Skeletons?
 At this point a wyvern wouldn't surprise me.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Well, um&mdash;
 Honestly, we shouldn't be seeing any of these here...
 
  
-**Mash**
+**Mash:**
 I-It's an army of female soldiers! I have no idea why!
 Gorilla-like women...In other words, GoriWoms!
 
  
-**Mash**
+**Mash:**
 They're heading straight for Emiya!
 
  
-**Emiya**
+**Emiya:**
 My bad luck with women is following me here? Aah!
 It feels like someone's doing this deliberately!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Dr. Roman**
+**Dr. Roman:**
 And future generations would know this as the great Amazonian Migration. The end.
 
  
-**Emiya**
+**Emiya:**
 ...Doctor, was this your doing?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Huh? Nope! Wasn't me!
 Definitely not! No way!
 
  
-**Mash**
+**Mash:**
 Anyway, I think that's the last attack.
 Emiya, feel free to continue.
 
  
-**Emiya**
+**Emiya:**
 (Sigh) Never mind.
 I think I'll call it a day.
 
  
-**Emiya**
+**Emiya:**
 It was rude of me to assume you needed those lectures.
 Fujimaru already has many wonderful Servants.
 
  
-**Emiya**
+**Emiya:**
 With Mash Kyrielight at your side, you won't be easily defeated.
 
  
-**Emiya**
+**Emiya:**
 You have a long journey ahead of you.
 You'll learn through experience, not words.
 
@@ -443,7 +443,7 @@ You'll learn through experience, not words.
 **Fujimaru 1:**
 I'll do the best I can.
  
-**Emiya**
+**Emiya:**
 Good. Go at your own pace, and don't rush.
 You'll do yourself no good pushing too hard.
 
@@ -454,11 +454,11 @@ You'll do yourself no good pushing too hard.
 **Fujimaru 2:**
 Mash is the only one with talent.
  
-**Mash**
+**Mash:**
 ...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Fujimaru, sometimes you can be just brutal, you know that?
 
  
@@ -466,63 +466,63 @@ Fujimaru, sometimes you can be just brutal, you know that?
 
 ---
  
-**Mash**
+**Mash:**
 Um, Emiya.
 No, Servant Archer.
 
  
-**Mash**
+**Mash:**
 I was wondering.
 Why are you being so nice to us?
 
  
-**Mash**
+**Mash:**
 Other Servants are interested in Senpai's skills.
 You're the only one who cares what Senpai thinks.
 
  
-**Emiya**
+**Emiya:**
 It's simple.
 Now that you're my Master, I need you to succeed.
 
  
-**Emiya**
+**Emiya:**
 It's business. A form of advertising.
 I want people to know that my Masters succeed.
 
  
-**Emiya**
+**Emiya:**
 If word gets around, the next time I'm summoned I can ask for a higher price, right?
 
  
-**Mash**
+**Mash:**
 ...Um, in other words, it's for your own benefit?
 
  
-**Mash**
+**Mash:**
 So this is for us, and for yourself too?
 
  
-**Emiya**
+**Emiya:**
 Yes, that's right.
 
  
-**Emiya**
+**Emiya:**
 For one thing, it would damage my reputation to leave an inexperienced young [♂ boy /♀️ girl}.
 
  
-**Emiya**
+**Emiya:**
 A true Servant helps their Master grow, and thus enhances their own reputation.
 
 
 <h2>Unlimited Blade Works</h2>
 
-**Mash**
+**Mash:**
 We've arrived at the Massive Cavern in Fuyuki.
 Emiya, what's here, exactly?
 
  
-**Emiya**
+**Emiya:**
 I sensed this presence when I came to "this" Fuyuki before. I've been waiting for the right timing.
 
  
@@ -542,41 +542,41 @@ Presence?
 
 ---
  
-**Emiya**
+**Emiya:**
 A tough foe I've a particular attachment to&mdash;
 Or an impassable wall, you could say.
 
  
-**Emiya**
+**Emiya:**
 Fujimaru, you're aware that I can't use my Noble Phantasm yet, of course.
 
  
-**Emiya**
+**Emiya:**
 I've sealed it away, until you've grown strong enough as a Master.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 So that's why. I thought that was weird. Your Noble Phantasm manifests the landscape in your mind.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 No catalyst is necessary.
 You simply need to be there.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yet you couldn't use it. That's because you were waiting for Fujimaru's growth, right?
 
  
-**Emiya**
+**Emiya:**
 I'm well-aware that it's nosy of me, but there is an order to all things, you see.
 
  
-**Emiya**
+**Emiya:**
 I didn't want you to become the kind of Master who relies too much on Noble Phantasms.
 
  
-**Mash**
+**Mash:**
 Fujimaru has grown as a Master.
 Enough for you to use your Noble Phantasm, right?
 
@@ -587,7 +587,7 @@ Enough for you to use your Noble Phantasm, right?
 **Fujimaru 1:**
 I can finally use Archer's Noble Phantasm!?
  
-**Emiya**
+**Emiya:**
 Yes. You've done well so far.
 But first, there's one more thing you have to do.
 
@@ -598,7 +598,7 @@ But first, there's one more thing you have to do.
 **Fujimaru 2:**
 Thanks, but that's overprotective!
  
-**Emiya**
+**Emiya:**
 I'll just have to ask you to resign yourself to it.
 I get too attached to those I like.
 
@@ -607,21 +607,21 @@ I get too attached to those I like.
 
 ---
  
-**Emiya**
+**Emiya:**
 It might look different, but this is still the Greater Grail.
 The Holy Grail War that happens here...
 
  
-**Emiya**
+**Emiya:**
 Its strongest Servant awaits within.
 You will defeat it for me.
 
  
-**Emiya**
+**Emiya:**
 If you can do that, I'll have nothing left to teach you.
 
  
-**Mash**
+**Mash:**
 Within...Does he mean...
 
  
@@ -631,12 +631,12 @@ Within...Does he mean...
 **Fujimaru 1:**
 ...What was it again?
  
-**Dr. Roman**
+**Dr. Roman:**
 Come on, get a hold of yourself!
 Berserker! It's Berserker!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 That giant lump of pitch darkness.
 Just like a walking hurricane.
 
@@ -647,7 +647,7 @@ Just like a walking hurricane.
 **Fujimaru 2:**
 ...Berserker.
  
-**Mash**
+**Mash:**
 ...That's right.
 The Servant we stood no chance against before.
 
@@ -656,40 +656,40 @@ The Servant we stood no chance against before.
 
 ---
  
-**Emiya**
+**Emiya:**
 I see you know him, that saves me the time.
 Let's be prepared when we fight&mdash;
 
  
-**Monster**
+**Monster:**
 GuRuuuuuuuuuuuu&mdash;!
 
  
-**Emiya**
+**Emiya:**
 I guess we have to do some warm-ups first.
 Let's crush these guys, Fujimaru!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 Enemies destroyed.
 All that's left is the Servant back there.
 
  
-**Emiya**
+**Emiya:**
 Even corrupted, it's power is real.
 You'll need to kill it more than once or twice.
 
  
-**Emiya**
+**Emiya:**
 It means we need to keep killing him.
 Let's do this, Master.
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 W-We did it!
 We won!
 
@@ -710,59 +710,59 @@ It'll take more than a Berserker to stop me.
 
 ---
  
-**Emiya**
+**Emiya:**
 That was a splendid battle.
 You are no longer a novice.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh?
 No longer a novice, but not a true Master yet?
 
  
-**Emiya**
+**Emiya:**
 Is that really something for me to say?
 You still have some work for [♂ him /♀️ her}, right?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Well, for me this kid is doing a great job.
 But Magi☆Mari though...
 
  
-**Mash**
+**Mash:**
 You're asking an internet idol for opinions on a Master's growth?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Of course I am, so much so she complains and says "that all you ever talk about now."
 
  
-**Mash**
+**Mash:**
 ...That may not be the best idea Doctor.
 Try not to stay on the internet all day.
 
  
-**Emiya**
+**Emiya:**
 Either way, that's all I have for you to do.
 Master, you may now order me as you like.
 
  
-**Emiya**
+**Emiya:**
 How about fighting the real Berserker?
 I shall show you my mastery of the blade.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 A Noble Phantasm battle between Archer and Berserker?
 Awesome! Make sure you win this time, Archer!
 
  
-**Emiya**
+**Emiya:**
 That's up to my Master.
 
  
-**Emiya**
+**Emiya:**
 I'm counting on you, Fujimaru.
 Surpass the hero whom I couldn't before.
 

@@ -2,84 +2,84 @@
 
 <h2>The Events of a Lonely Night in November I</h2>
 
-**Fran**
+**Fran:**
 ...
 ...
 
  
-**Mash**
+**Mash:**
 Fran, are you all right?
 
  
-**Fran**
+**Fran:**
 ...Uh.
 
  
-**Mash**
+**Mash:**
 There's another artificial human like Fran in this era...
 Was Chaldea's analysis really correct?
 
  
-**Mash**
+**Mash:**
 We're a long way from both London,
 and Victor Frankenstein's house...
 
  
-**Fran**
+**Fran:**
 Uuuh...
 
  
-**Mash**
+**Mash:**
 Fran doesn't seem to know either...
 But let's look anyway.
 
  
-**Mash**
+**Mash:**
 Oh, Fran.
 Wake Master up, please.
 
  
-**Mash**
+**Mash:**
 I'll go look around and then meet up with you both.
 
  
-**Fran**
+**Fran:**
 Uuh!
 
  
-**Mash**
+**Mash:**
 ...Everything seems normal.
 Okay, now to meet up with Master&ndash;
 
  
-**Mash**
+**Mash:**
 W-What happened here&ndash;!?
 
  
-**Fran**
+**Fran:**
 ...Uuhh!
 
  
-**Mash**
+**Mash:**
 Um... Master didn't get up,
 so you were worried it was a terrible illness.
 
  
-**Mash**
+**Mash:**
 Then you decided to give electroshock therapy,
 and fired off Blasted Tree... Right?
 
  
-**Mash**
+**Mash:**
 ...
 ...
 
  
-**Mash**
+**Mash:**
 Isn't that a really bad idea&ndash;!?
 
  
-**Fran**
+**Fran:**
 Uuh?
 
  
@@ -99,20 +99,20 @@ My life flashed before my eyes...
 
 ---
  
-**Mash**
+**Mash:**
 I'm glad you're alive.
 
  
-**Fran**
+**Fran:**
 Uh...
 
  
-**Mash**
+**Mash:**
 It's okay, Fran.
 Master isn't mad.
 
  
-**Fran**
+**Fran:**
 Uuh?
 
  
@@ -132,60 +132,60 @@ Be careful from now on.
 
 ---
  
-**Fran**
+**Fran:**
 Uuuuuuh...
 
  
-**Mash**
+**Mash:**
 Looks like she understands.
 
  
-**Mash**
+**Mash:**
 Doctor, we're almost at our destination.
 See any responses?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hmm... That's strange.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I momentarily detected strong magical energy just now,
 but it's already gone.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 There's traces left, but they're starting to vanish.
 By the time you get there they'll be gone.
 
  
-**Mash**
+**Mash:**
 Some kind of summoning ritual?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm not sure... I don't have enough to say either way.
 I don't see enemy bio-responses, so don't worry.
 
  
-**Fran**
+**Fran:**
 ...Uuh? Uuuuuhh...
 
  
-**Mash**
+**Mash:**
 Fran, what's wrong?
 ...You saw something strange over there, you say?
 
  
-**Mash**
+**Mash:**
 This is... Something was buried here.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Let's take a look.
 
  
-**Fran**
+**Fran:**
 Uuuuuhh...
 
  
@@ -205,124 +205,124 @@ Is there something here?
 
 ---
  
-**Fran**
+**Fran:**
 Uuh, uh.
 
  
-**Mash**
+**Mash:**
 Under the ground?
 
  
-**Mash**
+**Mash:**
 What...? A voice!?
 
  
-**Fran**
+**Fran:**
 Uuuuuhhhhhh!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 W-Wait!
 You shouldn't dig there! Bad idea!
 
  
-**Mash**
+**Mash:**
 Doctor, what's down there!?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's a human corpse!
 
  
-**Fran**
+**Fran:**
 ...!?
 
  
-**Mash**
+**Mash:**
 It's not human... It's a homunculus?
 And...it's still alive!
 
  
-**Fran**
+**Fran:**
 Uuuh&mdash;!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It was dead just a moment ago,
 with no trace of magical energy at all!
 
  
-**Mash**
+**Mash:**
 Master, let's fight!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 ...Whew.
 Bio-response has disappeared.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I can confirm that here, too. Whew, that scared me...
 
  
-**Fran**
+**Fran:**
 Uuuuh...
 
  
-**Mash**
+**Mash:**
 Fran?
 ...You want us to investigate the homunculus?
 
  
-**Fran**
+**Fran:**
 Uh.
 
  
-**Mash**
+**Mash:**
 Doctor, can you analyze it?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yeah, it'll take a little time, but...
 I'll get started.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, and that powerful magical energy I detected?
 I saw something similar in the fortress up ahead.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'd like you to go after it immediately.
 That homunculus suggests something bad is going on.
 
  
-**Mash**
+**Mash:**
 Roger.
 We'll head there now.
 
  
-**Fran**
+**Fran:**
 ...Uuhhh.
 
  
-**Mash**
+**Mash:**
 Fran, calm down please.
 &ndash;There's nobody here, huh?
 
  
-**Mash**
+**Mash:**
 I don't sense anybody here either.
 ...This might be worse than we thought.
 
  
-**Fran**
+**Fran:**
 Uuuuh... Uuuhh!
 
  
-**Mash**
+**Mash:**
 Fran!?
 
  
@@ -342,29 +342,29 @@ Let's catch her!
 
 ---
  
-**Mash**
+**Mash:**
 Right!
 Fran, wait!
 
  
-**Fran**
+**Fran:**
 ...Uuh!
 
  
-**???**
+**???:**
 &ndash;There you...are... My defective...big sister.
 
  
-**Fran**
+**Fran:**
 !?!?!?
 
  
-**???**
+**???:**
 You have...a funny look...on your...face.
 Or...have you...never...seen...your face...in a mirror?
 
  
-**Mash**
+**Mash:**
 Fran, you're going too fast...
 Huh!?
 
@@ -385,107 +385,107 @@ Another Fran?
 
 ---
  
-**Fran(?)**
+**Fran(?):**
 So that's...your new...Master...huh?
 Your morals...are defective...as well...then.
 
  
-**Fran(?)**
+**Fran(?):**
 &ndash;When our Master...abandons us...we die.
 That is...our rule...right?
 
  
-**Fran(?)**
+**Fran(?):**
 But you...became...a Heroic Spirit.
 And swore...loyalty to a...new Master.
 
  
-**Fran(?)**
+**Fran(?):**
 Defective...to the core...
 
  
-**Fran**
+**Fran:**
 Uuuh!
 
  
-**Fran(?)**
+**Fran(?):**
 Oh...I see.
 You can't talk...my poor...Big Sister!
 
  
-**Fran(?)**
+**Fran(?):**
 I can talk...like this!
 And Father...loves...me!
 
  
-**Fran(?)**
+**Fran(?):**
 I'm different...than you...in every...way!
 
  
-**Mash**
+**Mash:**
 Who are you? And what did you do to the people in this fortress?
 
  
-**Fran(?)**
+**Fran(?):**
 Stupid...human.
 You don't really...expect me...to answer that!?
 
  
-**Mash**
+**Mash:**
 No, the answer is clear.
 &ndash;You killed everyone in this fortress.
 
  
-**Fran(?)**
+**Fran(?):**
 Hehehe.
 Wrong.
 
  
-**Fran(?)**
+**Fran(?):**
 I...did not...kill them.
 I...gave...them...new...life.
 
  
-**Mash**
+**Mash:**
 Huh!?
 
  
-**Mash**
+**Mash:**
 It can't be!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I've got it! That homunculus was made using human parts!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 As you know, homunculi are created using magical circuits as a base&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 But she's using magical energy to power corpses instead.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 They're less like homunculi, and more like Fran...
 Closer to artificial humans!
 
  
-**Fran(?)**
+**Fran(?):**
 Ahahahaha!
 Let's start...with a warm-up.
 
  
-**Fran(?)**
+**Fran(?):**
 Try your best... Big Sister.
 
  
-**Mash**
+**Mash:**
 ...They're coming!
 Fran, get ready!
 
  
-**Fran**
+**Fran:**
 Uuh...
 
  
@@ -505,123 +505,123 @@ Calm down!
 
 ---
  
-**Fran**
+**Fran:**
 ...
 ...(Nod nod)
 
  
-**Fran**
+**Fran:**
 GGNNNAAAAAOOOOOHH!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Fran(?)**
+**Fran(?):**
 &ndash;Hmph. I...expected...as much.
 Fine. I'll...fight you...myself.
 
  
-**Fran(?)**
+**Fran(?):**
 You will be...a good...test case.
 I am...not yet...complete.
 
  
-**Fran(?)**
+**Fran(?):**
 But...if I...can defeat...Big Sister.
 I know...I will...become&ndash;complete.
 
  
-**Fran(?)**
+**Fran(?):**
 Here...I...go!
 
  
-**Fran**
+**Fran:**
 SSHA&mdash;AHHH!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Fran(?)**
+**Fran(?):**
 Ugh!?
 No...you can't...be this...strong!
 
  
-**???**
+**???:**
 &ndash;Come home.
 
  
-**Fran(?)**
+**Fran(?):**
 ...Father!?
 
  
-**Fran**
+**Fran:**
 !!!
 
  
-**???**
+**???:**
 We have sufficient samples.
 It's time to go.
 
  
-**???**
+**???:**
 Don't worry.
 You will become perfect. I promise.
 
  
-**Fran(?)**
+**Fran(?):**
 ...I under...stand.
 
  
-**Mash**
+**Mash:**
 I won't let you get away!
 
  
-**Fran(?)**
+**Fran(?):**
 &ndash;"Blasted Tree!"
 
  
-**Mash**
+**Mash:**
 Ugh!
 
  
-**Fran**
+**Fran:**
 ...Uuuh!
 
  
-**Fran(?)**
+**Fran(?):**
 Farewell...Big Sister.
 Next time...we meet...will probably...be...goodbye.
 
  
-**Fran**
+**Fran:**
 ...Uh.
 
  
-**Mash**
+**Mash:**
 She got away!
 Doctor!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's no good. There's no traces of magical energy left.
 ...And what's more.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I just realized this, but the traces of magical energy in the fortress were a trap...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yup, there's nothing left.
 It's impossible to track them. I'm sorry...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I did get her data, though.
 Next time she shows up, I can track her... I think.
 
  
-**Fran**
+**Fran:**
 Uuhhh!
 
  
@@ -635,51 +635,51 @@ We'll get her next time!
 
 ---
  
-**Mash**
+**Mash:**
 Yeah.
 We have to get stronger, too...
 
  
-**Fran**
+**Fran:**
 ...Uuuhh. (Nod Nod)
 
 
 <h2>The Events of a Lonely Night in November II</h2>
 
-**Fran**
+**Fran:**
 ...Uh.
 
  
-**Mash**
+**Mash:**
 Fran, are you okay?
 
  
-**Fran**
+**Fran:**
 Uh, uh.
 
  
-**Mash**
+**Mash:**
 If you say so.
 
  
-**Mash**
+**Mash:**
 Doctor, are you sure you detected&ndash;the other Fran at this location?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yeah. I've been keeping a monitor running in the background since last time.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I caught nothing for a long time,
 and then suddenly I saw something.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I think it's her little sister.
 
  
-**Fran**
+**Fran:**
 ...Uh.
 
  
@@ -699,382 +699,382 @@ She's an enemy?
 
 ---
  
-**Fran**
+**Fran:**
 Uh.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...I guess that's true.
 We'll call her E. Fran, then.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The "E" is for Enemy.
 That works perfectly, right?
 
  
-**Fran**
+**Fran:**
 Uuh...uh.
 
  
-**Mash**
+**Mash:**
 She seems extremely reluctant, but agrees.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I-I see.
 Then start by heading to that town over there.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 But be careful.
 I'm not seeing any life signs in that town.
 
  
-**Mash**
+**Mash:**
 Does that mean...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Yeah, it's been destroyed.
 
  
-**Fran**
+**Fran:**
 ...Uh...
 
  
-**Mash**
+**Mash:**
 Yeah... It's just like before.
 There's no one around.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Detecting magical energy.
 ...Probably more homunculi.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 That's several of them. Be careful!
 
  
-**Fran**
+**Fran:**
 Uuuuuhh&mdash;Ghaaannoohh!
 
  
-**Mash**
+**Mash:**
 Don't worry, Master.
 We can beat them easily!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 Battle complete.
 ...As expected, these were made from corpses as well.
 
  
-**???**
+**???:**
 ...Correct.
 But they were of great use nonetheless.
 
  
-**Fran**
+**Fran:**
 Uh!?
 
  
-**???**
+**???:**
 It's been a long time.
 
  
-**???**
+**???:**
 I'm surprised you've become a Heroic Spirit.
 You, a nameless creature who simply stole my name.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It was him... I knew it!
 
  
-**Mash**
+**Mash:**
 &ndash;Victor Frankenstein!
 
  
-**Fran**
+**Fran:**
 Uuh...
 
  
-**Victor**
+**Victor:**
 Indeed.
 
  
-**Victor**
+**Victor:**
 You became a Servant,
 and I became a ghost.
 
  
-**Victor**
+**Victor:**
 But all the changes taking place in the world...
 It seems they have created the perfect environment for me.
 
  
-**Victor**
+**Victor:**
 I am but a ghost. A remnant of the past.
 I am nothing more, and yet&ndash;
 
  
-**Victor**
+**Victor:**
 With a strong enough will, I can do it again.
 I can start over.
 
  
-**Victor**
+**Victor:**
 That miracle! That once-in-a-lifetime chance God gave me! It is mine once more!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Perhaps due to the Singularities...
 Even relatively stable eras are starting to waver.
 
  
-**Mash**
+**Mash:**
 In other words, the “If Victor Frankenstein had lived...” hypothesis is being put to the test.
 
  
-**Mash**
+**Mash:**
 Even if he can't change the world,
 he can murder an entire town.
 
  
-**E. Fran**
+**E. Fran:**
 Father.
 That's...enough...right?
 
  
-**Victor**
+**Victor:**
 Yes, of course, “Eve.”
 
  
-**Fran**
+**Fran:**
 !!!
 
  
-**Victor**
+**Victor:**
 Kill her.
 
  
-**Victor**
+**Victor:**
 If you do, you can take her place&ndash;
 and become a new legend.
 
  
-**Victor**
+**Victor:**
 Eve. The first woman, the mate of Adam. You'll become what can be called a perfect version of her.
 
  
-**E. Fran**
+**E. Fran:**
 Yes...yes...yes!
 I'll do it! I'll do it! I'll kill Big Sister! I will! I will!
 
  
-**Fran**
+**Fran:**
 ...Uh.
 
  
-**Victor**
+**Victor:**
 You can't even speak?
 What a failure you are&ndash;
 
  
-**Fran**
+**Fran:**
 Shut...up.
 
  
-**Victor**
+**Victor:**
 ?!?!?!
 
  
-**Fran**
+**Fran:**
 Talking...is...tiring.
 But... I'll...say...this.
 
  
-**Fran**
+**Fran:**
 Father. Little Sister.
 You...ended...long ago.
 
  
-**Fran**
+**Fran:**
 I...find...my...own...husband.
 I...pick...my...own...name.
 
  
-**Fran**
+**Fran:**
 So.
 Come...with me!
 
  
-**Victor**
+**Victor:**
 You little&ndash;!
 
  
-**E. Fran**
+**E. Fran:**
 Shut up!
 
  
-**Mash**
+**Mash:**
 ...Fran!
 We'll fight with you!
 
  
-**Fran**
+**Fran:**
 ...Yes.
 Together!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Fran**
+**Fran:**
 Hah... Hah... Hah!
 
  
-**E. Fran**
+**E. Fran:**
 Ugh... Why! How!
 This...can't be! You! Big Sister!
 
  
-**E. Fran**
+**E. Fran:**
 You can't...be this...strong!
 
  
-**Fran**
+**Fran:**
 GGNNAAAAOOOH!
 
  
-**E. Fran**
+**E. Fran:**
 Eek!
 
  
-**E. Fran**
+**E. Fran:**
 Gaah!?
 
  
-**Victor**
+**Victor:**
 ...Oh, brother.
 
  
-**E. Fran**
+**E. Fran:**
 Fa-ther. Fat-her. Fath-er.
 No...no...no! Strong...strong...strong!
 
  
-**Victor**
+**Victor:**
 Don't worry, “Eve.”
 I never expected anything of you to begin with.
 
  
-**E. Fran**
+**E. Fran:**
 &ndash;Huh?
 
  
-**Victor**
+**Victor:**
 After all, the defect is in the soul used as the base.
 
  
-**Victor**
+**Victor:**
 It's probably because you're not created from magical circuits like the homunculi.
 
  
-**Victor**
+**Victor:**
 A degraded soul is inferior to a human.
 It can't possibly defeat a Heroic Spirit.
 
  
-**Victor**
+**Victor:**
 There's only one reason I created you.
 
  
-**E. Fran**
+**E. Fran:**
 Fath-er?
 
  
-**Fran**
+**Fran:**
 !?!?!?
 
  
-**Mash**
+**Mash:**
 Wha&ndash;!?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 What? What's going on!?
 
  
-**Mash**
+**Mash:**
 Victor Frankenstein...killed E. Fran!
 
  
-**E. Fran**
+**E. Fran:**
 W-Why?
 I...did...everything...for you...
 
  
-**Victor**
+**Victor:**
 I know.
 But&ndash;in the end, you're defective.
 
  
-**Victor**
+**Victor:**
 And so am I, as a human.
 So I'm taking your body.
 
  
-**Victor**
+**Victor:**
 My soul. My knowledge. My mind.
 Your body. Your abilities.
 
  
-**Victor**
+**Victor:**
 Only together can we attain “Eve.” The gender change will be a bit difficult&ndash;but it's nothing to worry about.
 
  
-**E. Fran**
+**E. Fran:**
 No...I don't want that...why...no...no...no...
 I don't...want...to become...Father!
 
  
-**E. Fran**
+**E. Fran:**
 I just...wanted...Father to...compliment...me!
 
  
-**Fran**
+**Fran:**
 ...
 
  
-**Victor**
+**Victor:**
 ...Now, let's continue.
 This “Eve” will be a little different.
 
  
-**Victor**
+**Victor:**
 Come forth, Shadows.
 
  
-**Mash**
+**Mash:**
 Shadow Servants!
 He can summon those things?
 
  
-**Victor**
+**Victor:**
 Of course. This is my world. My era. My home.
 You're the outsiders.
 
  
-**Victor**
+**Victor:**
 I've removed limiters from “Eve,” as well.
 It's time to test my unrivaled power!
 
  
-**Mash**
+**Mash:**
 ...This may be only a tiny crack in history.
 But we can't just ignore it.
 
@@ -1089,7 +1089,7 @@ Agreed.
 
 ---
  
-**Fran**
+**Fran:**
 ...Uuuuh!
 
  
@@ -1109,80 +1109,80 @@ Fran, avenge your sister.
 
 ---
  
-**Fran**
+**Fran:**
 Under-stood.
 
  
-**Fran**
+**Fran:**
 &ndash;GNAAAAAAAOOOH!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Victor**
+**Victor:**
 No... This can't be. There must be some mistake.
 I was given life by a miracle.
 
  
-**Victor**
+**Victor:**
 If so, my second coming was to create my own miracle, no? Right? Right, that's how it should be...
 
  
-**Fran**
+**Fran:**
 ...No. You...just...by chance...were there.
 
  
-**Victor**
+**Victor:**
 Don't be stupid!
 ...How could you lie like that!
 
  
-**Fran**
+**Fran:**
 You...only...needed...to...live.
 With...someone...you...love.
 
  
-**Fran**
+**Fran:**
 Then...we...might...never...meet...again.
 
  
-**Victor**
+**Victor:**
 No. That's a lie. You're a liar. I was chosen.
 
  
-**Victor**
+**Victor:**
 I am a great Singularity...chosen by this era...
 and meant to change history&ndash;
 
  
-**Victor**
+**Victor:**
 ...Or is that...wrong?
 ...
 
  
-**Mash**
+**Mash:**
 All right, that does it for the graves.
 Let's offer them a prayer.
 
  
-**Mash**
+**Mash:**
 ...If Jeanne and the others were here, they could do a real service.
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Fran**
+**Fran:**
 ...Uh.
 
  
-**Fran**
+**Fran:**
 Mast-er.
 Let's...go.
 
  
-**Fran**
+**Fran:**
 Saving...eras...the...world.
 ...I...will...try.
 
@@ -1203,7 +1203,7 @@ I'm counting on you, Fran.
 
 ---
  
-**Fran**
+**Fran:**
 ...Yeah!
 
 

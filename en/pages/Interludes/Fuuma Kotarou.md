@@ -35,7 +35,7 @@ At that point, recording teachings in text is the best method, but its accuracy 
 In order to perfect the ninjutsu that Fuuma created, oral instruction and a clear mental acuity so one neither forgets nor is forgotten are best.
 
  
-**Danzo**
+**Danzo:**
 So you're the fifth leader of the clan.
 
  
@@ -43,11 +43,11 @@ So you're the fifth leader of the clan.
 I shake my head in denial. As long as the fourth leader still lives, I am not the fifth leader.
 
  
-**Danzo**
+**Danzo:**
 Incorrect. You will soon be the fifth leader. And the shinobi techniques that I have been entrusted with must be passed along to you in order for you to become what you are destined to be.
 
  
-**Danzo**
+**Danzo:**
 Everything...I shall teach you and pass down everything. Now please...give me your hand.
 
  
@@ -71,7 +71,7 @@ The age of the shinobi was coming to an end. The Houjou clan perished, and the n
 The Fuuma clan was convinced that their end was near. The Fuuma as ninjas, at the least, would end here.
 
  
-**Danzo**
+**Danzo:**
 Yes, that's what the times have become.
 
  
@@ -88,36 +88,36 @@ Even if it meant taking on the guise of a burglar or a thief in order to keep th
 But should that happen...what would happen to you?
 
  
-**Danzo**
+**Danzo:**
 Do not worry yourself over that.
 I can no longer move anyway.
 
  
-**Danzo**
+**Danzo:**
 For five generations, I have been watching over the Fuuma.
 
  
-**Danzo**
+**Danzo:**
 My operational period is long since passed, and I can no longer recall the faces of the previous leaders.
 
  
-**Danzo**
+**Danzo:**
 The techniques of the shinobi...even throwing a shuriken...all gone from my memory.
 
  
-**Danzo**
+**Danzo:**
 The only thing that remains within me is...your face.
 
  
-**Danzo**
+**Danzo:**
 That's why, I ask that you do the role of my kaishaku, to behead me, in one sweep. I am asking you, personally, to do this for me.
 
  
-**Danzo**
+**Danzo:**
 And by doing so, I can declare you to be my greatest accomplishment and masterpiece of the Fuuma clan.
 
  
-**Danzo**
+**Danzo:**
 The strongest...the last...the best ninja.
 
  
@@ -129,7 +129,7 @@ The strongest...the last...the best ninja.
 Ah...but what did I do right after that?
 
  
-**Mash**
+**Mash:**
 Master.
 We have failed to summon Katou Danzo.
 
@@ -143,44 +143,44 @@ We have failed to summon Katou Danzo.
 
 ---
  
-**Mash**
+**Mash:**
 According to our staff's analysis, it appears there was an error in the summoning path.
 
  
-**Mash**
+**Mash:**
 We don't understand the cause of the error.
 
  
-**Holmes**
+**Holmes:**
 Yes. And that's why [♂ Mister /♀️ Miss} Fujimaru...you will be heading over to the...“other” Japan.
 
  
-**Mash**
+**Mash:**
 Holmes?
 
  
-**Holmes**
+**Holmes:**
 Based on what I heard about the dream you had...
 
  
-**Holmes**
+**Holmes:**
 If an error occurred in summoning Katou Danzo,
 its source likely lies in this dreamed-of Japan.
 
  
-**Holmes**
+**Holmes:**
 You will need to settle the matter there.
 
  
-**Holmes**
+**Holmes:**
 That woman you fought is the worst. I'm sure she has no intention of becoming a Servant here.
 
  
-**Holmes**
+**Holmes:**
 But that one planted some seeds and left them behind. Think of this as one of them sprouting.
 
  
-**Holmes**
+**Holmes:**
 And it has, in turn, caused this error.
 
  
@@ -198,16 +198,16 @@ Wait, I thought we couldn't go back?
 
 ---
  
-**Holmes**
+**Holmes:**
 Precisely. And that's why you should head over there in its proper time.
 
  
-**Holmes**
+**Holmes:**
 In that timeline, she's there.
 So go save her.
 
  
-**Holmes**
+**Holmes:**
 And do you know which Servant should accompany you?
 
  
@@ -217,7 +217,7 @@ And do you know which Servant should accompany you?
 **Fujimaru 1:**
 Yes.
  
-**Holmes**
+**Holmes:**
 I've already asked Miss Da Vinci to prepare a Rayshift. Now go and settle this once and for all.
 
  
@@ -227,7 +227,7 @@ I've already asked Miss Da Vinci to prepare a Rayshift. Now go and settle this o
 **Fujimaru 2:**
 I'll go call him.
  
-**Holmes**
+**Holmes:**
 Yes, do so.
 It's about time for him to settle matters.
 
@@ -236,24 +236,24 @@ It's about time for him to settle matters.
 
 ---
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 ...Going to that...proper age of that time?
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 ...I see.
 Then yes, it makes sense for me to accompany you.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Not just as a Servant, but as Fuuma Kotarou...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 I will happily accompany you, my Master.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 But first, I will need to prepare.
 
  
@@ -266,16 +266,16 @@ Prepare?
 
 ---
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Yes. With this Spirit Origin form,
 I'm a little concerned about my defenses.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 ...Nin!
 
  
-**E：Fuuma Kotarou**
+**E：Fuuma Kotarou:**
 Spirit Origin, released.
 Now I can fight with my full power.
 
@@ -286,7 +286,7 @@ Now I can fight with my full power.
 **Fujimaru 1:**
 That was ninpou...
  
-**Fou**
+**Fou:**
 Fou...
 
  
@@ -296,7 +296,7 @@ Fou...
 **Fujimaru 2:**
 That was ninjutsu...
  
-**E：Fuuma Kotarou**
+**E：Fuuma Kotarou:**
 It's very similar to magecraft.
 
  
@@ -304,7 +304,7 @@ It's very similar to magecraft.
 
 ---
  
-**E：Fuuma Kotarou**
+**E：Fuuma Kotarou:**
 Now let's head out.
 To that time period...to the village of the Fuuma...
 
@@ -384,11 +384,11 @@ Why do I stay here? Why am I bound here?
 Even though there is something I need to do...
 
  
-**Mash**
+**Mash:**
 ...Yes. We're detecting a strong magical energy response...
 
  
-**Mash**
+**Mash:**
 Master...
 
  
@@ -401,37 +401,37 @@ It'll be all right.
 
 ---
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 I'm fine, Lady Mash.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 No matter who she is, or what she is,
 our objective is the same.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 And I must be the one to complete this task.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Not as a Servant or as an Assassin, but as Fuuma Kotarou, fifth leader of the Fuuma Clan.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 This is my burden to bear.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Master, I am so sorry for dragging you into this!
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Underlings are approaching.
 I will eradicate them. Please stand watch, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
 **Narration:**
 I don't remember... I don't remember whether I beheaded her as she asked or not.
@@ -446,129 +446,129 @@ but I regret that I could not.
 Both sentiments are there, giving me pain.
 
  
-**Danzo**
+**Danzo:**
 I could never get used to being called Mother.
 
  
-**Danzo**
+**Danzo:**
 Whenever I was called that,
 something inside me squeaked, so I...oiled it.
 
  
-**Danzo**
+**Danzo:**
 I thought that, over time, being addressed that way would become second nature to me.
 
  
-**Danzo**
+**Danzo:**
 Mother.
 Did I ever do anything to deserve that title?
 
  
-**Danzo**
+**Danzo:**
 The only thing I did was continue to teach the techniques of the shinobi to each generation.
 
  
-**Danzo**
+**Danzo:**
 Faster than yesterday, higher than yesterday,
 smarter than yesterday, stronger than yesterday.
 
  
-**Danzo**
+**Danzo:**
 I was merely a being, a puppet, meant to make him that way. Ever since my own operational period ended, that was what I decided.
 
  
-**Danzo**
+**Danzo:**
 I have no right to be called a mother.
 
  
-**B：???**
+**B：???:**
 No, you're wrong.
 
  
-**B：???**
+**B：???:**
 It was fine.
 That was enough.
 
  
-**B：???**
+**B：???:**
 We only had one objective.
 To complete the Fuuma clan.
 
  
-**B：???**
+**B：???:**
 So please do not belittle that fact.
 You did everything in your power.
 
  
-**B：???**
+**B：???:**
 And especially...whenever I perfected a technique, you always said to me:
 
  
-**Danzo**
+**Danzo:**
 Yes, excellent work, Lord Kotarou.
 
  
-**B：???**
+**B：???:**
 Those words alone were the greatest reward for me.
 That was all that I needed.
 
  
-**B：???**
+**B：???:**
 They held such strong sentiment. Even if it was as minute as a dew drop, that was enough. No, I didn't need anything more.
 
  
-**B：???**
+**B：???:**
 Had I been fulfilled, I wouldn't have become complete. Being hungry for the smallest of sentiment was enough.
 
  
-**Danzo**
+**Danzo:**
 That's right.
 So, please...do not try to satisfy my needs.
 
  
-**Danzo**
+**Danzo:**
 Your very existence is what fulfills me.
 Such sentiment is usually unnecessary to a shinobi.
 
  
-**Danzo**
+**Danzo:**
 Oh, but...perhaps I had already...
 
  
-**Danzo**
+**Danzo:**
 ...served my purpose.
 And now that I'm not needed anymore, I am merely junk.
 
  
-**Danzo**
+**Danzo:**
 Perhaps that's why I find something so simple so fulfilling.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 We're almost at the village of the Fuuma.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 This era was somewhat peaceful,
 but it was quite tumultuous for me personally.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Our days were not calm,
 and our fates unclear.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 We fought, we killed, we pillaged...
 We fought, we were killed, we were pillaged...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Despite our actions,
 we were all desperate to find our destiny.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 As we were searching for some shining place without light, we mindlessly practiced our techniques.
 
  
@@ -578,12 +578,12 @@ As we were searching for some shining place without light, we mindlessly practic
 **Fujimaru 1:**
 Did you ever regret it?
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 No. Absolutely not.
 I never had a single ounce of regret.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Just like you, Master.
 I have never felt regret.
 
@@ -594,12 +594,12 @@ I have never felt regret.
 **Fujimaru 2:**
 Nothing came of that?
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 ...Yes. You're absolutely right.
 Nothing at all came about from our efforts.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 In extreme terms, the name Fuuma left a mark in history.
 
  
@@ -607,36 +607,36 @@ In extreme terms, the name Fuuma left a mark in history.
 
 ---
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 ...We've taken a bit of a detour it seems.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Were she here, she would be somewhere dark, where no light could reach.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 She did not like the sun, because she always believed that it mocked and ridiculed her.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 ...But I never thought so. She was a beautiful combat doll, and she was the one person I opened up to.
 
  
-**Mash**
+**Mash:**
 Master, Kotarou...I'm getting an intense response.
 
  
-**Mash**
+**Mash:**
 I've scanned the topography.
 There seems to be a cave five hundred meters ahead.
 
  
-**Mash**
+**Mash:**
 She's likely there.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Thank you.
 Then let's go, Master.
 
@@ -681,35 +681,35 @@ I must protect this place,
 or else I would no longer be Katou Danzo...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Please stand back I believe we have arrived.
 
  
-**???**
+**???:**
 Go away... Go away...
 Please. I beg of you.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Mother.
 
  
-**???**
+**???:**
 Who...? It doesn't matter...
 I need to protect this place...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 No, you do not.
 You must leave this grave to time now.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 A shinobi is destined to disappear like dust.
 But...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Her lingering thoughts must have been used and manipulated by an abominable entity...
 
  
@@ -727,37 +727,37 @@ Can you fight her?
 
 ---
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Of course.
 This is why I came along.
 
  
-**???**
+**???:**
 Who...are you...?
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 I will answer once I've destroyed you!
 Engaging!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Yah! Die!
 
  
-**Mash**
+**Mash:**
 All enemy signals have disappeared.
 Good work, Master.
 
  
-**Mash**
+**Mash:**
 I will make preparations for your return.
 Please wait.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 No. There's one thing that needs to be done.
 Let's keep going, Master.
 
@@ -771,167 +771,167 @@ Let's keep going, Master.
 
 ---
  
-**Danzo**
+**Danzo:**
 ...Who...?
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 ...I am the fifth leader, Fuuma Kotarou.
 
  
-**Danzo**
+**Danzo:**
 ...That name...oh...are you...really...the fifth leader?
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Do you remember me?
 
  
-**Danzo**
+**Danzo:**
 No...
 
  
-**Danzo**
+**Danzo:**
 But...Fuuma...is here...
 It's right...here...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 This must be the grave.
 Our grave. The Fuuma clan's...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Those who were left to die in the elements...those who have gone missing...those who were abandoned...or those who simply died...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 It's the unknown and unmarked grave of us as ninja. Your task was to protect this place and to raise the next generation.
 
  
-**Danzo**
+**Danzo:**
 Yes...that's why...I must...raise the next...Fuuma...
 
  
-**Danzo**
+**Danzo:**
 That is my duty.
 The purpose of my existence.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 There's no need for that anymore.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Katou Danzo. In the name of the fifth leader,
 I hereby relieve you of your duty.
 
  
-**Danzo**
+**Danzo:**
 I...refuse...
 There is no proof...that you are the fifth leader...
 
  
-**Danzo**
+**Danzo:**
 His face, his voice, and even his scent...all gone from my...memories... The truth...I no longer have...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Then touch me, Katou Danzo.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 This flesh of mine has been shaped by the Fuuma.
 Should you touch me, you will understand.
 
  
-**Danzo**
+**Danzo:**
 ...
 
  
-**Danzo**
+**Danzo:**
 ...Ah...
 
  
-**Danzo**
+**Danzo:**
 Fuuma...Fuuma Kotarou...
 My...their...coveted completed form...
 
  
-**Danzo**
+**Danzo:**
 ...Then the final swing of a sword... If you are truly the real Fuuma Kotarou...you know what to do...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Of course.
 
  
-**Mash**
+**Mash:**
 Eh...!?
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Kaishaku...assisting you by beheading.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 I, Fuuma Kotarou, shall see this task be carried out.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 I will see to it that the Fuuma line ends here.
 That this is the end of the shinobi's journey.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Because that is our conviction.
 
  
-**Danzo**
+**Danzo:**
 Yes...precisely...
 Ah...even though I cannot see...I can tell...
 
  
-**Danzo**
+**Danzo:**
 The Fuuma...I have...most definitely...reached the end...
 
  
-**Danzo**
+**Danzo:**
 I'm glad...even with all my memories gone...I'm glad to be able to see this conclusion...
 
  
-**Danzo**
+**Danzo:**
 Thank you, fifth one...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 ...No.
 The Fuuma should be the one thanking you.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Mother.
 Please have a pleasant journey.
 
  
-**Danzo**
+**Danzo:**
 Mother...
 Mot...her...
 
  
-**Danzo**
+**Danzo:**
 Ah, that word...brings back memories...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 ...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Master, I know this may be pointless...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 But would you mind if I dig a grave?
 
  
@@ -941,7 +941,7 @@ But would you mind if I dig a grave?
 **Fujimaru 1:**
 Want me to help?
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Thank you, Master.
 But actually, I want to do this on my own.
 
@@ -952,7 +952,7 @@ But actually, I want to do this on my own.
 **Fujimaru 2:**
 Sure.
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Thank you.
 Then...if you would give me a moment.
 
@@ -961,34 +961,34 @@ Then...if you would give me a moment.
 
 ---
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 No grave marker, no posthumous name.
 Just numerous unnamed shinobi.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 But at the same time, that is something to be proud of. That's what it means to be one of us.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 We do not strive to be celebrated.
 We take pride in our anonymity.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 I'm sure my grave is somewhere here too. Marked not as Fuuma Kotarou, but as an unnamed shinobi.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 And now, Katou Danzo has finally joined us.
 One of the few who knew the first leader's techniques.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 She completed educating and raising the fifth leader, and she understood that her duties were fulfilled.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 I'm satisfied.
 Yes, what a wonderful ending.
 
@@ -996,7 +996,7 @@ Yes, what a wonderful ending.
 I was able to include her to be one of us...as “just” another ninja.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Ah, but...just one last thing...
 
  
@@ -1004,16 +1004,16 @@ Ah, but...just one last thing...
 At the very end, I unthinkingly called her “Mother.”
 
  
-**Mash**
+**Mash:**
 Good work, Master.
 And I have some news.
 
  
-**Mash**
+**Mash:**
 With the correction of the Singularity that you were just in, a new Spirit Origin was added to our list.
 
  
-**Mash**
+**Mash:**
 It is:
 
  
@@ -1031,81 +1031,81 @@ Katou Danzo?
 
 ---
  
-**Mash**
+**Mash:**
 Yes!
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 ...!
 
  
-**Danzo**
+**Danzo:**
 Nice to meet you.
 You must be the fifth Fuuma Kotarou.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 That's right.
 You must be Katou Danzo.
 
  
-**Danzo**
+**Danzo:**
 Yes.
 
  
-**Danzo**
+**Danzo:**
 Perhaps because my Spirit Origin was damaged, I have no memories of my past, other than my battle data.
 
  
-**Danzo**
+**Danzo:**
 I do recall that I had something to do with the first Lord Fuuma, but...
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 ...I see. If we return to the village of the Fuuma,
 we should be able to find your grave.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 Though, we are in a completely different time period. I am the fifth leader.
 
  
-**Danzo**
+**Danzo:**
 Yes. It appears that I was most active as a shinobi long before you were born.
 
  
-**Danzo**
+**Danzo:**
 That is what Da Vinci has told me.
 So, this is the first time we have spoken.
 
  
-**Danzo**
+**Danzo:**
 ...Well, I'm relieved.
 So the Fuuma really did fulfill their dream.
 
  
-**Danzo**
+**Danzo:**
 After all, you, a perfect shinobi,
 did indeed come to be.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 (...That was all thanks to your help.)
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 (Everything that you did... Even the fact that I stand here today...all of it is thanks to you.)
 
  
-**Danzo**
+**Danzo:**
 Hm? Is something wrong?
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 ...I forgot to properly introduce myself.
 
  
-**Fuuma Kotarou**
+**Fuuma Kotarou:**
 It's a pleasure to meet you, Katou Danzo. My name is Fuuma Kotarou, the fifth leader of the Fuuma clan.
 
 

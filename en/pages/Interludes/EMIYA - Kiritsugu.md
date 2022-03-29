@@ -68,29 +68,29 @@ If it is an inanimate object, we destroy it.
 We seek it out, and then swiftly...
 
  
-**Emiya**
+**Emiya:**
 ...This time around, it's quite clear-cut.
 
  
-**Emiya**
+**Emiya:**
 It must be a remnant of the many things you defeated. It's not as powerful as what we encountered in the final Singularity.
 
  
-**Emiya**
+**Emiya:**
 It's not alive.
 It's already dead.
 
  
-**Emiya**
+**Emiya:**
 But it's taken in a shard of a Holy Grail.
 
  
-**Emiya**
+**Emiya:**
 Which then it turned into a minute Singularity.
 What a pain. There are far too many Holy Grails...
 
  
-**Emiya**
+**Emiya:**
 ...and, of course, shards in this Grand Order.
 
  
@@ -100,7 +100,7 @@ What a pain. There are far too many Holy Grails...
 **Fujimaru 1:**
 Sorry to take up your time, Emiya.
  
-**Emiya**
+**Emiya:**
 Likewise.
 Sorry to rope you into this.
 
@@ -111,7 +111,7 @@ Sorry to rope you into this.
 **Fujimaru 2:**
 Thanks for finding it so quickly.
  
-**Emiya**
+**Emiya:**
 Finding the problem and dealing with it swiftly is my forte. I should be the one thanking you.
 
  
@@ -119,7 +119,7 @@ Finding the problem and dealing with it swiftly is my forte. I should be the one
 
 ---
  
-**Emiya**
+**Emiya:**
 Now let's do it.
 I'm sure IT'S also tired of waiting for us.
 
@@ -134,22 +134,22 @@ Commence battle!
 
 ---
  
-**Emiya**
+**Emiya:**
 Understood, Master.
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Emiya**
+**Emiya:**
 It ends here, you worthless pile of nothing.
 I'm sure you're sick of living as an empty shell.
 
  
-**Emiya**
+**Emiya:**
 Mission completed, Master.
 
  
-**Emiya**
+**Emiya:**
 The minute Singularity has disappeared.
 We should hurry back to Chaldea.
 
@@ -169,24 +169,24 @@ We got it done quick thanks to you.
 
 ---
  
-**Emiya**
+**Emiya:**
 It was nothing.
 I just did my job.
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 ...
 
  
-**Irisviel**
+**Irisviel:**
 ......
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 .........
 
  
-**Irisviel**
+**Irisviel:**
 ............
 
  
@@ -205,32 +205,32 @@ What are you two doing in front of Emiya's room?
 
 ---
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Mrow!?
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Hmmm hmmm hmmm, fweet tweet tweet♪
 (Humming and whistling)
 
  
-**Irisviel**
+**Irisviel:**
 Um, it's actually a bit of a long story...
 
  
-**Irisviel**
+**Irisviel:**
 ...
 
  
-**Irisviel**
+**Irisviel:**
 It has nothing to do with the Holy Grail. I am...like a Divided Spirit that poured out of the Holy Grail...
 
  
-**Irisviel**
+**Irisviel:**
 That makes me unique among all the Heroic Spirits. But me standing right here is not related to that whatsoever.
 
  
-**Irisviel**
+**Irisviel:**
 ...We're just taking a peek.
 
  
@@ -240,11 +240,11 @@ That makes me unique among all the Heroic Spirits. But me standing right here is
 **Fujimaru 1:**
 It's exactly how it looks!
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 When you're stalking prey, you hide in the darkness! This jaguar is sad to know you forgot the laws of the jungle!
 
  
-**Irisviel**
+**Irisviel:**
 That's not it.
 We're not out to kill anyone!
 
@@ -255,17 +255,17 @@ We're not out to kill anyone!
 **Fujimaru 2:**
 Why don't you just talk to him?
  
-**Irisviel**
+**Irisviel:**
 Yes...you're right.
 We know that's the right thing to do...
 
  
-**Irisviel**
+**Irisviel:**
 But that man doesn't want to see us.
 Even when we speak to him, he just walks away...
 
  
-**Irisviel**
+**Irisviel:**
 Honestly, we've run out of options.
 
  
@@ -273,25 +273,25 @@ Honestly, we've run out of options.
 
 ---
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 (Gasp!) Here he comes!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Deploying Noble Phantasm “Jaguar in the Black”!
 It'll make this whole place SUPER dark!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Come on, Miss Iri and Master!
 This way!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Be like glue, stick together and become one with the darkness...!
 
  
-**Irisviel**
+**Irisviel:**
 Ah! My shadow...!?
 
  
@@ -310,38 +310,38 @@ You sound like a boss.
 
 ---
  
-**C：Jaguar Warrior**
+**C：Jaguar Warrior:**
 (Hmmm...like the “Dancer in the Dark.”
 Perfect. Nobody can see us from the outside!)
 
  
-**C：Jaguar Warrior**
+**C：Jaguar Warrior:**
 (It's a nagual-like Presence Concealment.
 Behold, it can even hide friends other than Jaguar!)
 
  
-**E：Irisviel**
+**E：Irisviel:**
 (Wow, how wonderful.)
 
  
-**C：Jaguar Warrior**
+**C：Jaguar Warrior:**
 (Yep, yep. Miss Iri, you really are accepting and wonderful too, meow. You get a Jaguar stamp... Stamp! Once more for good measure.)
 
  
-**E：Irisviel**
+**E：Irisviel:**
 (Teehee. You flatter me, Jaguar Warrior.)
 
  
-**C：Jaguar Warrior**
+**C：Jaguar Warrior:**
 (By the way, it will only work for Jaguar during battle. Obviously, I can't hide an entire group in the middle of a fight!)
 
  
-**C：Jaguar Warrior**
+**C：Jaguar Warrior:**
 (Our prey is heading towards the Command Room.
 Come on let's TAIL him!)
 
  
-**E：Irisviel**
+**E：Irisviel:**
 (Roger that! Come on. Master, you too. Hold your breath and follow us. We're in this together now!)
 
  
@@ -351,11 +351,11 @@ Come on let's TAIL him!)
 **Fujimaru 1:**
 I guess I'll tag along.
  
-**C：Jaguar Warrior**
+**C：Jaguar Warrior:**
 (That's the spirit! Big Sis is glad to have an understanding Master. Here, I'll give you this wonderful dead spider as a reward!)
 
  
-**C：Jaguar Warrior**
+**C：Jaguar Warrior:**
 (Eh? You don't want it?
 But it's a paw-sitively perfect gift!)
 
@@ -366,24 +366,24 @@ But it's a paw-sitively perfect gift!)
 **Fujimaru 2:**
 Chaldea has enough stalkers...
  
-**C：Jaguar Warrior**
+**C：Jaguar Warrior:**
 (Yeah, Jaguar thinks so too. I'm a teacher, after all. But they say: eye for an eye, tooth for a tooth, and a Blaze for a Bunyan.)
 
  
-**C：Jaguar Warrior**
+**C：Jaguar Warrior:**
 (It's Emiya's fault for being so secretive.
 Even Big Sis thinks... No, that's not my point.)
 
  
-**C：Jaguar Warrior**
+**C：Jaguar Warrior:**
 (Even I'm concerned for him. What in the world happened to him to make him act like that.)
 
  
-**C：Jaguar Warrior**
+**C：Jaguar Warrior:**
 (What's with the dark, gloomy aura? If we leave him alone, he's definitely gonna die alone.)
 
  
-**E：Irisviel**
+**E：Irisviel:**
 (...Yes. I can't just sit idly by and watch that happen to him.)
 
  
@@ -391,45 +391,45 @@ Even Big Sis thinks... No, that's not my point.)
 
 ---
  
-**Emiya**
+**Emiya:**
 ............
 
  
-**F：Emiya**
+**F：Emiya:**
 .........
 
  
-**Emiya**
+**Emiya:**
 ......?
 
  
-**F：Emiya**
+**F：Emiya:**
 ...
 
  
-**E：Irisviel**
+**E：Irisviel:**
 (It appears he was speaking with that Archer.)
 
  
-**C：Jaguar Warrior**
+**C：Jaguar Warrior:**
 (What were they talking about?
 Let's go ask!)
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Mee-wow, Emiyan! The Emiyan who at least makes us feel kind of comfortable!
 
  
-**F：Emiya**
+**F：Emiya:**
 ... (She appeared out of nowhere again...)
 Hello, jungle spirit. What business do you have with me?
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Ah... You're one of the few people who treats me properly, as a spirit! I paw-sitively love that!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 I'm compelled to send over a nice hawk carcass or something as a gift...but now's not the time. What were you HAWKing about!?
 
  
@@ -439,7 +439,7 @@ I'm compelled to send over a nice hawk carcass or something as a gift...but now'
 **Fujimaru 1:**
 That's...direct.
  
-**E：Irisviel**
+**E：Irisviel:**
 (Yes, that's the kind of bluntness I'd expect from Jaguar Warrior...)
 
  
@@ -449,11 +449,11 @@ That's...direct.
 **Fujimaru 2:**
 That was a lame pun, but hopefully he didn't notice her true intent.
  
-**E：Irisviel**
+**E：Irisviel:**
 (The Assassin... He left already, so hopefully it's not that obvious. Oh my, wait a minute...)
 
  
-**E：Irisviel**
+**E：Irisviel:**
 (Does that mean we lost sight of him!?)
 
  
@@ -461,98 +461,98 @@ That was a lame pun, but hopefully he didn't notice her true intent.
 
 ---
  
-**F：Emiya**
+**F：Emiya:**
 ...
 
  
-**F：Emiya**
+**F：Emiya:**
 Oh, well.
 
  
-**F：Emiya**
+**F：Emiya:**
 After all, no matter how chaotic and full of ulterior motives your actions are, at least it's all usually done with the best intentions.
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Yep, yep. That's because I'm an animal.
 
  
-**F：Emiya**
+**F：Emiya:**
 He asked about my magical energy consumption during battle. I answered as best I could.
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Oh. That's insignifiCAT.
 
  
-**E：Irisviel**
+**E：Irisviel:**
 (Yes, that's quite ordinary.)
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Whatever! I've GATO-go, first Emiyan!
 Or actually, maybe you should be second...?
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Anyway, until next time! It'd be nice if you made some good ta-PAWS so that I can have a nice drink soon!
 
  
-**E：Irisviel**
+**E：Irisviel:**
 (Ah! Jaguar Warrior, wait, wait!)
 
  
-**Altria**
+**Altria:**
 Yes, I spoke briefly with him.
 
  
-**Altria**
+**Altria:**
 We spoke about what to be mindful when battling in groups. Other than that, nothing else significant...
 
  
-**Diarmuid**
+**Diarmuid:**
 Yes. I did just speak with him.
 
  
-**Diarmuid**
+**Diarmuid:**
 We talked about battles in the Singularity.
 It wasn't that long of a conversation.
 
  
-**Diarmuid**
+**Diarmuid:**
 I actually had some questions for him of my own...but that should be for another time.
 
  
-**Lord El-Melloi II**
+**Lord El-Melloi II:**
 We spoke on various topics in magecraft.
 
  
-**Lord El-Melloi II**
+**Lord El-Melloi II:**
 He asked me a few things about grand magecraft and ritualistic magecraft, mainly about Mystic Codes.
 
  
-**Lord El-Melloi II**
+**Lord El-Melloi II:**
 And about the magical energy consumed when using things like that...
 
  
-**Lord El-Melloi II**
+**Lord El-Melloi II:**
 It was quite insignificant. It could have been covered in a few short words, really.
 
  
-**Lord El-Melloi II**
+**Lord El-Melloi II:**
 He was likely...
 
  
-**Lord El-Melloi II**
+**Lord El-Melloi II:**
 No, I'd rather not. This isn't something to involve myself in based only on speculation.
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Argh. We lost him!
 Big Sis is a-paw-led!
 
  
-**Irisviel**
+**Irisviel:**
 ...
 
  
@@ -571,54 +571,54 @@ She looks happy, actually.
 
 ---
  
-**Irisviel**
+**Irisviel:**
 Yes, you're right.
 
  
-**Irisviel**
+**Irisviel:**
 I'm just happy.
 I was worried that he was all alone in Chaldea...
 
  
-**Irisviel**
+**Irisviel:**
 That's what I've been concerned about this whole time. It's always been on my mind.
 
  
-**Irisviel**
+**Irisviel:**
 But maybe that was just my selfishness talking. No matter which “what if” version of him would appear...
 
  
-**Irisviel**
+**Irisviel:**
 To think that I would be needed...
 
  
-**Irisviel**
+**Irisviel:**
 I am such a greedy woman. I may not look like it, but I'm supposed to be a mature wife...
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Ku...guwah!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 For Master Iri to say words like “mature” and “wife” without hesitation...ahhh, she has so much adultness!
 
  
-**Irisviel**
+**Irisviel:**
 Oh, y-you think so?
 A-and what exactly is “adultness”?
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 This Jaguar is moved. I'm at a loss.
 But I haven't lost the game! NEVER SURRENDER!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Remember to always be a tough cookie, and grin and bear it!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Dammit!
 We're going to play again...fur real soon!
 
@@ -638,11 +638,11 @@ Um, for now, good work...?
 
 ---
  
-**Irisviel**
+**Irisviel:**
 ...
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
  
 **Narration:**
 ...I managed to get away.
@@ -697,126 +697,126 @@ How stupid.
 Whoever they know, he is not me.
 
  
-**Irisviel**
+**Irisviel:**
 ...Yes, you're right.
 A different person.
 
  
-**Irisviel**
+**Irisviel:**
 But there must be SOME sort of connection between us. Though you may not believe it...
 
  
-**Irisviel**
+**Irisviel:**
 And besides, my dear...
 
  
-**Irisviel**
+**Irisviel:**
 You're watching me...following me with those eyes.
 At times. Sometimes.
 
  
-**Emiya**
+**Emiya:**
 How dare you enter someone else's room.
 You're like an Assassin.
 
  
-**Emiya**
+**Emiya:**
 And stop reading others' minds. I know that as a Divided Spirit of a Holy Grail...which makes you a part of the powerful wish-granting device...
 
  
-**Emiya**
+**Emiya:**
 ...reading one's mind may just be second nature to you. But it's annoying to me.
 
  
-**Irisviel**
+**Irisviel:**
 ...I'm sorry.
 
  
-**Irisviel**
+**Irisviel:**
 I never meant to annoy you. Nor do I wish for you to take an interest in the version of me in this world.
 
  
-**Irisviel**
+**Irisviel:**
 But...you know...to see you so alone...
 
  
-**Irisviel**
+**Irisviel:**
 ...is very painful for me.
 
  
-**B：Emiya**
+**B：Emiya:**
 ...
 ...
 
  
-**B：Emiya**
+**B：Emiya:**
 That's your problem.
 
  
-**Irisviel**
+**Irisviel:**
 You're right.
 
  
-**Emiya**
+**Emiya:**
 ...Not getting involved with others is my decision.
 
  
-**Irisviel**
+**Irisviel:**
 Kiritsugu?
 
  
-**Emiya**
+**Emiya:**
 Don't call me that.
 So...you do know that name...
 
  
-**Emiya**
+**Emiya:**
 ...Please get out.
 A day may come when the two of us speak...
 
  
-**Emiya**
+**Emiya:**
 But it is not today, Irisviel von Einzbern.
 
  
-**Irisviel**
+**Irisviel:**
 ...Yes.
 
  
-**Irisviel**
+**Irisviel:**
 I'm sorry, Kiri&ndash;
 
  
-**Irisviel**
+**Irisviel:**
 ...Assassin.
 
  
-**Emiya**
+**Emiya:**
 A terminal of the Holy Grail.
 Transformed from an Einzbern homunculus.
 
  
-**Emiya**
+**Emiya:**
 She'll be one formidable opponent.
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
  
-**Illya**
+**Illya:**
 I-I just saw Caster run out of Assassin's room, crying!
 
  
-**Chloe**
+**Chloe:**
 You're right.
 It seems that way.
 
  
-**Illya**
+**Illya:**
 Wh-wh-wh-wh-what does that mean!?
 And why...why is my heart racing so much right now!?
 
  
-**Chloe**
+**Chloe:**
 ...Who knows?
 Maybe because you're such a simpleminded brat?
 

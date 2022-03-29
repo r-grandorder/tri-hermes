@@ -2,12 +2,12 @@
 
 <h2>Harder Than Going Through the Eye of a Needle</h2>
 
-**David**
+**David:**
 Ooof. Oh hey, Fujimaru.
 Are you by chance looking for the Queen of Sheba?
 
  
-**David**
+**David:**
 Actually, in the hallway a few minutes ago...
 
  
@@ -20,29 +20,29 @@ You ran into her?
 
 ---
  
-**David**
+**David:**
 ...I did not. Hahaha!
 
  
-**David**
+**David:**
 I had some business with her myself.
 She's the Queen of Sheba, after all.
 
  
-**David**
+**David:**
 She's the queen whose beauty was praised and noted in any number of texts and works of art. Even the Bible!
 
  
-**David**
+**David:**
 And now that beauty has come to Chaldea.
 I always meant to introduce myself to her!
 
  
-**David**
+**David:**
 I would start off with a brisk “hello” and a pleasant conversation starter. Then, I would lock eyes with her and seal the deal by taking her hand.
 
  
-**David**
+**David:**
 You have to meet a person to know if you're compatible with them, you know.
 
  
@@ -60,24 +60,24 @@ So you're looking for someone to abi-shag...
 
 ---
  
-**David**
+**David:**
 Hey, I'm passionate about this!
 It's very important to me!
 
  
-**David**
+**David:**
 With the help of a certain someone here (a fellow fan of bronze skin and fuzzy ears), I've done a bit of sleuthing.
 
  
-**David**
+**David:**
 First, I checked when the Queen appears in common areas. Then I looked into her favorite facilities and how she likes to get to them...
 
  
-**David**
+**David:**
 But not once have I managed to meet her. Hrmmm...
 
  
-**David**
+**David:**
 I try to get a few steps ahead, but she always seems to see just what I'm planning, and so manages to evade me. I have only failed so far!
 
  
@@ -87,7 +87,7 @@ I try to get a few steps ahead, but she always seems to see just what I'm planni
 **Fujimaru 1:**
 That's impossible.
  
-**David**
+**David:**
 I'm not exaggerating. It's all true.
 
  
@@ -97,24 +97,24 @@ I'm not exaggerating. It's all true.
 **Fujimaru 2:**
 I'll just go report you for stalking...
  
-**David**
+**David:**
 Oh, no. I wouldn't recommend that, Master. I'll have you know that I'm always innocent. My good looks always help me beat the rap.
 
  
-**David**
+**David:**
 But, should the security personnel be male, he may falsely accuse me out of sheer jealousy. How sad.
 
  
-**David**
+**David:**
 Besides, I'm only acting on instinct. As a sheep herder, I'm inclined to gather any lost sheep&ndash;
 
  
-**David**
+**David:**
 Okay, fine! It's my fault!
 Just put your phone away!
 
  
-**David**
+**David:**
 ...But honestly. Big as this place is, failing to run into someone at least once seems odd...
 
  
@@ -122,7 +122,7 @@ Just put your phone away!
 
 ---
  
-**David**
+**David:**
 Maybe it's because...she's using her power of looking into the future or something...
 
  
@@ -135,16 +135,16 @@ Maybe it's annoying enough that going so far is all she can do...
 
 ---
  
-**David**
+**David:**
 You think it's annoying?
 But this handsome guy is so desperate!
 
  
-**David**
+**David:**
 I know my actions can be problematic, but don't you think it's funny when you think about it? That fact I, for once, am failing?
 
  
-**David**
+**David:**
 Don't you think that's a sight to behold?
 Oh, I hope the Queen of Sheba thinks so too.
 
@@ -163,7 +163,7 @@ I wouldn't say anything if you weren't out of line.
 
 ---
  
-**David**
+**David:**
 Thanks for that uninspiring word of encouragement, Master. I'll just have to patiently wait for my encounter like a gentleman.
 
  
@@ -195,21 +195,21 @@ Where am I!? Why is there suddenly a desert!?
 
 ---
  
-**???**
+**???:**
 Meowhahaha!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Well, well...you fell right into my mousetrap,
 agent of the villainous universal genius!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 There's no use squirming to get out!
 Not so much as a rat is gonna escape on my watch!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 You'll get a punch! A kick! A body slam!
 Come at me! I've got moves like a jaguar!
 
@@ -228,46 +228,46 @@ But you're not even from the desert...
 
 ---
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Ha! Everyone knows cats and the desert go together like peanut butter and jelly!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 And now, the winds of South America will blow CATastrophically in this desert! What I mean is, you're gonna die!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Ack!!! Ptttfttt! Sand! It's rough and coarse and getting everywhere! And drying out my famous toe beans!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 U-um...Jaguar?
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 I'm sorry to interrupt, but I believe Master has some business with me...
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Oh, I see... I understand. Except I don't!
 The only thing I know is that there are butts that need kicking for entering my territory!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 I thought I made myself clear, lovely animal-eared girl!
 I can only remember and follow one command at a time!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 P-please wait! (Sigh)...
 I guess we have no choice.
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 I'm sorry to ask this since you only just arrived, Master.
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 But would you mind giving me a hand in calming her down? I will repay you generously.
 
  
@@ -285,14 +285,14 @@ Understood. I'll look forward to your reward.
 
 ---
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Oh gods! Oh gods!
 Have you forsaken me, Babylonia's&ndash;
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 ...Babylo-lo!?
 
  
@@ -305,54 +305,54 @@ Have you forsaken me, Babylonia's&ndash;
 
 ---
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Ack...im...pawssible...
 So all this was just a desert meowrage...
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Hahaha...it was a short-lived dream...the real me probably is asleep at a cat cafe...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Whew...have you calmed down, Jaguar?
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Yep, I'm awake, and I'm feline fine. Hm. I don't even know what a Babylonia god whatsit is...
 
  
-**Kid Gil**
+**Kid Gil:**
 Wow. Amazing. (Clap, clap)
 
  
-**Kid Gil**
+**Kid Gil:**
 That was an amazing illusion.
 So potent. It felt so real.
 
  
-**Kid Gil**
+**Kid Gil:**
 I could even feel the burning heat of the desert sun, and it was making me thirsty.
 
  
-**Kid Gil**
+**Kid Gil:**
 I'm sure that skill came in handy in protecting the kingdom of Sheba.
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Kid Gil...don't embarrass me...
 That illusion wasn't the one I wanted to use...
 
  
-**Kid Gil**
+**Kid Gil:**
 Some of Chaldea's magecraft equipment on the fritz, right? It happens all the time, don't worry about it.
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 That's a relief. That means there won't be any lawsuits... Anyway, this is bad!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 I really didn't intend for Master to get caught up in this!
 
  
@@ -370,24 +370,24 @@ Does this have to do with Da Vinci calling everyone over?
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Oh, my... Oh, my...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Da Vinci was looking for me?
 I-I didn't even notice.
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 I'm sorry. Kid Gil and I were having a business meeting&ndash;I-I mean, we were in deep conversation, so I didn't realize...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 And I asked Jaguar to stand guard and make sure no one disturbed us.
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Yep. I accepted the task for an hourly rate of three tangerines. One to save for later, one for sketching, and one to freeze.
 
  
@@ -405,16 +405,16 @@ Are you hiding something?
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Ehhh!?
 N-no! Nothing...nothing at all!
 
  
-**Kid Gil**
+**Kid Gil:**
 Oh, does it look suspicious?
 
  
-**Kid Gil**
+**Kid Gil:**
 I suppose it does.
 I guess Da Vinci does have the upper hand.
 
@@ -428,20 +428,20 @@ Oh, right. So Da Vinci was&ndash;
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Eh!? Tons of lost manuscripts unearthed!?
 THE Leonardo da Vinci's manuscripts!?
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 And she's trying to figure out how to handle them!?
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Well then just give them to me so I can auction them off! I've got this!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 We can even leave my handling fee open for negotiation. I've already opened up some back channels and&ndash;Oh.
 
  
@@ -459,15 +459,15 @@ We can even leave my handling fee open for negotiation. I've already opened up s
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Ah...um...well... Oh, my... Oh, my...
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Hm? What's wrong, my animal-eared amigo?
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 You just made this really devilish face that reminds me of another friend of mine.
 
  
@@ -477,12 +477,12 @@ You just made this really devilish face that reminds me of another friend of min
 **Fujimaru 1:**
 I get it now.
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 What do you mean, you get it now!?
 Explain, please.
 
  
-**Kid Gil**
+**Kid Gil:**
 Okay.
 So you all know that my treasury is...you know...
 
@@ -493,12 +493,12 @@ So you all know that my treasury is...you know...
 **Fujimaru 2:**
 I see. Can't authorize that.
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Ehhhhhh!?
 Nooo, Master!
 
  
-**Kid Gil**
+**Kid Gil:**
 Yes, exactly. It's widely known that my treasury is...you know...
 
  
@@ -506,32 +506,32 @@ Yes, exactly. It's widely known that my treasury is...you know...
 
 ---
  
-**Kid Gil**
+**Kid Gil:**
 Of course, I do have a fine collection of weapons and armor as well, but not only that, I also possess a vast number of ornaments and rare metals.
 
  
-**Kid Gil**
+**Kid Gil:**
 But to keep them all locked up is such a waste...
 
  
-**Kid Gil**
+**Kid Gil:**
 ...That, at least, would be the modern take on it...and since we've had knowledge of modern norms granted to us, that is the conclusion that we came to.
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 That's why...I've suggested Kid Gil try some investment ventures to fund a side business...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 It will serve as collateral to finance art exhibits for people to appreciate and admire. Growth industries where we can put his fortune to work for him!
 
  
-**Kid Gil**
+**Kid Gil:**
 She has a great eye for appraisal...
 This arrangement would be beneficial for me as well.
 
  
-**Kid Gil**
+**Kid Gil:**
 My treasury gets a bit more organized, and I get a chance to add some more modern treasures to it as well.
 
  
@@ -544,101 +544,101 @@ I still don't get why you brought Jaguar Warrior into this...
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Actually...you see...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 I (discretely) approached some of the more...veteran Servants who have more experience in this modern world, seeking their cooperation...
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Meow?
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 U-um...do you have a moment?
 There is something I would like to discuss with you...
 
  
-**Georgios**
+**Georgios:**
 Well! If it isn't the great queen of the southern desert nation!
 
  
-**Georgios**
+**Georgios:**
 You cannot imagine how excited I was to learn that you were summoned to Chaldea!
 
  
-**Georgios**
+**Georgios:**
 How reassuring! Ah, how holy!
 You, an individual full of knowledge and divinity!
 
  
-**Georgios**
+**Georgios:**
 Together, we shall become the sword and shield of Chaldea and lead it down the path of righteousness!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Uh...s-sure...
 P-pleased to meet you...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Um...well...thank you for your time...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Excuse me...
 
  
-**Martha**
+**Martha:**
 Oh, my! It is the Queen of Sheba! I am honored!
 Please, allow me to shake your hand!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...S-sure... Ooooucch! My bones! My poor hand!
 
  
-**Martha**
+**Martha:**
 You are the living embodiment of a miracle!
 Faith will surely take hold in this land now!
 
  
-**Martha**
+**Martha:**
 Should you need any help at all,
 please do not hesitate to ask me!
 
  
-**Martha**
+**Martha:**
 The fastest way to get a six-pack, the best bulking recipes...please leave all of that to me!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Um...okay... If I ended up needing that...I guess... Really...sorry for your trouble...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Tarasque...is so cute...I wish I had one... (Sob)...
 
  
-**Martha**
+**Martha:**
 ...?
 
  
-**Kid Gil**
+**Kid Gil:**
 They are all great and reliable people, who hold the Queen of Sheba in the highest esteem...
 
  
-**Kid Gil**
+**Kid Gil:**
 But they weren't the right personnel for THIS job...haha...
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Heh. So you're looking for the right connections and market? It's not that I don't know a few...
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 But all my sources deal in shady and dangerous addictive substances... Like gourmet candy.
 
  
@@ -660,66 +660,66 @@ Well, then I know the perfect person.
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 WHAT!?!?!?
 It's not who I think it is, is it?
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Are you perchance thinking of an individual whose name starts with “D”? Specifically, a king whose name starts with “D”?
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Impossible!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 He's basically my chief business rival!
 A competitor!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Were I to team up with him,
 it would ruin my profit margins!
 
  
-**Kid Gil**
+**Kid Gil:**
 Oh, and don't forget that when the business takes off, I'll be taking my cut, too.
 
  
-**Kid Gil**
+**Kid Gil:**
 I'll invest as much as you need until then, of course.
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Ack.
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Something's bothering me...from a legal standpoint. Let me guess...
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Sheba and Kiddy Gil...are you guys trying to get into some kinda shady business together?
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Is this going to affect Chaldea's peaceful snack time situation?
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 I don't want to see Fujimaru and Mash with the expression of someone who's used up all their materials and embers.
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Not in my Chaldea. I'd rather die than to have us eat only apple cores for every meal.
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Th-things would never come to that...p-probably...
 
  
@@ -729,7 +729,7 @@ Th-things would never come to that...p-probably...
 **Fujimaru 1:**
 She's suddenly not so confident.
  
-**Queen of Sheba**
+**Queen of Sheba:**
 I AM confident!
 
  
@@ -739,7 +739,7 @@ I AM confident!
 **Fujimaru 2:**
 Wasn't your future sight going to get you a pile of money?
  
-**Kid Gil**
+**Kid Gil:**
 For one thing, if she did anything THAT flashy,
 nobody would want to do business with her.
 
@@ -748,7 +748,7 @@ nobody would want to do business with her.
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Master, are you trying to get in the way of my side business? I'll have you know, I am not giving up on this endeavor!
 
  
@@ -766,20 +766,20 @@ I kinda feel like I should stop this, yeah.
 
 ---
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Hm! I agree with Fujimaru!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Time to boycat this plan! Losing out on three tangerines is tough, but it's gotta be done!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Start the simulator!
 Start the battle BGM!
 
  
-**Kid Gil**
+**Kid Gil:**
 Oh? This is...
 
  
@@ -797,15 +797,15 @@ A simulation?
 
 ---
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Meowhahahaha!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Behold the high-techiness of My Room instantly turning into a small-scale simulator room!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 It was so worth getting help from an anonymous member of Chaldea (a fan of fuzzy ears and big sister types)!
 
  
@@ -815,7 +815,7 @@ It was so worth getting help from an anonymous member of Chaldea (a fan of fuzzy
 **Fujimaru 1:**
 Can't put anything past that half-god, half-human feline!
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Heh. A couple squeezes of my toe beans, and she was all mine!
 
  
@@ -825,7 +825,7 @@ Heh. A couple squeezes of my toe beans, and she was all mine!
 **Fujimaru 2:**
 How much did this renovation cost?
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Don't ask about cost!
 You'll ruin our P&L!
 
@@ -834,24 +834,24 @@ You'll ruin our P&L!
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...If brute force is what would make you listen...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Then maybe it wouldn't be so bad to let my fists do the talking to introduce this plan to Master!
 
  
-**Kid Gil**
+**Kid Gil:**
 Oh, wow. Looks like both parties are really fired up.
 
  
-**Kid Gil**
+**Kid Gil:**
 Oh well, I guess I did get on this ride!
 I'll just have to do my share for our business.
 
  
-**Kid Gil**
+**Kid Gil:**
 Shall we get down to it, Master?
 
  
@@ -870,58 +870,58 @@ He's LITERALLY going to use body language, huh?
 
 ---
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Meowhahahaha!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 We won! Chaldea's snack time is made safe at the paws of your faithful Jag&ndash;
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Meow?
 
  
-**Emiya**
+**Emiya:**
 Excuse me for interrupting your...uh, deep discussion.
 
  
-**Emiya**
+**Emiya:**
 I received a report that the jaguar who's been looting our pantry is here.
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 Eh!? Oh crap!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 H-hey! Lemme go! Don't just lift me up by the scruff of my neck like that!
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 ...A-air...can't...breathe...
 
  
-**Emiya**
+**Emiya:**
 I got her. Target secured.
 
  
-**Emiya**
+**Emiya:**
 Sorry to cause trouble.
 I'll take my leave now.
 
  
-**Jaguar Warrior**
+**Jaguar Warrior:**
 ...! Mrrroooooow!!!
 
  
-**Da Vinci**
+**Da Vinci:**
 ...
 
  
-**Da Vinci**
+**Da Vinci:**
 (Pat)
 
  
@@ -948,7 +948,7 @@ Is this...a note?
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...
 
  
@@ -966,11 +966,11 @@ I'm sure we could give you an allowance that will let you could live comfortably
 
 ---
  
-**Kid Gil**
+**Kid Gil:**
 Ah, yes. We did not get an explanation of why she wanted to start up a business in the first place.
 
  
-**Kid Gil**
+**Kid Gil:**
 Not that I much care.
 
  
@@ -984,31 +984,31 @@ You're always so rational about things like this, Kid Gil.
 
 ---
  
-**Kid Gil**
+**Kid Gil:**
 Yes... That has been said before.
 
  
-**Kid Gil**
+**Kid Gil:**
 But this is about her, not me.
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 B-because...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 C...camels...!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 I want pet camels!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 In Chaldea! I want to keep camels in Chaldea!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 But...after I researched a few things,
 it sounded...so difficult...
 
@@ -1019,12 +1019,12 @@ it sounded...so difficult...
 **Fujimaru 1:**
 Camels? How many?
  
-**Queen of Sheba**
+**Queen of Sheba:**
 At least...maybe one hundred...
 A-and I'm not kidding!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 If there was only one, it'd get lonely!
 
  
@@ -1034,11 +1034,11 @@ If there was only one, it'd get lonely!
 **Fujimaru 2:**
 Well, yeah, this isn't an environment camels thrive in...
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Why is Chaldea in a place like this!?
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Let's move to the desert! The desert!
 
  
@@ -1046,23 +1046,23 @@ Let's move to the desert! The desert!
 
 ---
  
-**Kid Gil**
+**Kid Gil:**
 Ahaha...a full-scale camel zoo in Chaldea, huh?
 
  
-**Kid Gil**
+**Kid Gil:**
 Yeah, a few million dollars wouldn't be enough for that.
 
  
-**Kid Gil**
+**Kid Gil:**
 The cost to build such a facility, plus yearly maintenance...it'd be upwards of three hundred mil!
 
  
-**Kid Gil**
+**Kid Gil:**
 After all, we're in such an isolated location that we might as well be trying to terraform Mars or something.
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 So...it's impossible...isn't it?
 (Sob)... Camel...
 
@@ -1081,7 +1081,7 @@ Another illusion? Or a mirage?
 
 ---
  
-**Kid Gil**
+**Kid Gil:**
 Oh? This is different than the usual simulator projection.
 
  
@@ -1094,40 +1094,40 @@ Actually, according to Da Vinci...
 
 ---
  
-**Kid Gil**
+**Kid Gil:**
 Oh?
 
  
-**Kid Gil**
+**Kid Gil:**
 The Near-Future Observation Lens: Sheba keeps starting up because it synchronizes with the Queen of Sheba's mental state?
 
  
-**Kid Gil**
+**Kid Gil:**
 And not just that, but it's affecting the other machines too, causing a bunch of problems?
 
  
-**Kid Gil**
+**Kid Gil:**
 I see.
 
  
-**Kid Gil**
+**Kid Gil:**
 I suppose I should expect as much from something Lev Lainur created...
 
  
-**Kid Gil**
+**Kid Gil:**
 But, that's strange.
 
  
-**Kid Gil**
+**Kid Gil:**
 With so many Servants gathered here in Chaldea,
 why did this happen now?
 
  
-**Kid Gil**
+**Kid Gil:**
 ...
 
  
-**Kid Gil**
+**Kid Gil:**
 Oh...I see...
 
  
@@ -1143,11 +1143,11 @@ We need to take care of the Queen's homesickness!
 **Fujimaru 2:**
 ...By the way, about my reward...
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...Oh...okay...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Would an assorted camel-shaped cookie box suffice?
 They're all broken, though.
 
@@ -1156,7 +1156,7 @@ They're all broken, though.
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Camel... (Droopy ears)
 
  
@@ -1169,7 +1169,7 @@ Camel... (Droopy ears)
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 What is it, Master?
 
  
@@ -1179,19 +1179,19 @@ What is it, Master?
 **Fujimaru 1:**
 I will take you to the desert!
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...You're not pulling my leg, are you?
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Then...make sure you always bring me along when you go on a quest to the desert!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 And even if it isn't a quest,
 just take me whenever I ask you, okay?
 
@@ -1202,19 +1202,19 @@ just take me whenever I ask you, okay?
 **Fujimaru 2:**
 I will be your camel!
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...Really?
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Promise? I want one with one hump, okay?
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 If you have two humps,
 I'll tan your skin and make you into a wallet.
 
@@ -1238,30 +1238,30 @@ As you wish, my Queen.
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Heehee...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Teehee...heehee! Okay!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 I'm feeling a bit better...
 Sorry to worry you all so much.
 
  
-**Kid Gil**
+**Kid Gil:**
 That's great.
 By the way, Queen of Sheba...
 
  
-**Kid Gil**
+**Kid Gil:**
 If you would like to tamp down this “power”
 of yours, I think I can offer some advice.
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...!!!
 
  
@@ -1271,7 +1271,7 @@ of yours, I think I can offer some advice.
 **Fujimaru 1:**
 Does that mean...
  
-**Kid Gil**
+**Kid Gil:**
 Yes. It's a side effect of her future sight.
 
  
@@ -1281,7 +1281,7 @@ Yes. It's a side effect of her future sight.
 **Fujimaru 2:**
 This was all caused by indiscriminate use of future sight?
  
-**Kid Gil**
+**Kid Gil:**
 Yes. It appears so.
 
  
@@ -1289,11 +1289,11 @@ Yes. It appears so.
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 I see...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Got it. I'll allow Kid Gil to help me once more.
 
  
@@ -1312,11 +1312,11 @@ Try to keep the mischief to a minimum...
 
 ---
  
-**Kid Gil**
+**Kid Gil:**
 Master, are you going to go to Da Vinci to report your findings?
 
  
-**Kid Gil**
+**Kid Gil:**
 Understood. Good work.
 
  
@@ -1329,15 +1329,15 @@ See you.
 
 ---
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Aaack!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...Da...!
 
  
-**David**
+**David:**
 Hmmm...I see...
 
  
@@ -1350,21 +1350,21 @@ Have you been waiting outside the whole time?
 
 ---
  
-**David**
+**David:**
 No. Absolutely not. This is just a really,
 really, really fortunate coincidence.
 
  
-**David**
+**David:**
 Besides, if I was going to hang around outside, I'd have just knocked.
 
  
-**David**
+**David:**
 I just so happened to pass by&ndash;
 (Fidget, fidget)
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 Hnnnrrrrrrgh...
 
  
@@ -1377,19 +1377,19 @@ Her fur is standing on end...
 
 ---
  
-**David**
+**David:**
 ...Hmmm. Ah! She truly is the unparalleled beauty of legend!
 
  
-**David**
+**David:**
 I am unworthy of the honor of being in your presence, Your Majesty!
 
  
-**David**
+**David:**
 ...But you know what? I'm a bit disappointed...
 
  
-**David**
+**David:**
 Just a liiiiiitle bit... She's not quite my type.
 
  
@@ -1407,40 +1407,40 @@ Okay, she's kinda tall, but is that really why?
 
 ---
  
-**David**
+**David:**
 Oh, how unfortunate!
 Unfortunate, but... Yes, I can move on.
 
  
-**David**
+**David:**
 The queen is a beauty, but not really my type of beauty. Let's just leave it at that.
 
  
-**David**
+**David:**
 Welp! Off to the cafeteria to enjoy some babka.
 
  
-**David**
+**David:**
 See you later, Fujimaru. I will let you take the role of the Queen's escort!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 ...Huh? WHAT!?
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 WHAT IS WITH HIM!?
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 With that face...that voice...saying things like that!
 
  
-**Queen of Sheba**
+**Queen of Sheba:**
 I don't like him! I hate him!
 I want to go back to the desert!
 
@@ -1459,7 +1459,7 @@ Looks like we're going to have equipment trouble for a bit longer...
 
 ---
  
-**Kid Gil**
+**Kid Gil:**
 Ahahaha.
 Master, you really do have your hands full!
 

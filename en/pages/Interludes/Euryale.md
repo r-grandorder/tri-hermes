@@ -2,31 +2,31 @@
 
 <h2>From Me to My Sisters</h2>
 
-**Fou**
+**Fou:**
 Fooou!
 
  
-**Mash**
+**Mash:**
 Yes, Fou.
 We've been here&ndash;
 
  
-**Euryale**
+**Euryale:**
 Hehehehe♪
 Yes, I see. So this is the place!
 
  
-**Euryale**
+**Euryale:**
 It's kind of strange, this feeling I have.
 But, part of me seems to be accepting it.
 
  
-**Euryale**
+**Euryale:**
 Yes, I see! In this place,
 something like this could happen.
 
  
-**Euryale**
+**Euryale:**
 This is where "I" was.
 Hehe♪
 
@@ -47,26 +47,26 @@ Yes, my Goddess.
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 That's right. "The Shaped Isle," I think she called it.
 We stopped by during our search for the Second Singularity.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 She&ndash;no, I mean "you,"
 or maybe it's better to say "all of you?"
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Either way, the landscape seems to differ from the island you and the rest of the Gorgon Sisters, used to live on.
 
  
-**Euryale**
+**Euryale:**
 Yes, it's very different.
 This is nothing like it.
 
  
-**Euryale**
+**Euryale:**
 But they do have the sea in common.
 Yes, "I" was at the sea, was "I" not?
 
@@ -87,65 +87,65 @@ Yes, my Goddess.
 
 ---
  
-**Mash**
+**Mash:**
 ...Senpai?
 
  
-**Fou**
+**Fou:**
 Fou?
 
  
-**Euryale**
+**Euryale:**
 Hmm? What is it? Oh, right.
 You have my thanks, Fujimaru.
 
  
-**Euryale**
+**Euryale:**
 Bringing me to the place where "I" was has made me very happy. I mean it.
 
  
-**Euryale**
+**Euryale:**
 So I'll give you a reward.
 You see the cave entrance by those rocks&ndash;?
 
  
-**Fou**
+**Fou:**
 Fou, fou...
 
  
-**Mash**
+**Mash:**
 That's the cave Stheno told us to go into.
 Dangerous monsters lived, no, were placed there.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The Second Singularity, 1st century Rome, is already repairing itself, but it might still be dangerous.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 That phantasmal might still be there.
 It's better to stay away.
 
  
-**Euryale**
+**Euryale:**
 Hmm? What is it? I can't hear you.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Huh?
 
  
-**Euryale**
+**Euryale:**
 I'm curious to see what kind of trial
 "I" gave you.
 
  
-**Euryale**
+**Euryale:**
 So...
 Please, Fujimaru♪
 
  
-**Mash**
+**Mash:**
 Um, that's&ndash;
 
  
@@ -165,60 +165,60 @@ Yes, my Goddess.
 
 ---
  
-**Mash**
+**Mash:**
 S-Senpai?
 What's gotten into you? You're acting strange.
 
  
-**Fou**
+**Fou:**
 Fou, fooooou...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 From the look of it,
 she's using some kind of Divine Authority?
 
  
-**Mash**
+**Mash:**
 But if she's using something of that nature,
 I think I'd be able to detect the magical energy...
 
  
-**Euryale**
+**Euryale:**
 You're silly, Mash. I am a goddess.
 A goddess who was born only to be loved.
 
  
-**Euryale**
+**Euryale:**
 Even as a Heroic Spirit and a Servant,
 my divine core does not change.
 
  
-**Euryale**
+**Euryale:**
 So...hehe!
 It's natural for Fujimaru to fall in love with me.
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Euryale**
+**Euryale:**
 What is it?
 You look like you want to say something.
 
  
-**Mash**
+**Mash:**
 N-No...
 I don't...
 
  
-**Euryale**
+**Euryale:**
 Oh, really? Are you sure about that?
 I see. I see. Hehe.
 
  
-**Euryale**
+**Euryale:**
 You're cute, for a human,
 Mash Kyrielight.
 
@@ -229,7 +229,7 @@ Mash Kyrielight.
 **Fujimaru 1:**
 Yes, my Goddess.
  
-**Mash**
+**Mash:**
 S-Senpai!?
 
  
@@ -239,7 +239,7 @@ S-Senpai!?
 **Fujimaru 2:**
 ...
  
-**Mash**
+**Mash:**
 ...Senpai?
 
  
@@ -247,43 +247,43 @@ S-Senpai!?
 
 ---
  
-**Fou**
+**Fou:**
 Fooouuuuuuuuuuuu...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Oh, jeez... I guess you're going into those caves.
 There isn't any treasure in there, though.
 
  
-**???**
+**???:**
 GAAAAAAAA!!
 
  
-**Mash**
+**Mash:**
 I sensed magical energy the instant we entered!
 Senpai!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 What did I tell you? There's still a phantasmal here. Is it a chimera? I bet it's a chimera. Those things are strong!
 
  
-**Euryale**
+**Euryale:**
 Oh my! What an ugly, fierce, miserable beast!
 It's not fair! I didn't know there was all this fun here!
 
  
-**Euryale**
+**Euryale:**
 Where did "I" find such a monster, I wonder?
 I want one too!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's going to eat us before you can keep it as a pet! Here it comes!
 
  
-**Mash**
+**Mash:**
 Senpai, your orders!
 
  
@@ -293,7 +293,7 @@ Senpai, your orders!
 **Fujimaru 1:**
 Yes, my Goddess.
  
-**Mash**
+**Mash:**
 S-Senpai! Jeez!
 
  
@@ -303,7 +303,7 @@ S-Senpai! Jeez!
 **Fujimaru 2:**
 ...
  
-**Mash**
+**Mash:**
 Senpai!
 
  
@@ -311,42 +311,42 @@ Senpai!
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 It's definitely some kind of charm!
 Completely under her spell!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Fou, bite Fujimaru!
 Then we can fight!
 
  
-**Fou**
+**Fou:**
 Fo&ndash;uuuu!
 
  
-**Mash**
+**Mash:**
 Did you come to your senses now?
 It's time for battle! Give me your orders!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Euryale**
+**Euryale:**
 Whew, that was fun.
 I'm not supposed to be this strong, you know.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Did assigning her an accurate Servant class make her stronger?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Either way, yeah.
 Good work&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 No, wait. There's more!
 This time there's lots! Lots more!
 
@@ -361,60 +361,60 @@ Mash, continue combat!
 
 ---
  
-**Mash**
+**Mash:**
 R-Right, Master!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Euryale**
+**Euryale:**
 There was some weird snake, too, huh?
 I already have plenty of snakes.
 
  
-**Mash**
+**Mash:**
 You do?
 
  
-**Euryale**
+**Euryale:**
 Oh&mdash;Ahem. No, nothing, Mash.
 Anyway, this cave is tiny. Are we at a dead end already?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Well, if this was a real labyrinth I would've opposed coming in here. Goddess, I'm glad your sister went easy on us during that trial...
 
  
-**Euryale**
+**Euryale:**
 I see.
 
  
-**Euryale**
+**Euryale:**
 ...Here it is. So this is what "I" was doing.
 
  
-**Fou**
+**Fou:**
 Fou?
 
  
-**Mash**
+**Mash:**
 What's wrong?
 
  
-**Euryale**
+**Euryale:**
 ...Nothing.
 I've seen what I came to see. Let's go.
 
  
-**Mash**
+**Mash:**
 ???
 
  
-**Fou**
+**Fou:**
 Fou?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Huh? What? Was something there?
 
  
@@ -434,47 +434,47 @@ Were you looking at something?
 
 ---
  
-**Euryale**
+**Euryale:**
 It's nothing&ndash;
 Oh, jeez. Now even Fujimaru wants to know...
 
  
-**Euryale**
+**Euryale:**
 Don't worry about it.
 I just found something I expected to find.
 
  
-**Euryale**
+**Euryale:**
 A message that "I" left for me.
 Or maybe a message that "I" left for her.
 
  
-**Euryale**
+**Euryale:**
 It's nothing.
 Really.
 
  
-**Euryale**
+**Euryale:**
 If by some chance, or miracle,
 she and I were to manifest in the same era...
 
  
-**Euryale**
+**Euryale:**
 That's impossible of course, but if it was possible...
 And then we never saw each other...
 
  
-**Euryale**
+**Euryale:**
 This was a short message from "me,"
 just in case that ever happened.
 
  
-**Euryale**
+**Euryale:**
 She told "me" to never change.
 And for "you" to never change either.
 
  
-**Euryale**
+**Euryale:**
 ...Wait, why are you making me say this?
 You're a cheeky human, Fujimaru!
 
@@ -495,30 +495,30 @@ Sorry for overstepping myself, Goddess.
 
 ---
  
-**Mash**
+**Mash:**
 Senpai, again!?
 
  
-**Fou**
+**Fou:**
 Fooou!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Some resistance to her charm should be present, but her spell is truly irresistable.
 That's what makes that Goddess so amazing.
 
  
-**Euryale**
+**Euryale:**
 Of course.
 I'm a Goddess, beloved by all.
 
  
-**Euryale**
+**Euryale:**
 All you have to do is love me.
 Just adore me from afar.
 
  
-**Euryale**
+**Euryale:**
 Don't even think about peeking at me or inside of me.
 Otherwise&ndash;"a beautiful snake" will bite you!
 

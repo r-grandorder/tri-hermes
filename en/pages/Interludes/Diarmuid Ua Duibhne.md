@@ -2,7 +2,7 @@
 
 <h2>Twin-Spear of the Rose</h2>
 
-**Fou**
+**Fou:**
 Fou, Fou.
 
  
@@ -20,16 +20,16 @@ Good Fou, good Fou
 
 ---
  
-**Fou**
+**Fou:**
 Foou...
 (purr)
 
  
-**Mash**
+**Mash:**
 Master, it seems like Diarmuid wants to talk to you.
 
  
-**Diarmuid**
+**Diarmuid:**
 Master, thank you for granting me an audience. I must say this army is fantastic.
 
  
@@ -48,102 +48,102 @@ What do you mean?
 
 ---
  
-**Diarmuid**
+**Diarmuid:**
 How no one reacts to my face. Until now, I had to be careful merely walking around.
 
  
-**Mash**
+**Mash:**
 Oh. I see, it's about your beauty mark, Diarmuid?
 
  
-**Diarmuid**
+**Diarmuid:**
 Yes, it's more like a curse than a mark of love. Nothing good ever came out of this beauty mark.
 
  
-**Diarmuid**
+**Diarmuid:**
 ...Well, even though I did not have any regret about the love I felt because of it.
 
  
-**Diarmuid**
+**Diarmuid:**
 Apologies, we've strayed away from the subject. Master, what I want to talk about are my Noble Phantasms.
 
  
-**Diarmuid**
+**Diarmuid:**
 Currently, I'm using two Noble Phantasms...
 “Gáe Dearg” and “Gáe Buidhe”&ndash;
 
  
-**Diarmuid**
+**Diarmuid:**
 But perhaps due to using two Noble Phantasms, neither one demonstrates its true potential.
 
  
-**Diarmuid**
+**Diarmuid:**
 In other words, their power is sealed.
 
  
-**Diarmuid**
+**Diarmuid:**
 If I can release their power somehow,
 I think I could be a bigger help&ndash;
 
  
-**Mash**
+**Mash:**
 I'm painfully aware of the feelings of not being able to fully utilize your Noble Phantasm.
 
  
-**Mash**
+**Mash:**
 Why don't we have the Doctor investigate and see if there are any clues.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hmm, so sealed Noble Phantasms...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Usually, there is some kind of clue in the era that the Heroic Spirit was living in, but&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hmmm. I am not picking up anything.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It was such a long time ago when Diarmuid was alive... We may not be able to trace it completely...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Either way, there is a chance that you actually sealed the Noble Phantasms yourself.
 
  
-**Mash**
+**Mash:**
 What do you mean?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It could be a malfunction during summoning, or the Servant is subconsciously restraining himself&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm not really sure. But if you want to unleash his Noble Phantasm, why don't you just dive into his heart. It's risky though.
 
  
-**Diarmuid**
+**Diarmuid:**
 It's... Risky?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Because [♂ he /♀️ she} as your Master and several Servants have to tag along.
 
  
-**Diarmuid**
+**Diarmuid:**
 ...
 ...
 
  
-**Diarmuid**
+**Diarmuid:**
 I cannot let my Master take a risk. I decline your suggestion.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 That's what he says. But what does Fujimaru want to do?
 
  
@@ -153,7 +153,7 @@ That's what he says. But what does Fujimaru want to do?
 **Fujimaru 1:**
 We should go look. I'm sure it's fine.
  
-**Diarmuid**
+**Diarmuid:**
 Oh, Master! You are so generous. How lucky am I to serve under such a wonderful Master!
 
  
@@ -163,11 +163,11 @@ Oh, Master! You are so generous. How lucky am I to serve under such a wonderful 
 **Fujimaru 2:**
 Let's see how awesome our man Diarmuid can be!
  
-**Diarmuid**
+**Diarmuid:**
 I'm flattered that you say that but... Why did you just call me “our man Diarmuid”...
 
  
-**Diarmuid**
+**Diarmuid:**
 I'm a little embarrassed.
 
  
@@ -175,166 +175,166 @@ I'm a little embarrassed.
 
 ---
  
-**Dr. Roman**
+**Dr. Roman:**
 Fine. Well then, let's get ready.
 
  
-**Diarmuid**
+**Diarmuid:**
 So this is what my heart is like...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's your mental landscape. Diarmuid, you will lead us to finding clues about your Noble Phantasms.
 
  
-**Diarmuid**
+**Diarmuid:**
 Understood.
 Well Master, let us proceed right away.
 
  
-**Mash**
+**Mash:**
 Do you have any ideas where to?
 
  
-**Diarmuid**
+**Diarmuid:**
 Of course. I know this landscape very well. There is a forest nearby where I used to hunt.
 
  
-**Diarmuid**
+**Diarmuid:**
 ...It's also the place we passed when I ran away with her.
 
  
-**Mash**
+**Mash:**
 Her, does that mean&ndash;
 
  
-**Diarmuid**
+**Diarmuid:**
 Yes, exactly whom you think.
 Gráinne... A woman I used to love.
 
  
-**Diarmuid**
+**Diarmuid:**
 ...There are a few suspicious presences. Is this why you told us to come with Servants?
 
  
-**Mash**
+**Mash:**
 Master, be careful.
 There seems to be enemies.
 
  
-**Mash**
+**Mash:**
 ...They're coming!
 
  
-**Diarmuid**
+**Diarmuid:**
 I see. White blood cells, so to speak&ndash; Something like guardians of my own mental landscape.
 
  
-**Diarmuid**
+**Diarmuid:**
 I feel bad about destroying them, but I have no choice. I'm charging in. Come on!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Diarmuid**
+**Diarmuid:**
 We are finished here!
 
  
-**Mash**
+**Mash:**
 Yes. We got them all on our end, too.
 
  
-**Diarmuid**
+**Diarmuid:**
 I guess we are lucky the enemy was not formidable... Hmm?
 
  
-**Mash**
+**Mash:**
 What happened?
 The light was...
 
  
-**Diarmuid**
+**Diarmuid:**
 I see. I think I understand now.
 
  
-**Diarmuid**
+**Diarmuid:**
 By defeating the enemies in my mental landscape, the true brilliance of my Noble Phantasm is restored.
 
  
-**Diarmuid**
+**Diarmuid:**
 Master, I'm sorry to ask you but I would like to ask for your assistance a while longer.
 
  
-**Diarmuid**
+**Diarmuid:**
 Well, let's move onto the next spot.
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Diarmuid**
+**Diarmuid:**
 This place... Well, although the furniture is different, it reminds me of the castle of the king I used to serve.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 By King... Do you mean Fionn mac Cumhaill?
 
  
-**Diarmuid**
+**Diarmuid:**
 ...Yes, he is the one. This is the place I used to drink with the king and my fellows.
 
  
-**Diarmuid**
+**Diarmuid:**
 !?
 
  
-**???**
+**???:**
 Diarmuid...
 
  
-**Diarmuid**
+**Diarmuid:**
 This voice... Are you the Knights of Fianna!?
 
  
-**???**
+**???:**
 The king is not here.
 Fionn mac Cumhaill is not here.
 
  
-**???**
+**???:**
 The king is calling. If you don't see Fionn mac Cumhaill, the brilliance won't return.
 
  
-**Diarmuid**
+**Diarmuid:**
 The king is in this world?
 
  
-**???**
+**???:**
 At the same time, we will stand in your way.
 
  
-**Diarmuid**
+**Diarmuid:**
 ...You are threatening us.
 What is going on?
 
  
-**???**
+**???:**
 We are not your true allies.
 We are mere gatekeepers within your mind.
 
  
-**???**
+**???:**
 Though, our capabilities are exactly as you remember. Show us your skill, Diarmuid.
 
  
-**???**
+**???:**
 The skill of someone who deserves to be called a Knight of Fianna in the past, and the future!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I guess we have to fight.
 
  
-**Diarmuid**
+**Diarmuid:**
 ...Understood.
 Master, please give me your orders!
 
@@ -354,25 +354,25 @@ Let's fight!
 
 ---
  
-**Diarmuid**
+**Diarmuid:**
 Understood! As you wish.
 Diarmuid Ua Duibhne&ndash; Here I go!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Diarmuid**
+**Diarmuid:**
 My spear's brilliance has returned once again!
 
  
-**Mash**
+**Mash:**
 One more should do it.
 Let's keep going!
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Diarmuid**
+**Diarmuid:**
 If the king is here, he should be in this forest...
 
  
@@ -390,115 +390,115 @@ You look glum.
 
 ---
  
-**Diarmuid**
+**Diarmuid:**
 Yes... This is the place where I died.
 
  
-**Diarmuid**
+**Diarmuid:**
 I came boar hunting with my king, Fionn mac Cumhaill, and I was killed by the boar&ndash; A demonic beast.
 
  
-**Diarmuid**
+**Diarmuid:**
 What happened after that, I don't need to tell you. I was not granted the king's healing.
 
  
-**E：???**
+**E：???:**
 Certainly!
 That's right, that's absolutely right, Diarmuid!
 
  
-**Diarmuid**
+**Diarmuid:**
 My king?
 
  
-**Fionn**
+**Fionn:**
 Yes, I'm your king, the all too perfect mac Cumhaill. But... Your attitude hasn't changed at all.
 
  
-**Fionn**
+**Fionn:**
 What a strange man you are. Don't you feel any hate towards me?
 
  
-**Fionn**
+**Fionn:**
 Yes. In this forest, at this place, I refused to share water after you had collapsed..
 
  
-**Fionn**
+**Fionn:**
 I could have saved you under the circumstances, yet I abandoned you on purpose, you see?
 
  
-**Diarmuid**
+**Diarmuid:**
 That is because of me&ndash;
 It was my fault.
 
  
-**Fionn**
+**Fionn:**
 Hahahahaha. You are a truly loyal knight.
 But I think that's a lie.
 
  
-**Diarmuid**
+**Diarmuid:**
 What?
 No, it's not true!
 
  
-**Fionn**
+**Fionn:**
 You need not bite your thumb. I'm sure your new Master completely understands that.
 
  
-**Fionn**
+**Fionn:**
 For one thing&mdash; You don't regret it.
 
  
-**Fionn**
+**Fionn:**
 Even if you are summoned to a Holy Grail War somewhere, you'd not hope to overturn this unfortunate death.
 
  
-**Fionn**
+**Fionn:**
 If you trace the cause of this misfortune, it was actually caused by my queen, Gráinne.
 
  
-**Fionn**
+**Fionn:**
 You loved Gráinne, and you also reconciled with me.
 
  
-**Fionn**
+**Fionn:**
 Therefore, you should accept this ending&ndash;
 That's what you are thinking, right?
 
  
-**Diarmuid**
+**Diarmuid:**
 O-Of course.
 My king, I&ndash;
 
  
-**Fionn**
+**Fionn:**
 However, while you feel you weren't wrong, your true self regrets and resents!
 
  
-**Fionn**
+**Fionn:**
 Why did I not give you water back then?
 Why did I not heal your wounds?
 
  
-**Fionn**
+**Fionn:**
 What should you have done back then, and such!
 
  
-**Diarmuid**
+**Diarmuid:**
 Augh... Shut up!
 You are not the king!
 
  
-**Fionn**
+**Fionn:**
 Haha, correct! I'm a materialization of your resentment. What you were ashamed of and had sealed away&ndash;
 
  
-**Fionn**
+**Fionn:**
 The “something” that you cowered and ran away from, so you can keep pretending to be a knight.
 
  
-**Diarmuid**
+**Diarmuid:**
 ...Augh!
 These...are my true...feelings!?
 
@@ -518,80 +518,80 @@ Things happen.
 
 ---
  
-**Diarmuid**
+**Diarmuid:**
 Master!
 
  
-**Diarmuid**
+**Diarmuid:**
 Right, doesn't matter who I was in the past, I'm a Servant now. My duty is to serve my new Master and eliminate the enemies.
 
  
-**Diarmuid**
+**Diarmuid:**
 O' Evil Fionn mac Cumhaill, created by my own mind. As a knight, it's my duty to kill you!
 
  
-**Fionn**
+**Fionn:**
 Ha! Nonsense, you are spineless!
 
  
-**Fionn**
+**Fionn:**
 Why don't you show me if your fragile heart can survive from being crushed by your own overwhelming guilt!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Fionn**
+**Fionn:**
 &mdash;Yes. Yes I know of this.
 
  
-**Fionn**
+**Fionn:**
 Diarmuid, the resolution in your spears, the clarity of your art.
 
  
-**Fionn**
+**Fionn:**
 Our pride and joy,
 Diarmuid Ua Duibhne's battle art.
 
  
-**Fionn**
+**Fionn:**
 Then, I only have one more thing to ask of you.
 ...Do you have any resentment, my knight?
 
  
-**Diarmuid**
+**Diarmuid:**
 ...I must have some. But I will leave that here right now.
 
  
-**Diarmuid**
+**Diarmuid:**
 I have gained “something” more than that from my king. Something precious&ndash; Something I should not lose sight of.
 
  
-**Fionn**
+**Fionn:**
 Well done. Considering you tend to get lost, you found the correct answer quickly this time.
 
  
-**Fionn**
+**Fionn:**
 ...Well, tendency to get lost is something I am guilty of myself.
 
  
-**Fionn**
+**Fionn:**
 ...The powers of Gáe Dearg and Gáe Buidhe are properly released.
 
  
-**Fionn**
+**Fionn:**
 Move onward, Diarmuid. Grasp victory in your hand!
 
  
-**Diarmuid**
+**Diarmuid:**
 I appreciate it, King.
 I do appreciate it...
 
  
-**Diarmuid**
+**Diarmuid:**
 My lord and Master. Thanks to you, my spears have returned to my hands.
 
  
-**Diarmuid**
+**Diarmuid:**
 I have no more hesitation. Using these twin spears, let us defeat our enemies.
 
 

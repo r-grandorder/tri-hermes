@@ -2,19 +2,19 @@
 
 <h2>Human Observation</h2>
 
-**Andersen**
+**Andersen:**
 How are you, Master? It's good to see that you're not looking disgruntled today.
 
  
-**Andersen**
+**Andersen:**
 I am so disgusted with my super-boring life that my brain has turned to stone.
 
  
-**Andersen**
+**Andersen:**
 I feel like as if I've been transformed into a dumb monkey. I'm overwhelmingly lacking enrichment in my life.
 
  
-**Andersen**
+**Andersen:**
 Look. Don't you have anything to say as my Master?
 
  
@@ -34,28 +34,28 @@ Enrichment?
 
 ---
  
-**Andersen**
+**Andersen:**
 Huh? You don't know the taste of a completely-dried bread? Scandinavians start their breakfast 
  
-**Andersen**
+**Andersen:**
 by forcefully washing down a piece of rock-like bread with a drink like lead-boiled water...
 
  
-**Andersen**
+**Andersen:**
 Well, that trivia aside,
 what I want to say, Fujimaru, is...
 
  
-**Andersen**
+**Andersen:**
 Give me something new to write about, or if you don't have anything, then give me some money.
 I'll have some fun at the bar to kill some time.
 
  
-**Mash**
+**Mash:**
 ...Senpai, Mr. Andersen is sounding more arrogant and reprehensible than ever.
 
  
-**Mash**
+**Mash:**
 Did you do anything to get on his bad side?
 
  
@@ -75,133 +75,133 @@ Andersen is always like this.
 
 ---
  
-**Mash**
+**Mash:**
 So you say you're not at fault.
 Of course. That's what I remember, too.
 
  
-**Mash**
+**Mash:**
 Mr. Andersen.
 We don't have any resources to waste here at Chaldea.
 
  
-**Mash**
+**Mash:**
 Please behave yourself, and work on a new book.
 Personally, I request a sequel of The Little Mermaid...
 
  
-**Andersen**
+**Andersen:**
 Tch.
 That story is so popular among women and kids.
 
  
-**Andersen**
+**Andersen:**
 I wrote that story to mock the idiots in this world,
 so I don't understand why it would be taken as a touching tale.
 
  
-**Mash**
+**Mash:**
 What&mdash;M-Mister, what did you just say?
 
  
-**Andersen**
+**Andersen:**
 I said, that is one of the worst trash that I ever wrote, you fool!
 
  
-**Andersen**
+**Andersen:**
 Geez. I made the ending so obvious,
 but people kept calling it a tragedy or tragic love story.
 
  
-**Andersen**
+**Andersen:**
 Not only is she finally released from love at first sight,
 but she even gets a soul as a reward in the end!
 
  
-**Andersen**
+**Andersen:**
 Listen. The best part about love is when it's purely yours. That's my conclusion, at least.
 
  
-**Andersen**
+**Andersen:**
 You ask me to write a sequel, but why can't you understand it would only drive Little Mermaid to further despair?
 
  
-**Mash**
+**Mash:**
 &mdash;
 
  
-**Andersen**
+**Andersen:**
 Uh... What, you look like it's the end of the world.
 ...
 
  
-**Andersen**
+**Andersen:**
 I'm saying, don't ask me to write a sequel to a story that ended already. It's the reader's privilege to imagine what happens after the ending.
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Andersen**
+**Andersen:**
 ...Fine. If you don't have any money,
 some new inspiration will do.
 
  
-**Andersen**
+**Andersen:**
 Take me wherever you can, Fujimaru.
 France would be nice for now.
 
  
-**Andersen**
+**Andersen:**
 What are you doing, Mash? You're coming, too.
 We'll end up dying if it's just me and Fujimaru.
 
  
-**Mash**
+**Mash:**
 R-Right...
 
  
-**Mash**
+**Mash:**
 ...Whew.
 Is this place alright with you, Mr. Andersen?
 
  
-**Andersen**
+**Andersen:**
 Yes. Anywhere is okay as long as I can stay away from my desk. Let's enjoy the city of France first...
 
  
-**Mash**
+**Mash:**
 Master, hostiles approaching! Looks like ghosts from the Hundred Years' War manifested using the Grail's power.
 
  
-**Andersen**
+**Andersen:**
 Hmm. Soldiers from the past are reappearing?
 Interesting, why don't you play with them, Fujimaru?
 
  
-**Andersen**
+**Andersen:**
 I'm against physical labor but I will bear with it to get something to write about.
 Make this battle a good one, yeah?
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Andersen**
+**Andersen:**
 Not bad. I never thought of this.
 But perhaps it was too late.
 
  
-**Mash**
+**Mash:**
 Mr. Andersen?
 
  
-**Andersen**
+**Andersen:**
 Fujimaru, Mash.
 Let's move on to the next location.
 
  
-**Andersen**
+**Andersen:**
 You went on quite a rampage in Rome, correct?
 Then let's head to the Italian Peninsula, where my heart belongs!
 
@@ -222,55 +222,55 @@ I thought you said you hate physical labor...
 
 ---
  
-**Andersen**
+**Andersen:**
 Skip the commentary, and you call yourself my editor?
 Let's go check the next observation object already!
 
  
-**Mash**
+**Mash:**
 Apparently, we've pushed his buttons as a writer.
 Let's just accept it and keep him company.
 
  
-**Andersen**
+**Andersen:**
 I found you!
 How do you do? Take that!
 
  
-**Soldier**
+**Soldier:**
 Ugh!
 
  
-**Soldier**
+**Soldier:**
 What's wrong with you people! Especially that kid there! His face has "bad guy" written all over it!
 
  
-**Andersen**
+**Andersen:**
 Wow, so aggressive! As expected of Roman Soldiers, their brains are always on vacation.
 
  
-**Mash**
+**Mash:**
 Mister, with all due respect. Anybody would get mad if a stranger suddenly threw a mud ball at their face.
 
  
-**Andersen**
+**Andersen:**
 What? All I did was add fuel to the fire!
 Fujimaru, make sure you keep them alive this time, too!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Andersen**
+**Andersen:**
 &mdash;Well.
 Now that we've finally ventured out into the ocean.
 
  
-**Pirate**
+**Pirate:**
 Ohhhh, our prey is coming to us!
 Guys, this is a non-stop party!
 
  
-**Pirate**
+**Pirate:**
 Should we strip them? Or strangle them? Ridicule them?
 Whatever. Let's just kill them and let off some steam!
 
@@ -291,77 +291,77 @@ We're already in huge trouble?
 
 ---
  
-**Mash**
+**Mash:**
 Yes, this is what happens when Andersen fixes the coordinates right on a pirate ship!
 
  
-**Andersen**
+**Andersen:**
 Hahaha. Sorry, I underestimated the pirates' IQs.
 I had no idea how dumb they actually are.
 
  
-**Andersen**
+**Andersen:**
 They aren't worth observing. I'm going home.
 You guys go ahead and beat them up for me.
 
  
-**Andersen**
+**Andersen:**
 They may be a memory of the sea, but they're still humans. Beat them to a pulp, and make them regret their actions.
 
  
-**Mash**
+**Mash:**
 You don't have to tell us! We'll do that!
 And you should reflect on your deeds for once, too!
 
  
-**Andersen**
+**Andersen:**
 Gotcha. Oh, Mash, about the sequel to The Little Mermaid, can I base the Prince on those pirates?
 
  
-**Mash**
+**Mash:**
 Absolutely not!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Andersen**
+**Andersen:**
 Now I'm satisfied. Good work, Fujimaru.
 I had an experience like no other thanks to you.
 
  
-**Mash**
+**Mash:**
 ...We're finally back.
 We had a rough time, huh, Master?
 
  
-**Mash**
+**Mash:**
 Aimlessly fighting through all those eras...
 
  
-**Mash**
+**Mash:**
 It was good combat experience for us,
 but why did you do it, Mr. Andersen?
 
  
-**Andersen**
+**Andersen:**
 To observe people, of course. The weapons people of those eras used, how they fought.
 
  
-**Andersen**
+**Andersen:**
 Even primitive combat reflects human thought.
 The differences of all those eras will make a great reference.
 
  
-**Mash**
+**Mash:**
 Observe people... Then, you must love mankind. Right, Mr. Andersen?
 
  
-**Andersen**
+**Andersen:**
 Huh? Don't be stupid!
 I've no interest in mankind. I just needed data.
 
  
-**Andersen**
+**Andersen:**
 Not only the soldiers, I learned something about you two as well. Maybe I will write it into a book someday.
 
  
@@ -371,11 +371,11 @@ Not only the soldiers, I learned something about you two as well. Maybe I will w
 **Fujimaru 1:**
 Thank you for that.
  
-**Mash**
+**Mash:**
 ...Being written about by one of the three greatest fairy tale authors, I'm embarrassed just saying it.
 
  
-**Mash**
+**Mash:**
 But I think it would be a great honor.
 Dr. Roman would get so jealous.
 
@@ -386,16 +386,16 @@ Dr. Roman would get so jealous.
 **Fujimaru 2:**
 I'll pass.
  
-**Mash**
+**Mash:**
 Huh...
 
  
-**Mash**
+**Mash:**
 Yeah, you're right.
 Count me out, too.
 
  
-**Mash**
+**Mash:**
 ...You're a more thoughtful person than I imagined, Senpai...
 
  
@@ -403,29 +403,29 @@ Count me out, too.
 
 ---
  
-**Andersen**
+**Andersen:**
 You two get along so well.
 You're so easygoing.
 
  
-**Andersen**
+**Andersen:**
 I made a contract with you as a Servant because I had no choice, but now I've changed my mind.
 
  
-**Andersen**
+**Andersen:**
 It's hard to find partners for this crazy fieldwork, you know.
 
  
-**Andersen**
+**Andersen:**
 I think I'll get a little more fired up from now on.
 A little. Very little. A tiny bit.
 
  
-**Mash**
+**Mash:**
 I'm glad I was able to help you write, Mr. Andersen.
 
  
-**Andersen**
+**Andersen:**
 ...Don't you understand that's a separate matter?
 This is why I hate my readers...
 

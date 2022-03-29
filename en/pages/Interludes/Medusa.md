@@ -2,7 +2,7 @@
 
 <h2>Gorgon's Bride</h2>
 
-**Medusa**
+**Medusa:**
 (sigh...)
 
  
@@ -22,7 +22,7 @@ What's up?
 
 ---
  
-**Medusa**
+**Medusa:**
 Oh, Fujimaru. Actually...I was offered a chance for an arranged marriage...
 
  
@@ -42,7 +42,7 @@ From whom!?
 
 ---
  
-**Medusa**
+**Medusa:**
 I have two older sisters, and they approached me about having a formal marriage interview.
 
  
@@ -62,11 +62,11 @@ So who are you meeting?
 
 ---
  
-**Medusa**
+**Medusa:**
 Well, I don't think they're that serious about matchmaking.
 
  
-**Medusa**
+**Medusa:**
 I have a feeling that they're just interested in my reactions...
 
  
@@ -86,47 +86,47 @@ Let's turn it down!
 
 ---
  
-**Medusa**
+**Medusa:**
 Sure..., but my sisters gave me a condition for turning it down...
 
  
-**Mash**
+**Mash:**
 ...So, you and Senpai must pretend to be a couple.
 
  
-**Fou**
+**Fou:**
 Fou...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hey, cheer up, Mash. It's just a performance, not like they're going to actually link their arms or kiss...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Wait, maybe they should?
 Unless they do, they won't be seen as a couple.
 
  
-**Mash**
+**Mash:**
 ...!
 
  
-**Medusa**
+**Medusa:**
 Uh, well, I don't know.
 You know, I'm not used to that kind of stuff...
 
  
-**Mash**
+**Mash:**
 ...Whew.
 Well, of course, not you of all people, Medusa.
 
  
-**Medusa**
+**Medusa:**
 I'm not really happy either that you felt so relieved...
 I'm just not used to being in a relationship...
 
  
-**Medusa**
+**Medusa:**
 At any rate, I'm sorry, Fujimaru.
 For making you go through the extra trouble.
 
@@ -137,7 +137,7 @@ For making you go through the extra trouble.
 **Fujimaru 1:**
 [♂ I look forward to dating you. /♀️ Have you noticed that I'm a woman?}
  
-**Medusa**
+**Medusa:**
 [♂ Oh, me too. /♀️ Of course, but I don't mind actually...}
 
  
@@ -145,20 +145,20 @@ For making you go through the extra trouble.
 
 ---
  
-**Mash**
+**Mash:**
 ...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 All right, let me shoot the video evidence.
 You back me up, Mash.
 
  
-**Mash**
+**Mash:**
 ...Yes, understood.
 
  
-**Medusa**
+**Medusa:**
 Hehe, I enjoy doing stuff like this once in a while.
 Though I'm sorry to trouble you.
 
@@ -179,25 +179,25 @@ I'd rather be ready to enjoy it.
 
 ---
  
-**Medusa**
+**Medusa:**
 Really?
 You have odd taste in things.
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Now, now, Mash, it's high time you got over it.
 
  
-**Young Man**
+**Young Man:**
 Hey, lady. Look at your sexy body.
 Why don't you hang out with us?
 
  
-**Medusa**
+**Medusa:**
 ...? Fujimaru, who are they talking about?
 
  
@@ -217,96 +217,96 @@ Hmm, this is so typical...
 
 ---
  
-**Young Man**
+**Young Man:**
 Heehee...I'm sure it'll be more fun to hang out with us than a kid like that.
 
  
-**Medusa**
+**Medusa:**
 I'm sorry, but I'm enjoying my time with Fujimaru right now.
 
  
-**Medusa**
+**Medusa:**
 I'd appreciate it if you could quickly disappear from my sight...
 
  
-**Young Man**
+**Young Man:**
 What the heck? What a snob...
 Hey, you guys. Teach her a lesson!
 
  
-**Medusa**
+**Medusa:**
 ...Well. I may be used to it, but the fact that it's the same as always gives me a headache.
 
  
-**Medusa**
+**Medusa:**
 I'm sorry, Fujimaru.
 Give me a little time to take out some trash.
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Young Man**
+**Young Man:**
 Wh-What the hell...this woman...
 D-Damn it!! Boss!! Call the Boss!!
 
  
-**Boss**
+**Boss:**
 Let me see... Ha!
 You can't even handle a woman and a few kids?
 
  
-**Young Man**
+**Young Man:**
 Yeah, but that woman's a "giant" with "crazy strength."
 
  
-**Medusa**
+**Medusa:**
 ...(Humph)
 
  
-**Boss**
+**Boss:**
 Tsk, letting a single woman have her way with you.
 Well, I do agree that small and cute girls are better.
 
  
-**Boss**
+**Boss:**
 I'd turn down a "giant" like that even if she asked me out.
 
  
-**Medusa**
+**Medusa:**
 ...(Ticked)
 
  
-**Young Man**
+**Young Man:**
 Hehe! With our Boss here, we're not afraid of you any more!! Hey, guys!! Let's take her down!!
 
  
-**Medusa**
+**Medusa:**
 ...Master.
 May I go all-out?
 
  
-**Medusa**
+**Medusa:**
 No, I'm not angry, I'm really not...
 It's just that my mystic eyes are aching.
 
  
-**Mash**
+**Mash:**
 Senpai, let's back her up...!!
 Oh, it looks like we don't need to do that.
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Boss**
+**Boss:**
 ?!?!?! (Freeze)
 
  
-**Young Man**
+**Young Man:**
 Whoa!? Boss turned to stone?
 Dammit, I'm going to get you for this!
 
  
-**Medusa**
+**Medusa:**
 Whew... I lost my temper a little there.
 Fujimaru, I apologize.
 
@@ -327,33 +327,33 @@ It happens.
 
 ---
  
-**Medusa**
+**Medusa:**
 Hehe... you're a kind person.
 I appreciate your concern.
 
  
-**Medusa**
+**Medusa:**
 Besides, you treat even someone like me like a normal person.
 
  
-**Medusa**
+**Medusa:**
 Anyone who approached me would turn to stone, their faces twisted in horror...
 
  
-**Mash**
+**Mash:**
 Medusa...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The monster Medusa... The Gorgon...
 By the way, how do your sisters look...
 
  
-**Mash**
+**Mash:**
 Doctor!
 
  
-**Medusa**
+**Medusa:**
 My sisters are very cute.
 They are not at all violent, unlike me.
 
@@ -374,16 +374,16 @@ You're close with your sisters, huh?
 
 ---
  
-**Medusa**
+**Medusa:**
 !!!
 
  
-**Medusa**
+**Medusa:**
 ...Thank you, Fujimaru.
 I like being around you.
 
  
-**Medusa**
+**Medusa:**
 I'm inexperienced, but let's get along from now too.
 
 

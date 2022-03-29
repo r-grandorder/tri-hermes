@@ -2,25 +2,25 @@
 
 <h2>That's Why I'm Going to Die Here, as Myself</h2>
 
-**Serenity**
+**Serenity:**
 Welcome back, Master.
 
  
-**Serenity**
+**Serenity:**
 Good job on your assignment on the minute Singularity.
 I'm glad to see you have returned safely.
 
  
-**Serenity**
+**Serenity:**
 I'm sorry that I'm the one greeting you today.
 Mash was on standby until the very last minute...
 
  
-**Serenity**
+**Serenity:**
 But then a staff member came by and wanted to speak with her about Sheba.
 
  
-**Serenity**
+**Serenity:**
 And so I have come to greet you instead.
 I'm sorry if I have disappointed you.
 
@@ -31,7 +31,7 @@ I'm sorry if I have disappointed you.
 **Fujimaru 1:**
 Thanks for your greeting, Hassan.
  
-**Serenity**
+**Serenity:**
 Yes. Welcome back.
 
  
@@ -41,7 +41,7 @@ Yes. Welcome back.
 **Fujimaru 2:**
 I'm not disappointed.
  
-**Serenity**
+**Serenity:**
 Thank you...
 
  
@@ -49,17 +49,17 @@ Thank you...
 
 ---
  
-**Serenity**
+**Serenity:**
 Will you be returning to My Room?
 Oh, but if you would like to eat...
 
  
-**Serenity**
+**Serenity:**
 I've already notified the kitchen.
 Mr. Emiya, Miss Cat, Miss Boudica, and Miss Raikou...
 
  
-**Serenity**
+**Serenity:**
 ...are all surely anticipating your arrival.
 What would you like to do?
 
@@ -70,11 +70,11 @@ What would you like to do?
 **Fujimaru 1:**
 Yeah, I am a little hungry.
  
-**Serenity**
+**Serenity:**
 Understood. Strength that's been depleted must be restored.
 
  
-**Serenity**
+**Serenity:**
 Then this way, please.
 I shall accompany you to the cafeteria.
 
@@ -89,37 +89,37 @@ Maybe head to the cafeteria after I rest a bit.
 
 ---
  
-**Serenity**
+**Serenity:**
 Ah. You must be exhausted.
 I will notify the kitchen that you will arrive later.
 
  
-**Serenity**
+**Serenity:**
 Then I will accompany you to My Room.
 
  
-**Serenity**
+**Serenity:**
 ...Um, I mean...I didn't mean to make it sound like that...
 
  
-**Serenity**
+**Serenity:**
 I've recently come to reflect on my past actions... The fact that I would sneak into your bed without permission is, well...
 
  
-**Serenity**
+**Serenity:**
 Miss Raikou told me that such a thing is...indecent.
 She was wearing a swimsuit when she told me...
 
  
-**Serenity**
+**Serenity:**
 Of course, I always knew that to be the case in the back of my mind, and I always meant to behave appropriately, as I was raised...
 
  
-**Serenity**
+**Serenity:**
 But I could not help myself, and that's why I... multiple times... Oh, yes...multiple times...
 
  
-**Serenity**
+**Serenity:**
 I bothered you so many times...
 I will be careful from now on.
 
@@ -138,37 +138,37 @@ All things in moderation. Moderation.
 
 ---
  
-**Serenity**
+**Serenity:**
 ...But if you say that, I might...
 
  
-**Serenity**
+**Serenity:**
 No... No! Decency is important! We wouldn't want people sneaking into others' beds without permission!
 
  
-**Serenity**
+**Serenity:**
 Moderation!
 I will cultivate self-restraint!
 
  
-**Serenity**
+**Serenity:**
 Master.
 
  
-**Serenity**
+**Serenity:**
 Chaldea is a strange place. I may not be in any position to say so because I've not traveled the world to learn much about various places...
 
  
-**Serenity**
+**Serenity:**
 But that's how I feel... Many heroes from different times and parts of the world exist here together...
 
  
-**Serenity**
+**Serenity:**
 Heroes of the past.
 Heroic Spirits. Servants.
 
  
-**Serenity**
+**Serenity:**
 Dead beings, whose purpose isn't to live correctly in the present age...
 
  
@@ -187,69 +187,69 @@ Aren't they...incarnated temporarily?
 
 ---
  
-**Serenity**
+**Serenity:**
 No.
 
  
-**Serenity**
+**Serenity:**
 Oh, I mean... Well, I'm not sure how to say this...
 I suppose that is one way to describe things.
 
  
-**Serenity**
+**Serenity:**
 We retain our form using our Spirit Origins to stay in Chaldea, and we live like humans.
 
  
-**Serenity**
+**Serenity:**
 I do not know the details of its system, but this is all thanks to the immense amount of magical energy that is supplied by Chaldea.
 
  
-**Serenity**
+**Serenity:**
 Perhaps a mage, even a Caster-class Servant...
 
  
-**Serenity**
+**Serenity:**
 ...would be able to better put into words what I am trying to describe...
 
  
-**Serenity**
+**Serenity:**
 But I can say this much: this body of mine is made possible through the power of ether.
 
  
-**Serenity**
+**Serenity:**
 Blood courses through me, and I have a heart and brain. But at the same time, I have a Spirit Core.
 
  
-**Serenity**
+**Serenity:**
 So unlike you, I am not a being with a proper body.
 
  
-**Serenity**
+**Serenity:**
 A true incarnation...in other words, to gain existence as a complete living being would likely require the power of a wish-granting vessel like a Holy Grail.
 
  
-**Serenity**
+**Serenity:**
 But...
 
  
-**Serenity**
+**Serenity:**
 If I...could possibly...
 
  
-**Serenity**
+**Serenity:**
 !!!
 
  
-**Arash**
+**Arash:**
 Oops.
 
  
-**Arash**
+**Arash:**
 Not looking where you were going, huh?
 Walking distracted isn't a good idea, Miss Serenity.
 
  
-**Arash**
+**Arash:**
 Yo, Master. You're safe.
 How did that last Rayshift go for you?
 
@@ -269,27 +269,27 @@ Back home safe and sound!
 
 ---
  
-**Arash**
+**Arash:**
 Haha. Glad to hear it. You've got a nice color to your face too. Oh and you as well, Miss Serenity.
 
  
-**Serenity**
+**Serenity:**
 ...
 
  
-**Arash**
+**Arash:**
 Heh.
 
  
-**Serenity**
+**Serenity:**
 ...B-but, it can't be!
 
  
-**Arash**
+**Arash:**
 Hm?
 
  
-**Serenity**
+**Serenity:**
 My apologies, Archer Arash.
 I will take my leave now, Master.
 
@@ -309,21 +309,21 @@ What's wrong?
 
 ---
  
-**Serenity**
+**Serenity:**
 I'm sorry.
 I...um...I...
 
  
-**Serenity**
+**Serenity:**
 ...I'm terribly...sorry.
 Now's not...no...no...
 
  
-**Serenity**
+**Serenity:**
 I cannot...no matter what...
 
  
-**Arash**
+**Arash:**
 Huh. She went as far as dissipating into thin air.
 I didn't mean to cause her so much distress.
 
@@ -334,7 +334,7 @@ I didn't mean to cause her so much distress.
 **Fujimaru 1:**
 I wonder what happened...
  
-**Arash**
+**Arash:**
 Oh, yeah.
 Well...you know...
 
@@ -345,7 +345,7 @@ Well...you know...
 **Fujimaru 2:**
 Do you have any idea, Arash?
  
-**Arash**
+**Arash:**
 Sorry. It's probably best if I don't say anything.
 I think she should tell you personally.
 
@@ -354,25 +354,25 @@ I think she should tell you personally.
 
 ---
  
-**Arash**
+**Arash:**
 It's quite the pickle.
 All you can really do is to brace for it.
 
  
-**Arash**
+**Arash:**
 To us Servants, the Master is our foundation.
 No matter how much magical energy Chaldea supplies...
 
  
-**Arash**
+**Arash:**
 And no matter what anchors us for manifestation...a Servant's existence rests on the Master.
 
  
-**Arash**
+**Arash:**
 Well, we're not really humans, but that's another story. There's no use lecturing you on that.
 
  
-**Arash**
+**Arash:**
 ...Just act naturally.
 I beg you.
 
@@ -392,12 +392,12 @@ I'll just try not to get flustered.
 
 ---
  
-**Arash**
+**Arash:**
 That's the spirit.
 That's our Master!
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
  
 **Narration:**
 ...In regards to the strange behavior of the Assassin, Hassan of the Serenity.
@@ -481,18 +481,18 @@ But swift action must be taken, or there is a possibility that this could affect
   《This concludes the report by Paracelsus.》
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
 
-**Serenity**
+**Serenity:**
 ...
 
  
-**Serenity**
+**Serenity:**
 I sense multiple entities with hostile intent.
 It appears we are surrounded, Master.
 
  
-**Serenity**
+**Serenity:**
 ...Whether we choose to break through or flee,
 it appears a fight is inevitable.
 
@@ -512,29 +512,29 @@ Let's just do things as usual.
 
 ---
  
-**Serenity**
+**Serenity:**
 Yes. I await your orders.
 
  
-**Serenity**
+**Serenity:**
 ...This may only be the simulator, but I will behave as if it were a matter of life and death. Whatever my Master commands...I will do!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Serenity**
+**Serenity:**
 ...
 
  
-**Serenity**
+**Serenity:**
 ...I'm sorry, Master.
 
  
-**Serenity**
+**Serenity:**
 You went out of your way to invite me to join you in the simulator, yet...I was of no help.
 
  
-**Serenity**
+**Serenity:**
 I didn't expect so many enemies. If I only managed to break through even the slightest...
 
  
@@ -553,38 +553,38 @@ It's not your fault, Hassan.
 
 ---
  
-**Serenity**
+**Serenity:**
 ...
 
  
-**Serenity**
+**Serenity:**
 Thank you, Master.
 You are always so kind... Our Master...
 
  
-**Serenity**
+**Serenity:**
 But I...I'm really...
 
  
-**Serenity**
+**Serenity:**
 Even though I am one of your Servants...though this should never happen...I just...
 
  
-**Serenity**
+**Serenity:**
 I cannot act...the way I should...
 
  
-**Mash**
+**Mash:**
 Welcome back, Senpai!
 Serenity!
 
  
-**Serenity**
+**Serenity:**
 ...I'm sorry.
 Please take care of Master.
 
  
-**Mash**
+**Mash:**
 Oh, Serenity...?
 
  
@@ -603,353 +603,353 @@ She just left...
 
 ---
  
-**Mash**
+**Mash:**
 Yes...
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
 
-**Paracelsus**
+**Paracelsus:**
 Good work in the simulator, Hassan of the Serenity.
 
  
-**Paracelsus**
+**Paracelsus:**
 I figured whatever was bothering you would have gone away once you accompanied Master into battle.
 
  
-**Paracelsus**
+**Paracelsus:**
 Yet you immediately ran back to your own room...
 This is very serious.
 
  
-**Serenity**
+**Serenity:**
 ...
 
  
-**Serenity**
+**Serenity:**
 ...I thought I locked my door.
 
  
-**Paracelsus**
+**Paracelsus:**
 You forget that I am a mage.
 
  
-**Paracelsus**
+**Paracelsus:**
 ...And a physician as well.
 
  
-**Serenity**
+**Serenity:**
 Servants have no need for physicians.
 I ask that you leave.
 
  
-**Paracelsus**
+**Paracelsus:**
 ...First, a little parable for you.
 
  
-**Serenity**
+**Serenity:**
 I don't...
 
  
-**Paracelsus**
+**Paracelsus:**
 It's also a sort of fairy tale.
 Once upon a time, there was a poisonous girl.
 
  
-**Serenity**
+**Serenity:**
 ...
 
  
-**Paracelsus**
+**Paracelsus:**
 The poisonous girl killed many people. As the name suggests, the girl's veins ran black with poison.
 
  
-**Paracelsus**
+**Paracelsus:**
 The girl was searching...for someone who would not die from her touch, who would smile back at her.
 
  
-**Paracelsus**
+**Paracelsus:**
 For someone whom she could lean against...just like she'd seen so many people doing.
 
  
-**Paracelsus**
+**Paracelsus:**
 The girl was searching...for love.
 
  
-**Paracelsus**
+**Paracelsus:**
 The first one, a man, ended in failure. He died. He spoke sweet nothings to her, but then died as soon as the two kissed.
 
  
-**Paracelsus**
+**Paracelsus:**
 But then...the second one...was a young girl.
 
  
-**Paracelsus**
+**Paracelsus:**
 One so very powerful that she managed to touch the poisonous girl's skin as if it were nothing...
 
  
-**Paracelsus**
+**Paracelsus:**
 ...and then smile.
 
  
-**Serenity**
+**Serenity:**
 ...Is that...story true?
 
  
-**Paracelsus**
+**Paracelsus:**
 Like I said, it's a parable.
 Though, of course, there are elements of truth.
 
  
-**Paracelsus**
+**Paracelsus:**
 So the poisonous girl thought to herself, “Ah, this maiden is the one. The one I've desired, the one I've been searching for all this time.”
 
  
-**Paracelsus**
+**Paracelsus:**
 She was thrilled.
 She worked herself into a fervor.
 
  
-**Paracelsus**
+**Paracelsus:**
 The poisonous girl accepted the powerful girl as her master, and entered her service. She killed many, and collected many souls...
 
  
-**Serenity**
+**Serenity:**
 ...A soul eater?
 
  
-**Paracelsus**
+**Paracelsus:**
 Who knows? That may have been the case.
 Either way, the poisonous girl killed and killed and killed.
 
  
-**Paracelsus**
+**Paracelsus:**
 And then she met a young man.
 
  
-**Paracelsus**
+**Paracelsus:**
 He was a kind young man. He possessed a noble soul, and he was even concerned with the poisonous girl's safety when she showed herself in battle.
 
  
-**Paracelsus**
+**Paracelsus:**
 Even though...he was destined to die by the girl's hands.
 
  
-**Paracelsus**
+**Paracelsus:**
 The girl killed the young man...kissing him with her poisoned lips.
 
  
-**Paracelsus**
+**Paracelsus:**
 She did so without mercy, even though she felt only kindness from him.
 
  
-**Paracelsus**
+**Paracelsus:**
 And so, the girl continued to work under her powerful master, killing more and more.
 
  
-**Paracelsus**
+**Paracelsus:**
 Then one day, the poisonous girl received a gift from a man.
 
  
-**Paracelsus**
+**Paracelsus:**
 It was the kind man, animated as one of the living dead by some kind of magecraft.
 
  
-**Serenity**
+**Serenity:**
 ...A gift...
 
  
-**Paracelsus**
+**Paracelsus:**
 The man said to her, “O poisonous girl. You don't care who the person is, as long as they don't die, right?”
 
  
-**Paracelsus**
+**Paracelsus:**
 “You only serve your master because your touch does not kill her, not because you love her.”
 
  
-**Paracelsus**
+**Paracelsus:**
 “Then this living corpse should satisfy you.”
 
  
-**Serenity**
+**Serenity:**
 ...
 
  
-**Serenity**
+**Serenity:**
 ...And what did she say?
 
  
-**Paracelsus**
+**Paracelsus:**
 Who knows?
 
  
-**Serenity**
+**Serenity:**
 Which did the girl love...?
 The girl, or the young man's corpse?
 
  
-**Paracelsus**
+**Paracelsus:**
 I cannot say. The story's ending is the poisonous girl's alone. It is not for you to know.
 
  
-**Paracelsus**
+**Paracelsus:**
 At the very least, the girl went into a long slumber, carrying the story's conclusion with her. And she was never to wake up again. Ever.
 
  
-**Serenity**
+**Serenity:**
 ...Caster Paracelsus.
 
  
-**Paracelsus**
+**Paracelsus:**
 Yes?
 
  
-**Serenity**
+**Serenity:**
 What you are trying to tell me is that my hesitation...this turmoil within me...is...
 
  
-**Serenity**
+**Serenity:**
 ...not...love...
 
  
-**Paracelsus**
+**Paracelsus:**
 I cannot say.
 I wonder, do you even know what love is?
 
  
-**Serenity**
+**Serenity:**
 I...
 
  
-**Paracelsus**
+**Paracelsus:**
 Hassan of the Serenity.
 
  
-**Paracelsus**
+**Paracelsus:**
 Sometimes, getting lost and hesitating is a good thing. That makes it a story all your own.
 
  
-**Paracelsus**
+**Paracelsus:**
 You stand before us as a Spirit Origin.
 Your manifestation in Chaldea is all your own.
 
  
-**Paracelsus**
+**Paracelsus:**
 Memories and thoughts do not linger. Just like with humans. If a Heroic Spirit dies, its Spirit Origin simply ends there.
 
  
-**Paracelsus**
+**Paracelsus:**
 That's why, Hassan-i Sabbah...should you chose to cling to the reservations that plague your heart...
 
  
-**Paracelsus**
+**Paracelsus:**
 ...and continue along your journey with that sentiment...
 
  
-**Paracelsus**
+**Paracelsus:**
 I will not stop you.
 Nor will I tell you that you are wrong.
 
  
-**Serenity**
+**Serenity:**
 ...!!!
 
  
-**Serenity**
+**Serenity:**
 ...Then... I... I...
 
  
-**Serenity**
+**Serenity:**
 Paracelsus, oh, Paracelsus.
 There's just one thing I must tell Master&ndash;
 
  
-**Paracelsus**
+**Paracelsus:**
 Then go on.
 I will not stop you.
 
  
-**Serenity**
+**Serenity:**
 Thank you, Caster Paracelsus.
 
  
-**Paracelsus**
+**Paracelsus:**
 I wish you luck.
 
  
-**Arash**
+**Arash:**
 I didn't mean to eavesdrop.
 
  
-**Arash**
+**Arash:**
 But I couldn't help but watch.
 You chose your words...very carefully...
 
  
-**Arash**
+**Arash:**
 Memories don't remain, huh?
 
  
-**Paracelsus**
+**Paracelsus:**
 I did not wish to lie, so I was, as you say,
 very careful in my choice of words.
 
  
-**Paracelsus**
+**Paracelsus:**
 Hassan of the Serenity. Her Spirit Origin is somewhat different than ours. Even if SHE were to be summoned once again...
 
  
-**Paracelsus**
+**Paracelsus:**
 Those records would never be carried over from the Throne.
 
  
-**Paracelsus**
+**Paracelsus:**
 Only when she gains love, that is.
 
  
-**Paracelsus**
+**Paracelsus:**
 The Hassan of the Serenity who fell in love will never be summoned again. That Hassan shall sleep for eternity, and carry those emotions with her.
 
  
-**Paracelsus**
+**Paracelsus:**
 Even if she were summoned using the Holy Grail or through a special magecraft ritual, the checks and balances system should make it so that a different her with a different Spirit Origin would manifest.
 
  
-**Arash**
+**Arash:**
 ...Yeah, the one we have now is a great example.
 
  
-**Paracelsus**
+**Paracelsus:**
 Yes. She's a completely different person. Different than the girl we know from that distant Holy Grail War in a faraway past.
 
  
-**Arash**
+**Arash:**
 Even we're different. Circumstances and their outcomes may differ slightly, but I understand that is the way it is for all Servants.
 
  
-**Paracelsus**
+**Paracelsus:**
 Indeed. Just a SLIGHT difference. Heh. And...that should ring true the next time we are summoned as well.
 
  
-**Paracelsus**
+**Paracelsus:**
 If it wasn't for the Singularity or the exception that is the Chaldea summoning ritual, fragments of our memories carrying over should not be possible, either.
 
  
-**Arash**
+**Arash:**
 What a pain in the ass.
 
  
-**Paracelsus**
+**Paracelsus:**
 Yes. For you and me, both.
 
 
-**--SECTION BREAK--**
+**--SECTION BREAK--:**
  
-**Serenity**
+**Serenity:**
 Master!
 
  
-**Serenity**
+**Serenity:**
 ...U-um...I...I...
 
  
@@ -968,25 +968,25 @@ It's okay. Take your time.
 
 ---
  
-**Serenity**
+**Serenity:**
 Y-yes...
 
  
-**Serenity**
+**Serenity:**
 ...Breathe in...breathe out...
 Calm down...focus...I...
 
  
-**Serenity**
+**Serenity:**
 I can do this. I've decided that I'll talk.
 Inhale...exhale...
 
  
-**Serenity**
+**Serenity:**
 Master. First of all, I apologize for my mishap in battle earlier.
 
  
-**Serenity**
+**Serenity:**
 I am fine now. I decided I will be fine from now on.
 Um...
 
@@ -1006,50 +1006,50 @@ Tell me, Hassan-i Sabbah.
 
 ---
  
-**Serenity**
+**Serenity:**
 I will tell you the truth. I have learned that there are others who my touch does not kill. I mean, apart from you, Master.
 
  
-**Serenity**
+**Serenity:**
 And so...
 
  
-**Serenity**
+**Serenity:**
 I was hesitant. I wavered.
 
  
-**Serenity**
+**Serenity:**
 I thought I was determined...that I wouldn't mind even if the First One's evening bell tolled for me...
 
  
-**Serenity**
+**Serenity:**
 But then I became confused...
 I panicked, I wandered, and my mind was all a mess...
 
  
-**Serenity**
+**Serenity:**
 Someone who doesn't die from touching me.
 Someone who doesn't die from embracing me...
 
  
-**Serenity**
+**Serenity:**
 The role was so easily filled...the hero Arash was absolutely unfazed even after I touched him!
 
  
-**Serenity**
+**Serenity:**
 I heard he was strong against toxins, according to his lore and characteristics. But...I never thought that was actually true...
 
  
-**Serenity**
+**Serenity:**
 The moment I witnessed it for myself...I...I...
 It felt like my chest was about to burst...
 
  
-**Serenity**
+**Serenity:**
 And then I couldn't look at you in the eye...
 
  
-**Serenity**
+**Serenity:**
 ...I...I...
 
  
@@ -1063,34 +1063,34 @@ And then I couldn't look at you in the eye...
 
 ---
  
-**Serenity**
+**Serenity:**
 No...no, you do not understand, Master.
 
  
-**Serenity**
+**Serenity:**
 It was true that I hesitated. I'm still confused.
 But...but I want to think that it's fine...
 
  
-**Serenity**
+**Serenity:**
 I was the one who decided to be with you.
 That feeling will never change.
 
  
-**Serenity**
+**Serenity:**
 After hearing Paracelsus's story, I began to realize...that if this Spirit Origin that is me...does not stay forever...
 
  
-**Serenity**
+**Serenity:**
 I will no longer avoid the truth. This Spirit Origin shall begin and end here. There is no me beyond that.
 
  
-**Serenity**
+**Serenity:**
 That's why I'll be fine. I'm fine now.
 I won't flee...from anybody.
 
  
-**Serenity**
+**Serenity:**
 ...And not even from my own heart.
 
  
@@ -1100,7 +1100,7 @@ I won't flee...from anybody.
 **Fujimaru 1:**
 Okay. Got it.
  
-**Serenity**
+**Serenity:**
 Yes.
 
  
@@ -1114,32 +1114,32 @@ What do you mean?
 
 ---
  
-**Serenity**
+**Serenity:**
 I will stay by your side. That is what I have decided. That's why...th-th-this is a confession.
 
  
-**Serenity**
+**Serenity:**
 I am unsure whether this feeling is love or not...
 
  
-**Serenity**
+**Serenity:**
 No! I will try my best! I'm sure I am going to keep agonizing over this, but I'm sure I will eventually come to a conclusion.
 
  
-**Serenity**
+**Serenity:**
 That's why, until that time...
 
  
-**Serenity**
+**Serenity:**
 Please...I would like you, Master, to resist any love or affections from anyone who comes your way...
 
  
-**Serenity**
+**Serenity:**
 And wait...for me...
 I would...appreciate that...
 
  
-**Serenity**
+**Serenity:**
 ...Would you be able to forgive me for thinking and wishing this?
 
  
@@ -1153,43 +1153,43 @@ I, uh...
 
 ---
  
-**Serenity**
+**Serenity:**
 Thank you very much, Master.
 I'm going to keep trying my best.
 
  
-**Serenity**
+**Serenity:**
 I will eventually come to a conclusion.
 Even before Kiyohime whisks you away.
 
  
-**E：Kiyohime (Ambush)**
+**E：Kiyohime (Ambush):**
 Did you call for me, my dear Anchin!?
 
  
-**Serenity**
+**Serenity:**
 Eh...uh...um...seriously?
 Presence Concealment?
 
  
-**Kiyohime**
+**Kiyohime:**
 Oh, no. I just slithered my way over here like usual!
 You just didn't hear me because you were so wound up!
 
  
-**Kiyohime**
+**Kiyohime:**
 By the way...what in the world was that all about!? That sounded like some sort of confession...like a bittersweet and tender-sounding confession!
 
  
-**Kiyohime**
+**Kiyohime:**
 I-I will not allow such behavior to happen while I'M around! So, I WILL BURN YOU!
 
  
-**Kiyohime**
+**Kiyohime:**
 Ah! She's dissipating!
 
  
-**Kiyohime**
+**Kiyohime:**
 Hold it right there! I actually didn't hear a word you said...I only SENSED something was going on...so tell me EVERYTHING!
 
  
@@ -1208,7 +1208,7 @@ This...this can only end badly...
 
 ---
  
-**Fou**
+**Fou:**
 Fou fooou!
 
 

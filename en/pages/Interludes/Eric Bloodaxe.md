@@ -2,170 +2,170 @@
 
 <h2>Terror of the Bloodaxe</h2>
 
-**Eric**
+**Eric:**
 Uuhnn...
 
  
-**Mash**
+**Mash:**
 ...Eric?
 What's the matter?
 
  
-**Eric**
+**Eric:**
 Uuuuuunnn!
 Uhn...Gah...Guh...Ghnn!
 
  
-**Fou**
+**Fou:**
 Fou!?
 Fou, fou, fou!
 
  
-**Eric**
+**Eric:**
 Ghnn&ndash;!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 S-Stand back, everyone!
 Eric is a Berserker!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 He could go on a rampage!
 Fujimaru and Mash, get away from him!
 
  
-**Mash**
+**Mash:**
 Eric!
 
  
-**Eric**
+**Eric:**
 ...
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Eric**
+**Eric:**
 ...Y-You scum... You scoundrels... Are you the ones... who use my husband...for your ends?
 
  
-**Mash**
+**Mash:**
 What?
 
  
-**Eric**
+**Eric:**
 My name is Gunnhild. Normally, I would make you pay with your lives for the insolence of summoning my husband with your Holy Grail&ndash;
 
  
-**Dr. Roman**
+**Dr. Roman:**
 G-Gunnhild!
 Eric Bloodaxe's wife?
 
  
-**Dr. Roman**
+**Dr. Roman:**
 If I'm not mistaken, she used witchcraft to put a deadly curse on his enemies. Even after her death, she continues to fight for him...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 B-But how is she contacting us?
 And from where?
 
  
-**Eric**
+**Eric:**
 But I understand your situation.
 This time I shall permit you to use my husband.
 
  
-**Eric**
+**Eric:**
 However, my husband is unable to fully unleash his power. That's because of his weapon, the Bloodaxe.
 
  
-**Eric**
+**Eric:**
 This is the blood-stained axe formed out of the flesh and blood of demonic beasts.
 
  
-**Eric**
+**Eric:**
 When allowed to drink the blood of several demonic beasts, its true power will be unleashed.
 
  
-**Mash**
+**Mash:**
 Demonic...beasts?
 But, where would we find...
 
  
-**Eric**
+**Eric:**
 Fear not.
 I will "summon" them now.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I'm picking up several lifeforms!
 Prepare for battle!
 
  
-**Mash**
+**Mash:**
 Th-This is outrageous...
 
  
-**Eric**
+**Eric:**
 Yeeeaaaarrrgh...
 Kill...demonic...beasts!
 
  
-**Mash**
+**Mash:**
 H-Here they come!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 Whew...
 
  
-**Eric**
+**Eric:**
 Demonic...beasts...blood...bloood!
 
  
-**Mash**
+**Mash:**
 The axe is...drinking their blood...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 The axe's magical energy level is rising.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I see. So it wasn't a bluff when she said its power wasn't fully unleashed.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 I've detected two more lifeforms.
 Please keep heading toward the forest.
 
  
-**Mash**
+**Mash:**
 Understood.
 Eric, let's go.
 
  
-**Eric**
+**Eric:**
 Fu...
 Fuuuuu...
 
  
-**Fou**
+**Fou:**
 Fou!
 Fou!
 
  
-**Mash**
+**Mash:**
 Fou is warning us about something.
 There are traces of a large beast moving through here.
 
  
-**Mash**
+**Mash:**
 There are large marks like something was dragged.
 
  
@@ -185,68 +185,68 @@ An alligator?
 
 ---
  
-**Mash**
+**Mash:**
 Either way, it's huge.
 Let's go after it.
 
  
-**Fou**
+**Fou:**
 Fou!
 
  
-**Eric**
+**Eric:**
 ...Hnnnng...axe...blood...
 I want blood, blood, blood!
 
  
-**Mash**
+**Mash:**
 C-Control yourself!
 
  
-**Mash**
+**Mash:**
 Here they come!
 They're&mdash;Lamias!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Mash**
+**Mash:**
 ...Whew.
 Somehow we got through that.
 
  
-**Eric**
+**Eric:**
 Heheheheheh...blood...blood!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Hmm, this is what we call "viewer discretion advised"
 ...All right, this is the last one.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 It's on the other side of the forest, but it hasn't moved. Its lifeform reading is the most powerful of all. You need to be careful.
 
  
-**Eric**
+**Eric:**
 Hahahah...It's there...I know it's there!
 Demonic...beast!
 
  
-**Mash**
+**Mash:**
 ...There it is!
 That's...no way...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 A Chimera...the legendary beast with the heads of a lion and a ram, and the tail of a snake!
 
  
-**Mash**
+**Mash:**
 What's more, it's considered to be a high-ranking demonic beast! Even from here I can sense its overpowering desire to kill...
 
  
-**Eric**
+**Eric:**
 Master...Let's go...
 
  
@@ -266,43 +266,43 @@ Kill!
 
 ---
  
-**Eric**
+**Eric:**
 Your... Blood... Is... Mine!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Eric**
+**Eric:**
 Hyahahahahah! Take that!
 Take that! Take that!
 
  
-**Eric**
+**Eric:**
 Your blood...your flesh...everything...is mine!
 
  
-**Mash**
+**Mash:**
 The axe...has started to glow ominously.
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Ahh, now I see. What an overwhelming amount of magical energy. This is that axe's true form.
 
  
-**Eric**
+**Eric:**
 Master...
 I look forward...to serving you more...Heheheheheh!
 
  
-**Dr. Roman**
+**Dr. Roman:**
 Gee, well...
 
  
-**Dr. Roman**
+**Dr. Roman:**
 ...We certainly seem to have awakened one monstrous Servant.
 
  
-**Mash**
+**Mash:**
 As long as you can control it Master, there's no problem... Right?
 
  
@@ -322,11 +322,11 @@ I-I'll do what I can.
 
 ---
  
-**Mash**
+**Mash:**
 ...That's not very reassuring Master.
 
  
-**Fou**
+**Fou:**
 Fou!
 
 

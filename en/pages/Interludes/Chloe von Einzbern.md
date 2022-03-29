@@ -2,11 +2,11 @@
 
 <h2>Chloe's Snack</h2>
 
-**Chloe**
+**Chloe:**
 ...And that's why things have been a little lacking in the kissing department.
 
  
-**Mash**
+**Mash:**
 ...
 
  
@@ -25,16 +25,16 @@ What did you just say, you little succubus?
 
 ---
  
-**Chloe**
+**Chloe:**
 Don't take this the wrong way.
 I'm not complaining about your technique or anything...
 
  
-**Chloe**
+**Chloe:**
 But I just...want to feel something else...like butterflies in my stomach.
 
  
-**Mash**
+**Mash:**
 ...
 
  
@@ -44,12 +44,12 @@ But I just...want to feel something else...like butterflies in my stomach.
 **Fujimaru 1:**
 Um, not in front of Mash...
  
-**Mash**
+**Mash:**
 No, no, go on.
 This may be something I need to hear.
 
  
-**Mash**
+**Mash:**
 Please continue, Chloe. Depending on what you have to say, I may have to contact the authorities.
 
  
@@ -59,11 +59,11 @@ Please continue, Chloe. Depending on what you have to say, I may have to contact
 **Fujimaru 2:**
 Mash, you look a little scary.
  
-**Mash**
+**Mash:**
 This is my default expression. My various emotions are typically not reflected in my catalog of expressions.
 
  
-**Mash**
+**Mash:**
 So please carry on.
 As you can see, I am quite calm.
 
@@ -72,20 +72,20 @@ As you can see, I am quite calm.
 
 ---
  
-**Chloe**
+**Chloe:**
 Oh no, did I hit a nerve?
 
  
-**Chloe**
+**Chloe:**
 Normally, I'd keep prodding and hope for some good drama...
 
  
-**Chloe**
+**Chloe:**
 But since Mash is a good girl,
 I'll leave it alone.
 
  
-**Mash**
+**Mash:**
 O-okay...
 
  
@@ -98,159 +98,159 @@ So you were asking if you couldstrengthen your power during battle?
 
 ---
  
-**Chloe**
+**Chloe:**
 Right. I came over to see if there was anything we could do to improve the situation.
 
  
-**Chloe**
+**Chloe:**
 If you can increase the magical energy supplied to me,
 I can increase my output, which will help everyone.
 
  
-**Mash**
+**Mash:**
 I-I didn't realize that's what you were talking about. I just thought...
 
  
-**Chloe**
+**Chloe:**
 You thought...?
 
  
-**Mash**
+**Mash:**
 N-no!
 Nothing at all!
 
  
-**Mash**
+**Mash:**
 So this is about getting stronger. I believe this is one of the most important topics to discuss here in Chaldea. Absolutely, yes.
 
  
-**Chloe**
+**Chloe:**
 Yep, yep.
 You really are cute, Mash.
 
  
-**Mash**
+**Mash:**
 I don't know why...but I feel like I was just teased by an older sister or something...
 
  
-**Chloe**
+**Chloe:**
 I think they're around here somewhere.
 
  
-**Mash**
+**Mash:**
 We tagged along because you asked us to,
 but why did you take us here?
 
  
-**Chloe**
+**Chloe:**
 I heard there's good snacks around here.
 I figured I could taste them all at once.
 
  
-**Chloe**
+**Chloe:**
 Ah! I smell something delectable over there!
 
  
-**Mash**
+**Mash:**
 Um...what happened to you getting stronger?
 
  
-**Chloe**
+**Chloe:**
 There they are! Over there!
 Hide, so they don't see you!
 
  
-**Mash**
+**Mash:**
 They are...
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Tea time♪
 
  
-**Jack**
+**Jack:**
 Tea, tea, tea...ocha in Japanese♪
 
  
-**Medea Lily**
+**Medea Lily:**
 T-tee...
 
  
-**Chacha**
+**Chacha:**
 Chacha!!!
 
  
-**Mash**
+**Mash:**
 Are they having a tea party?
 That's so adorable...
 
  
-**Mash**
+**Mash:**
 ...Though they seem to be a bit lacking in terms of vocabulary...
 
  
-**Chloe**
+**Chloe:**
 Heh heh heh... Every single one of them looks to be positively brimming with magical energy...
 
  
-**Mash**
+**Mash:**
 Gasp!
 D-don't tell me you're going to...
 
  
-**Chloe**
+**Chloe:**
 Yep, I'm going to start snacking...
 
  
-**Chloe**
+**Chloe:**
 By sucking their magical energy!
 
  
-**Chloe**
+**Chloe:**
 Down to the last drop!
 
  
-**Chloe**
+**Chloe:**
 Suck suck suck!
 
  
-**Mash**
+**Mash:**
 Wh-what!?
 
  
-**Chloe**
+**Chloe:**
 If there's a girl that I'm super compatible with,
 my charge efficiency will go way up!
 
  
-**Chloe**
+**Chloe:**
 That's why I'm going to sample them one by one!
 
  
-**Mash**
+**Mash:**
 Th-that makes sense on paper, but...n-no!
 
  
-**Mash**
+**Mash:**
 Th-that's not right...
 In fact, it may be criminal!
 
  
-**Chloe**
+**Chloe:**
 It's fine, it's fine.
 I won't do anything that would traumatize them♡
 
  
-**Chloe**
+**Chloe:**
 All I have to do is make sure they don't remember.
 That just means I gotta fight them.
 
  
-**Chloe**
+**Chloe:**
 Either way, I don't think they're going to let me suck them directly, so I'll do it after I knock them out.
 
  
-**Mash**
+**Mash:**
 S-she's thinking like a random serial attacker!
 
  
@@ -264,108 +264,108 @@ I shall call this “Operation Serial Kisser.”
 
 ---
  
-**Mash**
+**Mash:**
 Master!?
 
  
-**Chloe**
+**Chloe:**
 That's good!
 I'm getting excited now!
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Tea tea tea tea tea♪
 
  
-**Jack**
+**Jack:**
 Tea, tea, chachacha!
 Chachacha-tea!
 
  
-**Medea Lily**
+**Medea Lily:**
 Teee...hee hee...
 
  
-**Chacha**
+**Chacha:**
 Chacha!!! We're talking about Chacha, aren't we!?
 Wahahaha!!!
 
  
-**Chacha**
+**Chacha:**
 By the way, why are we all only saying “tea” and “cha”?
 
  
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Eh? Are we allowed to talk normally?
 
  
-**Jack**
+**Jack:**
 We thought chanting “cha cha” was customary in a Japanese tea party.
 
  
-**Chacha**
+**Chacha:**
 A tea ceremony isn't this wacky! A Japanese tea ceremony is a social gathering that mixes etiquette and being fashionable!
 
  
-**Medea Lily**
+**Medea Lily:**
 I feel things went off the rails somewhat when Chacha started randomly shouting “Chacha!”
 
  
-**Chacha**
+**Chacha:**
 Chacha!?
 
  
-**Nursery Rhyme & Jack**
+**Nursery Rhyme & Jack:**
 Cha-cha-cha!
 
  
-**Chloe**
+**Chloe:**
 This is so stupid it's hurting my head...
 
  
-**Mash**
+**Mash:**
 Setting matters of intellect aside,
 those girls are all pure and innocent.
 
  
-**Mash**
+**Mash:**
 For you to attack them and...k-k-kiss them...
 I don't think we can permit such an immoral act...
 
  
-**Chloe**
+**Chloe:**
 Yeehaw! Let's go!
 It's time to make some flowers bloom!
 
  
-**Chacha**
+**Chacha:**
 Wh-what the!?
 
  
-**Mash**
+**Mash:**
 CHLOE!!!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Nursery Rhyme**
+**Nursery Rhyme:**
 Cha...
 
  
-**Jack**
+**Jack:**
 Chaaaaaa...
 
  
-**Medea Lily**
+**Medea Lily:**
 I-I feel like we're being handled...
 
  
-**Chacha**
+**Chacha:**
 ...crudely!
 ...Unnnf...
 
  
-**Mash**
+**Mash:**
 ...Battle complete.
 ...So it's finally happening...
 
@@ -376,7 +376,7 @@ I-I feel like we're being handled...
 **Fujimaru 1:**
 A sacrifice for the greater good.
  
-**Mash**
+**Mash:**
 I'm sure this will also come back to haunt you, Senpai. But there's nothing we can do about it now, is there?
 
  
@@ -386,7 +386,7 @@ I'm sure this will also come back to haunt you, Senpai. But there's nothing we c
 **Fujimaru 2:**
 We. Saw. Nothing. Got it?
  
-**Mash**
+**Mash:**
 This is definitely something I won't want to witness!
 
  
@@ -394,37 +394,37 @@ This is definitely something I won't want to witness!
 
 ---
  
-**Chloe**
+**Chloe:**
 Whew. They fought hard,
 but they were no match for the Serial Kisser Squad.
 
  
-**Mash**
+**Mash:**
 And now we're a part of this shameful group!
 
  
-**Chloe**
+**Chloe:**
 Now that they've all passed out...
 
  
-**Chloe**
+**Chloe:**
 Time for a taste☆
 
  
-**Chloe**
+**Chloe:**
 Hm...
 
  
-**Mash**
+**Mash:**
 Oh...my...
 
  
-**Mash**
+**Mash:**
 ...Ahhh...w-wow...that sound...ahhhh!
 That's too much...!
 
  
-**Mash**
+**Mash:**
 S-Senpai! I don't think this is right!
 This is...this is SO wrong in SO many ways!!!
 
@@ -443,55 +443,55 @@ It's only an exchange of magical energy. It's fine.
 
 ---
  
-**Mash**
+**Mash:**
 Y-you really think so?
 
  
-**Mash**
+**Mash:**
 N-no, you're right. The...methodology may be troubling, but it really just amounts to a medical procedure.
 
  
-**Mash**
+**Mash:**
 It is just one way to exchange magical energy.
 Yes... So there is no problem here...
 
  
-**Mash**
+**Mash:**
 ...No problem...I hope...
 
  
-**Chloe**
+**Chloe:**
 Ummmmmmf... Phew!
 
  
-**Chloe**
+**Chloe:**
 ...Wanna try, Mash?
 
  
-**Mash**
+**Mash:**
 ABSOLUTELY NOT!!!
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Chloe**
+**Chloe:**
 In the end, none of them were compatible.
 I'm disappointed...
 
  
-**Mash**
+**Mash:**
 I feel sorry for them...
 
  
-**Chloe**
+**Chloe:**
 I was hoping the ponytail witch Medea Lily would be the one... But even though she was unconscious, she had really strong magical resistance!
 
  
-**Chloe**
+**Chloe:**
 She was the hardest to deal with, despite how she looks. She's probably got a lot more going on than meets the eye.
 
  
-**Mash**
+**Mash:**
 Really? Out of those four, I feel she has the most common sense. ...Although that can be its own burden.
 
  
@@ -501,7 +501,7 @@ Really? Out of those four, I feel she has the most common sense. ...Although tha
 **Fujimaru 1:**
 So, boss. Who's your next victim?
  
-**Mash**
+**Mash:**
 As much as I respect your adaptability, I don't think it's working in your favor this time, Senpai.
 
  
@@ -511,7 +511,7 @@ As much as I respect your adaptability, I don't think it's working in your favor
 **Fujimaru 2:**
 The Serial Kisser Squad's journey continues...
  
-**Chloe**
+**Chloe:**
 It's good that you're really into my cause, but quit acting like that, it's gonna end up making things take a bad turn (read: get us shut down).
 
  
@@ -519,20 +519,20 @@ It's good that you're really into my cause, but quit acting like that, it's gonn
 
 ---
  
-**Chloe**
+**Chloe:**
 Okay, next. I went after kiddos last time, so maybe I should look for a stronger girl this time.
 
  
-**Chloe**
+**Chloe:**
 Maybe I should find myself a king, or...oh!
 Maybe a Berserker...
 
  
-**Mash**
+**Mash:**
 I predict a whole different kind of disaster from last time.
 
  
-**Mash**
+**Mash:**
 ...To be quite clear,
 disaster beyond reckoning is sure to ensue.
 
@@ -552,57 +552,57 @@ You don't want boys?
 
 ---
  
-**Chloe**
+**Chloe:**
 Eh? When it comes to boys, I wouldn't want them to get serious with me... None of them are my type anyway.
 
  
-**Chloe**
+**Chloe:**
 Oh wait... There are maybe one or two good ones,
 but those guys...you know...honestly...
 
  
-**Mash**
+**Mash:**
 I-I don't know how to respond to that. I can only surmise that you have a very complicated situation here.
 
  
-**Chloe**
+**Chloe:**
 So there you have it.
 Now let's keep looking for other girls with potential.
 
  
-**Chloe**
+**Chloe:**
 Girls like the last ones, the sort who aren't challenging, are just boring... I wanna try getting a strong girl to submit to me.
 
  
-**Mash**
+**Mash:**
 You are much too gung-ho about these morally questionable endeavors!
 
  
-**Chloe**
+**Chloe:**
 Hmmm, is there anyone around? A cute and strong and stimulating girl...and possibly a Saber who's compatible with my class.
 
  
-**Chloe**
+**Chloe:**
 Yoohoo, are there any girl kings swinging their swords around here...?
 
  
-**Chloe**
+**Chloe:**
 After I give her a gentle thrashing, I wanna nurse her back to health with the utmost care and tenderness!
 
  
-**Nightingale**
+**Nightingale:**
 Where's the patient!?
 
  
-**Chloe**
+**Chloe:**
 ...
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Nightingale**
+**Nightingale:**
 ...?
 
  
@@ -621,45 +621,45 @@ Welp, you hoped for a Berserker. There you go.
 
 ---
  
-**Chloe**
+**Chloe:**
 No, no, no! She's no good! I was trying to put up a flag to lure someone like Altria or Altera!
 
  
-**Mash**
+**Mash:**
 That last bit might have pushed her over the edge.
 She's gone berserk herself.
 
  
-**Nightingale**
+**Nightingale:**
 Do not fret. Now that I'm here, I will thoroughly expunge this mental anguish troubling you.
 
  
-**Nightingale**
+**Nightingale:**
 It will not be unnecessarily painful... That is, it will be excruciating, even highly traumatic, but that is only because it is necessary.
 
  
-**Nightingale**
+**Nightingale:**
 Sadly, there is no anesthesia to numb pain of the heart or soul. I must ask you to grit your teeth and bear it.
 
  
-**Chloe**
+**Chloe:**
 We can't reason with her! Figures! Wh-what are we going to do with her? There's no way I can handle her!
 
  
-**Nightingale**
+**Nightingale:**
 No, no. There is nothing that cannot be handled.
 Your perspective in this is all wrong.
 
  
-**Nightingale**
+**Nightingale:**
 What cannot be dealt with simply must be amputated. All that is necessary to sustain a patient's life is to keep the vital organs intact.
 
  
-**Nightingale**
+**Nightingale:**
 Despair only when there's nothing left to amputate!
 
  
-**Chloe**
+**Chloe:**
 It may sound like we're having a conversation, but you're actually talking to yourself! Argh! This is why Madness Enhancement EX is impossible to deal with!
 
  
@@ -677,12 +677,12 @@ I thought you wanted to have a strong girl submit to you?
 
 ---
  
-**Mash**
+**Mash:**
 S-Senpai!?
 Please don't egg Chloe on!
 
  
-**Chloe**
+**Chloe:**
 A-are you telling me to attack her?
 Seriously? Are you NUTS?
 
@@ -701,81 +701,81 @@ Break through common sense and morality!
 
 ---
  
-**Chloe**
+**Chloe:**
 ...
 
  
-**Chloe**
+**Chloe:**
 ...Heh.
 
  
-**Chloe**
+**Chloe:**
 You're right. What was I thinking? Being scared of dessert (read: women) is so unlike me.
 
  
-**Mash**
+**Mash:**
 U-um Chloe? You're kidding, right?
 You're not really going to...?
 
  
-**Chloe**
+**Chloe:**
 The Serial Kissers never turn their backs on their prey! As long as there's a girl around, I'll try to jump them from behind!
 
  
-**Chloe**
+**Chloe:**
 Those lips of yours will be mine!
 Brace yourself, head nurse! Or rather...!
 
  
-**Chloe**
+**Chloe:**
 Kill☆Kill☆Nurse!
 
  
-**Nightingale**
+**Nightingale:**
 Take my lips...?
 Did you just say you mean to take my lips from me?
 
  
-**Nightingale**
+**Nightingale:**
 Manpower, medicine, bandages, bed, and other resources are all being taken and running low! And now you're trying to take away my lips too!?
 
  
-**Chloe**
+**Chloe:**
 Oops. I already decided I wouldn't talk to you. Instead of filling your mouth with words, I'm going to fill it with something warm and wet!
 
  
-**Nightingale**
+**Nightingale:**
 I understand now. You are poison. You are the danger. You are an infection that must be eradicated!
 
  
-**Nightingale**
+**Nightingale:**
 Kill☆Kill☆Germs!!!
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Mash**
+**Mash:**
 (Gasp!) I'm sorry! I could not intervene during that intense and bizarre back and forth.
 
  
-**Mash**
+**Mash:**
 But...yes. Commencing battle!
 Good luck!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
-**Chloe**
+**Chloe:**
 ...
 
  
-**Mash**
+**Mash:**
 ...
 
  
-**Nightingale**
+**Nightingale:**
 ...
 
  
@@ -793,46 +793,46 @@ Had this been a manga,that battle would have taken three volumes.
 
 ---
  
-**Mash**
+**Mash:**
 I'm not sure what you're saying,
 but it truly was an epic battle...
 
  
-**Mash**
+**Mash:**
 And I learned from this battle that fighting can be completely empty and futile... I have never in all my life felt so sad...
 
  
-**Chloe**
+**Chloe:**
 I managed to get a strong woman to submit to me, just like I wanted... It's nothing like I expected, though.
 
  
-**Chloe**
+**Chloe:**
 Whew... I'm beat, so I should go home and take a shower.
 
  
-**Mash**
+**Mash:**
 W-wait! Did you forget your initial plan?
 
  
-**Nightingale**
+**Nightingale:**
 ...
 
  
-**Mash**
+**Mash:**
 If you leave now, what was the point in fighting Nightingale!?
 
  
-**Chloe**
+**Chloe:**
 I forgot.
 Oh, right, right.
 
  
-**Chloe**
+**Chloe:**
 But do I really have to?
 I'm kind of over it.
 
  
-**Mash**
+**Mash:**
 After all that effort...!
 
  
@@ -850,17 +850,17 @@ You need to take responsibility till the very end.
 
 ---
  
-**Chloe**
+**Chloe:**
 Okay... This is such a mood killer,
 but I guess I have to do it.
 
  
-**Chloe**
+**Chloe:**
 Then, here I go...
 Hmf...
 
  
-**Mash**
+**Mash:**
 ...
 
  
@@ -878,144 +878,144 @@ Why don't you have her do it to you too, Mash?
 
 ---
  
-**Mash**
+**Mash:**
 I-I'm not looking,
 and I don't want to get involved!
 
  
-**Chloe**
+**Chloe:**
 ...Pfaaah!
 
  
-**Mash**
+**Mash:**
 H-how did it go, Chloe?
 
  
-**Chloe**
+**Chloe:**
 Well, you know... I kinda expected it,
 but...she tasted like antiseptic.
 
  
-**Mash**
+**Mash:**
 Ah, well that makes sense,
 but I really wasn't asking how she tasted...
 
  
-**Chloe**
+**Chloe:**
 Oh you mean, magical energy? That was so-so too. I suppose I was wrong to expect more from a Berserker in the first place...
 
  
-**Nightingale**
+**Nightingale:**
 ...Wrong.
 
  
-**Chloe**
+**Chloe:**
 Eh?
 
  
-**Nightingale**
+**Nightingale:**
 Wrong...! Wrong, wrong, wrong, wrong!!!
 Everything is wrong!
 
  
-**Mash**
+**Mash:**
 Nightingale's awake!
 No, perhaps she was never unconscious...
 
  
-**Chloe**
+**Chloe:**
 So what am I wrong about!?
 
  
-**Nightingale**
+**Nightingale:**
 Everything!
 Your resuscitation procedure is totally wrong!!!
 
  
-**Chloe**
+**Chloe:**
 Huh?
 Resuscitation!? Huh!?
 
  
-**Mash**
+**Mash:**
 Oh, Nightingale just reached out and grabbed Chloe's throat...
 
  
-**Nightingale**
+**Nightingale:**
 First, find the airway! Tilt the face sideways, and if there is anything inside the mouth, scoop it out with your fingers!
 
  
-**Chloe**
+**Chloe:**
 Bleeah... Your finger...! Ack!
 
  
-**Nightingale**
+**Nightingale:**
 Lift the chin up, pinch the nose,
 and blow in with all your might for one second!
 
  
-**Chloe**
+**Chloe:**
 Hey, I&ndash;hrmgh! Ack!
 
  
-**Mash**
+**Mash:**
 I don't think you need to breathe with all your might...
 
  
-**Nightingale**
+**Nightingale:**
 But most important are chest compressions! Punch the chest one hundred times per minute to force the heart to restart!
 
  
-**Chloe**
+**Chloe:**
 (Cough) ...Heart!? But it didn't stop...
 Ow...owowowowowowowowowow!?
 
  
-**Mash**
+**Mash:**
 Multiple hits with no rest between them!?
 
  
-**Nightingale**
+**Nightingale:**
 ...You have just witnessed a chief modern medical technique to combat death. It is known as CPR.
 
  
-**Chloe**
+**Chloe:**
 ...That isn't...right...
 
  
-**Mash**
+**Mash:**
 Um. I don't know how to react to that.
 
  
-**Mash**
+**Mash:**
 That was a wonderful demonstration. The only thing that was unfortunate was that, rather than being a resuscitation exercise, it is guaranteed to kill the targum, patient.
 
  
-**Nightingale**
+**Nightingale:**
 Mash. Should your respiratory organs shut down, come to me immediately. I will be sure to resuscitate you.
 
  
-**Mash**
+**Mash:**
 N-no thank you!
 Um, I'm fine with Chaldea's medical equipment!
 
 
-**--ARROW--**
+**--ARROW--:**
 
-**Chloe**
+**Chloe:**
 I-I thought I was gonna die...
 Ungh...what did I get myself into...?
 
  
-**Mash**
+**Mash:**
 Nightingale really was unexpected. By the way, are you familiar with the phrase “what goes around, comes around”?
 
  
-**Chloe**
+**Chloe:**
 Hmmm, nope.
 
  
-**Chloe**
+**Chloe:**
 Oh? There's a flyer posted in the hallway.
 Actually, there's a ton out here. Let's see what it says.
 
@@ -1034,16 +1034,16 @@ Actually, there's a ton out here. Let's see what it says.
 
 ---
  
-**Chloe**
+**Chloe:**
 What the heck is this!?
 
  
-**Mash**
+**Mash:**
 Looks like word of Chloe's evil doings has spread.
 Perhaps now your wicked quest will come to an end.
 
  
-**Chloe**
+**Chloe:**
 But I haven't finished playing around... I mean...I still haven't found someone who's compatible with me!
 
  
@@ -1061,138 +1061,138 @@ The Serial Kisser Squad will be dissolved...
 
 ---
  
-**Mash**
+**Mash:**
 Indeed. We got dragged into this because of Chloe's insistence, but that will now come to an end. We cannot overlook your deeds any more.
 
  
-**Mash**
+**Mash:**
 If you continue to corrupt Chaldea's morals,
 I will stand in your way as Chaldea's shield!
 
  
-**Chloe**
+**Chloe:**
 Mash is betraying me now!? Unbelievable...
 Desertion will not be permitted!
 
  
-**Chloe**
+**Chloe:**
 Come on! Don't be such a square just because you wear glasses! You dummy! You...Mashmallow Goody Two-shoes!
 
  
-**Mash**
+**Mash:**
 I never once joined your squad, and I am not acting like a square. Also I don't understand why you'd call me Mashmallow.
 
  
-**Chloe**
+**Chloe:**
 Ungh... That Shielder is so serious.
 Fine. Be that way.
 
  
-**Mash**
+**Mash:**
 Whew. I'm glad she listened.
 
  
-**Chloe**
+**Chloe:**
 But there's one thing I want you to know: it may seem like I was playing around, but I really did want to make myself stronger.
 
  
-**Chloe**
+**Chloe:**
 I want to get strong for Fujimaru...
 No, I wanted to be useful for [♂ big brother /♀️ big sister}...
 
  
-**Mash**
+**Mash:**
 Chloe...
 
  
-**Mash**
+**Mash:**
 Don't worry. I believe you. Sometimes you may go overboard, but I also know you have an inherent kindness within you.
 
  
-**Mash**
+**Mash:**
 As for you getting stronger... Let's think about it together. I'm sure we'll find something for you.
 
  
-**Chloe**
+**Chloe:**
 Thanks.
 But...it's fine.
 
  
-**Mash**
+**Mash:**
 Eh? But...
 
  
-**Chloe**
+**Chloe:**
 Is this it?
 We're coming in.
 
  
-**Illya**
+**Illya:**
 Huh, Chloe?
 What's going on?
 
  
-**Mash**
+**Mash:**
 We're in...Illya's room?
 
  
-**Illya**
+**Illya:**
 Mash! And [♂ big brother /♀️ big sister} Fujimaru too!
 What great timing!
 
  
-**Illya**
+**Illya:**
 Someone in red was teaching me how to make sweets.
 I just finished up a batch.
 
  
-**Illya**
+**Illya:**
 I'll brew up some tea, so let's have them together.
 
  
-**Mash**
+**Mash:**
 What a wonderful, kind invitation. Even though you're so young, you are very domestic, Illya.
 
  
-**Chloe**
+**Chloe:**
 What is this feeling? I feel secure, as if I'm in my childhood home. And I simultaneously sense a newlywed and old-wifey aura from her...
 
  
-**Chloe**
+**Chloe:**
 Yeah...I knew it all along...
 In the end, everyone wants to go back to Illya.
 
  
-**Illya**
+**Illya:**
 I don't know what you're talking about...
 Oh, by the way! Chloe, you should be careful too!
 
  
-**Illya**
+**Illya:**
 I heard that there's some serial attacker lurking around in Chaldea! There's tons of victims already!
 
  
-**Mash**
+**Mash:**
 Uh...um...
 
  
-**Illya**
+**Illya:**
 Hm?
 
  
-**Chloe**
+**Chloe:**
 That's me.
 
  
-**Illya**
+**Illya:**
 ...Come again?
 
  
-**Chloe**
+**Chloe:**
 And now I'm here to make you my last victim.
 
  
-**Illya & Mash**
+**Illya & Mash:**
 ...Come AGAIN!?
 
  
@@ -1210,43 +1210,43 @@ The one most compatible to you is Illya.
 
 ---
  
-**Mash**
+**Mash:**
 W-wait a minute...!
 Um...um...what you're trying to say is...?
 
  
-**Chloe**
+**Chloe:**
 Yep. The ones I attacked before were just for fun. I always knew the one most compatible with me was Illya!
 
  
-**Mash**
+**Mash:**
 I was foolish to believe in Chloe even for a minute!!!
 
  
-**Chloe**
+**Chloe:**
 I'm running low on magical energy from that last battle! I'm gonna suck you harder than usual, Illya!
 
  
-**Illya**
+**Illya:**
 Eh? What!? What's going on!?
 Somebody explain!
 
  
-**Mash**
+**Mash:**
 Please run, Illya!!!
 
  
-**Illya**
+**Illya:**
 Waaaaaah!!!
 Something like this always happens to me!!!
 
  
-**Chloe**
+**Chloe:**
 Yahoo!!!
 It's hunting time!!!
 
 
-**--BATTLE--**
+**--BATTLE--:**
 
 
 ---
@@ -1257,40 +1257,40 @@ How did we end up chasing her all the way to a forest...?
 
 ---
  
-**Illya**
+**Illya:**
 ...
 
  
-**Illya**
+**Illya:**
 ... (Cough) ...
 
  
-**Chloe**
+**Chloe:**
 Yep. Delicious.
 
  
-**Chloe**
+**Chloe:**
 That's the familiar taste I enjoyed in Miyama. I think the fact that it's nothing out of the ordinary is proof that I succeeded.
 
  
-**Mash**
+**Mash:**
 Oh... So in the end, I could not prevent Chloe's barbarism... I failed to defend Chaldea's morality...
 
  
-**Chloe**
+**Chloe:**
 Illya doesn't count. We're like twins.
 Just think of it as sisterly bonding.
 
  
-**Illya**
+**Illya:**
 ... (Twitch, twitch)
 
  
-**Mash**
+**Mash:**
 And this is the result of that bonding?
 
  
-**Mash**
+**Mash:**
 N-no...I'm not going to comment on Chloe's bizarre morality anymore.
 
  
@@ -1308,16 +1308,16 @@ Can we expect you to be better in battle?
 
 ---
  
-**Chloe**
+**Chloe:**
 Of course! From now on, if Illya is by my side,
 I'll just keep sucking from her!
 
  
-**Chloe**
+**Chloe:**
 I'm kinda disappointed I never found another snack other than Illya, but I'll just keep looking on my own time.
 
  
-**Chloe**
+**Chloe:**
 And whenever Illya's not around, I'm counting on you to supply me with magical energy, okay Master?
 
  
@@ -1335,16 +1335,16 @@ Leave it to me! Always!
 
 ---
  
-**Mash**
+**Mash:**
 ...
 
  
-**Mash**
+**Mash:**
 ...May I interject?
 I just remembered my first question about all of this...
 
  
-**Mash**
+**Mash:**
 Do you do it...with Senpai...normally?
 
  
@@ -1362,11 +1362,11 @@ No comment.
 
 ---
  
-**Mash**
+**Mash:**
 You know...with Chloe...
 
  
-**Mash**
+**Mash:**
 DOING SUCH THINGS AS THIS!?
 
  
@@ -1384,45 +1384,45 @@ No comment.
 
 ---
  
-**Chloe**
+**Chloe:**
 Ahahaha!
 I knew Mash was jealous!
 
  
-**Mash**
+**Mash:**
 Th-that's not what this is about!
 
  
-**Mash**
+**Mash:**
 The magical energy necessary for a Servant to manifest is supplied by Chaldea.
 
  
-**Mash**
+**Mash:**
 That's why...there should be no need to siphon extra from other Servants...let alone from Master!
 
  
-**Chloe**
+**Chloe:**
 I know. That's why I've been saying “snack” this whole time.
 
  
-**Mash**
+**Mash:**
 Come again?
 
  
-**Chloe**
+**Chloe:**
 A healthy lifestyle requires three meals a day, plus delicious snacks in between.
 
  
-**Chloe**
+**Chloe:**
 Actually, I can live off of my snacks,
 so they really count as my meals! In other words...
 
  
-**Chloe**
+**Chloe:**
 My meals are snacks!!! (BAM)
 
  
-**Mash**
+**Mash:**
 That doesn't make any sense!
 
  
@@ -1440,61 +1440,61 @@ That doesn't make any sense!
 
 ---
  
-**Mash**
+**Mash:**
 Senpai? Why are you making a mad dash out of here without even looking back!?
 
  
-**Mash**
+**Mash:**
 Please wait, Senpai! If you're running away, you must be hiding something! Explain...explain yourself!!!
 
  
-**Chloe**
+**Chloe:**
 And there they go.
 Mash is seriously cute.
 
  
-**Chloe**
+**Chloe:**
 And Master didn't need to fret. I haven't done anything too bad that Mash would be concerned about. I only took a little sample.
 
  
-**Chloe**
+**Chloe:**
 But if Mash doesn't make a move soon...
 
  
-**Illya**
+**Illya:**
 U-unnnnnngh...
 
  
-**Chloe**
+**Chloe:**
 Oh I forgot.
 I forgot you were lying there, Illya.
 
  
-**Illya**
+**Illya:**
 H-horrible!
 You treated me worse than usual...!
 
  
-**Chloe**
+**Chloe:**
 Yeah, yeah. Sorry.
 I admit I went a little overboard this time.
 
  
-**Chloe**
+**Chloe:**
 Now come on, stand up.
 Let's go home and have some tea.
 
  
-**Illya**
+**Illya:**
 Tea... Oh right.
 
  
-**Chloe**
+**Chloe:**
 You made some snacks for us, right?
 Let's have them together.
 
  
-**Chloe**
+**Chloe:**
 Together for...for now♪
 
 
