@@ -10895,7 +10895,7 @@ Good grief. Talk about your loyal guard dogs.
 Still, this would seem to work in our favor.
 
 **Holmes:**
-Let's make extra sure to get Demeter's attention this time. Are you ready for another round of strenuous combat, ladies[♂  and gentleman /♀️ ]?
+Let's make extra sure to get Demeter's attention this time. Are you ready for another round of strenuous combat, ladies [♂  and gentleman]?
 
 ---
 
