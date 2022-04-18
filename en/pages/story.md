@@ -36,3 +36,10 @@
 * [Cosmos in the Lostbelt 6: Avalon le Fae Part 2](Lostbelt/avalon2.md)
 * [Cosmos in the Lostbelt 6: Avalon le Fae Part 3](Lostbelt/avalon3.md)
 * Cosmos in the Lostbelt ???: Tunguska Sanctuary ~ N/A
+
+## Anime Subtitle Dumps
+
+* [First Order](Anime/First Order.md)
+* [Babylonia Episode 0](Anime/Babylonia Ep 0.md)
+* [Moonlight Lostroom](Anime/Moonlight Lostroom.md)
+* [Solomon Movie](Anime/Solomon Movie.md)

@@ -77,3 +77,7 @@
 # 2022
 
 * Amazoness CEO - N/A at the moment.
+
+# JP Translated Events
+
+* [Nixie Island](Events/JP/nixie.md)
