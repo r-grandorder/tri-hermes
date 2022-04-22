@@ -266,7 +266,7 @@ Then I stripped off his clothes as punishment, and walked 20 km to the next town
 
 There were lots of falling stars that night.
 I stifled my beating chest while I increased the speed of my new flying saucer.
-----No matter what, I have to publish my story in a book.
+-No matter what, I have to publish my story in a book.
 I was wrapped up in that dream, and a sense of duty, you see.
 
 ■■■
@@ -439,7 +439,7 @@ It's long, so I'll divide it into two parts.
 ※ There's only one route, so Nero takes the role of saving, guiding, and helping Hakuno grow.
 Don't forget that this is a boy-meets-girl story.
 
-・ Kishinami Hakuno (Protagonist)
+* Kishinami Hakuno (Protagonist)
 The archetypal protagonist who wakes up in SE.RA.PH to find himself caught up as a participant in the Holy Grail War.
 He has memories of life (daily school life), but no other memories.
 His abilities are extremely mediocre as a wizard. Fortunately, he has a personality that never gives up, holds no grudges, and always tries to do the right thing. Miraculously, he attains victory. In short, he's someone who can't quit.
@@ -456,7 +456,7 @@ The human he was recreated from is in cold sleep on Earth, neither alive nor dea
 This is why the NPC managed to gain an ego and autonomy.
 (This has to do with where souls reside in TYPE-MOON, but that isn't explained in this story.)
 
-・ Saber (Nero)
+* Saber (Nero)
 The Servant who was summoned in response to Hakuno's call.
 (Summoning details are in Material, under Saber's entry.)
 A female knight who acts as she pleases and whole-heartedly glorifies life.
@@ -469,7 +469,7 @@ Saber is reluctant to reveal her true name.
 It is not because she wishes to conceal her identity as the infamous tyrant Nero, but because she is afraid that Hakuno will dislike or be disappointed with her if he knows her name.
 During the fifth round, she moves past this hesitation and reveals it herself.
 
-・ Girl Classmate (Female Protagonist)
+* Girl Classmate (Female Protagonist)
 A girl who occasionally crosses paths with Hakuno, leaving him a casual word of advice.
 She's always eating a noodle sandwich.
 She wasn't in the PSP version, so the audience would misread her as "a new heroine!?"
@@ -483,17 +483,17 @@ Because her data was modified further after recreation, she quickly becomes awar
 As a degraded copy, she cannot withstand the installation of an ego (soul), so she is destined to disintegrate.
 (※ Even if she wins the seventh round, she will then disappear. Only Archer deduces this.)
 
-・Archer (Nameless)
+* Archer (Nameless)
 The Female Protagonist's Servant. He is a Servant summoned to a Master without a soul, so his summoning circumstances are also irregular.
 Half of his body is crumbling and burned.
 Knowing the Female Protagonist's situation, he helps her fight to the bitter end.
 　→ Every time Hakuno is alone and in a pinch, Archer saves him. As for why he does this, if Hakuno dies, so does the female protagonist. Archer is trying to give his Master a conclusion where she doesn't lose until the very end, and accepts her end even though she couldn't survive.
 　→→ Archer is partially destroyed, so Nero and Tamamo don't recognize him in the world of EXTELLA. Also, the Nameless that appears in EXTELLA comes from a world where the Female Protagonist won.
 
-・ Rin & Rani
+* Rin & Rani
 Fewer appearances than in the PSP version, but their position is unchanged.
 
-・ Leo
+* Leo
 The heir to the Western European Conglomerate. A perfect prince. The strongest foe in the PSP version.
 His role is the same in the PSP version, but this time he is defeated in the sixth round.
 
@@ -503,10 +503,10 @@ Out of curiosity, Leo talks to Kishinami Hakuno many times, but several of the c
 "Yes, I'm interested in you, too."
 He says things like that, because he's interacted with the Female Protagonist in the same way.
 Leo loses to the Female Protagonist in the sixth round, so this time, he realizes that the Female Protagonist has the potential to defeat him.
-・ Saber (Gawain)
+* Saber (Gawain)
 Leo's Servant. Unchanged from the PSP version.
 
-・ Julius
+* Julius
 Leo's older brother. An assassin who handles the dirty work. On Earth, he doesn't have much time left to live.
 He eliminates Leo's enemies without regard for his own survival.
 His position is unchanged from the PSP version. He is openly hostile to Hakuno, and is Hakuno's greatest rival.
@@ -514,14 +514,14 @@ Julius' special animosity towards Hakuno (and the Female Protagonist) is because
 On a deeply subconscious level, Julius rejects the notion that a normal person, possessing nothing and chosen by nobody, could rise to become Leo's greatest enemy.
 It also stems from Julius' irritation that he was unable to do the same.
 
-・ Assassin (Li Shuwen)
+* Assassin (Li Shuwen)
 Julius' Servant. Position is unchanged from the PSP version.
 
-・ Matou Shinji
-・ Rider (Drake)
+* Matou Shinji
+* Rider (Drake)
 The opponent in the first round, which has the theme of fighting a friend. Unchanged from the PSP version.
 
-・ Atrum
+* Atrum
 The opponent in the fourth round. His Servant is Caster (Tamamo no Mae).
 A new Master for the EXTRA storyline that was reorganized for EXTELLA. A user of sacrificial magic that kills and creates life.
 Acquainted with Leo on Earth. In the world of EXTRA where fossil fuel resources have run dry, he lacks the cockiness and carelessness of his Fate/stay night counterpart. However, his basic personality is the same.
@@ -536,7 +536,7 @@ After dispatching Casko, Atrum accesses a proprietary hidden circuit to Earth to
 After Atrum loses to Hakuno in their duel, Atrum uses Caster as a scapegoat to avoid the destruction of his own body, and flees.
 After he escapes from the firewall, he is dealt with by Julius or the Moon Cell.
 
-・ Caster (Tamamo no Mae)
+* Caster (Tamamo no Mae)
 Appears as Atrum's Servant.
 From the start, she is aware that she is expendable to Atrum, but she does not resist fulfilling their pact. (Of course, if Atrum were to sever their contract, it would be a different story.)
 When she comes to Hakuno on Atrum's orders to seduce him, Hakuno asks,
@@ -556,12 +556,12 @@ Afterwards, she cooperates with Hakuno as his (self-declared) true Servant.
 Nero: "Damn you -- who let this raccoon- no, this fox into our den!?"
 Fox: "That's obvious. As if the curse of a third-rate Master could roast me!"
 
-・ Dan
-・ Archer (Robin)
+* Dan
+* Archer (Robin)
 The opponent in the second round, which has the theme of defeating one's senior and mentor in life.
 Position is unchanged from the PSP version.
 
-・ Twice Pieceman
+* Twice Pieceman
 The final Master who awaits Hakuno in front of the Moon Cell's core, after the seventh round.
 Position is unchanged from the PSP version.
 However, to make his appearance less sudden, he would appear frequently throughout the story.
@@ -577,7 +577,7 @@ Continuing on...
 ※ This is basically meant to be a shorter version of the plot, so it only contains the essentials. Unfortunately, I have to cut the excess fat.
 ※ That said, in the end this is a reorganization of the Nero route. There are differences from the Tamamo no Mae and Nameless routes. For example, in the Tamamo route, the event that occurs on the path to the core is completely opposite.
 
-・ Awakening ~ Preliminary Round ~ Servant Summoning
+* Awakening ~ Preliminary Round ~ Servant Summoning
 From the top...
 "A girl falls on the water's surface, lying face up. It's the Female Protagonist before she disappears, after losing to Hakuno in the sixth round."
 This scene would be interesting to include. The audience would be misled to believe she was someone who died in the preliminaries, but the truth would be revealed in after the sixth round.
@@ -586,7 +586,7 @@ This scene would be interesting to include. The audience would be misled to beli
 The protagonist notices the incongruity in school life, escapes from the Inside of the World (the Inside of the Texture), fights a doll, and summons a Servant.
 Unchanged from the introduction to the PSP version.
 
-・ Round 1, Beginning
+* Round 1, Beginning
 Round 1 begins while the mood is still carefree, while explaining SE.RA.PH., the Moon Cell, the Holy Grail War, and the state of Earth.
 The atmosphere of Round 1 is "this is a game," "this is a proxy war," and "this feels like a game."
 The opponent in the first round is announced. Hakuno faces Shinji.
@@ -594,7 +594,7 @@ The opponent in the first round is announced. Hakuno faces Shinji.
 We could show the audience the tournament brackets and where each character is.
 Also, the Masters can casually face off in in the halls, and we can also have Casko smugly appear.
 
-・ Round 1, Conclusion
+* Round 1, Conclusion
 Events from the competition against Shinji, to the elevator ride, until the final duel.
 Demonstrates that this isn't a game, but rather a ruthless battle for survival.
 Drake: "Don't you all realize that you were dead as soon as you got here?"
@@ -608,15 +608,15 @@ It struck him that unmindful murder and innocent fights to the death → Real de
 Shinji: "I thought it just granted wishes! Why do I have to die!?"
 Drake: "Look, that's just what it means to live. All people are unaware that they trample on the wishes of others."
 
-・ Round 2
+* Round 2
 The heartbroken protagonist fights Dan, the old soldier.
 The old man who fights with regrets about his life, and the Heroic Spirit Robin who died in regret.
 
-・ Round 3
+* Round 3
 Round 3 is unchanged from the PSP version.
 After Hakuno wins, his next opponents Atrum and Casko appear to put on haughty airs. "You face us next, oh ho ho."
 
-・ Round 4
+* Round 4
 Atrum is a character related to both Leo and Earth, so he serves the supporting but important role of explaining much of the setting, such as the state of Earth, and how it ended in the 2030s.
 Atrum affects goodwill, taking the "you should lose, so that I can live to save the world" approach to sway Hakuno's resolve.
 Hakuno, who has no identity, hesitates. However, he overcomes Atrum's intimidation by realizing that although Atrum's words are true, Atrum himself is not. They fight as Masters.
@@ -625,17 +625,17 @@ Of course, she schemes to defeat Nero and take her place as the main Servant, gi
 Nero is aware of this, naturally. Casko and Nero share a friendly, combative relationship.
 →Their relationship is changed from "heroines of different worlds" to "heroines in the same world."
 
-・ Round 5
+* Round 5
 Hakuno fights Julius in the fifth round.
 Nero is rendered unable to fight by Assassin's Noble Phantasm.
 With Casko's assistance, Hakuno challenges Julius and Assassin on his own.
 Thanks to Hakuno's efforts, Nero recovers, and the story proceeds as it does in the latter half ot the PSP version.
 After Nero recovers, she tells Hakuno her true name. Her Noble Phantasm is finally unsealed.
 
-・ Missing Chapter
+* Missing Chapter
 This is when CCC takes place. Casko remembers all of it. Nero only remembers, "Elizabeth is my lifelong rival. But which round did we fight in?"
 
-・ Round 6 ~ early Round 7
+* Round 6 ~ early Round 7
 Rin and Rani are defeated in round 6, and say their farewells.
 Hakuno anticipates a showdown with Leo next... but Leo is reported to have been defeated.
 
@@ -662,7 +662,7 @@ The Female Protagonist's fight against Leo is the same as Round 7 of the PSP ver
 Round 7 concludes. Archer disappears along with the girl.
 The Male Protagonist inherits the girl's memories and details of her fight with Leo as his own.
 
-・ End of Moratorium ~ On the way to the core
+* End of Moratorium ~ On the way to the core
 While traveling the path to the core of the Moon Cell, Hakuno is attacked by a debugging program.
 Its target is Casko, not Hakuno. The Moon Cell is enraged that a Servant which should have been defeated is still intact.
 → Hakuno parts ways with Casko. The tone is similar to parting with Casko in the CCC Route of CCC. The debugging is powerful enough to actually erase her in CCC, but the debugging is light in this case, so Casko won't disappear.
@@ -672,7 +672,7 @@ Casko schemes to capture the Protagonist's heart and affections by risking her l
 "She'll live," remarks Hakuno, as he dons his sunglasses.
 Hakuno and Saber arrive at the Moon Cell's core. There, they face Twice.
 
-・ Moon Cell Core ~ Savior
+* Moon Cell Core ~ Savior
 Hakuno confronts Twice. Twice gives a long speech.
 ※ The events here are described in the final entry of the Material glossary.
 
@@ -739,7 +739,7 @@ Kiara salvages BB(GO), Melt, and Lip to use.
 BB/GO tells the survivors "you may survive if you keep quiet, oh, but by the way, time is different, so it'll take 50 years until help comes".
 Survivors fighting intensifies, basically "Mist" by Beckman. Anyone who goes against him is thrown out, feeded away, or ordered to attack Melt and co who were looking around SE.RA.PH..
 
-BB/GO pretended to obey Kiara. Melt and Lip know they can't go against Kiara (because they were salvaged from her), but having hostile feelings, after a bit of neutrality and understading the situation, went against Kiara anyways. Melt was disposed of, and Lip was sealed.
+BB/GO pretended to obey Kiara. Melt and Lip know they can't go against Kiara (because they were salvaged from her), but having hostile feelings, after a bit of neutrality and understanding the situation, went against Kiara anyways. Melt was disposed of, and Lip was sealed.
 
 After HGW-ing for a while, Kiara becomes a immature Beast, and starts making her "main body", and chooses SE.RA.PH. as her body to become a beast. SE.RA.PH. starts turning into Kiara.
 At this point, the human Kiara becomes a sub-unit that she can throw away at anytime. (Zepar was clinging to this.)
@@ -766,7 +766,7 @@ They ran out of time, and SE.RA.PH. reaches the bottom (and goes beyond). They m
 - 30 minutes before the event starts
 Melt reaches SE.RA.PH. of 2 hours ago.
 BB, sensing the irregularity, contacts her, and Melt shares her memory to make a plan. "The plan to off Kiara without being found out by Kiara" starts.
-BB starts making the slot and KP, so Kiara will think they're only for annyoing Chaldea.
+BB starts making the slot and KP, so Kiara will think they're only for annoying Chaldea.
 Melt visits the church, and meets the discarded Melt, for a lonely farewell.
 
 The master from Chaldea arrives.
@@ -846,7 +846,7 @@ Happy new years.
 New year greetings after a third of January is already over, 2017 must have finally ended yesterday in this man. By Dumuzid.
 
 
-Last year, I was blessed by many opportunities such as the game, anime, and movie. (TL Note: I can't tell if these are singular or plural)
+Last year, I was blessed by many opportunities such as the game, anime, and movie. (TL Note - I can't tell if these are singular or plural)
 The staff lent me their strength, and the users gave me their support.
 Thank you.
 
@@ -1099,7 +1099,7 @@ The interviewer was an EXTRA player, and I accidentally talked about things I wa
 　◆
 
 By the way, the mini-game Marvelous secretly made for us, "Iku-stella",
-I hear it has a short window of release so hurry to go get it! (TL note: it's already over)
+I hear it has a short window of release so hurry to go get it! (TL note - it's already over)
 I heard "it's a casual raising game like tamagocchi, you can enjoy it inbetween doing other things"
 and just started earlier, but it's so good......
 It's full of happiness, the BGM is very peaceful, and because of that it gives a strong feeling of "a temporary happy dream that could have been"......
@@ -1262,10 +1262,10 @@ In-game text writing: The writing team
 Like that. If you’re asking why we’re using this kind of method its because we want to further employ the differences between the novel version and the game version.
 If I am to give a concrete example as to what part is different then...
 
-・In the novel (original) version, the starting requirements were having arrived at Part 2 Chapter 3 (SIN).
+* In the novel (original) version, the starting requirements were having arrived at Part 2 Chapter 3 (SIN).
 　In order to make the requirements for playing a bit broader, us on the writing team decided to change it to Part 1.
 　To go with this change, we had to swap out a certain character with a different one. The swapped in character’s role and text was given as Nasu’s responsibility.
-・As there weren’t just scenes from within the play this time around, the other servants that appear were supervised and rewritten by their respective writers.
+* As there weren’t just scenes from within the play this time around, the other servants that appear were supervised and rewritten by their respective writers.
 
 Something like that.
 By changing the starting requirements, the character of the script changed but the atmosphere and logic of the original is still the same.
@@ -1910,7 +1910,7 @@ During our tests the average play-time was 4-6 hours but that's with the assumpt
 
 So with that, from here on I’d like to talk a bit about the latter half of Chapter 6.
 
-・The star-system of Muryan
+* The star-system of Muryan
 Chapter 6’s greatest source of confusion, or at least one of them. (It seems the other is Redra Bbit)
 Did you think she was Kazura Drop?
 Too bad, she’s 100% a fairy, born and raised!
@@ -1924,7 +1924,7 @@ If that’s how you feel, then please try picking up a copy of the CCC side-stor
 All of the Sakura Five appear there.
 
 
-・Beryl’s voice
+* Beryl’s voice
 I received some correspondence (from pen-name: ‘Sasaki Shounen’) to the tune of ‘I’m curious about Beryl’s cut voice-line you mentioned in the last entry’.
 
 I’ve received special permission to use it! Here it is.
@@ -1936,13 +1936,13 @@ http://www.typemoon.org/bbb/diary/img/999999_0_E200.wav ->
 http://www.typemoon.org/bbb/diary/img/999999_0_E210.wav ->
 
 
-・The mysterious three-parter curse.
+* The mysterious three-parter curse.
 The mysterious fairies who appeared in the first half.
 Why do beings like them exist? Very good question.
 A certain drifter who spent many years in Norridge had his knowledge integrate with Britain and through this influence were the wild Nightcallers born, having evolved as ghost stories (fairy-tales) from a foreign land.
 
 
-・Fairy-history, timeline tidbits.
+* Fairy-history, timeline tidbits.
 The in-game timeline had some excess information cut from the final version so here’s a partial excerpt from the one that I created when writing the script.
 
 
@@ -2320,8 +2320,8 @@ The Boss Rush actually had a planned story.
 See the summary below.
 It was shelved for multiple reasons, but why not dumping it here now?
 
----
 
+```
 //28 Japanese characters per textbox.
 //A tale in Noel's dream world.
 //Noel isekai. Noel wakes up in a world where she got to know some boy with sharp eyes in a student uniform, stuff happened, and for whatever reason they became a vampire-hunting duo. Basically Tsukihime if she was the heroine. In the simplest terms possible, this is the Noel route.
@@ -2444,8 +2444,7 @@ TELL ME YOUR NAME BEFORE THIS IS OVER!
 
 *Epilogue
 Ending epilogue.
-
----
+```
 
 And that was it.
 I really wanted to do this one but couldn't because introducing Miyako was a priority.
