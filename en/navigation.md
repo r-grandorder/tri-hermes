@@ -22,6 +22,7 @@
 [Main Story](pages/story.md)
 [Events](pages/events.md)
 [Servants](pages/servants.md)
+[Bamboo Broom Diary](pages/bamboo.md)
 [About](pages/about.md)
 [Feedback](pages/feedback.md)
 

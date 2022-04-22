@@ -49,7 +49,7 @@
 * [Halloween 3](Events/2019/halloween3.md)
 * [Christmas 3](Events/2019/christmas3.md)
 
-# 2020
+## 2020
 
 * [Setsubun Oni Pagoda](Events/2020/setsubun.md)
 * [The Bountiful Chocolate Gardens of Valentine](Events/2020/valentines2020.md)
@@ -61,7 +61,7 @@
 * [Halloween 4 - Oniland](Events/2020/oniland.md)
 * [Christmas 4](Events/2020/christmas4.md)
 
-# 2021
+## 2021
 
 * [Sparrow's Inn Daily Report](Events/2021/enmatei.md)
 * [Voice and Letters Collection](Events/2021/valentines2020.md)
@@ -74,10 +74,10 @@
 * [Saber Wars 2](Events/2021/saberwars2.md)
 * Christmas 5 - N/A at the moment.
 
-# 2022
+## 2022
 
 * Amazoness CEO - N/A at the moment.
 
-# JP Translated Events
+## JP Translated Events
 
 * [Nixie Island](Events/JP/nixie.md)
