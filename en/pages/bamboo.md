@@ -278,6 +278,90 @@ Dedicated to Matsuryu-san.
 
 ---
 
+## 2016/6/31: Untitled
+
+Camelot/Zero
+
+01. Midway through the Ninth Crusade, someone who should have died is given a Holy Grail. Using the power of the Holy Grail, the expeditionary force approaches the Holy Land. Dedicating everything to the King of Magic, they set fire to the land and slaughter the people. However, in their greed they summon the Pharaoh. Naturally, the Pharaoh confiscates their grail, creates the Egyptian Territory, and sets about building his own kingdom there.
+
+02. The expeditionary force loses ground. The one chosen by the Holy Grail is cornered by the people of the Holy Land. But then, a mysterious Servant appears and summons the "False Crusaders." Though this Servant identifies themselves as Richard I, their appearance and behavior are far too different from his. The False Crusaders capture the expeditionary force and occupy the Holy Land.
+
+03. The Lion King arrives in the singularity and summons the Knights of the Round Table.
+
+04. The Knights of the Round Table battle the False Crusaders. The expeditionary force is annihilated. The Holy Land falls. The Holy City is completed.
+
+05. Xuanzang-chan suddenly appears
+
+06. Chaldea begins the Sixth Grand Order
+
+That's more or less what happened before the beginning of Chapter 6.
+When the Lion King appeared in the Sixth Grand Order, she summoned the Heroic Spirits of the Round Table with her own power.
+(This is different than the summoning method used by Chaldea)
+All but two of the Knights responded to the summons, and were informed of the world's collapse, and how in half a year's time all would be reduced to nothing by the King of Magic. And, the Lion King told them about the "means of salvation by the holy lance," their best hope of counteracting it.
+In the solemn morning glow, the Lion King proclaimed:
+
+"I summoned you knights because I require your power. While I can destroy my enemies alone, I cannot perform the Holy Selection. I need knights that will become my hands and feet. However. I understand that this act violates your beliefs. Will you obey me, or will you leave my side? Or, will you band together here to strike me down? I will hear your answers at sundown. I can wait no longer than that."
+
+And so, the Knights of the Round Table each fretted over their choice.
+There would surely be those who sided with the Lion King, just as there would surely be those who tried to stop her.
+In either case, the enemy would be their fellow Knights.
+Nobody was going to leave. If they disagreed with the Lion King, they had no choice but to enact the death penalty.
+That, in turn, meant fighting their comrades who had chosen to follow her.
+
+Sir Kay was strangely silent, and vanished till sunset without saying a word.
+Sir Percival politely exchanged words with all of the other Knights one by one, and weeped alone.
+Sir Gawain understood the significance of King Arthur calling herself the "Lion King."
+Sir Tristan blinded himself to the tragedy of the situation.
+Sir Lancelot, though he was loathe to admit it, realized that the Lion King's choice was making the best of a bad situation.
+Gaheris resolved himself to parting with his older brothers and younger sisters.
+Gareth never once doubted that Sir Lancelot, whom she revered, would surely choose to aid King Arthur.
+
+After the longest half a day of their lives, the Knights of the Round Table convened before the Lion King, as those that would stop her, and those that would serve her.
+Battle was inevitable.
+No matter what they chose, they would be forced to strike down those who were most dear to them with their own hands.
+Because, the only way to protect the Lion King was to kill their fellow countrymen.
+And, the only way to put the Lion King to death was to eliminate the compatriots standing in their way.
+Neither camp bore any hatred for the other.
+There was only grim resolution.
+
+Like that, the Knights of the Lion King were born.
+They struck down those they loved the most, and became beasts.
+Even if they tried to survive, they no longer possessed the qualifications to be chosen by the Holy Lance.
+They accepted the fact that no matter what they did, they would not be rewarded. They were sinners, doomed to be burnt away with the era.
+
+Then, the Lion King bestowed "Gifts" upon the Knights stained by their comrades' blood.
+Tristan received the Gift of "Inversion," for she saw his fingers were completely frozen from despair.
+Gawain received the Gift of "Everlight," for he wanted to maximize his usefulness.
+Mordred received the Gift of "Rampage." It wasn't asked for, but it was given.
+Gareth received the Gift of "Impurity," for she wished to avoid being defiled any further.
+Lancelot received the Gift of "Ferocity," for he vowed to ascertain the situation as a person, without martyring himself for justice.
+And, Agravain received the Gift of "Needlessness," for he had declared before all that he had no need for a Gift from the Lion King.
+
+The Lion King and her Knights marched into the Holy Land controlled by the False Crusaders.
+Though the False Crusaders were no match for them, the Servant calling himself Richard I was demonically strong.
+"Even the Knights of the Round Table can't possibly defeat this devil without loss. A sacrifice of two... no, three of our own will be necessary."
+As Gawain made that judgment, a single Knight charged forward, restraining Richard at the cost of skewering her own chest.
+It was Gareth.
+Gareth's heart had long since shattered to pieces over the course of their many battles.
+Killing her beloved comrades.
+Killing knights, false though they may be.
+Killing the people of the Holy Land, day in and day out.
+Mummy-like bags had appeared under her eyes, and her lily-white fingers that had once been more beautiful than anyone's were unrecognizably blackened from the washing she performed after combat.
+
+"I'm sorry. I'm sorry. Even though I chose this."
+"I can't bear it any longer. I can't fight any more. Please. Please."
+"I'm a fool. Please, punish me."
+
+It was the perfect opportunity to kill the enemy leader.
+Lancelot froze. He understood Gareth's feelings, but was hesitant to once more do the deed.
+Mordred raged. She had tried to stop her, saying they could win without making such sacrifices.
+Agravain quietly placed his hand on the sword hanging at his side. He understood what must be done.
+However. The one who swung his sword and dealt the mortal blow was Gawain.
+Along with the last remnants of his heart, he bid farewell to his little sister.
+
+Thus, the Holy Land passed into the Lion King's hands, and the Immaculate Holy City manifested itself.
+
+
 ## 2016/7/22: Report. (Kinoko)
 
 The scorching-hot summer is finally here. No, it was already here. Definitely.
