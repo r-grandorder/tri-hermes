@@ -25,7 +25,7 @@
 
 * [SABER WARS](Events/2018/saberwars.md)
 * [Chocolate Lady's Commotion](Events/2018/valentines2018.md)
-* Kara no Kyoukai Collab - N/A at the moment.
+* [Kara no Kyoukai Collab](Events/2018/knk.md)
 * [Vengeful Demon's Wail at the Prison Tower](Events/2018/prisontower.md)
 * [Da Vinci and the 7 Counterfeit Heroic Spirits](Events/2018/counterfeit.md)
 * [Fate Zero Collab](Events/2018/zero.md)
