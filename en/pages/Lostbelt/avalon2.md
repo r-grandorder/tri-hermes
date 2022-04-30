@@ -8875,11 +8875,8 @@ Ugh!? What, what's&mdash;my legs, my legs are vanishing...!?
  
 **???:**
 
-<<<<<<< HEAD
 ![berserk1](https://i.imgur.com/XAqlQYL.png)
-=======
-![1-light](https://i.imgur.com/XAqlQYL.png)
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
+
  
 **Knight Portunes:**
 You&mdash;damn you&mdash;! I know your foul stench, your curse...! 
@@ -8889,11 +8886,8 @@ The stench of the Mors War...!
  
 **???:**
 
-<<<<<<< HEAD
 ![berserk1](https://i.imgur.com/XAqlQYL.png)
-=======
-![1-light](https://i.imgur.com/XAqlQYL.png)
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
+
  
 **Knight Portunes:**
 Impossible&mdash;you should be dead&mdash;My Queen&mdash;I have to tell the Queen&mdash;

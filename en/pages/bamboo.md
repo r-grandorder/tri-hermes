@@ -278,7 +278,7 @@ Dedicated to Matsuryu-san.
 
 ---
 
-## 2016/6/31: Untitled
+## 2016/6/31: Untitled (Kinoko)
 
 Camelot/Zero
 
