@@ -80,4 +80,5 @@
 
 ## JP Translated Events
 
+* [Halloween Rising!](Events/JP/halloweenrising.md)
 * [Nixie Island](Events/JP/nixie.md)

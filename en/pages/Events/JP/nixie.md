@@ -17,17 +17,12 @@ Note: This event is translated by [u/Smoof](https://www.reddit.com/user/Smoof101
 ![image](https://preview.redd.it/bec00jr5bzr81.png?width=1792&format=png&auto=webp&s=38f1f715c789002622d09325e8f75150753466d1)         
 
  **Da Vinci:**
-
 Alright, rayshift is successful!  
-  
 Even though there were some risks to this rayshift this time around, we had to check how serious the situation was first.  
-  
 Are you ok, Guda?
 
 **Guda:**
-
 I’m ok!  
-  
 Perfect rayshift as always!
 
 **Da Vinci:**
@@ -37,65 +32,47 @@ I see, I’m glad to hear that.
 **Mashu:**
 
 Master’s vitals are perfectly fine.  
-  
 I’ll be in the Control Room repairing equipment, so in that time, I’ll try my best to process any information.
 
 **Da Vinci:**
 
 Alright, I’ll be counting on you.  
-  
 Anyways, that’s the situation for you. The more we have in the Control Room, the better.  
-  
 Yea…As always the peculiarity of this rayshift still remains the same.  
   
 **We don't know where that place is.**  
   
 This rayshift is needed to confirm the coordinate data and its existence, but we do know that the place is located somewhere on this Earth—  
-  
 Since it is “unidentifiable” to us, it’s as if the monitor is glitched on our end.  
-  
 Even though the singularity is never changing, we decided to upgrade the security by a tenfold and rayshifted them into the unknown coordinates.  
-  
 How about it? Do you have any clue about this place as you see it?
 
 **Guda:**
-
 Well, it looks like a southern country beach…
 
 **Da Vinci:**
-
 We’ve been having difficulties investigating since we’re getting ambiguous readings over here…
 
 **Mashu:**
-
 Maybe analogue elements like…cloud shape, temperature, and wind scent could give us clues.
 
 **Da Vinci:**
-
 Ah. That would mean that I would have to get the girls’ opinions on this next.  
-  
 For a singularity that’s unknown, it has a very wide scope in terms of rayshift aptitude, but for now, I picked the Servants that had the highest aptitude to be your escorts for the first round.
 
 **Guda:**
-
 Ummm….
-
-
 
 ![image](https://preview.redd.it/7wzumet6bzr81.png?width=1792&format=png&auto=webp&s=a2a5c18942ddab0b3134777b283edb07afbddf93)
 
 **Ereshkigal:**
-
 Sorry, but I don’t know this place.  
-  
 I am the ruler of the underworld. I don’t have ties to a place that looks too resort-like.  
-  
 I’m to say once more that it doesn’t have any sign of an underworld.  
-  
+
 Underground…well. It’s different from a cave, but it feels like it has many holes.  
-  
 That’s all I can say for now. But since I was chosen, that means I have a role to play here.  
-  
+
 It’s been a long time since you’ve relied on me, but if you need anything, just tell me!
 
 **Guda:**

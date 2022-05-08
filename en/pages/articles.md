@@ -1,0 +1,9 @@
+# Articles
+
+The pages listed below are user-submitted articles that robustly gathers important lore and provides personal conjecture. Take what you will from these resources. 
+
+If you'd like to submit articles, please DM Lib#7770 on Discord
+
+## Servant Mechanics
+
+* [Class Skills](Articles/class-skills.md)

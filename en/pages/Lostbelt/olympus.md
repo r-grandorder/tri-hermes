@@ -17834,7 +17834,7 @@ Fou...!?
 
 **Musashi:**
 Whoa, the middle of the street is glowing!
-This is definitely going to draw attention!
+This is definitely going to draw attention !
 
 **Macarios:**
 The spell's giving off magical energy!
