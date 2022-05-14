@@ -19,10 +19,20 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Main Story](pages/story.md)
-[Events](pages/events.md)
-[Servants](pages/servants.md)
-[Bamboo Broom Diary](pages/bamboo.md)
+[Main FGO Scenario]()
+
+* # Main FGO Scenario
+* [Main Story](pages/story.md)
+* [Events](pages/events.md)
+* [Servants](pages/servants.md)
+
+[Meta Lore]()
+
+* # Meta Lore
+* [Bamboo Broom Diary](pages/bamboo.md)
+* [Interviews](pages/interviews.md)
+* [Articles](pages/articles.md)
+
 [About](pages/about.md)
 [Feedback](pages/feedback.md)
 

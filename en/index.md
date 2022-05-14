@@ -9,7 +9,5 @@
 ## Meta Lore
 
 * [Bamboo Broom Diary](pages/bamboo.md)
-
-## User-Submitted Articles
-
-* [Articles page](pages/articles.md)
+* [Articles](pages/articles.md)
+* [Interviews](pages/interviews.md)
