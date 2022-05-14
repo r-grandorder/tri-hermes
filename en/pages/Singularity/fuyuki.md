@@ -4949,10 +4949,10 @@ We will take back the future!
 
 
 
-    <meta content="r/grandorder Wiki" property="og:title">
-    <meta content="Fuyuki Singularity Transcript" property="og:description">
+<meta content="r/grandorder Wiki" property="og:title">
+<meta content="Fuyuki Singularity Transcript" property="og:description">
 
-    <meta content='https://i.imgur.com/LEYAwYk.png' property='og:image'>
-    <link type="application/json+oembed" href="statics/embed.json" />
-    <meta name="theme-color" content="#C65A31">
+<meta content='https://i.imgur.com/LEYAwYk.png' property='og:image'>
+<link type="application/json+oembed" href="statics/embed.json" />
+<meta name="theme-color" content="#C65A31">
 	
