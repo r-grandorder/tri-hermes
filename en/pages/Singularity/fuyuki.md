@@ -4947,14 +4947,13 @@ The Grand Order!
 In the name of the magical world's highest order. 
 We will take back the future! 
 
+<div>
 
-    <!-- Headers for discord embeds https://www.reddit.com/r/discordapp/comments/82p8i6/a_basic_tutorial_on_how_to_get_the_most_out_of/ -->
     <meta content="r/grandorder Wiki" property="og:title">
     <meta content="Fuyuki Singularity Transcript" property="og:description">
-    <!-- Uncomment this for a larger image embed.
-    <meta name="twitter:card" content="summary_large_image">
-    -->
+
     <meta content='https://i.imgur.com/LEYAwYk.png' property='og:image'>
     <link type="application/json+oembed" href="statics/embed.json" />
     <meta name="theme-color" content="#C65A31">
 	
+</div>
