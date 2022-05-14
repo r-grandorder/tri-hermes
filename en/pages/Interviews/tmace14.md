@@ -155,7 +155,7 @@ From Beryl’s perspective, Morgan and Baobhan Sith’s relationship, the way th
 
 Beryl saw Baobhan Sith as a like-minded playmate and was simply working together with her as a friend who’s on the same wavelength as her. Baobhan Sith, a maiden in love with love, held Beryl very dear in her own way, but Beryl was only ever interested in Mash.
 
-**Speaking of which, the “clingy princess” Beryl mentioned in one of their Crypter meetings was Baobhan Sith, right? This was a widely discussed topic among fans on the internet…
+**Speaking of which, the “clingy princess” Beryl mentioned in one of their Crypter meetings was Baobhan Sith, right? This was a widely discussed topic among fans on the internet…**
 
 Nasu: 
 He was referring to Baobhan Sith for sure. The things Beryl said in that Crypter meeting were a pack of lies. The man’s a bad wolf. He laces and embellishes his lies with the truth, all the while hiding the important details. While it was true that Baobhan Sith followed him around, he deliberately phrased it in a way that would give others the wrong idea. 
