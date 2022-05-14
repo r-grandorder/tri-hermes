@@ -4947,7 +4947,7 @@ The Grand Order!
 In the name of the magical world's highest order. 
 We will take back the future! 
 
-<div>
+
 
     <meta content="r/grandorder Wiki" property="og:title">
     <meta content="Fuyuki Singularity Transcript" property="og:description">
@@ -4956,4 +4956,3 @@ We will take back the future!
     <link type="application/json+oembed" href="statics/embed.json" />
     <meta name="theme-color" content="#C65A31">
 	
-</div>
