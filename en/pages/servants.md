@@ -98,7 +98,7 @@
 
 **Lakshmibai**
 
-* [Interlude](Interludes/Lakshmibai.md)
+* [Interlude](Interludes/Lakshmi Bai.md)
 
 
 ## Archer
@@ -182,6 +182,10 @@
 **Napoleon Bonaparte**
 
 * [Interlude](Interludes/Napoleon Bonaparte.md)
+
+**William Tell**
+
+* [Interlude](Interludes/William Tell.md)
 
 **Aśvatthāman**
 
@@ -373,7 +377,7 @@
 
 **Reines - Sima Yi**
 
-* [Interlude](https://redd.it/hkvs18) ~ To be formatted
+* [Interlude](Interludes/Sima Yi - Reines.md)
 
 ## Caster
 
@@ -695,7 +699,7 @@
 
 **Qin Shi Huang**
 
-* [Interlude](https://queenofnohr.tumblr.com/post/624385049564987392/shi-huangdi-interlude-the-arbiters-melancholy/amp?__twitter_impression=true) ~ To be formatted
+* [Interlude](Interludes/Qin Shi Huang.md)
 
 **Astraea**
 

@@ -16657,7 +16657,8 @@ I was unable to extract the so-called Sirius Light, so we'll have to just give u
 Hmm, the hieroglyphic predictions say 'No problem. Rebel. Eyelids, eyelids'. 
  
 **Sion:**
-I haven't the faintest clue. Might as well be in Arabic. Well, let's ignore this too. 
+I have no clue. Arabic please!
+Oh well, let's ignore this one for now. 
  
 **Sion:**
 More importantly, what we ought to be paying attention to right now is our dear lady. I wonder what move she'll make. 

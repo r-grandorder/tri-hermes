@@ -6293,7 +6293,7 @@ Okay, now seems like as good a time as any for a bit of a chat.
 **Peperoncino:**
 Plus, now that you've shown me what the Reverse Side of the World looks like, it's only fair that I reciprocate, no? 
  
-<b>--SECTION BREAK--</b>
+**--SECTION BREAK--**
 
 The rift between worlds. The inside of nothingness. The gap between heaven and earth. The space outside the universe. 
 Here, where a single moment spans an eternity, only he, and the few beings he acknowledges, are able to exist. 
@@ -6410,7 +6410,7 @@ Thus, the world is reborn...its cycle begins anew...
 		XXXXXth Yuga Cycle – Inception 
  
 
-<b>--SECTION BREAK--<b>
+**--SECTION BREAK--**
 
 **Peperoncino:**
 So, I'm sure you've all at least figured out this much, but that Arjuna is the core of this Indian Lostbelt. 

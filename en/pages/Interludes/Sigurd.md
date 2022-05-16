@@ -1,1017 +1,1544 @@
 # Sigurd
 
-Note: Translated by Smoof: [Part 1](https://redd.it/j5avbf), [Part 2](https://redd.it/j5b3uz)
-
-## It has no mass, no shape, yet it exists. 
+## With Neither Mass Nor Shape, Yet Real
 
 **Narration:**
--It burns, it burns, it’s burning.
--It burns with love, it burns with a soul, it burns with passion, and it is something that channels happiness.
--Ahh, my flame, my blaze has yet to weaken.
+...My inner fire continues to burn.
 
-It refuses to freeze, it melts ice and snow….
-This power within me, still rages on.
+**Narration:**
+It scorches my body, singes my heart,
+sears my passion, and sublimates my bliss.
 
-Even now.
-It opens up in a forest where you set up camp.
+**Narration:**
+Even after all this time,
+my flames show not a single sign of deterioration.
 
-**Fujimaru:**
-Sigurd, the stew is ready.
+**Narration:**
+They reject the cold,
+and melt any ice or snow that draws near.
+
+**Narration:**
+Even now, this power that lies within
+me burns as fiercely as ever.
+
+**Narration:**
+Yes...even now.
+
+---
+
+**Fujimaru 1:**
+Stew's ready, Sigurd.
+
+
+---
 
 **Sigurd:**
-Well, well, I’m very grateful.
-Servants don’t need to eat food, but if you’re not low on it, then I am happy to partake with pleasure.
+You are too kind, Master.
+
+**Sigurd:**
+While we Servants have no need for sustenance, I would be happy to partake if there is enough to go around.
 
 **Mash:**
-It’s alright. There’s always more. We have around more than we can eat.
+Oh yes, there's plenty. So much that you'd
+be doing us a favor by helping us eat it.
 
 **Fou:**
-Fou, fou.
+Fou fou.
 
 **Martha:**
-Sorry about that. Whenever I’m the cook, I tend to make enough for a large family for some reason. Though I am cut out for camping with many people, my habits turned lead to some messy wastes at times like this.
-
-**Fujimaru:**
-But isn't it tasty?
-This is so splendid!
+I'm so sorry. I always seem to end up making enough to feed a whole family when it's my turn to cook.
 
 **Martha:**
-Well now. Thank you, Master. It’s just an incentive for someone who stands in the kitchen.
+I'm sure it would be great if there were a large number of us camping out, but when it's only a few of us, I always feel like I'm being careless and wasteful.
+
+---
+
+**Fujimaru 1:**
+Hey, as far as I'm concerned, the important thing is that your food is yummy.
+
+**Martha:**
+Oh, well thank you, Master. I'm glad to hear that.
+We cooks can always use more positive feedback.
+
+
+---
+
+**Fujimaru 2:**
+I don't mind. It's like a decadent feast!
+
+**Martha:**
+Well, that's kind of you to say, Master.
+...That WAS a compliment, right?
+
+
+---
 
 **Sigurd:**
-….Indeed, it’s such a warm flavor. I think this is something that would be a family meal.
+Hmm, this food is somehow...heartwarming.
+Is this what home cooking usually tastes like?
 
 **Martha:**
-I wonder. When I was making it for a family, it would generally look something like this.
-You said it was a family meal...I suppose you’re right on that.
-I made it warm, nourishing, and without trying to be fancy. I think that would be plenty.
+I'm not sure. This is usually what meals were
+like back when I cooked for my own family...
+
+**Martha:**
+...but I don't know if that alone
+qualifies it as home cooking.
+
+**Martha:**
+Still, as long as the food is hot and nutritious, and everyone can relax and be themselves while they eat it, I think that's all you need.
 
 **Sigurd:**
 I see, I see.
-I would be forgetful about the taste of homemade dishes since I’m an ancient hero.
-
-**Fujimaru:**
-Really?
 
 **Sigurd:**
-Yea.
-I…*munch*....was raised with only my mother…. *munch* *munch*....
+I ask because, as something of an older hero myself,
+I tend to forget what home cooking was like.
+
+---
+
+**Fujimaru 1:**
+You do?
+
+
+---
+
+**Sigurd:**
+I do.
+
+**Sigurd:**
+You see... (Munch) While my mother did raise me...
+(Munch, munch)
 
 **Martha:**
-Hey, don’t talk while you’re eating. You're a great hero, right? That’s bad manners!
+Stop that! Didn't your mother teach you not to talk with your mouth full? A great hero should be setting a much better example!
 
 **Sigurd:**
-…..My apologies. *munch* *munch*....
+...Yes, you're right. My apologies.(Munch, munch)...
 
-**Fujimaru:**
-(He’s chewing it all so thoroughly)
+---
+
+**Fujimaru 1:**
+(Now he's savoring every bite...)
+
+
+---
 
 **Martha:**
-...Well, that’s silent meals are another problem. You can talk in between bites.
+...Well, that doesn't mean we need to eat in complete silence, either. I'm happy to talk during meals, as long as we don't do so while chewing.
 
 **Sigurd:**
-Makes sense.
-...My father, the warrior Sigmund, unfortunately, died during a battle back when I was a baby.
+Good point.
+
+**Sigurd:**
+...My father, the great warrior Sigmund,
+died in battle when I was still a baby.
 
 **Martha:**
-………
-I’m....sorry to hear that...
+...
+
+**Martha:**
+I see. I'm sorry for your loss.
 
 **Sigurd:**
-Warriors die when they are killed in battle.
+Fortunately, I was not yet of fighting age, or he may have given me a baby battle instead of a baby bottle.
 
 **Fou:**
 Fou!?
 
 **Martha:**
-Huh!?
-Why did you say that!? Though the joke crossed my mind for a second!
-….Ahh! I said nothing just now, I said nothing just now!
+Bwa!?
+
+**Martha:**
+Why would you say such a thing!?
+It doesn't even make sense!
+
+**Martha:**
+Gah! Never mind!
+Let's just forget that last part!
 
 **Sigurd:**
-My apologies. My nature forces me to say everything I think.
-So much that my love advised me “You should refrain from trying to make jokes.”
-Anyhow, with the death of my father and my mother’s second marriage….my upbringing was entrusted by a certain blacksmith.
+Forgive me. Once I get a joke in my head,
+I simply cannot stop myself from saying it.
+
+**Sigurd:**
+Even my beloved has told me less is more
+when it comes to my attempts at humor.
+
+**Sigurd:**
+At any rate, after my father's death, my mother took a new husband, and a blacksmith friend of the family was entrusted with my care.
 
 **Mash:**
-That’s---
+And that was&ndash;
 
--
+---
 
-**Fujimaru:**
-Could it be Regin?
-Who is it?
-
-Note: If you choose Option 1:
+**Fujimaru 1:**
+You mean Regin?
 
 **Sigurd:**
-Oh, if you know about my legend, then it makes the conversation easier.
-That’s correct, it is Regin.
-
-Note: If you choose Option 2:
+Indeed, I do.
 
 **Sigurd:**
-The man’s name is Regin. He adopted and raised me.
+If you are familiar with my legend,
+that will save us time.
+
+
+---
+
+**Fujimaru 2:**
+What was this blacksmith like?
+
+**Sigurd:**
+His name was Regin,
+and he raised me as though I were his own son.
+
 
 ---
 
 **Mash:**
-Was he... strict?
+Was he strict?
 
 **Sigurd:**
 Of course.
-Regin was necessary to train me as a hero. That’s why I was trained to become a hero when I was a kid.
-
-**Narration:**
-The principles of the sword. The handling of the lance. The technique of the bow. The arts of the axe.
-I was taught on how to fight with every weapon in every way possible, and I myself studied avidly.
-Along with that, I had to train my body.
-I had to run from morning to dawn, dashing through the grasslands without making any noise.
-I was taught how to hunt animals. I was taught how to defeat people.
-I learned how to defeat heroes, warriors and soldiers. I even knew how to take on a demon.
--When I was a child, I was born to train.
--I had to accept the fate of becoming a hero.
--It’s not bad.
--It wasn’t bad at all though.
 
 **Sigurd:**
-….Well, looking back on it, it was very severe.
+He had to be, to ensure I would grow up to be a hero.
+
+**Sigurd:**
+Thus, I was trained to be a hero from a very young age.
 
 **Narration:**
--The words came out of my mouth without any hesitation nor realization just like that.
+I was taught swordsmanship. Spear handling.
+Archery. Axe theory.
+
+**Narration:**
+I learned how to fight with every weapon under the sun, and still I hungered greedily for even more knowledge.
+
+**Narration:**
+My curriculum also included mandatory physical training.
+
+**Narration:**
+From sunrise to sunset, I would run nonstop across the plains without disturbing so much as a blade of grass.
+
+**Narration:**
+I learned how to hunt beasts,
+and how to incapacitate people.
+
+**Narration:**
+I mastered ways to defeat soldiers, warriors, and heroes, and how to fight on equal ground against those of more demonic natures.
+
+**Narration:**
+My training began practically the day I was born. As long as I can remember, I knew I was destined to become a hero, and had made my peace with it.
+
+**Narration:**
+But despite what you might think,
+I did not think of it as a burden...
+
+**Sigurd:**
+...No, on second thought, I suppose I did.
+
+**Narration:**
+
+The words were out of my mouth
+before I knew what I was saying.
 
 **Martha:**
-Indeed it was. It was...very severe.
-But, I’m surprised, Sigurd. I thought you were the type who would never admit you’re hurting.
+I see... I don't blame you.
+I can only imagine how hard that must have been.
+
+**Martha:**
+Though I am surprised to hear you say that, Sigurd. You always seemed like the type to keep those kinds of thoughts to yourself.
 
 **Sigurd:**
-Indeed.
-But the one I must profess my love to is absent. Here I have only companions who I can entrust my life with without any hesitation. 
-It should be acceptable to let out a little feeble complaint. That’s what I had thought.
+True, I suppose I usually am.
+But in this case...
+
+**Sigurd:**
+I thought that with my beloved elsewhere, and only a few comrades in arms I trust with my life here...
+
+**Sigurd:**
+...I could permit myself a moment of vulnerability and share how I truly feel.
 
 **Mash:**
--
+...
 
 **Martha:**
-…..
-Ahem!
-….Let’s continue our meal, shall we.
-
-**Fujimaru:**
-Martha-san, you’re embarrassed…!
+...
 
 **Martha:**
-Hey, focus on your meal!
-….Well.
-I got flustered because person from a different country and era could show this much trust on us.
+Ahem! W-well go on, keep eating. The food's
+certainly not getting any warmer, after all.
+
+---
+
+**Fujimaru 1:**
+You caught Martha completely off guard!
+
+
+---
+
+**Martha:**
+What did I just say!?
+...Still, can you blame me?
+
+**Martha:**
+I think anyone would be touched to be trusted so implicitly by someone from such a different time and place.
 
 **Sigurd:**
-Hahaha, my apologies for that.
+Hahaha, I do apologize if I embarrassed you.
 
 **Martha:**
-Your cruel days… I can’t even imagine that.
-But I’ll pray for you anyways.
-In respect to your cruel days and the faith that allowed you to never give in until you became a hero.
+At any rate, I can scarcely imagine how hard
+that kind of life must have been for you.
+
+**Martha:**
+But if nothing else, I can certainly pray for you.
+
+**Martha:**
+Consider it a sign of respect for the conviction that helped you get through those hard times and become the hero you are today.
 
 **Sigurd:**
-Indeed, it is as you say, Martha-dono.
-My days were harsh and heavy.
-But, all of that was the reason that I would be here right now. It’s something I can smile at when I look back on it.
-Though, I’ll certainly beat up Regin if I ever meet him again.
+You may well be right, Lady Martha.
+
+**Sigurd:**
+It was a difficult time in my life, to be sure...
+
+**Sigurd:**
+...but since I would not be here today had I not experienced it, I can look back on it fondly.
+
+**Sigurd:**
+That being said, if I were to encounter Regin now,
+I have no doubt I would punch him right in his face again.
 
 **Fou:**
-Fou, fou….
-
-**Sigurd:**
-That’s right.
-Given that it’s already recorded in myth, I will keep it short: Regin deceived me.
-He was planning on obtaining the treasure that was leftover after I defeated the wicked dragon.
-And for that to happen, he considered eliminating me...so I became an obstacle to him.
-
-**Mash:**
-That’s...really terrible.
-
-**Sigurd:**
-Indeed. However, I turned the tables on him, as you can tell.
-
-**Martha:**
-I-I see. That’s the part you’re proud of.
-
-**Sigurd:**
-Naturally. I never thought of myself as a hero of justice once. However-
-No matter how you put it, it is evil to raise me and then sweet talk me into a sneak attack for treasure.
-So me turning the tables on him fits in the general idea of justice.
-
-**Martha:**
-Well, I suppose so. He deceived and betrayed you for money.
-
-**Mash:**
-….. Do you resent Regin-san, Sigurd-san?
-
-**Sigurd:**
-Well, when you say like that, I look back at myself and I don’t resent him particularly.
-
-**Narration:**
--I certainly don’t feel any grudge.
--Just sadness.
-
-**Sigurd:**
-I am grateful that he raised me as a hero.
-Above all else, if I hadn’t followed that route, I wouldn’t have met my love.
-I suppose there is a fine line between good luck and bad luck.
-
-**Martha:**
-Isn’t that called being optimistic?
-
-**Sigurd:**
-….Is that what it was….!?
-
-**Martha:**
-You were shocked by that!?
-
-**Sigurd:**
-I was never called optimistic by anyone due to my formal personality.
-I couldn’t help but be curious until now, I see...so I’m optimistic, huh…
-
-**Martha:**
-Being able to understand yourself after your death is a Servant’s strong point, I suppose.
-From now on, you should devote yourself to studying what it means to be optimistic.
+Fou fou...
 
 **Sigurd:**
 Indeed.
-In my opinion, you seem to be an optimistic person as well, Martha-dono.
-You have a solid iron heart with a soft affection that surrounds it and you hold hope for others.
-
-**Martha:**
-Hmm.
-….I see. I guess I’m optimistic as well.
-I do believe that most times it’s better to take action than to be worrying.
 
 **Sigurd:**
-I assume you wouldn’t have been a saint if you weren’t able to do that.
-I’m impressed.
-
-**Martha:**
-You’re making me feel a bit embarrassed with all the praise…
-
-**Martha:**
-Thank you for the meal.
-At any rate. I wonder if there's actually a wicked dragon in this singularity.
-What do you think, Sieg?
-
-**Sieg:**
-
-It’s certainly the same kind…. no, the may not be the same species as me.
-But, with a presence like that, there’s no mistaking it.
-Apart from that, the stew was very delicious.
-
-**Martha:**
-Oh, I seasoned yours fairly strong.
-
-**Sieg:**
-I appreaciate.
-My sense of taste is duller than a human’s, so I won’t know what it tastes like unless it’s strong.
-….It’s alright. It’s delicious.
-
-**Martha:**
-I’m glad, I’m glad.
-Now then, since we’re done eating, then let’s go searching again.
-This time, we’re going to defeat that wicked dragon.
-...Or rather, let’s exorcise it...with a prayer and compassion magnificently to our frontline…
-
-**Fujimaru:**
-I’ll follow your lead, Iron Fist Sister!
-How promising.
+While we are on the subject&ndash;I would not normally tell you this next part, but since it is already part of my legend, I see no reason to refrain.
 
 **Sigurd:**
-Indeed.
-A wicked dragon will be no formidable opponent with two dragon slayers, me and Martha-dono.
+Unfortunately, Regin deceived me. He planned to make off with the evil dragon's treasure after I slew it...
+
+**Sigurd:**
+...even if it meant killing me to get me out of his way.
 
 **Mash:**
-Let us depart.
-
-**Fujimaru:**
-(I want seconds…)
-Alright, let’s go!
-
-**Sieg:**
-Alright.
-I understand how Siegfried fights quite well…
-But this is my first time fighting alongside Sigurd. I’m looking forward to it very much.
+Oh gosh. That's...terrible.
 
 **Sigurd:**
-Alright, I will answer to this young boy’s expectation. It is a responsibility of a hero.
-I’ll show you the best of the best.
-
-**Narration:**
--I don’t smile. I can’t smile. It’s unnecessary for me to smile.
--I don’t get angry. I can’t get angry. It’s unnecessary for me to get angry.
--I don’t get sad. I can’t get sad. It’s unnecessary for me to get sad.
--I never particularly desired happiness.
-
-“That's good enough,” said the blacksmith that raised me.
-“You’re a weapon, a blade, a guard that protects the weak.”
-
-I need to earn my status as a hero.
-That eventually led into a tragedy.
-
-….Those words of deception had a ring of reality somewhere in them.
-Out of a million people, there will be ten thousand people among them that are outstanding.
-
-And suppose you had to choose only one hundred people within those ten thousand outstanding people.
-There is no one that is superior or inferior to the others in all three qualities: heart, technique and physique-
-
-Those hundred people can do anything.
-And out of those hundred people.
-You pick only one person.
-Such beings exist.
-
-A mighty person that draws the blood of God, a person that embodies miracles, a person who holds nerves of steel, and a person who holds power which is not human.
-
-We call those people heroes.
-Those men and women are given life by the flow of history and raised by human passion.
-Even I myself.
-I may be even one of them.
-I do not object to manifesting and swinging this sword.
-This power could help the world.
-
-Alas, however.
-It’s hard to describe, it's some sort of pleasant feeling, it’s probably a habit.
-It’s buoyant and it feels like somewhere in a dream.
-It’s as if this is a--
+Indeed. But by then, he was no match for me,
+and I quickly turned the tables on him.
 
 **Martha:**
-SIGURD!!
-
-A dragon is in front of him.
+I, uh, I see. You're very proud of that, aren't you?
 
 **Sigurd:**
-….!
+Of course.
 
-A dragon stomps Sigurd, but he manages to dodge it.
+**Sigurd:**
+I've never thought of myself as a righteous hero...
+
+**Sigurd:**
+...but surely, anyone who could stoop so low as to stab a child he raised in the back must be irredeemably evil.
+
+**Sigurd:**
+So I think my killing him in retaliation must therefore have been a righteous act.
 
 **Martha:**
-What’s wrong, you’re a warrior, why did you lose focus!?
-
-**Sieg:**
-Was the meal that delicious that it made him sleepy on a full stomach…?
-
-**Sigurd:**
-My apologies. I was thinking for a bit.
-
-**Martha:**
-So that’s what it was, I’m glad. I thought it was surely a mind attack.
-I’m beyond impressed at how you can get lost in thought in front of an opponent like this.
-
-**Sigurd:**
-Sorry.
-….From here on out, I’ll make up for your worries and discontent.
-Master, your orders!
-
----
-
-**Fujimaru:** 
-
-[Sigurd, strike it at the center]
-
-[Cover for Sieg and Martha-san]
-
-If you choose Option 1:
-
-**Sigurd:**
-
-Understood.
-Please supply me with mana, then, here I come!
-
-If you choose Option 2:
-
-**Martha:**
-
-I’ll leave it to you. Whatever injury you have, I’ll immediately heal it.
-
-**Sieg:**
-
-I’ll activate my Noble Phantasm so that I can support you as well.
-
-**Sigurd:**
-
-And I’ll charge at it. Alright, let’s go!
-
----
-
-
-In Battle:
-
-If choose Option 1:
-
-Only Sigurd will be buffed with the skill: [Dragonslayer, On guard!]
-
-If chose Option 2:
-
-Sigurd will be buffed with the skill: [Dragonslayer, On guard!]
-
-The team will be buffed and enemies will be burnt with the skill: Martha and Sieg’s Support [We’ll leave it to you]
-
-
----
-
-**Sigurd:**
-Alright. Annihilation confirmed, Master.
-
-**Fujimaru:**
-[Thanks for your hard work-]
-
-**Sigurd:**
-Yea.
-
-**Martha:**
-That said, this singularity still can’t completely be corrected, we can’t let ourselves lose focus.
-And Sigurd. Would you like to explain why you were lost in thought in the middle of battle?
-
-**Sigurd:**
-I should.
-Thinking about it logically, it was inexcusable for me to think about something else in the middle of battle.
-
-**Narration:**
-However-
-
-**Sigurd:**
-I have made a mistake. I’m very sorry.
-
-**Fujimaru:**
-[N-now, now.]
-
-**Sieg:**
-I’m surprised that you can even make mistakes.
+Yes, you do have a point. There certainly isn't much good to say about a man who would betray his charge for riches.
 
 **Mash:**
-I’m also surprised…
+...Do you hate Regin for what he did to you, Sigurd?
+
+**Sigurd:**
+......
+
+**Sigurd:**
+No, I don't think so. I don't have much love for him now, but I wouldn't say I especially hate him either.
+
+**Narration:**
+
+No, I don't hate him. But it did pain me that things turned out how they did.
+
+**Sigurd:**
+If nothing else, I do owe him a debt of gratitude for his work raising me to be the hero I became.
+
+**Sigurd:**
+And above all, I would never have met my
+beloved had he not set me on that path.
+
+**Sigurd:**
+I suppose it just goes to show there is a thin line
+between good fortune and bad.
 
 **Martha:**
-Sigh… Right now, it was a mistake that we could cover for, to a certain degree, but it won’t be the case for next time.
-If you think you can solve the problem by yourself, be sure to solve it.
+Don't you think you're being a little overly optimistic?
 
 **Sigurd:**
-Alright, from here on out, I’ll be more careful.
-
-**Sieg:**
-….?
-
-**Sigurd:**
-What’s wrong?
-
-**Sieg:**
-Ah, nothing. It’s nothing. Probably my imagination.
-(Is it my imagination that he seemed to be having fun…)
-Hm.
-Just a little deeper into the forest, I sense dragon presences there.
-
-**Fujimaru:**
-You know how many?
-
-**Sieg:**
-Many small, two medium and one big.
-Thinking back on what I’ve already sensed, the smaller ones are wyverns and the medium-sized ones are dragons.
-I presume the big one is...Fafnir.
-
-**Sigurd:**
-Then, the Singularity will be resolved if we defeat that, huh.
+......Now that you mention it...!
 
 **Martha:**
-Perhaps, yea.
-...No matter how many times I encounter Wicked Dragon Phenomenon, I can never get used to the idea of fighting Fafnir.
+Oh come now!
+Surely there's no need to be that shocked about it!
 
 **Sigurd:**
-I understand how you feel.
-
-**Sieg:**
-Speaking of which, Siegfried says he doesn’t remember anything about his fight with Fafnir.
-All he recalls is that the battle was like chess or shogi (?) in how making a single blunder can prove to be fatal.
-He remembers this game state repeating enough times to drive him crazy, and he believes this is why he doesn’t remember how he defeated it.
+It's just that I'm usually so straitlaced that no one has ever called me optimistic before.
 
 **Sigurd:**
-Fierce battles are often like that.
-With my battle against Fafnir, I remember that I won, but I couldn’t tell you how I fought him-
-What was it like, I wonder?
+I never even realized it until now...
+I see. So I'm an optimist...
 
 **Martha:**
-You used that sword, right?
-
-**Sigurd:**
-I am only certain of that.
-However, something is strange.
-I was praised as a hero and a warrior, and with my dreadful days gone by, my name remains as a dragonslayer.
-And yet, I can remember more of my daily life than my fierce battles.
-I wonder if that’s alright.
+Arguably, one of the best parts of being a Servant is
+getting to better understand who we are even after we die.
 
 **Martha:**
-….Geez.
-How unusual for you to second guess yourself. That’s a good thing, Sigurd. Without a doubt.
+Now that you know you're an optimist, you should work on polishing your optimistic nature.
 
 **Sigurd:**
-Indeed.
-Maybe once this journey to save humanity ends, our mundane days here will remain more memorable than our battles.
-
-**Fujimaru:**
-[Isn’t that...a good thing?]
-
-**Sigurd:**
-You think it’s a good thing, Master?
 I see.
 
+**Sigurd:**
+From where I stand, it appears you
+are also an optimist, Lady Martha.
+
+**Sigurd:**
+For it is through your heart of iron wrapped in gentle
+mercy that you bring hope to people everywhere.
+
+**Martha:**
+Oh?... Now that you mention it,
+I suppose I probably am an optimist.
+
+**Martha:**
+But that's okay. I think it's much better to be an incurable optimist than to bemoan the state of the world without doing anything to improve it.
+
+**Sigurd:**
+With that attitude, it is little wonder you became a saint. My mask&ndash;er, hat is off to you.
+
+**Martha:**
+It's a little embarrassing,
+hearing you praise me like that...
+
+**Martha:**
+Thank you once again for this meal, O Lord.
+
+**Martha:**
+At any rate, I'm still wondering if there truly
+is an evil dragon in this Singularity.
+
+**Martha:**
+What do you make of it, Sieg?
+
 **Sieg:**
-I sense presences from a cave further up ahead…. I may be imagining things, but their numbers feel higher than before.
+They're definitely the same species as me...
+Well, that might not be entirely accurate...
 
-**Sigurd:**
-….This is bad, they’re probably giving birth.
-
-**Martha:**
-You’re joking, they don’t grow this quickly, do they!?
-
-**Sigurd:**
-It might be due to the Singularity.
-It’s either that they have a strong leyline nearby, otherwise they’re holding the power of the Holy Grail.
-Either way, we have to hurry.
-
-**Fujimaru:**
-[Understood!]
-
-**ARROW:**
-
-You and the others are inside the cave and look around. The dragons there seem longer around their own kind. Fafnir comes and roars and in response the others roar as well.
+**Sieg:**
+But whatever species they are, I can definitely sense
+them here. Also, on a completely different subject,
+the stew is delicious, Martha.
 
 **Martha:**
-Ugh, it looks awful…!
+Thank you, Sieg.
+I made sure to season your bowl extra strong.
+
+**Sieg:**
+I appreciate that.
+
+**Sieg:**
+My tongue isn't as sensitive as humans', so I need strong flavors just to taste anything at all.
+
+**Sieg:**
+...Mmm, this really is delicious.
+
+**Martha:**
+I'm glad to hear that.
+
+**Martha:**
+All right, once you're done with dinner, we'll get back to searching. And this time, we're going to find those dragons and take care of them once and for all.
+
+**Martha:**
+And by take care of, I mean confront them and lay them to rest with mercy and prayer.
+
+---
+
+**Fujimaru 1:**
+Lead the way, Ms. Iron Fist!
+
+**Martha:**
+How many times do I have to tell you!? I'm a Rider!
+A Rider devoted solely to healing others!
+
+**Sieg:**
+(Why is she upset?
+Does she not like being called “Ms.”?)
+
+
+---
+
+**Fujimaru 2:**
+With a lineup like this, I don't see how we can lose.
+
+**Sigurd:**
+Indeed.
+
+**Sigurd:**
+Between two renowned dragon slayers like myself and
+Lady Martha, I almost feel sorry for our targets.
+
+
+---
 
 **Mash:**
-It looks as if we were in Orleans that one time.
-We have to hurry before they overwhelm us with their reproduction speed.
+All right then, shall we get going?
+
+---
+
+**Fujimaru 1:**
+(I was kind of hoping for seconds...)
+
+**Martha:**
+Don't worry, Master. If you liked my stew that much, I'd be happy to make another pot for you after we get back.
+
+**Sigurd:**
+Could I partake in this new pot of stew as well?
+
+**Martha:**
+Well of course. Like I said, I always make too much anyway. When it comes to cooking for large groups, I daresay I could even give Cat a run for her money.
+
+
+---
+
+**Fujimaru 2:**
+Let's do it!
+
+**Sieg:**
+Right.
+
+**Sieg:**
+I like to think I've known for some
+time now how Siegfried fights...
+
+**Sieg:**
+...so I'm really looking forward to fighting
+alongside you for the first time, Sigurd.
+
+**Sigurd:**
+I see. Well, since one of a hero's duties is to
+live up to young boys' expectations for them...
+
+**Sigurd:**
+...I'll have to do my best to show off what I can do then.
+
+
+---
+
+**Narration:**
+I don't smile. I can't smile.
+I don't need to smile.
+
+**Narration:**
+I don't get angry. I can't get angry.
+I don't need to get angry.
+
+**Narration:**
+I don't get sad. I can't get sad.
+I don't need to get sad.
+
+**Narration:**
+...Nor do I ever particularly wish for happiness.
+
+**Narration:**
+The blacksmith who raised me said that was fine.
+
+**Narration:**
+He said I was a weapon, a blade, a guardian meant to protect those who can't protect themselves.
+
+**Narration:**
+He also said if I was going to be a hero, I shouldn't try to develop a personality of my own, as doing so would only end in tragedy one day.
+
+**Narration:**
+Though his words stung, I couldn't deny that there was a hint of truth to them.
+
+**Narration:**
+If one were to assemble a group of one million people, ten thousand of them would no doubt be well above average.
+
+**Narration:**
+Let's say that from those ten thousand,
+a hundred of the very best were chosen.
+
+**Narration:**
+That would mean that there were no fewer than a hundred people who excelled in every possible way&ndash;mental, physical, and spiritual alike.
+
+**Narration:**
+And among those hundred...
+there is one truly exceptional being.
+
+**Narration:**
+They may be descended from gods...bring miracles
+ to life...have wills like solid steel...or possess
+inhuman power.
+
+**Narration:**
+Those beings are called heroes.
+
+**Narration:**
+They are birthed by the tides of history,
+and cultivated by the passions of their fellows.
+
+**Narration:**
+I expect that I, too, am one of them.
+
+**Narration:**
+As long as this power of mine can be of use to the world, I have no qualms about materializing and wielding my sword.
+
+**Narration:**
+But...there is also something else.
+An itch that is somehow indescribably pleasant.
+
+**Narration:**
+Something about it feels nearly dreamlike.
+It's almost as if&ndash;
+
+**Martha:**
+#### Sigurd!
+
+**Sigurd:**
+...!
+
+**Martha:**
+What happened!? How could a warrior of
+your caliber become so distracted!?
+
+**Sieg:**
+Were you so nice and full from that delicious
+meal that you got sleepy or something?
+
+**Sigurd:**
+No, nothing like that. Forgive me.
+I was simply a bit lost in thought.
+
+**Martha:**
+Oh, thank goodness. I was worried you had
+been hit with some sort of mental attack.
+
+**Martha:**
+Though in that case, I'm impressed you can afford to get lost in thought while we face such a fearsome opponent.
+
+**Sigurd:**
+I'm sorry.
+
+**Sigurd:**
+Rest assured, I will do everything I can to allay your concerns, starting right now.
+
+**Sigurd:**
+What are your orders, Master!?
+
+---
+
+**Fujimaru 1:**
+Hit it hard, and bring it down quickly.
+
+**Sigurd:**
+Understood. Then I would ask that you please
+send some more magical energy my way.
+
+**Sigurd:**
+Thank you, Master.
+All right, beast...have at you!
+
+
+---
+
+**Fujimaru 2:**
+Martha, Sieg, I'd like you to back Sigurd up.
+
+**Martha:**
+Leave it to me. I'll make sure to heal every injury sustained, down to the slightest scratch.
+
+**Sieg:**
+I'll cover you with my Noble Phantasm.
+
+**Sigurd:**
+Then I'll lead the charge against this beast.
+Let's go!
+
+
+---
+
+**--BATTLE--**
+
+**Sigurd:**
+There we go.
+All the creatures have been destroyed, Master.
+
+---
+
+**Fujimaru 1:**
+Great work, team!
+
+
+---
+
+**Sigurd:**
+Thank you.
+
+**Martha:**
+Don't let your guard down just yet.
+We still haven't finished repairing this Singularity.
+
+**Martha:**
+And Sigurd, I think you still owe us an explanation
+for why you spaced out in the middle of battle.
+
+**Sigurd:**
+Yes, I suppose I do.
+
+**Sigurd:**
+Letting your mind wander in the heat of battle is inexcusable.
+
+**Narration:**
+
+Still...
+
+**Sigurd:**
+I got careless.
+I'm sorry.
+
+---
+
+**Fujimaru 1:**
+I-it's okay. These things happen.
+
+
+---
+
+**Sieg:**
+I'm surprised. I never thought I'd see the
+day when you of all people slipped up.
+
+**Mash:**
+I was kind of surprised, too...
+
+**Martha:**
+...(Sigh) Fortunately, we were able to cover for your mistake this time, but we might not be so lucky next time.
+
+**Martha:**
+Still, whatever's going on, if you believe you can figure it out on your own, please make sure you do so.
+
+**Sigurd:**
+I will. Don't worry. It won't happen again.
+
+**Sieg:**
+...?
+
+**Sigurd:**
+Is something wrong?
+
+**Sieg:**
+Oh, no, it's nothing.
+Just my imagination.
+
+**Sieg:**
+(Though for a moment there, it really did look to me like he was enjoying himself...)
+
+**Sieg:**
+...
+
+**Sieg:**
+I'm sensing more dragonkin a little further ahead.
+
+---
+
+**Fujimaru 1:**
+Can you tell how many there are?
+
+
+---
+
+**Sieg:**
+There are lots of small ones, two medium-sized ones,
+and one big one.
+
+**Sieg:**
+Based on everything I've sensed so far, I'm guessing the small ones are wyverns, the medium ones are dragons...
+
+**Sieg:**
+...and the big one is a Fafnir.
+
+**Sigurd:**
+Then perhaps this Singularity will
+go away once we take care of them?
+
+**Martha:**
+I think it probably will, yes.
+Though of course, that's easier said than done.
+
+**Martha:**
+These evil Fafnir dragons are always formidable foes I prefer to avoid, no matter how many times I've faced them.
+
+**Sigurd:**
+Indeed.
+
+**Sieg:**
+Come to think of it, Siegfried says he doesn't remember anything about his own battle against Fafnir.
+
+**Sieg:**
+He says even a single battle with stakes as
+high as those, where even one small mistake can lead to your
+death, is enough to drive a person to insanity...
+
+**Sieg:**
+And since his went on for so long, he no longer has
+any recollection of how he managed to come out on top.
+
+**Sigurd:**
+It's true. That sort of thing is quite
+common in fiercely fought battles.
+
+**Sigurd:**
+While I also remember that I won my battle against Fafnir, I couldn't tell you how I did so.
+
+**Sigurd:**
+Much as I wish I could.
+
+**Martha:**
+Well, I assume you at least used that sword against it.
+
+**Sigurd:**
+That much is certain, yes.
+Still...it's strange.
+
+**Sigurd:**
+I'm still remembered as a heroic dragon slayer to this day, even though it's been a staggeringly long time since I accomplished that feat.
+
+**Sigurd:**
+...But right now, I think I remember my ordinary life much more than I do that fearsome battle.
+
+**Sigurd:**
+I'm not sure if that's a good thing or not.
+
+**Martha:**
+Now you really aren't sounding like yourself. Of course
+it's a good thing, Sigurd. Of that, I have no doubt.
+
+**Sigurd:**
+I hope you're right.
+
+**Sigurd:**
+Maybe the same will be true for this journey to save humanity as well, and I'll remember the ordinary days far better than I will my battles.
+
+---
+
+**Fujimaru 1:**
+I'm gonna go out on a limb and say that's probably a good thing.
+
+
+---
+
+**Sigurd:**
+Do you think so, Master?
+
+**Sigurd:**
+I see... That's very reassuring.
+
+**Sieg:**
+I might just be imagining things, but I'm sensing there are even more creatures in the cave up ahead now than there were earlier.
+
+**Sigurd:**
+Well, that's not good.
+They must be birthing more to increase their numbers.
+
+**Martha:**
+That can't be right!
+How could they possibly grow up so fast!?
+
+**Sigurd:**
+Anything is possible in a Singularity.
+
+**Sigurd:**
+They may be close to a powerful leyline, or they may have attained the power of a Holy Grail...
+
+**Sigurd:**
+Either way, the sooner we eliminate
+the threat, the better.
+
+---
+
+**Fujimaru 1:**
+Roger that!
+
+
+---
+
+**--ARROW--**
+
+**Martha:**
+Yikes! They're absolutely everywhere!
+
+**Mash:**
+It's just like what happened in Orleans.
+
+**Mash:**
+We need to hurry, or they'll start reproducing
+faster than we can eradicate them!
+
+**Mash:**
 Master!
 
--
+---
 
-**Fujimaru:**
-[I’ll leave it to you to penetrate the center, Sigurd!]
-
-[At the very least, take care of the surroundings first…!]
-
-If you choose Option 1:
+**Fujimaru 1:**
+We're counting on you to help us tip the scales with the big one, Sigurd!
 
 **Sigurd:**
-
-Understood!
+Consider it done!
 
 **Mash:**
+We'll do our best to clear the way for you!
+Good luck, Sigurd!
 
-We’ll clear the way as much as possible!
-We’re counting on you, Sigurd-san!
-
-If you choose Option 2:
-
-Martha & **Sieg:**
-
-Understood!
-
-**Sigurd:**
-
-Alright, first, we’ll have to manage against these dragons.
 
 ---
 
-If you chose Option 1:
+**Fujimaru 2:**
+Let's start by taking care of as many of the smaller ones as we can!
 
-Sigurd and your team will be buffed by the skill:
-Martha and Sieg’s Support [We’ll open a path]
+**Martha & Sieg:**
+Understood!
+
+**Sigurd:**
+Indeed. We must do something about
+the dragonkin first and foremost!
+
 
 ---
 
-**Sigurd:**
-Here!
-Demonic Sword, ready, special move driving force-
-What thou see is indeed the dawn of destruction!
-Bolverk Gram!! (Heavenly Wheel of Destruction)
+**--BATTLE--**
 
-Sigurd defeats Fafnir and the battle is over.
+**Sigurd:**
+Now!
+
+**Sigurd:**
+My demonic sword is complete; my ultimate technique
+is ready. The time of your demise is at hand!
+
+**Sigurd:**
+#### Bölverkr Gram!!!
 
 **Mash:**
-Enemy is completely silent...it’s annihilated!
+You did it! The enemy has completely vanished!
 
 **Sigurd:**
 Good.
 
 **Martha:**
-YEAAA!
-...Ahem, good work everyone.
-With that, this Singularity will be quickly corrected.
+#### Booyah!
+
+**Martha:**
+...Ahem.
+Wonderful job, everyone.
+
+**Martha:**
+It shouldn't be long before this
+Singularity repairs itself now.
 
 **Sieg:**
-Guda, I mean Master.
-Let’s do that.
-
-**Fujimaru:**
-[Let’s do it, let’s do it.]
-
-**Sigurd:**
-Hm?
+Fujimaru&ndash;I mean, Master.
 
 **Sieg:**
-Yayy.
+Shall we?
 
-**Fujimaru:**
-[Yayy.]
+---
 
-You high five Sieg.
+**Fujimaru 1:**
+Hell yeah we shall.
+
+
+---
 
 **Sigurd:**
-What did you do just now?
+Oh?
 
 **Sieg:**
-It was a high five.
-I don’t know much of it, but it’s a ritual you do after when a difficult task is done.
+Wooo.
 
-**Sigurd:** 
-I see.
-Then, I’ll do it too.
+---
 
-[Yayy.]
+**Fujimaru 1:**
+Wooo!
+
+
+---
 
 **Sigurd:**
-Y-yayy.
-….I see, this is cool.
+What was that?
+
+**Sieg:**
+It's called a high five.
+
+**Sieg:**
+I'm no expert, but apparently, it's some kind of ritual you do once a job is complete.
+
+**Sigurd:**
+Hmm.
+Then I think I'll do the same.
+
+---
+
+**Fujimaru 1:**
+Wooo!
+
+
+---
+
+**Sigurd:**
+W-wooo.
+
+**Sigurd:**
+...
+...Hmm. This is nice.
 
 **Mash:**
-Well then, let’s head back. Thanks for your hard work, everyone.
-
-**Fujimaru:**
-[Nice work out there--]
-
-**Sigurd:**
-Yea.
-
-**Narration:**
--Ever since I came to Chaldea, I surprisingly had many opportunities to smile.
-I don’t know whether it’s a good thing or a bad thing. I really can’t tell the difference myself.
-Heroes don’t smile. They’re the ones that protect smiles.
-It was either Regin that said it or perhaps it was I myself.
-At any rate, I entrust myself in an environment that my living self could never havegotten a bit weaker.
-
-
-
-**Sigurd:**
-…..With that being said.
-From Master’s perspective, am I getting weaker?
+Great work today, everyone.
+Let's head back now, shall we?
 
 ---
 
-**Fujimaru:**
-[You’re totally strong though…]
+**Fujimaru 1:**
+Way to go, guys!
 
-[I don’t think so though….]
 
-If you choose Option 1:
+---
+
+**Sigurd:**
+Thank you.
+
+**Narration:**
+Strangely, I've found myself smiling
+much more ever since coming to Chaldea.
+
+**Narration:**
+I can't yet tell if that's a good thing,
+or a bad thing.
+
+**Narration:**
+Heroes aren't supposed to smile themselves.
+They're supposed to protect others' smiles.
+
+**Narration:**
+I don't remember if Regin told me that,
+or if I said it myself...
+
+**Narration:**
+But either way, the environment I'm in now is like nothing I could have imagined back when I was still alive.
+
+**Narration:**
+As a result, I think that, maybe...
+
+**Narration:**
+...I may have grown a little weaker.
+
+**--ARROW--**
+
+**Sigurd:**
+...So please, give it to me straight, Master.
+
+**Sigurd:**
+Do you think I've gotten weaker?
+
+---
+
+**Fujimaru 1:**
+If this is you weak, I can't imagine what strong looks like.
 
 **Mash:**
-That’s right.
-Sigurd-san shouldn’t have had a hard time even since he exterminated Fafnir already.
+It's true.
+
+**Mash:**
+We would have had a much more difficult time
+against Fafnir without your help.
 
 **Siegfried:**
-Yea, that’s right.
-Sigurd-dono, what makes you think that? In my eyes, your strength has never wavered.
-
--
-
-If you choose Option 2:
+There you have it, Lord Sigurd. And I too can vouch that you are still as strong as ever.
 
 **Siegfried:**
-It’s as Master says.
-Your strength hasn’t been weared down at all….
-Why on earth would it look like that?
+Tell us, why would you think otherwise?
+
+
+---
+
+**Fujimaru 2:**
+Not even a little.
+
+**Siegfried:**
+Master is right.
+
+**Siegfried:**
+You are every bit as strong as you ever were.
+
+**Siegfried:**
+Tell us, what in the world made you think otherwise?
+
 
 ---
 
 **Sigurd:**
-...I guess so…
-First, I was careless on the battlefield.
-And above all else, Fafnir is an enemy I used to be take down alone…
-Yet, with the way things were, I couldn’t beat him without the help of other Servants.
-“So I am weakening....” That’s what I thought.
+Well...
+
+**Sigurd:**
+For one, the fact that I let
+my guard down on the battlefield.
+
+**Sigurd:**
+But more significantly, it is the fact that I
+was once able to defeat Fafnir on my own...
+
+**Sigurd:**
+...yet this time, I was unable to do so without
+assistance from other Servants.
+
+**Sigurd:**
+The only explanation I could think of
+was that...I must have grown weaker.
 
 **Siegfried:**
-Certainly, seeing as though we are Servants, there are cases where we can be weaker than we were in our lifetime. 
-For example, the Saber version of myself can’t use Tarnkappe.
-If you think about it independently, we are, without a doubt, got weaker.
-
-**Sigurd:**
-So that’s what it was….
+True, there are definitely cases where we Servants
+are weaker now than when we were alive.
 
 **Siegfried:**
-...However, though.
-Coincidentally, I don’t feel weaker at all than how I was in my lifetime.
-That’s because-
-we have a Master. 
-And allies, who fight with us.
-That would be impossible in a situation like in a real Holy Grail War, but for that reason we’re able to roil our powers.
-
-**Sigurd:**
-……
-….I see, certainly.
-Well, you have my gratitude, Siegfried-dono.
-Though, I’d like to repay the favor in any way…
+For example, as a Saber,
+I can no longer use my Tarnkappe.
 
 **Siegfried:**
-Alright then, I only have one, there’s a person who wants to be trained.
+In a vacuum, one could indeed conclude that we have grown weaker.
 
 **Sigurd:**
-Hmmm.
+I knew it...
 
 **Siegfried:**
-….hahaha.
-Maybe you can understand what I said in the lesson.
+However...
+
+**Siegfried:**
+It might sound contradictory, but I'm also certain I don't feel any weaker now than I did when I was alive.
+
+**Siegfried:**
+And the reason for that...is our Master.
+
+**Siegfried:**
+Well, [♂ him /♀️ her] and the other companions
+alongside whom we've fought.
+
+**Siegfried:**
+While these kinds of circumstances would never come about during an ordinary Holy Grail War, they allow us to draw on this power.
 
 **Sigurd:**
-…..?
-
-It cuts over to a simulated wide field with Sigurd shining his glasses.
+...
 
 **Sigurd:**
-….That being the case, Sigurd has decided to train both of you.
+...I see. Yes, you're right.
+Thank you, Lord Siegfried.
 
-**Hokusai (Saber):**
-Of course.
-I heard about the conversation from Sir Siegfried.
-With this, I still plan to ascend the steps of sword fighting bit by bit.
+**Sigurd:**
+How can I repay you for your help?
+
+**Siegfried:**
+If you'd like to repay me, you can do so by sparring with a couple of people I know.
+
+**Sigurd:**
+Oh?
+
+**Siegfried:**
+...Hehehe.
+
+**Siegfried:**
+In fact, this sparring session might just
+help you truly understand what I mean.
+
+**Sigurd:**
+...?
+
+**Sigurd:**
+Good day. My name is Sigurd,
+and I'll be your sparring partner today.
+
+**Katsushika Hokusai:**
+Hell yeah! Siegfried told me all aboutcha.
+
+**Katsushika Hokusai:**
+This oughta get me another step closer
+ta bein' a bona fide swordmaster!
 
 **Sieg:**
-Well, I’m not really a Saber, but rather a Caster…
-Though in the grand scheme of things, many of my fights involve swords.
-Therefore, I think this training will prove to be a good reference.
-I look forward to it.
-
-**Sigurd:**
-….Haha.
-
-**Hokusai (Saber):**
-What’s wrong, Sir Sigurd?
-
-**Sigurd:**
-….Oops, my apologies. It’s nothing.
-Alright, let us start immediately.
-
-**Fujimaru:**
-[I’ll be on their side.]
-
-**Sigurd:**
-Alright.
-Well then-here I come!
-
-The fight starts as Sieg goes on the flank and Hokusai goes for a direct approach. As Hokusai and Sigurd clash, Sigurd manages to dodge three slashes and pushes Hokusai away.
-
-**Sigurd:**
-While your movements are quick, your sword slashes are largely messy!
-If you have multiple weapons, then you’re going to be hesitant on which one to use.
-You must first overcome that hesitation!
-
-**Hokusai (Saber):**
-A-alright..!
-
-Sieg goes on the side and stops.
+I'm a Caster, not a Saber...but I still tend to get involved in a lot of sword fights.
 
 **Sieg:**
-There!
-
-Sieg transforms into Siegfried and goes in on Sigurd. While he does overwhelm Sigurd, it is only for a bit before Sieg goes back to normal and Sigurd kicks him causing Sieg to drop down.
-
-**Sigurd:**
-You still rely on Siegfried’s power too much.
-I can’t blame you for getting impatient when your transformation only last for an instant-
-But you have more than enough time to use your techniques.
-
-**Sieg:**
-A-alright!
-
-Hokusai charges at Sigurd.
-
-**Hokusai (Saber):**
-Ryaaa!!!
-
-Sigurd clashes with Hokusai.
+So I think this sparring session will
+be extremely educational for me.
 
 **Sigurd:**
-Oops.
-….For all you lost your hesitation, your attacks got more monotonous this time around.
-Follow the principle of alternating feints and true swing, and try preparing at least three options to attack your enemy.
+...
+...Hehe.
 
-**Hokusai (Saber):**
-E-ehh. It’ll be tricky.
-
-**Sigurd:**
-It’s also good to assign codes to your options and think about through conditional reflex.
-For example, numbering your techniques.
-Here’s a 4, 7, 2, 5--
-
-He charges at the tree and slashes the tree up with pure swordsmanship.
+**Katsushika Hokusai:**
+Somethin' wrong, Sigurd?
 
 **Sigurd:**
-Simple, right?
-Both of them:
-......
-
-**Sieg:**
-I guess I still have a long way to get there….
+Oh, sorry. Not to worry, everything is fine.
 
 **Sigurd:**
-Is that so?
-….Well then, it’s alright if you associate them with something else.
-
-**Hokusai (Saber):**
-Ah-
-….Sir Sigurd, can I think about mine with pictures?
-Sorry for the silly idea.
-At least, I'm more familiar with that than numbers.
-
-**Sieg:**
-Then, I guess...I’ll think about Servant Classes.
-
-**Sigurd:**
-Why not?
-
-**Hokusai (Saber):**
-Yea, well then, young man Sieg! I’ll be going on ahead!
-
-**Sieg:**
-Young man….
-Well, it’s fine. I’m next then! Let’s go!
-
-**Sigurd:**
-Well then, come at me as much as you like!
-
--
-
-Skills:
-
-[Let’s go with Berserker] (Sieg’s Buff)
-
-[Yoshiwara Lattice] (Hokusai’s Buff)
-
-[Let’s go with Saber] (Sieg’s Buff)
-
-[Spring Night Beauty] (Hokusai’s Buff)
+Now, shall we get started?
 
 ---
 
-Both of them:
-Huff, puff, huff, puff..
+**Fujimaru 1:**
+I'm gonna fight on their side, 'kay?
+
+
+---
 
 **Sigurd:**
-Alright. That was not bad.
-If you keep training without a break, you can pave the way for your swordsmanship.
+Understood.
 
-**Hokusai (Saber):**
-Finally, it’s over!
-Well, this is it for me. I’m all out of energy.
+**Sigurd:**
+Then let us begin!
 
-Hokusai collapses due to exhaustion.
+**Sigurd:**
+You're fast, but your strokes are all over the place!
+
+**Sigurd:**
+It's natural to hesitate at times
+when using multiple weapons...
+
+**Sigurd:**
+...so your first step is to make choosing
+which one to use as natural as breathing!
+
+**Katsushika Hokusai:**
+G-gotcha!
 
 **Sieg:**
-I would carry you, but unfortunately, I’m at my limit…. I’m sorry.
-
-Sieg collapses due to exhaustion as well.
-
-**Fujimaru:**
-[I guess both of you fell in satisfaction...]
+You're mine!
 
 **Sigurd:**
-There’s no helping it. I’ll carry both of them.
-Well, however.
---This was the most fun I had in awhile.
-….Hm. I was having fun again.
-This is bad.
-
-**Fujimaru:**
-[I don’t think it is.]
+You're still overly reliant on Lord
+Siegfried's sheer strength.
 
 **Sigurd:**
-….Really….?
-
-**Fujimaru:**
-[Why don’t you ask the person closest to you?]
+I can understand why you'd be in a hurry to end the fight, since you can only transform for a moment&ndash;
 
 **Sigurd:**
-….Alright.
-Heroes exist to fight.
-Heroes exist to protect the weak.
-A hero doesn't smile.
-I will surely become weak if I smile.
-….That’s what I thought.
-
-**Brynhildr:**
--Well, things like that happen.
-
-**Sigurd:**
-Oh, my love. What do you think is my weakness?
-
-**Brynhildr:**
-….
-No, You’re not any weaker, my dear.
-You haven’t lost the qualifications of being a brave warrior.
-Long ago, you never grinned, yet, you always had the most heartfelt smile in front of me.
-Now you’re able to smile.
-You were never ever getting weaker-
-You’re just getting closer to being human.
-I think that’s very marvelous.
-
-**Sigurd:**
-I see…
-If that’s the case, then I guess I have you to thank the most. My love, Brynhildr.
-I couldn’t be where I’m standing now if I hadn’t felt fury or sadness in my lifetime.
-
-**Brynhildr:**
-….Haha.
-You always, always tickle my heart.
-But. I like that, my dear.
-
-**Sigurd:**
-….Wow.
-
-Sigurd starts to blush.
-
-**Sigurd:**
-What a sudden surprise attack….
-
-**Brynhildr:**
-My heart is always, always, disturbed.
-Sometimes I have to pay back…
-
-Sigurd and Brynhildr have a moment together but Hokusai’s voice is heard and they’re startled.
-
-**Hokusai (Saber):**
-Oh ey... Wait, Oei is my name! Sir Sigurd, come for some training! Training!
-I came up with a killer technique. I want to test it out...woah, woah!
+But there's no need to rush. You still have plenty
+of breathing room to use that technique.
 
 **Sieg:**
-My apologies.
-We didn’t mean to interrupt your date.
-Well, look at you, Oei. I told you it’s dangerous at night.
+R-right!
 
-**Hokusai (Saber):**
-T-t-t-that’s not what I thought you implied!!
-Ah, i-if that’s how it is, it’s alright, there’s always tomorrow y’know!
+**Katsushika Hokusai:**
+Hraaaaaah!
 
 **Sigurd:**
-What are you saying, Hokusai.
-A killer technique, right? By all means, I would like you to show me it.
-Alright, my love. I would like to ask for your assistance with these two.
+Hmm.
 
-**Brynhildr:**
-Understood, Sigurd.
+**Sigurd:**
+You're not hesitating, but that's made your attack patterns too simplistic.
+
+**Sigurd:**
+An effective combat strategy relies on a mixture of both truth and lies. I want you to come up with at least three options for attacking your opponent at any given time.
+
+**Katsushika Hokusai:**
+Y-yikes! That sounds way too complicated for me!
+
+**Sigurd:**
+If it helps, you could try thinking of
+these options as conditional reflexes.
+
+**Sigurd:**
+Perhaps you could try assigning numbers to each move. For example, four, seven, two, five...
+
+**Sigurd:**
+...could be something like that.
+Easy, right?
+
+**Both:**
+...
 
 **Sieg:**
-And then...I would like to add one more person to join if you don’t mind.
-He said “I really don’t know myself how I became a Saber!” so, I’ll be bringing him along.
-
-Sieg runs and drags Saber Astolfo.
-
-Astolfo (Saber):
-Good evening! Sorry to interrupt your date!
-But, I would like to thank you for delightfully training me!
+I think we still have a long way to go before
+I can start thinking like that...
 
 **Sigurd:**
-Haha...
-Of course, I do not mind.
-Though with that said, it is up to you to have fun.
-My swordsmanship classes are often strict, often strict, often strict, and very rarely kind.
+Oh? Hmm... Well, there's nothing wrong with associating them with something else, either.
 
-Astolfo (Saber):
-Woahhhhh, I’ll do my very besttt!
+**Katsushika Hokusai:**
+Yeah? In that case, do ya think I could try
+to think of 'em as paintins', Sigurd?
+
+**Katsushika Hokusai:**
+I'm just startin' ta get the faintest
+picture of how it could work here...
+
+**Katsushika Hokusai:**
+But I'm definitely way more familiar with paintins' than I am numbers.
+
+**Sieg:**
+In that case, I'll try thinking of
+my techniques as Servant classes.
+
+**Sigurd:**
+That sounds fine to me.
+
+**Katsushika Hokusai:**
+All right, Sieggy, whaddaya say we do this thing!?
+I'll go first!
+
+**Sieg:**
+“Sieggy”?
+
+**Sieg:**
+Well, all right. But I'll be going right after you!
+Come on, let's do it!
+
+**Sigurd:**
+That's it! Show me what you've got!
+
+**--BATTLE--**
+
+**Both:**
+(Huff, huff, huff...)
+
+**Sigurd:**
+There you go. Not bad at all.
+
+**Sigurd:**
+If you continue training regularly, it will only
+be a matter of time until you master the sword.
+
+**Katsushika Hokusai:**
+Woohooo! We're finally done!
+
+**Katsushika Hokusai:**
+Aw damn, I'm all outta juice.
+Don't think I can take another step.
+
+**Sieg:**
+I'd offer to carry you, but I'm afraid
+I've hit my limit, too... I'm sorry.
+
+---
+
+**Fujimaru 1:**
+Those are the happiest exhausted faces I've ever seen...
+
+
+---
+
+**Sigurd:**
+All right, I suppose I'll just have
+to carry you both myself then.
+
+**Sigurd:**
+You know...that was a lot of fun.
+
+**Sigurd:**
+...Hmm. That's not good.
+
+**Sigurd:**
+I shouldn't be thinking about having fun.
+
+---
+
+**Fujimaru 1:**
+Why not? There's nothing wrong with enjoying yourself.
+
+
+---
+
+**Sigurd:**
+...Do you really think so?
+
+---
+
+**Fujimaru 1:**
+If you don't believe me,why don't you ask the person you trust more than anyone?
+
+
+---
+
+**Sigurd:**
+...Hmm.
 
 **Narration:**
-Even if what’s inside me is no longer fire, if it stops boiling up and burning,
-Even if it becomes a feeling merciful like the sunshine of a gentle spring...
-Even then.
-Even then, I am still the hero, Sigurd.
-I could perceive it now.
-Of course. I can feel it.
-The power built up within myself…
-The power that explodes into a peak by the interweaving bonds connecting what’s inside me and what’s outside.
-
-**Brynhildr:**
-Sigurd.
-Everyone is waiting for you, my dear.
-
-**Sigurd:**
-Alright.
-...Well then, let’s begin.
+Heroes are defined by fighting.
+By protecting the weak. By never smiling.
 
 **Narration:**
-I will take a step forward while I respond to the call.
-It has no expression, it has no mass, it has no form, yet, this energy certainly exists.
-We call that, “love.”
+That's why smiling would only weaken me.
 
+**Narration:**
+...At least, that's what I thought.
 
-**Sigurd’s Bond Level 6 Profile:**
+**Brynhild:**
+I see. So that's what happened.
 
-Sigurd once received a prophecy about his future from the prophet Gripir. Already knowing about his encounter with Brynhildr, he thought he could never love the valkyrie, no matter how beautiful she was.
+**Sigurd:**
+What do you think of my weakness, my beloved?
 
-But here, he avoids mentioning the prophecy out of disillusion. Once the cold, robotic young man felt love for the first time in his life, he indulged in his love with the Valkyrie enough to forget the tragedy that would await them after that.
+**Brynhild:**
+...
 
-...Not long after, he came to a humiliating death, falling victim to an evil plan by a woman who loved him. However, Sigurd felt love. He recognized faint love in the maddeningly hot flames that didn’t allow betrayal.
+**Brynhild:**
+Oh, my dear Sigurd. You haven't grown weak at all.
+You're still as heroic as you ever were.
+
+**Brynhild:**
+Just as you once learned how to smile kindly
+around me many years ago...
+
+**Brynhild:**
+...you've now learned how to smile around many people.
+
+**Brynhild:**
+That's not a sign of weakness.
+
+**Brynhild:**
+It's a sign that you've become more human&ndash;
+more like the person you were meant to be.
+
+**Brynhild:**
+And I think it's wonderful.
+
+**Sigurd:**
+I see...
+
+**Sigurd:**
+Then I owe it all to you, my beloved Brynhild.
+
+**Sigurd:**
+If it had not been for the passion you inspired in me in life, or the loss I once grieved...
+
+**Sigurd:**
+...I would surely not be standing here before you now.
+
+**Brynhild:**
+Hehe. You never fail to make my heart beat faster.
+
+**Brynhild:**
+But that's just what I love about you...
+Honey.
+
+**Sigurd:**
+Urk.
+That, uh...certainly took me by surprise.
+
+**Brynhild:**
+You're always throwing me for a loop, so it's only fair that I return the favor now and then.
+
+**Katsushika Hokusai:**
+Oooi! Oh, wait, that's my name.
+Hey, Siguuurd! We wanna train some more!
+
+**Katsushika Hokusai:**
+I just came up with a killer ultimate move,
+an' I was hopin' you'd let me try it out on...Aah!
+
+**Sieg:**
+I'm so sorry.
+We didn't mean to interrupt your alone time.
+
+**Sieg:**
+See, Oei?
+I told you we should've waited until morning.
+
+**Katsushika Hokusai:**
+W-w-well how was I s'posed ta know what ya meant!?
+
+**Katsushika Hokusai:**
+S-s-sorry for botherin' ya, Sigurd.
+I'll come back tomorrow!
+
+**Sigurd:**
+Don't be silly, Hokusai. This is a new ultimate move we're talking about, right?
+
+**Sigurd:**
+I'd love to see what you came up with.
+
+**Sigurd:**
+Beloved, would you mind lending them a hand?
+
+**Brynhild:**
+Of course not, Sigurd.
+
+**Sieg:**
+Actually, um... Would you mind if one more person
+joined us? He's been telling us, quote:
+
+**Sieg:**
+“I still have nooo idea why little old
+me became a Saber in the first place!”
+
+**Sieg:**
+...So I decided to bring him along, too.
+
+**Astolfo:**
+Evening! Sorry to spoil your date!
+But I can't wait to have fun training with you!
+
+**Sigurd:**
+Heh... Of course you're welcome to train with us.
+
+**Sigurd:**
+But whether you have fun or not is up to you.
+
+**Sigurd:**
+My swordsmanship class is ninety-nine-percent
+uncompromising, one-percent kind understanding.
+
+**Astolfo:**
+Y-y-y-yikes! I-I'll do my best to keep up!
+
+**Narration:**
+My inner feelings may no longer
+be like a fiercely burning fire.
+
+**Narration:**
+They may now be more merciful,
+like the gentle rays of spring sunshine.
+
+**Narration:**
+But, even so...
+
+**Narration:**
+...I can still sense it clearly, Sigurd the hero.
+
+**Sigurd:**
+...Yes. Of course I do.
+
+**Narration:**
+This power stored within me...
+
+**Narration:**
+...can reach explosive new heights thanks to its entanglements&ndash;its relationships&ndash;with those around me.
+
+**Brynhild:**
+We're waiting for you, Sigurd.
+
+**Sigurd:**
+...Right.
+Then I suppose we'd better get started.
+
+**Narration:**
+I start by taking a single step forward,
+as I answer their call.
+
+**Narration:**
+Formless and weightless though it may be, there is still energy to be found there&ndash;a kind with a name all its own.
+
+**Narration:**
+We call it...“love.”
+
