@@ -35,7 +35,7 @@
 * [Cosmos in the Lostbelt 6: Avalon le Fae Part 1](Lostbelt/avalon1.md)
 * [Cosmos in the Lostbelt 6: Avalon le Fae Part 2](Lostbelt/avalon2.md)
 * [Cosmos in the Lostbelt 6: Avalon le Fae Part 3](Lostbelt/avalon3.md)
-* Cosmos in the Lostbelt ???: Tunguska Sanctuary ~ N/A
+* [Cosmos in the Lostbelt 6.4: Tunguska Sanctuary](Lostbelt/tunguska.md)
 
 ## Anime Subtitle Dumps
 
