@@ -88,6 +88,10 @@
 
 * [Interlude](Interludes/Sigurd.md)
 
+**Diarmuid Ua Duibhne (Saber)**
+
+* [Interlude](Interludes/Diarmuid Ua Duibhne - Saber.md)
+
 **Lanling Wang**
 
 * [Interlude](Interludes/Lanling Wang.md)
@@ -682,6 +686,10 @@
 **Xiang Yu**
 
 * [Interlude](Interludes/XiangYu.md)
+
+**Salome**
+
+* [Interlude](Interludes/Salome.md)
 
 ## Ruler
 

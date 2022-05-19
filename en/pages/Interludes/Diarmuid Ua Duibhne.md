@@ -131,7 +131,7 @@ It's... Risky?
 
  
 **Dr. Roman:**
-Because [♂ he /♀️ she} as your Master and several Servants have to tag along.
+Because [♂ he /♀️ she] as your Master and several Servants have to tag along.
 
  
 **Diarmuid:**

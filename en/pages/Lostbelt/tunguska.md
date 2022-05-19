@@ -1,10 +1,12 @@
 # Tunguska Sanctuary - Non-Primate Biosphere
 
+![Image](https://i.imgur.com/b8Qurpi.png)
+
 Note: Translated by: Rayshift Team - Gaius, Zaszc, Porkslope, Yusuke
 
 ## Prologue
 
-
+![Image](https://i.imgur.com/BtcwQ0r.png)
 
 **???:**
 —Sion. Sion Eltnam Sokaris.
@@ -23,6 +25,8 @@ you will be permitted to stay in the Wandering Sea for one year of virtual time 
 
 **???:**
 The proposed time will soon come. Are there to be no changes to this date?
+
+![Image](https://i.imgur.com/XDjbEki.png)
 
 **Sion:**
 That's right. No cuts or retakes. Please leave the contract as it is.
@@ -47,6 +51,8 @@ The Gate of Servility, Fusilka, remains ever contemptuous.
 
 **???:**
 In deference to the Atlas Academy, the Wandering Sea will overlook the preservers of the Human Order.
+
+![Image](https://i.imgur.com/bwzJoLo.png)
 
 **Sion:**
 —phew. Well, that was a strange way to communicate.
@@ -74,6 +80,8 @@ And there it is. The data's awfully cut-and-dry this time, huh?
 
 **Sion:**
 The singularity's coordinates are well-measured, and the threat posed is clearly defined. 100 points!
+
+![Image](https://i.imgur.com/7GsJzC3.png)
 
 **Sion:**
 Oh ho. The singularity came to be in January 2017, but it was established back in 1908.
@@ -126,6 +134,8 @@ She probably wouldn't have originally revealed her nest until both Chaldea and t
 **Sion:**
 But her strange behavior in Britain's Lostbelt is alarming. Her tail's in gear, literally!
 
+![Image](https://i.imgur.com/Ttv1BLE.png)
+
 **Sion:**
 Still, that doesn't change that she's a powerful enemy. We'll need a lot to beat her...
 
@@ -134,6 +144,8 @@ This battle is an unavoidable step towards uniting Chaldea's forces against the 
 
 **Sion:**
 Please do your utmost. All I can do is place my trust in you.
+
+![Image](https://i.imgur.com/cjCyt4q.png)
 
 **Sion:**
 Well, TRISMEGISTUS II has given us the results this time anyway! 
@@ -148,6 +160,9 @@ Wait, cut, cut! There's no way I can share this with them, is there?
 
 ## Section 1: Beyond the walls of the world
 
+![Image](https://i.imgur.com/MKKyhTf.png)
+
+![Image](https://i.imgur.com/KzAyFPD.png)
 
 
 **Narration:**
@@ -210,17 +225,20 @@ Just like—
 **Narration:**
 —a fire begotten by man.
 
+![Image](https://i.imgur.com/lJzlS78.png)
 
 
 **--ARROW--**
 
-
+![Image](https://i.imgur.com/A8vOgtq.png)
 
 **Nemo:**
 Currently approaching the skies above the old Tunguska forest—
 
 **Nemo:**
 We're still picking up Tamamovitch Koyanskaya's magical signature.
+
+![Image](https://i.imgur.com/dBPJ8Uo.png)
 
 **Nemo:**
 At present, the target's signature is located in a forested area upstream of the old Tunguska river.
@@ -258,8 +276,12 @@ Nevertheless, if Sion's warning holds true, there will be "special conditions" p
 **Nemo:**
 There's no telling what ambushes lie in wait for us. All hands, maintain brace positions vigilantly.
 
+![Image](https://i.imgur.com/yivAg4S.png)
+
 **Mash:**
 Roger that, Captain!
+
+![Image](https://i.imgur.com/1RjWdU2.png)
 
 **Goredolf:**
 Allow me to repeat, ladies and gentlemen.
@@ -278,14 +300,20 @@ Our current operation is, in other words—
 **Fujimaru 1:**
 A test run for eliminating the seventh Lostbelt!
 
+---
+
 **Mash:**
 Yes! It's an operation that assumes usage of the Black Barrel!
+
+![Image](https://i.imgur.com/pRLnG9m.png)
 
 **Da Vinci:**
 That's right. While the adjustment of the Black Barrel remains as difficult as ever, we have gained a new ally.
 
 **Da Vinci:**
 One who protects the body of the Black Barrel's wielder. The guardian fairy, Habetrot.
+
+![Image](https://i.imgur.com/nCtEiae.png)
 
 **Habetrot:**
 What's this? Were you talking about me~? Guess I'll materialize then!
@@ -296,6 +324,8 @@ Habetrot the Seamstress has come fo~rth☆ Leave it to me, I've got the protecti
 	—A few hours ago.
 
 	—Wandering Sea dock, Storm Border hangar.
+	
+![Image](https://i.imgur.com/TmraJ8T.png)
 
 **Sion:**
 A new magical signature has been detected. The location is old Russia.
@@ -304,6 +334,8 @@ A new magical signature has been detected. The location is old Russia.
 
 **Fujimaru 1:**
 Russia?
+
+---
 
 **Sion:**
 Yes.
@@ -331,6 +363,8 @@ That places it—around the forested area upstream of the Tunguska river.
 
 **Holmes:**
 Any Heroic Spirit who lived in the same time period as I would know of that large-scale light emission.
+
+![Image](https://i.imgur.com/NLW5OVo.png)
 
 **Mash:**
 Tunguska...
@@ -384,11 +418,15 @@ I've heard about it too...
 **Fujimaru 2:**
 ...a fallen meteorite and an explosion...
 
+---
+
 **Sion:**
 That appears to be how the truth is told. I believe it's also seen as such by magical society.
 
 **Sion:**
 Even if you unravel the records, you'd be hard-pressed to find any magical factors there.
+
+![Image](https://i.imgur.com/RRslRXM.png)
 
 **Da Vinci:**
 That's not to say that no one associated it with the occult, but at the very least, the Mage's Association has ruled it a natural phenomenon.
@@ -426,6 +464,8 @@ It's not a Lostbelt either?
 
 **Sion:**
 Yes. After all, there is no storm wall present. Furthermore, there is no "variance" as far as humanity goes.
+
+---
 
 **Da Vinci:**
 It's not like we don't have any guesses, but—
@@ -490,6 +530,12 @@ as well as the juvenile Beast IV, the Beast of Cherishment.
 **Holmes:**
 In all likelihood, the events that occurred in the British Lostbelt have left Koyanskaya...
 
+![Image](https://i.imgur.com/ijyN4wg.png)
+
+![Image](https://i.imgur.com/FY45B2G.png)
+
+![Image](https://i.imgur.com/XZDmaC6.png)
+
 **Holmes:**
 ...in a defective state of sorts. We predict she will not be in perfect form.
 
@@ -518,11 +564,15 @@ I cannot say for sure.
 **Fou:**
 Fouuu...
 
+--
+
 **Da Vinci:**
 Now, the problem at hand is—
 
 **Da Vinci:**
 What is she up to?
+
+![Image](https://i.imgur.com/oju8wo9.png)
 
 **Meunière:**
 ...she saved our hides in Britain...for the record. But that woman is still an enemy of humanity nonetheless.
@@ -599,6 +649,8 @@ Besides...this responsibility is mine to bear.
 **Goredolf:**
 This is especially true for those of you who knew the old Chaldea. It's bound to hurt and rankle a few.
 
+![Image](https://i.imgur.com/x3F17J7.png)
+
 **Goredolf:**
 ...it is clear that...I have no right to lead like this.
 
@@ -624,6 +676,8 @@ Putting that top priority on hold, we will divert all our efforts towards exterm
 **Fujimaru 2:**
 New Director Gordolf...
 
+---
+
 **Mash:**
 Understood.
 
@@ -641,6 +695,8 @@ In other words!
 
 **Goredolf:**
 We expect the Black Barrel will see active deployment!
+
+![Image](https://i.imgur.com/bvl5I1K.png)
 
 **Da Vinci:**
 The Black Barrel...measures the target's Life Scale with the Accomplish Measure,
@@ -695,6 +751,8 @@ Hmph. There's only a part 1 to it, you say?
 
 **Goredolf:**
 Mm. That is correct, but I'd like you to pipe down now!
+
+![Image](https://i.imgur.com/AMhUj29.png)
 
 **Mash:**
 The director gets what Fou is saying...
@@ -754,6 +812,8 @@ Fujimaru.
 
 **Fujimaru 1:**
 Understood.
+
+---
 
 **Da Vinci:**
 You will be accompanied by up to ten Heroic Spirits as you enter the area of operations as a formidable army.
@@ -1035,7 +1095,7 @@ Moreover, these "special circumstances" bother me. If they were learned in Brita
 We should be prepared for a worst-case scenario. After all, our opponent is a Beast.
 
 **Nemo:**
-We have to leave everything to ...just like we always do.
+We have to leave everything to [♂ him /♀ her]...just like we always do.
 
 **Holmes:**
 Just so. Vexing, but nothing can be done about it.
@@ -6993,7 +7053,7 @@ Yes, that's right. I'm Senpai's very first Servant!
 My, that's right! I'm honestly jealous of that.
 
 **Ibuki Dōji:**
-Being  first Servant must mean you have a deep and enduring bond with Master, true?
+Being [♂ his /♀ her] first Servant must mean you have a deep and enduring bond with Master, true?
 
 **Ibuki Dōji:**
 I'm just so jealous!
@@ -7177,7 +7237,7 @@ I have to defeat the enemy, and save the land of Russia.
 Wow. Such brave words!
 
 **Ibuki Dōji:**
-But yeah, that's good too for Master to hear. I'll give my all for , all the way!
+But yeah, that's good too for Master to hear. I'll give my all for [♂ him /♀ her], all the way!
 
 **Mash:**
 ...and me too. Mash Kyrielight, ready to do everything in her power.
@@ -7649,7 +7709,7 @@ Not quite what you'd expect from teleportation. A forced high-speed transfer?
 A round of applause☆
 
 **Koyanskaya:**
-I must admit, that was something else. In addition to myself, the Master,  Demi-Servant,
+I must admit, that was something else. In addition to myself, the Master, [♂ his /♀ her] Demi-Servant,
 
 **Koyanskaya:**
 one nasty Divine Spirit, a cat-eared oddity, and the practitioner himself. It's no small feat to compel six bodies to move together.
@@ -7830,7 +7890,7 @@ Yes, Master!
 Okay, count on it!
 
 **Taigong:**
-Keep  and the others covered, Nikitich!
+Keep [♂ him /♀ her] and the others covered, Nikitich!
 
 **Nikitch:**
 That goes without saying! You just hold up to your duty, Taigong!
@@ -11114,7 +11174,7 @@ So, what say you?
 (I may not be able to protect Fujimaru this time around.)
 
 **Taigong:**
-(If we lose , the reclamation of Pan-human History will end as a pipe dream.)
+(If we lose [♂ him /♀ her], the reclamation of Pan-human History will end as a pipe dream.)
 
 **Taigong:**
 (We'll need to seize her before that!)
@@ -13687,7 +13747,7 @@ That curse drove Koyanskaya into a corner, forcing her to undergo "rapid maturat
 Yet their defeat was inevitable. And by that, I do not mean they were unable to defeat the Beast.
 
 **Holmes:**
-They were destined to be annihilated the moment  set foot in that domain and fought at its epicenter.
+They were destined to be annihilated the moment [♂ he /♀ she] set foot in that domain and fought at its epicenter.
 
 **Sion:**
 Correct. Beast IV was ready to annihilate the entire domain. "The hunters shall die with their prey"—
@@ -14082,7 +14142,7 @@ Rest assured, I will ensure the gates are closed. Please feel free to return, Fa
 For you and the Wandering Sea, the Alien God may be an irrelevant matter far in the future...
 
 **Sion:**
-But for myself, , and Chaldea, this is a problem we must solve no matter what.
+But for myself, [♂ him /♀ her], and Chaldea, this is a problem we must solve no matter what.
 
 **Sion:**
 So now is not the time for me to go there. If the gates are fated to open only in this very moment...
@@ -14337,7 +14397,7 @@ Once the decisive anti-Alien God technique is complete, Chaldea will assault the
 —We will engage U-Olga Marie, the self-proclaimed "Alien God", in combat.
 
 **Holmes:**
-Will that do, Commander Gordolf and  Fujimaru?
+Will that do, Commander Gordolf and  [♂ Mister /♀ Miss] Fujimaru?
 
 **Goredolf:**
 M-Mm. So we're finally in the endgame.
