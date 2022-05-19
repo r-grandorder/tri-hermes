@@ -1182,7 +1182,7 @@ Wait, if I just think of this as the Dakar Rally...Okay, let's goooooo!
 
 **--ARROW--**
 
-
+![](https://i.imgur.com/RRiXrjS.png)
 
 **Fou:**
 Fou!
@@ -1197,8 +1197,12 @@ Fou!
 **Fujimaru 2:**
 I didn't pass out.
 
+---
+
 **Fou:**
 Fou.
+
+![](https://i.imgur.com/rrj48oz.png)
 
 **Mash:**
 Master, are you alright!?
@@ -1216,6 +1220,10 @@ Yes. Mash Kyrielight has no issues.
 **Fujimaru 2:**
 No issues here.
 
+---
+
+![](https://i.imgur.com/KVbrjIg.png)
+
 **Da Vinci:**
 Status confirmation—
 
@@ -1225,11 +1233,15 @@ Electrical systems damage at 20%. Recovery feasible. No engine damage. Frame dam
 **Da Vinci:**
 Not too shabby, considering the landing from an emergency sortie. Is everyone alright?
 
+![](https://i.imgur.com/ZwT8oOq.png)
+
 **Meunière:**
 Y-Yeah. I was prepared for some whiplash, but this is nothing.
 
 **Meunière:**
 On the contrary...my stiff shoulders are feeling better...?
+
+![](https://i.imgur.com/HdCZTHJ.png)
 
 **Goredolf:**
 Why do you look like you've gone to a chiropractor? Are you the type of person who rehabs on rollercoasters?
@@ -1292,8 +1304,12 @@ You like my voice? I like it too.
 **???:**
 In any case, I think your predictions are all a little off the mark.
 
+---
+
 **Goredolf:**
 W-Who's there!?
+
+![](https://i.imgur.com/7ax9xEC.png)
 
 **Ibuki Dōji:**
 After all—I'm right here.
@@ -1393,6 +1409,8 @@ Hmm?
 **Fujimaru 1:**
 Could it be that there's something wrong with your memory?
 
+---
+
 **Ibuki Dōji:**
 Hmm~?
 
@@ -1429,6 +1447,8 @@ Yes! The pleasure's all mine, Master!
 
 **Goredolf:**
 Aren't the two of you being a little too quick on the uptake?
+
+---
 
 **Da Vinci:**
 Despite materializing, it would appear the tradeoff is an abnormality in her memories.
@@ -1496,6 +1516,8 @@ I'll be counting on you, Ibuki-Douji.
 **Fujimaru 2:**
 Let's work together!
 
+---
+
 **Ibuki Dōji:**
 Of course!
 
@@ -1506,7 +1528,7 @@ Fou, fooou!
 
 ## Section 2: Great Collision
 
-
+![](https://i.imgur.com/bu1Q1IY.png)
 
 **Goredolf:**
 Well, whatever!
@@ -1544,6 +1566,8 @@ Therefore, we do the best with what we have right now.
 **Goredolf:**
 At least that's what I think, but—Wh-what are your thoughts, Technical Advisor?
 
+![](https://i.imgur.com/Wb5wcGF.png)
+
 **Da Vinci:**
 Of course, I'm in agreement.
 
@@ -1571,6 +1595,8 @@ Yeah!
 
 **Fujimaru 2:**
 We start with what we can reach, right?
+
+---
 
 **Goredolf:**
 Hmph—
@@ -1605,6 +1631,8 @@ Yeah, it sure does.
 
 **Meunière:**
 We were supposed to make a blitz right for the magical signature we assumed was Koyanskaya.
+
+---
 
 **Da Vinci:**
 As you might expect, we need to change plans here.
@@ -1667,6 +1695,8 @@ Meaning, get out there and get more firepower.
 **Da Vinci:**
 Yep. Gathering intel and securing more assets. We're back to square one once again.
 
+---
+
 **Da Vinci:**
 I said before that the blitz operation would be a test run for our assault on the seventh Lostbelt,
 
@@ -1724,6 +1754,8 @@ Don't load your eyes with such subtle magical energy! It reminds me of the helli
 **Meunière:**
 Is that really something you did...? What kind of training did you do...
 
+---
+
 **Da Vinci:**
 Well, let's try this again. Commencing the new operation.
 
@@ -1761,6 +1793,8 @@ Let's go, Mash! Ibuki-Douji!
 **Mash:**
 Yes, Master!
 
+---
+
 **Ibuki Dōji:**
 Okay!
 
@@ -1772,6 +1806,8 @@ We'll send you periodic reports from the Shadow Border. Now...
 
 **Goredolf:**
 —Koyanskaya Subjugation Operation, start!
+
+![](https://i.imgur.com/OSkEd2l.png)
 
 **Ibuki Dōji:**
 Ahaha!
@@ -1827,8 +1863,12 @@ She's sure...
 **Fujimaru 2:**
 ...just like the roaring wind...
 
+---
+
 **Ibuki Dōji:**
 —!
+
+![](https://i.imgur.com/GtQkngJ.png)
 
 **Mash:**
 Ibuki-Douji?
@@ -1840,7 +1880,7 @@ Ibuki-Douji?
 Like some kind of premonition. I wonder...
 
 **Ibuki Dōji:**
-Ah!
+#### Ah!
 
 ---
 
@@ -1876,6 +1916,8 @@ It's likely we're already trapped. Are you two ready?
 **Mash:**
 Right!
 
+![](https://i.imgur.com/EznOc7V.png)
+
 **Mash:**
 Ortenaus, quick startup!
 
@@ -1898,10 +1940,12 @@ Here they come! Much as it feels like our first sortie—let's go!
 
 **--BATTLE--**
 
-
+![](https://i.imgur.com/24WFyM4.png)
 
 **Mash:**
 Ibuki-Douji!
+
+![](https://i.imgur.com/pZ34phT.png)
 
 **Ibuki Dōji:**
 Leave it to me!
@@ -1918,6 +1962,8 @@ Just now...
 
 **Fujimaru 2:**
 They were from the Russian and Indian Lostbelts...
+
+---
 
 **Mash:**
 Yes. Individuals resembling the Yaga and a Kali from the Indian Lostbelt...if I'm not mistaken?
@@ -1949,6 +1995,8 @@ New hostile reaction, incoming!
 **Ibuki Dōji:**
 The tremors are getting bigger...looks like we have a big shot. Keep your guards up, both of you.
 
+![](https://i.imgur.com/o7fvMxJ.png)
+
 **Mash:**
 !
 
@@ -1964,6 +2012,8 @@ Yeah, general-class...!
 
 **Fujimaru 2:**
 A giant equivalent of a Heroic Spirit, sort of!?
+
+---
 
 **Ibuki Dōji:**
 Greater Giants!
@@ -1989,6 +2039,8 @@ I consider them to be moving, impregnable fortresses! Put your backs into it, Ma
 **Ibuki Dōji:**
 These three giant chieftains are formidable foes!
 
+![](https://i.imgur.com/GR6hNdd.png)
+
 **Ibuki Dōji:**
 Then allow me to respond accordingly! Serious mode!
 
@@ -2004,6 +2056,10 @@ I-I see, roger that!
 
 **Fujimaru 2:**
 (An enemy who can push Ibuki-Douji that far!)
+
+---
+
+![](https://i.imgur.com/0HlR7bK.png)
 
 **Habetrot:**
 Okay, you're in a pickle! Just say so if it's my turn!
@@ -2027,6 +2083,8 @@ You can come out, Habetrot!?
 **Habetrot:**
 I can manage if it's just for a little whi~le! This is a pain, but isn't that part of the job?
 
+---
+
 **Habetrot:**
 Now then, let's fire off a big one for starters~!
 
@@ -2047,7 +2105,7 @@ Thanks for the assist! Well then—here I come, you three nameless giant chiefta
 
 ## Section 3: The Boy Walking to Forever
 
-
+![](https://i.imgur.com/cDaZHfK.png)
 
 **Ibuki Dōji:**
 Phew!
@@ -2061,6 +2119,8 @@ Good job, everyone. You too, Habenyan!
 **Habetrot:**
 N-No worries! Good work out there!
 
+![](https://i.imgur.com/qDWJ2Qt.png)
+
 **Habetrot:**
 (She's...not a fairy, is she?)
 
@@ -2068,7 +2128,9 @@ N-No worries! Good work out there!
 (Looks like an incarnation of an Elemental and a Phantasmal Beast...no, wouldn't that make her a god?)
 
 **Habetrot:**
-Oh well, she's a nice and friendly beauty!Okay, I'll see you around!
+Oh well, she's a nice and friendly beauty! Okay, I'll see you around!
+
+![](https://i.imgur.com/fdbeBlS.png)
 
 **Mash:**
 Thank you so much, Habetrot!
@@ -2097,6 +2159,8 @@ Yeah.
 
 **Fujimaru 2:**
 They may have been some of Koyanskaya's minions.
+
+---
 
 **Mash:**
 ...true.
@@ -2168,8 +2232,12 @@ I think an enemy would've attacked us already—
 **???:**
 I see. A fair assumption.
 
+---
+
 **Ibuki Dōji:**
 Who are you?
+
+![](https://i.imgur.com/aEe3CDk.png)
 
 **???:**
 I am...
@@ -2245,6 +2313,8 @@ Woah there.
 **Woman's Voice:**
 Of course it is. That's why I spoke up.
 
+![](https://i.imgur.com/kahT6JA.png)
+
 **???:**
 —Hmph.
 
@@ -2256,6 +2326,8 @@ A pleasure to make your acquaintance, folks. I am Nikitich.
 
 **Nikitch:**
 The dragon slayer of Kiev, the hero Dobrynya Nikitich.
+
+![](https://i.imgur.com/SaE0gel.png)
 
 **Nikitch:**
 I am strong.
@@ -2306,7 +2378,7 @@ My True Name is Taigong Wang.
 
 ## Section 4: The Nikitch Solution
 
-
+![](https://i.imgur.com/lJzlS78.png)
 
 **Narration:**
 —I heard a voice.
@@ -2332,6 +2404,8 @@ But by endlessly overlapping and piling up atop one another,
 **Narration:**
 they become only just recognizable as a voice.
 
+![](https://i.imgur.com/W7zRkaV.png)
+
 **Narration:**
 Or perhaps—
 
@@ -2339,13 +2413,15 @@ Or perhaps—
 They may have been prayers.
 
 **Narration:**
-There were voices. There were voices.
+There were voices. 
+There were voices.
 
 **Narration:**
 A swarm of countless, feeble screams.
 
 **Narration:**
-I collected them. Those voices so small I could barely hear each one.
+I collected them. 
+Those voices so small I could barely hear each one.
 
 **Narration:**
 I frantically collected them and strained to hear them.
@@ -2357,7 +2433,8 @@ And as I did so—
 I became self-aware.
 
 **Narration:**
-A harrowing flash and heat. The shockwave. At the heart of the devastating event that rules out the survival of all forms of life,
+A harrowing flash and heat. The shockwave. 
+At the heart of the devastating event that rules out the survival of all forms of life,
 
 **Narration:**
 I...
@@ -2384,7 +2461,8 @@ Countless voices of shock and anguish showed me what kind of life "they" were on
 In their final moments, countless voices celebrated my genesis.
 
 **Narration:**
-"Our representative." "The greatest of our kind."A birth celebrated in flames.
+"Our representative." "The greatest of our kind."
+A birth celebrated in flames.
 
 **Narration:**
 I am...
