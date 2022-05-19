@@ -1,12 +1,12 @@
 # Tunguska Sanctuary - Non-Primate Biosphere
 
-![Image](https://i.imgur.com/b8Qurpi.png)
+![](https://i.imgur.com/b8Qurpi.png)
 
 Note: Translated by: Rayshift Team - Gaius, Zaszc, Porkslope, Yusuke
 
 ## Prologue
 
-![Image](https://i.imgur.com/BtcwQ0r.png)
+![](https://i.imgur.com/BtcwQ0r.png)
 
 **???:**
 —Sion. Sion Eltnam Sokaris.
@@ -26,7 +26,7 @@ you will be permitted to stay in the Wandering Sea for one year of virtual time 
 **???:**
 The proposed time will soon come. Are there to be no changes to this date?
 
-![Image](https://i.imgur.com/XDjbEki.png)
+![](https://i.imgur.com/XDjbEki.png)
 
 **Sion:**
 That's right. No cuts or retakes. Please leave the contract as it is.
@@ -52,7 +52,7 @@ The Gate of Servility, Fusilka, remains ever contemptuous.
 **???:**
 In deference to the Atlas Academy, the Wandering Sea will overlook the preservers of the Human Order.
 
-![Image](https://i.imgur.com/bwzJoLo.png)
+![](https://i.imgur.com/bwzJoLo.png)
 
 **Sion:**
 —phew. Well, that was a strange way to communicate.
@@ -81,7 +81,7 @@ And there it is. The data's awfully cut-and-dry this time, huh?
 **Sion:**
 The singularity's coordinates are well-measured, and the threat posed is clearly defined. 100 points!
 
-![Image](https://i.imgur.com/7GsJzC3.png)
+![](https://i.imgur.com/7GsJzC3.png)
 
 **Sion:**
 Oh ho. The singularity came to be in January 2017, but it was established back in 1908.
@@ -134,7 +134,7 @@ She probably wouldn't have originally revealed her nest until both Chaldea and t
 **Sion:**
 But her strange behavior in Britain's Lostbelt is alarming. Her tail's in gear, literally!
 
-![Image](https://i.imgur.com/Ttv1BLE.png)
+![](https://i.imgur.com/Ttv1BLE.png)
 
 **Sion:**
 Still, that doesn't change that she's a powerful enemy. We'll need a lot to beat her...
@@ -145,7 +145,7 @@ This battle is an unavoidable step towards uniting Chaldea's forces against the 
 **Sion:**
 Please do your utmost. All I can do is place my trust in you.
 
-![Image](https://i.imgur.com/cjCyt4q.png)
+![](https://i.imgur.com/cjCyt4q.png)
 
 **Sion:**
 Well, TRISMEGISTUS II has given us the results this time anyway! 
@@ -160,9 +160,9 @@ Wait, cut, cut! There's no way I can share this with them, is there?
 
 ## Section 1: Beyond the walls of the world
 
-![Image](https://i.imgur.com/MKKyhTf.png)
+![](https://i.imgur.com/MKKyhTf.png)
 
-![Image](https://i.imgur.com/KzAyFPD.png)
+![](https://i.imgur.com/KzAyFPD.png)
 
 
 **Narration:**
@@ -225,12 +225,12 @@ Just like—
 **Narration:**
 —a fire begotten by man.
 
-![Image](https://i.imgur.com/lJzlS78.png)
+![](https://i.imgur.com/lJzlS78.png)
 
 
 **--ARROW--**
 
-![Image](https://i.imgur.com/A8vOgtq.png)
+![](https://i.imgur.com/A8vOgtq.png)
 
 **Nemo:**
 Currently approaching the skies above the old Tunguska forest—
@@ -238,7 +238,7 @@ Currently approaching the skies above the old Tunguska forest—
 **Nemo:**
 We're still picking up Tamamovitch Koyanskaya's magical signature.
 
-![Image](https://i.imgur.com/dBPJ8Uo.png)
+![](https://i.imgur.com/dBPJ8Uo.png)
 
 **Nemo:**
 At present, the target's signature is located in a forested area upstream of the old Tunguska river.
@@ -276,12 +276,12 @@ Nevertheless, if Sion's warning holds true, there will be "special conditions" p
 **Nemo:**
 There's no telling what ambushes lie in wait for us. All hands, maintain brace positions vigilantly.
 
-![Image](https://i.imgur.com/yivAg4S.png)
+![](https://i.imgur.com/yivAg4S.png)
 
 **Mash:**
 Roger that, Captain!
 
-![Image](https://i.imgur.com/1RjWdU2.png)
+![](https://i.imgur.com/1RjWdU2.png)
 
 **Goredolf:**
 Allow me to repeat, ladies and gentlemen.
@@ -305,7 +305,7 @@ A test run for eliminating the seventh Lostbelt!
 **Mash:**
 Yes! It's an operation that assumes usage of the Black Barrel!
 
-![Image](https://i.imgur.com/pRLnG9m.png)
+![](https://i.imgur.com/pRLnG9m.png)
 
 **Da Vinci:**
 That's right. While the adjustment of the Black Barrel remains as difficult as ever, we have gained a new ally.
@@ -313,7 +313,7 @@ That's right. While the adjustment of the Black Barrel remains as difficult as e
 **Da Vinci:**
 One who protects the body of the Black Barrel's wielder. The guardian fairy, Habetrot.
 
-![Image](https://i.imgur.com/nCtEiae.png)
+![](https://i.imgur.com/nCtEiae.png)
 
 **Habetrot:**
 What's this? Were you talking about me~? Guess I'll materialize then!
@@ -325,7 +325,7 @@ Habetrot the Seamstress has come fo~rth☆ Leave it to me, I've got the protecti
 
 	—Wandering Sea dock, Storm Border hangar.
 	
-![Image](https://i.imgur.com/TmraJ8T.png)
+![](https://i.imgur.com/TmraJ8T.png)
 
 **Sion:**
 A new magical signature has been detected. The location is old Russia.
@@ -364,7 +364,7 @@ That places it—around the forested area upstream of the Tunguska river.
 **Holmes:**
 Any Heroic Spirit who lived in the same time period as I would know of that large-scale light emission.
 
-![Image](https://i.imgur.com/NLW5OVo.png)
+![](https://i.imgur.com/NLW5OVo.png)
 
 **Mash:**
 Tunguska...
@@ -426,7 +426,7 @@ That appears to be how the truth is told. I believe it's also seen as such by ma
 **Sion:**
 Even if you unravel the records, you'd be hard-pressed to find any magical factors there.
 
-![Image](https://i.imgur.com/RRslRXM.png)
+![](https://i.imgur.com/RRslRXM.png)
 
 **Da Vinci:**
 That's not to say that no one associated it with the occult, but at the very least, the Mage's Association has ruled it a natural phenomenon.
@@ -530,11 +530,11 @@ as well as the juvenile Beast IV, the Beast of Cherishment.
 **Holmes:**
 In all likelihood, the events that occurred in the British Lostbelt have left Koyanskaya...
 
-![Image](https://i.imgur.com/ijyN4wg.png)
+![](https://i.imgur.com/ijyN4wg.png)
 
-![Image](https://i.imgur.com/FY45B2G.png)
+![](https://i.imgur.com/FY45B2G.png)
 
-![Image](https://i.imgur.com/XZDmaC6.png)
+![](https://i.imgur.com/XZDmaC6.png)
 
 **Holmes:**
 ...in a defective state of sorts. We predict she will not be in perfect form.
@@ -572,7 +572,7 @@ Now, the problem at hand is—
 **Da Vinci:**
 What is she up to?
 
-![Image](https://i.imgur.com/oju8wo9.png)
+![](https://i.imgur.com/oju8wo9.png)
 
 **Meunière:**
 ...she saved our hides in Britain...for the record. But that woman is still an enemy of humanity nonetheless.
@@ -649,7 +649,7 @@ Besides...this responsibility is mine to bear.
 **Goredolf:**
 This is especially true for those of you who knew the old Chaldea. It's bound to hurt and rankle a few.
 
-![Image](https://i.imgur.com/x3F17J7.png)
+![](https://i.imgur.com/x3F17J7.png)
 
 **Goredolf:**
 ...it is clear that...I have no right to lead like this.
@@ -696,7 +696,7 @@ In other words!
 **Goredolf:**
 We expect the Black Barrel will see active deployment!
 
-![Image](https://i.imgur.com/bvl5I1K.png)
+![](https://i.imgur.com/bvl5I1K.png)
 
 **Da Vinci:**
 The Black Barrel...measures the target's Life Scale with the Accomplish Measure,
@@ -752,7 +752,7 @@ Hmph. There's only a part 1 to it, you say?
 **Goredolf:**
 Mm. That is correct, but I'd like you to pipe down now!
 
-![Image](https://i.imgur.com/AMhUj29.png)
+![](https://i.imgur.com/AMhUj29.png)
 
 **Mash:**
 The director gets what Fou is saying...
@@ -852,6 +852,7 @@ You must carry out this mission! I have nothing but the highest of expectations 
 
 **--ARROW--**
 
+![](https://i.imgur.com/yjg0dBy.png)
 
 
 **Nemo:**
@@ -876,10 +877,10 @@ According to my calculations, we can break through!
 You work fast as always, Da Vinci. In that case—
 
 **Nemo:**
-Deploy space-time regulating membrane on the bow!
+#### Deploy space-time regulating membrane on the bow!
 
 **Nemo:**
-Pierce through in dimension drilling mode!
+#### Pierce through in dimension drilling mode!
 
 **Da Vinci:**
 The Tunguska Special Territory! After we break through the barrier, we'll attempt to start our operation from the sky!
@@ -887,11 +888,15 @@ The Tunguska Special Territory! After we break through the barrier, we'll attemp
 **Da Vinci:**
 Brace yourselves, everybody!
 
+![](https://i.imgur.com/dBPJ8Uo.png)
+
 **Nemo:**
 We've broken through!
 
 **Nemo:**
 We've entered the skies above the Tunguska Special Territory! Now we head for the magical energy signature—
+
+![](https://i.imgur.com/CPgSUtL.png)
 
 **Habetrot:**
 Wait a second! There's something really wrong with this place!
@@ -910,6 +915,8 @@ I'm not reverting to a Saint Graph, but I'm going back to the dormant mode of th
 
 **Habetrot:**
 Mash, call me if you need me! I'll even help out a little in battle!
+
+![](https://i.imgur.com/bvfeVV6.png)
 
 **Mash:**
 Habetrot!? Da Vinci, what's going—
@@ -936,11 +943,17 @@ Aaargh, what is going on!? Administrative Advisor, Technical Advisor! Would the 
 **Fujimaru 2:**
 Holmes too!?
 
+---
+
+![](https://i.imgur.com/QLtMUmT.png)
+
 **Holmes:**
 ...Da Vinci.
 
 **Holmes:**
 Check briefing room 2. Hurry.
+
+![](https://i.imgur.com/VyY2luk.png)
 
 **Da Vinci:**
 Briefing room 2—
@@ -998,6 +1011,8 @@ Regrettably, the Storm Border will retreat from the Special Territory!
 
 **Nemo:**
 Marines! 
+
+![](https://i.imgur.com/BzdJNLr.png)
 
 **Nemo Marine:**
 Aye, sir!
@@ -1076,6 +1091,8 @@ Roger!
 **Fujimaru 2:**
 We're off!
 
+---
+
 **Holmes:**
 This will do for now.
 
@@ -1112,6 +1129,8 @@ Like the goby, we must be cautious. Waiting is hard, but it isn't dangerous work
 **Nemo:**
 Compared to their temporary evacuation, this is nothing. I'll see you back on the Wandering Sea, Mister.
 
+![](https://i.imgur.com/MmofDel.png)
+
 **Da Vinci:**
 We're taking some serious lateral Gs, but bear with it!
 
@@ -1135,6 +1154,8 @@ Shadow Border, launch!
 
 **Da Vinci:**
 ...Shadow Border! Launching!
+
+![](https://i.imgur.com/7HpQmWM.png)
 
 **Meunière:**
 When you say lau—Whoooooooooaaaaaaa!
@@ -8788,7 +8809,7 @@ It's something else.
 
 
 
-## Second Coming of Cherishment
+## Section 11: Second Coming of Cherishment
 
 
 
