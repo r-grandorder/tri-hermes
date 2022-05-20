@@ -2474,12 +2474,14 @@ I am—.
 
 **--ARROW--**
 
-
+![](https://i.imgur.com/aEe3CDk.png)
 
 ---
 
 **Fujimaru 1:**
 Taigong Wang—?
+
+---
 
 **Taigong:**
 Yes. I am Taigong Wang.
@@ -2514,8 +2516,12 @@ The great hero who bested King Zhou, the last monarch of the Shang, alongside Ki
 **Mash:**
 According to the Investiture of the Gods, not only did he best King Zhou, he is also said to be a practitioner of the sage arts who smote the many fiends who sided with the Shang.
 
+![](https://i.imgur.com/iQq3R1R.png)
+
 **Da Vinci:**
 We did it! We hit the jackpot!
+
+![](https://i.imgur.com/you6GD9.png)
 
 **Goredolf:**
 Hear, hear! Taigong!
@@ -2559,11 +2565,15 @@ As you say, Daji was a Beast. One of the beasts corresponding to the Evils of Hu
 **Taigong:**
 In any caaaaaaaaase, she was well and truly strong!
 
+![](https://i.imgur.com/d4EfjcD.png)
+
 **Taigong:**
 #### For real!
 
 **Goredolf:**
 I knew it! So that IS the case!
+
+
 
 ---
 
@@ -2577,14 +2587,22 @@ Fox...
 
 ---
 
+![](https://i.imgur.com/hZbBDI4.png)
+
+---
+
 **Fujimaru 1:**
 (Tamamo-no-Mae...?)
+
+---
 
 **Mash:**
 (U-Umm, Senpai?)
 
 **Mash:**
 (I do believe Tamamo-no-Mae has gone on record saying she and Daji are not the same person...)
+
+![](https://i.imgur.com/No83HKX.png)
 
 **Tamamo Cat:**
 Hmm? Daji?
@@ -2604,6 +2622,8 @@ Daji of the Shang! Bao Si of the Zhou! In the Kingdom of Devala, she is a great 
 **Tamamo Cat:**
 An evil fox who gives the Tamamos a bad name.
 
+![](https://i.imgur.com/DSyrQTY.png)
+
 **Tamamo-no-Mae:**
 You. Are. Mistaken.
 
@@ -2615,6 +2635,8 @@ I really, really want you to cut that out.
 
 **Tamamo Cat:**
 Woah, that nonchalant way of not even denying the Zhou and Devala stuff...so this is the original's cunning art of conversation? This'll be a good reference.
+
+![](https://i.imgur.com/deCzM8L.png)
 
 **Tamamo Cat:**
 But aren't you only leaving Daji out because she's been on your mind?
@@ -2634,6 +2656,8 @@ Speaking of Daji, isn't she the one who went above and beyond with being a cruel
 **Tamamo-no-Mae:**
 A majestic siren, a rare breed who killed people in the most brutal fashion. Like with the paoluo...
 
+![](https://i.imgur.com/7Xqjxkp.png)
+
 **Tamamo-no-Mae:**
 How should I put it, even I wouldn't go that far.
 
@@ -2646,8 +2670,12 @@ making an entire country her husband is beyond her.
 **Tamamo-no-Mae:**
 ...listen to me, Cat. I'll take this opportunity to clarify things.
 
+![](https://i.imgur.com/F7HnwLX.png)
+
 **Tamamo-no-Mae:**
 My official stance is that I know nothing about Daji. Not even the littlest, tiniest, slightest bit!
+
+![](https://i.imgur.com/Pqh8Ihc.png)
 
 **Taigong:**
 Hmm? Is something the matter?
@@ -2671,7 +2699,7 @@ Humph, I may not know much about myself, but it seems like the knowledge itself 
 Isn't this great news? Finally, Chaldea has gained a legendary figure as an ally!
 
 **Fou:**
-Foufou!
+Fou fou!
 
 **Da Vinci:**
 It feels kind of strange having a Divine Spirit say that...
@@ -2693,6 +2721,8 @@ Even now, I'm struggling not to be forced out. I managed to cobble together some
 
 **Taigong:**
 but to be honest, I'm not doing too well.
+
+![](https://i.imgur.com/eKzS8Gf.png)
 
 **Nikitch:**
 Is that a fact?
@@ -2758,8 +2788,12 @@ Oh, me? I zoned out while watching the dragon talk.
 **Mash:**
 (They're perfectly synchronized!)
 
+---
+
 **Nikitch:**
-I am Dobrynya Nikitich.You, the dragon.
+I am Dobrynya Nikitich. You, the dragon.
+
+![](https://i.imgur.com/SaE0gel.png)
 
 **Nikitch:**
 Feel free to call me either Dobrynya or Nikitich.
@@ -2834,6 +2868,8 @@ And here's our Master...
 
 **Fujimaru 1:**
 I'm Fujimaru of Chaldea.
+
+---
 
 **Taigong:**
 Right, pleasure to meet you.
@@ -2925,8 +2961,12 @@ Might is everything, that is, if you wish to be a bogatyr of salvation.
 **Nikitch:**
 Clothes only get in the way. Alright, it's easier to move now.
 
+![](https://i.imgur.com/ANg1UUV.png)
+
 **Taigong:**
 Hold up.
+
+![](https://i.imgur.com/gdXAJ0K.png)
 
 **Nikitch:**
 Let's see how good you are. That fine with you?
@@ -2962,10 +3002,12 @@ Prove your valor to me!
 
 **--BATTLE--**
 
-
+![](https://i.imgur.com/kvZELa2.png)
 
 **Nikitch:**
 Ha ha ha ha ha!
+
+![](https://i.imgur.com/Qvemm3x.png)
 
 **Mash:**
 Gh!
@@ -2982,6 +3024,10 @@ From the sky...!
 
 **Fujimaru 2:**
 Another air battle, just like Melusine!
+
+---
+
+![](https://i.imgur.com/39r1RLy.png)
 
 **Ibuki Dōji:**
 We're not being bombarded, but we're at a huge disadvantage!
@@ -3071,11 +3117,15 @@ This feeling...
 **Fujimaru 1:**
 Mash!
 
+---
+
 **Mash:**
 Yes! It appears to be magecraft that lets you walk on the air!
 
 **Taigong:**
 The two of you from Chaldea, I will now use fangshu to back you up.
+
+![](https://i.imgur.com/gxSjVP3.png)
 
 **Taigong:**
 By the way, I'll be riding Si Bu Xiang. After all, my class is still Rider, you see.
@@ -3093,7 +3143,7 @@ Then I'll take to the sky first!
 
 **--BATTLE--**
 
-
+![](https://i.imgur.com/vwmixNd.png)
 
 **Nikitch:**
 Wind sorcery...? Taigong!
@@ -3104,11 +3154,15 @@ I've temporarily cut down the ceiling for flight. This should be, yes...
 **Taigong:**
 Lady Ibuki-Douji!
 
+![](https://i.imgur.com/JnPBcxm.png)
+
 **Ibuki Dōji:**
 #### But of course!
 
 **Ibuki Dōji:**
 Mash, make me a foothold!
+
+![](https://i.imgur.com/S8Ddssp.png)
 
 **Mash:**
 Y-Yes, I don't mind. Please use my shield as a springboard!
@@ -3120,12 +3174,14 @@ Thank you!!
 Here I come, then.
 
 **Ibuki Dōji:**
-#### Pseudo Noble Phantasm - #### Nukite Hachimyaku Dotou!
+#### Pseudo Noble Phantasm - Nukite Hachimyaku Dotou!
 
 ---
 
 **Fujimaru 1:**
 Isn't this one brand-new!?
+
+---
 
 **Mash:**
 Since she called it a Pseudo Noble Phantasm, it may only be a simple attack!
@@ -3140,6 +3196,10 @@ For now, I'll pass on all the magical energy I can!
 **Fujimaru 2:**
 Get 'em, Ibuki-Douji!
 
+---
+
+![](https://i.imgur.com/dvgMVHJ.png)
+
 **Nikitch:**
 A dragon of the earth that swims through the sky! Elegant, but hardly fair...!
 
@@ -3151,6 +3211,8 @@ We must decide whose is superior!—Come at me!
 
 **Ibuki Dōji:**
 ...Hm!
+
+![](https://i.imgur.com/bFTgf21.png)
 
 **Nikitch:**
 ...Well struck!
@@ -3192,11 +3254,14 @@ An all-out attack while doing an octuple spin!
 **Fujimaru 2:**
 That was one crazy assault you pulled off.
 
+---
+
 **Ibuki Dōji:**
 ... ...
 
 **Ibuki Dōji:**
-...I'm kind of tired from going into all-out mode. (Blowing off steam)
+...I'm kind of tired from going into all-out mode. 
+(Blowing off steam)
 
 ---
 
@@ -3214,11 +3279,11 @@ Chill out before you do something reckless.
 **Ibuki Dōji:**
 ...Guess I'd better, yeah.
 
-
+---
 
 **--ARROW--**
 
-
+![](https://i.imgur.com/dIWKrdx.png)
 
 **Nikitch:**
 There we go.
@@ -3240,6 +3305,8 @@ Phew, I'm just glad you're all safe...and I hope you won't drive me to a heart a
 
 **Nikitch:**
 Haw-haw-ha! Haw-haw-ha!
+
+![](https://i.imgur.com/LSFoELV.png)
 
 **Goredolf:**
 You don't fool me. I can hear the obstinance in that resounding laugh of yours.
@@ -3289,8 +3356,12 @@ I suppose it's fine to be bull-headed. Psychology and the ego weren't concepts b
 **Fou:**
 Fofoufou, Merli-fou!
 
+![](https://i.imgur.com/JiKcodc.png)
+
 **Taigong:**
 Yowch!
+
+![](https://i.imgur.com/JPfqAIL.png)
 
 **Mash:**
 N-No, Fou!
@@ -3303,6 +3374,8 @@ Don't do that. I think it's rude for Taigong or Merlin the Flower Magus alike to
 
 **Fou:**
 Fou...
+
+![](https://i.imgur.com/gcKGPH7.png)
 
 **Si Bu Xiang:**
 Mo...Momomomo...
@@ -3334,6 +3407,8 @@ That thing he was just riding...
 
 **Fujimaru 2:**
 was this cute and chubby Baku!?
+
+---
 
 **Mash:**
 Y-Yes. It's a lovely Baku!
@@ -3402,6 +3477,8 @@ Yeah.
 **Fujimaru 2:**
 Please, whatever you have to share!
 
+---
+
 **Taigong:**
 So I see. Is that how the Lostbelts have been all this time?
 
@@ -3440,6 +3517,8 @@ That's how it feels for me. You two are the ones up close and personal with them
 **Fujimaru 1:**
 (Nod)
 
+---
+
 **Taigong:**
 ...
 
@@ -3456,7 +3535,7 @@ What?
 I'm quite pleased you've nibbled onto sharing intelligence, sure.
 
 **Taigong:**
-"I do have important intel I'd like to present.But only after taking care of some loose ends."
+"I do have important intel I'd like to present. But only after taking care of some loose ends."
 
 **Taigong:**
 That's the sort of bargain I had in mind here. Ahaha.
@@ -3497,6 +3576,8 @@ Umm...
 **Nikitch:**
 #### You stupid imbecile!
 
+![](https://i.imgur.com/rGFXEMc.png)
+
 **Taigong:**
 Gyah!
 
@@ -3514,6 +3595,8 @@ Look at her go! She's so enthusiastic!
 
 **Fou:**
 Fou-yum!
+
+![](https://i.imgur.com/mRnvbrV.png)
 
 **Taigong:**
 A—hahahaha! Fine, I give up!
@@ -3550,7 +3633,9 @@ Which means...
 ---
 
 **Fujimaru 1:**
-combat is unavoidable.
+Combat is unavoidable.
+
+---
 
 **Taigong:**
 Right.
@@ -3594,6 +3679,8 @@ Appropriate threats do need sorting out.
 **Nikitch:**
 Oh. Good decision.
 
+---
+
 **Taigong:**
 Then we're settled.
 
@@ -3604,7 +3691,7 @@ Let us begin our very first joint operation!
 
 **--ARROW--**
 
-
+![](https://i.imgur.com/X9ImHwV.png)
 
 **Mash:**
 Just ahead...there's a blizzard blocking our field of vision!
@@ -3614,6 +3701,8 @@ This is no ordinary weather shift! Master, please hold on to me!
 
 **Mash:**
 And that looks like...!
+
+![](https://i.imgur.com/eDgla91.png)
 
 **Nikitch:**
 "Lightning?"
@@ -3642,6 +3731,8 @@ Magical energy and mass to put this thundering blizzard to shame.
 **Taigong:**
 At times inert, other times melting into the valley with a bellow. The first of these kings—
 
+![](https://i.imgur.com/AshjP2a.png)
+
 **Taigong:**
 #### —The wandering glacier, Ivan the Terrible!
 
@@ -3654,6 +3745,8 @@ At times inert, other times melting into the valley with a bellow. The first of 
 
 **Fujimaru 2:**
 Ivan the Terrible!?
+
+---
 
 **Mash:**
 ...!
@@ -3715,6 +3808,8 @@ Please, Ibuki-Douji...
 
 **Fujimaru 2:**
 ...give that thundering tsar one more fight.
+
+---
 
 **Ibuki Dōji:**
 ...Well then, I'm going to have to step things higher than just serious.
