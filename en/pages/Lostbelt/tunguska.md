@@ -3858,7 +3858,7 @@ Oh, another little one. At least you have a warrior's look. Heheh, not bad!
 
 ## Section 5: With Delicate Mad Lives
 
-
+![](https://i.imgur.com/X9ImHwV.png)
 
 **Mash:**
 The blizzard is subsiding...
@@ -3866,10 +3866,14 @@ The blizzard is subsiding...
 **Mash:**
 Total annihilation of the giant hostile life form has been confirmed. The battle has concluded!
 
+![](https://i.imgur.com/YI32I97.png)
+
 ---
 
 **Fujimaru 1:**
 Good work!
+
+---
 
 **Ibuki Dōji:**
 Well done!
@@ -3879,6 +3883,8 @@ Master, Mash, you both did well! Same goes to you, Taigong, Nikichi and Habenyan
 
 **Ibuki Dōji:**
 Haah. I'd really appreciate a drink.
+
+![](https://i.imgur.com/OgyRNt3.png)
 
 **Habetrot:**
 A reward after a hard day's work sounds nice! I too love having apple water after pulling an all-nighter!
@@ -3901,13 +3907,19 @@ Fou!
 **Mash:**
 Woah there, Fou.
 
+![](https://i.imgur.com/I6s3UMj.png)
+
 ---
 
 **Fujimaru 1:**
 What's the matter, Mash?
 
+---
+
 **Mash:**
 Yes. I've...been having these thoughts...
+
+![](https://i.imgur.com/AZuhd8M.png)
 
 **Mash:**
 A recreation of Ivan the Terrible...
@@ -3931,8 +3943,12 @@ After all, Taigong and I have taken out a number of them.
 **Fujimaru 2:**
 I wonder what criteria she chooses by?
 
+---
+
 **Ibuki Dōji:**
 Hmmm. Not too sure myself.
+
+![](https://i.imgur.com/AMXK5tc.png)
 
 **Taigong:**
 Let's summarize, shall we? This time, about the "hostile life forms that exist in this domain".
@@ -3952,6 +3968,8 @@ The ones resembling Yaga and Kali may be those...
 
 **Fujimaru 2:**
 Those are beings unique to their respective Lostbelts...
+
+---
 
 **Taigong:**
 Yes, that is true. You called them Yaga and Kali?
@@ -4017,7 +4035,7 @@ Alrighty!
 
 **--BATTLE--**
 
-
+![](https://i.imgur.com/7z6lvrP.png)
 
 **Taigong:**
 Mm—.
@@ -4095,11 +4113,15 @@ As expected of Taigong.
 **Fujimaru 2:**
 That's right.
 
+---
+
 **Mash:**
 Yes!
 
 **Taigong:**
 But this time, my job is fox hunting—beast hunting. We have to hunt that human-resenting beast.
+
+![](https://i.imgur.com/mLkmjzF.png)
 
 **Da Vinci:**
 Hmm...This is an unusual case indeed.
@@ -4137,11 +4159,15 @@ Uh.
 **Goredolf:**
 Err.
 
+![](https://i.imgur.com/z5rfLVI.png)
+
 **Meunière:**
 Seriously?
 
 **Ibuki Dōji:**
 What happened? Still no bite?
+
+![](https://i.imgur.com/QbDITAJ.png)
 
 **Nikitch:**
 No, not yet.
@@ -4150,6 +4176,8 @@ No, not yet.
 
 **Fujimaru 1:**
 ...Grand Caster?
+
+---
 
 **Taigong:**
 Yes.
@@ -4199,6 +4227,8 @@ When you suddenly reference the supreme being of a mythological system, it's har
 **Meunière:**
 That's right, it's not that funny...
 
+![](https://i.imgur.com/K9nfvBd.png)
+
 **Taigong:**
 I sure was talking big!
 
@@ -4213,14 +4243,20 @@ Um, about that, we're glad to have your help as well!
 **Fujimaru 1:**
 Let's fight together, Taigong. Nikitich.
 
+---
+
 **Taigong:**
 Yep, I'm looking forward to working with you.
 
 **Nikitch:**
 Mm! It's about time I caught something.
 
+![](https://i.imgur.com/WI5fMC3.png)
+
 **Animals:**
 (Fidgeting)
+
+![](https://i.imgur.com/7z6lvrP.png)
 
 **Taigong:**
 Leaving the fishing to Nikitich—let's start our information sharing.
@@ -4240,6 +4276,8 @@ Hmm.
 **Taigong:**
 Perhaps...Were there tanks with tiger heads on them in the Chinese Lostbelt?
 
+![](https://i.imgur.com/riz3iqd.png)
+
 **Mash:**
 T-there were...
 
@@ -4247,6 +4285,8 @@ T-there were...
 
 **Fujimaru 1:**
 There were, indeed...
+
+---
 
 **Taigong:**
 I see. So there were.
@@ -4312,6 +4352,8 @@ Seems like you're barely scraping by.
 **Taigong:**
 I'm confident in my ability to escape. Yep.
 
+---
+
 **Taigong:**
 If they're struck down thoroughly enough, it'll be fine for a while. It's not to the extent where we have to lament the futility of fighting them.
 
@@ -4349,14 +4391,19 @@ The unexpected Strong Style!
 **Fujimaru 2:**
 That's not fishing, you're just grabbing it!
 
+---
+
 **Mash:**
 Your whole body is soaked! A-are you okay?
 
 **Nikitch:**
 No problem.
 
+![](https://i.imgur.com/gzmGgQr.png)
+
 **Nikitch:**
-Bububububububububu. (Water droplets splashing around)
+Bububububububububu. 
+(Water droplets splashing around)
 
 **Nikitch:**
 That will dry me off.
@@ -4397,6 +4444,8 @@ So those beast ears are your wife's...?
 
 **Fujimaru 2:**
 Maybe your Saint Graph reproduces her features?
+
+---
 
 **Ibuki Dōji:**
 That's so sweet. I wonder if you're a Heroic Spirit that receives blessings from the love between you two.
@@ -4486,6 +4535,8 @@ If there's something you want to show, I'll have a look.
 **Fujimaru 2:**
 A picture is worth a thousand words, right?
 
+---
+
 **Nikitch:**
 Hm. Shall we move then?
 
@@ -4532,6 +4583,8 @@ How convenient...
 **Fujimaru 2:**
 So these are sage arts?
 
+---
+
 **Taigong:**
 Oh no, it's actually one of my originals.
 
@@ -4569,6 +4622,8 @@ Y-yes!
 **Fujimaru 2:**
 I'll be digging in!
 
+---
+
 **Goredolf:**
 ...Let's begin our meal as well then! Fish, hm...I'd like some meunière with it...
 
@@ -4605,6 +4660,8 @@ Mo. Momo. (Chew chew)
 **Hiryuu:**
 (Chew chew)
 
+![](https://i.imgur.com/T6XxYty.png)
+
 **Hiryuu:**
 ...Huh, dragons eat fish, do they?
 
@@ -4612,6 +4669,8 @@ Mo. Momo. (Chew chew)
 
 **Fujimaru 1:**
 He's speaking...—!?
+
+---
 
 **Fou:**
 #### Spea-Fou!
@@ -4650,6 +4709,8 @@ He's speaking normally.
 **Fujimaru 2:**
 Talking horses exist, I know.
 
+---
+
 **Mash:**
 Y-yes. It's rare to find a horse (?) that speaks so fluently.
 
@@ -4687,6 +4748,8 @@ I-I'll be careful. Yes.
 
 **Fujimaru 1:**
 (Gaze warily at Hiryuu)
+
+---
 
 **Hiryuu:**
 What...so you're gonna watch out, huh...
@@ -4734,7 +4797,7 @@ Is it just my imagination? No, I don't think it is...
 
 **--ARROW--**
 
-
+![](https://i.imgur.com/ERjVxHI.png)
 
 **Nikitch:**
 Charge, my steed!
@@ -4769,6 +4832,8 @@ And—
 **Narration:**
 We approach the canyon—
 
+![](https://i.imgur.com/QcMrePo.png)
+
 **Ibuki Dōji:**
 ...oh, these are interesting creatures.
 
@@ -4791,6 +4856,8 @@ Thanks for joining us, Ibuki Douji.
 **Fujimaru 2:**
 Were you seen by the Lost Familiars?
 
+---
+
 **Ibuki Dōji:**
 Don't worry. I kept an eye out while scouting around.
 
@@ -4799,6 +4866,8 @@ There were about three groups on the ground. I didn't see any that looked especi
 
 **Ibuki Dōji:**
 So what is this thing?
+
+![](https://i.imgur.com/bHflt2o.png)
 
 **Taigong:**
 I wanted to show all of you this. They're the easiest ones to comprehend.
@@ -4839,6 +4908,8 @@ If it's not a normal creature...
 
 **Fujimaru 2:**
 Could it be a Phantasmal?
+
+---
 
 **Da Vinci:**
 That's not out of the question.
@@ -4906,6 +4977,8 @@ This is just a colony. They hunt mainly in the forest and river areas.
 **Taigong:**
 —by specimens who possess the role of hunter.
 
+![](https://i.imgur.com/l6XzepG.png)
+
 **Mash:**
 !
 
@@ -4936,6 +5009,8 @@ You could call them social animals if they form a society.
 **Da Vinci:**
 Wait a tick, because in that case it sounds almost like they're insects, or—
 
+![](https://i.imgur.com/FUzM1Kv.png)
+
 **Mash:**
 ... ...
 
@@ -4946,6 +5021,8 @@ Wait a tick, because in that case it sounds almost like they're insects, or—
 
 **Fujimaru 1:**
 ...humans?
+
+---
 
 **Mash:**
 ...yes, Senpai.
@@ -5039,6 +5116,8 @@ but its internal organs are completely alien.
 **Fujimaru 1:**
 Every living thing in this territory is a new species?
 
+---
+
 **Taigong:**
 Exactly!
 
@@ -5076,6 +5155,8 @@ Yes.
 **Fujimaru 2:**
 Why would Koyanskaya do this?
 
+---
+
 **Taigong:**
 There you have it. The grand mystery.
 
@@ -5087,6 +5168,8 @@ What we know right now is based solely on what we can observe.
 
 **Taigong:**
 But what does the ruler sitting in the center of this realm actually want—
+
+![](https://i.imgur.com/ERjVxHI.png)
 
 **Narration:**
 In order to corroborate what Taigong said—
@@ -5117,6 +5200,8 @@ The environment in this territory was as far removed from human history as a Los
 
 **Narration:**
 Furthermore, there is a huge difference between here and the previous Lostbelts.
+
+![](https://i.imgur.com/LiQUAmB.png)
 
 **Narration:**
 There are no people.
@@ -5161,6 +5246,8 @@ A sanctuary...
 
 **Fujimaru 1:**
 —it's beautiful.
+
+---
 
 **Mash:**
 ...yes.
@@ -5232,6 +5319,8 @@ And the other...?
 
 **Taigong:**
 A place diametrically opposed to paradise. Namely—
+
+![](https://i.imgur.com/DGUPXdw.png)
 
 **Taigong:**
 Hell.
