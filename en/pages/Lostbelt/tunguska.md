@@ -5329,7 +5329,7 @@ Hell.
 
 ## Section 6: Out of the Everywhere, and Other Extraordinary Slaughters
 
-
+![](https://i.imgur.com/lJzlS78.png)
 
 **Narration:**
 —I heard a voice.
@@ -5343,6 +5343,8 @@ Stone. Iron. Fire. Oil. It was an unending torrent.
 **Narration:**
 Each of them a tool that reshaped the world and heralded the dawn of a new age.
 
+![](https://i.imgur.com/70TP0Qw.png)
+
 **Narration:**
 Both wonderful and detestable.
 
@@ -5350,10 +5352,15 @@ Both wonderful and detestable.
 It's understandable. If humanity is that way, then it's only natural that they would be taken.
 
 **Narration:**
-Countless roaring noises. Echoing violence.Beating. Cutting. Shooting. Developing.
+Countless roaring noises. Echoing violence. 
+Beating. Cutting. Shooting. Developing.
 
 **Narration:**
 With the song of life and death as my lullaby, I attain what I am.
+
+![](https://i.imgur.com/xcuZMrf.png)
+
+![](https://i.imgur.com/70TP0Qw.png)
 
 **Narration:**
 Sudden death. Sudden power. A sudden roar. Conflict and coexistence. Protection from and strikes against. Exploitation and subjugation.
@@ -5378,6 +5385,12 @@ If that is how you all are—
 
 **Narration:**
 Then I must be the same.
+
+![](https://i.imgur.com/bhQEatG.png)
+
+![](https://i.imgur.com/B5exxML.png)
+
+![](https://i.imgur.com/7ktKDMg.png)
 
 **Narration:**
 It was a massacre.
@@ -5427,8 +5440,12 @@ The way this is, it's more toxic even than brewing gu poison.
 **Taigong:**
 This is the other way things work in this Special Territory—
 
+![](https://i.imgur.com/el6ciKh.png)
+
 **Taigong:**
 the Dead Zone. Yes, that's the name I gave it.
+
+![](https://i.imgur.com/2gLKIJg.png)
 
 **Mash:**
 ...!
@@ -5438,11 +5455,15 @@ the Dead Zone. Yes, that's the name I gave it.
 **Fujimaru 1:**
 ...
 
+---
+
 **Fou:**
 Fouu...
 
 **Da Vinci:**
 This too...is shocking...
+
+![](https://i.imgur.com/KCwafbp.png)
 
 **Goredolf:**
 ...I've just seen the full-color images...
@@ -5514,6 +5535,8 @@ I want to know my enemies, if I can.
 **Da Vinci:**
 You won't be deceived as long as you're there, even if you turn away.
 
+---
+
 **Nikitch:**
 You're speaking of hearts and minds, are you? Not bad for a commander.
 
@@ -5562,6 +5585,8 @@ I can't look anymore! That's all!
 **Fou:**
 Fou!
 
+![](https://i.imgur.com/QAdRr5F.png)
+
 **Nikitch:**
 What the dragon says is correct.
 
@@ -5597,6 +5622,8 @@ If the land of the north is in crisis, I come running. Even if it's a Subcategor
 
 **Nikitch:**
 Actually, I would have loved to have been with you in the Russian Lostbelt!
+
+![](https://i.imgur.com/kDHhckD.png)
 
 **Nikitch:**
 I'm strong, so I can handle most anything. Even the horrors of war that threaten the lands of the north.
@@ -5649,8 +5676,11 @@ No, that's impossible.
 **Nikitch:**
 I said "most", didn't I?
 
+![](https://i.imgur.com/kCjzzjV.png)
+
 **Nikitch:**
-I can take down an enemy that lays waste to the land. But something not actually there is out of the question.
+I can eliminate enemies who infringe upon the land.
+But, something beyond the present boundaries is out of the question.
 
 **Nikitch:**
 I couldn't prevent the land from being bleached over, and so fail to prevent the establishment of the Lostbelt.
@@ -5680,6 +5710,10 @@ I'm counting on you.
 **Nikitch:**
 Yeah, keep on buttering me up!
 
+---
+
+![](https://i.imgur.com/1krWbdf.png)
+
 **Taigong:**
 Well...Nikitich...
 
@@ -5692,11 +5726,15 @@ When was that? Ah yes, while you were in Constantinople.
 **Taigong:**
 Did the months pass by that quickly? Even the Grand Prince of Kiev told her to just give up and remarry already...
 
+![](https://i.imgur.com/HNbLfS7.png)
+
 **Nikitch:**
 Yeah, that's right!
 
 **Nikitch:**
 A story about how he should have stopped being so righteous, since he was on the verge of losing his beloved wife.
+
+![](https://i.imgur.com/OVpfVlH.png)
 
 **Nikitch:**
 Enough of this.
@@ -5719,11 +5757,11 @@ Enough of this.
 **Goredolf:**
 ...???
 
-
+![](https://i.imgur.com/dUtNnKn.png)
 
 **--ARROW--**
 
-
+![](https://i.imgur.com/uZheguN.png)
 
 **Da Vinci:**
 —Data aggregation, completed in full.
@@ -5750,11 +5788,17 @@ Are you alright, Da Vinci?
 **Fujimaru 2:**
 You don't look so good...
 
+---
+
 **Da Vinci:**
 Me? I'm doing just fine.
 
+!][](https://i.imgur.com/K6l4Ph5.png)
+
 **Da Vinci:**
 I could ask the same of you. That's not exactly a pleasant sight.
+
+![](https://i.imgur.com/6BCLsU0.png)
 
 **Taigong:**
 —Twisted is what it is.
@@ -5847,8 +5891,14 @@ So that means—
 **Fujimaru 2:**
 Mash!
 
+---
+
+![](https://i.imgur.com/n14YpQm.png)
+
 **Mash:**
 Yes! Senpai!
+
+![](https://i.imgur.com/ibXnLJr.png)
 
 **Da Vinci:**
 Please tell us that sooner! Fujimaru, Mash!
@@ -5861,6 +5911,10 @@ Moving to intercept! Master!
 **Fujimaru 1:**
 Begin interception!
 
+---
+
+![](https://i.imgur.com/ya03z0c.png)
+
 **Mash:**
 Roger that!
 
@@ -5872,7 +5926,7 @@ Roger that!
 
 ## Section 7: The Ices Are Melted, The Flames Will Be Gone
 
-
+![](https://i.imgur.com/ibXnLJr.png)
 
 **Mash:**
 Master!
@@ -5881,6 +5935,8 @@ Master!
 
 **Fujimaru 1:**
 (I feel more panicky than usual...!?)
+
+---
 
 **Nikitch:**
 Fall back for a moment, Fujimaru! Hold the line, Mash!
@@ -5901,6 +5957,10 @@ I'm fine, please put me back down.
 **Fujimaru 2:**
 I can keep going!
 
+---
+
+![](https://i.imgur.com/8NM4SPS.png)
+
 **Nikitch:**
 That's enough now, no acting tough.
 
@@ -5909,6 +5969,8 @@ I get it. This sort of thing's bound to get you panic-stricken. It's only natura
 
 **Nikitch:**
 That was purposefully cruel of Taigong! We shouldn't have to engage in any avoidable fights,
+
+![](https://i.imgur.com/nJDqijB.png)
 
 **Nikitch:**
 but he wanted you to experience it. He's...
@@ -5920,6 +5982,8 @@ Well, since he's been there himself and all.
 
 **Fujimaru 1:**
 ...?
+
+---
 
 **Nikitch:**
 Just talking to myself. More importantly, these war-beast creatures?
@@ -5950,6 +6014,8 @@ To think...
 
 **Nikitch:**
 there's such an unsightly hodgepodge of them! Good grief!
+
+![](https://i.imgur.com/vrvawDh.png)
 
 **Nikitch:**
 I am furious! Furious, I say!
@@ -5982,6 +6048,8 @@ Nikitich!
 **Fujimaru 2:**
 Don't worry, I won't do anything rash.
 
+---
+
 **Nikitch:**
 ...understood.
 
@@ -6003,10 +6071,14 @@ Now then—let's do this!
 
 **--BATTLE--**
 
-
+![](https://i.imgur.com/CwGpCOk.png)
 
 **Ibuki Dōji:**
 Doesn't matter how much lead you sling at me! Ahahahahaha!
+
+![](https://i.imgur.com/CA7FOAs.png)
+
+![](https://i.imgur.com/s5h3nrZ.png)
 
 **Mash:**
 ...!
@@ -6025,6 +6097,8 @@ You're slow.
 
 **Mash:**
 The battle has ended! All hostile responses have been exterminated.
+
+![](https://i.imgur.com/GqENASC.png)
 
 **Mash:**
 Good work, Master.
@@ -6047,6 +6121,8 @@ Thanks for protecting me, Wyvern.
 
 **Hiryuu:**
 No worries. After all, Nikitich requested it.
+
+---
 
 **Fou:**
 Fou!
@@ -6072,17 +6148,25 @@ Once they ascertain that the enemy is a Heroic Spirit, their attacks can get mad
 **Taigong:**
 Those long-range attacks are already troublesome on their own, so things will get out of hand if the Lost Familiars get involved as well.
 
+![](https://i.imgur.com/qFEG3GA.png)
+
 **Nikitch:**
 Taigong!
 
+![](https://i.imgur.com/UKss673.png)
+
 **Taigong:**
 Yes?
+
+![](https://i.imgur.com/bBXMCCk.png)
 
 **Nikitch:**
 You fool! Don't jinx us!
 
 **Nikitch:**
 Those remarks tend to come true!
+
+![](https://i.imgur.com/O6cteG9.png)
 
 **Taigong:**
 Haha. Surely not!
@@ -6157,14 +6241,24 @@ Please tell us these things in advance.
 **Fujimaru 2:**
 It's no good if you won't talk to us!
 
+---
+
+![](https://i.imgur.com/HF38J7n.png)
+
 **Nikitch:**
 Fujimaru has a point.
+
+![](https://i.imgur.com/OzNmsbL.png)
 
 **Da Vinci:**
 Yeah!
 
+![](https://i.imgur.com/T32PecT.png)
+
 **Taigong:**
 ...oh no! My deepest apologies!
+
+![](https://i.imgur.com/2E8JmGE.png)
 
 **Mash:**
 P-Please allow me to confirm, Taigong. Are there any signs, like that blizzard earlier!?
@@ -6175,6 +6269,8 @@ There are signs, alright. Just not on the ground—
 **Taigong:**
 Above us!
 
+![](https://i.imgur.com/wu4kf4p.png)
+
 **Taigong:**
 The base is far above us!
 
@@ -6183,6 +6279,8 @@ Visual recognition is impossible under normal circumstances. However, should it 
 
 **Taigong:**
 a chasm will open up in the sky.
+
+![](https://i.imgur.com/9Nf6CHq.png)
 
 **Mash:**
 —!
@@ -6215,6 +6313,8 @@ The king of the Fire Jötunns. This hole is where his Lost Weapon recreation dri
 **Taigong:**
 That's right, it's a hole. A rift in space that occurs only for the briefest of moments.
 
+---
+
 **Taigong:**
 On the other side lies an inferno that scorches the earth as it warps and incinerates physical phenomena!
 
@@ -6227,8 +6327,12 @@ It likely isn't the doomsday device that the real deal was. If we cannot handle 
 **Taigong:**
 then we cannot possibly hope to eliminate the Beast!
 
+![](https://i.imgur.com/jZDiACr.png)
+
 **Nikitch:**
 —It intends to come out here.
+
+![](https://i.imgur.com/bBXMCCk.png)
 
 **Nikitch:**
 Be wary of the extreme heat! Especially you, Fujimaru!
@@ -6239,11 +6343,15 @@ It can obliterate living beings with ease. Dragon, use your scales to protect .
 **Ibuki Dōji:**
 Oh, I'd better. Got it!
 
+![](https://i.imgur.com/eWRY1gg.png)
+
 **Ibuki Dōji:**
 Also turning my serious mode on while I'm at it!
 
 **Ibuki Dōji:**
 While we're here, you may as well come out, Habenyan!
+
+![](https://i.imgur.com/asx9Mb4.png)
 
 **Habetrot:**
 First I was freezing! Now I'm burning up! Is this how Chaldea rolls?
@@ -6253,6 +6361,8 @@ But I guess we're all in this together! Can't whine about it!
 
 **Habetrot:**
 Alright, Habenyan's gonna do her best! After all, my big sis Ibuki asked for me!
+
+![](https://i.imgur.com/8tgNq0q.png)
 
 **Nikitch:**
 There, there, how dependable of you, gallant little fairy. That being said, Taigong!
@@ -6268,6 +6378,10 @@ The magical energy signature in the sky is expanding! It's just like the real de
 
 **Nikitch:**
 #### Here it comes!
+
+![](https://i.imgur.com/ZSyYHCu.png)
+
+![](https://i.imgur.com/BUPQR6B.png)
 
 **Mash:**
 —Jötunn King Surtr's recreation has materialized!
@@ -6294,6 +6408,8 @@ I feel like clobbering the enemy forces too!
 **Fujimaru 2:**
 Let's do this!
 
+---
+
 **Nikitch:**
 An excellent answer. Let's take to the skies then!
 
@@ -6308,7 +6424,7 @@ An excellent answer. Let's take to the skies then!
 
 ## Section 8: Your Haploid Paradise
 
-
+![](https://i.imgur.com/GqENASC.png)
 
 **Mash:**
 ...confirmed elimination of giant enemy.
@@ -6344,6 +6460,8 @@ Oh yeah, for sure.
 **Fujimaru 2:**
 The real Lævateinn was even more incredible.
 
+---
+
 **Ibuki Dōji:**
 Yeah, I thought so.
 
@@ -6362,8 +6480,12 @@ You surprised? You astonished, Master? I think I'm surprised by what I just said
 **Nikitch:**
 You get strangely riled up, Dragon. Is it the evil dragon phenomenon mixed with the giant's heat?
 
+![](https://i.imgur.com/kmatlp5.png)
+
 **Nikitch:**
 Here, have some water.
+
+![](https://i.imgur.com/ZtlBhqV.png)
 
 **Ibuki Dōji:**
 Pwaah!
@@ -6389,6 +6511,8 @@ Anyway, the battle is over!
 
 **Fujimaru 2:**
 Really good work, everyone.
+
+---
 
 **Mash:**
 Yes, Senpai.

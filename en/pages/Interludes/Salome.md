@@ -862,4 +862,3 @@ Note: This interlude has not been translated yet, or summarized.
 
 **サロメ:**
 どうか&mdash;あなたは、あなたのままで頑張ってね？
-
