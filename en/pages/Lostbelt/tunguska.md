@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/b8Qurpi.png)
 
-Note: Translated by: Rayshift Team - Gaius, Zaszc, Porkslope, Yusuke
+[Note: Translated by: Rayshift Team - Gaius, Zaszc, Porkslope, Yusuke](https://www.youtube.com/watch?v=vS9wjiztHaU&list=PLax9JmtqMNMIZvkY8mHylBuzohf4bcIOh)
 
 ## Prologue
 
@@ -6535,20 +6535,25 @@ Like this, right? (Shadowboxing)
 **Fou:**
 Foooo...
 
+![](https://i.imgur.com/zn4QlTQ.png)
+
 **Ibuki Dōji:**
 Hm...?
 
 **Ibuki Dōji:**
-But it kinda can't be helped, you know? It was a strong guy's base, right?
+But it kinda can't be helped, you know? This is a strong person's territory, right?
 
 **Ibuki Dōji:**
-After all, there are a lot of cognitive disruption arts placed around. It's really serious stuff.
+After all, there are multiple Arts prepared here for confusing one's perceptions.
+That person must be dreadfully serious.
+
+![](https://i.imgur.com/FbJrxma.png)
 
 **Ibuki Dōji:**
 Huh? Did I say something weird?
 
 **Ibuki Dōji:**
-Cognitive disruption. Like what was on those three giant chieftains?
+Perception disruption. Like what was associated with those three giant chieftains?
 
 ---
 
@@ -6571,6 +6576,8 @@ So they're hard to notice?
 
 **Ibuki Dōji:**
 Yes, exactly!
+
+---
 
 **Ibuki Dōji:**
 Taigong said a few things, but did you really forget about it until just now?
@@ -6604,6 +6611,10 @@ That may be...
 
 **Fujimaru 2:**
 Ibuki-Douji...?
+
+---
+
+![](https://i.imgur.com/IpBDr8D.png)
 
 **Ibuki Dōji:**
 Huh? Really?
@@ -6656,6 +6667,8 @@ It feels like my insides are being lifted...! Is this forced levitation!?
 **Taigong:**
 This is the Tudun technique.
 
+![](https://i.imgur.com/d238Uho.png)
+
 **Fou:**
 Fou, fooou!
 
@@ -6683,6 +6696,8 @@ Whoa!
 
 **Fujimaru 2:**
 Is this the legendary magic carpet!?
+
+---
 
 **Taigong:**
 Well, it's nothing so free-flying. Only a method to fire you from point-to-point.
@@ -6720,17 +6735,27 @@ I used this technique many times during my travels! Off we go!
 **Taigong:**
 Whoosh!
 
+![](https://i.imgur.com/E2Jp0bE.png)
+
 **Si Bu Xiang:**
 Mo. Mo.
+
+![](https://i.imgur.com/NxNpkHP.png)
 
 **Fou:**
 Fou?
 
+![](https://i.imgur.com/E2Jp0bE.png)
+
 **Si Bu Xiang:**
 Mo. Mo.
 
+![](https://i.imgur.com/NxNpkHP.png)
+
 **Fou:**
 Fou, fooou!
+
+![](https://i.imgur.com/zYffCfY.png)
 
 **Ibuki Dōji:**
 The Life Zone, I presume?
@@ -6741,14 +6766,22 @@ This area is relaxing somehow. Makes you feel like just sighing in relief, right
 **Ibuki Dōji:**
 Fou and Si Bu Xiang also seem somehow relaxed!
 
+![](https://i.imgur.com/E2Jp0bE.png)
+
 **Si Bu Xiang:**
 Mo. Mo. 
+
+![](https://i.imgur.com/NxNpkHP.png)
 
 **Fou:**
 Fou~!
 
+![](https://i.imgur.com/E2Jp0bE.png)
+
 **Si Bu Xiang:**
 Mo. Mo. 
+
+![](https://i.imgur.com/NxNpkHP.png)
 
 **Fou:**
 Fo! Fo! 
@@ -6768,6 +6801,10 @@ It was pretty rough before.
 
 **Ibuki Dōji:**
 Was it?
+
+---
+
+![](https://i.imgur.com/Tw0W160.png)
 
 **Taigong:**
 That which we call nature is harsh to the civilized man...
@@ -6796,6 +6833,10 @@ The Dead Zone...
 
 **Mash:**
 We may have been feeling more pressure than we imagined.
+
+---
+
+![](https://i.imgur.com/83IxyIu.png)
 
 **Da Vinci:**
 I have a suggestion. How about you rejoin with the Border? All that fighting has worn you out,
@@ -6829,6 +6870,8 @@ Then let's set up camp and wait here. Nikitich.
 
 **Nikitch:**
 You got it. Let's go fishing!
+
+![](https://i.imgur.com/YfvbGdx.png)
 
 **Ibuki Dōji:**
 ...oh, that smells good.
@@ -6868,6 +6911,8 @@ Now everyone—dig in!
 **Fujimaru 1:**
 Let's eat!
 
+---
+
 **Mash:**
 Yes, it looks delicious.
 
@@ -6876,6 +6921,8 @@ Fofou!
 
 **Taigong:**
 Now, please listen up while you eat, everyone.—if that isn't a problem, Lady Leonardo da Vinci?
+
+![](https://i.imgur.com/ZiJzldo.png)
 
 **Da Vinci:**
 Yeah, go ahead. The Director and Meunière are busy driving the Border and keeping an eye on the perimeter.
@@ -6942,6 +6989,8 @@ Fou!?
 **Fujimaru 1:**
 A Reality Marble...
 
+---
+
 **Da Vinci:**
 ...the ultimate achievement in magecraft.
 
@@ -6976,11 +7025,17 @@ A paradise safe from outsiders...
 **Fujimaru 1:**
 A hell of human-killing weapons walking the earth...
 
+---
+
+![](https://i.imgur.com/gDQNGMZ.png)
+
 **Mash:**
 ...
 
 **Mash:**
 If this is how her spirit is...if it is what shapes this world, then...
+
+![](https://i.imgur.com/IFSG5Az.png)
 
 **Da Vinci:**
 Refutal of the existence of mankind, and scathing cynicism towards civilization.
@@ -7025,7 +7080,8 @@ In any case, we'd be better off thinking of this as a Reality Marble from here o
 After all, the theme is far too consistent!
 
 **Taigong:**
-On the one hand, abundant life!On the other, boundless carnage!
+On the one hand, abundant life!
+On the other, boundless carnage!
 
 **Taigong:**
 And both of them rejecting humanity!
@@ -7057,11 +7113,15 @@ Now I'll prove why I think it's so unnatural. Please think back, everybody.
 **Taigong:**
 Do you recall the animals you saw at the canyon in the Life Zone?
 
+![](https://i.imgur.com/lXHO3i3.png)
+
 **Mash:**
 Y-yes.
 
 **Mash:**
 The new species, parents and children—
+
+![](https://i.imgur.com/MUzpv2j.png)
 
 **Taigong:**
 Those were not parents and children.
@@ -7098,6 +7158,10 @@ I had a lot of time to kill before meeting you all, and so I made use of many fa
 
 **Taigong:**
 So I can say this definitively, okay?
+
+![](https://i.imgur.com/OByH2a8.png)
+
+![](https://i.imgur.com/ZzBJ92e.png)
 
 **Taigong:**
 The creatures of this world don't interbreed. Not the animals, not the plants, and not the war-beasts.
@@ -7156,6 +7220,8 @@ This world is definitively in a closed state.
 **Taigong:**
 In some ways...even moreso than a Singularity or a Lostbelt.
 
+![](https://i.imgur.com/aWJgice.png)
+
 ---
 
 **Fujimaru 1:**
@@ -7165,6 +7231,8 @@ Even if that's the case...
 
 **Fujimaru 1:**
 These animals and plants have lives, don't they...?
+
+---
 
 **Taigong:**
 Yes, they most certainly do.
@@ -7227,8 +7295,12 @@ or perhaps an exaggerated form of her as a Heroic Spirit.
 **Taigong:**
 My word. What was she thinking when she built this world...
 
+---
+
 **Da Vinci:**
 No egos or sense of self...
+
+![](https://i.imgur.com/8XNK6QZ.png)
 
 **Mash:**
 ...
@@ -7268,6 +7340,8 @@ Be on guard, right? Understood.
 **Fujimaru 1:**
 (Nod emphatically)
 
+---
+
 **Fou:**
 Fou!
 
@@ -7299,6 +7373,8 @@ Hmph. Not bad.
 **Fujimaru 2:**
 (As expected of a bogatyr...!)
 
+---
+
 **Nikitch:**
 And she's right, keep your eyes open! Being in a Reality Marble is no different from being in the enemy's lair.
 
@@ -7313,11 +7389,13 @@ No matter what happens, don't lose your heads!
 **Fujimaru 1:**
 Yessir!
 
+---
+
 
 
 ## Section 9: Planet Songs of the Primate I
 
-
+![](https://i.imgur.com/lJzlS78.png)
 
 **Narration:**
 —He came from Xuzhou by the Eastern Sea. His family name was Jiāng and his given name was Shàng.
@@ -7351,6 +7429,8 @@ He was even somewhat aware that he was more knowledgeable than the common sage.
 
 **Narration:**
 And yet.
+
+![](https://i.imgur.com/HH5MAm8.png)
 
 **Narration:**
 "I am the one known as Daji."
@@ -7416,13 +7496,15 @@ I—
 
 **--ARROW--**
 
-
+![](https://i.imgur.com/ZzBJ92e.png)
 
 **Nikitch:**
 Hmm.
 
 **Taigong:**
 Thank you very much. That completes the provisional contract.
+
+![](https://i.imgur.com/obYeXG8.png)
 
 **Taigong:**
 ... ...
@@ -7440,6 +7522,10 @@ It's good to be in your care once again, ladies and gentlemen of Chaldea.
 
 **Fujimaru 1:**
 Same to the both of you!
+
+---
+
+![](https://i.imgur.com/2gMO4TQ.png)
 
 **Mash:**
 Taigong, Nikitich, please continue to give your support.
@@ -7471,6 +7557,8 @@ Fou!?
 **Ibuki Dōji:**
 My, my.
 
+![](https://i.imgur.com/chw85m0.png)
+
 **Da Vinci:**
 You've completed your provisional contract. Good work—
 
@@ -7491,6 +7579,8 @@ Ahaha, so sorry!
 
 **Da Vinci:**
 Everything all right with you, Director?
+
+![](https://i.imgur.com/HqpxnCt.png)
 
 **Goredolf:**
 The sons of the Musik family train on a daily basis. What doesn't devour us at the first encounter won't faze us again.
@@ -7514,6 +7604,8 @@ Yes, please do.
 **Fujimaru 2:**
 Please do, Da Vinci.
 
+---
+
 **Da Vinci:**
 First, let's sort out and confirm the situation.
 
@@ -7531,6 +7623,8 @@ Considering her ability to cross into the different Lostbelts, there may be no p
 
 **Da Vinci:**
 but even now, her response hasn't moved.
+
+![](https://i.imgur.com/BuDr1OV.png)
 
 **Taigong:**
 And she won't move.
@@ -7590,6 +7684,8 @@ the Tunguska Explosion.
 **Mash:**
 Right. About 100 years ago, a massive explosion took place—
 
+---
+
 **Goredolf:**
 Mm, to sit at the center of mass destruction. Is it a declarative statement that she will carry out one of her own?
 
@@ -7600,6 +7696,8 @@ That's one possibility. Or...
 
 **Fujimaru 1:**
 Are she and the explosion somehow connected?
+
+---
 
 **Taigong:**
 That's not so impossible a circumstance.
@@ -7631,6 +7729,8 @@ Those two ways of being at odds within the Reality Marble may somehow be related
 **Taigong:**
 It is possible that may be the case, but there's nothing at present to use as grounds for analysis—
 
+![](https://i.imgur.com/KFKkrFQ.png)
+
 **Nikitch:**
 #### I don't care even if there is!
 
@@ -7654,6 +7754,8 @@ Yeah, and I'll do my best to support you!
 
 **Fou:**
 Fou!
+
+![](https://i.imgur.com/BuDr1OV.png)
 
 **Taigong:**
 Distance from current position to the target is 80 kilometers. At this speed, we'll arrive in two hours.
@@ -7727,6 +7829,8 @@ In addition, firepower support from the Black Barrel. And simple field summoning
 **Da Vinci:**
 After taking everything into account, that's the final figure I could come to.
 
+![](https://i.imgur.com/pguOYW8.png)
+
 **Da Vinci:**
 I wish I could raise it higher with better operations and equipment, but that's all I can do as things stand.
 
@@ -7749,11 +7853,15 @@ Thank you for always supporting us.
 **Da Vinci:**
 Like the renaissance genius ought to. Although, you can't get around my inability to do more than that.
 
+---
+
 **Nikitch:**
 ... ...
 
 **Nikitch:**
 (Pats her head)
+
+![](https://i.imgur.com/xJWhJ9J.png)
 
 **Da Vinci:**
 Wawah!?
@@ -7777,6 +7885,12 @@ Right?
 
 **Fujimaru 1:**
 (Nod)
+
+---
+
+![](https://i.imgur.com/6Jv8UP4.png)
+
+![](https://i.imgur.com/1YwQouW.png)
 
 **Goredolf:**
 Umm.
@@ -7802,8 +7916,12 @@ I hate to say it, but I will. After all, that's what a good commander should do!
 **Goredolf:**
 I mean, wh-what if, she were?
 
+![](https://i.imgur.com/7m0pzjb.png)
+
 **Goredolf:**
 As for the possibility that she's already transformed into a matured Beast—
+
+![](https://i.imgur.com/BuDr1OV.png)
 
 **Taigong:**
 That isn't possible.
@@ -7865,6 +7983,8 @@ At present, I believe the shadow of Daji turned juvenile Beast should be conside
 **Mash:**
 An accident...
 
+![](https://i.imgur.com/BSYgBpb.png)
+
 **Mash:**
 Senpai.
 
@@ -7878,11 +7998,17 @@ Yeah, there was an accident.
 **Fujimaru 2:**
 It was Cernunnos.
 
+---
+
+![](https://i.imgur.com/NSqnqCT.png)
+
 **Da Vinci:**
 I bet that was the cause. Cernunnos—
 
 **Da Vinci:**
 During a certain event in Britain's Lost World, Koyanskaya took the brunt of Cernunnos' power.
+
+![](https://i.imgur.com/PSnvaV1.png)
 
 ---
 
@@ -7911,6 +8037,8 @@ If Koyanskaya hadn't shown herself before Cernunnos at that moment,
 **Mash:**
 the Storm Border would surely have...
 
+---
+
 **Taigong:**
 Hmm...?
 
@@ -7935,6 +8063,8 @@ Or rather, defining heretofore nonexistent weaknesses unto herself...
 **Taigong:**
 I don't know how she can take a direct hit from that and still maintain her existence.
 
+![](https://i.imgur.com/UX7rc9q.png)
+
 **Taigong:**
 Still, everyone! I beg you not to worry.
 
@@ -7942,7 +8072,9 @@ Still, everyone! I beg you not to worry.
 Your trusty Taigong is not suggesting we go in there with no plan. After all, I have—
 
 **Taigong:**
-#### an Anti-Beast Noble Phantasm#### designed to affect Daji!
+#### an Anti-Beast Noble Phantasm
+
+#### designed to affect Daji!
 
 **Taigong:**
 Not to mention!
@@ -7959,8 +8091,12 @@ Wow!
 **Goredolf:**
 Ooh!
 
+![](https://i.imgur.com/3TuFYDS.png)
+
 **Goredolf:**
 I'd prefer to scold you for not telling us in the first place, but well done, Heroic Spirit Taigong!
+
+![](https://i.imgur.com/b4OYiyU.png)
 
 **Taigong:**
 Ha ha ha! No, with apologies!
@@ -7991,6 +8127,8 @@ But this is a technique that Taigong is very proud of! I have high hopes, Senpai
 **Fujimaru 1:**
 (Exhale in relief)
 
+---
+
 **???:**
 Well, well.
 
@@ -8009,6 +8147,8 @@ Mercy is what the strong shows to the weak...
 **???:**
 I'm so irritated at being doted upon by worms such as you that my tails are on the verge of electrifying upright.
 
+![](https://i.imgur.com/jDIN0PZ.png)
+
 **Taigong:**
 ...What?
 
@@ -8016,6 +8156,8 @@ I'm so irritated at being doted upon by worms such as you that my tails are on t
 
 **Fujimaru 1:**
 ...!
+
+---
 
 **Mash:**
 !!
@@ -8059,6 +8201,8 @@ But all that being said, you know?
 **???:**
 Is buzzing around like so many mayflies really the right course when it comes to picking a fight?
 
+![](https://i.imgur.com/OCNLRYP.png)
+
 **Koyanskaya:**
 You should be more familiar with the rules of etiquette, Chaldeans. A proper greeting would be plainly obvious.
 
@@ -8073,17 +8217,25 @@ Sigh.
 **Fujimaru 1:**
 Tamamovitch Koyanskaya!
 
+---
+
+![](https://i.imgur.com/l5Mj06f.png)
+
 **Koyanskaya:**
 Present☆
 
 **Mash:**
 Senpai!
 
+![](https://i.imgur.com/tAzl5M1.png)
+
 **Mash:**
 Nikitich...?
 
 **Nikitch:**
 Don't worry, Mash. I'll stop this.
+
+![](https://i.imgur.com/54mlWDJ.png)
 
 **Taigong:**
 !?
@@ -8100,11 +8252,17 @@ Even—as a mere...shadow of Daji...
 **Taigong:**
 Tha—t's...not...possible...—!?
 
+![](https://i.imgur.com/izrSsqp.png)
+
 **Nikitch:**
 Don't be a fool, Taigong!
 
 **Taigong:**
 I can't apologize enough! Ahh, I've really blundered this time around!
+
+![](https://i.imgur.com/UX7rc9q.png)
+
+![](https://i.imgur.com/zMFJ3Q0.png)
 
 **Koyanskaya:**
 ...My, my☆
@@ -8118,6 +8276,8 @@ A round of applause☆
 **Koyanskaya:**
 I must admit, that was something else. In addition to myself, the Master, [♂ his /♀ her] Demi-Servant,
 
+![](https://i.imgur.com/AFpuDvD.png)
+
 **Koyanskaya:**
 one nasty Divine Spirit, a cat-eared oddity, and the practitioner himself. It's no small feat to compel six bodies to move together.
 
@@ -8127,11 +8287,15 @@ More than that, it's using a power belonging to the Human Order while still with
 **Koyanskaya:**
 There's a degree of brashness in that, but I compliment your courage.
 
+![](https://i.imgur.com/KfVYcA6.png)
+
 **Koyanskaya:**
 Oh, but don't get me wrong, I'll soon forget it after you're all dead. So, you're a new face to me.
 
 **Koyanskaya:**
 What is your True Name?
+
+![](https://i.imgur.com/IUXQ9FY.png)
 
 **Taigong:**
 #### Curse you, Daji!
@@ -8148,8 +8312,12 @@ I suppose I've come to take you lightly as well. At least your appearance has ha
 **Taigong:**
 Golden White Face! No, the shadowy figure of the beast fatale revived into this world!
 
+![](https://i.imgur.com/Ba11nfq.png)
+
 **Koyanskaya:**
 —Um, by that, do you mean me?
+
+![](https://i.imgur.com/D3LqhKi.png)
 
 **Nikitch:**
 Come, my dragon!
@@ -8181,6 +8349,8 @@ Hmph!
 **Nikitch:**
 Mash, we'll cover you from the air!
 
+![](https://i.imgur.com/o1ndxmb.png)
+
 **Mash:**
 Yes!
 
@@ -8206,6 +8376,10 @@ Uh...
 **Mash:**
 Ah! The Ortinaus!? I don't remember changing, either...
 
+---
+
+![](https://i.imgur.com/PCcehj9.png)
+
 **Taigong:**
 I borrowed the things stored in the chamber when we moved from the vehicle with my Tudun technique.
 
@@ -8223,6 +8397,8 @@ Ortinaus, activating for emergency combat! Maintaining power at 80%. I can fight
 **Fujimaru 1:**
 ...Prepare for battle!
 
+---
+
 **Mash:**
 Roger!
 
@@ -8238,8 +8414,12 @@ I don't suppose you've all forgotten, have you?
 **Koyanskaya:**
 Exactly where it is you're all standing?
 
+![](https://i.imgur.com/4hRfZwq.png)
+
 **Koyanskaya:**
 Well?
+
+![](https://i.imgur.com/s7jpng5.png)
 
 **Da Vinci:**
 Multiple hostile responses gathering at the perimeter! 5, 10, 20...and more on the way!?
@@ -8247,17 +8427,23 @@ Multiple hostile responses gathering at the perimeter! 5, 10, 20...and more on t
 **Da Vinci:**
 They didn't simply push in from out of range...it's like they sprouted right where they needed to be!
 
+![](https://i.imgur.com/mBiCbfh.png)
+
 **Taigong:**
 Spontaneous...
 
 **Taigong:**
 creation of life...programmed with orders to mobilize...
 
+![](https://i.imgur.com/FezRzEN.png)
+
 **Taigong:**
 Hahaha, what a formidable Reality Marble! Are you able to manifest as many Lost Familiars as you wish, Daji!?
 
 **Koyanskaya:**
 Well, what do you think?
+
+![](https://i.imgur.com/oOe42N5.png)
 
 **Taigong:**
 Everyone!
@@ -8296,14 +8482,20 @@ Yes, Master!
 **Ibuki Dōji:**
 Okay, count on it!
 
+---
+
 **Taigong:**
 Keep [♂ him /♀ her] and the others covered, Nikitich!
 
 **Nikitch:**
 That goes without saying! You just hold up to your duty, Taigong!
 
+![](https://i.imgur.com/hzC3xzS.png)
+
 **Taigong:**
 Of course.
+
+![](https://i.imgur.com/n9XyoFy.png)
 
 **Koyanskaya:**
 Have you concluded your counsel?
@@ -8320,11 +8512,15 @@ I'm aware you're accustomed to fighting ultra-exceptional units. As such, I'll p
 **Koyanskaya:**
 In the natural world, quantity over quality is the most important survival tactic. Better to call it truth than law.
 
+![](https://i.imgur.com/AqRJ7JM.png)
+
 **Koyanskaya:**
 —To be quite frank, I will crush you all underfoot with extreme prejudice.
 
 **Da Vinci:**
 Huge number of heat sources approaching from the perimeter! And so many, comparable to a military division!?
+
+![](https://i.imgur.com/Quhcw2d.png)
 
 **Koyanskaya:**
 Yes. You should know that I'm serious.
@@ -8343,6 +8539,8 @@ Please, take your fill to your heart's content.
 
 **Ibuki Dōji:**
 Hold on, Mash!
+
+![](https://i.imgur.com/LjNuq5C.png)
 
 **Mash:**
 —Heavy war-beasts ahead!
