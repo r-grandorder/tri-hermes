@@ -387,13 +387,11 @@ My sincere apologies, I don’t know what kind of wish you held, but it will end
 Goodbye! Farewell!
 You may not be Jokanaan, but this is simply how it is!
 
-*I’ll be taking your head*
-
-*!*
+#### I’ll be taking your head!
 
 
 
-* **Arrow 2**
+**--BATTLE--**
 
 ![](https://preview.redd.it/zyomn9ttzy291.png?width=1162&format=png&auto=webp&s=b2f11095654cf6b6232b50e9ef7c2bd0c5a71d2a)
 
@@ -593,25 +591,6 @@ At that time…
 What will happen to her…?
 Master, I feel incredibly uneasy.
 
->Choice A) I feel the same way, Scheherazade.  
->  
->**Scheherazade:**  
->  
->… Indeed.  
->  
->  
->  
->Choice B) Thank you, I think I should talk to her.  
->  
->**Scheherazade:**  
->  
->……  
->  
->……  
->  
->… Indeed.  
->  
->… Please be careful.
 
 ---
 
@@ -649,9 +628,6 @@ Isn’t that right?
 But that’s clearly not the case this evening.
 Hey, Master, what is it you wanted to talk about?
 
->Guda) Salome…  
->  
->Guda) Are you working yourself too hard?
 
 ---
 
