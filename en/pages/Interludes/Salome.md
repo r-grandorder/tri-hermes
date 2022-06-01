@@ -1,864 +1,796 @@
 # Salome
 
-Note: This interlude has not been translated yet, or summarized. 
+Note: [This interlude has been translated by Justiciar Hux](https://redd.it/v2ci1o)
 
-## 耐え難きを耐えた果て
+## The End that Resisted the Unbearable
 
-**鬼一法眼:**
-なるほど、特訓か！
+![](https://preview.redd.it/u99b7h7pyy291.png?width=891&format=png&auto=webp&s=a0843e4487e61824cedca8c61ebe1781dddfa2c9)
 
-**スカサハ:**
-そうだ、特訓だ。
+**Kiichi Hogen:** 
+I see, some intensive training, then!?
 
-**スカサハ:**
-ことカルデアには英雄英傑が多く集うが、如何なる強者といえど気は緩む。
 
-**スカサハ:**
-そこで必要なのが特訓だ。修行だ。
 
-**スカサハ:**
-勇士たるもの、常に刃と共に在らねばな。
+**Scathach:** 
+Indeed, intensive training. 
+Many heroes and geniuses gather in Chaldea, but no matter how strong they may be, they end up feeling at ease. 
+That’s why this special training is essential. It’s practice, after all. 
+Any bold hero must always be at their blade’s side. 
 
-**鬼一法眼:**
-うん、修行はいい。
 
-**鬼一法眼:**
-スカサハ殿の言う通りだ。<ruby><rb>常在戦場</rb><rt>じょうざいせんじょう</rt></ruby>を忘れてしまっては元も子もなかろう。
 
-**鬼一法眼:**
-では近々考えたほうがいいな、特訓！
+**Kiichi Hogen:** 
+Mhm, training’s always good. 
+It’s exactly as you say, Lady Scathach. 
+If you're not always readied for battle, you’ll return to being no more than your child self. 
+Well, if you think of it like that, then the time for some intensive training is soon!
 
-**スカサハ:**
-うむ、特訓！
 
-**鬼一法眼:**
-ふふ、流石は西の師匠。
 
-**サロメ:**
-……あら、なあに？　お二人で楽しそうなお話ね？
+**Scathach:** 
+Indeed, intensive training!
 
-**スカサハ:**
-おお、サロメ。
 
-**鬼一法眼:**
-異郷の姫だったか。うむ、姫君であろうとカルデアの英霊であるからには、
 
-**鬼一法眼:**
-<ruby><rb>常在戦場</rb><rt>じょうざいせんじょう</rt></ruby>の心構えと無縁ではいられまい。いずれ大特訓会を催すゆえ、是非参加するといい。
+**Kiichi Hogen:** 
+Fufu, just as you’d expect from the West’s Teacher.
 
-**サロメ:**
-<ruby><rb>常在戦場</rb><rt>じょうざいせんじょう</rt></ruby>……
+![](https://preview.redd.it/04b6u2jryy291.png?width=892&format=png&auto=webp&s=39cc7269ac8ba88a576843dae2220f3ba122df53)
 
-**鬼一法眼:**
-はは、日の本の言の葉だ。常に我が身は戦場に在るものと思うべし、とな。
+**Salome:** 
+… Ah, what’s this? You two seem to be having quite the enjoyable discussion, no?
 
-**サロメ:**
-まあ、こわい。
 
-**サロメ:**
-でも、ふふふ。そうね。そうかもしれないわ。ここはカルデアなのだもの。
 
-**サロメ:**
-マスターのためにも、あたしたち、いつでもでなくてはいけないわ。
+**Scathach:** 
+Ah, Salome.
 
-**サロメ:**
-<ruby><rb>常在戦場</rb><rt>じょうざいせんじょう</rt></ruby>というのね&mdash;覚えておくわ。
 
-**スカサハ:**
-うむ、そうするといい。
 
-**フェルグス:**
-おお、これはこれは！
+**Kiichi Hogen:**
+Were you the princess of some foreign country or something?
+Hm, well, regardless of whether you’re a princess or not, you’re a Heroic Spirit of Chaldea now, so you’re not exempt from having your mental attitude always readied for battle. 
+We’ll be having a massive special training session soon, so you’d do well to attend.
 
-**ディルムッド:**
-何と華やかな&mdash;
 
-**ディルムッド:**
-麗しきご婦人方が集っておられるようだが、どういったお話かな？
 
-**スカサハ:**
-修行、特訓。<ruby><rb>常在戦場</rb><rt>じょうざいせんじょう</rt></ruby>。そういった話をな。
+**Salome:**
+Always readied for battle…
 
-**ディルムッド:**
-それはそれは。<ruby><rb>常在戦場</rb><rt>じょうざいせんじょう</rt></ruby>という言葉、私も聞き覚えがあります。
 
-**フェルグス:**
-確か、マスターの故郷の言葉だったか？
 
-**フェルグス:**
-我らケルトの荒くれ者にも妙にしっくりと馴染む、よい言葉だ。
+**Kiichi Hogen:**
+Haha, it’s a Japanese phrase.
+It means you should always think of yourself as if you’re on a battlefield, more or less.
 
-**ディルムッド:**
-あらゆる勇士が胸に秘めておくべきものでしょう。この私も、かくありたいと思うばかり。
 
-**フェルグス:**
-おまえは体現できているだろう？
 
-**ディルムッド:**
-いやいや。フェルグス殿ほどではありません。
+**Salome:**
+Oh my, how frightening.
+But… fufufu. Indeed. Perhaps I shall come. 
+This is Chaldea, after all. 
+For our Master’s sake, we must always have the *power to fight*.
+Always readied for battle—— I shall commit that to memory.
 
-**サロメ:**
-まあ。おふたりとも、己が剣に真摯でいらっしゃるのね。
 
-**ディルムッド:**
-そう心がけています。剣と槍に。
 
-**フェルグス:**
-俺は常に、すべてに真摯だとも。
+**Scathach:**
+Well, that’s good to hear.
 
-**スカサハ:**
-ほう……
+![](https://preview.redd.it/5w2x4b3wyy291.png?width=890&format=png&auto=webp&s=caefba1e3eca040a710c8124f09645195ac4f2c2)
 
-**フェルグス:**
-無論、やましい意味は一切ない！
+**Fergus:**
+Well, take a look at this!
 
-**フェルグス:**
-（まあ、やましいとは思っておらんしな……）
+**Diarmuid:**
+What gorgeous——
 
-**鬼一法眼:**
-ほうほう。
+**Fergus:**
+It seems like we’ve interrupted a gathering of beautiful women, but I can’t help but ask what you two are talking about?
 
-**フェルグス:**
-……。……。
 
-**サロメ:**
-フェルグス様？
 
-**サロメ:**
-ふふふふ。ああ、もしかして……本当は、やましい意味でおっしゃったのですか？
+**Scathach:**
+Training. Intensive training, to be precise. To ensure our minds are always readied for battle.
+That’s the topic here.
 
-**フェルグス:**
-はっはっはっは。
 
-**フェルグス:**
-まさか。俺は常にケルト紳士であろうと心がけているとも。
 
-**鬼一法眼:**
-スカサハ殿。僕は紳士というのには詳しくないんだが、
+**Diarmuid:**
+I see, I see.
+“Always readied for battle” is a term I recall hearing about before, actually.
 
-**鬼一法眼:**
-今のフェルグスの発言はどうなのだろう？セーフなのかな、アウトなのかな？
 
-**スカサハ:**
-ん～。
 
-**スカサハ:**
-……。……。
+**Fergus:**
+That was a phrase from Master’s homeland, right? 
+It’s a good one, it fits strangely well with us Celtic roughnecks.
 
-**スカサハ:**
-…………アウトだ！
 
-**ディルムッド:**
-フェルグス殿……！
 
-**スカサハ:**
-フェルグスは紳士として振る舞える男に違いないが、今の発言はなんというか、そう……
+**Diarmuid:**
+It’s an idea that every bold hero should keep close to their heart.
+I, for one, certainly think I should.
 
-**スカサハ:**
-些か雑だった！
 
-**フェルグス:**
-（見抜かれた！）
 
-**スカサハ:**
-よしフェルグス、鍛え直さねばだ！おまえ専用の特訓を用意する！
+**Fergus:**
+Don’t you think you’re the embodiment of the idea?
 
-**スカサハ:**
-鬼一殿！
 
-**鬼一法眼:**
-ケルトの勇士フェルグス専用の特訓かー！それは面白そうだ！
 
-**鬼一法眼:**
-かんら、から、から！僕も付き合うぞ！
+**Diarmuid:**
+No, certainly not.
+Not nearly as much as you are, Lord Fergus.
 
-**スカサハ:**
-はっはっは！
 
-**スカサハ:**
-今こそ、ダブル師匠の威力をカルデア全域に知らしめる時だ！　ゆくぞ！
 
-**フェルグス:**
-いや俺はちょっと野暮用が&mdash;
+**Salome:**
+Oh my.
+The pair of you are quite earnest with your blades, aren’t you?
 
-**フェルグス:**
-…………手を掴まれてしまった。なんと情熱的な。
 
-**スカサハ:**
-そうだろう、そうだろう。
 
-**フェルグス:**
-ははは。
+**Diarmuid:** 
+I endeavour to be.
+For both swords and spears.
 
-**フェルグス:**
-（観念）
 
-**サロメ:**
-ふふふふふふふふ。フェルグス様&mdash;
 
-**サロメ:**
-応援しています。特訓、どうか頑張ってくださいましね。
+**Fergus:**
+I’m earnest about everything.
 
-**フェルグス:**
-はい……。
 
-**サロメ:**
-ふふふ。
+
+**Scathach:**
+Hoh…
+
+
+
+**Fergus:**
+Wait, wait, I had no indecent meaning in that, I swear!
+(At least, I certainly didn’t think of that…)
+
+
+
+**Kiichi Hogen:**
+Hoh indeed.
+
+
+
+**Fergus:**
+……
+……
+
+
+
+**Salome:**
+Fergus?
+Fufufufu. Ah, so perhaps…
+Is “that” the indecent meaning you’re talking about?
+
+
+
+**Fergus:**
+Hahahaha! 
+Of course not!
+I always try to be a Celtic gentleman in all things!
+
+
+
+**Kiichi Hogen:**
+Lady Scathach.
+I’m not overly familiar with the one calling himself a gentleman, so what are your opinions on Fergus’ remarks just now?
+Is he all right, or out of line?
+
+
+
+**Scathach:**
+Hmm…
+…
+…
+…… OUT!
+
+
+
+**Diarmuid:**
+Lord Fergus…!
+
+
+
+**Scathach:**
+Fergus is the sort of man who can act like a gentleman if he tries, no doubt, but what he was saying just now is…
+More than a little crude!
+
+
+
+**Fergus:**
+(It’s like she’s seeing into my soul!)
+
+
+
+**Scathach:** 
+Alright then, Fergus, it’s time for you to go through some retraining!
+I’ll prepare a special training course designed just for you!
+Lady Kiichi!
+
+
+
+**Kiichi Hogen:**
+A special training course just for the brave Celtic hero, Fergus!
+This should be very, very interesting! 
+Ohhhhohohoho!
+Well, let’s get on with it!
+
+
+
+**Scathach:**
+Hahahaha!
+Now it’s time to show off the power of the Teacher Duo to all of Chaldea!
+Let’s go!
+
+
+
+**Fergus:** 
+Wait, no, I have some other business to——
+……… And she’s already grabbed my hand. How passionate.
+
+
+
+**Scathach:**
+Yes, yes, that’s right.
+
+
+
+**Fergus:**
+Hahaha.
+(I’ll just resign myself to my fate)
+
+
+
+**Salome:**
+Fufufufufufu.
+Oh, Fergus——
+I’ll cheer you on.
+Please do your best in your special training.
+
+
+
+**Fergus:**
+Alright……
+
+
+
+**Salome:**
+Fufufu.
+
+
+
+**Fujimaru:**
+(......)
+(Salome’s gotten really familiar with Chaldea…)  
+(... hasn’t she?)
+
+![](https://preview.redd.it/qvanm0jyyy291.png?width=885&format=png&auto=webp&s=eed34d018ea7da712f04803f072f5d00acc504ab)
+
+**Fergus:**
+
+Did you notice that?
+
+
+
+**Diarmuid:**
+About Lady Salome?
+
+
+
+**Fergus:**
+Mhm.
+Seems like Master’s already restraining her disposition, so there’s nothing else to do but keep an eye out for them.
+Hmmm…
+
+
+
+**Diarmuid:**
+Indeed.
+…… It’s truly heartbreaking.
+It’s said that the beautiful princess came into this world with the Spirit Origin of a madman.
+
+
+
+**Fergus:**
+I just don’t get it.
+
+
+
+**Scathach:**
+Oi, what are you two talking about?
+
+
+
+**Fergus:** 
+Um, nothing…
+
+
+
+**Kiichi Hogen:**
+I heard it, but I’ll pretend that I didn’t.
+After all, that’s the job for my Disciple, our Master!
+But I have to agree——
+This whole system of Spirit Origins is utterly horrid!
+
+
+
+![](https://preview.redd.it/63fdok90zy291.png?width=889&format=png&auto=webp&s=27ad099a5871f7d8b108ee88a12661419ae774a0)
+
+**Mash:**
+Everyone, I’m detecting a magical energy response.
+Several hostile entities inbound.
+One of them has a fairly large magical energy signature——
+It’s likely the lynchpin of this Micro-Singularity, the hostile entity that has taken in a fragment of a Holy Grail, if I had to guess!
+Please be careful, Senpai!
+
+
+**Fujimaru:**
+Roger!
+
+![](https://preview.redd.it/lrlur4b1zy291.png?width=890&format=png&auto=webp&s=504e471b9394c43b4df6f7db6c18bb16c869b287)
+
+**Benkei:**
+Let us go!
+Lord Kintoki, Lady Salome!
+
+
+
+**Sakata Kintoki:**
+Okay! I’m gonna send it flying, Golden-style!
+
+
+
+**Salome:**
+Fufufufufufu.
+So be it. Let us go then, Benkei, Kintoki!
+My Jokanaan is awfully motivated!
+I can hear him boasting——
+
+“I am Jokanaan!
+
+Everyone, let us eat our enemies!”
+
+
+
+**Sakata Kintoki:**
+Hyah!
+I know you can bring other people out from that skull, but the golden Jokanaan is always your big guns!
+
+
+
+**Benkei:**
+Well it doesn’t seem to be in golden skull mode, but even still!
+Hahahaha! Let us see how it fares against——
+
+![](https://preview.redd.it/aqg3qju2zy291.png?width=889&format=png&auto=webp&s=166e7af1e7805734063929fafa839e5f50fd8843)
+
+**Benkei:**
+Hoh, some kind of vengeful spirit!
+
+
+
+**Sakata Kintoki:**
+Let’s GOOOOOO!
+
+
+
+**Salome:**
+So that’s the source of the Micro-Singularity——
+My sincere apologies, I don’t know what kind of wish you held, but it will end here.
+Goodbye! Farewell!
+You may not be Jokanaan, but this is simply how it is!
+
+*I’ll be taking your head*
+
+*!*
+
+
+
+* **Arrow 2**
+
+![](https://preview.redd.it/zyomn9ttzy291.png?width=1162&format=png&auto=webp&s=b2f11095654cf6b6232b50e9ef7c2bd0c5a71d2a)
+
+![](https://preview.redd.it/t5yakiquzy291.png?width=1163&format=png&auto=webp&s=13837e76b8a518e3f8ff20bbaf47d16218feeac1)
+
+**Sakata Kintoki:**
+
+I leave the rest to you, Princess!
+
+![](https://preview.redd.it/ch9e0a0wzy291.png?width=1161&format=png&auto=webp&s=c2de15bab5bc4ba1d6565cebc248491eb3349e50)
+
+**Salome:**
+Aah——
+My my, now that’s a surprise!
+That’s so kind of you, warriors of distant lands!
+Then, keep its head still for me!
+I’m so happy, so so happy!
+I’m so beyond overjoyed, so I…
+I will live up to your expectations!
+
+Jokanaan!
+
+![](https://preview.redd.it/axk9s4gxzy291.png?width=1158&format=png&auto=webp&s=2a3c5657ca56d65bf123a5dc76de894e965c4e3a)
+
+**Mash:**
+Magical energy response, terminated!
+The fragment of the Holy Grail has materialised! 
+
+
+
+**Salome:**
+Oh my, how pretty…
+
+
+
+**Benkei:**
+Please be cautious, Lady Salome. You too, Lord Kintoki.
+While it may be just a fragment, it is still a Holy Grail.
+So please take very good care when handling it…
+Like so.
+
+
+
+**Sakata Kintoki:**
+I’ll take care of the lifting.
+
+
+
+**Benkei:**
+It seems that my Nenbutsu, while not as vibrantly skilled as Lady Mash’s shield, is still of some help.
+
+
+
+**Mash:**
+Holy Grail fragment, collection confirmed!
+The operation was a success! 
+Thank you, everyone, for your help. 
+The Rayshift will begin shortly.
+
+
+
+**Salome:**
+Fufufufufufu.
+I thank you in turn for your aid in navigating us, Mash.
+It’s thanks to your support that we were able to complete this operation so easily, right, Master?
+
 
 ---
 
 **Fujimaru 1:**
-（…………）
+Yup!
 
-
----
-
----
-
-**Fujimaru 1:**
-（サロメ、ちゃんとカルデアに馴染めてる……）
-
-
----
-
----
-
-**Fujimaru 1:**
-（……よね？）
-
-
----
-
-**フェルグス:**
-……。
-
-**フェルグス:**
-……気付いたか？
-
-**ディルムッド:**
-サロメ殿ですか。
-
-**フェルグス:**
-うむ。マスターは既に気に留めているようだし、見守る他にはあるまいが。
-
-**フェルグス:**
-ううむ……。
-
-**ディルムッド:**
-ええ。
-
-**ディルムッド:**
-……実に、痛ましいことです。麗しき姫君が狂戦士の霊基で現界してしまうとは。
-
-**フェルグス:**
-なんともなあ。
-
-**スカサハ:**
-おまえたち、何をこそこそと喋っている？
-
-**フェルグス:**
-ああいや……
-
-**鬼一法眼:**
-話は聞こえたが、まあ聞こえなかったフリをしておこう。
-
-**鬼一法眼:**
-ここは<ruby><rb>弟子</rb><rt>マスター</rt></ruby>の出番だろうからな！
-
-**鬼一法眼:**
-にしても、確かに&mdash;
-
-**鬼一法眼:**
-霊基の仕組みという奴は、まったく、なんとも意地が悪いものさ！
-
-**マシュ:**
-皆さん、魔力反応です。
-
-**マシュ:**
-複数の敵性体が接近しています。うち一体は、かなり高い魔力反応&mdash;
-
-**マシュ:**
-恐らくは微小特異点の中枢、聖杯の欠片を取り込んだ敵性体と予想されます！
-
-**マシュ:**
-どうかお気を付けて！　先輩！
-
----
-
-**Fujimaru 1:**
-了解！
-
-
----
-
-**弁慶:**
-参りますぞ！金時殿、サロメ殿！
-
-**坂田金時:**
-オッケイ！　ゴールデンにカッ飛ばすぜえ！
-
-**サロメ:**
-ふふふふふふふ。そうね、そうね弁慶様！　金時様！
-
-**サロメ:**
-あたしのヨカナーンもとってもやる気なの！ほら聞いて&mdash;
-
-**サロメ:**
-『ボク、ヨカナーン！　テキセイタイヲ、ミンナ、タベチャウゾ！』
-
-**サロメ:**
-ですって！
-
-**坂田金時:**
-ヒュウ！
-
-**坂田金時:**
-<ruby><rb>髑髏</rb><rt>どくろ</rt></ruby>出してくる奴ァ他にもいるが、ゴールデンヨカナーン、毎度大迫力だな！
-
-**弁慶:**
-まだ黄金<ruby><rb>髑髏</rb><rt>どくろ</rt></ruby>モードではないようですが、ははは！はてさて、対するは&mdash;
-
-**弁慶:**
-ほう、怨霊の類！
-
-**坂田金時:**
-いっくぜええええええええええ！
-
-**サロメ:**
-微小特異点の発生源&mdash;あなたにどんな願いがあったかは知らないけれど、
-
-**サロメ:**
-ごめんなさいね、ここでおしまい。
-
-**サロメ:**
-さようなら！さようなら！
-
-**サロメ:**
-あなたはヨカナーンではないけれど、ええ、そうね！
-
-**サロメ:**
-！
-
-**--BATTLE--**
-
-**坂田金時:**
-頼んだぜ、お姫さん！
-
-**サロメ:**
-ああ&mdash;
-
-**サロメ:**
-なんということでしょう！
-
-**サロメ:**
-なんと優しき、異郷の戦士たち！あたしのために、首をとっておいてくださるなんて！
-
-**サロメ:**
-嬉しいわ、嬉しいわ！
-
-**サロメ:**
-あんまり嬉しいものだから、あたし……
-
-**サロメ:**
-期待に応えてしまうわね！ヨカナーン！
-
-**マシュ:**
-魔力反応、消滅！聖杯の欠片が実体化します&mdash;
-
-**サロメ:**
-まあ、綺麗……
-
-**弁慶:**
-お気を付けくだされ、サロメ殿。金時殿も。欠片とはいえ聖杯ですからな。
-
-**弁慶:**
-扱いには細心の注意を……これ、このように。
-
-**坂田金時:**
-へえ、やるねえ。
-
-**弁慶:**
-マシュ殿の盾のように鮮やかな手並みではないまでも、我が念仏もなんとかお役に立てる模様。
-
-**マシュ:**
-聖杯の欠片、回収を確認しました。作戦完了です！
-
-**マシュ:**
-お疲れさまです、皆さん。まもなくレイシフトが開始されます。
-
-**サロメ:**
-ふふふふふふふふ。
-
-**サロメ:**
-マシュも、ナビゲートお疲れさま。お陰で順調に作戦を進められたわ、そうよねマスター？
-
----
-
-**Fujimaru 1:**
-うん！
-
-**マシュ:**
-お役に立てれば幸いです！
-
+**Mash:**
+I look forward to helping out again!
 
 ---
 
 **Fujimaru 2:**
-ありがとう、マシュ
+Thanks, Mash.
 
-**マシュ:**
-い、いえ！お役に立てましたら……
-
+**Mash:**
+N-No need. If I can help, then...
 
 ---
 
-**サロメ:**
-ふふ。ふふふふふふふふふふふ。
 
-**サロメ:**
-本当に。仲が良いのね、マスターとマシュ。素敵。
 
-**サロメ:**
-きらきら。きらきら。まるで夜空の星々のように輝いて、嗚呼&mdash;
+**Salome:**
+Fufu. Fufufufufu.
+Really, you two. 
+Master, Mash, you have such a good relationship. It’s wonderful.
+It’s glittering.
+Sparkling, even.
+It shines like stars in the night sky, mhm——
+It’s so shiny that I want to do something about it. Fufu.
 
-**サロメ:**
-どうにかしてしまいたくなるくらいに、きらきら。ふふ。
+**Benkei:**
+Lady Salome.
 
-**弁慶:**
-&mdash;サロメ殿。
+**Salome:**
+Yes?
 
-**サロメ:**
-なあに？
+**Benkei:**
+No.
 
-**弁慶:**
-いえ。
+**Narration:**
+(The Princess’ feelings…)
+(Is it because her Spirit Origin is that of a Berserker? Or is it simply something that originates from her own existence?)
+(Lord Kintoki must have noticed it too. Then it seems that there is a good reason for Lady Scheherazade's concerns.)
+(All the same, she is adhering to Master’s orders, and there’s nothing to critique in her cooperative skills. We’re even able to come to an understanding with one another.)
+(Hmm.)
+(This is a terribly troublesome matter…)
 
-**弁慶:**
-（鬼女の、気配）
 
-**弁慶:**
-（バーサーカーという霊基ゆえか？　それとも、彼女自身の存在に由来するものか）
 
-**弁慶:**
-（金時殿も気付いておられよう。　成る程、シェヘラザード殿が気に掛ける訳ですな）
+**Salome:**
+Well then, I’m sure I’ll see you two some other time.
+And if we ever happen to become a team again——
+Then I insist we give it our all!
+It’s been nice working with you, Mash!
 
-**弁慶:**
-（とはいえ、マスター殿のご指示を守り、　連携も申し分ない。<ruby><rb>意思疎通</rb><rt>い  し  そ  つ  う</rt></ruby>も叶っている）
 
-**弁慶:**
-（ふうむ）
 
-**弁慶:**
-（何とも、業深いものよな……）
+**Mash:**
+Likewise!
 
-**サロメ:**
-じゃあ、またね二人とも。いつかもう一度同じチームになったら&mdash;
 
-**サロメ:**
-精一杯、頑張りましょうね！
 
-**坂田金時:**
-おう！
+![](https://preview.redd.it/0j8wg7hzzy291.png?width=1161&format=png&auto=webp&s=43c3afeb0eb2b5f98ba0f1baf744edf883aa8160)
 
-**サロメ:**
-マシュも、よろしくね！
-
-**マシュ:**
-はい！
-
-**シェヘラザード:**
-&mdash;<ruby><rb>彼女</rb><rt>サロメ</rt></ruby>の様子は、いかがでしょうか？
+**Scheherazade:**
+—— So how is the princess, Salome, doing?
 
 ---
 
 **Fujimaru 1:**
-カルデアのみんなとは馴染んでると思う
-
+I think she’s getting to know everyone here in Chaldea. 
 
 ---
 
 **Fujimaru 2:**
-バトルでも、暴走するような気配はないね
+Even in battle, there’s not a hint of her going berserk.
 
 ---
 
-**シェヘラザード:**
-それはようございました。
+**Scheherazade:**
 
----
+I’m glad to hear it.
 
-**Fujimaru 1:**
-でも……
+**Fujimaru:**
+But...
 
+**Scheherazade:**
+Is there…
 
----
+Something else on your mind, perhaps?
 
-**シェヘラザード:**
-それは……
+**Fujimaru:**
+(Nod)
 
-**シェヘラザード:**
-心の何処かに引っかかるものがある、でしょうか。
+**Scheherazade:**
+……
+……
+… Indeed. 
+She’s getting to know everyone in Chaldea, and she smiles around everyone too.
+And it’s like that even during battle.
+While she drives that crystalline skull, she continues to smile.
+And then, at night——
+Even when listening to my tales.
+She just continues to smile.
+Ah, please don’t be concerned.
+It’s a serene, beautiful smile, as if it’s telling you “It’s alright”.
+I don’t believe there’s any lie in that.
+But… 
+I…
+For some reason, I can’t shake this feeling.
+It’s like some kind of sign, different from magical energy.
+It’s like she’s——
+Ever since she was summoned, all the time…
+All the time…
 
----
+*It’s like she’s resisting something*, I feel.
 
-**Fujimaru 1:**
-（頷く）
+I don’t know if she’s resisting something flowing out from her, or if she’s holding back something from flooding in from the outside.
+I’m not even sure what it is she’s being forced to bear.
+But…
+That smiling face of hers is proof that *she is weathering it*.
+That much, I understand.
 
+**Fujimaru:**
+… Resisting…
 
----
+**Scheherazade:**
+Indeed.
+One day, if that resolve breaks, collapses, or whatever it is overflows…
+At that time…
+What will happen to her…?
+Master, I feel incredibly uneasy.
 
-**シェヘラザード:**
-……。……。
-
-**シェヘラザード:**
-……はい。
-
-**シェヘラザード:**
-彼女はカルデアによく馴染んで、どなたを前にしても笑っています。
-
-**シェヘラザード:**
-戦いのさなかも、そうです。水晶の<ruby><rb>髑髏</rb><rt>どくろ</rt></ruby>を駆りながら、よく笑います。
-
-**シェヘラザード:**
-そして、夜に&mdash;
-
-**シェヘラザード:**
-私とお話をしている時にも。よく笑ってくれるのです。
-
-**シェヘラザード:**
-心配いらない。大丈夫、と言っているかのような穏やかで美しい笑顔。
-
-**シェヘラザード:**
-そこには嘘などないと私は信じます。けれど……
-
-**シェヘラザード:**
-私は……
-
-**シェヘラザード:**
-何故だか、感じてしまうのです。魔力とはまた異なる何らかの気配によって。
-
-**シェヘラザード:**
-彼女はまるで&mdash;
-
-**シェヘラザード:**
-召喚されてから、ずっと……ずっと……ずうっと……
-
-**シェヘラザード:**
-、と。
-
-**シェヘラザード:**
-<ruby><rb>裡</rb><rt>うち</rt></ruby>から<ruby><rb>溢</rb><rt>あふ</rt></ruby>れるモノに耐えているのか、外から決壊させようとするモノに耐えているのか、
-
-**シェヘラザード:**
-そこまでは分かりません。何を耐えているのかさえも、分からない。
-
-**シェヘラザード:**
-ただ……
-
-**シェヘラザード:**
-あの笑顔はきっとです。それだけは、分かります。
-
----
-
-**Fujimaru 1:**
-……耐えている……
-
-
----
-
-**シェヘラザード:**
-はい。
-
-**シェヘラザード:**
-いつか、砕けて、崩れて、何もかもが<ruby><rb>溢</rb><rt>あふ</rt></ruby>れてしまったら……
-
-**シェヘラザード:**
-その時……彼女は……どうなってしまうか……
-
-**シェヘラザード:**
-私は、不安に想うのです。マスター。
+>Choice A) I feel the same way, Scheherazade.  
+>  
+>**Scheherazade:**  
+>  
+>… Indeed.  
+>  
+>  
+>  
+>Choice B) Thank you, I think I should talk to her.  
+>  
+>**Scheherazade:**  
+>  
+>……  
+>  
+>……  
+>  
+>… Indeed.  
+>  
+>… Please be careful.
 
 ---
 
 **Fujimaru 1:**
-[♂ 自分 /♀️ わたし]も同じ気持ちだよ、シェヘラザード
+I feel the same way, Scheherazade.
 
-**シェヘラザード:**
-…………はい。
-
+**Scheherazade:**  
+  
+… Indeed.
 
 ---
 
 **Fujimaru 2:**
-ありがとう、少し話をしてみる
+Thank you, I think I should talk to her.
 
-**シェヘラザード:**
-……。……。
-
-**シェヘラザード:**
-……はい。
-
-**シェヘラザード:**
-……どうか、お気を付けて。
-
+**Scheherazade:**  
+……  
+……  
+… Indeed.  
+… Please be careful.
 
 ---
 
-**サロメ:**
-…………まあ、マスター。
 
-**サロメ:**
-素敵ね。とっても広くて、静かだわ。どこかのお城の跡かしら。
+![](https://preview.redd.it/r3dm6qf00z291.png?width=1161&format=png&auto=webp&s=654829e0b6020f4600212ec648e08745b2e5f248)
 
-**サロメ:**
-でも……
+**Salome:**
+… Well then, Master.
+It’s very nice.
+It’s so big and quiet, it’s almost like the ruins of a castle.
+But…
+If you wanted to talk to me, then you didn’t really need to use the simulator, you know?
+It’s a lot of fun talking with everyone in the dining hall, and it would’ve been just fine if you called me to your chambers.
+Isn’t that right?
+But that’s clearly not the case this evening.
+Hey, Master, what is it you wanted to talk about?
 
-**サロメ:**
-あたしとお話をするなら、べつに、シミュレーターを使わなくてもいいのよ？
-
-**サロメ:**
-食堂で皆と楽しく語らうのもいいし、部屋に呼んでくれるだけでもいいし。
-
-**サロメ:**
-そうでしょう？
-
-**サロメ:**
-でも、ええ、そうじゃないのでしょうね。今夜は。
-
-**サロメ:**
-ねえマスター。お話って、なあに？
+>Guda) Salome…  
+>  
+>Guda) Are you working yourself too hard?
 
 ---
 
 **Fujimaru 1:**
-サロメ
-
-
----
-
----
-
-**Fujimaru 1:**
-無理を、してない？
-
-
----
-
-**サロメ:**
-無理？
-
-**サロメ:**
-そんなもの&mdash;
-
-**サロメ:**
-ふふ、そんなもの。決まっているじゃないマスター！
-
-**サロメ:**
-。
-
----
-
-**Fujimaru 1:**
-……！
-
-
----
-
-**サロメ:**
-毎日、毎日。朝も昼も夜もずっと。
-
-**サロメ:**
-ずっと、ずっと、ずっと、ずっと、ずうっと！
-
-**サロメ:**
-ずううううううううううっと我慢しているわ、あたし。そんなの当たり前じゃない、そうでしょう？
-
-**サロメ:**
-きらきら輝くヨカナーンのようなひとがいたら、あたし、好きになってしまいそうになるの。
-
-**サロメ:**
-好きになってしまったら……
-
-**サロメ:**
-あたし、欲しくなるわ。首が。
-
-**サロメ:**
-清いひと。尊いひと。
-
-**サロメ:**
-聖なるひと&mdash;
-
-**サロメ:**
-ああいう方々を前にしたら、あたし、どうしたって、そうなってしまう。
-
-**サロメ:**
-ヨカナーンのことを、思い出して&mdash;
-
-**サロメ:**
-……。……。
-
-**サロメ:**
-でも、でもね。
-
-**サロメ:**
-。ずっと、ずっとずっと、ずうっと、我慢しているわ。
-
-**サロメ:**
-だって&mdash;あなたがそう望むんだもの。
-
----
-
-**Fujimaru 1:**
-[♂ 自分 /♀️ わたし]のために……
-
-
----
-
-**サロメ:**
-ええ、そうよ。
-
-**サロメ:**
-カルデアでは、大人しくしていて欲しいでしょう？
-
-**サロメ:**
-戦う時には、皆に迷惑を掛けないでいて欲しいのよね？
-
-**サロメ:**
-聖なる方々のことは、好きにならないで欲しいのよね？
-
-**サロメ:**
-マシュとも、仲良くして欲しい。
-
-**サロメ:**
-そう、そうよねマスター。
-
-**サロメ:**
-あなたがあたしに望んでくれるのだから、あたしはあなたに応えるわ。
-
----
-
-**Fujimaru 1:**
-………………
-
-
----
-
-**サロメ:**
-どうしたの？
-
----
-
-**Fujimaru 1:**
-あまり、無理はして欲しく[♂ ないんだ /♀️ ないよ]
-
-
----
-
-**サロメ:**
-そんなの無理よ。
-
-**サロメ:**
-だって、Fujimaru。あなたがマスターなのよ？
-
-**サロメ:**
-あなたが無理をするのだもの。あなた、ずっと、困難に立ち向かって歩み続けるのだもの。
-
-**サロメ:**
-あなたと繋がった<ruby><rb>しもべ</rb><rt>サーヴァント</rt></ruby>も、あなたのように無理をするわ。
-
-**サロメ:**
-そうでしょう？
-
-**サロメ:**
-……ふふ。
-
-**サロメ:**
-心配いらないわ、優しいあなた。ヨカナーンとはちがう、あなた。
-
-**サロメ:**
-ふふふ。そんな顔をしないでいいの、大丈夫よ。
-
-**サロメ:**
-あたしが駄目になる時は、あなたが駄目になる時だもの。
-
-**サロメ:**
-だから、心配なんかいらないの。
-
----
-
-**Fujimaru 1:**
-それは……
-
-**サロメ:**
-ふふ。
-
+Salome…
 
 ---
 
 **Fujimaru 2:**
-責任重大だね
-
-**サロメ:**
-ええ、そうですとも。
-
+Are you working yourself too hard?
 
 ---
 
-**サロメ:**
-あたしのことなんか構わずに、あなたはあなた自身のことだけ気に掛けたほうがいいわ。
+**Salome:**
+Too hard?
+That’s…
+Fufu, such is life. I don’t think I get to decide that sort of thing, Master!
 
-**サロメ:**
-ねえ、マスター。
+*But of course I am*.
 
-**サロメ:**
-あなたがあなたのままでいる限りには、きっと……
+**Fujimaru:**
+…!
 
-**サロメ:**
-あなたは、ヨカナーンではないのでしょうけど……
+**Salome:**
+All day, every day.
+Morning, noon, and evening.
+Forever and ever and ever and ever and ever!
 
-**サロメ:**
-でも。でもね？
+I’m aaaaaaaalways keeping myself restrained!
 
-**サロメ:**
-険しい道を歩き続ける、あなた。戦い続けるあなた。
+And that’s just not natural, is it?
+If there’s a person who shines as bright as Jokanaan, then it’s natural for me to love them.
+And if I fall in love with someone, then…
+Then I want to take their head.
 
-**サロメ:**
-この先のあなたが、あなた自身を飛び越して……
+A pure person.
+A noble person.
+A holy person——
+Before such people, I will always be like that.
 
-**サロメ:**
-いつか、ヨカナーンのようなひとになっていたら&mdash;
+They remind me of Jokanaan.
 
-**サロメ:**
-首を貰うわ。
+…
+…
+But, that’s just it.
+
+*I’m restraining myself*.
+
+Always, always, always restraining myself.
+After all—— that’s what you want me to do.
+
+**Fujimaru:**
+For my sake…
+
+**Salome:**
+Mhm, that’s right.
+In Chaldea, you want me to be a quiet person, yes?
+And during battle, you don’t want me to bother everyone, yes?
+And with holy people, you don’t want me to fall in love, yes?
+And you want me to get along with Mash.
+Then that’s how it is, Master. 
+I’ve simply been responding to what you want me to do.
+
+**Fujimaru:**
+……
+
+**Salome:**
+Something the matter?
+
+**Fujimaru:**
+I don’t want you to work too hard.
+
+**Salome:** 
+I’m sorry, but I can’t do that.
+After all, Fujimaru.
+You’re a Master, aren’t you?
+It’s you who’s working too hard.
+You’ll continue onwards, facing hardship all the way.
+We Servants, who are bound to you, will have to keep working hard, just like you, then.
+Isn’t that right?
+
+… Fufu.
+Don’t worry, you’re a kind person.
+You’re also very different from Jokanaan.
+
+Fufufu. You don’t have to give me that sort of look, it’ll be okay.
+I will only fail when you do.
+So please, don’t worry yourself.
 
 ---
 
 **Fujimaru 1:**
-それなら大丈夫
+That's...
 
-**サロメ:**
-ふふふふふ。そう？
-
+**Salome:**
+Fufu.
 
 ---
 
 **Fujimaru 2:**
-はきっと、聖者様にはなれないよ
+This is a serious responsibility.
 
-**サロメ:**
-ええ、ええ、きっとそうね。
-
+**Salome:**
+Mhm, indeed it is.
 
 ---
 
-**サロメ:**
-そうだといいわ&mdash;
+**Salome:**
+You should pay no mind to me, and be more concerned about yourself.
+Right, Master?
+As long as you remain you, then I’m sure…
+I won’t be able to think of you as Jokanaan…
+But, that’s the thing, isn’t it?
+You keep climbing the steepest paths.
+You keep fighting on.
+And you keep exceeding yourself, and you’re going to keep doing so…
+Someday, you might become someone like Jokanaan——
+And that’s when I’ll take your head.
 
-**サロメ:**
-本当に、心の底からそう思う。マスター。
+---
 
-**サロメ:**
-あたしはあたしで頑張っているから……
+**Fujimaru 1:**
+Then it’ll be alright.
 
-**サロメ:**
-どうか&mdash;あなたは、あなたのままで頑張ってね？
+**Salome:**
+Fufufu. Is that so? 
+
+---
+
+**Fujimaru 2:**
+Well I don’t think I’m ever going to be saintly. 
+
+**Salome:**
+Mhm, mhm, neither do I.
+
+---
+
+**Salome:**
+I hope so——
+Really, that’s what I think, from the bottom of my heart, Master.
+I’ll keep doing my best and resist… 
+So in turn—— do your best to remain the person you are, okay?

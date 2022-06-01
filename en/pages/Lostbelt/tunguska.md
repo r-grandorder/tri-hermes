@@ -8549,7 +8549,7 @@ Hold on, Mash!
 
 ## Section 10: Planet Songs of the Primate II
 
-
+![](https://i.imgur.com/sP8KeBg.png)
 
 **Mash:**
 ...!
@@ -8568,6 +8568,8 @@ Ooooooooooooooooooh!! Leave it to me, Milord!
 
 **Mash:**
 Destroying multiple light units of war-beasts, as well as multiple large units of Lost Familiars!
+
+![](https://i.imgur.com/M1iK1FU.png)
 
 **Mash:**
 Haah, haah—Four hours of battle, elapsed—
@@ -8600,8 +8602,12 @@ There's more to come.
 **Mash:**
 Yes, many hostile readings. They're still coming!
 
+---
+
 **Ibuki Dōji:**
 Mmm. Another big fish—
+
+![](https://i.imgur.com/cdJs93R.png)
 
 **Mash:**
 Heavy war-beasts! And leading a mixed unit of light war-beasts and Lost Familiars!
@@ -8632,8 +8638,16 @@ The bounded fields around the Shadow Border, sure enough, can't hold up under th
 **Fujimaru 1:**
 Roger! Keep them in check!
 
+---
+
+![](https://i.imgur.com/LjNuq5C.png)
+
 **Mash:**
 Yes!
+
+![](https://i.imgur.com/uqTqygA.png)
+
+![](https://i.imgur.com/gRhkIzh.png)
 
 **Taigong:**
 ... ...
@@ -8648,7 +8662,7 @@ Then I must finish my task as well, so I can show my face to almighty Yuanshi Ti
 Shadow of Daji, are you prepared for this?
 
 **Taigong:**
-You seem to have changed your auraconsiderably—
+You seem to have changed your aura considerably—
 
 **Taigong:**
 Maybe you've changed your perfume? Though I can't fathom why I would ask.
@@ -8665,8 +8679,12 @@ The time is ripe. Energizing ideational key-crest.
 **Taigong:**
 —These hands of mine are exactly like the twin treasure blades!
 
+![](https://i.imgur.com/3Adz1Xn.png)
+
 **Taigong:**
 —I embody geography and astronomy, for the Bagua dwells within me!—That is to say, I am as a Xian attending to battle!
+
+![](https://i.imgur.com/roX9Aka.png)
 
 **Goredolf:**
 Those chants...
@@ -8743,6 +8761,8 @@ It might mean he has to push himself this far to subdue Daji!
 **Goredolf:**
 !
 
+![](https://i.imgur.com/3Adz1Xn.png)
+
 **Taigong:**
 —I stand on earth as the embodiment of Yuxu!—I stand on earth as one who executes the divine investiture!
 
@@ -8756,7 +8776,11 @@ It might mean he has to push himself this far to subdue Daji!
 —In the name of goddess Nüwa of the Three Sovereigns,—know that the true fruit of immortality is not of this earth, fox!
 
 **Taigong:**
-#### Great Demon Sublimation–#### Investiture of the Gods!
+#### Great Demon Sublimation–
+
+#### Investiture of the Gods!
+
+![](https://i.imgur.com/CxBHImE.png)
 
 **Koyanskaya:**
 ... ...
@@ -8764,14 +8788,20 @@ It might mean he has to push himself this far to subdue Daji!
 **Koyanskaya:**
 (Snicker)
 
+![](https://i.imgur.com/ET4z7lt.png)
+
 **Koyanskaya:**
 Oops☆
+
+![](https://i.imgur.com/o97EtBX.png)
 
 **Taigong:**
 Wha?
 
 **Koyanskaya:**
 I'm truly sorry. Hehehe, I couldn't help myself around so weak a Noble Phantasm seal.
+
+![](https://i.imgur.com/lEIZC3u.png)
 
 **Taigong:**
 Mm.
@@ -8781,6 +8811,8 @@ Hmm?
 
 **Taigong:**
 Huh. Uh? Nonsense. This is a farce.
+
+![](https://i.imgur.com/07oQBLm.png)
 
 **Taigong:**
 Ahahah. I give up then!
@@ -8794,6 +8826,8 @@ That was the final Anti-Beast Noble Phantasm, especially for Daji's shadow, whic
 **Taigong:**
 How can that be!?
 
+![](https://i.imgur.com/7yRM0CX.png)
+
 **Goredolf:**
 #### !?
 
@@ -8805,8 +8839,12 @@ What...
 **Fujimaru 1:**
 Taigong—!?
 
+---
+
 **Fou:**
 Bfooooooou!?
+
+![](https://i.imgur.com/gzsjEpP.png)
 
 **Ibuki Dōji:**
 #### Seriously!?
