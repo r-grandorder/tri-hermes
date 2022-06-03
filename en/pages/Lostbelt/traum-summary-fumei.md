@@ -1,6 +1,6 @@
 # Traum Summary Translation - 妖兰
 
-Note: This summary translation is done by Fumei/Savepoints on Beast Lair/Reddit
+Note: [This summary translation is done by Fumei/Savepoints on Beast Lair/Reddit](https://forums.nrvnqsr.com/showthread.php/9271-FGO-JP-Main-Chapter-6-5-Realms-of-Mortality-Incarnate-Traum-Life-and-Death-of-a-Fantasy?p=3198579&viewfull=1#post3198579)
 
 ## Prologue
 
