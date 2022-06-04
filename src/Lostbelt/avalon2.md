@@ -1,4 +1,4 @@
-#Cosmos in the Lostbelt 6: Faerie Realm of the Round Table - Avalon le Fae Part 2
+# Cosmos in the Lostbelt 6: Faerie Realm of the Round Table - Avalon le Fae Part 2
 
 **Translators: Rayshift Team -** Gaius, Fumei, Zaszc, PorksIope, Neo, Louay, Starfire, Miro
 

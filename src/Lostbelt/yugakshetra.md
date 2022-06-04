@@ -1,4 +1,4 @@
-#Cosmos in the Lostbelt 4: Samsara of Genesis and Terminus - Yugakshetra
+# Cosmos in the Lostbelt 4: Samsara of Genesis and Terminus - Yugakshetra
 
 ## intro. 4
  

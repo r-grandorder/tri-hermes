@@ -421,7 +421,7 @@ On second thought, this could be fun.
 Senpai, quickly now! It's time for some ghost-busting!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mash:**
 I'm not picking up any more enemies nearby.
@@ -715,7 +715,7 @@ That was way too forced.
 Tee-hee☆
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Kiyohime:**
 I might or might not have heard about skulls being used as wonder drugs...
@@ -1017,7 +1017,7 @@ Every party needs dancers.
 Everyone, fight to your heart's content!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mata Hari:**
 Is the opening act done yet?
@@ -1028,7 +1028,7 @@ It's my turn now.
 Behold the power of Mata Hari, the woman with the Eyes of the Sun! ...I guess that's a good opening.
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mata Hari:**
 Oh my, I lost.
@@ -1327,7 +1327,7 @@ My role is to entertain the guests.
 Now&mdash;enjoy this blood-freezing terror!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Carmilla:**
 That concludes my warm-up.
@@ -1350,7 +1350,7 @@ Now, are you ready? I'll use my Phantom Maiden to paint the walls with your bloo
 Um, wouldn't that just make an even bigger mess?
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Carmilla:**
 Grr... That stupid dragon girl with her songs and dancing... No true noble would do such a thing...
@@ -1549,7 +1549,7 @@ Let us begin with an appetizer.
 Eat, as your bones scream in pain!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Vlad III:**
 Indeed, banquets are splendid.
@@ -1644,7 +1644,7 @@ My stakes have found their place in history.
 And now you shall feel their wrath!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Vlad III:**
 ...Hmmph. Enough, I suppose.
@@ -1924,7 +1924,7 @@ I see.
 No wonder you have nothing but bad vibes!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Tamamo Cat:**
 Nwahahaha!
@@ -1935,7 +1935,7 @@ I said it was just one, but I lied!
 There's actually a few more, including my failed creations! Make sure you eat them this time, woof!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Tamamo Cat:**
 Now it's time for me to join in on the Russian roulette!
@@ -1947,7 +1947,7 @@ Oh, her purrs sound ordinary!
 I think she's getting bored!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Tamamo Cat:**
 Meow! I came! I saw! I conquered!
@@ -2479,7 +2479,7 @@ Now, my (true) Master and my (temporary) Master!
 I'm exhausted, but it's time for the concert!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Kiyohime:**
 Hehehe.
@@ -2510,7 +2510,7 @@ It's time for the finale! I am Caster Elisabeth!
 &ndash;Listen to my true song!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Elisabeth:**
 Aah... That's enough singing.

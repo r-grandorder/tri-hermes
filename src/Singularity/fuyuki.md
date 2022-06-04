@@ -1,4 +1,4 @@
-#Singularity F: Flame Contaminated City - Fuyuki
+# Singularity F: Flame Contaminated City - Fuyuki
 
 ## Prologue
 

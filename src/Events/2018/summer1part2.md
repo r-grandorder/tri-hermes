@@ -506,7 +506,7 @@ It seems we have an opponent to defeat first.
 Come, no time to waste... Let's go!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Scáthach:**
 Too easy!
@@ -1741,7 +1741,7 @@ Going up against a Servant who doesn't think with his head is my specialty!
 We can cook him well-done, or perhaps have him rare with wasabi and soy sauce!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Tamamo-no-Mae:**
 Your head's mine!
@@ -2237,7 +2237,7 @@ Going up against a Servant who doesn't think with his head is my specialty!
 We can cook him well-done, or perhaps have him rare with wasabi and soy sauce!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Tamamo-no-Mae:**
 Your head's mine!
@@ -2723,7 +2723,7 @@ Going up against a Servant who doesn't think with his head is my specialty!
 We can cook him well-done, or perhaps have him rare with wasabi and soy sauce!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Tamamo-no-Mae:**
 Your head's mine!
@@ -3472,7 +3472,7 @@ If that's the case, we're gonna camp outdoors!
 L-Let's give it our best, Senpai!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Cú Chulainn:**
 Ugh, what a pain.
@@ -3514,7 +3514,7 @@ Ah, whatever. Guess those 99 were a warm-up.
 Time to get serious for the last one!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Cú Chulainn:**
 Tch, damn you! You're more persistent than some low-rarity Servants!
@@ -3940,7 +3940,7 @@ Before that, it is probably best to clear the demon boars wandering around.
 Let's go, Master!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mordred:**
 There are demon boars here too.
@@ -4051,7 +4051,7 @@ Fou fooou!
 Sorry, let's get ready!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Altria:**
 I apologize for getting so worked up earlier.
@@ -4170,7 +4170,7 @@ Witness in awe the strength of this great king!
 Detecting an unknown Servant and multiple enemies around us! Let's go!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **???:**
 Fantastic! What a wonderful display of strength! Although I would say strength isn't everything!
@@ -4625,7 +4625,7 @@ For me, a battle royale between everyone would be ideal...
 All right, let the training begin!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Cú Chulainn:**
 Why...did I get roped into this...?
@@ -4852,7 +4852,7 @@ It's a giant demon boar! We'd better slay it swiftly!
 We don't have time for a drawn-out battle!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mash:**
 ...Where are we?
@@ -5052,7 +5052,7 @@ Let's go, Master!
 Your orders, please!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Twrch Trwyth:**
 ...My seven sons.
@@ -5797,7 +5797,7 @@ And a giant demon boar, too!
 Give me a break!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Scáthach:**
 Yes! It turned out great!
@@ -6643,7 +6643,7 @@ Demon boars, you're about to learn that you made a fatal mistake!
 She really is competitive!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Altria:**
 Okay, Master!
@@ -6899,7 +6899,7 @@ We are idiots who decided we could not live any other way.
 So, how about a nice, clean bout, Martha?
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Martha:**
 Taaaaaaake thaaaaat!
@@ -7080,7 +7080,7 @@ If it's a fistfight you want, then that's what you'll get!
 Bring it on! ...Uh, I mean, have at you!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Beowulf:**
 Hahahaha! I'm impressed! No wonder the boar piglets worship you as the Goddess of the Iron Fist!
@@ -7166,7 +7166,7 @@ Whoachaaaa!!
 Another fighting reference!?
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Martha:**
 Aaaaaaaaaahhhhh!!
@@ -7655,7 +7655,7 @@ You asked for it! This'll be a nice change of pace for me, taking on a Servant i
 All right, come and get me!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mordred:**
 Argh! I lost! Fine, you win.
@@ -7738,7 +7738,7 @@ Yes! after I knock you out, I will stuff the invitation in your hands!
 MIKOOON!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Marie:**
 I won! So I'll just stuff this invitation somewhere on you!

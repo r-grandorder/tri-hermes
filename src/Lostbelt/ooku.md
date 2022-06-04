@@ -1,4 +1,4 @@
-#Cosmos in the Lostbelt 3. 5: Tokugawa Kaiten Labyrinth - Ooku
+# Cosmos in the Lostbelt 3. 5: Tokugawa Kaiten Labyrinth - Ooku
 
 ## Prologue
  

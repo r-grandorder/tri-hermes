@@ -1,4 +1,4 @@
-#Singularity 7: Absolute Demonic Front - Babylonia
+# Singularity 7: Absolute Demonic Front - Babylonia
 
 ## Prelude
 

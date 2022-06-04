@@ -1,4 +1,4 @@
-#Cosmos in the Lostbelt 3: The Synchronized Intellect Nation - SIN
+# Cosmos in the Lostbelt 3: The Synchronized Intellect Nation - SIN
 
 ## intro. 3-1
  

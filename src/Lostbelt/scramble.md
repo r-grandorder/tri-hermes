@@ -1,4 +1,4 @@
-#Cosmos in the Lostbelt 4.5: Void Space Naval Battle - Imaginary Scramble
+# Cosmos in the Lostbelt 4.5: Void Space Naval Battle - Imaginary Scramble
 
 **Translator:** Comun
 

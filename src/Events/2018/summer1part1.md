@@ -311,7 +311,7 @@ Heh heh. Unknown enemies on an unknown land...
 Now this is getting very convenient for me!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mash:**
 Phew. It seems we're safe for now.
@@ -721,7 +721,7 @@ Just in case Blackbeard comes back!
  
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mash:**
 ...It's really quiet here, Senpai.
@@ -814,7 +814,7 @@ It was an unexpected accident which brought us here. Honestly, there's no tellin
 At this very moment, however, I feel very lucky to have seen this starry sky with you, Senpai.
 
  
-**--ARROW--</b>
+**--ARROW--**
  
 **Mary:**
 Hmm... I kind of expected Blackbeard to be back by now, too...
@@ -957,7 +957,7 @@ Oh well. Crustaceous monsters from the sea have appeared... Heh heh heh, this ki
 ...Ah. Is this what that hack samurai was referring to?
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Fionn:**
 What's that? Over there on the shore?
@@ -1374,7 +1374,7 @@ Grrrrrr...!
 Either way, we can talk more after we beat them into the ground... I mean, drive them off!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Scáthach:**
 All right, where were we?
@@ -1686,7 +1686,7 @@ Now then, Master, your orders!
 I shall show you the power of summer!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mash:**
 I'm sorry. To be honest I didn't really believe it, but... way to go, everyone!
@@ -2262,7 +2262,7 @@ Maybe they're in the same situation we are...
 But let's take them out before we get eaten, Master!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mash:**
 I don't think Master's food shortage can be solved with those mysterious fruits.
@@ -2598,7 +2598,7 @@ Would you say this one looks like it wants to eat us?
 What on earth have you reeled in!?
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Cú Chulainn:**
 I guess I'll hang around and help you look for food. After inviting you all out on that unsuccessful fishing trip, it's the least I can do.
@@ -2787,7 +2787,7 @@ Seeing as how we snatched its prey, it's not like we can slip away quietly.
 I'll pay the hunting fees with a thrust of this spear!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Sign:**
 - The First Ever Happy BBQ Fiesta for Master Fujimaru & Servants -
@@ -3123,7 +3123,7 @@ Anyway, we need to rid the enemies before us.
 Let us investigate after we have defeated them!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Scáthach:**
 I've cut the beast's bowel open, but I did not find our crops. The true culprit lies elsewhere.
@@ -3365,7 +3365,7 @@ I don't really understand... But it seems Fionn and Diarmuid have their own trou
 For now, let's leave it to them for tonight, and come back tomorrow to take a look at the crops, Master.
 
  
-**--ARROW--</b>
+**--ARROW--**
  
 **Scáthach:**
 The night is through.
@@ -3739,7 +3739,7 @@ Monsters at a time like this!? The piglet must have been driven away by their st
 In any event, we can't let it get away with destroying our field. We'll pursue it once we take care of these beasts!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mordred:**
 ...“Split up and look for it,” huh...
@@ -3853,7 +3853,7 @@ Well, I'm just talking to myself. See ya.
 ...
 
  
-**--ARROW--</b>
+**--ARROW--**
  
 **Tamamo-no-Mae:**
 I see, I see... So that's what happened while I was relaxing on the beach.
@@ -4143,7 +4143,7 @@ Unfortunately, I must resist against your act of violence. The reward for sinnin
 Begone! If you will not, I will show you a new meaning to “Bible thumping”!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Altria:**
 It's quite powerful, however...
@@ -4800,7 +4800,7 @@ For now, we need to get rid of them before we can look into this.
 Let's chase them off, Master!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Martha:**
 I see, so that's why you brought me here.
@@ -4930,7 +4930,7 @@ Judging from Fou's behavior, it doesn't look like the boar piglet was trying to 
 It seems there's another place the piglet wanted to take us to. In other words, another place plagued by the poison.
 
  
-**--ARROW--</b>
+**--ARROW--**
  
 **Fou:**
 Fou!? Fou... (Blech)
@@ -5053,7 +5053,7 @@ However, I cannot overlook how you've ruined and eroded this island, since that 
 Grr, grrrph!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Demon Boar:**
 Ghhhaa...!
@@ -5365,7 +5365,7 @@ That's right, this is not about us being nosy. We're simply taking a peek into w
 You know, that just makes you sound even more nosy...
 
  
-**--ARROW--</b>
+**--ARROW--**
  
 **Mash:**
 They're moving deeper and deeper into the island...
@@ -5550,7 +5550,7 @@ I will face you as if I am facing an angel!
 As you wish! The emptiness of conflict... I will hammer that concept into your bones with this iron fist!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Kojirou:**
 Ugh!
@@ -5682,7 +5682,7 @@ I will show you the way.
 ...We might run into some monsters along the way, but that won't pose any issue for you, now will it, Master?
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Karna:**
 ...
@@ -6014,7 +6014,7 @@ There is no choice left but to fight.
 Let's go, Master!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **???:**
 Gaaaaah!
@@ -6278,7 +6278,7 @@ Grrrrrrrrrrrrrrfffffffff!
 Let's go, Master!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mash:**
 Ugh... It's so strong!
@@ -6479,7 +6479,7 @@ This is the end, Master.
 Let's finish him off!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **???:**
 Gugh... Oooooo!
@@ -7038,7 +7038,7 @@ Let's release our pent-up wildness!
 Nothing is pent-up for me, you know!?
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Tamamo-no-Mae:**
 Good good, I'm feeling much better!
@@ -7344,7 +7344,7 @@ In other words... Thanks to you guys, my splendid river surfing spot has been ru
 Poison swamp? Bring it on! It's only deadly if I fall in. Did you think I'd be frightened by a wave that size!?
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Mordred:**
 Aww, damn. Not in the mood anymore. Let's go home, Master. We'll leave the rest to Scáthach and the others.
@@ -7663,7 +7663,7 @@ Let's remember this location and hurry back to camp. If we grab everyone quickly
 Then... you'll have front-row seats to observe me as I gracefully put my naginata to use.
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Kiyohime:**
 The demonic boar has been defeated. Let the others handle any leftover business. All right, Master. Shall we have a swim together?
@@ -8080,7 +8080,7 @@ I can't stand this guy any longer!
 We have no choice: for the peace of this island, we must destroy this grudge!
 
  
-**--BATTLE--</b>
+**--BATTLE--**
  
 **Blackbeard:**
 How...unfortunate...

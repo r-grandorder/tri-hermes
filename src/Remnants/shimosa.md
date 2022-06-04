@@ -1,4 +1,4 @@
-#Pseudo-Singularity III: The Stage of Carnage - Shimosa
+# Pseudo-Singularity III: The Stage of Carnage - Shimosa
 
 ## Prelude
 

@@ -1,4 +1,4 @@
-#Singularity 2: Eternal Mandess Empire - Septem
+# Singularity 2: Eternal Mandess Empire - Septem
 
 ## Prelude
  

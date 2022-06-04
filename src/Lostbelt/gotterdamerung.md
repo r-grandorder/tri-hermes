@@ -1,4 +1,4 @@
-#Cosmos in the Lostbelt 2: Eternal Frozen Fire Century - Götterdämmerung
+# Cosmos in the Lostbelt 2: Eternal Frozen Fire Century - Götterdämmerung
 
 ## intro. 2-1
  
@@ -3084,7 +3084,7 @@ Fou fooou!
 **Goredolf:**
 Hmph, I can tell you're just buttering me up, Meunière. At any rate, let's get this Zero Sail started before that Servant makes a move! 
  
-**B：P. A. System</b>
+**P. A. System**
 ...Okay, I'm patched in and all synced up. Expanding Void-Reality Observation Device: Paper Moon. 
  
 **Goredolf:**
@@ -3093,19 +3093,19 @@ All hands, be seated! And need I remind you,do not forget your seat belts!
 **Fou:**
 Fou, fou fooou! 
  
-**B：P. A. System</b>
+**P. A. System**
 Expanding Logic Formula on Shadow Border's external armor. Expansion is currently at ninety percent...ninety-three percent...
  
-**B：P. A. System</b>
+**P. A. System**
 Ninety-eight percent...There! Now we just dive in and make up the rest as we go along! 
  
-**B：P. A. System</b>
+**P. A. System**
 Removing existence verification for Reality Space. Shortened future prediction: hypothetically prove mirror world plane in ten seconds. 
  
-**B：P. A. System</b>
+**P. A. System**
 Relaxing space-time friction decompression for 0. 9 seconds. 
  
-**B：P. A. System</b>
+**P. A. System**
 ...Good, looks like we made it just in time. Holmes! 
  
 **Holmes:**
@@ -3114,7 +3114,7 @@ Let me take over the wheel, Mr. Meunière. In the meantime, would you be so kind
 **Meunière:**
 You got it! 
  
-**B：P. A. System</b>
+**P. A. System**
 Shadow Border, untether from reality. Void Space Dive, Zero Sail: unfurl! 
  
 **Mash:**
@@ -3140,10 +3140,10 @@ It feels like something dragged us up...
 **Goredolf:**
 Wh-what's going on? This isn't Void Space! Did we fail to dive? Are we still stuck in reality!? 
  
-**B：P. A. System</b>
+**P. A. System**
 ...They got us good. Whoever's out there sensed our spells going off and caught us in a split second. 
  
-**B：P. A. System</b>
+**P. A. System**
 They're physically holding us back. I'm impressed. Just their physical strength exceeds the Border's maximum output! 
  
 **Mash:**
@@ -3216,16 +3216,16 @@ That is truly incredible strength. Perhaps they're a Berserker? Whatever their c
 **Holmes:**
 I expect they are a rather combat-oriented Servant, probably one focusing on being on the front lines, but&ndash;
  
-**B：P. A. System</b>
+**P. A. System**
 Attention, please. I'm afraid that crash completely shut down all our navigation systems. 
  
-**B：P. A. System</b>
+**P. A. System**
 I can try to bypass the damaged systems, but even that's going to take some time. And then there's all the damage to the suspension. 
  
-**B：P. A. System</b>
+**P. A. System**
 Luckily we didn't end up completely upside down, but we're still not going anywhere anytime soon. 
  
-**B：P. A. System</b>
+**P. A. System**
 I'm sorry, everyone. We can't dive or run away on land anymore. 
  
 **Holmes:**
@@ -3252,10 +3252,10 @@ The magical energy signature that I'm pretty sure is a Servant has collided with
 **Meunière:**
 What kind of barbarian are they? It sounds like they're trying to cut their way through our defenses! 
  
-**B：P. A. System</b>
+**P. A. System**
 Do they realize how much time I spent reinforcing this armor...? There's no way anything should be able to break through it this easily...
  
-**B：P. A. System</b>
+**P. A. System**
 I&ndash;I mean, the old me spent a ton of time making sure of that! What kind of weapon or Noble Phantasm do they have that could possibly do this!? 
  
 **Mash:**
@@ -3281,10 +3281,10 @@ H-hold it, you two...! Don't you think you should wait a bit and see what's happ
 **Meunière:**
 We don't have time to wait and see anymore! I'm sorry, but it's all up to you two now! 
  
-**B：P. A. System</b>
+**P. A. System**
 Holmes, you go with them, too! But watch out. That Servant's magical energy is right up there with Ivan's! 
  
-**B：P. A. System</b>
+**P. A. System**
 Make sure you don't hold anything back,or you might not be coming back at all. Got it? 
  
 **Holmes:**

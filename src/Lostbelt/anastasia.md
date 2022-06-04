@@ -1,4 +1,4 @@
-#Cosmos in the Lostbelt 1: Permafrost Empire - Anastasia
+# Cosmos in the Lostbelt 1: Permafrost Empire - Anastasia
 
 ## Outro 1
  

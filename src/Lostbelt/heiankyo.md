@@ -1,4 +1,4 @@
-#Cosmos in the Lostbelt 5. 5: Realm of Hell Mandala - Heian-kyō
+# Cosmos in the Lostbelt 5. 5: Realm of Hell Mandala - Heian-kyō
 
 *TL done by JusticiarHux*
 

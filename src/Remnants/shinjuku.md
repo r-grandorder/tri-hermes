@@ -1,4 +1,4 @@
-#Pseudo-Singularity I: Quarantined Territory of Malice - Shinjuku
+# Pseudo-Singularity I: Quarantined Territory of Malice - Shinjuku
 
 ## Prelude
  

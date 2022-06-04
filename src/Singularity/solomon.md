@@ -1,4 +1,4 @@
-#Final Singularity: The Grand Temple of Time - Solomon
+# Final Singularity: The Grand Temple of Time - Solomon
 
 ## Prelude
  

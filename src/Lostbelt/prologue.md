@@ -1,4 +1,4 @@
-#Prologue/Dec 31st, 2019
+# Prologue/Dec 31st, 2019
 
 ## Section 1: Prologue/Dec 26th, 2019
  
@@ -2022,22 +2022,22 @@ The Coffins' contents can't be verified until they're open. There are any number
 **Da Vinci:**
 But who could've done that? And more importantly, how did they get Wodime and the others out of&ndash;
  
-**Announcement A</b>
+**Announcement A**
 Warning! Warning! An ■■ has occurred in observational data. 
  
-**Announcement A</b>
+**Announcement A**
 No past observational data found. Statistical response, forecast, and prediction abilities compromised. 
  
-**Announcement A</b>
+**Announcement A**
 Unable to detect anomalies in observational data. Unable to detect any form of electromagnetic waves. 
  
-**Announcement A</b>
+**Announcement A**
 Unable to detect cosmic rays reaching Earth. 
  
-**Announcement A</b>
+**Announcement A**
 Satellite visual feed lost. Mauna Kea Observatories transmissions lost. 
  
-**Announcement A</b>
+**Announcement A**
 There are currently no observable celestial objects on Earth. 
 
  
@@ -2054,7 +2054,7 @@ Wh-wh-wh-what's going on!? I didn't do anything!
 What are those cracks showing up in Chaldeas!? 
 
  
-**Announcement A</b>
+**Announcement A**
 Pseudo-Celestial Sphere Chaldeas overloaded. Shutting down Observation Lens Sheba. 
  
 **Goredolf:**
@@ -2787,10 +2787,10 @@ They caught us completely by surprise. We have nothing at all to go on at the mo
 **Da Vinci:**
 Which is yet another reason why we should beat a temporary retreat. We can call the Mage's Association for help, gather intel on who we're up against, and&ndash;
  
-**F：P. A. System</b>
+**P. A. System**
 ...Uh...S-somebody! Anybody...! 
  
-**F：P. A. System</b>
+**P. A. System**
 If anyone's hearing this, please, answer me! Anybody at all! 
  
 ---
@@ -2854,19 +2854,19 @@ I...
 ---
 
  
-**F：P. A. System</b>
+**P. A. System**
 Oh God, they're coming! They're coming...! Ah...Ahh...Aaaaaah! 
  
-**F：P. A. System</b>
+**P. A. System**
 Somebody! Anybody! Argh, why does this sort of thing always happen to me!? 
  
-**F：P. A. System</b>
+**P. A. System**
 Dammit all! Who do they think I am!? 
  
-**F：P. A. System</b>
+**P. A. System**
 I'm Goredolf goddamn Musik! The eldest son of the Musik family! 
  
-**F：P. A. System</b>
+**P. A. System**
 I was going to lead Chaldea to glory! Yes, glory! That's what was supposed to happen! But now...! 
  
 ---
@@ -2903,46 +2903,46 @@ You're not wrong, but...
 ---
 
  
-**F：P. A. System</b>
+**P. A. System**
 Aaagh! Ow, owww...! Ah...Aah...Ghnnn...! 
  
-**F：P. A. System</b>
+**P. A. System**
 ...Why. Why do things always turn out like this? Why do they always turn on me in the end!? 
  
-**F：P. A. System</b>
+**P. A. System**
 This always happens to me! Always! Nothing's changed at all...! 
  
-**F：P. A. System</b>
+**P. A. System**
 No matter where I go, no matter what I try, I was always an outcast. A loser. A social leper. 
  
-**F：P. A. System</b>
+**P. A. System**
 I knew what everyone was thinking! I knew they all hated me! But what was I supposed to do about it!? 
  
-**F：P. A. System</b>
+**P. A. System**
 I don't know WHY they hated me! I don't know HOW to get people to like me! 
  
-**F：P. A. System</b>
+**P. A. System**
 But I tried! I did the best I could! 
  
-**F：P. A. System</b>
+**P. A. System**
 I never had my sights set on first place, you know? I would've been happy with second or third! 
  
-**F：P. A. System</b>
+**P. A. System**
 But, haha, just look at how things turned out. Forget third! I didn't even end up placing at all! 
  
-**F：P. A. System</b>
+**P. A. System**
 Ah...Ow, owww! Stop it! Stop iiit! 
  
-**F：P. A. System</b>
+**P. A. System**
 Dammit! After a life of failure, I thought this would finally, FINALLY be my shot at success...! 
  
-**F：P. A. System</b>
+**P. A. System**
 But a loser is all I'll ever be, no matter where I go or what I do. Dammit...Dammit...!!! 
  
-**F：P. A. System</b>
+**P. A. System**
 I don't wanna die! I'm not ready to die! After all...
  
-**F：P. A. System</b>
+**P. A. System**
 No one's ever praised me before! No one's ever loved me before...! 
 
  
@@ -4157,10 +4157,10 @@ The Atlas Institute may not have cleared me for it,but I'm quite familiar with i
 **Holmes:**
 After all, I got a rather thorough look at its top secret manual while I was in their headquarters. 
  
-**G：P. A. System</b>
+**G：P. A. System**
 Tri-Hermes at the Atlas Institute, hmm. You detective types are always on the job, aren't you? 
  
-**G：P. A. System</b>
+**G：P. A. System**
 Still, be honest with me: How good do you think our odds are of pulling that off? Better than if we tried to fight those soldiers? 
  
 **Holmes:**
