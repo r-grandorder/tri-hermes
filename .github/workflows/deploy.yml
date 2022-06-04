@@ -1,0 +1,16 @@
+name: Build and Deploy
+on:
+    push:
+    workflow_dispatch:
+jobs:
+    build-and-deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@master
+
+            - name: vuepress-deploy
+              uses: jenkey2011/vuepress-deploy@master
+              env:
+                  ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  BUILD_DIR: src/.vuepress/dist
