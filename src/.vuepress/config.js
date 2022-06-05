@@ -1,6 +1,8 @@
 const { defaultTheme } = require("vuepress");
 // const { seoPlugin } = require("vuepress-plugin-seo2");
 // const { sitemapPlugin } = require("vuepress-plugin-sitemap2");
+const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics');
+const { searchPlugin } = require('@vuepress/plugin-search')
 
 module.exports = {
     base: "/wiki/",
@@ -67,52 +69,7 @@ module.exports = {
                 link: "/feedback",
             },
         ],
-        sidebar: {
-            "/": [
-                {
-                    text: "Main FGO Scenario",
-                    children: [
-                        {
-                            text: "Main Story",
-                            link: "/story",
-                        },
-                        {
-                            text: "Events",
-                            link: "/events",
-                        },
-                        {
-                            text: "Servants",
-                            link: "/servants",
-                        },
-                    ],
-                },
-                {
-                    text: "Meta Lore",
-                    children: [
-                        {
-                            text: "Bamboo Broom Diary",
-                            link: "/bamboo",
-                        },
-                        {
-                            text: "Interviews",
-                            link: "/interviews",
-                        },
-                        {
-                            text: "Articles",
-                            link: "/articles",
-                        },
-                    ],
-                },
-                {
-                    text: "About",
-                    link: "/about",
-                },
-                {
-                    text: "Feedback",
-                    link: "/feedback",
-                },
-            ],
-        },
+        sidebar: 'auto'
     }),
     plugins: [
         // seoPlugin({
@@ -122,9 +79,9 @@ module.exports = {
         //     hostname: "https://squaresmile.github.io/rgo-wiki",
         //     changefreq: "monthly",
         // }),
-        [
-            ['@vuepress/plugin-google-analytics', { ga: 'G-19VNBHS02E' }],
-        ]
-		
+        googleAnalyticsPlugin({
+            id: 'G-19VNBHS02E'
+        }),
+        searchPlugin(),
     ],
 };
