@@ -42,7 +42,7 @@
 	
 ## Anime Subtitle Dumps
 
-* [First Order](Anime/First Order.html)
-* [Babylonia Episode 0](Anime/Babylonia Ep 0.html)
-* [Moonlight Lostroom](Anime/Moonlight Lostroom.html)
-* [Solomon Movie](Anime/Solomon Movie.html)
+* [First Order](Anime/First%20Order.html)
+* [Babylonia Episode 0](Anime/Babylonia%20Ep%200.html)
+* [Moonlight Lostroom](Anime/Moonlight%20Lostroom.html)
+* [Solomon Movie](Anime/Solomon%20Movie.html)
