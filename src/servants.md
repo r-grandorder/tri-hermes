@@ -4,25 +4,25 @@
 
 **Mash Kyrielight**
 
-* [Material Profile](Materials/Mash Kyrielight.md)
+* [Material Profile](Materials/Mash%20Kyrielight.md)
 
 ## Saber
 
 **Artoria Pendragon**
 
-* [Interlude](Interludes/Artoria Pendragon.md)
+* [Interlude](Interludes/Artoria%20Pendragon.md)
 
 **Artoria Pendragon (Alter)**
 
-* [Interlude](Interludes/Artoria Pendragon - Alter.md)
+* [Interlude](Interludes/Artoria%20Pendragon%20-%20Alter.md)
 
 **Artoria Pendragon (Lily)**
 
-* [Interlude](Interludes/Artoria Pendragon - Lily.md)
+* [Interlude](Interludes/Artoria%20Pendragon%20-%20Lily.md)
 
 **Nero Claudius**
 
-* [Interlude](Interludes/Nero Claudius.md)
+* [Interlude](Interludes/Nero%20Claudius.md)
 
 **Siegfried**
 
@@ -30,7 +30,7 @@
 
 **Gaius Julius Caesar**
 
-* [Interlude](Interludes/Gaius Julius Caesar.md)
+* [Interlude](Interludes/Gaius%20Julius%20Caesar.md)
 
 **Altera**
 
@@ -38,15 +38,15 @@
 
 **Gilles de Rais**
 
-* [Interlude](Interludes/Gilles de Rais - Saber.md)
+* [Interlude](Interludes/Gilles%20de%20Rais%20-%20Saber.md)
 
 **Chevalier d'Eon**
 
-* [Interlude](Interludes/Chevalier d'Eon.md)
+* [Interlude](Interludes/Chevalier%20d'Eon.md)
 
 **Fergus Mac Róich**
 
-* [Interlude](Interludes/Fergus mac Róich.md)
+* [Interlude](Interludes/Fergus%20mac%20Róich.md)
 
 **Mordred**
 
@@ -54,7 +54,7 @@
 
 **Nero Claudius (Bride)**
 
-* [Interlude](Interludes/Nero Claudius - Bride.md)
+* [Interlude](Interludes/Nero%20Claudius%20-%20Bride.md)
 
 **Rama**
 
@@ -62,7 +62,7 @@
 
 **Lancelot (Saber)**
 
-* [Interlude](Interludes/Lancelot - Saber.md)
+* [Interlude](Interludes/Lancelot%20-%20Saber.md)
 
 **Gawain**
 
@@ -74,15 +74,15 @@
 
 **Arthur Pendragon (Prototype)**
 
-* [Interlude](Interludes/Arthur Pendragon - Prototype.md)
+* [Interlude](Interludes/Arthur%20Pendragon%20-%20Prototype.md)
 
 **Suzuka Gozen**
 
-* [Interlude](Interludes/Suzuka Gozen.md)
+* [Interlude](Interludes/Suzuka%20Gozen.md)
 
 **Yagyu Tajima-no-kami Munenori**
 
-* [Interlude](Interludes/Yagyu Tajima-no-kami Munenori.md)
+* [Interlude](Interludes/Yagyu%20Tajima-no-kami%20Munenori.md)
 
 **Sigurd**
 
@@ -90,11 +90,11 @@
 
 **Diarmuid Ua Duibhne (Saber)**
 
-* [Interlude](Interludes/Diarmuid Ua Duibhne - Saber.md)
+* [Interlude](Interludes/Diarmuid%20Ua%20Duibhne%20-%20Saber.md)
 
 **Lanling Wang**
 
-* [Interlude](Interludes/Lanling Wang.md)
+* [Interlude](Interludes/Lanling%20Wang.md)
 
 **Beni-enma**
 
@@ -102,7 +102,7 @@
 
 **Lakshmibai**
 
-* [Interlude](Interludes/Lakshmi Bai.md)
+* [Interlude](Interludes/Lakshmi%20Bai.md)
 
 
 ## Archer
@@ -117,7 +117,7 @@
 
 **Robin Hood**
 
-* [Interlude](Interludes/Robin Hood.md)
+* [Interlude](Interludes/Robin%20Hood.md)
 
 **Atalanta**
 
@@ -133,7 +133,7 @@
 
 **Orion - Artemis**
 
-* [Interlude](Interludes/Orion - Artemis.md)
+* [Interlude](Interludes/Orion%20-%20Artemis.md)
 
 **David**
 
@@ -141,7 +141,7 @@
 
 **Nikola Tesla**
 
-* [Interlude](Interludes/Nikola Tesla.md)
+* [Interlude](Interludes/Nikola%20Tesla.md)
 
 **Arjuna**
 
@@ -149,11 +149,11 @@
 
 **Gilgamesh - Child**
 
-* [Interlude](Interludes/Gilgamesh - Child.md)
+* [Interlude](Interludes/Gilgamesh%20-%20Child.md)
 
 **Billy the Kid**
 
-* [Interlude](Interludes/Billy the Kid.md)
+* [Interlude](Interludes/Billy%20the%20Kid.md)
 
 **Tristan**
 
@@ -161,11 +161,11 @@
 
 **Tawara Touta**
 
-* [Interlude](Interludes/Tawara Touta.md)
+* [Interlude](Interludes/Tawara%20Touta.md)
 
 **Chloe von Einzbern**
 
-* [Interlude](Interludes/Chloe von Einzbern.md)
+* [Interlude](Interludes/Chloe%20von%20Einzbern.md)
 
 **Ishtar**
 
@@ -177,19 +177,19 @@
 
 **Emiya Alter**
 
-* [Interlude](Interludes/Emiya Alter.md)
+* [Interlude](Interludes/Emiya%20Alter.md)
 
 **Tomoe Gozen**
 
-* [Interlude](Interludes/Tomoe Gozen.md)
+* [Interlude](Interludes/Tomoe%20Gozen.md)
 
 **Napoleon Bonaparte**
 
-* [Interlude](Interludes/Napoleon Bonaparte.md)
+* [Interlude](Interludes/Napoleon%20Bonaparte.md)
 
 **William Tell**
 
-* [Interlude](Interludes/William Tell.md)
+* [Interlude](Interludes/William%20Tell.md)
 
 **Aśvatthāman**
 
@@ -201,29 +201,29 @@
 
 **Sei Shonagon**
 
-* [Interlude](Interludes/Sei Shonagon.md)
+* [Interlude](Interludes/Sei%20Shonagon.md)
 
 ## Lancer
 
 **Cú Chulainn**
 
-* [Interlude](Interludes/Cú Chulainn.md)
+* [Interlude](Interludes/Cú%20Chulainn.md)
 
 **Elisabeth Báthory**
 
-* [Interlude](Interludes/Elisabeth Báthory.md)
+* [Interlude](Interludes/Elisabeth%20Báthory.md)
 
 **Musashibou Benkei**
 
-* [Interlude](Interludes/Musashibou Benkei.md)
+* [Interlude](Interludes/Musashibou%20Benkei.md)
 
 **Leonidas I**
 
-* [Interlude](Interludes/Leonidas I.md)
+* [Interlude](Interludes/Leonidas%20I.md)
 
 **Cú Chulainn - Prototype**
 
-* [Interlude](Interludes/Cú Chulainn - Prototype.md)
+* [Interlude](Interludes/Cú%20Chulainn%20-%20Prototype.md)
 
 **Romulus**
 
@@ -239,11 +239,11 @@
 
 **Diarmuid Ua Duibhne**
 
-* [Interlude](Interludes/Diarmuid Ua Duibhne.md)
+* [Interlude](Interludes/Diarmuid%20Ua%20Duibhne.md)
 
 **Artoria Pendragon - Lancer Alter**
 
-* [Interlude](Interludes/Artoria Pendragon - Lancer Alter.md)
+* [Interlude](Interludes/Artoria%20Pendragon%20-%20Lancer%20Alter.md)
 
 **Karna**
 
@@ -251,7 +251,7 @@
 
 **Fionn mac Cumhaill**
 
-* [Interlude](Interludes/Fionn mac Cumhaill.md)
+* [Interlude](Interludes/Fionn%20mac%20Cumhaill.md)
 
 **Brynhild**
 
@@ -259,15 +259,15 @@
 
 **Li Shuwen - Young**
 
-* [Interlude](Interludes/Li Shuwen - Young.md)
+* [Interlude](Interludes/Li%20Shuwen%20-%20Young.md)
 
 **Artoria Pendragon - Lancer**
 
-* [Interlude](Interludes/Artoria Pendragon - Lancer.md)
+* [Interlude](Interludes/Artoria%20Pendragon%20-%20Lancer.md)
 
 **Vlad III - EXTRA**
 
-* [Interlude](Interludes/Vlad III - EXTRA.md)
+* [Interlude](Interludes/Vlad%20III%20-%20EXTRA.md)
 
 **Enkidu**
 
@@ -275,11 +275,11 @@
 
 **Medusa Lily**
 
-* [Interlude](Interludes/Medusa Lily.md)
+* [Interlude](Interludes/Medusa%20Lily.md)
 
 **Jaguar Warrior**
 
-* [Interlude](Interludes/Jaguar Warrior.md)
+* [Interlude](Interludes/Jaguar%20Warrior.md)
 
 **Pārvatī**
 
@@ -287,7 +287,7 @@
 
 **Houzouin Inshun**
 
-* [Interlude](Interludes/Houzouin Inshun.md)
+* [Interlude](Interludes/Houzouin%20Inshun.md)
 
 **Nezha**
 
@@ -299,7 +299,7 @@
 
 **Qin Liangyu**
 
-* [Interlude](Interludes/Qin Liangyu.md)
+* [Interlude](Interludes/Qin%20Liangyu.md)
 
 **Bradamante**
 
@@ -321,7 +321,7 @@
 
 **Edward Teach**
 
-* [Interlude](Interludes/Edward Teach.md)
+* [Interlude](Interludes/Edward%20Teach.md)
 
 **Boudica**
 
@@ -333,11 +333,11 @@
 
 **Marie Antoinette**
 
-* [Interlude](Interludes/Marie Antoinette.md)
+* [Interlude](Interludes/Marie%20Antoinette.md)
 
 **Saint Martha**
 
-* [Interlude](Interludes/Saint Martha.md)
+* [Interlude](Interludes/Saint%20Martha.md)
 
 **Alexander**
 
@@ -345,11 +345,11 @@
 
 **Francis Drake**
 
-* [Interlude](Interludes/Francis Drake.md)
+* [Interlude](Interludes/Francis%20Drake.md)
 
 **Anne Bonny and Mary Read**
 
-* [Interlude](Interludes/Anne Bonny and Mary Read.md)
+* [Interlude](Interludes/Anne%20Bonny%20and%20Mary%20Read.md)
 
 **Astolfo**
 
@@ -357,7 +357,7 @@
 
 **Queen Medb**
 
-* [Interlude](Interludes/Queen Medb.md)
+* [Interlude](Interludes/Queen%20Medb.md)
 
 **Iskandar**
 
@@ -373,15 +373,15 @@
 
 **Christopher Columbus**
 
-* [Interlude](Interludes/Christopher Columbus.md)
+* [Interlude](Interludes/Christopher%20Columbus.md)
 
 **Ivan the Terrible**
 
-* [Interlude](Interludes/Ivan the Terrible.md)
+* [Interlude](Interludes/Ivan%20the%20Terrible.md)
 
 **Reines - Sima Yi**
 
-* [Interlude](Interludes/Sima Yi - Reines.md)
+* [Interlude](Interludes/Sima%20Yi%20-%20Reines.md)
 
 ## Caster
 
@@ -391,15 +391,15 @@
 
 **Gilles de Rais - Caster**
 
-* [Interlude](Interludes/Gilles de Rais - Caster.md)
+* [Interlude](Interludes/Gilles%20de%20Rais%20-%20Caster.md)
 
 **Hans Christian Andersen**
 
-* [Interlude](Interludes/Hans Christian Andersen.md)
+* [Interlude](Interludes/Hans%20Christian%20Andersen.md)
 
 **William Shakespheare**
 
-* [Interlude](Interludes/William Shakespheare.md)
+* [Interlude](Interludes/William%20Shakespheare.md)
 
 **Mephistopheles**
 
@@ -407,15 +407,15 @@
 
 **Wolfgang Amadeus Mozart**
 
-* [Interlude](Interludes/Wolfgang Amadeus Mozart.md)
+* [Interlude](Interludes/Wolfgang%20Amadeus%20Mozart.md)
 
 **Lord El Melloi II - Zhuge Liang**
 
-* [Interlude](Interludes/Lord El Melloi II - Zhuge Liang.md)
+* [Interlude](Interludes/Lord%20El%20Melloi%20II%20-%20Zhuge%20Liang.md)
 
 **Cú Chulainn - Caster**
 
-* [Interlude](Interludes/Cú Chulainn - Caster.md)
+* [Interlude](Interludes/Cú%20Chulainn%20-%20Caster.md)
 
 **Tamamo-no-Mae**
 
@@ -423,27 +423,27 @@
 
 **Medea Lily**
 
-* [Interlude](Interludes/Medea Lily.md)
+* [Interlude](Interludes/Medea%20Lily.md)
 
 **Nursery Rhyme**
 
-* [Interlude](Interludes/Nursery Rhyme.md)
+* [Interlude](Interludes/Nursery%20Rhyme.md)
 
 **Paracelsus von Hohenheim**
 
-* [Interlude](Interludes/Paracelsus von Hohenheim.md)
+* [Interlude](Interludes/Paracelsus%20von%20Hohenheim.md)
 
 **Charles Babbage**
 
-* [Interlude](Interludes/Charles Babbage.md)
+* [Interlude](Interludes/Charles%20Babbage.md)
 
 **Helena Blavatsky**
 
-* [Interlude](Interludes/Helena Blavatsky.md)
+* [Interlude](Interludes/Helena%20Blavatsky.md)
 
 **Thomas Edison**
 
-* [Interlude](Interludes/Thomas Edison.md)
+* [Interlude](Interludes/Thomas%20Edison.md)
 
 **Geronimo**
 
@@ -451,7 +451,7 @@
 
 **Xuanzang Sanzang**
 
-* [Interlude](Interludes/Xuanzang Sanzang.md)
+* [Interlude](Interludes/Xuanzang%20Sanzang.md)
 
 **Nitocris**
 
@@ -459,15 +459,15 @@
 
 **Leonardo da Vinci**
 
-* [Interlude](Interludes/Leonardo da Vinci.md)
+* [Interlude](Interludes/Leonardo%20da%20Vinci.md)
 
 **Illyasviel von Einzbern**
 
-* [Interlude](Interludes/Illyasviel von Einzbern.md)
+* [Interlude](Interludes/Illyasviel%20von%20Einzbern.md)
 
 **Gilgamesh - Caster**
 
-* [Interlude](Interludes/Gilgamesh - Caster.md)
+* [Interlude](Interludes/Gilgamesh%20-%20Caster.md)
 
 **Scheherazade**
 
@@ -479,11 +479,11 @@
 
 **Queen of Sheba**
 
-* [Interlude](Interludes/Queen of Sheba.md)
+* [Interlude](Interludes/Queen%20of%20Sheba.md)
 
 **Anastasia Nikolaevna Romanova**
 
-* [Interlude](Interludes/Anastasia Nikolaevna Romanova.md)
+* [Interlude](Interludes/Anastasia%20Nikolaevna%20Romanova.md)
 
 
 
@@ -495,11 +495,11 @@
 
 **Sasaki Kojirou**
 
-* [Interlude](Interludes/Sasaki Kojirou.md)
+* [Interlude](Interludes/Sasaki%20Kojirou.md)
 
 **Hassan of the Cursed Arm**
 
-* [Interlude](Interludes/Hassan of the Cursed Arm.md)
+* [Interlude](Interludes/Hassan%20of%20the%20Cursed%20Arm.md)
 
 **Stheno**
 
@@ -507,19 +507,19 @@
 
 **Jing Ke**
 
-* [Interlude](Interludes/Jing Ke.md)
+* [Interlude](Interludes/Jing%20Ke.md)
 
 **Charles-Henri Sanson**
 
-* [Interlude](Interludes/Charles-Henri Sanson.md)
+* [Interlude](Interludes/Charles-Henri%20Sanson.md)
 
 **Phantom of the Opera**
 
-* [Interlude](Interludes/Phantom of the Opera.md)
+* [Interlude](Interludes/Phantom%20of%20the%20Opera.md)
 
 **Mata Hari**
 
-* [Interlude](Interludes/Mata Hari.md)
+* [Interlude](Interludes/Mata%20Hari.md)
 
 **Carmilla**
 
@@ -527,35 +527,35 @@
 
 **Jack the Ripper**
 
-* [Interlude](Interludes/Jack the Ripper.md)
+* [Interlude](Interludes/Jack%20the%20Ripper.md)
 
 **Henry Jekyll & Hyde**
 
-* [Interlude](Interludes/Henry Jekyll & Hyde.md)
+* [Interlude](Interludes/Henry%20Jekyll%20&%20Hyde.md)
 
 **Mysterious Heroine X**
 
-* [Interlude](Interludes/Mysterious Heroine X.md)
+* [Interlude](Interludes/Mysterious%20Heroine%20X.md)
 
 **EMIYA - Kiritsugu**
 
-* [Interlude](Interludes/EMIYA - Kiritsugu.md)
+* [Interlude](Interludes/EMIYA%20-%20Kiritsugu.md)
 
 **Hassan of the Hundred Personas**
 
-* [Interlude](Interludes/Hassan of the Hundred Personas.md)
+* [Interlude](Interludes/Hassan%20of%20the%20Hundred%20Personas.md)
 
 **Fuuma Kotarou**
 
-* [Interlude](Interludes/Fuuma Kotarou.md)
+* [Interlude](Interludes/Fuuma%20Kotarou.md)
 
 **Shuten Douji**
 
-* [Interlude](Interludes/Shuten Douji.md)
+* [Interlude](Interludes/Shuten%20Douji.md)
 
 **Hassan of the Serenity**
 
-* [Interlude](Interludes/Hassan of the Serenity.md)
+* [Interlude](Interludes/Hassan%20of%20the%20Serenity.md)
 
 **Cleopatra**
 
@@ -563,19 +563,19 @@
 
 **Yan Qing**
 
-* [Interlude](Interludes/Yan Qing.md)
+* [Interlude](Interludes/Yan%20Qing.md)
 
 **Wu Zetian**
 
-* [Interlude](Interludes/Wu Zetian.md)
+* [Interlude](Interludes/Wu%20Zetian.md)
 
 **Mochizuki Chiyome**
 
-* [Interlude](Interludes/Mochizuki Chiyome.md)
+* [Interlude](Interludes/Mochizuki%20Chiyome.md)
 
 **Kato Danzou**
 
-* [Interlude](Interludes/Kato Danzou.md)
+* [Interlude](Interludes/Kato%20Danzou.md)
 
 **Osakabehime**
 
@@ -587,11 +587,11 @@
 
 **Yu Mei-ren**
 
-* [Interlude](Interludes/Yu Mei-ren.md)
+* [Interlude](Interludes/Yu%20Mei-ren.md)
 
 **Li Shuwen - Old**
 
-* [Interlude](Interludes/Li Shuwen - Old.md)
+* [Interlude](Interludes/Li%20Shuwen%20-%20Old.md)
 
 **Kama**
 
@@ -605,11 +605,11 @@
 
 **Lancelot - Berserker**
 
-* [Interlude](Interludes/Lancelot - Berserker.md)
+* [Interlude](Interludes/Lancelot%20-%20Berserker.md)
 
 **Lu Bu Fengxian**
 
-* [Interlude](Interludes/Lu Bu Fengxian.md)
+* [Interlude](Interludes/Lu%20Bu%20Fengxian.md)
 
 **Spartacus**
 
@@ -617,11 +617,11 @@
 
 **Sakata Kintoki**
 
-* [Interlude](Interludes/Sakata Kintoki.md)
+* [Interlude](Interludes/Sakata%20Kintoki.md)
 
 **Vlad III - Apocrypha**
 
-* [Interlude](Interludes/Vlad III - Apocrypha.md)
+* [Interlude](Interludes/Vlad%20III%20-%20Apocrypha.md)
 
 **Asterios**
 
@@ -633,7 +633,7 @@
 
 **Darius III**
 
-* [Interlude](Interludes/Darius III.md)
+* [Interlude](Interludes/Darius%20III.md)
 
 **Kiyohime**
 
@@ -641,11 +641,11 @@
 
 **Eric Bloodaxe**
 
-* [Interlude](Interludes/Eric Bloodaxe.md)
+* [Interlude](Interludes/Eric%20Bloodaxe.md)
 
 **Tamamo Cat**
 
-* [Interlude](Interludes/Tamamo Cat.md)
+* [Interlude](Interludes/Tamamo%20Cat.md)
 
 **Frankenstein**
 
@@ -657,15 +657,15 @@
 
 **Florence Nightingale**
 
-* [Interlude](Interludes/Florence Nightingale.md)
+* [Interlude](Interludes/Florence%20Nightingale.md)
 
 **Cú Chulainn - Alter**
 
-* [Interlude](Interludes/Cú Chulainn - Alter.md)
+* [Interlude](Interludes/Cú%20Chulainn%20-%20Alter.md)
 
 **Ibaraki Douji**
 
-* [Interlude](Interludes/Ibaraki Douji.md)
+* [Interlude](Interludes/Ibaraki%20Douji.md)
 
 **Minamoto-no-Raikou**
 
@@ -673,11 +673,11 @@
 
 **Mysterious Heroine X Alter**
 
-* [Interlude](Interludes/Mysterious Heroine X Alter.md)
+* [Interlude](Interludes/Mysterious%20Heroine%20X%20Alter.md)
 
 **Hijikata Toshizo**
 
-* [Interlude](Interludes/Hijikata Toshizo.md)
+* [Interlude](Interludes/Hijikata%20Toshizo.md)
 
 **Penthesilea**
 
@@ -695,19 +695,19 @@
 
 **Jeanne d'Arc**
 
-* [Interlude](Interludes/Jeanne d'Arc.md)
+* [Interlude](Interludes/Jeanne%20d'Arc.md)
 
 **Amakusa Shirou**
 
-* [Interlude](Interludes/Amakusa Shirou.md)
+* [Interlude](Interludes/Amakusa%20Shirou.md)
 
 **Sherlock Holmes**
 
-* [Interlude](Interludes/Sherlock Holmes.md)
+* [Interlude](Interludes/Sherlock%20Holmes.md)
 
 **Qin Shi Huang**
 
-* [Interlude](Interludes/Qin Shi Huang.md)
+* [Interlude](Interludes/Qin%20Shi%20Huang.md)
 
 **Astraea**
 
@@ -717,15 +717,15 @@
 
 **Edmond Dantès**
 
-* [Interlude](Interludes/Edmond Dantès.md)
+* [Interlude](Interludes/Edmond%20Dantès.md)
 
 **Jeanne d'Arc - Alter**
 
-* [Interlude](Interludes/Jeanne d'Arc - Alter.md)
+* [Interlude](Interludes/Jeanne%20d'Arc%20-%20Alter.md)
 
 **Aŋra Mainiiu**
 
-* [Interlude](Interludes/Aŋra Mainiiu.md)
+* [Interlude](Interludes/Aŋra%20Mainiiu.md)
 
 **Gorgon**
 
@@ -733,7 +733,7 @@
 
 **Hessian Lobo**
 
-* [Interlude](Interludes/Hessian Lobo.md)
+* [Interlude](Interludes/Hessian%20Lobo.md)
 
 ## Alter Ego
 
@@ -745,5 +745,5 @@
 
 **Abigail Williams**
 
-* [Interlude](Interludes/Abigail Williams.md)
+* [Interlude](Interludes/Abigail%20Williams.md)
 
