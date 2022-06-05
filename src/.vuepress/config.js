@@ -1,5 +1,4 @@
 const { defaultTheme } = require("vuepress");
-const { vueGtag } = require("vue-gtag");
 // const { seoPlugin } = require("vuepress-plugin-seo2");
 // const { sitemapPlugin } = require("vuepress-plugin-sitemap2");
 
@@ -124,8 +123,7 @@ module.exports = {
         //     changefreq: "monthly",
         // }),
         [
-            vueGtag({
-				id: "G-19VNBHS02E",
+            ['@vuepress/plugin-google-analytics', { ga: 'G-19VNBHS02E' }],
         ]
 		
     ],
