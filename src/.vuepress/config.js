@@ -122,5 +122,11 @@ module.exports = {
         //     hostname: "https://squaresmile.github.io/rgo-wiki",
         //     changefreq: "monthly",
         // }),
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': 'G-19VNBHS02E'
+            }
+        ]
     ],
 };
