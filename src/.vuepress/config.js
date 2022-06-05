@@ -14,6 +14,7 @@ module.exports = {
             "meta",
             { name: "apple-mobile-web-app-status-bar-style", content: "black" },
         ],
+        ["meta", { property: 'og:image', href: 'https://i.imgur.com/ZsRygrA.png' }]
     ],
     theme: defaultTheme({
         smoothScroll: true,
@@ -121,5 +122,11 @@ module.exports = {
         //     hostname: "https://squaresmile.github.io/rgo-wiki",
         //     changefreq: "monthly",
         // }),
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': 'G-19VNBHS02E'
+            }
+        ]
     ],
 };

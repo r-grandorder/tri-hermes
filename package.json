@@ -7,13 +7,14 @@
     "name": "Lib",
     "email": "Lib@rgo.com"
   },
-  "repository": "https://github.com/squaresmile/rgo-wiki/rgo-wiki",
+  "repository": "https://github.com/r-grandorder/wiki",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.9.7",
     "typescript": "^4.7.3",
     "vuepress": "^2.0.0-beta.46",
     "vuepress-plugin-seo2": "^2.0.0-beta.24",
