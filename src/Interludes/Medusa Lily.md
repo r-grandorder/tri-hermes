@@ -1,6 +1,6 @@
 # Medusa Lily
 
-<h2>The Three Friendly Gorgon Sisters</h2>
+## The Three Friendly Gorgon Sisters
 
 **Mash:**
 Oh? Isn't that...?

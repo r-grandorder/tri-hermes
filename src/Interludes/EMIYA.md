@@ -1,6 +1,6 @@
 # EMIYA
 
-<h2>To be a Master</h2>
+## To be a Master
 
 **Emiya:**
 What a disaster...
@@ -515,7 +515,7 @@ For one thing, it would damage my reputation to leave an inexperienced young [â™
 A true Servant helps their Master grow, and thus enhances their own reputation.
 
 
-<h2>Unlimited Blade Works</h2>
+## Unlimited Blade Works
 
 **Mash:**
 We've arrived at the Massive Cavern in Fuyuki.

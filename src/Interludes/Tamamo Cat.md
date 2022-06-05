@@ -1,6 +1,6 @@
 # Tamamo Cat
 
-<h2>Overflowing Wildness</h2>
+## Overflowing Wildness
 
 **Tamamo Cat:**
 Master, let's go hunting!
@@ -482,7 +482,7 @@ it's my way of repaying you for what you do every day.
 This is getting embarrassing, so I'm going to close with that. &mdash;Now then, I think I'll have a carrot for my reward!
 
 
-<h2>The Ring of Carnage</h2>
+## The Ring of Carnage
 
 **Tamamo Cat:**
 Be patient, I have a long story to tell. That Tamamo-no-Mae is one horrible Servant.

@@ -1,6 +1,6 @@
 # Penthesilea
 
-<h2>The Phantom of Troia</h2>
+## The Phantom of Troia
 
 　　　　　　　　　– Chaldea Depths –
 

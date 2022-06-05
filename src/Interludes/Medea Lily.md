@@ -1,6 +1,6 @@
 # Medea Lily
 
-<h2>Close Friend of a Witch</h2>
+## Close Friend of a Witch
 
 **Medea Lily:**
 Let me introduce myself once again, Master. I'm Medea, and my class is Caster.
@@ -524,7 +524,7 @@ Yes, I am.
 Because I'm a friendly witch♡
 
 
-<h2>Pancakes of Happiness</h2>
+## Pancakes of Happiness
 
 **Medea Lily:**
 Well, it should be around here...

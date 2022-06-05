@@ -1,6 +1,6 @@
 # Georgios
 
-<h2>St. George</h2>
+## St. George
 
 **Mash:**
 Teacher, I have a question.

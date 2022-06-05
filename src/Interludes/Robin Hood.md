@@ -1,6 +1,6 @@
 # Robin Hood
 
-<h2>Hunter of the Forest</h2>
+## Hunter of the Forest
 
 **Mash:**
 Oh? Robin's buying things from that shop.

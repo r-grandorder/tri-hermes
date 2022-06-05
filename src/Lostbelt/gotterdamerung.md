@@ -2279,11 +2279,7 @@ Master, get behind me!
 We've just discovered an enormous...humanoid creature...! 
  
 **Enormous Creature:**
-<<<<<<< HEAD
-![berserk1](https://i.imgur.com/XAqlQYL.png) 
-=======
 ![1-light](https://i.imgur.com/XAqlQYL.png) 
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **Holmes:**
 An enormous humanoid creature, you say!? I see. That is...troubling. Most troubling indeed. 
@@ -2295,11 +2291,7 @@ He appears to be about five meters tall! His arms are also very long, and he's w
 I think he's speaking a language of some kind, but...
  
 **Enormous Creature:**
-<<<<<<< HEAD
-![berserk2](https://i.imgur.com/7VYgcEB.png) 
-=======
 ![2-light](https://i.imgur.com/7VYgcEB.png) 
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **Mash:**
 ...I can't make out what he's saying! It sounds more like an animal howling than any language I know of...
@@ -13503,11 +13495,7 @@ Whoever invited you to this dream would seem to be a truly fascinating individua
  
 **Gigantic Guard:**
  
-<<<<<<< HEAD
-![berserk2](https://i.imgur.com/7VYgcEB.png) 
-=======
 ![2-light](https://i.imgur.com/7VYgcEB.png) 
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 ---
 
@@ -13534,11 +13522,7 @@ Continue onward. Defeat it. See how far your power can take you...
  
 **Gigantic Guard:**
  
-<<<<<<< HEAD
-![berserk2](https://i.imgur.com/7VYgcEB.png) 
-=======
 ![2-light](https://i.imgur.com/7VYgcEB.png) 
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **Sitonai:**
 “Good work, Berserker. ”
@@ -13559,11 +13543,7 @@ Continue onward. Defeat it. See how far your power can take you...
 “Please let [♂ him /♀ her] pass. ”
  
 **Gigantic Guard:**
-<<<<<<< HEAD
-![berserk1](https://i.imgur.com/XAqlQYL.png)...
-=======
 ![1-light](https://i.imgur.com/XAqlQYL.png)...
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 ---
 
@@ -23743,11 +23723,7 @@ I know I can stay my old, reticent self,never setting one foot forward.
 ...At Muspelheim, in what used to be northern Sweden in the Scandinavian Peninsula...
  
 **Surtr:**
-<<<<<<< HEAD
-“There. I have connected myself to the Tree of Emptiness ![berserk1](https://i.imgur.com/XAqlQYL.png). ”
-=======
 “There. I have connected myself to the Tree of Emptiness ![1-light](https://i.imgur.com/XAqlQYL.png). ”
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **Surtr:**
 “Hehe. ”
@@ -23873,11 +23849,7 @@ You preyed upon it.
 “...what it did possess was the same heat that lies in all life. ”
  
 **Surtr:**
-<<<<<<< HEAD
-“Yes, there was a fire deep in the heart of the Tree of Emptiness ![berserk1](https://i.imgur.com/XAqlQYL.png) as well. ”
-=======
 “Yes, there was a fire deep in the heart of the Tree of Emptiness ![1-light](https://i.imgur.com/XAqlQYL.png) as well. ”
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **Ophelia:**
 Deep in the heart...
@@ -24367,21 +24339,13 @@ It's beautiful...
 “Loptr Lægjarn. ”
  
 **Giant Guard:**
-<<<<<<< HEAD
-![berserk2](https://i.imgur.com/7VYgcEB.png) 
-=======
 ![2-light](https://i.imgur.com/7VYgcEB.png) 
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **Sitonai:**
 Berserker! That's it! Take it all on, magical energy and all! 
  
 **Giant Guard:**
-<<<<<<< HEAD
-![berserk2](https://i.imgur.com/7VYgcEB.png) 
-=======
 ![2-light](https://i.imgur.com/7VYgcEB.png) 
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **Sitonai:**
 Thanks, Berserker! 

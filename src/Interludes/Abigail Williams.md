@@ -1,6 +1,6 @@
 # Abigail Williams
 
-<h2>A Dream of a Thousand Stars and One Hundred Nights</h2>
+## A Dream of a Thousand Stars and One Hundred Nights
 
 **Narration:**
 “It was an unassuming memory from a certain wintry night.”

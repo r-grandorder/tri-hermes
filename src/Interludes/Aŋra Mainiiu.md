@@ -1,6 +1,6 @@
 # Aŋra Mainiiu
 
-<h2>Unlimited Raise/Dead</h2>
+## Unlimited Raise/Dead
 
 **Dr. Roman:**
 Hey there, Fujimaru.

@@ -19,7 +19,7 @@ The conditions are already cleared.
 I'll shut down my consciousness and transfer full jurisdiction to *me*. 
 Goodbye.
 
-\[Static noise\]
+[Static noise]
 
 I'm floating. I've been floating here for the longest time. Kinda lonely... So I call.
 
@@ -32,7 +32,7 @@ Note: Scene Change
 **Mash:** 
 Senpai, senpai.
 
-\[Fujimaru wakes up in a hallway\]
+[Fujimaru wakes up in a hallway]
 
 **Mash:** 
 What happened? You were spacing out in the middle of the hallway. 
@@ -137,7 +137,7 @@ Can't make da Vinci change her mind.
 **Mash:** 
 Sion is planning to pull an all-nighter, apparently to check the Trismegistus II's entropy. You should go to sleep early, if you plan to sleep today.
 
-\[Mash walks away\]
+[Mash walks away]
 
 **Fujimaru 1:** 
 By the way, whose glare is this?
@@ -157,7 +157,7 @@ We were just talking about.
 
 ---
 
-\[Abbigail is on the corner of the screen\]
+[Abbigail is on the corner of the screen]
 
 **Abigail:** 
 (staring)
@@ -232,7 +232,7 @@ It's all fine. Nothin' matches the taste of a kiddie's art. Besides, collaborati
 **Abigail:** 
 Sounds great! Can I? Do I have your permission, Master? A treasure ship... Master, I'd love to give you a good luck charm!
 
-\[Abbigail walks away\]
+[Abbigail walks away]
 
 **Hokusai:** 
 Sorry for askin' this favor in this schedule, but ye think you can spend some time with us and still wake up in time for yer briefin'?
@@ -264,7 +264,7 @@ I wanna see them!
 
 ---
 
-\[The scene cuts to Fujimaru running all the way to the dock\]
+[The scene cuts to Fujimaru running all the way to the dock]
 
 ---
 
@@ -297,7 +297,7 @@ Sir, yes, sir!
 
 ---
 
-\[Holmes applauds\]
+[Holmes applauds]
 
 **Holmes:** 
 What an honor it is to witness such a magnificent briefing. I like especially how brief it was. If it were a single word longer, I'd have to intrude to say "Excuse me sir, but your magnificent words of encouragement are delaying the operation". What a shame I didn't get my opportunity today.
@@ -344,7 +344,7 @@ Yeah. You don't need to see all the maths inside a calculator to trust the anwer
 **Da Vinci:** 
 Yup, the main problem was that we had to limit ourselves to 3 members, and it's was really hard to take out any of the other 3. In any case, let's get ready for our next operation. It's up to you to consider it a breather, or research, or whatever you feel like this is.
 
-\[Everyone nods. Scene cuts to Fujimaru inside the Nautilus\]
+[Everyone nods. Scene cuts to Fujimaru inside the Nautilus]
 
 **Nemo:** 
 And that's all I had to say. Our small talk time is over. Prepare to set off.
@@ -428,7 +428,7 @@ She tried so hard.
 This shall be no obstacle to *carrying out* thy orders. My bellwether, and captain, I recommend setting off posthaste.
 
 **Nemo:** 
-Excellent answer. We will. \[The engines start revving\] Assault Landing Submarine "Nautilus" speaking. Sion from dock, report the results of the final pressure hull check. Over.
+Excellent answer. We will. [The engines start revving] Assault Landing Submarine "Nautilus" speaking. Sion from dock, report the results of the final pressure hull check. Over.
 
 **Sion:** 
 Sion from Novum Chaldea speaking. There's not a single scratch on the hull, of course. How are you feeling, Captain? When I summoned you I promise **I'd do everything to provide you with the ship you deserve**. Did I fulfill my promise?
@@ -454,4 +454,4 @@ I'll do my best.
 **Nemo:** 
 Vents unlocked! Starting cruise at regular speed!
 
-\[The Nautilus dives\]
+[The Nautilus dives]

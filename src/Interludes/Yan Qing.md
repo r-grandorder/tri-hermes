@@ -1,6 +1,6 @@
 # Yan Qing
 
-<h2>A Certain Chivalrous Man's Death</h2>
+## A Certain Chivalrous Man's Death
 
 **Narration:**
 ...It crosses everyone's mind at one point or another.

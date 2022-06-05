@@ -1,6 +1,6 @@
 # Stheno
 
-<h2>It's Not Impossible?</h2>
+## It's Not Impossible?
 
 **Mash:**
 ...Treasure hunting?
@@ -562,7 +562,7 @@ Well...
 Foou...
 
 
-<h2>Really, It's Not Impossible?</h2>
+## Really, It's Not Impossible?
 
 **Mash:**
 Hunt the wretches? ...Erm.

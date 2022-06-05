@@ -1,6 +1,6 @@
 ## Hektor
 
-<h2>Trojan Guardian</h2>
+## Trojan Guardian
 
 **Mash:**
 Master, Hektor would like to ask something.

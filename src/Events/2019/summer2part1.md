@@ -1135,7 +1135,7 @@ As we are both Sabers, a duel is our only option.
 Let us do battle to see which of us shall be the driver!
 
  
-## Team Formation: Helena's Summer Vacation <Part 1>
+## Team Formation: Helena's Summer Vacation &lt;Part 1&gt;
  
 **A：Lion:**
 Summer...

@@ -1,6 +1,6 @@
 # Romulus 
 
-<h2>Guardian of Septem is Here</h2>
+## Guardian of Septem is Here
 
 **Nero:**
 Umu!

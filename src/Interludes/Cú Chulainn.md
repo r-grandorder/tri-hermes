@@ -1,6 +1,6 @@
 # Cú Chulainn
 
-<h2>The Taboo</h2>
+## The Taboo
 
 **Mash:**
 A demonic boar...in the forest?

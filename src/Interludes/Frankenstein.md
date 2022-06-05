@@ -1,6 +1,6 @@
 # Frankenstein
 
-<h2>The Events of a Lonely Night in November I</h2>
+## The Events of a Lonely Night in November I
 
 **Fran:**
 ...
@@ -644,7 +644,7 @@ We have to get stronger, too...
 ...Uuuhh. (Nod Nod)
 
 
-<h2>The Events of a Lonely Night in November II</h2>
+## The Events of a Lonely Night in November II
 
 **Fran:**
 ...Uh.

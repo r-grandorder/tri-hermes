@@ -1,6 +1,6 @@
 # Brynhild
 
-<h2>Yet I Want to Remain a Flame</h2>
+## Yet I Want to Remain a Flame
 
 **Narration:**
 Memories...
@@ -811,7 +811,7 @@ From ME!
 
  
 **Severed Flame:**
-<span style=font-size:25px>None can escape my burning love!</span>
+<span style="font-size:25px">None can escape my burning love!</span>
 
  
 **Severed Flame:**
@@ -1025,7 +1025,7 @@ Today... Tomorrow... The next day... Forever...
 ...I must remain cold as ice.
 
 
-<h2>Dear Little Sister</h2>
+## Dear Little Sister
 
 **Arash:**
 All right! We won!
@@ -1905,7 +1905,7 @@ That's why I asked for a leave of ab&ndash;
 
  
 **Altera Santa:**
-<span style=font-size:25px>Denied!</span>
+<span style="font-size:25px">Denied!</span>
 
  
 **Brynhild:**
@@ -1931,7 +1931,7 @@ Or, more accurately...
 
  
 **Altera Santa:**
-<span style=font-size:25px>...I'm going to punch you.</span>
+<span style="font-size:25px">...I'm going to punch you.</span>
 
  
 

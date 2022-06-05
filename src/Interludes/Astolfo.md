@@ -1,6 +1,6 @@
 # Astolfo
 
-<h2>While Waiting for Roland</h2>
+## While Waiting for Roland
 
 **Astolfo:**
 Yahoo! Master!

@@ -1,6 +1,6 @@
 # Nitocris
 
-<h2>Pharaoh Nitocris</h2>
+## Pharaoh Nitocris
 
 **Mash:**
 Hmm? What's that...?

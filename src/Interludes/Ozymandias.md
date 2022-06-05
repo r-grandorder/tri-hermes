@@ -1,6 +1,6 @@
 # Ozymandias 
 
-<h2>Pharaoh's Shining Glory</h2>
+## Pharaoh's Shining Glory
 
 **Ozymandias:**
 Now then.
@@ -967,7 +967,7 @@ Yes, Your Majesty!
 Come, Fujimaru. You shall accompany us too! You will be rewarded with our blessing!
 
 
-<h2>The Name of the Sun That Never Sets</h2>
+## The Name of the Sun That Never Sets
 
 **Nitocris:**
 ...Please...
@@ -1469,7 +1469,7 @@ I, uh...I'm the one who's been keeping them apart.
 
  
 **Nitocris:**
-<span style=font-size:25px>What!?</span>
+<span style="font-size:25px">What!?</span>
 
  
 **Nitocris:**
@@ -1924,7 +1924,7 @@ At any rate, I'm pretty confident about this next place we're headed. After all.
 
  
 **Nitocris:**
-<span style=font-size:25px>Accident!?</span>
+<span style="font-size:25px">Accident!?</span>
 
  
 **Nitocris:**
@@ -2302,7 +2302,7 @@ but I kinda changed my mind! Then I covered it up!
 
  
 **Ozymandias:**
-<span style=font-size:25px>You are forgiven!</span>
+<span style="font-size:25px">You are forgiven!</span>
 
  
 **Ozymandias:**
@@ -2396,11 +2396,11 @@ How dare you appear before me looking like that?
 
  
 **Ozymandias:**
-<span style=font-size:25px>...How dare you!?</span>
+<span style="font-size:25px">...How dare you!?</span>
 
  
 **Ozymandias:**
-<span style=font-size:25px>Did you not save the world!?</span>
+<span style="font-size:25px">Did you not save the world!?</span>
 
  
 **F：Ozymandias:**
@@ -2431,7 +2431,7 @@ The simulator is starting to fail!
 
  
 **F：Ozymandias:**
-<span style=font-size:25px>Silence!</span>
+<span style="font-size:25px">Silence!</span>
 
  
 **Nitocris:**
@@ -2532,7 +2532,7 @@ Then all is as it should be! At times, my fury is roaring thunder, at others, th
 
  
 **F：Ozymandias:**
-<span style=font-size:25px>Now face my wrath!</span>
+<span style="font-size:25px">Now face my wrath!</span>
 
 
 **--BATTLE--:**
@@ -2547,7 +2547,7 @@ Good. Good! Excellent!!!
 
  
 **E：Ozymandias:**
-<span style=font-size:25px>Well done!</span>
+<span style="font-size:25px">Well done!</span>
 
  
 **E：Ozymandias:**
@@ -2653,7 +2653,7 @@ Yes, great Pharaoh!
 
  
 **Ozymandias:**
-<span style=font-size:25px>Now, to the next battle!</span>
+<span style="font-size:25px">Now, to the next battle!</span>
 
  
 **Nitocris:**

@@ -1,6 +1,6 @@
 # Queen Medb
 
-<h2>Queen's Discipline</h2>
+## Queen's Discipline
 
 **Medb:**
 Whooo! This place is great!
@@ -715,7 +715,7 @@ Fou, fou.
 
 ---
 
-<h2>My Lovely...</h2>
+## My Lovely...
 
 **Medb:**
 Are you here, Master?

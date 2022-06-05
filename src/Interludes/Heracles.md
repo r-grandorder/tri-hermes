@@ -1,6 +1,6 @@
 # Heracles
 
-<h2>Oath of Hercules</h2>
+## Oath of Hercules
 
 **Mash:**
 Master! This is bad!
@@ -298,7 +298,7 @@ Yes, for sure...!
 ...
 
 
-<h2>The 13th Labor</h2>
+## The 13th Labor
 
 **Mash:**
 I'm sorry, Master.

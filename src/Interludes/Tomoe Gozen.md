@@ -1,6 +1,6 @@
 # Tomoe Gozen
  
-<h2>My Heart Shall Never Forget That Rising Sun</h2>
+## My Heart Shall Never Forget That Rising Sun
  
 **Mash:**
 Okay, that's all for today's simulator training.

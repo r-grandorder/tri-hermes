@@ -1,6 +1,6 @@
 # Henry Jekyll & Hyde
 
-<h2>Dr. Jekyll and Mr. Hyde</h2>
+## Dr. Jekyll and Mr. Hyde
 
 **Jekyll:**
 ...I'm feeling pretty good.

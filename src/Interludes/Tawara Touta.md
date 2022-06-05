@@ -1,6 +1,6 @@
 # Tawara Touta
 
-<h2>Slaying the Great Centipede</h2>
+## Slaying the Great Centipede
 
 **Mash:**
 Battle complete, Master.

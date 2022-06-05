@@ -1,6 +1,6 @@
 # Billy the Kid
 
-<h2>Seven Knights of the Wasteland</h2>
+## Seven Knights of the Wasteland
 
 **Billy:**
 This is a hypothetical question.

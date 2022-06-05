@@ -1,6 +1,6 @@
 # Jack the Ripper
 
-<h2>Jack Kills Jack</h2>
+## Jack Kills Jack
 
 **Jack:**
 Hey, hey, hey,
@@ -396,7 +396,7 @@ Master, let's go back "home."
 I want to eat a hamburg steak when we get back.
 
 
-<h2>Dozing Träumerei</h2>
+## Dozing Träumerei
 
 **Narration:**
 An age of prosperity is upon us.

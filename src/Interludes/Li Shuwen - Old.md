@@ -1,6 +1,6 @@
 # Li Shuwen - Old
 
-<h2>Perseverance Will Prevail</h2>
+## Perseverance Will Prevail
 
 **Narration:**
 It is inherently difficult for humans to prevail against evil. The notion that they could defeat a god is similarly dubious.

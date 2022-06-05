@@ -1,6 +1,6 @@
 # Charles-Henri Sanson
 
-<h2>Guillotine Boy</h2>
+## Guillotine Boy
 
 **Sanson:**
 ...

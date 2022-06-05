@@ -1,6 +1,6 @@
 # Francis Drake
 
-<h2>Treasure Island</h2>
+## Treasure Island
 
 **Drake:**
 Hey, you're here Captain&mdash;
@@ -396,7 +396,7 @@ Let's just enjoy what the Captain got for us this time.
 Right. Let's go to a bar and hear Captain Drake sing.
 
 
-<h2>Pioneer of the Stars</h2>
+## Pioneer of the Stars
 
 **Mash:**
 And that's why we're off on another voyage! There's nothing quite like the feel of the wind on the open sea, is there, Senpai!?

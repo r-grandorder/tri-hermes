@@ -1,6 +1,6 @@
 # Jaguar Warrior
 
-<h2>Night Rounds! Miss Jaguarmura!</h2>
+## Night Rounds! Miss Jaguarmura!
 
 **Mash:**
 Here you go, Senpai, Ishtar.

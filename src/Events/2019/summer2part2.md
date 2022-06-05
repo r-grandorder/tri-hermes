@@ -8346,7 +8346,7 @@ This shall be the ultimate end to our race!
 There is but one Holy Grail, and there can only be one winner. Whoever emerges victorious from this battle shall be the true king of summer!
 
  
-## Aftermath: Helena's Summer Vacation <Part 2>
+## Aftermath: Helena's Summer Vacation &lt;Part 2&gt;
  
 **Helena:**
 We won!

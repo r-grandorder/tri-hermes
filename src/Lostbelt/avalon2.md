@@ -3144,11 +3144,7 @@ and are forced to obey Knocknarea until they die! (※Gareth's supposition)
  
 **Chocolate Field Mors:**
 
-<<<<<<< HEAD
-![berserk1](https://i.imgur.com/XAqlQYL.png) 
-=======
 ![1-light](https://i.imgur.com/XAqlQYL.png) 
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 **Senji Muramasa:**
 ...Well. (casually wiping his mouth with his finger) Mors from the field...!? 
@@ -7075,27 +7071,27 @@ But it wasn't scary or lonely.
  
 **Welsh Fairies:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>A fairy we've never seen before?</rt></ruby> 
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>A fairy we've never seen before?</rt></ruby> 
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>He's all alone, how sad.  Are you sad?</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>He's all alone, how sad.  Are you sad?</rt></ruby>
  
 **Welsh Fairies:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>But he looks so pretty and kind!</rt></ruby> 
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>But he looks so pretty and kind!</rt></ruby> 
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Like a prince!  Like a prince!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Like a prince!  Like a prince!</rt></ruby>
  
 **Welsh Fairies:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>He's definitely our king!</rt></ruby> 
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>He's definitely our king!</rt></ruby> 
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Our king has come!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Our king has come!</rt></ruby>
  
 **Welsh Fairies:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Protect, protect, protect the king!</rt></ruby> 
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Protect, protect, protect the king!</rt></ruby> 
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>All of us together, help the king!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>All of us together, help the king!</rt></ruby>
  
 **Oberon:**
 They couldn't touch me, but they formed a tight circle around me,
@@ -7899,27 +7895,27 @@ You scum who named the Fairy King...! Repent for your sins!
  
 **Welsh Fairy:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>It hurts.  It hurts.  It hurts.</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>It hurts.  It hurts.  It hurts.</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Stop it.  Stop it.</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Stop it.  Stop it.</rt></ruby>
  
 **Welsh Fairy:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Don't burn the forest.</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Don't burn the forest.</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Don't break Oberon's house.</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Don't break Oberon's house.</rt></ruby>
  
 **Welsh Fairy:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Don't be mean to everyone.</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Don't be mean to everyone.</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Don't be mean to us.</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Don't be mean to us.</rt></ruby>
  
 **Welsh Fairy:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>It hurts.  It hurts.  It hurts.</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>It hurts.  It hurts.  It hurts.</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> We'll die.  We'll die.  We'll die</rt></ruby>&mdash;
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt> We'll die.  We'll die.  We'll die</rt></ruby>&mdash;
  
 ---
 
@@ -25175,11 +25171,7 @@ Be gentle! Kill it softly! That way it'll still taste goooood!
  
 **That Which Should Never Have Been Made:**
 
-<<<<<<< HEAD
-![berserk1](https://i.imgur.com/XAqlQYL.png)
-=======
 ![1-light](https://i.imgur.com/XAqlQYL.png)
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 ---
 

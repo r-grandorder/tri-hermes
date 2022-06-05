@@ -1,6 +1,6 @@
 # EMIYA - Kiritsugu
 
-<h2>You, Like a Smiling Flower</h2>
+## You, Like a Smiling Flower
 
 **Narration:**
 It was just another job.

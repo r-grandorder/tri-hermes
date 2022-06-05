@@ -1,6 +1,6 @@
 # Spartacus
 
-<h2>Gladiator Circus</h2>
+## Gladiator Circus
 
 **Spartacus:**
 Master! Ye who's not an oppressor,

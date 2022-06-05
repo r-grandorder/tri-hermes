@@ -1,6 +1,6 @@
 # Helena Blavatsky
 
-<h2>The World that She Sees</h2>
+## The World that She Sees
 
 **Paracelsus:**
 From time to time...

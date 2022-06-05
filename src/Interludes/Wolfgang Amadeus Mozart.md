@@ -1,6 +1,6 @@
 # Wolfgang Amadeus Mozart
 
-<h2>Symphony of the Heroic Spirits</h2>
+## Symphony of the Heroic Spirits
 
 **Townsperson:**
 Get out if you can't pay!

@@ -1,6 +1,6 @@
 # Quetzalcoatl
 
-<h2>The Flaming Luchadora and the Three Deathmatches</h2>
+## The Flaming Luchadora and the Three Deathmatches
 
 **Mash:**
 Excuse me, Senpai!

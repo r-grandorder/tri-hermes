@@ -1,6 +1,6 @@
 # Lord El Melloi II - Zhuge Liang
 
-<h2>Heroic Spirit Possession</h2>
+## Heroic Spirit Possession
 
 **El-Melloi II:**
 Oh! Speaking of which, I haven't introduced myself.
@@ -441,7 +441,7 @@ Come home with Mr. El-Melloi II.
 I couldn't fight with you, but I can welcome you home with a warm cup of tea.
 
 
-<h2>Endless Sea</h2>
+## Endless Sea
 
 **El-Melloi II:**
 ...
@@ -710,7 +710,7 @@ He said that it was used, but I'm positive that he prepared it just for you.
 Let's fight and not give up! Let's meet our teacher's expectations!
 
 
-<h2>Truth of the Ascension</h2>
+## Truth of the Ascension
 
 **Fou:**
 Foou, Foou♪

@@ -1,6 +1,6 @@
 # Hijikata Toshizo
 
-<h2>About a Person</h2>
+## About a Person
 
 
 ---

@@ -1,6 +1,6 @@
 # Leonidas I
 
-<h2>Leonidas Boot Camp</h2>
+## Leonidas Boot Camp
 
 **Leonidas:**
 Master!

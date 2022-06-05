@@ -1,6 +1,6 @@
 # Valkyrie
  
-<h2>Die Walküre</h2>
+## Die Walküre
  
 **Thrúd:**
 I think you have to go with

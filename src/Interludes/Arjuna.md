@@ -1,6 +1,6 @@
 # Arjuna
 
-<h2>True Value of the Divine Bow</h2>
+## True Value of the Divine Bow
 
 **Mash:**
 Wow...
@@ -177,7 +177,7 @@ I think I was a little too enthusiastic...
 I am sorry.
 
 
-<h2>By Continuing to Question</h2>
+## By Continuing to Question
 
 **Arjuna:**
 ...There you are, Karna.

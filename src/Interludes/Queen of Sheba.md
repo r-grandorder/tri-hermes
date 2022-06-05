@@ -1,6 +1,6 @@
 # Queen of Sheba
 
-<h2>Harder Than Going Through the Eye of a Needle</h2>
+## Harder Than Going Through the Eye of a Needle
 
 **David:**
 Ooof. Oh hey, Fujimaru.

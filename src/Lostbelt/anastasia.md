@@ -4677,11 +4677,7 @@ Oh, and unfortunately for you, I won't be offering up any more hints♡ I've bee
 You'll just have to figure out whatever you don't yet know for yourselves. 
  
 **Koyanskaya:**
-<<<<<<< HEAD
-Such is the wish of our leader, ![berserk1](https://i.imgur.com/XAqlQYL.png), who has come from far, far away...and yet who still remains shrouded in shadow. 
-=======
 Such is the wish of our leader, ![1-light](https://i.imgur.com/XAqlQYL.png), who has come from far, far away...and yet who still remains shrouded in shadow. 
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
  
 ---
 

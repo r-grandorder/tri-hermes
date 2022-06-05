@@ -1,6 +1,6 @@
 # Nikola Tesla
 
-<h2>Lightning</h2>
+## Lightning
 
 **Nikola Tesla:**
 Originally&ndash;
@@ -315,7 +315,7 @@ A huge collection of magical energy, similar to a dragon!
 
  
 **???:**
-<span style=font-size:25px>GAAAAAH!</span>
+<span style="font-size:25px">GAAAAAH!</span>
 
  
 **Dr. Roman:**
@@ -416,7 +416,7 @@ N-No more demons, please!
 Foufou, Foou!
 
 
-<h2>Humanity's Mythology, Thunder and Lightning Descend</h2>
+## Humanity's Mythology, Thunder and Lightning Descend
 
 **Nikola Tesla:**
 The AC/DC Debate!

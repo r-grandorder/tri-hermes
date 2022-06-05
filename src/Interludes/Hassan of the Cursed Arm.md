@@ -1,6 +1,6 @@
 # Hassan of the Cursed Arm
 
-<h2>Old Man of the Mountain</h2>
+## Old Man of the Mountain
 
 **Mash:**
 A...kidnapper?

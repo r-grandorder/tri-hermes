@@ -1,6 +1,6 @@
 # Emiya Alter
 
-<h2>Lost Bullet</h2>
+## Lost Bullet
 
 **Narration:**
 There is too much that he cannot remember.

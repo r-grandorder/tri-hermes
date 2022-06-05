@@ -977,7 +977,7 @@ The battle begins. Red Saber orders the Archer group forward. The Restoration (B
 
 **Guda:**
 "Kriemhild? That's..."
-"Who?" <---
+"Who?" &lt;---
 
 **Kadoc:**
 "I'll tell you later. Hm? The other side isn't moving?"

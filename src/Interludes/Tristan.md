@@ -1,6 +1,6 @@
 # Tristan
 
-<h2>It Begins with Loss</h2>
+## It Begins with Loss
 
 **Narration:**
 These are the things I let go of...the things I lost.

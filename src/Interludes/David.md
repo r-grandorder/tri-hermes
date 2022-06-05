@@ -1,6 +1,6 @@
 # David
 
-<h2>David and Goliath</h2>
+## David and Goliath
 
 **Mash Narration:**
 When I reflect back, the question I asked just sort of slipped out...it was like a mistake.

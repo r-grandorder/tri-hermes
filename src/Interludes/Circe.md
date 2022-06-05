@@ -1,6 +1,6 @@
 # Circe
 
-<h2>Curse of the Argo</h2>
+## Curse of the Argo
 
 **Circe:**
 ...(Turns page)

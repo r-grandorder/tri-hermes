@@ -1,6 +1,6 @@
 # Shuten Douji
 
-<h2>Drunkenness, Madness, and Rage</h2>
+## Drunkenness, Madness, and Rage
 
 **Shuten-Douji:**
 Oh my. Perfect timing!

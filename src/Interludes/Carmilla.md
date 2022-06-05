@@ -1,6 +1,6 @@
 # Carmilla
 
-<h2>Alone, Again</h2>
+## Alone, Again
 
 **Carmilla:**
 ...Master, Master.

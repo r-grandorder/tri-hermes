@@ -1,6 +1,6 @@
 # Gilles de Rais - Caster
 
-<h2>Offering to the God</h2>
+## Offering to the God
 
 **Gilles:**
 Oh, what a wasteland! Scorched earth with no sign of human life, nor blade of grass left behind!

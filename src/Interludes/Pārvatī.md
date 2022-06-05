@@ -1,6 +1,6 @@
 # Pārvatī
 
-<h2>Those Watched Over by the God's Consort</h2>
+## Those Watched Over by the God's Consort
 
 **Pārvatī:**
 Oh, hello, Fujimaru.

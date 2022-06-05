@@ -1,6 +1,6 @@
 # Hessian Lobo
 
-<h2>Howl, Live, Grind, Perish</h2>
+## Howl, Live, Grind, Perish
 
 **Narration:**
 The line between man and beast is quite clear.

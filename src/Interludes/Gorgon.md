@@ -1,6 +1,6 @@
 # Gorgon
 
-<h2>You Are a Monster</h2>
+## You Are a Monster
 
 
 ---

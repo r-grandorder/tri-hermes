@@ -1,6 +1,6 @@
 # Edward Teach
 
-<h2>A Man's Battle</h2>
+## A Man's Battle
 
 **Blackbeard:**
 Big trouble, Mistah Fujimaru! Big trouble!

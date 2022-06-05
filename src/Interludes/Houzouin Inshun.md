@@ -1,6 +1,6 @@
 # Houzouin Inshun
 
-<h2>A Fight Against the Self (Literally)</h2>
+## A Fight Against the Self (Literally)
 
 **Inshun:**
 Hmm, hmm, hmm.

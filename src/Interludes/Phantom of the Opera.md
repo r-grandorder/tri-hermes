@@ -1,6 +1,6 @@
 # Phantom of the Opera
 
-<h2>Christine's Call</h2>
+## Christine's Call
 
 **Phantom:**
 Christine Oh, Christine, my love, my songstress&ndash;

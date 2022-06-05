@@ -1,6 +1,6 @@
 # Medusa
 
-<h2>Gorgon's Bride</h2>
+## Gorgon's Bride
 
 **Medusa:**
 (sigh...)

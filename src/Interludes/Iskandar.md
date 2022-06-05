@@ -1,6 +1,6 @@
 # Iskandar
 
-<h2>Conqueror of Life</h2>
+## Conqueror of Life
 
 **Iskandar:**
 Hrm... What is this wasteland?
@@ -328,7 +328,7 @@ No matter your predicament, first eat your fill! Sing! Rest! Then you can worry 
 Foooou... (Dumbfounded)
 
 
-<h2>The Unending Expedition</h2>
+## The Unending Expedition
 
 **Mash:**
 Let me reiterate! We need to retreat immediately! There's nothing we can gain from this battle!

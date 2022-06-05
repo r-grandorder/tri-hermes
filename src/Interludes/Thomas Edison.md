@@ -1,6 +1,6 @@
 # Thomas Edison
 
-<h2>Can I Do It?</h2>
+## Can I Do It?
 
 **Mash:**
 Senpai, have some tea.

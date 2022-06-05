@@ -1,6 +1,6 @@
 # Wu Zetian
 
-<h2>Empress VS</h2>
+## Empress VS
 
 **Wu Zetian:**
 THIS WILL NOT STAND!
@@ -1914,7 +1914,7 @@ If it looks like you're about to go down a dark path...
 Haha... Gate gate paragate parasamgate bodhisvaha...
 
 
-<h2>Empress +</h2>
+## Empress +
 
 **Women's Voices:**
 ...Hoho, when did the palace start allowing any old mongrel off the street inside?

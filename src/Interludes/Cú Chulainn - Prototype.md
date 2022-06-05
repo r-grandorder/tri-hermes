@@ -1,6 +1,6 @@
 # Cú Chulainn - Prototype
 
-<h2>To the Nameless Battlefield</h2>
+## To the Nameless Battlefield
 
 **Proto Cú:**
 &ndash;Hi.

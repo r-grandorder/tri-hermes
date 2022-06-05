@@ -1,6 +1,6 @@
 # Edmond Dantès
 
-<h2>Nightmare; or, the Call of Love and Hate</h2>
+## Nightmare; or, the Call of Love and Hate
 
 **Narration:**
 ...I can't see anything.

@@ -1,6 +1,6 @@
 # Lancelot - Berserker
 
-<h2>Knight of Owner</h2>
+## Knight of Owner
 
 **Mash:**
 Ahh...
@@ -304,7 +304,7 @@ So it seems.
 Fou!
 
 
-<h2>For Someone's Glory</h2>
+## For Someone's Glory
 
 **Mash:**
 Lancelot's...face?

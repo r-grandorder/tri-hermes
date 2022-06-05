@@ -1,6 +1,6 @@
 # Gilgamesh - Caster
 
-<h2>The King's Day Off</h2>
+## The King's Day Off
 
 **Mash:**
 So we have taken you through almost all of Chaldea... What do you think, King Gilgamesh?

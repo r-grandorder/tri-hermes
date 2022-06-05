@@ -1,6 +1,6 @@
 ---
 home: true
-footer: All scripts and images by TYPE-MOON&copy;
+footer: All scripts and images by TYPE-MOON ©
 ---
 
 # Menu

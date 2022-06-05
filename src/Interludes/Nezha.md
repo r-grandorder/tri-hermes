@@ -1,6 +1,6 @@
 # Nezha
 
-<h2>The Feudists</h2>
+## The Feudists
 
 **Mash:**
 Oh, Senpai.

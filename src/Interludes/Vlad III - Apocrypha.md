@@ -1,6 +1,6 @@
 # Vlad III - Apocrypha
 
-<h2>Legend of Dracula I</h2>
+## Legend of Dracula I
 
 **Vlad III:**
 History is a cloth woven from truth and dreams.
@@ -456,7 +456,7 @@ But at the very least, people's perception of Vlad III might change&ndash; That 
 All we can do now is hope and watch.
 
 
-<h2>Legend of Dracula II</h2>
+## Legend of Dracula II
 
 **Vlad III:**
 Hm... London again? We've already taken care of that devil... Is there something else?

@@ -1,6 +1,6 @@
 # Ivan the Terrible
  
-<h2>Ah...The Ivan the Terrible Murasaki Shikibu...</h2>
+## Ah...The Ivan the Terrible Murasaki Shikibu...
  
 **Narration:**
 Ahh, my poor body.

@@ -1,6 +1,6 @@
 # Sakata Kintoki
 
-<h2>Kintoki's Bear Extermination on Mt. Ashigara</h2>
+## Kintoki's Bear Extermination on Mt. Ashigara
 
 **Sakata Kintoki:**
 Bored. I'm so bored I might just nod off to sleep.
@@ -469,7 +469,7 @@ A celebration for driving off the bears!
 Doctor, get your best booze ready for us!
 
 
-<h2>Kintoki's Oni Slaying at Mt. Ooe</h2>
+## Kintoki's Oni Slaying at Mt. Ooe
 
 **Mash:**
 Um, a clean...up?

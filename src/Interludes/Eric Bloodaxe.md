@@ -1,6 +1,6 @@
 # Eric Bloodaxe
 
-<h2>Terror of the Bloodaxe</h2>
+## Terror of the Bloodaxe
 
 **Eric:**
 Uuhnn...

@@ -1,6 +1,6 @@
 # Minamoto-no-Raikou
 
-<h2>The Different Story of Ushi Gozen's Home</h2>
+## The Different Story of Ushi Gozen's Home
 
 **Sakata Kintoki:**
 Phew! Oh man, that simulation today totally kicked ass!
@@ -1520,7 +1520,7 @@ In moderation, please!
 ...Hee hee hee.
 
 
-<h2>Neither a Mother Nor Woman. Yet I Am...</h2>
+## Neither a Mother Nor Woman. Yet I Am...
 
 **Murasaki Shikibu:**
 ...Could it be?

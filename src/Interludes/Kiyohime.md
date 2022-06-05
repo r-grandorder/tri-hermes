@@ -1,6 +1,6 @@
 # Kiyohime
 
-<h2>Lips to Lips</h2>
+## Lips to Lips
 
 **Kiyohime:**
 M. A. S. T. E. R.

@@ -1,6 +1,6 @@
 # Diarmuid Ua Duibhne
 
-<h2>Twin-Spear of the Rose</h2>
+## Twin-Spear of the Rose
 
 **Fou:**
 Fou, Fou.

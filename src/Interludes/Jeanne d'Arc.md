@@ -1,6 +1,6 @@
 # Jeanne d'Arc
 
-<h2>My God is with Me I</h2>
+## My God is with Me I
 
 **Jeanne:**
 &ndash;I am having a dream.&ndash;"She" is smiling happily.
@@ -1173,7 +1173,7 @@ I promise.
 ...Thank you, Master.
 
 
-<h2>My God is with Me II</h2>
+## My God is with Me II
 
 **Jeanne:**
 Seventeen years living in that village.
@@ -2060,7 +2060,7 @@ Protecting virtue.
 That is what I wish for, and nothing more.
 
 
-<h2>My God is with Me III</h2>
+## My God is with Me III
 
 **Narration:**
 ...I don't feel pain from being burned.

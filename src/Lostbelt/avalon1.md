@@ -9249,11 +9249,7 @@ It's not the birthing period now, so there shouldn't be anything inside there.
 
 **???:**
 
-<<<<<<< HEAD
-![berserk1](https://i.imgur.com/XAqlQYL.png)？
-=======
 ![1-light](https://i.imgur.com/XAqlQYL.png)？
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 
 ---
 
@@ -9276,11 +9272,7 @@ I screwed up again...sorry everyone! If we don't beat that thing, a lot more wil
 
 **???:**
 
-<<<<<<< HEAD
-![berserk1](https://i.imgur.com/XAqlQYL.png) 
-=======
 ![1-light](https://i.imgur.com/XAqlQYL.png) 
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 
 **--BATTLE--**
 
@@ -16588,15 +16580,15 @@ The colors of autumn are everywhere...!
 
 **F：Welsh Fairy A:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Lord Oberon, it's Lord Oberon!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Lord Oberon, it's Lord Oberon!</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Everyone, Lord Oberon's returned!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt> Everyone, Lord Oberon's returned!</rt></ruby>
 
 **J：Welsh Fairy B:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Tell them!  Tell them!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt> Tell them!  Tell them!</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Go tell everyone outside!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt> Go tell everyone outside!</rt></ruby>
 
 **Oberon:**
 Hey everyone, I'm back. I brought guests today. 
@@ -16636,9 +16628,9 @@ Well a fairy's a fairy, right? There's nothing special about this place&mdash;
 
 **G：Welsh Fairy:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Make!  Make!  Make a helmet!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt> Make!  Make!  Make a helmet!</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Wanna be a soldier, wanna be a soldier!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt> Wanna be a soldier, wanna be a soldier!</rt></ruby>
 
 **Senji Muramasa:**
 ...Okay, they're a bit different. I don't quite understand, but...
@@ -16663,15 +16655,15 @@ I know, I won't make the real thing! They'll just be imitations!
 
 **F：Welsh Fairy:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> And you?  And you?</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt> And you?  And you?</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Oberon's friend?  A real friend?</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt> Oberon's friend?  A real friend?</rt></ruby>
 
 **F：Welsh Fairy:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> Then you're our friend!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt> Then you're our friend!</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt> You saved Oberon!  Thanks for Oberon!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt> You saved Oberon!  Thanks for Oberon!</rt></ruby>
 
 ---
 
@@ -16743,15 +16735,15 @@ No, that was just by chance...I think?
 
 **Welsh Fairy:**
 
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Are you hungry?  Are you hungry?</rt></ruby>
+<ruby>![welsh2-light](https://i.imgur.com/SYUwP8V.png)<rt>Are you hungry?  Are you hungry?</rt></ruby>
 
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>If you came with Lord Oberon, you're definitely hungry, right?</rt></ruby>
+<ruby>![welsh2-light](https://i.imgur.com/SYUwP8V.png)<rt>If you came with Lord Oberon, you're definitely hungry, right?</rt></ruby>
 
 **Welsh Fairy:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>We'll treat you, we'll treat you!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>We'll treat you, we'll treat you!</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>The chestnuts of Wales are delicious!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>The chestnuts of Wales are delicious!</rt></ruby>
 
 **Artoria:**
 Everyone, it looks like they're going to feed us. Wait, chestnuts! They've got chestnuts! 
@@ -16789,9 +16781,9 @@ To be honest, I prefer carrots. The nature of the sweetness is different.
 
 **Welsh Fairy:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>This way!  This way!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>This way!  This way!</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Tell us about Oberon!  Tell us about Oberon!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Tell us about Oberon!  Tell us about Oberon!</rt></ruby>
 
 **Da Vinci:**
 Seems like there's a dining table over there. 
@@ -16843,9 +16835,9 @@ Still, this is a lot of food. Is this Oberon's share? Is it alright to just leav
 
 **Welsh Fairies:**
 
-<ruby><rb>![welsh3-light](https://i.imgur.com/0CccUBF.png)</rb><rt>It's here, it's here!  The Black Dog!</rt></ruby>
+<ruby>![welsh3-light](https://i.imgur.com/0CccUBF.png)<rt>It's here, it's here!  The Black Dog!</rt></ruby>
 
-<ruby><rb>![welsh3-light](https://i.imgur.com/0CccUBF.png)</rb><rt>Hide, hide, first come first serve, hide!</rt></ruby>
+<ruby>![welsh3-light](https://i.imgur.com/0CccUBF.png)<rt>Hide, hide, first come first serve, hide!</rt></ruby>
 
 **Da Vinci:**
 Huh? They all suddenly shot up the trees and into the tree trunks&mdash;
@@ -16938,15 +16930,15 @@ But in return, the Fang Clan was cursed...or so the story goes.
 
 **Welsh Fairy:**
 
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt> They're gone!  They're gone!</rt></ruby>
+<ruby>![welsh2-light](https://i.imgur.com/SYUwP8V.png)<rt> They're gone!  They're gone!</rt></ruby>
 
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt> Vortigern!  Vortigern!</rt></ruby>
+<ruby>![welsh2-light](https://i.imgur.com/SYUwP8V.png)<rt> Vortigern!  Vortigern!</rt></ruby>
 
 **Welsh Fairy:**
 
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Oberon will be sad, Oberon will be happy!</rt></ruby>
+<ruby>![welsh2-light](https://i.imgur.com/SYUwP8V.png)<rt>Oberon will be sad, Oberon will be happy!</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Can rely on friends!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Can rely on friends!</rt></ruby>
 
 **Da Vinci:**
 It looks like the fairies are happy we got rid of them. 
@@ -18906,11 +18898,7 @@ Look, your insides are a disarranged and suffering mess! I'm gonna make you look
 
 **Boggart:**
 
-<<<<<<< HEAD
-![berserk1](https://i.imgur.com/XAqlQYL.png) 
-=======
 ![1-light](https://i.imgur.com/XAqlQYL.png) 
->>>>>>> 7224cb4d1439411cdd384f20b83f30b3f0f6271e
 
 **Beryl:**
 Uh-oh, careful with that, Lady. You're making blood splatter all over us. 
@@ -20061,9 +20049,9 @@ Gareth the Wanderer, aspiring to be Artoria's squire!
 
 **Welsh Fairy:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Here you go, here you go!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Here you go, here you go!</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Lunch, lunch!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Lunch, lunch!</rt></ruby>
 
 **Gareth:**
 Aha. Thank you again for the food today. (Munch munch munch. )

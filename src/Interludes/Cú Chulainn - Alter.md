@@ -1,6 +1,6 @@
 # Cú Chulainn - Alter
 
-<h2>A War of Only Two</h2>
+## A War of Only Two
 
 **Narration:**
 Even a single mistake in a Rayshift cannot be allowed. Or at least, that would be the case were there no opponents awaiting the team.
@@ -910,7 +910,7 @@ Now then...I wonder if someone's going to read through this massive Rayshift rep
 Or maybe it will never see the light of day...considering the future to be saved, and what lies after that.
 
 
-<h2>Kill Like a Beast, Fight for Carnage</h2>
+## Kill Like a Beast, Fight for Carnage
 
 **Narration:**
 ...He once said no one should bother trying to understand him.

@@ -1,6 +1,6 @@
 # Elisabeth Báthory
 
-<h2>The New Elisa</h2>
+## The New Elisa
 
 **Mash:**
 Excuse me. An old-fashioned letter arrived addressed to you, Senpai.

@@ -482,7 +482,7 @@ Oh man! Mash is usually unflappable, so things MUST be bad for her to freeze up 
  
 ## OPENING CRAWL
 
-<youtube>https://youtu.be/gYsdOHSH_wM</youtube>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gYsdOHSH_wM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 ## Prologue: Overture, continued
  

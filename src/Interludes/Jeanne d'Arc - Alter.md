@@ -1,6 +1,6 @@
 # Jeanne d'Arc - Alter
 
-<h2>That Which Must Be Corrected</h2>
+## That Which Must Be Corrected
 
 **Jeanne Alter:**
 I was born in a dark abyss, devoid of any light.

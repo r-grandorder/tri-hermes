@@ -1,6 +1,6 @@
 # Cú Chulainn - Caster
 
-<h2>Sage of the Forest</h2>
+## Sage of the Forest
 
 **Mash:**
 Pure water and unpolluted air...

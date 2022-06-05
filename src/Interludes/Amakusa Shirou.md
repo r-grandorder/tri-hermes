@@ -1,6 +1,6 @@
 # Amakusa Shirou
 
-<h2>Let's Talk About Saving the World</h2>
+## Let's Talk About Saving the World
 
 **Narration:**
 The act of saving someone is arrogant by nature.
@@ -1127,7 +1127,7 @@ Thank you, Master.
 I, Amakusa Shirou Tokisada, will give your room the best cleaning ever!
 
 
-<h2>Let's Talk about Evil</h2>
+## Let's Talk about Evil
 
 **Narration:**
 There is nothing helpful to be gained by separating good and evil.

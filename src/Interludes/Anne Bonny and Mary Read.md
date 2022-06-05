@@ -1,6 +1,6 @@
 # Anne Bonny and Mary Read
 
-<h2>Capture Captain Kidd's Treasure</h2>
+## Capture Captain Kidd's Treasure
 
 **Mary:**
 Master, Mash, we're here.
@@ -421,7 +421,7 @@ Okay... I'm opening it up.
 ...Hooray!
 
 
-<h2>Treasure of the Knights Templar!</h2>
+## Treasure of the Knights Templar!
 
 **Mash:**
 More treasure?

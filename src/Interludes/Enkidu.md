@@ -1,6 +1,6 @@
 # Enkidu
 
-<h2>Made by God, Woven by Humans, and Returned to Soil I</h2>
+## Made by God, Woven by Humans, and Returned to Soil I
 
 **???:**
 “...Hey.”
@@ -3103,7 +3103,7 @@ A relationship between a mage and their Servant, huh?)
 I will find the guidepost that will allow us to release your soul...)
 
 
-<h2>Made by God, Woven by Humans, and Returned to Soil II</h2>
+## Made by God, Woven by Humans, and Returned to Soil II
 
 **Mordred:**
 Hraaah!

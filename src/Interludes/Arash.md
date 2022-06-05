@@ -1,6 +1,6 @@
 # Arash
 
-<h2>Lonely Soldier, Brave As a Lion</h2>
+## Lonely Soldier, Brave As a Lion
 
 **Arash:**
 ...We've got barely any equipment. Be careful, okay?

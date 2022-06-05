@@ -1,6 +1,6 @@
 # Osakabehime
 
-<h2>Hikikomori Milky Way</h2>
+## Hikikomori Milky Way
 
 **Narration:**
 ...

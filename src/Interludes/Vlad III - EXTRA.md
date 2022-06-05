@@ -1,6 +1,6 @@
 # Vlad III - EXTRA
 
-<h2>Scorched Earth</h2>
+## Scorched Earth
 
 **Vlad III:**
 What's wrong?

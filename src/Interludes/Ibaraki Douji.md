@@ -1,6 +1,6 @@
 # Ibaraki Douji
 
-<h2>Fire and Alcohol and Oni! Oh, My!</h2>
+## Fire and Alcohol and Oni! Oh, My!
 
 **Mash:**
 We've arrived. Rayshift successful.

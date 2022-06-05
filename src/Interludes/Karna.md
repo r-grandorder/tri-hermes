@@ -1,6 +1,6 @@
 # Karna
 
-<h2>Heroic Spirit of the Charity</h2>
+## Heroic Spirit of the Charity
 
 **Mash:**
 Master, are you going to eat?

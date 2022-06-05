@@ -1,6 +1,6 @@
 # Tamamo-no-Mae
 
-<h2>E-Pal Wars</h2>
+## E-Pal Wars
 
 **Tamamo-no-Mae:**
 Master, where are you?
@@ -516,7 +516,7 @@ I'll pass.
 Senpai, please try to avoid being burned to death, okay?
 
 
-<h2>Nine-tailed Fox</h2>
+## Nine-tailed Fox
 
 **Dr. Roman:**
 The enemy type is a demon!

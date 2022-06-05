@@ -1,6 +1,6 @@
 # Beowulf
 
-<h2>Grendel's Second Coming</h2>
+## Grendel's Second Coming
 
 **Beowulf:**
 Anomaly during summons?

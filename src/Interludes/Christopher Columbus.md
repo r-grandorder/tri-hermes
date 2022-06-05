@@ -1,6 +1,6 @@
 # Christopher Columbus
 
-<h2>Him</h2>
+## Him
 
 **Columbus:**
 Hey there, Master.

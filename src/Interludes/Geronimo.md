@@ -1,6 +1,6 @@
 # Geronimo
 
-<h2>Geronimo In London</h2>
+## Geronimo In London
 
 **Geronimo:**
 Hm. A paved road.

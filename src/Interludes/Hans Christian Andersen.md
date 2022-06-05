@@ -1,6 +1,6 @@
 # Hans Christian Andersen
 
-<h2>Human Observation</h2>
+## Human Observation
 
 **Andersen:**
 How are you, Master? It's good to see that you're not looking disgruntled today.

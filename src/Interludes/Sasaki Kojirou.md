@@ -1,6 +1,6 @@
 # Sasaki Kojirou
 
-<h2>LEGEND-OF-THE-SAMURAI</h2>
+## LEGEND-OF-THE-SAMURAI
 
 **Chairperson:**
 Thank you for your patience!

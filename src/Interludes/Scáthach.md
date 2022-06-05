@@ -1,6 +1,6 @@
 # Scáthach
 
-<h2>Kill Me If You Can</h2>
+## Kill Me If You Can
 
 **Scáthach:**
 ...Now then. Are you ready, Cú Chulainn?
@@ -543,7 +543,7 @@ Yeah, yeah, I got it. We're stuck together 'till we both die... No, 'till we bot
 There's still a long way to go. Going along with a woman's selfishness is also a requirement to be a top-tier Master, Fujimaru.
 
 
-<h2>Calls from the Land of Shadows</h2>
+## Calls from the Land of Shadows
 
 **Mash:**
 ...Master. Master.

@@ -21739,7 +21739,7 @@ Ow! It hurts! Aaaaaah! Stop! Stop it! Please, no more!
 It's...it's ripping me apart! Haaaugh, wh-why!? It...it hurts...Aaaargh&mdash;
  
 **???:**
-! uyq@b4e3bst<u. -s@<u. -@s! 
+! uyq@b4e3bst&lt;u. -s@&lt;u. -@s! 
  
 **Uruk Civilian:**
 Ghaaaaah! Aieeeeeeee! 
@@ -21757,7 +21757,7 @@ Ohhh, ohhh, ungh...! Unhhh...!
 H-huhhh...Ah, aaaaah! No Please, stop! Somebody, help! 
  
 **???:**
-! 4b@eq<4b@eq! 
+! 4b@eq&lt;4b@eq! 
  
 **???:**
 &mdash;b;f? b;m 6ud@ MONO? 6md 

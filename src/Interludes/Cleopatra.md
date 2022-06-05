@@ -1,6 +1,6 @@
 # Cleopatra
 
-<h2>Where Beauty Lies</h2>
+## Where Beauty Lies
 
 **Cleopatra:**
 Hello! As ever, you have that sad puppy look on your face, Master!
@@ -1414,7 +1414,7 @@ She believes her standards are absolute, and never compromises. She's a pure, st
 That may be what makes her the ultimate beauty.
 
 
-<h2>Where the Heart Is</h2>
+## Where the Heart Is
 
 **Cleopatra:**
 ...The ideal body! That is what I seek!!!

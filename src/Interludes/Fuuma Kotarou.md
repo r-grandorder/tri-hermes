@@ -1,6 +1,6 @@
 # Fuuma Kotarou
 
-<h2>Piercing the Heart with a Blade</h2>
+## Piercing the Heart with a Blade
 
 **Narration:**
 Apparently I seldom cried as a child, though it was my drunken father who told me this.

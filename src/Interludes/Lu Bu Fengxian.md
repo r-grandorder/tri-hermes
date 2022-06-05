@@ -1,6 +1,6 @@
 # Lu Bu Fengxian
 
-<h2>Tiger and Wolf</h2>
+## Tiger and Wolf
 
 **Fou:**
 Foou...

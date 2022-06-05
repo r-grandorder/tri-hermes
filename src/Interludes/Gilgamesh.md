@@ -1,6 +1,6 @@
 # Gilgamesh
 
-<h2>What's Worthy</h2>
+## What's Worthy
 
 **Gilgamesh:**
 So this is the fate of the Greater Grail?
@@ -306,7 +306,7 @@ I'm not much, but I have your back!
 Fou, fou.
 
 
-<h2>Law of Creation</h2>
+## Law of Creation
 
 **Gilgamesh:**
 &mdash;
@@ -566,7 +566,7 @@ The reward has been granted already.
 One way or another, you'll understand during the next battle. Boorish fool, don't make me explain everything to you.
 
 
-<h2>Law of Heaven</h2>
+## Law of Heaven
 
 **Gilgamesh:**
 I hear there are dragons on this island.

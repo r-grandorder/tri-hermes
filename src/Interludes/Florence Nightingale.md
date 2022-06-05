@@ -1,6 +1,6 @@
 # Florence Nightingale
 
-<h2>An Angel Does Not Plant Flowers</h2>
+## An Angel Does Not Plant Flowers
 
 **Narration:**
 It's awfully dark.
@@ -717,7 +717,7 @@ Please head to the training site.
 
  
 **Nightingale:**
-<span style=font-size:25px> IMMEDIATELY!</span>
+<span style="font-size:25px"> IMMEDIATELY!</span>
 
  
 **Fou:**
@@ -1103,7 +1103,7 @@ Yes, Senpai.
 Good health comes from a good night's sleep and a proper, nutritious meal, right!?
 
 
-<h2>Fighting for Someone</h2>
+## Fighting for Someone
 
 **Mash:**
 Welcome back, Senpai!

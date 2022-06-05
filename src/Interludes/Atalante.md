@@ -1,6 +1,6 @@
 # Atalante
 
-<h2>Smile of the Goddess</h2>
+## Smile of the Goddess
 
 **Atalante:**
 Master, I need to talk to you.
@@ -333,7 +333,7 @@ Then this boar pelt... No, huh?
 Hmph. This is difficult.
 
 
-<h2>London Child</h2>
+## London Child
 
 **Atalante:**
 I'm sorry, Master.

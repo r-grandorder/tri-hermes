@@ -1,6 +1,6 @@
 # Ishtar
 
-<h2>Ishtar's Eleven</h2>
+## Ishtar's Eleven
 
 **Ishtar:**
 Hi! What a wonderful day here in Chaldea, don't you think, Master? By the way, I have something to ask you.
@@ -1028,7 +1028,7 @@ Ungh! That's the last thing I wanted to hear! Dummy! You'd better hold your tong
 Listen! I'm never going to give up! I'm gonna redeem myself for my blunder at the Demonic Front!
 
 
-<h2>Return of Ishtar</h2>
+## Return of Ishtar
 
 **Mash:**
 Here you go, Senpai.

@@ -1,6 +1,6 @@
 # Darius III
 
-<h2>Lord of the Destructive Storm</h2>
+## Lord of the Destructive Storm
 
 **Darius III:**
 ![berserk1](https://i.imgur.com/XAqlQYL.png)&ndash;!
@@ -350,7 +350,7 @@ Let's just forget about it...
 ...
 
 
-<h2>Two Heroes, To the End of the Battlefield</h2>
+## Two Heroes, To the End of the Battlefield
 
 **Darius III:**
 ![berserk2](https://i.imgur.com/7VYgcEB.png)&ndash;!

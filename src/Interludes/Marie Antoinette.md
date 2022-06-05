@@ -1,6 +1,6 @@
 # Marie Antoinette
 
-<h2>Queen of Lily and Emperor of Rose</h2>
+## Queen of Lily and Emperor of Rose
 
 **Marie Antoinette:**
 All together!
@@ -701,7 +701,7 @@ Fou fou-foou♪
 ...
 
 
-<h2>The Fragile Lily</h2>
+## The Fragile Lily
 
 **Mash:**
 Where...?

@@ -1,6 +1,6 @@
 # Leonardo da Vinci
 
-<h2>Not Even The Almighty Hand Can Reach Here</h2>
+## Not Even The Almighty Hand Can Reach Here
 
 **Mash:**
 ...Rayshift successful, Senpai.
@@ -1031,7 +1031,7 @@ I can see why he would turn into a troublesome ghost.
 (Sigh) It sure is painful having to continue to work even after being left all alone.
 
 
-<h2>A Gift From a Little Devil</h2>
+## A Gift From a Little Devil
 
 **Narration:**
 ...I was there for my mother when she died.

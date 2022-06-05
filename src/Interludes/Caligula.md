@@ -1,6 +1,6 @@
 # Caligula
 
-<h2>Dimming Moonlight and My Precious</h2>
+## Dimming Moonlight and My Precious
 
 **Fou:**
 Fou, foou!

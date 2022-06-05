@@ -1,6 +1,6 @@
 # Hassan of the Serenity
 
-<h2>That's Why I'm Going to Die Here, as Myself</h2>
+## That's Why I'm Going to Die Here, as Myself
 
 **Serenity:**
 Welcome back, Master.

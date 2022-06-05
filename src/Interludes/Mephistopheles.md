@@ -1,6 +1,6 @@
 # Mephistopheles
 
-<h2>Tick Tock, Bang!</h2>
+## Tick Tock, Bang!
 
 **Mephistopheles:**
 &ndash;Now then, now then.

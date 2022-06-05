@@ -1,6 +1,6 @@
 # Charles Babbage
 
-<h2>Iron Mobile Report C. Babbage</h2>
+## Iron Mobile Report C. Babbage
 
 **Babbage:**
 &mdash;
@@ -101,7 +101,7 @@ These demons are going to destroy my country!
 
  
 **Babbage:**
-<span style=font-size:25px>&ndash;HAH!</span>
+<span style="font-size:25px">&ndash;HAH!</span>
 
  
 **Babbage:**
@@ -196,7 +196,7 @@ witness my secret weapon&ndash; TRANSFORM!
 
  
 **???:**
-<span style=font-size:25px>GAAAAAAAAAAA!!</span>
+<span style="font-size:25px">GAAAAAAAAAAA!!</span>
 
  
 **Mash:**

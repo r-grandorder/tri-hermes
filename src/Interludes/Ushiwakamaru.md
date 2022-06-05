@@ -1,6 +1,6 @@
 # Ushiwakamaru
 
-<h2>Love is Not Free</h2>
+## Love is Not Free
 
 **Ushiwakamaru:**
 Yawn... Good morning Master!

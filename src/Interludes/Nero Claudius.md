@@ -154,7 +154,7 @@ it's treasure-hunting time!
 
  
 **Golem:**
-<span style=font-size:25px>GoAAAAAAAAAAAAAA&mdash;!</span>
+<span style="font-size:25px">GoAAAAAAAAAAAAAA&mdash;!</span>
 
  
 **Pirate:**

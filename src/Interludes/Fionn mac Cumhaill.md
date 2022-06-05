@@ -1,6 +1,6 @@
 # Fionn mac Cumhaill
 
-<h2>Fionn mac Cumhaill, The Hero who Defeated the Gods</h2>
+## Fionn mac Cumhaill, The Hero who Defeated the Gods
 
 **Fionn:**
 What&ndash;

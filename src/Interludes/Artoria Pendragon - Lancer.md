@@ -1,6 +1,6 @@
 # Artoria Pendragon - Lancer
 
-<h2>Sacred Lance King of Knights</h2>
+## Sacred Lance King of Knights
 
 **Altria:**
 I see. So the Holy City you saw was the avatar of my sacred lance.
@@ -681,7 +681,7 @@ Fit for worshipping a god. Thus...
 
  
 **Romulus:**
-<span style=font-size:25px>&mdash;Die!</span>
+<span style="font-size:25px">&mdash;Die!</span>
 
  
 **Romulus:**

@@ -1,6 +1,6 @@
 # Xuanzang Sanzang
 
-<h2>It's Just...I'm not Lost!</h2>
+## It's Just...I'm not Lost!
 
 **Sanzang:**
 ...

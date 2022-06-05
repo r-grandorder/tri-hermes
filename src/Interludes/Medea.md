@@ -1,6 +1,6 @@
 # Medea
 
-<h2>Witch's Backyard</h2>
+## Witch's Backyard
 
 **Mash:**
 So, you want us to defeat the Doll King?

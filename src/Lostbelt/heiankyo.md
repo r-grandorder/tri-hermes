@@ -198,7 +198,7 @@ It may have had a refit in Atlantis,but the Storm Border is still an unstable ve
 It’ll have to be reinforced eventually so that it can operate without me or the Shadow Border. 
  
 **Holmes:**
-The <ruby><rb>Aronnax Phantasm</rb><rt>Evidential Mechanism</rt></ruby> can supplement the materialization stabilization faculties in replacing the imaginary components with real ones&mdash;
+The <ruby>Aronnax Phantasm<rt>Evidential Mechanism</rt></ruby> can supplement the materialization stabilization faculties in replacing the imaginary components with real ones&mdash;
  
 **Holmes:**
 In other words, you’re going to begin welding works, aren’t you? 
@@ -236,7 +236,7 @@ We will continue as planned, training and preparing for our next assault on a Lo
 [♂ Mr. /♀ Ms. ] Fujimaru will have to improve on their skills as a Master. 
  
 **Holmes:**
-Miss Kyrielight will tune her <ruby><rb>Ortinax</rb><rt>Spirit Origin Exoskeleton</rt></ruby>. 
+Miss Kyrielight will tune her <ruby>Ortinax<rt>Spirit Origin Exoskeleton</rt></ruby>. 
  
 **Holmes:**
 Miss Sion and I will&mdash;investigate and analyze the “Alien God”. 
@@ -409,7 +409,7 @@ Whether or not that rule can apply to the “Alien God”...
 Well, it’s been attempting to communicate in our languages,so the possibility is technically there…
  
 **Sion:**
-But the <ruby><rb>Accomplish Measure</rb><rt>Lifespan Engravement Measurement Pin</rt></ruby>,a vital component of the Black Barrel, won’t be able to measure the lifespan of the “Alien God”. 
+But the <ruby>Accomplish Measure<rt>Lifespan Engravement Measurement Pin</rt></ruby>,a vital component of the Black Barrel, won’t be able to measure the lifespan of the “Alien God”. 
  
 **Holmes:**
 Hoh. And what’s the reasoning for that? 
@@ -1045,7 +1045,7 @@ Approach me with your sword drawn,and I’ll bite off your damn head!
 I’ve removed one of your arms,but even the pretense of a support technique has not appeared. 
  
 **Man with a Long Sword:**
-Then you are not one of the <ruby><rb>Masters</rb><rt>Heavenly Warriors</rt></ruby>, are you? 
+Then you are not one of the <ruby>Masters<rt>Heavenly Warriors</rt></ruby>, are you? 
  
 **Ibaraki Douji:**
 ...What are… you on about…? 
@@ -1159,7 +1159,7 @@ We’re looking for our prey. Our Casters.
 特異点だ。特異点が発生している！
  
 **Goredolf:**
-と、言いつつ……常日頃から<ruby><rb>公言</rb><rt>アピール</rt></ruby>しているように、私は特異点には関わりたくないし門外漢だ。
+と、言いつつ……常日頃から<ruby>公言<rt>アピール</rt></ruby>しているように、私は特異点には関わりたくないし門外漢だ。
  
 **Goredolf:**
 本来なら所長室（現在、改築中）で 優雅なティータイムを満喫しているところだが、
@@ -1270,7 +1270,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Da Vinci:**
-だよねー。そこに関しては本人から直接、<ruby><rb>弁明</rb><rt>コメント</rt></ruby>を聞いてほしい。
+だよねー。そこに関しては本人から直接、<ruby>弁明<rt>コメント</rt></ruby>を聞いてほしい。
  
 **Da Vinci:**
 はい、カメラ、どうぞー！
@@ -1301,7 +1301,7 @@ We’re looking for our prey. Our Casters.
 場所と時期は日本平安期。
  
 **Da Vinci:**
-具体的に言えば、<ruby><rb>寛弘</rb><rt>かんこう</rt></ruby>五年、つまり西暦一〇〇八年、十一世紀初頭。
+具体的に言えば、<ruby>寛弘<rt>かんこう</rt></ruby>五年、つまり西暦一〇〇八年、十一世紀初頭。
  
 **Da Vinci:**
 場所は現在の京都市街&mdash;
@@ -1326,10 +1326,10 @@ We’re looking for our prey. Our Casters.
 ジャスト・ゴールデン！
  
 **Sakata Kintoki:**
-聞いたぜ聞こえたぜ平安京。<ruby><rb>寛弘</rb><rt>かんこう</rt></ruby>五年って話なら、まさにジャスト・ゴールデン！
+聞いたぜ聞こえたぜ平安京。<ruby>寛弘<rt>かんこう</rt></ruby>五年って話なら、まさにジャスト・ゴールデン！
  
 **Sakata Kintoki:**
-オレっちたち源氏の武者がバリバリ現役！確か、大江の<ruby><rb>鬼退治</rb><rt>ア レ コ レ</rt></ruby>のチョイ前あたりだし、
+オレっちたち源氏の武者がバリバリ現役！確か、大江の<ruby>鬼退治<rt>ア レ コ レ</rt></ruby>のチョイ前あたりだし、
  
 **Sakata Kintoki:**
 <u>御本人の登場</u>ッてェのも期待できる！
@@ -1343,7 +1343,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-時、まさに<ruby><rb>金時</rb><rt>ゴールデン</rt></ruby>！
+時、まさに<ruby>金時<rt>ゴールデン</rt></ruby>！
  
 **Sakata Kintoki:**
 おうともさ！
@@ -1402,7 +1402,7 @@ We’re looking for our prey. Our Casters.
 なにゆえニンジャ系サーヴァントというのは いつもそうやって死角からシュタッと来るのかね！？
  
 **Goredolf:**
-歴戦の<ruby><rb>猛者</rb><rt>レーサー</rt></ruby>である私だから耐えられたが、これがモンサンミッシェル君なら心臓がアレだよ君ィ！
+歴戦の<ruby>猛者<rt>レーサー</rt></ruby>である私だから耐えられたが、これがモンサンミッシェル君なら心臓がアレだよ君ィ！
  
 **Meuniere:**
 （もう食べ物繋がりですらないな、このおっさん！）
@@ -1462,7 +1462,7 @@ We’re looking for our prey. Our Casters.
 おそらくは……&mdash;
  
 **Fuuma Kotarou:**
-アルターエゴ・リンボ、<ruby><rb>蠢動</rb><rt>しゅんどう</rt></ruby>の気配にて。
+アルターエゴ・リンボ、<ruby>蠢動<rt>しゅんどう</rt></ruby>の気配にて。
  
 **Holmes:**
 ！
@@ -1480,10 +1480,10 @@ We’re looking for our prey. Our Casters.
 たいそうゴールデンな……いいや、ソー・ノーゴールデンなクソ野郎！！
  
 **Sakata Kintoki:**
-<ruby><rb>兎角</rb><rt>と か く</rt></ruby>あちこちでマスターの前に現れては、ノーゴールデンにあれこれ仕掛けてきやがる、ってな！
+<ruby>兎角<rt>と か く</rt></ruby>あちこちでマスターの前に現れては、ノーゴールデンにあれこれ仕掛けてきやがる、ってな！
  
 **Sakata Kintoki:**
-その容貌、聞く限りじゃあ<ruby><rb>蘆屋道満</rb><rt>あ し や ど う ま ん</rt></ruby>に違いねえ。
+その容貌、聞く限りじゃあ<ruby>蘆屋道満<rt>あ し や ど う ま ん</rt></ruby>に違いねえ。
  
 **Sakata Kintoki:**
 オレの知る蘆屋道満と同一人物なのかは、断言できねえが&mdash;
@@ -1492,7 +1492,7 @@ We’re looking for our prey. Our Casters.
 少なくとも西暦一〇〇八年とくりゃ、道満法師は間違いなく京にいたぜ。
  
 **Sakata Kintoki:**
-<ruby><rb>安倍晴明</rb><rt>あべのせいめい</rt></ruby>殿と術くらべとかして……
+<ruby>安倍晴明<rt>あべのせいめい</rt></ruby>殿と術くらべとかして……
  
 **Sakata Kintoki:**
 外道らしい悪事を為したのは もうちっと後、だった気もするが……
@@ -1528,7 +1528,7 @@ We’re looking for our prey. Our Casters.
 この縁の感覚は、よりいっそう<u>強く感じられている</u>！なれば主殿、どうか！
  
 **Fuuma Kotarou:**
-この悪縁、主殿と共に我ら、<ruby><rb>此度</rb><rt>こたび</rt></ruby>の旅にて断ち切るべきと考えます。
+この悪縁、主殿と共に我ら、<ruby>此度<rt>こたび</rt></ruby>の旅にて断ち切るべきと考えます。
  
 **Goredolf:**
 縁か。言わんとするところは分からないではないが、
@@ -1582,7 +1582,7 @@ We’re looking for our prey. Our Casters.
 端的に言えば、“異物混入”のための 隙間が大きいかどうかの話だ。
  
 **Da Vinci:**
-正当な歴史、人類史の<ruby><rb>要</rb><rt>かなめ</rt></ruby>となるポイントに発生した 特異点なら、この<ruby><rb>規定</rb><rt>レギュレーション</rt></ruby>は厳しいものになる。
+正当な歴史、人類史の<ruby>要<rt>かなめ</rt></ruby>となるポイントに発生した 特異点なら、この<ruby>規定<rt>レギュレーション</rt></ruby>は厳しいものになる。
  
 **Da Vinci:**
 でも微小特異点であれば、縛りはそこまで厳しくはない筈だ。
@@ -1709,7 +1709,7 @@ We’re looking for our prey. Our Casters.
 マシュと一緒にな。大将にとっての金剛の盾と矛だ！
  
 **Sakata Kintoki:**
-頼んだぜ！　<ruby><rb>小太郎</rb><rt>イビルウインド</rt></ruby>、<ruby><rb>段蔵</rb><rt>ブラックカイト</rt></ruby>！
+頼んだぜ！　<ruby>小太郎<rt>イビルウインド</rt></ruby>、<ruby>段蔵<rt>ブラックカイト</rt></ruby>！
  
 **Evil-wind and Black-kite:**
 承知！
@@ -1844,7 +1844,7 @@ We’re looking for our prey. Our Casters.
 目的も手段も最終的には捨ててしまう破滅的人格、というのが世界には時折存在する。
  
 **Da Vinci:**
-彼らは積極的に世界を<ruby><rb>蝕</rb><rt>むしば</rt></ruby>む。自分自身を含めて、あらゆる価値を認めず、
+彼らは積極的に世界を<ruby>蝕<rt>むしば</rt></ruby>む。自分自身を含めて、あらゆる価値を認めず、
  
 **Da Vinci:**
 傷付けて、殺してしまう。
@@ -1892,7 +1892,7 @@ We’re looking for our prey. Our Casters.
 ……だが。これは必要な冒険でもある。
  
 **Holmes:**
-現在、『異星の神』は南米から動く可能性は低く、特異点にはリンボ<ruby><rb>蠢動</rb><rt>しゅんどう</rt></ruby>の気配のみ。
+現在、『異星の神』は南米から動く可能性は低く、特異点にはリンボ<ruby>蠢動<rt>しゅんどう</rt></ruby>の気配のみ。
  
 **Holmes:**
 つまり。アルターエゴ・リンボはいま、単独だ。
@@ -2032,10 +2032,10 @@ We’re looking for our prey. Our Casters.
 現在地点、平安京南西部。
  
 **Danzo:**
-<ruby><rb>搭載</rb><rt>インストール</rt></ruby>した地図情報通りの無人地帯ではありますが、ノウム・カルデアへの連絡もままならず、
+<ruby>搭載<rt>インストール</rt></ruby>した地図情報通りの無人地帯ではありますが、ノウム・カルデアへの連絡もままならず、
  
 **Danzo:**
-この場に到着叶ったのは、ワタシとマスターのみと<ruby><rb>思</rb><rt>おぼ</rt></ruby>しく……！
+この場に到着叶ったのは、ワタシとマスターのみと<ruby>思<rt>おぼ</rt></ruby>しく……！
  
 ---
 
@@ -2068,7 +2068,7 @@ We’re looking for our prey. Our Casters.
 ……妨害対策として、我ら、気配遮断スキルの使用が定められておりました。
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>は新宿亜種特異点での妨害情報を元に、技術顧問が考案なされた対抗策にて。
+<ruby>是<rt>これ</rt></ruby>は新宿亜種特異点での妨害情報を元に、技術顧問が考案なされた対抗策にて。
  
 **Danzo:**
 剣の霊基であれば対魔力の発揮、術の霊基であれば陣地作成の応用、
@@ -2104,7 +2104,7 @@ We’re looking for our prey. Our Casters.
 僅かながらではありますが、小太郎殿の魔力を感じましてございます。
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>は、想像にすぎませぬが……
+<ruby>是<rt>これ</rt></ruby>は、想像にすぎませぬが……
  
 **Danzo:**
 小太郎殿は、自ら、囮になったのやもしれませぬ。
@@ -2125,7 +2125,7 @@ We’re looking for our prey. Our Casters.
 ……はい。
  
 **Danzo:**
-我が身の未熟を痛感するばかりです。小太郎殿こそ、真の<ruby><rb>忍び</rb><rt>アサシン</rt></ruby>でありましょう。
+我が身の未熟を痛感するばかりです。小太郎殿こそ、真の<ruby>忍び<rt>アサシン</rt></ruby>でありましょう。
  
 **Danzo:**
 状況を整理いたします。マスター。
@@ -2257,7 +2257,7 @@ We’re looking for our prey. Our Casters.
 戦闘機動開始&mdash;絡繰忍法、全種開放。
  
 **Danzo:**
-<ruby><rb>彼我</rb><rt>ひ　が</rt></ruby>の戦力差、不明であるからには！手加減無用！
+<ruby>彼我<rt>ひ　が</rt></ruby>の戦力差、不明であるからには！手加減無用！
  
 **Danzo:**
 出力全開にて参ります！
@@ -2284,7 +2284,7 @@ We’re looking for our prey. Our Casters.
 な、ん、のこれしき&mdash;大蜘蛛の怪異如きが何するものぞ、喰らえ我が奥義！
  
 **Danzo:**
-&mdash;『<ruby><rb>絡繰幻法・呑牛</rb><rt>イビルウィンド・デス・ストーム</rt></ruby>』！
+&mdash;『<ruby>絡繰幻法・呑牛<rt>イビルウィンド・デス・ストーム</rt></ruby>』！
  
 **Danzo:**
 …………ご無事ですか、マスター！
@@ -2307,10 +2307,10 @@ We’re looking for our prey. Our Casters.
 いえ、問題は……
  
 **Danzo:**
-自動修復にて<ruby><rb>是</rb><rt>これ</rt></ruby>この通り。大事はありませぬ。
+自動修復にて<ruby>是<rt>これ</rt></ruby>この通り。大事はありませぬ。
  
 **Danzo:**
-……霊核には届いておりません故、ご案じめさるな。段蔵はこんな<ruby><rb>処</rb><rt>ところ</rt></ruby>で倒れませぬ。マスター。
+……霊核には届いておりません故、ご案じめさるな。段蔵はこんな<ruby>処<rt>ところ</rt></ruby>で倒れませぬ。マスター。
  
 **Danzo:**
 小太郎殿とマシュ殿の分まで、お守り申し上げまする。
@@ -2337,7 +2337,7 @@ We’re looking for our prey. Our Casters.
 しかし……
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なる敵性体。恐るべき相手にございました。
+<ruby>是<rt>これ</rt></ruby>なる敵性体。恐るべき相手にございました。
  
 **Danzo:**
 ワタシの記録は多くありませんが、乱世の頃には見覚えのなき、大蜘蛛の怪異にて。
@@ -2351,7 +2351,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-あれが、平安時代に<ruby><rb>棲息</rb><rt>せいそく</rt></ruby>する怪異なら
+あれが、平安時代に<ruby>棲息<rt>せいそく</rt></ruby>する怪異なら
 
 ---
 
@@ -2375,7 +2375,7 @@ We’re looking for our prey. Our Casters.
 その更に幾百年の昔……
  
 **Danzo:**
-<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>に剛力の巨怪が、<u>都のただ中</u>に出現する。
+<ruby>斯様<rt>か よ う</rt></ruby>に剛力の巨怪が、<u>都のただ中</u>に出現する。
  
 **Danzo:**
 ともすれば平安の世とは、想像を絶する魔圏であるのやもしれませぬ。
@@ -2436,7 +2436,7 @@ We’re looking for our prey. Our Casters.
 気配遮断によく似た<u>わざ</u>を持っていた模様なれど、アサシンのそれとは異なる、擬態にて。
  
 **Danzo:**
-であれば、我が<ruby><rb>感覚器</rb><rt>セ ン サ ー</rt></ruby>の全力を以てすれば！
+であれば、我が<ruby>感覚器<rt>セ ン サ ー</rt></ruby>の全力を以てすれば！
  
 **Danzo:**
 十割とまでは言えぬまでも、感知確率を限界まで高めておきまする。
@@ -2445,7 +2445,7 @@ We’re looking for our prey. Our Casters.
 絡繰式、風魔探査！
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>にて……同じ敵には不意は打たれませぬ。
+<ruby>是<rt>これ</rt></ruby>にて……同じ敵には不意は打たれませぬ。
  
 ---
 
@@ -2471,7 +2471,7 @@ We’re looking for our prey. Our Casters.
 ですが……マスター。
  
 **Danzo:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は<ruby><rb>洛内</rb><rt>らくない</rt></ruby>なれど、無人の<ruby><rb>処</rb><rt>ところ</rt></ruby>なれば、
+<ruby>此処<rt>こ　こ</rt></ruby>は<ruby>洛内<rt>らくない</rt></ruby>なれど、無人の<ruby>処<rt>ところ</rt></ruby>なれば、
  
 **Danzo:**
 他の怪異なぞが<u>わんさ</u>と湧かぬとも限りません。急ぎ、この場を離れるべきかと。
@@ -2512,7 +2512,7 @@ We’re looking for our prey. Our Casters.
 （マスターは、怪異を迂回して 　そのまま大路へと駆けていただきたく）
  
 **Danzo:**
-（大路へ出てしまえば撒けましょう。　<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>の類が見回っている可能性も、あります）
+（大路へ出てしまえば撒けましょう。　<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>の類が見回っている可能性も、あります）
  
 **Danzo:**
 （……それでは御免）
@@ -2554,7 +2554,7 @@ We’re looking for our prey. Our Casters.
 ならば段蔵、共に戦いまする！
  
 **Danzo:**
-<ruby><rb>不躾</rb><rt>ぶしつけ</rt></ruby>なる我が忍法幻法外法の類、正道を歩まんとする主にお見せするには忍びないが、
+<ruby>不躾<rt>ぶしつけ</rt></ruby>なる我が忍法幻法外法の類、正道を歩まんとする主にお見せするには忍びないが、
  
 **Danzo:**
 共に肩を並べて戦う主君なれば！御免！
@@ -2580,7 +2580,7 @@ We’re looking for our prey. Our Casters.
 **--BATTLE--**
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>にて！<ruby><rb>為済</rb><rt>し　す</rt></ruby>ませた！
+<ruby>是<rt>これ</rt></ruby>にて！<ruby>為済<rt>し　す</rt></ruby>ませた！
  
 ---
 
@@ -2662,14 +2662,14 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-（[♂自分/♀わたし]を<ruby><rb>庇</rb><rt>かば</rt></ruby>って&mdash;！？）
+（[♂自分/♀わたし]を<ruby>庇<rt>かば</rt></ruby>って&mdash;！？）
  
 
 ---
 
  
 **Danzo:**
-お逃げくださいマスター！段蔵は<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にて、大蜘蛛の怪異を食い止めまする！
+お逃げくださいマスター！段蔵は<ruby>此処<rt>こ　こ</rt></ruby>にて、大蜘蛛の怪異を食い止めまする！
  
 **Danzo:**
 この先の大路へ！どうか！
@@ -2697,10 +2697,10 @@ We’re looking for our prey. Our Casters.
 &mdash;魔圏、平安京にあって。
  
 **Narration:**
-連れ合いを<ruby><rb>庇</rb><rt>かば</rt></ruby>った[♂男/♀娘]が、哀れ、怪異に貪り喰われる光景などは日頃の常である。
+連れ合いを<ruby>庇<rt>かば</rt></ruby>った[♂男/♀娘]が、哀れ、怪異に貪り喰われる光景などは日頃の常である。
  
 **Narration:**
-特に、この頃、京の外れには<ruby><rb>土蜘蛛</rb><rt>つちぐも</rt></ruby>が出る。
+特に、この頃、京の外れには<ruby>土蜘蛛<rt>つちぐも</rt></ruby>が出る。
  
 **Narration:**
 怨の一文字で総身を形作ったかの如き、黒き怪異。本朝にまつろわぬモノたちの、叫びの具現。
@@ -2709,7 +2709,7 @@ We’re looking for our prey. Our Casters.
 人の子なぞ呆気なく終わる。刹那のうちに引き裂かれ、喰われ、呑まれる。
  
 **Narration:**
-……だが。<ruby><rb>併</rb><rt>しか</rt></ruby>し。
+……だが。<ruby>併<rt>しか</rt></ruby>し。
  
 **Narration:**
 その場に&mdash;
@@ -2753,7 +2753,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Man with a Long Sword:**
-&mdash;<ruby><rb>五月蠅</rb><rt>う　る　さ</rt></ruby>い蜘蛛だ。
+&mdash;<ruby>五月蠅<rt>う　る　さ</rt></ruby>い蜘蛛だ。
 
  
 **Danzo:**
@@ -2763,7 +2763,7 @@ We’re looking for our prey. Our Casters.
 一刀……両断……！？
  
 **Danzo:**
-し、しかし……剣閃も太刀筋もワタシの<ruby><rb>感覚器</rb><rt>セ ン サ ー</rt></ruby>では<u>視えず</u>……
+し、しかし……剣閃も太刀筋もワタシの<ruby>感覚器<rt>セ ン サ ー</rt></ruby>では<u>視えず</u>……
  
 **Danzo:**
 アナタは……！い、一体……何者か……！
@@ -2793,13 +2793,13 @@ We’re looking for our prey. Our Casters.
 平安の世ならざる奇異なる出で立ち。異境の軽装。
  
 **Man with a Long Sword:**
-そして、<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>に二人仲良く連れ合って&mdash;
+そして、<ruby>斯様<rt>か よ う</rt></ruby>に二人仲良く連れ合って&mdash;
  
 **Man with a Long Sword:**
 特有の魔力とやらを感じなくもない、と来れば間違いなかろうよ。
  
 **Man with a Long Sword:**
-<ruby><rb>英霊</rb><rt>サーヴァント</rt></ruby>と、<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>。だな？
+<ruby>英霊<rt>サーヴァント</rt></ruby>と、<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>。だな？
  
 **Danzo:**
 ！？
@@ -2820,7 +2820,7 @@ We’re looking for our prey. Our Casters.
 都の守護たる頼光四天王が筆頭。天下の宝刀髭切を預かる、源氏の武者。
  
 **Man with a Long Sword:**
-&mdash;<ruby><rb>内舎人</rb><rt>う ど ね り</rt></ruby><ruby><rb>渡辺綱</rb><rt>わたなべのつな</rt></ruby>、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に推参。
+&mdash;<ruby>内舎人<rt>う ど ね り</rt></ruby><ruby>渡辺綱<rt>わたなべのつな</rt></ruby>、<ruby>此処<rt>こ　こ</rt></ruby>に推参。
  
 ## Section 2: Heian Warrior 
  
@@ -2831,7 +2831,7 @@ We’re looking for our prey. Our Casters.
 天下の宝刀髭切を預かる、源氏の武者。
  
 **Man with a Long Sword:**
-<ruby><rb>内舎人</rb><rt>う ど ね り</rt></ruby>渡辺綱、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に推参。
+<ruby>内舎人<rt>う ど ね り</rt></ruby>渡辺綱、<ruby>此処<rt>こ　こ</rt></ruby>に推参。
  
 ---
 
@@ -2854,7 +2854,7 @@ We’re looking for our prey. Our Casters.
 然り。無双の怪異殺しです！
  
 **Danzo:**
-ならば腰に<ruby><rb>佩</rb><rt>は</rt></ruby>いたる見事な太刀！まさしく、天下の剣たる<ruby><rb>伯耆</rb><rt>ほ う き</rt></ruby>の鬼切安綱か……
+ならば腰に<ruby>佩<rt>は</rt></ruby>いたる見事な太刀！まさしく、天下の剣たる<ruby>伯耆<rt>ほ う き</rt></ruby>の鬼切安綱か……
  
 
 ---
@@ -2864,10 +2864,10 @@ We’re looking for our prey. Our Casters.
 （敵か、味方か！）
  
 **Danzo:**
-（我らを襲う怪異を<ruby><rb>屠</rb><rt>ほふ</rt></ruby>ったのは確かなれども、　我が胸の<ruby><rb>裡</rb><rt>うち</rt></ruby>、回路ならざる部分が何かを叫ぶ！）
+（我らを襲う怪異を<ruby>屠<rt>ほふ</rt></ruby>ったのは確かなれども、　我が胸の<ruby>裡<rt>うち</rt></ruby>、回路ならざる部分が何かを叫ぶ！）
  
 **Danzo:**
-（<ruby><rb>臨戦態勢</rb><rt>りんせんたいせい</rt></ruby>、解除してはいけない！　マスター守護のため全霊を懸けねば&mdash;段蔵！）
+（<ruby>臨戦態勢<rt>りんせんたいせい</rt></ruby>、解除してはいけない！　マスター守護のため全霊を懸けねば&mdash;段蔵！）
  
 **Watanabe no Tsuna:**
 キャスター。
@@ -2894,13 +2894,13 @@ We’re looking for our prey. Our Casters.
 そうか。無情な事もある。
  
 **Watanabe no Tsuna:**
-許せ、[♂異境の男/♀異境の娘]。一度は<ruby><rb>掬</rb><rt>すく</rt></ruby>いとった命だが……
+許せ、[♂異境の男/♀異境の娘]。一度は<ruby>掬<rt>すく</rt></ruby>いとった命だが……
  
 **Watanabe no Tsuna:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>も天覧聖杯戦争なれば、やむを得ず。
+<ruby>是<rt>これ</rt></ruby>も天覧聖杯戦争なれば、やむを得ず。
  
 **Watanabe no Tsuna:**
-<ruby><rb>藤原道長</rb><rt>ふじわらのみちなが</rt></ruby>公の言の葉、今や、天よりの勅に等しきものと心得るがよい。
+<ruby>藤原道長<rt>ふじわらのみちなが</rt></ruby>公の言の葉、今や、天よりの勅に等しきものと心得るがよい。
  
 ---
 
@@ -2912,7 +2912,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Watanabe no Tsuna:**
-覚悟！&mdash;<ruby><rb>異境の術者</rb><rt>キ　ャ　ス　タ　ー</rt></ruby>！
+覚悟！&mdash;<ruby>異境の術者<rt>キ　ャ　ス　タ　ー</rt></ruby>！
  
 ---
 
@@ -2935,16 +2935,16 @@ We’re looking for our prey. Our Casters.
 ほう！
  
 **Watanabe no Tsuna:**
-俺の間合いに割って入る！その妙なる歩法、なかなかに<ruby><rb>疾</rb><rt>はや</rt></ruby>いとみたぞ！
+俺の間合いに割って入る！その妙なる歩法、なかなかに<ruby>疾<rt>はや</rt></ruby>いとみたぞ！
  
 **Danzo:**
 ……ッ！
  
 **Danzo:**
-（目視不能の<ruby><rb>疾</rb><rt>はや</rt></ruby>き剣！）
+（目視不能の<ruby>疾<rt>はや</rt></ruby>き剣！）
  
 **Danzo:**
-（それでいて、剛剣！　四肢が<ruby><rb>軋</rb><rt>きし</rt></ruby>む！　サーヴァントたる段蔵を凌駕する、武技の極み！）
+（それでいて、剛剣！　四肢が<ruby>軋<rt>きし</rt></ruby>む！　サーヴァントたる段蔵を凌駕する、武技の極み！）
  
 **Danzo:**
 （流石は頼光四天王、筆頭か！！）
@@ -2953,7 +2953,7 @@ We’re looking for our prey. Our Casters.
 （しかし何故、四天王が我らを襲う？　何故、渡辺綱殿がサーヴァントを連れている？）
  
 **Danzo:**
-（いずれも<ruby><rb>不明</rb><rt>わからず</rt></ruby>。　なれども、マシュ殿と小太郎殿の姿なき今は！）
+（いずれも<ruby>不明<rt>わからず</rt></ruby>。　なれども、マシュ殿と小太郎殿の姿なき今は！）
  
 **Danzo:**
 （段蔵が&mdash;何としても！！）
@@ -2979,7 +2979,7 @@ We’re looking for our prey. Our Casters.
 ふむ。
  
 **Medea Lily:**
-お気をつけください、綱さま。サーヴァントの手の<ruby><rb>裡</rb><rt>うち</rt></ruby>は未知数です。
+お気をつけください、綱さま。サーヴァントの手の<ruby>裡<rt>うち</rt></ruby>は未知数です。
  
 **Watanabe no Tsuna:**
 ああ。そう云うものだったか。
@@ -3009,13 +3009,13 @@ We’re looking for our prey. Our Casters.
 （英霊は補助に用いるのみ！　神秘ならざる物理を通さぬ英霊を、盾ともせず！）
  
 **Danzo:**
-（<ruby><rb>是</rb><rt>これ</rt></ruby>が、平安武者か！）
+（<ruby>是<rt>これ</rt></ruby>が、平安武者か！）
  
 **Danzo:**
 我らは、争う理由を持ちませぬ。とは云え見る限り、アナタにとっては違う模様。
  
 **Watanabe no Tsuna:**
-<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>の進む道はひとつきりだ。今更、何を。
+<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>の進む道はひとつきりだ。今更、何を。
  
 **Watanabe no Tsuna:**
 定められたるままに、今や京の都は我らの戦いの場。
@@ -3027,13 +3027,13 @@ We’re looking for our prey. Our Casters.
 （この殺気）
  
 **Danzo:**
-（言の葉にて押しとどめるは<ruby><rb>能</rb><rt>あた</rt></ruby>わず！　ならば多少の無理を押してでも、この場は……）
+（言の葉にて押しとどめるは<ruby>能<rt>あた</rt></ruby>わず！　ならば多少の無理を押してでも、この場は……）
  
 **Watanabe no Tsuna:**
 では。参るぞ。
  
 **Danzo:**
-（<ruby><rb>三十六計</rb><rt>さんじゅうろっけい</rt></ruby>！　逃げるにしかず！）
+（<ruby>三十六計<rt>さんじゅうろっけい</rt></ruby>！　逃げるにしかず！）
  
 **Danzo:**
 御免！
@@ -3066,13 +3066,13 @@ We’re looking for our prey. Our Casters.
 否。
  
 **Watanabe no Tsuna:**
-<ruby><rb>目眩</rb><rt>め く ら</rt></ruby>ましだ。毒はない。
+<ruby>目眩<rt>め く ら</rt></ruby>ましだ。毒はない。
  
 **Medea Lily:**
 綱さま、危険です！
  
 **Watanabe no Tsuna:**
-分からんかキャスター。あの女武芸者、見るからに[♂男/♀娘]を<ruby><rb>庇</rb><rt>かば</rt></ruby>っていたぞ。
+分からんかキャスター。あの女武芸者、見るからに[♂男/♀娘]を<ruby>庇<rt>かば</rt></ruby>っていたぞ。
  
 **Watanabe no Tsuna:**
 ならば、少なくとも致死の妖毒を撒きはすまい。
@@ -3092,7 +3092,7 @@ We’re looking for our prey. Our Casters.
 緊急事態にて、ご無礼！
  
 **Danzo:**
-お許しください！<ruby><rb>暫</rb><rt>しばら</rt></ruby>く、段蔵がマスターを抱えて走りまする！
+お許しください！<ruby>暫<rt>しばら</rt></ruby>く、段蔵がマスターを抱えて走りまする！
  
 **Danzo:**
 本来であれば、高く高く跳んで遠く離れるところ……
@@ -3115,7 +3115,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-ご案じめさるな！<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な損傷程度、どうということは……
+ご案じめさるな！<ruby>斯様<rt>か よ う</rt></ruby>な損傷程度、どうということは……
  
 **Danzo:**
 ッ！
@@ -3157,13 +3157,13 @@ We’re looking for our prey. Our Casters.
 遠からず、渡辺綱殿は我らに追いつきましょう。その時には……
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なる醜態の責、ワタシに負わせてくださいませ。
+<ruby>是<rt>これ</rt></ruby>なる醜態の責、ワタシに負わせてくださいませ。
  
 **Danzo:**
 身命に代えても綱殿を足止めし、必ずや隙を作りまする。ですので……
  
 **Danzo:**
-我が右手をお持ちください。<ruby><rb>是</rb><rt>これ</rt></ruby>なる機構、今は沈黙してしまっていますが、
+我が右手をお持ちください。<ruby>是<rt>これ</rt></ruby>なる機構、今は沈黙してしまっていますが、
  
 **Danzo:**
 マスター所有の通信機器以上の精度で、カルデアとの通信機能を……
@@ -3219,7 +3219,7 @@ We’re looking for our prey. Our Casters.
 思い詰めた女が、何だかあれこれ云ってる声だ。涙混じりって訳じゃなさそうだが、本気の声だ。
  
 **C：精悍な声:**
-<ruby><rb>愁嘆場</rb><rt>しゅうたんば</rt></ruby>か？
+<ruby>愁嘆場<rt>しゅうたんば</rt></ruby>か？
  
 **C：精悍な声:**
 ああ、そうかもしれん。そうでないかもしれん。
@@ -3228,7 +3228,7 @@ We’re looking for our prey. Our Casters.
 オイラ、ちいっとばかし不得手なもんで&mdash;
  
 **C：精悍な声:**
-邪魔だってンなら云ってくれ。すぐ<ruby><rb>退</rb><rt>ど</rt></ruby>くからよ。
+邪魔だってンなら云ってくれ。すぐ<ruby>退<rt>ど</rt></ruby>くからよ。
  
 **C：精悍な声:**
 …………でもよ。
@@ -3255,7 +3255,7 @@ We’re looking for our prey. Our Casters.
 化生や盗人に追われてンのか？家は何処だい？
  
 **Danzo:**
-…………<ruby><rb>金色</rb><rt>こんじき</rt></ruby>の髪…………！
+…………<ruby>金色<rt>こんじき</rt></ruby>の髪…………！
  
 **Danzo:**
 では、アナタは……もしや……
@@ -3324,10 +3324,10 @@ We’re looking for our prey. Our Casters.
 <u>金時</u>。
  
 **Watanabe no Tsuna:**
-そこを<ruby><rb>退</rb><rt>ど</rt></ruby>け。邪魔だ。
+そこを<ruby>退<rt>ど</rt></ruby>け。邪魔だ。
  
 **Watanabe no Tsuna:**
-おまえには用はない。俺は<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の黒髪の女と、[♂男/♀娘]に用がある。
+おまえには用はない。俺は<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>の黒髪の女と、[♂男/♀娘]に用がある。
  
 **Sakata Kintoki:**
 へえ。そうかい？
@@ -3336,7 +3336,7 @@ We’re looking for our prey. Our Casters.
 金時。
  
 **Sakata Kintoki:**
-こんな夜更けだ。<ruby><rb>丑三</rb><rt>うしみ</rt></ruby>つ<ruby><rb>時</rb><rt>どき</rt></ruby>も過ぎたかって頃に……
+こんな夜更けだ。<ruby>丑三<rt>うしみ</rt></ruby>つ<ruby>時<rt>どき</rt></ruby>も過ぎたかって頃に……
  
 **Sakata Kintoki:**
 女子供を歩かせるのは寝覚めが悪ィや。オレは、コイツらを<u>送っていく</u>とこだ。
@@ -3399,7 +3399,7 @@ We’re looking for our prey. Our Casters.
 成る程。一理あるが。
  
 **Watanabe no Tsuna:**
-どちらも、子、というほどの<ruby><rb>齢</rb><rt>よわい</rt></ruby>でもあるまい？
+どちらも、子、というほどの<ruby>齢<rt>よわい</rt></ruby>でもあるまい？
  
 **Sakata Kintoki:**
 ……はァ。
@@ -3408,7 +3408,7 @@ We’re looking for our prey. Our Casters.
 兄ィにはそう見えンのかもな。でも、オレっちにはそうは見えねえんだ。
  
 **Sakata Kintoki:**
-あっちの[♂黒髪の坊や/♀赤髪の娘]は、まだまだ<ruby><rb>餓鬼</rb><rt>ガ　キ</rt></ruby>さ。
+あっちの[♂黒髪の坊や/♀赤髪の娘]は、まだまだ<ruby>餓鬼<rt>ガ　キ</rt></ruby>さ。
  
 **Sakata Kintoki:**
 夜闇の暗さに怯えちまっても、道に迷って泣きじゃくってもいい年頃だ。
@@ -3429,7 +3429,7 @@ We’re looking for our prey. Our Casters.
 …………おまえは愉快だな。金時。
  
 **Watanabe no Tsuna:**
-だが、<ruby><rb>是</rb><rt>これ</rt></ruby>は天覧聖杯戦争である。下がれ。
+だが、<ruby>是<rt>これ</rt></ruby>は天覧聖杯戦争である。下がれ。
  
 ---
 
@@ -3453,7 +3453,7 @@ We’re looking for our prey. Our Casters.
 ならば斬る！ 
  
 **Sakata Kintoki:**
-やってみやがれ<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>野郎！ 
+やってみやがれ<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>野郎！ 
  
 **--BATTLE--**
  
@@ -3482,7 +3482,7 @@ We’re looking for our prey. Our Casters.
 危ねえ危ねえ！
  
 **Watanabe no Tsuna:**
-髭切を受けて尚、<ruby><rb>刃毀</rb><rt>は こ ぼ</rt></ruby>れなし！それでこそ！
+髭切を受けて尚、<ruby>刃毀<rt>は こ ぼ</rt></ruby>れなし！それでこそ！
  
 **Watanabe no Tsuna:**
 おおおッ！
@@ -3500,7 +3500,7 @@ We’re looking for our prey. Our Casters.
 おまえとやり合うのは愉しいが、悪いな金時。
  
 **Watanabe no Tsuna:**
-天覧武者の資格持たぬ四天王を<ruby><rb>何</rb><rt>い</rt></ruby><ruby><rb>時</rb><rt>つ</rt></ruby>までも相手取る程、俺も<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>ではない。
+天覧武者の資格持たぬ四天王を<ruby>何<rt>い</rt></ruby><ruby>時<rt>つ</rt></ruby>までも相手取る程、俺も<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>ではない。
  
 **Watanabe no Tsuna:**
 フッ！
@@ -3509,7 +3509,7 @@ We’re looking for our prey. Our Casters.
 ……つぁ！？
  
 **Watanabe no Tsuna:**
-この場に在るキャスターは二騎！ならば、<ruby><rb>戴</rb><rt>いただ</rt></ruby>く<ruby><rb>首級</rb><rt>しるし</rt></ruby>もまた<u>ひとつきり</u>！
+この場に在るキャスターは二騎！ならば、<ruby>戴<rt>いただ</rt></ruby>く<ruby>首級<rt>しるし</rt></ruby>もまた<u>ひとつきり</u>！
  
 **Danzo:**
 （綱殿の狙いは&mdash;）
@@ -3608,7 +3608,7 @@ We’re looking for our prey. Our Casters.
 いや、いい。早合点をした俺の責だ。
  
 **Watanabe no Tsuna:**
-……<ruby><rb>洛内</rb><rt>らくない</rt></ruby>ではまず見ぬ異境の<ruby><rb>衣</rb><rt>ころも</rt></ruby>、それに何らかの妖術を行使する素振りもあった。
+……<ruby>洛内<rt>らくない</rt></ruby>ではまず見ぬ異境の<ruby>衣<rt>ころも</rt></ruby>、それに何らかの妖術を行使する素振りもあった。
  
 **Watanabe no Tsuna:**
 考えを改める機がついぞなかった。やはり、我が身の未熟だ。
@@ -3623,10 +3623,10 @@ We’re looking for our prey. Our Casters.
 って、おう。何だい、兄ィ。
  
 **Watanabe no Tsuna:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は退く。俺が求めるのはキャスターの<ruby><rb>首級</rb><rt>しるし</rt></ruby>だけだ。
+<ruby>此処<rt>こ　こ</rt></ruby>は退く。俺が求めるのはキャスターの<ruby>首級<rt>しるし</rt></ruby>だけだ。
  
 **Watanabe no Tsuna:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の[♂男/♀娘]を連れて、何処へなりとも行くがよい。
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>の[♂男/♀娘]を連れて、何処へなりとも行くがよい。
  
 **Watanabe no Tsuna:**
 だが……
@@ -3689,7 +3689,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Sakata Kintoki:**
-はー、久々に痺れちまったぜ。本気じゃなくても太刀<ruby><rb>佩</rb><rt>は</rt></ruby>いた兄ィとヤるなんてなァ！
+はー、久々に痺れちまったぜ。本気じゃなくても太刀<ruby>佩<rt>は</rt></ruby>いた兄ィとヤるなんてなァ！
  
 **Sakata Kintoki:**
 アンタら、誇っていいぜ！あの渡辺綱と渡り合って胴と首が繋がったまま、
@@ -3733,7 +3733,7 @@ We’re looking for our prey. Our Casters.
 セイギ？
  
 **Sakata Kintoki:**
-うお<ruby><rb>吃驚</rb><rt>びっくり</rt></ruby>したぁ！
+うお<ruby>吃驚<rt>びっくり</rt></ruby>したぁ！
  
 **Sakata Kintoki:**
 な、なんだ、気配ごと消えてなかったかアンタ！
@@ -3768,37 +3768,37 @@ We’re looking for our prey. Our Casters.
 ## Section 3: Heavenly Holy Grail War 
  
 **？？？:**
-&mdash;<ruby><rb>是</rb><rt>これ</rt></ruby>は、<ruby><rb>千載一遇</rb><rt>せんざいいちぐう</rt></ruby>の機にございましょうぞ。
+&mdash;<ruby>是<rt>これ</rt></ruby>は、<ruby>千載一遇<rt>せんざいいちぐう</rt></ruby>の機にございましょうぞ。
  
 **？？？:**
-安倍晴明殿が考案したる儀式、<ruby><rb>古今東西</rb><rt>ここんとうざい</rt></ruby>を探しても見当たらぬ<ruby><rb>驚天動地</rb><rt>きょうてんどうち</rt></ruby>の大術式！
+安倍晴明殿が考案したる儀式、<ruby>古今東西<rt>ここんとうざい</rt></ruby>を探しても見当たらぬ<ruby>驚天動地<rt>きょうてんどうち</rt></ruby>の大術式！
  
 **？？？:**
 名を、天覧聖杯戦争！
  
 **？？？:**
-畏れ多くも左大臣藤原道長殿の名の下、我が<ruby><rb>陰陽</rb><rt>おんみょう</rt></ruby>のわざ、そして陰陽寮の皆々さまの御力を以て、
+畏れ多くも左大臣藤原道長殿の名の下、我が<ruby>陰陽<rt>おんみょう</rt></ruby>のわざ、そして陰陽寮の皆々さまの御力を以て、
  
 **？？？:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なる儀式は執り行われるのでございます。
+<ruby>是<rt>これ</rt></ruby>なる儀式は執り行われるのでございます。
  
 **？？？:**
-異境異界より呼び寄せたる 七騎の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>の英霊ども……
+異境異界より呼び寄せたる 七騎の<ruby>術者<rt>キャスター</rt></ruby>の英霊ども……
  
 **？？？:**
-そして七騎の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>の<ruby><rb>主人</rb><rt>マスター</rt></ruby>として 選ばるるは、総勢七名の猛者！
+そして七騎の<ruby>術者<rt>キャスター</rt></ruby>の<ruby>主人<rt>マスター</rt></ruby>として 選ばるるは、総勢七名の猛者！
  
 **？？？:**
-最後に残った一名一騎には、<ruby><rb>栄耀栄華</rb><rt>えいようえいが</rt></ruby>、あらゆる願いが叶えられる&mdash;
+最後に残った一名一騎には、<ruby>栄耀栄華<rt>えいようえいが</rt></ruby>、あらゆる願いが叶えられる&mdash;
  
 **？？？:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>を左大臣殿よりの約定とすることで、七名七騎が<ruby><rb>全身全霊</rb><rt>ぜんしんぜんれい</rt></ruby>を以て儀式にあたること、確実！
+<ruby>是<rt>これ</rt></ruby>を左大臣殿よりの約定とすることで、七名七騎が<ruby>全身全霊<rt>ぜんしんぜんれい</rt></ruby>を以て儀式にあたること、確実！
  
 **？？？:**
 そして！
  
 **？？？:**
-<ruby><rb>術者</rb><rt>キャスター</rt></ruby>どもの命を捧げることで！京の守護は、比類なきものとして著しく強化され、
+<ruby>術者<rt>キャスター</rt></ruby>どもの命を捧げることで！京の守護は、比類なきものとして著しく強化され、
  
 **？？？:**
 千年の平安を得るのです！
@@ -3807,7 +3807,7 @@ We’re looking for our prey. Our Casters.
 なんと云う見事！　なんと云う合理！
  
 **？？？:**
-……<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>に、晴明殿の<ruby><rb>文</rb><rt>ふみ</rt></ruby>には記されてございます。やはり何たる<ruby><rb>千載一遇</rb><rt>せんざいいちぐう</rt></ruby>にございましょうや。
+……<ruby>斯様<rt>か よ う</rt></ruby>に、晴明殿の<ruby>文<rt>ふみ</rt></ruby>には記されてございます。やはり何たる<ruby>千載一遇<rt>せんざいいちぐう</rt></ruby>にございましょうや。
  
 **Fujiwara no Michinaga:**
 成る程。
@@ -3819,13 +3819,13 @@ We’re looking for our prey. Our Casters.
 然り。
  
 **Fujiwara no Michinaga:**
-都の守護たる平安武者の命を<ruby><rb>徒</rb><rt>いたず</rt></ruby>らに費やすなぞ、愚の極みなれど……
+都の守護たる平安武者の命を<ruby>徒<rt>いたず</rt></ruby>らに費やすなぞ、愚の極みなれど……
  
 **Fujiwara no Michinaga:**
 異境異界の者どもの命であれば、何、どうと云う事もなし！
  
 **Fujiwara no Michinaga:**
-なれば天覧聖杯戦争、是が非でも推し進めるべし！これは<ruby><rb>帝</rb><rt>みかど</rt></ruby>の<ruby><rb>言</rb><rt>げん</rt></ruby>であると心得よ！
+なれば天覧聖杯戦争、是が非でも推し進めるべし！これは<ruby>帝<rt>みかど</rt></ruby>の<ruby>言<rt>げん</rt></ruby>であると心得よ！
  
 **Fujiwara no Michinaga:**
 はははははははははははははははは！我らが平安京、千年の京として後世に名を遺そうぞ！
@@ -3836,7 +3836,7 @@ We’re looking for our prey. Our Casters.
 と&mdash;
  
 **Narration:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>が、数日前のこと。残酷にはしゃぐ藤原道長の姿があったと云う。
+<ruby>是<rt>これ</rt></ruby>が、数日前のこと。残酷にはしゃぐ藤原道長の姿があったと云う。
  
 ---
 
@@ -3888,22 +3888,22 @@ We’re looking for our prey. Our Casters.
 内裏で密かに儀式が始まってから 数日、あー、七日やそこらか。
  
 **Sakata Kintoki:**
-既に、七騎のうち二騎の英霊が命を落とした。ソイツらの<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>は&mdash;いずれも四天王。
+既に、七騎のうち二騎の英霊が命を落とした。ソイツらの<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>は&mdash;いずれも四天王。
  
 **Danzo:**
 ！
  
 **Danzo:**
-では、<ruby><rb>靫負尉</rb><rt>ゆげいのじょう</rt></ruby><ruby><rb>碓井貞光</rb><rt>うすいさだみつ</rt></ruby>殿と！<ruby><rb>勘解由</rb><rt>か　げ　ゆ</rt></ruby><ruby><rb>判官</rb><rt>ほうがん</rt></ruby><ruby><rb>卜部季武</rb><rt>うらべのすえたけ</rt></ruby>殿！
+では、<ruby>靫負尉<rt>ゆげいのじょう</rt></ruby><ruby>碓井貞光<rt>うすいさだみつ</rt></ruby>殿と！<ruby>勘解由<rt>か　げ　ゆ</rt></ruby><ruby>判官<rt>ほうがん</rt></ruby><ruby>卜部季武<rt>うらべのすえたけ</rt></ruby>殿！
  
 **Sakata Kintoki:**
-アンタ詳しいなァ。そうさ、<ruby><rb>碓井</rb><rt>う す い</rt></ruby>の兄ィと<ruby><rb>卜部</rb><rt>う ら べ</rt></ruby>のオッサン！
+アンタ詳しいなァ。そうさ、<ruby>碓井<rt>う す い</rt></ruby>の兄ィと<ruby>卜部<rt>う ら べ</rt></ruby>のオッサン！
  
 **Sakata Kintoki:**
 音に聞く頼光四天王の一角が二人さ！テメェの英霊を失った上、手傷を負っちまった。
  
 **Sakata Kintoki:**
-命に大事こそないものの、<ruby><rb>暫</rb><rt>しばら</rt></ruby>くは有馬あたりで湯治だろうよ。
+命に大事こそないものの、<ruby>暫<rt>しばら</rt></ruby>くは有馬あたりで湯治だろうよ。
  
 **Sakata Kintoki:**
 ンで&mdash;
@@ -3927,7 +3927,7 @@ We’re looking for our prey. Our Casters.
 なにせ兄貴は強い。
  
 **Sakata Kintoki:**
-ウチの大将……源氏の現<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>、源頼光殿は兄貴を指して云った。
+ウチの大将……源氏の現<ruby>棟梁<rt>とうりょう</rt></ruby>、源頼光殿は兄貴を指して云った。
  
 **Sakata Kintoki:**
 人の身で為し得る“最強”の具現、<u>人界最強の武者</u>だってな！
@@ -4000,7 +4000,7 @@ We’re looking for our prey. Our Casters.
 あまりに、あからさまな差異。
  
 **Danzo:**
-ならば、<ruby><rb>是</rb><rt>これ</rt></ruby>なるはリンボの仕掛けた罠&mdash;
+ならば、<ruby>是<rt>これ</rt></ruby>なるはリンボの仕掛けた罠&mdash;
  
 **Sakata Kintoki:**
 リンボ？何の話してんだ？
@@ -4030,7 +4030,7 @@ We’re looking for our prey. Our Casters.
 道満法師の没年は 人類史に於いて不詳でありますし……
  
 **Danzo:**
-西暦一〇〇八年。<ruby><rb>寛弘</rb><rt>かんこう</rt></ruby>五年の京、生前の道満がいても不思議はなく。
+西暦一〇〇八年。<ruby>寛弘<rt>かんこう</rt></ruby>五年の京、生前の道満がいても不思議はなく。
  
 **Danzo:**
 リンボと生前の道満がどう関わるかは不明ですが、やはり、聖杯戦争を持ち込んだのは……
@@ -4054,7 +4054,7 @@ We’re looking for our prey. Our Casters.
 余地、ですか。
  
 **Danzo:**
-通説では、晴明殿は<ruby><rb>寛弘</rb><rt>かんこう</rt></ruby>二年の没と伝えられますが……
+通説では、晴明殿は<ruby>寛弘<rt>かんこう</rt></ruby>二年の没と伝えられますが……
  
 **Sakata Kintoki:**
 ははあ、そう云うこともあるか！なにせ晴明殿、お若く見えるが爺だしなァ。
@@ -4069,7 +4069,7 @@ We’re looking for our prey. Our Casters.
 もうひと月になるかなァ……
  
 **Sakata Kintoki:**
-どっかに消えちまったんだよ晴明殿。で、<ruby><rb>文</rb><rt>ふみ</rt></ruby>だけで天覧聖杯戦争の術式を報せてきた。
+どっかに消えちまったんだよ晴明殿。で、<ruby>文<rt>ふみ</rt></ruby>だけで天覧聖杯戦争の術式を報せてきた。
  
 **Danzo:**
 ……。……。
@@ -4147,10 +4147,10 @@ We’re looking for our prey. Our Casters.
 京の威光なんざ意に介さねえ荘園やら 坂東の乱の残党やらも、東国あたりにゃ山といるんだぜ。
  
 **Sakata Kintoki:**
-<ruby><rb>平安武者</rb><rt>オ　レ　た　ち</rt></ruby>の御役目はいつまでも終わらねえ。
+<ruby>平安武者<rt>オ　レ　た　ち</rt></ruby>の御役目はいつまでも終わらねえ。
  
 **Sakata Kintoki:**
-オレの育った御山なんぞより、余程、怖えところだぜ。<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は。
+オレの育った御山なんぞより、余程、怖えところだぜ。<ruby>此処<rt>こ　こ</rt></ruby>は。
  
 ---
 
@@ -4165,10 +4165,10 @@ We’re looking for our prey. Our Casters.
 …………だからこそ、かもなぁ。
  
 **Sakata Kintoki:**
-天下の左大臣殿が天覧聖杯戦争なんぞに<ruby><rb>縋</rb><rt>すが</rt></ruby>って、千年の平安を求めちまう。
+天下の左大臣殿が天覧聖杯戦争なんぞに<ruby>縋<rt>すが</rt></ruby>って、千年の平安を求めちまう。
  
 **Sakata Kintoki:**
-<ruby><rb>千年の平安</rb><rt>そ　ん　な　も　の</rt></ruby>が見えねえからこそ、願うんだ。
+<ruby>千年の平安<rt>そ　ん　な　も　の</rt></ruby>が見えねえからこそ、願うんだ。
  
 **Danzo:**
 ……。……。
@@ -4206,13 +4206,13 @@ We’re looking for our prey. Our Casters.
 あー、そうそう。そんな名だったか！令呪。あかしの紋さ。
  
 **Sakata Kintoki:**
-かく言うオレ自身も、天覧聖杯戦争の<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>って奴なんだな、実は。
+かく言うオレ自身も、天覧聖杯戦争の<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>って奴なんだな、実は。
  
 **Sakata Kintoki:**
 つまるとこ、だ。なあおい！
  
 **Sakata Kintoki:**
-アンタがオレの<ruby><rb>英霊</rb><rt>サーヴァント</rt></ruby>&mdash;じゃねえのか？藤丸！
+アンタがオレの<ruby>英霊<rt>サーヴァント</rt></ruby>&mdash;じゃねえのか？藤丸！
  
 **--ARROW--**
  
@@ -4229,7 +4229,7 @@ We’re looking for our prey. Our Casters.
 有り得ざる儀式、天覧聖杯戦争！
  
 **？？？:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>こそは、拙僧が『異星の神』の使徒として 現界果たせし時より独自の研鑽を重ねたる術の最果て！
+<ruby>是<rt>これ</rt></ruby>こそは、拙僧が『異星の神』の使徒として 現界果たせし時より独自の研鑽を重ねたる術の最果て！
  
 **？？？:**
 我が掌中、我が亜種並行世界……
@@ -4241,7 +4241,7 @@ We’re looking for our prey. Our Casters.
 …………カルデアの皆々さま。
  
 **？？？:**
-最後の最後には、ええ。拙僧だけが高らかに<ruby><rb>嗤</rb><rt>わら</rt></ruby>うことになりましょうが！
+最後の最後には、ええ。拙僧だけが高らかに<ruby>嗤<rt>わら</rt></ruby>うことになりましょうが！
  
 **？？？:**
 どうか！とくと！
@@ -4285,10 +4285,10 @@ We’re looking for our prey. Our Casters.
 
  
 **Sakata Kintoki:**
-はぁ。アンタは<ruby><rb>英霊</rb><rt>サーヴァント</rt></ruby>じゃねえのかぁ……
+はぁ。アンタは<ruby>英霊<rt>サーヴァント</rt></ruby>じゃねえのかぁ……
  
 **Sakata Kintoki:**
-しかもこっちの娘御が<ruby><rb>英霊</rb><rt>サーヴァント</rt></ruby>で、しかも術者じゃねえ、斥候の類ときた。
+しかもこっちの娘御が<ruby>英霊<rt>サーヴァント</rt></ruby>で、しかも術者じゃねえ、斥候の類ときた。
  
 **Sakata Kintoki:**
 訳がわからねえなあ！
@@ -4306,7 +4306,7 @@ We’re looking for our prey. Our Casters.
 そっか！　だから綱の兄貴が見逃したのか！あの渡辺綱が獲物を前にあっさり引き下がりやがって、
  
 **Sakata Kintoki:**
-こいつはどうしたことかと目を<ruby><rb>剥</rb><rt>む</rt></ruby>いたが、成る程！　そもそも獲物じゃねえと合点したか！
+こいつはどうしたことかと目を<ruby>剥<rt>む</rt></ruby>いたが、成る程！　そもそも獲物じゃねえと合点したか！
  
 **Sakata Kintoki:**
 ははあ……
@@ -4321,10 +4321,10 @@ We’re looking for our prey. Our Casters.
 …………じゃあアンタら、一体、何なんだ？
  
 **Sakata Kintoki:**
-ふんふん。剪定事象、<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>……レイシフトに特異点、か……
+ふんふん。剪定事象、<ruby>異聞帯<rt>ロストベルト</rt></ruby>……レイシフトに特異点、か……
  
 **Sakata Kintoki:**
-明日の明日のそのまた明日、ずっとずっと先からやって来た<ruby><rb>客人</rb><rt>まれびと</rt></ruby>か。
+明日の明日のそのまた明日、ずっとずっと先からやって来た<ruby>客人<rt>まれびと</rt></ruby>か。
  
 **Sakata Kintoki:**
 明日の先、ねえ。
@@ -4435,7 +4435,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Sakata Kintoki:**
-悪ィなあ、雨露<ruby><rb>凌</rb><rt>しの</rt></ruby>げる寝床も用意してやりてえが！
+悪ィなあ、雨露<ruby>凌<rt>しの</rt></ruby>げる寝床も用意してやりてえが！
  
 **Sakata Kintoki:**
 オレの顔が利く場所ってのはつまり、源氏にまつわるとこばっかりだ。
@@ -4444,7 +4444,7 @@ We’re looking for our prey. Our Casters.
 綱の兄ィがいつ顔出してくるかも分からねえ。そいつは流石に御免だからな。
  
 **Sakata Kintoki:**
-この数日はのらりくらり<ruby><rb>躱</rb><rt>かわ</rt></ruby>しちゃきたが、次は、左手を改めると云われちまったからな。
+この数日はのらりくらり<ruby>躱<rt>かわ</rt></ruby>しちゃきたが、次は、左手を改めると云われちまったからな。
  
 ---
 
@@ -4462,7 +4462,7 @@ We’re looking for our prey. Our Casters.
 アンタは窮地だった。オイラは助けた。
  
 **Sakata Kintoki:**
-そんだけだ。オレの左手の<ruby><rb>令呪</rb><rt>しるし</rt></ruby>についちゃアンタは関係ねえ。
+そんだけだ。オレの左手の<ruby>令呪<rt>しるし</rt></ruby>についちゃアンタは関係ねえ。
  
 ---
 
@@ -4501,7 +4501,7 @@ We’re looking for our prey. Our Casters.
 む……？
  
 **Danzo:**
-<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>、ですか。このような夜更けに。
+<ruby>牛車<rt>ぎっしゃ</rt></ruby>、ですか。このような夜更けに。
  
 **Sakata Kintoki:**
 どっかのお公家サマだな。大方、詩でも吟じた帰りとかじゃねえのかね？
@@ -4516,13 +4516,13 @@ We’re looking for our prey. Our Casters.
 ……？
  
 **Danzo:**
-<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>が、我らの前で止まりました。これは……
+<ruby>牛車<rt>ぎっしゃ</rt></ruby>が、我らの前で止まりました。これは……
  
 **牛車の中の貴人:**
-<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な夜更けに、見るも艶やかな偉丈夫がひとり&mdash;
+<ruby>斯様<rt>か よ う</rt></ruby>な夜更けに、見るも艶やかな偉丈夫がひとり&mdash;
  
 **牛車の中の貴人:**
-それに何やら訳ありと見ましたが、異境の装束<ruby><rb>纏</rb><rt>まと</rt></ruby>う[♂おのこ/♀めのこ]と、黒髪美しき<ruby><rb>女性</rb><rt>にょしょう</rt></ruby>。
+それに何やら訳ありと見ましたが、異境の装束<ruby>纏<rt>まと</rt></ruby>う[♂おのこ/♀めのこ]と、黒髪美しき<ruby>女性<rt>にょしょう</rt></ruby>。
  
 **牛車の中の貴人:**
 どうされました。もしや、行くあてなくさまよっておられる？
@@ -4549,10 +4549,10 @@ We’re looking for our prey. Our Casters.
 ！
  
 **通りすがった貴人:**
-ほらもー、<ruby><rb>他人行儀</rb><rt>たにんぎょうぎ</rt></ruby>はなしに致しましょう。多少は知った仲なのだし！
+ほらもー、<ruby>他人行儀<rt>たにんぎょうぎ</rt></ruby>はなしに致しましょう。多少は知った仲なのだし！
  
 **通りすがった貴人:**
-お困りとあらば、<ruby><rb>諾子</rb><rt>な ぎ こ</rt></ruby>、もとい清子が力添えしましょうか？
+お困りとあらば、<ruby>諾子<rt>な ぎ こ</rt></ruby>、もとい清子が力添えしましょうか？
  
 ---
 
@@ -4582,7 +4582,7 @@ We’re looking for our prey. Our Casters.
 久しぶり……なのはいいンだけどよ。思わせぶりな言い回しは、もしかして、
  
 **Sakata Kintoki:**
-また<ruby><rb>大陸</rb><rt>むこう</rt></ruby>の詩かね？オイラそっちの方はさっぱりだぜ。
+また<ruby>大陸<rt>むこう</rt></ruby>の詩かね？オイラそっちの方はさっぱりだぜ。
  
 **清子:**
 わはは、気にすんな。あたしも適当に言ってみただけ！
@@ -4672,13 +4672,13 @@ We’re looking for our prey. Our Casters.
 ん。あー、何つーかな。
  
 **Sakata Kintoki:**
-何処の誰々とはっきり云うのはアレなんだが、清子サンは<ruby><rb>正真正銘</rb><rt>しょうしんしょうめい</rt></ruby>の公家。貴族さ。
+何処の誰々とはっきり云うのはアレなんだが、清子サンは<ruby>正真正銘<rt>しょうしんしょうめい</rt></ruby>の公家。貴族さ。
  
 **Sakata Kintoki:**
-今は宮中で何かしてる訳じゃあねえが、僅かなりとも<ruby><rb>洛内</rb><rt>らくない</rt></ruby>に留まるンなら挨拶して損はねえ。
+今は宮中で何かしてる訳じゃあねえが、僅かなりとも<ruby>洛内<rt>らくない</rt></ruby>に留まるンなら挨拶して損はねえ。
  
 **Sakata Kintoki:**
-ま、オレも昔は色々あって、都暮らしに馴染めねえ<ruby><rb>餓鬼</rb><rt>ガ　キ</rt></ruby>の頃とか……
+ま、オレも昔は色々あって、都暮らしに馴染めねえ<ruby>餓鬼<rt>ガ　キ</rt></ruby>の頃とか……
  
 **Sakata Kintoki:**
 へへ。何度か、面倒みてもらっちまってな。
@@ -4699,7 +4699,7 @@ We’re looking for our prey. Our Casters.
 （ですが、実際のところは異なっている。　むしろ清少納言殿の方が生まれは早いのですね）
  
 **Danzo:**
-（……英霊とその実像にまつわる 　<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な<u>ずれ</u>は、ままあることにて）
+（……英霊とその実像にまつわる 　<ruby>斯様<rt>か よ う</rt></ruby>な<u>ずれ</u>は、ままあることにて）
  
 **Danzo:**
 （段蔵も、絡繰でありますしな）
@@ -4717,22 +4717,22 @@ We’re looking for our prey. Our Casters.
 ふうん、家出ね。
  
 **清子:**
-もしかして源氏の本家で何かあった？あ、満仲殿が<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>の座を返上しろと頼光殿に迫った？
+もしかして源氏の本家で何かあった？あ、満仲殿が<ruby>棟梁<rt>とうりょう</rt></ruby>の座を返上しろと頼光殿に迫った？
  
 **清子:**
-清子さんの予想だとねえ、満仲殿は<ruby><rb>非道</rb><rt>ひ　ど</rt></ruby>いよ。武こそ頼光殿に頼りつつも<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>の座をいずれ抹消、
+清子さんの予想だとねえ、満仲殿は<ruby>非道<rt>ひ　ど</rt></ruby>いよ。武こそ頼光殿に頼りつつも<ruby>棟梁<rt>とうりょう</rt></ruby>の座をいずれ抹消、
  
 **清子:**
-他の子を<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>に据えて、頼光殿には、別の源氏を興させるとかありそう～。
+他の子を<ruby>棟梁<rt>とうりょう</rt></ruby>に据えて、頼光殿には、別の源氏を興させるとかありそう～。
  
 **Sakata Kintoki:**
 なんでオレの家出に本家が関係してくんだよ……違う違う、オレがちっとな。やらかしちまったんだ。
  
 **Sakata Kintoki:**
-<ruby><rb>洛外</rb><rt>らくがい</rt></ruby>に出ても良かったんだが、そう云う訳にもいかねえ事情があってさ。
+<ruby>洛外<rt>らくがい</rt></ruby>に出ても良かったんだが、そう云う訳にもいかねえ事情があってさ。
  
 **Sakata Kintoki:**
-夜露を<ruby><rb>凌</rb><rt>しの</rt></ruby>げる場所でもねえかと 考えてたところさ。
+夜露を<ruby>凌<rt>しの</rt></ruby>げる場所でもねえかと 考えてたところさ。
  
 **清子:**
 ふんふん。なるほど。
@@ -4753,13 +4753,13 @@ We’re looking for our prey. Our Casters.
 流石に三人いきなりとなると、半隠居みたいな身にはちと荷が重いからねぇ。
  
 **清子:**
-じゃ、三人ともついといで！ほら御者、<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>動かす！
+じゃ、三人ともついといで！ほら御者、<ruby>牛車<rt>ぎっしゃ</rt></ruby>動かす！
  
 **御者:**
 はい。
  
 **Sakata Kintoki:**
-段蔵サンも<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>に乗んな。夜歩きは如何にも傷にさわらぁ。
+段蔵サンも<ruby>牛車<rt>ぎっしゃ</rt></ruby>に乗んな。夜歩きは如何にも傷にさわらぁ。
  
 **Danzo:**
 いえ、ワタシはマスターのお側に。
@@ -4767,7 +4767,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-うん、段蔵さんは<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>に乗って
+うん、段蔵さんは<ruby>牛車<rt>ぎっしゃ</rt></ruby>に乗って
  
 
 ---
@@ -4807,7 +4807,7 @@ We’re looking for our prey. Our Casters.
 （清少納言殿と源氏と云えば）
  
 **Danzo:**
-（兄君である<ruby><rb>清原致信</rb><rt>きよはらのむねのぶ</rt></ruby>殿が、　後年、他ならぬ源氏の者の手にかかるはず）
+（兄君である<ruby>清原致信<rt>きよはらのむねのぶ</rt></ruby>殿が、　後年、他ならぬ源氏の者の手にかかるはず）
  
 **Danzo:**
 （さりとて……　今、何を言える訳でもなし……）
@@ -4842,7 +4842,7 @@ We’re looking for our prey. Our Casters.
 **--BATTLE--**
  
 **Sakata Kintoki:**
-よっ、と。今ので<ruby><rb>終</rb><rt>しま</rt></ruby>いだな！
+よっ、と。今ので<ruby>終<rt>しま</rt></ruby>いだな！
  
 ---
 
@@ -4891,10 +4891,10 @@ We’re looking for our prey. Our Casters.
 やあ、ついたついた！
  
 **Danzo:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は……？
+<ruby>此処<rt>こ　こ</rt></ruby>は……？
  
 **清子:**
-知ってるかな？いま<ruby><rb>巷</rb><rt>ちまた</rt></ruby>で話題の<u>源氏の物語</u>！
+知ってるかな？いま<ruby>巷<rt>ちまた</rt></ruby>で話題の<u>源氏の物語</u>！
  
 **清子:**
 その作者、紫式部ちゃんのお屋敷でーす！
@@ -4929,7 +4929,7 @@ We’re looking for our prey. Our Casters.
 きっと、困ってる人がいたらさ、見過ごしておけない系の女の子だって！
  
 **Sakata Kintoki:**
-（流石に<ruby><rb>女</rb><rt>め</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>って歳じゃなくねえ？）
+（流石に<ruby>女<rt>め</rt></ruby>の<ruby>子<rt>こ</rt></ruby>って歳じゃなくねえ？）
  
 **清子:**
 せえい！
@@ -4941,7 +4941,7 @@ We’re looking for our prey. Our Casters.
 と云うわけで、紫式部ちゃんのお屋敷到着だ。
  
 **清子:**
-中宮様の女房さんでね、宮中で働きつつ物語を<ruby><rb>綴</rb><rt>つづ</rt></ruby>ってる人なんだぜ。
+中宮様の女房さんでね、宮中で働きつつ物語を<ruby>綴<rt>つづ</rt></ruby>ってる人なんだぜ。
  
 ---
 
@@ -4956,7 +4956,7 @@ We’re looking for our prey. Our Casters.
 んー、それじゃあさ。
  
 **清子:**
-『<ruby><rb>草</rb><rt>くさ</rt></ruby>の<ruby><rb>庵</rb><rt>いおり</rt></ruby>』がよろしく云ってた、って伝えておいてよ。
+『<ruby>草<rt>くさ</rt></ruby>の<ruby>庵<rt>いおり</rt></ruby>』がよろしく云ってた、って伝えておいてよ。
  
 **清子:**
 あの子になら、多分……じゃなくてまず伝わると思うから、あはは！
@@ -4980,13 +4980,13 @@ We’re looking for our prey. Our Casters.
 流石に、危ういのではと。段蔵は考えまする。
  
 **Sakata Kintoki:**
-そうでもないぜ？なにせ、貴人の<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>には式神が幾つか付いてる。
+そうでもないぜ？なにせ、貴人の<ruby>牛車<rt>ぎっしゃ</rt></ruby>には式神が幾つか付いてる。
  
 **Sakata Kintoki:**
-土蜘蛛あたりなら<ruby><rb>拙</rb><rt>まず</rt></ruby>いが、まあ、大路には陰陽寮が仕込んだ結界もある。
+土蜘蛛あたりなら<ruby>拙<rt>まず</rt></ruby>いが、まあ、大路には陰陽寮が仕込んだ結界もある。
  
 **Sakata Kintoki:**
-小物の怪異程度なら、<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>の式神でポイだ。
+小物の怪異程度なら、<ruby>牛車<rt>ぎっしゃ</rt></ruby>の式神でポイだ。
  
 ---
 
@@ -5015,7 +5015,7 @@ We’re looking for our prey. Our Casters.
 しかし、今しがた怪異を打ち倒したのは、他ならぬ金時殿とマスターなのでは？
  
 **Sakata Kintoki:**
-<ruby><rb>先刻</rb><rt>さっき</rt></ruby>のはまあ……
+<ruby>先刻<rt>さっき</rt></ruby>のはまあ……
  
 **Sakata Kintoki:**
 怪異退治のひとつも見せてやるか、っていう オレから清子サンへのお礼っつーかなんつーかだ。
@@ -5072,7 +5072,7 @@ We’re looking for our prey. Our Casters.
 な、なにか……その……
  
 **Fujiwara no Kaoriko:**
-<ruby><rb>香子</rb><rt>かおるこ</rt></ruby>が、宮中で不手際でも……？
+<ruby>香子<rt>かおるこ</rt></ruby>が、宮中で不手際でも……？
  
 ---
 
@@ -5102,10 +5102,10 @@ We’re looking for our prey. Our Casters.
 お、そうか？
  
 **Sakata Kintoki:**
-で、だ。綱の兄ィと違って、オイラは<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>の真似事なんざやっちゃいねえって話さ。
+で、だ。綱の兄ィと違って、オイラは<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>の真似事なんざやっちゃいねえって話さ。
  
 **Sakata Kintoki:**
-何かを<ruby><rb>咎</rb><rt>とが</rt></ruby>めに来たんじゃねえ。むしろ、お願いっつーかなんつーか。
+何かを<ruby>咎<rt>とが</rt></ruby>めに来たんじゃねえ。むしろ、お願いっつーかなんつーか。
  
 **Fujiwara no Kaoriko:**
 ？？
@@ -5114,10 +5114,10 @@ We’re looking for our prey. Our Casters.
 はっ。
  
 **Danzo:**
-そういえば。渡辺綱殿の装束、<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>のそれを思わせるモノでありました。
+そういえば。渡辺綱殿の装束、<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>のそれを思わせるモノでありました。
  
 **Danzo:**
-段蔵の知る記録では、綱殿が<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>を務めたはずはなく&mdash;
+段蔵の知る記録では、綱殿が<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>を務めたはずはなく&mdash;
  
 **Sakata Kintoki:**
 へえ、そうなのかい。
@@ -5126,10 +5126,10 @@ We’re looking for our prey. Our Casters.
 明日の先ってのはそういう感じか？何でもかんでも残ってる訳じゃねえんだなぁ。
  
 **Sakata Kintoki:**
-綱の兄貴は正規の<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>とは違う。都の守護を仰せつかるにあたり、
+綱の兄貴は正規の<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>とは違う。都の守護を仰せつかるにあたり、
  
 **Sakata Kintoki:**
-そンなら<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>の仕事を知るのも筋だ、つって自分から頭下げて<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>庁に入ったのさ。
+そンなら<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>の仕事を知るのも筋だ、つって自分から頭下げて<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>庁に入ったのさ。
  
 **Sakata Kintoki:**
 根が大真面目なのさ、あのお人は。
@@ -5183,7 +5183,7 @@ We’re looking for our prey. Our Casters.
 そ、それでは、この寒空の下、お客様を無下にする訳には参りませんね&mdash;
  
 **Fujiwara no Kaoriko:**
-お部屋を用意させます。<ruby><rb>女性</rb><rt>にょしょう</rt></ruby>もいらっしゃいますから、<ruby><rb>二間</rb><rt>ふたま</rt></ruby>……
+お部屋を用意させます。<ruby>女性<rt>にょしょう</rt></ruby>もいらっしゃいますから、<ruby>二間<rt>ふたま</rt></ruby>……
  
 **Danzo:**
 ああっ、いえ！
@@ -5271,16 +5271,16 @@ We’re looking for our prey. Our Casters.
 そして何より&mdash;直ちに、<u>本来の予定</u>に基づき行動いたします。
  
 **Sakata Kintoki:**
-お、<ruby><rb>茵</rb><rt>しとね</rt></ruby>が敷いてあらぁ。家人も気が利くねえ。
+お、<ruby>茵<rt>しとね</rt></ruby>が敷いてあらぁ。家人も気が利くねえ。
  
 **Danzo:**
-<ruby><rb>茵</rb><rt>しとね</rt></ruby>、寝具にも使われる敷物ですね。
+<ruby>茵<rt>しとね</rt></ruby>、寝具にも使われる敷物ですね。
  
 **Sakata Kintoki:**
 熱い湯まで貰っちまって、へへ。ここんとこ野宿続きだったから助かったぜ。
  
 **Sakata Kintoki:**
-あのまんま外にいたら、アレだ、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>はもう御山ではないのですから、つって&mdash;
+あのまんま外にいたら、アレだ、<ruby>此処<rt>こ　こ</rt></ruby>はもう御山ではないのですから、つって&mdash;
  
 **Sakata Kintoki:**
 頼光サンの大目玉食らっちまうトコだ。くわばらくわばら！
@@ -5303,7 +5303,7 @@ We’re looking for our prey. Our Casters.
 おう。
  
 **Sakata Kintoki:**
-アンタたちの<ruby><rb>奇想天外</rb><rt>きそうてんがい</rt></ruby>な話を聞いても、呑み込むだけの度量をあの御方は持ってるぜ。
+アンタたちの<ruby>奇想天外<rt>きそうてんがい</rt></ruby>な話を聞いても、呑み込むだけの度量をあの御方は持ってるぜ。
  
 **Sakata Kintoki:**
 そこらへんの武者とは器が違ぇ。だがなぁ。
@@ -5318,13 +5318,13 @@ We’re looking for our prey. Our Casters.
 屋敷の奥に籠もっちまって&mdash;
  
 **Sakata Kintoki:**
-<ruby><rb>碓井</rb><rt>う す い</rt></ruby>の兄ィと<ruby><rb>卜部</rb><rt>う ら べ</rt></ruby>のオッサンがやられても、知らぬ存ぜぬで出て来ようとしやがらねえのさ。
+<ruby>碓井<rt>う す い</rt></ruby>の兄ィと<ruby>卜部<rt>う ら べ</rt></ruby>のオッサンがやられても、知らぬ存ぜぬで出て来ようとしやがらねえのさ。
  
 **Sakata Kintoki:**
 身内でやり合うのが相当こたえたのか、或いは、やっぱし&mdash;
  
 **Sakata Kintoki:**
-（<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>の一人、なのかだ）
+（<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>の一人、なのかだ）
  
 **Mash:**
 先輩！
@@ -5497,7 +5497,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-は。<ruby><rb>十中八九</rb><rt>じっちゅうはっく</rt></ruby>。
+は。<ruby>十中八九<rt>じっちゅうはっく</rt></ruby>。
  
 **Danzo:**
 ……。……。
@@ -5509,7 +5509,7 @@ We’re looking for our prey. Our Casters.
 よくわからねえんだが、ひとつ確かめてえ。横から悪いな。
  
 **Sakata Kintoki:**
-取りあえず、だ。アンタたちのはぐれた仲間は<ruby><rb>故郷</rb><rt>カルデア</rt></ruby>にいるんだな？
+取りあえず、だ。アンタたちのはぐれた仲間は<ruby>故郷<rt>カルデア</rt></ruby>にいるんだな？
  
 **Sakata Kintoki:**
 オレはそう捉えた。それで間違っちゃいないか？
@@ -5561,7 +5561,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-まさしく。<ruby><rb>是</rb><rt>これ</rt></ruby>より本当の作戦開始かと。
+まさしく。<ruby>是<rt>これ</rt></ruby>より本当の作戦開始かと。
  
 **Sakata Kintoki:**
 &mdash;よッし。佳い顔になったな！
@@ -5597,7 +5597,7 @@ We’re looking for our prey. Our Casters.
 で、だ。そっちの、そこの。ちっこい美人サンは誰だい？
  
 **Sakata Kintoki:**
-ただの<ruby><rb>餓鬼</rb><rt>ガ　キ</rt></ruby>じゃあねえんだろう？眼力っつーか肌にピリピリ来る御仁だぜ。
+ただの<ruby>餓鬼<rt>ガ　キ</rt></ruby>じゃあねえんだろう？眼力っつーか肌にピリピリ来る御仁だぜ。
  
 **Sakata Kintoki:**
 陰陽師か？それとも仙人、天狗の類か？
@@ -5615,7 +5615,7 @@ We’re looking for our prey. Our Casters.
 私はレオナルド・ダ・ヴィンチ。藤丸の仲間で、天才さ。
  
 **Sakata Kintoki:**
-へえ！　天賦の神童！ソイツは<ruby><rb>重畳</rb><rt>ちょうじょう</rt></ruby>。
+へえ！　天賦の神童！ソイツは<ruby>重畳<rt>ちょうじょう</rt></ruby>。
  
 **Sakata Kintoki:**
 オレは坂田金時ってぇ源氏郎等だ。よろしくな！
@@ -5782,7 +5782,7 @@ We’re looking for our prey. Our Casters.
 召喚するサーヴァントすべてが、キャスター？それはまた思い切ったことを……
  
 **Da Vinci:**
-決戦魔術・英霊召喚を元に考案された 聖杯戦争を、更に<ruby><rb>規模縮小</rb><rt>ダウンサイジング</rt></ruby>している？
+決戦魔術・英霊召喚を元に考案された 聖杯戦争を、更に<ruby>規模縮小<rt>ダウンサイジング</rt></ruby>している？
  
 **Da Vinci:**
 そんなもの、万能の願望機たりえる訳が&mdash;
@@ -5809,7 +5809,7 @@ We’re looking for our prey. Our Casters.
 “万能の人”のお墨付きが出たね。
  
 **Holmes:**
-天覧聖杯戦争なるモノ。<ruby><rb>是</rb><rt>これ</rt></ruby>を、ひとつの目的のための儀式と仮定して、
+天覧聖杯戦争なるモノ。<ruby>是<rt>これ</rt></ruby>を、ひとつの目的のための儀式と仮定して、
  
 **Holmes:**
 目的とは何を指すか？私は、そう&mdash;
@@ -5848,16 +5848,16 @@ We’re looking for our prey. Our Casters.
 かの下総国は、亜種並行世界&mdash;<u>亜種の異聞帯</u>とも言うべき異常な状態にあった。
  
 **Da Vinci:**
-下総における<ruby><rb>厭離穢土城</rb><rt>お ん り え ど じ ょ う</rt></ruby>は、<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>でいえば空想樹に相当する存在だった。
+下総における<ruby>厭離穢土城<rt>お ん り え ど じ ょ う</rt></ruby>は、<ruby>異聞帯<rt>ロストベルト</rt></ruby>でいえば空想樹に相当する存在だった。
  
 **Da Vinci:**
 そう記録されている。言ってみれば、亜種空想樹かな。
  
 **Da Vinci:**
-たとえば<ruby><rb>洛内</rb><rt>そ　こ</rt></ruby>で……リンボは、儀式によって似たようなモノを造り上げ、
+たとえば<ruby>洛内<rt>そ　こ</rt></ruby>で……リンボは、儀式によって似たようなモノを造り上げ、
  
 **Da Vinci:**
-<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>を……発生、させようとしてる……とか？う～ん。でも、何のために？
+<ruby>異聞帯<rt>ロストベルト</rt></ruby>を……発生、させようとしてる……とか？う～ん。でも、何のために？
  
 **Holmes:**
 ふむ。
@@ -5958,7 +5958,7 @@ We’re looking for our prey. Our Casters.
 勢い余って切ってしまった。ふふふふふふふフフ。
  
 **？？？:**
-いやはやカルデア、言の葉を繋ぐ糸はもそっと太く！<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>なか細さでは我が爪の一振りで断ち切れてしまう！
+いやはやカルデア、言の葉を繋ぐ糸はもそっと太く！<ruby>斯様<rt>か よ う</rt></ruby>なか細さでは我が爪の一振りで断ち切れてしまう！
  
 **？？？:**
 とは云え……
@@ -5973,7 +5973,7 @@ We’re looking for our prey. Our Casters.
 さて&ndash;
  
 **？？？:**
-カルデアのマスター、そして我が麗しの<ruby><rb>木</rb><rt>で</rt></ruby><ruby><rb>偶</rb><rt>く</rt></ruby>人形。
+カルデアのマスター、そして我が麗しの<ruby>木<rt>で</rt></ruby><ruby>偶<rt>く</rt></ruby>人形。
  
 **？？？:**
 ンンンンンこれより先は互いの力と力！そう、純粋なる殺戮で対峙しようではありませぬか！
@@ -5996,19 +5996,19 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **清子:**
-あの子の<ruby><rb>綴</rb><rt>つづ</rt></ruby>るお話ってさ。あたしにはいとをかし、なんだよねぇ。
+あの子の<ruby>綴<rt>つづ</rt></ruby>るお話ってさ。あたしにはいとをかし、なんだよねぇ。
  
 **清子:**
-まるで自分がお話の中の人になって、<ruby><rb>宮中</rb><rt>あそこ</rt></ruby>に生きてるみたいな心持ちになるの。
+まるで自分がお話の中の人になって、<ruby>宮中<rt>あそこ</rt></ruby>に生きてるみたいな心持ちになるの。
  
 **清子:**
 でも……
  
 **清子:**
-そいつを<ruby><rb>政</rb><rt>まつりごと</rt></ruby>に使おうなんてのはね。<ruby><rb>道長殿</rb><rt>ミ　ッ　チ</rt></ruby>も酷なことするよ、本当。
+そいつを<ruby>政<rt>まつりごと</rt></ruby>に使おうなんてのはね。<ruby>道長殿<rt>ミ　ッ　チ</rt></ruby>も酷なことするよ、本当。
  
 **清子:**
-<ruby><rb>綴</rb><rt>つづ</rt></ruby>るコトってのは……縛られちゃいけないんだ。
+<ruby>綴<rt>つづ</rt></ruby>るコトってのは……縛られちゃいけないんだ。
  
 **清子:**
 人が本気になれるのはさ、己のためじゃない。誰かの想いに応える時だって、あたしは考える。
@@ -6038,7 +6038,7 @@ We’re looking for our prey. Our Casters.
 未完の物語ね。まだまだ、香子ちゃんの旅は途中なのさ。
  
 **清子:**
-こんなとこで終わって欲しくない。ちゃあんと最後の最後まで<ruby><rb>綴</rb><rt>つづ</rt></ruby>ってくれなきゃ。
+こんなとこで終わって欲しくない。ちゃあんと最後の最後まで<ruby>綴<rt>つづ</rt></ruby>ってくれなきゃ。
  
 **清子:**
 あの子の、あの子だけの……物語をね！
@@ -6053,7 +6053,7 @@ We’re looking for our prey. Our Casters.
 物語る、という行為は……
  
 **？？？:**
-夢の旅路を征き、詩聖の閃きの<ruby><rb>頂</rb><rt>いただき</rt></ruby>をこそ求め、己が世界を編み続けるのによく似ている。
+夢の旅路を征き、詩聖の閃きの<ruby>頂<rt>いただき</rt></ruby>をこそ求め、己が世界を編み続けるのによく似ている。
  
 **？？？:**
 あれは、やり遂げる。必ず。
@@ -6062,28 +6062,28 @@ We’re looking for our prey. Our Casters.
 へー、へー？詳しいんだ。
  
 **？？？:**
-……然り。我が友、<ruby><rb>紛</rb><rt>まご</rt></ruby>う事なき詩聖たちであったが故に。
+……然り。我が友、<ruby>紛<rt>まご</rt></ruby>う事なき詩聖たちであったが故に。
  
 **Narration:**
-妖物魔物が<ruby><rb>跋扈</rb><rt>ば っ こ</rt></ruby>する、京の都&mdash;
+妖物魔物が<ruby>跋扈<rt>ば っ こ</rt></ruby>する、京の都&mdash;
  
 **Narration:**
 化生、悪霊、そして鬼。近頃には大路にまで姿を見せると云うが、
  
 **Narration:**
-更に奇異なるモノが<ruby><rb>顕</rb><rt>あらわ</rt></ruby>れるのだとか。夜な夜な<ruby><rb>彷徨</rb><rt>さまよ</rt></ruby>い歩く、見上げる程に大柄なる怪異。
+更に奇異なるモノが<ruby>顕<rt>あらわ</rt></ruby>れるのだとか。夜な夜な<ruby>彷徨<rt>さまよ</rt></ruby>い歩く、見上げる程に大柄なる怪異。
  
 **Narration:**
-<ruby><rb>鋼</rb><rt>はがね</rt></ruby>の怪。
+<ruby>鋼<rt>はがね</rt></ruby>の怪。
  
 **Narration:**
-月明かり受けて鈍く輝くその硬き<ruby><rb>体躯</rb><rt>たいく</rt></ruby>、まさに鋼の如し。
+月明かり受けて鈍く輝くその硬き<ruby>体躯<rt>たいく</rt></ruby>、まさに鋼の如し。
  
 **Narration:**
-無人の大路を<ruby><rb>彷徨</rb><rt>さまよ</rt></ruby>いながら、不気味に赤き瞳を輝かせるさまは、まさしく妖物。
+無人の大路を<ruby>彷徨<rt>さまよ</rt></ruby>いながら、不気味に赤き瞳を輝かせるさまは、まさしく妖物。
  
 **Narration:**
-京人は<ruby><rb>是</rb><rt>これ</rt></ruby>を人喰いの巨怪として震えた。
+京人は<ruby>是<rt>これ</rt></ruby>を人喰いの巨怪として震えた。
  
 **Narration:**
 とは云え……
@@ -6117,7 +6117,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-は。どうにも分かりかねます。実際に目にしたと云う京人は<ruby><rb>未</rb><rt>いま</rt></ruby>だ見当たらず、
+は。どうにも分かりかねます。実際に目にしたと云う京人は<ruby>未<rt>いま</rt></ruby>だ見当たらず、
  
 **Danzo:**
 噂のみ、広まりつつある模様にて。
@@ -6143,13 +6143,13 @@ We’re looking for our prey. Our Casters.
 鋼、ねえ。
  
 **Sakata Kintoki:**
-ソイツは鋼で体を<ruby><rb>鎧</rb><rt>よろ</rt></ruby>ってンのか？まことの話なら大したもんだぜそりゃあ。
+ソイツは鋼で体を<ruby>鎧<rt>よろ</rt></ruby>ってンのか？まことの話なら大したもんだぜそりゃあ。
  
 **Sakata Kintoki:**
-鋼は刃金、武器に用いると昔から決まってる。遥か<ruby><rb>神代</rb><rt>かみよ</rt></ruby>の<ruby><rb>素戔嗚尊</rb><rt>スサノオノミコト</rt></ruby>でさえそうだったろ？
+鋼は刃金、武器に用いると昔から決まってる。遥か<ruby>神代<rt>かみよ</rt></ruby>の<ruby>素戔嗚尊<rt>スサノオノミコト</rt></ruby>でさえそうだったろ？
  
 **Sakata Kintoki:**
-どっかの神社に<ruby><rb>奉</rb><rt>まつ</rt></ruby>られてる、かの<ruby><rb>大蛇</rb><rt>おろち</rt></ruby>斬りの剣も鋼だって話さ。
+どっかの神社に<ruby>奉<rt>まつ</rt></ruby>られてる、かの<ruby>大蛇<rt>おろち</rt></ruby>斬りの剣も鋼だって話さ。
  
 **Sakata Kintoki:**
 ま、今は今だ。かつてより何でもかんでも改まるもんだが、
@@ -6294,7 +6294,7 @@ We’re looking for our prey. Our Casters.
 ンなことよりメシよく噛んで食え！藤丸！
  
 **Sakata Kintoki:**
-<ruby><rb>先刻</rb><rt>さっき</rt></ruby>から箸が止まってンぜ？香子殿の家人が折角<ruby><rb>朝餉</rb><rt>あさげ</rt></ruby>に米炊いてくれたンだ、
+<ruby>先刻<rt>さっき</rt></ruby>から箸が止まってンぜ？香子殿の家人が折角<ruby>朝餉<rt>あさげ</rt></ruby>に米炊いてくれたンだ、
  
 **Sakata Kintoki:**
 ちゃあんと味わいな。
@@ -6365,10 +6365,10 @@ We’re looking for our prey. Our Casters.
 オイラも賛成だ。
  
 **Sakata Kintoki:**
-護国の武者同士が<ruby><rb>鍔迫</rb><rt>つばぜ</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>う意味なんざ、ねえ！いやまあ、あると内裏で決まったンだろうが、
+護国の武者同士が<ruby>鍔迫<rt>つばぜ</rt></ruby>り<ruby>合<rt>あ</rt></ruby>う意味なんざ、ねえ！いやまあ、あると内裏で決まったンだろうが、
  
 **Sakata Kintoki:**
-知るか！　<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>！
+知るか！　<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>！
  
 **Sakata Kintoki:**
 って話だコイツは。外道の手のひらで踊らされてちゃ世話もねえ！
@@ -6383,7 +6383,7 @@ We’re looking for our prey. Our Casters.
 金時殿は冗談もお上手ですね。ご心配なさらず。
  
 **Danzo:**
-段蔵は人に<ruby><rb>非</rb><rt>あら</rt></ruby>ず、人形なれば。ご心配は要りませぬ。
+段蔵は人に<ruby>非<rt>あら</rt></ruby>ず、人形なれば。ご心配は要りませぬ。
  
 **Sakata Kintoki:**
 おう。
@@ -6410,7 +6410,7 @@ We’re looking for our prey. Our Casters.
 各種の機能に欠落ありし頃こそが、加藤段蔵の全盛に他ならぬと云うことか、と、
  
 **Danzo:**
-考えるモノではありますが、しかし機能不全は、<ruby><rb>紛</rb><rt>まご</rt></ruby>うことなき事実……。
+考えるモノではありますが、しかし機能不全は、<ruby>紛<rt>まご</rt></ruby>うことなき事実……。
  
 **Danzo:**
 何か、ご無礼がありましたならば、どうかお云い付けください！
@@ -6457,7 +6457,7 @@ We’re looking for our prey. Our Casters.
 ただでさえ、ア、アンタの格好はその、なんつーか動き易そうでいいと思うンだが、ウン。
  
 **Sakata Kintoki:**
-あんまりガンガン近付かれっと、な。目の<ruby><rb>遣</rb><rt>や</rt></ruby>り場っての？　がさ。
+あんまりガンガン近付かれっと、な。目の<ruby>遣<rt>や</rt></ruby>り場っての？　がさ。
  
 **Sakata Kintoki:**
 な？
@@ -6478,7 +6478,7 @@ We’re looking for our prey. Our Casters.
 天覧聖杯戦争は止める！アルターエゴ・リンボってェ外道の企ても止める！
  
 **Sakata Kintoki:**
-オレとアンタたちは<ruby><rb>志</rb><rt>こころざし</rt></ruby>同じくする仲間ってェ奴だ。宜しく頼まあ！
+オレとアンタたちは<ruby>志<rt>こころざし</rt></ruby>同じくする仲間ってェ奴だ。宜しく頼まあ！
  
 ---
 
@@ -6510,13 +6510,13 @@ We’re looking for our prey. Our Casters.
 ソイツ、居場所は分からねえんだよな？
  
 **Danzo:**
-は。残念ながら。<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>、平安京に在るであろうと云う予測および、
+は。残念ながら。<ruby>此処<rt>こ　こ</rt></ruby>、平安京に在るであろうと云う予測および、
  
 **Danzo:**
 虫の知らせがせいぜいにて。
  
 **Sakata Kintoki:**
-虫の知らせ上等！<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>にしたもんじゃねえさ。
+虫の知らせ上等！<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>にしたもんじゃねえさ。
  
 **Sakata Kintoki:**
 何、手がかりがまったくナシって訳でもねえだろ？アルターエゴ・リンボ。またの名を……
@@ -6539,7 +6539,7 @@ We’re looking for our prey. Our Casters.
 そうだ、蘆屋道満殿！晴明殿の姿なき今、陰陽寮を取り仕切る法師陰陽師！
  
 **Sakata Kintoki:**
-<ruby><rb>正真正銘</rb><rt>しょうしんしょうめい</rt></ruby>の偉いサンさ。左大臣殿なんざ、晴明殿から道満殿に乗り換えたってもっぱらの噂さ。
+<ruby>正真正銘<rt>しょうしんしょうめい</rt></ruby>の偉いサンさ。左大臣殿なんざ、晴明殿から道満殿に乗り換えたってもっぱらの噂さ。
  
 **Sakata Kintoki:**
 段蔵サン。
@@ -6577,19 +6577,19 @@ We’re looking for our prey. Our Casters.
 おう！
  
 **Sakata Kintoki:**
-さて<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>からだ！折しも、天覧聖杯戦争の真っ最中！
+さて<ruby>此処<rt>こ　こ</rt></ruby>からだ！折しも、天覧聖杯戦争の真っ最中！
  
 **Sakata Kintoki:**
 鎮守護国を成さんとする稀代の大儀式、陰陽寮の陰陽師どもを率いての術を行うとなれば、
  
 **Sakata Kintoki:**
-<ruby><rb>洛内</rb><rt>らくない</rt></ruby>でも間違いなく、最も守護された場に在り続けるは必定！
+<ruby>洛内<rt>らくない</rt></ruby>でも間違いなく、最も守護された場に在り続けるは必定！
  
 **Sakata Kintoki:**
 つまるトコ&mdash;内裏。宮中だろうな、道満殿は。
  
 **Danzo:**
-情報収集の折、<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>大路の果ての内裏を一見しました。
+情報収集の折、<ruby>朱雀<rt>す ざ く</rt></ruby>大路の果ての内裏を一見しました。
  
 **Danzo:**
 一部、火災からの再建中ではありますが……
@@ -6628,10 +6628,10 @@ We’re looking for our prey. Our Casters.
 ……お？
  
 **Fujiwara no Kaoriko:**
-おはようございます、皆様。まあ、まあ、<ruby><rb>朝餉</rb><rt>あ さ げ</rt></ruby>を綺麗に召し上がられて&mdash;
+おはようございます、皆様。まあ、まあ、<ruby>朝餉<rt>あ さ げ</rt></ruby>を綺麗に召し上がられて&mdash;
  
 **Fujiwara no Kaoriko:**
-ええと、おかわりのお<ruby><rb>櫃</rb><rt>ひつ</rt></ruby>などは如何ですか？すぐに支度させますが。
+ええと、おかわりのお<ruby>櫃<rt>ひつ</rt></ruby>などは如何ですか？すぐに支度させますが。
  
 **Sakata Kintoki:**
 おう、ありがてえ！　香子殿！
@@ -6658,13 +6658,13 @@ We’re looking for our prey. Our Casters.
 はい、なんでしょう。
  
 **Fujiwara no Kaoriko:**
-貴方たちはお客様です。ええ。いつまでも<ruby><rb>逗留</rb><rt>とうりゅう</rt></ruby>していただいて構いませんし、
+貴方たちはお客様です。ええ。いつまでも<ruby>逗留<rt>とうりゅう</rt></ruby>していただいて構いませんし、
  
 **Fujiwara no Kaoriko:**
 お望みはどうぞ言の葉に。叶う限りは、香子がお力になります。
  
 **Sakata Kintoki:**
-流石は<ruby><rb>藤原為時</rb><rt>ふじわらのためとき</rt></ruby>殿のご息女たる香子殿。<ruby><rb>聡</rb><rt>さと</rt></ruby>き貴人ってェのは、礼を<ruby><rb>識</rb><rt>し</rt></ruby>っておられる。
+流石は<ruby>藤原為時<rt>ふじわらのためとき</rt></ruby>殿のご息女たる香子殿。<ruby>聡<rt>さと</rt></ruby>き貴人ってェのは、礼を<ruby>識<rt>し</rt></ruby>っておられる。
  
 **Sakata Kintoki:**
 付け込むみたいで気は引けるが、こちらも大義のため！　お許しあれ！
@@ -6709,16 +6709,16 @@ We’re looking for our prey. Our Casters.
 それは、また。むむむ。
  
 **Fujiwara no Kaoriko:**
-……源氏郎等たる御方に云うことではありませんが、内裏とは、<ruby><rb>帝</rb><rt>みかど</rt></ruby>の宮にございます。
+……源氏郎等たる御方に云うことではありませんが、内裏とは、<ruby>帝<rt>みかど</rt></ruby>の宮にございます。
  
 **Fujiwara no Kaoriko:**
-日の本の<ruby><rb>政</rb><rt>まつりごと</rt></ruby>に携わるべく、官位有した方々のみが<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に上がられるのです。
+日の本の<ruby>政<rt>まつりごと</rt></ruby>に携わるべく、官位有した方々のみが<ruby>此処<rt>こ　こ</rt></ruby>に上がられるのです。
  
 **Fujiwara no Kaoriko:**
-或いは中宮彰子様の女房である私のように、<ruby><rb>帝</rb><rt>みかど</rt></ruby>や、お<ruby><rb>后</rb><rt>きさき</rt></ruby>に仕える者のみが。
+或いは中宮彰子様の女房である私のように、<ruby>帝<rt>みかど</rt></ruby>や、お<ruby>后<rt>きさき</rt></ruby>に仕える者のみが。
  
 **Fujiwara no Kaoriko:**
-<ruby><rb>軽々</rb><rt>けいけい</rt></ruby>に、余人を導き入れるなどもってのほか……
+<ruby>軽々<rt>けいけい</rt></ruby>に、余人を導き入れるなどもってのほか……
  
 **Fujiwara no Kaoriko:**
 ……。……。
@@ -6736,7 +6736,7 @@ We’re looking for our prey. Our Casters.
 お顔を上げてくださいませ……！そ、そのように、床に額を押しつけるなどと……！
  
 **Danzo:**
-（こ、これは土下座！　金時殿ほどの武者が<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な！）
+（こ、これは土下座！　金時殿ほどの武者が<ruby>斯様<rt>か よ う</rt></ruby>な！）
  
 **Sakata Kintoki:**
 頼む！
@@ -6778,7 +6778,7 @@ We’re looking for our prey. Our Casters.
 ……無理を通すつもりはねえよ、香子殿。
  
 **Sakata Kintoki:**
-そン時はそン時さ。<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>でこうして身を隠させてもらいつつ、
+そン時はそン時さ。<ruby>此処<rt>こ　こ</rt></ruby>でこうして身を隠させてもらいつつ、
  
 **Sakata Kintoki:**
 次の手が浮かぶまで考える。って、どっちにせよアンタに迷惑掛けちまうか……
@@ -6819,7 +6819,7 @@ We’re looking for our prey. Our Casters.
 大きなお話ですので流石に迷ったのですが、は、はい。迷いが取れたのです。
  
 **Fujiwara no Kaoriko:**
-それだけです。では<ruby><rb>僭越</rb><rt>せんえつ</rt></ruby>ながら<ruby><rb>藤原香子</rb><rt>ふじわらのかおるこ</rt></ruby>、頑張ってみますね。
+それだけです。では<ruby>僭越<rt>せんえつ</rt></ruby>ながら<ruby>藤原香子<rt>ふじわらのかおるこ</rt></ruby>、頑張ってみますね。
  
 **Sakata Kintoki:**
 よろしく頼む！
@@ -6905,28 +6905,28 @@ We’re looking for our prey. Our Casters.
 オイラ想像もつかねえや。こう、物語る才人ってぇのは初めて逢ったしな。
  
 **Sakata Kintoki:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>でない場所&mdash;自身でない人生を垣間見て、文字に<ruby><rb>綴</rb><rt>つづ</rt></ruby>る。
+<ruby>此処<rt>こ　こ</rt></ruby>でない場所&mdash;自身でない人生を垣間見て、文字に<ruby>綴<rt>つづ</rt></ruby>る。
  
 **Sakata Kintoki:**
-どっかの貴人や武人の出来事や噂やらを<ruby><rb>纏</rb><rt>まと</rt></ruby>めて記録するのとはてんで違う、って話だぜ。
+どっかの貴人や武人の出来事や噂やらを<ruby>纏<rt>まと</rt></ruby>めて記録するのとはてんで違う、って話だぜ。
  
 **Sakata Kintoki:**
 日記の類とも違ってる。確か、清子サンも云ってたっけか。
  
 **Sakata Kintoki:**
-出来事、噂、日記、夢、あれやこれやを元にしながら<ruby><rb>取捨選択</rb><rt>しゅしゃせんたく</rt></ruby>。
+出来事、噂、日記、夢、あれやこれやを元にしながら<ruby>取捨選択<rt>しゅしゃせんたく</rt></ruby>。
  
 **Sakata Kintoki:**
 ンでもって、ひとつの物語を編んでいく&mdash;
  
 **Sakata Kintoki:**
-文字で<ruby><rb>綴</rb><rt>つづ</rt></ruby>り、編む、この世ならざるもうひとつの世のありさま。
+文字で<ruby>綴<rt>つづ</rt></ruby>り、編む、この世ならざるもうひとつの世のありさま。
  
 **Sakata Kintoki:**
 そいつは矢っ張り……
  
 **Sakata Kintoki:**
-読むのも、<ruby><rb>綴</rb><rt>つづ</rt></ruby>るのも、愉快なもンだろうなァ。
+読むのも、<ruby>綴<rt>つづ</rt></ruby>るのも、愉快なもンだろうなァ。
  
 **Fujiwara no Kaoriko:**
 ……お待たせいたしました。皆様、道長様の許可を取りましてございます。
@@ -6973,7 +6973,7 @@ We’re looking for our prey. Our Casters.
 よ。起きたか？
  
 **Sakata Kintoki:**
-<ruby><rb>夕餉</rb><rt>ゆうげ</rt></ruby>から随分経ってるし、眠くても仕方ねえが……<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>はまあ、我慢だ。
+<ruby>夕餉<rt>ゆうげ</rt></ruby>から随分経ってるし、眠くても仕方ねえが……<ruby>此処<rt>こ　こ</rt></ruby>はまあ、我慢だ。
  
 **Sakata Kintoki:**
 しかし成る程、夜明け頃に内裏入りか。考えたもんだな香子サン。
@@ -6982,7 +6982,7 @@ We’re looking for our prey. Our Casters.
 使者を送り、諸々の許しを取っておりました。遅くなってしまってすみません。
  
 **Fujiwara no Kaoriko:**
-ですが今から<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>で出れば、内裏が開くよりも前に着きましょう。
+ですが今から<ruby>牛車<rt>ぎっしゃ</rt></ruby>で出れば、内裏が開くよりも前に着きましょう。
  
 ---
 
@@ -7042,7 +7042,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-まさか<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>に乗れるなんて
+まさか<ruby>牛車<rt>ぎっしゃ</rt></ruby>に乗れるなんて
  
 
 ---
@@ -7070,7 +7070,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>は貴人の乗り物にございまする。まかり間違っても、このように……
+<ruby>牛車<rt>ぎっしゃ</rt></ruby>は貴人の乗り物にございまする。まかり間違っても、このように……
  
 **Danzo:**
 その、忍びの者が乗り込むような真似は……
@@ -7079,7 +7079,7 @@ We’re looking for our prey. Our Casters.
 まず、有り得ませぬ。ああ。段蔵、感激にございます。
  
 **Danzo:**
-二度も<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>に乗れるなどと……
+二度も<ruby>牛車<rt>ぎっしゃ</rt></ruby>に乗れるなどと……
  
 **Fujiwara no Kaoriko:**
 あ。
@@ -7102,7 +7102,7 @@ We’re looking for our prey. Our Casters.
 い、いえその、何と言いますか……
  
 **Danzo:**
-マスター。<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>の外に、凶猛の魔力を感知いたしました。
+マスター。<ruby>牛車<rt>ぎっしゃ</rt></ruby>の外に、凶猛の魔力を感知いたしました。
  
 **Fujiwara no Kaoriko:**
 物の怪がいますね……
@@ -7117,7 +7117,7 @@ We’re looking for our prey. Our Casters.
 面倒だ。出るぜ！行くぞ大将！
  
 **Sakata Kintoki:**
-ははッ、眠気覚ましに足柄相撲を見せてやる！香子殿とその従者たちもご<ruby><rb>覧</rb><rt>ろう</rt></ruby>じろ！
+ははッ、眠気覚ましに足柄相撲を見せてやる！香子殿とその従者たちもご<ruby>覧<rt>ろう</rt></ruby>じろ！
  
 ---
 
@@ -7157,12 +7157,12 @@ We’re looking for our prey. Our Casters.
 ふわぁ～あ。なんだか眠くなってきやがった。
  
 **Fujiwara no Kaoriko:**
-ふふ、おかしな御方です。<ruby><rb>先刻</rb><rt>さっき</rt></ruby>は眠気覚ましとか仰っていたのに。
+ふふ、おかしな御方です。<ruby>先刻<rt>さっき</rt></ruby>は眠気覚ましとか仰っていたのに。
  
 ---
 
 **Fujimaru 1:**
-夜更けに清子さんの<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>でも遭遇したけど
+夜更けに清子さんの<ruby>牛車<rt>ぎっしゃ</rt></ruby>でも遭遇したけど
 
 ---
 
@@ -7183,16 +7183,16 @@ We’re looking for our prey. Our Casters.
 鬼でもなけりゃ心配は要らねえよ。
  
 **Danzo:**
-まさに魔圏、魔都にて。平安京が<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な<ruby><rb>処</rb><rt>ところ</rt></ruby>であったとは……。
+まさに魔圏、魔都にて。平安京が<ruby>斯様<rt>か よ う</rt></ruby>な<ruby>処<rt>ところ</rt></ruby>であったとは……。
  
 **Fujiwara no Kaoriko:**
-それでも都です。日の本にあって最も栄えたる<ruby><rb>処</rb><rt>ところ</rt></ruby>が、京の都です。
+それでも都です。日の本にあって最も栄えたる<ruby>処<rt>ところ</rt></ruby>が、京の都です。
  
 **Fujiwara no Kaoriko:**
 他の地では……京の規模を超える町など、有り得ません。
  
 **Fujiwara no Kaoriko:**
-大陸交易の<ruby><rb>要</rb><rt>かなめ</rt></ruby>として栄える博多大津すら、<ruby><rb>現在</rb><rt>い　ま</rt></ruby>の京には遠く及ばないのだと聞き及びます。
+大陸交易の<ruby>要<rt>かなめ</rt></ruby>として栄える博多大津すら、<ruby>現在<rt>い　ま</rt></ruby>の京には遠く及ばないのだと聞き及びます。
  
 **Fujiwara no Kaoriko:**
 それなのに&mdash;
@@ -7204,7 +7204,7 @@ We’re looking for our prey. Our Casters.
 かの征夷大将軍・坂上田村麻呂殿をはじめ、過去、数多の武人が力を尽くし……
  
 **Sakata Kintoki:**
-味方も敵も、数えきれぬ程の血が流されて、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>までの威容を勝ち取ったのが、平安京だろ。
+味方も敵も、数えきれぬ程の血が流されて、<ruby>此処<rt>こ　こ</rt></ruby>までの威容を勝ち取ったのが、平安京だろ。
  
 **Sakata Kintoki:**
 勝ったヤツがいるなら、負けたヤツもいるさ。
@@ -7213,10 +7213,10 @@ We’re looking for our prey. Our Casters.
 負けて、敗れて逃げてどうなるか。死に果てるか、山野に下って……
  
 **Sakata Kintoki:**
-<ruby><rb>一族郎党</rb><rt>いちぞくろうとう</rt></ruby>、末代に至るまで怨の一文字抱くに至る。
+<ruby>一族郎党<rt>いちぞくろうとう</rt></ruby>、末代に至るまで怨の一文字抱くに至る。
  
 **Sakata Kintoki:**
-死ねば化けて<ruby><rb>祟</rb><rt>たた</rt></ruby>るだろうし……
+死ねば化けて<ruby>祟<rt>たた</rt></ruby>るだろうし……
  
 **Sakata Kintoki:**
 生きたまま、鬼やら土蜘蛛に 変じちまってもおかしかねえさ。
@@ -7240,22 +7240,22 @@ We’re looking for our prey. Our Casters.
 …………なんてな。
  
 **Sakata Kintoki:**
-<ruby><rb>戦</rb><rt>いくさ</rt></ruby>に負けりゃ何でもかんでも怪異になる、ってんじゃ世はとっくに<ruby><rb>終</rb><rt>しま</rt></ruby>いだ。
+<ruby>戦<rt>いくさ</rt></ruby>に負けりゃ何でもかんでも怪異になる、ってんじゃ世はとっくに<ruby>終<rt>しま</rt></ruby>いだ。
  
 **Sakata Kintoki:**
 鬼や土蜘蛛がみんなそうとは流石に云わんさ。だが、<u>そう云う連中もなくはねえ</u>。
  
 **Sakata Kintoki:**
-田村麻呂殿が<ruby><rb>斃</rb><rt>たお</rt></ruby>したっていう、<ruby><rb>大嶽丸</rb><rt>おおたけまる</rt></ruby>あたりはどっちだったのかね？
+田村麻呂殿が<ruby>斃<rt>たお</rt></ruby>したっていう、<ruby>大嶽丸<rt>おおたけまる</rt></ruby>あたりはどっちだったのかね？
  
 **Sakata Kintoki:**
-<ruby><rb>夫婦</rb><rt>めおと</rt></ruby>になったって鈴鹿の御前サマも、鬼だか天魔の娘だかってェ話だが、
+<ruby>夫婦<rt>めおと</rt></ruby>になったって鈴鹿の御前サマも、鬼だか天魔の娘だかってェ話だが、
  
 **Sakata Kintoki:**
 さあてどうだか。
  
 **Sakata Kintoki:**
-ただ強ぇだけの豪族だったんじゃねェのか？ツノもねえ、火も吐かねえ、<ruby><rb>只人</rb><rt>ただびと</rt></ruby>なんじゃねえか？
+ただ強ぇだけの豪族だったんじゃねェのか？ツノもねえ、火も吐かねえ、<ruby>只人<rt>ただびと</rt></ruby>なんじゃねえか？
  
 **Sakata Kintoki:**
 今となっちゃ、確かめる術なんざねえ&mdash;
@@ -7276,7 +7276,7 @@ We’re looking for our prey. Our Casters.
 …………皆々様、内裏にございます。
  
 **Danzo:**
-では、御免。段蔵は<ruby><rb>是</rb><rt>これ</rt></ruby>にて。
+では、御免。段蔵は<ruby>是<rt>これ</rt></ruby>にて。
  
 **Fujiwara no Kaoriko:**
 あら？いま、段蔵様がそこにいたような……
@@ -7285,7 +7285,7 @@ We’re looking for our prey. Our Casters.
 と思えば姿がなく……？
  
 **Fujiwara no Kaoriko:**
-<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>の中には……あれ、いない……なぜ……なぜ……？
+<ruby>牛車<rt>ぎっしゃ</rt></ruby>の中には……あれ、いない……なぜ……なぜ……？
  
 ---
 
@@ -7343,7 +7343,7 @@ We’re looking for our prey. Our Casters.
 コホン！
  
 **Sakata Kintoki:**
-……心得ております。香子殿。源氏郎等、<ruby><rb>主馬佑</rb><rt>しゅめのすけ</rt></ruby>坂田金時にお任せあれ。
+……心得ております。香子殿。源氏郎等、<ruby>主馬佑<rt>しゅめのすけ</rt></ruby>坂田金時にお任せあれ。
  
 **Fujiwara no Kaoriko:**
 宜しくお願いいたします。無礼があれば、香子ともども首が飛びます。
@@ -7358,13 +7358,13 @@ We’re looking for our prey. Our Casters.
 確かに、内裏の何処かにはおられる筈です。そんな噂を耳にいたしました。
  
 **Fujiwara no Kaoriko:**
-常であれば<ruby><rb>是</rb><rt>これ</rt></ruby>ほどの早い刻には お姿なきはずが、どうにも、件の法師様は、
+常であれば<ruby>是<rt>これ</rt></ruby>ほどの早い刻には お姿なきはずが、どうにも、件の法師様は、
  
 **Fujiwara no Kaoriko:**
 陰陽寮の方々と何やら ひどく大切な儀式のさなかであるため……
  
 **Fujiwara no Kaoriko:**
-昼夜を問わず宮中に<ruby><rb>侍</rb><rt>はべ</rt></ruby>っておられる、と。ですが……
+昼夜を問わず宮中に<ruby>侍<rt>はべ</rt></ruby>っておられる、と。ですが……
  
 **Fujiwara no Kaoriko:**
 具体的な場所については、私も分かりません。
@@ -7373,7 +7373,7 @@ We’re looking for our prey. Our Casters.
 ですので、私にできるのは、こうして人のいないうちに案内するのみ。
  
 **Fujiwara no Kaoriko:**
-間違っても、<ruby><rb>帝</rb><rt>みかど</rt></ruby>や中宮彰子様のおわす<ruby><rb>処</rb><rt>ところ</rt></ruby>に足を踏み入れてはいけませんからね。
+間違っても、<ruby>帝<rt>みかど</rt></ruby>や中宮彰子様のおわす<ruby>処<rt>ところ</rt></ruby>に足を踏み入れてはいけませんからね。
  
 **Sakata Kintoki:**
 承知。
@@ -7418,13 +7418,13 @@ We’re looking for our prey. Our Casters.
 アナタは彰子様のところの女房ですね。確か、そう、紫の……
  
 **Fujiwara no Kaoriko:**
-恐れ入ります。<ruby><rb>尊子</rb><rt>たかこ</rt></ruby>様。
+恐れ入ります。<ruby>尊子<rt>たかこ</rt></ruby>様。
  
 **Fujiwara no Kaoriko:**
 紫式部、などと呼ばれております。藤原香子にございます。
  
 **尊子:**
-ああそう、紫式部！<ruby><rb>私</rb><rt>わたくし</rt></ruby>、ずっとアナタの物語を好んでおります！
+ああそう、紫式部！<ruby>私<rt>わたくし</rt></ruby>、ずっとアナタの物語を好んでおります！
  
 ---
 
@@ -7460,7 +7460,7 @@ We’re looking for our prey. Our Casters.
 は&mdash;
  
 **尊子:**
-覚えていらっしゃらない？ほら、アナタが<ruby><rb>相模</rb><rt>さ が み</rt></ruby>の御山を下りてきた頃……
+覚えていらっしゃらない？ほら、アナタが<ruby>相模<rt>さ が み</rt></ruby>の御山を下りてきた頃……
  
 **尊子:**
 ああ、でも。狐も狸も見分けがつかぬ頃合いだったのやも。
@@ -7472,19 +7472,19 @@ We’re looking for our prey. Our Casters.
 は、はい。
  
 **尊子:**
-<ruby><rb>主馬佑</rb><rt>しゅめのすけ</rt></ruby>坂田金時様。お勤めご苦労様でございます。
+<ruby>主馬佑<rt>しゅめのすけ</rt></ruby>坂田金時様。お勤めご苦労様でございます。
  
 **尊子:**
-それで<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の……ええと、ほら、[♂黒く短い髪の/♀赤い髪の娘]。
+それで<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>の……ええと、ほら、[♂黒く短い髪の/♀赤い髪の娘]。
  
 **尊子:**
-そちらから、<ruby><rb>私</rb><rt>わたくし</rt></ruby>、随分と熱い視線を戴いてしまっているようで……
+そちらから、<ruby>私<rt>わたくし</rt></ruby>、随分と熱い視線を戴いてしまっているようで……
  
 **尊子:**
 何処かでお会いしましたか？すみません、とんと覚えていないのですが。
  
 **尊子:**
-<ruby><rb>私</rb><rt>わたくし</rt></ruby>、<ruby><rb>帝</rb><rt>みかど</rt></ruby>の側室が一人<ruby><rb>尊子</rb><rt>たかこ</rt></ruby>にてございます。お初にお目に掛かります。
+<ruby>私<rt>わたくし</rt></ruby>、<ruby>帝<rt>みかど</rt></ruby>の側室が一人<ruby>尊子<rt>たかこ</rt></ruby>にてございます。お初にお目に掛かります。
  
 **尊子:**
 以後。お見知りおきを。
@@ -7511,7 +7511,7 @@ We’re looking for our prey. Our Casters.
 どうした藤丸。ぽかんと大口を開けて。
  
 **Sakata Kintoki:**
-はは。貴人の麗しさに目奪われたか！<ruby><rb>是</rb><rt>これ</rt></ruby>なる者は[♂弟分/♀妹分]、不作法をお許しいただきたい。
+はは。貴人の麗しさに目奪われたか！<ruby>是<rt>これ</rt></ruby>なる者は[♂弟分/♀妹分]、不作法をお許しいただきたい。
  
 **尊子:**
 ふふふふふ。そうですか、そうですか。
@@ -7526,7 +7526,7 @@ We’re looking for our prey. Our Casters.
 （アナタは、見えてしまう人ですね？）
  
 **尊子:**
-（不思議なコトもありますねえ。　<ruby><rb>私</rb><rt>わたくし</rt></ruby>の幻術は完全完璧、晴明様あたりでもなければ）
+（不思議なコトもありますねえ。　<ruby>私<rt>わたくし</rt></ruby>の幻術は完全完璧、晴明様あたりでもなければ）
  
 **尊子:**
 （この<u>頭の上のお耳や尾</u>に気付くはずもない。　多少の素養があろうと、まずもって無理。不可能）
@@ -7561,10 +7561,10 @@ We’re looking for our prey. Our Casters.
 （やっぱり、縁があるのですねぇ）
  
 **尊子:**
-（でもどうやら<ruby><rb>私</rb><rt>わたくし</rt></ruby>が目的ではないご様子。　となると、まことに道満様に御用なのです？）
+（でもどうやら<ruby>私<rt>わたくし</rt></ruby>が目的ではないご様子。　となると、まことに道満様に御用なのです？）
  
 **尊子:**
-（それならそれで、ええ。　<ruby><rb>私</rb><rt>わたくし</rt></ruby>としては口を差し挟むつもりもありません）
+（それならそれで、ええ。　<ruby>私<rt>わたくし</rt></ruby>としては口を差し挟むつもりもありません）
  
 **尊子:**
 （ですから……　どうか、アナタも黙っていてくださいましな）
@@ -7585,7 +7585,7 @@ We’re looking for our prey. Our Casters.
 ふふふふふふ。ではどうかお気を付けて。
  
 **尊子:**
-近頃は、宮中にも 鬼や怨霊なぞが<ruby><rb>跋扈</rb><rt>ば っ こ</rt></ruby>すると聞きますので&mdash;
+近頃は、宮中にも 鬼や怨霊なぞが<ruby>跋扈<rt>ば っ こ</rt></ruby>すると聞きますので&mdash;
  
 **Sakata Kintoki:**
 ……行ったな。
@@ -7600,7 +7600,7 @@ We’re looking for our prey. Our Casters.
 なにやら内緒話をされていたようですが、その、だ、大丈夫でしたか？
  
 **Fujiwara no Kaoriko:**
-<ruby><rb>尊子</rb><rt>たかこ</rt></ruby>様とは殆ど言の葉を交わしたことなく、私、すれ違いにご挨拶をする程度で……
+<ruby>尊子<rt>たかこ</rt></ruby>様とは殆ど言の葉を交わしたことなく、私、すれ違いにご挨拶をする程度で……
  
 ---
 
@@ -7644,28 +7644,28 @@ We’re looking for our prey. Our Casters.
 ……………………失礼。
  
 **F：宮中の僧:**
-まこと、失礼と存じながら声を掛けました。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる御仁。
+まこと、失礼と存じながら声を掛けました。<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>なる御仁。
  
 **F：宮中の僧:**
-見慣れぬ衣を<ruby><rb>纏</rb><rt>まと</rt></ruby>っている故でしょうか、貴方。<ruby><rb>穢</rb><rt>けが</rt></ruby>れが幾らか、首回りに憑いておりますよ。
+見慣れぬ衣を<ruby>纏<rt>まと</rt></ruby>っている故でしょうか、貴方。<ruby>穢<rt>けが</rt></ruby>れが幾らか、首回りに憑いておりますよ。
  
 **F：宮中の僧:**
 そのまま。動かず。
  
 **Sakata Kintoki:**
-……悪霊<ruby><rb>祓</rb><rt>ばら</rt></ruby>い、か。
+……悪霊<ruby>祓<rt>ばら</rt></ruby>い、か。
  
 **Sakata Kintoki:**
-流石は稀代の法師陰陽師殿。護摩も<ruby><rb>焚</rb><rt>た</rt></ruby>かず、こともなげに<ruby><rb>祓</rb><rt>はら</rt></ruby>いやがる。
+流石は稀代の法師陰陽師殿。護摩も<ruby>焚<rt>た</rt></ruby>かず、こともなげに<ruby>祓<rt>はら</rt></ruby>いやがる。
  
 **F：宮中の僧:**
-はい。<ruby><rb>是</rb><rt>これ</rt></ruby>で宜しいでしょう。
+はい。<ruby>是<rt>これ</rt></ruby>で宜しいでしょう。
  
 **F：宮中の僧:**
-近頃、夜闇の怪に行き当たりましたか？いけません。内裏に、<ruby><rb>穢</rb><rt>けが</rt></ruby>れを持ち込むところです。
+近頃、夜闇の怪に行き当たりましたか？いけません。内裏に、<ruby>穢<rt>けが</rt></ruby>れを持ち込むところです。
  
 **F：宮中の僧:**
-ですがご安心を。拙僧がただちに<ruby><rb>祓</rb><rt>はら</rt></ruby>った次第。
+ですがご安心を。拙僧がただちに<ruby>祓<rt>はら</rt></ruby>った次第。
  
 ---
 
@@ -7686,7 +7686,7 @@ We’re looking for our prey. Our Casters.
 ささやかながら晴明様の教えを受けた私が、まったく気付きませんでした……
  
 **Fujiwara no Kaoriko:**
-ですが確かに、ただいま道満様が<ruby><rb>祓</rb><rt>はら</rt></ruby>われたのは、夜の京を<ruby><rb>彷徨</rb><rt>さまよ</rt></ruby>う怪異の怨、<ruby><rb>穢</rb><rt>けが</rt></ruby>れの黒なれば！
+ですが確かに、ただいま道満様が<ruby>祓<rt>はら</rt></ruby>われたのは、夜の京を<ruby>彷徨<rt>さまよ</rt></ruby>う怪異の怨、<ruby>穢<rt>けが</rt></ruby>れの黒なれば！
  
 **Fujiwara no Kaoriko:**
 まことに、まことに……申し訳なく……
@@ -7704,7 +7704,7 @@ We’re looking for our prey. Our Casters.
 
  
 **F：宮中の僧:**
-香子殿、いえ紫式部殿はお久しぶりです。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる坂田金時殿も。
+香子殿、いえ紫式部殿はお久しぶりです。<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>なる坂田金時殿も。
  
 **F：宮中の僧:**
 貴方は初めてですね。拙僧、蘆屋道満と申す法師陰陽師にございます。
@@ -7716,7 +7716,7 @@ We’re looking for our prey. Our Casters.
 武士の方々とは異なる形にて 宮中の守護を仰せつかる身なれば&mdash;
  
 **Ashiya Dōman:**
-ささやかでも、<ruby><rb>穢</rb><rt>けが</rt></ruby>れを放っておく訳にはいかず。
+ささやかでも、<ruby>穢<rt>けが</rt></ruby>れを放っておく訳にはいかず。
  
 ---
 
@@ -7735,7 +7735,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Ashiya Dōman:**
-……いやはや。やはり、突然の<ruby><rb>祓</rb><rt>はら</rt></ruby>いは宜しくなかったようだ。
+……いやはや。やはり、突然の<ruby>祓<rt>はら</rt></ruby>いは宜しくなかったようだ。
  
 **Ashiya Dōman:**
 拙僧は嫌われてしまったようですね。何をそこまで案じておられるかは分かりませんが、
@@ -7744,7 +7744,7 @@ We’re looking for our prey. Our Casters.
 ええ、ええ。構いません。
  
 **Ashiya Dōman:**
-私は所詮のところ法師陰陽師。<ruby><rb>巷</rb><rt>ちまた</rt></ruby>の人気者である安倍晴明殿には遠く及ばず、
+私は所詮のところ法師陰陽師。<ruby>巷<rt>ちまた</rt></ruby>の人気者である安倍晴明殿には遠く及ばず、
  
 **Ashiya Dōman:**
 私なぞは悪玉のように囁かれる様子。構いませんとも。憎まれるのには、慣れています。
@@ -7761,7 +7761,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-<ruby><rb>巷</rb><rt>ちまた</rt></ruby>とか、そういう話[♂じゃない/♀ではないです]
+<ruby>巷<rt>ちまた</rt></ruby>とか、そういう話[♂じゃない/♀ではないです]
  
 
 ---
@@ -7792,13 +7792,13 @@ We’re looking for our prey. Our Casters.
 （マスター、金時殿！　加藤段蔵、姿を隠したままにて失礼）
  
 **Danzo:**
-（<ruby><rb>是</rb><rt>これ</rt></ruby>なる人物、姿形は<ruby><rb>紛</rb><rt>まご</rt></ruby>うことなくリンボと同一！）
+（<ruby>是<rt>これ</rt></ruby>なる人物、姿形は<ruby>紛<rt>まご</rt></ruby>うことなくリンボと同一！）
  
 **Danzo:**
 （ですが……　段蔵の霊核にさえ響く粘り気のある悪意、妖気）
  
 **Danzo:**
-（いずれも<ruby><rb>是</rb><rt>これ</rt></ruby>なる人物からは感じられず、　虫の知らせもありませぬ！）
+（いずれも<ruby>是<rt>これ</rt></ruby>なる人物からは感じられず、　虫の知らせもありませぬ！）
  
 **Danzo:**
 （なんと申し上げるべきか&mdash;　魔力の質さえ、まるで違っておりまする！）
@@ -7831,7 +7831,7 @@ We’re looking for our prey. Our Casters.
 何せ、随分と遠くから来たらしいからな！
  
 **Ashiya Dōman:**
-そう、ですか。たとえば<ruby><rb>相模</rb><rt>さ が み</rt></ruby>のあたり？
+そう、ですか。たとえば<ruby>相模<rt>さ が み</rt></ruby>のあたり？
  
 **Sakata Kintoki:**
 どうかねぇ！
@@ -7840,7 +7840,7 @@ We’re looking for our prey. Our Casters.
 何事だ。騒々しい。
  
 **宮中の貴人:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>を何処と心得ておる、道満。畏れ多くも<ruby><rb>帝</rb><rt>みかど</rt></ruby>のおわす宮中であるぞ。忘れたか？
+<ruby>此処<rt>こ　こ</rt></ruby>を何処と心得ておる、道満。畏れ多くも<ruby>帝<rt>みかど</rt></ruby>のおわす宮中であるぞ。忘れたか？
  
 **Fujiwara no Kaoriko:**
 み、道長様……！
@@ -7849,7 +7849,7 @@ We’re looking for our prey. Our Casters.
 香子か。ふむ&mdash;
  
 **Fujiwara no Michinaga:**
-&mdash;<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>におるのは源氏郎等の怪童丸と、ふむ。
+&mdash;<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>におるのは源氏郎等の怪童丸と、ふむ。
  
 **Fujiwara no Michinaga:**
 見ない顔だ。貴様、何者か。
@@ -7860,7 +7860,7 @@ We’re looking for our prey. Our Casters.
 内裏に、珍しき客あり。
  
 **Narration:**
-内裏とは<ruby><rb>政</rb><rt>まつりごと</rt></ruby>の場にて&mdash;<ruby><rb>帝</rb><rt>みかど</rt></ruby>のおわす、やんごとなき<ruby><rb>処</rb><rt>ところ</rt></ruby>。
+内裏とは<ruby>政<rt>まつりごと</rt></ruby>の場にて&mdash;<ruby>帝<rt>みかど</rt></ruby>のおわす、やんごとなき<ruby>処<rt>ところ</rt></ruby>。
  
 **Narration:**
 武勇に名高き源氏武者と云えど、道長様に仕える武辺者と云えど、
@@ -7869,7 +7869,7 @@ We’re looking for our prey. Our Casters.
 易々と上がること叶わず。
  
 **Narration:**
-であるにも<ruby><rb>拘</rb><rt>かか</rt></ruby>わらず、かの若武者一行は内裏に上がりたいのだと云う。
+であるにも<ruby>拘<rt>かか</rt></ruby>わらず、かの若武者一行は内裏に上がりたいのだと云う。
  
 **Narration:**
 目的は、当代の陰陽師&mdash;
@@ -7884,13 +7884,13 @@ We’re looking for our prey. Our Casters.
 果たして……若武者一行は法師様とお会いになった。
  
 **Narration:**
-ならば<ruby><rb>是</rb><rt>これ</rt></ruby>にて<ruby><rb>終</rb><rt>しま</rt></ruby>い、若武者一行はすぐさま 内裏を後にするものと思いきや。
+ならば<ruby>是<rt>これ</rt></ruby>にて<ruby>終<rt>しま</rt></ruby>い、若武者一行はすぐさま 内裏を後にするものと思いきや。
  
 **Narration:**
 まさかまさかの……
  
 **Narration:**
-左大臣、<ruby><rb>帝</rb><rt>みかど</rt></ruby>の義父でもあらせられる御方、かの藤原道長様のご登場。
+左大臣、<ruby>帝<rt>みかど</rt></ruby>の義父でもあらせられる御方、かの藤原道長様のご登場。
  
 **Narration:**
 あまりの驚きに……心の臓、ぴたりと止まってしまうかと……
@@ -7905,7 +7905,7 @@ We’re looking for our prey. Our Casters.
 ……左大臣殿においては、ご機嫌麗しく。
  
 **Sakata Kintoki:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なるは我が[♂弟分/♀妹分]、いずれは四天王の一角にも並び立つ意気の持ち主！
+<ruby>是<rt>これ</rt></ruby>なるは我が[♂弟分/♀妹分]、いずれは四天王の一角にも並び立つ意気の持ち主！
  
 **Sakata Kintoki:**
 故あって宮中へ連れ込みましたこと、金時の独断にて。どうか、お目こぼしを！
@@ -7920,7 +7920,7 @@ We’re looking for our prey. Our Casters.
 ……は、はい。失礼いたしました。
  
 **Fujiwara no Michinaga:**
-さて&mdash;<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の[♂男/♀娘]、顔を見せろ。
+さて&mdash;<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>の[♂男/♀娘]、顔を見せろ。
  
 ---
 
@@ -7941,7 +7941,7 @@ We’re looking for our prey. Our Casters.
 成る程。明日の源氏の若武者か？いや、いや。怪童丸はそう申してはいなかったな。
  
 **Fujiwara no Michinaga:**
-怯えの色のひとつもあれば、あやしき者と見て、直ちに首を<ruby><rb>刎</rb><rt>は</rt></ruby>ねる処だが……
+怯えの色のひとつもあれば、あやしき者と見て、直ちに首を<ruby>刎<rt>は</rt></ruby>ねる処だが……
  
 **Fujiwara no Michinaga:**
 フフ、面白い。その胆力、かつて余程の大怨霊とでもまみえたか？
@@ -7956,7 +7956,7 @@ We’re looking for our prey. Our Casters.
 ……御意。
  
 **Fujiwara no Michinaga:**
-異形の血なぞ貴人には不要だが、武士ならば使いようよ。<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>に満仲も心得たもの。
+異形の血なぞ貴人には不要だが、武士ならば使いようよ。<ruby>斯様<rt>か よ う</rt></ruby>に満仲も心得たもの。
  
 **Fujiwara no Michinaga:**
 責めはせん。面を上げて構わんぞ、足柄の。
@@ -7992,7 +7992,7 @@ We’re looking for our prey. Our Casters.
 （出方によっちゃあ首が飛ぶ&mdash;よな、やっぱり）
  
 **Sakata Kintoki:**
-（へへッ！　<ruby><rb>是</rb><rt>これ</rt></ruby>は<ruby><rb>是</rb><rt>これ</rt></ruby>で面白えんじゃねえのかい、坂田金時！）
+（へへッ！　<ruby>是<rt>これ</rt></ruby>は<ruby>是<rt>これ</rt></ruby>で面白えんじゃねえのかい、坂田金時！）
  
 **Sakata Kintoki:**
 （そンじゃまあ腹ァ括るとすっか！　京の平安のためとお分かり戴く他にねえや！！）
@@ -8019,10 +8019,10 @@ We’re looking for our prey. Our Casters.
 ………………天覧聖杯戦争。
  
 **Sakata Kintoki:**
-天覧聖杯戦争なる大仕掛け！京の平安一千年を招くモノであるとは、<ruby><rb>是</rb><rt>これ</rt></ruby>、偽り！
+天覧聖杯戦争なる大仕掛け！京の平安一千年を招くモノであるとは、<ruby>是<rt>これ</rt></ruby>、偽り！
  
 **Sakata Kintoki:**
-偽りにて<ruby><rb>候</rb><rt>そうろう</rt></ruby>！ 
+偽りにて<ruby>候<rt>そうろう</rt></ruby>！ 
  
 **Ashiya Dōman:**
 ！？
@@ -8031,7 +8031,7 @@ We’re looking for our prey. Our Casters.
 ほう……。
  
 **Sakata Kintoki:**
-その正体こそは邪悪の渦！<ruby><rb>遍</rb><rt>あまね</rt></ruby>く世に大乱招くモノにして……
+その正体こそは邪悪の渦！<ruby>遍<rt>あまね</rt></ruby>く世に大乱招くモノにして……
  
 **Sakata Kintoki:**
 京の平安乱す凶賊の企てとの疑、あり！
@@ -8046,7 +8046,7 @@ We’re looking for our prey. Our Casters.
 凶賊の企て！？そのような……
  
 **Ashiya Dōman:**
-しかし、晴明殿からの<ruby><rb>文</rb><rt>ふみ</rt></ruby>は確かに直筆……&mdash;
+しかし、晴明殿からの<ruby>文<rt>ふみ</rt></ruby>は確かに直筆……&mdash;
  
 **Fujiwara no Michinaga:**
 はは。はははは。
@@ -8058,7 +8058,7 @@ We’re looking for our prey. Our Casters.
 忘れたか怪童丸、天覧の死合いは晴明の考案！
  
 **Fujiwara no Michinaga:**
-当代最高の陰陽師の言を軽んじるは、如何にも、坂東生まれの山童らしき<ruby><rb>天衣無縫</rb><rt>て ん い む ほ う</rt></ruby>だが、
+当代最高の陰陽師の言を軽んじるは、如何にも、坂東生まれの山童らしき<ruby>天衣無縫<rt>て ん い む ほ う</rt></ruby>だが、
  
 **Fujiwara no Michinaga:**
 口を開く前に考えよ！
@@ -8082,16 +8082,16 @@ We’re looking for our prey. Our Casters.
 ……し、しかし。左大臣殿。
  
 **Sakata Kintoki:**
-陰陽師よりの言は<ruby><rb>文</rb><rt>ふみ</rt></ruby>と聞き及び&mdash;
+陰陽師よりの言は<ruby>文<rt>ふみ</rt></ruby>と聞き及び&mdash;
  
 **Sakata Kintoki:**
-ええいまどろっこしい！晴明の旦那、顔見せずに<ruby><rb>文</rb><rt>ふみ</rt></ruby>だけ寄越してンだろ！
+ええいまどろっこしい！晴明の旦那、顔見せずに<ruby>文<rt>ふみ</rt></ruby>だけ寄越してンだろ！
  
 **Sakata Kintoki:**
-如何にも怪しいじゃねえかよ！　なァ！そりゃあ本物の晴明殿の<ruby><rb>文</rb><rt>ふみ</rt></ruby>なのか？
+如何にも怪しいじゃねえかよ！　なァ！そりゃあ本物の晴明殿の<ruby>文<rt>ふみ</rt></ruby>なのか？
  
 **Sakata Kintoki:**
-凶賊の<ruby><rb>騙</rb><rt>かた</rt></ruby>りじゃねえのか？なあ、左大臣殿！
+凶賊の<ruby>騙<rt>かた</rt></ruby>りじゃねえのか？なあ、左大臣殿！
  
 **Fujiwara no Kaoriko:**
 金時様、金時様……！い、い、いけません……いけませんっ。
@@ -8112,10 +8112,10 @@ We’re looking for our prey. Our Casters.
 &mdash;フム。
  
 **Fujiwara no Michinaga:**
-さて。怪童丸が<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>まで言の葉をまくしたてるとは、
+さて。怪童丸が<ruby>此処<rt>こ　こ</rt></ruby>まで言の葉をまくしたてるとは、
  
 **Fujiwara no Michinaga:**
-ついぞなかった事柄ではある。貴様、嘘なぞ<ruby><rb>碌</rb><rt>ろく</rt></ruby>に吐いた事もなかろうよ。
+ついぞなかった事柄ではある。貴様、嘘なぞ<ruby>碌<rt>ろく</rt></ruby>に吐いた事もなかろうよ。
  
 **Fujiwara no Michinaga:**
 凶賊と云ったな。仔細は。
@@ -8160,7 +8160,7 @@ We’re looking for our prey. Our Casters.
 成る程、如何にも興味をそそられる！日の本とも大陸とも別なる異境異界が在ることは、
  
 **Fujiwara no Michinaga:**
-既に複数の<ruby><rb>英霊</rb><rt>キャスター</rt></ruby>どもが<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>に姿を現していることからも明らか。
+既に複数の<ruby>英霊<rt>キャスター</rt></ruby>どもが<ruby>現世<rt>うつしよ</rt></ruby>に姿を現していることからも明らか。
  
 **Fujiwara no Michinaga:**
 そうとも、異境異界には、従順なるモノばかりが揃う訳でもなかろうさ。
@@ -8169,7 +8169,7 @@ We’re looking for our prey. Our Casters.
 ある程度の筋は通る。……しかしな。
  
 **Fujiwara no Michinaga:**
-晴明の<ruby><rb>文</rb><rt>ふみ</rt></ruby>はまこと晴明の筆である。花押、筆の運び、いずれも晴明のモノであった。
+晴明の<ruby>文<rt>ふみ</rt></ruby>はまこと晴明の筆である。花押、筆の運び、いずれも晴明のモノであった。
  
 **Fujiwara no Michinaga:**
 そうだな？　道満。
@@ -8187,7 +8187,7 @@ We’re looking for our prey. Our Casters.
 （段蔵サンは別人と断じた。　ソレはしっかりオレたちも呑まなきゃなんねえ）
  
 **Sakata Kintoki:**
-（<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で道満殿がリンボかもと叫んでも、　実際のトコ、言いがかりにしかならねェンだ）
+（<ruby>此処<rt>こ　こ</rt></ruby>で道満殿がリンボかもと叫んでも、　実際のトコ、言いがかりにしかならねェンだ）
  
 ---
 
@@ -8216,7 +8216,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Fujiwara no Michinaga:**
-加えて。疑、とまで<ruby><rb>宣</rb><rt>のたま</rt></ruby>うにはあまりに<ruby><rb>証</rb><rt>あかし</rt></ruby>が足らぬ。
+加えて。疑、とまで<ruby>宣<rt>のたま</rt></ruby>うにはあまりに<ruby>証<rt>あかし</rt></ruby>が足らぬ。
  
 **Fujiwara no Michinaga:**
 リンボなる者の企て、成る程筋は通っていようが、所詮おまえたちの言のみである。
@@ -8231,7 +8231,7 @@ We’re looking for our prey. Our Casters.
 （……そりゃ、まあそうだ！！）
  
 **Sakata Kintoki:**
-（出たとこ勝負で云ってみたがこうなるよなァ！　<ruby><rb>証</rb><rt>あかし</rt></ruby>つったって……）
+（出たとこ勝負で云ってみたがこうなるよなァ！　<ruby>証<rt>あかし</rt></ruby>つったって……）
  
 **Sakata Kintoki:**
 （藤丸と、　カルデア連中の言の葉だけとくる）
@@ -8252,7 +8252,7 @@ We’re looking for our prey. Our Casters.
 私も、聞く耳は持っている。
  
 **Fujiwara no Michinaga:**
-天覧聖杯戦争が邪悪の企てであると云うのなら、その<ruby><rb>証</rb><rt>あかし</rt></ruby>を立てよ。我が前に見せよ！
+天覧聖杯戦争が邪悪の企てであると云うのなら、その<ruby>証<rt>あかし</rt></ruby>を立てよ。我が前に見せよ！
  
 **Sakata Kintoki:**
 ！
@@ -8264,7 +8264,7 @@ We’re looking for our prey. Our Casters.
 物言いに気を付けろよ、怪童丸。
  
 **Fujiwara no Michinaga:**
-話を戻す。企ての確たる<ruby><rb>証</rb><rt>あかし</rt></ruby>を立てるか、或いは……
+話を戻す。企ての確たる<ruby>証<rt>あかし</rt></ruby>を立てるか、或いは……
  
 **Fujiwara no Michinaga:**
 残る天覧武者すべてが、天覧聖杯戦争に否を告げれば、続行は難しかろうよ。
@@ -8285,7 +8285,7 @@ We’re looking for our prey. Our Casters.
 都の守護たる<u>源氏の総意として</u>、天覧聖杯戦争は悪なりと私に告げてみせるがよい。
  
 **Fujiwara no Michinaga:**
-さすれば、私も耳を傾けぬでもない。<ruby><rb>帝</rb><rt>みかど</rt></ruby>おわす都の守護は地上の何より尊き務めなれば、
+さすれば、私も耳を傾けぬでもない。<ruby>帝<rt>みかど</rt></ruby>おわす都の守護は地上の何より尊き務めなれば、
  
 **Fujiwara no Michinaga:**
 それを司る源氏とその郎等、総意を以て天覧の死合いに背を向け……
@@ -8338,10 +8338,10 @@ We’re looking for our prey. Our Casters.
 故にどちらの条件も不成立は必定。天覧聖杯戦争、必ずや成し遂げてみせよう。
  
 **Fujiwara no Michinaga:**
-おお、綱！　天下の宝刀髭切を<ruby><rb>佩</rb><rt>は</rt></ruby>く武者よ！
+おお、綱！　天下の宝刀髭切を<ruby>佩<rt>は</rt></ruby>く武者よ！
  
 **Fujiwara no Michinaga:**
-ははははははははは、金時！<ruby><rb>是</rb><rt>これ</rt></ruby>は、なかなか険しい道となったのではないか？
+ははははははははは、金時！<ruby>是<rt>これ</rt></ruby>は、なかなか険しい道となったのではないか？
  
 **Sakata Kintoki:**
 綱の兄ィ……！
@@ -8356,13 +8356,13 @@ We’re looking for our prey. Our Casters.
 そうだっけかねェ？
  
 **Watanabe no Tsuna:**
-宮中でなければ即刻改め、斬り捨てている<ruby><rb>処</rb><rt>ところ</rt></ruby>だ、<ruby><rb>主馬佑</rb><rt>しゅめのすけ</rt></ruby>。とはいえ……
+宮中でなければ即刻改め、斬り捨てている<ruby>処<rt>ところ</rt></ruby>だ、<ruby>主馬佑<rt>しゅめのすけ</rt></ruby>。とはいえ……
  
 **Watanabe no Tsuna:**
 フ。地の利、か？
  
 **Watanabe no Tsuna:**
-俺に、一度吐いた言の葉を捨てさせたのは確か。<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>はおまえが一枚上手だ。
+俺に、一度吐いた言の葉を捨てさせたのは確か。<ruby>此処<rt>こ　こ</rt></ruby>はおまえが一枚上手だ。
  
 **Sakata Kintoki:**
 ソイツはどうも。
@@ -8392,7 +8392,7 @@ We’re looking for our prey. Our Casters.
 なりませぬ。決して、この場ではなりませぬぞ。
  
 **Ashiya Dōman:**
-&mdash;宮中にございます、どうか<ruby><rb>刃傷</rb><rt>にんじょう</rt></ruby>はご容赦をば。
+&mdash;宮中にございます、どうか<ruby>刃傷<rt>にんじょう</rt></ruby>はご容赦をば。
  
 **--ARROW--**
  
@@ -8406,7 +8406,7 @@ We’re looking for our prey. Our Casters.
 ンで、更にだ。
  
 **Sakata Kintoki:**
-なんと左大臣殿の言質を取れた。こいつは<ruby><rb>重畳</rb><rt>ちょうじょう</rt></ruby>ってぇ奴だ。
+なんと左大臣殿の言質を取れた。こいつは<ruby>重畳<rt>ちょうじょう</rt></ruby>ってぇ奴だ。
  
 **Sakata Kintoki:**
 源氏の総意か、天覧武者の総意を取れば、オレたちは天覧聖杯戦争をすぱっと止められる。
@@ -8418,7 +8418,7 @@ We’re looking for our prey. Our Casters.
 渡辺綱殿の存在は脅威ではありますが、ひとまず置いて考えると&mdash;
  
 **Danzo:**
-残る三組の<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>とサーヴァントを 探し当てるのが宜しいでしょうか。
+残る三組の<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>とサーヴァントを 探し当てるのが宜しいでしょうか。
  
 **Danzo:**
 源氏の総意を取るのは、それより難しいと考えて構いませぬか？
@@ -8450,7 +8450,7 @@ We’re looking for our prey. Our Casters.
 成る程ねえ。それなりに切り替えが早ぇな、アンタ。
  
 **Sakata Kintoki:**
-悪くねえぜ。はは、まるで<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>だ。
+悪くねえぜ。はは、まるで<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>だ。
  
 **Sakata Kintoki:**
 カルデアの藤丸、見知らぬ場所での立ち回りは手慣れたもんか？
@@ -8476,10 +8476,10 @@ We’re looking for our prey. Our Casters.
 違いねえ！よっしゃ、ンじゃあ噂集めるとすっか&mdash;
  
 **Danzo:**
-深夜や早朝とは打って変わった賑わい。昼日中、<ruby><rb>是</rb><rt>これ</rt></ruby>ほどであったとは……
+深夜や早朝とは打って変わった賑わい。昼日中、<ruby>是<rt>これ</rt></ruby>ほどであったとは……
  
 **Danzo:**
-流石は平安京。いえ、<ruby><rb>是</rb><rt>これ</rt></ruby>こそが正しき姿と云うべきでしょうか。
+流石は平安京。いえ、<ruby>是<rt>これ</rt></ruby>こそが正しき姿と云うべきでしょうか。
  
 **Sakata Kintoki:**
 まあな。ああ、そっか。
@@ -8494,10 +8494,10 @@ We’re looking for our prey. Our Casters.
 きんときだー！　きんちゃーん！
  
 **京の男:**
-おお、<ruby><rb>相模</rb><rt>さ が み</rt></ruby>の怪童！はーまた一回りでかくならはってまあ！
+おお、<ruby>相模<rt>さ が み</rt></ruby>の怪童！はーまた一回りでかくならはってまあ！
  
 **京の男:**
-何や大層な[♂べっぴんさん/♀べっぴんさんたち]連れて、源氏の<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>様は知ってるのかい？
+何や大層な[♂べっぴんさん/♀べっぴんさんたち]連れて、源氏の<ruby>棟梁<rt>とうりょう</rt></ruby>様は知ってるのかい？
  
 **京の女:**
 まあまあ、今日は餅でも持っていったらよろしおす。遠慮せんと、うちらと金ちゃんの仲やないの！
@@ -8521,10 +8521,10 @@ We’re looking for our prey. Our Casters.
 そっちの鬼はどうってことないやろ。それこそ源氏武者がいなさる。
  
 **京の男:**
-ここはあれやろ、土蜘蛛どもやろなぁ。<ruby><rb>道祖</rb><rt>さ　い</rt></ruby>の大路向こうにゃ宵闇の頃に出るってぇ話で。
+ここはあれやろ、土蜘蛛どもやろなぁ。<ruby>道祖<rt>さ　い</rt></ruby>の大路向こうにゃ宵闇の頃に出るってぇ話で。
  
 **京の女:**
-暗なった後なら珍しないわぁ。そんなもん、<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>の大路にかて出るやないの。
+暗なった後なら珍しないわぁ。そんなもん、<ruby>朱雀<rt>す ざ く</rt></ruby>の大路にかて出るやないの。
  
 **京の男:**
 土蜘蛛は出ぇへんやろ～。なあ、怪童！
@@ -8533,10 +8533,10 @@ We’re looking for our prey. Our Casters.
 ん？　ああ、どうかなァ。
  
 **京の女:**
-あかんあかん、そんなんやったらあかん。源氏武者云うたら<ruby><rb>大土蜘蛛</rb><rt>お お つ ち ぐ も</rt></ruby>あたりの大物やないと！
+あかんあかん、そんなんやったらあかん。源氏武者云うたら<ruby>大土蜘蛛<rt>お お つ ち ぐ も</rt></ruby>あたりの大物やないと！
  
 **京の女:**
-夜の京にうろつく物の怪あたりは、<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>はんたちの出番やろ？
+夜の京にうろつく物の怪あたりは、<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>はんたちの出番やろ？
  
 **Sakata Kintoki:**
 はは、気ィ遣わせちまって悪ィ。
@@ -8568,7 +8568,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-夜な夜な<ruby><rb>彷徨</rb><rt>さまよ</rt></ruby>い歩く、見上げる程に大柄なる怪異。鋼の怪&mdash;
+夜な夜な<ruby>彷徨<rt>さまよ</rt></ruby>い歩く、見上げる程に大柄なる怪異。鋼の怪&mdash;
  
 **京の子供:**
 うん、それ！
@@ -8589,7 +8589,7 @@ We’re looking for our prey. Our Casters.
 西坊城小路あたりに従姉妹がおるんやけど、その娘がなあ。
  
 **京の女:**
-<ruby><rb>子</rb><rt>ね</rt></ruby>の刻あたりに、ぎしぎし妙な音がして、鋼の怪が出よる&mdash;って。
+<ruby>子<rt>ね</rt></ruby>の刻あたりに、ぎしぎし妙な音がして、鋼の怪が出よる&mdash;って。
  
 **Danzo:**
 ……。
@@ -8676,10 +8676,10 @@ We’re looking for our prey. Our Casters.
 
  
 **Sakata Kintoki:**
-本物の<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>たちほどじゃねえさ。凶賊探しや人探しは、連中の領分だからな。
+本物の<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>たちほどじゃねえさ。凶賊探しや人探しは、連中の領分だからな。
  
 **Sakata Kintoki:**
-オレたちは京を<ruby><rb>蹂躙</rb><rt>じゅうりん</rt></ruby>せんと迫る鬼どもの対処やら、<ruby><rb>大土蜘蛛</rb><rt>お お つ ち ぐ も</rt></ruby>やらの怪異の巣の討滅だとか&mdash;
+オレたちは京を<ruby>蹂躙<rt>じゅうりん</rt></ruby>せんと迫る鬼どもの対処やら、<ruby>大土蜘蛛<rt>お お つ ち ぐ も</rt></ruby>やらの怪異の巣の討滅だとか&mdash;
  
 **Sakata Kintoki:**
 寺や貴人の屋敷におん出た怨霊退治だとか、坂東の乱の残党狩りだとか、
@@ -8688,10 +8688,10 @@ We’re looking for our prey. Our Casters.
 まあ、そう云うのばっかりさ。
  
 **Sakata Kintoki:**
-でも、ま。<ruby><rb>偶</rb><rt>たま</rt></ruby>にはな。
+でも、ま。<ruby>偶<rt>たま</rt></ruby>にはな。
  
 **Sakata Kintoki:**
-<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>じみた真似もするんだ。こんな風に。
+<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>じみた真似もするんだ。こんな風に。
  
 **Sakata Kintoki:**
 息を殺して物陰に隠れて、何がどうなってやがるか探りを入れる。
@@ -8727,7 +8727,7 @@ We’re looking for our prey. Our Casters.
 オレは御山で育ったんだ。云ったっけか？
  
 **Sakata Kintoki:**
-ずっとずっと東、<ruby><rb>相模</rb><rt>さ が み</rt></ruby>国は足柄の山奥さ。人なんざいねえ。
+ずっとずっと東、<ruby>相模<rt>さ が み</rt></ruby>国は足柄の山奥さ。人なんざいねえ。
  
 **Sakata Kintoki:**
 御山には獣、獣、獣。偶に鬼だか何だか。
@@ -8739,7 +8739,7 @@ We’re looking for our prey. Our Casters.
 にっこり笑って走り回るガキどもに、飯をこさえてくれる母親、あくせく働く父親……
  
 **Sakata Kintoki:**
-人の<ruby><rb>衆生</rb><rt>みんな</rt></ruby>ってやつをさ。山じゃちっとも見なかった。
+人の<ruby>衆生<rt>みんな</rt></ruby>ってやつをさ。山じゃちっとも見なかった。
  
 **Sakata Kintoki:**
 それが、都に来てからよく見るようになった。オレっちはさ……
@@ -8787,7 +8787,7 @@ We’re looking for our prey. Our Casters.
 そして段蔵、戻りがてらに、稲荷神社境内周辺を一通り探査してございます。
  
 **Danzo:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の茂みの奥に<ruby><rb>祠</rb><rt>ほこら</rt></ruby>がひとつ。その奥に、<ruby><rb>天然自然</rb><rt>てんねんしぜん</rt></ruby>の洞穴への入口を発見した次第にて！
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>の茂みの奥に<ruby>祠<rt>ほこら</rt></ruby>がひとつ。その奥に、<ruby>天然自然<rt>てんねんしぜん</rt></ruby>の洞穴への入口を発見した次第にて！
  
 **Sakata Kintoki:**
 ヒュウ！
@@ -8819,16 +8819,16 @@ We’re looking for our prey. Our Casters.
 稲荷の地下に洞穴か。
  
 **Sakata Kintoki:**
-確かに、<ruby><rb>天然自然</rb><rt>てんねんしぜん</rt></ruby>のもんに見えらあな。何処まで続いてんのか……
+確かに、<ruby>天然自然<rt>てんねんしぜん</rt></ruby>のもんに見えらあな。何処まで続いてんのか……
  
 **Sakata Kintoki:**
-風の通る感じからすっと、<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>まで長いもンじゃねえみたいだが、
+風の通る感じからすっと、<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>まで長いもンじゃねえみたいだが、
  
 **Sakata Kintoki:**
-ハッ、コイツはなかなか！<ruby><rb>疎</rb><rt>うと</rt></ruby>いオレでも肌にビリビリと感じやがるぜ。
+ハッ、コイツはなかなか！<ruby>疎<rt>うと</rt></ruby>いオレでも肌にビリビリと感じやがるぜ。
  
 **Danzo:**
-は。まさしく。段蔵の<ruby><rb>感覚器</rb><rt>セ ン サ ー</rt></ruby>も同様に感じておりまする。
+は。まさしく。段蔵の<ruby>感覚器<rt>セ ン サ ー</rt></ruby>も同様に感じておりまする。
  
 **Danzo:**
 さして深くはありませぬが、この洞穴……
@@ -8866,7 +8866,7 @@ We’re looking for our prey. Our Casters.
 いえ、今はこう云うべきですね。聖杯戦争参加者にとっては絶好の地の利！
  
 **Danzo:**
-マスターや英霊の魔力源となりましょう。天覧聖杯戦争ならば、<ruby><rb>術者</rb><rt>キャスター</rt></ruby>にとっての要地かと！
+マスターや英霊の魔力源となりましょう。天覧聖杯戦争ならば、<ruby>術者<rt>キャスター</rt></ruby>にとっての要地かと！
  
 **Sakata Kintoki:**
 って、コトはだ&mdash;
@@ -8875,10 +8875,10 @@ We’re looking for our prey. Our Casters.
 ハハ！まさか、いきなり当たりを引いたかよ！
  
 **Sakata Kintoki:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>、何者かいやがるぜ！化生か鬼か土蜘蛛か！
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>、何者かいやがるぜ！化生か鬼か土蜘蛛か！
  
 **Sakata Kintoki:**
-はたまた異境異界からの<ruby><rb>客人</rb><rt>まれびと</rt></ruby>か&mdash;なァ！
+はたまた異境異界からの<ruby>客人<rt>まれびと</rt></ruby>か&mdash;なァ！
  
 **Danzo:**
 前方、魔力反応あり！！
@@ -8904,13 +8904,13 @@ We’re looking for our prey. Our Casters.
 
  
 **Sakata Kintoki:**
-面白れえ、確かに鋼の塊だ！しかしその<ruby><rb>形</rb><rt>ナリ</rt></ruby>は大具足に似て非なるモノ！
+面白れえ、確かに鋼の塊だ！しかしその<ruby>形<rt>ナリ</rt></ruby>は大具足に似て非なるモノ！
  
 **Sakata Kintoki:**
-名乗りもねェなら天覧武者じゃあるまい！へへっ、となりゃ異境異界の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>サンかァ！？
+名乗りもねェなら天覧武者じゃあるまい！へへっ、となりゃ異境異界の<ruby>術者<rt>キャスター</rt></ruby>サンかァ！？
  
 **Danzo:**
-<ruby><rb>術者</rb><rt>キャスター</rt></ruby>そのものではありません！恐らくは使い魔、或いは分身の類！
+<ruby>術者<rt>キャスター</rt></ruby>そのものではありません！恐らくは使い魔、或いは分身の類！
  
 **鋼の怪:**
 ！
@@ -8933,13 +8933,13 @@ We’re looking for our prey. Our Casters.
 式神か。
  
 **Danzo:**
-そのようなモノです。<ruby><rb>是</rb><rt>これ</rt></ruby>なる洞、<ruby><rb>洛内</rb><rt>らくない</rt></ruby>の全霊脈の交差点ではないまでも、
+そのようなモノです。<ruby>是<rt>これ</rt></ruby>なる洞、<ruby>洛内<rt>らくない</rt></ruby>の全霊脈の交差点ではないまでも、
  
 **Danzo:**
 芳醇にして濃密な魔力を段蔵は感じておりまする。術者の英霊にとっては、如何にも要地。
  
 **Danzo:**
-ある種の怪異にとっては格好の巣。恐らく、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>を発見した<ruby><rb>術者</rb><rt>キャスター</rt></ruby>は&mdash;
+ある種の怪異にとっては格好の巣。恐らく、<ruby>此処<rt>こ　こ</rt></ruby>を発見した<ruby>術者<rt>キャスター</rt></ruby>は&mdash;
  
 **Danzo:**
 <u>怪異避け</u>として、アレを配置したと思われます。
@@ -8948,7 +8948,7 @@ We’re looking for our prey. Our Casters.
 そんなトコかね？
  
 **Sakata Kintoki:**
-<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>を仕留めるには如何にも足りねえ。うろつく小物の怪異避けってンなら、合点だ。
+<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>を仕留めるには如何にも足りねえ。うろつく小物の怪異避けってンなら、合点だ。
  
 ---
 
@@ -8963,7 +8963,7 @@ We’re looking for our prey. Our Casters.
 はい。
  
 **Sakata Kintoki:**
-<ruby><rb>先刻</rb><rt>さっき</rt></ruby>も云ってたな。そりゃあ何だ？
+<ruby>先刻<rt>さっき</rt></ruby>も云ってたな。そりゃあ何だ？
  
 ---
 
@@ -8980,10 +8980,10 @@ We’re looking for our prey. Our Casters.
 何処の誰だい？アンタたちカルデアのお仲間サンか、それとも、
  
 **Sakata Kintoki:**
-やっぱり、異境異界の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>か。
+やっぱり、異境異界の<ruby>術者<rt>キャスター</rt></ruby>か。
  
 **Danzo:**
-言の葉の選びに些か迷いますが、<ruby><rb>術者</rb><rt>キャスター</rt></ruby>という認識で宜しいかと。
+言の葉の選びに些か迷いますが、<ruby>術者<rt>キャスター</rt></ruby>という認識で宜しいかと。
  
 **Danzo:**
 たとえ同一人物としての英霊であれど、別の時代、土地に召喚されれば完全なる別人。
@@ -8992,10 +8992,10 @@ We’re looking for our prey. Our Casters.
 ん？？？
  
 **Danzo:**
-失礼いたしました。チャールズ・バベッジなる者、<ruby><rb>術者</rb><rt>キャスター</rt></ruby>です。
+失礼いたしました。チャールズ・バベッジなる者、<ruby>術者<rt>キャスター</rt></ruby>です。
  
 **Danzo:**
-過去……いえ平安の世からは<ruby><rb>暫</rb><rt>しばら</rt></ruby>く後にはなりますが、<ruby><rb>紛</rb><rt>まご</rt></ruby>うことなく人理に刻まれし英霊の一騎。
+過去……いえ平安の世からは<ruby>暫<rt>しばら</rt></ruby>く後にはなりますが、<ruby>紛<rt>まご</rt></ruby>うことなく人理に刻まれし英霊の一騎。
  
 **Danzo:**
 我らカルデア、その名と姿を知っておりまする。
@@ -9090,16 +9090,16 @@ We’re looking for our prey. Our Casters.
 人類史が人類史として在る限りには、絶対に到来することのない明日、でもあります。
  
 **Danzo:**
-<ruby><rb>編纂</rb><rt>へんさん</rt></ruby>事象とならない明日は、すべて剪定されてゆくが人理の定めにて。
+<ruby>編纂<rt>へんさん</rt></ruby>事象とならない明日は、すべて剪定されてゆくが人理の定めにて。
  
 **Sakata Kintoki:**
 成る程。正直、オイラにゃピンと来てねえが……
  
 **Sakata Kintoki:**
-届かなかった偉業の為に人理とやらに刻まれて、テメェの生きたのと違う時代に<ruby><rb>喚</rb><rt>よ</rt></ruby>ばれ、
+届かなかった偉業の為に人理とやらに刻まれて、テメェの生きたのと違う時代に<ruby>喚<rt>よ</rt></ruby>ばれ、
  
 **Sakata Kintoki:**
-<ruby><rb>尚</rb><rt>なお</rt></ruby>も夢見ちまうっていうなら、そいつは……
+<ruby>尚<rt>なお</rt></ruby>も夢見ちまうっていうなら、そいつは……
  
 **Sakata Kintoki:**
 …………何とも、物悲しい話じゃねぇか。
@@ -9113,16 +9113,16 @@ We’re looking for our prey. Our Casters.
 道長様の御言葉を聞く間、私は、まさしく生きた心地がせずにいた。
  
 **Narration:**
-<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な想いは初めてではない。日頃、感ずるところである。
+<ruby>斯様<rt>か よ う</rt></ruby>な想いは初めてではない。日頃、感ずるところである。
  
 **Narration:**
 常に感ずるものではない。偶に、ではあるが……
  
 **Narration:**
-この手が止まる時。まるで旅人が飢え渇き、<ruby><rb>彷徨</rb><rt>さまよ</rt></ruby>うが如き有り様。
+この手が止まる時。まるで旅人が飢え渇き、<ruby>彷徨<rt>さまよ</rt></ruby>うが如き有り様。
  
 **Narration:**
-言の葉を導き、文を<ruby><rb>綴</rb><rt>つづ</rt></ruby>り、物語を編まんとする私の手は……
+言の葉を導き、文を<ruby>綴<rt>つづ</rt></ruby>り、物語を編まんとする私の手は……
  
 **Narration:**
 時に止まってしまう。先日もそう。
@@ -9143,7 +9143,7 @@ We’re looking for our prey. Our Casters.
 　　　　　　　　　　　　　　　以上。　　　　　　　　　　　　　　　或る日記より抜粋。
  
 **Sakata Kintoki:**
-ごっそさん！いや、悪ィなこんな遅くに<ruby><rb>夕餉</rb><rt>ゆうげ</rt></ruby>戴いちまって！
+ごっそさん！いや、悪ィなこんな遅くに<ruby>夕餉<rt>ゆうげ</rt></ruby>戴いちまって！
  
 **家人:**
 何を仰います。香子様の大切なお客様には当然のこと。
@@ -9155,7 +9155,7 @@ We’re looking for our prey. Our Casters.
 いや。明日はそう云うつもりはねえよ。
  
 **家人:**
-では<ruby><rb>朝餉</rb><rt>あさげ</rt></ruby>を用意いたします。皆様、それではおやすみなさいませ。
+では<ruby>朝餉<rt>あさげ</rt></ruby>を用意いたします。皆様、それではおやすみなさいませ。
  
 ---
 
@@ -9191,19 +9191,19 @@ We’re looking for our prey. Our Casters.
 天覧聖杯戦争につきまして。現在、既に敗退したというマスターは二名。
  
 **Danzo:**
-すなわち頼光四天王、<ruby><rb>碓井</rb><rt>う す い</rt></ruby>殿と<ruby><rb>卜部</rb><rt>う ら べ</rt></ruby>殿。彼らを仮に第一、第二のマスターと数えたとして、
+すなわち頼光四天王、<ruby>碓井<rt>う す い</rt></ruby>殿と<ruby>卜部<rt>う ら べ</rt></ruby>殿。彼らを仮に第一、第二のマスターと数えたとして、
  
 **Danzo:**
 渡辺綱殿を第三のマスター。金時殿は第四のマスターであると数えます。
  
 **Danzo:**
-となれば<ruby><rb>此度</rb><rt>こたび</rt></ruby>、稲荷境内に己が分身に等しき ヘルタースケルターを配したと<ruby><rb>思</rb><rt>おぼ</rt></ruby>しき英霊&mdash;
+となれば<ruby>此度<rt>こたび</rt></ruby>、稲荷境内に己が分身に等しき ヘルタースケルターを配したと<ruby>思<rt>おぼ</rt></ruby>しき英霊&mdash;
  
 **Danzo:**
 すなわちチャールズ・バベッジ殿は、知られざる第五のマスターのサーヴァントのはず。
  
 **Danzo:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>までは宜しいですね？
+<ruby>此処<rt>こ　こ</rt></ruby>までは宜しいですね？
  
 **Sakata Kintoki:**
 その場合、藤丸は第四の英霊か？
@@ -9256,7 +9256,7 @@ We’re looking for our prey. Our Casters.
 話を戻そう。第五の英霊がバベッジって奴だとして&mdash;
  
 **Sakata Kintoki:**
-ンじゃ、対になるのは第五の<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>だ。ソイツは何処の誰なのか。
+ンじゃ、対になるのは第五の<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>だ。ソイツは何処の誰なのか。
  
 **Sakata Kintoki:**
 天覧聖杯戦争は邪悪の儀なれば、いざ刃を納めてくれまいか、と……
@@ -9280,7 +9280,7 @@ We’re looking for our prey. Our Casters.
 はい。
  
 **Sakata Kintoki:**
-まるで、<ruby><rb>天覧</rb><rt>こっち</rt></ruby>とはあべこべだぜ。なあ？
+まるで、<ruby>天覧<rt>こっち</rt></ruby>とはあべこべだぜ。なあ？
  
 **Danzo:**
 まさに順逆が入れ替わっています。如何にも、リンボが好みそうな悪戯じみて……
@@ -9344,7 +9344,7 @@ We’re looking for our prey. Our Casters.
 大丈夫……で、ありまする……
  
 **Danzo:**
-でも<ruby><rb>暫</rb><rt>しば</rt></ruby>し……
+でも<ruby>暫<rt>しば</rt></ruby>し……
  
 **Danzo:**
 隅っこのほうに……段蔵は……おりまするね……
@@ -9356,7 +9356,7 @@ We’re looking for our prey. Our Casters.
 あー拗ねんなよ、段蔵サン！違うンだ。オイラが先に云わなかったのが悪い！
  
 **Sakata Kintoki:**
-天覧聖杯戦争の<ruby><rb>開始</rb><rt>はじまり</rt></ruby>にあたり、左大臣殿が申されたのさ。
+天覧聖杯戦争の<ruby>開始<rt>はじまり</rt></ruby>にあたり、左大臣殿が申されたのさ。
  
 **Sakata Kintoki:**
 その、選定基準ってヤツをだ！
@@ -9368,13 +9368,13 @@ We’re looking for our prey. Our Casters.
 それすなわち、平安の都にて誰しもに知られる力ある者である。
  
 **Fujiwara no Michinaga:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>を、天覧武者と呼ぶ。
+<ruby>是<rt>これ</rt></ruby>を、天覧武者と呼ぶ。
  
 **Fujiwara no Michinaga:**
 異境異界の術者を七騎！そして天覧武者を七名！
  
 **Fujiwara no Michinaga:**
-七騎七名、その<ruby><rb>全身全霊</rb><rt>ぜんしんぜんれい</rt></ruby>を以て、術者の首を奪い合え！
+七騎七名、その<ruby>全身全霊<rt>ぜんしんぜんれい</rt></ruby>を以て、術者の首を奪い合え！
  
 **Fujiwara no Michinaga:**
 &mdash;以上。我が言の葉、天の意であると心得よ！
@@ -9386,13 +9386,13 @@ We’re looking for our prey. Our Casters.
 成る程。
  
 **Danzo:**
-……<ruby><rb>術者</rb><rt>キャスター</rt></ruby>の首を奪い合え、とは。
+……<ruby>術者<rt>キャスター</rt></ruby>の首を奪い合え、とは。
  
 **Danzo:**
 英霊とは人の域を超えしモノ。本来、そのように云えるものではありませぬ。
  
 **Danzo:**
-兵の一軍をも軽々と凌駕し、マスターの<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>であれば兵器級の存在であり、
+兵の一軍をも軽々と凌駕し、マスターの<ruby>現世<rt>うつしよ</rt></ruby>であれば兵器級の存在であり、
  
 **Danzo:**
 神話、伝説を地上に再現し得る神秘。それを召喚しておきながら……
@@ -9466,7 +9466,7 @@ We’re looking for our prey. Our Casters.
 はは。そうだろ？
  
 **Sakata Kintoki:**
-煮炊きができる奴なんざオレにとっちゃ大層強え！<ruby><rb>先刻</rb><rt>さっき</rt></ruby>の家人殿なんて相当だぜ！
+煮炊きができる奴なんざオレにとっちゃ大層強え！<ruby>先刻<rt>さっき</rt></ruby>の家人殿なんて相当だぜ！
  
 **Sakata Kintoki:**
 あ、詩が詠める奴とかもそうだなあ。オイラてんで詩は駄目だ……
@@ -9484,7 +9484,7 @@ We’re looking for our prey. Our Casters.
 それでええと……
  
 **Fujiwara no Kaoriko:**
-内裏を出た後で、すぐに<ruby><rb>此方</rb><rt>こちら</rt></ruby>へお戻りではなかったようですが、
+内裏を出た後で、すぐに<ruby>此方<rt>こちら</rt></ruby>へお戻りではなかったようですが、
  
 **Fujiwara no Kaoriko:**
 一体、どちらへ？
@@ -9493,7 +9493,7 @@ We’re looking for our prey. Our Casters.
 それは……
  
 **Sakata Kintoki:**
-ちっとばかし<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>大路をうろついてから、ちと物の怪退治をな。
+ちっとばかし<ruby>朱雀<rt>す ざ く</rt></ruby>大路をうろついてから、ちと物の怪退治をな。
  
 **Fujiwara no Kaoriko:**
 まあ、物の怪を。
@@ -9517,7 +9517,7 @@ We’re looking for our prey. Our Casters.
 いやいやいや。アンタは何ひとつ案ずる事はねえさ、香子サン。
  
 **Sakata Kintoki:**
-<ruby><rb>先刻</rb><rt>さっき</rt></ruby>は空振りだったが、次は仕留める。怖がる奴なんざ一人もいなくなるぜ。
+<ruby>先刻<rt>さっき</rt></ruby>は空振りだったが、次は仕留める。怖がる奴なんざ一人もいなくなるぜ。
  
 **Sakata Kintoki:**
 だからアンタも安心して眠ってくれや。な？
@@ -9616,7 +9616,7 @@ We’re looking for our prey. Our Casters.
 ったく何度来れば気が済むんだテメェ、いい加減……
  
 **Sakata Kintoki:**
-頼光サンに……見つかって、首<ruby><rb>刎</rb><rt>は</rt></ruby>ねられちまう……ぞ……
+頼光サンに……見つかって、首<ruby>刎<rt>は</rt></ruby>ねられちまう……ぞ……
  
 **Sakata Kintoki:**
 ……。……。
@@ -9634,10 +9634,10 @@ We’re looking for our prey. Our Casters.
 …………そう、か。
  
 **Sakata Kintoki:**
-香子サンは<ruby><rb>徒歩</rb><rt>かち</rt></ruby>じゃあねえよな？
+香子サンは<ruby>徒歩<rt>かち</rt></ruby>じゃあねえよな？
  
 **Danzo:**
-<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>にて。
+<ruby>牛車<rt>ぎっしゃ</rt></ruby>にて。
  
 **Sakata Kintoki:**
 おう。刻は、早朝……
@@ -9646,7 +9646,7 @@ We’re looking for our prey. Our Casters.
 でもねえよな。まだまだ暗ぇや。
  
 **Danzo:**
-夜更けにて。正しくは、<ruby><rb>丑三</rb><rt>うしみ</rt></ruby>つ<ruby><rb>時</rb><rt>どき</rt></ruby>の些かばかり前。
+夜更けにて。正しくは、<ruby>丑三<rt>うしみ</rt></ruby>つ<ruby>時<rt>どき</rt></ruby>の些かばかり前。
  
 ---
 
@@ -9685,7 +9685,7 @@ We’re looking for our prey. Our Casters.
 いざ大路に出たのはいいが、北か南か東か西か！
  
 **Danzo:**
-ご報告。香子殿の<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>、稲荷神社へ向かっている様子にて！
+ご報告。香子殿の<ruby>牛車<rt>ぎっしゃ</rt></ruby>、稲荷神社へ向かっている様子にて！
  
 **Sakata Kintoki:**
 あっまた消えた！やるねェ。
@@ -9732,13 +9732,13 @@ We’re looking for our prey. Our Casters.
 …………何処だ、香子サン！
  
 **Sakata Kintoki:**
-<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>は<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>に乗り捨ててあった。従者は知らん顔で主人を待ってる、ときた！
+<ruby>牛車<rt>ぎっしゃ</rt></ruby>は<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>に乗り捨ててあった。従者は知らん顔で主人を待ってる、ときた！
  
 **Sakata Kintoki:**
 こりゃあ……
  
 **Danzo:**
-ご<ruby><rb>慧眼</rb><rt>けいがん</rt></ruby>。香子殿、件の洞穴へ入りました。
+ご<ruby>慧眼<rt>けいがん</rt></ruby>。香子殿、件の洞穴へ入りました。
  
 ---
 
@@ -9765,7 +9765,7 @@ We’re looking for our prey. Our Casters.
 ……魔力濃度、先刻と変わらず。
  
 **Danzo:**
-敵性反応と<ruby><rb>思</rb><rt>おぼ</rt></ruby>しき 魔力反応はありませぬ。
+敵性反応と<ruby>思<rt>おぼ</rt></ruby>しき 魔力反応はありませぬ。
  
 **Danzo:**
 最奥までは走査範囲が届かないため 断言できぬまでも、使い魔は配されていないかと。
@@ -9791,13 +9791,13 @@ We’re looking for our prey. Our Casters.
 おう。
  
 **Sakata Kintoki:**
-香子サンが迎え撃つってのは考え難いが……<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は、いかにも伏兵にゃ絶好の<ruby><rb>処</rb><rt>ところ</rt></ruby>だぜ。
+香子サンが迎え撃つってのは考え難いが……<ruby>此処<rt>こ　こ</rt></ruby>は、いかにも伏兵にゃ絶好の<ruby>処<rt>ところ</rt></ruby>だぜ。
  
 **Sakata Kintoki:**
 こっからは跳ぶのも走るのもナシだ。オレが先頭を行く。
  
 **Sakata Kintoki:**
-<ruby><rb>殿</rb><rt>しんがり</rt></ruby>は頼むぜ、段蔵サン。
+<ruby>殿<rt>しんがり</rt></ruby>は頼むぜ、段蔵サン。
  
 **Danzo:**
 お任せを。
@@ -9806,7 +9806,7 @@ We’re looking for our prey. Our Casters.
 藤丸はオレの後ろ、段蔵サンの前を行け。
  
 **Sakata Kintoki:**
-もしもの時にゃ<ruby><rb>援</rb><rt>たす</rt></ruby>けを頼むぜ！
+もしもの時にゃ<ruby>援<rt>たす</rt></ruby>けを頼むぜ！
  
 ---
 
@@ -9890,10 +9890,10 @@ We’re looking for our prey. Our Casters.
 ……コイツは驚きだ。
  
 **Sakata Kintoki:**
-なんでアンタが<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にいるんだ、清子サンよ。<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>じみた物言いで悪いんだが、尋ねるぜ。
+なんでアンタが<ruby>此処<rt>こ　こ</rt></ruby>にいるんだ、清子サンよ。<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>じみた物言いで悪いんだが、尋ねるぜ。
  
 **Sakata Kintoki:**
-アンタじゃないよな？<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>は。
+アンタじゃないよな？<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>は。
  
 **清子:**
 んー。どうしよっかなぁ。
@@ -9914,16 +9914,16 @@ We’re looking for our prey. Our Casters.
 （天覧聖杯戦争の関係者では、ない？）
  
 **Danzo:**
-……では、何故<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に。
+……では、何故<ruby>此処<rt>こ　こ</rt></ruby>に。
  
 **清子:**
 ……。……。
  
 **Sakata Kintoki:**
-そこを<ruby><rb>退</rb><rt>ど</rt></ruby>いてくれ、清子サン。
+そこを<ruby>退<rt>ど</rt></ruby>いてくれ、清子サン。
  
 **Sakata Kintoki:**
-オレたちは一人でも多くの<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>に会って、話をしなくちゃならねえんだ。
+オレたちは一人でも多くの<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>に会って、話をしなくちゃならねえんだ。
  
 **Sakata Kintoki:**
 何も、荒事を仕掛けようってんじゃねえよ。な。分かってくれ。
@@ -9950,7 +9950,7 @@ We’re looking for our prey. Our Casters.
 でも、ごめんね。やっぱり駄目。
  
 **清子:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>はどうしても通せないのさ。金ちゃんだからじゃなくて、誰も彼も通さない。
+<ruby>此処<rt>こ　こ</rt></ruby>はどうしても通せないのさ。金ちゃんだからじゃなくて、誰も彼も通さない。
  
 ---
 
@@ -9994,7 +9994,7 @@ We’re looking for our prey. Our Casters.
 だから通さない。行かせてあげない。
  
 **清子:**
-とはいえあたしは太刀も相撲もてんで駄目、<ruby><rb>蹴鞠</rb><rt>け ま り</rt></ruby>は好きだけど、他の取り柄はうーんうーん、
+とはいえあたしは太刀も相撲もてんで駄目、<ruby>蹴鞠<rt>け ま り</rt></ruby>は好きだけど、他の取り柄はうーんうーん、
  
 **清子:**
 持ち前のかわいらしさだけ！いとをかし！
@@ -10095,10 +10095,10 @@ We’re looking for our prey. Our Casters.
 …………あの物語、読んだことある？
  
 **清子:**
-あたし、やっぱり好きなんだぁ。<ruby><rb>光君</rb><rt>ひかるきみ</rt></ruby>だけはどーしても趣味じゃないんだけども。
+あたし、やっぱり好きなんだぁ。<ruby>光君<rt>ひかるきみ</rt></ruby>だけはどーしても趣味じゃないんだけども。
  
 **清子:**
-<ruby><rb>耀</rb><rt>かがや</rt></ruby>くばかりの幾つもの恋、明るかったり暗かったり、元気だったり静かだったり。
+<ruby>耀<rt>かがや</rt></ruby>くばかりの幾つもの恋、明るかったり暗かったり、元気だったり静かだったり。
  
 **清子:**
 それがねぇ……なんだか……
@@ -10164,13 +10164,13 @@ We’re looking for our prey. Our Casters.
 笑止である。否、笑わせてくれるな。マスター。
  
 **バベッジ:**
-おまえはおまえの夢を見よ。我が夢の<ruby><rb>残滓</rb><rt>ざ ん し</rt></ruby>、我が思いの果ては我だけのもの。
+おまえはおまえの夢を見よ。我が夢の<ruby>残滓<rt>ざ ん し</rt></ruby>、我が思いの果ては我だけのもの。
  
 **バベッジ:**
 おまえには無用である。そも、物語る、という行為は……。
  
 **バベッジ:**
-夢の旅路を征き、詩聖の閃きの<ruby><rb>頂</rb><rt>いただき</rt></ruby>をこそ求め、己が世界を編み続けるのによく似ている。
+夢の旅路を征き、詩聖の閃きの<ruby>頂<rt>いただき</rt></ruby>をこそ求め、己が世界を編み続けるのによく似ている。
  
 **バベッジ:**
 おまえは、おまえの夢を既に得ている。マスター・カオルコ。
@@ -10250,10 +10250,10 @@ We’re looking for our prey. Our Casters.
 へへっ！
  
 **Sakata Kintoki:**
-重い！コイツは重い<ruby><rb>鎚</rb><rt>つち</rt></ruby>だ！
+重い！コイツは重い<ruby>鎚<rt>つち</rt></ruby>だ！
  
 **Sakata Kintoki:**
-となりゃ今度は本物か、<ruby><rb>正真正銘</rb><rt>しょうしんしょうめい</rt></ruby>の鋼の怪！
+となりゃ今度は本物か、<ruby>正真正銘<rt>しょうしんしょうめい</rt></ruby>の鋼の怪！
  
 **バベッジ:**
 杖である！ 
@@ -10273,7 +10273,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-然り。何故に<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>まで焦っておられるのか！バベッジ殿！
+然り。何故に<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>まで焦っておられるのか！バベッジ殿！
  
 **バベッジ:**
 …………問答は無用。
@@ -10297,16 +10297,16 @@ We’re looking for our prey. Our Casters.
 カオルコ。耳を傾けるな。
  
 **バベッジ:**
-我が身を<ruby><rb>喚</rb><rt>よ</rt></ruby>びしは<ruby><rb>紛</rb><rt>まご</rt></ruby>うことなき聖杯の力であろう！ならば我、鋼となりてマスターの願いに力を注ぐ！
+我が身を<ruby>喚<rt>よ</rt></ruby>びしは<ruby>紛<rt>まご</rt></ruby>うことなき聖杯の力であろう！ならば我、鋼となりてマスターの願いに力を注ぐ！
  
 **Sakata Kintoki:**
 話の通じねえオッサンだな！願いなんざ、叶うかどうか分からねえぞ！
  
 **Sakata Kintoki:**
-ンな不確かな<ruby><rb>聖杯</rb><rt>モ　ノ</rt></ruby>に命を懸けるかよ！鋼の旦那よ！
+ンな不確かな<ruby>聖杯<rt>モ　ノ</rt></ruby>に命を懸けるかよ！鋼の旦那よ！
  
 **バベッジ:**
-<ruby><rb>問答無用</rb><rt>も　ん　ど　う　む　よ　う</rt></ruby>と云った！ 
+<ruby>問答無用<rt>も　ん　ど　う　む　よ　う</rt></ruby>と云った！ 
  
 **バベッジ:**
 人とは儚きモノ。命とは脆きモノ。
@@ -10315,7 +10315,7 @@ We’re looking for our prey. Our Casters.
 故に、僅かな可能性であっても請わずにおれぬ。己が願いのために、すべてを燃やさざるを得ぬ。
  
 **バベッジ:**
-分からぬならば<ruby><rb>退</rb><rt>ひ</rt></ruby>け！ 
+分からぬならば<ruby>退<rt>ひ</rt></ruby>け！ 
  
 **Sakata Kintoki:**
 いやだね！ 
@@ -10350,7 +10350,7 @@ We’re looking for our prey. Our Casters.
 だがオレっち相手に相撲勝負たぁ、面白え！いくぜえええええ！
  
 **Sakata Kintoki:**
-<ruby><rb>八卦</rb><rt>はっけ</rt></ruby>&mdash;よォオオい！ 
+<ruby>八卦<rt>はっけ</rt></ruby>&mdash;よォオオい！ 
  
 **バベッジ:**
 …………！！
@@ -10362,10 +10362,10 @@ We’re looking for our prey. Our Casters.
 機関再始動。機関再始動。
  
 **バベッジ:**
-ガッ……ガガッ……我が鎧、我が<ruby><rb>体躯</rb><rt>たいく</rt></ruby>、駆動に異常発生……だと……
+ガッ……ガガッ……我が鎧、我が<ruby>体躯<rt>たいく</rt></ruby>、駆動に異常発生……だと……
  
 **バベッジ:**
-<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>な……よもや<ruby><rb>是</rb><rt>これ</rt></ruby>程……！
+<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>な……よもや<ruby>是<rt>これ</rt></ruby>程……！
  
 **Fujiwara no Kaoriko:**
 おじさま！
@@ -10391,7 +10391,7 @@ We’re looking for our prey. Our Casters.
 …………。
  
 **Sakata Kintoki:**
-<ruby><rb>藤原為時</rb><rt>ふじわらのためとき</rt></ruby>殿がご息女、藤原香子殿。貴女は天覧聖杯戦争に参じた<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>か、否か。
+<ruby>藤原為時<rt>ふじわらのためとき</rt></ruby>殿がご息女、藤原香子殿。貴女は天覧聖杯戦争に参じた<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>か、否か。
  
 **Fujiwara no Kaoriko:**
 私は……武者、ではありません。
@@ -10412,10 +10412,10 @@ We’re looking for our prey. Our Casters.
 そりゃあそうさ。武でも式神でもなく、アンタは。
  
 **Sakata Kintoki:**
-文字に想い込めて<ruby><rb>綴</rb><rt>つづ</rt></ruby>る、オレには届かねえ、まったく新たな力の持ち主だ！
+文字に想い込めて<ruby>綴<rt>つづ</rt></ruby>る、オレには届かねえ、まったく新たな力の持ち主だ！
  
 **Sakata Kintoki:**
-道長殿も遠回りな言い方をするもんだ。なあ、紫式部殿。第五の<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>。
+道長殿も遠回りな言い方をするもんだ。なあ、紫式部殿。第五の<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>。
  
 **Fujiwara no Kaoriko:**
 ………………。
@@ -10424,7 +10424,7 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Fujiwara no Kaoriko:**
-……道長様は、私が<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>であるとは知りません。蘆屋道満様も。
+……道長様は、私が<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>であるとは知りません。蘆屋道満様も。
  
 **Fujiwara no Kaoriko:**
 知らないはずです。あかしの紋が誰の左手に浮かぶかは、天のみが知る。
@@ -10436,7 +10436,7 @@ We’re looking for our prey. Our Casters.
 戦いません。戦えません。
  
 **Fujiwara no Kaoriko:**
-私は、文を<ruby><rb>綴</rb><rt>つづ</rt></ruby>るだけの女です。天覧聖杯戦争にかける願いなど、あるはずも……
+私は、文を<ruby>綴<rt>つづ</rt></ruby>るだけの女です。天覧聖杯戦争にかける願いなど、あるはずも……
  
 **Fujiwara no Kaoriko:**
 あるはずも、なく……&mdash;
@@ -10477,16 +10477,16 @@ We’re looking for our prey. Our Casters.
 いいんです、おじさま。この方たちは……
  
 **Fujiwara no Kaoriko:**
-おじさまの首を<ruby><rb>刎</rb><rt>は</rt></ruby>ねようとしていません。ならば、言の葉に嘘はないのだと香子は信じます。
+おじさまの首を<ruby>刎<rt>は</rt></ruby>ねようとしていません。ならば、言の葉に嘘はないのだと香子は信じます。
  
 **Fujiwara no Kaoriko:**
-<ruby><rb>真</rb><rt>まこと</rt></ruby>に、嘘を返し続けるのはあまりに無礼。お許しください、皆様。
+<ruby>真<rt>まこと</rt></ruby>に、嘘を返し続けるのはあまりに無礼。お許しください、皆様。
  
 **Fujiwara no Kaoriko:**
 香子は……
  
 **Fujiwara no Kaoriko:**
-&mdash;私の物語を、最高の形で<ruby><rb>綴</rb><rt>つづ</rt></ruby>り終えたい。
+&mdash;私の物語を、最高の形で<ruby>綴<rt>つづ</rt></ruby>り終えたい。
  
 **Fujiwara no Kaoriko:**
 それが願いです。それだけが。
@@ -10503,13 +10503,13 @@ We’re looking for our prey. Our Casters.
 はい。仰る通り。
  
 **Sakata Kintoki:**
-物語なら<ruby><rb>綴</rb><rt>つづ</rt></ruby>ってるさなかだろ？それなら……
+物語なら<ruby>綴<rt>つづ</rt></ruby>ってるさなかだろ？それなら……
  
 **Sakata Kintoki:**
-そのまま、最後まで<ruby><rb>綴</rb><rt>つづ</rt></ruby>ればいいんじゃねえか？
+そのまま、最後まで<ruby>綴<rt>つづ</rt></ruby>ればいいんじゃねえか？
  
 **Sakata Kintoki:**
-アンタが<ruby><rb>綴</rb><rt>つづ</rt></ruby>る物語だ。それなら、アンタが最後まで<ruby><rb>綴</rb><rt>つづ</rt></ruby>ってやりゃいい。
+アンタが<ruby>綴<rt>つづ</rt></ruby>る物語だ。それなら、アンタが最後まで<ruby>綴<rt>つづ</rt></ruby>ってやりゃいい。
  
 **Sakata Kintoki:**
 聖杯なんぞに頼るのは……
@@ -10518,7 +10518,7 @@ We’re looking for our prey. Our Casters.
 ……。……分かりません。
  
 **Fujiwara no Kaoriko:**
-……言の葉を紡ぎ、文を<ruby><rb>綴</rb><rt>つづ</rt></ruby>り、物語を紡ぐこと。それは、水を持たずに夏を歩くのによく似ています。
+……言の葉を紡ぎ、文を<ruby>綴<rt>つづ</rt></ruby>り、物語を紡ぐこと。それは、水を持たずに夏を歩くのによく似ています。
  
 **Fujiwara no Kaoriko:**
 時には、紡ぐのが難しくなる時もあります。
@@ -10533,28 +10533,28 @@ We’re looking for our prey. Our Casters.
 ………………。
  
 **Fujiwara no Kaoriko:**
-<ruby><rb>此度</rb><rt>こたび</rt></ruby>も……私は、<ruby><rb>挫</rb><rt>くじ</rt></ruby>けかけておりました。
+<ruby>此度<rt>こたび</rt></ruby>も……私は、<ruby>挫<rt>くじ</rt></ruby>けかけておりました。
  
 **Fujiwara no Kaoriko:**
-私は、私の物語に……<ruby><rb>光君</rb><rt>ひかるきみ</rt></ruby>のどのような結末を<ruby><rb>綴</rb><rt>つづ</rt></ruby>るべきなのか？
+私は、私の物語に……<ruby>光君<rt>ひかるきみ</rt></ruby>のどのような結末を<ruby>綴<rt>つづ</rt></ruby>るべきなのか？
  
 **Fujiwara no Kaoriko:**
 迷い、悩み、震えて……
  
 **Fujiwara no Kaoriko:**
-眠りながらも、指は、筆を握って空を<ruby><rb>綴</rb><rt>つづ</rt></ruby>ってしまう。
+眠りながらも、指は、筆を握って空を<ruby>綴<rt>つづ</rt></ruby>ってしまう。
  
 **Fujiwara no Kaoriko:**
 昼も、夜も、時が空しく過ぎゆくばかり。そんな折のことでした&mdash;
  
 **Fujiwara no Kaoriko:**
-天覧聖杯戦争。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>に参じる<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>の証。
+天覧聖杯戦争。<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>に参じる<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>の証。
  
 **Fujiwara no Kaoriko:**
 あかしの紋が、この手に浮かび……
  
 **Fujiwara no Kaoriko:**
-バベッジ様が、屋敷にお姿を<ruby><rb>顕</rb><rt>あらわ</rt></ruby>したのは。
+バベッジ様が、屋敷にお姿を<ruby>顕<rt>あらわ</rt></ruby>したのは。
  
 **Fujiwara no Kaoriko:**
 願い……？
@@ -10563,7 +10563,7 @@ We’re looking for our prey. Our Casters.
 然り。願いである。
  
 **バベッジ:**
-おまえの切なる願いが我を導いた。我はおまえの願いを叶えるため、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に<ruby><rb>顕</rb><rt>あらわ</rt></ruby>れたのだ。
+おまえの切なる願いが我を導いた。我はおまえの願いを叶えるため、<ruby>此処<rt>こ　こ</rt></ruby>に<ruby>顕<rt>あらわ</rt></ruby>れたのだ。
  
 **バベッジ:**
 願え。おまえには資格がある。誇れ。おまえには我が力を貸そう。
@@ -10596,7 +10596,7 @@ We’re looking for our prey. Our Casters.
 異境異界よりおいでになった貴方！貴方が誰かさえ分からない、この身なれども！
  
 **Fujiwara no Kaoriko:**
-命を！<ruby><rb>軽々</rb><rt>けいけい</rt></ruby>にやり取りするのは好みません！
+命を！<ruby>軽々<rt>けいけい</rt></ruby>にやり取りするのは好みません！
  
 **Fujiwara no Kaoriko:**
 私は……！
@@ -10635,7 +10635,7 @@ We’re looking for our prey. Our Casters.
 おまえは、サーヴァントに力及ばぬマスターであり、サーヴァントに生命護られるべきマスターである。
  
 **バベッジ:**
-<ruby><rb>其</rb><rt>そ</rt></ruby>は、正しき聖杯戦争が如き。
+<ruby>其<rt>そ</rt></ruby>は、正しき聖杯戦争が如き。
  
 **バベッジ:**
 任せよ。我は、こと護りにあって戦士たちに引けを取らぬ。
@@ -10647,16 +10647,16 @@ We’re looking for our prey. Our Casters.
 ……香子殿を護る。成る程。
  
 **Danzo:**
-辻褄が合ったように感じまする。昼の間、バベッジ殿は<ruby><rb>是</rb><rt>これ</rt></ruby>なる洞穴に潜んでいた。
+辻褄が合ったように感じまする。昼の間、バベッジ殿は<ruby>是<rt>これ</rt></ruby>なる洞穴に潜んでいた。
  
 **Danzo:**
-夜のみ屋敷に戻り、香子殿を他の<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>から護る&mdash;
+夜のみ屋敷に戻り、香子殿を他の<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>から護る&mdash;
  
 **Danzo:**
 そのような作戦だったのではありませぬか？
  
 **Danzo:**
-昼間、万が一に香子殿がマスターだと露呈しても、<ruby><rb>刃傷</rb><rt>にんじょう</rt></ruby>を禁ずる内裏なら大事はない。
+昼間、万が一に香子殿がマスターだと露呈しても、<ruby>刃傷<rt>にんじょう</rt></ruby>を禁ずる内裏なら大事はない。
  
 **Danzo:**
 故に、バベッジ殿は夜の間のみマスターを護る。
@@ -10703,7 +10703,7 @@ We’re looking for our prey. Our Casters.
 そ、そうきたかァ。
  
 **Sakata Kintoki:**
-<ruby><rb>大胆不敵</rb><rt>だいたんふてき</rt></ruby>に過ぎねえか！オレはてっきり式神に哨戒させてンのかと……
+<ruby>大胆不敵<rt>だいたんふてき</rt></ruby>に過ぎねえか！オレはてっきり式神に哨戒させてンのかと……
  
 **Sakata Kintoki:**
 霊体化だっけか？段蔵サンがたまにやってるが。
@@ -10739,7 +10739,7 @@ We’re looking for our prey. Our Casters.
 天覧聖杯戦争の開始宣言から三日目、陰陽寮の陰陽師が総出で霊脈へと働きかけ……
  
 **Fujiwara no Kaoriko:**
-<ruby><rb>洛内</rb><rt>らくない</rt></ruby>すべてに施された結界により、バベッジ様は、霊体化を封じられたのです。
+<ruby>洛内<rt>らくない</rt></ruby>すべてに施された結界により、バベッジ様は、霊体化を封じられたのです。
  
 **バベッジ:**
 ペナルティ、というものである。
@@ -10748,7 +10748,7 @@ We’re looking for our prey. Our Casters.
 日の半ば以上を霊体状態にて過ごしていた我は、強制的に実体化せざるを得なくなった。
  
 **バベッジ:**
-天覧聖杯戦争が終了するまで続く、強力な<ruby><rb>呪詛</rb><rt>じゅそ</rt></ruby>である。
+天覧聖杯戦争が終了するまで続く、強力な<ruby>呪詛<rt>じゅそ</rt></ruby>である。
  
 **バベッジ:**
 <u>霊体化制限の呪詛</u>。
@@ -10774,7 +10774,7 @@ We’re looking for our prey. Our Casters.
 成る程な。そりゃあ大路を歩く他ねえや！
  
 **Sakata Kintoki:**
-鋼の旦那としちゃあ、気も<ruby><rb>急</rb><rt>せ</rt></ruby>くし焦りもするってか……
+鋼の旦那としちゃあ、気も<ruby>急<rt>せ</rt></ruby>くし焦りもするってか……
  
 **Sakata Kintoki:**
 だが待てよ、夜の間は屋敷の護衛？なら、オレたちが屋敷にやってきた夜は&mdash;
@@ -10795,7 +10795,7 @@ We’re looking for our prey. Our Casters.
 香子サンもバベッジの旦那も、よくまあ、今の今まで誤魔化してこられたもンだなァ。
  
 **Sakata Kintoki:**
-<ruby><rb>巷</rb><rt>ちまた</rt></ruby>の噂になってンだぜ？それでよく&mdash;
+<ruby>巷<rt>ちまた</rt></ruby>の噂になってンだぜ？それでよく&mdash;
  
 **？？？:**
 無論。俺の耳にも届いている。
@@ -10807,7 +10807,7 @@ We’re looking for our prey. Our Casters.
 マスター、こちらへ！
  
 **Watanabe no Tsuna:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なるは京の都の霊洞がひとつ。<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>ならぬおまえでは、知らぬも道理だが。
+<ruby>是<rt>これ</rt></ruby>なるは京の都の霊洞がひとつ。<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>ならぬおまえでは、知らぬも道理だが。
  
 **Watanabe no Tsuna:**
 無様だぞ、金時。
@@ -10843,10 +10843,10 @@ We’re looking for our prey. Our Casters.
 （恐るべし、平安源氏武者！）
  
 **Danzo:**
-（閉鎖空間である洞穴内部の探索にあたり、　各種<ruby><rb>感覚器</rb><rt>セ ン サ ー</rt></ruby>の感度を最大にして尚、気付けぬ！）
+（閉鎖空間である洞穴内部の探索にあたり、　各種<ruby>感覚器<rt>セ ン サ ー</rt></ruby>の感度を最大にして尚、気付けぬ！）
  
 **Sakata Kintoki:**
-無様はそっちだぜ、兄ィ！生憎と、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>へ先に辿り着いたのはオレっちさ！
+無様はそっちだぜ、兄ィ！生憎と、<ruby>此処<rt>こ　こ</rt></ruby>へ先に辿り着いたのはオレっちさ！
  
 **Sakata Kintoki:**
 のこのこ出てきても、何もさせねえ！　させやしねえ！
@@ -10858,7 +10858,7 @@ We’re looking for our prey. Our Casters.
 とうに見当は付けていた。敢えて、放っておいたに過ぎん。
  
 **Watanabe no Tsuna:**
-夜毎に大路を<ruby><rb>闊歩</rb><rt>か っ ぽ</rt></ruby>する英霊一騎、食い付く阿呆の一人もいるかと考えた訳だが。
+夜毎に大路を<ruby>闊歩<rt>か っ ぽ</rt></ruby>する英霊一騎、食い付く阿呆の一人もいるかと考えた訳だが。
  
 **Watanabe no Tsuna:**
 しかし、よもや……
@@ -10875,7 +10875,7 @@ We’re looking for our prey. Our Casters.
 獲物の横取りはよくねえぜ、綱の兄貴よォ！ああ、よくねえよくねえ！
  
 **Sakata Kintoki:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる鋼の怪、英霊バベッジ殿はオレの客だ！
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>なる鋼の怪、英霊バベッジ殿はオレの客だ！
  
 **Sakata Kintoki:**
 &mdash;然るに。何者も、横取り無用と心得よッ！
@@ -10887,19 +10887,19 @@ We’re looking for our prey. Our Casters.
 はは&mdash;
  
 **バベッジ:**
-ははははははははははははははははははははは！はははははははははははは、我、<ruby><rb>呵々大笑</rb><rt>かかたいしょう</rt></ruby>せり！
+ははははははははははははははははははははは！はははははははははははは、我、<ruby>呵々大笑<rt>かかたいしょう</rt></ruby>せり！
  
 **バベッジ:**
-既に二騎を<ruby><rb>屠</rb><rt>ほふ</rt></ruby>ったという平安最強の武人が一人！ツナ・ワタナベ！
+既に二騎を<ruby>屠<rt>ほふ</rt></ruby>ったという平安最強の武人が一人！ツナ・ワタナベ！
  
 **バベッジ:**
-我が夜更けに<ruby><rb>闊歩</rb><rt>か っ ぽ</rt></ruby>したは無策に<ruby><rb>非</rb><rt>あら</rt></ruby>ず！無論、無論、無論&mdash;
+我が夜更けに<ruby>闊歩<rt>か っ ぽ</rt></ruby>したは無策に<ruby>非<rt>あら</rt></ruby>ず！無論、無論、無論&mdash;
  
 **バベッジ:**
 我が策である！
  
 **バベッジ:**
-霊地を<ruby><rb>拠</rb><rt>よりどころ</rt></ruby>とした我ならば！<ruby><rb>是</rb><rt>これ</rt></ruby>このように、<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な芸当も可能であるぞ！
+霊地を<ruby>拠<rt>よりどころ</rt></ruby>とした我ならば！<ruby>是<rt>これ</rt></ruby>このように、<ruby>斯様<rt>か よ う</rt></ruby>な芸当も可能であるぞ！
  
 **バベッジ:**
 蒸気圧緊急上昇。蒸気圧緊急上昇。
@@ -10908,7 +10908,7 @@ We’re looking for our prey. Our Casters.
 戦闘マニューバ解放。機関接続。蒸気圧最大、緊急・宝具真名解放&mdash;
  
 **バベッジ:**
-『<ruby><rb>絢爛なりし灰燼世界</rb><rt>デ　ィ　メ　ン　ジ　ョ　ン　・　オ　ブ　・　ス　チ　ー　ム</rt></ruby>』！
+『<ruby>絢爛なりし灰燼世界<rt>デ　ィ　メ　ン　ジ　ョ　ン　・　オ　ブ　・　ス　チ　ー　ム</rt></ruby>』！
  
 **Sakata Kintoki:**
 熱！　あっち、なんだこの白煙……！？
@@ -10920,7 +10920,7 @@ We’re looking for our prey. Our Casters.
 宝具の真名解放か！？
  
 **Watanabe no Tsuna:**
-この、物量&mdash;軍団<ruby><rb>一箇</rb><rt>いっこ</rt></ruby>を我が物として操るか！
+この、物量&mdash;軍団<ruby>一箇<rt>いっこ</rt></ruby>を我が物として操るか！
  
 **バベッジ:**
 我が夢想！　我が妄念！絶ゆることなき悔恨こそ我が宝具であると知れ！
@@ -10938,7 +10938,7 @@ We’re looking for our prey. Our Casters.
 鋼の旦那、やるじゃねえか！
  
 **バベッジ:**
-……<ruby><rb>是</rb><rt>これ</rt></ruby>にて。<ruby><rb>彼奴</rb><rt>きゃつ</rt></ruby>は<ruby><rb>暫</rb><rt>しばら</rt></ruby>く近寄れぬであろう。我が夢想、我が妄念は絶ゆることなく溢れ続ける。
+……<ruby>是<rt>これ</rt></ruby>にて。<ruby>彼奴<rt>きゃつ</rt></ruby>は<ruby>暫<rt>しばら</rt></ruby>く近寄れぬであろう。我が夢想、我が妄念は絶ゆることなく溢れ続ける。
  
 **バベッジ:**
 さて、今のうちだ。若人たちよ。
@@ -10949,7 +10949,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-ヘルタースケルターで<ruby><rb>牽制</rb><rt>けんせい</rt></ruby>できているうちに
+ヘルタースケルターで<ruby>牽制<rt>けんせい</rt></ruby>できているうちに
 
 ---
 
@@ -10970,7 +10970,7 @@ We’re looking for our prey. Our Casters.
 否。否。否である。
  
 **バベッジ:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なる好機は二度と訪れぬだろう。故に、<ruby><rb>彼我</rb><rt>ひ　が</rt></ruby>の決着を付けるとしようではないか。
+<ruby>是<rt>これ</rt></ruby>なる好機は二度と訪れぬだろう。故に、<ruby>彼我<rt>ひ　が</rt></ruby>の決着を付けるとしようではないか。
  
 **バベッジ:**
 &mdash;勇壮なる若人たちよ。我と、戦え。
@@ -10994,16 +10994,16 @@ We’re looking for our prey. Our Casters.
 晴明様の教えを受けはしましたが、到底、陰陽道を修めたとは云えず……
  
 **Fujiwara no Kaoriko:**
-<ruby><rb>碌</rb><rt>ろく</rt></ruby>な術も使えませぬ！であれば、勝ちの目などありようもなく！
+<ruby>碌<rt>ろく</rt></ruby>な術も使えませぬ！であれば、勝ちの目などありようもなく！
  
 **Fujiwara no Kaoriko:**
-金時様と藤丸様の仰せの通り、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>はどうか、逃げましょう！
+金時様と藤丸様の仰せの通り、<ruby>此処<rt>こ　こ</rt></ruby>はどうか、逃げましょう！
  
 **Fujiwara no Kaoriko:**
 そうです、逃げて、逃げて……
  
 **Fujiwara no Kaoriko:**
-<ruby><rb>洛外</rb><rt>らくがい</rt></ruby>へ……そう、西国か……いいえ、東国へでも……
+<ruby>洛外<rt>らくがい</rt></ruby>へ……そう、西国か……いいえ、東国へでも……
  
 **Fujiwara no Kaoriko:**
 ずっと遠くへ&mdash;
@@ -11021,7 +11021,7 @@ We’re looking for our prey. Our Casters.
 我が夢想たる階差機関はすべてを計算せり。所詮は我が手の先の妄念、万能ならざる域ではあれど、
  
 **バベッジ:**
-我が身の行く末、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>までと知るには充分。
+我が身の行く末、<ruby>此処<rt>こ　こ</rt></ruby>までと知るには充分。
  
 **バベッジ:**
 ツナ・ワタナベは優秀な猟犬、或いは狼である。我が罠すらいつまで保つか。
@@ -11030,13 +11030,13 @@ We’re looking for our prey. Our Casters.
 &mdash;故に<u>我は託す</u>。
  
 **バベッジ:**
-言葉を<ruby><rb>違</rb><rt>たが</rt></ruby>えることを許せ。物語る姫よ。
+言葉を<ruby>違<rt>たが</rt></ruby>えることを許せ。物語る姫よ。
  
 **Fujiwara no Kaoriko:**
 おじさま、駄目！
  
 **Fujiwara no Kaoriko:**
-貴方の<ruby><rb>卜占</rb><rt>ぼくせん</rt></ruby>は優れているのかもしれません！でも、それで……己が果てを決めてしまうのですか！
+貴方の<ruby>卜占<rt>ぼくせん</rt></ruby>は優れているのかもしれません！でも、それで……己が果てを決めてしまうのですか！
  
 **バベッジ:**
 責めてくれるな。カオルコ。
@@ -11095,7 +11095,7 @@ We’re looking for our prey. Our Casters.
 
  
 **バベッジ:**
-我が魂、我が命、我が夢想、貴様たちに預けよう。我が心を<ruby><rb>鎧</rb><rt>よろ</rt></ruby>う鋼、見事砕いてみせるがいい。
+我が魂、我が命、我が夢想、貴様たちに預けよう。我が心を<ruby>鎧<rt>よろ</rt></ruby>う鋼、見事砕いてみせるがいい。
  
 **バベッジ:**
 <u>砕けぬならば命を貰う</u>。
@@ -11131,7 +11131,7 @@ We’re looking for our prey. Our Casters.
 コイツは&mdash;
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>は……固有結界！　マスター！
+<ruby>是<rt>これ</rt></ruby>は……固有結界！　マスター！
  
 ---
 
@@ -11152,19 +11152,19 @@ We’re looking for our prey. Our Casters.
 
  
 **バベッジ:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ、敗北せし英霊の魂喰らう辺獄の血戦地！&mdash;<ruby><rb>昏</rb><rt>くら</rt></ruby>き太陽戴きし、<ruby><rb>其</rb><rt>そ</rt></ruby>の名を天覧死合舞台！
+<ruby>是<rt>これ</rt></ruby>ぞ、敗北せし英霊の魂喰らう辺獄の血戦地！&mdash;<ruby>昏<rt>くら</rt></ruby>き太陽戴きし、<ruby>其<rt>そ</rt></ruby>の名を天覧死合舞台！
  
 **バベッジ:**
-我が真名チャールズ・バベッジ！我が夢想、我が妄念、貴様たちの道を<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にて閉ざす！
+我が真名チャールズ・バベッジ！我が夢想、我が妄念、貴様たちの道を<ruby>此処<rt>こ　こ</rt></ruby>にて閉ざす！
  
 **バベッジ:**
-鬼神よ<ruby><rb>嗤</rb><rt>わら</rt></ruby>え！太陽よ<ruby><rb>耀</rb><rt>かがや</rt></ruby>け！
+鬼神よ<ruby>嗤<rt>わら</rt></ruby>え！太陽よ<ruby>耀<rt>かがや</rt></ruby>け！
  
 **バベッジ:**
 さあ、己が願いがため！&mdash;今こそ、貴様たちの力を見せるが良いぞ！
  
 **Sakata Kintoki:**
-<ruby><rb>問答無用</rb><rt>もんどうむよう</rt></ruby>と云うならば！おうとも！
+<ruby>問答無用<rt>もんどうむよう</rt></ruby>と云うならば！おうとも！
  
 **Sakata Kintoki:**
 その覚悟、その力、受けて立つより道はなし！
@@ -11193,7 +11193,7 @@ We’re looking for our prey. Our Casters.
 チャールズ・バベッジ…………！
  
 **Watanabe no Tsuna:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>は……
+<ruby>是<rt>これ</rt></ruby>は……
  
 **Medea Lily:**
 綱さま、申し上げます。敵性サーヴァントの霊核が砕かれました。
@@ -11205,28 +11205,28 @@ We’re looking for our prey. Our Casters.
 ふむ。
  
 **Watanabe no Tsuna:**
-逃げの一手を打たずに死に果てるか。ならば<ruby><rb>是</rb><rt>これ</rt></ruby>は、自害&mdash;
+逃げの一手を打たずに死に果てるか。ならば<ruby>是<rt>これ</rt></ruby>は、自害&mdash;
  
 **Watanabe no Tsuna:**
 否、些か違うか。
  
 **Watanabe no Tsuna:**
-己が<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>を護らんがため、俺に劣る金時に賭けたか。
+己が<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>を護らんがため、俺に劣る金時に賭けたか。
  
 **Watanabe no Tsuna:**
 確かにな。俺の太刀では加減が利かぬ。
  
 **Watanabe no Tsuna:**
-四天王たる<ruby><rb>卜部</rb><rt>う ら べ</rt></ruby>殿や<ruby><rb>碓井</rb><rt>う す い</rt></ruby>殿を相手取ってさえ、浅からぬ傷を与えし、我が髭切。
+四天王たる<ruby>卜部<rt>う ら べ</rt></ruby>殿や<ruby>碓井<rt>う す い</rt></ruby>殿を相手取ってさえ、浅からぬ傷を与えし、我が髭切。
  
 **Watanabe no Tsuna:**
 武を修めざる紫式部殿ならば、さて。腕の一本で済んだか否か&mdash;
  
 **Watanabe no Tsuna:**
-去るぞキャスター。最早、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に用はない。
+去るぞキャスター。最早、<ruby>此処<rt>こ　こ</rt></ruby>に用はない。
  
 **Watanabe no Tsuna:**
-<ruby><rb>此度</rb><rt>こたび</rt></ruby>の死合い、金時の星となった。
+<ruby>此度<rt>こたび</rt></ruby>の死合い、金時の星となった。
  
 **Medea Lily:**
 はい。綱さま。
@@ -11256,13 +11256,13 @@ We’re looking for our prey. Our Casters.
 フ、フフ、フ…………
  
 **バベッジ:**
-何も、何も不思議はないぞ……。我が<ruby><rb>裡</rb><rt>うち</rt></ruby>には、深き納得のみが染み渡っている。
+何も、何も不思議はないぞ……。我が<ruby>裡<rt>うち</rt></ruby>には、深き納得のみが染み渡っている。
  
 **バベッジ:**
 我が階差機関の導く解答に従いながら、同時に我は、我が魂の閃きに、賭けた……！
  
 **バベッジ:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の[♂黒髪の若人/♀赤毛の娘]、他人のようには感じぬよ。
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>の[♂黒髪の若人/♀赤毛の娘]、他人のようには感じぬよ。
  
 **バベッジ:**
 まるで、そう、旧来の友であるかのような……遠き彼方にて共に歩んだ、ような……
@@ -11301,7 +11301,7 @@ We’re looking for our prey. Our Casters.
 云われなくたって、誰にも傷付けさせやしねえさ。
  
 **Sakata Kintoki:**
-つってもな、旦那。<ruby><rb>術者</rb><rt>キャスター</rt></ruby>が死ねば、<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>は資格を失う。
+つってもな、旦那。<ruby>術者<rt>キャスター</rt></ruby>が死ねば、<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>は資格を失う。
  
 **Sakata Kintoki:**
 そうなりゃ、綱の兄貴にも狙われるコトはねえ。なあ。アンタはそれを分かった上で……
@@ -11351,7 +11351,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Sakata Kintoki:**
-<ruby><rb>狡</rb><rt>ずる</rt></ruby>いぜ、旦那。
+<ruby>狡<rt>ずる</rt></ruby>いぜ、旦那。
  
 **バベッジ:**
 我、夢潰えし後に人理に刻まれし英霊である。ならばこそ云う、若人たちよ。
@@ -11372,7 +11372,7 @@ We’re looking for our prey. Our Casters.
 夢だけは捨てず、立ち止まったなら、いつか再び進むがいい。
  
 **バベッジ:**
-己が夢を理想の鋼鉄で<ruby><rb>鎧</rb><rt>よろ</rt></ruby>うのだ。さすれば貴様たちは、きっと、進み続けられよう。
+己が夢を理想の鋼鉄で<ruby>鎧<rt>よろ</rt></ruby>うのだ。さすれば貴様たちは、きっと、進み続けられよう。
  
 ---
 
@@ -11404,22 +11404,22 @@ We’re looking for our prey. Our Casters.
 化生、悪霊、そして鬼。近頃には大路にまで姿を見せると云うが、
  
 **Narration:**
-更に奇異なるモノが<ruby><rb>顕</rb><rt>あらわ</rt></ruby>れる。<ruby><rb>其</rb><rt>そ</rt></ruby>は私の鋼。私の術者。
+更に奇異なるモノが<ruby>顕<rt>あらわ</rt></ruby>れる。<ruby>其<rt>そ</rt></ruby>は私の鋼。私の術者。
  
 **Narration:**
-夜な夜な<ruby><rb>彷徨</rb><rt>さまよ</rt></ruby>い歩く、見上げる程に大柄なる、鋼の怪。
+夜な夜な<ruby>彷徨<rt>さまよ</rt></ruby>い歩く、見上げる程に大柄なる、鋼の怪。
  
 **Narration:**
-……鋼の怪は二度と<ruby><rb>顕</rb><rt>あらわ</rt></ruby>れまい。あの御方は、淡き光の粒となりて消えた。
+……鋼の怪は二度と<ruby>顕<rt>あらわ</rt></ruby>れまい。あの御方は、淡き光の粒となりて消えた。
  
 **Narration:**
-私の左手から紋様も消えた。敗れし天覧武者に、あかしの紋は、二度と<ruby><rb>顕</rb><rt>あらわ</rt></ruby>れない。
+私の左手から紋様も消えた。敗れし天覧武者に、あかしの紋は、二度と<ruby>顕<rt>あらわ</rt></ruby>れない。
  
 **Narration:**
 きっと人々は噂するだろう、喜びを以て。
  
 **Narration:**
-赤き瞳の鋼の怪が消えたるは、勇壮なる武者か<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>の仕業に違うまい、と。
+赤き瞳の鋼の怪が消えたるは、勇壮なる武者か<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>の仕業に違うまい、と。
  
 **Narration:**
 けれど私は知る。あの御方は妖物魔物などではなく……
@@ -11443,13 +11443,13 @@ We’re looking for our prey. Our Casters.
 あ、私一人で参ります。従者は付けますが……
  
 **Fujiwara no Kaoriko:**
-我が家の<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>に仕込んだ符は特別ですから、貴方たちの護衛は不要です。
+我が家の<ruby>牛車<rt>ぎっしゃ</rt></ruby>に仕込んだ符は特別ですから、貴方たちの護衛は不要です。
  
 **Fujiwara no Kaoriko:**
 引き続き、屋敷は好きに使ってくださいませ。源氏本家に告げ口などはいたしません。
  
 **Fujiwara no Kaoriko:**
-それではまた。<ruby><rb>朝餉</rb><rt>あさげ</rt></ruby>、ゆっくり召し上がってくださいね！
+それではまた。<ruby>朝餉<rt>あさげ</rt></ruby>、ゆっくり召し上がってくださいね！
  
 **Sakata Kintoki:**
 ……お、おう！ありがとさん！
@@ -11517,7 +11517,7 @@ We’re looking for our prey. Our Casters.
 元気になりてえ自分を鼓舞せんとする、言わば鎧だ。そう思うんだ。
  
 **Sakata Kintoki:**
-なら、見事な鎧を<ruby><rb>纏</rb><rt>まと</rt></ruby>ったもんだぜ香子サンは！そう呑んでやりたくならァ！
+なら、見事な鎧を<ruby>纏<rt>まと</rt></ruby>ったもんだぜ香子サンは！そう呑んでやりたくならァ！
  
 **Sakata Kintoki:**
 いや&mdash;オレは、そう呑んだ！
@@ -11532,7 +11532,7 @@ We’re looking for our prey. Our Casters.
 見ろよ。今日は随分と天気がいいや。
  
 **Sakata Kintoki:**
-己が夢を……理想の鋼鉄で<ruby><rb>鎧</rb><rt>よろ</rt></ruby>う、か。
+己が夢を……理想の鋼鉄で<ruby>鎧<rt>よろ</rt></ruby>う、か。
  
 **Sakata Kintoki:**
 格好いい。格好いいねえ。
@@ -11592,7 +11592,7 @@ We’re looking for our prey. Our Casters.
 夢想、妄想、鋼鉄で覆われた夢！
  
 **Sakata Kintoki:**
-何がなんだかオイラにはよく分からねえが、なんとも<ruby><rb>眩</rb><rt>まばゆ</rt></ruby>く<ruby><rb>耀</rb><rt>かがや</rt></ruby>いて&mdash;
+何がなんだかオイラにはよく分からねえが、なんとも<ruby>眩<rt>まばゆ</rt></ruby>く<ruby>耀<rt>かがや</rt></ruby>いて&mdash;
  
 **Sakata Kintoki:**
 そう、ええっとよ……この感じはそうだよ、なあ、アレだ。アレ。
@@ -11621,13 +11621,13 @@ We’re looking for our prey. Our Casters.
 ## Section 6: Comrades and Children (Volume One) 
  
 **Minamoto no Raikō:**
-……<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にいたのですね。
+……<ruby>此処<rt>こ　こ</rt></ruby>にいたのですね。
  
 **Minamoto no Raikō:**
 いけませんよ。屋根の上にあがるだなんて、もう。
  
 **Minamoto no Raikō:**
-まるでいつかの日の金時のよう。そんなやんちゃな<ruby><rb>処</rb><rt>ところ</rt></ruby>、母は知りませんでした。
+まるでいつかの日の金時のよう。そんなやんちゃな<ruby>処<rt>ところ</rt></ruby>、母は知りませんでした。
  
 **？？？:**
 ふふ&mdash;
@@ -11657,7 +11657,7 @@ We’re looking for our prey. Our Casters.
 怖がらないで、怖がらないで？平気なのよ頼光。
  
 **幼子:**
-わたしは卵の殿方ではないし、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>には卵の殿方なんていないのだから。
+わたしは卵の殿方ではないし、<ruby>此処<rt>こ　こ</rt></ruby>には卵の殿方なんていないのだから。
  
 **幼子:**
 だから、誰も傷付かないわ。ね？
@@ -11684,7 +11684,7 @@ We’re looking for our prey. Our Casters.
 あどけなく、罪を知らず……
  
 **Minamoto no Raikō:**
-太刀を<ruby><rb>佩</rb><rt>は</rt></ruby>かず、武勇を求めず、何者でもない幼き文殊丸であった頃……
+太刀を<ruby>佩<rt>は</rt></ruby>かず、武勇を求めず、何者でもない幼き文殊丸であった頃……
  
 **幼子:**
 あなたはあなたよ、頼光。あなたの中に文殊丸はいてくれる。
@@ -11699,10 +11699,10 @@ We’re looking for our prey. Our Casters.
 ああ……
  
 **Minamoto no Raikō:**
-金時が、もし、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にいたのなら……
+金時が、もし、<ruby>此処<rt>こ　こ</rt></ruby>にいたのなら……
  
 **Minamoto no Raikō:**
-貴女と仲良くなっていたでしょうに。あの子、まったく、何処を<ruby><rb>彷徨</rb><rt>さまよ</rt></ruby>っているのやら。
+貴女と仲良くなっていたでしょうに。あの子、まったく、何処を<ruby>彷徨<rt>さまよ</rt></ruby>っているのやら。
  
 **幼子:**
 金時。
@@ -11714,13 +11714,13 @@ We’re looking for our prey. Our Casters.
 あら、詳しいのですね。ええそう、どちらもあの子です。
  
 **Minamoto no Raikō:**
-幼くは<ruby><rb>相模</rb><rt>さ が み</rt></ruby>国足柄の怪童丸。御山におわす神たる赤龍の子、剛力の鬼子。
+幼くは<ruby>相模<rt>さ が み</rt></ruby>国足柄の怪童丸。御山におわす神たる赤龍の子、剛力の鬼子。
  
 **Minamoto no Raikō:**
 けれど今は……金時です。
  
 **Minamoto no Raikō:**
-愛らしき我が子、<ruby><rb>主馬佑</rb><rt>しゅめのすけ</rt></ruby>坂田金時。この<ruby><rb>母</rb><rt>わたし</rt></ruby>の子です。
+愛らしき我が子、<ruby>主馬佑<rt>しゅめのすけ</rt></ruby>坂田金時。この<ruby>母<rt>わたし</rt></ruby>の子です。
  
 **幼子:**
 うん。うん&mdash;
@@ -11747,7 +11747,7 @@ We’re looking for our prey. Our Casters.
 大丈夫、何も心配いらないわ。
  
 **幼子:**
-あなたの<ruby><rb>金時</rb><rt>こども</rt></ruby>はもう大人。あなたの<ruby><rb>子供</rb><rt>きんとき</rt></ruby>は戦うひと。
+あなたの<ruby>金時<rt>こども</rt></ruby>はもう大人。あなたの<ruby>子供<rt>きんとき</rt></ruby>は戦うひと。
  
 **幼子:**
 遠い日には、その子もきっと、わたし<u>たち</u>に寄り添ってくれたけど……
@@ -11761,31 +11761,31 @@ We’re looking for our prey. Our Casters.
 **--ARROW--**
  
 **Narration:**
-&mdash;<ruby><rb>丑三</rb><rt>うしみ</rt></ruby>つ<ruby><rb>時</rb><rt>どき</rt></ruby>、平安京南に鬼が湧く。
+&mdash;<ruby>丑三<rt>うしみ</rt></ruby>つ<ruby>時<rt>どき</rt></ruby>、平安京南に鬼が湧く。
  
 **Narration:**
 貴人も武者も民草も区別なく、恐怖を呼び起こす、力の濁流が湧きあがっていた。
  
 **Narration:**
-陰陽師安倍晴明の手になる大結界さえ 難なく越えて、月下、夜の京にて<ruby><rb>放埒</rb><rt>ほうらつ</rt></ruby>を尽くす。
+陰陽師安倍晴明の手になる大結界さえ 難なく越えて、月下、夜の京にて<ruby>放埒<rt>ほうらつ</rt></ruby>を尽くす。
  
 **Narration:**
-破壊。略奪。<ruby><rb>蹂躙</rb><rt>じゅうりん</rt></ruby>。
+破壊。略奪。<ruby>蹂躙<rt>じゅうりん</rt></ruby>。
  
 **Narration:**
-月に叫ぶ怪！<ruby><rb>其</rb><rt>そ</rt></ruby>は、妖物魔物の王とも云うべき怪の<ruby><rb>窮</rb><rt>きわ</rt></ruby>み。
+月に叫ぶ怪！<ruby>其<rt>そ</rt></ruby>は、妖物魔物の王とも云うべき怪の<ruby>窮<rt>きわ</rt></ruby>み。
  
 **Narration:**
-<ruby><rb>哄笑</rb><rt>こうしょう</rt></ruby>響かせるは暗がりの覇者。
+<ruby>哄笑<rt>こうしょう</rt></ruby>響かせるは暗がりの覇者。
  
 **Narration:**
 鬼&mdash;
  
 **Narration:**
-誰からも奪い、<ruby><rb>嗤</rb><rt>わら</rt></ruby>い、京を脅かす享楽の牙。化生か超常か、物語られしモノか。
+誰からも奪い、<ruby>嗤<rt>わら</rt></ruby>い、京を脅かす享楽の牙。化生か超常か、物語られしモノか。
  
 **Narration:**
-館の<ruby><rb>塀</rb><rt>へい</rt></ruby>を容易く<ruby><rb>毀</rb><rt>こわ</rt></ruby>す怪力を有し、鋼の刃を容易く弾く外皮を誇る。
+館の<ruby>塀<rt>へい</rt></ruby>を容易く<ruby>毀<rt>こわ</rt></ruby>す怪力を有し、鋼の刃を容易く弾く外皮を誇る。
  
 **Narration:**
 巨体のモノも在る。小柄のモノも在る。
@@ -11794,10 +11794,10 @@ We’re looking for our prey. Our Casters.
 醜くおぞましきモノも在り、貴く美しきモノも在る。
  
 **Narration:**
-<ruby><rb>此度</rb><rt>こたび</rt></ruby>の襲来にあって、肉の膨れたる醜き巨鬼一匹を<ruby><rb>侍</rb><rt>はべ</rt></ruby>らせるは&mdash;
+<ruby>此度<rt>こたび</rt></ruby>の襲来にあって、肉の膨れたる醜き巨鬼一匹を<ruby>侍<rt>はべ</rt></ruby>らせるは&mdash;
  
 **Narration:**
-&mdash;血華に<ruby><rb>嗤</rb><rt>わら</rt></ruby>う美しき鬼、二匹。
+&mdash;血華に<ruby>嗤<rt>わら</rt></ruby>う美しき鬼、二匹。
  
 **Ibaraki Douji:**
 はは、はははッ&mdash;
@@ -11809,7 +11809,7 @@ We’re looking for our prey. Our Casters.
 弱い、緩い、脆い！まるで甲斐がない！
  
 **Ibaraki Douji:**
-不甲斐ないぞ京人どもォ！太刀の百本集めながら、<ruby><rb>吾</rb><rt>われ</rt></ruby>らの一匹に届かぬさま！
+不甲斐ないぞ京人どもォ！太刀の百本集めながら、<ruby>吾<rt>われ</rt></ruby>らの一匹に届かぬさま！
  
 **Ibaraki Douji:**
 無様よなァ！ 
@@ -11821,7 +11821,7 @@ We’re looking for our prey. Our Casters.
 我らでは相手取れぬ……！退け！
  
 **検非違使たち:**
-武者だ！　すぐさま源氏武者を寄越せ！<ruby><rb>此度</rb><rt>こたび</rt></ruby>の鬼ども、並の鬼ではないぞ……
+武者だ！　すぐさま源氏武者を寄越せ！<ruby>此度<rt>こたび</rt></ruby>の鬼ども、並の鬼ではないぞ……
  
 **検非違使たち:**
 よもや大江の御山のモノどもか！退けぇッ！
@@ -11830,16 +11830,16 @@ We’re looking for our prey. Our Casters.
 蹴散らせ、虎熊！
  
 **Ibaraki Douji:**
-おお、おお！　見事見事！<ruby><rb>汝</rb><rt>なれ</rt></ruby>の剛力はそれなりのものだが、うむ！
+おお、おお！　見事見事！<ruby>汝<rt>なれ</rt></ruby>の剛力はそれなりのものだが、うむ！
  
 **Ibaraki Douji:**
-<ruby><rb>躯</rb><rt>からだ</rt></ruby>が！　腕が！ひどく大きいのが佳い！
+<ruby>躯<rt>からだ</rt></ruby>が！　腕が！ひどく大きいのが佳い！
  
 **Ibaraki Douji:**
-腕の一振り、数多の<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>を吹き飛ばすからなァ！きゃははははははははははははははははははははッ！
+腕の一振り、数多の<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>を吹き飛ばすからなァ！きゃははははははははははははははははははははッ！
  
 **Ibaraki Douji:**
-征け！　<ruby><rb>毀</rb><rt>こわ</rt></ruby>せ虎熊！きゃははははははははははははははははは&mdash;
+征け！　<ruby>毀<rt>こわ</rt></ruby>せ虎熊！きゃははははははははははははははははは&mdash;
  
 **？？？:**
 &mdash;茨木。
@@ -11848,19 +11848,19 @@ We’re looking for our prey. Our Casters.
 そないにはしゃいで、まぁ。ふふ。上機嫌やねえ？
  
 **Ibaraki Douji:**
-うむ、うむ！力が<ruby><rb>滾</rb><rt>たぎ</rt></ruby>って<ruby><rb>滾</rb><rt>たぎ</rt></ruby>って仕方ないのだ！
+うむ、うむ！力が<ruby>滾<rt>たぎ</rt></ruby>って<ruby>滾<rt>たぎ</rt></ruby>って仕方ないのだ！
  
 **Ibaraki Douji:**
-<ruby><rb>吾</rb><rt>われ</rt></ruby>は、すこぶる機嫌がよい。すべて、<ruby><rb>汝</rb><rt>なれ</rt></ruby>が<ruby><rb>拵</rb><rt>こしら</rt></ruby>えてくれた新たなる腕が為よ。
+<ruby>吾<rt>われ</rt></ruby>は、すこぶる機嫌がよい。すべて、<ruby>汝<rt>なれ</rt></ruby>が<ruby>拵<rt>こしら</rt></ruby>えてくれた新たなる腕が為よ。
  
 **Ibaraki Douji:**
-酒呑童子。&mdash;流石は、大江の鬼を<ruby><rb>統</rb><rt>す</rt></ruby>べるモノだ！
+酒呑童子。&mdash;流石は、大江の鬼を<ruby>統<rt>す</rt></ruby>べるモノだ！
  
 **Shuten Dōji:**
 ふふふふふふ。なんやのん、それ。
  
 **Shuten Dōji:**
-うちは鬼を<ruby><rb>統</rb><rt>す</rt></ruby>べたりせえへんの。面倒やさかい、そういうんは茨木がやるとええ。
+うちは鬼を<ruby>統<rt>す</rt></ruby>べたりせえへんの。面倒やさかい、そういうんは茨木がやるとええ。
  
 **Shuten Dōji:**
 大江の首魁茨木童子！ああ、ええやないのソレ。ほな任せるわぁ。
@@ -11875,7 +11875,7 @@ We’re looking for our prey. Our Casters.
 虎熊も星熊も好きに使うたらええけど、<u>毀してばかりで喰わへん</u>のは勿体ないわぁ。なぁ？
  
 **Shuten Dōji:**
-塀を<ruby><rb>毀</rb><rt>こわ</rt></ruby>すんもええ。館を<ruby><rb>毀</rb><rt>こわ</rt></ruby>すんもええ。
+塀を<ruby>毀<rt>こわ</rt></ruby>すんもええ。館を<ruby>毀<rt>こわ</rt></ruby>すんもええ。
  
 **Shuten Dōji:**
 腕も、足も、好きに<u>もぐ</u>とええ。
@@ -11908,19 +11908,19 @@ We’re looking for our prey. Our Casters.
 ん。
  
 **Ibaraki Douji:**
-み、見ろ酒呑！<ruby><rb>此度</rb><rt>こたび</rt></ruby>も<ruby><rb>吾</rb><rt>われ</rt></ruby>は<ruby><rb>未</rb><rt>いま</rt></ruby>だ殺しておらぬ、<ruby><rb>毀</rb><rt>こわ</rt></ruby>すのみだ！
+み、見ろ酒呑！<ruby>此度<rt>こたび</rt></ruby>も<ruby>吾<rt>われ</rt></ruby>は<ruby>未<rt>いま</rt></ruby>だ殺しておらぬ、<ruby>毀<rt>こわ</rt></ruby>すのみだ！
  
 **Ibaraki Douji:**
-<ruby><rb>吾</rb><rt>われ</rt></ruby>の目にかなう肉がそうそうない！まったく、人間どもはいずれも臭くてかなわぬ！
+<ruby>吾<rt>われ</rt></ruby>の目にかなう肉がそうそうない！まったく、人間どもはいずれも臭くてかなわぬ！
  
 **Ibaraki Douji:**
-先だっての一条<ruby><rb>戻橋</rb><rt>もどりばし</rt></ruby>では、<ruby><rb>是</rb><rt>これ</rt></ruby>だ！　という肉に出逢ったと想うたが……
+先だっての一条<ruby>戻橋<rt>もどりばし</rt></ruby>では、<ruby>是<rt>これ</rt></ruby>だ！　という肉に出逢ったと想うたが……
  
 **Ibaraki Douji:**
 ……い、いや。その話はすまい。
  
 **Shuten Dōji:**
-茨木は<ruby><rb>可愛</rb><rt>か</rt></ruby>いらしいなぁ。
+茨木は<ruby>可愛<rt>か</rt></ruby>いらしいなぁ。
  
 **Ibaraki Douji:**
 ？
@@ -11929,7 +11929,7 @@ We’re looking for our prey. Our Casters.
 うんうん、せいぜい気張りや。ん～。今宵こそは、茨木のええトコ見たいわぁ。
  
 **Shuten Dōji:**
-うちも<ruby><rb>偶</rb><rt>たま</rt></ruby>には人喰らいたいさかい、期待せんで待っとるわ。
+うちも<ruby>偶<rt>たま</rt></ruby>には人喰らいたいさかい、期待せんで待っとるわ。
  
 **Shuten Dōji:**
 ……まあ、今宵は暇がないかもやけど。
@@ -11938,10 +11938,10 @@ We’re looking for our prey. Our Casters.
 む？　む？どう云うことだ、酒呑？
  
 **Shuten Dōji:**
-ふふ。<ruby><rb>此度</rb><rt>こたび</rt></ruby>は<u>いつもの戯れ</u>とは趣向が違てるんよ。いっとう綺麗なおべべ探すんも、
+ふふ。<ruby>此度<rt>こたび</rt></ruby>は<u>いつもの戯れ</u>とは趣向が違てるんよ。いっとう綺麗なおべべ探すんも、
  
 **Shuten Dōji:**
-綺麗な子らを<ruby><rb>攫</rb><rt>さら</rt></ruby>うんも、きらきらしはった宝物集めるんも、
+綺麗な子らを<ruby>攫<rt>さら</rt></ruby>うんも、きらきらしはった宝物集めるんも、
  
 **Shuten Dōji:**
 京でいちばんの酒を奪ってくるんも、ぜぇんぶなし。
@@ -11959,13 +11959,13 @@ We’re looking for our prey. Our Casters.
 しかし……
  
 **Ibaraki Douji:**
-宝探しも人<ruby><rb>攫</rb><rt>さら</rt></ruby>いもなしとは、<ruby><rb>吾</rb><rt>われ</rt></ruby>は初耳だ。
+宝探しも人<ruby>攫<rt>さら</rt></ruby>いもなしとは、<ruby>吾<rt>われ</rt></ruby>は初耳だ。
  
 **Ibaraki Douji:**
-あの小僧めと遊びもせぬとあらば、酒呑。<ruby><rb>汝</rb><rt>なれ</rt></ruby>は何のために<ruby><rb>此度</rb><rt>こたび</rt></ruby>、御山から下りた？
+あの小僧めと遊びもせぬとあらば、酒呑。<ruby>汝<rt>なれ</rt></ruby>は何のために<ruby>此度<rt>こたび</rt></ruby>、御山から下りた？
  
 **Ibaraki Douji:**
-人を喰らうのか？わ、<ruby><rb>吾</rb><rt>われ</rt></ruby>抜きで、喰ろうてしまうのか？
+人を喰らうのか？わ、<ruby>吾<rt>われ</rt></ruby>抜きで、喰ろうてしまうのか？
  
 **Shuten Dōji:**
 んー。それもええんやけど……
@@ -11980,7 +11980,7 @@ We’re looking for our prey. Our Casters.
 教えてくれ酒呑！で、では……そ、そうか、あの客人のことか！
  
 **Shuten Dōji:**
-そそ。うちと、お客人は<ruby><rb>京</rb><rt>ここ</rt></ruby>に用があるんよ。
+そそ。うちと、お客人は<ruby>京<rt>ここ</rt></ruby>に用があるんよ。
  
 **Shuten Dōji:**
 なあ、お客人？
@@ -11989,19 +11989,19 @@ We’re looking for our prey. Our Casters.
 &mdash;御意にて。我があるじ。
  
 **Shuten Dōji:**
-ああ、<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>にいはったんやね。霊体化云うんは大層便利らしいけど、難儀やわぁ。
+ああ、<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>にいはったんやね。霊体化云うんは大層便利らしいけど、難儀やわぁ。
  
 **Ibaraki Douji:**
 ！
  
 **Ibaraki Douji:**
-（難儀、などと 　酒呑に云われるとは<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>者め！）
+（難儀、などと 　酒呑に云われるとは<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>者め！）
  
 **Ibaraki Douji:**
-（死んだな。死んだぞ、客人！　まあ<ruby><rb>汝</rb><rt>なれ</rt></ruby>が死のうと<ruby><rb>吾</rb><rt>われ</rt></ruby>は心の底よりどうでもよし）
+（死んだな。死んだぞ、客人！　まあ<ruby>汝<rt>なれ</rt></ruby>が死のうと<ruby>吾<rt>われ</rt></ruby>は心の底よりどうでもよし）
  
 **Ibaraki Douji:**
-（突然現れて、当たり前の顔で、　酒呑の隣にすっと<ruby><rb>佇</rb><rt>たたず</rt></ruby>みおって生意気な）
+（突然現れて、当たり前の顔で、　酒呑の隣にすっと<ruby>佇<rt>たたず</rt></ruby>みおって生意気な）
  
 **Ibaraki Douji:**
 （ククク死ね、死ぬるがよい）
@@ -12016,13 +12016,13 @@ We’re looking for our prey. Our Casters.
 申し訳ございません。以後、細心注意を払います。
  
 **Ibaraki Douji:**
-（ふっふふふ……　以後、なぞ<ruby><rb>汝</rb><rt>なれ</rt></ruby>にはないぞ。客人）
+（ふっふふふ……　以後、なぞ<ruby>汝<rt>なれ</rt></ruby>にはないぞ。客人）
  
 **Ibaraki Douji:**
 （酒呑の荒ぶるさまを知らぬとみえる……）
  
 **Ibaraki Douji:**
-（酒呑の麗しく白き指の触れた矢先に、　<ruby><rb>汝</rb><rt>なれ</rt></ruby>は、五体爆ぜるか、全身の骨抜かれて死ぬ！）
+（酒呑の麗しく白き指の触れた矢先に、　<ruby>汝<rt>なれ</rt></ruby>は、五体爆ぜるか、全身の骨抜かれて死ぬ！）
  
 **Ibaraki Douji:**
 （きゃははははははははは！）
@@ -12061,7 +12061,7 @@ We’re looking for our prey. Our Casters.
 普段はなぁ、月に一度くらいしか 京には忍び込めへんの。
  
 **Shuten Dōji:**
-その月に一度はあんたが 一条<ruby><rb>戻橋</rb><rt>もどりばし</rt></ruby>へ行かはるのに使ってもうたやろ。
+その月に一度はあんたが 一条<ruby>戻橋<rt>もどりばし</rt></ruby>へ行かはるのに使ってもうたやろ。
  
 **Shuten Dōji:**
 虎熊やら星熊やらの大鬼まで連れはるんなら せいぜい、半年に一度くらいやろか。
@@ -12079,13 +12079,13 @@ We’re looking for our prey. Our Casters.
 ……恐れ入ります。貴方のお役に立てれば何よりにて。
  
 **大江山の客人:**
-<ruby><rb>我があるじ</rb><rt>マ　ス　タ　ー</rt></ruby>、酒呑童子。
+<ruby>我があるじ<rt>マ　ス　タ　ー</rt></ruby>、酒呑童子。
  
 **Ibaraki Douji:**
 ……。……。
  
 **Shuten Dōji:**
-流石、流石。異境異界の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>はんやわぁ&mdash;
+流石、流石。異境異界の<ruby>術者<rt>キャスター</rt></ruby>はんやわぁ&mdash;
  
 **Sakata Kintoki:**
 チッ！何の騒ぎかと駆け付けてみりゃ……！
@@ -12111,7 +12111,7 @@ We’re looking for our prey. Our Casters.
 ああ、鬼だ！
  
 **Sakata Kintoki:**
-どっかの御山から下りてきたか？だが、<ruby><rb>彼処</rb><rt>あそこ</rt></ruby>までのデカブツとなりゃ些か妙だ。
+どっかの御山から下りてきたか？だが、<ruby>彼処<rt>あそこ</rt></ruby>までのデカブツとなりゃ些か妙だ。
  
 **Sakata Kintoki:**
 京の四方に張った晴明殿の結界、大物の鬼が入り込むのは相当に難しい筈だ。
@@ -12120,7 +12120,7 @@ We’re looking for our prey. Our Casters.
 相当に力を抑え込んだ状態で、<u>忍び込む奴</u>が月に一度、二度……
  
 **Sakata Kintoki:**
-ってのが、京の常なんだがなァ。こうも派手に壁やら道やら<ruby><rb>毀</rb><rt>こわ</rt></ruby>して歩きやがって。
+ってのが、京の常なんだがなァ。こうも派手に壁やら道やら<ruby>毀<rt>こわ</rt></ruby>して歩きやがって。
  
 **Sakata Kintoki:**
 しかも、率いてやがるのは&mdash;
@@ -12129,13 +12129,13 @@ We’re looking for our prey. Our Casters.
 おお酒呑！見やれ！
  
 **Ibaraki Douji:**
-<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>では不足とばかりに武者が来たぞ！ははははははは、如何な武者とて<ruby><rb>吾</rb><rt>われ</rt></ruby>らには通じぬ！
+<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>では不足とばかりに武者が来たぞ！ははははははは、如何な武者とて<ruby>吾<rt>われ</rt></ruby>らには通じぬ！
  
 **Ibaraki Douji:**
 骨折り肉裂き、喰ろうてくれようぞ！覚悟はいいか&mdash;と。
  
 **Ibaraki Douji:**
-思いきや。<ruby><rb>汝</rb><rt>なれ</rt></ruby>は！
+思いきや。<ruby>汝<rt>なれ</rt></ruby>は！
  
 **Ibaraki Douji:**
 金時か！？
@@ -12144,13 +12144,13 @@ We’re looking for our prey. Our Casters.
 ……茨木。
  
 **Shuten Dōji:**
-ふふ、ふふふふふふふふふふふふ。あら、あら、まあ。誰かと想えば<ruby><rb>金髪碧眼</rb><rt>きんぱつへきがん</rt></ruby>の。
+ふふ、ふふふふふふふふふふふふ。あら、あら、まあ。誰かと想えば<ruby>金髪碧眼<rt>きんぱつへきがん</rt></ruby>の。
  
 **Shuten Dōji:**
 小僧やないの。お久しゅう。
  
 **Shuten Dōji:**
-また一段と見事に<ruby><rb>逞</rb><rt>たくま</rt></ruby>しゅうならはって、相撲は強うなったんかねえ。
+また一段と見事に<ruby>逞<rt>たくま</rt></ruby>しゅうならはって、相撲は強うなったんかねえ。
  
 **Shuten Dōji:**
 なあ。小僧？
@@ -12192,7 +12192,7 @@ We’re looking for our prey. Our Casters.
 ってぇことはあのデカブツは虎熊か星熊！そうだな！
  
 **Sakata Kintoki:**
-<ruby><rb>暫</rb><rt>しばら</rt></ruby>くぶりに姿を見せたと思いきやこの騒ぎたぁ、どういう了見だ。なあおい、酒呑！
+<ruby>暫<rt>しばら</rt></ruby>くぶりに姿を見せたと思いきやこの騒ぎたぁ、どういう了見だ。なあおい、酒呑！
  
 **Shuten Dōji:**
 どういう了見もなぁにも、ふふ。
@@ -12221,7 +12221,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-平安の世にあって優れたる力持つ者……ならば確かに、大江の酒呑童子は<ruby><rb>紛</rb><rt>まご</rt></ruby>う事なく強者！
+平安の世にあって優れたる力持つ者……ならば確かに、大江の酒呑童子は<ruby>紛<rt>まご</rt></ruby>う事なく強者！
  
 **Danzo:**
 天覧の武者、鬼をも数に入れようとは！
@@ -12230,19 +12230,19 @@ We’re looking for our prey. Our Casters.
 …………へえ。
  
 **Shuten Dōji:**
-小僧も何や<ruby><rb>術者</rb><rt>キャスター</rt></ruby>を連れとるんかと想うたけど、些か違うとるんやねえ。あらま。
+小僧も何や<ruby>術者<rt>キャスター</rt></ruby>を連れとるんかと想うたけど、些か違うとるんやねえ。あらま。
  
 **Shuten Dōji:**
-うちの見たところ、そこな[♂黒髪の小僧/♀赤毛の娘]は<ruby><rb>術者</rb><rt>キャスター</rt></ruby>とちゃうねぇ。
+うちの見たところ、そこな[♂黒髪の小僧/♀赤毛の娘]は<ruby>術者<rt>キャスター</rt></ruby>とちゃうねぇ。
  
 **Shuten Dōji:**
 ん&mdash;
  
 **Shuten Dōji:**
-もっと<ruby><rb>瞳</rb><rt>め</rt></ruby>ぇ見して？何や、妙なもんを感じる子やわぁ。
+もっと<ruby>瞳<rt>め</rt></ruby>ぇ見して？何や、妙なもんを感じる子やわぁ。
  
 **Shuten Dōji:**
-ほら。<ruby><rb>瞳</rb><rt>め</rt></ruby>ぇ。
+ほら。<ruby>瞳<rt>め</rt></ruby>ぇ。
  
 **Shuten Dōji:**
 見して？
@@ -12326,7 +12326,7 @@ We’re looking for our prey. Our Casters.
 ん&mdash;
  
 **Shuten Dōji:**
-あら。そっちのお人形はんは<ruby><rb>さぁばんと]やね？でも、[#術者</rb><rt>キャスター</rt></ruby>とはちゃうねえ。
+あら。そっちのお人形はんは<ruby>さぁばんと]やね？でも、[#術者<rt>キャスター</rt></ruby>とはちゃうねえ。
  
 **Shuten Dōji:**
 ……ふふ。金時、金時。あんたはん、もしかして仲間外れなんちゃう？
@@ -12350,16 +12350,16 @@ We’re looking for our prey. Our Casters.
 無様無様！きゃははははははははは！
  
 **Ibaraki Douji:**
-<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な無様を晒しては生きるのも辛かろう！よし、決めた！　決めたぞ酒呑、邪魔してくれるな！
+<ruby>斯様<rt>か よ う</rt></ruby>な無様を晒しては生きるのも辛かろう！よし、決めた！　決めたぞ酒呑、邪魔してくれるな！
  
 **Shuten Dōji:**
 あら。茨木、楽しそやねえ。何しはるん？
  
 **Ibaraki Douji:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なる源氏武者に情けをかけてやるのよ！こうも生き恥晒しては辛かろうから、ふはははははは！
+<ruby>是<rt>これ</rt></ruby>なる源氏武者に情けをかけてやるのよ！こうも生き恥晒しては辛かろうから、ふはははははは！
  
 **Ibaraki Douji:**
-<ruby><rb>吾</rb><rt>われ</rt></ruby>が引導、渡してくれようぞ！ゆくぞ虎熊ァ！
+<ruby>吾<rt>われ</rt></ruby>が引導、渡してくれようぞ！ゆくぞ虎熊ァ！
  
 **Danzo:**
 巨大敵性体、および敵性鬼種接近、マスター！
@@ -12382,10 +12382,10 @@ We’re looking for our prey. Our Casters.
 同感だ。
  
 **Sakata Kintoki:**
-ま、アイツも他の鬼よりゃ幾分か<ruby><rb>まし]だが、鬼は鬼！　人の[#餓鬼</rb><rt>ガ　キ</rt></ruby>とは悪さの桁が違ぇ！
+ま、アイツも他の鬼よりゃ幾分か<ruby>まし]だが、鬼は鬼！　人の[#餓鬼<rt>ガ　キ</rt></ruby>とは悪さの桁が違ぇ！
  
 **Sakata Kintoki:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で止める！捕らえられぬまでも、追い払うぜ！
+<ruby>此処<rt>こ　こ</rt></ruby>で止める！捕らえられぬまでも、追い払うぜ！
  
 
 ---
@@ -12400,13 +12400,13 @@ We’re looking for our prey. Our Casters.
 **--ARROW--**
  
 **Ibaraki Douji:**
-おのれ人形ッ！<ruby><rb>小癪</rb><rt>こしゃく</rt></ruby>！
+おのれ人形ッ！<ruby>小癪<rt>こしゃく</rt></ruby>！
  
 **Ibaraki Douji:**
-大江の鬼を率いるこの茨木童子の炎！小器用に<ruby><rb>捌</rb><rt>さば</rt></ruby>いてみせるか、ぐぬぬぬぬううッ！
+大江の鬼を率いるこの茨木童子の炎！小器用に<ruby>捌<rt>さば</rt></ruby>いてみせるか、ぐぬぬぬぬううッ！
  
 **Danzo:**
-……お褒めに<ruby><rb>与</rb><rt>あずか</rt></ruby>り。
+……お褒めに<ruby>与<rt>あずか</rt></ruby>り。
  
 ---
 
@@ -12429,10 +12429,10 @@ We’re looking for our prey. Our Casters.
 茨木。
  
 **Ibaraki Douji:**
-次こそは手加減なしだ！酒呑、見るだけでなしに<ruby><rb>吾</rb><rt>われ</rt></ruby>に加勢をしてくれ！
+次こそは手加減なしだ！酒呑、見るだけでなしに<ruby>吾<rt>われ</rt></ruby>に加勢をしてくれ！
  
 **Ibaraki Douji:**
-<ruby><rb>吾</rb><rt>われ</rt></ruby>と<ruby><rb>汝</rb><rt>なれ</rt></ruby>が揃えば向かう<ruby><rb>処</rb><rt>ところ</rt></ruby>敵なしと、あれなる人形と武者と[♂小僧/♀小娘]に知らしめてくれようぞ！
+<ruby>吾<rt>われ</rt></ruby>と<ruby>汝<rt>なれ</rt></ruby>が揃えば向かう<ruby>処<rt>ところ</rt></ruby>敵なしと、あれなる人形と武者と[♂小僧/♀小娘]に知らしめてくれようぞ！
  
 **Shuten Dōji:**
 茨木。そこまで。
@@ -12441,7 +12441,7 @@ We’re looking for our prey. Our Casters.
 しゅ、酒呑……？
  
 **Sakata Kintoki:**
-（<ruby><rb>虎熊童子</rb><rt>デ　カ　ブ　ツ</rt></ruby>も一歩退きやがった。　<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>でとことんまでやる気はねえってか）
+（<ruby>虎熊童子<rt>デ　カ　ブ　ツ</rt></ruby>も一歩退きやがった。　<ruby>此処<rt>こ　こ</rt></ruby>でとことんまでやる気はねえってか）
  
 **Sakata Kintoki:**
 （ま、天覧武者に一枚も二枚も足りねえ、　術者おらずのオレとやっても意味は薄かろうさ）
@@ -12462,22 +12462,22 @@ We’re looking for our prey. Our Casters.
 ……う、うむ。まあな、綱でなければ張り合いもなし。
  
 **Ibaraki Douji:**
-しかしな酒呑、<ruby><rb>是</rb><rt>これ</rt></ruby>だけは云わせてくれ。遊んでおるのはこやつだぞ。
+しかしな酒呑、<ruby>是<rt>これ</rt></ruby>だけは云わせてくれ。遊んでおるのはこやつだぞ。
  
 **Danzo:**
 ……？
  
 **Ibaraki Douji:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>な人形ではない。<ruby><rb>汝</rb><rt>なれ</rt></ruby>だ、金時！
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>な人形ではない。<ruby>汝<rt>なれ</rt></ruby>だ、金時！
  
 **Sakata Kintoki:**
 オレが何だ。
  
 **Ibaraki Douji:**
-人血の匂いがせぬ人形なぞまだ佳いわ。如何にも、<ruby><rb>吾</rb><rt>われ</rt></ruby>を<ruby><rb>抉</rb><rt>えぐ</rt></ruby>ろうと刃を振るってくるからな。
+人血の匂いがせぬ人形なぞまだ佳いわ。如何にも、<ruby>吾<rt>われ</rt></ruby>を<ruby>抉<rt>えぐ</rt></ruby>ろうと刃を振るってくるからな。
  
 **Ibaraki Douji:**
-だが金時！　それと<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる[♂小僧/♀小娘]！<ruby><rb>汝</rb><rt>なれ</rt></ruby>らは何だ！
+だが金時！　それと<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>なる[♂小僧/♀小娘]！<ruby>汝<rt>なれ</rt></ruby>らは何だ！
  
 **Ibaraki Douji:**
 まるでやる気がない……
@@ -12498,7 +12498,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Ibaraki Douji:**
-<ruby><rb>軽々</rb><rt>けいけい</rt></ruby>に<ruby><rb>吾</rb><rt>われ</rt></ruby>の名を呼ぶな！
+<ruby>軽々<rt>けいけい</rt></ruby>に<ruby>吾<rt>われ</rt></ruby>の名を呼ぶな！
  
 **Sakata Kintoki:**
 ……。……。
@@ -12522,7 +12522,7 @@ We’re looking for our prey. Our Casters.
 どうせ新しい戯れなんだろ？テメェはいつだってそうだ。
  
 **Sakata Kintoki:**
-<ruby><rb>令呪</rb><rt>しるし</rt></ruby>付けてるからにゃ<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>なんだろうが、肝心<ruby><rb>要</rb><rt>かなめ</rt></ruby>の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>サンはどうしたよ。
+<ruby>令呪<rt>しるし</rt></ruby>付けてるからにゃ<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>なんだろうが、肝心<ruby>要<rt>かなめ</rt></ruby>の<ruby>術者<rt>キャスター</rt></ruby>サンはどうしたよ。
  
 **Sakata Kintoki:**
 まさか、術者おらずか？
@@ -12540,7 +12540,7 @@ We’re looking for our prey. Our Casters.
 なあ&mdash;キャスターはん？
  
 **C：大江山の客人:**
-お呼びでしょうか。<ruby><rb>我があるじ</rb><rt>マ　ス　タ　ー</rt></ruby>。
+お呼びでしょうか。<ruby>我があるじ<rt>マ　ス　タ　ー</rt></ruby>。
  
 **Sakata Kintoki:**
 ！！
@@ -12566,7 +12566,7 @@ We’re looking for our prey. Our Casters.
 パラケルススが第六のキャスター……！
  
 **Paracelsus:**
-以後お見知りおきを。<ruby><rb>是</rb><rt>これ</rt></ruby>なるあるじに仕える、<ruby><rb>術者</rb><rt>キャスター</rt></ruby>にございます。
+以後お見知りおきを。<ruby>是<rt>これ</rt></ruby>なるあるじに仕える、<ruby>術者<rt>キャスター</rt></ruby>にございます。
  
 **Paracelsus:**
 ……何処かで、お会いしましたか？
@@ -12594,7 +12594,7 @@ We’re looking for our prey. Our Casters.
 小僧はほんに、いけずやわぁ。
  
 **Sakata Kintoki:**
-誘ってねえよ<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>！
+誘ってねえよ<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>！
  
 **Shuten Dōji:**
 誘ってはるやろ。
@@ -12603,10 +12603,10 @@ We’re looking for our prey. Our Casters.
 誘ってねえ！ 
  
 **Sakata Kintoki:**
-ごちゃごちゃ抜かしてンじゃねえ！<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>に直りやがれ、テメェら皆ふんじばって&mdash;
+ごちゃごちゃ抜かしてンじゃねえ！<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>に直りやがれ、テメェら皆ふんじばって&mdash;
  
 **Sakata Kintoki:**
-そんで何もさせねえ！&mdash;天覧聖杯戦争、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で<ruby><rb>終</rb><rt>しま</rt></ruby>いだ！
+そんで何もさせねえ！&mdash;天覧聖杯戦争、<ruby>此処<rt>こ　こ</rt></ruby>で<ruby>終<rt>しま</rt></ruby>いだ！
  
 **Paracelsus:**
 ……マスター。
@@ -12615,7 +12615,7 @@ We’re looking for our prey. Our Casters.
 あらあら、熱うならはって！ほな、ちぃとばかし遊んでこか。茨木！
  
 **Ibaraki Douji:**
-任せろ！　<ruby><rb>吾</rb><rt>われ</rt></ruby>の出番だな！
+任せろ！　<ruby>吾<rt>われ</rt></ruby>の出番だな！
  
 **Shuten Dōji:**
 うちとキャスターはんが遊ぶさかい、あんたはんと虎熊は大人しゅうしててや。
@@ -12627,7 +12627,7 @@ We’re looking for our prey. Our Casters.
 では。そのように。
  
 **Danzo:**
-敵性反応多数発生。<ruby><rb>人造生物</rb><rt>ホムンクルス</rt></ruby>と思われまする、マスター！
+敵性反応多数発生。<ruby>人造生物<rt>ホムンクルス</rt></ruby>と思われまする、マスター！
  
 ---
 
@@ -12661,13 +12661,13 @@ We’re looking for our prey. Our Casters.
 ああ&mdash;楽し！
  
 **Shuten Dōji:**
-<ruby><rb>いつも]よりやる気あるんとちゃうの、小僧？ええわぁ。[#滾</rb><rt>たぎ</rt></ruby>るわぁ。昂ぶるわぁ。
+<ruby>いつも]よりやる気あるんとちゃうの、小僧？ええわぁ。[#滾<rt>たぎ</rt></ruby>るわぁ。昂ぶるわぁ。
  
 **Shuten Dōji:**
 ああ……勿体ないわぁ。
  
 **Shuten Dōji:**
-こないなもん、一度きりで<ruby><rb>終</rb><rt>しま</rt></ruby>いにしてもうたら<u>ばち</u>が当たってまうわぁ。
+こないなもん、一度きりで<ruby>終<rt>しま</rt></ruby>いにしてもうたら<u>ばち</u>が当たってまうわぁ。
  
 **Shuten Dōji:**
 ほなキャスターはん。ここらで。
@@ -12697,7 +12697,7 @@ We’re looking for our prey. Our Casters.
 通常の聖杯戦争に於ける令呪による超高速移動、疑似転移の類とは、似て非なるモノ……！
  
 **Danzo:**
-恐らくは、<ruby><rb>目眩</rb><rt>め く ら</rt></ruby>ましの術式と、高速移動の術式との合わせ技。
+恐らくは、<ruby>目眩<rt>め く ら</rt></ruby>ましの術式と、高速移動の術式との合わせ技。
  
 **Danzo:**
 戦場離脱に特化した多人数移動。大陸の古き軍師・太公望がかつて用いたという、
@@ -12706,7 +12706,7 @@ We’re looking for our prey. Our Casters.
 かの土遁の術をさえ思わせまする。なんと、鮮やかな腕前。
  
 **Sakata Kintoki:**
-<ruby><rb>虎熊童子</rb><rt>デ　カ　ブ　ツ</rt></ruby>も消えちまっていやがる。くっ……
+<ruby>虎熊童子<rt>デ　カ　ブ　ツ</rt></ruby>も消えちまっていやがる。くっ……
  
 ---
 
@@ -12723,7 +12723,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-はっ。霊体化を用いて……一通り、<ruby><rb>洛内</rb><rt>らくない</rt></ruby>を哨戒して参りまする。
+はっ。霊体化を用いて……一通り、<ruby>洛内<rt>らくない</rt></ruby>を哨戒して参りまする。
  
 **Danzo:**
 長時間の霊体化は、ワタシであっても 何らかのペナルティを喰らう可能性がありますゆえ、
@@ -12785,16 +12785,16 @@ We’re looking for our prey. Our Casters.
 陽が昇って落ち着いちゃいるが、アンタたちはまだ外には出ねえ方がいい。
  
 **Sakata Kintoki:**
-<ruby><rb>暫</rb><rt>しばら</rt></ruby>くは、鬼どもがいるかもしれねえ。
+<ruby>暫<rt>しばら</rt></ruby>くは、鬼どもがいるかもしれねえ。
  
 **Sakata Kintoki:**
 あー。屋敷に、多少の結界は張ってあるンだよな？
  
 **家人:**
-それは勿論。先代<ruby><rb>為時</rb><rt>ためとき</rt></ruby>様の時より、当家の結界は一度たりとも破られたことはなく。
+それは勿論。先代<ruby>為時<rt>ためとき</rt></ruby>様の時より、当家の結界は一度たりとも破られたことはなく。
  
 **Sakata Kintoki:**
-そいつは<ruby><rb>重畳</rb><rt>ちょうじょう</rt></ruby>だ。香子サンは、奥にいるのかい？
+そいつは<ruby>重畳<rt>ちょうじょう</rt></ruby>だ。香子サンは、奥にいるのかい？
  
 **家人:**
 それが……
@@ -12806,22 +12806,22 @@ We’re looking for our prey. Our Casters.
 真面目だねえ！いや、流石は藤原香子殿。見事な忠だ。
  
 **Sakata Kintoki:**
-あー。香子サン、<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>で出たンだよな？
+あー。香子サン、<ruby>牛車<rt>ぎっしゃ</rt></ruby>で出たンだよな？
  
 **家人:**
 は。それはもう！
  
 **Sakata Kintoki:**
-よし。晴明殿の符を付けた<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>なら、それなりの<ruby><rb>目眩</rb><rt>め く ら</rt></ruby>ましにはなる。
+よし。晴明殿の符を付けた<ruby>牛車<rt>ぎっしゃ</rt></ruby>なら、それなりの<ruby>目眩<rt>め く ら</rt></ruby>ましにはなる。
  
 **Sakata Kintoki:**
-いざ内裏に着いたら着いたで、あすこの結界は強え。流石の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>も破れまいさ。
+いざ内裏に着いたら着いたで、あすこの結界は強え。流石の<ruby>術者<rt>キャスター</rt></ruby>も破れまいさ。
  
 **Sakata Kintoki:**
 ……取りあえず、段蔵サンの報告待ちだな。
  
 **Sakata Kintoki:**
-内裏の様子も遠目に<ruby><rb>窺</rb><rt>うかが</rt></ruby>うっつってたしな、香子サンを見掛けるかもしれねえ。
+内裏の様子も遠目に<ruby>窺<rt>うかが</rt></ruby>うっつってたしな、香子サンを見掛けるかもしれねえ。
  
 ---
 
@@ -12839,7 +12839,7 @@ We’re looking for our prey. Our Casters.
 
  
 **家人:**
-そ、それでは私は<ruby><rb>朝餉</rb><rt>あさげ</rt></ruby>の支度を。失礼いたします。
+そ、それでは私は<ruby>朝餉<rt>あさげ</rt></ruby>の支度を。失礼いたします。
  
 **Sakata Kintoki:**
 おう、頼むぜ！
@@ -12848,7 +12848,7 @@ We’re looking for our prey. Our Casters.
 ……ふう。
  
 **Sakata Kintoki:**
-しっかし、なあ。まさか鬼まで<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>とは。
+しっかし、なあ。まさか鬼まで<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>とは。
  
 **Sakata Kintoki:**
 ま、香子サンが選ばれる以上、力ある者なら誰が選ばれたっておかしかねえが、
@@ -12880,7 +12880,7 @@ We’re looking for our prey. Our Casters.
 酒呑童子。茨木童子。
  
 **Sakata Kintoki:**
-あれでどっちも大した鬼だ。馬鹿力に金剛の<ruby><rb>躯</rb><rt>からだ</rt></ruby>、妖術<ruby><rb>紛</rb><rt>まが</rt></ruby>いの力まで振るう。
+あれでどっちも大した鬼だ。馬鹿力に金剛の<ruby>躯<rt>からだ</rt></ruby>、妖術<ruby>紛<rt>まが</rt></ruby>いの力まで振るう。
  
 **Sakata Kintoki:**
 虎熊だけじゃねえ、星熊、金熊、熊童子まで手下に加え、大江の御山に鬼御殿を建てやがった。
@@ -12895,7 +12895,7 @@ We’re looking for our prey. Our Casters.
 そこいらの雑魚鬼とは、まるで別格だ。
  
 **Sakata Kintoki:**
-あの安倍晴明殿でさえ、あの二匹は京最大の脅威だと<ruby><rb>宣</rb><rt>のたま</rt></ruby>いやがる。
+あの安倍晴明殿でさえ、あの二匹は京最大の脅威だと<ruby>宣<rt>のたま</rt></ruby>いやがる。
  
 **Sakata Kintoki:**
 だが、よ&mdash;
@@ -12916,7 +12916,7 @@ We’re looking for our prey. Our Casters.
 かつては間違いなく喰っていやがった。それが、不思議と今は喰わねえ。
  
 **Sakata Kintoki:**
-戯れなんだ。殺しも、<ruby><rb>嬲</rb><rt>なぶ</rt></ruby>りも、奪うのも、全部が全部そうさ。
+戯れなんだ。殺しも、<ruby>嬲<rt>なぶ</rt></ruby>りも、奪うのも、全部が全部そうさ。
  
 ---
 
@@ -12942,7 +12942,7 @@ We’re looking for our prey. Our Casters.
 この左腕を千切られかけた。晴明殿のお陰でなんとか繋がったが……
  
 **Sakata Kintoki:**
-人だろうが獣だろうが、ヤツにとっちゃ<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>の命は玩具みてえなもんだ。
+人だろうが獣だろうが、ヤツにとっちゃ<ruby>現世<rt>うつしよ</rt></ruby>の命は玩具みてえなもんだ。
  
 **Sakata Kintoki:**
 それだけの力がありやがるのさ。
@@ -12981,7 +12981,7 @@ We’re looking for our prey. Our Casters.
 ……本当は、よ。
  
 **Sakata Kintoki:**
-遭ったが最後、首<ruby><rb>刎</rb><rt>は</rt></ruby>ねるまで粘って戦う、ってのが正しい源氏武者の在り方なのかもしれねえ。
+遭ったが最後、首<ruby>刎<rt>は</rt></ruby>ねるまで粘って戦う、ってのが正しい源氏武者の在り方なのかもしれねえ。
  
 **Sakata Kintoki:**
 でも、なあ。何か<u>違う</u>んだ。
@@ -12990,19 +12990,19 @@ We’re looking for our prey. Our Casters.
 オイラにゃその気になれねえ。酒呑とは何度もマサカリ握って相対してきたが、
  
 **Sakata Kintoki:**
-茨木の云った通り、首<ruby><rb>刎</rb><rt>は</rt></ruby>ねるつもりで戦えねえ。
+茨木の云った通り、首<ruby>刎<rt>は</rt></ruby>ねるつもりで戦えねえ。
  
 **Sakata Kintoki:**
 なんつーか……
  
 **Sakata Kintoki:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で首<ruby><rb>刎</rb><rt>は</rt></ruby>ねンのはどうなんだ？
+<ruby>此処<rt>こ　こ</rt></ruby>で首<ruby>刎<rt>は</rt></ruby>ねンのはどうなんだ？
  
 **Sakata Kintoki:**
 そいつは、なんだか……しっくりこねえ……
  
 **Sakata Kintoki:**
-たとえば、人喰わずに<ruby><rb>嗤</rb><rt>わら</rt></ruby>ってるだけの奴の首を えいやっと<ruby><rb>刎</rb><rt>は</rt></ruby>ねるとするだろ？
+たとえば、人喰わずに<ruby>嗤<rt>わら</rt></ruby>ってるだけの奴の首を えいやっと<ruby>刎<rt>は</rt></ruby>ねるとするだろ？
  
 **Sakata Kintoki:**
 それでオイラは……
@@ -13062,10 +13062,10 @@ We’re looking for our prey. Our Casters.
 
  
 **Sakata Kintoki:**
-まずはメシだメシ！<ruby><rb>朝餉</rb><rt>あさげ</rt></ruby>喰って、段蔵殿を待ちつつ昼寝だ！
+まずはメシだメシ！<ruby>朝餉<rt>あさげ</rt></ruby>喰って、段蔵殿を待ちつつ昼寝だ！
  
 **Sakata Kintoki:**
-真面目な話、眠りが足りねえまま戦うのは<ruby><rb>拙</rb><rt>まず</rt></ruby>いしな！
+真面目な話、眠りが足りねえまま戦うのは<ruby>拙<rt>まず</rt></ruby>いしな！
  
 **Danzo:**
 段蔵、帰参いたしました。
@@ -13080,16 +13080,16 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-鬼たちの動きを追いました。<ruby><rb>暫</rb><rt>しばら</rt></ruby>く、時が掛かったことをお許しください。
+鬼たちの動きを追いました。<ruby>暫<rt>しばら</rt></ruby>く、時が掛かったことをお許しください。
  
 **Danzo:**
-その、何と云いますか……酒呑童子とその一党は<ruby><rb>神出鬼没</rb><rt>しんしゅつきぼつ</rt></ruby>にて。
+その、何と云いますか……酒呑童子とその一党は<ruby>神出鬼没<rt>しんしゅつきぼつ</rt></ruby>にて。
  
 **Danzo:**
-<ruby><rb>洛内</rb><rt>らくない</rt></ruby>のあちこちに現れては、少しばかり進み……。
+<ruby>洛内<rt>らくない</rt></ruby>のあちこちに現れては、少しばかり進み……。
  
 **Danzo:**
-<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>や、哨戒中の源氏郎等に遭遇。これを蹴散らしたかと思えば、姿を消すのです。
+<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>や、哨戒中の源氏郎等に遭遇。これを蹴散らしたかと思えば、姿を消すのです。
  
 **Sakata Kintoki:**
 んん？
@@ -13098,7 +13098,7 @@ We’re looking for our prey. Our Casters.
 あちこちに現れるってのはまあ合点がいく。そういう術なんだろう、ってな。
  
 **Sakata Kintoki:**
-実のとこ、あの<ruby><rb>術者</rb><rt>キャスター</rt></ruby>野郎が去り際に 口走っていやがった。
+実のとこ、あの<ruby>術者<rt>キャスター</rt></ruby>野郎が去り際に 口走っていやがった。
  
 **Sakata Kintoki:**
 しっかし……
@@ -13119,13 +13119,13 @@ We’re looking for our prey. Our Casters.
 ただ遊んでるだけか？んー……。
  
 **Danzo:**
-報告事項として。源氏郎等たる武者たちは<ruby><rb>洛内</rb><rt>らくない</rt></ruby>各所に配されましたが、
+報告事項として。源氏郎等たる武者たちは<ruby>洛内<rt>らくない</rt></ruby>各所に配されましたが、
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>は源氏本家からの命にて。内裏には、特段動きはございませぬ。
+<ruby>是<rt>これ</rt></ruby>は源氏本家からの命にて。内裏には、特段動きはございませぬ。
  
 **Danzo:**
-それと、香子殿が<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>にて内裏に入られました。鬼に遭遇してはおりませぬ。
+それと、香子殿が<ruby>牛車<rt>ぎっしゃ</rt></ruby>にて内裏に入られました。鬼に遭遇してはおりませぬ。
  
 **Sakata Kintoki:**
 香子殿は無事か。よし。
@@ -13134,7 +13134,7 @@ We’re looking for our prey. Our Casters.
 しかし、内裏に動きがねえか……
  
 **Sakata Kintoki:**
-京の夜を騒がせた鬼が酒呑で、酒呑が<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>であることは承知なのかもな。
+京の夜を騒がせた鬼が酒呑で、酒呑が<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>であることは承知なのかもな。
  
 **Sakata Kintoki:**
 内裏が動くまでもなし、と。ハッ。如何にも左大臣殿らしいや。
@@ -13146,10 +13146,10 @@ We’re looking for our prey. Our Casters.
 何処と何処に連中が出たか、具体的に教えてくれるか、段蔵サン。
  
 **Danzo:**
-は。先だっての戦闘の後、まずは<ruby><rb>東京極</rb><rt>ひがしきょうごく</rt></ruby>大路八条の上。
+は。先だっての戦闘の後、まずは<ruby>東京極<rt>ひがしきょうごく</rt></ruby>大路八条の上。
  
 **Danzo:**
-次に、<ruby><rb>西洞院</rb><rt>にしのとういん</rt></ruby>大路六条の上。次に、<ruby><rb>道祖</rb><rt>さ　い</rt></ruby>大路五条の上。
+次に、<ruby>西洞院<rt>にしのとういん</rt></ruby>大路六条の上。次に、<ruby>道祖<rt>さ　い</rt></ruby>大路五条の上。
  
 **Danzo:**
 右京側の土御門大路。
@@ -13172,13 +13172,13 @@ We’re looking for our prey. Our Casters.
 
  
 **Sakata Kintoki:**
-<ruby><rb>硯</rb><rt>すずり</rt></ruby>と筆、借りてくるぜ。
+<ruby>硯<rt>すずり</rt></ruby>と筆、借りてくるぜ。
  
 **Sakata Kintoki:**
 よっしゃ。やるぜ。
  
 **Sakata Kintoki:**
-<ruby><rb>東京極</rb><rt>ひがしきょうごく</rt></ruby>大路八条、<ruby><rb>西洞院</rb><rt>にしのとういん</rt></ruby>大路六条、<ruby><rb>道祖</rb><rt>さ　い</rt></ruby>大路五条。
+<ruby>東京極<rt>ひがしきょうごく</rt></ruby>大路八条、<ruby>西洞院<rt>にしのとういん</rt></ruby>大路六条、<ruby>道祖<rt>さ　い</rt></ruby>大路五条。
  
 **Sakata Kintoki:**
 右京側の土御門大路。で、大宮大路五条。
@@ -13199,7 +13199,7 @@ We’re looking for our prey. Our Casters.
 は。お任せを。
  
 **Danzo:**
-<ruby><rb>東京極</rb><rt>ひがしきょうごく</rt></ruby>大路八条では北西へ、<ruby><rb>西洞院</rb><rt>にしのとういん</rt></ruby>大路六条で北北西、<ruby><rb>道祖</rb><rt>さ　い</rt></ruby>大路五条で北東、大宮大路五条で北北東……
+<ruby>東京極<rt>ひがしきょうごく</rt></ruby>大路八条では北西へ、<ruby>西洞院<rt>にしのとういん</rt></ruby>大路六条で北北西、<ruby>道祖<rt>さ　い</rt></ruby>大路五条で北東、大宮大路五条で北北東……
  
 **Danzo:**
 右京側の土御門大路では、東へ。そして、
@@ -13250,13 +13250,13 @@ We’re looking for our prey. Our Casters.
 酒呑がその気になりゃあ、四天王ならざる郎等なんざ軽いもんだ。
  
 **Sakata Kintoki:**
-だが、そのお陰で目当ては分かった。この線が交差する<ruby><rb>処</rb><rt>ところ</rt></ruby>だな！
+だが、そのお陰で目当ては分かった。この線が交差する<ruby>処<rt>ところ</rt></ruby>だな！
  
 **Sakata Kintoki:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は……
+<ruby>此処<rt>こ　こ</rt></ruby>は……
  
 **Danzo:**
-左京、<ruby><rb>正親町</rb><rt>おおぎまち</rt></ruby>のあたり&mdash;
+左京、<ruby>正親町<rt>おおぎまち</rt></ruby>のあたり&mdash;
  
 **Sakata Kintoki:**
 …………そ、そうか。そうきたか。
@@ -13279,10 +13279,10 @@ We’re looking for our prey. Our Casters.
 おう。なんつーか。な。
  
 **Sakata Kintoki:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>は、まあ、京人なら誰もが知ってる御方の屋敷あたりだ。
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>は、まあ、京人なら誰もが知ってる御方の屋敷あたりだ。
  
 **Sakata Kintoki:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>からは近い。まあ、<ruby><rb>徒歩</rb><rt>かち</rt></ruby>で……
+<ruby>此処<rt>こ　こ</rt></ruby>からは近い。まあ、<ruby>徒歩<rt>かち</rt></ruby>で……
  
 **Sakata Kintoki:**
 すぐだ、すぐ。
@@ -13335,7 +13335,7 @@ We’re looking for our prey. Our Casters.
 &mdash;安倍家屋敷、近辺。
  
 **Narration:**
-それ<ruby><rb>即</rb><rt>すなわ</rt></ruby>ち。
+それ<ruby>即<rt>すなわ</rt></ruby>ち。
  
 **Narration:**
 &mdash;源頼光屋敷、近辺！
@@ -13353,7 +13353,7 @@ We’re looking for our prey. Our Casters.
 金時、殿？
  
 **Sakata Kintoki:**
-<ruby><rb>先刻</rb><rt>さっき</rt></ruby>はああして言い切ったが、すまん。ありゃ嘘だ。
+<ruby>先刻<rt>さっき</rt></ruby>はああして言い切ったが、すまん。ありゃ嘘だ。
  
 **Sakata Kintoki:**
 嘘でもねえが嘘に近い。
@@ -13433,7 +13433,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-頼光さん、<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>の可能性はあるよね？
+頼光さん、<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>の可能性はあるよね？
 
 ---
 
@@ -13475,7 +13475,7 @@ We’re looking for our prey. Our Casters.
 （動け、動きやがれオイラの体）
  
 **Sakata Kintoki:**
-（<ruby><rb>門扉</rb><rt>もんぴ</rt></ruby>を叩く。　それだけでいいだろが）
+（<ruby>門扉<rt>もんぴ</rt></ruby>を叩く。　それだけでいいだろが）
  
 **Sakata Kintoki:**
 （なんで動けねえ？）
@@ -13484,13 +13484,13 @@ We’re looking for our prey. Our Casters.
 （……そりゃ決まってら、緊張してンだオレは！）
  
 **Sakata Kintoki:**
-（情けねえ情けねえ！　頼光サンの前じゃいつまでも<ruby><rb>餓鬼</rb><rt>ガ　キ</rt></ruby>のままだ！）
+（情けねえ情けねえ！　頼光サンの前じゃいつまでも<ruby>餓鬼<rt>ガ　キ</rt></ruby>のままだ！）
  
 **Sakata Kintoki:**
 （気ィ張るトコだぜ坂田金時！　火急の時だ！）
  
 **Sakata Kintoki:**
-（たとえ頼光サンが<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>でも&mdash;）
+（たとえ頼光サンが<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>でも&mdash;）
  
 **幼子:**
 まあ、まあ！おかえりなさい。
@@ -13499,13 +13499,13 @@ We’re looking for our prey. Our Casters.
 うおわ！
  
 **Sakata Kintoki:**
-ど、どっから生えたこの<ruby><rb>餓鬼</rb><rt>ガ　キ</rt></ruby>！？右にも左にもいなかったよな！
+ど、どっから生えたこの<ruby>餓鬼<rt>ガ　キ</rt></ruby>！？右にも左にもいなかったよな！
  
 **Danzo:**
 い、いえ。頼光殿のお屋敷から。
  
 **Danzo:**
-<ruby><rb>門扉</rb><rt>もんぴ</rt></ruby>を小さく開けて、トコトコ歩いて来られましたが。
+<ruby>門扉<rt>もんぴ</rt></ruby>を小さく開けて、トコトコ歩いて来られましたが。
  
 **幼子:**
 ふふ。
@@ -13544,7 +13544,7 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Sakata Kintoki:**
-（段蔵サン段蔵サン。　この<ruby><rb>餓鬼</rb><rt>ガ　キ</rt></ruby>、実は<ruby><rb>術者</rb><rt>キャスター</rt></ruby>だったりしねえか？）
+（段蔵サン段蔵サン。　この<ruby>餓鬼<rt>ガ　キ</rt></ruby>、実は<ruby>術者<rt>キャスター</rt></ruby>だったりしねえか？）
  
 **Danzo:**
 （は。英霊の反応なし、にて候）
@@ -13559,7 +13559,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-（魔力も感知できませぬが、　何か、この<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>に不審な点でも……？）
+（魔力も感知できませぬが、　何か、この<ruby>幼子<rt>おさなご</rt></ruby>に不審な点でも……？）
  
 **Sakata Kintoki:**
 （いや、何でもねえなら安心だ）
@@ -13586,19 +13586,19 @@ We’re looking for our prey. Our Casters.
 走るな走るな！屋敷ン中で走ると頼光サンに怒られっぞ！
  
 **Danzo:**
-ふふ。なんと云いますか、<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>は場を朗らかにさせますね。
+ふふ。なんと云いますか、<ruby>幼子<rt>おさなご</rt></ruby>は場を朗らかにさせますね。
  
 **Danzo:**
-まるで要塞が如き護りの源氏屋敷ですが、ああして<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>が歩むと、刃の気配が薄らぎます。
+まるで要塞が如き護りの源氏屋敷ですが、ああして<ruby>幼子<rt>おさなご</rt></ruby>が歩むと、刃の気配が薄らぎます。
  
 **Danzo:**
 しかし……
  
 **Danzo:**
-<ruby><rb>門扉</rb><rt>もんぴ</rt></ruby>の裏には完全武装の鎧武者数名、屋敷の中にも、軽装とはいえ鎧武者が各配置。
+<ruby>門扉<rt>もんぴ</rt></ruby>の裏には完全武装の鎧武者数名、屋敷の中にも、軽装とはいえ鎧武者が各配置。
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>はよもや、<ruby><rb>臨戦態勢</rb><rt>りんせんたいせい</rt></ruby>ではありませぬか？
+<ruby>是<rt>これ</rt></ruby>はよもや、<ruby>臨戦態勢<rt>りんせんたいせい</rt></ruby>ではありませぬか？
  
 **Danzo:**
 それも……攻めではなく、護りのための。
@@ -13627,13 +13627,13 @@ We’re looking for our prey. Our Casters.
 （大路で叫ぶようなもんだぜ、こりゃあ）
  
 **Sakata Kintoki:**
-（私が<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>ですってな）
+（私が<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>ですってな）
  
 **Sakata Kintoki:**
-（で、この<ruby><rb>餓鬼</rb><rt>ガ　キ</rt></ruby>は&mdash;）
+（で、この<ruby>餓鬼<rt>ガ　キ</rt></ruby>は&mdash;）
  
 **Sakata Kintoki:**
-なあ嬢ちゃん。アンタ、いつから<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にいる？
+なあ嬢ちゃん。アンタ、いつから<ruby>此処<rt>こ　こ</rt></ruby>にいる？
  
 **Sakata Kintoki:**
 ……って、ありゃ。何処行った？
@@ -13645,7 +13645,7 @@ We’re looking for our prey. Our Casters.
 またかー。悪い、調子が出ねえ！
  
 **Sakata Kintoki:**
-なんだか縮こまっちまうんだよな、いい加減、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にゃ慣れてるだろうによォ。
+なんだか縮こまっちまうんだよな、いい加減、<ruby>此処<rt>こ　こ</rt></ruby>にゃ慣れてるだろうによォ。
  
 **Minamoto no Raikō:**
 …………我が屋敷、慣れませぬか金時。
@@ -13707,10 +13707,10 @@ We’re looking for our prey. Our Casters.
 貴方の顔を再び見られて嬉しく思います。息災で何より。
  
 **Minamoto no Raikō:**
-連日の……私に無断での外泊について、<ruby><rb>咎</rb><rt>とが</rt></ruby>をすぐには問いません。
+連日の……私に無断での外泊について、<ruby>咎<rt>とが</rt></ruby>をすぐには問いません。
  
 **Sakata Kintoki:**
-と、<ruby><rb>咎</rb><rt>とが</rt></ruby>って頼光サン！オイラは……
+と、<ruby>咎<rt>とが</rt></ruby>って頼光サン！オイラは……
  
 **Minamoto no Raikō:**
 金時！
@@ -13719,7 +13719,7 @@ We’re looking for our prey. Our Casters.
 は、はいッ。
  
 **Minamoto no Raikō:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる[♂男女両名/♀女二名]。何者ですか。
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>なる[♂男女両名/♀女二名]。何者ですか。
  
 **Minamoto no Raikō:**
 &mdash;何者、ですか。
@@ -13746,7 +13746,7 @@ We’re looking for our prey. Our Casters.
 （重々ご注意を、マスター！）
  
 **Minamoto no Raikō:**
-答えなさい金時。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる[♂男女両名/♀女二名]は何者ですか。
+答えなさい金時。<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>なる[♂男女両名/♀女二名]は何者ですか。
  
 **Minamoto no Raikō:**
 返答なきままであれば、この場にて。母が処断いたします。
@@ -13784,7 +13784,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Sakata Kintoki:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なる両名、我が新たなる友にて！それで母上。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>で見掛けた小さい<ruby><rb>女</rb><rt>め</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>なんだが、
+<ruby>是<rt>これ</rt></ruby>なる両名、我が新たなる友にて！それで母上。<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>で見掛けた小さい<ruby>女<rt>め</rt></ruby>の<ruby>子<rt>こ</rt></ruby>なんだが、
  
 **Sakata Kintoki:**
 郎等の誰かの子かね？何、門を開いて案内してくれたんだ。
@@ -13796,7 +13796,7 @@ We’re looking for our prey. Our Casters.
 それから……ああ、あの子ですねっ。
  
 **Minamoto no Raikō:**
-あの子またお外に出て……もう、危ないから<ruby><rb>止</rb><rt>よ</rt></ruby>しなさいと云い付けたのに。
+あの子またお外に出て……もう、危ないから<ruby>止<rt>よ</rt></ruby>しなさいと云い付けたのに。
  
 **Minamoto no Raikō:**
 あああっ、どうしましょうどうしましょう……
@@ -13811,19 +13811,19 @@ We’re looking for our prey. Our Casters.
 流石は私の金時です！なんと立派に育って、まあ、まあ。
  
 **Minamoto no Raikō:**
-そう云えば金時……家出前より、一回り<ruby><rb>逞</rb><rt>たくま</rt></ruby>しくなったような……？
+そう云えば金時……家出前より、一回り<ruby>逞<rt>たくま</rt></ruby>しくなったような……？
  
 **Minamoto no Raikō:**
-腕なんて、ふふ、なんと<ruby><rb>逞</rb><rt>たくま</rt></ruby>しい源氏腕でしょう！
+腕なんて、ふふ、なんと<ruby>逞<rt>たくま</rt></ruby>しい源氏腕でしょう！
  
 **Minamoto no Raikō:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>はあれですね、ええ、ええ、再度の元服祝いなど催しても佳いのでは！？
+<ruby>是<rt>これ</rt></ruby>はあれですね、ええ、ええ、再度の元服祝いなど催しても佳いのでは！？
  
 **Sakata Kintoki:**
 いやいやそれはねえよ！？
  
 **Sakata Kintoki:**
-あと何も変わっちゃいねえし！オイラ、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>出てそんなに経っちゃねえだろ？
+あと何も変わっちゃいねえし！オイラ、<ruby>此処<rt>こ　こ</rt></ruby>出てそんなに経っちゃねえだろ？
  
 **Sakata Kintoki:**
 あと源氏腕って何だいそりゃあ！
@@ -13867,7 +13867,7 @@ We’re looking for our prey. Our Casters.
 む。
  
 **Minamoto no Raikō:**
-&mdash;それはそうと何者ですか。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>なる[♂男女両名/♀女二名]。
+&mdash;それはそうと何者ですか。<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>なる[♂男女両名/♀女二名]。
  
 **Danzo:**
 また！？
@@ -13950,7 +13950,7 @@ We’re looking for our prey. Our Casters.
 まあまあ、まあまあまあまあ。それはそれは、ようこそお出で下さいました。
  
 **Minamoto no Raikō:**
-ささ、<ruby><rb>此方</rb><rt>こちら</rt></ruby>へ。<ruby><rb>寛</rb><rt>くつろ</rt></ruby>いでくださいましな！
+ささ、<ruby>此方<rt>こちら</rt></ruby>へ。<ruby>寛<rt>くつろ</rt></ruby>いでくださいましな！
  
 **Minamoto no Raikō:**
 博多より取り寄せた菓子などいかがでしょうね。ああ、それとも桃や梨など出しましょうか。
@@ -13965,7 +13965,7 @@ We’re looking for our prey. Our Casters.
 友としての金時が如何なる人物であるか、たっぷりとお聞かせくださいませ！
  
 **Minamoto no Raikō:**
-ああそうだ！<ruby><rb>夕餉</rb><rt>ゆうげ</rt></ruby>、召し上がっていかれますね？
+ああそうだ！<ruby>夕餉<rt>ゆうげ</rt></ruby>、召し上がっていかれますね？
  
 ---
 
@@ -13988,7 +13988,7 @@ We’re looking for our prey. Our Casters.
 ささ。どうぞご遠慮なく。
  
 **Minamoto no Raikō:**
-金時の友への振る舞いなれば、<ruby><rb>夕餉</rb><rt>ゆうげ</rt></ruby>も腕によりを掛けさせていただきました。
+金時の友への振る舞いなれば、<ruby>夕餉<rt>ゆうげ</rt></ruby>も腕によりを掛けさせていただきました。
  
 **Minamoto no Raikō:**
 しかし、見れば京には珍しき衣。博多あたりで見繕われたのでしょうから……
@@ -14020,7 +14020,7 @@ We’re looking for our prey. Our Casters.
 おっこの鹿肉旨いな！（もぐもぐもぐ）
  
 **Sakata Kintoki:**
-こっちは……やったぜ、蒸し<ruby><rb>鮑</rb><rt>あわび</rt></ruby>たぁ豪勢だ！（もぐもぐもぐ）
+こっちは……やったぜ、蒸し<ruby>鮑<rt>あわび</rt></ruby>たぁ豪勢だ！（もぐもぐもぐ）
  
 **Minamoto no Raikō:**
 ふふふ。金時の大好きな白米も たんと炊きあげましたから、沢山召し上がれ。
@@ -14032,19 +14032,19 @@ We’re looking for our prey. Our Casters.
 まあ、まあ。お口いっぱいにほおばって。
  
 **Minamoto no Raikō:**
-そう云う<ruby><rb>処</rb><rt>ところ</rt></ruby>は変わりませんね、金時。けれど本当に立派になって、友まで連れて……
+そう云う<ruby>処<rt>ところ</rt></ruby>は変わりませんね、金時。けれど本当に立派になって、友まで連れて……
  
 **Minamoto no Raikō:**
-普段なら、お行儀を<ruby><rb>五月蠅</rb><rt>う　る　さ</rt></ruby>く云うところですが、今日はやめです。ああ、なんと<ruby><rb>目出度</rb><rt>め　で　た</rt></ruby>い……！
+普段なら、お行儀を<ruby>五月蠅<rt>う　る　さ</rt></ruby>く云うところですが、今日はやめです。ああ、なんと<ruby>目出度<rt>め　で　た</rt></ruby>い……！
  
 **Sakata Kintoki:**
 お、鳥の焼いたのも旨い！
  
 **Danzo:**
-<ruby><rb>雉</rb><rt>きじ</rt></ruby>ですね。
+<ruby>雉<rt>きじ</rt></ruby>ですね。
  
 **Danzo:**
-調味料は<ruby><rb>醤</rb><rt>ひしお</rt></ruby>でしょうか。成る程、このように味付けを行うのですね。
+調味料は<ruby>醤<rt>ひしお</rt></ruby>でしょうか。成る程、このように味付けを行うのですね。
  
 ---
 
@@ -14064,7 +14064,7 @@ We’re looking for our prey. Our Casters.
 そうですね。香子殿のお屋敷では……
  
 **Danzo:**
-お米を煮た<ruby><rb>姫飯</rb><rt>ひめいい</rt></ruby>や<ruby><rb>水飯</rb><rt>すいはん</rt></ruby>を中心に、汁物、干したお魚、海藻等の献立でありました。
+お米を煮た<ruby>姫飯<rt>ひめいい</rt></ruby>や<ruby>水飯<rt>すいはん</rt></ruby>を中心に、汁物、干したお魚、海藻等の献立でありました。
  
 **Danzo:**
 仏の教えのためか、肉類はあまり見掛けませんでした。
@@ -14130,7 +14130,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Sakata Kintoki:**
-おっと。頼光サン、子と云えばだ。<ruby><rb>先刻</rb><rt>さっき</rt></ruby>の&mdash;
+おっと。頼光サン、子と云えばだ。<ruby>先刻<rt>さっき</rt></ruby>の&mdash;
  
 **幼子:**
 お酒はいかが？金時は、お酒も大好きだと聞いたから。
@@ -14201,10 +14201,10 @@ We’re looking for our prey. Our Casters.
 ……そう。
  
 **Sakata Kintoki:**
-ところで頼光サン、いやさ母上。この<ruby><rb>餓鬼</rb><rt>ガ　キ</rt></ruby>、郎等の誰かの子かい？
+ところで頼光サン、いやさ母上。この<ruby>餓鬼<rt>ガ　キ</rt></ruby>、郎等の誰かの子かい？
  
 **Sakata Kintoki:**
-オレはとんと見掛けたことはねえが、随分と<ruby><rb>屋敷</rb><rt>こ　こ</rt></ruby>に馴染んでるようだしさ。
+オレはとんと見掛けたことはねえが、随分と<ruby>屋敷<rt>こ　こ</rt></ruby>に馴染んでるようだしさ。
  
 **Sakata Kintoki:**
 それともまさか、母上の養子だったりするのかい？
@@ -14213,7 +14213,7 @@ We’re looking for our prey. Our Casters.
 いえ、そういう訳では……
  
 **Minamoto no Raikō:**
-い、いえ。その。<ruby><rb>所謂</rb><rt>いわゆる</rt></ruby>、そのようなものではありますね。
+い、いえ。その。<ruby>所謂<rt>いわゆる</rt></ruby>、そのようなものではありますね。
  
 **Sakata Kintoki:**
 じゃ、満仲殿の縁者か？
@@ -14233,7 +14233,7 @@ We’re looking for our prey. Our Casters.
 満仲さんっていうのは
  
 **Danzo:**
-源頼光殿のお父上にして前<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>、摂津源氏の祖の一人として知られる御仁にて。
+源頼光殿のお父上にして前<ruby>棟梁<rt>とうりょう</rt></ruby>、摂津源氏の祖の一人として知られる御仁にて。
  
 
 ---
@@ -14258,7 +14258,7 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Sakata Kintoki:**
-（&mdash;アンタの<ruby><rb>術者</rb><rt>キャスター</rt></ruby>なのか？）
+（&mdash;アンタの<ruby>術者<rt>キャスター</rt></ruby>なのか？）
  
 **Sakata Kintoki:**
 （よし。そう云える流れだ！）
@@ -14279,7 +14279,7 @@ We’re looking for our prey. Our Casters.
 ……。
  
 **Minamoto no Raikō:**
-大丈夫、誰も貴女を<ruby><rb>虐</rb><rt>いじ</rt></ruby>めたりはしません。<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は私の家なのです。
+大丈夫、誰も貴女を<ruby>虐<rt>いじ</rt></ruby>めたりはしません。<ruby>此処<rt>こ　こ</rt></ruby>は私の家なのです。
  
 **Minamoto no Raikō:**
 金時も金時の友も、貴女を傷付けない。案ずることなど何もない。
@@ -14300,16 +14300,16 @@ We’re looking for our prey. Our Casters.
 ですから……
  
 **Minamoto no Raikō:**
-&mdash;ご友人。<ruby><rb>暫</rb><rt>しば</rt></ruby>し、この子をお願いいたします。
+&mdash;ご友人。<ruby>暫<rt>しば</rt></ruby>し、この子をお願いいたします。
  
 **Danzo:**
-はっ。さ、<ruby><rb>此方</rb><rt>こちら</rt></ruby>へ。
+はっ。さ、<ruby>此方<rt>こちら</rt></ruby>へ。
  
 **Minamoto no Raikō:**
 ありがとう。では&mdash;
  
 **Minamoto no Raikō:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>。無礼ですよ。何故に沈黙して、姿を隠して<ruby><rb>佇</rb><rt>たたず</rt></ruby>んでいるのです？
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>。無礼ですよ。何故に沈黙して、姿を隠して<ruby>佇<rt>たたず</rt></ruby>んでいるのです？
  
 **Minamoto no Raikō:**
 姿を見せなさい。綱。
@@ -14321,13 +14321,13 @@ We’re looking for our prey. Our Casters.
 ……！マスターも、いったん段蔵の背後に。
  
 **Watanabe no Tsuna:**
-流石は<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>。いえ、失礼致しました。
+流石は<ruby>棟梁<rt>とうりょう</rt></ruby>。いえ、失礼致しました。
  
 **Watanabe no Tsuna:**
-<ruby><rb>隠形</rb><rt>おんぎょう</rt></ruby>に、異境異界の術も<ruby><rb>併</rb><rt>あわ</rt></ruby>せたと云うのに、よもやお見通しであったとは。
+<ruby>隠形<rt>おんぎょう</rt></ruby>に、異境異界の術も<ruby>併<rt>あわ</rt></ruby>せたと云うのに、よもやお見通しであったとは。
  
 **Watanabe no Tsuna:**
-重ねて失礼をお詫びする。源氏<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>、源頼光様。
+重ねて失礼をお詫びする。源氏<ruby>棟梁<rt>とうりょう</rt></ruby>、源頼光様。
  
 **Minamoto no Raikō:**
 綱……
@@ -14336,22 +14336,22 @@ We’re looking for our prey. Our Casters.
 天覧聖杯戦争の儀、聞き及んでいます。よく励んでいるようですね。
  
 **Watanabe no Tsuna:**
-久方ぶりにて。<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>。
+久方ぶりにて。<ruby>棟梁<rt>とうりょう</rt></ruby>。
  
 **Watanabe no Tsuna:**
-<ruby><rb>碓井</rb><rt>う す い</rt></ruby>殿と<ruby><rb>卜部</rb><rt>う ら べ</rt></ruby>殿には手加減利かず、湯治送りとした不始末、どうかお許しを。
+<ruby>碓井<rt>う す い</rt></ruby>殿と<ruby>卜部<rt>う ら べ</rt></ruby>殿には手加減利かず、湯治送りとした不始末、どうかお許しを。
  
 **Minamoto no Raikō:**
-貴方の不始末ではないでしょう。相対して敗れたなら、<ruby><rb>碓井</rb><rt>う す い</rt></ruby>と<ruby><rb>卜部</rb><rt>う ら べ</rt></ruby>の未熟です。
+貴方の不始末ではないでしょう。相対して敗れたなら、<ruby>碓井<rt>う す い</rt></ruby>と<ruby>卜部<rt>う ら べ</rt></ruby>の未熟です。
  
 **Minamoto no Raikō:**
 何よりも、天覧聖杯戦争の儀は、左大臣藤原道長様よりのご下命。
  
 **Minamoto no Raikō:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>に選ばれ、励むは我ら源氏の誉れです。
+<ruby>是<rt>これ</rt></ruby>に選ばれ、励むは我ら源氏の誉れです。
  
 **Minamoto no Raikō:**
-……頭を上げよ。源氏<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>の罰するところでは、ない。
+……頭を上げよ。源氏<ruby>棟梁<rt>とうりょう</rt></ruby>の罰するところでは、ない。
  
 **Watanabe no Tsuna:**
 はっ。
@@ -14369,13 +14369,13 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Watanabe no Tsuna:**
-聞け、金時。<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>ではなく四天王として告げる。
+聞け、金時。<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>ではなく四天王として告げる。
  
 **Watanabe no Tsuna:**
 京の守護を仰せつかった頼光様の郎等、我ら四天王は絶対の刃であらねばならん。
  
 **Watanabe no Tsuna:**
-恥ずべき<ruby><rb>手緩</rb><rt>てぬる</rt></ruby>さだぞ、坂田金時。源氏武者とは何か、己に問え。
+恥ずべき<ruby>手緩<rt>てぬる</rt></ruby>さだぞ、坂田金時。源氏武者とは何か、己に問え。
  
 **Sakata Kintoki:**
 へッ。
@@ -14399,7 +14399,7 @@ We’re looking for our prey. Our Casters.
 そして問い掛けには応じよう。無論おまえよりは、幾らか分かっているさ。
  
 **Watanabe no Tsuna:**
-ところで、だ。我らが源氏<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>よ。
+ところで、だ。我らが源氏<ruby>棟梁<rt>とうりょう</rt></ruby>よ。
  
 **Minamoto no Raikō:**
 はい。
@@ -14411,7 +14411,7 @@ We’re looking for our prey. Our Casters.
 ！
  
 **Watanabe no Tsuna:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ化生の匂いなれば、何故に、こうも長く気付かずにおられるのか？
+<ruby>是<rt>これ</rt></ruby>ぞ化生の匂いなれば、何故に、こうも長く気付かずにおられるのか？
  
 **Sakata Kintoki:**
 化生、化生ね。確かに随分匂い立ってやがる。
@@ -14452,7 +14452,7 @@ We’re looking for our prey. Our Casters.
 頼光はん、おるやろ。出しぃな。
  
 **Ibaraki Douji:**
-言の葉なぞいつまで交わす！面倒だ、源氏の連中ここで<ruby><rb>鏖</rb><rt>みなごろし</rt></ruby>にしてくれようぞ！
+言の葉なぞいつまで交わす！面倒だ、源氏の連中ここで<ruby>鏖<rt>みなごろし</rt></ruby>にしてくれようぞ！
  
 **Ibaraki Douji:**
 虎熊！
@@ -14461,7 +14461,7 @@ We’re looking for our prey. Our Casters.
 来やがったな！酒呑！
  
 **Sakata Kintoki:**
-どうあろうと<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は通さねえ。テメェらが何を企ててるかは知らねえが、
+どうあろうと<ruby>此処<rt>こ　こ</rt></ruby>は通さねえ。テメェらが何を企ててるかは知らねえが、
  
 **Sakata Kintoki:**
 止めるぜ。そうすりゃ、あれこれ面倒はナシだ！説得もラクになるって寸法だぜ！
@@ -14490,7 +14490,7 @@ We’re looking for our prey. Our Casters.
 おおおおおおおおおおッ！！
  
 **Shuten Dōji:**
-ああもう<ruby><rb>我</rb><rt>わ</rt></ruby>が<ruby><rb>侭</rb><rt>まま</rt></ruby>な小僧やわぁ！そないにうちと遊びたいンなら、なあ！
+ああもう<ruby>我<rt>わ</rt></ruby>が<ruby>侭<rt>まま</rt></ruby>な小僧やわぁ！そないにうちと遊びたいンなら、なあ！
  
 **Shuten Dōji:**
 付き合うさかい、腕、脚、首、引っこ抜いてしもたら堪忍な？
@@ -14502,7 +14502,7 @@ We’re looking for our prey. Our Casters.
 いくぜ、藤丸！情けねえがオレ一人じゃ足りねえ！
  
 **Sakata Kintoki:**
-<ruby><rb>援</rb><rt>たす</rt></ruby>けをくれ！
+<ruby>援<rt>たす</rt></ruby>けをくれ！
  
 ---
 
@@ -14558,19 +14558,19 @@ We’re looking for our prey. Our Casters.
 うち困るわぁ。一途な鬼やないのがばれてまうやないの。
  
 **Shuten Dōji:**
-……どやろか。な、軽うく一<ruby><rb>囓</rb><rt>かじ</rt></ruby>り。
+……どやろか。な、軽うく一<ruby>囓<rt>かじ</rt></ruby>り。
  
 **Shuten Dōji:**
 血、肉。ごくりとさせてくれへんやろか&mdash;
  
 **Sakata Kintoki:**
-お断りだ<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>！
+お断りだ<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>！
  
 **Sakata Kintoki:**
 あのなあ。慣れた奴はまだしも、初対面に近い相手にソレは正気じゃねえだろ。
  
 **Sakata Kintoki:**
-はいお<ruby><rb>囓</rb><rt>かじ</rt></ruby>りください、なんて<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>は<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>にゃいねえよ。
+はいお<ruby>囓<rt>かじ</rt></ruby>りください、なんて<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>は<ruby>現世<rt>うつしよ</rt></ruby>にゃいねえよ。
  
 **Sakata Kintoki:**
 地獄の鬼相手にやりやがれ。
@@ -14588,7 +14588,7 @@ We’re looking for our prey. Our Casters.
 虎熊は郎等が片ァ付ける。茨木は、頼光サンと綱の兄貴がいりゃどうとでも。
  
 **Sakata Kintoki:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>でオレがテメェを押さえりゃ、<ruby><rb>源氏</rb><rt>こっち</rt></ruby>の勝ちだ！
+<ruby>此処<rt>こ　こ</rt></ruby>でオレがテメェを押さえりゃ、<ruby>源氏<rt>こっち</rt></ruby>の勝ちだ！
  
 **Shuten Dōji:**
 源氏と鬼なら、せやろねえ？
@@ -14614,7 +14614,7 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Danzo:**
-<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>は段蔵がお守りいたしまする。頼光殿は、どうか金時殿や郎等と共に。
+<ruby>幼子<rt>おさなご</rt></ruby>は段蔵がお守りいたしまする。頼光殿は、どうか金時殿や郎等と共に。
  
 **Minamoto no Raikō:**
 ……ええ。
@@ -14665,13 +14665,13 @@ We’re looking for our prey. Our Casters.
 既に鬼たちも気付いています。使い魔を通じての偵察か、儀式魔術による遠視か。
  
 **Medea Lily:**
-だからこそ結界を破り、京へ入り、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>まで攻め寄せて来たのでしょう。
+だからこそ結界を破り、京へ入り、<ruby>此処<rt>こ　こ</rt></ruby>まで攻め寄せて来たのでしょう。
  
 **Medea Lily:**
-金時さまもそうです。その<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>は……
+金時さまもそうです。その<ruby>幼子<rt>おさなご</rt></ruby>は……
  
 **Medea Lily:**
-あなたの<ruby><rb>術者</rb><rt>キャスター</rt></ruby>、なのですよね。
+あなたの<ruby>術者<rt>キャスター</rt></ruby>、なのですよね。
  
 **Ibaraki Douji:**
 …………綱ァ！
@@ -14680,34 +14680,34 @@ We’re looking for our prey. Our Casters.
 茨木。
  
 **Watanabe no Tsuna:**
-<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>ならざる者と刃を交わす意味は、ない。御山へ戻れ。
+<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>ならざる者と刃を交わす意味は、ない。御山へ戻れ。
  
 **Ibaraki Douji:**
 ……な、に？
  
 **Watanabe no Tsuna:**
-俺の獲物はおまえではない。<ruby><rb>逸</rb><rt>はや</rt></ruby>るな、茨木。
+俺の獲物はおまえではない。<ruby>逸<rt>はや</rt></ruby>るな、茨木。
  
 **Ibaraki Douji:**
-<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>にして……くれたもの……だな……
+<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>にして……くれたもの……だな……
  
 **Ibaraki Douji:**
-<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>にしてくれたなァ、綱！
+<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>にしてくれたなァ、綱！
  
 **Ibaraki Douji:**
-<ruby><rb>汝</rb><rt>なれ</rt></ruby>の前に立つは<ruby><rb>吾</rb><rt>われ</rt></ruby>だ、そうであろうが渡辺綱ッ！
+<ruby>汝<rt>なれ</rt></ruby>の前に立つは<ruby>吾<rt>われ</rt></ruby>だ、そうであろうが渡辺綱ッ！
  
 **Ibaraki Douji:**
-であるのに<ruby><rb>汝</rb><rt>なれ</rt></ruby>は他の誰を見やるのか！<ruby><rb>吾</rb><rt>われ</rt></ruby>では……
+であるのに<ruby>汝<rt>なれ</rt></ruby>は他の誰を見やるのか！<ruby>吾<rt>われ</rt></ruby>では……
  
 **Ibaraki Douji:**
-<ruby><rb>吾</rb><rt>われ</rt></ruby>では、宝刀振るうに不足と抜かすか？<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>までの侮辱、侮蔑、許さぬぞ！
+<ruby>吾<rt>われ</rt></ruby>では、宝刀振るうに不足と抜かすか？<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>までの侮辱、侮蔑、許さぬぞ！
  
 **Ibaraki Douji:**
 骨まで喰ろうて、いいや、血肉だけ喰ろうて骨は捨ててやる！
  
 **Ibaraki Douji:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>の大路に突き立てて見世物だ！<ruby><rb>汝</rb><rt>なれ</rt></ruby>なぞ&mdash;
+<ruby>朱雀<rt>す ざ く</rt></ruby>の大路に突き立てて見世物だ！<ruby>汝<rt>なれ</rt></ruby>なぞ&mdash;
  
 **Watanabe no Tsuna:**
 ……。……。
@@ -14722,13 +14722,13 @@ We’re looking for our prey. Our Casters.
 それとも。或いは。
  
 **Watanabe no Tsuna:**
-<ruby><rb>未</rb><rt>いま</rt></ruby>だ、人血の一滴さえ<ruby><rb>啜</rb><rt>すす</rt></ruby>れずにいるのか。茨木よ。
+<ruby>未<rt>いま</rt></ruby>だ、人血の一滴さえ<ruby>啜<rt>すす</rt></ruby>れずにいるのか。茨木よ。
  
 **Ibaraki Douji:**
 黙れ。
  
 **Watanabe no Tsuna:**
-<ruby><rb>未</rb><rt>いま</rt></ruby>だ、何ひとつ思い出せぬのか？
+<ruby>未<rt>いま</rt></ruby>だ、何ひとつ思い出せぬのか？
  
 **Watanabe no Tsuna:**
 己が何者か。己が如何に産まれ、如何に育ったのか。
@@ -14737,7 +14737,7 @@ We’re looking for our prey. Our Casters.
 <u>あの屋敷</u>で何があったのか&mdash;
  
 **Watanabe no Tsuna:**
-あの<ruby><rb>御方</rb><rt>ひ　と</rt></ruby>を……おまえは……
+あの<ruby>御方<rt>ひ　と</rt></ruby>を……おまえは……
  
 **Ibaraki Douji:**
 黙れ。
@@ -14752,13 +14752,13 @@ We’re looking for our prey. Our Casters.
 黙れ黙れ黙れ黙れ黙れ黙れ黙れ黙れ黙れ黙れ黙れ黙れ 黙れ黙れ黙れ黙れ黙れ黙れ黙れ黙れ黙れ黙れ黙れ黙れ！
  
 **Ibaraki Douji:**
-渡辺綱！<ruby><rb>吾</rb><rt>われ</rt></ruby>の腕、返してもらうぞ&mdash;綱、綱、綱、綱ァ！
+渡辺綱！<ruby>吾<rt>われ</rt></ruby>の腕、返してもらうぞ&mdash;綱、綱、綱、綱ァ！
  
 **Watanabe no Tsuna:**
 ！
  
 **Ibaraki Douji:**
-きゃはははははははははははははッ！掛かったか綱、<ruby><rb>吾</rb><rt>われ</rt></ruby>の<ruby><rb>此度</rb><rt>こたび</rt></ruby>の狙いは<ruby><rb>汝</rb><rt>なれ</rt></ruby>ではないわァ！
+きゃはははははははははははははッ！掛かったか綱、<ruby>吾<rt>われ</rt></ruby>の<ruby>此度<rt>こたび</rt></ruby>の狙いは<ruby>汝<rt>なれ</rt></ruby>ではないわァ！
  
 **Ibaraki Douji:**
 すなわち&mdash;！
@@ -14776,19 +14776,19 @@ We’re looking for our prey. Our Casters.
 ……あ、れ？
  
 **Ibaraki Douji:**
-<ruby><rb>吾</rb><rt>われ</rt></ruby>は頼光めの首を<ruby><rb>刎</rb><rt>は</rt></ruby>ねたはず……
+<ruby>吾<rt>われ</rt></ruby>は頼光めの首を<ruby>刎<rt>は</rt></ruby>ねたはず……
  
 **Ibaraki Douji:**
 だのに……何故……
  
 **Ibaraki Douji:**
-…………見知らぬ<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>が、<ruby><rb>血塗</rb><rt>ち ま み</rt></ruby>れで倒れている？
+…………見知らぬ<ruby>幼子<rt>おさなご</rt></ruby>が、<ruby>血塗<rt>ち ま み</rt></ruby>れで倒れている？
  
 **Minamoto no Raikō:**
 あ、ああああああ……！ああ……ああ……なぜ、なぜ、なぜ……！
  
 **Minamoto no Raikō:**
-私を……<ruby><rb>庇</rb><rt>かば</rt></ruby>って……貴女が……！
+私を……<ruby>庇<rt>かば</rt></ruby>って……貴女が……！
  
 **幼子:**
 いいのよ……
@@ -14812,13 +14812,13 @@ We’re looking for our prey. Our Casters.
 申し訳……ありませぬ……
  
 **Danzo:**
-咄嗟に守りに回らんとしましたが、茨木童子の<ruby><rb>膂力</rb><rt>りょりょく</rt></ruby>は、段蔵の機体を容易く……！
+咄嗟に守りに回らんとしましたが、茨木童子の<ruby>膂力<rt>りょりょく</rt></ruby>は、段蔵の機体を容易く……！
  
 **幼子:**
 あなたもありがとう。いいのよ。
  
 **幼子:**
-わたしは、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で終わりでもいいの。
+わたしは、<ruby>此処<rt>こ　こ</rt></ruby>で終わりでもいいの。
  
 **幼子:**
 わたし<u>たち</u>が消える訳ではないのだから。
@@ -14833,10 +14833,10 @@ We’re looking for our prey. Our Casters.
 ……？
  
 **Ibaraki Douji:**
-なぜ、なぜ血を噴いたのが見知らぬ子なのだ？<ruby><rb>吾</rb><rt>われ</rt></ruby>は頼光に爪を振るった……ぞ……
+なぜ、なぜ血を噴いたのが見知らぬ子なのだ？<ruby>吾<rt>われ</rt></ruby>は頼光に爪を振るった……ぞ……
  
 **Ibaraki Douji:**
-<ruby><rb>吾</rb><rt>われ</rt></ruby>は、酒呑のため、鬼の皆のためにと……
+<ruby>吾<rt>われ</rt></ruby>は、酒呑のため、鬼の皆のためにと……
  
 **Ibaraki Douji:**
 つい先刻、そうせよと……
@@ -14845,7 +14845,7 @@ We’re looking for our prey. Our Casters.
 云われたままに……
  
 **Ibaraki Douji:**
-爪を振るえると、考えたのだ。牙を<ruby><rb>剥</rb><rt>む</rt></ruby>けると、誓ったのだ。
+爪を振るえると、考えたのだ。牙を<ruby>剥<rt>む</rt></ruby>けると、誓ったのだ。
  
 **Ibaraki Douji:**
 頼光一人の首なぞ、た、たや、容易いと、そう想っ&mdash;
@@ -14860,13 +14860,13 @@ We’re looking for our prey. Our Casters.
 茨木童子さま。虎熊さまと共に、御山へお戻りください。
  
 **Paracelsus:**
-充分なお働きです。いえ、<ruby><rb>是</rb><rt>これ</rt></ruby>こそが酒呑童子さまと私の計画です。
+充分なお働きです。いえ、<ruby>是<rt>これ</rt></ruby>こそが酒呑童子さまと私の計画です。
  
 **Paracelsus:**
 貴方は何も間違えていませんよ。
  
 **Paracelsus:**
-頼光さまを、その<ruby><rb>術者</rb><rt>キャスター</rt></ruby>が<ruby><rb>庇</rb><rt>かば</rt></ruby>うであろうと……
+頼光さまを、その<ruby>術者<rt>キャスター</rt></ruby>が<ruby>庇<rt>かば</rt></ruby>うであろうと……
  
 **Paracelsus:**
 すべて予測の上でのことなのです。貴方には、ええ、黙っておりましたが……
@@ -14878,7 +14878,7 @@ We’re looking for our prey. Our Casters.
 後は、このパラケルススにお任せください。
  
 **Ibaraki Douji:**
-わ、<ruby><rb>吾</rb><rt>われ</rt></ruby>は、<ruby><rb>吾</rb><rt>われ</rt></ruby>はちがう、ちがうのだ……酒呑にどう云えば……！
+わ、<ruby>吾<rt>われ</rt></ruby>は、<ruby>吾<rt>われ</rt></ruby>はちがう、ちがうのだ……酒呑にどう云えば……！
  
 **Paracelsus:**
 酒呑童子さまもお喜びになりますよ。ゆるりと、御殿でご休息を。
@@ -14887,10 +14887,10 @@ We’re looking for our prey. Our Casters.
 ……さて。
  
 **Watanabe no Tsuna:**
-酒呑童子の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>、器用な真似をする。
+酒呑童子の<ruby>術者<rt>キャスター</rt></ruby>、器用な真似をする。
  
 **Paracelsus:**
-彼女ほどではありません。源頼光さまに<ruby><rb>抱</rb><rt>いだ</rt></ruby>かれた、<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>のかたちをした英霊。
+彼女ほどではありません。源頼光さまに<ruby>抱<rt>いだ</rt></ruby>かれた、<ruby>幼子<rt>おさなご</rt></ruby>のかたちをした英霊。
  
 **Paracelsus:**
 魔力を最小にまで抑制することで、英霊としての反応を消す。驚異のわざです。
@@ -14899,7 +14899,7 @@ We’re looking for our prey. Our Casters.
 或る英霊などは宝具による切り替えでこそ叶う、と云いますが……
  
 **Paracelsus:**
-成る程。<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>のかたちをした英霊、彼女であればその真似事も可能でしょう。
+成る程。<ruby>幼子<rt>おさなご</rt></ruby>のかたちをした英霊、彼女であればその真似事も可能でしょう。
  
 **Paracelsus:**
 数多の姿有するモノ……
@@ -14908,7 +14908,7 @@ We’re looking for our prey. Our Casters.
 そして、ひとつの姿持たざるモノ。
  
 **Paracelsus:**
-&mdash;<ruby><rb>千変万化の御伽話</rb><rt>ナ　ー　サ　リ　ー　・　ラ　イ　ム</rt></ruby>たる、彼女であれば。
+&mdash;<ruby>千変万化の御伽話<rt>ナ　ー　サ　リ　ー　・　ラ　イ　ム</rt></ruby>たる、彼女であれば。
  
 **--ARROW--**
  
@@ -14938,19 +14938,19 @@ We’re looking for our prey. Our Casters.
 なあ、金時。
  
 **Shuten Dōji:**
-気付いてはったん？あの<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>、人やのうて、さぁばんとやって。
+気付いてはったん？あの<ruby>幼子<rt>おさなご</rt></ruby>、人やのうて、さぁばんとやって。
  
 **Sakata Kintoki:**
 ……何となくはな。
  
 **Sakata Kintoki:**
-テメェらと同じだ多分。頼光サンが<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>だと当たりを付けて来てみれば、
+テメェらと同じだ多分。頼光サンが<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>だと当たりを付けて来てみれば、
  
 **Sakata Kintoki:**
-見慣れぬ<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>が一人。まさか、と想った。それだけだ。
+見慣れぬ<ruby>幼子<rt>おさなご</rt></ruby>が一人。まさか、と想った。それだけだ。
  
 **Sakata Kintoki:**
-考えてみりゃ道理だったンだ全部。<ruby><rb>餓鬼</rb><rt>ガ　キ</rt></ruby>の、<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>の姿をした奴が自分に懐いてきたら、
+考えてみりゃ道理だったンだ全部。<ruby>餓鬼<rt>ガ　キ</rt></ruby>の、<ruby>幼子<rt>おさなご</rt></ruby>の姿をした奴が自分に懐いてきたら、
  
 **Sakata Kintoki:**
 そりゃあ、頼光サンは守っちまう。戦いの道具なんかにできるワケがねえんだ。
@@ -14959,7 +14959,7 @@ We’re looking for our prey. Our Casters.
 何より、母たらんと望んだあのヒトが……
  
 **Sakata Kintoki:**
-<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>を戦わせられる訳がねえんだ！
+<ruby>幼子<rt>おさなご</rt></ruby>を戦わせられる訳がねえんだ！
  
 **Sakata Kintoki:**
 だから大方、この屋敷に籠もっちまってたのも、
@@ -14968,7 +14968,7 @@ We’re looking for our prey. Our Casters.
 藤丸や段蔵サン相手に、あんだけ張り詰めてたのも……
  
 **Sakata Kintoki:**
-ぜんぶ、あの子を守るためだ。<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>の襲来を警戒してたんだ。
+ぜんぶ、あの子を守るためだ。<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>の襲来を警戒してたんだ。
  
 **Sakata Kintoki:**
 なのに、クソッ！　オレだ！
@@ -15001,19 +15001,19 @@ We’re looking for our prey. Our Casters.
 
  
 **Sakata Kintoki:**
-オイラは<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>野郎だ！ 
+オイラは<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>野郎だ！ 
  
 **Shuten Dōji:**
 &mdash;ふ。
  
 **Shuten Dōji:**
-ふふ、あはは、あははははははははははははは。そないに<ruby><rb>貌</rb><rt>かお</rt></ruby><ruby><rb>歪</rb><rt>ゆが</rt></ruby>めて怒るんやねえ！
+ふふ、あはは、あははははははははははははは。そないに<ruby>貌<rt>かお</rt></ruby><ruby>歪<rt>ゆが</rt></ruby>めて怒るんやねえ！
  
 **Shuten Dōji:**
 せやねえ、阿呆やねえ。残念やったねえ。
  
 **Shuten Dōji:**
-あら愉快愉快。天覧聖杯戦争、おもろいわぁ。他の<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>はんの背ぇをうまいこと押したり、
+あら愉快愉快。天覧聖杯戦争、おもろいわぁ。他の<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>はんの背ぇをうまいこと押したり、
  
 **Shuten Dōji:**
 引っつけたりして。普段ならようできひんことも、こないにできるんやもの。
@@ -15022,13 +15022,13 @@ We’re looking for our prey. Our Casters.
 あの源頼光を&mdash;
  
 **Shuten Dōji:**
-怖い怖ぁい、<ruby><rb>刎</rb><rt>は</rt></ruby>ねはった妖物魔物の首ィ繋げて 数珠にしても、百、千でも足りひんお人やのに。
+怖い怖ぁい、<ruby>刎<rt>は</rt></ruby>ねはった妖物魔物の首ィ繋げて 数珠にしても、百、千でも足りひんお人やのに。
  
 **Shuten Dōji:**
 あないに容易く、泣きはらしてしもてなぁ。
  
 **Shuten Dōji:**
-<ruby><rb>可愛</rb><rt>か</rt></ruby>いらしいなぁ？楽しおすなぁ！
+<ruby>可愛<rt>か</rt></ruby>いらしいなぁ？楽しおすなぁ！
  
 **Shuten Dōji:**
 あれやねえ、これなら……
@@ -15046,7 +15046,7 @@ We’re looking for our prey. Our Casters.
 でも残念。
  
 **Shuten Dōji:**
-もう頼光はんの<ruby><rb>玩具</rb><rt>キャスター</rt></ruby>は<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で<ruby><rb>終</rb><rt>しま</rt></ruby>い。
+もう頼光はんの<ruby>玩具<rt>キャスター</rt></ruby>は<ruby>此処<rt>こ　こ</rt></ruby>で<ruby>終<rt>しま</rt></ruby>い。
  
 **Shuten Dōji:**
 ひと思いに壊してまうけど堪忍な？綱はんは、あれやろ？
@@ -15055,7 +15055,7 @@ We’re looking for our prey. Our Casters.
 そらへんの融通は利かへんやろし……
  
 **Shuten Dōji:**
-何より、金時。なあ<ruby><rb>金髪碧眼</rb><rt>きんぱつへきがん</rt></ruby>の小僧。
+何より、金時。なあ<ruby>金髪碧眼<rt>きんぱつへきがん</rt></ruby>の小僧。
  
 **Shuten Dōji:**
 まぁだ&mdash;うちらを、<u>殺す覚悟があらへん</u>やろ？
@@ -15073,7 +15073,7 @@ We’re looking for our prey. Our Casters.
 ああ、ちょっと前にも茨木に云われてはったねえ？
  
 **Shuten Dōji:**
-天覧聖杯戦争なんて関わりあらへん。あんたはん、<ruby><rb>逞</rb><rt>たくま</rt></ruby>しゅうなればなるほど……
+天覧聖杯戦争なんて関わりあらへん。あんたはん、<ruby>逞<rt>たくま</rt></ruby>しゅうなればなるほど……
  
 **Shuten Dōji:**
 力付ければ付けるほど、ちぃさい頃の 荒ぶる大怪童ぶりが薄くなっていくんやもの。
@@ -15160,7 +15160,7 @@ We’re looking for our prey. Our Casters.
 すまん藤丸、行ってくれ！頼光サンを止めなきゃ京が滅ぶ！
  
 **Sakata Kintoki:**
-<ruby><rb>酒呑</rb><rt>コイツ</rt></ruby>はオレが！ここに縫い付けてでも阻んどくぜ！
+<ruby>酒呑<rt>コイツ</rt></ruby>はオレが！ここに縫い付けてでも阻んどくぜ！
  
 ---
 
@@ -15193,7 +15193,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 2:**
-こうして頭を<ruby><rb>庇</rb><rt>かば</rt></ruby>いながら丸まって……
+こうして頭を<ruby>庇<rt>かば</rt></ruby>いながら丸まって……
  
 
 ---
@@ -15235,10 +15235,10 @@ We’re looking for our prey. Our Casters.
 ……。
  
 **Shuten Dōji:**
-ああ怖。そないにじいっと見つめはって、うちに隙がないか<ruby><rb>窺</rb><rt>うかが</rt></ruby>ってるん？
+ああ怖。そないにじいっと見つめはって、うちに隙がないか<ruby>窺<rt>うかが</rt></ruby>ってるん？
  
 **Shuten Dōji:**
-ええよ、いつでもうちの首<ruby><rb>刎</rb><rt>は</rt></ruby>ねや。
+ええよ、いつでもうちの首<ruby>刎<rt>は</rt></ruby>ねや。
  
 **Shuten Dōji:**
 いけずやねぇ。
@@ -15256,16 +15256,16 @@ We’re looking for our prey. Our Casters.
 <u>こころ</u>の奥で眠ったはる『もう一人』&mdash;
  
 **Shuten Dōji:**
-その血ィに眠りしは<ruby><rb>祇園精舎</rb><rt>ぎおんしょうじゃ</rt></ruby>の護り神、梵名を瞿摩掲唎婆耶提婆囉惹、牛頭天王！
+その血ィに眠りしは<ruby>祇園精舎<rt>ぎおんしょうじゃ</rt></ruby>の護り神、梵名を瞿摩掲唎婆耶提婆囉惹、牛頭天王！
  
 **Shuten Dōji:**
-さる<ruby><rb>経文</rb><rt>きょうもん</rt></ruby>に曰く、その姿、<ruby><rb>帝釈天</rb><rt>たいしゃくてん</rt></ruby>に同じく&mdash;
+さる<ruby>経文<rt>きょうもん</rt></ruby>に曰く、その姿、<ruby>帝釈天<rt>たいしゃくてん</rt></ruby>に同じく&mdash;
  
 **Shuten Dōji:**
-つまりは、雷の神たる<ruby><rb>天帝</rb><rt>インドラ</rt></ruby>はんの力を受けはった半神。それこそが牛女の『もう一人』。
+つまりは、雷の神たる<ruby>天帝<rt>インドラ</rt></ruby>はんの力を受けはった半神。それこそが牛女の『もう一人』。
  
 **Shuten Dōji:**
-名を、<ruby><rb>丑御前</rb><rt>うしごぜん</rt></ruby>。
+名を、<ruby>丑御前<rt>うしごぜん</rt></ruby>。
  
 **Shuten Dōji:**
 普段は寝てはるみたいやけど……
@@ -15292,7 +15292,7 @@ We’re looking for our prey. Our Casters.
 ほんなら勝負といこか。うちが勝ったら、そら派手な祭りになるえ。
  
 **Shuten Dōji:**
-荒ぶる雷神はんの力……<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>でぜぇんぶ放ってみたらどうなるんやろか！
+荒ぶる雷神はんの力……<ruby>此処<rt>こ　こ</rt></ruby>でぜぇんぶ放ってみたらどうなるんやろか！
  
 **Shuten Dōji:**
 なあ。小僧は、どれだけ死ぬと想う？
@@ -15301,7 +15301,7 @@ We’re looking for our prey. Our Casters.
 貴人も武者も、民草も。
  
 **Shuten Dōji:**
-<ruby><rb>賤</rb><rt>せん</rt></ruby>の下々も、なりかけの鬼にさまよう土蜘蛛も……
+<ruby>賤<rt>せん</rt></ruby>の下々も、なりかけの鬼にさまよう土蜘蛛も……
  
 **Shuten Dōji:**
 若いのも年寄りも、精強も病持ちも、
@@ -15322,19 +15322,19 @@ We’re looking for our prey. Our Casters.
 頼光殿！
  
 **Danzo:**
-くっ、大気が魔力を帯びて帯電する程の……<ruby><rb>是</rb><rt>これ</rt></ruby>では近付くことさえままならず！
+くっ、大気が魔力を帯びて帯電する程の……<ruby>是<rt>これ</rt></ruby>では近付くことさえままならず！
  
 **Paracelsus:**
 素晴らしい。
  
 **Paracelsus:**
-霊基再臨、いえ霊基変生とでも申しましょうか。ですが<ruby><rb>未</rb><rt>いま</rt></ruby>だ肉体のみの変化に留まっている。
+霊基再臨、いえ霊基変生とでも申しましょうか。ですが<ruby>未<rt>いま</rt></ruby>だ肉体のみの変化に留まっている。
  
 **Paracelsus:**
 全魔力、全性能を最大限に引き出すためには、精神の完全な変生が必須。ですので、
  
 **Paracelsus:**
-<ruby><rb>僭越</rb><rt>せんえつ</rt></ruby>ながらこの私が、術式を以て貴方の精神を<ruby><rb>賦活</rb><rt>ふ か つ</rt></ruby>させましょう。
+<ruby>僭越<rt>せんえつ</rt></ruby>ながらこの私が、術式を以て貴方の精神を<ruby>賦活<rt>ふ か つ</rt></ruby>させましょう。
  
 **Paracelsus:**
 きっと、多くの破壊がもたらされるでしょうが、それは&mdash;
@@ -15360,7 +15360,7 @@ We’re looking for our prey. Our Casters.
 マス、ター！
  
 **Danzo:**
-<ruby><rb>此方</rb><rt>こちら</rt></ruby>の少女が頼光殿を<ruby><rb>庇</rb><rt>かば</rt></ruby>って重傷を……そして、頼光殿が高密度魔力を発生させ霊基変化！
+<ruby>此方<rt>こちら</rt></ruby>の少女が頼光殿を<ruby>庇<rt>かば</rt></ruby>って重傷を……そして、頼光殿が高密度魔力を発生させ霊基変化！
  
 **Danzo:**
 少女については、綱殿の許しを得たメディア殿が 高度な回復術式を施しては、おりますが、
@@ -15484,7 +15484,7 @@ We’re looking for our prey. Our Casters.
 このわたしが消えたとしても、わたし<u>たち</u>はいつもあなたの中にいるのだから。
  
 **Nursery Rhyme:**
-わたしたちは<ruby><rb>御伽話</rb><rt>ナーサリー・ライム</rt></ruby>、あなたの覚えているお話の向こうにいつもいるわ。
+わたしたちは<ruby>御伽話<rt>ナーサリー・ライム</rt></ruby>、あなたの覚えているお話の向こうにいつもいるわ。
  
 **Nursery Rhyme:**
 頼光、頼光。
@@ -15508,7 +15508,7 @@ We’re looking for our prey. Our Casters.
 貴女……
  
 **Minamoto no Raikō:**
-その、姿は……出逢った時の……<ruby><rb>御伽話</rb><rt>ナーサリー・ライム</rt></ruby>の姿……
+その、姿は……出逢った時の……<ruby>御伽話<rt>ナーサリー・ライム</rt></ruby>の姿……
  
 **Nursery Rhyme:**
 ごめんね、頼光。ごめんなさい。
@@ -15538,40 +15538,40 @@ We’re looking for our prey. Our Casters.
 頼光はん、そないに退屈な女やったっけ&mdash;
  
 **Sakata Kintoki:**
-退屈結構だ<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>！ 
+退屈結構だ<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>！ 
  
 **Shuten Dōji:**
 …………へえ。
  
 **Paracelsus:**
-お帰りなさいませ。<ruby><rb>我があるじ</rb><rt>マ　ス　タ　ー</rt></ruby>。
+お帰りなさいませ。<ruby>我があるじ<rt>マ　ス　タ　ー</rt></ruby>。
  
 **Shuten Dōji:**
 どないしたん、これ。パラケルススはん？
  
 **Paracelsus:**
-残念ながら作戦は失敗です。英霊が<ruby><rb>幼子</rb><rt>おさなご</rt></ruby>だと察知したがゆえの作戦内容でしたが、
+残念ながら作戦は失敗です。英霊が<ruby>幼子<rt>おさなご</rt></ruby>だと察知したがゆえの作戦内容でしたが、
  
 **Paracelsus:**
 正体がナーサリー・ライムであった時点で 作戦崩壊は必至、であったと云えるでしょう。
  
 **Paracelsus:**
-&mdash;<ruby><rb>御伽話</rb><rt>ナーサリー・ライム</rt></ruby>。
+&mdash;<ruby>御伽話<rt>ナーサリー・ライム</rt></ruby>。
  
 **Paracelsus:**
-英霊としての彼女は英国のそれの具現ですが、<ruby><rb>御伽話</rb><rt>おとぎばなし</rt></ruby>とは<ruby><rb>古今東西</rb><rt>ここんとうざい</rt></ruby>、多岐にわたるもの。
+英霊としての彼女は英国のそれの具現ですが、<ruby>御伽話<rt>おとぎばなし</rt></ruby>とは<ruby>古今東西<rt>ここんとうざい</rt></ruby>、多岐にわたるもの。
  
 **Paracelsus:**
 当然、此の国にもありましょう。
  
 **Paracelsus:**
-英霊としての彼女の由来ではないにせよ……<ruby><rb>誰かの為の物語</rb><rt>ナ　ー　サ　リ　ー　・　ラ　イ　ム</rt></ruby>であることは、間違いない。
+英霊としての彼女の由来ではないにせよ……<ruby>誰かの為の物語<rt>ナ　ー　サ　リ　ー　・　ラ　イ　ム</rt></ruby>であることは、間違いない。
  
 **Paracelsus:**
 遠くも深き繋がりがあったのです。頼光さまと、彼女には。
  
 **Paracelsus:**
-丑御前復活による平安京破壊の作戦、<ruby><rb>是</rb><rt>これ</rt></ruby>にて失敗でございます。
+丑御前復活による平安京破壊の作戦、<ruby>是<rt>これ</rt></ruby>にて失敗でございます。
  
 **Shuten Dōji:**
 ふうん。
@@ -15601,7 +15601,7 @@ We’re looking for our prey. Our Casters.
 ……待て、待ってくれ兄貴。
  
 **Sakata Kintoki:**
-<ruby><rb>此度</rb><rt>こたび</rt></ruby>の顛末。不始末。すべて、一から十までオレっちに責がある。
+<ruby>此度<rt>こたび</rt></ruby>の顛末。不始末。すべて、一から十までオレっちに責がある。
  
 **Sakata Kintoki:**
 だから任せてくれねえか。頼光サンとあの子はオレが護る。
@@ -15642,7 +15642,7 @@ We’re looking for our prey. Our Casters.
 大将！
  
 **Shuten Dōji:**
-……なかよしこよしの源氏内緒話は、<ruby><rb>終</rb><rt>しま</rt></ruby>い？
+……なかよしこよしの源氏内緒話は、<ruby>終<rt>しま</rt></ruby>い？
  
 **Shuten Dōji:**
 ほな。やろか。パラケルススはん。
@@ -15660,25 +15660,25 @@ We’re looking for our prey. Our Casters.
 きやがった！
  
 **Paracelsus:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ、敗北せし英霊の魂喰らう辺獄の血戦地！&mdash;<ruby><rb>昏</rb><rt>くら</rt></ruby>き太陽戴きし、<ruby><rb>其</rb><rt>そ</rt></ruby>の名を天覧死合舞台！
+<ruby>是<rt>これ</rt></ruby>ぞ、敗北せし英霊の魂喰らう辺獄の血戦地！&mdash;<ruby>昏<rt>くら</rt></ruby>き太陽戴きし、<ruby>其<rt>そ</rt></ruby>の名を天覧死合舞台！
  
 **Paracelsus:**
-我が真名ヴァン・ホーエンハイム・パラケルスス！我が罪過、我が悔恨、貴方たちの道を<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にて閉ざす！
+我が真名ヴァン・ホーエンハイム・パラケルスス！我が罪過、我が悔恨、貴方たちの道を<ruby>此処<rt>こ　こ</rt></ruby>にて閉ざす！
  
 **Paracelsus:**
-鬼神よ<ruby><rb>嗤</rb><rt>わら</rt></ruby>え！太陽よ<ruby><rb>耀</rb><rt>かがや</rt></ruby>け！
+鬼神よ<ruby>嗤<rt>わら</rt></ruby>え！太陽よ<ruby>耀<rt>かがや</rt></ruby>け！
  
 **Paracelsus:**
 さあ、己が願いがため。&mdash;今こそ、貴方たちの力を見せる時です！
  
 **Sakata Kintoki:**
-アンタと酒呑には一度負けた！<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で面目取り返すぜ！
+アンタと酒呑には一度負けた！<ruby>此処<rt>こ　こ</rt></ruby>で面目取り返すぜ！
  
 **Sakata Kintoki:**
 その覚悟、その力、受けて立つより道はなし！むしろ、なァ……
  
 **Sakata Kintoki:**
-&mdash;<ruby><rb>酒精</rb><rt>サ ケ</rt></ruby>ェ抜いてやるよ、酒呑ッ！
+&mdash;<ruby>酒精<rt>サ ケ</rt></ruby>ェ抜いてやるよ、酒呑ッ！
  
 **Shuten Dōji:**
 あッはははははははははははははははははは！来ぃや、小僧ォ！！
@@ -15707,19 +15707,19 @@ We’re looking for our prey. Our Casters.
 …………やるやないの、小僧。
  
 **Shuten Dōji:**
-そっくり同じ策でやり返されたさかい、<ruby><rb>狡</rb><rt>ずる</rt></ruby>いとか云いにくいわぁ。
+そっくり同じ策でやり返されたさかい、<ruby>狡<rt>ずる</rt></ruby>いとか云いにくいわぁ。
  
 **Shuten Dōji:**
 でも、狡いわ小僧。
  
 **Shuten Dōji:**
-あんたはんの<ruby><rb>全身全霊</rb><rt>ぜんしんぜんれい</rt></ruby>の<ruby><rb>大雷</rb><rt>おおいかずち</rt></ruby>&mdash;
+あんたはんの<ruby>全身全霊<rt>ぜんしんぜんれい</rt></ruby>の<ruby>大雷<rt>おおいかずち</rt></ruby>&mdash;
  
 **Shuten Dōji:**
 うちやのうて、<u>キャスターはんを狙って</u>落とさはって。
  
 **Paracelsus:**
-まったくです。<ruby><rb>是</rb><rt>これ</rt></ruby>は、どうやら我々の敗北ですね。
+まったくです。<ruby>是<rt>これ</rt></ruby>は、どうやら我々の敗北ですね。
  
 **Paracelsus:**
 あの雷を私はまともに受けてしまった。既に、私の霊核は砕けた。
@@ -15728,7 +15728,7 @@ We’re looking for our prey. Our Casters.
 完敗です。
  
 **Sakata Kintoki:**
-悪いな、酒呑の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>！そういやアンタにゃ云ってなかったが……
+悪いな、酒呑の<ruby>術者<rt>キャスター</rt></ruby>！そういやアンタにゃ云ってなかったが……
  
 **Sakata Kintoki:**
 源氏武者に二度の負けはねえンだ。本気の頼光四天王なら、尚更さ。
@@ -15764,7 +15764,7 @@ We’re looking for our prey. Our Casters.
 いえ。いえ。深くは尋ねません。そうですね、では、その時を楽しみにしています。
  
 **Paracelsus:**
-それと。<ruby><rb>我があるじ</rb><rt>マ　ス　タ　ー</rt></ruby>、せめてものお詫びを貴方へ。
+それと。<ruby>我があるじ<rt>マ　ス　タ　ー</rt></ruby>、せめてものお詫びを貴方へ。
  
 **Shuten Dōji:**
 あらま。義理堅いんやねえ、キャスターはん。
@@ -15880,19 +15880,19 @@ We’re looking for our prey. Our Casters.
 ああ、それとも……
  
 **Nursery Rhyme:**
-<ruby><rb>金髪碧眼</rb><rt>きんぱつへきがん</rt></ruby>の美丈夫さん、金時。もしかして、あなたのお陰なのかしら？
+<ruby>金髪碧眼<rt>きんぱつへきがん</rt></ruby>の美丈夫さん、金時。もしかして、あなたのお陰なのかしら？
  
 **Sakata Kintoki:**
 ？
  
 **Nursery Rhyme:**
-ええ、ええ、そう云えば。<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にはあなたがいたのだものね！
+ええ、ええ、そう云えば。<ruby>此処<rt>こ　こ</rt></ruby>にはあなたがいたのだものね！
  
 **Nursery Rhyme:**
-東の子供たちの英雄さん。<ruby><rb>西の島の御伽話</rb><rt>ナ　ー　サ　リ　ー　・　ラ　イ　ム</rt></ruby>ではないけれど、<ruby><rb>御伽話</rb><rt>わたしたち</rt></ruby>の欠片。
+東の子供たちの英雄さん。<ruby>西の島の御伽話<rt>ナ　ー　サ　リ　ー　・　ラ　イ　ム</rt></ruby>ではないけれど、<ruby>御伽話<rt>わたしたち</rt></ruby>の欠片。
  
 **Nursery Rhyme:**
-女の子向けのお話ではないけれど、それでも、あなたは<ruby><rb>耀</rb><rt>かがや</rt></ruby>く光。
+女の子向けのお話ではないけれど、それでも、あなたは<ruby>耀<rt>かがや</rt></ruby>く光。
  
 **Nursery Rhyme:**
 あなたの輝きが、ぴかぴかとした雷が、もしかしたら……
@@ -15927,28 +15927,28 @@ We’re looking for our prey. Our Casters.
 ## Section 8: Minamoto Meeting 
  
 **源氏郎等:**
-では、<ruby><rb>僭越</rb><rt>せんえつ</rt></ruby>ながら。
+では、<ruby>僭越<rt>せんえつ</rt></ruby>ながら。
  
 **源氏郎等:**
-源氏<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>、すなわち武家の<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>たる 頼光様のお許しを得て、諸々を確かめさせていただく。
+源氏<ruby>棟梁<rt>とうりょう</rt></ruby>、すなわち武家の<ruby>棟梁<rt>とうりょう</rt></ruby>たる 頼光様のお許しを得て、諸々を確かめさせていただく。
  
 **源氏郎等:**
-一同、宜しいか。異あれば<ruby><rb>疾</rb><rt>と</rt></ruby>く申されよ。
+一同、宜しいか。異あれば<ruby>疾<rt>と</rt></ruby>く申されよ。
  
 **源氏郎等:**
 無言を以て了承とみなす。では&mdash;
  
 **源氏郎等:**
-天覧聖杯戦争の儀にあたり、京の都に<ruby><rb>喚</rb><rt>よ</rt></ruby>ばれたる異境異界の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>、残るは三騎。
+天覧聖杯戦争の儀にあたり、京の都に<ruby>喚<rt>よ</rt></ruby>ばれたる異境異界の<ruby>術者<rt>キャスター</rt></ruby>、残るは三騎。
  
 **源氏郎等:**
-頼光四天王筆頭、渡辺綱殿を<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>とする メディア・リリィ殿。
+頼光四天王筆頭、渡辺綱殿を<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>とする メディア・リリィ殿。
  
 **Medea Lily:**
 はい。
  
 **源氏郎等:**
-源氏<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>、源頼光様を<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>とする ナーサリー・ライム殿。
+源氏<ruby>棟梁<rt>とうりょう</rt></ruby>、源頼光様を<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>とする ナーサリー・ライム殿。
  
 **Nursery Rhyme:**
 ……。
@@ -15957,7 +15957,7 @@ We’re looking for our prey. Our Casters.
 （おっ。元の姿に戻ってンな）
  
 **Danzo:**
-（いえ、どちらかと云えば、　元の姿から<ruby><rb>此方</rb><rt>こちら</rt></ruby>の姿に化けている状態かと）
+（いえ、どちらかと云えば、　元の姿から<ruby>此方<rt>こちら</rt></ruby>の姿に化けている状態かと）
  
 ---
 
@@ -15980,7 +15980,7 @@ We’re looking for our prey. Our Casters.
 （正しくは、定まった姿を持たぬ 　英霊なのだと聞き及んでおりまする）
  
 **Danzo:**
-（ふわふわの衣を<ruby><rb>纏</rb><rt>まと</rt></ruby>う少女の姿。　あれは英霊となった後に得た姿のひとつ、と）
+（ふわふわの衣を<ruby>纏<rt>まと</rt></ruby>う少女の姿。　あれは英霊となった後に得た姿のひとつ、と）
  
 **Sakata Kintoki:**
 （そう……なのか？）
@@ -15993,10 +15993,10 @@ We’re looking for our prey. Our Casters.
 
  
 **源氏郎等:**
-……あー。金時殿とお連れの方、口を<ruby><rb>噤</rb><rt>つぐ</rt></ruby>まれよ。聞こえておりますぞ。
+……あー。金時殿とお連れの方、口を<ruby>噤<rt>つぐ</rt></ruby>まれよ。聞こえておりますぞ。
  
 **源氏郎等:**
-常であれば首を<ruby><rb>刎</rb><rt>は</rt></ruby>ねるところ。お控えなされ、各々方。
+常であれば首を<ruby>刎<rt>は</rt></ruby>ねるところ。お控えなされ、各々方。
  
 ---
 
@@ -16016,7 +16016,7 @@ We’re looking for our prey. Our Casters.
 へへ、悪い悪い。皆黙ってるさなかにゃ小声でも聞こえっか！
  
 **Minamoto no Raikō:**
-金時。だめですよ。母に貴方の首を<ruby><rb>刎</rb><rt>は</rt></ruby>ねさせないでくださいな。
+金時。だめですよ。母に貴方の首を<ruby>刎<rt>は</rt></ruby>ねさせないでくださいな。
  
 **Sakata Kintoki:**
 へーい。
@@ -16144,10 +16144,10 @@ We’re looking for our prey. Our Casters.
 そう云うものか。
  
 **Medea Lily:**
-はい。……ですが、<ruby><rb>此度</rb><rt>こたび</rt></ruby>は些か性質が異なります。
+はい。……ですが、<ruby>此度<rt>こたび</rt></ruby>は些か性質が異なります。
  
 **Medea Lily:**
-<ruby><rb>西方の物語群</rb><rt>ナ ー サ リ ー ・ ラ イ ム</rt></ruby>と、<ruby><rb>単独の物語</rb><rt>き　ん　た　ろ　う</rt></ruby>。しかも、明確な類似点や共通点がある訳ではない。
+<ruby>西方の物語群<rt>ナ ー サ リ ー ・ ラ イ ム</rt></ruby>と、<ruby>単独の物語<rt>き　ん　た　ろ　う</rt></ruby>。しかも、明確な類似点や共通点がある訳ではない。
  
 **Medea Lily:**
 この二つの遭遇を以て……
@@ -16188,7 +16188,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-（は。足柄山の金太郎なる<ruby><rb>御伽話</rb><rt>おとぎばなし</rt></ruby>、　江戸期に形作られたものだと聞き及びまする）
+（は。足柄山の金太郎なる<ruby>御伽話<rt>おとぎばなし</rt></ruby>、　江戸期に形作られたものだと聞き及びまする）
  
 **Danzo:**
 （ゆえに、覚えがないのは必定）
@@ -16211,7 +16211,7 @@ We’re looking for our prey. Our Casters.
 （うう。記録領域の不調により 　きちんと再生できず……すみませぬっ……）
  
 **Danzo:**
-（少なくとも、段蔵は昔、　足柄山の怪童の<ruby><rb>御伽話</rb><rt>おとぎばなし</rt></ruby>を小太郎殿に……）
+（少なくとも、段蔵は昔、　足柄山の怪童の<ruby>御伽話<rt>おとぎばなし</rt></ruby>を小太郎殿に……）
  
 **Danzo:**
 （したことも……　あったような、なかったような……）
@@ -16220,7 +16220,7 @@ We’re looking for our prey. Our Casters.
 （と、ともかく。　小太郎殿が『足柄山の金太郎』と口にされるのは）
  
 **Danzo:**
-（英霊の金時殿やマスターを 　<ruby><rb>慮</rb><rt>おもんぱか</rt></ruby>ってのことでありましょう）
+（英霊の金時殿やマスターを 　<ruby>慮<rt>おもんぱか</rt></ruby>ってのことでありましょう）
  
 **Danzo:**
 （…………断言までは至れず、すみませぬ）
@@ -16235,7 +16235,7 @@ We’re looking for our prey. Our Casters.
 （そうなんだ）
  
 **Danzo:**
-（<ruby><rb>是</rb><rt>これ</rt></ruby>こそが英霊なるモノ。　<ruby><rb>是</rb><rt>これ</rt></ruby>こそが神話・伝説の具現にて&mdash;）
+（<ruby>是<rt>これ</rt></ruby>こそが英霊なるモノ。　<ruby>是<rt>これ</rt></ruby>こそが神話・伝説の具現にて&mdash;）
  
 
 ---
@@ -16275,10 +16275,10 @@ We’re looking for our prey. Our Casters.
 一騎目、メディア・リリィ殿。二騎目、ナーサリー・ライム殿。
  
 **源氏郎等:**
-そして三騎目。頼光四天王が一角、坂田金時殿を<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>とする……
+そして三騎目。頼光四天王が一角、坂田金時殿を<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>とする……
  
 **源氏郎等:**
-……藤丸殿。以上の三騎が都に残る最後の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>となる。
+……藤丸殿。以上の三騎が都に残る最後の<ruby>術者<rt>キャスター</rt></ruby>となる。
  
 **源氏郎等:**
 以上の事柄、いずれ相違ないか？
@@ -16301,31 +16301,31 @@ We’re looking for our prey. Our Casters.
 はは！　勘違いしちまうよな！やっぱ、オレっちだけじゃねえんだなぁ。
  
 **Sakata Kintoki:**
-とは云え藤丸の云う通り。ソイツは異境異界の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>じゃあねえ。
+とは云え藤丸の云う通り。ソイツは異境異界の<ruby>術者<rt>キャスター</rt></ruby>じゃあねえ。
  
 **Sakata Kintoki:**
-明日の明日、そのまた先からおいでなすった<ruby><rb>客人</rb><rt>まれびと</rt></ruby>だ。段蔵サンもそうさ。
+明日の明日、そのまた先からおいでなすった<ruby>客人<rt>まれびと</rt></ruby>だ。段蔵サンもそうさ。
  
 **Watanabe no Tsuna:**
-&mdash;その言、信じるに足る<ruby><rb>証</rb><rt>あかし</rt></ruby>なし。
+&mdash;その言、信じるに足る<ruby>証<rt>あかし</rt></ruby>なし。
  
 **Sakata Kintoki:**
 あ？
  
 **Watanabe no Tsuna:**
-確かに藤丸なる者、異境異界の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>にあらず。
+確かに藤丸なる者、異境異界の<ruby>術者<rt>キャスター</rt></ruby>にあらず。
  
 **Watanabe no Tsuna:**
 しかしその素性、及び、言の葉について、まことを述べているか否かは詮議すべきだろう。
  
 **源氏郎等:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>まで！<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>まで！
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>まで！<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>まで！
  
 **源氏郎等:**
-藤丸なる<ruby><rb>客人</rb><rt>まれびと</rt></ruby>の言、すなわちは“天覧聖杯戦争は外道の企て”との由、
+藤丸なる<ruby>客人<rt>まれびと</rt></ruby>の言、すなわちは“天覧聖杯戦争は外道の企て”との由、
  
 **源氏郎等:**
-まことか否か、決めるは我ら郎等にあらず！まことか否か、我らが源氏<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>に断じていただく！
+まことか否か、決めるは我ら郎等にあらず！まことか否か、我らが源氏<ruby>棟梁<rt>とうりょう</rt></ruby>に断じていただく！
  
 **源氏郎等:**
 宜しいですか、頼光様。
@@ -16337,16 +16337,16 @@ We’re looking for our prey. Our Casters.
 しかし、事は道長様どころか 畏れ多くも内裏そのものにまで及びかねません。
  
 **Minamoto no Raikō:**
-最早、日の本そのものに拘わる事柄！なれば<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は。
+最早、日の本そのものに拘わる事柄！なれば<ruby>此処<rt>こ　こ</rt></ruby>は。
  
 **Minamoto no Raikō:**
-&mdash;本日、<ruby><rb>午</rb><rt>うま</rt></ruby>の刻より！&mdash;<u>源氏会議</u>を開催する事といたします！
+&mdash;本日、<ruby>午<rt>うま</rt></ruby>の刻より！&mdash;<u>源氏会議</u>を開催する事といたします！
  
 **Minamoto no Raikō:**
 それでは&mdash;
  
 **Minamoto no Raikō:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>より直ちに、当屋敷にて源氏会議を催します。両名及びお客人、宜しいですね。
+<ruby>是<rt>これ</rt></ruby>より直ちに、当屋敷にて源氏会議を催します。両名及びお客人、宜しいですね。
  
 **Watanabe no Tsuna:**
 無論。
@@ -16373,7 +16373,7 @@ We’re looking for our prey. Our Casters.
 これが誠であれば由々しき事態。都と天下の平安を道長様より預かる我ら源氏、
  
 **Minamoto no Raikō:**
-すべての武家の<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>として、見逃すことは出来ぬ。
+すべての武家の<ruby>棟梁<rt>とうりょう</rt></ruby>として、見逃すことは出来ぬ。
  
 **Minamoto no Raikō:**
 知らぬ存ぜぬを決め込んだとして、まこと、何らかの大悪の企てが成されたならば、
@@ -16385,13 +16385,13 @@ We’re looking for our prey. Our Casters.
 ……しかし。です。
  
 **Minamoto no Raikō:**
-確たる<ruby><rb>証</rb><rt>あかし</rt></ruby>がありません。
+確たる<ruby>証<rt>あかし</rt></ruby>がありません。
  
 **Minamoto no Raikō:**
-藤丸殿は 我が友たる<ruby><rb>彼方の御伽話</rb><rt>ナ ー サ リ ー ・ ラ イ ム</rt></ruby>の恩人なればこそ……
+藤丸殿は 我が友たる<ruby>彼方の御伽話<rt>ナ ー サ リ ー ・ ラ イ ム</rt></ruby>の恩人なればこそ……
  
 **Minamoto no Raikō:**
-私自身はその言を信じたい。信じたいが、信ずるに足る<ruby><rb>証</rb><rt>あかし</rt></ruby>は<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にないのです。
+私自身はその言を信じたい。信じたいが、信ずるに足る<ruby>証<rt>あかし</rt></ruby>は<ruby>此処<rt>こ　こ</rt></ruby>にないのです。
  
 **Minamoto no Raikō:**
 どうかお分かりいただきたい。藤丸殿。
@@ -16417,10 +16417,10 @@ We’re looking for our prey. Our Casters.
 一理あるでしょう。綱。貴方はどう考えます？
  
 **Watanabe no Tsuna:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なる天覧の死合いへの参加は、<ruby><rb>紛</rb><rt>まご</rt></ruby>うことなく左大臣殿より下された命。
+<ruby>是<rt>これ</rt></ruby>なる天覧の死合いへの参加は、<ruby>紛<rt>まご</rt></ruby>うことなく左大臣殿より下された命。
  
 **Watanabe no Tsuna:**
-<ruby><rb>然</rb><rt>しか</rt></ruby>らば、左大臣殿の新たなる命なき以上、天覧聖杯戦争は滞りなく進めるが筋。
+<ruby>然<rt>しか</rt></ruby>らば、左大臣殿の新たなる命なき以上、天覧聖杯戦争は滞りなく進めるが筋。
  
 **Watanabe no Tsuna:**
 俺は、左様に心得る。
@@ -16456,13 +16456,13 @@ We’re looking for our prey. Our Casters.
 両者、戦いにて己が意見を通せと……そう申されるのですか！
  
 **Minamoto no Raikō:**
-然り。<ruby><rb>是</rb><rt>これ</rt></ruby>こそ我ら武辺者、源氏の<ruby><rb>矜持</rb><rt>きょうじ</rt></ruby>なれば何の不思議がありましょう。
+然り。<ruby>是<rt>これ</rt></ruby>こそ我ら武辺者、源氏の<ruby>矜持<rt>きょうじ</rt></ruby>なれば何の不思議がありましょう。
  
 **Minamoto no Raikō:**
 己が意を通すため、刃に懸ける。己が意を護るため、刃で受ける。
  
 **Minamoto no Raikō:**
-先代様までのやり方とは些か違いましょうが、<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ<u>我らの源氏会議</u>なれば。
+先代様までのやり方とは些か違いましょうが、<ruby>是<rt>これ</rt></ruby>ぞ<u>我らの源氏会議</u>なれば。
  
 **Danzo:**
 ……マスター。
@@ -16495,16 +16495,16 @@ We’re looking for our prey. Our Casters.
 押し通せばコッチが通る。そんだけさ。
  
 **Sakata Kintoki:**
-……やれやれだ。綱の兄貴が相手じゃ些かばかり 分は悪ィが、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で否を告げる訳にゃいかねえのさ。
+……やれやれだ。綱の兄貴が相手じゃ些かばかり 分は悪ィが、<ruby>此処<rt>こ　こ</rt></ruby>で否を告げる訳にゃいかねえのさ。
  
 **Sakata Kintoki:**
-オレはアンタを信じると決めた。一度決めたら、オレゃあ<ruby><rb>梃子</rb><rt>てこ</rt></ruby>でも動かねえ！
+オレはアンタを信じると決めた。一度決めたら、オレゃあ<ruby>梃子<rt>てこ</rt></ruby>でも動かねえ！
  
 **Sakata Kintoki:**
 で、だ。
  
 **Sakata Kintoki:**
-<ruby><rb>此方</rb><rt>こちら</rt></ruby>にゃ<ruby><rb>術者</rb><rt>キャスター</rt></ruby>ひとり足りねえ分、悪いが藤丸！
+<ruby>此方<rt>こちら</rt></ruby>にゃ<ruby>術者<rt>キャスター</rt></ruby>ひとり足りねえ分、悪いが藤丸！
  
 **Sakata Kintoki:**
 ひとつ手伝っちゃくれねえか？オレっちだけじゃ、きっと<u>いいとこ相打ち</u>だ。
@@ -16540,19 +16540,19 @@ We’re looking for our prey. Our Casters.
 異議、なし！
  
 **Minamoto no Raikō:**
-ならば汝。四天王、<ruby><rb>主馬佑</rb><rt>しゅめのすけ</rt></ruby>坂田金時。
+ならば汝。四天王、<ruby>主馬佑<rt>しゅめのすけ</rt></ruby>坂田金時。
  
 **Sakata Kintoki:**
 おうさ！
  
 **Minamoto no Raikō:**
-ならば汝。四天王、<ruby><rb>内舎人</rb><rt>う ど ね り</rt></ruby>渡辺綱。
+ならば汝。四天王、<ruby>内舎人<rt>う ど ね り</rt></ruby>渡辺綱。
  
 **Watanabe no Tsuna:**
 はっ。
  
 **Minamoto no Raikō:**
-己が意を刃と変えて&mdash;<ruby><rb>八幡神</rb><rt>はちまんしん</rt></ruby>の御前たる此の場にて、いざ、披露せよ！
+己が意を刃と変えて&mdash;<ruby>八幡神<rt>はちまんしん</rt></ruby>の御前たる此の場にて、いざ、披露せよ！
  
 **Watanabe no Tsuna:**
 キャスター。……来い、死合いだ。
@@ -16573,13 +16573,13 @@ We’re looking for our prey. Our Casters.
 そら、来やがった……！
  
 **Medea Lily:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ、敗北せし英霊の魂喰らう辺獄の血戦地。&mdash;<ruby><rb>昏</rb><rt>くら</rt></ruby>き太陽戴きし、<ruby><rb>其</rb><rt>そ</rt></ruby>の名を天覧死合舞台。
+<ruby>是<rt>これ</rt></ruby>ぞ、敗北せし英霊の魂喰らう辺獄の血戦地。&mdash;<ruby>昏<rt>くら</rt></ruby>き太陽戴きし、<ruby>其<rt>そ</rt></ruby>の名を天覧死合舞台。
  
 **Medea Lily:**
-我が真名メディア・リリィ。私の愛、理想が、あなたたちの道を<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にて閉ざす。
+我が真名メディア・リリィ。私の愛、理想が、あなたたちの道を<ruby>此処<rt>こ　こ</rt></ruby>にて閉ざす。
  
 **Medea Lily:**
-鬼神よ<ruby><rb>嗤</rb><rt>わら</rt></ruby>え。太陽よ<ruby><rb>耀</rb><rt>かがや</rt></ruby>け。
+鬼神よ<ruby>嗤<rt>わら</rt></ruby>え。太陽よ<ruby>耀<rt>かがや</rt></ruby>け。
  
 **Medea Lily:**
 さあ、己が願いがため。&mdash;今こそ、あなたたちの力をお見せください。
@@ -16596,16 +16596,16 @@ We’re looking for our prey. Our Casters.
 分かってる。<u>味方は多いに越したことはねえ</u>さ。
  
 **Sakata Kintoki:**
-<ruby><rb>術者</rb><rt>キャスター</rt></ruby>サンの首は<ruby><rb>刎</rb><rt>は</rt></ruby>ねねえよ！そもそも、こちとら天覧聖杯戦争を止める身だ！
+<ruby>術者<rt>キャスター</rt></ruby>サンの首は<ruby>刎<rt>は</rt></ruby>ねねえよ！そもそも、こちとら天覧聖杯戦争を止める身だ！
  
 **Sakata Kintoki:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>に乗っかりゃしねえさ。当然！
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>に乗っかりゃしねえさ。当然！
  
 **Watanabe no Tsuna:**
 加減の利く相手だと侮るか。金時。
  
 **Sakata Kintoki:**
-さあ、どうかね！オレはオレなりに、全霊を以てお相手<ruby><rb>仕</rb><rt>つかまつ</rt></ruby>るだけさ！
+さあ、どうかね！オレはオレなりに、全霊を以てお相手<ruby>仕<rt>つかまつ</rt></ruby>るだけさ！
  
 **Sakata Kintoki:**
 まずは！　アンタの片膝ァ土に付ける！！
@@ -16631,7 +16631,7 @@ We’re looking for our prey. Our Casters.
 そう、俺は決めたのだ。あの日に。
  
 **Narration:**
-鎮護を目指す天覧の死合い。永きに<ruby><rb>亘</rb><rt>わた</rt></ruby>る平安を京にもたらすための、大いなる儀。
+鎮護を目指す天覧の死合い。永きに<ruby>亘<rt>わた</rt></ruby>る平安を京にもたらすための、大いなる儀。
  
 **Narration:**
 源氏とその郎等にとっての誉れであり、左大臣藤原道長殿の切なる悲願。
@@ -16646,7 +16646,7 @@ We’re looking for our prey. Our Casters.
 俺は、あの日の無念を晴らすのだ。俺は、俺自身の悔恨を今こそ拭う。
  
 **Narration:**
-<ruby><rb>八幡神</rb><rt>はちまんしん</rt></ruby>よ、我が無様を<ruby><rb>嗤</rb><rt>わら</rt></ruby>え。己が無力によって導かれた惨事を、俺は否定する。
+<ruby>八幡神<rt>はちまんしん</rt></ruby>よ、我が無様を<ruby>嗤<rt>わら</rt></ruby>え。己が無力によって導かれた惨事を、俺は否定する。
  
 **Narration:**
 血華と共に散った命を……
@@ -16673,7 +16673,7 @@ We’re looking for our prey. Our Casters.
 ゴォオオオオオオオオルデンッ！！
  
 **Watanabe no Tsuna:**
-……<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>力め。おまえとまともに打ち合う等と、この渡辺綱が、
+……<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>力め。おまえとまともに打ち合う等と、この渡辺綱が、
  
 **Watanabe no Tsuna:**
 詰めの判断を誤るとは。未熟。
@@ -16745,13 +16745,13 @@ We’re looking for our prey. Our Casters.
 兄貴。
  
 **Sakata Kintoki:**
-オレには合点がいかねえが、<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>サンはアンタのことが分かるみてえだ。
+オレには合点がいかねえが、<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>の<ruby>術者<rt>キャスター</rt></ruby>サンはアンタのことが分かるみてえだ。
  
 **Sakata Kintoki:**
 どうするよ、綱の兄ィ。アンタは確かに片膝突いた。
  
 **Sakata Kintoki:**
-征くか戻るかオレゃあアンタに任せるぜ。オレの<ruby><rb>一世一代</rb><rt>いっせいちだい</rt></ruby>の<ruby><rb>我</rb><rt>わ</rt></ruby>が<ruby><rb>侭</rb><rt>まま</rt></ruby>を聞いてもらうか、それとも、
+征くか戻るかオレゃあアンタに任せるぜ。オレの<ruby>一世一代<rt>いっせいちだい</rt></ruby>の<ruby>我<rt>わ</rt></ruby>が<ruby>侭<rt>まま</rt></ruby>を聞いてもらうか、それとも、
  
 **Sakata Kintoki:**
 やるのか、だ。
@@ -16766,7 +16766,7 @@ We’re looking for our prey. Our Casters.
 いや、儚くも哀しく散った遠き異国の姫君よ。
  
 **Watanabe no Tsuna:**
-おまえ以上に<ruby><rb>聡</rb><rt>さと</rt></ruby>くも麗しき者はそういまい。だが、そうだな。それでも、俺は……
+おまえ以上に<ruby>聡<rt>さと</rt></ruby>くも麗しき者はそういまい。だが、そうだな。それでも、俺は……
  
 **Watanabe no Tsuna:**
 おまえの首を護りながら、今も、<u>あの御方</u>の横顔をこそ想うのだ。
@@ -16790,10 +16790,10 @@ We’re looking for our prey. Our Casters.
 穏やかで、微笑みの麗しき佳人だった。身分違いの俺にさえ、笑い掛けるような人だった。
  
 **Narration:**
-輝くようなその娘は、<ruby><rb>羽化登仙</rb><rt>う か と う せ ん</rt></ruby>するかのごとく、輝く女となった。
+輝くようなその娘は、<ruby>羽化登仙<rt>う か と う せ ん</rt></ruby>するかのごとく、輝く女となった。
  
 **Narration:**
-もしもお上の目に留まるようなことがあれば、或いは、中宮となるやもしれない。とまで<ruby><rb>謳</rb><rt>うた</rt></ruby>われた。
+もしもお上の目に留まるようなことがあれば、或いは、中宮となるやもしれない。とまで<ruby>謳<rt>うた</rt></ruby>われた。
  
 **Narration:**
 けれど……
@@ -16805,10 +16805,10 @@ We’re looking for our prey. Our Casters.
 いつしか、父君にあてがわれた屋敷に籠もった。
  
 **Narration:**
-様々な噂があった。二目と見られぬ姿へと変わる病に<ruby><rb>罹</rb><rt>かか</rt></ruby>ったのだとか、
+様々な噂があった。二目と見られぬ姿へと変わる病に<ruby>罹<rt>かか</rt></ruby>ったのだとか、
  
 **Narration:**
-何かの罪を犯して<ruby><rb>蟄居</rb><rt>ちっきょ</rt></ruby>の身となったとか、狂を発して言の葉を失ってしまったとか、
+何かの罪を犯して<ruby>蟄居<rt>ちっきょ</rt></ruby>の身となったとか、狂を発して言の葉を失ってしまったとか、
  
 **Narration:**
 ……さる貴人の子を身籠もったとの噂もあった。
@@ -16820,7 +16820,7 @@ We’re looking for our prey. Our Casters.
 いつ頃まで顔を出していたろうか。月に一度と云わず、月に数度も顔を出して。
  
 **Narration:**
-あの笑顔、穏やかな天女の如き横顔を目にしては、何が何だか分からずただ首を<ruby><rb>傾</rb><rt>かし</rt></ruby>げていた。
+あの笑顔、穏やかな天女の如き横顔を目にしては、何が何だか分からずただ首を<ruby>傾<rt>かし</rt></ruby>げていた。
  
 **Narration:**
 病であるものか。罪など犯すはずもない。
@@ -16829,10 +16829,10 @@ We’re looking for our prey. Our Casters.
 狂を発しているものか。子については、よく分からなかったが。
  
 **Narration:**
-それから<ruby><rb>暫</rb><rt>しばら</rt></ruby>く後。
+それから<ruby>暫<rt>しばら</rt></ruby>く後。
  
 **Narration:**
-貴人の女に、男が逢いに行く等とは<ruby><rb>言語道断</rb><rt>ごんごどうだん</rt></ruby>、あたりの分別が付くようになる頃……
+貴人の女に、男が逢いに行く等とは<ruby>言語道断<rt>ごんごどうだん</rt></ruby>、あたりの分別が付くようになる頃……
  
 **Narration:**
 俺は、太刀を握る日々を迎えた。武辺者ならば得物を選ぶなと云われながらも、
@@ -16847,16 +16847,16 @@ We’re looking for our prey. Our Casters.
 宝刀を預かった。そして。
  
 **Narration:**
-京の鎮護に慣熟せんがため、<ruby><rb>一度</rb><rt>ひとたび</rt></ruby>は<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>庁にて学ぶべし&mdash;
+京の鎮護に慣熟せんがため、<ruby>一度<rt>ひとたび</rt></ruby>は<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>庁にて学ぶべし&mdash;
  
 **Narration:**
-新たな修練をただちに終えた俺は、まことの<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>と同等の御役目を与えられた。
+新たな修練をただちに終えた俺は、まことの<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>と同等の御役目を与えられた。
  
 **Narration:**
 左京の、とある一角の守護である。
  
 **Narration:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>で俺は……目にした。
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>で俺は……目にした。
  
 **Narration:**
 &mdash;鬼による、惨事のありさまを。
@@ -16871,13 +16871,13 @@ We’re looking for our prey. Our Casters.
 あの御方も、死んでいた。
  
 **Narration:**
-<ruby><rb>喉</rb><rt>のど</rt></ruby>を破られて伏したあの御方の亡骸は、大輪の<ruby><rb>赫華</rb><rt>は　な</rt></ruby>を咲かせていた。
+<ruby>喉<rt>のど</rt></ruby>を破られて伏したあの御方の亡骸は、大輪の<ruby>赫華<rt>は　な</rt></ruby>を咲かせていた。
  
 **Narration:**
 ……血だまりだった。
  
 **Narration:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>を走り回ったらしき、小さな足跡を、俺は見た。
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>を走り回ったらしき、小さな足跡を、俺は見た。
  
 **Narration:**
 足跡は屋敷のあちこちにあって、辿って行った先々には家人の亡骸が転がっていた。
@@ -16892,13 +16892,13 @@ We’re looking for our prey. Our Casters.
 <u>喰らわなかった</u>のか、<u>喰らえなかった</u>のか。
  
 **Narration:**
-晴明殿の結界を越えて京に入り込んだ 小鬼の仕業であろうと、<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>庁は断じた。
+晴明殿の結界を越えて京に入り込んだ 小鬼の仕業であろうと、<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>庁は断じた。
  
 **Narration:**
 あの時、血華を見つめながら俺はようやく知った。嗚呼。俺は。俺はずっと……
  
 **Narration:**
-…………この<ruby><rb>御方</rb><rt>ひ　と</rt></ruby>に、想いを寄せていたのだと。
+…………この<ruby>御方<rt>ひ　と</rt></ruby>に、想いを寄せていたのだと。
  
 ---
 
@@ -16928,10 +16928,10 @@ We’re looking for our prey. Our Casters.
 すべて、気付いた時には終わっていたからな。
  
 **Watanabe no Tsuna:**
-何処にも届くことはなかった心の<ruby><rb>滓</rb><rt>かす</rt></ruby>だ。
+何処にも届くことはなかった心の<ruby>滓<rt>かす</rt></ruby>だ。
  
 **Watanabe no Tsuna:**
-ただ、我が胸中には、やるせない<ruby><rb>虚</rb><rt>むな</rt></ruby>しさだけが在って&mdash;
+ただ、我が胸中には、やるせない<ruby>虚<rt>むな</rt></ruby>しさだけが在って&mdash;
  
 **Watanabe no Tsuna:**
 今も。迷っているのやもしれん。
@@ -16955,16 +16955,16 @@ We’re looking for our prey. Our Casters.
 或いは、金時の稲光が……
  
 **Watanabe no Tsuna:**
-聖杯の<ruby><rb>呪詛</rb><rt>じゅそ</rt></ruby>より、我が目を醒ましたか。
+聖杯の<ruby>呪詛<rt>じゅそ</rt></ruby>より、我が目を醒ましたか。
  
 **Watanabe no Tsuna:**
 死者は蘇らない。蘇ってはならない。
  
 **Watanabe no Tsuna:**
-たとえ如何なる理屈があろうと、<ruby><rb>天然自然</rb><rt>てんねんしぜん</rt></ruby>の理は覆らない。覆してはならない。
+たとえ如何なる理屈があろうと、<ruby>天然自然<rt>てんねんしぜん</rt></ruby>の理は覆らない。覆してはならない。
  
 **Watanabe no Tsuna:**
-分かっている。<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>。
+分かっている。<ruby>棟梁<rt>とうりょう</rt></ruby>。
  
 **Watanabe no Tsuna:**
 だが、一時、夢を見たのです。
@@ -16973,13 +16973,13 @@ We’re looking for our prey. Our Casters.
 今度こそ誰かを護り抜き、その果てに、あの御方の笑顔をも取り戻す。そんな……
  
 **Watanabe no Tsuna:**
-天覧聖杯戦争という、<ruby><rb>絢爛</rb><rt>けんらん</rt></ruby>にして<ruby><rb>眩</rb><rt>まばゆ</rt></ruby>き夢を&mdash;
+天覧聖杯戦争という、<ruby>絢爛<rt>けんらん</rt></ruby>にして<ruby>眩<rt>まばゆ</rt></ruby>き夢を&mdash;
  
 **Medea Lily:**
 ……。……。
  
 **Watanabe no Tsuna:**
-しかし夢は夢。<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>のまことにはあらず、か。
+しかし夢は夢。<ruby>現世<rt>うつしよ</rt></ruby>のまことにはあらず、か。
  
 **Watanabe no Tsuna:**
 俺の負けだ。金時。
@@ -16988,13 +16988,13 @@ We’re looking for our prey. Our Casters.
 それまで。両者、雌雄を決した。
  
 **Minamoto no Raikō:**
-源氏会議、常であれば首を獲るまで<ruby><rb>鎬</rb><rt>しのぎ</rt></ruby>を削るが、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は私が断じましょう。
+源氏会議、常であれば首を獲るまで<ruby>鎬<rt>しのぎ</rt></ruby>を削るが、<ruby>此処<rt>こ　こ</rt></ruby>は私が断じましょう。
  
 **Minamoto no Raikō:**
-勝者、<ruby><rb>主馬佑</rb><rt>しゅめのすけ</rt></ruby>坂田金時！
+勝者、<ruby>主馬佑<rt>しゅめのすけ</rt></ruby>坂田金時！
  
 **Minamoto no Raikō:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>により、我ら源氏は総意として、天覧聖杯戦争に大悪の疑ありと左大臣殿へ申し上げる！
+<ruby>是<rt>これ</rt></ruby>により、我ら源氏は総意として、天覧聖杯戦争に大悪の疑ありと左大臣殿へ申し上げる！
  
 **Minamoto no Raikō:**
 故に、源氏会議&mdash;決を以てただちに了とする！
@@ -17020,7 +17020,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-はい！　これは<ruby><rb>目出度</rb><rt>め　で　た</rt></ruby>きこと！アルターエゴ・リンボに一矢報いる先駆けかと！
+はい！　これは<ruby>目出度<rt>め　で　た</rt></ruby>きこと！アルターエゴ・リンボに一矢報いる先駆けかと！
  
 **Sakata Kintoki:**
 おうよ。あと道長の旦那にもな！
@@ -17029,7 +17029,7 @@ We’re looking for our prey. Our Casters.
 ……二人とも見事な戦いぶりでした。そして、四天王の一角のいずれも欠けなんだこと、
  
 **Minamoto no Raikō:**
-私は嬉しく思っています。己が<ruby><rb>術者</rb><rt>キャスター</rt></ruby>を共に護り抜いたことも、
+私は嬉しく思っています。己が<ruby>術者<rt>キャスター</rt></ruby>を共に護り抜いたことも、
  
 **Minamoto no Raikō:**
 そうです。新時代の武者たるもの、殺すばかりが能ではいけませんからね。
@@ -17038,7 +17038,7 @@ We’re looking for our prey. Our Casters.
 護るのです。それこそ、私が四天王に願うこと。源氏のすべてに願えるものではありませんが、
  
 **Minamoto no Raikō:**
-ささやかな私の<ruby><rb>我</rb><rt>わ</rt></ruby>が<ruby><rb>侭</rb><rt>まま</rt></ruby>です。
+ささやかな私の<ruby>我<rt>わ</rt></ruby>が<ruby>侭<rt>まま</rt></ruby>です。
  
 **Minamoto no Raikō:**
 ふふ。本当に、佳かった……&mdash;
@@ -17053,7 +17053,7 @@ We’re looking for our prey. Our Casters.
 ってワケでだ。兄貴&mdash;
  
 **Sakata Kintoki:**
-目ェ、醒めたかよ。オイラの<ruby><rb>雷</rb><rt>いかずち</rt></ruby>はようく効いたろう？
+目ェ、醒めたかよ。オイラの<ruby>雷<rt>いかずち</rt></ruby>はようく効いたろう？
  
 **Watanabe no Tsuna:**
 …………ああ。
@@ -17074,16 +17074,16 @@ We’re looking for our prey. Our Casters.
 へー。そう云うもんかね？
  
 **Watanabe no Tsuna:**
-時に、<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の[♂男/♀赤毛の娘]。実に見事な<ruby><rb>援</rb><rt>たす</rt></ruby>けであった。
+時に、<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>の[♂男/♀赤毛の娘]。実に見事な<ruby>援<rt>たす</rt></ruby>けであった。
  
 **Watanabe no Tsuna:**
-たとえば<ruby><rb>此方</rb><rt>こちら</rt></ruby>の骨兵の群れ……
+たとえば<ruby>此方<rt>こちら</rt></ruby>の骨兵の群れ……
  
 **Watanabe no Tsuna:**
-我がキャスターの魔力を用いた物量だ。<ruby><rb>捌</rb><rt>さば</rt></ruby>ききるのは金時では難しいと考えていたが、
+我がキャスターの魔力を用いた物量だ。<ruby>捌<rt>さば</rt></ruby>ききるのは金時では難しいと考えていたが、
  
 **Watanabe no Tsuna:**
-前といい、<ruby><rb>此度</rb><rt>こたび</rt></ruby>といい、おまえの操る影は実によき働きをする。
+前といい、<ruby>此度<rt>こたび</rt></ruby>といい、おまえの操る影は実によき働きをする。
  
 **Watanabe no Tsuna:**
 見事だった。
@@ -17118,7 +17118,7 @@ We’re looking for our prey. Our Casters.
 故に、妙とも想う。
  
 **Watanabe no Tsuna:**
-おまえはなぜ戦う？何を求めておまえは時を<ruby><rb>彷徨</rb><rt>さまよ</rt></ruby>うのだ。
+おまえはなぜ戦う？何を求めておまえは時を<ruby>彷徨<rt>さまよ</rt></ruby>うのだ。
  
 ---
 
@@ -17144,13 +17144,13 @@ We’re looking for our prey. Our Casters.
 では、源氏の総意を得たということか。中々に面白い。
  
 **Fujiwara no Michinaga:**
-あの怪童丸めが、私の<ruby><rb>無理難題</rb><rt>む り な ん だ い</rt></ruby>を成し遂げてみせる！
+あの怪童丸めが、私の<ruby>無理難題<rt>む り な ん だ い</rt></ruby>を成し遂げてみせる！
  
 **Fujiwara no Michinaga:**
 愉快愉快。天覧聖杯戦争の儀に邪魔は入ったが、
  
 **Fujiwara no Michinaga:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>は<ruby><rb>是</rb><rt>これ</rt></ruby>で愉快なことよ。あ奴が<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>まで<u>やる</u>のであれば、何、
+<ruby>是<rt>これ</rt></ruby>は<ruby>是<rt>これ</rt></ruby>で愉快なことよ。あ奴が<ruby>此処<rt>こ　こ</rt></ruby>まで<u>やる</u>のであれば、何、
  
 **Fujiwara no Michinaga:**
 考えるべき以後の愉しみもあると云うものだ。行方知れずの晴明が戻り次第、検討を始めよう。
@@ -17162,7 +17162,7 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Fujiwara no Michinaga:**
-いずれ源邸より遣いが来ようが、ひとまず天覧聖杯戦争の儀は<ruby><rb>止</rb><rt>や</rt></ruby>めだ。
+いずれ源邸より遣いが来ようが、ひとまず天覧聖杯戦争の儀は<ruby>止<rt>や</rt></ruby>めだ。
  
 **Fujiwara no Michinaga:**
 直ぐに手配せよ。急げ。
@@ -17183,7 +17183,7 @@ We’re looking for our prey. Our Casters.
 ……？
  
 **Fujiwara no Michinaga:**
-何を<ruby><rb>嗤</rb><rt>わら</rt></ruby>う、道満。
+何を<ruby>嗤<rt>わら</rt></ruby>う、道満。
  
 **Ashiya Dōman:**
 口惜しきかな！口惜しきかな！
@@ -17192,13 +17192,13 @@ We’re looking for our prey. Our Casters.
 後一歩のところで源氏の殺し合いとなったものを！また、また、まァァァたカルデアにしてやられた！
  
 **Ashiya Dōman:**
-まあそうでしょう、そうでしょうとも、何せカルデアは源氏の方々と<ruby><rb>一度</rb><rt>ひとたび</rt></ruby>は縁を結んでいる！
+まあそうでしょう、そうでしょうとも、何せカルデアは源氏の方々と<ruby>一度<rt>ひとたび</rt></ruby>は縁を結んでいる！
  
 **Ashiya Dōman:**
-我が聖杯に依りて召喚果たせし<ruby><rb>術者</rb><rt>キャスター</rt></ruby>どもも縁ある者ばかりと来る……
+我が聖杯に依りて召喚果たせし<ruby>術者<rt>キャスター</rt></ruby>どもも縁ある者ばかりと来る……
  
 **Ashiya Dōman:**
-……おっと。<ruby><rb>卜部</rb><rt>う ら べ</rt></ruby>殿の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>は違いましたかな。
+……おっと。<ruby>卜部<rt>う ら べ</rt></ruby>殿の<ruby>術者<rt>キャスター</rt></ruby>は違いましたかな。
  
 **Ashiya Dōman:**
 あれは凶猛かつ分別のきかぬ、実に聖杯戦争に向いたる佳き英霊にございましたが、
@@ -17219,7 +17219,7 @@ We’re looking for our prey. Our Casters.
 否。貴様は道満ではないな。
  
 **Fujiwara no Michinaga:**
-ならば矢張り、リンボ<ruby><rb>何某</rb><rt>なにがし</rt></ruby>とかいう大凶賊なる者か。
+ならば矢張り、リンボ<ruby>何某<rt>なにがし</rt></ruby>とかいう大凶賊なる者か。
  
 **Fujiwara no Michinaga:**
 怪童丸とその供の言、まことであったか&mdash;
@@ -17231,10 +17231,10 @@ We’re looking for our prey. Our Casters.
 いやはやこの蘆屋道満、ああこの場合は無論、この時代に正しく生くる哀れなる法師陰陽師ですが、
  
 **Ashiya Dōman:**
-<ruby><rb>リンボと出逢った]刹那に狂いまして御座います！叫び、[#喚</rb><rt>わめ</rt></ruby>き、狂い果てて、我らは<ruby><rb>合一</rb><rt>ごういつ</rt></ruby>致しまして候！
+<ruby>リンボと出逢った]刹那に狂いまして御座います！叫び、[#喚<rt>わめ</rt></ruby>き、狂い果てて、我らは<ruby>合一<rt>ごういつ</rt></ruby>致しまして候！
  
 **Fujiwara no Michinaga:**
-…………<ruby><rb>痴</rb><rt>し</rt></ruby>れ者め。
+…………<ruby>痴<rt>し</rt></ruby>れ者め。
  
 **Fujiwara no Michinaga:**
 誰ぞある！誰ぞある！
@@ -17243,7 +17243,7 @@ We’re looking for our prey. Our Casters.
 左大臣、如何された！
  
 **Fujiwara no Michinaga:**
-謀反である。事もあろうに<ruby><rb>是</rb><rt>これ</rt></ruby>なる道満法師、宮中にて狂うたわ！
+謀反である。事もあろうに<ruby>是<rt>これ</rt></ruby>なる道満法師、宮中にて狂うたわ！
  
 **Fujiwara no Michinaga:**
 やはり、貴様に晴明の代わりは務まらぬな！その首を以て奴に詫びよ。
@@ -17255,7 +17255,7 @@ We’re looking for our prey. Our Casters.
 我ら陰陽寮最高の陰陽師精鋭十余名&mdash;
  
 **陰陽師たち:**
-これあるを予期した左大臣の命によりて、法師を呪殺せんがため、十全の支度を<ruby><rb>調</rb><rt>ととの</rt></ruby>えている！
+これあるを予期した左大臣の命によりて、法師を呪殺せんがため、十全の支度を<ruby>調<rt>ととの</rt></ruby>えている！
  
 **Ashiya Dōman:**
 ほう？
@@ -17276,7 +17276,7 @@ We’re looking for our prey. Our Casters.
 無為、無謀、無駄、無様ァ！ 
  
 **Ashiya Dōman:**
-<ruby><rb>六根清浄</rb><rt>ろっこんしょうじょう</rt></ruby>悪業罰示&mdash;
+<ruby>六根清浄<rt>ろっこんしょうじょう</rt></ruby>悪業罰示&mdash;
  
 **Ashiya Dōman:**
 &mdash;急々如律令！
@@ -17291,10 +17291,10 @@ We’re looking for our prey. Our Casters.
 否。貴様、蘆屋道満であって蘆屋道満ではない。怪童丸が語りしリンボなる大外道！
  
 **Fujiwara no Michinaga:**
-よもやこの<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>に左大臣を<ruby><rb>謀</rb><rt>たばか</rt></ruby>る者が在るとは、フフ。ぬかったわ。
+よもやこの<ruby>現世<rt>うつしよ</rt></ruby>に左大臣を<ruby>謀<rt>たばか</rt></ruby>る者が在るとは、フフ。ぬかったわ。
  
 **Fujiwara no Michinaga:**
-数多の<ruby><rb>呪詛</rb><rt>じゅそ</rt></ruby>と怨霊を相手取ったこの道長を、<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>に手酷く出し抜こうとは&mdash;
+数多の<ruby>呪詛<rt>じゅそ</rt></ruby>と怨霊を相手取ったこの道長を、<ruby>斯様<rt>か よ う</rt></ruby>に手酷く出し抜こうとは&mdash;
  
 **Ashiya Dōman:**
 ンンンンン？
@@ -17315,10 +17315,10 @@ We’re looking for our prey. Our Casters.
 ……。
  
 **Ashiya Dōman:**
-<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>に囁くだけで、哀れ、がらがらと道満の心は崩れ果て……
+<ruby>斯様<rt>か よ う</rt></ruby>に囁くだけで、哀れ、がらがらと道満の心は崩れ果て……
  
 **Ashiya Dōman:**
-見事拙僧と<ruby><rb>合一</rb><rt>ごういつ</rt></ruby>致しました！と云う訳で！　この道満、道満にして道満にあらず！
+見事拙僧と<ruby>合一<rt>ごういつ</rt></ruby>致しました！と云う訳で！　この道満、道満にして道満にあらず！
  
 **Ashiya Dōman:**
 我、こそは&mdash;
@@ -17336,10 +17336,10 @@ We’re looking for our prey. Our Casters.
 そして。
  
 **Ashiya Dōman:**
-我こそは、<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>を成さんとする八将神が一柱。
+我こそは、<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>を成さんとする八将神が一柱。
  
 **Ashiya Dōman:**
-&mdash;<ruby><rb>黄幡神</rb><rt>おうばんじん</rt></ruby>・蘆屋道満である。
+&mdash;<ruby>黄幡神<rt>おうばんじん</rt></ruby>・蘆屋道満である。
  
 **黄幡神・蘆屋道満:**
 ンン、ンンンンンンンンン……ンンンンンンふふふふふふふふふふふはははは。
@@ -17354,10 +17354,10 @@ We’re looking for our prey. Our Casters.
 天覧聖杯戦争は仕舞いとなります。我が持ちたる聖杯に納めし魂は四騎に過ぎず、
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>では、いけない。
+<ruby>是<rt>これ</rt></ruby>では、いけない。
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>では、我が悲願大願は成就されませぬ。
+<ruby>是<rt>これ</rt></ruby>では、我が悲願大願は成就されませぬ。
  
 **黄幡神・蘆屋道満:**
 ええ、ええ。人類史に依る皆々さま……
@@ -17378,10 +17378,10 @@ We’re looking for our prey. Our Casters.
 まあ、嘘は。このあたりにいたしまして。
  
 **黄幡神・蘆屋道満:**
-左大臣藤原道長殿。どうか、<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>にて間近に御笑覧くださいませ。
+左大臣藤原道長殿。どうか、<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>にて間近に御笑覧くださいませ。
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>黄幡神</rb><rt>おうばんじん</rt></ruby>・蘆屋道満が<ruby><rb>是</rb><rt>これ</rt></ruby>より成し遂げます、<ruby><rb>空前絶後</rb><rt>く う ぜ ん ぜ つ ご</rt></ruby>の大偉業！　そう！
+<ruby>黄幡神<rt>おうばんじん</rt></ruby>・蘆屋道満が<ruby>是<rt>これ</rt></ruby>より成し遂げます、<ruby>空前絶後<rt>く う ぜ ん ぜ つ ご</rt></ruby>の大偉業！　そう！
  
 **黄幡神・蘆屋道満:**
 <u>地獄界曼荼羅の成就</u>を！
@@ -17408,40 +17408,40 @@ We’re looking for our prey. Our Casters.
 そして……
  
 **Narration:**
-&mdash;世界を引き裂き、&mdash;平安京<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門に、空想の根が落ちる。
+&mdash;世界を引き裂き、&mdash;平安京<ruby>朱雀<rt>す ざ く</rt></ruby>門に、空想の根が落ちる。
  
 **Narration:**
-人理を打ち砕く妖樹、大樹。有り得ざる<ruby><rb>異聞</rb><rt>イ　フ</rt></ruby>を永続させんと蠢き、脈動する。
+人理を打ち砕く妖樹、大樹。有り得ざる<ruby>異聞<rt>イ　フ</rt></ruby>を永続させんと蠢き、脈動する。
  
 **Narration:**
-空は裂け、昼であったはずの<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>に夜の<ruby><rb>帳</rb><rt>とばり</rt></ruby>が下り、赤い月が浮かび上がる。
+空は裂け、昼であったはずの<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>に夜の<ruby>帳<rt>とばり</rt></ruby>が下り、赤い月が浮かび上がる。
  
 **Narration:**
-赤い月の下にて<ruby><rb>嗤</rb><rt>わら</rt></ruby>うが如き、大樹&mdash;
+赤い月の下にて<ruby>嗤<rt>わら</rt></ruby>うが如き、大樹&mdash;
  
 **Narration:**
-<ruby><rb>其</rb><rt>そ</rt></ruby>の名は空想樹。
+<ruby>其<rt>そ</rt></ruby>の名は空想樹。
  
 **Narration:**
-ただし、七つの<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>に落ちたソレとは些か違う。
+ただし、七つの<ruby>異聞帯<rt>ロストベルト</rt></ruby>に落ちたソレとは些か違う。
  
 **Narration:**
 云うなれば亜種なる空想樹。ルチフェロなりしサタンなる『異星の神』から離れ、
  
 **Narration:**
-悪僧の多重超過<ruby><rb>呪詛</rb><rt>じゅそ</rt></ruby>にて<ruby><rb>歪</rb><rt>ゆが</rt></ruby>み果てた空想の根。かつての<ruby><rb>旧</rb><rt>ふる</rt></ruby>き名、<ruby><rb>厭離穢土城</rb><rt>お ん り え ど じ ょ う</rt></ruby>！
+悪僧の多重超過<ruby>呪詛<rt>じゅそ</rt></ruby>にて<ruby>歪<rt>ゆが</rt></ruby>み果てた空想の根。かつての<ruby>旧<rt>ふる</rt></ruby>き名、<ruby>厭離穢土城<rt>お ん り え ど じ ょ う</rt></ruby>！
  
 **Narration:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なる新しき名を&mdash;
+<ruby>是<rt>これ</rt></ruby>なる新しき名を&mdash;
  
 **Narration:**
-&mdash;<ruby><rb>歪</rb><rt>ゆが</rt></ruby>み果てたる空想の根、<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>！
+&mdash;<ruby>歪<rt>ゆが</rt></ruby>み果てたる空想の根、<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>！
  
 **Narration:**
 皆が、空を見る。
  
 **Narration:**
-常ならざるモノを知る人々であった。<ruby><rb>洛内</rb><rt>らくない</rt></ruby>各所に<ruby><rb>跋扈</rb><rt>ば っ こ</rt></ruby>する妖物魔物を知る人々であった。
+常ならざるモノを知る人々であった。<ruby>洛内<rt>らくない</rt></ruby>各所に<ruby>跋扈<rt>ば っ こ</rt></ruby>する妖物魔物を知る人々であった。
  
 **Narration:**
 恐怖を、既に知るはずの人々だった。
@@ -17453,19 +17453,19 @@ We’re looking for our prey. Our Casters.
 <u>我を失った</u>。
  
 **Narration:**
-空に<ruby><rb>聳</rb><rt>そび</rt></ruby>える<ruby><rb>歪</rb><rt>ゆが</rt></ruby>みの果てを目にして、ただ叫んだ。我が子を抱いて震える者も、狂乱する者もいた。
+空に<ruby>聳<rt>そび</rt></ruby>える<ruby>歪<rt>ゆが</rt></ruby>みの果てを目にして、ただ叫んだ。我が子を抱いて震える者も、狂乱する者もいた。
  
 **Narration:**
-何もせず、立ち<ruby><rb>竦</rb><rt>すく</rt></ruby>む者もいた。
+何もせず、立ち<ruby>竦<rt>すく</rt></ruby>む者もいた。
  
 **Narration:**
 鬼の襲来にあってさえ、<u>逃げる</u>ことを忘れなかった人々が&mdash;
  
 **Narration:**
-あろう事か、恐怖の果てに<ruby><rb>茫然自失</rb><rt>ぼうぜんじしつ</rt></ruby>していたのだった。
+あろう事か、恐怖の果てに<ruby>茫然自失<rt>ぼうぜんじしつ</rt></ruby>していたのだった。
  
 **Narration:**
-恐るべきは亜種空想樹、恐るべきは<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>！
+恐るべきは亜種空想樹、恐るべきは<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>！
  
 **清子:**
 何……あれ……？
@@ -17498,7 +17498,7 @@ We’re looking for our prey. Our Casters.
 ……誰かと思えば、定子様の。
  
 **尊子:**
-随分と宮中から離れておいででしょうに、いまだに<ruby><rb>裳唐衣</rb><rt>もからぎぬ</rt></ruby>なぞ着ておられるのは何です、未練？
+随分と宮中から離れておいででしょうに、いまだに<ruby>裳唐衣<rt>もからぎぬ</rt></ruby>なぞ着ておられるのは何です、未練？
  
 **清子:**
 い、いーじゃん別に。この重さがクセになるんだって！
@@ -17516,13 +17516,13 @@ We’re looking for our prey. Our Casters.
 ンンンンン&mdash;
  
 **黄幡神・蘆屋道満:**
-ンン、何とも。気分のよい。至高の御座より見下ろすのは<ruby><rb>是</rb><rt>これ</rt></ruby>このようなものか！
+ンン、何とも。気分のよい。至高の御座より見下ろすのは<ruby>是<rt>これ</rt></ruby>このようなものか！
  
 **黄幡神・蘆屋道満:**
 悪くありません悪くありませんねえ！ンンはははははははははははははははははははははは！
  
 **黄幡神・蘆屋道満:**
-我が亜種空想樹！<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に在り！
+我が亜種空想樹！<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>、<ruby>此処<rt>こ　こ</rt></ruby>に在り！
  
 **黄幡神・蘆屋道満:**
 実に晴れやか也！さて、あとは&mdash;もう一息、ですねェ&mdash;
@@ -17534,19 +17534,19 @@ We’re looking for our prey. Our Casters.
 我がしもべ！我が贄！
  
 **黄幡神・蘆屋道満:**
-我が愛しき妖術師殿の<ruby><rb>骸</rb><rt>むくろ</rt></ruby>を越えて導きし、<ruby><rb>骸</rb><rt>むくろ</rt></ruby>のものども。
+我が愛しき妖術師殿の<ruby>骸<rt>むくろ</rt></ruby>を越えて導きし、<ruby>骸<rt>むくろ</rt></ruby>のものども。
  
 **黄幡神・蘆屋道満:**
 聖杯戦争管理者としての<u>我が令呪七画</u>を用い、いずれも、将神の業埋め込みし……
  
 **黄幡神・蘆屋道満:**
-…………<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の八神！　さまよえる魂！
+…………<ruby>骸<rt>むくろ</rt></ruby>の八神！　さまよえる魂！
  
 **黄幡神・蘆屋道満:**
 八将神たちよ！ 
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に！　集え！ 
+<ruby>此処<rt>こ　こ</rt></ruby>に！　集え！ 
  
 ## Section 9: Saisetsu Hyōbi (Volume One) 
  
@@ -17560,19 +17560,19 @@ We’re looking for our prey. Our Casters.
 ただ、雷が落ちた後の大地には二騎の魔があった。
  
 **Narration:**
-人ではない。<ruby><rb>正真正銘</rb><rt>しょうしんしょうめい</rt></ruby>の魔であった。
+人ではない。<ruby>正真正銘<rt>しょうしんしょうめい</rt></ruby>の魔であった。
  
 **Narration:**
-夜毎に<ruby><rb>彷徨</rb><rt>さまよ</rt></ruby>う化生の類とは格が違う。その証に、彼らが一歩踏み出すと悪霊は悶え霧散し、
+夜毎に<ruby>彷徨<rt>さまよ</rt></ruby>う化生の類とは格が違う。その証に、彼らが一歩踏み出すと悪霊は悶え霧散し、
  
 **Narration:**
-化生はただちに狂を発して自尽して果てた。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>までの魔、圧倒的な存在であった。
+化生はただちに狂を発して自尽して果てた。<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>までの魔、圧倒的な存在であった。
  
 **A：？？？:**
-<ruby><rb>歳殺神</rb><rt>さいせつじん</rt></ruby>、推参。
+<ruby>歳殺神<rt>さいせつじん</rt></ruby>、推参。
  
 **B：？？？:**
-<ruby><rb>豹尾神</rb><rt>ひょうびじん</rt></ruby>、推参。
+<ruby>豹尾神<rt>ひょうびじん</rt></ruby>、推参。
  
 **Narration:**
 鬼もかくやの魔であった。それが、何の術を用いる素振りもなく京に立つ&mdash;
@@ -17581,28 +17581,28 @@ We’re looking for our prey. Our Casters.
 有り得ざることだ。かの稀代の陰陽師たる安倍晴明が仕掛けし大結界、
  
 **Narration:**
-如何なる妖物魔物も破ること<ruby><rb>能</rb><rt>あた</rt></ruby>わず。しかし。
+如何なる妖物魔物も破ること<ruby>能<rt>あた</rt></ruby>わず。しかし。
  
 **検非違使たち:**
-おのれ化生！晴明殿の結界を真正面より破り、<ruby><rb>顕</rb><rt>あらわ</rt></ruby>れるとは……！
+おのれ化生！晴明殿の結界を真正面より破り、<ruby>顕<rt>あらわ</rt></ruby>れるとは……！
  
 **検非違使たち:**
-何奴！　<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>に直れ！
+何奴！　<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>に直れ！
  
 **歳殺神:**
 ……。……。
  
 **歳殺神:**
-我ら八将、<ruby><rb>骸</rb><rt>むくろ</rt></ruby>なれば言の葉は無意味。我ら八将、<ruby><rb>是</rb><rt>これ</rt></ruby>より<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門に<ruby><rb>聳</rb><rt>そび</rt></ruby>える妖樹へと参じるのみ。
+我ら八将、<ruby>骸<rt>むくろ</rt></ruby>なれば言の葉は無意味。我ら八将、<ruby>是<rt>これ</rt></ruby>より<ruby>朱雀<rt>す ざ く</rt></ruby>門に<ruby>聳<rt>そび</rt></ruby>える妖樹へと参じるのみ。
  
 **歳殺神:**
-何人も我らを阻むこと<ruby><rb>能</rb><rt>あた</rt></ruby>わず。
+何人も我らを阻むこと<ruby>能<rt>あた</rt></ruby>わず。
  
 **歳殺神:**
-<ruby><rb>退</rb><rt>ど</rt></ruby>け。我ら<ruby><rb>骸</rb><rt>むくろ</rt></ruby>なれど、無敵にして凶猛の刃である。
+<ruby>退<rt>ど</rt></ruby>け。我ら<ruby>骸<rt>むくろ</rt></ruby>なれど、無敵にして凶猛の刃である。
  
 **検非違使たち:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門に生じた妖樹……！あれなる大怪異を知る者どもか、貴様ら！
+<ruby>朱雀<rt>す ざ く</rt></ruby>門に生じた妖樹……！あれなる大怪異を知る者どもか、貴様ら！
  
 **検非違使たち:**
 ならば通さぬ！　通しはせぬ！素ッ首直ちに落とすのみよ！
@@ -17611,13 +17611,13 @@ We’re looking for our prey. Our Casters.
 ……凶猛だって云ってるのに、さ。
  
 **豹尾神:**
-話聞かないよねえ、<ruby><rb>人間</rb><rt>アンタ</rt></ruby>たちは昔から。すぐそうやって太刀を抜いて斬り付ける。
+話聞かないよねえ、<ruby>人間<rt>アンタ</rt></ruby>たちは昔から。すぐそうやって太刀を抜いて斬り付ける。
  
 **豹尾神:**
 まあ……
  
 **豹尾神:**
-<ruby><rb>此度</rb><rt>こたび</rt></ruby>は私もそっちの側だから、何をどう云えたことはないのだけど。
+<ruby>此度<rt>こたび</rt></ruby>は私もそっちの側だから、何をどう云えたことはないのだけど。
  
 **豹尾神:**
 まずは、首ひとつ。
@@ -17632,19 +17632,19 @@ We’re looking for our prey. Our Casters.
 太刀が……中空に……浮かぶ！？
  
 **検非違使たち:**
-武者だ！　武者を呼べ！羅城門跡を護りたる者はすべて<ruby><rb>此方</rb><rt>こちら</rt></ruby>へ急がせろ！
+武者だ！　武者を呼べ！羅城門跡を護りたる者はすべて<ruby>此方<rt>こちら</rt></ruby>へ急がせろ！
  
 **歳殺神:**
 ……。……。
  
 **歳殺神:**
-……<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門は今や地獄門。我らが<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>へ辿り着けば、<u>世は終わる</u>。
+……<ruby>朱雀<rt>す ざ く</rt></ruby>門は今や地獄門。我らが<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>へ辿り着けば、<u>世は終わる</u>。
  
 **歳殺神:**
-ならばせめて、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で直ちに首を<ruby><rb>刎</rb><rt>は</rt></ruby>ねてやるも慈悲か。
+ならばせめて、<ruby>此処<rt>こ　こ</rt></ruby>で直ちに首を<ruby>刎<rt>は</rt></ruby>ねてやるも慈悲か。
  
 **歳殺神:**
-慈悲深きことだ、<ruby><rb>豹尾神</rb><rt>ひょうびじん</rt></ruby>殿。
+慈悲深きことだ、<ruby>豹尾神<rt>ひょうびじん</rt></ruby>殿。
  
 **豹尾神:**
 冗談。
@@ -17656,7 +17656,7 @@ We’re looking for our prey. Our Casters.
 そうして&mdash;
  
 **Narration:**
-ほんの瞬きの間に、羅城門跡を護る<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>と武者のすべてが死した。
+ほんの瞬きの間に、羅城門跡を護る<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>と武者のすべてが死した。
  
 **Narration:**
 先だっての鬼の戯れとはまるで違う。血華が咲き乱れ、血肉、手足、首が乱れ飛ぶ。
@@ -17665,7 +17665,7 @@ We’re looking for our prey. Our Casters.
 動く者も、首が残っている者も、二騎の他には誰もいない。
  
 **Narration:**
-&mdash;<ruby><rb>其</rb><rt>そ</rt></ruby>は、<ruby><rb>赫</rb><rt>あか</rt></ruby>き地獄のさまであった。
+&mdash;<ruby>其<rt>そ</rt></ruby>は、<ruby>赫<rt>あか</rt></ruby>き地獄のさまであった。
  
 **--ARROW--**
  
@@ -17673,28 +17673,28 @@ We’re looking for our prey. Our Casters.
 申し上げる！申し上げる！
  
 **源氏郎等:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>の大路に怪異が<ruby><rb>顕</rb><rt>あらわ</rt></ruby>れてございます！<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>はじめ、お味方の討ち死に甚だ多し！
+<ruby>朱雀<rt>す ざ く</rt></ruby>の大路に怪異が<ruby>顕<rt>あらわ</rt></ruby>れてございます！<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>はじめ、お味方の討ち死に甚だ多し！
  
 **Sakata Kintoki:**
-おう、こっからも見えてらァ！<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門のあたりに随分とでけえ妖樹がまあ……
+おう、こっからも見えてらァ！<ruby>朱雀<rt>す ざ く</rt></ruby>門のあたりに随分とでけえ妖樹がまあ……
  
 **源氏郎等:**
 否、にて！
  
 **源氏郎等:**
-<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>たちが討たれしは、羅城門跡！<ruby><rb>歳殺神</rb><rt>さいせつじん</rt></ruby>、<ruby><rb>豹尾神</rb><rt>ひょうびじん</rt></ruby>を名乗りし魔の者が虚空より<ruby><rb>顕</rb><rt>あらわ</rt></ruby>れ、
+<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>たちが討たれしは、羅城門跡！<ruby>歳殺神<rt>さいせつじん</rt></ruby>、<ruby>豹尾神<rt>ひょうびじん</rt></ruby>を名乗りし魔の者が虚空より<ruby>顕<rt>あらわ</rt></ruby>れ、
  
 **源氏郎等:**
-<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>と武者の<ruby><rb>悉</rb><rt>ことごと</rt></ruby>くを<ruby><rb>鏖</rb><rt>みなごろし</rt></ruby>にした後、<ruby><rb>徒歩</rb><rt>かち</rt></ruby>にて大路を北上……
+<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>と武者の<ruby>悉<rt>ことごと</rt></ruby>くを<ruby>鏖<rt>みなごろし</rt></ruby>にした後、<ruby>徒歩<rt>かち</rt></ruby>にて大路を北上……
  
 **源氏郎等:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門の妖樹へと向かっておりまする！
+<ruby>朱雀<rt>す ざ く</rt></ruby>門の妖樹へと向かっておりまする！
  
 **Minamoto no Raikō:**
 ……化生が二匹、あれなる妖樹へと。
  
 **Danzo:**
-<ruby><rb>歳殺神</rb><rt>さいせつじん</rt></ruby>、<ruby><rb>豹尾神</rb><rt>ひょうびじん</rt></ruby>。いずれも陰陽道における神格です。
+<ruby>歳殺神<rt>さいせつじん</rt></ruby>、<ruby>豹尾神<rt>ひょうびじん</rt></ruby>。いずれも陰陽道における神格です。
  
 **Danzo:**
 それらが明確に実体を有して召喚される等とは、段蔵、ついぞ耳にしたことがありませぬ。
@@ -17706,7 +17706,7 @@ We’re looking for our prey. Our Casters.
 いいえ、残念ながら。
  
 **Watanabe no Tsuna:**
-では、<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門あたりに<ruby><rb>聳</rb><rt>そび</rt></ruby>える妖樹については。
+では、<ruby>朱雀<rt>す ざ く</rt></ruby>門あたりに<ruby>聳<rt>そび</rt></ruby>える妖樹については。
  
 **Medea Lily:**
 そちらも、私には……ただ、巨大な魔力を秘めた存在であるとだけ。
@@ -17729,10 +17729,10 @@ We’re looking for our prey. Our Casters.
 空想樹……そういや云ってたな、藤丸。
  
 **Sakata Kintoki:**
-アンタのいた<ruby><rb>処</rb><rt>ところ</rt></ruby>、オレたちの明日の先が 真っ白になっちまった後に落ちてきた、樹の怪物。
+アンタのいた<ruby>処<rt>ところ</rt></ruby>、オレたちの明日の先が 真っ白になっちまった後に落ちてきた、樹の怪物。
  
 **Sakata Kintoki:**
-ソイツが、<ruby><rb>洛内</rb><rt>らくない</rt></ruby>に<ruby><rb>聳</rb><rt>そび</rt></ruby>えちまうってのは……&mdash;
+ソイツが、<ruby>洛内<rt>らくない</rt></ruby>に<ruby>聳<rt>そび</rt></ruby>えちまうってのは……&mdash;
  
 **Sakata Kintoki:**
 ……。……。
@@ -17759,7 +17759,7 @@ We’re looking for our prey. Our Casters.
 私の術ではありません。ナーサリー・ライムのものでもありません。
  
 **Medea Lily:**
-念話とは異なる遠隔での<ruby><rb>意思疎通</rb><rt>い し そ つ う</rt></ruby>の術式、それも、恐らく翻訳の術式も組み込んである&mdash;
+念話とは異なる遠隔での<ruby>意思疎通<rt>い し そ つ う</rt></ruby>の術式、それも、恐らく翻訳の術式も組み込んである&mdash;
  
 **Watanabe no Tsuna:**
 では、紫式部殿の術式か。
@@ -17788,7 +17788,7 @@ We’re looking for our prey. Our Casters.
 源氏の人たちすぐ気配で察知するね……
  
 **Danzo:**
-は、まさしく。ワタシの<ruby><rb>感覚器</rb><rt>セ ン サ ー</rt></ruby>よりも凄まじい感知性能です。
+は、まさしく。ワタシの<ruby>感覚器<rt>セ ン サ ー</rt></ruby>よりも凄まじい感知性能です。
  
 
 ---
@@ -17834,16 +17834,16 @@ We’re looking for our prey. Our Casters.
 ……はい。
  
 **Fujiwara no Kaoriko:**
-急ぎ<ruby><rb>此方</rb><rt>こちら</rt></ruby>のお屋敷へ向かうべし、と、私は、内裏にて<u>知らせ</u>を受け取り……
+急ぎ<ruby>此方<rt>こちら</rt></ruby>のお屋敷へ向かうべし、と、私は、内裏にて<u>知らせ</u>を受け取り……
  
 **Fujiwara no Kaoriko:**
-<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>を、全力で走らせて参りました。
+<ruby>牛車<rt>ぎっしゃ</rt></ruby>を、全力で走らせて参りました。
  
 **Fujiwara no Kaoriko:**
 かと思えば……発ったばかりの内裏にて、あ、あの妖樹が！
  
 **Sakata Kintoki:**
-案ずることはねえさ、香子サン。<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は源氏屋敷、無双の武者がわんさといる<ruby><rb>処</rb><rt>ところ</rt></ruby>だ。
+案ずることはねえさ、香子サン。<ruby>此処<rt>こ　こ</rt></ruby>は源氏屋敷、無双の武者がわんさといる<ruby>処<rt>ところ</rt></ruby>だ。
  
 **Sakata Kintoki:**
 何も怖がらなくていいんだ。な。平気さ。
@@ -17858,7 +17858,7 @@ We’re looking for our prey. Our Casters.
 混ぜっ返すなっての。んで、だ&ndash;
  
 **Watanabe no Tsuna:**
-知らせ、とは。<ruby><rb>何方</rb><rt>どなた</rt></ruby>からの<ruby><rb>文</rb><rt>ふみ</rt></ruby>です。
+知らせ、とは。<ruby>何方<rt>どなた</rt></ruby>からの<ruby>文<rt>ふみ</rt></ruby>です。
  
 **Watanabe no Tsuna:**
 或いは、先刻浮かべてみせた術式と関係が？
@@ -17867,7 +17867,7 @@ We’re looking for our prey. Our Casters.
 はい。それは……
  
 **Fujiwara no Kaoriko:**
-安倍晴明様よりの、<ruby><rb>文</rb><rt>ふみ</rt></ruby>です。
+安倍晴明様よりの、<ruby>文<rt>ふみ</rt></ruby>です。
  
 **Sakata Kintoki:**
 ！
@@ -17896,10 +17896,10 @@ We’re looking for our prey. Our Casters.
 あ、この場合のすべてと云うのは、文字通りの全情報を意味しているので悪しからず。
  
 **空中の文字:**
-平安京は我が大結界の<ruby><rb>裡</rb><rt>うち</rt></ruby>なれば、我が屋敷の掃除具合以上に把握するというもの。
+平安京は我が大結界の<ruby>裡<rt>うち</rt></ruby>なれば、我が屋敷の掃除具合以上に把握するというもの。
  
 **空中の文字:**
-右京での些末事も左京での出来事も、内裏での<ruby><rb>権謀術数</rb><rt>けんぼうじゅっすう</rt></ruby>も、すべて聞いている。
+右京での些末事も左京での出来事も、内裏での<ruby>権謀術数<rt>けんぼうじゅっすう</rt></ruby>も、すべて聞いている。
  
 **空中の文字:**
 無論。藤原香子殿のお屋敷で行われた、金時と段蔵殿と藤丸、
@@ -17982,13 +17982,13 @@ We’re looking for our prey. Our Casters.
 だが、それはこの瞬間には重要な情報ではない。なので特段話すことでもなし。
  
 **空中の文字:**
-…………さて。今は、あの大<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>もといリンボの話をしましょう。
+…………さて。今は、あの大<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>もといリンボの話をしましょう。
  
 **Sakata Kintoki:**
 おう。
  
 **空中の文字:**
-大方予想が付いているだろうが、<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門の先、内裏に亜種空想樹を発生させたのは、
+大方予想が付いているだろうが、<ruby>朱雀<rt>す ざ く</rt></ruby>門の先、内裏に亜種空想樹を発生させたのは、
  
 **空中の文字:**
 アルターエゴ・リンボで間違いない。
@@ -18012,7 +18012,7 @@ We’re looking for our prey. Our Casters.
 哀れなる蘆屋道満とリンボの共同作業、という表現がより正確だろう。道満法師は何ともはや、
  
 **空中の文字:**
-自らの肉体の<ruby><rb>裡</rb><rt>うち</rt></ruby>側に潜む悪性情報という形態で 召喚されたアルターエゴ・リンボに悪事を耳打ちされ、
+自らの肉体の<ruby>裡<rt>うち</rt></ruby>側に潜む悪性情報という形態で 召喚されたアルターエゴ・リンボに悪事を耳打ちされ、
  
 **空中の文字:**
 哀れ、<u>魂を呑み込まれた</u>。
@@ -18033,13 +18033,13 @@ We’re looking for our prey. Our Casters.
 あの時点では悪性情報は表に出ていなかったし、それでは、英霊としての気配も感じ取れはしない。
  
 **空中の文字:**
-諸君が不覚を取ったというよりは、リンボが薄皮一枚程度に<ruby><rb>上手</rb><rt>うわて</rt></ruby>だったというだけです。
+諸君が不覚を取ったというよりは、リンボが薄皮一枚程度に<ruby>上手<rt>うわて</rt></ruby>だったというだけです。
  
 **空中の文字:**
 ともあれ奴は潜伏を中断した。これは、諸君が天覧聖杯戦争に抗った成果と言える。
  
 **Watanabe no Tsuna:**
-……では、あれなる妖樹。天覧の儀の後に<ruby><rb>顕</rb><rt>あらわ</rt></ruby>れるはずだった、と？
+……では、あれなる妖樹。天覧の儀の後に<ruby>顕<rt>あらわ</rt></ruby>れるはずだった、と？
  
 **空中の文字:**
 ようは、しびれを切らしたんだ。
@@ -18066,7 +18066,7 @@ We’re looking for our prey. Our Casters.
 ……。
  
 **Watanabe no Tsuna:**
-では、我ら<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>の願い云々。すべて釣り餌か。
+では、我ら<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>の願い云々。すべて釣り餌か。
  
 **Medea Lily:**
 綱さま……
@@ -18084,7 +18084,7 @@ We’re looking for our prey. Our Casters.
 だが奴は結局、想像を超えた諸君の働きに焦った。
  
 **空中の文字:**
-しびれを切らした。だから早々に亜種空想樹を<ruby><rb>顕</rb><rt>あらわ</rt></ruby>して、
+しびれを切らした。だから早々に亜種空想樹を<ruby>顕<rt>あらわ</rt></ruby>して、
  
 **空中の文字:**
 天覧聖杯戦争を強制中断！これまでと異なる手段で<u>英霊召喚を開始</u>した。
@@ -18095,7 +18095,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-<ruby><rb>歳殺神</rb><rt>さいせつじん</rt></ruby>、<ruby><rb>豹尾神</rb><rt>ひょうびじん</rt></ruby>は
+<ruby>歳殺神<rt>さいせつじん</rt></ruby>、<ruby>豹尾神<rt>ひょうびじん</rt></ruby>は
 
 ---
 
@@ -18125,7 +18125,7 @@ We’re looking for our prey. Our Casters.
 現在は二騎が現界し、平安京南端から北上している。
  
 **空中の文字:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門を越えて内裏へ至り、二騎は、亜種空想樹に自らの魂を捧げるつもりだ。
+<ruby>朱雀<rt>す ざ く</rt></ruby>門を越えて内裏へ至り、二騎は、亜種空想樹に自らの魂を捧げるつもりだ。
  
 **空中の文字:**
 天覧聖杯戦争を通じて亜種空想樹が獲得した 英霊の魂は四騎分だから&mdash;
@@ -18170,7 +18170,7 @@ We’re looking for our prey. Our Casters.
 ………………あー。ン～？
  
 **Watanabe no Tsuna:**
-将神に、<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門を越えさせてはならない。将神を、殺してはならない。
+将神に、<ruby>朱雀<rt>す ざ く</rt></ruby>門を越えさせてはならない。将神を、殺してはならない。
  
 **Watanabe no Tsuna:**
 そう云うことだな？晴明殿。
@@ -18185,7 +18185,7 @@ We’re looking for our prey. Our Casters.
 手加減の利く相手と思うべきではない。だが霊核を砕き、魂をあの妖樹に喰わせてはいけない。
  
 **空中の文字:**
-ならば彼らの魂！<ruby><rb>斃</rb><rt>たお</rt></ruby>したとしても散らさず、封ずる他になし！
+ならば彼らの魂！<ruby>斃<rt>たお</rt></ruby>したとしても散らさず、封ずる他になし！
  
 **空中の文字:**
 &mdash;香子。あれを！
@@ -18200,13 +18200,13 @@ We’re looking for our prey. Our Casters.
 たくさんの模様が描いてあるわ。ふふ、可愛いのね。
  
 **空中の文字:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ、<ruby><rb>泰山符</rb><rt>たいざんのふ</rt></ruby>！
+<ruby>是<rt>これ</rt></ruby>ぞ、<ruby>泰山符<rt>たいざんのふ</rt></ruby>！
  
 **空中の文字:**
 事態見越してこの安倍晴明が用意せし呪符、八枚！霊核砕いた後に、八将神に叩きつければ万事よし！
  
 **空中の文字:**
-八将神の魂は亜種空想樹へは届かず、いったんは<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>に留まる。
+八将神の魂は亜種空想樹へは届かず、いったんは<ruby>現世<rt>うつしよ</rt></ruby>に留まる。
  
 **空中の文字:**
 その間に、聖杯&mdash;すなわち亜種空想樹を破壊すれば、解決だ。
@@ -18272,7 +18272,7 @@ We’re looking for our prey. Our Casters.
 何と勇気ある子たちでしょう。綱。頼光も、目の醒める想いを得ましたよ。
  
 **Minamoto no Raikō:**
-分かりました。では、<ruby><rb>是</rb><rt>これ</rt></ruby>より[♂貴方/♀貴女]たちも源氏郎等と<ruby><rb>見做</rb><rt>みな</rt></ruby>しましょう！
+分かりました。では、<ruby>是<rt>これ</rt></ruby>より[♂貴方/♀貴女]たちも源氏郎等と<ruby>見做<rt>みな</rt></ruby>しましょう！
  
 **Minamoto no Raikō:**
 共に、京を護るのです。&mdash;源氏出陣！
@@ -18281,28 +18281,28 @@ We’re looking for our prey. Our Casters.
 源氏出陣！
  
 **Danzo:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>大路を中心に怪異が多数、出現中！
+<ruby>朱雀<rt>す ざ く</rt></ruby>大路を中心に怪異が多数、出現中！
  
 **Danzo:**
-式符によってリンボに操られた、恐らくは<ruby><rb>式神</rb><rt>使い魔</rt></ruby>の類であるものと予想されます。
+式符によってリンボに操られた、恐らくは<ruby>式神<rt>使い魔</rt></ruby>の類であるものと予想されます。
  
 **Danzo:**
-お味方の源氏武者および<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>たちが それぞれに集い、立ち向かっておりますが、劣勢！
+お味方の源氏武者および<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>たちが それぞれに集い、立ち向かっておりますが、劣勢！
  
 **Danzo:**
-と云うのも、<ruby><rb>是</rb><rt>これ</rt></ruby>なる式神ども&mdash;
+と云うのも、<ruby>是<rt>これ</rt></ruby>なる式神ども&mdash;
  
 **源氏郎等:**
-申し上げる！　<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>！
+申し上げる！　<ruby>棟梁<rt>とうりょう</rt></ruby>！
  
 **源氏郎等:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なる怪異、何処かの陰陽師の操る式神！なれど、斬ろうと焼こうとどうあっても<u>死にませぬ</u>！
+<ruby>是<rt>これ</rt></ruby>なる怪異、何処かの陰陽師の操る式神！なれど、斬ろうと焼こうとどうあっても<u>死にませぬ</u>！
  
 **源氏郎等:**
-まるで死に果てぬ<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の如き！
+まるで死に果てぬ<ruby>骸<rt>むくろ</rt></ruby>の如き！
  
 **Minamoto no Raikō:**
-<ruby><rb>骸</rb><rt>むくろ</rt></ruby>であろうと鬼であろうと構いはしません。砕き蹴散らし、進むまで！
+<ruby>骸<rt>むくろ</rt></ruby>であろうと鬼であろうと構いはしません。砕き蹴散らし、進むまで！
  
 **Minamoto no Raikō:**
 源氏進軍！源氏進軍！
@@ -18348,10 +18348,10 @@ We’re looking for our prey. Our Casters.
 然り。霊核を別保存させたがゆえの、疑似的な不死！
  
 **Danzo:**
-下総国での戦いでは、かの武蔵殿の妙技と 村正殿の名刀を併せて<ruby><rb>漸</rb><rt>ようや</rt></ruby>く届いたと聞きますが……！
+下総国での戦いでは、かの武蔵殿の妙技と 村正殿の名刀を併せて<ruby>漸<rt>ようや</rt></ruby>く届いたと聞きますが……！
  
 **Danzo:**
-晴明殿から渡された符は八枚きり！如何にして<ruby><rb>屠</rb><rt>ほふ</rt></ruby>るか！
+晴明殿から渡された符は八枚きり！如何にして<ruby>屠<rt>ほふ</rt></ruby>るか！
  
 **Watanabe no Tsuna:**
 邪魔だな。
@@ -18360,7 +18360,7 @@ We’re looking for our prey. Our Casters.
 ！
  
 **Danzo:**
-敵性反応、完全に消滅……！<ruby><rb>是</rb><rt>これ</rt></ruby>は……！
+敵性反応、完全に消滅……！<ruby>是<rt>これ</rt></ruby>は……！
  
 **Sakata Kintoki:**
 ぜえりゃ！！ 
@@ -18406,7 +18406,7 @@ We’re looking for our prey. Our Casters.
 おおおッ！
  
 **Danzo:**
-敵性反応消滅！<ruby><rb>是</rb><rt>これ</rt></ruby>にてリンボの配置したと<ruby><rb>思</rb><rt>おぼ</rt></ruby>しき式神、全滅！
+敵性反応消滅！<ruby>是<rt>これ</rt></ruby>にてリンボの配置したと<ruby>思<rt>おぼ</rt></ruby>しき式神、全滅！
  
 **Danzo:**
 そして前方！二騎の高魔力反応。
@@ -18415,13 +18415,13 @@ We’re looking for our prey. Our Casters.
 どうかご注意ください、皆さま。まず間違いなく安倍晴明殿が仰った、新たな英霊……
  
 **Danzo:**
-八将神が二騎！<ruby><rb>歳殺神</rb><rt>さいせつじん</rt></ruby>および<ruby><rb>豹尾神</rb><rt>ひょうびじん</rt></ruby>！
+八将神が二騎！<ruby>歳殺神<rt>さいせつじん</rt></ruby>および<ruby>豹尾神<rt>ひょうびじん</rt></ruby>！
  
 **歳殺神:**
-<ruby><rb>骸</rb><rt>むくろ</rt></ruby>名を、呼ばれたな。
+<ruby>骸<rt>むくろ</rt></ruby>名を、呼ばれたな。
  
 **豹尾神:**
-……はあ。<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>の御門まであと少しだって云うのに。
+……はあ。<ruby>朱雀<rt>す ざ く</rt></ruby>の御門まであと少しだって云うのに。
  
 **豹尾神:**
 ああ、成る程。英霊が何騎かいる。
@@ -18439,10 +18439,10 @@ We’re looking for our prey. Our Casters.
 精強にして勇壮なる平安の武者たちよ、散れ。何者も我らの歩みは止められぬ。
  
 **歳殺神:**
-&mdash;我が<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の<ruby><rb>忌名</rb><rt>いみな</rt></ruby>、<ruby><rb>歳殺神</rb><rt>さいせつじん</rt></ruby>・俵藤太。&mdash;貴様らの死である。
+&mdash;我が<ruby>骸<rt>むくろ</rt></ruby>の<ruby>忌名<rt>いみな</rt></ruby>、<ruby>歳殺神<rt>さいせつじん</rt></ruby>・俵藤太。&mdash;貴様らの死である。
  
 **豹尾神:**
-&mdash;我が<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の<ruby><rb>忌名</rb><rt>いみな</rt></ruby>、<ruby><rb>豹尾神</rb><rt>ひょうびじん</rt></ruby>・鈴鹿御前。&mdash;死にたいなら殺してあげる。
+&mdash;我が<ruby>骸<rt>むくろ</rt></ruby>の<ruby>忌名<rt>いみな</rt></ruby>、<ruby>豹尾神<rt>ひょうびじん</rt></ruby>・鈴鹿御前。&mdash;死にたいなら殺してあげる。
  
 ## Section 10: Saisetsu Hyōbi (Volume Two) 
  
@@ -18450,19 +18450,19 @@ We’re looking for our prey. Our Casters.
 精強にして勇壮なる平安の武者たちよ、散れ。何者も我らの歩みは止められぬ。
  
 **歳殺神・俵藤太:**
-&mdash;我が<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の<ruby><rb>忌名</rb><rt>いみな</rt></ruby>、<ruby><rb>歳殺神</rb><rt>さいせつじん</rt></ruby>・俵藤太。&mdash;貴様らの死である。
+&mdash;我が<ruby>骸<rt>むくろ</rt></ruby>の<ruby>忌名<rt>いみな</rt></ruby>、<ruby>歳殺神<rt>さいせつじん</rt></ruby>・俵藤太。&mdash;貴様らの死である。
  
 **豹尾神・鈴鹿御前:**
-&mdash;我が<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の<ruby><rb>忌名</rb><rt>いみな</rt></ruby>、<ruby><rb>豹尾神</rb><rt>ひょうびじん</rt></ruby>・鈴鹿御前。&mdash;死にたいなら殺してあげる。
+&mdash;我が<ruby>骸<rt>むくろ</rt></ruby>の<ruby>忌名<rt>いみな</rt></ruby>、<ruby>豹尾神<rt>ひょうびじん</rt></ruby>・鈴鹿御前。&mdash;死にたいなら殺してあげる。
  
 **豹尾神・鈴鹿御前:**
 ひい、ふう、みい……
  
 **豹尾神・鈴鹿御前:**
-キャスター二騎にアサシン一騎、武者が三匹に<ruby><rb>餓鬼</rb><rt>ガ　キ</rt></ruby>が一匹。
+キャスター二騎にアサシン一騎、武者が三匹に<ruby>餓鬼<rt>ガ　キ</rt></ruby>が一匹。
  
 **豹尾神・鈴鹿御前:**
-あははははは。何ソレ&mdash;我ら八将神が二騎、止められると<ruby><rb>傲</rb><rt>おご</rt></ruby>ったってワケ？
+あははははは。何ソレ&mdash;我ら八将神が二騎、止められると<ruby>傲<rt>おご</rt></ruby>ったってワケ？
  
 ---
 
@@ -18489,19 +18489,19 @@ We’re looking for our prey. Our Casters.
 ……………………何？
  
 **Minamoto no Raikō:**
-そうですか。英霊とは<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>なもの。
+そうですか。英霊とは<ruby>斯様<rt>か よ う</rt></ruby>なもの。
  
 **Minamoto no Raikō:**
 異境異界の術者のみしか知らぬ私たちには、ついぞ実感なきものでありましたが……
  
 **Minamoto no Raikō:**
-伝説として語られる、<ruby><rb>古強者</rb><rt>ふるつわもの</rt></ruby>&mdash;
+伝説として語られる、<ruby>古強者<rt>ふるつわもの</rt></ruby>&mdash;
  
 **Minamoto no Raikō:**
-<ruby><rb>大百足</rb><rt>おおむかで</rt></ruby>の大怪異殺しにして坂東の乱平定の<ruby><rb>要</rb><rt>かなめ</rt></ruby>、藤原秀郷殿。別名を俵藤太。
+<ruby>大百足<rt>おおむかで</rt></ruby>の大怪異殺しにして坂東の乱平定の<ruby>要<rt>かなめ</rt></ruby>、藤原秀郷殿。別名を俵藤太。
  
 **Minamoto no Raikō:**
-第四天魔王の娘御にして数多の大鬼退治の<ruby><rb>要</rb><rt>かなめ</rt></ruby>、鈴鹿御前殿。別名を<ruby><rb>立烏帽子</rb><rt>た て え ぼ し</rt></ruby>。
+第四天魔王の娘御にして数多の大鬼退治の<ruby>要<rt>かなめ</rt></ruby>、鈴鹿御前殿。別名を<ruby>立烏帽子<rt>た て え ぼ し</rt></ruby>。
  
 **Minamoto no Raikō:**
 ……英霊。すなわち、我ら人の歩みそのもの！
@@ -18513,13 +18513,13 @@ We’re looking for our prey. Our Casters.
 偉業成したる英雄、英傑の現し身こそが……！
  
 **Danzo:**
-<ruby><rb>大百足</rb><rt>おおむかで</rt></ruby>殺しの俵藤太！天魔の姫にして宝剣使いたる鈴鹿御前！
+<ruby>大百足<rt>おおむかで</rt></ruby>殺しの俵藤太！天魔の姫にして宝剣使いたる鈴鹿御前！
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>は……<ruby><rb>是</rb><rt>これ</rt></ruby>なる大戦力！計測魔力量、甚だ大！
+<ruby>是<rt>これ</rt></ruby>は……<ruby>是<rt>これ</rt></ruby>なる大戦力！計測魔力量、甚だ大！
  
 **Danzo:**
-源頼光殿、渡辺綱殿、坂田金時殿、<ruby><rb>是</rb><rt>これ</rt></ruby>なる最強の平安武者たちが全力を以てして、
+源頼光殿、渡辺綱殿、坂田金時殿、<ruby>是<rt>これ</rt></ruby>なる最強の平安武者たちが全力を以てして、
  
 **Danzo:**
 尚も実力差がある程の強敵にて！マスター！　正面きっての激突は下策と心得まする！
@@ -18537,10 +18537,10 @@ We’re looking for our prey. Our Casters.
 ……ほう。
  
 **Minamoto no Raikō:**
-最後に立っていればよい&mdash;勝てばそれでよい、と云う<ruby><rb>戦</rb><rt>いくさ</rt></ruby>であれば、
+最後に立っていればよい&mdash;勝てばそれでよい、と云う<ruby>戦<rt>いくさ</rt></ruby>であれば、
  
 **Minamoto no Raikō:**
-ええ。幾らでも転進するところではありますが、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>の戦場は京。最も栄えたる都、人界の<ruby><rb>要</rb><rt>かなめ</rt></ruby>。
+ええ。幾らでも転進するところではありますが、<ruby>此処<rt>こ　こ</rt></ruby>の戦場は京。最も栄えたる都、人界の<ruby>要<rt>かなめ</rt></ruby>。
  
 **Minamoto no Raikō:**
 我らが僅かなりとも後ろに退かば、京は落ち、人界廃れ、武者は外道へと落ちましょう。
@@ -18558,13 +18558,13 @@ We’re looking for our prey. Our Casters.
 武者が武者たる所以はご存じですか？
  
 **Minamoto no Raikō:**
-日頃、太刀を<ruby><rb>佩</rb><rt>は</rt></ruby>き、槍を構え、武技を磨く。すべて、すべて……
+日頃、太刀を<ruby>佩<rt>は</rt></ruby>き、槍を構え、武技を磨く。すべて、すべて……
  
 **Minamoto no Raikō:**
 すべては常ならざる死地がため！&mdash;綱。金時！
  
 **Watanabe no Tsuna:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に。
+<ruby>此処<rt>こ　こ</rt></ruby>に。
  
 **Sakata Kintoki:**
 おうともよ！
@@ -18576,10 +18576,10 @@ We’re looking for our prey. Our Casters.
 間違いなく強敵だろうさ！だがな、段蔵サン！
  
 **Sakata Kintoki:**
-あろうことか迷って<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>に出た上に、リンボあたりの外道に操られた身となりゃ話は別だ。
+あろうことか迷って<ruby>現世<rt>うつしよ</rt></ruby>に出た上に、リンボあたりの外道に操られた身となりゃ話は別だ。
  
 **Sakata Kintoki:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で！　止めるぜ！
+<ruby>此処<rt>こ　こ</rt></ruby>で！　止めるぜ！
  
 **Sakata Kintoki:**
 &mdash;源氏進軍、源氏進軍だ！
@@ -18597,10 +18597,10 @@ We’re looking for our prey. Our Casters.
 ……承知！
  
 **歳殺神・俵藤太:**
-我らの勇名が響く此の地、此の時代ならば意気を<ruby><rb>挫</rb><rt>くじ</rt></ruby>けるかとも想ったが……
+我らの勇名が響く此の地、此の時代ならば意気を<ruby>挫<rt>くじ</rt></ruby>けるかとも想ったが……
  
 **歳殺神・俵藤太:**
-流石は武辺者、否！武士<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>たる源氏の武者よ！
+流石は武辺者、否！武士<ruby>棟梁<rt>とうりょう</rt></ruby>たる源氏の武者よ！
  
 **歳殺神・俵藤太:**
 では、お手並み拝見といこう&mdash;鈴鹿御前！
@@ -18609,7 +18609,7 @@ We’re looking for our prey. Our Casters.
 かしこまり。
  
 **豹尾神・鈴鹿御前:**
-音に聞こえし<ruby><rb>大通連</rb><rt>だいとうれん</rt></ruby>、当世の武者の頂点が何処まで<ruby><rb>捌</rb><rt>さば</rt></ruby>けるモノか、
+音に聞こえし<ruby>大通連<rt>だいとうれん</rt></ruby>、当世の武者の頂点が何処まで<ruby>捌<rt>さば</rt></ruby>けるモノか、
  
 **豹尾神・鈴鹿御前:**
 &mdash;確かめる！
@@ -18644,13 +18644,13 @@ We’re looking for our prey. Our Casters.
 ええ。金時。
  
 **Minamoto no Raikō:**
-貴方の云う通りです。<ruby><rb>正真正銘</rb><rt>しょうしんしょうめい</rt></ruby>の英雄、英傑と<ruby><rb>謳</rb><rt>うた</rt></ruby>われし方々が……
+貴方の云う通りです。<ruby>正真正銘<rt>しょうしんしょうめい</rt></ruby>の英雄、英傑と<ruby>謳<rt>うた</rt></ruby>われし方々が……
  
 **Minamoto no Raikō:**
 なぜ、世を乱す大悪に肩入れするのでしょう。
  
 **Minamoto no Raikō:**
-リンボなる者の操る術、<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>までに力強きモノか？
+リンボなる者の操る術、<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>までに力強きモノか？
  
 **Minamoto no Raikō:**
 人の想い。貴方がたの想いが、悪逆に屈するなどとは私には到底考えられない。
@@ -18677,16 +18677,16 @@ We’re looking for our prey. Our Casters.
 そして何より&mdash;我ら二騎。
  
 **歳殺神・俵藤太:**
-既に、<ruby><rb>骸</rb><rt>むくろ</rt></ruby>にて候。
+既に、<ruby>骸<rt>むくろ</rt></ruby>にて候。
  
 **Minamoto no Raikō:**
-<ruby><rb>骸</rb><rt>むくろ</rt></ruby>……
+<ruby>骸<rt>むくろ</rt></ruby>……
  
 **歳殺神・俵藤太:**
-<ruby><rb>骸</rb><rt>むくろ</rt></ruby>は想わぬ。<ruby><rb>骸</rb><rt>むくろ</rt></ruby>は願わぬ。
+<ruby>骸<rt>むくろ</rt></ruby>は想わぬ。<ruby>骸<rt>むくろ</rt></ruby>は願わぬ。
  
 **歳殺神・俵藤太:**
-<ruby><rb>骸</rb><rt>むくろ</rt></ruby>に、既に<u>こころ</u>はない。定められたるままに荒ぶるより他に道はなし&mdash;
+<ruby>骸<rt>むくろ</rt></ruby>に、既に<u>こころ</u>はない。定められたるままに荒ぶるより他に道はなし&mdash;
  
 ---
 
@@ -18706,7 +18706,7 @@ We’re looking for our prey. Our Casters.
 些か話しすぎたな。では、参る。
  
 **歳殺神・俵藤太:**
-&mdash;<ruby><rb>南無八幡</rb><rt>な む は ち ま ん</rt></ruby>！
+&mdash;<ruby>南無八幡<rt>な む は ち ま ん</rt></ruby>！
  
 **Sakata Kintoki:**
 ……ッ！
@@ -18721,28 +18721,28 @@ We’re looking for our prey. Our Casters.
 ……ッ！
  
 **豹尾神・鈴鹿御前:**
-まっとうな英霊ならいざ知らず、私らは既にその<ruby><rb>骸</rb><rt>むくろ</rt></ruby>。
+まっとうな英霊ならいざ知らず、私らは既にその<ruby>骸<rt>むくろ</rt></ruby>。
  
 **豹尾神・鈴鹿御前:**
-言の葉は飾り。想いも、願いも、こころもすべては<ruby><rb>泡沫</rb><rt>うたかた</rt></ruby>の幻！
+言の葉は飾り。想いも、願いも、こころもすべては<ruby>泡沫<rt>うたかた</rt></ruby>の幻！
  
 **豹尾神・鈴鹿御前:**
-あらゆるすべてを<ruby><rb>蹂躙</rb><rt>じゅうりん</rt></ruby>し、殺戮し、破壊する絡繰！
+あらゆるすべてを<ruby>蹂躙<rt>じゅうりん</rt></ruby>し、殺戮し、破壊する絡繰！
  
 **豹尾神・鈴鹿御前:**
 問うな！　語るな！我らの名に惑う者、死して散るのみと心得よ！
  
 **豹尾神・鈴鹿御前:**
-<ruby><rb>田村麻呂</rb><rt>あ　の　人</rt></ruby>の<ruby><rb>佩</rb><rt>は</rt></ruby>いた鬼切を振るうなら、尚更ッ！
+<ruby>田村麻呂<rt>あ　の　人</rt></ruby>の<ruby>佩<rt>は</rt></ruby>いた鬼切を振るうなら、尚更ッ！
  
 **豹尾神・鈴鹿御前:**
-草紙枕を紐解けば、音に聞こえし<ruby><rb>大通連</rb><rt>だいとうれん</rt></ruby>！
+草紙枕を紐解けば、音に聞こえし<ruby>大通連<rt>だいとうれん</rt></ruby>！
  
 **豹尾神・鈴鹿御前:**
-いらかの如く八雲立ち、群がる悪鬼を<ruby><rb>雀刺</rb><rt>すずめざ</rt></ruby>し。<ruby><rb>文殊智剣</rb><rt>もんじゅちけん</rt></ruby><ruby><rb>大神通</rb><rt>だいしんとう</rt></ruby>&mdash;
+いらかの如く八雲立ち、群がる悪鬼を<ruby>雀刺<rt>すずめざ</rt></ruby>し。<ruby>文殊智剣<rt>もんじゅちけん</rt></ruby><ruby>大神通<rt>だいしんとう</rt></ruby>&mdash;
  
 **豹尾神・鈴鹿御前:**
-&mdash;『<ruby><rb>斬奸発破</rb><rt>ざんかんはっぱ</rt></ruby><ruby><rb>天鬼雨</rb><rt>てんきあめ</rt></ruby>』！
+&mdash;『<ruby>斬奸発破<rt>ざんかんはっぱ</rt></ruby><ruby>天鬼雨<rt>てんきあめ</rt></ruby>』！
  
 **Watanabe no Tsuna:**
 おおおおッ！
@@ -18751,22 +18751,22 @@ We’re looking for our prey. Our Casters.
 ……呆気ない。
  
 **豹尾神・鈴鹿御前:**
-その程度か、平安武者！都の守護を<ruby><rb>謳</rb><rt>うた</rt></ruby>おうと鬼の剣さえ弾けぬと見える！
+その程度か、平安武者！都の守護を<ruby>謳<rt>うた</rt></ruby>おうと鬼の剣さえ弾けぬと見える！
  
 **豹尾神・鈴鹿御前:**
 ……<u>だらしない</u>じゃん。
  
 **豹尾神・鈴鹿御前:**
-都！　衆生の生きる<ruby><rb>処</rb><rt>ところ</rt></ruby>！<ruby><rb>田村麻呂</rb><rt>あ　　の　　人</rt></ruby>が護ろうとした日の本最大の人界！
+都！　衆生の生きる<ruby>処<rt>ところ</rt></ruby>！<ruby>田村麻呂<rt>あ　　の　　人</rt></ruby>が護ろうとした日の本最大の人界！
  
 **豹尾神・鈴鹿御前:**
-武を、継いだんでしょう？刀を、<ruby><rb>佩</rb><rt>は</rt></ruby>いてんでしょう？
+武を、継いだんでしょう？刀を、<ruby>佩<rt>は</rt></ruby>いてんでしょう？
  
 **豹尾神・鈴鹿御前:**
-ならば<ruby><rb>斃</rb><rt>たお</rt></ruby>れるな！脚なくば、太刀を地に刺して立ち上がれ！
+ならば<ruby>斃<rt>たお</rt></ruby>れるな！脚なくば、太刀を地に刺して立ち上がれ！
  
 **豹尾神・鈴鹿御前:**
-たかが<ruby><rb>骸</rb><rt>むくろ</rt></ruby>ごときに後れを取ってんじゃないわよ！
+たかが<ruby>骸<rt>むくろ</rt></ruby>ごときに後れを取ってんじゃないわよ！
  
 **豹尾神・鈴鹿御前:**
 それでも、あの人の後継……
@@ -18778,13 +18778,13 @@ We’re looking for our prey. Our Casters.
 鈴鹿御前。
  
 **歳殺神・俵藤太:**
-<ruby><rb>骸</rb><rt>むくろ</rt></ruby>と化して尚も血涙流すその誇りたるや、見事である。
+<ruby>骸<rt>むくろ</rt></ruby>と化して尚も血涙流すその誇りたるや、見事である。
  
 **歳殺神・俵藤太:**
 拙者、いたく感じ入ったぞ。
  
 **歳殺神・俵藤太:**
-こころなき<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の胸が何やら痛む。はは、何とも異なこと。
+こころなき<ruby>骸<rt>むくろ</rt></ruby>の胸が何やら痛む。はは、何とも異なこと。
  
 **豹尾神・鈴鹿御前:**
 ……藤太。
@@ -18799,13 +18799,13 @@ We’re looking for our prey. Our Casters.
 よく喋るし、よく笑う。……目ェ赤くなかったら佳い男だろうにさ。
  
 **歳殺神・俵藤太:**
-そう云ってくれるか、この<ruby><rb>吾</rb><rt>オレ</rt></ruby>を。
+そう云ってくれるか、この<ruby>吾<rt>オレ</rt></ruby>を。
  
 **歳殺神・俵藤太:**
-&mdash;ならば<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は男を見せねばならんだろうな。
+&mdash;ならば<ruby>此処<rt>こ　こ</rt></ruby>は男を見せねばならんだろうな。
  
 **歳殺神・俵藤太:**
-付き合ってくれるか、<ruby><rb>立烏帽子</rb><rt>た て え ぼ し</rt></ruby>殿。
+付き合ってくれるか、<ruby>立烏帽子<rt>た て え ぼ し</rt></ruby>殿。
  
 **豹尾神・鈴鹿御前:**
 内容次第。具体的には？
@@ -18862,7 +18862,7 @@ We’re looking for our prey. Our Casters.
 どうだい、兄さん！
  
 **Danzo:**
-（<ruby><rb>是</rb><rt>これ</rt></ruby>は金時殿の、挑発！）
+（<ruby>是<rt>これ</rt></ruby>は金時殿の、挑発！）
  
 **Danzo:**
 （一切の小細工なし！　正面きっての双方の激突、ただひとつを狙うモノ！）
@@ -18871,7 +18871,7 @@ We’re looking for our prey. Our Casters.
 （しかしそれとて……）
  
 **Danzo:**
-（<ruby><rb>大百足</rb><rt>おおむかで</rt></ruby>殺しの大英雄と天魔の姫を前に、　果たして我ら、見事、撃破を為せるかどうか）
+（<ruby>大百足<rt>おおむかで</rt></ruby>殺しの大英雄と天魔の姫を前に、　果たして我ら、見事、撃破を為せるかどうか）
  
 **歳殺神・俵藤太:**
 聞いたな、鈴鹿。
@@ -18883,22 +18883,22 @@ We’re looking for our prey. Our Casters.
 <u>足踏みはここで止めだ</u>。
  
 **歳殺神・俵藤太:**
-我らは既に<ruby><rb>骸</rb><rt>むくろ</rt></ruby>なれば、せめて、全力全霊を以て明日への導きとならん。
+我らは既に<ruby>骸<rt>むくろ</rt></ruby>なれば、せめて、全力全霊を以て明日への導きとならん。
  
 **豹尾神・鈴鹿御前:**
 …………あはは。
  
 **豹尾神・鈴鹿御前:**
-それって結局、<ruby><rb>鏖</rb><rt>みなごろし</rt></ruby>にするだけじゃん。なぁにが導きだか、意地が悪いよ藤太。
+それって結局、<ruby>鏖<rt>みなごろし</rt></ruby>にするだけじゃん。なぁにが導きだか、意地が悪いよ藤太。
  
 **歳殺神・俵藤太:**
-さてどうかな。油断は禁物、小物と見れば足を<ruby><rb>掬</rb><rt>すく</rt></ruby>われるぞ？
+さてどうかな。油断は禁物、小物と見れば足を<ruby>掬<rt>すく</rt></ruby>われるぞ？
  
 **歳殺神・俵藤太:**
 さあ全力だ、全霊だ。思い返せ鈴鹿御前。それこそ、我らの生きた世だ！
  
 **歳殺神・俵藤太:**
-未来もまた同じく。<ruby><rb>我ら</rb><rt>過 去</rt></ruby>を超えるは、明日のさだめ！
+未来もまた同じく。<ruby>我ら<rt>過 去</rt></ruby>を超えるは、明日のさだめ！
  
 **歳殺神・俵藤太:**
 ならば、明日の力に賭けるのも悪くない！
@@ -18961,19 +18961,19 @@ We’re looking for our prey. Our Casters.
 死合舞台！
  
 **Watanabe no Tsuna:**
-天覧聖杯戦争なき今に、<ruby><rb>是</rb><rt>これ</rt></ruby>なる場を用いるか！
+天覧聖杯戦争なき今に、<ruby>是<rt>これ</rt></ruby>なる場を用いるか！
  
 **歳殺神・俵藤太:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ、敗北せし英霊の魂喰らう辺獄の血戦地！&mdash;<ruby><rb>昏</rb><rt>くら</rt></ruby>き太陽戴きし、<ruby><rb>其</rb><rt>そ</rt></ruby>の名を天覧死合舞台！
+<ruby>是<rt>これ</rt></ruby>ぞ、敗北せし英霊の魂喰らう辺獄の血戦地！&mdash;<ruby>昏<rt>くら</rt></ruby>き太陽戴きし、<ruby>其<rt>そ</rt></ruby>の名を天覧死合舞台！
  
 **歳殺神・俵藤太:**
-我が<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の<ruby><rb>忌名</rb><rt>いみな</rt></ruby>、<ruby><rb>歳殺神</rb><rt>さいせつじん</rt></ruby>・俵藤太！我が強弓、我が一矢、貴様らの道を<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にて閉ざす！
+我が<ruby>骸<rt>むくろ</rt></ruby>の<ruby>忌名<rt>いみな</rt></ruby>、<ruby>歳殺神<rt>さいせつじん</rt></ruby>・俵藤太！我が強弓、我が一矢、貴様らの道を<ruby>此処<rt>こ　こ</rt></ruby>にて閉ざす！
  
 **豹尾神・鈴鹿御前:**
-我が<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の<ruby><rb>忌名</rb><rt>いみな</rt></ruby>、<ruby><rb>豹尾神</rb><rt>ひょうびじん</rt></ruby>・鈴鹿御前！我が大通二五〇の刃、貴様たちの道をたちまち塞がん！
+我が<ruby>骸<rt>むくろ</rt></ruby>の<ruby>忌名<rt>いみな</rt></ruby>、<ruby>豹尾神<rt>ひょうびじん</rt></ruby>・鈴鹿御前！我が大通二五〇の刃、貴様たちの道をたちまち塞がん！
  
 **歳殺神・俵藤太:**
-鬼神よ<ruby><rb>嗤</rb><rt>わら</rt></ruby>え！太陽よ<ruby><rb>耀</rb><rt>かがや</rt></ruby>け！
+鬼神よ<ruby>嗤<rt>わら</rt></ruby>え！太陽よ<ruby>耀<rt>かがや</rt></ruby>け！
  
 **歳殺神・俵藤太:**
 さあ、己が明日のため！&mdash;今こそ、貴様らの力を見せるが良いぞ！
@@ -18982,7 +18982,7 @@ We’re looking for our prey. Our Casters.
 覚悟には、覚悟を以て応じるまで。綱！
  
 **Watanabe no Tsuna:**
-御意。我らが命、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にて捨て時と心得る。
+御意。我らが命、<ruby>此処<rt>こ　こ</rt></ruby>にて捨て時と心得る。
  
 **Watanabe no Tsuna:**
 &mdash;参るッ！
@@ -18993,13 +18993,13 @@ We’re looking for our prey. Our Casters.
 おおおおおおおおッ！
  
 **歳殺神・俵藤太:**
-<ruby><rb>南無八幡大菩薩</rb><rt>な む は ち ま ん だ い ぼ さ つ</rt></ruby>……！願わくば、この矢を届け給え！
+<ruby>南無八幡大菩薩<rt>な む は ち ま ん だ い ぼ さ つ</rt></ruby>……！願わくば、この矢を届け給え！
  
 **豹尾神・鈴鹿御前:**
-草紙枕を紐解けば、音に聞こえし<ruby><rb>大通連</rb><rt>だいとうれん</rt></ruby>！
+草紙枕を紐解けば、音に聞こえし<ruby>大通連<rt>だいとうれん</rt></ruby>！
  
 **豹尾神・鈴鹿御前:**
-いらかの如く八雲立ち、群がる悪鬼を<ruby><rb>雀刺</rb><rt>すずめざ</rt></ruby>し、<ruby><rb>文殊智剣</rb><rt>もんじゅちけん</rt></ruby><ruby><rb>大神通</rb><rt>だいしんとう</rt></ruby>&mdash;
+いらかの如く八雲立ち、群がる悪鬼を<ruby>雀刺<rt>すずめざ</rt></ruby>し、<ruby>文殊智剣<rt>もんじゅちけん</rt></ruby><ruby>大神通<rt>だいしんとう</rt></ruby>&mdash;
  
 **歳殺神・俵藤太:**
 &mdash;『八幡祈願・大妖……&mdash;
@@ -19008,10 +19008,10 @@ We’re looking for our prey. Our Casters.
 &mdash;『天鬼……&mdash;
  
 **歳殺神・俵藤太:**
-『<ruby><rb>八幡祈願・大妖射貫</rb><rt>なむはちまんだいぼさつ・このやにかごを</rt></ruby>』！
+『<ruby>八幡祈願・大妖射貫<rt>なむはちまんだいぼさつ・このやにかごを</rt></ruby>』！
  
 **豹尾神・鈴鹿御前:**
-『<ruby><rb>天鬼雨</rb><rt>てんきあめ</rt></ruby>』！
+『<ruby>天鬼雨<rt>てんきあめ</rt></ruby>』！
  
 **豹尾神・鈴鹿御前:**
 …………そう、きたか。
@@ -19035,7 +19035,7 @@ We’re looking for our prey. Our Casters.
 我ら武辺者に<u>技の起こり</u>なし。
  
 **Minamoto no Raikō:**
-<ruby><rb>正々堂々</rb><rt>せいせいどうどう</rt></ruby>の立ち合いなればこその、唯一の勝機でした。
+<ruby>正々堂々<rt>せいせいどうどう</rt></ruby>の立ち合いなればこその、唯一の勝機でした。
  
 **Danzo:**
 そうか！宝具の……
@@ -19058,7 +19058,7 @@ We’re looking for our prey. Our Casters.
 は。恐らくは！
  
 **Danzo:**
-真名という<ruby><rb>言の葉</rb><rt>キーワード</rt></ruby>にて宝具を発動させる 英霊固有の特性を理解し、狙い、斬り伏せたと&mdash;
+真名という<ruby>言の葉<rt>キーワード</rt></ruby>にて宝具を発動させる 英霊固有の特性を理解し、狙い、斬り伏せたと&mdash;
  
 **Sakata Kintoki:**
 ……。……。
@@ -19085,7 +19085,7 @@ We’re looking for our prey. Our Casters.
 即ち&mdash;
  
 **Minamoto no Raikō:**
-<ruby><rb>一度</rb><rt>ひとたび</rt></ruby>、我らにその技の<ruby><rb>窮</rb><rt>きわ</rt></ruby>みをお見せになった、貴方がたの御心こそが<ruby><rb>此度</rb><rt>こたび</rt></ruby>の勝利の鍵。
+<ruby>一度<rt>ひとたび</rt></ruby>、我らにその技の<ruby>窮<rt>きわ</rt></ruby>みをお見せになった、貴方がたの御心こそが<ruby>此度<rt>こたび</rt></ruby>の勝利の鍵。
  
 **Minamoto no Raikō:**
 故に、こう申し上げる。
@@ -19100,19 +19100,19 @@ We’re looking for our prey. Our Casters.
 いいや。見事、見事也！
  
 **歳殺神・俵藤太:**
-そう云えばそうだ！かつての<ruby><rb>吾</rb><rt>オレ</rt></ruby>であれば、何をも云わずに弓を射た！
+そう云えばそうだ！かつての<ruby>吾<rt>オレ</rt></ruby>であれば、何をも云わずに弓を射た！
  
 **歳殺神・俵藤太:**
-こと達人同士の斬り合いのさなかであれば、左様、<ruby><rb>八幡</rb><rt>はちまん</rt></ruby>様への祈りは心に在ればよい。
+こと達人同士の斬り合いのさなかであれば、左様、<ruby>八幡<rt>はちまん</rt></ruby>様への祈りは心に在ればよい。
  
 **歳殺神・俵藤太:**
 それがどうにもままならぬ、英霊の身。
  
 **歳殺神・俵藤太:**
-正しくはそのまた<ruby><rb>骸</rb><rt>むくろ</rt></ruby>……
+正しくはそのまた<ruby>骸<rt>むくろ</rt></ruby>……
  
 **歳殺神・俵藤太:**
-やはり、<ruby><rb>吾</rb><rt>オレ</rt></ruby>は<ruby><rb>吾</rb><rt>オレ</rt></ruby>ではないのだと知らしめられた。やれやれだ！
+やはり、<ruby>吾<rt>オレ</rt></ruby>は<ruby>吾<rt>オレ</rt></ruby>ではないのだと知らしめられた。やれやれだ！
  
 **歳殺神・俵藤太:**
 贅沢を云えば……同じ条件で刃交えてみたかったぞ！
@@ -19127,7 +19127,7 @@ We’re looking for our prey. Our Casters.
 御役目すべて終えた後であれば。きっと。
  
 **歳殺神・俵藤太:**
-さらばだ、源氏武者とその一党！いずれまた<ruby><rb>見</rb><rt>まみ</rt></ruby>えた時には、旨い酒でも一献&mdash;
+さらばだ、源氏武者とその一党！いずれまた<ruby>見<rt>まみ</rt></ruby>えた時には、旨い酒でも一献&mdash;
  
 **豹尾神・鈴鹿御前:**
 ああ、待った待った。
@@ -19166,7 +19166,7 @@ We’re looking for our prey. Our Casters.
 更には、晴明殿から授かった符の同時発動による、八将神二騎の霊核封印を確認いたしました。
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>にて&mdash;
+<ruby>是<rt>これ</rt></ruby>にて&mdash;
  
 **Danzo:**
 八将神、二騎の撃破となりまする！
@@ -19177,7 +19177,7 @@ We’re looking for our prey. Our Casters.
 &mdash;平安京東端、五条大路果ての郊外にて。
  
 **Narration:**
-<ruby><rb>洛中</rb><rt>らくちゅう</rt></ruby>から些か離れた鴨川の向こう。常であれば賑わいから縁遠い<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>に、人が集う。
+<ruby>洛中<rt>らくちゅう</rt></ruby>から些か離れた鴨川の向こう。常であれば賑わいから縁遠い<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>に、人が集う。
  
 **Narration:**
 声の一切を発さずに包囲の輪を狭めてゆく。こと、怪異殺しに手慣れた源氏武者の集団であった。
@@ -19192,25 +19192,25 @@ We’re looking for our prey. Our Casters.
 ……囲まれたか。
  
 **？？？:**
-成る程。身の丈三丈を超す<ruby><rb>大土蜘蛛</rb><rt>お お つ ち ぐ も</rt></ruby>を前に、怯えもせぬ。
+成る程。身の丈三丈を超す<ruby>大土蜘蛛<rt>お お つ ち ぐ も</rt></ruby>を前に、怯えもせぬ。
  
 **？？？:**
 逃げもせぬ。叫びもせぬ。
  
 **？？？:**
-誰一人として毛ほども顔色変わらず、太刀を握る。ならば貴様ら<ruby><rb>無辜</rb><rt>む　こ</rt></ruby>の衆生ではあるまいぞ。
+誰一人として毛ほども顔色変わらず、太刀を握る。ならば貴様ら<ruby>無辜<rt>む　こ</rt></ruby>の衆生ではあるまいぞ。
  
 **武者たち:**
-然り！　我ら源氏武者！世の平安を護るべくして左大臣殿に<ruby><rb>侍</rb><rt>はべ</rt></ruby>る武士、
+然り！　我ら源氏武者！世の平安を護るべくして左大臣殿に<ruby>侍<rt>はべ</rt></ruby>る武士、
  
 **武者たち:**
-源頼光様の郎等である！<ruby><rb>大土蜘蛛</rb><rt>お お つ ち ぐ も</rt></ruby>を駆る魔の者よ、名乗れ！
+源頼光様の郎等である！<ruby>大土蜘蛛<rt>お お つ ち ぐ も</rt></ruby>を駆る魔の者よ、名乗れ！
  
 **？？？:**
 源氏。源氏か。
  
 **？？？:**
-此の地にも源氏がある。喜べ<ruby><rb>玖賀耳之御笠</rb><rt>く が み み の み か さ</rt></ruby>、我らは共に京で本懐を為すぞ！
+此の地にも源氏がある。喜べ<ruby>玖賀耳之御笠<rt>く が み み の み か さ</rt></ruby>、我らは共に京で本懐を為すぞ！
  
 **？？？:**
 源氏よ聞け。源氏よ聞け。
@@ -19219,37 +19219,37 @@ We’re looking for our prey. Our Casters.
 儂は毒。儂は刃。儂は、貴様ら源氏を殺すモノ。我が身、怨の一文字。
  
 **？？？:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なる<ruby><rb>歳破神</rb><rt>さいはじん</rt></ruby>・<ruby><rb>大土蜘蛛</rb><rt>お お つ ち ぐ も</rt></ruby>と共に 平安京に現界果たせし英霊の<ruby><rb>骸</rb><rt>むくろ</rt></ruby>なる&mdash;
+<ruby>是<rt>これ</rt></ruby>なる<ruby>歳破神<rt>さいはじん</rt></ruby>・<ruby>大土蜘蛛<rt>お お つ ち ぐ も</rt></ruby>と共に 平安京に現界果たせし英霊の<ruby>骸<rt>むくろ</rt></ruby>なる&mdash;
  
 **？？？:**
 &mdash;く、く。
  
 **？？？:**
-否である。<ruby><rb>骸</rb><rt>むくろ</rt></ruby>となりても怨は消えず！
+否である。<ruby>骸<rt>むくろ</rt></ruby>となりても怨は消えず！
  
 **？？？:**
-<ruby><rb>歳刑神</rb><rt>さいきょうじん</rt></ruby>・<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>、推参。
+<ruby>歳刑神<rt>さいきょうじん</rt></ruby>・<ruby>平景清<rt>たいらのかげきよ</rt></ruby>、推参。
  
 **歳刑神・平景清:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>より、<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>は源氏<ruby><rb>鏖殺</rb><rt>おうさつ</rt></ruby>を開始する。
+<ruby>是<rt>これ</rt></ruby>より、<ruby>景清<rt>かげきよ</rt></ruby>は源氏<ruby>鏖殺<rt>おうさつ</rt></ruby>を開始する。
  
 **歳刑神・平景清:**
-&mdash;源氏、死に<ruby><rb>候</rb><rt>そうら</rt></ruby>え。
+&mdash;源氏、死に<ruby>候<rt>そうら</rt></ruby>え。
  
 **武者:**
-平の<ruby><rb>何某</rb><rt>なにがし</rt></ruby>、平氏武者か！？坂東の乱の残党ならば生かしてはおか&mdash;
+平の<ruby>何某<rt>なにがし</rt></ruby>、平氏武者か！？坂東の乱の残党ならば生かしてはおか&mdash;
  
 **歳刑神・平景清:**
-<ruby><rb>鏖殺</rb><rt>おうさつ</rt></ruby>開始せり。
+<ruby>鏖殺<rt>おうさつ</rt></ruby>開始せり。
  
 **Narration:**
-<ruby><rb>鏖殺</rb><rt>おうさつ</rt></ruby>開始&mdash;その言の葉に嘘偽りなく。
+<ruby>鏖殺<rt>おうさつ</rt></ruby>開始&mdash;その言の葉に嘘偽りなく。
  
 **Narration:**
-第三の将神であるという大怪異を駆り、怒濤が如き土蜘蛛の群れを以て京を<ruby><rb>蹂躙</rb><rt>じゅうりん</rt></ruby>する、魔。
+第三の将神であるという大怪異を駆り、怒濤が如き土蜘蛛の群れを以て京を<ruby>蹂躙<rt>じゅうりん</rt></ruby>する、魔。
  
 **Narration:**
-第四の将神、<ruby><rb>歳刑神</rb><rt>さいきょうじん</rt></ruby>・<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>。
+第四の将神、<ruby>歳刑神<rt>さいきょうじん</rt></ruby>・<ruby>平景清<rt>たいらのかげきよ</rt></ruby>。
  
 **Narration:**
 その歩みの後には、源氏、生くる手立てなし。ただ死に果てるのみであった。
@@ -19269,22 +19269,22 @@ We’re looking for our prey. Our Casters.
 ……現在の内裏がどうなっているのか。
  
 **Fujiwara no Kaoriko:**
-<ruby><rb>帝</rb><rt>みかど</rt></ruby>や中宮、道長様がご無事でおられるのか、私にもよく分からないのです。
+<ruby>帝<rt>みかど</rt></ruby>や中宮、道長様がご無事でおられるのか、私にもよく分からないのです。
  
 **Fujiwara no Kaoriko:**
-夜の<ruby><rb>帳</rb><rt>とばり</rt></ruby>が下りて、赤い月が浮かび、あれなる妖樹が<ruby><rb>聳</rb><rt>そび</rt></ruby>え立つより先に……
+夜の<ruby>帳<rt>とばり</rt></ruby>が下りて、赤い月が浮かび、あれなる妖樹が<ruby>聳<rt>そび</rt></ruby>え立つより先に……
  
 **Fujiwara no Kaoriko:**
-私は、<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>に乗っておりましたので……
+私は、<ruby>牛車<rt>ぎっしゃ</rt></ruby>に乗っておりましたので……
  
 **空中の文字:**
 香子がそうするように仕向けたのは私です。何、そう気に病むことはない。
  
 **空中の文字:**
-リンボなる者が僅かなりとも蘆屋道満であるなら、すぐに首を<ruby><rb>刎</rb><rt>は</rt></ruby>ねたりはしないだろう。大丈夫。
+リンボなる者が僅かなりとも蘆屋道満であるなら、すぐに首を<ruby>刎<rt>は</rt></ruby>ねたりはしないだろう。大丈夫。
  
 **空中の文字:**
-あれは人のかたちをした肉食獣が如き男だが、人の機微がある。<ruby><rb>大願成就</rb><rt>たいがんじょうじゅ</rt></ruby>果たすその刹那までは、
+あれは人のかたちをした肉食獣が如き男だが、人の機微がある。<ruby>大願成就<rt>たいがんじょうじゅ</rt></ruby>果たすその刹那までは、
  
 **空中の文字:**
 観客は多い方が愉しい、と考える。気楽に構えていなさい。
@@ -19323,10 +19323,10 @@ We’re looking for our prey. Our Casters.
 あっ。
  
 **Minamoto no Raikō:**
-そうでした。つい……妙なものですね、宙に浮かぶ<ruby><rb>文</rb><rt>ふみ</rt></ruby>であるのに、
+そうでした。つい……妙なものですね、宙に浮かぶ<ruby>文<rt>ふみ</rt></ruby>であるのに、
  
 **Minamoto no Raikō:**
-まるで<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>に晴明様がいらっしゃるかのよう。遠からず、<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な品が<ruby><rb>洛内</rb><rt>らくない</rt></ruby>に広まるのでしょうか？
+まるで<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>に晴明様がいらっしゃるかのよう。遠からず、<ruby>斯様<rt>か よ う</rt></ruby>な品が<ruby>洛内<rt>らくない</rt></ruby>に広まるのでしょうか？
  
 ---
 
@@ -19399,16 +19399,16 @@ We’re looking for our prey. Our Casters.
 三騎以上を同時に目前に召喚し、一息に亜種空想樹に取り込んでしまうのがベストだ。
  
 **空中の文字:**
-だが現実としては二騎同時召喚。それも、<ruby><rb>洛内</rb><rt>らくない</rt></ruby>全域を覆う我が大結界の端あたりに。
+だが現実としては二騎同時召喚。それも、<ruby>洛内<rt>らくない</rt></ruby>全域を覆う我が大結界の端あたりに。
  
 **空中の文字:**
 何故、そうする？
  
 **空中の文字:**
-三騎以上の数を別々の場所に召喚して、同時に<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門を目指して移動させてしまえば、
+三騎以上の数を別々の場所に召喚して、同時に<ruby>朱雀<rt>す ざ く</rt></ruby>門を目指して移動させてしまえば、
  
 **空中の文字:**
-<ruby><rb>此方</rb><rt>こちら</rt></ruby>としては戦力を分散させる他にない。
+<ruby>此方<rt>こちら</rt></ruby>としては戦力を分散させる他にない。
  
 **空中の文字:**
 それをしないということは……
@@ -19432,16 +19432,16 @@ We’re looking for our prey. Our Casters.
 一息に、亜種空想樹内部の聖杯へと 取り込んでしまうのがベストだろうに。
  
 **空中の文字:**
-だが現実としては二騎同時召喚。それも、<ruby><rb>洛内</rb><rt>らくない</rt></ruby>全域を覆う我が大結界の端あたりに。
+だが現実としては二騎同時召喚。それも、<ruby>洛内<rt>らくない</rt></ruby>全域を覆う我が大結界の端あたりに。
  
 **空中の文字:**
 何故、そうする？
  
 **空中の文字:**
-三騎以上の数を別々の場所に召喚して、同時に<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門を目指して移動させてしまえば、
+三騎以上の数を別々の場所に召喚して、同時に<ruby>朱雀<rt>す ざ く</rt></ruby>門を目指して移動させてしまえば、
  
 **空中の文字:**
-<ruby><rb>此方</rb><rt>こちら</rt></ruby>としては戦力を分散させる他にない。
+<ruby>此方<rt>こちら</rt></ruby>としては戦力を分散させる他にない。
  
 **空中の文字:**
 それをしないということは……
@@ -19454,16 +19454,16 @@ We’re looking for our prey. Our Casters.
 やりたくてもできねえ、か。
  
 **Watanabe no Tsuna:**
-段蔵殿。状況は。五条の東端であれば、羽瀬と<ruby><rb>梧桐</rb><rt>ご と う</rt></ruby>が向かった先だ。
+段蔵殿。状況は。五条の東端であれば、羽瀬と<ruby>梧桐<rt>ご と う</rt></ruby>が向かった先だ。
  
 **Danzo:**
 ……はっ。
  
 **Danzo:**
-源氏郎等、羽瀬殿と<ruby><rb>梧桐</rb><rt>ご と う</rt></ruby>殿が率いる武者の一団、そして<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>の一団が護りを固めておりましたが、
+源氏郎等、羽瀬殿と<ruby>梧桐<rt>ご と う</rt></ruby>殿が率いる武者の一団、そして<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>の一団が護りを固めておりましたが、
  
 **Danzo:**
-<ruby><rb>悉</rb><rt>ことごと</rt></ruby>く粉砕、突破されました。お味方の戦力は七割が失われております。
+<ruby>悉<rt>ことごと</rt></ruby>く粉砕、突破されました。お味方の戦力は七割が失われております。
  
 **Watanabe no Tsuna:**
 ……そうか。
@@ -19475,7 +19475,7 @@ We’re looking for our prey. Our Casters.
 メディア殿！　出陣です！
  
 **Medea Lily:**
-こちらに！綱さま、金時さま、<ruby><rb>握り飯</rb><rt>オ ニ ギ リ</rt></ruby>を用意しています！
+こちらに！綱さま、金時さま、<ruby>握り飯<rt>オ ニ ギ リ</rt></ruby>を用意しています！
  
 **Sakata Kintoki:**
 よっしゃ有り難い！藤丸と段蔵サンも喰っとけ！
@@ -19484,13 +19484,13 @@ We’re looking for our prey. Our Casters.
 お待ちを！　皆さま！
  
 **Danzo:**
-将神のうち一騎は<ruby><rb>大土蜘蛛</rb><rt>お お つ ち ぐ も</rt></ruby>の姿持つ怪異、そしてもう一騎は&mdash;
+将神のうち一騎は<ruby>大土蜘蛛<rt>お お つ ち ぐ も</rt></ruby>の姿持つ怪異、そしてもう一騎は&mdash;
  
 **Danzo:**
-&mdash;<ruby><rb>歳刑神</rb><rt>さいきょうじん</rt></ruby>・<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>を名乗る、<u>源氏殺し</u>にて！
+&mdash;<ruby>歳刑神<rt>さいきょうじん</rt></ruby>・<ruby>平景清<rt>たいらのかげきよ</rt></ruby>を名乗る、<u>源氏殺し</u>にて！
  
 **歳刑神・平景清:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>は<ruby><rb>宿痾</rb><rt>しゅくあ</rt></ruby>である。
+<ruby>是<rt>これ</rt></ruby>は<ruby>宿痾<rt>しゅくあ</rt></ruby>である。
  
 **歳刑神・平景清:**
 源氏が在れば儂は殺す。
@@ -19529,30 +19529,30 @@ We’re looking for our prey. Our Casters.
 名を。お尋ねしても？
  
 **歳刑神・平景清:**
-<ruby><rb>骸</rb><rt>むくろ</rt></ruby>に名は不要。
+<ruby>骸<rt>むくろ</rt></ruby>に名は不要。
  
 **歳刑神・平景清:**
-と、云うのが正しい将神の在りようだろうが、儂は違う。儂は<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>なれば、<ruby><rb>骸</rb><rt>むくろ</rt></ruby>であろうと<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>也。
+と、云うのが正しい将神の在りようだろうが、儂は違う。儂は<ruby>景清<rt>かげきよ</rt></ruby>なれば、<ruby>骸<rt>むくろ</rt></ruby>であろうと<ruby>景清<rt>かげきよ</rt></ruby>也。
  
 **Danzo:**
-<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>&mdash;
+<ruby>景清<rt>かげきよ</rt></ruby>&mdash;
  
 **歳刑神・平景清:**
-左様。儂は<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>。怨の一文字背負いし黒色の刃。
+左様。儂は<ruby>景清<rt>かげきよ</rt></ruby>。怨の一文字背負いし黒色の刃。
  
 **歳刑神・平景清:**
-&mdash;<ruby><rb>歳刑神</rb><rt>さいきょうじん</rt></ruby>・<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>である。
+&mdash;<ruby>歳刑神<rt>さいきょうじん</rt></ruby>・<ruby>平景清<rt>たいらのかげきよ</rt></ruby>である。
  
 **歳刑神・平景清:**
-はは。許せ！<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>なまでに源氏の匂いを漂わせる絡繰なれば、
+はは。許せ！<ruby>斯様<rt>か よ う</rt></ruby>なまでに源氏の匂いを漂わせる絡繰なれば、
  
 **歳刑神・平景清:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>もまた、<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>の獲物である！はははははははははは！
+<ruby>是<rt>これ</rt></ruby>もまた、<ruby>景清<rt>かげきよ</rt></ruby>の獲物である！はははははははははは！
  
 **--BATTLE--**
  
 **Sakata Kintoki:**
-<ruby><rb>歳刑神</rb><rt>さいきょうじん</rt></ruby>・<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>&mdash;
+<ruby>歳刑神<rt>さいきょうじん</rt></ruby>・<ruby>平景清<rt>たいらのかげきよ</rt></ruby>&mdash;
  
 **空中の文字:**
 八将神、やはり真名を隠す素振りなしか。手駒に相当の自信があるということなのだろうが、
@@ -19561,10 +19561,10 @@ We’re looking for our prey. Our Casters.
 あまり褒められたやり方ではないな、リンボ。いや我々にはありがたいことです。
  
 **空中の文字:**
-さて。<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>なる者、この名を知る者はどれ程いるか。
+さて。<ruby>平景清<rt>たいらのかげきよ</rt></ruby>なる者、この名を知る者はどれ程いるか。
  
 **Minamoto no Raikō:**
-……<ruby><rb>桓武平氏</rb><rt>かんむへいし</rt></ruby>の武者でしょうか？
+……<ruby>桓武平氏<rt>かんむへいし</rt></ruby>の武者でしょうか？
  
 **Minamoto no Raikō:**
 私は寡聞にして聞き及びません。かの秀郷殿が平定に一役買ったという坂東の乱、
@@ -19573,7 +19573,7 @@ We’re looking for our prey. Our Casters.
 大逆の賊として立った者どもこそ 平家武者のお歴々であったとのことですが……
  
 **Minamoto no Raikō:**
-<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>、と云う名には覚えがなく。
+<ruby>平景清<rt>たいらのかげきよ</rt></ruby>、と云う名には覚えがなく。
  
 **Watanabe no Tsuna:**
 俺も初耳だ。金時は……聞くまでもないか。
@@ -19582,7 +19582,7 @@ We’re looking for our prey. Our Casters.
 おう、聞かねえ名だぜ。
  
 **Danzo:**
-…………<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>は、<ruby><rb>桓武平氏</rb><rt>かんむへいし</rt></ruby>に連なる者ですが。
+…………<ruby>平景清<rt>たいらのかげきよ</rt></ruby>は、<ruby>桓武平氏<rt>かんむへいし</rt></ruby>に連なる者ですが。
  
 **Danzo:**
 過去に生きた人物ではなく、当世より幾百年後の人物なのです。
@@ -19602,10 +19602,10 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>……
+<ruby>平景清<rt>たいらのかげきよ</rt></ruby>……
  
 **Danzo:**
-上総の<ruby><rb>惡七兵衛景清</rb><rt>あくしちびょうえかげきよ</rt></ruby>。転じて、<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>。源平合戦の後、何処かに落ち延びて各地に出没し、
+上総の<ruby>惡七兵衛景清<rt>あくしちびょうえかげきよ</rt></ruby>。転じて、<ruby>平景清<rt>たいらのかげきよ</rt></ruby>。源平合戦の後、何処かに落ち延びて各地に出没し、
  
 **Danzo:**
 平家なき世を平定せし源氏を狙い、復讐を企てる悪霊が如き伝説的人物にて。
@@ -19614,10 +19614,10 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 2:**
-確か、上総の<ruby><rb>惡七兵衛景清</rb><rt>あくしちびょうえかげきよ</rt></ruby>
+確か、上総の<ruby>惡七兵衛景清<rt>あくしちびょうえかげきよ</rt></ruby>
  
 **Danzo:**
-まさしく。転じて<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>。源平合戦の後には何処かに落ち延びて各地に出没し、
+まさしく。転じて<ruby>平景清<rt>たいらのかげきよ</rt></ruby>。源平合戦の後には何処かに落ち延びて各地に出没し、
  
 **Danzo:**
 平家一党を滅ぼして幕府を開いた源氏を狙い、復讐を企てる悪霊が如き伝説的人物にて。
@@ -19627,34 +19627,34 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-鎌倉幕府を開いた源頼朝公は、実に三十七度、<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>の襲撃を受けたとか。
+鎌倉幕府を開いた源頼朝公は、実に三十七度、<ruby>平景清<rt>たいらのかげきよ</rt></ruby>の襲撃を受けたとか。
  
 **Danzo:**
-首を落とされようと死ぬことなく、<ruby><rb>不死</rb><rt>しなず</rt></ruby>の怪人であったとの伝説も語られています。
+首を落とされようと死ぬことなく、<ruby>不死<rt>しなず</rt></ruby>の怪人であったとの伝説も語られています。
  
 **Danzo:**
 段蔵が遭遇したのは、この怪人にてまず間違いありませぬ。
  
 **Danzo:**
-英霊としての<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>、その正体、源氏の絶対殺戮のために稼働する殲滅兵器が如し！
+英霊としての<ruby>平景清<rt>たいらのかげきよ</rt></ruby>、その正体、源氏の絶対殺戮のために稼働する殲滅兵器が如し！
  
 **Danzo:**
-羽瀬殿と<ruby><rb>梧桐</rb><rt>ご と う</rt></ruby>殿が率いる源氏郎等の武者の一団……
+羽瀬殿と<ruby>梧桐<rt>ご と う</rt></ruby>殿が率いる源氏郎等の武者の一団……
  
 **Danzo:**
-<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>一騎によって、<ruby><rb>鏖殺</rb><rt>おうさつ</rt></ruby>の憂き目に……
+<ruby>景清<rt>かげきよ</rt></ruby>一騎によって、<ruby>鏖殺<rt>おうさつ</rt></ruby>の憂き目に……
  
 **Watanabe no Tsuna:**
-<ruby><rb>鏖殺</rb><rt>おうさつ</rt></ruby>。
+<ruby>鏖殺<rt>おうさつ</rt></ruby>。
  
 **Watanabe no Tsuna:**
 武者の一人も残さずに殺した、と。そう捉えて構わんな。
  
 **Danzo:**
-然り。生き残りの三割はすべて、<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>にて。
+然り。生き残りの三割はすべて、<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>にて。
  
 **Danzo:**
-お味方の武者の方々、<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>に近付くや否や手足が萎え、太刀を落とし、
+お味方の武者の方々、<ruby>景清<rt>かげきよ</rt></ruby>に近付くや否や手足が萎え、太刀を落とし、
  
 **Danzo:**
 首を差し出さんばかりの様子にて……
@@ -19666,13 +19666,13 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Danzo:**
-段蔵の見た<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>は、文字通りの源氏殺し。
+段蔵の見た<ruby>景清<rt>かげきよ</rt></ruby>は、文字通りの源氏殺し。
  
 **Danzo:**
 皆さまの天敵であると目されまする。源氏にとっての毒、いわば源氏毒&mdash;
  
 **Danzo:**
-如何に精強の源氏武者の方々であれ、<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>に近付けば、たちまち首<ruby><rb>刎</rb><rt>は</rt></ruby>ねられるは必定！
+如何に精強の源氏武者の方々であれ、<ruby>景清<rt>かげきよ</rt></ruby>に近付けば、たちまち首<ruby>刎<rt>は</rt></ruby>ねられるは必定！
  
 **Minamoto no Raikō:**
 ……先刻の二騎もそうでしたが、容易ならざる相手なのですね。
@@ -19681,16 +19681,16 @@ We’re looking for our prey. Our Casters.
 ありがとう、段蔵殿。お陰で、無謀のまま死地へ飛び込まずに済みます。
  
 **Minamoto no Raikō:**
-<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>たちの様子はどうです？
+<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>たちの様子はどうです？
  
 **Danzo:**
-<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>は土蜘蛛の群れを率いております。<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>の方々では、この群れに打ち<ruby><rb>克</rb><rt>か</rt></ruby>てず、
+<ruby>景清<rt>かげきよ</rt></ruby>は土蜘蛛の群れを率いております。<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>の方々では、この群れに打ち<ruby>克<rt>か</rt></ruby>てず、
  
 **Danzo:**
-一度は敗走したものの、人を集め、<ruby><rb>洛中</rb><rt>らくちゅう</rt></ruby>へと至る鴨川の橋に陣を敷いておりまする。
+一度は敗走したものの、人を集め、<ruby>洛中<rt>らくちゅう</rt></ruby>へと至る鴨川の橋に陣を敷いておりまする。
  
 **Danzo:**
-<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>と土蜘蛛の群れは、ゆるりと移動した後、鴨川を睨み、
+<ruby>景清<rt>かげきよ</rt></ruby>と土蜘蛛の群れは、ゆるりと移動した後、鴨川を睨み、
  
 **Danzo:**
 何故か&mdash;
@@ -19702,10 +19702,10 @@ We’re looking for our prey. Our Casters.
 何だそりゃ？
  
 **Sakata Kintoki:**
-鴨川渡って京に入って、<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門を目指すってのが八将の御役目だろうに。
+鴨川渡って京に入って、<ruby>朱雀<rt>す ざ く</rt></ruby>門を目指すってのが八将の御役目だろうに。
  
 **Sakata Kintoki:**
-何だ、<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>ってのは 鴨川に思い入れでもありやがるのか？
+何だ、<ruby>平景清<rt>たいらのかげきよ</rt></ruby>ってのは 鴨川に思い入れでもありやがるのか？
  
 **Danzo:**
 は……。
@@ -19714,7 +19714,7 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Danzo:**
-……マスター。<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>なる者は、<u>牛若丸殿によく似ておられます</u>。
+……マスター。<ruby>景清<rt>かげきよ</rt></ruby>なる者は、<u>牛若丸殿によく似ておられます</u>。
  
 ---
 
@@ -19735,7 +19735,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-ワタシの<ruby><rb>感覚器</rb><rt>セ ン サ ー</rt></ruby>はそう告げております。まさしく瓜二つ。むしろ……
+ワタシの<ruby>感覚器<rt>セ ン サ ー</rt></ruby>はそう告げております。まさしく瓜二つ。むしろ……
  
 **Danzo:**
 御本人の別側面を以て顕現し、何らかの理由で名を変えておられる、とさえ。
@@ -19787,28 +19787,28 @@ We’re looking for our prey. Our Casters.
 源九郎義経。幼名を、牛若丸。幾百年後の源平合戦にて華々しく活躍した英雄。
  
 **Danzo:**
-源氏の<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>たる兄君を慕い、数多の過酷な戦場を踊り、しかし最後には……
+源氏の<ruby>棟梁<rt>とうりょう</rt></ruby>たる兄君を慕い、数多の過酷な戦場を踊り、しかし最後には……
  
 **Danzo:**
-兄たる頼朝公の命により逆賊の汚名を受け、<ruby><rb>誅戮</rb><rt>ちゅうりく</rt></ruby>されたと云います。
+兄たる頼朝公の命により逆賊の汚名を受け、<ruby>誅戮<rt>ちゅうりく</rt></ruby>されたと云います。
  
 **Danzo:**
 …………源氏に恨みを持つ理由は、あるかと。
  
 **Minamoto no Raikō:**
-<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>なる人物と同じく、凄絶なる怨の化身という訳ですね。
+<ruby>平景清<rt>たいらのかげきよ</rt></ruby>なる人物と同じく、凄絶なる怨の化身という訳ですね。
  
 **Minamoto no Raikō:**
 怨。人の恨み。
  
 **Minamoto no Raikō:**
-それは恐るべき、凄まじきものです。守護されたる<ruby><rb>洛中</rb><rt>らくちゅう</rt></ruby>にあっても時に牙を<ruby><rb>剥</rb><rt>む</rt></ruby>き……
+それは恐るべき、凄まじきものです。守護されたる<ruby>洛中<rt>らくちゅう</rt></ruby>にあっても時に牙を<ruby>剥<rt>む</rt></ruby>き……
  
 **Minamoto no Raikō:**
 災いをもたらす程のモノ。
  
 **Minamoto no Raikō:**
-そうですか……源氏への怨を背負う何者かが、<ruby><rb>此度</rb><rt>こたび</rt></ruby>の敵。
+そうですか……源氏への怨を背負う何者かが、<ruby>此度<rt>こたび</rt></ruby>の敵。
  
 **Minamoto no Raikō:**
 ……。……。
@@ -19835,7 +19835,7 @@ We’re looking for our prey. Our Casters.
 ！
  
 **Nursery Rhyme:**
-まあ、まあ、頼光ったら。いつもはあんなに<ruby><rb>厭</rb><rt>いや</rt></ruby>がっているのに、いいの？
+まあ、まあ、頼光ったら。いつもはあんなに<ruby>厭<rt>いや</rt></ruby>がっているのに、いいの？
  
 **Nursery Rhyme:**
 金時を向かわせてしまうだなんて&mdash;
@@ -19844,7 +19844,7 @@ We’re looking for our prey. Our Casters.
 私も賛成です。鬼の力を借りるとは、実に考えたもの。
  
 **空中の文字:**
-<ruby><rb>洛中</rb><rt>らくちゅう</rt></ruby>に在るまともな戦力は源氏とその郎等ばかり、<ruby><rb>検非違使</rb><rt>け　 び 　い　 し</rt></ruby>では一歩も二歩も足りぬだろう。
+<ruby>洛中<rt>らくちゅう</rt></ruby>に在るまともな戦力は源氏とその郎等ばかり、<ruby>検非違使<rt>け　 び 　い　 し</rt></ruby>では一歩も二歩も足りぬだろう。
  
 **空中の文字:**
 その点、鬼！
@@ -19859,13 +19859,13 @@ We’re looking for our prey. Our Casters.
 実に佳い判断です。頼光殿。
  
 **Minamoto no Raikō:**
-…………お褒めに<ruby><rb>与</rb><rt>あずか</rt></ruby>り恐悦。
+…………お褒めに<ruby>与<rt>あずか</rt></ruby>り恐悦。
  
 **空中の文字:**
-この私は<ruby><rb>未</rb><rt>いま</rt></ruby>だ遠き地に在るが、何とかして鴨川の橋の結界を張り直してみるとする。
+この私は<ruby>未<rt>いま</rt></ruby>だ遠き地に在るが、何とかして鴨川の橋の結界を張り直してみるとする。
  
 **空中の文字:**
-<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>だか義経だかは不明だが、<ruby><rb>何</rb><rt>い</rt></ruby><ruby><rb>時</rb><rt>つ</rt></ruby>までも足を止めてくれているとは限らない。
+<ruby>景清<rt>かげきよ</rt></ruby>だか義経だかは不明だが、<ruby>何<rt>い</rt></ruby><ruby>時<rt>つ</rt></ruby>までも足を止めてくれているとは限らない。
  
 **空中の文字:**
 事態は一刻を争う。金時。では、一走り頼みます。
@@ -19877,13 +19877,13 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Minamoto no Raikō:**
-（<ruby><rb>此度</rb><rt>こたび</rt></ruby>ばかりは力を借り受けつつ……　今のうち、あらかじめ鬼への罠を仕掛けるのも手か）
+（<ruby>此度<rt>こたび</rt></ruby>ばかりは力を借り受けつつ……　今のうち、あらかじめ鬼への罠を仕掛けるのも手か）
  
 **Minamoto no Raikō:**
 （今は人を喰らわぬとは云え、鬼は鬼）
  
 **Minamoto no Raikō:**
-（いずれ人に害為すは必至。　であれば、源氏の<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>として選ぶべき道は）
+（いずれ人に害為すは必至。　であれば、源氏の<ruby>棟梁<rt>とうりょう</rt></ruby>として選ぶべき道は）
  
 **Nursery Rhyme:**
 頼光、頼光。文殊丸。
@@ -19892,7 +19892,7 @@ We’re looking for our prey. Our Casters.
 何を考えているか、分かるわ。でもね。あなたはそんな風に考えなくて良いの。
  
 **Nursery Rhyme:**
-優しい<ruby><rb>母</rb><rt>ママ</rt></ruby>でいたいのでしょう？なら、子供のお友だちにそんな風にしては駄目よ。
+優しい<ruby>母<rt>ママ</rt></ruby>でいたいのでしょう？なら、子供のお友だちにそんな風にしては駄目よ。
  
 **Nursery Rhyme:**
 きっと後悔するわ。頼光。
@@ -19925,10 +19925,10 @@ We’re looking for our prey. Our Casters.
 ……鬼とて力ある者。
  
 **Minamoto no Raikō:**
-天覧の儀にあっては<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>にさえ選ばれた。
+天覧の儀にあっては<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>にさえ選ばれた。
  
 **Minamoto no Raikō:**
-<ruby><rb>此度</rb><rt>こたび</rt></ruby>のように、力を借り受けるべき時が 来ることもあるのでしょう。
+<ruby>此度<rt>こたび</rt></ruby>のように、力を借り受けるべき時が 来ることもあるのでしょう。
  
 **Minamoto no Raikō:**
 けれど……
@@ -19940,7 +19940,7 @@ We’re looking for our prey. Our Casters.
 金時。今は、貴方が頼りです。
  
 **Minamoto no Raikō:**
-大江の鬼どもを<ruby><rb>洛内</rb><rt>らくない</rt></ruby>へと迎え、<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>、或いは源義経なる将神を討ち果たすのです。
+大江の鬼どもを<ruby>洛内<rt>らくない</rt></ruby>へと迎え、<ruby>平景清<rt>たいらのかげきよ</rt></ruby>、或いは源義経なる将神を討ち果たすのです。
  
 **Sakata Kintoki:**
 承った！全力で御山まで走って来らぁ！
@@ -19973,7 +19973,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Medea Lily:**
-<ruby><rb>握り飯</rb><rt>オ ニ ギ リ</rt></ruby>は竹の皮に包んでおきました。簡単なものですが、体力回復の魔術を掛けています。
+<ruby>握り飯<rt>オ ニ ギ リ</rt></ruby>は竹の皮に包んでおきました。簡単なものですが、体力回復の魔術を掛けています。
  
 **Medea Lily:**
 どうかお気を付けて、三人とも。
@@ -19987,10 +19987,10 @@ We’re looking for our prey. Our Casters.
 **--ARROW--**
  
 **Sakata Kintoki:**
-へっ！　<ruby><rb>厭</rb><rt>いや</rt></ruby>なお月さんだ&mdash;ぜッと！
+へっ！　<ruby>厭<rt>いや</rt></ruby>なお月さんだ&mdash;ぜッと！
  
 **Sakata Kintoki:**
-妙に赤く<ruby><rb>耀</rb><rt>かがや</rt></ruby>きやがる！空想樹だかが生えちまって、ずっと夜だしな！
+妙に赤く<ruby>耀<rt>かがや</rt></ruby>きやがる！空想樹だかが生えちまって、ずっと夜だしな！
  
 ---
 
@@ -20030,7 +20030,7 @@ We’re looking for our prey. Our Casters.
 マスターは“このままでいい”と仰せです！金時殿！
  
 **Sakata Kintoki:**
-よっし、ンじゃあもう<ruby><rb>暫</rb><rt>しばら</rt></ruby>くは月見旅だ！御山へ入る前に一休み入れっから！
+よっし、ンじゃあもう<ruby>暫<rt>しばら</rt></ruby>くは月見旅だ！御山へ入る前に一休み入れっから！
  
 **Danzo:**
 お疲れさまです、マスター。三半規管の調子は……
@@ -20065,7 +20065,7 @@ We’re looking for our prey. Our Casters.
 承知。
  
 **Danzo:**
-では<ruby><rb>此方</rb><rt>こちら</rt></ruby>に。竹筒に水を入れてありますので、どうぞ。
+では<ruby>此方<rt>こちら</rt></ruby>に。竹筒に水を入れてありますので、どうぞ。
  
 **Danzo:**
 風魔特製の兵糧丸も付けましょうか？ワタシのそれは改良版ですが……
@@ -20094,7 +20094,7 @@ We’re looking for our prey. Our Casters.
 金時殿も召し上がりますか？
  
 **Sakata Kintoki:**
-いや、オレっちはやめとくぜ。もう<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>からは鬼の領域だ。
+いや、オレっちはやめとくぜ。もう<ruby>此処<rt>こ　こ</rt></ruby>からは鬼の領域だ。
  
 **Sakata Kintoki:**
 人里よりは気ィ張っておかねえとな！
@@ -20103,7 +20103,7 @@ We’re looking for our prey. Our Casters.
 ってのは半分まことで半分嘘ってあたりだな。実際のトコ、腹ァ減らしておくくらいで丁度いい。
  
 **Sakata Kintoki:**
-いざ酒呑と殴り合った時、力いっぱいッてんじゃ<ruby><rb>此度</rb><rt>こたび</rt></ruby>は<ruby><rb>拙</rb><rt>まず</rt></ruby>いからな。
+いざ酒呑と殴り合った時、力いっぱいッてんじゃ<ruby>此度<rt>こたび</rt></ruby>は<ruby>拙<rt>まず</rt></ruby>いからな。
  
 ---
 
@@ -20138,7 +20138,7 @@ We’re looking for our prey. Our Casters.
 そりゃあそうだ。オレだって戦うつもりはねえさ。
  
 **Sakata Kintoki:**
-だが<ruby><rb>鬼は鬼]。大江の御山は[#紛</rb><rt>まご</rt></ruby>うことなき鬼の巣だ。
+だが<ruby>鬼は鬼]。大江の御山は[#紛<rt>まご</rt></ruby>うことなき鬼の巣だ。
  
 **Sakata Kintoki:**
 ソイツだけは片時も忘れちゃなんねえ、ってな！
@@ -20167,22 +20167,22 @@ We’re looking for our prey. Our Casters.
 おう。
  
 **Sakata Kintoki:**
-宝を盗んだり、有り難い稲荷サンを<ruby><rb>毀</rb><rt>こわ</rt></ruby>したり、何がしかの悪さをしていくぜ。
+宝を盗んだり、有り難い稲荷サンを<ruby>毀<rt>こわ</rt></ruby>したり、何がしかの悪さをしていくぜ。
  
 **Sakata Kintoki:**
 まず、ヤツは必ずどっかで酒を盗む。内裏に献上されるのが決まってるような佳い酒さ。
  
 **Sakata Kintoki:**
-気が乗ったら<ruby><rb>媛</rb><rt>ひめ</rt></ruby>を<ruby><rb>攫</rb><rt>さら</rt></ruby>って、酌をさせる。かと思えば<ruby><rb>男の子</rb><rt>お　の　こ</rt></ruby>を<ruby><rb>攫</rb><rt>さら</rt></ruby>う。
+気が乗ったら<ruby>媛<rt>ひめ</rt></ruby>を<ruby>攫<rt>さら</rt></ruby>って、酌をさせる。かと思えば<ruby>男の子<rt>お　の　こ</rt></ruby>を<ruby>攫<rt>さら</rt></ruby>う。
  
 **Sakata Kintoki:**
-どっちにせよ見目のいいのを見付けては、気が乗りゃ<ruby><rb>攫</rb><rt>さら</rt></ruby>うのさ。
+どっちにせよ見目のいいのを見付けては、気が乗りゃ<ruby>攫<rt>さら</rt></ruby>うのさ。
  
 **Sakata Kintoki:**
-月見も佳いが、涙溜めた<ruby><rb>媛</rb><rt>ひめ</rt></ruby>の瞳も佳いわぁ、とかふざけたこと抜かしやがる。
+月見も佳いが、涙溜めた<ruby>媛<rt>ひめ</rt></ruby>の瞳も佳いわぁ、とかふざけたこと抜かしやがる。
  
 **Sakata Kintoki:**
-御殿にゃ連れ帰ってねえだけマシだが、そうして人を<ruby><rb>攫</rb><rt>さら</rt></ruby>う時は、まあ……
+御殿にゃ連れ帰ってねえだけマシだが、そうして人を<ruby>攫<rt>さら</rt></ruby>う時は、まあ……
  
 **Sakata Kintoki:**
 ……そりゃあ肝が冷えるぜ。
@@ -20199,7 +20199,7 @@ We’re looking for our prey. Our Casters.
  
 **Narration:**
  
-大江の御山にいつの間にやら<ruby><rb>棲</rb><rt>す</rt></ruby>み着いた、鬼。
+大江の御山にいつの間にやら<ruby>棲<rt>す</rt></ruby>み着いた、鬼。
  
 **Narration:**
  
@@ -20207,7 +20207,7 @@ We’re looking for our prey. Our Casters.
  
 **Narration:**
  
-何処から来たのかよく分からねえ。分かるのは、他の鬼どもが<ruby><rb>頭</rb><rt>こうべ</rt></ruby>を垂れちまう程に、
+何処から来たのかよく分からねえ。分かるのは、他の鬼どもが<ruby>頭<rt>こうべ</rt></ruby>を垂れちまう程に、
  
 **Narration:**
  
@@ -20263,7 +20263,7 @@ We’re looking for our prey. Our Casters.
  
 **Narration:**
  
-鬼に逢うのは初めてじゃねえ。遥か東国は<ruby><rb>相模</rb><rt>さ が み</rt></ruby>の足柄、オレっちの育った御山でも、
+鬼に逢うのは初めてじゃねえ。遥か東国は<ruby>相模<rt>さ が み</rt></ruby>の足柄、オレっちの育った御山でも、
  
 **Narration:**
  
@@ -20297,13 +20297,13 @@ We’re looking for our prey. Our Casters.
 『まあ、何でもええわ』
  
 **Narration:**
-『なあ……その瞳、<ruby><rb>碧</rb><rt>あお</rt></ruby>い瞳』
+『なあ……その瞳、<ruby>碧<rt>あお</rt></ruby>い瞳』
  
 **Narration:**
-『<ruby><rb>碧眼</rb><rt>へきがん</rt></ruby>云うんやったっけ？』
+『<ruby>碧眼<rt>へきがん</rt></ruby>云うんやったっけ？』
  
 **Narration:**
-『お月さんの下、<ruby><rb>金髪碧眼</rb><rt>きんぱつへきがん</rt></ruby>、よう映えるわぁ』
+『お月さんの下、<ruby>金髪碧眼<rt>きんぱつへきがん</rt></ruby>、よう映えるわぁ』
  
 **Narration:**
 『それにその腕』
@@ -20318,7 +20318,7 @@ We’re looking for our prey. Our Casters.
 『<u>壊れにくいやろ</u>』
  
 **Narration:**
-『<ruby><rb>暫</rb><rt>しばら</rt></ruby>く、うちと遊んでもらうさかい』
+『<ruby>暫<rt>しばら</rt></ruby>く、うちと遊んでもらうさかい』
  
 **Narration:**
 『&mdash;あんじょうよろしゅうな、小僧』
@@ -20345,11 +20345,11 @@ We’re looking for our prey. Our Casters.
  
 **Narration:**
  
-見事見事と讃えた館を<ruby><rb>毀</rb><rt>こわ</rt></ruby>しやがる。愛着持って奪った宝を潰しやがる。
+見事見事と讃えた館を<ruby>毀<rt>こわ</rt></ruby>しやがる。愛着持って奪った宝を潰しやがる。
  
 **Narration:**
  
-<ruby><rb>媛</rb><rt>ひめ</rt></ruby>やら人を<ruby><rb>攫</rb><rt>さら</rt></ruby>われると気が気じゃねえのは<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>だぜ。
+<ruby>媛<rt>ひめ</rt></ruby>やら人を<ruby>攫<rt>さら</rt></ruby>われると気が気じゃねえのは<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>だぜ。
  
 **Narration:**
  
@@ -20393,7 +20393,7 @@ We’re looking for our prey. Our Casters.
  
 **Narration:**
  
-血ィ噴いてンのもオレや<ruby><rb>碓井</rb><rt>う す い</rt></ruby>の兄ィばかりで、<ruby><rb>媛</rb><rt>ひめ</rt></ruby>や男の子の四肢がもがれたって話もない。
+血ィ噴いてンのもオレや<ruby>碓井<rt>う す い</rt></ruby>の兄ィばかりで、<ruby>媛<rt>ひめ</rt></ruby>や男の子の四肢がもがれたって話もない。
  
 **Narration:**
  
@@ -20460,7 +20460,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-平安京、<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>大路南端の羅城門！
+平安京、<ruby>朱雀<rt>す ざ く</rt></ruby>大路南端の羅城門！
  
 **Danzo:**
 に、よく似せて作られた門でしょうか……何と申しますか、独特の意匠を施されていますが！
@@ -20472,7 +20472,7 @@ We’re looking for our prey. Our Casters.
 御山にこんなモン建てやがったのか酒呑は。何だ、<u>にせ</u>羅城門？
  
 **Sakata Kintoki:**
-御殿だけじゃ不足だってんで門を<ruby><rb>拵</rb><rt>こしら</rt></ruby>えたのかね？鬼の大工はそりゃあ見事な腕だと聞くが……
+御殿だけじゃ不足だってんで門を<ruby>拵<rt>こしら</rt></ruby>えたのかね？鬼の大工はそりゃあ見事な腕だと聞くが……
  
 **Sakata Kintoki:**
 その辺り、どうだい。なあ茨木！
@@ -20514,7 +20514,7 @@ We’re looking for our prey. Our Casters.
 ……なに？
  
 **Ibaraki Douji:**
-何と云った、四天王。<ruby><rb>吾</rb><rt>われ</rt></ruby>らに……何を、どうせよと？
+何と云った、四天王。<ruby>吾<rt>われ</rt></ruby>らに……何を、どうせよと？
  
 **Sakata Kintoki:**
 力を。貸してくれ。
@@ -20538,7 +20538,7 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Ibaraki Douji:**
-…………<ruby><rb>汝</rb><rt>なれ</rt></ruby>ら、<ruby><rb>吾</rb><rt>われ</rt></ruby>らを討伐に来たのではないのか？
+…………<ruby>汝<rt>なれ</rt></ruby>ら、<ruby>吾<rt>われ</rt></ruby>らを討伐に来たのではないのか？
  
 **Ibaraki Douji:**
 天覧聖杯戦争なる儀にあっては 酒呑とじゃれ合うも、中途でわやにしたかと想えば、
@@ -20571,7 +20571,7 @@ We’re looking for our prey. Our Casters.
 成る程、成る程。
  
 **Ibaraki Douji:**
-<ruby><rb>吾</rb><rt>われ</rt></ruby>ら鬼の力を借りたいと申すのだな。ほうほう。
+<ruby>吾<rt>われ</rt></ruby>ら鬼の力を借りたいと申すのだな。ほうほう。
  
 **Ibaraki Douji:**
 ほうほうほう。そうかそうか。
@@ -20583,7 +20583,7 @@ We’re looking for our prey. Our Casters.
 断る！ 
  
 **Ibaraki Douji:**
-ははははははははははははは、愚かなり人の子！のこのこと鬼の縄張りに踏み入って、<ruby><rb>汝</rb><rt>なれ</rt></ruby>ら！
+ははははははははははははは、愚かなり人の子！のこのこと鬼の縄張りに踏み入って、<ruby>汝<rt>なれ</rt></ruby>ら！
  
 **Ibaraki Douji:**
 生きて帰れるとでも想うたか！よりにもよって、力を貸せ、とはよくぞ抜かしたァ！
@@ -20592,7 +20592,7 @@ We’re looking for our prey. Our Casters.
 綱も頼光もおらぬ！四天王とは云えども一人きり！
  
 **Ibaraki Douji:**
-他には人形がひとつと、[♂小僧/♀小娘]が一匹！<ruby><rb>是</rb><rt>これ</rt></ruby>でよくもまあ<ruby><rb>吾</rb><rt>われ</rt></ruby>の新羅城門に参ったものだ！
+他には人形がひとつと、[♂小僧/♀小娘]が一匹！<ruby>是<rt>これ</rt></ruby>でよくもまあ<ruby>吾<rt>われ</rt></ruby>の新羅城門に参ったものだ！
  
 **Ibaraki Douji:**
 &mdash;星熊童子！
@@ -20604,7 +20604,7 @@ We’re looking for our prey. Our Casters.
 だから！　喧嘩しに来たんじゃねえっての！
  
 **Ibaraki Douji:**
-ゆくぞ星熊童子！今宵は四天王の首を<ruby><rb>肴</rb><rt>さかな</rt></ruby>に、<ruby><rb>血塗</rb><rt>ち ま み</rt></ruby>れの月見酒だ！
+ゆくぞ星熊童子！今宵は四天王の首を<ruby>肴<rt>さかな</rt></ruby>に、<ruby>血塗<rt>ち ま み</rt></ruby>れの月見酒だ！
  
 **Ibaraki Douji:**
 はははははははははははははははははははは！死ねえええええええええええええ！
@@ -20618,7 +20618,7 @@ We’re looking for our prey. Our Casters.
 ああっ、星熊……！お、おのれ金時……人の身でふざけた真似をッ！
  
 **Ibaraki Douji:**
-こ、こうなれば……些か<ruby><rb>吾</rb><rt>われ</rt></ruby>も気後れするが金熊童子を目覚めさせ……！
+こ、こうなれば……些か<ruby>吾<rt>われ</rt></ruby>も気後れするが金熊童子を目覚めさせ……！
  
 **Ibaraki Douji:**
 あう。
@@ -20633,7 +20633,7 @@ We’re looking for our prey. Our Casters.
 軽く殴ったように見えただろ。そりゃ気のせいだからな。
  
 **Sakata Kintoki:**
-アレが藤丸の頭なら、落ちた<ruby><rb>柘榴</rb><rt>ざくろ</rt></ruby>もかくやの割れっぷり晒してらぁ。
+アレが藤丸の頭なら、落ちた<ruby>柘榴<rt>ざくろ</rt></ruby>もかくやの割れっぷり晒してらぁ。
  
 **Shuten Dōji:**
 まあ、まあ、ようけ揃わはって。
@@ -20648,7 +20648,7 @@ We’re looking for our prey. Our Casters.
 人が入り込もうもんなら、喰い散らかされとるはずなんやけど&mdash;
  
 **Shuten Dōji:**
-そのへんは、まあ、<ruby><rb>金髪碧眼</rb><rt>きんぱつへきがん</rt></ruby>の小僧がおるからなぁ？
+そのへんは、まあ、<ruby>金髪碧眼<rt>きんぱつへきがん</rt></ruby>の小僧がおるからなぁ？
  
 **Sakata Kintoki:**
 はは。どうかね！オレは御山が似合いだってか、酒呑。
@@ -20672,13 +20672,13 @@ We’re looking for our prey. Our Casters.
 な。それとも……
  
 **Shuten Dōji:**
-酒呑まはるやろか。甘ぁい<ruby><rb>蘇</rb><rt>そ</rt></ruby>もあるんやけど、どない？
+酒呑まはるやろか。甘ぁい<ruby>蘇<rt>そ</rt></ruby>もあるんやけど、どない？
  
 **Shuten Dōji:**
-よう見たら、あんたはん……うちの知らへんもん見てきた<ruby><rb>瞳</rb><rt>め</rt></ruby>ぇしとるわあ。
+よう見たら、あんたはん……うちの知らへんもん見てきた<ruby>瞳<rt>め</rt></ruby>ぇしとるわあ。
  
 **Shuten Dōji:**
-&mdash;その<ruby><rb>瞳</rb><rt>め</rt></ruby>ぇ、<ruby><rb>抉</rb><rt>えぐ</rt></ruby>ったろか？
+&mdash;その<ruby>瞳<rt>め</rt></ruby>ぇ、<ruby>抉<rt>えぐ</rt></ruby>ったろか？
  
 **Shuten Dōji:**
 ……ああ、もう。
@@ -20734,7 +20734,7 @@ We’re looking for our prey. Our Casters.
 お二人ともご心配なく。酒呑童子の語る言葉は事実でありまする。
  
 **Danzo:**
-右腕、外されはしましたが……<ruby><rb>是</rb><rt>これ</rt></ruby>このように取り付ければ……くッ……！
+右腕、外されはしましたが……<ruby>是<rt>これ</rt></ruby>このように取り付ければ……くッ……！
  
 **Danzo:**
 ……元通り、にて。
@@ -20812,7 +20812,7 @@ We’re looking for our prey. Our Casters.
 それでいいンだ、藤丸。
  
 **Sakata Kintoki:**
-無理に<ruby><rb>理解しよ</rb><rt>わ　　か　　ろ</rt></ruby>うとすんじゃねえ。あれこれねじ曲げて呑み込んでも、意味なんざねえ。
+無理に<ruby>理解しよ<rt>わ　　か　　ろ</rt></ruby>うとすんじゃねえ。あれこれねじ曲げて呑み込んでも、意味なんざねえ。
  
 **Sakata Kintoki:**
 それが鬼だ。
@@ -20845,10 +20845,10 @@ We’re looking for our prey. Our Casters.
 あら、そ？
  
 **Sakata Kintoki:**
-一応だが云っておく。酒呑、敵サンは<ruby><rb>正真正銘</rb><rt>しょうしんしょうめい</rt></ruby>の<ruby><rb>強者</rb><rt>つわもの</rt></ruby>だ。
+一応だが云っておく。酒呑、敵サンは<ruby>正真正銘<rt>しょうしんしょうめい</rt></ruby>の<ruby>強者<rt>つわもの</rt></ruby>だ。
  
 **Sakata Kintoki:**
-八将神。二将と<ruby><rb>戦</rb><rt>や</rt></ruby>ったがとんでもねえ奴らさ。まるで勝った気がしねえ、つか&mdash;
+八将神。二将と<ruby>戦<rt>や</rt></ruby>ったがとんでもねえ奴らさ。まるで勝った気がしねえ、つか&mdash;
  
 **Sakata Kintoki:**
 まだオレは八将の誰にも<u>勝ててねえ</u>。やり合いはしたが、とどめは頼光サンと綱の兄ィだ。
@@ -20857,7 +20857,7 @@ We’re looking for our prey. Our Casters.
 へえ&mdash;
  
 **Shuten Dōji:**
-あんた、珍しいこともあるやないの。ふふふふ。なあ、まさか、<ruby><rb>強者</rb><rt>つわもの</rt></ruby>相手に<ruby><rb>滾</rb><rt>たぎ</rt></ruby>ってへんの？
+あんた、珍しいこともあるやないの。ふふふふ。なあ、まさか、<ruby>強者<rt>つわもの</rt></ruby>相手に<ruby>滾<rt>たぎ</rt></ruby>ってへんの？
  
 **Shuten Dōji:**
 怯えてはるんかねえ。かわいそやねえ。
@@ -20887,7 +20887,7 @@ We’re looking for our prey. Our Casters.
 せやろ？
  
 **Shuten Dōji:**
-その<ruby><rb>瞳</rb><rt>め</rt></ruby>ぇ見れば、うちはぜぇんぶ見えてまうの。
+その<ruby>瞳<rt>め</rt></ruby>ぇ見れば、うちはぜぇんぶ見えてまうの。
  
 ---
 
@@ -20913,7 +20913,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Shuten Dōji:**
-ふふ。<ruby><rb>可愛</rb><rt>か</rt></ruby>いらしいなぁ。ちいちゃい子はみんなそう云うんよ。
+ふふ。<ruby>可愛<rt>か</rt></ruby>いらしいなぁ。ちいちゃい子はみんなそう云うんよ。
  
 **Shuten Dōji:**
 責めてるんとちゃうよ？逆。逆。うちはねえ、あんたはんを褒めとるの。
@@ -20931,7 +20931,7 @@ We’re looking for our prey. Our Casters.
 うちに聞かせてえな。
  
 **Shuten Dōji:**
-あんたはんは何故、怖ぁい<ruby><rb>強者</rb><rt>つわもの</rt></ruby>と戦うてはるん？
+あんたはんは何故、怖ぁい<ruby>強者<rt>つわもの</rt></ruby>と戦うてはるん？
  
 ---
 
@@ -20961,7 +20961,7 @@ We’re looking for our prey. Our Casters.
 ちいちゃい子やのに立派やわぁ。ふふ。ふふふ。
  
 **Shuten Dōji:**
-そないなこと言う<ruby><rb>喉</rb><rt>のど</rt></ruby>、美味しそやねえ。舌、柔らかそうやねえ&mdash;
+そないなこと言う<ruby>喉<rt>のど</rt></ruby>、美味しそやねえ。舌、柔らかそうやねえ&mdash;
  
 **Danzo:**
 冗談は止めにしていただく。酒呑童子殿。
@@ -20994,10 +20994,10 @@ We’re looking for our prey. Our Casters.
 ああ、そうだ。それについちゃあ&mdash;
  
 **Sakata Kintoki:**
-藤丸の大将。<ruby><rb>先刻</rb><rt>さっき</rt></ruby>、段蔵サンと話をしてた感じからすりゃ、
+藤丸の大将。<ruby>先刻<rt>さっき</rt></ruby>、段蔵サンと話をしてた感じからすりゃ、
  
 **Sakata Kintoki:**
-<ruby><rb>アンタたち</rb><rt>カ　ル　デ　ア</rt></ruby>は<ruby><rb>歳刑神</rb><rt>ヤ　　ツ</rt></ruby>の素性を知ってる。そうだろ？
+<ruby>アンタたち<rt>カ　ル　デ　ア</rt></ruby>は<ruby>歳刑神<rt>ヤ　　ツ</rt></ruby>の素性を知ってる。そうだろ？
  
 **Sakata Kintoki:**
 なら&mdash;詳しく、話を聞かせちゃくれねえか。
@@ -21005,7 +21005,7 @@ We’re looking for our prey. Our Casters.
 ## Section 12: Minamoto Murderer (Volume Two) 
  
 **Narration:**
-&mdash;儂は、<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>。
+&mdash;儂は、<ruby>景清<rt>かげきよ</rt></ruby>。
  
 **Narration:**
 &mdash;儂は、怨の一文字である。
@@ -21014,25 +21014,25 @@ We’re looking for our prey. Our Casters.
 儂は、我らである。儂は、個ではなく群である。
  
 **Narration:**
-儂は、儂としてカタチを得た時より<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>である。
+儂は、儂としてカタチを得た時より<ruby>平景清<rt>たいらのかげきよ</rt></ruby>である。
  
 **Narration:**
-<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>は一人にあらず。少なくとも三十七の<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>が在って、頼朝を狙った。
+<ruby>景清<rt>かげきよ</rt></ruby>は一人にあらず。少なくとも三十七の<ruby>景清<rt>かげきよ</rt></ruby>が在って、頼朝を狙った。
  
 **Narration:**
-<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>一人死しても<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>は死なず、必ずや次の<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>が<ruby><rb>顕</rb><rt>あらわ</rt></ruby>れ、源氏を呪い、源氏に仇為す。
+<ruby>景清<rt>かげきよ</rt></ruby>一人死しても<ruby>景清<rt>かげきよ</rt></ruby>は死なず、必ずや次の<ruby>景清<rt>かげきよ</rt></ruby>が<ruby>顕<rt>あらわ</rt></ruby>れ、源氏を呪い、源氏に仇為す。
  
 **Narration:**
-時経て<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>は伝説となり……やがて座に刻まれし英霊となった儂に、誰かが云った。
+時経て<ruby>景清<rt>かげきよ</rt></ruby>は伝説となり……やがて座に刻まれし英霊となった儂に、誰かが云った。
  
 **Narration:**
-<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>は源氏を殺す概念である、と。
+<ruby>景清<rt>かげきよ</rt></ruby>は源氏を殺す概念である、と。
  
 **Narration:**
-そして儂は<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に至った。平安京。亜種空想樹によって<ruby><rb>歪</rb><rt>ゆが</rt></ruby>み果てつつある、事象。
+そして儂は<ruby>此処<rt>こ　こ</rt></ruby>に至った。平安京。亜種空想樹によって<ruby>歪<rt>ゆが</rt></ruby>み果てつつある、事象。
  
 **Narration:**
-源氏を<ruby><rb>怨</rb><rt>うら</rt></ruby>む概念・伝説としての<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>は、源氏を<ruby><rb>怨</rb><rt>うら</rt></ruby>む概念・伝説としての源義経を依り代とした。
+源氏を<ruby>怨<rt>うら</rt></ruby>む概念・伝説としての<ruby>平景清<rt>たいらのかげきよ</rt></ruby>は、源氏を<ruby>怨<rt>うら</rt></ruby>む概念・伝説としての源義経を依り代とした。
  
 **Narration:**
 英霊義経の奥底に秘められし怨の一文字！
@@ -21041,16 +21041,16 @@ We’re looking for our prey. Our Casters.
 すなわち兄、源頼朝への憎悪！
  
 **Narration:**
-怨によって重なりたるこの<ruby><rb>義経</rb><rt>からだ</rt></ruby>は 実に、よく<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>に馴染む。
+怨によって重なりたるこの<ruby>義経<rt>からだ</rt></ruby>は 実に、よく<ruby>景清<rt>かげきよ</rt></ruby>に馴染む。
  
 **Narration:**
-儂は<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>であり、義経である。私は義経であり、<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>である。
+儂は<ruby>景清<rt>かげきよ</rt></ruby>であり、義経である。私は義経であり、<ruby>景清<rt>かげきよ</rt></ruby>である。
  
 **Narration:**
 源氏死すべし。
  
 **Narration:**
-今宵、<ruby><rb>鏖殺</rb><rt>おうさつ</rt></ruby>してしんぜよう。空想の根が巡り、<ruby><rb>歪</rb><rt>ゆが</rt></ruby>み果てる<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>に源氏は不要。
+今宵、<ruby>鏖殺<rt>おうさつ</rt></ruby>してしんぜよう。空想の根が巡り、<ruby>歪<rt>ゆが</rt></ruby>み果てる<ruby>現世<rt>うつしよ</rt></ruby>に源氏は不要。
  
 **Narration:**
 さあ&mdash;
@@ -21062,31 +21062,31 @@ We’re looking for our prey. Our Casters.
 橋、か。
  
 **歳刑神・平景清:**
-儂としたことが異なものよ。<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>に見覚えなき<ruby><rb>是</rb><rt>これ</rt></ruby>なる橋を見つめ、はや一刻。
+儂としたことが異なものよ。<ruby>景清<rt>かげきよ</rt></ruby>に見覚えなき<ruby>是<rt>これ</rt></ruby>なる橋を見つめ、はや一刻。
  
 **歳刑神・平景清:**
 些か時を捨てすぎた。さあ&mdash;
  
 **歳刑神・平景清:**
-征くぞ、<ruby><rb>景清</rb><rt>義　経</rt></ruby>。そして<ruby><rb>大土蜘蛛</rb><rt>お お つ ち ぐ も</rt></ruby>・<ruby><rb>玖賀耳之御笠</rb><rt>く が み み の み か さ</rt></ruby>。
+征くぞ、<ruby>景清<rt>義　経</rt></ruby>。そして<ruby>大土蜘蛛<rt>お お つ ち ぐ も</rt></ruby>・<ruby>玖賀耳之御笠<rt>く が み み の み か さ</rt></ruby>。
  
 **歳刑神・平景清:**
-待たせたな。再び、<ruby><rb>鏖殺</rb><rt>おうさつ</rt></ruby>開始の時である。
+待たせたな。再び、<ruby>鏖殺<rt>おうさつ</rt></ruby>開始の時である。
  
 **Narration:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>を&mdash;
+<ruby>此処<rt>こ　こ</rt></ruby>を&mdash;
  
 **Narration:**
-覚えているのだ。<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>には一切の見覚えがなき橋であったとしても、
+覚えているのだ。<ruby>景清<rt>かげきよ</rt></ruby>には一切の見覚えがなき橋であったとしても、
  
 **Narration:**
-義経の<ruby><rb>躯</rb><rt>からだ</rt></ruby>が覚えている。義経の戦いは、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にて始まったのだから。
+義経の<ruby>躯<rt>からだ</rt></ruby>が覚えている。義経の戦いは、<ruby>此処<rt>こ　こ</rt></ruby>にて始まったのだから。
  
 **Narration:**
 『むざむざとは通さぬぞ』
  
 **Narration:**
-『<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>を通りたくば……　そうさな、腰の太刀を寄越してからにするがよい』
+『<ruby>此処<rt>こ　こ</rt></ruby>を通りたくば……　そうさな、腰の太刀を寄越してからにするがよい』
  
 **Narration:**
 ……弁慶。
@@ -21101,7 +21101,7 @@ We’re looking for our prey. Our Casters.
 ……母上。
  
 **Narration:**
-『はは。牛若丸、<ruby><rb>常磐</rb><rt>と き わ</rt></ruby>によく似て麗しきこと』
+『はは。牛若丸、<ruby>常磐<rt>と き わ</rt></ruby>によく似て麗しきこと』
  
 **Narration:**
 『おまえを死なせん』
@@ -21110,31 +21110,31 @@ We’re looking for our prey. Our Casters.
 『おまえを儂は護ってやろう。　おまえは、源氏が平家一門に敗れたる証なのだから』
  
 **Narration:**
-……<ruby><rb>平清盛</rb><rt>たいらのきよもり</rt></ruby>。
+……<ruby>平清盛<rt>たいらのきよもり</rt></ruby>。
  
 **Narration:**
-『<ruby><rb>天晴</rb><rt>あ っ ぱ</rt></ruby>れ、<ruby><rb>天晴</rb><rt>あ っ ぱ</rt></ruby>れ！』
+『<ruby>天晴<rt>あ っ ぱ</rt></ruby>れ、<ruby>天晴<rt>あ っ ぱ</rt></ruby>れ！』
  
 **Narration:**
 『人の身でよう鍛え抜いたものぞ、遮那王』
  
 **Narration:**
-『だがな。僕の<ruby><rb>六韜三略</rb><rt>りくとうさんりゃく</rt></ruby>を盗み見たことは許さぬ』
+『だがな。僕の<ruby>六韜三略<rt>りくとうさんりゃく</rt></ruby>を盗み見たことは許さぬ』
  
 **Narration:**
 ……師匠。
  
 **Narration:**
-『ゆめ忘れるな、九郎<ruby><rb>判官</rb><rt>ほうがん</rt></ruby>』
+『ゆめ忘れるな、九郎<ruby>判官<rt>ほうがん</rt></ruby>』
  
 **Narration:**
-『俺を討てば<ruby><rb>戦</rb><rt>いくさ</rt></ruby>が終わると？　否。頼朝殿の敵は、平家と俺だけではないだろう』
+『俺を討てば<ruby>戦<rt>いくさ</rt></ruby>が終わると？　否。頼朝殿の敵は、平家と俺だけではないだろう』
  
 **Narration:**
 『次は、おまえだ』
  
 **Narration:**
-……<ruby><rb>義仲</rb><rt>よしなか</rt></ruby>殿。
+……<ruby>義仲<rt>よしなか</rt></ruby>殿。
  
 **Narration:**
 『何処までもお供いたします、義経様』
@@ -21143,16 +21143,16 @@ We’re looking for our prey. Our Casters.
 『どうか最期まで、私をお側に置いて下さいね』
  
 **Narration:**
-……<ruby><rb>静</rb><rt>しずか</rt></ruby>。
+……<ruby>静<rt>しずか</rt></ruby>。
  
 **Narration:**
-『<ruby><rb>千歳丸</rb><rt>ち と せ ま る</rt></ruby>殿は拙僧がお護りいたします』
+『<ruby>千歳丸<rt>ち と せ ま る</rt></ruby>殿は拙僧がお護りいたします』
  
 **Narration:**
 『まずは此の場を生き延びましょうぞ、義経様！』
  
 **Narration:**
-……<ruby><rb>常陸坊</rb><rt>ひ た ち ぼ う</rt></ruby>。
+……<ruby>常陸坊<rt>ひ た ち ぼ う</rt></ruby>。
  
 **Narration:**
 『許せ義経』
@@ -21167,13 +21167,13 @@ We’re looking for our prey. Our Casters.
 &mdash;待たれよ。
  
 **Sakata Kintoki:**
-&mdash;貴様。見るに只の人ではないな。&mdash;<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な夜更け、太刀<ruby><rb>佩</rb><rt>は</rt></ruby>いて橋渡るとはあやしき者。
+&mdash;貴様。見るに只の人ではないな。&mdash;<ruby>斯様<rt>か よ う</rt></ruby>な夜更け、太刀<ruby>佩<rt>は</rt></ruby>いて橋渡るとはあやしき者。
  
 **Sakata Kintoki:**
 &mdash;<u>むざむざとは通さん</u>。
  
 **Sakata Kintoki:**
-&mdash;<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>を通りたくば！&mdash;拙僧に、腰の太刀を寄越してからにせよ！
+&mdash;<ruby>此処<rt>こ　こ</rt></ruby>を通りたくば！&mdash;拙僧に、腰の太刀を寄越してからにせよ！
  
 **歳刑神・平景清:**
 ……。……。
@@ -21182,7 +21182,7 @@ We’re looking for our prey. Our Casters.
 ……何とも、妙な言の葉を儂に告げてくるものよ。何のつもりか源氏郎等。
  
 **歳刑神・平景清:**
-儂は<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>である。如何なる言の葉も無意味。
+儂は<ruby>景清<rt>かげきよ</rt></ruby>である。如何なる言の葉も無意味。
  
 **Sakata Kintoki:**
 へえ？
@@ -21194,7 +21194,7 @@ We’re looking for our prey. Our Casters.
 く。く。
  
 **歳刑神・平景清:**
-儂は、源氏殺すモノなれば、すなわち<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>なり。
+儂は、源氏殺すモノなれば、すなわち<ruby>景清<rt>かげきよ</rt></ruby>なり。
  
 **歳刑神・平景清:**
 貴様は何も知らぬ。<u>貴様が弁慶を語るな</u>。
@@ -21212,13 +21212,13 @@ We’re looking for our prey. Our Casters.
 それはそうと頷ける点もあらあ。オイラは何も知らねえんだろうさ、子孫殿。
  
 **Sakata Kintoki:**
-牛若丸、いやさ九郎<ruby><rb>判官</rb><rt>ほうがん</rt></ruby>源義経！オレたちの<ruby><rb>拓</rb><rt>ひら</rt></ruby>いたってェ明日を生きた、武者サンよ。
+牛若丸、いやさ九郎<ruby>判官<rt>ほうがん</rt></ruby>源義経！オレたちの<ruby>拓<rt>ひら</rt></ruby>いたってェ明日を生きた、武者サンよ。
  
 **Sakata Kintoki:**
 ひとつ答えちゃくれねえか。オイラ、アンタの話をあれこれ聞いた。
  
 **Sakata Kintoki:**
-御山から下りてくるまでの道すがら、九郎<ruby><rb>判官</rb><rt>ほうがん</rt></ruby>がどう生きてどう死んでいったか聞いたのさ。
+御山から下りてくるまでの道すがら、九郎<ruby>判官<rt>ほうがん</rt></ruby>がどう生きてどう死んでいったか聞いたのさ。
  
 **Sakata Kintoki:**
 文句なく傑物だ、アンタ。
@@ -21230,7 +21230,7 @@ We’re looking for our prey. Our Casters.
 そりゃあ衆生が語り継ぐワケさ。大活躍した武士が、非業の最期を迎えるなんざ忘れられっこねえ。
  
 **Sakata Kintoki:**
-あれこれ聞いて、あれこれ<ruby><rb>腑</rb><rt>ふ</rt></ruby>に落ちた。
+あれこれ聞いて、あれこれ<ruby>腑<rt>ふ</rt></ruby>に落ちた。
  
 **Sakata Kintoki:**
 アンタ大した奴だ。それはまず間違いがねえや。
@@ -21254,10 +21254,10 @@ We’re looking for our prey. Our Casters.
 黙れ！！ 
  
 **歳刑神・平景清:**
-儂は<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>である。<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の真名なぞに何の意味があろう！
+儂は<ruby>景清<rt>かげきよ</rt></ruby>である。<ruby>骸<rt>むくろ</rt></ruby>の真名なぞに何の意味があろう！
  
 **歳刑神・平景清:**
-<ruby><rb>鏖殺</rb><rt>おうさつ</rt></ruby>開始だ&mdash;<ruby><rb>大土蜘蛛</rb><rt>お お つ ち ぐ も</rt></ruby>・<ruby><rb>玖賀耳之御笠</rb><rt>く が み み の み か さ</rt></ruby>！
+<ruby>鏖殺<rt>おうさつ</rt></ruby>開始だ&mdash;<ruby>大土蜘蛛<rt>お お つ ち ぐ も</rt></ruby>・<ruby>玖賀耳之御笠<rt>く が み み の み か さ</rt></ruby>！
  
 **Danzo:**
 対話は限界と見ました金時殿！マスターと共に、戦闘援護へ回ります！
@@ -21287,7 +21287,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Sakata Kintoki:**
-おうよ、源氏進軍！&mdash;九郎<ruby><rb>判官</rb><rt>ほうがん</rt></ruby>源義経、いざ勝負！
+おうよ、源氏進軍！&mdash;九郎<ruby>判官<rt>ほうがん</rt></ruby>源義経、いざ勝負！
  
 **--ARROW--**
  
@@ -21295,7 +21295,7 @@ We’re looking for our prey. Our Casters.
 おおおッ！頭、くらッくらするぜ！
  
 **Sakata Kintoki:**
-<ruby><rb>疾</rb><rt>はや</rt></ruby>いわ強いわでどう云うんだか、こりゃあ！強い強い。なにせ、一騎のみでさえこの強さ&mdash;
+<ruby>疾<rt>はや</rt></ruby>いわ強いわでどう云うんだか、こりゃあ！強い強い。なにせ、一騎のみでさえこの強さ&mdash;
  
 **Sakata Kintoki:**
 二騎同時ならとうに死んでらァ！なあ、酒呑！
@@ -21304,7 +21304,7 @@ We’re looking for our prey. Our Casters.
 あっははははははははははははは。愉快、愉快！
  
 **Shuten Dōji:**
-年甲斐もなくはしゃぐ蜘蛛さんや！ほな蜘蛛さん蜘蛛さん<ruby><rb>此方</rb><rt>こちら</rt></ruby>へどうぞ、手ェの&mdash;
+年甲斐もなくはしゃぐ蜘蛛さんや！ほな蜘蛛さん蜘蛛さん<ruby>此方<rt>こちら</rt></ruby>へどうぞ、手ェの&mdash;
  
 **Shuten Dōji:**
 鳴る&mdash;
@@ -21316,7 +21316,7 @@ We’re looking for our prey. Our Casters.
 妖酒による大津波！お見事！
  
 **Danzo:**
-酒呑童子、何たる<ruby><rb>戦</rb><rt>いくさ</rt></ruby>上手！金時殿から<ruby><rb>大土蜘蛛</rb><rt>お お つ ち ぐ も</rt></ruby>を引き離しつつの、源氏毒中和！
+酒呑童子、何たる<ruby>戦<rt>いくさ</rt></ruby>上手！金時殿から<ruby>大土蜘蛛<rt>お お つ ち ぐ も</rt></ruby>を引き離しつつの、源氏毒中和！
  
 **Danzo:**
 あれなる妖酒を絶えず振りまくことで、大気中の毒素を打ち消している……！
@@ -21331,13 +21331,13 @@ We’re looking for our prey. Our Casters.
 （伝承、伝説には語られざる奥義。　多くを語らぬ大陸の日々で会得せしものか？）
  
 **Shuten Dōji:**
-まあまあ、<ruby><rb>苛</rb><rt>いら</rt></ruby>つかはって。そろそろゆるりと休んだらええやないの。
+まあまあ、<ruby>苛<rt>いら</rt></ruby>つかはって。そろそろゆるりと休んだらええやないの。
  
 **Shuten Dōji:**
 なあ、<u>お爺はん</u>？
  
 **Shuten Dōji:**
-むかしむかし、大江の御山に<ruby><rb>棲</rb><rt>す</rt></ruby>んではった大怪異！<ruby><rb>其</rb><rt>そ</rt></ruby>の名も<ruby><rb>大土蜘蛛</rb><rt>お お つ ち ぐ も</rt></ruby>・<ruby><rb>玖賀耳之御笠</rb><rt>く が み み の み か さ</rt></ruby>&mdash;
+むかしむかし、大江の御山に<ruby>棲<rt>す</rt></ruby>んではった大怪異！<ruby>其<rt>そ</rt></ruby>の名も<ruby>大土蜘蛛<rt>お お つ ち ぐ も</rt></ruby>・<ruby>玖賀耳之御笠<rt>く が み み の み か さ</rt></ruby>&mdash;
  
 **Shuten Dōji:**
 うちらが来るより随分前に 退治されはった云う話やけど、ああ、せや。
@@ -21349,7 +21349,7 @@ We’re looking for our prey. Our Casters.
 でも&mdash;なァ&mdash;
  
 **Shuten Dōji:**
-御山はもう、ぜぇんぶうちのもんや。あんたはんは<ruby><rb>黄泉</rb><rt>よ　み</rt></ruby>に還らはったらよろしおす。
+御山はもう、ぜぇんぶうちのもんや。あんたはんは<ruby>黄泉<rt>よ　み</rt></ruby>に還らはったらよろしおす。
  
 **Shuten Dōji:**
 まあまあ、そないに怒らはって！うち怖いわぁ。
@@ -21375,10 +21375,10 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>にて三将目！しかし、驚嘆すべきは酒呑童子のわざ……
+<ruby>是<rt>これ</rt></ruby>にて三将目！しかし、驚嘆すべきは酒呑童子のわざ……
  
 **Danzo:**
-ワタシの<ruby><rb>感覚器</rb><rt>セ ン サ ー</rt></ruby>では感知不能の超高速攻撃を、先刻の妖酒による<ruby><rb>波濤</rb><rt>は と う</rt></ruby>と同時に、放っていた……？
+ワタシの<ruby>感覚器<rt>セ ン サ ー</rt></ruby>では感知不能の超高速攻撃を、先刻の妖酒による<ruby>波濤<rt>は と う</rt></ruby>と同時に、放っていた……？
  
 **Shuten Dōji:**
 どないやろねえ？うちも、よう分からへんけど<u>ばらばら</u>や。
@@ -21390,7 +21390,7 @@ We’re looking for our prey. Our Casters.
 せや&mdash;小僧、源氏毒の正体見たりや！
  
 **Shuten Dōji:**
-<ruby><rb>大土蜘蛛</rb><rt>お お つ ち ぐ も</rt></ruby>の旦那はんが発してはった大瘴気に なんや妖術混ぜはったんやなぁ、けったいやわぁ。
+<ruby>大土蜘蛛<rt>お お つ ち ぐ も</rt></ruby>の旦那はんが発してはった大瘴気に なんや妖術混ぜはったんやなぁ、けったいやわぁ。
  
 **Shuten Dōji:**
 もう、息吸わはっただけで 源氏の武者が痺れることはあらへんえ。
@@ -21399,10 +21399,10 @@ We’re looking for our prey. Our Casters.
 あとは好きにやりや、小僧。
  
 **Sakata Kintoki:**
-<ruby><rb>重畳</rb><rt>ちょうじょう</rt></ruby>だ！
+<ruby>重畳<rt>ちょうじょう</rt></ruby>だ！
  
 **Sakata Kintoki:**
-これで心おきなく<ruby><rb>戦</rb><rt>や</rt></ruby>れるッてもんだ、子孫殿！いやさ牛若丸！
+これで心おきなく<ruby>戦<rt>や</rt></ruby>れるッてもんだ、子孫殿！いやさ牛若丸！
  
 **Sakata Kintoki:**
 &mdash;この橋、この道！
@@ -21417,7 +21417,7 @@ We’re looking for our prey. Our Casters.
 ！
  
 **歳刑神・平景清:**
-<ruby><rb>未</rb><rt>ま</rt></ruby>だ続けるか。貴様。
+<ruby>未<rt>ま</rt></ruby>だ続けるか。貴様。
  
 **Sakata Kintoki:**
 &mdash;五条の橋は通さぬぞ。
@@ -21426,13 +21426,13 @@ We’re looking for our prey. Our Casters.
 止めろ。
  
 **Sakata Kintoki:**
-&mdash;腰に<ruby><rb>佩</rb><rt>は</rt></ruby>いた太刀、名高き名剣と見たが如何に！
+&mdash;腰に<ruby>佩<rt>は</rt></ruby>いた太刀、名高き名剣と見たが如何に！
  
 **歳刑神・平景清:**
 止めろ。
  
 **Sakata Kintoki:**
-&mdash;この武蔵坊、千本目の太刀は貴様に決めたわ！&mdash;<ruby><rb>童</rb><rt>わっぱ</rt></ruby>。いざ太刀を抜けい！
+&mdash;この武蔵坊、千本目の太刀は貴様に決めたわ！&mdash;<ruby>童<rt>わっぱ</rt></ruby>。いざ太刀を抜けい！
  
 **歳刑神・平景清:**
 止めろ弁慶っ！ 
@@ -21444,16 +21444,16 @@ We’re looking for our prey. Our Casters.
 儂は、私は……！
  
 **歳刑神・平景清:**
-この<ruby><rb>義経</rb><rt>私</rt></ruby>は……！<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>……否、否、否……！　否！
+この<ruby>義経<rt>私</rt></ruby>は……！<ruby>景清<rt>かげきよ</rt></ruby>……否、否、否……！　否！
  
 **歳刑神・平景清:**
-この私こそは九郎<ruby><rb>判官</rb><rt>ほうがん</rt></ruby>源義経！
+この私こそは九郎<ruby>判官<rt>ほうがん</rt></ruby>源義経！
  
 **歳刑神・平景清:**
-この<ruby><rb>骸</rb><rt>むくろ</rt></ruby>こそ、かつて遮那王にして牛若であったモノ！
+この<ruby>骸<rt>むくろ</rt></ruby>こそ、かつて遮那王にして牛若であったモノ！
  
 **歳刑神・平景清:**
-<ruby><rb>騙</rb><rt>かた</rt></ruby>るな弁慶もどき！貴様如きに何が分かる……！
+<ruby>騙<rt>かた</rt></ruby>るな弁慶もどき！貴様如きに何が分かる……！
  
 **歳刑神・平景清:**
 私は……！
@@ -21465,13 +21465,13 @@ We’re looking for our prey. Our Casters.
 戦い続けた果てに、得られたものは刃と炎のみであった。
  
 **歳刑神・平景清:**
-我が想いのすべては兄上に届かず、紡ぐ言の葉すべては<ruby><rb>悉</rb><rt>ことごと</rt></ruby>く焼き捨てられていた。
+我が想いのすべては兄上に届かず、紡ぐ言の葉すべては<ruby>悉<rt>ことごと</rt></ruby>く焼き捨てられていた。
  
 **歳刑神・平景清:**
-この<ruby><rb>怨</rb><rt>うら</rt></ruby>み、忘れまいぞ。この<ruby><rb>怨</rb><rt>うら</rt></ruby>み、魂の一片になろうとも失ってなるものか。
+この<ruby>怨<rt>うら</rt></ruby>み、忘れまいぞ。この<ruby>怨<rt>うら</rt></ruby>み、魂の一片になろうとも失ってなるものか。
  
 **歳刑神・平景清:**
-我が想いは裏切られ、我が道は<ruby><rb>穢</rb><rt>けが</rt></ruby>され途絶えた！最早この足が進む先に光はなく、明日もまたない！
+我が想いは裏切られ、我が道は<ruby>穢<rt>けが</rt></ruby>され途絶えた！最早この足が進む先に光はなく、明日もまたない！
  
 **歳刑神・平景清:**
 おのれ……
@@ -21480,7 +21480,7 @@ We’re looking for our prey. Our Casters.
 おのれ頼朝、おのれ日の本……
  
 **歳刑神・平景清:**
-おのれ源氏ィィィ！！郎等ごときが弁慶を<ruby><rb>騙</rb><rt>かた</rt></ruby>るとは決して許すまじ！
+おのれ源氏ィィィ！！郎等ごときが弁慶を<ruby>騙<rt>かた</rt></ruby>るとは決して許すまじ！
  
 **歳刑神・平景清:**
 怨の一文字その身で喰らえッ！ 
@@ -21489,7 +21489,7 @@ We’re looking for our prey. Our Casters.
 おうとも！ 
  
 **Sakata Kintoki:**
-かかって来やがれ九郎<ruby><rb>判官</rb><rt>ほうがん</rt></ruby>！オレっちが話をしてえのはなんちゃら<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>じゃねえ！
+かかって来やがれ九郎<ruby>判官<rt>ほうがん</rt></ruby>！オレっちが話をしてえのはなんちゃら<ruby>景清<rt>かげきよ</rt></ruby>じゃねえ！
  
 **Sakata Kintoki:**
 アンタだ！　義経！
@@ -21512,13 +21512,13 @@ We’re looking for our prey. Our Casters.
 まあまあ、無茶しよってからに。
  
 **Shuten Dōji:**
-ふふ、小僧小僧。分かっとるんやろか。あちらはん、爪の先ィまで<ruby><rb>源氏</rb><rt>あんたら</rt></ruby>への毒の塊やわぁ。
+ふふ、小僧小僧。分かっとるんやろか。あちらはん、爪の先ィまで<ruby>源氏<rt>あんたら</rt></ruby>への毒の塊やわぁ。
  
 **Shuten Dōji:**
-<ruby><rb>玖賀耳之御笠</rb><rt>く が み み の み か さ</rt></ruby>がのうなったんで、そら、息吸うのんは平気やろけどなぁ。
+<ruby>玖賀耳之御笠<rt>く が み み の み か さ</rt></ruby>がのうなったんで、そら、息吸うのんは平気やろけどなぁ。
  
 **Shuten Dōji:**
-そないに<ruby><rb>抉</rb><rt>えぐ</rt></ruby>られ放題やったら、あんたはん……
+そないに<ruby>抉<rt>えぐ</rt></ruby>られ放題やったら、あんたはん……
  
 **Shuten Dōji:**
 あとちびっとで死んでまうんやないの？なあ？
@@ -21539,16 +21539,16 @@ We’re looking for our prey. Our Casters.
 なあおい！　子孫殿、源義経よォ！
  
 **歳刑神・平景清:**
-源氏が、この<ruby><rb>義経</rb><rt>私</rt></ruby>に何を云う。
+源氏が、この<ruby>義経<rt>私</rt></ruby>に何を云う。
  
 **歳刑神・平景清:**
-いいや違うな。この<ruby><rb>義経</rb><rt>私</rt></ruby>が、源氏に何を云うこともなし。
+いいや違うな。この<ruby>義経<rt>私</rt></ruby>が、源氏に何を云うこともなし。
  
 **歳刑神・平景清:**
 故に……首だ。首を出せ。
  
 **歳刑神・平景清:**
-<ruby><rb>頼朝</rb><rt>兄　上</rt></ruby>の首が欲しい。ただ、ただただ<ruby><rb>義経</rb><rt>私</rt></ruby>は<ruby><rb>頼朝</rb><rt>兄　上</rt></ruby>の首だけが欲しい。
+<ruby>頼朝<rt>兄　上</rt></ruby>の首が欲しい。ただ、ただただ<ruby>義経<rt>私</rt></ruby>は<ruby>頼朝<rt>兄　上</rt></ruby>の首だけが欲しい。
  
 **歳刑神・平景清:**
 叶わぬならば貴様の首を差し出すがよい。
@@ -21563,12 +21563,12 @@ We’re looking for our prey. Our Casters.
 出さぬとあらば、そうさな。
  
 **歳刑神・平景清:**
-殺してしんぜよう。私は<ruby><rb>是</rb><rt>これ</rt></ruby>より、清和源氏の祖の<ruby><rb>悉</rb><rt>ことごと</rt></ruby>く<ruby><rb>鏖殺</rb><rt>おうさつ</rt></ruby>し<ruby><rb>奉</rb><rt>たてまつ</rt></ruby>らん。
+殺してしんぜよう。私は<ruby>是<rt>これ</rt></ruby>より、清和源氏の祖の<ruby>悉<rt>ことごと</rt></ruby>く<ruby>鏖殺<rt>おうさつ</rt></ruby>し<ruby>奉<rt>たてまつ</rt></ruby>らん。
  
 ---
 
 **Fujimaru 1:**
-<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>！
+<ruby>平景清<rt>たいらのかげきよ</rt></ruby>！
  
 
 ---
@@ -21605,10 +21605,10 @@ We’re looking for our prey. Our Casters.
 …………………………。
  
 **Sakata Kintoki:**
-よう子孫殿！　いやさ九郎<ruby><rb>判官</rb><rt>ほうがん</rt></ruby>義経殿！首、首、首とまあ首ばかり求めるは東国武者の<ruby><rb>倣</rb><rt>なら</rt></ruby>いか！
+よう子孫殿！　いやさ九郎<ruby>判官<rt>ほうがん</rt></ruby>義経殿！首、首、首とまあ首ばかり求めるは東国武者の<ruby>倣<rt>なら</rt></ruby>いか！
  
 **Sakata Kintoki:**
-ならばひとつ！<ruby><rb>主馬佑</rb><rt>しゅめのすけ</rt></ruby>坂田金時が己が首かけてアンタに尋ねる！
+ならばひとつ！<ruby>主馬佑<rt>しゅめのすけ</rt></ruby>坂田金時が己が首かけてアンタに尋ねる！
  
 **歳刑神・平景清:**
 ほう。
@@ -21617,7 +21617,7 @@ We’re looking for our prey. Our Casters.
 お、こっちを向いたな。よっぽど首が欲しいと見える。
  
 **Sakata Kintoki:**
-いいぜ、アンタが勝った時にゃこの首<ruby><rb>刎</rb><rt>は</rt></ruby>ねやがれ。だがその前にアンタにゃ答えてもらう。
+いいぜ、アンタが勝った時にゃこの首<ruby>刎<rt>は</rt></ruby>ねやがれ。だがその前にアンタにゃ答えてもらう。
  
 **Sakata Kintoki:**
 オレは聞きたいのさ。どうあってもだ。
@@ -21644,7 +21644,7 @@ We’re looking for our prey. Our Casters.
 千年先の藤丸に 英雄と呼ばれるまでに、戦って、戦って、戦って、
  
 **Sakata Kintoki:**
-悲劇の果てへ至るまでとことん戦い抜いた存在だ。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>には、理由があるはずだ。
+悲劇の果てへ至るまでとことん戦い抜いた存在だ。<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>には、理由があるはずだ。
  
 **Sakata Kintoki:**
 なぜ、そうまでして戦ったんだい。アンタって英雄は。
@@ -21683,25 +21683,25 @@ We’re looking for our prey. Our Casters.
 （マスター。恐れながら申し上げます）
  
 **Danzo:**
-（<ruby><rb>歳刑神</rb><rt>さいきょうじん</rt></ruby>・<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>の気配、　この問答のさなかに変質してございまする）
+（<ruby>歳刑神<rt>さいきょうじん</rt></ruby>・<ruby>平景清<rt>たいらのかげきよ</rt></ruby>の気配、　この問答のさなかに変質してございまする）
  
 **Danzo:**
-（怨の化身としての性質とは 　まったく異なる、現在の<ruby><rb>是</rb><rt>これ</rt></ruby>は……）
+（怨の化身としての性質とは 　まったく異なる、現在の<ruby>是<rt>これ</rt></ruby>は……）
  
 **Danzo:**
 （……人格の、一時的発露）
  
 **Danzo:**
-（<ruby><rb>呪詛</rb><rt>じゅそ</rt></ruby>を埋め込まれた<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の身で……　ならば俵藤太殿、鈴鹿御前殿と同じくして）
+（<ruby>呪詛<rt>じゅそ</rt></ruby>を埋め込まれた<ruby>骸<rt>むくろ</rt></ruby>の身で……　ならば俵藤太殿、鈴鹿御前殿と同じくして）
  
 **Danzo:**
 （下総の一件でも記録された事柄！）
  
 **Danzo:**
-（<ruby><rb>骸</rb><rt>むくろ</rt></ruby>と化して……　<ruby><rb>呪詛</rb><rt>じゅそ</rt></ruby>に<ruby><rb>苛</rb><rt>さいな</rt></ruby>まれながらも僅かに残る）
+（<ruby>骸<rt>むくろ</rt></ruby>と化して……　<ruby>呪詛<rt>じゅそ</rt></ruby>に<ruby>苛<rt>さいな</rt></ruby>まれながらも僅かに残る）
  
 **Danzo:**
-（英霊&mdash;人理に刻まれし英雄の、<ruby><rb>矜持</rb><rt>きょうじ</rt></ruby>！）
+（英霊&mdash;人理に刻まれし英雄の、<ruby>矜持<rt>きょうじ</rt></ruby>！）
  
 **歳刑神・平景清:**
 呆れました。坂田金時。
@@ -21764,16 +21764,16 @@ We’re looking for our prey. Our Casters.
 無論！　押し通る！&mdash;できなけりゃあこの首テメェにくれてやる！
  
 **歳刑神・平景清:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ、敗北せし英霊の魂喰らう辺獄の血戦地！&mdash;<ruby><rb>昏</rb><rt>くら</rt></ruby>き太陽戴きし、<ruby><rb>其</rb><rt>そ</rt></ruby>の名を天覧死合舞台！
+<ruby>是<rt>これ</rt></ruby>ぞ、敗北せし英霊の魂喰らう辺獄の血戦地！&mdash;<ruby>昏<rt>くら</rt></ruby>き太陽戴きし、<ruby>其<rt>そ</rt></ruby>の名を天覧死合舞台！
  
 **歳刑神・平景清:**
-我が<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の<ruby><rb>忌名</rb><rt>いみな</rt></ruby>、源義経！我が魂の<ruby><rb>忌名</rb><rt>いみな</rt></ruby>、<ruby><rb>歳刑神</rb><rt>さいきょうじん</rt></ruby>・<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>！
+我が<ruby>骸<rt>むくろ</rt></ruby>の<ruby>忌名<rt>いみな</rt></ruby>、源義経！我が魂の<ruby>忌名<rt>いみな</rt></ruby>、<ruby>歳刑神<rt>さいきょうじん</rt></ruby>・<ruby>平景清<rt>たいらのかげきよ</rt></ruby>！
  
 **歳刑神・平景清:**
-我が叫ぶ怨の一文字、貴様らの道を<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にて断たん！
+我が叫ぶ怨の一文字、貴様らの道を<ruby>此処<rt>こ　こ</rt></ruby>にて断たん！
  
 **歳刑神・平景清:**
-鬼神よ<ruby><rb>嗤</rb><rt>わら</rt></ruby>え！太陽よ<ruby><rb>耀</rb><rt>かがや</rt></ruby>け！
+鬼神よ<ruby>嗤<rt>わら</rt></ruby>え！太陽よ<ruby>耀<rt>かがや</rt></ruby>け！
  
 **歳刑神・平景清:**
 さあ、己が明日のため！&mdash;今こそ、貴様らの力を見せるが良いぞ！
@@ -21844,7 +21844,7 @@ We’re looking for our prey. Our Casters.
 （見えた！）
  
 **Danzo:**
-（僅か、ほんの僅かながら金時殿が<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>を圧した！　好機と心得まする、マスター！）
+（僅か、ほんの僅かながら金時殿が<ruby>景清<rt>かげきよ</rt></ruby>を圧した！　好機と心得まする、マスター！）
  
 **Sakata Kintoki:**
 押し切る！ 
@@ -21881,7 +21881,7 @@ We’re looking for our prey. Our Casters.
 必殺！ 
  
 **歳刑神・平景清:**
-宝具解放。『<ruby><rb>諸行無常</rb><rt>しょぎょうむじょう</rt></ruby>・<ruby><rb>盛者必衰</rb><rt>じょうしゃひっすい</rt></ruby>』&mdash;！
+宝具解放。『<ruby>諸行無常<rt>しょぎょうむじょう</rt></ruby>・<ruby>盛者必衰<rt>じょうしゃひっすい</rt></ruby>』&mdash;！
  
 **Sakata Kintoki:**
 うおおおおらああああッ！
@@ -21893,16 +21893,16 @@ We’re looking for our prey. Our Casters.
 ……ふふ。
  
 **歳刑神・平景清:**
-ふふ、ふふふふふふ。なんともはや、<ruby><rb>猪突猛進</rb><rt>ちょとつもうしん</rt></ruby>な武者がいたものです。
+ふふ、ふふふふふふ。なんともはや、<ruby>猪突猛進<rt>ちょとつもうしん</rt></ruby>な武者がいたものです。
  
 **歳刑神・平景清:**
 成る程見事な戦いぶり。しかし、ご先祖殿。
  
 **歳刑神・平景清:**
-<ruby><rb>玖賀耳之御笠</rb><rt>く が み み の み か さ</rt></ruby>の瘴気、借りはしましたが……
+<ruby>玖賀耳之御笠<rt>く が み み の み か さ</rt></ruby>の瘴気、借りはしましたが……
  
 **歳刑神・平景清:**
-源氏への毒。その源こそは私の存在です。源氏を殺し尽くさんとする怨の一文字、<ruby><rb>復讐者</rb><rt>アヴェンジャー</rt></ruby>。
+源氏への毒。その源こそは私の存在です。源氏を殺し尽くさんとする怨の一文字、<ruby>復讐者<rt>アヴェンジャー</rt></ruby>。
  
 **歳刑神・平景清:**
 我が一撃、我が吐息、我が視線の端までもが源氏を殺す。
@@ -21917,10 +21917,10 @@ We’re looking for our prey. Our Casters.
 流石に、驚かされました。
  
 **歳刑神・平景清:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>までの猛進。<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>までの無我であったか、と。
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>までの猛進。<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>までの無我であったか、と。
  
 **歳刑神・平景清:**
-それでこそ我ら源氏の礎を築きし一人。<ruby><rb>天晴</rb><rt>あ っ ぱ</rt></ruby>れでありましょう。
+それでこそ我ら源氏の礎を築きし一人。<ruby>天晴<rt>あ っ ぱ</rt></ruby>れでありましょう。
  
 **歳刑神・平景清:**
 ならば……
@@ -21947,10 +21947,10 @@ We’re looking for our prey. Our Casters.
 …………走り始めている。
  
 **歳刑神・平景清:**
-たとえば、<ruby><rb>是</rb><rt>これ</rt></ruby>このように。怨の一文字に呑み込まれた<ruby><rb>骸</rb><rt>むくろ</rt></ruby>、跳ね飛ばして。
+たとえば、<ruby>是<rt>これ</rt></ruby>このように。怨の一文字に呑み込まれた<ruby>骸<rt>むくろ</rt></ruby>、跳ね飛ばして。
  
 **歳刑神・平景清:**
-貴方は、そのまま走りきるだけでいい。<ruby><rb>全身全霊</rb><rt>ぜんしんぜんれい</rt></ruby>で。
+貴方は、そのまま走りきるだけでいい。<ruby>全身全霊<rt>ぜんしんぜんれい</rt></ruby>で。
  
 **歳刑神・平景清:**
 <u>迷わず</u>ただ進み、ただ走る。
@@ -21959,10 +21959,10 @@ We’re looking for our prey. Our Casters.
 それだけで、貴方はきっと……
  
 **歳刑神・平景清:**
-多くを成せる。多くに<ruby><rb>克</rb><rt>か</rt></ruby>てる。
+多くを成せる。多くに<ruby>克<rt>か</rt></ruby>てる。
  
 **歳刑神・平景清:**
-<ruby><rb>僭越</rb><rt>せんえつ</rt></ruby>ながら、この私が保証する。
+<ruby>僭越<rt>せんえつ</rt></ruby>ながら、この私が保証する。
  
 **歳刑神・平景清:**
 &mdash;以上。我が言の葉。ゆめ、忘れることなかれ。です！
@@ -21974,7 +21974,7 @@ We’re looking for our prey. Our Casters.
 ん。ん。んん……なんだ？
  
 **Sakata Kintoki:**
-でかい<ruby><rb>雷</rb><rt>いかずち</rt></ruby>放ったまま、気が遠くなっちまったもんだから……
+でかい<ruby>雷<rt>いかずち</rt></ruby>放ったまま、気が遠くなっちまったもんだから……
  
 **Sakata Kintoki:**
 ああこりゃそのまま死んだな、とばかり&mdash;
@@ -21994,7 +21994,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 2:**
-……<ruby><rb>歳刑神</rb><rt>さいきょうじん</rt></ruby>・<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>の霊基は完全に消えた
+……<ruby>歳刑神<rt>さいきょうじん</rt></ruby>・<ruby>平景清<rt>たいらのかげきよ</rt></ruby>の霊基は完全に消えた
  
 **Sakata Kintoki:**
 ……そうか。
@@ -22007,10 +22007,10 @@ We’re looking for our prey. Our Casters.
 霊基霊核の消失を確認してございまする。無論、晴明殿より賜った符を用いておりますれば、
  
 **Danzo:**
-<ruby><rb>歳刑神</rb><rt>さいきょうじん</rt></ruby>・<ruby><rb>平景清</rb><rt>たいらのかげきよ</rt></ruby>の魂、<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>に吸収される恐れはないかと。
+<ruby>歳刑神<rt>さいきょうじん</rt></ruby>・<ruby>平景清<rt>たいらのかげきよ</rt></ruby>の魂、<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>に吸収される恐れはないかと。
  
 **Sakata Kintoki:**
-<ruby><rb>重畳</rb><rt>ちょうじょう</rt></ruby>だ。申し分ねえ。
+<ruby>重畳<rt>ちょうじょう</rt></ruby>だ。申し分ねえ。
  
 **Sakata Kintoki:**
 ところで、だな。
@@ -22048,7 +22048,7 @@ We’re looking for our prey. Our Casters.
 そいつはあんまりにも、ゴールデンじゃなくねえか！？
  
 **Sakata Kintoki:**
-オレら、全霊込めて<ruby><rb>義経</rb><rt>アイツ</rt></ruby>と戦ったろ！
+オレら、全霊込めて<ruby>義経<rt>アイツ</rt></ruby>と戦ったろ！
  
 **Sakata Kintoki:**
 なら、景気よく、見送ってくれたってよォ&mdash;
@@ -22152,7 +22152,7 @@ We’re looking for our prey. Our Casters.
 鬼は、本来群れることがない。
  
 **Narration:**
-異形の生物種として成立した鬼は、常なる<ruby><rb>天然自然</rb><rt>てんねんしぜん</rt></ruby>の生態を超える故に、多くは群れず、
+異形の生物種として成立した鬼は、常なる<ruby>天然自然<rt>てんねんしぜん</rt></ruby>の生態を超える故に、多くは群れず、
  
 **Narration:**
 ほぼ単独で生きる。
@@ -22173,7 +22173,7 @@ We’re looking for our prey. Our Casters.
 な、何だ……？
  
 **Ibaraki Douji:**
-なにゆえ<ruby><rb>汝</rb><rt>なれ</rt></ruby>らは<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>に……人の武者のように揃い、並び立っている……？
+なにゆえ<ruby>汝<rt>なれ</rt></ruby>らは<ruby>斯様<rt>か よ う</rt></ruby>に……人の武者のように揃い、並び立っている……？
  
 **Ibaraki Douji:**
 ……何故だ……
@@ -22182,10 +22182,10 @@ We’re looking for our prey. Our Casters.
 鬼御殿羅城門前にて&mdash;数十を超す鬼の群れ、突如、並び立って行軍す。
  
 **Narration:**
-その有り様が<ruby><rb>顕</rb><rt>あらわ</rt></ruby>すのは、忠誠！
+その有り様が<ruby>顕<rt>あらわ</rt></ruby>すのは、忠誠！
  
 **Narration:**
-希有なる高貴を<ruby><rb>翳</rb><rt>かざ</rt></ruby>す酒呑童子を以てしても尚、起こり得たことのない、鬼の群れによる圧倒的忠誠！
+希有なる高貴を<ruby>翳<rt>かざ</rt></ruby>す酒呑童子を以てしても尚、起こり得たことのない、鬼の群れによる圧倒的忠誠！
  
 **Narration:**
 その証としての、行軍であった。
@@ -22194,13 +22194,13 @@ We’re looking for our prey. Our Casters.
 ああ……
  
 **Ibaraki Douji:**
-ああ、あああああ……あああああ……あってはならぬ……<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な……
+ああ、あああああ……あああああ……あってはならぬ……<ruby>斯様<rt>か よ う</rt></ruby>な……
  
 **Ibaraki Douji:**
-<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な、ことは……！
+<ruby>斯様<rt>か よ う</rt></ruby>な、ことは……！
  
 **Ibaraki Douji:**
-<ruby><rb>汝</rb><rt>なれ</rt></ruby>らには、否、<ruby><rb>吾</rb><rt>われ</rt></ruby>ら鬼にはあってはならぬ……！
+<ruby>汝<rt>なれ</rt></ruby>らには、否、<ruby>吾<rt>われ</rt></ruby>ら鬼にはあってはならぬ……！
  
 **Ibaraki Douji:**
 酒呑……酒呑……ああ、ああ……ああああ……あああ……！
@@ -22209,10 +22209,10 @@ We’re looking for our prey. Our Casters.
 ……誰、なのだ！
  
 **Ibaraki Douji:**
-<ruby><rb>吾</rb><rt>われ</rt></ruby>らを、まつろわぬが定めたる鬼を！<ruby><rb>斯</rb><rt>か</rt></ruby>くも容易く率いてみせる、<ruby><rb>汝</rb><rt>なれ</rt></ruby>！
+<ruby>吾<rt>われ</rt></ruby>らを、まつろわぬが定めたる鬼を！<ruby>斯<rt>か</rt></ruby>くも容易く率いてみせる、<ruby>汝<rt>なれ</rt></ruby>！
  
 **Ibaraki Douji:**
-<ruby><rb>汝</rb><rt>なれ</rt></ruby>は&mdash;誰だ！
+<ruby>汝<rt>なれ</rt></ruby>は&mdash;誰だ！
  
 **Narration:**
 &mdash;大江の鬼御殿にて、第五の将神出現す。
@@ -22221,7 +22221,7 @@ We’re looking for our prey. Our Casters.
 鬼の群れを刹那のうちに掌握し、今まさに京の都へと下り征かんとするソレは、何か。
  
 **Narration:**
-赤月の下にあって、<ruby><rb>耀</rb><rt>かがや</rt></ruby>くモノ。
+赤月の下にあって、<ruby>耀<rt>かがや</rt></ruby>くモノ。
  
 **Narration:**
 凶猛の鬼を率いて、微笑み浮かべるモノ。
@@ -22233,39 +22233,39 @@ We’re looking for our prey. Our Casters.
 あらゆるすべてが畏るべき力を秘めて、渦巻く&mdash;
  
 **Narration:**
-抗うことは許されぬ。拒むことは<ruby><rb>憚</rb><rt>はばか</rt></ruby>られる。
+抗うことは許されぬ。拒むことは<ruby>憚<rt>はばか</rt></ruby>られる。
  
 **Narration:**
-来たるべき魔国の後継がため、鬼の首魁たらんとして<ruby><rb>焔</rb><rt>ほむら</rt></ruby>背負いて立つ茨木童子すら、
+来たるべき魔国の後継がため、鬼の首魁たらんとして<ruby>焔<rt>ほむら</rt></ruby>背負いて立つ茨木童子すら、
  
 **Narration:**
-おのずと<ruby><rb>頭</rb><rt>こうべ</rt></ruby>を垂れざるを得ない。<ruby><rb>其程</rb><rt>それほど</rt></ruby>の光輝、<ruby><rb>其程</rb><rt>それほど</rt></ruby>の存在。衆生が仰ぐ天が如きモノ。
+おのずと<ruby>頭<rt>こうべ</rt></ruby>を垂れざるを得ない。<ruby>其程<rt>それほど</rt></ruby>の光輝、<ruby>其程<rt>それほど</rt></ruby>の存在。衆生が仰ぐ天が如きモノ。
  
 **Narration:**
 すなわち&mdash;
  
 **Narration:**
-&mdash;<ruby><rb>其</rb><rt>そ</rt></ruby>は、<ruby><rb>神</rb><rt>カミ</rt></ruby>であった。
+&mdash;<ruby>其<rt>そ</rt></ruby>は、<ruby>神<rt>カミ</rt></ruby>であった。
  
 **--ARROW--**
  
 **Narration:**
-源氏武者、数十余名が<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>大路に集う。
+源氏武者、数十余名が<ruby>朱雀<rt>す ざ く</rt></ruby>大路に集う。
  
 **Narration:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>は、<ruby><rb>洛内</rb><rt>らくない</rt></ruby>より掻き集めた最後の有効戦力である。<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>たる源頼光と四天王のうち綱、金時を先頭に置き、
+<ruby>是<rt>これ</rt></ruby>は、<ruby>洛内<rt>らくない</rt></ruby>より掻き集めた最後の有効戦力である。<ruby>棟梁<rt>とうりょう</rt></ruby>たる源頼光と四天王のうち綱、金時を先頭に置き、
  
 **Narration:**
 迫り来る脅威に対峙する布陣である。
  
 **Narration:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で云うところの脅威とは&mdash;
+<ruby>此処<rt>こ　こ</rt></ruby>で云うところの脅威とは&mdash;
  
 **Narration:**
-平安京西端の結界を容易く破りて、二条大路を練り歩き、<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>大路へ迫る鬼の群れ！
+平安京西端の結界を容易く破りて、二条大路を練り歩き、<ruby>朱雀<rt>す ざ く</rt></ruby>大路へ迫る鬼の群れ！
  
 **Narration:**
-苛烈な戦闘を予期した安倍晴明の策により、源氏武者は<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>大路にて陣を展開。
+苛烈な戦闘を予期した安倍晴明の策により、源氏武者は<ruby>朱雀<rt>す ざ く</rt></ruby>大路にて陣を展開。
  
 **Narration:**
 今まさに！　鬼の群れ、大路へと到達せん&mdash;
@@ -22280,19 +22280,19 @@ We’re looking for our prey. Our Casters.
 私としても不可解なる事態です。大江の鬼ども、茨木童子を首魁とするとは聞きますが、
  
 **Minamoto no Raikō:**
-我らは酒呑童子と<ruby><rb>一時</rb><rt>いっとき</rt></ruby>の約定を結んだ。僅かなる間とはいえ、不戦、共闘の約定です。
+我らは酒呑童子と<ruby>一時<rt>いっとき</rt></ruby>の約定を結んだ。僅かなる間とはいえ、不戦、共闘の約定です。
  
 **Minamoto no Raikō:**
 そして、酒呑童子と云えば。
  
 **Minamoto no Raikō:**
-鬼どもの<ruby><rb>謳</rb><rt>うた</rt></ruby>う魔国なるモノに最も近き鬼、王と名乗らぬ王とさえ<ruby><rb>謳</rb><rt>うた</rt></ruby>われる、無敵の<ruby><rb>怪力乱神</rb><rt>かいりきらんしん</rt></ruby>。
+鬼どもの<ruby>謳<rt>うた</rt></ruby>う魔国なるモノに最も近き鬼、王と名乗らぬ王とさえ<ruby>謳<rt>うた</rt></ruby>われる、無敵の<ruby>怪力乱神<rt>かいりきらんしん</rt></ruby>。
  
 **Minamoto no Raikō:**
-であるにも<ruby><rb>拘</rb><rt>かか</rt></ruby>わらず……
+であるにも<ruby>拘<rt>かか</rt></ruby>わらず……
  
 **Minamoto no Raikō:**
-この事実を歯牙にも掛けず、鬼どもが御山を下りて<ruby><rb>洛内</rb><rt>らくない</rt></ruby>へ押し寄せるなどと。
+この事実を歯牙にも掛けず、鬼どもが御山を下りて<ruby>洛内<rt>らくない</rt></ruby>へ押し寄せるなどと。
  
 **Minamoto no Raikō:**
 ……不可解極まります。
@@ -22339,10 +22339,10 @@ We’re looking for our prey. Our Casters.
 ……なあ、大将。ちとオレは考えてみたんだが。
  
 **Sakata Kintoki:**
-はじめの二騎は羅城門跡の内側だったよな？で、<ruby><rb>景清</rb><rt>かげきよ</rt></ruby>義経と<ruby><rb>大土蜘蛛</rb><rt>お お つ ち ぐ も</rt></ruby>は五条の果ての鴨川向こう。
+はじめの二騎は羅城門跡の内側だったよな？で、<ruby>景清<rt>かげきよ</rt></ruby>義経と<ruby>大土蜘蛛<rt>お お つ ち ぐ も</rt></ruby>は五条の果ての鴨川向こう。
  
 **Sakata Kintoki:**
-<ruby><rb>此度</rb><rt>こたび</rt></ruby>はいよいよもって大江の御山ときた。
+<ruby>此度<rt>こたび</rt></ruby>はいよいよもって大江の御山ときた。
  
 **Sakata Kintoki:**
 敵サンにも事情はあるンだろうが、流石に遠くなりすぎてねえか？
@@ -22354,7 +22354,7 @@ We’re looking for our prey. Our Casters.
 おう。
  
 **Watanabe no Tsuna:**
-晴明殿が京の四方に張る大結界、<ruby><rb>是</rb><rt>これ</rt></ruby>は、力強き怪異の侵入を防ぐためのものだ。
+晴明殿が京の四方に張る大結界、<ruby>是<rt>これ</rt></ruby>は、力強き怪異の侵入を防ぐためのものだ。
  
 **Sakata Kintoki:**
 知ってるぜ。特に、酒呑あたりはようく知ってるだろうさ。
@@ -22363,10 +22363,10 @@ We’re looking for our prey. Our Casters.
 厄介やわぁ、ほんま。
  
 **Watanabe no Tsuna:**
-<ruby><rb>此度</rb><rt>こたび</rt></ruby>の場合……将神の力に応じて結界も作用すると見るべきだ。
+<ruby>此度<rt>こたび</rt></ruby>の場合……将神の力に応じて結界も作用すると見るべきだ。
  
 **Watanabe no Tsuna:**
-力強き将神であればある程に、<ruby><rb>洛内</rb><rt>らくない</rt></ruby>への直接顕現による<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門到達叶わず、と。
+力強き将神であればある程に、<ruby>洛内<rt>らくない</rt></ruby>への直接顕現による<ruby>朱雀<rt>す ざ く</rt></ruby>門到達叶わず、と。
  
 **Danzo:**
 恐らくは神秘の多寡……
@@ -22375,7 +22375,7 @@ We’re looking for our prey. Our Casters.
 ないし、魔力量に反応する多重結界かと。
  
 **Danzo:**
-流石は安倍晴明殿、恐るべき強度の術式です。霊験あらたかな行者の聖遺物さえ<ruby><rb>凌</rb><rt>しの</rt></ruby>ぎましょう。
+流石は安倍晴明殿、恐るべき強度の術式です。霊験あらたかな行者の聖遺物さえ<ruby>凌<rt>しの</rt></ruby>ぎましょう。
  
 **Danzo:**
 或いは晴明殿の結界、仏舎利など用いているのやも……
@@ -22398,13 +22398,13 @@ We’re looking for our prey. Our Casters.
 へッ。腕が鳴らあ！
  
 **Sakata Kintoki:**
-綱の兄貴ンとこの<ruby><rb>術者</rb><rt>キャスター</rt></ruby>サンのお陰で、こちとらすっかり傷も癒えた！　段蔵サンもだ！
+綱の兄貴ンとこの<ruby>術者<rt>キャスター</rt></ruby>サンのお陰で、こちとらすっかり傷も癒えた！　段蔵サンもだ！
  
 **Sakata Kintoki:**
 頼光サンと綱の兄ィも万全。郎等の武者衆に限っちゃ数が頼りねえが、
  
 **Sakata Kintoki:**
-源頼光と四天王は<ruby><rb>一騎当千</rb><rt>いっきとうせん</rt></ruby>！
+源頼光と四天王は<ruby>一騎当千<rt>いっきとうせん</rt></ruby>！
  
 **Sakata Kintoki:**
 如何に鬼の群れとて、何、後れは取らねえぜ！
@@ -22431,7 +22431,7 @@ We’re looking for our prey. Our Casters.
 ええ。&mdash;鬼が、来ました。
  
 **Danzo:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門へと歩む鬼の群れ……！更には、<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の式神らしき影も見受けられまする！
+<ruby>朱雀<rt>す ざ く</rt></ruby>門へと歩む鬼の群れ……！更には、<ruby>骸<rt>むくろ</rt></ruby>の式神らしき影も見受けられまする！
  
 **Danzo:**
 敵性反応多数。数十、いえ、数百規模の軍勢にて！
@@ -22469,7 +22469,7 @@ We’re looking for our prey. Our Casters.
 はい。他の鬼は分かりませぬが、茨木童子は酒呑童子に強く心酔しているはず。
  
 **Danzo:**
-<ruby><rb>此度</rb><rt>こたび</rt></ruby>の鬼の軍勢にしても、こと茨木童子のみは参じていないとばかり……！
+<ruby>此度<rt>こたび</rt></ruby>の鬼の軍勢にしても、こと茨木童子のみは参じていないとばかり……！
  
 **Ibaraki Douji:**
 酒呑。
@@ -22478,13 +22478,13 @@ We’re looking for our prey. Our Casters.
 すまぬ。すまぬ。
  
 **Ibaraki Douji:**
-<ruby><rb>吾</rb><rt>われ</rt></ruby>は、わからぬのだ。
+<ruby>吾<rt>われ</rt></ruby>は、わからぬのだ。
  
 **Ibaraki Douji:**
 だって、あれはまるで……
  
 **Ibaraki Douji:**
-酒呑のような瞳で、<ruby><rb>吾</rb><rt>われ</rt></ruby>を見るから、<ruby><rb>吾</rb><rt>われ</rt></ruby>は……<ruby><rb>吾</rb><rt>われ</rt></ruby>は……
+酒呑のような瞳で、<ruby>吾<rt>われ</rt></ruby>を見るから、<ruby>吾<rt>われ</rt></ruby>は……<ruby>吾<rt>われ</rt></ruby>は……
  
 **Ibaraki Douji:**
 あ、あああ……あああああああああああ&mdash;
@@ -22499,13 +22499,13 @@ We’re looking for our prey. Our Casters.
 茨木童子、何らかの錯乱状態にある模様！号令が如き炎により&mdash;
  
 **Danzo:**
-大鬼および<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の式神、<ruby><rb>此方</rb><rt>こちら</rt></ruby>へと来ます！
+大鬼および<ruby>骸<rt>むくろ</rt></ruby>の式神、<ruby>此方<rt>こちら</rt></ruby>へと来ます！
  
 **Minamoto no Raikō:**
 皆、宜しいですね。此の場ですべてを迎え撃ちます。
  
 **Minamoto no Raikō:**
-<ruby><rb>此度</rb><rt>こたび</rt></ruby>、迎撃戦ではありますが心構えは常に攻め！すなわちは！
+<ruby>此度<rt>こたび</rt></ruby>、迎撃戦ではありますが心構えは常に攻め！すなわちは！
  
 ---
 
@@ -22534,19 +22534,19 @@ We’re looking for our prey. Our Casters.
 大勢は決した！残党を掃討せよ！
  
 **Minamoto no Raikō:**
-さて。敵方の<ruby><rb>要</rb><rt>かなめ</rt></ruby>、残るは&mdash;
+さて。敵方の<ruby>要<rt>かなめ</rt></ruby>、残るは&mdash;
  
 **Ibaraki Douji:**
-はあッ、はあッ、はあッ……！<ruby><rb>吾</rb><rt>われ</rt></ruby>は……<ruby><rb>吾</rb><rt>われ</rt></ruby>は……！
+はあッ、はあッ、はあッ……！<ruby>吾<rt>われ</rt></ruby>は……<ruby>吾<rt>われ</rt></ruby>は……！
  
 **Ibaraki Douji:**
-<ruby><rb>汝</rb><rt>なれ</rt></ruby>らを殺して進まねば、ならぬ……あの御方が……
+<ruby>汝<rt>なれ</rt></ruby>らを殺して進まねば、ならぬ……あの御方が……
  
 **Ibaraki Douji:**
-<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>に、望まれるならば……！
+<ruby>斯様<rt>か よ う</rt></ruby>に、望まれるならば……！
  
 **Ibaraki Douji:**
-この五体引き裂けようとも構うものかッ！<ruby><rb>吾</rb><rt>われ</rt></ruby>は、<ruby><rb>吾</rb><rt>われ</rt></ruby>は、鬼として在らねばならぬのだから！
+この五体引き裂けようとも構うものかッ！<ruby>吾<rt>われ</rt></ruby>は、<ruby>吾<rt>われ</rt></ruby>は、鬼として在らねばならぬのだから！
  
 **Watanabe no Tsuna:**
 茨木。忘れたか。
@@ -22558,7 +22558,7 @@ We’re looking for our prey. Our Casters.
 綱…………！
  
 **Ibaraki Douji:**
-わ、<ruby><rb>吾</rb><rt>われ</rt></ruby>……<ruby><rb>吾</rb><rt>われ</rt></ruby>は……貴様をッ……！だが……ままならぬ、ままならぬ、ままならぬ！
+わ、<ruby>吾<rt>われ</rt></ruby>……<ruby>吾<rt>われ</rt></ruby>は……貴様をッ……！だが……ままならぬ、ままならぬ、ままならぬ！
  
 **Ibaraki Douji:**
 まるで<u>こころ</u>が云うことを聞かぬッ！
@@ -22579,7 +22579,7 @@ We’re looking for our prey. Our Casters.
 あんたはそら、大江の鬼の首魁なんやろけどなあ。皆で揃って御山を下りようやなんて……
  
 **Shuten Dōji:**
-うちは<ruby><rb>何</rb><rt>い</rt></ruby><ruby><rb>時</rb><rt>つ</rt></ruby>云った？
+うちは<ruby>何<rt>い</rt></ruby><ruby>時<rt>つ</rt></ruby>云った？
  
 **Shuten Dōji:**
 金熊と熊を起こさんかったんは 偉いけど、何してはるん。
@@ -22594,16 +22594,16 @@ We’re looking for our prey. Our Casters.
 酒呑……！ああっ、酒呑、酒呑、酒呑、酒呑、酒呑！
  
 **Ibaraki Douji:**
-<ruby><rb>吾</rb><rt>われ</rt></ruby>は……！<ruby><rb>吾</rb><rt>われ</rt></ruby>は見たのだ！　見てしまった！
+<ruby>吾<rt>われ</rt></ruby>は……！<ruby>吾<rt>われ</rt></ruby>は見たのだ！　見てしまった！
  
 **Ibaraki Douji:**
-今も、<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>にいるぞ。
+今も、<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>にいるぞ。
  
 **Ibaraki Douji:**
 今も、今も、今も、今も……
  
 **Ibaraki Douji:**
-嗚呼……！<ruby><rb>吾</rb><rt>われ</rt></ruby>は、<ruby><rb>吾</rb><rt>われ</rt></ruby>は、<u>おそろしくてかなわぬ</u>！
+嗚呼……！<ruby>吾<rt>われ</rt></ruby>は、<ruby>吾<rt>われ</rt></ruby>は、<u>おそろしくてかなわぬ</u>！
  
 **Shuten Dōji:**
 &mdash;？
@@ -22629,16 +22629,16 @@ We’re looking for our prey. Our Casters.
 召喚……？
  
 **Medea Lily:**
-い、いえ！<ruby><rb>是</rb><rt>これ</rt></ruby>は、何らかの英霊が霊体化を解除している状態！
+い、いえ！<ruby>是<rt>これ</rt></ruby>は、何らかの英霊が霊体化を解除している状態！
  
 **Medea Lily:**
-本来、このように空間が<ruby><rb>歪</rb><rt>ゆが</rt></ruby>むことなど、有り得ません！　なのに！
+本来、このように空間が<ruby>歪<rt>ゆが</rt></ruby>むことなど、有り得ません！　なのに！
  
 **Danzo:**
 魔力上昇、魔力上昇……否……魔力数値計測不能！
  
 **Danzo:**
-<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>の王にも等しき桁違いの域にて！
+<ruby>異聞帯<rt>ロストベルト</rt></ruby>の王にも等しき桁違いの域にて！
  
 **Sakata Kintoki:**
 なんだ……？
@@ -22650,7 +22650,7 @@ We’re looking for our prey. Our Casters.
 何か、いやがる……いや……
  
 **Sakata Kintoki:**
-何もねえはずの<ruby><rb>処</rb><rt>ところ</rt></ruby>に、カタチが……徐々に、出来上がっていく……！
+何もねえはずの<ruby>処<rt>ところ</rt></ruby>に、カタチが……徐々に、出来上がっていく……！
  
 **Shuten Dōji:**
 ……。
@@ -22665,7 +22665,7 @@ We’re looking for our prey. Our Casters.
 顕現&mdash;
  
 **Narration:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>に、顕現していた。
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>に、顕現していた。
  
 **Narration:**
 人によく似たカタチをしているけれど、人ならざるモノ。
@@ -22674,13 +22674,13 @@ We’re looking for our prey. Our Casters.
 鬼によく似て超常の存在であるけれど、鬼ならざるモノ。
  
 **Narration:**
-<ruby><rb>自然</rb><rt>カ　ミ</rt></ruby>である。<ruby><rb>概念</rb><rt>カ　ミ</rt></ruby>である。
+<ruby>自然<rt>カ　ミ</rt></ruby>である。<ruby>概念<rt>カ　ミ</rt></ruby>である。
  
 **Narration:**
-肉体と精神と魂を以て存在を有する、数多の命とは異なりし、生み、育み、奪う、<ruby><rb>世界</rb><rt>カ　ミ</rt></ruby>の具現。
+肉体と精神と魂を以て存在を有する、数多の命とは異なりし、生み、育み、奪う、<ruby>世界<rt>カ　ミ</rt></ruby>の具現。
  
 **Narration:**
-&mdash;古き<ruby><rb>神</rb><rt>事象</rt></ruby>が、<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>にいる。
+&mdash;古き<ruby>神<rt>事象</rt></ruby>が、<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>にいる。
  
 **古き神:**
 ふ。ふ。ふ。
@@ -22692,7 +22692,7 @@ We’re looking for our prey. Our Casters.
 よくぞ栄えた。
  
 **古き神:**
-あれやこれやと智恵を付けて、よくもまあ。<ruby><rb>太歳神</rb><rt>たいさいじん</rt></ruby>なる将神の位なぞ、余にくれてやると申して。
+あれやこれやと智恵を付けて、よくもまあ。<ruby>太歳神<rt>たいさいじん</rt></ruby>なる将神の位なぞ、余にくれてやると申して。
  
 **古き神:**
 ふ。ふ。ふ。
@@ -22704,31 +22704,31 @@ We’re looking for our prey. Our Casters.
 余は、元より……
  
 **古き神:**
-<ruby><rb>神</rb><rt>カミ</rt></ruby>である。
+<ruby>神<rt>カミ</rt></ruby>である。
  
 **古き神:**
-我が名を聞け、<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>に生くるいのち。我が姿を見よ、<ruby><rb>常世</rb><rt>とこよ</rt></ruby>に眠りしいのち。
+我が名を聞け、<ruby>現世<rt>うつしよ</rt></ruby>に生くるいのち。我が姿を見よ、<ruby>常世<rt>とこよ</rt></ruby>に眠りしいのち。
  
 **古き神:**
 我が名は、伊吹。伊吹の童子&mdash;
  
 **伊吹童子:**
-&mdash;災いの<ruby><rb>竜</rb><rt>カミ</rt></ruby>。
+&mdash;災いの<ruby>竜<rt>カミ</rt></ruby>。
  
 **伊吹童子:**
-&mdash;<ruby><rb>山</rb><rt>カミ</rt></ruby>にして<ruby><rb>水</rb><rt>カミ</rt></ruby>、<ruby><rb>地</rb><rt>カミ</rt></ruby>にして<ruby><rb>鋼</rb><rt>カミ</rt></ruby>。
+&mdash;<ruby>山<rt>カミ</rt></ruby>にして<ruby>水<rt>カミ</rt></ruby>、<ruby>地<rt>カミ</rt></ruby>にして<ruby>鋼<rt>カミ</rt></ruby>。
  
 **伊吹童子:**
-&mdash;<ruby><rb>空</rb><rt>カミ</rt></ruby>にして<ruby><rb>嵐</rb><rt>カミ</rt></ruby>、<ruby><rb>火</rb><rt>カミ</rt></ruby>にして<ruby><rb>争い</rb><rt>カミ</rt></ruby>なるモノ。
+&mdash;<ruby>空<rt>カミ</rt></ruby>にして<ruby>嵐<rt>カミ</rt></ruby>、<ruby>火<rt>カミ</rt></ruby>にして<ruby>争い<rt>カミ</rt></ruby>なるモノ。
  
 **伊吹童子:**
 すなわちは。
  
 **伊吹童子:**
-<ruby><rb>八岐大蛇</rb><rt>やまたのおろち</rt></ruby>&mdash;
+<ruby>八岐大蛇<rt>やまたのおろち</rt></ruby>&mdash;
  
 **伊吹童子:**
-余こそは、八岐がうち<ruby><rb>一箇</rb><rt>ひとつめ</rt></ruby>の分け<ruby><rb>御霊</rb><rt>首</rt></ruby>なる。山より降り来たりて災うモノ。
+余こそは、八岐がうち<ruby>一箇<rt>ひとつめ</rt></ruby>の分け<ruby>御霊<rt>首</rt></ruby>なる。山より降り来たりて災うモノ。
  
 **伊吹童子:**
 おまえたちに分かりやすく云うならば、そうさな。
@@ -22740,22 +22740,22 @@ We’re looking for our prey. Our Casters.
 ……………………………………！
  
 **Watanabe no Tsuna:**
-<ruby><rb>八岐大蛇</rb><rt>やまたのおろち</rt></ruby>の分け御霊……そう云ったのか、あれは。
+<ruby>八岐大蛇<rt>やまたのおろち</rt></ruby>の分け御霊……そう云ったのか、あれは。
  
 **Danzo:**
 やッ&mdash;
  
 **Danzo:**
-<ruby><rb>八岐大蛇</rb><rt>やまたのおろち</rt></ruby>！！！
+<ruby>八岐大蛇<rt>やまたのおろち</rt></ruby>！！！
  
 **Danzo:**
-よもや……よもや……！不覚……段蔵の、頭脳領域が導く演算の<ruby><rb>埒外</rb><rt>らちがい</rt></ruby>ッ……！
+よもや……よもや……！不覚……段蔵の、頭脳領域が導く演算の<ruby>埒外<rt>らちがい</rt></ruby>ッ……！
  
 **Danzo:**
-災害竜・<ruby><rb>八岐大蛇</rb><rt>やまたのおろち</rt></ruby>！
+災害竜・<ruby>八岐大蛇<rt>やまたのおろち</rt></ruby>！
  
 **Danzo:**
-ひいては伊吹の大明神と呼ばれ<ruby><rb>祀</rb><rt>まつ</rt></ruby>られし、大化生！！
+ひいては伊吹の大明神と呼ばれ<ruby>祀<rt>まつ</rt></ruby>られし、大化生！！
  
 ---
 
@@ -22782,10 +22782,10 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-古事記、日本書紀に<ruby><rb>綴</rb><rt>つづ</rt></ruby>られし荒ぶる大蛇神にして、時下りて大明神となりしモノでありまする！
+古事記、日本書紀に<ruby>綴<rt>つづ</rt></ruby>られし荒ぶる大蛇神にして、時下りて大明神となりしモノでありまする！
  
 **Danzo:**
-カルデアに於ける幻想種分類は竜種！同時に、<ruby><rb>天然自然</rb><rt>てんねんしぜん</rt></ruby>の<ruby><rb>顕</rb><rt>あらわ</rt></ruby>れとしての荒ぶる神々の一柱！
+カルデアに於ける幻想種分類は竜種！同時に、<ruby>天然自然<rt>てんねんしぜん</rt></ruby>の<ruby>顕<rt>あらわ</rt></ruby>れとしての荒ぶる神々の一柱！
  
 **Danzo:**
 伊吹童子とは、御子……
@@ -22812,13 +22812,13 @@ We’re looking for our prey. Our Casters.
 カルデアのデータベースによれば、英霊・酒呑童子の幼名であるともされ……
  
 **Danzo:**
-別側面、或いは、異なる可能性を<ruby><rb>具</rb><rt>そな</rt></ruby>えた 英霊・神霊としての存在が予測されたモノですが……
+別側面、或いは、異なる可能性を<ruby>具<rt>そな</rt></ruby>えた 英霊・神霊としての存在が予測されたモノですが……
  
 **Danzo:**
-よもや……<ruby><rb>是</rb><rt>これ</rt></ruby>ほど……
+よもや……<ruby>是<rt>これ</rt></ruby>ほど……
  
 **Danzo:**
-発生魔力は数値としては尚も計測不能！かの第五<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>、<ruby><rb>希臘</rb><rt>ギリシャ</rt></ruby>の神々もかくやの域にて！
+発生魔力は数値としては尚も計測不能！かの第五<ruby>異聞帯<rt>ロストベルト</rt></ruby>、<ruby>希臘<rt>ギリシャ</rt></ruby>の神々もかくやの域にて！
  
 **Shuten Dōji:**
 ……………………………………へえ、そないに。
@@ -22833,7 +22833,7 @@ We’re looking for our prey. Our Casters.
 口を開くな。瞼は開いたまま、決して閉じてはならぬ。
  
 **伊吹童子:**
-<ruby><rb>空</rb><rt>カミ</rt></ruby>にするように我を仰げ。<ruby><rb>地</rb><rt>カミ</rt></ruby>にするように我に口付けるがいい。
+<ruby>空<rt>カミ</rt></ruby>にするように我を仰げ。<ruby>地<rt>カミ</rt></ruby>にするように我に口付けるがいい。
  
 **伊吹童子:**
 …………ふ。ふ。ああ、いずれも同時には出来ぬよな。
@@ -22848,7 +22848,7 @@ We’re looking for our prey. Our Casters.
 ！
  
 **Minamoto no Raikō:**
-皆……！くっ、この……尋常でない、<ruby><rb>体躯</rb><rt>たいく</rt></ruby>の重さは……！
+皆……！くっ、この……尋常でない、<ruby>体躯<rt>たいく</rt></ruby>の重さは……！
  
 **Sakata Kintoki:**
 ！！
@@ -22909,7 +22909,7 @@ We’re looking for our prey. Our Casters.
 うちは伊吹の御山で生まれたような気が しぃひんでもないし？
  
 **Shuten Dōji:**
-あの<ruby><rb>靄</rb><rt>もや</rt></ruby>みたいなんも、まあ、うちの顔のひとつなんやろけども……&mdash;
+あの<ruby>靄<rt>もや</rt></ruby>みたいなんも、まあ、うちの顔のひとつなんやろけども……&mdash;
  
 **Shuten Dōji:**
 ……。……。
@@ -22921,7 +22921,7 @@ We’re looking for our prey. Our Casters.
 なあ、伊吹の。
  
 **Shuten Dōji:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>にぼうっと立ってはるみたいやけど。
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>にぼうっと立ってはるみたいやけど。
  
 **伊吹童子:**
 &mdash;？
@@ -22936,13 +22936,13 @@ We’re looking for our prey. Our Casters.
 番やろ？
  
 **Danzo:**
-高密度魔力による高重力、緩和！<ruby><rb>是</rb><rt>これ</rt></ruby>は、酒呑童子による何らかの魔術的効果！？
+高密度魔力による高重力、緩和！<ruby>是<rt>これ</rt></ruby>は、酒呑童子による何らかの魔術的効果！？
  
 **Shuten Dōji:**
 立ちぃや、武者ども！
  
 **Shuten Dōji:**
-それとも<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>でゆるりと寝てはるん？そんなら、あんたらはもう京には要らへんなあ！
+それとも<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>でゆるりと寝てはるん？そんなら、あんたらはもう京には要らへんなあ！
  
 **Shuten Dōji:**
 うちなんかに武者の代わりさして、高みの見物とか、ふふ。ご先祖さまが知らはったら、
@@ -22975,31 +22975,31 @@ We’re looking for our prey. Our Casters.
 云わずともよい、鬼。元より如何なる大怪異であろうと、我ら源氏！
  
 **Minamoto no Raikō:**
-京の脅威、<ruby><rb>悉</rb><rt>ことごと</rt></ruby>く<ruby><rb>誅伐</rb><rt>ちゅうばつ</rt></ruby>するが御役目なれば！
+京の脅威、<ruby>悉<rt>ことごと</rt></ruby>く<ruby>誅伐<rt>ちゅうばつ</rt></ruby>するが御役目なれば！
  
 **伊吹童子:**
 …………ほう。
  
 **Sakata Kintoki:**
-<ruby><rb>厭</rb><rt>いや</rt></ruby>だねえ。
+<ruby>厭<rt>いや</rt></ruby>だねえ。
  
 **Sakata Kintoki:**
-ああ、<ruby><rb>厭</rb><rt>いや</rt></ruby>だ<ruby><rb>厭</rb><rt>いや</rt></ruby>だ。
+ああ、<ruby>厭<rt>いや</rt></ruby>だ<ruby>厭<rt>いや</rt></ruby>だ。
  
 **Sakata Kintoki:**
 オレゃあどうにも未熟でいけねえや。ンなことはハナから分かってンのに、いちいち、
  
 **Sakata Kintoki:**
-目の前に<ruby><rb>顕</rb><rt>あらわ</rt></ruby>れた先から見入っちまうのさ！いやはや、京の都！　どれだけ経っても目新しいぜ！
+目の前に<ruby>顕<rt>あらわ</rt></ruby>れた先から見入っちまうのさ！いやはや、京の都！　どれだけ経っても目新しいぜ！
  
 **Sakata Kintoki:**
 怪異！　化生！　式神に鬼に土蜘蛛！
  
 **Sakata Kintoki:**
-果ては、遥か神代に大暴れした竜の<ruby><rb>裔</rb><rt>すえ</rt></ruby>！
+果ては、遥か神代に大暴れした竜の<ruby>裔<rt>すえ</rt></ruby>！
  
 **Sakata Kintoki:**
-こりゃあ、<ruby><rb>何</rb><rt>い</rt></ruby><ruby><rb>時</rb><rt>つ</rt></ruby>まで経っても飽きが来ねえや！&mdash;なあ！　大将！
+こりゃあ、<ruby>何<rt>い</rt></ruby><ruby>時<rt>つ</rt></ruby>まで経っても飽きが来ねえや！&mdash;なあ！　大将！
  
 ---
 
@@ -23019,7 +23019,7 @@ We’re looking for our prey. Our Casters.
 &mdash;承知！霊基霊核の限界まで魔力を費やす所存！
  
 **Sakata Kintoki:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門は越えさせねえ！目覚めてすぐかもしれねえが、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>はひとつ！
+<ruby>朱雀<rt>す ざ く</rt></ruby>門は越えさせねえ！目覚めてすぐかもしれねえが、<ruby>此処<rt>こ　こ</rt></ruby>はひとつ！
  
 **Sakata Kintoki:**
 お眠りいただくとするぜ！　神霊・伊吹童子！
@@ -23028,7 +23028,7 @@ We’re looking for our prey. Our Casters.
 源氏進軍！源氏進軍！
  
 **Minamoto no Raikō:**
-&mdash;<ruby><rb>是</rb><rt>これ</rt></ruby>より我ら、神を討ち果たす！総員、戦闘準備！
+&mdash;<ruby>是<rt>これ</rt></ruby>より我ら、神を討ち果たす！総員、戦闘準備！
  
 **伊吹童子:**
 ……………………ふ。ふふ。
@@ -23060,7 +23060,7 @@ We’re looking for our prey. Our Casters.
 ですが……通じていないのです、綱さま！生得的な防御結界が、彼女の肉体を覆っています！
  
 **Medea Lily:**
-この強度、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>までの存在感……まるで自然そのものを、相手取るかのよう……！
+この強度、<ruby>此処<rt>こ　こ</rt></ruby>までの存在感……まるで自然そのものを、相手取るかのよう……！
  
 **Danzo:**
 神霊・伊吹童子、健在！お味方の総力を以てしても霊核に届きませぬ！
@@ -23090,22 +23090,22 @@ We’re looking for our prey. Our Casters.
 酒呑童子！
  
 **Danzo:**
-神霊・伊吹童子の背後より奇襲攻撃&mdash;結界を砕き、酒呑童子の<ruby><rb>爪牙</rb><rt>そ う が</rt></ruby>が<ruby><rb>体躯</rb><rt>たいく</rt></ruby>を貫いています！
+神霊・伊吹童子の背後より奇襲攻撃&mdash;結界を砕き、酒呑童子の<ruby>爪牙<rt>そ う が</rt></ruby>が<ruby>体躯<rt>たいく</rt></ruby>を貫いています！
  
 **Danzo:**
 霊基深くへの直撃を確認！マスター！
  
 **Danzo:**
-元より伊吹童子は酒呑童子の別側面！であれば、姿違えど<ruby><rb>大本</rb><rt>オリジナル</rt></ruby>を同じくする両者！
+元より伊吹童子は酒呑童子の別側面！であれば、姿違えど<ruby>大本<rt>オリジナル</rt></ruby>を同じくする両者！
  
 **Danzo:**
-その<ruby><rb>爪牙</rb><rt>そ う が</rt></ruby>、届くか……！？
+その<ruby>爪牙<rt>そ う が</rt></ruby>、届くか……！？
  
 **Sakata Kintoki:**
 ！？
  
 **Sakata Kintoki:**
-何だ……こりゃあ、<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の式神と同じ……
+何だ……こりゃあ、<ruby>骸<rt>むくろ</rt></ruby>の式神と同じ……
  
 **Sakata Kintoki:**
 ヤツの傷が……癒える……！
@@ -23114,19 +23114,19 @@ We’re looking for our prey. Our Casters.
 ふむ。
  
 **Danzo:**
-いいえ！　魔力の性質、<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の式神のソレとはまったく異なっておりまする！
+いいえ！　魔力の性質、<ruby>骸<rt>むくろ</rt></ruby>の式神のソレとはまったく異なっておりまする！
  
 **Danzo:**
 伊吹童子が生来持ち合わせる、恐らくは自動的再生力！
  
 **Watanabe no Tsuna:**
-元より<ruby><rb>不死</rb><rt>しなず</rt></ruby>か。
+元より<ruby>不死<rt>しなず</rt></ruby>か。
  
 **Sakata Kintoki:**
-ハッ！　ソイツは中々にゴールデンかもしれねえや！だが見ろ。<ruby><rb>奴</rb><rt>やっこ</rt></ruby>さん元の大きさに縮んだぜ！
+ハッ！　ソイツは中々にゴールデンかもしれねえや！だが見ろ。<ruby>奴<rt>やっこ</rt></ruby>さん元の大きさに縮んだぜ！
  
 **Sakata Kintoki:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は！　攻め時と見たぜ&mdash;
+<ruby>此処<rt>こ　こ</rt></ruby>は！　攻め時と見たぜ&mdash;
  
 **伊吹童子:**
 ゆかい。
@@ -23141,7 +23141,7 @@ We’re looking for our prey. Our Casters.
 再びの超高密度魔力による重力負荷を導く一言により、すべての人と鬼が動きを止めていた。
  
 **Narration:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なる脅威の神霊と、出自と大本を共有する 酒呑童子にしても同じく。
+<ruby>是<rt>これ</rt></ruby>なる脅威の神霊と、出自と大本を共有する 酒呑童子にしても同じく。
  
 **Narration:**
 先刻の重さよりも、尚、重い。此の場に於いては&mdash;
@@ -23150,7 +23150,7 @@ We’re looking for our prey. Our Casters.
 立ちたる者、神霊・伊吹童子ただの一騎のみ。
  
 **Narration:**
-他の<ruby><rb>悉</rb><rt>ことごと</rt></ruby>くは地に伏し、<ruby><rb>頭</rb><rt>こうべ</rt></ruby>を垂れる。
+他の<ruby>悉<rt>ことごと</rt></ruby>くは地に伏し、<ruby>頭<rt>こうべ</rt></ruby>を垂れる。
  
 **Narration:**
 大地の真なる支配者を前に、命在るもの、為す術なく、その挙動を見守る他になし。
@@ -23215,7 +23215,7 @@ We’re looking for our prey. Our Casters.
 貴様の企て、どうやら順風とはいかぬと見えるな？
  
 **Fujiwara no Michinaga:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>までに捧げられた贄、すなわち英霊の魂は総じて四騎。
+<ruby>是<rt>これ</rt></ruby>までに捧げられた贄、すなわち英霊の魂は総じて四騎。
  
 **Fujiwara no Michinaga:**
 かの妖樹が天覧聖杯戦争と同じ仕組みであるならば、貴様の大願に要する魂、総じて七騎であろう。
@@ -23224,7 +23224,7 @@ We’re looking for our prey. Our Casters.
 ならば、捧げるべき魂はあと三騎。しかし……
  
 **Fujiwara no Michinaga:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>が見事に阻まれておる。我が源氏武者を侮ったな、道満？
+<ruby>是<rt>これ</rt></ruby>が見事に阻まれておる。我が源氏武者を侮ったな、道満？
  
 **Fujiwara no Michinaga:**
 否。否。&mdash;大外道、アルターエゴ・リンボよ。
@@ -23239,31 +23239,31 @@ We’re looking for our prey. Our Casters.
 と、まあ。
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で焦るのは二流、否、三流にて。拙僧は一流を志しておりますれば……
+<ruby>此処<rt>こ　こ</rt></ruby>で焦るのは二流、否、三流にて。拙僧は一流を志しておりますれば……
  
 **黄幡神・蘆屋道満:**
 アルターエゴにしてハイ・サーヴァントたる 我が身なれば、ええ。
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>このように。我が左右に<ruby><rb>聳</rb><rt>そび</rt></ruby>えし鬼神を何と心得る？
+<ruby>是<rt>これ</rt></ruby>このように。我が左右に<ruby>聳<rt>そび</rt></ruby>えし鬼神を何と心得る？
  
 **黄幡神・蘆屋道満:**
-右の鬼神、<ruby><rb>大将軍</rb><rt>だいしょうぐん</rt></ruby>・イツパパロトル。
+右の鬼神、<ruby>大将軍<rt>だいしょうぐん</rt></ruby>・イツパパロトル。
  
 **黄幡神・蘆屋道満:**
-左の鬼神、<ruby><rb>太陰神</rb><rt>だいおんじん</rt></ruby>・チェルノボーグ。
+左の鬼神、<ruby>太陰神<rt>だいおんじん</rt></ruby>・チェルノボーグ。
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>こそはハイ・サーヴァントたる拙僧と同化せし、暗黒神の分霊二柱！
+<ruby>是<rt>これ</rt></ruby>こそはハイ・サーヴァントたる拙僧と同化せし、暗黒神の分霊二柱！
  
 **黄幡神・蘆屋道満:**
-彼ら二騎の魂に加えて、<ruby><rb>是</rb><rt>これ</rt></ruby>なる<ruby><rb>黄幡神</rb><rt>おうばんじん</rt></ruby>・蘆屋道満の魂！
+彼ら二騎の魂に加えて、<ruby>是<rt>これ</rt></ruby>なる<ruby>黄幡神<rt>おうばんじん</rt></ruby>・蘆屋道満の魂！
  
 **黄幡神・蘆屋道満:**
 既に&mdash;
  
 **黄幡神・蘆屋道満:**
-亜種空想樹・<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>に、<u>ごくり</u>と呑ませておりますれば。ええ。ええ。
+亜種空想樹・<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>に、<u>ごくり</u>と呑ませておりますれば。ええ。ええ。
  
 **Fujiwara no Michinaga:**
 ！
@@ -23290,7 +23290,7 @@ We’re looking for our prey. Our Casters.
 拙僧の人格も精神も、既に<u>術式化して久しい</u>！
  
 **黄幡神・蘆屋道満:**
-ゆえ、式神を己が分け身とすることも可能！まァ色々とあって残るは<ruby><rb>本体</rb><rt>コレ</rt></ruby>のみですが……
+ゆえ、式神を己が分け身とすることも可能！まァ色々とあって残るは<ruby>本体<rt>コレ</rt></ruby>のみですが……
  
 **黄幡神・蘆屋道満:**
 ……今や、本体さえ、上位の術式程度に過ぎませぬ。
@@ -23302,10 +23302,10 @@ We’re looking for our prey. Our Casters.
 愚かだが、企てはそれなりに得手か。高みに登って我を忘れる類かとばかり想うていたが、
  
 **Fujiwara no Michinaga:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>は評を改めねばな。道満。
+<ruby>是<rt>これ</rt></ruby>は評を改めねばな。道満。
  
 **Fujiwara no Michinaga:**
-貴様は、<ruby><rb>攫</rb><rt>さら</rt></ruby>った娘を早々に<ruby><rb>縊</rb><rt>くび</rt></ruby>り殺した後にて、父母に“我が意に添えば娘は無事ぞ”と<ruby><rb>嗤</rb><rt>わら</rt></ruby>う輩よ。
+貴様は、<ruby>攫<rt>さら</rt></ruby>った娘を早々に<ruby>縊<rt>くび</rt></ruby>り殺した後にて、父母に“我が意に添えば娘は無事ぞ”と<ruby>嗤<rt>わら</rt></ruby>う輩よ。
  
 **黄幡神・蘆屋道満:**
 いいえ。
@@ -23320,7 +23320,7 @@ We’re looking for our prey. Our Casters.
 拙僧はアルターエゴ・リンボにございます。ああ、いえ。
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>黄幡神</rb><rt>おうばんじん</rt></ruby>・蘆屋道満にございますぞ。失礼。貴方は<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>でゆるりと御覧あれ。
+<ruby>黄幡神<rt>おうばんじん</rt></ruby>・蘆屋道満にございますぞ。失礼。貴方は<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>でゆるりと御覧あれ。
  
 **黄幡神・蘆屋道満:**
 平安の世の終わりと、拙僧の世の始まりを。
@@ -23329,7 +23329,7 @@ We’re looking for our prey. Our Casters.
 さて、第五の将神ならざる第八たる最後の将神、貴き御方をお迎えするにあたり……
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>はひとつ、無法の外道らしく策を早めておくといたします。
+<ruby>此処<rt>こ　こ</rt></ruby>はひとつ、無法の外道らしく策を早めておくといたします。
  
 **黄幡神・蘆屋道満:**
 具体的には、開花なぞ始めるといたしましょうや！
@@ -23347,7 +23347,7 @@ We’re looking for our prey. Our Casters.
 そのための聖杯、そのための英霊どもの魂である。
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>杯</rb><rt>さかずき</rt></ruby>に納められし魂は既に七騎。<ruby><rb>是</rb><rt>これ</rt></ruby>は、常ならば“根源”へと至るに充分な魔力量。
+<ruby>杯<rt>さかずき</rt></ruby>に納められし魂は既に七騎。<ruby>是<rt>これ</rt></ruby>は、常ならば“根源”へと至るに充分な魔力量。
  
 **黄幡神・蘆屋道満:**
 とは云え、些か不安定ではありますし……
@@ -23359,49 +23359,49 @@ We’re looking for our prey. Our Casters.
 では……
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>歪</rb><rt>ゆが</rt></ruby>み、<ruby><rb>捻</rb><rt>ねじ</rt></ruby>れ、空の果てから侵し尽くさん&mdash;いざ。
+<ruby>歪<rt>ゆが</rt></ruby>み、<ruby>捻<rt>ねじ</rt></ruby>れ、空の果てから侵し尽くさん&mdash;いざ。
  
 **黄幡神・蘆屋道満:**
 いざ。いざ！いざ開花せよ！
  
 **黄幡神・蘆屋道満:**
-&mdash;亜種空想樹・<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>！
+&mdash;亜種空想樹・<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>！
  
 **Narration:**
 &mdash;黒き空想の根が、揺れる。
  
 **Narration:**
-ひときわ強い脈動が鳴り響いていた。同時に、妖樹を構成する結晶体すべてが<ruby><rb>みしり]と[#軋</rb><rt>きし</rt></ruby>む。
+ひときわ強い脈動が鳴り響いていた。同時に、妖樹を構成する結晶体すべてが<ruby>みしり]と[#軋<rt>きし</rt></ruby>む。
  
 **Narration:**
-捧げられた七つの英霊の魂を呑み込んで、<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>が、今、花開く。
+捧げられた七つの英霊の魂を呑み込んで、<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>が、今、花開く。
  
 **Narration:**
-&mdash;世界への<ruby><rb>呪詛</rb><rt>じゅそ</rt></ruby>が、爆ぜて、花開く。
+&mdash;世界への<ruby>呪詛<rt>じゅそ</rt></ruby>が、爆ぜて、花開く。
  
 **Narration:**
-&mdash;人理の<ruby><rb>悉</rb><rt>ことごと</rt></ruby>くを<ruby><rb>蹂躙</rb><rt>じゅうりん</rt></ruby>せんとする叫びが轟く。
+&mdash;人理の<ruby>悉<rt>ことごと</rt></ruby>くを<ruby>蹂躙<rt>じゅうりん</rt></ruby>せんとする叫びが轟く。
  
 **Narration:**
-見よ。これぞ<ruby><rb>邪</rb><rt>よこしま</rt></ruby>なる大輪の華。今、有り得ざる<ruby><rb>異聞</rb><rt>イフ</rt></ruby>を撒くために咲き誇る。
+見よ。これぞ<ruby>邪<rt>よこしま</rt></ruby>なる大輪の華。今、有り得ざる<ruby>異聞<rt>イフ</rt></ruby>を撒くために咲き誇る。
  
 **Narration:**
 聞け。これぞ悪なる企ての末。今、新たなる刻を導かんとして切なく吠え狂う。
  
 **Narration:**
-千年の平安なぞ偽りに過ぎず、真に<ruby><rb>拓</rb><rt>ひら</rt></ruby>くは因果地平&mdash;
+千年の平安なぞ偽りに過ぎず、真に<ruby>拓<rt>ひら</rt></ruby>くは因果地平&mdash;
  
 **Narration:**
-星の終わりの刹那まで続く地獄模様！<ruby><rb>怨</rb><rt>うら</rt></ruby>み、嘆き、怒り、<ruby><rb>嫉</rb><rt>ねた</rt></ruby>み、呻き続ける<ruby><rb>阿鼻叫喚</rb><rt>あびきょうかん</rt></ruby>！
+星の終わりの刹那まで続く地獄模様！<ruby>怨<rt>うら</rt></ruby>み、嘆き、怒り、<ruby>嫉<rt>ねた</rt></ruby>み、呻き続ける<ruby>阿鼻叫喚<rt>あびきょうかん</rt></ruby>！
  
 **Narration:**
-終わりなき苦悶の<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>&mdash;
+終わりなき苦悶の<ruby>異聞帯<rt>ロストベルト</rt></ruby>&mdash;
  
 **Narration:**
 &mdash;異常特異点・大地獄異聞帯を導く花弁！
  
 **Narration:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ、地獄の扉である。
+<ruby>是<rt>これ</rt></ruby>ぞ、地獄の扉である。
  
 ## Section 14: Rakshasa King・Skull Eboshi Ashiya Dōman 
  
@@ -23442,7 +23442,7 @@ We’re looking for our prey. Our Casters.
 妙な樹ィに黒いお天道様！鬼の群れ！
  
 **京の女:**
-空飛ぶ妙なもんもいたし……も、もう<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>、<ruby><rb>毀</rb><rt>こわ</rt></ruby>れてしまうんとちゃうの……
+空飛ぶ妙なもんもいたし……も、もう<ruby>現世<rt>うつしよ</rt></ruby>、<ruby>毀<rt>こわ</rt></ruby>れてしまうんとちゃうの……
  
 **京の子供:**
 よしよし。こわくない、こわくない。
@@ -23469,7 +23469,7 @@ We’re looking for our prey. Our Casters.
 特異点、各観測値に異常発生！何らかの急激な変質を起こしている模様です。
  
 **Sion:**
-発生地点は<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門北側の周辺、既に観測された高出力の異常魔力の発生源と同一！
+発生地点は<ruby>朱雀<rt>す ざ く</rt></ruby>門北側の周辺、既に観測された高出力の異常魔力の発生源と同一！
  
 **Da Vinci:**
 シバの作動値は正常範囲内……
@@ -23511,16 +23511,16 @@ We’re looking for our prey. Our Casters.
 ん&mdash;
  
 **伊吹童子:**
-ほう。<ruby><rb>太陽</rb><rt>アマテラス</rt></ruby>を<ruby><rb>斯</rb><rt>か</rt></ruby>くも黒に染め上げる。
+ほう。<ruby>太陽<rt>アマテラス</rt></ruby>を<ruby>斯<rt>か</rt></ruby>くも黒に染め上げる。
  
 **伊吹童子:**
-ふ。ふ。<ruby><rb>趣</rb><rt>おもむき</rt></ruby>は宜しくないな。
+ふ。ふ。<ruby>趣<rt>おもむき</rt></ruby>は宜しくないな。
  
 **Sakata Kintoki:**
 なんでか分かるぜ、アレは……
  
 **Sakata Kintoki:**
-アレは、<ruby><rb>この世にあっちゃなんねえ]もんだ。[#怖気</rb><rt>おぞけ</rt></ruby>の程が、<ruby><rb>先刻</rb><rt>さっき</rt></ruby>までとまるで違わぁな。
+アレは、<ruby>この世にあっちゃなんねえ]もんだ。[#怖気<rt>おぞけ</rt></ruby>の程が、<ruby>先刻<rt>さっき</rt></ruby>までとまるで違わぁな。
  
 **Sakata Kintoki:**
 となれば！地に伏してばかりもいられねえ！
@@ -23541,7 +23541,7 @@ We’re looking for our prey. Our Casters.
 立つさ！
  
 **Sakata Kintoki:**
-大将を殺すだとか<ruby><rb>宣</rb><rt>のたま</rt></ruby>われちゃあ、この<ruby><rb>主馬佑</rb><rt>しゅめのすけ</rt></ruby>坂田金時、立たぬ訳にはいかねえな！
+大将を殺すだとか<ruby>宣<rt>のたま</rt></ruby>われちゃあ、この<ruby>主馬佑<rt>しゅめのすけ</rt></ruby>坂田金時、立たぬ訳にはいかねえな！
  
 **伊吹童子:**
 ふむ。
@@ -23562,7 +23562,7 @@ We’re looking for our prey. Our Casters.
 （鬼の威ってだけじゃねえ、　霊験あらたかな御山にそなわる神気ってやつだ）
  
 **Sakata Kintoki:**
-（コイツは&mdash;<ruby><rb>正真正銘</rb><rt>しょうしんしょうめい</rt></ruby>の神サンだ）
+（コイツは&mdash;<ruby>正真正銘<rt>しょうしんしょうめい</rt></ruby>の神サンだ）
  
 **Sakata Kintoki:**
 （大明神だか諸天だか知らんが、　兎も角、とんでもねえ格だってのは分からぁ）
@@ -23580,19 +23580,19 @@ We’re looking for our prey. Our Casters.
 （何せ、まるで<u>やり方</u>が見えん……！）
  
 **伊吹童子:**
-<ruby><rb>碧</rb><rt>あお</rt></ruby>い<ruby><rb>瞳</rb><rt>め</rt></ruby>。
+<ruby>碧<rt>あお</rt></ruby>い<ruby>瞳<rt>め</rt></ruby>。
  
 **Sakata Kintoki:**
 ……ん。
  
 **伊吹童子:**
-おまえのソレは<ruby><rb>浄眼</rb><rt>じょうがん</rt></ruby>か？
+おまえのソレは<ruby>浄眼<rt>じょうがん</rt></ruby>か？
  
 **Sakata Kintoki:**
-なンだいそりゃ。オレゃあ生まれついての<ruby><rb>碧眼</rb><rt>へきがん</rt></ruby>よ。
+なンだいそりゃ。オレゃあ生まれついての<ruby>碧眼<rt>へきがん</rt></ruby>よ。
  
 **Sakata Kintoki:**
-<ruby><rb>赤龍</rb><rt>オヤジ</rt></ruby>に似たのかもしれねえが、生憎、よくは知らねえ。
+<ruby>赤龍<rt>オヤジ</rt></ruby>に似たのかもしれねえが、生憎、よくは知らねえ。
  
 **Sakata Kintoki:**
 おっ母の瞳の色もよく分からん。こう、前髪が長い女で……
@@ -23604,7 +23604,7 @@ We’re looking for our prey. Our Casters.
 ……へッ。そういや、アンタみたいに白い髪だったか。
  
 **伊吹童子:**
-<ruby><rb>山姥</rb><rt>やまうば</rt></ruby>の類か。ふ。ふ。
+<ruby>山姥<rt>やまうば</rt></ruby>の類か。ふ。ふ。
  
 **Sakata Kintoki:**
 へへ。神サン、今のが笑うとこかね？
@@ -23616,7 +23616,7 @@ We’re looking for our prey. Our Casters.
 うん。
  
 **伊吹童子:**
-余はもう<ruby><rb>朱雀門</rb><rt>あ　ち　ら</rt></ruby>へ往くとしよう。ゆかいであった。
+余はもう<ruby>朱雀門<rt>あ　ち　ら</rt></ruby>へ往くとしよう。ゆかいであった。
  
 **伊吹童子:**
 大層ゆかいであったが故、喰らう<u>いのち</u>はおまえと、後は二、三でよい。
@@ -23639,7 +23639,7 @@ We’re looking for our prey. Our Casters.
 
  
 **黄幡神・蘆屋道満:**
-お待ちください。<ruby><rb>太歳神</rb><rt>たいさいじん</rt></ruby>・伊吹童子。
+お待ちください。<ruby>太歳神<rt>たいさいじん</rt></ruby>・伊吹童子。
  
 **Sakata Kintoki:**
 ！
@@ -23657,7 +23657,7 @@ We’re looking for our prey. Our Casters.
 
  
 **黄幡神・蘆屋道満:**
-我が召喚せし将神のうち、<ruby><rb>唯</rb><rt>ただ</rt></ruby>一騎、将神の業埋め込まれて尚も<ruby><rb>骸</rb><rt>むくろ</rt></ruby>ならざる、貴き御方よ。
+我が召喚せし将神のうち、<ruby>唯<rt>ただ</rt></ruby>一騎、将神の業埋め込まれて尚も<ruby>骸<rt>むくろ</rt></ruby>ならざる、貴き御方よ。
  
 **黄幡神・蘆屋道満:**
 御身の歩みを阻むは万死に値すれども、それなる者ども、我が客にてございますれば、
@@ -23687,7 +23687,7 @@ We’re looking for our prey. Our Casters.
 自己紹介なぞは今更止めておきましょう。
  
 **黄幡神・蘆屋道満:**
-如何です？カルデアのマスター、そして<ruby><rb>木</rb><rt>で</rt></ruby><ruby><rb>偶</rb><rt>く</rt></ruby>人形。
+如何です？カルデアのマスター、そして<ruby>木<rt>で</rt></ruby><ruby>偶<rt>く</rt></ruby>人形。
  
 **黄幡神・蘆屋道満:**
 <u>顔見知りの英霊を次々に斃し続ける</u>今回の趣向、お楽しみいただけましたでしょうや？
@@ -23732,7 +23732,7 @@ We’re looking for our prey. Our Casters.
 正解。ですよ。
  
 **黄幡神・蘆屋道満:**
-この平安京なる人界の都、特異点かつ新たな<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>となりつつあります。
+この平安京なる人界の都、特異点かつ新たな<ruby>異聞帯<rt>ロストベルト</rt></ruby>となりつつあります。
  
 **黄幡神・蘆屋道満:**
 &mdash;美しき哉、開花空想樹！
@@ -23741,13 +23741,13 @@ We’re looking for our prey. Our Casters.
 カルデアのマスター！貴方には是非、これを御覧に入れたかった！
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>まで幾度も幾度も邪魔をしてくださいましたが、ええ、お相手いただきありがとうございました。
+<ruby>是<rt>これ</rt></ruby>まで幾度も幾度も邪魔をしてくださいましたが、ええ、お相手いただきありがとうございました。
  
 **黄幡神・蘆屋道満:**
-遊戯は<ruby><rb>是</rb><rt>これ</rt></ruby>にて仕舞いです。
+遊戯は<ruby>是<rt>これ</rt></ruby>にて仕舞いです。
  
 **黄幡神・蘆屋道満:**
-拙僧は<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に&mdash;
+拙僧は<ruby>此処<rt>こ　こ</rt></ruby>に&mdash;
  
 **黄幡神・蘆屋道満:**
 再び！　ああ！無限の忠と愛を以て！
@@ -23759,10 +23759,10 @@ We’re looking for our prey. Our Casters.
 外道が……よくぞ、忠信などを口にしたもの。
  
 **Danzo:**
-冗談、ならば……<ruby><rb>質</rb><rt>たち</rt></ruby>が悪かろうぞ、リンボ！
+冗談、ならば……<ruby>質<rt>たち</rt></ruby>が悪かろうぞ、リンボ！
  
 **黄幡神・蘆屋道満:**
-何を云う、<ruby><rb>木</rb><rt>で</rt></ruby><ruby><rb>偶</rb><rt>く</rt></ruby>人形。拙僧、『異星の神』に何の疑問も背信も抱きはせぬぞ。
+何を云う、<ruby>木<rt>で</rt></ruby><ruby>偶<rt>く</rt></ruby>人形。拙僧、『異星の神』に何の疑問も背信も抱きはせぬぞ。
  
 **黄幡神・蘆屋道満:**
 ええ、ええ。一度たりとも！そのように考えたことはない、この道満！
@@ -23803,7 +23803,7 @@ We’re looking for our prey. Our Casters.
 はい。器、ですがね。
  
 **黄幡神・蘆屋道満:**
-器のみであれ、真に完全なるカタチへと至るならば、<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>には意味が宿りましょう。
+器のみであれ、真に完全なるカタチへと至るならば、<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>には意味が宿りましょう。
  
 **黄幡神・蘆屋道満:**
 器は神に。偽は真に。
@@ -23868,7 +23868,7 @@ We’re looking for our prey. Our Casters.
 ンンンンンンそんな些事はどうでも宜しい。ははは。はは。ははははははははは！
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>なる新たな<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>にあって、拙僧の愛する<ruby><rb>阿鼻叫喚</rb><rt>モ　　　ノ</rt></ruby>が残れば万々歳にて！
+<ruby>是<rt>これ</rt></ruby>なる新たな<ruby>異聞帯<rt>ロストベルト</rt></ruby>にあって、拙僧の愛する<ruby>阿鼻叫喚<rt>モ　　　ノ</rt></ruby>が残れば万々歳にて！
  
 **黄幡神・蘆屋道満:**
 と、云う訳で。貴き御方。
@@ -23883,19 +23883,19 @@ We’re looking for our prey. Our Casters.
 &mdash;ん。
  
 **黄幡神・蘆屋道満:**
-日本三大化生が一角たる酒呑童子の別側面にして、日本最高の災害竜・<ruby><rb>八岐大蛇</rb><rt>やまたのおろち</rt></ruby>の分霊と称すべき御方。
+日本三大化生が一角たる酒呑童子の別側面にして、日本最高の災害竜・<ruby>八岐大蛇<rt>やまたのおろち</rt></ruby>の分霊と称すべき御方。
  
 **黄幡神・蘆屋道満:**
-貴方を、我が<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>にて 人類悪、ビーストの座に押し上げさせて戴き、
+貴方を、我が<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>にて 人類悪、ビーストの座に押し上げさせて戴き、
  
 **黄幡神・蘆屋道満:**
 拙僧だけの『異星の神』としてご降臨いただく！
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ、我が窮極の望みなれば。
+<ruby>是<rt>これ</rt></ruby>ぞ、我が窮極の望みなれば。
  
 **黄幡神・蘆屋道満:**
-どうぞ。大路を越え、<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門を越えられよ。
+どうぞ。大路を越え、<ruby>朱雀<rt>す ざ く</rt></ruby>門を越えられよ。
  
 **黄幡神・蘆屋道満:**
 &mdash;拙僧、お待ち申し上げておりますぞ。
@@ -23910,7 +23910,7 @@ We’re looking for our prey. Our Casters.
 うおおおおおッ！
  
 **Sakata Kintoki:**
-<ruby><rb>先刻</rb><rt>さっき</rt></ruby>よりさらに重い……！
+<ruby>先刻<rt>さっき</rt></ruby>よりさらに重い……！
  
 **Sakata Kintoki:**
 くそっ……！　まただ、また、オイラ動けねえ……！
@@ -23930,19 +23930,19 @@ We’re looking for our prey. Our Casters.
 ようこそお出で下さいました。貴き御方。
  
 **黄幡神・蘆屋道満:**
-災害竜・<ruby><rb>八岐大蛇</rb><rt>やまたのおろち</rt></ruby>の威を秘めし大いなる霊基、貴方こそは人類悪・ビーストに相応しき御方なれば。
+災害竜・<ruby>八岐大蛇<rt>やまたのおろち</rt></ruby>の威を秘めし大いなる霊基、貴方こそは人類悪・ビーストに相応しき御方なれば。
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>より、拙僧は貴方にお仕えする。
+<ruby>是<rt>これ</rt></ruby>より、拙僧は貴方にお仕えする。
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>より、拙僧は貴方を新たなる『異星の神』とする。
+<ruby>是<rt>これ</rt></ruby>より、拙僧は貴方を新たなる『異星の神』とする。
  
 **黄幡神・蘆屋道満:**
 ンンンンンンン素晴らしい！我ながら、ナイス・アイデアでありましょうや！
  
 **黄幡神・蘆屋道満:**
-伊吹童子。貴き御方。我ら、永劫の<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>を<ruby><rb>耽溺</rb><rt>たんでき</rt></ruby>いたしましょうぞ。
+伊吹童子。貴き御方。我ら、永劫の<ruby>異聞帯<rt>ロストベルト</rt></ruby>を<ruby>耽溺<rt>たんでき</rt></ruby>いたしましょうぞ。
  
 **黄幡神・蘆屋道満:**
 …………………………………………と。
@@ -23969,7 +23969,7 @@ We’re looking for our prey. Our Casters.
 &mdash;やめました！
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>に頂点はふたつと要らぬ。要りませぬ。ロシアや北欧の失敗は繰り返してはなりませぬゆえ！
+<ruby>異聞帯<rt>ロストベルト</rt></ruby>に頂点はふたつと要らぬ。要りませぬ。ロシアや北欧の失敗は繰り返してはなりませぬゆえ！
  
 **黄幡神・蘆屋道満:**
 すべて、すべて、すべて。このリンボ自らが新たなる『異星の神』に……
@@ -23981,7 +23981,7 @@ We’re looking for our prey. Our Casters.
 ならば、どうする。
  
 **黄幡神・蘆屋道満:**
-は。貴き御方。<ruby><rb>是</rb><rt>これ</rt></ruby>より、貴方の命をいただきます。
+は。貴き御方。<ruby>是<rt>これ</rt></ruby>より、貴方の命をいただきます。
  
 **伊吹童子:**
 ふ。ふ。ふふ&mdash;
@@ -24014,7 +24014,7 @@ We’re looking for our prey. Our Casters.
 ありがとうございます、綱さま。私は大事ありません。
  
 **Minamoto no Raikō:**
-ナーサリー・ライム。もし、霊基霊核に無理があるようならば、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で。
+ナーサリー・ライム。もし、霊基霊核に無理があるようならば、<ruby>此処<rt>こ　こ</rt></ruby>で。
  
 **Nursery Rhyme:**
 ……いいえ、いいえ。まだ、ここでは消えたりしないわ。
@@ -24049,22 +24049,22 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Danzo:**
-……空想樹は既に開花済み。そして、八将神の一騎が<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門へと至りました。
+……空想樹は既に開花済み。そして、八将神の一騎が<ruby>朱雀<rt>す ざ く</rt></ruby>門へと至りました。
  
 **Danzo:**
 亜種空想樹が真に完成したかまでは不明なれど、リンボの企て、最終段階へ至ったと予想されまする。
  
 **Danzo:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>は、我らの敗北と……
+<ruby>是<rt>これ</rt></ruby>は、我らの敗北と……
  
 **Danzo:**
-<ruby><rb>見做</rb><rt>み　な</rt></ruby>すべき、なのでしょうか……
+<ruby>見做<rt>み　な</rt></ruby>すべき、なのでしょうか……
  
 **Sakata Kintoki:**
 否。まだだ。
  
 **Sakata Kintoki:**
-オレたちの<ruby><rb>五体</rb><rt>からだ</rt></ruby>はなんとか動く。<ruby><rb>想い</rb><rt>こころ</rt></ruby>だってそうさ、まだ何ひとつ諦めちゃいねえ。
+オレたちの<ruby>五体<rt>からだ</rt></ruby>はなんとか動く。<ruby>想い<rt>こころ</rt></ruby>だってそうさ、まだ何ひとつ諦めちゃいねえ。
  
 **Sakata Kintoki:**
 ンなら、己が想いを貫くのみだぜ！
@@ -24109,7 +24109,7 @@ We’re looking for our prey. Our Casters.
 まったくです。いつの間にやら、こんなにも大きく育って。
  
 **Shuten Dōji:**
-ふふ。分かるわぁ、もうちっと<ruby><rb>童</rb><rt>わらし</rt></ruby>のままでもええのになぁ？
+ふふ。分かるわぁ、もうちっと<ruby>童<rt>わらし</rt></ruby>のままでもええのになぁ？
  
 **Minamoto no Raikō:**
 そうですね、ええもう少しだけ……いえコホン！
@@ -24133,10 +24133,10 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Ibaraki Douji:**
-………………い、伊吹童子に、<ruby><rb>吾</rb><rt>われ</rt></ruby>は勝てる気がせぬ。
+………………い、伊吹童子に、<ruby>吾<rt>われ</rt></ruby>は勝てる気がせぬ。
  
 **Ibaraki Douji:**
-<ruby><rb>汝</rb><rt>なれ</rt></ruby>らも目にしたであろうが！どころか、刃向かうことの意味を知ったであろう！
+<ruby>汝<rt>なれ</rt></ruby>らも目にしたであろうが！どころか、刃向かうことの意味を知ったであろう！
  
 **Ibaraki Douji:**
 あれは鬼も人も超えたるモノだ！い、今更、何ができると云うのかっ。
@@ -24148,10 +24148,10 @@ We’re looking for our prey. Our Casters.
 ！？
  
 **Ibaraki Douji:**
-な、なぜそのように笑うのだこの<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>者め！<ruby><rb>汝</rb><rt>なれ</rt></ruby>如きが、あの神気を前に<ruby><rb>如何</rb><rt>ど　う</rt></ruby>するつもりだ……！
+な、なぜそのように笑うのだこの<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>者め！<ruby>汝<rt>なれ</rt></ruby>如きが、あの神気を前に<ruby>如何<rt>ど　う</rt></ruby>するつもりだ……！
  
 **Sakata Kintoki:**
-全力全霊、<ruby><rb>正々堂々</rb><rt>せいせいどうどう</rt></ruby>ぶつかって完全完璧に負けた。オレゃあ伊吹童子に一度負けちまった。
+全力全霊、<ruby>正々堂々<rt>せいせいどうどう</rt></ruby>ぶつかって完全完璧に負けた。オレゃあ伊吹童子に一度負けちまった。
  
 **Sakata Kintoki:**
 ああ、そうさ。一度負けた。大負けだ。
@@ -24166,10 +24166,10 @@ We’re looking for our prey. Our Casters.
 故に、次はオレが勝つ。
  
 **Sakata Kintoki:**
-それだけだ！練る策なんざ、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に至ってある訳ねえだろ<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>！
+それだけだ！練る策なんざ、<ruby>此処<rt>こ　こ</rt></ruby>に至ってある訳ねえだろ<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>！
  
 **Ibaraki Douji:**
-策なしと言い切りおった！ば、ば、ば&mdash;<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>だ、<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>がいるぞ酒呑！
+策なしと言い切りおった！ば、ば、ば&mdash;<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>だ、<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>がいるぞ酒呑！
  
 **Shuten Dōji:**
 ふふ。まあ武辺者云うんはそういうんとちゃう？
@@ -24181,19 +24181,19 @@ We’re looking for our prey. Our Casters.
 ほう、何やら飛来するモノがある。キャスター。
  
 **Medea Lily:**
-高魔力反応です。亜種空想樹の枝より放たれて、迷わず、一直線に<ruby><rb>此方</rb><rt>こちら</rt></ruby>へと迫っています！
+高魔力反応です。亜種空想樹の枝より放たれて、迷わず、一直線に<ruby>此方<rt>こちら</rt></ruby>へと迫っています！
  
 **Medea Lily:**
 単独ではありません。ひとつ、ふたつ、みっつ&mdash;
  
 **Minamoto no Raikō:**
-今更に我らへの足止めを寄越す……？リンボなる外道の企て、<ruby><rb>未</rb><rt>いま</rt></ruby>だ完遂にまでは至らずか。
+今更に我らへの足止めを寄越す……？リンボなる外道の企て、<ruby>未<rt>いま</rt></ruby>だ完遂にまでは至らずか。
  
 **Minamoto no Raikō:**
 ならば！勝機ありとみました！　皆！
  
 **Minamoto no Raikō:**
-迫る飛来物を直ちに撃破、<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門へと急ぎます！
+迫る飛来物を直ちに撃破、<ruby>朱雀<rt>す ざ く</rt></ruby>門へと急ぎます！
  
 ---
 
@@ -24215,7 +24215,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 2:**
-でも、突破して<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門へ急がなきゃだ
+でも、突破して<ruby>朱雀<rt>す ざ く</rt></ruby>門へ急がなきゃだ
  
 
 ---
@@ -24233,7 +24233,7 @@ We’re looking for our prey. Our Casters.
 太刀筋、いえ、見事に芯を捉えた爪の筋。
  
 **Minamoto no Raikō:**
-鬼と肩を並べて戦うというのは、思ったよりも&mdash;<ruby><rb>滾</rb><rt>たぎ</rt></ruby>るもの、ですね。
+鬼と肩を並べて戦うというのは、思ったよりも&mdash;<ruby>滾<rt>たぎ</rt></ruby>るもの、ですね。
  
 **Shuten Dōji:**
 ふふ。天下の源頼光に褒めてもろたわぁ。なんや、照れくさいやないの。
@@ -24251,7 +24251,7 @@ We’re looking for our prey. Our Casters.
 ちいッ。綱ごと灰にするはずだったが……
  
 **Ibaraki Douji:**
-<ruby><rb>其</rb><rt>そ</rt></ruby><ruby><rb>処</rb><rt>こ</rt></ruby>の女が結界なぞで邪魔をするものだから、異形の種子だけが燃え尽きるばかりではないかぁ！
+<ruby>其<rt>そ</rt></ruby><ruby>処<rt>こ</rt></ruby>の女が結界なぞで邪魔をするものだから、異形の種子だけが燃え尽きるばかりではないかぁ！
  
 **Medea Lily:**
 何を云っているのです、茨木童子。現在は互いに共闘しているさなかのはずでは？
@@ -24269,7 +24269,7 @@ We’re looking for our prey. Our Casters.
 ……む、むむむむむ。
  
 **Watanabe no Tsuna:**
-あまり<ruby><rb>苛</rb><rt>いじ</rt></ruby>めてやるな。それより進むぞ、キャスター。
+あまり<ruby>苛<rt>いじ</rt></ruby>めてやるな。それより進むぞ、キャスター。
  
 **Medea Lily:**
 はい、綱さま。
@@ -24281,21 +24281,21 @@ We’re looking for our prey. Our Casters.
 伊吹童子の神気にあてられて 無力化されていた源氏郎等、戦線復帰です！
  
 **Danzo:**
-<ruby><rb>骸</rb><rt>むくろ</rt></ruby>の式神の群れと対峙中の模様！
+<ruby>骸<rt>むくろ</rt></ruby>の式神の群れと対峙中の模様！
  
 **Sakata Kintoki:**
 有り難い！そっちを引き受けてくれンなら&mdash;
  
 **Sakata Kintoki:**
-オレっちたちは<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門へ突っ込むぜ！
+オレっちたちは<ruby>朱雀<rt>す ざ く</rt></ruby>門へ突っ込むぜ！
  
 **Sakata Kintoki:**
-<ruby><rb>嗤</rb><rt>わら</rt></ruby>ってんじゃねえええええ！
+<ruby>嗤<rt>わら</rt></ruby>ってんじゃねえええええ！
  
 ---
 
 **Fujimaru 1:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門へ！
+<ruby>朱雀<rt>す ざ く</rt></ruby>門へ！
  
 
 ---
@@ -24310,7 +24310,7 @@ We’re looking for our prey. Our Casters.
 ゆかい。
  
 **伊吹童子:**
-ゆかい、ゆかい。余を喰らいて高みへ至らんとするかよ、<ruby><rb>嗤</rb><rt>わら</rt></ruby>う男。
+ゆかい、ゆかい。余を喰らいて高みへ至らんとするかよ、<ruby>嗤<rt>わら</rt></ruby>う男。
  
 **伊吹童子:**
 佳い。やってみろ。
@@ -24322,7 +24322,7 @@ We’re looking for our prey. Our Casters.
 頼光四天王が一角、坂田金時！　参上！
  
 **Sakata Kintoki:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門を越えられちまったかと想えば足踏みかい。否、それどころか……
+<ruby>朱雀<rt>す ざ く</rt></ruby>門を越えられちまったかと想えば足踏みかい。否、それどころか……
  
 **Sakata Kintoki:**
 急いできてみりゃ仲間割れたぁ、笑えるぜ！有り難いことこの上なし！
@@ -24331,7 +24331,7 @@ We’re looking for our prey. Our Casters.
 双方ぶっ倒して、片ァ付ける！
  
 **Danzo:**
-金時殿が<ruby><rb>吶喊</rb><rt>とっかん</rt></ruby>！マスター、我らも……！
+金時殿が<ruby>吶喊<rt>とっかん</rt></ruby>！マスター、我らも……！
  
 ---
 
@@ -24357,25 +24357,25 @@ We’re looking for our prey. Our Casters.
 諦めが悪いのは性分でね。地獄の底まで付き合ってもらうぜ、お二人さん。
  
 **伊吹童子:**
-<ruby><rb>善哉</rb><rt>よきかな</rt></ruby>。
+<ruby>善哉<rt>よきかな</rt></ruby>。
  
 **伊吹童子:**
 人よ。
  
 **伊吹童子:**
-赤龍と<ruby><rb>山姥</rb><rt>やまうば</rt></ruby>の子、人のように振る舞い生きるモノよ。
+赤龍と<ruby>山姥<rt>やまうば</rt></ruby>の子、人のように振る舞い生きるモノよ。
  
 **伊吹童子:**
 ゆかい。
  
 **伊吹童子:**
-喜べ。おまえの戯れ、余が付き合ってやろう。<ruby><rb>是</rb><rt>これ</rt></ruby>なる<ruby><rb>嗤</rb><rt>わら</rt></ruby>う男に神罰下すは後回しよ。
+喜べ。おまえの戯れ、余が付き合ってやろう。<ruby>是<rt>これ</rt></ruby>なる<ruby>嗤<rt>わら</rt></ruby>う男に神罰下すは後回しよ。
  
 **黄幡神・蘆屋道満:**
 余所見をォ！
  
 **黄幡神・蘆屋道満:**
-しましたねェエエエエエエエエエエ伊吹童子殿！&mdash;急々如律令！　喰らえい<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>ッ！
+しましたねェエエエエエエエエエエ伊吹童子殿！&mdash;急々如律令！　喰らえい<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>ッ！
  
 ---
 
@@ -24396,7 +24396,7 @@ We’re looking for our prey. Our Casters.
 あら、まぁ。
  
 **Ibaraki Douji:**
-な、なんだ……！空から降り立った<ruby><rb>是</rb><rt>これ</rt></ruby>は……妖樹の枝、か……！？
+な、なんだ……！空から降り立った<ruby>是<rt>これ</rt></ruby>は……妖樹の枝、か……！？
  
 **Danzo:**
 亜種空想樹の枝の一本が……！空より地に突き立ち、<u>伊吹童子を呑んでおりまする</u>！
@@ -24405,7 +24405,7 @@ We’re looking for our prey. Our Casters.
 仲間割れと見えたは間違いではなく、真に敵対していた、か。成る程。流石は外道。
  
 **Watanabe no Tsuna:**
-神霊・伊吹童子を主人として、何らかの妖術を施すと<ruby><rb>宣</rb><rt>のたま</rt></ruby>っていたはずだが&mdash;
+神霊・伊吹童子を主人として、何らかの妖術を施すと<ruby>宣<rt>のたま</rt></ruby>っていたはずだが&mdash;
  
 **黄幡神・蘆屋道満:**
 ………………………ン。ンンンン無論嘘偽りにて！
@@ -24414,7 +24414,7 @@ We’re looking for our prey. Our Casters.
 皆さまにはご説明差し上げておりませんでしたが、ええ。神霊・伊吹童子を『異星の神』にはいたしませぬ。
  
 **黄幡神・蘆屋道満:**
-けれどどうかご安心をば！新たなる『異星の神』は<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に来たる！
+けれどどうかご安心をば！新たなる『異星の神』は<ruby>此処<rt>こ　こ</rt></ruby>に来たる！
  
 **黄幡神・蘆屋道満:**
 この&mdash;拙僧こそ、が！
@@ -24423,7 +24423,7 @@ We’re looking for our prey. Our Casters.
 拙僧のための拙僧による、拙僧だけの『異星の神』となりましょうや！
  
 **黄幡神・蘆屋道満:**
-さあ、さあ、降誕の時である！泣き叫んでも<ruby><rb>喚</rb><rt>わめ</rt></ruby>いても<ruby><rb>是</rb><rt>これ</rt></ruby>この刻こそが、皆さまの最後！
+さあ、さあ、降誕の時である！泣き叫んでも<ruby>喚<rt>わめ</rt></ruby>いても<ruby>是<rt>これ</rt></ruby>この刻こそが、皆さまの最後！
  
 **黄幡神・蘆屋道満:**
 刮目！　せよ！
@@ -24441,10 +24441,10 @@ We’re looking for our prey. Our Casters.
 見るがいい！見るがいい！
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>の王たる者どもはいずれも智恵が足りなかった！<ruby><rb>是</rb><rt>これ</rt></ruby>こそが、正しき扱いであるのです！
+<ruby>異聞帯<rt>ロストベルト</rt></ruby>の王たる者どもはいずれも智恵が足りなかった！<ruby>是<rt>これ</rt></ruby>こそが、正しき扱いであるのです！
  
 **黄幡神・蘆屋道満:**
-剪定された世界の維持装置にして、神の器。ならば自らと<ruby><rb>融</rb><rt>と</rt></ruby>け合い、自らが神となる！
+剪定された世界の維持装置にして、神の器。ならば自らと<ruby>融<rt>と</rt></ruby>け合い、自らが神となる！
  
 **黄幡神・蘆屋道満:**
 ああ、感じる……
@@ -24453,22 +24453,22 @@ We’re looking for our prey. Our Casters.
 感じまするぞ神霊・伊吹童子……貴き御方……
  
 **黄幡神・蘆屋道満:**
-貴方の魔力を吸い上げて、吸い上げてェェエエ……！儂は、儂は、儂は儂は儂は拙僧は<ruby><rb>階梯</rb><rt>かいてい</rt></ruby>を一足飛びに！
+貴方の魔力を吸い上げて、吸い上げてェェエエ……！儂は、儂は、儂は儂は儂は拙僧は<ruby>階梯<rt>かいてい</rt></ruby>を一足飛びに！
  
 **黄幡神・蘆屋道満:**
 果てへと至るううううううゥウウウウウウ&mdash;！
  
 **黄幡神・蘆屋道満:**
-嗚呼。御覧ください、<ruby><rb>遍</rb><rt>あまね</rt></ruby>く人類の皆々さま。
+嗚呼。御覧ください、<ruby>遍<rt>あまね</rt></ruby>く人類の皆々さま。
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ我が最高のカタチ、人、獣、神の先に進みしモノ……
+<ruby>是<rt>これ</rt></ruby>ぞ我が最高のカタチ、人、獣、神の先に進みしモノ……
  
 **黄幡神・蘆屋道満:**
-すなわちは最新にして最後のクラス・ビースト&mdash;人類悪の<ruby><rb>頂</rb><rt>いただき</rt></ruby>！
+すなわちは最新にして最後のクラス・ビースト&mdash;人類悪の<ruby>頂<rt>いただき</rt></ruby>！
  
 **黄幡神・蘆屋道満:**
-<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>・<ruby><rb>髑髏烏帽子</rb><rt>ど　く　ろ　え　ぼ　し</rt></ruby>蘆屋道満！
+<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>・<ruby>髑髏烏帽子<rt>ど　く　ろ　え　ぼ　し</rt></ruby>蘆屋道満！
  
 **Sakata Kintoki:**
 …………！
@@ -24518,7 +24518,7 @@ We’re looking for our prey. Our Casters.
 何故だ！？
  
 **黄幡神・蘆屋道満:**
-拙僧は手順を何も<ruby><rb>違</rb><rt>たが</rt></ruby>えておらぬ！
+拙僧は手順を何も<ruby>違<rt>たが</rt></ruby>えておらぬ！
  
 **黄幡神・蘆屋道満:**
 都合八騎の魂を聖杯へと捧げ、喰わせた……！
@@ -24536,7 +24536,7 @@ We’re looking for our prey. Our Casters.
 なぜ、なぜ、なぜェッ&mdash;！？
  
 **Danzo:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門を越えて……あれは、香子殿の<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>！
+<ruby>朱雀<rt>す ざ く</rt></ruby>門を越えて……あれは、香子殿の<ruby>牛車<rt>ぎっしゃ</rt></ruby>！
  
 **Sakata Kintoki:**
 はァ！？
@@ -24562,7 +24562,7 @@ We’re looking for our prey. Our Casters.
 晴明様が……！どうしてもと仰って……
  
 **Fujiwara no Kaoriko:**
-<ruby><rb>牛車</rb><rt>ぎっしゃ</rt></ruby>、急ぎ、走らせて参りました……&mdash;<ruby><rb>文</rb><rt>ふみ</rt></ruby>を届けねばならない、と！
+<ruby>牛車<rt>ぎっしゃ</rt></ruby>、急ぎ、走らせて参りました……&mdash;<ruby>文<rt>ふみ</rt></ruby>を届けねばならない、と！
  
 **黄幡神・蘆屋道満:**
 な。
@@ -24580,16 +24580,16 @@ We’re looking for our prey. Our Casters.
 晴明、だと？
  
 **空中の文字:**
-ジャストタイミングだったようだ。香子、よく私の<ruby><rb>文</rb><rt>ふみ</rt></ruby>を<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>まで届けてくれました。
+ジャストタイミングだったようだ。香子、よく私の<ruby>文<rt>ふみ</rt></ruby>を<ruby>此処<rt>こ　こ</rt></ruby>まで届けてくれました。
  
 **空中の文字:**
 ありがとう。下がっていなさい。
  
 **空中の文字:**
-さてと&mdash;この大<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>もといアルターエゴ・リンボなる大外道。
+さてと&mdash;この大<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>もといアルターエゴ・リンボなる大外道。
  
 **空中の文字:**
-私からの<ruby><rb>文</rb><rt>ふみ</rt></ruby>であるこれを目にする時、おまえはまず間違いなく仰天している頃だろう。
+私からの<ruby>文<rt>ふみ</rt></ruby>であるこれを目にする時、おまえはまず間違いなく仰天している頃だろう。
  
 **空中の文字:**
 そう容易には納得すまいから、仕方なく、私が、おまえの愚かしさを指摘する。
@@ -24601,7 +24601,7 @@ We’re looking for our prey. Our Casters.
 答え……？
  
 **黄幡神・蘆屋道満:**
-答えなぞ、拙僧には無用！せ、拙僧は、<ruby><rb>是</rb><rt>これ</rt></ruby>このように最高の魔力を得ておる！
+答えなぞ、拙僧には無用！せ、拙僧は、<ruby>是<rt>これ</rt></ruby>このように最高の魔力を得ておる！
  
 **黄幡神・蘆屋道満:**
 既に亜種空想樹は開花したのだ！神の器は成る、成るのだ、オリュンポスと同じく！
@@ -24610,19 +24610,19 @@ We’re looking for our prey. Our Casters.
 そう、インド異聞帯の二の舞にはならぬ！空想樹を育て上げるのが初めてという訳もなし&mdash;
  
 **B：空中の文字:**
-<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>者。
+<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>者。
  
 **黄幡神・蘆屋道満:**
 ！
  
 **B：空中の文字:**
-言っても分からない程に<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>であったか？それとも、やはりアルターエゴという霊基の<ruby><rb>歪</rb><rt>ゆが</rt></ruby>み故か。
+言っても分からない程に<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>であったか？それとも、やはりアルターエゴという霊基の<ruby>歪<rt>ゆが</rt></ruby>み故か。
  
 **B：空中の文字:**
 蘆屋道満。いいや、アルターエゴ・リンボ。
  
 **B：空中の文字:**
-おまえは、どれだけ神を食らったとしても 人類悪の<ruby><rb>頂</rb><rt>いただき</rt></ruby>たるビーストの霊基に至ることはない。
+おまえは、どれだけ神を食らったとしても 人類悪の<ruby>頂<rt>いただき</rt></ruby>たるビーストの霊基に至ることはない。
  
 **B：空中の文字:**
 まだ分からない？つまりだね。
@@ -24660,13 +24660,13 @@ We’re looking for our prey. Our Casters.
 よく分からねえが、つまりアレだな！
  
 **Sakata Kintoki:**
-<ruby><rb>奴</rb><rt>やっこ</rt></ruby>さんは失敗した！そうだろ！
+<ruby>奴<rt>やっこ</rt></ruby>さんは失敗した！そうだろ！
  
 **Danzo:**
 然り。如何に魔力充ちた神の器であろうとも、真に『異星の神』にリンボが変生するは、不可能！
  
 **Danzo:**
-<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>に晴明殿は仰っておりまする！
+<ruby>斯様<rt>か よ う</rt></ruby>に晴明殿は仰っておりまする！
  
 **Danzo:**
 人類愛なき者に！人類悪たる資格なし、と！
@@ -24687,7 +24687,7 @@ We’re looking for our prey. Our Casters.
 こうなれば！こうなれば最早ァ！
  
 **黄幡神・蘆屋道満:**
-クラス・ビーストなぞには<ruby><rb>拘</rb><rt>こだわ</rt></ruby>らぬ！
+クラス・ビーストなぞには<ruby>拘<rt>こだわ</rt></ruby>らぬ！
  
 **黄幡神・蘆屋道満:**
 最強最悪のクラスにこそ至るべきと想ったが、笑止ィ！
@@ -24696,36 +24696,36 @@ We’re looking for our prey. Our Casters.
 我が暗黒の太陽の下にて花開きたる亜種空想樹のすべて、すべてすべてすべて、拙僧が喰ろうてやるわ！
  
 **黄幡神・蘆屋道満:**
-神の器としてではなく、只の養分として拙僧が<ruby><rb>裡</rb><rt>うち</rt></ruby>より喰らい尽くし！
+神の器としてではなく、只の養分として拙僧が<ruby>裡<rt>うち</rt></ruby>より喰らい尽くし！
  
 **黄幡神・蘆屋道満:**
-羅刹王・<ruby><rb>髑髏烏帽子</rb><rt>ど　く　ろ　え　ぼ　し</rt></ruby>蘆屋道満となりて&mdash;
+羅刹王・<ruby>髑髏烏帽子<rt>ど　く　ろ　え　ぼ　し</rt></ruby>蘆屋道満となりて&mdash;
  
 **黄幡神・蘆屋道満:**
 まずは 貴様ら！
  
 **黄幡神・蘆屋道満:**
-そして平安京の衆生、日の本、大陸、ひいては<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>のすべてすべてすべてすべてすべてェ！
+そして平安京の衆生、日の本、大陸、ひいては<ruby>現世<rt>うつしよ</rt></ruby>のすべてすべてすべてすべてすべてェ！
  
 **黄幡神・蘆屋道満:**
-この手で、すべて<ruby><rb>嬲</rb><rt>なぶ</rt></ruby>り殺してくれようぞ！
+この手で、すべて<ruby>嬲<rt>なぶ</rt></ruby>り殺してくれようぞ！
  
 ## Section 15: ───Sakata Kintoki, here and now 
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-神の器としてではなく、只の養分として拙僧が<ruby><rb>裡</rb><rt>うち</rt></ruby>より喰らい尽くし！
+神の器としてではなく、只の養分として拙僧が<ruby>裡<rt>うち</rt></ruby>より喰らい尽くし！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-羅刹王・<ruby><rb>髑髏烏帽子</rb><rt>ど　く　ろ　え　ぼ　し</rt></ruby>蘆屋道満となりて&mdash;
+羅刹王・<ruby>髑髏烏帽子<rt>ど　く　ろ　え　ぼ　し</rt></ruby>蘆屋道満となりて&mdash;
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 まずは 貴様ら！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-そして平安京の衆生、日の本、大陸、ひいては<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>のすべてすべてすべてすべてすべてェ！
+そして平安京の衆生、日の本、大陸、ひいては<ruby>現世<rt>うつしよ</rt></ruby>のすべてすべてすべてすべてすべてェ！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-この手で、すべて<ruby><rb>嬲</rb><rt>なぶ</rt></ruby>り殺してくれようぞ！
+この手で、すべて<ruby>嬲<rt>なぶ</rt></ruby>り殺してくれようぞ！
  
 **Sakata Kintoki:**
 ………………すべて、か。そうかい。
@@ -24737,7 +24737,7 @@ We’re looking for our prey. Our Casters.
 そうかいそうかい。アンタは、そんな風に云えちまうんだな。リンボ。
  
 **Sakata Kintoki:**
-どんな<ruby><rb>癇癪</rb><rt>かんしゃく</rt></ruby>だろうと、中々そうは云えねえさ。ああ。云えねえよ。
+どんな<ruby>癇癪<rt>かんしゃく</rt></ruby>だろうと、中々そうは云えねえさ。ああ。云えねえよ。
  
 **Sakata Kintoki:**
 すべて殺す？
@@ -24746,13 +24746,13 @@ We’re looking for our prey. Our Casters.
 成る程、伊吹童子だかの神サンまで喰ったなら、そう云うコトもできるのかもなァ&mdash;
  
 **Sakata Kintoki:**
-させるか<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>！ 
+させるか<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>！ 
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 ！？
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-この、羅刹王を……！晴明めならいざ知らず貴様如きが<ruby><rb>宣</rb><rt>のたま</rt></ruby>うのは許さんぞッ！
+この、羅刹王を……！晴明めならいざ知らず貴様如きが<ruby>宣<rt>のたま</rt></ruby>うのは許さんぞッ！
  
 **Sakata Kintoki:**
 あとな！　ありがとよ！
@@ -24776,7 +24776,7 @@ We’re looking for our prey. Our Casters.
 子孫殿もだ。オレは、言の葉だって聞いたしな。
  
 **Sakata Kintoki:**
-段蔵殿も、兄貴の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>サンに、ナーサリー・ライム。アンタたちの中にもソレはある。
+段蔵殿も、兄貴の<ruby>術者<rt>キャスター</rt></ruby>サンに、ナーサリー・ライム。アンタたちの中にもソレはある。
  
 **Sakata Kintoki:**
 酒呑はよく分からねえが、茨木の方にはある。そうだろ？
@@ -24788,7 +24788,7 @@ We’re looking for our prey. Our Casters.
 藤丸、アンタもだぜ。英霊でも何でもない、か細い術者だってのに、
  
 **Sakata Kintoki:**
-頑として前に立って譲らねえ。アンタはきっと、<ruby><rb>正真正銘</rb><rt>しょうしんしょうめい</rt></ruby>のゴールデン大将だぜ。
+頑として前に立って譲らねえ。アンタはきっと、<ruby>正真正銘<rt>しょうしんしょうめい</rt></ruby>のゴールデン大将だぜ。
  
 **Sakata Kintoki:**
 ……。……。
@@ -24797,7 +24797,7 @@ We’re looking for our prey. Our Casters.
 アンタたちみたいにやれるかは分からねえが……
  
 **Sakata Kintoki:**
-とうとう<ruby><rb>漸</rb><rt>ようや</rt></ruby>く！オレっちも見付けちまった！
+とうとう<ruby>漸<rt>ようや</rt></ruby>く！オレっちも見付けちまった！
  
 **Sakata Kintoki:**
 あちこち寄り道してきた甲斐は、あった！
@@ -24827,7 +24827,7 @@ We’re looking for our prey. Our Casters.
 <u>戦う理由</u>！&mdash;オレがマサカリ振るうのは、何の為か！
  
 **Sakata Kintoki:**
-<ruby><rb>正義</rb><rt>セイギ</rt></ruby>とは！
+<ruby>正義<rt>セイギ</rt></ruby>とは！
  
 **Sakata Kintoki:**
 英雄とは！
@@ -24836,19 +24836,19 @@ We’re looking for our prey. Our Casters.
 見付けた以上は止まるはずがねえ！そうさ、止まれねえんだ！
  
 **Sakata Kintoki:**
-こんな<ruby><rb>処</rb><rt>ところ</rt></ruby>で終わってたまるか！なにせ<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>は、お天道様も見えねえ地獄の手前！
+こんな<ruby>処<rt>ところ</rt></ruby>で終わってたまるか！なにせ<ruby>此処<rt>こ　こ</rt></ruby>は、お天道様も見えねえ地獄の手前！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 ンン、ン、ンンンンンンン&mdash;？
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-この期に及び何を叫ぶのかと思えば、ふふ。そうですかそうですか、英雄英傑の<ruby><rb>矜持</rb><rt>きょうじ</rt></ruby>なぞ<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>なモノ！
+この期に及び何を叫ぶのかと思えば、ふふ。そうですかそうですか、英雄英傑の<ruby>矜持<rt>きょうじ</rt></ruby>なぞ<ruby>斯様<rt>か よ う</rt></ruby>なモノ！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-宜しいでしょう。我こそは羅刹王、新たなる大地獄<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>の神なれば！
+宜しいでしょう。我こそは羅刹王、新たなる大地獄<ruby>異聞帯<rt>ロストベルト</rt></ruby>の神なれば！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-我が世界最後の英雄英傑となろう貴方の！世迷い言を！　<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で聞き届けて御覧に入れる！
+我が世界最後の英雄英傑となろう貴方の！世迷い言を！　<ruby>此処<rt>こ　こ</rt></ruby>で聞き届けて御覧に入れる！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 問うてやりましょうぞ坂田金時。
@@ -24863,7 +24863,7 @@ We’re looking for our prey. Our Casters.
 正義とは、何ぞ！
  
 **Sakata Kintoki:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に！　答え<ruby><rb>奉</rb><rt>たてまつ</rt></ruby>る！
+<ruby>此処<rt>こ　こ</rt></ruby>に！　答え<ruby>奉<rt>たてまつ</rt></ruby>る！
  
 **Sakata Kintoki:**
 &mdash;<u>想い</u>、だ。
@@ -24875,19 +24875,19 @@ We’re looking for our prey. Our Casters.
 そう云うあれこれの全部ひっくるめての、想いだ。
  
 **Sakata Kintoki:**
-そうさ、<ruby><rb>オレは想う]のさ。都だけじゃねえ、この世に生きる[#衆生</rb><rt>みんな</rt></ruby>を<ruby><rb>遍</rb><rt>あまね</rt></ruby>く想う。
+そうさ、<ruby>オレは想う]のさ。都だけじゃねえ、この世に生きる[#衆生<rt>みんな</rt></ruby>を<ruby>遍<rt>あまね</rt></ruby>く想う。
  
 **Sakata Kintoki:**
 リンボ！　テメェが！
  
 **Sakata Kintoki:**
-たった今ぶっ殺すと<ruby><rb>宣</rb><rt>のたま</rt></ruby>った、<ruby><rb>すべて</rb><rt>み ん な</rt></ruby>をだ！
+たった今ぶっ殺すと<ruby>宣<rt>のたま</rt></ruby>った、<ruby>すべて<rt>み ん な</rt></ruby>をだ！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 ！
  
 **Sakata Kintoki:**
-京の衆生、日の本、大陸、ひいては<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>のすべてとか抜かしやがったな！
+京の衆生、日の本、大陸、ひいては<ruby>現世<rt>うつしよ</rt></ruby>のすべてとか抜かしやがったな！
  
 **Sakata Kintoki:**
 お陰で見えたぜ！戦う理由&mdash;オレの想い！
@@ -24899,31 +24899,31 @@ We’re looking for our prey. Our Casters.
 明日も遊びたいガキどもを想う！飯をこさえる母を想い、あくせく働く父を想う！
  
 **Sakata Kintoki:**
-みんなさ、みんな。働く母でも飯こさえる父でも遊びたい<ruby><rb>爺婆</rb><rt>じじばば</rt></ruby>でもいい！
+みんなさ、みんな。働く母でも飯こさえる父でも遊びたい<ruby>爺婆<rt>じじばば</rt></ruby>でもいい！
  
 **Sakata Kintoki:**
 そういうもンが……どんだけ大切か分からねぇってヤツを打ち倒す！
  
 **Sakata Kintoki:**
-何でもない毎日を生きる、数多の<ruby><rb>連中</rb><rt>みんな</rt></ruby>のために！
+何でもない毎日を生きる、数多の<ruby>連中<rt>みんな</rt></ruby>のために！
  
 **Sakata Kintoki:**
-オレは！　オレの<ruby><rb>戦</rb><rt>いくさ</rt></ruby>を続けてやらあ！
+オレは！　オレの<ruby>戦<rt>いくさ</rt></ruby>を続けてやらあ！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 ンンンンンンンン残念ながら！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-貴様の大切な衆生とやら、我が<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>では玩具の類！
+貴様の大切な衆生とやら、我が<ruby>異聞帯<rt>ロストベルト</rt></ruby>では玩具の類！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-苦悶を奏で&mdash;嘆き、哀しみ、涙と叫びを以て<ruby><rb>閨</rb><rt>ねや</rt></ruby>を彩る楽器にて！
+苦悶を奏で&mdash;嘆き、哀しみ、涙と叫びを以て<ruby>閨<rt>ねや</rt></ruby>を彩る楽器にて！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 ですので諦めるといいでしょう。その決意、その想い……
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-&mdash;<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で喰い破って差し上げる！
+&mdash;<ruby>此処<rt>こ　こ</rt></ruby>で喰い破って差し上げる！
  
 **Sakata Kintoki:**
 吠えたな外道！
@@ -24932,10 +24932,10 @@ We’re looking for our prey. Our Casters.
 だが、そうさそれでいい！　構やしねえさ！
  
 **Sakata Kintoki:**
-アンタがいるからオレは想い、戦う！オレは！　<ruby><rb>邪悪</rb><rt>アンタ</rt></ruby>の<ruby><rb>不倶戴天</rb><rt>ふ ぐ た い て ん</rt></ruby>……&mdash;
+アンタがいるからオレは想い、戦う！オレは！　<ruby>邪悪<rt>アンタ</rt></ruby>の<ruby>不倶戴天<rt>ふ ぐ た い て ん</rt></ruby>……&mdash;
  
 **Sakata Kintoki:**
-正義の味方だ大<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>野郎！ 
+正義の味方だ大<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>野郎！ 
  
 **Narration:**
 &mdash;大雷電！
@@ -24944,13 +24944,13 @@ We’re looking for our prey. Our Casters.
 暗黒の空を背に巨鋼が出現する！
  
 **Narration:**
-絶望をもたらす妖樹と対を成して、希望をもたらす輝きを<ruby><rb>纏</rb><rt>まと</rt></ruby>い、大地に降り立つ。
+絶望をもたらす妖樹と対を成して、希望をもたらす輝きを<ruby>纏<rt>まと</rt></ruby>い、大地に降り立つ。
  
 **Narration:**
-真紅の大鎧<ruby><rb>纏</rb><rt>まと</rt></ruby>う、鋼の大具足！
+真紅の大鎧<ruby>纏<rt>まと</rt></ruby>う、鋼の大具足！
  
 **Narration:**
-<ruby><rb>其</rb><rt>そ</rt></ruby>の名は、
+<ruby>其<rt>そ</rt></ruby>の名は、
  
 ---
 
@@ -24965,7 +24965,7 @@ We’re looking for our prey. Our Casters.
 ゴォォォォォォォオルデンッ！
  
 **真紅の大武者:**
-己が刃、無敵の鋼鉄で打ち直し！己が夢、理想の鋼鉄で<ruby><rb>鎧</rb><rt>よろ</rt></ruby>うのさ！
+己が刃、無敵の鋼鉄で打ち直し！己が夢、理想の鋼鉄で<ruby>鎧<rt>よろ</rt></ruby>うのさ！
  
 **真紅の大武者:**
 そうだろバベッジの旦那！
@@ -24980,7 +24980,7 @@ We’re looking for our prey. Our Casters.
 あれは……！金時殿が、赤き巨人に……いえ！
  
 **Danzo:**
-まるで巨人を<ruby><rb>纏</rb><rt>まと</rt></ruby>ったかの如き偉容、にて！
+まるで巨人を<ruby>纏<rt>まと</rt></ruby>ったかの如き偉容、にて！
  
 **Shuten Dōji:**
 わ。こらまた大きゅうなって&mdash;
@@ -24989,10 +24989,10 @@ We’re looking for our prey. Our Casters.
 へえぇ。こないな大物、隠してはったんやねえ小僧！
  
 **Danzo:**
-第五の<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>での記録に依れば、かの大機体の呼称、ゴールデン・ヒュージ・ベアー号！
+第五の<ruby>異聞帯<rt>ロストベルト</rt></ruby>での記録に依れば、かの大機体の呼称、ゴールデン・ヒュージ・ベアー号！
  
 **Medea Lily:**
-古き<ruby><rb>巨人</rb><rt>ギガース</rt></ruby>をさえ想わせる姿……金時さまの魔力、急激に上昇中です！　綱さま！
+古き<ruby>巨人<rt>ギガース</rt></ruby>をさえ想わせる姿……金時さまの魔力、急激に上昇中です！　綱さま！
  
 **Watanabe no Tsuna:**
 &mdash;ああ。
@@ -25004,19 +25004,19 @@ We’re looking for our prey. Our Casters.
 一体いつになれば自覚するものか気を揉んだが、ひとたび目覚めればこうも早い！　頼光様！
  
 **Watanabe no Tsuna:**
-息子殿は、この刹那に真なる武者となった！<ruby><rb>言祝</rb><rt>こ と ほ</rt></ruby>がれよ！
+息子殿は、この刹那に真なる武者となった！<ruby>言祝<rt>こ と ほ</rt></ruby>がれよ！
  
 **Minamoto no Raikō:**
-我らも<ruby><rb>未</rb><rt>いま</rt></ruby>だ目覚めを果たせざる、清和源氏<ruby><rb>大征器</rb><rt>おおいくさのうつわ</rt></ruby>&mdash;
+我らも<ruby>未<rt>いま</rt></ruby>だ目覚めを果たせざる、清和源氏<ruby>大征器<rt>おおいくさのうつわ</rt></ruby>&mdash;
  
 **Minamoto no Raikō:**
-<ruby><rb>其</rb><rt>そ</rt></ruby>の名を、摂津式大具足・熊野。遥かな海の彼方より漂着せし<ruby><rb>巨</rb><rt>おお</rt></ruby>いなる器、その欠片。
+<ruby>其<rt>そ</rt></ruby>の名を、摂津式大具足・熊野。遥かな海の彼方より漂着せし<ruby>巨<rt>おお</rt></ruby>いなる器、その欠片。
  
 **Minamoto no Raikō:**
 見事、御してみせなさい！　金時！
  
 **真紅の大武者:**
-いくぜ<ruby><rb>摂津式大具足</rb><rt>ゴ　　ー　　ル　　デ　　ン</rt></ruby>！<ruby><rb>是</rb><rt>これ</rt></ruby>が、オレたちの初陣だ！
+いくぜ<ruby>摂津式大具足<rt>ゴ　　ー　　ル　　デ　　ン</rt></ruby>！<ruby>是<rt>これ</rt></ruby>が、オレたちの初陣だ！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 ンンンンンンンンンンン不愉快！　不愉快！
@@ -25025,7 +25025,7 @@ We’re looking for our prey. Our Casters.
 たかが鋼の大具足が、一騎！神の器を喰ろうたこの羅刹王の足元にも及ばぬわ！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-まずは具足の五体引き裂いた後、中の<ruby><rb>主馬佑</rb><rt>しゅめのすけ</rt></ruby>坂田金時引きずり出して、<ruby><rb>是</rb><rt>これ</rt></ruby>も五体裂き！
+まずは具足の五体引き裂いた後、中の<ruby>主馬佑<rt>しゅめのすけ</rt></ruby>坂田金時引きずり出して、<ruby>是<rt>これ</rt></ruby>も五体裂き！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 血の一滴に至るまで飲み干しながら……
@@ -25034,7 +25034,7 @@ We’re looking for our prey. Our Casters.
 貴様の！　大事な！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-衆生のすべてを<ruby><rb>蹂躙</rb><rt>じゅうりん</rt></ruby>して差し上げよう！ンンンンンふふふふふふはははははははは&mdash;
+衆生のすべてを<ruby>蹂躙<rt>じゅうりん</rt></ruby>して差し上げよう！ンンンンンふふふふふふはははははははは&mdash;
  
 **Narration:**
 『ゆかい』
@@ -25055,22 +25055,22 @@ We’re looking for our prey. Our Casters.
 な……に……？
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-我が<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>に呑まれながら……声を放つ……？
+我が<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>に呑まれながら……声を放つ……？
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 な……
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-ならば貴様、貴様！<ruby><rb>未</rb><rt>いま</rt></ruby>だ、<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>内部で霊基を保っているというのか！？
+ならば貴様、貴様！<ruby>未<rt>いま</rt></ruby>だ、<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>内部で霊基を保っているというのか！？
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-あらゆる霊基を分解吸収する我が多重<ruby><rb>呪詛</rb><rt>じゅそ</rt></ruby>の<ruby><rb>裡</rb><rt>うち</rt></ruby>で、<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>な、<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>な、<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>な、<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>な<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>な<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>なァ！？
+あらゆる霊基を分解吸収する我が多重<ruby>呪詛<rt>じゅそ</rt></ruby>の<ruby>裡<rt>うち</rt></ruby>で、<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>な、<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>な、<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>な、<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>な<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>な<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>なァ！？
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 そも！　伊吹童子、貴様ァ！拙僧の召喚せし神霊に過ぎず……
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-令呪一画を用いたる<ruby><rb>呪詛</rb><rt>じゅそ</rt></ruby>込めて、その精神も肉体も我が抑制下にある筈をォオオオオオ！
+令呪一画を用いたる<ruby>呪詛<rt>じゅそ</rt></ruby>込めて、その精神も肉体も我が抑制下にある筈をォオオオオオ！
  
 **Narration:**
 『だまれ』
@@ -25085,7 +25085,7 @@ We’re looking for our prey. Our Casters.
 『おまえが遣え』
  
 **Narration:**
-『おまえが<ruby><rb>祓</rb><rt>はら</rt></ruby>え』
+『おまえが<ruby>祓<rt>はら</rt></ruby>え』
  
 **Narration:**
 『きんとき』
@@ -25094,25 +25094,25 @@ We’re looking for our prey. Our Casters.
 ギャアアアアアアアアアア！！ 
  
 **Narration:**
-<ruby><rb>剣</rb><rt>つるぎ</rt></ruby>が&mdash;
+<ruby>剣<rt>つるぎ</rt></ruby>が&mdash;
  
 **Narration:**
 羅刹王を名乗る悪鬼の叫びを背に、一振りの、巨大な刃が妖樹から<u>生えて</u>いた。
  
 **Narration:**
-災害竜・<ruby><rb>八岐大蛇</rb><rt>やまたのおろち</rt></ruby>の伝説に曰く！
+災害竜・<ruby>八岐大蛇<rt>やまたのおろち</rt></ruby>の伝説に曰く！
  
 **Narration:**
-この竜を<ruby><rb>素戔嗚尊</rb><rt>スサノオノミコト</rt></ruby>が見事、打ち倒した後に……
+この竜を<ruby>素戔嗚尊<rt>スサノオノミコト</rt></ruby>が見事、打ち倒した後に……
  
 **Narration:**
 竜骸の尾より、一振りの神剣が出でたという。
  
 **Narration:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ<ruby><rb>都牟刈</rb><rt>つ む か り</rt></ruby>、<ruby><rb>天叢雲剣</rb><rt>あめのむらくものつるぎ</rt></ruby>、<ruby><rb>草那芸剣</rb><rt>くさなぎのつるぎ</rt></ruby>！
+<ruby>是<rt>これ</rt></ruby>ぞ<ruby>都牟刈<rt>つ む か り</rt></ruby>、<ruby>天叢雲剣<rt>あめのむらくものつるぎ</rt></ruby>、<ruby>草那芸剣<rt>くさなぎのつるぎ</rt></ruby>！
  
 **Narration:**
-神が竜より引きずり出した、<ruby><rb>都牟羽之太刀</rb><rt>つ 　む　 は　 の　 た　 ち</rt></ruby>！
+神が竜より引きずり出した、<ruby>都牟羽之太刀<rt>つ 　む　 は　 の　 た　 ち</rt></ruby>！
  
 **Narration:**
 『くさなぎ』
@@ -25124,7 +25124,7 @@ We’re looking for our prey. Our Casters.
 『おまえが振るえ』
  
 **Narration:**
-『樹を<ruby><rb>伐</rb><rt>き</rt></ruby>るならば刃が要ろう』
+『樹を<ruby>伐<rt>き</rt></ruby>るならば刃が要ろう』
  
 **真紅の大武者:**
 ああ、こいつはいい得物だ！
@@ -25136,7 +25136,7 @@ We’re looking for our prey. Our Casters.
 最後の大勝負だ&mdash;
  
 **真紅の大武者:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>でばっさりやってやろうじゃねえか！
+<ruby>此処<rt>こ　こ</rt></ruby>でばっさりやってやろうじゃねえか！
  
 **真紅の大武者:**
 なあ、藤丸の大将！
@@ -25182,25 +25182,25 @@ We’re looking for our prey. Our Casters.
 無論、そのつもりだぜ！&mdash;羅刹王！　アルターエゴ・リンボ！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<ruby><rb>髑髏烏帽子</rb><rt>ど　　く　　ろ　　え　　ぼ　　し</rt></ruby>蘆屋道満である！ 
+<ruby>髑髏烏帽子<rt>ど　　く　　ろ　　え　　ぼ　　し</rt></ruby>蘆屋道満である！ 
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>ぞ、敗北せしすべての魂喰らう辺獄の血戦地！&mdash;<ruby><rb>昏</rb><rt>くら</rt></ruby>き太陽戴きし、<ruby><rb>其</rb><rt>そ</rt></ruby>の名を天覧死合舞台！
+<ruby>是<rt>これ</rt></ruby>ぞ、敗北せしすべての魂喰らう辺獄の血戦地！&mdash;<ruby>昏<rt>くら</rt></ruby>き太陽戴きし、<ruby>其<rt>そ</rt></ruby>の名を天覧死合舞台！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-我が名は羅刹王！我が享楽、我が嘲笑、貴様らの道を<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>にて閉ざす！
+我が名は羅刹王！我が享楽、我が嘲笑、貴様らの道を<ruby>此処<rt>こ　こ</rt></ruby>にて閉ざす！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-鬼神よ<ruby><rb>嗤</rb><rt>わら</rt></ruby>え！太陽よ<ruby><rb>耀</rb><rt>かがや</rt></ruby>け！
+鬼神よ<ruby>嗤<rt>わら</rt></ruby>え！太陽よ<ruby>耀<rt>かがや</rt></ruby>け！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-さあ、<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で終われ！&mdash;今こそ、我が勝利の前に敗れ去るが良いぞ！
+さあ、<ruby>此処<rt>こ　こ</rt></ruby>で終われ！&mdash;今こそ、我が勝利の前に敗れ去るが良いぞ！
  
 **真紅の大武者:**
 お断りだぜ。リンボ！
  
 **真紅の大武者:**
-テメェの願いは<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>で<ruby><rb>終</rb><rt>しま</rt></ruby>いだ！羅刹王だかなんだかの世迷い言は、ああ、そうだ！
+テメェの願いは<ruby>此処<rt>こ　こ</rt></ruby>で<ruby>終<rt>しま</rt></ruby>いだ！羅刹王だかなんだかの世迷い言は、ああ、そうだ！
  
 **真紅の大武者:**
 &mdash;地獄で！　やってろッ！！
@@ -25208,10 +25208,10 @@ We’re looking for our prey. Our Casters.
 **--ARROW--**
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>……な……！
+<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>……な……！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>な、<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>な……！
+<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>な、<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>な……！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 たとえクラス・ビーストに至れずとも、我が身、我が霊格はもはや至高の神格にも等しい筈！
@@ -25235,13 +25235,13 @@ We’re looking for our prey. Our Casters.
 晴明ィ！ 
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-晴明！　晴明！　晴明ィイイイイイイイイイイイ！！何処だ何処で拙僧を<ruby><rb>嗤</rb><rt>わら</rt></ruby>っている、貴様、貴様がァアアア！
+晴明！　晴明！　晴明ィイイイイイイイイイイイ！！何処だ何処で拙僧を<ruby>嗤<rt>わら</rt></ruby>っている、貴様、貴様がァアアア！
  
 **真紅の大武者:**
 ……御託はいい。
  
 **真紅の大武者:**
-いい加減、<ruby><rb>昏</rb><rt>くら</rt></ruby>いお天道様にゃ飽き飽きだ。ここらで終わりにしようぜ、アルターエゴ・リンボ。
+いい加減、<ruby>昏<rt>くら</rt></ruby>いお天道様にゃ飽き飽きだ。ここらで終わりにしようぜ、アルターエゴ・リンボ。
  
 **真紅の大武者:**
 とどめだ。いくぜ。
@@ -25259,7 +25259,7 @@ We’re looking for our prey. Our Casters.
 情報交換と云うのは如何であろうなァ！？
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<ruby><rb>未</rb><rt>いま</rt></ruby>だ拙僧しか知り得ぬ『異星の神』の秘中の秘、アルターエゴ二騎さえ<ruby><rb>与</rb><rt>あずか</rt></ruby>り知らぬ様々を、貴様らに、
+<ruby>未<rt>いま</rt></ruby>だ拙僧しか知り得ぬ『異星の神』の秘中の秘、アルターエゴ二騎さえ<ruby>与<rt>あずか</rt></ruby>り知らぬ様々を、貴様らに、
  
 **真紅の大武者:**
 必殺！
@@ -25267,7 +25267,7 @@ We’re looking for our prey. Our Casters.
 ---
 
 **Fujimaru 1:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に、令呪二つを重ねて
+<ruby>此処<rt>こ　こ</rt></ruby>に、令呪二つを重ねて
 
 ---
 
@@ -25294,7 +25294,7 @@ We’re looking for our prey. Our Casters.
 待てええええええええええ！ 
  
 **真紅の大武者:**
-<ruby><rb>黄金無間大両断</rb><rt>ゴ　ー　ル　デ　ン　だ　い　り　ょ　う　だ　ん</rt></ruby>！ 
+<ruby>黄金無間大両断<rt>ゴ　ー　ル　デ　ン　だ　い　り　ょ　う　だ　ん</rt></ruby>！ 
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 ッッッギャアアアアアアアアアアアア！ 
@@ -25306,7 +25306,7 @@ We’re looking for our prey. Our Casters.
 空想樹だか亜種だかなんだか知らねえが、なあ、リンボの旦那！！
  
 **真紅の大武者:**
-テメェは！<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>から！
+テメェは！<ruby>此処<rt>こ　こ</rt></ruby>から！
  
 **真紅の大武者:**
 消えッちまえ！！ 
@@ -25336,13 +25336,13 @@ We’re looking for our prey. Our Casters.
 はぁい。ほな、まぁ&mdash;なますにしたろかねぇふふふ！
  
 **Ibaraki Douji:**
-おお！　酒呑、酒呑が笑っている……！ならば<ruby><rb>吾</rb><rt>われ</rt></ruby>も嬉しい！
+おお！　酒呑、酒呑が笑っている……！ならば<ruby>吾<rt>われ</rt></ruby>も嬉しい！
  
 **Watanabe no Tsuna:**
 ……ふ。
  
 **Danzo:**
-羅刹王・<ruby><rb>髑髏烏帽子</rb><rt>ど　く　ろ　え　ぼ　し</rt></ruby>蘆屋道満！いざ&mdash;我らが刃と晴明殿の術にて、封神、<ruby><rb>奉</rb><rt>たてまつ</rt></ruby>る！
+羅刹王・<ruby>髑髏烏帽子<rt>ど　く　ろ　え　ぼ　し</rt></ruby>蘆屋道満！いざ&mdash;我らが刃と晴明殿の術にて、封神、<ruby>奉<rt>たてまつ</rt></ruby>る！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 ………………………………ッ！
@@ -25360,25 +25360,25 @@ We’re looking for our prey. Our Casters.
 人類の……皆々さま……まこと……にッ……見事……！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-獣の位へ至れなんだはこの道満最大の不覚であれど、<ruby><rb>是</rb><rt>これ</rt></ruby>ほど……くく、く……<ruby><rb>是</rb><rt>これ</rt></ruby>……ほどの……！
+獣の位へ至れなんだはこの道満最大の不覚であれど、<ruby>是<rt>これ</rt></ruby>ほど……くく、く……<ruby>是<rt>これ</rt></ruby>……ほどの……！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-天地人たる諸力の<ruby><rb>粋</rb><rt>すい</rt></ruby>を以て……打ち倒されるので、あれば……ンン、良き哉……！
+天地人たる諸力の<ruby>粋<rt>すい</rt></ruby>を以て……打ち倒されるので、あれば……ンン、良き哉……！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-赤龍の御子！<ruby><rb>帝釈天</rb><rt>たいしゃくてん</rt></ruby>の御子！
+赤龍の御子！<ruby>帝釈天<rt>たいしゃくてん</rt></ruby>の御子！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 大江の鬼ら！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-鬼切安綱！神剣<ruby><rb>草那芸</rb><rt>く さ な ぎ</rt></ruby>！
+鬼切安綱！神剣<ruby>草那芸<rt>く さ な ぎ</rt></ruby>！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-そして、英雄を<ruby><rb>扶</rb><rt>たす</rt></ruby>くる<ruby><rb>妹</rb><rt>いも</rt></ruby>の力と……汎人類史の<ruby><rb>残滓</rb><rt>ざ ん し</rt></ruby>たるカルデアの、マスター、か……
+そして、英雄を<ruby>扶<rt>たす</rt></ruby>くる<ruby>妹<rt>いも</rt></ruby>の力と……汎人類史の<ruby>残滓<rt>ざ ん し</rt></ruby>たるカルデアの、マスター、か……
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>まで揃えば<ruby><rb>是</rb><rt>これ</rt></ruby>なる<u>我が本体</u>も砕けよう！退去やむなし！　ええ、ええ！　ンンンン良き哉ァ！
+<ruby>此処<rt>こ　こ</rt></ruby>まで揃えば<ruby>是<rt>これ</rt></ruby>なる<u>我が本体</u>も砕けよう！退去やむなし！　ええ、ええ！　ンンンン良き哉ァ！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 お見事！　です！
@@ -25390,10 +25390,10 @@ We’re looking for our prey. Our Casters.
 （この羅刹王、ただでは死なぬ！）
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-（く、くく、く&mdash;　<ruby><rb>天竺</rb><rt>てんじく</rt></ruby>は<ruby><rb>霊鷲山</rb><rt>りょうじゅせん</rt></ruby>の法道仙人が伝えし、仙術の大秘奥ッ！）
+（く、くく、く&mdash;　<ruby>天竺<rt>てんじく</rt></ruby>は<ruby>霊鷲山<rt>りょうじゅせん</rt></ruby>の法道仙人が伝えし、仙術の大秘奥ッ！）
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-（<ruby><rb>是</rb><rt>これ</rt></ruby>を今こそ全霊にて解き放ちて、　対粛正防御なき貴様ら一挙に消し飛ばしてくれようぞ）
+（<ruby>是<rt>これ</rt></ruby>を今こそ全霊にて解き放ちて、　対粛正防御なき貴様ら一挙に消し飛ばしてくれようぞ）
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 （負荷の激しきこと甚だしければこそ、　接続を避けては来たが、最早、これまで）
@@ -25405,19 +25405,19 @@ We’re looking for our prey. Our Casters.
 嗚呼、なんとも……
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-壊せるモノのすべてを壊し、<ruby><rb>毀</rb><rt>こわ</rt></ruby>し尽くし、思うさま甘美に<ruby><rb>耽</rb><rt>ふけ</rt></ruby>るつもりでありましたが……
+壊せるモノのすべてを壊し、<ruby>毀<rt>こわ</rt></ruby>し尽くし、思うさま甘美に<ruby>耽<rt>ふけ</rt></ruby>るつもりでありましたが……
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-己が霊基霊核への完膚なきまでの<ruby><rb>蹂躙</rb><rt>じゅうりん</rt></ruby>、暴虐、破壊！
+己が霊基霊核への完膚なきまでの<ruby>蹂躙<rt>じゅうりん</rt></ruby>、暴虐、破壊！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<ruby><rb>是</rb><rt>これ</rt></ruby>は！　<ruby><rb>是</rb><rt>これ</rt></ruby>で！　また良き哉ァ！
+<ruby>是<rt>これ</rt></ruby>は！　<ruby>是<rt>これ</rt></ruby>で！　また良き哉ァ！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 ですが皆さま！お忘れなきように！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-拙僧を<ruby><rb>屠</rb><rt>ほふ</rt></ruby>ろうとも既に手遅れ！還るべき人理など、とうに我が『異星の神』が&mdash;
+拙僧を<ruby>屠<rt>ほふ</rt></ruby>ろうとも既に手遅れ！還るべき人理など、とうに我が『異星の神』が&mdash;
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 （等と、云いつつ）
@@ -25462,25 +25462,25 @@ We’re looking for our prey. Our Casters.
 がッ。ががッ。がが、ががががががががががががががががががッ！？
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-（起動失敗！？　<ruby><rb>莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>な！）
+（起動失敗！？　<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>な！）
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 ま、まて、まてェッ！
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-<ruby><rb>未</rb><rt>ま</rt></ruby>だ、拙僧には奥の手がッ……&mdash;！
+<ruby>未<rt>ま</rt></ruby>だ、拙僧には奥の手がッ……&mdash;！
  
 **Danzo:**
 言の葉。既に、不要なれば。
  
 **Danzo:**
-<ruby><rb>妖術斬法</rb><rt>ようじゅつざんぽう</rt></ruby>・<ruby><rb>夕顔</rb><rt>ゆうがお</rt></ruby>。&mdash;<ruby><rb>是</rb><rt>これ</rt></ruby>にて、<ruby><rb>御免</rb><rt>ソーリー</rt></ruby>。
+<ruby>妖術斬法<rt>ようじゅつざんぽう</rt></ruby>・<ruby>夕顔<rt>ゆうがお</rt></ruby>。&mdash;<ruby>是<rt>これ</rt></ruby>にて、<ruby>御免<rt>ソーリー</rt></ruby>。
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 何、とも……はや&mdash;
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
-嗚呼……<ruby><rb>何</rb><rt>い</rt></ruby><ruby><rb>時</rb><rt>つ</rt></ruby>の世で、あろうと……
+嗚呼……<ruby>何<rt>い</rt></ruby><ruby>時<rt>つ</rt></ruby>の世で、あろうと……
  
 **羅刹王・髑髏烏帽子蘆屋道満:**
 悪事とは……
@@ -25497,37 +25497,37 @@ We’re looking for our prey. Our Casters.
 そうして&mdash;
  
 **Narration:**
-黒に染まりし陽は元の<ruby><rb>耀</rb><rt>かがや</rt></ruby>きを取り戻し、空もまた同じく。
+黒に染まりし陽は元の<ruby>耀<rt>かがや</rt></ruby>きを取り戻し、空もまた同じく。
  
 **Narration:**
-平安の都に<ruby><rb>聳</rb><rt>そび</rt></ruby>えし妖樹は、光に消えていった。
+平安の都に<ruby>聳<rt>そび</rt></ruby>えし妖樹は、光に消えていった。
  
 **Narration:**
-自らを羅刹の王と<ruby><rb>騙</rb><rt>かた</rt></ruby>った男も霧散したと云う。
+自らを羅刹の王と<ruby>騙<rt>かた</rt></ruby>った男も霧散したと云う。
  
 **Narration:**
 妖樹に取り込まれんばかりであった 内裏には殆ど損傷なく、囚われていた貴人たちも、
  
 **Narration:**
-源頼光と四天王によって助け出された。左大臣藤原道長殿は<ruby><rb>是</rb><rt>これ</rt></ruby>を大層お喜びになり、
+源頼光と四天王によって助け出された。左大臣藤原道長殿は<ruby>是<rt>これ</rt></ruby>を大層お喜びになり、
  
 **Narration:**
-都の守護にはやはり自らの<ruby><rb>家司</rb><rt>け い し</rt></ruby>たる 源氏を於いて他になし、と<ruby><rb>帝</rb><rt>みかど</rt></ruby>へ熱く語ったのだとか。
+都の守護にはやはり自らの<ruby>家司<rt>け い し</rt></ruby>たる 源氏を於いて他になし、と<ruby>帝<rt>みかど</rt></ruby>へ熱く語ったのだとか。
  
 **Narration:**
-……<ruby><rb>逞</rb><rt>たくま</rt></ruby>しいお人です。
+……<ruby>逞<rt>たくま</rt></ruby>しいお人です。
  
 **Narration:**
 本当に。たとえ転んだとしても<u>ただ</u>では起きない。
  
 **Narration:**
-京に生きる人々もまた、<ruby><rb>逞</rb><rt>たくま</rt></ruby>しい。
+京に生きる人々もまた、<ruby>逞<rt>たくま</rt></ruby>しい。
  
 **Narration:**
-空が元の姿を取り戻してすぐに、<ruby><rb>市</rb><rt>いち</rt></ruby>が開かれ、この上ない賑わいが日暮れまで続いていた。
+空が元の姿を取り戻してすぐに、<ruby>市<rt>いち</rt></ruby>が開かれ、この上ない賑わいが日暮れまで続いていた。
  
 **Narration:**
-左大臣の采配と<ruby><rb>帝</rb><rt>みかど</rt></ruby>のご威光あればこそ、<ruby><rb>此度</rb><rt>こたび</rt></ruby>の大怪異は調伏されたのだ、と人々は喜んだ。
+左大臣の采配と<ruby>帝<rt>みかど</rt></ruby>のご威光あればこそ、<ruby>此度<rt>こたび</rt></ruby>の大怪異は調伏されたのだ、と人々は喜んだ。
  
 **Narration:**
 頼光様と郎等の方々は変わりなく、京の守護がため、お働きになっている。
@@ -25545,7 +25545,7 @@ We’re looking for our prey. Our Casters.
 これはこれは、左大臣殿。お顔の色はすっかり佳いようで何よりです。
  
 **尊子:**
-<ruby><rb>帝</rb><rt>みかど</rt></ruby>も案じておられましたよ？
+<ruby>帝<rt>みかど</rt></ruby>も案じておられましたよ？
  
 **尊子:**
 内裏が、ああして占拠される中で……
@@ -25554,22 +25554,22 @@ We’re looking for our prey. Our Casters.
 凶賊と単身相対していたと云う道長様の ご心労いかばかりか。ああ、もしや、万が一、
  
 **尊子:**
-左大臣の座を返上されたとしても、<ruby><rb>此度</rb><rt>こたび</rt></ruby>は仕方なきことやもしれぬ。と&mdash;
+左大臣の座を返上されたとしても、<ruby>此度<rt>こたび</rt></ruby>は仕方なきことやもしれぬ。と&mdash;
  
 **Fujiwara no Michinaga:**
-<ruby><rb>尊子</rb><rt>たかこ</rt></ruby>殿か。
+<ruby>尊子<rt>たかこ</rt></ruby>殿か。
  
 **Fujiwara no Michinaga:**
-ふ。何を於いても<ruby><rb>帝</rb><rt>みかど</rt></ruby>のご無事こそが<ruby><rb>僥倖</rb><rt>ぎょうこう</rt></ruby>よ。
+ふ。何を於いても<ruby>帝<rt>みかど</rt></ruby>のご無事こそが<ruby>僥倖<rt>ぎょうこう</rt></ruby>よ。
  
 **Fujiwara no Michinaga:**
-この身に代わりはあれど、<ruby><rb>帝</rb><rt>みかど</rt></ruby>の代わりなぞおらん。
+この身に代わりはあれど、<ruby>帝<rt>みかど</rt></ruby>の代わりなぞおらん。
  
 **尊子:**
 まあ、よく云いますねえこの狸。
  
 **尊子:**
-流石、<ruby><rb>魑魅魍魎</rb><rt>ちみもうりょう</rt></ruby>が<ruby><rb>権謀術数</rb><rt>けんぼうじゅっすう</rt></ruby>に明け暮れる宮中にて、高みに上り詰められただけのことはおありで。
+流石、<ruby>魑魅魍魎<rt>ちみもうりょう</rt></ruby>が<ruby>権謀術数<rt>けんぼうじゅっすう</rt></ruby>に明け暮れる宮中にて、高みに上り詰められただけのことはおありで。
  
 **Fujiwara no Michinaga:**
 はは。狐にそうも褒められては、狸としては立つ瀬がない。
@@ -25581,13 +25581,13 @@ We’re looking for our prey. Our Casters.
 ？
  
 **Fujiwara no Michinaga:**
-如何された、<ruby><rb>尊子</rb><rt>たかこ</rt></ruby>殿。ああいや、狐に喩えたのは礼を欠いたかな。
+如何された、<ruby>尊子<rt>たかこ</rt></ruby>殿。ああいや、狐に喩えたのは礼を欠いたかな。
  
 **尊子:**
-い、いいえ～？狸だのと憎まれ口を叩いたのは<ruby><rb>私</rb><rt>わたくし</rt></ruby>の方ですし？
+い、いいえ～？狸だのと憎まれ口を叩いたのは<ruby>私<rt>わたくし</rt></ruby>の方ですし？
  
 **Fujiwara no Michinaga:**
-はははは。まこと、<ruby><rb>尊子</rb><rt>たかこ</rt></ruby>殿はおもしろき御方よ。
+はははは。まこと、<ruby>尊子<rt>たかこ</rt></ruby>殿はおもしろき御方よ。
  
 **尊子:**
 ふ、ふふふふ。ご冗談なら左大臣殿にはかないませんとも。
@@ -25617,10 +25617,10 @@ We’re looking for our prey. Our Casters.
 面白いモノを見られました。
  
 **尊子:**
-<ruby><rb>泡沫</rb><rt>うたかた</rt></ruby>の夢であっても、ええ。なかなかに愉しめました。
+<ruby>泡沫<rt>うたかた</rt></ruby>の夢であっても、ええ。なかなかに愉しめました。
  
 **尊子:**
-…………いつの日か、<ruby><rb>本当に顔を出してみた]時、[#私</rb><rt>わたくし</rt></ruby>は何に逢えるやら。
+…………いつの日か、<ruby>本当に顔を出してみた]時、[#私<rt>わたくし</rt></ruby>は何に逢えるやら。
  
 **Fujiwara no Michinaga:**
 ン&mdash;
@@ -25638,7 +25638,7 @@ We’re looking for our prey. Our Casters.
 空に浮いた黒いお日様も消えて、いつもの空模様に戻っておりました。とさ。
  
 **清子:**
-なにせ皆が見てたしね。<ruby><rb>暫</rb><rt>しばら</rt></ruby>くは、この話で<ruby><rb>巷</rb><rt>ちまた</rt></ruby>は持ちきりだろうなぁ。
+なにせ皆が見てたしね。<ruby>暫<rt>しばら</rt></ruby>くは、この話で<ruby>巷<rt>ちまた</rt></ruby>は持ちきりだろうなぁ。
  
 **清子:**
 ……。……。
@@ -25665,7 +25665,7 @@ We’re looking for our prey. Our Casters.
 あぁ、旨い旨い。佳い酒やわぁ。
  
 **Shuten Dōji:**
-こぉんな<ruby><rb>処</rb><rt>ところ</rt></ruby>で昼日中から酒呑んで、ふふ、妙な感じやわぁ。まあすぐ出てくけどな？
+こぉんな<ruby>処<rt>ところ</rt></ruby>で昼日中から酒呑んで、ふふ、妙な感じやわぁ。まあすぐ出てくけどな？
  
 **Shuten Dōji:**
 妖樹はぴかっと消えはって、伊吹なんちゃらもそのまま消えはった訳やし、
@@ -25706,13 +25706,13 @@ We’re looking for our prey. Our Casters.
 あはは。ええんよ別に。兄弟姉妹みたいなんとはちゃうし。
  
 **Shuten Dōji:**
-あんなんは、話すとかそういうんとちゃうよ。なんや<ruby><rb>靄</rb><rt>もや</rt></ruby>みたいなんで、よう見えへんかったし？
+あんなんは、話すとかそういうんとちゃうよ。なんや<ruby>靄<rt>もや</rt></ruby>みたいなんで、よう見えへんかったし？
  
 **Shuten Dōji:**
 でも、せやねえ&mdash;
  
 **Shuten Dōji:**
-もし、万が一の話。<ruby><rb>喚</rb><rt>よ</rt></ruby>ばれ方が違うたら……
+もし、万が一の話。<ruby>喚<rt>よ</rt></ruby>ばれ方が違うたら……
  
 **Shuten Dōji:**
 も少し愛想のええ、背ぇの伸びたうち自身になるかもわからへんねえ？
@@ -25764,10 +25764,10 @@ We’re looking for our prey. Our Casters.
 ……怖がってへんね。変な子。
  
 **Shuten Dōji:**
-その<ruby><rb>瞳</rb><rt>め</rt></ruby>。
+その<ruby>瞳<rt>め</rt></ruby>。
  
 **Shuten Dōji:**
-その<ruby><rb>瞳</rb><rt>め</rt></ruby>、何見てきはったんやろ。どんな旅してきたんやろねぇ。
+その<ruby>瞳<rt>め</rt></ruby>、何見てきはったんやろ。どんな旅してきたんやろねぇ。
  
 ---
 
@@ -25787,7 +25787,7 @@ We’re looking for our prey. Our Casters.
 へえ。
  
 **Shuten Dōji:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>も、あんたはんには旅の途中いうわけや。
+<ruby>此処<rt>こ　こ</rt></ruby>も、あんたはんには旅の途中いうわけや。
  
 **Shuten Dōji:**
 うちも似たようなもんやろけど……
@@ -25878,7 +25878,7 @@ We’re looking for our prey. Our Casters.
 …………あれ、茨木どこや？
  
 **Minamoto no Raikō:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>を発つのですから……
+<ruby>此処<rt>こ　こ</rt></ruby>を発つのですから……
  
 **Minamoto no Raikō:**
 本当は、お土産をあれこれ考えていたのですが。
@@ -25911,7 +25911,7 @@ We’re looking for our prey. Our Casters.
 こうして話したこと、こうして逢えたこと、
  
 **Nursery Rhyme:**
-わたし自身の想いからは消えて、座では、一冊の本のような<ruby><rb>記録</rb><rt>もの</rt></ruby>になってしまう。
+わたし自身の想いからは消えて、座では、一冊の本のような<ruby>記録<rt>もの</rt></ruby>になってしまう。
  
 **Nursery Rhyme:**
 でもね。頼光。
@@ -25938,7 +25938,7 @@ We’re looking for our prey. Our Casters.
 ………………。
  
 **Minamoto no Raikō:**
-……さようなら、<ruby><rb>私の友</rb><rt>ナーサリー・ライム</rt></ruby>。
+……さようなら、<ruby>私の友<rt>ナーサリー・ライム</rt></ruby>。
  
 **Watanabe no Tsuna:**
 まことか。何も褒美は要らぬとは、欲のない。
@@ -25950,7 +25950,7 @@ We’re looking for our prey. Our Casters.
 ……。……。
  
 **Watanabe no Tsuna:**
-ならば何故だ、キャスター。如何なる<ruby><rb>理由</rb><rt>わ け</rt></ruby>でおまえは共に戦ったのだ。
+ならば何故だ、キャスター。如何なる<ruby>理由<rt>わ け</rt></ruby>でおまえは共に戦ったのだ。
  
 **Watanabe no Tsuna:**
 天覧聖杯戦争が瓦解せし後も、おまえは……
@@ -25986,7 +25986,7 @@ We’re looking for our prey. Our Casters.
 ああ。
  
 **Watanabe no Tsuna:**
-<ruby><rb>先刻</rb><rt>さっき</rt></ruby>から見られているな。御山へ帰ったとばかり想ったが。
+<ruby>先刻<rt>さっき</rt></ruby>から見られているな。御山へ帰ったとばかり想ったが。
  
 **Medea Lily:**
 あのう、放っておいて宜しいのでしょうか。
@@ -25998,7 +25998,7 @@ We’re looking for our prey. Our Casters.
 構うまい。何せ京を護ったばかりで俺も疲れている。
  
 **Watanabe no Tsuna:**
-殺気のない鬼一匹、足元を<ruby><rb>彷徨</rb><rt>う ろ つ</rt></ruby>く犬猫と同じ。
+殺気のない鬼一匹、足元を<ruby>彷徨<rt>う ろ つ</rt></ruby>く犬猫と同じ。
  
 **Watanabe no Tsuna:**
 それに、今はおまえとの別れの刻だ。好きにするさ。
@@ -26028,13 +26028,13 @@ We’re looking for our prey. Our Casters.
 そんな気配があって&mdash;
  
 **Watanabe no Tsuna:**
-本当に<ruby><rb>聡</rb><rt>さと</rt></ruby>い女だ。
+本当に<ruby>聡<rt>さと</rt></ruby>い女だ。
  
 **Medea Lily:**
 それは……
  
 **Medea Lily:**
-……申し訳ありません、綱さま。私は<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>までのようです。
+……申し訳ありません、綱さま。私は<ruby>此処<rt>こ　こ</rt></ruby>までのようです。
  
 **Watanabe no Tsuna:**
 ままならんものだ。いや。
@@ -26058,7 +26058,7 @@ We’re looking for our prey. Our Casters.
 だが……
  
 **Watanabe no Tsuna:**
-影法師が他のソレと出逢うこともあるだろう。<ruby><rb>此度</rb><rt>こたび</rt></ruby>の天覧聖杯戦争のような例もある。
+影法師が他のソレと出逢うこともあるだろう。<ruby>此度<rt>こたび</rt></ruby>の天覧聖杯戦争のような例もある。
  
 **Watanabe no Tsuna:**
 その時には、そう&mdash;
@@ -26081,7 +26081,7 @@ We’re looking for our prey. Our Casters.
 と、云う訳でだ！
  
 **Sakata Kintoki:**
-<ruby><rb>此度</rb><rt>こたび</rt></ruby>はまことに世話になった。反物や米俵や珍しい品やあれこれ、
+<ruby>此度<rt>こたび</rt></ruby>はまことに世話になった。反物や米俵や珍しい品やあれこれ、
  
 **Sakata Kintoki:**
 頼光サンから預かったンで家人に渡しといたぜ。この通り。感謝申し上げる、香子サン！
@@ -26163,7 +26163,7 @@ We’re looking for our prey. Our Casters.
 こりゃ驚いた！ってことは下手すりゃ……
  
 **Sakata Kintoki:**
-アンタとバベッジの出方次第じゃ、オレっちたちは寝込み襲われて<ruby><rb>終</rb><rt>しま</rt></ruby>いだった、と！
+アンタとバベッジの出方次第じゃ、オレっちたちは寝込み襲われて<ruby>終<rt>しま</rt></ruby>いだった、と！
  
 **Sakata Kintoki:**
 だが、ソレをしなかった。
@@ -26172,10 +26172,10 @@ We’re looking for our prey. Our Casters.
 まあ天覧聖杯戦争にゃ後ろ向きだったんだろうが、それでもだ。恐れ入った！
  
 **Sakata Kintoki:**
-香子サン、立派にアンタ<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>だぜ！
+香子サン、立派にアンタ<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>だぜ！
  
 **Danzo:**
-はい。段蔵も気配を読み取れず！よもや何らかの陰陽道の術に連なる<ruby><rb>隠形</rb><rt>おんぎょう</rt></ruby>……？
+はい。段蔵も気配を読み取れず！よもや何らかの陰陽道の術に連なる<ruby>隠形<rt>おんぎょう</rt></ruby>……？
  
 **Danzo:**
 お見事です、香子殿。
@@ -26187,7 +26187,7 @@ We’re looking for our prey. Our Casters.
 そんな風に云っていただけたら、バベッジ様もお喜びになってくれるかもですね。
  
 **Fujiwara no Kaoriko:**
-それでは。私は、筆を執らねばなりませんので、<ruby><rb>是</rb><rt>これ</rt></ruby>にて。
+それでは。私は、筆を執らねばなりませんので、<ruby>是<rt>これ</rt></ruby>にて。
  
 **Fujiwara no Kaoriko:**
 お部屋は開けておきますので、どうぞごゆるりと&mdash;
@@ -26211,7 +26211,7 @@ We’re looking for our prey. Our Casters.
 金時殿？
  
 **Sakata Kintoki:**
-天覧聖杯戦争、オレの<ruby><rb>術者</rb><rt>キャスター</rt></ruby>は果たして誰なのか！
+天覧聖杯戦争、オレの<ruby>術者<rt>キャスター</rt></ruby>は果たして誰なのか！
  
 **Sakata Kintoki:**
 今更、天覧も願いもないもんだが、何ともはっきりしねえ！
@@ -26223,7 +26223,7 @@ We’re looking for our prey. Our Casters.
 で、オレは考えた。実のとこ亜種空想樹をまっぷたつにしてる最中も、
  
 **Sakata Kintoki:**
-そういやオレの<ruby><rb>術者</rb><rt>キャスター</rt></ruby>って誰だ？
+そういやオレの<ruby>術者<rt>キャスター</rt></ruby>って誰だ？
  
 **Sakata Kintoki:**
 って頭の片隅で想ってたぐらいだ。そこんとこ、リンボの野郎に訊いとけばよかったぜ。
@@ -26238,10 +26238,10 @@ We’re looking for our prey. Our Casters.
 つい先刻、七騎目のキャスターの正体については 安倍晴明殿が語ってくださいましたが……
  
 **空中の文字:**
-ああ、そうだ。一応私から云っておこう。あの大莫迦は何も云わずに<ruby><rb>雲散霧消</rb><rt>うんさんむしょう</rt></ruby>してしまった。
+ああ、そうだ。一応私から云っておこう。あの大莫迦は何も云わずに<ruby>雲散霧消<rt>うんさんむしょう</rt></ruby>してしまった。
  
 **空中の文字:**
-天覧聖杯戦争、最後にして第七の<ruby><rb>術者</rb><rt>キャスター</rt></ruby>たる人物&mdash;
+天覧聖杯戦争、最後にして第七の<ruby>術者<rt>キャスター</rt></ruby>たる人物&mdash;
  
 **空中の文字:**
 それはアルターエゴ・リンボ自身です。
@@ -26262,7 +26262,7 @@ We’re looking for our prey. Our Casters.
 …………オイラ、なんだろ。
  
 **Sakata Kintoki:**
-悪い冗談だぜ。オレっちの相棒たる<ruby><rb>術者</rb><rt>キャスター</rt></ruby>が奴だったなんてよ。
+悪い冗談だぜ。オレっちの相棒たる<ruby>術者<rt>キャスター</rt></ruby>が奴だったなんてよ。
  
 **Sakata Kintoki:**
 なんだか気分が悪ィや。
@@ -26286,7 +26286,7 @@ We’re looking for our prey. Our Casters.
 おいおい晴明の旦那、ってコトは……流石に信じらンねえ冗談だぜ！
  
 **Sakata Kintoki:**
-だってよ、そりゃあつまり、オレっちの相棒たる<ruby><rb>術者</rb><rt>キャスター</rt></ruby>ってのは……
+だってよ、そりゃあつまり、オレっちの相棒たる<ruby>術者<rt>キャスター</rt></ruby>ってのは……
  
 **Sakata Kintoki:**
 …………召喚されてない、ってコトになる。
@@ -26337,7 +26337,7 @@ We’re looking for our prey. Our Casters.
 だ、だってよお！左手にあかしの紋だって浮かんだんだぜ！？
  
 **Sakata Kintoki:**
-ンなら、対応する<ruby><rb>術者</rb><rt>キャスター</rt></ruby>が召喚されて然るべきだろ！
+ンなら、対応する<ruby>術者<rt>キャスター</rt></ruby>が召喚されて然るべきだろ！
  
 **Sakata Kintoki:**
 気になって仕方ねえ！リンボの仕業だか奇跡だか知らねえが！
@@ -26370,7 +26370,7 @@ We’re looking for our prey. Our Casters.
 ま、晴明の旦那はぼかしたが、オレは考えた。
  
 **Sakata Kintoki:**
-アンタがオレの<ruby><rb>術者</rb><rt>キャスター</rt></ruby>……だったんだよな？
+アンタがオレの<ruby>術者<rt>キャスター</rt></ruby>……だったんだよな？
  
 **Sakata Kintoki:**
 他にはやっぱり考えらンねえ。異境異界からやってきて、オレと共に戦った術者。
@@ -26403,7 +26403,7 @@ We’re looking for our prey. Our Casters.
 オレと藤丸は……
  
 **Sakata Kintoki:**
-<ruby><rb>天覧武者</rb><rt>マ　ス　タ　ー</rt></ruby>とサーヴァントじゃなかったかもしれねえ。そうだとしても、だ！
+<ruby>天覧武者<rt>マ　ス　タ　ー</rt></ruby>とサーヴァントじゃなかったかもしれねえ。そうだとしても、だ！
  
 **Sakata Kintoki:**
 大層ゴールデンな相棒同士だった！そいつだけは間違いねえや！
@@ -26456,7 +26456,7 @@ We’re looking for our prey. Our Casters.
 ノウム・カルデア管制室に報告！マスターはご無事です、そして&mdash;
  
 **Danzo:**
-<ruby><rb>朱雀</rb><rt>す ざ く</rt></ruby>門に発生した亜種空想樹の伐採に成功、黒幕たるアルターエゴ・リンボについては、撃破！
+<ruby>朱雀<rt>す ざ く</rt></ruby>門に発生した亜種空想樹の伐採に成功、黒幕たるアルターエゴ・リンボについては、撃破！
  
 **Danzo:**
 特異点発生源たる聖杯も回収済みにて。任務完了でありまする！
@@ -26468,7 +26468,7 @@ We’re looking for our prey. Our Casters.
 平安京全域の結界をどうにかしてもらえれば、もっとまともに通信が繋がるとは思うけど、
  
 **Da Vinci:**
-結界は<ruby><rb>洛内</rb><rt>らくない</rt></ruby>守護の<ruby><rb>要</rb><rt>かなめ</rt></ruby>だろうし、そうもいかないよね。
+結界は<ruby>洛内<rt>らくない</rt></ruby>守護の<ruby>要<rt>かなめ</rt></ruby>だろうし、そうもいかないよね。
  
 **Da Vinci:**
 だから、今、通信が繋がっているうちに、緊急の帰還処理を行う。いいね！
@@ -26500,7 +26500,7 @@ We’re looking for our prey. Our Casters.
 あれだろ？　アンタの時代に戻れば、世界は真っ白なんだろ？
  
 **Sakata Kintoki:**
-まだ<ruby><rb>市</rb><rt>いち</rt></ruby>にも連れてってやれてねえし、今宵は、そりゃあもうでかい宴を催すつもりで、
+まだ<ruby>市<rt>いち</rt></ruby>にも連れてってやれてねえし、今宵は、そりゃあもうでかい宴を催すつもりで、
  
 **Sakata Kintoki:**
 あれこれ企ててたんだが……
@@ -26538,7 +26538,7 @@ We’re looking for our prey. Our Casters.
 オイラはきっと、英雄や英傑と呼ばれる程にゃ 大物にはなれねえ。なりたいとも思っちゃいねえんだ。
  
 **Sakata Kintoki:**
-せいぜいが、<ruby><rb>衆生</rb><rt>みんな</rt></ruby>を想って踏ん張るだけさ！
+せいぜいが、<ruby>衆生<rt>みんな</rt></ruby>を想って踏ん張るだけさ！
  
 **Sakata Kintoki:**
 オレはそれを続けるだけだ。だが、ああ。そうして進む道の先が……
@@ -26554,7 +26554,7 @@ We’re looking for our prey. Our Casters.
 
  
 **Danzo:**
-座標情報、誤差修正。ノウム・カルデア管制室との<ruby><rb>摺</rb><rt>す</rt></ruby>り合わせ完了。
+座標情報、誤差修正。ノウム・カルデア管制室との<ruby>摺<rt>す</rt></ruby>り合わせ完了。
  
 **Danzo:**
 マスター、時間でありまする。
@@ -26566,7 +26566,7 @@ We’re looking for our prey. Our Casters.
 我々がこうして出逢い、共に戦い、平安京で何を為したかという一連の記憶は&mdash;
  
 **Danzo:**
-<ruby><rb>汎人類史を生きる金時殿たちには残されませぬ]。[#是</rb><rt>これ</rt></ruby>は、レイシフトの常でありまする。
+<ruby>汎人類史を生きる金時殿たちには残されませぬ]。[#是<rt>これ</rt></ruby>は、レイシフトの常でありまする。
  
 ---
 
@@ -26589,7 +26589,7 @@ We’re looking for our prey. Our Casters.
 いや。いい。責めやしねえさ！顔見りゃ分かるぜ、どうしようもねえコトなんだろ。
  
 **Sakata Kintoki:**
-なら気にすんな。どうあれオレたちは 共に京を、いや日の本を、大陸を、<ruby><rb>現世</rb><rt>うつしよ</rt></ruby>を護った！
+なら気にすんな。どうあれオレたちは 共に京を、いや日の本を、大陸を、<ruby>現世<rt>うつしよ</rt></ruby>を護った！
  
 **Sakata Kintoki:**
 大層ゴールデンなこった。それだけで、充分以上だぜ。
@@ -26669,7 +26669,7 @@ We’re looking for our prey. Our Casters.
 だから&mdash;
  
 **Sakata Kintoki:**
-アンタはアンタの世界を守れ。オイラは、オイラの<ruby><rb>世界</rb><rt>みんな</rt></ruby>のために！
+アンタはアンタの世界を守れ。オイラは、オイラの<ruby>世界<rt>みんな</rt></ruby>のために！
  
 **Sakata Kintoki:**
 戦うさ！
@@ -26681,7 +26681,7 @@ We’re looking for our prey. Our Casters.
 平安京を嵐山より見下ろす、人影ひとつ。
  
 **Narration:**
-賑わいを取り戻した<ruby><rb>洛内</rb><rt>らくない</rt></ruby>を前にして、そのすべてが失われる寸前であったことに思い至り、
+賑わいを取り戻した<ruby>洛内<rt>らくない</rt></ruby>を前にして、そのすべてが失われる寸前であったことに思い至り、
  
 **Narration:**
 己が行いの愚かしさと恐ろしさ、そして、罪深さを想って身を震わせて涙する男だった。
@@ -26693,7 +26693,7 @@ We’re looking for our prey. Our Casters.
 アルターエゴ・リンボならざる法師陰陽師である。
  
 **Narration:**
-<ruby><rb>地獄界曼荼羅</rb><rt>じ ご く か い ま ん だ ら</rt></ruby>たる亜種空想樹が両断され、光に消える中、砕け散ってゆくリンボの霊基霊核から、
+<ruby>地獄界曼荼羅<rt>じ ご く か い ま ん だ ら</rt></ruby>たる亜種空想樹が両断され、光に消える中、砕け散ってゆくリンボの霊基霊核から、
  
 **Narration:**
 奇跡的にも生還を果たした身であった。
@@ -26708,16 +26708,16 @@ We’re looking for our prey. Our Casters.
 ……拙僧は。
  
 **Ashiya Dōman:**
-拙僧は恐ろしい。解き放たれたはずであるのに、<ruby><rb>呪</rb><rt>しゅ</rt></ruby>を感じてしまう。
+拙僧は恐ろしい。解き放たれたはずであるのに、<ruby>呪<rt>しゅ</rt></ruby>を感じてしまう。
  
 **Ashiya Dōman:**
-いつの日にか、儂は<ruby><rb>斯様</rb><rt>か よ う</rt></ruby>な悪鬼に成り果てるのか？
+いつの日にか、儂は<ruby>斯様<rt>か よ う</rt></ruby>な悪鬼に成り果てるのか？
  
 **Ashiya Dōman:**
 衆生の苦しみにこそ、無上の悦びを見出すなどと……
  
 **Ashiya Dōman:**
-外道の<ruby><rb>窮</rb><rt>きわ</rt></ruby>みへ至るのか。ならば、ならば。
+外道の<ruby>窮<rt>きわ</rt></ruby>みへ至るのか。ならば、ならば。
  
 **Ashiya Dōman:**
 儂は、明日の先など要らぬ。
@@ -26741,13 +26741,13 @@ We’re looking for our prey. Our Casters.
 或いはそうか、姿をお隠しになったと云うは偽り。貴方ははじめからすべてを見越しておられたか。
  
 **Ashiya Dōman:**
-ならば、ならば拙僧の<ruby><rb>此度</rb><rt>こたび</rt></ruby>の過ちのすべて、何故止めてくださらなんだか……
+ならば、ならば拙僧の<ruby>此度<rt>こたび</rt></ruby>の過ちのすべて、何故止めてくださらなんだか……
  
 **A：安倍晴明:**
 なぜも何も。
  
 **A：安倍晴明:**
-かの蘆屋道満が<ruby><rb>己が影の欠片]如きに後れを取るとは、流石の安倍晴明も予想の外だ。[#莫</rb><rt>ば</rt></ruby><ruby><rb>迦</rb><rt>か</rt></ruby>者。
+かの蘆屋道満が<ruby>己が影の欠片]如きに後れを取るとは、流石の安倍晴明も予想の外だ。[#莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>者。
  
 **A：安倍晴明:**
 そして、だ。更に言うならば。
@@ -26765,7 +26765,7 @@ We’re looking for our prey. Our Casters.
 某年某月……
  
 **Narration:**
-京の都に下りたる大江の鬼の群れは、金品を奪い、女子供を<ruby><rb>攫</rb><rt>さら</rt></ruby>うに飽き足らず&mdash;
+京の都に下りたる大江の鬼の群れは、金品を奪い、女子供を<ruby>攫<rt>さら</rt></ruby>うに飽き足らず&mdash;
  
 **Narration:**
 人を襲い、殺し、喰らい始める。
@@ -26777,13 +26777,13 @@ We’re looking for our prey. Our Casters.
 大江山の鬼御殿には、無数の女子供の人骨を捨てるための大穴があったとか。
  
 **Narration:**
-事態を憂慮した安倍晴明は『大江の鬼征伐』を<ruby><rb>帝</rb><rt>みかど</rt></ruby>に具申。征伐の大将には源氏の<ruby><rb>棟梁</rb><rt>とうりょう</rt></ruby>・源頼光が選ばれる。
+事態を憂慮した安倍晴明は『大江の鬼征伐』を<ruby>帝<rt>みかど</rt></ruby>に具申。征伐の大将には源氏の<ruby>棟梁<rt>とうりょう</rt></ruby>・源頼光が選ばれる。
  
 **Narration:**
-<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>に、かの大江山の鬼退治伝説へと繋がる、平安武者と鬼との最後の一大決戦が始まるのである。
+<ruby>此処<rt>こ　こ</rt></ruby>に、かの大江山の鬼退治伝説へと繋がる、平安武者と鬼との最後の一大決戦が始まるのである。
  
 **Narration:**
-山中にて<ruby><rb>八幡</rb><rt>はちまん</rt></ruby>・熊野・住吉の三神による 加護を受けし頼光四天王は大江の御山へと攻め入り、
+山中にて<ruby>八幡<rt>はちまん</rt></ruby>・熊野・住吉の三神による 加護を受けし頼光四天王は大江の御山へと攻め入り、
  
 **Narration:**
 酒呑童子、茨木童子、金熊童子、熊童子、虎熊童子、星熊童子、
@@ -26795,13 +26795,13 @@ We’re looking for our prey. Our Casters.
 鬼には毒となる酒&mdash;
  
 **Narration:**
-三神の加護の凝集たる神便鬼毒酒。山伏に化けた頼光たちに<ruby><rb>是</rb><rt>これ</rt></ruby>を振る舞われた酒呑童子は、
+三神の加護の凝集たる神便鬼毒酒。山伏に化けた頼光たちに<ruby>是<rt>これ</rt></ruby>を振る舞われた酒呑童子は、
  
 **Narration:**
 毒酒の威によって力を減衰させられて尚、荒ぶり、頼光たちを苦しめたが、
  
 **Narration:**
-最後には、首を<ruby><rb>刎</rb><rt>は</rt></ruby>ねられたのだとか。
+最後には、首を<ruby>刎<rt>は</rt></ruby>ねられたのだとか。
  
 **Narration:**
 あらゆる酒精に通じる酒呑童子が、何故、毒酒を飲んだのか？
@@ -26831,19 +26831,19 @@ We’re looking for our prey. Our Casters.
 同異説では、こうも語られる。
  
 **Narration:**
-大江山征伐大詰めの折、山と<ruby><rb>見紛</rb><rt>み ま ご</rt></ruby>う大怪異へ変じた酒呑を大具足にて打ち倒し、
+大江山征伐大詰めの折、山と<ruby>見紛<rt>み ま ご</rt></ruby>う大怪異へ変じた酒呑を大具足にて打ち倒し、
  
 **Narration:**
-元の姿となって<ruby><rb>微睡</rb><rt>ま ど ろ</rt></ruby>む酒呑の首を<ruby><rb>刎</rb><rt>は</rt></ruby>ねた者は、源頼光ではなく。
+元の姿となって<ruby>微睡<rt>ま ど ろ</rt></ruby>む酒呑の首を<ruby>刎<rt>は</rt></ruby>ねた者は、源頼光ではなく。
  
 **Narration:**
-<ruby><rb>主馬佑</rb><rt>しゅめのすけ</rt></ruby>坂田金時、その人であり&mdash;
+<ruby>主馬佑<rt>しゅめのすけ</rt></ruby>坂田金時、その人であり&mdash;
  
 **Narration:**
 更には。茨木を討ったのは……
  
 **Narration:**
-……<ruby><rb>内舎人</rb><rt>う ど ね り</rt></ruby>渡辺綱であり……
+……<ruby>内舎人<rt>う ど ね り</rt></ruby>渡辺綱であり……
  
 **Narration:**
 …………如何なる理由か、茨木だけが一命を取り留める。
@@ -26855,13 +26855,13 @@ We’re looking for our prey. Our Casters.
 茨木は二度に渡り、渡辺綱を襲い&mdash;
  
 **Narration:**
-一度は腕を落とされるも、<ruby><rb>是</rb><rt>これ</rt></ruby>を取り戻し、<ruby><rb>何処</rb><rt>いずこ</rt></ruby>かへ消えたという。
+一度は腕を落とされるも、<ruby>是<rt>これ</rt></ruby>を取り戻し、<ruby>何処<rt>いずこ</rt></ruby>かへ消えたという。
  
 **Narration:**
-そして、<ruby><rb>暫</rb><rt>しばら</rt></ruby>くの後。
+そして、<ruby>暫<rt>しばら</rt></ruby>くの後。
  
 **Narration:**
-かの法師陰陽師たる道満法師こと蘆屋道満、死後に怨霊・悪霊左府と化した<ruby><rb>藤原顕光</rb><rt>ふじわらのあきみつ</rt></ruby>と手を結び、
+かの法師陰陽師たる道満法師こと蘆屋道満、死後に怨霊・悪霊左府と化した<ruby>藤原顕光<rt>ふじわらのあきみつ</rt></ruby>と手を結び、
  
 **Narration:**
 日本転覆のために大呪術を行使せんとするも、安倍晴明に阻まれ……
@@ -26870,10 +26870,10 @@ We’re looking for our prey. Our Casters.
 逆賊として、京を追われることになるという。
  
 **Narration:**
-或いは道満法師、安倍晴明に術比べを幾度挑むも 敗れ果て、最後には<ruby><rb>呪詛</rb><rt>じゅそ</rt></ruby>返しを浴びて死するとも。
+或いは道満法師、安倍晴明に術比べを幾度挑むも 敗れ果て、最後には<ruby>呪詛<rt>じゅそ</rt></ruby>返しを浴びて死するとも。
  
 **Narration:**
-いずれも<ruby><rb>此処</rb><rt>こ　こ</rt></ruby>では語られぬ物語。
+いずれも<ruby>此処<rt>こ　こ</rt></ruby>では語られぬ物語。
  
 **Narration:**
 広大なる汎人類史の、ほんのささやかな刹那の一幕である&mdash;
@@ -26975,7 +26975,7 @@ We’re looking for our prey. Our Casters.
 特異点は既に修復が開始されているし、亜種空想樹の痕跡は完全に消えたのを確認済みだ。
  
 **Da Vinci:**
-汎人類史は<ruby><rb>未</rb><rt>いま</rt></ruby>だに白紙状態だけど、でも、少なくとも新たな<ruby><rb>異聞帯</rb><rt>ロストベルト</rt></ruby>の発生は阻んだし、
+汎人類史は<ruby>未<rt>いま</rt></ruby>だに白紙状態だけど、でも、少なくとも新たな<ruby>異聞帯<rt>ロストベルト</rt></ruby>の発生は阻んだし、
  
 **Da Vinci:**
 たとえば人理を取り戻した後に、汎人類史が平安時代を基点に破壊されていた、

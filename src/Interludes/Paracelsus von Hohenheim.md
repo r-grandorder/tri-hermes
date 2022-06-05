@@ -1,6 +1,6 @@
 # Paracelsus von Hohenheim
 
-<h2>Devil's Quest</h2>
+## Devil's Quest
 
 
 ---
@@ -418,7 +418,7 @@ One cannot stop it. Thus&ndash;
 
  
 **???:**
-<span style=font-size:25px>GAAAAAAAA&ndash;!</span>
+<span style="font-size:25px">GAAAAAAAA&ndash;!</span>
 
  
 **Dr. Roman:**

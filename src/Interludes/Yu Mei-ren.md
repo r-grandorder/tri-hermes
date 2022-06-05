@@ -1,6 +1,6 @@
 # Yu Mei-ren
 
-<h2>An Afternoon in Chaldea with Yu Mei-ren</h2>
+## An Afternoon in Chaldea with Yu Mei-ren
 
 **Yu Mei-ren:**
 Fujimaru, go get me some bread from the shop.

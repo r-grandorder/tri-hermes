@@ -1,6 +1,6 @@
 # William Shakespeare
 
-<h2>Curtain Call</h2>
+## Curtain Call
 
 **Shakespeare:**
 Hm...Master, can I have a minute?

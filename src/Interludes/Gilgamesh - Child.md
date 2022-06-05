@@ -1,6 +1,6 @@
 # Gilgamesh (Child)
 
-<h2>How to Love a Wild Flower</h2>
+## How to Love a Wild Flower
 
 **Mash:**
 ...

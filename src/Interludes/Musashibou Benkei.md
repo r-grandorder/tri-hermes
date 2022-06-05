@@ -1,6 +1,6 @@
 # Musashibou Benkei
 
-<h2>Destroyer Monk</h2>
+## Destroyer Monk
 
 **Benkei:**
 Ah, Master.

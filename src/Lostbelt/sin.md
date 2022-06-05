@@ -16063,7 +16063,7 @@ And in our world, with all its conflict, any technology can be used as a weapon.
 For example...did you know it's possible to poison a computer just by communicating with it? 
  
 **Qin Shi Huang:**
-...Wha...!!!???You...$#*& In that toy...^<&@u・$・ﾟ3ﾟⅢ...
+...Wha...!!!???You...$#*& In that toy...^&lt;&@u・$・ﾟ3ﾟⅢ...
  
 **Jing Ke:**
 Yes. You obviously wanted to have a lofty discussion about worldviews and philosophy...but I'm really just here to kill you. 

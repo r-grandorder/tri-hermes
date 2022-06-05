@@ -1,6 +1,6 @@
 # Mysterious Heroine X Alter
 
-<h2>XXXX. Mysterious Heroines</h2>
+## XXXX. Mysterious Heroines
 
 **Heroine XX:**
 It's time...for the XXth Servantverse Servant Assembly!

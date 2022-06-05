@@ -1,6 +1,6 @@
 # Napoleon Bonaparte
   
-<h2>Before and After the Dream</h2>
+## Before and After the Dream
  
 **Napoleon:**
 Yeah! Got 'em!
@@ -1525,11 +1525,11 @@ Then I shall have to see if I can make that happen.
 Then, once that artilleryman gets here&ndash;
 
  
-<span style=color:red>**Sigurd:**</span>
+<span style="color:red">**Sigurd:**</span>
 Hmph. I come in and THIS is what I hear you talking about? What a joke.
 
  
-<span style=color:red>**Sigurd:**</span>
+<span style="color:red">**Sigurd:**</span>
 The next time he shows his face here,
 I'll chop him in half on the spot. End of story.
 
@@ -1538,7 +1538,7 @@ I'll chop him in half on the spot. End of story.
 Sigurd! How dare you show yourself before Her Majesty without announcing your presence!?
 
  
-<span style=color:red>**Sigurd:**</span>
+<span style="color:red">**Sigurd:**</span>
 Hehe.
 
  
@@ -1562,7 +1562,7 @@ Why, one could argue that my very Lostbelt itself is nothing if not a hypothetic
 But...!
 
  
-<span style=color:red>**Sigurd:**</span>
+<span style="color:red">**Sigurd:**</span>
 Hypothetically, I'd chop him in half on the spot.
 
  

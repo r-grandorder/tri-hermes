@@ -1,6 +1,6 @@
 # Mysterious Heroine X
 
-<h2>Saber Slayer, Chapter Dawn</h2>
+## Saber Slayer, Chapter Dawn
 
 **Mash:**
 The Saber of Sabers?
@@ -184,7 +184,7 @@ W-What is going on?
 Fooou...
 
 
-<h2>Saber Slayer, Chapter Battle</h2>
+## Saber Slayer, Chapter Battle
 
 **X:**
 Ages have passed since the last match, and I've Caliburn'd down countless Sabers.
@@ -437,7 +437,7 @@ How long are we going to be doing this?
 Foou...
 
 
-<h2>Saber Slayer, Chapter Awaken</h2>
+## Saber Slayer, Chapter Awaken
 
 **Announcer:**
 It's time for the much anticipated final round! The last battle to decide who the Saber of Sabers will be!

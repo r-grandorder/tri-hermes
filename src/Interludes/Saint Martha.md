@@ -1,6 +1,6 @@
 # Saint Martha
 
-<h2>Saint of the Dragon and Sea</h2>
+## Saint of the Dragon and Sea
 
 **Martha:**
 A normal...
@@ -355,7 +355,7 @@ She called herself a dragon slayer?
 Foou, foufou!
 
 
-<h2>The Desired Saint</h2>
+## The Desired Saint
 
 **Martha:**
 ...

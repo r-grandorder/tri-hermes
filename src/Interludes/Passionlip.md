@@ -1,6 +1,6 @@
 # Passionlip
 
-<h2>Sakura Labyrinth／M</h2>
+## Sakura Labyrinth／M
 
 
 ---

@@ -15332,15 +15332,15 @@ Now, let the curtain rise on this tragedy! The pilgrimage ends here!
  
 **Welsh Fairy A:**
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>It's Lord Oberon, it's Lord Oberon!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>It's Lord Oberon, it's Lord Oberon!</rt></ruby>
 
-<ruby><rb>![welsh1-light](https://i.imgur.com/vQCGvDe.png)</rb><rt>Everyone, Lord Oberon has returned!</rt></ruby>
+<ruby>![welsh1-light](https://i.imgur.com/vQCGvDe.png)<rt>Everyone, Lord Oberon has returned!</rt></ruby>
  
 **Welsh Fairy B:**
 
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Tell us!  Tell us!</rt></ruby>
+<ruby>![welsh2-light](https://i.imgur.com/SYUwP8V.png)<rt>Tell us!  Tell us!</rt></ruby>
 
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Tell us about the outsiders who wanted to kill us!</rt></ruby>
+<ruby>![welsh2-light](https://i.imgur.com/SYUwP8V.png)<rt>Tell us about the outsiders who wanted to kill us!</rt></ruby>
  
 **Oberon Vortigern:**
 Hey everyone, I'm back. Did you manage to somehow survive another day? 
@@ -15497,15 +15497,15 @@ Good luck with the next one! I will pray for your good fortune from the bottom o
  
 **Welsh Fairy:**
 
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Where are you going?  Where are you going?</rt></ruby>
+<ruby>![welsh2-light](https://i.imgur.com/SYUwP8V.png)<rt>Where are you going?  Where are you going?</rt></ruby>
 
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>I'll follow you!  I'll follow you!</rt></ruby>
+<ruby>![welsh2-light](https://i.imgur.com/SYUwP8V.png)<rt>I'll follow you!  I'll follow you!</rt></ruby>
  
 **Welsh Fairy:**
 
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Farewell, friend of Oberon!</rt></ruby>
+<ruby>![welsh2-light](https://i.imgur.com/SYUwP8V.png)<rt>Farewell, friend of Oberon!</rt></ruby>
 
-<ruby><rb>![welsh2-light](https://i.imgur.com/SYUwP8V.png)</rb><rt>Visit the forest of Wales, the forest of Oberon, again sometime!</rt></ruby>
+<ruby>![welsh2-light](https://i.imgur.com/SYUwP8V.png)<rt>Visit the forest of Wales, the forest of Oberon, again sometime!</rt></ruby>
 
 
 Note: Scene Change to Battle

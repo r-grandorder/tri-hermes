@@ -1,6 +1,6 @@
 # Chloe Von Einzbern
 
-<h2>Chloe's Snack</h2>
+## Chloe's Snack
 
 **Chloe:**
 ...And that's why things have been a little lacking in the kissing department.
