@@ -3,7 +3,7 @@ const { defaultTheme } = require("vuepress");
 // const { sitemapPlugin } = require("vuepress-plugin-sitemap2");
 
 module.exports = {
-    base: "/rgo-wiki/",
+    base: "/wiki/",
     lang: "en-US",
     title: "FGO Wiki",
     description: "/r/grandorder wiki",
@@ -17,7 +17,7 @@ module.exports = {
     ],
     theme: defaultTheme({
         smoothScroll: true,
-        repo: "https://github.com/squaresmile/rgo-wiki",
+        repo: "https://github.com/r-grandorder/wiki",
         editLinks: true,
         docsDir: "src",
         editLinkText: "Help us improve this page!",
