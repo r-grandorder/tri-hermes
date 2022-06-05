@@ -1,3 +1,9 @@
+node_modules
+.temp
+.cache
+.vscode
+dist
+
 ## =============================================================================
 ##                !!! STOP. DO NOT MODIFY BELOW THIS LINE. !!!
 ## =============================================================================
@@ -10,7 +16,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
