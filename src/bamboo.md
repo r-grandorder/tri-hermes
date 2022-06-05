@@ -1,5 +1,7 @@
 # Bamboo Broom Diary (Lore)
 
+[[toc]]
+
 Note: These lore-important diary entries are archived from the respective [Beast Lair thread](https://forums.nrvnqsr.com/showthread.php/5875-The-BAMBOO-BROOM-DIARY-%28Nasu-and-Takeuchi-blog%29). More information in thread OP.
 
 ## 2015/05/23: Last Stardust (Kinoko)
