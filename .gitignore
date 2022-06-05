@@ -1,4 +1,8 @@
 node_modules
+.temp
+.cache
+.vscode
+dist
 
 ## =============================================================================
 ##                !!! STOP. DO NOT MODIFY BELOW THIS LINE. !!!
