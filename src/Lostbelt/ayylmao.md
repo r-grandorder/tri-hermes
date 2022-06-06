@@ -1,7 +1,7 @@
 ---
 title: Bleached Earth Mystery
 description: For all your Post-Traum theorizing needs.
-preview: https://i.imgur.com/RPV57K6.png
+thumbnail: https://i.imgur.com/RPV57K6.png
 ---
 
 # Bleached Earth Mystery
@@ -13,7 +13,7 @@ Proceed at your own risk.
 
 ::: tip
 The following sections are FGO NA localizations with the 21st century years subtracted by 2 to match JP's timeline.
-::
+:::
 
 ## The Moment CHALDEAS Displayed the Bleaching
 
