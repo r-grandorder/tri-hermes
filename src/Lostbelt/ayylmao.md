@@ -20,30 +20,24 @@ The following sections are FGO NA localizations with the 21st century years subt
 ![](https://i.imgur.com/rUBbUGB.png)
 
 **Chaldea Staff A:**
-
 There's no sign of Kirschtaria Wodime in his Coffin! 
  
 **Chaldea Staff B:**
-
 It's not just him! There's nobody in Coffins B, C, D, E, F, or G either! 
  
 **Chaldea Staff B:**
-
 They're ALL empty! What's going on!? We had vital signs in all of them just a moment ago! 
 
  
 ![](https://i.imgur.com/IOxmsRh.png)
 
 **Da Vinci:**
-
 The Coffins' contents can't be verified until they're open. There are any number of ways to make it seem like they're still giving off readings. 
  
 **Da Vinci:**
-
 (...Does this mean that, at some point over the last four days, someone opened them before I did and set them up to give off false signals? )
  
 **Da Vinci:**
-
 But who could've done that? And more importantly, how did they get Wodime and the others out of&ndash;
  
  
@@ -72,19 +66,15 @@ There are currently no observable celestial objects on Earth.
 
  
 **Da Vinci:**
-
 ...Did I hear that right? 
  
 **Goredolf:**
-
 Wh-what's the meaning of all this, Da Vinci!? A-aaahhh! 
  
 **Goredolf:**
-
 Wh-wh-wh-what's going on!? I didn't do anything! 
  
 **Goredolf:**
-
 What are those cracks showing up in Chaldeas!? 
 
 ![](https://i.imgur.com/RK144hp.png)
@@ -95,27 +85,21 @@ What are those cracks showing up in Chaldeas!?
 Pseudo-Celestial Sphere Chaldeas overloaded. Shutting down Observation Lens Sheba. 
  
 **Goredolf:**
-
 N-n-now what's happening!? 
  
 **Chaldea Staff:**
-
 ...Intruders! I'm picking up magical energy signals at the front gate, Gate 3, and Gate 6! 
  
 **Chaldea Staff:**
-
 What...What the hell!? There's more pouring in every second! 
  
 **Da Vinci:**
-
 Snap out of it! We don't need Sheba to use our internal security cameras! 
  
 **Da Vinci:**
-
 Get the footage of the front gate and Chaldea's surroundings on the screen! 
  
 **Chaldea Staff:**
-
 Uh...R-right! Putting up visual now! 
 
 ![](https://i.imgur.com/kunl9uj.png)
@@ -125,49 +109,38 @@ Uh...R-right! Putting up visual now!
 ![](https://i.imgur.com/ZRrUfZz.png)
 
 **Priest:**
-
 Now, time for our last job. 
  
 **Priest:**
-
 The Pseudo-Celestial Sphere Chaldeas...The miracle that leads to the Root. The miracle that the Animusphere family wished for and dreamed about for over two millennia...
  
 **Priest:**
-
 Part of me wishes we didn't have to trample all over this dream, but such is life. 
  
 **Priest:**
-
 It is the job of adults to teach children the harsh truth of reality. Even the tsar fears this celestial sphere. 
  
 **Priest:**
-
 After all, changing the past via Rayshifting is the one threat we can't counter. 
  
 ![](https://i.imgur.com/eZxkc5m.png)
 
 **???:**
-
 ...So this is Chaldeas. It looks just like an Easter egg...
  
 **???:**
-
 So this is the device I must freeze, Father? 
  
 **Priest:**
-
 That's right. That is what the tsar wants. You must use your Noble Phantasm to defeat the traitors. 
  
 **Priest:**
-
 You must bury this magnificent crown jewel of humanity yourself, in a coffin of permafrost. 
  
 **Priest:**
-
 What will you do, Your Imperial Highness, Grand Duchess Anastasia? 
  
 **???:**
-
 ...
 
 ![](https://i.imgur.com/QJCHtFO.png)
@@ -178,128 +151,100 @@ What will you do, Your Imperial Highness, Grand Duchess Anastasia?
 
 
 **Chaldea Staff:**
-
 Holmes, are you seeing what's outside the window!? 
 
 ![](https://i.imgur.com/t3JKWZ7.png)
  
 **Holmes:**
-
 Of course. I've seen it since I took control. 
  
 **Holmes:**
-
 ...Nevertheless, it IS hard to believe. One could be forgiven for thinking it a bad dream. 
 
 ![](https://i.imgur.com/a1EV2zG.png)
  
 **Chaldea Staff:**
-
 Are those meteoroids!? But we didn't get any reports from Panama! 
  
 **Chaldea Staff:**
-
 If there were meteoroids too big to burn up in the atmosphere headed this way, we would've heard! 
  
 **Chaldea Staff:**
-
 And what's with those trajectories!? How can they possibly be falling straight down like that!? 
  
 **Holmes:**
-
 An occurrence that defies human understanding, hm? 
  
 **Holmes:**
-
 That tells us they cannot be meteoroids. I believe we can rule out debris as well. 
  
 **Holmes:**
-
 Which means this can only be something once relegated to fiction. For example, an invasion from outer space. 
 
 ![](https://i.imgur.com/ufUXhx2.png)
  
 **Goredolf:**
-
 You're joking, right? Who could say something like that with a straight face!? 
  
 **Goredolf:**
-
 I-I mean, that would just be absurd, right? Or what, are you really saying those people were aliens? 
  
 **Goredolf:**
-
 That they only pretended to be human in order to take over Chaldea? How can&ndash;
 
 ![](https://i.imgur.com/LU3wm3G.png)
 
 **Holmes:**
-
 My apologies, but please, do be quiet. We're picking up an external transmission. It's using the same frequency you did at Chaldea. 
  
 **???:**
-
 ...anity. We have a message for all of humanity. 
  
 **???:**
-
 This planet will soon be reborn as an old, brand-new world. 
  
 **???:**
-
 Human civilization was a mistake. The path of our growth was incorrect. 
  
 **???:**
-
 And so I have made my decision. I will revolt against all of human history&ndash;Proper Human History. 
  
 **???:**
-
 We are about to fill this world with inhuman Mystic secrets. We will restore the Age of Gods. 
  
 **???:**
-
 To that end, the gods have descended from a far-off galaxy, and in their wisdom, they have used seven seeds to select new leaders. 
  
 **???:**
-
 These leaders will remake this planet as they see fit. And the one who reign supreme shall be given the right to renew the world itself. 
  
 **???:**
-
 The life-forms from Proper Human History will not be permitted to take part in this war, or even to view it from the sidelines. 
  
 **???:**
-
 The roots of cosmic fantasy have descended upon us. Trees of creation have sprung up all across the land. 
 
 ![](https://i.imgur.com/jrkGsYw.png)
  
 **???:**
-
 Now, all of the old humanity's endeavors will be set aside, frozen. 
  
 **???:**
-
 Thus shall you atone for your sins. 
  
 **???:**
-
 2017...The year that Proper Human History came to an end. 
 
 ![](https://i.imgur.com/epvSDST.png)
 
  
 **???:**
-
 My name is Wodime. Kirschtaria Wodime. 
  
 **???:**
-
 On behalf of the seven Crypters, I have a message for those of you who escaped from Chaldea. 
  
 **???:**
-
 No, rather, I have a message for the scant few remnants of the human race: WE will be the inheritors of this world's history. 
 
 ## Bluebook Narration 1
@@ -419,29 +364,23 @@ The atmospheric composition was normal. The air was breathable, and the gravity 
 “Good thing you didn't have to get all dressed up like an astronaut, huh? ” said Leonardo da Vinci with a cherubic smile. 
  
 **Mash:**
-
 ...Look, Senpai, you can see them up ahead...Buildings. 
 
 ![](https://i.imgur.com/0shrsGu.png)
  
 **Mash:**
-
 It looks like even the buildings have been bleached. That explains why we couldn't see them at a distance. 
  
 **Mash:**
-
 ......
  
 **Mash:**
-
 ...Those ARE buildings, right? 
  
 **Mash:**
-
 If there are any survivors here, we should bring them back to the Border as soon as&ndash;
 
 **Narration:**
-
 She trailed off all of a sudden. Probably because what she saw was beyond anything she could have imagined. 
 
 No one could blame her. Anyone else would have been agape at the bizarre sight before them. 
@@ -457,11 +396,9 @@ It all looked so sterile, especially for ruins. It was the sort of thing you'd o
 Everyone back on the Border seeing it on their monitors must have thought they were looking at footage from an alien planet. 
  
 **Mash:**
-
 ...Let's go in. There might still be something inside. 
  
 **Narration:**
-
 Earth had changed. 
 
 It had been completely bleached&ndash;a planet now totally devoid of life, with the exception of the Lostbelts. 
@@ -493,33 +430,27 @@ There was even something that looked like a doll lying on the floor&ndash;a sign
 And above all, they found something that had clearly been left behind with intent...
  
 **Mash:**
-
 ...According to this journal, it looks like somebody was here as recently as two days ago. 
  
 **Mash:**
-
 The last entry is dated the day before yesterday. 
  
 **Mash:**
-
 It looks like there were six survivors at first, but over time, their numbers gradually dwindled, until...
  
 **Mash:**
-
 ......
  
 **Mash:**
-
 In the end, whoever wrote this journal must have been the last one to disappear...Where could they all have gone? 
 
 **Narration:**
- 
+
 Unfortunately, though whoever wrote the journal had excellent penmanship, it was in a language that Fujimaru could not read. 
 
 It could have been Finnish, or maybe Swedish...Either way, it may as well have been Greek to Fujimaru. 
  
 **Mash:**
-
 “Why did this happen to our planet? Why do these invaders from another world hate humanity so much? ”
  
 If nothing else, those final questions written on the last pages were clear. 
@@ -529,15 +460,12 @@ Why? Why? Why?
 That is all these people could ask, even as they were wiped away...Almost as though they were being punished for seeking meaning in their crisis. 
  
 **Mash:**
-
 ...It's time, Master. Let's head back to the Border. 
  
 **Mash:**
-
 We're almost to Sweden now. You should rest up for the coming battles. 
 
 **Narration:**
-
 As they left the remnants behind, one thought haunted each and every one of them: 
 
 Nowhere was there so much as a trace of blood,a hint of violence. 
@@ -545,7 +473,6 @@ Nowhere was there so much as a trace of blood,a hint of violence.
 ![](https://i.imgur.com/8DG0ttk.png)
 
 **Fujimaru:**
-
 So that's what those storm walls look like from the outside...
 
 ## Bluebook Narration 2
@@ -705,25 +632,20 @@ LB2 End - Contact with Wandering Sea
 :::
 
 **Da Vinci:**
-
 Anyway, last we checked, the Wandering Sea should be somewhere in the North Sea, far from the coast. So let's just enjoy this road trip until&ndash;
 
 ![](https://i.imgur.com/pFXLKSs.png)
  
 **Da Vinci:**
-
 Hm? What's up with the alarm, Meunière? 
  
 **Meunière:**
-
 Why're you asking me? If you don't know,how could you possibly expect me to&ndash;Wha...!? 
  
 **Meunière:**
-
 The hell is this!? A spatial fault three hundred meters up ahead! It's showing up as blue on the map! 
  
 **Meunière:**
-
 It's...it's the ocean! We're heading straight for the ocean! 
 
 ![](https://i.imgur.com/NeXxa9i.png)
@@ -739,19 +661,15 @@ LB3 Beginning
 ![](https://i.imgur.com/DcbRceA.png)
 
 **Sion:**
-
 As you can see there are three Lostbelts in Europe, two in Asia, one in South America, and one in the middle of the Atlantic. 
  
 **Sion:**
-
 That last Lostbelt is the only place on Earth that still has an ocean from before the world was reset. 
  
 **Chaldea Staff:**
-
 !? 
  
 **Sion:**
-
 Wait, cut! Scratch that! I forgot about the Wandering Sea! We still have oceans too! Obviously! 
 
 ## Bluebook Narration 3
@@ -963,7 +881,6 @@ But I can't stop now. I have to find the answers before I die. Answers that I'm 
 ---
 
 **David:**
-
 ...?
 
 ---
@@ -991,105 +908,83 @@ The following section is translated by Rayshift.
 :::
 
 **Narration:**
-
 At long last, after yet another day had passed, the four travelers arrived at their destination.
 
 ![](https://i.imgur.com/bPQH73L.png)
 
 **Moriarty:**
-
 Well then. 
 
 **Fujimaru:**
-
 What? We're here?
 
 **Mash:**
-
 Is this really our destination, Moriarty?
 
 ![](https://i.imgur.com/aRYsjHP.png)
 
 **Kadoc:**
-
 There's absolutely nothing here.
 
 **Moriarty:**
-
 This is but a camoflauge, courtesy of yours truly. The coordinates, however, are a perfect match. 
 
 ![](https://i.imgur.com/zh5Bi1j.png)
 
 **Da Vinci:**
-
 Hm? Hmmm? These coordinates...this place...
 
 Uh, Moriarty? Are you really sure this is where we're headed?
 
 **Moriarty:**
-
 Although this is completely out of the blue, you saw this coming from a mile away, no?
 
 **Da Vinci:**
-
 I see...I'd pegged this as a prank, and if that were the case, I thought I'd let Mash have at you. 
 
 **Moriarty:**
-
 I would do no such thing, not at this point. 
 
 Gentlemen, let us now speak the password as one. 
 
 **Fujimaru:**
-
 Password?
 
 **Moriarty:**
-
 Since time immemorial, there is but one phrase you say when you wish to open closed doors, correct?
 
 **Kadoc:**
-
 Do I really have to say it?
 
 **Moriarty:**
-
 I'm going to sulk disappointedly if you won't say it. 
 
 **Mash:**
-
 By all means, sulk away and be very disappointed, James Moriarty. 
 
 ![](https://i.imgur.com/3HTagab.png)
 
 **Moriarty:**
-
 Now then, three two one&mdash;
 
 **Fujimaru:**
-
 Open Sesame!
 
 **Kadoc:**
-
 Really? Did you really just say that? What's more, Moriarty is so surprised that he's been rendered speechless.
 
 **Mash:**
-
 That's such a shame!
 
 **Fujimaru:**
-
 Umm, guys?
 
 **Moriarty:**
-
 A-Apologies...now then, ahem.
 
 "Open Sesame".
 
 **Mash:**
-
 An earthquake...?
 
 ![](https://i.imgur.com/4QVhmPd.png)
@@ -1097,73 +992,57 @@ An earthquake...?
 ![](https://i.imgur.com/2i0vrps.png)
 
 **Kadoc:**
-
 Hey, why are there stairs in a place like this...? Does this mean we're headed underground?
 
 **Moriarty:**
-
 Well, I wonder about that. Are you stout-hearted enough to go?
 
 **Fujimaru:**
-
 Let's go!
 
 **Mash:**
-
 Right!
 
 ![](https://i.imgur.com/ZF9bB1k.png)
 
 **Both:**
-
 You're way too easy going!
 
 **Kadoc:**
-
 ...Shall we go?
 
 **Moriarty:**
-
 Yes we shall...
 
 ![](https://i.imgur.com/noCylz0.png)
 
 **Mash:**
-
 It's rather deep...
 
 **Fujimaru:**
-
 I can hardly see anything...
 
 **Kadoc:**
-
 That's a problem too, but even more problems abound. This staircase isn't made of stone. 
 
 **Mash:**
-
 Oh, you're right. From the feel of it...it's definitely man-made. It feels so very modern...
 
 **Moriarty:**
-
 Do be careful, if you happen to fall, you'll never stop falling.
 
 **Kadoc:**
-
 Nonetheless, we have descended quite a fair bit. The third basement level...no, the fourth?
 
 **Moriarty:**
-
 A rough estimate of our destination would place it around the tenth basement level. In all likelihood, they were wary of deep penetration ordnance such as bunker busters.
 
 **Kadoc:**
-
 ...
 
 ...Huh?
 
 **Mash:**
-
 Bunker buster...?
 
 Oh, I get that it's the name of the weapon and such...
@@ -1171,55 +1050,43 @@ Oh, I get that it's the name of the weapon and such...
 ![](https://i.imgur.com/Am65JkH.png)
 
 **Goredolf:**
-
 But that's a modern military weapon, is it not? Is that relevant?
 
 **Moriarty:**
-
 More than you can imagine, let us move on.
 
 **Moriarty:**
-
 Well this is as far as the stairs go. Are you all right, the three of you?
 
 **Fujimaru:**
-
 I-I'm beat...
 
 **Kadoc:**
-
 It takes quite a mental toll to go down a staircase in pitch black darkness. 
 
 **Mash:**
-
 Master, your hand please. I believe it will help you be at ease a little&mdash;!?
 
 **Mash:**
-
 Master!
 
 ![](https://i.imgur.com/i4jrH7C.png)
 
 **Kadoc:**
-
 Zhang Jiao...!?
 
 **Moriarty:**
-
 No need to concern yourselves with him. He's already dead.
 
 **Kadoc:**
-
 ...Huh?
 
 **Zhang Jia:**
-
 ...
 
 ...
 
 **Moriarty:**
-
 I'm not too familiar with it myself. Let's see, umm...that's it.
 
 I believe he's an existence referred to as a shijiexian. However, as long as he remains a corpse, his Master won't be supplying him with magical energy. 
@@ -1239,113 +1106,88 @@ That's over now though. The cost of creating an alter ego is that he systemized 
 Furniture.
 
 **Kadoc:**
-
 Was...Zhang Jiao...protecting this place?
 
 **Moriarty:**
-
 No. It would be more accurate to say he had no choice but to do so. You could say that while his Master created this Singularity, it was Zhang Jiao who nurtured it. It was his dedication to it that made this Singularity so intricately bizarre. 
 
 **Moriarty:**
-
 Now then, I'll open the door. From this point onward, communication with Chaldea will likely be rendered impossible. It's already gotten erratic, has it not? 
 
 **Da Vinci:**
-
 ...He's got a point there, the signal's about to cut off. The three of you be careful now. 
 
 **Fujimaru:**
-
 Don't worry, we'll be right back. 
 
 ![](https://i.imgur.com/f2T3XCp.png)
 
 **Da Vinci:**
-
 Yup!
 
 ![](https://i.imgur.com/1jX3lnv.png)
 
 **Goredolf:**
-
 No matter what may happen, make sure to prioritize your safe return, Kadoc Zemlupus. 
 
 **Kadoc:**
-
 Got it.
 
 **Goredolf:**
-
 It pains me to say this...but you're the only one we can count on. After all, the two of them there are the foolhardy type!
 
 ![](https://i.imgur.com/KtC8tfq.png)
 
 **Kadoc:**
-
 Yeah, I'm welllll aware of that.
 
 **Fujimaru:**
-
 I-Is that so?
 
 **Goredolf:**
-
 That. Is. So.
 
 **Da Vinci:**
-
 In any case, take care. I'll be waiting for your reports!
 
 **Moriarty:**
-
 Well then&mdash;
 
 ![](https://i.imgur.com/3ccjhcJ.png)
 
 **Narration:**
-
 The trio were dumbfounded by the alienness of the passageway. 
 
 **Fujimaru:**
-
 A cosmic...corridor...?
 
 ![](https://i.imgur.com/JDe3E34.png)
 
 **Moriarty:**
-
 That which I must show you lies ahead. Now, let us move on to ground zero of this Singularity.
 
 **Mash:**
-
 Ground...zero...
 
 **Kadoc:**
-
 But this is almost like&mdash;
 
 **Fujimaru:**
-
 Kadoc?
 
 **Kadoc:**
-
 No...it's nothing.
 
 **Mash:**
-
 How far will we be walking this time?
 
 **Moriarty:**
-
 Oh, I assure you it'll be quite the short stroll.
 
 **Fujimaru:**
-
 ...All right, let's go!
 
 **Mash:**
-
 Right!
 
 **Narration:**
@@ -1367,7 +1209,6 @@ It was like restlessly traversing a mountain in the dark of night.
 A strange certainty of that nature.
 
 **Moriarty:**
-
 The Master of this Singularity lies up ahead. Needless to say, its act is one of revenge and retribution against Pan-Human History.
 
 He has that right&mdash;I believe that is what you were told before, Kadoc?
@@ -1381,23 +1222,18 @@ And the Servant, Zhang Jiao, established this extreme-scale Singularity to fulfi
 Using Area 51, Nevada, USA in the year 2017&mdash;as its point of origin.
 
 **Moriarty:**
-
 We've arrived. This is the final door. I presume you're ready?
 
 **Kadoc:**
-
 Fujimaru.
 
 **Mash:**
-
 Master. 
 
 **Fujimaru:**
-
 Open it, Moriarty.
 
 **Moriarty:**
-
 Understood.
 
 ![](https://i.imgur.com/rY0fkmX.png)
@@ -1419,13 +1255,11 @@ Many oddities have they encountered. Some worthy of awe, and some not. And yet&m
 ![](https://i.imgur.com/O3M4EA2.png)
 
 **Kadoc:**
-
 &mdash;Where is this?
 
 ![](https://i.imgur.com/6QKb4iF.png)
 
 **Moriarty:**
-
 That is, of course, self-explanatory. You could call it an operating theater, or perhaps a treatment room, or perhaps a laboratory.
 
 The devices on the walls appear to be state-of-the-art, but it would probably be safer to not touch them.  
@@ -1439,7 +1273,6 @@ Their sense of sight rejects it.
 It screams that it does not wish to see what lies in this room. 
 
 **Moriarty:**
-
 My time is almost up...but one last thing. Allow me to introduce you. 
 
 This here is the origin of the entire Singularity. 
