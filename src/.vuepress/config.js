@@ -16,8 +16,8 @@ module.exports = {
             "meta",
             { name: "apple-mobile-web-app-status-bar-style", content: "black" },
         ],
-		['link', { rel: 'icon', href: 'https://i.imgur.com/ZsRygrA.png' }],
-        ["meta", { property: 'og:image', href: 'https://i.imgur.com/ZsRygrA.png' }]
+		['link', { rel: 'icon', href: 'https://i.imgur.com/CdrSGCb.png' }],
+        ['meta', { property: 'og:image', href: 'https://i.imgur.com/CdrSGCb.png' }]
     ],
     theme: defaultTheme({
         smoothScroll: true,
