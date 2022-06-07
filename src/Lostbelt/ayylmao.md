@@ -1,7 +1,7 @@
 ---
 title: Bleached Earth Mystery
 description: For all your Post-Traum theorizing needs.
-thumbnail: https://i.imgur.com/RPV57K6.png
+featuredImage: https://i.imgur.com/RPV57K6.png
 ---
 
 # Bleached Earth Mystery
@@ -901,6 +901,129 @@ And yet, there it was atop the exam table. A bizarre...thing that resembled noth
 
 ![](https://i.imgur.com/ygRCxSt.png)
 
+## Ophelia's Hypothesis
+
+![](https://i.imgur.com/5i3HGvO.png)
+
+**Kadoc:**
+A regularly scheduled report from Ophelia? Based on the date, this would've been when Chaldea had captured me.
+
+**Kadoc:**
+...Weird. Why's this the only file saved by itself?
+
+**Kadoc:**
+Sorry about this, Ophelia.
+
+![](https://i.imgur.com/exjm7w7.png)
+
+**Transmission Log:**
+...I'm contacting you in regards to the relationship between the Lostbelts and the Trees of Emptiness.
+
+**Transmission Log:**
+To clarify terms, I'm defining Lostbelt as an extension of the Pruning Theoretical Phenomenon&ndash; an alternative history that could never exist on Earth as part of Proper Human History...
+
+**Transmission Log:**
+...and the Trees of Emptiness are the anchors holding these lost histories in place.
+
+**Transmission Log:**
+...This is witnessed by the fact that Trees of Emptiness and their respective Lostbelts are so closely tied together.
+
+**Transmission Log:**
+All observational data we have for the Lostbelts further substantiates this connection, leaving no room for doubt.
+
+**Transmission Log:**
+As proof, we can look at the Russian Lostbelt, which is disappearing as I speak now that its Tree of Emptiness has been cut down.
+
+**Kadoc:**
+...
+
+**Kadoc:**
+...The timeline definitely lines up.
+
+**Kadoc:**
+So, the Russian Lostbelt disappearing is what definitively proved the connection between Lostbelts and their Trees of Emptiness, huh.
+
+**Kadoc:**
+Yeah, that sounds right.
+
+**Transmission Log:**
+However...
+
+**Transmission Log:**
+...the Russian Lostbelt's disappearance only proves one particular trait about the Trees of Emptiness.
+
+**Transmission Log:**
+There is still one major mystery remaining about the Lostbelts:
+
+**Transmission Log:**
+How do they fill in the gaps between when they were pruned from human history, until they were “replanted” in the present day?
+
+**Kadoc:**
+...
+
+**Transmission Log:**
+That mystery is what I'm reporting in on today.
+
+**Transmission Log:**
+The other day, I heard something from the king of the Scandinavian Lostbelt, Scáthach-Skadi, that points to one possible answer.
+
+**Transmission Log:**
+She clearly remembers the events of the past few thousand years, and does so as though it were perfectly natural.
+
+**Transmission Log:**
+What's more, she did so even while understanding that the Lostbelts, including her own...
+
+**Transmission Log:**
+...were cut off from Proper Human History because their continued existence was deemed extraneous.
+
+**Transmission Log:**
+This means she is fully aware that nothing could have happened during the several thousand years between when Ragnarök took place and the present day...
+
+**Transmission Log:**
+...and yet, she and her Lostbelt all exist as though those several thousand years of lost history had actually taken place. Quite the contradiction.
+
+**Transmission Log:**
+Of course, while we can't make any definitive statements based on one king's single passing remark...
+
+**Transmission Log:**
+...I do feel confident enough to propose a hypothesis.
+
+**Transmission Log:**
+I suspect that the blank period between when a Lostbelt was pruned, and when it was “replanted” in the present day...
+
+**Transmission Log:**
+...may have actually taken place inside each Tree of Emptiness.
+
+**Transmission Log:**
+In Russia, that period would have been about five hundred years. In Scandinavia, it would be about three thousand.
+
+**Transmission Log:**
+In China, it would be about twenty-two hundred, and so on and so forth.
+
+**Transmission Log:**
+To further expound on my hypothesis...
+
+**Transmission Log:**
+I suspect that the Trees of Emptiness take the point at which a Lostbelt's history is pruned...
+
+**Transmission Log:**
+...and then simulate what would happen if that history had continued on from that point.
+
+**Transmission Log:**
+By doing so, the trees effectively prove that history's existence, and the result is projected onto the planet itself.
+
+**Transmission Log:**
+If my hypothesis is correct, that would mean the trees are essentially creating history, not rewriting it.
+
+**Transmission Log:**
+Not even a demiurge-class Divine Spirit that once ruled the entire planet could wield this kind of Authority on Earth in the present day.
+
+**Transmission Log:**
+Wodime. I mean, Lord Kirschtaria Wodime.
+
+**Transmission Log:**
+...Just what is the Foreign God, anyway?
+
 ## The Origin of Traum
 
 ::: tip
@@ -1073,7 +1196,7 @@ Master!
 ![](https://i.imgur.com/i4jrH7C.png)
 
 **Kadoc:**
-Zhang Jiao...!?
+Zhang Jiaoo...!?
 
 **Moriarty:**
 No need to concern yourselves with him. He's already dead.
@@ -1081,7 +1204,7 @@ No need to concern yourselves with him. He's already dead.
 **Kadoc:**
 ...Huh?
 
-**Zhang Jia:**
+**Zhang Jiao:**
 ...
 
 ...
@@ -1091,7 +1214,7 @@ I'm not too familiar with it myself. Let's see, umm...that's it.
 
 I believe he's an existence referred to as a shijiexian. However, as long as he remains a corpse, his Master won't be supplying him with magical energy. 
 
-So Zhang Jia had little choice but to create an alter ego of himself, while erasing its self-awareness as an alter ego at the same time. For it would lose its sense of self should it gain awareness of its status as an alter ego, putting it at risk of annihailation. 
+So Zhang Jiao had little choice but to create an alter ego of himself, while erasing its self-awareness as an alter ego at the same time. For it would lose its sense of self should it gain awareness of its status as an alter ego, putting it at risk of annihailation. 
 
 Even if the assassination plan should succeed, even if he should fall in the final battle...
 
@@ -1106,10 +1229,10 @@ That's over now though. The cost of creating an alter ego is that he systemized 
 Furniture.
 
 **Kadoc:**
-Was...Zhang Jiao...protecting this place?
+Was...Zhang Jiaoo...protecting this place?
 
 **Moriarty:**
-No. It would be more accurate to say he had no choice but to do so. You could say that while his Master created this Singularity, it was Zhang Jiao who nurtured it. It was his dedication to it that made this Singularity so intricately bizarre. 
+No. It would be more accurate to say he had no choice but to do so. You could say that while his Master created this Singularity, it was Zhang Jiaoo who nurtured it. It was his dedication to it that made this Singularity so intricately bizarre. 
 
 **Moriarty:**
 Now then, I'll open the door. From this point onward, communication with Chaldea will likely be rendered impossible. It's already gotten erratic, has it not? 
@@ -1217,7 +1340,7 @@ But that's not quite accurate. He was not in a position to do otherwise. He was 
 
 Even should the intent to retaliate be absent, as an entity, he was in a position where he could not do otherwise. 
 
-And the Servant, Zhang Jiao, established this extreme-scale Singularity to fulfill that wish.
+And the Servant, Zhang Jiaoo, established this extreme-scale Singularity to fulfill that wish.
 
 Using Area 51, Nevada, USA in the year 2017&mdash;as its point of origin.
 

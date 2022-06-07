@@ -8,7 +8,7 @@ module.exports = {
     base: "/wiki/",
     lang: "en-US",
     title: "FGO Wiki",
-    description: "/r/grandorder wiki",
+    description: "FGO Lore Wiki",
     head: [
         ["meta", { name: "theme-color", content: "#3eaf7c" }],
         ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
@@ -16,6 +16,7 @@ module.exports = {
             "meta",
             { name: "apple-mobile-web-app-status-bar-style", content: "black" },
         ],
+		['link', { rel: 'icon', href: 'https://i.imgur.com/ZsRygrA.png' }],
         ["meta", { property: 'og:image', href: 'https://i.imgur.com/ZsRygrA.png' }]
     ],
     theme: defaultTheme({
