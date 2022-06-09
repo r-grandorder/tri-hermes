@@ -40,7 +40,7 @@
     * [妖兰's Story Summary](Lostbelt/traum-summary-Melu+Smoof.md)
     * [Fumei's Story Summary](Lostbelt/traum-summary-fumei.md)
     * [Post-Traum Speculation Resource](Lostbelt/ayylmao.md)
-    * 
+
 ## Anime Subtitle Dumps
 
 * [First Order](Anime/First%20Order.md)
