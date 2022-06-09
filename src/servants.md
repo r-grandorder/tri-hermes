@@ -42,7 +42,7 @@
 
 **Chevalier d'Eon**
 
-* [Interlude](Interludes/Chevalier%20d'Eon.md)
+* [Interlude](Interludes/Chevalier%20d%20Eon.md)
 
 **Fergus Mac Róich**
 
@@ -399,7 +399,7 @@
 
 **William Shakespheare**
 
-* [Interlude](Interludes/William%20Shakespheare.md)
+* [Interlude](Interludes/William%20Shakespeare.md)
 
 **Mephistopheles**
 
@@ -695,7 +695,7 @@
 
 **Jeanne d'Arc**
 
-* [Interlude](Interludes/Jeanne%20d'Arc.md)
+* [Interlude](Interludes/Jeanne%20d%20Arc.md)
 
 **Amakusa Shirou**
 
@@ -721,7 +721,7 @@
 
 **Jeanne d'Arc - Alter**
 
-* [Interlude](Interludes/Jeanne%20d'Arc%20-%20Alter.md)
+* [Interlude](Interludes/Jeanne%20d%20Arc%20-%20Alter.md)
 
 **Aŋra Mainiiu**
 
