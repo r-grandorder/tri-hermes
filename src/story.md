@@ -37,12 +37,13 @@
 * [Cosmos in the Lostbelt 6: Avalon le Fae Part 3](Lostbelt/avalon3.md)
 * [Cosmos in the Lostbelt 6.4: Tunguska Sanctuary](Lostbelt/tunguska.md)
 * Cosmos in the Lostbelt 6.5: Realms of Mortality Incarnate, Traum - Life and Death of a Fantasy
-	* [妖兰's Story Summary](Lostbelt/traum-summary-Melu+Smoof.md)
-	* [Fumei's Story Summary](Lostbelt/traum-summary-fumei.md)
-	
+    * [妖兰's Story Summary](Lostbelt/traum-summary-Melu+Smoof.md)
+    * [Fumei's Story Summary](Lostbelt/traum-summary-fumei.md)
+    * [Post-Traum Speculation Resource](Lostbelt/ayylmao.md)
+    * 
 ## Anime Subtitle Dumps
 
-* [First Order](Anime/First%20Order.html)
-* [Babylonia Episode 0](Anime/Babylonia%20Ep%200.html)
-* [Moonlight Lostroom](Anime/Moonlight%20Lostroom.html)
-* [Solomon Movie](Anime/Solomon%20Movie.html)
+* [First Order](Anime/First%20Order.md)
+* [Babylonia Episode 0](Anime/Babylonia%20Ep%200.md)
+* [Moonlight Lostroom](Anime/Moonlight%20Lostroom.md)
+* [Solomon Movie](Anime/Solomon%20Movie.md)
