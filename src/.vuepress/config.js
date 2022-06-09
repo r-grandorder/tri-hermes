@@ -8,7 +8,7 @@ module.exports = {
     base: "/wiki/",
     lang: "en-US",
     title: "FGO Wiki",
-    description: "/r/grandorder wiki",
+    description: "FGO Lore Wiki",
     head: [
         ["meta", { name: "theme-color", content: "#3eaf7c" }],
         ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
@@ -73,7 +73,7 @@ module.exports = {
     plugins: [
         seoPlugin({
             hostname: "https://r-grandorder.github.io",
-            fallBackImage: "https://i.imgur.com/ZsRygrA.png",
+            fallBackImage: "https://i.imgur.com/CdrSGCb.png",
         }),
         sitemapPlugin({
             hostname: "https://r-grandorder.github.io",
