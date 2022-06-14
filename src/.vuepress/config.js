@@ -74,6 +74,7 @@ module.exports = {
         seoPlugin({
             hostname: "https://r-grandorder.github.io",
             fallBackImage: "https://i.imgur.com/CdrSGCb.png",
+            isArticle: () => false,
         }),
         sitemapPlugin({
             hostname: "https://r-grandorder.github.io",
