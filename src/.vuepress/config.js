@@ -16,6 +16,7 @@ module.exports = {
             "meta",
             { name: "apple-mobile-web-app-status-bar-style", content: "black" },
         ],
+		['link', { rel: 'icon', href: 'https://i.imgur.com/kDHyJX2.png' }],
     ],
     theme: defaultTheme({
         smoothScroll: true,
@@ -73,7 +74,7 @@ module.exports = {
     plugins: [
         seoPlugin({
             hostname: "https://r-grandorder.github.io",
-            fallBackImage: "https://i.imgur.com/CdrSGCb.png",
+            fallBackImage: "https://i.imgur.com/kDHyJX2.png",
             isArticle: () => false,
         }),
         sitemapPlugin({
