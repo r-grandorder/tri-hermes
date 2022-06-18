@@ -37,7 +37,7 @@
 * [Cosmos in the Lostbelt 6: Avalon le Fae Part 3](Lostbelt/avalon3.md)
 * [Cosmos in the Lostbelt 6.4: Tunguska Sanctuary](Lostbelt/tunguska.md)
 * Cosmos in the Lostbelt 6.5: Realms of Mortality Incarnate, Traum - Life and Death of a Fantasy
-    * [妖兰's Story Summary](Lostbelt/traum-summary-Melu+Smoof.md)
+    * [Smoof's Story Translation](Lostbelt/traum-TL-Smoof.md)
     * [Fumei's Story Summary](Lostbelt/traum-summary-fumei.md)
     * [Post-Traum Speculation Resource](Lostbelt/ayylmao.md)
 
