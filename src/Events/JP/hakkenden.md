@@ -148,7 +148,7 @@ Regardless, Orion will deal with the attack and gets ready to fight. Da Vinci re
 
 
 
---- [Battle against <White Arrow Monsters>] ---
+- Battle against White Arrow Monsters -
 
 
 
@@ -194,7 +194,7 @@ Bakin reveals it seems Sousuke has found another of his allies. Before you can p
 
 
 
---- [Battle against <Various Monsters>] ---
+- Battle against Various Monsters -
 
 
 
@@ -296,7 +296,7 @@ They volley of arrows approaches, and the 3 Servants all activate their Noble Ph
 
 
 
---- [Battle against <White Arrow Monsters>]　---
+- Battle against White Arrow Monsters　-
 
 
 
@@ -316,7 +316,7 @@ Arjuna and Tawara Touta face off against the horde of countless White Arrows.
 
 
 
---- [Battle against <White Arrow Monsters> + <White Arrow Centipede>]　---
+- Battle against White Arrow Monsters + White Arrow Centipede　-
 
 
 
@@ -336,7 +336,7 @@ Arjuna activates his Noble Phantasm. Touta starts getting the rice out... wait, 
 
 
 
---- [Battle against <White Arrow Monsters> + <White Arrow Centipedes> (with <Physical Immunity>)] ---
+- Battle against White Arrow Monsters + White Arrow Centipedes (with Physical Immunity) -
 
 
 
@@ -370,7 +370,7 @@ Regardless, Bakin and Izou prepare to fight.
 
 
 
---- [Battle against <Various Monsters> (with <Cloak of Hatred>) (Forced Kyokutei Bakin Support <NP Disabled>)] ---
+- Battle against Various Monsters with Cloak of Hatred (Forced Kyokutei Bakin Support, NP Disabled) -
 
 
 
@@ -384,7 +384,7 @@ But their reunion will have to wait: first they have to take care of the monster
 
 
 
---- [Battle against <Various Monsters> (with <Cloak of Hatred>) (Forced Kyokutei Bakin Support <NP Disabled>)] ---
+- Battle against Various Monsters with Cloak of Hatred (Forced Kyokutei Bakin Support, NP Disabled) -
 
 
 
@@ -426,7 +426,7 @@ Billy and Jane activate their Noble Phantasms.
 
 
 
---- Battle against <White Arrow Monsters> (with <Agile Footwork>) ---
+- Battle against White Arrow Monsters with Agile Footwork -
 
 
 
@@ -464,7 +464,7 @@ Izou and Hokusai stir up trouble to act as decoys. Bakin begins her chant. The D
 
 
 
---- [Battle against <Various Monsters>]　---
+- Battle against Various Monsters　-
 
 
 
@@ -472,7 +472,7 @@ After your success in battle, you have fled the city. The monsters are still in 
 
 
 
---- [Battle against <Various Monsters>]　---
+- Battle against <Various Monsters　-
 
 
 
