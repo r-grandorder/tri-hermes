@@ -168,7 +168,7 @@ My sins, my deeds, my duties. The end to those days have finally arrived.
   
 Beneath the waterfall that which is named, Reichenbach.
 
-CURRENT BGM OST: [![](https://static.atlasacademy.io/JP/Audio/BGM\_KYOSU\_1/BGM\_KYOSU\_1.mp3](https://static.atlasacademy.io/JP/Audio/BGM_KYOSU_1/BGM_KYOSU_1.mp3)
+CURRENT BGM OST: [![](https://static.atlasacademy.io/JP/Audio/BGM_KYOSU_1/BGM_KYOSU_1.mp3](https://static.atlasacademy.io/JP/Audio/BGM_KYOSU_1/BGM_KYOSU_1.mp3)
 
 ![](https://preview.redd.it/ldayl6nrj3491.png?width=1792&format=png&auto=webp&s=ffdc4f5be3f67784042f6e59ad357c8a39cfc8e5)
 
@@ -282,7 +282,7 @@ Not against a king, nor a god, not even the world.
   
 But rather, rebelling against Pan-Human History itself.
 
-**CURRENT BGM OST:** [![](https://static.atlasacademy.io/JP/Audio/BGM\_BATTLE\_179/BGM\_BATTLE\_179.mp3](https://static.atlasacademy.io/JP/Audio/BGM_BATTLE_179/BGM_BATTLE_179.mp3)
+**CURRENT BGM OST:** [![](https://static.atlasacademy.io/JP/Audio/BGM_BATTLE_179/BGM_BATTLE_179.mp3](https://static.atlasacademy.io/JP/Audio/BGM_BATTLE_179/BGM_BATTLE_179.mp3)
 
 ![](https://preview.redd.it/tba6o5nii3491.png?width=1344&format=png&auto=webp&s=78a99b0eb4e22de236277f4fdaa9ee18b82e5736)
 
@@ -588,11 +588,11 @@ This is something we should awfully be familiar with.
 
 Mashu and Da Vinci inform you that there is an army approaching their location. Da Vinci shockingly tells that the army of one hundred troops are attacking here, but says that they are all Servants, but Holmes asks for reconfirmation which Da Vinci repeats and advises them to hide. Mashu notices another army of Servants heading this way meaning that this area will become a battle ground and the only thing they can do is hide. Vlad advises to use Command Seals as a last resort. Holmes says that gathering information is vital. Both Servants aim to try to slip past the armies to find an escape route and information.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_5/BGM\_EVENT\_5.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_5/BGM_EVENT_5.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_5/BGM_EVENT_5.mp3)
 
 Guda and Kadoc dig a hole and Kadoc uses camouflage magecraft to mask their presence. Guda takes an interest, but Kadoc says that this is basic magecraft. Kadoc’s magecraft is an anti-beast magecraft which is outdated. He says that humanity in ancient times had to fight wild animals as well, but now as time progressed wild beasts have become obsolete just like his magecraft. Guda asks about Kadoc quitting magecraft. But he responds by saying that he’d be killed for asking that, but then apologizes for saying something rude.
 
-**CURRENT BGM:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_48/BGM\_EVENT\_48.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_48/BGM_EVENT_48.mp3)
+**CURRENT BGM:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_48/BGM_EVENT_48.mp3)
 
 The army from the Vengeance Realm are prepared to face off a medium sized army and plan for Archers to use their Noble Phantasms while Riders lay waste and disorient the opposing force and Sabers and Lancers will follow up by charging at the same time. The plan relies on the timing of the Noble Phantasms.
 
@@ -610,7 +610,7 @@ Both sides clash with Archers firing their Noble Phantasms, Lightning Longbow (A
 
 Roland makes his appearance and destroys the Restoration Realm army’s backline which makes them retreat since they are the army that’s being pincered. Saber from the Restoration Realm orders smokescreens and cover fire for them to retreat. Kriemhild’s army retreats as well. 
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_63/BGM\_EVENT\_63.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_63/BGM_EVENT_63.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_63/BGM_EVENT_63.mp3)
 
 **Class Lancer:**
 
@@ -1285,7 +1285,7 @@ Plain and simple, right?
 
 You enter into the Vengeance Realm. Rider escorts you through the gate and inwards towards the castle. Zhang Jue lays Saber off for the day and orders Rider to escort the prisoner to the castle. You question Rider if everyone here is a Servant. Rider informs you that everyone here is a Servant, not to mention the children that reside here as well. Rider also informs you that there’s also a marketplace, employment and culture here as well.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_BATTLE\_179/BGM\_BATTLE\_179.mp3](https://static.atlasacademy.io/JP/Audio/BGM_BATTLE_179/BGM_BATTLE_179.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_BATTLE_179/BGM_BATTLE_179.mp3)
 
 You arrive in the palace where Kriemhild resides. There, Zhang Jue states to the Queen that he has captured you. She states that this place is where fury and rage are justified and accepted. Kriemhild states that everyone here is a rebel towards Pan-Human History. Kriemhild desires to execute you as swiftly as possible, but Zhang Jue tries to prolong the notion by stating that they must interrogate him for information first before executing him. Zhang Jue also questions who’d be best for execution and thinks of Sanson. Kriemhild states to you that Pan-Human History is a foolish history where it has brought pain and suffering and she wants to eradicate it without a speck left. She calms down and tells Rider to throw you into your cell.
 
@@ -1821,7 +1821,7 @@ Another time, please.
 
 Fujimaru 1:
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_BATTLE\_178/BGM\_BATTLE\_178.mp3](https://static.atlasacademy.io/JP/Audio/BGM_BATTLE_178/BGM_BATTLE_178.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_BATTLE_178/BGM_BATTLE_178.mp3)
 
 ![](https://preview.redd.it/27v8e82064491.png?width=1344&format=png&auto=webp&s=1dc6bd2d40f3dbea63a55c1b6f70b4f4a9a61c34)
 
@@ -1875,7 +1875,7 @@ The inmate says that after being hydrated and full, you should sleep. But before
 
 ![](https://preview.redd.it/scdei8c364491.png?width=1344&format=png&auto=webp&s=c6e21f8473c8759ea189c4145288e4fc617ddc10)
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_BATTLE\_179/BGM\_BATTLE\_179.mp3](https://static.atlasacademy.io/JP/Audio/BGM_BATTLE_179/BGM_BATTLE_179.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_BATTLE_179/BGM_BATTLE_179.mp3)
 
 ![](https://preview.redd.it/6r8ick4z64491.png?width=1792&format=png&auto=webp&s=f5fb20083d29b789ab3c0dff0bc3a28ef3bc1b3f)
 
@@ -2217,7 +2217,7 @@ Well, I’m going to have to use my Noble Phantasm—
   
 La Black Luna (Magic Flute That Evokes Panic)!
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_147/BGM\_EVENT\_147.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_147/BGM_EVENT_147.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_147/BGM_EVENT_147.mp3)
 
 ![](https://preview.redd.it/vk025wfgu2591.png?width=1792&format=png&auto=webp&s=36bea2c192beeb48db997b253d7984ed7e8a4314)
 
@@ -2227,7 +2227,7 @@ La Black Luna (Magic Flute That Evokes Panic)!
 
 This Noble Phantasm defeats the birds but also affects Kadoc and Holmes as they are temporarily deaf. As Astolfo descends to talk to them, Kadoc and Holmes do nothing but stare at Astolfo as they continue to be temporarily be deaf. Kadoc is poked and dragged by Astolfo until Kadoc says that he can’t hear anything. Da Vinci forces Gordolf to talk to him when Astolfo reveals his name to him. Mashu informs the crew about his achievements which Astolfo is flattered by.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_MAP\_61/BGM\_MAP\_61.mp3](https://static.atlasacademy.io/JP/Audio/BGM_MAP_61/BGM_MAP_61.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_MAP_61/BGM_MAP_61.mp3)
 
 ![](https://preview.redd.it/i0ec8nhnu2591.png?width=1792&format=png&auto=webp&s=cf1d29c94bb8545bef2a629005dfb831c068b3bb)
 
@@ -2265,7 +2265,7 @@ Yea! Probably!
 
 Right? …What did you just say?
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_124/BGM\_EVENT\_124.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_124/BGM_EVENT_124.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_124/BGM_EVENT_124.mp3)
 
 ![](https://preview.redd.it/0curz96qu2591.png?width=1792&format=png&auto=webp&s=61af74f37ae23e0f84f98163cdcb6933c1ef348d)
 
@@ -2283,13 +2283,13 @@ We at the Nobility Realm (I don’t really get it all that much) have been await
 
 Holmes whispers to Kadoc that they won’t be a problem. Astolfo says to not tell the other people in the other Realm about their Realm since it’ll make “him” sad. Kadoc thinks that Astolfo will be the one sad, but Astolfo says that it’s actually Roland. Astolfo says that Roland can sometimes wander around butt-naked. Kadoc is completely shocked by this while Da Vinci is glimmering about it.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_71/BGM\_EVENT\_71.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_71/BGM_EVENT_71.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_71/BGM_EVENT_71.mp3)
 
 ![](https://preview.redd.it/e4n8nnltu2591.png?width=1792&format=png&auto=webp&s=7dd3eaab879b096c2807b70acf192015f18c961c)
 
 Kadoc is surprised that Astolfo has a very eccentric nature to him. Kadoc and Holmes talk about how in the numerous legends that are associated with Astolfo, there is one that involves Orlando losing his common sense which Astolfo went to the moon to retrieve, but when he returned, Orlando already disappeared which makes it seem that Astolfo has no common sense here. 
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_63/BGM\_EVENT\_63.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_63/BGM_EVENT_63.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_63/BGM_EVENT_63.mp3)
 
 **Holmes:**
 
@@ -2345,7 +2345,7 @@ We’ve arriveeddddd!
   
 Well, doesn’t matter!
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_7/BGM\_EVENT\_7.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_7/BGM_EVENT_7.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_7/BGM_EVENT_7.mp3)
 
 ![](https://preview.redd.it/lsuo6a9vc3591.png?width=1792&format=png&auto=webp&s=0a78fcaa659d89080f45c1fb9f05b442531a1e64)
 
@@ -2365,7 +2365,7 @@ It’s fine as long as you reflect on it. But for now just give me…
   
 Wa..ter…
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_92/BGM\_EVENT\_92.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_92/BGM_EVENT_92.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_92/BGM_EVENT_92.mp3)
 
 ![](https://preview.redd.it/j19gshpwc3591.png?width=1792&format=png&auto=webp&s=98ac41164e35865ebf7d0a4a161518d19da8ffeb)
 
@@ -2429,7 +2429,7 @@ Kadoc:
   
 (How did technology from a Lostbelt end up in a Singularity like this…?)
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_124/BGM\_EVENT\_124.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_124/BGM_EVENT_124.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_124/BGM_EVENT_124.mp3)
 
 ![](https://preview.redd.it/t06mpqxkd3591.png?width=1792&format=png&auto=webp&s=e625697a36833380dc8322e250ed9008ac61cb28)
 
@@ -2459,7 +2459,7 @@ If you’ll excuse us, Karl Der Große.
 
 …Very well.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_11/BGM\_EVENT\_11.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_11/BGM_EVENT_11.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_11/BGM_EVENT_11.mp3)
 
 ![](https://preview.redd.it/j18wbg3md3591.png?width=1792&format=png&auto=webp&s=9513b02af699d4a5b050a65e5000f9a1e83446de)
 
@@ -2511,7 +2511,7 @@ I apologize…
 
 **--ARROW--**
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_145/BGM\_EVENT\_145.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_145/BGM_EVENT_145.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_145/BGM_EVENT_145.mp3)
 
 [Chapter 7 Section 4](https://preview.redd.it/ii8uqch3f3591.png?width=1344&format=png&auto=webp&s=a87fb8a885265ed402619c037c94c8b5299feea3)
 
@@ -2577,7 +2577,7 @@ Now, let’s go meet him.
 
 ![](https://preview.redd.it/x3b0ptool3591.png?width=1792&format=png&auto=webp&s=cdc7407e524b2deece836890dce083dc56970833)
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_77/BGM\_EVENT\_77.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3)
 
 Salome arrives at Guda's cell saying that she made rice balls for him and wonders if they taste good. Whether you share it with Chaton or not is up to you. Salome worries about how it’ll taste and says that it probably tastes bad, but you say that it tastes good. Salome admits that every food she tried cooking ended up poorly, so you try to make a compromise by coming up with a common food that they like. You and Chaton end up with Kykeon since Chaton thinks that Salome can make it pretty easily.
 
@@ -2605,13 +2605,13 @@ Salome says that you can leave whenever you want, but Rider minds that. However,
 
 …Heh.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_94/BGM\_EVENT\_94.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_94/BGM_EVENT_94.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_94/BGM_EVENT_94.mp3)
 
 ![](https://preview.redd.it/rcd11tkrl3591.png?width=1792&format=png&auto=webp&s=e9cd62dfd9c10269d46f01c4488599f33fb8f627)
 
 You and Salome arrive at the kitchen where you meet a Berserker who’ll help you on your dish. Salome says that she got the recipe from a Caster.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_145/BGM\_EVENT\_145.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_145/BGM_EVENT_145.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_145/BGM_EVENT_145.mp3)
 
 —Cooking to me. It was something that could change into something from nothing.  
   
@@ -2631,7 +2631,7 @@ And now, I finally understand it now. Cooking that is.
 
 You and Salome finish the dish by adding mint to it. Berserker offers to offer it to Kriemhild and you and Salome go back into the cell to taste it together. But before Berserker leaves, he tells you that he will do his best. Before you two can taste it, Rider apologizes before he commits to a certain action. A Saber and Lancer from yesterday appear.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_63/BGM\_EVENT\_63.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_63/BGM_EVENT_63.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_63/BGM_EVENT_63.mp3)
 
 ![](https://preview.redd.it/etvoxx0vl3591.png?width=1792&format=png&auto=webp&s=a7974c6737c350e29d177d98f45d00d27f2bf33b)
 
@@ -2733,13 +2733,13 @@ We are Servants of the Nobility Realm, we will protect you with our very lives.
 
 ![](https://preview.redd.it/hf6dpum0m3591.png?width=1792&format=png&auto=webp&s=f420ceaf07714daac95dba1fdb6217c7e8d8893c)
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_80/BGM\_EVENT\_80.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_80/BGM_EVENT_80.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_80/BGM_EVENT_80.mp3)
 
 ![](https://preview.redd.it/9zft7k11m3591.png?width=1792&format=png&auto=webp&s=0bf572c49ba251b57bd50544a7cecded6a8395ef)
 
 As Berserker rampages in the throne room, Kriemhild completely halts his insolence and finds out that he is not from the Vengeance Realm which makes her think that this is all a diversion for the Master. Zhang Jue informs her that the party who captured him are the ones escorting him out with Salome coming along. Kriemhild is saddened by this and says that Guda’s execution date was drawing very near. She responds by mobilizing one Archer and Assassin.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_BATTLE\_179/BGM\_BATTLE\_179.mp3](https://static.atlasacademy.io/JP/Audio/BGM_BATTLE_179/BGM_BATTLE_179.mp3)
+**CURRENT OST:** ![](https://static.atlasacademy.io/JP/Audio/BGM_BATTLE_179/BGM_BATTLE_179.mp3)
 
 **Kriemhild:**
 
@@ -2763,7 +2763,7 @@ Yes, ma’am!
 
 **--ARROW--**
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_80/BGM\_EVENT\_80.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_80/BGM_EVENT_80.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_80/BGM_EVENT_80.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_80/BGM_EVENT_80.mp3)
 
 ![](https://preview.redd.it/52bmtlomp3591.png?width=1792&format=png&auto=webp&s=cacd2cdf9f6de6a07220f78bae63310ec923a831)
 
@@ -2795,7 +2795,7 @@ After the battle, the gates are reluctantly not closed yet so you pull through a
 
 From your perspective, you feel bad knowing that Lancer is dead, but Rider and Salome reassure you that you are not obligated to feel sorry for them as it was their job to protect you with their life. Caster attempts to buy time by turning a grassy plain into a swamp.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_63/BGM\_EVENT\_63.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_63/BGM_EVENT_63.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_63/BGM_EVENT_63.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_63/BGM_EVENT_63.mp3)
 
 ![](https://preview.redd.it/20b2ktkop3591.png?width=1792&format=png&auto=webp&s=0e52f4bc4f2a7333bba9f47054ebe66f23cac715)
 
@@ -2837,7 +2837,7 @@ Zhang Jue informs Kriemhild of his leave. Kriemhild orders Archer to be prepared
 
 **--ARROW--**
 
-**CURRENT OST:** [![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_80/BGM\_EVENT\_80.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_80/BGM_EVENT_80.mp3)
+**CURRENT OST:** [![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_80/BGM_EVENT_80.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_80/BGM_EVENT_80.mp3)
 
 ![](https://preview.redd.it/h2eoxniwp3591.png?width=1344&format=png&auto=webp&s=8c46f08e27f2f2fdc416ea22495b62fe09d3d928)
 
@@ -2857,7 +2857,7 @@ D-dodge!!
 
 ![](https://preview.redd.it/mkizysrhq3591.png?width=1792&format=png&auto=webp&s=097798bd830b4b49b749e25c70773a68ab8fa553)
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_MAP\_53/BGM\_MAP\_53.mp3](https://static.atlasacademy.io/JP/Audio/BGM_MAP_53/BGM_MAP_53.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_MAP_53/BGM_MAP_53.mp3](https://static.atlasacademy.io/JP/Audio/BGM_MAP_53/BGM_MAP_53.mp3)
 
 —This feeling, this pounding in my chest. I think it’s my usual fit though.  
   
@@ -2981,7 +2981,7 @@ We’re almost at Assassin’s rendezvous location. Let’s push a bit further!
 
 We meet up with the Assassin, but collapse due to being slain by an imperial knight of Kriemhild. Salome gets angered by this and uses Master and Jokanaan in different sentences. After the battle, you collapse and Salome gets worried and blames herself. Rider tells Salome that he’ll shoot his Noble Phantasm up into the air and hopes that the others will get it. Rider also tells Salome that the Nobility Realm is not far from here.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_5/BGM\_EVENT\_5.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_5/BGM_EVENT_5.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_5/BGM_EVENT_5.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_5/BGM_EVENT_5.mp3)
 
 ![](https://preview.redd.it/7s7pkzwlz3591.png?width=1792&format=png&auto=webp&s=caac19bac7168d0f23e2a692fe9cbc5a70a3841f)
 
@@ -3219,7 +3219,7 @@ But my feet are unusually energized.
   
 I stay cautious in order to ease his pain and so that he won’t die.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_24/BGM\_EVENT\_24.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_24/BGM_EVENT_24.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_24/BGM_EVENT_24.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_24/BGM_EVENT_24.mp3)
 
 Salome notices Kriemhild’s personal unit approach them. Being in Kriemhild’s personal unit means that she can grant her influence to others. Salome says that she was bestowed with such, but regrettably lost it. She tells you to part ways and you do as such.
 
@@ -3267,7 +3267,7 @@ Ah, I have no connection to this Singularity. What lies at the core of this Sing
 
 Moriarty says that there is someone waiting for him and he departs.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_11/BGM\_EVENT\_11.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_11/BGM_EVENT_11.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_11/BGM_EVENT_11.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_11/BGM_EVENT_11.mp3)
 
 ![](https://preview.redd.it/zy0dlnyq64591.png?width=1792&format=png&auto=webp&s=f5cad94f898c3edfe42ffc00415120654fcb05dc)
 
@@ -3355,7 +3355,7 @@ In order to live, he stands up.
   
 He is a person who shouldn’t have been near a person who takes pleasure in snatching heads.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_95/BGM\_EVENT\_95.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_95/BGM_EVENT_95.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_95/BGM_EVENT_95.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_95/BGM_EVENT_95.mp3)
 
 This is goodbye. Goodbye.  
   
@@ -3455,7 +3455,7 @@ It is an emotion that everyone universally has, but you treated it as precious a
 
 **--ARROW--**
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_156/BGM\_EVENT\_156.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_156/BGM_EVENT_156.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_156/BGM_EVENT_156.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_156/BGM_EVENT_156.mp3)
 
 [Chapter 7 Final Section](https://preview.redd.it/21bf2z23b4591.png?width=1792&format=png&auto=webp&s=5b7b9e524eccfee3c5708cff3e0fdea86377a65b)
 
@@ -3471,7 +3471,7 @@ I hope that Servant is fine now.
   
 I hope we meet again.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_77/BGM\_EVENT\_77.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3)
 
 Mashu calls out to you. You wake up and Mashu is relieved that you’re okay. She asks if there’s still anything hurting you which you respond by saying you’re getting better. Mashu goes on to say that there was a Caster that healed you. You ask where that healer is to which Mashu responds that they’re gone since they’ve done their job.
 
@@ -3479,11 +3479,11 @@ Mashu calls out to you. You wake up and Mashu is relieved that you’re okay. Sh
 
 ![](https://preview.redd.it/nsh2mn64b4591.png?width=1792&format=png&auto=webp&s=633af6e455d7cf71181f0a1ad2ca4bff5be856b1)
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_147/BGM\_EVENT\_147.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_147/BGM_EVENT_147.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_147/BGM_EVENT_147.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_147/BGM_EVENT_147.mp3)
 
 Holmes and Kadoc arrive and Holmes asks to hear your side of the story. You recount what happened back in the Vengeance Realm. Holmes says that when Rider shot his Noble Phantasm towards the sky, Astolfo saw it and ran off to you immediately. Holmes sympathizes with you and Kadoc informs you of the situation that they were in. Some Servants believe that he’s on the rebellion side while others believe the contrary. Holmes and Kadoc suggest going to go say some few words to Karl der Große and Astolfo comes into the room to introduce himself while knowing that they’re heading off to speak to Karl der Große. Roland arrives into the room to give you a tour of the place.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_1/BGM\_EVENT\_1.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_1/BGM_EVENT_1.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_1/BGM_EVENT_1.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_1/BGM_EVENT_1.mp3)
 
 
 
@@ -3499,7 +3499,7 @@ Karl der Große personally asks you to tell him about the Servants that gave the
 
 After this, Roland and Holmes tell Karl der Große (?) that it’s time to stop playing an act and raise the curtains to reveal who they truly are.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_111/BGM\_EVENT\_111.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_111/BGM_EVENT_111.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_111/BGM_EVENT_111.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_111/BGM_EVENT_111.mp3)
 
 ![](https://preview.redd.it/fprvw2q6b4591.png?width=1792&format=png&auto=webp&s=fa132305d1077eee0cd60686691ccf65d7eb257e)
 
@@ -3547,7 +3547,7 @@ Es perfecto. You’re correct.
 
 Sancho exposes Don Quixote by saying the word “windmill” to shake him up. Mashu adds on to this by saying that he would mistake windmills for giants.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_63/BGM\_EVENT\_63.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_63/BGM_EVENT_63.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_63/BGM_EVENT_63.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_63/BGM_EVENT_63.mp3)
 
 ![](https://preview.redd.it/f8x9vvr9b4591.png?width=1792&format=png&auto=webp&s=a62cc2432f6ca2eb41b1cd815692a1dcb491d403)
 
@@ -3601,11 +3601,11 @@ My, my, poor Rocinante. Are you still there? Are you okay?
 
 ![](https://preview.redd.it/qomv45fab4591.png?width=1792&format=png&auto=webp&s=24233e46ce891621270e41d19ae19306d9e72a93)
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_94/BGM\_EVENT\_94.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_94/BGM_EVENT_94.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_94/BGM_EVENT_94.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_94/BGM_EVENT_94.mp3)
 
 Sancho says that was the most renowned episode of the book. Roland admits that he’s lost his reasoning to the point where Astolfo looked like a beautiful lady. Astolfo shanks him for talking about sleeping and drooling on his Hippogriff. Sancho says that the moral of the story is that it’ll be more troublesome if you react to assumptions with hostility. Sancho diverts the topic to the nature of this singularity when they were summoned.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_76/BGM\_EVENT\_76.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_76/BGM_EVENT_76.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_76/BGM_EVENT_76.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_76/BGM_EVENT_76.mp3)
 
 ![](https://preview.redd.it/wzror7obb4591.png?width=1792&format=png&auto=webp&s=d04d44bfb34c3eefc29011c2c81a0fadda2fec4b)
 
@@ -3731,7 +3731,7 @@ Sancho tells them to relax in their personal rooms. Sancho and Don Quixote talk 
 
 ![](https://preview.redd.it/t4k6frc4p9691.png?width=1792&format=png&auto=webp&s=4d4a0448d301508b1d48b688082d4d7cfda1ed22)
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_77/BGM\_EVENT\_77.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3)
 
 Back in the room, Kadoc puts up a soundproofing barrier. Holmes discusses that the other two opposing Realms are very self-sufficient on their own and are opposed to Pan-Human History. Gordolf congratulates you for surviving this far. Kadoc is impressed as well. Gordolf is surprised by Salome’s change in behavior which Holmes adds that Servants can have a new perspective which can lead to a change in personality and such since they have thoughts and emotions as well. The group decides to review the information they’ve gained so far.
 
@@ -3749,7 +3749,7 @@ Back in the room, Kadoc puts up a soundproofing barrier. Holmes discusses that t
 
 Kadoc is not impressed by how the Nobility Realm stands between their two enemies, but is impressed that they’re still standing. Holmes says that they excel in mobility and an impenetrable fortress with the mountains being their advantage if an enemy Servant starts climbing. Da Vinci asks Holmes what their options are. Holmes says that they can either pursue Moriarty which won’t bring them closer to solving the Singularity but he is doing something behind the scenes. The other is to fight the other Realms. Someone knocks at the door and Da Vinci enables hidden mode for the communication line.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_SENGOKU\_1/BGM\_SENGOKU\_1.mp3](https://static.atlasacademy.io/JP/Audio/BGM_SENGOKU_1/BGM_SENGOKU_1.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_SENGOKU_1/BGM_SENGOKU_1.mp3](https://static.atlasacademy.io/JP/Audio/BGM_SENGOKU_1/BGM_SENGOKU_1.mp3)
 
 **???:**
 
@@ -3930,7 +3930,7 @@ I’ll accompany you guys with this mission for now. I don’t have anything to 
 
 Then let us depart! Let’s head towards the north gate through the main street.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_92/BGM\_EVENT\_92.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_92/BGM_EVENT_92.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_92/BGM_EVENT_92.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_92/BGM_EVENT_92.mp3)
 
 In town, Kadoc asks if there’s a market here and Xu Fu replies saying there is and the currency they use to buy and sell is QP as utilizing resources from demonic beasts would be pointless since they’re there to reinforce Servant Saint Graph. Xu Fu decides to go shopping while they’re in town. 
 
@@ -3940,7 +3940,7 @@ In town, Kadoc asks if there’s a market here and Xu Fu replies saying there is
 
 Chaton appears hidden and greets you. He, first, congratulates you and his escape out of the Vengeance Realm. He tells you that he has his reasons for concealing himself and admits that he’ll wander around for a while since this Realm is more relaxing than the other ones. Before Chaton leaves, he recognizes that you’re on a mission and he wants to help, but he can’t.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_7/BGM\_EVENT\_7.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_7/BGM_EVENT_7.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_7/BGM_EVENT_7.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_7/BGM_EVENT_7.mp3)
 
 Kadoc and Xu Fu come back and Xu Fu says that they have to descend the mountain and wishes there was some sort of path to go down and up consistently. On the way down, Xu Fu says that they have to do this excruciating process down and up the mountain everytime, Kadoc requests for a small break. Diarmuid denies such a thing because he warns that there are creatures like Orochi that lie here. After the battle, Xu Fu, Diarmuid and Holmes commend your ability as a mage to summon shadow Servants. Diarmuid announces to everyone that they’ll be arriving at the designated Reconnaissance Site.
 
@@ -3950,7 +3950,7 @@ Kadoc and Xu Fu come back and Xu Fu says that they have to descend the mountain 
 
 **--ARROW--**
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_77/BGM\_EVENT\_77.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3)
 
 Holmes asks Xu Fu about the Elixir of Immortality, but Xu Fu says it didn’t matter in the end. You ask why, but Xu Fu would like to keep it a secret in case Qin Shi Huang gets summoned. Diarmuid interrupts before Xu Fu gets to reveal the details and announces that they are near Xanten Tower.
 
@@ -3986,13 +3986,13 @@ Now, how do we initiate this?
 
 A tower, huh…
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_5/BGM\_EVENT\_5.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_5/BGM_EVENT_5.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_5/BGM_EVENT_5.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_5/BGM_EVENT_5.mp3)
 
 ![](https://preview.redd.it/lr91fy7p3a691.png?width=1344&format=png&auto=webp&s=6767ea4a15a5759e99bde9889595f988db2efe6c)
 
 You reach the tower and comment on how unusual the tower looks. Xu Fu agrees that it’s too big. Holmes points out that there’s patrol and that there might be Assassins guarding the doors with Presence Concealment. He elaborates that there would be three of them, and he imagines that two would be assigned at the left and right gates and the last being in the back. Xu Fu will provide support by using her taijutsu to create a soundproof barrier on the inside. They’re all set and go in to reveal the first Assassin.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_80/BGM\_EVENT\_80.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_80/BGM_EVENT_80.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_80/BGM_EVENT_80.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_80/BGM_EVENT_80.mp3)
 
 **Guda:**
 
@@ -4012,7 +4012,7 @@ Hahah, let’s put that aside and eliminate them.
 
 **--ARROW--**
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_70/BGM\_EVENT\_70.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_70/BGM_EVENT_70.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_70/BGM_EVENT_70.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_70/BGM_EVENT_70.mp3)
 
 ![](https://preview.redd.it/4zvs5gy34a691.png?width=1344&format=png&auto=webp&s=dc2e9a5ee7cb0ff3a3fbbc19eebdad14311fecff)
 
@@ -4090,7 +4090,7 @@ Let’s retreat quickly.
 
 **--ARROW--**
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_147/BGM\_EVENT\_147.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_147/BGM_EVENT_147.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_147/BGM_EVENT_147.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_147/BGM_EVENT_147.mp3)
 
 ![](https://preview.redd.it/pzkq3qsd4a691.png?width=1344&format=png&auto=webp&s=c702996535078a48179c88e5849d98239b683dd6)
 
@@ -4098,13 +4098,13 @@ Diarmuid says that they will attempt to secure and maintain the tower since it i
 
 Diarmuid further explains that there are keys that they use to get in, a barrier and it’s heavily disguised. If a Servant were to use the wrong key, it’ll explode on them even if they are in spirit form. 
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_94/BGM\_EVENT\_94.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_94/BGM_EVENT_94.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_94/BGM_EVENT_94.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_94/BGM_EVENT_94.mp3)
 
 The safe room is under a broken carriage and you arrive. There’s a golem horse since they can’t afford to have a living horse down here. They are also emergency weapons down here, but Diarmuid says that you can take however much they’d like. Kadoc notices a Mystic Code down here, but stops since he doesn’t want the collar activating. They set forth on the horse.
 
 They get off and Kadoc asks if there’s anything to remedy the motion sickness he had from the horse ride here which you have for him. On the walk, Xu Fu calms everyone down to review some information.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_147/BGM\_EVENT\_147.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_147/BGM_EVENT_147.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_147/BGM_EVENT_147.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_147/BGM_EVENT_147.mp3)
 
 ![](https://preview.redd.it/lujsifgh4a691.png?width=1172&format=png&auto=webp&s=3aa8db2c6a566b56e21a76179dff40a1981b662c)
 
@@ -4144,7 +4144,7 @@ Well then, that’s a R.I.P for you.
 
 Xu Fu says that she’ll keep up a barrier that will bound the beasts within the fort so that they won’t escape and that the group can focus on eliminating them. Xu Fu uses her taijutsu and they begin the attack.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_3/BGM\_EVENT\_3.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_3/BGM_EVENT_3.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_3/BGM_EVENT_3.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_3/BGM_EVENT_3.mp3)
 
 ![](https://preview.redd.it/5zwln7xj4a691.png?width=1172&format=png&auto=webp&s=fb8c6288a19381277656776fb70c58d54ce37565)
 
@@ -4170,11 +4170,11 @@ It’s just that demonic boars are my general weakness!
 
 ![](https://preview.redd.it/qwdgbvln4a691.png?width=1170&format=png&auto=webp&s=136cb21e7eb5cf7d2e794ff5a397d33018de5c57)
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_77/BGM\_EVENT\_77.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_77/BGM_EVENT_77.mp3)
 
 You head into battle either with the emergency weapons you brought or the others will handle the boar for Diarmuid. After the battle, Mashu secretly tells you that there are no other enemies detected and everything is cleared. Diarmuid praises you and expresses his gratitude for eliminating the very thing that was his shortcomings. The rear guard arrives just in time. Xu Fu makes Caster sign some transfer paperwork before they leave.
 
-**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM\_EVENT\_112/BGM\_EVENT\_112.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_112/BGM_EVENT_112.mp3)
+**CURRENT OST:** [**![](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_112/BGM_EVENT_112.mp3](https://static.atlasacademy.io/JP/Audio/BGM_EVENT_112/BGM_EVENT_112.mp3)
 
 On the way back, Holmes states that this was our first successful mission. Kadoc says that there’s something wrong, but disregards it since he figures that the Singularity is wrong as well. You say that they’ll have to play the long game in this Singularity. Holmes is worried that they left Lord Vlad behind like that since he hasn’t disappeared and he still has an active contract. Holmes considers consulting with Karl der Große to help them get Vlad back. As they say that they arrive at the safe room and proceed to walk back on foot.
 

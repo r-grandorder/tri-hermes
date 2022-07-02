@@ -41,9 +41,11 @@
     * [Fumei's Story Summary](Lostbelt/traum-summary-fumei.md)
     * [Post-Traum Speculation Resource](Lostbelt/ayylmao.md)
 
-## Anime Subtitle Dumps
+## Anime/Movie/OVA
 
 * [First Order](Anime/First%20Order.md)
 * [Babylonia Episode 0](Anime/Babylonia%20Ep%200.md)
 * [Moonlight Lostroom](Anime/Moonlight%20Lostroom.md)
 * [Solomon Movie](Anime/Solomon%20Movie.md)
+
+- Big thanks to Infernal for helping with character IDs!
