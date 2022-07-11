@@ -10,6 +10,11 @@ footer: All scripts and images by TYPE-MOON ©
 * [Main Story](story.md)
 * [Events](events.md)
 * [Servant Materials and Interludes](servants.md) ~ Still WIP
+* [Anime/Movie/OVA](story.md)
+
+## FGO Arcade
+
+* [Main Story] ~ WIP
 
 ## Meta Lore
 
