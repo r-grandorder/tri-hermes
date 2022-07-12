@@ -164,7 +164,7 @@ Although I liked Lily’s design from the start, I liked even more fully the min
 ## Dialogue
 
 | Occassion | English | Japanese |
-|:--------|:--------:| :--------: |
+|:--------|:--------:|:--------:|
 | Summoned | It is nice to meet you Master. Since I am still in training, please call me Saber Lily.It is a pleasure to meet you. | 「はじめましてマスター。まだ半人前の剣士なので、セイバー・リリィとお呼びください。これから、末永くよろしくお願いします。」 |
 | Bond 1 | I'm still training. I haven't achieved anything worthy to be called a Heroic Spririt, but I will do my best as a Saber. |「私はまだ修行中の身。英霊と呼ばれるほど偉業は成しえていませんが、精一杯、セイバーとして努めさせていただきます」|
 | Bond 2 | You're still growing, too, Master. That's why it feels like I just gained a friend. Hehe, let's see who ends up being the best. |「マスターも、まだまだ成長中なのですね。なんだか友人が出来たようで嬉しいです。ふふふっ、どちらが先に一人前になるか、競争ですねっ」|

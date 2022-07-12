@@ -102,7 +102,7 @@ Note: [This material is translated by X](Link to translation)
 
 ## Extra Info from In-Game Profile 
 
-// Usually Bond 6, or story clear bond, etc
+[Usually Bond 6, or story clear bond, etc]
 
 ## Standard Weapons
 
@@ -124,10 +124,10 @@ Note: [This material is translated by X](Link to translation)
 
 ## Material Images
 
-// Lib will take care of this
+[Lib will add after publish]
 
 ## Dialogue
 
 | Occassion | English | Japanese |
-|:--------|:--------:| :--------: |
+|:--------|:--------:|:--------:|
 | Summoned | blahblah | 何とか何とか |
