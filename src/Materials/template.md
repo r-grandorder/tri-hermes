@@ -14,7 +14,9 @@ Note: [This material is translated by X](Link to translation)
 
 # ServantName
 
-# Bio
+## Info
+
+**Bio-Data**
 
 * True Name: 
 * Class: 
@@ -24,6 +26,8 @@ Note: [This material is translated by X](Link to translation)
 * Alignment: 
 * Height: 
 * Weight: 
+
+**Meta**
 
 * Character Creator: 
 * Character Illustrator: 

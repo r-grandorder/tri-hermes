@@ -2,7 +2,9 @@
 
 Note: [This material is translated by u/King_of_Padoru](https://forums.nrvnqsr.com/showthread.php/6951-Fate-Grand-Order-Mats?p=2921452&viewfull=1#post2921452)
 
-# Bio
+## Info
+
+**Bio-Data**
 
 * True Name: Artoria Pendragon (Lily)
 * Class: Saber
@@ -12,6 +14,8 @@ Note: [This material is translated by u/King_of_Padoru](https://forums.nrvnqsr.c
 * Alignment: Lawful Good
 * Height: 154 cm
 * Weight: 42 kg
+
+**Meta**
 
 * Character Creator: Nasu Kinoko
 * Character Illustrator: Takeuchi Takashi

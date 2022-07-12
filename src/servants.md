@@ -10,6 +10,7 @@
 
 **Artoria Pendragon**
 
+* [Material Profile](Materials/Artoria%20Pendragon.md)
 * [Interlude](Interludes/Artoria%20Pendragon.md)
 
 **Artoria Pendragon (Alter)**
@@ -18,6 +19,7 @@
 
 **Artoria Pendragon (Lily)**
 
+* [Material Profile](Artoria%20Pendragon%20-%20Lily.md)
 * [Interlude](Interludes/Artoria%20Pendragon%20-%20Lily.md)
 
 **Nero Claudius**
