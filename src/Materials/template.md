@@ -45,30 +45,30 @@ Note: [This material is translated by X](Link to translation)
 
 **ClassSkill1: [A~E]**
 
-<description>
+(description)
 
 **ClassSkill2: [A~E]**
 
-<description>
+(description)
 
 ## Personal Skills
 
 **Skill1: [A~E]**
 
-<description>
+(description)
 
-[...]
+(...)
 
 ## Noble Phantasm(s)
 
-# <NPTitle>: <NPSubtitle>
+# NPTitle: NPSubtitle
 
 * Rank: 
 * Type: 
 * Range: 
 * Max. Targets: 
 
-<NP description>
+(NP description)
 
 # Character
 
@@ -80,51 +80,51 @@ Note: [This material is translated by X](Link to translation)
 
 ## Personality
 
-[...]
+(...)
 
 ## Attitude Towards Master
 
-[...]
+(...)
 
 ## Dialogue Examples
 
-" [...] "
+" (...) "
 
-" [...] "
+" (...) "
 
 ## Historical Character and Figure
 
-[...]
+(...)
 
 ## Character in FGO
 
-[...]
+(...)
 
 ## Extra Info from In-Game Profile 
 
-[Usually Bond 6, or story clear bond, etc]
+(Usually Bond 6, or story clear bond, etc)
 
 ## Standard Weapons
 
-[...]
+(...)
 
 ## Related Characters
 
-**[Character 1]**
+**Character 1**
 
-[...]
+(...)
 
-**[Character 2]**
+**Character 2**
 
-[...]
+(...)
 
 ## Comment from the Illustrator
 
-[...]
+(...)
 
 ## Material Images
 
-[Lib will add after publish]
+(Lib will add after publish)
 
 ## Dialogue
 
