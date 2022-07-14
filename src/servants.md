@@ -78,10 +78,12 @@
 
 **Arthur Pendragon (Prototype)**
 
+* [Material Profile](Materials/Arthur%20Pendragon%20-%20Prototype.md)
 * [Interlude](Interludes/Arthur%20Pendragon%20-%20Prototype.md)
 
 **Suzuka Gozen**
 
+* [Material Profile](Materials/Suzuka%20Gozen.md)
 * [Interlude](Interludes/Suzuka%20Gozen.md)
 
 **Yagyu Tajima-no-kami Munenori**
@@ -565,8 +567,13 @@
 
 * [Interlude](Interludes/Cleopatra.md)
 
+**The Old Man of the Mountain**
+
+* [Material Profile](Materials/The%20Old%20Man%20of%20the%20Mountain.md)
+
 **Yan Qing**
 
+* [Material Profile](Materials/Yan%20Qing.md)
 * [Interlude](Interludes/Yan%20Qing.md)
 
 **Wu Zetian**
@@ -677,10 +684,16 @@
 
 **Mysterious Heroine X Alter**
 
+* [Material Profile](Materials/Mysterious%20Heroine%20X%20Alter.md)
 * [Interlude](Interludes/Mysterious%20Heroine%20X%20Alter.md)
+
+**Chacha**
+
+* [Material Profile](Materials/Chacha.md)
 
 **Hijikata Toshizo**
 
+* [Material Profile](Materials/Hijikata%20Toshizo.md)
 * [Interlude](Interludes/Hijikata%20Toshizo.md)
 
 **Penthesilea**
@@ -737,17 +750,22 @@
 
 **Hessian Lobo**
 
+* [Material Profile](Materials/Hessian%20Lobo.md)
 * [Interlude](Interludes/Hessian%20Lobo.md)
 
 ## Alter Ego
 
+**Meltryllis**
+
+* [Material Profile](Materials/Meltryllis.md)
+
 **Passionlip**
 
+* [Material Profile](Materials/Passionlip.md)
 * [Interlude](Interludes/Passionlip.md)
 
-## Foreigner 
+## Foreigner
 
 **Abigail Williams**
 
 * [Interlude](Interludes/Abigail%20Williams.md)
-
