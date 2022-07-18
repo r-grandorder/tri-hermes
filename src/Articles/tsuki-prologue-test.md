@@ -14,18 +14,18 @@
 
 |EN|JP|
 |:--------|:--------|
-|The domestic smell of tatami mats and shoji paper.|なれた<畳|くさ>と<障|か><子|み>のにおい。|
-|A sky inlaid with a parquet of stars.|つみき<細工|ざいく>のようなそら。|
+|The domestic smell of tatami mats and shoji paper.|なれた<ruby>畳|くさ>と<障|か><子<rt>み</rt></ruby>のにおい。|
+|A sky inlaid with a parquet of stars.|つみき<ruby>細工<rt>ざいく</rt></ruby>のようなそら。|
 |The specters of shadows hang from the corners of the room like sludge.|部屋のすみにはどろりと、こびりついたような古い影。|
 |A silence devoid of even a single note.|それは音符ひとつない静寂で、|
-|Not even the familiar sound of rustling clothes.|<衣擦|きぬず>れの音さえ喪失中。|
+|Not even the familiar sound of rustling clothes.|<ruby>衣擦<rt>きぬず</rt></ruby>れの音さえ喪失中。|
 
 **Page 2:**
 
 |EN|JP|
 |:--------|:--------|
 |I stand completely still, idly waiting for anyone.|立ちつくして、ぼんやりと人を待つ。|
-|In the dead silence, I remember the past.|死に絶えた音の中で過去を<偲|しの>ぶ。|
+|In the dead silence, I remember the past.|死に絶えた音の中で過去を<ruby>偲<rt>しの</rt></ruby>ぶ。|
 |The dreams I was having were nothing but what-ifs.|見ていた夢は、もしもの話ばかりだった。|
 |For example―――|たとえば、|
 
@@ -34,7 +34,7 @@
 |EN|JP|
 |:--------|:--------|
 |No matter how long I wait, there is no end.|待ちつづけても終わりはない。|
-|The night sinks deeper and deeper.|夜はますます<沈|しず>んでいく。|
+|The night sinks deeper and deeper.|夜はますます<ruby>沈<rt>しず</rt></ruby>んでいく。|
 |I'm sure there isn't a single soul left in the house by now.|きっともう、家の中にはだれもいない。|
 |I'm so afraid of being alone. I want to see everyone.|ひとりきりはこわいから　みんなにあいたくて、|
 |And so, all alone, I go out into the garden.|ひとりきりで庭にでた。|
@@ -55,7 +55,7 @@
 
 |EN|JP|
 |:--------|:--------|
-|The lush grass. The feeling of crushing it under my feet. The lonely sound of my sandals.|<茂|しげ>る草。踏みしだく感触。なしのつぶての<草履|ぞうり>の<声|おと>。|
+|The lush grass. The feeling of crushing it under my feet. The lonely sound of my sandals.|<ruby>茂|しげ>る草。踏みしだく感触。なしのつぶての<草履|ぞうり>の<声<rt>おと</rt></ruby>。|
 |The garden of the mansion is very large.|屋敷の庭はすごく広くて|
 |Enclosed in a deep darkness.|まわりはふかい闇に囲まれて。|
 |The trees in the forest are black. Jet black.|森の木々はくろく　くろく|
@@ -67,14 +67,14 @@
 |:--------|:--------|
 |Almost as if it's a kind of theatre.|まるでどこかの劇場みたい。|
 |My chest is pounding so hard that it feels like I can barely breathe.|胸のたかなりで、喉がふさがれてしまいそう。|
-|With a *whoosh*, the window in the treetops opens.|ざあ　と<梢|こずえ>の窓が開いて、|
-|The show is about to start, and I'm trembling with excitement.|じき、<演劇|サアカス>がはじまるのかとわくわくした。|
+|With a *whoosh*, the window in the treetops opens.|ざあ　と<ruby>梢<rt>こずえ</rt></ruby>の窓が開いて、|
+|The show is about to start, and I'm trembling with excitement.|じき、<ruby>演劇<rt>サアカス</rt></ruby>がはじまるのかとわくわくした。|
 
 **Page 7:**
 
 |EN|JP|
 |:--------|:--------|
-|The buzzing cries of insects worm their way into my ears.|<耳|じ><朶|だ>に、ざわざわと虫の声が這いずってくる。|
+|The buzzing cries of insects worm their way into my ears.|<ruby>耳|じ><朶<rt>だ</rt></ruby>に、ざわざわと虫の声が這いずってくる。|
 |There are various, indistinguishable sounds far off in the distance.|遠くでいろんな音がしている。|
 |At the core of that vast, black curtain.|くろい木々のカーテンの奥。|
 |I can hear everyone having a good time in the forest.|森の中で　みんなが楽しそうに騒いでる。|
@@ -180,7 +180,7 @@
 |Coming to rip *me* apart this time.|今度こそボクをバラバラにしようとやってくる。|
 |The sounds of his footsteps are gradually approaching.|ひたひたと足音がやってくる。|
 |And yet, it doesn't register to me―――|なのにボクはぼんやりと|
-|All I do is stare blankly into the blue haze above.|いつまでも<碧|あお>い<翳|かげ>をみあげている。|
+|All I do is stare blankly into the blue haze above.|いつまでも<ruby>碧|あお>い<翳<rt>かげ</rt></ruby>をみあげている。|
 
 **Page 19:**
 
