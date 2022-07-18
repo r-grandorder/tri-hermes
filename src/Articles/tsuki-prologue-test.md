@@ -14,7 +14,7 @@
 
 |EN|JP|
 |:--------|:--------|
-|The domestic smell of tatami mats and shoji paper.|なれた<ruby>畳|くさ>と<障|か><子<rt>み</rt></ruby>のにおい。|
+|The domestic smell of tatami mats and shoji paper.|なれた<ruby>畳<rt>くさ</rt></ruby>と<ruby>障<rt>か</rt></ruby><ruby>子<rt>み</rt></ruby>のにおい。|
 |A sky inlaid with a parquet of stars.|つみき<ruby>細工<rt>ざいく</rt></ruby>のようなそら。|
 |The specters of shadows hang from the corners of the room like sludge.|部屋のすみにはどろりと、こびりついたような古い影。|
 |A silence devoid of even a single note.|それは音符ひとつない静寂で、|
@@ -55,7 +55,7 @@
 
 |EN|JP|
 |:--------|:--------|
-|The lush grass. The feeling of crushing it under my feet. The lonely sound of my sandals.|<ruby>茂|しげ>る草。踏みしだく感触。なしのつぶての<草履|ぞうり>の<声<rt>おと</rt></ruby>。|
+|The lush grass. The feeling of crushing it under my feet. The lonely sound of my sandals.|<ruby>茂<rt>しげ</rt></ruby>る草。踏みしだく感触。なしのつぶての<ruby>草履<rt>ぞうり</rt></ruby>の<ruby>声<rt>おと</rt></ruby>。|
 |The garden of the mansion is very large.|屋敷の庭はすごく広くて|
 |Enclosed in a deep darkness.|まわりはふかい闇に囲まれて。|
 |The trees in the forest are black. Jet black.|森の木々はくろく　くろく|
@@ -74,7 +74,7 @@
 
 |EN|JP|
 |:--------|:--------|
-|The buzzing cries of insects worm their way into my ears.|<ruby>耳|じ><朶<rt>だ</rt></ruby>に、ざわざわと虫の声が這いずってくる。|
+|The buzzing cries of insects worm their way into my ears.|<ruby>耳<rt>じ</rt></ruby><ruby>朶<rt>だ</rt></ruby>に、ざわざわと虫の声が這いずってくる。|
 |There are various, indistinguishable sounds far off in the distance.|遠くでいろんな音がしている。|
 |At the core of that vast, black curtain.|くろい木々のカーテンの奥。|
 |I can hear everyone having a good time in the forest.|森の中で　みんなが楽しそうに騒いでる。|
@@ -180,7 +180,7 @@
 |Coming to rip *me* apart this time.|今度こそボクをバラバラにしようとやってくる。|
 |The sounds of his footsteps are gradually approaching.|ひたひたと足音がやってくる。|
 |And yet, it doesn't register to me―――|なのにボクはぼんやりと|
-|All I do is stare blankly into the blue haze above.|いつまでも<ruby>碧|あお>い<翳<rt>かげ</rt></ruby>をみあげている。|
+|All I do is stare blankly into the blue haze above.|いつまでも<ruby>碧<rt>あお</rt></ruby>い<ruby>翳<rt>かげ</rt></ruby>をみあげている。|
 
 **Page 19:**
 
