@@ -76,6 +76,10 @@
 
 * [Interlude](Interludes/Bedivere.md)
 
+**Miyamoto Musashi**
+
+* [Material Profile](Materials/Miyamoto%20Musashi.md)
+
 **Arthur Pendragon (Prototype)**
 
 * [Material Profile](Materials/Arthur%20Pendragon%20-%20Prototype.md)
@@ -85,6 +89,10 @@
 
 * [Material Profile](Materials/Suzuka%20Gozen.md)
 * [Interlude](Interludes/Suzuka%20Gozen.md)
+
+**Frankenstein's Monster (Swimsuit)**
+
+* [Material Profile](Materials/Frankenstein%27s%20Monster%20%28Swimsuit%29.md)
 
 **Yagyu Tajima-no-kami Munenori**
 
@@ -177,13 +185,19 @@
 
 * [Interlude](Interludes/Ishtar.md)
 
-**Moriarty**
+**James Moriarty**
 
+* [Material Profile](Materials/James%20Moriarty.md)
 * [Interlude](Interludes/Moriarty.md)
 
 **Emiya Alter**
 
+* [Material Profile](Materials/EMIYA%20-%20Alter.md)
 * [Interlude](Interludes/Emiya%20Alter.md)
+
+**Helena Blavatsky (Swimsuit)**
+
+* [Material Profile](Materials/Helena%20Blavatsky%28Swimsuit%29.md)
 
 **Tomoe Gozen**
 
@@ -287,8 +301,13 @@
 
 * [Interlude](Interludes/Jaguar%20Warrior.md)
 
+**Minamoto no Raikou (Swimsuit)**
+
+* [Material Profile](Materials/Minamoto%20no%20Raikou%20%28Swimsuit%29.md)
+
 **Pārvatī**
 
+* [Material Profile](Materials/Parvati.md)
 * [Interlude](Interludes/Pārvatī.md)
 
 **Houzouin Inshun**
@@ -379,7 +398,16 @@
 
 **Christopher Columbus**
 
+* [Material Profile](Materials/Christopher%20Columbus.md)
 * [Interlude](Interludes/Christopher%20Columbus.md)
+
+**Artoria Pendragon Alter (Swimsuit)**
+
+* [Material Profile](Materials/Artoria%20Pendragon%20%28Alter%29%20%28Swimsuit%29.md)
+
+**Ishtar (Swimsuit)**
+
+* [Material Profile](Materials/Ishtar%20%28Swimsuit%29.md)
 
 **Ivan the Terrible**
 
@@ -477,7 +505,12 @@
 
 **Scheherazade**
 
+* [Material Profile](Materials/Scheherazade.md)
 * [Interlude](Interludes/Scheherazade.md)
+
+**Nero Claudius Caesar (Swimsuit)**
+
+* [Material Profile](Materials/Nero%20Claudius%20Caesar%20%28Swimsuit%29.md)
 
 **Circe**
 
@@ -490,7 +523,6 @@
 **Anastasia Nikolaevna Romanova**
 
 * [Interlude](Interludes/Anastasia%20Nikolaevna%20Romanova.md)
-
 
 
 **Asclepius**
@@ -579,6 +611,10 @@
 **Wu Zetian**
 
 * [Interlude](Interludes/Wu%20Zetian.md)
+
+**Nitocris (Swimsuit)**
+
+* [Material Profile](Materials/Nitocris%20%28Swimsuit%29.md)
 
 **Mochizuki Chiyome**
 
@@ -698,7 +734,16 @@
 
 **Penthesilea**
 
+* [Material Profile](Materials/Penthesilea.md)
 * [Interlude](Interludes/Penthesilea.md)
+
+**Paul Bunyan**
+
+* [Material Profile](Materials/Paul%20Bunyan.md)
+
+**Oda Nobunaga (Swimsuit)**
+
+* [Material Profile](Materials/Oda%20Nobunaga%20%28Swimsuit%29.md)
 
 **Xiang Yu**
 
@@ -720,6 +765,7 @@
 
 **Sherlock Holmes**
 
+* [Material Profile](Materials/Sherlock%20Holmes.md)
 * [Interlude](Interludes/Sherlock%20Holmes.md)
 
 **Qin Shi Huang**
@@ -764,8 +810,25 @@
 * [Material Profile](Materials/Passionlip.md)
 * [Interlude](Interludes/Passionlip.md)
 
+**Sessyoin Kiara**
+
+* [Material Profile](Materials/Sessyoin%20Kiara.md)
+
 ## Foreigner
 
 **Abigail Williams**
 
 * [Interlude](Interludes/Abigail%20Williams.md)
+
+## Moon Cancer
+
+**BB**
+
+* [Material Profile](Materials/BB.md)
+* [Interlude](Interludes/BB.md)
+
+## Beasts
+
+# Beast III
+
+* [Material Profile](Materials/Heaven%27s%20Hole.md)
