@@ -1,8 +1,8 @@
 # Format for Servant Material Profiles from Materials I-IX
 
-The content below is how the formatting will look like when parsed on this website. 
+The content below is how the formatting will look like when parsed on this website.
 
-For those that wish to aid in adding profiles to the site, [please go to this page](https://github.com/r-grandorder/wiki/blob/main/src/Materials/template.md) and follow the instructions in the image below to get the template. 
+For those that wish to aid in adding profiles to the site, [please go to this page](https://github.com/r-grandorder/wiki/blob/main/src/Materials/template.md) and follow the instructions in the image below to get the template.
 
 ![](https://i.imgur.com/E0RchG8.png)
 
@@ -18,21 +18,21 @@ Note: [This material is translated by X](Link to translation)
 
 **Bio-Data**
 
-* True Name: 
-* Class: 
-* Source: 
-* Region: 
-* Gender: 
-* Alignment: 
-* Height: 
-* Weight: 
+* True Name:
+* Class:
+* Source:
+* Region:
+* Gender:
+* Alignment:
+* Height:
+* Weight:
 
 **Meta**
 
-* Character Creator: 
-* Character Illustrator: 
-* Character Voice: 
-* Appearance in Main Works: 
+* Character Creator:
+* Character Illustrator:
+* Character Voice:
+* Appearance in Main Works:
 
 ## Stats
 
@@ -67,10 +67,10 @@ Note: [This material is translated by X](Link to translation)
 
 # NPTitle: NPSubtitle
 
-* Rank: 
-* Type: 
-* Range: 
-* Max. Targets: 
+* Rank:
+* Type:
+* Range:
+* Max. Targets:
 
 (NP description)
 
@@ -104,7 +104,7 @@ Note: [This material is translated by X](Link to translation)
 
 (...)
 
-## Extra Info from In-Game Profile 
+## Extra Info from In-Game Profile
 
 (Usually Bond 6, or story clear bond, etc)
 
