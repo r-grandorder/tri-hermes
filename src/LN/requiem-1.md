@@ -6,19 +6,19 @@
 
 ## Cover & Illustrations
 
+![](./images/requiem/00.png)
 
+![](./images/requiem/01.png)
 
+![](./images/requiem/02.png)
 
+![](./images/requiem/03.png)
 
+![](./images/requiem/04.png)
 
+![](./images/requiem/05.png)
 
-
-
-
-
-
-
-
+![](./images/requiem/06.png)
 
 ## Prologue
 
@@ -706,7 +706,7 @@ I had finally regained enough strength to sit upright, and I looked down.
 
 The back of my hand remained devoid of Command Seals. Just as it had always been, ever since the day I was born.
 
-
+![](./images/requiem/12.png)
 
 ## Chapter 1
 
@@ -1062,7 +1062,7 @@ What had that trembling been in my chest? That sense that something had begun th
 
 In the end, it had all just been my own wishful thinking.
 
-
+![](./images/requiem/07.png)
 
 After the bath, we retired to my living-cum-dining room, where a mahogany table had stood ever since this place was a cafe. The boy sat in a chair, working his way through a lasagne that I had microwaved from frozen. I was recording the day’s events, tablet in hand and a towel around my head, and I was blushing as red as his bolognese sauce. I felt incredibly embarrassed. This boy hadn’t even yet come of age, but I had suddenly embraced him, whispered something that felt almost like a confession of love, and then ended up crying. While naked, no less.
 
@@ -1436,7 +1436,7 @@ It looked like our conversation was over. Once Chitose had made a clear decision
 
 I put the building behind me, as though I were running away from something.
 
-
+![](./images/requiem/15.png)
 
 ## Chapter 2
 
@@ -2234,7 +2234,7 @@ That night, we went to sleep as two strangers in the same bed. I left the doll f
 
 I did not dream.
 
-
+![](./images/requiem/14.png)
 
 ## Chapter 3
 
@@ -2636,7 +2636,7 @@ I didn’t know if I had managed to fully convince them of the gravity of the si
 
 “Please do come to the tournament, Erice.” With those parting words, Koharu turned around and headed back towards the arena with her companions. She did not look back.
 
-
+![](./images/requiem/3.png)
 
 ## Chapter 4
 
@@ -3008,7 +3008,7 @@ El Cid’s face froze in an expression of disbelief. His Master rounded on Hanni
 
 Both El Cid and his master collapsed. Two heads flew from the boat, to splash down unceremoniously into the artificial sea.
 
-
+![](./images/requiem/17.png)
 
 ## Chapter 5
 
@@ -3414,7 +3414,7 @@ Galahad’s current circumstances might be rather unusual, but he was still a kn
 
 “Haha. Oh, little doe, such sprightly legs you have. Hahaha… Hahahahahaha!”
 
-
+![](./images/requiem/08.png)
 
 With a pitter-patter of bare feet on stone, the enemy Servant sprinted for where Koharu lay. The fallen knight’s attempts to struggle to her feet were thwarted by a merciless foot brought down on her right arm. That outlandish sword followed a second later, pinning the arm to the floor. It was still attached, but only barely.
 
@@ -3528,7 +3528,7 @@ Her true name, freely given; perhaps this was the closest she came to unreserved
 
 “For both of us wield death itself.”
 
-
+![](./images/requiem/18.png)
 
 ## Chapter 6
 
@@ -3836,7 +3836,7 @@ I knew Chitose would regard this battle as her greatest shame. She had been forc
 
 She had tried to safeguard against this possibility by distancing me from my work, but it hadn’t been sufficient. An outside enemy had appeared in Mosaic City, and its arrival had been a long time in coming.
 
-
+![](./images/requiem/09.png)
 
 Finally the wave of chaos began to recede, and I managed to regroup with Karin. Usually she would greet me with a cheerful grin or by chiding me for my carelessness when I returned from a job, but this time she could only blanch at the sight of our injuries. If Pran had been in the same sorry state, she might have fainted on the spot. However, fortunately there wasn’t so much as a scratch on him, and the sight of him – seemingly in an entirely different world to his surroundings, as usual - seemed to relieve her immensely.
 
@@ -3916,7 +3916,7 @@ He’s still going on about that dog? I was sure that Chitose would laugh it off
 
 “That death had come for you.”
 
-
+![](./images/requiem/16.png)
 
 ## Chapter 7
 
@@ -4011,7 +4011,7 @@ The throne is warped, and the grail overflows with the mud of deceit.
 The hour has come to remake the day, for soon the sun will set.”
 
 
-
+![](./images/requiem/10.png)
 
 
 A flurry of thick, square stakes rent the silence to pierce them both through with a series of thuds. Chitose stood behind us, Command Seals shining on the backs of both hands.
@@ -4058,7 +4058,7 @@ Chitose knelt down and removed Ms. Fujimura’s fractured glasses, before placin
 
 “Permission granted.”
 
-
+![](./images/requiem/20.png)
 
 ## Chapter 8
 
@@ -4206,7 +4206,7 @@ He spoke directly to me, and only to me, in the same broken English as when we h
 
 “Are… you… my… Master?”
 
-
+![](./images/requiem/11.png)
 
 Heat and agony raced down my arm, tracing mana pathways into my body… and at long last a Command Seal, the symbol of the contract I had dreamed of since the day I was born, flowered into being on the back of my hand.
 
@@ -4250,3 +4250,4 @@ Ms. Fujimura looked up at me with sadness in her eyes.
 
 “Go to Fuyuki.”
 
+![](./images/requiem/19.png)
