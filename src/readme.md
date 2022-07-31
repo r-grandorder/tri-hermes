@@ -14,7 +14,7 @@ footer: All scripts and images by TYPE-MOON ©
 
 ## FGO Arcade
 
-* [Main Story] ~ WIP
+* [Lost Jerusalem](Arcade/jerusalem.md)
 
 ## Greater Type-Moon Resources
 
