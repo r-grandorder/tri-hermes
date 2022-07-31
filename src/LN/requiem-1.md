@@ -4058,7 +4058,7 @@ Chitose knelt down and removed Ms. Fujimura’s fractured glasses, before placin
 
 “Permission granted.”
 
-![](./images/requiem/20.jpg)
+![](./images/requiem/20.png)
 
 ## Chapter 8
 
