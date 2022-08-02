@@ -6,7 +6,7 @@
 
 ## Cover & Illustrations
 
-![](./images/requiem/00.jpg)
+![](./images/requiem/00aaaaaaaa.jpg)
 
 ![](./images/requiem/01.jpg)
 
