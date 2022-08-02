@@ -3,7 +3,7 @@
 
 ## Part 1
 
-* [Singularity F: Fuyuki](Singularity/fuyuki.md)
+* [Singularity F: Fuyuki](Singularity/fuyukiaaa.md)
 * [Singularity 1: Orleans](Singularity/orleans.md)
 * [Singularity 2: Septem](Singularity/septem.md)
 * [Singularity 3: Okeanos](Singularity/okeanos.md)
