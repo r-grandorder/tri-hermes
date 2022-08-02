@@ -1,10 +1,10 @@
-name: Build and Deploy
+name: Test
 
 on:
   push:
   pull_request:
-  branches:
-    - main
+    branches:
+      - main
 
 jobs:
   compile:
@@ -12,6 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      - uses: ouzi-dev/commit-status-updater@v1.1.0
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -24,3 +25,8 @@ jobs:
 
       - name: Build VuePress site
         run: npm run build
+        
+      - if: always()
+        uses: ouzi-dev/commit-status-updater@v1.1.0
+        with:
+          status: "${{ job.status }}"
