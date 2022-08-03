@@ -1,13 +1,8 @@
 # Format for Servant Material Profiles from Materials I-IX
 
-The content below is how the formatting will look like when parsed on this website.
+When finished with a profile, send the file to Lib or [do a pull request](https://github.com/r-grandorder/wiki/tree/main/src/Materials)
 
-For those that wish to aid in adding profiles to the site, [please go to this page](https://github.com/r-grandorder/wiki/blob/main/src/Materials/template.md) and follow the instructions in the image below to get the template.
-
-![](https://i.imgur.com/E0RchG8.png)
-
-Template starts below this sentence.
-
+```
 ::: tip
 Note: [This material is translated by X](Link to translation)
 :::
@@ -135,3 +130,5 @@ Note: [This material is translated by X](Link to translation)
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
 | Summoned | blahblah | 何とか何とか |
+```
+

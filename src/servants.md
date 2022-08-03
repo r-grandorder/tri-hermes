@@ -1,5 +1,9 @@
 # Servants
 
+::: tip
+Help needed to put together material profiles! [Template can be found here!](Materials/template.md)
+:::
+
 ## Shielder
 
 **Mash Kyrielight**
