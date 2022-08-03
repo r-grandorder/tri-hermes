@@ -131,3 +131,4 @@ Note: [This material is translated by X](Link to translation)
 |:--------|:--------:|:--------:|
 | Summoned | blahblah | 何とか何とか |
 ```
+

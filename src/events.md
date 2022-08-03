@@ -82,3 +82,4 @@
 
 * [Halloween Rising!](Events/JP/halloweenrising.md)
 * [Nixie Island](Events/JP/nixie.md)
+* [Nanmei Yumihari Hakkenden - The Eight Dog Bowmen At The Southern Sea](Events/JP/hakkenden.md)

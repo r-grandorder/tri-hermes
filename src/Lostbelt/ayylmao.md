@@ -1,7 +1,6 @@
 ---
 title: Bleached Earth Mystery
 description: For all your Post-Traum theorizing needs.
-featuredImage: https://i.imgur.com/RPV57K6.png
 ---
 
 # Bleached Earth Mystery
@@ -672,6 +671,38 @@ That last Lostbelt is the only place on Earth that still has an ocean from befor
 **Sion:**
 Wait, cut! Scratch that! I forgot about the Wandering Sea! We still have oceans too! Obviously! 
 
+## The Survivor's Journal
+
+![](https://i.imgur.com/EdDxRAX.png)
+
+**Sion:** Do you have logs other than the ones on the Border?
+
+**Fujimaru:** ...Oh, now that I think of it...
+
+**Mash:** Oh, right. Back when Senpai and I stopped by some ruins we found along the way...
+
+**Sion:** Huh? You found a survivor's journal? And you failed to mention it!? Let me see that!!!
+
+**Sion:** So there were some people lucky...or maybe unlucky enough to escape the bleaching...
+
+**Sion:** It also says the attack lasted for three months. Although...Hmm?
+
+**Da Vinci:** What's up? Is there a problem with it?
+
+**Sion:** No, not a problem, exactly. It is just odd that whoever wrote this decided to record it on paper.
+
+**Goredolf:** Well of course they did, young Sion. There was no electricity out there.
+
+**Goredolf:** These ruins were no more than a few shattered buildings. There was no generator anywhere in sight.
+
+**Sion:** (Exactly. And that is why it is so odd that these letters were not written in ink or pencil. )
+
+**Sion:** (It is as though they were burned into the paper, or something like paper. Does this mean there was some kind of power plant out there after all? )
+
+**Fou:** ...
+
+**Sion:** Well, we can work on that later, once we have more information.
+
 ## Bluebook Narration 3
 
 ![](https://i.imgur.com/NeXxa9i.png)
@@ -901,7 +932,7 @@ And yet, there it was atop the exam table. A bizarre...thing that resembled noth
 
 ![](https://i.imgur.com/ygRCxSt.png)
 
-## Ophelia's Hypothesis
+## Ophelia's Hypothesis and Kadoc's Analysis
 
 ![](https://i.imgur.com/5i3HGvO.png)
 
@@ -1023,6 +1054,1063 @@ Wodime. I mean, Lord Kirschtaria Wodime.
 
 **Transmission Log:**
 ...Just what is the Foreign God, anyway?
+
+**Kadoc:**
+The Foreign God, huh.
+
+**Kadoc:**
+Guess you didn't know, Ophelia.
+Me neither.
+
+**Kadoc:**
+...No, it's not just you and me. None of us Crypters know what the Foreign God looks like.
+
+**Kadoc:**
+All we know is, they're something that resurrected us from our Coffins in exchange for making us raise Lostbelts.
+
+**Kadoc:**
+Except...Wodime's the only one of us who's heard directly what the Foreign God's goal is...
+
+**Kadoc:**
+...Hm?
+
+**Kadoc:**
+What's this text file over here by itself?
+Looks like some kind of note.
+
+**Kadoc:**
+Gotta say, Wodime. Between this, and the easily
+guessable password, you're getting sloppy.
+
+**Kadoc:**
+Hang on. Is this really a plain text file?
+...What is this?
+
+![](https://i.imgur.com/LIznRIf.png)
+
+**Narration:**
+On the Trees of Emptiness and
+the Bleached Earth Phenomenon.
+
+**Narration:**
+With the exception of us Crypters
+and the Alter Egos...
+
+**Narration:**
+...the Trees of Emptiness are the only method
+the Foreign God has employed to tamper with Earth.
+
+**Narration:**
+We therefore interpreted this phenomenon...
+
+**Narration:**
+...as signifying that it was the Trees of Emptiness
+that wiped Earth clean when they descended to the
+ground.
+
+**Narration:**
+...However, after re-reviewing and reanalyzing the
+data taken from Earth's surface, I'm no longer so sure.
+
+**Narration:**
+To come straight to the point:
+we may have been mistaken.
+
+**Narration:**
+...The Trees of Emptiness only appeared after Earth
+had been bleached. This order of events is crucial.
+
+**Narration:**
+I don't know which of the Crypters will end up viewing
+this file, but whoever it is, I hope they find it
+useful.
+
+![](https://i.imgur.com/5i3HGvO.png)
+
+**Kadoc:**
+Huh? You're telling me the Trees of Emptiness only
+came down to Earth AFTER it had been wiped clean?
+
+**Kadoc:**
+But, that doesn't make any sense.
+
+**Kadoc:**
+I thought for sure it was the Trees of Emptiness
+that wiped out Earth and humanity...
+
+**Kadoc:**
+But if Earth had already been bleached before the Trees of Emptiness showed up, then why make them, or the Lostbelts, at all?
+
+**Kadoc:**
+...Wait. If the Foreign God wanted to get rid of humanity, they wouldn't bother making Lostbelts in the first place.
+
+**Kadoc:**
+If anything, it seems to me like the whole reason they want to see a bunch of different possible human histories is because they don't know anything about us.
+
+**Kadoc:**
+But then...why?
+
+**Kadoc:**
+Maybe the bleaching wasn't to wipe out humanity...
+but to make an environment they could set foot in?
+
+**Kadoc:**
+...Maybe they only got rid of humanity
+because they had no other choice?
+
+**Kadoc:**
+Maybe a world covered in pure white, brand-new textures
+is the only kind of world the Foreign God can visit?
+
+**Kadoc:**
+But then, if that were the case, the Lostbelts would only get in the way. So what are they and the Trees of Emptiness for?
+
+**Kadoc:**
+...Dammit, I'm just going around in circles. There's
+still some crucial piece of information I'm missing.
+
+**Kadoc:**
+Ugh, just my luck! There's too many files
+on this terminal to find the data I need!
+
+**Kadoc:**
+And why are these folders scattered all over the place!? Is it some kind of anti-hacking measure or something?
+
+**Kadoc:**
+Shit. I was hoping I wouldn't have to touch the big files, but at this rate, I'll have to copy everything.
+
+**Kadoc:**
+...
+
+**Kadoc:**
+(The Foreign God...)
+
+**Kadoc:**
+(There's no question that they're an aggressor,
+and that they can't coexist with our history.)
+
+**Kadoc:**
+(As for the whole “god” thing, it's way more likely
+they're a new kind of life-form we know nothing about...)
+
+**Kadoc:**
+(...and “god” is just the best word we have for it.)
+
+**Kadoc:**
+...
+
+**Kadoc:**
+So why make the Lostbelts? Why use us at all?
+Is it because they still don't know much about Earth?
+
+**Kadoc:**
+Nah, that can't be it. We're talking about a being capable of wiping the whole planet clean in a second.
+
+**Kadoc:**
+Come on, Kadoc, think. There's no way the Foreign God
+doesn't know the first thing about Earth or humanity.
+
+**Kadoc:**
+They must've done their homework, or they wouldn't have
+known to attack us&ndash;Chaldea, before making any other moves..
+
+**Kadoc:**
+...So from that, you can tell that the Foreign God is really, really cautious, which is why they're so careful about keeping their identity a secret.
+
+**Kadoc:**
+Zeus is omnipotent and omniscient, so he doesn't bother to hide who he is. He's also had no problem crushing any form of dissent himself.
+
+**Kadoc:**
+The Foreign God's not at that level yet, which is why they're still so careful about any information pertaining to them.
+
+**Kadoc:**
+...That's it. The Foreign God's got one major, fatal
+flaw: they don't have a physical body yet.
+
+**Kadoc:**
+If they did, even if it was just a Divided Spirit or
+a terminal, they wouldn't have to rely on anyone else.
+
+**Kadoc:**
+That's why they enlisted the Alter Egos, and us Crypters, to be their hands in this world.
+
+**Kadoc:**
+...Rasputin. Limbo. Muramasa. Why would a foreign being use Heroic Spirits from Earth?
+
+**Kadoc:**
+They might've dressed their Alter Ego Disciples up a
+little, but they're still figures taken from our history...
+
+**Kadoc:**
+...Hang on. What if the Foreign God can
+only make use of things on Earth?
+
+**Kadoc:**
+No, it's not even that. They can only use things from the past&ndash;things that USED to be on Earth.
+
+**Kadoc:**
+(At some point, the Foreign God plans on descending
+to Earth. At least, that's what they told Wodime.)
+
+**Kadoc:**
+(And once a Tree of Emptiness is fully grown, it'll become the Foreign God's body... So what happens after that?)
+
+**Kadoc:**
+(Maybe, when the Foreign God descends
+and incarnates on Earth...)
+
+**Kadoc:**
+(...they're going to base their body on the data
+about Earth we've all been collecting for them.)
+
+**Kadoc:**
+...Yeah, that's not a bad theory.
+
+**Kadoc:**
+If the Foreign God absolutely has to have local
+life-forms, then they must be for output... No, wait. For reference.
+
+**Kadoc:**
+And from there, as long as the Foreign God
+can guide the local life-forms successfully&ndash;
+
+**Voice:**
+My, my, how very perceptive.
+I see, I see.
+
+**Voice:**
+It would seem that, given enough time, humans will indeed cease to be mindless reeds and start reaching...conclusions of their own.
+
+![](https://i.imgur.com/tNTqB4Z.png)
+
+**Limbo:**
+I used to laugh at the idea that a few Crypters putting
+their heads together could ever arrive at the truth...
+
+**Limbo:**
+...but now that I see how close you've come to figuring out the Foreign God's true nature, it's clear I underestimated you, Lord Kadoc.
+
+## Kirschtaria's Hints
+
+![](https://i.imgur.com/QTTrM2Q.png)
+
+**Kirschtaria:**
+...That being said, some things will certainly
+be lost in service of this greater good.
+
+**Kirschtaria:**
+This revolution will be limited to humanity on Earth as it exists right now. I don't have the power to bring back the people from Proper Human History.
+
+**Kirschtaria:**
+Once Atlas's textures cover Earth, Proper Human History will be gone forever&ndash;well and truly lost.
+
+**Kirschtaria:**
+After all, it will no longer have any place to return to, just like the Foreign God cannot occupy the Tree of Emptiness with Atlas keeping them away.
+
+![](https://i.imgur.com/kii8tlH.png)
+
+**Mash:**
+What...?
+But...then...
+
+**Mash:**
+Then your plan is essentially the same
+as the Foreign God's...
+
+**Mash:**
+It's not any different from having wiped Earth clean...
+
+**Kirschtaria:**
+...What do you think, Fujimaru?
+
+**Kirschtaria:**
+Don't you agree that my plan has merit?
+
+---
+
+**Fujimaru 1:**
+Under different circumstances, I'd think it's incredible.
+
+---
+
+---
+
+**Fujimaru 1:**
+But...as things stand now, I can't accept it.
+
+**Kirschtaria:**
+Do you think I am merely running away?
+That I seek to abandon the past and the present?
+
+**Kirschtaria:**
+...You're not wrong. I have no good response to that.
+
+**Kirschtaria:**
+While I do believe you're capable of bringing that past and present back...I also can't deny that I'm passing all that work onto you.
+
+---
+
+**Fujimaru 2:**
+But what you're doing is no different than the Foreign God.
+
+**Kirschtaria:**
+You're wrong there, Fujimaru. It may not be my
+place to say anything, but since I'm the elder Master, let me give you some advice.
+
+**Kirschtaria:**
+Now that you've seen the Lostbelts for yourself, you know they're no different from Proper Human History.
+
+**Kirschtaria:**
+They all had the same goals: unify humanity,
+make full use of Earth...and keep the world alive.
+
+**Kirschtaria:**
+But the Foreign God is different.
+They don't care about Earth or humanity.
+
+**Kirschtaria:**
+You might be wondering why they bleached the world then. And you would be right to.
+
+**Kirschtaria:**
+Think back to Goetia. He didn't incinerate humanity simply to destroy it, not really. It was only a side effect of his true goal.
+
+**Kirschtaria:**
+The same holds true for the Foreign God.
+
+---
+
+![](https://i.imgur.com/TSsDh13.png)
+
+**Kirschtaria:**
+...It seems the Foreign God has
+taken measures to deal with me.
+
+**Kirschtaria:**
+I suppose it only makes sense that they would seek to end my life, since they can't touch the Tree of Emptiness.
+
+**Kirschtaria:**
+I'm sorry, but I'm afraid none of you have a choice.
+
+**Kirschtaria:**
+I'm going to use Tree of Emptiness Atlas to revolutionize
+the world before the Foreign God can break our contract.
+
+**Kirschtaria:**
+What you do next is up to you,
+Fujimaru and Mash.
+
+**Kirschtaria:**
+You can choose this revolution and its bright future&ndash;
+a future of gods where everyone is happy...
+
+**Kirschtaria:**
+...or, you can choose Proper Human History in all its bleakness, with its myriad problems and dead ends.
+
+**Kirschtaria:**
+But be warned: if you try to interfere,
+I will show you no mercy.
+
+**Kirschtaria:**
+This is MY Grand Order; it is the ideal I have fought for through my entire life.
+
+**Kirschtaria:**
+If you wish to stand in its way, then you must fight with all the strength you possess.
+
+**Kirschtaria:**
+This planet's future rests upon
+the outcome of this battle.
+
+**Kirschtaria:**
+If you think you can choose a greater future than I...
+
+**Kirschtaria:**
+If you believe you are strong enough for me to entrust
+you with the Tree of Emptiness...then prove it.
+
+**Kirschtaria:**
+I am Kirschtaria Wodime.
+
+**Kirschtaria:**
+As a Crypter, I denounce Proper Human History.
+
+**Kirschtaria:**
+I am an enemy of Chaldea, and by extension, you...
+
+**Kirschtaria:**
+And I am the leader of Team A,
+who fought to protect humanity!
+
+## Advent of the Foreign God
+
+**Mash:**
+I'm detecting a powerful Magical Reactor
+Core signal inside the Tree of Emptiness!
+
+**Mash:**
+I can't measure its magical energy levels
+with my current equipment! But... Wait...
+
+**Mash:**
+This Spirit Origin pattern...!
+
+**Fou:**
+Fou, foooooou!
+
+**Mash:**
+As foreseen and categorized by Trismegistus, this looks to be the final Horn&ndash;the final Beast Crown&ndash;of the Seven Evils of Humanity...
+
+**Mash:**
+Beast VII...!
+
+**Holmes:**
+!
+
+**???:**
+■■language■■■intellect■■■sharing■■■
+
+**???:**
+■■■■■plane■■mission■■■, generating
+
+**???:**
+Come in.
+
+**???:**
+Do you read me?
+
+**???:**
+Commencing...
+
+**???:**
+...advent.
+
+**???:**
+...Ha.
+
+**???:**
+Hahaha.
+
+**???:**
+Hahahahahahahaha!
+
+![](https://i.imgur.com/FbwLSgH.png)
+
+![](https://i.imgur.com/4FrXATj.png)
+
+**???:**
+Ahhhhhh hahahaha! At long last, it's finally my turn!
+Thank you for waiting so patiently, my loyal Disciples!
+
+**???:**
+And well done preparing a vessel for me to use from this empty planet! I am pleased with the work you've done, even if it did take longer than expected.
+
+**???:**
+Hmm... So this is Earth, is it? I was curious what it was like after hearing it gave my kin so much trouble...
+
+**???:**
+But it doesn't look all that impressive.
+
+**???:**
+Just look how tiny it is!
+I could conquer the whole planet in less than a year!
+
+---
+
+**Fujimaru 1:**
+...
+
+---
+
+**Fujimaru 2:**
+(...She's so tiny!)
+
+**???:**
+Hm? Why do I feel some faint brain waves
+being directed at me?
+
+**???:**
+Are these some of the planet's indigenous life-forms?
+They're so weak, I guess they must be.
+
+**???:**
+All that aside...
+Why am I not sensing any respect directed at me?
+
+**???:**
+...Wait. What is this pathetic body? My vessel is supposed to be made from a Tree of Emptiness, right?
+
+**???:**
+So why is this one so small...?
+
+---
+
+**Mash:**
+...Master, I'm having a very difficult time
+following what's going on here, but...
+
+**Mash:**
+...I think the being floating above us right now is both a Beast that manifested inside the Tree of Emptiness...
+
+**Mash:**
+...and the Foreign God themself.
+But...what I don't understand is&ndash;
+
+---
+
+**Fujimaru 1:**
+(I know... I'd recognize that face anywhere.)
+
+---
+
+**Fujimaru 2:**
+(Is that...a medal...?)
+
+---
+
+**???:**
+...Well, no matter.
+Disciple. Status report.
+
+**???:**
+Given what happened with Kirschtaria,
+it seems like things did not go entirely as planned.
+
+**Priest:**
+I'm afraid Seyfert's flames set Magellan
+ablaze before it could become your body.
+
+**Priest:**
+While your Spirit Origin is unaffected, I suspect you may be unable to make full use of your Authority as a result.
+
+**???:**
+Hmm. So it would seem that my body still has yet to fully eclose. Well, that's all right. It will give me something to look forward to.
+
+**???:**
+I'm sure I can find something here that will make up for my deficiencies. In fact, I see a meal before me now that should do the trick nicely.
+
+**???:**
+Usually, a single Lostbelt wouldn't be
+nearly enough to satisfy my cravings...
+
+**???:**
+...but since I only just acquired this body,
+it should make for a well-balanced wake-up snack.
+
+**???:**
+However...
+
+**???:**
+Seeing these insects buzzing around my appetizer
+is putting me right off my appetite.
+
+**???:**
+Are those the Chaldean stragglers? Why haven't you killed them? They certainly don't look like they're at all capable of giving my Disciples any trouble.
+
+**???:**
+For that matter, why don't they fear me? I thought those of this planet were obliged to hold gods in reverence.
+
+**???:**
+...Hmph.
+
+**???:**
+Yes, I know. It would be all too easy to grind them to dust beneath my heel, but I wish to sate my curiosity for now.
+
+**???:**
+Tell me, Fujimaru:
+Why do you not fear me?
+
+**???:**
+Aren't humans like you supposed to bow your heads, beg for enlightenment, and submit to the every whim of great and powerful beings?
+
+---
+
+**Fujimaru 1:**
+Well, I mean...
+
+---
+
+---
+
+**Fujimaru 1:**
+...You're Olga Marie.
+
+---
+
+**Fujimaru 2:**
+What the heck are you doing, Olga Marie!?
+
+---
+
+**???:**
+Huh?
+
+**???:**
+What is this Earthling talking about?
+What is a “director”?
+
+**???:**
+Looks like you've gone mad with terror.
+Well then, I'll be kind and explain.
+
+**???:**
+I am a god who has descended upon this world from the void. I have come to right this planet's wrongs and eradicate its evil once and for all.
+
+**???:**
+As the ultimate ruler, I will make Earth into a single
+nation and personally govern every last one of its people.
+
+**???:**
+Yes, I am the sovereign of Earth...
+
+**???:**
+U-Olga Marie!
+
+---
+
+**Fujimaru 1:**
+!?
+
+---
+
+**Fujimaru 2:**
+(Did she just claim to be Earth's president or something!?)
+
+---
+
+![](https://i.imgur.com/TgdkIWM.png)
+
+**Mash:**
+Now I REALLY don't understand!
+
+**Mash:**
+First she declares she isn't Olga Marie,
+then she claims she is!
+
+---
+
+**Fujimaru 1:**
+Just try to stay calm, Mash!
+
+---
+
+**Fujimaru 2:**
+(She's right... What in the world is going on!?)
+
+---
+
+**U-Olga Marie:**
+That's more like it. It sounds like you finally understand my godhood. I can sense brain waves of fear and confusion.
+
+**U-Olga Marie:**
+Now, the time has come for me to wipe this planet
+clean of everything that once existed here.
+
+**U-Olga Marie:**
+The human race. The Lostbelts. You lot. My Disciples
+using silly Heroic Spirits for their vessels.
+
+**U-Olga Marie:**
+Now that I have a physical body,
+I have no more need for any of you.
+
+**U-Olga Marie:**
+Now get out of my sight, beg for mercy, and repent for your misdeeds, for even my infinite patience has finally reached its limit.
+
+![](https://i.imgur.com/mPYCTkD.png)
+
+**Macarios:**
+A gravitational field!?
+It's sucking up everything that isn't nailed down!
+
+**Macarios:**
+Dammit, it's even bigger than the Tree of Emptiness! If it keeps going like this, there really won't be anything left!
+
+**Holmes:**
+Indeed, including us!
+Is this really what you want, Rasputin!?
+
+**Holmes:**
+Because it seems this god of yours has no qualms about erasing even her own Disciples!
+
+**Priest:**
+If this is what my God wants, then so be it.
+I only wish I could have been of more use to her.
+
+**Adele:**
+If we use that black light on her, we could...! Oh, but... Both the gun and its ammunition are&ndash;
+
+**Mash:**
+Yes, I'm sorry! We can't use the Black Barrel anymore!
+
+**Mash:**
+Besides...even if we could... I don't know if it
+would be enough to defeat the Foreign God...
+
+**Holmes:**
+At this rate, it's going to suck up not just
+all of Olympus, but this entire Lostbelt...
+
+**Holmes:**
+(So, I'm finally getting to see a Beast in person...)
+
+**Holmes:**
+(I don't need to use my Noble Phantasm to tell that
+humanity simply has no hope of defeating her.)
+
+**Holmes:**
+(The sheer magnitude of her Spirit Origin alone vastly eclipses anything humanity could throw at her. There are simply no conditions that would allow for our victory.)
+
+**Holmes:**
+(Mesopotamia... Solomon's Temple of Time...)
+
+**Holmes:**
+(Chaldea was only able to prevail in those situations because we were an unknown factor.)
+
+**Holmes:**
+(Indeed, our very existence was such an exception to the rule that we had an almost excessive advantage in the environments where Beasts I and II appeared.)
+
+**Holmes:**
+(Therefore, no matter how outmatched we may have been, it was always possible for us to alter our fate.)
+
+**Holmes:**
+(But this Beast is different. She's had Chaldea in her sights since well before we were even aware of her existence.)
+
+**Holmes:**
+(We have therefore lost the one advantage we had in those other fights.)
+
+**Holmes:**
+(Unfortunately, even if the Storm Border were to arrive
+now, that Beast would simply wipe them all out.)
+
+**Holmes:**
+(...It's elementary, my dear Leonardo.
+There's simply nothing we can do.)
+
+**Holmes:**
+(I wish I didn't have to say this, especially after you entrusted me to see this mission through, but...)
+
+**Holmes:**
+...I'm sorry, [♂ Mr. /♀️ Ms.] Fujimaru.
+
+**Holmes:**
+I'm afraid...there is no possible way
+for us to turn things around...
+
+**U-Olga Marie:**
+...Hmph. So you're not even going
+to try to fight back, Earthlings?
+
+**U-Olga Marie:**
+Wait, how silly of me. Of course you can't fight back.
+I don't know why I ever thought you could!
+
+**U-Olga Marie:**
+I suppose it only makes sense. There is no version of humanity in this universe that is capable of surpassing me.
+
+**U-Olga Marie:**
+All that aside...
+You Earthlings truly are pathetic, aren't you?
+
+**U-Olga Marie:**
+You're so tiny. So powerless. It's like looking through a microscope at bacteria in a petri dish!
+
+**U-Olga Marie:**
+Heh... Hehe.
+Hahahahahahahahahaha!
+
+**U-Olga Marie:**
+...Ha?
+
+![](https://i.imgur.com/0WhyIVW.png)
+
+**--ARROW--**
+
+**Holmes:**
+...I'm sorry, [♂ Mr. /♀️ Ms.] Fujimaru.
+
+**Holmes:**
+I'm afraid...there is no possible way
+for us to turn things around...
+
+![](https://i.imgur.com/FmkUWiD.png)
+
+**???:**
+
+Come now. It's not like you to be so rash.
+
+**???:**
+
+Or are your powers of deduction simply nullified when you attempt to apply them to an alien being?
+
+**Mash:**
+!
+
+---
+
+**Fujimaru 1:**
+Kirschtaria!?
+
+---
+
+**Fujimaru 2:**
+Kirsch!?
+
+**Kirschtaria:**
+Well now, that almost makes it sound like we're friends. I didn't see that coming, but I can't say I dislike it.
+
+---
+
+**Holmes:**
+Kirschtaria Wodime...
+I didn't realize you were still alive.
+
+**Kirschtaria:**
+We mages have magical crests.
+We don't go down quite so easily.
+
+**Kirschtaria:**
+Holmes, you just said there was no possible
+way for you to turn things around...
+
+**Kirschtaria:**
+...but that all depends on how you look at it.
+
+**Kirschtaria:**
+For example, my victory would be my plan to slay the
+god succeeding, and my loss would be it failing.
+
+**Kirschtaria:**
+Now that Atlas's Tree has been razed to the ground, and the Foreign God has descended upon this world, my plan has ended in abject failure.
+
+**Kirschtaria:**
+It represents a complete and total loss for me.
+There is no hope of me turning things around now.
+
+**Kirschtaria:**
+But the same is not true for you.
+
+**Kirschtaria:**
+For you, loss would be dying,
+and victory would be living.
+
+**Kirschtaria:**
+So even if the Foreign God has descended upon this world, and even if all you can do right now is run away...
+
+**Kirschtaria:**
+...merely surviving is enough to ensure your victory.
+
+**Kirschtaria:**
+And since you haven't truly lost,
+you still have a chance to turn things around.
+
+**Mash:**
+...
+
+**Kirschtaria:**
+I understand this is all a bit much coming from me, since I'm the one who invited the Foreign God here in the first place, but oh well.
+
+**Kirschtaria:**
+Now then...I think it's time I played my last card.
+
+**Kirschtaria:**
+Rest assured,
+I won't let the Foreign God get away with this.
+
+**Kirschtaria:**
+Even if it is ultimately fated to vanish once its Tree of Emptiness is gone, I will protect Olympus right to the end.
+
+**Kirschtaria:**
+After all...I promised Zeus I would.
+
+**Caenis:**
+...
+
+**Kirschtaria:**
+I'll make sure the Foreign God goes away,
+though I can only do so temporarily.
+
+**Kirschtaria:**
+Now go. Get out of here.
+I'm afraid you'd only get in my way.
+
+---
+
+**Fujimaru 1:**
+...Are you sure?
+
+---
+
+---
+
+**Fujimaru 1:**
+I mean, you're obviously badly hurt...
+
+---
+
+**Kirschtaria:**
+Don't worry, it's not as bad as it looks.
+I've still got plenty of fight left in me.
+
+**Kirschtaria:**
+It's a shame you and I weren't able to finish our duel,
+though. We'll just have to take a rain check on that.
+
+**Kirschtaria:**
+At any rate, you've got much more
+work ahead of you than I do.
+
+**Kirschtaria:**
+...I'm sorry about this, Fujimaru. I wish I didn't
+have to ask you to take on such enormous responsibility again.
+
+---
+
+**Fujimaru 1:**
+...It might not be easy, but I'll give it everything I've got!
+
+---
+
+**Fujimaru 2:**
+...It's okay. I haven't come this far just to lose now!
+
+---
+
+**Kirschtaria:**
+Mr. Holmes.
+
+**Holmes:**
+...Very well. You have my word that I will do everything in my power to give Chaldea a chance to turn things around.
+
+**Kirschtaria:**
+Good. I'm relieved to hear that.
+All right then, this is goodbye.
+
+**Kirschtaria:**
+But before you go, Mash, let me
+give you one word of advice.
+
+**Kirschtaria:**
+I won't deny that, as a Crypter, I considered you and
+Fujimaru my most dangerous enemies, and tried
+to eliminate you accordingly.
+
+**Kirschtaria:**
+I did so because, at the time,
+I firmly believed that to be what was right.
+
+**Kirschtaria:**
+...But of course, humans are fundamentally
+incapable of making the right choice.
+
+**Kirschtaria:**
+So the least we can do is keep shamelessly moving toward those things we have chosen, right or wrong.
+
+**Kirschtaria:**
+I believe that's what it means to be human. We are nothing if not great at rationalizing our actions.
+
+**Kirschtaria:**
+Still, trust me when I tell you that there's no need to fight to assuage a guilty conscience, or to atone for past misdeeds.
+
+**Kirschtaria:**
+Don't forget, the reason you left Chaldea to go on
+a journey was to get as much out of it as possible.
+
+**Mash:**
+...
+
+**Holmes:**
+I'm afraid the palace won't last much longer. We need to evacuate to the great shrine! Come now, quickly!
+
+**Mash:**
+R-right...!
+
+**Mash:**
+...U-um, Kirschtaria!
+
+**Mash:**
+Thank you for everything you did for me at Chaldea!
+I wish we could have all talked a lot more!
+
+**Kirschtaria:**
+Are they gone, Caenis?
+
+**Caenis:**
+What're you, stupid?
+Can't you see for your&ndash;
+
+**Caenis:**
+Yeah, they're gone. They left your sorry ass behind. Didn't even look back. So you don't gotta worry about them. Mess this bitch up. Hell, I'll even let you lean on me.
+
+**Kirschtaria:**
+Thank you. That will be a big help.
+...What about you, Father? Aren't you going to stop me?
+
+**Priest:**
+Not at all. Not unless the Foreign God gives the order to eliminate you two.
+
+**Priest:**
+I'm only here to serve as a witness.
+Truth be told, it should be quite educational.
+
+**Priest:**
+No matter how powerful one may be,
+this planet still follows its own rules.
+
+**Priest:**
+This will be an excellent way for the
+Foreign God to learn that lesson.
+
+**Kirschtaria:**
+...In that case, don't mind if I do.
+
+**Kirschtaria:**
+Stars. Cosmos. Gods. Animus.
+
+**Kirschtaria:**
+　Antrum.
+Unbirth.
+
+**Kirschtaria:**
+　Anima, Animusphere...
+
+**Kirschtaria:**
+There are yet the lights of stars in the void.
+Illuminate the earth, stay aloft the sky...
+
+**Kirschtaria:**
+...and illustrate the coordinates of the heavens. May you be a guide for voyagers one more time, O light of Chaldea.
+
+![](https://i.imgur.com/0WhyIVW.png)
+
+## Specimen E's POV?
+
+![](https://i.imgur.com/1i8T2ZR.png)
+
+> ⸻A soliloquy.
+
+> ■■■■■■ cannot comprehend ■■■■■.
+
+> They cannot discern whether dead or alive, standing or sitting,
+
+> whether thoughtful or thoughtless,
+begging alms or offering prayers.
+
+> They know not a thing.
+They express no pain, nor any joy.
+
+> No fear, yet no relief.
+
+> Only an impending premonition and a chill informs them that the end has come.
+
+> They merely die meaningless deaths in such a way, on such a stage.
+
+> Yet something confined inside me helps them prolong their life just a little longer.
+
+> It begs them to remain human until the very last moment.
+
+> Do not pray, but sing.
+Right now, that's all ■■■■ can do.
+
+**Choice:** ■■■■ a ■■■■, ■■■⸻
 
 ## The Origin of Traum
 
