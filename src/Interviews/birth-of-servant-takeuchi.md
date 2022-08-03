@@ -6,7 +6,7 @@ This interview can be found on the [...Apple app store?](https://apps.apple.com/
 [Below is a partial translation from Comun.](https://forums.nrvnqsr.com/showthread.php/6031-Fate-Grand-Order-Story-and-Lore-%28CONTAINS-SPOILERS%29?p=3211621&viewfull=1#post3211621)
 :::
 
-Archetype:Earth orginates from Arcueid Brunestud, a love interest in Tsukihime, a visual by Type-Moon, the team that created and writes for FGO. For her appearance in FGO's world, I added FGO's rendition of Arcueid as the Third Ascescion character
+Archetype:Earth orginates from Arcueid Brunestud, a love interest in Tsukihime, a visual by Type-Moon, the team that created and writes for FGO. For her appearance in FGO's world, I added FGO's rendition of Arcueid as the Third Ascension character
 
 In our character meeting to discuss which Servant should be made playable, Nasu proposed we went with Arcueid for the next anniversary. Nasu words: "That said, we shouldn't make the Servant name herself Arcueid. She should go by Archetype:Earth, the name of the Brain of the Planet in TYPE-MOON lore." Takeuchi's response: "Always the teaser, aren't you?"
 

@@ -1,15 +1,11 @@
 ## https://github.com/Danimoth/gitattributes/blob/e9c4312cabdbcf7f66205f3c3271336d4563e92c/Web.gitattributes
-
 # These settings are for any web project
-
 # Handle line endings automatically for files detected as text
 # and leave all files detected as binary untouched.
 * text=auto
-
 #
 # The above will handle all files NOT found below
 #
-
 # These files are text and should be normalized (Convert crlf => lf)
 *.php text
 *.css text
@@ -21,11 +17,10 @@
 *.ini text
 *.inc text
 .htaccess text
-
 # These files are binary and should be left untouched
 # (binary is a macro for -text -diff)
 *.png binary
-*.jpg binary
+*.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpeg binary
 *.gif binary
 *.ico binary
@@ -39,10 +34,7 @@
 *.zip binary
 *.7z binary
 *.ttf binary
-
-
 ## https://github.com/Danimoth/gitattributes/blob/e9c4312cabdbcf7f66205f3c3271336d4563e92c/Common.gitattributes (partial)
-
 # Documents
 *.doc	 diff=astextplain
 *.DOC	 diff=astextplain
@@ -54,7 +46,6 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-
 # Graphics
 *.png binary
 *.jpg binary
@@ -62,10 +53,7 @@
 *.gif binary
 *.ico binary
 *.svg text
-
-
 ## Custom attributes for mdwiki & github pages
-
 *.md text
 *.json text
 CNAME text
