@@ -5,7 +5,7 @@ const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics');
 const { searchPlugin } = require('@vuepress/plugin-search')
 
 module.exports = {
-    base: "/wiki/",
+    base: "/tri-hermes/",
     lang: "en-US",
     title: "FGO Wiki",
     description: "FGO Lore Wiki",
@@ -20,7 +20,7 @@ module.exports = {
     ],
     theme: defaultTheme({
         smoothScroll: true,
-        repo: "https://github.com/r-grandorder/wiki",
+        repo: "https://github.com/r-grandorder/tri-hermes",
         editLinks: true,
         docsDir: "src",
         editLinkText: "Help us improve this page!",
