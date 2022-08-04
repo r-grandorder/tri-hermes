@@ -7,7 +7,7 @@
     "name": "Lib",
     "email": "blameramamod@gmail.com"
   },
-  "repository": "https://github.com/r-grandorder/wiki",
+  "repository": "https://github.com/r-grandorder/tri-hermes",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
