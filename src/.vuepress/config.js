@@ -7,8 +7,8 @@ const { searchPlugin } = require('@vuepress/plugin-search')
 module.exports = {
     base: "/tri-hermes/",
     lang: "en-US",
-    title: "FGO Wiki",
-    description: "FGO Lore Wiki",
+    title: "TRI-HERMES",
+    description: "TYPE-MOON Lore Database",
     head: [
         ["meta", { name: "theme-color", content: "#3eaf7c" }],
         ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
