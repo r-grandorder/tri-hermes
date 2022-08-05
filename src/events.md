@@ -14,14 +14,18 @@
 * [Parvati](Trial/Parvati.md)
 * [Kingprotea](Trial/Kingprotea.md)
 
-## 2017
+::: tip
+Events under years are using NA script. The format is JP/NA for year. The URL uses NA year however.
+:::
+
+## 2015/17
 
 * [Does Moon Goddess Dream of Dumplings?](Events/2017/dumplings.md)
 * [Halloween 1](Events/2017/halloween1.md)
 * [GUDAGUDA Honnoji](Events/2017/gudaguda1.md)
 * [Christmas 1](Events/2017/christmas1.md)
 
-## 2018
+## 2016/18
 
 * [SABER WARS](Events/2018/saberwars.md)
 * [Chocolate Lady's Commotion](Events/2018/valentines2018.md)
@@ -39,7 +43,7 @@
 * [Halloween 2](Events/2018/halloween2.md)
 * [Christmas 2](Events/2018/christmas2.md)
 
-## 2019
+## 2017/19
 
 * [GUDAGUDA 2](Events/2019/gudaguda2.md)
 * [All the Statesmen!](Events/2019/statesmen.md)
@@ -49,7 +53,7 @@
 * [Halloween 3](Events/2019/halloween3.md)
 * [Christmas 3](Events/2019/christmas3.md)
 
-## 2020
+## 2018/20
 
 * [Setsubun Oni Pagoda](Events/2020/setsubun.md)
 * [The Bountiful Chocolate Gardens of Valentine](Events/2020/valentines2020.md)
@@ -61,7 +65,7 @@
 * [Halloween 4 - Oniland](Events/2020/oniland.md)
 * [Christmas 4](Events/2020/christmas4.md)
 
-## 2021
+## 2019/21
 
 * [Sparrow's Inn Daily Report](Events/2021/enmatei.md)
 * [Voice and Letters Collection](Events/2021/valentines2020.md)
@@ -71,12 +75,13 @@
 * [GUDAGUDA Final Honnoji](Events/2021/gudaguda4.md)
 * [Summer 4](Events/2021/summer4.md)
 * [Battle in New York Part 2](Events/2021/gilfest2021.md)
-* [Saber Wars 2](Events/2021/saberwars2.md)
-* Christmas 5 - N/A at the moment.
+* [SABER WARS 2](Events/2021/saberwars2.md)
+* [Christmas 5](Events/2021/carol.md)
 
-## 2022
+## 2020/22
 
 * Amazoness CEO - N/A at the moment.
+
 
 ## JP Translated Events
 

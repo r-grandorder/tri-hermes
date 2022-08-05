@@ -1,6 +1,6 @@
 # Format for Servant Material Profiles from Materials I-IX
 
-When finished with a profile, send the file to Lib or [do a pull request](https://github.com/r-grandorder/wiki/tree/main/src/Materials)
+When finished with a profile, send the file to Lib or [do a pull request](https://github.com/r-grandorder/tri-hermes/tree/main/src/Materials)
 
 ```
 ::: tip
