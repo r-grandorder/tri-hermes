@@ -22,60 +22,87 @@ I always think that when I look at the Black Barrel.
 
 Angel Notes. the matter of [knight arms] and [over count 1999].
 
-The plane flew higher into the troposphere.\n
+The plane flew higher into the troposphere.
+
 It had yet to pierce the layer of gray clouds.
 
-Iron wings soared through the gray sky\n
+Iron wings soared through the gray sky
+
 On their way to annihilate the common enemy of mankind.
 
-By battle’s end, this was the only craft to escape destruction among all those sent.\n
-It seems he was lucky an old AI controlled his plane.\n
+By battle’s end, this was the only craft to escape destruction among all those sent.
+
+It seems he was lucky an old AI controlled his plane.
+
 The AI controlled plane was the only one not touched by the enemy’s burning light.
 
-I continued to fly by myself.\n
+I continued to fly by myself.
+
 Just then I thought, “the organic pulsations echoing through the machine belong only to me.”
 
-I opened the door and drew out my gun.\n
-The air flowing into the cockpit was cold and burned his lungs.\n
-The temperature inside quickly reached below zero. His coat meant nothing.\n
+I opened the door and drew out my gun.
+
+The air flowing into the cockpit was cold and burned his lungs.
+
+The temperature inside quickly reached below zero. His coat meant nothing.
+
 It was barely warm enough to sustain organic life.
 
 This aircraft, which had only been intended to act as transport for flight-capable species, had no weapons. In order to fight, I had to risk my life in this way.
 
-Arctic cold and rampaging winds…\n
-The corpses of my comrades lying behind me, leaking spinal fluid from their ears and noses…\n
-This old aircraft that could crash at any moment.\n
+Arctic cold and rampaging winds…
+
+The corpses of my comrades lying behind me, leaking spinal fluid from their ears and noses…
+
+This old aircraft that could crash at any moment.
+
 The situation was so utterly bleak that I almost felt like singing.
 
-Holding the Black Barrel, which I’d modified for sniping, I did nothing but wait for my enemy,\n
-For the moment my enemy would appear in my scope.\n
+Holding the Black Barrel, which I’d modified for sniping, I did nothing but wait for my enemy,
+
+For the moment my enemy would appear in my scope.
+
 For the moment that I could pull the trigger and finally rest.
 
-Seven days were added to the plane’s clock.\n
-Only seven days have passed.\n
+Seven days were added to the plane’s clock.
+
+Only seven days have passed.
+
 My paralyzed brain felt that I could stay like this for a month, a year. My body was always on the verge of collapse.
 
-How many days and months has it been?\n
-My mind,\n
-My language,\n
-Myself…\n
-Just when I had lost everything,\n
-I pulled everything back into focus.\n
-The gun’s sight caught the enemy.\n
+How many days and months has it been?
+
+My mind,
+
+My language,
+
+Myself…
+
+Just when I had lost everything,
+
+I pulled everything back into focus.
+
+The gun’s sight caught the enemy.
+
 I pulled the trigger without hesitation.
 
-My brain immolated as it punched through its limits.\n
-For just one brief moment before I fell unconscious,\n
-For just one small moment before I blacked out,\n
-For just a moment before I faded away, I beheld the shape of my enemy.\n
-How\n
+My brain immolated as it punched through its limits.
+
+For just one brief moment before I fell unconscious,
+
+For just one small moment before I blacked out,
+
+For just a moment before I faded away, I beheld the shape of my enemy.
+
+How
+
 Beautiful.
 
 —In a gap in the clouds, I saw an angel.
 
 ## Angel Notes o
 
-# [over count 1999] hagane no daichi|land of steel
+# [over count 1999] Hagane no Daichi | Land of Steel
 
 A planet that died. A world that reached its end. An earth where living things can’t live. The present-day name of this planet. It’s not its official name, but a nickname shared by the people who live in this corrupted land. Like the name [land of steel] indicates, most of the landmass are wild and destroyed, covered by a tainted gray cloud.
 
@@ -85,13 +112,13 @@ To put it in a human-centric way, an apocalypse. But even after mother earth die
 
 Even the once-imaginary end of the planet could not end [mankind].
 
-# [a-ray] a-ray hyakushu|hundred subspecies
+# [a-ray] A-ray Hyakushu | Hundred Subspecies
 
 Next generation primates created by the humans that used up all of the planet’s resources. They were modeled after living things that used to exist on earth. They were modified/enhanced to allow them to survive on the corrupted world. There were many kinds of [a-ray], made up of about 100 major species. Species 1 through 10 consist of only one individual [a-ray] each, not a group.
 
 Some carry human genes and look like us, but most of them are mixed/evolved forms of different creatures and primates.
 
-# [liner] ningenshu|mankind
+# [liner] Ningenshu | Mankind
 
 The [land of steel’s] human species. The evolved form of the old humans who adapted to the world without changing their shape. They are technically [a-rays].
 
@@ -99,25 +126,31 @@ They were able to adapt to and live in today’s environment, but they do not ha
 
 They are building a country in an attempt to remake their old civilization. They have a cease-fire with the Hundred Species of [a-rays].
 
-# [Babel’s Tale] taisen|the great war
+# [Babel’s Tale] Taisen | The Great War
 
 After the death of the planet, war broke out between [mankind] and the One Hundred species of the [a-rays].
+
 [mankind] fought to survive; the [a-rays] fought to rule the world.
+
 Under the [six-sisters] who united the disorganized [a-rays], [mankind] was on the verge of defeat.
+
 Near the end of the war, humanity created the [knights] and [mankind], further killing the already-dead planet.
+
 There was no victor in this war. It was interrupted by an enemy that appeared suddenly and nearly wiped out both sides.
 
-# [Ether Liner] kishi|knight
+# [Ether Liner] Kishi | Knight
 
 Life forms extremely affected by the harsh environment. They wield special weapons called [demonic swords]. They are extremely aggressive and can fight [a-rays] on equal footing without any guns of the old age. There are currently 78 enlisted [knights].
 
-# [knight arms] maken|demonic/magical sword
+# [knight arms] Maken | Demonic/Magical sword
 
 What we call the weapon the [knight] carries.
+
 All [humankinds] born in this world are affected by the [grain]. Babies born with large amounts of [grain] in their bodies grow this material like bones throughout their lives, and when they reach adulthood, it manifests outside their bodies. Because these materials are created by the indescribable [grain], they are able to cause strange effects and are strong enough that we consider them weapons.
+
 Only a few humans can shape a [demonic sword], and those who carry [demonic swords] powerful enough to be used in war are considered [knights]. Only one [demonic sword] may exist per [knight].
 
-# [mana/ether] grain
+# [mana/ether] Grain
 
 Space dust. This is the name given to all harmful and unpredictable particles emitted from the non-functioning planet. Although it is harmful to humans, it will sometimes uniquely warp their bodies instead. Some call it mana/ether. The Hundred [a-rays], [mankind], and [knights] are all new species created by this [grain]. The energy transfer rate of the [grain] in the atmosphere is unbelievable. It has resulted in a new kind of warfare that was never before possible on earth.
 With [a-rays], who take [grain] into their bodies, and the [demonic swords] manifesting from [grain], all weapons of the old become useless.
@@ -198,17 +231,17 @@ The angel tilted her head and asked, “What’s tuning?”
 
 ## Angel Notes i
 
-# [cloud sky] sora ga kurai|the sky is dark
+# [cloud sky] Sora ga Kurai | The Sky is Dark
 
 The sky is covered by clouds. Thick layers of clouds hide the sky since the [great war]. The sky isn’t gray. They just cannot see it.
 
-# [No.20 Guardian Angel] tenshi|angel
+# [No.20 Guardian Angel] Tenshi | Angel
 
 The artificial [angel] species of the Hundred [a-rays]. The 20th species out of 100. Equal in power to the top 10 [a-rays] due to their destructive ability. A group that protects one [a-ray] species. Based on the angel of the largest religion of the old world. A humanoid kind with bird’s wings.
 
 They are aggressive and absorb the heavy [grain] scattered throughout the atmosphere after the world’s end for energy.
 
-# [Last-Seed] ningen|humans
+# [Last-Seed] Ningen | Humans
 
 The unmodified kind of human. They are no longer able to live on this planet. It is said they are on the verge of extinction.
 
@@ -383,7 +416,7 @@ But how could I help it. The world died once already because mankind lived by it
 
 ## Angel Notes iii
 
-# [No. 1 earth saving system] rokunin shimai|the six sisters
+# [No. 1 earth saving system] Rokunin Shimai | The Six Sisters
 
 Being that ruled over the Hundred [a-rays] during the [great war].
 
@@ -391,7 +424,7 @@ It’s said they look like humans, like fairy-tale witches with black hats ridin
 
 Near the end of the [great war], the young sister, “Judgement,” was defeated by a [knight], and her death scream tore apart a continent. The whereabouts of the remaining five are unknown.
 
-# [type:jupiter] kuroi aristoteles|the back aristoteles
+# [type:jupiter] Kuroi Aristoteles | The Black Aristoteles
 
 An [aristoteles] that appeared on the western continent.
 
@@ -403,7 +436,7 @@ High kill count of the 8 Aristoteles. The [western lands] were the site of an al
 
 After this incident, a team of [knights] was sent to the [western lands]. After a fearsome battle, Knight Edem, the Slash Emperor sliced its core in half with its [demonic sword]. The split artificial sun went berserk and burned entire western continent.
 
-# [type:saturn] jyuujika|the cross
+# [type:saturn] Jyuujika | The Cross
 
 This cross-shaped [aristoteles] is 3000 meters long.
 
@@ -413,7 +446,7 @@ This rain is a meter-long, cross-shaped electric impact that explodes upon conta
 
 AKA the Flying Forest, it appears to be the leader of the Aristoteles on the planet.
 
-# [Longinus] black barrel
+# [Longinus] Black Barrel
 
 A black rifle used by the Gun God. Created by a counter-mineral to the [grain], this weapon is feared by all life forms that carry any slight amount of [grain].
 
@@ -423,7 +456,7 @@ The God killer gun. If the target creature is stronger… another way of saying 
 
 Today, only those rare individuals from unevolved species who have no [grain] can touch this gun.
 
-# [blood sky] sora ga akai|the sky is red
+# [blood sky] Sora ga Akai | The Sky is Red
 
 The [sky] of this world. Above the sea of gray clouds, the sky is not blue, but red.
 
@@ -435,7 +468,7 @@ In the red sky, the two [Aristoteles] unable to descend further into the planet�
 
 [type:venus] ten no nakigara|heaven’s corpse
 
-# An [Aristoteles} estimated to be 1000 meters long. It appeared after the [great war] flying in the sea of clouds. Its shape was never confirmed; its details were unknown.
+# An [Aristoteles] estimated to be 1000 meters long. It appeared after the [great war] flying in the sea of clouds. Its shape was never confirmed; its details were unknown.
 
 A winged lifeform. Nearer to [mankind] in shape than its fellow [Aristoteles].
 
@@ -775,7 +808,7 @@ Was that true? Convinced, I left the room.
 
 ## Angel Notes vi
 
-# [GODO] jyuushin|gun god
+# [GODO] Jyuushin | Gun God
 
 “His” nickname given to him at the time of the “Bird Drop” mission. Some sarcastically called him a god impersonator. A rare pure human. He excavated the [black barrel] from a sealed vault, and made it his gun. Died during the mission to intercept [type:saturn].
 
