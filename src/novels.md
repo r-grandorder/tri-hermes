@@ -13,5 +13,5 @@
 ## Miscallaneous Material
 
 * [Angel Notes](LN/notes.md)
-* [Tsukihime Plus Period - Talk](LN/prelude.md)
+* [Tsukihime Plus Period - Talk](LN/talk.md)
 * [Tsukihime II - Prelude](LN/prelude.md)
