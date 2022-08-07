@@ -2,7 +2,7 @@
 
 ## Visual Novels
 
-* [Tsukihime Prologue](LN/tsuki-prologue-test.md) ~ This is for testing purposes. 
+* [Tsukihime Remake](LN/tsukire.md) ~ Coming Soon!
 
 ## Light Novels
 

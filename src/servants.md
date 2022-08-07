@@ -35,7 +35,7 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 | Arthur Pendragon (Prototype) | [Material Profile](Materials/Arthur%20Pendragon%20-%20Prototype.md) | [Interlude](Interludes/Arthur%20Pendragon%20-%20Prototype.md) | |
 | Suzuka Gozen | [Material Profile](Materials/Suzuka%20Gozen.md) | [Interlude](Interludes/Suzuka%20Gozen.md) | |
 | Frankenstein | [Material Profile](Materials/Frankenstein%20-%20Saber.md) | | |
-| Yagyu Tajima-no-kami Munenori | | [Interlude](Interludes/Yagyu%20Tajima-no-kami%20Munenori.md) | |
+| Yagyu Tajima-no-kami Munenori | [Material Profile](Materials/Yagyuu%20Munenori.md) | [Interlude](Interludes/Yagyu%20Tajima-no-kami%20Munenori.md) | |
 | Sigurd | | [Interlude](Interludes/Sigurd.md) | |
 | Queen Medb | | | |
 | Diarmuid Ua Duibhne | | [Interlude](Interludes/Diarmuid%20Ua%20Duibhne%20-%20Saber.md) | |
@@ -46,7 +46,7 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 | Katsushika Hokusai | | | |
 | Astolfo | | | |
 | Dioscuri | | | |
-| Tomoe Gozen | | | |
+| Tomoe Gozen | [Material Profile](Materials/Tomoe%20Gozen.md) | | |
 | Saitou Hajime | | | |
 | Watanabe no Tsuna | | | |
 | Ibuki-Douji | | | |
@@ -133,8 +133,8 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 | Jaguar Warrior | | [Interlude](Interludes/Jaguar%20Warrior.md) | |
 | Minamoto-no-Raikou | | [Material Profile](Materials/Minamoto%20no%20Raikou%20-%20Lancer.md) | |
 | Pārvatī | [Material Profile](Materials/Pārvatī.md) | [Interlude](Interludes/Pārvatī.md) | |
-| Houzouin Inshun | | [Interlude](Interludes/Houzouin%20Inshun.md) | |
-| Nezha | | [Interlude](Interludes/Nezha.md) | |
+| Houzouin Inshun | [Material Profile](Materials/Hōzōin%20Inshun.md) | [Interlude](Interludes/Houzouin%20Inshun.md) | |
+| Nezha | [Material Profile](Materials/Nezha.md) | [Interlude](Interludes/Nezha.md) | |
 | Ereshkigal | | | |
 | Valkyrie | | [Interlude](Interludes/Valkyrie.md) | |
 | Ibaraki-Douji | | | |
@@ -232,7 +232,7 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 | Solomon | | | |
 | Scheherazade | [Material Profile](Materials/Scheherazade.md) | [Interlude](Interludes/Scheherazade.md) | |
 | Nero Claudius (Caster) | | [Material Profile](Materials/Nero%20Claudius%20Caesar%20-%20Caster.md) | |
-| Circe | | [Interlude](Interludes/Circe.md) | |
+| Circe | [Material Profile](Materials/Circe.md) | [Interlude](Interludes/Circe.md) | |
 | Queen of Sheba | | [Interlude](Interludes/Queen%20of%20Sheba.md) | |
 | Anastasia | | [Interlude](Interludes/Anastasia%20Nikolaevna%20Romanova.md) | |
 | Avicebron | | | |
@@ -278,9 +278,9 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 | Yan Qing | [Material Profile](Materials/Yan%20Qing.md) | [Interlude](Interludes/Yan%20Qing.md) | |
 | Wu Zetian | | [Interlude](Interludes/Wu%20Zetian.md) | |
 | Nitocris | [Material Profile](Materials/Nitocris%20-%20Assassin.md) | | |
-| Mochizuki Chiyome | | [Interlude](Interludes/Mochizuki%20Chiyome.md) | |
-| Katou "Black Kite" Danzo | | [Interlude](Interludes/Kato%20Danzou.md) | |
-| Osakabehime | | [Interlude](Interludes/Osakabehime.md) | |
+| Mochizuki Chiyome | [Material Profile](Materials/Mochizuki%20Chiyome.md) | [Interlude](Interludes/Mochizuki%20Chiyome.md) | |
+| Katou "Black Kite" Danzo | [Material Profile](Materials/Katou%20Danzou.md) | [Interlude](Interludes/Kato%20Danzou.md) | |
+| Osakabehime | [Material Profile](Materials/Osakabehime.md) | [Interlude](Interludes/Osakabehime.md) | |
 | Semiramis | | [Interlude](Interludes/Semiramis.md) | |
 | Okada Izo | | | |
 | Ushiwakamaru | | | |
@@ -385,8 +385,8 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 | Meltryllis | [Material Profile](Materials/Meltryllis.md) | | |
 | Passionlip | [Material Profile](Materials/Passionlip.md) | [Interlude](Interludes/Passionlip.md) | |
 | Sessyoin Kiara | [Material Profile](Materials/Sessyoin%20Kiara.md) | | |
-| Mecha Eli-chan | | | |
-| Mecha Eli-chan Mk.II | | | |
+| Mecha Eli-chan | [Material Profile](Materials/Mecha%20Eli-chan.md) | | |
+| Mecha Eli-chan Mk.II | [Material Profile](Materials/Mecha%20Eli-chan%20mkII.md) | | |
 | Okita Souji (Alter) | | | |
 | Sitonai | | | |
 | Kingprotea | | | |
