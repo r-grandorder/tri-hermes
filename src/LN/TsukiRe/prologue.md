@@ -56,7 +56,7 @@ TL Note: 目から火が出る is "seeing stars", not literal
 |My hands are covered in bandages.|両手はグルグルの包帯巻き。|
 |My left leg is encased in a white plaster cast.|左足も白い石膏に包まれている。|
 |I can feel something tight across my forehead, so no doubt my head is wrapped in gauze too.|おでこまわりがやけに窮屈なので、たぶん頭にも包帯が巻かれている。|
-|A large, thick adhesive bandage is affixed to my chest, as if to cover up anything unsightly.|胸には都合の悪いものを隠すように、大きくて分厚い、<ruby>絆創|ばんそう><膏<rt>こう</rt></ruby>のようなものが貼られている。|
+|A large, thick adhesive bandage is affixed to my chest, as if to cover up anything unsightly.|胸には都合の悪いものを隠すように、大きくて分厚い、<ruby>絆創<rt>ばんそう</rt></ruby><ruby>膏<rt>こう</rt></ruby>のようなものが貼られている。|
 
 **Page 7:**
 
@@ -180,7 +180,7 @@ TL Note: Arach, most likely
 
 |EN|JP|
 |:--------|:--------|
-|"It's nice to meet you, Tohno Shiki-kun. Congratulations on your recovery."|「はじめまして<ruby>遠野|とおの><志|し><貴<rt>き</rt></ruby>くん。回復おめでとう」|
+|"It's nice to meet you, Tohno Shiki-kun. Congratulations on your recovery."|「はじめまして<ruby>遠野<rt>とおの</rt></ruby><ruby>志<rt>し</rt></ruby><ruby>貴<rt>き</rt></ruby>くん。回復おめでとう」|
 |Saying those words, an old man whom I had never seen before reaches out for a handshake.|初めて見るおじさんは、そう言って握手を求めてきた。|
 
 **Page 19:**
@@ -568,7 +568,7 @@ TL Note: Pulled some of prev line in to avoid the spliced sentence
 
 |EN|JP|
 |:--------|:--------|
-|"Well, it must've been fate for us to meet like this, so why don't you keep me company for a bit? My name's Aozaki Aoko. And you are?"|「ま、ここで会ったのも何かの縁だし、少し話し相手になってくれない？　私は<ruby>蒼崎|あおざき><青子<rt>あおこ</rt></ruby>っていうんだけど、君は？」|
+|"Well, it must've been fate for us to meet like this, so why don't you keep me company for a bit? My name's Aozaki Aoko. And you are?"|「ま、ここで会ったのも何かの縁だし、少し話し相手になってくれない？　私は<ruby>蒼崎<rt>あおざき</rt></ruby><ruby>青子<rt>あおこ</rt></ruby>っていうんだけど、君は？」|
 
 **Page 64:**
 
@@ -608,7 +608,7 @@ TL Note: Pulled some of prev line in to avoid the spliced sentence
 
 |EN|JP|
 |:--------|:--------|
-|About how the attic had been our secret hideout. How I came to hate <ruby>Shiri|w o r d   ><tori<rt>c h a i n   </rt></ruby>. And how I'm still expected to grow taller.|屋根裏が秘密の場所だったこと。しりとりが苦手になっていたこと。背はまだこれから伸びると思われること。|
+|About how the attic had been our secret hideout. How I came to hate <ruby>Shiri<rt>w o r d   </rt></ruby><ruby>tori<rt>c h a i n   </rt></ruby>. And how I'm still expected to grow taller.|屋根裏が秘密の場所だったこと。しりとりが苦手になっていたこと。背はまだこれから伸びると思われること。|
 
 **Page 70:**
 
@@ -1048,7 +1048,7 @@ TL Note: Assuming 胸がいたむ is figurative
 |EN|JP|
 |:--------|:--------|
 |"Ah, that thing about never cutting the lines again.|「ああ、もう二度と線を切らないっていうアレか。|
-|You can break that promise whenever you want, silly."|<ruby>莫|ば><迦|か>ね、あんな約束<気軽<rt>きがる</rt></ruby>に破っていいわよ」|
+|You can break that promise whenever you want, silly."|<ruby>莫<rt>ば</rt></ruby><ruby>迦<rt>か</rt></ruby>ね、あんな約束<ruby>気軽<rt>きがる</rt></ruby>に破っていいわよ」|
 |"Really...? But you said it was a very bad thing to do."|「……そうなの？　だって、すごくいけないコトだって言ったじゃないか」|
 
 **Page 129:**
@@ -1125,7 +1125,7 @@ TL Note: not sure about tense here
 |EN|JP|
 |:--------|:--------|
 |"Oh, but don't take off your glasses unless you have to. Special powers attract special powers, after all.|「あ、でもよっぽどの事がないかぎりメガネは外しちゃだめだからね。特別な力は特別な力を呼ぶものだし。|
-|Alright, here's my second lesson:|はい、私からの忠告、そのに。|
+|Alright, here's my second lesson: |はい、私からの忠告、そのに。|
 |Think carefully about when and where to break the rules to seize victory.|反則の出しどころ、勝負所をよく考える。|
 |I hope it never comes to this, but only take off your glasses when you decide the situation is out of control, and use your power responsibly."|そうならないコトを祈っているけど、どうしても自分の手には負えないと判断した時だけメガネを外して、よく考えて力を行使なさい」|
 
