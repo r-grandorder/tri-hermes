@@ -142,44 +142,51 @@ A figure who is at the top of Chaldea’s Medical Department, and as of now, is 
 
 ## Comment from Illustrator
 
-**Mash Kyrielight**    
+**Mash Kyrielight** 
+   
 Mash is a character who had been created since the time of *stay night*. She was designed to be a person wielding a massive shield in a SF (Science Fiction)-like bodysuit, but I added some armour parts and volume to her chest for FateGO, and it resulted in her current design. There was particularly no setting for her wearing glasses in her civilian clothes, but given that it seemed to match well with her, I tried to put it on her. I am thinking, ‘*I wonder if it turned out to be a nice accent in her design as a form of variety from the times when she is a Servant.*’ (Takeuchi Takashi)
 
-**Ortenax Costume**    
+**Ortenax Costume**   
+ 
 Mash, who lost her powers as a Servant, has a Saint Graph exoskeleton she wears over her body in order to reinforce herself. She is also called by the nickname ‘*Armoured Mash*’. I even thought of a jagged robot-ish design in order to emphasize an unrefined characteristic, but I was uneasy in having the design be too distant from Mash’s image, so concerning the result, I agreed on a silhouette similar to one with a head protector + armour with heavy armouring attached to it. (Takeuchi Takashi)
 
 **Lev Lainur**    
+
 I drew a rough sketch of Lev and said “*Hey, I want this sort of impression from him*”, but after I received the OK from Nasu, I adjusted his lines over again, and a charm similar to the rough sketch’s did not come out… That also happens now and then, but Lev is also a character of that sort of type. Although in the first rough sketch, he had a bit more showiness to him. How troublesome. (Takeuchi Takashi)
 
-**Romani Archaman**    
+**Romani Archaman**  
+  
 A character of the type that seems simple but gets one running into trouble with their design. The fact is, this person has no great feature, isn’t that right? I was worried up to the end about the colour of Romani’s hair. (Takeuchi Takashi)
 
 **Olgamarie Aminusphere**    
+
 Because it is a character setting that was easy to understand, Olgamarie is a character who was formed without practically anything to be worried about. It was pleasant since I can draw this sort of character without straining too much of myself, don’t you think? The colour of her tights has a pleasant feeling to them. (Takeuchi Takashi)
 
 **The Protagonist**    
+
 Rather than creating completely new things, I took from things that have been piling up till now, connecting them to future works. Nasu requested that he wants to get a protagonist who can support the weight of his works; the Fate that he aimed for, summed up till now. (Takeuchi Takashi)
 
 ---
 
 ## Material Images
 
-![Mash1](https://i.imgur.com/ODmo58F.jpg)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-010.jpg?raw=true)
 
-![Mash2](https://i.imgur.com/4PnwzYt.jpg)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-011.jpg?raw=true)
 
-![Mash3](https://i.imgur.com/9HHn8hI.jpg)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-012.jpg?raw=true)
 
-![Mash4](https://i.imgur.com/gvHnqPa.jpg)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-013.jpg?raw=true)
 
-![Mash5](https://i.imgur.com/jloFVLC.jpg)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-014.jpg?raw=true)
 
-![Mash6](https://i.imgur.com/KrNhPFT.jpg)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-015.jpg?raw=true)
 
-![Mash7](https://i.imgur.com/QzbwlH7.jpg)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-016.jpg?raw=true)
 
-![Mash8](https://i.imgur.com/cGv0Oix.jpg)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-017.jpg?raw=true)
 
-![Mash9](https://i.imgur.com/xlXqbev.jpg)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-018.jpg?raw=true)
 
-![Mash10](https://i.imgur.com/fvzt5SP.jpg)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-019.jpg?raw=true)
+

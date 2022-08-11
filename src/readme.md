@@ -15,6 +15,8 @@ footer: All scripts and images by TYPE-MOON ©
 ## FGO Arcade
 
 * [Lost Jerusalem](Arcade/jerusalem.md)
+* Babylon - WIP
+* [Lilim Harlot](Arcade/lilim-harlot.md)
 
 ## Greater Type-Moon Resources
 
