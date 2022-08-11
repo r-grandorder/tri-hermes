@@ -88,7 +88,7 @@ This chapter has been translated by the following Rayshift members: zazsc, Gaius
 
 **Merlin:** His True Name is Hassan-i-Sabbah───
 
-**Merlin:** One of the Heroic Spirits who claims the\n<ruby>Station of the Crown<rt>Grand seat</rt></ruby>, fated to hunt Beasts,
+**Merlin:** One of the Heroic Spirits who claims the <ruby>Station of the Crown<rt>Grand seat</rt></ruby>, fated to hunt Beasts,
 
 **Merlin:** summoned here through the Decisive Magecraft: Heroic Spirit Summoning.
 
