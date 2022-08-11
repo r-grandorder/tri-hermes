@@ -233,7 +233,7 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 | Scheherazade | [Material Profile](Materials/Scheherazade.md) | [Interlude](Interludes/Scheherazade.md) | |
 | Nero Claudius (Caster) | | [Material Profile](Materials/Nero%20Claudius%20Caesar%20-%20Caster.md) | |
 | Circe | [Material Profile](Materials/Circe.md) | [Interlude](Interludes/Circe.md) | |
-| Queen of Sheba | | [Interlude](Interludes/Queen%20of%20Sheba.md) | |
+| Queen of Sheba | [Material Profile](Materials/Sheba.md) | [Interlude](Interludes/Queen%20of%20Sheba.md) | |
 | Anastasia | | [Interlude](Interludes/Anastasia%20Nikolaevna%20Romanova.md) | |
 | Avicebron | | | |
 | Sieg | | | |
@@ -375,7 +375,7 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 | BB | [Material Profile](Materials/BB.md) | [Interlude](Interludes/BB.md) | |
 | BB (Summer) | | | |
 | Great Stone Statue God (Jinako) | | | |
-| Sessyoin Kiara | | | |
+| Sessyoin Kiara | [Material Profile](Materials/Sessyoin%20Kiara.md) | | |
 | Archetype: Earth | | | |
 
 ## Alter Ego
@@ -400,8 +400,8 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 
 | Servant | Material / In-Game Profile | Interlude | Valentines (WIP)
 |:--------|:--------:|:--------:|:--------:|
-| Abigail Williams | | [Interlude](Interludes/Abigail%20Williams.md) | |
-| Katsushika Hokusai | | | |
+| Abigail Williams | [Material Profile](Materials/Abigail%20Williams.md) | [Interlude](Interludes/Abigail%20Williams.md) | |
+| Katsushika Hokusai | [Material Profile](Materials/Katsushika%20Hokusai.md)] | | |
 | Mysterious Heroine XX | | | |
 | Yang Guifei | | | |
 | Voyager | | | |
@@ -422,4 +422,4 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 
 | Name | Material / In-Game Profile | 
 |:--------|:--------:|
-| Beast III/R | [Material Profile](Materials/Heaven%27s%20Hole.md) |
+| Beast III/R | [Material Profile](Materials/Heavens%20Hole.md) |
