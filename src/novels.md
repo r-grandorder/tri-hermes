@@ -3,6 +3,7 @@
 ## Visual Novels
 
 * [Tsukihime Remake](LN/tsukire.md) ~ Coming Soon!
+* [Fate/Stay Night - Test](LN/FSN/Fate/day1.md)
 
 ## Light Novels
 
