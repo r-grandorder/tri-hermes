@@ -1,5 +1,9 @@
 # Arctic Summer World ~ Chaldea's Midsummer Tour of the Enchanted Garden
 
+::: tip
+This is translated by Gem
+:::
+
 ## Opening: Arctic Servants
 
 ![](https://i.imgur.com/Ys6qdqN.png)
