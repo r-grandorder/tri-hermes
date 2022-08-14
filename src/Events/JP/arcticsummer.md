@@ -475,8 +475,6 @@ You pretending to be a Big Sis this year too?!
 
 
 **A：Jeanne:**
-姉気取りではありません。
-姉です。[♂ 三姉妹＋弟 /♀️ 四姉妹]です。
 I’m not pretending. I **am** a Big Sis.
 I have [♂ three sisters and a little brother / ♀️ I have four little sisters]!
 
