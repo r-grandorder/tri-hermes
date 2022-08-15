@@ -16,6 +16,7 @@
 ## Part 1.5
 
 * [Epic of Remnant 1: Shinjuku](Remnants/shinjuku.md)
+* [Abyssal Cyber Paradise, SE.RA.PH](Remnants/seraph.md)
 * [Epic of Remnant 2: Agartha](Remnants/agartha.md)
 * [Epic of Remnant 3: Shimosa](Remnants/shimosa.md)
 * [Epic of Remnant 4: Salem](Remnants/salem.md)
