@@ -80,7 +80,8 @@ Events under years are using NA script. The format is JP/NA for year. The URL us
 
 ## 2020/22
 
-* Amazoness CEO - N/A at the moment.
+* [Amazoness CEO](Events/2022/amazon.md)
+* [Requiem Collab](Events/2022/requiem.md)
 
 
 ## JP Translated Events
