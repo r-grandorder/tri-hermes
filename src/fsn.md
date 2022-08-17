@@ -1,6 +1,6 @@
 # Fate/Stay Night - Realta Nua
 
-The visual novel script has been compiled by Akano's Group. 
+The visual novel script has been translated by Mirror Moon and edited/compiled by Akano's Group. 
 
 This resource is ideally for lore-checking, not for reading the VN for the first time. We strongly recommend playing the visual novel for yourself firsthand.
 
