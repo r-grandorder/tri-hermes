@@ -21,7 +21,7 @@ The mourners had no questions regarding the death, but everyone was puzzled when
 On the tombstone prepared by the deceased before his death, there were three names.
 
 
-## 01 Summer | Suburb of London | Clock Tower Eleventh District |
+## 01 Summer | Suburb of London | Clock Tower Eleventh District 
 
 Under the blazing afternoon sun, I squinted my eyes as I walked these old streets.
 
@@ -777,7 +777,7 @@ He talked about the past.
 
 ## 05 Winter | The Death of a Certain Magus
 
-The gray sky suggests the fall of snow.
+The grey sky suggests the fall of snow.
 
 A small funeral was held in a small graveyard surrounded by iron fences.
 
@@ -793,96 +793,194 @@ The sound of the wind is not present today.
 
 Only the noon bell that can be heard from the city was the sound that connected the city to the individual.
 
-"This is a joke. I can't believe I brought flowers to the gravestone and met a woman I didn't want to see even if I died." (Aoko)
 
-"I didn't want to see you either. It's annoying. I was told to smile, but I can't smile at all when you're nearby." (Touko)
+
+ 
+
+"This is a joke. I can't believe I brought flowers to the gravestone and met a woman I didn’t want to see even if I died."
+
+
+
+
+
+"I didn’t want to see you either. It's annoying. I was told to smile, but I can't smile at all when you're nearby."
+
+
 
 Two Japanese women appeared after the participants who resided in the city disappeared.
 
-"I was watching the mansion to prevent this from happening, but I never thought he would commit suicide inside it. Did you know that this would happen?" (Touko)
+
+
+"I was watching the mansion to prevent this from happening, but I never thought he would commit suicide inside it. Did you know that this would happen?"
+
+
+
+ 
 
 "That's right. Did you receive a letter from Mr. Flauros too?"
 
 "I'm dead already. I have been killed, so come to the funeral."
 
-"I don't know what kind of magic it was, but the letter arrived in time and I thought it was amazing. When I was impressed and went there, I was surprised that he was alive." (Touko)
+"I don't know what kind of magic it was, but the letter arrived in time and I thought it was amazing. When I was impressed and went there, I was surprised that he was alive."
 
-"Ah, that's right. Flauros only remembered our last names. That's why it reached us both. But why? Who is this Lev Uvall or Lainur Gusion in the first place? I have never met such a man." (Aoko)
 
-"We met the two. When I first met Flauros, you were there too." (Touko)
 
-"Yes, the lobster there was delicious." (Aoko)
+ "Ah, that's right. Flauros only remembered our last names. That's why it reached us both. But why? Who is this Lev Uvall or Lainur Gusion in the first place? I have never met such a man."
 
-"From that moment thereafter, you and I were remembered as allies, as indifferent strangers, and as hateful enemies to him. He didn't say it, but that's what he cataloged us as at the very end. Although he was an enemy, he was a greatly understanding person." (Touko)
 
-"Oh...He had a double personality?" (Aoko)
 
-"Ah. It is also complete with multiple personalities that sees one thing and does different things at the same time. It seems that even their names were different from his. You must have had a conversation with both the Lev and the Lainur carved into this tombstone. We were unaware that we were having a conversation with them." (Touko)
+ "We met the two. When I first met Flauros, you were there too."
 
-"I only knew Mr. Lev, the one who was deciphering the past?" (Aoko)
 
-"I only knew the him  who was serving the future. But it must have been recorded as his personal impression. One Mr. Flauros recognized me as a companion, and one Mr. Flauros felt me as an enemy." (Touko)
 
-"Oh, that's right. Well, sometimes he said strange things. Anyway, if it is a double personality... Then, in the end, why did Flauros, who had a different personalities , killed himself?" (Aoko)
 
-"That is because there were no third parties present there. Sure, Lev and Lainur would have wanted to kill each other. After all, both were paranoids of the past and the future. If you live in the same research building, it will be annoying, and above all, if the other disappears, you will have more time for yourself. There was no reason not to kill the other." (Touko)
 
-"But that means killing yourself, doesn't it? It doesn't make sense for him to lose his body in order to take ownership of the body. Wait, if that motive is right, he would have committed suicide decades ago."(Aoko)
+"Yes, the lobster there was delicious."
 
-"Ah. The fact that it didn't happen till now is probably because there was a good mediator until now. But now it's gone, and the past and future couldn't stop hating each other. Or the hatred may have been directed at oneself. It seems that the corpse was in his office anyway, so it is certain that one of them set the trap. Both had the same chance, so it's impossible to know which one set the trap first. Mr. Flauros confined himself in a trap he had created for himself. That was the end. It was an impeccable act of self-destruction." (Touko)
 
-"... see. If so, there is no reason for us as outsiders to complain and intervene. Hmm? But the letter... didn't it say "already dead."  What could that mean?" (Aoko)
 
-"That would be a genuine suicide. As you can see, the past and the future have self-destructed, because the other person has been lost. There was certainly someone who sent us a letter and was the intermediary who had been interceding between the two until now, and had died from the very beginning. That is-" (Touko)
+"From that moment thereafter, you and I were remembered as allies, as indifferent strangers, and as hateful enemies to him. He didn't say it, but that's what he catalogued us as at the very end. Although he was an enemy, he was a greatly understanding person."
 
-"--Well now! Simply put, there was a third Flauros." (Aoko)
 
-"Such a thing. After all, it's a personality divided into the past and the future. Naturally, there is a personality in charge of the present. It's unclear if this was the case from the beginning or in the course of his research, but Mr. Flauros divided his personality into past, present, and future. The past ignored the future and the future denied the past. The two people who disagreed did not quarrel because there was an intermediary that was the "now".
 
-"But the "now" committed suicide. He killed his personality and surrendered his body to the others. Understanding that his actions would kill the past and the future, he died first. Well, the rem aining mystery is why he wanted to commit suicide now. No matter how I think about this, I have no idea. What do you think?" (Touko)
+"Oh...He had a double personality?"
 
-"...Wait a minute. It is reasonable to think that the reason for suicide is "losing all of one's hopes in the world" . Now, Flauros has to know the extremes of the future and the past without the mediation, right? Then there is no hope anymore. The past and the future are still good. Because he was only looking at one of them. But now (he) knows the consequences of both. He understood more than anyone else that it is an unchanging despair. He couldn't bear the burden and committed suicide. What do you think?" (Aoko)
 
-"Well, that is impossible. You haven't really been studying the basics, have you? Magi cannot easily commit suicide in the first place." (Touko)
 
-"Ah... That's right. As long as you have a Magic Crest, it's difficult to die on your own due to a curse." (Aoko)
+ 
 
-"The Crest is a boon, but at the same time it is a chain that constrains fate. You can die from external factors, but you can't break the family's rules with your own hands. In other words, retirement is not allowed in the form of suicide due to frustration. Especially if it's an old family line. I'll tell you exactly why because you are ignorant to the fact. "The Order of Beginning"  of the families that existed before the Christian era. The most sublime blood order in the magical world. A cursed, absolute pride, that continues the Order until the family line is cut off. That is what we call the Coronal Rank Designation - GRAND ORDER. It's a god-given responsibility from where the mage's family lines spread. Mr. Flauros was undoubtedly the heir of a prestigious magi family line that dates back to the Christian era. So he can't commit suicide due to despair." (Touko)
 
-"...Pride? Absolutely strict pride? Huh. Well, maybe I can explain it. It's like being an ant in a hive." (Aoko)
 
-"What? Did you really understand?" (Touko)
 
-"...Well, I'm not so convinced, but maybe. If it's an extension of that order, it can be explained, right? Then there is only one answer. Flauros of the "now" did not commit suicide, but was forced to commit suicide to stop the Flauros of the past and future. Even from your point of view Mr. Flauros of the future was terrible, wasn't he? The same goes for Mr. Flauros of the past. The research of these two people would bring ham to this present world just by continuing it. Because they thought they didn't need anything other than the time they were looking at." (Aoko)
 
-"...That's right. Even if the order engraved on Flauros was not destructive, the idea of excluding others was dangerous. But how does that lead to suicide?" (Touko)
+"Ah…It is a case of multiple personalities that sees one thing and does different things at the same time. It seems that even their names were different from his. We must have had a conversation with both the Lev and the Lainur carved into this tombstone. We were just unaware that we were having a conversation with them."
 
-"So wasn't the "present"  Flauros the same? His order is to protect the Present So he had to stop Lev Uvall and Lainur Gusion, who were only interested in the direction of time they were looking at. But he, who can't kill a human named Flauros, acted for indirect self-destruction by closing the now ." (Aoko)
 
-That's it. That is my current conclusion.
 
-If we kill the past, only the future will rejoice.
+"So…I only knew the Mr. Lev, the one who was deciphering the past?"
+
+
+
+ "I only knew the him who was serving the future, but it must have been recorded as his personal impression. The one Mr. Flauros recognized me as a companion, and the other Mr. Flauros felt me as an enemy."
+
+
+
+ "Oh, that's right. Well, sometimes he said strange things. Anyway, if it is a double personality ... Then, in the end, why did Flauros, who had a different personalities, killed himself?"
+
+
+
+ "That is because there were no third parties present there. Sure, Lev and Lainur would have wanted to kill each other. After all, both were paranoids of the past and the future. If you live in the same research building, it will be annoying, and above all, if the other disappears, you will have more time for yourself. There was no reason not to kill the other."
+
+
+
+"But that means killing yourself, doesn't it? It doesn't make sense for him to lose his body in order to take ownership of the body. Wait, if that motive is right, he would have committed suicide decades ago."
+
+
+
+ "The fact that it didn't happen until now is probably because there was a good mediator until this point. But now, said mediator is gone, and the past and future couldn't stop hating each other…or the hatred may have been directed at oneself. It seems that the corpse was in his office anyway, so it is certain that one of them set the trap. Both had the same chance, so it's impossible to know which one set the trap first. Mr. Flauros confined himself in a trap he had created for himself. That was the end. It was an impeccable act of self-destruction."
+
+
+
+ "...I see. If so, there is no reason for us as outsiders to complain and intervene. Hmm? But the letter… didn't it say "already dead.” What could that mean?"
+
+
+
+ "That would be a genuine suicide. As you can see, the past and the future have self-destructed, because the other person has been lost. There was certainly someone who sent us a letter and was the intermediary who had been interceding between the two until now, and had died from the very beginning. That is-"
+
+
+
+ "--Well, now! Simply put, there was a third Flauros."
+
+
+
+ "-Such a thing is possible. After all, it's a personality divided into the past and the future. Naturally, there is a personality in charge of the present. It's unclear if this was the case from the beginning or in the course of his research, but Mr. Flauros divided his personality into past, present, and future. The past ignored the future and the future denied the past. The two people who disagreed did not quarrel because there was an intermediary that was the "now".
+
+
+
+But the “now” committed suicide. He killed his personality and surrendered his body to the others. Understanding that his actions would kill the past and the future, he died first. Well, the remaining mystery is why he wanted to commit suicide now. No matter how I think about this, I have no idea. What do you think?"
+
+
+
+ "...Wait a minute. It is reasonable to think that the reason for suicide is "losing all of one's hopes in the world". Now, Flauros has to know the extremes of the future and the past without the mediation, right? Then there is no hope anymore. The past and the future are still good, because he was only looking at one of them. But now (he) knows the consequences of both. He understood more than anyone else that it is an unchanging despair. He couldn't bear the burden and committed suicide. What do you think?"
+
+
+
+ "Well, that is impossible. You haven't really been studying the basics, have you?  Magi cannot easily commit suicicde in the first place."
+
+
+
+ "Ah… That's right. As long as you have a Magic Crest, it's difficult to die on your own due to a curse."
+
+
+
+ "The Crest is a boon, but at the same time it is a chain that constrains fate. You can die from external factors, but you can 't break the family’'s rules with your own hands. In other words, giving up is not allowed in the form of suicide due to frustration, especially if it's an old family line. I'll tell you exactly why because you are ignorant to the fact. "The Order of Beginning" of the families that existed before the Christian era. The most sublime blood order in the magical world. A cursed, absolute pride, that continues the Order until the family line is cut off. That is what we call the Coronal Rank Designation - GRAND ORDER. It's a god-given responsibility from where the mage’'s family lines spread. Mr. Flauros was undoubtedly the heir of a prestigious magi family line that dates back to the Christian era. So he can't commit suicide due to despair.”
+
+
+
+ "...Pride? Absolutely strict pride? Huh. Well, maybe I can explain it. It's like being an ant in a hive."
+
+
+
+"What? Did you really understand?"
+
+
+
+ "...Well, I'm not so convinced, but maybe. If it's an extension of that order, it can be explained, right? Then there is only one answer. Flauros of the "now" did not commit suicide, but was forced to commit suicide to stop the Flauros of the past and future. Even from your point of view, Mr. Flauros of the future was terrible, wasn't he? The same goes for Mr. Flauros of the past. The research of these two people would bring harm to this present world just by continuing it, because they thought they didn't need anything other than the time they were looking at."
+
+
+
+ "...That's right. Even if the order engraved on Flauros was not destructive, the idea of excluding others was dangerous. But how does that lead to suicide?”
+
+
+
+"So wasn't the "present" Flauros the same? His order is to protect the Present. So he had to stop Lev Uvall and Lainur Gusion, who were only interested in the direction of time they were looking at. But he, who can't kill a human named Flauros, acted for indirect self-destruction by closing the now."
+
+
+
+ That's it. That is my current conclusion.
+
+
+
+ If we kill the past, only the future will rejoice.
 
 When the future is closed, only the past becomes robust.
 
-It just follows the speculation of someone who gave me Karma.
+It just follows the speculation of someone who gave me Karma. So in order to protect the now, the me of the now had to disappear. Even if no one knows if the result was achieved.
 
-So in order to protect the now, the me of the now had to disappear. Even if no one knows if the result was achieved.
 
-"If so, it's an ironic story. The present Mr. Flauros took such a method, probably dreaming of reconciliation between the two remaining personalities. If they were cooperating, at least the human named Flauros would have survived." (Touko)
 
-"Is that so? I don't think Mr. Flauros was that optimistic. What is the basis for that?" (Aoko)
 
-"...Huh. You are really insensitive. That is why you don't have a lover yet. You see, the letter said, "I'll ask for the rest,"  right? In the first place he called at least to the two of us who are left now in the here-no, no. It's ridiculous to say. If we think about it in the opposite order, it becomes a hassle to think about anything." (Touko)
 
-"Wait a minute! That's different! Having a lover is not something I can't do. It's just something! I haven't done it yet. I have a backup lover plan." (Aoko)
+"If so, it's an ironic story. The present Mr. Flauros took such a method, probably dreaming of reconciliation between the two remaining personalities. If they were cooperating, at least the human named Flauros would have survived."
 
-"Yes yes, it's OK to struggle forever. This is the end of the discussion. It would be enough to mourn the deceased. Well, I'm going back to the city, but what about you? Anyway, you probably don't have the money. Would you like to eat with me for once in a while?" (Touko)
 
-"Wow! is that a treat coming from my sister?" (Aoko)
 
-"Ah... let me introduce you to a restaurant that you can pay for later." (Touko)
+ "Is that so? I don't think Mr. Flauros was that optimistic. What is the basis for that?"
 
-With a grinning and pleasantly distorted smile, Miss Aozaki with the short hair, turned her back on Flauros's grave, while the Miss Aozaki with long hair, put  flowers in front of the grave and chases  her sister when she began descending down the hill.
+
+
+ "...Huh. You are really insensitive. That is why you don't have a lover yet. You see, the letter said, "I'll ask for the rest," right? In the first place he called at least to the two of us who are left now in the here- no, no. It's ridiculous to say. If we think about it in the opposite order, it becomes a hassle to think about anything."
+
+
+
+ "Wait a minute! That's different! Having a lover is not something I can't do. It's just something I haven't done yet. I have a backup lover plan!"
+
+
+
+ "Yes yes, it's OK to struggle forever. This is the end of the discussion. It would be enough to mourn the deceased. Well, I'm going back to the city, but what about you? Anyway, you probably don't have the money. Would you like to eat with me for once in a while?"
+
+
+
+ "Wow! Is that a treat coming from my sister?"
+
+
+
+ "Ah… let me introduce you to a restaurant that you can pay for later."
+
+
+
+ With a grinning and pleasantly distorted smile, the Miss Aozaki with the short hair, turned her back on Flauros's grave, while the Miss Aozaki with long hair, puts flowers in front of the grave and chases her sister when she begins descending down the hill.
+
+
 
 This is the last sight I saw in 2014. Whether or not the day will come when this fragment has some meaning is unknown to me, who lost 2015.
