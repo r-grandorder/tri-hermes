@@ -25,3 +25,5 @@
 * [Angel Notes](Novels/notes.md)
 * [Tsukihime Plus Period - Talk](Novels/talk.md)
 * [Tsukihime II - Prelude](Novels/prelude.md)
+* [Clocktower 2015](Novels/clocktower2015.md)
+* [Garden of Avalon](Novels/GoA.md)
