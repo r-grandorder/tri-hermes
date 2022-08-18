@@ -2626,7 +2626,7 @@ As if to answer it, the giant behind her roars.
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 A scream that shakes the earth.
 
@@ -2646,7 +2646,7 @@ Even I, unable to tell how strong a warrior is, can sense that it is not to be m
 
 "Go...! Kill anything that nears you, Berserker...!"
 
-"[wacky len=12]――――!!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)――――!!"
 
 It's an explosive roar.
 
@@ -2764,7 +2764,7 @@ It has only one end prepared, with it being Saber's defeat as she is hurt more b
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 The roar shakes the ground.
 
@@ -3022,7 +3022,7 @@ Saber created an opening to make Berserker take a large swing――and Saber cha
 
 ---
 
-"[wacky len=9]――!!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-9.png)――!!"
 
 A black howl surges out.
 
@@ -3032,7 +3032,7 @@ She places both hands on her sword and slashes at Berserker with all her might�
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 ――I can't believe it.
 
@@ -3084,7 +3084,7 @@ It has enough magical energy in it to be able to kill Berserker――!
 
 But.
 
-"[wacky len=3], [wacky len=9]――!!!!!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-3.png), ![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-9.png)――!!!!!"
 
 He swings his axe-sword through the air.
 
@@ -3162,7 +3162,7 @@ She knew this was going to happen, yet never told us about it――!
 
 ---
 
-"[wacky len=12]――!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)――!"
 
 Berserker puts power into his grip.
 
@@ -3484,7 +3484,7 @@ Nothing should be impossible. If there's a model, anyone can imitate it. So I ha
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 The giant turns.
 
@@ -3530,7 +3530,7 @@ Our only chance for victory is to spend Saber's scarce magical energy and use th
 
 "EX――"
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 The giant releases Tohsaka and charges straight for Saber.
 
@@ -3746,7 +3746,7 @@ My image of it fell short of the real sword.
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 His eyes stare at me.
 
@@ -3826,7 +3826,7 @@ Now, I bind the illusion and make it a sword――!
 
 ---
 
-"[wacky len=12]――!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)――!"
 
 The giant howls.
 
@@ -3884,7 +3884,7 @@ As I stand there in blank amazement, I notice another hand over my hand.
 
 ---
 
-"[wacky len=12]――!!!!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)――!!!!"
 
 The air shakes violently.
 

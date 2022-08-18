@@ -1,7 +1,7 @@
 # Clocktower 2015
 
 ::: tip
-[Translation by SeiKeo and Leftovers (Beast’s Lair), @guipi2 (Twitter), Compiling and Formatting by ProtoformX. Click link for PDF/EPUB versions!](https://forums.nrvnqsr.com/showthread.php/5269-Clock-Tower-2015?p=3190630&viewfull=1#post3190630)
+[Translation by SeiKeo and Leftovers (Beast’s Lair), @guipi2 (Twitter), Compiling and Formatting by ProtoformX, Edited by Mel (Ch 5). Click link for PDF/EPUB versions!](https://forums.nrvnqsr.com/showthread.php/5269-Clock-Tower-2015?p=3190630&viewfull=1#post3190630)
 :::
 
 ![](https://i.imgur.com/zy9pB5M.png)

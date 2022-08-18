@@ -786,7 +786,7 @@ What I have to accept right now is the battle Shinji is observing.
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 The black giant lets out a roar.
 
@@ -838,7 +838,7 @@ Each one of the weapons appearing from behind the man would cause certain death.
 
 ---
 
-"[wacky len=9]――――!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-9.png)――――!"
 
 They attack.
 
@@ -946,7 +946,7 @@ It is a savage fight where he advances on his enemy as long as he still lives.
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 ...He will not reach the enemy.
 
@@ -958,7 +958,7 @@ That is why he is standing there and provoking the foolishly advancing giant.
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 The black giant does not have a way to win.
 
@@ -970,7 +970,7 @@ Even Berserker himself knows that.
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 But the giant keeps walking forward.
 
@@ -996,7 +996,7 @@ The giant repels most of them, and at the same time, loses most of his life.
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 The black giant shakes.
 
@@ -1034,7 +1034,7 @@ The giant faces this hopeless fight with an iron will.
 
 The magical bullets are fired mercilessly.
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 Repelling it with his axe-sword, the giant corners the man with his body slashed and with his limbs pierced.
 
@@ -1082,7 +1082,7 @@ The giant is aware of that.
 
 ---
 
-"[wacky len=9]――――!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-9.png)――――!"
 
 He roars.
 
@@ -1120,7 +1120,7 @@ The chain that appeared out of nowhere confines Berserker as if binding space it
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 The chain twists Berserker's arms and bends them in a direction they should not go.
 
@@ -1250,7 +1250,7 @@ The girl is pierced in her lung and coughs up blood.
 
 ――――The chains are broken.
 
-"[wacky len=9]――――!!!!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-9.png)――――!!!!"
 
 Shattering his binds, the black giant charges at the man.
 

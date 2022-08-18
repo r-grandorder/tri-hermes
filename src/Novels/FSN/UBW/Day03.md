@@ -1,1744 +1,7 @@
 # FSN UBW Day 03 (EN)
 
 
-
-## Scene 00
-
-
-
-The massive form flies through the air.
-
-In one bound, the thing called Berserker crosses the dozens of meters from the top of the hill――――!
-
----
-
-"―――Shirou, stay back...!"
-
-In the moonlight...
-
-"Bullets" rain down on the descending giant like shooting stars...!
-
----
-
-"[wacky len=15]"
-
-They have extreme accuracy.
-
-The silver lights that are shooting through the giant are indeed "arrows".
-
----
-
-No, the word "arrow" is an understatement.
-
-It's like a barrage from a machine gun, and each shot could pierce through rocks.
-
-―――Eight shots of that.
-
-It should be able to mow down houses, but...
-
----
-
-"No way! It's not doing anything!?"
-
-It has no effect on the giant.
-
----
-
-The two swords clash.
-
-The giant sword of Berserker, who came down through a rain of 'arrows'...
-
-And the sword of Saber, who ran to his landing spot. The two blades spark on contact...!
-
-"Fuh...!"
-
-"[wacky len=6]"
-
-The swords clash.
-
-Even though she is overpowered by Berserker's attack, Saber does not yield.
-
-Silver lights run through the darkness.
-
-How much magical energy is in that small body of hers?
-
-Even though Saber is obviously weaker, she is proving to be a match against Berserker.
-
-She blocks, parries, and faces the assault of that giant sword head-on.
-
----
-
-"――――――――"
-
-I must not be the only one who's awed.
-
-The Master of that giant and the one standing next to me, Tohsaka, are also fascinated by Saber's figure.
-
----
-
-"...! Archer, back her up!"
-
-Tohsaka screams out at once.
-
-In response, a silver light comes flying out of nowhere.
-
----
-
-The silver light strikes the giant right in his temple.
-
-The arrow that came flying through the air is as powerful as a tank shell.
-
-No matter what this giant may be, he has to take some damage from that.
-
----
-
-"――――Got him...!"
-
-Saber slashes with her invisible sword right after the shot connects.
-
-But...
-
-Her attack is countered by a huge blow, and Saber is flung away.
-
----
-
-"Guh...!?"
-
-Saber slides across the asphalt.
-
----
-
-A black whirlwind runs in pursuit, and...
-
-Silver lights come flashing down to intercept him!
-
-But they have no effect.
-
-The three arrows hit the giant square in his forehead, but simply disappear.
-
----
-
-"[wacky len=9]――――!!!!"
-
-The giant does not stop.
-
-Saber blocks the giant blade with her own.
-
----
-
-"Saber...!"
-
-My scream is meaningless.
-
-As Saber blocks Berserker's sword head-on, she is flung away like a ball―――and she falls to the ground.
-
----
-
-"――――!"
-
-Is she dizzy?
-
-Saber has her knees on the ground and does not move.
-
-"――――This is it. Smash her, Berserker."
-
-The girl's voice echoes.
-
-The black giant charges at Saber with brutal speed.
-
----
-
-"Keep firing, Archer...!"
-
-Tohsaka starts running as she screams.
-
-―――She must intend to help Saber.
-
-She runs up the hill while taking out something that looks like a rock.
-
----
-
-"Gewicht, um zu Verdoppel ung――――!"
-
-Tohsaka scatters obsidian jewels in the sky,
-
-and numerous silver lights come flying from the heavens.
-
-Even with that, Berserker's charge does not stop.
-
-"What a――――"
-
-...Monster.
-
-...I finally understand how absurd he is.
-
-That giant isn't just "strong".
-
-He must be protected by some "law" of immortality created from abnormal amounts of magical energy.
-
----
-
-"Good, ignore the annoying ones.
-
-Archer and Rin shouldn't be able to get past your Noble Phantasm."
-
-The girl's voice rings out.
-
-The giant's sword is swung.
-
----
-
-And...
-
-Saber bravely blocks it with her sword and is flung away once again.
-
-―――She flies dozens of meters.
-
-Saber flies through the air like a pitcher's fastball and plows into the open terrain off the road.
-
----
-
-"――――――――"
-
-She must be dead.
-
-Once is bad enough.
-
-But she can't be okay after receiving such a blow twice.
-
----
-
-The black whirlwind moves.
-
-The match is already decided, but he's not done yet.
-
-The giant called Berserker roars and charges onto the open land.
-
----
-
-"――――――――"
-
-She'll die.
-
-Even if Saber's still alive, she'll surely die now.
-
-...And.
-
-As long as I'm here, I'm sure I'll die as well.
-
----
-
-'If you can, try to run away.'
-
-The one who said that isn't here.
-
-Tohsaka went after Berserker.
-
-She must intend to keep fighting against this monster that is unscathed by all those attacks.
-
----
-
-"――――――――"
-
-I―――
-
----
-
-## Scene 01
-
-
-
-...I can't move from here.
-
-I'm not obedient enough to follow her words and run away.
-
-But I can't go after Berserker either.
-
----
-
-I'm scared of going up against that monster.
-
-But more than that―――what can I do even if I go?
-
----
-
-"Damn――――it."
-
-I stand by myself in the dark.
-
-...It's vexing, but I have no way to fight.
-
-I can neither help Saber nor fight Berserker.
-
-If there's anything I can do, it's run to a safe place right now.
-
----
-
-"!?"
-
-I hear unfamiliar noises from the top of the hill―――from the open area that Saber was flung into.
-
----
-
-If I remember correctly, that's the foreigners' cemetery.
-
-Saber and Berserker.
-
-Their fight must still be going on.
-
----
-
-"......!"
-
-This is my final decision.
-
-I―――
-
----
-
-## Scene 02
-
-
-
-Tohsaka is right.
-
-Saber drew Berserker away from here.
-
-Then I should get away from this dangerous place and await Saber's return――――
-
----
-
-"Haa... Haa... Haa..."
-
-I passed the bridge from Shinto and ran straight home.
-
-I never looked back as I ran.
-
-I don't know if I was scared of the unknown pursuer or if I felt guilty for leaving Saber behind.
-
-...Anyway, I desperately ran here.
-
----
-
-"――――――――"
-
-...The living room is just as I left it.
-
-The air has been motionless ever since Lancer attacked and Tohsaka came here.
-
-I go near the restored window.
-
-I find two small pieces of glass on the floor that Tohsaka must have overlooked.
-
----
-
-"...There's no crack in the glass... I wonder how Tohsaka made up for these pieces."
-
-I murmur to myself.
-
-...I don't know why, but I don't feel like turning the lights on.
-
-I hide in the darkness as if to hide my weakness.
-
----
-
-"......"
-
-What I should be thinking about.
-
-What I should say.
-
-I'm running away from these things.
-
-...The people that were here until a few hours ago.
-
-The people who were by my side until a few minutes ago.
-
-I have to ask myself if it was right to leave them behind, but I can't bring myself to get out of the dark.
-
----
-
-The wall clock points to three.
-
-...It's been thirty minutes since then.
-
-No matter who won, I'm sure the battle is over now.
-
----
-
-"――――――――"
-
-I should go back.
-
-When I raise my head to turn the lights on and cheer myself up...
-
-A sharp pain runs through my left hand.
-
----
-
-"...The Command Spell...?"
-
-The color has faded from my Command Spell.
-
-Even though the shape is still there, the bright light that proves I am Saber's Master has disappeared.
-
-I understand instinctively what that means.
-
-"Saber...!"
-
-I follow my instinct and run out from the darkness.
-
----
-
-I run outside.
-
-I won't make it now.
-
-I know I can't make it, but I start to run back...
-
-And I'm stabbed in the heart by some unknown thing.
-
----
-
-" , "
-
-...I can't hear too well.
-
-I can tell there's someone in front of me, the one who stabbed my heart, but I can't see very clearly.
-
----
-
-" ―――? , "
-
-The one in front of me sneers and tells me I am stupid.
-
-The one in front of me is laughing that I have no way of surviving without my Servant.
-
----
-
-"Oh――――, ........"
-
-...That's right.
-
-Emiya Shirou will be killed the instant Saber is lost.
-
-As I don't have a way to protect myself, I have no way to survive without Saber.
-
----
-
-But I didn't realize that, and I secluded myself.
-
-This is the result.
-
-It doesn't matter if I'm in the house or if I run away somewhere.
-
----
-
-"G―――uh――――"
-
-...My mind starts to fade.
-
-I don't care who it is or what I got stabbed by.
-
-It doesn't matter if I die today or tomorrow.
-
----
-
-Because...
-
-The instant my Command Spell lost its brightness, my life was lost as well――――
-
----
-
-## Scene 03
-
-
-
-"――――――――"
-
-I know I won't be able to do anything even if I do go.
-
-But still――――I still feel her hand in mine.
-
-I told her we'll try our best.
-
-She shook the hand I held out.
-
-So――――
-
----
-
-"Man, there's nothing else I can do...!!"
-
-I'll be killed if I go up the hill after that giant.
-
-My body is trembling from that fact, but I suppress it and run up the slope.
-
----
-
-"Saber――――!"
-
-I run into the open land.
-
-...And then.
-
-The scenery that awaits me there is totally unexpected.
-
----
-
-Gravestones are flying around.
-
-Every time the giant swings his sword, the heavy gravestones are split in two.
-
-―――In the midst of it...
-
-A knight bravely runs through the storm of gravestones.
-
----
-
-The axe-sword rages around.
-
-Gravestones are flung aside.
-
-In the chaos, Saber is fighting Berserker with the same―――no, with more power than before.
-
----
-
-"――――――――"
-
-"[wacky len=9]"
-
-Their positions are reversed here.
-
-The advantage belongs to someone with a small body like Saber.
-
-Berserker is hindered by obstacles,
-
-and Saber acts as if there's nothing in her way.
-
----
-
-I'm sure that a hindrance of this degree is only trivial for Berserker.
-
-But it's more than nothing.
-
-It's only a slight difference, but that slight difference is tipping the scale the other way now―――
-
----
-
-"This way...! You'll get hit if you're there!"
-
-"Huh!? Whoa...!?"
-
-"What are you thinking!? I told you to run away, right!? Or did you not hear me!?"
-
-She's really angry.
-
----
-
-"Um―――I heard you. But I can't just run away, right?"
-
----
-
-"What!? How could you reach that conclusion!? Can't you tell that you'll only be a bother to us since you can't fight!? It can't be helped if you die
-
-trying to make a difference, but it'd be meaningless if you die doing nothing!"
-
----
-
-"――――?"
-
-...I don't know why, but Tohsaka is seriously angry.
-
-Even though I'm getting yelled at, I don't feel bad for some reason.
-
----
-
-"―――Hey, is that something you should get mad about? It shouldn't matter to you if I die meaninglessly or not."
-
-"It does matter! I told you I'd let you go for all of today, so it'll trouble me if you don't get home safely!"
-
----
-
-"......"
-
-...I'm confused even more now.
-
-Tohsaka sure had a different face on at school.
-
----
-
-"―――Geez. Anyway, you're not hurt, so run away right now.
-
-That Illyasviel girl intends to kill us all."
-
----
-
-"I know that. But I can't run away. Saber's fighting, so I can't run away by myself."
-
----
-
-"...That's a line for someone who can make a difference. You'll just die a meaningless death, as you can't do anything to support her.
-
-This is your last warning. Just run away."
-
-"That can't be true. There should be something I can do as long as I'm alive. And besides, are you going to ask someone to do something that you can't do?"
-
----
-
-"――――――――"
-
-Tohsaka looks at me with a serious expression.
-
-"...You're right. I'm the shameless one for asking you to do something I can't do."
-
----
-
-She looks away.
-
-"―――Well, I don't think there's a need to run away. I don't think Saber will lose now."
-
-Tohsaka takes a peek from behind the tree.
-
----
-
-Their battle is continuing without change.
-
-Berserker's attacks smash through empty space and only destroy his surroundings.
-
----
-
-Between the attacks...
-
-Within the swirling whirlwind and flying clods...
-
-Within the rain of broken gravestones...
-
-Saber rushes in without even dirtying her armor and attacks Berserker.
-
----
-
-"......"
-
-It is a divine work of utmost excellence.
-
-My fear has disappeared, seeing this battle that is totally impossible for mere humans.
-
-Instead, I am fascinated.
-
----
-
-I could not believe I was in this Holy Grail War thing, and I also had some uneasiness.
-
-But all of it is blown away when I see her.
-
----
-
-Dancing swords.
-
-Within the whirlwind of fatal destruction, the knight challenges the enemy without hesitation.
-
----
-
-...Maybe this scene made me accept everything.
-
-No matter what may fall upon us in the future...
-
-I'm convinced that I will be able to match even a fierce god if I have Saber with me.
-
----
-
-"...I thought so. It was strange, but she blocked Berserker's sword on purpose."
-
-Tohsaka murmurs without emotion.
-
----
-
-"...Was that to lure Berserker here?"
-
-"Yup. It's suicidal to fight Berserker in a place without cover. That's why Saber chose this place as the battleground.
-
-She did it naturally, too. She got Berserker away from you, all the while she pretended to be cornered."
-
----
-
-"――――――――"
-
-...Then...
-
-Saber must have determined that this place was a suitable battlefield when we were walking down the hill.
-
----
-
-"But you can't expect backup in a battle like this.
-
-Our enemy is a monster that even nullifies Archer's arrows.
-
-Backup was meaningless from the start."
-
-Tohsaka murmurs as
-
-she watches the battle between Saber and Berserker.
-
----
-
-"...Archer's arrows..."
-
-But those words catch my attention.
-
-Archer isn't here.
-
-If he really is an archer, he should not fight hand-to-hand, but――――
-
----
-
-"She got him――――!"
-
-Tohsaka snaps her fingers.
-
-Just as she said... Saber's sword must have hit Berserker, or he must have lost his footing.
-
-Berserker's body, holding firm until now, loses its balance.
-
----
-
-"[wacky len=9]―――――――"
-
-The beast lashes out desperately.
-
-Saber dodges it by jumping back, and holds her sword with both hands.
-
----
-
-――――This is it.
-
-As his desperate attack is dodged, Berserker loses his balance even more,
-
-and Saber bends her knees to charge in with all her power.
-
----
-
-Right then...
-
-"――――Archer...? What do you mean, get away...?"
-
-I notice Tohsaka's confused voice, and sense an intent to kill aimed from a faraway place.
-
----
-
-"――――――――"
-
-Behind me.
-
-I see the knight in red standing on a rooftop hundreds of meters away, readying his bow.
-
----
-
-"――――――――"
-
-It's either nausea or a chill.
-
-He's readying a bow.
-
-A bow that's no different from before.
-
-It cannot even scratch Berserker, even with a direct hit.
-
-So there is no need to feel any threat from it――――
-
----
-
-"――――――――"
-
-―――I feel a chill.
-
-What he is readying in his bow is not an "arrow", but something completely different.
-
-And his intent to kill isn't just directed at Berserker.
-
----
-
-"Sab――――"
-
-I act instantly.
-
-I―――
-
----
-
-## Scene 04
-
-
-
-I can't be a burden on Saber.
-
-I can't do anything even if I follow them, and Saber should be able to run away if she's by herself.
-
-Saber got Berserker away from here.
-
-If she was protecting me, I can't stay in this dangerous place forever――――
-
----
-
-"Haa... Haa... Haa..."
-
-I passed the bridge from Shinto and ran straight home.
-
-I never looked back as I ran.
-
-I don't know if I was scared of the unknown pursuer or if I felt guilty for leaving Saber behind.
-
-...Anyway, I desperately ran here.
-
----
-
-"――――――――"
-
-...The living room is just as I left it.
-
-The air has been motionless ever since Lancer attacked and Tohsaka came here.
-
-I go near the restored window.
-
-I find two small pieces of glass on the floor that Tohsaka must have overlooked.
-
----
-
-"...There's no crack in the glass... I wonder how Tohsaka made up for these pieces."
-
-I murmur to myself.
-
-...I don't know why, but I don't feel like turning the lights on.
-
-I hide in the darkness as if to hide my weakness.
-
----
-
-"......"
-
-What I should be thinking about.
-
-What I should say.
-
-I'm running away from these things.
-
-...The people that were here until a few hours ago.
-
-The people who were by my side until a few minutes ago.
-
-I have to ask myself if it was right to leave them behind, but I can't bring myself to get out of the dark.
-
----
-
-The wall clock points to three.
-
-...It's been thirty minutes since then.
-
-No matter who won, I'm sure the battle is over now.
-
----
-
-"――――――――"
-
-I should go back.
-
-When I raise my head to turn the lights on and cheer myself up...
-
-A sharp pain runs through my left hand.
-
----
-
-"...The Command Spell...?"
-
-The color has faded from my Command Spell.
-
-Even though the shape is still there, the bright light that proves I am Saber's Master has disappeared.
-
-I understand instinctively what that means.
-
-"Saber...!"
-
-I follow my instinct and run out from the darkness.
-
----
-
-I run outside.
-
-I won't make it now.
-
-I know I can't make it, but I start to run back...
-
-And I'm stabbed in the heart by some unknown thing.
-
----
-
-" , "
-
-...I can't hear too well.
-
-I can tell there's someone in front of me, the one who stabbed my heart, but I can't see very clearly.
-
----
-
-" ―――? , "
-
-The one in front of me sneers and tells me I am stupid.
-
-The one in front of me is laughing that I have no way of surviving without my Servant.
-
----
-
-"Oh――――........"
-
-...That's right.
-
-Emiya Shirou will be killed the instant Saber is lost.
-
-As I don't have a way to protect myself, I have no way to survive without Saber.
-
----
-
-But I didn't realize that, and I secluded myself.
-
-This is the result.
-
-It doesn't matter if I'm in the house or if I run away somewhere.
-
----
-
-"G―――uh――――"
-
-...My mind starts to fade.
-
-I don't care who it is or what I got stabbed by.
-
-It doesn't matter if I die today or tomorrow.
-
----
-
-Because...
-
-The instant my Command Spell lost its brightness, my life was lost as well――――
-
----
-
-## Scene 05
-
-
-
-...The battle continues.
-
-Saber is fighting to protect me.
-
-Then―――I should go even if there's nothing I can do.
-
----
-
-The two Command Spells engraved on my hand...
-
-I am standing here after swearing to fight as a Master and shaking hands with Saber.
-
----
-
-"Geez――――What am I doing...!?"
-
-I run, ignoring all hesitation and fear.
-
-―――I'll be killed if I go after them.
-
-I suppress my trembling body with force and obstinacy, and I run up the hill.
-
-"Get back, Emiya-kun. You'll get in Saber's way if you go any farther."
-
-I stop as she grabs my shoulder.
-
----
-
-"Did you hear me? I told you that you should keep quiet and watch since Saber's going to win.
-
-...Well, I think you can tell that yourself though."
-
-She must have been hiding behind a tree, as she calls out to me with a calm voice.
-
----
-
-"Huh? Saber will win...?"
-
-Against that monster?
-
-Saber will win against that giant she couldn't even match until now?
-
----
-
-"Heh. You look like you don't believe me.
-
-Why don't you take a look? I don't want to admit this, but your Servant is great in all aspects. Saber should be able to beat Berserker."
-
-Tohsaka snorts and hides behind the tree.
-
----
-
-――――Clashing swords.
-
-Berserker's attacks smash through empty space and only destroy his surroundings.
-
-Between the attacks...
-
-Within the swinging whirlwind, flying clods, and the rain of broken gravestones, Saber rushes in without even dirtying her armor and attacks Berserker.
-
----
-
-"......"
-
-It is a divine work of utmost excellence.
-
-My fear has disappeared, seeing this battle that is totally impossible for mere humans.
-
-Instead, I am fascinated.
-
----
-
-I could not believe I was in this Holy Grail War thing, and I also had some uneasiness.
-
-But all that is blown away when I see her.
-
----
-
-Dancing swords.
-
-Within the whirlwind of fatal destruction, the knight challenges the enemy without hesitation.
-
----
-
-...Maybe this scene made me accept everything.
-
-No matter what may befall us in the future...
-
-I'm convinced that I will be able to match even a fierce god if I have Saber with me.
-
----
-
-"...I thought so. It was strange, but she blocked Berserker's sword on purpose."
-
-Tohsaka murmurs without emotion.
-
----
-
-"...Was that to lure Berserker here?"
-
-"Yup. It's suicidal to fight Berserker in a place without cover. That's why Saber chose this place as the battleground. She did it naturally, too. She got Berserker away from you, all the while she pretended to be cornered."
-
----
-
-"――――――――"
-
-...Then...
-
-Saber must have determined that this place was a suitable battlefield when we were walking down the hill.
-
----
-
-"But you can't expect backup in a battle like this.
-
-Our enemy is a monster that even nullifies Archer's arrows.
-
-Backup was meaningless from the start."
-
-Tohsaka murmurs as she watches the battle between Saber and Berserker.
-
----
-
-"...Archer's arrows..."
-
-But those words catch my attention.
-
-Archer isn't here.
-
-If he really is an archer, he should not fight hand-to-hand, but――――
-
----
-
-"She got him――――!"
-
-Tohsaka snaps her fingers.
-
-Just as she said... Saber's sword must have hit Berserker, or Berserker must have lost his footing.
-
-Berserker's body, holding firm until now, loses its balance.
-
----
-
-"[wacky len=9]―――――――"
-
-The beast lashes out desperately.
-
-Saber dodges it by jumping back, and holds her sword with both hands.
-
----
-
-――――This is it.
-
-As his desperate attack was dodged, Berserker loses his balance even more,
-
-and Saber bends her knees to charge in with all her power.
-
----
-
-Right then...
-
-"――――Archer...? What do you mean, get away...?"
-
-I notice Tohsaka's confused voice and sense an intent to kill aimed from a faraway place.
-
----
-
-"――――――――"
-
-Behind me.
-
-I see the knight in red standing on a rooftop hundreds of meters away, readying his bow.
-
----
-
-"――――――――"
-
-It's either nausea or a chill.
-
-He's readying a bow.
-
-A bow that's not any different from before.
-
-It cannot even scratch Berserker, even with a direct hit.
-
-So there is no need to feel any threat from it――――
-
----
-
-"――――――――"
-
-―――I feel a chill.
-
-What he is readying in his bow is not an "arrow", but something completely different.
-
-And his intent to kill isn't just directed at Berserker.
-
----
-
-"Sab――――"
-
-I act instantly.
-
-I―――
-
----
-
-## Scene 06
-
-
-
-"No! Come back, Saber――――!"
-
-When I notice, I'm yelling at the top of my lungs.
-
----
-
-"Master――――!?"
-
-She looks dumbfounded.
-
-Saber slows down as she hears my voice.
-
-But that's not enough. She won't make it if she only slows down...!
-
----
-
-"It is dangerous, so please stay back...!"
-
-"No, you're in danger! Just come here...!"
-
-I reach out to her with my hand.
-
----
-
-"I am...? ――――!?"
-
-She must have understood me, as she turns her back to Berserker and jumps away with all her might.
-
----
-
-Right after her retreat...
-
-He shoots the "arrow".
-
----
-
-Saber jumps back like a spark, and Berserker tries to pursue Saber.
-
-Archer's arrow is fired right between them.
-
-Archer's arrows have not had any effect so far.
-
-The black giant ignores it, as if saying it's not worth blocking.
-
----
-
-But at that moment...
-
----
-
-"[wacky len=15]"
-
-The black giant turns his back to us and attacks the "arrow" coming at him with all his might――――
-
----
-
-――――In that instant...
-
-All sound is lost.
-
----
-
-"――――――――!"
-
-I throw myself on top of Saber and brace myself.
-
-Maybe I've gone deaf, as I can't hear anything.
-
-All I can feel is the heat burning my skin and the shaking of the ground.
-
-Many things go flying through the air, and a piece of something pierces my back.
-
----
-
-"......!"
-
-I grit my teeth and endure it.
-
-The blinding light must have only lasted for an instant.
-
-I manage to survive the destruction.
-
----
-
-"Wha――――"
-
-Saber is staring in astonishment.
-
-...I'm doing the same as well.
-
-I don't know what happened.
-
-Archer's "arrow" razed this cemetery in an instant.
-
-There's a crater at the center of the explosion.
-
-Archer has created this destruction.
-
-But the giant still exists in spite of such abolition.
-
----
-
-"Berserker... He is unwounded even after taking a direct hit from a Rank-A Noble Phantasm――――"
-
-Saber's voice is weak.
-
-Sparks are flying through the night air.
-
-The black giant is standing still in the fire, and everybody here watches this terrible spectacle without words.
-
----
-
-The crackling of the flames is the only sound present.
-
-Right when I start to think that this might turn into a big fire...
-
-"Huh...?"
-
-Something rolls towards me with a noise.
-
----
-
-"...A sword?"
-
-No, it is an "arrow".
-
-An arrow with a gorgeous hilt and a spiral blade.
-
-...Even if it's a sword, it is an "arrow" if it's used as a projectile.
-
----
-
-"――――――――"
-
-I don't know why it catches my attention so much.
-
-The arrow broken by Berserker disappears as if melting into the fire.
-
-It fades away like candy melting under heat.
-
----
-
-It――――
-
-――――Makes me feel like vomiting for some reason.
-
----
-
-"――――Shirou, that was..."
-
-"It was Archer's arrow. I don't know anything else about it."
-
-I raise my head to look at the distant Archer.
-
----
-
-"――――――――!"
-
-I shouldn't be able to see him.
-
-I shouldn't be able to see him, but I do.
-
-He's smiling.
-
-He's smiling as if to tell me that he wasn't aiming just at Berserker.
-
----
-
-"Damn him――――!"
-
-I feel a headache.
-
-The chill running down my back won't go away.
-
-My spine is burning like it does when I fail to create a Magic Circuit――――
-
----
-
-"...Hm. I have a better opinion of you, Rin. Your Archer's pretty good."
-
-The girl's cheerful voice echoes through the air.
-
----
-
-"All right, come back, Berserker. I wanted to get the boring stuff over with first, but I've changed my mind."
-
-...The black shadow wavers.
-
-The giant starts to retreat through the fire.
-
----
-
-"―――What? You're running away after all this?"
-
-"Yup, I've changed my mind. I don't want Saber, but I'm interested in Archer now. So I'll let you live for a bit longer."
-
----
-
-The giant disappears.
-
-The girl giggles.
-
-"Goodbye. Let's play again, Onii-chan."
-
-Saying this, she goes away.
-
----
-
-"......"
-
-The unexpected disaster leaves.
-
-Tohsaka must not intend to follow that girl in spite of what she said.
-
-Even I can tell that the girl let us go.
-
-So I don't think Tohsaka will go and seek out such a reckless fight.
-
----
-
-"Thank you, Master. I would have been hit by Archer's Noble Phantasm if you had not called out to me."
-
-"O――――Oh, I'm glad to hear that."
-
----
-
-"Master...?"
-
-...What's wrong with me?
-
-Even though I'm not wounded, I feel sick, and my consciousness is...
-
----
-
-"Emiya-kun? You look really pale."
-
-"Master...? Shirou...!"
-
-...My knees buckle.
-
-My vision goes white.
-
----
-
-"Please pull yourself together! What is going on...!?"
-
-...I feel someone support me as I start to fall.
-
-But the feeling fades as all my senses go away.
-
----
-
-――――What's left is this throbbing within me.
-
-What's irritating me?
-
-And what am I so concerned about?
-
-...I'm about to fall unconscious, but my head continues to throb.
-
----
-
-## Scene 07
-
-
-
-"Saber――――!!!"
-
-Before I realize it, I'm running out from my cover.
-
----
-
-"Hey, hold on――――!"
-
-I run at full speed towards Saber.
-
-"Shirou――――?"
-
-She looks dumbfounded.
-
-Saber sees me and stops her attack on Berserker.
-
----
-
-I can make it――――!
-
-I can feel the danger coming up behind me.
-
-"W-Why did you come out...!?"
-
-I ignore her, run to her at full speed, and grab her arm――――!
-
----
-
-"Are you insane, Master...!?"
-
-"We'll talk later! Just come this way――――"
-
-I grab Saber in my arms and jump away.
-
----
-
-――――The "arrow" is released.
-
-Archer's arrows have not had any effect so far.
-
-The black giant ignores it, as if saying it is not worth blocking.
-
-But at that moment...
-
----
-
-"[wacky len=15]"
-
-The black giant turns his back to us and attacks the "arrow" coming at him with all his might――――
-
----
-
-――――In that instant...
-
-All sound is lost.
-
----
-
-"――――――――!"
-
-I throw myself on top of Saber and brace myself.
-
-Maybe I've gone deaf, as I can't hear anything.
-
-All I can feel is the heat burning my skin and the shaking of the ground.
-
-Many things go flying through the air, and a piece of something pierces my back.
-
----
-
-"......!"
-
-I grit my teeth and endure it.
-
-The blinding light must have only lasted for an instant.
-
-I manage to survive the destruction.
-
----
-
-"Wha――――"
-
-Saber is staring in astonishment.
-
-...I'm doing the same as well.
-
-I don't know what happened.
-
-Archer's "arrow" razed this cemetery in an instant.
-
-There is a crater at the center of the explosion.
-
-Archer has created this destruction.
-
-But the giant still exists in spite of such abolition.
-
----
-
-"Berserker... He is unwounded even after taking a direct hit from a Rank-A Noble Phantasm――――"
-
-Saber's voice is weak.
-
-Sparks are flying through the night air.
-
-The black giant is standing still in the fire, and everybody here watches this terrible spectacle without words.
-
----
-
-The crackling of the flames is the only sound present.
-
-Right when I start to think that this might turn into a big fire...
-
-"Huh...?"
-
-Something rolls towards me with a noise.
-
----
-
-"...A sword?"
-
-No, it is an "arrow".
-
-An arrow with a gorgeous hilt and a spiral blade.
-
-...Even if it's a sword, it is an "arrow" if it's used as a projectile.
-
----
-
-"――――――――"
-
-I don't know why it catches my attention so much.
-
-The arrow broken by Berserker disappears as if melting into the fire.
-
-It fades away like candy melting under heat.
-
----
-
-It――――
-
-――――Makes me feel like vomiting for some reason.
-
----
-
-"――――Shirou, that was..."
-
-"It was Archer's arrow. I don't know anything else about it."
-
-I raise my head to look at the distant Archer.
-
----
-
-"――――――――!"
-
-I shouldn't be able to see him.
-
-I shouldn't be able to see him, but I do.
-
-He's smiling.
-
-He's smiling as if to tell me that he wasn't aiming just at Berserker.
-
----
-
-"Damn him――――!"
-
-I feel a headache.
-
-The chill running down my back won't go away.
-
-My spine is burning like it does when I fail to create a Magic Circuit――――
-
----
-
-"...Hm. I have a better opinion of you, Rin. Your Archer's pretty good."
-
-The girl's cheerful voice echoes through the air.
-
----
-
-"All right, come back, Berserker. I wanted to get the boring stuff over with first, but I've changed my mind."
-
-...The black shadow wavers.
-
-The giant starts to retreat through the fire.
-
----
-
-"―――What? You're running away after all this?"
-
-"Yup, I've changed my mind. I don't want Saber, but I'm interested in Archer now. So I'll let you live for a bit longer."
-
----
-
-The giant disappears.
-
-The girl giggles.
-
-"Goodbye. Let's play again, Onii-chan."
-
-Saying this, she goes away.
-
----
-
-"......"
-
-The unexpected disaster leaves.
-
-Tohsaka must not intend to follow that girl in spite of what she said.
-
-Even I can tell that the girl let us go.
-
-So I don't think Tohsaka will go and seek out such a reckless fight.
-
----
-
-"Master. I thank you for saving me.
-
-But can you let go of me now?"
-
-...I hear Saber's calm voice.
-
----
-
-"Oh――――Yeah, sorry about that."
-
-I manage to answer despite my throbbing head.
-
-I let Saber go, and when I stand up...
-
-I fall on my butt.
-
----
-
-"Shirou? What is wrong? Do you not feel well――――Shirou, your back...!"
-
-Saber sounds tense.
-
-...I can't see Saber's face, probably because of my pounding headache.
-
-Saber supports me and puts her hand behind my back.
-
----
-
-"Ouch."
-
-I feel a sharp pain.
-
-...Even though it's not as strong as my headache, there's a sharp pain running through my back.
-
----
-
-"...This is terrible. It is dangerous like this. Please hold still while I remove this piece."
-
-"Huh? What do you mean by that...?"
-
-......!
-
-She doesn't hesitate.
-
-Saber forcefully pulls something out of my back.
-
----
-
-"Ou――――You're rough――――"
-
-I try to control my breathing.
-
-...I'm a magus, even though I may be an amateur.
-
-I can manage this pain.
-
----
-
-"Haa――――Haa, haa――――"
-
-But this felt especially bad.
-
-If I had a wing on my back and it was pulled out, I'm sure that's what it would feel like.
-
----
-
-"Your wound is healing... I see, you had a way to heal yourself."
-
-Sighing with relief, Saber says something strange.
-
----
-
-"...?"
-
-A way to heal myself?
-
-I shouldn't be able to use such difficult magecraft.
-
----
-
-"Are you all right, Emiya-kun?"
-
-...Tohsaka comes to us.
-
-I raise my hand to tell her I'm all right.
-
----
-
-"I see. Then let's go. People might come here with all the commotion we've caused."
-
-Tohsaka runs out of the cemetery, her long hair fluttering behind her.
-
----
-
-"――――――――"
-
-When I plant a foot to follow after her...
-
-My vision suddenly goes white.
-
----
-
-"Master...!?"
-
-...I feel someone support me as I start to fall.
-
-But the feeling fades as all my senses go away.
-
----
-
-――――What's left is this throbbing within me.
-
-What's irritating me?
-
-And what am I so concerned about?
-
-...I'm about to fall unconscious, but my head continues to throb.
-
----
-
-## Scene 09
+## Scene 00; Stop Her
 
 
 
@@ -2136,7 +399,7 @@ Tohsaka walks over to the broken window.
 
 Tohsaka takes a piece of the shattered glass, takes a look at it, and...
 
-"―――Minuten vor Schwei[szlig]en"
+"―――Minuten vor Schweißen"
 
 She cuts the tip of her finger and puts a drop of her blood onto the glass.
 
@@ -2540,7 +803,7 @@ The one thing I can tell you is that all you can do now is fight, and since Serv
 
 ---
 
-## Scene 10
+## Scene 01; Night, Rin, Church
 
 
 
@@ -3360,7 +1623,7 @@ And one of those is the Holy Grail from the Holy Grail War observed in this town
 
 According to records, it is said that the first battle occurred about 200 years ago.
 
-Since then, the battles between Masters have been repeating in a cycle of about 60 years.
+Since then, the battles between Masters have been repeating in a cycle of about 50 years.
 
 This is the fifth Holy Grail War. Since the last one was ten years ago, this will be the shortest cycle yet."
 
@@ -3870,7 +2133,7 @@ He says so as I quickly make my way out.
 
 ---
 
-## Scene 11
+## Scene 02; Night, Returning Home, Illya
 
 
 
@@ -4351,8 +2614,1752 @@ Perhaps she liked Tohsaka's reaction, as the girl smiles happily. And then...
 ...She orders the strange shape behind her, as if she's singing.
 
 ---
+## Scene 03; VS Berserker
 
-## Scene 12
+
+
+The massive form flies through the air.
+
+In one bound, the thing called Berserker crosses the dozens of meters from the top of the hill――――!
+
+---
+
+"―――Shirou, stay back...!"
+
+In the moonlight...
+
+"Bullets" rain down on the descending giant like shooting stars...!
+
+---
+
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-16.png)"
+
+They have extreme accuracy.
+
+The silver lights that are shooting through the giant are indeed "arrows".
+
+---
+
+No, the word "arrow" is an understatement.
+
+It's like a barrage from a machine gun, and each shot could pierce through rocks.
+
+―――Eight shots of that.
+
+It should be able to mow down houses, but...
+
+---
+
+"No way! It's not doing anything!?"
+
+It has no effect on the giant.
+
+---
+
+The two swords clash.
+
+The giant sword of Berserker, who came down through a rain of 'arrows'...
+
+And the sword of Saber, who ran to his landing spot. The two blades spark on contact...!
+
+"Fuh...!"
+
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-9.png)"
+
+The swords clash.
+
+Even though she is overpowered by Berserker's attack, Saber does not yield.
+
+Silver lights run through the darkness.
+
+How much magical energy is in that small body of hers?
+
+Even though Saber is obviously weaker, she is proving to be a match against Berserker.
+
+She blocks, parries, and faces the assault of that giant sword head-on.
+
+---
+
+"――――――――"
+
+I must not be the only one who's awed.
+
+The Master of that giant and the one standing next to me, Tohsaka, are also fascinated by Saber's figure.
+
+---
+
+"...! Archer, back her up!"
+
+Tohsaka screams out at once.
+
+In response, a silver light comes flying out of nowhere.
+
+---
+
+The silver light strikes the giant right in his temple.
+
+The arrow that came flying through the air is as powerful as a tank shell.
+
+No matter what this giant may be, he has to take some damage from that.
+
+---
+
+"――――Got him...!"
+
+Saber slashes with her invisible sword right after the shot connects.
+
+But...
+
+Her attack is countered by a huge blow, and Saber is flung away.
+
+---
+
+"Guh...!?"
+
+Saber slides across the asphalt.
+
+---
+
+A black whirlwind runs in pursuit, and...
+
+Silver lights come flashing down to intercept him!
+
+But they have no effect.
+
+The three arrows hit the giant square in his forehead, but simply disappear.
+
+---
+
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-9.png)――――!!!!"
+
+The giant does not stop.
+
+Saber blocks the giant blade with her own.
+
+---
+
+"Saber...!"
+
+My scream is meaningless.
+
+As Saber blocks Berserker's sword head-on, she is flung away like a ball―――and she falls to the ground.
+
+---
+
+"――――!"
+
+Is she dizzy?
+
+Saber has her knees on the ground and does not move.
+
+"――――This is it. Smash her, Berserker."
+
+The girl's voice echoes.
+
+The black giant charges at Saber with brutal speed.
+
+---
+
+"Keep firing, Archer...!"
+
+Tohsaka starts running as she screams.
+
+―――She must intend to help Saber.
+
+She runs up the hill while taking out something that looks like a rock.
+
+---
+
+"Gewicht, um zu Verdoppel ung――――!"
+
+Tohsaka scatters obsidian jewels in the sky,
+
+and numerous silver lights come flying from the heavens.
+
+Even with that, Berserker's charge does not stop.
+
+"What a――――"
+
+...Monster.
+
+...I finally understand how absurd he is.
+
+That giant isn't just "strong".
+
+He must be protected by some "law" of immortality created from abnormal amounts of magical energy.
+
+---
+
+"Good, ignore the annoying ones.
+
+Archer and Rin shouldn't be able to get past your Noble Phantasm."
+
+The girl's voice rings out.
+
+The giant's sword is swung.
+
+---
+
+And...
+
+Saber bravely blocks it with her sword and is flung away once again.
+
+―――She flies dozens of meters.
+
+Saber flies through the air like a pitcher's fastball and plows into the open terrain off the road.
+
+---
+
+"――――――――"
+
+She must be dead.
+
+Once is bad enough.
+
+But she can't be okay after receiving such a blow twice.
+
+---
+
+The black whirlwind moves.
+
+The match is already decided, but he's not done yet.
+
+The giant called Berserker roars and charges onto the open land.
+
+---
+
+"――――――――"
+
+She'll die.
+
+Even if Saber's still alive, she'll surely die now.
+
+...And.
+
+As long as I'm here, I'm sure I'll die as well.
+
+---
+
+'If you can, try to run away.'
+
+The one who said that isn't here.
+
+Tohsaka went after Berserker.
+
+She must intend to keep fighting against this monster that is unscathed by all those attacks.
+
+---
+
+"――――――――"
+
+I―――
+
+>Don't Go
+>Do As Tohsaka Said
+>Follow Them
+---
+
+## Scene 04; Don't Go
+
+
+
+...I can't move from here.
+
+I'm not obedient enough to follow her words and run away.
+
+But I can't go after Berserker either.
+
+---
+
+I'm scared of going up against that monster.
+
+But more than that―――what can I do even if I go?
+
+---
+
+"Damn――――it."
+
+I stand by myself in the dark.
+
+...It's vexing, but I have no way to fight.
+
+I can neither help Saber nor fight Berserker.
+
+If there's anything I can do, it's run to a safe place right now.
+
+---
+
+"!?"
+
+I hear unfamiliar noises from the top of the hill―――from the open area that Saber was flung into.
+
+---
+
+If I remember correctly, that's the foreigners' cemetery.
+
+Saber and Berserker.
+
+Their fight must still be going on.
+
+---
+
+"......!"
+
+This is my final decision.
+
+I―――
+
+---
+
+## Scene 05; Do As Tohsaka Said
+
+
+
+Tohsaka is right.
+
+Saber drew Berserker away from here.
+
+Then I should get away from this dangerous place and await Saber's return――――
+
+---
+
+"Haa... Haa... Haa..."
+
+I passed the bridge from Shinto and ran straight home.
+
+I never looked back as I ran.
+
+I don't know if I was scared of the unknown pursuer or if I felt guilty for leaving Saber behind.
+
+...Anyway, I desperately ran here.
+
+---
+
+"――――――――"
+
+...The living room is just as I left it.
+
+The air has been motionless ever since Lancer attacked and Tohsaka came here.
+
+I go near the restored window.
+
+I find two small pieces of glass on the floor that Tohsaka must have overlooked.
+
+---
+
+"...There's no crack in the glass... I wonder how Tohsaka made up for these pieces."
+
+I murmur to myself.
+
+...I don't know why, but I don't feel like turning the lights on.
+
+I hide in the darkness as if to hide my weakness.
+
+---
+
+"......"
+
+What I should be thinking about.
+
+What I should say.
+
+I'm running away from these things.
+
+...The people that were here until a few hours ago.
+
+The people who were by my side until a few minutes ago.
+
+I have to ask myself if it was right to leave them behind, but I can't bring myself to get out of the dark.
+
+---
+
+The wall clock points to three.
+
+...It's been thirty minutes since then.
+
+No matter who won, I'm sure the battle is over now.
+
+---
+
+"――――――――"
+
+I should go back.
+
+When I raise my head to turn the lights on and cheer myself up...
+
+A sharp pain runs through my left hand.
+
+---
+
+"...The Command Spell...?"
+
+The color has faded from my Command Spell.
+
+Even though the shape is still there, the bright light that proves I am Saber's Master has disappeared.
+
+I understand instinctively what that means.
+
+"Saber...!"
+
+I follow my instinct and run out from the darkness.
+
+---
+
+I run outside.
+
+I won't make it now.
+
+I know I can't make it, but I start to run back...
+
+And I'm stabbed in the heart by some unknown thing.
+
+---
+
+" , "
+
+...I can't hear too well.
+
+I can tell there's someone in front of me, the one who stabbed my heart, but I can't see very clearly.
+
+---
+
+" ―――? , "
+
+The one in front of me sneers and tells me I am stupid.
+
+The one in front of me is laughing that I have no way of surviving without my Servant.
+
+---
+
+"Oh――――, ........"
+
+...That's right.
+
+Emiya Shirou will be killed the instant Saber is lost.
+
+As I don't have a way to protect myself, I have no way to survive without Saber.
+
+---
+
+But I didn't realize that, and I secluded myself.
+
+This is the result.
+
+It doesn't matter if I'm in the house or if I run away somewhere.
+
+---
+
+"G―――uh――――"
+
+...My mind starts to fade.
+
+I don't care who it is or what I got stabbed by.
+
+It doesn't matter if I die today or tomorrow.
+
+---
+
+Because...
+
+The instant my Command Spell lost its brightness, my life was lost as well――――
+
+>Don't Go ― Again
+>Head to the Graveyard
+---
+
+## Scene 06; Follow Them
+
+
+
+"――――――――"
+
+I know I won't be able to do anything even if I do go.
+
+But still――――I still feel her hand in mine.
+
+I told her we'll try our best.
+
+She shook the hand I held out.
+
+So――――
+
+---
+
+"Man, there's nothing else I can do...!!"
+
+I'll be killed if I go up the hill after that giant.
+
+My body is trembling from that fact, but I suppress it and run up the slope.
+
+---
+
+"Saber――――!"
+
+I run into the open land.
+
+...And then.
+
+The scenery that awaits me there is totally unexpected.
+
+---
+
+Gravestones are flying around.
+
+Every time the giant swings his sword, the heavy gravestones are split in two.
+
+―――In the midst of it...
+
+A knight bravely runs through the storm of gravestones.
+
+---
+
+The axe-sword rages around.
+
+Gravestones are flung aside.
+
+In the chaos, Saber is fighting Berserker with the same―――no, with more power than before.
+
+---
+
+"――――――――"
+
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-9.png)"
+
+Their positions are reversed here.
+
+The advantage belongs to someone with a small body like Saber.
+
+Berserker is hindered by obstacles,
+
+and Saber acts as if there's nothing in her way.
+
+---
+
+I'm sure that a hindrance of this degree is only trivial for Berserker.
+
+But it's more than nothing.
+
+It's only a slight difference, but that slight difference is tipping the scale the other way now―――
+
+---
+
+"This way...! You'll get hit if you're there!"
+
+"Huh!? Whoa...!?"
+
+"What are you thinking!? I told you to run away, right!? Or did you not hear me!?"
+
+She's really angry.
+
+---
+
+"Um―――I heard you. But I can't just run away, right?"
+
+---
+
+"What!? How could you reach that conclusion!? Can't you tell that you'll only be a bother to us since you can't fight!? It can't be helped if you die
+
+trying to make a difference, but it'd be meaningless if you die doing nothing!"
+
+---
+
+"――――?"
+
+...I don't know why, but Tohsaka is seriously angry.
+
+Even though I'm getting yelled at, I don't feel bad for some reason.
+
+---
+
+"―――Hey, is that something you should get mad about? It shouldn't matter to you if I die meaninglessly or not."
+
+"It does matter! I told you I'd let you go for all of today, so it'll trouble me if you don't get home safely!"
+
+---
+
+"......"
+
+...I'm confused even more now.
+
+Tohsaka sure had a different face on at school.
+
+---
+
+"―――Geez. Anyway, you're not hurt, so run away right now.
+
+That Illyasviel girl intends to kill us all."
+
+---
+
+"I know that. But I can't run away. Saber's fighting, so I can't run away by myself."
+
+---
+
+"...That's a line for someone who can make a difference. You'll just die a meaningless death, as you can't do anything to support her.
+
+This is your last warning. Just run away."
+
+"That can't be true. There should be something I can do as long as I'm alive. And besides, are you going to ask someone to do something that you can't do?"
+
+---
+
+"――――――――"
+
+Tohsaka looks at me with a serious expression.
+
+"...You're right. I'm the shameless one for asking you to do something I can't do."
+
+---
+
+She looks away.
+
+"―――Well, I don't think there's a need to run away. I don't think Saber will lose now."
+
+Tohsaka takes a peek from behind the tree.
+
+---
+
+Their battle is continuing without change.
+
+Berserker's attacks smash through empty space and only destroy his surroundings.
+
+---
+
+Between the attacks...
+
+Within the swirling whirlwind and flying clods...
+
+Within the rain of broken gravestones...
+
+Saber rushes in without even dirtying her armor and attacks Berserker.
+
+---
+
+"......"
+
+It is a divine work of utmost excellence.
+
+My fear has disappeared, seeing this battle that is totally impossible for mere humans.
+
+Instead, I am fascinated.
+
+---
+
+I could not believe I was in this Holy Grail War thing, and I also had some uneasiness.
+
+But all of it is blown away when I see her.
+
+---
+
+Dancing swords.
+
+Within the whirlwind of fatal destruction, the knight challenges the enemy without hesitation.
+
+---
+
+...Maybe this scene made me accept everything.
+
+No matter what may fall upon us in the future...
+
+I'm convinced that I will be able to match even a fierce god if I have Saber with me.
+
+---
+
+"...I thought so. It was strange, but she blocked Berserker's sword on purpose."
+
+Tohsaka murmurs without emotion.
+
+---
+
+"...Was that to lure Berserker here?"
+
+"Yup. It's suicidal to fight Berserker in a place without cover. That's why Saber chose this place as the battleground.
+
+She did it naturally, too. She got Berserker away from you, all the while she pretended to be cornered."
+
+---
+
+"――――――――"
+
+...Then...
+
+Saber must have determined that this place was a suitable battlefield when we were walking down the hill.
+
+---
+
+"But you can't expect backup in a battle like this.
+
+Our enemy is a monster that even nullifies Archer's arrows.
+
+Backup was meaningless from the start."
+
+Tohsaka murmurs as
+
+she watches the battle between Saber and Berserker.
+
+---
+
+"...Archer's arrows..."
+
+But those words catch my attention.
+
+Archer isn't here.
+
+If he really is an archer, he should not fight hand-to-hand, but――――
+
+---
+
+"She got him――――!"
+
+Tohsaka snaps her fingers.
+
+Just as she said... Saber's sword must have hit Berserker, or he must have lost his footing.
+
+Berserker's body, holding firm until now, loses its balance.
+
+---
+
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-9.png)―――――――"
+
+The beast lashes out desperately.
+
+Saber dodges it by jumping back, and holds her sword with both hands.
+
+---
+
+――――This is it.
+
+As his desperate attack is dodged, Berserker loses his balance even more,
+
+and Saber bends her knees to charge in with all her power.
+
+---
+
+Right then...
+
+"――――Archer...? What do you mean, get away...?"
+
+I notice Tohsaka's confused voice, and sense an intent to kill aimed from a faraway place.
+
+---
+
+"――――――――"
+
+Behind me.
+
+I see the knight in red standing on a rooftop hundreds of meters away, readying his bow.
+
+---
+
+"――――――――"
+
+It's either nausea or a chill.
+
+He's readying a bow.
+
+A bow that's no different from before.
+
+It cannot even scratch Berserker, even with a direct hit.
+
+So there is no need to feel any threat from it――――
+
+---
+
+"――――――――"
+
+―――I feel a chill.
+
+What he is readying in his bow is not an "arrow", but something completely different.
+
+And his intent to kill isn't just directed at Berserker.
+
+---
+
+"Sab――――"
+
+I act instantly.
+
+I―――
+
+>Bring back Saber
+>Call back Saber
+---
+
+## Scene 07; Don't Go ― Again
+
+
+
+I can't be a burden on Saber.
+
+I can't do anything even if I follow them, and Saber should be able to run away if she's by herself.
+
+Saber got Berserker away from here.
+
+If she was protecting me, I can't stay in this dangerous place forever――――
+
+---
+
+"Haa... Haa... Haa..."
+
+I passed the bridge from Shinto and ran straight home.
+
+I never looked back as I ran.
+
+I don't know if I was scared of the unknown pursuer or if I felt guilty for leaving Saber behind.
+
+...Anyway, I desperately ran here.
+
+---
+
+"――――――――"
+
+...The living room is just as I left it.
+
+The air has been motionless ever since Lancer attacked and Tohsaka came here.
+
+I go near the restored window.
+
+I find two small pieces of glass on the floor that Tohsaka must have overlooked.
+
+---
+
+"...There's no crack in the glass... I wonder how Tohsaka made up for these pieces."
+
+I murmur to myself.
+
+...I don't know why, but I don't feel like turning the lights on.
+
+I hide in the darkness as if to hide my weakness.
+
+---
+
+"......"
+
+What I should be thinking about.
+
+What I should say.
+
+I'm running away from these things.
+
+...The people that were here until a few hours ago.
+
+The people who were by my side until a few minutes ago.
+
+I have to ask myself if it was right to leave them behind, but I can't bring myself to get out of the dark.
+
+---
+
+The wall clock points to three.
+
+...It's been thirty minutes since then.
+
+No matter who won, I'm sure the battle is over now.
+
+---
+
+"――――――――"
+
+I should go back.
+
+When I raise my head to turn the lights on and cheer myself up...
+
+A sharp pain runs through my left hand.
+
+---
+
+"...The Command Spell...?"
+
+The color has faded from my Command Spell.
+
+Even though the shape is still there, the bright light that proves I am Saber's Master has disappeared.
+
+I understand instinctively what that means.
+
+"Saber...!"
+
+I follow my instinct and run out from the darkness.
+
+---
+
+I run outside.
+
+I won't make it now.
+
+I know I can't make it, but I start to run back...
+
+And I'm stabbed in the heart by some unknown thing.
+
+---
+
+" , "
+
+...I can't hear too well.
+
+I can tell there's someone in front of me, the one who stabbed my heart, but I can't see very clearly.
+
+---
+
+" ―――? , "
+
+The one in front of me sneers and tells me I am stupid.
+
+The one in front of me is laughing that I have no way of surviving without my Servant.
+
+---
+
+"Oh――――........"
+
+...That's right.
+
+Emiya Shirou will be killed the instant Saber is lost.
+
+As I don't have a way to protect myself, I have no way to survive without Saber.
+
+---
+
+But I didn't realize that, and I secluded myself.
+
+This is the result.
+
+It doesn't matter if I'm in the house or if I run away somewhere.
+
+---
+
+"G―――uh――――"
+
+...My mind starts to fade.
+
+I don't care who it is or what I got stabbed by.
+
+It doesn't matter if I die today or tomorrow.
+
+---
+
+Because...
+
+The instant my Command Spell lost its brightness, my life was lost as well――――
+
+---
+
+## Scene 08; Head to the Graveyard
+
+
+
+...The battle continues.
+
+Saber is fighting to protect me.
+
+Then―――I should go even if there's nothing I can do.
+
+---
+
+The two Command Spells engraved on my hand...
+
+I am standing here after swearing to fight as a Master and shaking hands with Saber.
+
+---
+
+"Geez――――What am I doing...!?"
+
+I run, ignoring all hesitation and fear.
+
+―――I'll be killed if I go after them.
+
+I suppress my trembling body with force and obstinacy, and I run up the hill.
+
+"Get back, Emiya-kun. You'll get in Saber's way if you go any farther."
+
+I stop as she grabs my shoulder.
+
+---
+
+"Did you hear me? I told you that you should keep quiet and watch since Saber's going to win.
+
+...Well, I think you can tell that yourself though."
+
+She must have been hiding behind a tree, as she calls out to me with a calm voice.
+
+---
+
+"Huh? Saber will win...?"
+
+Against that monster?
+
+Saber will win against that giant she couldn't even match until now?
+
+---
+
+"Heh. You look like you don't believe me.
+
+Why don't you take a look? I don't want to admit this, but your Servant is great in all aspects. Saber should be able to beat Berserker."
+
+Tohsaka snorts and hides behind the tree.
+
+---
+
+――――Clashing swords.
+
+Berserker's attacks smash through empty space and only destroy his surroundings.
+
+Between the attacks...
+
+Within the swinging whirlwind, flying clods, and the rain of broken gravestones, Saber rushes in without even dirtying her armor and attacks Berserker.
+
+---
+
+"......"
+
+It is a divine work of utmost excellence.
+
+My fear has disappeared, seeing this battle that is totally impossible for mere humans.
+
+Instead, I am fascinated.
+
+---
+
+I could not believe I was in this Holy Grail War thing, and I also had some uneasiness.
+
+But all that is blown away when I see her.
+
+---
+
+Dancing swords.
+
+Within the whirlwind of fatal destruction, the knight challenges the enemy without hesitation.
+
+---
+
+...Maybe this scene made me accept everything.
+
+No matter what may befall us in the future...
+
+I'm convinced that I will be able to match even a fierce god if I have Saber with me.
+
+---
+
+"...I thought so. It was strange, but she blocked Berserker's sword on purpose."
+
+Tohsaka murmurs without emotion.
+
+---
+
+"...Was that to lure Berserker here?"
+
+"Yup. It's suicidal to fight Berserker in a place without cover. That's why Saber chose this place as the battleground. She did it naturally, too. She got Berserker away from you, all the while she pretended to be cornered."
+
+---
+
+"――――――――"
+
+...Then...
+
+Saber must have determined that this place was a suitable battlefield when we were walking down the hill.
+
+---
+
+"But you can't expect backup in a battle like this.
+
+Our enemy is a monster that even nullifies Archer's arrows.
+
+Backup was meaningless from the start."
+
+Tohsaka murmurs as she watches the battle between Saber and Berserker.
+
+---
+
+"...Archer's arrows..."
+
+But those words catch my attention.
+
+Archer isn't here.
+
+If he really is an archer, he should not fight hand-to-hand, but――――
+
+---
+
+"She got him――――!"
+
+Tohsaka snaps her fingers.
+
+Just as she said... Saber's sword must have hit Berserker, or Berserker must have lost his footing.
+
+Berserker's body, holding firm until now, loses its balance.
+
+---
+
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-9.png)―――――――"
+
+The beast lashes out desperately.
+
+Saber dodges it by jumping back, and holds her sword with both hands.
+
+---
+
+――――This is it.
+
+As his desperate attack was dodged, Berserker loses his balance even more,
+
+and Saber bends her knees to charge in with all her power.
+
+---
+
+Right then...
+
+"――――Archer...? What do you mean, get away...?"
+
+I notice Tohsaka's confused voice and sense an intent to kill aimed from a faraway place.
+
+---
+
+"――――――――"
+
+Behind me.
+
+I see the knight in red standing on a rooftop hundreds of meters away, readying his bow.
+
+---
+
+"――――――――"
+
+It's either nausea or a chill.
+
+He's readying a bow.
+
+A bow that's not any different from before.
+
+It cannot even scratch Berserker, even with a direct hit.
+
+So there is no need to feel any threat from it――――
+
+---
+
+"――――――――"
+
+―――I feel a chill.
+
+What he is readying in his bow is not an "arrow", but something completely different.
+
+And his intent to kill isn't just directed at Berserker.
+
+---
+
+"Sab――――"
+
+I act instantly.
+
+I―――
+
+---
+
+## Scene 09; Call back Saber
+
+
+
+"No! Come back, Saber――――!"
+
+When I notice, I'm yelling at the top of my lungs.
+
+---
+
+"Master――――!?"
+
+She looks dumbfounded.
+
+Saber slows down as she hears my voice.
+
+But that's not enough. She won't make it if she only slows down...!
+
+---
+
+"It is dangerous, so please stay back...!"
+
+"No, you're in danger! Just come here...!"
+
+I reach out to her with my hand.
+
+---
+
+"I am...? ――――!?"
+
+She must have understood me, as she turns her back to Berserker and jumps away with all her might.
+
+---
+
+Right after her retreat...
+
+He shoots the "arrow".
+
+---
+
+Saber jumps back like a spark, and Berserker tries to pursue Saber.
+
+Archer's arrow is fired right between them.
+
+Archer's arrows have not had any effect so far.
+
+The black giant ignores it, as if saying it's not worth blocking.
+
+---
+
+But at that moment...
+
+---
+
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-16.png)"
+
+The black giant turns his back to us and attacks the "arrow" coming at him with all his might――――
+
+---
+
+――――In that instant...
+
+All sound is lost.
+
+---
+
+"――――――――!"
+
+I throw myself on top of Saber and brace myself.
+
+Maybe I've gone deaf, as I can't hear anything.
+
+All I can feel is the heat burning my skin and the shaking of the ground.
+
+Many things go flying through the air, and a piece of something pierces my back.
+
+---
+
+"......!"
+
+I grit my teeth and endure it.
+
+The blinding light must have only lasted for an instant.
+
+I manage to survive the destruction.
+
+---
+
+"Wha――――"
+
+Saber is staring in astonishment.
+
+...I'm doing the same as well.
+
+I don't know what happened.
+
+Archer's "arrow" razed this cemetery in an instant.
+
+There's a crater at the center of the explosion.
+
+Archer has created this destruction.
+
+But the giant still exists in spite of such abolition.
+
+---
+
+"Berserker... He is unwounded even after taking a direct hit from a Rank-A Noble Phantasm――――"
+
+Saber's voice is weak.
+
+Sparks are flying through the night air.
+
+The black giant is standing still in the fire, and everybody here watches this terrible spectacle without words.
+
+---
+
+The crackling of the flames is the only sound present.
+
+Right when I start to think that this might turn into a big fire...
+
+"Huh...?"
+
+Something rolls towards me with a noise.
+
+---
+
+"...A sword?"
+
+No, it is an "arrow".
+
+An arrow with a gorgeous hilt and a spiral blade.
+
+...Even if it's a sword, it is an "arrow" if it's used as a projectile.
+
+---
+
+"――――――――"
+
+I don't know why it catches my attention so much.
+
+The arrow broken by Berserker disappears as if melting into the fire.
+
+It fades away like candy melting under heat.
+
+---
+
+It――――
+
+――――Makes me feel like vomiting for some reason.
+
+---
+
+"――――Shirou, that was..."
+
+"It was Archer's arrow. I don't know anything else about it."
+
+I raise my head to look at the distant Archer.
+
+---
+
+"――――――――!"
+
+I shouldn't be able to see him.
+
+I shouldn't be able to see him, but I do.
+
+He's smiling.
+
+He's smiling as if to tell me that he wasn't aiming just at Berserker.
+
+---
+
+"Damn him――――!"
+
+I feel a headache.
+
+The chill running down my back won't go away.
+
+My spine is burning like it does when I fail to create a Magic Circuit――――
+
+---
+
+"...Hm. I have a better opinion of you, Rin. Your Archer's pretty good."
+
+The girl's cheerful voice echoes through the air.
+
+---
+
+"All right, come back, Berserker. I wanted to get the boring stuff over with first, but I've changed my mind."
+
+...The black shadow wavers.
+
+The giant starts to retreat through the fire.
+
+---
+
+"―――What? You're running away after all this?"
+
+"Yup, I've changed my mind. I don't want Saber, but I'm interested in Archer now. So I'll let you live for a bit longer."
+
+---
+
+The giant disappears.
+
+The girl giggles.
+
+"Goodbye. Let's play again, Onii-chan."
+
+Saying this, she goes away.
+
+---
+
+"......"
+
+The unexpected disaster leaves.
+
+Tohsaka must not intend to follow that girl in spite of what she said.
+
+Even I can tell that the girl let us go.
+
+So I don't think Tohsaka will go and seek out such a reckless fight.
+
+---
+
+"Thank you, Master. I would have been hit by Archer's Noble Phantasm if you had not called out to me."
+
+"O――――Oh, I'm glad to hear that."
+
+---
+
+"Master...?"
+
+...What's wrong with me?
+
+Even though I'm not wounded, I feel sick, and my consciousness is...
+
+---
+
+"Emiya-kun? You look really pale."
+
+"Master...? Shirou...!"
+
+...My knees buckle.
+
+My vision goes white.
+
+---
+
+"Please pull yourself together! What is going on...!?"
+
+...I feel someone support me as I start to fall.
+
+But the feeling fades as all my senses go away.
+
+---
+
+――――What's left is this throbbing within me.
+
+What's irritating me?
+
+And what am I so concerned about?
+
+...I'm about to fall unconscious, but my head continues to throb.
+
+END
+---
+
+## Scene 10; Bring back Saber
+
+
+
+"Saber――――!!!"
+
+Before I realize it, I'm running out from my cover.
+
+---
+
+"Hey, hold on――――!"
+
+I run at full speed towards Saber.
+
+"Shirou――――?"
+
+She looks dumbfounded.
+
+Saber sees me and stops her attack on Berserker.
+
+---
+
+I can make it――――!
+
+I can feel the danger coming up behind me.
+
+"W-Why did you come out...!?"
+
+I ignore her, run to her at full speed, and grab her arm――――!
+
+---
+
+"Are you insane, Master...!?"
+
+"We'll talk later! Just come this way――――"
+
+I grab Saber in my arms and jump away.
+
+---
+
+――――The "arrow" is released.
+
+Archer's arrows have not had any effect so far.
+
+The black giant ignores it, as if saying it is not worth blocking.
+
+But at that moment...
+
+---
+
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-16.png)"
+
+The black giant turns his back to us and attacks the "arrow" coming at him with all his might――――
+
+---
+
+――――In that instant...
+
+All sound is lost.
+
+---
+
+"――――――――!"
+
+I throw myself on top of Saber and brace myself.
+
+Maybe I've gone deaf, as I can't hear anything.
+
+All I can feel is the heat burning my skin and the shaking of the ground.
+
+Many things go flying through the air, and a piece of something pierces my back.
+
+---
+
+"......!"
+
+I grit my teeth and endure it.
+
+The blinding light must have only lasted for an instant.
+
+I manage to survive the destruction.
+
+---
+
+"Wha――――"
+
+Saber is staring in astonishment.
+
+...I'm doing the same as well.
+
+I don't know what happened.
+
+Archer's "arrow" razed this cemetery in an instant.
+
+There is a crater at the center of the explosion.
+
+Archer has created this destruction.
+
+But the giant still exists in spite of such abolition.
+
+---
+
+"Berserker... He is unwounded even after taking a direct hit from a Rank-A Noble Phantasm――――"
+
+Saber's voice is weak.
+
+Sparks are flying through the night air.
+
+The black giant is standing still in the fire, and everybody here watches this terrible spectacle without words.
+
+---
+
+The crackling of the flames is the only sound present.
+
+Right when I start to think that this might turn into a big fire...
+
+"Huh...?"
+
+Something rolls towards me with a noise.
+
+---
+
+"...A sword?"
+
+No, it is an "arrow".
+
+An arrow with a gorgeous hilt and a spiral blade.
+
+...Even if it's a sword, it is an "arrow" if it's used as a projectile.
+
+---
+
+"――――――――"
+
+I don't know why it catches my attention so much.
+
+The arrow broken by Berserker disappears as if melting into the fire.
+
+It fades away like candy melting under heat.
+
+---
+
+It――――
+
+――――Makes me feel like vomiting for some reason.
+
+---
+
+"――――Shirou, that was..."
+
+"It was Archer's arrow. I don't know anything else about it."
+
+I raise my head to look at the distant Archer.
+
+---
+
+"――――――――!"
+
+I shouldn't be able to see him.
+
+I shouldn't be able to see him, but I do.
+
+He's smiling.
+
+He's smiling as if to tell me that he wasn't aiming just at Berserker.
+
+---
+
+"Damn him――――!"
+
+I feel a headache.
+
+The chill running down my back won't go away.
+
+My spine is burning like it does when I fail to create a Magic Circuit――――
+
+---
+
+"...Hm. I have a better opinion of you, Rin. Your Archer's pretty good."
+
+The girl's cheerful voice echoes through the air.
+
+---
+
+"All right, come back, Berserker. I wanted to get the boring stuff over with first, but I've changed my mind."
+
+...The black shadow wavers.
+
+The giant starts to retreat through the fire.
+
+---
+
+"―――What? You're running away after all this?"
+
+"Yup, I've changed my mind. I don't want Saber, but I'm interested in Archer now. So I'll let you live for a bit longer."
+
+---
+
+The giant disappears.
+
+The girl giggles.
+
+"Goodbye. Let's play again, Onii-chan."
+
+Saying this, she goes away.
+
+---
+
+"......"
+
+The unexpected disaster leaves.
+
+Tohsaka must not intend to follow that girl in spite of what she said.
+
+Even I can tell that the girl let us go.
+
+So I don't think Tohsaka will go and seek out such a reckless fight.
+
+---
+
+"Master. I thank you for saving me.
+
+But can you let go of me now?"
+
+...I hear Saber's calm voice.
+
+---
+
+"Oh――――Yeah, sorry about that."
+
+I manage to answer despite my throbbing head.
+
+I let Saber go, and when I stand up...
+
+I fall on my butt.
+
+---
+
+"Shirou? What is wrong? Do you not feel well――――Shirou, your back...!"
+
+Saber sounds tense.
+
+...I can't see Saber's face, probably because of my pounding headache.
+
+Saber supports me and puts her hand behind my back.
+
+---
+
+"Ouch."
+
+I feel a sharp pain.
+
+...Even though it's not as strong as my headache, there's a sharp pain running through my back.
+
+---
+
+"...This is terrible. It is dangerous like this. Please hold still while I remove this piece."
+
+"Huh? What do you mean by that...?"
+
+......!
+
+She doesn't hesitate.
+
+Saber forcefully pulls something out of my back.
+
+---
+
+"Ou――――You're rough――――"
+
+I try to control my breathing.
+
+...I'm a magus, even though I may be an amateur.
+
+I can manage this pain.
+
+---
+
+"Haa――――Haa, haa――――"
+
+But this felt especially bad.
+
+If I had a wing on my back and it was pulled out, I'm sure that's what it would feel like.
+
+---
+
+"Your wound is healing... I see, you had a way to heal yourself."
+
+Sighing with relief, Saber says something strange.
+
+---
+
+"...?"
+
+A way to heal myself?
+
+I shouldn't be able to use such difficult magecraft.
+
+---
+
+"Are you all right, Emiya-kun?"
+
+...Tohsaka comes to us.
+
+I raise my hand to tell her I'm all right.
+
+---
+
+"I see. Then let's go. People might come here with all the commotion we've caused."
+
+Tohsaka runs out of the cemetery, her long hair fluttering behind her.
+
+---
+
+"――――――――"
+
+When I plant a foot to follow after her...
+
+My vision suddenly goes white.
+
+---
+
+"Master...!?"
+
+...I feel someone support me as I start to fall.
+
+But the feeling fades as all my senses go away.
+
+---
+
+――――What's left is this throbbing within me.
+
+What's irritating me?
+
+And what am I so concerned about?
+
+...I'm about to fall unconscious, but my head continues to throb.
+
+END
+---
+
+## Scene 11; Tiger Dojo 13
 
 
 
@@ -4433,3 +4440,5 @@ You'll eventually find out who I am whether you want to or not.
 Well, let's continue on for Shirou.
 
 The new fight is just starting. Don't go stumbling here! Quickly go back to Saber!
+
+END

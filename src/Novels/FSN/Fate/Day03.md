@@ -3716,7 +3716,7 @@ The way she's holding her ground looks bizarre, as she should know she will be d
 
 Maybe it sensed something in her posture.
 
-"[wacky len=12]―――!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)―――!"
 
 The figure, silent up to now, roars.
 

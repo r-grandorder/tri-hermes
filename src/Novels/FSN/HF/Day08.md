@@ -3126,7 +3126,7 @@ The dislocation of death closes in with a swirl.
 
 With that in front of him...
 
-"[wacky len=12]!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)!"
 
 ...Assassin charges at the wave of vacuum with a yell of delight.
 

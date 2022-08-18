@@ -2148,7 +2148,7 @@ She reminds me of someone I know really well.
 
 ---
 
-"[wacky len=9]――――!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-9.png)――――!"
 
 The black giant howls.
 
@@ -2164,7 +2164,7 @@ The source of the raging wind must be that black swordsman, and the black figure
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 The anguish is the giant's.
 
@@ -2276,7 +2276,7 @@ And the black swordsman, raising her sword.
 
 Illya murmurs in an emotionless voice.
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 What did he make of that?
 
@@ -2288,7 +2288,7 @@ The giant advances with a roar.
 
 His advance is like a storm.
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 Berserker charges, kicking away the black shadow that has swallowed him up to his knees.
 
@@ -2652,7 +2652,7 @@ The old man's shadow creeps across the ground.
 
 ---
 
-"[wacky len=12]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
 
 The black giant enters battle without waiting for the girl's order.
 
