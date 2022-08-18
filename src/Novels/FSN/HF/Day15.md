@@ -1242,7 +1242,7 @@ Kotomine turns to the castle gate, telling me there's no time to talk.
 
 And in challenge to him...
 
-"[wacky len=14]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-14.png)"
 
 An odd sound shakes the winter castle.
 
@@ -1560,7 +1560,7 @@ The priest easily knocked them all aside――――!
 
 ---
 
-"[wacky len=12]――――"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)――――"
 
 ---
 
@@ -1910,7 +1910,7 @@ I ran full speed without slowing down.
 
 ---
 
-"[wacky len=13]――――"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-13.png)――――"
 
 ---
 
@@ -1982,7 +1982,7 @@ Run so I won't think negative thoughts――――!
 
 ---
 
-"[wacky len=14]――――!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-14.png)――――!"
 
 ---
 
@@ -2154,7 +2154,7 @@ The mad warrior can't recognize Illya's figure, let alone mine.
 
 ---
 
-"[wacky len=14]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-14.png)"
 
 He raises his axe-sword against the living thing in front of him.
 
@@ -2566,7 +2566,7 @@ At the same time...
 
 ---
 
-"[wacky len=15]!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-16.png)!"
 
 "Ahhhhhhhhhhhhhhhh!!"
 
@@ -3316,7 +3316,7 @@ I pass the red figure with all my might.
 
 ---
 
-"[wacky len=14]"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-14.png)"
 
 I step up onto the ground.
 
@@ -3412,7 +3412,7 @@ I will give my undivided attention to killing him for certain.
 
 ---
 
-"[wacky len=12]!"
+"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)!"
 
 He notices me.
 
