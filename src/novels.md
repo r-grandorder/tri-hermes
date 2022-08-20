@@ -15,6 +15,15 @@
 * [Volume 4](Novels/Zero/Vol-4.md)
 * [Short Story - Heart of Freaks](Novels/Zero/HeartofFreaks.md)
 
+**Fate/Apocrypha** - [Translation by NanoDesu Translations](https://fateapocryphathetranslation.wordpress.com/)
+
+* [Act 1](Novels/Apocrypha/Act-1.md)
+* [Volume 1](Novels/Apocrypha/Vol-1.md)
+* [Volume 2](Novels/Apocrypha/Vol-2.md)
+* [Volume 3](Novels/Apocrypha/Vol-3.md)
+* [Volume 4](Novels/Apocrypha/Vol-4.md)
+* [Volume 5](Novels/Apocrypha/Vol-5.md)
+
 **Fate/Requiem**
 
 * [Volume 1](Novels/Requiem/Vol-1.md) - [Translation by Brokastel](https://brokasteltranslations.tumblr.com/post/616735224495226880/faterequiem-volume-1-the-boy-among-the-stars)

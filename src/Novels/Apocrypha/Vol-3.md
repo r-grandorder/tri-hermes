@@ -1,8 +1,10 @@
 # Fate/Apocrypha Volume 3: Triumphal Return of the Saint (Incomplete)
 
 ## Prologue
+
 ---
-ow… let us speak of the Third Holy Grail War.
+
+Now… let us speak of the Third Holy Grail War.
 
 The Einzberns had suffered a disastrous defeat in the early stages of the Second Holy Grail War. Despite being one of the three great families who had a hand in the initial construction of the Greater Grail, the Einzberns were a great house of alchemists and weak in matters of war, leading to their loss.
 
