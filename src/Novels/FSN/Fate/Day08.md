@@ -1,3 +1,7 @@
+# FSN Fate Day 08 (EN)
+
+
+
 ## Scene 18 - Shopping district
 
 
