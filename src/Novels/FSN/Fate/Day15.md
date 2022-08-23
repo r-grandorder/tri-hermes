@@ -1114,7 +1114,7 @@ They continue screaming, unable to stand losing their form and being eaten alive
 
 ---
 
-"[block len=9]"
+"▉▉▉▉▉"
 
 I hear a sound.
 
@@ -4680,7 +4680,7 @@ The starting penalty is five. Life penalty, body penalty, freedom penalty, fame 
 
 ---
 
-misdiagnosis, concealment, violation for benefit, violation for self-protection, violation for love, violation for respect, selfish [block len=3]. Stealing fraudulent fraud concealment murder theft crime crime personal grudge attack attack attack attack dirty dirty dirty you are dirty atone atone atone atone every violence every crime every victim atone for everything "This world is ruled by something not human" Know the conscience to reform crimes.
+misdiagnosis, concealment, violation for benefit, violation for self-protection, violation for love, violation for respect, selfish ▅▅▅▅. Stealing fraudulent fraud concealment murder theft crime crime personal grudge attack attack attack attack dirty dirty dirty you are dirty atone atone atone atone every violence every crime every victim atone for everything "This world is ruled by something not human" Know the conscience to reform crimes.
 
 ---
 
@@ -4688,7 +4688,7 @@ Know the penalty to reform crimes. People's kindness is here. There is so much i
 
 ---
 
-[block len=2]for self [block len=2]for self [block len=2]for self [block len=2]for self [block len=2]for self [block len=2]for self [block len=2]for self [block len=2]for self [block len=2]for self [block len=2]for self [block len=2]for self [block len=2]for self [block len=2]for self [block len=2]for self [block len=2]for self inducement, false statement, theft, robbery, kidnap, suicide, rape, arson, infringement, dirty dirty dirty dirty dirty dirty you are dirty atone atone atone atone atone atone every violence every crime every victim atone atone atone with death!!!!!!
+▊▊▊for self ▊▊▊for self ▊▊▊for self ▊▊▊for self ▊▊▊for self ▊▊▊for self ▊▊▊for self ▊▊▊for self ▊▊▊for self ▊▊▊for self ▊▊▊for self ▊▊▊for self ▊▊▊for self ▊▊▊for self ▊▊▊for self inducement, false statement, theft, robbery, kidnap, suicide, rape, arson, infringement, dirty dirty dirty dirty dirty dirty you are dirty atone atone atone atone atone atone every violence every crime every victim atone atone atone with death!!!!!!
 
 "――Ah"
 

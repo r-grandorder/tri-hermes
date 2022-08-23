@@ -8052,7 +8052,7 @@ It's because my actions are so graceful.
 
 People with enough time should check out all of the ends where I kill Shirou.
 
-You'll notice that it's a bit different from [block len=4]'s.
+You'll notice that it's a bit different from ▅▅▅▅'s.
 
 A bit different...? Well, enough about trivial things.
 
