@@ -196,7 +196,7 @@
 |Ah... the moon, it's so―――|ああ――――今夜はこんなにも|
 
 ::: tip
-TL Note - Moon here because this is a fragment of the full sentence in Page 23
+TL Note: Moon here because this is a fragment of the full sentence in Page 23.
 :::
 
 **Page 21:**
