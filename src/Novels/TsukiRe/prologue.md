@@ -795,15 +795,15 @@ TL Note: not sure if past tense should be preserved here
 |:--------|:--------|
 |"You don't need to apologize.|「謝る必要はないわ。|
 |Hmm, well, it's true that you did something unacceptable, but that absolutely does not mean you're the only one at fault."|うん、まあ、たしかに志貴は怒られるような事をしたけど、それは決して、貴方だけが悪いってワケじゃないんだから」|
-|"...? I'm not the only one at fault...?"|「……？　悪いのは、僕だけじゃない……？」|
+|"Huh...? I'm not the only one at fault...?"|「……？　悪いのは、僕だけじゃない……？」|
 
 **Page 95:**
 
 |EN|JP|
 |:--------|:--------|
-|"Yes. But listen, Shiki. Even though that's the case, if nobody scolds you for it now, you really will end up irredeemable.|「ええ。でもね、志貴。それとは別のところで、いま誰かが君を叱っておかないと取り返しのつかない事になる。|
-|That's why I saw you as a human being.|だから私は貴方をひとりの人間として見た。|
-|I treated you as a fellow human and gave you my opinion, got angry and slapped you. If I hadn't used the right amount of force, I might've even killed you."|同じ立場の人間として意見して、怒って、本気で叩いた。力加減を間違えていたら、私も志貴を殺していたかもってぐらい、本気で」|
+|"Yes. But listen, Shiki. Even though that's the case, if nobody scolds you for it now, you really will end up as a lost cause.|「ええ。でもね、志貴。それとは別のところで、いま誰かが君を叱っておかないと取り返しのつかない事になる。|
+|That's why I treated you as another human being.|だから私は貴方をひとりの人間として見た。|
+|As one person to another, I gave you my opinion, got angry, and slapped you like I meant it. If I hadn't used the right amount of force, I might've even killed you."|同じ立場の人間として意見して、怒って、本気で叩いた。力加減を間違えていたら、私も志貴を殺していたかもってぐらい、本気で」|
 
 **Page 96:**
 
