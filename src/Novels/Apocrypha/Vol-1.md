@@ -1,4 +1,12 @@
-# Fate/Apocrypha Volume 1: Apocrypha: Great Holy Grail War
+# Fate/Apocrypha Volume 1: Apocrypha: Great Holy Grail War 
+
+![](https://i.imgur.com/waaeRg9.jpeg)
+
+![](https://i.imgur.com/Fw81jGE.jpeg)
+
+![](https://i.imgur.com/hTSexmG.jpeg)
+
+![](https://i.imgur.com/3xnEZfI.jpeg)
 
 ## Prologue
 --- 
@@ -1090,6 +1098,8 @@ One is a petite girl in a white dress. In her hand, a giant mace. With empty eye
 
 One is a androgynous-looking boy, fancily dressed. Out of the four, only he is looking at the Masters with a wide smile on his face.
 
+![](https://i.imgur.com/lz8yz64.jpeg)
+
 One is a man with a bow in his hand. Wrapped around by a grass-colored cloak, he knelt on one knee and faced the ground.
 
 And the last is another man whose entire body was encased in radiant armor. A greatsword is on his back. His silver-grey hair waved gently in the wind.
@@ -2112,6 +2122,8 @@ However, there is one thing he said just moments before that could not be ignore
 While such a thing is possible, it is rather irregular. There has never been a case of a single Master commanding two Servants in prior Grail Wars. One would barely be able to prevent a self-inflicted death via prana drain. In that case, just how much prana does this man have reserved in him?
 
 "I might have been summoned by the Holy Grail, but it could hardly have granted me such knowledge as details about your works. All you are to me is 'a famous writer of history.'"
+
+![](https://i.imgur.com/WnLq971.jpeg)
 
 Hearing Assassin's comment, Caster gazed upwards and lamented.
 
@@ -5318,6 +5330,8 @@ Berserker did not falter at all despite the weight of the golems. He raised his 
 
 Stakes several meters in length pierced Berserker, along with the golems. Lancer did not refine his strikes beyond not aiming for Berserker's spiritual core. Although he actively avoided killing Berserker, he saw no need to trouble himself with further restraints.
 
+![](https://i.imgur.com/35X603W.jpeg)
+
 It would be a shame if Berserker were to die, but if he did not - only a deeper level of Hell awaited him.
 
 His feet turned immaterial, his body covered by innumerable golems, his entire being save for his heart and brain pierced by stakes - and still Berserker moved to bring down the oppressor right before him. His actions could no longer be contained by words such as 'hatred' or 'conviction'.
@@ -5746,6 +5760,8 @@ The enemy Archer fired again. Judging from the ripples in the air and slight whi
 
 Could the Archer of the Red read his mind? Did he or his Noble Phantasm possess some form of prediction skill? Either way, Rider could not even move a single step, much less pursue the Berserker of the Black.
 
+![](https://i.imgur.com/5fYXizm.jpeg)
+
 But most importantly, Archer's arrows were piercing Rider's protection - meaning that Archer was the same kind of existence as him. Rider was convinced that the Archer of the Black - armed with both pedigree and skill - would be his greatest enemy in this war.
 
 Against this third attack, Rider fearlessly stepped forward - but his intents were correctly gauged again. Before he realized it, another arrow was sticking out of his knee. The vivid pain that it brought him - something he had not felt in a very long time - made it impossible for Rider to contain his swelling passion.
@@ -6108,6 +6124,8 @@ As he murmured to himself, Saber was extinguished. For a moment, Rider sat on th
 "You're alive... yes... thank you... thank you, thank you...!"
 
 Rider pressed the homunculus' hand into his cheek, ignoring the blood and filth. He did not care about what would come. He only wanted to express his relief at this fortunate turn of events. After all, the Rider of the Black did not possess any reason. He did not care at all what would happen in the coming days of the war. More specifically... he forgot entirely about the fact that their camp had just lost its Saber and was now in a highly disadvantageous position.
+
+![](https://i.imgur.com/kNBdDBA.jpeg)
 
 The innocent Astolfo simply celebrated and cried. He did not think about the attacks to come; even if he had, he would only have come to the conclusion that he should celebrate the homunculus' survival first.
 
