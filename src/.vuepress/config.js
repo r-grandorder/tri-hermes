@@ -43,6 +43,15 @@ module.exports = {
                     },
                 ],
             },
+			{
+                text: "Source Materials",
+                children: [
+                    {
+                        text: "Visual and Light Novels",
+                        link: "/novels",
+                    },
+                ],
+            },
             {
                 text: "Meta Lore",
                 children: [
@@ -53,6 +62,10 @@ module.exports = {
                     {
                         text: "Interviews",
                         link: "/interviews",
+                    },
+					{
+                        text: "Fate Map",
+                        link: "/map",
                     },
                     {
                         text: "Articles",

@@ -22,5 +22,7 @@ footer: All scripts and images by TYPE-MOON ©
 
 * [Visual and Light Novels](novels.md)
 * [Bamboo Broom Diary](bamboo.md)
-* [Articles](articles.md)
 * [Interviews](interviews.md)
+* [Fate Map](map.md)
+* [Articles](articles.md)
+

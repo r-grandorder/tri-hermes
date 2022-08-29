@@ -4426,9 +4426,9 @@ The sound here is actually a short machine beep and a click. I think “お入�
 
 |EN|JP|
 |:--------|:--------|
-| Decide to obediently follow her.|おとなしく付いていく事にした。|
-| Decide to stop the girl and ask for her name.|少女を呼び止めて名前を訊く事にした。|
-| ...Well, I think I'll explore the mansion a little.|……少し、屋敷を探検したくなった。|
+| [Decide to obediently follow her.](#choice-obediently-follow)|おとなしく付いていく事にした。|
+| [Decide to stop the girl and ask for her name.](#choice-ask-name)|少女を呼び止めて名前を訊く事にした。|
+| [...Well, I think I'll explore the mansion a little.](#choice-explore-mansion)|……少し、屋敷を探検したくなった。|
 
 ## Choice-Obediently-Follow
 
