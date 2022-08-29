@@ -11,7 +11,9 @@
 ![](https://i1.lensdump.com/i/1moTkv.webp)
 
 ## Prologue
+
 ---
+
 There was once a hero. A great hero who killed a dragon.
 
 
@@ -68,7 +70,9 @@ He never managed to fill that emptiness no matter what he did.
 The hero’s name was—
 
 ## Chapter 1
+
 ---
+
 Staggering, he tried to stand up, and his hand touched the surface of cool and rough rock. Before he could ask himself where he was, he sensed the presence of something in front of him and felt himself gripped by a chill.
 
 Something was breathing nearby. But why were those breaths showering his entire body?
@@ -95,7 +99,9 @@ Never forget this thing, for you will meet it again soon.
 
 
 Thus, with a pain in his chest that felt as if needles had been stabbed into him, and with the feeling of his blood burning as if on fire—he awoke.
+
 ---
+
 Frozen air, frozen silence. The forest was simply dark and silent. Rider of Black, Astolfo, who had been emotionally sobbing just earlier, finally stood up.
 
 He pulled up the fallen homunculus. His stature, which should have been slightly smaller or about the same as Rider’s, had grown considerably. It appeared that, due to taking in Saber of Black’s—Siegfried’s heart, his body had undergone a radical transformation.
@@ -249,7 +255,9 @@ The homunculus realized he was alone once more. And that he would never again me
 “…Hmm.”
 
 It hurts, he thought as he felt his chest tighten a little. Trying to ignore it as much as possible, he somehow managed to continue walking.
+
 ---
+
 To explain starting from the conclusion, Rider of Black, Astolfo, currently had stakes driven into both his arms and legs, had his movements confined by fluid-form golems and was in fact imprisoned along with Berserker of Red.
 
 He had spoken too honestly, and to make it worse had added in his own thoughts (“It was really quite refreshing!”) into his report. That Lancer of Black—Vlad III—would become enraged was only to be expected.
@@ -372,7 +380,9 @@ Rider whispered something so dangerous that Lancer would have had to kill him if
 “I’m not good at bearing the full brunt of responsibility.”
 
 Rider sighed at those words and lamented, “This isn’t going to go well.”
+
 ---
+
 It was a good thing he had time to spare. Sieg thought that while walking. It had been difficult to even vaguely think of something while walking with a body that previously would become exhausted and feel pain just by taking steps.
 
 Since the Bounded Field was functioning, the forest remained silent as usual. There were no signs of any living creatures. He’d already gained considerable distance from the fortress. Even if the Yggdmillennia knew vaguely where he was within the Boundary Field, they wouldn’t go to the extent of expressly chasing after him.
@@ -439,7 +449,9 @@ Extending his hand to touch a girl crouching down was an extremely vulgar act. J
 “Thank goodness… I managed to meet you!”
 
 The instant the girl smiled and said that, Sieg thought to himself: Even if this girl was his enemy—or even if she cut off his head right here. Just being able to have seen that smiling face left him with no regrets.
+
 ---
+
 The holy maiden who had been summoned in this Great Holy Grail War as Ruler: Jeanne d’Arc. She carefully inspected the parts of the forest that had been the stage for two fights, the battle between Berserker of Red and Lancer and Rider of Black and the battle between Rider and Archer of Red and Saber, Berserker and Archer of Black, and placed a hand to her chest in relief.
 
 The destruction had been limited to trees mowed down in the midst of battle. Furthermore, the range of destruction through the forest wasn’t extensive. If Lancer of Red—the great hero Karna, who was clad in the sun itself—had participated, the forest might have been turned into scorched earth.
@@ -1036,7 +1048,9 @@ It was like a chain to him. The homunculus, having been saved by much good fortu
 …A strange feeling of guilt crept through his body. It was something that couldn’t be helped, but his heart wanted to do something about it.
 
 Ruler had her breath taken away by Sieg’s words.
+
 ---
+
 Though the source of the voice he heard was different, he hid the same determination as her within himself. She tried to respond to the laments of the Lord, and he was trying to respond to the laments of his fellow homunculi. Even though Ruler couldn’t hear their voices asking to be saved, this boy heard them.
 
 Therefore—
@@ -1188,7 +1202,9 @@ Even if it was no problem for a Servant, she had expended too much energy as a h
 “…I feel anxious about our future prospects.”
 
 Ruler had no words she could respond with.
+
 ---
+
 “How is Lancer?”
 
 “Instead of going into spiritual form, my Lord is sitting on his throne and seems to be thinking about something. He appears to be considering some matters from his discussion with Ruler.”
@@ -1360,7 +1376,9 @@ Fiore exited the room with Archer, and Darnic let out a short breath.
 Naturally, Darnic had also taken into consideration the possibility that he himself would be defeated and that their clan would be destroyed. But his response to that would probably be ‘So what?’ Darnic remembered well how many clans had died out gloomily without even getting the chance to reach the Root.
 
 They had gotten that chance. That alone was unexpected good fortune. And of course, Darnic had no intention of being defeated.
---- 
+
+---
+ 
 —It’s not my fault.
 
 Alone in his room, Gordes was crushed by humiliation and terror.
@@ -1722,7 +1740,9 @@ But, just by adding Caules into the equation, the magus of the Red camp would pr
 After watching Caules leave the room, Berserker suddenly took notice of the computer, which had been left on. It seemed he had forgotten to turn it off. What a careless Master. Electricity is precious—Berserker sighed and, without hesitation, pulled out the computer’s plug.
 
 She was scrupulously considerate as a Servant. Her Master would probably praise her for it as well.
+
 ---
+
 Thus, it was announced that the largest-scale Holy Grail War in history—the [Great Holy Grail War] was over. The Black camp had lost, and the war ended with the Red camp as the victors. Unfortunately, the Greater Grail had ceased functioning, so no wishes could be granted, but an enormous reward was given by the Association of Magi as compensation. With the Greater Grail non-functional, they couldn’t fight amongst each other either now.
 
 The Red Masters relaxed as they pleased and soothed their fatigue from the war.
@@ -1810,7 +1830,9 @@ Even though it was something they should definitely remember, for some reason no
 Only days of peace and decadence filled their memories, and everything seemed to shine. Without glory or prestige, they merely quietly passed the time in idleness—
 
 ## Chapter 2
+
 ---
+
 Participants in the Holy Grail War were able to see dreams. Perhaps it was due to the deep mental connection between Master and Servant.
 
 They were able to view each other’s pasts in the form of dreams. It was a phenomenon that was widely known to have occurred in the first three Holy Grail Wars and the smaller derivative Holy Grail Wars.
@@ -2077,7 +2099,9 @@ She nodded at his words and clad her entire body in her steel armor. Fortunately
 “All right… let’s go.”
 
 Thus, the magus and Servant began boldly walking down the street, using themselves as bait.
+
 ---
+
 “There really isn’t anyone out at all.”
 
 Rikudou Reika sighed as she looked down at the dead streets with no sign of humans present from a third-story window. It was always like this here recently. When it became nighttime, the city became as still as death.
@@ -2133,7 +2157,9 @@ After pondering whether to go to Trifas, the two of them came to a decision for 
 Assassin was bashfully happy at those words, and then she jumped out from the third-story window. Reika waved her hand with a smile and watched her depart.
 
 Now then. Reika didn’t know when exactly Assassin would return, but in any case, she had to prepare a delicious meal for that darling girl—
+
 ---
+
 There was no town as unique as Sighișoara in Romania or even all of Europe. This was referring to its ‘unchanging’ nature. It was a small town with a population of thirty thousand, but the people who came to sightsee felt as if they had slipped back in time to the Middle Ages just by walking through the town’s historical district, which was labelled a World Heritage Site.
 
 If you walked through the extremely rough, stone-paved hill road, you would find private houses that looked exactly the same as they had in the sixteenth century lining the streets and even public squares where witch trials were once held.
@@ -2351,7 +2377,9 @@ Her body moved before her logical thought caught up. She just slightly put the b
 She gazed at it in amazement. Two figures stood at the pinnacle of the clock tower. Illuminated by the faint moonlight, the person she saw pointing a bow and arrow at her there was definitely a Servant—!
 
 The next instant, a shock wave and a thunderous roar hit Saber’s entire body.
+
 ---
+
 The fired arrow hit just as planned. But the target hadn’t moved as planned. Without lowering his bow, Archer loaded his next arrow.
 
 “Did you succeed?”
@@ -2397,7 +2425,9 @@ Fiore matched her and headed towards Shishigou while circumventing Saber’s pat
 Saber’s gaze turned towards Fiore for an instant. Instantly, Archer fired his nocked arrow at her to deter her from doing anything to Fiore.
 
 Saber cut down the arrow with a single stroke. That seemed to decide Saber’s mind. Without glancing at Fiore any further, she charged straight at Archer—
+
 ---
+
 Saber had needed five seconds to regain her footing after Archer’s shot. But by the time those five seconds had passed, Assassin had already withdrawn.
 
 She clicked her tongue—her regret over not killing Assassin and her hatred towards Archer for getting in the way made Saber’s face twist in anger.
@@ -2508,7 +2538,9 @@ Most likely, his right shoulder wouldn’t move until it was mended with healing
 He came to a decision without hesitation. He could not think of a way to deliver a final blow to Saber in this situation no matter how he moved or fought. If he effectively used the slightly less than three seconds it would take until Saber got back up, withdrawal was probably the best plan here.
 
 Archer decided to report the situation to Fiore who was fighting a fierce battle of her own and recommend retreating.
+
 ---
+
 Necromancers start their training by first staring at their own death. They must hypnotize themselves and see their flesh decompose many, many times. Their reflection in the mirror rots away disgustingly before their eyes—and they get used to it. They stare at death, carry death, and learn that life is always accompanied by death.
 
 And necromancy is a craft that controls death.
@@ -2684,7 +2716,9 @@ A cigarette after a battle was normally reputed to taste good, but—
 “No good, this really tastes bad.”
 
 Grimacing, Shishigou savored the taste of the world’s transience with his lungs.
+
 ---
+
 Fiore agreed to Archer’s suggestion. It appeared that the other battle had also reached a stalemate.
 
 ‘Then, let’s join up at the designated location. Our intention was reconnaissance from the start. There’s no need to obsess over settling things here and now.’
@@ -2749,7 +2783,9 @@ Shishigou briskly walked out onto the main street, smashed the glass window of a
 “…Please avoid us having to drop out from the Great Holy Grail War due to getting caught by the police, Master.”
 
 Saber sighed as if amazed by her Master’s actions.
+
 ---
+
 When Assassin of Black, with her right arm hanging torn and limp, returned to the place she used as her dwelling, an hour had passed since she left.
 
 “…It hurts.”
@@ -2892,7 +2928,9 @@ No, she might be doing so now as well. She might be just going with the flow of 
 What a horrible woman I am, she thought in self-mockery. But she had no intention to stop killing. Because it was absolutely necessary as food for the girl sleeping before her eyes. Because it was necessary in order to live.
 
 To Reika, Jack was her own child. So she rejected every single ethical view. If it was for the sake of her child, a mother would gladly become the demon Hariti.
+
 ---
+
 Sieg was surprised at how unexpectedly light the girl he carried on his back was, but he was also surprised at her current state of dress. Having released her armor, she was now dressed in civilian clothes. As expected, it would be too suspicious for her to go into town wearing that battle outfit.
 
 “…Ah, this is so embarrassing.”
@@ -3299,7 +3337,9 @@ Her words had a mysterious persuasiveness. Just by hearing her say “Don’t wo
 But contrary to the boy’s hopes, the two of them would end up witnessing something unexpected when they were halfway to the fortress.
 
 And that ‘something’ was the [meaning] behind Jeanne d’Arc’s being summoned as Ruler.
+
 ---
+
 As if his mind was creaking, he saw a dream of battle.
 
 
@@ -3799,7 +3839,9 @@ No other besides Archer could yet see the members of the other side through the 
 It was going to be completely different from the skirmishes until now. Now there was a battlefield, soldiers, weapons, commanders, a territory that needed to be captured, and most of all, a [king] that needed to be slain.
 
 There was just a short time left until the decisive battle with the goal of complete annihilation of the other side began. The Red Servants patiently waited for the moment it started—
+
 ---
+
 The Yggdmillennia had predicted that the Masters of the Association of Magi… in other words, the Red camp would attack them and had prepared plans to counterattack from all directions.
 
 They might suddenly launch an attack from the city of Trifas, or they might attack from the east with a large army. The possibility that they might launch a surprise attack from the sky wasn’t low either. But—
@@ -3974,7 +4016,9 @@ Knowing that trying to talk to the Dragon Tooth Warriors was pointless, Lancer t
 “—Hmm. What are they planning?”
 
 She couldn’t have heard his mutter, but as if in reply—Archer of Red’s bow fired the first shot.
+
 ---
+
 Archer of Red—Atalanta—nocked two arrows on her favorite bow, Tauropolos. She aimed not at the ground far below, but at the night sky which shined in the faint moonlight.
 
 A chilly and dry late-autumn wind shook her hair, and her animal ears twitched.
@@ -4161,7 +4205,9 @@ Rider cast his eyes down and remained silent. Archer sighed and chided him.
 
 
 Archer spoke Rider of Red’s true name. The young man known as Achilles nodded once with a grave attitude, like a pupil receiving a lesson.
----Lancer of Black was unarmed. He wasn’t wielding his spear, and merely rode his horse.
+
+---
+Lancer of Black was unarmed. He wasn’t wielding his spear, and merely rode his horse.
 
 Dragon Tooth Warriors became roused up as they sensed the approach of a Servant. It wasn’t just one or two hundred of them. A force of over five hundred Dragon Tooth Warriors tried to swarm him.
 
@@ -4297,7 +4343,9 @@ Indeed, Lancer of Red could burn to ash and crush the stakes with his flames and
 Lancer of Red swung his divine spear in preparation with both hands and Archer of Red nocked another arrow. Standing in their way was the one who ruled this land, the ‘Dracul’ Lord.
 
 At the same time as the golem horse neighed, the clash between three Servants recommenced.
+
 ---
+
 Though somewhat hesitant, Rider of Black rode his hippogriff towards the Hanging Gardens. The only one who could fly through the sky among the Black camp was himself, so first he should restrain that thing. That was the conclusion he came to after straining his non-existent wisdom.
 
 However, he had one concern. He had summoned the hippogriff and was simply using it as a mount. At this level, its prana consumption wasn’t that much. A single homunculus was enough to cover the cost. The problem was if he recited its true name and displayed its full power.
@@ -4409,7 +4457,9 @@ She switched her gaze to the battle below. Seen from above, the flow of battle s
 A smile peeked through her expression as she watched that particular scene. Though it was regrettable that his opponent was Berserker, his expression didn’t look perturbed at all.
 
 “Very well then. Show me, Shirou, the first bright and clear battle campaign of my Master.”
+
 ---
+
 Berserker of Black, Frankenstein, didn’t show it much in her expression, but she was troubled.
 
 Obeying her orders, she had at first prowled the battlefield looking for enemy Servants, and she had leapt into the forest after seeing a human figure there, but what she found there wasn’t a Servant, but instead—
@@ -4515,7 +4565,9 @@ I don’t like that smile, Berserker thought. I don’t like those eyes, Berserk
 Shirou widened the distance between them with a single jump backwards. He gripped his blade in one hand and held Black Keys in the other.
 
 The mad artificial human pushed through the rain of thrown Black Keys without the slightest hesitation.
+
 ---
+
 Choosing the moment when Lancer of Black began fighting against two other Servants from the Red camp, Caster of Black released Berserker of Red. Right now, Lancer of Black was the cornerstone of their camp. Caster of Black judged that he mustn’t be allowed to die.
 
 “Berserker. I am your Master. Do you understand?”
@@ -4591,7 +4643,9 @@ It would be a lie to say that Caster felt no hesitation over using a magus as th
 And besides, he had received permission from Darnic. That man—Gordes Musik Yggdmillennia would probably be passingly adequate as the [core]. Caster personally wanted to aim for something better to use as his Noble Phantasm, but there were no other options besides Gordes available.
 
 Caster felt just a little disappointment over that.
+
 ---
+
 Berserker of Red ignored all the Dragon Tooth Warriors that bit at him, and savagely attacked Lancer and Archer of Red. The reason he attacked wholeheartedly like this was probably because of Lancer of Black.
 
 Though he had switched his Master and changed camps, Berserker would have undoubtedly attacked Lancer if he weren’t restrained by Caster’s Command Spell. His unconscious desire to do so had naturally led him to the fiercest scene of battle on this battlefield.
@@ -4699,7 +4753,9 @@ But—
 “…No way.”
 
 As if in response to Archer’s mutter of mute amazement, the torn-up lump of meat in front of her began squirming.
+
 ---
+
 Achilles. A great hero who rivaled the legendary Greek hero Heracles in terms of fame. There were probably less than ten heroes, including him, whose names were known on a global scale. However, the number of people decreased when it came to those who knew the story of the rushed and short life of this great sprinter.
 
 Born from the sea goddess Thetis and the hero Peleus, Achilles was blessed by the gods from birth. His mother Thetis, having greatly loved her son, had warmed him within holy flames in order to try and make him immortal. But her husband Peleus had opposed it, saying “Then that would destroy Achilles as a human”, and in the end Achilles grew up while only a certain part of him remained human.
@@ -4821,7 +4877,9 @@ The main purpose of the spear he held was originally for throwing. It was a weap
 Their gazes met. Both Rider of Red and Archer of Black planned their next moves while watching each other’s every action.
 
 Rider smiled, and Archer smiled in return. There was definitely a bond between them. Teacher and student, friend and friend who trusted each other from the bottom of their hearts. Even if they trampled on those feelings, vast ‘joy’ over facing each other that surpassed their other feelings definitely existed in their hearts.
+
 ---
+
 —Rider of Black by no means had a tough or sturdy body. His stamina was just as could be imagined from his showy appearance.
 
 “Owowow…”
@@ -4949,7 +5007,9 @@ The situation was unfavorable for him, and he was also overwhelmingly inferior t
 That was his intuition as a knight rather than as a Heroic Spirit. The image of him dying easily and in obscurity if he fought her arose in his mind.
 
 Even in the face of such a despairing reality, Rider of Black’s expression and countenance didn’t change at all. He prepared his stance with the lance he had pilfered from the knight Argalia in the past, and readied himself to tackle this all-or-nothing battle.
+
 ---
+
 A thick fog suddenly appeared in the midst of the battlefield. The homunculi within it were perplexed by it and stopped moving—and then felt an impact like burning sparks from inside their noses.
 
 As they collapsed and fell to their knees one after another, an innocent and laughing voice like that of a fairy resounded above their heads.
@@ -5000,7 +5060,9 @@ And the ones who appeared on this hellish land of chaos were the supreme referee
 Her companion was the homunculus who called himself Sieg.
 
 ## Chapter 3
+
 ---
+
 —Now that she thought about it, she had felt that something was ‘wrong’ from the beginning.
 
 A large battle consisting of seven Servants versus seven Servants. It was true that this was a state of emergency that warranted summoning Ruler.
@@ -5082,7 +5144,9 @@ An absurd number of Dragon Tooth soldiers immediately rushed at them. Going as f
 Ruler swung the flag with her hand and smashed the Dragon Tooth Warriors with it one by one. Ruler’s basic motto was to avoid doing anything that directly affected the course of the Holy Grail War, but she couldn’t just stand by and do nothing if they openly treated her as an enemy.
 
 Along with a sharp yell that seemed to cut through the battlefield, Ruler dashed towards the location of her objective.
+
 ---
+
 Suddenly, Shirou stopped moving. He clicked his tongue and jumped backwards with a bitter expression.
 
 “Caster, we’re withdrawing. That girl has ‘noticed’ it faster than I thought. This must… be due to some kind of Revelation skill on her part.”
@@ -5314,7 +5378,9 @@ But he was still just a Master. Shaking off the chill he felt, Caules devoted hi
 Did he regret having to use a Command Spell? …No. Caules felt confidence in his decision. Berserker’s turmoil had been staggering. It was only natural, after having killed her father, whom she both fervently adored and hated. It was possible that it would have lasting effects on her later on. He didn’t think his decision to use a Command Spell to wash it all away at once was wrong.
 
 …At the very least, he’d think it was more worthwhile than using one to force her to activate her Noble Phantasm or to stop her from doing so herself.
+
 ---
+
 Explosions, shrieks, screams, spell chanting—all these noises mixed together and became one upon the battlefield, jumping into Ruler’s ears. Those who wished for it, those who didn’t, and even those who didn’t even know the word ‘wish’ took no notice of it, while Ruler ran even faster across the battlefield.
 
 “…!”
@@ -5390,7 +5456,9 @@ Mere Dragon Tooth Warriors were far from effective at stalling for time against 
 Ruler swiftly came up with a route that did not come into contact with any Red Servants, and ran to follow that path. She felt a chill swell up inside her increasingly as time passed.
 
 And then, the worst possible match-up barged onto her route as if to block her.
+
 ---
+
 This is fine. Sieg breathed a sigh of relief as he watched Ruler leave. She had her own objective, and it wasn’t something he should hinder. Her objective was more noble and important. Unlike his.
 
 There was a mountain of things he should be doing instead of thinking as he ran. Dragon Tooth Warriors were coming at him, and though a Servant would be able to beat one with a single blow, they were enemies that he himself had to handle very cautiously one by one.
@@ -5456,7 +5524,9 @@ He took a deep breath. He was terrified; even though he hadn’t been frightened
 …But his heartbeat was stirring up something inside him.
 
 Gritting his teeth, he tightly clenched his shudderingly cold hands several times. I can do this, he thought, hoped, and prayed—and took his first step forward.
+
 ---
+
 The battle between the two Lancers was still going on neck-and-neck.
 
 While they were both Lancers, their fighting styles were completely different. Lancer of Black stabbed stakes at his enemy just by directing them with a single finger, while Lancer of Red aimed to directly smash his enemy with the spear he held in his hands.
@@ -5578,7 +5648,9 @@ While clad in flames, Lancer of Red fiercely plunged forward—and without mindi
 “Guh…!”
 
 A cry of unconcealed anguish. The struggle for supremacy ended here. Lancer of Red had finally seized Lancer of Black. And in order to increase the success of his finishing blow, Lancer of Red began to wait for the chance to release his other Noble Phantasm that rivaled his golden armor, that is, Brahmastra Kundala: O Brahma, Curse Me.
+
 ---
+
 The Fortress of Millennia. The Masters there viewed the battlefield through their familiars and Menorah, and either gave directions to their Servants or had nothing more to say and simply watched the battle while holding their breaths.
 
 Among them, Darnic suddenly spoke up.
@@ -5696,7 +5768,9 @@ Right now, he was thinking of something terribly crafty and vicious. If necessar
 “—Now then. What to do?”
 
 He thought it over for a short while. And then, Darnic came to a single conclusion. The decision and determination to not balk at dirtying himself with blood was necessary, but that was surely something that he hardly had to be asked to do at this late hour.
+
 ---
+
 —One-sided was the only way to describe it.
 
 From the beginning, the two of them were in different leagues from each other in terms of their status as Heroic Spirits, the age of their mysteries and everything else.
@@ -6195,7 +6269,9 @@ At the same time as the lightning attack turned the surrounding area to rubble, 
 
 
 —The first thing that the boy who had given himself the name Sieg felt was pain.
+
 ---
+
 “Wha…!?”
 
 Even Ruler, who received knowledge concerning all Servants when she was summoned, couldn’t helped but be shocked by the appearance of what appeared before her.
@@ -6385,7 +6461,9 @@ Now then, what should I do—as Ruler wavered over her next course of action, sh
 Astonished, Ruler looked off towards a certain direction. Even without being able to grasp it by sight, she could sense it from that overwhelming amount of prana.
 
 Servant parameters were rewritten. It applied to two Servants. One was changed from being listed as healthy to dead, and the other went from a dying state to—
+
 ---
+
 There was once a hero. A great hero who killed a dragon.
 
 
@@ -6441,7 +6519,9 @@ For the sake of the benevolence that I believe in, the justice I believe in, the
 That is my dream, my wish.
 
 I——want to be an ally of justice.
+
 ---
+
 The strong pain running through the back of his left hand forcibly brought Sieg back to consciousness.
 
 “Ugh…”
@@ -6548,7 +6628,9 @@ Thus, a hero of legend—the ‘dragon-slayer’ returned to stand on the earth.
 
 ![](https://i.lensdump.com/i/1moAHc.webp)
 
+
 ---
+
 It was an impact so strong that every Servant on the battlefield sensed it and froze. Just when it seemed that the abundant prana dispersed as if having exploded, a tremendous ‘something’ was born.
 
 Rider of Red and Archer of Black, who were facing each other intensely, put a temporary hold to their battle and ran out of the forest—
@@ -6829,7 +6911,9 @@ Most likely, his resolve would be even greater when he next transformed and he w
 If she was to grasp victory, she had to completely eliminate that ‘next’ chance!
 
 I have to cut off his head and stab my sword through his heart by any means possible, or else—Obeying her instincts, Saber of Red took a step forward.
+
 ---
+
 Assassin of Red’s Fortress Noble Phantasm, Hanging Gardens of Babylon. Though on the battlefield, this fortress was the only place ruled by silence and calm.
 
 “—Now then, Master. Was that part of your calculations?”
@@ -7227,7 +7311,9 @@ The problem was that the Hanging Gardens were approaching the crumbled Fortress 
 “I’m terrible at it. I don’t want to think about it that much, but it seems I’ll have to rely on you.”
 
 In response to Shishigou’s grumbles, Saber of Red chuckled. Yes, in other words, it was time for her to use her personal skill, [Prana Burst].
+
 ---
+
 “…Hmm. I thought that destroying that fortress would be slightly difficult, but we were saved the trouble. I thought we would have to use Lancer’s Noble Phantasm as well, but…”
 
 Assassin of Red said that and gazed at her fellow Red Servants who had retreated from the battlefield to the Hanging Gardens.
@@ -7313,7 +7399,9 @@ The situation had also reversed along with the offence and defence. The Fortress
 But there was one thing that would become problem in this current situation. That was the existence of Ruler, who already was in the midst of heading here. But the only ones who knew that were Assassin and Caster of Red along with their Master Shirou.
 
 The Black camp, Red camp and Ruler all understood that this was a battle against time. In the several minutes it would take for the Greater Grail to be torn out from the ley lines and completely installed inside the Hanging Gardens, they had to fight a desperate battle to the death.
+
 ---
+
 Ruler had left behind Rider of Black and Sieg and was now running towards the Hanging Gardens by herself at full speed. The closer she got, the more shocked she was by that floating Noble Phantasm. Anti-Fortress Noble Phantasms, which possessed the pure power to destroy fortresses and castles, were rare, but that didn’t mean that there weren’t Heroic Spirit who owned them. However, Noble Phantasms that were fortresses in and of themselves were most likely even scarcer.
 
 Fortresses that existed as Noble Phantasms, according to the knowledge that Ruler immediately dragged out, were limited to those like the one possessed by Ireland’s Child of Light. And even that was restricted to the borders of his homeland.
@@ -7417,7 +7505,9 @@ Ruler gritted her teeth slightly. But Assassin’s words were correct.
 Something had already been ‘born’ along with an enormous outpouring of prana. Something that didn’t belong in the Holy Grail War and could be considered fatal.
 
 Ruler turned her back to Assassin and began running with all her might.
+
 ---
+
 —It was overwhelming.
 
 “…As I thought.”
@@ -8044,7 +8134,9 @@ Unable to forgive each other’s existence, they quietly glared at each other.
 ## Afterword 
 
 ### Haganeya Jin
+
 ---
+
 —Let me tell you about a certain man.
 
 From the time we first met, he was connected to pathology.

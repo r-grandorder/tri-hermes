@@ -1,8 +1,12 @@
 # Fate/Apocrypha Act 1 - Unbirth
+
 ---
+
 The sage cries out. "Open, Gate of Heaven. Bless us and bestow miracles upon us!"
 
+
 * * * * *
+
 -- It was a place endlessly surrounded by cravings.
 
 Gluttony and lust bring forth avariciousness and a hunger for fame, in turn bringing forth violence and cajolery. Everyone gladly threw themselves into this endless hell.
@@ -91,7 +95,9 @@ As he incinerated the magic circle and left the building, the man's eyes switche
 
 A host was his profession, his working name "Hikaru". The magus, true name Sagara Hyouma, melted away into the city of cravings -- practically perfectly.
 
+
 * * * * *
+
 To Rikudou Reika, the sounds of the heart were strange.
 
 As her heart thumped, she lived. Without this sound, her brain, organs and limbs would be dead.
@@ -148,7 +154,9 @@ She did not know what will happen in her life during the coming days, but at lea
 
 And she knew that this was wrong.
 
+
 * * * * *
+
 "Heeeey. Reika. Are you listening to me?"
 
 Feeling the tap on her face, Reika turned her lightly-colored eyes to the man.
@@ -491,7 +499,11 @@ When he ignored it and tried to order her to "commit suicide", he noticed,
 
 -- his jaw, was gone.
 
-" ------ !!"
+" 
+---
+
+---
+ !!"
 
 The words he wanted to cry did not come out. The only speech he could manage was a ridiculous breathing sound.
 
@@ -501,7 +513,13 @@ His wrist received a shock.
 
 In violent pain, with his blood discharging as though from a bottomless bucket, Hyouma fell into a panic at once.
 
-" ------ !! -- ! -- ! --- !!"
+" 
+---
+
+---
+ !! -- ! -- ! 
+---
+ !!"
 
 Even so, he could not speak.
 
@@ -521,7 +539,9 @@ Perhaps it was because of how her expression was filled with so much concern for
 
 Reika murmured and lost consciousness.
 
+
 * * * * *
+
 -- When she awoke again, the nauseous agony had disappeared from her.
 
 But there was a wrongness to her entire body that she could not shake off.
@@ -606,7 +626,9 @@ As always, it was a strange method of address, as though overlapping the words "
 
 "Okay. We will explain as much as we can."
 
+
 * * * * *
+
 -- Jack the Ripper talked of the 'Holy Grail War' in a simplified manner to Reika, who had no magical knowledge.
 
 The Holy Grail, able to realize any and all miracles, had been re-enacted by a group of great magi. However, the Grail would grant the wish of only one.
@@ -671,7 +693,9 @@ Well, would you please?"
 
 For whatever reason, Reika felt like stroking the head of the bashful Jack. The girl accepted it happily.
 
+
 * * * * *
+
 The transfer took an hour.
 
 Despite the fact that it had been cut off, Hyouma wept in anguish when the Command Spells were forcibly torn off. Was his sense of pain still connected? Or was it from his despair that his qualification as a Master in the Grail War -- that his aspiration had been lost to him?
@@ -714,7 +738,9 @@ Jack sniffed the jewel and nodded.
 
 "Yes, this is it. No doubt about it."
 
+
 * * * * *
+
 She had made a contract with a Servant, had Command Spells transferred to her, and obtained a Vessel.
 
 Rikudou Reika had become a Master in name as well as reality, and was in a position to use Servant Assassin.
@@ -875,7 +901,9 @@ As would be expected, fatigue was setting in on her.
 
 As soon as she laid down on her bed and closed her eyes, Reika fell unconscious at once.
 
+
 * * * * *
+
 And, she dreamed.
 
 The first thing she felt was a rending, gouging cold.
@@ -986,7 +1014,9 @@ She was no longer a simple killer.
 
 She was one had obtained from others the belief known as fear -- a "Reverse Heroic Spirit".
 
+
 * * * * *
+
 She woke from her dream.
 
 For a moment, Reika was confused by the fact that she was sleeping on her own bed.
@@ -1017,7 +1047,9 @@ Even if she was awake, there was nothing she had to do in the morning.
 
 Murmuring this, Reika put her arms around Jack's head and closed her eyes again.
 
+
 * * * * *
+
 When it became night, Reika went out into the streets with Jack.
 
 Jack explained to Reika about a technique called 'spirit form' that completely erases her from view.
@@ -1114,7 +1146,9 @@ We're off, Mother."
 
 Jack said in a leisurely tone as she ran off with a knife in one hand.
 
+
 * * * * *
+
 Akagami Finance was, simply put, a black-market lender.
 
 They lend people money with a smile, and then take away all that they own with wicked faces.
@@ -1201,7 +1235,9 @@ Looking around her, she located a new target.
 
 As Jack's stomach still complained of considerable hunger, she drew the hearts out of every single one of them, and finally managed to fill herself comfortably.
 
+
 * * * * *
+
 
 "Thank you for the meal."
 
