@@ -1,5 +1,15 @@
 # Fate/Apocrypha Volume 2: Round Dance of Black / Festival of Red
 
+![](https://i.lensdump.com/i/1moINm.webp)
+
+![](https://i.lensdump.com/i/1moCrz.png)
+
+![](https://i3.lensdump.com/i/1motL9.webp)
+
+![](https://i.lensdump.com/i/1mo1a2.webp)
+
+![](https://i1.lensdump.com/i/1moTkv.webp)
+
 ## Prologue
 ---
 There was once a hero. A great hero who killed a dragon.
@@ -265,6 +275,8 @@ Celenike slapped Rider’s face again. Even so, he remained calm and composed, w
 “Ow, oooooww! No, c-come on, give me a break!”
 
 She felt satisfied as Rider finally showed an anguished face. It was an expression that she hadn’t been able to see no matter what she did to him on top of the bed.
+
+![](https://i2.lensdump.com/i/1mYw3Q.webp)
 
 —This alone is wonderful, and yet…
 
@@ -1024,7 +1036,7 @@ It was like a chain to him. The homunculus, having been saved by much good fortu
 …A strange feeling of guilt crept through his body. It was something that couldn’t be helped, but his heart wanted to do something about it.
 
 Ruler had her breath taken away by Sieg’s words.
-
+---
 Though the source of the voice he heard was different, he hid the same determination as her within himself. She tried to respond to the laments of the Lord, and he was trying to respond to the laments of his fellow homunculi. Even though Ruler couldn’t hear their voices asking to be saved, this boy heard them.
 
 Therefore—
@@ -2548,6 +2560,8 @@ A fatal magic bullet that targeted the enemy’s head without mistake and could 
 
 Shishigou’s shock at this lasted for only an instant. Moving quickly to retreat, he hid himself on the other side of a car parked along the street. The two arms sprouting out from Fiore’s back each split into two. With now four [arms] in total, two of them acted as substitute legs for her by stabbing themselves into the stone pavement. And the other two arms opened their jaws straight at Shishigou like menacing insects.
 
+![](https://i3.lensdump.com/i/1mY5We.webp)
+
 “—Mars: Iron Arm of War, shoot.”
 
 With sounds similar to gunfire, [bullets of light] shot out from those openings. Those shots, which had force behind them equal to bullets, pulverized the stone pavement at Shishigou’s feet.
@@ -3347,6 +3361,8 @@ So, God. Give me another chance. Next time, I won’t lose sight of the bigger p
 …Shirou Kotomine awoke from a languid dream. Rather than a proper dream, he had simply dragged out faint yet nostalgic memories. He had intended to doze a bit, but it seemed he had fallen completely asleep.
 
 “So you’re awake, Master. Rider and Archer have returned.”
+
+![](https://i2.lensdump.com/i/1mYhGH.webp)
 
 Assassin of Red, Semiramis, seemed to have put his head on her lap and watched over him as he slept. It was an act truly unlike the queen.
 
@@ -6529,6 +6545,9 @@ On his back was the Phantasmal Greatsword, Balmung. Covering his body here and t
 What accomplished this miracle was the curse of a dragon, and what allowed that transformation was the heart of a dragon. Therefore, their name was Dead Count Shapeshifter: Dragon Revelation Command Spells. A life crystalized in a hundred and eighty seconds, approaching death each time one was used.
 
 Thus, a hero of legend—the ‘dragon-slayer’ returned to stand on the earth.
+
+![](https://i.lensdump.com/i/1moAHc.webp)
+
 ---
 It was an impact so strong that every Servant on the battlefield sensed it and froze. Just when it seemed that the abundant prana dispersed as if having exploded, a tremendous ‘something’ was born.
 
@@ -8019,6 +8038,8 @@ Ruler gazed at the youth with her amethyst-like eyes, and called him by his name
 The boy and the girl were famed and extolled for creating ‘miracles’ by the unrewarded masses and the soldiers who chased after their backs.
 
 Unable to forgive each other’s existence, they quietly glared at each other.
+
+![](https://i2.lensdump.com/i/1mojrZ.webp)
 
 ## Afterword 
 
