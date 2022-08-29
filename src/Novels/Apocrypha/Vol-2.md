@@ -1036,7 +1036,7 @@ It was like a chain to him. The homunculus, having been saved by much good fortu
 …A strange feeling of guilt crept through his body. It was something that couldn’t be helped, but his heart wanted to do something about it.
 
 Ruler had her breath taken away by Sieg’s words.
-
+---
 Though the source of the voice he heard was different, he hid the same determination as her within himself. She tried to respond to the laments of the Lord, and he was trying to respond to the laments of his fellow homunculi. Even though Ruler couldn’t hear their voices asking to be saved, this boy heard them.
 
 Therefore—
