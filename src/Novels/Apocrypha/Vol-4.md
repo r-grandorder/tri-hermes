@@ -1,7 +1,9 @@
 # Fate/Apocrypha Volume 4: Cup of Purgatory
 
 ## Prologue
+
 ---
+
 —Only nineteen years. The entirety of my life didn’t even span two decades.
 
 
@@ -189,7 +191,9 @@ While wrapped within a curse-like fog in darkness frozen to its core.
 Someone thus concluded.
 
 ## Chapter 1
+
 ---
+
 He was in a trance. He was numb. He was in a state of suspension.
 
 The film was cut into disconnected pieces, and the scene changed when he blinked.
@@ -236,7 +240,9 @@ So why was he not dying this time?
 He breathed in and out again. He gathered and accumulated prana. He had to stand up now. The enemy hadn’t disappeared like magic, and she hadn’t carelessly let her guard down thinking that he was already dead.
 
 Because, even now, she was gazing at him as he repeatedly breathed and vomited out blood—her gaze cold like that of a snake.
+
 ---
+
 Screams of agony gushed out from every direction. Due to the fog that had instantly enveloped Trifas, the town had fallen into complete chaos.
 
 Having donned her armor, Ruler frantically ran after Sieg, who had jumped into the fog without listening to her shouted warning. But his figure had disappeared in a blink of an eye due to the fog obscuring her vision.
@@ -323,7 +329,9 @@ If Ruler had made a miscalculation.
 It would be that, in this instant, she concentrated all her senses on Assassin of Black who was going to attack—and viewed the girl she was holding as someone she needed to protect.
 
 The girl opened her mouth—and put her hand inside it, taking out a scalpel that had been stored in her stomach.
+
 ---
+
 In order to kill this unidentified female Servant, Assassin of Black had taken all possible measures. Her own Master, Rikudou Reika, had dealt with the boy who seemed to be this Servant’s Master.
 
 But even so, this Servant hadn’t fallen into a panic, and instead was trying to find and attack Assassin. Most likely, she possessed the skill [Independent Action], or perhaps—the boy hadn’t been her Master in the first place.
@@ -383,7 +391,9 @@ Accordingly, in order to counter this Noble Phantasm, what was necessary was nei
 And the woman she had targeted—Ruler, Jeanne d’Arc, was a saint who unmistakeably had the faith and belief of the world gathered upon her, a Servant with some of the strongest resistance against curses in this world. And what was even more fatal for Assassin of Black…
 
 …was the holy flag she possessed.
+
 ---
+
 Rikudou Reika stared at the revolver whose trigger she had pulled. It was an Italian handgun with an extremely narrow gun barrel, known as a ‘Rhino’. Reika didn’t even know the gun’s name in the first place, though. A Romanian gang that Jack had ‘eaten’ had possessed a heap of firearms, and she had chosen this one because it was the lightest and smallest among them.
 
 How strange, she thought. This thing, which was just big enough to fit into the palm of her hand, could steal a person’s life with just the pull of a single finger.
@@ -465,7 +475,9 @@ The boy’s breathing was starting to gradually settle down. He was still kneeli
 The boy asked that in a low voice.
 
 Now then, what to do—while pondering her option, Reika retreated a step back.
+
 ---
+
 Though only slightly, blood flowed out from the nape of Ruler’s neck. The vacant-eyed girl had stabbed her with a scalpel. There was little strength in the attack, and the scalpel itself didn’t have much prana loaded within it either. But the girl’s arm had changed to the color of black, to the point that it was painful to look at.
 
 Spiritual possession—possession by a low-level spirit was a common phenomenon. Dispersing the spirit wasn’t very difficult either. Normally, Ruler would have been able to easily deal with her attack, even if it was a surprise attack.
@@ -551,7 +563,9 @@ Ruler repelled it with her flag—but she felt something was off. There was no m
 “Children are a dime a dozen. If you still want to protect her… then good luck with that.”
 
 Holding eight scalpels between her fingers—Assassin smiled faintly.
+
 ---
+
 From the rooftop of Trifas City Hall, Archer of Red watched the disastrous scene below with a dumbfounded expression.
 
 “This is—”
@@ -674,7 +688,9 @@ She was fully aware of the danger in jumping into the fog. She was fully aware, 
 “If it’s for the sake of those children, I have no regrets.”
 
 Archer of Red leaped from the rooftop of city hall and jumped into the fog.
+
 ---
+
 He was wracked by intense pain every time he breathed. An ugly scar was spread across his blood-stained chest, a mark from the shots that had hit him. Three bullets had gouged through his chest muscles and reached his heart. If they had been shot at his forehead, he would have certainly died.
 
 But that didn’t mean that he had escaped from death’s door—in fact, there was a gun pointed at Sieg right now.
@@ -896,7 +912,9 @@ Ruler faintly sensed traces of Assassin of Black’s presence. She was mostly li
 “Let’s chase after her, Sieg-kun!”
 
 Sieg nodded and began running after Ruler’s wake.
+
 ---
+
 Rikudou Reika used the Command Spell because the fog had cleared away. The fog dissipating meant that Jack’s power had considerably weakened. It was easy for Reika to imagine that she had fallen into a dangerous situation.
 
 “Mo… ther…”
@@ -1014,7 +1032,9 @@ She could no long feel or even think anything.
 
 
 At that moment, Rikudou Reika merely wore an expression that somehow seemed to fit the situation… a smile.
+
 ---
+
 Archer of Red shot down Assassin of Black’s Master. Even if she had left them alone, it wouldn’t have been a problem. Rather, it would have been better for Archer’s side if Assassin and her Master fostered further chaos that way. The only ones bothered by the fact that they were murderers and deviating from the rules of the Great Holy Grail War were magi. It had nothing to do with Archer of Red.
 
 But—Assassin of Black had involved children.
@@ -1154,7 +1174,9 @@ Smoothly, the child entered inside her skin. Another one grabbed her legs—and 
 Archer of Red screamed.
 
 Her heart was tormented not by fear, but by the despair of the children and herself—
+
 ---
+
 Sieg and Ruler, who had been chasing after Archer of Black, were also engulfed in it.
 
 A black fog-like something had surged toward them while they were running through the streets, and engulfed them without giving them any time to run away. A mud-like substance coiled around their entire bodies, and all their senses were cut off, like when you’re about to fall asleep.
@@ -1311,7 +1333,9 @@ The girls grabbed Sieg’s arms. The girls melted while smiling with tears falli
 
 
 Those words… dealt the most fatal wound of all to the heart of the boy who did not yet know the world.
+
 ---
+
 Ruler had also been sucked into the girls’—Jack’s nightmare. Ruler walked down a road filled with the stench of rotting bodies.
 
 “This place is… England?”
@@ -1872,7 +1896,9 @@ If he asked her, would she tell him why?
 Sieg immediately discarded that idea. Questioning everything and getting an answer to everything from others was probably wrong. He needed to think for himself and understand it on his own.
 
 Even if it was a question that might never be answered, even if the answer was lost in the darkness—he mustn’t stop the act itself of searching for that answer.
+
 ---
+
 When Archer of Red returned to the Hanging Gardens of Babylon: Aerial Gardens of Vanity where the Greater Grail was stored, she dispassionately reported to her Master Shirou that she had shot down Assassin of Black.
 
 “If possible, I would have like it if Assassin of Black kept causing a disturbance among the enemy camp a little while longer…”
@@ -2112,7 +2138,9 @@ That’s why Rider of Red decided it was fine to acknowledge him as his Master.
 He didn’t think that was wrong. He didn’t, but—
 
 He still had some slight hesitation he couldn’t get rid of. Rider was certain these feelings wouldn’t disappear until he knew that the salvation of humanity had been correctly brought about.
+
 ---
+
 Each of the Red Servants had been given their own rooms within the Hanging Gardens. Naturally, they could rest by going into spiritual form, but there were many Servants who preferred to stay materialized. Especially when there were no worries in regards to their prana supply.
 
 However, the interior design of the rooms was quite cold and blunt. To Servants, who did not require sleep or food, personal rooms were simply for protecting their privacy. And even that privacy was almost completely useless considering the role they were summoned to this world for.
@@ -2163,7 +2191,9 @@ But Archer of Red accepted that hatred without hesitation. She couldn’t help c
 The more she hated herself and that woman—the more she could prove and believe in her own love.
 
 So, for now, she would sharpen her fangs. In order to kill that false saint, Archer of Red continued to earnestly nurture her hatred.
+
 ---
+
 Caster of Red watched Rider depart, and then headed off to his study. The Servant Caster possessed the class skill [Territory Creation]. This skill’s rank changed depending on the Servant’s ability, bloodline or occupation. If they were famous as a magus, they could even create a Temple, which surpassed a Workshop.
 
 Caster of Red wasn’t technically a magus… in the first place, someone like a writer didn’t need a Temple or a Workshop. What he required was a study for writing.
@@ -2231,7 +2261,9 @@ There was no room for the homunculus to wedge himself in… No, he might be thro
 But even that possibility was about to vanish.
 
 His Master’s plan to save humanity would soon begin. Would Shirou Kotomine become a savior? Or—would he fail to save people once more and become a pitiful clown? Either way, Caster had no doubt it would be a tragic, comic and extremely enjoyable story.
+
 ---
+
 Lancer of Red was in the room where the five former Masters—Rottweil Berzinsky, Gene Rum, the Pentel Brothers and Feend vor Sembren were relaxing.
 
 The five of them sat equal distances apart around a circular table. They weren’t actually confined here, but they talked while looking up at the ceiling with idiotic expressions.
@@ -2345,7 +2377,9 @@ Just before her illusionary phantom disappeared, she turned back to Lancer and a
 “…That’s a foolish question. Assassin, are you such a paranoid monomaniac that you would want to kill the person you adore?”
 
 At those words, the illusionary Assassin lost her composure and became greatly flustered just before vanishing from the room.
+
 ---
+
 Lancer of Red gave a murmur of relief. Assassin probably wouldn’t aim to kill these five after this.
 
 “—It seems my duty is finished. Master, I was unable to exchange a single word with you, but I wish you good fortune.”
@@ -2403,7 +2437,9 @@ She could only watch his back as he left.
 She felt no emotions like sadness or frustration—but rather a vague loneliness like a wispy cloud.
 
 ## Chapter 2
+
 ---
+
 The Masters and Servants of the Black Camp had once more gathered in the castle’s conference room.
 
 After much trouble, Assassin of Black had been taken down, thereby getting rid of any lingering worries before they departed. There would be no problem leaving the other Yggdmillennia clan members to deal with and cover up the injuries from the fog. The fact that the children that Assassin had controlled were all alive and well was a silver lining within it all.
@@ -2892,7 +2928,9 @@ Wiping tears from his eyes, Caules spoke.
 “It’s the final battle. Let’s make sure to go all out, Nee-chan.”
 
 “It’s all right. I—have Archer to protect me, after all,” Fiore replied.
+
 ---
+
 The sky was filled with dazzling stars.
 
 Though the occasionally blowing wind was cold, it wasn’t so bad that it made the body shiver. Seen from the lookout of the Fortress of Millennia, Trifas looked to have finally regained its peace.
@@ -3257,7 +3295,9 @@ Their parting was definitely close at hand. Servants were spirits, and even if C
 It was already uncertain what victory or defeat was at this point. But even so, Fiore could only pray and entrust those words to him.
 
 Without saying anything, Archer nodded with a gentle smile.
+
 ---
+
 Sieg and Rider of Black had left Trifas to head to Bucharest. Fiore had furnished a safe house in the city and had asked them to head there first.
 
 …Apparently, she was conducting a ritual that couldn’t be shown to outsiders. Leaving aside Rider of Black who was a Servant, the homunculus would possibly live past the Great Holy Grail War, and so Fiore had requested that he go to a location as far away from the castle as possible.
@@ -3532,7 +3572,9 @@ Despite the fact that they were in the middle of town, she was the only one who 
 Saber of Red replied while glaring at the two of them with suspicious eyes.
 
 “…That’s my line.”
+
 ---
+
 —It appeared she was seeing a dream.
 
 The family who had taken upon the name of Shishigou had moved to a gloomy land in a Far East island nation where it seemed to rain all-year-round. Fair weather only lasted for a shoot time during summer. On most days, the skies were covered with dark grey clouds.
@@ -3872,7 +3914,9 @@ Chiron had been there, and so had Achilles. And the problem was one of the other
 Shishigou thought about what result that would bring about—and made a decision.
 
 Breaking down the knife he had previously made, he started constructing a new magical tool.
+
 ---
+
 Saber of Red walked idly down the streets of Bucharest during midday. In addition to her excessively exposing outfit, her dignified and beautiful features attracted quite a lot of attention… However, not a single person tried to call out to her.
 
 The public order in Romania’s capital of Bucharest was terrible. At the very least, there was a high chance that a girl like her, walking outside alone in such a conspicuous outfit, would be dragged into some kind of trouble.
@@ -3968,7 +4012,9 @@ The boy nodded like a drinking bird.
 After looking first at the boy and then Rider of Black, Saber of Red frowned and spoke.
 
 “All right. Where will we go to talk?”
+
 ---
+
 The three of them began walking down the main street. Although Sieg and Rider had randomly gotten involved with other people when they were walking through the streets earlier (and Sieg had desperately stopped the joyful Rider from going out of control each time), now everyone they passed seemed to avert their faces from them.
 
 It appeared to be because of Saber of Red who walked at their head… Certainly, her brutal presence, which could be clearly felt even from behind her, was unbearable for normal people.
@@ -4257,7 +4303,9 @@ With those final words, she gallantly left the shop. Watching her leave, Sieg mu
 “…She ate that much and yet left without paying her share.”
 
 “She really is like a king in that regard,” Rider of Black said as he burst into laughter.
+
 ---
+
 While walking through the streets, Saber of Red thought back on the earlier question.
 
 “What kind of king—huh?”
@@ -4505,7 +4553,9 @@ Shishigou said that while puffing out his chest proudly.
 “This? Really…?”
 
 Even as she grumbled, she put the DVD in the video player prepared in their hotel room. After three minutes of the movie playing, Saber began to get engrossed in watching it.
+
 ---
+
 When nighttime came, Ruler arrived at the hideout.
 
 “Sorry I’m late…”
@@ -4563,7 +4613,9 @@ As Ruler was scrupulously washing the blood off her hands with soap in the washr
 The next instant.
 
 The world stood still. (Or perhaps history shook.)
+
 ---
+
 Having received, through Assassin of Red, a notice from their Master Shirou to convene together, the Red Servants gathered in the throne room.
 
 “—According to my doves, the Black camp has finally begun to move. Though it’s later than expected, they will likely arrive here in around four days through some means.”
@@ -4636,7 +4688,9 @@ Assassin could only stare dumbfounded at hearing those final words. On the other
 “Yes, the insatiable pursuit of amusement itself is essential. Then, using all the power of my treasured Noble Phantasm, I will show you the power of the written word, which not even swords, magecraft, fire, or lightning can match!”
 
 Watching Caster and Shirou swell with excitement, Assassin gave a small sigh of exasperation.
+
 ---
+
 ——Now then.
 
 Naturally, there were good reasons for why Ruler left to go to the hideout in Bucharest later than the other two. One was to have a negotiation session with Fiore, who had asked Sieg to help their side.
@@ -4935,7 +4989,9 @@ As Archer helped her sit up, Fiore shook her head and smiled feebly.
 “No, not at all. All the praise should go to Caules right now. He’s my younger brother who I’m very proud of, after all.”
 
 Caules turned red at those words and put his hand over mouth as his lips reflexively slackened into a smile.
+
 ---
+
 “Hmm, so that’s why you left later than us.”
 
 Having changed into pajamas he had shrewdly bought before coming here, Rider of Black grinned at Ruler who was laying her head on a desk.
@@ -5125,7 +5181,9 @@ Ruler stiffened and stared at Sieg’s body. A shirt was hanging off his right a
 Moving jerkily just like a mechanical doll, she passed by Sieg to go to the washroom.
 
 As he watched her go, Sieg found her behavior odd, but he just shrugged and decided to go up to the second floor bedroom. It’d be nice if Rider doesn’t barge in like last time, he thought. After all, Rider stayed in physical form and tossed and turned while he slept, which caused Sieg to be often kicked off the narrow bed.
+
 ---
+
 I pray in the morning, I pray at noon, I pray at night, I pray before eating and I pray before I go to sleep.
 
 —In other words, my way of life is simple. Every day is suffocating.
@@ -5276,7 +5334,9 @@ But she couldn’t throw these feelings away no matter how hard she tried. Even 
 Whiling hoping her feelings would dissolve into steam and disappear—Ruler looked up at the ceiling and heaved a huge sigh.
 
 ## Chapter 3
+
 ---
+
 …For the next two days after that, everything was peaceful. Staying inside the hideout would let them avoid unnecessary trouble, so Sieg wanted to spend time there idly—and ponder a vague thought he still couldn’t quite put into words.
 
 But his Servant wouldn’t allow that.
@@ -5764,7 +5824,9 @@ Even if she lamented what she lost, she still felt pride over having once had so
 She murmured that aloud to herself, and then giggled. Naturally, she would feel regret if she died—but she felt like she would be able to take pride in it even if she only managed to make a single step forward.
 
 Without sleeping, Fiore quietly waited for tomorrow.
+
 ---
+
 —The night wore on.
 
 Saber of Red and Shishigou Kairi had left Bucharest and were heading by car to Mihail Kogălniceanu Air Force base, which lay about three hundred kilometers away from the city.
@@ -6127,7 +6189,9 @@ He had surely entrusted something to the one who had now become Saber of Black. 
 
 
 Thus, Lancer of Red lived, in order to protect his Master to the end of the war and fulfill his promise with Saber of Black.
+
 ---
+
 —It didn’t feel like nighttime at all to me.
 
 The calm air became filled with a heavy heat, burning my skin.
@@ -6247,7 +6311,9 @@ I bit into the upper jaw and bared my fangs at the dragon.
 He looked out the window from his bed. It was still dark outside, but the sky was becoming slightly bluish.
 
 Dawn wasn’t far away. Determining he couldn’t sleep any further, Sieg decided to get up.
+
 ---
+
 —The night came to an end as dawn broke.
 
 Ruler gazed at the gradually changing sky through the window without getting tired of it. She had already finished her morning prayer. If she were to consider Laeticia’s physical health, it might be better to go back to sleep—but even so, she didn’t feel like sleeping at all.
@@ -6367,7 +6433,9 @@ And that situation was impossible nine times out of ten. Too much blood had been
 Even so, one camp held a naïve hope. That perhaps they could understand each other by talking—
 
 ## Chapter 4
+
 ---
+
 —Thus, the day of the final battle arrived with gentle rays of sunlight.
 
 Right after dawn, Fiore, Caules and Archer of Black boarded a limousine along with a homunculus driver.
@@ -6427,7 +6495,9 @@ This negotiation might drag on for a long while—
 “Hey, what are you daydreaming around for? Hurry up, we’re starting the castle repairs today.”
 
 Recalling that particular matter thanks to Tool’s words, Gordes changed his plans. First, he would start with the work that was right in front of him… It wasn’t like he wanted to push off the unpleasant work for later. Not at all.
+
 ---
+
 It was already past evening by the time Fiore arrived at the safe house Sieg and the others were staying at. After she knocked, Rider swiftly opened the door with Sieg and Ruler in tow.
 
 Fiore sat in her wheelchair before the door with Archer of Black behind her.
@@ -7002,7 +7072,9 @@ Upon hearing Rider’s grim tone, Sieg took a moment to take a deep breath. He f
 “All right, get on, Master!”
 
 Rider lightly tapped the hippogriff’s neck and lightly jumped on its back. Rider held out his hand, and Sieg firmly grabbed it.
+
 ---
+
 The very existence of the temple Noble Phantasm Hanging Gardens of Babylon was miraculous in itself, but the basement room containing the ‘altar’ that stored the Greater Grail was an especially strange room within the gardens.
 
 First, its size was clearly abnormal. Considering the total size of the Hanging Gardens, there was no way for there to be any space within so huge its wall were out of sight, but even someone with eyes accustomed to darkness couldn’t see where this vast room ended. Most likely, space was being distorted here through some form of magecraft.
@@ -7282,7 +7354,9 @@ He was attempting to adjust and reprogram the Greater Grail itself, something th
 If it wouldn’t grant his wish, then the Holy Grail was the one that was mistaken. So he would merely correct it.
 
 Shirou walked towards what he had long sought—which surely lay beyond this expanse.
+
 ---
+
 Several hours had already passed since Shirou had dived into the Greater Grail. He would probably require an even more considerable amount of time to complete his task. The Greater Grail was a work of art on the level of the divine, and Shirou was trying to modify it from its very foundation. There was no way he would finish quickly.
 
 For the time being, Caster had returned to his study and resumed writing. It was then that he received a telepathic message from Assassin of Red.
@@ -7431,7 +7505,9 @@ Caster stopped his pen at the sudden tremor that rocked the gardens. The time wa
 Heartily laughing, Caster stood up and ran out of his study.
 
 “It’s a battle against time now. But our Master is ignoring sleep and hurrying to speed up time as much as possible. Even if they make it in time, we’re protected by invincible swords and indomitable shields, and are encased in fortress as hard as a diamond. Now, what shall happen next!?”
+
 ---
+
 At almost exactly the same time, Assassin of Red opened her eyes as she sat upon her throne.
 
 “—Hmm, so they’ve come.”
@@ -7547,7 +7623,9 @@ The Black camp would win this battle if they reached the gardens.
 And the Red camp would win if they prevented them from reaching the gardens.
 
 Amakusa Shirou Tokisada aimed to save humanity, while Jeanne d’Arc was trying to prevent him from doing so. The final battle between the two sides began in a magnificent manner at the dead of night, seven thousand and five hundred meters above the Black Sea.
+
 ---
+
 The holy flag in her hands fluttered violently in the fierce and piercingly cold wind. The young woman stood majestically atop one of the planes.
 
 The superb view around her was a hell in the sky where ordinary humans couldn’t exist.
@@ -7712,7 +7790,9 @@ Of course, Rider of Red was at full strength, and even if he was reluctant for t
 Archer of Black didn’t wish for such an ending. And he knew that Rider of Red was using all his strength and taking advantage of the situation as well.
 
 And then—at last, Archer’s adjustments were completed.
+
 ---
+
 She’s come.”
 
 “That hateful woman has come.”
@@ -7849,7 +7929,9 @@ That repulsive, hate-filled voice belonged to Archer of Red.
 And Ruler replied with a great solemnness, as if to stamp out that hatred.
 
 This was how the fight between the two female Servants began.
+
 ---
+
 “You have your back to the wall now, Archer of Black!”
 
 As Rider of Red’s booming words echoed through the sky, Archer of Black smiled coolly and shot an arrow. However, Rider’s chariot closed in on Archer faster than the arrow could reach him.
@@ -7983,7 +8065,9 @@ That might actually bring about the salvation of humanity
 “…It, can’t be…”
 
 Archer of Black involuntarily let those words slip out—while Rider of Red laughed.
+
 ---
+
 Perhaps swimming would be a better analogy for what he was doing than walking. In any case, Shirou Kotomine determinedly advanced while feeling as if his skin was being peeled off and his flesh was meting away.
 
 This place wasn’t within the Hanging Gardens. The interior of the Greater Grail was a space separate from the real world. Physical laws, the laws of magecraft and even himself were mixed and churned together to form something else entirely.
@@ -8079,7 +8163,9 @@ Shirou Kotomine at last laid hands upon humanity’s salvation.
 ## Afterword
 
 ### Nasu Kinoko
+
 ---
+
 At last, the war has reached the final battleground—seven thousand five hundred meters midair above the ground, a place that can’t be reached by human hands.
 
 The blue sky that encompasses their entire field of vision is endless, and the unseen, far-off ground exemplifies the limits of the human world.

@@ -2,7 +2,9 @@
 
 ## Prologue
 
+
 ---
+
 
 Now… let us speak of the Third Holy Grail War.
 
@@ -73,7 +75,9 @@ And so Amakusa Shirou found himself standing before Jeanne d’Arc – the true 
 Thus the true war began. No longer would it be a squabble between magi bickering about desires and honor – but a clash that would alter the course of humanity.
 
 ## Chapter 1
+
 ---
+
 His mouth was filled with the sweet, metallic taste of blood.
 
 Although he was not severely wounded, some healing was certainly required. This was beyond his body’s natural regeneration.
@@ -417,7 +421,9 @@ Whichever the case, he got the feeling that…
 “…she’s going to be angry.”
 
 Sieg muttered, and quietly sighed.
+
 ---
+
 A cold silence surrounded the Hanging Gardens of Babylon – the Noble Phantasm created by the Assassin of Red, the likes of which had never been seen before, that had managed to secure the Greater Grail.
 
 A young man with brownish skin and silver hair steadily watched his opponent, wearing a gentle smile at odds with the air of deceit that surrounded him. Opposite him stood a girl, white as snow and with golden hair, her mouth forming a thin hard line and her eye delivering a scorching glare.
@@ -654,7 +660,9 @@ Semiramis tilted her head, puzzled by Shirou’s murmurs.
 
 A tradesman was one who devoted his spirit into his creations – his cause, his pride, and his technique. Avicebron was decisively different, for he offered his faith – his heart of worship. He worked for neither a cause nor the spirit of self, but simply continued to create more of his one focus. That was the sole reason why the Caster of Black joined the Red camp, to continue his pursuit of the ‘pinnacle’: the Anti-Army Noble Phantasm he was attempting to create… that transgression, the golem Keter Malkuth.
 
+
 ---
+
 
 Avicebron commanded the golem to accelerate. He would not be able to reach Rider and Archer in a hundred years with his own two feet, but through the use of golems, he could pursue them effortlessly and at leisure.
 
@@ -686,7 +694,9 @@ Life truly was but a succession of ironies and falsities, he reflected cynically
 
 He no longer had eyes for anything else – not his enemies, not his allies, and not even himself.
 
+
 ---
+
 
 Before they realized it, Mordred had disappeared. Jeanne and Chiron hastened towards the castle.
 
@@ -732,7 +742,9 @@ Lancer Karna, the peerless hero of ancient India; Archer Atalanta, the great hun
 
 On top of that, even the Greater Grail had been taken. The odds were entirely against them, and the sense of urgency would only increase as time passed. However, Ruler did not lose track of what she needed to do first; her greatest priority was making the Black camp understand exactly the situation they were in.
 
+
 ---
+
 
 Crap, crap, crap…!
 
@@ -774,7 +786,9 @@ I thought I was dead for sure…
 
 That was the most succinct description of what Shishigou felt right now, and he swore to himself that the next time they decided to invade the Hanging Gardens, he would bring something actually meant to fly.
 
+
 ---
+
 
 A significant portion of the forest had been mowed down by the Berserker of Red. It was at the lake at the northern tip where they were to meet.
 
@@ -839,7 +853,9 @@ Finally, its upper torso appeared, like a citadel raising from the surface of th
 “It is time to install the ‘core’. Are you ready, my Master?”
 
 “Yes!”
+
 ---
+
 Sieg’s face clouded over as he surveyed the half destroyed castle.
 
 He could see a slender arm, likely belonging to a homunculus, jutting out from under some debris – and hurriedly ran towards it when he saw it twitch.
@@ -958,7 +974,9 @@ The homunculi all looked at Sieg who nodded in understanding. Most likely, he wa
 
 “If it comes down to it, I will be your shield… let’s free them all.”
 
+
 ---
+
 
 The task was easier than he had expected once they got started in earnest. After shattering the tank with the halberd, they removed the mechanisms used to absorb their prana, while Sieg wiped their bodies dry, dressed them and put them on the stretchers. By exercising their greatest quality – the ability to work with calm and patience – the homunculi were able to carry out the task impeccably.
 
@@ -1219,7 +1237,9 @@ Fiore kicked off her wheelchair, activating the Bronze-Link Manipulators on her 
 “Is that… Keter Malkuth…?”
 
 There was one thing that she understood with only a single glance. It was that the golem before her was entirely unlike anything she had ever seen before. Even Roche’s or Aviecebron’s other creations of war could offer no comparison; it was on a completely different level.
+
 ---
+
 Roche was perplexed.
 
 “S-Sir…?”
@@ -1314,7 +1334,9 @@ As long as it existed, the giant would continue to replace the world with its ow
 
 The golem began its march towards the Fortress of Millennia, easily scaling the cliff side. Perched on its shoulder, Avicebron glared at the magi and Servants gathered atop the half-collapsed rampart.
 
+
 ---
+
 
 And so the Masters and Servants of Black met the giant. Riding upon its shoulder was Avicebron, the Caster of Black who had so readily betrayed them for the Red camp.
 
@@ -1466,7 +1488,9 @@ Evading the giant’s downward slash, Jeanne stabbed with her banner – not tow
 
 Jeanne could only buy time for the others – for she had no means to bring decisive victory. Rather, she had one – but it was forbidden to her. At the very least, she could not employ it here. She was beginning to fluster but, holding back her emotions, she continued to swing her banner and deflect the giant’s sword.
 
+
 ---
+
 
 Watching all this from high above, Fiore shouted.
 
@@ -1692,7 +1716,9 @@ Red lightning crackled as Mordred exercised her Prana Burst fully, her instincts
 
 Responding to her enmity, the sword symbolic of the king’s authority began to warp, stained by her hatred.
 
+
 ---
+
 
 “I see… so you are just another golem, in the end.”
 
@@ -1742,7 +1768,9 @@ Sieg had no response to that claim. In any case, she was satisfied that he was n
 
 Yet the holy maiden Jeanne d’Arc continued. One day, Sieg thought, he would ask her – whither she directed her prayers to.
 
+
 ---
+
 
 The battle was over. They had managed to defeat both the Caster of Black and his Noble Phantasm, but it could hardly be said that they had reversed the overall situation.
 
@@ -1779,7 +1807,9 @@ Shishigou raised a hand and grinned. Meanwhile, the girl tried to maintain her c
 They chuckled. Fiore knew one thing for certain – behind the man’s sunglasses, there was no laughter to be found in his eyes. Of course, Shishigou could say much the same for her.
 
 ## Chapter 2
+
 ---
+
 The Hanging Gardens had already begun its advance. Having taken the Greater Grail into its stomach, the fortress sailed across the dawn sky.
 
 With his sensory abilities as a Ruler, Shirou was able to determine that Avicebron had perished; it would seem he was unable to fulfill his dream. In any case, it meant that the opposing camp now had some leeway to reform and reorganize.
@@ -1936,7 +1966,9 @@ Hearing this, Semiramis looked somewhat disgruntled and turned away.
 
 Amakusa Shirou Tokisada began to speak – of the results of innumerable thoughts entwined by nigh madness into the single conclusion he reached. No matter how others might misunderstand it – whatever they would accuse him of – he would never change this answer.
 
+
 ---
+
 
 “…That was what Archer and I had encountered.”
 
@@ -2006,7 +2038,9 @@ What did Amakusa Shirou see, and feel, and swear to do that day – on that batt
 
 Jeanne and Astolfo had lived their lives through periods of strife. Chiron came from an era of myth when heroes roamed the world. However, they could give no answers to these questions.
 
+
 ---
+
 
 “Let us put this aside for now… the problem is what he plans to do.”
 
@@ -2154,7 +2188,9 @@ Once Sieg used up all of his Command Spells, he would most likely die. However, 
 
 Jeanne’s words suddenly reaching him, Sieg hastily shook his head. ‘I do hope so,’ she said as her eyes narrowed. His own Servant Rider aside, he found it strange how Ruler had also tried to distance him from the fighting. However, it was his decision to remain – not due to the irresistible force of fate, but by of his own will.
 
+
 ---
+
 
 With the acknowledgement of the others, Fiore moved on to the next concern.
 
@@ -2261,7 +2297,9 @@ That’s Chiron for you, Caules applauded internally. As could be expected of th
 Frankly, Caules did not believe that he could give a proper answer. What if the Servant came at him with some philosophical conundrum? As he worried in all the wrong ways, Chiron asked quietly.
 
 “From your eyes… do you believe your sister is suitable as the head of the Yggdmillennia?”
+
 ---
+
 Despite the softness of Chiron’s voice, his words hit Caules with explosive force.
 
 “What…?”
@@ -2286,7 +2324,9 @@ Despite his tone, it was clearly not a request in this case. Caules scratched hi
 
 Despite grumbling all the way, Caules did not show any sign of fatigue as he and Chiron strode down the hall together.
 
+
 ---
+
 
 The tottering piles of books stood like a mountain of information material. He had hardly taken a step out of his study, his pen racing across paper as he worked. That was one thing that authors like himself would agree on; the convenience of becoming a Heroic Spirit was that you no longer needed to deal with food or drink or bowel movements. It was quite fortunate to be summoned like this once in a while – even though it was also quite rare for an author to be involved in such an interesting situation.
 
@@ -2336,7 +2376,9 @@ Shakespeare declared with pride. ‘That is not something to be proud of,’ Ata
 
 Shakespeare bowed deeply in reverence in gentlemanly response – the effect somewhat ruined by the gleeful grin he wore on his face as he did so.
 
+
 ---
+
 
 Climbing a ladder, they reached the watch-tower of the castle. They were surrounded by stone walls, with slits here and there to shoot arrows through. In a regular siege, a bowman would be able to fire upon the enemy soldiers gathered at the gate. Unfortunately, their current opponents were Servants – although in all honesty, Caules had not expected the Berserker of Red to be such a terrible foe.
 
@@ -2500,7 +2542,9 @@ Despite the baselessness of the Servant’s words, Caules found that his heart w
 
 As he leaned against the stone wall, he found his strength slipping from him as he slid down to the ground – and finally, he began to feel sleep overcoming him. As his consciousness drifted, he remembered that he was in the watch-tower. However, his exhausted mind refused to move his body further.
 
+
 ---
+
 
 Fiore and the others left the chamber once the discussion ended. However, Shishigou Kairi and Mordred would be returning to their den instead of staying in the castle.
 
@@ -2687,7 +2731,9 @@ Sieg agreed. He closed his eyes – and found that his fear of the darkness had 
 What is she doing now…?
 
 That was the last thought to cross his mind before his consciousness faded.
+
 ---
+
 Jeanne received a mild chiding when she reached the church.
 
 “When I woke up and saw what happened to the castle, I was quite worried, you know? You just went off and didn’t come back.”
@@ -2750,7 +2796,9 @@ With words of prayer on her lips, Jeanne began to close her eyes. Suddenly, her 
 
 The instant that she confirmed this to herself, her consciousness began to fade.
 
+
 ---
+
 
 Mordred wondered whether she should sigh or express herself in some other way – in the end deciding to do what was most fitting and punching the ground.
 
@@ -2915,7 +2963,9 @@ His words were an oath. His voice carried a pride that he would protect even at 
 “Yeah, good enough. Master… let’s take that Grail.”
 
 All senses of being crushed gone, the two looked up at the ceiling as their fists lightly touched one another in the dark.
+
 ---
+
 Gordes was feeling agitated. This was nothing new to him, but it was not quite the same as usual this time.
 
 “I’m sorry… there’s nothing more that I can do.”
@@ -3079,7 +3129,9 @@ As she said this, she gave him an overly friendly pat on the shoulder. Gordes th
 In the end, Gordes did not sleep until he finished fixing all of the homunculi.
 
 ## Chapter 3 
+
 ---
+
 He had told them everything that he could – and while he did not obtain the full consent of all three Servants, they promised to at least maintain the present situation. In other words, if the Servants of the Black camp were to assault them, they would protect the Hanging Gardens and the Holy Grail. As long as they could fulfill this, it mattered little even if they did not accept Shirou as their Master.
 
 In a way, he had just overcome the greatest gauntlet. Heroic Spirits could be proud creatures, capricious, noble – and utterly without hesitation. It would not have been strange for one of them to have killed him on the spot when he revealed his identity and his seizure of the Masters’ rights.
@@ -3144,7 +3196,9 @@ However, if he were to find himself lacking in the end and fail – then that wo
 
 The Assassin chuckled as she vanished, as her Hanging Gardens of Babylon continued to sail across the Romanian skies, unseen by mundane eyes.
 
+
 ---
+
 
 The Greater Grail maintained its incorruptible brilliance as it had always done. Some amount of prana had been spilled when it was ripped from the ley lines, but it would not prove to be a problem.
 
@@ -3181,7 +3235,9 @@ However, the Ruler of this war, Jeanne d’Arc, stood by them – as did Mordred
 On the other hand, the Red camp had a crushing advantage in not only the quantity, but also the quality of Servants. In addition, they were encased within the autonomous mobile fortress that was the Hanging Gardens. The side with the fewer captains were being forced to besiege them, on top of breaking through to victory in as short a time as possible.
 
 Looking purely at the balance of factors, the situation was stacked heavily against the Black camp. However, it was not yet time for the Red camp to lower their guard. After all, regardless of the side they stood on, Servants were heroes of famous myths and legends – and a hero was only awarded the title by overcoming any and all obstacles. There was no doubt that the Servants of Black would engage them once again to decide this war.
+
 ---
+
 It was… a brilliant dream.
 
 It was the radiance of glory, as though all blessings in the world had gathered at this ceremony. It was the crowning of Prince Charles as King of France, after his victorious march into Reims – the dream and hope of all the French people.
@@ -3285,7 +3341,9 @@ That was the decisive difference between Leticia and me. More than anything else
 I had no right to even think about him, much less care for him or love him. All I could do was to seal those thoughts in some distant corner of my mind, behind as many locks, under as many layers of wrappings, and bound with as many chains as I could – so that no one would see them.
 
 So that no one would fault me.
+
 ---
+
 It was… a loathsome dream.
 
 In my youth, my mother had whispered to me.
@@ -3421,7 +3479,9 @@ Father, if they would claim that you were the perfect king, I would surpass you.
 Ah – just once more. One more chance. Give to me the chance to draw the sword of appointment, just as the king had once did.
 
 Just one chance…
+
 ---
+
 It was… a strange dream.
 
 I was racing across a great field, untouched plains of gorgeous emerald spreading endlessly in every direction. The scenery flowed past me. I knew it was a dream, but the sensations I felt in these two legs were more real than anything else.
@@ -3541,7 +3601,9 @@ I do know. I do. I know everything about him…!
 I shut my eyes, wishing only to wake up from this dream.
 
 How despicable I was. What a fool. Of all things, I had chosen to run.
+
 ---
+
 It was… a dream of freedom.
 
 The knight loved to fly. If you were to ask why, it was because he could fly both up and down, apparently.
@@ -3669,7 +3731,9 @@ Before I knew it, I saw up-close the worried face of Ruler.
 It seemed I had managed to escape that world between dream and reality. While I sighed with relief, unease gripped my heart tightly.
 
 The breath of fire at the end had unmistakably killed me on the other side. So, what was I doing then, on this side…?
+
 ---
+
 This… this isn’t fair.
 
 The Magus was shouting. After all, what stood in front of him was a Servant, along with the woman who was apparently her Master. They were in the middle of a Holy Grail War; it was hardly strange to find a Servant somewhere.
@@ -3746,7 +3810,9 @@ Reika stroked Jack’s head gently as she craved for more.
 
 As this happened – the battle raged on the plains outside Trifas.
 
+
 ---
+
 
 Ruler awoke in her room in the church’s attic after about five hours of sleep. Thanks to the period of rest, her mind was clear and no longer mired.
 
@@ -4053,7 +4119,9 @@ The two Servants glowered at one another, gnashing their teeth. Sieg raised his 
 “My, my. Crimes of passion, is it?”
 
 An unexpected voice called out to them. Jeanne and Astolfo turned at the same time and saw Chiron peering into the room from the door. He held a hand over his mouth as he chuckled – a rare act for the Servant.
+
 ---
+
 “I-It is nothing of the sort… Anyway, Sieg, I wanted to ask you again about what happened earlier. I would like to hear your opinion as well, Chiron.”
 
 “Earlier? Did something happen, Master?”
@@ -4202,7 +4270,9 @@ The one silver lining was that their opponent, Shirou, had also about three Comm
 
 “I hope so…”
 
+
 ---
+
 
 “Unfortunately, things have not gone quite so smoothly.”
 

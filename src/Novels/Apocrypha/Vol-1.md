@@ -9,7 +9,9 @@
 ![](https://i.imgur.com/3xnEZfI.jpeg)
 
 ## Prologue
---- 
+
+---
+ 
 It was a place which existed nowhere else. A world which existed nowhere else.
 
 Released from the concept known as 'time', the place had neither morning nor night, sun nor moon. Only a pale aurora lit the sky.
@@ -72,7 +74,9 @@ The world will change.
 
 Time will march on.
 
+
 ---
+
 
 It would be no exaggeration to call this place a battlefield.
 
@@ -315,7 +319,9 @@ Red Saber glared at me with the cold eyes of a warrior. Even a novice such as my
 Her words were dispassionate; her blade, swift. And white filled my eyes-
 
 ## Chapter 1
+
 ---
+
 It is strange how the dim, empty room seems to twist all sense of distance. It appears unbelievably wide, and yet makes one feel uncomfortably pressed. The candles placed in its center faintly lit the faces of the men in the room, their features unclear and indistinct. The air within the vague boundaries of this room was filled with an inexpressible anguish.
 
 "So... only one has returned."
@@ -366,7 +372,9 @@ Hearing Bram's words, Belfaban struck the stone floor with his rod as he announc
 
 Without another glance at one another, the three men each left the room in separate ways.
 
+
 ---
+
 
 It was the night before Nazi Germany invaded Poland, beginning the Second World War. The city of Fuyuki in Japan was holding its third Holy Grail War ritual. Seven Servants and seven Masters, for the sake of their own desires, began a battle royale until only one would be left standing. But in the course of the war, circumstances occurred which led to the shattering of the Lesser Grail. It was then that that Grail War came to a close, unsettled.
 
@@ -390,7 +398,9 @@ The Greater Grail disappeared. Like a mist, the dream of the three great familie
 
 And so the years went by, until even the youth became elderly...
 
+
 ---
+
 
 England - where the so-called headquarters of the Association of Magi, the Clock Tower resides. Based in the British Museum of London, here is where aspiring tyrants who wish to lay claim to his or her own section of thaumaturgical history, and many other magi filled with their own ambitions, gather from all around the world.
 
@@ -834,11 +844,13 @@ The summoning circle glows red; but now is not the time for Shishigou to be payi
 Let it be filled fivefold for every turn, simply breaking asunder with every filling."
 
 
+
 ---
+
 
 Transylvania, Romania
 
-Trifas - a small city north of Sighisoara, the birthplace of <ruby>Kaziklu Bey<rt>The Impaling Prince</rt></ruby>. Its walls, built to defend against the invasion of the Turks during the Middle Ages, is still perfectly preserved, surrounding the citadel and one part of the city.
+Trifas - a small city north of Sighisoara, the birthplace of <ruby>Kazikli Bey<rt>The Impaling Prince</rt></ruby>. Its walls, built to defend against the invasion of the Turks during the Middle Ages, is still perfectly preserved, surrounding the citadel and one part of the city.
 
 Many of the city's buildings were built during the Middle Ages and have undergone repeated repairs and reconstructions, making them no less valuable than those in Sighisoara. Its population of 20,000 is based mostly around the work of agriculture and textiles.
 
@@ -916,9 +928,7 @@ Darnic gave a wry smile. It was about an hour ago that they received a report fr
 
 "So it's finally starting, then..."
 
-"Yes, with this day, the Servants of Black and Red shall begin this Great Holy Grail War. And we of 
-<ruby>Yggdmillennia<rt>The Tree of a Thousand Realms</rt></ruby>
- shall take in our hands all the mysteries and miracles of the world."
+"Yes, with this day, the Servants of Black and Red shall begin this Great Holy Grail War. And we of <ruby>Yggdmillennia<rt>The Tree of a Thousand Realms</rt></ruby> shall take in our hands all the mysteries and miracles of the world."
 
 The sorrow on Fiore's face is not simply due to a dislike of conflict. Like the average magus, she studied at the Clock Tower. Her friends are still enrolled there even now, and she was not particularly dissatisfied by the place. Of course, she will not be facing against her friends directly... but it still leaves a bad taste in her mouth.
 
@@ -1277,7 +1287,9 @@ Both of them raised their heads to the sound of small wings in the air above the
 Shishigou crumpled up the memo - on which was written 'tomorrow morning at nine, Sighisoara, church on the hilltop' and nothing else - and crushed it in his hand.
 
 
+
 ---
+
 
 
 It was magnificence in its splendor, solemn yet commanding. A hundred words of praise would not be enough to describe the scene.
@@ -1584,7 +1596,9 @@ Among all the Servants, only Lancer possessed such a zeal and staked so much upo
 "Jack the Ripper - the serial killer which shook England one hundred years ago."
 
 
+
 ---
+
 
 
 Bucharest, Romania
@@ -1708,7 +1722,9 @@ Jack shook her hand lightly at the two corpses. They were discovered the next da
 Catching wind of this, one newspaper wrote up an amusing article on 'The Return of Jack the Ripper?'. However, it never occurred to the police or the media that, going back to several days ago, an extremely similar event occurred in Japan as well.
 
 ## Chapter 2
+
 ---
+
 Thus, the Yggdmillennia clan have gathered the Servants of Black in their fortress of Millennia. They have already obtained every edge conceivable, but it is too early to lower their guard.
 
 Archer and Lancer have already spoken with the Yggdmillennia magi on many occasions, spending the time by preparing measures against the enemy Servants.
@@ -1795,7 +1811,9 @@ Even as he bustled about, Roche's eyes followed Caster's every move, filled with
 
 
 
+
 ---
+
 
 
 
@@ -2195,7 +2213,9 @@ As though to encourage to disheartened Caster, Shirou said with a soft smile,
 
 "Fear not, Caster. The battle shall soon be joined. With seven Black Servants and seven Red Servants, it shall be the greatest of Holy Grail Wars - the Great War of the Holy Grail. I do believe that this battle will satisfy your love of stories."
 
+
 ---
+
 
 And so the night ended, with the assembly of the fourteen Servants. On one side, the clan of the Yggdmillennia magi who have rid themselves of the Clock Tower - and on the other, the magi sent by the Clock Tower, who accepts no abdication and aims to seize the Holy Grail.
 
@@ -2631,7 +2651,9 @@ It will not be long before the two sides commit and open hostilities. There is o
 But on that day... the fate of one moved.
 
 
+
 ---
+
 
 
 Everything was in indistinct turmoil.
@@ -3150,8 +3172,12 @@ Shirou commanded Lancer through the Servant's Master.
 And so, sensing that Ruler has set foot in Romania, both camps immediately sprang into action - 'Black' seeking to secure their dominance and 'Red' moving to destroy its greatest enemy.
 
 ## Chapter 3
+
 ---
---- "Kindness, Humility, Honesty, Purity, Faith - the Maid's heart carried only these things and nothing else."
+
+
+---
+ "Kindness, Humility, Honesty, Purity, Faith - the Maid's heart carried only these things and nothing else."
 
 
 
@@ -3426,7 +3452,9 @@ Ruler began with the maths textbook, as a sense of foreboding for the tribulatio
 
 
 
+
 ---
+
 
 
 
@@ -3672,8 +3700,7 @@ A feeling of exaltation - something Lancer had not felt in a very long time - to
 
 
 
-Of course, Saber feels as shocked as Lancer. He possesses the 
-<ruby>Armor of Fafnir<rt>Blood Armor of the Evil Dragon</rt></ruby> - a cheat of an ability that re-enacts the legend of the the hero who washed in dragon-blood, nullifying all attacks of rank B and below.
+Of course, Saber feels as shocked as Lancer. He possesses the <ruby>Armor of Fafnir<rt>Blood Armor of the Evil Dragon</rt></ruby> - a cheat of an ability that re-enacts the legend of the the hero who washed in dragon-blood, nullifying all attacks of rank B and below.
 
 In other words, it should have been impossible for Saber to be hurt in this state... not by that spear, which had only been used as a regular piece of armament and not fully activated as a Noble Phantasm.
 
@@ -3869,7 +3896,9 @@ For both Masters and Servants, this is the best possible situation... putting as
 
 Saving them is a pipe dream. He can only shrug off their cries. After all, he does not even know what will become of himself.
 
+
 ---
+
 
 It was the calm before the storm. The Masters and Servants at the Fortress of Millennia were spending what little free time they had left.
 
@@ -4711,7 +4740,9 @@ Ruler ate until she had her fill, so happily that she beamed at the sister whom 
 Once night sets, the magi and Servants will make their move. That is when Ruler's real job begins.
 
 
+
 ---
+
 
 The sky is its usual shade of grey. According to weather reports, there will a slight shower during the night. Shishigou Kairi and Saber walked the streets of Trifas - but not for pleasure, of course. They were surveying the city to determine locations suited and unsuited for battle.
 
@@ -4896,7 +4927,9 @@ Although destruction of the environment is troubling in its own way. Hopefully, 
 So Ruler thought, as she took off down the road and made her way towards the forest.
 
 ## Chapter 4
+
 ---
+
 The man was pure muscle.
 
 However you think about it, that is the only word that can do him justice. Anyone who sees this giant of a man - over two meters tall - will find their eyes drawn to his extraordinary mass. The sense of hopelessness only increases as you tilt your head to try and guess at his height.
@@ -5318,7 +5351,7 @@ However, he had forgotten one very important fact. What had awaited him at the e
 
 Lancer - Vlad III - watched with an icy gaze as Berserker rampaged on. He was the hero who ruled Romania with an iron fist and grimly massacred all those who opposed him. And his enemies, with fear in their hearts, called him...
 
-<ruby>"Kaziklu Bey."<rt>Lord of Execution</rt></ruby>
+<ruby>"Kazikli Bey."<rt>Lord of Execution</rt></ruby>
 
 Lancer declared, and the ground nearby bulged.
 
@@ -5371,7 +5404,9 @@ As Lancer walked away, Rider called out to him.
 Rider hastily turned into Spirit Form and returned to the fortress. Naturally, he wanted to take advantage of this situation. No one would concern themselves with one homunculus right now; it was their greatest chance.
 
 
+
 ---
+
 
 
 The man was a tempest. He was invincible.
@@ -5446,7 +5481,9 @@ Having been forced to a decision, Berserker growled as she steeled herself. She 
 
 But, as soon as the thought entered her mind, the situation was reversed entirely. She sensed a great surge of prana coming from behind her and turned around reflexively. It was Saber, brandishing his greatsword in anguish.
 
+
 ---
+
 
 Gordes was losing his patience. Saber not only ignored his suggestions, but even let his guard down and was sent flying. It seemed that the Rider of the Red was incredibly resilient. As far as he could perceive through the senses of familiars, his parameters were quite excellent as well. With the enemy Berserker now in the fold, victory was most assured for the Yggdmillennia if they could defeat this Rider.
 
@@ -5582,7 +5619,9 @@ Her goal - the sly marksman hiding and taking aim in the dark. She will drag the
 
 
 
+
 ---
+
 
 
 
@@ -5614,7 +5653,9 @@ After all... this man, gentle like a calm sea, is the most famous archer in the 
 
 
 
+
 ---
+
 
 
 
@@ -5684,7 +5725,9 @@ Darnic could not understand what Rider was doing at all. Was he trying to save t
 
 To the magus who had lived for over a century, this was utterly incomprehensible.
 
+
 ---
+
 
 The wielder of the sword, of the spear, of madness, of thaumaturgy, of assassination - Servants are given a variety of classes. However, only the wielder of the bow possesses a hidden 'strength'.
 
@@ -5779,7 +5822,9 @@ Leaping onto the driver's position, Rider exclaimed.
 With a crack of the whip, the horses raised their head and neighed, dashing off majestically into the sky with great force. It was clear that Rider was not escaping; he was postponing the war for another time.
 
 
+
 ---
+
 
 
 The recipient on the other end, Archer, also smiled. However, his was somewhat bitter.
@@ -5803,7 +5848,9 @@ This time though, that pride would become the poison that took his life. Not onl
 Rider is a powerful and exceptional hero. That is precisely why this Great War will destroy him.
 
 
+
 ---
+
 
 
 The homunculus was practising his walking when an out-of-breath Rider, appearing slightly injured, suddenly flung open the door. He smiled and held out his hand to the homunculus.
@@ -6002,7 +6049,9 @@ Saber remained silent. Rider tried with all his might to throw off Saber's arm, 
 Saber's hand twitched.
 
 
+
 ---
+
 
 
 The smell of dirt and grass and wood filled the homunculus' nostrils. It was not so bad to end up covered in mud, he thought. At the very least, he was going to die with the great sky overhead, and the vast earth underneath. This might be a more pleasant end than the one waiting for those homunculi left at the castle, he thought.
@@ -6146,7 +6195,9 @@ It could hardly be helped. The nameless homunculus had became an existence that 
 And so, the Great Holy War was thrown into chaos at its onset by the quick loss of the Saber of the Black. Things would only continue to spiral out of control from here on.
 
 
+
 ---
+
 
 
 "This was my garden in ages past... the <ruby>Hanging Gardens of Babylon.<rt>Aerial Gardens of Vanity</rt></ruby> It has been too long... Well, what do you make of it, Master?"
@@ -6186,7 +6237,9 @@ Shirou looked up at the tall, clear sky with eyes filled with resolve.
 Even now, the boy carried the dream within his heart.
 
 ## Afterword
+
 ---
+
 Now, despite the fact I’m writing this postscript, it still feels surreal that I’m writing Fate/apocrypha. It’s like I’m dreaming… So now is a good time as any to reflect back on how I arrived at this point. Firstly, it was about four or five years ago when I was having a meal and chatting with the great Kinoku Nasu. He said to me, “Are there ever moments you’re interested in doing something like writing a servant?”. I remember thinking to myself, “That’s an incredibly shocking thing to ask so casually.” Afterwards, I went to TYPE-MOON’s office where there was a multitude of new servants. That was my first encounter with Fate Online, also known as, Fate/apocrypha.  Among the many appealing servants, I was greatly anticipating the story behind Jeanne d’Arc’s appearance. Reflecting back on it, when Fate/stay night was originally announced, I had originally theorized that Saber was Jeanne. That’s what every user was guessing at the time. It was completely wrong! 
 
 When I received the notice that Fate Online project had been cancelled, I felt regret that our effort was entirely wasted. After all, there were 14 amazing servants by then. Some time passed and Fate/apocrypha was included in Fate/complete material IV as an cancelled project. This detail became incredibly popular resulting in an editor at Kadokawa asking me to write a short story using Fate/apocrypha. This short story was called “Unbirth” (featured in TYPE-MOON ACE VOL7) and became the predecessor of the project. At this point, it wasn’t entirely the real deal since I had only planned to write a short story about a Master and Servant. However, my discussion with TYPE-MOON, who had read Unbirth, resulted in publishing it as a full-length story anyway. This is how it became finalized. It’s been about five years since I was first shown the setting materials for Fate online. It has been a very long journey since then but thanks to an incredible amount of luck, as if we were sapping the luck out of the Lancer class itself, we were somehow able to bring this project to the world. I would like to thank all of you for not giving up on the Fate/apocrypha project.
