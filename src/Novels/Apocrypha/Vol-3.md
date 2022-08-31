@@ -1,5 +1,15 @@
 # Fate/Apocrypha Volume 3: Triumphal Return of the Saint (Incomplete)
 
+![](https://i.imgur.com/Mqybf6D.jpeg)
+
+![](https://i.imgur.com/1o0QhYj.png)
+
+![](https://i.imgur.com/trF0pXE.jpeg)
+
+![](https://i.imgur.com/DGYsuzr.jpeg)
+
+![](https://i.imgur.com/3lsTcvp.jpeg)
+
 ## Prologue
 
 
@@ -1702,6 +1712,8 @@ A minor champion, a gallant and excellent knight, and a hero so bereft of reason
 
 Charging the giant on his Hippogriff, Astolfo hit the back of its knee directly with the Trap of Argalia. In terms of damage, it was nothing than a mosquito bite, but the scene soon turned surreal as Adam tumbled into the air. It was as though it had comically stepped on a banana peel.
 
+![](https://i.imgur.com/TWqUM3L.jpeg)
+
 The golden lance was a weapon with the concept of making anyone who touched it fall down, a humorous yet deadly effect. And before its power there would be no exceptions – not Servants, and not even the First Man.
 
 In the moment it became airborne, Adam lost the blessing of the earth. It was for these few seconds that the great sage had planned so carefully for. For the best-laid plans caught its opponent easily yet unexpectedly, while over-complicated schemes found themselves crumbling before brute simplicity.
@@ -3162,6 +3174,8 @@ Said Shirou coolly, and Semiramis clicked her tongue without the slightest hint 
 
 As Shirou had said, it was Semiramis who would sit upon the throne in the end. He would execute his plan, save mankind – and that would be it. With salvation being his sole objective, he had no thoughts for what laid beyond.
 
+![](https://i.imgur.com/FciCYIf.jpeg)
+
 “So why not take up the crown then?”
 
 “I’ll decide that once I’m there.”
@@ -3479,6 +3493,8 @@ Father, if they would claim that you were the perfect king, I would surpass you.
 Ah – just once more. One more chance. Give to me the chance to draw the sword of appointment, just as the king had once did.
 
 Just one chance…
+
+![](https://i.imgur.com/aXuHu1Y.jpeg)
 
 ---
 

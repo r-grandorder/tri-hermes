@@ -1,5 +1,13 @@
 # Fate/Apocrypha Volume 4: Cup of Purgatory
 
+![](https://i.imgur.com/8P98OoF.jpeg)
+
+![](https://i2.lensdump.com/i/1sNmyF.webp)
+
+![](https://i3.lensdump.com/i/1sN3T3.webp)
+
+![](https://i.lensdump.com/i/1sN4O0.webp)
+
 ## Prologue
 
 ---
@@ -1174,6 +1182,8 @@ Smoothly, the child entered inside her skin. Another one grabbed her legs—and 
 Archer of Red screamed.
 
 Her heart was tormented not by fear, but by the despair of the children and herself—
+
+![](https://i.lensdump.com/i/1sfNJm.jpg)
 
 ---
 
@@ -2436,6 +2446,8 @@ She could only watch his back as he left.
 
 She felt no emotions like sadness or frustration—but rather a vague loneliness like a wispy cloud.
 
+![](https://i1.lensdump.com/i/1sfPei.jpg)
+
 ## Chapter 2
 
 ---
@@ -3305,6 +3317,8 @@ Sieg and Rider of Black had left Trifas to head to Bucharest. Fiore had furnishe
 Sieg didn’t know what kind of ritual it was, but it couldn’t be helped if his presence would be in the way, so he agreed. Fiore also offered to provide him with other homunculi to attend him, but Sieg politely declined.
 
 “I’ll catch up with you soon.”
+
+![](https://i2.lensdump.com/i/1sffxo.jpg)
 
 Ruler said that while clasping her hands together. Her eyes were very serious as she gazed at Sieg. Ruler had to take care of two tasks that Sieg and Fiore had respectively requested of her, so she was staying at the Fortress of Millennia a little while longer. In other words, their group’s greatest safety net would be gone from their side.
 
@@ -4604,6 +4618,8 @@ After saying that, she stepped into the washroom and shut the door. Sieg stood t
 
 “Wai——”
 
+![](https://i3.lensdump.com/i/1sfUR9.jpg)
+
 Somehow managing to reorganize his chaotic thoughts, Sieg finally realized that Ruler was under a fatal misunderstanding, and he hurriedly tried to call her back… but by then it was too late.
 
 As Ruler was scrupulously washing the blood off her hands with soap in the washroom, the door to the bath opened and a voice said “Huh?” in surprise. Ruler turned around with a smile.
@@ -5742,6 +5758,7 @@ Though it was only a few days ago, it felt nostalgic to him, and he hated himsel
 
 At the same time, he was surprised at how clearly he recalled that scene. Within their scarce conversations, Caules had only once asked Berserker of Black a certain question.
 
+![](https://i.lensdump.com/i/1sfc72.jpg)
 
 “I thought you would have hated flowers?”
 
@@ -5842,6 +5859,8 @@ There was no one who had let their guard down with her, and there was no one she
 “…Hey.”
 
 “Hmm, what?”
+
+![](https://i1.lensdump.com/i/1sfXFv.jpg)
 
 She didn’t even find his curt way of talking all that irritating. There were very few cars on the road right now, and even the few sounds on the road merely emphasized the calm and silence.
 
@@ -7252,6 +7271,8 @@ He had devoted everything for this moment. He had lived with the resolve to sacr
 
 Right now, hundreds of millions of lives, and human goodness itself, rested on his shoulders. It was so heavy he felt like was going to be crushed, but there was no sign of agony on his face.
 
+![](https://i2.lensdump.com/i/1sfwIC.jpg)
+
 —I won’t lose.
 
 Shirou took the first step, and connected to the Greater Grail through the ‘thread’ he’d made while establishing a prana supply connection—
@@ -7697,6 +7718,10 @@ But there was more important information there to be concerned with.
 In response to Ruler’s question, Assassin snickered.
 
 “Who knows? Whatever the results of his actions are, it is no concern of mine. If you want to stop my Master, you’ll have to reach him. Though… only if you manage to get past the Red Servants first!”
+
+![](https://i3.lensdump.com/i/1sfxB5.jpg)
+
+![](https://i1.lensdump.com/i/1sfG8T.jpg)
 
 Suddenly, an intense light flashed through the sky from the Hanging Gardens. That incredible torrent of prana—it was the three-horse chariot ridden by Rider of Red, the steeds neighing as they soared through the sky.
 

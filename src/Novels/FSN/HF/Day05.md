@@ -1,8 +1,523 @@
 # FSN HF Day 05 (EN)
 
 
+## Scene 00 A usual morning?
 
-## Scene 00
+
+――――Light flows in.
+
+The warmth I feel through my eyelids informs me that it is morning.
+
+---
+
+I turn over and look away from the light.
+
+"Hm――――"
+
+I still feel sleepy.
+
+Judging by the feel of the air, it's around 5:30.
+
+---
+
+"――――――――"
+
+I went to bed late last night.
+
+I came home from the church, forced Saber to sleep in the other building, and finally went to sleep myself around 3AM.
+
+...I don't know if I can cope with getting only two hours of sleep.
+
+It was a frenetic, exhausting day yesterday.
+
+Nobody can blame me if I sleep for another 30 minu―――
+
+---
+
+"――――Huh?"
+
+I think I saw something.
+
+It's by my futon.
+
+It seems something big is by my futon.
+
+---
+
+"......"
+
+...Come to think of it, I feel someone's presence.
+
+I feel restless, as if someone is watching me. So this means――――
+
+---
+
+"Saber......!"
+
+"Yes, what is it, Shirou?"
+
+"W-Why are you in my room!? I gave you a separate room last night―――!"
+
+---
+
+I leap up from the futon to my feet―――no, I stop myself at the last second.
+
+I can't show her my lower half because... um... it's morning.
+
+---
+
+"Yes, and I think there is a problem with it. You directed me to a room, but that room is not close enough to yours. I need to be by your side so that I may protect you."
+
+---
+
+"H-Hold on, just get away from me...!
+
+Just get away, please get away, no, I'll get away if you won't...!"
+
+---
+
+Still rolled up in my futon, I scramble away from Saber.
+
+"...?"
+
+Saber looks at me with wonder.
+
+---
+
+―――Man, what does she think of a healthy guy of my age!?
+
+I get nervous from just having her close to me, so it's really shocking if she's sitting by my side when I wake up. And it was a surprise attack too! If my composure were an army, that would've just annihilated it.
+
+---
+
+"Shirou. As I was saying."
+
+"Ugh... you mean the room?"
+
+---
+
+"Yes. We should sleep in the same room to be safe.
+
+The boundary field on this house is excellent, but it only serves as a warning. It will do nothing to shield you if we are attacked here."
+
+"......"
+
+---
+
+Saber has a point, but I wish she would consider the state of my nerves.
+
+I'll go crazy before any enemy attacks us if I sleep in the same room with Saber.
+
+It's not like I'll be with Saber all the time, so we should distance ourselves――――
+
+---
+
+"――――Oh."
+
+I totally forgot about it.
+
+I have school today...!
+
+---
+
+"Shirou? Why are you so pale? I have noticed that you make that face whenever you are about to suggest something foolish."
+
+---
+
+"――――――――"
+
+She's sharp.
+
+Her previous aura of loyalty is gone, and she keeps me at bay with a distrustful look.
+
+---
+
+"Well, there's something I forgot to tell you."
+
+I kneel and face her.
+
+...Well.
+
+How can I phrase things so that she'll approve of me going to school?
+
+---
+
+
+## Scene 01 Shinji's viciousness
+
+
+
+"......"
+
+"......"
+
+I feel her staring at me, and it hurts.
+
+Saber is sitting Japanese-style while I cut the tofu...
+
+...Staring at me with that expression of hers.
+
+---
+
+'I will go to school like usual.'
+
+We never reached a compromise after I said that.
+
+Saber objected, of course.
+
+She says it is dangerous for me to be alone.
+
+But I have my personal life too.
+
+---
+
+Fuji-Nee will get suspicious if I skip school, and I won't know what's going on outside if I stay indoors.
+
+And to go somewhere with Saber means warning other Masters.
+
+I think the results will be good enough if I go out on my own. And most of all...
+
+---
+
+"Masters fight where there are no people, right? Then I'll be safe during the day. Nobody will attack me unless I go someplace deserted."
+
+But Saber insisted that it's not going to be enough.
+
+...Her excessive concern pissed me off, so I stubbornly insisted that I'm going to school, and this is the result.
+
+---
+
+"......"
+
+Her glare feels like it's burning into me.
+
+---
+
+The moral of the story is...
+
+She'll bear a big grudge if you make her mad. And she gets out of hand because she is emotional.
+
+So I should be careful not to act stubborn again.
+
+---
+
+"...Man, you inflexible blockhead."
+
+"Did you say something, Shirou?"
+
+"No, I'm just talking to myself. This tofu's really tough."
+
+"――――――――"
+
+...And she has sharp ears. She's not the type you want to get into a cold war with.
+
+---
+
+"Huh? It's that time already?"
+
+After the doorbell, I hear the front door opening.
+
+And I also hear the familiar tone of Sakura's voice.
+
+---
+
+"Oh, so I lost 30 minutes while I was arguing with Saber."
+
+---
+
+But breakfast is almost ready.
+
+I thought about having bread to please Saber, but it seemed too much like bribery, so I changed my mind.
+
+Japanese people eat rice.
+
+I'll counter her violent glare with pressure of "when in Rome, do as the Romans do".
+
+---
+
+"Good morning, Senpai. Are you already done cooking?"
+
+"Yeah, I'm pretty much done. Good morning, Sakura. Fuji-Nee should be coming soon, so help me serve the food."
+
+---
+
+"Okay! I'll be helping you."
+
+Sakura sets her bag down in the living room and greets Saber.
+
+---
+
+"Good morning, Saber-san. Were you able to sleep well last night?"
+
+"Yes. It was not a familiar room, but it was not a problem since I am familiar with this house."
+
+...Oh, they're talking.
+
+They didn't talk much yesterday, but I guess Sakura's gotten over it after one night.
+
+---
+
+"Sorry to keep you waiting, Senpai. What should I start with?"
+
+"Can you get one big plate and four small ones? The salad's done, so you can serve it."
+
+---
+
+"Okay. Wow, we're having German potato salad this morning?
+
+You're elaborate this morning, cooking Western food."
+
+---
+
+Sakura is surprised, but she scoops out the salad onto the big plate.
+
+The salad is the only Western food I made.
+
+...You have to understand, I'm not giving in to Saber. I'm just... proactively trying to clear the air between us.
+
+---
+
+"Oh, it smells good. Can I try some, Senpai?"
+
+"Yeah, but it's hot. And it might be sweet, too."
+
+"...?"
+
+Sakura picks up a piece of potato with the cooking chopsticks.
+
+---
+
+"Hmm... Oh, it really is sweet. That's not... onion, is it?"
+
+Licking her lips, Sakura tries to figure out the ingredients.
+
+---
+
+"――――――――"
+
+Her gesture surprises me.
+
+I should be used to seeing Sakura sample my food, but when she's so close, I can't take my eyes off her.
+
+---
+
+"Wow, this is really good, Senpai! I like this taste!"
+
+Sakura must really like it, as she happily scoops the salad onto the big plate.
+
+There's nothing unusual about it.
+
+The surprise fades, and I sigh with relief.
+
+---
+
+"―――――Oh, hold on, Sakura."
+
+"Yes? What is it, Senpai?"
+
+She's the same as always.
+
+She's no different from yesterday.
+
+It should not concern Sakura even if Shinji was a Master or even if her family is a family of magi.
+
+---
+
+There's no way Sakura would be involved in the conflict.
+
+There's no way, but...
+
+"Sakura. Let me see your right cheek."
+
+There's a bruise on her right cheek, as if she's been punched.
+
+---
+
+"Oh... it's not what you think, Senpai. I, um, fell on the stairs."
+
+"――――――――"
+
+There's only one person who Sakura would make excuses for.
+
+She's been like this for a long time.
+
+She would be strangely lively or unnaturally depressed.
+
+---
+
+It always meant Shinji was taking things out on her. When I first found out about it, I went and punched him.
+
+...But he's never done something this bad before.
+
+About half a year ago, I spotted a bruise on Sakura's arm.
+
+I hit Shinji when I realized he'd done it―――but he's never punched a girl's face!
+
+---
+
+"――――Damn him..."
+
+"S-Senpai――――"
+
+I hear a sharp crack.
+
+It seems I broke the chopsticks in my hand.
+
+---
+
+"I'm pissed. I told him never to hit his sister again, but he couldn't keep such a simple promise...!?"
+
+---
+
+"No, Senpai. You've got it all wrong. I just fell, really. I fell when Nii-san bumped into me."
+
+"――――Sakura."
+
+---
+
+"That's all that happened, Senpai.
+
+...Please don't concern yourself with Nii-san right now.
+
+He's been acting weird since last night. He's really annoyed, so he might say odd things to you."
+
+---
+
+"――――――――"
+
+Sakura is defending her brother.
+
+If the person who got hit isn't complaining, I definitely can't.
+
+---
+
+...And I know why Shinji's acting strange.
+
+Shinji was abnormal last night.
+
+His rights as a Master were taken away, and he was humiliated by his own grandfather.
+
+He must have taken out his anger on Sakura after he went home.
+
+---
+
+"――――――――Kuh."
+
+Sakura doesn't know anything.
+
+Nobody's told her about her brother, or about the secret of the Matou family.
+
+Then―――is it safe for her to live with Shinji when he's in such a state?
+
+He hasn't given up.
+
+Sakura is a convenient outlet for his violent personality.
+
+---
+
+"...Um, Senpai? I'm sorry to trouble you so early in the day."
+
+"――――You idiot. Don't say that."
+
+---
+
+I'm the one who caused the trouble.
+
+I should've expected this when I fought Shinji last night.
+
+I have to think of a way...
+
+A way to keep Sakura smiling――――
+
+---
+
+A dismal air hangs over the rest of the morning.
+
+Fuji-Nee didn't turn up for some reason, and Sakura was quiet all through breakfast.
+
+Saber doesn't talk much to start with, and I'm not the garrulous type.
+
+It doesn't take long to finish breakfast, so Sakura leaves 40 minutes early to go to her morning practice.
+
+---
+
+"...Um, I'll be going now, Senpai."
+
+Sakura forces a smile as she puts on her shoes.
+
+---
+
+"Oh, don't push yourself too hard with your club activity. You always tried to go there even when you were sick, right? Just practice moderately and go sip some tea in the back. If Mitsuzuri says something, tell her I'll owe her one."
+
+---
+
+"――――Okay. I'm sure Captain would love that."
+
+Sakura opens the door.
+
+She bows and turns to leave――――
+
+...And walks right into the door.
+
+---
+
+"S-Sakura――――!?"
+
+"Oww―――."
+
+She holds the nose she banged onto the door.
+
+---
+
+"A-Are you all right, Sakura!? Is your nose bleeding!?"
+
+"――――No, I'm fine. I'd die if you saw my nose bleeding――――"
+
+Sakura staggers and gets up.
+
+...It doesn't seem like it was Sakura's usual clumsiness.
+
+---
+
+"...Are you really all right, Sakura? It looked like you fell. If you got dizzy, then..."
+
+"Huh...? No, that can't be. I was just careless, so, um... this is embarrassing."
+
+"......"
+
+---
+
+"Then I'll be going now. I'll tell Fujimura-Sensei that your breakfast was good, like always."
+
+Sakura leaves, as if to shake off my worries.
+
+---
+
+"――――"
+
+I guess she's all right.
+
+If anything, she's suffering from mental exhaustion.
+
+---
+
+"...And then there's Shinji. I can't just leave her be..."
+
+But I have no clear solution.
+
+I can't consult Saber, nor can I tell Sakura the truth. Fuji-Nee is out of the question, of course.
+
+---
+
+"――――――――"
+
+...Damn, if only there were someone else at school who I could talk to about the Holy Grail War―――
+
+"...Man. People like that don't just conveniently appear out of nowhere..."
+
+---
+
+## Scene 02 Ready?
 
 
 
@@ -36,7 +551,7 @@ I'll――――
 
 ---
 
-## Scene 01
+## Scene 03 About Sakura.
 
 
 
@@ -106,7 +621,7 @@ As I look up at her in blank amazement...
 
 ---
 
-## Scene 02
+## Scene 04 About Shinji
 
 
 
@@ -182,7 +697,7 @@ As I look up at her in blank amazement...
 
 ---
 
-## Scene 03
+## Scene 05 Run away
 
 
 
@@ -758,7 +1273,7 @@ I need to get home and deal with the Sakura issue.
 
 ---
 
-## Scene 04
+## Scene 06 Peace treaty?
 
 
 
@@ -1178,7 +1693,7 @@ Does she not like it? She looks astonished, and...
 
 ---
 
-## Scene 05
+## Scene 07 The daughter of winter-Illya(I)
 
 
 
@@ -1622,7 +2137,7 @@ I――――
 
 ---
 
-## Scene 06
+## Scene 08 I don't mind it anymore.
 
 
 
@@ -1654,7 +2169,7 @@ I guess I'll have to talk with her, just like she wants――――
 
 ---
 
-## Scene 07
+## Scene 09 I don't hate you.
 
 
 
@@ -1690,7 +2205,7 @@ I guess I'll have to talk with her, just like she wants――――
 
 ---
 
-## Scene 08
+## Scene 10 Innocent murder
 
 
 
@@ -1808,7 +2323,7 @@ I watch until she's out of sight.
 
 ---
 
-## Scene 09
+## Scene 11 Who will tell Sakura?
 
 
 
@@ -2090,7 +2605,7 @@ Then――――
 
 ---
 
-## Scene 10
+## Scene 12 Request Fuji-Nee
 
 
 
@@ -2166,7 +2681,7 @@ I don't know how Fuji-Nee did it, but I guess asking her was the right thing to 
 
 ---
 
-## Scene 11
+## Scene 13 I'll tell Sakura myself.
 
 
 
@@ -2302,133 +2817,7 @@ Sakura nods in response...
 
 ---
 
-## Scene 12
-
-
-
-A high-pitched sound rings out.
-
-The brilliant moonlight glints off the drawn sword as it clatters to the stairs.
-
-"――――――――Hah."
-
-Blood is on his lips.
-
-The man on his knees on the stone steps bids his longsword goodbye as it falls away.
-
----
-
-His arms are the next to fall.
-
-Wet with blood, the elegantly-patterned fabric of his battlecoat looks like a giant red flower.
-
----
-
-"――――My. I did not think you were of the serpent's kind."
-
-In steep contrast to his bloody body, his lips are white.
-
-Neither breath nor blood passes his throat now.
-
-Sasaki Kojirou's internal organs no longer serve their original purpose.
-
----
-
-The mountain gate is quiet.
-
-The Servant that guarded the place,
-
-the shadow that appeared...
-
-Neither of them move.
-
-―――The battle has already ended.
-
-Assassin was defeated by "someone" who came up the stone steps.
-
-He had no time to identify the intruder as an enemy, let alone cross swords.
-
-This "someone" was on a different level to begin with.
-
----
-
-Assassin's body bursts open.
-
-Torn, mutilated, and weaponless, he cannot even take his own life.
-
-The shadow approaches.
-
-It strokes Assassin's cheek with a scornful cherishing gesture.
-
----
-
-A deformed, spider-like hand comes out of his stomach.
-
-His bones crack.
-
-His flesh rips apart.
-
-It feels as if his organs are turning into someone else's.
-
----
-
-"Guh―――!"
-
-Assassin suppresses the regurgitating blood.
-
-The swordsman swallows the blood and smiles with his pale lips.
-
----
-
-"...Very well, do as you wish. After all, this is coming out of me. I'm sure it is nothing noble――――"
-
-He smiles, even though he is denied an honorable death.
-
-If one talks about a grand spectacle...
-
-His smile is grander than the spawning of this abomination.
-
----
-
-And thus, it is summoned.
-
-Taking the false Servant's flesh as its own, the true Assassin enters our world.
-
-"Ki――――Kiki, kikikikiki――――――――"
-
-His first cries sound like those of an insect.
-
-The black insect that crawled from the swordsman's stomach devours the body that was his own nursery.
-
----
-
-He giggles while tearing the flesh apart.
-
-He laughs while crunching on the bones.
-
----
-
-Every time he does so, the insect becomes more like a man, and the empty brain acquires human wisdom.
-
-And after a while...
-
-He has finished sipping every last bit of the blood and blesses the birth of his own self, the "assassin".
-
----
-
-The only ones to witness are the chorus of insects and the shining moonlight.
-
-The high-pitched birth cry melts into the darkness.
-
----
-
-――――An ominous moon.
-
-A white skull laughs under the black-burned sky.
-
----
-
-## Scene 13
+## Scene 14 Go check on Sakura?
 
 
 
@@ -2818,7 +3207,131 @@ I――――
 
 ---
 
-## Scene 14
+## Scene 15 let Fuji-Nee do it.
+
+
+
+...Yeah.
+
+Fuji-Nee would make fun of me for a whole year if I did go and happened to walk in on Sakura changing.
+
+---
+
+"―――I can't do that to Sakura."
+
+Yes, I should sit tight and wait.
+
+She might be already out and drying her hair.
+
+---
+
+"You are restless, Shirou."
+
+"Huh? I-I don't think so. I'm eating my mandarin and drinking my tea."
+
+"So you relax by not eating or drinking and looking often at the clock?"
+
+---
+
+"Ugh. Um, I have no appetite because I'm full."
+
+"I see. I do not mind if you say so. But I do not believe it is a good idea to hold yourself back."
+
+---
+
+Saber elegantly sips her tea.
+
+...Man, I'm hopeless!
+
+It hasn't even been five minutes yet, but I'm really worried about Sakura!
+
+---
+
+"―――Man, I don't care what Fuji-Nee says!
+
+Saber, I'm going to the bathroom!"
+
+I make up my mind and stand up.
+
+At that moment...
+
+---
+
+Fuji-Nee comes running in.
+
+---
+
+"Fuji-Nee...? Why are you in such a rush? Weren't you preparing for Sakura's stay?"
+
+"I finished that already. More importantly, can you look after Sakura-chan? I'm going back to my house to get some medicine."
+
+"...!? What's wrong with Sakura, Fuji-Nee?"
+
+---
+
+"That's what I want to know. Sakura-chan was on the floor when I went to the dressing room, and she has a fever of almost 38 degrees."
+
+---
+
+"Wha―――where's Sakura, Fuji-Nee...!?"
+
+"I just carried her to the guest room. I think she just has a cold, so don't worry too much.
+
+But we can't push her. I'm going back to my place to get some stuff, so you just be there for Sakura-chan, okay? That should provide plenty of energy for her all by itself."
+
+---
+
+Fuji-Nee fires off my instructions and goes back to her house.
+
+The Fujimura household has perfect preparations for illness and injuries, as it has lots of "those" kind of people.
+
+---
+
+"......!"
+
+This isn't the time to stand around in shock.
+
+I have to go check on Sakura...!
+
+---
+
+"―――Let's see. Your temperature is a bit over 37 degrees. Oh, it's lower than I thought."
+
+I put the medical thermometer down and look at Sakura.
+
+It's been thirty minutes.
+
+Her condition wasn't that bad, just like Fuji-Nee said. She has a slight cold, and she collapsed in the dressing room because she felt dizzy after staying in the bath for too long.
+
+---
+
+"...I'm sorry... I guess I got dizzy since I was so nervous."
+
+Sakura hides her face with her futon.
+
+---
+
+"You can't help catching a cold, right? You should be better by tomorrow if you drink some medicine and get a good night's sleep.
+
+I'll leave some water here on the chair, so don't go out of the building, okay? You'll cool your body if you go outside."
+
+I put another blanket over her, just in case, and turn the lights off.
+
+---
+
+"All right. I'll come wake you up tomorrow morning, so you can rest easy until then."
+
+I pat her on her head, then walk to the door.
+
+"...Yes. Good night, Senpai."
+
+Sakura sounds apologetic.
+
+I bid her goodnight and leave her room.
+
+---
+
+## Scene 16 Should I go check on her...?
 
 
 
@@ -3180,131 +3693,8 @@ That must have been good enough...
 
 ---
 
-## Scene 15
 
-
-
-...Yeah.
-
-Fuji-Nee would make fun of me for a whole year if I did go and happened to walk in on Sakura changing.
-
----
-
-"―――I can't do that to Sakura."
-
-Yes, I should sit tight and wait.
-
-She might be already out and drying her hair.
-
----
-
-"You are restless, Shirou."
-
-"Huh? I-I don't think so. I'm eating my mandarin and drinking my tea."
-
-"So you relax by not eating or drinking and looking often at the clock?"
-
----
-
-"Ugh. Um, I have no appetite because I'm full."
-
-"I see. I do not mind if you say so. But I do not believe it is a good idea to hold yourself back."
-
----
-
-Saber elegantly sips her tea.
-
-...Man, I'm hopeless!
-
-It hasn't even been five minutes yet, but I'm really worried about Sakura!
-
----
-
-"―――Man, I don't care what Fuji-Nee says!
-
-Saber, I'm going to the bathroom!"
-
-I make up my mind and stand up.
-
-At that moment...
-
----
-
-Fuji-Nee comes running in.
-
----
-
-"Fuji-Nee...? Why are you in such a rush? Weren't you preparing for Sakura's stay?"
-
-"I finished that already. More importantly, can you look after Sakura-chan? I'm going back to my house to get some medicine."
-
-"...!? What's wrong with Sakura, Fuji-Nee?"
-
----
-
-"That's what I want to know. Sakura-chan was on the floor when I went to the dressing room, and she has a fever of almost 38 degrees."
-
----
-
-"Wha―――where's Sakura, Fuji-Nee...!?"
-
-"I just carried her to the guest room. I think she just has a cold, so don't worry too much.
-
-But we can't push her. I'm going back to my place to get some stuff, so you just be there for Sakura-chan, okay? That should provide plenty of energy for her all by itself."
-
----
-
-Fuji-Nee fires off my instructions and goes back to her house.
-
-The Fujimura household has perfect preparations for illness and injuries, as it has lots of "those" kind of people.
-
----
-
-"......!"
-
-This isn't the time to stand around in shock.
-
-I have to go check on Sakura...!
-
----
-
-"―――Let's see. Your temperature is a bit over 37 degrees. Oh, it's lower than I thought."
-
-I put the medical thermometer down and look at Sakura.
-
-It's been thirty minutes.
-
-Her condition wasn't that bad, just like Fuji-Nee said. She has a slight cold, and she collapsed in the dressing room because she felt dizzy after staying in the bath for too long.
-
----
-
-"...I'm sorry... I guess I got dizzy since I was so nervous."
-
-Sakura hides her face with her futon.
-
----
-
-"You can't help catching a cold, right? You should be better by tomorrow if you drink some medicine and get a good night's sleep.
-
-I'll leave some water here on the chair, so don't go out of the building, okay? You'll cool your body if you go outside."
-
-I put another blanket over her, just in case, and turn the lights off.
-
----
-
-"All right. I'll come wake you up tomorrow morning, so you can rest easy until then."
-
-I pat her on her head, then walk to the door.
-
-"...Yes. Good night, Senpai."
-
-Sakura sounds apologetic.
-
-I bid her goodnight and leave her room.
-
----
-
-## Scene 16
+## Scene 17 To the Ryuudou Temple
 
 
 
@@ -3420,7 +3810,536 @@ Lit by fading moonlight, we start running towards enemy territory.
 
 ---
 
-## Scene 17 [WARNING: H]
+## Scene 18 Intermission Malak al Maut
+
+
+
+A high-pitched sound rings out.
+
+The brilliant moonlight glints off the drawn sword as it clatters to the stairs.
+
+"――――――――Hah."
+
+Blood is on his lips.
+
+The man on his knees on the stone steps bids his longsword goodbye as it falls away.
+
+---
+
+His arms are the next to fall.
+
+Wet with blood, the elegantly-patterned fabric of his battlecoat looks like a giant red flower.
+
+---
+
+"――――My. I did not think you were of the serpent's kind."
+
+In steep contrast to his bloody body, his lips are white.
+
+Neither breath nor blood passes his throat now.
+
+Sasaki Kojirou's internal organs no longer serve their original purpose.
+
+---
+
+The mountain gate is quiet.
+
+The Servant that guarded the place,
+
+the shadow that appeared...
+
+Neither of them move.
+
+―――The battle has already ended.
+
+Assassin was defeated by "someone" who came up the stone steps.
+
+He had no time to identify the intruder as an enemy, let alone cross swords.
+
+This "someone" was on a different level to begin with.
+
+---
+
+Assassin's body bursts open.
+
+Torn, mutilated, and weaponless, he cannot even take his own life.
+
+The shadow approaches.
+
+It strokes Assassin's cheek with a scornful cherishing gesture.
+
+---
+
+A deformed, spider-like hand comes out of his stomach.
+
+His bones crack.
+
+His flesh rips apart.
+
+It feels as if his organs are turning into someone else's.
+
+---
+
+"Guh―――!"
+
+Assassin suppresses the regurgitating blood.
+
+The swordsman swallows the blood and smiles with his pale lips.
+
+---
+
+"...Very well, do as you wish. After all, this is coming out of me. I'm sure it is nothing noble――――"
+
+He smiles, even though he is denied an honorable death.
+
+If one talks about a grand spectacle...
+
+His smile is grander than the spawning of this abomination.
+
+---
+
+And thus, it is summoned.
+
+Taking the false Servant's flesh as its own, the true Assassin enters our world.
+
+"Ki――――Kiki, kikikikiki――――――――"
+
+His first cries sound like those of an insect.
+
+The black insect that crawled from the swordsman's stomach devours the body that was his own nursery.
+
+---
+
+He giggles while tearing the flesh apart.
+
+He laughs while crunching on the bones.
+
+---
+
+Every time he does so, the insect becomes more like a man, and the empty brain acquires human wisdom.
+
+And after a while...
+
+He has finished sipping every last bit of the blood and blesses the birth of his own self, the "assassin".
+
+---
+
+The only ones to witness are the chorus of insects and the shining moonlight.
+
+The high-pitched birth cry melts into the darkness.
+
+---
+
+――――An ominous moon.
+
+A white skull laughs under the black-burned sky.
+
+---
+
+
+
+
+## Scene 19 VS Caster
+
+
+
+We run up the stone steps.
+
+Saber is already armed.
+
+---
+
+"――――――――"
+
+"――――――――"
+
+We're both straining our nerves in preparation for an enemy attack.
+
+The steps are long, and the wind is warm even though we're near the mountaintop.
+
+---
+
+According to Saber, this mountain has a boundary field that repels Servants.
+
+Servants will lose most of their power and magical energy if they enter the mountain from anywhere other than the front gate.
+
+Therefore, the only way we can enter is through the front gate, but...
+
+---
+
+"...I thought they would be setting up an ambush. Do you sense a Servant around here, Saber?"
+
+"No.
+
+There are no other Servants around――――"
+
+Saber suddenly stops and looks down.
+
+---
+
+"Saber...? Did you see something?"
+
+"...No, it must be my imagination. I thought I saw a katana, but I cannot find it anywhere.
+
+The mountain gate is not guarded. Let us go inside the temple."
+
+---
+
+Saber starts running again.
+
+"...?"
+
+I tilt my head in wonder, but hurry to keep up with her.
+
+---
+
+...The compound is dead silent.
+
+The wind is strong.
+
+All around is thick darkness.
+
+Despite the moon overhead, the terrible darkness remains.
+
+---
+
+"――――――――"
+
+I look up.
+
+The moon is there, of course.
+
+Its rays shine down on the compound.
+
+But the area is still shrouded in darkness.
+
+---
+
+"Saber."
+
+"Yes, something is wrong. No one would let us come this far without offering resistance. And―――this place is too quiet."
+
+"...Let's go inside. The Ryuudou Temple has close to fifty people living in it.
+
+It can't be this quiet."
+
+---
+
+We head for the temple.
+
+―――There's no one around.
+
+After confirming that the compound is empty, we go inside.
+
+---
+
+―――Everyone in the temple is sleeping.
+
+They do not even twitch.
+
+They don't react even when we touch them.
+
+All the monks, without exception, are weakened.
+
+No matter how hard we try to rouse them, they just lie there, breathing peacefully as if enjoying a dream.
+
+---
+
+Of course, my classmate is among them.
+
+Ryuudou Issei is sleeping peacefully as well.
+
+---
+
+"――――――――"
+
+We quickly move across the wooden hallway.
+
+...It's because Saber felt a presence.
+
+Saber pointed toward the main temple building.
+
+The Master responsible for this disaster is there.
+
+---
+
+We step into the shrine.
+
+The first thing we see is the red blood spreading on the floor.
+
+---
+
+"...!?"
+
+A red flower blooms in the center of the temple.
+
+There is a man lying there as well.
+
+His chest must be pierced, as the man is dyeing the floor red.
+
+---
+
+The wound is fatal, and the man has lost enough blood to die.
+
+He's already a corpse.
+
+I know this man, and it seems he was Master to the one standing beside his body.
+
+---
+
+The Servant is looking down at her Master with a mysterious dagger in hand.
+
+"......!"
+
+Pain lances through my head, accompanied by a sense of apprehension.
+
+It's not that I'm scared of this scene.
+
+---
+
+That――――
+
+That dagger is ominous.
+
+It seems Saber does not feel anything, but I can tell that the dagger has dreadful power.
+
+---
+
+"Caster...!"
+
+Saber readies herself.
+
+The Servant in a purple robe, Caster, does not answer.
+
+I don't know if Saber took it as an opening or as an insult...
+
+But she tries to charge――――
+
+---
+
+"No, hold on, Saber...!"
+
+"Shirou...!? Why are you stopping me? This is our best chance to defeat Cast――――"
+
+---
+
+"No, just don't go near that dagger...! That thing can break contracts. It might even cut the bond between a Servant and a Master."
+
+"Then―――Caster killed her own Master?"
+
+---
+
+"......"
+
+I don't know if she did.
+
+But I'm sure the dagger she's holding has unearthly power.
+
+---
+
+"Caster―――you killed your own master...!!"
+
+Saber rushes in with an angry roar.
+
+...Caster turns around.
+
+With her vigor gone, she looks more like a ghost than a heroic spirit.
+
+---
+
+The sword flashes through the air.
+
+It slices the robe, but Caster manages to jump back.
+
+---
+
+"―――Saber...?
+
+I see. You must have come to finish me off. I don't know whose plot this is, but he is quite thorough."
+
+---
+
+"Silence. I do not want anything from a person who betrayed her master. Regret your actions and take your punishment."
+
+"Hah―――I killed my Master? I killed Souichirou-sama?
+
+Fuh―――haha, ahahahahaha! That is funny! Perhaps I should have done so, if it was going to turn out like this...!"
+
+---
+
+She starts laughing maniacally.
+
+The black-robed magus puts her dagger away and points at Saber.
+
+---
+
+"―――You're an eyesore, Saber. Disappear along with your Master."
+
+"――――――――"
+
+Saber does not even need to answer.
+
+She raises her sword without hesitation.
+
+---
+
+...Caster disappears.
+
+The battle between the two could not be called a battle.
+
+---
+
+Caster's magecraft was supreme, but it did no good against Saber, who has high magecraft resistance.
+
+Saber nullified every magecraft Caster used and killed her in one blow.
+
+---
+
+"I have defeated Caster. Please give me your order, Master."
+
+"Eh―――? O-Oh. ...Well, we can't do anything here. Let's contact the hospital... no, Kotomine first. We should be able to save the people here that way."
+
+---
+
+...But we can't save the corpse in front of us.
+
+Caster has disappeared, leaving only her Master's corpse at our feet.
+
+...His death will likely be kept a secret.
+
+Nobody will know what happened to him, and he will disappear from everyone's memory.
+
+---
+
+"Shirou."
+
+"...I know. There are still four more Masters. We have no time to waste."
+
+"That is a wise decision. I understand your feelings, but this is not the time for sentiment."
+
+---
+
+Saber turns and starts to walk.
+
+"――――――――"
+
+Engraving the sight of the corpse into my mind, I follow.
+
+---
+
+"――――Huh?"
+
+Wait...
+
+What was that...?
+
+---
+
+"Shirou? Why did you stop?"
+
+"Eh... um. I felt someone's gaze on me, like we're being watched. Didn't you feel it?"
+
+---
+
+"No, I did not feel anything. We have already determined that there is nobody here. Is it not your imagination?"
+
+"Uh... maybe. If you put it that way, I guess that's right. Yeah, it must be just me."
+
+---
+
+"Then let us hurry. The people should wake up now that Caster is dead. It would be troublesome if somebody saw us here."
+
+---
+
+...She's right.
+
+Tonight will leave a bad taste in my mouth, but it should put an end to the mysterious coma incidents.
+
+That should be good enough for tonight.
+
+---
+
+"All right. Let's get out of here and contact Kotomine, then go home and rest."
+
+Saber nods in satisfaction and leaves the temple.
+
+---
+
+"――――――――"
+
+I follow after Saber, even though it's really hard for me to leave this place.
+
+...The man who used to be a Master lies silently in this holy place.
+
+---
+
+## Scene 20 Intermission Disaster
+
+The lead actor has left.
+
+The only ones remaining on the stage are silent corpses.
+
+And...
+
+...Something is devouring the corpses.
+
+No bodies remain.
+
+The wooden floor turns into a bottomless swamp, swallowing up the man's flesh and spilled blood.
+
+---
+
+It consumes not only the man, but the one who obeyed him.
+
+The soul that was Servant Caster is swallowed into the darkness.
+
+It is not a legitimate flow.
+
+The defeated Servants are to be consumed by the Holy Grail.
+
+If anyone interferes with this balance, it will only bring his own death and destruction.
+
+---
+
+"――――――――"
+
+It cries silently.
+
+It writhes in pain, sobs, exposes itself, and finally consumes the first one.
+
+---
+
+――――IT IS NOT ENOUGH
+
+---
+
+It walks on.
+
+Lacking a voice, it expresses its pain with the whole of its body.
+
+---
+
+――――IT IS NOT ENOUGH
+
+---
+
+There are no words, nor emotion.
+
+It never had those functions in the first place.
+
+---
+
+――――IT IS NOT ENOUGH
+
+---
+
+But it still grieves.
+
+As if...
+
+...It has become aware of its existence for the first time.
+
+## Scene 21 Shapeless island [H]
 
 
 
@@ -4144,920 +5063,275 @@ As we desire each other, I will stay in this dream until the afternoon ends―�
 
 ---
 
-## Scene 19
 
 
 
-――――Light flows in.
 
-The warmth I feel through my eyelids informs me that it is morning.
 
----
 
-I turn over and look away from the light.
 
-"Hm――――"
+## Scene 22 Shapeless island [Realta Nua]
 
-I still feel sleepy.
+It’s already after two in the morning.  
+Despite my daily training, running to the Ryuudou Temple and back is still tiring.
 
-Judging by the feel of the air, it's around 5:30.
+“…Oh. Can you go ahead to your room, Saber?”
 
----
+“…? Where are you going, Shirou? Are we not finished for the night?”
 
-"――――――――"
+“Yeah. I’ll be back in a minute, so don’t worry. I’m tired too, so I want to rest soon.”
 
-I went to bed late last night.
+“---I see. You must be worried about Sakura.”
 
-I came home from the church, forced Saber to sleep in the other building, and finally went to sleep myself around 3AM.
+“Uh, I have to go take her some water. You go sleep in the room next to mine, Saber. Close the door, okay?”
 
-...I don't know if I can cope with getting only two hours of sleep.
+“Oh, yes. It will do little good if we are not in the same room, but there is nothing to be done if you insist on being stubborn. I shall stand by in the room next to yours.”  
+  
+  
+Saber looks discontented.  
+…Humph.  
+You’re stubborn as well.
 
-It was a frenetic, exhausting day yesterday.
+“Sigh.”  
+I return to my room, filled with self-hatred.
 
-Nobody can blame me if I sleep for another 30 minu―――
+“It’s 3 AM… What was I doing for an hour in there?”  
+  
+  
+I let out a heavy sigh.  
+There’s only one simple explanation.  
+Sakura looked like she wasn’t sleeping well, so I took time adjusting her blanket and bringing her fresh water.  
+  
+  
+Such simple tasks were really painful and difficult for me.
 
----
+“---I wish I had a blindfold or something.”  
+  
+That would’ve solved everything.  
+…Well, I had my eyes closed anyway, but a blindfold would’ve prevented me from giving in to temptation and opening them!
 
-"――――Huh?"
+“---I’m going to sleep.
 
-I think I saw something.
+Yeah, at times like these, nothing does the trick quite like sleep”
 
-It's by my futon.
+I cover my head in the futon and drive all worldly thoughts out of my head.
 
-It seems something big is by my futon.
+“------”  
+  
+I close my eyes and clear my head.  
+…See?  
+I’m physically exhausted anyway, so it should be easy for me to fall asleep
 
----
+Red.  
+The town at evening is completely red, as though painted with a certain something.  
+Like a bench with a paper sign attached.  
+Everywhere I take a step and everything that touches my hand makes a sticky sound.
 
-"......"
+I walk down the asphalt road.  
+When I lift my head, I see that the buildings are dyed a uniform scarlet.  
+The walls look like giant nails coming out of the sky and piercing the earth.  
+…The red sun seems to be peering down on me from the sky, as if to tell me there is no escape.
 
-...Come to think of it, I feel someone's presence.
+I’m walking alone.  
+Shinto is utterly silent.  
+Either everyone is holding their breath and hiding, or there was no one here to begin with.
 
-I feel restless, as if someone is watching me. So this means――――
+…But it hurts.  
+This redness, intense enough that it’s an assault on the eyes, is making me dizzy.  
+The town is too empty.  
+Maybe there was some kind of evacuation notice and I was the only one who didn’t get it.  
+That thought lets me accept the redness.  
+  
+  
+I should go home.  
+-- is, waiting.
 
----
+Isn’t that,  
+Tohsaka.  
+Even from a distance,  
+I can tell.  
+  
 
-"Saber......!"
+Heeey, Tohsaka.
 
-"Yes, what is it, Shirou?"
 
-"W-Why are you in my room!? I gave you a separate room last night―――!"
-
----
-
-I leap up from the futon to my feet―――no, I stop myself at the last second.
-
-I can't show her my lower half because... um... it's morning.
-
----
-
-"Yes, and I think there is a problem with it. You directed me to a room, but that room is not close enough to yours. I need to be by your side so that I may protect you."
-
----
-
-"H-Hold on, just get away from me...!
-
-Just get away, please get away, no, I'll get away if you won't...!"
-
----
-
-Still rolled up in my futon, I scramble away from Saber.
-
-"...?"
-
-Saber looks at me with wonder.
-
----
-
-―――Man, what does she think of a healthy guy of my age!?
-
-I get nervous from just having her close to me, so it's really shocking if she's sitting by my side when I wake up. And it was a surprise attack too! If my composure were an army, that would've just annihilated it.
-
----
-
-"Shirou. As I was saying."
-
-"Ugh... you mean the room?"
-
----
-
-"Yes. We should sleep in the same room to be safe.
-
-The boundary field on this house is excellent, but it only serves as a warning. It will do nothing to shield you if we are attacked here."
-
-"......"
-
----
-
-Saber has a point, but I wish she would consider the state of my nerves.
-
-I'll go crazy before any enemy attacks us if I sleep in the same room with Saber.
-
-It's not like I'll be with Saber all the time, so we should distance ourselves――――
-
----
-
-"――――Oh."
-
-I totally forgot about it.
-
-I have school today...!
-
----
-
-"Shirou? Why are you so pale? I have noticed that you make that face whenever you are about to suggest something foolish."
-
----
-
-"――――――――"
-
-She's sharp.
-
-Her previous aura of loyalty is gone, and she keeps me at bay with a distrustful look.
-
----
-
-"Well, there's something I forgot to tell you."
-
-I kneel and face her.
-
-...Well.
-
-How can I phrase things so that she'll approve of me going to school?
-
----
-
-## Scene 20
-
-
-
-"......"
-
-"......"
-
-I feel her staring at me, and it hurts.
-
-Saber is sitting Japanese-style while I cut the tofu...
-
-...Staring at me with that expression of hers.
-
----
-
-'I will go to school like usual.'
-
-We never reached a compromise after I said that.
-
-Saber objected, of course.
-
-She says it is dangerous for me to be alone.
-
-But I have my personal life too.
-
----
-
-Fuji-Nee will get suspicious if I skip school, and I won't know what's going on outside if I stay indoors.
-
-And to go somewhere with Saber means warning other Masters.
-
-I think the results will be good enough if I go out on my own. And most of all...
-
----
-
-"Masters fight where there are no people, right? Then I'll be safe during the day. Nobody will attack me unless I go someplace deserted."
-
-But Saber insisted that it's not going to be enough.
-
-...Her excessive concern pissed me off, so I stubbornly insisted that I'm going to school, and this is the result.
-
----
-
-"......"
-
-Her glare feels like it's burning into me.
-
----
-
-The moral of the story is...
-
-She'll bear a big grudge if you make her mad. And she gets out of hand because she is emotional.
-
-So I should be careful not to act stubborn again.
-
----
-
-"...Man, you inflexible blockhead."
-
-"Did you say something, Shirou?"
-
-"No, I'm just talking to myself. This tofu's really tough."
-
-"――――――――"
-
-...And she has sharp ears. She's not the type you want to get into a cold war with.
-
----
-
-"Huh? It's that time already?"
-
-After the doorbell, I hear the front door opening.
-
-And I also hear the familiar tone of Sakura's voice.
-
----
-
-"Oh, so I lost 30 minutes while I was arguing with Saber."
-
----
-
-But breakfast is almost ready.
-
-I thought about having bread to please Saber, but it seemed too much like bribery, so I changed my mind.
-
-Japanese people eat rice.
-
-I'll counter her violent glare with pressure of "when in Rome, do as the Romans do".
-
----
-
-"Good morning, Senpai. Are you already done cooking?"
-
-"Yeah, I'm pretty much done. Good morning, Sakura. Fuji-Nee should be coming soon, so help me serve the food."
-
----
-
-"Okay! I'll be helping you."
-
-Sakura sets her bag down in the living room and greets Saber.
-
----
-
-"Good morning, Saber-san. Were you able to sleep well last night?"
-
-"Yes. It was not a familiar room, but it was not a problem since I am familiar with this house."
-
-...Oh, they're talking.
-
-They didn't talk much yesterday, but I guess Sakura's gotten over it after one night.
-
----
-
-"Sorry to keep you waiting, Senpai. What should I start with?"
-
-"Can you get one big plate and four small ones? The salad's done, so you can serve it."
-
----
-
-"Okay. Wow, we're having German potato salad this morning?
-
-You're elaborate this morning, cooking Western food."
-
----
-
-Sakura is surprised, but she scoops out the salad onto the big plate.
-
-The salad is the only Western food I made.
-
-...You have to understand, I'm not giving in to Saber. I'm just... proactively trying to clear the air between us.
-
----
-
-"Oh, it smells good. Can I try some, Senpai?"
-
-"Yeah, but it's hot. And it might be sweet, too."
-
-"...?"
-
-Sakura picks up a piece of potato with the cooking chopsticks.
-
----
-
-"Hmm... Oh, it really is sweet. That's not... onion, is it?"
-
-Licking her lips, Sakura tries to figure out the ingredients.
-
----
-
-"――――――――"
-
-Her gesture surprises me.
-
-I should be used to seeing Sakura sample my food, but when she's so close, I can't take my eyes off her.
-
----
-
-"Wow, this is really good, Senpai! I like this taste!"
-
-Sakura must really like it, as she happily scoops the salad onto the big plate.
-
-There's nothing unusual about it.
-
-The surprise fades, and I sigh with relief.
-
----
-
-"―――――Oh, hold on, Sakura."
-
-"Yes? What is it, Senpai?"
-
-She's the same as always.
-
-She's no different from yesterday.
-
-It should not concern Sakura even if Shinji was a Master or even if her family is a family of magi.
-
----
-
-There's no way Sakura would be involved in the conflict.
-
-There's no way, but...
-
-"Sakura. Let me see your right cheek."
-
-There's a bruise on her right cheek, as if she's been punched.
-
----
-
-"Oh... it's not what you think, Senpai. I, um, fell on the stairs."
-
-"――――――――"
-
-There's only one person who Sakura would make excuses for.
-
-She's been like this for a long time.
-
-She would be strangely lively or unnaturally depressed.
-
----
-
-It always meant Shinji was taking things out on her. When I first found out about it, I went and punched him.
-
-...But he's never done something this bad before.
-
-About half a year ago, I spotted a bruise on Sakura's arm.
-
-I hit Shinji when I realized he'd done it―――but he's never punched a girl's face!
-
----
-
-"――――Damn him..."
-
-"S-Senpai――――"
-
-I hear a sharp crack.
-
-It seems I broke the chopsticks in my hand.
-
----
-
-"I'm pissed. I told him never to hit his sister again, but he couldn't keep such a simple promise...!?"
-
----
-
-"No, Senpai. You've got it all wrong. I just fell, really. I fell when Nii-san bumped into me."
-
-"――――Sakura."
-
----
-
-"That's all that happened, Senpai.
-
-...Please don't concern yourself with Nii-san right now.
-
-He's been acting weird since last night. He's really annoyed, so he might say odd things to you."
-
----
-
-"――――――――"
-
-Sakura is defending her brother.
-
-If the person who got hit isn't complaining, I definitely can't.
-
----
-
-...And I know why Shinji's acting strange.
-
-Shinji was abnormal last night.
-
-His rights as a Master were taken away, and he was humiliated by his own grandfather.
-
-He must have taken out his anger on Sakura after he went home.
-
----
-
-"――――――――Kuh."
-
-Sakura doesn't know anything.
-
-Nobody's told her about her brother, or about the secret of the Matou family.
-
-Then―――is it safe for her to live with Shinji when he's in such a state?
-
-He hasn't given up.
-
-Sakura is a convenient outlet for his violent personality.
-
----
-
-"...Um, Senpai? I'm sorry to trouble you so early in the day."
-
-"――――You idiot. Don't say that."
-
----
-
-I'm the one who caused the trouble.
-
-I should've expected this when I fought Shinji last night.
-
-I have to think of a way...
-
-A way to keep Sakura smiling――――
-
----
-
-A dismal air hangs over the rest of the morning.
-
-Fuji-Nee didn't turn up for some reason, and Sakura was quiet all through breakfast.
-
-Saber doesn't talk much to start with, and I'm not the garrulous type.
-
-It doesn't take long to finish breakfast, so Sakura leaves 40 minutes early to go to her morning practice.
-
----
-
-"...Um, I'll be going now, Senpai."
-
-Sakura forces a smile as she puts on her shoes.
-
----
-
-"Oh, don't push yourself too hard with your club activity. You always tried to go there even when you were sick, right? Just practice moderately and go sip some tea in the back. If Mitsuzuri says something, tell her I'll owe her one."
-
----
-
-"――――Okay. I'm sure Captain would love that."
-
-Sakura opens the door.
-
-She bows and turns to leave――――
-
-...And walks right into the door.
-
----
-
-"S-Sakura――――!?"
-
-"Oww―――."
-
-She holds the nose she banged onto the door.
-
----
-
-"A-Are you all right, Sakura!? Is your nose bleeding!?"
-
-"――――No, I'm fine. I'd die if you saw my nose bleeding――――"
-
-Sakura staggers and gets up.
-
-...It doesn't seem like it was Sakura's usual clumsiness.
-
----
-
-"...Are you really all right, Sakura? It looked like you fell. If you got dizzy, then..."
-
-"Huh...? No, that can't be. I was just careless, so, um... this is embarrassing."
-
-"......"
-
----
-
-"Then I'll be going now. I'll tell Fujimura-Sensei that your breakfast was good, like always."
-
-Sakura leaves, as if to shake off my worries.
-
----
-
-"――――"
-
-I guess she's all right.
-
-If anything, she's suffering from mental exhaustion.
-
----
-
-"...And then there's Shinji. I can't just leave her be..."
-
-But I have no clear solution.
-
-I can't consult Saber, nor can I tell Sakura the truth. Fuji-Nee is out of the question, of course.
-
----
-
-"――――――――"
-
-...Damn, if only there were someone else at school who I could talk to about the Holy Grail War―――
-
-"...Man. People like that don't just conveniently appear out of nowhere..."
-
----
-
-## Scene 21
-
-
-
-We run up the stone steps.
-
-Saber is already armed.
-
----
-
-"――――――――"
-
-"――――――――"
-
-We're both straining our nerves in preparation for an enemy attack.
-
-The steps are long, and the wind is warm even though we're near the mountaintop.
-
----
-
-According to Saber, this mountain has a boundary field that repels Servants.
-
-Servants will lose most of their power and magical energy if they enter the mountain from anywhere other than the front gate.
-
-Therefore, the only way we can enter is through the front gate, but...
-
----
-
-"...I thought they would be setting up an ambush. Do you sense a Servant around here, Saber?"
-
-"No.
-
-There are no other Servants around――――"
-
-Saber suddenly stops and looks down.
-
----
-
-"Saber...? Did you see something?"
-
-"...No, it must be my imagination. I thought I saw a katana, but I cannot find it anywhere.
-
-The mountain gate is not guarded. Let us go inside the temple."
-
----
-
-Saber starts running again.
-
-"...?"
-
-I tilt my head in wonder, but hurry to keep up with her.
-
----
-
-...The compound is dead silent.
-
-The wind is strong.
-
-All around is thick darkness.
-
-Despite the moon overhead, the terrible darkness remains.
-
----
-
-"――――――――"
-
-I look up.
-
-The moon is there, of course.
-
-Its rays shine down on the compound.
-
-But the area is still shrouded in darkness.
-
----
-
-"Saber."
-
-"Yes, something is wrong. No one would let us come this far without offering resistance. And―――this place is too quiet."
-
-"...Let's go inside. The Ryuudou Temple has close to fifty people living in it.
-
-It can't be this quiet."
-
----
-
-We head for the temple.
-
-―――There's no one around.
-
-After confirming that the compound is empty, we go inside.
-
----
-
-―――Everyone in the temple is sleeping.
-
-They do not even twitch.
-
-They don't react even when we touch them.
-
-All the monks, without exception, are weakened.
-
-No matter how hard we try to rouse them, they just lie there, breathing peacefully as if enjoying a dream.
-
----
-
-Of course, my classmate is among them.
-
-Ryuudou Issei is sleeping peacefully as well.
-
----
-
-"――――――――"
-
-We quickly move across the wooden hallway.
-
-...It's because Saber felt a presence.
-
-Saber pointed toward the main temple building.
-
-The Master responsible for this disaster is there.
-
----
-
-We step into the shrine.
-
-The first thing we see is the red blood spreading on the floor.
-
----
-
-"...!?"
-
-A red flower blooms in the center of the temple.
-
-There is a man lying there as well.
-
-His chest must be pierced, as the man is dyeing the floor red.
-
----
-
-The wound is fatal, and the man has lost enough blood to die.
-
-He's already a corpse.
-
-I know this man, and it seems he was Master to the one standing beside his body.
-
----
-
-The Servant is looking down at her Master with a mysterious dagger in hand.
-
-"......!"
-
-Pain lances through my head, accompanied by a sense of apprehension.
-
-It's not that I'm scared of this scene.
-
----
-
-That――――
-
-That dagger is ominous.
-
-It seems Saber does not feel anything, but I can tell that the dagger has dreadful power.
-
----
-
-"Caster...!"
-
-Saber readies herself.
-
-The Servant in a purple robe, Caster, does not answer.
-
-I don't know if Saber took it as an opening or as an insult...
-
-But she tries to charge――――
-
----
-
-"No, hold on, Saber...!"
-
-"Shirou...!? Why are you stopping me? This is our best chance to defeat Cast――――"
-
----
-
-"No, just don't go near that dagger...! That thing can break contracts. It might even cut the bond between a Servant and a Master."
-
-"Then―――Caster killed her own Master?"
-
----
-
-"......"
-
-I don't know if she did.
-
-But I'm sure the dagger she's holding has unearthly power.
-
----
-
-"Caster―――you killed your own master...!!"
-
-Saber rushes in with an angry roar.
-
-...Caster turns around.
-
-With her vigor gone, she looks more like a ghost than a heroic spirit.
-
----
-
-The sword flashes through the air.
-
-It slices the robe, but Caster manages to jump back.
-
----
-
-"―――Saber...?
-
-I see. You must have come to finish me off. I don't know whose plot this is, but he is quite thorough."
-
----
-
-"Silence. I do not want anything from a person who betrayed her master. Regret your actions and take your punishment."
-
-"Hah―――I killed my Master? I killed Souichirou-sama?
-
-Fuh―――haha, ahahahahaha! That is funny! Perhaps I should have done so, if it was going to turn out like this...!"
-
----
-
-She starts laughing maniacally.
-
-The black-robed magus puts her dagger away and points at Saber.
-
----
-
-"―――You're an eyesore, Saber. Disappear along with your Master."
-
-"――――――――"
-
-Saber does not even need to answer.
-
-She raises her sword without hesitation.
-
----
-
-...Caster disappears.
-
-The battle between the two could not be called a battle.
-
----
-
-Caster's magecraft was supreme, but it did no good against Saber, who has high magecraft resistance.
-
-Saber nullified every magecraft Caster used and killed her in one blow.
-
----
-
-"I have defeated Caster. Please give me your order, Master."
-
-"Eh―――? O-Oh. ...Well, we can't do anything here. Let's contact the hospital... no, Kotomine first. We should be able to save the people here that way."
-
----
-
-...But we can't save the corpse in front of us.
-
-Caster has disappeared, leaving only her Master's corpse at our feet.
-
-...His death will likely be kept a secret.
-
-Nobody will know what happened to him, and he will disappear from everyone's memory.
-
----
-
-"Shirou."
-
-"...I know. There are still four more Masters. We have no time to waste."
-
-"That is a wise decision. I understand your feelings, but this is not the time for sentiment."
-
----
-
-Saber turns and starts to walk.
-
-"――――――――"
-
-Engraving the sight of the corpse into my mind, I follow.
-
----
-
-"――――Huh?"
-
-Wait...
-
-What was that...?
-
----
-
-"Shirou? Why did you stop?"
-
-"Eh... um. I felt someone's gaze on me, like we're being watched. Didn't you feel it?"
-
----
-
-"No, I did not feel anything. We have already determined that there is nobody here. Is it not your imagination?"
-
-"Uh... maybe. If you put it that way, I guess that's right. Yeah, it must be just me."
-
----
-
-"Then let us hurry. The people should wake up now that Caster is dead. It would be troublesome if somebody saw us here."
-
----
-
-...She's right.
-
-Tonight will leave a bad taste in my mouth, but it should put an end to the mysterious coma incidents.
-
-That should be good enough for tonight.
-
----
-
-"All right. Let's get out of here and contact Kotomine, then go home and rest."
-
-Saber nods in satisfaction and leaves the temple.
-
----
-
-"――――――――"
-
-I follow after Saber, even though it's really hard for me to leave this place.
-
-...The man who used to be a Master lies silently in this holy place.
-
----
-
-## Scene 22
-
-
-
-The lead actor has left.
-
-The only ones remaining on the stage are silent corpses.
-
-And...
-
-...Something is devouring the corpses.
-
-No bodies remain.
-
-The wooden floor turns into a bottomless swamp, swallowing up the man's flesh and spilled blood.
-
----
-
-It consumes not only the man, but the one who obeyed him.
-
-The soul that was Servant Caster is swallowed into the darkness.
-
-It is not a legitimate flow.
-
-The defeated Servants are to be consumed by the Holy Grail.
-
-If anyone interferes with this balance, it will only bring his own death and destruction.
-
----
-
-"――――――――"
-
-It cries silently.
-
-It writhes in pain, sobs, exposes itself, and finally consumes the first one.
-
----
-
-――――IT IS NOT ENOUGH
-
----
-
-It walks on.
-
-Lacking a voice, it expresses its pain with the whole of its body.
-
----
-
-――――IT IS NOT ENOUGH
-
----
-
-There are no words, nor emotion.
-
-It never had those functions in the first place.
-
----
-
-――――IT IS NOT ENOUGH
-
----
-
-But it still grieves.
-
-As if...
-
-...It has become aware of its existence for the first time.
+She ignores me.  
+She walks on, fluttering her hair, which is long enough to touch the ground.  
+She’s wearing her uniform, so she must be going to school.
+
+I run after her.  
+Tohsaka doesn’t notice.  
+The distance between us doesn’t close at all.  
+She’s walking and I’m running, but she’s gradually getting farther away.  
+By the way.
+
+Tohsaka must be walking with an extremely long stride… no, she isn’t.  
+I’m running fast enough to make me short of breath, but Tohsaka is still faster.
+
+Her long hair disappears into the school.  
+Like a fluttering butterfly.  
+By the way.
+
+There’s nobody in the school either.  
+Empty, empty.  
+It’s as if the red scenery has been skillfully crafted from sugar.  
+If the red sunlight became strong enough, it would all fuse into a formless mass.  
+By the way.
+
+I hear a woman’s laughter.  
+It has a charming quality, like two young girls frolicking together.  
+An image rises in my mind of two beautiful sisters, alike as twins.  
+I open the door and enter the classroom.  
+  
+---By the way.  
+I wonder why I chased her here for no reason.
+
+I feel no surprise, nor any unpleasant feeling.  
+The two of them are embracing like lovers, making me doubt the issue of gender.  
+In this red scenery, I think they even seem more correct this way.
+
+“Uh…… ah……”  
+But there is one thing that worries me.  
+The fact that Mitsuzuri’s arms are as limp as those of a corpse.
+
+I was wrong.  
+She isn’t embracing her.  
+She’s feeding on her.
+
+A praying mantis is devouring a white butterfly.
+
+I’m drawn in, unsteady on my feet.  
+Mitsuzuri looks like a wax figure. Her life is being stolen away by the second.  
+Tohsaka is smiling with a lazy look in her eyes.  
+She brings her face close to Mitsuzuri’s neck.  
+Mitsuzuri does not resist, her pale throat exposed to Tohsaka.  
+Tohsaka’s lips, no, her teeth---
+
+The wax figure’s chest twitches.  
+Though I run to save her, it’s as slow as moving through water.  
+I can’t make it in time.  
+I can only watch as Tohsaka gulps down and Mitsuzuri crumples to the floor.
+
+“Phew… mm---”  
+  
+She licks her fingers.  
+The sight of her tongue coiling about her fingers is bewitching.  
+It’s far too alluring.  
+The heavy atmosphere around Tohsaka envelops and submerges me.
+
+“Hahaha… mmm…”  
+  
+Tohsaka is still licking her fingers.  
+The wet sound flows into my ears.
+
+“I’m so glad. You’ve come, Emiya-kun.”  
+  
+Her voice is thick and filled with desire.  
+…I feel so dizzy it’s as if I’m inside a kaleidoscope.  
+My thoughts are as paralyzed as my limbs.  
+…Ahh, by the way.  
+My body had lost its freedom long before.
+
+“What’s wrong…? Are you afraid of me, Emiya-kun?”  
+  
+I can neither affirm nor deny it.  
+The woman with the bewitching smile is too attractive to resist, and frightening as if she is about to capture and kill me.  
+A fly being played with by an orb-weaver.  
+There is no chance of escape or of opposition.
+
+“Ayako was delicious.”  
+  
+With that, she confirms that the secret really was a feeding.  
+But still. Why Mitsuzuri?
+
+“Because---I just couldn’t endure waiting for you.”
+
+Her smile is filled with joy.  
+Tohsaka reaches out.  
+For some reason, I imagine her slender arms coiling many times around my body.  
+Tohsaka’s sweet scent envelops me, extending her control even to my lungs.
+
+“Haha… now it’s your turn---”  
+  
+Tohsaka’s limbs are wrapped around me.  
+Her soft, womanly body drowns out the flickering warnings in my mind.  
+  
+  
+  
+I feel as though I’ll crumble in her embrace.  
+Her face is close enough to kiss. Her moist eyes are filled with an unsteady desire.  
+Her breathing is deep enough to suffocate me.
+
+“Mm---now I’ll eat you, Emiya-kun.”
+
+Tohsaka’s lips touch me.  
+At the nape of my neck.  
+…They’re warm, and wet.  
+The soft sensation creeping along my neck makes my consciousness dissolve like candy.
+
+“Mm---”
+
+Sharp fangs pierce my skin.  
+Tohsaka is biting into me.  
+Just like with Mitsuzuri, her fangs at my neck,  
+  
+  
+  
+It doesn’t hurt.  
+They say when a spider consumes its prey, it begins by anesthetizing it.  
+This anesthesia sends me into an even deeper trance. The sensation of her lips on my skin feels so good, it’s as if I might melt away.
+
+…The nape of my neck is softly dissolving.  
+With every mouthful Tohsaka drinks, my body turns steadily into sugar.  
+She sucks out everything that is inside me, and to replace it she pours in a nectar that melts my body.  
+It seeps softly into my bones, my muscles, my skin.  
+  
+  
+  
+My throat has already dissolved, leaving me unable to even moan.  
+Everything below my neck is steadily dissolving, and the impossible feeling is deceiving my senses.  
+Tohsaka sticks fast to my neck, drinking as her shoulders tremble.  
+As if she’s truly happy to be sucking my blood---
+  
+  
+  
+My dizziness causes my vision to blur and duplicate.  
+I suddenly realize my breathing has stopped, and my blood has been drained away so it doesn’t circulate my body.  
+In its stead, the sweet, strong liquid from Tohsaka soaks my whole body.
+
+“Ah…mm. Delicious…”  
+  
+While still being eaten, I hear a voice that I should not hear.  
+My brain goes numb, melted by the voice.
+
+“Haa…mm… it’s so hot… Emiya-kun…”  
+  
+Tohsaka whispers as she drains me of blood.  
+It’s as though there’s a pump inside me.  
+The pleasant feeling melts me instead, and my bones are gone.
+
+“Fresh bloodIt’s so full of life, and energy---”  
+  
+This is the limit.
+
+What’s gone is gone.  
+My veins are dry, and it should be impossible to wring out another drop.
+
+“More… It’s still… not enough---”
+
+She keeps drinking.  
+There shouldn’t be anything left to suck out, but Tohsaka continues to gulp down.  
+It’s as if she’s converting my very life into blood.  
+I see. In that case, this won’t end so easily.  
+  
+  
+  
+Drinking endlessly.  
+  
+In the red classroom, she persistently sucks from me.  
+My figure is melting away completely, being sucked into nothingness by her.
+
+“Mm… wonderful, Emiya-kun---I’ll take all of you---”
+
+A woman’s voice reverberates in my mind.  
+As the voice whispers, I’m drying up and withering away, in red.

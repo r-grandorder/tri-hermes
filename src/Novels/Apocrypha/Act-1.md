@@ -1,6 +1,6 @@
 # Fate/Apocrypha Act 1 - Unbirth
 
----
+--- 
 
 The sage cries out. "Open, Gate of Heaven. Bless us and bestow miracles upon us!"
 
@@ -499,11 +499,7 @@ When he ignored it and tried to order her to "commit suicide", he noticed,
 
 -- his jaw, was gone.
 
-" 
----
-
----
- !!"
+"------!!"
 
 The words he wanted to cry did not come out. The only speech he could manage was a ridiculous breathing sound.
 
@@ -513,13 +509,7 @@ His wrist received a shock.
 
 In violent pain, with his blood discharging as though from a bottomless bucket, Hyouma fell into a panic at once.
 
-" 
----
-
----
- !! -- ! -- ! 
----
- !!"
+" ------!! -- ! -- ! --- !!"
 
 Even so, he could not speak.
 
