@@ -1,45 +1,45 @@
 # Main Story
 
-
 ## Part 1
 
-* [Singularity F: Fuyuki](Singularity/fuyuki.md)
-* [Singularity 1: Orleans](Singularity/orleans.md)
-* [Singularity 2: Septem](Singularity/septem.md)
-* [Singularity 3: Okeanos](Singularity/okeanos.md)
-* [Singularity 4: London](Singularity/london.md)
-* [Singularity 5: E Pluribus Unum](Singularity/america.md)
-* [Singularity 6: Camelot](Singularity/camelot.md)
-* [Singularity 7: Babylonia](Singularity/babylonia.md)
-* [Final Singularity: Solomon](Singularity/solomon.md)
+* [![](https://i.imgur.com/I9FV7Kc.png)](Singularity/fuyuki.md)
+* [![](https://i.imgur.com/IawL1o6.png)](Singularity/orleans.md)
+* [![](https://i.imgur.com/im0yV5d.png)](Singularity/septem.md)
+* [![](https://i.imgur.com/c9jaFtF.png)](Singularity/okeanos.md)
+* [![](https://i.imgur.com/HxV5KUH.png)](Singularity/london.md)
+* [![](https://i.imgur.com/JlP9YpX.png)](Singularity/america.md)
+* [![](https://i.imgur.com/CxGGEZa.png)](Singularity/camelot.md)
+* [![](https://i.imgur.com/55NBj3S.png)](Singularity/babylonia.md)
+* [![](https://i.imgur.com/2EYkxjT.png)](Singularity/solomon.md)
 
 ## Part 1.5
 
-* [Epic of Remnant 1: Shinjuku](Remnants/shinjuku.md)
-* [Abyssal Cyber Paradise, SE.RA.PH](Remnants/seraph.md)
-* [Epic of Remnant 2: Agartha](Remnants/agartha.md)
-* [Epic of Remnant 3: Shimosa](Remnants/shimosa.md)
-* [Epic of Remnant 4: Salem](Remnants/salem.md)
+* [![](https://i.imgur.com/fce7fkG.png)](Remnants/shinjuku.md)
+* [![](https://i.imgur.com/gLGG2Cc.png)](Remnants/seraph.md)
+* [![](https://i.imgur.com/Vk61wZN.png)](Remnants/agartha.md)
+* [![](https://i.imgur.com/sE1cQxC.png)](Remnants/shimosa.md)
+* [![](https://i.imgur.com/rMaqiNK.png)](Remnants/salem.md)
 
 ## Part 2
 
-* [Cosmos in the Lostbelt: Prologue](Lostbelt/prologue.md)
-* [Cosmos in the Lostbelt 1: Anastasia](Lostbelt/anastasia.md)
-* [Cosmos in the Lostbelt 2: Gotterdamerung](Lostbelt/gotterdamerung.md)
-* [Cosmos in the Lostbelt 3: SIN](Lostbelt/sin.md)
-* [Cosmos in the Lostbelt 3.5: Ooku](Lostbelt/ooku.md)
-* [Cosmos in the Lostbelt 4: Yugakshetra](Lostbelt/yugakshetra.md)
-* Cosmos in the Lostbelt 4.5: Imaginary Scramble ~ Formatting WiP 
-* [Cosmos in the Lostbelt 5.1: Atlantis](Lostbelt/atlantis.md)
-* [Cosmos in the Lostbelt 5.2: Olympus](Lostbelt/olympus.md)
-* [Cosmos in the Lostbelt 5.5: Heiankyo](Lostbelt/heiankyo.md) ~ TL and Formatting WiP
-* [Cosmos in the Lostbelt 6: Avalon le Fae Part 1](Lostbelt/avalon1.md)
-* [Cosmos in the Lostbelt 6: Avalon le Fae Part 2](Lostbelt/avalon2.md)
-* [Cosmos in the Lostbelt 6: Avalon le Fae Part 3](Lostbelt/avalon3.md)
-* [Cosmos in the Lostbelt 6.4: Tunguska Sanctuary](Lostbelt/tunguska.md)
-* Cosmos in the Lostbelt 6.5: Realms of Mortality Incarnate, Traum - Life and Death of a Fantasy
-    * [Smoof's Story Translation](Lostbelt/traum-TL-Smoof.md)
-    * [Fumei's Story Summary](Lostbelt/traum-summary-fumei.md)
+* [![](https://i.imgur.com/jDauLq1.png)](Lostbelt/prologue.md)
+* [![](https://i.imgur.com/Il7KXJV.png)](Lostbelt/anastasia.md)
+* [![](https://i.imgur.com/5xVJ4Cs.png)](Lostbelt/gotterdamerung.md)
+* [![](https://i.imgur.com/dP6DrD6.png)](Lostbelt/sin.md)
+* [![](https://i.imgur.com/NGaUMd4.png)](Lostbelt/ooku.md)
+* [![](https://i.imgur.com/mhkIFe9.png)](Lostbelt/yugakshetra.md)
+* [![](https://i.imgur.com/SEr7ayy.png)](Lostbelt/atlantis.md)
+* [![](https://i.imgur.com/FFUtaUj.png)](Lostbelt/olympus.md)
+* [![](https://i.imgur.com/82Aufe6.png)](Lostbelt/heiankyo.md)
+* ![](https://i.imgur.com/aMpK080.png)
+	* [Cosmos in the Lostbelt 6: Avalon le Fae Part 1](Lostbelt/avalon1.md)
+	* [Cosmos in the Lostbelt 6: Avalon le Fae Part 2](Lostbelt/avalon2.md)
+	* [Cosmos in the Lostbelt 6: Avalon le Fae Part 3](Lostbelt/avalon3.md)
+
+* [![](https://i.imgur.com/rXPJbW1.png)](Lostbelt/tunguska.md)
+* ![](https://i.imgur.com/ADORzGw.png)
+    * [Smoof's Traum Translation](Lostbelt/traum-TL-Smoof.md)
+    * [Fumei's Traum Summary](Lostbelt/traum-summary-fumei.md)
     * [Post-Traum Speculation Resource](Lostbelt/ayylmao.md)
 
 ## Anime/Movie/OVA

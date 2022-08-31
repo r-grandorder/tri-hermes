@@ -165,6 +165,25 @@ It’s a basic rule of evolutionary designs that equipment and decorations becom
 Although I liked Lily’s design from the start, I liked even more fully the mini-skirt dress of the third Ascension. (Takeuchi Takashi)
 
 
+## Material Images
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-034.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-035.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-036.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-037.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-038.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-038.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-040.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-041.jpg?raw=true)
+
+
 ## Dialogue
 
 | Occassion | English | Japanese |

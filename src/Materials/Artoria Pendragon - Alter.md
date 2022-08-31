@@ -142,6 +142,24 @@ An amusing fellow. While wicked, she is not upfront about her feelings, and that
 
 I was very grateful for this character to come into existence, even though Artoria Alter has few transformation differences. Alter’s visor is one of those differences too. It is a small change, but it has a serious significance behind it. For her Third Stage dress, I am using a clothing article that was designed for the use of VOLKS dolls. In addition, I decided on doing things such as having this dress change into a miniskirt for her Final Ascension illustration. (Takeuchi Takashi)
 
+## Material Images
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-026.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-027.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-028.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-029.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-030.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-031.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-032.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-033.jpg?raw=true)
+
 
 ## Dialogue
 
