@@ -1,6 +1,6 @@
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/9viswr/arthur_pendragons_servant_profile_from_fgo/)
-
 # Arthur Pendragon (Prototype)
+
+Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/9viswr/arthur_pendragons_servant_profile_from_fgo/)
 
 ## Info
 
@@ -189,10 +189,20 @@ I think it is an interesting as well as an unfair point for the expressions he s
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-092.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-093.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-094.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-095.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-096.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-097.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |
