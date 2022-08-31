@@ -4,6 +4,12 @@
 [This volume is translated by castor212 on BL](https://forums.nrvnqsr.com/showthread.php/7374-Fate-Apocrypha-Vol-4-5-%28no-spoilers%29?p=2822251&viewfull=1#post2822251)
 :::
 
+![](https://i.imgur.com/fTpOs8t.jpeg)
+
+![](https://i.imgur.com/JPqJi60.jpeg)
+
+![](https://i.imgur.com/gS9iwvX.jpeg)
+
 ## Prologue
 
 —When all is said and done, there isn't any <ruby>reason<rt>meaning</rt></ruby> of being born.
