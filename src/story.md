@@ -54,17 +54,17 @@
 
 ![](https://i.imgur.com/aMpK080.png)
 
-	* [Cosmos in the Lostbelt 6: Avalon le Fae Part 1](Lostbelt/avalon1.md)
-	* [Cosmos in the Lostbelt 6: Avalon le Fae Part 2](Lostbelt/avalon2.md)
-	* [Cosmos in the Lostbelt 6: Avalon le Fae Part 3](Lostbelt/avalon3.md)
+* [Cosmos in the Lostbelt 6: Avalon le Fae Part 1](Lostbelt/avalon1.md)
+* [Cosmos in the Lostbelt 6: Avalon le Fae Part 2](Lostbelt/avalon2.md)
+* [Cosmos in the Lostbelt 6: Avalon le Fae Part 3](Lostbelt/avalon3.md)
 
 [![](https://i.imgur.com/rXPJbW1.png)](Lostbelt/tunguska.md)
 
 ![](https://i.imgur.com/ADORzGw.png)
 
-    * [Smoof's Traum Translation](Lostbelt/traum-TL-Smoof.md)
-    * [Fumei's Traum Summary](Lostbelt/traum-summary-fumei.md)
-    * [Post-Traum Speculation Resource](Lostbelt/ayylmao.md)
+* [Smoof's Traum Translation](Lostbelt/traum-TL-Smoof.md)
+* [Fumei's Traum Summary](Lostbelt/traum-summary-fumei.md)
+* [Post-Traum Speculation Resource](Lostbelt/ayylmao.md)
 
 ## Anime/Movie/OVA
 
