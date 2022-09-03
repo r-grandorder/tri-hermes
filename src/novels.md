@@ -14,6 +14,7 @@
 * [Volume 3](Novels/Zero/Vol-3.md)
 * [Volume 4](Novels/Zero/Vol-4.md)
 * [Short Story - Heart of Freaks](Novels/Zero/HeartofFreaks.md)
+* [Character profiles](Novels/Zero/profiles.md)
 
 **Fate/Apocrypha** - [Translation by NanoDesu Translations](https://fateapocryphathetranslation.wordpress.com/)
 
@@ -23,6 +24,7 @@
 * [Volume 3](Novels/Apocrypha/Vol-3.md)
 * [Volume 4](Novels/Apocrypha/Vol-4.md)
 * [Volume 5](Novels/Apocrypha/Vol-5.md)
+* [Character profiles](Novels/Apocrypha/profiles.md)
 
 **Fate/Requiem**
 

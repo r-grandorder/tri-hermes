@@ -1,8 +1,719 @@
 # FSN HF Day 07 (EN)
 
 
+## Scene 00 Wandering cloud
 
-## Scene 00
+
+
+When I wake up, my body has fully recovered.
+
+My temperature is normal, and my limbs don't feel heavy at all.
+
+---
+
+"――――It's before six o'clock. I wonder if Sakura's awake?"
+
+If she is, she'll probably be preparing breakfast.
+
+I'd better get ready quickly and head to the kitchen, or Sakura will finish it herself.
+
+---
+
+"I'm going ahead, Saber. Come to the living room in a bit."
+
+I don't have the guts to look inside her room, so I retreat after calling out to her.
+
+It'll be troublesome if I see Saber sleeping.
+
+---
+
+"And my dad collapsed.
+
+He was like, 'your father is sick in bed, so don't you think you should settle down?'
+
+Isn't that rude? He makes it sound like I'm a wandering cloud."
+
+---
+
+Fuji-Nee complains while eating.
+
+It seems Fuji-Nee didn't come over last night because her father collapsed.
+
+---
+
+"...? Senpai, what is this wandering cloud?"
+
+"It's describing Fuji-Nee. It's an airy person without a definite character."
+
+I answer without hesitation.
+
+---
+
+"You're wrong! A wandering cloud is an idler!
+
+It's what you call a person who does nothing but go around town to mock people."
+
+---
+
+Sakura and Saber nod in comprehension.
+
+I do not even need to mention which part they agree on.
+
+---
+
+"So, Sensei. Is your father sick?"
+
+"Of course not. My family is famous for not getting sick. My dad sumo wrestled with one of the younger guys and hurt his hips."
+
+"Sumo...? What is this 'sumo', Taiga?"
+
+---
+
+"Huh? It's kinda hard to explain in words. It's a type of martial art where you push, push instead of pull, push and push. You can't use weapons, and you can't use a fist. You also can't kick.
+
+You basically grapple with your opponent and win by knocking your opponent down to the ground."
+
+---
+
+"...Hm. So is it a pure contest of power?"
+
+"Yup. And you don't wear any clothes. You and your opponent grapple pretty much naked."
+
+---
+
+"N-Naked...!?"
+
+"Yup. Well, your weak point is covered by a mawashi. Oh, that's a sumo wrestler's loincloth, by the way. If you don't understand, ask Shirou about it. He knows more than I do."
+
+Fuji-Nee says something absurd as she sips on her miso soup.
+
+---
+
+"I see. So, Shirou. What is this loincloth?"
+
+"――――――――"
+
+It's easy to explain, but I'm a bit hesitant to talk about it.
+
+I'm talking to Saber, and we're eating right now.
+
+Why do I have to talk about loincloths during a meal?
+
+---
+
+"...I don't know. Sumo is out of my area of expertise, so ask someone else."
+
+"You're lying! You have a loincloth too!"
+
+---
+
+"I-I don't! I had to do sumo because your grandfather made me, and I only borrowed one then!
+
+First of all, that happened years ago!"
+
+---
+
+"Ahahaha, you're right. You kept losing because you were small back then. My gramps told you to do a different sport because you wouldn't give up until you won, so he made you start archery."
+
+---
+
+"......"
+
+Fuji-Nee is laughing cheerfully.
+
+...Man.
+
+Fuji-Nee is in high spirits this morning, so she's louder than usual.
+
+---
+
+"Hey, Fuji-Nee. It's almost time. You'll be late unless you leave here before seven o'clock."
+
+"Huh? Oh, it's fine today. Morning club activities are cancelled starting today. ...Well, I still have to leave early because there's a teachers' meeting."
+
+---
+
+"Huh? The morning practice for the archery club is cancelled as well?"
+
+"Yup. Oh, I see. You didn't hear about it, huh? There was an incident yesterday, and some people in the track team got injured during practice. but they got injured during practice. I guess it's because of lack of sleep, so morning practices will be cancelled for a while."
+
+---
+
+"...I see. But they cancelled all the practices because of one injured person?
+
+Lack of sleep is that person's―――"
+
+It's their own fault, unless...
+
+---
+
+"Fuji-Nee. How many people were injured?"
+
+"...Hmm. It's between ten and twenty students."
+
+---
+
+"T-That many?
+
+What about the people in the archery club?"
+
+---
+
+"Well, nobody in our club got hurt, but a few people looked tired yesterday.
+
+...And it's been dangerous recently, right? We can't just ignore the mental strain it might be causing, so I guess the school's trying to decrease the burden. I don't know about the clubs being a mental burden, but it's true that they physically tire you."
+
+Fuji-Nee shrugs and holds out her bowl.
+
+---
+
+"Can I have another bowl, Sakura-chan? I just want it half-full."
+
+"Of course. You're not eating a lot this morning, Sensei."
+
+"Yeah. My stomach is hurting because I know there's a lot of work waiting for me at school, so I don't have any appetite."
+
+---
+
+Fuji-Nee pretends to cry.
+
+Hmm.
+
+It seems the tiger at my house wants us to believe that two and a half bowls of rice isn't her normal serving.
+
+---
+
+"You're full of energy in contrast, Sakura-chan. You're on your second full bowl."
+
+"I'm still growing. I get hungry quickly, so I have to push myself and eat extra."
+
+---
+
+Sakura puffs up with pride.
+
+...Well.
+
+I don't know about that being part of the growing thing... But maybe all the gluttons around her are influencing her.
+
+---
+
+"I see. Sakura does not have sufficient strength as an archer. It is good to take in extra energy."
+
+Saber nods as she keeps eating.
+
+...Is it just me, or is she missing the original topic?
+
+---
+
+## Scene 01 Sakura and lunch
+
+
+
+It's past seven o'clock.
+
+Fuji-Nee left for school, and we're cleaning now.
+
+Sakura has time as well, so we relax and do the dishes.
+
+---
+
+With the two of us, it doesn't take long.
+
+...I was keeping an eye on Sakura because of her health, but she really seems okay now.
+
+It looks like her fever's gone, and she's full of energy.
+
+---
+
+"U-Um, Senpai...!
+
+I-I have something to tell you, so could you spare me some time!?"
+
+---
+
+Then.
+
+Sakura stammers a question, looking as nervous as if she were breaking into somebody's house.
+
+---
+
+"Sure. We still have time."
+
+"O-Okay. ...U-Um, well. I made, um, some lunch for you..."
+
+She looks down as she hands me a lunchbox.
+
+---
+
+It's not my usual lunchbox, and it seems Sakura prepared it for me.
+
+It has a cute shape, and it's wrapped in vivid colors.
+
+The taste is guaranteed if Sakura made it, and I appreciate the fact that someone made lunch for me.
+
+---
+
+"Uh, thanks. ...Wait, did you wake up early to make me lunch?"
+
+Sakura was done with cooking breakfast when I came to the living room this morning.
+
+I admired how early she got up, but it seems she actually woke up earlier than I thought.
+
+---
+
+"Oh, yes. Um, I woke up early, and I didn't have anything to do, so I thought I'd make lunch. ...Um, and I want to ask you about something――――"
+
+"...? Why are you all formal? Do you need to consult me about something important?"
+
+---
+
+"N-No, it's nothing big...!
+
+It's not, but...... umm... oh, yes! S-Senpai, you don't make lunch that often. You like cooking, so I'm wondering why!"
+
+"...Sakura. It's not like I like to cook."
+
+---
+
+I don't know about a guy's hobby being cooking, so I wish she'd keep it as something I can do.
+
+Oh, wait. We're talking about why I don't make my own lunch.
+
+---
+
+"Well. I know it's cheaper to make my own lunch. But the guys in my class crowd around it if I do make it. Half my lunch is taken away before I know it."
+
+---
+
+Sakura nods in satisfaction.
+
+...To be accurate, it's the girls that take most of my lunch, but I don't say it because it's too pathetic.
+
+---
+
+"Yeah, so I only make lunch when I can use the student council room. Then, I can eat alone with Issei."
+
+---
+
+"...U-Um, Senpai? How about eating at the archery range in that case?
+
+It's open during lunchtime, I can make you some tea, and it's quiet there――――"
+
+---
+
+...?
+
+Oh, that's a good idea.
+
+The archery range isn't locked, and the club members rarely go there during lunchtime.
+
+Mitsuzuri might be there, but she's not so cruel as to eat someone else's lunch.
+
+---
+
+"...Yeah, you're right. That's a good idea."
+
+"Y-Yes!
+
+It is a good idea! Then, um――――"
+
+"But I don't know about an outsider going in there. I guess we have to ask Mitsuzuri for permission."
+
+---
+
+"I-It's all right! The archery range is part of the school, so any student should be able to use it when the archery club isn't using it!"
+
+Sakura presses her point.
+
+---
+
+"...Hmm, you're right. I guess it's fine if I'm not causing anyone trouble."
+
+I nod to myself.
+
+Then.
+
+I don't know why, but Sakura is making a victory pose with a big smile.
+
+---
+
+"...?"
+
+...Hmm. Maybe some of Fuji-Nee's energy transferred to Sakura.
+
+---
+
+## Scene 02 Lunchtime Interval
+
+
+
+We walk up the hill.
+
+There are more students around us than usual. It must be because there's no morning practice today.
+
+---
+
+"We still have time. It's been a while since we had a morning where we could take it easy."
+
+Sakura is walking happily besides me.
+
+I don't know why, but she's in a good mood.
+
+---
+
+"This is normal for me, but... I guess it has been a while since I went to school with you."
+
+"Yes. The archery club practices every morning."
+
+---
+
+"But participation isn't required, right? Most people only go once every two days, so you should skip once in a while."
+
+"What? U-Um, would you walk to school with me if I skipped practice?"
+
+---
+
+"...? Of course. We're going to the same place, so we'll be walking together either way."
+
+"Oh, then―――
+
+No, I can't do that. I'm not that good, so I can't afford to skip a day of practice."
+
+Sakura sticks her tongue out at herself.
+
+---
+
+"...? Are you sure about that? Not to speak ill of anyone, but you're the best in your grade. You have great form, so I don't think there'll be any trouble, even if you skip a day or two."
+
+---
+
+"No, I'm still inexperienced. My thoughts trail off if I let my guard down, and I often don't see the target.
+
+I'm lazy at heart, so I tend to slack off unless I push myself to train a little every day."
+
+...Hm.
+
+If that's how she feels, who am I to disagree?
+
+---
+
+I part with Sakura.
+
+My class is on the third floor, and hers is on the fourth.
+
+---
+
+"I'll see you later, Senpai."
+
+"Yeah. Don't fall asleep during class. People tend to get sleepy when they're full."
+
+---
+
+"Ahaha, you don't need to worry. I'm not full anymore."
+
+Sakura goes up the stairs.
+
+I wave goodbye to her and head to my classroom.
+
+---
+
+It's lunchtime.
+
+―――Shinji is absent, and so is Issei.
+
+...It seems Issei is being treated at the hospital after the incident at the Ryuudou Temple.
+
+Now that I look around, I see that there are more people absent.
+
+---
+
+"――――――――"
+
+But the number of absentees shouldn't get any higher, at least.
+
+The Servant that was sucking the life force out of people in this town has been eliminated.
+
+There should be no more unexplained comas.
+
+---
+
+"―――Yeah. The people Caster harmed will get well and come back soon."
+
+---
+
+I pull myself together.
+
+There are four Masters remaining.
+
+Two, if you don't count Tohsaka and Illya. I can't let my guard down until I know what kind of people they are.
+
+---
+
+""Oh.""
+
+We speak out in unison.
+
+I bump into Tohsaka the instant I go out into the hallway.
+
+---
+
+"Hey, what do you mean, 'oh'? Isn't that a rude thing to say? Or do you have a guilty conscience?"
+
+---
+
+"Hey, the same goes for you, you were surprised too.
+
+...And what was up with the phone call last night? You were being selfish, telling me not to come and to come."
+
+---
+
+"Well... Yesterday was an exception. You skipped school the day after the Master at Ryuudou Temple disappeared. Of course I thought something happened to you.
+
+...Um, I told you about the Ryuudou Temple, so it'd trouble me if something happened to you."
+
+---
+
+"――――――――"
+
+...I'm surprised.
+
+Did Tohsaka feel responsible because she told me about it?
+
+---
+
+"I see. Thanks, Tohsaka. You were worried about me, right?"
+
+"T-That's not true! I just want to know the details of what happened, since I gave you the information!"
+
+---
+
+"Huh? But I told you over the phone yesterday, right? Both Caster and her Master are defeated. There's nothing at the Ryuudou Temple anymore."
+
+Huh?
+
+Tohsaka looks serious all of a sudden.
+
+---
+
+"What's wrong, Tohsaka? Did I say something weird?"
+
+"―――Yes, you did. It's not that I don't trust you, but let me confirm. You're absolutely certain that you defeated Caster?"
+
+---
+
+"...Humph. Even I could tell that.
+
+Saber completely eliminated Caster. ...Caster's Master is――――"
+
+...He was already dead when we got there.
+
+---
+
+"...All right. There's something I want to talk about regarding that. Can you come to the rooftop?"
+
+---
+
+## Scene 03 Rooftop Tohsaka Rin(II)
+
+
+
+"Wha――――Caster hasn't disappeared?"
+
+"Correct. You defeated Caster two days ago, right?
+
+But the coma incidents happened again yesterday.
+
+...The people who had their magical energy sucked out yesterday are in a worse coma than before."
+
+---
+
+"No way. We definitely..."
+
+"I know. You wouldn't lie, and I don't think you made a misunderstanding. ...But Archer and I saw a shadow that looked like Caster when we went to the scene of the crime yesterday."
+
+---
+
+"......I see. Then Caster's still alive and collecting magical energy from all over town?"
+
+---
+
+"...I'm not certain, but it seems so. But I can tell that the atmosphere at the Ryuudou Temple has changed.
+
+You two defeated Caster. But she still exists. That's all I'm sure of right now."
+
+---
+
+Tohsaka looks unhappy.
+
+...This explains why she feels different from yesterday.
+
+---
+
+Tohsaka is probably getting doubts about this war.
+
+A Servant disappears if its Master is defeated.
+
+A Servant cannot avoid death in this world if it is completely defeated.
+
+But Caster still exists, in spite of taking both these penalties.
+
+She is a "violation" that completely overthrows the fundamentals of the Holy Grail War.
+
+---
+
+"―――I see. So, what do you think?"
+
+"Huh? Me?"
+
+---
+
+"Yeah. You think it's strange, right?
+
+I don't think you'll forfeit from the Holy Grail War. But don't you want to clear up this thing about Caster before you start fighting for the Holy Grail? You want to put off fighting other Masters until after that, right?"
+
+---
+
+"You're right.
+
+This Holy Grail War is suspicious. It seems different from the one I heard about from my dad. I think there's something different going on where we can't see it."
+
+---
+
+...Different, huh?
+
+I don't have the liberty to think about such a thing because the Holy Grail War itself is beyond my comprehension.
+
+But if a legitimate Master like Tohsaka feels that way, it must be true.
+
+---
+
+"Then Tohsaka..."
+
+"Yes. I won't follow the rules of the Holy Grail War until I'm convinced. It can't be helped if I'm being used, but I don't like not knowing the harm I may be imposing on others.
+
+You don't like such a thing, right? So I'm not going to be fighting other Masters until I get this cleared up."
+
+---
+
+She declares her stance.
+
+Tohsaka's eyes show her determination, and it seems to be asking for my stance.
+
+---
+
+"I see. Can I take that as a truce offer?"
+
+"If you would accept it. If you won't fight me until this case is settled, I won't hurt you either."
+
+---
+
+Tohsaka asks me silently with her eyes.
+
+She doesn't even need to ask.
+
+---
+
+"That's my line. I won't fight you as long as you don't come attacking me.
+
+...And even if there comes a time when we do fight, it'll be fair and square. Until then――――"
+
+I want to cooperate with Tohsaka.
+
+---
+
+"Then it's decided. I expected you to agree, but I'm glad to hear it all the same."
+
+"Huh...?"
+
+Tohsaka holds out her right hand.
+
+I realize that she's wanting to shake hands, and...
+
+"Y-Yeah. P-Please give me your best regards."
+
+I try to suppress my face from turning red as I shake her hand.
+
+---
+
+"All right, our contract is set. Please give me your best regards too, Emiya-kun."
+
+---
+
+...Tohsaka firmly shakes my hand.
+
+Her hand is soft, much more delicate than mine.
+
+"――――――――!"
+
+I-I'M AN IDIOT!!! WHAT THE HELL AM I THINKING AT A TIME LIKE THIS!!!!?
+
+---
+
+"...? What's wrong, Emiya-kun? You're sweating all of a sudden. ...It seems your heart's beating faster too."
+
+"...!? N-No, it's nothing, I just have a cold. I'll get well if I eat! I'll get better if I eat, so let's eat lunch!"
+
+---
+
+I quickly let go of Tohsaka's hand.
+
+Then.
+
+Tohsaka's expression turns wicked.
+
+---
+
+"Ohhhh. I suspected it when we last met, but it looks like my hunch was correct. You seemed like you had some experience, but you actually don't, huh?
+
+It's surprising, or should I say it's just as I expected?
+
+...I see, I see. I seeeeee."
+
+---
+
+Tohsaka Rin stares at me from head to toe.
+
+---
+
+"W-What? Come out and say it if you want to say something. I-It's not good to stay quiet!"
+
+"Noooothing. Don't worry. It's just that I just figured out a bit more about you. Oh, I won't say it, so you don't have to be frightened."
+
+---
+
+"...! I-I'm not frightened! Go ahead and say it if you want to!"
+
+"Oh, can I?"
+
+She grins.
+
+Man―――how can such an evil smile exist in this world?
+
+---
+
+"...Don't say it."
+
+"What, I can't hear you?"
+
+---
+
+"...I'm sorry. Please don't mention it. I think it'll be shocking if I hear it. I think I'll suffer more damage if I hear it from you."
+
+---
+
+"Really? Then I guess I won't say it――――"
+
+Tohsaka withdraws with an expression of victory.
+
+And the instant I regain my peace of mind...
+
+"You're the type that masturbates to the girl you like, right?"
+
+"Hey, you said it, you devil!!!"
+
+---
+
+## Scene 04 The two
 
 
 
@@ -260,177 +971,8 @@ There's nothing I can do here, so I guess I'll go to the shopping district.
 
 ---
 
-## Scene 01
 
-
-
-We walk up the hill.
-
-There are more students around us than usual. It must be because there's no morning practice today.
-
----
-
-"We still have time. It's been a while since we had a morning where we could take it easy."
-
-Sakura is walking happily besides me.
-
-I don't know why, but she's in a good mood.
-
----
-
-"This is normal for me, but... I guess it has been a while since I went to school with you."
-
-"Yes. The archery club practices every morning."
-
----
-
-"But participation isn't required, right? Most people only go once every two days, so you should skip once in a while."
-
-"What? U-Um, would you walk to school with me if I skipped practice?"
-
----
-
-"...? Of course. We're going to the same place, so we'll be walking together either way."
-
-"Oh, then―――
-
-No, I can't do that. I'm not that good, so I can't afford to skip a day of practice."
-
-Sakura sticks her tongue out at herself.
-
----
-
-"...? Are you sure about that? Not to speak ill of anyone, but you're the best in your grade. You have great form, so I don't think there'll be any trouble, even if you skip a day or two."
-
----
-
-"No, I'm still inexperienced. My thoughts trail off if I let my guard down, and I often don't see the target.
-
-I'm lazy at heart, so I tend to slack off unless I push myself to train a little every day."
-
-...Hm.
-
-If that's how she feels, who am I to disagree?
-
----
-
-I part with Sakura.
-
-My class is on the third floor, and hers is on the fourth.
-
----
-
-"I'll see you later, Senpai."
-
-"Yeah. Don't fall asleep during class. People tend to get sleepy when they're full."
-
----
-
-"Ahaha, you don't need to worry. I'm not full anymore."
-
-Sakura goes up the stairs.
-
-I wave goodbye to her and head to my classroom.
-
----
-
-It's lunchtime.
-
-―――Shinji is absent, and so is Issei.
-
-...It seems Issei is being treated at the hospital after the incident at the Ryuudou Temple.
-
-Now that I look around, I see that there are more people absent.
-
----
-
-"――――――――"
-
-But the number of absentees shouldn't get any higher, at least.
-
-The Servant that was sucking the life force out of people in this town has been eliminated.
-
-There should be no more unexplained comas.
-
----
-
-"―――Yeah. The people Caster harmed will get well and come back soon."
-
----
-
-I pull myself together.
-
-There are four Masters remaining.
-
-Two, if you don't count Tohsaka and Illya. I can't let my guard down until I know what kind of people they are.
-
----
-
-""Oh.""
-
-We speak out in unison.
-
-I bump into Tohsaka the instant I go out into the hallway.
-
----
-
-"Hey, what do you mean, 'oh'? Isn't that a rude thing to say? Or do you have a guilty conscience?"
-
----
-
-"Hey, the same goes for you, you were surprised too.
-
-...And what was up with the phone call last night? You were being selfish, telling me not to come and to come."
-
----
-
-"Well... Yesterday was an exception. You skipped school the day after the Master at Ryuudou Temple disappeared. Of course I thought something happened to you.
-
-...Um, I told you about the Ryuudou Temple, so it'd trouble me if something happened to you."
-
----
-
-"――――――――"
-
-...I'm surprised.
-
-Did Tohsaka feel responsible because she told me about it?
-
----
-
-"I see. Thanks, Tohsaka. You were worried about me, right?"
-
-"T-That's not true! I just want to know the details of what happened, since I gave you the information!"
-
----
-
-"Huh? But I told you over the phone yesterday, right? Both Caster and her Master are defeated. There's nothing at the Ryuudou Temple anymore."
-
-Huh?
-
-Tohsaka looks serious all of a sudden.
-
----
-
-"What's wrong, Tohsaka? Did I say something weird?"
-
-"―――Yes, you did. It's not that I don't trust you, but let me confirm. You're absolutely certain that you defeated Caster?"
-
----
-
-"...Humph. Even I could tell that.
-
-Saber completely eliminated Caster. ...Caster's Master is――――"
-
-...He was already dead when we got there.
-
----
-
-"...All right. There's something I want to talk about regarding that. Can you come to the rooftop?"
-
----
-
-## Scene 02
+## Scene 05 Shocking Mapo tofu
 
 
 
@@ -920,10 +1462,159 @@ As I leave the restaurant with a heartburn...
 
 ---
 
-## Scene 04
+## Scene 06 Re-contract
 
 
 
+Wind enters the damp room.
+
+From the opened door come two sets of footsteps.
+
+One kicks the ground in a hurry, and the other is being dragged in.
+
+---
+
+"――――Come on, get started."
+
+Thump.
+
+A heavy sound echoes through the room.
+
+It is the sound of Matou Shinji, the one who came to this room in a hurry, throwing in the person he brought with him.
+
+---
+
+The floor of the secret room is wriggling around.
+
+The worms must be active right now, as leech-like insects are writhing all over the floor.
+
+Matou Shinji knows what these worms are.
+
+These are lust worms that his grandfather, Matou Zouken, raises that love human blood, semen, and marrow.
+
+---
+
+Once swarmed by these lust worms, men will have their spine crushed, brain sucked, and will be made into a cripple.
+
+The worms will transform when attacking a woman, so that they are only able to violate her nerves. They will spread their tentacles all over her body and devour her spirit.
+
+---
+
+The lust worms will wet the woman's skin with their mucus, excite and destroy her central nerves of pleasure, and satisfy their hunger.
+
+It must be their instincts, as the worms seem to love the woman's womb. They do not eat female flesh, but seek the organs within them.
+
+---
+
+They give the woman huge enough orgasms to fry her brain, and they go into her body to devour her placenta.
+
+Unwilling to eat human flesh, the worms have only one way to get what they desire.
+
+As a result, the woman's mind and body are completely violated and destroyed.
+
+The name "lust worm" must come from such characteristics.
+
+---
+
+―――Matou Shinji throws the person he dragged here into the pool of such worms.
+
+---
+
+"Get started."
+
+He talks from the top of the stairs.
+
+Nobody, man or woman, can survive after being thrown into a swarm of lust worms.
+
+---
+
+But this person is an exception.
+
+The worms slither away from the person.
+
+Are they scared, or have they lost interest?
+
+The worms do not approach the figure.
+
+They merely reflect the light around the figure with their mucus.
+
+---
+
+"Make a 'book'. You still have two more left."
+
+The only reply comes from the worms.
+
+The darkness undulates as if liking the order.
+
+---
+
+"I'll let you go back if you do as I say. That's easier for you too, right?"
+
+There's no reply.
+
+The only sound in the room is the annoying cry of the worms.
+
+---
+
+"......! Look, fighting is the only way. If you oppose me any more――――"
+
+Matou Shinji threatens to reveal everything.
+
+The person on the floor trembles.
+
+That is not allowed.
+
+The old man who Matou Shinji calls master will not allow it.
+
+---
+
+But this person knows Shinji is not the type to follow his master's orders.
+
+He is frantic right now.
+
+Anyone that gets in his way is his enemy.
+
+The old man forced him away from battle out of concern for his life, but the concern itself is an unforgivable insult to him.
+
+---
+
+"―――――――――"
+
+A change occurs after a long silence.
+
+A figure appears in a flash of light.
+
+The worms flee to the corners of the room like an ebbing tide.
+
+Even the worms understand how powerful the materialized woman is.
+
+---
+
+"―――Heh. About time."
+
+Long hair and a slender, tall figure.
+
+The one clothed all in black is the Servant called Rider.
+
+---
+
+"――――Let me confirm again, Shinji.
+
+You are using me solely for your protection. Correct?"
+
+The black Servant asks.
+
+She is looking up from the bottom of hell, from the preserve of worms.
+
+---
+
+"―――Yeah. It's dangerous out there, so I want a reliable guard."
+
+Matou Shinji does not hide his joy of becoming a Master again and spits out words covered with lies.
+
+---
+
+## Scene 07 Afternoon Way home 
 "......"
 
 It's almost four o'clock when I get out of the restaurant.
@@ -940,41 +1631,7 @@ I don't feel like going straight home, so I decide to take a detour.
 
 ---
 
-## Scene 05
-
-
-
-Not enough love!
-
----
-
-Hi, everyone, long time no see. How are you doing?
-
-We're starting Tiger Dojo part III!
-
----
-
-Well. This dead end is caused by lack of love!
-
-You're forced to come to this dead end if this certain heroine's affection point is not past a certain value.
-
----
-
-If you came to this dead end, it means you were not kind enough!
-
----
-
-For example... this is only for argument's sake, but I don't know about leaving a sick girl alone to go walking about at night.
-
----
-
-It might be good to restart from day 6 with that in mind.
-
-Well, I'll be waiting for you in the next Tiger Dojo!
-
----
-
-## Scene 06
+## Scene 08 Assault of the small girl
 
 
 
@@ -1092,7 +1749,433 @@ I have to show her my sincerity, so――――
 
 ---
 
-## Scene 07
+## Scene 09 Cinema-Illya(III)
+
+
+
+As long as I've broken my promise with her, all my explanations will be excuses.
+
+I have to do something to earn her forgiveness, but I don't know what will please her.
+
+Then―――why don't I do anything she wishes, like a Servant under a Command Spell?
+
+---
+
+"Why are you silent? I won't be deceived by that face. I'm not going to apologize if you're not either. If you don't like me, then I'll――――"
+
+---
+
+"―――I've decided. A Servant. I'll be your Servant just this once in compensation for breaking my promise."
+
+"...Turn you into a doll... Wait, a Servant!?"
+
+---
+
+"Yeah. There's nothing I can do that will keep my promise, right? So I'll obey you just once. Wouldn't that make you feel a bit better?"
+
+---
+
+"――――――――――――――――――――
+
+―――No, you're lying! You didn't come to the park. A verbal promise ends right away, so I won't trust your words."
+
+---
+
+"I know. That's why I'm going to obey you, like you used a Command Spell. You'll only be able to use it once, but I won't break my promise with you, no matter what. Will you trust me if that's the case?"
+
+---
+
+"T-Trust you...? But I don't have a Command Spell I can use against you..."
+
+---
+
+"No, but I'll keep my promise. There's no contract or Command Spell, but I'll treat it like an order from a Command Spell.
+
+We're both Masters. I swear on my Crest that I won't betray something I recognize as a Command Spell."
+
+---
+
+I swear while looking Illya in the eyes.
+
+The silver-haired girl gasps and...
+
+"...Will you really do anything I say?"
+
+...Stares back at me uneasily.
+
+---
+
+"Of course. It's a Command Spell we're talking about. I'll do anything, as long as it's possible for me to do."
+
+I reply to her wary gaze with a big smile.
+
+---
+
+"......"
+
+A long silence.
+
+Illya averts her eyes and clenches her fists.
+
+---
+
+"......Okay. Then, I want......"
+
+"Huh...?"
+
+Did I mishear her?
+
+It's a Command Spell we're talking about here, but her wish is a small one.
+
+---
+
+"Illya...? Hold on, it's a Command Spell. I'm going to do anything you say. Are you sure that's all you want?"
+
+---
+
+"......"
+
+"Don't you have anything else? That's too easy. You don't have to hold back, so give me a better――――"
+
+"I-I'm not holding back! You liar! You said you'd do anything!"
+
+---
+
+"Uh, but... is that really all you want!? Because such a trifling matter..."
+
+...It's something I'd easily be able to do, even without a Command Spell forcing me.
+
+---
+
+"...It's not trivial. I've always wanted to do something like that. So that's what I want from you right now, Shirou."
+
+Her face is all red, and she's trembling out of fear of getting rejected.
+
+---
+
+"――――――Illya."
+
+There's no way I can question her now.
+
+No matter how trivial it may be, it's her wish.
+
+Then―――I have to protect her as her knight.
+
+---
+
+"All right. I'm sorry for saying such a stupid thing.
+
+―――Let's go, Illya. It's a small shopping district, but it should be fun with the two of us."
+
+---
+
+I can feel my face heating up as I say the embarrassing words.
+
+My face is turning red.
+
+But I hold my hand out to Illya without trying to hide it.
+
+---
+
+Illya's wish really is trivial.
+
+'Take me shopping.'
+
+It's not a big wish.
+
+She asked for an everyday event.
+
+---
+
+...I don't know how much meaning her wish held for her.
+
+We walk through the shopping district not like Masters, but like siblings.
+
+Illya runs through the familiar scenery with lit up eyes.
+
+---
+
+Seeing her high spirits lifts my own.
+
+Illya walks on with a carefree smile.
+
+Her merry attitude makes me wish this time would last forever.
+
+---
+
+―――But I finally realize.
+
+She runs as if dancing, never ceasing her smile.
+
+But there's no happiness there.
+
+She's smiling desperately because she's sad―――and because she doesn't want this dream to end.
+
+---
+
+"Come over here, Shirou! The coffee's gonna get cold!"
+
+A hot can must be interesting for her, as she runs to the park with both our drinks in hand.
+
+---
+
+The end comes, no matter how much I wish for this not to end and no matter how much I bite my lips for her to not push herself.
+
+The shopping district here is small.
+
+No matter how slowly we take it, we can work our way through the whole place in about an hour.
+
+---
+
+"We're here! We're at the final station.
+
+You can rest now, Shirou. Thanks for all the work until now."
+
+---
+
+Illya turns to me.
+
+I sit down on the bench, thinking that she must want to rest here.
+
+---
+
+...But.
+
+Even though she suggested it, Illya does not sit down.
+
+---
+
+"Illya? Aren't you sitting down?"
+
+"Here's your drink, Shirou. You get coffee, and I get sweet red-bean soup."
+
+---
+
+Illya takes my drink from her pocket and hands it to me.
+
+...The only item she asked me to buy her was her drink.
+
+---
+
+"But how did you know about sweet red-bean soup? They don't have it back home, right?"
+
+"Right. It's the first time I've ever seen it. I was told I shouldn't be able to drink it because it's too sweet."
+
+---
+
+Illya takes a step, smiling.
+
+She twirls to the middle of the park.
+
+---
+
+"Illya...?"
+
+"I'll lift the Command Spell here. It was only a short while, but thanks, Shirou."
+
+Her voice is clear.
+
+Smiling resolutely, Illya announces that her dream has come to an end.
+
+---
+
+"Wha――――'thanks'? Why? It hasn't even been an hour yet. We can go to Shinto if you're bored with the shopping district. That place is far better than..."
+
+---
+
+"It's fine. This is the last stop, after all. It was fun, but the shopping ends here. The sun's going to set soon, so let's go back to our previous relationship.
+
+I'm a Master who came to kill Shirou, and you're fighting me for your own good. Our relationship was set in stone before we met."
+
+---
+
+How can I respond to that?
+
+Illya yearns for ordinary life more than me, but she casts away her wishes far more readily.
+
+---
+
+"―――I see. Then when we leave this park..."
+
+"Yes, we'll be enemies. If we meet again during nighttime, we'll have to continue the fight.
+
+If you don't want me to kill you, you'll have to kill me first."
+
+---
+
+I stop my breath for a second and look up at the sky.
+
+―――The sky is gray.
+
+The happy time quickly ended, and the town is covered with a heavy canopy.
+
+Even though I wished for this time to last forever, I knew it was going to end like this when I realized this is only a painful experience for Illya.
+
+---
+
+The girl said this the farthest end.
+
+The final station.
+
+Illya keeps smiling innocently in this place without destination or backtrack.
+
+---
+
+"―――Wow! It's snowing, Shirou!"
+
+Her lively voice catches my attention.
+
+A distant scenery is in front of me when I look back at the park.
+
+---
+
+I doubt for a second, thinking it's an illusion.
+
+It's not because of the snow, but because of the dancing girl.
+
+---
+
+"――――――――"
+
+The snow must be temporary.
+
+It looks like it'll stop soon.
+
+---
+
+...Within the indistinct winter, Illya is completely surrounded in white snow.
+
+The silver-haired girl is playing in the temporary snow as if loved by winter.
+
+---
+
+"Aha, the snow in this town is warm. This is the first time I've seen normal snow."
+
+I don't know what's so fun, but Illya keeps twirling around.
+
+---
+
+"You're energetic. Do you like snow, Illya?"
+
+"Yeah. I don't like cold things, but I like the snow. It's kind and like my mom. I was praised that my hair is white and feminine."
+
+---
+
+She makes a big smile.
+
+By watching her, I can tell who praised her.
+
+---
+
+"It's beautiful. So it snows in the land Kiritsugu used to live in, huh?"
+
+---
+
+Her smile isn't directed at me.
+
+...Illyasviel von Einzbern.
+
+The white girl that came to kill my father.
+
+Why she was after Kiritsugu, why she wants to kill me...
+
+...These things I already know.
+
+---
+
+The man that betrayed Einzbern.
+
+Kiritsugu abandoned everything and started living in this town.
+
+I, an unrelated child, pursued him as his son.
+
+―――I didn't learn about all the sacrifices that made this life possible until I became a Master.
+
+---
+
+The snow keeps falling as if to hide Illya.
+
+The girl from a distant foreign country says goodbye with a smile.
+
+---
+
+"Good-bye, Shirou. I'll play with you again if I ever see you walking around alone!"
+
+---
+
+The white girl leaves the park with an innocent smile.
+
+---
+
+As though her presence was what sustained it, the snowfall slackens and dies.
+
+A temporary illusion.
+
+I brush off the snow crystals that never had a chance to pile up and leave the station of the farthest end.
+
+---
+
+## Scene 10 Mistake
+
+
+
+It can't be helped if I forgot about it. I'll have her forgive me.
+
+---
+
+"I'm sorry. I met somebody who I didn't expect, and I forgot all about our promise. I'll be more careful next time, so please forgive me."
+
+I bow my head in apology.
+
+---
+
+"...I see. You try to cover for yourself with simple words? I thought you were different from Kiritsugu, but you're the same after all."
+
+"Eh――――Illya?"
+
+---
+
+"No, that makes it even more fun for me. I'll turn you into my toy, just as I planned."
+
+"...!?"
+
+---
+
+I feel a chill.
+
+Illya's eyes emit murderous intent, just like the night we met for the first time.
+
+---
+
+"See you again, Onii-chan. I'll let you go today, but you'll have to be careful the next time we meet."
+
+Without waiting for a response, she turns and dashes off.
+
+"Hey, Illya...!"
+
+---
+
+I run after her, but I lose sight of her.
+
+---
+
+"...I guess I angered her."
+
+...I failed.
+
+I should've put more thought into it before I apologized to her.
+
+---
+
+"Man. Either way, I have to come up with a plan before I see her again."
+
+I don't want to be on bad terms with Illya.
+
+I'll come up with some way to make it up to her――――
+
+---
+
+## Scene 11 Homesick-Illya(III)
 
 
 
@@ -1560,436 +2643,182 @@ I won't let an event like the one that took place ten years ago take place again
 
 That's why I decided to become a Master and fight alongside Saber.
 
----
-
-## Scene 08
-
+--- 
+## Scene 12 Temptation(Afternoon)
 
 
-As long as I've broken my promise with her, all my explanations will be excuses.
 
-I have to do something to earn her forgiveness, but I don't know what will please her.
+"Huh?"
 
-Then―――why don't I do anything she wishes, like a Servant under a Command Spell?
+I see Sakura's shoes.
 
----
-
-"Why are you silent? I won't be deceived by that face. I'm not going to apologize if you're not either. If you don't like me, then I'll――――"
+Considering the time, I bet Sakura's already back from her club.
 
 ---
 
-"―――I've decided. A Servant. I'll be your Servant just this once in compensation for breaking my promise."
+"I'm home... Oh. You're asleep, Sakura?"
 
-"...Turn you into a doll... Wait, a Servant!?"
+Her club practice must have been tiring, as Sakura is sleeping in the living room.
 
----
-
-"Yeah. There's nothing I can do that will keep my promise, right? So I'll obey you just once. Wouldn't that make you feel a bit better?"
+She must be exhausted, as she is lying on the floor rather than having her head on the table.
 
 ---
 
-"――――――――――――――――――――
+"...Yeah. She was sick, but she went to school and her club, and helped around with my house on top of that. You're working way too hard, Sakura."
 
-―――No, you're lying! You didn't come to the park. A verbal promise ends right away, so I won't trust your words."
+I go past the living room, trying not to wake her up.
 
----
+And...
 
-"I know. That's why I'm going to obey you, like you used a Command Spell. You'll only be able to use it once, but I won't break my promise with you, no matter what. Will you trust me if that's the case?"
-
----
-
-"T-Trust you...? But I don't have a Command Spell I can use against you..."
+I bring a blanket from my room.
 
 ---
 
-"No, but I'll keep my promise. There's no contract or Command Spell, but I'll treat it like an order from a Command Spell.
+"Here. You'll catch cold again if you sleep without a blanket."
 
-We're both Masters. I swear on my Crest that I won't betray something I recognize as a Command Spell."
+I carefully drape the blanket over her.
 
----
-
-I swear while looking Illya in the eyes.
-
-The silver-haired girl gasps and...
-
-"...Will you really do anything I say?"
-
-...Stares back at me uneasily.
+――――Then.
 
 ---
 
-"Of course. It's a Command Spell we're talking about. I'll do anything, as long as it's possible for me to do."
+"Hm... Sen... pai..."
 
-I reply to her wary gaze with a big smile.
-
----
-
-"......"
-
-A long silence.
-
-Illya averts her eyes and clenches her fists.
+She must be half asleep, as Sakura looks up at me with empty eyes.
 
 ---
 
-"......Okay. Then, I want......"
+"――――!"
 
-"Huh...?"
+Her gesture... is different.
 
-Did I mishear her?
-
-It's a Command Spell we're talking about here, but her wish is a small one.
+It's not the Sakura I know who stands and smiles in the kitchen wearing an apron. Um―――her gesture is more erotic than I've ever seen on her.
 
 ---
 
-"Illya...? Hold on, it's a Command Spell. I'm going to do anything you say. Are you sure that's all you want?"
+"I-I brought a blanket, Sakura――――――"
 
----
+Nervously, I try to explain myself.
 
-"......"
+At that instant――――
 
-"Don't you have anything else? That's too easy. You don't have to hold back, so give me a better――――"
-
-"I-I'm not holding back! You liar! You said you'd do anything!"
-
----
-
-"Uh, but... is that really all you want!? Because such a trifling matter..."
-
-...It's something I'd easily be able to do, even without a Command Spell forcing me.
-
----
-
-"...It's not trivial. I've always wanted to do something like that. So that's what I want from you right now, Shirou."
-
-Her face is all red, and she's trembling out of fear of getting rejected.
-
----
-
-"――――――Illya."
-
-There's no way I can question her now.
-
-No matter how trivial it may be, it's her wish.
-
-Then―――I have to protect her as her knight.
-
----
-
-"All right. I'm sorry for saying such a stupid thing.
-
-―――Let's go, Illya. It's a small shopping district, but it should be fun with the two of us."
-
----
-
-I can feel my face heating up as I say the embarrassing words.
-
-My face is turning red.
-
-But I hold my hand out to Illya without trying to hide it.
-
----
-
-Illya's wish really is trivial.
-
-'Take me shopping.'
-
-It's not a big wish.
-
-She asked for an everyday event.
-
----
-
-...I don't know how much meaning her wish held for her.
-
-We walk through the shopping district not like Masters, but like siblings.
-
-Illya runs through the familiar scenery with lit up eyes.
-
----
-
-Seeing her high spirits lifts my own.
-
-Illya walks on with a carefree smile.
-
-Her merry attitude makes me wish this time would last forever.
-
----
-
-―――But I finally realize.
-
-She runs as if dancing, never ceasing her smile.
-
-But there's no happiness there.
-
-She's smiling desperately because she's sad―――and because she doesn't want this dream to end.
-
----
-
-"Come over here, Shirou! The coffee's gonna get cold!"
-
-A hot can must be interesting for her, as she runs to the park with both our drinks in hand.
-
----
-
-The end comes, no matter how much I wish for this not to end and no matter how much I bite my lips for her to not push herself.
-
-The shopping district here is small.
-
-No matter how slowly we take it, we can work our way through the whole place in about an hour.
-
----
-
-"We're here! We're at the final station.
-
-You can rest now, Shirou. Thanks for all the work until now."
-
----
-
-Illya turns to me.
-
-I sit down on the bench, thinking that she must want to rest here.
-
----
-
-...But.
-
-Even though she suggested it, Illya does not sit down.
-
----
-
-"Illya? Aren't you sitting down?"
-
-"Here's your drink, Shirou. You get coffee, and I get sweet red-bean soup."
-
----
-
-Illya takes my drink from her pocket and hands it to me.
-
-...The only item she asked me to buy her was her drink.
-
----
-
-"But how did you know about sweet red-bean soup? They don't have it back home, right?"
-
-"Right. It's the first time I've ever seen it. I was told I shouldn't be able to drink it because it's too sweet."
-
----
-
-Illya takes a step, smiling.
-
-She twirls to the middle of the park.
-
----
-
-"Illya...?"
-
-"I'll lift the Command Spell here. It was only a short while, but thanks, Shirou."
-
-Her voice is clear.
-
-Smiling resolutely, Illya announces that her dream has come to an end.
-
----
-
-"Wha――――'thanks'? Why? It hasn't even been an hour yet. We can go to Shinto if you're bored with the shopping district. That place is far better than..."
-
----
-
-"It's fine. This is the last stop, after all. It was fun, but the shopping ends here. The sun's going to set soon, so let's go back to our previous relationship.
-
-I'm a Master who came to kill Shirou, and you're fighting me for your own good. Our relationship was set in stone before we met."
-
----
-
-How can I respond to that?
-
-Illya yearns for ordinary life more than me, but she casts away her wishes far more readily.
-
----
-
-"―――I see. Then when we leave this park..."
-
-"Yes, we'll be enemies. If we meet again during nighttime, we'll have to continue the fight.
-
-If you don't want me to kill you, you'll have to kill me first."
-
----
-
-I stop my breath for a second and look up at the sky.
-
-―――The sky is gray.
-
-The happy time quickly ended, and the town is covered with a heavy canopy.
-
-Even though I wished for this time to last forever, I knew it was going to end like this when I realized this is only a painful experience for Illya.
-
----
-
-The girl said this the farthest end.
-
-The final station.
-
-Illya keeps smiling innocently in this place without destination or backtrack.
-
----
-
-"―――Wow! It's snowing, Shirou!"
-
-Her lively voice catches my attention.
-
-A distant scenery is in front of me when I look back at the park.
-
----
-
-I doubt for a second, thinking it's an illusion.
-
-It's not because of the snow, but because of the dancing girl.
+Sakura's arms wrap around my neck.
 
 ---
 
 "――――――――"
 
-The snow must be temporary.
+Her breath is near me.
 
-It looks like it'll stop soon.
-
----
-
-...Within the indistinct winter, Illya is completely surrounded in white snow.
-
-The silver-haired girl is playing in the temporary snow as if loved by winter.
+I'm intensely aware of her femininity, no matter how hard I try to ignore it.
 
 ---
 
-"Aha, the snow in this town is warm. This is the first time I've seen normal snow."
+"Hey――――Sakura――――"
 
-I don't know what's so fun, but Illya keeps twirling around.
+I can't breathe or talk properly.
 
----
+Sakura is half-asleep.
 
-"You're energetic. Do you like snow, Illya?"
+The biggest proof is her drowsy-looking eyes.
 
-"Yeah. I don't like cold things, but I like the snow. It's kind and like my mom. I was praised that my hair is white and feminine."
-
----
-
-She makes a big smile.
-
-By watching her, I can tell who praised her.
+So I have to shake her off me. I have to get away from her, but――――
 
 ---
 
-"It's beautiful. So it snows in the land Kiritsugu used to live in, huh?"
+"Ah――――uh."
+
+I can't take my eyes off of her.
 
 ---
 
-Her smile isn't directed at me.
+...Her hair streams down her neck.
 
-...Illyasviel von Einzbern.
+Her lips let out a seductive sigh, and her breasts are pushing up her shirt.
 
-The white girl that came to kill my father.
-
-Why she was after Kiritsugu, why she wants to kill me...
-
-...These things I already know.
+Having her mature woman's body so close is making me dizzy.
 
 ---
 
-The man that betrayed Einzbern.
+"――――Sen... pai..."
 
-Kiritsugu abandoned everything and started living in this town.
+...Her hair streams down her neck.
 
-I, an unrelated child, pursued him as his son.
+Her hands tense up a bit.
 
-―――I didn't learn about all the sacrifices that made this life possible until I became a Master.
+...Our faces near each other.
 
----
-
-The snow keeps falling as if to hide Illya.
-
-The girl from a distant foreign country says goodbye with a smile.
+I'm lured by her captivating lips, and I can't resist her.
 
 ---
 
-"Good-bye, Shirou. I'll play with you again if I ever see you walking around alone!"
+"――――――――"
+
+My reasoning is frozen.
+
+Everything I've prohibited, everything I shouldn't have noticed... such boring senses are being destroyed.
 
 ---
 
-The white girl leaves the park with an innocent smile.
+"――――Sa... kura..."
+
+My heart is pounding.
+
+The sound of the pounding heart fills my eardrums, my head empties out, and――――
 
 ---
 
-As though her presence was what sustained it, the snowfall slackens and dies.
+"Are you home, Shirou?"
 
-A temporary illusion.
-
-I brush off the snow crystals that never had a chance to pile up and leave the station of the farthest end.
+"UWAAAAAAAAAAAA!!"
 
 ---
 
-## Scene 09
+I jump back.
 
-
-
-It can't be helped if I forgot about it. I'll have her forgive me.
+I display speed and quick wittedness I've never shown before and land on top of the table...!
 
 ---
 
-"I'm sorry. I met somebody who I didn't expect, and I forgot all about our promise. I'll be more careful next time, so please forgive me."
+"That was a wonderful movement. But I do not know about landing on the table."
 
-I bow my head in apology.
+"――――――You're right. I was a bit surprised."
 
----
+I slowly step down to the floor.
 
-"...I see. You try to cover for yourself with simple words? I thought you were different from Kiritsugu, but you're the same after all."
-
-"Eh――――Illya?"
+Sakura is――――
 
 ---
 
-"No, that makes it even more fun for me. I'll turn you into my toy, just as I planned."
+"Hm... Hmm..."
 
-"...!?"
-
----
-
-I feel a chill.
-
-Illya's eyes emit murderous intent, just like the night we met for the first time.
+Her hands are lowered, and she's sleeping again.
 
 ---
 
-"See you again, Onii-chan. I'll let you go today, but you'll have to be careful the next time we meet."
+"Shirou? Your face is red. Did something happen? Your eyes are wandering. Are you worried about something?"
 
-Without waiting for a response, she turns and dashes off.
-
-"Hey, Illya...!"
+"I-It's nothing! Let's just go to the dojo. Sakura needs sleep, and I want to train with you until dinner."
 
 ---
 
-I run after her, but I lose sight of her.
+"That is an excellent attitude to take, Shirou. I am well rested and in perfect condition. Let us prepare for tonight's battle."
+
+Saber heads to the dojo without questioning my suspicious behavior.
 
 ---
 
-"...I guess I angered her."
+"――――Phew."
 
-...I failed.
+I-I'm saved.
 
-I should've put more thought into it before I apologized to her.
+I'm glad Saber didn't see us like that, but I'm more glad that I didn't do anything on the spur of the moment.
 
----
-
-"Man. Either way, I have to come up with a plan before I see her again."
-
-I don't want to be on bad terms with Illya.
-
-I'll come up with some way to make it up to her――――
+If I'd done anything to Sakura while she was half-asleep, I would kill myself in shame.
 
 ---
 
-## Scene 10
-
+## Scene 13 Temptation
 
 
 "Huh?"
@@ -2160,7 +2989,283 @@ I'm glad Saber didn't see us like that, but I'm more glad that I didn't do anyth
 
 ---
 
-## Scene 11
+## Scene 14 Treat Sakura
+
+
+
+"It's good that you're training, but you have to keep it moderate, Senpai! Jamming a finger is bad enough, but you've almost broken this one."
+
+"Ouch...! Please put the bandage on slower, Sakura."
+
+---
+
+"Of course it hurts. It's natural to swell up if you leave such an injury alone. Please give up and consider this a divine punishment."
+
+---
+
+"......!"
+
+Sakura tapes up my middle finger.
+
+Her movements are quick and accurate. She must get lots of practice treating jammed fingers in archery club.
+
+She's skillful, but isn't this a bit rough for Sakura?
+
+---
+
+"And you too, Saber-san.
+
+Couldn't you have gone easier if you're stronger than Senpai? Senpai's body is swollen all over. He won't even be able to take a bath tonight."
+
+---
+
+"Sakura. I do not mean to contradict you, but that is what Shirou wished for.
+
+I merely responded to his request.
+
+And Shirou is partly responsible for tonight's injury. He was the one who wished to train, but he was not concentrating at all."
+
+---
+
+Saber glares at me in complaint.
+
+"Ugh――――"
+
+There's not much I can say when she puts it like that.
+
+---
+
+"Eh...? Did you feel sick or something, Senpai?
+
+...Um, it's not like you to go to the dojo with unclear motivation."
+
+---
+
+"Indeed. What was distracting you, Shirou? You were staring into empty space even when you were holding the shinai, and I felt no spirit in your attacks."
+
+---
+
+"...Well. That's, um..."
+
+The cause is standing right here in front of me, but there's no way I can say that. Just thinking about it makes my heart jump――――
+
+---
+
+"Senpai?
+
+Does it still hurt somewhere...?"
+
+Sakura looks at me with worry.
+
+---
+
+"......! N-No, I'm fine now! I just ate too much, so it'll help me out if you can make me some tea!"
+
+I quickly move my face away from Sakura.
+
+---
+
+"Okay. Then I'll go brew some after-meal tea."
+
+Sakura stands up to go to the kitchen.
+
+---
+
+"......Man."
+
+...This is really bad for my heart.
+
+Her body is engraved in my mind, and I get conscious of her whenever she comes near me.
+
+---
+
+"Are you fine with tea, Saber-san?"
+
+"Yes. Please do not make it too hot."
+
+Sakura promptly brews some tea.
+
+...Her gestures are supposed to be familiar, but I feel like I'm seeing them for the first time.
+
+---
+
+"...!"
+
+Damn, why do I keep remembering it?
+
+There's something wrong with me, just like Saber said.
+
+Just looking at Sakura reminds me of how she looked earlier... and her soft lips....
+
+---
+
+...This is just lust.
+
+Sakura is an important underclassman and a family member to me.
+
+So―――why am I now conscious of her like this?
+
+---
+
+"――――――――"
+
+......Damn it.
+
+I know. I really do.
+
+Sakura is beautiful. I've been aware of it for quite a while now.
+
+But in spite of that, I acted as her Senpai.
+
+---
+
+I like Sakura.
+
+...Having her around became normal for me before I knew it, and I've found it to be a great comfort.
+
+---
+
+But it's always been a different sort of affection.
+
+I've never wanted to embrace Sakura.
+
+I knew she was a girl, but I never viewed her as someone of the opposite sex.
+
+---
+
+But now...
+
+I'm beginning to think it's not that I never viewed her as a girl...
+
+...But that I was trying not to view her as a girl.
+
+---
+
+"Senpai?"
+
+---
+
+"Here's some tea, Senpai."
+
+"Oh――――yeah, thanks, Sakura."
+
+"You're welcome. Thank you for dinner too, Senpai."
+
+---
+
+Sakura smiles happily.
+
+...Seeing her smile makes me happy as well.
+
+It seems she really liked the pork meatloaf with egg and vegetables.
+
+---
+
+Sakura hands the tea to Saber as well and sits down.
+
+Saber must enjoy tea, as she receives it with satisfaction.
+
+---
+
+"Itadakimasu. ...But where is Taiga? I have not seen her around for a while."
+
+"Huh? Oh, she just called and said she can't make it tonight. I didn't get the details, but she said she has to go visit the hospitals or something."
+
+---
+
+"I see. I wanted to ask her some questions, since she is more knowledgeable about your habits.
+
+...I guess it cannot be helped. I shall wait until next time to strengthen you."
+
+---
+
+"―――Hm. Are you saying yesterday's and today's trainings were just the beginning?"
+
+---
+
+"Of course. The trainings up to now were to teach your body what you are able to do.
+
+From now on, we will train you to survive using your special characteristics."
+
+"――――I see. That sounds hard."
+
+---
+
+"'Intense' would be the word to describe it. Consider your training up to today to be a mere warmup."
+
+---
+
+"Whoa."
+
+A-Are you serious?
+
+I don't know if I should be thankful or not that Fuji-Nee isn't coming tonight.
+
+---
+
+"What was that sigh? This is for your own good――――Sakura?"
+
+Saber looks at Sakura.
+
+---
+
+"Huh?"
+
+I follow her gaze.
+
+Hey――――
+
+"――――――――"
+
+Sakura's breathing painfully.
+
+---
+
+"Sakura...!"
+
+I run to her and shake her shoulders.
+
+---
+
+"Eh... eh, what's wrong, S-Senpai...!?"
+
+"It's not 'what's wrong'! You were pushing yourself again――――"
+
+---
+
+...No, she's not.
+
+She looks healthy, her shoulders aren't hot, and she's just looking up at me in wonder.
+
+---
+
+"Huh―――? Um, you looked like you were in pain."
+
+"Oh, you're wrong. I just fell asleep."
+
+Sakura smiles in embarrassment.
+
+---
+
+"...Don't scare me like that. I thought your cold got worse again."
+
+---
+
+"I'm sorry. I've been sleepy all day, and I fall asleep if I let my guard down."
+
+"I see. Well, you were sleeping this afternoon too. You can go rest if you're tired. I'll clean up."
+
+---
+
+"Oh... O-Okay, you're right. I'll accept your offer and go rest now."
+
+Sakura bows and exits the living room.
+
+She's walking steadily, so I guess she's just short on sleep, like she said.
+
+---
+
+## Scene 15 War balance randomizer
 
 
 
@@ -2668,7 +3773,7 @@ Rabbit's corpse. One eye missing. Rotten, soft, and fresh. Forced into my mouth.
 
 ---
 
-## Scene 12
+## Scene 16 Dead End: Ocean depths
 
 
 
@@ -2704,7 +3809,47 @@ My body turns black, and I become a part of it and fall downward to my final des
 
 ---
 
-## Scene 13
+
+## Scene 17 Tiger Dojo 25
+
+
+
+Not enough love!
+
+---
+
+Hi, everyone, long time no see. How are you doing?
+
+We're starting Tiger Dojo part III!
+
+---
+
+Well. This dead end is caused by lack of love!
+
+You're forced to come to this dead end if this certain heroine's affection point is not past a certain value.
+
+---
+
+If you came to this dead end, it means you were not kind enough!
+
+---
+
+For example... this is only for argument's sake, but I don't know about leaving a sick girl alone to go walking about at night.
+
+---
+
+It might be good to restart from day 6 with that in mind.
+
+Well, I'll be waiting for you in the next Tiger Dojo!
+
+---
+
+
+
+
+
+
+## Scene 18 Gap between the two
 
 
 
@@ -2940,1151 +4085,7 @@ The scene keeps squirming like insects until the very end.
 
 ---
 
-## Scene 15
-
-
-
-When I wake up, my body has fully recovered.
-
-My temperature is normal, and my limbs don't feel heavy at all.
-
----
-
-"――――It's before six o'clock. I wonder if Sakura's awake?"
-
-If she is, she'll probably be preparing breakfast.
-
-I'd better get ready quickly and head to the kitchen, or Sakura will finish it herself.
-
----
-
-"I'm going ahead, Saber. Come to the living room in a bit."
-
-I don't have the guts to look inside her room, so I retreat after calling out to her.
-
-It'll be troublesome if I see Saber sleeping.
-
----
-
-"And my dad collapsed.
-
-He was like, 'your father is sick in bed, so don't you think you should settle down?'
-
-Isn't that rude? He makes it sound like I'm a wandering cloud."
-
----
-
-Fuji-Nee complains while eating.
-
-It seems Fuji-Nee didn't come over last night because her father collapsed.
-
----
-
-"...? Senpai, what is this wandering cloud?"
-
-"It's describing Fuji-Nee. It's an airy person without a definite character."
-
-I answer without hesitation.
-
----
-
-"You're wrong! A wandering cloud is an idler!
-
-It's what you call a person who does nothing but go around town to mock people."
-
----
-
-Sakura and Saber nod in comprehension.
-
-I do not even need to mention which part they agree on.
-
----
-
-"So, Sensei. Is your father sick?"
-
-"Of course not. My family is famous for not getting sick. My dad sumo wrestled with one of the younger guys and hurt his hips."
-
-"Sumo...? What is this 'sumo', Taiga?"
-
----
-
-"Huh? It's kinda hard to explain in words. It's a type of martial art where you push, push instead of pull, push and push. You can't use weapons, and you can't use a fist. You also can't kick.
-
-You basically grapple with your opponent and win by knocking your opponent down to the ground."
-
----
-
-"...Hm. So is it a pure contest of power?"
-
-"Yup. And you don't wear any clothes. You and your opponent grapple pretty much naked."
-
----
-
-"N-Naked...!?"
-
-"Yup. Well, your weak point is covered by a mawashi. Oh, that's a sumo wrestler's loincloth, by the way. If you don't understand, ask Shirou about it. He knows more than I do."
-
-Fuji-Nee says something absurd as she sips on her miso soup.
-
----
-
-"I see. So, Shirou. What is this loincloth?"
-
-"――――――――"
-
-It's easy to explain, but I'm a bit hesitant to talk about it.
-
-I'm talking to Saber, and we're eating right now.
-
-Why do I have to talk about loincloths during a meal?
-
----
-
-"...I don't know. Sumo is out of my area of expertise, so ask someone else."
-
-"You're lying! You have a loincloth too!"
-
----
-
-"I-I don't! I had to do sumo because your grandfather made me, and I only borrowed one then!
-
-First of all, that happened years ago!"
-
----
-
-"Ahahaha, you're right. You kept losing because you were small back then. My gramps told you to do a different sport because you wouldn't give up until you won, so he made you start archery."
-
----
-
-"......"
-
-Fuji-Nee is laughing cheerfully.
-
-...Man.
-
-Fuji-Nee is in high spirits this morning, so she's louder than usual.
-
----
-
-"Hey, Fuji-Nee. It's almost time. You'll be late unless you leave here before seven o'clock."
-
-"Huh? Oh, it's fine today. Morning club activities are cancelled starting today. ...Well, I still have to leave early because there's a teachers' meeting."
-
----
-
-"Huh? The morning practice for the archery club is cancelled as well?"
-
-"Yup. Oh, I see. You didn't hear about it, huh? There was an incident yesterday, and some people in the track team got injured during practice. but they got injured during practice. I guess it's because of lack of sleep, so morning practices will be cancelled for a while."
-
----
-
-"...I see. But they cancelled all the practices because of one injured person?
-
-Lack of sleep is that person's―――"
-
-It's their own fault, unless...
-
----
-
-"Fuji-Nee. How many people were injured?"
-
-"...Hmm. It's between ten and twenty students."
-
----
-
-"T-That many?
-
-What about the people in the archery club?"
-
----
-
-"Well, nobody in our club got hurt, but a few people looked tired yesterday.
-
-...And it's been dangerous recently, right? We can't just ignore the mental strain it might be causing, so I guess the school's trying to decrease the burden. I don't know about the clubs being a mental burden, but it's true that they physically tire you."
-
-Fuji-Nee shrugs and holds out her bowl.
-
----
-
-"Can I have another bowl, Sakura-chan? I just want it half-full."
-
-"Of course. You're not eating a lot this morning, Sensei."
-
-"Yeah. My stomach is hurting because I know there's a lot of work waiting for me at school, so I don't have any appetite."
-
----
-
-Fuji-Nee pretends to cry.
-
-Hmm.
-
-It seems the tiger at my house wants us to believe that two and a half bowls of rice isn't her normal serving.
-
----
-
-"You're full of energy in contrast, Sakura-chan. You're on your second full bowl."
-
-"I'm still growing. I get hungry quickly, so I have to push myself and eat extra."
-
----
-
-Sakura puffs up with pride.
-
-...Well.
-
-I don't know about that being part of the growing thing... But maybe all the gluttons around her are influencing her.
-
----
-
-"I see. Sakura does not have sufficient strength as an archer. It is good to take in extra energy."
-
-Saber nods as she keeps eating.
-
-...Is it just me, or is she missing the original topic?
-
----
-
-## Scene 16
-
-
-
-It's past seven o'clock.
-
-Fuji-Nee left for school, and we're cleaning now.
-
-Sakura has time as well, so we relax and do the dishes.
-
----
-
-With the two of us, it doesn't take long.
-
-...I was keeping an eye on Sakura because of her health, but she really seems okay now.
-
-It looks like her fever's gone, and she's full of energy.
-
----
-
-"U-Um, Senpai...!
-
-I-I have something to tell you, so could you spare me some time!?"
-
----
-
-Then.
-
-Sakura stammers a question, looking as nervous as if she were breaking into somebody's house.
-
----
-
-"Sure. We still have time."
-
-"O-Okay. ...U-Um, well. I made, um, some lunch for you..."
-
-She looks down as she hands me a lunchbox.
-
----
-
-It's not my usual lunchbox, and it seems Sakura prepared it for me.
-
-It has a cute shape, and it's wrapped in vivid colors.
-
-The taste is guaranteed if Sakura made it, and I appreciate the fact that someone made lunch for me.
-
----
-
-"Uh, thanks. ...Wait, did you wake up early to make me lunch?"
-
-Sakura was done with cooking breakfast when I came to the living room this morning.
-
-I admired how early she got up, but it seems she actually woke up earlier than I thought.
-
----
-
-"Oh, yes. Um, I woke up early, and I didn't have anything to do, so I thought I'd make lunch. ...Um, and I want to ask you about something――――"
-
-"...? Why are you all formal? Do you need to consult me about something important?"
-
----
-
-"N-No, it's nothing big...!
-
-It's not, but...... umm... oh, yes! S-Senpai, you don't make lunch that often. You like cooking, so I'm wondering why!"
-
-"...Sakura. It's not like I like to cook."
-
----
-
-I don't know about a guy's hobby being cooking, so I wish she'd keep it as something I can do.
-
-Oh, wait. We're talking about why I don't make my own lunch.
-
----
-
-"Well. I know it's cheaper to make my own lunch. But the guys in my class crowd around it if I do make it. Half my lunch is taken away before I know it."
-
----
-
-Sakura nods in satisfaction.
-
-...To be accurate, it's the girls that take most of my lunch, but I don't say it because it's too pathetic.
-
----
-
-"Yeah, so I only make lunch when I can use the student council room. Then, I can eat alone with Issei."
-
----
-
-"...U-Um, Senpai? How about eating at the archery range in that case?
-
-It's open during lunchtime, I can make you some tea, and it's quiet there――――"
-
----
-
-...?
-
-Oh, that's a good idea.
-
-The archery range isn't locked, and the club members rarely go there during lunchtime.
-
-Mitsuzuri might be there, but she's not so cruel as to eat someone else's lunch.
-
----
-
-"...Yeah, you're right. That's a good idea."
-
-"Y-Yes!
-
-It is a good idea! Then, um――――"
-
-"But I don't know about an outsider going in there. I guess we have to ask Mitsuzuri for permission."
-
----
-
-"I-It's all right! The archery range is part of the school, so any student should be able to use it when the archery club isn't using it!"
-
-Sakura presses her point.
-
----
-
-"...Hmm, you're right. I guess it's fine if I'm not causing anyone trouble."
-
-I nod to myself.
-
-Then.
-
-I don't know why, but Sakura is making a victory pose with a big smile.
-
----
-
-"...?"
-
-...Hmm. Maybe some of Fuji-Nee's energy transferred to Sakura.
-
----
-
-## Scene 17
-
-
-
-"Wha――――Caster hasn't disappeared?"
-
-"Correct. You defeated Caster two days ago, right?
-
-But the coma incidents happened again yesterday.
-
-...The people who had their magical energy sucked out yesterday are in a worse coma than before."
-
----
-
-"No way. We definitely..."
-
-"I know. You wouldn't lie, and I don't think you made a misunderstanding. ...But Archer and I saw a shadow that looked like Caster when we went to the scene of the crime yesterday."
-
----
-
-"......I see. Then Caster's still alive and collecting magical energy from all over town?"
-
----
-
-"...I'm not certain, but it seems so. But I can tell that the atmosphere at the Ryuudou Temple has changed.
-
-You two defeated Caster. But she still exists. That's all I'm sure of right now."
-
----
-
-Tohsaka looks unhappy.
-
-...This explains why she feels different from yesterday.
-
----
-
-Tohsaka is probably getting doubts about this war.
-
-A Servant disappears if its Master is defeated.
-
-A Servant cannot avoid death in this world if it is completely defeated.
-
-But Caster still exists, in spite of taking both these penalties.
-
-She is a "violation" that completely overthrows the fundamentals of the Holy Grail War.
-
----
-
-"―――I see. So, what do you think?"
-
-"Huh? Me?"
-
----
-
-"Yeah. You think it's strange, right?
-
-I don't think you'll forfeit from the Holy Grail War. But don't you want to clear up this thing about Caster before you start fighting for the Holy Grail? You want to put off fighting other Masters until after that, right?"
-
----
-
-"You're right.
-
-This Holy Grail War is suspicious. It seems different from the one I heard about from my dad. I think there's something different going on where we can't see it."
-
----
-
-...Different, huh?
-
-I don't have the liberty to think about such a thing because the Holy Grail War itself is beyond my comprehension.
-
-But if a legitimate Master like Tohsaka feels that way, it must be true.
-
----
-
-"Then Tohsaka..."
-
-"Yes. I won't follow the rules of the Holy Grail War until I'm convinced. It can't be helped if I'm being used, but I don't like not knowing the harm I may be imposing on others.
-
-You don't like such a thing, right? So I'm not going to be fighting other Masters until I get this cleared up."
-
----
-
-She declares her stance.
-
-Tohsaka's eyes show her determination, and it seems to be asking for my stance.
-
----
-
-"I see. Can I take that as a truce offer?"
-
-"If you would accept it. If you won't fight me until this case is settled, I won't hurt you either."
-
----
-
-Tohsaka asks me silently with her eyes.
-
-She doesn't even need to ask.
-
----
-
-"That's my line. I won't fight you as long as you don't come attacking me.
-
-...And even if there comes a time when we do fight, it'll be fair and square. Until then――――"
-
-I want to cooperate with Tohsaka.
-
----
-
-"Then it's decided. I expected you to agree, but I'm glad to hear it all the same."
-
-"Huh...?"
-
-Tohsaka holds out her right hand.
-
-I realize that she's wanting to shake hands, and...
-
-"Y-Yeah. P-Please give me your best regards."
-
-I try to suppress my face from turning red as I shake her hand.
-
----
-
-"All right, our contract is set. Please give me your best regards too, Emiya-kun."
-
----
-
-...Tohsaka firmly shakes my hand.
-
-Her hand is soft, much more delicate than mine.
-
-"――――――――!"
-
-I-I'M AN IDIOT!!! WHAT THE HELL AM I THINKING AT A TIME LIKE THIS!!!!?
-
----
-
-"...? What's wrong, Emiya-kun? You're sweating all of a sudden. ...It seems your heart's beating faster too."
-
-"...!? N-No, it's nothing, I just have a cold. I'll get well if I eat! I'll get better if I eat, so let's eat lunch!"
-
----
-
-I quickly let go of Tohsaka's hand.
-
-Then.
-
-Tohsaka's expression turns wicked.
-
----
-
-"Ohhhh. I suspected it when we last met, but it looks like my hunch was correct. You seemed like you had some experience, but you actually don't, huh?
-
-It's surprising, or should I say it's just as I expected?
-
-...I see, I see. I seeeeee."
-
----
-
-Tohsaka Rin stares at me from head to toe.
-
----
-
-"W-What? Come out and say it if you want to say something. I-It's not good to stay quiet!"
-
-"Noooothing. Don't worry. It's just that I just figured out a bit more about you. Oh, I won't say it, so you don't have to be frightened."
-
----
-
-"...! I-I'm not frightened! Go ahead and say it if you want to!"
-
-"Oh, can I?"
-
-She grins.
-
-Man―――how can such an evil smile exist in this world?
-
----
-
-"...Don't say it."
-
-"What, I can't hear you?"
-
----
-
-"...I'm sorry. Please don't mention it. I think it'll be shocking if I hear it. I think I'll suffer more damage if I hear it from you."
-
----
-
-"Really? Then I guess I won't say it――――"
-
-Tohsaka withdraws with an expression of victory.
-
-And the instant I regain my peace of mind...
-
-"You're the type that masturbates to the girl you like, right?"
-
-"Hey, you said it, you devil!!!"
-
----
-
-## Scene 18
-
-
-
-Wind enters the damp room.
-
-From the opened door come two sets of footsteps.
-
-One kicks the ground in a hurry, and the other is being dragged in.
-
----
-
-"――――Come on, get started."
-
-Thump.
-
-A heavy sound echoes through the room.
-
-It is the sound of Matou Shinji, the one who came to this room in a hurry, throwing in the person he brought with him.
-
----
-
-The floor of the secret room is wriggling around.
-
-The worms must be active right now, as leech-like insects are writhing all over the floor.
-
-Matou Shinji knows what these worms are.
-
-These are lust worms that his grandfather, Matou Zouken, raises that love human blood, semen, and marrow.
-
----
-
-Once swarmed by these lust worms, men will have their spine crushed, brain sucked, and will be made into a cripple.
-
-The worms will transform when attacking a woman, so that they are only able to violate her nerves. They will spread their tentacles all over her body and devour her spirit.
-
----
-
-The lust worms will wet the woman's skin with their mucus, excite and destroy her central nerves of pleasure, and satisfy their hunger.
-
-It must be their instincts, as the worms seem to love the woman's womb. They do not eat female flesh, but seek the organs within them.
-
----
-
-They give the woman huge enough orgasms to fry her brain, and they go into her body to devour her placenta.
-
-Unwilling to eat human flesh, the worms have only one way to get what they desire.
-
-As a result, the woman's mind and body are completely violated and destroyed.
-
-The name "lust worm" must come from such characteristics.
-
----
-
-―――Matou Shinji throws the person he dragged here into the pool of such worms.
-
----
-
-"Get started."
-
-He talks from the top of the stairs.
-
-Nobody, man or woman, can survive after being thrown into a swarm of lust worms.
-
----
-
-But this person is an exception.
-
-The worms slither away from the person.
-
-Are they scared, or have they lost interest?
-
-The worms do not approach the figure.
-
-They merely reflect the light around the figure with their mucus.
-
----
-
-"Make a 'book'. You still have two more left."
-
-The only reply comes from the worms.
-
-The darkness undulates as if liking the order.
-
----
-
-"I'll let you go back if you do as I say. That's easier for you too, right?"
-
-There's no reply.
-
-The only sound in the room is the annoying cry of the worms.
-
----
-
-"......! Look, fighting is the only way. If you oppose me any more――――"
-
-Matou Shinji threatens to reveal everything.
-
-The person on the floor trembles.
-
-That is not allowed.
-
-The old man who Matou Shinji calls master will not allow it.
-
----
-
-But this person knows Shinji is not the type to follow his master's orders.
-
-He is frantic right now.
-
-Anyone that gets in his way is his enemy.
-
-The old man forced him away from battle out of concern for his life, but the concern itself is an unforgivable insult to him.
-
----
-
-"―――――――――"
-
-A change occurs after a long silence.
-
-A figure appears in a flash of light.
-
-The worms flee to the corners of the room like an ebbing tide.
-
-Even the worms understand how powerful the materialized woman is.
-
----
-
-"―――Heh. About time."
-
-Long hair and a slender, tall figure.
-
-The one clothed all in black is the Servant called Rider.
-
----
-
-"――――Let me confirm again, Shinji.
-
-You are using me solely for your protection. Correct?"
-
-The black Servant asks.
-
-She is looking up from the bottom of hell, from the preserve of worms.
-
----
-
-"―――Yeah. It's dangerous out there, so I want a reliable guard."
-
-Matou Shinji does not hide his joy of becoming a Master again and spits out words covered with lies.
-
----
-
-## Scene 19
-
-
-
-"Huh?"
-
-I see Sakura's shoes.
-
-Considering the time, I bet Sakura's already back from her club.
-
----
-
-"I'm home... Oh. You're asleep, Sakura?"
-
-Her club practice must have been tiring, as Sakura is sleeping in the living room.
-
-She must be exhausted, as she is lying on the floor rather than having her head on the table.
-
----
-
-"...Yeah. She was sick, but she went to school and her club, and helped around with my house on top of that. You're working way too hard, Sakura."
-
-I go past the living room, trying not to wake her up.
-
-And...
-
-I bring a blanket from my room.
-
----
-
-"Here. You'll catch cold again if you sleep without a blanket."
-
-I carefully drape the blanket over her.
-
-――――Then.
-
----
-
-"Hm... Sen... pai..."
-
-She must be half asleep, as Sakura looks up at me with empty eyes.
-
----
-
-"――――!"
-
-Her gesture... is different.
-
-It's not the Sakura I know who stands and smiles in the kitchen wearing an apron. Um―――her gesture is more erotic than I've ever seen on her.
-
----
-
-"I-I brought a blanket, Sakura――――――"
-
-Nervously, I try to explain myself.
-
-At that instant――――
-
-Sakura's arms wrap around my neck.
-
----
-
-"――――――――"
-
-Her breath is near me.
-
-I'm intensely aware of her femininity, no matter how hard I try to ignore it.
-
----
-
-"Hey――――Sakura――――"
-
-I can't breathe or talk properly.
-
-Sakura is half-asleep.
-
-The biggest proof is her drowsy-looking eyes.
-
-So I have to shake her off me. I have to get away from her, but――――
-
----
-
-"Ah――――uh."
-
-I can't take my eyes off of her.
-
----
-
-...Her hair streams down her neck.
-
-Her lips let out a seductive sigh, and her breasts are pushing up her shirt.
-
-Having her mature woman's body so close is making me dizzy.
-
----
-
-"――――Sen... pai..."
-
-...Her hair streams down her neck.
-
-Her hands tense up a bit.
-
-...Our faces near each other.
-
-I'm lured by her captivating lips, and I can't resist her.
-
----
-
-"――――――――"
-
-My reasoning is frozen.
-
-Everything I've prohibited, everything I shouldn't have noticed... such boring senses are being destroyed.
-
----
-
-"――――Sa... kura..."
-
-My heart is pounding.
-
-The sound of the pounding heart fills my eardrums, my head empties out, and――――
-
----
-
-"Are you home, Shirou?"
-
-"UWAAAAAAAAAAAA!!"
-
----
-
-I jump back.
-
-I display speed and quick wittedness I've never shown before and land on top of the table...!
-
----
-
-"That was a wonderful movement. But I do not know about landing on the table."
-
-"――――――You're right. I was a bit surprised."
-
-I slowly step down to the floor.
-
-Sakura is――――
-
----
-
-"Hm... Hmm..."
-
-Her hands are lowered, and she's sleeping again.
-
----
-
-"Shirou? Your face is red. Did something happen? Your eyes are wandering. Are you worried about something?"
-
-"I-It's nothing! Let's just go to the dojo. Sakura needs sleep, and I want to train with you until dinner."
-
----
-
-"That is an excellent attitude to take, Shirou. I am well rested and in perfect condition. Let us prepare for tonight's battle."
-
-Saber heads to the dojo without questioning my suspicious behavior.
-
----
-
-"――――Phew."
-
-I-I'm saved.
-
-I'm glad Saber didn't see us like that, but I'm more glad that I didn't do anything on the spur of the moment.
-
-If I'd done anything to Sakura while she was half-asleep, I would kill myself in shame.
-
----
-
-## Scene 20
-
-
-
-"It's good that you're training, but you have to keep it moderate, Senpai! Jamming a finger is bad enough, but you've almost broken this one."
-
-"Ouch...! Please put the bandage on slower, Sakura."
-
----
-
-"Of course it hurts. It's natural to swell up if you leave such an injury alone. Please give up and consider this a divine punishment."
-
----
-
-"......!"
-
-Sakura tapes up my middle finger.
-
-Her movements are quick and accurate. She must get lots of practice treating jammed fingers in archery club.
-
-She's skillful, but isn't this a bit rough for Sakura?
-
----
-
-"And you too, Saber-san.
-
-Couldn't you have gone easier if you're stronger than Senpai? Senpai's body is swollen all over. He won't even be able to take a bath tonight."
-
----
-
-"Sakura. I do not mean to contradict you, but that is what Shirou wished for.
-
-I merely responded to his request.
-
-And Shirou is partly responsible for tonight's injury. He was the one who wished to train, but he was not concentrating at all."
-
----
-
-Saber glares at me in complaint.
-
-"Ugh――――"
-
-There's not much I can say when she puts it like that.
-
----
-
-"Eh...? Did you feel sick or something, Senpai?
-
-...Um, it's not like you to go to the dojo with unclear motivation."
-
----
-
-"Indeed. What was distracting you, Shirou? You were staring into empty space even when you were holding the shinai, and I felt no spirit in your attacks."
-
----
-
-"...Well. That's, um..."
-
-The cause is standing right here in front of me, but there's no way I can say that. Just thinking about it makes my heart jump――――
-
----
-
-"Senpai?
-
-Does it still hurt somewhere...?"
-
-Sakura looks at me with worry.
-
----
-
-"......! N-No, I'm fine now! I just ate too much, so it'll help me out if you can make me some tea!"
-
-I quickly move my face away from Sakura.
-
----
-
-"Okay. Then I'll go brew some after-meal tea."
-
-Sakura stands up to go to the kitchen.
-
----
-
-"......Man."
-
-...This is really bad for my heart.
-
-Her body is engraved in my mind, and I get conscious of her whenever she comes near me.
-
----
-
-"Are you fine with tea, Saber-san?"
-
-"Yes. Please do not make it too hot."
-
-Sakura promptly brews some tea.
-
-...Her gestures are supposed to be familiar, but I feel like I'm seeing them for the first time.
-
----
-
-"...!"
-
-Damn, why do I keep remembering it?
-
-There's something wrong with me, just like Saber said.
-
-Just looking at Sakura reminds me of how she looked earlier... and her soft lips....
-
----
-
-...This is just lust.
-
-Sakura is an important underclassman and a family member to me.
-
-So―――why am I now conscious of her like this?
-
----
-
-"――――――――"
-
-......Damn it.
-
-I know. I really do.
-
-Sakura is beautiful. I've been aware of it for quite a while now.
-
-But in spite of that, I acted as her Senpai.
-
----
-
-I like Sakura.
-
-...Having her around became normal for me before I knew it, and I've found it to be a great comfort.
-
----
-
-But it's always been a different sort of affection.
-
-I've never wanted to embrace Sakura.
-
-I knew she was a girl, but I never viewed her as someone of the opposite sex.
-
----
-
-But now...
-
-I'm beginning to think it's not that I never viewed her as a girl...
-
-...But that I was trying not to view her as a girl.
-
----
-
-"Senpai?"
-
----
-
-"Here's some tea, Senpai."
-
-"Oh――――yeah, thanks, Sakura."
-
-"You're welcome. Thank you for dinner too, Senpai."
-
----
-
-Sakura smiles happily.
-
-...Seeing her smile makes me happy as well.
-
-It seems she really liked the pork meatloaf with egg and vegetables.
-
----
-
-Sakura hands the tea to Saber as well and sits down.
-
-Saber must enjoy tea, as she receives it with satisfaction.
-
----
-
-"Itadakimasu. ...But where is Taiga? I have not seen her around for a while."
-
-"Huh? Oh, she just called and said she can't make it tonight. I didn't get the details, but she said she has to go visit the hospitals or something."
-
----
-
-"I see. I wanted to ask her some questions, since she is more knowledgeable about your habits.
-
-...I guess it cannot be helped. I shall wait until next time to strengthen you."
-
----
-
-"―――Hm. Are you saying yesterday's and today's trainings were just the beginning?"
-
----
-
-"Of course. The trainings up to now were to teach your body what you are able to do.
-
-From now on, we will train you to survive using your special characteristics."
-
-"――――I see. That sounds hard."
-
----
-
-"'Intense' would be the word to describe it. Consider your training up to today to be a mere warmup."
-
----
-
-"Whoa."
-
-A-Are you serious?
-
-I don't know if I should be thankful or not that Fuji-Nee isn't coming tonight.
-
----
-
-"What was that sigh? This is for your own good――――Sakura?"
-
-Saber looks at Sakura.
-
----
-
-"Huh?"
-
-I follow her gaze.
-
-Hey――――
-
-"――――――――"
-
-Sakura's breathing painfully.
-
----
-
-"Sakura...!"
-
-I run to her and shake her shoulders.
-
----
-
-"Eh... eh, what's wrong, S-Senpai...!?"
-
-"It's not 'what's wrong'! You were pushing yourself again――――"
-
----
-
-...No, she's not.
-
-She looks healthy, her shoulders aren't hot, and she's just looking up at me in wonder.
-
----
-
-"Huh―――? Um, you looked like you were in pain."
-
-"Oh, you're wrong. I just fell asleep."
-
-Sakura smiles in embarrassment.
-
----
-
-"...Don't scare me like that. I thought your cold got worse again."
-
----
-
-"I'm sorry. I've been sleepy all day, and I fall asleep if I let my guard down."
-
-"I see. Well, you were sleeping this afternoon too. You can go rest if you're tired. I'll clean up."
-
----
-
-"Oh... O-Okay, you're right. I'll accept your offer and go rest now."
-
-Sakura bows and exits the living room.
-
-She's walking steadily, so I guess she's just short on sleep, like she said.
-
----
-
-## Scene 21
+## Scene 19 Madness
 
 
 

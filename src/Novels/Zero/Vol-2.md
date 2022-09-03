@@ -1,6 +1,10 @@
 # Fate/Zero Volume 2: The Mad Feast of Kings
 
+![](https://i.imgur.com/zjpr0rF.jpeg)
 
+![](https://i.imgur.com/vnQFipx.jpeg)
+
+![](https://i.imgur.com/5al7vkm.jpeg)
 
 ## Act 5
 
@@ -3596,7 +3600,7 @@ All the Masters’ movements would be under the watchful eyes of Assassin, someo
 
 For the sake of his belief, for the tenet of the Church, and for the sake of his promise to his deceased friends; brimming with self-confidence, this child exhausted all that he has, deploying his talents. A great achievement indeed, something even his father failed to accomplish.
 
-
+![](https://i.imgur.com/wpi8vFl.jpeg)
 
 ## Act 6
 
@@ -5512,7 +5516,7 @@ If things go according to plan – Kayneth is digging himself the greatest of gr
 
 The Magus Killer's "hunt" is about to reach its climax.
 
-
+![](https://i.imgur.com/GLotQ6s.jpeg)
 
 ## Act 7
 
@@ -6035,10 +6039,7 @@ Through two small chants, weaving the magic in one breath. The control of metall
 This secret was peerless.
 
 
-
-
-
-The silvery thread crisscrossed as it drew into complex shapes. It crisscrossed, combined, like a weaved piece of art as it took on a complex solid shape. Using a giant eagle as base, it appeared as an intricate silvery work of art.
+![](https://i.imgur.com/BZZbi1Q.jpeg)
 
 The silvery thread crisscrossed as it drew into complex shapes. It crisscrossed, combined, like a weaved piece of art as it took on a complex solid shape. Possessing fierce wings and beaks, and sharp claws. Using a giant eagle as base, it appeared as an intricate silvery work of art.
 
@@ -7394,7 +7395,7 @@ She should hate her. Irisviel wasn't inhuman anymore. Because her soul became on
 
 After setting a new oath, Irisviel began to concentrate on healing Maiya's bruised body.
 
-
+![](https://i.imgur.com/E5bxsUZ.jpeg)
 
 ## Act 8
 
@@ -11611,7 +11612,7 @@ He was the only Master here, and so he understood. Servant Alexander's trump car
 The King of Conquerors stood before the lines of cavalry and raised both of his arms to the skies, shouting with immeasurable pride.
 
 
-
+![](https://i.imgur.com/bl8Bcp1.png)
 
 
 Ionian Hetairoi

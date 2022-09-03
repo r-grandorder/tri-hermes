@@ -1,5 +1,7 @@
 # Heart of Freaks
 
+![](https://i.imgur.com/ZrThsFK.jpeg)
+
 ***
 
 Even monsters which possess the heart of a man-
@@ -396,6 +398,8 @@ Instantly, Kiritsugu acted – holding the Calico submachine gun in one hand, he
 
 With a strong determination which caused the rifle to blur slightly due to recoil, Kiritsugu rained more than 20 bullets on the man.
 
+![](https://i.imgur.com/guPPgK6.jpeg)
+
 Without even groaning, the man collapsed.
 
 “……?”
@@ -443,10 +447,12 @@ The place where they were joined was sticky, like molten chocolate. Among the ei
 Grumbling, Natalia kicked the huge creature again. Catching the trembling horse, she strengthened her arm with prana, and severed the horse.
 
 
+
 However, the horse raged about, trying to kick Natalia. Somehow, whilst she was trying to hold the horse down, an arrow was shot at her.
 
 Still, Natalia’s senses were extraordinary. The instant she sensed the approaching arrow, she held the horse’s neck up with both hands, and released a powerful kick – the arrow which was approaching was broken mid-air.
 
+![](https://i.imgur.com/e7RENBV.jpeg)
 
 Kiritsugu perceived the villager who was aiming at them with bows and arrows on the rooftop. Without waiting for Natalia’s orders, he swiftly aimed his rifle at him and fired.
 

@@ -395,6 +395,8 @@ After all, he had been extremely sure that the most famous killer of all couldn'
 
 Hyouma was bewildered by the girl that came out from the circle. Her silver hair was dense and rather short and her pale, ice-blue eyes gazed at the magus disinterestedly.
 
+![](https://i2.lensdump.com/i/14Wq27.md.jpg)
+
 The girl shook her head and declared.
 
 "No, there is no mistake.
@@ -891,6 +893,7 @@ As would be expected, fatigue was setting in on her.
 
 As soon as she laid down on her bed and closed her eyes, Reika fell unconscious at once.
 
+![](https://i3.lensdump.com/i/14WBJr.md.jpg)
 
 * * * * *
 
@@ -1225,6 +1228,7 @@ Looking around her, she located a new target.
 
 As Jack's stomach still complained of considerable hunger, she drew the hearts out of every single one of them, and finally managed to fill herself comfortably.
 
+![](https://i.lensdump.com/i/14WmSF.md.jpg)
 
 * * * * *
 
