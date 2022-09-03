@@ -1,6 +1,10 @@
 # Fate/Zero Volume 1: The Untold Story of the Fourth Holy Grail War
 
+![](https://i.imgur.com/FYgRtFZ.jpeg)
 
+![](https://i.imgur.com/LnnE3v7.jpeg)
+
+![](https://i2.lensdump.com/i/137wtr.jpg)
 
 ## Prologue
 
@@ -940,7 +944,7 @@ Different from his sense of crime toward Aoi, and from his hatred toward Zouken,
 
 A dark feeling of vengeance had quietly started to burn in the depth of Matou Kariya's heart like a banked fire.
 
- 
+ ![](https://i3.lensdump.com/i/137x4F.jpg)
 
 ## Act 1 -
 
@@ -1858,7 +1862,7 @@ In a forest in the night, on a stone stool enveloped by the darkness, at each of
 
 “I ask thee, art thou the Master that called me?”
 
-
+![](https://i2.lensdump.com/i/137hMq.jpg)
 
 ## Act 2 -
 
@@ -1906,7 +1910,9 @@ The instant the eye contact was made, he had instinctively sensed that the Serva
 
 The overwhelming presence of the giant blocked his view. Leaving out the quibbles, he sure is a HUGE guy.
 
-The overwhelming presence of the giant blocked his view. From the body odor he picked up, the fragrant of the muscular stature, Waver understood. Never mind the quibble about him being a ghost or a familiar, he sure is a HUGE guy.
+![](https://i.imgur.com/VSZbzq4.jpeg)
+
+ From the body odor he picked up, the fragrant of the muscular stature, Waver understood. Never mind the quibble about him being a ghost or a familiar, he sure is a HUGE guy.
 
 Waver knew that the Heroic Spirits invited by the Grail are not only free spirits; they gain a material "body" to exist in the present world. But, the cluster of massive muscles that was the actual entity, not a virtual image or a shadow, the feeling of impending threat, was beyond Waver's imagination.
 
@@ -3368,7 +3374,7 @@ The exaggerated voice of the dignified old priest was filled with anticipation f
 
 Unable to share the enthusiasm of his father, Kirei silently gazed at a dim-lit corner of the priest’s house.
 
- 
+ ![](https://i3.lensdump.com/i/13O0te.jpg)
 
 ## Act 3 -
 
@@ -4544,6 +4550,8 @@ In the middle of that disaster, still without a single scratch, Saber and Lancer
 
 "There's no honor in battling unannounced, but—"
 
+![](https://i.imgur.com/TskBwVP.jpeg)
+
 Lancer starts speaking with Saber, a killing intent flowing into the tip of both of his spears, only his gaze keeping its freshness.
 
 
@@ -4794,7 +4802,7 @@ Yes, a Noble Phantasm― is definitely not limited to one.
 
 The short spear that Lancer had kicked up, its tip was swirling with a prana just as sinister as the long red one, glaring at Saber. It was already predicting the instant it would pierce Saber's throat, as she could only charge forward, too late to brake...
 
- 
+ ![](https://i2.lensdump.com/i/13Otq1.jpg)
 
 ## Act 4-
 

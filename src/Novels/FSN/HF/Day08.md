@@ -2,1357 +2,8 @@
 
 
 
-## Scene 00
 
-
-
-School ends, and I quickly head home.
-
-Since all the after-school clubs have been cancelled, the front gate is crowded with students.
-
-I look around, but I don't see Tohsaka.
-
-I bet she's already heading to the Matou household.
-
----
-
-"Senpai? Are you looking for someone?"
-
-"Hm? No, I was just looking at the school. It's rare for everyone to go home like this, right?"
-
----
-
-"You're right. But we can go home together because of that. Should we stop by the shopping district?"
-
-"Yeah, let's buy stuff for dinner. Fuji-Nee can't come over for a while, so it'll be for me, you, and Saber."
-
----
-
-We stop by the park after shopping.
-
-There's no one here.
-
-No children playing around. No silver-haired girl in a coat.
-
----
-
-"...There's no one here. Is this place not used that often?"
-
----
-
-"I guess that's how it is. There were people here until the sun set when I was a child, but I guess it's like this now except for the holidays."
-
-"I see. It's kind of lonely."
-
----
-
-I agree and look up at the sky.
-
-The evening sky.
-
-The madder red sky without any birds looks lonely, just like the park.
-
----
-
-"Let's go. You don't get this time off very often, so we should relax."
-
-We leave the park.
-
-With an energetic reply, Sakura follows after me.
-
----
-
-## Scene 01
-
-
-
-School ends, and I quickly head home.
-
-Since the after-school clubs have been cancelled, the front gate is crowded with students.
-
----
-
-I look around, but I don't see Tohsaka.
-
-I bet she's already heading to the Matou household.
-
----
-
-"Sakura's―――not around."
-
-Sakura should head straight to my house since the club activities are cancelled.
-
-But I didn't promise to go home with her, so I bet she already went home.
-
----
-
-I walk up the empty hill.
-
-It's already been six days since the Holy Grail War started.
-
-The town seems to be slowly losing its liveliness.
-
----
-
-".........Whoa."
-
-I get dizzy as soon as I climb up the hill.
-
-It feels like nausea.
-
-A faint buzzing reaches my ears.
-
----
-
-"――――What is this sound?"
-
-The sound echoes on my eardrums even if I cover my ears.
-
-I'm not hallucinating.
-
-I can't be dizzy and be hearing this at the same time by pure chance.
-
-If I get them at the same time, it should be intentional.
-
----
-
-"Did something happen at the house...!?"
-
-I shake off the dizziness and start running.
-
-Saber's at the house.
-
-As long as Saber's there, the enemy should have a hard time launching an ambush...!
-
----
-
-I only see Saber's shoes at the front entrance.
-
-"Good, Sakura's not home yet――――!"
-
-Then there's no need to hesitate.
-
-Even if we're under attack, Saber and I can deal with it...!
-
----
-
-"Are you all right, Saber...!?"
-
-I dash into the living room.
-
-At that instant...
-
----
-
-...The strength flees from my legs, and I sink to my knees.
-
----
-
-"Wha――――――――"
-
-I can't move my legs.
-
-The buzzing rings my eardrums, and I lose my sense of balance.
-
-I feel nauseous and cold.
-
-Desperately, I fight it off, willing strength into my body...
-
----
-
-...And realize that my Command Spell has lost its color.
-
----
-
-"――――――――"
-
-My mind freezes.
-
-The color of the Command Spell has faded away.
-
-Before I can take in what it means...
-
----
-
-"I've already dealt with Saber. I can't afford to have any more Servants go to their side."
-
----
-
-I hear a familiar voice near me.
-
----
-
-"―――――――――"
-
-I bear the nausea and look up.
-
----
-
-"I'm sorry, Onii-chan. I wanted to play for a bit longer, but then the situation changed. If you want to curse me, curse the imperfect Holy Grail."
-
----
-
-The ringing in my ears invades my brain.
-
-The imperceptible sound waves shut down my vision by filling themselves behind my eyeballs.
-
----
-
-"But don't worry. I won't kill you right away.
-
-You're my trump card against that person. I'll destroy your body here, but I'll put your mind in a puppet.
-
-...Teehee. You won't be able to move after that, but it's better than dying. Right, Onii-chan?"
-
----
-
-――――The sound permeates my body.
-
-My mind is still frozen.
-
-In the darkness with my senses sealed, I meet my end without even realizing it.
-
----
-
-## Scene 02
-
-
-
-―――The town falls asleep.
-
-It's just past ten o'clock, but it seems like it's midnight.
-
-It must be because of all the unexplained comas.
-
-There are no lights, and nobody is walking about.
-
----
-
-"Finding the shadow and investigating it――――Archer's Master has given us quite the reckless request."
-
-"Yeah. But we have to do it. Are you against it, Saber?"
-
----
-
-"...I told you my opinion this morning.
-
-So, do you have any clues? We might find ourselves being the target if we wander about aimlessly."
-
----
-
-...A clue, huh?
-
-I'm not positive, but――――
-
----
-
-## Scene 03
-
-
-
-"Let's go to the Ryuudou Temple again.
-
-...I noticed that Caster was acting strange. I think there's something there."
-
----
-
-"...Yes. That mountain is filled with an ominous presence. The land there is the spiritual focus of this town. It is worth investigating, regardless of whether the shadow is there."
-
----
-
-"Then it's decided. Let's go."
-
-We walk to the gate.
-
-We can reach the temple in an hour, if we hurry. We don't have any time to lose, but――――
-
----
-
-"Saber?"
-
-Saber is looking at the outbuilding.
-
-She is looking at Sakura's room, where Sakura should now be sleeping.
-
----
-
-"...Shirou. I have something to discuss with you. It follows this morning's conversation."
-
-"...? You mean about Sakura?"
-
----
-
-"Yes. Sakura's guilty conscience is too strong. She has a tendency of trying to atone for her sins in the present rather than the future."
-
----
-
-...She must be talking about the quarrel they had yesterday.
-
-Saber said Sakura was right, so Sakura had no reason to worry about it.
-
----
-
-But Sakura said she was still at fault, went and apologized to Saber, and had Saber apologize to her instead.
-
-Sakura and Saber.
-
-Saber must be worried about the difference in their thought process.
-
----
-
-"...What do you mean?"
-
-"...Sakura places too much blame upon herself. She punishes herself for her errors instead of correcting them. She brands herself with her dishonor, rather than working to recover her honor. She burdens herself in a good way and a bad way."
-
----
-
-...She talks with disgust.
-
-It sounds like she's talking about herself more than about Sakura.
-
----
-
-"...It was clear to me last night. She is special when she is with you, but I believe she behaves differently in other circumstances. Sakura is liberated from her guilty conscience only when she is with you."
-
----
-
-That is the source of her concern.
-
-Sakura should be able to live with pride without needing to rely on another.
-
----
-
-"...I see. Sakura certainly is too shy. I'll be careful."
-
-Now that Saber mentions it, it's not healthy for a girl Sakura's age to always be busy helping around the house.
-
-She says it's fun to be here, but she should at least go outside to hang out once in a while.
-
----
-
-"...Thanks for looking out for Sakura, Saber.
-
-I'm really happy that you're worried about her when she has nothing to do with the Holy Grail War."
-
----
-
-"...No. I also have a guilty conscience, so it did not seem like someone else's business."
-
----
-
-"Oh―――hold on, Saber. Let's go together."
-
-We head to the gate together.
-
-We head outside within the silence, trying not to wake Sakura up.
-
----
-
-## Scene 04
-
-
-
-"...I say yesterday's park. They say the criminal returns to the scene of the crime――――"
-
----
-
-"Are you saying the shadow will appear again?
-
-Master. Even if we are fortunate enough to find the shadow there, what would we do? It would be nice if we could defeat it there, but it will become harder to find that shadow if we let it escape. I believe your plan does not solve the main problem."
-
----
-
-"Ugh."
-
-Saber's right.
-
-We don't even know what that shadow is.
-
-So we shouldn't be trying to find the shadow right now. We should rather be trying to find out what it is, and where it's coming from.
-
----
-
-"...I guess the Ryuudou Temple then. I noticed that Caster was acting strange. I think there's something there."
-
----
-
-"Yes. That mountain is filled with an ominous presence. The land there is the spiritual focus of this town.
-
-It is worth investigating, regardless of whether the shadow is there."
-
-"Then it's decided. Let's go."
-
----
-
-We walk to the gate.
-
-We can reach the temple in an hour, if we hurry. We don't have any time to lose, but――――
-
----
-
-"Saber?"
-
-Saber is looking at the outbuilding.
-
-She is looking at Sakura's room, where Sakura should now be sleeping.
-
----
-
-"...Shirou. I have something to discuss with you. It follows this morning's conversation."
-
-"...? You mean about Sakura?"
-
----
-
-"Yes. Sakura's guilty conscience is too strong. She has a tendency of trying to atone for her sins in the present rather than the future."
-
----
-
-...She must be talking about the quarrel they had yesterday.
-
-Saber said Sakura was right, so Sakura had no reason to worry about it.
-
-But Sakura said she was still at fault, went and apologized to Saber, and had Saber apologize to her instead.
-
----
-
-Sakura and Saber.
-
-Saber must be worried about the difference in their thought process.
-
----
-
-"...What do you mean?"
-
-"...Sakura places too much blame upon herself. She punishes herself for her errors instead of correcting them. She brands herself with her dishonor, rather than working to recover her honor. She burdens herself in a good way and a bad way."
-
----
-
-...She talks with disgust.
-
-It sounds like she's talking about herself more than about Sakura.
-
----
-
-"...It was clear to me last night. She is special when she is with you, but I believe she behaves differently in other circumstances. Sakura is liberated from her guilty conscience only when she is with you."
-
----
-
-That is the source of her concern.
-
-Sakura should be able to live with pride without needing to rely on another.
-
----
-
-"...I see. Sakura certainly is too shy. I'll be careful."
-
-Now that Saber mentions it, it's not healthy for a girl Sakura's age to always be busy helping around the house.
-
-She says it's fun to be here, but she should at least go outside to hang out once in a while.
-
----
-
-"...Thanks for looking out for Sakura, Saber.
-
-I'm really happy that you're worried about her when she has nothing to do with the Holy Grail War."
-
----
-
-"...No. I also have a guilty conscience, so it did not seem like someone else's business."
-
----
-
-"Oh―――hold on, Saber. Let's go together."
-
-We head to the gate together.
-
-We head outside within the silence, trying not to wake Sakura up.
-
----
-
-## Scene 05
-
-
-
-...Matou Zouken is standing there, his figure just like before.
-
-His body, which Archer sliced in two before my eyes, is whole once more.
-
-The old magus that could only wait for death is laughing, as if that event was an illusion.
-
----
-
-I don't know how he did it, but if he really did recover from that state, it's more on a level of restoration than recovery.
-
-It's not just healing a wound.
-
-It takes great magecraft to restore a piece of one's body that has been lost.
-
-Then―――isn't this called immortality?
-
----
-
-"Well. What do you intend with a single piece of wood, child?"
-
-"――――――――"
-
-I stand there while pointing the strengthened stick at Zouken.
-
----
-
-I can't charge at Zouken, nor can I retreat to follow Saber.
-
-...If Zouken is immortal, a scrap of wood will never be able to match him――――
-
----
-
-"Will you try to kill me, or will you go after your Servant? Either way, nothing starts until you move."
-
-Something is squirming around the old magus as he speaks.
-
-No, it's not just his surroundings.
-
-The darkness itself is moving, blocking the moonlight.
-
----
-
-"――――Worms."
-
-I can tell, even though I can't see them.
-
-The darkness is probably swarms of worms.
-
-The walls of this temple are covered in something darker than darkness itself.
-
-This space is filled with the sound of creeping worms and the smell of rotten meat.
-
----
-
-"Why do you hesitate? Your little alliance cut me in half only yesterday. Did you not cooperate with Tohsaka specifically to kill me?"
-
----
-
-...It's obvious that he is enjoying this.
-
-I can't fight off thousands of worms with just this stick.
-
-I'll be swallowed in those worms once Zouken gives the order.
-
----
-
-―――Or maybe...
-
-I might be able to escape if I sprint for the exit.
-
-They are just worms, even if it is a horde of them.
-
-It should take them more than a few seconds to kill a human being.
-
----
-
-"All right, I shall wait as long as you want.
-
-You can believe in Saber's return and wait here, try to kill me with that weapon of yours, or shake off my worms and try to escape outside. You can choose how you want to die."
-
----
-
-...Humph.
-
-It seems he has no intention of letting me go.
-
-The worms increase in number as we stand here glaring at one another.
-
-Then――――
-
----
-
-## Scene 06
-
-
-
-"――――――――"
-
-.....No.
-
-I can't move recklessly.
-
-I'm worried about Saber. I want to run to her and see if she's all right.
-
----
-
-But that means turning my back to Zouken.
-
-In this situation, doing so will be fatal.
-
-'―――Please protect yourself there, Shirou.'
-
-That's what Saber said.
-
-Then I have to make my stand, no matter what.
-
----
-
-"―――Oh. I see, I see. You two must place strong trust in each other."
-
-...I'm not going to let his words tempt me.
-
-I tighten my grip on my weapon and concentrate, anticipating his attacks.
-
----
-
-"All right. Then let us test our endurance. You can wait and see if you made the right choice."
-
-Murderous intent disappears from Zouken.
-
-The old magus steps back and fades away, as if melting into the darkness of the worms.
-
----
-
-"――――――――"
-
-His presence is almost gone.
-
-I glare at Zouken, who should still be in front of me.
-
-......
-
-............
-
-..................
-
-........................
-
-.....................And after one minute...
-
----
-
-"Huh―――――――?"
-
-I hear wind blowing far off, and sudden pain shoots through my left hand.
-
-My left hand is prickling.
-
-My Command Spell is hurting as if it's bleeding.
-
----
-
-"Saber...?"
-
-I have a bad feeling.
-
-I have a bad feeling.
-
-I have a bad feeling.
-
-The pain on my left hand.
-
-The sound of wind has stopped.
-
-The old magus is laughing with murderous intent that is almost visible.
-
----
-
-"It seems she has been taken care of. You should be able to tell as a Master. That your Servant has been eliminated from this world!"
-
----
-
-"――――――――"
-
-My brain stops.
-
-My vision freezes.
-
-What――――is this guy saying?
-
----
-
-"Why are you shocked? Saber has died. She has been defeated by Assassin, one she took lightly as a weaker opponent. Can you not tell that simple fact?"
-
-"Wh――――――――at?"
-
----
-
-What the hell is he saying?
-
-My left hand hurts.
-
-My left hand certainly hurts.
-
-But my Command Spell is still there.
-
-It's fading, but it's still there.
-
-Then――――Saber should be coming here any second now――――!
-
----
-
-"Come, Saber...!"
-
-I scream as if to erase the pain on my left hand.
-
-I put as much magical energy as I can into my left hand.
-
-I don't know how to use the Command Spell.
-
-But if this can answer the Master's wish, it should bring Saber here right away――――
-
----
-
-"Kuh――――!"
-
-There's no response.
-
-The Command Spell was about to activate, but suddenly stopped.
-
----
-
-There is nothing wrong with it.
-
-If there is a problem, it is on Saber's end――――
-
----
-
-"You are doing a meaningless thing. Even a Command Spell cannot resurrect a lost Servant.
-
-Well, even a fool like you should understand now. Saber has been killed by my Servant."
-
----
-
-"Don't――――"
-
-"Then let us end things here. There are still uses for the daughter of Tohsaka, but you are of no more use. You can die along with Saber on my holy land."
-
-"――――Talk shit, dammit――――!"
-
----
-
-I run.
-
-I charge at the enemy in front of me, as if to shake off the ominous thought and the pain on my left hand.
-
----
-
-## Scene 07
-
-
-
-It's obvious that the situation is getting worse by the second.
-
-Then I'll escape this danger while I can still move.
-
-I'll beat that old magus before all those worms can crawl at my body――――!
-
----
-
-My attack doesn't feel effective.
-
-A diagonal slash cuts the old magus from shoulder to hip. Scraps of flesh scatter across the temple.
-
----
-
-"My――――! I see, I see. You sure are a resolute child!"
-
-The head on the ground laughs.
-
----
-
-"――――, ......!"
-
-My weapon crumbles to dust.
-
-―――Damn.
-
-He sacrificed his body just to rot the stick I strengthened...!
-
----
-
-"It's over now. Your youthful ardor has cost you your only weapon. My, young people lack patience these days."
-
-"......!"
-
----
-
-I run.
-
-I run, stepping on the worms in my way.
-
-Death follows close on my heels.
-
-I try to escape the waves of worms attacking me.
-
-I ram the black wall with my shoulder...!
-
----
-
-"I'm out...!"
-
-Unable to stop my momentum, I fall and roll on the ground.
-
----
-
-"Hah, ah...!"
-
-The worms aren't coming after me.
-
-It must be because I ran frantically, as I end up out on the other side of the compound.
-
----
-
-"Ouch......"
-
-I must have landed funny, as my whole body is hurt.
-
-"So what? More importantly――――"
-
----
-
-I have to find Saber as fast as I can.
-
-I have a bad feeling.
-
-I have to see Saber's face, to reassure myself that she's all right――――
-
----
-
-"――――!"
-
-The water surface rustles.
-
-Sensing danger, I jump back.
-
----
-
-I get my feet away from the wet mud.
-
-"......!?"
-
-But I'm only able to jump back for a split second.
-
----
-
-―――A sharp pain.
-
-I feel something strange on my heel and look down.
-
----
-
-"Wha――――"
-
-It's red.
-
-My feet are missing from the heels down.
-
----
-
-"...It must be that."
-
-I stepped on numerous worms during my escape.
-
-...The strengthened stick rotted just by slashing at Zouken.
-
-Then it's natural for my feet, which stepped on those worms, to follow the same fate.
-
----
-
-"Guh...!"
-
-I try to crawl out of the mud using my arms.
-
----
-
-"Hah. You were close, child. Your decision was correct, but you lacked the necessary skill."
-
-The worm-user's voice echoes.
-
-―――The muddy ground.
-
-Since ancient times, spiders have dwelt in the damp places of the earth.
-
----
-
-"―――Well, I have obtained Saber.
-
-Too bad. The last reason to keep you alive has disappeared."
-
----
-
-Worms I've never seen before come scattering down.
-
-Hundreds of poisons that bite on my skin, crawl in my flesh, and melt my bones.
-
-―――I had to bear the unimaginable pain until my consciousness faded away.
-
----
-
-## Scene 08
-
-
-
-...Should I use the Command Spell...?
-
-I don't think Saber will lose to Assassin.
-
-But this situation is too ominous.
-
-We're fighting this ancient monster. It's too dangerous to have Saber by herself.
-
----
-
-"Oh? You've suppressed your poorly made murderous intent. Hm, it seems you have a plan."
-
----
-
-He laughs, mocking me.
-
-He is looking down on me, not caring what plan I have.
-
----
-
-"――――――――"
-
-...Fine, laugh all you want.
-
-If the Command Spell can answer the Master's wish, I am ready to use them all to bring Saber here...!
-
----
-
-"Saber――――"
-
-I concentrate on my left hand while glaring at Zouken.
-
-I have only one command.
-
-To summon Saber to my side―――!
-
----
-
-"Mm......!?"
-
-Even if he realizes what's happening, it's too late.
-
-Heat lights up on my left hand, the concentrated magical energy is released as I wish, and...
-
-...The Command Spell loses its color with a slight pain.
-
----
-
-"What――――?"
-
-―――I want to think it's because I failed.
-
-I want to think that I used it wrong because I don't know how to use it.
-
----
-
-"...Phew. It seems it is over already. You surprised me. You shortened my life by ten years."
-
-He laughs.
-
-...I hear wind in the distance, like a death cry.
-
----
-
-I feel a pain on my left hand.
-
-My left hand is prickling.
-
-My Command Spell loses its heat as if it's bleeding.
-
----
-
-"No―――――way."
-
-I have a bad feeling.
-
-I have a bad feeling.
-
-I have a bad feeling.
-
-The pain on my left hand.
-
-The sound of wind has stopped.
-
-The old magus is laughing with murderous intent that is almost visible.
-
----
-
-"That is the truth. You should be able to tell as a Master. That your Servant has been eliminated from this world!"
-
----
-
-"――――――――"
-
-My brain stops.
-
-My vision freezes.
-
-What――――is this guy saying?
-
----
-
-"Why are you shocked? Saber has died. She has been defeated by Assassin, one she took lightly as a weaker opponent. Can you not tell that simple fact?"
-
-"Wh――――――――at?"
-
----
-
-What the hell is he talking about?
-
-My left hand hurts.
-
-My left hand certainly hurts.
-
-But my Command Spell is still there.
-
-It's fading, but it's still there.
-
-Then――――Saber should be coming here any second now――――!
-
----
-
-"Don't――――"
-
-"Then let us end things here. There are still uses for the daughter of Tohsaka, but you are of no more use. You can die along with Saber on my holy land."
-
-"――――Talk shit, dammit――――!"
-
----
-
-I run.
-
-I charge at the enemy in front of me, as if to shake off the ominous thought and the pain on my left hand.
-
----
-
-## Scene 09
-
-
-
-"―――――Hah!"
-
-I charge at Zouken and swing my weapon with full force.
-
-I swing my weapon down onto his head.
-
-But something obstructs me, and my whole body is flung away.
-
----
-
-"Ah――――guh――――!"
-
-My back slams against the wall.
-
-I must have been hit in the stomach, as I can't breathe.
-
-My back is numb as if scorched with fire.
-
----
-
-I hear worms crawling about by my ear.
-
-The worms by the wall scatter to avoid being crushed by my landing.
-
-...Even the squirming sounds have a mocking tone.
-
----
-
-"You've made it, Assassin. Then I shall leave the kid to you as well. This is an easy task compared to Saber, so enjoy it all you want."
-
----
-
-Zouken disappears.
-
-And in his place...
-
-A white, skull mask is smiling in the darkness.
-
----
-
-...That must be the Servant Assassin.
-
-An assassin with a black outfit and a white mask, appropriate for Matou Zouken.
-
----
-
-"――――――――"
-
-I'm going to die.
-
-Pain on my left hand.
-
-My numb mind.
-
-My heart accepts the death coming in the next moment and pounds loudly.
-
----
-
-And I accept the weapons thrown at my forehead, throat, heart, and stomach.
-
----
-
-A flash of silver light repels the weapons.
-
-The four daggers that tried to take my life are blocked with a sword.
-
----
-
-"――――"
-
-There's only one person who would do such a thing.
-
-My left hand still hurts.
-
-The Command Spell is still there.
-
-Then――――
-
----
-
-"Saber...!"
-
-"Fool, did he not kill Saber...!?"
-
----
-
-I raise my head.
-
-The one who has come to protect me from the white-masked Servant is...
-
-"What...?"
-
-"Mm...?"
-
-...A Servant dressed in black, just like Assassin.
-
----
-
-"Ri... der...?"
-
-"――――――――"
-
-There's no doubt about it.
-
-This is Shinji's Servant, Rider.
-
-Why is she here, and why did she save me――――?
-
----
-
-"Are you going to oppose me...!? I don't care, Assassin! Kill her too if she's to get in our way!"
-
-The skull answers Zouken's screamed command.
-
----
-
-The long hair flutters.
-
-Rider silently turns to Assassin and...
-
-...She confronts the daggers that are fired like rain.
-
----
-
-―――They move too quickly for mere human eyes to follow.
-
----
-
-The masked figure leaps about the temple.
-
-He jumps from the wall to the ceiling, then from the ceiling to the floor, hurling daggers from each position.
-
-Coming from all directions, the daggers can neither be blocked nor avoided.
-
----
-
-The relentless onslaught carpets the floor in knives within seconds.
-
-Rider can't manage this.
-
-I know how strong she is from the battle with Saber.
-
-Assassin's attack is something even Saber would have trouble blocking.
-
-It's natural for Rider, who was defeated by Saber in one blow, not to be able to cope with the attack.
-
----
-
-The white skull mercilessly fires his weapons.
-
-―――It...
-
-...Looks like an attack containing irritation.
-
----
-
-"Wha――――"
-
-I realize the abnormality after the superiority is made clear.
-
-...They have not hit her.
-
-Not a single one of the daggers has struck its target.
-
----
-
-"You――――"
-
-A voice comes from overhead.
-
-Apparently out of knives, Assassin looks down at his enemy with undisguised loathing.
-
-There...
-
----
-
-――――Exists one giant serpent.
-
----
-
-"――――――――"
-
-...I can't believe it.
-
-So many.
-
-Rider evaded the countless daggers with pure speed.
-
----
-
-It's different from when she saved me.
-
-Rider avoided all the daggers while crawling on the ground, as if saying there was no need to repel them.
-
----
-
-"What are you playing around for, Assassin...!? You don't need to go easy just because she is my grandson's Servant! Finish her...!"
-
-"I cannot do that―――she is different from before."
-
----
-
-Assassin stares at Rider while clinging to the ceiling.
-
-Rider is different from before.
-
-Her magical energy and coercion is on a whole new level.
-
-Even if she's still not as strong as Saber―――she certainly is stronger than Assassin.
-
----
-
-"Kuh――――why?"
-
-"――――――――"
-
-Rider doesn't answer.
-
-But her body sinks even lower.
-
----
-
-The instant I realize her movement is a gesture to aim at her prey...
-
----
-
-...Rider jumps up to the ceiling, and Assassin jumps down to the floor, their blades clashing in midair.
-
----
-
-"Kii――――!"
-
-"――――――――"
-
-They land facing away from each other.
-
-Rider is unwounded.
-
-In contrast, Rider's dagger is piercing Assassin's shoulder.
-
----
-
-"Kuh――――I can't pull it out――――!?"
-
-Assassin tries to pull out the dagger in his shoulder.
-
----
-
-"――――――――"
-
-Then.
-
-With a clinking of chain links...
-
----
-
-"W――――Whaaaaaat!?"
-
-...Rider hurls Assassin through the air...!
-
----
-
-"Gah, giii――――!"
-
-The skull mask lets out a scream of anguish.
-
-Not saying a word, Rider continues to mercilessly swing Assassin about the room.
-
----
-
-It's just like a flail.
-
-Unable to do anything, Assassin is smashed against every surface in the room, his limbs bending in all directions.
-
----
-
-"Whoa...!"
-
-I duck to avoid Assassin coming around with a whirlwind.
-
----
-
-"Gah, kaga, gah――――!"
-
-This isn't on a level of being strong.
-
-After flailing Assassin to her content, she uses the centrifugal force and lets go.
-
----
-
-It's a hammer throw.
-
----
-
-Assassin, his bones broken, is thrown at a wall head-first.
-
----
-
-"...Oh."
-
-...He flies away.
-
-Like a piece of lifeless trash, the masked Servant bounces through the compound, out the gate, and down the stairs, leaving a trail of blood behind him.
-
----
-
-"Oh... wow..."
-
-...How brutal.
-
-I'm sure Servants aren't so weak as to die from that, but he should be unable to continue fighting, at the very least.
-
----
-
-"Fool――――"
-
-Zouken's presence disappears.
-
-The old magus must think he is at a disadvantage, since he flees after snarling a curse at Rider.
-
-The worms that were squirming in the corner disappear, following their master.
-
----
-
-## Scene 11
+## Scene 00 Sakura complains
 
 
 
@@ -1506,7 +157,7 @@ What did she say to Saber to make her go so far?
 
 ---
 
-## Scene 12
+## Scene 01 Challenging the shadow
 
 
 
@@ -1760,7 +411,7 @@ And Saber says...
 
 ---
 
-## Scene 13
+## Scene 02 Foreseeing the future
 
 
 
@@ -1862,7 +513,7 @@ I feel empty as if my normal everyday life has disappeared.
 
 ---
 
-## Scene 14
+## Scene 03 Rin's advice
 
 
 
@@ -2090,7 +741,269 @@ What have I done to deserve this kind of treatment?
 
 ---
 
-## Scene 15
+## Scene 04 Dead End: Battle of the Holy Grail
+
+
+
+School ends, and I quickly head home.
+
+Since the after-school clubs have been cancelled, the front gate is crowded with students.
+
+---
+
+I look around, but I don't see Tohsaka.
+
+I bet she's already heading to the Matou household.
+
+---
+
+"Sakura's―――not around."
+
+Sakura should head straight to my house since the club activities are cancelled.
+
+But I didn't promise to go home with her, so I bet she already went home.
+
+---
+
+I walk up the empty hill.
+
+It's already been six days since the Holy Grail War started.
+
+The town seems to be slowly losing its liveliness.
+
+---
+
+".........Whoa."
+
+I get dizzy as soon as I climb up the hill.
+
+It feels like nausea.
+
+A faint buzzing reaches my ears.
+
+---
+
+"――――What is this sound?"
+
+The sound echoes on my eardrums even if I cover my ears.
+
+I'm not hallucinating.
+
+I can't be dizzy and be hearing this at the same time by pure chance.
+
+If I get them at the same time, it should be intentional.
+
+---
+
+"Did something happen at the house...!?"
+
+I shake off the dizziness and start running.
+
+Saber's at the house.
+
+As long as Saber's there, the enemy should have a hard time launching an ambush...!
+
+---
+
+I only see Saber's shoes at the front entrance.
+
+"Good, Sakura's not home yet――――!"
+
+Then there's no need to hesitate.
+
+Even if we're under attack, Saber and I can deal with it...!
+
+---
+
+"Are you all right, Saber...!?"
+
+I dash into the living room.
+
+At that instant...
+
+---
+
+...The strength flees from my legs, and I sink to my knees.
+
+---
+
+"Wha――――――――"
+
+I can't move my legs.
+
+The buzzing rings my eardrums, and I lose my sense of balance.
+
+I feel nauseous and cold.
+
+Desperately, I fight it off, willing strength into my body...
+
+---
+
+...And realize that my Command Spell has lost its color.
+
+---
+
+"――――――――"
+
+My mind freezes.
+
+The color of the Command Spell has faded away.
+
+Before I can take in what it means...
+
+---
+
+"I've already dealt with Saber. I can't afford to have any more Servants go to their side."
+
+---
+
+I hear a familiar voice near me.
+
+---
+
+"―――――――――"
+
+I bear the nausea and look up.
+
+---
+
+"I'm sorry, Onii-chan. I wanted to play for a bit longer, but then the situation changed. If you want to curse me, curse the imperfect Holy Grail."
+
+---
+
+The ringing in my ears invades my brain.
+
+The imperceptible sound waves shut down my vision by filling themselves behind my eyeballs.
+
+---
+
+"But don't worry. I won't kill you right away.
+
+You're my trump card against that person. I'll destroy your body here, but I'll put your mind in a puppet.
+
+...Teehee. You won't be able to move after that, but it's better than dying. Right, Onii-chan?"
+
+---
+
+――――The sound permeates my body.
+
+My mind is still frozen.
+
+In the darkness with my senses sealed, I meet my end without even realizing it.
+
+---
+
+## Scene 05 Tiger Dojo 26
+
+
+
+Continuation: Not enough love!
+
+---
+
+Ugh, the one who reformed and graduated from this dojo has been reborn as a devil child. ...Will she really be able to become a heroine?
+
+---
+
+...Well, I guess it's impossible.
+
+Impossible. It's impossible no matter what!
+
+---
+
+I bet she's trembling outside right now, wanting to come back, but can't because of all the big talk she gave me!
+
+---
+
+Well, it's cold outside, so I bet she'll come back with a souvenir around the next dojo.
+
+---
+
+So, this bad end is also because of lack of love.
+
+---
+
+It's obvious whose love you're lacking this time, right? Try getting a bit closer with Illya-chan so that she won't go full out on you.
+
+---
+
+The important points are whether you meet Illya-chan on the 7th day and how you apologize to her.
+
+---
+
+You have to restart from day 5 if you can't meet her on day 7.
+
+You have to consult Tohsaka-san if you see her at school.
+
+---
+
+That's the end of this Tiger Dojo.
+
+Please continue enjoying Sakura-chan's route, where the atmosphere completely changes with the appearance of many new characters.
+
+---
+
+## Scene 06 After school Sunset town
+
+
+
+School ends, and I quickly head home.
+
+Since all the after-school clubs have been cancelled, the front gate is crowded with students.
+
+I look around, but I don't see Tohsaka.
+
+I bet she's already heading to the Matou household.
+
+---
+
+"Senpai? Are you looking for someone?"
+
+"Hm? No, I was just looking at the school. It's rare for everyone to go home like this, right?"
+
+---
+
+"You're right. But we can go home together because of that. Should we stop by the shopping district?"
+
+"Yeah, let's buy stuff for dinner. Fuji-Nee can't come over for a while, so it'll be for me, you, and Saber."
+
+---
+
+We stop by the park after shopping.
+
+There's no one here.
+
+No children playing around. No silver-haired girl in a coat.
+
+---
+
+"...There's no one here. Is this place not used that often?"
+
+---
+
+"I guess that's how it is. There were people here until the sun set when I was a child, but I guess it's like this now except for the holidays."
+
+"I see. It's kind of lonely."
+
+---
+
+I agree and look up at the sky.
+
+The evening sky.
+
+The madder red sky without any birds looks lonely, just like the park.
+
+---
+
+"Let's go. You don't get this time off very often, so we should relax."
+
+We leave the park.
+
+With an energetic reply, Sakura follows after me.
+
+---
+
+## Scene 07 Intermission Truth
 
 
 
@@ -2548,7 +1461,7 @@ His laughter continues.
 
 ---
 
-## Scene 16
+## Scene 08 Peaceful day
 
 
 
@@ -2676,7 +1589,264 @@ Maybe there's some alcohol in the tea, because the passing time feels slow and t
 
 ---
 
-## Scene 17
+## Scene 09 Patrol at night Choice
+
+
+
+―――The town falls asleep.
+
+It's just past ten o'clock, but it seems like it's midnight.
+
+It must be because of all the unexplained comas.
+
+There are no lights, and nobody is walking about.
+
+---
+
+"Finding the shadow and investigating it――――Archer's Master has given us quite the reckless request."
+
+"Yeah. But we have to do it. Are you against it, Saber?"
+
+---
+
+"...I told you my opinion this morning.
+
+So, do you have any clues? We might find ourselves being the target if we wander about aimlessly."
+
+---
+
+...A clue, huh?
+
+I'm not positive, but――――
+
+---
+
+## Scene 10 Investigate the Ryudou Temple
+
+
+
+"Let's go to the Ryuudou Temple again.
+
+...I noticed that Caster was acting strange. I think there's something there."
+
+---
+
+"...Yes. That mountain is filled with an ominous presence. The land there is the spiritual focus of this town. It is worth investigating, regardless of whether the shadow is there."
+
+---
+
+"Then it's decided. Let's go."
+
+We walk to the gate.
+
+We can reach the temple in an hour, if we hurry. We don't have any time to lose, but――――
+
+---
+
+"Saber?"
+
+Saber is looking at the outbuilding.
+
+She is looking at Sakura's room, where Sakura should now be sleeping.
+
+---
+
+"...Shirou. I have something to discuss with you. It follows this morning's conversation."
+
+"...? You mean about Sakura?"
+
+---
+
+"Yes. Sakura's guilty conscience is too strong. She has a tendency of trying to atone for her sins in the present rather than the future."
+
+---
+
+...She must be talking about the quarrel they had yesterday.
+
+Saber said Sakura was right, so Sakura had no reason to worry about it.
+
+---
+
+But Sakura said she was still at fault, went and apologized to Saber, and had Saber apologize to her instead.
+
+Sakura and Saber.
+
+Saber must be worried about the difference in their thought process.
+
+---
+
+"...What do you mean?"
+
+"...Sakura places too much blame upon herself. She punishes herself for her errors instead of correcting them. She brands herself with her dishonor, rather than working to recover her honor. She burdens herself in a good way and a bad way."
+
+---
+
+...She talks with disgust.
+
+It sounds like she's talking about herself more than about Sakura.
+
+---
+
+"...It was clear to me last night. She is special when she is with you, but I believe she behaves differently in other circumstances. Sakura is liberated from her guilty conscience only when she is with you."
+
+---
+
+That is the source of her concern.
+
+Sakura should be able to live with pride without needing to rely on another.
+
+---
+
+"...I see. Sakura certainly is too shy. I'll be careful."
+
+Now that Saber mentions it, it's not healthy for a girl Sakura's age to always be busy helping around the house.
+
+She says it's fun to be here, but she should at least go outside to hang out once in a while.
+
+---
+
+"...Thanks for looking out for Sakura, Saber.
+
+I'm really happy that you're worried about her when she has nothing to do with the Holy Grail War."
+
+---
+
+"...No. I also have a guilty conscience, so it did not seem like someone else's business."
+
+---
+
+"Oh―――hold on, Saber. Let's go together."
+
+We head to the gate together.
+
+We head outside within the silence, trying not to wake Sakura up.
+
+---
+
+## Scene 11 Investigate the park
+
+
+
+"...I say yesterday's park. They say the criminal returns to the scene of the crime――――"
+
+---
+
+"Are you saying the shadow will appear again?
+
+Master. Even if we are fortunate enough to find the shadow there, what would we do? It would be nice if we could defeat it there, but it will become harder to find that shadow if we let it escape. I believe your plan does not solve the main problem."
+
+---
+
+"Ugh."
+
+Saber's right.
+
+We don't even know what that shadow is.
+
+So we shouldn't be trying to find the shadow right now. We should rather be trying to find out what it is, and where it's coming from.
+
+---
+
+"...I guess the Ryuudou Temple then. I noticed that Caster was acting strange. I think there's something there."
+
+---
+
+"Yes. That mountain is filled with an ominous presence. The land there is the spiritual focus of this town.
+
+It is worth investigating, regardless of whether the shadow is there."
+
+"Then it's decided. Let's go."
+
+---
+
+We walk to the gate.
+
+We can reach the temple in an hour, if we hurry. We don't have any time to lose, but――――
+
+---
+
+"Saber?"
+
+Saber is looking at the outbuilding.
+
+She is looking at Sakura's room, where Sakura should now be sleeping.
+
+---
+
+"...Shirou. I have something to discuss with you. It follows this morning's conversation."
+
+"...? You mean about Sakura?"
+
+---
+
+"Yes. Sakura's guilty conscience is too strong. She has a tendency of trying to atone for her sins in the present rather than the future."
+
+---
+
+...She must be talking about the quarrel they had yesterday.
+
+Saber said Sakura was right, so Sakura had no reason to worry about it.
+
+But Sakura said she was still at fault, went and apologized to Saber, and had Saber apologize to her instead.
+
+---
+
+Sakura and Saber.
+
+Saber must be worried about the difference in their thought process.
+
+---
+
+"...What do you mean?"
+
+"...Sakura places too much blame upon herself. She punishes herself for her errors instead of correcting them. She brands herself with her dishonor, rather than working to recover her honor. She burdens herself in a good way and a bad way."
+
+---
+
+...She talks with disgust.
+
+It sounds like she's talking about herself more than about Sakura.
+
+---
+
+"...It was clear to me last night. She is special when she is with you, but I believe she behaves differently in other circumstances. Sakura is liberated from her guilty conscience only when she is with you."
+
+---
+
+That is the source of her concern.
+
+Sakura should be able to live with pride without needing to rely on another.
+
+---
+
+"...I see. Sakura certainly is too shy. I'll be careful."
+
+Now that Saber mentions it, it's not healthy for a girl Sakura's age to always be busy helping around the house.
+
+She says it's fun to be here, but she should at least go outside to hang out once in a while.
+
+---
+
+"...Thanks for looking out for Sakura, Saber.
+
+I'm really happy that you're worried about her when she has nothing to do with the Holy Grail War."
+
+---
+
+"...No. I also have a guilty conscience, so it did not seem like someone else's business."
+
+---
+
+"Oh―――hold on, Saber. Let's go together."
+
+We head to the gate together.
+
+We head outside within the silence, trying not to wake Sakura up.
+
+---
+
+
+## Scene 12 Assassin's attack
 
 
 
@@ -2854,7 +2024,7 @@ The only thoughts in my mind are of concern for Saber.
 
 ---
 
-## Scene 18
+## Scene 13 Interlude Last swordsman
 
 
 
@@ -3126,7 +2296,7 @@ The dislocation of death closes in with a swirl.
 
 With that in front of him...
 
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)!"
+"[wacky len=12]!"
 
 ...Assassin charges at the wave of vacuum with a yell of delight.
 
@@ -3366,7 +2536,972 @@ As her vision fades, the silver swordsman...
 
 ---
 
-## Scene 19
+## Scene 14 The battle at Ryudou Temple
+
+
+
+...Matou Zouken is standing there, his figure just like before.
+
+His body, which Archer sliced in two before my eyes, is whole once more.
+
+The old magus that could only wait for death is laughing, as if that event was an illusion.
+
+---
+
+I don't know how he did it, but if he really did recover from that state, it's more on a level of restoration than recovery.
+
+It's not just healing a wound.
+
+It takes great magecraft to restore a piece of one's body that has been lost.
+
+Then―――isn't this called immortality?
+
+---
+
+"Well. What do you intend with a single piece of wood, child?"
+
+"――――――――"
+
+I stand there while pointing the strengthened stick at Zouken.
+
+---
+
+I can't charge at Zouken, nor can I retreat to follow Saber.
+
+...If Zouken is immortal, a scrap of wood will never be able to match him――――
+
+---
+
+"Will you try to kill me, or will you go after your Servant? Either way, nothing starts until you move."
+
+Something is squirming around the old magus as he speaks.
+
+No, it's not just his surroundings.
+
+The darkness itself is moving, blocking the moonlight.
+
+---
+
+"――――Worms."
+
+I can tell, even though I can't see them.
+
+The darkness is probably swarms of worms.
+
+The walls of this temple are covered in something darker than darkness itself.
+
+This space is filled with the sound of creeping worms and the smell of rotten meat.
+
+---
+
+"Why do you hesitate? Your little alliance cut me in half only yesterday. Did you not cooperate with Tohsaka specifically to kill me?"
+
+---
+
+...It's obvious that he is enjoying this.
+
+I can't fight off thousands of worms with just this stick.
+
+I'll be swallowed in those worms once Zouken gives the order.
+
+---
+
+―――Or maybe...
+
+I might be able to escape if I sprint for the exit.
+
+They are just worms, even if it is a horde of them.
+
+It should take them more than a few seconds to kill a human being.
+
+---
+
+"All right, I shall wait as long as you want.
+
+You can believe in Saber's return and wait here, try to kill me with that weapon of yours, or shake off my worms and try to escape outside. You can choose how you want to die."
+
+---
+
+...Humph.
+
+It seems he has no intention of letting me go.
+
+The worms increase in number as we stand here glaring at one another.
+
+Then――――
+
+---
+
+## Scene 15 Dead End: Die together
+
+
+
+It's obvious that the situation is getting worse by the second.
+
+Then I'll escape this danger while I can still move.
+
+I'll beat that old magus before all those worms can crawl at my body――――!
+
+---
+
+My attack doesn't feel effective.
+
+A diagonal slash cuts the old magus from shoulder to hip. Scraps of flesh scatter across the temple.
+
+---
+
+"My――――! I see, I see. You sure are a resolute child!"
+
+The head on the ground laughs.
+
+---
+
+"――――, ......!"
+
+My weapon crumbles to dust.
+
+―――Damn.
+
+He sacrificed his body just to rot the stick I strengthened...!
+
+---
+
+"It's over now. Your youthful ardor has cost you your only weapon. My, young people lack patience these days."
+
+"......!"
+
+---
+
+I run.
+
+I run, stepping on the worms in my way.
+
+Death follows close on my heels.
+
+I try to escape the waves of worms attacking me.
+
+I ram the black wall with my shoulder...!
+
+---
+
+"I'm out...!"
+
+Unable to stop my momentum, I fall and roll on the ground.
+
+---
+
+"Hah, ah...!"
+
+The worms aren't coming after me.
+
+It must be because I ran frantically, as I end up out on the other side of the compound.
+
+---
+
+"Ouch......"
+
+I must have landed funny, as my whole body is hurt.
+
+"So what? More importantly――――"
+
+---
+
+I have to find Saber as fast as I can.
+
+I have a bad feeling.
+
+I have to see Saber's face, to reassure myself that she's all right――――
+
+---
+
+"――――!"
+
+The water surface rustles.
+
+Sensing danger, I jump back.
+
+---
+
+I get my feet away from the wet mud.
+
+"......!?"
+
+But I'm only able to jump back for a split second.
+
+---
+
+―――A sharp pain.
+
+I feel something strange on my heel and look down.
+
+---
+
+"Wha――――"
+
+It's red.
+
+My feet are missing from the heels down.
+
+---
+
+"...It must be that."
+
+I stepped on numerous worms during my escape.
+
+...The strengthened stick rotted just by slashing at Zouken.
+
+Then it's natural for my feet, which stepped on those worms, to follow the same fate.
+
+---
+
+"Guh...!"
+
+I try to crawl out of the mud using my arms.
+
+---
+
+"Hah. You were close, child. Your decision was correct, but you lacked the necessary skill."
+
+The worm-user's voice echoes.
+
+―――The muddy ground.
+
+Since ancient times, spiders have dwelt in the damp places of the earth.
+
+---
+
+"―――Well, I have obtained Saber.
+
+Too bad. The last reason to keep you alive has disappeared."
+
+---
+
+Worms I've never seen before come scattering down.
+
+Hundreds of poisons that bite on my skin, crawl in my flesh, and melt my bones.
+
+―――I had to bear the unimaginable pain until my consciousness faded away.
+
+---
+
+## Scene 16 Tiger Dojo 27
+
+
+
+Welcome!
+
+This is the familiar Tiger Dojo, the place that saves Shirou, who died from a simple bad choice!
+
+---
+
+This dead end is because you made the wrong decision!
+
+I won't explain in detail, so go back to the previous choice and choose another――――
+
+---
+
+There, trespasser!
+
+---
+
+Ouch!
+
+---
+
+How ridiculous of you to try to take over!
+
+What are you doing here while I was gone, pupil number one!?
+
+---
+
+Ouu... I showed up naturally, but you easily saw through it.
+
+---
+
+How dare you say that, buruma.
+
+---
+
+So, what's gotten into you?
+
+I thought you wouldn't be coming to the dojo because you'd be busy in the main storyline.
+
+---
+
+Eh...ahaha, well, um, the power balance was not what I expected... And, see, I came back, thinking that you might be lonely by yourself.
+
+---
+
+..................And?
+
+---
+
+Ah, um... uhh...
+
+---
+
+Uwaaa, I'm selling my pride!
+
+Please, master, I want to be your pupil again!
+
+---
+
+Okay, I refuse with all my might! Live as a homeless bum, you buruma-girl!
+
+---
+
+All right! That's why I hate you!
+
+Then I'll do it by force! You just watch! I'm going to take over this place next time!
+
+---
+
+Hahaha, I'll take that challenge, you devil-child!
+
+I shall wait and see what you can manage without any magecraft, gahahahaha!
+## Scene 17 Tragic trust
+
+
+
+"――――――――"
+
+.....No.
+
+I can't move recklessly.
+
+I'm worried about Saber. I want to run to her and see if she's all right.
+
+---
+
+But that means turning my back to Zouken.
+
+In this situation, doing so will be fatal.
+
+'―――Please protect yourself there, Shirou.'
+
+That's what Saber said.
+
+Then I have to make my stand, no matter what.
+
+---
+
+"―――Oh. I see, I see. You two must place strong trust in each other."
+
+...I'm not going to let his words tempt me.
+
+I tighten my grip on my weapon and concentrate, anticipating his attacks.
+
+---
+
+"All right. Then let us test our endurance. You can wait and see if you made the right choice."
+
+Murderous intent disappears from Zouken.
+
+The old magus steps back and fades away, as if melting into the darkness of the worms.
+
+---
+
+"――――――――"
+
+His presence is almost gone.
+
+I glare at Zouken, who should still be in front of me.
+
+......
+
+............
+
+..................
+
+........................
+
+.....................And after one minute...
+
+---
+
+"Huh―――――――?"
+
+I hear wind blowing far off, and sudden pain shoots through my left hand.
+
+My left hand is prickling.
+
+My Command Spell is hurting as if it's bleeding.
+
+---
+
+"Saber...?"
+
+I have a bad feeling.
+
+I have a bad feeling.
+
+I have a bad feeling.
+
+The pain on my left hand.
+
+The sound of wind has stopped.
+
+The old magus is laughing with murderous intent that is almost visible.
+
+---
+
+"It seems she has been taken care of. You should be able to tell as a Master. That your Servant has been eliminated from this world!"
+
+---
+
+"――――――――"
+
+My brain stops.
+
+My vision freezes.
+
+What――――is this guy saying?
+
+---
+
+"Why are you shocked? Saber has died. She has been defeated by Assassin, one she took lightly as a weaker opponent. Can you not tell that simple fact?"
+
+"Wh――――――――at?"
+
+---
+
+What the hell is he saying?
+
+My left hand hurts.
+
+My left hand certainly hurts.
+
+But my Command Spell is still there.
+
+It's fading, but it's still there.
+
+Then――――Saber should be coming here any second now――――!
+
+---
+
+"Come, Saber...!"
+
+I scream as if to erase the pain on my left hand.
+
+I put as much magical energy as I can into my left hand.
+
+I don't know how to use the Command Spell.
+
+But if this can answer the Master's wish, it should bring Saber here right away――――
+
+---
+
+"Kuh――――!"
+
+There's no response.
+
+The Command Spell was about to activate, but suddenly stopped.
+
+---
+
+There is nothing wrong with it.
+
+If there is a problem, it is on Saber's end――――
+
+---
+
+"You are doing a meaningless thing. Even a Command Spell cannot resurrect a lost Servant.
+
+Well, even a fool like you should understand now. Saber has been killed by my Servant."
+
+---
+
+"Don't――――"
+
+"Then let us end things here. There are still uses for the daughter of Tohsaka, but you are of no more use. You can die along with Saber on my holy land."
+
+"――――Talk shit, dammit――――!"
+
+---
+
+I run.
+
+I charge at the enemy in front of me, as if to shake off the ominous thought and the pain on my left hand.
+
+---
+
+## Scene 18 Use the Command Spell
+
+
+
+...Should I use the Command Spell...?
+
+I don't think Saber will lose to Assassin.
+
+But this situation is too ominous.
+
+We're fighting this ancient monster. It's too dangerous to have Saber by herself.
+
+---
+
+"Oh? You've suppressed your poorly made murderous intent. Hm, it seems you have a plan."
+
+---
+
+He laughs, mocking me.
+
+He is looking down on me, not caring what plan I have.
+
+---
+
+"――――――――"
+
+...Fine, laugh all you want.
+
+If the Command Spell can answer the Master's wish, I am ready to use them all to bring Saber here...!
+
+---
+
+"Saber――――"
+
+I concentrate on my left hand while glaring at Zouken.
+
+I have only one command.
+
+To summon Saber to my side―――!
+
+---
+
+"Mm......!?"
+
+Even if he realizes what's happening, it's too late.
+
+Heat lights up on my left hand, the concentrated magical energy is released as I wish, and...
+
+...The Command Spell loses its color with a slight pain.
+
+---
+
+"What――――?"
+
+―――I want to think it's because I failed.
+
+I want to think that I used it wrong because I don't know how to use it.
+
+---
+
+"...Phew. It seems it is over already. You surprised me. You shortened my life by ten years."
+
+He laughs.
+
+...I hear wind in the distance, like a death cry.
+
+---
+
+I feel a pain on my left hand.
+
+My left hand is prickling.
+
+My Command Spell loses its heat as if it's bleeding.
+
+---
+
+"No―――――way."
+
+I have a bad feeling.
+
+I have a bad feeling.
+
+I have a bad feeling.
+
+The pain on my left hand.
+
+The sound of wind has stopped.
+
+The old magus is laughing with murderous intent that is almost visible.
+
+---
+
+"That is the truth. You should be able to tell as a Master. That your Servant has been eliminated from this world!"
+
+---
+
+"――――――――"
+
+My brain stops.
+
+My vision freezes.
+
+What――――is this guy saying?
+
+---
+
+"Why are you shocked? Saber has died. She has been defeated by Assassin, one she took lightly as a weaker opponent. Can you not tell that simple fact?"
+
+"Wh――――――――at?"
+
+---
+
+What the hell is he talking about?
+
+My left hand hurts.
+
+My left hand certainly hurts.
+
+But my Command Spell is still there.
+
+It's fading, but it's still there.
+
+Then――――Saber should be coming here any second now――――!
+
+---
+
+"Don't――――"
+
+"Then let us end things here. There are still uses for the daughter of Tohsaka, but you are of no more use. You can die along with Saber on my holy land."
+
+"――――Talk shit, dammit――――!"
+
+---
+
+I run.
+
+I charge at the enemy in front of me, as if to shake off the ominous thought and the pain on my left hand.
+
+---
+
+## Scene 19 True Assassin VS Rider
+
+
+
+"―――――Hah!"
+
+I charge at Zouken and swing my weapon with full force.
+
+I swing my weapon down onto his head.
+
+But something obstructs me, and my whole body is flung away.
+
+---
+
+"Ah――――guh――――!"
+
+My back slams against the wall.
+
+I must have been hit in the stomach, as I can't breathe.
+
+My back is numb as if scorched with fire.
+
+---
+
+I hear worms crawling about by my ear.
+
+The worms by the wall scatter to avoid being crushed by my landing.
+
+...Even the squirming sounds have a mocking tone.
+
+---
+
+"You've made it, Assassin. Then I shall leave the kid to you as well. This is an easy task compared to Saber, so enjoy it all you want."
+
+---
+
+Zouken disappears.
+
+And in his place...
+
+A white, skull mask is smiling in the darkness.
+
+---
+
+...That must be the Servant Assassin.
+
+An assassin with a black outfit and a white mask, appropriate for Matou Zouken.
+
+---
+
+"――――――――"
+
+I'm going to die.
+
+Pain on my left hand.
+
+My numb mind.
+
+My heart accepts the death coming in the next moment and pounds loudly.
+
+---
+
+And I accept the weapons thrown at my forehead, throat, heart, and stomach.
+
+---
+
+A flash of silver light repels the weapons.
+
+The four daggers that tried to take my life are blocked with a sword.
+
+---
+
+"――――"
+
+There's only one person who would do such a thing.
+
+My left hand still hurts.
+
+The Command Spell is still there.
+
+Then――――
+
+---
+
+"Saber...!"
+
+"Fool, did he not kill Saber...!?"
+
+---
+
+I raise my head.
+
+The one who has come to protect me from the white-masked Servant is...
+
+"What...?"
+
+"Mm...?"
+
+...A Servant dressed in black, just like Assassin.
+
+---
+
+"Ri... der...?"
+
+"――――――――"
+
+There's no doubt about it.
+
+This is Shinji's Servant, Rider.
+
+Why is she here, and why did she save me――――?
+
+---
+
+"Are you going to oppose me...!? I don't care, Assassin! Kill her too if she's to get in our way!"
+
+The skull answers Zouken's screamed command.
+
+---
+
+The long hair flutters.
+
+Rider silently turns to Assassin and...
+
+...She confronts the daggers that are fired like rain.
+
+---
+
+―――They move too quickly for mere human eyes to follow.
+
+---
+
+The masked figure leaps about the temple.
+
+He jumps from the wall to the ceiling, then from the ceiling to the floor, hurling daggers from each position.
+
+Coming from all directions, the daggers can neither be blocked nor avoided.
+
+---
+
+The relentless onslaught carpets the floor in knives within seconds.
+
+Rider can't manage this.
+
+I know how strong she is from the battle with Saber.
+
+Assassin's attack is something even Saber would have trouble blocking.
+
+It's natural for Rider, who was defeated by Saber in one blow, not to be able to cope with the attack.
+
+---
+
+The white skull mercilessly fires his weapons.
+
+―――It...
+
+...Looks like an attack containing irritation.
+
+---
+
+"Wha――――"
+
+I realize the abnormality after the superiority is made clear.
+
+...They have not hit her.
+
+Not a single one of the daggers has struck its target.
+
+---
+
+"You――――"
+
+A voice comes from overhead.
+
+Apparently out of knives, Assassin looks down at his enemy with undisguised loathing.
+
+There...
+
+---
+
+――――Exists one giant serpent.
+
+---
+
+"――――――――"
+
+...I can't believe it.
+
+So many.
+
+Rider evaded the countless daggers with pure speed.
+
+---
+
+It's different from when she saved me.
+
+Rider avoided all the daggers while crawling on the ground, as if saying there was no need to repel them.
+
+---
+
+"What are you playing around for, Assassin...!? You don't need to go easy just because she is my grandson's Servant! Finish her...!"
+
+"I cannot do that―――she is different from before."
+
+---
+
+Assassin stares at Rider while clinging to the ceiling.
+
+Rider is different from before.
+
+Her magical energy and coercion is on a whole new level.
+
+Even if she's still not as strong as Saber―――she certainly is stronger than Assassin.
+
+---
+
+"Kuh――――why?"
+
+"――――――――"
+
+Rider doesn't answer.
+
+But her body sinks even lower.
+
+---
+
+The instant I realize her movement is a gesture to aim at her prey...
+
+---
+
+...Rider jumps up to the ceiling, and Assassin jumps down to the floor, their blades clashing in midair.
+
+---
+
+"Kii――――!"
+
+"――――――――"
+
+They land facing away from each other.
+
+Rider is unwounded.
+
+In contrast, Rider's dagger is piercing Assassin's shoulder.
+
+---
+
+"Kuh――――I can't pull it out――――!?"
+
+Assassin tries to pull out the dagger in his shoulder.
+
+---
+
+"――――――――"
+
+Then.
+
+With a clinking of chain links...
+
+---
+
+"W――――Whaaaaaat!?"
+
+...Rider hurls Assassin through the air...!
+
+---
+
+"Gah, giii――――!"
+
+The skull mask lets out a scream of anguish.
+
+Not saying a word, Rider continues to mercilessly swing Assassin about the room.
+
+---
+
+It's just like a flail.
+
+Unable to do anything, Assassin is smashed against every surface in the room, his limbs bending in all directions.
+
+---
+
+"Whoa...!"
+
+I duck to avoid Assassin coming around with a whirlwind.
+
+---
+
+"Gah, kaga, gah――――!"
+
+This isn't on a level of being strong.
+
+After flailing Assassin to her content, she uses the centrifugal force and lets go.
+
+---
+
+It's a hammer throw.
+
+---
+
+Assassin, his bones broken, is thrown at a wall head-first.
+
+---
+
+"...Oh."
+
+...He flies away.
+
+Like a piece of lifeless trash, the masked Servant bounces through the compound, out the gate, and down the stairs, leaving a trail of blood behind him.
+
+---
+
+"Oh... wow..."
+
+...How brutal.
+
+I'm sure Servants aren't so weak as to die from that, but he should be unable to continue fighting, at the very least.
+
+---
+
+"Fool――――"
+
+Zouken's presence disappears.
+
+The old magus must think he is at a disadvantage, since he flees after snarling a curse at Rider.
+
+The worms that were squirming in the corner disappear, following their master.
+
+---
+
+
+
+
+
+
+
+
+
+## Scene 20 Parting and oath
 
 
 
@@ -3648,7 +3783,7 @@ I have to shake off the lingering memory of her in that short time.
 
 ---
 
-## Scene 20
+## Scene 21 What is lost
 
 
 
@@ -4058,7 +4193,7 @@ I have to act strong so the girl who disappeared can be proud of me.
 
 ---
 
-## Scene 21 [Warning: H?]
+## Scene 22 Pupa [H]
 
 
 
@@ -4364,7 +4499,7 @@ Whispers to herself with a sigh of relief.
 
 ---
 
-## Scene 22
+## Scene 23 Intermission Report
 
 
 
@@ -4503,129 +4638,3 @@ His monologue does not reach anyone.
 Lit by the dim light, the priest resembles a prophet seeing into the future.
 
 ---
-
-## Scene 23
-
-
-
-Continuation: Not enough love!
-
----
-
-Ugh, the one who reformed and graduated from this dojo has been reborn as a devil child. ...Will she really be able to become a heroine?
-
----
-
-...Well, I guess it's impossible.
-
-Impossible. It's impossible no matter what!
-
----
-
-I bet she's trembling outside right now, wanting to come back, but can't because of all the big talk she gave me!
-
----
-
-Well, it's cold outside, so I bet she'll come back with a souvenir around the next dojo.
-
----
-
-So, this bad end is also because of lack of love.
-
----
-
-It's obvious whose love you're lacking this time, right? Try getting a bit closer with Illya-chan so that she won't go full out on you.
-
----
-
-The important points are whether you meet Illya-chan on the 7th day and how you apologize to her.
-
----
-
-You have to restart from day 5 if you can't meet her on day 7.
-
-You have to consult Tohsaka-san if you see her at school.
-
----
-
-That's the end of this Tiger Dojo.
-
-Please continue enjoying Sakura-chan's route, where the atmosphere completely changes with the appearance of many new characters.
-
----
-
-## Scene 24
-
-
-
-Welcome!
-
-This is the familiar Tiger Dojo, the place that saves Shirou, who died from a simple bad choice!
-
----
-
-This dead end is because you made the wrong decision!
-
-I won't explain in detail, so go back to the previous choice and choose another――――
-
----
-
-There, trespasser!
-
----
-
-Ouch!
-
----
-
-How ridiculous of you to try to take over!
-
-What are you doing here while I was gone, pupil number one!?
-
----
-
-Ouu... I showed up naturally, but you easily saw through it.
-
----
-
-How dare you say that, buruma.
-
----
-
-So, what's gotten into you?
-
-I thought you wouldn't be coming to the dojo because you'd be busy in the main storyline.
-
----
-
-Eh...ahaha, well, um, the power balance was not what I expected... And, see, I came back, thinking that you might be lonely by yourself.
-
----
-
-..................And?
-
----
-
-Ah, um... uhh...
-
----
-
-Uwaaa, I'm selling my pride!
-
-Please, master, I want to be your pupil again!
-
----
-
-Okay, I refuse with all my might! Live as a homeless bum, you buruma-girl!
-
----
-
-All right! That's why I hate you!
-
-Then I'll do it by force! You just watch! I'm going to take over this place next time!
-
----
-
-Hahaha, I'll take that challenge, you devil-child!
-
-I shall wait and see what you can manage without any magecraft, gahahahaha!

@@ -1,6 +1,10 @@
 # Fate/Zero Volume 4: Flames of Purgatory
 
+![](https://i.imgur.com/pZxxcyG.jpeg)
 
+![](https://i.imgur.com/yEqyXia.jpeg)
+
+![](https://i.imgur.com/EKUo72X.png)
 
 ## Interlude
 
@@ -1342,7 +1346,7 @@ That was the last day of Kiritsugu’s youth –
 
 As he determinedly stepped towards that thorny and uneven path.
 
-
+![](https://i.imgur.com/93lPgD2.png)
 
 ## Act 13
 
@@ -2934,7 +2938,7 @@ And that giant figure looming over the debris and dust was undoubtedly – Serva
 
 Maiya could only hold onto the light machine gun in her hands with utter despair.
 
-
+![](https://i.imgur.com/w8Z23OV.png)
 
 ## Act 14
 
@@ -3445,7 +3449,7 @@ However, no sound could come out of his dry throat. He just stood there dazedly,
 “… No. You can’t cry…”
 
 
-
+![](https://i.imgur.com/zsFlXzh.png)
 
 
 Maiya's last moments
@@ -3571,12 +3575,11 @@ The mechanical tool Emiya Kiritsugu had prepared wasn’t four-wheeled, but two-
 Of course, provided that it would be used by a Servant, an existence beyond ordinary humans, it wouldn’t matter if the motorcycle’s functions ignored the limits of normal drivers. It was originally a ridiculously impractical and hypothetical motorcycle design, but Kiritsugu actually managed to make this design a reality.
 
 
-
+![](https://i.imgur.com/Ak3jw5W.jpeg)
 
 
 The basic body of the motorcycle was the Yamaha V-Max, the most powerful in the modern world. The characteristics of the original 1200cc 140 Horsepower engine, which could already work near its limits, were strengthened again. Moreover, the acceleration system had been completely reinforced, making it a monstrous abnormality with an output equal to 250 Horsepower. That was the silver stallion Saber was now riding.
 
-The basic body of the motorcycle was the Yamaha V-Max, the most powerful in the modern world. The characteristics of the original 1200cc 140 Horsepower engine, which could already work near its limits, were strengthened again. Moreover, the acceleration system had been completely reinforced, making it a monstrous abnormality with an output equal to 250 Horsepower. That was the silver stallion Saber was now riding.
 
 
 
@@ -4178,9 +4181,9 @@ Laughing, Rider continued to deftly slide the chariot from side to side, closing
 
 
 
-The next prey of the sickles was surprisingly the solid asphalt and concrete that covered the surface of the road. Rock had a density and hardness much greater than tree trunks. But the sickles nevertheless mercilessly crushed them to rubble, sending them flying in all directions like droplets, blocking Saber’s way.
+The next prey of the sickles was surprisingly the solid asphalt and concrete that covered the surface of the road. Rock had a density and hardness much greater than tree trunks. But the sickles nevertheless mercilessly crushed them to rubble, sending them flying in all directions like droplets, blocking Saber's way.
 
-
+![](https://i.imgur.com/E8k5BKK.png)
 
 A fatal baptism of rocks much more lethal than tree trunks. But— Saber stared ahead, moving forward bravely, the corners of her mouth suddenly showing an undefeatable smile.
 
@@ -5662,7 +5665,7 @@ Nevertheless, before leaving the room, Kirei once again glanced at the empty gla
 
 Earnestly, he thought – if I can taste such flavor from this wine, I would love to drink it again.
 
-
+![](https://i.imgur.com/kPEMVyt.png)
 
 ## Act 15
 
@@ -7392,7 +7395,7 @@ Dispel all sorrows and chase away all worries.
 
 Soon, she would receive the power to fulfill wishes and become the omnipotent wish-granting vessel that could realize all.
 
-
+![](https://i.imgur.com/WgEAEp9.png)
 
 ## Act 16
 
@@ -8028,7 +8031,7 @@ From the fractured mask was revealed a blackened face.
 
 Nothing remained of the beautiful visage that had once drawn the admiration of many women. Yesterday’s hatred had made him as gaunt and pallid as a phantom; only his eyes, filled with hatred, gave out light. That was the visage of a living dead man who had lost everything to a curse.
 
-
+![](https://i.imgur.com/dqkjrxF.png)
 
 “… Ah…”
 
@@ -8229,10 +8232,8 @@ So there was no further need for words for communication.
 They finally looked directly upon each other with their own eyes; they came to the same conclusion at the same time.
 
 
+![](https://i.imgur.com/eSNElJ3.jpeg)
 
-
-
-To Emiya Kiritsugu, this war was— To Kotomine Kirei, the entire battlefield of Fuyuki was— Everything of everything existed for the sake of bringing down the enemy before them. At this moment and in this place, the curtains opened soundlessly upon the final showdown.
 
 Seven Masters. Seven Servants. All that was merely what could be called the ‘situation’.
 
@@ -8556,7 +8557,7 @@ The king of tyranny smiled at the words of oath. To his servant, that smile was 
 
 "Hm, very well."
 
-
+![](https://i.imgur.com/kWX1wqx.png)
 
 As soon as his heart was enveloped by the uplifting joy - Waver's body was truly lifted into space.
 
@@ -8669,7 +8670,7 @@ Then he realized that, at some point, he had started running on his own feet. Ho
 His golden rival, as though understanding this, said something with an expression of amazement. But he could not hear him. Not even the flashes of light grazing past his ears, with the sounds of violent winds, could reach his ears.
 
 
-
+![](https://i.imgur.com/jZXhIN8.jpeg)
 
 
 What he heard was simply - the sound of the waves. The sound of the waves breaking onto the remote empty shores - of the sea at the world's end. Aah, that was it. With a bright feeling, he understood it. How had he not recognized it during all this time? - This violent throbbing of his heart was the roaring of Oceanus.
@@ -11708,7 +11709,7 @@ She had initially decided not to return here; she had initially believed that sh
 
 But this was not the ending. This was only one point on the endlessly cyclic path.
 
-
+![](https://i.imgur.com/njznRnS.png)
 
 After being released from her contract, the Heroic Spirit named Artoria had not set forth for the ‘Throne of Heroes’, but had been brought back to this place Camlann, because she had not come to the end of her fate’s path; It was necessary that she meets her final end here.
 
@@ -12600,7 +12601,7 @@ Thank you, for letting me find this.
 
 As though he was expressing gratitude to someone for letting him help and save just one person - he showed a smile that could not be surpassed.
 
-
+![](https://i.imgur.com/iuSZvVG.png)
 
 ## Epilogue
 

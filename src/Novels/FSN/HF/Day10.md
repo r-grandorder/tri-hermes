@@ -1,8 +1,249 @@
 # FSN HF Day 10 (EN)
 
 
+## Scene 00 Naive morning
 
-## Scene 00
+
+
+"――――――――"
+
+...I open my eyes.
+
+While staring up at the ceiling, I raise my arm and let it fall to the futon.
+
+---
+
+"――――It's a bit heavy."
+
+I keep my eyes on the ceiling in a daze, not bothering to get up.
+
+...My body feels dull.
+
+I'm not awake yet, and I feel like I need more rest.
+
+Even though it's morning already, I really don't feel like getting up.
+
+---
+
+"Hm... Why am I so tired?"
+
+I try to recall what happened.
+
+――――Then.
+
+---
+
+"――――――――"
+
+At the very least, my sleepiness is blown away in an instant.
+
+---
+
+"――――Um."
+
+I look beside me.
+
+No one is beside me. All I see is my lazy arm.
+
+---
+
+"Oh, so Sakura's already awake."
+
+Then she should be in the kitchen.
+
+Knowing her, I bet she's preparing breakfast and letting me sleep in.
+
+---
+
+"Man, she always pushes herself if I don't stop her."
+
+I raise myself up.
+
+Immediately, dizziness assails me.
+
+---
+
+"...Whoa. My body sure feels heavy."
+
+Maybe I'm tired.
+
+A lot certainly did happen yesterday, but, um... I don't think what happened last night would make me this tired.
+
+I haven't been training for nothing.
+
+It must be because I didn't get that much sleep.
+
+---
+
+"...I couldn't sleep really well. Well, my blood should get flowing once I start moving around."
+
+First of all, Sakura's in a worse state.
+
+And she's pushing herself even harder, so I can't be resting just because I feel a bit tired.
+
+---
+
+Mustering my resolve, I get out from the futon.
+
+"――――Ugh."
+
+And I get dizzy again.
+
+It's not because of fatigue.
+
+It's because, um, my appearance is very unique, causing me to remember what happened last night.
+
+---
+
+"......Um. I have to put some clothes on."
+
+I drag the futon with me as I make my way to the wardrobe.
+
+...Crap.
+
+If this is causing me to blush, how in the hell can I greet Sakura...?
+
+---
+
+"――――――Phew."
+
+I take another deep breath to prepare myself.
+
+---
+
+"――――――――"
+
+It's all right. I've simulated it many times in my head.
+
+It's nothing difficult. I've greeted her numerous times before, so it's weird to be nervous.
+
+---
+
+"All right, I'm going."
+
+I put gasoline into my empty tank.
+
+I turn the key, kick the gas pedal, and enter the living room where Sakura is.
+
+---
+
+""――――Oh.""
+
+Then.
+
+Sakura, who I thought would still be in the kitchen, is in the living room, putting breakfast on the table.
+
+---
+
+"Uh――――g-g-good morning, Senpai."
+
+"Uh――――Yeah. G-Good morning, Sakura."
+
+We both greet each other with tense voices.
+
+---
+
+"Um......... well."
+
+"Uh......... um."
+
+I try to say something, but my head is blank.
+
+---
+
+"――――――――"
+
+"――――――――"
+
+―――This is bad.
+
+It's bad to have silence so early in the morning... no, more than that, as a man, I can't trouble a girl...!
+
+---
+
+"G-Good morning, Sakura...! The food sure looks good!"
+
+I talk stupidly.
+
+...Wait, this greeting isn't any different from the earlier one, you idiot!
+
+---
+
+"Oh, yes! G-Good morning, Senpai!"
+
+"――――――――"
+
+...Um.
+
+I think Sakura's response is the same as well.
+
+---
+
+She looks at me in surprise, evidently thinking the same thing.
+
+To her, I must look the same way.
+
+---
+
+"――――――――Hah."
+
+Thinking about it makes me relax.
+
+We were both nervous, but we were looking forward to seeing each other.
+
+---
+
+"...Phew. This is the third time, but good morning, Sakura."
+
+I give a natural smile and greet her again.
+
+The instant she sees me relax...
+
+"―――Yes. Good morning, Senpai."
+
+Sakura returns the smile and responds for the third time.
+
+---
+
+And so our awkward breakfast starts.
+
+---
+
+"Itadakimasu."
+
+"Yes, itadakimasu."
+
+Even though we can do all the usual formalities, I'm still nervous.
+
+---
+
+"――――――――"
+
+I eat restlessly.
+
+...Sakura must have gotten over it, as she's eating in a good mood.
+
+...Hmm, are girls stronger in this regard?
+
+---
+
+"...? Is something wrong? Oh, do you want more miso soup?"
+
+"―――No, I'm still on my first bowl. But it's good. Yeah, it's really good."
+
+"Yes. I'm confident in today's food, so I'm glad you like it."
+
+---
+
+"――――!"
+
+Her smile makes me choke.
+
+It's embarrassing to be blushing when Sakura's already composed, so I start eating to hide it.
+
+---
+
+## Scene 01 About Rider, who is at the table
 
 
 
@@ -114,7 +355,149 @@ I'm troubled, so――――
 
 ---
 
-## Scene 01
+## Scene 02 Rider mad
+
+
+
+...I hesitate to say it, but it's true.
+
+We're going to be together, so I should be forthright with them now to prevent misunderstandings.
+
+---
+
+"...I'm sorry, but to be honest, I find her hard to deal with. It's not that I hate her, but I get nervous when she's around."
+
+The air becomes heavy.
+
+...Sakura was being considerate, but this only worsens our discord――――
+
+---
+
+"You need not be troubled, Sakura. His reaction is normal."
+
+"Eh... no, you're wrong, Rider. Senpai is just not used to you for now, so..."
+
+---
+
+"I do not mind. His current reaction is preferable. He is stating the truth.
+
+...Yes. It seems he cannot lie, just as you said."
+
+---
+
+"――――――――"
+
+I'm surprised.
+
+Rider can smile kindly like that?
+
+---
+
+"Emiya Shirou. Let me ask you again. You hold no ill will towards me?"
+
+"No. You make me uncomfortable, but I certainly don't hate you."
+
+---
+
+"That is fine. Please maintain that stance.
+
+I am Sakura's Servant. Sakura's safety is always my priority, and circumstances may require me to attack you again. It is for both our benefit to be on guard against each other."
+
+---
+
+"R-Rider...! Please stop. Senpai is important to me, so don't say it like that...!"
+
+"...You're right. I shall withdraw my comment about attacking you.
+
+We shall cooperate for as long as you protect Sakura. Please give me your best regards."
+
+Rider bows politely.
+
+---
+
+"――――――――"
+
+I understand her point.
+
+I don't know when she might become my enemy again, but I feel her determination to protect Sakura.
+
+---
+
+"All right. Let's do our best."
+
+"Yes. That should please Sakura as well. I shall stay in the shadows, so you can protect Sakura in the light."
+
+Rider speaks plainly.
+
+The conversation ends there, and we resume breakfast in the strange atmosphere.
+
+---
+
+## Scene 03 Rider, breakfast? No
+
+
+
+...Hm.
+
+To be honest, I can't quite figure out how to deal with her.
+
+But I already know Rider is my ally.
+
+The reason I can't calm down is not that Rider is here, it's that――――
+
+---
+
+"Aren't you going to eat, Rider? Isn't it hard for you to just sit there when we're both eating?"
+
+Um, I feel bad because it feels like I'm forcing Rider to fast.
+
+---
+
+"I will not eat."
+
+S-She's mad for some reason.
+
+"Why? Servants get hungry too, don't they? Saber ate a lot, even though she didn't say much."
+
+---
+
+"She is different from us. I am not interested in how humans consume nutrition. And―――your manners do not suit me."
+
+---
+
+"Oh. You should've said so if you can't use chopsticks."
+
+"Eh, Senpai?"
+
+"Hold on. I'm going to go get dishes and a spoon for Rider."
+
+---
+
+"...! ―――Yes, then I'll make an omelet. That'll be quick, right?"
+
+"Sakura."
+
+---
+
+"It's all right. This is your first time eating, right? You're going to be doing a lot of things for me, so please let me do at least this much."
+
+Sakura happily says this and comes into the kitchen.
+
+---
+
+"Oh, how about we make some soup while we're at it? We still have some consomme, right?"
+
+"Oh, that sounds good. We have some tomatoes, so let's make this in a flash!"
+
+---
+
+...Sakura starts to cook for Rider.
+
+Rider watches Sakura as she happily starts cooking.
+
+---
+
+## Scene 04 Red card from Sakura and Rider 
 
 
 
@@ -248,149 +631,7 @@ Maybe it's just women's sense of solidarity, but they sure are alike...
 
 ---
 
-## Scene 02
-
-
-
-...I hesitate to say it, but it's true.
-
-We're going to be together, so I should be forthright with them now to prevent misunderstandings.
-
----
-
-"...I'm sorry, but to be honest, I find her hard to deal with. It's not that I hate her, but I get nervous when she's around."
-
-The air becomes heavy.
-
-...Sakura was being considerate, but this only worsens our discord――――
-
----
-
-"You need not be troubled, Sakura. His reaction is normal."
-
-"Eh... no, you're wrong, Rider. Senpai is just not used to you for now, so..."
-
----
-
-"I do not mind. His current reaction is preferable. He is stating the truth.
-
-...Yes. It seems he cannot lie, just as you said."
-
----
-
-"――――――――"
-
-I'm surprised.
-
-Rider can smile kindly like that?
-
----
-
-"Emiya Shirou. Let me ask you again. You hold no ill will towards me?"
-
-"No. You make me uncomfortable, but I certainly don't hate you."
-
----
-
-"That is fine. Please maintain that stance.
-
-I am Sakura's Servant. Sakura's safety is always my priority, and circumstances may require me to attack you again. It is for both our benefit to be on guard against each other."
-
----
-
-"R-Rider...! Please stop. Senpai is important to me, so don't say it like that...!"
-
-"...You're right. I shall withdraw my comment about attacking you.
-
-We shall cooperate for as long as you protect Sakura. Please give me your best regards."
-
-Rider bows politely.
-
----
-
-"――――――――"
-
-I understand her point.
-
-I don't know when she might become my enemy again, but I feel her determination to protect Sakura.
-
----
-
-"All right. Let's do our best."
-
-"Yes. That should please Sakura as well. I shall stay in the shadows, so you can protect Sakura in the light."
-
-Rider speaks plainly.
-
-The conversation ends there, and we resume breakfast in the strange atmosphere.
-
----
-
-## Scene 03
-
-
-
-...Hm.
-
-To be honest, I can't quite figure out how to deal with her.
-
-But I already know Rider is my ally.
-
-The reason I can't calm down is not that Rider is here, it's that――――
-
----
-
-"Aren't you going to eat, Rider? Isn't it hard for you to just sit there when we're both eating?"
-
-Um, I feel bad because it feels like I'm forcing Rider to fast.
-
----
-
-"I will not eat."
-
-S-She's mad for some reason.
-
-"Why? Servants get hungry too, don't they? Saber ate a lot, even though she didn't say much."
-
----
-
-"She is different from us. I am not interested in how humans consume nutrition. And―――your manners do not suit me."
-
----
-
-"Oh. You should've said so if you can't use chopsticks."
-
-"Eh, Senpai?"
-
-"Hold on. I'm going to go get dishes and a spoon for Rider."
-
----
-
-"...! ―――Yes, then I'll make an omelet. That'll be quick, right?"
-
-"Sakura."
-
----
-
-"It's all right. This is your first time eating, right? You're going to be doing a lot of things for me, so please let me do at least this much."
-
-Sakura happily says this and comes into the kitchen.
-
----
-
-"Oh, how about we make some soup while we're at it? We still have some consomme, right?"
-
-"Oh, that sounds good. We have some tomatoes, so let's make this in a flash!"
-
----
-
-...Sakura starts to cook for Rider.
-
-Rider watches Sakura as she happily starts cooking.
-
----
-
-## Scene 04
+## Scene 05 Future plans, Sakura, Rider
 
 
 
@@ -700,449 +941,7 @@ I guess I just can't get along with her all that well.
 
 ---
 
-## Scene 05
-
-
-
-――――And she is left alone.
-
-There is no reason for the boy to fight.
-
-The one who is no longer a Master walks into danger while she, the danger's cause, is resting.
-
-That fact depresses her even more.
-
----
-
-"He has headed to the forest. ―――Do you regret it, Sakura?"
-
-The servant asks her master.
-
-The girl does not nod, but narrows her eyes and shakes her head once.
-
----
-
-"...I can't regret it, Rider. There's no point now."
-
-"You are correct. That was certainly a meaningless question."
-
-"Yes. But it's not all painful. I know it's wrong to say this, but I'm happy. I'm happy that Senpai's doing something for me."
-
-But her face is filled with agony.
-
-The mouth that says she's happy is heavy as if bound by a feeling of guilt.
-
----
-
-"But that's wrong. Grandfather will show no mercy. As long as Senpai keeps fighting, there's a chance that he'll die.
-
-And most of all――――"
-
-It's troubling for her if he stays in the war any longer.
-
-It will bring a bad fate down upon them both.
-
----
-
-That's why she wants him to simply return to his normal life.
-
-She will not last long.
-
-That being the case, she wants him to live.
-
-...But...
-
-At the same time, she clings to hope.
-
-For as long as he fights, she can be with him.
-
-No, it delights her that the person she loves is fighting and getting hurt for her sake.
-
----
-
-She doesn't want him to fight.
-
-But having him fight makes her happy.
-
-The two contradictory wishes compete for control within her.
-
----
-
-"...What a lie. It's not competing at all."
-
-With a pained murmur, she acknowledges the darkness within her.
-
-Yes.
-
-She wants him to fight. She wants him to save her. She wants him to answer her to make up for all the times he did not.
-
-For that reason――――he can get hurt.
-
-And she thinks about something she shouldn't.
-
----
-
-"Hah, kuh......!"
-
-She clutches her chest.
-
-As if responding to her dark passions, the worm within her stirs against her nerves.
-
-...It was only for an instant.
-
-She imagined him getting hurt for a mere instant, and the worm has begun to violate her once again.
-
----
-
-Wriggle, wriggle.
-
-Wriggle, wriggle.
-
-Wriggle, wriggle, wriggle.
-
-The squirming in her body makes her ears ring.
-
-It melts into her blood, causing a chill to run through her body.
-
-The feeling stimulates her, and she thinks her body is lewd and evil.
-
-...The worm that melted into her blood becomes aphrodisiac, heating up her body.
-
-The waves threaten to wash her consciousness away.
-
-She always thinks with her heated head.
-
----
-
-That her limbs are too dirtied to be called human limbs.
-
-Sexual desire easily fills her body, and she clings on the ground in a vulgar manner.
-
-Her panting does not stop, and her hips wriggle like mucus.
-
-It is no different from the thing entangling her nerves.
-
-The worm violates her the more she tries to deny it, her consciousness is melted away, and...
-
-――――She feels like she is a worm herself.
-
-And in the end, an ominous feeling dominates her whole body.
-
----
-
-"Sakura."
-
-"...It's fine. I'm still all right. More importantly, Rider. Please go with Senpai."
-
-"...I shall obey if that is an order. But Sakura. You do not have long to live either. To use me is to shorten your remaining life. Is that fine with you?"
-
----
-
-"...Yes. I won't last long anyway.
-
-I'm fine now, but I lose track of what I'm doing if I let my guard down. ...My memory becomes more vague by the day, and I can't feel anything in my limbs anymore. Even my sense of time is going, so that a day doesn't flow properly for me.
-
-...Like today. It feels like it's been a week since I saw Senpai off."
-
----
-
-She says it as if it's nothing.
-
-...She has accepted death.
-
-She's fighting the ugliness of clinging to hope, and she has ordered her to protect him.
-
----
-
-"―――Understood. I shall obey my master and guard Emiya Shirou."
-
-"Thank you. ...I'm sorry, Rider. If I'm no good anymore, then go make a contract with someone else. I don't want Senpai... but maybe it's okay if it's with you."
-
-She forces a smile.
-
-The Servant in black nods and turns her back to her master.
-
----
-
-"...An ill wind blows. I will be using my Noble Phantasm. Is that permissible?"
-
-"Yes. Please bring Senpai back if things turn out to be dangerous."
-
-"I know. But Sakura.
-
-I believe we should be on guard against that priest over the old man."
-
-Rider speaks without looking back.
-
----
-
-"――――――――"
-
-That's a surprise for her.
-
-This Servant does not state her opinions. She silently does as she is told.
-
-She has never shown concern for her the way she does now.
-
----
-
-"―――Yeah. I think so too."
-
-She murmurs as if singing.
-
-Her grief dispelled, she is now filled with languorous elegance.
-
-"―――But don't worry, Rider.
-
-He can't beat me."
-
-She smiles like a girl picking flowers.
-
----
-
-## Scene 06
-
-
-
-"――――――――"
-
-...I open my eyes.
-
-While staring up at the ceiling, I raise my arm and let it fall to the futon.
-
----
-
-"――――It's a bit heavy."
-
-I keep my eyes on the ceiling in a daze, not bothering to get up.
-
-...My body feels dull.
-
-I'm not awake yet, and I feel like I need more rest.
-
-Even though it's morning already, I really don't feel like getting up.
-
----
-
-"Hm... Why am I so tired?"
-
-I try to recall what happened.
-
-――――Then.
-
----
-
-"――――――――"
-
-At the very least, my sleepiness is blown away in an instant.
-
----
-
-"――――Um."
-
-I look beside me.
-
-No one is beside me. All I see is my lazy arm.
-
----
-
-"Oh, so Sakura's already awake."
-
-Then she should be in the kitchen.
-
-Knowing her, I bet she's preparing breakfast and letting me sleep in.
-
----
-
-"Man, she always pushes herself if I don't stop her."
-
-I raise myself up.
-
-Immediately, dizziness assails me.
-
----
-
-"...Whoa. My body sure feels heavy."
-
-Maybe I'm tired.
-
-A lot certainly did happen yesterday, but, um... I don't think what happened last night would make me this tired.
-
-I haven't been training for nothing.
-
-It must be because I didn't get that much sleep.
-
----
-
-"...I couldn't sleep really well. Well, my blood should get flowing once I start moving around."
-
-First of all, Sakura's in a worse state.
-
-And she's pushing herself even harder, so I can't be resting just because I feel a bit tired.
-
----
-
-Mustering my resolve, I get out from the futon.
-
-"――――Ugh."
-
-And I get dizzy again.
-
-It's not because of fatigue.
-
-It's because, um, my appearance is very unique, causing me to remember what happened last night.
-
----
-
-"......Um. I have to put some clothes on."
-
-I drag the futon with me as I make my way to the wardrobe.
-
-...Crap.
-
-If this is causing me to blush, how in the hell can I greet Sakura...?
-
----
-
-"――――――Phew."
-
-I take another deep breath to prepare myself.
-
----
-
-"――――――――"
-
-It's all right. I've simulated it many times in my head.
-
-It's nothing difficult. I've greeted her numerous times before, so it's weird to be nervous.
-
----
-
-"All right, I'm going."
-
-I put gasoline into my empty tank.
-
-I turn the key, kick the gas pedal, and enter the living room where Sakura is.
-
----
-
-""――――Oh.""
-
-Then.
-
-Sakura, who I thought would still be in the kitchen, is in the living room, putting breakfast on the table.
-
----
-
-"Uh――――g-g-good morning, Senpai."
-
-"Uh――――Yeah. G-Good morning, Sakura."
-
-We both greet each other with tense voices.
-
----
-
-"Um......... well."
-
-"Uh......... um."
-
-I try to say something, but my head is blank.
-
----
-
-"――――――――"
-
-"――――――――"
-
-―――This is bad.
-
-It's bad to have silence so early in the morning... no, more than that, as a man, I can't trouble a girl...!
-
----
-
-"G-Good morning, Sakura...! The food sure looks good!"
-
-I talk stupidly.
-
-...Wait, this greeting isn't any different from the earlier one, you idiot!
-
----
-
-"Oh, yes! G-Good morning, Senpai!"
-
-"――――――――"
-
-...Um.
-
-I think Sakura's response is the same as well.
-
----
-
-She looks at me in surprise, evidently thinking the same thing.
-
-To her, I must look the same way.
-
----
-
-"――――――――Hah."
-
-Thinking about it makes me relax.
-
-We were both nervous, but we were looking forward to seeing each other.
-
----
-
-"...Phew. This is the third time, but good morning, Sakura."
-
-I give a natural smile and greet her again.
-
-The instant she sees me relax...
-
-"―――Yes. Good morning, Senpai."
-
-Sakura returns the smile and responds for the third time.
-
----
-
-And so our awkward breakfast starts.
-
----
-
-"Itadakimasu."
-
-"Yes, itadakimasu."
-
-Even though we can do all the usual formalities, I'm still nervous.
-
----
-
-"――――――――"
-
-I eat restlessly.
-
-...Sakura must have gotten over it, as she's eating in a good mood.
-
-...Hmm, are girls stronger in this regard?
-
----
-
-"...? Is something wrong? Oh, do you want more miso soup?"
-
-"―――No, I'm still on my first bowl. But it's good. Yeah, it's really good."
-
-"Yes. I'm confident in today's food, so I'm glad you like it."
-
----
-
-"――――!"
-
-Her smile makes me choke.
-
-It's embarrassing to be blushing when Sakura's already composed, so I start eating to hide it.
-
----
-
-## Scene 07
+## Scene 06 To the Einzbern forest
 
 
 
@@ -1456,7 +1255,209 @@ Then I'll go to the suburbs and look for the forest entrance that I only saw onc
 
 ---
 
-## Scene 08
+## Scene 07 The two's secret
+
+
+
+――――And she is left alone.
+
+There is no reason for the boy to fight.
+
+The one who is no longer a Master walks into danger while she, the danger's cause, is resting.
+
+That fact depresses her even more.
+
+---
+
+"He has headed to the forest. ―――Do you regret it, Sakura?"
+
+The servant asks her master.
+
+The girl does not nod, but narrows her eyes and shakes her head once.
+
+---
+
+"...I can't regret it, Rider. There's no point now."
+
+"You are correct. That was certainly a meaningless question."
+
+"Yes. But it's not all painful. I know it's wrong to say this, but I'm happy. I'm happy that Senpai's doing something for me."
+
+But her face is filled with agony.
+
+The mouth that says she's happy is heavy as if bound by a feeling of guilt.
+
+---
+
+"But that's wrong. Grandfather will show no mercy. As long as Senpai keeps fighting, there's a chance that he'll die.
+
+And most of all――――"
+
+It's troubling for her if he stays in the war any longer.
+
+It will bring a bad fate down upon them both.
+
+---
+
+That's why she wants him to simply return to his normal life.
+
+She will not last long.
+
+That being the case, she wants him to live.
+
+...But...
+
+At the same time, she clings to hope.
+
+For as long as he fights, she can be with him.
+
+No, it delights her that the person she loves is fighting and getting hurt for her sake.
+
+---
+
+She doesn't want him to fight.
+
+But having him fight makes her happy.
+
+The two contradictory wishes compete for control within her.
+
+---
+
+"...What a lie. It's not competing at all."
+
+With a pained murmur, she acknowledges the darkness within her.
+
+Yes.
+
+She wants him to fight. She wants him to save her. She wants him to answer her to make up for all the times he did not.
+
+For that reason――――he can get hurt.
+
+And she thinks about something she shouldn't.
+
+---
+
+"Hah, kuh......!"
+
+She clutches her chest.
+
+As if responding to her dark passions, the worm within her stirs against her nerves.
+
+...It was only for an instant.
+
+She imagined him getting hurt for a mere instant, and the worm has begun to violate her once again.
+
+---
+
+Wriggle, wriggle.
+
+Wriggle, wriggle.
+
+Wriggle, wriggle, wriggle.
+
+The squirming in her body makes her ears ring.
+
+It melts into her blood, causing a chill to run through her body.
+
+The feeling stimulates her, and she thinks her body is lewd and evil.
+
+...The worm that melted into her blood becomes aphrodisiac, heating up her body.
+
+The waves threaten to wash her consciousness away.
+
+She always thinks with her heated head.
+
+---
+
+That her limbs are too dirtied to be called human limbs.
+
+Sexual desire easily fills her body, and she clings on the ground in a vulgar manner.
+
+Her panting does not stop, and her hips wriggle like mucus.
+
+It is no different from the thing entangling her nerves.
+
+The worm violates her the more she tries to deny it, her consciousness is melted away, and...
+
+――――She feels like she is a worm herself.
+
+And in the end, an ominous feeling dominates her whole body.
+
+---
+
+"Sakura."
+
+"...It's fine. I'm still all right. More importantly, Rider. Please go with Senpai."
+
+"...I shall obey if that is an order. But Sakura. You do not have long to live either. To use me is to shorten your remaining life. Is that fine with you?"
+
+---
+
+"...Yes. I won't last long anyway.
+
+I'm fine now, but I lose track of what I'm doing if I let my guard down. ...My memory becomes more vague by the day, and I can't feel anything in my limbs anymore. Even my sense of time is going, so that a day doesn't flow properly for me.
+
+...Like today. It feels like it's been a week since I saw Senpai off."
+
+---
+
+She says it as if it's nothing.
+
+...She has accepted death.
+
+She's fighting the ugliness of clinging to hope, and she has ordered her to protect him.
+
+---
+
+"―――Understood. I shall obey my master and guard Emiya Shirou."
+
+"Thank you. ...I'm sorry, Rider. If I'm no good anymore, then go make a contract with someone else. I don't want Senpai... but maybe it's okay if it's with you."
+
+She forces a smile.
+
+The Servant in black nods and turns her back to her master.
+
+---
+
+"...An ill wind blows. I will be using my Noble Phantasm. Is that permissible?"
+
+"Yes. Please bring Senpai back if things turn out to be dangerous."
+
+"I know. But Sakura.
+
+I believe we should be on guard against that priest over the old man."
+
+Rider speaks without looking back.
+
+---
+
+"――――――――"
+
+That's a surprise for her.
+
+This Servant does not state her opinions. She silently does as she is told.
+
+She has never shown concern for her the way she does now.
+
+---
+
+"―――Yeah. I think so too."
+
+She murmurs as if singing.
+
+Her grief dispelled, she is now filled with languorous elegance.
+
+"―――But don't worry, Rider.
+
+He can't beat me."
+
+She smiles like a girl picking flowers.
+
+---
+
+
+
+## Scene 08 Meet up with Rin. Mysterious explosion.
 
 
 
@@ -1860,29 +1861,7 @@ I...
 
 ---
 
-## Scene 09
-
-
-
-"――――I'll go too. That's what I came here for."
-
-"Then stay behind me. I'll let Archer lead the way. That way you won't get cut down the moment we get there."
-
----
-
-Tohsaka starts running.
-
-Archer takes form, gives me a single glance, and takes the lead.
-
----
-
-"Please be all right, Illya......!"
-
-I clench the wooden sword in my hand and run after them at full speed.
-
----
-
-## Scene 10
+## Scene 09 Dead End Layered curse of the Womb Realm Mandala
 
 
 
@@ -2076,277 +2055,106 @@ and the original scene will be back in front of me――――
 
 ---
 
-## Scene 11
+## Scene 10 Tiger Dojo 33
 
 
 
-Sounds of wind.
+It is a bit sudden, but...
 
-The wind running through the forest and shaking the trees is something I've heard before.
-
----
-
-"――――――――"
-
-The tremors are growing more intense.
-
-...We're closing in on the source.
-
-It's probably on the other side of that next thicket.
-
-The battle to decide the strongest is raging just behind those dense trees――――
+The entire city of Fuyuki is having a blackout, so we will be training in the dark today.
 
 ---
 
-"...!"
-
-My feet stop.
-
-A second before I burst into the open, I skid to a halt and hide myself.
+I don't care, but it's really dark.
 
 ---
 
-"Berserker...!?"
-
-Tohsaka also hides behind a tree and stares at the disastrous scene in the clearing.
+Yeah, it's really dark.
 
 ---
 
-―――The place is literally a battlefield.
-
-There are three Servants fighting.
-
-One is the black giant, Berserker.
-
-Another is the white, skull-masked killer, Assassin.
-
-And the last one――――the last one is...
+...It's lonely.
 
 ---
 
-"...Hey. Could that be...?"
-
-Tohsaka's voice is shaking.
-
-"――――――――"
-
-I can't really hear her.
-
-Even though she's right next to me, her whisper doesn't register for some reason.
+...Yeah, it's lonely.
 
 ---
 
-The third Servant.
-
-I'm seeing the one clad in black armor for the first time.
-
-But...
-
-"――――No way..."
-
-She reminds me of someone I know really well.
+..................
 
 ---
 
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-9.png)――――!"
-
-The black giant howls.
-
-An attack powerful enough to destroy a mountain swings through empty space, smashing down into the ground.
+..................
 
 ---
 
-"――――――――"
+..................Hey, Illya-chan.
 
-Even the flying rubble does not cause her to falter.
-
-The source of the raging wind must be that black swordsman, and the black figure makes her way through Berserker's sword and the flying clods and attacks at his defenseless body.
+Can I tell you the truth?
 
 ---
 
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
-
-The anguish is the giant's.
-
-His body of steel can nullify almost any attack.
-
-But the black swordsman cuts it like nothing.
-
-The sword stains the giant's side black, just like darkness consuming light.
+...I don't really want to know, but what?
 
 ---
 
-"No, run away, Berserker...! You won't be able to come back if it defeats you...! You don't have to fight anymore, so hurry...!"
-
-Illya sounds like she's crying.
+Yeah. ............Doesn't it feel like there's someone else here?
 
 ---
 
-"It's useless. You cannot run away after being surrounded by them.
-
-Maybe if it was two against one, but even the great hero will lose here with three against one."
-
-Matou Zouken laughs.
+...!!! Stop it, Taiga. Even if it's a joke, geko...!?
 
 ---
 
-The two Masters, Illya and Zouken, confront each other while their Servants stand in front of them as shields.
+Ahaha! That was a funny scream, Illya-chan!
 
 ---
 
-In front of Zouken is Assassin, who must have been defeated by Berserker.
-
-In front of Illya is Berserker, his entire body covered in black.
+..............................................................................................................................
 
 ---
 
-...The ground beneath his feet has turned into a black pond.
+........................Illya-chan?
 
-It is not soil, but a bottomless swamp, sealing his movements.
-
-Not only that, but black veins are coming out of the swamp, restraining the giant's limbs.
+Hey, don't scare me like that. You're the one lying there making weird panting noises, right?
 
 ---
 
-...I know what that is.
-
-That has to be the "black shadow".
-
-But for an instant...
+―――――YES, THAT'S RIGHT, ONEE-CHAN.
 
 ---
 
-"........."
+Gyaaaaaaaaaaaaaa!
 
-It looks like something I know.
-
----
-
-"――――!"
-
-The deafening crash shocks me back to reality.
-
-...The situation is hopeless.
-
-Berserker is strong.
-
-Even though the shadow has nearly engulfed him, he still stands against the swordsman.
+Liar, who are you, gekoko!?
 
 ---
 
-But he's at his limit.
+## Scene 11 To the center of explosion
 
-The black swordsman charges and slashes at Berserker.
 
-Even if they are equally strong, Berserker's movement is further restricted with each passing second.
 
-...Then...
+"――――I'll go too. That's what I came here for."
 
-The balance will only tip further towards the swordsman the longer they fight.
+"Then stay behind me. I'll let Archer lead the way. That way you won't get cut down the moment we get there."
 
 ---
 
-"――――Hm, the match is decided.
+Tohsaka starts running.
 
-I shall leave the rest to you, Assassin. It will be dangerous for me to remain here. Capture the Einzbern girl as soon as Berserker is consumed and return to me."
-
-His figure grows hazy.
-
-He vanishes from the forest, leaving Assassin behind.
+Archer takes form, gives me a single glance, and takes the lead.
 
 ---
 
-"...Look. That thing swallows anything it sees.
+"Please be all right, Illya......!"
 
-All the more if it is a clump of magical energy. Make sure the girl of Einzbern does not get swallowed."
-
----
-
-...His presence, along with his figure, fades away.
-
-Zouken has disappeared.
-
-The only ones remaining are Assassin and Berserker.
-
-And the black swordsman, raising her sword.
+I clench the wooden sword in my hand and run after them at full speed.
 
 ---
 
-"――――No. Even you will die, Berserker. So run away, Berserker."
 
-Illya murmurs in an emotionless voice.
-
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
-
-What did he make of that?
-
-The giant advances with a roar.
-
----
-
-"Wha――――"
-
-His advance is like a storm.
-
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
-
-Berserker charges, kicking away the black shadow that has swallowed him up to his knees.
-
----
-
-It is an impossible action.
-
-The mud below him isn't the only thing binding him, as the black shadow is coiled all about his body.
-
-He cannot move forward.
-
-Berserker cannot even take a step forward with his body bound by the black shadow.
-
----
-
-For that reason, he tore his body apart.
-
-He grabbed his chest, and tore off the black shadow with a sound.
-
-―――He tore off his flesh along with the shadow, going deep enough to expose his bones.
-
----
-
-The giant bursts into motion.
-
-With the force of a whirlwind behind it, the next swing will surely destroy the black swordsman.
-
-It will be his last attack.
-
-He has ripped his body apart and is executing this attack on the verge of his death. There is no way his attack isn't fatal.
-
----
-
-And in response...
-
-The swordsman meets it with her strong attack.
-
----
-
-"No――――stop, Berserker...!"
-
-Illya starts to run.
-
-She dashes frantically to Berserker, as if she doesn't see the shadow expanding at his feet.
-
----
-
-"Illya......!"
-
-I can't do anything even if I go out now.
-
-I have no hope of winning against either the shadow or the swordsman.
-
-But still――――
-
----
-
-## Scene 12
+## Scene 12 Shadow swallowing the castle
 
 
 
@@ -2652,7 +2460,7 @@ The old man's shadow creeps across the ground.
 
 ---
 
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)"
+"[wacky len=12]"
 
 The black giant enters battle without waiting for the girl's order.
 
@@ -2664,941 +2472,278 @@ The black giant, accompanied by a whirlwind, mows down the pressing shadow, but�
 
 ---
 
-## Scene 13
+## Scene 13 Power game
 
 
 
-We run through the forest.
+Sounds of wind.
 
-In front of me is Tohsaka, leading the way.
-
-Behind us is Assassin, pursuing us through the trees.
-
----
-
-"Behind you, Emiya-kun...!"
-
-She must be worried about us. Even though she could've escaped by now, she slows down and turns to look at us.
-
----
-
-"......!"
-
-I know that the enemy is right behind us.
-
-But I can't shake him off.
-
-Servant Assassin is after us.
-
-There's no way I can shake him off when I have Illya with――――
-
----
-
-"――――That is far enough. There is no need for you."
-
----
-
-"What...?"
-
-I hear an ominous voice right by my ear.
-
-When I look to my side...
-
----
-
-I see a white death's head, smiling as he licks the dagger.
-
----
-
-"Guh――――!?"
-
-The masked figure is knocked away.
-
-While running beside me, Assassin was thrown off-guard by a kick to the side.
-
----
-
-"...Hah. So you cannot even kill a kid unless you attack him by surprise, you third-rate?"
-
-Archer does not slacken his pace as he talks.
-
----
-
-"I will take the rear. You take Illya and run.
-
-―――Hurry. We'll all die if that thing catches up to us."
-
-Archer is looking at Assassin and something else that is coming from behind him.
+The wind running through the forest and shaking the trees is something I've heard before.
 
 ---
 
 "――――――――"
 
-...It's after us.
+The tremors are growing more intense.
 
-That shadow is coming after us while staining the ground black――――!
+...We're closing in on the source.
 
----
+It's probably on the other side of that next thicket.
 
-"What is that, Archer...!?"
-
-"We can talk later. Run, kid. You took Illya's hand, so protect her until the very end."
+The battle to decide the strongest is raging just behind those dense trees――――
 
 ---
 
-Archer slows down a bit and goes behind us.
+"...!"
 
-...At that instant.
+My feet stop.
 
-Right before he leaves, he gives Illya a look heavy with regret.
-
----
-
-I go through the forest with the sound of clashing swords at my back.
-
-As Assassin follows, he is obstructed by Archer's efforts.
+A second before I burst into the open, I skid to a halt and hide myself.
 
 ---
 
-"Nu, guh――――"
+"Berserker...!?"
 
-Unable to sustain the offensive, Assassin is once again forced to retreat.
-
-Their attacks are matched.
-
-Even the daggers thrown at me are shot down, and it's obvious that Assassin is not in control of the fight.
-
-But it's not because Assassin is weak.
+Tohsaka also hides behind a tree and stares at the disastrous scene in the clearing.
 
 ---
 
-"Hah――――!"
+―――The place is literally a battlefield.
 
-Archer repels the multitude of daggers.
+There are three Servants fighting.
 
-His vigor is incomparable to before.
+One is the black giant, Berserker.
 
-――――The scales of victory are tipping towards Archer.
+Another is the white, skull-masked killer, Assassin.
 
-I don't know why, but he is as strong as a fierce god right now.
-
----
-
-"Nu――――how can you still move...!?"
-
-With even his strongest attack repelled, Assassin raises his voice as he retreats.
-
-In response...
+And the last one――――the last one is...
 
 ---
 
-"It's simple. I'm not a respectable hero like the others. A heroic spirit that is not pure is no different from that mud.
+"...Hey. Could that be...?"
 
-In other words――――"
+Tohsaka's voice is shaking.
 
-Archer must consider it his chance of victory, as Archer charges.
+"――――――――"
 
-"Although it is not to your degree, I am a distorted heroic spirit as well......!"
+I can't really hear her.
 
-He cuts the white skull with one blow.
-
----
-
-"Gi――――!"
-
-The black cloak scatters in all directions.
-
-Assassin retreats, clutching at his broken mask.
+Even though she's right next to me, her whisper doesn't register for some reason.
 
 ---
 
-It is not a retreat to regroup, but a retreat to save his life.
+The third Servant.
 
-The black Servant runs away from Archer and disappears into the trees.
+I'm seeing the one clad in black armor for the first time.
 
----
+But...
 
-"Nice job...! We don't have to worry about getting overtaken now...!"
+"――――No way..."
 
----
-
-"Thanks for the hard work, Archer. You're tired right? You can return to spirit form and rest."
+She reminds me of someone I know really well.
 
 ---
 
-Tohsaka looks relieved.
+"[wacky len=9]――――!"
 
-"――――Rin!"
+The black giant howls.
 
-Behind her...
-
-"――――Toh-"
-
-It appears, as if born from the trees' shadows.
-
----
-
-"Huh, what?"
-
-She looks behind her.
-
-At the same time, the black shadow extends its tentacle and――――
-
----
-
-"Toh... saka――――"
-
-I won't make it even if I run.
-
-I'll witness Tohsaka getting pierced by that black tentacle.
-
----
-
-"Guh――――"
-
-But the one I actually see impaled is Archer, who pushes Tohsaka aside.
-
----
-
-"Huh......?"
-
-Tohsaka looks up at Archer without comprehension.
+An attack powerful enough to destroy a mountain swings through empty space, smashing down into the ground.
 
 ---
 
 "――――――――"
 
-It's the end for Archer.
+Even the flying rubble does not cause her to falter.
 
-He's still breathing, and he's not bleeding much.
-
-It should be possible for him to heal himself even if he is pierced, as long as it's not fatal.
-
-...But somehow, I understand that Archer cannot fight anymore.
+The source of the raging wind must be that black swordsman, and the black figure makes her way through Berserker's sword and the flying clods and attacks at his defenseless body.
 
 ---
 
-...That thing kills Servants.
+"[wacky len=12]"
 
-No matter how strong a heroic spirit one is, one cannot beat that black shadow as long as one is summoned as a Servant.
+The anguish is the giant's.
 
-I vaguely comprehend that fact for some reason.
+His body of steel can nullify almost any attack.
 
----
+But the black swordsman cuts it like nothing.
 
-"No way... What... are you doing... Archer?"
-
-...Tohsaka must have felt the same thing.
-
-She calls to Archer with a trembling voice, stands up unsteadily, and――――
-
-"Don't come...! Run away, you fool...!"
-
-Archer's shout stops her cold.
+The sword stains the giant's side black, just like darkness consuming light.
 
 ---
 
-―――The black shadow throbs.
+"No, run away, Berserker...! You won't be able to come back if it defeats you...! You don't have to fight anymore, so hurry...!"
 
-The forest is dying.
-
-All the magical energy here is being sucked by that shadow.
+Illya sounds like she's crying.
 
 ---
 
-"――――"
+"It's useless. You cannot run away after being surrounded by them.
 
-For some stupid reason, it reminds me of a water balloon.
+Maybe if it was two against one, but even the great hero will lose here with three against one."
 
-It's like putting more water into an already-full balloon.
-
-It's expanding beyond capacity, and I get the bad image of it explo――――
+Matou Zouken laughs.
 
 ---
 
-"Crap."
-
-We'll get sucked up.
-
-If we stay here, we'll be engulfed for sure.
-
-...Archer pulls out the tentacle that pierced him and starts to run to Tohsaka.
-
-Then I――――
+The two Masters, Illya and Zouken, confront each other while their Servants stand in front of them as shields.
 
 ---
 
-## Scene 14
+In front of Zouken is Assassin, who must have been defeated by Berserker.
 
-
-
-I'll protect Illya.
-
-I can't try to save two people.
-
-Tohsaka has Archer, but Illya has no one.
-
-Then...
-
-I have to take Berserker's place――――!
+In front of Illya is Berserker, his entire body covered in black.
 
 ---
 
-"Get down, Illya...!"
+...The ground beneath his feet has turned into a black pond.
 
-I tackle Illya, forcing her to the ground.
+It is not soil, but a bottomless swamp, sealing his movements.
 
-And the instant I cover her body with my own...
-
-My vision and perception is filled with black.
+Not only that, but black veins are coming out of the swamp, restraining the giant's limbs.
 
 ---
 
-"Oh――――"
+...I know what that is.
 
----
+That has to be the "black shadow".
 
-It's hot.
-
----
-
-My body is almost blown away.
-
-The condensed and released wave of magical energy rages through the forest as a storm.
-
----
-
-It's not there.
-
----
-
-My vision is painted black.
-
-If it's this dark even though I can clearly see, a black sun must have come falling down.
-
----
-
-My body's not there.
-
----
-
-It probably melted from the heat.
-
-My body's not there.
-
-The loss of my sense of touch is more disgusting than the pain.
-
----
-
-"Ha――――ah――――ah――――"
-
-But that's a problem.
-
-I can't protect Illya unless I have a body.
-
-The black shadow tries to take Illya.
-
-I flail my right arm to drive it off.
-
-Embracing her with that same arm, I press her to the ground.
-
----
-
-"Ha――――ah."
-
-And I finally realize.
-
-My body's there. My body must be there, or else I couldn't have protected Illya.
-
-...Man, I panicked too much.
-
-All I lost was my left arm.
-
-That's the only part of me that vanished without trace. The rest of my body is still there.
-
----
-
-...But I still have the sense of loss.
-
-I only lost one of the two.
-
-But it feels like I lost my whole body.
-
----
-
-"――――――――"
-
-...It's disappearing.
-
-The shadow fades away without trace, its energy spent.
-
----
-
-...Illya's safe.
-
-My ears must be numb, as I can't hear what she's saying.
-
----
-
-What... happened to Tohsaka?
-
-Archer is... there.
-
-His red cloak is painted a deeper red, and he's so weakened that he might disappear in the next second.
-
----
-
-...How strange.
-
-Why is she here?
-
----
-
-"――――Have you gone mad? If you do such a thing, you will..."
-
-"I do not even need to think about it. Two will disappear if I do nothing, but one can be saved if we transplant it.
-
-...This body is almost dead anyway. If I am to disappear, it will not make a difference even if my arm is cut off."
-
----
-
-Archer and Rider are talking.
-
----
-
-...What the hell is going on?
-
-And in the end...
-
-"One would normally die. One cannot survive after attaching a spirit body to the human body. But the boy and I are an exception. Rin should treat him appropriately once she wakes up."
-
-He tenderly runs his fingers through Tohsaka's hair.
-
----
-
-――――My vision fades to black.
-
-The dark sun no longer shines on the forest.
-
-Then...
-
-The darkness must be falling on my consciousness.
-
-"――――So this is it. Farewell, Tohsaka."
-
-Archer bids farewell in a voice that sounds just like mine.
-
----
-
-## Scene 15
-
-
-
-Tohsaka is closer to the shadow than us.
-
-Archer is dying, and Tohsaka, still in shock after his injury, cannot move.
-
-Then I'm the only one who can bring her back...!
-
----
-
-"Tohsaka――――!"
-
-I let go of Illya and run towards Tohsaka.
-
-I'll still make it.
-
-There are five meters to Tohsaka, and ten more to the shadow. If I run full-speed and pull her to the side, I'm sure I can manage something――――
-
----
-
-―――And that thought proves to be a mistake.
-
----
-
-The expanded shadow explodes in an instant.
-
-I don't even have time to take her hand.
-
-The shadow tramples over the forest under one breath.
-
-And it mercilessly swallows the prey in its spider's web.
-
----
-
-―――My temperature rises.
-
-A fatal fever from the tropics drives my human body crazy.
-
-There's no vaccine for it,
-
-but my body struggles to get away from the heat,
-
-―――and my mind abandons my body and dies first.
-
----
-
-Without its soul, the flesh is easily swallowed.
-
-As I melt into the black shadow...
-
----
-
-I think I hear the cry of an infant's birth.
-
----
-
-## Scene 16
-
-
-
-In the end, Illya will be coming to my house.
-
-Tohsaka and Illya leave the chapel, arguing.
-
-I guess I can say they're getting along.
-
----
-
-"――――――――"
-
-...Our conversation is over.
-
-It's our problem now, so there's nothing to talk about with Kotomine.
-
----
-
-I follow after them and leave the chapel.
-
-But then...
-
-"Do not forget, Emiya Shirou. That body of yours will no longer permit you to fight."
-
-The priest gives his usual warning.
-
----
-
-"That's not true. It's just that I can't use my left arm. I can still fight."
-
-"I see. By the way, how is Matou Sakura's condition?"
-
-"Sakura's condition...?"
-
----
-
-...That's a bit unexpected.
-
-I thought he was going to make more sarcastic remarks, so why is he suddenly concerned about how Sakura's doing?
-
----
-
-"What's going on? What good would it do for you to care about Sakura?"
-
----
-
-"It seems you do not understand. I am talking about your body.
-
-Look, Emiya Shirou. Your body is in critical condition, but Matou Sakura is carrying a more dangerous bomb. You will be safe if you do not fight, but she is breaking down with each passing second. That is why you cannot stop fighting, even though you know fighting will only bring you closer to death."
+But for an instant...
 
 ---
 
 "........."
 
-"Emiya Shirou has to fight if you are to save Matou Sakura. But now, fighting is like committing suicide for you.
-
-Therefore―――you must understand that saving Matou Sakura means killing yourself."
+It looks like something I know.
 
 ---
 
-"......So what? That doesn't concern you at all."
+"――――!"
 
-I chose to save Sakura.
+The deafening crash shocks me back to reality.
 
-I won't back out on my oath, no matter what happens to my body.
+...The situation is hopeless.
 
----
+Berserker is strong.
 
-"I see. A devotion to offer your life is beautiful.
-
-But is that woman truly so valuable to you?"
-
-"What...?"
+Even though the shadow has nearly engulfed him, he still stands against the swordsman.
 
 ---
 
-"This is your last warning, Emiya Shirou.
+But he's at his limit.
 
-To save a life is to satisfy one's desire.
+The black swordsman charges and slashes at Berserker.
 
-If you would like to keep Matou Sakura alive―――do not forget this until the very end."
+Even if they are equally strong, Berserker's movement is further restricted with each passing second.
 
----
+...Then...
 
-"......"
-
-I go outside.
-
-Tohsaka and Illya are waiting for me there.
-
-Illya is looking up at the sky, and Tohsaka is glaring at me like she wants to complain.
+The balance will only tip further towards the swordsman the longer they fight.
 
 ---
 
-"You're late! What were you talking with Kotomine about, Shirou?"
+"――――Hm, the match is decided.
 
-"Well, it was just his usual criticism――――"
+I shall leave the rest to you, Assassin. It will be dangerous for me to remain here. Capture the Einzbern girl as soon as Berserker is consumed and return to me."
 
----
+His figure grows hazy.
 
-More importantly, there's something that's on my mind, but I don't know if I should bring it up.
-
-...Tohsaka.
-
-Are you calling me by my first name now...?
+He vanishes from the forest, leaving Assassin behind.
 
 ---
 
-"...Hmph, fine. We're short on time, so I'll get right to the point. This is a serious matter, and we don't have much chance of winning if we go our separate ways. I'll forgive you for what you did yesterday, so you'd better be grateful."
+"...Look. That thing swallows anything it sees.
+
+All the more if it is a clump of magical energy. Make sure the girl of Einzbern does not get swallowed."
 
 ---
 
-Her manner is pompous, but her words are even more so.
+...His presence, along with his figure, fades away.
 
-...Um, it's hard to understand, but what Tohsaka wants to say is...
+Zouken has disappeared.
 
----
+The only ones remaining are Assassin and Berserker.
 
-"Tohsaka. Does that mean..."
-
-"Yeah, I'm saying we can cooperate!
-
-First of all, you're unreliable. We're both out to defeat Zouken, so I can cooperate with you!"
+And the black swordsman, raising her sword.
 
 ---
 
-Tohsaka continues angrily.
+"――――No. Even you will die, Berserker. So run away, Berserker."
 
-"――――――――"
+Illya murmurs in an emotionless voice.
 
-It feels like I'm hit in the head with a hammer.
+"[wacky len=12]"
 
-The sudden request is a great fortune.
+What did he make of that?
 
----
-
-"O―――Oh, thank you! I owe you, Tohsaka!
-
-There's no greater help than having you on my side...!"
+The giant advances with a roar.
 
 ---
 
-I take Tohsaka's hand and shake it up and down.
+"Wha――――"
 
-This is troubling.
+His advance is like a storm.
 
-I know I'm being too happy, but I can't stop myself.
+"[wacky len=12]"
 
----
-
-"Hey, I understand! You don't have to thank me, so hold on...!"
-
-Tohsaka retreats quickly.
-
-...Then.
-
-I don't know why, but she looks at my left arm.
+Berserker charges, kicking away the black shadow that has swallowed him up to his knees.
 
 ---
 
-"...Let me ask you beforehand. You do know whose arm that is, right?"
+It is an impossible action.
 
-"...?"
+The mud below him isn't the only thing binding him, as the black shadow is coiled all about his body.
 
-I nod, since it's a matter of course.
+He cannot move forward.
 
----
-
-Tohsaka then takes a deep breath.
-
-"Then you're my Servant from now on, Shirou.
-
-You were saved thanks to my Servant, so that's natural, right?"
-
-...And makes a ridiculous demand.
+Berserker cannot even take a step forward with his body bound by the black shadow.
 
 ---
 
-"Wha―――――"
+For that reason, he tore his body apart.
 
-"―――――What?"
+He grabbed his chest, and tore off the black shadow with a sound.
 
-I'm really lost.
-
-I try to figure out what Tohsaka means.
+―――He tore off his flesh along with the shadow, going deep enough to expose his bones.
 
 ---
 
-"W-What are you saying...!? It's stupid to claim his ownership just because of something like that!"
+The giant bursts into motion.
 
-Yes. Illya can be reasonable, after all.
+With the force of a whirlwind behind it, the next swing will surely destroy the black swordsman.
 
----
+It will be his last attack.
 
-"First of all, you're completely missing the point. Shirou is mine, so there's no
-
----
-
-way he can be yours!"
-
-...I see.
-
-So she's missing the point too.
+He has ripped his body apart and is executing this attack on the verge of his death. There is no way his attack isn't fatal.
 
 ---
 
-"Hey, you're the one talking big. Do you think Shirou is yours because you spared him once? Then that goes for me as well. I was so angry when I met him at school that I almost went berserk myself."
+And in response...
+
+The swordsman meets it with her strong attack.
 
 ---
 
-"That's just because you're immature. I spared him every day, so Shirou's life is obviously mine. I can choose to keep him alive or not, and you have nothing to do with this, so stay out of this."
+"No――――stop, Berserker...!"
+
+Illya starts to run.
+
+She dashes frantically to Berserker, as if she doesn't see the shadow expanding at his feet.
 
 ---
 
-"I have nothing to do with this...? Don't take me so lightly! I can't concern myself this much if I have nothing to do with this...!
+"Illya......!"
 
-Archer entrusted me with him, so I'm going to take responsibility and make sure he stays alive!"
+I can't do anything even if I go out now.
 
----
+I have no hope of winning against either the shadow or the swordsman.
 
-I can almost hear their teeth grinding as they glower at each other.
-
-"......"
-
-I wait for it to end.
-
-...Well.
-
-It's going to be troublesome, no matter who wins.
+But still――――
 
 ---
 
-""So, which one is it!?""
 
----
-
-It seems they've realized that fighting solves nothing, so they've chosen me to make the final decision.
-
----
-
-"What do you mean 'which'?"
-
-"So whose Servant are you? I haven't heard your answer yet, so it's best to clarify it now."
-
----
-
-"Yeah. Rin doesn't seem to realize you don't want her, so you have to be clear.
-
-Come on, say it. You're mine, right?"
-
----
-
-"......"
-
-I don't need to think about it.
-
-The one who has the right to order me around is――――
-
----
-
-## Scene 17
-
-
-
-"It's Tohsaka. I don't even have to think about it."
-
-"W-Why? Rin's oppressive, greedy, and loud like a myna bird. But you still like her more? Are you a pervert?"
-
----
-
-"No. This isn't like that.
-
-This is about whether I'm going to obey Tohsaka, right? Then I'm going to obey her. I can't stop Zouken by myself, and Archer saved my life."
-
----
-
-"That's... because Archer is your..."
-
----
-
-"I'll give her the right to command me. See, that's just like being a Servant. Tohsaka, if that's what you want, it won't bother me at all."
-
-I confirm with Tohsaka.
-
----
-
-"............"
-
-"Tohsaka? Hey, don't ask someone a question and then ignore the answer."
-
----
-
-"Oh―――y-yeah, I'm glad you understand.
-
-My Archer put his trust in you, so we're working together now. He gave everything for you, so work hard and return the favor."
-
-"Of course. I have to return what I borrowed."
-
----
-
-...That's right.
-
-No matter how things ended up this way, my left arm has been replaced by Archer's.
-
-But Archer disappeared without fulfilling his contract with Tohsaka.
-
-It's only right that I succeed the promises he's made.
-
----
-
-## Scene 18
-
-
-
-"―――Um, I guess it's Illya."
-
-I say the name that popped into my head.
-
----
-
-"Yeah! You lucky guy!"
-
-Illya hugs me.
-
-I feel like I'm her brother, so I like how happy she is...
-
----
-
-But Tohsaka is really mad, so my happiness adds up to zero... No, I think it's going in the negatives now.
-
----
-
-"...Hmph. You've gone to a lot of work to flatter a little girl, Emiya-kun. Or what? Do you like little girls?"
-
-Ow... Tohsaka scornfully emphasizes "Emiya-kun" to criticize me.
-
-Her eyes look like they're blaming the socially weak, sending a wave of pain through my stomach.
-
----
-
-"Haha, that's unsightly, Rin. It's unladylike to take out your anger on someone else when you get dumped. That's why Shirou hates you."
-
-"......! D-Don't talk like a grown-up and say such a stupid thing...!
-
-I only talked about common knowledge, and first of all, who was dumped by whom...!?"
-
----
-
-Tohsaka roars.
-
-Illya laughs and keeps hugging me.
-
----
-
-"See, isn't Rin scary, Shirou?
-
-But don't worry. I'll protect you if she tries to do something!"
-
----
-
-Illya makes a big smile and embraces me.
-
-I'm glad.
-
-I'm twice as glad as before, but...
-
-...Please do something about that cold stare of hers that doesn't let me excuse myself.
-
----
-
-"What? If you have something to say, come out and say it."
-
-"It's nothing. Your interests are none of my business. I'm not happy, but I'm not going to say anything about it.
-
-――――But more importantly, why?"
-
-She asks me directly.
-
-But...
-
----
-
-"Well. 'Why'... what?"
-
-I made my choice without thinking, so I actually don't know why I chose Illya.
-
----
-
-"...Unbelievable. Do you really have a thing for little girls?"
-
-"N-No way, you idiot! I-I-I just said it because I felt like it, and I'm Illya's guardian now, so it's natural for me to choose her! Do you have a problem with that...!?"
-
----
-
-Man, I'm being illogical.
-
-"Yeah! You're my Servant, Shirou!"
-
-Tohsaka is utterly stunned, Illya is jumping around in joy, and it's a big mess.
-
----
-
-"......You're taking a defiant attitude now. Well, I'll let this go, but Sakura certainly has it tough."
-
-"――――――――"
-
-I'm curious.
-
-What exactly are you "letting slide," Tohsaka?
-
----
-
-"But don't forget. Even if you don't use it, your arm is mine.
-
-―――You have a responsibility to take Archer's place.
-
-Your body doesn't just belong to you anymore."
-
----
-
-"――――――――"
-
-I can't argue with that.
-
-Tohsaka lost Archer, and my life was saved thanks to his arm.
-
-...Then I have to help Tohsaka in his place.
-
----
-
-".........Yeah, you're right. We'll leave the Servant thing aside for now, but I'll leave you in charge of everything.
-
-I don't know all that much, so it's better if you take care of the plans."
-
----
-
-"That's right. I'm in charge of thinking, and you're in charge of execution. We're cooperating, so I'll make sure you work hard."
-
----
-
-...That's right.
-
-Regardless of how it happened, my left arm has been replaced by Archer's.
-
-But Archer disappeared without completing his contract with Tohsaka. It's only right that I succeed the promise he could not fulfill.
-
----
-
-## Scene 19
+## Scene 14 Rescue Illya-Black swordsman
 
 
 
@@ -4018,1015 +3163,546 @@ Illya takes one sad glance at the mud that swallowed Berserker, then keeps back 
 
 ---
 
-## Scene 20
+## Scene 15 Distraction
 
 
 
-I trudge up the hill.
+We run through the forest.
 
-The town is unlively.
+In front of me is Tohsaka, leading the way.
 
-It's still eight or nine o'clock, but the town is desolate and devoid of any human presence.
-
----
-
-"――――, ――――!"
-
-Before I know it, I'm stopping and leaning against a wall.
-
-My left arm is burning.
-
-Maybe my tension went away by being alone, but my left arm started to hurt ever since I got to this hill.
+Behind us is Assassin, pursuing us through the trees.
 
 ---
 
-"――――Well, of course. Someone else's arm is attached to me, so no wonder it hurts."
+"Behind you, Emiya-kun...!"
 
-...I can't get my breathing together.
-
-My arm gets hotter with every step.
-
-When it gets hotter than my normal temperature, pain attacks my chest from my arm.
+She must be worried about us. Even though she could've escaped by now, she slows down and turns to look at us.
 
 ---
 
-"Oh... So that's where it hurts instead of the arm, huh?"
+"......!"
 
-I lean on a fence and take a deep breath.
+I know that the enemy is right behind us.
 
-...I think I understand where the pain is coming from.
+But I can't shake him off.
 
-Basically, it's trying to cool off.
+Servant Assassin is after us.
 
-I don't know how, but my left arm gets hotter every time it moves.
-
-When it overheats, the arm sends the excess to the rest of my body.
+There's no way I can shake him off when I have Illya with――――
 
 ---
 
-"――――!"
-
-That heat is enough to burn me, causing the pain.
-
-The heat enters my body with a sharp pain, and it's more like a cut than a burn.
-
-Every time I feel the red dizziness, I feel like I'm getting a long knife inserted from my shoulders and churned inside of me.
+"――――That is far enough. There is no need for you."
 
 ---
 
-"Guh――――haa, ha――――...!"
+"What...?"
 
-...It's not something I can bear many times.
+I hear an ominous voice right by my ear.
 
-I've had my stomach torn by Berserker and my ribs crushed by Rider.
-
-Even with such experiences in mind, the prospect of getting stabbed by my own body sends a chill through me.
+When I look to my side...
 
 ---
 
-"It's fine, calm down――――it'll calm down if I don't let it get hotter――――"
-
-I try to relax while looking up at the sky.
-
-It's been twenty minutes since I parted with Tohsaka and Illya.
-
-I should've been home by now, but I can't let Sakura see me like this.
-
-...I have to keep the abnormality of my left arm to myself.
+I see a white death's head, smiling as he licks the dagger.
 
 ---
 
-"―――Damn Kotomine. What did he mean, it wouldn't interfere with my ordinary life? This can't be handled easily―――"
+"Guh――――!?"
 
-I place my hand on my left shoulder and press against the arm covered in red cloth.
+The masked figure is knocked away.
 
-Hard and rigid as steel, it doesn't even budge.
-
----
-
-...Well.
-
-I've stopped sweating, and my breathing is back to normal.
-
-It's getting late, so I should quickly go home and see Sakura while I still look well――――
+While running beside me, Assassin was thrown off-guard by a kick to the side.
 
 ---
 
-"I'm home!"
+"...Hah. So you cannot even kill a kid unless you attack him by surprise, you third-rate?"
 
-After taking a deep breath, I holler out and enter my house.
-
-"...Oh... Welcome home, Senpai."
-
-Maybe Sakura's been waiting all this time, because she's already at the entrance.
+Archer does not slacken his pace as he talks.
 
 ---
 
-"...? You don't look lively. I'm glad you're welcoming me home, but I can't be happy when you're making a face like that."
+"I will take the rear. You take Illya and run.
 
----
+―――Hurry. We'll all die if that thing catches up to us."
 
-I take off my shoes and go up into my house.
-
-I want to rest for today.
-
-I'll fill her in on what's happened today after I drink a cup of tea in the living room.
-
----
-
-"...Wait, I can't do that. I have to tell her what's going on first."
-
-Tohsaka will be coming soon.
-
-I have to tell her about what's going on beforehand, or she'll be on guard against Tohsaka.
-
----
-
-"Sakura, it's about what happened today."
-
-"...Senpai. Aren't you going to say anything about that?"
-
-...Then.
-
-Sakura says something with difficulty.
-
----
-
-"What do you mean?"
-
-"............"
-
-She keeps silent.
-
-She's looking at my left arm.
-
----
-
-"Oh, you mean this? Yeah, I'm sure you're surprised if it looks like this."
-
-It's covered with cloth that doesn't look anything like bandages.
-
-Even if she doesn't know what went on, she would assume something happened to my arm.
-
----
-
-"Yeah, I injured it a bit. But it moves fine, and it's all right now. This cloth is just a bother, but Kotomine told me not to take it off.
-
-Well, he's the one who treated me, so I'm going to obey him."
-
----
-
-I pat my left arm to show her it's all right.
-
-...But Sakura is even more silent now.
-
----
-
-"Sakura...? It's really fine. It looks worse than it is. It's just a scratch. It'll heal right away, so you don't need to worry――――"
-
----
-
-"I-It can't be just a scratch...! Your arm's gone now! So how can you tell me that...!?
-
-I won't fall for such an obvious lie! Or are you not telling me because it's meaningless...!?"
+Archer is looking at Assassin and something else that is coming from behind him.
 
 ---
 
 "――――――――"
 
-Her reply is like fire.
+...It's after us.
 
-...My insensitivity leaves me speechless.
-
-I haven't even considered how Sakura felt all day today, waiting for me here.
+That shadow is coming after us while staining the ground black――――!
 
 ---
 
-"―――――Sakura."
+"What is that, Archer...!?"
 
-"Oh...... I'm sorry, Senpai. I-I didn't mean to blame you. ...You were so reckless and didn't care about yourself, so I..."
-
----
-
-"―――No. Well, you're right, but you're wrong.
-
-I'm not mad because you yelled at me. ...Um, this is the first time I've seen you seriously mad, so I was surprised and was contemplating my actions."
+"We can talk later. Run, kid. You took Illya's hand, so protect her until the very end."
 
 ---
 
-"Eh... Contemplating...?"
+Archer slows down a bit and goes behind us.
 
-"Yeah. It's certainly not good to bluff. All the more if it's to you. ...I probably didn't want to look bad in front of you. That's why I bluffed and tried to act normal.
+...At that instant.
 
-But now that I think about it, that looks worse. It's natural for you to get mad."
-
----
-
-"Oh... No, you never look bad."
-
-I do look bad.
-
-...Man, don't tell Sakura about it so she doesn't get worried?
-
-No, I was just putting on a show to look tough.
+Right before he leaves, he gives Illya a look heavy with regret.
 
 ---
 
-"―――Yeah, I'm sorry, Sakura. I lost.
+I go through the forest with the sound of clashing swords at my back.
 
-My arm turned out fine, but I couldn't be of use to you."
-
----
-
-"Oh―――that's not true...! You were splendid! I-I didn't see it, but you looked really good!"
+As Assassin follows, he is obstructed by Archer's efforts.
 
 ---
 
-"Ugh... No, I really was pathetic, so it hurts me if you say that. I couldn't save Illya like I'd planned, and all I could do was come running home."
+"Nu, guh――――"
+
+Unable to sustain the offensive, Assassin is once again forced to retreat.
+
+Their attacks are matched.
+
+Even the daggers thrown at me are shot down, and it's obvious that Assassin is not in control of the fight.
+
+But it's not because Assassin is weak.
 
 ---
 
-"...No. But you still came home. I'm really happy because you kept your promise."
+"Hah――――!"
+
+Archer repels the multitude of daggers.
+
+His vigor is incomparable to before.
+
+――――The scales of victory are tipping towards Archer.
+
+I don't know why, but he is as strong as a fierce god right now.
 
 ---
 
-"Oh――――yeah. That's good."
+"Nu――――how can you still move...!?"
 
-I scratch my head.
+With even his strongest attack repelled, Assassin raises his voice as he retreats.
 
-...But, well...
-
-I'm embarrassed, but happy at the same time.
+In response...
 
 ---
 
-"...You're right. I guess being alive is good enough."
+"It's simple. I'm not a respectable hero like the others. A heroic spirit that is not pure is no different from that mud.
 
-"――――Yes. You're good-looking. I fell in love with you all over again."
+In other words――――"
 
----
+Archer must consider it his chance of victory, as Archer charges.
 
-"――――――――!"
+"Although it is not to your degree, I am a distorted heroic spirit as well......!"
 
-Sakura must have cheered up if she can say something like that with a big smile.
-
----
-
-"Uh...... um."
-
-I don't know how to reply to something like that, so...
-
-"Um, what should I say, Tohsaka?"
-
-"Who knows? If you want my opinion, I just don't want you two flirting too much at the door."
-
-...I ask Tohsaka, who is standing behind me.
+He cuts the white skull with one blow.
 
 ---
 
-""――――Huh?""
+"Gi――――!"
 
-Our voices overlap.
+The black cloak scatters in all directions.
 
-Sakura and I both jump back at the same time.
-
-"S-Since when were you there, Tohsaka――――!?"
-
-"Why are you here, Tohsaka-Senpai?"
-
-And we give the same reaction again.
+Assassin retreats, clutching at his broken mask.
 
 ---
 
-"'Since when?' I thought you'd be done filling her in already, but instead I find the two of you having a lovers' quarrel. Geez, do you even understand our situation, Shirou?"
+It is not a retreat to regroup, but a retreat to save his life.
+
+The black Servant runs away from Archer and disappears into the trees.
 
 ---
 
-Tohsaka sets down a large bag next to the door.
-
-Behind her is...
+"Nice job...! We don't have to worry about getting overtaken now...!"
 
 ---
 
-Illya, silently radiating a strange pressure.
+"Thanks for the hard work, Archer. You're tired right? You can return to spirit form and rest."
 
 ---
 
-"I-I don't mind if you want to continue where we left off yesterday, Tohsaka-Senpai.
+Tohsaka looks relieved.
 
-I'll fight you as Matou's magus as long as Senpai's protecting me."
+"――――Rin!"
 
----
+Behind her...
 
-Sakura clenches her fists and glares at Tohsaka.
+"――――Toh-"
 
-...Well, it's more like a frog desperately opposing a glaring snake.
-
----
-
-"......Geez. So you haven't heard anything about it?
-
-Look, Sakura. I'm going to put on hold what to do with you. My first priority is to defeat Zouken. We can settle our match after that. ...Well, we won't need to fight after Zouken's defeated, so everything should be fine as long as we can defeat him."
+It appears, as if born from the trees' shadows.
 
 ---
 
-"Eh――――then you're..."
+"Huh, what?"
+
+She looks behind her.
+
+At the same time, the black shadow extends its tentacle and――――
 
 ---
 
-"I'm going to ally with you―――no, with Shirou ―――to defeat Zouken. So it'd be a waste to live separately, right? So I'm going to stay over here and train Shirou. It'll be hard work if I want him to become strong in a short time."
+"Toh... saka――――"
+
+I won't make it even if I run.
+
+I'll witness Tohsaka getting pierced by that black tentacle.
 
 ---
 
-"So I'm going to borrow Shirou for a while. It's going to be rough, but you two don't mind, right?"
+"Guh――――"
 
-""Wha――――""
-
-Tohsaka Rin sets a schedule even I haven't heard about.
+But the one I actually see impaled is Archer, who pushes Tohsaka aside.
 
 ---
 
-"H-Hold on, Tohsaka. That's too sudden――――"
+"Huh......?"
+
+Tohsaka looks up at Archer without comprehension.
 
 ---
-
-"Y-You can't do that...!
-
-Nee... no, Tohsaka-Senpai. What right do you have to say that!?"
-
-".........I have to be mentally prepared first, you know?"
-
----
-
-I stutter off.
-
-Of course, my opinion is dismissed by Sakura's voice and Tohsaka's glance.
-
----
-
-"Oh, so it's fine as long as I have the right? Then it's even less of a problem. It's because of me that he's alive.
-
-Shirou has to do what I say until he repays the favor. You'll give me a place to live if I ask, and you'll make meals for me if I ask, right?"
 
 "――――――――"
 
-Tohsaka. Those lines could bring on a big misunderstanding.
+It's the end for Archer.
+
+He's still breathing, and he's not bleeding much.
+
+It should be possible for him to heal himself even if he is pierced, as long as it's not fatal.
+
+...But somehow, I understand that Archer cannot fight anymore.
 
 ---
 
-"No way... I-Is that true, Senpai...?"
+...That thing kills Servants.
 
-"―――Yeah. I want to object, but what she's saying is true."
+No matter how strong a heroic spirit one is, one cannot beat that black shadow as long as one is summoned as a Servant.
+
+I vaguely comprehend that fact for some reason.
+
+---
+
+"No way... What... are you doing... Archer?"
+
+...Tohsaka must have felt the same thing.
+
+She calls to Archer with a trembling voice, stands up unsteadily, and――――
+
+"Don't come...! Run away, you fool...!"
+
+Archer's shout stops her cold.
+
+---
+
+―――The black shadow throbs.
+
+The forest is dying.
+
+All the magical energy here is being sucked by that shadow.
 
 ---
 
 "――――"
 
-"And it's better to have more allies, right? We know Zouken is after you. With Tohsaka's help, we can definitely protect you."
+For some stupid reason, it reminds me of a water balloon.
 
-...And Tohsaka is Sakura's older sister.
+It's like putting more water into an already-full balloon.
 
-If possible, I want them to be together, not fighting.
-
----
-
-"......All right. I understand if you say so."
-
-Sakura averts her gaze.
+It's expanding beyond capacity, and I get the bad image of it explo――――
 
 ---
 
-## Scene 21
+"Crap."
 
+We'll get sucked up.
 
+If we stay here, we'll be engulfed for sure.
 
-"Then it's decided. I'm coming in.
+...Archer pulls out the tentacle that pierced him and starts to run to Tohsaka.
 
-Come on, Shirou, show me the guest room. I had my eyes on the guest room in the outbuilding last time I was here. Oh, where do you want, Illya?"
-
----
-
-"I don't care, but I don't want to be near that woman."
-
-"Is that so? Then I guess you can have the Japanese-style room."
-
-They're carrying on a relaxed conversation, and it sounds like they're close enough now to call each other by name.
+Then I――――
 
 ---
 
-## Scene 22
+## Scene 16 World purge, meltdown
 
 
+Tohsaka is closer to the shadow than us.
 
-"Then it's decided. I'm coming in.
+Archer is dying, and Tohsaka, still in shock after his injury, cannot move.
 
-Come on, Shirou, show me the guest room. I had my eyes on the guest room in the outbuilding last time I was here. Oh, where do you want, Illya?"
-
-"――――――――"
-
----
-
-"Illya? Why are you spaced out? You were so happy we were going to stay at Shirou's house."
-
-"...That's not true. I was never happy."
+Then I'm the only one who can bring her back...!
 
 ---
 
-A weak voice.
+"Tohsaka――――!"
 
-Illya hangs her head and stares at the floor.
+I let go of Illya and run towards Tohsaka.
 
-...As if saying the small step up is a towering wall.
+I'll still make it.
 
----
-
-"――――Shirou.
-
-Let me ask. Where is that woman sleeping?"
-
-Then.
-
-What happened to her depressed attitude? Illya's now glaring at Sakura.
+There are five meters to Tohsaka, and ten more to the shadow. If I run full-speed and pull her to the side, I'm sure I can manage something――――
 
 ---
 
-"...? Um, Sakura's sleeping in the guest room in the outbuilding."
-
-"I see. Then you can go to the outbuilding by yourself, Rin. I don't care where I am, as long as it's not in the outbuilding."
-
-"Is that so? Then I guess you can have the Japanese-style room."
-
-They're carrying on a relaxed conversation, and it sounds like they're close enough now to call each other by name.
+―――And that thought proves to be a mistake.
 
 ---
 
-## Scene 23
+The expanded shadow explodes in an instant.
 
+I don't even have time to take her hand.
 
+The shadow tramples over the forest under one breath.
 
-"――――――――, So hot."
-
-I wake up.
-
-My pajamas are drenched in sweat, and my futon is kicked away.
-
-I wipe my forehead and feel that it's wet with sweat.
+And it mercilessly swallows the prey in its spider's web.
 
 ---
 
-"――――――――"
+―――My temperature rises.
 
-...I can't think straight.
+A fatal fever from the tropics drives my human body crazy.
 
-My brain might be fried from the midsummer-like heat.
+There's no vaccine for it,
 
-I can't figure out what time it is or where I am, no matter how hard I think.
+but my body struggles to get away from the heat,
 
----
-
-"――――――――"
-
-I go out into the yard.
-
-I want to cool off my body more than anything.
-
-...I don't know if the heat is coming from the room or my body.
-
-I'm too lazy to think, so I'll sleep in the shed tonight.
-
-It's cold there, at the very least.
-
-It doesn't matter if it's hot or...
+―――and my mind abandons my body and dies first.
 
 ---
 
-"Guh――――, ah――――!"
+Without its soul, the flesh is easily swallowed.
 
-A sudden, sharp pain brings me to my knees.
-
-"――――. Ow――――"
-
-I stay crouched, breathing heavily.
+As I melt into the black shadow...
 
 ---
 
-...I wake up.
-
-I squeeze my left arm, the cause of the heat and the pain.
-
-The Shroud is still wrapped around it.
-
-The red cloth is restraining my arm.
-
-I can move it, but it's wrapped so tight that the circulation is restricted.
-
-Maybe this cloth is the cause of the pain.
+I think I hear the cry of an infant's birth.
 
 ---
 
-"Maybe my arm's just as it was if I take it off."
+## Scene 17 Tiger Dojo
 
-The wild idea sounds very attractive.
 
-First of all, I never saw my arm destroyed or transplanted.
 
-It's not that I don't trust that priest, but I'm sure he makes mistakes too.
+Osu! We're starting the Tiger Dojo, the place to save those that could not escape and died even after a strategic retreat.
 
 ---
 
-Maybe nothing is wrong with my arm, and my real arm will be there if I take off this cloth.
-
-My arm isn't steel.
-
-The cloth is just making my arm stiff, so if I remove it――――
+Yeah, yeah, we're starting. Geez, this is boring.
 
 ---
 
-## Scene 24
-
-
-
-―――My normal arm should be there.
+Hah!
 
 ---
 
-Wha I can't brea my nerves, my nerves
+Why sulk, pupil number one!? I told you it's against the rules to bring emotion from the main story into this dojo!
 
 ---
 
-It hurts
+Okaaay.
+
+But I really can't back him up this time.
 
 ---
 
-I'm alive but where is my sense
+Hm, this is the worst sulking I've seen out of you. Do you hate the fact that he put priority on Tohsaka-san?
 
 ---
 
-It's cold
+...No. I just thought it wasn't fair for Archer.
 
 ---
 
-Death―――― hurry I have to quickly get it back on
+Hmm. Some hidden circumstances I don't understand.
 
 ---
 
-It's scary
+Oh, well. Tohsaka-san, Archer-san, Shirou, and Illya-chan all died together in a friendly manner!
 
 ---
 
-The arm below the cloth is
+Hey, it's no laughing matter, you dumb tiger!
 
 ---
 
-It's black
+Geez, we're done for today!
 
 ---
 
-An arm that is not mine――――
+You are to go back to the choice and obey Archer's words.
+
+You can't turn off the game today until you get out of the forest!
+
+## Scene 18 Blood out
+
+
+
+I'll protect Illya.
+
+I can't try to save two people.
+
+Tohsaka has Archer, but Illya has no one.
+
+Then...
+
+I have to take Berserker's place――――!
 
 ---
 
-"What――――was I doing?"
+"Get down, Illya...!"
 
-What was I doing?
+I tackle Illya, forcing her to the ground.
 
-I unwrapped the cloth because of this sudden idea.
+And the instant I cover her body with my own...
 
-I don't understand what happened after that.
-
-What has been done to me.
-
-What will be done to me.
-
-It only happened a few seconds ago, but I can't remember at all――――
+My vision and perception is filled with black.
 
 ---
 
-"――――This is bad. It's really..."
-
-I'll die if I release it.
-
-The priest's words were true.
-
-I don't know what'll happen, but what's under this cloth is not mine.
+"Oh――――"
 
 ---
 
-"......Forget about it. It's just that my arm doesn't move. ...If I think about it any more, I'll..."
-
-I'll slow down because of fear.
-
-That's not allowed.
-
-Archer's arm wasn't transplanted onto me so that I could cower in fear.
+It's hot.
 
 ---
 
-"...That's right. I have to think about Sakura instead of my arm."
+My body is almost blown away.
 
-Sakura wasn't that different from this morning, but I don't know when she might collapse.
+The condensed and released wave of magical energy rages through the forest as a storm.
 
-...I have to defeat Zouken and obtain the Holy Grail before that.
+---
 
-I have to think about how to do that.
+It's not there.
 
-A way to beat Zouken and Assassin with one arm.
+---
 
-...No, they aren't the only enemies.
+My vision is painted black.
 
-There are the mysterious enemies too.
+If it's this dark even though I can clearly see, a black sun must have come falling down.
+
+---
+
+My body's not there.
+
+---
+
+It probably melted from the heat.
+
+My body's not there.
+
+The loss of my sense of touch is more disgusting than the pain.
+
+---
+
+"Ha――――ah――――ah――――"
+
+But that's a problem.
+
+I can't protect Illya unless I have a body.
+
+The black shadow tries to take Illya.
+
+I flail my right arm to drive it off.
+
+Embracing her with that same arm, I press her to the ground.
+
+---
+
+"Ha――――ah."
+
+And I finally realize.
+
+My body's there. My body must be there, or else I couldn't have protected Illya.
+
+...Man, I panicked too much.
+
+All I lost was my left arm.
+
+That's the only part of me that vanished without trace. The rest of my body is still there.
+
+---
+
+...But I still have the sense of loss.
+
+I only lost one of the two.
+
+But it feels like I lost my whole body.
 
 ---
 
 "――――――――"
 
-I don't know their circumstances.
+...It's disappearing.
 
-I don't know what that black shadow is, nor if Saber became Zouken's Servant.
-
-All I know is that she's my enemy now.
+The shadow fades away without trace, its energy spent.
 
 ---
 
-"........."
+...Illya's safe.
 
-...To be honest, I know.
-
-We have no chance of victory.
-
-I don't know what this pain will be like in the future.
-
-The difference in our powers is overwhelming, and I'm not even sure about myself.
-
-How can I protect Sakura in such a state――――?
+My ears must be numb, as I can't hear what she's saying.
 
 ---
 
-## Scene 25
+What... happened to Tohsaka?
 
+Archer is... there.
 
-
-"――――――――Phew."
-
-I release the depression in my lungs.
-
-Such a ridiculous story.
-
-Why believe in such a convenient deception?
-
-I bet Tohsaka will get really mad before she laughs at me if she saw me like this.
+His red cloak is painted a deeper red, and he's so weakened that he might disappear in the next second.
 
 ---
 
-"...It's fine. It's just that my arm doesn't move, so it's not a big deal. I have other things to worry about."
+...How strange.
+
+Why is she here?
 
 ---
 
-Sakura is a bigger problem than my arm.
+"――――Have you gone mad? If you do such a thing, you will..."
 
-She seems well, but I don't know when she might collapse.
+"I do not even need to think about it. Two will disappear if I do nothing, but one can be saved if we transplant it.
 
-...I have to defeat Zouken and obtain the Holy Grail before that.
-
-I have to think about how to do that.
-
-A way to beat Zouken and Assassin with one arm.
-
-...No, they aren't the only enemies.
-
-There are the mysterious enemies too.
+...This body is almost dead anyway. If I am to disappear, it will not make a difference even if my arm is cut off."
 
 ---
 
-"――――――――"
-
-I don't know their circumstances.
-
-I don't know what that black shadow is, nor if Saber became Zouken's Servant.
-
-All I know is that she's my enemy now.
+Archer and Rider are talking.
 
 ---
 
-"........."
+...What the hell is going on?
 
-...I know the truth.
+And in the end...
 
-We have no chance of victory.
+"One would normally die. One cannot survive after attaching a spirit body to the human body. But the boy and I are an exception. Rin should treat him appropriately once she wakes up."
 
-I don't know what this pain will be like in the future.
-
-The difference in our powers is overwhelming, and I'm not even sure about myself.
-
-How can I protect Sakura in such a state――――?
+He tenderly runs his fingers through Tohsaka's hair.
 
 ---
 
-## Scene 26
+――――My vision fades to black.
 
+The dark sun no longer shines on the forest.
 
+Then...
 
-"――――――!"
+The darkness must be falling on my consciousness.
 
-I stand up at the sound of footsteps.
+"――――So this is it. Farewell, Tohsaka."
 
-I know who it is without looking.
-
----
-
-The Servant in a black outfit is silent like always.
-
-She usually doesn't make a sound when she walks, but I'm sure she wanted me to hear her coming.
+Archer bids farewell in a voice that sounds just like mine.
 
 ---
 
-"What do you want, Rider?"
 
-"............"
 
-Rider looks down at me silently.
-
-......Hm.
-
-This is totally unrelated, but Rider is tall. There's something wrong with me too for noticing it now.
-
----
-
-"―――What is so funny, Shirou? I have not said anything yet."
-
-"Huh...? Oh, no. You're taller than me, right? Even though we've seen each other many times, I just noticed. I was laughing at myself for how slow I was."
-
----
-
-"I see. You seemed like you were in pain earlier, but it appears I worried needlessly."
-
-...?
-
-It might be just me, but Rider sounds angry.
-
----
-
-"Anyway, Rider. Were you the one who saved me today? I don't remember, but I think it was you that carried me to the church from the forest."
-
----
-
-"...Yes. It was me. Sakura told me to protect you. I only obeyed her order as her Servant."
-
----
-
-"―――I see. That was a big help, but that means Sakura used magical energy to use you, right?
-
-Then――――"
-
-"Yes. There is now even less of her scarcely remaining magical energy. I will consume Sakura if she uses me like she did today."
-
----
-
-Rider plainly speaks.
-
-There's no pity or hatred towards Sakura.
-
-Rider is only stating the natural fact as a Servant.
-
----
-
-"Can I ask you something, Rider?"
-
-"Of course. If you have a question, please ask it."
-
----
-
-"...All right. Are you going to kill Sakura if she loses her Command Spell?"
-
-A Master that uses up her Command Spells is first targeted by her Servant.
-
-If they have not established a relationship of mutual trust, Rider will mercilessly kill her Master, using her life to stay in this world until she can form another contract.
-
----
-
-...Rider is protecting Sakura out of duty. I see no affection there.
-
-That's why I want to know what Rider's feelings are.
-
----
-
-"――――――――"
-
-"Tell me. Are you going to kill Sakura?"
-
-"Yes. If Sakura wishes, I would consider killing her to end her agony. But Shirou, I wish for her to live."
-
----
-
-"...! ――――Then you won't attack her even if she loses her Command Spell?"
-
-"The binding of the Command Spell does not matter. I will protect Sakura willingly for as long as she remains a Master. I do like her."
-
----
-
-"Eh――――really?"
-
-"Yes. Is it that unexpected for me to have such an emotion?"
-
-"Oh... I'm sorry, I misunderstood. You didn't look that way, so..."
-
----
-
-"You do not need to apologize. I do not engage in proper conversation with Sakura, nor does she talk to me.
-
-But Shirou. Servants are summoned by beings similar to them. You summoned Saber not by chance, but because you two are alike."
-
----
-
-"Sakura and I are the same in that regard.
-
-We are not talkative, so it is natural for us to have no conversation. We understand each other without a need for such things."
-
----
-
-...I hear warm emotion in Rider's voice.
-
-I imagined her to be cruel because of her appearance, but maybe Rider is actually quite gentle.
-
----
-
-"...I see. Yeah, that's great. I'm glad you're on Sakura's side."
-
----
-
-"I see. Then it is my turn.
-
-Shirou. You do not know what kind of sufferings Sakura endured through. Do you know what she endured since she was adopted to the Makiri family?"
-
----
-
-"That's――――"
-
-...There's no way I'd know.
-
-Well, Kotomine told me what kind of things she went through.
-
-"...I don't know. So I don't think I can say anything about it, nor should I mention it."
-
----
-
-...Yes.
-
-I'm a magus, and I know what kind of a person Zouken is.
-
-It's easy to imagine what happened, and my imagination should be close to reality.
-
-But――――I should not easily mention that I "understand".
-
----
-
-"I thought as much. Sakura did her utmost to hide it from you. I would have killed you if you had claimed to understand."
-
-"...Is that for Sakura's sake?"
-
----
-
-"Yes. But it seems such measures were unnecessary.
-
-You are inexperienced and clumsy, but what is at your core is something trustworthy. That must be why you are a salvation for Sakura."
-
----
-
-"...For a long time, Sakura knew only resignation. She did not feel pain or suffering, but accepted everything as it was.
-
-But she changed after meeting you, Shirou. You made her regain the emotions she had lost.
-
-The biggest emotions she regained were pain and suffering, but she only had resignation before, and you were the only salvation for her."
-
----
-
-"......"
-
-I don't really know what Rider is trying to say.
-
-I cannot understand what Sakura has been through, so I don't know why she likes me.
-
-But Rider's words are true because she shares her feelings with Sakura, her Master.
-
----
-
-As if speaking for Sakura,
-
-Rider quietly states...
-
-"Shirou. You said you will make Sakura happy.
-
-But for her, these two years were happiness itself."
-
-...With quiet sorrow and appreciation.
-
----
-
-"That is all I wanted to ask you.
-
-Happiness for Sakura is to have you alive and for you to be by her side. There is nothing else she wishes for."
-
----
-
-Rider presses the question on me through her blindfolds.
-
-...Asking me if I understand what that means.
-
-For Matou Sakura, the fact that Emiya Shirou is fighting threatens her happiness.
-
-So Rider is condemning me for what I'm planning to do with my body.
-
----
-
-"But I――――"
-
-...I tightly grasp my stiff left arm.
-
-If I can fight with one arm, I should.
-
----
-
-I swore to save Sakura.
-
-I chose to fight for Sakura, and not to stop the war.
-
----
-
-So―――if I stop fighting now, I'll be nobody.
-
----
-
-"―――――――――"
-
-...Silence falls.
-
-Rider is silent, and I have no reply.
-
-How long has it been?
-
----
-
-"......Are you on Sakura's side, Shirou?
-
-No matter what may happen in the future?"
-
----
-
-"――――――――"
-
-I don't even need to think about Rider's question.
-
-Emiya Shirou chose to be Matou Sakura's ally.
-
-Then I should nod without hesitation.
-
----
-
-"――――――――"
-
-I understand, but I can't express my feelings.
-
-'―――No matter what may happen in the future'
-
----
-
-Because I realize what those words mean.
-
----
-
-"...Fair enough. You do not need to push yourself here, as the answer will eventually come to you. You should be prepared when that time comes."
-
-Rider leaves as if melting into the night.
-
-I watch her disappear, then look up at the sky.
-
----
-
-"――――――Damn."
-
-...Yes.
-
-I couldn't answer her because I realized.
-
----
-
-The mysterious shadow.
-
-The unstable left arm.
-
-The ideal I sought for years, then threw away.
-
-Everything is telling me.
-
----
-
-That once I obtain the Holy Grail, it can make any wish come true.
-
-But―――my wish to provide Sakura happiness is an illusion that can never become reality.
-
----
-
-## Scene 28
+## Scene 19 Deep desire
 
 
 
@@ -5194,7 +3870,8 @@ The mirror reflects a face with a crooked smile.
 
 ---
 
-## Scene 29
+
+## Scene 20 Artificial Phantasm 
 
 
 
@@ -5932,7 +4609,458 @@ So whose house is Illya going to...?
 
 ---
 
-## Scene 30
+## Scene 21 Which one?
+
+
+
+In the end, Illya will be coming to my house.
+
+Tohsaka and Illya leave the chapel, arguing.
+
+I guess I can say they're getting along.
+
+---
+
+"――――――――"
+
+...Our conversation is over.
+
+It's our problem now, so there's nothing to talk about with Kotomine.
+
+---
+
+I follow after them and leave the chapel.
+
+But then...
+
+"Do not forget, Emiya Shirou. That body of yours will no longer permit you to fight."
+
+The priest gives his usual warning.
+
+---
+
+"That's not true. It's just that I can't use my left arm. I can still fight."
+
+"I see. By the way, how is Matou Sakura's condition?"
+
+"Sakura's condition...?"
+
+---
+
+...That's a bit unexpected.
+
+I thought he was going to make more sarcastic remarks, so why is he suddenly concerned about how Sakura's doing?
+
+---
+
+"What's going on? What good would it do for you to care about Sakura?"
+
+---
+
+"It seems you do not understand. I am talking about your body.
+
+Look, Emiya Shirou. Your body is in critical condition, but Matou Sakura is carrying a more dangerous bomb. You will be safe if you do not fight, but she is breaking down with each passing second. That is why you cannot stop fighting, even though you know fighting will only bring you closer to death."
+
+---
+
+"........."
+
+"Emiya Shirou has to fight if you are to save Matou Sakura. But now, fighting is like committing suicide for you.
+
+Therefore―――you must understand that saving Matou Sakura means killing yourself."
+
+---
+
+"......So what? That doesn't concern you at all."
+
+I chose to save Sakura.
+
+I won't back out on my oath, no matter what happens to my body.
+
+---
+
+"I see. A devotion to offer your life is beautiful.
+
+But is that woman truly so valuable to you?"
+
+"What...?"
+
+---
+
+"This is your last warning, Emiya Shirou.
+
+To save a life is to satisfy one's desire.
+
+If you would like to keep Matou Sakura alive―――do not forget this until the very end."
+
+---
+
+"......"
+
+I go outside.
+
+Tohsaka and Illya are waiting for me there.
+
+Illya is looking up at the sky, and Tohsaka is glaring at me like she wants to complain.
+
+---
+
+"You're late! What were you talking with Kotomine about, Shirou?"
+
+"Well, it was just his usual criticism――――"
+
+---
+
+More importantly, there's something that's on my mind, but I don't know if I should bring it up.
+
+...Tohsaka.
+
+Are you calling me by my first name now...?
+
+---
+
+"...Hmph, fine. We're short on time, so I'll get right to the point. This is a serious matter, and we don't have much chance of winning if we go our separate ways. I'll forgive you for what you did yesterday, so you'd better be grateful."
+
+---
+
+Her manner is pompous, but her words are even more so.
+
+...Um, it's hard to understand, but what Tohsaka wants to say is...
+
+---
+
+"Tohsaka. Does that mean..."
+
+"Yeah, I'm saying we can cooperate!
+
+First of all, you're unreliable. We're both out to defeat Zouken, so I can cooperate with you!"
+
+---
+
+Tohsaka continues angrily.
+
+"――――――――"
+
+It feels like I'm hit in the head with a hammer.
+
+The sudden request is a great fortune.
+
+---
+
+"O―――Oh, thank you! I owe you, Tohsaka!
+
+There's no greater help than having you on my side...!"
+
+---
+
+I take Tohsaka's hand and shake it up and down.
+
+This is troubling.
+
+I know I'm being too happy, but I can't stop myself.
+
+---
+
+"Hey, I understand! You don't have to thank me, so hold on...!"
+
+Tohsaka retreats quickly.
+
+...Then.
+
+I don't know why, but she looks at my left arm.
+
+---
+
+"...Let me ask you beforehand. You do know whose arm that is, right?"
+
+"...?"
+
+I nod, since it's a matter of course.
+
+---
+
+Tohsaka then takes a deep breath.
+
+"Then you're my Servant from now on, Shirou.
+
+You were saved thanks to my Servant, so that's natural, right?"
+
+...And makes a ridiculous demand.
+
+---
+
+"Wha―――――"
+
+"―――――What?"
+
+I'm really lost.
+
+I try to figure out what Tohsaka means.
+
+---
+
+"W-What are you saying...!? It's stupid to claim his ownership just because of something like that!"
+
+Yes. Illya can be reasonable, after all.
+
+---
+
+"First of all, you're completely missing the point. Shirou is mine, so there's no
+
+---
+
+way he can be yours!"
+
+...I see.
+
+So she's missing the point too.
+
+---
+
+"Hey, you're the one talking big. Do you think Shirou is yours because you spared him once? Then that goes for me as well. I was so angry when I met him at school that I almost went berserk myself."
+
+---
+
+"That's just because you're immature. I spared him every day, so Shirou's life is obviously mine. I can choose to keep him alive or not, and you have nothing to do with this, so stay out of this."
+
+---
+
+"I have nothing to do with this...? Don't take me so lightly! I can't concern myself this much if I have nothing to do with this...!
+
+Archer entrusted me with him, so I'm going to take responsibility and make sure he stays alive!"
+
+---
+
+I can almost hear their teeth grinding as they glower at each other.
+
+"......"
+
+I wait for it to end.
+
+...Well.
+
+It's going to be troublesome, no matter who wins.
+
+---
+
+""So, which one is it!?""
+
+---
+
+It seems they've realized that fighting solves nothing, so they've chosen me to make the final decision.
+
+---
+
+"What do you mean 'which'?"
+
+"So whose Servant are you? I haven't heard your answer yet, so it's best to clarify it now."
+
+---
+
+"Yeah. Rin doesn't seem to realize you don't want her, so you have to be clear.
+
+Come on, say it. You're mine, right?"
+
+---
+
+"......"
+
+I don't need to think about it.
+
+The one who has the right to order me around is――――
+
+---
+
+## Scene 22 Rin-sama blushes
+
+
+
+"It's Tohsaka. I don't even have to think about it."
+
+"W-Why? Rin's oppressive, greedy, and loud like a myna bird. But you still like her more? Are you a pervert?"
+
+---
+
+"No. This isn't like that.
+
+This is about whether I'm going to obey Tohsaka, right? Then I'm going to obey her. I can't stop Zouken by myself, and Archer saved my life."
+
+---
+
+"That's... because Archer is your..."
+
+---
+
+"I'll give her the right to command me. See, that's just like being a Servant. Tohsaka, if that's what you want, it won't bother me at all."
+
+I confirm with Tohsaka.
+
+---
+
+"............"
+
+"Tohsaka? Hey, don't ask someone a question and then ignore the answer."
+
+---
+
+"Oh―――y-yeah, I'm glad you understand.
+
+My Archer put his trust in you, so we're working together now. He gave everything for you, so work hard and return the favor."
+
+"Of course. I have to return what I borrowed."
+
+---
+
+...That's right.
+
+No matter how things ended up this way, my left arm has been replaced by Archer's.
+
+But Archer disappeared without fulfilling his contract with Tohsaka.
+
+It's only right that I succeed the promises he's made.
+
+---
+
+## Scene 23 Illya delighted
+
+
+
+"―――Um, I guess it's Illya."
+
+I say the name that popped into my head.
+
+---
+
+"Yeah! You lucky guy!"
+
+Illya hugs me.
+
+I feel like I'm her brother, so I like how happy she is...
+
+---
+
+But Tohsaka is really mad, so my happiness adds up to zero... No, I think it's going in the negatives now.
+
+---
+
+"...Hmph. You've gone to a lot of work to flatter a little girl, Emiya-kun. Or what? Do you like little girls?"
+
+Ow... Tohsaka scornfully emphasizes "Emiya-kun" to criticize me.
+
+Her eyes look like they're blaming the socially weak, sending a wave of pain through my stomach.
+
+---
+
+"Haha, that's unsightly, Rin. It's unladylike to take out your anger on someone else when you get dumped. That's why Shirou hates you."
+
+"......! D-Don't talk like a grown-up and say such a stupid thing...!
+
+I only talked about common knowledge, and first of all, who was dumped by whom...!?"
+
+---
+
+Tohsaka roars.
+
+Illya laughs and keeps hugging me.
+
+---
+
+"See, isn't Rin scary, Shirou?
+
+But don't worry. I'll protect you if she tries to do something!"
+
+---
+
+Illya makes a big smile and embraces me.
+
+I'm glad.
+
+I'm twice as glad as before, but...
+
+...Please do something about that cold stare of hers that doesn't let me excuse myself.
+
+---
+
+"What? If you have something to say, come out and say it."
+
+"It's nothing. Your interests are none of my business. I'm not happy, but I'm not going to say anything about it.
+
+――――But more importantly, why?"
+
+She asks me directly.
+
+But...
+
+---
+
+"Well. 'Why'... what?"
+
+I made my choice without thinking, so I actually don't know why I chose Illya.
+
+---
+
+"...Unbelievable. Do you really have a thing for little girls?"
+
+"N-No way, you idiot! I-I-I just said it because I felt like it, and I'm Illya's guardian now, so it's natural for me to choose her! Do you have a problem with that...!?"
+
+---
+
+Man, I'm being illogical.
+
+"Yeah! You're my Servant, Shirou!"
+
+Tohsaka is utterly stunned, Illya is jumping around in joy, and it's a big mess.
+
+---
+
+"......You're taking a defiant attitude now. Well, I'll let this go, but Sakura certainly has it tough."
+
+"――――――――"
+
+I'm curious.
+
+What exactly are you "letting slide," Tohsaka?
+
+---
+
+"But don't forget. Even if you don't use it, your arm is mine.
+
+―――You have a responsibility to take Archer's place.
+
+Your body doesn't just belong to you anymore."
+
+---
+
+"――――――――"
+
+I can't argue with that.
+
+Tohsaka lost Archer, and my life was saved thanks to his arm.
+
+...Then I have to help Tohsaka in his place.
+
+---
+
+".........Yeah, you're right. We'll leave the Servant thing aside for now, but I'll leave you in charge of everything.
+
+I don't know all that much, so it's better if you take care of the plans."
+
+---
+
+"That's right. I'm in charge of thinking, and you're in charge of execution. We're cooperating, so I'll make sure you work hard."
+
+---
+
+...That's right.
+
+Regardless of how it happened, my left arm has been replaced by Archer's.
+
+But Archer disappeared without completing his contract with Tohsaka. It's only right that I succeed the promise he could not fulfill.
+
+---
+
+
+## Scene 24 Blade virus
 
 
 
@@ -5986,7 +5114,7 @@ I've never heard those names before. Are they famous among legitimate magi?
 
 ---
 
-## Scene 31
+## Scene 25 Sacrilege
 
 
 
@@ -6342,7 +5470,448 @@ With all my might, I shall question the Lord even unto death――――"
 
 ---
 
-## Scene 32
+## Scene 26 Sweet & spicy
+
+
+
+I trudge up the hill.
+
+The town is unlively.
+
+It's still eight or nine o'clock, but the town is desolate and devoid of any human presence.
+
+---
+
+"――――, ――――!"
+
+Before I know it, I'm stopping and leaning against a wall.
+
+My left arm is burning.
+
+Maybe my tension went away by being alone, but my left arm started to hurt ever since I got to this hill.
+
+---
+
+"――――Well, of course. Someone else's arm is attached to me, so no wonder it hurts."
+
+...I can't get my breathing together.
+
+My arm gets hotter with every step.
+
+When it gets hotter than my normal temperature, pain attacks my chest from my arm.
+
+---
+
+"Oh... So that's where it hurts instead of the arm, huh?"
+
+I lean on a fence and take a deep breath.
+
+...I think I understand where the pain is coming from.
+
+Basically, it's trying to cool off.
+
+I don't know how, but my left arm gets hotter every time it moves.
+
+When it overheats, the arm sends the excess to the rest of my body.
+
+---
+
+"――――!"
+
+That heat is enough to burn me, causing the pain.
+
+The heat enters my body with a sharp pain, and it's more like a cut than a burn.
+
+Every time I feel the red dizziness, I feel like I'm getting a long knife inserted from my shoulders and churned inside of me.
+
+---
+
+"Guh――――haa, ha――――...!"
+
+...It's not something I can bear many times.
+
+I've had my stomach torn by Berserker and my ribs crushed by Rider.
+
+Even with such experiences in mind, the prospect of getting stabbed by my own body sends a chill through me.
+
+---
+
+"It's fine, calm down――――it'll calm down if I don't let it get hotter――――"
+
+I try to relax while looking up at the sky.
+
+It's been twenty minutes since I parted with Tohsaka and Illya.
+
+I should've been home by now, but I can't let Sakura see me like this.
+
+...I have to keep the abnormality of my left arm to myself.
+
+---
+
+"―――Damn Kotomine. What did he mean, it wouldn't interfere with my ordinary life? This can't be handled easily―――"
+
+I place my hand on my left shoulder and press against the arm covered in red cloth.
+
+Hard and rigid as steel, it doesn't even budge.
+
+---
+
+...Well.
+
+I've stopped sweating, and my breathing is back to normal.
+
+It's getting late, so I should quickly go home and see Sakura while I still look well――――
+
+---
+
+"I'm home!"
+
+After taking a deep breath, I holler out and enter my house.
+
+"...Oh... Welcome home, Senpai."
+
+Maybe Sakura's been waiting all this time, because she's already at the entrance.
+
+---
+
+"...? You don't look lively. I'm glad you're welcoming me home, but I can't be happy when you're making a face like that."
+
+---
+
+I take off my shoes and go up into my house.
+
+I want to rest for today.
+
+I'll fill her in on what's happened today after I drink a cup of tea in the living room.
+
+---
+
+"...Wait, I can't do that. I have to tell her what's going on first."
+
+Tohsaka will be coming soon.
+
+I have to tell her about what's going on beforehand, or she'll be on guard against Tohsaka.
+
+---
+
+"Sakura, it's about what happened today."
+
+"...Senpai. Aren't you going to say anything about that?"
+
+...Then.
+
+Sakura says something with difficulty.
+
+---
+
+"What do you mean?"
+
+"............"
+
+She keeps silent.
+
+She's looking at my left arm.
+
+---
+
+"Oh, you mean this? Yeah, I'm sure you're surprised if it looks like this."
+
+It's covered with cloth that doesn't look anything like bandages.
+
+Even if she doesn't know what went on, she would assume something happened to my arm.
+
+---
+
+"Yeah, I injured it a bit. But it moves fine, and it's all right now. This cloth is just a bother, but Kotomine told me not to take it off.
+
+Well, he's the one who treated me, so I'm going to obey him."
+
+---
+
+I pat my left arm to show her it's all right.
+
+...But Sakura is even more silent now.
+
+---
+
+"Sakura...? It's really fine. It looks worse than it is. It's just a scratch. It'll heal right away, so you don't need to worry――――"
+
+---
+
+"I-It can't be just a scratch...! Your arm's gone now! So how can you tell me that...!?
+
+I won't fall for such an obvious lie! Or are you not telling me because it's meaningless...!?"
+
+---
+
+"――――――――"
+
+Her reply is like fire.
+
+...My insensitivity leaves me speechless.
+
+I haven't even considered how Sakura felt all day today, waiting for me here.
+
+---
+
+"―――――Sakura."
+
+"Oh...... I'm sorry, Senpai. I-I didn't mean to blame you. ...You were so reckless and didn't care about yourself, so I..."
+
+---
+
+"―――No. Well, you're right, but you're wrong.
+
+I'm not mad because you yelled at me. ...Um, this is the first time I've seen you seriously mad, so I was surprised and was contemplating my actions."
+
+---
+
+"Eh... Contemplating...?"
+
+"Yeah. It's certainly not good to bluff. All the more if it's to you. ...I probably didn't want to look bad in front of you. That's why I bluffed and tried to act normal.
+
+But now that I think about it, that looks worse. It's natural for you to get mad."
+
+---
+
+"Oh... No, you never look bad."
+
+I do look bad.
+
+...Man, don't tell Sakura about it so she doesn't get worried?
+
+No, I was just putting on a show to look tough.
+
+---
+
+"―――Yeah, I'm sorry, Sakura. I lost.
+
+My arm turned out fine, but I couldn't be of use to you."
+
+---
+
+"Oh―――that's not true...! You were splendid! I-I didn't see it, but you looked really good!"
+
+---
+
+"Ugh... No, I really was pathetic, so it hurts me if you say that. I couldn't save Illya like I'd planned, and all I could do was come running home."
+
+---
+
+"...No. But you still came home. I'm really happy because you kept your promise."
+
+---
+
+"Oh――――yeah. That's good."
+
+I scratch my head.
+
+...But, well...
+
+I'm embarrassed, but happy at the same time.
+
+---
+
+"...You're right. I guess being alive is good enough."
+
+"――――Yes. You're good-looking. I fell in love with you all over again."
+
+---
+
+"――――――――!"
+
+Sakura must have cheered up if she can say something like that with a big smile.
+
+---
+
+"Uh...... um."
+
+I don't know how to reply to something like that, so...
+
+"Um, what should I say, Tohsaka?"
+
+"Who knows? If you want my opinion, I just don't want you two flirting too much at the door."
+
+...I ask Tohsaka, who is standing behind me.
+
+---
+
+""――――Huh?""
+
+Our voices overlap.
+
+Sakura and I both jump back at the same time.
+
+"S-Since when were you there, Tohsaka――――!?"
+
+"Why are you here, Tohsaka-Senpai?"
+
+And we give the same reaction again.
+
+---
+
+"'Since when?' I thought you'd be done filling her in already, but instead I find the two of you having a lovers' quarrel. Geez, do you even understand our situation, Shirou?"
+
+---
+
+Tohsaka sets down a large bag next to the door.
+
+Behind her is...
+
+---
+
+Illya, silently radiating a strange pressure.
+
+---
+
+"I-I don't mind if you want to continue where we left off yesterday, Tohsaka-Senpai.
+
+I'll fight you as Matou's magus as long as Senpai's protecting me."
+
+---
+
+Sakura clenches her fists and glares at Tohsaka.
+
+...Well, it's more like a frog desperately opposing a glaring snake.
+
+---
+
+"......Geez. So you haven't heard anything about it?
+
+Look, Sakura. I'm going to put on hold what to do with you. My first priority is to defeat Zouken. We can settle our match after that. ...Well, we won't need to fight after Zouken's defeated, so everything should be fine as long as we can defeat him."
+
+---
+
+"Eh――――then you're..."
+
+---
+
+"I'm going to ally with you―――no, with Shirou ―――to defeat Zouken. So it'd be a waste to live separately, right? So I'm going to stay over here and train Shirou. It'll be hard work if I want him to become strong in a short time."
+
+---
+
+"So I'm going to borrow Shirou for a while. It's going to be rough, but you two don't mind, right?"
+
+""Wha――――""
+
+Tohsaka Rin sets a schedule even I haven't heard about.
+
+---
+
+"H-Hold on, Tohsaka. That's too sudden――――"
+
+---
+
+"Y-You can't do that...!
+
+Nee... no, Tohsaka-Senpai. What right do you have to say that!?"
+
+".........I have to be mentally prepared first, you know?"
+
+---
+
+I stutter off.
+
+Of course, my opinion is dismissed by Sakura's voice and Tohsaka's glance.
+
+---
+
+"Oh, so it's fine as long as I have the right? Then it's even less of a problem. It's because of me that he's alive.
+
+Shirou has to do what I say until he repays the favor. You'll give me a place to live if I ask, and you'll make meals for me if I ask, right?"
+
+"――――――――"
+
+Tohsaka. Those lines could bring on a big misunderstanding.
+
+---
+
+"No way... I-Is that true, Senpai...?"
+
+"―――Yeah. I want to object, but what she's saying is true."
+
+---
+
+"――――"
+
+"And it's better to have more allies, right? We know Zouken is after you. With Tohsaka's help, we can definitely protect you."
+
+...And Tohsaka is Sakura's older sister.
+
+If possible, I want them to be together, not fighting.
+
+---
+
+"......All right. I understand if you say so."
+
+Sakura averts her gaze.
+
+---
+
+## Scene 22 Have not experienced Illya
+
+
+"Then it's decided. I'm coming in.
+
+Come on, Shirou, show me the guest room. I had my eyes on the guest room in the outbuilding last time I was here. Oh, where do you want, Illya?"
+
+"――――――――"
+
+---
+
+"Illya? Why are you spaced out? You were so happy we were going to stay at Shirou's house."
+
+"...That's not true. I was never happy."
+
+---
+
+A weak voice.
+
+Illya hangs her head and stares at the floor.
+
+...As if saying the small step up is a towering wall.
+
+---
+
+"――――Shirou.
+
+Let me ask. Where is that woman sleeping?"
+
+Then.
+
+What happened to her depressed attitude? Illya's now glaring at Sakura.
+
+---
+
+"...? Um, Sakura's sleeping in the guest room in the outbuilding."
+
+"I see. Then you can go to the outbuilding by yourself, Rin. I don't care where I am, as long as it's not in the outbuilding."
+
+"Is that so? Then I guess you can have the Japanese-style room."
+
+They're carrying on a relaxed conversation, and it sounds like they're close enough now to call each other by name.
+
+---
+
+## Scene 23 Have experienced Illya
+
+
+
+"Then it's decided. I'm coming in.
+
+Come on, Shirou, show me the guest room. I had my eyes on the guest room in the outbuilding last time I was here. Oh, where do you want, Illya?"
+
+---
+
+"I don't care, but I don't want to be near that woman."
+
+"Is that so? Then I guess you can have the Japanese-style room."
+
+They're carrying on a relaxed conversation, and it sounds like they're close enough now to call each other by name.
+
+---
+
+## Scene 24 Sisters(III)
 
 
 
@@ -6578,7 +6147,578 @@ This situation was dumped in our laps, but it may be a good opportunity after al
 
 ---
 
-## Scene 33
+
+## Scene 25 Choice
+
+
+
+"――――――――, So hot."
+
+I wake up.
+
+My pajamas are drenched in sweat, and my futon is kicked away.
+
+I wipe my forehead and feel that it's wet with sweat.
+
+---
+
+"――――――――"
+
+...I can't think straight.
+
+My brain might be fried from the midsummer-like heat.
+
+I can't figure out what time it is or where I am, no matter how hard I think.
+
+---
+
+"――――――――"
+
+I go out into the yard.
+
+I want to cool off my body more than anything.
+
+...I don't know if the heat is coming from the room or my body.
+
+I'm too lazy to think, so I'll sleep in the shed tonight.
+
+It's cold there, at the very least.
+
+It doesn't matter if it's hot or...
+
+---
+
+"Guh――――, ah――――!"
+
+A sudden, sharp pain brings me to my knees.
+
+"――――. Ow――――"
+
+I stay crouched, breathing heavily.
+
+---
+
+...I wake up.
+
+I squeeze my left arm, the cause of the heat and the pain.
+
+The Shroud is still wrapped around it.
+
+The red cloth is restraining my arm.
+
+I can move it, but it's wrapped so tight that the circulation is restricted.
+
+Maybe this cloth is the cause of the pain.
+
+---
+
+"Maybe my arm's just as it was if I take it off."
+
+The wild idea sounds very attractive.
+
+First of all, I never saw my arm destroyed or transplanted.
+
+It's not that I don't trust that priest, but I'm sure he makes mistakes too.
+
+---
+
+Maybe nothing is wrong with my arm, and my real arm will be there if I take off this cloth.
+
+My arm isn't steel.
+
+The cloth is just making my arm stiff, so if I remove it――――
+
+---
+
+## Scene 26 Release it
+
+
+
+―――My normal arm should be there.
+
+---
+
+Wha I can't brea my nerves, my nerves
+
+---
+
+It hurts
+
+---
+
+I'm alive but where is my sense
+
+---
+
+It's cold
+
+---
+
+Death―――― hurry I have to quickly get it back on
+
+---
+
+It's scary
+
+---
+
+The arm below the cloth is
+
+---
+
+It's black
+
+---
+
+An arm that is not mine――――
+
+---
+
+"What――――was I doing?"
+
+What was I doing?
+
+I unwrapped the cloth because of this sudden idea.
+
+I don't understand what happened after that.
+
+What has been done to me.
+
+What will be done to me.
+
+It only happened a few seconds ago, but I can't remember at all――――
+
+---
+
+"――――This is bad. It's really..."
+
+I'll die if I release it.
+
+The priest's words were true.
+
+I don't know what'll happen, but what's under this cloth is not mine.
+
+---
+
+"......Forget about it. It's just that my arm doesn't move. ...If I think about it any more, I'll..."
+
+I'll slow down because of fear.
+
+That's not allowed.
+
+Archer's arm wasn't transplanted onto me so that I could cower in fear.
+
+---
+
+"...That's right. I have to think about Sakura instead of my arm."
+
+Sakura wasn't that different from this morning, but I don't know when she might collapse.
+
+...I have to defeat Zouken and obtain the Holy Grail before that.
+
+I have to think about how to do that.
+
+A way to beat Zouken and Assassin with one arm.
+
+...No, they aren't the only enemies.
+
+There are the mysterious enemies too.
+
+---
+
+"――――――――"
+
+I don't know their circumstances.
+
+I don't know what that black shadow is, nor if Saber became Zouken's Servant.
+
+All I know is that she's my enemy now.
+
+---
+
+"........."
+
+...To be honest, I know.
+
+We have no chance of victory.
+
+I don't know what this pain will be like in the future.
+
+The difference in our powers is overwhelming, and I'm not even sure about myself.
+
+How can I protect Sakura in such a state――――?
+
+---
+
+## Scene 27 Do not release it.
+
+
+
+"――――――――Phew."
+
+I release the depression in my lungs.
+
+Such a ridiculous story.
+
+Why believe in such a convenient deception?
+
+I bet Tohsaka will get really mad before she laughs at me if she saw me like this.
+
+---
+
+"...It's fine. It's just that my arm doesn't move, so it's not a big deal. I have other things to worry about."
+
+---
+
+Sakura is a bigger problem than my arm.
+
+She seems well, but I don't know when she might collapse.
+
+...I have to defeat Zouken and obtain the Holy Grail before that.
+
+I have to think about how to do that.
+
+A way to beat Zouken and Assassin with one arm.
+
+...No, they aren't the only enemies.
+
+There are the mysterious enemies too.
+
+---
+
+"――――――――"
+
+I don't know their circumstances.
+
+I don't know what that black shadow is, nor if Saber became Zouken's Servant.
+
+All I know is that she's my enemy now.
+
+---
+
+"........."
+
+...I know the truth.
+
+We have no chance of victory.
+
+I don't know what this pain will be like in the future.
+
+The difference in our powers is overwhelming, and I'm not even sure about myself.
+
+How can I protect Sakura in such a state――――?
+
+---
+
+## Scene 28 Rider's inquiry
+
+
+
+"――――――!"
+
+I stand up at the sound of footsteps.
+
+I know who it is without looking.
+
+---
+
+The Servant in a black outfit is silent like always.
+
+She usually doesn't make a sound when she walks, but I'm sure she wanted me to hear her coming.
+
+---
+
+"What do you want, Rider?"
+
+"............"
+
+Rider looks down at me silently.
+
+......Hm.
+
+This is totally unrelated, but Rider is tall. There's something wrong with me too for noticing it now.
+
+---
+
+"―――What is so funny, Shirou? I have not said anything yet."
+
+"Huh...? Oh, no. You're taller than me, right? Even though we've seen each other many times, I just noticed. I was laughing at myself for how slow I was."
+
+---
+
+"I see. You seemed like you were in pain earlier, but it appears I worried needlessly."
+
+...?
+
+It might be just me, but Rider sounds angry.
+
+---
+
+"Anyway, Rider. Were you the one who saved me today? I don't remember, but I think it was you that carried me to the church from the forest."
+
+---
+
+"...Yes. It was me. Sakura told me to protect you. I only obeyed her order as her Servant."
+
+---
+
+"―――I see. That was a big help, but that means Sakura used magical energy to use you, right?
+
+Then――――"
+
+"Yes. There is now even less of her scarcely remaining magical energy. I will consume Sakura if she uses me like she did today."
+
+---
+
+Rider plainly speaks.
+
+There's no pity or hatred towards Sakura.
+
+Rider is only stating the natural fact as a Servant.
+
+---
+
+"Can I ask you something, Rider?"
+
+"Of course. If you have a question, please ask it."
+
+---
+
+"...All right. Are you going to kill Sakura if she loses her Command Spell?"
+
+A Master that uses up her Command Spells is first targeted by her Servant.
+
+If they have not established a relationship of mutual trust, Rider will mercilessly kill her Master, using her life to stay in this world until she can form another contract.
+
+---
+
+...Rider is protecting Sakura out of duty. I see no affection there.
+
+That's why I want to know what Rider's feelings are.
+
+---
+
+"――――――――"
+
+"Tell me. Are you going to kill Sakura?"
+
+"Yes. If Sakura wishes, I would consider killing her to end her agony. But Shirou, I wish for her to live."
+
+---
+
+"...! ――――Then you won't attack her even if she loses her Command Spell?"
+
+"The binding of the Command Spell does not matter. I will protect Sakura willingly for as long as she remains a Master. I do like her."
+
+---
+
+"Eh――――really?"
+
+"Yes. Is it that unexpected for me to have such an emotion?"
+
+"Oh... I'm sorry, I misunderstood. You didn't look that way, so..."
+
+---
+
+"You do not need to apologize. I do not engage in proper conversation with Sakura, nor does she talk to me.
+
+But Shirou. Servants are summoned by beings similar to them. You summoned Saber not by chance, but because you two are alike."
+
+---
+
+"Sakura and I are the same in that regard.
+
+We are not talkative, so it is natural for us to have no conversation. We understand each other without a need for such things."
+
+---
+
+...I hear warm emotion in Rider's voice.
+
+I imagined her to be cruel because of her appearance, but maybe Rider is actually quite gentle.
+
+---
+
+"...I see. Yeah, that's great. I'm glad you're on Sakura's side."
+
+---
+
+"I see. Then it is my turn.
+
+Shirou. You do not know what kind of sufferings Sakura endured through. Do you know what she endured since she was adopted to the Makiri family?"
+
+---
+
+"That's――――"
+
+...There's no way I'd know.
+
+Well, Kotomine told me what kind of things she went through.
+
+"...I don't know. So I don't think I can say anything about it, nor should I mention it."
+
+---
+
+...Yes.
+
+I'm a magus, and I know what kind of a person Zouken is.
+
+It's easy to imagine what happened, and my imagination should be close to reality.
+
+But――――I should not easily mention that I "understand".
+
+---
+
+"I thought as much. Sakura did her utmost to hide it from you. I would have killed you if you had claimed to understand."
+
+"...Is that for Sakura's sake?"
+
+---
+
+"Yes. But it seems such measures were unnecessary.
+
+You are inexperienced and clumsy, but what is at your core is something trustworthy. That must be why you are a salvation for Sakura."
+
+---
+
+"...For a long time, Sakura knew only resignation. She did not feel pain or suffering, but accepted everything as it was.
+
+But she changed after meeting you, Shirou. You made her regain the emotions she had lost.
+
+The biggest emotions she regained were pain and suffering, but she only had resignation before, and you were the only salvation for her."
+
+---
+
+"......"
+
+I don't really know what Rider is trying to say.
+
+I cannot understand what Sakura has been through, so I don't know why she likes me.
+
+But Rider's words are true because she shares her feelings with Sakura, her Master.
+
+---
+
+As if speaking for Sakura,
+
+Rider quietly states...
+
+"Shirou. You said you will make Sakura happy.
+
+But for her, these two years were happiness itself."
+
+...With quiet sorrow and appreciation.
+
+---
+
+"That is all I wanted to ask you.
+
+Happiness for Sakura is to have you alive and for you to be by her side. There is nothing else she wishes for."
+
+---
+
+Rider presses the question on me through her blindfolds.
+
+...Asking me if I understand what that means.
+
+For Matou Sakura, the fact that Emiya Shirou is fighting threatens her happiness.
+
+So Rider is condemning me for what I'm planning to do with my body.
+
+---
+
+"But I――――"
+
+...I tightly grasp my stiff left arm.
+
+If I can fight with one arm, I should.
+
+---
+
+I swore to save Sakura.
+
+I chose to fight for Sakura, and not to stop the war.
+
+---
+
+So―――if I stop fighting now, I'll be nobody.
+
+---
+
+"―――――――――"
+
+...Silence falls.
+
+Rider is silent, and I have no reply.
+
+How long has it been?
+
+---
+
+"......Are you on Sakura's side, Shirou?
+
+No matter what may happen in the future?"
+
+---
+
+"――――――――"
+
+I don't even need to think about Rider's question.
+
+Emiya Shirou chose to be Matou Sakura's ally.
+
+Then I should nod without hesitation.
+
+---
+
+"――――――――"
+
+I understand, but I can't express my feelings.
+
+'―――No matter what may happen in the future'
+
+---
+
+Because I realize what those words mean.
+
+---
+
+"...Fair enough. You do not need to push yourself here, as the answer will eventually come to you. You should be prepared when that time comes."
+
+Rider leaves as if melting into the night.
+
+I watch her disappear, then look up at the sky.
+
+---
+
+"――――――Damn."
+
+...Yes.
+
+I couldn't answer her because I realized.
+
+---
+
+The mysterious shadow.
+
+The unstable left arm.
+
+The ideal I sought for years, then threw away.
+
+Everything is telling me.
+
+---
+
+That once I obtain the Holy Grail, it can make any wish come true.
+
+But―――my wish to provide Sakura happiness is an illusion that can never become reality.
+
+---
+
+
+
+
+
+## Scene 29 Nightmare(I) [has wacky len]
 
 
 
@@ -6700,132 +6840,4 @@ I squashed a bug.
 
 ---
 
-## Scene 34
 
-
-
-It is a bit sudden, but...
-
-The entire city of Fuyuki is having a blackout, so we will be training in the dark today.
-
----
-
-I don't care, but it's really dark.
-
----
-
-Yeah, it's really dark.
-
----
-
-...It's lonely.
-
----
-
-...Yeah, it's lonely.
-
----
-
-..................
-
----
-
-..................
-
----
-
-..................Hey, Illya-chan.
-
-Can I tell you the truth?
-
----
-
-...I don't really want to know, but what?
-
----
-
-Yeah. ............Doesn't it feel like there's someone else here?
-
----
-
-...!!! Stop it, Taiga. Even if it's a joke, geko...!?
-
----
-
-Ahaha! That was a funny scream, Illya-chan!
-
----
-
-..............................................................................................................................
-
----
-
-........................Illya-chan?
-
-Hey, don't scare me like that. You're the one lying there making weird panting noises, right?
-
----
-
-―――――YES, THAT'S RIGHT, ONEE-CHAN.
-
----
-
-Gyaaaaaaaaaaaaaa!
-
-Liar, who are you, gekoko!?
-
----
-
-## Scene 35
-
-
-
-Osu! We're starting the Tiger Dojo, the place to save those that could not escape and died even after a strategic retreat.
-
----
-
-Yeah, yeah, we're starting. Geez, this is boring.
-
----
-
-Hah!
-
----
-
-Why sulk, pupil number one!? I told you it's against the rules to bring emotion from the main story into this dojo!
-
----
-
-Okaaay.
-
-But I really can't back him up this time.
-
----
-
-Hm, this is the worst sulking I've seen out of you. Do you hate the fact that he put priority on Tohsaka-san?
-
----
-
-...No. I just thought it wasn't fair for Archer.
-
----
-
-Hmm. Some hidden circumstances I don't understand.
-
----
-
-Oh, well. Tohsaka-san, Archer-san, Shirou, and Illya-chan all died together in a friendly manner!
-
----
-
-Hey, it's no laughing matter, you dumb tiger!
-
----
-
-Geez, we're done for today!
-
----
-
-You are to go back to the choice and obey Archer's words.
-
-You can't turn off the game today until you get out of the forest!

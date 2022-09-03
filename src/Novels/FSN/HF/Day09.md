@@ -2,7 +2,389 @@
 
 
 
-## Scene 00
+## Scene 00 Sakura collapses
+
+
+
+Morning.
+
+When the bright sunlight wakes me, I realize my neck is stiff.
+
+---
+
+"Mm――――whoa......"
+
+My neck feels heavy because my shoulders are stiff.
+
+I probably strained my neck when I slept on my stomach.
+
+---
+
+On the other hand, my back feels much better now.
+
+I don't feel any pain, so it shouldn't hinder my normal life.
+
+"―――Crap. It's past seven."
+
+---
+
+"Ouch!"
+
+I feel a sharp pain in my stomach.
+
+It's fine as long as I stay still, but it hurts when I suddenly move.
+
+---
+
+"―――It's a bruise, so I bet it'll hurt for a while."
+
+But it's nothing I can't endure.
+
+It's not like it's bad enough to stop me from moving, so I should be able to act normally.
+
+---
+
+I get changed and leave my room.
+
+I smell breakfast from the living room, so I bet Sakura's preparing it.
+
+---
+
+"Morning. I'm sorry I slept in. Is there anything I can still help with?"
+
+"Good morning, Senpai. It's rare for you to sleep in."
+
+"Ugh, I'm sorry. Um, it was already morning when I noticed."
+
+---
+
+"It can't be helped because you're injured. I went to wake you up earlier, but you didn't even show signs of waking up. I think your body's tired."
+
+---
+
+Wow.
+
+I have no memory of Sakura coming to wake me up.
+
+Not only are my shoulders stiff, but it seems my head is still asleep.
+
+---
+
+"I'm sorry. I'm gonna go wash my face. I'll be back right away."
+
+"No, please take your time. I'll prepare breakfast by myself today, so please go wash your face."
+
+Sakura is really energetic.
+
+---
+
+"......?"
+
+Well, if she's making the offer, I shouldn't turn her down.
+
+"Then I'll go ahead and go wash my face."
+
+---
+
+"Yes. I'm confident in today's miso soup, so please look forward to it."
+
+I nod and head into the hallway.
+
+---
+
+"―――――Wait."
+
+Something's strange.
+
+I went past her without caring because she was energetic, but this is just like―――
+
+---
+
+"......!"
+
+I hear something falling to the ground.
+
+I don't know if it's because I've heard it many times these past few days, but I realize it's the sound of someone falling.
+
+---
+
+"Sakura――――!"
+
+I run back into the living room.
+
+...Sakura must have been on the ground, as she slowly raises her upper body.
+
+---
+
+"Sakura."
+
+I support her staggering body.
+
+---
+
+"......!"
+
+Her body is hot, just like before.
+
+Her breathing is ragged and her shirt is wet with her sweat, telling me how bad her condition is.
+
+---
+
+"Oh――――Senpai."
+
+She must have come to her senses.
+
+Sakura looks at me with unfocused eyes.
+
+---
+
+"Geez. I told you to take your time, but you came back right away. ...Um, please hold on. I'll prepare breakfast right away."
+
+She smiles and brushes my hand off of her.
+
+---
+
+"――――Sakura."
+
+It doesn't seem like she's pushing herself, but rather that she doesn't notice she's sick.
+
+---
+
+"Hold on. You don't have to make breakfast. Just go back to your room and lie down. You have a high fever."
+
+"Huh...? I have a fever?"
+
+---
+
+"Yes. ...Damn, it's really bad if you don't know it yourself! Why――――"
+
+Why didn't I notice something so obvious?
+
+Even though I was depressed about Saber, there's something wrong with me if I can't care for Sakura's health.
+
+---
+
+"Um, Senpai...? I'm really fine. I just fell, so it's not like I'm dizzy or anything..."
+
+---
+
+"Don't say stupid things! You have such a high fever! I don't even need a thermometer to tell that!"
+
+---
+
+"Oh――――"
+
+---
+
+I pull her into the living room.
+
+I have to let Sakura rest for now.
+
+I'll report to the school that she's going to be absent, make some breakfast that's easy to digest, and for lunch―――yeah, I'll ask Fujimura's old man and have one of their housekeepers come over.
+
+---
+
+"U-Um... where are you going, Senpai? We have to eat breakfast before we go to school."
+
+---
+
+Sakura still hasn't grasped the situation.
+
+All her energy must have been a result of the fever.
+
+---
+
+"You're not going to school. You're resting in your room today. I'll let the school know. I'm going to see Fuji-Nee in class, so I'll tell her then."
+
+---
+
+"Eh――――I'm not going to school?"
+
+"Right. Who else would it be? I'm... well, I'm injured, but I'll be fine. There's no reason for me to stay home."
+
+"――――――――"
+
+---
+
+...Well, there's no reason for me to push myself and go to school. Because I lost Saber, I don't have such liberty.
+
+But there's something I have to do.
+
+I can't be staying in my house until I go tell Tohsaka about last night―――about Matou Zouken and Assassin.
+
+---
+
+"Anyway, you're to stay home today. You're working hard every day, so you can rest once in a while. I'll come home right away after I'm done with my business."
+
+---
+
+"Oh―――no, I'm really fine...!
+
+So let's eat breakfast and go to school. This fever will go away if I do...!"
+
+"Such a thing won't happen, you idiot. You're being absurd, Sakura."
+
+---
+
+"I-I'm not being absurd!
+
+You're the one being reckless. I'm feeling perfectly fine, and you're injured! But I'm the only one staying home? That's――――"
+
+"Eh... Whoa, Sakura!"
+
+---
+
+"H――――uh? That's strange, Senpai. I'm... having trouble... breathing――――"
+
+Sakura's breathing hard and is about to fall to the ground.
+
+---
+
+...I support her, but her body is heavy.
+
+She must not have the power to stand up, or maybe she can't stand up because her body is heavy.
+
+Either way, Sakura's so sick that she can't walk by herself, and she's the only one who thinks she's fine.
+
+---
+
+"...You idiot. Look, I'm going to make you stay home today no matter what. I don't care if you don't like it or not, but you'll end up staying home tomorrow too if you use up extra energy."
+
+---
+
+"......But, Senpai. I... have to... go to school."
+
+Delirious, Sakura punctuates her sentence with ragged breaths.
+
+"――――――――"
+
+Ignoring her, I lift her up and head to the guest room.
+
+---
+
+She's already asleep when I get there.
+
+But she must still be semi-conscious.
+
+She's breathing painfully and takes a firm grip on my arm.
+
+---
+
+"――――――――"
+
+I lay her on the bed.
+
+"Oh... Senpai...?"
+
+Her voice is vague.
+
+Sakura is staring at the ceiling, not at me.
+
+---
+
+"――――――――Sakura."
+
+Her ragged breathing, flushed cheeks, sweat-dampened clothes, and heaving breasts...
+
+---
+
+"――――――!"
+
+She looks so erotic that I quickly look away.
+
+Why am I so imprudent when Sakura's sick!?
+
+---
+
+"...Crap. I guess I'll have to ask their housekeeper."
+
+...I can't change her clothes or wipe her down.
+
+---
+
+Her breathing has calmed down since she is lying down, so she should get better with some fever medicine.
+
+Once she can walk again, I can take her to the hospital to go get some medicine.
+
+---
+
+"Sakura. I'm going to go get someone, so sleep until then. You're familiar with Fuji-Nee's housekeeper, right?"
+
+"――――――――"
+
+There's no reply.
+
+Her breathing still sounds painful, but it seems she's asleep.
+
+---
+
+"―――Phew. You're obstinate in weird ways, Sakura. Why do you want to go to school so bad?"
+
+I'm just talking to myself.
+
+I know there won't be a reply because Sakura's asleep.
+
+---
+
+"Bye. I'm going to school."
+
+I step away from the bed and head to the door.
+
+―――Then.
+
+"...I want to go to school with you, Senpai."
+
+I hear her answer.
+
+---
+
+"Sakura...?"
+
+I turn around.
+
+Sakura is still asleep, and her eyes are closed painfully.
+
+"...Oh, she's just talking in her sleep."
+
+---
+
+I leave the guest room.
+
+On my way out...
+
+---
+
+"......Because I have to protect Senpai."
+
+---
+
+She says this in feverish tones.
+
+---
+
+I drop by Fuji-Nee's place on my way to school to have their housekeeper come by.
+
+I sometimes forget because Fuji-Nee's not the type to dress up, but the Fujimura family is one of the richest households around here.
+
+---
+
+It has dozens of scary-looking people that call themselves company employees even though it's not even a company.
+
+Many of them live in the outbuilding, so they are a large family.
+
+So there are many housekeepers, and one will be free to spare if I ask.
+
+---
+
+―――So.
+
+I get one of the emergency housekeepers, who took care of my place a few times before Sakura started coming over.
+
+She's acquainted with Sakura, so I can trust her to take care of her.
+
+---
+
+## Scene 01 Report Rin
 
 
 
@@ -78,7 +460,7 @@ Well, I can think of two reasons."
 
 ---
 
-## Scene 01
+## Scene 02 Answer Unsatisfactory
 
 
 
@@ -100,7 +482,7 @@ If you're worried that your target will attack you once he's fallen into the tra
 
 ---
 
-## Scene 02
+## Scene 03 Answer Correct
 
 
 
@@ -128,7 +510,7 @@ You're just misunderstanding me."
 
 ---
 
-## Scene 03
+## Scene 04 Answer Correct
 
 
 
@@ -142,7 +524,7 @@ Maybe we could take advantage of that opening..."
 
 ---
 
-## Scene 04
+## Scene 05 What to do now
 
 
 
@@ -188,7 +570,7 @@ If there's anything else I should say, it's――――
 
 ---
 
-## Scene 05
+## Scene 06 Dead End Confrontation Miserable lone force
 
 
 
@@ -640,7 +1022,161 @@ It's only a bit more, but my body is suspended in midair...
 
 ---
 
-## Scene 06
+## Scene 07 Tiger Dojo 28
+
+
+
+Hi, is everyone doing well?
+
+This is the Tiger Dojo, the place to save those who fought hard in vain and died!
+
+---
+
+...Wait, the ground's shaking...
+
+---
+
+We have taken over Tiger Dojo!
+
+Disarm yourself, Taiga!
+
+---
+
+That voice, former pupil number one...!?
+
+Hey, what's going――――whaaaaaaaaaaaaat!?
+
+---
+
+Tiger!
+
+Look, Taiga! This is our secret weapon!
+
+---
+
+Ready, target the Tiger Dojo!
+
+Gunner, fire!
+
+---
+
+CHEEEEEEEEEEEST!!!!!
+
+---
+
+......Huh?
+
+---
+
+Kyaaaaaaaaaa!???
+
+---
+
+Tiger! The Tiger I got from the former ** army has been destroyed in one blow!?
+
+---
+
+Yes! I'm surprised as well!
+
+By the way, Private First Class Illya! I was really surprised that you came with a tank!
+
+---
+
+Oh... Teehee. I overdid it trying to surprise you. Am I full of fun?
+
+---
+
+I'll kill you!
+
+---
+
+Osu, thank you (cry).
+
+---
+
+It's fine if you understand.
+
+---
+
+I'd usually pull this joke a bit more, but it's getting tiresome, so I'll let you become my pupil again!
+
+---
+
+Eh, really, master?
+
+---
+
+Yup, really. There are twelve more Tiger Dojos.
+
+I can't handle them all by myself.
+
+---
+
+Actually, I don't know what you'll come attacking with next if I let you loose.
+
+---
+
+All right! Regular role get!
+
+But twelve more? Isn't that a lot? Does Shirou get killed by ▊▊▊ that many times?
+
+---
+
+Yeah, he will.
+
+---
+
+The chance of Shirou's death is highest in this route.
+
+And it's in bad taste too. In contrast to the splatter-like deaths you cause, this route is more horrifying.
+
+---
+
+Wow. The one's character is displayed.
+
+---
+
+Yeah. So you be careful in your choices, okay, Shirou?
+
+This dead end is, um... it's because you tried to fight by yourself even though Saber-chan's gone.
+
+---
+
+That's no good, Shirou. Your opponents are all monsters, so you have to team up with a monster you can use as a shield.
+
+---
+
+I know you don't want to, but go back to the choice and ask Rin.
+
+---
+
+And be careful with the choice after that. I don't know about a man doing everything he is told to do.
+
+---
+
+That's exactly right, master! Be able to say no!
+
+---
+
+Shirou with great determination!
+
+---
+
+That's right.
+
+---
+
+Then let's meet again in the next Tiger Dojo!
+
+The 9th day has four Tiger Dojos, so be careful in your choices!
+
+---
+
+See ya!
+
+---
+
+## Scene 08 Rin's question Choice
 
 
 
@@ -888,7 +1424,7 @@ Will you obey me, no matter what I tell you to do, during a battle?"
 
 ---
 
-## Scene 08
+## Scene 09 Who do you think you are?
 
 
 
@@ -908,7 +1444,7 @@ Will you obey me, no matter what I tell you to do, during a battle?"
 
 ---
 
-## Scene 09
+## Scene 10 Can you trust her? Can you stay on her side?
 
 
 
@@ -916,7 +1452,7 @@ Will you obey me, no matter what I tell you to do, during a battle?"
 
 ---
 
-## Scene 11
+## Scene 11 Who do you think you are?
 
 
 
@@ -940,7 +1476,7 @@ Or what? Are you saying I should conveniently give you whatever you ask with not
 
 ---
 
-## Scene 12
+## Scene 12 Will you give me your absolute obedience?
 
 
 
@@ -956,7 +1492,7 @@ That seems to be the final question, but――――
 
 ---
 
-## Scene 13
+## Scene 13 Let me win
 
 
 
@@ -1080,7 +1616,7 @@ So she might let me go home early today if I tell her about Sakura.... Right?
 
 ---
 
-## Scene 14
+## Scene 14 Geas
 
 
 
@@ -1220,7 +1756,519 @@ So she might let me go home early today if I tell her about Sakura.... Right?
 
 ---
 
-## Scene 15
+## Scene 15 Photo
+
+
+
+"――――――――"
+
+I wait for Tohsaka by the front gate.
+
+The sky is gray, and it looks like it'll rain any minute now.
+
+There's a chill wind, so it'll be a cold night if it rains.
+
+---
+
+"What are you thinking about?"
+
+―――Then.
+
+Tohsaka is in front of me when I notice.
+
+She must have ran here, as her shoulders are moving up and down.
+
+---
+
+"Nothing. I just thought it might rain."
+
+"Oh, the weather? I guess it'll just be a drizzle. We have to go patrol at night, so it'll be a pain if it rains too much."
+
+---
+
+...Hm.
+
+It seems Tohsaka has already made plans for us to go on patrol tonight.
+
+I don't mind, but I'd like to go by my house and check on Sakura before that.
+
+---
+
+"Tohsaka, about that..."
+
+"I know. I'll train you as your cooperator, so prepare yourself. I'll make you a proper magus."
+
+---
+
+With those confident words, Tohsaka sets off down the hill.
+
+...Crap.
+
+I can't bring up the subject of going home early if she smiles like that.
+
+---
+
+We make the long walk up the hill south of the intersection.
+
+This residential area is filled with Western-style houses.
+
+Tohsaka's house is at the top of this hill, past Sakura's.
+
+---
+
+"Wow――――"
+
+So this is Tohsaka's place.
+
+Sakura's house is bigger, but this house feels more like a Western mansion.
+
+---
+
+...And it somehow feels cold.
+
+There's been an air that seems to reject anyone nearing this place ever since we finished climbing up the hill.
+
+---
+
+"Why did you stop? This is my house."
+
+"Y―――Yeah, I know. I was just coerced."
+
+---
+
+"...Yeah. My house is different from yours. It's just that even someone who's ignorant of magical energy like you can feel the coldness of this house."
+
+Tohsaka goes into her home, speaking in bored tones.
+
+---
+
+"Hey, come on. I don't have any traps set up, so you don't need to hesitate."
+
+She beckons me from the entrance.
+
+---
+
+"......No. It's not because of the atmosphere that I'm hesitating."
+
+Muttering to myself, I gather my composure and go in.
+
+---
+
+...This place certainly does have a cold atmosphere, but that's nothing.
+
+She has no idea what a big deal it is for a guy to come over to Tohsaka Rin's house.
+
+...Well, I'm sure she won't understand even if I explain it to her. If I'm lucky, she'll just laugh.
+
+---
+
+――――Wait.
+
+---
+
+"W-Why are we in your room and not the living room!"
+
+---
+
+With an utter lack of concern, she shows me through the living room and into her bedroom.
+
+---
+
+"It's because this place has more instruments ready.
+
+The living room is where you have tea, but we didn't come here to drink tea, right?"
+
+"Uh――――um. You're... right, but..."
+
+Um, I wish she'd think of me as a boy her age.
+
+---
+
+"...? Just sit down wherever. I'll be using sage and cards to consecrate you, but tell me now if you don't like either."
+
+---
+
+Tohsaka opens the box by her bed.
+
+It looks like a treasure chest from an adventure movie.
+
+---
+
+"Hmm... Kishua's agate is useless for this. ...Oh, I'm out of sage. Can you bring some up from downstairs, Archer?"
+
+"Scarlet sage, right? ...Well, I don't think you'll need to go that far to distinguish this man."
+
+---
+
+"I'll do whatever I please. You can rest downstairs after that. We have a pact, so you don't need to protect me."
+
+"―――You're right. I doubt he has the nerve to betray you. I shall get ready for tonight."
+
+---
+
+That must be Archer.
+
+His presence must be thin when in spirit form. I didn't feel much magical energy from him.
+
+---
+
+"...I'm surprised. I didn't notice that he was in the room."
+
+"That's how it is if he's in spirit form.
+
+Even if he takes form, his magical energy won't leak outside as long as he's in this house. It's elementary for a workshop to shut in the magical energy."
+
+---
+
+"Oh. So is it the same for Makiri... no, Matou's place?"
+
+"Yes. But that place has no need to hide magical energy anymore. If they are hiding magical energy, it'd be the energy leaking out from the magus himself and not from the house."
+
+---
+
+"Well, either way, it takes nothing to hide magical energy. I'd take Archer with me to school too, but I'm resting him during the day since he's not up to par."
+
+---
+
+Tohsaka rummages through the treasure chest with a difficult expression.
+
+...It seems she can't find what she wants. Is she the kind of person that never keeps anything in order?
+
+---
+
+"...Really, why doesn't the wound he received from Saber heal when all other wounds can be healed easily? I'm sure they had some connection... Geez, why am I finding my master's jewels now? I can never find them when I want them, dammit!"
+
+---
+
+She leans forward and keeps fumbling around.
+
+...That chest looks small, but it seems big enough to be able to fit Tohsaka inside.
+
+---
+
+"――――Man."
+
+There's nothing to prepare for.
+
+All I can do is pray that she'll find the thing she wants, or just look around her room aimlessly――――
+
+---
+
+"......?"
+
+Then.
+
+I see something.
+
+---
+
+―――It's a photo.
+
+A bookshelf that's about waist-high is at the corner of the room.
+
+On it is a photo that looks to have been forgotten.
+
+Dust falls off of it when I pick it up, and I can tell it has been left alone for a long time
+
+---
+
+"...It's not that she never cleans. Just this picture is undisturbed."
+
+Does Tohsaka not like seeing herself as a kid?
+
+...No, if that were all, she could just put it away. Maybe it's important to her, but she doesn't want to touch it...
+
+---
+
+"......But..."
+
+People sure can change.
+
+Tohsaka looks like she's five or six years old, and she's really cute in the picture.
+
+---
+
+"...So she had long hair back then, too.... Huh?"
+
+The girl in the picture looks just like she is now, except younger.
+
+That's why I notice the one thing that's different.
+
+---
+
+"Thanks for waiting, I'm all ready now. There'll be a little pain, but it's nothing you should be worried about... Huh, what's going on, Emiya-kun?"
+
+---
+
+"Oh. This, Tohsaka."
+
+I show her the picture I found.
+
+---
+
+"Oh, that's an old photo. I just put that in the corner, but is something wrong with it?"
+
+"Huh... Well, there's nothing wrong, but..."
+
+---
+
+It's nothing much, so I hesitate.
+
+It's nothing I need to ask about, but it just caught my attention.
+
+---
+
+"Oh. I see, you want to say I have a different ribbon on, right?"
+
+"――――――――"
+
+I nod.
+
+---
+
+"That's natural. I'm a girl, so I have lots of ribbons. Even if it's my favorite, do you think I'd keep the same ribbon for over ten years?"
+
+---
+
+Oh.
+
+She's right now that she mentions it.
+
+It's just an ordinary ribbon. Why was I so concerned about it?
+
+---
+
+"I'm kidding. That's what I want to say, but ribbons are special. It's the last resort for female magi. It's an appropriate magical item, so there aren't many substitutes for it."
+
+"...Wow. Then is that ribbon some sort of a magical item?"
+
+---
+
+"Yes. Holding the hair in place means holding the magical energy in place. My family doesn't have mystic eyes, so we have to at least keep our reserve magical energy from our hair.
+
+It's something that controls your body, so it's best if you make it yourself, right?"
+
+---
+
+"That's the first ribbon I made. It was my favorite, but I parted with it for various reasons.
+
+...Well, let's stop with the idle talk. I'm starting the consecration, so sit down in that chair―――"
+
+---
+
+## Scene 16 Afternoon-Return home Rin-sama gets angry
+
+
+
+Tohsaka's analysis ends rather quickly.
+
+She lit an incense, did something like tarot fortune-telling, and asked me a few personality assessment-like questions.
+
+---
+
+And Tohsaka says...
+
+"―――You don't correspond to anything. Further analysis would be useless."
+
+...And quickly gives up diagnosing my Magic Circuit.
+
+---
+
+"Hey. Does that mean you can't tell?"
+
+And when I ask her...
+
+---
+
+"Excuse me. I found out that you're not related to the five elements. Any more consecration is out of my expertise, so it's useless to keep going.
+
+I'll just see what magecraft you can use and figure out from there."
+
+---
+
+...That's how it is according to her.
+
+I run through the "strengthening" magecraft using the clay she prepared.
+
+---
+
+It's called an ether cluster, and it's a strange object that returns to its original form no matter what happens to it. It's a good conductor of magical energy.
+
+I strengthen it so easily that I'm afraid it won't recover, but...
+
+---
+
+"It's like shiniku, so don't worry about it. It restores its original state in a day even if you bundle it with strong magical energy."
+
+...She says something like that.
+
+Shiniku, by the way, is meat that never goes away, no matter how much of it you eat.
+
+---
+
+...Anyway, I keep repeating the strengthening magecraft on the clay.
+
+I can't fail in front of Tohsaka, but I only succeed two out of ten times.
+
+Activating my Magic Circuit, which was easy when I had Saber, took a lot of time and effort.
+
+---
+
+Tohsaka asks me a few questions while I cast the strengthening magecraft.
+
+Whether I'm self-taught, whether I can use any other spells, how Kiritsugu taught me, and what I have the easiest time imagining.
+
+---
+
+So.
+
+Tohsaka's expression darkens further with each answer I give, and by the end she's shut up entirely.
+
+I don't know what she's angry about, but it's really awkward to be here if she makes a face like that.
+
+---
+
+"Tohsaka? ...Um, I know it's only a matter of course, but are you regretting cooperating with me because I'm such an amateur?"
+
+I ask her the most likely thing.
+
+---
+
+"Huh...? Yeah, I do regret that you're an amateur, but in your case, you were taught wrong... Or should I say that I'm surprised you're still alive with the way you're doing things."
+
+Tohsaka ponders.
+
+---
+
+"...? Heeey, Tohsaka? You lost me."
+
+".........?"
+
+Why is she glaring at me?
+
+---
+
+"......Fine. I guess if I'm going to correct you, we'll have to start with the fundamentals. But let's go back to what we were talking about earlier. Is it true that the things you projected are still in your shed?"
+
+"Yeah. Things don't normally go away unless you break them, right?"
+
+---
+
+I told her that I use projection as a breather in between strengthening magecraft.
+
+It seems Tohsaka is particular about it, and told me to use projection using the clay.
+
+She told me to make a vase. Everything started out smoothly, but in the end I still failed.
+
+---
+
+"―――Hmph. For now, I'll teach you how to turn your switch on and off.
+
+It's faster to make an actual switch in your body. Stay over tonight. It's a drastic measure, so you'll have to stay in bed all night."
+
+---
+
+"What――――? You mean here?"
+
+"What's with that face? Don't worry. I'm not going to be performing surgery on you. You'll just drink some medicine. Well, you won't be able to move for a while because it's so strong."
+
+---
+
+"Oh... Um, it's not that I don't like drastic measures..."
+
+...I look at the clock.
+
+It's almost five.
+
+I didn't notice since it's cloudy today, but it's getting late.
+
+---
+
+Tohsaka is helping me as a fellow magus.
+
+I'm worried about leaving Sakura alone in her condition, but today's an exception.
+
+...Tohsaka's cooperating with me, so she takes precedence.
+
+---
+
+"...Hey, why the painful look?
+
+You don't mind taking drastic measures, right? Then just give up and accept it."
+
+---
+
+"...Yeah, I will. But let me make sure, Tohsaka. This thing will end today, right? I'll really be in trouble if I can't move tomorrow."
+
+---
+
+"...Well. I can't deny that possibility, to be honest. I can't tell how it'll turn out, and it'll take longer if your body has matured to the point where it can't be tampered with. And there's the possibility of the operation itself failing.
+
+Well, that's all up to your luck. How's your luck recently, Emiya-kun?"
+
+---
+
+...It's bad.
+
+It's worse still given that the one asking me holds my fate in her hands.
+
+---
+
+"...Hold on. That's really troublesome.
+
+I have to go home by tomorrow."
+
+"Huh? Your home?"
+
+---
+
+"Yeah. Sakura's lying sick at my house, so I want to go check on her. I won't be able to rest easy while I'm lying in bed unless I'm sure she's all right."
+
+---
+
+"Crap―――I forgot about it."
+
+...She's astonished.
+
+Tohsaka stares at me, bewildered, and...
+
+"You idiot! I wouldn't have kept you here for so long if you'd told me earlier...!"
+
+...As if trying to get back at me, she gives an unexpected response.
+
+---
+
+"We can talk about the switch later! We can do that at your house!"
+
+"W-What...!?"
+
+She yells at me as she crosses the room and puts on her coat.
+
+---
+
+"Let's go. We're done with what we have to do here, and we can do the rest at your place. We'll continue as soon as you're done with nursing Sakura, so let's hurry."
+
+"Eh――――o-okay. That'll help me out."
+
+---
+
+"...Humph. I'll tell you now since I don't want to have to keep remembering this.
+
+―――Your nature is in projection and not strengthening.
+
+I don't know where you made your mistake or what your misunderstanding is, but you're a magus that belongs on the 'side that creates'."
+
+Tohsaka walks off down the hallway.
+
+---
+
+"...?"
+
+I tilt my head in wonder, but I follow Tohsaka and leave the Tohsaka household.
+
+---
+
+## Scene 17 Afternoon Choice
 
 
 
@@ -1356,65 +2404,7 @@ I should――――
 
 ---
 
-## Scene 16
-
-
-
-...I'm worried about Sakura.
-
-I feel bad, but I should clearly tell her.
-
----
-
-"Tohsaka? Would you mind doing that at my house?"
-
-"Huh? At your house?"
-
----
-
-"Yeah. Sakura's lying sick at my house, so I want to go check on her. I won't be able to rest easy while I'm lying in bed unless I'm sure she's all right."
-
----
-
-"Crap―――that's right."
-
-...She's astonished.
-
-It's only natural. Anyone would get mad if someone asked to cooperate, but told them today is a bad day to train――――
-
----
-
-"You idiot! I wouldn't have kept you here for so long if you'd told me earlier...!"
-
-".........Huh?"
-
-She stands up as soon as she yells at me, then crosses the room and puts on her coat.
-
----
-
-"Let's go. We've done everything that has to be done here, and we can do the rest at your place. We'll continue as soon as you're done with nursing Sakura, so let's hurry."
-
-"Eh――――o-okay. That'll help me out."
-
----
-
-"...Humph. I'll tell you now since I don't want to have to keep remembering this.
-
-―――Your nature is in projection and not strengthening.
-
-I don't know where you made your mistake or what your misunderstanding is, but you're a magus that belongs on the 'side that creates'."
-
-Tohsaka walks off down the hallway.
-
----
-
-"...?"
-
-I tilt my head in wonder, but I follow Tohsaka and leave the Tohsaka household.
-
----
-
-## Scene 17
+## Scene 18 Rin-sama still gets angry
 
 
 
@@ -1500,7 +2490,65 @@ I tilt my head in wonder, but I follow Tohsaka and leave the Tohsaka household.
 
 ---
 
-## Scene 18
+## Scene 19 Rin-sama gets angry
+
+
+
+...I'm worried about Sakura.
+
+I feel bad, but I should clearly tell her.
+
+---
+
+"Tohsaka? Would you mind doing that at my house?"
+
+"Huh? At your house?"
+
+---
+
+"Yeah. Sakura's lying sick at my house, so I want to go check on her. I won't be able to rest easy while I'm lying in bed unless I'm sure she's all right."
+
+---
+
+"Crap―――that's right."
+
+...She's astonished.
+
+It's only natural. Anyone would get mad if someone asked to cooperate, but told them today is a bad day to train――――
+
+---
+
+"You idiot! I wouldn't have kept you here for so long if you'd told me earlier...!"
+
+".........Huh?"
+
+She stands up as soon as she yells at me, then crosses the room and puts on her coat.
+
+---
+
+"Let's go. We've done everything that has to be done here, and we can do the rest at your place. We'll continue as soon as you're done with nursing Sakura, so let's hurry."
+
+"Eh――――o-okay. That'll help me out."
+
+---
+
+"...Humph. I'll tell you now since I don't want to have to keep remembering this.
+
+―――Your nature is in projection and not strengthening.
+
+I don't know where you made your mistake or what your misunderstanding is, but you're a magus that belongs on the 'side that creates'."
+
+Tohsaka walks off down the hallway.
+
+---
+
+"...?"
+
+I tilt my head in wonder, but I follow Tohsaka and leave the Tohsaka household.
+
+---
+
+## Scene 20 Over
 
 
 
@@ -1984,7 +3032,681 @@ I have to come home with Sakura before that.
 
 ---
 
-## Scene 19
+## Scene 21 VS Rider
+
+
+
+"Hold on...! Didn't you join forces with me because you couldn't save people by yourself..!?"
+
+---
+
+"――――――――"
+
+I stop.
+
+Her words splash cold water onto my heated brain.
+
+---
+
+"――――I'm sorry. But Sakura's in danger. I know it's suicidal to go alone, but this is all I can do."
+
+---
+
+"...I thought so. But I can't readily help you as long as Shinji is holding Sakura hostage.
+
+But Emiya-kun. If you can manage to get Sakura back from Shinji, I can do the rest."
+
+---
+
+"――――You'll take care of Shinji?"
+
+"No, I'm talking about Rider. Servants are ones who fight other Servants, right?
+
+I'll be hiding, so do anything you can to save Sakura. If you can manage that, I'll save you no matter what, even if you are about to die in the next second."
+
+---
+
+Tohsaka sounds like she's trying to convince herself.
+
+...This is just going to increase the burden on her.
+
+I'm fully aware of that. I got Tohsaka to help me, and now Tohsaka's trying to fulfill our promise.
+
+---
+
+That convinces me.
+
+I'll rely on Tohsaka.
+
+In return, I'm going to get Sakura back.
+
+---
+
+"All right. I'll leave the follow-up to you."
+
+"Yeah. But that's under the condition that you're still alive to protect Sakura.
+
+Even Archer can't protect Sakura while fighting Rider. It's meaningless to save Sakura at the cost of your life."
+
+---
+
+The school building is deserted.
+
+Thanks to the series of comas, the school closed early.
+
+It's not even six o'clock, but there are no students or teachers to be seen.
+
+---
+
+"――――Can you tell where Shinji is, Tohsaka?"
+
+"...Knowing him, he's probably inside. I'm sure he's waiting in familiar territory on an upper floor."
+
+That could only be one place.
+
+Shinji is in the classroom on the third floor.
+
+---
+
+"I'll go ahead. You come later, Tohsaka."
+
+"...Okay. I'll go through the gate after ten minutes.
+
+I didn't tell you, but a boundary field's set up here. I'll be found even if I hide my presence, so keep their attention so they don't notice me."
+
+---
+
+I nod and start running.
+
+――――There's hot steel in my back.
+
+The Magic Circuit is already made.
+
+I tell myself that my only weapon is meant to protect Sakura, not to harm my enemy.
+
+---
+
+"...!"
+
+I stop.
+
+On the third floor hallway are a black Servant and Shinji, holding a knife at Sakura.
+
+---
+
+"You――――!"
+
+My mind explodes.
+
+My feet start to move again.
+
+Then―――the black Servant blocks my way.
+
+---
+
+"Stop. My Master will harm her if you take another step."
+
+"...!"
+
+I slide to an abrupt halt.
+
+My mouth hurts.
+
+I'm gritting my teeth so hard that they're screaming.
+
+---
+
+"Shinji――――!"
+
+"Yo. Just like I thought, you came flying over here. I knew you would come alone if I told you to."
+
+---
+
+"――――!"
+
+My cool brain boils up once again.
+
+My head shakes so much that I almost forget about the Servant in front of me.
+
+---
+
+"...What is that?"
+
+Why is he doing such a thing?
+
+---
+
+Sakura is Shinji's sister.
+
+An older brother should protect his younger sister.
+
+Family members should help each other and laugh together.
+
+So why doesn't he understand?
+
+Something I couldn't protect.
+
+Why can't he understand how Sakura must feel to have her own brother holding a knife to her!?
+
+---
+
+"Are you serious, Shinji――――?"
+
+"Of course. I'm using the last trump card because I'm serious. Why are you stupid even at a time like this?"
+
+---
+
+"...!"
+
+Before I know it, I'm running.
+
+I can't stop until I get Sakura away from him.
+
+---
+
+"――――――――"
+
+But she's in my way.
+
+Rider is blocking my way, protecting Shinji.
+
+---
+
+"...I do not understand. Why did you come here?
+
+In coming here, you showed you were willing to obey my Master. If you planned to fight, you should not have come alone."
+
+---
+
+"――――!"
+
+...Rider's right.
+
+...I have to calm down.
+
+Since I obeyed Shinji, I have to think only about saving Sakura and not defeating Shinji.
+
+---
+
+"―――――――Phew."
+
+I take a deep breath and pull myself together.
+
+---
+
+Shinji is enjoying my dismay with Sakura in his arms.
+
+...Sakura hasn't raised her head since I arrived.
+
+She's not unconscious.
+
+She's standing unassisted.
+
+Her head is down because she doesn't want to raise it.
+
+---
+
+"―――Shinji. Did you tell her about us?"
+
+I glare at him, unable to hide my anger.
+
+"Huh?"
+
+---
+
+"――――Oh. Oh, I see!
+
+Yeah, don't worry, Emiya. Since you wouldn't tell her, I told her everything! I told her we're both Masters and tried to kill each other!"
+
+---
+
+"――――!"
+
+"Did you want to hide that from her? Are you stupid? Of course she'll find out! She knew you were hiding something, but she couldn't ask you because she's just your underclassman!"
+
+"......!"
+
+---
+
+He presses the blade against Sakura's cheek.
+
+Sakura looks away, but grits her teeth so that she won't raise her face.
+
+---
+
+"Come on, don't be reserved and ask. Emiya won't hide anything now. See, it's your wish come true!"
+
+"――――――――"
+
+She doesn't reply.
+
+With her head down...
+
+---
+
+"Hey. Why aren't you saying anything?
+
+I told you to ask him. I'm telling you to ask him what he thinks of you and if he hates you after finding out that you're a dirty woman of Matou!"
+
+---
+
+"Shinji――――!"
+
+...Her figure looks like she's apologizing to me, and I can't contain myself anymore.
+
+---
+
+"It's fine now, right? I came here, just like I promised. Let Sakura go."
+
+"What? I didn't promise you anything. I gave you a command.
+
+I just said I wouldn't do anything to Sakura if you came alone."
+
+"――――――――"
+
+---
+
+"Don't glare so much, Emiya. I'm not a devil. I'm glad that you want to save my sister. I'll meet your sincerity if you act accordingly. I can send Sakura home once we're done.
+
+---
+
+"I see―――is that a promise, Shinji?"
+
+"Yeah. I'll let Sakura go if you do as I say.
+
+This is a promise. I swear."
+
+---
+
+"All right. So, what do you want me to do? Do you want me to get on my knees and beg?"
+
+"Nope. What's the fun in making a guy beg? I brought you here to fight. I told you we're settling our match."
+
+---
+
+...Rider takes a step forward.
+
+There's no enmity or intent to kill.
+
+Rider steps forward to obey her Master.
+
+---
+
+"But it's boring to just fight, right? It's not fair since I'm not a magus, and it's obvious that I'll win in a fight.
+
+So to be fair, I'll have her fight you."
+
+---
+
+"――――――――!"
+
+...Heh.
+
+Fight Rider empty-handed, huh?
+
+That's like telling me to die.
+
+---
+
+"I won't take your life. I've told Rider to go easy on you.
+
+Well, I'm sure you'll be a nuisance if you keep running around after today, so I'll have her break your limbs."
+
+---
+
+...Rider is not holding her dagger.
+
+It seems she really is going to go easy on me.
+
+---
+
+"Isn't your job easy? You just have to stand there and get hit like a dumbass.
+
+Oh, but don't go down too soon, okay? If you faint before I'm satisfied, I'll have Sakura take the rest."
+
+---
+
+"――――――――"
+
+...Rider comes closer.
+
+Three more steps.
+
+Then I'll be within her reach.
+
+---
+
+"...Heh. Don't resist, but don't go down easily?
+
+You're contradicting yourself. What do you want, Shinji?"
+
+---
+
+"Hah, that's obvious, isn't it...!?
+
+I just want to beat the crap out of you...!!"
+
+---
+
+Rider springs forward.
+
+"――――"
+
+I raise both my arms in preparation for her attack.
+
+At that instant――――
+
+An impact that almost blows the bones away with it pierces my right arm.
+
+---
+
+"Guh――――!"
+
+She aimed at my arm that was guarding my face.
+
+My arm is still attached.
+
+But it's numb and I don't feel anything.
+
+---
+
+"Haa......!"
+
+I lace my senses as fast as possible.
+
+I can't do anything bare-handed.
+
+Unless I strengthen everything that can be strengthened, my limbs will be torn clean off.
+
+I have to turn my uniform into steel and turn my body into something even stronger, or the next attack will kill me――――!
+
+---
+
+"――――!"
+
+A tremor runs through my left arm.
+
+The blow like a bushhammer penetrates through my strengthened uniform and tries to break my left arm.
+
+---
+
+"Haa――――you――――!"
+
+Both my arms have been rendered useless in a mere second.
+
+―――No, they do move, but I don't feel them.
+
+I can't use my deadened arms to block her attacks.
+
+If she takes another shot at my head now, I'll be knocked out for sure...!
+
+---
+
+Rider is merciless.
+
+She beats me relentlessly, just as Shinji ordered.
+
+Her movements remind me of a machine.
+
+---
+
+"Ah, guh......!"
+
+I protect my face with arms that barely move.
+
+From the start, I can't perceive Rider's attacks to block them accordingly.
+
+I have to concentrate on guarding my head so that I won't get knocked unconscious.
+
+---
+
+"Kuh, guh――――!"
+
+What is Rider thinking?
+
+Even though my arms are an easy target, she ignores them.
+
+She only hits my exposed chest and stomach.
+
+...They are agonizing blows, but aren't as strong as the attacks that numbed my arms.
+
+---
+
+"―――――――, ――――"
+
+...It's strange.
+
+With the strength Rider showed at the Ryuudou Temple, a single blow should be enough to tear me in half.
+
+...Is she going easy like Shinji said?
+
+Well, she is going easy on me by not aiming at my face, but even with that in mind, something's not right.
+
+---
+
+"――――――!"
+
+In short, her power is way too different.
+
+A Servant's power is in direct proportion to the magical energy you can feel from them.
+
+---
+
+Rider was a strong Servant back at the Ryuudou Temple.
+
+But the Rider before me now is the Rider that was defeated at the park.
+
+I don't know what happened, but if that's the case, I still have a chance to outwit Shinji―――!
+
+---
+
+"Gu, fu...!"
+
+I fall forward.
+
+Seemingly tired of using me like a punching bag, she steps forward and drives her fist into my stomach.
+
+---
+
+"――――"
+
+It's like a stake gouging into my abdomen.
+
+...The attack is really effective.
+
+The bruises from last night are screaming with pain.
+
+Gastric juice fills my mouth and I almost fall down to my knees.
+
+---
+
+"What, is that it, Emiya? That's pitiful. You're in front of Sakura, so take it like a man!"
+
+...I fall forward.
+
+---
+
+"――――――――"
+
+Rider steps back and watches.
+
+---
+
+Then...
+
+"――――Ahh......!"
+
+I grab Rider's arm and force myself up.
+
+---
+
+"――――! That's good, Emiya! You're as persistent as a roach!
+
+Ahaha, you're hilarious!"
+
+Ah... guh.
+
+Damn, that hurts. My head is spinning, even though she didn't hit me there―――
+
+---
+
+"But, well... This is a third-rate show. Even if we continue, it'll just be more of the same. I'm getting bored, so let's finish it off with an exciting knockout scene."
+
+---
+
+――――The same?
+
+Are you stupid? What's the same about this?
+
+We're standing in a different position now.
+
+Hasn't he noticed that I switched positions with Rider when I pulled myself up using her arm?
+
+---
+
+"――――There are about five more meters. Your patience has won out."
+
+"What...?"
+
+I raise my head.
+
+What did Rider just say?
+
+---
+
+"Enough resting. Start the second round, Emiya."
+
+Rider shakes off my hand.
+
+The black Servant resumes her attacks with the artificiality of a machine.
+
+---
+
+―――I'm being pushed back.
+
+To avoid finishing me off, Rider's attacks stay clear of my vital areas.
+
+---
+
+"――――――――"
+
+My body is numb.
+
+I'm bruised everywhere I got hit, and I don't feel pain anymore.
+
+It's because the pain from within is worse than her attacks.
+
+Rider has attacked me to destroy my body.
+
+---
+
+"――――――Prepare yourself."
+
+The black Servant closes the distance with an emotionless voice.
+
+---
+
+And in that moment, I am certain.
+
+This isn't part of Shinji's plan.
+
+Rider's decision not to go for my head,
+
+and that I can still move my body...
+
+It's not because Shinji ordered her to go easy on me, but――――
+
+---
+
+"All right, you don't have to hold back anymore! Kill him, Rider!"
+
+"...!? Nii-san, stop...!"
+
+---
+
+Rider's hair flutters as she steps in...
+
+...and hits me in the chest with her most powerful strike yet.
+
+---
+
+"Guh――――――――"
+
+I can't breathe.
+
+I don't feel the ground anymore.
+
+Her attack almost blows me unconscious even though I knew it was coming.
+
+---
+
+"Senpai...!"
+
+---
+
+I hear a scream and a delighted laugh as I fly through the air.
+
+...Sakura's voice is close.
+
+---
+
+―――I fall.
+
+Under normal circumstances, I would've hit the floor and died.
+
+The impact of the fall doesn't matter.
+
+It's an attack strong enough to blow a human away.
+
+It wouldn't be surprising if the strike blew a hole in my chest.
+
+---
+
+"......Hah."
+
+But I'm alive.
+
+Anyone can jump back if the timing is set so perfectly.
+
+That attack wasn't meant to kill me.
+
+She's kept me conscious and mobile, not because of Shinji's order, but――――of her own free will.
+
+---
+
+"――――Now."
+
+The range is perfect.
+
+I turn my body right before I hit the ground, straighten myself instantly,
+
+---
+
+"Huh?"
+
+and grab the knife in front of me with my left hand.
+
+---
+
+I catch it by the blade.
+
+I don't care about it digging into my hand because it's numb.
+
+---
+
+"W-What――――!?"
+
+I raise my other arm.
+
+Without a thought for the pain...
+
+---
+
+I punch him square in the face with my clenched fist.
+
+---
+
+## Scene 22 Truth about Sakura
 
 
 
@@ -2788,7 +4510,7 @@ Rider raises her arm.
 
 There's four meters between her and Archer.
 
-Maintaining that distance, the black Servant puts her hand on her ͛wrap text="face"]face and...
+Maintaining that distance, the black Servant puts her hand on her face and...
 
 ---
 
@@ -2942,7 +4664,283 @@ With the scene of several seconds in the future in mind, I...
 
 ---
 
-## Scene 20
+## Scene 23 Dead End Stone coffin
+
+
+
+―――I'm the only one who can move.
+
+Archer and Tohsaka are sealed by Rider's mystic eyes.
+
+Then I just need to get the main cause――――!
+
+---
+
+I run at Rider.
+
+Even if I can't beat her, I should at least be able to make her look away from Archer for a second...!
+
+---
+
+"...!? Are you stupid...!? Don't look directly at her...!"
+
+I ignore Archer's voice and run at Rider.
+
+---
+
+―――If those are mystic eyes of petrification, I just need to close my eyes.
+
+The hallway is small.
+
+I know how much distance there is between us.
+
+Rider can attack me or I can haphazardly attack her. Either way, Archer should be able to do something during that opening...!
+
+---
+
+―――But my legs freeze.
+
+No, they are literally petrified.
+
+---
+
+"Wh――――"
+
+It's not just my legs.
+
+The petrification does not stop and reaches my waist, hardens my chest, destroys my arms, and locks up my closed eyes forever.
+
+"――――Why?"
+
+---
+
+"―――How foolish.
+
+Trying to block my mystic eyes by merely closing your eyes. It doesn't matter if you look at me with your naked eyes or your mind's eye, as it is a curse to look at me in any way."
+
+---
+
+"――――――――, ――――――――"
+
+I can't move my throat or my mouth.
+
+...I can't even tell what's going on.
+
+Even if Tohsaka screamed,
+
+or if Archer fell to the ground...
+
+I have no way to know, as I'm petrified.
+
+---
+
+My body has turned to stone, and my mind is swiftly following.
+
+...The three sisters from the legend are immortal.
+
+Just like them, my body will never change.
+
+---
+
+## Scene 24 Tiger Dojo 29
+
+
+
+...Um, it's the Tiger Dojo, but... isn't it a bit strange this time?
+
+---
+
+Osu, that's not true.
+
+It's the normal, peaceful and fun Tiger Dojo!
+
+---
+
+Uh, I feel murderous intent again... No, this isn't just my imagination. I think something bad is glaring at me.
+
+---
+
+Well, this dead end is your usual abrupt death!
+
+---
+
+Once you see Rider's eyes, you can't get away from her mystic eyes. It's smarter to go into defense rather than trying to attack.
+
+---
+
+Wait! Hold on! Something is weird, there's someone behind me! But I'm too scared to turn around and look!
+
+---
+
+Hmm, but Shirou sure does die in bizarre ways.
+
+It's rare even in our world to die of petrification.
+
+---
+
+It's near me! The rare death is right near me!
+
+Why do I deserve this!?
+
+---
+
+Why? It's because Sakura's the type to bear grudges.
+
+---
+
+Don't you remember saying it before, Taiga? You said Rider's Master is a twisted snake woman.
+
+---
+
+Whoa, maybe I did say something like that...
+
+---
+
+Whoa!
+
+Heeeelp meeee, soooomeone!
+
+---
+
+Well, the Tiger Dojo is over!
+
+---
+
+You reap what you sow.
+
+Be careful about talking behind people's backs!
+
+---
+
+## Scene 25 Direct hit
+
+
+
+―――My legs won't move.
+
+I can't move and can only watch as the black spear pierces Tohsaka...
+
+"――――What?"
+
+And I see it change its course at the last second.
+
+---
+
+―――The weapon wavers.
+
+The weapon that came flying at Tohsaka changes its direction at the very last moment.
+
+The black spear rotates.
+
+As if it has found better prey, it lances towards me.
+
+---
+
+"――――Ow."
+
+A dull piercing sound.
+
+...My body is burning.
+
+My vision is wavering as if I have a high fever.
+
+---
+
+"――――Senpai?"
+
+---
+
+...A familiar voice from a distance.
+
+My sense of reality is fading.
+
+My mind whites out and my left arm bleeds red, mixing like paint.
+
+---
+
+"――――No."
+
+---
+
+I see Sakura staring at me as I fall to the floor.
+
+---
+
+"Nooooooo...!!!"
+
+---
+
+And she falls to the ground like a puppet with its strings cut.
+
+---
+
+"How do you feel? Have you calmed down?"
+
+"―――――――――"
+
+Sitting on the church's long bench, I nod silently.
+
+---
+
+"I see. Then there's no need for treatment. Your wounds should all heal as your energy recovers, so just rest for now."
+
+---
+
+Tohsaka sits a bit away from me.
+
+...The distance between our minds is much greater than this.
+
+There's no idle conversation as we wait for Kotomine.
+
+---
+
+"―――――――!"
+
+My left hand screams with pain when I clench it.
+
+It feels like there's a nail driven through my palm.
+
+The cut from grabbing the knife hurts more than the bruises from Rider or the stab wound from Sakura.
+
+---
+
+The dark clouds block the view of the night sky.
+
+The rain clouds tell me that it's going to rain soon.
+
+---
+
+"......"
+
+...I guess the spear-like thing that attacked Tohsaka was Sakura's magecraft.
+
+---
+
+The magical nature that the Matou household inherits is "absorption".
+
+When lack of magical energy made Sakura suffer, she unconsciously cast the spell.
+
+It stabbed and entangled around my arm because Sakura needed help, and it sucked all the magical energy out of me.
+
+---
+
+Magical energy is life force.
+
+It's natural for me to lose consciousness when it's sucked out of me.
+
+I'd already used up my energy when I fought Rider, so I easily fell unconscious, and Tohsaka brought me to the church after that.
+
+...I hear Sakura fainted when she saw me fall.
+
+---
+
+"―――She attacked herself."
+
+Tohsaka murmurs and explains to me that she's getting treated in the back right now.
+
+---
+
+## Scene 26 Save Rin
 
 
 
@@ -3092,213 +5090,768 @@ Tohsaka murmurs and explains to me that she's getting treated in the back right 
 
 ---
 
-## Scene 21
+## Scene 27 Sisters(I)
 
 
 
-―――I'm the only one who can move.
+It seems Sakura is in critical condition.
 
-Archer and Tohsaka are sealed by Rider's mystic eyes.
-
-Then I just need to get the main cause――――!
+The liquid that came out of her earring was poison, and Kotomine is purifying it now.
 
 ---
 
-I run at Rider.
+Tohsaka doesn't say anything.
 
-Even if I can't beat her, I should at least be able to make her look away from Archer for a second...!
+Neither Archer nor Rider are here.
 
----
-
-"...!? Are you stupid...!? Don't look directly at her...!"
-
-I ignore Archer's voice and run at Rider.
+Only the two of us are in the church, waiting for Kotomine's return.
 
 ---
 
-―――If those are mystic eyes of petrification, I just need to close my eyes.
+"――――Tohsaka."
 
-The hallway is small.
+Still sitting down, I call out to her.
 
-I know how much distance there is between us.
+"What?"
 
-Rider can attack me or I can haphazardly attack her. Either way, Archer should be able to do something during that opening...!
+"I want to ask you something."
 
 ---
 
-―――But my legs freeze.
+"......I thought so. Fine, I'll tell you. It's no use hiding it from you, and it's meaningless to do so now.
 
-No, they are literally petrified.
+So you want to ask about Sakura?"
+
+---
+
+I nod.
+
+Tohsaka takes a deep breath and starts to talk in her normal tone.
+
+---
+
+"―――It all started quite some time ago. The Matou blood started to run thin, and their children were born with fewer and fewer magecraft-Circuits.
+
+The family is originally from another country, so I think the land of Japan didn't suit them.
+
+Their decline started when they started living here, and the Magic Circuit finally disappeared in this generation when Shinji was born."
+
+---
+
+"...The history of Matou ended with that.
+
+They should have taken an apprentice or something if they'd wanted their quest to continue. But the Matous are a distinguished family, and to the last, they refused to take in an outsider.
+
+---
+
+"As a result, their successors had less magical energy, and it finally ran out in the end.
+
+...They finally started looking for an apprentice when that happened, but no magus would come to a fallen family. Hundreds of years of Makiri history should have ended at that time."
+
+---
+
+"But they weren't people who could give up then. Shinji's father adopted a child and taught the child magecraft."
+
+---
+
+"―――So.
+
+I expect you wouldn't know because your family is a special case, but a family of magi hands down its secrets to only one child. They don't teach magecraft to any other children. Zouken said this, right?
+
+If there is a sibling, one is your successor, while the other is raised normally or put up for adoption."
+
+---
+
+"――――――――"
+
+There's no need for two successors.
+
+In a case of siblings... no, "sisters", what would be done to the one who wasn't needed?
+
+---
+
+Some may raise her and hide from her the fact that they are a family of magi.
+
+But that's difficult and inefficient.
+
+If they trained their Magic Circuit over many generations, it would not be their wish to waste the excellent gene even if she is not chosen as the successor.
+
+Then――――
+
+---
+
+"Tohsaka."
+
+"Yes. I had a sister a year younger than me.
+
+...The declined Matou family had no hope of someone giving them a child for adoption.
+
+It's only natural for them to rely on the Tohsaka family, the ones they held a pact with for a long time."
+
+---
+
+"I don't know which one of us my dad intended to make his successor. But I remained a Tohsaka, and she was taken to the Matou family.
+
+That was eleven years ago.
+
+I couldn't go see her much after that. It was an agreement made with Matou, and I couldn't readily go see the successor of the Matous."
+
+---
+
+"I see. Then you and Sakura are..."
+
+"Real sisters. ...Well, we never called each other like that."
+
+---
+
+...I don't know how much emotion is contained in those simple words.
+
+But that makes me understand.
+
+Why she always asked about Sakura.
+
+Why she didn't let Archer use his Noble Phantasm.
+
+---
+
+"...That's good. You're on Sakura's side."
+
+A dim light shines into the gloom of my mind.
+
+...I don't know what's going to happen to Sakura, or what she's going to do from now on.
+
+But if Tohsaka cares for Sakura, there just might be hope waiting on the ominous path ahead.
+
+---
+
+"No. I'm not her ally or anything."
+
+―――But...
+
+Tohsaka denies me as if reading my thoughts.
+
+---
+
+"Not her ally...?"
+
+"Right. If Sakura can't be cured, I'll dispose of her, just like I would with any other Master gone rampant. I can't sit idly by while a magus indiscriminately attacks people. If Kirei can't treat Sakura, then I'll just have to get rid of her myself."
+
+---
+
+"W―――What are you saying...!? Sakura's your sister, isn't she!? Don't ever say something like that...!"
+
+---
+
+"Sakura is a child of the Matous. She stopped being my sister eleven years ago."
+
+"Tohsaka, you――――"
+
+---
+
+"...Hmph. The outcome won't change even if Sakura is my family as you say. It wouldn't change anything. In fact, that would give you even less right to interfere."
+
+Tohsaka speaks as if it's a matter of course.
+
+---
+
+"―――――Then you're..."
+
+No different from Shinji.
+
+But before I can say the worst thing possible...
+
+---
+
+"What are you doing? The operation is complete, but she is still in critical condition. If you want to make a commotion, go do so outside."
+
+...Kotomine Kirei emerges from the back of the church.
+
+---
+
+"...Hmph. I can't tell if you two are on bad terms or in good harmony."
+
+---
+
+"Oh――――"
+
+"――――H-Heh. You're just mistaken."
+
+---
+
+"I see. Then sit down. I shall explain the state Matou Sakura is in."
+
+---
+
+"――――――――"
+
+"――――――――"
+
+Taking our separate seats, we listen intently to the priest.
+
+---
+
+"To put it simply, there is a poison, a worm, in Matou Sakura's body. The worm is called crest worm. It is like an artificial sanshi, the three corpses. Do you recognize this name?"
+
+---
+
+...I shake my head.
+
+Sanshi―――a bug said to inhabit a human body that reports the person's evil deeds to the Judge of Hell.
+
+I've heard of sanshi, but I've never heard of a crest worm.
+
+---
+
+"So you do not know. Well, it was originally just a harmless parasite.
+
+It's a familiar that lives off of its host's magical energy. It is of the lowest rank of familiars, as it does nothing beyond telling its master whether or not its host still lives."
+
+---
+
+"......I see. So it's like a monitoring device.
+
+So Zouken's monitoring Sakura with that?"
+
+"Oh. When was it decided that Matou Zouken is the master of the crest worm?"
+
+---
+
+"―――I'm sorry, but I'm in no mood for your long talk. Who else but that old bastard would do something like that to Sakura?"
+
+"I see, that is certainly true. Matou Shinji cannot use crest worms. So it can only be that vampire."
+
+---
+
+"Right? Just go ahead and tell me the result. Can Sakura be saved or not?"
+
+---
+
+"―――You are being hasty, Rin. You seem to understand her condition, but the boy does not. We should explain for his sake, right?"
+
+"......!"
+
+Tohsaka looks away awkwardly.
+
+Judging by her expression, she doesn't want me to find out.
+
+---
+
+"Well, what shall we do, Emiya Shirou? Rin says she just wants to know the result."
+
+"......No. Please explain things in order, Kotomine."
+
+---
+
+...I'm sorry for Tohsaka.
+
+But I can't yield to her about this. If this has to do with Sakura's life, I have to know everything about it.
+
+---
+
+"Then let me continue.
+
+The crest worm I explained earlier is undermining Matou Sakura's nerves.
+
+It must be the result of eleven years spent growing within her. The crest worm has turned into a nerve, like a Magic Circuit, and it has entangled with her own, swarming all throughout her body.
+
+It has transformed into her Magic Crest. Under normal circumstances it is suspended, having no effect on Matou Sakura's body."
+
+---
+
+"But once activated, it will violate Matou Sakura's nerves and will keep moving using her magical energy.
+
+That's what happened earlier. The crest worm roamed through her body, absorbing her magical energy."
+
+---
+
+"Had she remained in that state for half a day, she would certainly have died.
+
+The crest worm would suck all of her magical energy as its power, then eat her flesh as nutrition. It means she would have her body consumed after her magical energy was sucked dry."
+
+---
+
+"If you have a Magic Crest, you should well know how painful it is.
+
+Even the faintest trace of a foreign substance puts a human body through discomfort, and can even be life-threatening. Having another creature entwining its nerves with your own, moving within you, would easily be enough to kill you."
+
+---
+
+"......In that regard, I'm surprised Matou Sakura was conscious until just now.
+
+I do not know if Matou Sakura has a strong will, or if she is just used to the crest worm's activation. We will need to ask her if we want this answered."
+
+---
+
+"――――――――"
+
+I hear a sound.
+
+It's the sound of my teeth grinding.
+
+'If you have a Magic Crest, you should well know how painful it is'?
+
+---
+
+I couldn't possibly know.
+
+I cover myself in sweat just to insert one Magic Circuit into my body.
+
+Sakura has it several times worse.
+
+I couldn't even guess at her pain.
+
+---
+
+"...Hold on. You said if it's activated, right? Then the crest worm isn't usually active?"
+
+---
+
+"That is correct. The poison put on her only awakens the crest worm.
+
+The crest worm is only an observation device.
+
+It is only activated as punishment for the host, Matou Sakura, when she breaks a 'certain condition'."
+
+---
+
+"――――――――"
+
+Just listening to his words makes me go crazy.
+
+I know it's not something Kotomine did, but I almost attack him for saying that.
+
+---
+
+I suppress my selfish emotion and...
+
+"What is the condition?"
+
+I urge him to go on and tell me the heart of the matter.
+
+---
+
+"Matou Sakura fell, and Rin tried to save her. But Rider prevented her from doing so.
+
+Then the condition is obvious. To abandon the battles as a Master. That should be the restriction of the crest worm."
+
+---
+
+"She has approved of the battles by entrusting Rider to Shinji. But the crest worm will torment her as she refuses it now. It has calmed down for now, but the crest worm will keep tormenting her.
+
+It will tell her, 'What are you doing?
+
+If you are truly a Master, then go kill the other Masters.
+
+If you cannot, I will eat you and kill you'."
+
+---
+
+"――――"
+
+My mind almost breaks down.
+
+Just hearing about it makes sparks flash in my vision. More than anything, I want to kill that old man.
+
+---
+
+"...That's the condition Sakura must follow?"
+
+"It seems so. Nothing else seems likely."
+
+"Then――――! Can't she just not be a Master? If she uses up her Command Spell and cancels the contract with her Servant, she won't be a Master anymore―――"
+
+---
+
+"I would not recommend that.
+
+I told you that the condition of the crest worm's activation is to abandon her duty as a Master.
+
+If she cancels her contract with Rider, the crest worm will consume her for sure."
+
+---
+
+"I see. So she can fight and survive, or refuse to fight and be killed by the crest worm. Those are the only options Sakura has, right?"
+
+---
+
+"Right. The crest worm will torment its host for as long as the Holy Grail War continues.
+
+If her condition keeps up, her body will not last long, and her mind will be destroyed. She has a Magic Crest all over her body, after all.
+
+You should understand how absurd that is, Rin."
+
+---
+
+"...Yeah. Even though it should be familiar with my body, I still periodically get the urge to cut off my arm.
+
+I'm like this with one arm, so her function as a human being should be violated if she has it all over her body.
+
+She's no magus, but a cluster of Magic Circuit. The human mind should be overwritten by the wave of magical energy."
+
+---
+
+"Wha―――then Sakura is..."
+
+"She is in danger if her condition keeps up.
+
+I don't know how many more days she can last, but the crest worm will spread further with each successive day. She will die if we cannot remove it before it infects her whole body, but her body will not last that long in any case."
+
+---
+
+"The only thing I did was to purify the poison.
+
+The surgery to call back her lost magical energy and mind is after this, but the chance of success is very low.
+
+―――That is all.
+
+To sum everything up, Matou Sakura cannot be saved. Are you satisfied now, Emiya Shirou?"
+
+---
+
+"――――――――"
+
+There's no way I'm satisfied.
+
+Sakura can't be saved?
+
+That's ridiculous.
+
+She was doing so well until yesterday, so why are things like this now...!?
+
+---
+
+"―――What about removing it? Can't you extract the crest worm?
+
+If you know it's there, you should be able to take it out, right!?"
+
+---
+
+"Extraction would be difficult. The crest worm has already integrated itself into her magecraft-Circuits. Even the one who implanted it wouldn't be able to extract it now.
+
+...Yes. If you wanted to extract it, you would have to rely on a miracle, or the Holy Grail."
+
+---
+
+"――――!"
+
+The Holy Grail.
+
+So that's where it ends up, huh?
+
+Sakura's only choice is to keep fighting as a Master,
+
+and the power of the Holy Grail is the only thing that can save her――――?
+
+---
+
+"I understand the situation now, Kirei. Let me thank you."
+
+She bows without showing much gratitude and confronts the priest.
+
+---
+
+"But isn't this too sudden? The crest worm wasn't implanted in her yesterday. So why did she suddenly reach her limit?"
+
+---
+
+"Why do you ask that now?
+
+Matou Sakura's body was tampered with many years ago. The changes were so extensive that even her hair and eye colors no longer reflect her heritage. This did not start recently."
+
+---
+
+"Well, it seems it was never intended to kill her as it's doing now.
+
+It seems Matou Zouken did not intend to use Matou Sakura in this war. She is not adjusted to fighting. I would assume she was treated that way because unexpected conditions were met."
+
+---
+
+"Unexpected conditions, huh? ...I don't know what those are, but that means Sakura suddenly won Zouken's confidence?"
+
+---
+
+"Probably. I would assume some change occurred within her that Zouken did not expect.
+
+But that is only one factor. There are other reasons for her drastic change.
+
+She is now constantly using magical energy to maintain her Servant. If she cannot spare any for her crest worm, what will the starving worm do?"
+
+---
+
+"...I see. Regardless of the conditions, it'll drain her body to acquire the magical energy it's not getting―――
+
+But she wouldn't lose magical energy if she doesn't use Rider, so――――"
+
+---
+
+"Yes, she should be able to live as before, for a while.
+
+But I don't think the old man will let Matou Sakura do as she wishes."
+
+---
+
+"......Right. He wouldn't plant a creature like that in her otherwise.
+
+The worm will kill her if she doesn't fight,
+
+and her body will also be destroyed if she fights and uses up magical energy.
+
+No, not only that, but Zouken can do anything he wants with Sakura because he's the one who planted the worm in her."
+
+---
+
+"―――He can do anything he wants with Sakura...?"
+
+"Yes. Zouken is holding Sakura's life in his hands. So defeating Zouken is the only way to save Sakura.
+
+―――But Emiya-kun.
+
+You have to defeat Sakura before you can defeat Zouken. She's his puppet. I'm sure he would use her as his shield if you corner him."
+
+---
+
+"Exactly. Matou Sakura is a convenient tool for Zouken. He will control Matou Sakura as he instigated Matou Shinji.
+
+In fact, she is superior as a Master. She is urged on by her worm, and she will run even wilder than Matou Shinji, just like Zouken wants."
+
+"―――――!"
+
+---
+
+"...But I will be a bit irritated if everything goes his way.
+
+I will perform the surgery on Matou Sakura. I have purified her poison and anesthetized her. The healing and the extraction of the crest worm will be performed next."
+
+---
+
+"Huh...? Hey, Kirei..."
+
+"It is hopeless, but I will do my best. I cannot simply allow Matou Sakura to die. And what sort of priest would I be if all I could do was rely on the Holy Grail?"
+
+---
+
+"――――――――"
+
+Tohsaka's surprise is natural.
+
+His words are surprising even to me, and I've only known him for a short while.
+
+...This isn't a guess, but a conviction.
+
+Kotomine is seriously trying to save Sakura.
+
+It might just be because he's a priest, but this is too much even for that.
+
+---
+
+"...What's going on? This is the first time I've seen you support someone like this."
+
+"It's not just a whim. It is simply too wasteful to let her die.
+
+Well, I suppose it is better for the two of you to have another Master eliminated."
+
+---
+
+The priest's response is plain.
+
+Tohsaka glares at the priest...
+
+"―――――I'll leave her to you. I'm going to come back when the surgery should be over."
+
+...And leaves the church with those words.
+
+---
+
+Tohsaka leaves, and the church regains its silence.
+
+The priest silently sees Tohsaka off, and I can't even stand up because I can't think of anything.
+
+---
+
+"What are you doing? You are of no use to me here. I want no distractions. Go kill some time until the surgery ends."
+
+"――――I won't bother you. I trust you when it comes to surgeries. You helped that woman before too."
+
+---
+
+"Hah. The scale of this surgery is much greater than before.
+
+Matou Sakura stopped herself by shooting herself. She is suffering from autointoxication probably because she harmed you. To put it simply, she killed her own mind to stop herself since she was controlled by Zouken."
+
+---
+
+"The procedure I'm about to perform is like starting a heart that has stopped. ...Well, the crest worm has kept her body alive. If all I have to do is recover her mind, it should succeed."
+
+---
+
+"But your presence here is a liability. If you come barging in when you hear her scream, I will certainly fail. In any case, you bear no responsibility for her sufferings. You and Matou Sakura are strangers now."
+
+---
+
+"――――Strangers?"
+
+"I am telling you not to have any sympathy for her.
+
+There is nothing you can do. Leave, like Rin has done."
+
+---
+
+"―――Why? Can't I pray for her sake here if I can't do anything?"
+
+"That is a crime. You have no right to share her pain.
+
+Do you not understand? I am telling you the surgery will fail if you are here. You are only a harmful enemy to Sakura right now."
 
 ---
 
 "Wh――――"
 
-It's not just my legs.
+I can't finish my sentence.
 
-The petrification does not stop and reaches my waist, hardens my chest, destroys my arms, and locks up my closed eyes forever.
-
-"――――Why?"
+His words are heavy, and they are pointing out the crimes I didn't know I had committed.
 
 ---
 
-"―――How foolish.
+"Matou Sakura feels some kind of guilt towards you. If you are near her, she may refuse to wake up."
 
-Trying to block my mystic eyes by merely closing your eyes. It doesn't matter if you look at me with your naked eyes or your mind's eye, as it is a curse to look at me in any way."
-
----
-
-"――――――――, ――――――――"
-
-I can't move my throat or my mouth.
-
-...I can't even tell what's going on.
-
-Even if Tohsaka screamed,
-
-or if Archer fell to the ground...
-
-I have no way to know, as I'm petrified.
+"...Guilt towards me...?"
 
 ---
 
-My body has turned to stone, and my mind is swiftly following.
+"Yes. It is more like repentance than guilt.
 
-...The three sisters from the legend are immortal.
+―――She is a victim of sexual abuse. It is easy to imagine the kind of training Matou Zouken imposed on her.
 
-Just like them, my body will never change.
-
----
-
-## Scene 22
-
-
-
-―――My legs won't move.
-
-I can't move and can only watch as the black spear pierces Tohsaka...
-
-"――――What?"
-
-And I see it change its course at the last second.
+To state the fact, Matou Sakura is not a pure virgin, but a woman who knows men."
 
 ---
 
-―――The weapon wavers.
+"――――――"
 
-The weapon that came flying at Tohsaka changes its direction at the very last moment.
+I'm not surprised.
 
-The black spear rotates.
+I know this feeling.
 
-As if it has found better prey, it lances towards me.
+It's just like when I found out Sakura was a Master.
 
----
-
-"――――Ow."
-
-A dull piercing sound.
-
-...My body is burning.
-
-My vision is wavering as if I have a high fever.
+I silently accepted the truth when I saw the Command Spell on her hand.
 
 ---
 
-"――――Senpai?"
+"The girl tried to hide that fact from you, but always sought salvation.
+
+I don't know how long the abuse called inheritance of magecraft lasted."
 
 ---
 
-...A familiar voice from a distance.
+"But―――what do you honestly think you can do now, when you stood by her side, completely oblivious, for all that time?
 
-My sense of reality is fading.
-
-My mind whites out and my left arm bleeds red, mixing like paint.
+That's what I mean by you not having the right to pray here. But if you still care for Matou Sakura, leave. That's all you can do for now."
 
 ---
 
-"――――No."
+"――――――――"
+
+...I get up.
+
+̊ It's not that he's talked me into it.
+
+It's just that―――what he's saying is correct.
+
+I shouldn't be here if I really care for Sakura.
+
+I shouldn't be allowed to care for Sakura when I can't think at all.
 
 ---
 
-I see Sakura staring at me as I fall to the floor.
+I turn my back to the priest and head for the door.
+
+"Oh. I do not think I even need to mention this, but..."
+
+I don't have the composure to turn around.
+
+I stop, still facing the exit.
 
 ---
 
-"Nooooooo...!!!"
+"That incident you mentioned earlier. A woman was attacked when Matou Shinji still controlled Rider. She was saved thanks to you, but she would have died under normal circumstances."
 
 ---
 
-And she falls to the ground like a puppet with its strings cut.
+"――――――――"
+
+I'm pissed.
+
+Somehow, I understand why he's bringing this up now.
 
 ---
 
-"How do you feel? Have you calmed down?"
-
-"―――――――――"
-
-Sitting on the church's long bench, I nod silently.
+"That's right. I need not mention who is at fault here. When Servants attack people, the responsibility lies on the Master."
 
 ---
 
-"I see. Then there's no need for treatment. Your wounds should all heal as your energy recovers, so just rest for now."
+"Are you saying Sakura's at fault?"
+
+"Of course not. I am only talking about the responsibility. I am not talking about good and evil. In reality, that woman is alive because of you."
 
 ---
 
-Tohsaka sits a bit away from me.
+――――But...
 
-...The distance between our minds is much greater than this.
-
-There's no idle conversation as we wait for Kotomine.
+If I made a wrong decision back then, Rider would've killed that woman.
 
 ---
 
-"―――――――!"
+That means――――
 
-My left hand screams with pain when I clench it.
+"Yes, this is about the future.
 
-It feels like there's a nail driven through my palm.
+If Matou Sakura recovers, it will be the same in the end.
 
-The cut from grabbing the knife hurts more than the bruises from Rider or the stab wound from Sakura.
+The same thing is bound to happen again even if she regains her consciousness.
 
----
-
-The dark clouds block the view of the night sky.
-
-The rain clouds tell me that it's going to rain soon.
+Which one will you protect then?"
 
 ---
 
-"......"
-
-...I guess the spear-like thing that attacked Tohsaka was Sakura's magecraft.
+―――We don't know when Sakura might do the same thing.
 
 ---
 
-The magical nature that the Matou household inherits is "absorption".
+"――――――――"
 
-When lack of magical energy made Sakura suffer, she unconsciously cast the spell.
+I have nothing to say to him.
 
-It stabbed and entangled around my arm because Sakura needed help, and it sucked all the magical energy out of me.
-
----
-
-Magical energy is life force.
-
-It's natural for me to lose consciousness when it's sucked out of me.
-
-I'd already used up my energy when I fought Rider, so I easily fell unconscious, and Tohsaka brought me to the church after that.
-
-...I hear Sakura fainted when she saw me fall.
+I quickly make my way to the exit as if to run away from his words.
 
 ---
 
-"―――She attacked herself."
-
-Tohsaka murmurs and explains to me that she's getting treated in the back right now.
+"Emiya Shirou. Do you remember why you became a Master?"
 
 ---
 
-## Scene 23
+I grit my teeth and walk on.
+
+His words are an ultimatum.
+
+---
+
+"You said you would be a superhero.
+
+Then make your decision.
+
+Will you, or will you not cast aside your own desires like Emiya Kiritsugu―――to protect your ideal and your belief."
+
+---
+
+I shut the door.
+
+The door to God's house is heavy like the cross.
+
+---
+
+
+## Scene 28 What I should protect
 
 
 
@@ -3850,159 +6403,7 @@ With that in mind, I――――
 
 ---
 
-## Scene 24
-
-
-
-―――I open the door.
-
-Tohsaka is already here, standing in the corner of the chapel.
-
-She's not sitting down but standing there, and I can see her determination.
-
-She has the cold face of a magus, saying Sakura will be her enemy if the crest worm isn't removed.
-
----
-
-"......"
-
-Tohsaka doesn't look at me, and I have nothing to say to her either.
-
-―――The sound of rain echoes inside the chapel.
-
-How long has it been?
-
----
-
-"The operation is complete. There is nothing more I can do."
-
-Breaking the deep silence, Kotomine Kirei appears.
-
----
-
-"Eh――――hey, Kirei. What happened to your Magic Crest?"
-
-"Hm, you can tell? As you can see, I used all of it on Matou Sakura's treatment."
-
-"―――Y-You used it all?"
-
-Tohsaka is astonished.
-
----
-
-"......?"
-
-I don't get it.
-
-All I can tell is that something happened to Kotomine's Magic Crest, and Tohsaka is surprised about it.
-
----
-
-"D-Do you understand? We're talking about a Magic Crest here!
-
-Why does something you built up for generations go away in just a few hours...!?"
-
----
-
-"It could not be helped. The Crest I received from my father is not permanent, like the one you have. It is a consumption type that goes away the more I use it. We have never been a family of magi to begin with.
-
-You can think of it as a lower-rank Command Spell."
-
----
-
-"――――Then you really..."
-
-"Yes. I've used up all of it for the treatment. It was the extraction of an eleven-year old pus. It should not be surprising that it took all of my remaining Crest."
-
----
-
-"――――――――"
-
-...We both gasp.
-
-The priest is saying he used all of his Magic Crest to treat Sakura.
-
-Tohsaka's expression tells me how valuable the compensation was.
-
-Kotomine threw away all of his fortune for Sakura.
-
----
-
-"...Kotomine."
-
-"What? Do not tell me it's troubling for you. You two are the ones who told me to save her. I merely answered your wish."
-
----
-
-"Oh... no. It's not troubling at all. ...Um, thank you."
-
-"Do not thank me. You will take it back later anyway."
-
-"――――Take it back later...?"
-
-Does that mean――――
-
----
-
-"So, how's Sakura? You did that much, so――――"
-
----
-
-"She escaped death, but it is just temporary.
-
-I was able to remove most of the crest worm, but some parts were buried too deeply to be removed. Some of it has eaten into the nerves. I can extract it all if I remove her heart, but that will kill Sakura as well."
-
----
-
-"All I could do was to remove the crest worm that did not metabolize with her nerves, decreasing her pain and the pressure from Zouken. Her life should have ended tonight, but I prolonged it on a whim. Well, it will all be vain effort if the worm in her nerves start moving again."
-
----
-
-"Wha――――then Sakura is..."
-
-"It means nothing has changed.
-
-She will have no problem living normally, but Zouken can easily drive her berserk.
-
-That old man can force her to fight, whether she wants to or not. In short, she is a bomb with a lit fuse."
-
----
-
-"――――――――"
-
-I'd be lying if I said I'm not agitated.
-
-But I'm not surprised or puzzled.
-
-I've made my decision already.
-
-I chose to be on Sakura's side, no matter what happens, no matter what state she's in.
-
----
-
-"I see. Then there's only one thing left to do. I'm sorry for making you use you Crest."
-
----
-
-Tohsaka starts to walk.
-
-I instantly understand what she's going to do.
-
-"Hey, stop, Tohsaka...!"
-
-I grab Tohsaka's hand and stop her.
-
----
-
-"What? Talk to me later."
-
-"What are you saying? Are you planning to kill Sakura?"
-
-"Hey, it's something that has to be done. Didn't you come here, prepared for that?"
-
----
-
-## Scene 25
+## Scene 29 Superhero
 
 
 
@@ -4226,689 +6627,822 @@ and become a superhero.
 
 ---
 
-## Scene 26
+
+
+## Scene 30 Tiger Dojo 30
 
 
 
-Morning.
+...Hmm, I can't say much this time.
 
-When the bright sunlight wakes me, I realize my neck is stiff.
-
----
-
-"Mm――――whoa......"
-
-My neck feels heavy because my shoulders are stiff.
-
-I probably strained my neck when I slept on my stomach.
+This is one result.
 
 ---
 
-On the other hand, my back feels much better now.
-
-I don't feel any pain, so it shouldn't hinder my normal life.
-
-"―――Crap. It's past seven."
+........................................................................Idiot.
 
 ---
 
-"Ouch!"
+Hey there, don't complain!
 
-I feel a sharp pain in my stomach.
-
-It's fine as long as I stay still, but it hurts when I suddenly move.
+This Tiger Dojo is cancelled! We'll wait for you in another Tiger Dojo!
 
 ---
 
-"―――It's a bruise, so I bet it'll hurt for a while."
 
-But it's nothing I can't endure.
+## Scene 31 Run into the rain
 
-It's not like it's bad enough to stop me from moving, so I should be able to act normally.
 
----
 
-I get changed and leave my room.
+"――――――――"
 
-I smell breakfast from the living room, so I bet Sakura's preparing it.
+I'm sure I'll regret it if I lie to myself and keep going.
 
 ---
 
-"Morning. I'm sorry I slept in. Is there anything I can still help with?"
+Where the responsibility lies, existence of good and evil.
 
-"Good morning, Senpai. It's rare for you to sleep in."
+Losing Sakura will weigh more heavily on me than either of those things.
 
-"Ugh, I'm sorry. Um, it was already morning when I noticed."
+...I don't even need to think about it.
 
----
-
-"It can't be helped because you're injured. I went to wake you up earlier, but you didn't even show signs of waking up. I think your body's tired."
+I just want to protect Sakura, that's all.
 
 ---
 
-Wow.
+"―――Yeah. It's a matter of course to protect the girl you like. Even I know that, Illya."
 
-I have no memory of Sakura coming to wake me up.
-
-Not only are my shoulders stiff, but it seems my head is still asleep.
+"Right? I'm your ally because you're that kind of person."
 
 ---
 
-"I'm sorry. I'm gonna go wash my face. I'll be back right away."
+Illya smiles delightedly.
 
-"No, please take your time. I'll prepare breakfast by myself today, so please go wash your face."
+"――――――――"
 
-Sakura is really energetic.
+Her innocence encourages me.
+
+...I don't know if this is the right choice or not.
+
+But I do know I won't regret it.
+
+---
+
+"I'm sorry, Illya. I have to get going."
+
+"Yeah. I'll forgive you since you have that expression. Let's meet again, Shirou."
+
+"Yeah. See ya, Illya. And thank you."
+
+---
+
+I leave the park.
+
+I start running to the church as if to shake off my doubts.
+
+---
+
+「――――――――」
+
+...My answer's determined.
+
+I don't know how much Sakura supported me after my father died.
+
+---
+
+The girl I tried to see as just another fellow student.
+
+I kept on deceiving myself because I wanted her to stay by my side.
+
+But such deception will no longer work.
+
+---
+
+―――Emiya Shirou does not want to lose Matou Sakura.
+
+That's all.
+
+If I can't think things through, I'll just have to trust in the only definite feeling I have.
+
+---
+
+...But within my determination...
+
+'If you are to protect just one person――'
+
+---
+
+...I can't shake off Archer's premonitory words.
+
+---
+
+Rain starts.
+
+The winter rain mercilessly shoots down at me as I run.
+
+---
+
+## Scene 32 Intermission Bailing hand
+
+
+
+...Dragging sounds.
+
+These sounds are familiar.
+
+They are the sounds of crawling worms.
+
+---
+
+"――――――――"
+
+This place is familiar as well.
+
+The dark, damp, secret room.
+
+An underground mausoleum.
+
+This green room is the first room given to her after she was adopted by the Matou family.
+
+---
+
+"――――――――"
+
+A lone figure stands in the center of the room.
+
+...It may not be human, but its appearance is that of a human.
+
+This figure called for her, commanding her to fight in Matou Shinji's place.
+
+---
+
+"――――――――"
+
+She was prepared for this.
+
+At the very least, she accepted the possibility up until two days ago.
+
+But now her determination is gone.
+
+Once she discovered that Emiya Shirou is a Master, her will to fight left her.
+
+---
+
+She visited the Emiya household to keep watch over him.
+
+But Emiya Shirou did not have the aptitude to become a Master, and he had no knowledge of the Holy Grail War.
+
+That fact became clear at once. Thus, there was never a reason to keep watch over him.
+
+She stayed as his underclassman, using the role of keeping watch over him as an excuse.
+
+---
+
+She had an optimistic view that there would be no need to fight him.
+
+Although she knew her true identity may be revealed at some point, she never dreamed that they would end up fighting one another.
+
+So―――how did it come to this?
+
+---
+
+"...Grandfather. Do all Masters need to be killed?"
+
+---
+
+She knows what the old man's reply is going to be.
+
+She knows, but she can only ask.
+
+But...
+
+"Well. You can keep one or two as playthings, if you like. All I want is their Servants. After stealing them, you may turn the Masters into your toys or puppets."
+
+The old man's answer is not what she expected.
+
+---
+
+"――――――――What...?"
+
+---
+
+"Do you not understand? I said there is no need to kill all the Masters. We will eliminate those that are dangerous to keep alive, but those who will not be obstacles can be spared.
+
+It is the wish of my cute granddaughter, so I shall be a bit flexible, even if this is our greatest desire."
+
+---
+
+Hearing his words, she lowers her guard a bit.
+
+...The old man becomes strangely kind sometimes.
+
+When teaching her the family's magecraft, he is an inhuman monster, as cruel as a beast.
+
+But sometimes, when they are talking, he becomes just a good-natured old man.
+
+---
+
+"......"
+
+---
+
+But she cannot be deceived.
+
+She does not know if this is a whim or a calculated act of kindness. Moreover, she knows she will end up fighting him if she agrees.
+
+Even if she does not have to kill him, just having to fight him is bad enough.
+
+---
+
+"Is that still not enough? ...My, you are a troubling one. That cowardice will prevent you from ever obtaining what you desire. Look, this is a good opportunity. If you want something, take it by force.
+
+Sakura. How long do you plan to remain a mere watcher? Reach out and claim your desire. You have the power and the right."
+
+---
+
+"......"
+
+---
+
+She does not answer.
+
+First of all, there is nothing she wants.
+
+She admires him, but she would never expect him to accept her.
+
+---
+
+She is impure. She is not suited for him.
+
+So someone more appropriate should stand next to him.
+
+All she wanted was to be by his side until that time came.
+
+It'll all be ruined if she wishes for anything more.
+
+...Not only her...
+
+He, too, will come to a bad end.
+
+---
+
+"...Grandfather. I cannot fight. I will give Rider to Nii-san."
+
+---
+
+She speaks with a trembling voice, prepared for re-education.
+
+She knows what awaits her for disobeying him.
+
+The fear of being thrown to the worms, of losing one's sensation, is something one can never get used to.
+
+The longest she was able to keep her sanity was two hours.
+
+She almost goes crazy, thinking that she will have to endure many times that, no, at worst until the Holy Grail War ends.
+
+---
+
+"......"
+
+---
+
+Her body trembles.
+
+Fear of punishment makes her want to scream.
+
+...But it is not the pain that she fears.
+
+All she fears is...
+
+...That when the pain becomes unbearable, she will do as he commands.
+
+---
+
+".........Hm. It cannot be helped, I suppose. I cannot force you and lose my valuable successor. I shall remain an observer as well in this war."
+
+---
+
+"――――――――"
+
+---
+
+She gasps.
+
+She does not know how serious he is, but he has accepted her excuse.
+
+The trembling goes away, replaced by a warm sense of relief.
+
+---
+
+―――But into that defenseless mind...
+
+"But it is a bit disappointing. Looking at all the Masters in this war, the daughter of Tohsaka is looking pretty good. The unlikely might happen if luck favors her."
+
+...Enters the old man's disappointed voice.
+
+---
+
+"――――Nee-san is?"
+
+---
+
+Evil enters at that time.
+
+She knows it intuitively.
+
+Nee-san will certainly win. She is that kind of a person. She obtains everything she wants and passes through as if it's natural.
+
+...Nee-san will take everything she wants without even a glance towards her, the one standing in place.
+
+Then――――Nee-san will win.
+
+---
+
+"――――――――"
+
+---
+
+Her body turns cold as ice.
+
+...She doesn't care about that.
+
+She's used to it.
+
+She's used to it.
+
+She's used to it.
+
+―――She's used to such treatment.
+
+---
+
+Nee-san will take it all.
+
+Nee-san is going to eliminate everything, the pain she went through, the bright future ahead of her, and the only person she can rely on――――
+
+---
+
+"――――――――"
+
+---
+
+...The ground wavers beneath her.
+
+The words make her dizzy and nauseous.
+
+...Her chest is hurting.
+
+Something unpleasant assails her.
+
+...As if a needle is in her chest.
+
+---
+
+...It has started raining.
+
+The chilly winter rain mercilessly beats against the gutters.
+
+---
+
+"―――――――"
+
+She slowly opens her eyes.
+
+...It seems she was dreaming about what happened a few days ago.
+
+She is sleeping on an operating table in a room made of stone.
+
+In front of her is a black priest she has never seen before.
+
+---
+
+"You are finally awake. Do I need to explain to you what is going on, Matou Sakura?"
+
+".........No. It's my body. I know all about it."
+
+She answers simply.
+
+She does not focus on him, but on the sound of the rain against the walls.
+
+---
+
+"All right. Then get changed quickly. Tohsaka Rin and Emiya Shirou are waiting in the next room. We have to explain your situation to them. You cannot run after that if you are naked, right?"
+
+"......Are you going to let me run away?"
+
+"That is your decision. I merely helped you. It is not for me to plan your actions for you.
+
+Well, it was a waste for me to save you if you die. I do want you to remain until the very end, though."
+
+---
+
+"...Why is that?"
+
+"It is more fun that way. Tohsaka Rin and Emiya Shirou will suffer more if you live. It is delightful the more sufferers there are."
+
+The priest turns his back after he answers.
+
+The priest will go to the chapel now.
+
+He does not look back at her, hugging her knees on the operating table.
+
+---
+
+"Well. Will they kill you, or will they let you live? You may wait here if you are interested in their decision. Though it does not look it, this building has a flimsy structure. For some reason, you can hear all the conversation going on in the chapel."
+
+He smiles and leaves.
+
+---
+
+"......Senpai. What should I do?"
+
+She embraces her knees.
+
+The quiet weeping is drowned out by the sound of rain.
+
+---
+
+
+
+
+## Scene 33 Set position
+
+
+
+―――I open the door.
+
+Tohsaka is already here, standing in the corner of the chapel.
+
+She's not sitting down but standing there, and I can see her determination.
+
+She has the cold face of a magus, saying Sakura will be her enemy if the crest worm isn't removed.
+
+---
+
+"......"
+
+Tohsaka doesn't look at me, and I have nothing to say to her either.
+
+―――The sound of rain echoes inside the chapel.
+
+How long has it been?
+
+---
+
+"The operation is complete. There is nothing more I can do."
+
+Breaking the deep silence, Kotomine Kirei appears.
+
+---
+
+"Eh――――hey, Kirei. What happened to your Magic Crest?"
+
+"Hm, you can tell? As you can see, I used all of it on Matou Sakura's treatment."
+
+"―――Y-You used it all?"
+
+Tohsaka is astonished.
 
 ---
 
 "......?"
 
-Well, if she's making the offer, I shouldn't turn her down.
+I don't get it.
 
-"Then I'll go ahead and go wash my face."
-
----
-
-"Yes. I'm confident in today's miso soup, so please look forward to it."
-
-I nod and head into the hallway.
+All I can tell is that something happened to Kotomine's Magic Crest, and Tohsaka is surprised about it.
 
 ---
 
-"―――――Wait."
+"D-Do you understand? We're talking about a Magic Crest here!
 
-Something's strange.
-
-I went past her without caring because she was energetic, but this is just like―――
+Why does something you built up for generations go away in just a few hours...!?"
 
 ---
 
-"......!"
+"It could not be helped. The Crest I received from my father is not permanent, like the one you have. It is a consumption type that goes away the more I use it. We have never been a family of magi to begin with.
 
-I hear something falling to the ground.
-
-I don't know if it's because I've heard it many times these past few days, but I realize it's the sound of someone falling.
+You can think of it as a lower-rank Command Spell."
 
 ---
 
-"Sakura――――!"
+"――――Then you really..."
 
-I run back into the living room.
-
-...Sakura must have been on the ground, as she slowly raises her upper body.
-
----
-
-"Sakura."
-
-I support her staggering body.
-
----
-
-"......!"
-
-Her body is hot, just like before.
-
-Her breathing is ragged and her shirt is wet with her sweat, telling me how bad her condition is.
-
----
-
-"Oh――――Senpai."
-
-She must have come to her senses.
-
-Sakura looks at me with unfocused eyes.
-
----
-
-"Geez. I told you to take your time, but you came back right away. ...Um, please hold on. I'll prepare breakfast right away."
-
-She smiles and brushes my hand off of her.
-
----
-
-"――――Sakura."
-
-It doesn't seem like she's pushing herself, but rather that she doesn't notice she's sick.
-
----
-
-"Hold on. You don't have to make breakfast. Just go back to your room and lie down. You have a high fever."
-
-"Huh...? I have a fever?"
-
----
-
-"Yes. ...Damn, it's really bad if you don't know it yourself! Why――――"
-
-Why didn't I notice something so obvious?
-
-Even though I was depressed about Saber, there's something wrong with me if I can't care for Sakura's health.
-
----
-
-"Um, Senpai...? I'm really fine. I just fell, so it's not like I'm dizzy or anything..."
-
----
-
-"Don't say stupid things! You have such a high fever! I don't even need a thermometer to tell that!"
-
----
-
-"Oh――――"
-
----
-
-I pull her into the living room.
-
-I have to let Sakura rest for now.
-
-I'll report to the school that she's going to be absent, make some breakfast that's easy to digest, and for lunch―――yeah, I'll ask Fujimura's old man and have one of their housekeepers come over.
-
----
-
-"U-Um... where are you going, Senpai? We have to eat breakfast before we go to school."
-
----
-
-Sakura still hasn't grasped the situation.
-
-All her energy must have been a result of the fever.
-
----
-
-"You're not going to school. You're resting in your room today. I'll let the school know. I'm going to see Fuji-Nee in class, so I'll tell her then."
-
----
-
-"Eh――――I'm not going to school?"
-
-"Right. Who else would it be? I'm... well, I'm injured, but I'll be fine. There's no reason for me to stay home."
-
-"――――――――"
-
----
-
-...Well, there's no reason for me to push myself and go to school. Because I lost Saber, I don't have such liberty.
-
-But there's something I have to do.
-
-I can't be staying in my house until I go tell Tohsaka about last night―――about Matou Zouken and Assassin.
-
----
-
-"Anyway, you're to stay home today. You're working hard every day, so you can rest once in a while. I'll come home right away after I'm done with my business."
-
----
-
-"Oh―――no, I'm really fine...!
-
-So let's eat breakfast and go to school. This fever will go away if I do...!"
-
-"Such a thing won't happen, you idiot. You're being absurd, Sakura."
-
----
-
-"I-I'm not being absurd!
-
-You're the one being reckless. I'm feeling perfectly fine, and you're injured! But I'm the only one staying home? That's――――"
-
-"Eh... Whoa, Sakura!"
-
----
-
-"H――――uh? That's strange, Senpai. I'm... having trouble... breathing――――"
-
-Sakura's breathing hard and is about to fall to the ground.
-
----
-
-...I support her, but her body is heavy.
-
-She must not have the power to stand up, or maybe she can't stand up because her body is heavy.
-
-Either way, Sakura's so sick that she can't walk by herself, and she's the only one who thinks she's fine.
-
----
-
-"...You idiot. Look, I'm going to make you stay home today no matter what. I don't care if you don't like it or not, but you'll end up staying home tomorrow too if you use up extra energy."
-
----
-
-"......But, Senpai. I... have to... go to school."
-
-Delirious, Sakura punctuates her sentence with ragged breaths.
-
-"――――――――"
-
-Ignoring her, I lift her up and head to the guest room.
-
----
-
-She's already asleep when I get there.
-
-But she must still be semi-conscious.
-
-She's breathing painfully and takes a firm grip on my arm.
+"Yes. I've used up all of it for the treatment. It was the extraction of an eleven-year old pus. It should not be surprising that it took all of my remaining Crest."
 
 ---
 
 "――――――――"
 
-I lay her on the bed.
+...We both gasp.
 
-"Oh... Senpai...?"
+The priest is saying he used all of his Magic Crest to treat Sakura.
 
-Her voice is vague.
+Tohsaka's expression tells me how valuable the compensation was.
 
-Sakura is staring at the ceiling, not at me.
-
----
-
-"――――――――Sakura."
-
-Her ragged breathing, flushed cheeks, sweat-dampened clothes, and heaving breasts...
+Kotomine threw away all of his fortune for Sakura.
 
 ---
 
-"――――――!"
+"...Kotomine."
 
-She looks so erotic that I quickly look away.
-
-Why am I so imprudent when Sakura's sick!?
+"What? Do not tell me it's troubling for you. You two are the ones who told me to save her. I merely answered your wish."
 
 ---
 
-"...Crap. I guess I'll have to ask their housekeeper."
+"Oh... no. It's not troubling at all. ...Um, thank you."
 
-...I can't change her clothes or wipe her down.
+"Do not thank me. You will take it back later anyway."
 
----
+"――――Take it back later...?"
 
-Her breathing has calmed down since she is lying down, so she should get better with some fever medicine.
-
-Once she can walk again, I can take her to the hospital to go get some medicine.
+Does that mean――――
 
 ---
 
-"Sakura. I'm going to go get someone, so sleep until then. You're familiar with Fuji-Nee's housekeeper, right?"
+"So, how's Sakura? You did that much, so――――"
+
+---
+
+"She escaped death, but it is just temporary.
+
+I was able to remove most of the crest worm, but some parts were buried too deeply to be removed. Some of it has eaten into the nerves. I can extract it all if I remove her heart, but that will kill Sakura as well."
+
+---
+
+"All I could do was to remove the crest worm that did not metabolize with her nerves, decreasing her pain and the pressure from Zouken. Her life should have ended tonight, but I prolonged it on a whim. Well, it will all be vain effort if the worm in her nerves start moving again."
+
+---
+
+"Wha――――then Sakura is..."
+
+"It means nothing has changed.
+
+She will have no problem living normally, but Zouken can easily drive her berserk.
+
+That old man can force her to fight, whether she wants to or not. In short, she is a bomb with a lit fuse."
+
+---
 
 "――――――――"
 
-There's no reply.
+I'd be lying if I said I'm not agitated.
 
-Her breathing still sounds painful, but it seems she's asleep.
+But I'm not surprised or puzzled.
 
----
+I've made my decision already.
 
-"―――Phew. You're obstinate in weird ways, Sakura. Why do you want to go to school so bad?"
-
-I'm just talking to myself.
-
-I know there won't be a reply because Sakura's asleep.
+I chose to be on Sakura's side, no matter what happens, no matter what state she's in.
 
 ---
 
-"Bye. I'm going to school."
-
-I step away from the bed and head to the door.
-
-―――Then.
-
-"...I want to go to school with you, Senpai."
-
-I hear her answer.
+"I see. Then there's only one thing left to do. I'm sorry for making you use you Crest."
 
 ---
 
-"Sakura...?"
+Tohsaka starts to walk.
 
-I turn around.
+I instantly understand what she's going to do.
 
-Sakura is still asleep, and her eyes are closed painfully.
+"Hey, stop, Tohsaka...!"
 
-"...Oh, she's just talking in her sleep."
-
----
-
-I leave the guest room.
-
-On my way out...
+I grab Tohsaka's hand and stop her.
 
 ---
 
-"......Because I have to protect Senpai."
+"What? Talk to me later."
+
+"What are you saying? Are you planning to kill Sakura?"
+
+"Hey, it's something that has to be done. Didn't you come here, prepared for that?"
 
 ---
 
-She says this in feverish tones.
+
+## Scene 34 Geas
+
+
+
+"I'm not prepared for such a thing. I came back for Sakura."
+
+"――――!"
 
 ---
 
-I drop by Fuji-Nee's place on my way to school to have their housekeeper come by.
+"―――I see. I get your point.
 
-I sometimes forget because Fuji-Nee's not the type to dress up, but the Fujimura family is one of the richest households around here.
+You're going to protect Sakura over other people, right?"
 
----
-
-It has dozens of scary-looking people that call themselves company employees even though it's not even a company.
-
-Many of them live in the outbuilding, so they are a large family.
-
-So there are many housekeepers, and one will be free to spare if I ask.
+"Yeah. Don't say I'm mistaken. If you're going to kill Sakura, I'll stop you."
 
 ---
 
-―――So.
-
-I get one of the emergency housekeepers, who took care of my place a few times before Sakura started coming over.
-
-She's acquainted with Sakura, so I can trust her to take care of her.
+"Stop me? I think not. You can't even move an inch, let alone stop me. You can't interfere, no matter how badly you want to protect her."
 
 ---
 
-## Scene 27
+Tohsaka's voice contains no emotion.
 
+And...
 
+"Wh―――at......?"
+
+...I try to react and realize that I can't even move a finger.
+
+---
+
+"Guh...!? Tohsaka, you...!"
+
+"...You said I can't say you're mistaken. But you did make a mistake. If you wanted to follow your own path, you shouldn't have given me the right to decide."
+
+---
 
 "――――――――"
 
-I wait for Tohsaka by the front gate.
+My heart beats loudly.
 
-The sky is gray, and it looks like it'll rain any minute now.
-
-There's a chill wind, so it'll be a cold night if it rains.
+No, it's not my heart, but the bind made right beside my heart.
 
 ---
 
-"What are you thinking about?"
+―――It's nothing.
 
-―――Then.
+It was an ideal answer.
 
-Tohsaka is in front of me when I notice.
-
-She must have ran here, as her shoulders are moving up and down.
+I'm not satisfied, but if that's what you say, that's how it'll be.
 
 ---
 
-"Nothing. I just thought it might rain."
-
-"Oh, the weather? I guess it'll just be a drizzle. We have to go patrol at night, so it'll be a pain if it rains too much."
+"――――――Curse of coercion..."
 
 ---
 
-...Hm.
+"Yes. It was just horseplay, but I never thought it would come in handy like this. You can't go against me from the moment you swore absolute obedience to me.
 
-It seems Tohsaka has already made plans for us to go on patrol tonight.
-
-I don't mind, but I'd like to go by my house and check on Sakura before that.
+...You made a contract with me instead of making a promise. Instead of being my ally, you chose to be my servant."
 
 ---
 
-"Tohsaka, about that..."
+"Wha――――"
 
-"I know. I'll train you as your cooperator, so prepare yourself. I'll make you a proper magus."
+"―――I'm going to go kill Sakura, Emiya-kun. But don't get it wrong. You couldn't have stopped me even if you didn't have the geas.
 
----
-
-With those confident words, Tohsaka sets off down the hill.
-
-...Crap.
-
-I can't bring up the subject of going home early if she smiles like that.
+This is my duty. You're not at fault here."
 
 ---
 
-We make the long walk up the hill south of the intersection.
+"――――! Tohsaka, w――――"
 
-This residential area is filled with Western-style houses.
-
-Tohsaka's house is at the top of this hill, past Sakura's.
+I can't even tell her to wait.
 
 ---
 
-"Wow――――"
+...Tohsaka leaves.
 
-So this is Tohsaka's place.
+"No way――――why?"
 
-Sakura's house is bigger, but this house feels more like a Western mansion.
-
----
-
-...And it somehow feels cold.
-
-There's been an air that seems to reject anyone nearing this place ever since we finished climbing up the hill.
+I still can't move.
 
 ---
 
-"Why did you stop? This is my house."
+"Damn, don't kid me! Why――――!?"
 
-"Y―――Yeah, I know. I was just coerced."
+I struggle with all my might.
 
----
+I have to free myself quickly.
 
-"...Yeah. My house is different from yours. It's just that even someone who's ignorant of magical energy like you can feel the coldness of this house."
-
-Tohsaka goes into her home, speaking in bored tones.
+I fight the binding, hoping that it's not too late.
 
 ---
 
-"Hey, come on. I don't have any traps set up, so you don't need to hesitate."
-
-She beckons me from the entrance.
+And suddenly, I'm free once again.
 
 ---
 
-"......No. It's not because of the atmosphere that I'm hesitating."
+"―――――――"
 
-Muttering to myself, I gather my composure and go in.
+My feet won't move to follow her.
 
----
+Though I've been freed, I'm still frozen in place.
 
-...This place certainly does have a cold atmosphere, but that's nothing.
+―――And then I understand.
 
-She has no idea what a big deal it is for a guy to come over to Tohsaka Rin's house.
+My body stopped moving when I defied Tohsaka.
 
-...Well, I'm sure she won't understand even if I explain it to her. If I'm lucky, she'll just laugh.
+Then...
 
----
-
-――――Wait.
+Have I been freed because there's no longer a need to hold me here?
 
 ---
 
-"W-Why are we in your room and not the living room!"
+"――――――Sakura."
+
+My legs give way.
+
+Without a place to go, my mind breaks.
 
 ---
 
-With an utter lack of concern, she shows me through the living room and into her bedroom.
+My vision loses light and stains the church black.
+
+―――Emiya Shirou is in weightlessness.
+
+I threw away my previous ideal to protect Sakura.
+
+It's a new path that I can't yield to anyone.
+
+But I've already lost the person on whom I'd depended.
 
 ---
 
-"It's because this place has more instruments ready.
+―――The fight will continue.
 
-The living room is where you have tea, but we didn't come here to drink tea, right?"
-
-"Uh――――um. You're... right, but..."
-
-Um, I wish she'd think of me as a boy her age.
+The Holy Grail War will continue, and I will end the war along with Tohsaka, the one who killed Sakura.
 
 ---
 
-"...? Just sit down wherever. I'll be using sage and cards to consecrate you, but tell me now if you don't like either."
+...But that is no longer my concern.
+
+Emiya Shirou's position has been eternally lost.
+
+From now on, I must continue onward with neither a guide nor a goal――――
 
 ---
 
-Tohsaka opens the box by her bed.
 
-It looks like a treasure chest from an adventure movie.
 
----
 
-"Hmm... Kishua's agate is useless for this. ...Oh, I'm out of sage. Can you bring some up from downstairs, Archer?"
+## Scene 35 Tiger Dojo 31
 
-"Scarlet sage, right? ...Well, I don't think you'll need to go that far to distinguish this man."
 
----
 
-"I'll do whatever I please. You can rest downstairs after that. We have a pact, so you don't need to protect me."
-
-"―――You're right. I doubt he has the nerve to betray you. I shall get ready for tonight."
+Heartless collection! The evil bill collector!
 
 ---
 
-That must be Archer.
-
-His presence must be thin when in spirit form. I didn't feel much magical energy from him.
+Osu! Heading straight for the underground kingdom after carelessly signing a contract!
 
 ---
 
-"...I'm surprised. I didn't notice that he was in the room."
+Yeah. Man, these contracts sure are scary.
 
-"That's how it is if he's in spirit form.
-
-Even if he takes form, his magical energy won't leak outside as long as he's in this house. It's elementary for a workshop to shut in the magical energy."
+They pull your leg when it counts, even when you don't mean it.
 
 ---
 
-"Oh. So is it the same for Makiri... no, Matou's place?"
+Don't get tricked by such sales, okay, everyone?
 
-"Yes. But that place has no need to hide magical energy anymore. If they are hiding magical energy, it'd be the energy leaking out from the magus himself and not from the house."
-
----
-
-"Well, either way, it takes nothing to hide magical energy. I'd take Archer with me to school too, but I'm resting him during the day since he's not up to par."
+The scariest things are always right next to you where you don't expect them.
 
 ---
 
-Tohsaka rummages through the treasure chest with a difficult expression.
-
-...It seems she can't find what she wants. Is she the kind of person that never keeps anything in order?
+Right, Illya-chan!?
 
 ---
 
-"...Really, why doesn't the wound he received from Saber heal when all other wounds can be healed easily? I'm sure they had some connection... Geez, why am I finding my master's jewels now? I can never find them when I want them, dammit!"
+...? Stop it, that's embarrassing.
+
+I don't know why, but I feel bashful if you stare at me so much.
 
 ---
 
-She leans forward and keeps fumbling around.
+See, isn't she scary?
 
-...That chest looks small, but it seems big enough to be able to fit Tohsaka inside.
-
----
-
-"――――Man."
-
-There's nothing to prepare for.
-
-All I can do is pray that she'll find the thing she wants, or just look around her room aimlessly――――
+So, the cause of this death is your contract with Tohsaka-san.
 
 ---
 
-"......?"
+She makes unreasonable demands of you, but there is one thing you should not say "yes" to.
 
-Then.
-
-I see something.
+Try starting over from the beginning of day 9.
 
 ---
 
-―――It's a photo.
-
-A bookshelf that's about waist-high is at the corner of the room.
-
-On it is a photo that looks to have been forgotten.
-
-Dust falls off of it when I pick it up, and I can tell it has been left alone for a long time
+Osu! And I also hear that her affection point goes up if you go against one of her questions!
 
 ---
 
-"...It's not that she never cleans. Just this picture is undisturbed."
+Oh, as expected from the heroine (candidate) returning from the main storyline!
 
-Does Tohsaka not like seeing herself as a kid?
-
-...No, if that were all, she could just put it away. Maybe it's important to her, but she doesn't want to touch it...
+You have awesome information.
 
 ---
 
-"......But..."
-
-People sure can change.
-
-Tohsaka looks like she's five or six years old, and she's really cute in the picture.
+Ugh... I thought we promised not to say that...
 
 ---
 
-"...So she had long hair back then, too.... Huh?"
-
-The girl in the picture looks just like she is now, except younger.
-
-That's why I notice the one thing that's different.
+Well, this is the last Tiger Dojo in day 9.
 
 ---
 
-"Thanks for waiting, I'm all ready now. There'll be a little pain, but it's nothing you should be worried about... Huh, what's going on, Emiya-kun?"
+What lies ahead is a hell filled with dead ends!
+
+Face the battles with care!
 
 ---
 
-"Oh. This, Tohsaka."
-
-I show her the picture I found.
-
----
-
-"Oh, that's an old photo. I just put that in the corner, but is something wrong with it?"
-
-"Huh... Well, there's nothing wrong, but..."
-
----
-
-It's nothing much, so I hesitate.
-
-It's nothing I need to ask about, but it just caught my attention.
-
----
-
-"Oh. I see, you want to say I have a different ribbon on, right?"
-
-"――――――――"
-
-I nod.
-
----
-
-"That's natural. I'm a girl, so I have lots of ribbons. Even if it's my favorite, do you think I'd keep the same ribbon for over ten years?"
-
----
-
-Oh.
-
-She's right now that she mentions it.
-
-It's just an ordinary ribbon. Why was I so concerned about it?
-
----
-
-"I'm kidding. That's what I want to say, but ribbons are special. It's the last resort for female magi. It's an appropriate magical item, so there aren't many substitutes for it."
-
-"...Wow. Then is that ribbon some sort of a magical item?"
-
----
-
-"Yes. Holding the hair in place means holding the magical energy in place. My family doesn't have mystic eyes, so we have to at least keep our reserve magical energy from our hair.
-
-It's something that controls your body, so it's best if you make it yourself, right?"
-
----
-
-"That's the first ribbon I made. It was my favorite, but I parted with it for various reasons.
-
-...Well, let's stop with the idle talk. I'm starting the consecration, so sit down in that chair―――"
-
----
-
-## Scene 28
+See ya!
+## Scene 36 Sisters(II)
 
 
 
@@ -5574,7 +8108,7 @@ Telling me that the end of this love will not be compensation.
 
 ---
 
-## Scene 29
+## Scene 37 Connection of bodies
 
 
 
@@ -5820,7 +8354,7 @@ I'll catch a cold too if I stand here like this, so I should take a bath and war
 
 ---
 
-## Scene 30 [WARNING: H]
+## Scene 38 Connection of bodies [H]
 
 
 
@@ -7154,2526 +9688,515 @@ I see an ominous dream in a sea of hot coal tar.
 
 ---
 
-## Scene 32
 
 
 
-Tohsaka's analysis ends rather quickly.
 
-She lit an incense, did something like tarot fortune-telling, and asked me a few personality assessment-like questions.
+## Scene 39 Connection of bodies [Realta Nua]
 
----
+I finish taking the bath and return to my room.  
+Now that I’ve changed out of my wet clothes, I finally feel like I’m home again.
 
-And Tohsaka says...
+“---Phew.”  
+I sit down and let out a sigh while relaxing my shoulders.  
+…Today was a long day.  
+Many things happened, and there were many ups and downs.  
+I sort out the things I’ve lost from those I still have.
 
-"―――You don't correspond to anything. Further analysis would be useless."
+“…Right. Sakura is Rider’s Master.”  
+It seems Sakura had given her right to Shinji, but she is Rider’s Master now.  
+Then Rider must be nearby, protecting Sakura.
 
-...And quickly gives up diagnosing my Magic Circuit.
+“…Yeah. I’ve seen Rider a few times already.
 
----
+If she’ll be protecting Sakura, I have to go introduce myself to her properly.”  
+  
+  
+…She’s unapproachable because of her appearance, but I think she’s understanding.  
+I don’t know when Sakura will be discarded by Zouken, so Rider is the only one I can rely on.  
+  
+  
+…Well, according to Kotomine, Sakura’s condition will get worse the more she uses her Servant, so relying on Rider is a last resort.
 
-"Hey. Does that mean you can't tell?"
+“All right. I’ll have Sakura introduce me to her tomorrow.
 
-And when I ask her...
+Oh… but she might hold a grudge after losing to Saber.”  
+My shoulders slump.  
+…But Rider will be living here too, so I should at least greet her
 
----
+“---Who is it!?”
 
-"Excuse me. I found out that you're not related to the five elements. Any more consecration is out of my expertise, so it's useless to keep going.
+“……!”  
+I raise myself so that I can dodge instantly and glare at the shouji.  
+…Outside the room.  
+…I can see the silhouette of someone standing on the porch.
 
-I'll just see what magecraft you can use and figure out from there."
+“---”  
+…There’s no reply.  
+The figure seems to be waiting for my reaction.
 
----
+“---”  
+…Damn.  
+There’s nothing I can use as a weapon here. I guess I’ll have to attack first before
 
-...That's how it is according to her.
+“---S-Senpai. Um, are you awake…?”
 
-I run through the "strengthening" magecraft using the clay she prepared.
+“Huh…? Oh, it’s you, Sakura.”  
+I sit back down.
 
----
+“You can use the bath whenever you like. If you need a change, there’s Fuji-nee’s clothes, right?”
 
-It's called an ether cluster, and it's a strange object that returns to its original form no matter what happens to it. It's a good conductor of magical energy.
+“…Yes. I’ve already taken a bath and borrowed Fujimura-sensei’s clothes.”  
+  
+  
+“…?”  
+…? Then I don’t think there’s anything else to ask.
 
-I strengthen it so easily that I'm afraid it won't recover, but...
+“Um… Senpai. Can I come in?”
 
----
+“Yeah. What’s wrong, why are you being so formal?”
 
-"It's like shiniku, so don't worry about it. It restores its original state in a day even if you bundle it with strong magical energy."
+The shouji opens.  
+And the person entering the room is…
 
-...She says something like that.
+“---”  
+Sakura, in normal clothes, acting strangely.
 
-Shiniku, by the way, is meat that never goes away, no matter how much of it you eat.
+I hear someone gulp.  
+I realize that it’s me and feel myself heating up.
 
----
+“---”  
+I cover my mouth with my hand and look away.
 
-...Anyway, I keep repeating the strengthening magecraft on the clay.
+“---”  
+This makes no sense.  
+I looked away, but the urge to look at her is overwhelming.  
+My heart’s beating rapidly, and my head is so confused that it might run away unless I keep the reins on. I don’t know why, but Sakura is stirring up strange feelings in me right now.
 
-I can't fail in front of Tohsaka, but I only succeed two out of ten times.
+“……”  
+Sakura just stands there.  
+I finally realize that something else is strange.
 
-Activating my Magic Circuit, which was easy when I had Saber, took a lot of time and effort.
+“…Sakura, what’s wrong? How’s your fever? Do you have a cold after all…?”
 
----
+“…No. I do have a fever, but it’s not because of a cold.
 
-Tohsaka asks me a few questions while I cast the strengthening magecraft.
+It’s not because I’m sick that I’m burning up.”  
+Sakura looks down awkwardly.
 
-Whether I'm self-taught, whether I can use any other spells, how Kiritsugu taught me, and what I have the easiest time imagining.
+Sakura acted like this from time to time over the last couple of days.  
+…I thought I’d grown used to noticing parts of her that I didn’t know about, and that she’s a girl my age.  
+But… I think this is on a different level entirely.
 
----
+“…Sakura?”
+
+“…It’s no good, Senpai. I can’t suppress it by myself any longer.”
+
+“WWhat can’t you suppress?”
+
+“…Inside… me… even when I was going home with you, just thinking about how warm your hand was…”  
+“---”  
+  
+  
+Sakura sways unsteadily.  
+…It looks like something more serious than just a fever.
+
+“I… Senpai, why… Ah…”  
+…I can’t think clearly.  
+It’s clear that something is wrong with Sakura.  
+In that case I should take her hand and lead her back to her room, but I can’t move.  
+  
+  
+It’s maddeningly silent.  
+Sakura draws towards me as though blown by wind.  
+Her foot catches on the edge of the tatami mat, and
+
+“---Ah.”  
+Was that my cry, or Sakura’s murmur?  
+Sakura collapses feebly.  
+My feet move again.  
+I move to help Sakura to her feet
 
-So.
+Too late, I awkwardly catch Sakura.  
+There is clearly something wrong with her body.  
+She’s burning up, but only her limbs are cold. Her body is feverish, but her arms and legs are bloodless.  
+…This is absolutely not an ordinary fever.  
+This isn’t caused by sickness, but a poison made by human hands.
+
+My gaze moves.  
+Sakura is burying her face into my chest.  
+…There’s a long silence.  
+She doesn’t make a sound, but Sakura is crying.
 
-Tohsaka's expression darkens further with each answer I give, and by the end she's shut up entirely.
+“…Sakura.”
+
+“…Senpai. Why did you protect someone like me? I’m already infested. Even if I like you, I can’t do anything for you.
+
+So why are you protecting me, going as far as making Tohsaka-senpai---Nee-san your enemy?”  
+  
+  
+…The reason I protect Sakura.  
+I don’t even need to think about such a thing.
+
+“---You’re wrong. I just wanted to be with you.
 
-I don't know what she's angry about, but it's really awkward to be here if she makes a face like that.
+I need you, Sakura, and I couldn’t think about being separated from you.
+
+So I can’t give you to Tohsaka, even if she is your older sister.”
 
----
+“Are you saying that as family?
+
+…Or do you see me as a girl?”
+
+“---”  
+There’s no way that I can see her as family now.  
+I’ve wanted Sakura by my side these past couple of daysno, for a long time.  
+…It’s just that I can’t lie to myself any longer.
 
-"Tohsaka? ...Um, I know it's only a matter of course, but are you regretting cooperating with me because I'm such an amateur?"
+“---Yeah. I love you, Sakura.”  
+  
+I say it clearly.  
+…It’s ridiculous. When faced with the possibility of losing Sakura, my insignificant facade is finally stripped away.
+
+“…Senpai.”  
+  
+Sakura is trembling.  
+No, maybe it’s me who’s trembling.  
+Of course I’m nervous lying down with Sakura in my arms and confessing my feelings to her like this.  
+I put just a little strength into my hands that are holding her.
+
+…It’s quiet.  
+I thought I’d be more agitated, but after putting it into words, I feel completely calm.
+
+“Sakura.”  
+Sakura’s shoulders are moving.  
+Her head shakes as she faces into my chest.  
+I told Sakura that I love her. So I want to ask if she feels the same.  
+…No, maybe I don’t need to ask.  
+From tomorrow on, we could spend the mornings together like usual.
+
+“…Sen…pai.”
+
+Her frailty takes my breath away.  
+Her voice sounds even weaker than before.  
+It’s not the voice of someone feverish.
+
+“Ah… hey, Sakura… ah…”  
+Sakura’s body bends.  
+Sakura is on top of me, and something seems to be wrong with her.  
+Not only is she feverish, there’s something pitiful about her, as if she’s enduring something.
+
+“Sakura, hey… hold on, are you okay?!”  
+Sakura’s body is heating up, and at the same time, her limbs are getting colder.  
+---I need to calm down.  
+I can’t help Sakura, but Tohsaka---no, that’s no good, then I’ll take her back to the churchno, instead of taking Sakura there, I should call Kotomine here.
+
+“Hold still. I’ll help you feel better right away.”
+
+“Senpai… I… ah… haa, haa, haa…”  
+Then first I should put her to bed.  
+Sakura is clinging tightly to me.  
+…Her anguished expression makes me bite my lip.  
+I told Sakura that I love her, but I can’t even do anything for her.
+
+“I want it… Senpai, I… don’t have… enough…”  
+  
+Her incoherent mutter mixes pain and bashfulness.
+
+“I can’t… hold back… I… can’t bear it…”  
+  
+Our breathing quickens.  
+Sakura’s pained breath, and mine as I listen to it.  
+…I can’t stay calm being close to her.  
+For now, she needs to sleep in a warm bed.
+
+“Okay, Sakura, just”
+
+“---!”
+
+Sakura refuses and tries to run away… no, she leans back and grabs my hand.
+
+“Ah… sorry, Sakura.”
+
+“That’s not it, that’s not it, Senpai… I… no, I can’t…”  
+  
+I thought Sakura didn’t want to be touched, but that’s not it.  
+Sakura is behaving inconsistently.  
+Her arm is gripping my hand and trembling as it tries to draw me toward her, but her upper body is trying to move away.
 
-I ask her the most likely thing.
+“Sakura? Hey, Sakura!”
 
----
+“I can’t, if I do that… Senpai will… hate me… Ah… But, it hurts… and Senpai’s hand is… so warm”  
+  
+  
+My hand in Sakura’s moves slowly towards her.  
+…I can’t pull free.  
+I can’t let go of this frail, resisting hand.
 
-"Huh...? Yeah, I do regret that you're an amateur, but in your case, you were taught wrong... Or should I say that I'm surprised you're still alive with the way you're doing things."
+“Ah… Senpai… no, I don’t… have enough…”  
+There’s a captivating quality to Sakura’s voice.  
+Sakura brings my hand close, and
 
-Tohsaka ponders.
+As if looking for relief, she bites my finger.
 
----
+“Huh---”  
+The surprise steals my strength away.  
+Why is Sakura doing this?
 
-"...? Heeey, Tohsaka? You lost me."
+“…Ow.”  
+She bites into me.  
+There’s a slight pain in my fingertip.  
+Sakura’s teeth tear my skin, and pain and blood begin to pour out from the inside.
 
-".........?"
+My blood streams out.  
+Sakura’s shaking gradually slows.  
+Her cold limbs start to gradually regain their warmth.
 
-Why is she glaring at me?
+“Mm…”  
+  
+She gulps.  
+There is a tiny movement in her throat as she swallows the blood.
 
----
+“…”  
+The tip of her tongue touches the wound.  
+It makes a quiet sound as she drinks the red blood.
 
-"......Fine. I guess if I'm going to correct you, we'll have to start with the fundamentals. But let's go back to what we were talking about earlier. Is it true that the things you projected are still in your shed?"
+“…Urk…”  
+  
+My finger feels so pleasant it’s as if it’s about to melt away.  
+I feel the sensation of Sakura’s lips, and the occasional gentle touch of her tongue.  
+But more than that, with every drop of blood that leaks from the wound, a sweetly pleasant feeling washes over me.  
+  
+  
+  
+…I’m sure I’ve felt this same pain somewhere before.  
+But I can’t remember what kind of experience it was.  
+It feels so good it seems like a bother to remember.  
+She’s only sucking my finger, but the comfortable sensation runs past my wrist and up to my elbow.
 
-"Yeah. Things don't normally go away unless you break them, right?"
+“Mm… mmm…”  
+  
+It’s as if the veins from my heart to my fingertip have been brought into sharp relief.  
+The blood carrying my magical energy spills into Sakura’s mouth, and…
 
----
+“Ah… aah…”
 
-I told her that I use projection as a breather in between strengthening magecraft.
+…I look objectively at the reality of the situation.  
+Sakura is drinking my blood while holding back embarrassment. And her condition is improving.
 
-It seems Tohsaka is particular about it, and told me to use projection using the clay.
+Then---what’s the problem in what she’s doing?
 
-She told me to make a vase. Everything started out smoothly, but in the end I still failed.
+“…Ha…ah…”  
+  
+How much blood have I lost?  
+Judging by the weakness from my loss of blood…
 
----
+…I’m sure I’ve only lost as much blood as I would from a blood donation.  
+Sakura gives my finger a final lick, and with a sound, lets it fall away from her lips.
 
-"―――Hmph. For now, I'll teach you how to turn your switch on and off.
+We look at each other wordlessly.  
+Sakura’s condition seems to have returned to normal, but she still looks forlorn.
 
-It's faster to make an actual switch in your body. Stay over tonight. It's a drastic measure, so you'll have to stay in bed all night."
+“…Sakura?”  
+Finally, I call her name.  
+I hold back the strange pleasure I felt from my finger, and my unease about what just happened.
 
----
+“Senpai… Ah, ah…”  
+With a start, Sakura lets go of my hand and jumps back.  
+She flees to the corner of the futon in a rush, and kneels while looking down in embarrassment.
 
-"What――――? You mean here?"
+“Sakura… no, I don’t mind if you can’t answer.”
 
-"What's with that face? Don't worry. I'm not going to be performing surgery on you. You'll just drink some medicine. Well, you won't be able to move for a while because it's so strong."
+“…I’m sorry.”  
+  
+Her voice is so quiet it’s like it’s about to disappear.  
+When I turn to face her, Sakura hangs her head as though cowering, her hands in her lap.
 
----
+“…You know, right, Senpai?”
 
-"Oh... Um, it's not that I don't like drastic measures..."
+“I was trained as a magus at the Matou household.
 
-...I look at the clock.
+…Grandfather tampered with my body so that he could turn a child of another bloodline into a magus of the Matou family. …The result is this body that goes crazy when I don’t have enough magical energy.”  
+  
+…A dark rage towards Matou Zouken wells up within me.  
+But even more than that, Sakura’s passionate, pitiful speech fills my chest with pain.
 
-It's almost five.
+“The worms in my body want power from a magus, so they start to ache. When that happens, I can’t hold back anymore.
 
-I didn't notice since it's cloudy today, but it's getting late.
+The worms eat up all my magical energy, and then they say that it’s not enough and they want more. …So I… Senpai’s…”
 
----
+“So the reason you drank my blood…”  
+“…”
 
-Tohsaka is helping me as a fellow magus.
+She gives a small nod.  
+In this silence, it makes a very definitive answer.
 
-I'm worried about leaving Sakura alone in her condition, but today's an exception.
+“There’s a lot of magical energy in a magus’s blood. So I started wanting to drink your blood, Senpai. If I drank that, it would replenish my magical energy, and it would relieve the weird things happening to my body.”  
+  
+  
+…I see.  
+Going back to being Rider’s Master greatly increased Sakura’s consumption of magical energy.  
+…She was able to live normally without difficulty up until now, but now even that takes up magical energy.
 
-...Tohsaka's cooperating with me, so she takes precedence.
+“There’s something wrong with me, isn’t there. I-it makes sense that you’d turn away from me, Senpai.
 
----
+I’ve been aching ever since we came home together, and I couldn’t think of anything but you, and even though you’re trying to help me I took it from you by force”  
+“---”
 
-"...Hey, why the painful look?
+“…Senpai. I’m strange, aren’t I.”  
+  
+Her voice breaks.  
+The wound Sakura gave me throbs with pain right to my heart.
 
-You don't mind taking drastic measures, right? Then just give up and accept it."
+“Even when you were holding me and worrying about me, I wanted to drink your blood.
 
----
+You said you loved me as a girl, but sucking your blood was all I could think about.
 
-"...Yeah, I will. But let me make sure, Tohsaka. This thing will end today, right? I'll really be in trouble if I can't move tomorrow."
+All I could hear was the worms moaning. I wanted to feel better, I just wanted to feel better soon, so I wanted Senpai, Senpai’s bloodI thought maybe I didn’t really love you, I just wanted to love you so I’d be able to drink your blood, so…!”
 
----
+“---”
 
-"...Well. I can't deny that possibility, to be honest. I can't tell how it'll turn out, and it'll take longer if your body has matured to the point where it can't be tampered with. And there's the possibility of the operation itself failing.
+“…I’m sorry. Someone like me who can only think of sucking blood to make herself feel better isn’t worthy of your love”  
+  
+---It’s obvious.  
+I don’t even know why I should have to say it.
 
-Well, that's all up to your luck. How's your luck recently, Emiya-kun?"
+“There’s nothing wrong with you. You’re beautiful, Sakura.”
 
----
+“Ah…”  
+  
+I embrace her again and whisper.  
+Sakura’s shoulders stiffen as if to resist me, but she goes limp in my arms.  
+Is it because Sakura is shaking and cryingor because I’m saddened that I can’t cry for her?
 
-...It's bad.
+“…Don’t be stupid. How could I hate you over a little blood?
 
-It's worse still given that the one asking me holds my fate in her hands.
+I loved you, Sakura. You’re so beautiful I had to pretend not to notice until now.
 
----
+…So don’t blame yourself like this. It’s not your fault your body is the way it is.”  
+  
+  
+I stroke her shoulder.
 
-"...Hold on. That's really troublesome.
+Sakura leans on my shoulder and sobs quietly.
 
-I have to go home by tomorrow."
+“And you know what? When you were sucking my blood, I was happy.”
 
-"Huh? Your home?"
+“…Huh? But, Senpai…”
 
----
+“There’s nothing strange about that. Even if I can’t cure you, I was happy that I could make you feel better.
 
-"Yeah. Sakura's lying sick at my house, so I want to go check on her. I won't be able to rest easy while I'm lying in bed unless I'm sure she's all right."
+So don’t worry about it. If you refuse the only thing I can do for you, where does that leave me?”  
+I pat Sakura on the back as if to cheer her up.
 
----
+“If my blood will help, then tell me anytime.
 
-"Crap―――I forgot about it."
+If it will make you feel better, I’d be happier that way.”  
+…I’m glad that I fell in love with Sakura.  
+Because even if it’s just a little, it’s something I can be proud of.
 
-...She's astonished.
+“…I’m sorry, I’m sorry, Senpai, I…”  
+  
+Sakura is apologizing.  
+Each time, I stroke her shoulder and tell her there’s nothing to be sorry for.  
+Sakura is shaking uncontrollably, like a small child.
 
-Tohsaka stares at me, bewildered, and...
+“I love you, Senpai. I love you, so I thought I wasn’t good enough.
 
-"You idiot! I wouldn't have kept you here for so long if you'd told me earlier...!"
+But, if you’ll still love me, then… I have a request.”
 
-...As if trying to get back at me, she gives an unexpected response.
+“…Okay.”
 
----
+“If I suffer again, will you… help me?
 
-"We can talk about the switch later! We can do that at your house!"
+Even if I drink your blood, you won’t hate me?”
 
-"W-What...!?"
+I stroke her head as I tell her it’s all right.  
+Sakura stops trembling, and smiles through her tears.
 
-She yells at me as she crosses the room and puts on her coat.
+“……I’m glad, Senpai.” “…I’m glad that I fell in love with you, Senpai.”  
+  
+  
+…She gives my cheek a light, but deeply affectionate kiss.  
+Touching the spot where her lips gently touched me, I go red just remembering it.  
+We touched many times up until now, but now it feels embarrassing all of a sudden.
 
----
+“…Well, uh.”
 
-"Let's go. We're done with what we have to do here, and we can do the rest at your place. We'll continue as soon as you're done with nursing Sakura, so let's hurry."
+“…Senpai…”  
+  
+We let go of each other and kneel face-to-face.  
+Everything that’s happened up to this point is flooding into my head all at once, and I can’t move.  
+Sakura seems the same, and our gazes roam restlessly around
 
-"Eh――――o-okay. That'll help me out."
+“…Thank you for helping me so much today.
 
----
+I’m going back to my room… Good night.”  
+  
+Sakura stands up in a hurry.  
+I have no reason to stop her, and I’m too embarrassed to anyway.
 
-"...Humph. I'll tell you now since I don't want to have to keep remembering this.
+“Good night, Sakura.”
 
-―――Your nature is in projection and not strengthening.
+“…Yes. Good night, Senpai.”
 
-I don't know where you made your mistake or what your misunderstanding is, but you're a magus that belongs on the 'side that creates'."
+The shouji slides shut, and Sakura disappears.  
+…Now that I’m alone, I touch my cheek and my finger.  
+The seriousness of Sakura’s situation is inevitable, but when I remember what just happened, I feel really happy.
 
-Tohsaka walks off down the hallway.
+“---Time to sleep.”  
+  
+…I want to remember it some more, but there’s a lot to do tomorrow, and I have to think about what to do about Tohsaka, and there’s Rider, too.  
+…Plus the Grail War isn’t over yet, and I need to take down Matou Zouken who’s the source of all this trouble, so Sakura
 
----
+…See, I really am getting sleepy.  
+My mind and body are both tired, so I need to sleep soundly now and give it my all from tomorrow onwards
 
-"...?"
+I’m dreaming.  
+I should be sleeping alone, but there’s someone cuddling up to me.  
+I’m too mentally and physically exhausted to be awake, and Sakura went back to her room.  
+So I could only be sleeping beside Sakura in a dream.
 
-I tilt my head in wonder, but I follow Tohsaka and leave the Tohsaka household.
+“---”  
+  
+Even in my dreams, Sakura is drinking from me.  
+That’s how stimulating it was when Sakura drank my blood.  
+  
+  
+  
+…I want to tell her that I love her.  
+She repeated “Senpai” over and over, desiring me, and I want to respond to her affection.  
+“---”  
+Sakura is drinking from me.  
+Even in my dreams, Sakura is drinking from me.  
+  
+…I’m literally entranced.  
+  
+  
+  
+It’s not enough. It would feel better if it were enough to break both of us.  
+If creation is a gentle pleasure, then destruction is an intense one.  
+You see, they are both an undeniable catharsis.  
+  
+  
+  
+“---”  
+  
+What am I thinking?  
+That’s, completely, inhuma
 
----
+“Ah”  
+  
+My vision wavers.  
+Sakura’s not there.  
+Sakura was drinking from me, but all of a sudden I’m being eaten by something strange,
 
-## Scene 33
+“Ha---, guh……”
 
+It’s hot.  
+My foothold is melting.  
+I’m sinking into a scalding-hot mire.  
+I’m drowning, knowing that this is Sakura’s body heat
 
-
-"Hold on...! Didn't you join forces with me because you couldn't save people by yourself..!?"
-
----
-
-"――――――――"
-
-I stop.
-
-Her words splash cold water onto my heated brain.
-
----
-
-"――――I'm sorry. But Sakura's in danger. I know it's suicidal to go alone, but this is all I can do."
-
----
-
-"...I thought so. But I can't readily help you as long as Shinji is holding Sakura hostage.
-
-But Emiya-kun. If you can manage to get Sakura back from Shinji, I can do the rest."
-
----
-
-"――――You'll take care of Shinji?"
-
-"No, I'm talking about Rider. Servants are ones who fight other Servants, right?
-
-I'll be hiding, so do anything you can to save Sakura. If you can manage that, I'll save you no matter what, even if you are about to die in the next second."
-
----
-
-Tohsaka sounds like she's trying to convince herself.
-
-...This is just going to increase the burden on her.
-
-I'm fully aware of that. I got Tohsaka to help me, and now Tohsaka's trying to fulfill our promise.
-
----
-
-That convinces me.
-
-I'll rely on Tohsaka.
-
-In return, I'm going to get Sakura back.
-
----
-
-"All right. I'll leave the follow-up to you."
-
-"Yeah. But that's under the condition that you're still alive to protect Sakura.
-
-Even Archer can't protect Sakura while fighting Rider. It's meaningless to save Sakura at the cost of your life."
-
----
-
-The school building is deserted.
-
-Thanks to the series of comas, the school closed early.
-
-It's not even six o'clock, but there are no students or teachers to be seen.
-
----
-
-"――――Can you tell where Shinji is, Tohsaka?"
-
-"...Knowing him, he's probably inside. I'm sure he's waiting in familiar territory on an upper floor."
-
-That could only be one place.
-
-Shinji is in the classroom on the third floor.
-
----
-
-"I'll go ahead. You come later, Tohsaka."
-
-"...Okay. I'll go through the gate after ten minutes.
-
-I didn't tell you, but a boundary field's set up here. I'll be found even if I hide my presence, so keep their attention so they don't notice me."
-
----
-
-I nod and start running.
-
-――――There's hot steel in my back.
-
-The Magic Circuit is already made.
-
-I tell myself that my only weapon is meant to protect Sakura, not to harm my enemy.
-
----
-
-"...!"
-
-I stop.
-
-On the third floor hallway are a black Servant and Shinji, holding a knife at Sakura.
-
----
-
-"You――――!"
-
-My mind explodes.
-
-My feet start to move again.
-
-Then―――the black Servant blocks my way.
-
----
-
-"Stop. My Master will harm her if you take another step."
-
-"...!"
-
-I slide to an abrupt halt.
-
-My mouth hurts.
-
-I'm gritting my teeth so hard that they're screaming.
-
----
-
-"Shinji――――!"
-
-"Yo. Just like I thought, you came flying over here. I knew you would come alone if I told you to."
-
----
-
-"――――!"
-
-My cool brain boils up once again.
-
-My head shakes so much that I almost forget about the Servant in front of me.
-
----
-
-"...What is that?"
-
-Why is he doing such a thing?
-
----
-
-Sakura is Shinji's sister.
-
-An older brother should protect his younger sister.
-
-Family members should help each other and laugh together.
-
-So why doesn't he understand?
-
-Something I couldn't protect.
-
-Why can't he understand how Sakura must feel to have her own brother holding a knife to her!?
-
----
-
-"Are you serious, Shinji――――?"
-
-"Of course. I'm using the last trump card because I'm serious. Why are you stupid even at a time like this?"
-
----
-
-"...!"
-
-Before I know it, I'm running.
-
-I can't stop until I get Sakura away from him.
-
----
-
-"――――――――"
-
-But she's in my way.
-
-Rider is blocking my way, protecting Shinji.
-
----
-
-"...I do not understand. Why did you come here?
-
-In coming here, you showed you were willing to obey my Master. If you planned to fight, you should not have come alone."
-
----
-
-"――――!"
-
-...Rider's right.
-
-...I have to calm down.
-
-Since I obeyed Shinji, I have to think only about saving Sakura and not defeating Shinji.
-
----
-
-"―――――――Phew."
-
-I take a deep breath and pull myself together.
-
----
-
-Shinji is enjoying my dismay with Sakura in his arms.
-
-...Sakura hasn't raised her head since I arrived.
-
-She's not unconscious.
-
-She's standing unassisted.
-
-Her head is down because she doesn't want to raise it.
-
----
-
-"―――Shinji. Did you tell her about us?"
-
-I glare at him, unable to hide my anger.
-
-"Huh?"
-
----
-
-"――――Oh. Oh, I see!
-
-Yeah, don't worry, Emiya. Since you wouldn't tell her, I told her everything! I told her we're both Masters and tried to kill each other!"
-
----
-
-"――――!"
-
-"Did you want to hide that from her? Are you stupid? Of course she'll find out! She knew you were hiding something, but she couldn't ask you because she's just your underclassman!"
-
-"......!"
-
----
-
-He presses the blade against Sakura's cheek.
-
-Sakura looks away, but grits her teeth so that she won't raise her face.
-
----
-
-"Come on, don't be reserved and ask. Emiya won't hide anything now. See, it's your wish come true!"
-
-"――――――――"
-
-She doesn't reply.
-
-With her head down...
-
----
-
-"Hey. Why aren't you saying anything?
-
-I told you to ask him. I'm telling you to ask him what he thinks of you and if he hates you after finding out that you're a dirty woman of Matou!"
-
----
-
-"Shinji――――!"
-
-...Her figure looks like she's apologizing to me, and I can't contain myself anymore.
-
----
-
-"It's fine now, right? I came here, just like I promised. Let Sakura go."
-
-"What? I didn't promise you anything. I gave you a command.
-
-I just said I wouldn't do anything to Sakura if you came alone."
-
-"――――――――"
-
----
-
-"Don't glare so much, Emiya. I'm not a devil. I'm glad that you want to save my sister. I'll meet your sincerity if you act accordingly. I can send Sakura home once we're done.
-
----
-
-"I see―――is that a promise, Shinji?"
-
-"Yeah. I'll let Sakura go if you do as I say.
-
-This is a promise. I swear."
-
----
-
-"All right. So, what do you want me to do? Do you want me to get on my knees and beg?"
-
-"Nope. What's the fun in making a guy beg? I brought you here to fight. I told you we're settling our match."
-
----
-
-...Rider takes a step forward.
-
-There's no enmity or intent to kill.
-
-Rider steps forward to obey her Master.
-
----
-
-"But it's boring to just fight, right? It's not fair since I'm not a magus, and it's obvious that I'll win in a fight.
-
-So to be fair, I'll have her fight you."
-
----
-
-"――――――――!"
-
-...Heh.
-
-Fight Rider empty-handed, huh?
-
-That's like telling me to die.
-
----
-
-"I won't take your life. I've told Rider to go easy on you.
-
-Well, I'm sure you'll be a nuisance if you keep running around after today, so I'll have her break your limbs."
-
----
-
-...Rider is not holding her dagger.
-
-It seems she really is going to go easy on me.
-
----
-
-"Isn't your job easy? You just have to stand there and get hit like a dumbass.
-
-Oh, but don't go down too soon, okay? If you faint before I'm satisfied, I'll have Sakura take the rest."
-
----
-
-"――――――――"
-
-...Rider comes closer.
-
-Three more steps.
-
-Then I'll be within her reach.
-
----
-
-"...Heh. Don't resist, but don't go down easily?
-
-You're contradicting yourself. What do you want, Shinji?"
-
----
-
-"Hah, that's obvious, isn't it...!?
-
-I just want to beat the crap out of you...!!"
-
----
-
-Rider springs forward.
-
-"――――"
-
-I raise both my arms in preparation for her attack.
-
-At that instant――――
-
-An impact that almost blows the bones away with it pierces my right arm.
-
----
-
-"Guh――――!"
-
-She aimed at my arm that was guarding my face.
-
-My arm is still attached.
-
-But it's numb and I don't feel anything.
-
----
-
-"Haa......!"
-
-I lace my senses as fast as possible.
-
-I can't do anything bare-handed.
-
-Unless I strengthen everything that can be strengthened, my limbs will be torn clean off.
-
-I have to turn my uniform into steel and turn my body into something even stronger, or the next attack will kill me――――!
-
----
-
-"――――!"
-
-A tremor runs through my left arm.
-
-The blow like a bushhammer penetrates through my strengthened uniform and tries to break my left arm.
-
----
-
-"Haa――――you――――!"
-
-Both my arms have been rendered useless in a mere second.
-
-―――No, they do move, but I don't feel them.
-
-I can't use my deadened arms to block her attacks.
-
-If she takes another shot at my head now, I'll be knocked out for sure...!
-
----
-
-Rider is merciless.
-
-She beats me relentlessly, just as Shinji ordered.
-
-Her movements remind me of a machine.
-
----
-
-"Ah, guh......!"
-
-I protect my face with arms that barely move.
-
-From the start, I can't perceive Rider's attacks to block them accordingly.
-
-I have to concentrate on guarding my head so that I won't get knocked unconscious.
-
----
-
-"Kuh, guh――――!"
-
-What is Rider thinking?
-
-Even though my arms are an easy target, she ignores them.
-
-She only hits my exposed chest and stomach.
-
-...They are agonizing blows, but aren't as strong as the attacks that numbed my arms.
-
----
-
-"―――――――, ――――"
-
-...It's strange.
-
-With the strength Rider showed at the Ryuudou Temple, a single blow should be enough to tear me in half.
-
-...Is she going easy like Shinji said?
-
-Well, she is going easy on me by not aiming at my face, but even with that in mind, something's not right.
-
----
-
-"――――――!"
-
-In short, her power is way too different.
-
-A Servant's power is in direct proportion to the magical energy you can feel from them.
-
----
-
-Rider was a strong Servant back at the Ryuudou Temple.
-
-But the Rider before me now is the Rider that was defeated at the park.
-
-I don't know what happened, but if that's the case, I still have a chance to outwit Shinji―――!
-
----
-
-"Gu, fu...!"
-
-I fall forward.
-
-Seemingly tired of using me like a punching bag, she steps forward and drives her fist into my stomach.
-
----
-
-"――――"
-
-It's like a stake gouging into my abdomen.
-
-...The attack is really effective.
-
-The bruises from last night are screaming with pain.
-
-Gastric juice fills my mouth and I almost fall down to my knees.
-
----
-
-"What, is that it, Emiya? That's pitiful. You're in front of Sakura, so take it like a man!"
-
-...I fall forward.
-
----
-
-"――――――――"
-
-Rider steps back and watches.
-
----
-
-Then...
-
-"――――Ahh......!"
-
-I grab Rider's arm and force myself up.
-
----
-
-"――――! That's good, Emiya! You're as persistent as a roach!
-
-Ahaha, you're hilarious!"
-
-Ah... guh.
-
-Damn, that hurts. My head is spinning, even though she didn't hit me there―――
-
----
-
-"But, well... This is a third-rate show. Even if we continue, it'll just be more of the same. I'm getting bored, so let's finish it off with an exciting knockout scene."
-
----
-
-――――The same?
-
-Are you stupid? What's the same about this?
-
-We're standing in a different position now.
-
-Hasn't he noticed that I switched positions with Rider when I pulled myself up using her arm?
-
----
-
-"――――There are about five more meters. Your patience has won out."
-
-"What...?"
-
-I raise my head.
-
-What did Rider just say?
-
----
-
-"Enough resting. Start the second round, Emiya."
-
-Rider shakes off my hand.
-
-The black Servant resumes her attacks with the artificiality of a machine.
-
----
-
-―――I'm being pushed back.
-
-To avoid finishing me off, Rider's attacks stay clear of my vital areas.
-
----
-
-"――――――――"
-
-My body is numb.
-
-I'm bruised everywhere I got hit, and I don't feel pain anymore.
-
-It's because the pain from within is worse than her attacks.
-
-Rider has attacked me to destroy my body.
-
----
-
-"――――――Prepare yourself."
-
-The black Servant closes the distance with an emotionless voice.
-
----
-
-And in that moment, I am certain.
-
-This isn't part of Shinji's plan.
-
-Rider's decision not to go for my head,
-
-and that I can still move my body...
-
-It's not because Shinji ordered her to go easy on me, but――――
-
----
-
-"All right, you don't have to hold back anymore! Kill him, Rider!"
-
-"...!? Nii-san, stop...!"
-
----
-
-Rider's hair flutters as she steps in...
-
-...and hits me in the chest with her most powerful strike yet.
-
----
-
-"Guh――――――――"
-
-I can't breathe.
-
-I don't feel the ground anymore.
-
-Her attack almost blows me unconscious even though I knew it was coming.
-
----
-
-"Senpai...!"
-
----
-
-I hear a scream and a delighted laugh as I fly through the air.
-
-...Sakura's voice is close.
-
----
-
-―――I fall.
-
-Under normal circumstances, I would've hit the floor and died.
-
-The impact of the fall doesn't matter.
-
-It's an attack strong enough to blow a human away.
-
-It wouldn't be surprising if the strike blew a hole in my chest.
-
----
-
-"......Hah."
-
-But I'm alive.
-
-Anyone can jump back if the timing is set so perfectly.
-
-That attack wasn't meant to kill me.
-
-She's kept me conscious and mobile, not because of Shinji's order, but――――of her own free will.
-
----
-
-"――――Now."
-
-The range is perfect.
-
-I turn my body right before I hit the ground, straighten myself instantly,
-
----
-
-"Huh?"
-
-and grab the knife in front of me with my left hand.
-
----
-
-I catch it by the blade.
-
-I don't care about it digging into my hand because it's numb.
-
----
-
-"W-What――――!?"
-
-I raise my other arm.
-
-Without a thought for the pain...
-
----
-
-I punch him square in the face with my clenched fist.
-
----
-
-## Scene 34
-
-
-
-"I'm not prepared for such a thing. I came back for Sakura."
-
-"――――!"
-
----
-
-"―――I see. I get your point.
-
-You're going to protect Sakura over other people, right?"
-
-"Yeah. Don't say I'm mistaken. If you're going to kill Sakura, I'll stop you."
-
----
-
-"Stop me? I think not. You can't even move an inch, let alone stop me. You can't interfere, no matter how badly you want to protect her."
-
----
-
-Tohsaka's voice contains no emotion.
-
-And...
-
-"Wh―――at......?"
-
-...I try to react and realize that I can't even move a finger.
-
----
-
-"Guh...!? Tohsaka, you...!"
-
-"...You said I can't say you're mistaken. But you did make a mistake. If you wanted to follow your own path, you shouldn't have given me the right to decide."
-
----
-
-"――――――――"
-
-My heart beats loudly.
-
-No, it's not my heart, but the bind made right beside my heart.
-
----
-
-―――It's nothing.
-
-It was an ideal answer.
-
-I'm not satisfied, but if that's what you say, that's how it'll be.
-
----
-
-"――――――Curse of coercion..."
-
----
-
-"Yes. It was just horseplay, but I never thought it would come in handy like this. You can't go against me from the moment you swore absolute obedience to me.
-
-...You made a contract with me instead of making a promise. Instead of being my ally, you chose to be my servant."
-
----
-
-"Wha――――"
-
-"―――I'm going to go kill Sakura, Emiya-kun. But don't get it wrong. You couldn't have stopped me even if you didn't have the geas.
-
-This is my duty. You're not at fault here."
-
----
-
-"――――! Tohsaka, w――――"
-
-I can't even tell her to wait.
-
----
-
-...Tohsaka leaves.
-
-"No way――――why?"
-
-I still can't move.
-
----
-
-"Damn, don't kid me! Why――――!?"
-
-I struggle with all my might.
-
-I have to free myself quickly.
-
-I fight the binding, hoping that it's not too late.
-
----
-
-And suddenly, I'm free once again.
-
----
-
-"―――――――"
-
-My feet won't move to follow her.
-
-Though I've been freed, I'm still frozen in place.
-
-―――And then I understand.
-
-My body stopped moving when I defied Tohsaka.
-
-Then...
-
-Have I been freed because there's no longer a need to hold me here?
-
----
-
-"――――――Sakura."
-
-My legs give way.
-
-Without a place to go, my mind breaks.
-
----
-
-My vision loses light and stains the church black.
-
-―――Emiya Shirou is in weightlessness.
-
-I threw away my previous ideal to protect Sakura.
-
-It's a new path that I can't yield to anyone.
-
-But I've already lost the person on whom I'd depended.
-
----
-
-―――The fight will continue.
-
-The Holy Grail War will continue, and I will end the war along with Tohsaka, the one who killed Sakura.
-
----
-
-...But that is no longer my concern.
-
-Emiya Shirou's position has been eternally lost.
-
-From now on, I must continue onward with neither a guide nor a goal――――
-
----
-
-## Scene 35
-
-
-
-It seems Sakura is in critical condition.
-
-The liquid that came out of her earring was poison, and Kotomine is purifying it now.
-
----
-
-Tohsaka doesn't say anything.
-
-Neither Archer nor Rider are here.
-
-Only the two of us are in the church, waiting for Kotomine's return.
-
----
-
-"――――Tohsaka."
-
-Still sitting down, I call out to her.
-
-"What?"
-
-"I want to ask you something."
-
----
-
-"......I thought so. Fine, I'll tell you. It's no use hiding it from you, and it's meaningless to do so now.
-
-So you want to ask about Sakura?"
-
----
-
-I nod.
-
-Tohsaka takes a deep breath and starts to talk in her normal tone.
-
----
-
-"―――It all started quite some time ago. The Matou blood started to run thin, and their children were born with fewer and fewer magecraft-Circuits.
-
-The family is originally from another country, so I think the land of Japan didn't suit them.
-
-Their decline started when they started living here, and the Magic Circuit finally disappeared in this generation when Shinji was born."
-
----
-
-"...The history of Matou ended with that.
-
-They should have taken an apprentice or something if they'd wanted their quest to continue. But the Matous are a distinguished family, and to the last, they refused to take in an outsider.
-
----
-
-"As a result, their successors had less magical energy, and it finally ran out in the end.
-
-...They finally started looking for an apprentice when that happened, but no magus would come to a fallen family. Hundreds of years of Makiri history should have ended at that time."
-
----
-
-"But they weren't people who could give up then. Shinji's father adopted a child and taught the child magecraft."
-
----
-
-"―――So.
-
-I expect you wouldn't know because your family is a special case, but a family of magi hands down its secrets to only one child. They don't teach magecraft to any other children. Zouken said this, right?
-
-If there is a sibling, one is your successor, while the other is raised normally or put up for adoption."
-
----
-
-"――――――――"
-
-There's no need for two successors.
-
-In a case of siblings... no, "sisters", what would be done to the one who wasn't needed?
-
----
-
-Some may raise her and hide from her the fact that they are a family of magi.
-
-But that's difficult and inefficient.
-
-If they trained their Magic Circuit over many generations, it would not be their wish to waste the excellent gene even if she is not chosen as the successor.
-
-Then――――
-
----
-
-"Tohsaka."
-
-"Yes. I had a sister a year younger than me.
-
-...The declined Matou family had no hope of someone giving them a child for adoption.
-
-It's only natural for them to rely on the Tohsaka family, the ones they held a pact with for a long time."
-
----
-
-"I don't know which one of us my dad intended to make his successor. But I remained a Tohsaka, and she was taken to the Matou family.
-
-That was eleven years ago.
-
-I couldn't go see her much after that. It was an agreement made with Matou, and I couldn't readily go see the successor of the Matous."
-
----
-
-"I see. Then you and Sakura are..."
-
-"Real sisters. ...Well, we never called each other like that."
-
----
-
-...I don't know how much emotion is contained in those simple words.
-
-But that makes me understand.
-
-Why she always asked about Sakura.
-
-Why she didn't let Archer use his Noble Phantasm.
-
----
-
-"...That's good. You're on Sakura's side."
-
-A dim light shines into the gloom of my mind.
-
-...I don't know what's going to happen to Sakura, or what she's going to do from now on.
-
-But if Tohsaka cares for Sakura, there just might be hope waiting on the ominous path ahead.
-
----
-
-"No. I'm not her ally or anything."
-
-―――But...
-
-Tohsaka denies me as if reading my thoughts.
-
----
-
-"Not her ally...?"
-
-"Right. If Sakura can't be cured, I'll dispose of her, just like I would with any other Master gone rampant. I can't sit idly by while a magus indiscriminately attacks people. If Kirei can't treat Sakura, then I'll just have to get rid of her myself."
-
----
-
-"W―――What are you saying...!? Sakura's your sister, isn't she!? Don't ever say something like that...!"
-
----
-
-"Sakura is a child of the Matous. She stopped being my sister eleven years ago."
-
-"Tohsaka, you――――"
-
----
-
-"...Hmph. The outcome won't change even if Sakura is my family as you say. It wouldn't change anything. In fact, that would give you even less right to interfere."
-
-Tohsaka speaks as if it's a matter of course.
-
----
-
-"―――――Then you're..."
-
-No different from Shinji.
-
-But before I can say the worst thing possible...
-
----
-
-"What are you doing? The operation is complete, but she is still in critical condition. If you want to make a commotion, go do so outside."
-
-...Kotomine Kirei emerges from the back of the church.
-
----
-
-"...Hmph. I can't tell if you two are on bad terms or in good harmony."
-
----
-
-"Oh――――"
-
-"――――H-Heh. You're just mistaken."
-
----
-
-"I see. Then sit down. I shall explain the state Matou Sakura is in."
-
----
-
-"――――――――"
-
-"――――――――"
-
-Taking our separate seats, we listen intently to the priest.
-
----
-
-"To put it simply, there is a poison, a worm, in Matou Sakura's body. The worm is called crest worm. It is like an artificial sanshi, the three corpses. Do you recognize this name?"
-
----
-
-...I shake my head.
-
-Sanshi―――a bug said to inhabit a human body that reports the person's evil deeds to the Judge of Hell.
-
-I've heard of sanshi, but I've never heard of a crest worm.
-
----
-
-"So you do not know. Well, it was originally just a harmless parasite.
-
-It's a familiar that lives off of its host's magical energy. It is of the lowest rank of familiars, as it does nothing beyond telling its master whether or not its host still lives."
-
----
-
-"......I see. So it's like a monitoring device.
-
-So Zouken's monitoring Sakura with that?"
-
-"Oh. When was it decided that Matou Zouken is the master of the crest worm?"
-
----
-
-"―――I'm sorry, but I'm in no mood for your long talk. Who else but that old bastard would do something like that to Sakura?"
-
-"I see, that is certainly true. Matou Shinji cannot use crest worms. So it can only be that vampire."
-
----
-
-"Right? Just go ahead and tell me the result. Can Sakura be saved or not?"
-
----
-
-"―――You are being hasty, Rin. You seem to understand her condition, but the boy does not. We should explain for his sake, right?"
-
-"......!"
-
-Tohsaka looks away awkwardly.
-
-Judging by her expression, she doesn't want me to find out.
-
----
-
-"Well, what shall we do, Emiya Shirou? Rin says she just wants to know the result."
-
-"......No. Please explain things in order, Kotomine."
-
----
-
-...I'm sorry for Tohsaka.
-
-But I can't yield to her about this. If this has to do with Sakura's life, I have to know everything about it.
-
----
-
-"Then let me continue.
-
-The crest worm I explained earlier is undermining Matou Sakura's nerves.
-
-It must be the result of eleven years spent growing within her. The crest worm has turned into a nerve, like a Magic Circuit, and it has entangled with her own, swarming all throughout her body.
-
-It has transformed into her Magic Crest. Under normal circumstances it is suspended, having no effect on Matou Sakura's body."
-
----
-
-"But once activated, it will violate Matou Sakura's nerves and will keep moving using her magical energy.
-
-That's what happened earlier. The crest worm roamed through her body, absorbing her magical energy."
-
----
-
-"Had she remained in that state for half a day, she would certainly have died.
-
-The crest worm would suck all of her magical energy as its power, then eat her flesh as nutrition. It means she would have her body consumed after her magical energy was sucked dry."
-
----
-
-"If you have a Magic Crest, you should well know how painful it is.
-
-Even the faintest trace of a foreign substance puts a human body through discomfort, and can even be life-threatening. Having another creature entwining its nerves with your own, moving within you, would easily be enough to kill you."
-
----
-
-"......In that regard, I'm surprised Matou Sakura was conscious until just now.
-
-I do not know if Matou Sakura has a strong will, or if she is just used to the crest worm's activation. We will need to ask her if we want this answered."
-
----
-
-"――――――――"
-
-I hear a sound.
-
-It's the sound of my teeth grinding.
-
-'If you have a Magic Crest, you should well know how painful it is'?
-
----
-
-I couldn't possibly know.
-
-I cover myself in sweat just to insert one Magic Circuit into my body.
-
-Sakura has it several times worse.
-
-I couldn't even guess at her pain.
-
----
-
-"...Hold on. You said if it's activated, right? Then the crest worm isn't usually active?"
-
----
-
-"That is correct. The poison put on her only awakens the crest worm.
-
-The crest worm is only an observation device.
-
-It is only activated as punishment for the host, Matou Sakura, when she breaks a 'certain condition'."
-
----
-
-"――――――――"
-
-Just listening to his words makes me go crazy.
-
-I know it's not something Kotomine did, but I almost attack him for saying that.
-
----
-
-I suppress my selfish emotion and...
-
-"What is the condition?"
-
-I urge him to go on and tell me the heart of the matter.
-
----
-
-"Matou Sakura fell, and Rin tried to save her. But Rider prevented her from doing so.
-
-Then the condition is obvious. To abandon the battles as a Master. That should be the restriction of the crest worm."
-
----
-
-"She has approved of the battles by entrusting Rider to Shinji. But the crest worm will torment her as she refuses it now. It has calmed down for now, but the crest worm will keep tormenting her.
-
-It will tell her, 'What are you doing?
-
-If you are truly a Master, then go kill the other Masters.
-
-If you cannot, I will eat you and kill you'."
-
----
-
-"――――"
-
-My mind almost breaks down.
-
-Just hearing about it makes sparks flash in my vision. More than anything, I want to kill that old man.
-
----
-
-"...That's the condition Sakura must follow?"
-
-"It seems so. Nothing else seems likely."
-
-"Then――――! Can't she just not be a Master? If she uses up her Command Spell and cancels the contract with her Servant, she won't be a Master anymore―――"
-
----
-
-"I would not recommend that.
-
-I told you that the condition of the crest worm's activation is to abandon her duty as a Master.
-
-If she cancels her contract with Rider, the crest worm will consume her for sure."
-
----
-
-"I see. So she can fight and survive, or refuse to fight and be killed by the crest worm. Those are the only options Sakura has, right?"
-
----
-
-"Right. The crest worm will torment its host for as long as the Holy Grail War continues.
-
-If her condition keeps up, her body will not last long, and her mind will be destroyed. She has a Magic Crest all over her body, after all.
-
-You should understand how absurd that is, Rin."
-
----
-
-"...Yeah. Even though it should be familiar with my body, I still periodically get the urge to cut off my arm.
-
-I'm like this with one arm, so her function as a human being should be violated if she has it all over her body.
-
-She's no magus, but a cluster of Magic Circuit. The human mind should be overwritten by the wave of magical energy."
-
----
-
-"Wha―――then Sakura is..."
-
-"She is in danger if her condition keeps up.
-
-I don't know how many more days she can last, but the crest worm will spread further with each successive day. She will die if we cannot remove it before it infects her whole body, but her body will not last that long in any case."
-
----
-
-"The only thing I did was to purify the poison.
-
-The surgery to call back her lost magical energy and mind is after this, but the chance of success is very low.
-
-―――That is all.
-
-To sum everything up, Matou Sakura cannot be saved. Are you satisfied now, Emiya Shirou?"
-
----
-
-"――――――――"
-
-There's no way I'm satisfied.
-
-Sakura can't be saved?
-
-That's ridiculous.
-
-She was doing so well until yesterday, so why are things like this now...!?
-
----
-
-"―――What about removing it? Can't you extract the crest worm?
-
-If you know it's there, you should be able to take it out, right!?"
-
----
-
-"Extraction would be difficult. The crest worm has already integrated itself into her magecraft-Circuits. Even the one who implanted it wouldn't be able to extract it now.
-
-...Yes. If you wanted to extract it, you would have to rely on a miracle, or the Holy Grail."
-
----
-
-"――――!"
-
-The Holy Grail.
-
-So that's where it ends up, huh?
-
-Sakura's only choice is to keep fighting as a Master,
-
-and the power of the Holy Grail is the only thing that can save her――――?
-
----
-
-"I understand the situation now, Kirei. Let me thank you."
-
-She bows without showing much gratitude and confronts the priest.
-
----
-
-"But isn't this too sudden? The crest worm wasn't implanted in her yesterday. So why did she suddenly reach her limit?"
-
----
-
-"Why do you ask that now?
-
-Matou Sakura's body was tampered with many years ago. The changes were so extensive that even her hair and eye colors no longer reflect her heritage. This did not start recently."
-
----
-
-"Well, it seems it was never intended to kill her as it's doing now.
-
-It seems Matou Zouken did not intend to use Matou Sakura in this war. She is not adjusted to fighting. I would assume she was treated that way because unexpected conditions were met."
-
----
-
-"Unexpected conditions, huh? ...I don't know what those are, but that means Sakura suddenly won Zouken's confidence?"
-
----
-
-"Probably. I would assume some change occurred within her that Zouken did not expect.
-
-But that is only one factor. There are other reasons for her drastic change.
-
-She is now constantly using magical energy to maintain her Servant. If she cannot spare any for her crest worm, what will the starving worm do?"
-
----
-
-"...I see. Regardless of the conditions, it'll drain her body to acquire the magical energy it's not getting―――
-
-But she wouldn't lose magical energy if she doesn't use Rider, so――――"
-
----
-
-"Yes, she should be able to live as before, for a while.
-
-But I don't think the old man will let Matou Sakura do as she wishes."
-
----
-
-"......Right. He wouldn't plant a creature like that in her otherwise.
-
-The worm will kill her if she doesn't fight,
-
-and her body will also be destroyed if she fights and uses up magical energy.
-
-No, not only that, but Zouken can do anything he wants with Sakura because he's the one who planted the worm in her."
-
----
-
-"―――He can do anything he wants with Sakura...?"
-
-"Yes. Zouken is holding Sakura's life in his hands. So defeating Zouken is the only way to save Sakura.
-
-―――But Emiya-kun.
-
-You have to defeat Sakura before you can defeat Zouken. She's his puppet. I'm sure he would use her as his shield if you corner him."
-
----
-
-"Exactly. Matou Sakura is a convenient tool for Zouken. He will control Matou Sakura as he instigated Matou Shinji.
-
-In fact, she is superior as a Master. She is urged on by her worm, and she will run even wilder than Matou Shinji, just like Zouken wants."
-
-"―――――!"
-
----
-
-"...But I will be a bit irritated if everything goes his way.
-
-I will perform the surgery on Matou Sakura. I have purified her poison and anesthetized her. The healing and the extraction of the crest worm will be performed next."
-
----
-
-"Huh...? Hey, Kirei..."
-
-"It is hopeless, but I will do my best. I cannot simply allow Matou Sakura to die. And what sort of priest would I be if all I could do was rely on the Holy Grail?"
-
----
-
-"――――――――"
-
-Tohsaka's surprise is natural.
-
-His words are surprising even to me, and I've only known him for a short while.
-
-...This isn't a guess, but a conviction.
-
-Kotomine is seriously trying to save Sakura.
-
-It might just be because he's a priest, but this is too much even for that.
-
----
-
-"...What's going on? This is the first time I've seen you support someone like this."
-
-"It's not just a whim. It is simply too wasteful to let her die.
-
-Well, I suppose it is better for the two of you to have another Master eliminated."
-
----
-
-The priest's response is plain.
-
-Tohsaka glares at the priest...
-
-"―――――I'll leave her to you. I'm going to come back when the surgery should be over."
-
-...And leaves the church with those words.
-
----
-
-Tohsaka leaves, and the church regains its silence.
-
-The priest silently sees Tohsaka off, and I can't even stand up because I can't think of anything.
-
----
-
-"What are you doing? You are of no use to me here. I want no distractions. Go kill some time until the surgery ends."
-
-"――――I won't bother you. I trust you when it comes to surgeries. You helped that woman before too."
-
----
-
-"Hah. The scale of this surgery is much greater than before.
-
-Matou Sakura stopped herself by shooting herself. She is suffering from autointoxication probably because she harmed you. To put it simply, she killed her own mind to stop herself since she was controlled by Zouken."
-
----
-
-"The procedure I'm about to perform is like starting a heart that has stopped. ...Well, the crest worm has kept her body alive. If all I have to do is recover her mind, it should succeed."
-
----
-
-"But your presence here is a liability. If you come barging in when you hear her scream, I will certainly fail. In any case, you bear no responsibility for her sufferings. You and Matou Sakura are strangers now."
-
----
-
-"――――Strangers?"
-
-"I am telling you not to have any sympathy for her.
-
-There is nothing you can do. Leave, like Rin has done."
-
----
-
-"―――Why? Can't I pray for her sake here if I can't do anything?"
-
-"That is a crime. You have no right to share her pain.
-
-Do you not understand? I am telling you the surgery will fail if you are here. You are only a harmful enemy to Sakura right now."
-
----
-
-"Wh――――"
-
-I can't finish my sentence.
-
-His words are heavy, and they are pointing out the crimes I didn't know I had committed.
-
----
-
-"Matou Sakura feels some kind of guilt towards you. If you are near her, she may refuse to wake up."
-
-"...Guilt towards me...?"
-
----
-
-"Yes. It is more like repentance than guilt.
-
-―――She is a victim of sexual abuse. It is easy to imagine the kind of training Matou Zouken imposed on her.
-
-To state the fact, Matou Sakura is not a pure virgin, but a woman who knows men."
-
----
-
-"――――――"
-
-I'm not surprised.
-
-I know this feeling.
-
-It's just like when I found out Sakura was a Master.
-
-I silently accepted the truth when I saw the Command Spell on her hand.
-
----
-
-"The girl tried to hide that fact from you, but always sought salvation.
-
-I don't know how long the abuse called inheritance of magecraft lasted."
-
----
-
-"But―――what do you honestly think you can do now, when you stood by her side, completely oblivious, for all that time?
-
-That's what I mean by you not having the right to pray here. But if you still care for Matou Sakura, leave. That's all you can do for now."
-
----
-
-"――――――――"
-
-...I get up.
-
-̊ It's not that he's talked me into it.
-
-It's just that―――what he's saying is correct.
-
-I shouldn't be here if I really care for Sakura.
-
-I shouldn't be allowed to care for Sakura when I can't think at all.
-
----
-
-I turn my back to the priest and head for the door.
-
-"Oh. I do not think I even need to mention this, but..."
-
-I don't have the composure to turn around.
-
-I stop, still facing the exit.
-
----
-
-"That incident you mentioned earlier. A woman was attacked when Matou Shinji still controlled Rider. She was saved thanks to you, but she would have died under normal circumstances."
-
----
-
-"――――――――"
-
-I'm pissed.
-
-Somehow, I understand why he's bringing this up now.
-
----
-
-"That's right. I need not mention who is at fault here. When Servants attack people, the responsibility lies on the Master."
-
----
-
-"Are you saying Sakura's at fault?"
-
-"Of course not. I am only talking about the responsibility. I am not talking about good and evil. In reality, that woman is alive because of you."
-
----
-
-――――But...
-
-If I made a wrong decision back then, Rider would've killed that woman.
-
----
-
-That means――――
-
-"Yes, this is about the future.
-
-If Matou Sakura recovers, it will be the same in the end.
-
-The same thing is bound to happen again even if she regains her consciousness.
-
-Which one will you protect then?"
-
----
-
-―――We don't know when Sakura might do the same thing.
-
----
-
-"――――――――"
-
-I have nothing to say to him.
-
-I quickly make my way to the exit as if to run away from his words.
-
----
-
-"Emiya Shirou. Do you remember why you became a Master?"
-
----
-
-I grit my teeth and walk on.
-
-His words are an ultimatum.
-
----
-
-"You said you would be a superhero.
-
-Then make your decision.
-
-Will you, or will you not cast aside your own desires like Emiya Kiritsugu―――to protect your ideal and your belief."
-
----
-
-I shut the door.
-
-The door to God's house is heavy like the cross.
-
----
-
-## Scene 36
-
-
-
-"――――――――"
-
-I'm sure I'll regret it if I lie to myself and keep going.
-
----
-
-Where the responsibility lies, existence of good and evil.
-
-Losing Sakura will weigh more heavily on me than either of those things.
-
-...I don't even need to think about it.
-
-I just want to protect Sakura, that's all.
-
----
-
-"―――Yeah. It's a matter of course to protect the girl you like. Even I know that, Illya."
-
-"Right? I'm your ally because you're that kind of person."
-
----
-
-Illya smiles delightedly.
-
-"――――――――"
-
-Her innocence encourages me.
-
-...I don't know if this is the right choice or not.
-
-But I do know I won't regret it.
-
----
-
-"I'm sorry, Illya. I have to get going."
-
-"Yeah. I'll forgive you since you have that expression. Let's meet again, Shirou."
-
-"Yeah. See ya, Illya. And thank you."
-
----
-
-I leave the park.
-
-I start running to the church as if to shake off my doubts.
-
----
-
-「――――――――」
-
-...My answer's determined.
-
-I don't know how much Sakura supported me after my father died.
-
----
-
-The girl I tried to see as just another fellow student.
-
-I kept on deceiving myself because I wanted her to stay by my side.
-
-But such deception will no longer work.
-
----
-
-―――Emiya Shirou does not want to lose Matou Sakura.
-
-That's all.
-
-If I can't think things through, I'll just have to trust in the only definite feeling I have.
-
----
-
-...But within my determination...
-
-'If you are to protect just one person――'
-
----
-
-...I can't shake off Archer's premonitory words.
-
----
-
-Rain starts.
-
-The winter rain mercilessly shoots down at me as I run.
-
----
-
-## Scene 37
-
-
-
-...Dragging sounds.
-
-These sounds are familiar.
-
-They are the sounds of crawling worms.
-
----
-
-"――――――――"
-
-This place is familiar as well.
-
-The dark, damp, secret room.
-
-An underground mausoleum.
-
-This green room is the first room given to her after she was adopted by the Matou family.
-
----
-
-"――――――――"
-
-A lone figure stands in the center of the room.
-
-...It may not be human, but its appearance is that of a human.
-
-This figure called for her, commanding her to fight in Matou Shinji's place.
-
----
-
-"――――――――"
-
-She was prepared for this.
-
-At the very least, she accepted the possibility up until two days ago.
-
-But now her determination is gone.
-
-Once she discovered that Emiya Shirou is a Master, her will to fight left her.
-
----
-
-She visited the Emiya household to keep watch over him.
-
-But Emiya Shirou did not have the aptitude to become a Master, and he had no knowledge of the Holy Grail War.
-
-That fact became clear at once. Thus, there was never a reason to keep watch over him.
-
-She stayed as his underclassman, using the role of keeping watch over him as an excuse.
-
----
-
-She had an optimistic view that there would be no need to fight him.
-
-Although she knew her true identity may be revealed at some point, she never dreamed that they would end up fighting one another.
-
-So―――how did it come to this?
-
----
-
-"...Grandfather. Do all Masters need to be killed?"
-
----
-
-She knows what the old man's reply is going to be.
-
-She knows, but she can only ask.
-
-But...
-
-"Well. You can keep one or two as playthings, if you like. All I want is their Servants. After stealing them, you may turn the Masters into your toys or puppets."
-
-The old man's answer is not what she expected.
-
----
-
-"――――――――What...?"
-
----
-
-"Do you not understand? I said there is no need to kill all the Masters. We will eliminate those that are dangerous to keep alive, but those who will not be obstacles can be spared.
-
-It is the wish of my cute granddaughter, so I shall be a bit flexible, even if this is our greatest desire."
-
----
-
-Hearing his words, she lowers her guard a bit.
-
-...The old man becomes strangely kind sometimes.
-
-When teaching her the family's magecraft, he is an inhuman monster, as cruel as a beast.
-
-But sometimes, when they are talking, he becomes just a good-natured old man.
-
----
-
-"......"
-
----
-
-But she cannot be deceived.
-
-She does not know if this is a whim or a calculated act of kindness. Moreover, she knows she will end up fighting him if she agrees.
-
-Even if she does not have to kill him, just having to fight him is bad enough.
-
----
-
-"Is that still not enough? ...My, you are a troubling one. That cowardice will prevent you from ever obtaining what you desire. Look, this is a good opportunity. If you want something, take it by force.
-
-Sakura. How long do you plan to remain a mere watcher? Reach out and claim your desire. You have the power and the right."
-
----
-
-"......"
-
----
-
-She does not answer.
-
-First of all, there is nothing she wants.
-
-She admires him, but she would never expect him to accept her.
-
----
-
-She is impure. She is not suited for him.
-
-So someone more appropriate should stand next to him.
-
-All she wanted was to be by his side until that time came.
-
-It'll all be ruined if she wishes for anything more.
-
-...Not only her...
-
-He, too, will come to a bad end.
-
----
-
-"...Grandfather. I cannot fight. I will give Rider to Nii-san."
-
----
-
-She speaks with a trembling voice, prepared for re-education.
-
-She knows what awaits her for disobeying him.
-
-The fear of being thrown to the worms, of losing one's sensation, is something one can never get used to.
-
-The longest she was able to keep her sanity was two hours.
-
-She almost goes crazy, thinking that she will have to endure many times that, no, at worst until the Holy Grail War ends.
-
----
-
-"......"
-
----
-
-Her body trembles.
-
-Fear of punishment makes her want to scream.
-
-...But it is not the pain that she fears.
-
-All she fears is...
-
-...That when the pain becomes unbearable, she will do as he commands.
-
----
-
-".........Hm. It cannot be helped, I suppose. I cannot force you and lose my valuable successor. I shall remain an observer as well in this war."
-
----
-
-"――――――――"
-
----
-
-She gasps.
-
-She does not know how serious he is, but he has accepted her excuse.
-
-The trembling goes away, replaced by a warm sense of relief.
-
----
-
-―――But into that defenseless mind...
-
-"But it is a bit disappointing. Looking at all the Masters in this war, the daughter of Tohsaka is looking pretty good. The unlikely might happen if luck favors her."
-
-...Enters the old man's disappointed voice.
-
----
-
-"――――Nee-san is?"
-
----
-
-Evil enters at that time.
-
-She knows it intuitively.
-
-Nee-san will certainly win. She is that kind of a person. She obtains everything she wants and passes through as if it's natural.
-
-...Nee-san will take everything she wants without even a glance towards her, the one standing in place.
-
-Then――――Nee-san will win.
-
----
-
-"――――――――"
-
----
-
-Her body turns cold as ice.
-
-...She doesn't care about that.
-
-She's used to it.
-
-She's used to it.
-
-She's used to it.
-
-―――She's used to such treatment.
-
----
-
-Nee-san will take it all.
-
-Nee-san is going to eliminate everything, the pain she went through, the bright future ahead of her, and the only person she can rely on――――
-
----
-
-"――――――――"
-
----
-
-...The ground wavers beneath her.
-
-The words make her dizzy and nauseous.
-
-...Her chest is hurting.
-
-Something unpleasant assails her.
-
-...As if a needle is in her chest.
-
----
-
-...It has started raining.
-
-The chilly winter rain mercilessly beats against the gutters.
-
----
-
-"―――――――"
-
-She slowly opens her eyes.
-
-...It seems she was dreaming about what happened a few days ago.
-
-She is sleeping on an operating table in a room made of stone.
-
-In front of her is a black priest she has never seen before.
-
----
-
-"You are finally awake. Do I need to explain to you what is going on, Matou Sakura?"
-
-".........No. It's my body. I know all about it."
-
-She answers simply.
-
-She does not focus on him, but on the sound of the rain against the walls.
-
----
-
-"All right. Then get changed quickly. Tohsaka Rin and Emiya Shirou are waiting in the next room. We have to explain your situation to them. You cannot run after that if you are naked, right?"
-
-"......Are you going to let me run away?"
-
-"That is your decision. I merely helped you. It is not for me to plan your actions for you.
-
-Well, it was a waste for me to save you if you die. I do want you to remain until the very end, though."
-
----
-
-"...Why is that?"
-
-"It is more fun that way. Tohsaka Rin and Emiya Shirou will suffer more if you live. It is delightful the more sufferers there are."
-
-The priest turns his back after he answers.
-
-The priest will go to the chapel now.
-
-He does not look back at her, hugging her knees on the operating table.
-
----
-
-"Well. Will they kill you, or will they let you live? You may wait here if you are interested in their decision. Though it does not look it, this building has a flimsy structure. For some reason, you can hear all the conversation going on in the chapel."
-
-He smiles and leaves.
-
----
-
-"......Senpai. What should I do?"
-
-She embraces her knees.
-
-The quiet weeping is drowned out by the sound of rain.
-
----
-
-## Scene 38
-
-
-
-Hi, is everyone doing well?
-
-This is the Tiger Dojo, the place to save those who fought hard in vain and died!
-
----
-
-...Wait, the ground's shaking...
-
----
-
-We have taken over Tiger Dojo!
-
-Disarm yourself, Taiga!
-
----
-
-That voice, former pupil number one...!?
-
-Hey, what's going――――whaaaaaaaaaaaaat!?
-
----
-
-Tiger!
-
-Look, Taiga! This is our secret weapon!
-
----
-
-Ready, target the Tiger Dojo!
-
-Gunner, fire!
-
----
-
-CHEEEEEEEEEEEST!!!!!
-
----
-
-......Huh?
-
----
-
-Kyaaaaaaaaaa!???
-
----
-
-Tiger! The Tiger I got from the former ** army has been destroyed in one blow!?
-
----
-
-Yes! I'm surprised as well!
-
-By the way, Private First Class Illya! I was really surprised that you came with a tank!
-
----
-
-Oh... Teehee. I overdid it trying to surprise you. Am I full of fun?
-
----
-
-I'll kill you!
-
----
-
-Osu, thank you (cry).
-
----
-
-It's fine if you understand.
-
----
-
-I'd usually pull this joke a bit more, but it's getting tiresome, so I'll let you become my pupil again!
-
----
-
-Eh, really, master?
-
----
-
-Yup, really. There are twelve more Tiger Dojos.
-
-I can't handle them all by myself.
-
----
-
-Actually, I don't know what you'll come attacking with next if I let you loose.
-
----
-
-All right! Regular role get!
-
-But twelve more? Isn't that a lot? Does Shirou get killed by ▊▊▊ that many times?
-
----
-
-Yeah, he will.
-
----
-
-The chance of Shirou's death is highest in this route.
-
-And it's in bad taste too. In contrast to the splatter-like deaths you cause, this route is more horrifying.
-
----
-
-Wow. The one's character is displayed.
-
----
-
-Yeah. So you be careful in your choices, okay, Shirou?
-
-This dead end is, um... it's because you tried to fight by yourself even though Saber-chan's gone.
-
----
-
-That's no good, Shirou. Your opponents are all monsters, so you have to team up with a monster you can use as a shield.
-
----
-
-I know you don't want to, but go back to the choice and ask Rin.
-
----
-
-And be careful with the choice after that. I don't know about a man doing everything he is told to do.
-
----
-
-That's exactly right, master! Be able to say no!
-
----
-
-Shirou with great determination!
-
----
-
-That's right.
-
----
-
-Then let's meet again in the next Tiger Dojo!
-
-The 9th day has four Tiger Dojos, so be careful in your choices!
-
----
-
-See ya!
-
----
-
-## Scene 39
-
-
-
-...Um, it's the Tiger Dojo, but... isn't it a bit strange this time?
-
----
-
-Osu, that's not true.
-
-It's the normal, peaceful and fun Tiger Dojo!
-
----
-
-Uh, I feel murderous intent again... No, this isn't just my imagination. I think something bad is glaring at me.
-
----
-
-Well, this dead end is your usual abrupt death!
-
----
-
-Once you see Rider's eyes, you can't get away from her mystic eyes. It's smarter to go into defense rather than trying to attack.
-
----
-
-Wait! Hold on! Something is weird, there's someone behind me! But I'm too scared to turn around and look!
-
----
-
-Hmm, but Shirou sure does die in bizarre ways.
-
-It's rare even in our world to die of petrification.
-
----
-
-It's near me! The rare death is right near me!
-
-Why do I deserve this!?
-
----
-
-Why? It's because Sakura's the type to bear grudges.
-
----
-
-Don't you remember saying it before, Taiga? You said Rider's Master is a twisted snake woman.
-
----
-
-Whoa, maybe I did say something like that...
-
----
-
-Whoa!
-
-Heeeelp meeee, soooomeone!
-
----
-
-Well, the Tiger Dojo is over!
-
----
-
-You reap what you sow.
-
-Be careful about talking behind people's backs!
-
----
-
-## Scene 40
-
-
-
-...Hmm, I can't say much this time.
-
-This is one result.
-
----
-
-........................................................................Idiot.
-
----
-
-Hey there, don't complain!
-
-This Tiger Dojo is cancelled! We'll wait for you in another Tiger Dojo!
-
----
-
-## Scene 41
-
-
-
-Heartless collection! The evil bill collector!
-
----
-
-Osu! Heading straight for the underground kingdom after carelessly signing a contract!
-
----
-
-Yeah. Man, these contracts sure are scary.
-
-They pull your leg when it counts, even when you don't mean it.
-
----
-
-Don't get tricked by such sales, okay, everyone?
-
-The scariest things are always right next to you where you don't expect them.
-
----
-
-Right, Illya-chan!?
-
----
-
-...? Stop it, that's embarrassing.
-
-I don't know why, but I feel bashful if you stare at me so much.
-
----
-
-See, isn't she scary?
-
-So, the cause of this death is your contract with Tohsaka-san.
-
----
-
-She makes unreasonable demands of you, but there is one thing you should not say "yes" to.
-
-Try starting over from the beginning of day 9.
-
----
-
-Osu! And I also hear that her affection point goes up if you go against one of her questions!
-
----
-
-Oh, as expected from the heroine (candidate) returning from the main storyline!
-
-You have awesome information.
-
----
-
-Ugh... I thought we promised not to say that...
-
----
-
-Well, this is the last Tiger Dojo in day 9.
-
----
-
-What lies ahead is a hell filled with dead ends!
-
-Face the battles with care!
-
----
-
-See ya!
+…I have a violent dream.  
+I have an ominous dream in a sea of hot coal tar.

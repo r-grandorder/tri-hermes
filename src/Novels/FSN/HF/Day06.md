@@ -2,7 +2,7 @@
 
 
 
-## Scene 00
+## Scene 00 Nurse Sakura
 
 
 
@@ -648,7 +648,7 @@ A smile like this suits Sakura.
 
 ---
 
-## Scene 01
+## Scene 01 A simple question
 
 
 
@@ -1004,83 +1004,7 @@ I――――
 
 ---
 
-## Scene 02
-
-
-
-"I'm home."
-
-"Where were you, Shirou!?"
-
-"Where did you go, Senpai!?"
-
-"W-Whoa――――!?"
-
-I jump back, bumping against the front door.
-
----
-
-"No, not 'whoa'! I have told you many times not to go outside by yourself! Worse still, you snuck out while you were sick...!"
-
----
-
-"Saber-san's right!
-
-You wrote that you'd be back at two! Do you know what time it is!? Where were you for the extra two hours!?"
-
----
-
-"Uh――――no, hold on. I understand. I understand why you two are mad, so..."
-
-If you guys will just calm down, I should be able to come up with an excuse...
-
----
-
-"No, you do not understand...! I agreed with your decision to go to school yesterday, but I cannot forgive you this time. It seems you are healthy enough. I shall train you until dinner!"
-
-Saber pushes Sakura aside and steps closer.
-
----
-
-"Yes, the dojo is cleaned, so please have some matches with Saber-san! I heard how good she is from Fujimura-Sensei, so I'm sure you'll enjoy it!"
-
-Sakura pushes Saber aside and roars at me.
-
----
-
-"Uh――――ugh."
-
-...I can't do this. I'll only add fuel to the fire if I say the wrong thing. Saber might even go as far as breaking our contract.
-
-"Where is your reply, Shirou!?"
-
-"Where's your reply, Senpai!?"
-
-"――――――Uh... I'm sorry."
-
-Rattle, rattle.
-
-I hate my front door for blocking my retreat.
-
----
-
-"Then let us go at once. Please prepare the first-aid kit, Sakura."
-
-"Please do. Punish him all you want."
-
-The two retreat together in unison.
-
----
-
-".........Man. I wonder if I'll be able to eat dinner tonight."
-
-But I don't know what they'll do if I don't go with them.
-
-...I guess I have to atone for my actions in the dojo...
-
----
-
-## Scene 03
+## Scene 02 Don't lie
 
 
 
@@ -1118,7 +1042,7 @@ Her retreating footsteps sound colder than usual.
 
 ---
 
-## Scene 04
+## Scene 03 Evade the question.
 
 
 
@@ -1192,7 +1116,7 @@ Sakura leaves for the living room with a warm smile.
 
 ---
 
-## Scene 05
+## Scene 04 After lunch Choice
 
 
 
@@ -1294,7 +1218,7 @@ It's a good time to take a break, so――――
 
 ---
 
-## Scene 07
+## Scene 05 Saber is merciless!
 
 
 
@@ -1518,7 +1442,7 @@ It won't hurt to train until dinner.
 
 ---
 
-## Scene 08
+## Scene 06 A peaceful time
 
 
 
@@ -1564,7 +1488,580 @@ It won't hurt to train until dinner.
 
 ---
 
-## Scene 09
+## Scene 07 The daughter of winter-Illya
+
+
+
+...I don't feel sick, so I guess I'll go outside.
+
+I'm sure we haven't bought stuff for dinner, so I'll go to the shopping district.
+
+---
+
+"Saber and Sakura are..."
+
+They're doing the dishes together.
+
+I don't want to interrupt them, so I'll leave a note and sneak out――――
+
+---
+
+"――――Phew."
+
+I managed to sneak out.
+
+I left them a note saying "Going to buy stuff for dinner. Be back in an hour," so there's no problem.
+
+I bet they won't get mad at me if I buy them some snacks.
+
+---
+
+"Phew..."
+
+I leave the supermarket with bags full of food.
+
+I didn't find any good deals, but I still bought a lot.
+
+Sakura's going to be staying over for a while, so we need the extra groceries.
+
+---
+
+"We had udon for lunch, so maybe I'll make some meat for dinner."
+
+I stop my feet.
+
+"...?"
+
+Someone's tugging at my shirt from behind.
+
+---
+
+"What's going on...?"
+
+I turn around in wonder.
+
+There...
+
+...Stands a young girl with silver hair.
+
+---
+
+"W-What――――!?"
+
+I quickly jump back.
+
+I ready myself while the girl just stands there and smiles.
+
+---
+
+"...?"
+
+I don't feel any hostility from the girl.
+
+"I'm glad you're alive, Onii-chan."
+
+She looks at me with a big smile.
+
+---
+
+"Wha――――"
+
+...I'm sure of it. This girl is Berserker's Master.
+
+She's the master of the monster who wounded me.
+
+The girl of the family of magi who started this war, the family which my father betrayed.
+
+Why is she here in the shopping district in broad daylight?
+
+---
+
+...It must be because the priest's story was so vivid. This girl doesn't feel like a stranger to me.
+
+That's why...
+
+"――――Illya...?"
+
+"――――Huh?"
+
+...I blurt out her name without knowing what it means.
+
+---
+
+"Oh―――sorry, that's wrong...!
+
+Illya―――yeah, it's Illyasviel...!
+
+I-I'm sorry for getting it wrong...!"
+
+---
+
+I quickly apologize.
+
+It doesn't matter if she's Berserker's Master or that she's the daughter of the Einzbern family.
+
+It's just that...
+
+I can't ignore that sad look on her face.
+
+---
+
+"......"
+
+The girl is glaring at me, maybe because I shortened her name.
+
+"Oh―――I didn't mean to make you mad. I just blurted it out."
+
+---
+
+"......Tell me your name."
+
+"What?"
+
+"Tell me your name, Onii-chan. It's unfair that I don't know your name."
+
+"――――――――"
+
+Oh, she's right.
+
+Illyasviel told me her name, but I haven't told her mine yet.
+
+---
+
+"I'm Shirou. Emiya Shirou."
+
+"Emiyashiro? That's a strange name, Onii-chan."
+
+"No. Emiya is my last name, and Shirou is my first name. If it's hard to say it, just call me Shirou."
+
+I correct her pronunciation.
+
+---
+
+"――――――――"
+
+I point at the girl right at her nose, and she stands there in surprise.
+
+---
+
+"――――"
+
+It's too late to take it back, even if I wanted to.
+
+The girl looks like she's about to cry, and...
+
+---
+
+"...Shirou, Shirou, huh? Yeah, I like the name.
+
+It's simple, but it sounds pretty. It suits you, Shirou.
+
+I'll forgive you for what you just did!"
+
+...She embraces my arm.
+
+---
+
+"What――――!? H-H-Hold on, Illyasviel! What are you doing...!?"
+
+"No, you can call me Illya, Shirou! I'm calling you Shirou, so this is fair!"
+
+---
+
+"Wha―――well, that's easier to say, but hold on!!!"
+
+I try to shake her off, but Illya just squeals with delight.
+
+---
+
+"...!"
+
+This is bad. My neighbors might spread a bad rumor about me like this.
+
+---
+
+"Damn, what do you want...!? Do you want to fight me right now...!?"
+
+I pull her off by force.
+
+"――――――――"
+
+...Oh.
+
+Illya looks unhappy.
+
+---
+
+"W-What? Don't think making faces will change anything! I don't know what your intention is, but I'm a Master. You can't defeat me that easily――――"
+
+I glare at her, groceries in hand.
+
+...But she only watches me in wonder.
+
+---
+
+"......Um, Illya?"
+
+"Yeah!? What, Shirou!?"
+
+"――――――――Ugh."
+
+---
+
+She's different from before.
+
+...Well, she was laughing then too, but it's not the same. Could it really be――――?
+
+"...Illya. You didn't come here to fight...?"
+
+I ask timidly.
+
+---
+
+"What? Do you want to be killed?"
+
+"――――!"
+
+Her glare sends a chill down my spine.
+
+No matter how young this girl may be, she is the strongest Master.
+
+She laughs innocently, but she can also become the ruthless Master.
+
+---
+
+"...Hmm. I don't get it, but I don't mind if you say so. I don't mind going ahead with my plans. Do you want to die along with Saber?"
+
+"...Are you kidding me? Of course not! I don't want to die, and I don't want to fight you here."
+
+---
+
+"Right? Masters can't fight during daytime. You don't have Saber with you, and I don't have Berserker with me."
+
+---
+
+"...You're right. Then why did you come here? Did we just meet up by chance?"
+
+"It's not chance. I snuck out under Sella's nose especially for you. You better be grateful."
+
+Illya is inflated with pride.
+
+---
+
+"――――"
+
+I feel dizzy.
+
+Every time I think she turns into a cruel Master, she returns to being the innocent girl.
+
+I can't tell which is the real Illya.
+
+---
+
+"...All right. So you came to see me.
+
+But you have no intention of fighting me. Am I correct?"
+
+"Yup. I came to talk to you. I've waited all this time, so I can, right?"
+
+"――――――――"
+
+I don't know what she means by "all this time," but it seems Illya really did come just to talk to me.
+
+---
+
+"Or do you not want to? ...I'll go home if you don't. I really don't want to go home, but you'll hate me if I make you do something you don't want."
+
+Illya looks straight into my eyes.
+
+---
+
+"――――――――!"
+
+...From a Master's point of view, it's dangerous to associate with Illya. If Saber were here, she'd make her objections clear.
+
+---
+
+"――――――――"
+
+...But I can't just walk away from her when she's making a face like that.
+
+I know it's reckless, thoughtless, and rash, but...
+
+---
+
+"I don't mind talking with you. Actually, I wanted to."
+
+---
+
+"All right! Then let's go over that way! I found a small park over there earlier――――!"
+
+Illya starts running.
+
+---
+
+"Come on, come on! I'll leave you behind if you don't hurry!"
+
+She twirls about as she runs.
+
+---
+
+"――――Well, I guess it can't be helped."
+
+I accept this event and follow after Illya.
+
+She called me Shirou.
+
+Then I should treat her like a normal girl, not like a Master.
+
+---
+
+The park is empty.
+
+Nobody is playing in the sand pit or on the swings.
+
+It feels desolate, but I sit down on a bench with Illya.
+
+---
+
+...I think this must look weird to other people.
+
+Illya's a foreigner, so we don't look like siblings, and our ages are too far apart to be friends.
+
+---
+
+"...So. What do you want to talk about, Illya? You came to me, so do you have something you want to ask me?"
+
+---
+
+"Why? I have nothing I want to ask you."
+
+"――――――――"
+
+Well.
+
+How do I respond to that?
+
+---
+
+"...Illya. You're the one who wanted to talk.
+
+So why do you say you have no business with me? You wouldn't come if that were true, right?"
+
+"O-Oh, really? We can't talk if we don't have business?"
+
+---
+
+"Uhh... that's not what I meant. Sorry, I put it in the wrong way. We can talk even if we have no business. I guess it's better to talk without purpose.
+
+But... honestly, I don't know you really well, so I don't know what I should talk about. I don't know what you like, or anything like that. You don't want me asking you about something you'd rather not talk about, right?"
+
+---
+
+"Y-You're right... but what should I ask? Will you promise me you won't get mad even if I ask you anything?"
+
+"I'll try. I'm your Onii-chan, so I'll try to act mature."
+
+"I see. Then Shirou, do you like me?"
+
+---
+
+"WHA――――!?"
+
+W-W-W-W-W-What the hell is she asking!?
+
+---
+
+"Oh, you're a liar! You said you won't get mad, but you're mad!"
+
+"Hey, anyone would be shocked by that question! Y-You shouldn't be asking that question when you've already attacked me!"
+
+---
+
+"Hey, that was different! You jumped in the way, even though you were weak! It's not my fault!"
+
+---
+
+"It is your fault! You were ready to kill from the beginning! So why are you talking about me liking you and whatnot!?"
+
+Illya quivers up and shuts up.
+
+---
+
+"...Oh."
+
+...Crap.
+
+Look what I did, right after I said I'd forget about us being Masters.
+
+---
+
+"...Um, Illya?"
+
+"......I asked because it's important to me. You're an idiot, Shirou. You still want to talk big, even though you would've died if it weren't for me."
+
+Illya looks down, her shoulders shaking.
+
+---
+
+"......Man."
+
+I guess it can't be helped.
+
+I'm the one who started this whole Master conversation, I'm the older one here, and Illya is a girl.
+
+---
+
+"――――Ahem. Um, Illya..."
+
+I prepare myself for what I have to say.
+
+---
+
+"―――I don't mind it anymore. My wound healed up, and you let me go.
+
+...But if it still bothers you, then I won't bring it up again. Is that all right?"
+
+---
+
+"Oh... yeah. Um, so you're not mad, Shirou...?"
+
+"I don't know why, but I'm not mad.
+
+I want to talk to you more now."
+
+---
+
+Illya was about to cry, but now she smiles.
+
+"――――――――"
+
+Seeing her smile makes me happy as well.
+
+She doesn't feel dangerous to me.
+
+Then I should stop thinking like a Master.
+
+I guess I'll have to talk with her, just like she wants――――
+
+---
+
+My conversation with Illya lasts for an hour.
+
+Illya listens to my ordinary stories and meaningless talks.
+
+---
+
+...Since when did it start feeling painful?
+
+Illya is an innocent girl.
+
+The fact that she's a Master and that she has no doubt in that fact...
+
+I think it's sad that she goes into battle with no fear.
+
+---
+
+"――――――――"
+
+A family of magi called Einzbern.
+
+This young girl that is sent out as the greatest Master as a result of their thousand-year-old history.
+
+---
+
+If that is Illya's goal, then...
+
+---
+
+"――――Illya. Can I ask you something?"
+
+"What?"
+
+"Do you recognize the name Emiya Kiritsugu?"
+
+...I have to ask her this.
+
+---
+
+"――――――――"
+
+The air freezes.
+
+It is an emotionless silence.
+
+---
+
+"No. I don't know of such a guy."
+
+...Her silver hair flutters.
+
+Illya gets up from the bench and twirls about like a fairy.
+
+---
+
+"It's getting late. Berserker wakes up at night, so I have to get going now."
+
+"――――――――"
+
+Illya waves goodbye.
+
+---
+
+"Yeah, I should go home too."
+
+I get up.
+
+This is all the rest I'm getting.
+
+We'll have to fight as enemies again once the sun sets.
+
+---
+
+But...
+
+"Can I talk with you again, Illya?"
+
+...I naturally ask this question.
+
+---
+
+"―――U-Um, I don't know. Do you want to see me again, Shirou?"
+
+"Of course. I wouldn't ask you if I didn't want to."
+
+"......! Okay, then I'll come again tomorrow if I feel like it. Don't expect too much and keep waiting, okay?"
+
+She runs out of the park.
+
+---
+
+...But.
+
+She suddenly stops and...
+
+---
+
+"I was lying. I do know of him."
+
+---
+
+"Illya――――?"
+
+"...I was given birth to this world to win the Holy Grail War. My goal is to kill you and Kiritsugu."
+
+---
+
+She sprints off.
+
+Illya leaves without turning around.
+
+I watch her go until I can't see her anymore.
+
+---
+
+
+## Scene 08 Winter castle-Illya
 
 
 
@@ -2198,1195 +2695,87 @@ The white-haired girl looks like a fairy.
 
 ---
 
-## Scene 10
+## Scene 09 A big pinch
 
 
 
-...I don't feel sick, so I guess I'll go outside.
+"I'm home."
 
-I'm sure we haven't bought stuff for dinner, so I'll go to the shopping district.
+"Where were you, Shirou!?"
 
----
-
-"Saber and Sakura are..."
-
-They're doing the dishes together.
-
-I don't want to interrupt them, so I'll leave a note and sneak out――――
-
----
-
-"――――Phew."
-
-I managed to sneak out.
-
-I left them a note saying "Going to buy stuff for dinner. Be back in an hour," so there's no problem.
-
-I bet they won't get mad at me if I buy them some snacks.
-
----
-
-"Phew..."
-
-I leave the supermarket with bags full of food.
-
-I didn't find any good deals, but I still bought a lot.
-
-Sakura's going to be staying over for a while, so we need the extra groceries.
-
----
-
-"We had udon for lunch, so maybe I'll make some meat for dinner."
-
-I stop my feet.
-
-"...?"
-
-Someone's tugging at my shirt from behind.
-
----
-
-"What's going on...?"
-
-I turn around in wonder.
-
-There...
-
-...Stands a young girl with silver hair.
-
----
-
-"W-What――――!?"
-
-I quickly jump back.
-
-I ready myself while the girl just stands there and smiles.
-
----
-
-"...?"
-
-I don't feel any hostility from the girl.
-
-"I'm glad you're alive, Onii-chan."
-
-She looks at me with a big smile.
-
----
-
-"Wha――――"
-
-...I'm sure of it. This girl is Berserker's Master.
-
-She's the master of the monster who wounded me.
-
-The girl of the family of magi who started this war, the family which my father betrayed.
-
-Why is she here in the shopping district in broad daylight?
-
----
-
-...It must be because the priest's story was so vivid. This girl doesn't feel like a stranger to me.
-
-That's why...
-
-"――――Illya...?"
-
-"――――Huh?"
-
-...I blurt out her name without knowing what it means.
-
----
-
-"Oh―――sorry, that's wrong...!
-
-Illya―――yeah, it's Illyasviel...!
-
-I-I'm sorry for getting it wrong...!"
-
----
-
-I quickly apologize.
-
-It doesn't matter if she's Berserker's Master or that she's the daughter of the Einzbern family.
-
-It's just that...
-
-I can't ignore that sad look on her face.
-
----
-
-"......"
-
-The girl is glaring at me, maybe because I shortened her name.
-
-"Oh―――I didn't mean to make you mad. I just blurted it out."
-
----
-
-"......Tell me your name."
-
-"What?"
-
-"Tell me your name, Onii-chan. It's unfair that I don't know your name."
-
-"――――――――"
-
-Oh, she's right.
-
-Illyasviel told me her name, but I haven't told her mine yet.
-
----
-
-"I'm Shirou. Emiya Shirou."
-
-"Emiyashiro? That's a strange name, Onii-chan."
-
-"No. Emiya is my last name, and Shirou is my first name. If it's hard to say it, just call me Shirou."
-
-I correct her pronunciation.
-
----
-
-"――――――――"
-
-I point at the girl right at her nose, and she stands there in surprise.
-
----
-
-"――――"
-
-It's too late to take it back, even if I wanted to.
-
-The girl looks like she's about to cry, and...
-
----
-
-"...Shirou, Shirou, huh? Yeah, I like the name.
-
-It's simple, but it sounds pretty. It suits you, Shirou.
-
-I'll forgive you for what you just did!"
-
-...She embraces my arm.
-
----
-
-"What――――!? H-H-Hold on, Illyasviel! What are you doing...!?"
-
-"No, you can call me Illya, Shirou! I'm calling you Shirou, so this is fair!"
-
----
-
-"Wha―――well, that's easier to say, but hold on!!!"
-
-I try to shake her off, but Illya just squeals with delight.
-
----
-
-"...!"
-
-This is bad. My neighbors might spread a bad rumor about me like this.
-
----
-
-"Damn, what do you want...!? Do you want to fight me right now...!?"
-
-I pull her off by force.
-
-"――――――――"
-
-...Oh.
-
-Illya looks unhappy.
-
----
-
-"W-What? Don't think making faces will change anything! I don't know what your intention is, but I'm a Master. You can't defeat me that easily――――"
-
-I glare at her, groceries in hand.
-
-...But she only watches me in wonder.
-
----
-
-"......Um, Illya?"
-
-"Yeah!? What, Shirou!?"
-
-"――――――――Ugh."
-
----
-
-She's different from before.
-
-...Well, she was laughing then too, but it's not the same. Could it really be――――?
-
-"...Illya. You didn't come here to fight...?"
-
-I ask timidly.
-
----
-
-"What? Do you want to be killed?"
-
-"――――!"
-
-Her glare sends a chill down my spine.
-
-No matter how young this girl may be, she is the strongest Master.
-
-She laughs innocently, but she can also become the ruthless Master.
-
----
-
-"...Hmm. I don't get it, but I don't mind if you say so. I don't mind going ahead with my plans. Do you want to die along with Saber?"
-
-"...Are you kidding me? Of course not! I don't want to die, and I don't want to fight you here."
-
----
-
-"Right? Masters can't fight during daytime. You don't have Saber with you, and I don't have Berserker with me."
-
----
-
-"...You're right. Then why did you come here? Did we just meet up by chance?"
-
-"It's not chance. I snuck out under Sella's nose especially for you. You better be grateful."
-
-Illya is inflated with pride.
-
----
-
-"――――"
-
-I feel dizzy.
-
-Every time I think she turns into a cruel Master, she returns to being the innocent girl.
-
-I can't tell which is the real Illya.
-
----
-
-"...All right. So you came to see me.
-
-But you have no intention of fighting me. Am I correct?"
-
-"Yup. I came to talk to you. I've waited all this time, so I can, right?"
-
-"――――――――"
-
-I don't know what she means by "all this time," but it seems Illya really did come just to talk to me.
-
----
-
-"Or do you not want to? ...I'll go home if you don't. I really don't want to go home, but you'll hate me if I make you do something you don't want."
-
-Illya looks straight into my eyes.
-
----
-
-"――――――――!"
-
-...From a Master's point of view, it's dangerous to associate with Illya. If Saber were here, she'd make her objections clear.
-
----
-
-"――――――――"
-
-...But I can't just walk away from her when she's making a face like that.
-
-I know it's reckless, thoughtless, and rash, but...
-
----
-
-"I don't mind talking with you. Actually, I wanted to."
-
----
-
-"All right! Then let's go over that way! I found a small park over there earlier――――!"
-
-Illya starts running.
-
----
-
-"Come on, come on! I'll leave you behind if you don't hurry!"
-
-She twirls about as she runs.
-
----
-
-"――――Well, I guess it can't be helped."
-
-I accept this event and follow after Illya.
-
-She called me Shirou.
-
-Then I should treat her like a normal girl, not like a Master.
-
----
-
-The park is empty.
-
-Nobody is playing in the sand pit or on the swings.
-
-It feels desolate, but I sit down on a bench with Illya.
-
----
-
-...I think this must look weird to other people.
-
-Illya's a foreigner, so we don't look like siblings, and our ages are too far apart to be friends.
-
----
-
-"...So. What do you want to talk about, Illya? You came to me, so do you have something you want to ask me?"
-
----
-
-"Why? I have nothing I want to ask you."
-
-"――――――――"
-
-Well.
-
-How do I respond to that?
-
----
-
-"...Illya. You're the one who wanted to talk.
-
-So why do you say you have no business with me? You wouldn't come if that were true, right?"
-
-"O-Oh, really? We can't talk if we don't have business?"
-
----
-
-"Uhh... that's not what I meant. Sorry, I put it in the wrong way. We can talk even if we have no business. I guess it's better to talk without purpose.
-
-But... honestly, I don't know you really well, so I don't know what I should talk about. I don't know what you like, or anything like that. You don't want me asking you about something you'd rather not talk about, right?"
-
----
-
-"Y-You're right... but what should I ask? Will you promise me you won't get mad even if I ask you anything?"
-
-"I'll try. I'm your Onii-chan, so I'll try to act mature."
-
-"I see. Then Shirou, do you like me?"
-
----
-
-"WHA――――!?"
-
-W-W-W-W-W-What the hell is she asking!?
-
----
-
-"Oh, you're a liar! You said you won't get mad, but you're mad!"
-
-"Hey, anyone would be shocked by that question! Y-You shouldn't be asking that question when you've already attacked me!"
-
----
-
-"Hey, that was different! You jumped in the way, even though you were weak! It's not my fault!"
-
----
-
-"It is your fault! You were ready to kill from the beginning! So why are you talking about me liking you and whatnot!?"
-
-Illya quivers up and shuts up.
-
----
-
-"...Oh."
-
-...Crap.
-
-Look what I did, right after I said I'd forget about us being Masters.
-
----
-
-"...Um, Illya?"
-
-"......I asked because it's important to me. You're an idiot, Shirou. You still want to talk big, even though you would've died if it weren't for me."
-
-Illya looks down, her shoulders shaking.
-
----
-
-"......Man."
-
-I guess it can't be helped.
-
-I'm the one who started this whole Master conversation, I'm the older one here, and Illya is a girl.
-
----
-
-"――――Ahem. Um, Illya..."
-
-I prepare myself for what I have to say.
-
----
-
-"―――I don't mind it anymore. My wound healed up, and you let me go.
-
-...But if it still bothers you, then I won't bring it up again. Is that all right?"
-
----
-
-"Oh... yeah. Um, so you're not mad, Shirou...?"
-
-"I don't know why, but I'm not mad.
-
-I want to talk to you more now."
-
----
-
-Illya was about to cry, but now she smiles.
-
-"――――――――"
-
-Seeing her smile makes me happy as well.
-
-She doesn't feel dangerous to me.
-
-Then I should stop thinking like a Master.
-
-I guess I'll have to talk with her, just like she wants――――
-
----
-
-My conversation with Illya lasts for an hour.
-
-Illya listens to my ordinary stories and meaningless talks.
-
----
-
-...Since when did it start feeling painful?
-
-Illya is an innocent girl.
-
-The fact that she's a Master and that she has no doubt in that fact...
-
-I think it's sad that she goes into battle with no fear.
-
----
-
-"――――――――"
-
-A family of magi called Einzbern.
-
-This young girl that is sent out as the greatest Master as a result of their thousand-year-old history.
-
----
-
-If that is Illya's goal, then...
-
----
-
-"――――Illya. Can I ask you something?"
-
-"What?"
-
-"Do you recognize the name Emiya Kiritsugu?"
-
-...I have to ask her this.
-
----
-
-"――――――――"
-
-The air freezes.
-
-It is an emotionless silence.
-
----
-
-"No. I don't know of such a guy."
-
-...Her silver hair flutters.
-
-Illya gets up from the bench and twirls about like a fairy.
-
----
-
-"It's getting late. Berserker wakes up at night, so I have to get going now."
-
-"――――――――"
-
-Illya waves goodbye.
-
----
-
-"Yeah, I should go home too."
-
-I get up.
-
-This is all the rest I'm getting.
-
-We'll have to fight as enemies again once the sun sets.
-
----
-
-But...
-
-"Can I talk with you again, Illya?"
-
-...I naturally ask this question.
-
----
-
-"―――U-Um, I don't know. Do you want to see me again, Shirou?"
-
-"Of course. I wouldn't ask you if I didn't want to."
-
-"......! Okay, then I'll come again tomorrow if I feel like it. Don't expect too much and keep waiting, okay?"
-
-She runs out of the park.
-
----
-
-...But.
-
-She suddenly stops and...
-
----
-
-"I was lying. I do know of him."
-
----
-
-"Illya――――?"
-
-"...I was given birth to this world to win the Holy Grail War. My goal is to kill you and Kiritsugu."
-
----
-
-She sprints off.
-
-Illya leaves without turning around.
-
-I watch her go until I can't see her anymore.
-
----
-
-## Scene 11
-
-
-
-The Ryuudou Temple.
-
-The land is desolate after Caster has disappeared.
-
-The monks, who have collapsed from an unknown cause, have left the mountain to leave the temple empty.
-
-The gate is shut firmly, so neither worshippers nor monks can enter the place.
-
----
-
-"―――Damn, what a stench. This is a real stinker."
-
-A voice echoes through the place that should be desolate.
-
-A lean blue figure glows in the moonlight.
-
-The sturdily-built man with the crimson spear is a Servant called Lancer.
-
----
-
-"Oh, wow. The boundary field is still here, even though Caster's dead?
-
-...No, this is too crude. Her work was much more polished than this."
-
----
-
-Lancer looks around the temple.
-
-The red lance is in his hand.
-
-His objectives are to gain information and to keep watch.
-
-He is unwilling, but he cannot disobey his Master's command.
-
-It is his policy to follow any command given to him, and to accomplish the mission.
-
-That is why he has fought several Servants and ended up in a draw with each.
-
----
-
-As long as he serves this Master, Lancer will never start a fight.
-
-This is no exception, and he is to investigate the Ryuudou Temple.
-
-If that is the case, why is his lance in his hand?
-
-His weapon, his Noble Phantasm, can be summoned whenever needed.
-
-There is no need for him to hold his lance when there is no enemy before him.
-
----
-
-"Damn, what a racket. I thought Caster was the master of wind, but maybe she used water instead. This place is crawling with leeches and spiders――――"
-
----
-
-He walks through the temple.
-
-He seems too vulnerable and defenseless to be a Servant.
-
-He is so defenseless that if―――this is an if―――there is another Servant here, he would be attacked and killed in an instant.
-
----
-
-"――――But who knows? Maybe the head has been replaced.
-
-There's nothing here but rotten insects. It's your habitual practice to nest on deserted houses."
-
----
-
-Lancer doesn't stop cursing.
-
-The blue spearman gives a speech as if to persuade a person who is not here.
-
----
-
-"But there's one big one.
-
-I don't know where it was born, but it looks like it was raised by beasts deep within a mountain. And what is this, a smell of sand?
-
-Hah, I thought you were a big spider, but you turned out to be a dirty sandworm.
-
-Why the hell should I have to come and investigate a wretch like you――――whoa!"
-
----
-
-――――The silver lights are deflected.
-
-Three rays of light streak forth from the darkness, only to be struck down by Lancer's lance.
-
----
-
-The deflected lights are daggers called "Dark".
-
-They are not a weapon to be held onto and to slash with, but a weapon to be thrown.
-
-These daggers were thrown with great speed at Lancer's eyes and throat.
-
----
-
-"――――You're pretty good. But don't do that again, sandworm.
-
-I don't like getting killed without a greeting first, and more importantly, it will be fatal for you."
-
----
-
-The blue figure stands firm before the darkness.
-
-In the darkness in front of Lancer is...
-
----
-
-...A laughing skull, white as the moon.
-
----
-
-――――The battle starts without a signal.
-
-Lacking human words, the white skull attacks Lancer with an inhuman shriek,
-
-and Lancer meets his assault without twitching a brow.
-
----
-
-The skull tosses daggers with a precision rivaling that of Archer.
-
-Thirty are thrown from close range as he runs through the darkness.
-
-But Lancer easily repels every one.
-
----
+"Where did you go, Senpai!?"
 
-"Ki――――?"
+"W-Whoa――――!?"
 
-The skull comes to an abrupt stop.
+I jump back, bumping against the front door.
 
-It is abnormal.
-
-No matter how great a spearman Lancer may be, he could not possibly block all the daggers.
-
-Furthermore, he is using a long lance.
-
-How are the daggers, fired accurately in between his swings, all deflected?
-
----
-
-"Hey. Don't tell me that's all you can do."
-
-Lancer's presence changes.
-
-He stops, and his hostility changes to a clear intent to kill.
-
----
-
-"Then this is it.
-
-I don't know who you are... well, I guess I'll at least take off that mask of yours."
-
----
-
-―――Daggers flash though the darkness.
-
-A rapid barrage is unleashed as a counter to Lancer's charge―――!
-
----
-
-But he blocks even that.
-
-Although the daggers cannot be perceived, he turns them aside with a slight swing of his spear.
-
----
-
-"――――――――"
-
-The skull is the one shivering.
-
-Unable to speak human language, he can only swallow his scream and watch as the enemy comes to take his life――――
-
-"――――, Kii――――!"
-
-He throws a dagger at the small opening in between Lancer's strikes...!
-
----
-
-"Kii...!"
-
-The skull's mask trembles.
-
-Lancer blocks the dagger, turns the spear in a full circle, and smacks his opponent's chin from below.
-
----
-
-Defense and counter.
-
-He performs both actions in one motion.
-
-Already committed to his attack, the skull cannot respond to such a maneuver.
-
----
-
-――――The white mask falls from his face.
-
-Lancer does not keep attacking.
-
-His order is merely to observe his foes.
-
-Even if this is a sure chance to kill, he has no authority to attack.
-
----
-
-"―――You idiot. I told you projectile weapons are useless against me. You're the one who didn't listen to my warning."
-
----
-
-Lancer readies his lance again and regards his enemy, who is now hiding his face.
-
-A black body.
-
-A right hand covered in bandages.
-
-A face still hidden by the darkness.
-
----
-
-No.
-
-His face is flat and utterly featureless.
-
----
-
-"Gi――――yoU SAw My FaCe, Lan, cer."
-
-"I'm about to. I'm sure you're a Servant, so let me check out which hero you are."
-
-"―――Kuh. I sEE, YOu HavE A bINd. No WONdeR YoU, DiD, Not KilL, me."
-
----
-
-The Servant retreats further into the shadows.
-
-He still has the Dark in his hand, and his hostility is still emitting.
-
----
-
-"Don't even try. It's my nature, but projectile attacks from a visible opponent aren't effective against me. You can't hurt me using a projectile unless it's some great Noble Phantasm."
-
-"...! ―――I sEE, PRoteCtIon AgaiNst ArrOws. ...Kuku, as EXpecTed frOm a HeRo WIth A nAMe. YoU Are nOT LIKe mE."
-
----
-
-The shadow wavers.
-
-The black Servant sinks down to the ground,
-
-then springs up in an instant as he throws another dagger.
-
----
-
-If his leap is that of a deer, his movements are those of a spider, snake, or scorpion.
-
-Even while keeping his face hidden, this Servant is as fast as Lancer when it comes to retreat.
-
-But Lancer's charge is still the fastest.
-
-It is a disgrace to take even a minute to corner his enemy.
-
----
-
-"Damn―――I know I destroyed his throat, but he's persistent. It doesn't seem like it's healed, so he must be drugged――――"
-
----
-
-The enemy glides across the water like a spider, and Lancer pursues him.
-
-In contrast, water sprays from his footsteps, but his speed is far greater.
-
----
-
-"...Hmph. If I'd known the pain wouldn't stop him, I would've cut his joints. I put that off since it doesn't work on other opponents, but――――"
-
----
-
-It is fatal for a human body to be cut at the joint, where the main arteries lie.
-
-If the arteries are severed, death from severe bleeding will quickly follow.
-
-But that is only in normal combat.
-
-You cannot expect a Servant, a heroic spirit, to die from excessive bleeding.
-
----
-
-As their lifeforce is magical energy, cutting their arteries does not have much effect.
-
-The loss of a limb is another story, but cutting off a Servant's limb is a difficult task.
-
-Doing so will likely cost you your own head in the process.
-
----
-
-"...Hashish, huh? I bet a heroic spirit who relies on drugs doesn't have healing powers. I'll end this fight with my next attack――――"
-
-Water splashes with lightning speed.
-
-His next attack will strike in two more seconds.
-
-He tenses, then thrusts at his fleeing enemy's left leg―――
-
-"――――!"
-
-With a start, Lancer jumps back from the water's surface.
-
----
-
-――――Water explodes upward.
-
-No, something beneath the water is snarling.
-
-Black tendrils snake out of the water, reaching for the spearman.
-
-Is it because this creature dwells underwater?
-
-It seems to resemble a deep-sea monster from ancient times.
-
----
-
-"―――――――What... the...?"
-
-Lancer has nowhere to run.
-
-He instantly carves all his runes on the bottom of the lake to create a boundary field, but it is easily penetrated.
-
----
-
-The dark tentacles are closing in on all sides, and his territory is shrinking by the second.
-
-The protection using all his Runes, which can even block a great Noble Phantasm, does not even slow down the penetration.
-
-Watching Lancer――――
-
-"WHaT iS WrOng, LAncEr? It wILl SwaLLow yOu if yOU Do nOT MoVe."
-
-Assassin sneers.
-
----
-
-But even the sneering spider is no exception.
-
-It seems these tendrils must engulf anything they can reach, as the spider does not approach the dark water.
-
-He knows that if he draws near, they will take interest in new prey.
-
----
-
-"BuT I wILL nOt aLLow THat. I MuST KiLL You. I nEEd mOrE EXperIenCE. I sHaLL KiLL YoU To aDD tO mY iNtELLigeNCe."
-
----
-
-The spider's dagger glimmers.
-
-The weapon about to be released is just a projectile.
-
-But is it not meaningless?
-
-Even though Lancer is surrounded by ghastly limbs, projectiles are meaningless against Lancer.
-
----
-
-"―――You don't give up, do you? Well, I can understand why you feel that way."
-
-Lancer observes the ghastly limbs around him.
-
-He was lured quite far in, but it's only about thirty meters to the opposite shore.
-
-He should be able to easily jump across such a distance...!
-
----
-
-"You lost because you wouldn't move from there. I'm done with my investigation, so I'm out of here."
-
-Lancer crouches low and braces his lance against the ground.
-
-Using his lance as support, Lancer vaults into the air.
-
-There...
-
-"Wh――――at?"
-
-He is struck by the simplest of attacks.
-
----
-
-A fake heart is taken out of Lancer's chest.
-
-Assassin has directly gouged out Lancer's heart from the distant shore, an impossible range.
-
----
-
-It is the purest magecraft, the simplest curse.
-
-It is the "cursed hand", a magecraft of the Middle East, specialized in cursing people.
-
-――――It is Assassin's Noble Phantasm, Zabaniya.
-
-It surely destroys Lancer's heart, and the powerless body of the spearman falls into the black water.
-
----
-
-The surface boils.
-
-It is hectic, ferocious, and vulgar.
-
-You would not see such a gruesome meal even if meat were thrown into a cage of starving beasts.
-
-―――Numerous black limbs eliminate the human-shaped heroic spirit.
-
-Watching it in delight as he stands on the black water...
-
-The faceless Servant swallows the heart of his prey with satisfaction.
-
----
-
-## Scene 16
-
-
-
-―――We'll patrol Shinto.
-
-We can't let our guards down, even if Caster's been defeated.
-
-We have to find Lancer's Master and determine whether he's good or evil.
-
----
-
-"We'll go to Shinto. Please follow me like that."
-
-"Understood. So the plan is the same as yesterday?"
-
-"Yeah. We'll pretend we're normal citizens until we sense the enemy."
-
----
-
-I turn off the light in the living room.
-
-We exit the house silently so that we won't wake Sakura.
-
 ---
 
-We patrolled the town for an hour, but we didn't find anything.
+"No, not 'whoa'! I have told you many times not to go outside by yourself! Worse still, you snuck out while you were sick...!"
 
 ---
 
-According to Saber, Caster's magical energy, which once permeated Shinto, is now fading away. However, I cannot sense the change.
+"Saber-san's right!
 
-I don't feel any magical energy that stands out, so there must be no Masters in Shinto...
+You wrote that you'd be back at two! Do you know what time it is!? Where were you for the extra two hours!?"
 
 ---
 
-"What is wrong, Shirou? You look gloomy."
+"Uh――――no, hold on. I understand. I understand why you two are mad, so..."
 
-"Huh...? Oh, it's nothing. I'm just wondering if the station was always this desolate. This place feels like a..."
+If you guys will just calm down, I should be able to come up with an excuse...
 
 ---
 
-I stop myself before I finish with the term "ghost town".
+"No, you do not understand...! I agreed with your decision to go to school yesterday, but I cannot forgive you this time. It seems you are healthy enough. I shall train you until dinner!"
 
-...I bet it just happened to be like this tonight.
+Saber pushes Sakura aside and steps closer.
 
-There's nothing wrong. It's just that there isn't anybody walking about tonight.
-
----
-
-"Let's go home, Saber. I don't think we'll find anything even if we walk around aimlessly."
-
-"...You are right. You do not seem to be feeling well, so we should go home for tonight."
-
----
-
-We leave Shinto.
-
-Our footsteps echo through the empty station.
-
----
-
-## Scene 17
-
-
-
-―――We'll patrol Miyama City.
-
-It's that I want to secure my grounds, but also, Miyama City isn't as populated as Shinto.
-
-I fear that Servants have more freedom to kill innocent people without having anyone notice.
-
----
-
-"We'll look around the residential zone for tonight. ...I know this area is Tohsaka's territory and other Masters won't be able to do anything so easily, but we'll make sure of it."
-
-"Understood. I have already verified that there are no enemies around here, but let us patrol the hill on the opposite side."
-
----
-
-She must mean the Western-styled neighborhood.
-
-It seems Saber patrolled the town while I was at school yesterday.
-
----
-
-"Shirou? Are we not going?"
-
-"O-Oh, we're going. Then please follow me, Saber."
-
----
-
-I turn off the light in the living room.
-
-We exit the house silently so that we won't wake Sakura.
-
----
-
-...We don't see anything wrong with Miyama City.
-
-We went by the Matou household, but it was silent, and we didn't feel any magical energy, nor the presence of a Servant.
-
----
-
-"...I do not see anything abnormal. It has been a day since Caster was eliminated. I believe other Masters are keeping watch."
-
-"...Yeah. I hope so."
-
----
-
-According to Saber, Caster's energy, which once covered Shinto, is now fading away.
-
-There aren't any Masters that will suck up magical energy from innocent people now.
-
----
-
-But―――what is this vague uneasiness?
-
 ---
 
-The town is quiet.
+"Yes, the dojo is cleaned, so please have some matches with Saber-san! I heard how good she is from Fujimura-Sensei, so I'm sure you'll enjoy it!"
 
-This place is deserted.
+Sakura pushes Saber aside and roars at me.
 
-It was quiet yesterday as well, but it feels positively desolate tonight, almost as though we're trapped inside a still image.
-
----
-
-"Let us go home, Shirou. There is nothing wrong with this area.
-
-You do not seem to be feeling well, so we should go home and rest for tonight."
-
-"Y-Yeah, you're right. It's almost midnight, so we should go home."
-
-Urged by Saber, we go up the hill.
-
----
-
-...The town is quiet.
-
-The moon hangs in the black sky as if frozen.
-
 ---
-
-## Scene 18
 
+"Uh――――ugh."
 
+...I can't do this. I'll only add fuel to the fire if I say the wrong thing. Saber might even go as far as breaking our contract.
 
-...I return to my room.
+"Where is your reply, Shirou!?"
 
-It's two o'clock. It's late, but there's still time to do my daily training.
+"Where's your reply, Senpai!?"
 
----
-
-"―――! ...Damn, I thought I got better."
+"――――――Uh... I'm sorry."
 
-I must have let my guard down, because the moment I return to my room, I'm overcome by drowsiness.
+Rattle, rattle.
 
-...Saber told me I should rest, so maybe I should skip my training and sleep for tonight.
+I hate my front door for blocking my retreat.
 
 ---
 
-"...Yeah. I should get a good night's sleep instead of pushing myself."
+"Then let us go at once. Please prepare the first-aid kit, Sakura."
 
-...I lay out the futon with languid motions, then fall onto it.
+"Please do. Punish him all you want."
 
-The futon smells like the sun.
+The two retreat together in unison.
 
-It's because Sakura aired it out today.
-
 ---
 
-"...I... wonder if Sakura's feeling better..."
+".........Man. I wonder if I'll be able to eat dinner tonight."
 
-I mutter absent-mindedly.
+But I don't know what they'll do if I don't go with them.
 
-...It feels so good.
+...I guess I have to atone for my actions in the dojo...
 
-I feel myself relax as soon as I settle into the futon. I must've been more tired than I thought.
-
 ---
 
-"...Hm... I have to thank her tomorrow..."
 
-I drop my eyelids.
 
-In this atmosphere, gentle as a sunny day, I soon fall into a deep sleep.
 
----
+## Scene 10 Matou Shinji
 
-## Scene 19
 
 
 
@@ -3790,7 +3179,7 @@ I――――
 
 ---
 
-## Scene 20
+## Scene 11 Enraged
 
 
 
@@ -3802,7 +3191,7 @@ Shinji just stands there, smiling as he awaits my attack, and―――
 
 ---
 
-## Scene 21
+## Scene 12 Prudence
 
 
 
@@ -3816,7 +3205,7 @@ It's meaningless to attack Shinji now, and I can't fight Shinji in front of Saku
 
 ---
 
-## Scene 22
+## Scene 13 Sakura sick-Tonight's plan
 
 
 
@@ -4036,7 +3425,197 @@ For tonight――――
 
 ---
 
-## Scene 23
+## Scene 14 Patrol Shinto
+
+
+
+―――We'll patrol Shinto.
+
+We can't let our guards down, even if Caster's been defeated.
+
+We have to find Lancer's Master and determine whether he's good or evil.
+
+---
+
+"We'll go to Shinto. Please follow me like that."
+
+"Understood. So the plan is the same as yesterday?"
+
+"Yeah. We'll pretend we're normal citizens until we sense the enemy."
+
+---
+
+I turn off the light in the living room.
+
+We exit the house silently so that we won't wake Sakura.
+
+---
+
+We patrolled the town for an hour, but we didn't find anything.
+
+---
+
+According to Saber, Caster's magical energy, which once permeated Shinto, is now fading away. However, I cannot sense the change.
+
+I don't feel any magical energy that stands out, so there must be no Masters in Shinto...
+
+---
+
+"What is wrong, Shirou? You look gloomy."
+
+"Huh...? Oh, it's nothing. I'm just wondering if the station was always this desolate. This place feels like a..."
+
+---
+
+I stop myself before I finish with the term "ghost town".
+
+...I bet it just happened to be like this tonight.
+
+There's nothing wrong. It's just that there isn't anybody walking about tonight.
+
+---
+
+"Let's go home, Saber. I don't think we'll find anything even if we walk around aimlessly."
+
+"...You are right. You do not seem to be feeling well, so we should go home for tonight."
+
+---
+
+We leave Shinto.
+
+Our footsteps echo through the empty station.
+
+---
+
+## Scene 15 Patrol Miyama City
+
+
+
+―――We'll patrol Miyama City.
+
+It's that I want to secure my grounds, but also, Miyama City isn't as populated as Shinto.
+
+I fear that Servants have more freedom to kill innocent people without having anyone notice.
+
+---
+
+"We'll look around the residential zone for tonight. ...I know this area is Tohsaka's territory and other Masters won't be able to do anything so easily, but we'll make sure of it."
+
+"Understood. I have already verified that there are no enemies around here, but let us patrol the hill on the opposite side."
+
+---
+
+She must mean the Western-styled neighborhood.
+
+It seems Saber patrolled the town while I was at school yesterday.
+
+---
+
+"Shirou? Are we not going?"
+
+"O-Oh, we're going. Then please follow me, Saber."
+
+---
+
+I turn off the light in the living room.
+
+We exit the house silently so that we won't wake Sakura.
+
+---
+
+...We don't see anything wrong with Miyama City.
+
+We went by the Matou household, but it was silent, and we didn't feel any magical energy, nor the presence of a Servant.
+
+---
+
+"...I do not see anything abnormal. It has been a day since Caster was eliminated. I believe other Masters are keeping watch."
+
+"...Yeah. I hope so."
+
+---
+
+According to Saber, Caster's energy, which once covered Shinto, is now fading away.
+
+There aren't any Masters that will suck up magical energy from innocent people now.
+
+---
+
+But―――what is this vague uneasiness?
+
+---
+
+The town is quiet.
+
+This place is deserted.
+
+It was quiet yesterday as well, but it feels positively desolate tonight, almost as though we're trapped inside a still image.
+
+---
+
+"Let us go home, Shirou. There is nothing wrong with this area.
+
+You do not seem to be feeling well, so we should go home and rest for tonight."
+
+"Y-Yeah, you're right. It's almost midnight, so we should go home."
+
+Urged by Saber, we go up the hill.
+
+---
+
+...The town is quiet.
+
+The moon hangs in the black sky as if frozen.
+
+---
+
+## Scene 16 Day's End
+
+
+
+...I return to my room.
+
+It's two o'clock. It's late, but there's still time to do my daily training.
+
+---
+
+"―――! ...Damn, I thought I got better."
+
+I must have let my guard down, because the moment I return to my room, I'm overcome by drowsiness.
+
+...Saber told me I should rest, so maybe I should skip my training and sleep for tonight.
+
+---
+
+"...Yeah. I should get a good night's sleep instead of pushing myself."
+
+...I lay out the futon with languid motions, then fall onto it.
+
+The futon smells like the sun.
+
+It's because Sakura aired it out today.
+
+---
+
+"...I... wonder if Sakura's feeling better..."
+
+I mutter absent-mindedly.
+
+...It feels so good.
+
+I feel myself relax as soon as I settle into the futon. I must've been more tired than I thought.
+
+---
+
+"...Hm... I have to thank her tomorrow..."
+
+I drop my eyelids.
+
+In this atmosphere, gentle as a sunny day, I soon fall into a deep sleep.
+
+---
+
+## Scene 17 Bedtime Matou Sakura(III)
 
 
 
@@ -4507,5 +4086,430 @@ That's what's been bugging me.
 Sakura works hard and always has a warm smile.
 
 But that was the last time her smile looked satisfied――――
+
+---
+## Scene 18 Intermission Hero's death
+
+
+
+The Ryuudou Temple.
+
+The land is desolate after Caster has disappeared.
+
+The monks, who have collapsed from an unknown cause, have left the mountain to leave the temple empty.
+
+The gate is shut firmly, so neither worshippers nor monks can enter the place.
+
+---
+
+"―――Damn, what a stench. This is a real stinker."
+
+A voice echoes through the place that should be desolate.
+
+A lean blue figure glows in the moonlight.
+
+The sturdily-built man with the crimson spear is a Servant called Lancer.
+
+---
+
+"Oh, wow. The boundary field is still here, even though Caster's dead?
+
+...No, this is too crude. Her work was much more polished than this."
+
+---
+
+Lancer looks around the temple.
+
+The red lance is in his hand.
+
+His objectives are to gain information and to keep watch.
+
+He is unwilling, but he cannot disobey his Master's command.
+
+It is his policy to follow any command given to him, and to accomplish the mission.
+
+That is why he has fought several Servants and ended up in a draw with each.
+
+---
+
+As long as he serves this Master, Lancer will never start a fight.
+
+This is no exception, and he is to investigate the Ryuudou Temple.
+
+If that is the case, why is his lance in his hand?
+
+His weapon, his Noble Phantasm, can be summoned whenever needed.
+
+There is no need for him to hold his lance when there is no enemy before him.
+
+---
+
+"Damn, what a racket. I thought Caster was the master of wind, but maybe she used water instead. This place is crawling with leeches and spiders――――"
+
+---
+
+He walks through the temple.
+
+He seems too vulnerable and defenseless to be a Servant.
+
+He is so defenseless that if―――this is an if―――there is another Servant here, he would be attacked and killed in an instant.
+
+---
+
+"――――But who knows? Maybe the head has been replaced.
+
+There's nothing here but rotten insects. It's your habitual practice to nest on deserted houses."
+
+---
+
+Lancer doesn't stop cursing.
+
+The blue spearman gives a speech as if to persuade a person who is not here.
+
+---
+
+"But there's one big one.
+
+I don't know where it was born, but it looks like it was raised by beasts deep within a mountain. And what is this, a smell of sand?
+
+Hah, I thought you were a big spider, but you turned out to be a dirty sandworm.
+
+Why the hell should I have to come and investigate a wretch like you――――whoa!"
+
+---
+
+――――The silver lights are deflected.
+
+Three rays of light streak forth from the darkness, only to be struck down by Lancer's lance.
+
+---
+
+The deflected lights are daggers called "Dark".
+
+They are not a weapon to be held onto and to slash with, but a weapon to be thrown.
+
+These daggers were thrown with great speed at Lancer's eyes and throat.
+
+---
+
+"――――You're pretty good. But don't do that again, sandworm.
+
+I don't like getting killed without a greeting first, and more importantly, it will be fatal for you."
+
+---
+
+The blue figure stands firm before the darkness.
+
+In the darkness in front of Lancer is...
+
+---
+
+...A laughing skull, white as the moon.
+
+---
+
+――――The battle starts without a signal.
+
+Lacking human words, the white skull attacks Lancer with an inhuman shriek,
+
+and Lancer meets his assault without twitching a brow.
+
+---
+
+The skull tosses daggers with a precision rivaling that of Archer.
+
+Thirty are thrown from close range as he runs through the darkness.
+
+But Lancer easily repels every one.
+
+---
+
+"Ki――――?"
+
+The skull comes to an abrupt stop.
+
+It is abnormal.
+
+No matter how great a spearman Lancer may be, he could not possibly block all the daggers.
+
+Furthermore, he is using a long lance.
+
+How are the daggers, fired accurately in between his swings, all deflected?
+
+---
+
+"Hey. Don't tell me that's all you can do."
+
+Lancer's presence changes.
+
+He stops, and his hostility changes to a clear intent to kill.
+
+---
+
+"Then this is it.
+
+I don't know who you are... well, I guess I'll at least take off that mask of yours."
+
+---
+
+―――Daggers flash though the darkness.
+
+A rapid barrage is unleashed as a counter to Lancer's charge―――!
+
+---
+
+But he blocks even that.
+
+Although the daggers cannot be perceived, he turns them aside with a slight swing of his spear.
+
+---
+
+"――――――――"
+
+The skull is the one shivering.
+
+Unable to speak human language, he can only swallow his scream and watch as the enemy comes to take his life――――
+
+"――――, Kii――――!"
+
+He throws a dagger at the small opening in between Lancer's strikes...!
+
+---
+
+"Kii...!"
+
+The skull's mask trembles.
+
+Lancer blocks the dagger, turns the spear in a full circle, and smacks his opponent's chin from below.
+
+---
+
+Defense and counter.
+
+He performs both actions in one motion.
+
+Already committed to his attack, the skull cannot respond to such a maneuver.
+
+---
+
+――――The white mask falls from his face.
+
+Lancer does not keep attacking.
+
+His order is merely to observe his foes.
+
+Even if this is a sure chance to kill, he has no authority to attack.
+
+---
+
+"―――You idiot. I told you projectile weapons are useless against me. You're the one who didn't listen to my warning."
+
+---
+
+Lancer readies his lance again and regards his enemy, who is now hiding his face.
+
+A black body.
+
+A right hand covered in bandages.
+
+A face still hidden by the darkness.
+
+---
+
+No.
+
+His face is flat and utterly featureless.
+
+---
+
+"Gi――――yoU SAw My FaCe, Lan, cer."
+
+"I'm about to. I'm sure you're a Servant, so let me check out which hero you are."
+
+"―――Kuh. I sEE, YOu HavE A bINd. No WONdeR YoU, DiD, Not KilL, me."
+
+---
+
+The Servant retreats further into the shadows.
+
+He still has the Dark in his hand, and his hostility is still emitting.
+
+---
+
+"Don't even try. It's my nature, but projectile attacks from a visible opponent aren't effective against me. You can't hurt me using a projectile unless it's some great Noble Phantasm."
+
+"...! ―――I sEE, PRoteCtIon AgaiNst ArrOws. ...Kuku, as EXpecTed frOm a HeRo WIth A nAMe. YoU Are nOT LIKe mE."
+
+---
+
+The shadow wavers.
+
+The black Servant sinks down to the ground,
+
+then springs up in an instant as he throws another dagger.
+
+---
+
+If his leap is that of a deer, his movements are those of a spider, snake, or scorpion.
+
+Even while keeping his face hidden, this Servant is as fast as Lancer when it comes to retreat.
+
+But Lancer's charge is still the fastest.
+
+It is a disgrace to take even a minute to corner his enemy.
+
+---
+
+"Damn―――I know I destroyed his throat, but he's persistent. It doesn't seem like it's healed, so he must be drugged――――"
+
+---
+
+The enemy glides across the water like a spider, and Lancer pursues him.
+
+In contrast, water sprays from his footsteps, but his speed is far greater.
+
+---
+
+"...Hmph. If I'd known the pain wouldn't stop him, I would've cut his joints. I put that off since it doesn't work on other opponents, but――――"
+
+---
+
+It is fatal for a human body to be cut at the joint, where the main arteries lie.
+
+If the arteries are severed, death from severe bleeding will quickly follow.
+
+But that is only in normal combat.
+
+You cannot expect a Servant, a heroic spirit, to die from excessive bleeding.
+
+---
+
+As their lifeforce is magical energy, cutting their arteries does not have much effect.
+
+The loss of a limb is another story, but cutting off a Servant's limb is a difficult task.
+
+Doing so will likely cost you your own head in the process.
+
+---
+
+"...Hashish, huh? I bet a heroic spirit who relies on drugs doesn't have healing powers. I'll end this fight with my next attack――――"
+
+Water splashes with lightning speed.
+
+His next attack will strike in two more seconds.
+
+He tenses, then thrusts at his fleeing enemy's left leg―――
+
+"――――!"
+
+With a start, Lancer jumps back from the water's surface.
+
+---
+
+――――Water explodes upward.
+
+No, something beneath the water is snarling.
+
+Black tendrils snake out of the water, reaching for the spearman.
+
+Is it because this creature dwells underwater?
+
+It seems to resemble a deep-sea monster from ancient times.
+
+---
+
+"―――――――What... the...?"
+
+Lancer has nowhere to run.
+
+He instantly carves all his runes on the bottom of the lake to create a boundary field, but it is easily penetrated.
+
+---
+
+The dark tentacles are closing in on all sides, and his territory is shrinking by the second.
+
+The protection using all his Runes, which can even block a great Noble Phantasm, does not even slow down the penetration.
+
+Watching Lancer――――
+
+"WHaT iS WrOng, LAncEr? It wILl SwaLLow yOu if yOU Do nOT MoVe."
+
+Assassin sneers.
+
+---
+
+But even the sneering spider is no exception.
+
+It seems these tendrils must engulf anything they can reach, as the spider does not approach the dark water.
+
+He knows that if he draws near, they will take interest in new prey.
+
+---
+
+"BuT I wILL nOt aLLow THat. I MuST KiLL You. I nEEd mOrE EXperIenCE. I sHaLL KiLL YoU To aDD tO mY iNtELLigeNCe."
+
+---
+
+The spider's dagger glimmers.
+
+The weapon about to be released is just a projectile.
+
+But is it not meaningless?
+
+Even though Lancer is surrounded by ghastly limbs, projectiles are meaningless against Lancer.
+
+---
+
+"―――You don't give up, do you? Well, I can understand why you feel that way."
+
+Lancer observes the ghastly limbs around him.
+
+He was lured quite far in, but it's only about thirty meters to the opposite shore.
+
+He should be able to easily jump across such a distance...!
+
+---
+
+"You lost because you wouldn't move from there. I'm done with my investigation, so I'm out of here."
+
+Lancer crouches low and braces his lance against the ground.
+
+Using his lance as support, Lancer vaults into the air.
+
+There...
+
+"Wh――――at?"
+
+He is struck by the simplest of attacks.
+
+---
+
+A fake heart is taken out of Lancer's chest.
+
+Assassin has directly gouged out Lancer's heart from the distant shore, an impossible range.
+
+---
+
+It is the purest magecraft, the simplest curse.
+
+It is the "cursed hand", a magecraft of the Middle East, specialized in cursing people.
+
+――――It is Assassin's Noble Phantasm, Zabaniya.
+
+It surely destroys Lancer's heart, and the powerless body of the spearman falls into the black water.
+
+---
+
+The surface boils.
+
+It is hectic, ferocious, and vulgar.
+
+You would not see such a gruesome meal even if meat were thrown into a cage of starving beasts.
+
+―――Numerous black limbs eliminate the human-shaped heroic spirit.
+
+Watching it in delight as he stands on the black water...
+
+The faceless Servant swallows the heart of his prey with satisfaction.
 
 ---

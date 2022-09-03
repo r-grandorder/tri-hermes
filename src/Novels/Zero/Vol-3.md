@@ -1,6 +1,10 @@
 # Fate/Zero Volume 3: The Scattered Ones
 
+![](https://i.imgur.com/Ox9Ff11.jpeg)
 
+![](https://i.imgur.com/pABbMIq.jpeg)
+
+![](https://i.imgur.com/ikZLsGu.png)
 
 ## Act 9
 
@@ -101,7 +105,7 @@ Bluebeard’s eyes burned with emotion, but his face was blank. It was almost as
 “…”
 
 
-
+![](https://i.imgur.com/5PuUPtQ.png)
 
 
 Caster and Ryuunosuke
@@ -1851,7 +1855,7 @@ Waver remained in an oblivious state of reading for he didn't know how long.
 Suddenly, Waver felt some extraordinarily heavy steps, different from that of an ordinary person, coming into his hearing. So he immediately put the book back and pretended a calm demeanor. His sight happened to connect with that of Rider’s, who happened to be looking towards the foreign language shelves, when Waver turned his head around.
 
 
-
+![](https://i.imgur.com/GR9Sz5w.jpeg)
 
 
 “Oooh! I found you, I found you! Such a short dude hiding between the shelves really can’t be seen by anyone, and is so bothersome to find.” “Normal people are all shorter than book shelves, you idiotic giant! – Speaking of, what did you buy this time?”
@@ -2434,7 +2438,7 @@ The War of the Holy Grail was still going on –
 
 Having no time to attend to the sentiments still entwined within their hearts, the soldiers will once again throw themselves into battle.
 
-
+![](https://i.imgur.com/yN9jgSs.png)
 
 ## Act 10
 
@@ -3016,7 +3020,7 @@ At Third Class Lieutenant Kobayashi's semi-desperate words, First Class Lieutena
 
 In the navigators' hearts, with the thunderous roar of the afterburner, turning its silver wings over, the figure of the F15J was as gallant as usual.
 
-
+![](https://i.imgur.com/DIi8hE5.png)
 
 ### -84:30:16
 
@@ -3776,7 +3780,7 @@ After all －
 
 "The Matou magecraft was passed into Sakura's hands because you refused to inherit the family headship. I have to thank you on that point... however, I would never forgive a man like you. Escaping from the responsibility of your blood is a weakness, a vile behavior which can never be overlooked. Matou Kariya is a disgrace to the way of magecraft. Since we have met once again, I will have to exterminate you."
 
-
+![](https://i.imgur.com/CWPTh5m.png)
 
 "Enough nonsense... you inhuman bastard..."
 
@@ -4741,13 +4745,10 @@ It was the gallant figure of a knight who once shone the light of purification u
 Unyielding for ten years, undefeated in twelve battles. These peerless feats of arms and this glory were eternal, transcending time.
 
 
-
+![](https://i.imgur.com/mTWNsGC.jpeg)
 
 
 This shining sword itself is the nostalgic, sorrowful, and exalted dream of all warriors past, present and future who stand at the brink of death on the battlefield – the crystallization of the prayer named ‘glory’. Proudly uplifting this will, ascertaining that this faith will be seen to its end, the king of eternal victory now loudly declared the true name of this miracle she held in her hands. It was – “Ex – calibur!!!”
-
-This shining sword itself is the nostalgic, sorrowful, and exalted dream of all warriors past, present and future who stand at the brink of death on the battlefield – the crystallization of the prayer named ‘glory’.
-
 
 
 Proudly uplifting this will, ascertaining that this faith will be seen to its end, the king of eternal victory now loudly declared the true name of this miracle she held in her hands.
@@ -4996,7 +4997,7 @@ Like so, when he saw that man taking his last breath, the incomparable king real
 
 The golden majestic brilliance disappeared in the night mist, leaving only an evil laughter echoing long after.
 
-
+![](https://i.imgur.com/auLdqXE.png)
 
 ## Act 11
 
@@ -6330,7 +6331,7 @@ Without a sign, without a reason – brilliant vermillion scattered all over the
 
 Everyone appeared to be equally shocked. Saber, Irisviel, and even Lancer himself widened their eyes at this overly abrupt end – Lancer’s own shock should probably be the most intense, since he had not a sliver of expectation or preparedness for that agony and despair.
 
-
+![](https://i.imgur.com/qA6xNqG.png)
 
 Dazed, Lancer gazed at the crimson flowers that dripped from the red spear shaft to the ground. No matter how, he could not believe that it was all his own blood.
 
@@ -6762,7 +6763,7 @@ In a despair even deeper than despair.
 
 In a regret even deeper than regret.
 
-
+![](https://i.imgur.com/jOSl7Df.png)
 
 ## Act 12
 
@@ -8105,12 +8106,10 @@ This unconditional reverence and trust finally brought answers for Tokiomi.
 There was no need to apologize to this child, nor worry about her future path. Faced with the proud child of the Tohsaka family, the previous generation, who was about to pass away, no longer needs to entrust anything else.
 
 
-
+![](https://i.imgur.com/2syVPQX.jpeg)
 
 
 “Rin, the Holy Grail will appear eventually. It is our duty as the Tohsaka family to win it. More importantly – if you want to be a magus, you can’t avoid it.” The girl nodded adamantly. Her eyes made pride fill Tokiomi’s chest.
-
-“Rin, the Holy Grail will appear eventually. It is our duty as the Tohsaka family to win it. More importantly – if you want to be a magus, you can’t avoid it.”
 
 
 
@@ -8617,7 +8616,7 @@ Kirei nodded. That Emiya Kiritsugu won’t ignore the meeting just then; he woul
 
 
 
-
+![](https://i.imgur.com/N9hge6t.png)
 Kirei and Gilgamesh
 
 “However, you really are an honest guy. Knowing that your situation is getting worse but still worried about the safety of your lord.”
