@@ -1,8 +1,8 @@
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/ClytonTranslations/comments/ihhnkz/tomoe_gozens_servant_profile_from_fgo_material_vi/)
-
-
 # Tomoe Gozen
 
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/ClytonTranslations/comments/ihhnkz/tomoe_gozens_servant_profile_from_fgo_material_vi/)
+:::
 
 ## Info
 
@@ -72,6 +72,7 @@ A kind of self-suggestion Tomoe had unconsciously done during her lifetime. At t
 
 
 # Oṃ Ārolik Svāhā: The Mantra of Aryāvalokiteśvara
+
 * Rank: B
 * Classification: Anti-Personnel Noble Phantasm
 * Range: 1~12
@@ -82,6 +83,7 @@ Oṃ Ārolik Svāhā (Salutations to the Pure One). An Anti-Personnel Noble Phan
 The Aryāvalokiteśvara Bodhisattva is the honzon (principal object of worship) of the Gichuu-ji Temple, which held the memorial services of her beloved Kiso no Yoshinaka————after ascertaining “the love towards Yoshinaka within herself” by chanting the mantra of the Aryāvalokiteśvara, Tomoe grabs and hurls her enemy away before shooting an arrow of scorching heat into them, giving them damage by means of Magical Energy that imitates the sun, which symbolizes her feelings towards Yoshinaka.
 
 # Namaḥ Samantavajrāṇāṃ, Hāṃ: A Seething Arrow of My Feelings
+
 * Rank: B
 * Classification: Anti-Personnel, Anti-Army Noble Phantasm
 * Range: 1~99
@@ -203,12 +205,38 @@ The concept of Tomoe Gozen’s design in the beginning was one where I tried to 
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-004.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-004.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-004.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-004.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-004.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-004.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-010.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-011.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-012.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-013.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-014.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-015.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-016.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-017.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |
 
 

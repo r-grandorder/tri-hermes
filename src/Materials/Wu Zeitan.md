@@ -1,6 +1,8 @@
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/ClytonTranslations/comments/ke5kjq/wu_zetians_servant_profile_from_fgo_material_v/)
-
 # Wu Zetian
+
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/ClytonTranslations/comments/ke5kjq/wu_zetians_servant_profile_from_fgo_material_v/)
+:::
 
 ## Info
 
@@ -116,6 +118,7 @@ A figure of the 7th~8th Century. The First Empress in the history of China.
 In the beginning, Wu Zetian was one of the concubines and consorts of Emperor Taizong, the Tang Dynasty’s Second Emperor. Although she was given the status of a “talented person” and rose up the ranks within the inner palace, she could not show her presence in the imperial court to a great extent during Emperor Taizong’s reign. Moreover, in those days, a plausible rumour began to spread throughout Emperor Taizong’s surroundings about an ominous prophecy where “after Tang’s third generation, Queen Wu will prosper”, so it appears that she – who possesses that name – has been shunned by the others all the more. In other words, she could not curry favour with the most important people to seize power.
 
 If so, what can Wu Zetian do?
+
 It was then that she had her eyes on Emperor Taizong’s crown prince, Li Zhi (who later became Emperor Gaozong, the Tang Dynasty’s Third Emperor).
 
 Naturally, the likes of a woman and the Emperor’s son making love to each other within the Emperor’s inner palace was not a topic that is ethically allowed. But Wu Zetian made use of every art of coaxing she has, stabbed at the crack within the system and the morality adhered within it, and furthermore used the antagonism between Emperor Gaozong’s wife, Empress Wang, and Emperor Gaozong’s favourite mistress, Consort Xiao, all to come back to the imperial court. Overcoming the hardships, Wu Zetian obtained the position that officially received the Emperor’s favour, and thereafter, she had all of her children with Emperor Gaozong, but————among them, the flame of one life – the life of a tiny baby – had gone out.
@@ -133,18 +136,27 @@ Wu Zetian was not a person who became Empress according to her birth. She is a b
 ————Wu Zetian… became Empress by doing as much as she could.
 
 It was a matter of course, because she absolutely resolved herself to become one.
+
 It was a matter of course, because she continuously endeavoured for that sake.
+
 The journey that was smeared with blood, starting from entering the inner palace, becoming an adult, and obtaining power… It was, so to speak, a throwaway match where everything has already been decided.
 
 For the sake of becoming Empress, all that was absolutely needed was, simply, nothing more than having determination since the beginning.
 
 When she was being oppressed during her childhood, Wu Zetian looked up at the heavens and swore————
+
 A pure determination, where she would obtain this country without fail.
+
 A noble determination, where she would guide this country properly.
+
 She considers “that moment” to be “the golden age of her life”. Not as a title, but as a story of the way she ought to be————
+
 If she was asked from when she became Empress, she would respond with “That moment”.
+
 If she was asked of why she became Empress, she would respond with “That moment”.
+
 If she was asked what day in her life was the most brilliant, she would respond with “That moment”.
+
 Therefore, she has materialized in this figure of a young girl.
 
 “Well, look… Is it not an obvious fact that a younger woman is better than an older one? Kuffuffuu!”
@@ -177,10 +189,28 @@ There was a request for (in summary) a sexy, very sadistic and wicked loli empre
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-190.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-191.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-192.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-193.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-194.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-195.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-196.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-197.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-198.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-199.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |

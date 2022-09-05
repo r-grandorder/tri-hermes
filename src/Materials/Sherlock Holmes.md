@@ -1,7 +1,8 @@
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/ewpkf3/sherlock_holmes_servant_profile_from_fgo_material/)
-
 # Sherlock Holmes
 
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/ewpkf3/sherlock_holmes_servant_profile_from_fgo_material/)
+:::
 
 ## Info
 
@@ -61,6 +62,7 @@ Besides making use of striking techniques that had this Skill and boxing combine
 ## Noble Phantasm(s)
 
 # Elementary, My Dear: It’s Elementary, My Friend
+
 * Rank: B
 * Classifications: Anti-Personnel Noble Phantasm / Anti-World Noble Phantasm
 * Ranges: 0 / –
@@ -77,6 +79,7 @@ Holmes does not speak of what this “sphere” is. Is it an object that concret
 Moreover, this Noble Phantasm’s name is one of the famous phrases associated with Holmes, but its first instance as Holmes’ catchphrase was actually not in Doyle’s stories, but in the stage play starred/scripted/produced by William Gillette. It is said that Doyle praised the Holmes played by Gillette with the statement “He is better than the one in my stories.” Incidentally, Holmes has remarked the word “Elementary” towards Watson in Doyle’s short story “The Adventure of the Crooked Man”, and Gillette got the idea of the phrase from that.
 
 # Empty House: The Adventure of the Empty House
+
 * Rank: B
 * Classification: Anti-Personnel Noble Phantasm
 * Ranges: 0 / –
@@ -178,10 +181,28 @@ The silhouette that follows and is associated with Detective Holmes remains undi
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-226.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-227.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-228.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-229.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-230.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-231.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-232.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-233.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-234.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-235.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |

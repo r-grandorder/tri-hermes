@@ -1,6 +1,8 @@
-Note: [This material is translated by u/BananaShiki](https://www.reddit.com/r/grandorder/comments/gjfh6g/osakabehimes_servant_profile_from_fgo_material_vi/)
-
 # Osakabehime
+
+::: tip
+[This material is translated by u/BananaShiki](https://www.reddit.com/r/grandorder/comments/gjfh6g/osakabehimes_servant_profile_from_fgo_material_vi/)
+:::
 
 ## Info
 
@@ -94,6 +96,7 @@ She was worshiped as the indigenous god of the land of Himeji.
 ## Noble Phantasm(s)
 
 # Hakuro-jou no Hyakki Hachitendou-sama - Hachitendou-sama of the Hundred Demons of Hakuro Castle.
+
 - Rank: A+
 - Type: Anti-Fortress (Self)
 - Range: 1
@@ -247,11 +250,37 @@ I was told to draw Osakabehime as a shut-in so I tried to draw her different exp
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-066.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-067.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-068.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-069.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-070.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-071.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-072.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-073.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-074.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-075.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-076.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-077.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-078.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-079.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |
 

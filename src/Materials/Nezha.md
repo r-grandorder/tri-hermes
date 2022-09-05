@@ -1,6 +1,8 @@
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/eirzx2/nezhas_servant_profile_from_fgo_material_vi/)
-
 # Nezha
+
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/eirzx2/nezhas_servant_profile_from_fgo_material_vi/)
+:::
 
 ## Info
 
@@ -59,6 +61,7 @@ Nezha’s body was given to her by Shakyamuni Tathagata, and its adjustments wer
 ## Noble Phantasm(s)
 
 # Di Fei Shuang Ling – Huo Jian Qiang (The Clear Soul Flying to the Earth – The Fire-Tipped Spear)
+
 - Rank: A
 - Classification: Anti-Army Noble Phantasm
 - Range: 10~99
@@ -67,6 +70,7 @@ Nezha’s body was given to her by Shakyamuni Tathagata, and its adjustments wer
 A scorching charge attack where she rushes up to the sky with the hyper-acceleration of the Wind Fire Wheels, literally becomes one with her spear, and then descends for her assault. A powerful technique in which Prince Nezha, who assumed about fighting a decisive battle with the Great Sage Equal to Heaven/Sun Wukong, tries to pull out the power of the Noble Phantasm she has as a Lancer/the Fire-Tipped Spear to the maximum degree.
 
 # Sanmianliubi – Luo Xian Shou (Three Heads and Six Arms – The Overarching Immortal Beast)
+
 - Rank: A
 - Classification: Anti-Army Noble Phantasm
 - Range: 1~10
@@ -160,20 +164,38 @@ A mecha… Why in the world is Nezha a mecha?… Eventually, I took care of the 
 
 ## TL Notes:
 
-[1] – The Da Luo Xian are basically the highest tier of Immortals who reside in the Da Luo Tian (The Great Overarching Heaven, aka the highest point of the Taoist Heaven).
+* [1] – The Da Luo Xian are basically the highest tier of Immortals who reside in the Da Luo Tian (The Great Overarching Heaven, aka the highest point of the Taoist Heaven).
 As explained in Journey to the West, Nezha’s previous life being mentioned here (the one even before the time he was born to Li Jing and Lady Yin, his parents in the Earthly Realm) was him as a Divine Beast Immortal that served the Jade Emperor/the Taoist Shangdi.
-[2] – The first “master” mentioned here refers to the Japanese character ‘aruji’ (主) while the second [Master] mentioned here is ‘Masutaa’ (ますたー), which is mostly in hiragana instead of the usual katakana (マスター) because of her speech style.
-[3] – The Chinese concept of Hun and Po refers to two different souls that every human being has within them, and in Taoism, there are three Hun souls and seven Po souls. When one dies, their Hun souls would fly to Heaven and their Po souls would scatter to the Earth. This leads to the first part of Nezha’s 1st Noble Phantasm’s name: The Clear Soul Flying to the Earth. The Clear Soul is one of the three Hun souls, and the Noble Phantasm’s name references a proverb about Nezha’s threat that he issued once before where he will beat up someone to the point that their Clear Soul would get beaten out of them and fly to the Earth instead of normally flying to Heaven. One losing their Clear Soul means losing their intelligence. So basically, it’s Nezha knocking the sense out of someone.
-[4] – Taiyi Zhenren should be the Immortal of Mount Qianyuan, not Mount Kunlun.
-[5] – Nezha says 緑茶 [みどちゃ] (Green Tea/’Midocha’ in Romaji) here, which is a common Japanese abbreviation and pun for one of Robin Hood’s nicknames: Green Archer. Mido (short form of ’Midori’) = Green. Cha (from Archer, which is ‘Aacha’ in Romaji) = Tea. Green Tea = Green Archer.
+* [2] – The first “master” mentioned here refers to the Japanese character ‘aruji’ (主) while the second [Master] mentioned here is ‘Masutaa’ (ますたー), which is mostly in hiragana instead of the usual katakana (マスター) because of her speech style.
+* [3] – The Chinese concept of Hun and Po refers to two different souls that every human being has within them, and in Taoism, there are three Hun souls and seven Po souls. When one dies, their Hun souls would fly to Heaven and their Po souls would scatter to the Earth. This leads to the first part of Nezha’s 1st Noble Phantasm’s name: The Clear Soul Flying to the Earth. The Clear Soul is one of the three Hun souls, and the Noble Phantasm’s name references a proverb about Nezha’s threat that he issued once before where he will beat up someone to the point that their Clear Soul would get beaten out of them and fly to the Earth instead of normally flying to Heaven. One losing their Clear Soul means losing their intelligence. So basically, it’s Nezha knocking the sense out of someone.
+* [4] – Taiyi Zhenren should be the Immortal of Mount Qianyuan, not Mount Kunlun.
+* [5] – Nezha says 緑茶 [みどちゃ] (Green Tea/’Midocha’ in Romaji) here, which is a common Japanese abbreviation and pun for one of Robin Hood’s nicknames: Green Archer. Mido (short form of ’Midori’) = Green. Cha (from Archer, which is ‘Aacha’ in Romaji) = Tea. Green Tea = Green Archer.
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-106.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-107.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-108.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-109.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-110.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-111.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-112.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-113.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-114.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-115.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |
 

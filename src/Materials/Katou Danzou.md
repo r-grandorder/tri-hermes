@@ -1,6 +1,8 @@
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/ert51o/katou_danzous_servant_profile_from_fgo_material_vi/)
-
 # Katou “Black Kite” Danzou
+
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/ert51o/katou_danzous_servant_profile_from_fgo_material_vi/)
+:::
 
 ## Info
 
@@ -66,6 +68,7 @@ Since Katou Danzou is loaded with (the First) Fuuma Kotarou’s techniques, her 
 ## Noble Phantasm(s)
 
 # Karakuri Genpou – Dongyuu (Mechanical Illusion Art – Bull Swallowing)
+
 - Rank: C
 - Classification: Anti-Animal Noble Phantasm
 - Range: 0~20
@@ -74,6 +77,7 @@ Since Katou Danzou is loaded with (the First) Fuuma Kotarou’s techniques, her 
 A Mechanical Illusion Art where she produces a blade of vacuum, and after drawing the target(s) in, pulverizes them via air compression. Katou Danzou’s trump card. It is something that puts the genjutsu that swallowed up a bull – which was told in the “Hokuetsu Gundan” – to practical use. Because of the “Kashin Mystic Code” within her that Kashin Koji personally incorporated, it is endowed with a special attack property against demonic enemies. It is further feasible to utilize it as a genjutsu of “erasing bodies and objects before the people’s eyes” and “revealing erased bodies and objects before their eyes again” just like in the anecdotes.
 
 # Youjutsu Zanhou – Yuugao (Black Art Decapitation Method – Moonflower)
+
 - Rank: C
 - Classification: Anti-Personnel Noble Phantasm
 - Range: 0~20
@@ -175,11 +179,33 @@ I received the responsibility for Katou Danzou’s design. About the theme calle
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-054.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-054.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-054.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-054.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-054.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-054.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-060.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-061.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-062.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-063.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-064.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-065.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |
 

@@ -1,7 +1,8 @@
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/ClytonTranslations/comments/gjwiyp/mochizuki_chiyomes_servant_profile_from_fgo/)
-
 # Mochizuki Chiyome
 
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/ClytonTranslations/comments/gjwiyp/mochizuki_chiyomes_servant_profile_from_fgo/)
+:::
 
 ## Info
 
@@ -70,6 +71,7 @@ The ability to prune the opponent’s military strength in the preparation phase
 ## Noble Phantasm(s)
 
 # Kuchiyose – Ibuki Daimyoujin Engi (Summoning – The Origin of the Great God Ibuki)
+
 * Rank: C
 * Classification: Anti-Personnel Noble Phantasm
 * Range: 1~30
@@ -81,9 +83,9 @@ Through the curse associated with the legendary Kouga Saburou, who is considered
 
 ## Pronouns
 
-First Person Pronouns: sessha / watashi
-Second Person Pronouns: anata / kisama / oyakatasama [Lord] (to her Master)
-Third Person Pronouns: ○○-dono / ○○
+* First Person Pronouns: sessha / watashi
+* Second Person Pronouns: anata / kisama / oyakatasama [Lord] (to her Master)
+* Third Person Pronouns: ○○-dono / ○○
 
 ## Personality
 
@@ -148,12 +150,34 @@ A miko, a ninja, and a widow who possesses the Curse of the Serpent. Because her
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-018.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-019.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-020.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-021.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-022.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-023.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-024.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-025.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-026.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-027.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-028.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-029.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |
 
 

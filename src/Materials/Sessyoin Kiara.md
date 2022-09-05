@@ -1,7 +1,8 @@
-Note: [This material is translated by u/Konchew](https://www.reddit.com/r/grandorder/comments/99xs6n/the_profile_of_sesshouin_kiara_from_fategrand/)
-
-
 # Sesshouin Kiara
+
+::: tip
+[This material is translated by u/Konchew](https://www.reddit.com/r/grandorder/comments/99xs6n/the_profile_of_sesshouin_kiara_from_fategrand/)
+:::
 
 ## Info
 
@@ -455,10 +456,28 @@ Awright, Ms. Kiara~ let's make your final ascension amazing! And so -「a cross-
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-162.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-163.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-164.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-165.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-166.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-167.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-168.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-169.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-170.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-171.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |
