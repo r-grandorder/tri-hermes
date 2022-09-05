@@ -131,7 +131,7 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 | Enkidu | | [Interlude](Interludes/Enkidu.md) | |
 | Medusa (Lily) | | [Interlude](Interludes/Medusa%20Lily.md) | |
 | Jaguar Warrior | | [Interlude](Interludes/Jaguar%20Warrior.md) | |
-| Minamoto-no-Raikou | | [Material Profile](Materials/Minamoto%20no%20Raikou%20-%20Lancer.md) | |
+| Minamoto-no-Raikou | [Material Profile](Materials/Minamoto%20no%20Raikou%20-%20Lancer.md) | | |
 | Pārvatī | [Material Profile](Materials/Pārvatī.md) | [Interlude](Interludes/Pārvatī.md) | |
 | Houzouin Inshun | [Material Profile](Materials/Hōzōin%20Inshun.md) | [Interlude](Interludes/Houzouin%20Inshun.md) | |
 | Nezha | [Material Profile](Materials/Nezha.md) | [Interlude](Interludes/Nezha.md) | |
@@ -177,8 +177,8 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 | Mordred | | | |
 | Quetzalcoatl | | [Interlude](Interludes/Quetzalcoatl.md) | |
 | Christopher Columbus | [Material Profile](Materials/Christopher%20Columbus.md) | [Interlude](Interludes/Christopher%20Columbus.md) | |
-| Artoria Pendragon (Rider Alter) | | [Material Profile](Materials/Artoria%20Pendragon%20-%20Rider%20Alter.md) | |
-| Ishtar | | [Material Profile](Materials/Ishtar%20-%20Rider.md) | |
+| Artoria Pendragon (Rider Alter) | [Material Profile](Materials/Artoria%20Pendragon%20-%20Rider%20Alter.md) | | |
+| Ishtar | [Material Profile](Materials/Ishtar%20-%20Rider.md) | | |
 | Ivan the Terrible | | [Interlude](Interludes/Ivan%20the%20Terrible.md) | |
 | Achilles | | | |
 | Sakamoto Ryouma | | | |
@@ -231,7 +231,7 @@ Help needed to put together material profiles! [Template can be found here!](Mat
 | Merlin | | | |
 | Solomon | | | |
 | Scheherazade | [Material Profile](Materials/Scheherazade.md) | [Interlude](Interludes/Scheherazade.md) | |
-| Nero Claudius (Caster) | | [Material Profile](Materials/Nero%20Claudius%20Caesar%20-%20Caster.md) | |
+| Nero Claudius (Caster) | [Material Profile](Materials/Nero%20Claudius%20Caesar%20-%20Caster.md) | | |
 | Circe | [Material Profile](Materials/Circe.md) | [Interlude](Interludes/Circe.md) | |
 | Queen of Sheba | [Material Profile](Materials/Sheba.md) | [Interlude](Interludes/Queen%20of%20Sheba.md) | |
 | Anastasia | | [Interlude](Interludes/Anastasia%20Nikolaevna%20Romanova.md) | |

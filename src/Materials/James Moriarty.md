@@ -1,6 +1,8 @@
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/a3lpc7/james_moriartys_servant_profile_from_fgo_material/)
-
 # James Moriarty
+
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/a3lpc7/james_moriartys_servant_profile_from_fgo_material/)
+:::
 
 ## Info
 
@@ -158,6 +160,7 @@ On the occasion of the Shinjuku Phantom Spirit Incident, Baal, who had acted as 
 I was certainly not expecting that it would result in this many characters so far, like this suspicious old man who’s being given all sorts of nicknames such as Shincha[1], Shinjuku Ojisan and Around 50. His image that was being depicted at the time was cold-hearted and unjust, and he was designed with a calculating and intellectual image, but I’m taking my hat off to Mr. Writer who broke through that stereotype and obliged to write him as who he’s now fascinatingly! Truly amazing! Design-wise, the Ulysses butterflies are a metaphor for a frail victim and the shedding of a disguise during metamorphosis, the chameleon is a metaphor for camouflage, and the spiderweb in the background is a metaphor for a mastermind manipulating crimes from the center; a metaphorical old man. In addition, he’s also an old man whose True Name being hidden was not functioning very well for him. I can say it at last, but I came up with and depicted the orientation and pose in the drawings of Moriarty’s standing pose so that it turns out to be the opposite to Holmes’. (Honjou Raita)
 
 # Gray Collar Costume
+
 I challenged myself in wanting to draw a version of Moriaty with his hair down lol. This man has the mysterious character trait where he even puts on whatever kind of clothes he has and wears them in his own style, which is convenient for me, but I wonder what does he want, so even I can’t understand his motives… I noticed that after I finished drawing him, his standing posture has become a ballroom dancing pose. (Honjou Raita)
 
 ## Translator's Notes:
@@ -166,10 +169,28 @@ I challenged myself in wanting to draw a version of Moriaty with his hair down l
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-050.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-051.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-052.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-053.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-054.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-055.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-056.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-057.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-058.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-059.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |

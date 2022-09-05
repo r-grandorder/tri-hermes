@@ -1,6 +1,8 @@
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/a2rflr/scheherazades_servant_profile_from_fgo_material_v/)
-
 # Scheherazade
+
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/a2rflr/scheherazades_servant_profile_from_fgo_material_v/)
+:::
 
 ## Info
 
@@ -185,10 +187,32 @@ The final form of her weapon is my favourite, something like a 6-mounted launche
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-178.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-179.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-180.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-181.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-182.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-183.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-184.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-185.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-186.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-187.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-188.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-189.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |

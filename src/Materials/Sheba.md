@@ -1,7 +1,8 @@
-Note: [This material is translated by u/ComunCoutinho](https://www.reddit.com/r/grandorder/comments/dhzie6/caster_of_midrashs_servant_profile_from_fategrand/)
-
-
 # Queen of Sheba
+
+::: tip
+[This material is translated by u/ComunCoutinho](https://www.reddit.com/r/grandorder/comments/dhzie6/caster_of_midrashs_servant_profile_from_fategrand/)
+:::
 
 ## Info
 
@@ -157,15 +158,19 @@ She takes an incense burner made of gold to scatter incense smoke and manipulate
 ## Related Characters
 
 **David:** 
+
 Da…! Da!! You’re a king, stop playing the carefree shepherd. It takes a lot of nerve to be summoned and take the earnings without working-! It just gets more annoying because he’s half-competent-!
 
 **Abbigail:** 
+
 Lately she’s been less and less prone to calling me by the wrong name.Although that’s a tiny bit sad… I’m sure it’s for the best.
 
 **Gilgamesh:** 
+
 I’m the mysterious sexy secretary Dollarcent Pound! Whenever you have any work, I’ll come running to you, got it, presidente2?
 
 **Solomon:**
+
 Protecting this Chaldea and helping the Master are the priceless joys of my current life…
 
 ## Comments from the Djinns:
@@ -190,12 +195,42 @@ I am Itsuwa Katou, the character designer. I remember well putting a lot of ener
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-116.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-117.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-118.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-119.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-120.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-121.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-122.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-123.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-124.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-125.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-126.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-127.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-128.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-129.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-130.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-131.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |
 
 

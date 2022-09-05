@@ -1,6 +1,8 @@
-Note: [This material is translated by u/Konchew](https://www.reddit.com/r/grandorder/comments/9b03el/the_profile_of_meltryllis_from_fategrand_order/)
-
 # Meltryllis
+
+::: tip
+[This material is translated by u/Konchew](https://www.reddit.com/r/grandorder/comments/9b03el/the_profile_of_meltryllis_from_fategrand_order/)
+:::
 
 ## Info
 
@@ -246,15 +248,15 @@ She declares her love as just with a high-handed attitude.
 
 She has no intention to discuss,
 
-                                                      (she loves you so much that she no longer feels the need for something like that)
+	(she loves you so much that she no longer feels the need for something like that)
 
 She has no desire to touch each other,
 
-                                                                (she is no longer satisfied with pleasure of such magnitude)
+		(she is no longer satisfied with pleasure of such magnitude)
 
 She does not feel like informing you of her wish to be loved.
 
-                                                                                                (Such mutual understanding is no longer necessary)
+			(Such mutual understanding is no longer necessary)
 
 
 
@@ -419,11 +421,33 @@ I gave her a head and body. Then she was given a metal bikini that's no good in 
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-118.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-118.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-120.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-121.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-122.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-123.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-124.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-125.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-126.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-127.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-128.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-129.jpg?raw=true)
 
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |

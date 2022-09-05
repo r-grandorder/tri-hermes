@@ -1,23 +1,30 @@
 # Mash Kyrielight
 
-Note: [This material is translated by u/kinalvin](https://redd.it/cmyy65)
+::: tip
+[This material is translated by u/kinalvin](https://redd.it/cmyy65)
+:::
 
-> Class: Shielder    
-> True Name: Cannot be inquired due to a lack of a summoned form    
-> Sex: Female    
-> Source: Fate/Grand Order    
-> Region: Chaldea    
-> Alignment: Lawful Good    
-> Height: 158cm    
-> Weight: 46kg    
+## Info
 
+**Bio-Data**
 
-> Character Creator: Nasu Kinoko    
-> Character Designer: Takeuchi Takashi    
-> Character Voice: Taneda Risa    
-> Major Appearances in Main Works: Fate/Grand Order    
+* Class: Shielder    
+* True Name: Cannot be inquired due to a lack of a summoned form    
+* Sex: Female    
+* Source: Fate/Grand Order    
+* Region: Chaldea    
+* Alignment: Lawful Good    
+* Height: 158cm    
+* Weight: 46kg    
 
----
+**Meta**
+
+* Character Creator: Nasu Kinoko    
+* Character Designer: Takeuchi Takashi    
+* Character Voice: Taneda Risa    
+* Major Appearances in Main Works: Fate/Grand Order    
+
+## Stats
 
 | Parameters | Values |
 |:--------|:--------:|
@@ -72,10 +79,10 @@ This seems to be a Skill not from the Noble Phantasm itself, but rather from the
 
 **Lord Chaldeas: Imaginary Noble Phantasm – Pseudo-Deployment/The Cornerstone of the Human Order**    
 
-> Rank: D    
-> Classification: Anti-Personnel Noble Phantasm   
-> Range: 1    
-> Maximum Number of Targets: —    
+* Rank: D    
+* Classification: Anti-Personnel Noble Phantasm   
+* Range: 1    
+* Maximum Number of Targets: —    
 
 Something named by Olgamarie Aminusphere. The Noble Phantasm Mash deploys according to her instincts without the True Name of the Heroic Spirit who possessed her being known to her as she is now. It expands a strong protective barrier in front of her. It appears that being crowned with the name Chaldeas is from the wish that lies within Mash’s foundation, the wish called “*To see the future of humanity.*”
 

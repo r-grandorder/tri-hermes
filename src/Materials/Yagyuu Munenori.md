@@ -1,7 +1,8 @@
-Note: [This material is translated by u/Smoof101](https://www.reddit.com/r/grandorder/comments/h7nihr/yagyuu_tajimanokami_munenoris_servant_profile/)
-
 # Yagyuu Tajima-no-Kami Munenori
 
+::: tip
+[This material is translated by u/Smoof101](https://www.reddit.com/r/grandorder/comments/h7nihr/yagyuu_tajimanokami_munenoris_servant_profile/)
+:::
 
 ## Info
 
@@ -61,6 +62,7 @@ A secret elucidated by Yagyuu Sekishuusai, devised by the master swordsman, Kami
 ## Noble Phantasm(s)
 
 # 『Peerless in Swordsmanship・Zen and the Sword as One (Kenjutsu Musou・Kenzen Ichinyo)』
+
 - Rank: A
 - Type: Anti-Unit Secret Technique
 - Range: 0~10
@@ -180,11 +182,33 @@ Since he gives a strong impression of “an icy, rational man,” his facial exp
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-042.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-043.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-044.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-045.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-046.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-047.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-048.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-049.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-050.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-051.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-052.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-053.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |
 

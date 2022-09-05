@@ -1,6 +1,8 @@
-Note: [This material is translated by u/ton-ji-chi](https://brokasteltranslations.tumblr.com/post/181516070885/fgo-character-material-berserker-of-el-dorado)
-
 # PENTHESILEA
+
+::: tip
+[This material is translated by u/ton-ji-chi](https://brokasteltranslations.tumblr.com/post/181516070885/fgo-character-material-berserker-of-el-dorado)
+:::
 
 ## Info
 
@@ -37,20 +39,25 @@ Note: [This material is translated by u/ton-ji-chi](https://brokasteltranslation
 ## Class Skills
 
 **Madness: EX**
+
 A skill that greatly augments the user’s physical abilities, but claims their rationality in exchange. Penthesilea can be communicated with under ordinary circumstances, but what sanity she possesses is obliterated before Achilles. The same occurs to some degree when she confronts any Greek hero, and her trauma is so ingrained that even just being called beautiful might cause her mind to crumble.
 
 **Divinity: B**
+
 As a daughter of Ares, the Greek god of war, she possesses the Divinity skill.
 
 ## Personal Skills
 
 **Charisma: B**
+
 Penthesilea naturally possesses the capacity to command a warband. After the death of Hector, as queen of her people she rushed to Troy’s defence at the head of twelve mighty Amazonesses.
 
 **Golden Rule (Beauty): A**
+
 She is fated to grow to possess beauty enough to rival a goddess, regardless of her upbringing. At the battlefield at Troy, she was indeed often mistaken for a deity. That is why, when Achilles stripped her of her helm…
 
 **Howl of the War God: A+**
+
 A mighty roar, called forth by the the blood of Ares that courses through her veins. All those who stand with her as fellow warriors are blessed with valour, as though they were led by the war god himself. The war cry of the Amazons was said to have shaken the Aechaeans to their core.
 
 “Increased attack vs Males of Greek Mythology” in practice means that, because any opponents who ‘smell’ like Achilles may in fact be Achilles, Penthesilea judges them fit for slaughter and fights all the harder. Whether it applies is determined by whether or not the target has this ‘scent’.
@@ -173,27 +180,35 @@ Hence, the Penthesilea summoned to Chaldea manifests as she was during her youth
 ## Related Characters
 
 **XXXXXXXX:**
+
 [Unprintable. Just seeing the name would drive her berserk.]
 
 **Theseus:**
+
 “The man who stole my little sister away to become his bride – and in the end cast her away. He deserves death.”
 
 **Heracles:**
+
 “The man who sought to steal my elder sister’s girdle, only to kill her instead. He deserves death.”
 
 **Hippolyta:**
+
 “My beloved elder sister.”
 
 **Hector:**
+
 “I regret that I was slow to ride to your aid, but you should have held out for longer. You were a warrior, were you not? I hear tell that your corpse was paraded around by him after your death. Perhaps you should be a little more willing to speak ill of him in public.”
 
 **Artemis:**
+
 “What a piteous sight…I cannot possibly tell my mother of this.”
 
 **Aesclepius:**
+
 “You have my gratitude for returning my nephew Hippolytus to life. But perhaps you should learn to stay your tongue a little.”
 
 **Online shoppers:**
+
 ““Sorry we missed you…scheduling redelivery”? What does that mean?”
 
 ## Comment from the Illustrator
@@ -202,10 +217,32 @@ When I met Takeuchi-san, he said to me to please draw a female Servant around 14
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-200.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-201.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-202.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-203.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-204.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-205.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-206.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-207.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-208.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-209.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-210.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-211.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |

@@ -1,6 +1,8 @@
-Note: [This material is translated by u/Konchew](https://www.reddit.com/r/grandorder/comments/99cqy4/the_old_man_of_the_mountains_profile_from/)
-
 # "The Old Man of the Mountain"
+
+::: tip
+[This material is translated by u/Konchew](https://www.reddit.com/r/grandorder/comments/99cqy4/the_old_man_of_the_mountains_profile_from/)
+:::
 
 ## Info
 
@@ -308,16 +310,39 @@ If Chaldea were to be involved with the "Land of Death" once again and she was a
 When it comes to his outward appearance, first was the impression of a "Knight Hassan" so the first draft gave off the feeling a knight in full armor equipped with the mask the other Hassans wear, but he received a revision to strengthen the elements of "Grim Reaper" and "skull", resulting in his current appearance. Anyway, I am delighted that I could cram all the elements I like into him. (Ryota-H)
 
 ## Translation Notes:
+
 [1] This line might be a bit confusing since the TYPE-MOON wiki and the FGO wiki translates "信仰の加護" as "Protection of the Faith", but "加護" should be translated as "divine protection".
 
 [2] Gotta love the Japanese word ("老婆心") for "concern" here. It's made up of the kanjis for "old", "old woman/grandma" and "heart/mind".
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-026.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-027.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-028.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-029.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-030.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-031.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-032.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-033.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-034.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-035.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-036.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-037.jpg?raw=true)
 
 ## Dialogue
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |

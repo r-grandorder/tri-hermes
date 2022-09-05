@@ -3,11 +3,12 @@
 When finished with a profile, send the file to Lib or [do a pull request](https://github.com/r-grandorder/tri-hermes/tree/main/src/Materials)
 
 ```
+# ServantName
+
 ::: tip
 Note: [This material is translated by X](Link to translation)
 :::
 
-# ServantName
 
 ## Info
 
@@ -129,6 +130,6 @@ Note: [This material is translated by X](Link to translation)
 
 | Occassion | English | Japanese |
 |:--------|:--------:|:--------:|
-| Summoned | blahblah | 何とか何とか |
+| Summoned |  |  |
 ```
 

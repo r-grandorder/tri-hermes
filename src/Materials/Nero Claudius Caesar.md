@@ -154,6 +154,25 @@ In “Fate/EXTRA”, the Protagonist there, as Nero’s contractor, was branded 
 
 The first one I drew in the beginning was Nero, and because this person was used as the standard for my incremental changes between Ascensions, whenever I look over them now, they’re somewhat simple changes don’t you think? The fact is, I was giving into the temptation that I will draw Roman-style buildings and the Golden Theater as her background, but there’s also a worry where I wondered if they would be a bit too pompous in contrast with her rarity, and also, I wondered if it was alright to have her be at least the first person to give off the feeling that she came from EXTRA, so since I considered those, I decided on a sea of electrons as her background. I’m pleased with the drawing of her Final Ascension. (Wadarco)
 
+
+## Material Images
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-042.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-043.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-044.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-045.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-046.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-047.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-048.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-049.jpg?raw=true)
+
 ## Dialogue
 
 | Occassion | English | Japanese |
