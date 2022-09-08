@@ -2,7 +2,7 @@
 
 
 
-## Scene 00
+## Scene 00 A ray of hope
 
 
 
@@ -390,337 +390,7 @@ That man should know what's inside the Holy Grail――――!
 
 ---
 
-## Scene 01
-
-
-
-"――――――――What?"
-
-The first thing I feel after returning home is an icy chill.
-
-Nothing's wrong, and there's no sign of danger.
-
-But I have a bad feeling.
-
----
-
-There's nobody in the living room.
-
-Illya is sleeping in her room.
-
-Tohsaka is preparing for the projection in her room.
-
-Sakura is――――
-
----
-
-"I'm coming in, Sakura."
-
-I call out and place my hand on the doorknob.
-
-―――I feel a cold sensation on my back.
-
-I shake off my uneasiness and open the door.
-
----
-
-"Sakura."
-
-"......!"
-
-I see Rider for a second, but her figure disappears.
-
-Behind her...
-
-The bed which Sakura should be in is empty.
-
----
-
-"――――!"
-
-The light turns on.
-
-"Wha――――"
-
-I look around in surprise.
-
-"Welcome back. I won't ask where you were, but you certainly took your time."
-
----
-
-"Tohsaka...? What is this――――?"
-
-"Isn't it obvious? Sakura went out by herself, and Rider has been glaring at me until now.
-
-...I guess she's under orders not to hurt you. She switched to spirit form and ran out as soon as you came in."
-
----
-
-"Wha――――"
-
-Tohsaka sounds calm.
-
-...No, that's not it.
-
-Her voice doesn't sound calm.
-
-Her tone is one of cold disinterest, as if she's given up on something.
-
----
-
-"――――Tohsaka. Sakura really went out...?"
-
-"It's true. She was gone before you left, so it's already been two hours.
-
-I don't know what her intentions are, but I guess she doesn't want to follow our directions. She had Rider stop me from going after her, so she must not want us to know what she's doing."
-
----
-
-"Don't be stupid...! Sakura wouldn't hide things... from... us――――"
-
-I can't say for certain.
-
-...Sakura's nightmare.
-
-I have no idea what Sakura thought about her deteriorating body.
-
----
-
-"We have to bring her back...! If we leave her alone, it'll..."
-
-"There may be victims. She might drain magical energy from anyone she sees, like when she attacked me at school.
-
-No one was attacked by the shadow last night, right? So she must be hungry."
-
----
-
-"――――――――――――Tohsaka."
-
-Tohsaka looks away and swallows her words.
-
-Her eyes say to give up,
-
-telling me it's all over.
-
----
-
-"Tohsaka, you..."
-
-"We can look for Sakura. I agree with that.
-
-But―――once we find her... You know what to do if Sakura isn't herself anymore, right?"
-
----
-
-"―――That's not possible. Sakura will always be Sakura."
-
-"Are you insane? Can't you tell she's at her limit? Give up already, Shirou. If you keep protecting her, you'll be the first one to die――――"
-
----
-
-"We can make stupid speculations later. We need to find Sakura and bring her home right now. After that I'll argue with you as long as you like, so shut up for now...!"
-
-"Hey, wait, Shirou――――!"
-
----
-
-I run through the hallway.
-
-I don't have time to wonder where Sakura went.
-
-'――――It's over now, Shirou.'
-
----
-
-I run outside at full speed, as if denying her words.
-
----
-
-"Shirou. Are you going to go look for Sakura?"
-
-"――――"
-
-Then.
-
-Someone unexpected calls to me from behind.
-
----
-
-...When did she come here?
-
-Illya is watching me from a distance, as if there's a wall between us.
-
----
-
-"...Illya."
-
-"Tell me, Shirou. Are you going to go look for Sakura?"
-
-"――――――――"
-
-I nod.
-
-Illya's voice is tense.
-
-The despair in her voice is different from Tohsaka's. As a Holy Grail, Illya must understand what condition Sakura is in.
-
----
-
-"I see. But Shirou, Sakura went outside by herself because she didn't want you to see her. She's scared and doesn't want to die, but she still chose to end herself in order to protect you.
-
-The Sakura you like doesn't exist anymore. She went out by herself to eliminate herself."
-
----
-
-"――――――――"
-
-Illya looks straight at me.
-
-I meet her gaze and shake my head.
-
-I won't let that happen.
-
-Even if Sakura isn't Sakura anymore, there's only one thing I'm going to do.
-
----
-
-"......I see. But Shirou. Both Sakura and I have another self in us. It's probably not the Illya you know, and it's not the Sakura you know.
-
-Sakura won't come back. She'll just be a different person after she changes.
-
-But you still refuse to kill her?"
-
----
-
-A quiet question.
-
-This is what Illya really means.
-
-The Holy Grail is made with the premise of it breaking down.
-
-So I don't need to hesitate about destroying it.
-
-But to me, it sounds like she's talking about herself rather than about Sakura.
-
----
-
-"Shirou. Let me ask you one more time.
-
-Are you still going to go look for Sakura?"
-
-"........."
-
-I don't know how much emotion her question carries.
-
-So I honestly tell her the path I chose.
-
----
-
-"Yes, I'm going to go look for her. Sakura will always be Sakura to me. The same goes for you. Even if you turn into a mysterious thing like a Holy Grail, you'll still be Illya."
-
----
-
-"...No matter how much you may have changed.
-
-If Illya is inside you, you'll be the Illya I know."
-
----
-
-"――――"
-
-"I don't know about difficult things. That's all I care about."
-
----
-
-I put my hand on the door.
-
-"...It's Zouken's place. That's the only place Sakura would go to."
-
-I hear her behind me.
-
-"All right. Please wait here, Illya. I'll go find Sakura and bring her back right away."
-
----
-
-I leave.
-
-Illya stays standing in the hallway, as if seeing off something very far away.
-
----
-
-I reach the Matou household.
-
-I'm not out of breath.
-
-My body has to be tired from all the running, but it doesn't complain to me at all.
-
----
-
-"...It's open."
-
-I stop before I ring the doorbell.
-
-...Did someone go in or come out?
-
-The front door is half open, and it's dead quiet inside.
-
----
-
-I don't feel any human presence.
-
-The Matou household is gloomier than yesterday.
-
----
-
-There's nobody on the first floor.
-
-My footsteps echo through the hallway.
-
-The floor creaks as I make my way to the stairs.
-
----
-
-There's nobody on the second floor.
-
-I see the sky through the glass above the landing.
-
-Once I make my way to the top, I'm able to tell that there's no living person on the second floor.
-
----
-
-I turn to go back downstairs, but I stop.
-
-A living person.
-
-The strange feeling makes me head to the room with a slightly-opened door.
-
----
-
-――――It's Sakura's room.
-
-I've seen it once before.
-
-But I've never actually gone in there before.
-
-It's because Sakura pushed us out with a red face when Shinji led me here.
-
----
-
-I think that was two years ago.
-
-Nothing's changed.
-
-A girl's room. It's a simple room suited for Sakura.
-
-And on the bed...
-
-"――――Shinji."
-
-...Is the corpse of Matou Shinji.
-
----
-
-## Scene 02
+## Scene 01 Foolish
 
 
 
@@ -852,711 +522,7 @@ Rin relaxes, looks down, and...
 
 ---
 
-## Scene 03
-
-
-
-"Shinji."
-
-Shinji's corpse is on the bed.
-
-There's nothing else.
-
-What happened here?
-
-There's no way I would know, but...
-
-"――――Sakura."
-
-...Somehow, I can tell that Sakura killed him.
-
----
-
-"............"
-
-I can't think.
-
-Shinji's corpse.
-
-Sakura's whereabouts.
-
-It's only been half a day since I embraced Sakura, so how did it end up like this?
-
----
-
-"Oh. So it is the Emiya boy.
-
-I would like to commend you for coming here, but it seems you were a bit too late."
-
----
-
-"――――!"
-
-I turn around at the sudden voice.
-
----
-
-"......!"
-
-There's no one behind me.
-
-I know there's nobody in this house.
-
-Zouken's voice is echoing through the room even though he's not here.
-
----
-
-"Zouken...! What did you do to Sakura...!?"
-
----
-
-"I did nothing. As you can see, my unworthy grandson tried to violate her and was killed instead. It's nothing to make a fuss over.
-
-But―――this will be the last time I call him an unworthy grandson.
-
-He was useless, but he fulfilled his role in the end."
-
----
-
-He laughs.
-
-I can't see the old magus, but I'm sure he's laughing with a hideous face.
-
----
-
-"Shinji's role...?"
-
-"Yes. I cannot make her put her mind to it. She hates me too much. So I had to have you or Shinji break her down.
-
-I needed Sakura to feel despair in this world to have her accept her own shadow."
-
----
-
-"Wha――――"
-
-"Oh, my. It was my mistake. I took her emotional strength too lightly. I expected her to break easily, but she would never do so on her own.
-
-It seems torturing her for a long time had its flaw. I did not expect her to become so persistent."
-
----
-
-"You――――――――"
-
-My nerves condense.
-
-Before I even understand what he's saying, I clench my right fist, open my Magic Circuit, and...
-
----
-
-"Well, if I am to be greedy, I wanted you to betray her. She would not have awakened incompletely, but her body and mind would have completely turned into the shadow in that case!
-
-But that is only a matter of time.
-
-With Shinji's death, she has finally accepted her position. I need only watch over her now. She will follow her instincts to feed on people, and destroy herself from overeating.
-
-My work comes after th――――"
-
----
-
-I punch the wall.
-
-With all my might, I lash out at the darkness where the voice is coming from.
-
-I unconsciously fill my hand with magical energy, which is transmitted into the wall and sweeps the darkness from the room.
-
----
-
-"My, how frightening. The worms I left to keep watch over this place have been crushed. Haha, soon my voice will no longer reach you."
-
-"――――Shut up and get out here, Zouken...! I'll rip you to pieces...!"
-
----
-
-"Well, I am afraid I cannot do that. The goal the Makiri have sought for five hundred years is within my grasp.
-
-I cannot be killed now, yet I'm not so ungrateful as to kill you."
-
----
-
-"Ungrateful...? Shut up! When did I do anything for you...!?"
-
----
-
-"You did. You raised Sakura. Before, she merely endured, but you taught her how to desire others.
-
-Yes, I appreciate what you did, Emiya Shirou. This ritual was a success because of you.
-
-That is why I will not kill you. I need you to see her after she matures...!"
-
----
-
-"Zou... ken."
-
-"Kaka, nobody can stop her now. She has killed her brother, so she cannot turn back.
-
-She will take in Archer's soul from Einzbern's Holy Grail and steal the key to reach the gate.
-
-That will be the end. Makiri's earnest desire, the reproduction of the Third True magecraft, will be achieved...!"
-
----
-
-The annoying laugh echoes through the room.
-
-I――――
-
----
-
-## Scene 04
-
-
-
-"――――――――"
-
-Hold on.
-
-Steal Einzbern's Holy Grail...?
-
-"――――!"
-
----
-
-I run.
-
-I don't care about the laughter.
-
-I'm sure he's watching me from a safe place.
-
-There's no time to let an old man's drivel get to me――――
-
----
-
-"That's right. Hurry, Emiya Shirou!
-
-Sakura has turned dark. Once she captures Illyasviel, she will swallow her without mercy...!"
-
-"――――!"
-
----
-
-I kick the ground hard enough to tear my legs off.
-
-"Please be all right, Illya――――!"
-
-It'll take twenty minutes to get to my house, even if I run full-speed.
-
-I glare at the gray sky and run frantically back to Illya.
-
----
-
-## Scene 05
-
-
-
-"Zouken......!!!!"
-
-I'll settle it now.
-
-Zouken should be somewhere in this house. I'll find him and kill him...!
-
----
-
-"Damn it, where are you, you old bastard...!?"
-
-I can't find him anywhere in the house.
-
-His presence is fading by the second.
-
-"Oh, my. You must be blinded by your anger.
-
-I thought you would be smarter."
-
----
-
-Even his laughing voice is fading away.
-
----
-
-"Haa――――Haa, haa, ha――――"
-
-...Zouken's not here.
-
-He wasn't in this house to begin with.
-
-He's a worm user. The only ones here are his worms...!
-
----
-
-"Are you satisfied now? Then go home, Emiya Shirou.
-
-Sakura will soon swallow Illyasviel. If you do not hurry, you will not be there for the birth of the monster you raised."
-
-"You old bastard...!"
-
----
-
-I kick the ground hard enough to rip my legs off.
-
-Giving in to my anger wasted too much time.
-
-It'll take twenty minutes to get to my house, even if I run full-speed.
-
-―――Will I make it?
-
-I have to head back to my house before Sakura finds Illya―――!
-
----
-
-## Scene 06
-
-
-
-The girl is looking up at the sky.
-
-The gray sunlight dulls her silver hair and red eyes.
-
-"...Yeah. I have to tell Shirou once he comes home."
-
-Illyasviel talks to herself.
-
----
-
-The Emiya household is quiet.
-
-Shirou and Rin went to find Sakura.
-
-Rider, naturally, is nowhere to be seen, leaving Illya as the only one here.
-
-"―――The giant cavern. The promised land built two hundred years ago. From the feel of it, it's already activated."
-
-This is the fifth Holy Grail War in Fuyuki.
-
-The Holy Grail has been summoned into different places each time, but it has returned to the original site for this war.
-
----
-
-It's only natural.
-
-They use one of the gates located at the four compass points, and move on to the next when one fails.
-
-The first was the Ryuudou Temple.
-
-The second was the Tohsaka household.
-
-The third was the church on top of the hill.
-
-The fourth was that burned field.
-
-Then this summoning returns to the site of the first.
-
-The point of origin.
-
-The false utopia that sets the rules of the Holy Grail War.
-
----
-
-"――――A Holy Grail filled with the souls of heroic spirits.
-
-Using it to open the gate is the very miracle they aimed for... But I didn't expect its contents to come out before the gate had been opened."
-
-Illya murmurs in disbelief.
-
-This is far away from the Einzbern's dearest wish.
-
-They have failed.
-
-The disaster that will be born is a far cry from what they wished for.
-
----
-
-"...I can just leave it be. My role is to open it. Nobody told me anything about closing it."
-
-And she couldn't possibly close it, even if she tried.
-
-Matou Sakura excels her in ability as the Holy Grail.
-
-Einzbern's Holy Grail cannot do anything to the gate opened by Makiri's Holy Grail.
-
-Matou Zouken thinks he opened the same gate, but in reality, he opened a completely different one.
-
-The only ones aware of this are the Holy Grails: the girl and Matou Sakura.
-
----
-
-"―――Will Shirou make it? I could run away with him if he does."
-
-She looks up at the sky.
-
-The girl is wavering.
-
-She doesn't know whether to choose the role imposed on her or the desire born from within her.
-
----
-
-"But Shirou. It makes no difference to the fact that I'm going to die."
-
-The result is the same.
-
-Regardless of whether she goes to the gate as the Holy Grail or runs away, she will die.
-
-Which is her true self? She asks the gray sky for an answer.
-
----
-
-"――――――――"
-
----
-
-That's why she doesn't notice.
-
-The person who came through the door with an "I'm home."
-
-Did she slip through the boundary field, or did it not consider her a trespasser?
-
----
-
-"――――――――"
-
----
-
-Slowly.
-
-She moves from the living room to the yard without a sound, then reaches out to the girl sitting at the porch.
-
-"―――You're home late, Sakura. Where were you?"
-
----
-
-"――――Nee-san..."
-
-The trespasser, Matou Sakura, stops her hand.
-
-She looks away from Illya and to Tohsaka Rin, who has been waiting for her in the yard.
-
----
-
-"Get away from Illya. I'll shoot you down if you get any closer to her."
-
-Everyone here knows it's no empty threat.
-
-"――――It's useless. Well, go ahead if it'll satisfy you, Rin."
-
-Illyasviel starts walking without showing any surprise.
-
-The girl walks to the edge of the yard, as if to watch over the two's confrontation.
-
----
-
-"...I see. You were waiting here all along, Nee-san. You knew I was coming for Illya-chan."
-
-"Yeah. I don't have a reason to save you, unlike Shirou. It was obvious that you'd come to kidnap Illya when the time came. You've done it once before, so I'd be foolish not to keep an eye on her."
-
----
-
-Sakura's brows twitch at Shirou's name.
-
-Showing unhappiness.
-
-She shows undisguised hatred that would surprise anyone who knew her previous self.
-
----
-
-"...That's terrible. You're always like that, Nee-san. You always make fun of me. You're beautiful, so you look down on me because I'm dirty.
-
-You're absolutely hateful. Nee-san. Am I that bad of a person?"
-
-Her voice contains no emotion.
-
-The question alone should send a chill up anyone's spine.
-
----
-
-"Of course. You're a big idiot who gave up her chance to be saved the instant she stepped out of this house. You didn't trust the person that Matou Sakura wanted to protect."
-
-But Tohsaka Rin gives a firm reply.
-
----
-
-"Oh――――――――"
-
-Sakura looks down.
-
-As if acknowledging the truth of her mistake.
-
----
-
-"But I..."
-
-"Don't say you thought it was for the best. We told you not to go outside. If you had any objections, you should've come and talked with us first.
-
-But you went without saying anything. You went alone and made the same mistake you always made.
-
-Unbelievable. People take advantage of you because you can't do something as simple as that."
-
----
-
-"...You're right. I was definitely like that until now.
-
-But Nee-san. I'm not weak anymore. You're the one who can stay in the house now. I'll protect Senpai."
-
-Her cold stare, the emitting ominous shadow...
-
-"――――――――"
-
-Realizing that it's as she feared, Rin takes a step back.
-
----
-
-――――Not knowing...
-
-That her hesitation is the last trigger that drives Matou Sakura.
-
----
-
-"...What's wrong, Nee-san? Curling your back like that makes it look like you're scared of me."
-
-"――――――――"
-
-It's too late when she clucks her tongue.
-
-......No.
-
-It's not too late or anything.
-
-When Sakura reached for Illyasviel, it was already too late.
-
----
-
-"......I see. So you don't intend to stay quietly in your room anymore?"
-
-"No. I don't need to listen to what you say anymore."
-
----
-
-"――――Because I'm stronger."
-
----
-
-The shadow dances.
-
-Many shades of darkness emerge from the ground below Sakura and engulf the yard.
-
-And from the shadow...
-
-"Sakura, you――――"
-
-...Emerges a swordsman who is contaminated in black.
-
----
-
-"Saber, capture the Holy Grail. If she tries to resist, go as rough as you like."
-
-"――――――――"
-
-Black Saber obeys without a word.
-
-...There's no doubt about it.
-
-What that shadow is.
-
-Tohsaka Rin bites her lip, seeing what kind of fate awaits a Servant swallowed by the mud.
-
----
-
-At that instant.
-
-"!"
-
-"Hah――――!"
-
-A merciless attack.
-
-A shadow with magical energy far surpassing that of Tohsaka Rin is fired.
-
----
-
-"......!"
-
-She rolls as she lands.
-
-The fired shadow is on the same level as the black shadow.
-
-It'll be the end if it touches her.
-
-If it even grazes her, it will stick to her skin, covering her in an instant.
-
-――――And after that.
-
-If Tohsaka Rin is swallowed by the mud that even a Servant cannot escape, she will be absorbed without hope of resistance.
-
----
-
-"Damn......!"
-
-The black tentacles whip towards her in rapid succession.
-
-Rin realizes that the attacks are not from the black shadow, but a magecraft Sakura possesses.
-
-That magecraft of Matou is to bind others.
-
-But Sakura is originally from the Tohsaka family―――a shadow-user with an origin of the imaginary element, the imaginary number.
-
-Matou Sakura is able to embody the black shadow to that degree because she has both of those attributes――――!
-
----
-
-"......!!!!"
-
-She's easily cornered.
-
-Their magical energy capacities are too unevenly matched.
-
-Sakura's magical energy is infinite.
-
-Her capacity reaches a hundred million.
-
-To Rin, whose capacity is a mere three hundred, Sakura is a monster.
-
----
-
-She controls both the black shadow and Saber, who has the greatest magical energy out of all the Servants.
-
-...Even a Servant will not be able to match such a monstrous magus.
-
----
-
-".........This is bad. Her magecraft's simple, but our energy capacity is too different――――"
-
-She stares at what Sakura has become, gasping for breath.
-
-...She has no chance of winning, and she cannot escape.
-
-It'd be a different story if she had a source of magical energy like the Holy Grail, but she doesn't have such a thing.
-
----
-
-"...Well, no magical energy source in the world can match the Holy Grail."
-
-She suppresses her frustration by grumbling.
-
-"Oh, you can't do that, Nee-san. It's dangerous if you stop there."
-
-Sakura points her hand at Rin without hesitation.
-
----
-
-There's no mercy.
-
-Sakura smiles, enjoying the absolute dominance.
-
-"Now――――let's play more, Nee-san.
-
-I know you'll be caught in the end, but please keep running until then."
-
-She smiles at her beloved sister.
-
----
-
-The result is as obvious as she says.
-
-Rin cannot get away from the shadow.
-
-Sakura can quickly cover the whole house with the shadow if she wishes.
-
-As Sakura slowly expands the extent of the shadow, Rin is defeated without being able to do anything.
-
----
-
-"――――Ah, ah――――............"
-
-The black shadow covers Tohsaka Rin.
-
-The gel-like mud tightly binds Rin's body, turning into numerous tongues to invade her Magic Circuit.
-
----
-
-"Oh, is that all? You're not as strong as I thought, Nee-san."
-
-She looks down at her helpless sister.
-
-―――Wild breathing and heated cheeks.
-
-Her older sister is covered with heavy oil, exciting even Sakura, who is of the same sex.
-
----
-
-"――――Sa... kura――――"
-
-Her face is left uncovered, perhaps because Sakura wants to enjoy her pain.
-
-"――――You―――――........."
-
-Rin swallows her contempt and glares back at Sakura.
-
-But that's only for a few seconds.
-
-The mud that stirs her body violates her internal organs.
-
----
-
-"Kuh...! Ahh, haa――――........."
-
-"Fufu. Then I'll be having you now. I was looking forward to this. This will be the first time I've eaten magical energy from a magus."
-
-The gel-like shadow tightens around Tohsaka Rin.
-
-The "meal" doesn't even last a second.
-
----
-
-"Ah...... Hm――――――"
-
-"......It's good. I'm not full at all, but it helps a bit."
-
-The last traces of magecraft fade from Tohsaka Rin.
-
-That's the end.
-
-Head down and chest heaving, Rin has no power to resist.
-
-She has no way to fight back, but――――
-
----
-
-"――――That won't do. I have to kill her here, or I..."
-
-Will lose to Nee-san.
-
-...It's a groundless assumption.
-
-The difference in their powers will never be overturned.
-
-But Sakura is firmly convinced that she will lose if they fight again.
-
----
-
-So she has to kill her here.
-
-Taking her magical energy and leaving her powerless isn't enough.
-
-She has to kill Rin here, just as Rin tried to do to her.
-
-She tries to convince herself as she opens her palms.
-
----
-
-"Nee-san, you――――"
-
-The shadow doesn't extend.
-
-She trembles, gaze focused on her weakened sister, and...
-
-"Sakura――――!!!!!!"
-
-The person she least wants to see catches up to her.
-
----
-
-## Scene 08
+## Scene 02 Trash
 
 
 
@@ -1760,7 +726,7 @@ Right when I realize it's Nii-san and turn around...
 
 ---
 
-## Scene 09
+## Scene 03 What is hidden in the Holy Grail
 
 
 
@@ -2602,7 +1568,662 @@ I have to quickly go back to Sakura.
 
 ---
 
-## Scene 10
+## Scene 04 Matou household murder case
+
+
+
+"――――――――What?"
+
+The first thing I feel after returning home is an icy chill.
+
+Nothing's wrong, and there's no sign of danger.
+
+But I have a bad feeling.
+
+---
+
+There's nobody in the living room.
+
+Illya is sleeping in her room.
+
+Tohsaka is preparing for the projection in her room.
+
+Sakura is――――
+
+---
+
+"I'm coming in, Sakura."
+
+I call out and place my hand on the doorknob.
+
+―――I feel a cold sensation on my back.
+
+I shake off my uneasiness and open the door.
+
+---
+
+"Sakura."
+
+"......!"
+
+I see Rider for a second, but her figure disappears.
+
+Behind her...
+
+The bed which Sakura should be in is empty.
+
+---
+
+"――――!"
+
+The light turns on.
+
+"Wha――――"
+
+I look around in surprise.
+
+"Welcome back. I won't ask where you were, but you certainly took your time."
+
+---
+
+"Tohsaka...? What is this――――?"
+
+"Isn't it obvious? Sakura went out by herself, and Rider has been glaring at me until now.
+
+...I guess she's under orders not to hurt you. She switched to spirit form and ran out as soon as you came in."
+
+---
+
+"Wha――――"
+
+Tohsaka sounds calm.
+
+...No, that's not it.
+
+Her voice doesn't sound calm.
+
+Her tone is one of cold disinterest, as if she's given up on something.
+
+---
+
+"――――Tohsaka. Sakura really went out...?"
+
+"It's true. She was gone before you left, so it's already been two hours.
+
+I don't know what her intentions are, but I guess she doesn't want to follow our directions. She had Rider stop me from going after her, so she must not want us to know what she's doing."
+
+---
+
+"Don't be stupid...! Sakura wouldn't hide things... from... us――――"
+
+I can't say for certain.
+
+...Sakura's nightmare.
+
+I have no idea what Sakura thought about her deteriorating body.
+
+---
+
+"We have to bring her back...! If we leave her alone, it'll..."
+
+"There may be victims. She might drain magical energy from anyone she sees, like when she attacked me at school.
+
+No one was attacked by the shadow last night, right? So she must be hungry."
+
+---
+
+"――――――――――――Tohsaka."
+
+Tohsaka looks away and swallows her words.
+
+Her eyes say to give up,
+
+telling me it's all over.
+
+---
+
+"Tohsaka, you..."
+
+"We can look for Sakura. I agree with that.
+
+But―――once we find her... You know what to do if Sakura isn't herself anymore, right?"
+
+---
+
+"―――That's not possible. Sakura will always be Sakura."
+
+"Are you insane? Can't you tell she's at her limit? Give up already, Shirou. If you keep protecting her, you'll be the first one to die――――"
+
+---
+
+"We can make stupid speculations later. We need to find Sakura and bring her home right now. After that I'll argue with you as long as you like, so shut up for now...!"
+
+"Hey, wait, Shirou――――!"
+
+---
+
+I run through the hallway.
+
+I don't have time to wonder where Sakura went.
+
+'――――It's over now, Shirou.'
+
+---
+
+I run outside at full speed, as if denying her words.
+
+---
+
+"Shirou. Are you going to go look for Sakura?"
+
+"――――"
+
+Then.
+
+Someone unexpected calls to me from behind.
+
+---
+
+...When did she come here?
+
+Illya is watching me from a distance, as if there's a wall between us.
+
+---
+
+"...Illya."
+
+"Tell me, Shirou. Are you going to go look for Sakura?"
+
+"――――――――"
+
+I nod.
+
+Illya's voice is tense.
+
+The despair in her voice is different from Tohsaka's. As a Holy Grail, Illya must understand what condition Sakura is in.
+
+---
+
+"I see. But Shirou, Sakura went outside by herself because she didn't want you to see her. She's scared and doesn't want to die, but she still chose to end herself in order to protect you.
+
+The Sakura you like doesn't exist anymore. She went out by herself to eliminate herself."
+
+---
+
+"――――――――"
+
+Illya looks straight at me.
+
+I meet her gaze and shake my head.
+
+I won't let that happen.
+
+Even if Sakura isn't Sakura anymore, there's only one thing I'm going to do.
+
+---
+
+"......I see. But Shirou. Both Sakura and I have another self in us. It's probably not the Illya you know, and it's not the Sakura you know.
+
+Sakura won't come back. She'll just be a different person after she changes.
+
+But you still refuse to kill her?"
+
+---
+
+A quiet question.
+
+This is what Illya really means.
+
+The Holy Grail is made with the premise of it breaking down.
+
+So I don't need to hesitate about destroying it.
+
+But to me, it sounds like she's talking about herself rather than about Sakura.
+
+---
+
+"Shirou. Let me ask you one more time.
+
+Are you still going to go look for Sakura?"
+
+"........."
+
+I don't know how much emotion her question carries.
+
+So I honestly tell her the path I chose.
+
+---
+
+"Yes, I'm going to go look for her. Sakura will always be Sakura to me. The same goes for you. Even if you turn into a mysterious thing like a Holy Grail, you'll still be Illya."
+
+---
+
+"...No matter how much you may have changed.
+
+If Illya is inside you, you'll be the Illya I know."
+
+---
+
+"――――"
+
+"I don't know about difficult things. That's all I care about."
+
+---
+
+I put my hand on the door.
+
+"...It's Zouken's place. That's the only place Sakura would go to."
+
+I hear her behind me.
+
+"All right. Please wait here, Illya. I'll go find Sakura and bring her back right away."
+
+---
+
+I leave.
+
+Illya stays standing in the hallway, as if seeing off something very far away.
+
+---
+
+I reach the Matou household.
+
+I'm not out of breath.
+
+My body has to be tired from all the running, but it doesn't complain to me at all.
+
+---
+
+"...It's open."
+
+I stop before I ring the doorbell.
+
+...Did someone go in or come out?
+
+The front door is half open, and it's dead quiet inside.
+
+---
+
+I don't feel any human presence.
+
+The Matou household is gloomier than yesterday.
+
+---
+
+There's nobody on the first floor.
+
+My footsteps echo through the hallway.
+
+The floor creaks as I make my way to the stairs.
+
+---
+
+There's nobody on the second floor.
+
+I see the sky through the glass above the landing.
+
+Once I make my way to the top, I'm able to tell that there's no living person on the second floor.
+
+---
+
+I turn to go back downstairs, but I stop.
+
+A living person.
+
+The strange feeling makes me head to the room with a slightly-opened door.
+
+---
+
+――――It's Sakura's room.
+
+I've seen it once before.
+
+But I've never actually gone in there before.
+
+It's because Sakura pushed us out with a red face when Shinji led me here.
+
+---
+
+I think that was two years ago.
+
+Nothing's changed.
+
+A girl's room. It's a simple room suited for Sakura.
+
+And on the bed...
+
+"――――Shinji."
+
+...Is the corpse of Matou Shinji.
+
+---
+
+
+## Scene 05 Last piece [version 1]
+
+“You’re home late, aren’t you?!”
+
+“…!”
+
+The man who was her brother is no longer masking his expression.  
+There is no trace of the fake smile he wore until now, pretending to be her brother.
+
+“You traitor… you’re a disgrace to the name of Matou…!”  
+  
+He screams as he approaches her.  
+He scowls at the girl, approaching her with slow but menacing steps.
+
+“!”  
+  
+The girl’s chin jumps.  
+She knows that this hatredthis murderous emotion is aimed at her.
+
+“Hahyeah, that’s what I expect from you!
+
+That’s right, you don’t change, no matter how much you pretend to be a normal person.
+
+You’re a Matou woman. You’re a vulgar failure of a magus. All you can do is fear, cower, and lose your emotions until you’re just like a doll!”
+
+The man takes another rough step towards the girl.
+
+“Hm…! No”  
+  
+She shrinks away.  
+The man smiles at the sense of superiority he had long forgotten.  
+  
+  
+  
+That’s why he doesn’t notice until it happens.  
+The girl cowering before his eyes has none of her former meekness.  
+He doesn’t notice that she’s filled with nothing but disgust and loathing.
+
+“Oh, you sure are energetic today. …I see. I see, I see, that’s great!
+
+I bet Emiya is depressed now!”
+
+“Nostop! Don’t come near me, Nii-san…!”  
+  
+The girl refuses the bloodthirsty man with all her might.
+
+“Huh?”  
+  
+The man stops.  
+He lowers his outstretched hand slightly, then looks down at the girl as one might look at a mysterious thing.
+
+“What did you say? What did you just say?”  
+  
+A voice of surprise.  
+The girl gulps, but stares resolutely back at him.
+
+“I-I said please don’t come near me. I won’t obey you anymore.
+
+…Senpai. Senpai accepted a girl like me. He said he’ll protect me…! I’m not your toy, Nii-san. I’m…!”  
+  
+  
+  
+The girl frantically tries to shake off the man’s pressure.
+
+“Wha”  
+  
+A hollow voice.  
+The man looks down at the girl standing before him.
+
+“Shut up. Shut up, shut up, shut up, you!”
+
+And he releases all his rage on her.
+
+“Emiya…!? You won’t do as I tell you…!?
+
+Don’t get it wrong, what are you trying to do?! I’m your older brother, so I’m always the one to decide! You just have to obey me like always…!”
+
+His fury is unstoppable.  
+The man has no sanity left, having been denied by something that had never betrayed him.
+
+“Take it back, Sakura! You’re mine. You’re nobody else’s…! Know your place! You’re a Matou woman…! So you have no right to disobey me…!”
+
+The man’s rage knows no bounds.
+
+“ ”
+
+The girl’s eyes show great determination, condemning the man.  
+  
+  
+  
+He can’t stand the look in her eyes.  
+He doesn’t want her staring straight at him.  
+But at the same time, he laughs at her futile efforts.  
+  
+He laughs.  
+He laughs.  
+Her brother laughs.  
+  
+  
+  
+“”  
+  
+And she realizes.  
+She realizes what he is thinking.  
+…No matter what.  
+He intends to ruin her for his own amusement.
+
+“Why?”  
+  
+She murmurs.  
+Why does it always end up like this?  
+She endured so many things.  
+She lied, lied to others, lied to herself, and kept telling herself that she could be happy.  
+She thought she was happy just by being at her Senpai’s house.  
+  
+  
+  
+But…  
+Why isn’t he protecting such a small thing?  
+  
+“”  
+  
+…No, he’s not the only one who isn’t protecting her.  
+She thought for a long time.  
+She has cursed for a long time.  
+Why.  
+Whythe world around her hates her so much  
+  
+  
+  
+“”  
+  
+The strength floods out of her body.  
+She loses her will to resist, and her brother looks down at her in satisfaction.
+
+“HaHaha, hahahahahahahahahaha!”  
+The girl stares up at him with empty eyes as he triumphantly lays bare his dark emotions.
+
+“I wish he wouldn’t exist.”  
+  
+Eleven years.  
+She thinks something she has never thought during that time.
+
+“”  
+  
+The air makes a sound.  
+The man on top of her falls down.  
+Fresh blood splatters onto her.  
+The girl raises her body and looks at her silent brother.
+
+“Oh.”  
+  
+It was an instant death.  
+He must have been hit with a very sharp string.  
+A line is visible on the back of his head, as if it was drawn in with a pencil.  
+The line reaches his brain, but the line is too thin to make it spill out, and his blood is the only thing flowing out.
+
+“Oh.”  
+  
+She looks down at it without emotion.  
+The shadow that killed her brother wavers.  
+It wavers in the gray sunlight.  
+Her own shadow…  
+Her own shadow is standing up and wavering.
+
+“Ah.”  
+  
+So she’s the one that killed.  
+It was she who killed her brother.  
+She understands, but does not feel anything.  
+She feels nothing.  
+Nothing.  
+Nothing.  
+Nothing.  
+No disgust, no fear, no guilt, no regret.  
+The only thought in her vacant mind is that it was easy.
+
+“Ah, ah.”  
+  
+She’s used to it.  
+This isn’t her first time.  
+Because she saw plenty in her dreams.  
+She saw it in her dreamso did she copy what she saw?
+
+“Ah, ha.”  
+  
+She doesn’t know.  
+But she thinks she should’ve done it sooner.  
+If she’d known she wouldn’t feel anything, she would’ve done it a long time ago.  
+She thinks, and…
+
+“FuFufu.”  
+  
+…Her empty emotion murmurs that it was fun.  
+  
+  
+  
+It was fun.  
+It was fun.  
+It was fun…?  
+It was fun…?
+
+Where?  
+When?  
+What?
+
+Dream.  
+Dream.  
+That’s right. She wasn’t dreaming.  
+  
+Those dreams were
+
+Not dreams.  
+The one that wandered through the night and killed the men was herself.  
+Yes, she killed many people.  
+She killed many, many people.  
+She killed them, killed them laughing…!!
+
+“Aha. Ahaha. Ahahaha.”  
+  
+It’s so funny, she laughs.  
+Because she’ll break down unless she laughs.  
+She can’t bear it unless she’s laughing.  
+But more tears flow out the more she laughs, and everything becomes meaningless for her.
+
+“Haha! Ahaha, hahahahahahahaha!”  
+  
+It’s so funny that her stomach hurts.  
+It’s as if she’s regressing mentally every time she laughs.  
+  
+But it’s so comforting and natural.  
+  
+Oh, how stupid, how stupid, how foolish…!
+
+“FuFufu, ah.”  
+  
+Her face is contorted in a manic grin.  
+In place of her silent brother, the girl sweetly spills out a voice like glass.  
+  
+  
+  
+…And like that.  
+After tinkering with her brother’s body like she’s playing house, she gets up.  
+She stands in front of the mirror, still covered in blood.  
+  
+Behind her stands the shadow that killed so many.  
+  
+  
+  
+Her own shadow.  
+The black shadow that has eaten countless people.  
+Someone was there, trying hard not to turn her into it.  
+Someone was there by her side.  
+  
+She laughs.  
+There was never any hope for her.
+
+“I see. I wasn’t slowly going crazy.”
+
+She twirls in front of the mirror.  
+The girl makes a proud smile.
+
+“Look, Senpai. I was broken from the beginning.”  
+  
+And speaks as if asking for a dance.
+
+The girl’s consciousness ends there.  
+No, to be more accurate, it changes.  
+It’s merely that her repressed subconscious has risen to the surface.  
+  
+  
+  
+Something talks to the girl.  
+Behind her.  
+The darkness stays as darkness, shows up as a presence, and looks at the girl.
+
+“You have killed many people, Sakura.”  
+  
+The girl doesn’t reply.  
+She doesn’t even need to acknowledge such a question.
+
+“You cannot live as a human anymore.”  
+  
+The girl doesn’t reply.  
+She doesn’t even need to be told about it.
+
+“Accept the shadow. Nobody can stop you. Seize the daughter of Einzbern and obtain the Holy Grail. That is the only way for you to live.”
+
+“Yes. As you wish, Grandfather.”  
+  
+She nods quietly.  
+Did she agree because it sounds fun?  
+Or did she just want to run away?  
+  
+The girl doesn’t understand her own mind anymore.
+
+But the pain in her body goes away as soon as she accepts it.  
+…It crawls up.  
+Black mud comes out from her core and smears itself on her skin.  
+The pain turns into fire to burn her skin.  
+Like a curse…  
+It turns her white skin into something else.
+
+“Oh. With this, I…”  
+  
+…Won’t lose to anyone.  
+  
+Nobody will get in the way.  
+She knows that she is the strongest one now.  
+In her mind, the girl kills everyone who has threatened her.
+
+“Hm”  
+  
+Her body trembles.  
+Just imagining it fills her with the greatest joy.  
+  
+…And in this fantasy…  
+Foremost in her mind is the relative she loves the most, the one called Tohsaka Rin.
+
+
+
+
+## Scene 06 Last piece [version 2]
+
+::: danger This is an alternative, more graphic version of the Last Piece scene. Viewer Discretion is advised. It is currently unknown how the two Last Piece scenes are triggered. :::
 
 
 
@@ -3282,7 +2903,714 @@ Foremost in her mind is the relative she loves the most, the one called Tohsaka 
 
 ---
 
-## Scene 11
+
+## Scene 07 Choice
+
+
+
+"Shinji."
+
+Shinji's corpse is on the bed.
+
+There's nothing else.
+
+What happened here?
+
+There's no way I would know, but...
+
+"――――Sakura."
+
+...Somehow, I can tell that Sakura killed him.
+
+---
+
+"............"
+
+I can't think.
+
+Shinji's corpse.
+
+Sakura's whereabouts.
+
+It's only been half a day since I embraced Sakura, so how did it end up like this?
+
+---
+
+"Oh. So it is the Emiya boy.
+
+I would like to commend you for coming here, but it seems you were a bit too late."
+
+---
+
+"――――!"
+
+I turn around at the sudden voice.
+
+---
+
+"......!"
+
+There's no one behind me.
+
+I know there's nobody in this house.
+
+Zouken's voice is echoing through the room even though he's not here.
+
+---
+
+"Zouken...! What did you do to Sakura...!?"
+
+---
+
+"I did nothing. As you can see, my unworthy grandson tried to violate her and was killed instead. It's nothing to make a fuss over.
+
+But―――this will be the last time I call him an unworthy grandson.
+
+He was useless, but he fulfilled his role in the end."
+
+---
+
+He laughs.
+
+I can't see the old magus, but I'm sure he's laughing with a hideous face.
+
+---
+
+"Shinji's role...?"
+
+"Yes. I cannot make her put her mind to it. She hates me too much. So I had to have you or Shinji break her down.
+
+I needed Sakura to feel despair in this world to have her accept her own shadow."
+
+---
+
+"Wha――――"
+
+"Oh, my. It was my mistake. I took her emotional strength too lightly. I expected her to break easily, but she would never do so on her own.
+
+It seems torturing her for a long time had its flaw. I did not expect her to become so persistent."
+
+---
+
+"You――――――――"
+
+My nerves condense.
+
+Before I even understand what he's saying, I clench my right fist, open my Magic Circuit, and...
+
+---
+
+"Well, if I am to be greedy, I wanted you to betray her. She would not have awakened incompletely, but her body and mind would have completely turned into the shadow in that case!
+
+But that is only a matter of time.
+
+With Shinji's death, she has finally accepted her position. I need only watch over her now. She will follow her instincts to feed on people, and destroy herself from overeating.
+
+My work comes after th――――"
+
+---
+
+I punch the wall.
+
+With all my might, I lash out at the darkness where the voice is coming from.
+
+I unconsciously fill my hand with magical energy, which is transmitted into the wall and sweeps the darkness from the room.
+
+---
+
+"My, how frightening. The worms I left to keep watch over this place have been crushed. Haha, soon my voice will no longer reach you."
+
+"――――Shut up and get out here, Zouken...! I'll rip you to pieces...!"
+
+---
+
+"Well, I am afraid I cannot do that. The goal the Makiri have sought for five hundred years is within my grasp.
+
+I cannot be killed now, yet I'm not so ungrateful as to kill you."
+
+---
+
+"Ungrateful...? Shut up! When did I do anything for you...!?"
+
+---
+
+"You did. You raised Sakura. Before, she merely endured, but you taught her how to desire others.
+
+Yes, I appreciate what you did, Emiya Shirou. This ritual was a success because of you.
+
+That is why I will not kill you. I need you to see her after she matures...!"
+
+---
+
+"Zou... ken."
+
+"Kaka, nobody can stop her now. She has killed her brother, so she cannot turn back.
+
+She will take in Archer's soul from Einzbern's Holy Grail and steal the key to reach the gate.
+
+That will be the end. Makiri's earnest desire, the reproduction of the Third True magecraft, will be achieved...!"
+
+---
+
+The annoying laugh echoes through the room.
+
+I――――
+
+---
+
+## Scene 07 Action Worst
+
+
+
+"Zouken......!!!!"
+
+I'll settle it now.
+
+Zouken should be somewhere in this house. I'll find him and kill him...!
+
+---
+
+"Damn it, where are you, you old bastard...!?"
+
+I can't find him anywhere in the house.
+
+His presence is fading by the second.
+
+"Oh, my. You must be blinded by your anger.
+
+I thought you would be smarter."
+
+---
+
+Even his laughing voice is fading away.
+
+---
+
+"Haa――――Haa, haa, ha――――"
+
+...Zouken's not here.
+
+He wasn't in this house to begin with.
+
+He's a worm user. The only ones here are his worms...!
+
+---
+
+"Are you satisfied now? Then go home, Emiya Shirou.
+
+Sakura will soon swallow Illyasviel. If you do not hurry, you will not be there for the birth of the monster you raised."
+
+"You old bastard...!"
+
+---
+
+I kick the ground hard enough to rip my legs off.
+
+Giving in to my anger wasted too much time.
+
+It'll take twenty minutes to get to my house, even if I run full-speed.
+
+―――Will I make it?
+
+I have to head back to my house before Sakura finds Illya―――!
+
+---
+
+## Scene 08 Action Best
+
+
+
+"――――――――"
+
+Hold on.
+
+Steal Einzbern's Holy Grail...?
+
+"――――!"
+
+---
+
+I run.
+
+I don't care about the laughter.
+
+I'm sure he's watching me from a safe place.
+
+There's no time to let an old man's drivel get to me――――
+
+---
+
+"That's right. Hurry, Emiya Shirou!
+
+Sakura has turned dark. Once she captures Illyasviel, she will swallow her without mercy...!"
+
+"――――!"
+
+---
+
+I kick the ground hard enough to tear my legs off.
+
+"Please be all right, Illya――――!"
+
+It'll take twenty minutes to get to my house, even if I run full-speed.
+
+I glare at the gray sky and run frantically back to Illya.
+
+---
+
+## Scene 09 Sacrilege-Sisters(VI)
+
+
+
+The girl is looking up at the sky.
+
+The gray sunlight dulls her silver hair and red eyes.
+
+"...Yeah. I have to tell Shirou once he comes home."
+
+Illyasviel talks to herself.
+
+---
+
+The Emiya household is quiet.
+
+Shirou and Rin went to find Sakura.
+
+Rider, naturally, is nowhere to be seen, leaving Illya as the only one here.
+
+"―――The giant cavern. The promised land built two hundred years ago. From the feel of it, it's already activated."
+
+This is the fifth Holy Grail War in Fuyuki.
+
+The Holy Grail has been summoned into different places each time, but it has returned to the original site for this war.
+
+---
+
+It's only natural.
+
+They use one of the gates located at the four compass points, and move on to the next when one fails.
+
+The first was the Ryuudou Temple.
+
+The second was the Tohsaka household.
+
+The third was the church on top of the hill.
+
+The fourth was that burned field.
+
+Then this summoning returns to the site of the first.
+
+The point of origin.
+
+The false utopia that sets the rules of the Holy Grail War.
+
+---
+
+"――――A Holy Grail filled with the souls of heroic spirits.
+
+Using it to open the gate is the very miracle they aimed for... But I didn't expect its contents to come out before the gate had been opened."
+
+Illya murmurs in disbelief.
+
+This is far away from the Einzbern's dearest wish.
+
+They have failed.
+
+The disaster that will be born is a far cry from what they wished for.
+
+---
+
+"...I can just leave it be. My role is to open it. Nobody told me anything about closing it."
+
+And she couldn't possibly close it, even if she tried.
+
+Matou Sakura excels her in ability as the Holy Grail.
+
+Einzbern's Holy Grail cannot do anything to the gate opened by Makiri's Holy Grail.
+
+Matou Zouken thinks he opened the same gate, but in reality, he opened a completely different one.
+
+The only ones aware of this are the Holy Grails: the girl and Matou Sakura.
+
+---
+
+"―――Will Shirou make it? I could run away with him if he does."
+
+She looks up at the sky.
+
+The girl is wavering.
+
+She doesn't know whether to choose the role imposed on her or the desire born from within her.
+
+---
+
+"But Shirou. It makes no difference to the fact that I'm going to die."
+
+The result is the same.
+
+Regardless of whether she goes to the gate as the Holy Grail or runs away, she will die.
+
+Which is her true self? She asks the gray sky for an answer.
+
+---
+
+"――――――――"
+
+---
+
+That's why she doesn't notice.
+
+The person who came through the door with an "I'm home."
+
+Did she slip through the boundary field, or did it not consider her a trespasser?
+
+---
+
+"――――――――"
+
+---
+
+Slowly.
+
+She moves from the living room to the yard without a sound, then reaches out to the girl sitting at the porch.
+
+"―――You're home late, Sakura. Where were you?"
+
+---
+
+"――――Nee-san..."
+
+The trespasser, Matou Sakura, stops her hand.
+
+She looks away from Illya and to Tohsaka Rin, who has been waiting for her in the yard.
+
+---
+
+"Get away from Illya. I'll shoot you down if you get any closer to her."
+
+Everyone here knows it's no empty threat.
+
+"――――It's useless. Well, go ahead if it'll satisfy you, Rin."
+
+Illyasviel starts walking without showing any surprise.
+
+The girl walks to the edge of the yard, as if to watch over the two's confrontation.
+
+---
+
+"...I see. You were waiting here all along, Nee-san. You knew I was coming for Illya-chan."
+
+"Yeah. I don't have a reason to save you, unlike Shirou. It was obvious that you'd come to kidnap Illya when the time came. You've done it once before, so I'd be foolish not to keep an eye on her."
+
+---
+
+Sakura's brows twitch at Shirou's name.
+
+Showing unhappiness.
+
+She shows undisguised hatred that would surprise anyone who knew her previous self.
+
+---
+
+"...That's terrible. You're always like that, Nee-san. You always make fun of me. You're beautiful, so you look down on me because I'm dirty.
+
+You're absolutely hateful. Nee-san. Am I that bad of a person?"
+
+Her voice contains no emotion.
+
+The question alone should send a chill up anyone's spine.
+
+---
+
+"Of course. You're a big idiot who gave up her chance to be saved the instant she stepped out of this house. You didn't trust the person that Matou Sakura wanted to protect."
+
+But Tohsaka Rin gives a firm reply.
+
+---
+
+"Oh――――――――"
+
+Sakura looks down.
+
+As if acknowledging the truth of her mistake.
+
+---
+
+"But I..."
+
+"Don't say you thought it was for the best. We told you not to go outside. If you had any objections, you should've come and talked with us first.
+
+But you went without saying anything. You went alone and made the same mistake you always made.
+
+Unbelievable. People take advantage of you because you can't do something as simple as that."
+
+---
+
+"...You're right. I was definitely like that until now.
+
+But Nee-san. I'm not weak anymore. You're the one who can stay in the house now. I'll protect Senpai."
+
+Her cold stare, the emitting ominous shadow...
+
+"――――――――"
+
+Realizing that it's as she feared, Rin takes a step back.
+
+---
+
+――――Not knowing...
+
+That her hesitation is the last trigger that drives Matou Sakura.
+
+---
+
+"...What's wrong, Nee-san? Curling your back like that makes it look like you're scared of me."
+
+"――――――――"
+
+It's too late when she clucks her tongue.
+
+......No.
+
+It's not too late or anything.
+
+When Sakura reached for Illyasviel, it was already too late.
+
+---
+
+"......I see. So you don't intend to stay quietly in your room anymore?"
+
+"No. I don't need to listen to what you say anymore."
+
+---
+
+"――――Because I'm stronger."
+
+---
+
+The shadow dances.
+
+Many shades of darkness emerge from the ground below Sakura and engulf the yard.
+
+And from the shadow...
+
+"Sakura, you――――"
+
+...Emerges a swordsman who is contaminated in black.
+
+---
+
+"Saber, capture the Holy Grail. If she tries to resist, go as rough as you like."
+
+"――――――――"
+
+Black Saber obeys without a word.
+
+...There's no doubt about it.
+
+What that shadow is.
+
+Tohsaka Rin bites her lip, seeing what kind of fate awaits a Servant swallowed by the mud.
+
+---
+
+At that instant.
+
+"!"
+
+"Hah――――!"
+
+A merciless attack.
+
+A shadow with magical energy far surpassing that of Tohsaka Rin is fired.
+
+---
+
+"......!"
+
+She rolls as she lands.
+
+The fired shadow is on the same level as the black shadow.
+
+It'll be the end if it touches her.
+
+If it even grazes her, it will stick to her skin, covering her in an instant.
+
+――――And after that.
+
+If Tohsaka Rin is swallowed by the mud that even a Servant cannot escape, she will be absorbed without hope of resistance.
+
+---
+
+"Damn......!"
+
+The black tentacles whip towards her in rapid succession.
+
+Rin realizes that the attacks are not from the black shadow, but a magecraft Sakura possesses.
+
+That magecraft of Matou is to bind others.
+
+But Sakura is originally from the Tohsaka family―――a shadow-user with an origin of the imaginary element, the imaginary number.
+
+Matou Sakura is able to embody the black shadow to that degree because she has both of those attributes――――!
+
+---
+
+"......!!!!"
+
+She's easily cornered.
+
+Their magical energy capacities are too unevenly matched.
+
+Sakura's magical energy is infinite.
+
+Her capacity reaches a hundred million.
+
+To Rin, whose capacity is a mere three hundred, Sakura is a monster.
+
+---
+
+She controls both the black shadow and Saber, who has the greatest magical energy out of all the Servants.
+
+...Even a Servant will not be able to match such a monstrous magus.
+
+---
+
+".........This is bad. Her magecraft's simple, but our energy capacity is too different――――"
+
+She stares at what Sakura has become, gasping for breath.
+
+...She has no chance of winning, and she cannot escape.
+
+It'd be a different story if she had a source of magical energy like the Holy Grail, but she doesn't have such a thing.
+
+---
+
+"...Well, no magical energy source in the world can match the Holy Grail."
+
+She suppresses her frustration by grumbling.
+
+"Oh, you can't do that, Nee-san. It's dangerous if you stop there."
+
+Sakura points her hand at Rin without hesitation.
+
+---
+
+There's no mercy.
+
+Sakura smiles, enjoying the absolute dominance.
+
+"Now――――let's play more, Nee-san.
+
+I know you'll be caught in the end, but please keep running until then."
+
+She smiles at her beloved sister.
+
+---
+
+The result is as obvious as she says.
+
+Rin cannot get away from the shadow.
+
+Sakura can quickly cover the whole house with the shadow if she wishes.
+
+As Sakura slowly expands the extent of the shadow, Rin is defeated without being able to do anything.
+
+---
+
+"――――Ah, ah――――............"
+
+The black shadow covers Tohsaka Rin.
+
+The gel-like mud tightly binds Rin's body, turning into numerous tongues to invade her Magic Circuit.
+
+---
+
+"Oh, is that all? You're not as strong as I thought, Nee-san."
+
+She looks down at her helpless sister.
+
+―――Wild breathing and heated cheeks.
+
+Her older sister is covered with heavy oil, exciting even Sakura, who is of the same sex.
+
+---
+
+"――――Sa... kura――――"
+
+Her face is left uncovered, perhaps because Sakura wants to enjoy her pain.
+
+"――――You―――――........."
+
+Rin swallows her contempt and glares back at Sakura.
+
+But that's only for a few seconds.
+
+The mud that stirs her body violates her internal organs.
+
+---
+
+"Kuh...! Ahh, haa――――........."
+
+"Fufu. Then I'll be having you now. I was looking forward to this. This will be the first time I've eaten magical energy from a magus."
+
+The gel-like shadow tightens around Tohsaka Rin.
+
+The "meal" doesn't even last a second.
+
+---
+
+"Ah...... Hm――――――"
+
+"......It's good. I'm not full at all, but it helps a bit."
+
+The last traces of magecraft fade from Tohsaka Rin.
+
+That's the end.
+
+Head down and chest heaving, Rin has no power to resist.
+
+She has no way to fight back, but――――
+
+---
+
+"――――That won't do. I have to kill her here, or I..."
+
+Will lose to Nee-san.
+
+...It's a groundless assumption.
+
+The difference in their powers will never be overturned.
+
+But Sakura is firmly convinced that she will lose if they fight again.
+
+---
+
+So she has to kill her here.
+
+Taking her magical energy and leaving her powerless isn't enough.
+
+She has to kill Rin here, just as Rin tried to do to her.
+
+She tries to convince herself as she opens her palms.
+
+---
+
+"Nee-san, you――――"
+
+The shadow doesn't extend.
+
+She trembles, gaze focused on her weakened sister, and...
+
+"Sakura――――!!!!!!"
+
+The person she least wants to see catches up to her.
+
+---
+
+
+
+## Scene 10 Finale
 
 
 

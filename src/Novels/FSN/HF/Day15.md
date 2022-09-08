@@ -2,7 +2,7 @@
 
 
 
-## Scene 00
+## Scene 00 Finale, replay
 
 
 
@@ -140,7 +140,69 @@ You―
 
 ---
 
-## Scene 01
+## Scene 01 Dead fin
+
+
+
+...I lose the will and the desire to get back up.
+
+I close my eyes as if falling asleep.
+
+---
+
+There's nothing ahead of me.
+
+My Holy Grail War ends here.
+
+Or rather, it never really began.
+
+---
+
+## Scene 02 Tiger Dojo 36
+
+
+
+You...
+
+---
+
+COWARD!!!!!
+
+Rejected! Quickly go back to the previous choice and redo it!
+
+I never raised you to be such a coward!
+
+---
+
+That's right!
+
+Quickly come rescue me!
+
+---
+
+Exactly! The main story's reaching its final stage. Nonstop development awaits you.
+
+---
+
+There are only four more Tiger Dojos.
+
+If you came this far, run to the ending without dying.
+
+---
+
+Osu, you are exactly right!
+
+I feel a bit lonely, but you won't make it ahead unless you're that determined!
+
+---
+
+Yes, well said, pupil number one!
+
+Well, I wish you luck!
+
+---
+
+## Scene 03 Save Sakura. Bring back Ilya.
 
 
 
@@ -342,25 +404,8 @@ I――――
 
 ---
 
-## Scene 02
 
-
-
-...I lose the will and the desire to get back up.
-
-I close my eyes as if falling asleep.
-
----
-
-There's nothing ahead of me.
-
-My Holy Grail War ends here.
-
-Or rather, it never really began.
-
----
-
-## Scene 03
+## Scene 04 Death penalty
 
 
 
@@ -702,7 +747,921 @@ Even though I couldn't waste any time, coming here by myself was reckless――�
 
 ---
 
-## Scene 04
+## Scene 05 Tiger Dojo 36
+
+
+
+Oh, he died.
+
+---
+
+Osu. Excessive bleeding and falling to his death. There's no hope of survival.
+
+---
+
+I don't think I even need to say it, but the cause of this death is because you went against them by yourself.
+
+---
+
+If there's a chance to join hands with someone, go ahead and do it for a better result.
+
+---
+
+What? Then it's also good to join hands with people like Caster and Shinji?
+
+---
+
+Hm. No, consider their personalities.
+
+First of all, you don't even get those choices.
+
+---
+
+What a failure. I wanted to see a route where Shirou and Shinji cooperate, or where you join hands with Caster.
+
+---
+
+Kiii! Don't talk about the rejected routes! Time and resources aren't infinite!
+
+---
+
+It's the spirit of the cook to put the most effort into the tastiest part!
+
+---
+
+Okay, I'll leave it at that.
+
+So, you just have to join hands with Kotomine?
+
+---
+
+...Hmm, I guess so.
+
+I understand not wanting to cooperate with that priest, but throw away your personal feelings and fight together.
+
+---
+
+Osu, I understand!
+
+Yesterday's foe is today's friend! It's a common turn of events in a manga!
+
+---
+
+Yup! Everyone's part of the family! It's a good phrase! Use it!
+
+---
+
+That's right! Take full advantage of him and throw him away once you're done!
+
+---
+
+Hey there, don't talk too honestly.
+
+---
+
+
+## Scene 06 Duo
+
+
+
+"...Do what you want. I don't know what your intentions are, but neither one of us likes Zouken."
+
+"I see, common ground is important. I do have some relation to that old man."
+
+---
+
+We start down the hill.
+
+We leave the church together without looking at each other.
+
+---
+
+Dawn has nearly broken when we reach the forest.
+
+"Wait here. You may go home if we do not return by the time the date changes."
+
+He stops the car on a road near the entrance of the forest.
+
+Kotomine arranged for the car.
+
+---
+
+"So how are you going to help me?"
+
+"Hm. Our method of transportation, to start out with."
+
+...After that conversation, Kotomine immediately prepared a car and driver.
+
+That alone is helpful.
+
+It's past three in the morning. Not many taxis would take a suspicious student out to the outskirts right now.
+
+---
+
+"It is possible that only the boy will return.
+
+That is not a good situation. Do not wait for me and go back to town as fast as possible in that case."
+
+Kotomine gives orders to the driver.
+
+The driver nods silently, then opens the trunk.
+
+---
+
+"――――Emiya. Take the weapon."
+
+"Huh?"
+
+He throws a long, thin object at me.
+
+---
+
+"Whoa. Is this a sword?"
+
+It's a slender sword.
+
+It's like a rapier.
+
+It's a sword made for thrusting, not slashing.
+
+But the blade's a bit too thick, and it looks like it'll be hard to use.
+
+It's like Assassin's Dark made into a sword.
+
+---
+
+"This is a weapon?"
+
+"Kiritsugu preferred guns, but unfortunately, submachine guns are the only firearms I have right now. Bullets aren't effective against ghosts, and you're not trained to use them in any case. That's better for you, since you're a magecraft user."
+
+---
+
+"――――――――"
+
+I lightly swing the sword.
+
+...It's oddly-balanced.
+
+It weighs about a kilo, but the tip is heavy.
+
+It's more like an arrow than a sword.
+
+---
+
+"...Is this a special weapon of the Church? I feel magical energy from it."
+
+"It is called a Black Key. It is not magecraft, but sacrament.
+
+It is our exclusive right, used to fight spirits. If you use your magecraft on that sword, it should be of some use, even against a Servant."
+
+That's if I can hit them with it, he adds.
+
+---
+
+"Make sure you do not get into a situation where you have to use it.
+
+―――Let's go.
+
+It's been almost a day since Illyasviel was kidnapped.
+
+The place may be empty already, but we'll think about that after we get there.
+
+We should at least be able to find out where Matou Sakura went."
+
+The priest, unlike me, goes into the forest empty-handed.
+
+---
+
+"――――――――"
+
+I take a deep breath.
+
+I put the sword into the sheath and follow after Kotomine.
+
+---
+
+I take the lead.
+
+I use my memory to head to the castle.
+
+...I couldn't reach it the last time I was here.
+
+It's because I met Illya, fleeing from the black shadow, on my way to the castle.
+
+---
+
+"――――――――"
+
+...I check my left arm.
+
+I lost my arm at that time.
+
+I was almost killed by the shadow, and there wasn't a thing I could do about it.
+
+It's the same now.
+
+I have no way to match the shadow even if I encounter it, and they also have Saber.
+
+---
+
+...Once I run into them, it's all over.
+
+If I'm to get Illya back, a surprise attack will be the only way.
+
+I'll rescue Illya without Sakura noticing.
+
+Then―――
+
+---
+
+What should I do after that?
+
+What can I do to Sakura?
+
+How can I take Sakura back to my house?
+
+---
+
+"Hold on. Do not tell me you intend to bring Matou Sakura back."
+
+"Wha... O-Of course I intend to. I want to save her."
+
+---
+
+"Don't even try.
+
+We cannot match Matou Sakura... no, that shadow. It will swallow us without giving us a chance to talk. You should know that better than me."
+
+---
+
+"――――――――!"
+
+That's...
+
+It'll be just like when I confronted her in the yard.
+
+But still――――
+
+---
+
+"Let it go this time. We will have our chance if we can put Illyasviel under your care. If you wish to speak with Matou Sakura, that can come after we prepare something that can match her."
+
+"............"
+
+---
+
+A force that can match Sakura, who has an overwhelming amount of magical energy.
+
+...If anyone can prepare such a thing, it'll be Tohsaka.
+
+I'll have to project the gem sword we were planning to use against Zouken and the black shadow――――
+
+---
+
+"Damn...! Okay, so I'm supposed to concentrate on saving Illya for now, right...!?"
+
+"Right. Then let's go. We don't have time."
+
+---
+
+"――――――――"
+
+I slap my cheeks to boost my spirits.
+
+This isn't the time to be feeling timid.
+
+I have to save Illya.
+
+Sakura said she'll kill her.
+
+...I won't let her die, and I won't let Sakura do such a thing.
+
+All I can do right now is to get Illya away from Sakura.
+
+Then I'll concentrate on that for now――――
+
+---
+
+I emerge in a familiar place.
+
+It's been two hours since I entered the forest.
+
+The sun should already be up, but the forest's still covered in morning mist.
+
+---
+
+"――――...She's here. The curse over this forest is definitely hers."
+
+"...?"
+
+Kotomine says something strange as we keep running.
+
+...The curse over this forest?
+
+Can he see such a thing?
+
+---
+
+"Kotomine. By curse, do you mean you can pick out Sakura's presence?"
+
+"It is more like a resonance. ......Well, I do not care. But if we are to fight Matou Sakura, I will retreat.
+
+Putting you aside, I cannot harm Black Sakura. I have no chance of winning even if I fight her."
+
+"......?"
+
+Well, I have no chance of winning either. But...
+
+---
+
+"Hold on. What do you mean by 'Black'? Sakura's Sakura. She's just possessed by the shadow, and she'll quickly...."
+
+"She'll quickly be back to normal?
+
+I explained that to you before. The only way to return her to normal is to separate her from the shadow."
+
+---
+
+"There are two ways to do so.
+
+Eliminate the main body of the shadow, or wait until Matou Sakura materializes it.
+
+You have no way to defeat the shadow right now. All you can do is protect Sakura's mind until the shadow is born."
+
+---
+
+"――――――――"
+
+But I don't know how to protect her mind.
+
+...The Command Spell covering Sakura's body...
+
+If that's what Kotomine means by Black Sakura, then isn't Sakura slowly turning into the shadow?
+
+---
+
+"...Kotomine. When you talk about materializing the shadow, do you mean Sakura turning into it?"
+
+"No. I'm sure there is some sympathy, but the main body of the shadow is in the Holy Grail.
+
+What is transforming Matou Sakura is inside the Holy Grail, but that is still her shadow.
+
+It cannot exist without her. The main body does not have form, so it exists in the material world by being her shadow."
+
+---
+
+"What's inside the Holy Grail will not come into this world unless there is an incomplete Holy Grail called Matou Sakura.
+
+But once it is born, it will be a separate entity. Once it is separated from her, the curse tainting her should stop."
+
+---
+
+"...Kotomine. You say born, but is that thing inside Sakura?"
+
+"Of course not. If it were, the matter would be easily solved. We would simply need to extract it from her body.
+
+The main body of the shadow is within the Holy Grail. Matou Sakura is merely a host that gives it energy and form."
+
+---
+
+"But Sakura's the Holy Grail, right? What does that mean?
+
+Are there many Holy Grails?"
+
+---
+
+"Yes. I explained to you in the beginning. This land has a Holy Grail, and they summon the Holy Grail into the Holy Grail the people prepared.
+
+The main Holy Grail―――the magecraft circle and the brain that governs the rules of the ritual called the Holy Grail War. That is the Holy Grail on this land that Einzbern, Tohsaka, and Makiri prepared."
+
+---
+
+"――――The Holy Grail in this land――――"
+
+All the laws... Summoning the Servants, making the Masters fight, and calling down the Holy Grail.
+
+If the Holy Grail War is man-induced, then it's obvious that there's also a man-induced cause.
+
+---
+
+Then―――if I find that large-scale magecraft circle and destroy it, I may be able to purge the shadow invading Sakura's body―――
+
+---
+
+"Do you know where that is, Kotomine?"
+
+"I have a guess. Ask Rin if you would like to know the entrance.
+
+The Tohsaka family are the supervisors of this land.
+
+The Einzbern cooperated with them two hundred years ago to secure a land for the ritual. Rin, the successor, should know where the place is."
+
+---
+
+"But―――that is all after we save Illyasviel. If Zouken obtains Illyasviel, she and Matou Sakura will be disposed of as the Holy Grail.
+
+Matou Zouken has no intention of using the main Holy Grail. For him, the two women are enough.
+
+Your idea of destroying the main Holy Grail is meaningless."
+
+---
+
+"D-Don't be stupid! I'm not thinking about such a thing!"
+
+"Really? I think it is the most realistic solution for you. It's strange that you wouldn't go through with it."
+
+---
+
+"―――Shut up. So why didn't you tell me about it?
+
+If you'd told me at the beginning, I would...."
+
+---
+
+"You would have destroyed the magecraft circle? Nothing would go so smoothly. My goal is the completion of the magecraft circle, after all. I cannot let you destroy it."
+
+---
+
+"I told you that we will be enemies after we rescue Illyasviel. My goal is different from yours.
+
+I am interested in what comes from Matou Sakura―――no, what is trying to become her. Unlike Zouken, I have no wish."
+
+---
+
+"...Don't bullshit me. You're the same as Zouken. You're using Sakura to create something and make it yours."
+
+---
+
+"Make it mine...? Of course not. I have no interest in it after it is born. In any case, no human will be able to control it.
+
+What will appear is a phenomenon called hell. If Matou Sakura becomes that, I will die just like everybody else."
+
+---
+
+"Wha――――――――"
+
+What is that?
+
+Then his goal's just...
+
+---
+
+"―――Are you insane?
+
+You want to turn Sakura into such a thing, knowing that you're going to be killed...!?"
+
+---
+
+"Yes. My role is to bless whatever is born.
+
+That will not change, no matter what it is or what situation it is in.
+
+There is a life and a will to be born. I cannot oppose that.
+
+Emiya. If there is a pure wish in this world, it must be the desire to be born."
+
+---
+
+"But what's in Sakura is――――"
+
+"It is not evil.
+
+Humans can earn happiness just by existing.
+
+As they grow, they will learn of new happiness, of more advanced and complex pleasures."
+
+---
+
+"But humans are not happy at the moment of birth.
+
+An embryo does not have the knowledge to know what happiness is.
+
+Humans start from zero, learn what is fun, and learn what is right.
+
+The beginning is at zero.
+
+There is no good or evil. There is only the fact that it is allowed to exist in this world."
+
+---
+
+"――――――――"
+
+"Good or evil. The person's knowledge will decide that.
+
+If there is any responsibility, it lies with the environment and the 'self' that raised you.
+
+There is no crime in receiving birth.
+
+That is why I will bless even the birth of a devil."
+
+---
+
+"―――This is the way I have lived.
+
+This way of living is mine.
+
+Even if what Matou Sakura gives birth to is hell, it is hard to change my nature."
+
+---
+
+"――――――――"
+
+...I don't understand.
+
+I know he's serious.
+
+He knows he'll die, but he's still going bless the evil that will be born through Sakura.
+
+...I'll never be able to approve of this man.
+
+But it's true that he's trying to save Illya and release Sakura from Zouken's control.
+
+---
+
+"―――――――!"
+
+Thoughts that are in conflict.
+
+Lives that cannot coexist.
+
+But we have the same goal right now.
+
+---
+
+"―――I can trust you, right?"
+
+"I said we will be cooperating. I will trust you with my back."
+
+---
+
+A reply without hesitation.
+
+...That's all that's there right now.
+
+I have an ally that's better than anyone.
+
+I'll just think about rescuing Illya and getting out of this forest safely――――
+
+---
+
+
+## Scene 07 Succeed from deep
+
+
+
+Ah――――Ah, ah――――ah――――
+
+---
+
+The space is filled with black fire.
+
+The luxurious rooms are burned away by meaningless gasping.
+
+---
+
+Ah――――Ah, ah――――ah――――
+
+---
+
+The blazing fire is like a heat haze.
+
+The formerly shapeless shadow breaks through every wall and floor in concert with the host's pain.
+
+---
+
+Ha――――uh, ah―――ahh, ah――――!
+
+---
+
+The black heat haze dances in tune to the melody.
+
+Each time the figure at its center curls up, claws at her throat, and gasps in agony, the old castle's beauty is disfigured further.
+
+―――But this is nothing to grieve over.
+
+This desolate winter castle has been forgotten by everyone.
+
+Nobody has lived here or seen it, so it makes no difference even if it's destroyed.
+
+---
+
+"Ah...... Ua... ah... aaahh, ah......"
+
+---
+
+The hall has turned into the shadow's kingdom.
+
+Writhing in agony, the woman in the middle is both its king and its slave.
+
+It has already been a day since she arrived at this castle with Illyasviel.
+
+---
+
+Matou Sakura's transfiguration is reaching its final stage.
+
+---
+
+As she's one with the shadow, having a physical form is torture.
+
+Her mind is being engulfed by pain and the impulse to destroy.
+
+...If that were all, she would be able to bear it.
+
+She's used to physical pain.
+
+---
+
+But―――the pain of having her existence denied is something she has never experienced.
+
+The shadow should not exist.
+
+This world has no blessings to offer it.
+
+---
+
+"Uh...... Ah... ah... ah......!"
+
+---
+
+She tears at her throat.
+
+She cannot breathe.
+
+The air is poisonous.
+
+Matou Sakura is turning into a deep-sea monster, so being on land is like being in a vacuum.
+
+---
+
+"Ah――――Ahhh, ahhhh......!!!!"
+
+---
+
+That's why she dances around like mad.
+
+Her sanity broken, she takes out her anger on everything she sees.
+
+She keeps appealing to the unconcerned world about her pain.
+
+About her misfortune and her pain.
+
+---
+
+"――――Well. It is about time. She remained Matou Sakura for longer than I expected, but she will turn into the vessel with one more push."
+
+Two shadows watch the spectacle.
+
+An old magus, Matou Zouken, and his Servant, Assassin.
+
+---
+
+"...One more push? I am tired of hearing those words. The match is over. I am the only Servant you need. Have her take in the remaining two."
+
+"I know. But she does not try to kill the Servants she has absorbed. I do not know if it is her shallow wit or cowardice. Saber and Berserker are still trapped within her. She should kill them, but she keeps them alive."
+
+---
+
+"...Interesting. So Saber is not the only one?"
+
+"No. It is probably to keep me in check, but how thoughtless of her. The more Servants she controls, the more magical energy she must draw from the Holy Grail. It is a supply of magical energy the Holy Grail receives from the Great Holy Grail, but magical energy is not the only thing that flows into her.
+
+She is accelerating her transfiguration by letting the Servants live. Her sanity will be lost and she will turn into an ideal tool even if I do nothing."
+
+---
+
+The old magus laughs, watching the girl's suffering.
+
+There's affection in his eyes.
+
+He loves her.
+
+What he originally considered a mere experiment grew beyond his expectation to grant him his dearest wish, immortality.
+
+---
+
+It would be strange not to love her.
+
+To the old magus, Matou Sakura looks like a beautiful bride.
+
+No matter how much she fights, she will be his in the end.
+
+It doesn't matter even if she obtains power, controls many Servants, and retains her sanity.
+
+Their hierarchy was set eleven years ago.
+
+The old magus can kill Matou Sakura merely by closing his eyes and opening them again.
+
+---
+
+"――――――――"
+
+...But the white skull is different.
+
+He's the symbol of ill omen, the wind that brings death, so he's sensitive to those of his kind.
+
+---
+
+"―――The magus makes light of the matter, but―――"
+
+Will everything turn out well?
+
+The situation will not change, even if the girl loses her sanity.
+
+She reacts to people with hostility.
+
+---
+
+In that regard, she's already acting the way she will once her mind is lost.
+
+Matou Zouken is conceited.
+
+Even if she goes mad, she will not obey his command.
+
+---
+
+"......Magus. There is a way to control her, yes? Her defensive instincts are excessive. Your voice will not reach her if she loses her sanity and can no longer tell ally from enemy.
+
+If that happens, you cannot approach merely by hiding your hostility.
+
+She is the kind that will eliminate her enemies by foreseeing the 'result' called her death."
+
+---
+
+"Oh, I see, that is promising. That makes it even better as the container."
+
+The old magus laughs.
+
+---
+
+"――――――――"
+
+Falling silent, the masked figure stares at the crumbling hall.
+
+...He cannot approve of the magus's plan.
+
+He says his goal is immortality, but his method seems distorted.
+
+No, he's a rotting human from the start.
+
+It's natural that he's crazy, but the old man's procedure seems inconsistent――――
+
+---
+
+"Haha, did you hear that, Assassin!? She's begging me for help now! Good, good! It feels like we're eleven years in the past!
+
+The pressure of being denied by the world itself must surely be painful, Sakura!
+
+But endure it. Your body can endure it. Remember all the days of pain and solitude over the last eleven years!
+
+For what did you bear the thousands of tortures!? What did you give your body to the tens of thousands of worms for!? That's right; pain of that degree is nothing to you! That's how I raised you! That's how I trained you!"
+
+---
+
+"........."
+
+It seems the old magus can hear the girl's voice.
+
+Assassin can only hear groans, but she must literally be begging for her life, begging for help.
+
+---
+
+"Yes, I will help you! You are my masterpiece! I shall see it through! But I can only save your body. Your mind did not follow me through the eleven years of training.
+
+You escaped the pain by accepting it, so you should not be able to bear that resentment. But you can rest assured, as I will guarantee the strength of your flesh! You can bear it! Your flesh shall put on Avenger!"
+
+---
+
+The old magus continues to laugh.
+
+Assassin looks at him emotionlessly and steps back.
+
+---
+
+"Hm? Where are you going, Assassin?
+
+There is a slight possibility of danger. I need you here to protect me from her."
+
+"...I do not mind, but why are you concerned about the black Holy Grail and not the white? Why are you letting the legitimate Holy Grail we obtained roam freely?"
+
+"Oh, that. Illyasviel is cooperative. She exists only to open the gate, as is her duty. She does not mind what we do as long as her goal is achieved."
+
+---
+
+"........."
+
+"Do not be so doubtful. The Holy Grail you desire is that girl. Keeping your name in history and becoming the original. Your wish to be eternal through record will be granted by Einzbern.
+
+But I need her to keep her original form. Homunculi are outside my expertise. You can let her be until they prepare her formal dress."
+
+---
+
+".........So you will not force them, you say?
+
+But――――do we have such liberty?"
+
+"Of course we do. We have no more enemies.
+
+It was unexpected that Emiya's boy and Tohsaka's girl were alive, but they aren't important. Nobody is foolish enough to fight after being shown that much difference in power."
+
+---
+
+"We cannot take it back if we rush things out of needless worry and allow Illyasviel to die.
+
+It is her role to open heaven's gate. We shall show compassion and let her carry out her duty――――Assassin?"
+
+"―――Stop. It seems there is someone that foolish."
+
+"――――Hm?"
+
+---
+
+At that instant, the white skull disappears.
+
+Assassin sensed the intruders and hurried out of the castle without hesitation.
+
+The enemies are already running outside.
+
+They have slipped through the unwary magus's guard and are about to exit the castle gate.
+
+---
+
+"――――Oh. So you are determined to die, boy?"
+
+But he hasn't been careless.
+
+Illyasviel cannot run away.
+
+Einzbern's longstanding desire is in her core.
+
+The white girl will help him even if he doesn't force her.
+
+It's foolish to run away with such a girl.
+
+Even if they escape the forest with her, she will come to the land of the Holy Grail, the land of the origin.
+
+---
+
+"Hah. I have left her alone, but it cannot be helped now.
+
+―――It is your turn, Sakura. You cannot be saved without Illyasviel. If you would like to be freed from that pain, go trample upon them without mercy."
+
+With a loud laugh, the presence of the old magus recedes.
+
+---
+
+...A shadow is cowering in the hall.
+
+The shadow that shrouds the entire hall has become a black swamp, from which two dark figures emerge.
+
+---
+
+"....................."
+
+---
+
+The girl no longer feels agony.
+
+It's not that she's accustomed to the poison now.
+
+It's merely that...
+
+"............I see. You came, Senpai......"
+
+---
+
+...Pleasure has surpassed her dark pain.
+
+---
+
+"...So that priest's with him. How stupid of him. He came to be eaten?"
+
+She raises a finger.
+
+To the direction of the castle gate. The direction the trespassers have gone, where they are running even now.
+
+---
+
+"Go. You can kill anyone but Senpai. Kill anyone else, no matter who they may be."
+
+---
+
+The black giant is released.
+
+The unleashed hound roars and disappears with a sudden gust.
+
+---
+
+"But then―――you won't be able to tell who that is, though, Berserker."
+
+---
+
+She smiles.
+
+Slowly, she leaves the kingdom of rubble with the black swordsman.
+
+---
+
+## Scene 08 Ilya found
 
 
 
@@ -1002,7 +1961,7 @@ I――――
 
 ---
 
-## Scene 05
+## Scene 09 Bring Ilya back.
 
 
 
@@ -1036,7 +1995,7 @@ She happily closes her hand over mine.
 
 ---
 
-## Scene 06
+## Scene 10 Bring Ilya back.
 
 
 
@@ -1070,7 +2029,7 @@ She happily closes her hand over mine.
 
 ---
 
-## Scene 07
+## Scene 11 Bring Ilya back. 
 
 
 
@@ -1104,7 +2063,7 @@ She happily closes her hand over mine.
 
 ---
 
-## Scene 08
+## Scene 12 Emotion
 
 
 
@@ -1242,7 +2201,7 @@ Kotomine turns to the castle gate, telling me there's no time to talk.
 
 And in challenge to him...
 
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-14.png)"
+"[wacky len=14]"
 
 An odd sound shakes the winter castle.
 
@@ -1560,7 +2519,7 @@ The priest easily knocked them all aside――――!
 
 ---
 
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)――――"
+"[wacky len=12]――――"
 
 ---
 
@@ -1634,7 +2593,7 @@ I think we will never see each other alive again.
 
 ---
 
-## Scene 09
+## Scene 13 over load
 
 
 
@@ -1910,7 +2869,7 @@ I ran full speed without slowing down.
 
 ---
 
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-13.png)――――"
+"[wacky len=13]――――"
 
 ---
 
@@ -1982,7 +2941,7 @@ Run so I won't think negative thoughts――――!
 
 ---
 
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-14.png)――――!"
+"[wacky len=14]――――!"
 
 ---
 
@@ -2154,7 +3113,7 @@ The mad warrior can't recognize Illya's figure, let alone mine.
 
 ---
 
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-14.png)"
+"[wacky len=14]"
 
 He raises his axe-sword against the living thing in front of him.
 
@@ -2184,7 +3143,7 @@ Assassin remains silent, in contrast to his talkative master.
 
 Battle is merely work for him.
 
-The Darks that go for his opponent's vital spots are also weapons to measure the strength of his opponent.
+The dirks that go for his opponent's vital spots are also weapons to measure the strength of his opponent.
 
 He measures his opponent's mobility with the first dagger.
 
@@ -2272,7 +3231,7 @@ He knows his prey is tired and wounded.
 
 ―――That is why this will kill.
 
-The prey should prevent death from the Darks.
+The prey should prevent death from the dirks.
 
 But that will be all.
 
@@ -2490,7 +3449,7 @@ It sublimates the wish of the five hundred-year-old magus with great mercy.
 
 ---
 
-## Scene 10
+## Scene 14 Nine Bullet Revolver
 
 
 
@@ -2566,7 +3525,7 @@ At the same time...
 
 ---
 
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-16.png)!"
+"[wacky len=15]!"
 
 "Ahhhhhhhhhhhhhhhh!!"
 
@@ -3316,7 +4275,7 @@ I pass the red figure with all my might.
 
 ---
 
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-14.png)"
+"[wacky len=14]"
 
 I step up onto the ground.
 
@@ -3412,7 +4371,7 @@ I will give my undivided attention to killing him for certain.
 
 ---
 
-"![](https://raw.githubusercontent.com/Assets-I/berserkertext/main/wacky24-12.png)!"
+"[wacky len=12]!"
 
 He notices me.
 
@@ -3852,7 +4811,7 @@ My heart's thumping loudly, jumping around inside my skull.
 
 ---
 
-## Scene 11
+## Scene 15 Death of a saint
 
 
 
@@ -4500,7 +5459,7 @@ On the ground where Kotomine Kirei lay is his blood-soaked outfit.
 
 ---
 
-## Scene 12
+## Scene 16 Truth-Antihero Angra Manyu
 
 
 
@@ -5814,7 +6773,1041 @@ The instant we realize the pressure's coming from the shadow, we run out into th
 
 ---
 
-## Scene 13
+## Scene 17 Separation
+
+
+
+――――We go out into the yard.
+
+The whole world is covered by the shadow.
+
+My entire body is numb with fear.
+
+---
+
+...The black shadow is standing in front of us.
+
+It can crush this house if it wants to.
+
+The difference in our power is obvious.
+
+It has transfigured to an existence that's unlike anything I've ever seen.
+
+---
+
+"..............."
+
+...The black shadow does nothing.
+
+It's not Sakura, but a shadow shaped like her.
+
+The real Sakura is under the Ryuudou Temple.
+
+The thing in front of us is a virtual image.
+
+---
+
+"――――Hmph. So you're sending the shadow instead of showing up yourself? You've gotten arrogant during the short time you've been away."
+
+"........."
+
+Does she not hear Tohsaka's provocation, or does she not hear anything at all?
+
+Wavering in the moonlight, her shadow looks lonely.
+
+---
+
+"........."
+
+Her eyes look at me.
+
+'Senpai'.
+
+Weak, as if she'll reply like always if I just reach out.
+
+---
+
+"――――――――"
+
+But I don't.
+
+What I must do is determined.
+
+I can't say anything to her, as doing so would weaken my resolve.
+
+---
+
+She looks away.
+
+After hanging her head for a moment,
+
+"Did you hear the whole story from Illyasviel, Nee-san?"
+
+She confronts Tohsaka with a cold voice.
+
+---
+
+"Yeah. I heard about what's possessing you and the abilities of what's about to be born from the Holy Grail.
+
+So, Sakura. Let me ask. Do you have any intention of cutting ties with Angra Manyu?"
+
+Tohsaka's voice is the same.
+
+Completely cold, showing no concern for Sakura.
+
+---
+
+"No. I said the weak me disappeared, didn't I? I was able to obtain this power, so I don't intend to let it go. I couldn't even if I wanted to.
+
+...This is how Matou Sakura has to live from now on."
+
+---
+
+"I see. Then one more thing.
+
+How complete is the Servant you're boasting about? Illya said it's coming out soon, but what do you have to say as the mother? Is it already born?"
+
+---
+
+"...Of course not. When that happens, this town will be consumed in a second.
+
+I can't allow that yet. Senpai's still here.
+
+So I won't let him out as long as I still exist."
+
+---
+
+"Oh, so there's no reason for us to hurry, huh? So you're going to keep Angra Manyu inside as long as Shirou's with me?
+
+That's good, Shirou. Sakura seems well enough."
+
+---
+
+"...Don't be ridiculous. You should know how much longer I'm going to last.
+
+Please run away with Senpai. I won't last long. I don't know when I'll disappear. I might only be able to hold out for one night."
+
+---
+
+"So I'm warning you before that.
+
+...Nee-san. Please take Senpai and run far away. Then I can be at peace and take his life with mine."
+
+---
+
+Sakura says she's going to kill him using her life.
+
+Tohsaka trembles a bit.
+
+Is that because she believes her, or...
+
+---
+
+"...Humph. You don't know when you're going to disappear, huh?
+
+You're wrong. You just don't know when you'll run out of patience."
+
+"――――Nee-san."
+
+---
+
+"Oh well. I don't know how you're going to kill Angra Manyu, but you can kill yourself without hesitation if I run away with Shirou?
+
+You'll kill the Servant within the Holy Grail along with you, right?"
+
+---
+
+"...Y-Yes. So please run away.
+
+I-I don't want you to see me change. It's fine as long as Senpai gets away.
+
+So――――please don't come after me anymore, Senpai."
+
+---
+
+She's desperately begging us.
+
+Sakura's shadow can kill us right now, but it asks for salvation by letting us go.
+
+---
+
+"――――――――"
+
+But I can't answer her wish.
+
+I can't leave Sakura and run away, nor can I let her kill herself along with Angra Manyu.
+
+And...
+
+"We'll go there. We'll go and kill you for sure."
+
+Tohsaka breaks away from her sister.
+
+---
+
+"Wha―――――――"
+
+"What did you expect? As Tohsaka's magus, I can't ignore you. And I can't believe you even if you say you'll kill yourself.
+
+Don't you get it, Sakura? You're not making any sense. You want to kill, but you're telling me to run.
+
+Geez, you're trying to act like a good girl because you're in front of Shirou."
+
+---
+
+"...What?"
+
+"Oh, you can make a good face. That's what you should've done from the start.
+
+So, is that all? Then get lost. You don't have to hurry since we'll go see you right away.
+
+Look, Sakura. I'll kill you with my own hands."
+
+---
+
+Tohsaka declares with voice that even contains kindness.
+
+...The shadow wavers.
+
+After freezing on the spot like a statue...
+
+"Yes――――I'll be waiting for you, Nee-san."
+
+...It smiles violently and disappears.
+
+---
+
+The shadow covering the house recedes.
+
+Tohsaka and I are the only ones remaining in the yard.
+
+---
+
+――――I get dizzy.
+
+I thought I was concentrating, but it seems I was agitated after seeing Sakura's image.
+
+...It seems Sakura's not the only one that's running out of time.
+
+---
+
+"――――Shirou.
+
+You heard what Sakura said. But what're you going to do?
+
+If you want to run, I won't stop you. But if you do, that'll be after you project the gem sword."
+
+---
+
+"You don't have to confirm with me. I won't run away, and I'll somehow project the gem sword.
+
+We're cooperating, right? Then I'll follow up by doing things you can't do."
+
+---
+
+"...I see. That's good, but do you understand, Shirou?
+
+Coming with me means killing Sakura. The same goes for the gem sword. You're going to prepare a weapon that I will use to kill her."
+
+---
+
+"...Yeah. The gem sword thing is contradictory. But Sakura's out of our control, and projecting the sword is a promise we made. If projecting the sword means we can match Sakura's shadow, then it's something we definitely need to do."
+
+---
+
+"Oh. So..."
+
+"Yeah, I'm taking the opposite measure. I'm going to end this war by saving Sakura. I've decided to be Sakura's ally."
+
+---
+
+"Even if letting Sakura live means killing everyone else?"
+
+"We don't know that yet. There should be a way to save Sakura and not let there be any more victims."
+
+---
+
+"...I don't know about that. Sakura's already killed many people. Is it justice for you to save such a person, Shirou?"
+
+――――Her inquiry is decisive.
+
+A sin I can't talk myself out of.
+
+She puts it into words, and I finally...
+
+---
+
+"―――That's right. I'll protect her even if she's not human. I'm going to protect her from everything, including the part of her that wants to kill me.
+
+That's all I want to do. That's what it means to be someone's ally, right?"
+
+...I'm able to tell her what I think.
+
+---
+
+"......Geez. You really can just come out and say it."
+
+I nod back, feeling no shame.
+
+---
+
+"......I see. Well, I knew there was no point in arguing with you, but I didn't think it'd go this far. You beat me."
+
+"Huh? Where are you going, Tohsaka?"
+
+---
+
+"I have to go prepare for the battle.
+
+Sakura gave us that warning because she really doesn't have time to spare. So I have to get ready quickly."
+
+"That's true, but we were talking――――"
+
+---
+
+"We're done talking now. In short, you're going to save Sakura as long as you're still alive, right?
+
+...Hmph. Fine, do as you want. I'm not going to say anything now. Go struggle to your heart's content."
+
+---
+
+"Hm...?"
+
+Where did her nervousness go? Tohsaka looks angry now.
+
+---
+
+"But don't get me wrong. This is in exchange for making the gem sword.
+
+I'll leave you in charge of Sakura as long as you're trying. I won't do anything until you can't move anymore.
+
+...That's good, right? You might be able to save Sakura, if you try hard enough."
+
+---
+
+Tohsaka leaves with that.
+
+"........."
+
+The uneasiness in my chest goes away.
+
+We're thinking oppositely.
+
+But Tohsaka still wants to save Sakura.
+
+---
+
+Then I can entrust her with Sakura.
+
+We both like her.
+
+Then Tohsaka should be able to save Sakura.
+
+---
+
+## Scene 18 Record of the Great Holy Grail
+
+
+
+It's ten o'clock.
+
+Tohsaka said we'll prepare for battle and go to the Ryuudou Temple before the date changes.
+
+---
+
+"Well. I'm going to have you project the gem sword, but how do you feel? Can you project it while suppressing Archer's arm?"
+
+"Oh――――"
+
+...I see.
+
+Illya hasn't told her how I took the Shroud off.
+
+"Well――――um, yeah..."
+
+---
+
+"Oh, that's good to hear. Then the rest is up to Shirou and Illya.
+
+The Azoth Sword, which is as close as we're going to get to the gem sword, Shirou's projection, and Illya's support. We may not be able to replicate it, but if all goes well, we should at least be able to reproduce half of its original ability."
+
+Tohsaka hands me a dagger.
+
+---
+
+"........."
+
+The dagger is a ritualistic equipment.
+
+It might be something she favors, as it looks well-used.
+
+Not only that. Even an amateur like me can feel how much magical energy is stored in this thing.
+
+---
+
+...Well, this is nothing compared to the shadow, but it's still a hundred times more than my magical energy capacity.
+
+---
+
+"...This is amazing. You had something like this up your sleeve?"
+
+"Of course it's amazing. I used all the jewels I had, which contained ten years worth of magical energy."
+
+---
+
+Tohsaka sulks, like she didn't want to use them.
+
+...She seems generous, but maybe she's really stingy when it comes to money.
+
+Well, with that aside...
+
+---
+
+"Hmm, but is that really okay, Tohsaka? You don't have any left for yourself if you've used everything you have, right? I know you're still not fully recovered, so can you still fight?"
+
+---
+
+"Well, I can manage to move around. But I haven't healed to the point where I can use magecraft again."
+
+"Wait――――then..."
+
+---
+
+"You don't need to worry. It's fine as long as you can project the gem sword. The sword has absurd powers said to have even stopped the 'falling moon'."
+
+---
+
+"...?"
+
+I don't get what she means, but Tohsaka has great confidence.
+
+...Well, if she's so sure of herself, I won't worry either.
+
+---
+
+"Let's start, Shirou. It'll take a long time to project that sword, even for you. We have to get started or the date'll change."
+
+---
+
+"You're right. Then let's go back to your room. If we're not someplace where you can relax, our chances are lower."
+
+Tohsaka heads back to the living room.
+
+---
+
+"Oh, hold on. I'll do the projection in the shed.
+
+And I want to be alone with Illya while I do it, so can you wait in your room?"
+
+"Why? I have to be there in case something happens, right?"
+
+---
+
+"There's no need. It's a bother if you're here.
+
+Shirou gets distracted easily, so we might fail if you fall and get his attention when it counts the most."
+
+---
+
+"...Hey, that's rude, Illya."
+
+Tohsaka complains with a sour look.
+
+She's not arguing back, maybe because she can't deny the possibility that she'll screw up at a crucial moment.
+
+---
+
+"...All right. Then I'll wait outside the shed. Is that all right, Illya?"
+
+"...I guess it can't be helped. That's the biggest compromise we can make."
+
+---
+
+"Rin. Don't come in until I tell you to if you want us to reproduce the gem sword. I'll call for you if something's about to happen, so please stay outside until then no matter what."
+
+---
+
+"You're being persistent. I said I understand. I won't come in even if I hear Shirou scream."
+
+"........."
+
+It doesn't really matter, but I wish she'd picked a better example.
+
+---
+
+"Well, let's go, Shirou."
+
+Illya goes into the shed.
+
+I decide to ask Tohsaka something before I follow.
+
+---
+
+"Tohsaka. Can I have this sword?"
+
+"...? You're going to be projecting using that. The Azoth Sword will go away once the gem sword's projected."
+
+---
+
+"Yeah. You can have the gem sword, so can I have this in return?
+
+See, this might break if I fail. I can't concentrate, thinking how you might get angry if I break this."
+
+---
+
+"...Geez. Fine. You can have the Azoth Sword if that'll help you relax."
+
+"Thanks. Then I'm going to go do my best."
+
+---
+
+...I shut the door.
+
+I can't let Tohsaka see this.
+
+I'm sure she won't stop me now, but she'll definitely feel responsible.
+
+If I'm to smooth this out, I have to tell her I used it after everything is over and get retroactive approval.
+
+---
+
+"...Are you ready, Shirou? You've released Archer's arm already, so I don't need to explain the steps, right?"
+
+I nod.
+
+Illya tells me to sit down, and I do so.
+
+---
+
+"But Illya. I can only project what I've seen or what Archer made. I have no information on the gem sword. I can't project it even if we have a blueprint and a dagger that's just like it."
+
+---
+
+"I know. I'll first have you come inside my memory. I haven't seen it either, but the record of the gem sword is in me.
+
+Tohsaka's great master was there when the Great Holy Grail was made.
+
+I'm sure the sword was there at that time."
+
+---
+
+"Whoa, Illya――――"
+
+"Just close your eyes. I'll keep your body here and send your mind somewhere else. We did this before. I'll send your vision into my memory, so analyze the gem sword there.
+
+...I'll release your left arm once you're inside. You'll be hit by the pressure of two hundred years and the invasion from your arm at the same time. Brace yourself and try to finish the projection as fast as you can."
+
+---
+
+"――――――――"
+
+Illya's voice is trembling.
+
+...Her arms are as well.
+
+---
+
+"...I'll take you to the gem sword, so you just need to hold your breath. Clear your mind and don't look at anything unnecessary. You just need to draw out his Zelretch――――"
+
+---
+
+――――Space splits.
+
+Is it because all my senses are within her memory...
+
+or is it because my left arm is released?
+
+---
+
+There's no pain, the cognition of pain doesn't matter now, I'm swallowed by my injury, I'm falling into a swirling maelstrom of pain.
+
+---
+
+I don't know where I am.
+
+---
+
+I don't know who I am.
+
+---
+
+I don't know what it means.
+
+---
+
+It's a large circuit.
+
+Multi-layered Crests are carved on a bare rock that's over fifty meters in radius.
+
+It's like a large observatory, rotating by itself in the deserts of Arizona.
+
+---
+
+The circuits cover the area in many layers.
+
+The geometric figures turn in place.
+
+A white girl stands in the center of the beautiful spider's nest.
+
+---
+
+Her name is Lizleihi.
+
+Lizleihi Justizia von Einzbern.
+
+She's the magus that devised the Holy Grail War.
+
+The great magus who was called the winter saint. A magus accompanied by Makiri Zouken and Tohsaka Nagato.
+
+---
+
+The Great Holy Grail is activated.
+
+Justizia becomes the key reenacting the ancient True magecraft.
+
+Yes. The Holy Grail is just a Holy Grail without her.
+
+Her will is needed for Heavens Feel.
+
+The old man knows as well as Makiri and Tohsaka do that the Holy Grail is a mere wishbringer.
+
+---
+
+――――My vision narrows.
+
+The world expands.
+
+I concentrated on something needless. I did, so my body was ripped in half.
+
+---
+
+The world is too big for this small body.
+
+I'll eventually see nothing.
+
+The process behind this two-hundred-year-old ritual doesn't matter.
+
+There's only one thing I need to look at.
+
+I concentrate on the man standing in front of the Great Holy Grail. I concentrate on the dagger in his hand――――
+
+---
+
+――――That's the original.
+
+A ritual dagger with a jeweled blade.
+
+The kaleidoscopic gleam sears through my eyes and into my brain.
+
+---
+
+"――――――――, ――――――――"
+
+---
+
+I understand the instant I see it.
+
+I understand that I can't comprehend it.
+
+All I can imitate is its shape.
+
+I can't analyze its structure and project it.
+
+---
+
+What kind of a magical theory was it constructed with?
+
+The old man's dagger is still a mystery, even if I use Archer's arm and every last piece of knowledge in heroic spirit Emiya.
+
+It's alien technology.
+
+The old man is embodying general knowledge from a far future, beyond the reach of modern man――――
+
+---
+
+"――――. ――――......!!"
+
+---
+
+I'm repelled.
+
+I can't be repelled.
+
+I can't reach it.
+
+Not reaching it is unforgivable.
+
+---
+
+I reach out.
+
+I reach out.
+
+I reach out.
+
+My eyes are burned out, my brains are burned out.
+
+I extend my left arm for dozens of meters, extend, extend, extend――――――――
+
+---
+
+"Stop! Come back, Shirou...!"
+
+---
+
+I hear Illya's voice.
+
+But I'm not there yet.
+
+I don't even have my fingertips on it.
+
+I can't back out now.
+
+How can I back out after seeing that miracle, the ultimate one...!?
+
+---
+
+"Give up...! Do you want to disappear, Shirou!?"
+
+---
+
+Get there――――
+
+---
+
+Get there―――――――――
+
+---
+
+Get there――――――――――――
+
+---
+
+Get there―――――――――――――
+
+―――――――――――――――――――――――
+
+――――――――――――――――――――――
+
+---
+
+"Haa, ah.......!!!!!!!!"
+
+"Shirou――――!"
+
+Did I jump myself, or was I pushed back by something?
+
+I'm flying, and I land on my back.
+
+---
+
+"Ha――――ga, ah――――!"
+
+My left arm pain .
+
+My tongue my fingers the trembling won't .
+
+"Ah――――uwa, ah, ah――――!"
+
+.
+
+, .
+
+---
+
+"Stay  ! I'll Shroud  !"
+
+"Haa, guh, ah..........!"
+
+A big knife stabs me from the side.
+
+It's so uncomfortable that I repel the one wielding it――――
+
+---
+
+"Oh... Ouch――――"
+
+And I realize I just punched Illya.
+
+"......! I-I'm sorry, Illya, I――――"
+
+She pats dust off herself and gets up.
+
+...Good. She's not hurt.
+
+---
+
+"I told you not to look at unnecessary things, you idiot!
+
+...Geez, I'll let you off the hook this time since it paid off, but I won't forgive you if you disobey me again!"
+
+---
+
+She points at my face as she scolds me.
+
+...Wait.
+
+Feeling something hard in my left hand, I look down.
+
+---
+
+"――――――――"
+
+......I managed to project it.
+
+It's projected, but it doesn't seem like the one I saw.
+
+First of all, I don't feel any magical energy in this thing.
+
+Tohsaka's Azoth Sword is many times better than this, and this blade wouldn't cut paper.
+
+---
+
+"Yup. I have a lot to complain about, but thanks for your hard work, Shirou. Your projection was perfect. You showed me a flawless blade works."
+
+"Uh――――I don't know, but is this any good? It looks pretty crappy."
+
+---
+
+"That's fine as is. The sword is an extraordinary demonic sword that can only be used by Schweinorg's lineage.
+
+Well, I guess it's fate. Sakura is receiving the protection of the third and Rin's going to try to use the second. It wouldn't end up as mere investigation if the Association were here. Every department would be running to put them on trial."
+
+Illya laughs.
+
+---
+
+"...Wow. So this dagger is that amazing?"
+
+"Yeah. To be more accurate, it's a multi-dimensional refractory phenomenon, Gem Sword Kishua Zelretch Schweinorg.
+
+It's called Gem Sword Zelretch, and it's the old magus's favored sword and Tohsaka's heirloom."
+
+---
+
+"But the sword wasn't passed down the Tohsaka line, just the blueprint.
+
+It's an assignment from the sorcerer that the Tohsaka magi must pursue for a long, long time."
+
+---
+
+"Assignment from a sorcerer... Wait, the great master Tohsaka was talking about is a sorcerer...!?"
+
+---
+
+"Yeah. But Zelretch is an oddball among the sorcerers in that he still associates himself with this world, so I'm sure he has other apprentices.
+
+I don't think Zelretch is in this world, but he might show up once Rin's capable of making the gem sword by herself."
+
+---
+
+"Hmm......?"
+
+He's not in this world, but might appear all of a sudden? Isn't he just a wanderer that likes to travel?
+
+---
+
+"――――――――"
+
+――――Whoa.
+
+I let my guard down.
+
+I get dizzy.
+
+I clench my right fist, feel the pendant digging into my torn flesh, and keep my consciousness.
+
+---
+
+"――――, ――――"
+
+I steady my breathing so Illya doesn't notice.
+
+My limbs――――I still feel my limbs.
+
+---
+
+"――――――――"
+
+......Good.
+
+I thought I'd lose something if I used projection, but I'm not missing anything yet.
+
+My head's still working.
+
+The biggest proof is that I can check on my condition.
+
+I should be able to use one more projection.
+
+---
+
+―――No, I have to use it.
+
+I have to save Sakura in a way different from Tohsaka.
+
+Archer's arm will make it poss-
+
+---
+
+"So means. In short, the True magecraft parallel worlds. So his nickname Kaleidoscope "
+
+"――――Tohsaka?"
+
+"  ? ,  ?"
+
+---
+
+"――――――――"
+
+I can't understand her.
+
+It's not that I can't hear her. She's just speaking in a language I don't understand.
+
+She's talking in some strange language and holding something dangerous in her left hand.
+
+---
+
+...Tohsaka's holding a sword I've never seen before.
+
+Never seen before?
+
+That can't be.
+
+I projected (I think) that sword just now, and my left hand is empty, so it must mean I handed it to Tohsaka.
+
+---
+
+"Shirou? from .
+
+Was the projection  ?"
+
+"――――――――"
+
+---
+
+I get a chill.
+
+My memory's vague.
+
+I can't recall anything.
+
+My understanding and the details don't match up.
+
+---
+
+"Guh――――, ..........!"
+
+I clench my right hand.
+
+My eyes finally focus in exchange for dripping blood.
+
+---
+
+"――――Um, Tohsaka."
+
+I get up.
+
+My limbs are light compared to my disconnected head.
+
+They're so light that I think they may be empty inside.
+
+---
+
+"It's not 'Tohsaka'. Illya and I will go test it out, so you should rest―――wait, what's with your hand...!"
+
+---
+
+Tohsaka grabs me.
+
+Her speed is surprisingly slow, but...
+
+"Eh......? Why do you have this...?"
+
+My mind isn't working, and she has ahold of my hand before I know it.
+
+---
+
+Tohsaka's looking at the pendant in my palm with astonishment.
+
+I don't know why she's surprised.
+
+But I have this because...
+
+---
+
+"Shirou. Why do you have this? And are you crazy, holding it this tight?"
+
+"Why? I just have it as a charm. This is..."
+
+---
+
+...Something I picked up.
+
+Why did I pick it up?
+
+It's something I shouldn't forget, but I can't remember.
+
+But the stranger in my left arm knows what it is better than I do.
+
+---
+
+"......Um, it's something important. I have to have it on me until the end."
+
+---
+
+Words that are not mine come out of my mouth.
+
+".........
+
+Shirou. I also have that pendant."
+
+---
+
+"Eh?"
+
+Tohsaka takes out a pendant from her pocket.
+
+It's certainly the same.
+
+It's a simple design for a jewel user like Tohsaka, but I think something simple like this brings out her beauty.
+
+---
+
+"Wow, they're the same."
+
+I nod back.
+
+---
+
+"No. Mine's empty, but there's still a bit left in yours. It's not significant, but I'm sure there's a meaning behind the usage of it."
+
+"...?"
+
+---
+
+"Keep that. It might come in handy."
+
+Tohsaka puts her pendant away and walks off with Illya.
+
+---
+
+"Hey, Tohsaka. Where are you going?"
+
+"I need to talk to Illya. I'll let you rest for an hour, so stay in your room.
+
+And I'll get seriously mad if you don't treat your hand right away."
+
+---
+
+"――――――――"
+
+Tohsaka's bad temper borders on outright hostility.
+
+She takes Illya, who follows her without a word.
+
+---
+
+## Scene 19 Confrontation with Rider
 
 
 
@@ -5918,7 +7911,7 @@ I――――
 
 ---
 
-## Scene 14
+## Scene 20 Escape out the shed- Rider leaves
 
 
 
@@ -5996,7 +7989,7 @@ If my suspicion is correct, she might help us if the opportunity arises―――
 
 ---
 
-## Scene 15
+## Scene 21 Fight back using projection- Rider leaves
 
 
 
@@ -6054,7 +8047,7 @@ If my suspicion is correct, she might help us if the opportunity arises―――
 
 ---
 
-## Scene 16
+## Scene 22 Rider's question
 
 
 
@@ -6070,7 +8063,7 @@ It was...
 
 ---
 
-## Scene 17
+## Scene 23 Will I be able to fight until the very end- Rider leaves
 
 
 
@@ -6112,7 +8105,7 @@ The voice comes from afar, and there's no indication she'll return.
 
 ---
 
-## Scene 18
+## Scene 24 Will I not give up until the very end- Rider leaves
 
 
 
@@ -6154,117 +8147,7 @@ The voice comes from afar, and there's no indication she'll return.
 
 ---
 
-## Scene 19
-
-
-
-...That's right.
-
-She asked me under the starry sky.
-
-If I'll be on Sakura's side until the very end.
-
----
-
-The words I couldn't say to her back then.
-
-I can tell her now with confidence.
-
----
-
-"Rider. I understand how much you care for Sakura.
-
-You're stopping me now because Sakura will suffer if you let me go, right?"
-
----
-
-".........Yes. Are you still going to kill Sakura in spite of that?"
-
-"I'm not going to kill her. I'm going to save her.
-
-Rider. I'm going to protect Sakura until the very end. I'm going to choose Sakura no matter what."
-
----
-
-"So―――please lend me your power. Tohsaka and I can't do this alone. If you care for Sakura, please help us."
-
----
-
-"――――――Is that...
-
-Your answer to my question from the other day?"
-
-I nod.
-
----
-
-"............Very well.
-
-But I will not fight unless there is a chance to win. What do you expect of me, Shirou?"
-
----
-
-What I expect from Rider?
-
-There's only one thing.
-
-Rider's the only one out of all the Servants that can oppose Saber's Noble Phantasm, Sakura's strongest card.
-
----
-
-"―――I have some questions before that. Can you still use your Noble Phantasm?"
-
-"Yes. Sakura still supplies me with magical energy."
-
----
-
-"Right, next question. Are Servants still spirits even if they take physical form? So you can't hurt them with normal weapons?"
-
----
-
-"...Let's see. A normal Servant will be able to nullify them, but those consumed by Sakura are another matter.
-
-Having received bodies from Sakura, they cannot return to spiritual form.
-
-Strong magical weapons should be able to penetrate through their shadows."
-
----
-
-"――――I see, then it's decided. There's a chance of victory, and the roles are clear.
-
-Rider. I want you to beat Saber one-on-one. To be specific――――"
-
----
-
-I whisper in her ear.
-
-...I know nobody's listening, but I'm just making sure.
-
----
-
-"――――I see. I can definitely penetrate her guard with that.
-
-It is a pure contest of power. Nothing is left to chance."
-
-"Right? ...Well, if there is a problem..."
-
----
-
-"It is your skill and my trust in you."
-
----
-
-I nod.
-
-Rider puts a finger to her mouth, thinking...
-
-"Fair enough. I shall trust you and accept you as my temporary master."
-
-...And agrees with a smile that takes me by surprise.
-
----
-
-## Scene 20
+## Scene 25 Sparks liner high
 
 
 
@@ -7730,1881 +9613,205 @@ No matter which one survived, the one who would bless them is no longer in this 
 
 ---
 
-## Scene 22
 
 
 
-"...Do what you want. I don't know what your intentions are, but neither one of us likes Zouken."
 
-"I see, common ground is important. I do have some relation to that old man."
+## Scene 26 Tiger Dojo 38
 
----
-
-We start down the hill.
-
-We leave the church together without looking at each other.
-
----
-
-Dawn has nearly broken when we reach the forest.
-
-"Wait here. You may go home if we do not return by the time the date changes."
-
-He stops the car on a road near the entrance of the forest.
-
-Kotomine arranged for the car.
-
----
-
-"So how are you going to help me?"
-
-"Hm. Our method of transportation, to start out with."
-
-...After that conversation, Kotomine immediately prepared a car and driver.
-
-That alone is helpful.
-
-It's past three in the morning. Not many taxis would take a suspicious student out to the outskirts right now.
-
----
-
-"It is possible that only the boy will return.
-
-That is not a good situation. Do not wait for me and go back to town as fast as possible in that case."
-
-Kotomine gives orders to the driver.
-
-The driver nods silently, then opens the trunk.
-
----
-
-"――――Emiya. Take the weapon."
-
-"Huh?"
-
-He throws a long, thin object at me.
-
----
-
-"Whoa. Is this a sword?"
-
-It's a slender sword.
-
-It's like a rapier.
-
-It's a sword made for thrusting, not slashing.
-
-But the blade's a bit too thick, and it looks like it'll be hard to use.
-
-It's like Assassin's Dark made into a sword.
-
----
-
-"This is a weapon?"
-
-"Kiritsugu preferred guns, but unfortunately, submachine guns are the only firearms I have right now. Bullets aren't effective against ghosts, and you're not trained to use them in any case. That's better for you, since you're a magecraft user."
-
----
-
-"――――――――"
-
-I lightly swing the sword.
-
-...It's oddly-balanced.
-
-It weighs about a kilo, but the tip is heavy.
-
-It's more like an arrow than a sword.
-
----
-
-"...Is this a special weapon of the Church? I feel magical energy from it."
-
-"It is called a Black Key. It is not magecraft, but sacrament.
-
-It is our exclusive right, used to fight spirits. If you use your magecraft on that sword, it should be of some use, even against a Servant."
-
-That's if I can hit them with it, he adds.
-
----
-
-"Make sure you do not get into a situation where you have to use it.
-
-―――Let's go.
-
-It's been almost a day since Illyasviel was kidnapped.
-
-The place may be empty already, but we'll think about that after we get there.
-
-We should at least be able to find out where Matou Sakura went."
-
-The priest, unlike me, goes into the forest empty-handed.
-
----
-
-"――――――――"
-
-I take a deep breath.
-
-I put the sword into the sheath and follow after Kotomine.
-
----
-
-I take the lead.
-
-I use my memory to head to the castle.
-
-...I couldn't reach it the last time I was here.
-
-It's because I met Illya, fleeing from the black shadow, on my way to the castle.
-
----
-
-"――――――――"
-
-...I check my left arm.
-
-I lost my arm at that time.
-
-I was almost killed by the shadow, and there wasn't a thing I could do about it.
-
-It's the same now.
-
-I have no way to match the shadow even if I encounter it, and they also have Saber.
-
----
-
-...Once I run into them, it's all over.
-
-If I'm to get Illya back, a surprise attack will be the only way.
-
-I'll rescue Illya without Sakura noticing.
-
-Then―――
-
----
-
-What should I do after that?
-
-What can I do to Sakura?
-
-How can I take Sakura back to my house?
-
----
-
-"Hold on. Do not tell me you intend to bring Matou Sakura back."
-
-"Wha... O-Of course I intend to. I want to save her."
-
----
-
-"Don't even try.
-
-We cannot match Matou Sakura... no, that shadow. It will swallow us without giving us a chance to talk. You should know that better than me."
-
----
-
-"――――――――!"
-
-That's...
-
-It'll be just like when I confronted her in the yard.
-
-But still――――
-
----
-
-"Let it go this time. We will have our chance if we can put Illyasviel under your care. If you wish to speak with Matou Sakura, that can come after we prepare something that can match her."
-
-"............"
-
----
-
-A force that can match Sakura, who has an overwhelming amount of magical energy.
-
-...If anyone can prepare such a thing, it'll be Tohsaka.
-
-I'll have to project the gem sword we were planning to use against Zouken and the black shadow――――
-
----
-
-"Damn...! Okay, so I'm supposed to concentrate on saving Illya for now, right...!?"
-
-"Right. Then let's go. We don't have time."
-
----
-
-"――――――――"
-
-I slap my cheeks to boost my spirits.
-
-This isn't the time to be feeling timid.
-
-I have to save Illya.
-
-Sakura said she'll kill her.
-
-...I won't let her die, and I won't let Sakura do such a thing.
-
-All I can do right now is to get Illya away from Sakura.
-
-Then I'll concentrate on that for now――――
-
----
-
-I emerge in a familiar place.
-
-It's been two hours since I entered the forest.
-
-The sun should already be up, but the forest's still covered in morning mist.
-
----
-
-"――――...She's here. The curse over this forest is definitely hers."
-
-"...?"
-
-Kotomine says something strange as we keep running.
-
-...The curse over this forest?
-
-Can he see such a thing?
-
----
-
-"Kotomine. By curse, do you mean you can pick out Sakura's presence?"
-
-"It is more like a resonance. ......Well, I do not care. But if we are to fight Matou Sakura, I will retreat.
-
-Putting you aside, I cannot harm Black Sakura. I have no chance of winning even if I fight her."
-
-"......?"
-
-Well, I have no chance of winning either. But...
-
----
-
-"Hold on. What do you mean by 'Black'? Sakura's Sakura. She's just possessed by the shadow, and she'll quickly...."
-
-"She'll quickly be back to normal?
-
-I explained that to you before. The only way to return her to normal is to separate her from the shadow."
-
----
-
-"There are two ways to do so.
-
-Eliminate the main body of the shadow, or wait until Matou Sakura materializes it.
-
-You have no way to defeat the shadow right now. All you can do is protect Sakura's mind until the shadow is born."
-
----
-
-"――――――――"
-
-But I don't know how to protect her mind.
-
-...The Command Spell covering Sakura's body...
-
-If that's what Kotomine means by Black Sakura, then isn't Sakura slowly turning into the shadow?
-
----
-
-"...Kotomine. When you talk about materializing the shadow, do you mean Sakura turning into it?"
-
-"No. I'm sure there is some sympathy, but the main body of the shadow is in the Holy Grail.
-
-What is transforming Matou Sakura is inside the Holy Grail, but that is still her shadow.
-
-It cannot exist without her. The main body does not have form, so it exists in the material world by being her shadow."
-
----
-
-"What's inside the Holy Grail will not come into this world unless there is an incomplete Holy Grail called Matou Sakura.
-
-But once it is born, it will be a separate entity. Once it is separated from her, the curse tainting her should stop."
-
----
-
-"...Kotomine. You say born, but is that thing inside Sakura?"
-
-"Of course not. If it were, the matter would be easily solved. We would simply need to extract it from her body.
-
-The main body of the shadow is within the Holy Grail. Matou Sakura is merely a host that gives it energy and form."
-
----
-
-"But Sakura's the Holy Grail, right? What does that mean?
-
-Are there many Holy Grails?"
-
----
-
-"Yes. I explained to you in the beginning. This land has a Holy Grail, and they summon the Holy Grail into the Holy Grail the people prepared.
-
-The main Holy Grail―――the magecraft circle and the brain that governs the rules of the ritual called the Holy Grail War. That is the Holy Grail on this land that Einzbern, Tohsaka, and Makiri prepared."
-
----
-
-"――――The Holy Grail in this land――――"
-
-All the laws... Summoning the Servants, making the Masters fight, and calling down the Holy Grail.
-
-If the Holy Grail War is man-induced, then it's obvious that there's also a man-induced cause.
-
----
-
-Then―――if I find that large-scale magecraft circle and destroy it, I may be able to purge the shadow invading Sakura's body―――
-
----
-
-"Do you know where that is, Kotomine?"
-
-"I have a guess. Ask Rin if you would like to know the entrance.
-
-The Tohsaka family are the supervisors of this land.
-
-The Einzbern cooperated with them two hundred years ago to secure a land for the ritual. Rin, the successor, should know where the place is."
-
----
-
-"But―――that is all after we save Illyasviel. If Zouken obtains Illyasviel, she and Matou Sakura will be disposed of as the Holy Grail.
-
-Matou Zouken has no intention of using the main Holy Grail. For him, the two women are enough.
-
-Your idea of destroying the main Holy Grail is meaningless."
-
----
-
-"D-Don't be stupid! I'm not thinking about such a thing!"
-
-"Really? I think it is the most realistic solution for you. It's strange that you wouldn't go through with it."
-
----
-
-"―――Shut up. So why didn't you tell me about it?
-
-If you'd told me at the beginning, I would...."
-
----
-
-"You would have destroyed the magecraft circle? Nothing would go so smoothly. My goal is the completion of the magecraft circle, after all. I cannot let you destroy it."
-
----
-
-"I told you that we will be enemies after we rescue Illyasviel. My goal is different from yours.
-
-I am interested in what comes from Matou Sakura―――no, what is trying to become her. Unlike Zouken, I have no wish."
-
----
-
-"...Don't bullshit me. You're the same as Zouken. You're using Sakura to create something and make it yours."
-
----
-
-"Make it mine...? Of course not. I have no interest in it after it is born. In any case, no human will be able to control it.
-
-What will appear is a phenomenon called hell. If Matou Sakura becomes that, I will die just like everybody else."
-
----
-
-"Wha――――――――"
-
-What is that?
-
-Then his goal's just...
-
----
-
-"―――Are you insane?
-
-You want to turn Sakura into such a thing, knowing that you're going to be killed...!?"
-
----
-
-"Yes. My role is to bless whatever is born.
-
-That will not change, no matter what it is or what situation it is in.
-
-There is a life and a will to be born. I cannot oppose that.
-
-Emiya. If there is a pure wish in this world, it must be the desire to be born."
-
----
-
-"But what's in Sakura is――――"
-
-"It is not evil.
-
-Humans can earn happiness just by existing.
-
-As they grow, they will learn of new happiness, of more advanced and complex pleasures."
-
----
-
-"But humans are not happy at the moment of birth.
-
-An embryo does not have the knowledge to know what happiness is.
-
-Humans start from zero, learn what is fun, and learn what is right.
-
-The beginning is at zero.
-
-There is no good or evil. There is only the fact that it is allowed to exist in this world."
-
----
-
-"――――――――"
-
-"Good or evil. The person's knowledge will decide that.
-
-If there is any responsibility, it lies with the environment and the 'self' that raised you.
-
-There is no crime in receiving birth.
-
-That is why I will bless even the birth of a devil."
-
----
-
-"―――This is the way I have lived.
-
-This way of living is mine.
-
-Even if what Matou Sakura gives birth to is hell, it is hard to change my nature."
-
----
-
-"――――――――"
-
-...I don't understand.
-
-I know he's serious.
-
-He knows he'll die, but he's still going bless the evil that will be born through Sakura.
-
-...I'll never be able to approve of this man.
-
-But it's true that he's trying to save Illya and release Sakura from Zouken's control.
-
----
-
-"―――――――!"
-
-Thoughts that are in conflict.
-
-Lives that cannot coexist.
-
-But we have the same goal right now.
-
----
-
-"―――I can trust you, right?"
-
-"I said we will be cooperating. I will trust you with my back."
-
----
-
-A reply without hesitation.
-
-...That's all that's there right now.
-
-I have an ally that's better than anyone.
-
-I'll just think about rescuing Illya and getting out of this forest safely――――
-
----
-
-## Scene 23
-
-
-
-Ah――――Ah, ah――――ah――――
-
----
-
-The space is filled with black fire.
-
-The luxurious rooms are burned away by meaningless gasping.
-
----
-
-Ah――――Ah, ah――――ah――――
-
----
-
-The blazing fire is like a heat haze.
-
-The formerly shapeless shadow breaks through every wall and floor in concert with the host's pain.
-
----
-
-Ha――――uh, ah―――ahh, ah――――!
-
----
-
-The black heat haze dances in tune to the melody.
-
-Each time the figure at its center curls up, claws at her throat, and gasps in agony, the old castle's beauty is disfigured further.
-
-―――But this is nothing to grieve over.
-
-This desolate winter castle has been forgotten by everyone.
-
-Nobody has lived here or seen it, so it makes no difference even if it's destroyed.
-
----
-
-"Ah...... Ua... ah... aaahh, ah......"
-
----
-
-The hall has turned into the shadow's kingdom.
-
-Writhing in agony, the woman in the middle is both its king and its slave.
-
-It has already been a day since she arrived at this castle with Illyasviel.
-
----
-
-Matou Sakura's transfiguration is reaching its final stage.
-
----
-
-As she's one with the shadow, having a physical form is torture.
-
-Her mind is being engulfed by pain and the impulse to destroy.
-
-...If that were all, she would be able to bear it.
-
-She's used to physical pain.
-
----
-
-But―――the pain of having her existence denied is something she has never experienced.
-
-The shadow should not exist.
-
-This world has no blessings to offer it.
-
----
-
-"Uh...... Ah... ah... ah......!"
-
----
-
-She tears at her throat.
-
-She cannot breathe.
-
-The air is poisonous.
-
-Matou Sakura is turning into a deep-sea monster, so being on land is like being in a vacuum.
-
----
-
-"Ah――――Ahhh, ahhhh......!!!!"
-
----
-
-That's why she dances around like mad.
-
-Her sanity broken, she takes out her anger on everything she sees.
-
-She keeps appealing to the unconcerned world about her pain.
-
-About her misfortune and her pain.
-
----
-
-"――――Well. It is about time. She remained Matou Sakura for longer than I expected, but she will turn into the vessel with one more push."
-
-Two shadows watch the spectacle.
-
-An old magus, Matou Zouken, and his Servant, Assassin.
-
----
-
-"...One more push? I am tired of hearing those words. The match is over. I am the only Servant you need. Have her take in the remaining two."
-
-"I know. But she does not try to kill the Servants she has absorbed. I do not know if it is her shallow wit or cowardice. Saber and Berserker are still trapped within her. She should kill them, but she keeps them alive."
-
----
-
-"...Interesting. So Saber is not the only one?"
-
-"No. It is probably to keep me in check, but how thoughtless of her. The more Servants she controls, the more magical energy she must draw from the Holy Grail. It is a supply of magical energy the Holy Grail receives from the Great Holy Grail, but magical energy is not the only thing that flows into her.
-
-She is accelerating her transfiguration by letting the Servants live. Her sanity will be lost and she will turn into an ideal tool even if I do nothing."
-
----
-
-The old magus laughs, watching the girl's suffering.
-
-There's affection in his eyes.
-
-He loves her.
-
-What he originally considered a mere experiment grew beyond his expectation to grant him his dearest wish, immortality.
-
----
-
-It would be strange not to love her.
-
-To the old magus, Matou Sakura looks like a beautiful bride.
-
-No matter how much she fights, she will be his in the end.
-
-It doesn't matter even if she obtains power, controls many Servants, and retains her sanity.
-
-Their hierarchy was set eleven years ago.
-
-The old magus can kill Matou Sakura merely by closing his eyes and opening them again.
-
----
-
-"――――――――"
-
-...But the white skull is different.
-
-He's the symbol of ill omen, the wind that brings death, so he's sensitive to those of his kind.
-
----
-
-"―――The magus makes light of the matter, but―――"
-
-Will everything turn out well?
-
-The situation will not change, even if the girl loses her sanity.
-
-She reacts to people with hostility.
-
----
-
-In that regard, she's already acting the way she will once her mind is lost.
-
-Matou Zouken is conceited.
-
-Even if she goes mad, she will not obey his command.
-
----
-
-"......Magus. There is a way to control her, yes? Her defensive instincts are excessive. Your voice will not reach her if she loses her sanity and can no longer tell ally from enemy.
-
-If that happens, you cannot approach merely by hiding your hostility.
-
-She is the kind that will eliminate her enemies by foreseeing the 'result' called her death."
-
----
-
-"Oh, I see, that is promising. That makes it even better as the container."
-
-The old magus laughs.
-
----
-
-"――――――――"
-
-Falling silent, the masked figure stares at the crumbling hall.
-
-...He cannot approve of the magus's plan.
-
-He says his goal is immortality, but his method seems distorted.
-
-No, he's a rotting human from the start.
-
-It's natural that he's crazy, but the old man's procedure seems inconsistent――――
-
----
-
-"Haha, did you hear that, Assassin!? She's begging me for help now! Good, good! It feels like we're eleven years in the past!
-
-The pressure of being denied by the world itself must surely be painful, Sakura!
-
-But endure it. Your body can endure it. Remember all the days of pain and solitude over the last eleven years!
-
-For what did you bear the thousands of tortures!? What did you give your body to the tens of thousands of worms for!? That's right; pain of that degree is nothing to you! That's how I raised you! That's how I trained you!"
-
----
-
-"........."
-
-It seems the old magus can hear the girl's voice.
-
-Assassin can only hear groans, but she must literally be begging for her life, begging for help.
-
----
-
-"Yes, I will help you! You are my masterpiece! I shall see it through! But I can only save your body. Your mind did not follow me through the eleven years of training.
-
-You escaped the pain by accepting it, so you should not be able to bear that resentment. But you can rest assured, as I will guarantee the strength of your flesh! You can bear it! Your flesh shall put on Avenger!"
-
----
-
-The old magus continues to laugh.
-
-Assassin looks at him emotionlessly and steps back.
-
----
-
-"Hm? Where are you going, Assassin?
-
-There is a slight possibility of danger. I need you here to protect me from her."
-
-"...I do not mind, but why are you concerned about the black Holy Grail and not the white? Why are you letting the legitimate Holy Grail we obtained roam freely?"
-
-"Oh, that. Illyasviel is cooperative. She exists only to open the gate, as is her duty. She does not mind what we do as long as her goal is achieved."
-
----
-
-"........."
-
-"Do not be so doubtful. The Holy Grail you desire is that girl. Keeping your name in history and becoming the original. Your wish to be eternal through record will be granted by Einzbern.
-
-But I need her to keep her original form. Homunculi are outside my expertise. You can let her be until they prepare her formal dress."
-
----
-
-".........So you will not force them, you say?
-
-But――――do we have such liberty?"
-
-"Of course we do. We have no more enemies.
-
-It was unexpected that Emiya's boy and Tohsaka's girl were alive, but they aren't important. Nobody is foolish enough to fight after being shown that much difference in power."
-
----
-
-"We cannot take it back if we rush things out of needless worry and allow Illyasviel to die.
-
-It is her role to open heaven's gate. We shall show compassion and let her carry out her duty――――Assassin?"
-
-"―――Stop. It seems there is someone that foolish."
-
-"――――Hm?"
-
----
-
-At that instant, the white skull disappears.
-
-Assassin sensed the intruders and hurried out of the castle without hesitation.
-
-The enemies are already running outside.
-
-They have slipped through the unwary magus's guard and are about to exit the castle gate.
-
----
-
-"――――Oh. So you are determined to die, boy?"
-
-But he hasn't been careless.
-
-Illyasviel cannot run away.
-
-Einzbern's longstanding desire is in her core.
-
-The white girl will help him even if he doesn't force her.
-
-It's foolish to run away with such a girl.
-
-Even if they escape the forest with her, she will come to the land of the Holy Grail, the land of the origin.
-
----
-
-"Hah. I have left her alone, but it cannot be helped now.
-
-―――It is your turn, Sakura. You cannot be saved without Illyasviel. If you would like to be freed from that pain, go trample upon them without mercy."
-
-With a loud laugh, the presence of the old magus recedes.
-
----
-
-...A shadow is cowering in the hall.
-
-The shadow that shrouds the entire hall has become a black swamp, from which two dark figures emerge.
-
----
-
-"....................."
-
----
-
-The girl no longer feels agony.
-
-It's not that she's accustomed to the poison now.
-
-It's merely that...
-
-"............I see. You came, Senpai......"
-
----
-
-...Pleasure has surpassed her dark pain.
-
----
-
-"...So that priest's with him. How stupid of him. He came to be eaten?"
-
-She raises a finger.
-
-To the direction of the castle gate. The direction the trespassers have gone, where they are running even now.
-
----
-
-"Go. You can kill anyone but Senpai. Kill anyone else, no matter who they may be."
-
----
-
-The black giant is released.
-
-The unleashed hound roars and disappears with a sudden gust.
-
----
-
-"But then―――you won't be able to tell who that is, though, Berserker."
-
----
-
-She smiles.
-
-Slowly, she leaves the kingdom of rubble with the black swordsman.
-
----
-
-## Scene 24
-
-
-
-――――We go out into the yard.
-
-The whole world is covered by the shadow.
-
-My entire body is numb with fear.
-
----
-
-...The black shadow is standing in front of us.
-
-It can crush this house if it wants to.
-
-The difference in our power is obvious.
-
-It has transfigured to an existence that's unlike anything I've ever seen.
-
----
-
-"..............."
-
-...The black shadow does nothing.
-
-It's not Sakura, but a shadow shaped like her.
-
-The real Sakura is under the Ryuudou Temple.
-
-The thing in front of us is a virtual image.
-
----
-
-"――――Hmph. So you're sending the shadow instead of showing up yourself? You've gotten arrogant during the short time you've been away."
-
-"........."
-
-Does she not hear Tohsaka's provocation, or does she not hear anything at all?
-
-Wavering in the moonlight, her shadow looks lonely.
-
----
-
-"........."
-
-Her eyes look at me.
-
-'Senpai'.
-
-Weak, as if she'll reply like always if I just reach out.
-
----
-
-"――――――――"
-
-But I don't.
-
-What I must do is determined.
-
-I can't say anything to her, as doing so would weaken my resolve.
-
----
-
-She looks away.
-
-After hanging her head for a moment,
-
-"Did you hear the whole story from Illyasviel, Nee-san?"
-
-She confronts Tohsaka with a cold voice.
-
----
-
-"Yeah. I heard about what's possessing you and the abilities of what's about to be born from the Holy Grail.
-
-So, Sakura. Let me ask. Do you have any intention of cutting ties with Angra Manyu?"
-
-Tohsaka's voice is the same.
-
-Completely cold, showing no concern for Sakura.
-
----
-
-"No. I said the weak me disappeared, didn't I? I was able to obtain this power, so I don't intend to let it go. I couldn't even if I wanted to.
-
-...This is how Matou Sakura has to live from now on."
-
----
-
-"I see. Then one more thing.
-
-How complete is the Servant you're boasting about? Illya said it's coming out soon, but what do you have to say as the mother? Is it already born?"
-
----
-
-"...Of course not. When that happens, this town will be consumed in a second.
-
-I can't allow that yet. Senpai's still here.
-
-So I won't let him out as long as I still exist."
-
----
-
-"Oh, so there's no reason for us to hurry, huh? So you're going to keep Angra Manyu inside as long as Shirou's with me?
-
-That's good, Shirou. Sakura seems well enough."
-
----
-
-"...Don't be ridiculous. You should know how much longer I'm going to last.
-
-Please run away with Senpai. I won't last long. I don't know when I'll disappear. I might only be able to hold out for one night."
-
----
-
-"So I'm warning you before that.
-
-...Nee-san. Please take Senpai and run far away. Then I can be at peace and take his life with mine."
-
----
-
-Sakura says she's going to kill him using her life.
-
-Tohsaka trembles a bit.
-
-Is that because she believes her, or...
-
----
-
-"...Humph. You don't know when you're going to disappear, huh?
-
-You're wrong. You just don't know when you'll run out of patience."
-
-"――――Nee-san."
-
----
-
-"Oh well. I don't know how you're going to kill Angra Manyu, but you can kill yourself without hesitation if I run away with Shirou?
-
-You'll kill the Servant within the Holy Grail along with you, right?"
-
----
-
-"...Y-Yes. So please run away.
-
-I-I don't want you to see me change. It's fine as long as Senpai gets away.
-
-So――――please don't come after me anymore, Senpai."
-
----
-
-She's desperately begging us.
-
-Sakura's shadow can kill us right now, but it asks for salvation by letting us go.
-
----
-
-"――――――――"
-
-But I can't answer her wish.
-
-I can't leave Sakura and run away, nor can I let her kill herself along with Angra Manyu.
-
-And...
-
-"We'll go there. We'll go and kill you for sure."
-
-Tohsaka breaks away from her sister.
 
----
-
-"Wha―――――――"
-
-"What did you expect? As Tohsaka's magus, I can't ignore you. And I can't believe you even if you say you'll kill yourself.
-
-Don't you get it, Sakura? You're not making any sense. You want to kill, but you're telling me to run.
-
-Geez, you're trying to act like a good girl because you're in front of Shirou."
-
----
-
-"...What?"
-
-"Oh, you can make a good face. That's what you should've done from the start.
-
-So, is that all? Then get lost. You don't have to hurry since we'll go see you right away.
-
-Look, Sakura. I'll kill you with my own hands."
-
----
-
-Tohsaka declares with voice that even contains kindness.
-
-...The shadow wavers.
-
-After freezing on the spot like a statue...
-
-"Yes――――I'll be waiting for you, Nee-san."
-
-...It smiles violently and disappears.
-
----
-
-The shadow covering the house recedes.
-
-Tohsaka and I are the only ones remaining in the yard.
-
----
-
-――――I get dizzy.
-
-I thought I was concentrating, but it seems I was agitated after seeing Sakura's image.
-
-...It seems Sakura's not the only one that's running out of time.
-
----
-
-"――――Shirou.
-
-You heard what Sakura said. But what're you going to do?
-
-If you want to run, I won't stop you. But if you do, that'll be after you project the gem sword."
-
----
-
-"You don't have to confirm with me. I won't run away, and I'll somehow project the gem sword.
-
-We're cooperating, right? Then I'll follow up by doing things you can't do."
-
----
-
-"...I see. That's good, but do you understand, Shirou?
-
-Coming with me means killing Sakura. The same goes for the gem sword. You're going to prepare a weapon that I will use to kill her."
-
----
-
-"...Yeah. The gem sword thing is contradictory. But Sakura's out of our control, and projecting the sword is a promise we made. If projecting the sword means we can match Sakura's shadow, then it's something we definitely need to do."
-
----
-
-"Oh. So..."
-
-"Yeah, I'm taking the opposite measure. I'm going to end this war by saving Sakura. I've decided to be Sakura's ally."
-
----
-
-"Even if letting Sakura live means killing everyone else?"
-
-"We don't know that yet. There should be a way to save Sakura and not let there be any more victims."
-
----
-
-"...I don't know about that. Sakura's already killed many people. Is it justice for you to save such a person, Shirou?"
-
-――――Her inquiry is decisive.
-
-A sin I can't talk myself out of.
-
-She puts it into words, and I finally...
-
----
-
-"―――That's right. I'll protect her even if she's not human. I'm going to protect her from everything, including the part of her that wants to kill me.
-
-That's all I want to do. That's what it means to be someone's ally, right?"
-
-...I'm able to tell her what I think.
-
----
 
-"......Geez. You really can just come out and say it."
+This is one end. You've fought well. *Sob*
 
-I nod back, feeling no shame.
-
----
-
-"......I see. Well, I knew there was no point in arguing with you, but I didn't think it'd go this far. You beat me."
-
-"Huh? Where are you going, Tohsaka?"
-
----
-
-"I have to go prepare for the battle.
-
-Sakura gave us that warning because she really doesn't have time to spare. So I have to get ready quickly."
-
-"That's true, but we were talking――――"
-
----
-
-"We're done talking now. In short, you're going to save Sakura as long as you're still alive, right?
-
-...Hmph. Fine, do as you want. I'm not going to say anything now. Go struggle to your heart's content."
-
----
-
-"Hm...?"
-
-Where did her nervousness go? Tohsaka looks angry now.
-
----
-
-"But don't get me wrong. This is in exchange for making the gem sword.
-
-I'll leave you in charge of Sakura as long as you're trying. I won't do anything until you can't move anymore.
-
-...That's good, right? You might be able to save Sakura, if you try hard enough."
-
 ---
-
-Tohsaka leaves with that.
 
-"........."
+Huh? Aren't you going to get mad like always and call him a wimp?
 
-The uneasiness in my chest goes away.
-
-We're thinking oppositely.
-
-But Tohsaka still wants to save Sakura.
-
 ---
-
-Then I can entrust her with Sakura.
 
-We both like her.
+This end is peaceful in a way.
 
-Then Tohsaka should be able to save Sakura.
+It's like Saber-chan's end in "Heavens Feel".
 
 ---
-
-## Scene 25
-
-
-
-It's ten o'clock.
 
-Tohsaka said we'll prepare for battle and go to the Ryuudou Temple before the date changes.
+Oh. ...Well, Shirou did win against Saber in a one-on-one fight, so I guess he's satisfied.
 
 ---
 
-"Well. I'm going to have you project the gem sword, but how do you feel? Can you project it while suppressing Archer's arm?"
+Yup.
 
-"Oh――――"
+But we'll carry out this dojo like always.
 
-...I see.
+So, why did we reach this end, pupil number one!?
 
-Illya hasn't told her how I took the Shroud off.
-
-"Well――――um, yeah..."
-
 ---
-
-"Oh, that's good to hear. Then the rest is up to Shirou and Illya.
-
-The Azoth Sword, which is as close as we're going to get to the gem sword, Shirou's projection, and Illya's support. We may not be able to replicate it, but if all goes well, we should at least be able to reproduce half of its original ability."
 
-Tohsaka hands me a dagger.
+It's simple! I think it's because you fought Saber one-on-one! Osu!
 
 ---
 
-"........."
+That's right! I tell you every time to prepare a trump card when going into the final battle, so why don't you do your best!?
 
-The dagger is a ritualistic equipment.
-
-It might be something she favors, as it looks well-used.
-
-Not only that. Even an amateur like me can feel how much magical energy is stored in this thing.
-
 ---
 
-...Well, this is nothing compared to the shadow, but it's still a hundred times more than my magical energy capacity.
+Master, then what's the trump card this time?
 
 ---
-
-"...This is amazing. You had something like this up your sleeve?"
 
-"Of course it's amazing. I used all the jewels I had, which contained ten years worth of magical energy."
+An ally!
 
 ---
 
-Tohsaka sulks, like she didn't want to use them.
+Anally? That sounds really funny, master!
 
-...She seems generous, but maybe she's really stingy when it comes to money.
-
-Well, with that aside...
-
 ---
 
-"Hmm, but is that really okay, Tohsaka? You don't have any left for yourself if you've used everything you have, right? I know you're still not fully recovered, so can you still fight?"
+Stop with the jokes!
 
 ---
-
-"Well, I can manage to move around. But I haven't healed to the point where I can use magecraft again."
-
-"Wait――――then..."
 
----
+To be frank, you need a partner!
 
-"You don't need to worry. It's fine as long as you can project the gem sword. The sword has absurd powers said to have even stopped the 'falling moon'."
+Even in this situation, there should be one Servant who might cooperate with you!
 
 ---
-
-"...?"
 
-I don't get what she means, but Tohsaka has great confidence.
+Convince her somehow before you go into your final battle!
 
-...Well, if she's so sure of herself, I won't worry either.
-
 ---
 
-"Let's start, Shirou. It'll take a long time to project that sword, even for you. We have to get started or the date'll change."
+Okay... But master, she quickly runs away.
 
 ---
-
-"You're right. Then let's go back to your room. If we're not someplace where you can relax, our chances are lower."
 
-Tohsaka heads back to the living room.
+Recall the conversation you had with her before. There's only one answer. She'll become your ally if you give her the answer she wants.
 
 ---
 
-"Oh, hold on. I'll do the projection in the shed.
+Well, this dojo is over.
 
-And I want to be alone with Illya while I do it, so can you wait in your room?"
-
-"Why? I have to be there in case something happens, right?"
-
 ---
 
-"There's no need. It's a bother if you're here.
+The long battle is about to reach the grand finale!
 
-Shirou gets distracted easily, so we might fail if you fall and get his attention when it counts the most."
+Please check out the grand finale of "Fate/stay night" with your own eyes!
 
 ---
-
-"...Hey, that's rude, Illya."
-
-Tohsaka complains with a sour look.
 
-She's not arguing back, maybe because she can't deny the possibility that she'll screw up at a crucial moment.
+Bye! Let's meet again in some other Tiger Dojo!
+## Scene 27 Preparation for battle Tactics
 
----
 
-"...All right. Then I'll wait outside the shed. Is that all right, Illya?"
 
-"...I guess it can't be helped. That's the biggest compromise we can make."
+...That's right.
 
----
+She asked me under the starry sky.
 
-"Rin. Don't come in until I tell you to if you want us to reproduce the gem sword. I'll call for you if something's about to happen, so please stay outside until then no matter what."
+If I'll be on Sakura's side until the very end.
 
 ---
 
-"You're being persistent. I said I understand. I won't come in even if I hear Shirou scream."
+The words I couldn't say to her back then.
 
-"........."
+I can tell her now with confidence.
 
-It doesn't really matter, but I wish she'd picked a better example.
-
 ---
-
-"Well, let's go, Shirou."
 
-Illya goes into the shed.
+"Rider. I understand how much you care for Sakura.
 
-I decide to ask Tohsaka something before I follow.
+You're stopping me now because Sakura will suffer if you let me go, right?"
 
 ---
 
-"Tohsaka. Can I have this sword?"
+".........Yes. Are you still going to kill Sakura in spite of that?"
 
-"...? You're going to be projecting using that. The Azoth Sword will go away once the gem sword's projected."
+"I'm not going to kill her. I'm going to save her.
 
----
-
-"Yeah. You can have the gem sword, so can I have this in return?
+Rider. I'm going to protect Sakura until the very end. I'm going to choose Sakura no matter what."
 
-See, this might break if I fail. I can't concentrate, thinking how you might get angry if I break this."
-
 ---
-
-"...Geez. Fine. You can have the Azoth Sword if that'll help you relax."
 
-"Thanks. Then I'm going to go do my best."
+"So―――please lend me your power. Tohsaka and I can't do this alone. If you care for Sakura, please help us."
 
 ---
 
-...I shut the door.
-
-I can't let Tohsaka see this.
-
-I'm sure she won't stop me now, but she'll definitely feel responsible.
-
-If I'm to smooth this out, I have to tell her I used it after everything is over and get retroactive approval.
-
----
+"――――――Is that...
 
-"...Are you ready, Shirou? You've released Archer's arm already, so I don't need to explain the steps, right?"
+Your answer to my question from the other day?"
 
 I nod.
 
-Illya tells me to sit down, and I do so.
-
----
-
-"But Illya. I can only project what I've seen or what Archer made. I have no information on the gem sword. I can't project it even if we have a blueprint and a dagger that's just like it."
-
----
-
-"I know. I'll first have you come inside my memory. I haven't seen it either, but the record of the gem sword is in me.
-
-Tohsaka's great master was there when the Great Holy Grail was made.
-
-I'm sure the sword was there at that time."
-
----
-
-"Whoa, Illya――――"
-
-"Just close your eyes. I'll keep your body here and send your mind somewhere else. We did this before. I'll send your vision into my memory, so analyze the gem sword there.
-
-...I'll release your left arm once you're inside. You'll be hit by the pressure of two hundred years and the invasion from your arm at the same time. Brace yourself and try to finish the projection as fast as you can."
-
----
-
-"――――――――"
-
-Illya's voice is trembling.
-
-...Her arms are as well.
-
----
-
-"...I'll take you to the gem sword, so you just need to hold your breath. Clear your mind and don't look at anything unnecessary. You just need to draw out his Zelretch――――"
-
----
-
-――――Space splits.
-
-Is it because all my senses are within her memory...
-
-or is it because my left arm is released?
-
----
-
-There's no pain, the cognition of pain doesn't matter now, I'm swallowed by my injury, I'm falling into a swirling maelstrom of pain.
-
----
-
-I don't know where I am.
-
----
-
-I don't know who I am.
-
----
-
-I don't know what it means.
-
----
-
-It's a large circuit.
-
-Multi-layered Crests are carved on a bare rock that's over fifty meters in radius.
-
-It's like a large observatory, rotating by itself in the deserts of Arizona.
-
----
-
-The circuits cover the area in many layers.
-
-The geometric figures turn in place.
-
-A white girl stands in the center of the beautiful spider's nest.
-
----
-
-Her name is Lizleihi.
-
-Lizleihi Justizia von Einzbern.
-
-She's the magus that devised the Holy Grail War.
-
-The great magus who was called the winter saint. A magus accompanied by Makiri Zouken and Tohsaka Nagato.
-
----
-
-The Great Holy Grail is activated.
-
-Justizia becomes the key reenacting the ancient True magecraft.
-
-Yes. The Holy Grail is just a Holy Grail without her.
-
-Her will is needed for Heavens Feel.
-
-The old man knows as well as Makiri and Tohsaka do that the Holy Grail is a mere wishbringer.
-
----
-
-――――My vision narrows.
-
-The world expands.
-
-I concentrated on something needless. I did, so my body was ripped in half.
-
----
-
-The world is too big for this small body.
-
-I'll eventually see nothing.
-
-The process behind this two-hundred-year-old ritual doesn't matter.
-
-There's only one thing I need to look at.
-
-I concentrate on the man standing in front of the Great Holy Grail. I concentrate on the dagger in his hand――――
-
----
-
-――――That's the original.
-
-A ritual dagger with a jeweled blade.
-
-The kaleidoscopic gleam sears through my eyes and into my brain.
-
----
-
-"――――――――, ――――――――"
-
----
-
-I understand the instant I see it.
-
-I understand that I can't comprehend it.
-
-All I can imitate is its shape.
-
-I can't analyze its structure and project it.
-
----
-
-What kind of a magical theory was it constructed with?
-
-The old man's dagger is still a mystery, even if I use Archer's arm and every last piece of knowledge in heroic spirit Emiya.
-
-It's alien technology.
-
-The old man is embodying general knowledge from a far future, beyond the reach of modern man――――
-
----
-
-"――――. ――――......!!"
-
----
-
-I'm repelled.
-
-I can't be repelled.
-
-I can't reach it.
-
-Not reaching it is unforgivable.
-
----
-
-I reach out.
-
-I reach out.
-
-I reach out.
-
-My eyes are burned out, my brains are burned out.
-
-I extend my left arm for dozens of meters, extend, extend, extend――――――――
-
----
-
-"Stop! Come back, Shirou...!"
-
----
-
-I hear Illya's voice.
-
-But I'm not there yet.
-
-I don't even have my fingertips on it.
-
-I can't back out now.
-
-How can I back out after seeing that miracle, the ultimate one...!?
-
----
-
-"Give up...! Do you want to disappear, Shirou!?"
-
----
-
-Get there――――
-
----
-
-Get there―――――――――
-
----
-
-Get there――――――――――――
-
----
-
-Get there―――――――――――――
-
-―――――――――――――――――――――――
-
-――――――――――――――――――――――
-
----
-
-"Haa, ah.......!!!!!!!!"
-
-"Shirou――――!"
-
-Did I jump myself, or was I pushed back by something?
-
-I'm flying, and I land on my back.
-
----
-
-"Ha――――ga, ah――――!"
-
-My left arm pain .
-
-My tongue my fingers the trembling won't .
-
-"Ah――――uwa, ah, ah――――!"
-
-.
-
-, .
-
----
-
-"Stay  ! I'll Shroud  !"
-
-"Haa, guh, ah..........!"
-
-A big knife stabs me from the side.
-
-It's so uncomfortable that I repel the one wielding it――――
-
----
-
-"Oh... Ouch――――"
-
-And I realize I just punched Illya.
-
-"......! I-I'm sorry, Illya, I――――"
-
-She pats dust off herself and gets up.
-
-...Good. She's not hurt.
-
----
-
-"I told you not to look at unnecessary things, you idiot!
-
-...Geez, I'll let you off the hook this time since it paid off, but I won't forgive you if you disobey me again!"
-
----
-
-She points at my face as she scolds me.
-
-...Wait.
-
-Feeling something hard in my left hand, I look down.
-
----
-
-"――――――――"
-
-......I managed to project it.
-
-It's projected, but it doesn't seem like the one I saw.
-
-First of all, I don't feel any magical energy in this thing.
-
-Tohsaka's Azoth Sword is many times better than this, and this blade wouldn't cut paper.
-
----
-
-"Yup. I have a lot to complain about, but thanks for your hard work, Shirou. Your projection was perfect. You showed me a flawless blade works."
-
-"Uh――――I don't know, but is this any good? It looks pretty crappy."
-
----
-
-"That's fine as is. The sword is an extraordinary demonic sword that can only be used by Schweinorg's lineage.
-
-Well, I guess it's fate. Sakura is receiving the protection of the third and Rin's going to try to use the second. It wouldn't end up as mere investigation if the Association were here. Every department would be running to put them on trial."
-
-Illya laughs.
-
----
-
-"...Wow. So this dagger is that amazing?"
-
-"Yeah. To be more accurate, it's a multi-dimensional refractory phenomenon, Gem Sword Kishua Zelretch Schweinorg.
-
-It's called Gem Sword Zelretch, and it's the old magus's favored sword and Tohsaka's heirloom."
-
----
-
-"But the sword wasn't passed down the Tohsaka line, just the blueprint.
-
-It's an assignment from the sorcerer that the Tohsaka magi must pursue for a long, long time."
-
----
-
-"Assignment from a sorcerer... Wait, the great master Tohsaka was talking about is a sorcerer...!?"
-
----
-
-"Yeah. But Zelretch is an oddball among the sorcerers in that he still associates himself with this world, so I'm sure he has other apprentices.
-
-I don't think Zelretch is in this world, but he might show up once Rin's capable of making the gem sword by herself."
-
----
-
-"Hmm......?"
-
-He's not in this world, but might appear all of a sudden? Isn't he just a wanderer that likes to travel?
-
----
-
-"――――――――"
-
-――――Whoa.
-
-I let my guard down.
-
-I get dizzy.
-
-I clench my right fist, feel the pendant digging into my torn flesh, and keep my consciousness.
-
 ---
 
-"――――, ――――"
+"............Very well.
 
-I steady my breathing so Illya doesn't notice.
+But I will not fight unless there is a chance to win. What do you expect of me, Shirou?"
 
-My limbs――――I still feel my limbs.
-
----
-
-"――――――――"
-
-......Good.
-
-I thought I'd lose something if I used projection, but I'm not missing anything yet.
-
-My head's still working.
-
-The biggest proof is that I can check on my condition.
-
-I should be able to use one more projection.
-
----
-
-―――No, I have to use it.
-
-I have to save Sakura in a way different from Tohsaka.
-
-Archer's arm will make it poss-
-
----
-
-"So means. In short, the True magecraft parallel worlds. So his nickname Kaleidoscope "
-
-"――――Tohsaka?"
-
-"  ? ,  ?"
-
----
-
-"――――――――"
-
-I can't understand her.
-
-It's not that I can't hear her. She's just speaking in a language I don't understand.
-
-She's talking in some strange language and holding something dangerous in her left hand.
-
----
-
-...Tohsaka's holding a sword I've never seen before.
-
-Never seen before?
-
-That can't be.
-
-I projected (I think) that sword just now, and my left hand is empty, so it must mean I handed it to Tohsaka.
-
----
-
-"Shirou? from .
-
-Was the projection  ?"
-
-"――――――――"
-
 ---
 
-I get a chill.
+What I expect from Rider?
 
-My memory's vague.
+There's only one thing.
 
-I can't recall anything.
+Rider's the only one out of all the Servants that can oppose Saber's Noble Phantasm, Sakura's strongest card.
 
-My understanding and the details don't match up.
-
----
-
-"Guh――――, ..........!"
-
-I clench my right hand.
-
-My eyes finally focus in exchange for dripping blood.
-
 ---
-
-"――――Um, Tohsaka."
-
-I get up.
-
-My limbs are light compared to my disconnected head.
 
-They're so light that I think they may be empty inside.
+"―――I have some questions before that. Can you still use your Noble Phantasm?"
 
----
-
-"It's not 'Tohsaka'. Illya and I will go test it out, so you should rest―――wait, what's with your hand...!"
+"Yes. Sakura still supplies me with magical energy."
 
 ---
-
-Tohsaka grabs me.
-
-Her speed is surprisingly slow, but...
 
-"Eh......? Why do you have this...?"
+"Right, next question. Are Servants still spirits even if they take physical form? So you can't hurt them with normal weapons?"
 
-My mind isn't working, and she has ahold of my hand before I know it.
-
 ---
-
-Tohsaka's looking at the pendant in my palm with astonishment.
 
-I don't know why she's surprised.
-
-But I have this because...
-
----
+"...Let's see. A normal Servant will be able to nullify them, but those consumed by Sakura are another matter.
 
-"Shirou. Why do you have this? And are you crazy, holding it this tight?"
+Having received bodies from Sakura, they cannot return to spiritual form.
 
-"Why? I just have it as a charm. This is..."
+Strong magical weapons should be able to penetrate through their shadows."
 
 ---
 
-...Something I picked up.
+"――――I see, then it's decided. There's a chance of victory, and the roles are clear.
 
-Why did I pick it up?
+Rider. I want you to beat Saber one-on-one. To be specific――――"
 
-It's something I shouldn't forget, but I can't remember.
-
-But the stranger in my left arm knows what it is better than I do.
-
----
-
-"......Um, it's something important. I have to have it on me until the end."
-
 ---
-
-Words that are not mine come out of my mouth.
 
-".........
+I whisper in her ear.
 
-Shirou. I also have that pendant."
+...I know nobody's listening, but I'm just making sure.
 
 ---
-
-"Eh?"
-
-Tohsaka takes out a pendant from her pocket.
-
-It's certainly the same.
 
-It's a simple design for a jewel user like Tohsaka, but I think something simple like this brings out her beauty.
+"――――I see. I can definitely penetrate her guard with that.
 
----
-
-"Wow, they're the same."
+It is a pure contest of power. Nothing is left to chance."
 
-I nod back.
+"Right? ...Well, if there is a problem..."
 
 ---
 
-"No. Mine's empty, but there's still a bit left in yours. It's not significant, but I'm sure there's a meaning behind the usage of it."
+"It is your skill and my trust in you."
 
-"...?"
-
 ---
-
-"Keep that. It might come in handy."
-
-Tohsaka puts her pendant away and walks off with Illya.
 
----
+I nod.
 
-"Hey, Tohsaka. Where are you going?"
+Rider puts a finger to her mouth, thinking...
 
-"I need to talk to Illya. I'll let you rest for an hour, so stay in your room.
+"Fair enough. I shall trust you and accept you as my temporary master."
 
-And I'll get seriously mad if you don't treat your hand right away."
+...And agrees with a smile that takes me by surprise.
 
 ---
-
-"――――――――"
 
-Tohsaka's bad temper borders on outright hostility.
-
-She takes Illya, who follows her without a word.
-
----
 
-## Scene 26
+## Scene 28 Goodbye, thank you
 
 
 
@@ -9748,202 +9955,4 @@ What was that small hope used for?
 
 ---
 
-## Scene 27
 
-
-
-You...
-
----
-
-COWARD!!!!!
-
-Rejected! Quickly go back to the previous choice and redo it!
-
-I never raised you to be such a coward!
-
----
-
-That's right!
-
-Quickly come rescue me!
-
----
-
-Exactly! The main story's reaching its final stage. Nonstop development awaits you.
-
----
-
-There are only four more Tiger Dojos.
-
-If you came this far, run to the ending without dying.
-
----
-
-Osu, you are exactly right!
-
-I feel a bit lonely, but you won't make it ahead unless you're that determined!
-
----
-
-Yes, well said, pupil number one!
-
-Well, I wish you luck!
-
----
-
-## Scene 28
-
-
-
-Oh, he died.
-
----
-
-Osu. Excessive bleeding and falling to his death. There's no hope of survival.
-
----
-
-I don't think I even need to say it, but the cause of this death is because you went against them by yourself.
-
----
-
-If there's a chance to join hands with someone, go ahead and do it for a better result.
-
----
-
-What? Then it's also good to join hands with people like Caster and Shinji?
-
----
-
-Hm. No, consider their personalities.
-
-First of all, you don't even get those choices.
-
----
-
-What a failure. I wanted to see a route where Shirou and Shinji cooperate, or where you join hands with Caster.
-
----
-
-Kiii! Don't talk about the rejected routes! Time and resources aren't infinite!
-
----
-
-It's the spirit of the cook to put the most effort into the tastiest part!
-
----
-
-Okay, I'll leave it at that.
-
-So, you just have to join hands with Kotomine?
-
----
-
-...Hmm, I guess so.
-
-I understand not wanting to cooperate with that priest, but throw away your personal feelings and fight together.
-
----
-
-Osu, I understand!
-
-Yesterday's foe is today's friend! It's a common turn of events in a manga!
-
----
-
-Yup! Everyone's part of the family! It's a good phrase! Use it!
-
----
-
-That's right! Take full advantage of him and throw him away once you're done!
-
----
-
-Hey there, don't talk too honestly.
-
----
-
-## Scene 29
-
-
-
-This is one end. You've fought well. *Sob*
-
----
-
-Huh? Aren't you going to get mad like always and call him a wimp?
-
----
-
-This end is peaceful in a way.
-
-It's like Saber-chan's end in "Heavens Feel".
-
----
-
-Oh. ...Well, Shirou did win against Saber in a one-on-one fight, so I guess he's satisfied.
-
----
-
-Yup.
-
-But we'll carry out this dojo like always.
-
-So, why did we reach this end, pupil number one!?
-
----
-
-It's simple! I think it's because you fought Saber one-on-one! Osu!
-
----
-
-That's right! I tell you every time to prepare a trump card when going into the final battle, so why don't you do your best!?
-
----
-
-Master, then what's the trump card this time?
-
----
-
-An ally!
-
----
-
-Anally? That sounds really funny, master!
-
----
-
-Stop with the jokes!
-
----
-
-To be frank, you need a partner!
-
-Even in this situation, there should be one Servant who might cooperate with you!
-
----
-
-Convince her somehow before you go into your final battle!
-
----
-
-Okay... But master, she quickly runs away.
-
----
-
-Recall the conversation you had with her before. There's only one answer. She'll become your ally if you give her the answer she wants.
-
----
-
-Well, this dojo is over.
-
----
-
-The long battle is about to reach the grand finale!
-
-Please check out the grand finale of "Fate/stay night" with your own eyes!
-
----
-
-Bye! Let's meet again in some other Tiger Dojo!

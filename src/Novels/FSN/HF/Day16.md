@@ -2,7 +2,7 @@
 
 
 
-## Scene 00
+## Scene 00 Zouken's end
 
 
 
@@ -408,7 +408,970 @@ And laughs like an empty puppet.
 
 ---
 
-## Scene 01
+## Scene 01 To the underground cave
+
+
+
+There's no reception.
+
+The Ryuudou Temple hides in the dark, emitting alien powers like a crouching giant.
+
+There must be wind blowing far above me.
+
+If I strain my ears, I can hear it howling.
+
+---
+
+"...I feel a power from atop the stairs. It seems something is being created in the pond behind the compound."
+
+"No, we don't have any business there. The gate above must be the ostensible gate for the Masters that want the Holy Grail. ...If we want the Great Holy Grail, we have to go down instead of up."
+
+Tohsaka walks away from the stairs into the forest.
+
+---
+
+"...Are you all right, Rider? There's a boundary field around the Ryuudou Temple, right? I heard Servants can only go in from the front gate."
+
+---
+
+"...I feel some strain, but this is tolerable.
+
+This area contains the most suitable ley line in the land. Once we get inside, I can recover by drawing magical energy from the air."
+
+"I see. It must be tough, but please bear with us for a bit."
+
+---
+
+We push our way through the tree branches.
+
+There's not even an animal trail over the mountain, so we even have to climb down rock walls.
+
+---
+
+"Hm―――it should be around here, according to Illya... Do you see anything like an entrance, Shirou?"
+
+"What do you mean, 'like'?"
+
+---
+
+"Like a crack in a rock that we can slip through, or a suspicious-looking shrine. It's an entrance, so I don't think it'd just be a pit."
+
+"...Don't be ridiculous. The stars are out, but I can't see anything in a forest at night――――"
+
+---
+
+...Oh, I can.
+
+We must be behind the temple, because I see many dead trees.
+
+There's no sign of human influence. There's nothing here but dead trees and a small stream.
+
+---
+
+"...Small stream?"
+
+Hold on.
+
+That means the water's coming from somewhere.
+
+---
+
+"...Rider. There's a bunch of rocks above the stream, right?
+
+It's too dark for me to see, but is that a cave?"
+
+"―――――Please do not turn around, Shirou."
+
+I hear a small metallic sound.
+
+Rider must've taken off her restraint.
+
+---
+
+"......Yes. It's a natural cave, but you should just be able to fit through. It looks like the path ends about a meter in, but I sense a magical camouflage."
+
+"I see, thanks. ―――Tohsaka. I guess there is something like it."
+
+---
+
+We pick our way down to the stream.
+
+...It's more like a spring flowing out from the rocks.
+
+---
+
+The stones are piled atop one another where it starts. There's a crack big enough for one person to fit through.
+
+It's like a snow hut made from rocks.
+
+You can see that a huge boulder is blocking the entrance, so nobody would even try to go in it.
+
+---
+
+"――――This is it. You can pass through the rock."
+
+Tohsaka walks into the darkness without turning around.
+
+"Please go ahead. I shall protect your back."
+
+I nod and enter the darkness.
+
+---
+
+The sound of scraping on a hard surface.
+
+I progress down the wet rock using my hands.
+
+The ground slopes steeply downward.
+
+---
+
+...The weight of the darkness is stifling.
+
+Unless I keep my back to the ground as I move, I might fall into the endless dark.
+
+---
+
+"........."
+
+I lay flat on my back as I slowly descend.
+
+......It's dark, and I can't tell how far down this path goes.
+
+My breathing echoes in my ears.
+
+---
+
+"Shirou. I'm going to ask you now."
+
+...Then.
+
+Tohsaka, the one leading the way, suddenly speaks up.
+
+---
+
+"What?"
+
+"The gem sword. Why did you make it for me?"
+
+She sounds blunt, as if she's just asking to kill time while we're descending.
+
+---
+
+"Why ask?"
+
+"―――I've told you I'm planning to kill Sakura.
+
+Can you really give me a weapon, knowing that?"
+
+"―――――――"
+
+I nod in agreement.
+
+Well, Tohsaka certainly has a point.
+
+---
+
+"I'm not okay with that. But I can't save Sakura without you. It's better to have two people instead of one.
+
+And projecting the sword was a promise.
+
+I couldn't keep one of my promises with you, so I wanted to keep the other."
+
+---
+
+It happened a long time ago.
+
+I asked for Tohsaka's help after I lost Saber.
+
+Tohsaka responded to my call for help, and I made a promise with her.
+
+---
+
+To let her win.
+
+I promised to make her the victor.
+
+---
+
+...I can't keep that promise anymore.
+
+So I have to keep the other promise with her.
+
+For the girl I used to admire...
+
+For Tohsaka Rin, who believed in someone who had nothing at the time.
+
+---
+
+"I see. You're pretty faithful."
+
+"Yeah, but not as much as you."
+
+---
+
+Silence returns to the darkness.
+
+The conversation ends.
+
+We continue our descent without looking at each other.
+
+---
+
+A long path that seems to lead to hell.
+
+The path spirals downward, and just as I'm thinking we're over a hundred meters underground...
+
+The dark cave changes completely, welcoming us.
+
+---
+
+The path that could only accomodate one person widens up and leads on.
+
+There's no need for light.
+
+The cave is lit by a dim green glow, probably from some kind of luminous moss.
+
+---
+
+The path is saturated with life force.
+
+It feels too lively.
+
+An air of birth, filled with vigor and the joy of life.
+
+An immense amount of odo, and magical energy so strong that it's almost visible.
+
+---
+
+"――――――――"
+
+It makes me want to vomit.
+
+The warmth of life should be dazzling, but instead it's something rotten, making me want to look away.
+
+---
+
+"............"
+
+"――――――――"
+
+I have no words to say to her.
+
+This is a land of death.
+
+Talking to each other to soften the tension would only cost us our lives.
+
+---
+
+"―――Let's go. From now on, look out for your own safety first."
+
+...Tohsaka heads down the path, to the source of the black air.
+
+Rider and I follow after her, concentrating on our surroundings.
+
+---
+
+"......?"
+
+I see something red on the ground.
+
+It's a trace of blood.
+
+It leads to the back.
+
+---
+
+"――――――――"
+
+Did someone come here before us?
+
+And someone wounded badly enough to leave behind a trail of blood?
+
+---
+
+"Shirou."
+
+"...Sorry. I'll be right there."
+
+I shake off that train of thought and head on.
+
+I can't be worrying about others.
+
+---
+
+"―――――――!"
+
+My consciousness fades away if I let my guard down.
+
+I'll disappear if I worry about needless things.
+
+"........."
+
+I tighten my grip on the pendant.
+
+Letting the pain clear my mind, I step into the green darkness.
+
+---
+
+## Scene 02 The strongest Servant
+
+
+
+―――A warm wind hits my cheeks.
+
+---
+
+At its end, the path opens into a cavern.
+
+It's about as big as the schoolground.
+
+It's too dark to make out the ceiling, but it must be about ten meters high.
+
+---
+
+I don't detect any signs of life.
+
+An unforgettable underground space that looks like the moonscape that I read about a long time ago.
+
+And there...
+
+Waits Saber, filled with absolute hostility.
+
+---
+
+She's the only one here.
+
+I don't see Sakura, Zouken, or Assassin.
+
+The only one blocking the way here is the girl who has turned black.
+
+---
+
+"――――――Saber."
+
+"――――――――――"
+
+There's no reply.
+
+---
+
+...Of course.
+
+Saber's duty is to eliminate any intruders.
+
+She's the gatekeeper and the executioner.
+
+Saber's the strongest Servant Sakura has, so she can fight us by herself.
+
+---
+
+"...Hmph. It doesn't look like we can talk her into letting us through."
+
+Tohsaka lowers her stance and reaches for the gem sword she's hiding behind her back.
+
+---
+
+―――She must intend to fight head-on.
+
+I don't know what kind of ability the sword has, but she's going to fight Saber.
+
+---
+
+But that's not a good idea.
+
+We still have a countermeasure, since we know Saber's powers. We can't use our only secret weapon when Zouken and Assassin are still waiting for us――――
+
+---
+
+"Wait, Tohsaka...! Saber's――――"
+
+"Rin. I have no reason to fight you. Please do not attack me. I will go against Sakura's orders if I kill you here."
+
+---
+
+"......!"
+
+Speaking in the same quiet tones as before, Saber stops Tohsaka in her tracks.
+
+We comprehend what she means right away.
+
+---
+
+"...What are you doing? You're keeping watch here, right?"
+
+"Yes. I am to eliminate anyone that passes by here.
+
+That is Sakura's order. But―――"
+
+"I'm an exception, and Sakura wants to see me?"
+
+Saber nods.
+
+---
+
+"......I see. She must be serious."
+
+She mutters.
+
+...After taking a deep breath, Tohsaka walks over to Saber.
+
+---
+
+"Tohsaka."
+
+"Sorry. I guess that's how it is, so I'm going ahead."
+
+Tohsaka walks on without hesitation and passes by Saber.
+
+And right before she disappears...
+
+---
+
+"Shirou. I don't know what'll happen to you, but I believe in you. So you'd better live up to my expectations."
+
+---
+
+"Huh?"
+
+...Wait.
+
+I can't understand if you complain to me without telling me what I should be doing.
+
+---
+
+"I-I'm saying it'll just be a pain if you come complaining after everything's over! ...Um, make sure you're not too late if you want to save Sakura."
+
+Tohsaka disappears, her hair fluttering behind her.
+
+---
+
+"――――――――"
+
+...Thanks, Tohsaka.
+
+That gave me strength.
+
+In short, she told me to come help her while she keeps Sakura at bay.
+
+---
+
+"That is impossible. You will die here, Shirou."
+
+"......!"
+
+---
+
+Her hostility expands.
+
+Tohsaka left, and Rider and I are the only ones here.
+
+So she doesn't have to hold back anymore, huh?
+
+---
+
+"I cannot overlook what you just said. You only kill those that pass through. If he merely stays here, you should not harm him."
+
+---
+
+"I will not attack if he does not move.
+
+But he will advance, no matter what. He knows he cannot defeat me, but all he can do is move forward.
+
+Am I wrong, Rider?"
+
+"I see. You served him before me, after all.
+
+It's natural that you know his personality."
+
+---
+
+...Saber narrows her eyes.
+
+The black holy sword is in her hands.
+
+―――She's coming.
+
+Rider or I.
+
+If either one of us takes a step forward, Saber will use all her power to kill us.
+
+---
+
+"......Saber. There's nothing that'll make you back down?"
+
+"Stop asking me that. I said this is my role."
+
+I grab the Shroud.
+
+...Saber shows no sign of hesitation.
+
+We're already enemies.
+
+I realized that back in the forest.
+
+---
+
+So...
+
+"―――I see. Then I'll eliminate you here."
+
+I have to accept it.
+
+---
+
+"――――"
+
+"I'm going to save Sakura. You're in my way."
+
+Saber's not my only enemy.
+
+There's still Assassin and Zouken.
+
+I can't be wasting my time here.
+
+---
+
+"Please stay back, Shirou. I shall fight Saber just as you instructed me."
+
+Removing the restraint on her mystic eyes, Rider motions me back with one hand.
+
+---
+
+Saber raises her sword.
+
+―――The hostility is already aimed at Rider―――
+
+---
+
+"Don't be stupid. I said we're both going to fight her. You..."
+
+"I may not be able to defeat her, but I can keep her occupied. Fortunately, Saber does not have the ability to repel mystic eyes.
+
+I cannot petrify her as she has more magical energy, but I can pressure her. I can match her for two minutes if I use all my strength."
+
+---
+
+Rider's eyes capture Saber.
+
+The mystic eyes, which petrify anyone in her sight, temporarily lower Saber's ability.
+
+---
+
+"I will create the situation. Please stay there and concentrate so you do not miss our chance."
+
+"Rider."
+
+"――――I will be going. I shall entrust you with my life, Shirou."
+
+---
+
+Rider disappears.
+
+The black cavalryman dashes at the swordsman with light speed.
+
+---
+
+The attack is made so quickly that human reactions cannot even perceive it.
+
+But Saber repels it like nothing.
+
+---
+
+"―――Very well. You will disappear first, Rider."
+
+A heavy pressure fills the cavern.
+
+A cruel smile on her face, the black swordsman starts to move.
+
+---
+
+## Scene 03 Country of the dark queen
+
+
+
+Her vision spreads out.
+
+The instant Tohsaka Rin escapes the darkness, she forgets that she's deep underground.
+
+---
+
+The impossibly high canopy and black sun.
+
+The huge cavern isn't a cave, but a desolate land.
+
+There should be two, no, three kilometers across.
+
+In the distance stands a monolithic wall.
+
+...This is the start and the end of this war.
+
+There should be a giant crater above the cliff.
+
+Up there is the system that has been activated for two hundred years.
+
+---
+
+The massive rock that holds a large magecraft circle, the Great Holy Grail, belches black fire from its mortar-shaped center.
+
+---
+
+The embryonic movements of the black shadow.
+
+The light illuminating the desert is a wave of magical energy.
+
+...According to Tohsaka's records, this is what you'd call the altar of the beginning.
+
+The middle that leads to the middle.
+
+The circular circuit, the world of heart, Heavens Feel.
+
+It has immeasurable magical energy, creating an alien world that lives up to its name.
+
+---
+
+"That's Angra Manyu... So the name 'all evils of this world' isn't just for show, huh?"
+
+Rin talks lightly as she makes her way to the altar.
+
+...She's worried about Shirou and Rider, but her situation isn't too good either.
+
+The magical energy in the Great Holy Grail isn't something a human can handle.
+
+---
+
+The vortex of magical energy can be called infinite.
+
+There's so much that it won't run out, not even if all the magi in the world come here and use whatever magecraft they wish.
+
+It's more than anyone can use in a lifetime, and therefore can be called infinite.
+
+---
+
+"...Nothing is impossible, huh? That Holy Grail really can make any wish come true."
+
+Her determination almost breaks, faced with the numbing premonition of death.
+
+Keeping her spirits up with idle talk, she walks on.
+
+---
+
+―――The ones she's watching out for are Assassin and Matou Zouken.
+
+Matou Sakura isn't a threat.
+
+She has lost her mind, and Rin sees no danger from her.
+
+She's just Zouken's puppet, after all.
+
+Rin's greatest enemy is Matou Zouken.
+
+The fight against Matou Sakura isn't important.
+
+---
+
+"......Strange. I can make it to the altar."
+
+Zouken shouldn't allow an intruder to trespass this far.
+
+If he's planning to attack her, it'll be on the way to the altar.
+
+But it's not happening, and Rin's about to reach her destination.
+
+---
+
+"――――――――"
+
+She thinks.
+
+Why is there no interference from Zouken? Why can't she feel his or Assassin's presence?
+
+She makes a guess.
+
+She denies the possibility, but easily accepts it.
+
+No, she's forced to accept it.
+
+Because...
+
+---
+
+"―――I'm glad, Nee-san. You came here instead of running away."
+
+---
+
+...Her guess turns out to be true.
+
+---
+
+She looks up.
+
+On top of the cliff.
+
+With the black sun behind her, Matou Sakura welcomes her older sister.
+
+---
+
+"――――――――!"
+
+Rin retreats a little, overwhelmed by the pressure.
+
+...The girl has been transfigured further than Rin expected.
+
+Angra Manyu is a Servant without form.
+
+It's only a shadow that takes form using people's wishes.
+
+Therefore, its powers depend on its Master.
+
+---
+
+Matou Sakura is now Angra Manyu.
+
+"All evils of this world", the function to emit the curse is the girl called Matou Sakura.
+
+---
+
+"...Crap. If Kirei were here, I bet he'd call it a messenger from God."
+
+Rin looks up at Sakura, who has turned into a bottomless well of magical energy, and releases her gem sword.
+
+―――But is it something that can match the being above her?
+
+---
+
+There are two functions for weapons that support magecraft and ceremonial equipment that assist in rituals.
+
+One function is to amplify.
+
+It's a backup, increasing and supplementing one's magical energy and strengthening the spell itself.
+
+These items are considered orthodox support equipment, and magi carry at least one. Rin's jewels are classified in this group.
+
+---
+
+Another is a limited function.
+
+It's a special magical item where the weapon itself becomes magecraft.
+
+It's activated using the magical energy of the magus and performs a predetermined divine mystery.
+
+Its greatest advantage is that it enables the magus to use magecraft she's not capable of ordinarily.
+
+---
+
+It only has one application and thus lacks versatility, but for that reason, its power is immense.
+
+A lance that always pierces the heart,
+
+a bridle that enslaves holy beasts,
+
+a dagger that cancels any magical effect.
+
+Noble Phantasms of Servants are usually classified in this group.
+
+---
+
+"――――――――"
+
+So, which is the gem sword?
+
+Is it support equipment that gives magical energy to the user,
+
+or is it a limited weapon that defeats the enemy with its unique ability?
+
+...But.
+
+No matter which it may be, nothing should be able to match Matou Sakura.
+
+---
+
+The difference in their magical energy is too vast.
+
+No matter what kind of a magecraft it may be, Matou Sakura should be able to drive it back in one breath.
+
+---
+
+"What's wrong, why are you trembling, Nee-san? ...Fufu, don't tell me you've suddenly lost your nerve."
+
+"...Well said. Where's your guardian? You're a coward, so doesn't it bother you that he's not by your side?"
+
+"――――――――"
+
+...The air freezes.
+
+Hostile tension mixes into the warm air in the cavern.
+
+---
+
+"――――――――"
+
+The black girl bites her lip and sighs.
+
+"Grandfather's gone. He was a bother, so I crushed him along with Assassin."
+
+She smiles gracefully.
+
+---
+
+"......"
+
+She doesn't need to ask.
+
+Matou Zouken was killed by Matou Sakura.
+
+...It's natural that he hasn't shown himself.
+
+The old magus was eaten by his own pet dog.
+
+---
+
+"I see, so you're completely free. Zouken bound you in a good way and a bad way.
+
+You don't have anything to fear now that you killed him."
+
+"Not quite. Not yet, Nee-san.
+
+Killing my grandfather isn't enough. I'm this strong and I can do anything, but I'm still bound."
+
+---
+
+"...Geez. Nee-san, you're so insignificant, but you won't disappear from within me. You still torment me in my mind.
+
+So――――as long as you live, I can't be free."
+
+---
+
+Her voice is a light singsong, but the words are heavy as slime.
+
+The contradiction proves her madness.
+
+The hostility in the cavern is a rhapsody of superiority and awe.
+
+---
+
+"...Oh. But you seem happy in spite of that. You killed Zouken and Assassin, so I should assume you killed Kirei as well.
+
+What a performance for someone who hated killing... are you getting used to murder now?"
+
+---
+
+"Yes. Crushing people and eating them are no different.
+
+For people, it's boring and meaningless if you don't have fun, and it's painful if you don't eat, right?
+
+It's just the same. I'm the same as you. I'm just doing what everyone else's doing."
+
+---
+
+"―――Wait. Do you really mean that twisted logic?"
+
+"It's not twisted logic. I'm not wrong.
+
+It's different because I've gotten strong. I'm strong, so I'm different now."
+
+---
+
+"I――――I'm strong. Everything's forgiven if you're strong.
+
+...Yes. If I'm strong and no one can beat me, everything I've done will be forgiven. If I'm not myself, everything I've done couldn't be helped...!"
+
+---
+
+A scream of rage.
+
+It's the complaint of a petulant child who can't escape unless she believes in it.
+
+---
+
+"Do you understand, Nee-san? That's what I'm going to become. That's why I can kill anyone. It's natural for me."
+
+"......I see. So you're going to take it out on everything you see? But what about Shirou? He still believes he can save you. Are you going to kill him too?"
+
+---
+
+"――――!"
+
+The girl stiffens.
+
+Rin's question is her last obstacle.
+
+...Her excitement cools down.
+
+Thinking about him, she regains her sanity.
+
+---
+
+A serene smile crosses her face.
+
+"Yes. Senpai's no exception.
+
+No―――he's the only one I want to kill, Nee-san.
+
+...Yes. I quickly――――"
+
+---
+
+――――Want to consume Senpai.
+
+---
+
+"――――――――"
+
+Matou Sakura's reply shows that she is beyond help.
+
+Rin grips the gem sword and gauges the distance between them.
+
+---
+
+"...Hmph. What about taking Angra Manyu with you?
+
+I knew you were stupid, but I didn't think you were this stupid. You let yourself be swallowed, and you've already stopped being human."
+
+A voice filled with clear hostility.
+
+As the supervisor of this land, Tohsaka Rin acknowledges her own sister as "evil".
+
+---
+
+"――――Fuh. You're bluffing. Please be honest with yourself, Nee-san.
+
+You're envious of this great power, right? You're jealous, right? That's why you came to kill me even though you can't.
+
+......Yes. You're going to take him away from me so you can keep the happiness to yourself."
+
+---
+
+The shadows stand up.
+
+A magecraft of absorption, a bundle of magical energy that matches a Servant's Noble Phantasm.
+
+Not one, but many rise up to attack.
+
+---
+
+"I won't give it to you. This is my power. All I'm going to give you is regret and despair.
+
+I'll slowly show you what I mean."
+
+There are four figures.
+
+They reach out for the small person beneath them like giants protecting the girl.
+
+---
+
+"――――I'll show you the difference in our powers, Nee-san.
+
+Nobody's going to come help you this time. You can drown in me like a bug in a lake."
+
+The towering shadows attack her.
+
+A titanic power that can neither be blocked nor dodged swallows Tohsaka Rin.
+
+---
+
+
+## Scene 04 Burst
 
 
 
@@ -652,7 +1615,7 @@ I...
 
 ---
 
-## Scene 02
+## Scene 05 Dead End Compassion
 
 
 
@@ -782,7 +1745,161 @@ It's that I can't save Sakura no matter what―――
 
 ---
 
-## Scene 03
+
+
+## Scene 06 Tiger Dojo 39
+
+
+
+The last Tiger Dojo was the final one.
+
+Please click and return to the title screen.
+
+---
+
+Extra stage!
+
+---
+
+Side A!!
+
+---
+
+How's everyone doing? Are you dying without mercy?
+
+This is Tiger Dojo Remix that saves you from simple choice mistakes!
+
+---
+
+Osu! Our battle just started.
+
+---
+
+Oh, don't say that. We'll get cut off if you say that line.
+
+---
+
+Well, Sakura-chan's route is about to enter its climax.
+
+You can't be beaten when Tohsaka-san's in a big pinch!
+
+---
+
+That's right. Shirou can't beat Saber, so trust Rider and concentrate on your part!
+
+---
+
+Yup. Shirou's role is rearguard support. Watch over the fight from a distance and take the best part!
+
+---
+
+...But the story's getting really fancy. It's taking place underground, and Sakura-chan powered up a lot.
+
+---
+
+Oh, where are you going, "Fate"?
+
+---
+
+Yeah, you're right, master. I thought I could take a big part in this route, but Sakura's my rival.
+
+---
+
+I wasn't even a match against her, so I'm forced to come back to this dojo.
+
+---
+
+Ohh, what a tragic story...
+
+---
+
+So it's true that a bullied child is strong. The Tohsaka sisters are fearsome indeed. So they were both devils...
+
+---
+
+Yeah. I hate how everyone was putting their masks on.
+
+Saber's gone black and merciless. Rin's cruel now when it counts.
+
+---
+
+I feel sorry for Shirou. I'm the only heroine that's not a two-faced person.
+
+---
+
+......Well, you certainly aren't a two-faced person...
+
+---
+
+Well, let's get on to the usual hint.
+
+Sakura-chan route, "Heavens feel", has two endings.
+
+---
+
+One is the grand finale,
+
+the true ending of "Fate/stay night"!
+
+---
+
+True and normal ends.
+
+---
+
+Well, you can easily get to the normal end.
+
+The condition for the true ending depends on what you've done until now.
+
+---
+
+To come out with it, you can't get to the true end if my affection points are below four or if you've used projection one too many times!
+
+---
+
+Cheeeeest! Don't spoil!
+
+---
+
+Ouuuu... Come on, this is the last one, so you should let me!
+
+---
+
+No! This is the last stronghold in "Fate"!
+
+But we'll tell you up-front. You can do something about Illya-chan's affection score if you start over from Day 14!
+
+---
+
+Hey, you're coming out with it too!
+
+---
+
+Eh? But this is the Q&A. Our reason for existence is to give out hints.
+
+---
+
+I see. I don't get how it's different from a spoiler, but you're a tyrant, master.
+
+---
+
+What, you finally realized it in the 39th dojo!?
+
+---
+
+Well, the next one will be the final Tiger Dojo.
+
+The long story's finally wrapping up.
+
+---
+
+The last bad end is rumored to be an erotic harem route, as expected from a mature-rated game!
+
+Please keep your expectations up and keep up your indecisiveness!
+
+---
+
+## Scene 07 Burst out
 
 
 
@@ -1098,7 +2215,7 @@ We'll be killed unless I kill Saber, who's wounded and unable to fight back.
 
 ---
 
-## Scene 04
+## Scene 08 Crazy train II
 
 
 
@@ -1410,7 +2527,7 @@ We'll be killed unless I kill Saber, who's wounded and unable to fight back.
 
 ---
 
-## Scene 05
+## Scene 09 Oath
 
 
 
@@ -1430,91 +2547,7 @@ I...
 
 ---
 
-## Scene 06
-
-
-
-There's no hesitation.
-
-Holding her gaze, I bring down my heavy arm.
-
----
-
-There's no resistance.
-
-I end Saber's life with one blow.
-
----
-
-"――――――――――, ―――"
-
-There were memories.
-
-There was the warmth of life.
-
-Her warmth was always by my side.
-
----
-
-I kill her along with those memories.
-
-I search through my mind and throw them away to where I can't find them again.
-
-They'll never return.
-
-I'll never recall her now.
-
-―――Such a thing will never be forgiven.
-
----
-
-I chose this path.
-
-I killed someone else to save Sakura.
-
-Using my own hands, I killed someone who protected me until the very end.
-
-Neither regret nor a confession will bring forgiveness.
-
-...This is what it means to ally with someone.
-
-I'll keep sacrificing important things for the one I love.
-
----
-
-And on this path...
-
-There's nothing brilliant enough to make up for what I've lost.
-
----
-
-"But Saber――――"
-
-I'll search all my life for happiness that can measure up to what I've lost.
-
-I'll keep losing more than I gain, and I know I'll stop someday.
-
-But―――I'm going to take responsibility for stealing things away, even if I'm pathetic, comical, or meaningless.
-
----
-
-I don't know where I can find happiness.
-
-But I swear to myself that I'll never give up, even if I can't see the end.
-
----
-
-"――――Thanks. You saved me many times."
-
----
-
-...The weight on my dagger disappears.
-
-Silent to the end, the dark swordsman sinks into the black shadow, her eyes fixed on me.
-
----
-
-## Scene 07
+## Scene 10 Dead End Femme fatale
 
 
 
@@ -2012,2529 +3045,190 @@ I hear someone weeping as I fall into Sakura's shadow.
 
 ---
 
-## Scene 08
 
 
 
-She is released.
+## Scene 11 Tiger Dojo 40
 
-The black Command Spell cloaking her body disappears.
 
----
-
-A contract-breaker.
-
-A Noble Phantasm that nullifies all magecraft and negates the contract with a Servant.
-
-Without taking Sakura's life, it destroys the contract that bound her.
-
----
-
-――――My vision isn't continuous.
-
-Sakura's alive.
-
-I don't know if it's reaction from being released, but she's lying on the ground like she's sleeping.
-
----
-
-Tohsaka―――Tohsaka will make it too.
-
-She's not bleeding anymore. She has a legitimate Magic Crest.
-
-The Crest is the crystallization of the Tohsaka family's magecraft. It won't let their successor die even if she's unconscious.
-
----
-
-"――――――――"
-
-The cavern is shaking.
-
-Angra Manyu.
-
-A ridiculous curse called "all evils of the world" is writhing.
-
----
-
-...Damn.
-
-Even after losing its host, the black shadow hasn't disappeared.
-
-It has grown too large.
-
-It can come out without Sakura's help.
-
-It will emerge so long as the Great Holy Grail still exists.
-
----
-
-――――I'll destroy it.
-
-I'll destroy the giant magecraft circle, and the shadow along with it.
-
-Angra Manyu's fetal activity is slowly destroying the cavern.
-
-...But I don't think it'll die even if the cavern collapses.
-
-I have to destroy that thing here and now.
-
----
-
-Is it possible?
-
-...Yes, it's possible.
-
-I'll go as near it as I can and attack it with great force.
-
----
-
-Angra Manyu can't move as long as it's in the black fire.
-
-I'll cleave it in two before he can emerge.
-
-If there's anything capable of such a feat, it's――――
-
-The greatest Noble Phantasm I know of.
-
----
-
-"――――――――Guh."
-
-My breathing stopped for a moment.
-
-There's about a hundred meters to Angra Manyu.
-
-...It's fine, I can walk this distance.
-
-It's just one more time.
-
-One last projection, and it's all over.
-
-It's fine, I'll be able to do it.
-
-I'll finish this off, take the two of them above ground, and...
-
----
-
-"Shirou, do you hear me?"
-
-Someone taps my shoulder.
-
----
-
-"――――――――"
-
-...Who is this?
-
-She can't possibly be a stranger.
-
-I know her. She looks dangerous, but I remember that she's trustworthy.
-
----
-
-"Good. Can you take Sakura and Tohsaka and get out of here?"
-
-"―――――Shirou?"
-
-The long-haired woman stares at me for a few seconds.
-
----
-
-"What about you?"
-
-"I'll go after I destroy that thing. It'll be quick, but every second counts for Tohsaka. And Sakura would be affected by the shadow if she stays here. Angra Manyu might be persistent and make Sakura his Master again."
-
----
-
-"――――Understood. I will carry Rin and Sakura.
-
-Please rest assured. I have rested enough for that."
-
-"Please. Go outside with those two. The cavern's collapsing. Um, R―――R- damn, your speed would have no problem with the falling rocks."
-
----
-
-".....................
-
-――――Then I will be going. I shall come get you after I get them to a safe place."
-
----
-
-"Um... That's nice to hear, but make sure they're okay first. You're the only one I can trust. I'll escape by myself, so please treat Tohsaka. Sakura can't be happy without her."
-
----
-
-...I don't think this woman has any ability to heal people.
-
-But I still have to entrust her with Tohsaka's life.
-
----
-
-"Certainly. But the same goes for you, Shirou.
-
-Sakura needs you and Rin. Please remember that. ...I need you to support Sakura."
-
----
-
-"......?"
-
-"I shall hurry. ――――Good luck."
-
----
-
-The woman in black picks them up with ease and runs down the cliff.
-
-―――Weaving between the falling rocks, she hurries to the exit.
-
----
-
-"――――――――Phew."
-
-...I don't have to worry about them now.
-
-They'll be saved if I let her take care of them.
-
-So――――
-
-Now, I just need to take care of one more thing.
-
----
-
-## Scene 09
-
-
-
-; "――――, ――――, ――――"
-
-My consciousness is breaking apart.
-
-A mere hundred meters become an impossibly vast expanse.
-
----
-
-; "――――, ――――, ――――"
-
-It's only a matter of time before the cavern collapses.
-
-The ceiling's crumbling down, and the ground is becoming a pile of rubble.
-
----
-
-; "――――, ――――, ――――"
-
-My joints are stiff.
-
-It hurts to bend my limbs.
-
-My nerves are hot.
-
-Hundreds of blades are growing out of my body.
-
-An inescapable death by skewering.
-
-I am the bone of my sword.
-
-I already knew that.
-
-The time bomb was activated when I used projection.
-
-This end has already been determined.
-
----
-
-"――――Ha, ah――――!"
-
-I'm crumbling apart.
-
-I'll shatter if I continue.
-
-I'll shatter to pieces, like so many rocks on the ground.
-
----
-
-...I'll still make it.
-
-My body's dying, but I won't lose myself for about a day if I stop now.
-
----
-
-Only a day's worth of life prolongation.
-
-But right now, I would love to have something so insignificant.
-
-Just a day. An hour or even a minute.
-
-If I can live, I want to stay here as long as I can, no matter how miserable it may be.
-
----
-
-"Haa, gu――――......!"
-
-A crack.
-
-Not outside, but inside. The nucleus accumbens in my cerebrum breaks.
-
-The part that administers the principle of behavior, the linkage to pleasure.
-
-The most important part of life. Life is the pursuit of pleasure; without it, humans would become beasts.
-
----
-
-"Haa, ah."
-
-It's not convenient.
-
-I still want it.
-
-I want to keep my memory for as long as I can.
-
-But it's disintegrating.
-
-The pain of eating my fingers doesn't stop the memories from fading.
-
----
-
-I disappear the more I walk on.
-
-I won't make it.
-
-Even if I do make it there, I probably won't remember what I need to do.
-
-So I should stop here and wait for help――――
-
----
-
-"――――Yeah, I remember."
-
-But.
-
-Somewhere outside my body, there's a big reason.
-
-"Sakura――――let's go see flowers."
-
-So I have to fulfill my role.
-
----
-
-――――Time has stopped.
-
-There's no pain.
-
-I'm taking a whole day to make just one step.
-
----
-
-――――I forget how to breathe.
-
-There's no pain.
-
-I couldn't breathe if I had all day to do it.
-
----
-
-――――I lose the meaning.
-
-What was pain?
-
-Organic matter turns into inorganic substance.
-
----
-
-I manage to keep myself.
-
-I reach out for the wall to keep from falling.
-
-All the shards of my existence are gathered onto a tiny foothold.
-
-There's no way it'll support me.
-
-The foothold breaks.
-
----
-
-There's no principle of behavior.
-
-There's no meaning of behavior.
-
-There's no meaning of existence.
-
-I don't feel any fear.
-
-The meaning behind my existence disappears.
-
----
-
-I'm not alive anymore.
-
-My arms won't move for any reason.
-
----
-
-"――――Trace."
-
-Words come out of my mouth.
-
-There's something still remaining even after language, neopallium, and cerebrum
-
-are lost.
-
----
-
-"――――On."
-
-The body dies.
-
-But the soul remains.
-
----
-
-Spinning the eight verses.
-
-The load transmits from the body to the soul, and more meaning is
-
----
-
-"――――――――Ah."
-
-And Emiya Shirou dies.
-
-The standing figure is no different from a machine.
-
-It's programmed to swing the sword, but it's a corpse with no desire to move.
-
----
-
-But even without human intelligence...
-
-There are machines that weave many dreams in this world.
-
----
-
-There was a promise.
-
-Once winter's over, when it's spring――――
-
----
-
-A recitation of words without meaning.
-
-A small hope that I remembered until the very end.
-
----
-
-## Scene 10
-
-
-
-"――――――――"
-
----
-
-I take a breath, drawing enough oxygen to allow me to move.
-
----
-
-My throat only moves once.
-
----
-
-Fortunately, it's not painful.
-
-Most of my senses have turned to steel.
-
----
-
-――――No matter how hard I try.
-
-I'm starting to feel faint.
-
----
-
-――――Let's go.
-
-It's my final job.
-
----
-
-I release my left arm.
-
-My consciousness is about to fade away.
-
----
-
-"――――Trace, on."
-
----
-
-...My last projection.
-
-I'll use the strongest sword I know to destroy the curse along with the Great Holy Grail.
-
----
-
-"――――――――"
-
-It'll be the definite end.
-
-I...
-
----
-
-## Scene 11
-
-
-
-"――――, ――――, ――――"
-
-My consciousness is breaking apart.
-
-A mere hundred meters become an impossibly vast expanse.
-
----
-
-"――――, ――――, ――――"
-
-It's only a matter of time before the cavern collapses.
-
-The ceiling's crumbling in places, and the ground is strewn with rubble.
-
----
-
-"――――, ――――, ――――"
-
-My joints are stiff.
-
-It hurts to bend my limbs.
-
-If I let my guard down, I stop breathing. Finally, with the determination it would take to stick a knife in my throat, I manage to draw a few breaths.
-
-I keep doing it in spite of the pain, because people can't live without oxygen.
-
-I might be able to move without oxygen, and even if I am to breathe, I would stop moving soon.
-
----
-
-"――――, ――――, ――――"
-
-...It's hot.
-
-Hundreds of blades are growing out of my body.
-
-An inescapable death by skewering.
-
-I am the bone of my sword.
-
-But I already knew that.
-
----
-
-▊▊▊▊▊▊▊▊ said...
-
-The time bomb was activated when I used projection.
-
-So this end was already determined.
-
----
-
-"――――, ――――, ――――"
-
-...My legs are heavy.
-
-...I don't know what I'm doing.
-
-My heart's about to explode from pain, fatigue, and emptiness.
-
-But just a bit more.
-
-Everything will end once I beat him.
-
-There's no one in my way.
-
-There's no one getting in my way anymore.
-
----
-
-――――But.
-
----
-
-"Haa――――――ah――――"
-
-The shadow wavers.
-
-In front of the crater, the Great Holy Grail.
-
-Bathed in the ruddy glow, ▊▊▊▊▊▊▊▊ is standing.
-
----
-
-"――――Kotomine Kirei."
-
-"Yes. It seems we've both managed to survive, Emiya Shirou."
-
-A voice filled with strong will.
-
-As if it's fate, the man blocks my way through this desolate realm.
-
----
-
-"―――What are you doing?
-
-There's nothing for you to do now."
-
-I don't ask him how he's alive.
-
-He's dying.
-
-I don't feel magical energy from his body.
-
-There's a black stain where his heart should be.
-
-...Like me, a brief fire that's like a turned hourglass.
-
----
-
-I don't hear his heartbeat.
-
-He doesn't have much longer to live.
-
-This is not speculation, but a predication.
-
-Kotomine Kirei will die in a few minutes, even if he doesn't do anything.
-
----
-
-"Do not ask something so obvious.
-
-There is only one goal for me: to give birth to the curse."
-
-"――――What? You can't do that. He won't become yours."
-
----
-
-"Of course not. I cannot intervene with this, and I have no intention to.
-
-But I have told you. I will bless anything that comes to life.
-
-This is about to be born. So it is only natural for me to protect it from an outside enemy that tries to kill it."
-
----
-
-"...Are you insane? What are you saying with that dying body of yours? And even if it's born like you wish, you'll――――"
-
----
-
-"The same goes for you. There is no sanity here. Our end will be the same, even if we accomplish our goals.
-
-You will destroy it, while I will protect it.
-
-But there is nothing to be gained, no matter whose goal is achieved. You came here knowing that.
-
-―――This is a meaningless battle. We are two madmen engaging in useless folly."
-
----
-
-"――――――――"
-
-...Kotomine will not back down.
-
-He won't retreat, and I can't use projection as long as he's there.
-
-I need time to project.
-
-He'll smash my head if I show such an opening.
-
----
-
-"...Why? Why are you going so far to protect him?
-
-Even if he's born, you gain nothing. So why?"
-
-Even on the verge of death, why does he approve of mankind's enemy, all evils of this world?
-
----
-
-"There is no room for questions. This is my only pleasure.
-
-――――Emiya Shirou.
-
-As you feel supreme bliss in others' happiness.
-
-I feel supreme bliss in others' unhappiness."
-
----
-
-"――――"
-
-"First of all, why kill it? It is arrogance to assume it is evil even before its birth. Is it not love to allow a life that yearns to be born into the world?"
-
----
-
-"Don't bullshit me. He's killed many people already. I can't let him out."
-
-"Oh. Then let me ask. What is good and evil? Are you saying murder is an absolute evil?"
-
----
-
-"That's......"
-
-...I can't answer such a question.
-
-Good and evil mean nothing to me now.
-
-The justice Emiya Shirou believed in disappeared the instant I decided to save Sakura.
-
----
-
-"―――Fair enough. There is no answer from the start. That's what humans are like. There is no clear answer, and they accept a changing truth. We have no absolute truth from the very beginning.
-
-Humans have both good and evil, and it's up to you to decide which is which. The start is at zero, and there is no crime in being born. I thought I'd already told you."
-
----
-
-"――――Yeah. You said there's no crime in the baby even if it's evil."
-
----
-
-"Correct. Humans become good or evil through learning.
-
-A certain scripture mentions that humans are superior beings to angels. Why? Because there are people who know of evil, but do not become evil.
-
-It's different from angels, who only know of good since birth.
-
-Humans have evil, but can live as good, so they are superior to angels, who only know of good."
-
----
-
-"――――And at the same time.
-
-There are rare moments of goodwill shown by evil men.
-
-There are bad intentions shown on a whim by saints.
-
-The contradiction. The coexistence of good and evil is the Holy Grail that makes people human.
-
-Living is a crime by itself, and there are punishments because one is alive. Good exists with life, and evil exists with life.
-
-Therefore――――"
-
----
-
-"――――You cannot inquire about the crime of one who has not yet been born.
-
-There is no existence that is born as evil, that is unwanted by everyone.
-
-It has no reason to be punished until it is born."
-
----
-
-That's Kotomine's answer.
-
-That man pardons "all evils of this world" for this reason alone.
-
----
-
-"―――So you're going to forgive him? He's someone that can only kill. If you know he'll kill many people once he comes out, he's a definite evil for us...!"
-
----
-
-"Yes. His nature is evil. He was made that way, after all. He was born to be evil from the very beginning.
-
-He's not like people. This is a pure deity that people made.
-
-But――――even if his actions are evil, we have yet to know what he thinks of it."
-
----
-
-"Eh...?"
-
-What Angra Manyu thinks about his own actions...?
-
----
-
-"Yes.
-
-If Angra Manyu considers them evil and agonizes over them, or considers them good and laughs about them. That is not something we can assume.
-
-If that thing has emotions like those of humans and agonizes over its doings, it is evil.
-
-But if it has no doubt about its existence, it is good. Everyone wished for him to be that way, after all. If it has no doubt about its function, it cannot be evil."
-
----
-
-"Wha――――"
-
-"Yes.
-
-Those with defects at birth.
-
-Those who were not wanted, even before birth.
-
-It should show us the worth of worthless life: the meaning of birth."
-
----
-
-"Would it be able to forgive itself after destroying and losing everything?
-
-That's what I would like to know.
-
-I want to know if it is a crime to live as you are, when you are different from others.
-
-That is why I killed your father and let Matou Sakura live. I cannot come up with the answer by myself. That is why I wish for the birth of what can provide me with the answer."
-
----
-
-"―――That is my goal, Emiya Shirou.
-
-I am at the opposite extreme from you, as you have no wish for yourself. Our desires are of the same nature."
-
----
-
-"―――――――"
-
-...I can't comprehend him.
-
-His wish is too alien for me.
-
-...So there's only one thing I understand.
-
-That's the only reason he...
-
----
-
-"Sakura. You used Sakura for such a thing?"
-
-I shake off the vagueness, glaring at the priest with all the hostility I can muster.
-
----
-
-And...
-
-"Yes. To that end, I have taken many lives. That is why I cannot back out now.
-
-I told you. That is how I lived.
-
-I lived to answer that question.
-
-It will not change, even on the verge of my death."
-
-He makes this declaration, holding my gaze.
-
----
-
-"――――――――"
-
-His words are bold.
-
-He states it as a matter of course, saying he has no regret or doubts.
-
----
-
-"........................I see."
-
-That makes me realize.
-
-We're irreconcilable. I opposed him ever since I first saw him.
-
-...I finally realize why.
-
----
-
-I don't want to admit it.
-
-But it seems... I like Kotomine Kirei.
-
-I was frantic to see him as an enemy because I didn't want to accept the fact.
-
----
-
-He said we're similar.
-
-I understand now.
-
-We both believed ourselves to be sinners.
-
-And we both lived in a certain way to free ourselves of those chains.
-
-―――We both knew we could never be freed, but believed it was the right atonement, and sought salvation that would never be given to us.
-
----
-
-"―――――Of course you're not going to back out."
-
-There's no way he'll withdraw if he's the same as me.
-
-It's not that he's trying to grant his wish because he's about to die.
-
----
-
-...That's right. It's not that he's protecting his oath in his last moments.
-
-That's how he lived until now.
-
-He never walked a different path.
-
-So even if he's to die in the next minute, he doesn't know any other way to live.
-
----
-
-"......Humph. And this is also a way to take out my anger.
-
-I knew it was a possibility, but at last I realize it."
-
----
-
-He steps forward.
-
-There's not much time left for either of us.
-
-So we have to settle the match quickly.
-
-We have to extinguish the other's fire before our own blows out.
-
----
-
-"――――I envy you people.
-
-What I sought, but could not obtain. What I obtained, but could not obtain. Many things slipped out between my fingers, no matter what commandment I used."
-
----
-
-'What other people called happiness――――'
-
----
-
-"I am going to release my pent-up emotions here."
-
----
-
-'――――Did not bring me any joy.'
-
----
-
-...Yeah. He's empty because he couldn't obtain it, no matter what he tried.
-
-He sought and sought, but couldn't obtain happiness.
-
-And the only way of life he found was carrying death.
-
-So how can he abandon his way of life now?
-
----
-
-"I see. I guess I made you waste your time, Kotomine."
-
-I resume breathing.
-
-Pulling oxygen into my lungs, I get my body ready for battle.
-
----
-
-"I do not mind. Neither one of us has much time."
-
-Strength enters Kotomine's body.
-
-There's no way this is going to turn into a battle of magecraft.
-
-We're both almost dead.
-
-All we can do it to drive our fists into our opponent.
-
-There's no technique or strategy involved. It's a mere brawl to the death.
-
----
-
-He needs to kill me to make his wish come true.
-
-I need to kill him to destroy his wish.
-
-We both put our lives on the line.
-
-I need to beat him and eliminate the shadow before my life burns out.
-
----
-
-He kicks off of the ground and runs straight at me.
-
-"Haa――――"
-
-I don't have such power left in my legs.
-
-I lower my stance, eyes fixed on his oncoming chest, and...
-
-"Ahhhhhhhh――――!"
-
-I swing my fist full-force at a speed he can't avoid...!
-
----
-
-But my fist swings through empty space, and I'm the one who gets hit.
-
----
-
-"Guh――――!?"
-
-I don't see Kotomine.
-
-That speed. The enemy that charged me disappears from my view in an instant,
-
-crouches down by my left side, slams his palm into my stomach,
-
-and kicks up at my body with his lightning fast legs.
-
----
-
-"Haa――――guh......!"
-
-His kicks are like fire.
-
-It's been a while since I felt pain strong enough to make me lose consciousness.
-
----
-
-"Gi――――"
-
-How many meters was I kicked up?
-
-The impact was strong enough to rip my head off.
-
-No, if I'm going to talk about impact, then the second blow to my stomach was strong enough to pulverize my organs.
-
----
-
-"You――――"
-
-I know this.
-
-Taking the shortest route without any initial movement. A circle and a line. It tries to damage the inside instead of outside.
-
-"A priest using Chinese martial arts?"
-
-And he's really good at it.
-
-It's not something he copied on the spot...!
-
----
-
-"That's not true. My moves are mere mimicry. It's a mimicry of taolu without much in it―――but it seems to be enough against a dying man."
-
-He turns to me.
-
----
-
-"......!"
-
-He strikes again.
-
-Forcing my fused joints to bend, I get up.
-
----
-
-"......?"
-
-But Kotomine stops and looks at his fist.
-
-His hand's covered in red.
-
-"What a troublesome body. The one attacking has to risk his life."
-
-It is...
-
-...A price he had to pay to attack a body made of swords.
-
----
-
-"Haa――――ah."
-
-...I gather my consciousness and face my enemy.
-
-It doesn't matter.
-
-He won't stop attacking, even if faced with the thorns of death.
-
----
-
-"But this should make a good handicap.
-
-In short, our fight is..."
-
----
-
-"――――!"
-
-Kotomine lowers his stance.
-
-His trained body is getting ready for the explosion.
-
----
-
-"Not a fight against someone else, but a battle with your body at stake――――!"
-
----
-
-――――The enemy closes in.
-
-Kotomine is far stronger than me.
-
-His fists won't break.
-
-At this rate, the hourglass itself will be destroyed before all the sand spills to the bottom.
-
----
-
-"Haa――――"
-
-I don't look away from my enemy, closing in like a spark.
-
-There's only one thing I have to do.
-
-I have to be faster than last time. I have to punch him faster, even if he avoids it.
-
----
-
-――――All I can hear is the sound of my heart, pounding in my ears.
-
-I take no notice of the rumbling or the raining bits of earth.
-
----
-
-The one I must defeat is right in front of me.
-
-I don't care about some centuries-old wish or the end of this small world.
-
-For Emiya Shirou,
-
-defeating this enemy is the last remaining purpose.
-
----
-
-## Scene 12
-
-
-
-"――――, ――――, ――――"
-
-My consciousness is breaking apart.
-
----
-
-"――――, ――――, ――――"
-
-It's only a matter of time before the cavern collapses.
-
-The ceiling's crumbling down, and the ground is becoming a pile of rubble.
-
----
-
-"――――, ――――, ――――"
-
-My joints are stiff.
-
-It hurts to bend my limbs.
-
-My nerves are hot.
-
-Hundreds of blades are growing out of my body.
-
-An inescapable death by skewering.
-
-I am the bone of my sword.
-
-I already knew that.
-
-The time bomb was activated when I used projection.
-
-This end has already been determined.
-
----
-
-"――――Ha, ah――――!"
-
-I'm crumbling apart.
-
-I'll shatter if I continue.
-
-I'll shatter to pieces, like so many rocks on the ground.
-
----
-
-...I'll still make it.
-
-My body's dying, but I won't lose myself for about a day if I stop now.
-
----
-
-Only a day's worth of life prolongation.
-
-But right now, I would love to have something so insignificant.
-
-Just a day. An hour or even a minute.
-
-If I can live, I want to stay here as long as I can, no matter how miserable it may be.
-
----
-
-"Haa, gu――――......!"
-
-A crack.
-
-Not outside, but inside. The nucleus accumbens in my cerebrum breaks.
-
-The part that administers the principle of behavior, the linkage to pleasure.
-
-The most important part of life. Life is the pursuit of pleasure; without it, humans would become beasts.
-
----
-
-"Haa, ah."
-
-It's not convenient.
-
-I still want it.
-
-I want to keep my memory for as long as I can.
-
-But it's disintegrating.
-
-The pain of eating my fingers doesn't stop the memories from fading.
-
----
-
-I disappear the more I walk on.
-
-I won't make it.
-
-Even if I do make it there, I probably won't remember what I need to do.
-
-So I should stop here and wait for help――――
-
----
-
-"――――Yeah, I remember."
-
-But.
-
-Somewhere outside my body, there's a big reason.
-
-"Sakura――――let's go see flowers."
-
-So I have to fulfill my role.
-
----
-
-――――Time has stopped.
-
-There's no pain.
-
-I'm taking a whole day to make just one step.
-
----
-
-――――I forget how to breathe.
-
-There's no pain.
-
-I couldn't breathe if I had all day to do it.
-
----
-
-――――I lose the meaning.
-
-What was pain?
-
-Organic matter turns into inorganic substance.
-
----
-
-I manage to keep myself.
-
-I reach out for the wall to keep from falling.
-
-All the shards of my existence are gathered onto a tiny foothold.
-
-There's no way it'll support me.
-
-The foothold breaks.
-
----
-
-There's no principle of behavior.
-
-There's no meaning of behavior.
-
-There's no meaning of existence.
-
-I don't feel any fear.
-
-The meaning behind my existence disappears.
-
----
-
-I'm not alive anymore.
-
-My arms won't move for any reason.
-
----
-
-"――――Trace."
-
-Words come out of my mouth.
-
-There's something still remaining even after language, neopallium, and cerebrum
-
-are lost.
-
----
-
-"――――On."
-
-The body dies.
-
-But the soul remains.
-
----
-
-Spinning the eight verses.
-
-The load transmits from the body to the soul, and more meaning is
-
----
-
-"――――――――Ah."
-
-And Emiya Shirou dies.
-
-The standing figure is no different from a machine.
-
-It's programmed to swing the sword, but it's a corpse with no desire to move.
-
----
-
-But even without human intelligence...
-
-There are machines that weave many dreams in this world.
-
----
-
-There was a promise.
-
-Once winter's over, when it's spring――――
-
----
-
-A recitation of words without meaning.
-
-A small hope that I remembered until the very end.
-
----
-
-## Scene 13
-
-
-
-――――No.
-
-I can't go back if I use it.
-
-I know I'm going to disappear anyway.
-
-But I have to try to find some other way as long as I'm alive.
-
----
-
-I promised that I'll protect Sakura from everything.
-
-I can't selfishly die.
-
-I want to live with Sakura.
-
-So――――
-
----
-
-"――――Trace――――"
-
----
-
-...But there's no other way.
-
-Sakura's crime. The absolute requirement for Sakura's happiness is the destruction of this curse.
-
----
-
-...Only a single grain of my consciousness is left.
-
-Sakura, I――――
-
-"――――Trace, on."
-
-The promise I made with you――――
-
----
-
-; " "
-
-A sword is in my hand.
-
-is body last
-
----
-
-――――No, you won't die, Shirou.
-
-Because I'm the one that's going to shut the gate.
-
----
-
-"――――――――――――"
-
-It's...
-
-The voice of someone I can't remember.
-
----
-
-"――――――――  ?"
-
-I can't remember, but I call her name.
-
-I know I have to do it.
-
-―――Because will never return if I don't.
-
----
-
-――――Hey.
-
-Do you want to live, Shirou? Do you want to live on, no matter what kind of life you become?
-
----
-
-; "―――――――― "
-
-I want to live. Name. I have to call her name and stop her.
-
-But I want to live. I know will disappear if I nod, but I want to live from the bottom of my heart.
-
----
-
-――――Yeah.
-
-I'm glad to hear that. I wanted you to live instead of me.
-
----
-
-; "―――――――― "
-
-What are you saying, idiot?
-
-Just come back. You won't be able to return if you go any further.
-
-I'll take him, so, damn, I have to remember her name, but my head's turned stupid, and the important name is...
-
----
-
-――――Then I'll show you a miracle.
-
-It's an application of the magecraft I showed you earlier, but this one's amazing.
-
-This is the True magecraft everyone wanted to see, after all.
-
----
-
-"―――――――― a."
-
-No, I don't need to see it. Just come back.
-
-I...
-
----
-
-――――But the container's a bit cheap.
-
-I can't completely reproduce it using only my own body, but it's all right. You'll be back in no time if you and Rin keep trying.
-
----
-
-"―――――――― a......!"
-
-She goes to the center.
-
-The person in white becomes the sacrifice, just like in the first ritual to close the Great Holy Grail.
-
----
-
-―――Goodbye.
-
-We aren't related by blood.
-
-But I'm glad we were siblings.
-
----
-
-"――――――――"
-
-ya.
-
-If that's how you feel, then don't go.
-
-I can't sacrifice you. I said we'd live together to make up for all the time you've lived alone.
-
-But――――if one of us has to be sacrificed, then――――
-
----
-
-―――No.
-
-You said an older brother protects his younger sister, right?
-
-...Yeah. I'm the older sister. So I have to protect my younger brother.
-
----
-
-"I――――――lya."
-
-I remember.
-
-Her name.
-
-Kiritsugu's real blood relative. The girl who was left alone because I came and stole him.
-
-A girl with silver hair and red eyes that's a bit older than me―――
-
----
-
-"Illya―――Illya, Illya, Illya, Illya, Illya, Illya, Illya, Illya―――――!!!"
-
-I can't reach her.
-
-I don't hear voices any more.
-
-I can't see anything in this light.
-
-And at the last moment.
-
----
-
-She smiles goodbye and shuts the gate of the Great Holy Grail.
-
----
-
-I can see the sky.
-
----
-
-I can go into the sky if I reach out just a bit.
-
----
-
-But there's nothing left.
-
-There's absolutely no energy left in my body.
-
----
-
-I'm sinking.
-
-The life she saved is sinking.
-
----
-
-I clench my fist out of vexation.
-
-I feel something cold in my hand.
-
-The sensation rouses my mind――――
-
----
-
-'It's all right. Rin will save you.'
-
----
-
-――――Yeah.
-
-There's a miracle in my hand.
-
-A little magical energy.
-
-A small, useless pendant, but it can at least help me reach out with my hands.
-
----
-
-I reach out.
-
-The gentle atmosphere and the warm sun hits my skin.
-
----
-
-In my hand is the endless blue sky――――
-
----
-
-## Scene 14
-
-
-
-There's no reception.
-
-The Ryuudou Temple hides in the dark, emitting alien powers like a crouching giant.
-
-There must be wind blowing far above me.
-
-If I strain my ears, I can hear it howling.
-
----
-
-"...I feel a power from atop the stairs. It seems something is being created in the pond behind the compound."
-
-"No, we don't have any business there. The gate above must be the ostensible gate for the Masters that want the Holy Grail. ...If we want the Great Holy Grail, we have to go down instead of up."
-
-Tohsaka walks away from the stairs into the forest.
-
----
-
-"...Are you all right, Rider? There's a boundary field around the Ryuudou Temple, right? I heard Servants can only go in from the front gate."
-
----
-
-"...I feel some strain, but this is tolerable.
-
-This area contains the most suitable ley line in the land. Once we get inside, I can recover by drawing magical energy from the air."
-
-"I see. It must be tough, but please bear with us for a bit."
-
----
-
-We push our way through the tree branches.
-
-There's not even an animal trail over the mountain, so we even have to climb down rock walls.
-
----
-
-"Hm―――it should be around here, according to Illya... Do you see anything like an entrance, Shirou?"
-
-"What do you mean, 'like'?"
-
----
-
-"Like a crack in a rock that we can slip through, or a suspicious-looking shrine. It's an entrance, so I don't think it'd just be a pit."
-
-"...Don't be ridiculous. The stars are out, but I can't see anything in a forest at night――――"
-
----
-
-...Oh, I can.
-
-We must be behind the temple, because I see many dead trees.
-
-There's no sign of human influence. There's nothing here but dead trees and a small stream.
-
----
-
-"...Small stream?"
-
-Hold on.
-
-That means the water's coming from somewhere.
-
----
-
-"...Rider. There's a bunch of rocks above the stream, right?
-
-It's too dark for me to see, but is that a cave?"
-
-"―――――Please do not turn around, Shirou."
-
-I hear a small metallic sound.
-
-Rider must've taken off her restraint.
-
----
-
-"......Yes. It's a natural cave, but you should just be able to fit through. It looks like the path ends about a meter in, but I sense a magical camouflage."
-
-"I see, thanks. ―――Tohsaka. I guess there is something like it."
-
----
-
-We pick our way down to the stream.
-
-...It's more like a spring flowing out from the rocks.
-
----
-
-The stones are piled atop one another where it starts. There's a crack big enough for one person to fit through.
-
-It's like a snow hut made from rocks.
-
-You can see that a huge boulder is blocking the entrance, so nobody would even try to go in it.
-
----
-
-"――――This is it. You can pass through the rock."
-
-Tohsaka walks into the darkness without turning around.
-
-"Please go ahead. I shall protect your back."
-
-I nod and enter the darkness.
-
----
-
-The sound of scraping on a hard surface.
-
-I progress down the wet rock using my hands.
-
-The ground slopes steeply downward.
-
----
-
-...The weight of the darkness is stifling.
-
-Unless I keep my back to the ground as I move, I might fall into the endless dark.
-
----
-
-"........."
-
-I lay flat on my back as I slowly descend.
-
-......It's dark, and I can't tell how far down this path goes.
-
-My breathing echoes in my ears.
-
----
-
-"Shirou. I'm going to ask you now."
-
-...Then.
-
-Tohsaka, the one leading the way, suddenly speaks up.
-
----
-
-"What?"
-
-"The gem sword. Why did you make it for me?"
-
-She sounds blunt, as if she's just asking to kill time while we're descending.
-
----
-
-"Why ask?"
-
-"―――I've told you I'm planning to kill Sakura.
-
-Can you really give me a weapon, knowing that?"
-
-"―――――――"
-
-I nod in agreement.
-
-Well, Tohsaka certainly has a point.
-
----
-
-"I'm not okay with that. But I can't save Sakura without you. It's better to have two people instead of one.
-
-And projecting the sword was a promise.
-
-I couldn't keep one of my promises with you, so I wanted to keep the other."
-
----
-
-It happened a long time ago.
-
-I asked for Tohsaka's help after I lost Saber.
-
-Tohsaka responded to my call for help, and I made a promise with her.
-
----
-
-To let her win.
-
-I promised to make her the victor.
-
----
-
-...I can't keep that promise anymore.
-
-So I have to keep the other promise with her.
-
-For the girl I used to admire...
-
-For Tohsaka Rin, who believed in someone who had nothing at the time.
-
----
-
-"I see. You're pretty faithful."
-
-"Yeah, but not as much as you."
-
----
-
-Silence returns to the darkness.
-
-The conversation ends.
-
-We continue our descent without looking at each other.
-
----
-
-A long path that seems to lead to hell.
-
-The path spirals downward, and just as I'm thinking we're over a hundred meters underground...
-
-The dark cave changes completely, welcoming us.
-
----
-
-The path that could only accomodate one person widens up and leads on.
-
-There's no need for light.
-
-The cave is lit by a dim green glow, probably from some kind of luminous moss.
-
----
-
-The path is saturated with life force.
-
-It feels too lively.
-
-An air of birth, filled with vigor and the joy of life.
-
-An immense amount of odo, and magical energy so strong that it's almost visible.
-
----
-
-"――――――――"
-
-It makes me want to vomit.
-
-The warmth of life should be dazzling, but instead it's something rotten, making me want to look away.
-
----
-
-"............"
-
-"――――――――"
-
-I have no words to say to her.
-
-This is a land of death.
-
-Talking to each other to soften the tension would only cost us our lives.
-
----
-
-"―――Let's go. From now on, look out for your own safety first."
-
-...Tohsaka heads down the path, to the source of the black air.
-
-Rider and I follow after her, concentrating on our surroundings.
-
----
-
-"......?"
-
-I see something red on the ground.
-
-It's a trace of blood.
-
-It leads to the back.
-
----
-
-"――――――――"
-
-Did someone come here before us?
-
-And someone wounded badly enough to leave behind a trail of blood?
-
----
-
-"Shirou."
-
-"...Sorry. I'll be right there."
-
-I shake off that train of thought and head on.
-
-I can't be worrying about others.
-
----
-
-"―――――――!"
-
-My consciousness fades away if I let my guard down.
-
-I'll disappear if I worry about needless things.
-
-"........."
-
-I tighten my grip on the pendant.
-
-Letting the pain clear my mind, I step into the green darkness.
-
----
-
-## Scene 15
-
-
-
-―――A warm wind hits my cheeks.
-
----
-
-At its end, the path opens into a cavern.
-
-It's about as big as the schoolground.
-
-It's too dark to make out the ceiling, but it must be about ten meters high.
-
----
-
-I don't detect any signs of life.
-
-An unforgettable underground space that looks like the moonscape that I read about a long time ago.
-
-And there...
-
-Waits Saber, filled with absolute hostility.
-
----
-
-She's the only one here.
-
-I don't see Sakura, Zouken, or Assassin.
-
-The only one blocking the way here is the girl who has turned black.
-
----
-
-"――――――Saber."
-
-"――――――――――"
-
-There's no reply.
-
----
-
-...Of course.
-
-Saber's duty is to eliminate any intruders.
-
-She's the gatekeeper and the executioner.
-
-Saber's the strongest Servant Sakura has, so she can fight us by herself.
 
----
-
-"...Hmph. It doesn't look like we can talk her into letting us through."
-
-Tohsaka lowers her stance and reaches for the gem sword she's hiding behind her back.
-
----
-
-―――She must intend to fight head-on.
-
-I don't know what kind of ability the sword has, but she's going to fight Saber.
-
----
-
-But that's not a good idea.
-
-We still have a countermeasure, since we know Saber's powers. We can't use our only secret weapon when Zouken and Assassin are still waiting for us――――
-
----
-
-"Wait, Tohsaka...! Saber's――――"
-
-"Rin. I have no reason to fight you. Please do not attack me. I will go against Sakura's orders if I kill you here."
-
----
-
-"......!"
-
-Speaking in the same quiet tones as before, Saber stops Tohsaka in her tracks.
-
-We comprehend what she means right away.
-
----
-
-"...What are you doing? You're keeping watch here, right?"
-
-"Yes. I am to eliminate anyone that passes by here.
-
-That is Sakura's order. But―――"
-
-"I'm an exception, and Sakura wants to see me?"
-
-Saber nods.
-
----
-
-"......I see. She must be serious."
-
-She mutters.
-
-...After taking a deep breath, Tohsaka walks over to Saber.
-
----
-
-"Tohsaka."
-
-"Sorry. I guess that's how it is, so I'm going ahead."
-
-Tohsaka walks on without hesitation and passes by Saber.
-
-And right before she disappears...
-
----
-
-"Shirou. I don't know what'll happen to you, but I believe in you. So you'd better live up to my expectations."
-
----
-
-"Huh?"
-
-...Wait.
-
-I can't understand if you complain to me without telling me what I should be doing.
-
----
-
-"I-I'm saying it'll just be a pain if you come complaining after everything's over! ...Um, make sure you're not too late if you want to save Sakura."
-
-Tohsaka disappears, her hair fluttering behind her.
-
----
-
-"――――――――"
-
-...Thanks, Tohsaka.
-
-That gave me strength.
-
-In short, she told me to come help her while she keeps Sakura at bay.
-
----
-
-"That is impossible. You will die here, Shirou."
-
-"......!"
-
----
-
-Her hostility expands.
-
-Tohsaka left, and Rider and I are the only ones here.
-
-So she doesn't have to hold back anymore, huh?
-
----
-
-"I cannot overlook what you just said. You only kill those that pass through. If he merely stays here, you should not harm him."
-
----
-
-"I will not attack if he does not move.
-
-But he will advance, no matter what. He knows he cannot defeat me, but all he can do is move forward.
-
-Am I wrong, Rider?"
-
-"I see. You served him before me, after all.
-
-It's natural that you know his personality."
-
----
-
-...Saber narrows her eyes.
-
-The black holy sword is in her hands.
-
-―――She's coming.
-
-Rider or I.
-
-If either one of us takes a step forward, Saber will use all her power to kill us.
-
----
-
-"......Saber. There's nothing that'll make you back down?"
-
-"Stop asking me that. I said this is my role."
-
-I grab the Shroud.
-
-...Saber shows no sign of hesitation.
-
-We're already enemies.
-
-I realized that back in the forest.
-
----
-
-So...
-
-"―――I see. Then I'll eliminate you here."
-
-I have to accept it.
-
----
-
-"――――"
-
-"I'm going to save Sakura. You're in my way."
-
-Saber's not my only enemy.
-
-There's still Assassin and Zouken.
-
-I can't be wasting my time here.
-
----
-
-"Please stay back, Shirou. I shall fight Saber just as you instructed me."
-
-Removing the restraint on her mystic eyes, Rider motions me back with one hand.
-
----
-
-Saber raises her sword.
-
-―――The hostility is already aimed at Rider―――
-
----
-
-"Don't be stupid. I said we're both going to fight her. You..."
-
-"I may not be able to defeat her, but I can keep her occupied. Fortunately, Saber does not have the ability to repel mystic eyes.
-
-I cannot petrify her as she has more magical energy, but I can pressure her. I can match her for two minutes if I use all my strength."
-
----
-
-Rider's eyes capture Saber.
-
-The mystic eyes, which petrify anyone in her sight, temporarily lower Saber's ability.
-
----
-
-"I will create the situation. Please stay there and concentrate so you do not miss our chance."
-
-"Rider."
-
-"――――I will be going. I shall entrust you with my life, Shirou."
-
----
-
-Rider disappears.
-
-The black cavalryman dashes at the swordsman with light speed.
+Extra stage!
 
 ---
 
-The attack is made so quickly that human reactions cannot even perceive it.
+Side B!
 
-But Saber repels it like nothing.
-
----
-
-"―――Very well. You will disappear first, Rider."
-
-A heavy pressure fills the cavern.
-
-A cruel smile on her face, the black swordsman starts to move.
-
----
-
-## Scene 16
-
-
-
-Her vision spreads out.
-
-The instant Tohsaka Rin escapes the darkness, she forgets that she's deep underground.
-
----
-
-The impossibly high canopy and black sun.
-
-The huge cavern isn't a cave, but a desolate land.
-
-There should be two, no, three kilometers across.
-
-In the distance stands a monolithic wall.
-
-...This is the start and the end of this war.
-
-There should be a giant crater above the cliff.
-
-Up there is the system that has been activated for two hundred years.
-
----
-
-The massive rock that holds a large magecraft circle, the Great Holy Grail, belches black fire from its mortar-shaped center.
-
----
-
-The embryonic movements of the black shadow.
-
-The light illuminating the desert is a wave of magical energy.
-
-...According to Tohsaka's records, this is what you'd call the altar of the beginning.
-
-The middle that leads to the middle.
-
-The circular circuit, the world of heart, Heavens Feel.
-
-It has immeasurable magical energy, creating an alien world that lives up to its name.
-
----
-
-"That's Angra Manyu... So the name 'all evils of this world' isn't just for show, huh?"
-
-Rin talks lightly as she makes her way to the altar.
-
-...She's worried about Shirou and Rider, but her situation isn't too good either.
-
-The magical energy in the Great Holy Grail isn't something a human can handle.
-
----
-
-The vortex of magical energy can be called infinite.
-
-There's so much that it won't run out, not even if all the magi in the world come here and use whatever magecraft they wish.
-
-It's more than anyone can use in a lifetime, and therefore can be called infinite.
-
----
-
-"...Nothing is impossible, huh? That Holy Grail really can make any wish come true."
-
-Her determination almost breaks, faced with the numbing premonition of death.
-
-Keeping her spirits up with idle talk, she walks on.
-
----
-
-―――The ones she's watching out for are Assassin and Matou Zouken.
-
-Matou Sakura isn't a threat.
-
-She has lost her mind, and Rin sees no danger from her.
-
-She's just Zouken's puppet, after all.
-
-Rin's greatest enemy is Matou Zouken.
-
-The fight against Matou Sakura isn't important.
-
----
-
-"......Strange. I can make it to the altar."
-
-Zouken shouldn't allow an intruder to trespass this far.
-
-If he's planning to attack her, it'll be on the way to the altar.
-
-But it's not happening, and Rin's about to reach her destination.
-
----
-
-"――――――――"
-
-She thinks.
-
-Why is there no interference from Zouken? Why can't she feel his or Assassin's presence?
-
-She makes a guess.
-
-She denies the possibility, but easily accepts it.
-
-No, she's forced to accept it.
-
-Because...
-
 ---
 
-"―――I'm glad, Nee-san. You came here instead of running away."
+Sorry to keep you waiting! Wanting her, her, and everyone else! This the only harem end in "Fate"!
 
 ---
 
-...Her guess turns out to be true.
+All right! An erotic development that will keep you in animalistic passion for life awaits you―――
 
 ---
-
-She looks up.
-
-On top of the cliff.
-
-With the black sun behind her, Matou Sakura welcomes her older sister.
-
----
-
-"――――――――!"
-
-Rin retreats a little, overwhelmed by the pressure.
-
-...The girl has been transfigured further than Rin expected.
 
-Angra Manyu is a Servant without form.
+Wait, how is this a harem end!?
 
-It's only a shadow that takes form using people's wishes.
-
-Therefore, its powers depend on its Master.
-
 ---
 
-Matou Sakura is now Angra Manyu.
+......Ouu... So am I stretching it a bit too far, master?
 
-"All evils of this world", the function to emit the curse is the girl called Matou Sakura.
-
 ---
-
-"...Crap. If Kirei were here, I bet he'd call it a messenger from God."
 
-Rin looks up at Sakura, who has turned into a bottomless well of magical energy, and releases her gem sword.
+Geez, you can't do anything suspenseful like this!
 
-―――But is it something that can match the being above her?
-
 ---
-
-There are two functions for weapons that support magecraft and ceremonial equipment that assist in rituals.
-
-One function is to amplify.
-
-It's a backup, increasing and supplementing one's magical energy and strengthening the spell itself.
 
-These items are considered orthodox support equipment, and magi carry at least one. Rin's jewels are classified in this group.
+I love having monsters you had a hard time killing come back after the ending credits and "fin" come up.
 
 ---
 
-Another is a limited function.
+Like the blob.
 
-It's a special magical item where the weapon itself becomes magecraft.
-
-It's activated using the magical energy of the magus and performs a predetermined divine mystery.
-
-Its greatest advantage is that it enables the magus to use magecraft she's not capable of ordinarily.
-
 ---
-
-It only has one application and thus lacks versatility, but for that reason, its power is immense.
 
-A lance that always pierces the heart,
+Oh, Senpai. Long time no see.
 
-a bridle that enslaves holy beasts,
-
-a dagger that cancels any magical effect.
-
-Noble Phantasms of Servants are usually classified in this group.
-
 ---
-
-"――――――――"
 
-So, which is the gem sword?
+Geez. This is all because you were confined by lingering affection.
 
-Is it support equipment that gives magical energy to the user,
+You can only save one. That's the decision you made coming into the final battle, so stick with it no matter what.
 
-or is it a limited weapon that defeats the enemy with its unique ability?
-
-...But.
-
-No matter which it may be, nothing should be able to match Matou Sakura.
-
 ---
 
-The difference in their magical energy is too vast.
+Osu, that's splendid, master.
 
-No matter what kind of a magecraft it may be, Matou Sakura should be able to drive it back in one breath.
+...But are you sure there's no ending to save Saber?
 
 ---
-
-"What's wrong, why are you trembling, Nee-san? ...Fufu, don't tell me you've suddenly lost your nerve."
 
-"...Well said. Where's your guardian? You're a coward, so doesn't it bother you that he's not by your side?"
+Play the Saber route.
 
-"――――――――"
-
-...The air freezes.
-
-Hostile tension mixes into the warm air in the cavern.
-
 ---
-
-"――――――――"
 
-The black girl bites her lip and sighs.
+You're brutally honest, but that's exactly right.
 
-"Grandfather's gone. He was a bother, so I crushed him along with Assassin."
-
-She smiles gracefully.
-
 ---
-
-"......"
-
-She doesn't need to ask.
 
-Matou Zouken was killed by Matou Sakura.
+There's no ending in Sakura-chan's route to make Saber-chan happy, so all you Saber-chan supporters can give up.
 
-...It's natural that he hasn't shown himself.
-
-The old magus was eaten by his own pet dog.
-
 ---
-
-"I see, so you're completely free. Zouken bound you in a good way and a bad way.
-
-You don't have anything to fear now that you killed him."
 
-"Not quite. Not yet, Nee-san.
+Well, the Tiger Dojo is really finished.
 
-Killing my grandfather isn't enough. I'm this strong and I can do anything, but I'm still bound."
+There're forty dojos total, so thanks for bearing with us.
 
 ---
 
-"...Geez. Nee-san, you're so insignificant, but you won't disappear from within me. You still torment me in my mind.
+Wow, there's that many?
 
-So――――as long as you live, I can't be free."
+What happens if you collect all the stamps, Taiga?
 
 ---
 
-Her voice is a light singsong, but the words are heavy as slime.
+You'll see after you collect them all.
 
-The contradiction proves her madness.
+The main story's about to end, so it might be fun to use the skip function and start over if you haven't seen a particular dojo.
 
-The hostility in the cavern is a rhapsody of superiority and awe.
-
 ---
 
-"...Oh. But you seem happy in spite of that. You killed Zouken and Assassin, so I should assume you killed Kirei as well.
+Anyway, thanks for playing the game until now!
 
-What a performance for someone who hated killing... are you getting used to murder now?"
+The main story's about to end, so please keep at it!
 
 ---
 
-"Yes. Crushing people and eating them are no different.
+Yeah, thank you so much for everything until now! It was fun!
 
-For people, it's boring and meaningless if you don't have fun, and it's painful if you don't eat, right?
+Goodbye! Let's meet again after you fully complete the game!
 
-It's just the same. I'm the same as you. I'm just doing what everyone else's doing."
+## Scene 12 I'll forget about you
 
----
 
-"―――Wait. Do you really mean that twisted logic?"
 
-"It's not twisted logic. I'm not wrong.
+There's no hesitation.
 
-It's different because I've gotten strong. I'm strong, so I'm different now."
+Holding her gaze, I bring down my heavy arm.
 
 ---
 
-"I――――I'm strong. Everything's forgiven if you're strong.
+There's no resistance.
 
-...Yes. If I'm strong and no one can beat me, everything I've done will be forgiven. If I'm not myself, everything I've done couldn't be helped...!"
+I end Saber's life with one blow.
 
 ---
 
-A scream of rage.
+"――――――――――, ―――"
 
-It's the complaint of a petulant child who can't escape unless she believes in it.
-
----
+There were memories.
 
-"Do you understand, Nee-san? That's what I'm going to become. That's why I can kill anyone. It's natural for me."
+There was the warmth of life.
 
-"......I see. So you're going to take it out on everything you see? But what about Shirou? He still believes he can save you. Are you going to kill him too?"
+Her warmth was always by my side.
 
 ---
 
-"――――!"
+I kill her along with those memories.
 
-The girl stiffens.
+I search through my mind and throw them away to where I can't find them again.
 
-Rin's question is her last obstacle.
+They'll never return.
 
-...Her excitement cools down.
+I'll never recall her now.
 
-Thinking about him, she regains her sanity.
+―――Such a thing will never be forgiven.
 
 ---
 
-A serene smile crosses her face.
+I chose this path.
 
-"Yes. Senpai's no exception.
+I killed someone else to save Sakura.
 
-No―――he's the only one I want to kill, Nee-san.
+Using my own hands, I killed someone who protected me until the very end.
 
-...Yes. I quickly――――"
+Neither regret nor a confession will bring forgiveness.
 
----
+...This is what it means to ally with someone.
 
-――――Want to consume Senpai.
+I'll keep sacrificing important things for the one I love.
 
 ---
-
-"――――――――"
 
-Matou Sakura's reply shows that she is beyond help.
+And on this path...
 
-Rin grips the gem sword and gauges the distance between them.
+There's nothing brilliant enough to make up for what I've lost.
 
 ---
-
-"...Hmph. What about taking Angra Manyu with you?
-
-I knew you were stupid, but I didn't think you were this stupid. You let yourself be swallowed, and you've already stopped being human."
 
-A voice filled with clear hostility.
+"But Saber――――"
 
-As the supervisor of this land, Tohsaka Rin acknowledges her own sister as "evil".
+I'll search all my life for happiness that can measure up to what I've lost.
 
----
-
-"――――Fuh. You're bluffing. Please be honest with yourself, Nee-san.
+I'll keep losing more than I gain, and I know I'll stop someday.
 
-You're envious of this great power, right? You're jealous, right? That's why you came to kill me even though you can't.
+But―――I'm going to take responsibility for stealing things away, even if I'm pathetic, comical, or meaningless.
 
-......Yes. You're going to take him away from me so you can keep the happiness to yourself."
-
 ---
-
-The shadows stand up.
 
-A magecraft of absorption, a bundle of magical energy that matches a Servant's Noble Phantasm.
+I don't know where I can find happiness.
 
-Not one, but many rise up to attack.
+But I swear to myself that I'll never give up, even if I can't see the end.
 
 ---
 
-"I won't give it to you. This is my power. All I'm going to give you is regret and despair.
+"――――Thanks. You saved me many times."
 
-I'll slowly show you what I mean."
-
-There are four figures.
-
-They reach out for the small person beneath them like giants protecting the girl.
-
 ---
-
-"――――I'll show you the difference in our powers, Nee-san.
-
-Nobody's going to come help you this time. You can drown in me like a bug in a lake."
 
-The towering shadows attack her.
+...The weight on my dagger disappears.
 
-A titanic power that can neither be blocked nor dodged swallows Tohsaka Rin.
+Silent to the end, the dark swordsman sinks into the black shadow, her eyes fixed on me.
 
 ---
 
-## Scene 17
+## Scene 13 Gem Sword Zelretch
 
 
 
@@ -5218,7 +3912,8 @@ Tohsaka Rin finishes the battle.
 
 ---
 
-## Scene 18
+
+## Scene 14 Sisters(VII)
 
 
 
@@ -5492,7 +4187,7 @@ The girl, wet with her beloved sister's blood, starts to strongly curse herself.
 
 ---
 
-## Scene 19
+## Scene 15 To the cavern
 
 
 
@@ -5812,7 +4507,7 @@ Backing away from Tohsaka's blood-soaked body, as if fleeing, is
 
 ---
 
-## Scene 20
+## Scene 16 Liberation
 
 
 
@@ -6146,7 +4841,1045 @@ And I thrust it into her heart with a single breath.
 
 ---
 
-## Scene 21
+## Scene 17 To Angra Manyu
+
+
+
+She is released.
+
+The black Command Spell cloaking her body disappears.
+
+---
+
+A contract-breaker.
+
+A Noble Phantasm that nullifies all magecraft and negates the contract with a Servant.
+
+Without taking Sakura's life, it destroys the contract that bound her.
+
+---
+
+――――My vision isn't continuous.
+
+Sakura's alive.
+
+I don't know if it's reaction from being released, but she's lying on the ground like she's sleeping.
+
+---
+
+Tohsaka―――Tohsaka will make it too.
+
+She's not bleeding anymore. She has a legitimate Magic Crest.
+
+The Crest is the crystallization of the Tohsaka family's magecraft. It won't let their successor die even if she's unconscious.
+
+---
+
+"――――――――"
+
+The cavern is shaking.
+
+Angra Manyu.
+
+A ridiculous curse called "all evils of the world" is writhing.
+
+---
+
+...Damn.
+
+Even after losing its host, the black shadow hasn't disappeared.
+
+It has grown too large.
+
+It can come out without Sakura's help.
+
+It will emerge so long as the Great Holy Grail still exists.
+
+---
+
+――――I'll destroy it.
+
+I'll destroy the giant magecraft circle, and the shadow along with it.
+
+Angra Manyu's fetal activity is slowly destroying the cavern.
+
+...But I don't think it'll die even if the cavern collapses.
+
+I have to destroy that thing here and now.
+
+---
+
+Is it possible?
+
+...Yes, it's possible.
+
+I'll go as near it as I can and attack it with great force.
+
+---
+
+Angra Manyu can't move as long as it's in the black fire.
+
+I'll cleave it in two before he can emerge.
+
+If there's anything capable of such a feat, it's――――
+
+The greatest Noble Phantasm I know of.
+
+---
+
+"――――――――Guh."
+
+My breathing stopped for a moment.
+
+There's about a hundred meters to Angra Manyu.
+
+...It's fine, I can walk this distance.
+
+It's just one more time.
+
+One last projection, and it's all over.
+
+It's fine, I'll be able to do it.
+
+I'll finish this off, take the two of them above ground, and...
+
+---
+
+"Shirou, do you hear me?"
+
+Someone taps my shoulder.
+
+---
+
+"――――――――"
+
+...Who is this?
+
+She can't possibly be a stranger.
+
+I know her. She looks dangerous, but I remember that she's trustworthy.
+
+---
+
+"Good. Can you take Sakura and Tohsaka and get out of here?"
+
+"―――――Shirou?"
+
+The long-haired woman stares at me for a few seconds.
+
+---
+
+"What about you?"
+
+"I'll go after I destroy that thing. It'll be quick, but every second counts for Tohsaka. And Sakura would be affected by the shadow if she stays here. Angra Manyu might be persistent and make Sakura his Master again."
+
+---
+
+"――――Understood. I will carry Rin and Sakura.
+
+Please rest assured. I have rested enough for that."
+
+"Please. Go outside with those two. The cavern's collapsing. Um, R―――R- damn, your speed would have no problem with the falling rocks."
+
+---
+
+".....................
+
+――――Then I will be going. I shall come get you after I get them to a safe place."
+
+---
+
+"Um... That's nice to hear, but make sure they're okay first. You're the only one I can trust. I'll escape by myself, so please treat Tohsaka. Sakura can't be happy without her."
+
+---
+
+...I don't think this woman has any ability to heal people.
+
+But I still have to entrust her with Tohsaka's life.
+
+---
+
+"Certainly. But the same goes for you, Shirou.
+
+Sakura needs you and Rin. Please remember that. ...I need you to support Sakura."
+
+---
+
+"......?"
+
+"I shall hurry. ――――Good luck."
+
+---
+
+The woman in black picks them up with ease and runs down the cliff.
+
+―――Weaving between the falling rocks, she hurries to the exit.
+
+---
+
+"――――――――Phew."
+
+...I don't have to worry about them now.
+
+They'll be saved if I let her take care of them.
+
+So――――
+
+Now, I just need to take care of one more thing.
+
+---
+
+## Scene 18 Conclusion
+
+
+
+; "――――, ――――, ――――"
+
+My consciousness is breaking apart.
+
+A mere hundred meters become an impossibly vast expanse.
+
+---
+
+; "――――, ――――, ――――"
+
+It's only a matter of time before the cavern collapses.
+
+The ceiling's crumbling down, and the ground is becoming a pile of rubble.
+
+---
+
+; "――――, ――――, ――――"
+
+My joints are stiff.
+
+It hurts to bend my limbs.
+
+My nerves are hot.
+
+Hundreds of blades are growing out of my body.
+
+An inescapable death by skewering.
+
+I am the bone of my sword.
+
+I already knew that.
+
+The time bomb was activated when I used projection.
+
+This end has already been determined.
+
+---
+
+"――――Ha, ah――――!"
+
+I'm crumbling apart.
+
+I'll shatter if I continue.
+
+I'll shatter to pieces, like so many rocks on the ground.
+
+---
+
+...I'll still make it.
+
+My body's dying, but I won't lose myself for about a day if I stop now.
+
+---
+
+Only a day's worth of life prolongation.
+
+But right now, I would love to have something so insignificant.
+
+Just a day. An hour or even a minute.
+
+If I can live, I want to stay here as long as I can, no matter how miserable it may be.
+
+---
+
+"Haa, gu――――......!"
+
+A crack.
+
+Not outside, but inside. The nucleus accumbens in my cerebrum breaks.
+
+The part that administers the principle of behavior, the linkage to pleasure.
+
+The most important part of life. Life is the pursuit of pleasure; without it, humans would become beasts.
+
+---
+
+"Haa, ah."
+
+It's not convenient.
+
+I still want it.
+
+I want to keep my memory for as long as I can.
+
+But it's disintegrating.
+
+The pain of eating my fingers doesn't stop the memories from fading.
+
+---
+
+I disappear the more I walk on.
+
+I won't make it.
+
+Even if I do make it there, I probably won't remember what I need to do.
+
+So I should stop here and wait for help――――
+
+---
+
+"――――Yeah, I remember."
+
+But.
+
+Somewhere outside my body, there's a big reason.
+
+"Sakura――――let's go see flowers."
+
+So I have to fulfill my role.
+
+---
+
+――――Time has stopped.
+
+There's no pain.
+
+I'm taking a whole day to make just one step.
+
+---
+
+――――I forget how to breathe.
+
+There's no pain.
+
+I couldn't breathe if I had all day to do it.
+
+---
+
+――――I lose the meaning.
+
+What was pain?
+
+Organic matter turns into inorganic substance.
+
+---
+
+I manage to keep myself.
+
+I reach out for the wall to keep from falling.
+
+All the shards of my existence are gathered onto a tiny foothold.
+
+There's no way it'll support me.
+
+The foothold breaks.
+
+---
+
+There's no principle of behavior.
+
+There's no meaning of behavior.
+
+There's no meaning of existence.
+
+I don't feel any fear.
+
+The meaning behind my existence disappears.
+
+---
+
+I'm not alive anymore.
+
+My arms won't move for any reason.
+
+---
+
+"――――Trace."
+
+Words come out of my mouth.
+
+There's something still remaining even after language, neopallium, and cerebrum
+
+are lost.
+
+---
+
+"――――On."
+
+The body dies.
+
+But the soul remains.
+
+---
+
+Spinning the eight verses.
+
+The load transmits from the body to the soul, and more meaning is
+
+---
+
+"――――――――Ah."
+
+And Emiya Shirou dies.
+
+The standing figure is no different from a machine.
+
+It's programmed to swing the sword, but it's a corpse with no desire to move.
+
+---
+
+But even without human intelligence...
+
+There are machines that weave many dreams in this world.
+
+---
+
+There was a promise.
+
+Once winter's over, when it's spring――――
+
+---
+
+A recitation of words without meaning.
+
+A small hope that I remembered until the very end.
+
+---
+
+## Scene 19 All evils of the world
+
+
+
+"――――, ――――, ――――"
+
+My consciousness is breaking apart.
+
+A mere hundred meters become an impossibly vast expanse.
+
+---
+
+"――――, ――――, ――――"
+
+It's only a matter of time before the cavern collapses.
+
+The ceiling's crumbling in places, and the ground is strewn with rubble.
+
+---
+
+"――――, ――――, ――――"
+
+My joints are stiff.
+
+It hurts to bend my limbs.
+
+If I let my guard down, I stop breathing. Finally, with the determination it would take to stick a knife in my throat, I manage to draw a few breaths.
+
+I keep doing it in spite of the pain, because people can't live without oxygen.
+
+I might be able to move without oxygen, and even if I am to breathe, I would stop moving soon.
+
+---
+
+"――――, ――――, ――――"
+
+...It's hot.
+
+Hundreds of blades are growing out of my body.
+
+An inescapable death by skewering.
+
+I am the bone of my sword.
+
+But I already knew that.
+
+---
+
+▊▊▊▊▊▊▊▊ said...
+
+The time bomb was activated when I used projection.
+
+So this end was already determined.
+
+---
+
+"――――, ――――, ――――"
+
+...My legs are heavy.
+
+...I don't know what I'm doing.
+
+My heart's about to explode from pain, fatigue, and emptiness.
+
+But just a bit more.
+
+Everything will end once I beat him.
+
+There's no one in my way.
+
+There's no one getting in my way anymore.
+
+---
+
+――――But.
+
+---
+
+"Haa――――――ah――――"
+
+The shadow wavers.
+
+In front of the crater, the Great Holy Grail.
+
+Bathed in the ruddy glow, ▊▊▊▊▊▊▊▊ is standing.
+
+---
+
+"――――Kotomine Kirei."
+
+"Yes. It seems we've both managed to survive, Emiya Shirou."
+
+A voice filled with strong will.
+
+As if it's fate, the man blocks my way through this desolate realm.
+
+---
+
+"―――What are you doing?
+
+There's nothing for you to do now."
+
+I don't ask him how he's alive.
+
+He's dying.
+
+I don't feel magical energy from his body.
+
+There's a black stain where his heart should be.
+
+...Like me, a brief fire that's like a turned hourglass.
+
+---
+
+I don't hear his heartbeat.
+
+He doesn't have much longer to live.
+
+This is not speculation, but a predication.
+
+Kotomine Kirei will die in a few minutes, even if he doesn't do anything.
+
+---
+
+"Do not ask something so obvious.
+
+There is only one goal for me: to give birth to the curse."
+
+"――――What? You can't do that. He won't become yours."
+
+---
+
+"Of course not. I cannot intervene with this, and I have no intention to.
+
+But I have told you. I will bless anything that comes to life.
+
+This is about to be born. So it is only natural for me to protect it from an outside enemy that tries to kill it."
+
+---
+
+"...Are you insane? What are you saying with that dying body of yours? And even if it's born like you wish, you'll――――"
+
+---
+
+"The same goes for you. There is no sanity here. Our end will be the same, even if we accomplish our goals.
+
+You will destroy it, while I will protect it.
+
+But there is nothing to be gained, no matter whose goal is achieved. You came here knowing that.
+
+―――This is a meaningless battle. We are two madmen engaging in useless folly."
+
+---
+
+"――――――――"
+
+...Kotomine will not back down.
+
+He won't retreat, and I can't use projection as long as he's there.
+
+I need time to project.
+
+He'll smash my head if I show such an opening.
+
+---
+
+"...Why? Why are you going so far to protect him?
+
+Even if he's born, you gain nothing. So why?"
+
+Even on the verge of death, why does he approve of mankind's enemy, all evils of this world?
+
+---
+
+"There is no room for questions. This is my only pleasure.
+
+――――Emiya Shirou.
+
+As you feel supreme bliss in others' happiness.
+
+I feel supreme bliss in others' unhappiness."
+
+---
+
+"――――"
+
+"First of all, why kill it? It is arrogance to assume it is evil even before its birth. Is it not love to allow a life that yearns to be born into the world?"
+
+---
+
+"Don't bullshit me. He's killed many people already. I can't let him out."
+
+"Oh. Then let me ask. What is good and evil? Are you saying murder is an absolute evil?"
+
+---
+
+"That's......"
+
+...I can't answer such a question.
+
+Good and evil mean nothing to me now.
+
+The justice Emiya Shirou believed in disappeared the instant I decided to save Sakura.
+
+---
+
+"―――Fair enough. There is no answer from the start. That's what humans are like. There is no clear answer, and they accept a changing truth. We have no absolute truth from the very beginning.
+
+Humans have both good and evil, and it's up to you to decide which is which. The start is at zero, and there is no crime in being born. I thought I'd already told you."
+
+---
+
+"――――Yeah. You said there's no crime in the baby even if it's evil."
+
+---
+
+"Correct. Humans become good or evil through learning.
+
+A certain scripture mentions that humans are superior beings to angels. Why? Because there are people who know of evil, but do not become evil.
+
+It's different from angels, who only know of good since birth.
+
+Humans have evil, but can live as good, so they are superior to angels, who only know of good."
+
+---
+
+"――――And at the same time.
+
+There are rare moments of goodwill shown by evil men.
+
+There are bad intentions shown on a whim by saints.
+
+The contradiction. The coexistence of good and evil is the Holy Grail that makes people human.
+
+Living is a crime by itself, and there are punishments because one is alive. Good exists with life, and evil exists with life.
+
+Therefore――――"
+
+---
+
+"――――You cannot inquire about the crime of one who has not yet been born.
+
+There is no existence that is born as evil, that is unwanted by everyone.
+
+It has no reason to be punished until it is born."
+
+---
+
+That's Kotomine's answer.
+
+That man pardons "all evils of this world" for this reason alone.
+
+---
+
+"―――So you're going to forgive him? He's someone that can only kill. If you know he'll kill many people once he comes out, he's a definite evil for us...!"
+
+---
+
+"Yes. His nature is evil. He was made that way, after all. He was born to be evil from the very beginning.
+
+He's not like people. This is a pure deity that people made.
+
+But――――even if his actions are evil, we have yet to know what he thinks of it."
+
+---
+
+"Eh...?"
+
+What Angra Manyu thinks about his own actions...?
+
+---
+
+"Yes.
+
+If Angra Manyu considers them evil and agonizes over them, or considers them good and laughs about them. That is not something we can assume.
+
+If that thing has emotions like those of humans and agonizes over its doings, it is evil.
+
+But if it has no doubt about its existence, it is good. Everyone wished for him to be that way, after all. If it has no doubt about its function, it cannot be evil."
+
+---
+
+"Wha――――"
+
+"Yes.
+
+Those with defects at birth.
+
+Those who were not wanted, even before birth.
+
+It should show us the worth of worthless life: the meaning of birth."
+
+---
+
+"Would it be able to forgive itself after destroying and losing everything?
+
+That's what I would like to know.
+
+I want to know if it is a crime to live as you are, when you are different from others.
+
+That is why I killed your father and let Matou Sakura live. I cannot come up with the answer by myself. That is why I wish for the birth of what can provide me with the answer."
+
+---
+
+"―――That is my goal, Emiya Shirou.
+
+I am at the opposite extreme from you, as you have no wish for yourself. Our desires are of the same nature."
+
+---
+
+"―――――――"
+
+...I can't comprehend him.
+
+His wish is too alien for me.
+
+...So there's only one thing I understand.
+
+That's the only reason he...
+
+---
+
+"Sakura. You used Sakura for such a thing?"
+
+I shake off the vagueness, glaring at the priest with all the hostility I can muster.
+
+---
+
+And...
+
+"Yes. To that end, I have taken many lives. That is why I cannot back out now.
+
+I told you. That is how I lived.
+
+I lived to answer that question.
+
+It will not change, even on the verge of my death."
+
+He makes this declaration, holding my gaze.
+
+---
+
+"――――――――"
+
+His words are bold.
+
+He states it as a matter of course, saying he has no regret or doubts.
+
+---
+
+"........................I see."
+
+That makes me realize.
+
+We're irreconcilable. I opposed him ever since I first saw him.
+
+...I finally realize why.
+
+---
+
+I don't want to admit it.
+
+But it seems... I like Kotomine Kirei.
+
+I was frantic to see him as an enemy because I didn't want to accept the fact.
+
+---
+
+He said we're similar.
+
+I understand now.
+
+We both believed ourselves to be sinners.
+
+And we both lived in a certain way to free ourselves of those chains.
+
+―――We both knew we could never be freed, but believed it was the right atonement, and sought salvation that would never be given to us.
+
+---
+
+"―――――Of course you're not going to back out."
+
+There's no way he'll withdraw if he's the same as me.
+
+It's not that he's trying to grant his wish because he's about to die.
+
+---
+
+...That's right. It's not that he's protecting his oath in his last moments.
+
+That's how he lived until now.
+
+He never walked a different path.
+
+So even if he's to die in the next minute, he doesn't know any other way to live.
+
+---
+
+"......Humph. And this is also a way to take out my anger.
+
+I knew it was a possibility, but at last I realize it."
+
+---
+
+He steps forward.
+
+There's not much time left for either of us.
+
+So we have to settle the match quickly.
+
+We have to extinguish the other's fire before our own blows out.
+
+---
+
+"――――I envy you people.
+
+What I sought, but could not obtain. What I obtained, but could not obtain. Many things slipped out between my fingers, no matter what commandment I used."
+
+---
+
+'What other people called happiness――――'
+
+---
+
+"I am going to release my pent-up emotions here."
+
+---
+
+'――――Did not bring me any joy.'
+
+---
+
+...Yeah. He's empty because he couldn't obtain it, no matter what he tried.
+
+He sought and sought, but couldn't obtain happiness.
+
+And the only way of life he found was carrying death.
+
+So how can he abandon his way of life now?
+
+---
+
+"I see. I guess I made you waste your time, Kotomine."
+
+I resume breathing.
+
+Pulling oxygen into my lungs, I get my body ready for battle.
+
+---
+
+"I do not mind. Neither one of us has much time."
+
+Strength enters Kotomine's body.
+
+There's no way this is going to turn into a battle of magecraft.
+
+We're both almost dead.
+
+All we can do it to drive our fists into our opponent.
+
+There's no technique or strategy involved. It's a mere brawl to the death.
+
+---
+
+He needs to kill me to make his wish come true.
+
+I need to kill him to destroy his wish.
+
+We both put our lives on the line.
+
+I need to beat him and eliminate the shadow before my life burns out.
+
+---
+
+He kicks off of the ground and runs straight at me.
+
+"Haa――――"
+
+I don't have such power left in my legs.
+
+I lower my stance, eyes fixed on his oncoming chest, and...
+
+"Ahhhhhhhh――――!"
+
+I swing my fist full-force at a speed he can't avoid...!
+
+---
+
+But my fist swings through empty space, and I'm the one who gets hit.
+
+---
+
+"Guh――――!?"
+
+I don't see Kotomine.
+
+That speed. The enemy that charged me disappears from my view in an instant,
+
+crouches down by my left side, slams his palm into my stomach,
+
+and kicks up at my body with his lightning fast legs.
+
+---
+
+"Haa――――guh......!"
+
+His kicks are like fire.
+
+It's been a while since I felt pain strong enough to make me lose consciousness.
+
+---
+
+"Gi――――"
+
+How many meters was I kicked up?
+
+The impact was strong enough to rip my head off.
+
+No, if I'm going to talk about impact, then the second blow to my stomach was strong enough to pulverize my organs.
+
+---
+
+"You――――"
+
+I know this.
+
+Taking the shortest route without any initial movement. A circle and a line. It tries to damage the inside instead of outside.
+
+"A priest using Chinese martial arts?"
+
+And he's really good at it.
+
+It's not something he copied on the spot...!
+
+---
+
+"That's not true. My moves are mere mimicry. It's a mimicry of taolu without much in it―――but it seems to be enough against a dying man."
+
+He turns to me.
+
+---
+
+"......!"
+
+He strikes again.
+
+Forcing my fused joints to bend, I get up.
+
+---
+
+"......?"
+
+But Kotomine stops and looks at his fist.
+
+His hand's covered in red.
+
+"What a troublesome body. The one attacking has to risk his life."
+
+It is...
+
+...A price he had to pay to attack a body made of swords.
+
+---
+
+"Haa――――ah."
+
+...I gather my consciousness and face my enemy.
+
+It doesn't matter.
+
+He won't stop attacking, even if faced with the thorns of death.
+
+---
+
+"But this should make a good handicap.
+
+In short, our fight is..."
+
+---
+
+"――――!"
+
+Kotomine lowers his stance.
+
+His trained body is getting ready for the explosion.
+
+---
+
+"Not a fight against someone else, but a battle with your body at stake――――!"
+
+---
+
+――――The enemy closes in.
+
+Kotomine is far stronger than me.
+
+His fists won't break.
+
+At this rate, the hourglass itself will be destroyed before all the sand spills to the bottom.
+
+---
+
+"Haa――――"
+
+I don't look away from my enemy, closing in like a spark.
+
+There's only one thing I have to do.
+
+I have to be faster than last time. I have to punch him faster, even if he avoids it.
+
+---
+
+――――All I can hear is the sound of my heart, pounding in my ears.
+
+I take no notice of the rumbling or the raining bits of earth.
+
+---
+
+The one I must defeat is right in front of me.
+
+I don't care about some centuries-old wish or the end of this small world.
+
+For Emiya Shirou,
+
+defeating this enemy is the last remaining purpose.
+
+---
+
+## Scene 20 At the end of the dearest wish
 
 
 
@@ -6570,7 +6303,7 @@ Every last trace of the magus vanishes from the world, as the embodiment of his 
 
 ---
 
-## Scene 22
+## Scene 21 All the good in this life
 
 
 
@@ -6980,250 +6713,534 @@ The priest disappears from this world, with no one to bury him.
 
 ---
 
-## Scene 23
+## Scene 22 Last projection
 
 
 
-The last Tiger Dojo was the final one.
-
-Please click and return to the title screen.
+"――――――――"
 
 ---
 
-Extra stage!
+I take a breath, drawing enough oxygen to allow me to move.
 
 ---
 
-Side A!!
+My throat only moves once.
 
 ---
 
-How's everyone doing? Are you dying without mercy?
+Fortunately, it's not painful.
 
-This is Tiger Dojo Remix that saves you from simple choice mistakes!
-
----
-
-Osu! Our battle just started.
+Most of my senses have turned to steel.
 
 ---
 
-Oh, don't say that. We'll get cut off if you say that line.
+――――No matter how hard I try.
+
+I'm starting to feel faint.
 
 ---
 
-Well, Sakura-chan's route is about to enter its climax.
+――――Let's go.
 
-You can't be beaten when Tohsaka-san's in a big pinch!
-
----
-
-That's right. Shirou can't beat Saber, so trust Rider and concentrate on your part!
+It's my final job.
 
 ---
 
-Yup. Shirou's role is rearguard support. Watch over the fight from a distance and take the best part!
+I release my left arm.
+
+My consciousness is about to fade away.
 
 ---
 
-...But the story's getting really fancy. It's taking place underground, and Sakura-chan powered up a lot.
+"――――Trace, on."
 
 ---
 
-Oh, where are you going, "Fate"?
+...My last projection.
+
+I'll use the strongest sword I know to destroy the curse along with the Great Holy Grail.
 
 ---
 
-Yeah, you're right, master. I thought I could take a big part in this route, but Sakura's my rival.
+"――――――――"
+
+It'll be the definite end.
+
+I...
 
 ---
 
-I wasn't even a match against her, so I'm forced to come back to this dojo.
+
+## Scene 23 Conclusion
+
+
+
+"――――, ――――, ――――"
+
+My consciousness is breaking apart.
 
 ---
 
-Ohh, what a tragic story...
+"――――, ――――, ――――"
+
+It's only a matter of time before the cavern collapses.
+
+The ceiling's crumbling down, and the ground is becoming a pile of rubble.
 
 ---
 
-So it's true that a bullied child is strong. The Tohsaka sisters are fearsome indeed. So they were both devils...
+"――――, ――――, ――――"
+
+My joints are stiff.
+
+It hurts to bend my limbs.
+
+My nerves are hot.
+
+Hundreds of blades are growing out of my body.
+
+An inescapable death by skewering.
+
+I am the bone of my sword.
+
+I already knew that.
+
+The time bomb was activated when I used projection.
+
+This end has already been determined.
 
 ---
 
-Yeah. I hate how everyone was putting their masks on.
+"――――Ha, ah――――!"
 
-Saber's gone black and merciless. Rin's cruel now when it counts.
+I'm crumbling apart.
 
----
+I'll shatter if I continue.
 
-I feel sorry for Shirou. I'm the only heroine that's not a two-faced person.
-
----
-
-......Well, you certainly aren't a two-faced person...
+I'll shatter to pieces, like so many rocks on the ground.
 
 ---
 
-Well, let's get on to the usual hint.
+...I'll still make it.
 
-Sakura-chan route, "Heavens feel", has two endings.
-
----
-
-One is the grand finale,
-
-the true ending of "Fate/stay night"!
+My body's dying, but I won't lose myself for about a day if I stop now.
 
 ---
 
-True and normal ends.
+Only a day's worth of life prolongation.
+
+But right now, I would love to have something so insignificant.
+
+Just a day. An hour or even a minute.
+
+If I can live, I want to stay here as long as I can, no matter how miserable it may be.
 
 ---
 
-Well, you can easily get to the normal end.
+"Haa, gu――――......!"
 
-The condition for the true ending depends on what you've done until now.
+A crack.
 
----
+Not outside, but inside. The nucleus accumbens in my cerebrum breaks.
 
-To come out with it, you can't get to the true end if my affection points are below four or if you've used projection one too many times!
+The part that administers the principle of behavior, the linkage to pleasure.
 
----
-
-Cheeeeest! Don't spoil!
+The most important part of life. Life is the pursuit of pleasure; without it, humans would become beasts.
 
 ---
 
-Ouuuu... Come on, this is the last one, so you should let me!
+"Haa, ah."
+
+It's not convenient.
+
+I still want it.
+
+I want to keep my memory for as long as I can.
+
+But it's disintegrating.
+
+The pain of eating my fingers doesn't stop the memories from fading.
 
 ---
 
-No! This is the last stronghold in "Fate"!
+I disappear the more I walk on.
 
-But we'll tell you up-front. You can do something about Illya-chan's affection score if you start over from Day 14!
+I won't make it.
 
----
+Even if I do make it there, I probably won't remember what I need to do.
 
-Hey, you're coming out with it too!
-
----
-
-Eh? But this is the Q&A. Our reason for existence is to give out hints.
+So I should stop here and wait for help――――
 
 ---
 
-I see. I don't get how it's different from a spoiler, but you're a tyrant, master.
+"――――Yeah, I remember."
+
+But.
+
+Somewhere outside my body, there's a big reason.
+
+"Sakura――――let's go see flowers."
+
+So I have to fulfill my role.
 
 ---
 
-What, you finally realized it in the 39th dojo!?
+――――Time has stopped.
+
+There's no pain.
+
+I'm taking a whole day to make just one step.
 
 ---
 
-Well, the next one will be the final Tiger Dojo.
+――――I forget how to breathe.
 
-The long story's finally wrapping up.
+There's no pain.
 
----
-
-The last bad end is rumored to be an erotic harem route, as expected from a mature-rated game!
-
-Please keep your expectations up and keep up your indecisiveness!
+I couldn't breathe if I had all day to do it.
 
 ---
 
-## Scene 24
+――――I lose the meaning.
 
+What was pain?
 
-
-Extra stage!
-
----
-
-Side B!
+Organic matter turns into inorganic substance.
 
 ---
 
-Sorry to keep you waiting! Wanting her, her, and everyone else! This the only harem end in "Fate"!
+I manage to keep myself.
+
+I reach out for the wall to keep from falling.
+
+All the shards of my existence are gathered onto a tiny foothold.
+
+There's no way it'll support me.
+
+The foothold breaks.
 
 ---
 
-All right! An erotic development that will keep you in animalistic passion for life awaits you―――
+There's no principle of behavior.
+
+There's no meaning of behavior.
+
+There's no meaning of existence.
+
+I don't feel any fear.
+
+The meaning behind my existence disappears.
 
 ---
 
-Wait, how is this a harem end!?
+I'm not alive anymore.
+
+My arms won't move for any reason.
 
 ---
 
-......Ouu... So am I stretching it a bit too far, master?
+"――――Trace."
+
+Words come out of my mouth.
+
+There's something still remaining even after language, neopallium, and cerebrum
+
+are lost.
 
 ---
 
-Geez, you can't do anything suspenseful like this!
+"――――On."
+
+The body dies.
+
+But the soul remains.
 
 ---
 
-I love having monsters you had a hard time killing come back after the ending credits and "fin" come up.
+Spinning the eight verses.
+
+The load transmits from the body to the soul, and more meaning is
 
 ---
 
-Like the blob.
+"――――――――Ah."
+
+And Emiya Shirou dies.
+
+The standing figure is no different from a machine.
+
+It's programmed to swing the sword, but it's a corpse with no desire to move.
 
 ---
 
-Oh, Senpai. Long time no see.
+But even without human intelligence...
+
+There are machines that weave many dreams in this world.
 
 ---
 
-Geez. This is all because you were confined by lingering affection.
+There was a promise.
 
-You can only save one. That's the decision you made coming into the final battle, so stick with it no matter what.
-
----
-
-Osu, that's splendid, master.
-
-...But are you sure there's no ending to save Saber?
+Once winter's over, when it's spring――――
 
 ---
 
-Play the Saber route.
+A recitation of words without meaning.
+
+A small hope that I remembered until the very end.
 
 ---
 
-You're brutally honest, but that's exactly right.
+## Scene 24 At the end of a miracle
+
+
+
+――――No.
+
+I can't go back if I use it.
+
+I know I'm going to disappear anyway.
+
+But I have to try to find some other way as long as I'm alive.
 
 ---
 
-There's no ending in Sakura-chan's route to make Saber-chan happy, so all you Saber-chan supporters can give up.
+I promised that I'll protect Sakura from everything.
+
+I can't selfishly die.
+
+I want to live with Sakura.
+
+So――――
 
 ---
 
-Well, the Tiger Dojo is really finished.
-
-There're forty dojos total, so thanks for bearing with us.
+"――――Trace――――"
 
 ---
 
-Wow, there's that many?
+...But there's no other way.
 
-What happens if you collect all the stamps, Taiga?
-
----
-
-You'll see after you collect them all.
-
-The main story's about to end, so it might be fun to use the skip function and start over if you haven't seen a particular dojo.
+Sakura's crime. The absolute requirement for Sakura's happiness is the destruction of this curse.
 
 ---
 
-Anyway, thanks for playing the game until now!
+...Only a single grain of my consciousness is left.
 
-The main story's about to end, so please keep at it!
+Sakura, I――――
+
+"――――Trace, on."
+
+The promise I made with you――――
 
 ---
 
-Yeah, thank you so much for everything until now! It was fun!
+; " "
 
-Goodbye! Let's meet again after you fully complete the game!
+A sword is in my hand.
+
+is body last
+
+---
+
+――――No, you won't die, Shirou.
+
+Because I'm the one that's going to shut the gate.
+
+---
+
+"――――――――――――"
+
+It's...
+
+The voice of someone I can't remember.
+
+---
+
+"――――――――  ?"
+
+I can't remember, but I call her name.
+
+I know I have to do it.
+
+―――Because will never return if I don't.
+
+---
+
+――――Hey.
+
+Do you want to live, Shirou? Do you want to live on, no matter what kind of life you become?
+
+---
+
+; "―――――――― "
+
+I want to live. Name. I have to call her name and stop her.
+
+But I want to live. I know will disappear if I nod, but I want to live from the bottom of my heart.
+
+---
+
+――――Yeah.
+
+I'm glad to hear that. I wanted you to live instead of me.
+
+---
+
+; "―――――――― "
+
+What are you saying, idiot?
+
+Just come back. You won't be able to return if you go any further.
+
+I'll take him, so, damn, I have to remember her name, but my head's turned stupid, and the important name is...
+
+---
+
+――――Then I'll show you a miracle.
+
+It's an application of the magecraft I showed you earlier, but this one's amazing.
+
+This is the True magecraft everyone wanted to see, after all.
+
+---
+
+"―――――――― a."
+
+No, I don't need to see it. Just come back.
+
+I...
+
+---
+
+――――But the container's a bit cheap.
+
+I can't completely reproduce it using only my own body, but it's all right. You'll be back in no time if you and Rin keep trying.
+
+---
+
+"―――――――― a......!"
+
+She goes to the center.
+
+The person in white becomes the sacrifice, just like in the first ritual to close the Great Holy Grail.
+
+---
+
+―――Goodbye.
+
+We aren't related by blood.
+
+But I'm glad we were siblings.
+
+---
+
+"――――――――"
+
+ya.
+
+If that's how you feel, then don't go.
+
+I can't sacrifice you. I said we'd live together to make up for all the time you've lived alone.
+
+But――――if one of us has to be sacrificed, then――――
+
+---
+
+―――No.
+
+You said an older brother protects his younger sister, right?
+
+...Yeah. I'm the older sister. So I have to protect my younger brother.
+
+---
+
+"I――――――lya."
+
+I remember.
+
+Her name.
+
+Kiritsugu's real blood relative. The girl who was left alone because I came and stole him.
+
+A girl with silver hair and red eyes that's a bit older than me―――
+
+---
+
+"Illya―――Illya, Illya, Illya, Illya, Illya, Illya, Illya, Illya―――――!!!"
+
+I can't reach her.
+
+I don't hear voices any more.
+
+I can't see anything in this light.
+
+And at the last moment.
+
+---
+
+She smiles goodbye and shuts the gate of the Great Holy Grail.
+
+---
+
+I can see the sky.
+
+---
+
+I can go into the sky if I reach out just a bit.
+
+---
+
+But there's nothing left.
+
+There's absolutely no energy left in my body.
+
+---
+
+I'm sinking.
+
+The life she saved is sinking.
+
+---
+
+I clench my fist out of vexation.
+
+I feel something cold in my hand.
+
+The sensation rouses my mind――――
+
+---
+
+'It's all right. Rin will save you.'
+
+---
+
+――――Yeah.
+
+There's a miracle in my hand.
+
+A little magical energy.
+
+A small, useless pendant, but it can at least help me reach out with my hands.
+
+---
+
+I reach out.
+
+The gentle atmosphere and the warm sun hits my skin.
+
+---
+
+In my hand is the endless blue sky――――
+
+---
+
+
+
+
+
+
+
+
+

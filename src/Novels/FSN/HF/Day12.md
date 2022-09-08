@@ -2,7 +2,407 @@
 
 
 
-## Scene 00
+## Scene 00 Blank memory
+
+
+
+It's morning.
+
+My mind slowly
+
+---
+
+.
+
+---
+
+"Hm――――......"
+
+It's morning.
+
+As my mind slowly awakens, I sit up.
+
+---
+
+It's past eight o'clock.
+
+I'm late for school.
+
+Well, that's not really true since I'm not going to school, but it makes no difference to the fact that I slept in.
+
+---
+
+"Whoa. I have to make breakfast."
+
+I get up and get changed.
+
+I can't avoid looking at the cloth wrapped around my left arm.
+
+---
+
+".........All right."
+
+I swing my arm as a warm-up exercise.
+
+It's fine.
+
+It rises up to my shoulders, as I intended.
+
+It's getting better day by day.
+
+There's still no sensation, but at this rate...
+
+---
+
+"What're you doing, Shirou? Breakfast is already over."
+
+"Huh? What? What?"
+
+---
+
+Illya is in front of me.
+
+I should be in the living room, but I'm in the shed for some reason.
+
+---
+
+"Are you listening to me, Shirou? I'm asking what you're doing here."
+
+"Y―――Yeah, I'm listening. Good morning, Illya. What a strange place to meet up."
+
+---
+
+......Hm.
+
+That was an odd reply on my part.
+
+It seems I'm not awake yet.
+
+---
+
+"Shirou? You're not feeling well?"
+
+"Huh? Oh, no. It's just that I'm only half awake, so give me a minute."
+
+I shake my head.
+
+My body is dead tired, but my sleepiness goes away.
+
+---
+
+"――――All right. So, answering your question, I don't have any business here. I just made a stupid mistake because I was half-asleep."
+
+"I see. Then let's go to the living room! I'll prepare your breakfast."
+
+Illya happily runs across the yard.
+
+---
+
+The sky is nice.
+
+It's bright blue, as if trying to wash away yesterday's gloomy air.
+
+I take a deep breath, and the cold, refreshing air fills my lungs.
+
+---
+
+"――――Hm? Did Illya just say she'll make breakfast?"
+
+That's the first thing I say after I'm fully awake.
+
+---
+
+Illya's breakfast... I'm looking forward to it, but I'm also worried at the same time.
+
+I'm pretty sure that Illya has never even held a knife before, let alone cooked.
+
+---
+
+"Oh... I should go keep an eye on her."
+
+I run across the prickling grass to the living room.
+
+And I'm astonished once again.
+
+I must've been really out of it.
+
+What was I thinking, coming here in my bare feet?
+
+---
+
+Four minutes after Illya...
+
+I get up on the porch after wiping my feet.
+
+"Oh, Senpai."
+
+I run into Sakura as she comes out of the living room.
+
+---
+
+"Good morning, Sakura. ...I'm sorry about this morning. I overslept, and it was past eight when I noticed."
+
+"――――――――"
+
+...?
+
+Maybe she didn't hear me. She's just looking blankly at my face.
+
+---
+
+"Sakura?"
+
+I reach out, afraid that she's sick again.
+
+Then.
+
+"G-Good morning, Senpai!"
+
+Or maybe she isn't, because she greets me with lots of energy.
+
+---
+
+"Oh, you're full of energy. So I'm guessing you feel well?"
+
+"Y-Yes, I'm doing great, thanks to you. You gave me energy!"
+
+---
+
+"...?"
+
+Sakura sounds awkward.
+
+...Being energetic is a good thing, but I get uneasy seeing her so restless.
+
+---
+
+"What's wrong, Sakura? You're acting weird. First of all, what do you mean by me giving you energy?"
+
+"Um―――well, um, last night..."
+
+"In your room..."
+
+Sakura trails off, blushing furiously.
+
+---
+
+"――――――――Oh."
+
+I remember now.
+
+No, there's no way I can forget about it.
+
+Last night...
+
+I had sex with Sakura.
+
+---
+
+And it was our second time.
+
+We did it more furiously than the first time, and I lusted for Sakura's body.
+
+---
+
+"Uh――――um."
+
+Blood rushes to my head in an instant.
+
+I almost think that there's no blood left below my neck.
+
+---
+
+"S-Sakura... The thing last night..."
+
+That wasn't a dream, right?
+
+Sakura is still blushing, but she shakes her head and looks at me critically.
+
+---
+
+"...!!!!"
+
+Amazing.
+
+I thought my face couldn't get any hotter, but I guess I was wrong.
+
+...Um, last night was amazing.
+
+---
+
+Sakura's service, our animalistic sex...
+
+It was so stimulating that my mind labeled the event a dream and filed it away in the corner of my memory――――no!
+
+---
+
+"Sakura. Um... I'm sorry I was rough yesterday."
+
+Ignoring the blazing heat I feel, I apologize.
+
+"―――Okay. But I was happy, Senpai."
+
+Sakura smiles and gives a lethal reply.
+
+---
+
+"Uh――――――――um."
+
+She got me.
+
+Sakura's so cute that I want to push her down right here.
+
+---
+
+I would've lost it for real if the sound of the TV hadn't come from the living room, and...
+
+"Shirou? Breakfast's ready."
+
+...And if Illya hadn't called for me at exactly the right time.
+
+---
+
+"S-So I'm going to go eat breakfast! I-I'll talk to you later about this!"
+
+I pivot like a robot and head to the living room.
+
+My limbs move awkwardly as I force down my desires.
+
+---
+
+## Scene 01 Illya's breakfast
+
+
+
+"Here's your breakfast, Shirou!"
+
+Illya hands me a plate as soon as I enter the living room.
+
+On the plate are blackened toast, a runny sunny-side up egg, and cut tomatoes.
+
+---
+
+"Oh, thanks."
+
+My head's still dizzy, but I sit down at my usual spot and start biting on the toast.
+
+I decline to comment on the toast, but the egg is done pretty well. Maybe she copied someone, or perhaps Tohsaka taught her.
+
+Anyway, I have to give her a perfect score if this is her first time cooking.
+
+---
+
+"It's good."
+
+I crunch on the toast.
+
+Illya doesn't seem happy or proud, but simply watches me in satisfaction.
+
+---
+
+I'm not giving in to her happy mood, but I decide not to ask why the toast feels like coal.
+
+It's good.
+
+Having your toast black or hard is a matter of personal preference.
+
+---
+
+"It is a problem. You'll get sick if you eat something burned like that."
+
+"You idiot. The burned spots are the best, whether it's rice or toast."
+
+"...Hey. Are you all right, Emiya-kun?"
+
+"I'm saying it's good. And I guess doing it rough is all right."
+
+"You must really be half-asleep. This isn't time to be saying such carefree things, you know?"
+
+---
+
+Tohsaka looks at the TV.
+
+The TV is on, showing the morning news.
+
+---
+
+――――Is this deja vu?
+
+The news seems to be a story I've already seen―――and my mind sharpens up.
+
+---
+
+The captions on the screen.
+
+An incidence of unexplained comas occurred in Shinto last night.
+
+The residents lost consciousness overnight.
+
+It's being treated just like the other mysterious comas, but it's different from before.
+
+The area of the incident is 50 meters in diameter.
+
+It used to only happen in one building at a time, but the damage is spread much further now.
+
+---
+
+...And that's not the only problem.
+
+At the end of the report...
+
+Beside the triple-digit number of victims is a new list called "missing people".
+
+---
+
+"Tohsaka, this is..."
+
+"Yes. Fourteen missing people. I'm sure there'll be more once they look into it. Well, it looks like about a tenth of the people were completely swallowed."
+
+---
+
+"――――――――"
+
+My mind freezes.
+
+I unconsciously...
+
+---
+
+"Do you get it now? I don't know if this is Zouken or the shadow's doing, but it makes no difference to the fact that there are more victims now.
+
+At this rate, a whole section of the town will be swallowed in a few days."
+
+---
+
+Squeeze my left arm.
+
+---
+
+"――――Tohsaka. Are the missing people dead?"
+
+I ask to confirm.
+
+Tohsaka looks away, which is answer enough.
+
+---
+
+"...That's all. I understand how you feel, but feeling guilty can come later.
+
+Look, they're starting to do as they please because they think we can't do anything about it. They can do ridiculous things because they're taking us lightly.
+
+So I don't even need to say what we need to do, right?"
+
+---
+
+Tohsaka quietly gets up.
+
+...There's only one place she could be going.
+
+Tohsaka does not urge me to join her, but goes ahead to the dojo.
+
+---
+
+## Scene 02 Determination
 
 
 
@@ -364,7 +764,7 @@ I...
 
 ---
 
-## Scene 01
+## Scene 03 Noble fool
 
 
 
@@ -416,7 +816,7 @@ I'm not one to talk after testing your determination like that, but don't ever s
 
 ---
 
-## Scene 02
+## Scene 04 Blame for persistence
 
 
 
@@ -466,7 +866,7 @@ Look, I've already said this, but I won't let you use Archer's arm. That means n
 
 ---
 
-## Scene 03
+## Scene 05 Training start
 
 
 
@@ -608,407 +1008,9 @@ Illya is saying something strange in a voice too vague to hear clearly.
 
 ---
 
-## Scene 05
 
 
-
-It's morning.
-
-My mind slowly
-
----
-
-.
-
----
-
-"Hm――――......"
-
-It's morning.
-
-As my mind slowly awakens, I sit up.
-
----
-
-It's past eight o'clock.
-
-I'm late for school.
-
-Well, that's not really true since I'm not going to school, but it makes no difference to the fact that I slept in.
-
----
-
-"Whoa. I have to make breakfast."
-
-I get up and get changed.
-
-I can't avoid looking at the cloth wrapped around my left arm.
-
----
-
-".........All right."
-
-I swing my arm as a warm-up exercise.
-
-It's fine.
-
-It rises up to my shoulders, as I intended.
-
-It's getting better day by day.
-
-There's still no sensation, but at this rate...
-
----
-
-"What're you doing, Shirou? Breakfast is already over."
-
-"Huh? What? What?"
-
----
-
-Illya is in front of me.
-
-I should be in the living room, but I'm in the shed for some reason.
-
----
-
-"Are you listening to me, Shirou? I'm asking what you're doing here."
-
-"Y―――Yeah, I'm listening. Good morning, Illya. What a strange place to meet up."
-
----
-
-......Hm.
-
-That was an odd reply on my part.
-
-It seems I'm not awake yet.
-
----
-
-"Shirou? You're not feeling well?"
-
-"Huh? Oh, no. It's just that I'm only half awake, so give me a minute."
-
-I shake my head.
-
-My body is dead tired, but my sleepiness goes away.
-
----
-
-"――――All right. So, answering your question, I don't have any business here. I just made a stupid mistake because I was half-asleep."
-
-"I see. Then let's go to the living room! I'll prepare your breakfast."
-
-Illya happily runs across the yard.
-
----
-
-The sky is nice.
-
-It's bright blue, as if trying to wash away yesterday's gloomy air.
-
-I take a deep breath, and the cold, refreshing air fills my lungs.
-
----
-
-"――――Hm? Did Illya just say she'll make breakfast?"
-
-That's the first thing I say after I'm fully awake.
-
----
-
-Illya's breakfast... I'm looking forward to it, but I'm also worried at the same time.
-
-I'm pretty sure that Illya has never even held a knife before, let alone cooked.
-
----
-
-"Oh... I should go keep an eye on her."
-
-I run across the prickling grass to the living room.
-
-And I'm astonished once again.
-
-I must've been really out of it.
-
-What was I thinking, coming here in my bare feet?
-
----
-
-Four minutes after Illya...
-
-I get up on the porch after wiping my feet.
-
-"Oh, Senpai."
-
-I run into Sakura as she comes out of the living room.
-
----
-
-"Good morning, Sakura. ...I'm sorry about this morning. I overslept, and it was past eight when I noticed."
-
-"――――――――"
-
-...?
-
-Maybe she didn't hear me. She's just looking blankly at my face.
-
----
-
-"Sakura?"
-
-I reach out, afraid that she's sick again.
-
-Then.
-
-"G-Good morning, Senpai!"
-
-Or maybe she isn't, because she greets me with lots of energy.
-
----
-
-"Oh, you're full of energy. So I'm guessing you feel well?"
-
-"Y-Yes, I'm doing great, thanks to you. You gave me energy!"
-
----
-
-"...?"
-
-Sakura sounds awkward.
-
-...Being energetic is a good thing, but I get uneasy seeing her so restless.
-
----
-
-"What's wrong, Sakura? You're acting weird. First of all, what do you mean by me giving you energy?"
-
-"Um―――well, um, last night..."
-
-"In your room..."
-
-Sakura trails off, blushing furiously.
-
----
-
-"――――――――Oh."
-
-I remember now.
-
-No, there's no way I can forget about it.
-
-Last night...
-
-I had sex with Sakura.
-
----
-
-And it was our second time.
-
-We did it more furiously than the first time, and I lusted for Sakura's body.
-
----
-
-"Uh――――um."
-
-Blood rushes to my head in an instant.
-
-I almost think that there's no blood left below my neck.
-
----
-
-"S-Sakura... The thing last night..."
-
-That wasn't a dream, right?
-
-Sakura is still blushing, but she shakes her head and looks at me critically.
-
----
-
-"...!!!!"
-
-Amazing.
-
-I thought my face couldn't get any hotter, but I guess I was wrong.
-
-...Um, last night was amazing.
-
----
-
-Sakura's service, our animalistic sex...
-
-It was so stimulating that my mind labeled the event a dream and filed it away in the corner of my memory――――no!
-
----
-
-"Sakura. Um... I'm sorry I was rough yesterday."
-
-Ignoring the blazing heat I feel, I apologize.
-
-"―――Okay. But I was happy, Senpai."
-
-Sakura smiles and gives a lethal reply.
-
----
-
-"Uh――――――――um."
-
-She got me.
-
-Sakura's so cute that I want to push her down right here.
-
----
-
-I would've lost it for real if the sound of the TV hadn't come from the living room, and...
-
-"Shirou? Breakfast's ready."
-
-...And if Illya hadn't called for me at exactly the right time.
-
----
-
-"S-So I'm going to go eat breakfast! I-I'll talk to you later about this!"
-
-I pivot like a robot and head to the living room.
-
-My limbs move awkwardly as I force down my desires.
-
----
-
-## Scene 06
-
-
-
-"Here's your breakfast, Shirou!"
-
-Illya hands me a plate as soon as I enter the living room.
-
-On the plate are blackened toast, a runny sunny-side up egg, and cut tomatoes.
-
----
-
-"Oh, thanks."
-
-My head's still dizzy, but I sit down at my usual spot and start biting on the toast.
-
-I decline to comment on the toast, but the egg is done pretty well. Maybe she copied someone, or perhaps Tohsaka taught her.
-
-Anyway, I have to give her a perfect score if this is her first time cooking.
-
----
-
-"It's good."
-
-I crunch on the toast.
-
-Illya doesn't seem happy or proud, but simply watches me in satisfaction.
-
----
-
-I'm not giving in to her happy mood, but I decide not to ask why the toast feels like coal.
-
-It's good.
-
-Having your toast black or hard is a matter of personal preference.
-
----
-
-"It is a problem. You'll get sick if you eat something burned like that."
-
-"You idiot. The burned spots are the best, whether it's rice or toast."
-
-"...Hey. Are you all right, Emiya-kun?"
-
-"I'm saying it's good. And I guess doing it rough is all right."
-
-"You must really be half-asleep. This isn't time to be saying such carefree things, you know?"
-
----
-
-Tohsaka looks at the TV.
-
-The TV is on, showing the morning news.
-
----
-
-――――Is this deja vu?
-
-The news seems to be a story I've already seen―――and my mind sharpens up.
-
----
-
-The captions on the screen.
-
-An incidence of unexplained comas occurred in Shinto last night.
-
-The residents lost consciousness overnight.
-
-It's being treated just like the other mysterious comas, but it's different from before.
-
-The area of the incident is 50 meters in diameter.
-
-It used to only happen in one building at a time, but the damage is spread much further now.
-
----
-
-...And that's not the only problem.
-
-At the end of the report...
-
-Beside the triple-digit number of victims is a new list called "missing people".
-
----
-
-"Tohsaka, this is..."
-
-"Yes. Fourteen missing people. I'm sure there'll be more once they look into it. Well, it looks like about a tenth of the people were completely swallowed."
-
----
-
-"――――――――"
-
-My mind freezes.
-
-I unconsciously...
-
----
-
-"Do you get it now? I don't know if this is Zouken or the shadow's doing, but it makes no difference to the fact that there are more victims now.
-
-At this rate, a whole section of the town will be swallowed in a few days."
-
----
-
-Squeeze my left arm.
-
----
-
-"――――Tohsaka. Are the missing people dead?"
-
-I ask to confirm.
-
-Tohsaka looks away, which is answer enough.
-
----
-
-"...That's all. I understand how you feel, but feeling guilty can come later.
-
-Look, they're starting to do as they please because they think we can't do anything about it. They can do ridiculous things because they're taking us lightly.
-
-So I don't even need to say what we need to do, right?"
-
----
-
-Tohsaka quietly gets up.
-
-...There's only one place she could be going.
-
-Tohsaka does not urge me to join her, but goes ahead to the dojo.
-
----
-
-## Scene 07
+## Scene 06 Sisters(V)
 
 
 
@@ -1298,7 +1300,7 @@ In that artificial solitude...
 
 ---
 
-## Scene 08
+## Scene 07 Blank memory
 
 
 
@@ -1454,7 +1456,7 @@ I was just a bit dizzy, so there's no problem at all.
 
 ---
 
-## Scene 09
+## Scene 08 Lorelei
 
 
 
@@ -1858,7 +1860,7 @@ I can't hear the familiar song anymore, and her words linger in my ears.
 
 ---
 
-## Scene 10
+## Scene 09 Memory lost
 
 
 
@@ -2212,7 +2214,7 @@ Her steps are heavy, but I ignore them and take her to her room.
 
 ---
 
-## Scene 11
+## Scene 10 Shadow swallowing the town
 
 
 
@@ -2678,7 +2680,7 @@ Because we have no way to find that shadow, and most of all...
 
 ---
 
-## Scene 12
+## Scene 11 Chess
 
 
 
@@ -2786,7 +2788,7 @@ The chattering of the teeth is like a white skull shaking in the wind.
 
 ---
 
-## Scene 13 [WARNING: H]
+## Scene 12 Mind's thirst [H]
 
 
 
@@ -3134,7 +3136,187 @@ Maybe I merely confirmed my uneasiness by having sex with her――――
 
 ---
 
-## Scene 14
+
+## Scene 13 Mind's thirst [Realta Nua]
+
+
+We return home before midnight.  
+It’s because there’s nothing we can do, and we can’t afford to waste energy patrolling to no end.
+
+---My feet are heavy.  
+  
+It seems the fatigue of the training is finally hitting my body.  
+My body is like lead, and my eyelids droop if I let my guard down.  
+  
+  
+…I’m sleepy.  
+My mind must be more tired than my body.  
+Every part of me craves sleep, and I want to pass out right here in the hallway.
+
+“Welcome back. How was the town, Rin?”  
+Illya is waiting in the living room.  
+…I don’t see Sakura.  
+That’s natural.  
+Because Sakura is…
+
+“---!”  
+No.  
+Sakura should be sleeping in her room.
+
+“It was already over. How’s Sakura?”
+
+“Nothing happened. She’s sleeping in her bed, and it doesn’t seem like she woke up. I think she’s doing well since she has spare magical energy from Rider not taking form.”
+
+“I see. But please be careful. It’s over if she goes out of control again.”  
+Even after seeing those empty houses, she’s acting normally.
+
+“I’m going to sleep since I’m tired. What are you going to do, Illya?”
+
+“I’ll rest as well. Tomorrow is iron making. We might fail if I don’t get some good rest.”  
+Illya leaves with a “good night”.
+
+“Then I guess this is it for today. You should rest too, Shirou. I don’t know if you can tell, but you’re really pale.”
+
+…My body feels heavy.  
+I can still lay out the futon in my current state, probably because it’s a habit.
+
+“---”  
+I fall onto the futon.  
+Looking up at the ceiling gives me enough composure to make me think.
+
+“---”  
+I think with my weary mind.  
+  
+  
+I think about my left arm.  
+The loosened Shroud.  
+I was in so much fear and pain last night, but today was like nothing.  
+I have no memory of anything being painful or scary, and the day ended in a flash.  
+  
+The answer’s right there if I seriously think about it.  
+  
+  
+I think about Illya.  
+She said she can’t live with me.  
+She said she wants to, but can’t.  
+She said she can’t live long.  
+She said it as if it were common knowledge.  
+  
+  
+About that black shadow  
+  
+  
+I think about Sakura.  
+She is losing her freedom with each passing day.  
+It’s because the crest worm is sucking the magical energy from her.  
+It’s not Sakura’s fault.  
+It’s not her fault that her body’s like that.  
+All I can do is to give my magical energy to her.  
+She should be able to maintain herself if I keep sharing my blood with her and give her plenty of magical energy.
+
+I close my eyes.  
+Illya said saving everyone is impossible.  
+I can choose only one.  
+I’ve already made my choice.
+
+“…Senpai? Are you back…?”
+
+I hear a voice from the hallway.
+
+“I’m awake. Come in, Sakura.”  
+I raise my body. I want to see Sakura even though my head’s not working.
+
+“Excuse me. I’m sorry, but I came since I heard sounds. …Um, I never told you good night.”  
+  
+  
+Sakura is like always.  
+She’s reserved, considerate, doesn’t say what she wants, is at a loss, and still smiles at me.  
+She became so surprisingly beautiful in the past year that I want to embrace her when we’re alone. And she’s someone I promised to keep protecting.
+
+“Um, that’s all. I feel well, thanks to you. I can sleep well tonight, so I wanted to tell you that there’s nothing to worry about.”  
+  
+  
+Sakura is like always.  
+But that’s just a matter of course.  
+She can’t be different.  
+It’s not as if she’s blushing and snuggling up to me like before.
+
+“…Senpai? Um, am I disturbing you…?
+
+You look really tired and sleepy…”
+
+“Sakura. Were you sleeping like I told you?”  
+“…?”  
+I just ask what’s bothering me.  
+My tired head can’t think at all.
+
+“Yes, I was sound asleep.
+
+I had another scary dream, but I was able to bear it since you were there until I fell asleep.”
+
+A scary dream.  
+I have to ask her what kind of dream it was, but…  
+  
+“---”  
+  
+I can’t say anything, reaching out for her long hair instead.
+
+“U-Um, Senpai…?”
+
+“---Come here, Sakura.”
+
+I lower my hand to her shoulder and pull her to me.
+
+“U-Um, Senpai, I-I-I…!”
+
+“You don’t want to?”  
+I whisper as I hold her in my arms.
+
+Sakura doesn’t fight back, but buries her face in my chest.
+
+“---Yes. I’m very happy.”  
+  
+She relaxes and leans on me.
+
+And so I hold Sakura very, very tight.  
+I can’t hold myself back.
+
+“……!”  
+  
+I just wanted to do this with Sakura.  
+I wanted to hold Sakura many times until I lose consciousness.  
+And I actually do.  
+Sakura’s voice does not reach my brain.  
+I can only hear my own breathing.  
+  
+  
+  
+It’s Sakura that needs to be satisfied,  
+but I want it more than her.  
+  
+There’s no sense of time.  
+I tried to keep having this nightmare until morning, but the power in my body goes off right away.
+
+I fall asleep holding Sakura’s hand.
+
+“Mm, mm………… Senpai, I”  
+  
+I feel Sakura’s warmth on my hand as I fall asleep.  
+  
+  
+  
+  
+…And my calm self speaks.  
+The haze clears from my mind.
+
+---What good did this do?  
+  
+Maybe all you did was finally confirm a certain unease by indulging in Sakura.
+
+
+
+
+## Scene 14 Nightmare, awakening
 
 
 
