@@ -2,7 +2,1570 @@
 
 
 
-## Scene 00
+
+## Scene 00 Illya Warning
+
+
+
+――――Light that destroys my eyes.
+
+The strong headwind pushes my mind and body away from the entrance.
+
+---
+
+The light is too strong for me to perceive what it is.
+
+My body, exposed to the wind, is rusting with each passing second.
+
+How long will I stay here?
+
+An infinity that is not even a second, and an instant close to eternity.
+
+With no sense of time, years change to seconds.
+
+Therefore, my body is eternally exposed to the wind, polished and clouded like a mirror, and crumbling apart.
+
+---
+
+"――――――――Oh"
+
+---
+
+Go forward.
+
+This place is painful.
+
+---
+
+A zero gravity without any handhold.
+
+An airless vacuum.
+
+The world of wind erosion is not a place one can stay in human form.
+
+---
+
+That's why I move forward.
+
+My volume doubles with each step I take, and it gets harder to breathe.
+
+One step.
+
+Two steps.
+
+The third step is impossible.
+
+I can't go any farther. The wind gets stronger the more I advance, tearing at my body.
+
+---
+
+But I have to move forward if I want to escape.
+
+The wind is coming from the other side of the light.
+
+The light is the entrance and the exit.
+
+――――This place hurts.
+
+So I have to quickly get to the other side.
+
+A stronger wind is there once I pass the entrance.
+
+Once past the exit, this pain would become lighter.
+
+---
+
+"Ha――――ah, ahh――――!"
+
+I reach out my hand.
+
+I reach out with all my might.
+
+The light is in front of me.
+
+But I can't reach it.
+
+The polar light destroy my eyes.
+
+I can't reach it no matter what.
+
+---
+
+It hurts.
+
+I can't reach it even if I cough up blood and reach out.
+
+Why?
+
+It's only a meter away.
+
+So why?
+
+Why does it feel like I'm trying to head to the distant polar lights?
+
+---
+
+"――――Shirou."
+
+"Eh?"
+
+I wake up.
+
+---
+
+"You can't. You'll die if you take it off just because it's painful."
+
+"――――――――"
+
+I blankly stare at Illya, standing before me.
+
+---
+
+"Illya...? Why are you in my room?"
+
+"Because my room is close to yours. I woke up early, so I came to look at you."
+
+---
+
+...Man.
+
+It seems she woke up before me and came here.
+
+I don't care about that, but maybe Illya did so because――――
+
+---
+
+"...Hm. Was I having a nightmare?"
+
+"Yup. You were moaning in pain, trying to pull that cloth off your arm.
+
+Well, I came here because I expected you to do that. I suppressed the pain while you were asleep, so it feels better now, right?"
+
+---
+
+"Oh――――"
+
+I now notice that my right hand is on the cloth covering my left arm.
+
+.....Oh man.
+
+If Illya hadn't come, I might've taken it off in my sleep.
+
+---
+
+"――――I see. Thank you, Illya."
+
+"You don't have to thank me. It's between you and me.
+
+And I promised, right? That I'll help you when you're in trouble."
+
+---
+
+"――――――――"
+
+Her smile captivates me.
+
+---
+
+I know Illya's just saying that out of kindness, but...
+
+"Fufu, and I wanted to see your sleeping face. You were in pain, but your were trying your best to endure it. You were so cute."
+
+I slam the brakes on my panicking heart.
+
+---
+
+"――――Illya. It's not good to go into someone else's room without permission.
+
+Mornings and evenings are out of the question. I'm an ordinary guy, so it's troubling."
+
+"Oh, really? How is it troubling? I want to know in detail."
+
+---
+
+"Ugh―――even that question is troubling.
+
+First of all, you're a girl, so you can't go into a guy's room in the morning. It's dangerous. It's really dangerous. You're not just endangering yourself, you're putting the innocence of an adolescent boy at risk too."
+
+---
+
+"Really? But that makes even less sense. What's so bad, and what's so dangerous about it? I won't stop unless you tell me why."
+
+---
+
+The silver-haired girl puts her hand down, gets on all fours, and...
+
+"See, I'm closer to you now. So, why is it troubling for me to come near you in the morning, Shirou?"
+
+"Y-Y-Y-Y-You idiot...!!!!!"
+
+---
+
+I roll backward head-over-heels while keeping ahold of my futon.
+
+That was close.
+
+Guys experience a certain physiological phenomenon every morning.
+
+I could be given a man's mark of shame if she comes close to me in such an outf――――
+
+---
+
+"Oh."
+
+"Gah――――"
+
+I hit the back of my head hard.
+
+---
+
+"Ah, guh――――that's why... I said it's dangerous."
+
+I make up an excuse.
+
+---
+
+"O-Okay. I'm sorry, Shirou.
+
+...Um, did it hurt...?"
+
+It hurts.
+
+I saw stars and my head is throbbing, but I can't be whining if I hear a voice like that.
+
+---
+
+"No, I'm fine. It was a good wake-up call, so don't worry about it."
+
+I shake my head and get up.
+
+My morning issue has calmed down thanks to that.
+
+---
+
+"...All right. It's about time, so I'm going to go cook breakfast. What do you want, Illya? If there's anything you don't like, say so now."
+
+---
+
+"Eh? No way, you can cook!?"
+
+"Well, I can cook like everyone else. I don't know about Western snacks... but I guess I can manage pancakes."
+
+Illya's face lights up.
+
+It seems the fact that I can cook is a delightful thing for Illya.
+
+---
+
+"Hmm... Then do you want to make it together? I thought I'd go get you after breakfast's done, but it's better for you to be in the living room if you're awake."
+
+"Really!? Yeah, I'll go! I want to see you wearing an apron!"
+
+---
+
+"I see. Then let's beat Tohsaka together with the three of us.
+
+I promised Sakura we'd be cooking together this morning, so we'll have the strength of three with your help."
+
+"――――No. I'm not going if Sakura's there. You go by yourself, Shirou."
+
+---
+
+"Eh... Why? Because Sakura's there? Do you hate Sakura?"
+
+"No, I actually rather like her. But I can't approve of her because she's not suited for you."
+
+"...? What do you mean by not suited, Illya?"
+
+---
+
+"It's true. You ought to know why, but you're trying so hard not to notice it. Telling you now won't do any good."
+
+Illya goes out into the hallway.
+
+---
+
+"And I don't know what kind of trance you were in, but don't keep charging ahead recklessly. You're watching Archer's magecraft, not Shirou's magecraft.
+
+...I know you'll eventually obtain the magecraft, but there's only the possibility right now. Your body will destroy itself from within if you try projection in such a state."
+
+---
+
+"Projection――――?"
+
+I repeat Illya's word absentmindedly.
+
+At that instant...
+
+The cocking hammer goes down.
+
+The dream I saw while I was treated.
+
+I vaguely understand what it is and what it means.
+
+---
+
+――――It's probably...
+
+Projection taken to the utmost limit, reproducing every weapon you've ever seen and making them your own.
+
+---
+
+"...That's right. Archer's Noble Phantasm is 'magecraft' that only he can use.
+
+Archer is a blacksmith heroic spirit that can reproduce any weapon he sees. The power is something you can use too, now that you inherited his arm. You're probably not conscious of it now, but you'll remember the activation spell if you put your mind to it."
+
+---
+
+"But don't think about using it just because you can. That priest is right. If you remove the cloth and use projection even once, you will certainly die.
+
+...So don't take it off, no matter what. I won't forgive you if you die like Kiritsugu. I'll never forgive you if you leave me alone before I kill you."
+
+---
+
+Illya leaves.
+
+Her warning contains both caring strictness and murderous hostility.
+
+---
+
+## Scene 01 Bad news
+
+
+
+"Senpai, I'm done cleaning the turnip. How are the chicken wings going?"
+
+"―――Yeah, I'm done skimming the foam. Let's cook it once we've cut those into four pieces."
+
+---
+
+"Okay. What are you doing with the curry powder, Senpai?"
+
+"I'm making the sauce. We'll put it on the sardines. Even if Illya doesn't like fish, she should be able to eat it if it's curry flavored, right?"
+
+---
+
+"I see, you're smart, Senpai! Then I'll cut the fish, so please check the simmering."
+
+---
+
+"Huh? No, I can cut the sardine without the knife, so you don't have to. I'll ask for your help when I get to the center bone, so can you make simmered pumpkin with broth and soy sauce? I think we should have at least one sweet dish."
+
+"Okay. Oh, you look like a sushi chef when you're cutting the fish one-handed like that, Senpai."
+
+---
+
+Sakura goes to the refrigerator.
+
+Sakura must be feeling better after a good night's sleep, because she's in a good mood this morning.
+
+---
+
+"――――――――Hm."
+
+And standing in the kitchen with her is fun for me too.
+
+Sakura is thoughtful and is attentive to my needs, preparing things ahead of time.
+
+It feels really good to cook with someone like that.
+
+---
+
+"Senpai? Sushi chef, your hands aren't moving."
+
+"Hm? Oh, I was spaced out. We should hurry. It's almost seven o'clock."
+
+---
+
+I sigh so she can't see and continue cutting the sardine.
+
+Sardine is soft, so it's better to use fingers than a knife. It's something even I, one with my left arm not moving, can manage to cook.
+
+---
+
+"But when did you learn such a technique? It's not normal to do it with just your right hand."
+
+"It's not a technique. This is about timing and determination. I'm sure you can do it too if you try."
+
+---
+
+"Oh, is that so?"
+
+"Yeah. Techniques are things like cutting apart a cow with a kitchen knife or making an ice sculpture.
+
+Here, take care of the rest. We'll cook it after you're done, so put it in the bowl."
+
+---
+
+I move away from the cutting board and walk to the gas burner.
+
+I put the frying pan over the fire and pour some oil onto it.
+
+My body knows how to do this, so I do it absentmindedly.
+
+---
+
+"Um, Senpai...?"
+
+"Hm?"
+
+I vaguely reply.
+
+---
+
+"...This might be none of my concern, but did something happen between you and Illya-san?"
+
+"――――――――"
+
+My hand stops.
+
+But it's only for an instant.
+
+I'm sure Sakura didn't see my disturbance.
+
+---
+
+"Yeah. We talked before I came to the kitchen. Illya has a lot going on. I really don't know how to answer her."
+
+"...Is that a problem as a Master?
+
+Does Illya-san still want to fight?"
+
+---
+
+"No. I don't feel a will to fight from her. ...No, I don't think she had such a thing from the start. I think she tried to obtain the Holy Grail as the Master of Einzbern, but Illya had another goal.
+
+But..."
+
+---
+
+...That goal disappeared long before the war even started.
+
+Illya's goal.
+
+Emiya Kiritsugu, the one she wanted to meet, died five years ago.
+
+Then―――what can I do and what should I do in his place?
+
+---
+
+"Hey, Sakura. Is it all right if Illya stays here if she doesn't want to go back to her country?"
+
+---
+
+"Oh―――um. This is your house, Senpai. My opinion doesn't really matter."
+
+"What are you saying? This is your house. I can't decide on something important like having Illya stay without consulting my partner."
+
+---
+
+"I――――I'm your partner...!?"
+
+"Yeah. Who else would it be?"
+
+Neither Illya nor Tohsaka can help me with cooking this perfectly.
+
+---
+
+"Sakura, the frying pan's ready."
+
+I take the sardine Sakura prepared.
+
+Sakura hands me the sardine with an airy motion.
+
+......?
+
+What is it all of a sudden?
+
+Did she get a fever again...?
+
+---
+
+"O-Okay, I understand...! I'll do my best to get along with Illya-san...!"
+
+"―――Yeah, it'll be great if you can. Illya said she doesn't hate you, so you should be able to get along with her if you talk with her."
+
+---
+
+...Yeah, I'll be really happy if that happens.
+
+After the Holy Grail War is over, Sakura and Illya will be here making breakfast without worry.
+
+I'll pay any price for such a wish to come true――――
+
+---
+
+"Good morning. You two sure are up early on Sunday."
+
+...Wait.
+
+Something amazing just passed by.
+
+---
+
+"S-Senpai... did some strange person pass by just now?"
+
+"...Ugh. If you saw it too, that means it wasn't just my imagination."
+
+We timidly look into the living room.
+
+---
+
+The person that shambled over to the table glowers as she pours herself some tea and turns on the TV.
+
+---
+
+"...I'm surprised. Tohsaka-Senpai isn't a morning person..."
+
+"......"
+
+Wait, Sakura.
+
+Doesn't someone who's not a morning person, um, look cuter?
+
+---
+
+Breakfast starts.
+
+Sakura and I sit next to each other, while Tohsaka and Illya sit across from us.
+
+---
+
+"Oh, wow. This has some refined taste, Sakura. I guess this deserves to be eaten."
+
+I don't know if Illya is attacking or praising Sakura.
+
+---
+
+"Geez. I usually don't eat in the morning."
+
+Tohsaka complains as she eats the omelet.
+
+"――――Hm."
+
+...Then, for some reason, she silently starts concentrating on eating.
+
+---
+
+"......"
+
+Breakfast continues quietly.
+
+The only loud thing is the TV Tohsaka turned on, offfering many topics of information.
+
+---
+
+"Hm......?"
+
+―――A familiar scene is on TV.
+
+I can't be mistaken.
+
+The TV is showing a baffling story about a park in Shinto.
+
+---
+
+"......A missing person in central park? ...A lot of blood around the area...?"
+
+---
+
+It's a pretty vivid incident.
+
+An old man was jogging in the park, found a trace of blood, and reported it to the police.
+
+A policeman came to the scene and found what appeared to be one person's worth of blood and pieces of the apparent victims.
+
+...But it seems the pieces are just scraps of flesh, and that they don't even weigh fifty kilograms when gathered together.
+
+---
+
+"...The police are trying to figure out the four victims' identities... wait, why four people? There was only enough blood for one, right?"
+
+---
+
+"That's probably because the scattered flesh came from four people.
+
+I'm sure there were only leftovers, but that must have been enough to figure it out."
+
+---
+
+"...Tohsaka.
+
+By 'leftovers'... do you mean this is a Servant's―――Zouken's doing?"
+
+"Who knows? I can't tell if Zouken had a hand in this. But I'm sure that shadow did this. See the corner of the screen? The grass has turned black. It's exactly like when the shadow appeared in the forest."
+
+---
+
+"――――――――"
+
+Tohsaka states simply.
+
+But I'm not convinced for two reasons.
+
+---
+
+"Why? No matter what that shadow may be, it hasn't done anything like this before. It has sucked up magical energy from people, but it never, um..."
+
+Directly killed people like this.
+
+---
+
+"...You're right. The only reason I can think of is that there aren't any enemies now. There aren't any Masters now that can defeat them straight-on. So that means they can do whatever they want without worrying about whose attention they may get, right?"
+
+"―――Does that mean they're being indiscriminate?"
+
+---
+
+"...I don't know. I'm the one that said it, but it doesn't seem like it. Even if Zouken and that shadow are related, I'm sure this was an unforeseen accident.
+
+I'll bet my omelet that Zouken is surprised to hear this news as well."
+
+---
+
+...Tohsaka's omelet is gone as she speaks.
+
+Her hawk-like eyes are looking at the only untouched omelet on the table, mine.
+
+---
+
+"......Hm. Why do you think it's an unforeseen accident?"
+
+"It's not cleaned up. With the blood aside, Zouken's not someone that would leave pieces of the dead body behind. In other words, Zouken was not at the scene, and that shadow was the only thing that ate there."
+
+---
+
+"―――I see. ...Then one more thing. How do they know there were four victims? There was only one person's worth of blood, and there was only one person's worth of flesh."
+
+---
+
+"It's the shape, not the weight. I'm sure there was four of something people only have one of. That way, you'd know how many victims there are without any identification.
+
+See. If there were four left hands in a pool of blood, anyone would know how many victims there were."
+
+---
+
+Tohsaka states simply.
+
+"――――――――"
+
+I imagine the scene and my appetite quickly goes away.
+
+---
+
+## Scene 02 Future plans
+
+
+
+After breakfast...
+
+"Shirou. We have to do some things, so come with me."
+
+Tohsaka takes me to the dojo.
+
+---
+
+I had no reason to refuse and I also wanted to talk to Tohsaka, so it was a timely offer.
+
+It was, but...
+
+"Hey. I only wanted Shirou. Why are you all following him?"
+
+Tohsaka is unhappy at the unexpected guests.
+
+---
+
+"...Um, you're menacing, so I thought it's dangerous for Senpai to be by himself."
+
+"Hey now. I made a pact with Shirou, so I won't attack him. You know that, so why did you follow us, Sakura?"
+
+---
+
+"B-Because it's my role to protect Senpai."
+
+"...You declare, huh?
+
+Then how about you? You should know what I'm going to do. Did you come to heckle me?"
+
+---
+
+"No. I'm here for the same reason as Sakura.
+
+I know what you want to do, but I don't know how you're going to do it. I came to make sure you don't do anything strange to Shirou."
+
+---
+
+"...Oh well. I'm going to tamper with his body for his own good, so don't jump to conclusions and interfere, okay?
+
+We don't have time to be taking things slow."
+
+---
+
+She must have prepared it before breakfast, as Tohsaka's bag is at the dojo.
+
+It's full of equipment like what I saw at her house, and it's easy to guess what'll happen, but...
+
+---
+
+"Sorry. Can I say something beforehand?"
+
+"What? Don't tell me now you don't want anything that hurts."
+
+---
+
+"Of course. Nobody wants anything that hurts.
+
+Anyway, any normal person would run away after seeing these things with no explanation."
+
+---
+
+The other two nod.
+
+I have two reliable supporters this time.
+
+---
+
+"I'm sorry I'm not explaining things to you. I know I'm not normal compared to you. You can go somewhere else if you have any complaints."
+
+Oh.
+
+Tohsaka's sulking, unhappy about the three-on-one situation.
+
+---
+
+"No, I'm not complaining. I have a vague idea of what you might be doing. That's why I'm putting every trust in you. I'll trust you no matter what you tell me to do. I promised you last night, right?"
+
+---
+
+"H-Heh. Then why did you stop me?
+
+If you don't have any questions, then sit and be quiet."
+
+---
+
+"No, this isn't about that. I want to make sure what our future course of action is. We have to decide now what we should be doing."
+
+---
+
+...Everyone's expression changes.
+
+What I just mentioned is a problem we all postponed last night.
+
+What we will fight against, and what we will do.
+
+We can't back out after we make our decision.
+
+No, we already can't back out, so this is just a statement of our resolve.
+
+---
+
+"........."
+
+"I'm not going to take part in battles. I'll fight if someone attacks me, but I don't intend to start a fight myself. I don't know what'll happen even if I win this Holy Grail War."
+
+---
+
+"...I feel the same way as Illya-san. I don't think I can beat Grandfather.
+
+The match is pretty much decided, so I don't think Grandfather will come attack us if we stay quiet here..."
+
+---
+
+"............"
+
+...Tohsaka doesn't say anything.
+
+I don't know what she's thinking, but I want to believe she has the same opinion as me, since she's not agreeing with Illya or Sakura.
+
+---
+
+"―――You're right. I agree with concentrating purely on defense.
+
+Sakura stays here to defend against Zouken.
+
+Rider is with Sakura, so she should be able to defend Sakura and Illya if she concentrates on defense."
+
+---
+
+"Tohsaka and I will try to come up with a way to defeat Zouken.
+
+We'll be attacked eventually even if we stay here, and we can't leave them be. We don't know if something like this morning's news is going to happen again."
+
+---
+
+Tohsaka doesn't interrupt.
+
+It means she intended for the two of us to fight Zouken, no matter what her true opinion may be.
+
+---
+
+"I can't ignore Zouken, but I can't ignore the shadow either. Tohsaka and I will start patrolling the town tonight, so Sakura and Illya are to stay here and keep watch."
+
+---
+
+I confirm the plan with everyone.
+
+――――Then.
+
+---
+
+"W-What are you saying, Senpai...!?"
+
+"Sakura...? What? It's nothing ridiculous, right?
+
+Tohsaka and I are the only ones who can fight, so we have to beat Zouken."
+
+---
+
+"That's the ridiculous part...!
+
+You can't use one of your arms anymore! Do you really know what that means...!?"
+
+"Eh―――――Sakura...?"
+
+---
+
+"...I don't get it. You're acting strange. Why are you going to fight even after what's happened to you?
+
+You should know that things are out of your hands now because you actually took part in it. So why are you saying such a ridiculous thing?
+
+I was relieved because I thought you wouldn't fight with one arm, so why―――"
+
+---
+
+"...........Sakura."
+
+Sakura is trembling.
+
+She's hanging her head as she trembles at her words.
+
+I don't know why she's trembling.
+
+The only thing I can do is to answer her question.
+
+---
+
+"Sakura. I'm going to let you win. That's why I'm fighting.
+
+Yes, I don't want to ignore Zouken and the shadow. But more than that, I want the Holy Grail. Nobody's making me do this. This is a selfish wish of mine."
+
+---
+
+―――That's right.
+
+It's a selfish wish I had ever since I decided to be Sakura's ally and not everyone else's.
+
+---
+
+".........Is that for my sake?"
+
+"―――Yes. It will be for your sake if we can remove the crest worm from your body."
+
+---
+
+"...It's all right, Sakura. If there's no chance of victory, we'll make a chance, and we won't fight while we don't have any chance of victory.
+
+There's still danger even if we have a chance, but there's always a risk, so I can't promise you I won't get hurt.
+
+―――But I'll definitely come back. I told you I'd protect you, right? So I can't fulfill my promise unless I'm by your side."
+
+---
+
+"Sen... pai..."
+
+Sakura looks down painfully.
+
+It looks like she's apologizing.
+
+---
+
+"――――All right, can you stop it there?
+
+Our course of action's already determined, so it does no good to whine.
+
+Sakura and Illya are to stay here. Shirou and I will patrol the town at night. We won't carelessly attack Zouken even if we find him. We'll chip away at their force only when we have a chance of victory.
+
+That's our future course of action, right, Shirou?"
+
+---
+
+"Y-Yeah... It'd be great if that's your decision."
+
+---
+
+"――――Heh. I don't even need to tell you."
+
+---
+
+"And, Sakura. Kirei couldn't completely extract your crest worm, but he suppressed its action. So it can't run wild unless they use a drug on you like Shinji did.
+
+But at the same time, Zouken can't be the winner as long as you stay here in this house. He's going to come take you sooner or later, so refusing to fight is not an option. How can you say you won't do anything knowing that?"
+
+---
+
+"That may be true, but―――Grandfather shouldn't do anything rough if we don't do anything―――"
+
+---
+
+"Sakura! Stop being so submissive. Zouken isn't your grandfather or your master. Do you still think he's human after all the terrible things he's done to you!?"
+
+".........No. I've never thought he was human."
+
+---
+
+"Then prepare yourself. Shirou and I will be fighting outside, so you have to fight here too.
+
+If Zouken attacks this place, you have to get away at any cost. The Holy Grail cannot be completed as long as Rider isn't defeated. You have a hope of being saved as long as Rider's alive."
+
+---
+
+Tohsaka's voice is firm.
+
+...Is it the dignity of the older sister?
+
+Sakura nods and replies that she understands.
+
+---
+
+## Scene 03 Tohsaka Sensei's lecture on magic(Drastic measure edition)
+
+
+
+And after that.
+
+I ask why she brought me here to the dojo.
+
+---
+
+"Let's see. Why don't you get naked to start with?
+
+No matter what we end up doing, nothing would go right unless I take a look at what kind of a body you have."
+
+And she gives me a ridiculous reply.
+
+---
+
+"Wha-"
+
+"WHA-WHAAAAAT!?"
+
+"...Whaaat?"
+
+I continue in a small voice because she's more surprised than I am.
+
+---
+
+"What? Is that such a shock, Sakura?"
+
+"I-It is...! You want Senpai to be naked!? What are you thinking, Tohsaka-Senpai...!?"
+
+---
+
+"I'm thinking about Shirou, of course.
+
+You're in danger, but Shirou's also in a lot of danger. You should know too that we have to get a lot of things done now."
+
+"...That's true... but..."
+
+---
+
+"If you know, then don't butt in.
+
+Hey there! Don't just stand there and take off your top! I'm going to put on a warding sign, so I can't do it if you keep your shirt on!"
+
+Tohsaka glares at me.
+
+---
+
+"Ugh......"
+
+But Sakura's stare is painful.
+
+It's uneasily asking me if I'm going to go along with Tohsaka.
+
+---
+
+"Hurry up. We won't make it before tonight's patrol unless we give your body some time to familiarize itself with it."
+
+"Umm......"
+
+---
+
+This is no time to be embarrassed about something like this.
+
+I don't want to take my clothes off, but taking off my top is like getting changed, so it shouldn't be a big deal.
+
+---
+
+"...Man. All right, Tohsaka. So, what do I do now?"
+
+"Come here. I'll transplant a small part of my Magic Crest onto you."
+
+"...! Over there!? You mean like this!?"
+
+---
+
+"Of course. I have to touch your body with my left hand, comprehend it, and share my warding crest with you. It'll tickle and hurt, but bear with me."
+
+Tohsaka wiggles her fingers.
+
+---
+
+"Ugh――――"
+
+...I can't run away after coming this far.
+
+I give up and go near Tohsaka.
+
+...Um, Sakura's stare is more painful now.
+
+---
+
+"I'm going to start now, but let me confirm beforehand. I said before that I'll put a switch in you, but I won't do that.
+
+In your state, it's too dangerous to be able to turn your Magic Circuit on and off so easily."
+
+---
+
+"O――――Okay, I got it."
+
+I manage to reply with a high-pitched voice.
+
+It's natural that I'm acting strange and can't breathe.
+
+I'm naked, and Tohsaka is near me.
+
+It'd be more strange not to be nervous!
+
+---
+
+"Hey. You don't seem to be calm. Are you listening to me?"
+
+"――――I'm listening. I'm listening to you."
+
+---
+
+"......? All right, then.
+
+So this operation is to suppress magical energy.
+
+Your body is unstable right now, and we don't know when Archer's arm might flow magical energy into your body. I'm going to put needles into your left shoulder, belly button, and your throat, so that your left arm won't be connected to you unless you really want it to be."
+
+---
+
+"This is also a countermeasure against the shadow.
+
+That thing sucks up magical energy just by being there. The sign I'm going to carve into you will also have resistance to magical energy, so you should be less burdened when facing that thing."
+
+Then, Tohsaka places her hand on my chest.
+
+---
+
+"Whoa――――!"
+
+I barely stop myself from jumping back.
+
+---
+
+"Oh, was it hot? Can you bear it? I'm going to transplant the Magic Crest from my arm, so I can't lower the temperature."
+
+"No――――I don't care about it being hot or cold."
+
+---
+
+Tohsaka's hand is soft, and her touch sends a shudder through my heart.
+
+Every time her slender fingers run across my chest, my temperature rises by a degree.
+
+---
+
+"......All right. I think I have a grasp of your chest. Next is your belly button, but this is going to hurt. I'm going to put my finger in, so try not to move. Don't worry, it won't injure you, and I won't move it around much."
+
+---
+
+"Hey――――what do you mean by move it, Toh... saka――――!"
+
+My body convulses.
+
+---
+
+―――My stomach.
+
+Having Tohsaka's hand on my stomach is bad enough, but something rigid tears through my skin and into my body――――!
+
+---
+
+"Haa――――h-hold on, that's, ba――――"
+
+"I-I said it's going to hurt. Don't make noises like that, it's distracting. It makes me feel like I'm doing something wrong!"
+
+---
+
+"A-Are you stupid――――!?"
+
+My face is going to get redder if you say something like that, you idiot!
+
+---
+
+"...Humph. I'm done with the belly button. All that's left is your shoulder and throat, so stay calm and don't run away."
+
+---
+
+"........."
+
+I would really love to run away right now.
+
+I would love to, but doing so would seem like I'm conscious of Tohsaka and I won't be able to excuse myself.
+
+---
+
+"Come on. I'm going to do the same thing to your shoulder, so suck it up. Grit your teeth and don't make any weird noises."
+
+"O――――Okay. I'll try my best."
+
+It's embarrassing, so I look away from Tohsaka.
+
+---
+
+It's not just my face that's blushing. I think my entire body's turning red.
+
+I'm blushing even though I know this is only for magecraft, so I bet Tohsaka's having a hard time too.
+
+...Man.
+
+How can I ever face Tohsaka again after committing such a disgrace...?
+
+---
+
+"All right, that's it. I'm going to put away the equipment, so you go cool yourself off."
+
+Tohsaka grabs something that looks like a first-aid kit and goes to the corner of the dojo, where her bag is.
+
+---
+
+"――――――――"
+
+My face is still red, but I'm finally able to calm down and take a deep breathe.
+
+...Then.
+
+---
+
+"......?"
+
+Sakura twiddles her fingers, looking like she wants to say something.
+
+---
+
+"...Sakura? W-What's wrong?"
+
+".........Um, well..."
+
+She takes a look at me.
+
+Then she takes a breath, as if preparing herself...
+
+---
+
+"Um, Senpai...! W-We, um... made love, right!?"
+
+...And she asks me a ridiculous question.
+
+---
+
+"――――――――"
+
+My face, which had finally calmed down, passes its boiling point and turns red again.
+
+---
+
+"Ah――――um."
+
+I feel dizzy.
+
+Just recalling what happened that night is so stimulating that it makes me forget about our current situation.
+
+So for Sakura to ask me fro confirmation like this, when I'm already off-balance from Tohsaka, is like getting hit twice as hard――――
+
+---
+
+"Um... Senpai?"
+
+"――――――――"
+
+No.
+
+This isn't the time to be speechless.
+
+---
+
+"――――Yeah, I did make love to you."
+
+"R-Right!? Then it's strange for you to lose your composure against Nee-san!"
+
+---
+
+Sakura looks up at me unhappily.
+
+...I finally realize why her stare was so painful earlier. It's because she was sulking.
+
+---
+
+"I-I'm sorry. But Sakura, this had nothing to do with Tohsaka, and, um, it couldn't be helped."
+
+"I-I know, but please bear with it! You're m-m-my lover!"
+
+---
+
+"―――――Ugh. I... know that, but..."
+
+I couldn't fight against it.
+
+I'm a guy, and I've admired Tohsaka since I got into this school, so I couldn't help it.
+
+---
+
+"...I'm sorry. I'll try to bear it next time. I'll do my best not to lose my composure."
+
+"...Really? I'll get mad if this happens again next time."
+
+---
+
+She stares straight at me.
+
+Repentant from the bottom of my heart, I tell her I'll do my best.
+
+---
+
+...Man.
+
+I only realized it just now, but...
+
+Having three girls under the same roof might be a really stressful thing.
+
+---
+
+## Scene 04 Sisters(IV)
+
+
+
+It's eleven-thirty now.
+
+With lunch coming up, the kitchen is filled with a noisy, forbidding atmosphere.
+
+---
+
+"Um, Tohsaka-Senpai. I'm thinking of making a dish that everyone can eat from. Do you have anything you don't like?"
+
+In the kitchen...
+
+With the refrigerator at her back, Sakura speaks timidly.
+
+---
+
+In response...
+
+"I see. Then I'll make mapo tofu."
+
+...Tohsaka cuts her off and selfishly starts cutting the tofu.
+
+---
+
+"―――They aren't getting along. What were you thinking, letting them cook?"
+
+Illya sits Japanese-style on the cushion and speaks without reserve.
+
+Hm. It seems even Illya can tell Tohsaka and Sakura are tense.
+
+---
+
+"It's just going to get worse if you leave them be.
+
+You should know that, so how did you let it come to this?"
+
+---
+
+"It just sort of happened.
+
+We were wondering about lunch. Tohsaka said she'd make it, and Sakura said it was her job. Neither one would back down, so I took both their ideas and suggested that they make lunch together."
+
+---
+
+"You said that? ...I see. No wonder they can't back out now."
+
+Illya seems to understand and takes a sip of tea with proper manners.
+
+As expected from a princess. She shouldn't know the proper etiquette, but she's elegant even with something as simple as this.
+
+---
+
+"But Shirou. Couldn't you have made lunch? Why did you get Rin and Sakura to do it?
+
+Tohsaka and Matou are enemies, and Rin wants to kill Sakura."
+
+---
+
+"That was only up to yesterday. Tohsaka is working with us because she doesn't want to fight Sakura. And they aren't enemies. They get along, and I entrusted them with lunch because I thought it would go well."
+
+---
+
+"Huh―――they get along!?"
+
+"...? Is that so surprising? Illya and I are friends even though we were enemies, right? Then it should be the same for Tohsaka and Sakura."
+
+"Eh... Well, Shirou and I are special..."
+
+---
+
+"Being special has nothing to do with this. You'll understand if you watch. Tohsaka is being more blunt than usual, but she warns Sakura every time she does something wrong. It means that..."
+
+"......She's concerned about her. But she's putting on a cold face and ignoring her because she doesn't want her to find out."
+
+---
+
+"Right. And Sakura knows that, so she's making mistakes she normally doesn't. She's concerned about Tohsaka too."
+
+"...Now that you point it out, I can see it. Then what? They want to get along, but they're too embarrassed to start talking?"
+
+---
+
+I nod.
+
+I don't know about Tohsaka, but I know how Sakura feels.
+
+---
+
+Sakura likes Tohsaka, and she wants Tohsaka to like her.
+
+Or she would never call her Nee-san.
+
+---
+
+"...I see. So Rin is clumsy, in spite of her appearance."
+
+Impressed, Illya murmurs and looks in the kitchen.
+
+---
+
+"――――――――"
+
+I follow her example and look in the kitchen.
+
+They must be half done with the cooking.
+
+Standing side-by-side in the small kitchen, Tohsaka and Sakura are making their dishes.
+
+---
+
+"――――――――"
+
+"――――――――"
+
+One holds the frying pan while the other holds the ladle, but neither says anything.
+
+...And after a silence that even gets us nervous...
+
+---
+
+As expected from sisters, they start talking at the same time.
+
+---
+
+"What? Go ahead, I'll listen to whatever you have to say."
+
+"Oh... um, it's really nothing. Didn't you want to say something?"
+
+---
+
+"...It's nothing. Well, different people cook differently, right? So I thought it might be useful if you can teach me some of your flavorings."
+
+"Y-You're right. I'd love it if you could teach me your recipes, Tohsaka-Senpai."
+
+---
+
+"――――――Hm."
+
+"...That's it? I don't believe this. At this rate, they'll be like that forever."
+
+---
+
+"......"
+
+It's scary that I can't deny the possibility.
+
+Tohsaka is normally dominant, but why is she so shy when it comes to Sakura?
+
+---
+
+And Sakura too.
+
+She calls Tohsaka Nee-san when she's with me, but she's reserved when she's actually with her.
+
+---
+
+"――――Sakura."
+
+"Huh? Oh, yes, what is it, Senpai?"
+
+"I need to talk to you. Can you come here?"
+
+---
+
+"Senpai? Is there something outside?"
+
+"No, being outside isn't the important part. I just wanted to talk secretly."
+
+---
+
+"Um... talk secretly...? Um, is this something you can't let Nee-san hear?"
+
+"That's it. That's exactly what I want to talk about."
+
+---
+
+"...?"
+
+"I'm talking about how you address Tohsaka. You don't call her Nee-san when you're with her. It's obvious that you really want to call her that."
+
+---
+
+"Eh―――you mean it's obvious to Nee-san!?"
+
+...Whoa.
+
+I just made that up, but it seems Sakura is more reserved about her sister's feelings than I thought.
+
+---
+
+"N-No, Tohsaka doesn't know. I don't know why, but she's really dense when it comes to you. ...But in the worst case, she might think that you hate her."
+
+---
+
+"T-That's not true...! It's natural for Nee-san to hate me, but I'm happy to be with her. I never even dreamed that we could make lunch together..."
+
+---
+
+"Right. Then why don't you just be honest with her? Even someone as dense as Tohsaka can't possibly miss it if you tell her straight-out. Then you should be able to..."
+
+Sakura should be able to realize by herself that Tohsaka wants to get along with Sakura.
+
+---
+
+"...Um, Senpai?"
+
+"―――It's nothing. Just go call Tohsaka Nee-san.
+
+I'll bet you she changes so much that it's funny."
+
+---
+
+"...Would it really turn out like that? I think having someone like me calling her 'Nee-san' will only bother her.
+
+I'm a magus of Matou, and I can't do everything like Nee-san can. Tohsaka-Senpai is probably disappointed that a failure like me is her sister."
+
+---
+
+"You idiot. Don't bring other things into a sister's relationship. You like Tohsaka, and she's your big sister, right?
+
+Then there's nothing more important than that. I'll guarantee it. There's mutual love between you two. To be honest, there's so much love that I'm a bit jealous."
+
+"Eh... I-Is that so?"
+
+---
+
+"Yeah. So you call her Nee-san.
+
+I think Tohsaka believed in it, just like you did. So there's nothing to be scared of. It's for her sake too. Please call her Nee-san."
+
+"――――――――For Nee-san's sake."
+
+---
+
+...I don't know what's going on in her mind.
+
+But after putting her hands together, as if praying, and thinking it over...
+
+"Okay. I'll do my best."
+
+She smiles softly in thanks.
+
+---
+
+――――We return to the living room.
+
+Sakura exchanges a glance with me, takes a deep breath, and heads to the kitchen.
+
+---
+
+"Welcome back. Sakura's tensed up. What happened?"
+
+"Hm? The rest depends on her courage. Well, I'm sure it's going to go well."
+
+"...?"
+
+I sit down on the cushion.
+
+---
+
+"―――Nee-san. Can I finish this fried chicken?"
+
+"Yes, all that's left is to fry it, so I'll leave it to you... wait, Sakura, did you just..."
+
+---
+
+"Okay. If I'm doing the chicken, can you cut the lettuce, Nee-san? I'll leave the serving to you."
+
+"O――――Okay, that's fine, but..."
+
+---
+
+...Everything goes still.
+
+They both fall silent, and the tension is much greater than before.
+
+"――――――――"
+
+"――――――――"
+
+Not even breathing, they stare at one another.
+
+---
+
+"......Um, is it strange, Nee-san?"
+
+"Uh――――i-it's not that. I was just surprised because I've never been called that way."
+
+"...Then, um..."
+
+---
+
+"I-I have nothing against it. You're free to call me whatever you want, and I'm calling you by name. Well, it could get confusing because there are two Senpai here, so that should make things clearer."
+
+---
+
+Tohsaka makes it sound like it can't be helped and looks away.
+
+...But Sakura should be able to tell that she's blushing and can't hide her smile.
+
+---
+
+...Their joint work got even more awkward after that.
+
+They messed up so many times that lunch turned out to be a disaster. The fried chicken was covered in pepper, the mapo tofu was hot as hell, and the rice cooker was never turned on, so we ended up eating without rice.
+
+But Tohsaka and Sakura both looked happy, smiling at every opportunity.
+
+---
+
+"...Geez, they sure are clumsy."
+
+Illya sounds dumbfounded as she eats mapo tofu that's hot enough to numb your tongue.
+
+I nod back silently and gratefully eat the food they made.
+
+---
+
+## Scene 05 Choice
 
 
 
@@ -70,7 +1633,7 @@ Well――――
 
 ---
 
-## Scene 01
+## Scene 06 Rin and Illya
 
 
 
@@ -202,7 +1765,7 @@ I'm just going to check if Sakura's really resting or not.
 
 ---
 
-## Scene 02
+## Scene 07 Cute girl
 
 
 
@@ -600,7 +2163,7 @@ She's really smiling.
 
 ---
 
-## Scene 03
+## Scene 08 Earnest
 
 
 
@@ -610,7 +2173,7 @@ She did go back to her room, but I'm worried if she's really resting or not.
 
 ---
 
-## Scene 04
+## Scene 09 Distant twilight(I)
 
 
 
@@ -1306,1569 +2869,12 @@ So please―――keep watch and be on your guard against me.
 
 ---
 
-## Scene 06
 
 
 
-――――Light that destroys my eyes.
 
-The strong headwind pushes my mind and body away from the entrance.
 
----
-
-The light is too strong for me to perceive what it is.
-
-My body, exposed to the wind, is rusting with each passing second.
-
-How long will I stay here?
-
-An infinity that is not even a second, and an instant close to eternity.
-
-With no sense of time, years change to seconds.
-
-Therefore, my body is eternally exposed to the wind, polished and clouded like a mirror, and crumbling apart.
-
----
-
-"――――――――Oh"
-
----
-
-Go forward.
-
-This place is painful.
-
----
-
-A zero gravity without any handhold.
-
-An airless vacuum.
-
-The world of wind erosion is not a place one can stay in human form.
-
----
-
-That's why I move forward.
-
-My volume doubles with each step I take, and it gets harder to breathe.
-
-One step.
-
-Two steps.
-
-The third step is impossible.
-
-I can't go any farther. The wind gets stronger the more I advance, tearing at my body.
-
----
-
-But I have to move forward if I want to escape.
-
-The wind is coming from the other side of the light.
-
-The light is the entrance and the exit.
-
-――――This place hurts.
-
-So I have to quickly get to the other side.
-
-A stronger wind is there once I pass the entrance.
-
-Once past the exit, this pain would become lighter.
-
----
-
-"Ha――――ah, ahh――――!"
-
-I reach out my hand.
-
-I reach out with all my might.
-
-The light is in front of me.
-
-But I can't reach it.
-
-The polar light destroy my eyes.
-
-I can't reach it no matter what.
-
----
-
-It hurts.
-
-I can't reach it even if I cough up blood and reach out.
-
-Why?
-
-It's only a meter away.
-
-So why?
-
-Why does it feel like I'm trying to head to the distant polar lights?
-
----
-
-"――――Shirou."
-
-"Eh?"
-
-I wake up.
-
----
-
-"You can't. You'll die if you take it off just because it's painful."
-
-"――――――――"
-
-I blankly stare at Illya, standing before me.
-
----
-
-"Illya...? Why are you in my room?"
-
-"Because my room is close to yours. I woke up early, so I came to look at you."
-
----
-
-...Man.
-
-It seems she woke up before me and came here.
-
-I don't care about that, but maybe Illya did so because――――
-
----
-
-"...Hm. Was I having a nightmare?"
-
-"Yup. You were moaning in pain, trying to pull that cloth off your arm.
-
-Well, I came here because I expected you to do that. I suppressed the pain while you were asleep, so it feels better now, right?"
-
----
-
-"Oh――――"
-
-I now notice that my right hand is on the cloth covering my left arm.
-
-.....Oh man.
-
-If Illya hadn't come, I might've taken it off in my sleep.
-
----
-
-"――――I see. Thank you, Illya."
-
-"You don't have to thank me. It's between you and me.
-
-And I promised, right? That I'll help you when you're in trouble."
-
----
-
-"――――――――"
-
-Her smile captivates me.
-
----
-
-I know Illya's just saying that out of kindness, but...
-
-"Fufu, and I wanted to see your sleeping face. You were in pain, but your were trying your best to endure it. You were so cute."
-
-I slam the brakes on my panicking heart.
-
----
-
-"――――Illya. It's not good to go into someone else's room without permission.
-
-Mornings and evenings are out of the question. I'm an ordinary guy, so it's troubling."
-
-"Oh, really? How is it troubling? I want to know in detail."
-
----
-
-"Ugh―――even that question is troubling.
-
-First of all, you're a girl, so you can't go into a guy's room in the morning. It's dangerous. It's really dangerous. You're not just endangering yourself, you're putting the innocence of an adolescent boy at risk too."
-
----
-
-"Really? But that makes even less sense. What's so bad, and what's so dangerous about it? I won't stop unless you tell me why."
-
----
-
-The silver-haired girl puts her hand down, gets on all fours, and...
-
-"See, I'm closer to you now. So, why is it troubling for me to come near you in the morning, Shirou?"
-
-"Y-Y-Y-Y-You idiot...!!!!!"
-
----
-
-I roll backward head-over-heels while keeping ahold of my futon.
-
-That was close.
-
-Guys experience a certain physiological phenomenon every morning.
-
-I could be given a man's mark of shame if she comes close to me in such an outf――――
-
----
-
-"Oh."
-
-"Gah――――"
-
-I hit the back of my head hard.
-
----
-
-"Ah, guh――――that's why... I said it's dangerous."
-
-I make up an excuse.
-
----
-
-"O-Okay. I'm sorry, Shirou.
-
-...Um, did it hurt...?"
-
-It hurts.
-
-I saw stars and my head is throbbing, but I can't be whining if I hear a voice like that.
-
----
-
-"No, I'm fine. It was a good wake-up call, so don't worry about it."
-
-I shake my head and get up.
-
-My morning issue has calmed down thanks to that.
-
----
-
-"...All right. It's about time, so I'm going to go cook breakfast. What do you want, Illya? If there's anything you don't like, say so now."
-
----
-
-"Eh? No way, you can cook!?"
-
-"Well, I can cook like everyone else. I don't know about Western snacks... but I guess I can manage pancakes."
-
-Illya's face lights up.
-
-It seems the fact that I can cook is a delightful thing for Illya.
-
----
-
-"Hmm... Then do you want to make it together? I thought I'd go get you after breakfast's done, but it's better for you to be in the living room if you're awake."
-
-"Really!? Yeah, I'll go! I want to see you wearing an apron!"
-
----
-
-"I see. Then let's beat Tohsaka together with the three of us.
-
-I promised Sakura we'd be cooking together this morning, so we'll have the strength of three with your help."
-
-"――――No. I'm not going if Sakura's there. You go by yourself, Shirou."
-
----
-
-"Eh... Why? Because Sakura's there? Do you hate Sakura?"
-
-"No, I actually rather like her. But I can't approve of her because she's not suited for you."
-
-"...? What do you mean by not suited, Illya?"
-
----
-
-"It's true. You ought to know why, but you're trying so hard not to notice it. Telling you now won't do any good."
-
-Illya goes out into the hallway.
-
----
-
-"And I don't know what kind of trance you were in, but don't keep charging ahead recklessly. You're watching Archer's magecraft, not Shirou's magecraft.
-
-...I know you'll eventually obtain the magecraft, but there's only the possibility right now. Your body will destroy itself from within if you try projection in such a state."
-
----
-
-"Projection――――?"
-
-I repeat Illya's word absentmindedly.
-
-At that instant...
-
-The cocking hammer goes down.
-
-The dream I saw while I was treated.
-
-I vaguely understand what it is and what it means.
-
----
-
-――――It's probably...
-
-Projection taken to the utmost limit, reproducing every weapon you've ever seen and making them your own.
-
----
-
-"...That's right. Archer's Noble Phantasm is 'magecraft' that only he can use.
-
-Archer is a blacksmith heroic spirit that can reproduce any weapon he sees. The power is something you can use too, now that you inherited his arm. You're probably not conscious of it now, but you'll remember the activation spell if you put your mind to it."
-
----
-
-"But don't think about using it just because you can. That priest is right. If you remove the cloth and use projection even once, you will certainly die.
-
-...So don't take it off, no matter what. I won't forgive you if you die like Kiritsugu. I'll never forgive you if you leave me alone before I kill you."
-
----
-
-Illya leaves.
-
-Her warning contains both caring strictness and murderous hostility.
-
----
-
-## Scene 07
-
-
-
-"Senpai, I'm done cleaning the turnip. How are the chicken wings going?"
-
-"―――Yeah, I'm done skimming the foam. Let's cook it once we've cut those into four pieces."
-
----
-
-"Okay. What are you doing with the curry powder, Senpai?"
-
-"I'm making the sauce. We'll put it on the sardines. Even if Illya doesn't like fish, she should be able to eat it if it's curry flavored, right?"
-
----
-
-"I see, you're smart, Senpai! Then I'll cut the fish, so please check the simmering."
-
----
-
-"Huh? No, I can cut the sardine without the knife, so you don't have to. I'll ask for your help when I get to the center bone, so can you make simmered pumpkin with broth and soy sauce? I think we should have at least one sweet dish."
-
-"Okay. Oh, you look like a sushi chef when you're cutting the fish one-handed like that, Senpai."
-
----
-
-Sakura goes to the refrigerator.
-
-Sakura must be feeling better after a good night's sleep, because she's in a good mood this morning.
-
----
-
-"――――――――Hm."
-
-And standing in the kitchen with her is fun for me too.
-
-Sakura is thoughtful and is attentive to my needs, preparing things ahead of time.
-
-It feels really good to cook with someone like that.
-
----
-
-"Senpai? Sushi chef, your hands aren't moving."
-
-"Hm? Oh, I was spaced out. We should hurry. It's almost seven o'clock."
-
----
-
-I sigh so she can't see and continue cutting the sardine.
-
-Sardine is soft, so it's better to use fingers than a knife. It's something even I, one with my left arm not moving, can manage to cook.
-
----
-
-"But when did you learn such a technique? It's not normal to do it with just your right hand."
-
-"It's not a technique. This is about timing and determination. I'm sure you can do it too if you try."
-
----
-
-"Oh, is that so?"
-
-"Yeah. Techniques are things like cutting apart a cow with a kitchen knife or making an ice sculpture.
-
-Here, take care of the rest. We'll cook it after you're done, so put it in the bowl."
-
----
-
-I move away from the cutting board and walk to the gas burner.
-
-I put the frying pan over the fire and pour some oil onto it.
-
-My body knows how to do this, so I do it absentmindedly.
-
----
-
-"Um, Senpai...?"
-
-"Hm?"
-
-I vaguely reply.
-
----
-
-"...This might be none of my concern, but did something happen between you and Illya-san?"
-
-"――――――――"
-
-My hand stops.
-
-But it's only for an instant.
-
-I'm sure Sakura didn't see my disturbance.
-
----
-
-"Yeah. We talked before I came to the kitchen. Illya has a lot going on. I really don't know how to answer her."
-
-"...Is that a problem as a Master?
-
-Does Illya-san still want to fight?"
-
----
-
-"No. I don't feel a will to fight from her. ...No, I don't think she had such a thing from the start. I think she tried to obtain the Holy Grail as the Master of Einzbern, but Illya had another goal.
-
-But..."
-
----
-
-...That goal disappeared long before the war even started.
-
-Illya's goal.
-
-Emiya Kiritsugu, the one she wanted to meet, died five years ago.
-
-Then―――what can I do and what should I do in his place?
-
----
-
-"Hey, Sakura. Is it all right if Illya stays here if she doesn't want to go back to her country?"
-
----
-
-"Oh―――um. This is your house, Senpai. My opinion doesn't really matter."
-
-"What are you saying? This is your house. I can't decide on something important like having Illya stay without consulting my partner."
-
----
-
-"I――――I'm your partner...!?"
-
-"Yeah. Who else would it be?"
-
-Neither Illya nor Tohsaka can help me with cooking this perfectly.
-
----
-
-"Sakura, the frying pan's ready."
-
-I take the sardine Sakura prepared.
-
-Sakura hands me the sardine with an airy motion.
-
-......?
-
-What is it all of a sudden?
-
-Did she get a fever again...?
-
----
-
-"O-Okay, I understand...! I'll do my best to get along with Illya-san...!"
-
-"―――Yeah, it'll be great if you can. Illya said she doesn't hate you, so you should be able to get along with her if you talk with her."
-
----
-
-...Yeah, I'll be really happy if that happens.
-
-After the Holy Grail War is over, Sakura and Illya will be here making breakfast without worry.
-
-I'll pay any price for such a wish to come true――――
-
----
-
-"Good morning. You two sure are up early on Sunday."
-
-...Wait.
-
-Something amazing just passed by.
-
----
-
-"S-Senpai... did some strange person pass by just now?"
-
-"...Ugh. If you saw it too, that means it wasn't just my imagination."
-
-We timidly look into the living room.
-
----
-
-The person that shambled over to the table glowers as she pours herself some tea and turns on the TV.
-
----
-
-"...I'm surprised. Tohsaka-Senpai isn't a morning person..."
-
-"......"
-
-Wait, Sakura.
-
-Doesn't someone who's not a morning person, um, look cuter?
-
----
-
-Breakfast starts.
-
-Sakura and I sit next to each other, while Tohsaka and Illya sit across from us.
-
----
-
-"Oh, wow. This has some refined taste, Sakura. I guess this deserves to be eaten."
-
-I don't know if Illya is attacking or praising Sakura.
-
----
-
-"Geez. I usually don't eat in the morning."
-
-Tohsaka complains as she eats the omelet.
-
-"――――Hm."
-
-...Then, for some reason, she silently starts concentrating on eating.
-
----
-
-"......"
-
-Breakfast continues quietly.
-
-The only loud thing is the TV Tohsaka turned on, offfering many topics of information.
-
----
-
-"Hm......?"
-
-―――A familiar scene is on TV.
-
-I can't be mistaken.
-
-The TV is showing a baffling story about a park in Shinto.
-
----
-
-"......A missing person in central park? ...A lot of blood around the area...?"
-
----
-
-It's a pretty vivid incident.
-
-An old man was jogging in the park, found a trace of blood, and reported it to the police.
-
-A policeman came to the scene and found what appeared to be one person's worth of blood and pieces of the apparent victims.
-
-...But it seems the pieces are just scraps of flesh, and that they don't even weigh fifty kilograms when gathered together.
-
----
-
-"...The police are trying to figure out the four victims' identities... wait, why four people? There was only enough blood for one, right?"
-
----
-
-"That's probably because the scattered flesh came from four people.
-
-I'm sure there were only leftovers, but that must have been enough to figure it out."
-
----
-
-"...Tohsaka.
-
-By 'leftovers'... do you mean this is a Servant's―――Zouken's doing?"
-
-"Who knows? I can't tell if Zouken had a hand in this. But I'm sure that shadow did this. See the corner of the screen? The grass has turned black. It's exactly like when the shadow appeared in the forest."
-
----
-
-"――――――――"
-
-Tohsaka states simply.
-
-But I'm not convinced for two reasons.
-
----
-
-"Why? No matter what that shadow may be, it hasn't done anything like this before. It has sucked up magical energy from people, but it never, um..."
-
-Directly killed people like this.
-
----
-
-"...You're right. The only reason I can think of is that there aren't any enemies now. There aren't any Masters now that can defeat them straight-on. So that means they can do whatever they want without worrying about whose attention they may get, right?"
-
-"―――Does that mean they're being indiscriminate?"
-
----
-
-"...I don't know. I'm the one that said it, but it doesn't seem like it. Even if Zouken and that shadow are related, I'm sure this was an unforeseen accident.
-
-I'll bet my omelet that Zouken is surprised to hear this news as well."
-
----
-
-...Tohsaka's omelet is gone as she speaks.
-
-Her hawk-like eyes are looking at the only untouched omelet on the table, mine.
-
----
-
-"......Hm. Why do you think it's an unforeseen accident?"
-
-"It's not cleaned up. With the blood aside, Zouken's not someone that would leave pieces of the dead body behind. In other words, Zouken was not at the scene, and that shadow was the only thing that ate there."
-
----
-
-"―――I see. ...Then one more thing. How do they know there were four victims? There was only one person's worth of blood, and there was only one person's worth of flesh."
-
----
-
-"It's the shape, not the weight. I'm sure there was four of something people only have one of. That way, you'd know how many victims there are without any identification.
-
-See. If there were four left hands in a pool of blood, anyone would know how many victims there were."
-
----
-
-Tohsaka states simply.
-
-"――――――――"
-
-I imagine the scene and my appetite quickly goes away.
-
----
-
-## Scene 08
-
-
-
-After breakfast...
-
-"Shirou. We have to do some things, so come with me."
-
-Tohsaka takes me to the dojo.
-
----
-
-I had no reason to refuse and I also wanted to talk to Tohsaka, so it was a timely offer.
-
-It was, but...
-
-"Hey. I only wanted Shirou. Why are you all following him?"
-
-Tohsaka is unhappy at the unexpected guests.
-
----
-
-"...Um, you're menacing, so I thought it's dangerous for Senpai to be by himself."
-
-"Hey now. I made a pact with Shirou, so I won't attack him. You know that, so why did you follow us, Sakura?"
-
----
-
-"B-Because it's my role to protect Senpai."
-
-"...You declare, huh?
-
-Then how about you? You should know what I'm going to do. Did you come to heckle me?"
-
----
-
-"No. I'm here for the same reason as Sakura.
-
-I know what you want to do, but I don't know how you're going to do it. I came to make sure you don't do anything strange to Shirou."
-
----
-
-"...Oh well. I'm going to tamper with his body for his own good, so don't jump to conclusions and interfere, okay?
-
-We don't have time to be taking things slow."
-
----
-
-She must have prepared it before breakfast, as Tohsaka's bag is at the dojo.
-
-It's full of equipment like what I saw at her house, and it's easy to guess what'll happen, but...
-
----
-
-"Sorry. Can I say something beforehand?"
-
-"What? Don't tell me now you don't want anything that hurts."
-
----
-
-"Of course. Nobody wants anything that hurts.
-
-Anyway, any normal person would run away after seeing these things with no explanation."
-
----
-
-The other two nod.
-
-I have two reliable supporters this time.
-
----
-
-"I'm sorry I'm not explaining things to you. I know I'm not normal compared to you. You can go somewhere else if you have any complaints."
-
-Oh.
-
-Tohsaka's sulking, unhappy about the three-on-one situation.
-
----
-
-"No, I'm not complaining. I have a vague idea of what you might be doing. That's why I'm putting every trust in you. I'll trust you no matter what you tell me to do. I promised you last night, right?"
-
----
-
-"H-Heh. Then why did you stop me?
-
-If you don't have any questions, then sit and be quiet."
-
----
-
-"No, this isn't about that. I want to make sure what our future course of action is. We have to decide now what we should be doing."
-
----
-
-...Everyone's expression changes.
-
-What I just mentioned is a problem we all postponed last night.
-
-What we will fight against, and what we will do.
-
-We can't back out after we make our decision.
-
-No, we already can't back out, so this is just a statement of our resolve.
-
----
-
-"........."
-
-"I'm not going to take part in battles. I'll fight if someone attacks me, but I don't intend to start a fight myself. I don't know what'll happen even if I win this Holy Grail War."
-
----
-
-"...I feel the same way as Illya-san. I don't think I can beat Grandfather.
-
-The match is pretty much decided, so I don't think Grandfather will come attack us if we stay quiet here..."
-
----
-
-"............"
-
-...Tohsaka doesn't say anything.
-
-I don't know what she's thinking, but I want to believe she has the same opinion as me, since she's not agreeing with Illya or Sakura.
-
----
-
-"―――You're right. I agree with concentrating purely on defense.
-
-Sakura stays here to defend against Zouken.
-
-Rider is with Sakura, so she should be able to defend Sakura and Illya if she concentrates on defense."
-
----
-
-"Tohsaka and I will try to come up with a way to defeat Zouken.
-
-We'll be attacked eventually even if we stay here, and we can't leave them be. We don't know if something like this morning's news is going to happen again."
-
----
-
-Tohsaka doesn't interrupt.
-
-It means she intended for the two of us to fight Zouken, no matter what her true opinion may be.
-
----
-
-"I can't ignore Zouken, but I can't ignore the shadow either. Tohsaka and I will start patrolling the town tonight, so Sakura and Illya are to stay here and keep watch."
-
----
-
-I confirm the plan with everyone.
-
-――――Then.
-
----
-
-"W-What are you saying, Senpai...!?"
-
-"Sakura...? What? It's nothing ridiculous, right?
-
-Tohsaka and I are the only ones who can fight, so we have to beat Zouken."
-
----
-
-"That's the ridiculous part...!
-
-You can't use one of your arms anymore! Do you really know what that means...!?"
-
-"Eh―――――Sakura...?"
-
----
-
-"...I don't get it. You're acting strange. Why are you going to fight even after what's happened to you?
-
-You should know that things are out of your hands now because you actually took part in it. So why are you saying such a ridiculous thing?
-
-I was relieved because I thought you wouldn't fight with one arm, so why―――"
-
----
-
-"...........Sakura."
-
-Sakura is trembling.
-
-She's hanging her head as she trembles at her words.
-
-I don't know why she's trembling.
-
-The only thing I can do is to answer her question.
-
----
-
-"Sakura. I'm going to let you win. That's why I'm fighting.
-
-Yes, I don't want to ignore Zouken and the shadow. But more than that, I want the Holy Grail. Nobody's making me do this. This is a selfish wish of mine."
-
----
-
-―――That's right.
-
-It's a selfish wish I had ever since I decided to be Sakura's ally and not everyone else's.
-
----
-
-".........Is that for my sake?"
-
-"―――Yes. It will be for your sake if we can remove the crest worm from your body."
-
----
-
-"...It's all right, Sakura. If there's no chance of victory, we'll make a chance, and we won't fight while we don't have any chance of victory.
-
-There's still danger even if we have a chance, but there's always a risk, so I can't promise you I won't get hurt.
-
-―――But I'll definitely come back. I told you I'd protect you, right? So I can't fulfill my promise unless I'm by your side."
-
----
-
-"Sen... pai..."
-
-Sakura looks down painfully.
-
-It looks like she's apologizing.
-
----
-
-"――――All right, can you stop it there?
-
-Our course of action's already determined, so it does no good to whine.
-
-Sakura and Illya are to stay here. Shirou and I will patrol the town at night. We won't carelessly attack Zouken even if we find him. We'll chip away at their force only when we have a chance of victory.
-
-That's our future course of action, right, Shirou?"
-
----
-
-"Y-Yeah... It'd be great if that's your decision."
-
----
-
-"――――Heh. I don't even need to tell you."
-
----
-
-"And, Sakura. Kirei couldn't completely extract your crest worm, but he suppressed its action. So it can't run wild unless they use a drug on you like Shinji did.
-
-But at the same time, Zouken can't be the winner as long as you stay here in this house. He's going to come take you sooner or later, so refusing to fight is not an option. How can you say you won't do anything knowing that?"
-
----
-
-"That may be true, but―――Grandfather shouldn't do anything rough if we don't do anything―――"
-
----
-
-"Sakura! Stop being so submissive. Zouken isn't your grandfather or your master. Do you still think he's human after all the terrible things he's done to you!?"
-
-".........No. I've never thought he was human."
-
----
-
-"Then prepare yourself. Shirou and I will be fighting outside, so you have to fight here too.
-
-If Zouken attacks this place, you have to get away at any cost. The Holy Grail cannot be completed as long as Rider isn't defeated. You have a hope of being saved as long as Rider's alive."
-
----
-
-Tohsaka's voice is firm.
-
-...Is it the dignity of the older sister?
-
-Sakura nods and replies that she understands.
-
----
-
-## Scene 09
-
-
-
-And after that.
-
-I ask why she brought me here to the dojo.
-
----
-
-"Let's see. Why don't you get naked to start with?
-
-No matter what we end up doing, nothing would go right unless I take a look at what kind of a body you have."
-
-And she gives me a ridiculous reply.
-
----
-
-"Wha-"
-
-"WHA-WHAAAAAT!?"
-
-"...Whaaat?"
-
-I continue in a small voice because she's more surprised than I am.
-
----
-
-"What? Is that such a shock, Sakura?"
-
-"I-It is...! You want Senpai to be naked!? What are you thinking, Tohsaka-Senpai...!?"
-
----
-
-"I'm thinking about Shirou, of course.
-
-You're in danger, but Shirou's also in a lot of danger. You should know too that we have to get a lot of things done now."
-
-"...That's true... but..."
-
----
-
-"If you know, then don't butt in.
-
-Hey there! Don't just stand there and take off your top! I'm going to put on a warding sign, so I can't do it if you keep your shirt on!"
-
-Tohsaka glares at me.
-
----
-
-"Ugh......"
-
-But Sakura's stare is painful.
-
-It's uneasily asking me if I'm going to go along with Tohsaka.
-
----
-
-"Hurry up. We won't make it before tonight's patrol unless we give your body some time to familiarize itself with it."
-
-"Umm......"
-
----
-
-This is no time to be embarrassed about something like this.
-
-I don't want to take my clothes off, but taking off my top is like getting changed, so it shouldn't be a big deal.
-
----
-
-"...Man. All right, Tohsaka. So, what do I do now?"
-
-"Come here. I'll transplant a small part of my Magic Crest onto you."
-
-"...! Over there!? You mean like this!?"
-
----
-
-"Of course. I have to touch your body with my left hand, comprehend it, and share my warding crest with you. It'll tickle and hurt, but bear with me."
-
-Tohsaka wiggles her fingers.
-
----
-
-"Ugh――――"
-
-...I can't run away after coming this far.
-
-I give up and go near Tohsaka.
-
-...Um, Sakura's stare is more painful now.
-
----
-
-"I'm going to start now, but let me confirm beforehand. I said before that I'll put a switch in you, but I won't do that.
-
-In your state, it's too dangerous to be able to turn your Magic Circuit on and off so easily."
-
----
-
-"O――――Okay, I got it."
-
-I manage to reply with a high-pitched voice.
-
-It's natural that I'm acting strange and can't breathe.
-
-I'm naked, and Tohsaka is near me.
-
-It'd be more strange not to be nervous!
-
----
-
-"Hey. You don't seem to be calm. Are you listening to me?"
-
-"――――I'm listening. I'm listening to you."
-
----
-
-"......? All right, then.
-
-So this operation is to suppress magical energy.
-
-Your body is unstable right now, and we don't know when Archer's arm might flow magical energy into your body. I'm going to put needles into your left shoulder, belly button, and your throat, so that your left arm won't be connected to you unless you really want it to be."
-
----
-
-"This is also a countermeasure against the shadow.
-
-That thing sucks up magical energy just by being there. The sign I'm going to carve into you will also have resistance to magical energy, so you should be less burdened when facing that thing."
-
-Then, Tohsaka places her hand on my chest.
-
----
-
-"Whoa――――!"
-
-I barely stop myself from jumping back.
-
----
-
-"Oh, was it hot? Can you bear it? I'm going to transplant the Magic Crest from my arm, so I can't lower the temperature."
-
-"No――――I don't care about it being hot or cold."
-
----
-
-Tohsaka's hand is soft, and her touch sends a shudder through my heart.
-
-Every time her slender fingers run across my chest, my temperature rises by a degree.
-
----
-
-"......All right. I think I have a grasp of your chest. Next is your belly button, but this is going to hurt. I'm going to put my finger in, so try not to move. Don't worry, it won't injure you, and I won't move it around much."
-
----
-
-"Hey――――what do you mean by move it, Toh... saka――――!"
-
-My body convulses.
-
----
-
-―――My stomach.
-
-Having Tohsaka's hand on my stomach is bad enough, but something rigid tears through my skin and into my body――――!
-
----
-
-"Haa――――h-hold on, that's, ba――――"
-
-"I-I said it's going to hurt. Don't make noises like that, it's distracting. It makes me feel like I'm doing something wrong!"
-
----
-
-"A-Are you stupid――――!?"
-
-My face is going to get redder if you say something like that, you idiot!
-
----
-
-"...Humph. I'm done with the belly button. All that's left is your shoulder and throat, so stay calm and don't run away."
-
----
-
-"........."
-
-I would really love to run away right now.
-
-I would love to, but doing so would seem like I'm conscious of Tohsaka and I won't be able to excuse myself.
-
----
-
-"Come on. I'm going to do the same thing to your shoulder, so suck it up. Grit your teeth and don't make any weird noises."
-
-"O――――Okay. I'll try my best."
-
-It's embarrassing, so I look away from Tohsaka.
-
----
-
-It's not just my face that's blushing. I think my entire body's turning red.
-
-I'm blushing even though I know this is only for magecraft, so I bet Tohsaka's having a hard time too.
-
-...Man.
-
-How can I ever face Tohsaka again after committing such a disgrace...?
-
----
-
-"All right, that's it. I'm going to put away the equipment, so you go cool yourself off."
-
-Tohsaka grabs something that looks like a first-aid kit and goes to the corner of the dojo, where her bag is.
-
----
-
-"――――――――"
-
-My face is still red, but I'm finally able to calm down and take a deep breathe.
-
-...Then.
-
----
-
-"......?"
-
-Sakura twiddles her fingers, looking like she wants to say something.
-
----
-
-"...Sakura? W-What's wrong?"
-
-".........Um, well..."
-
-She takes a look at me.
-
-Then she takes a breath, as if preparing herself...
-
----
-
-"Um, Senpai...! W-We, um... made love, right!?"
-
-...And she asks me a ridiculous question.
-
----
-
-"――――――――"
-
-My face, which had finally calmed down, passes its boiling point and turns red again.
-
----
-
-"Ah――――um."
-
-I feel dizzy.
-
-Just recalling what happened that night is so stimulating that it makes me forget about our current situation.
-
-So for Sakura to ask me fro confirmation like this, when I'm already off-balance from Tohsaka, is like getting hit twice as hard――――
-
----
-
-"Um... Senpai?"
-
-"――――――――"
-
-No.
-
-This isn't the time to be speechless.
-
----
-
-"――――Yeah, I did make love to you."
-
-"R-Right!? Then it's strange for you to lose your composure against Nee-san!"
-
----
-
-Sakura looks up at me unhappily.
-
-...I finally realize why her stare was so painful earlier. It's because she was sulking.
-
----
-
-"I-I'm sorry. But Sakura, this had nothing to do with Tohsaka, and, um, it couldn't be helped."
-
-"I-I know, but please bear with it! You're m-m-my lover!"
-
----
-
-"―――――Ugh. I... know that, but..."
-
-I couldn't fight against it.
-
-I'm a guy, and I've admired Tohsaka since I got into this school, so I couldn't help it.
-
----
-
-"...I'm sorry. I'll try to bear it next time. I'll do my best not to lose my composure."
-
-"...Really? I'll get mad if this happens again next time."
-
----
-
-She stares straight at me.
-
-Repentant from the bottom of my heart, I tell her I'll do my best.
-
----
-
-...Man.
-
-I only realized it just now, but...
-
-Having three girls under the same roof might be a really stressful thing.
-
----
-
-## Scene 10
-
-
-
-It's eleven-thirty now.
-
-With lunch coming up, the kitchen is filled with a noisy, forbidding atmosphere.
-
----
-
-"Um, Tohsaka-Senpai. I'm thinking of making a dish that everyone can eat from. Do you have anything you don't like?"
-
-In the kitchen...
-
-With the refrigerator at her back, Sakura speaks timidly.
-
----
-
-In response...
-
-"I see. Then I'll make mapo tofu."
-
-...Tohsaka cuts her off and selfishly starts cutting the tofu.
-
----
-
-"―――They aren't getting along. What were you thinking, letting them cook?"
-
-Illya sits Japanese-style on the cushion and speaks without reserve.
-
-Hm. It seems even Illya can tell Tohsaka and Sakura are tense.
-
----
-
-"It's just going to get worse if you leave them be.
-
-You should know that, so how did you let it come to this?"
-
----
-
-"It just sort of happened.
-
-We were wondering about lunch. Tohsaka said she'd make it, and Sakura said it was her job. Neither one would back down, so I took both their ideas and suggested that they make lunch together."
-
----
-
-"You said that? ...I see. No wonder they can't back out now."
-
-Illya seems to understand and takes a sip of tea with proper manners.
-
-As expected from a princess. She shouldn't know the proper etiquette, but she's elegant even with something as simple as this.
-
----
-
-"But Shirou. Couldn't you have made lunch? Why did you get Rin and Sakura to do it?
-
-Tohsaka and Matou are enemies, and Rin wants to kill Sakura."
-
----
-
-"That was only up to yesterday. Tohsaka is working with us because she doesn't want to fight Sakura. And they aren't enemies. They get along, and I entrusted them with lunch because I thought it would go well."
-
----
-
-"Huh―――they get along!?"
-
-"...? Is that so surprising? Illya and I are friends even though we were enemies, right? Then it should be the same for Tohsaka and Sakura."
-
-"Eh... Well, Shirou and I are special..."
-
----
-
-"Being special has nothing to do with this. You'll understand if you watch. Tohsaka is being more blunt than usual, but she warns Sakura every time she does something wrong. It means that..."
-
-"......She's concerned about her. But she's putting on a cold face and ignoring her because she doesn't want her to find out."
-
----
-
-"Right. And Sakura knows that, so she's making mistakes she normally doesn't. She's concerned about Tohsaka too."
-
-"...Now that you point it out, I can see it. Then what? They want to get along, but they're too embarrassed to start talking?"
-
----
-
-I nod.
-
-I don't know about Tohsaka, but I know how Sakura feels.
-
----
-
-Sakura likes Tohsaka, and she wants Tohsaka to like her.
-
-Or she would never call her Nee-san.
-
----
-
-"...I see. So Rin is clumsy, in spite of her appearance."
-
-Impressed, Illya murmurs and looks in the kitchen.
-
----
-
-"――――――――"
-
-I follow her example and look in the kitchen.
-
-They must be half done with the cooking.
-
-Standing side-by-side in the small kitchen, Tohsaka and Sakura are making their dishes.
-
----
-
-"――――――――"
-
-"――――――――"
-
-One holds the frying pan while the other holds the ladle, but neither says anything.
-
-...And after a silence that even gets us nervous...
-
----
-
-As expected from sisters, they start talking at the same time.
-
----
-
-"What? Go ahead, I'll listen to whatever you have to say."
-
-"Oh... um, it's really nothing. Didn't you want to say something?"
-
----
-
-"...It's nothing. Well, different people cook differently, right? So I thought it might be useful if you can teach me some of your flavorings."
-
-"Y-You're right. I'd love it if you could teach me your recipes, Tohsaka-Senpai."
-
----
-
-"――――――Hm."
-
-"...That's it? I don't believe this. At this rate, they'll be like that forever."
-
----
-
-"......"
-
-It's scary that I can't deny the possibility.
-
-Tohsaka is normally dominant, but why is she so shy when it comes to Sakura?
-
----
-
-And Sakura too.
-
-She calls Tohsaka Nee-san when she's with me, but she's reserved when she's actually with her.
-
----
-
-"――――Sakura."
-
-"Huh? Oh, yes, what is it, Senpai?"
-
-"I need to talk to you. Can you come here?"
-
----
-
-"Senpai? Is there something outside?"
-
-"No, being outside isn't the important part. I just wanted to talk secretly."
-
----
-
-"Um... talk secretly...? Um, is this something you can't let Nee-san hear?"
-
-"That's it. That's exactly what I want to talk about."
-
----
-
-"...?"
-
-"I'm talking about how you address Tohsaka. You don't call her Nee-san when you're with her. It's obvious that you really want to call her that."
-
----
-
-"Eh―――you mean it's obvious to Nee-san!?"
-
-...Whoa.
-
-I just made that up, but it seems Sakura is more reserved about her sister's feelings than I thought.
-
----
-
-"N-No, Tohsaka doesn't know. I don't know why, but she's really dense when it comes to you. ...But in the worst case, she might think that you hate her."
-
----
-
-"T-That's not true...! It's natural for Nee-san to hate me, but I'm happy to be with her. I never even dreamed that we could make lunch together..."
-
----
-
-"Right. Then why don't you just be honest with her? Even someone as dense as Tohsaka can't possibly miss it if you tell her straight-out. Then you should be able to..."
-
-Sakura should be able to realize by herself that Tohsaka wants to get along with Sakura.
-
----
-
-"...Um, Senpai?"
-
-"―――It's nothing. Just go call Tohsaka Nee-san.
-
-I'll bet you she changes so much that it's funny."
-
----
-
-"...Would it really turn out like that? I think having someone like me calling her 'Nee-san' will only bother her.
-
-I'm a magus of Matou, and I can't do everything like Nee-san can. Tohsaka-Senpai is probably disappointed that a failure like me is her sister."
-
----
-
-"You idiot. Don't bring other things into a sister's relationship. You like Tohsaka, and she's your big sister, right?
-
-Then there's nothing more important than that. I'll guarantee it. There's mutual love between you two. To be honest, there's so much love that I'm a bit jealous."
-
-"Eh... I-Is that so?"
-
----
-
-"Yeah. So you call her Nee-san.
-
-I think Tohsaka believed in it, just like you did. So there's nothing to be scared of. It's for her sake too. Please call her Nee-san."
-
-"――――――――For Nee-san's sake."
-
----
-
-...I don't know what's going on in her mind.
-
-But after putting her hands together, as if praying, and thinking it over...
-
-"Okay. I'll do my best."
-
-She smiles softly in thanks.
-
----
-
-――――We return to the living room.
-
-Sakura exchanges a glance with me, takes a deep breath, and heads to the kitchen.
-
----
-
-"Welcome back. Sakura's tensed up. What happened?"
-
-"Hm? The rest depends on her courage. Well, I'm sure it's going to go well."
-
-"...?"
-
-I sit down on the cushion.
-
----
-
-"―――Nee-san. Can I finish this fried chicken?"
-
-"Yes, all that's left is to fry it, so I'll leave it to you... wait, Sakura, did you just..."
-
----
-
-"Okay. If I'm doing the chicken, can you cut the lettuce, Nee-san? I'll leave the serving to you."
-
-"O――――Okay, that's fine, but..."
-
----
-
-...Everything goes still.
-
-They both fall silent, and the tension is much greater than before.
-
-"――――――――"
-
-"――――――――"
-
-Not even breathing, they stare at one another.
-
----
-
-"......Um, is it strange, Nee-san?"
-
-"Uh――――i-it's not that. I was just surprised because I've never been called that way."
-
-"...Then, um..."
-
----
-
-"I-I have nothing against it. You're free to call me whatever you want, and I'm calling you by name. Well, it could get confusing because there are two Senpai here, so that should make things clearer."
-
----
-
-Tohsaka makes it sound like it can't be helped and looks away.
-
-...But Sakura should be able to tell that she's blushing and can't hide her smile.
-
----
-
-...Their joint work got even more awkward after that.
-
-They messed up so many times that lunch turned out to be a disaster. The fried chicken was covered in pepper, the mapo tofu was hot as hell, and the rice cooker was never turned on, so we ended up eating without rice.
-
-But Tohsaka and Sakura both looked happy, smiling at every opportunity.
-
----
-
-"...Geez, they sure are clumsy."
-
-Illya sounds dumbfounded as she eats mapo tofu that's hot enough to numb your tongue.
-
-I nod back silently and gratefully eat the food they made.
-
----
-
-## Scene 11
+## Scene 10 Distortion
 
 
 
@@ -3230,7 +3236,7 @@ The clouded window reflects a face as ghastly as a skull.
 
 ---
 
-## Scene 12
+## Scene 11 Signs of disaster
 
 
 
@@ -3364,7 +3370,7 @@ Sakura kept eating and finished off the food while Tohsaka stared at her in surp
 
 ---
 
-## Scene 13
+## Scene 12 Tohsaka Rin(III)
 
 
 
@@ -3822,7 +3828,7 @@ But...
 
 ---
 
-## Scene 14
+## Scene 13 Release of the seal-Overture of breakdown
 
 
 
@@ -4140,7 +4146,7 @@ My whimpering finished, I decide to get some sleep for tomorrow.
 
 ---
 
-## Scene 15 [WARNING: H]
+## Scene 14 Connection of minds [H]
 
 
 
@@ -5260,7 +5266,237 @@ My tired body forgets about the fact that Sakura came to this room, the uneasine
 
 ---
 
-## Scene 16
+## Scene 15 Connection of minds [Realta Nua]
+
+…A small sound.  
+I awaken to the sound of footsteps.
+
+“---”  
+I wake up my dozing mind.  
+It’s almost two o’clock.  
+…It hasn’t even been thirty minutes since I fell asleep.  
+I get up, still unconsciously holding on to my left arm.
+
+“---Sakura.”  
+Outside the room.  
+I call out to the hallway where the footsteps came from.  
+It’s not that I know who’s there.  
+I just thought Sakura might be there.
+
+“…………”  
+……The door opens.  
+Sakura steps through into my room.
+
+“---”  
+Biting her lip in embarrassment, she looks down as if unsure of what to say.
+
+“……I’m sorry, Senpai. I, again…”  
+Sakura apologizes.
+
+“---”  
+But I’m the one who should apologize.  
+The reason why Sakura’s here.  
+I know well enough the pain she has to go through.  
+The crest worm feeds on her magical energy, so Sakura periodically needs to receive more from a magus.
+
+“…I should’ve gone to see you as soon as I came home. I’m sorry for making you suffer.”  
+I stand up.  
+I was so caught up with my left arm that I forgot about Sakura. I can’t be forgiven even if I apologize.
+
+“Um, Senpai…?”
+
+“I know. If you’re ready, let’s start right away.”  
+  
+  
+Sakura blushes and nods.  
+…There’s nothing for her to be embarrassed about, but maybe Sakura feels the act of sucking blood is somehow indecent.
+
+“Ah… but, um…”  
+She looks down, seeming troubled.  
+Oh, right.  
+We can’t start like this.  
+She bit my finger before, but this time I can share my blood in a more practical way.
+
+“Wait a second. I think it was in the desk.”  
+I stand up and turn towards my desk.
+
+But I unconsciously tried to move my left arm.
+
+“S-Senpai…?! A-A-Are you all right…?!”
+
+“… No, it’s nothing. I just felt a bit dizzy.”  
+Damn, that’s pitiful.  
+I used my left arm and was reminded of the pain.  
+Still, it shouldn’t hurt so long as I have the cloth on, so what am I frightened about?
+
+“Let’s see… all right, here it is.”  
+I rummage through the desk with my right hand and pull out a box cutter.  
+I push out the blade with a clicking noise, checking whether it’s gotten chipped or dull.  
+  
+  
+“…??”  
+I can’t make Sakura bite me, so I need to make myself bleed instead.  
+It’d be easier if I had a syringe or something, but unfortunately I don’t keep that kind of thing on hand.  
+So in this case, all that’s left is to quickly cut my arm and let the blood flow.
+
+“What did you mean by ‘all right’?”  
+My right hand is holding the box cutter. My left hand and the arm attached to it are wrapped up.  
+…This is stupid of me.  
+If I’m holding the cutter in this hand, then of course I can only cut the other arm. Even loosening the cloth hurts, so cutting it is out of the question.  
+  
+  
+“…???”  
+  
+But my left hand can’t move well enough to hold it.
+
+I think about what to do, and…
+
+I hear the echo of a howl.
+
+“………”  
+There’s still time, it says.  
+I don’t need this arm, it says.
+
+Think about it. Just loosening the cloth causes you that much pain.
+
+So there’s still time. There is a blade in your hand.
+
+“………”  
+You’ll waste your life on sealing that invasive thing away.  
+You’ll live in perpetual fear of that explosive that could go off at any time.  
+Even just its timer will be enough, so gouge it out with this box cutter.
+
+“………”  
+I freeze, holding the box cutter.  
+I’d decided not to hold onto this regret anymore, but holding a blade brings it back all of a sudden.  
+My heart hammers, cold and mechanical, and my eyes go out of focus.
+
+“Um… Senpai?”
+
+Her voice breaks the spell.  
+I lower the box cutter and breathe deeply.
+
+“Sorry. I was just thinking. It’s nothing important, so don’t worry about it.”
+
+“R-Really…? But, Senpai, you look…”
+
+“I’ve just got heartburn. It’s nothing compared to what you’re going through right now.
+
+Just wait. An injury as small as this will only take---”  
+  
+  
+I move the box cutter lightly.
+
+The pain was really nothing to worry about, only a small sting.
+
+“Oh… All right, this will do it.”  
+The blood flows more quickly than I’d thought.  
+Now, to give it to Sakura---
+
+“Aa---ah---”
+
+“………”
+
+…I drop the box cutter.  
+Sakura stares at the cut on my arm, and the trail of red liquid running along it.  
+She goes limp as thought her fright until now had been just an act.
+
+There’s an intoxicated look in her eyes.  
+Her moist, parted lips and pale throat move greedily.  
+She twists her body as she crawls across the futon towards me on all fours.  
+It’s as if some sleek beast has taken Sakura’s form.
+
+“…Sakura.”  
+I don’t know what to say at this sudden change.  
+…All I can do now is hold out my arm, dripping with blood to the wrist now, to Sakura.
+
+“Ah… mm…”
+
+The blood drips from my fingers.  
+It dribbles between her soft, wet lips.  
+The blood continues dripping onto Sakura’s outstretched tongue.  
+  
+  
+“……”  
+Sakura raptly licks my fingers.  
+I don’t feel the pain from the cut, only the softness of Sakura’s tongue at my arm.
+
+It’s happening again.  
+The irresistible sensation is coming back.
+
+“Ahh… mmm… It’s delicious… Senpai”  
+The sight of Sakura licking my arm is beautiful and captivating.  
+As though she hadn’t been frightened just moments before, Sakura’s charm stimulates my mind.
+
+“Ha… ah, ah---”  
+…It’s as though she’s lapping up honey.  
+Sakura’s lips gradually approach the cut.  
+They cover the still-bleeding wound.
+
+“---”  
+That indescribably pleasant feeling is back.  
+All the strength goes out of my shoulders. It’s a bewitching sweetness, different from when she was licking my fingers.
+
+“Uh---”  
+I grit my teeth and hold back my voice.  
+My blood is being taken, but the pleasant feeling pours in in its place.  
+The pain from the cut becomes dim, and I can barely feel my right arm anymore.  
+  
+  
+Sakura is pressed to my arm, drinking deeply.  
+I know this is to replenish Sakura’s magical energy, but to think it would be this sweet
+
+“Mm, mmm…”  
+Sakura’s murmuring voice stimulates my nerves.  
+The pleasure of her drinking my blood reaches all the way to the shoulder. My left arm is filled with pain and fear, while my right is filled with pleasure and loss.
+
+“---Saku…ra…”
+
+I embrace Sakura.  
+Holding her in the arm from which she’s drinking, I bring her close to my chest. Still, she keeps drinking as though it’s something delicious.
+
+“Haa… ah… Sen…pai… my… Sen…pai---”  
+The pleasure of the honey being sucked intoxicates me more than Sakura’s soft body, or the feeling of her lips at my arm.  
+A hard-to-describe urge arises in my mind.  
+I want to hold Sakura so tightly that she breaks.  
+  
+  
+---She continues to suck.  
+It feels like she’s sucking up my energy, not only my blood.  
+A thought enters my hazy mind.
+
+It reminds me of something.  
+  
+It doesn’t matter.  
+I don’t care.
+
+“Ahh… mm… your wound… is already”  
+  
+…How long did we stay like this?  
+Sakura reluctantly separates her lips from my arm.  
+…My head is heavy. It feels like Sakura is still drinking from me.  
+My mind feels like it’s floating through the air.  
+Still, I try to see if Sakura is okay.
+
+“Ahhaah… Thank you for the meal, Senpai---”
+
+Sakura looks down remorsefully.  
+With that, maybe because my magical and physical energy have been used up, the last of my tension disappears.
+
+“Ah---”
+
+…The power in my mind turns off.  
+I can’t think of anything.  
+I can’t remember the gentleness of Sakura’s arms, or the pleasant feeling of her sucking my blood.
+
+“This is just like---”  
+It’s like I just dreamed of giving Sakura my blood.  
+…I fall into a deep sleep.  
+My tired body forgets about Sakura dressing my wound and returning to her room, the uneasiness in my mind, what happened tonight.  
+  
+I go back to the light sleep I was having an hour ago---
+  
+## Scene 16 Nightmare(II)
 
 
 

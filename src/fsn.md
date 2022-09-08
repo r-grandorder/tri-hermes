@@ -19,7 +19,7 @@ This resource is ideally for lore-checking, not for reading the VN for the first
 * [Day 5](Novels/FSN/Fate/Day05.md)
 * [Day 6](Novels/FSN/Fate/Day06.md)
 * [Day 7](Novels/FSN/Fate/Day07.md)
-* Day 8 is skipped.
+* [Day 8](Novels/FSN/Fate/Day08.md)
 * [Day 9](Novels/FSN/Fate/Day09.md)
 * [Day 10](Novels/FSN/Fate/Day10.md)
 * [Day 11](Novels/FSN/Fate/Day11.md)
