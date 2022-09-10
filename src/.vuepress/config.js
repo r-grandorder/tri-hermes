@@ -5,7 +5,6 @@ const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics');
 const { searchPlugin } = require('@vuepress/plugin-search')
 
 module.exports = {
-    base: "tri-hermes.org",
     lang: "en-US",
     title: "TRI-HERMES",
     description: "TYPE-MOON Lore Database",
