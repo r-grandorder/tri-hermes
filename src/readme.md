@@ -10,7 +10,7 @@ footer: All scripts and images by TYPE-MOON ©
 * [Main Story](story.md)
 * [Events](events.md)
 * [Servant Materials and Interludes](servants.md) ~ Still WIP
-* [Anime/Movie/OVA](https://r-grandorder.github.io/tri-hermes/story.html#anime-movie-ova)
+* [Anime/Movie/OVA](https://tri-hermes.org/story.html#anime-movie-ova)
 
 ## FGO Arcade
 
