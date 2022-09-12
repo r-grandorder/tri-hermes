@@ -7,10 +7,7 @@
 
  
 **Narration:**
-Lord [[File:berserkervoice5.png---
-
-**Fujimaru 2:**
-50px]].
+Lord ![berserk5](https://i.imgur.com/RIXDSDj.png).
 Lord ![berserk5](https://i.imgur.com/RIXDSDj.png).
 
  
