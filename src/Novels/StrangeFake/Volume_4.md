@@ -4752,3 +4752,75 @@ Unaware that she was being complained about under her feet, the "thing" that had
  
 
 "Look forward to it, Gugalanna!"
+
+## Afterword 
+
+---
+
+Me: "You know how I said I'd wrap things up in five books? That was a lie."
+
+Nasu: "I knew it."
+
+Sanda: "I just wonder how you didn't realize back in book three."
+
+ 
+
+And so, I'm terribly sorry… As a result of my wanting to write fleshed-out episodes for all the factions, instead of just the main three, and also as a result of my playing the seven chapters and final chapter of Fate/GO, the plot has gotten considerably longer… When this volume only got up to the halfway point of what I was supposed to cover in volume four, I went, "Huh? I've filled up a whole book's worth?" and ended up in the predicament of putting preview scene from the end of the last volume in the endgame. My lack of foresight and the weakness of my mind, which gave in to the desire to write the Jack and Haruri factions as fully as Ayaka and co. instead of having them exit early, are the cause. So, while I sincerely apologize to the people who just thought, "But I bought it because it was supposed to end in five volumes!" I would appreciate it if you would bear with me for a few more books…!
+
+Now, to the people who have read to the end: I hope you now understand why I waited until after clearing FGO chapter 7 to write. Yes… it's about "her." "She's" been there since the plotting stage. Some time has passed since, one day, Nasu-san told me, "Oh yes, she's going to appear in FGO fused with ___, so take care," but I wanted to actually see "her" in action.
+
+ 
+
+"Oh… I'd heard that she's 'a horrible being who doesn't understand the human heart,' so I was thinking of making her as kind of a minor hysteric, but she turned out to be such a good character, even if she is fused with ___. Can I really kill her off quickly? No, I can't!"
+
+With something like that, I started revising characters and ended up adding a lot of plot as a result. Hehehe. Still, since being charmed by her qualities as a character and raising her to be strong in-game, I've gotten fired up all over again.
+
+ 
+
+Nasu: "Her raw personality, not fused with anyone? Add Tōsaka Rin and Luviagelita, divided by two and subtract most of the humanity. See? Simple, right?"
+
+Me: "You. Say that. So. Casually."
+
+ 
+
+With new anime, FGO, Extra and more, the Fate series continues to produce new works. That provides a strong impetus to a spin-off author like me.
+
+I enjoy the tear- and laugh-filled stories of the UBW anime, FGO and the Extra games. At the same time, while I have nothing to do with the games and so on, to me and Sanda-san in our positions as spin-off authors, they're occasions for nervousness and heavy breathing. "____-san tossed a new setting detail into the script this time! And it's interesting, so I can't complain!"
+
+ 
+
+Sanda: "SN Caster's Master was a middle-aged man of medium build! This Atrum guy's an oil baron, damn it!"
+
+Me: "Damn it! The setting! Bring me the setting! If this is how it's going to be, I'll make a real baccano out of it!"
+
+Sanda: "It's here, Narita! Ready-made details that I'm sure even Nasu-san's forgotten about!"
+
+Me: "Oh, well done!"
+
+In that spirit, we spent our days making progress with our work while fussing and occasionally conspiring with Mashin-san of Himuro no tenchi. Reconciling with the setting was hard work, but genuinely worth doing.
+
+Regarding well-known modern mages, they may no longer be mages in the TYPE-MOON world due to the concealment of Mystery, so don't let what Dumas says confuse you… Saint-Germain? Ha ha ha (deception).
+
+By the way, I suspect the phrase "Wallachian Night" in this volume may have caused some people who follow other TYPE-MOON works to think, "Huh?" Some may have already been confused about the phrase "Twenty-Seven Ancestors" in previous volumes.
+
+That concerns one of the parts that makes Fake "a completely different world even though the outcome is the same as SN," so I would be delighted if you would keep an eye on future developments in the Fate world.
+
+About Fake Caster's episodes and other characters: I generally consult biographies and reference books. When there is a discrepancy between those many sources and this text, I would appreciate it if you would decide that I've exaggerated the story and laugh it off…!
+
+ 
+
+Thanks:
+
+My editor, Anan-san, who I gave a lot of trouble with deadlines again this time, and everyone in the editorial department; all the Fate-related people, beginning with Higashide Yūichirō-san, Sakurai Hikaru-san, Urobuchi Gen-san, Mashin Eiichirō-san, Minase Hazuchi-san, and Hoshizora Meteo-san; Team Barrel Roll, who did part of the Servant background research for me; and Sanda Makoto-san, who, in addition to providing editorial oversight for magecraft, El-Melloi II's lines, etc., gave me a wonderful endorsement for the wrapper:
+
+Thank you very much!
+
+Morii Shizuki-san, who has found time in her busy schedule to produce wonderful illustrations and, most importantly, Nasu Kinoko-san, who created Fate and provided me with editorial oversight, along with everyone at TYPE-MOON, everyone on the Fate/Grand Order staff, who lifted my imagination with their wonderful production and story... and all the readers who picked up this book and made it this far:
+
+Thank you very much!
+
+ 
+
+March 2017, "Once this crunch is over, I'm going to play Horizon and Zelda…"
+
+Narita Ryōgo

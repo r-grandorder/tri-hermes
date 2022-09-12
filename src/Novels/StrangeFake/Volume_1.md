@@ -5107,7 +5107,7 @@ A mysterious man stood on the stage, his blond hair tinged red here and there, h
 
 The sword he gripped in one hand radiated the vestiges of a magical brilliance.
 
-Yes, vestiges, meaning—
+Yes, vestiges, meaning— 
 
 The faint glow of the sword was the trace of it having been swung, just moments prior.
 
