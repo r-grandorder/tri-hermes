@@ -1170,6 +1170,8 @@ Sieg nodded at Fiore’s suggestion.
 
 It would be much simpler if it were as Fiore said, and Ruler had been brought here merely to judge the conflict between two teams of the fourteen Servants.
 
+---
+
 “Hm… Servants are closing in, Sieg. Two of them.”
 
 “Yeah… it seems I can sense them too, somehow.”
