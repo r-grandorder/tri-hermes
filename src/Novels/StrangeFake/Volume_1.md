@@ -2,15 +2,15 @@
 
 ---
 
-![](https://i.lensdump.com/i/1KbJUm.md.jpg)
+![](https://i.imgur.com/XusrStW.jpeg)
 
-![](https://i2.lensdump.com/i/1KbsnC.md.jpg)
+![](https://i.imgur.com/bvfS9QH.jpeg)
 
-![](https://i3.lensdump.com/i/1KbKTz.md.jpg)
+![](https://i.imgur.com/QJG0E8P.jpeg)
 
-![](https://i1.lensdump.com/i/1KbHZ7.md.jpg)
+![](https://i.imgur.com/WzsHTvI.jpeg)
 
-![](https://i1.lensdump.com/i/1KbYEA.md.jpg)
+![](https://i.imgur.com/zDWmFkA.jpeg)
 
 
 ---
@@ -878,7 +878,7 @@ The king tossed her the bottle he had been holding.
 
 Archer glanced at her for a moment before going on. “If you wish to become my subject, I shall command you thus,” he said, majestically. Though he paid little attention to her, Archer was in high spirits as he delivered his kingly order. “You are but a mere child. Act as one. Until you learn the ways of the world, it will suffice for you to gaze upon my kingly might with jubilance.”
 
-![](https://i.lensdump.com/i/1Kw137.jpg)
+![](https://i.imgur.com/6wDprBo.jpeg)
 
 Though there was a touch of sarcasm in his words, they were nonetheless powerful.
 
@@ -986,7 +986,7 @@ Usually, Lord El-Melloi II would refuse to overlook a student’s weak points, u
 
 Master V had moved past anger. He had achieved a sort of ascetic enlightenment. That said, he looked as sullen as usual. He whacked his student and said, “I’ll pretend I never heard any of this. Now quit harassing me about this.”
 
-![](https://i1.lensdump.com/i/1KwCGD.jpg)
+![](https://i.imgur.com/HHTUZkL.jpeg)
 
 “I won’t be a bother, professor! I just, you know, I need some kind of item to summon a hero, right?! I don’t know how I’m supposed to find one of those! Like, if I had a portrait of Napoleon, could I summon Napoleon?! An emperor would be the coolest thing!”
 
@@ -1650,7 +1650,7 @@ The remaining mages looked at their master’s body and at the woman, their gaze
 
 As they panicked and shouted, the mages armed themselves with weapons and intensely focused their magical energy.
 
-![](https://i2.lensdump.com/i/1KwQkq.jpg)
+![](https://i.imgur.com/DdwNdMJ.jpeg)
 
 As she looked upon Jester’s disciples emotionlessly, the black-robed woman said just one thing.
 
@@ -2002,7 +2002,7 @@ apparently, there’s another guy who can use some kind of super-ultra-awesome m
 
 Quite simply—you are one who can create legends that exceed the legends of old. I believe that you have the power to invent tales that surpass even the greatest legends of old—and the power to give form to those tales,” his Master replied, quelling his frustration. He had immediately recognized that Caster’s tales were full of lies.
 
-![](https://i.lensdump.com/i/1KwqrQ.jpg)
+![](https://i.imgur.com/Z69e5bd.jpeg)
 
 “Ha! Look, bro, I don’t give a rat’s behind about your compliments. Hey, I’ve got an idea!
 
@@ -2138,7 +2138,7 @@ It was still an innocent smile, but now it had taken on the cruel look of a chil
 
 “Don’t you see how wonderful this is? I never thought I’d get another chance to have my way with that holy maiden, then turn her into a pile of cinders that aren’t even good for pig slop! Oh, it’s incredible! It’s the best! I hope Ruler does come! I couldn’t manage to break her spirit back then, but this time she won’t be a hero whose work is done! She’ll die as a Ruler who wasn’t able to do her duty! I’m sure that will get to her!”
 
-![](https://i1.lensdump.com/i/1KwB3a.jpg)
+![](https://i.imgur.com/2eQEsJ2.jpeg)
 
 At that point, her smile suddenly returned to normal and her excitement leveled out.
 
@@ -2494,7 +2494,7 @@ The words “he” spoke were like dread incarnate, but— she was not scared.
 
 Someone was there, so she would no longer be lonely. Something had changed in her un-changing world.
 
-![](https://i2.lensdump.com/i/1prHri.jpg)
+![](https://i.imgur.com/sFHUeMo.jpeg)
 
 She was so happy about that—that she looked up at the skyscrapers shrouded by the black haze, and timidly told “him” her name.
 
@@ -2908,7 +2908,7 @@ With that, it turned away from the mage and began to slowly walk towards the edg
 
 And when the Heroic Spirit heard that, it stopped in its tracks, and—
 
-![](https://i.lensdump.com/i/1prLG5.jpg)
+![](https://i.imgur.com/xUC6AGK.jpeg)
 
 It turned around.
 
@@ -3319,7 +3319,7 @@ Here and now, the curtain would rise on a Holy Grail War smeared with falsehood 
 
 Now... it’s time to spur on the fakes.
 
-![](https://i3.lensdump.com/i/1ptmfr.png)
+![](https://i.imgur.com/aR67mKT.jpeg)
 
 ## Chapter 1: The War Begins
 
@@ -5143,7 +5143,7 @@ He asked the same question again, in a slightly more familiar tone.
 
 “No.”
 
-![](https://i2.lensdump.com/i/1p1Qox.jpg)
+![](https://i.imgur.com/s0paMyR.jpeg)
 
 An instant reply.
 

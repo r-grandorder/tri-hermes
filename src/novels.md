@@ -33,6 +33,7 @@
 * [Volume 3](Novels/StrangeFake/Volume_3.md)
 * [Volume 4](Novels/StrangeFake/Volume_4.md)
 * [Volume 5](Novels/StrangeFake/Volume_5.md)
+* [Volume 6](Novels/StrangeFake/Volume_6.md)
 * [Character profiles](Novels/StrangeFake/profiles.md)
 
 **Fate/Requiem**

@@ -2,11 +2,11 @@
 
 ---
 
-![](https://i3.lensdump.com/i/1pRTvv.jpg)
+![](https://i.imgur.com/qQbq3Py.jpeg)
 
-![](https://i1.lensdump.com/i/1pR6E5.png)
+![](hhttps://i.imgur.com/6mt3vWT.png)
 
-![](https://i.lensdump.com/i/1pREGC.md.png)
+![](https://i.imgur.com/xI2mbYc.png)
 
 ## Extra: “—”
 
@@ -947,7 +947,7 @@ Having donned this bizarre outfit, the Heroic Spirit delivered a disturbing pron
 
 The Heroic Spirit claimed that he would use the Holy Grail to erase a "name."
 
-![](https://i.lensdump.com/i/1pRVgb.jpg)
+![](https://i.imgur.com/YMHGheJ.jpeg)
 
 When Bazdilot heard that strange declaration, he grunted, then brought a hand to his chin and mused aloud:
 
@@ -1114,7 +1114,7 @@ The old man shook his head, his lips curling in a wicked grin.
 
 "Hehe... It sounds like you've got the wrong idea, boy."
 
-![](https://i3.lensdump.com/i/1psGNH.jpg)
+![](https://i.imgur.com/204il9E.jpeg)
 
 "?"
 
@@ -1430,7 +1430,7 @@ Tine was reconfirmed in the belief that the bowman under her gaze was a fearsome
 
 "Most likely some sort of legacy a god forced on humans. Observe; they are the same item, but each of them uses it in an entirely different manner."
 
-![](https://i2.lensdump.com/i/1p366T.jpg)
+![](https://i.imgur.com/rhB5khS.jpeg)
 
 "?"
 
@@ -2002,7 +2002,7 @@ They bowman cracked a wry smile at the absurd command. Then he shouldered his bo
 
 "My name is Alkeides."
 
-![](https://i3.lensdump.com/i/1p3Clb.jpg)
+![](https://i.imgur.com/6GxLHBA.jpeg)
 
 The horsewoman heard that name and wordlessly shook her head.
 
@@ -2952,7 +2952,7 @@ While she was busy playing with the animal she took for a dog, the Heroic Spirit
 
 "I wouldn't particularly mind... but myself aside, what benefit would there be for my Master?"
 
-![](https://i.lensdump.com/i/1p3Jb7.jpg)
+![](https://i.imgur.com/Iz5ca5h.jpeg)
 
 At that, Saber shot another look at Ayaka and shrugged.
 
@@ -4479,7 +4479,7 @@ The boy cavorted, cackling as if he had gone mad. He spun, leapt onto Francesca'
 
 "How!? I mean Gilles, a Caster? Oh, because of me! Hahaha!"
 
-![](https://i2.lensdump.com/i/1p37ba.jpg)
+![](https://i.imgur.com/v4v2fBs.jpeg)
 
 When the pair had finished entertaining each other with a conversation only they could understand, Francesca's face grew suddenly serious.
 
