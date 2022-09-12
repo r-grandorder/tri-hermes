@@ -2,11 +2,11 @@
 
 ---
 
-![](https://i3.lensdump.com/i/1p137P.md.jpg)
+![](https://i.imgur.com/QLwa70c.jpeg)
 
-![](https://i1.lensdump.com/i/1p1pZi.jpg)
+![](https://i.imgur.com/kDObKXH.jpeg)
 
-![](https://i.lensdump.com/i/1p14Um.md.jpg)
+![](https://i.imgur.com/lTyxhcD.jpeg)
 
 ## Interlude: The Red Riding Hood of Semina Apartments
 
@@ -812,7 +812,7 @@ The crowd was taken aback by the fact that the man had dashed up the engine with
 
 "Hear me, people of Snowfield!"
 
-![](https://i3.lensdump.com/i/1p1Ou9.jpg)
+![](https://i.imgur.com/ScKFIYF.jpeg)
 
 
 The man's voice carried strangely far.
@@ -1331,7 +1331,7 @@ Tine gasped at the sudden attention, but it appeared that she was still invisibl
 
 "I see, it appears you are no ordinary mongrel. Name yourself," Gilgamesh questioned, flashing an arrogant smile. The eye patched man had caught his interest.
 
-![](https://i.lensdump.com/i/1p1lA2.jpg)
+![](https://i.imgur.com/RLHCFup.jpeg)
 
 "Hansa Cervantes," the man answered, rising to his feet and donning the coat he had been carrying under one arm. In a flash a cross necklace was dangling over his black coat. The dealer and the other customers began to wonder, "What's a priest doing in a place like this?"
 
@@ -2215,7 +2215,7 @@ Having concluded that her opponent was a Servant, Assassin immediately shifted t
 
 Assassin felt a chill. She neither distanced herself from nor approached the bow woman; she leapt straight up with all her might. She flipped her body 180 degrees vertically, and landed on the ceiling of the atrium.
 
-![](https://i3.lensdump.com/i/1p1oZ7.jpg)
+![](https://i.imgur.com/nJSGOtB.jpeg)
 
 She saw a black man in the uniform of a police officer. hardly surprising. But he was swinging a weapon shaped like a naginata in a horizontal sweep.
 
@@ -2539,7 +2539,7 @@ A young man appeared through the door, seeming to push open the gap his finger h
 
 The police officers looked at each other. The chief, representing his subordinates, repeated his question.
 
-![](https://i.lensdump.com/i/1p1usr.png)
+![](https://i.imgur.com/7XlIbLH.png)
 
 "...Who are you?"
 
@@ -3453,7 +3453,7 @@ Hansa quietly steadied his breathing, and assumed what appeared to be a serious 
 
 "You've only trespassed in man's domain. So I will destroy you... with human power!"
 
-![](https://i1.lensdump.com/i/1p1PA3.jpg)
+![](https://i.imgur.com/oy4VJQG.jpeg)
 
 The stance appeared to be based on some form of martial art. The moment he laid eyes on it, Jester felt every cell in his body shudder.
 
@@ -3967,7 +3967,7 @@ Having finished puzzling over his own actions, Faldeus was about to tear out the
 
 "I ask thee: art thou my Master?"
 
- ![](https://i3.lensdump.com/i/1p1hAx.jpg)
+ ![](https://i.imgur.com/nidfYRl.jpeg)
 
 Faldeus felt the blood drain from his head all at once. He slowly ran his gaze over his surroundings, determined not to let impatience get the better of him. Then he saw the darkness.
 
@@ -4525,7 +4525,7 @@ The man stood on a rise that reached almost the same elevation as the top floor 
 
 The man's dress went beyond "eccentric" to become what could only be called "bizarre." The first thing that caught one's eye was a long, decorated cloth draped vertically over his body. And not draped over his shoulders, either; the cloth was centered on the top of his head, and, having completely covered his face and the back of his head, went on to hang down so that it concealed both the front and back of his body. The only parts of his head that peaked out from under the cloth were his ears. On his upper body, however, he wore nothing else. A dark dye stained every inch of his exposed skin. It was also marked with some sort of design in a white dye, but it was hidden by the aforementioned cloth, and it was impossible to get a full view of it.
 
-![](https://i2.lensdump.com/i/1pRZgm.jpg)
+![](https://i.imgur.com/6EXyANY.jpeg)
 
 The man — who looked at first glance like he was about to appear in a horror game and chase its protagonist around — smirked under the cloth that covered his face, and silently drew his bow taught.
 
