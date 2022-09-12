@@ -89,12 +89,12 @@ module.exports = {
     }),
     plugins: [
         seoPlugin({
-            hostname: "https://tri-hermes.org",
+            hostname: "https://r-grandorder.github.io",
             fallBackImage: "https://i.imgur.com/kDHyJX2.png",
             isArticle: () => false,
         }),
         sitemapPlugin({
-            hostname: "https://tri-hermes.org",
+            hostname: "https://r-grandorder.github.io",
             changefreq: "monthly",
         }),
         googleAnalyticsPlugin({

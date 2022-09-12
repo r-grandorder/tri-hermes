@@ -24,15 +24,16 @@
 * [Volume 3](Novels/Apocrypha/Vol-3.md)
 * [Volume 4](Novels/Apocrypha/Vol-4.md)
 * [Volume 5](Novels/Apocrypha/Vol-5.md)
-* [Character profiles](Novels/Apocrypha/profiles.md)
+* [Character profiles](Novels/Apocrypha/Apoc-profiles.md)
 
 **Fate/Strange Fake** - [Translation by OtherSideOfSky](https://humbertozero.tumblr.com/post/150696689780/how-to-read-fatestrange-fake-light-novel-read)
 
-* [Volume 1](Novels/StrangeFake/Volume_1.md)
-* [Volume 2](Novels/StrangeFake/Volume_2.md)
-* [Volume 3](Novels/StrangeFake/Volume_3.md)
-* [Volume 4](Novels/StrangeFake/Volume_4.md)
-* [Volume 5](Novels/StrangeFake/Volume_5.md)
+* [Volume 1](Novels/StrangeFake/Vol-1.md)
+* [Volume 2](Novels/StrangeFake/Vol-2.md)
+* [Volume 3](Novels/StrangeFake/Vol-3.md)
+* [Volume 4](Novels/StrangeFake/Vol-4.md)
+* [Volume 5](Novels/StrangeFake/Vol-5.md) 
+* [Volume 6](Novels/StrangeFake/Vol-6.md)
 * [Character profiles](Novels/StrangeFake/profiles.md)
 
 **Fate/Requiem**
