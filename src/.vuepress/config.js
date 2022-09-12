@@ -49,6 +49,10 @@ module.exports = {
                         text: "Visual and Light Novels",
                         link: "/novels",
                     },
+					{
+                        text: "Materials",
+                        link: "/materials",
+                    },
                 ],
             },
             {
@@ -85,12 +89,12 @@ module.exports = {
     }),
     plugins: [
         seoPlugin({
-            hostname: "https://r-grandorder.github.io",
+            hostname: "https://tri-hermes.org",
             fallBackImage: "https://i.imgur.com/kDHyJX2.png",
             isArticle: () => false,
         }),
         sitemapPlugin({
-            hostname: "https://r-grandorder.github.io",
+            hostname: "https://tri-hermes.org",
             changefreq: "monthly",
         }),
         googleAnalyticsPlugin({

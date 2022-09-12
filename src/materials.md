@@ -4,4 +4,4 @@ Below are official materials published by TYPE-MOON to supplement their various 
 
 ## Character Materials
 
-* [Fate Character Material III]()
+* [Fate Character Material II]()
