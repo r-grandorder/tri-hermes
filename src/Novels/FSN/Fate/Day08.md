@@ -2,6 +2,7 @@
 
 
 
+<<<<<<< .merge_file_7op7mA
 ## Scene 08 - Life guard & safe
 
 
@@ -1078,6 +1079,8 @@ It seems Saber is softer and cheerful right now, so I don't want to ruin this ca
 
 ---
 
+=======
+>>>>>>> .merge_file_YgZ2LL
 ## Scene 18 - Shopping district
 
 
