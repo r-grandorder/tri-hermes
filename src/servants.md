@@ -25,7 +25,7 @@ Help needed to put together material profiles! [Template can be found here!](Ser
 | Fergus mac Róich | | [Interlude](Servants/Interludes/Fergus%20mac%20Róich.md) | |
 | Mordred | | [Interlude](Servants/Interludes/Mordred.md) | |
 | Nero Claudius (Bride) | | [Interlude](Servants/Interludes/Nero%20Claudius%20-%20Bride.md) | |
-| Ryougi Shiki | | | |
+| Ryougi Shiki | [Material Profile](Servants/Profiles/Ryōgi%20Shiki%20-%20Saber.md) | | |
 | Rama | | [Interlude](Servants/Interludes/Rama.md) | |
 | Lancelot | | [Interlude](Servants/Interludes/Lancelot%20-%20Saber.md) | |
 | Gawain | | [Interlude](Servants/Interludes/Gawain.md) | |
@@ -204,37 +204,37 @@ Help needed to put together material profiles! [Template can be found here!](Ser
 
 | Servant | Material / In-Game Profile | Interlude | Valentines (WIP)
 |:--------|:--------:|:--------:|:--------:|
-| Medea | | [Interlude](Servants/Interludes/Medea.md) | |
-| Gilles de Rais | | [Interlude](Servants/Interludes/Gilles%20de%20Rais%20-%20Caster.md) | |
-| Hans Christian Andersen | | [Interlude](Servants/Interludes/Hans%20Christian%20Andersen.md) | |
-| William Shakespeare | | [Interlude](Servants/Interludes/William%20Shakespeare.md) | |
-| Mephistopheles | | [Interlude](Servants/Interludes/Mephistopheles.md) | |
-| Wolfgang Amadeus Mozart | | [Interlude](Servants/Interludes/Wolfgang%20Amadeus%20Mozart.md) | |
-| Zhuge Liang (Lord El-Melloi II) | | [Interlude](Servants/Interludes/Lord%20El%20Melloi%20II%20-%20Zhuge%20Liang.md) | |
-| Cú Chulainn | | [Interlude](Servants/Interludes/Cú%20Chulainn%20-%20Caster.md) | |
-| Elisabeth Báthory (Halloween) | | | |
-| Tamamo-no-Mae | | [Interlude](Servants/Interludes/Tamamo-no-Mae.md) | |
-| Medea (Lily) | | [Interlude](Servants/Interludes/Medea%20Lily.md) | |
-| Nursery Rhyme | | [Interlude](Servants/Interludes/Nursery%20Rhyme.md) | |
-| Paracelsus von Hohenheim | | [Interlude](Servants/Interludes/Paracelsus%20von%20Hohenheim.md) | |
-| Charles Babbage | | [Interlude](Servants/Interludes/Charles%20Babbage.md) | |
-| Helena Blavatsky | | [Interlude](Servants/Interludes/Helena%20Blavatsky.md) | |
-| Thomas Edison | | [Interlude](Servants/Interludes/Thomas%20Edison.md) | |
-| Geronimo | | [Interlude](Servants/Interludes/Geronimo.md) | |
-| Irisviel (Holy Grail) | | | |
-| Xuanzang Sanzang | | [Interlude](Servants/Interludes/Xuanzang%20Sanzang.md) | |
-| Nitocris | | [Interlude](Servants/Interludes/Nitocris.md) | |
-| Leonardo da Vinci | | [Interlude](Servants/Interludes/Leonardo%20da%20Vinci.md) | |
-| Marie Antoinette (Caster) | | | |
-| Illyasviel von Einzbern | | [Interlude](Servants/Interludes/Illyasviel%20von%20Einzbern.md) | |
+| Medea | [Material Profile](Servants/Profiles/Medea.md) | [Interlude](Servants/Interludes/Medea.md) | |
+| Gilles de Rais | [Material Profile](Servants/Profiles/Gilles%20de%20Rais.md) | [Interlude](Servants/Interludes/Gilles%20de%20Rais%20-%20Caster.md) | |
+| Hans Christian Andersen | [Material Profile](Servants/Profiles/Hans%20Christian%20Andersen.md) | [Interlude](Servants/Interludes/Hans%20Christian%20Andersen.md) | |
+| William Shakespeare | [Material Profile](Servants/Profiles/William%20Shakespeare.md) | [Interlude](Servants/Interludes/William%20Shakespeare.md) | |
+| Mephistopheles | [Material Profile](Servants/Profiles/Mephistopheles.md) | [Interlude](Servants/Interludes/Mephistopheles.md) | |
+| Wolfgang Amadeus Mozart | [Material Profile](Servants/Profiles/Wolfgang%20Amadeus%20Mozart.md) | [Interlude](Servants/Interludes/Wolfgang%20Amadeus%20Mozart.md) | |
+| Zhuge Liang (Lord El-Melloi II) | [Material Profile](Servants/Profiles/Zhuge%20Kongming.md) | [Interlude](Servants/Interludes/Lord%20El%20Melloi%20II%20-%20Zhuge%20Liang.md) | |
+| Cú Chulainn | [Material Profile](Servants/Profiles/Cu%20Chulainn%20-%20Caster.md) | [Interlude](Servants/Interludes/Cú%20Chulainn%20-%20Caster.md) | |
+| Elisabeth Báthory (Halloween) | [Material Profile](Servants/Profiles/Elizabeth%20Bathory%20-%20Halloween.md) | | |
+| Tamamo-no-Mae | [Material Profile](Servants/Profiles/Tamamo.md) | [Interlude](Servants/Interludes/Tamamo-no-Mae.md) | |
+| Medea (Lily) | [Material Profile](Servants/Profiles/Medea%20-%20Lily.md) | [Interlude](Servants/Interludes/Medea%20Lily.md) | |
+| Nursery Rhyme | [Material Profile](Servants/Profiles/Nursery%20Rhyme.md) | [Interlude](Servants/Interludes/Nursery%20Rhyme.md) | |
+| Paracelsus von Hohenheim | [Material Profile](Servants/Profiles/Paracelsus.md) | [Interlude](Servants/Interludes/Paracelsus%20von%20Hohenheim.md) | |
+| Charles Babbage | [Material Profile](Servants/Profiles/Charles%20Babbage.md) | [Interlude](Servants/Interludes/Charles%20Babbage.md) | |
+| Helena Blavatsky | [Material Profile](Servants/Profiles/Helena%20Blavatsky.md) | [Interlude](Servants/Interludes/Helena%20Blavatsky.md) | |
+| Thomas Edison | [Material Profile](Servants/Profiles/Edison.md) | [Interlude](Servants/Interludes/Thomas%20Edison.md) | |
+| Geronimo | [Material Profile](Servants/Profiles/Geronimo.md) | [Interlude](Servants/Interludes/Geronimo.md) | |
+| Irisviel (Holy Grail) | [Material Profile](Servants/Profiles/Irisviel.md) | | |
+| Xuanzang Sanzang | [Material Profile](Servants/Profiles/Xuanzang%20Sanzang.md) | [Interlude](Servants/Interludes/Xuanzang%20Sanzang.md) | |
+| Nitocris | [Material Profile](Servants/Profiles/Nitocris.md) | [Interlude](Servants/Interludes/Nitocris.md) | |
+| Leonardo da Vinci | [Material Profile](Servants/Profiles/Leonardo%20da%20Vinci.md) | [Interlude](Servants/Interludes/Leonardo%20da%20Vinci.md) | |
+| Marie Antoinette (Caster) | [Material Profile](Servants/Profiles/Marie%20Antoinette%20-%20Swimsuit.md) | | |
+| Illyasviel von Einzbern | [Material Profile](Servants/Profiles/Illyasviel%20Von%20Einzbern.md) | [Interlude](Servants/Interludes/Illyasviel%20von%20Einzbern.md) | |
 | Gilgamesh (Caster) | | [Interlude](Servants/Interludes/Gilgamesh%20-%20Caster.md) | |
-| Merlin | | | |
-| Solomon | | | |
+| Merlin | [Material Profile](Servants/Profiles/Merlin.md) | | |
+| Solomon | [Material Profile](Servants/Profiles/Solomon.md) | | |
 | Scheherazade | [Material Profile](Servants/Profiles/Scheherazade.md) | [Interlude](Servants/Interludes/Scheherazade.md) | |
 | Nero Claudius (Caster) | [Material Profile](Servants/Profiles/Nero%20Claudius%20Caesar%20-%20Caster.md) | | |
 | Circe | [Material Profile](Servants/Profiles/Circe.md) | [Interlude](Servants/Interludes/Circe.md) | |
 | Queen of Sheba | [Material Profile](Servants/Profiles/Sheba.md) | [Interlude](Servants/Interludes/Queen%20of%20Sheba.md) | |
-| Anastasia | | [Interlude](Servants/Interludes/Anastasia%20Nikolaevna%20Romanova.md) | |
+| Anastasia | [Material Profile](Servants/Profiles/Anastasia.md) | [Interlude](Servants/Interludes/Anastasia%20Nikolaevna%20Romanova.md) | |
 | Avicebron | | | |
 | Sieg | | | |
 | Scáthach-Skadi | | | |
@@ -255,33 +255,33 @@ Help needed to put together material profiles! [Template can be found here!](Ser
 
 | Servant | Material / In-Game Profile | Interlude | Valentines (WIP)
 |:--------|:--------:|:--------:|:--------:|
-| Sasaki Kojirou | | [Interlude](Servants/Interludes/Sasaki%20Kojirou.md) | |
-| Hassan of the Cursed Arm | | [Interlude](Servants/Interludes/Hassan%20of%20the%20Cursed%20Arm.md) | |
-| Stheno | | [Interlude](Servants/Interludes/Stheno.md) | |
-| Jing Ke | | [Interlude](Servants/Interludes/Jing%20Ke.md) | |
-| Charles-Henri Sanson | | [Interlude](Servants/Interludes/Charles-Henri%20Sanson.md) | |
-| Phantom of the Opera | | [Interlude](Servants/Interludes/Phantom%20of%20the%20Opera.md) | |
-| Mata Hari | | [Interlude](Servants/Interludes/Mata%20Hari.md) | |
-| Carmilla | | [Interlude](Servants/Interludes/Carmilla.md) | |
-| Jack the Ripper | | [Interlude](Servants/Interludes/Jack%20the%20Ripper.md) | |
-| Henry Jekyll & Hyde | | [Interlude](Servants/Interludes/Henry%20Jekyll%20&%20Hyde.md) | |
-| Mysterious Heroine X | | [Interlude](Servants/Interludes/Mysterious%20Heroine%20X.md) | |
-| Ryougi Shiki | | | |
-| Emiya (Assassin) | | [Interlude](Servants/Interludes/EMIYA%20-%20Kiritsugu.md) | |
-| Hassan of the Hundred Personas | | [Interlude](Servants/Interludes/Hassan%20of%20the%20Hundred%20Personas.md) | |
-| Shuten-Douji | | [Interlude](Servants/Interludes/Shuten%20Douji.md) | |
-| Fuuma "Evil-wind" Kotarou | | [Interlude](Servants/Interludes/Fuuma%20Kotarou.md) | |
-| Hassan of the Serenity | | [Interlude](Servants/Interludes/Hassan%20of%20the%20Serenity.md) | |
-| Scáthach | | | |
-| Cleopatra | | [Interlude](Servants/Interludes/Cleopatra.md) | |
+| Sasaki Kojirou | [Material Profile](Servants/Profiles/Sasaki%20Kojirou.md) | [Interlude](Servants/Interludes/Sasaki%20Kojirou.md) | |
+| Hassan of the Cursed Arm | [Material Profile](Servants/Profiles/Hassan%20of%20the%20Cursed%20Arm.md) | [Interlude](Servants/Interludes/Hassan%20of%20the%20Cursed%20Arm.md) | |
+| Stheno | [Material Profile](Servants/Profiles/Stheno.md) | [Interlude](Servants/Interludes/Stheno.md) | |
+| Jing Ke | [Material Profile](Servants/Profiles/Jing%20Ke.md) | [Interlude](Servants/Interludes/Jing%20Ke.md) | |
+| Charles-Henri Sanson | [Material Profile](Servants/Profiles/Charles%20Henri%20Sanson.md) | [Interlude](Servants/Interludes/Charles-Henri%20Sanson.md) | |
+| Phantom of the Opera | [Material Profile](Servants/Profiles/The%20Phantom%20of%20the%20Opera.md) | [Interlude](Servants/Interludes/Phantom%20of%20the%20Opera.md) | |
+| Mata Hari | [Material Profile](Servants/Profiles/Mata%20Hari.md) | [Interlude](Servants/Interludes/Mata%20Hari.md) | |
+| Carmilla | [Material Profile](Servants/Profiles/Carmilla.md) | [Interlude](Servants/Interludes/Carmilla.md) | |
+| Jack the Ripper | [Material Profile](Servants/Profiles/Jack%20the%20Ripper.md) | [Interlude](Servants/Interludes/Jack%20the%20Ripper.md) | |
+| Henry Jekyll & Hyde | [Material Profile](Servants/Profiles/Henry%20Jekyll%20&%20Hyde.md) | [Interlude](Servants/Interludes/Henry%20Jekyll%20&%20Hyde.md) | |
+| Mysterious Heroine X | [Material Profile](Servants/Profiles/Mysterious%20Heroine%20X.md) | [Interlude](Servants/Interludes/Mysterious%20Heroine%20X.md) | |
+| Ryougi Shiki | [Material Profile](Servants/Profiles/Ryōgi%20Shiki%20-%20Assassin.md) | | |
+| Emiya (Assassin) | [Material Profile](Servants/Profiles/EMIYA%20-%20Assassin.md) | [Interlude](Servants/Interludes/EMIYA%20-%20Kiritsugu.md) | |
+| Hassan of the Hundred Personas | [Material Profile](Servants/Profiles/Hassan%20of%Hundred%20Faces.md) | [Interlude](Servants/Interludes/Hassan%20of%20the%20Hundred%20Personas.md) | |
+| Shuten-Douji | [Material Profile](Servants/Profiles/Shuten%20Douji.md) | [Interlude](Servants/Interludes/Shuten%20Douji.md) | |
+| Fuuma "Evil-wind" Kotarou | [Material Profile](Servants/Profiles/Fuuma%20Kotarou.md) | [Interlude](Servants/Interludes/Fuuma%20Kotarou.md) | |
+| Hassan of the Serenity | [Material Profile](Servants/Profiles/Hassan%20of%20Serenity.md) | [Interlude](Servants/Interludes/Hassan%20of%20the%20Serenity.md) | |
+| Scáthach | [Material Profile](Servants/Profiles/Scathach%20-%20Swimsuit.md) | | |
+| Cleopatra | [Material Profile](Servants/Profiles/Cleopatra.md) | [Interlude](Servants/Interludes/Cleopatra.md) | |
 | "First Hassan" | [Material Profile](Servants/Profiles/The%20Old%20Man%20of%20the%20Mountain.md) | | |
 | Yan Qing | [Material Profile](Servants/Profiles/Yan%20Qing.md) | [Interlude](Servants/Interludes/Yan%20Qing.md) | |
-| Wu Zetian | | [Interlude](Servants/Interludes/Wu%20Zetian.md) | |
+| Wu Zetian | [Material Profile](Servants/Profiles/Wu%20Zeitan.md) | [Interlude](Servants/Interludes/Wu%20Zetian.md) | |
 | Nitocris | [Material Profile](Servants/Profiles/Nitocris%20-%20Assassin.md) | | |
 | Mochizuki Chiyome | [Material Profile](Servants/Profiles/Mochizuki%20Chiyome.md) | [Interlude](Servants/Interludes/Mochizuki%20Chiyome.md) | |
 | Katou "Black Kite" Danzo | [Material Profile](Servants/Profiles/Katou%20Danzou.md) | [Interlude](Servants/Interludes/Kato%20Danzou.md) | |
 | Osakabehime | [Material Profile](Servants/Profiles/Osakabehime.md) | [Interlude](Servants/Interludes/Osakabehime.md) | |
-| Semiramis | | [Interlude](Servants/Interludes/Semiramis.md) | |
+| Semiramis | [Material Profile](Servants/Profiles/Semiramis.md) | [Interlude](Servants/Interludes/Semiramis.md) | |
 | Okada Izo | | | |
 | Ushiwakamaru | | | |
 | Yu Mei-ren | | [Interlude](Servants/Interludes/Yu%20Mei-ren.md) | |
@@ -297,24 +297,24 @@ Help needed to put together material profiles! [Template can be found here!](Ser
 
 | Servant | Material / In-Game Profile | Interlude | Valentines (WIP)
 |:--------|:--------:|:--------:|:--------:|
-| Heracles | | [Interlude](Servants/Interludes/Heracles.md) | |
-| Lancelot | | [Interlude](Servants/Interludes/Lancelot%20-%20Berserker.md) | |
-| Lu Bu Fengxian | | [Interlude](Servants/Interludes/Lu%20Bu%20Fengxian.md) | |
-| Spartacus | | [Interlude](Servants/Interludes/Spartacus.md) | |
-| Sakata Kintoki | | [Interlude](Servants/Interludes/Sakata%20Kintoki.md) | |
-| Vlad III | | [Interlude](Servants/Interludes/Vlad%20III%20-%20Apocrypha.md) | |
-| Asterios | | [Interlude](Servants/Interludes/Asterios.md) | |
-| Caligula | | [Interlude](Servants/Interludes/Caligula.md) | |
-| Darius III | | [Interlude](Servants/Interludes/Darius%20III.md) | |
-| Kiyohime | | [Interlude](Servants/Interludes/Kiyohime.md) | |
-| Eric Bloodaxe | | [Interlude](Servants/Interludes/Eric%20Bloodaxe.md) | |
-| Tamamo Cat | | [Interlude](Servants/Interludes/Tamamo%20Cat.md) | |
-| Frankenstein | | [Interlude](Servants/Interludes/Frankenstein.md) | |
-| Beowulf | | [Interlude](Servants/Interludes/Beowulf.md) | |
-| Florence Nightingale | | [Interlude](Servants/Interludes/Florence%20Nightingale.md) | |
-| Cú Chulainn (Alter) | | [Interlude](Servants/Interludes/Cú%20Chulainn%20-%20Alter.md) | |
-| Minamoto-no-Raikou | | | |
-| Ibaraki-Douji | | [Interlude](Servants/Interludes/Ibaraki%20Douji.md) | |
+| Heracles | [Material Profile](Servants/Profiles/Heracles.md) | [Interlude](Servants/Interludes/Heracles.md) | |
+| Lancelot | [Material Profile](Servants/Profiles/Lancelot%20-%20Berserker.md) | [Interlude](Servants/Interludes/Lancelot%20-%20Berserker.md) | |
+| Lu Bu Fengxian | [Material Profile](Servants/Profiles/Lü%20%Bu20Fengxian.md) | [Interlude](Servants/Interludes/Lu%20Bu%20Fengxian.md) | |
+| Spartacus | [Material Profile](Servants/Profiles/Spartacus.md) | [Interlude](Servants/Interludes/Spartacus.md) | |
+| Sakata Kintoki | [Material Profile](Servants/Profiles/Sakata%20Kintoki.md) | [Interlude](Servants/Interludes/Sakata%20Kintoki.md) | |
+| Vlad III | [Material Profile](Servants/Profiles/Vlad%20III%20-%20Berserker.md) | [Interlude](Servants/Interludes/Vlad%20III%20-%20Apocrypha.md) | |
+| Asterios | [Material Profile](Servants/Profiles/Asterios.md) | [Interlude](Servants/Interludes/Asterios.md) | |
+| Caligula | [Material Profile](Servants/Profiles/Caligula.md) | [Interlude](Servants/Interludes/Caligula.md) | |
+| Darius III | [Material Profile](Servants/Profiles/Darius%20III.md) | [Interlude](Servants/Interludes/Darius%20III.md) | |
+| Kiyohime | [Material Profile](Servants/Profiles/Kiyohime.md) | [Interlude](Servants/Interludes/Kiyohime.md) | |
+| Eric Bloodaxe | [Material Profile](Servants/Profiles/Eric%20Bloodaxe.md) | [Interlude](Servants/Interludes/Eric%20Bloodaxe.md) | |
+| Tamamo Cat | [Material Profile](Servants/Profiles/Tamamo%20Cat.md) | [Interlude](Servants/Interludes/Tamamo%20Cat.md) | |
+| Frankenstein | [Material Profile](Servants/Profiles/Frankenstein.md) | [Interlude](Servants/Interludes/Frankenstein.md) | |
+| Beowulf | [Material Profile](Servants/Profiles/Beowulf.md) | [Interlude](Servants/Interludes/Beowulf.md) | |
+| Florence Nightingale | [Material Profile](Servants/Profiles/Florence%20Nightingale.md) | [Interlude](Servants/Interludes/Florence%20Nightingale.md) | |
+| Cú Chulainn (Alter) | [Material Profile](Servants/Profiles/Cu%20Chulainn%20-%20Alter.md)| [Interlude](Servants/Interludes/Cú%20Chulainn%20-%20Alter.md) | |
+| Minamoto-no-Raikou | [Material Profile](Servants/Profiles/Minamoto%20no%20Raikou.md) | | |
+| Ibaraki-Douji | [Material Profile](Servants/Profiles/Ibaraki%20Douji.md) | [Interlude](Servants/Interludes/Ibaraki%20Douji.md) | |
 | Mysterious Heroine X (Alter) | [Material Profile](Servants/Profiles/Mysterious%20Heroine%20X%20Alter.md) | [Interlude](Servants/Interludes/Mysterious%20Heroine%20X%20Alter.md) | |
 | Hijikata Toshizo | [Material Profile](Servants/Profiles/Hijikata%20Toshizo.md) | [Interlude](Servants/Interludes/Hijikata%20Toshizo.md) | |
 | Chacha | [Material Profile](Servants/Profiles/Chacha.md) | | |
@@ -339,9 +339,9 @@ Help needed to put together material profiles! [Template can be found here!](Ser
 
 | Servant | Material / In-Game Profile | Interlude | Valentines (WIP)
 |:--------|:--------:|:--------:|:--------:|
-| Jeanne d'Arc | | [Interlude](Servants/Interludes/Jeanne%20d%20Arc.md) | |
-| Amakusa Shirou | | [Interlude](Servants/Interludes/Amakusa%20Shirou.md) | |
-| Martha | | | |
+| Jeanne d'Arc | [Material Profile](Servants/Profiles/Jeanne%20dArc.md) | [Interlude](Servants/Interludes/Jeanne%20d%20Arc.md) | |
+| Amakusa Shirou | [Material Profile](Servants/Profiles/Amakusa%20Shirou%20Tokisada.md) | [Interlude](Servants/Interludes/Amakusa%20Shirou.md) | |
+| Martha | [Material Profile](Servants/Profiles/Saint%20Martha%20-%20Swimsuit.md) | | |
 | Sherlock Holmes | [Material Profile](Servants/Profiles/Sherlock%20Holmes.md) | [Interlude](Servants/Interludes/Sherlock%20Holmes.md) | |
 | Qin Shi Huang | | [Interlude](Servants/Interludes/Qin%20Shi%20Huang.md) | |
 | Quetzalcoatl (Samba/Santa) | | | |
@@ -356,10 +356,10 @@ Help needed to put together material profiles! [Template can be found here!](Ser
 
 | Servant | Material / In-Game Profile | Interlude | Valentines (WIP)
 |:--------|:--------:|:--------:|:--------:|
-| Edmond Dantès | | [Interlude](Servants/Interludes/Edmond%20Dantès.md) | |
-| Jeanne d'Arc (Alter) | | [Interlude](Servants/Interludes/Jeanne%20d%20Arc%20-%20Alter.md) | |
-| Aŋra Mainiiu | | [Interlude](Servants/Interludes/Aŋra%20Mainiiu.md) | |
-| Gorgon | | [Interlude](Servants/Interludes/Gorgon.md) | |
+| Edmond Dantès | [Material Profile](Servants/Profiles/Edmond%20Dantes.md) | [Interlude](Servants/Interludes/Edmond%20Dantès.md) | |
+| Jeanne d'Arc (Alter) | [Material Profile](Servants/Profiles/Jeanne%20d'Arc%20-%20Alter.md) | [Interlude](Servants/Interludes/Jeanne%20d%20Arc%20-%20Alter.md) | |
+| Aŋra Mainiiu | [Material Profile](Servants/Profiles/Angra%20Mainyu.md) | [Interlude](Servants/Interludes/Aŋra%20Mainiiu.md) | |
+| Gorgon | [Material Profile](Servants/Profiles/Gorgon.md) | [Interlude](Servants/Interludes/Gorgon.md) | |
 | Hessian Lobo | [Material Profile](Servants/Profiles/Hessian%20Lobo.md) | [Interlude](Servants/Interludes/Hessian%20Lobo.md) | |
 | Antonio Salieri | | | |
 | Oda Nobunaga | | | |
@@ -401,7 +401,7 @@ Help needed to put together material profiles! [Template can be found here!](Ser
 | Servant | Material / In-Game Profile | Interlude | Valentines (WIP)
 |:--------|:--------:|:--------:|:--------:|
 | Abigail Williams | [Material Profile](Servants/Profiles/Abigail%20Williams.md) | [Interlude](Servants/Interludes/Abigail%20Williams.md) | |
-| Katsushika Hokusai | [Material Profile](Servants/Profiles/Katsushika%20Hokusai.md)] | | |
+| Katsushika Hokusai | [Material Profile](Servants/Profiles/Katsushika%20Hokusai.md) | | |
 | Mysterious Heroine XX | | | |
 | Yang Guifei | | | |
 | Voyager | | | |
@@ -422,4 +422,6 @@ Help needed to put together material profiles! [Template can be found here!](Ser
 
 | Name | Material / In-Game Profile | 
 |:--------|:--------:|
+| Beast I | [Material Profile](Servants/Profiles/Goetia.md) |
+| Beast II | [Material Profile](Servants/Profiles/Tiamat.md) |
 | Beast III/R | [Material Profile](Servants/Profiles/Heavens%20Hole.md) |
