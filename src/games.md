@@ -4,14 +4,14 @@
 
 ---
 
-* [Fate/Extella: The Umbral Star](Extella.md)
+* [Fate/Extella: The Umbral Star](Games/Extella.md)
 
 ## Side Games
 
 ---
 
 **Capsule Servant**
-* [Opening](opening.md)
-* [Shirou Route](shirou-route.md)
-* [Rin Route](rin-route.md)
-* [Ending](ending.md)
+* [Opening](Games/opening.md)
+* [Shirou Route](Games/shirou-route.md)
+* [Rin Route](Games/rin-route.md)
+* [Ending](Games/ending.md)
