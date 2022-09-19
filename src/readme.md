@@ -21,9 +21,11 @@ footer: All scripts and images by TYPE-MOON ©
 ## Greater Type-Moon Resources
 
 * [Visual and Light Novels](novels.md)
+* [Games](games.md)
 * [Materials](materials.md)
 * [Bamboo Broom Diary](bamboo.md)
 * [Interviews](interviews.md)
 * [Fate Map](map.md)
 * [Articles](articles.md)
+* [Drama CDs](drama-cd.md)
 

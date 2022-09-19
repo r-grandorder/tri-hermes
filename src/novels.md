@@ -24,7 +24,7 @@
 * [Volume 3](Novels/Apocrypha/Vol-3.md)
 * [Volume 4](Novels/Apocrypha/Vol-4.md)
 * [Volume 5](Novels/Apocrypha/Vol-5.md)
-* [Character profiles](Novels/Apocrypha/Apoc-profiles.md)
+* [Character profiles](Novels/Apocrypha/profiles.md)
 
 **Fate/Strange Fake** - [Translation by OtherSideOfSky](https://humbertozero.tumblr.com/post/150696689780/how-to-read-fatestrange-fake-light-novel-read)
 

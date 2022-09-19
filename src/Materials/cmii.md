@@ -1,12 +1,3 @@
-# Materials
-
-Below are official materials published by TYPE-MOON to supplement their various works. This page is still WIP. 
-
-## Character Materials
-
-* [Fate Character Material II]()
-
-
 **Proud King of Knights of the Round Table**
 # SABER 
 
@@ -38,11 +29,11 @@ to think of herself as a feminine figure, and this outlook often led to bickerin
 Having previously been summoned for the Fourth Holy Grail War, Saber's relationships with the various characters span two generations. Shirou's adoptive father Kiritsugu was Saber's Master during the Fourth Holy Grail War. Saber fought Gilgamesh during the Fourth Holy Grail War, and he has been helplessly smitten with her ever since. Saber developed relationships with Shirou, Rin, and Sakura during the Fifth Holy Grail War. When Saber was unable to take on her Spirit form, she led a very ordinary life at the Emiya home and 
 strengthened her bonds with these three during that time. Shirou had the heirloom "The Everdistant Utopia" (Avalon) embedded in his body, and it was the power of this artifact that allowed him to summon Saber. Avalon had previously been used by Kiritsugu to summon Saber, and it was Kiritsugu who embedded it in Shirou's body. 
 
-## Character Discussion with Kinoko Nasu & Takeuchi Takeshi
+### Character Discussion with Kinoko Nasu & Takeuchi Takeshi
+
+## THE CATALYST FOR SABER'S BIRTH
 
 ---
-
-THE CATALYST FOR SABER'S BIRTH
 
 Saber's character is rooted in the specific desire to draw a petite, blonde female knight. As we developed her character concept, we decided to aim for something that was fresh and stimukating. I guess the best analogy to illustrate what I mean is to say if the archetyptipical characters in bisho games are like juice, we wanted Saber to be like pure spring water.
 
@@ -78,7 +69,7 @@ TAKEUCHI: I basically infused every part of Saber's design with my own personal 
 
 NASU: If you think about it though, Saber is a rather rare design... in fact, you could say it's really quite daring! I mean, when was the last time you saw a main heroine in a game like this who wasn't showing any skin!? 
 
-TAKEUCHI: Exposing skin may be a reliable way to go in terms of design, but I guess I thought emphasizing the knighthood aspect of her design made her appealing enough. If Saber shines as a character to an unusual degree, I would say itis because of the game's excellent writing, which really brought out the best in every character. 
+TAKEUCHI: Exposing skin may be a reliable way to go in terms of design, but I guess I thought emphasizing the knighthood aspect of her design made her appealing enough. If Saber shines as a character to an unusual degree, I would say it is because of the game's excellent writing, which really brought out the best in every character. 
 
 NASU: When the character was brought to life visually, it really reaffirmed for me the beauty of Saber as a concept and I fell in love all over again. 
 
@@ -132,3 +123,14 @@ TAKEUCHI: Hato Beam!
 
 NASU: Exactly! Though the Hato Beam hasn't been featured much lately... 
 
+### Character Discussion with Kinoko Nasu & Takeuchi Takeshi
+
+## THE CATALYST FOR SABER ALTER'S BIRTH 
+
+---
+
+NASU: Our motivations for creating Saber Alter were pretty simple. We were looking for a way to surprise the players who had played through both Sober's and Rin's routes. Also, Takeuchi said he wanted to transform the heroine into an antagonist/ saying, "l want a dark Saber."
+
+TAKEUCHI: While working on old "Fate", which is the source work for "stay night", Nasu told me about the plot twist where an enemy gains Master status over Saber and turns her into an enemy character. I thought it was a really fun idea, and I wanted to explore it in "stay night". 
+
+NASU: There was a plot twist in old "Fate" where all of your friends get taken to the enemy side one by one, leading the situation to degrade into the worst possible scenario. I thought this storyline would work for the route where Sakura is the heroine, so I jumped on the idea when Takeuchi suggested it. But even I had to admit that seemed like the most obvious way to go, so I asked Takeuchi to create a dark version of Saber.
