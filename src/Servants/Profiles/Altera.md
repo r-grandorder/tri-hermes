@@ -1,7 +1,8 @@
 # Altera
 
+::: tip
 Note: [This material is translated by Chaldeum. Addendum by u/Kinalvin](https://chaldeum.wordpress.com/servant/saber008/)
-
+:::
 
 ## Info
 
@@ -18,10 +19,10 @@ Note: [This material is translated by Chaldeum. Addendum by u/Kinalvin](https://
 
 **Meta**
 
-Background Development: Sakurai Hikaru
-Character Design: huke
-CV: Noto Mamiko
-Major Appearances in Main Works: Fate/Grand Order
+- Background Development: Sakurai Hikaru
+- Character Design: huke
+- CV: Noto Mamiko
+- Major Appearances in Main Works: Fate/Grand Order
 
 ## Stats
 
@@ -51,6 +52,7 @@ Although Altera herself has no blood relations with a Divine Spirit, the fact th
 **Civilization Erosure: [EX]**
 
 A subconsciously active skill of the heroic spirit Altera. Anything within her grasp is transformed into its “best” form currently most suited for herself.
+
 This is based on Altera’s own perspective, not necessarily reflecting the object at its greatest or most excellent.
 
 ## Personal Skills
@@ -58,12 +60,15 @@ This is based on Altera’s own perspective, not necessarily reflecting the obje
 **Innate Fitness: [D]**
 
 Born with a body that is perfected as a life form, she can temporarily increase the rank of her STR.
+
 As well, her base design (body shape) never changes regardless of her calorie intake.
 
 **Crest of the Star: [EX]**
 
 The unique pattern imprinted on Altera’s body, a strange design that does not belong to the Huns but resulted from some advanced ritual.
+
 The higher the rank, the higher one’s attack power is increased. By expending mana through it, one can temporarily enhance the performance of any desired part of the body. An efficient skill that costs little mana but lacks the explosiveness of skills like Power Burst. In addition, this unique skill also has the effects of the Instinct skill.
+
 Although, to Altera, it felt like the skill was missing something.
 
 **Military Tactics: [B]**
@@ -74,6 +79,7 @@ An instinctive capacity for utilizing tactical knowledge in battlefields where a
 ## Noble Phantasm(s)
 
 # Sword of the War God — Photon Ray
+
 - Rank A Anti-Army Noble Phantasm
 - Range: 1-30
 - Maximum Targets: 200 Persons
@@ -92,9 +98,9 @@ When its true power is unleashed, its rank and type as a Noble Phantasm increase
 
 ## Pronouns
 
-First Person Pronoun: watashi
-Second Person Pronouns: omae / ○○ (without honorifics)
-Third Person Pronouns: yatsu / kyatsu / ○○ (without honorifics)
+- First Person Pronoun: watashi
+- Second Person Pronouns: omae / ○○ (without honorifics)
+- Third Person Pronouns: yatsu / kyatsu / ○○ (without honorifics)
 
 ## Personality
 
@@ -130,21 +136,31 @@ Her wish for the Holy Grail is ‘to live a life not as a warrior’. She does n
 ## Historical Character and Figure
 
 Attila the Hun was the overlord who established a great empire in the 5th century.
+
 She was a warrior and king of the Huns, the descendants of the Xiongnu.
+
 Leading an army of cavalry, the conquests of this great hero covered a great part of the map, from Western Asia to Russia, Eastern Europe, and even Gaul. It is said that this was one of the causes for the eventual downfall of the Roman Empire.
+
 Throughout her life, she was always in the midst of battle.
+
 Due to the terrifying acts she committed in war, she was greatly feared in all European nations as the “Scourge of God”.
+
 She is a pure “King of War”. In contrast with her martial achievements, she did not succeed politically, and her empire rapidly fell apart and dissolved after her death. However, the awe and dread infused in the name “Attila” remains in the memories of people to this day.
 
 ## Character in FGO
 
 She was an avatar of destruction. An engine of war that scythed down the many lives who had stood in her path. That was how she had been made to be… so the elders of the Huns had said to her. That she, Altera, existed for battle.
+
 That she had no father, no mother. That she had been “discovered” by the Huns, descendants of the Xiongnu people. Yes, she had no memories of parents, nor of friends, nor of a family. Instead, the world was filled with enemies.
+
 As shown by the marks of war carved into her flesh from the beginning, she lived only to fight. It was her born nature and her role. It was her purpose to exercise her capabilities as intended, and she never held any doubt on the matter.
 
 Becoming destruction itself, she fought like a raging tempest, king of the Huns yet not one of them.
+
 It barely even registered to her that she had armies at her back as she swung her sword with single mind.
+
 Destruction. Domination. Invasion.
+
 She could not be sated, even as the lands of the Huns grew beyond their ability to control. She merely swung the sword and continued the slaughter. Even in the moment when death came to her, she recalled – as she laid in a pool of her own blood, she had thought only of ways to fell Rome.
 
 However, having become a heroic spirit and taken form as a Servant, she began silently questioning herself. Had she perhaps been too much of a warrior? What if she had not become the embodiment of destruction itself? What if she never gripped the sword of the war god?
@@ -152,10 +168,15 @@ However, having become a heroic spirit and taken form as a Servant, she began si
 She had been feared by Europe as the punishment brought down by their absolute deity, the very whip of God Himself. She had been a fighting machine. History had even forgotten that she was a woman. What life could she have lived, if not as a warrior?
 
 What would she have spent her time on?
+
 Would she have been a traveler, freely circling the world on the back of her horse?
+
 Would she have been a grower of life, tilling the earth as she had seen the people of Europe done?
+
 Would she be baking bread in a smoldering oven? Hunting birds and beasts in the wild?
+
 Would she be learning words and language, and writing it down in books?
+
 Would she, with reddened cheeks and gentle smile, have pressed herself into the breast of another?
 
 She did not know. But she wondered…
@@ -163,9 +184,11 @@ She did not know. But she wondered…
 ## Related Characters
 
 **Other Servants**
+
 All civilization must be destroyed. There is no difference between them.
 
 **Caster Servants**
+
 Although she witnessed the work of curses in life, as she herself had few ties with magecraft, she holds some actual interest in those pure Casters who practice magecraft.
 
 ## Comment from the Illustrator
@@ -174,7 +197,25 @@ Ms. Altera somewhat regrets that she turned into this difficult design where it 
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-070.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-071.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-072.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-073.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-074.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-075.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-076.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-077.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-078.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-079.jpg?raw=true)
 
 ## Dialogue
 

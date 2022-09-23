@@ -1,7 +1,8 @@
 # Atalanta
 
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/8771np/atalantas_servant_profile_from_fgo_material_i/)
-
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/8771np/atalantas_servant_profile_from_fgo_material_i/)
+:::
 
 ## Info
 
@@ -57,6 +58,7 @@ Once an enemy takes the initiative, and after confirming their actions, Atalanta
 ## Noble Phantasm(s)
 
 # Phoebus Katastrofi: The Arrow Letters of Complaint
+
 - Rank: B+*
 - Classification: Anti-Army Noble Phantasm
 - Range: 2~50
@@ -64,9 +66,10 @@ Once an enemy takes the initiative, and after confirming their actions, Atalanta
 
 Phoebus Katastrofi (Bright Catastrophe). With “Tauropolos: The Bow of the Heavens” – which she received from her Guardian Deity, Artemis – Atalanta sends complaint messages on arrows to seek divine protection from Artemis and Apollo. A rain of arrows will fall like a downpour on the next turn, carrying out an attack on all enemies. It is also possible to set the range.
 
-*Post-Strengthening Rank
+# Post-Strengthening Rank
 
 # Agrius Metamorfosi: The Boar of Divine Punishment
+
 - Rank: B+
 - Classification: Anti-Personnel (Self) Noble Phantasm
 - Range: 0
@@ -78,9 +81,9 @@ Agrius Metamorfosi (Wild Metamorphosis). The Demonic Beast of Calydon that was b
 
 ## Pronouns
 
-First Person Pronoun: watashi
-Second Person Pronoun: nanji
-Third Person Pronoun: kisama
+- First Person Pronoun: watashi
+- Second Person Pronoun: nanji
+- Third Person Pronoun: kisama
 
 ## Personality
 
@@ -146,7 +149,27 @@ When I think about it, rather than saying she’s like this child or beast, isn�
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-124.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-125.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-126.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-127.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-128.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-129.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-130.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-131.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-132.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-133.jpg?raw=true)
+
+
 
 ## Dialogue
 

@@ -1,7 +1,7 @@
 # Asterios
 
 ::: tip
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/8likxv/asterios_servant_profile_from_fgo_material_ii/)
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/8likxv/asterios_servant_profile_from_fgo_material_ii/)
 :::
 
 
@@ -61,6 +61,7 @@ The pair of gigantic axes that are in Asterios’ possession. It is the symbol o
 ## Noble Phantasm(s)
 
 # Khaos Labyrinthos: The Eternally Unchanging Labyrinth
+
 - Rank: EX
 - Classification: Labyrinth Noble Phantasm
 - Range: 0
@@ -74,9 +75,9 @@ After it manifests, it will not disappear unless either Asterios is defeated or 
 
 ## Pronouns
 
-First Person Pronoun: boku
-Second Person Pronoun: omae
-Third Person Pronoun: aitsu
+- First Person Pronoun: boku
+- Second Person Pronoun: omae
+- Third Person Pronoun: aitsu
 
 ## Personality
 
@@ -140,7 +141,25 @@ At first, the assignment came to be a monster with a bull’s head, but while I 
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-118.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-119.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-120.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-121.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-122.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-123.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-124.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-125.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-126.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-127.jpg?raw=true)
 
 ## Dialogue
 

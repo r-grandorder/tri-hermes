@@ -1,7 +1,7 @@
 # Scáthach
 
 ::: tip
-Note: [This material is translated by X](https://www.reddit.com/r/grandorder/comments/8dl2l0/sc%C3%A1thachs_servant_profile_from_fgo_material_ii/)
+[This material is translated by X](https://www.reddit.com/r/grandorder/comments/8dl2l0/sc%C3%A1thachs_servant_profile_from_fgo_material_ii/)
 :::
 
 
@@ -63,6 +63,7 @@ A Skill Scáthach often employs during combat is “Clairvoyance” for the fore
 ## Noble Phantasm(s)
 
 # Gáe Bolg Alternative: The Soaring Spear that Penetrates with Piercing Death
+
 - Rank: B+*
 - Classification: Anti-Personnel Noble Phantasm
 - Range: 5~40
@@ -72,9 +73,10 @@ Their shapes are similar, but as a matter of fact, this spear is something diffe
 
 For its ability at the time of its True Name Release, it results in a special move similar to Cú Chulainn’s two Noble Phantasms – “The Barbed Spear that Stabs with Piercing Death” and “The Soaring Spear that Lunges with Piercing Death” – being combined together. First, for its close-range attack, a first demonic spear would snatch away the enemy’s freedom to move and act by “sewing them onto space”, then after that, Scáthach would throw a second demonic spear with all her strength to pierce through the enemy as the finishing blow. Naturally, enemies in the way of the thrown demonic spear will have their lives stolen away entirely as a result.
 
-*The Noble Phantasm is B-rank in the game profile
+* The Noble Phantasm is B-rank in the game profile
 
 # Gate of Skye: The Gate to the Magical Realm Brimming with Death
+
 - Rank: A+
 - Classification: Anti-Army Noble Phantasm
 - Range: 2~50
@@ -86,9 +88,9 @@ Scáthach temporarily summons an enormous “Gate” that leads to a region loca
 
 ## Pronouns
 
-First Person Pronouns: “watashi”, sometimes “washi” (from the way it seems, Scáthach herself does not want to say “washi” very much)
-Second Person Pronouns: omae / onushi / kisama / ○○ (without honorifics)
-Third Person Pronouns: yatsu / kare / kanojo / ○○ (without honorifics)
+- First Person Pronouns: “watashi”, sometimes “washi” (from the way it seems, Scáthach herself does not want to say “washi” very much)
+- Second Person Pronouns: omae / onushi / kisama / ○○ (without honorifics)
+- Third Person Pronouns: yatsu / kare / kanojo / ○○ (without honorifics)
 
 ## Personality
 
@@ -200,7 +202,37 @@ Being called the teacher of Cú Chulainn, Scáthach’s standard outfit was roug
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-280.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-281.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-282.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-283.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-284.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-285.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-286.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-287.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-288.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-289.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-290.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-291.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-292.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-293.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-294.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-295.jpg?raw=true)
 
 ## Dialogue
 
