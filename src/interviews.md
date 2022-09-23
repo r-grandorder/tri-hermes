@@ -4,7 +4,10 @@
 
 | Date | Title | Participants | Summary |
 |:--------:|:--------|:--------:|:--------|
+| August 2017 | [WHAT SHAPES MY SOUL (NASU KINOKO, ON IKUHARA KUNIHIKO)](Interviews/eureka.md) | Nasu Kinoko and Aoyagi Mihoko | Nasu gives his thoughts on the works of Ikuhara Kunihiko |
 | January 2019 | [The Trail of Type-Moon - The Biography of Type-Moon from its formation to FGO](Interviews/tm-trail.md) | TYPE-MOON | History of TM's origins to FGO |
+
+
 
 ## Fate/Grand Order 
 

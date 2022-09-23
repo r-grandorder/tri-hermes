@@ -16,8 +16,6 @@
 
 ![](https://i.imgur.com/BFongPr.jpeg)
 
-![](https://i1.lensdump.com/i/135ctT.webp)
-
 ![](https://i.imgur.com/0F3LWgF.jpeg)
 
 ![](https://i.imgur.com/k3p1wnj.jpeg)

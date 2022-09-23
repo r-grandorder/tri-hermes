@@ -4,4 +4,8 @@ Below are official materials published by TYPE-MOON to supplement their various 
 
 ## Character Materials
 
-* [Fate Character Material II]()
+* [Fate Character Material II](Materials/cmii.md)
+
+
+
+
