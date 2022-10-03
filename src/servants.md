@@ -2,7 +2,7 @@
 
 This page contains entries from Material Profiles of Servants from Books I-X. Big thanks to Infernal for compiling all material pages.
 
-::: Warning
+::: warning
 Page still under construction - some links may be broken and not all links contain respective material images.
 :::
 
@@ -19,7 +19,7 @@ Page still under construction - some links may be broken and not all links conta
 
 | Servant | Material / In-Game Profile | Interlude | Valentines (WIP)
 |:--------|:--------:|:--------:|:--------:|
-| Artoria Pendragon ![](https://i.imgur.com/dy1ObCn.png) | [Material Profile](Servants/Profiles/Artoria-Pendragon.md) | [Interlude](Servants/Interludes/Artoria-Pendragon.md) | |
+| ![](https://i.imgur.com/lqcLnt3.png) Artoria Pendragon | [Material Profile](Servants/Profiles/Artoria-Pendragon.md) | [Interlude](Servants/Interludes/Artoria-Pendragon.md) | |
 | Artoria Pendragon (Alter) | [Material Profile](Servants/Profiles/Artoria-Pendragon-Alter.md) | [Interlude](Servants/Interludes/Artoria-Pendragon-Alter.md) | |
 | Artoria Pendragon (Lily) | [Material Profile](Artoria-Pendragon-Lily.md) | [Interlude](Servants/Interludes/Artoria-Pendragon-Lily.md) | |
 | Nero Claudius | [Material Profile](Servants/Profiles/Nero-Claudius-Caesar.md) | [Interlude](Servants/Interludes/Nero-Claudius.md) | |
