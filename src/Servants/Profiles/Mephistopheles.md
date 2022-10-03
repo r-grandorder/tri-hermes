@@ -1,7 +1,8 @@
 # Mephistopheles
 
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/87lh1d/mephistopheles_servant_profile_from_fgo_material_i/)
-
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/87lh1d/mephistopheles_servant_profile_from_fgo_material_i/)
+:::
 
 ## Info
 
@@ -65,6 +66,7 @@ A Skill derived from Innocent Monster. As a(n established) devil, Mephistopheles
 ## Noble Phantasm(s)
 
 # Tick-Tock Bomb: Dozing Bomb
+
 - Rank: A+
 - Classification: Anti-Army Noble Phantasm
 - Range: 1~10
@@ -78,9 +80,9 @@ But actually, on the occasion of having its “True Name” invoked, it results 
 
 ## Pronouns
 
-First Person Pronoun: watakushi
-Second Person Pronoun: anata-sama
-Third Person Pronouns: ano kata / kare / kanojo, etc.
+- First Person Pronoun: watakushi
+- Second Person Pronoun: anata-sama
+- Third Person Pronouns: ano kata / kare / kanojo, etc.
 
 ## Personality
 
@@ -120,6 +122,7 @@ Pay special attention to Mephistopheles’ face that feigns ignorance. Indeed, i
 ## Related Characters
 
 This genius devil is not always lonely.
+
 Ok, Mephistopheles is just a little lonely.
 
 ## Comment from the Illustrator
@@ -130,7 +133,29 @@ Mephistopheles’ weapon. I thought it would be normal if it was a cane (stick),
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-312.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-313.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-314.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-315.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-316.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-317.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-318.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-319.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-320.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-321.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-322.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-323.jpg?raw=true)
 
 ## Dialogue
 

@@ -90,3 +90,4 @@ Events under years are using NA script. The format is JP/NA for year. The URL us
 * [Nixie Island](Events/JP/nixie.md)
 * [Nanmei Yumihari Hakkenden - The Eight Dog Bowmen At The Southern Sea](Events/JP/hakkenden.md)
 * [Arctic Summer](Events/JP/arcticsummer.md)
+* [GUDAGUDA - Shin Yamataikoku](Events/JP/shin-yamataikoku.md)

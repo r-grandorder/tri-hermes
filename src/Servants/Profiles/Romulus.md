@@ -1,7 +1,8 @@
 # Romulus
 
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/8duxug/romulus_servant_profile_from_fgo_material_i/)
-
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/8duxug/romulus_servant_profile_from_fgo_material_i/)
+:::
 
 ## Info
 
@@ -61,6 +62,7 @@ Romulus can grants blessings to those he personally recognizes as “his own chi
 ## Noble Phantasm(s)
 
 # Magna Voluisse Magnum: All Things Lead to My Spear
+
 - Rank: A++
 - Classification: Anti-Army Noble Phantasm
 - Range: 1~99
@@ -71,6 +73,7 @@ Magna Voluisse Magnum (Deeds Not Words). The Spear of Nation Building. It was to
 As a Noble Phantasm, it is being endowed with tree manipulation abilities, and at the time of its True Name Release, the spear will transform/enlarge as the great tree that creates “the past/present/future appearance of the imperial capital, Rome”, washing away the targets according to a torrent of surging waves of trees. A mass weapon Rome.
 
 # Moles Necessarie: All Things Lead to My Love
+
 - Rank: B
 - Classification: Barrier Noble Phantasm
 - Range: 1~40
@@ -82,9 +85,9 @@ Moles Necessarie (Necessary Rocks). It materializes the anecdote where Romulus p
 
 ## Pronouns
 
-First Person Pronoun: watashi (Rome)
-Second Person Pronouns: omae / ○○ (without honorifics)
-Third Person Pronouns: yatsu / ○○ (without honorifics)
+- First Person Pronoun: watashi (Rome)
+- Second Person Pronouns: omae / ○○ (without honorifics)
+- Third Person Pronouns: yatsu / ○○ (without honorifics)
 
 
 ## Personality
@@ -147,7 +150,29 @@ I just requested “I want to draw muscles”, and the responsibility for Romulu
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-192.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-193.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-194.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-195.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-196.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-197.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-198.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-199.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-200.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-201.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-202.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-203.jpg?raw=true)
 
 ## Dialogue
 

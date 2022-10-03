@@ -1,7 +1,8 @@
 # Boudica
 
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/8hv6z8/boudicas_servant_profile_from_fgo_material_i/)
-
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/8hv6z8/boudicas_servant_profile_from_fgo_material_i/)
+::: 
 
 ## Info
 
@@ -65,6 +66,7 @@ A divine protection bestowed by Andraste, the Goddess of Victory. On the occasio
 ## Noble Phantasm(s)
 
 # Chariot of Boudica: The Chariot of Unpromised Protection
+
 - Rank: B+
 - Classification: Anti-Army Noble Phantasm
 - Range: 2~40
@@ -77,6 +79,7 @@ By releasing its True Name, the chariot makes its appearance and protects Boudic
 The figure of Boudica driving the chariot can even be seen in modern times as a bronze statue in London, at the Thames Path in the Westminster area.
 
 # Sword of Boudica: The Sword of Unpromised Victory
+
 - Rank: B
 - Classification: Anti-Personnel Noble Phantasm
 - Range: 1~20
@@ -90,9 +93,9 @@ For its ability, it can shoot out a somewhat small Magical Energy projectile. Th
 
 ## Pronouns
 
-First Person Pronoun: atashi
-Second Person Pronouns: kimi / ○○ (without honorifics)
-Third Person Pronouns: aitsu / ano hito / ○○ (without honorifics)
+- First Person Pronoun: atashi
+- Second Person Pronouns: kimi / ○○ (without honorifics)
+- Third Person Pronouns: aitsu / ano hito / ○○ (without honorifics)
 
 ## Personality
 
@@ -170,7 +173,25 @@ It would have been good if the picture for Boudica’s Second Stage was her Firs
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-230.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-231.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-232.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-233.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-234.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-235.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-236.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-237.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-238.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-239.jpg?raw=true)
 
 ## Dialogue
 

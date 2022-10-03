@@ -1,7 +1,8 @@
 # Ushiwakamaru
 
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/8eh4k7/ushiwakamarus_servant_profile_from_fgo_material_i/)
-
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/8eh4k7/ushiwakamarus_servant_profile_from_fgo_material_i/)
+:::
 
 ## Info
 
@@ -36,31 +37,32 @@ Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grand
 
 ## Class Skills
 
-Riding: A+
+**Riding: A+**
 
 The ability for riding. One can manage every vehicle and beast, but they cannot manage the Dragon Kind.
 
-Magical Resistance: C
+**Magical Resistance: C**
 
 Nullifies Magecraft spells that were done with a chant of two verses or below. Cannot defend against large-scale Magecraft such as Great Magecrafts and Ritual Spells.
 
 ## Personal Skills
 
-Tengu Art of War: A
+**Tengu Art of War: A**
 
 A Skill based on the anecdote of being taught the art of war from a tengu, an inhuman existence. Provides a bonus to close-combat powers such as swordsmanship, archery and spearmanship, as well as Skills such as Military Tactics and Magical Resistance.
 
-Charisma: C+
+**Charisma: C+**
 
 Although Ushiwakamaru has a calibre that is not liked by everybody, if one gets close to her, the closer they get, the more they become obsessed with her strange charm.
 
-The Quick-Wittedness of the Swallow: B
+**The Quick-Wittedness of the Swallow: B**
 
 A Skill based on the movements of Ushiwakamaru’s body being done lightly like a swallow. At Gojo Ohashi, Ushiwakamaru exchanged slashes again and again with the formidable Benkei without getting hit once.
 
 ## Noble Phantasm(s)
 
 # Shana-Ou Ryuuritan (King Mahavairocana’s Wandering Tales)
+
 - Rank: A++
 - Classification: Anti-Personnel (Self) Noble Phantasm
 - Range: 1
@@ -69,21 +71,25 @@ A Skill based on the movements of Ushiwakamaru’s body being done lightly like 
 The embodiment of Ushiwakamaru’s various legends, which were created from right after she became Minamoto no Yoshitsune to the moment she perished in Oshu. This Noble Phantasm comprises five secret techniques.[1]
 
 # Eyes of Jizaiten – Seeing with the Six Secret Teachings
+
 - Classification: Anti-Army Secret Technique
 
 Eyes of Jizaiten (Eyes of the Great Lord)[2]. Ushiwakamaru forcibly relocates everyone that are on the field. It changes battle conditions in that it creates an overwhelming advantage for each ally’s position and an overwhelming disadvantage for the enemy camp.
 
 # Usumidori – Short Steps with the Heavenly Blade
+
 - Classification: Anti-Personnel Secret Technique
 
 Usumidori (Pale Green). A brilliant slash with Usumidori. This single attack, delivered by Ushiwakamaru after her Shukuchi movement that was executed according to a tengu’s footwork, is difficult to evade.
 
 # Benkei – Immovable Standpoint
+
 - Classification: Anti-Army Secret Technique
 
 Ushiwakamaru recreates an imitation of Musashibou Benkei’s body alone. The more faith Ushiwakamaru has in Benkei, the stronger the body becomes, resulting in a sturdy shield. It can defend against Anti-Army Noble Phantasms up to Rank B.
 
 # Dan-no-Ura – Eight-Boat Leap
+
 - Rank: C
 - Classification: Anti-Personnel Secret Technique
 - Range: 1
@@ -92,6 +98,7 @@ Ushiwakamaru recreates an imitation of Musashibou Benkei’s body alone. The mor
 The materialization of Ushiwakamaru’s feat of leaping over eight boats that she displayed at Dan-no-Ura. No matter how difficult the terrain is in getting a foothold, if there is even the slightest place where she can place her foot on, it is possible for Ushiwakamaru to move through the terrain by jumping. Also, this technique further enhances her jumping power.
 
 # Hoemaru – Spider Killer
+
 - Classification: Anti-Army Secret Technique
 
 Hoemaru (Howler). Ushiwakamaru demonstrates Usumidori’s true “power”. It repels “demons” in the surrounding area and inflicts damage according to its sonic attack.
@@ -100,9 +107,9 @@ Hoemaru (Howler). Ushiwakamaru demonstrates Usumidori’s true “power”. It r
 
 ## Pronouns
 
-First Person Pronoun: watashi
-Second Person Pronouns: anata, ○○-dono / To her Master: aruji-dono [My Lord]
-Third Person Pronouns: kare, kanojo
+- First Person Pronoun: watashi
+- Second Person Pronouns: anata, ○○-dono / To her Master: aruji-dono [My Lord]
+- Third Person Pronouns: kare, kanojo
 
 ## Personality
 
@@ -137,9 +144,13 @@ After he destroyed the Taira clan, Yoritomo immediately began to obliterate Ushi
 Since the Taira disappeared, Ushiwakamaru was Yoritomo’s next political opponent. In addition, as far as Houjou Masako, her older brother’s wife, was concerned, the likes of Minamoto no Yoshitsune was probably unneeded. If so, Ushiwakamaru will behave as her older brother’s enemy and do nothing but fight and die in battle, all in accordance with what her older brother desires. Although Ushiwakamaru intended of such, her subordinates persuaded her, and it resulted in her escaping to Oshu. And yet, Yoritomo persistently chased after her. He deemed her not as family, but as an inhuman monster, and chased after her.
 
 ————“That’s strange, you know. This is somewhat unreasonable.”
+
 ————“Though, it was human beings that preferred emotions rather than gains and losses.”
+
 ————“I only wanted my older brother to praise me, but I was lacking something.”
+
 ————“I’m sorry… that I couldn’t change up to my last moments————”
+
 
 Although Ushiwakamaru was defeated at Oshu, her name was carved into the history of Japan. All without understanding the essence of anyone as she is.
 
@@ -173,13 +184,35 @@ Because I added a lot of armour on Ushiwakamaru, my workload was enormous and la
 
 ## TL Notes
 
-[1] – Ushiwakamaru actually has a sixth Secret Technique that is considered a part of King Mahavairocana’s Wandering Tales despite not being listed. As seen in Onigashima, it’s called Kiken-jou – Icicle Cutting, a technique which allows her to cut through an incoming attack, mainly projectile attacks. This technique is based on Yoshitsune’s feat of cutting down arrows that were fired at him, as if he was cutting through icicles.
-Kiken-jou is the Japanese name of the living quarters of the Deity Taishakuten/Śakra. It is located in the Buddhist paradise called Touriten, which is the Japanese name for Trāyastriṃśa, the second of the six heavens of the Desire Realm.
+[1] – Ushiwakamaru actually has a sixth Secret Technique that is considered a part of King Mahavairocana’s Wandering Tales despite not being listed. As seen in Onigashima, it’s called Kiken-jou – Icicle Cutting, a technique which allows her to cut through an incoming attack, mainly projectile attacks. This technique is based on Yoshitsune’s feat of cutting down arrows that were fired at him, as if he was cutting through icicles. Kiken-jou is the Japanese name of the living quarters of the Deity Taishakuten/Śakra. It is located in the Buddhist paradise called Touriten, which is the Japanese name for Trāyastriṃśa, the second of the six heavens of the Desire Realm.
+
 [2] – Jizaiten is the Japanese name for Maheśvara, one of Shiva’s epithets meaning ‘The Great Lord‘.
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-240.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-241.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-242.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-243.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-244.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-245.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-246.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-247.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-248.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-249.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-250.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-251.jpg?raw=true)
 
 ## Dialogue
 
