@@ -331,7 +331,7 @@ Page still under construction - some links may be broken and not all links conta
 | Penthesilea | [Material Profile](Servants/Profiles/Penthesilea.md) | [Interlude](Servants/Interludes/Penthesilea.md) | |
 | Paul Bunyan | [Material Profile](Servants/Profiles/Paul-Bunyan.md) | | |
 | Oda Nobunaga | [Material Profile](Servants/Profiles/Oda-Nobunaga-Berserker.md) | | |
-| Atalante (Alter) | [Material Profile](Servants/Profiles/Atalante-Alter.md) | | |
+| Atalante (Alter) | [Material Profile](Servants/Profiles/Atalante-Alter.md) | [Interlude](Servants/Interludes/Arjuna-Alter.md) | |
 | Jeanne d'Arc (Alter) | [Material Profile](Servants/Profiles/Jeanne-d'Arc-Alter-Berserker.md) | | |
 | Xiang Yu | [Material Profile](Servants/Profiles/Xiang-Yu.md) | [Interlude](Servants/Interludes/Xiang-Yu.md) | |
 | Arjuna (Alter) | [Material Profile](Servants/Profiles/Arjuna-Alter.md) | | |
