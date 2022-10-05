@@ -1,4 +1,4 @@
-# Fate/Strange Fake Volume 5: 
+# Fate/Strange Fake Volume 5
 
 (image)
 

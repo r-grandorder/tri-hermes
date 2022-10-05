@@ -1,4 +1,4 @@
-# Fate/Strange Fake Volume 1: 
+# Fate/Strange Fake Volume 1 
 
 ---
 
