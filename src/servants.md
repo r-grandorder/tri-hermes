@@ -19,10 +19,10 @@ Page still under construction - some links may be broken and not all links conta
 
 | | Servant | Material / In-Game Profile | Interlude | Valentines (WIP)
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-|![](https://i.imgur.com/lqcLnt3.png) | Artoria Pendragon | [Material Profile](Servants/Profiles/Artoria-Pendragon.md) | [Interlude](Servants/Interludes/Artoria-Pendragon.md) | |
-| | Artoria Pendragon (Alter) | [Material Profile](Servants/Profiles/Artoria-Pendragon-Alter.md) | [Interlude](Servants/Interludes/Artoria-Pendragon-Alter.md) | |
-| | Artoria Pendragon (Lily) | [Material Profile](Artoria-Pendragon-Lily.md) | [Interlude](Servants/Interludes/Artoria-Pendragon-Lily.md) | |
-| | Nero Claudius | [Material Profile](Servants/Profiles/Nero-Claudius-Caesar.md) | [Interlude](Servants/Interludes/Nero-Claudius.md) | |
+| ![](https://i.imgur.com/EMoywkB.png) | Artoria Pendragon | [Material Profile](Servants/Profiles/Artoria-Pendragon.md) | [Interlude](Servants/Interludes/Artoria-Pendragon.md) | |
+| ![](https://i.imgur.com/o4b2UDA.png) | Artoria Pendragon (Alter) | [Material Profile](Servants/Profiles/Artoria-Pendragon-Alter.md) | [Interlude](Servants/Interludes/Artoria-Pendragon-Alter.md) | |
+| ![](https://i.imgur.com/vPj5Eb6.png) | Artoria Pendragon (Lily) | [Material Profile](Artoria-Pendragon-Lily.md) | [Interlude](Servants/Interludes/Artoria-Pendragon-Lily.md) | |
+| ![](https://i.imgur.com/ftmbkut.png) | Nero Claudius | [Material Profile](Servants/Profiles/Nero-Claudius-Caesar.md) | [Interlude](Servants/Interludes/Nero-Claudius.md) | |
 | | Siegfried | [Material profile](Servants/Profiles/Siegfried.md) | [Interlude](Servants/Interludes/Siegfried.md) | |
 | | Gaius Julius Caesar | [Material Profile](Servants/Profiles/Gaius-Julius-Caesar.md) | [Interlude](Servants/Interludes/Gaius-Julius-Caesar.md) | |
 | | Altera | [Material Profile](Servants/Profiles/Altera.md) | [Interlude](Servants/Interludes/Altera.md) | |
