@@ -2,12 +2,14 @@
   max-width: 450px!important;
 }
 
-.h2 {
-    margin-top: -80px;
+.h1 .h2 .h3 .h4 .h5 .h6 {
+	margin-top: -80px;
     padding-top: 80px;
-	line-height: 6;
+	line-height: 6px;
 }
 
 :root {
   scroll-behavior: smooth;
+  --c-brand: #0094FF;
+  --c-brand-light: #1E61FF;
 }

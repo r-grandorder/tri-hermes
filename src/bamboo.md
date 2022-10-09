@@ -1559,7 +1559,7 @@ So. At the time, there was a Kirschtaria defeat voice-line just in case of playe
 It’s not much but I present this to those of you who have beaten Olympus.
 (I've already gotten permission from DW)
 
-http://www.typemoon.org/bbb/diary/img/%E3%82%AD%E3%83%AA%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%AA%E3%82%A2%E6%95%97%E5%8C%971.wav
+[Audio Link](http://www.typemoon.org/bbb/diary/img/%E3%82%AD%E3%83%AA%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%AA%E3%82%A2%E6%95%97%E5%8C%971.wav)
 
 Yes. Humans cannot choose the right answer.
 Because what’s actually important is what you do thereafter.
