@@ -4,14 +4,16 @@
  * ref：https://v1.vuepress.vuejs.org/config/#index-styl
  */
 
-.home .hero img
-  max-width 450px!important
+.home .hero img {
+  max-width 450px!important;
+}
 
-h2
-    margin-top -80px
-    padding-top 80px
-	line-height 6
-	
+.h2 {
+    margin-top -80px;
+    padding-top 80px;
+	line-height 6;
+}
+
 :root {
   scroll-behavior: smooth;
 }
