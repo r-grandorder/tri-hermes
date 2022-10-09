@@ -49,7 +49,7 @@ Page still under construction - some links may be broken and not all links conta
 | | Lanling Wang | [Material Profile](Servants/Profiles/Lanling-Wang.md) | [Interlude](Servants/Interludes/Lanling-Wang.md) | |
 | | Beni-Enma | [Material Profile](Servants/Profiles/Beni-Enma.md) | [Interlude](Servants/Interludes/Beni-Enma.md) | |
 | | Lakshmi Bai | [Material Profile](Servants/Profiles/Lakshmibai.md) | [Interlude](Servants/Interludes/Lakshmi-Bai.md) | |
-| | Jason | [Material Profile](Servants/Profiles/Jason.md) | | |
+| | Jason | [Material Profile](Servants/Profiles/Jason.md) | [Interlude](Servants/Interludes/Jason.md) | |
 | | Katsushika Hokusai | [Material Profile](Servants/Profiles/Katsushika-Hokusai-Saber.md) | | |
 | | Astolfo |  | | |
 | | Dioscuri | | | |
