@@ -23,49 +23,49 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/o4b2UDA.png) | Artoria Pendragon (Alter) | [Material Profile](Servants/Profiles/Artoria-Pendragon-Alter.md) | [Interlude](Servants/Interludes/Artoria-Pendragon-Alter.md) | |
 | ![](https://i.imgur.com/vPj5Eb6.png) | Artoria Pendragon (Lily) | [Material Profile](Artoria-Pendragon-Lily.md) | [Interlude](Servants/Interludes/Artoria-Pendragon-Lily.md) | |
 | ![](https://i.imgur.com/ftmbkut.png) | Nero Claudius | [Material Profile](Servants/Profiles/Nero-Claudius-Caesar.md) | [Interlude](Servants/Interludes/Nero-Claudius.md) | |
-| | Siegfried | [Material profile](Servants/Profiles/Siegfried.md) | [Interlude](Servants/Interludes/Siegfried.md) | |
-| | Gaius Julius Caesar | [Material Profile](Servants/Profiles/Gaius-Julius-Caesar.md) | [Interlude](Servants/Interludes/Gaius-Julius-Caesar.md) | |
-| | Altera | [Material Profile](Servants/Profiles/Altera.md) | [Interlude](Servants/Interludes/Altera.md) | |
-| | Gilles de Rais | [Material Profile](Servants/Profiles/Gilles-de-Rais-Saber.md) | [Interlude](Servants/Interludes/Gilles-de-Rais-Saber.md) | |
-| | Chevalier d'Eon | [Material Profile](Servants/Profiles/Chevalier-d’Éon.md) | [Interlude](Servants/Interludes/Chevalier-d’Éon.md) | |
-| | Okita Sōji | [Material profile](Servants/Profiles/Okita-Sōji.md) | | |
-| | Fergus mac Róich | [Material Profile](Servants/Profiles/Fergus-mac-Róich.md) | [Interlude](Servants/Interludes/Fergus-mac-Róich.md) | |
-| | Mordred | [Material profile](Servants/Profiles/Mordred.md) | [Interlude](Servants/Interludes/Mordred.md) | |
-| | Nero Claudius (Bride) | [Material Profile](Servants/Profiles/Nero-Claudius-Bride.md) | [Interlude](Servants/Interludes/Nero-Claudius-Bride.md) | |
-| | Ryōgi Shiki | [Material Profile](Servants/Profiles/Ryōgi-Shiki-Saber.md) | | |
-| | Rama | [Material Profile](Servants/Profiles/Rama.md) | [Interlude](Servants/Interludes/Rama.md) | |
-| | Lancelot | [Material Profile](Servants/Profiles/Lancelot-Saber.md) | [Interlude](Servants/Interludes/Lancelot-Saber.md) | |
-| | Gawain | [Material Profile](Servants/Profiles/Gawain.md) | [Interlude](Servants/Interludes/Gawain.md) | |
-| | Bedivere | [Material Profile](Servants/Profiles/Bedivere.md) | [Interlude](Servants/Interludes/Bedivere.md) | |
-| | Elisabeth Báthory (Brave) |[Material Profile](Servants/Profiles/Elizabeth-Báthory-Brave.md) | | |
-| | Miyamoto Musashi | [Material Profile](Servants/Profiles/Miyamoto-Musashi.md) | | |
-| | Arthur Pendragon (Prototype) | [Material Profile](Servants/Profiles/Arthur-Pendragon-Prototype.md) | [Interlude](Servants/Interludes/Arthur-Pendragon-Prototype.md) | |
-| | Suzuka Gozen | [Material Profile](Servants/Profiles/Suzuka-Gozen.md) | [Interlude](Servants/Interludes/Suzuka-Gozen.md) | |
-| | Frankenstein | [Material Profile](Servants/Profiles/Frankenstein-Saber.md) | | |
-| | Yagyu Tajima-no-kami Munenori | [Material Profile](Servants/Profiles/Yagyuu-Tajima-no-kami-Munenori.md) | [Interlude](Servants/Interludes/Yagyu-Tajima-no-kami-Munenori.md) | |
-| | Sigurd | [Material Profile](Servants/Profiles/Sigurd.md) | [Interlude](Servants/Interludes/Sigurd.md) | |
-| | Medb | [Material Profile](Servants/Profiles/Medb.md) | | |
-| | Diarmuid Ua Duibhne | [Material Profile](Servants/Profiles/Diarmuid-Ua-Duibhne-Saber.md) | [Interlude](Servants/Interludes/Diarmuid-Ua-Duibhne-Saber.md) | |
-| | Lanling Wang | [Material Profile](Servants/Profiles/Lanling-Wang.md) | [Interlude](Servants/Interludes/Lanling-Wang.md) | |
-| | Beni-Enma | [Material Profile](Servants/Profiles/Beni-Enma.md) | [Interlude](Servants/Interludes/Beni-Enma.md) | |
-| | Lakshmi Bai | [Material Profile](Servants/Profiles/Lakshmibai.md) | [Interlude](Servants/Interludes/Lakshmi-Bai.md) | |
-| | Jason | [Material Profile](Servants/Profiles/Jason.md) | [Interlude](Servants/Interludes/Jason.md) | |
-| | Katsushika Hokusai | [Material Profile](Servants/Profiles/Katsushika-Hokusai-Saber.md) | | |
-| | Astolfo |  | | |
-| | Dioscuri | | | |
-| | Tomoe Gozen |  | | |
-| | Saitou Hajime | | | |
-| | Watanabe no Tsuna | | | |
-| | Ibuki-Dōji | | | |
-| | Karna (Santa) | | | |
-| | Senji Muramasa | | | |
-| | Fairy Knight Gawain | | | |
-| | Okita Souji (Alter) | | | |
-| | Trưng Sisters | | | |
-| | Charlemagne | | | |
-| | Roland | | | |
-| | Gareth | | | |
-| | Yamanami Keisuke | | | |
+| ![](https://i.imgur.com/lrYhgYu.png) | Siegfried | [Material profile](Servants/Profiles/Siegfried.md) | [Interlude](Servants/Interludes/Siegfried.md) | |
+| ![](https://i.imgur.com/NL4Ht3d.png) | Gaius Julius Caesar | [Material Profile](Servants/Profiles/Gaius-Julius-Caesar.md) | [Interlude](Servants/Interludes/Gaius-Julius-Caesar.md) | |
+| ![](https://i.imgur.com/1ce5m3Z.png) | Altera | [Material Profile](Servants/Profiles/Altera.md) | [Interlude](Servants/Interludes/Altera.md) | |
+| ![](https://i.imgur.com/ncy1CVO.png) | Gilles de Rais | [Material Profile](Servants/Profiles/Gilles-de-Rais-Saber.md) | [Interlude](Servants/Interludes/Gilles-de-Rais-Saber.md) | |
+| ![](https://i.imgur.com/QWwURBz.png) | Chevalier d'Eon | [Material Profile](Servants/Profiles/Chevalier-d’Éon.md) | [Interlude](Servants/Interludes/Chevalier-d’Éon.md) | |
+| ![](https://i.imgur.com/cfTd19X.png) | Okita Sōji | [Material profile](Servants/Profiles/Okita-Sōji.md) | | |
+| ![](https://i.imgur.com/FfQxpLd.png) | Fergus mac Róich | [Material Profile](Servants/Profiles/Fergus-mac-Róich.md) | [Interlude](Servants/Interludes/Fergus-mac-Róich.md) | |
+| ![](https://i.imgur.com/ywMZ9jR.png) | Mordred | [Material profile](Servants/Profiles/Mordred.md) | [Interlude](Servants/Interludes/Mordred.md) | |
+| ![](https://i.imgur.com/UkOaKxS.png) | Nero Claudius (Bride) | [Material Profile](Servants/Profiles/Nero-Claudius-Bride.md) | [Interlude](Servants/Interludes/Nero-Claudius-Bride.md) | |
+| ![](https://i.imgur.com/JV9KTDc.png) | Ryōgi Shiki | [Material Profile](Servants/Profiles/Ryōgi-Shiki-Saber.md) | | |
+| ![](https://i.imgur.com/cUdeHWN.png) | Rama | [Material Profile](Servants/Profiles/Rama.md) | [Interlude](Servants/Interludes/Rama.md) | |
+| ![](https://i.imgur.com/ZZNCZnw.png) | Lancelot | [Material Profile](Servants/Profiles/Lancelot-Saber.md) | [Interlude](Servants/Interludes/Lancelot-Saber.md) | |
+| ![](https://i.imgur.com/Zdecmd0.png) | Gawain | [Material Profile](Servants/Profiles/Gawain.md) | [Interlude](Servants/Interludes/Gawain.md) | |
+| ![](https://i.imgur.com/UoTv0qR.png) | Bedivere | [Material Profile](Servants/Profiles/Bedivere.md) | [Interlude](Servants/Interludes/Bedivere.md) | |
+| ![](https://i.imgur.com/1zlGb44.png) | Elisabeth Báthory (Brave) |[Material Profile](Servants/Profiles/Elizabeth-Báthory-Brave.md) | | |
+| ![](https://i.imgur.com/ZS5Qq8M.png) | Miyamoto Musashi | [Material Profile](Servants/Profiles/Miyamoto-Musashi.md) | | |
+| ![](https://i.imgur.com/4CMHv8x.png) | Arthur Pendragon (Prototype) | [Material Profile](Servants/Profiles/Arthur-Pendragon-Prototype.md) | [Interlude](Servants/Interludes/Arthur-Pendragon-Prototype.md) | |
+| ![](https://i.imgur.com/QOHcs1q.png) | Suzuka Gozen | [Material Profile](Servants/Profiles/Suzuka-Gozen.md) | [Interlude](Servants/Interludes/Suzuka-Gozen.md) | |
+| ![](https://i.imgur.com/7w99wk9.png) | Frankenstein | [Material Profile](Servants/Profiles/Frankenstein-Saber.md) | | |
+| ![](https://i.imgur.com/uYVMNAS.png) | Yagyu Tajima-no-kami Munenori | [Material Profile](Servants/Profiles/Yagyuu-Tajima-no-kami-Munenori.md) | [Interlude](Servants/Interludes/Yagyu-Tajima-no-kami-Munenori.md) | |
+| ![](https://i.imgur.com/6tTDnJa.png) | Sigurd | [Material Profile](Servants/Profiles/Sigurd.md) | [Interlude](Servants/Interludes/Sigurd.md) | |
+| ![](https://i.imgur.com/UhZxdOP.png) | Medb | [Material Profile](Servants/Profiles/Medb.md) | | |
+| ![](https://i.imgur.com/Ni0wOky.png) | Diarmuid Ua Duibhne | [Material Profile](Servants/Profiles/Diarmuid-Ua-Duibhne-Saber.md) | [Interlude](Servants/Interludes/Diarmuid-Ua-Duibhne-Saber.md) | |
+| ![](https://i.imgur.com/XhbofTy.png) | Lanling Wang | [Material Profile](Servants/Profiles/Lanling-Wang.md) | [Interlude](Servants/Interludes/Lanling-Wang.md) | |
+| ![](https://i.imgur.com/RPDyWGv.png) | Beni-Enma | [Material Profile](Servants/Profiles/Beni-Enma.md) | [Interlude](Servants/Interludes/Beni-Enma.md) | |
+| ![](https://i.imgur.com/3dpoyLi.png) | Lakshmi Bai | [Material Profile](Servants/Profiles/Lakshmibai.md) | [Interlude](Servants/Interludes/Lakshmi-Bai.md) | |
+| ![](https://i.imgur.com/SuLpwJS.png) | Jason | [Material Profile](Servants/Profiles/Jason.md) | [Interlude](Servants/Interludes/Jason.md) | |
+| ![](https://i.imgur.com/Q0rbya2.png) | Katsushika Hokusai | [Material Profile](Servants/Profiles/Katsushika-Hokusai-Saber.md) | | |
+| ![](https://i.imgur.com/AKEuEjF.png) | Astolfo |  | | |
+| ![](https://i.imgur.com/SnAVBUv.png) | Dioscuri | | | |
+| ![](https://i.imgur.com/Tgg0vOT.png) | Tomoe Gozen |  | | |
+| ![](https://i.imgur.com/ptePkIQ.png) | Saitou Hajime | | | |
+| ![](https://i.imgur.com/hFM4f7C.png) | Watanabe no Tsuna | | | |
+| ![](https://i.imgur.com/ymTaSw6.png) | Ibuki-Dōji | | | |
+| ![](https://i.imgur.com/ylGVGOg.png) | Karna (Santa) | | | |
+| ![](https://i.imgur.com/XUMMhXT.png) | Senji Muramasa | | | |
+| ![](https://i.imgur.com/RAYAH0t.png) | Fairy Knight Gawain | | | |
+| ![](https://i.imgur.com/sO88g9b.png) | Okita Souji (Alter) | | | |
+| ![](https://i.imgur.com/xfwRyLC.png) | Trưng Sisters | | | |
+| ![](https://i.imgur.com/y2hKdcI.png) | Charlemagne | | | |
+| ![](https://i.imgur.com/rPsUDWj.png) | Roland | | | |
+| ![](https://i.imgur.com/WVkGuxl.png) | Gareth | | | |
+| ![](https://i.imgur.com/AwSenWj.png) | Yamanami Keisuke | | | |
 
 ## Archer
 
