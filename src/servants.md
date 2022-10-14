@@ -208,6 +208,7 @@ Page still under construction - some links may be broken and not all links conta
 | | Dobrynya Nikitich | | | |
 | | Constantine XI | | | |
 | | Kyokutei Bakin | | | |
+| ![](https://i.imgur.com/t3JXuTC.png) | Huang Feihu | [In-Game Profile](Huang-Feihu.md) | | |
 
 ## Caster
 
