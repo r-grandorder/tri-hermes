@@ -1,7 +1,30 @@
 # Huang Feihu
 
+::: tip TL Source
+The [profile](https://www.reddit.com/r/grandorder/comments/y2a8m2/huang_feihus_profile/) and [dialogue](https://www.reddit.com/r/grandorder/comments/y2o4vf/huang_feihus_lines/) have been translated by Comun.
+:::
+
+## Ascension Artwork
+
+::: details Stage 1
+![](https://i.imgur.com/X3Mhldh.png)
+:::
+
+::: details Stage 2
+![](https://i.imgur.com/TphLKQK.png)
+:::
+
+::: details Stage 3
+![](https://i.imgur.com/Q8fDEdl.png)
+:::
+
+::: details Final Stage
+![](https://i.imgur.com/2elmve9.png)
+:::
+
 ## Default
 
+::: details Raw JP
 黄飛虎は『封神演義』の登場人物である。
 
 武芸の達人であり、五色神牛という特別な牛に乗っているとされる。
@@ -15,8 +38,7 @@
 西岐の軍勢、太公望たちと合流した黄飛虎は開国武成王となり、彼らと共に紂王討伐のため殷に向けて進軍したが、その途上で敵の刃に斃れることになった。
 
 黄天化、黄天禄、黄天爵、黄天祥という四人の息子がいる。
-
----
+:::
 
 Huang Feihu is a character in The Investiture of the Gods.
 
@@ -49,14 +71,14 @@ TL Note: Like with Prince of Lan Ling, "prince" here is a title granted to royal
 
 ## Bond 1
 
+::: details Raw JP
 * 身長／体重：192cm・92kg
 * 出典：『封神演義』
 * 地域：中国
 * 属性：混沌・善　　性別：男性
 
 開国武成王の場合は「混沌・善」に、鎮国武成王の場合は「秩序・善」となる。
-
----
+:::
 
 * Height/Weight: 192cm / 92kg
 * Source: Investiture of the Gods
@@ -69,6 +91,7 @@ TL Note: Like with Prince of Lan Ling, "prince" here is a title granted to royal
 
 ## Bond 2
 
+::: details Raw JP
 黄飛虎は封神演義における主要登場人物の一人。
 
 七代前より商（殷）王朝に仕える名家黄一族の者で、はじめ「鎮国武成王」として大将軍のような立場をもって正当なる王である紂王に仕えていた。しかし妖狐に成り代わられた蘇妲己を紂王が妻として迎え入れたことから状況が変わっていく。
@@ -80,8 +103,7 @@ TL Note: Like with Prince of Lan Ling, "prince" here is a title granted to royal
 これにより黄飛虎に恨みを抱いた妲己は策略をもって黄飛虎の妻であった賈氏に身を投げさせ、さらには紂王の側室であった黄妃（黄飛虎の妹）を紂王に殺させた。
 
 この事件が引き金となり、黄飛虎は殷への造反を決意したのであった。
-
----
+:::
 
 Huang Feihu is a major character in The Investiture of the Gods.
 
@@ -97,6 +119,7 @@ This incident was the last straw triggering Huang Feihu's rebellion against Yin.
 
 ## Bond 3
 
+::: details Raw JP
 周に帰順した黄飛虎は「開国武成王」の位を与えられ、太公望（姜子牙）、哪吒、黄天化などと共に軍の将として紂王が送り込んでくる討伐軍と戦い、そのことごとくを打ち破った。
 
 そして周はいよいよ妲己と紂王を打ち倒すべく朝歌（殷の首都）へと進軍を開始する。
@@ -106,8 +129,7 @@ This incident was the last straw triggering Huang Feihu's rebellion against Yin.
 息子・黄天化の仇を討ってくれた大恩ある仲間に報いようと出陣した結果のことであった。
 
 妻と妹の仇である妲己、紂王への報いが仲間たちの手によって果たされたあと、黄飛虎の魂は太公望の手によって封神され、地獄を掌管する「東岳泰山天斉仁聖大帝」（東岳大帝）の地位を与えられた。
-
----
+:::
 
 Upon swearing his allegiance to the Zhōu forces, Huang Feihu was granted the title of Prince of Wu Cheng Who Founds the Kingdom and led the army with his companions Taigong Wang (Jiang Ziya), Nezha, Huang Tianhua, and many more. Together they defeated every punitive force that King Zhòu send their way.
 
@@ -120,6 +142,7 @@ After his companions avenged Feihu's wife and sister by giving Daji and King Zh�
 
 ## Bond 4
 
+::: details Raw JP
 ○ 黄家の絆：Ｂ
 
 封神演義において、黄飛虎の一族は特に多くの人物が登場し、また重要な役割を持って語られている。
@@ -140,9 +163,7 @@ After his companions avenged Feihu's wife and sister by giving Daji and King Zh�
 きんがんしんおう。黄飛虎が北海から得たという、赤い鳥籠に入った神鶯。
 
 紂王と妲己が宴席を設けた折、誰もが泥酔した深夜、妲己が喰らう人間を物色するため元の姿を現してそこを徘徊したことがあった。ほろ酔いだった黄飛虎は不吉な気配に飛び起きて金眼神鶯を解放すると、鶯は目を赤くし、鋼の鉤のような爪で妖狐に襲いかかり、その顔に傷を負わせたという。それにより黄飛虎は妲己の恨みを買うこととなった。
-
-
----
+:::
 
 ### Skill: Bonds of the Huang Family: B
 
@@ -165,6 +186,7 @@ Late on the night of King Zhòu and Daji's banquet, when everyone was drunk beyo
 
 ## Bond 5
 
+::: details Raw JP
 『黄飛虎反五関・天化莫耶宝剣』
 
 ランク：Ａ　種別：対人宝具
@@ -197,8 +219,7 @@ Late on the night of King Zhòu and Daji's banquet, when everyone was drunk beyo
 サーヴァントの黄飛虎は、本来黄天化の持ち物であるこれを、逸話ごとその力を借り受けることで自らの宝具として所持している。
 
 なお、他の「莫耶」という銘の剣との関係性は不明。
-
----
+:::
 
 ### Noble Phantasm: Huang Feihu Hanwuguan: Tianhua Mo Ye Baojian
 
@@ -249,6 +270,7 @@ Note: it's unknown how this sword relates to other swords titled Mo Ye.
 
 ![](https://i.imgur.com/M5WUWvn.png)
 
+::: details Raw JP
 北海で手に入れたという、
 
 尋常ならざる鶯。
@@ -260,8 +282,7 @@ Note: it's unknown how this sword relates to other swords titled Mo Ye.
 セミラミスや水着のカーマなどと一緒に任務に出た際は鳩やオウムたちと鳥語でよくお喋りをしている姿が見られる。
 
 なお動物会話の心得がある者にどんなことを話しているのか戯れに聞いてみたところ、「知らないほうがいい」とそっと目を逸らされた。 
-
----
+:::
 
 An extraordinary warbler obtained in the northern seas.
 
@@ -272,17 +293,6 @@ He normally had it in a red cage, but now that the bird is a part of Servant Hua
 Whenever I send him on a party with Semiramis or Swimsuit Kama, the warbler can be seen talking in birdese with their doves and parrot.
 
 One day I got interested and asked the people who understand animal conversation what they talk so much about, but all of them averted their gaze and answered "You're better off not knowing".
-
-
-## Ascension Artwork
-
-![](https://i.imgur.com/X3Mhldh.png)
-
-![](https://i.imgur.com/TphLKQK.png)
-
-![](https://i.imgur.com/Q8fDEdl.png)
-
-![](https://i.imgur.com/2elmve9.png)
 
 ## Dialogue
 
