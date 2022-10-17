@@ -12,4 +12,6 @@
 |:--------:|:--------|:--------:|:--------|
 | August 2008 | [Fate/Zero Special Drama CD - Dreaming Lady](Drama-CDs/Zero/dreaminglady.md) | Kiritsugu, Irisviel, and Saber | Picking out clothes for Saber |
 | August 2008 | [Fate/Zero Special Drama CD - Unhesitating People](Drama-CDs/Zero/unhesitating-people.md) | Tokiomi, Aoi, Kirei, and Rin | Kirei looks for Rin |
+| August 2008 | [Fate/Zero Special Drama CD - The Outsiders’ Performance](Drama-CDs/Zero/outsiders-performance.md) | Taiga, Iskandar, Waver, and Saber | Taiga meets Iskandar and Waver |
+| August 2008 | [Fate/Zero Special Drama CD - Eat in Taishan](Drama-CDs/Zero/eatintaishan.md) | Kiritsugu, Irisviel, Maiya, Saber, Kirei, and Rin | A meal at the Taishan Chinese restaurant |
 
