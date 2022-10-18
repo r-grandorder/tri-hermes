@@ -1,7 +1,8 @@
 # Siegfried
 
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/8vf4c0/siegfrieds_servant_profile_from_fgo_material_i/)
-
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/8vf4c0/siegfrieds_servant_profile_from_fgo_material_i/)
+:::
 
 ## Info
 
@@ -37,11 +38,11 @@ Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grand
 
 ## Class Skills
 
-Magical Resistance: —
+**Magical Resistance: —**
 
 This has been lost as compensation for Siegfried obtaining “The Blood Armor of the Evil Dragon”.
 
-Riding: B
+**Riding: B**
 
 The ability for riding. One can manage most vehicles and beasts with above-average skill, but they cannot manage beasts of the Mystical Beast and Sacred Beast rank.
 
@@ -64,6 +65,7 @@ One of the special Skills possessed by those who brought down a member of the Dr
 ## Noble Phantasm(s)
 
 # Balmung: Phantasmal Greatsword – Felling the Heavenly Demon
+
 - Rank: A+
 - Classification: Anti-Army Noble Phantasm
 - Range: 1~50
@@ -83,9 +85,9 @@ The Noble Phantasm that embodied the anecdote of Siegfried bathing in the blood 
 
 ## Pronouns
 
-First Person Pronoun: ore
-Second Person Pronouns: anata / kimi / kisama
-Third Person Pronouns: kare / kanojo
+- First Person Pronoun: ore
+- Second Person Pronouns: anata / kimi / kisama
+- Third Person Pronouns: kare / kanojo
 
 ## Personality
 
@@ -116,6 +118,7 @@ As a matter of fact, in “The Nibelungenlied”, Siegfried is not in the role o
 Consequently, even Siegfried’s adventures, up to him obtaining the demonic sword Balmung and the event where he felled the Evil Dragon Fafnir, were only just talked about as hearsay by the characters and were not actually depicted in the tale. In the First Chapter of the FGO Story, when Siegfried told his companions that he does not remember anything of the time when he confronted Fafnir, it is because no one within his tale even saw, heard or talked about that in the first place.
 
 At the end of his adventures, Siegfried obtained a cloak that hides his figure, obtained the demonic sword Balmung, and in the end, accomplished the feat of Dragon Slaying where he felled the Evil Dragon Fafnir. And, almost a large number of these extremely gruesome battles were events that went untold————
+
 Without even choosing to waste even a considerable amount of Das Rhinegold that he obtained as he likes, Siegfried entrusted his back, his only weak point, to his peerless friend.
 
 Judging from Siegfried’s point of view, it was the only way in order to resolve the antagonism between Kriemhild and the wife of his older brother-in-law where it was growing to the point that Siegfried already found himself in a sticky situation with his involvement, but he was fatally misjudging the situation.
@@ -149,7 +152,25 @@ After I came up with the rest of his evolutions, if I leaned Siegfried forward a
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-050.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-051.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-052.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-053.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-054.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-055.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-056.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-057.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-058.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-059.jpg?raw=true)
 
 ## Dialogue
 

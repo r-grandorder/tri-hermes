@@ -1,7 +1,8 @@
 # Carmilla
 
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/87qkjv/carmillas_servant_profile_from_fgo_material_ii/)
-
+::: tip
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/87qkjv/carmillas_servant_profile_from_fgo_material_ii/)
+:::
 
 ## Info
 
@@ -57,6 +58,7 @@ A recovery by bathing in blood. Although it is close to a wrong impression, Carm
 ## Noble Phantasm(s)
 
 # Phantom Maiden: The Phantasmal Iron Maiden
+
 - Rank: C
 - Classification: Anti-Personnel Noble Phantasm
 - Range: 1
@@ -70,9 +72,9 @@ Floating above Carmilla’s head, screams of her target are heard while the iron
 
 ## Pronouns
 
-First Person Pronoun: watashi
-Second Person Pronouns: anata / anata [only to females]
-Third Person Pronouns: kare / kanojo
+- First Person Pronoun: watashi
+- Second Person Pronouns: anata / anata [only to females]
+- Third Person Pronouns: kare / kanojo
 
 ## Personality
 
@@ -116,7 +118,21 @@ Since the iron maiden was set as her Noble Phantasm, I designed Carmilla in a sa
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-064.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-065.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-066.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-067.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-068.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-069.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-070.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-071.jpg?raw=true)
 
 ## Dialogue
 

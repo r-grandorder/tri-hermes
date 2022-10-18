@@ -1,7 +1,7 @@
 # David
 
 ::: tip
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/89ww6a/davids_servant_profile_from_fgo_material_ii_minor/)
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/89ww6a/davids_servant_profile_from_fgo_material_ii_minor/)
 :::
 
 
@@ -69,6 +69,7 @@ With all the tribes obeying him as the Second King of Israel, David led an army 
 ## Noble Phantasm(s)
 
 # Hamesh Avanim: The Five Stones
+
 - Rank: C-*
 - Classification: Anti-Personnel Noble Phantasm
 - Range: 1~99
@@ -76,9 +77,10 @@ With all the tribes obeying him as the Second King of Israel, David led an army 
 
 Hamesh Avanim (Five Stones). The slingshot that defeated the Giant Goliath. The five stones that express David’s tolerance, he fires the first four shots and misses his opponent on purpose as a warning, but the fifth shot will surely hit a vital point. In the case of a Servant, they will temporarily lose consciousness and suffer severe damage, although it is something insignificant even in a typical war situation where the unconscious person can be rescued by allies. Afterwards, the opponent’s main armament will either become a part of David’s possessions, or it will become unusable. David will yell in the Hebrew language a countdown of “He (5)”, “Dalet (4)”, “Gimel (3)”, “Bet (2)” and “Alef (1)” before launching the fifth stone. He will make the threat obvious towards his opponent from the count of one with a stronger shout. Given that the weapons themselves are mere normal stones that have undergone transfiguration, it is possible to unendingly replenish them.
 
-*The Noble Phantasm is C-rank in the game profile
+* The Noble Phantasm is C-rank in the game profile
 
 # Sacrifice: Flames Upon the Altar
+
 - Rank: A
 - Classification: Anti-Army Noble Phantasm
 - Range: 1~99
@@ -87,6 +89,7 @@ Hamesh Avanim (Five Stones). The slingshot that defeated the Giant Goliath. The 
 Phantasmal incense burners would materialize around each enemy presence, before they would burn the incense inside them, causing violet fumes to envelop the targets. Immediately, thunderclouds and mist gather overhead, giving somebody the impression of Mount Sinai, and hellfire is sent down from Heaven, thoroughly incinerating those who oppose the Will of God without even leaving a single drop of blood behind. The flames as a whole take on the form of an altar.
 
 # Ark: The Ark of the Covenant
+
 - Rank: EX
 - Classification: Contract Noble Phantasm
 - Range: 1~99
@@ -98,9 +101,9 @@ A wooden box that stored the lithographs left behind by Moses. The Magical Energ
 
 ## Pronouns
 
-First Person Pronoun: boku
-Second Person Pronouns: anata / kimi
-Third Person Pronouns: kare / kanojo
+- First Person Pronoun: boku
+- Second Person Pronouns: anata / kimi
+- Third Person Pronouns: kare / kanojo
 
 ## Personality
 
@@ -160,7 +163,25 @@ David is a character who I took to do his design years ago, but now, he appears 
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-212.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-213.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-214.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-215.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-216.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-217.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-218.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-219.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-220.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-221.jpg?raw=true)
 
 ## Dialogue
 

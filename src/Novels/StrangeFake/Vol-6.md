@@ -1,4 +1,4 @@
-# Fate/Strange Fake Volume 6:
+# Fate/Strange Fake Volume 6
 
 ---
 
@@ -8,7 +8,7 @@
 
 ![](https://i.imgur.com/TD0rUDV.png)
 
-Intro: "—"
+## Intro: "—"
  
 ---
 
