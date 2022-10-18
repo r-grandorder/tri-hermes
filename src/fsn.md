@@ -9,7 +9,7 @@ This resource is ideally for lore-checking, not for reading the VN for the first
 * [Day 1](Novels/FSN/Prologue/Day01.md)
 * [Day 2](Novels/FSN/Prologue/Day02.md)
 * [Day 3](Novels/FSN/Prologue/Day03.md)
-
+ 
 ## Fate
 
 * [Day 1](Novels/FSN/Fate/Day01.md)
