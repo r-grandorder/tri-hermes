@@ -5,6 +5,12 @@ Below are official materials published by TYPE-MOON to supplement their various 
 ## Character Materials
 
 * [Fate Character Material II](Materials/cmii.md)
+	* [Shirou's Entry](Materials/cmii-shirou.md)
+	* [Rin's Entry](Materials/cmii-rin.md)
+	* [Sakura's Entry](Materials/cmii-sakura.md)
+	* [Archer's Entry](Materials/cmii-archer.md)
+	* [Rider's Entry](Materials/cmii-rider.md)
+	
 
 ## Animation Materials
 
