@@ -46,11 +46,13 @@
 
 [![](https://i.imgur.com/mhkIFe9.png)](Lostbelt/yugakshetra.md)
 
+[![](https://i.imgur.com/pqhELtG.png)](Lostbelt/imaginary-scramble.md)
+
 [![](https://i.imgur.com/SEr7ayy.png)](Lostbelt/atlantis.md)
 
 [![](https://i.imgur.com/FFUtaUj.png)](Lostbelt/olympus.md)
 
-[![](https://i.imgur.com/82Aufe6.png)](Lostbelt/heiankyo.md)
+[![](https://i.imgur.com/cjis9pR.png)](Lostbelt/heian-kyo.md)
 
 ![](https://i.imgur.com/aMpK080.png)
 
