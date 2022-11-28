@@ -425,24 +425,24 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/ePC65yl.png) | Abigail Williams (Summer) | | | 
 | ![](https://i.imgur.com/boEc7iA.png) | Van Gogh | | | 
 | ![](https://i.imgur.com/HovL4Mb.png) | Mysterious Idol X (Alter) | | | 
-| ![](https://i.imgur.com/TZzwH1i.png) | Jacques de Molay | | | 
-| ![](https://i.imgur.com/ZTMHcmx.png) | Koyanskaya of Darkness | | | 
+| ![](https://i.imgur.com/gysJGEW.png) | Jacques de Molay | | | 
+| ![](https://i.imgur.com/jplaxO8.png) | Koyanskaya of Darkness | | | 
 
 ## Pretender
 
 | Thumbnail | Servant | Material / In-Game Profile | Interlude |
 |:--------:|:--------:|:--------:|:--------:|
-| ![](https://i.imgur.com/eBLEr87.png) | Oberon | | | 
-| ![](https://i.imgur.com/Hrf4FzU.png) | Hephaestion | | | 
-| ![](https://i.imgur.com/CX0AkRW.png) | Lady Avalon | | | 
-| ![](https://i.imgur.com/UYUa2Ht.png) | Nine-Tattoo Dragon Eliza | | |
+| ![](https://i.imgur.com/bI6ubEc.png) | Oberon | | | 
+| ![](https://i.imgur.com/AHsDsc4.png) | Hephaestion | | | 
+| ![](https://i.imgur.com/upE8T4o.png) | Lady Avalon | | | 
+| ![](https://i.imgur.com/qxGr8Wg.png) | Nine-Tattoo Dragon Eliza | | |
 
 ## Beast
 
 | Thumbnail | Name | Material / In-Game Profile | 
 |:--------:|:--------:|:--------:|
-| ![](https://i.imgur.com/Z3ynmbv.png) | Beast I - Goetia | [Material Profile](Servants/Profiles/Beast-I.md) |
-| ![](https://i.imgur.com/W541w63.png) | Beast II - Tiamat | [Material Profile](Servants/Profiles/Beast-II.md) |
-| ![](https://i.imgur.com/68BNcF4.png) | Beast III/R - Kiara | [Material Profile](Servants/Profiles/Beast-III-R.md) |
-| ![](https://i.imgur.com/U2SF1sE.png) | Beast III/L - Kama | [Material Profile](Servants/Profiles/Beast-III-L.md) |
-| ![](https://i.imgur.com/VgX6wtV.png) | Beast IV : L - Koyanskaya | |
+| ![](https://i.imgur.com/diygAjU.png) | Beast I - Goetia | [Material Profile](Servants/Profiles/Beast-I.md) |
+| ![](https://i.imgur.com/Eg0lQIZ.png) | Beast II - Tiamat | [Material Profile](Servants/Profiles/Beast-II.md) |
+| ![](https://i.imgur.com/cNAsZZk.png) | Beast III/R - Kiara | [Material Profile](Servants/Profiles/Beast-III-R.md) |
+| ![](https://i.imgur.com/ET0uZVZ.png) | Beast III/L - Kama | [Material Profile](Servants/Profiles/Beast-III-L.md) |
+| ![](https://i.imgur.com/BjwevKH.png) | Beast IV : L - Koyanskaya | |

@@ -4,285 +4,312 @@ Below are the user flair codes for the subreddit's new flair system. You can use
 
 Keep in mind that the character limit is 64, and a space counts as a character.
 
-## Protagonists
+## Main Cast
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:es0:|![](https://i.imgur.com/NI8CqP7.png)|:es1:|![](https://i.imgur.com/zhbIYpS.png)|
-|:p1:|![](https://i.imgur.com/l2hYhFz.png)|:p2:|![](https://i.imgur.com/nWhk9vA.png)|
-|:p3:|![](https://i.imgur.com/UHgvBe6.png)|:p4:|![](https://i.imgur.com/OiYPl1C.png)
-|:p5:|![](https://i.imgur.com/5oSzWNF.png)||
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p1:|![](https://i.imgur.com/FQPhE58.png)|:p2:|![](https://i.imgur.com/UCMGEQs.png)|:p3:|![](https://i.imgur.com/jRbRdYk.png)|
+|:es1:|![](https://i.imgur.com/Wfbg1Vz.png)|:es2:|![](https://i.imgur.com/pY3n8RK.png)|:p4:|![](https://i.imgur.com/0hxp2M8.png)|
+|:p5:|![](https://i.imgur.com/YD6zPm3.png)|:p6:|![](https://i.imgur.com/S5gcmQK.png)|:p7:|![](https://i.imgur.com/T4BfRyf.png)|
+|:p65:|![](https://i.imgur.com/h6bUKR6.png)|||||
 
 ## Saber
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:s0:|![](https://i.imgur.com/9ZlzZ5q.png)|:s1:|![](https://i.imgur.com/fE2C2sj.png)|
-|:s2:|![](https://i.imgur.com/D9JB46c.png)|:s3:|![](https://i.imgur.com/nPVYu38.png)|
-|:s4:|![](https://i.imgur.com/r5Rc6ZW.png)|:s5:|![](https://i.imgur.com/GL8Zb5K.png)|
-|:s6:|![](https://i.imgur.com/VcwJVAy.png)|:s7:|![](https://i.imgur.com/27jceFn.png)|
-|:s8:|![](https://i.imgur.com/5SRfuSk.png)|:s9:|![](https://i.imgur.com/gc18Vpu.png)|
-|:s10:|![](https://i.imgur.com/u1wAnOw.png)|:s11:|![](https://i.imgur.com/WYbLX0T.png)|
-|:s12:|![](https://i.imgur.com/jMJsVEi.png)|:s13:|![](https://i.imgur.com/RGmlkP3.png)|
-|:s14:|![](https://i.imgur.com/1kjftOx.png)|:s15:|![](https://i.imgur.com/tKYlGsn.png)|
-|:s16:|![](https://i.imgur.com/xBvPcAm.png)|:s17:|![](https://i.imgur.com/nKAimo8.png)|
-|:s18:|![](https://i.imgur.com/h4imID6.png)|:s19:|![](https://i.imgur.com/UsBK7a9.png)|
-|:s20:|![](https://i.imgur.com/zqyCfBj.png)|:s21:|![](https://i.imgur.com/golRw9v.png)|
-|:s22:|![](https://i.imgur.com/OKcwua9.png)|:s23:|![](https://i.imgur.com/9pEHbDc.png)|
-|:s24:|![](https://i.imgur.com/rajkf3f.png)|:s25:|![](https://i.imgur.com/Nq9UMo9.png)|
-|:s26:|![](https://i.imgur.com/1NlO1Nm.png)|:s27:|![](https://i.imgur.com/nUXSm0r.png)|
-|:s28:|![](https://i.imgur.com/4K0jcm2.png)|:s29:|![](https://i.imgur.com/3Ho8a9I.png)|
-|:s30:|![](https://i.imgur.com/AqIC4qE.png)|:s31:|![](https://i.imgur.com/Bs5Zkjp.png)|
-|:s32:|![](https://i.imgur.com/bJ8xSZw.png)|:s33:|![](https://i.imgur.com/hXluhSC.png)|
-|:s34:|![](https://i.imgur.com/6Vx2E9f.png)|:s35:|![](https://i.imgur.com/AyZx1n6.png)|
-|:s36:|![](https://i.imgur.com/GQxWlTX.png)|:s37:|![](https://i.imgur.com/YA66Y5p.png)|
-|:s38:|![](https://i.imgur.com/dQvzImi.png)|:s39:|![](https://i.imgur.com/57bQPb1.png)|
-|:s40:|![](https://i.imgur.com/wKPwB2c.png)|:s41:|![](https://i.imgur.com/rmRzcMi.png)|
-|:s42:|![](https://i.imgur.com/6PekZDn.png)|:s43:|![](https://i.imgur.com/poqpU9v.png)|
-|:s44:|![](https://i.imgur.com/6yWODHo.png)|:s45:|![](https://i.imgur.com/GWuMw7a.png)|
-|:s46:|![](https://i.imgur.com/7jMeU6u.png)||
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:s0:|![](https://i.imgur.com/L8pR4ix.png)|:s1:|![](https://i.imgur.com/qaodjyW.png)|:s2:|![](https://i.imgur.com/hSISSGR.png)|
+|:s3:|![](https://i.imgur.com/64B9sFk.png)|:s4:|![](https://i.imgur.com/8NI6Puk.png)|:s5:|![](https://i.imgur.com/4TyEl3X.png)|
+|:s6:|![](https://i.imgur.com/ky6h227.png)|:s7:|![](https://i.imgur.com/hsU6uE9.png)|:s8:|![](https://i.imgur.com/l0qyE6D.png)|
+|:s9:|![](https://i.imgur.com/VmqNhuz.png)|:s10:|![](https://i.imgur.com/21cNqB3.png)|:s11a:|![](https://i.imgur.com/a23YLwH.png)|
+|:s11b:|![](https://i.imgur.com/SIlI4nI.png)|:s12:|![](https://i.imgur.com/xr7OCQk.png)|:s13:|![](https://i.imgur.com/2SsIe4T.png)|
+|:s14:|![](https://i.imgur.com/NJkcb05.png)|:s15:|![](https://i.imgur.com/zXz0EuW.png)|:s16:|![](https://i.imgur.com/BkymhLk.png)|
+|:s17:|![](https://i.imgur.com/3WGe3he.png)|:s18:|![](https://i.imgur.com/YDcyJ2J.png)|:s19:|![](https://i.imgur.com/te6UWei.png)|
+|:s20:|![](https://i.imgur.com/fzY9fml.png)|:s21:|![](https://i.imgur.com/jbK4dNh.png)|:s22:|![](https://i.imgur.com/0mU85Gy.png)|
+|:s23:|![](https://i.imgur.com/AyGtyPb.png)|:s24a:|![](https://i.imgur.com/SxaaXcd.png)|:s24b:|![](https://i.imgur.com/ztpmWSX.png)|
+|:s25:|![](https://i.imgur.com/2MGEvIG.png)|:s26:|![](https://i.imgur.com/7bAxQtL.png)|:s27:|![](https://i.imgur.com/GjoqQjB.png)|
+|:s28:|![](https://i.imgur.com/LIKYgxR.png)|:s29:|![](https://i.imgur.com/sn1Sy22.png)|:s30:|![](https://i.imgur.com/ZQvPlkd.png)|
+|:s31:|![](https://i.imgur.com/lWMmDEw.png)|:s32:|![](https://i.imgur.com/JWaKdvj.png)|:s33:|![](https://i.imgur.com/NA5Yx8s.png)|
+|:s34:|![](https://i.imgur.com/S8kLP7y.png)|:s35:|![](https://i.imgur.com/9tMy8By.png)|:s36:|![](https://i.imgur.com/UHEnn8Y.png)|
+|:s37:|![](https://i.imgur.com/gk7Npnb.png)|:s38:|![](https://i.imgur.com/KqXD5VV.png)|:s39:|![](https://i.imgur.com/sgvoheP.png)|
+|:s40:|![](https://i.imgur.com/6V0ELjO.png)|:s41:|![](https://i.imgur.com/DdrQjus.png)|:s42:|![](https://i.imgur.com/SZabd6I.png)|
+|:s43:|![](https://i.imgur.com/XV1Ez85.png)|:s44:|![](https://i.imgur.com/EPA79fB.png)|:s45:|![](https://i.imgur.com/uh5VcqB.png)|
+|:s46:|![](https://i.imgur.com/EWgdV0S.png)|||||
 
 ## Archer
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:a0:|![](https://i.imgur.com/qyTAr0K.png)|:a1:|![](https://i.imgur.com/pRg3183.png)|
-|:a2:|![](https://i.imgur.com/Zamd9WG.png)|:a3:|![](https://i.imgur.com/zHutha4.png)|
-|:a4:|![](https://i.imgur.com/3QTqRcb.png)|:a5:|![](https://i.imgur.com/lQQWhUr.png)|
-|:a6:|![](https://i.imgur.com/PV6T99s.png)|:a7:|![](https://i.imgur.com/NSEIiXl.png)|
-|:a8:|![](https://i.imgur.com/njryBQz.png)|:a9:|![](https://i.imgur.com/17aUP2K.png)|
-|:a10:|![](https://i.imgur.com/6LnmYKX.png)|:a11:|![](https://i.imgur.com/oIgyEJF.png)|
-|:a12:|![](https://i.imgur.com/VhF9VhT.png)|:a13:|![](https://i.imgur.com/pzgMmBM.png)|
-|:a14:|![](https://i.imgur.com/O5Sa9Wd.png)|:a15:|![](https://i.imgur.com/pDiI17c.png)|
-|:a16:|![](https://i.imgur.com/mGrooyi.png)|:a17:|![](https://i.imgur.com/jVKAKRm.png)|
-|:a18:|![](https://i.imgur.com/YFJ8mI3.png)|:a19:|![](https://i.imgur.com/MTtBOkr.png)|
-|:a20:|![](https://i.imgur.com/v8h9oZC.png)|:a21:|![](https://i.imgur.com/r1s3F8h.png)|
-|:a22:|![](https://i.imgur.com/VCvoUM5.png)|:a23:|![](https://i.imgur.com/I0uJY7J.png)|
-|:a24:|![](https://i.imgur.com/0sMLxwK.png)|:a25:|![](https://i.imgur.com/C6JZxUS.png)|
-|:a26:|![](https://i.imgur.com/mAL6hf1.png)|:a27:|![](https://i.imgur.com/j60aPMJ.png)|
-|:a28:|![](https://i.imgur.com/XfR9dHW.png)|:a29:|![](https://i.imgur.com/cRq9cMV.png)|
-|:a30:|![](https://i.imgur.com/B7QLRYR.png)|:a31:|![](https://i.imgur.com/ar8nEah.png)|
-|:a32:|![](https://i.imgur.com/c0U1CYF.png)|:a33:|![](https://i.imgur.com/O9SE9e0.png)|
-|:a34:|![](https://i.imgur.com/SabGMq8.png)|:a35:|![](https://i.imgur.com/qww9VS9.png)|
-|:a36:|![](https://i.imgur.com/u8XRgJz.png)|:a37:|![](https://i.imgur.com/5E9cKfU.png)|
-|:a38:|![](https://i.imgur.com/OJEnS9y.png)|:a39:|![](https://i.imgur.com/f6vaFzb.png)|
-|:a40:|![](https://i.imgur.com/jfxefCe.png)|:a41:|![](https://i.imgur.com/0jyKW33.png)|
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:a0:|![](https://i.imgur.com/B1b2lIV.png)|:a1:|![](https://i.imgur.com/JbXAkTR.png)|:a2:|![](https://i.imgur.com/tPlskfq.png)|
+|:a3:|![](https://i.imgur.com/a4xmad0.png)|:a4:|![](https://i.imgur.com/ucSMbqY.png)|:a5:|![](https://i.imgur.com/vnRrQ4z.png)|
+|:a6:|![](https://i.imgur.com/3k8GZ6j.png)|:a7:|![](https://i.imgur.com/yC7LCkd.png)|:a8:|![](https://i.imgur.com/NXIfVsn.png)|
+|:a9:|![](https://i.imgur.com/wEG03Hu.png)|:a10:|![](https://i.imgur.com/oqe9vAK.png)|:a11:|![](https://i.imgur.com/KVz8aKn.png)|
+|:a12:|![](https://i.imgur.com/kToF9Sh.png)|:a13:|![](https://i.imgur.com/Za1Cfvq.png)|:a14:|![](https://i.imgur.com/sQw8LD8.png)|
+|:a15:|![](https://i.imgur.com/VM0tZ1P.png)|:a16:|![](https://i.imgur.com/xPCCJhZ.png)|:a17:|![](https://i.imgur.com/KexTm8H.png)|
+|:a18:|![](https://i.imgur.com/dbQjrUB.png)|:a19:|![](https://i.imgur.com/XQ10lQf.png)|:a20:|![](https://i.imgur.com/KHt2L9z.png)|
+|:a21:|![](https://i.imgur.com/Vf6AFaP.png)|:a22:|![](https://i.imgur.com/hgFlsRU.png)|:a23:|![](https://i.imgur.com/SdNP0QJ.png)|
+|:a24:|![](https://i.imgur.com/dx7vYau.png)|:a25:|![](https://i.imgur.com/h4LRK8M.png)|:a26:|![](https://i.imgur.com/jBHuEuj.png)|
+|:a27:|![](https://i.imgur.com/CscqUCD.png)|:a28:|![](https://i.imgur.com/GYmHjJd.png)|:a29a:|![](https://i.imgur.com/Z6N7xwP.png)|
+|:a29b:|![](https://i.imgur.com/dyabuZH.png)|:a30:|![](https://i.imgur.com/gnv6kD2.png)|:a31:|![](https://i.imgur.com/QvAsWEa.png)|
+|:a32:|![](https://i.imgur.com/xvOOMBz.png)|:a33:|![](https://i.imgur.com/XDHi3DA.png)|:a34:|![](https://i.imgur.com/P2Uuzq0.png)|
+|:a35:|![](https://i.imgur.com/FjkcbAt.png)|:a36:|![](https://i.imgur.com/EAUiVz4.png)|:a37:|![](https://i.imgur.com/nWsn2V1.png)|
+|:a38:|![](https://i.imgur.com/b2QYe8D.png)|:a39:|![](https://i.imgur.com/JQDzaeA.png)|:a40:|![](https://i.imgur.com/cngsIwB.png)|
+|:a41:|![](https://i.imgur.com/zSNACqi.png)|||||
 
 ## Lancer
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:l0:|![](https://i.imgur.com/2bvbFV7.png)|:l1:|![](https://i.imgur.com/UZ19Ht0.png)|
-|:l2:|![](https://i.imgur.com/C1ZXjCA.png)|:l3:|![](https://i.imgur.com/zKkv2Q3.png)|
-|:l4:|![](https://i.imgur.com/2tWGeoL.png)|:l5:|![](https://i.imgur.com/MamJRKr.png)|
-|:l6:|![](https://i.imgur.com/5YSyhEf.png)|:l7:|![](https://i.imgur.com/CyT1DrD.png)|
-|:l8:|![](https://i.imgur.com/qSyUkVI.png)|:l9:|![](https://i.imgur.com/rUAVNrp.png)|
-|:l10:|![](https://i.imgur.com/zaIHvGQ.png)|:l11:|![](https://i.imgur.com/VSfQGNb.png)|
-|:l12:|![](https://i.imgur.com/0k62kSz.png)|:l13:|![](https://i.imgur.com/bp8Ni0O.png)|
-|:l14:|![](https://i.imgur.com/t9LwWmB.png)|:l15:|![](https://i.imgur.com/JO6XJHG.png)|
-|:l16:|![](https://i.imgur.com/YayGQsH.png)|:l17:|![](https://i.imgur.com/IFBA9yy.png)|
-|:l18:|![](https://i.imgur.com/hhEckji.png)|:l19:|![](https://i.imgur.com/Gp5X2lK.png)|
-|:l20:|![](https://i.imgur.com/8SGuh8q.png)|:l21:|![](https://i.imgur.com/Jy6ILBE.png)|
-|:l22:|![](https://i.imgur.com/1gYuGCb.png)|:l23:|![](https://i.imgur.com/farpCmv.png)|
-|:l24:|![](https://i.imgur.com/lCnytXj.png)|:l25:|![](https://i.imgur.com/u8LPBoV.png)|
-|:l26:|![](https://i.imgur.com/XJAb8kF.png)|:l27:|![](https://i.imgur.com/iCZWppS.png)|
-|:l28:|![](https://i.imgur.com/MHn6cNi.png)|:l29:|![](https://i.imgur.com/grhvkTZ.png)|
-|:l30:|![](https://i.imgur.com/UtK3VUE.png)|:l31:|![](https://i.imgur.com/ct2KkU9.png)|
-|:l32:|![](https://i.imgur.com/5MStWJb.png)|:l33:|![](https://i.imgur.com/w6qYolN.png)|
-|:l34:|![](https://i.imgur.com/YkQJ35Y.png)|:l35:|![](https://i.imgur.com/i7fV9ld.png)|
-|:l36:|![](https://i.imgur.com/avxLinO.png)|:l37:|![](https://i.imgur.com/yB4sCY3.png)|
-|:l38:|![](https://i.imgur.com/0K3WbIJ.png)|:l39:|![](https://i.imgur.com/5u0n2wZ.png)|
-|:l40:|![](https://i.imgur.com/TAOu286.png)|:l41:|![](https://i.imgur.com/tfvfdDz.png)|
-|:l42:|![](https://i.imgur.com/diKYHMI.png)|:l43:|![](https://i.imgur.com/YIOz88v.png)|
-|:l44:|![](https://i.imgur.com/NayjxJ8.png)|:l45:|![](https://i.imgur.com/BGu72A6.png)|
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:l0:|![](https://i.imgur.com/5tPexpB.png)|:l1:|![](https://i.imgur.com/wY6cwcO.png)|:l2:|![](https://i.imgur.com/ofxihDx.png)|
+|:l3:|![](https://i.imgur.com/xVFoY1J.png)|:l4:|![](https://i.imgur.com/p5ZeOFW.png)|:l5:|![](https://i.imgur.com/ICnKsi3.png)|
+|:l6:|![](https://i.imgur.com/VeToKEy.png)|:l7:|![](https://i.imgur.com/mLVCxdu.png)|:l8:|![](https://i.imgur.com/DY65HkN.png)|
+|:l9a:|![](https://i.imgur.com/MnsXlfq.png)|:l9b:|![](https://i.imgur.com/jWyAmvp.png)|:l0:|![](https://i.imgur.com/vJMoPXx.png)|
+|:l11:|![](https://i.imgur.com/qy2QYtb.png)|:l12:|![](https://i.imgur.com/bwzL5DX.png)|:l13:|![](https://i.imgur.com/l9IE93q.png)|
+|:l14a:|![](https://i.imgur.com/IRMYeX8.png)|:l14b:|![](https://i.imgur.com/qkGNx3t.png)|:l15:|![](https://i.imgur.com/xXPlP5c.png)|
+|:l16:|![](https://i.imgur.com/TP0bVby.png)|:l17:|![](https://i.imgur.com/qyIzwlL.png)|:l18:|![](https://i.imgur.com/2WPtny1.png)|
+|:l19:|![](https://i.imgur.com/oYKWnKu.png)|:l20:|![](https://i.imgur.com/Hk7pCDz.png)|:l21:|![](https://i.imgur.com/ht1izrW.png)|
+|:l22:|![](https://i.imgur.com/7qohuor.png)|:l23:|![](https://i.imgur.com/GHSH6At.png)|:l24:|![](https://i.imgur.com/vyqpp08.png)|
+|:l25:|![](https://i.imgur.com/RUT7pkA.png)|:l26:|![](https://i.imgur.com/ASKVRjz.png)|:l27a:|![](https://i.imgur.com/NSlBBlO.png)|
+|:l27b:|![](https://i.imgur.com/UMfs8wJ.png)|:l27c:|![](https://i.imgur.com/zRI66gx.png)|:l28:|![](https://i.imgur.com/tfrZGOw.png)|
+|:l29:|![](https://i.imgur.com/cby398e.png)|:l30:|![](https://i.imgur.com/30E7qd2.png)|:l31:|![](https://i.imgur.com/skcjyCI.png)|
+|:l32:|![](https://i.imgur.com/BB3UbbS.png)|:l33:|![](https://i.imgur.com/7j5wnr0.png)|:l34:|![](https://i.imgur.com/MPjypfY.png)|
+|:l35:|![](https://i.imgur.com/2l7FPqP.png)|:l36:|![](https://i.imgur.com/cerw8Rv.png)|:l37:|![](https://i.imgur.com/QmciXac.png)|
+|:l38:|![](https://i.imgur.com/xsPJKYQ.png)|:l39a:|![](https://i.imgur.com/M3BK5t7.png)|:l39b:|![](https://i.imgur.com/0V3bBn8.png)|
+|:l40:|![](https://i.imgur.com/v2n7tRf.png)|:l41:|![](https://i.imgur.com/rZbrY8A.png)|:l42:|![](https://i.imgur.com/T1HAoMv.png)|
+|:l43:|![](https://i.imgur.com/j6DOfqL.png)|:l44a:|![](https://i.imgur.com/goeVhAd.png)|:l44b:|![](https://i.imgur.com/aSf9yvn.png)|
 
 ## Rider
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:r0:|![](https://i.imgur.com/wGnFIxk.png)|:r1:|![](https://i.imgur.com/etxWMxD.png)|
-|:r2:|![](https://i.imgur.com/xajuiXf.png)|:r3:|![](https://i.imgur.com/eX1ZUzf.png)|
-|:r4:|![](https://i.imgur.com/tZnn3Hg.png)|:r5:|![](https://i.imgur.com/gQYH7lh.png)|
-|:r6:|![](https://i.imgur.com/jpCOxmX.png)|:r7:|![](https://i.imgur.com/B53LhfS.png)|
-|:r8:|![](https://i.imgur.com/Hj3C2Ej.png)|:r9:|![](https://i.imgur.com/LivU4Zw.png)|
-|:r10:|![](https://i.imgur.com/zE7TaJr.png)|:r11:|![](https://i.imgur.com/R40MPQn.png)|
-|:r12:|![](https://i.imgur.com/POPl4ov.png)|:r13:|![](https://i.imgur.com/iUg0wIT.png)|
-|:r14:|![](https://i.imgur.com/mdHyrbM.png)|:r15:|![](https://i.imgur.com/iMr1Dgq.png)|
-|:r16:|![](https://i.imgur.com/kJZ0maM.png)|:r17:|![](https://i.imgur.com/ZorhjKx.png)|
-|:r18:|![](https://i.imgur.com/JLAu10J.png)|:r19:|![](https://i.imgur.com/j4FsFXA.png)|
-|:r20:|![](https://i.imgur.com/DhIB5D5.png)|:r21:|![](https://i.imgur.com/T7CwsRu.png)|
-|:r22:|![](https://i.imgur.com/XqiWmlp.png)|:r23:|![](https://i.imgur.com/px93OvO.png)|
-|:r24:|![](https://i.imgur.com/Itd3Anw.png)|:r25:|![](https://i.imgur.com/p9qYgfV.png)|
-|:r26:|![](https://i.imgur.com/tAK5Ta4.png)|:r27:|![](https://i.imgur.com/RaRbED5.png)|
-|:r28:|![](https://i.imgur.com/fGRFGWc.png)|:r29:|![](https://i.imgur.com/VxvwB53.png)|
-|:r30:|![](https://i.imgur.com/Ubr113P.png)|:r31:|![](https://i.imgur.com/lh3QCVu.png)|
-|:r32:|![](https://i.imgur.com/UjFczLi.png)|:r33:|![](https://i.imgur.com/O5qzkCq.png)|
-|:r34:|![](https://i.imgur.com/KAbkaQZ.png)|:r35:|![](https://i.imgur.com/DjPmlvt.png)|
-|:r36:|![](https://i.imgur.com/d13Hgyy.png)|:r37:|![](https://i.imgur.com/Sq1nvBd.png)|
-|:r38:|![](https://i.imgur.com/KFXdtQp.png)|:r39:|![](https://i.imgur.com/Rjxb3Ry.png)|
-|:r40:|![](https://i.imgur.com/9FiXHJt.png)|:r41:|![](https://i.imgur.com/R7BuR9T.png)|
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:r0:|![](https://i.imgur.com/ghifhSN.png)|:r1:|![](https://i.imgur.com/iHF48vG.png)|:r2:|![](https://i.imgur.com/40hRWrX.png)|
+|:r3:|![](https://i.imgur.com/VyBOePW.png)|:r4:|![](https://i.imgur.com/J9jINI9.png)|:r5:|![](https://i.imgur.com/Ik4rjrm.png)|
+|:r6:|![](https://i.imgur.com/9cTYAsx.png)|:r7:|![](https://i.imgur.com/o8tLTF6.png)|:r8:|![](https://i.imgur.com/LUX1xx5.png)|
+|:r9:|![](https://i.imgur.com/00qkuMA.png)|:r10:|![](https://i.imgur.com/kqP3zqf.png)|:r11:|![](https://i.imgur.com/qO7E7A0.png)|
+|:r12:|![](https://i.imgur.com/9UVsAIN.png)|:r13:|![](https://i.imgur.com/XOPqS00.png)|:r14:|![](https://i.imgur.com/CwrHj8X.png)|
+|:r15:|![](https://i.imgur.com/HiChY8q.png)|:r16:|![](https://i.imgur.com/cd44m43.png)|:r17:|![](https://i.imgur.com/Vd3zLpm.png)|
+|:r18:|![](https://i.imgur.com/82ifu9E.png)|:r19:|![](https://i.imgur.com/xwrP50L.png)|:r20:|![](https://i.imgur.com/V4Ncxww.png)|
+|:r21:|![](https://i.imgur.com/smIKaUA.png)|:r22:|![](https://i.imgur.com/V1qspVA.png)|:r23:|![](https://i.imgur.com/A0lvmPJ.png)|
+|:r24:|![](https://i.imgur.com/OSMq5e8.png)|:r25:|![](https://i.imgur.com/eakugrI.png)|:r26:|![](https://i.imgur.com/MRzCjk2.png)|
+|:r27:|![](https://i.imgur.com/Zr9vOyX.png)|:r28:|![](https://i.imgur.com/44dnoE4.png)|:r29:|![](https://i.imgur.com/2L8hwQA.png)|
+|:r30:|![](https://i.imgur.com/LEBdjre.png)|:r31:|![](https://i.imgur.com/eaWlE7u.png)|:r32:|![](https://i.imgur.com/ac0L1XD.png)|
+|:r33:|![](https://i.imgur.com/rSMBvdw.png)|:r34:|![](https://i.imgur.com/GYZqOZg.png)|:r35:|![](https://i.imgur.com/P3TRI5g.png)|
+|:r36:|![](https://i.imgur.com/369w216.png)|:r37:|![](https://i.imgur.com/PH8aKJM.png)|:r38:|![](https://i.imgur.com/iDQnvnk.png)|
+|:r39:|![](https://i.imgur.com/pI21G8A.png)|:r40:|![](https://i.imgur.com/lprHRY4.png)|:r41:|![](https://i.imgur.com/I5LBJ7X.png)|
 
+|:r:|![]()|:r:|![]()|:r:|![]()|
 
 ## Caster
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:c0:|![](https://i.imgur.com/PIGgzjS.png)|:c1:|![](https://i.imgur.com/Cn6hVf2.png)|
-|:c2:|![](https://i.imgur.com/fIjkT9e.png)|:c3:|![](https://i.imgur.com/QamJLyr.png)|
-|:c4:|![](https://i.imgur.com/WNMniJa.png)|:c5:|![](https://i.imgur.com/UQGm8c6.png)|
-|:c6:|![](https://i.imgur.com/vfSYepe.png)|:c7:|![](https://i.imgur.com/80x3Jf9.png)|
-|:c8:|![](https://i.imgur.com/vMtzyON.png)|:c9:|![](https://i.imgur.com/3auy2Qs.png)|
-|:c10:|![](https://i.imgur.com/dbWjYCT.png)|:c11:|![](https://i.imgur.com/kdzjy5p.png)|
-|:c12:|![](https://i.imgur.com/iX8PPbi.png)|:c13:|![](https://i.imgur.com/TQfEjJG.png)|
-|:c14:|![](https://i.imgur.com/qZIgpMX.png)|:c15:|![](https://i.imgur.com/oz3rLtJ.png)|
-|:c16:|![](https://i.imgur.com/0GifCVC.png)|:c17:|![](https://i.imgur.com/SOMWyiO.png)|
-|:c18:|![](https://i.imgur.com/ROvXtse.png)|:c19:|![](https://i.imgur.com/AvFuwoH.png)|
-|:c20:|![](https://i.imgur.com/rw6wgFu.png)|:c21:|![](https://i.imgur.com/zx7F7Sy.png)|
-|:c22:|![](https://i.imgur.com/tZ0ffZ4.png)|:c23:|![](https://i.imgur.com/CBdM4C6.png)|
-|:c24:|![](https://i.imgur.com/4izyEE1.png)|:c25:|![](https://i.imgur.com/k0gQQoN.png)|
-|:c26:|![](https://i.imgur.com/kQ80rPH.png)|:c27:|![](https://i.imgur.com/PfxEPI6.png)|
-|:c28:|![](https://i.imgur.com/ML3WIH9.png)|:c29:|![](https://i.imgur.com/JLaU2r2.png)|
-|:c30:|![](https://i.imgur.com/gFWCpgA.png)|:c31:|![](https://i.imgur.com/qMuv4ZV.png)|
-|:c32:|![](https://i.imgur.com/hk0oIFD.png)|:c33:|![](https://i.imgur.com/JrNrfQu.png)|
-|:c34:|![](https://i.imgur.com/3LbGOb2.png)|:c35:|![](https://i.imgur.com/r6uJREX.png)|
-|:c36:|![](https://i.imgur.com/89M8ejm.png)|:c37:|![](https://i.imgur.com/eKLVB8q.png)|
-|:c38:|![](https://i.imgur.com/fkZClm3.png)|:c39:|![](https://i.imgur.com/sAJyBSe.png)|
-|:c40:|![](https://i.imgur.com/q8qhGIz.png)|:c41:|![](https://i.imgur.com/FsNfk0v.png)|
-|:c42:|![](https://i.imgur.com/U4ZtwKi.png)|:c43:|![](https://i.imgur.com/EUW1MT7.png)|
-|:c44:|![](https://i.imgur.com/CZvjROV.png)|:c45:|![](https://i.imgur.com/q7DNLNq.png)|
-|:c46:|![](https://i.imgur.com/VnaAd6H.png)||
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:c0:|![](https://i.imgur.com/Ja13J4v.png)|:c1:|![](https://i.imgur.com/UEZEikg.png)|:c2:|![](https://i.imgur.com/Fvxz8KD.png)|
+|:c3:|![](https://i.imgur.com/HzMDx9q.png)|:c4:|![](https://i.imgur.com/gVWMYh4.png)|:c5:|![](https://i.imgur.com/dmO874h.png)|
+|:c6a:|![](https://i.imgur.com/RHEYWYY.png)|:c6b:|![](https://i.imgur.com/dzfgJLl.png)|:c7:|![](https://i.imgur.com/iuyqoVj.png)|
+|:c8:|![](https://i.imgur.com/mtKHEm9.png)|:c9:|![](https://i.imgur.com/rojfKKu.png)|:c10:|![](https://i.imgur.com/joIoqdl.png)|
+|:c11:|![](https://i.imgur.com/qnjqaUT.png)|:c12:|![](https://i.imgur.com/S03DPFm.png)|:c13:|![](https://i.imgur.com/aGE7BDQ.png)|
+|:c14:|![](https://i.imgur.com/Ufh4qVt.png)|:c15:|![](https://i.imgur.com/05pSJDO.png)|:c16:|![](https://i.imgur.com/iIlQEZz.png)|
+|:c17:|![](https://i.imgur.com/nX9Td4z.png)|:c18:|![](https://i.imgur.com/HKtfsYM.png)|:c19:|![](https://i.imgur.com/DzBhroR.png)|
+|:c20:|![](https://i.imgur.com/BVHfOdV.png)|:c21:|![](https://i.imgur.com/swRFAhV.png)|:c22:|![](https://i.imgur.com/tcPkUjQ.png)|
+|:c23:|![](https://i.imgur.com/FBsk0kV.png)|:c24:|![](https://i.imgur.com/HT3z6JZ.png)|:c25:|![](https://i.imgur.com/rwQi3hz.png)|
+|:c26:|![](https://i.imgur.com/5JE49FA.png)|:c27:|![](https://i.imgur.com/rIcPbge.png)|:c28:|![](https://i.imgur.com/PDBRbjt.png)|
+|:c29:|![](https://i.imgur.com/YYeTnfh.png)|:c30:|![](https://i.imgur.com/wH3R2yv.png)|:c31:|![](https://i.imgur.com/XvHle6O.png)|
+|:c32:|![](https://i.imgur.com/7bHLttA.png)|:c33:|![](https://i.imgur.com/elgCQsw.png)|:c34:|![](https://i.imgur.com/6K1dzY5.png)|
+|:c35:|![](https://i.imgur.com/ie4EDIt.png)|:c36:|![](https://i.imgur.com/zaEhwY5.png)|:c37:|![](https://i.imgur.com/ysBdcNB.png)|
+|:c38:|![](https://i.imgur.com/LpFQo88.png)|:c39:|![](https://i.imgur.com/3pdWe9B.png)|:c40:|![](https://i.imgur.com/2Tl34xX.png)|
+|:c41:|![](https://i.imgur.com/9tD0EgH.png)|:c42:|![](https://i.imgur.com/87Yqthk.png)|:c43:|![](https://i.imgur.com/FKnhPee.png)|
+|:c44:|![](https://i.imgur.com/nyo4NbZ.png)|:c45:|![](https://i.imgur.com/IdBUBS2.png)|:c46:|![](https://i.imgur.com/zYyshjI.png)|
 
 ## Assassin
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:h0:|![](https://i.imgur.com/REumGzh.png)|:h1:|![](https://i.imgur.com/NpZPCJO.png)|
-|:h2:|![](https://i.imgur.com/ij08eCZ.png)|:h3:|![](https://i.imgur.com/8U8FCRQ.png)|
-|:h4:|![](https://i.imgur.com/NGDsGH2.png)|:h5:|![](https://i.imgur.com/B40Lj3C.png)|
-|:h6:|![](https://i.imgur.com/oNUCHId.png)|:h7:|![](https://i.imgur.com/OV7qL59.png)|
-|:h8:|![](https://i.imgur.com/jtlCuAP.png)|:h9:|![](https://i.imgur.com/cvjjJHC.png)|
-|:h10:|![](https://i.imgur.com/aDcdnug.png)|:h11:|![](https://i.imgur.com/ucwzCFB.png)|
-|:h12:|![](https://i.imgur.com/l0mQaxB.png)|:h13:|![](https://i.imgur.com/8rXoCWa.png)|
-|:h14:|![](https://i.imgur.com/qwOTQwu.png)|:h15:|![](https://i.imgur.com/ipxY8GW.png)|
-|:h16:|![](https://i.imgur.com/Iuxwnin.png)|:h17:|![](https://i.imgur.com/y3VTYq4.png)|
-|:h18:|![](https://i.imgur.com/gGvpU2p.png)|:h19:|![](https://i.imgur.com/9xlDFHg.png)|
-|:h20:|![](https://i.imgur.com/1JWsomk.png)|:h21:|![](https://i.imgur.com/8rdjVuR.png)|
-|:h22:|![](https://i.imgur.com/9mGF5Hk.png)|:h23:|![](https://i.imgur.com/eIcgrXB.png)|
-|:h24:|![](https://i.imgur.com/2N6fN0Q.png)|:h25:|![](https://i.imgur.com/0jsxonr.png)|
-|:h26:|![](https://i.imgur.com/cZMX0i8.png)|:h27:|![](https://i.imgur.com/LQ3mGIg.png)|
-|:h28:|![](https://i.imgur.com/7qP0JgP.png)|:h29:|![](https://i.imgur.com/Do5g27z.png)|
-|:h30:|![](https://i.imgur.com/qKDE2nW.png)|:h31:|![](https://i.imgur.com/9U5zBiV.png)|
-|:h32:|![](https://i.imgur.com/FSwDkvW.png)|:h33:|![](https://i.imgur.com/AIhK70b.png)|
-|:h34:|![](https://i.imgur.com/78RUiDo.png)|:h35:|![](https://i.imgur.com/otvsbBf.png)|
-|:h36:|![](https://i.imgur.com/XjZPmFs.png)|:h37:|![](https://i.imgur.com/r0HRshe.png)|
-|:h38:|![](https://i.imgur.com/MEvnPfS.png)|:h39:|![](https://i.imgur.com/yquLMv8.png)|
-|:h40:|![](https://i.imgur.com/U4ZAPET.png)||
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:h0:|![](https://i.imgur.com/v5kwPuS.png)|:h1:|![](https://i.imgur.com/caCLQMb.png)|:h2:|![](https://i.imgur.com/cPupetV.png)|
+|:h3:|![](https://i.imgur.com/cBYKtl1.png)|:h4:|![](https://i.imgur.com/x2enTPe.png)|:h5:|![](https://i.imgur.com/0KujJg7.png)|
+|:h6:|![](https://i.imgur.com/wxkHaNK.png)|:h7:|![](https://i.imgur.com/GNC1LDp.png)|:h8:|![](https://i.imgur.com/HaHrcIt.png)|
+|:h9:|![](https://i.imgur.com/84R8xTS.png)|:h10:|![](https://i.imgur.com/6GvBxL2.png)|:h11:|![](https://i.imgur.com/ugEIXYu.png)|
+|:h12a:|![](https://i.imgur.com/6LL6sCJ.png)|:h12b:|![](https://i.imgur.com/PdabuRY.png)|:h13:|![](https://i.imgur.com/O3nrfZJ.png)|
+|:h14:|![](https://i.imgur.com/EnIF78u.png)|:h15:|![](https://i.imgur.com/9192ssW.png)|:h16:|![](https://i.imgur.com/oCqU4uj.png)|
+|:h17:|![](https://i.imgur.com/XxFGAs8.png)|:h18:|![](https://i.imgur.com/CVe6j4B.png)|:h19:|![](https://i.imgur.com/qsJwxRx.png)|
+|:h20:|![](https://i.imgur.com/6WesRIE.png)|:h21:|![](https://i.imgur.com/LsSixFT.png)|:h22a:|![](https://i.imgur.com/yMzYdpA.png)|
+|:h22b:|![](https://i.imgur.com/oTnbbzw.png)|:h23:|![](https://i.imgur.com/7Bbc7fY.png)|:h24:|![](https://i.imgur.com/fKlNBtp.png)|
+|:h25:|![](https://i.imgur.com/VGm5Wu6.png)|:h26:|![](https://i.imgur.com/WaAalD5.png)|:h27a:|![](https://i.imgur.com/klhCRx0.png)|
+|:h27b:|![](https://i.imgur.com/dKC95re.png)|:h28:|![](https://i.imgur.com/0ME1zQj.png)|:h29:|![](https://i.imgur.com/6aloArB.png)|
+|:h30:|![](https://i.imgur.com/or0n68G.png)|:h31:|![](https://i.imgur.com/YYjRden.png)|:h32:|![](https://i.imgur.com/bNdbfg1.png)|
+|:h33:|![](https://i.imgur.com/PByIQ6A.png)|:h34:|![](https://i.imgur.com/FOnLhDh.png)|:h35:|![](https://i.imgur.com/0tnlOEG.png)|
+|:h36a:|![](https://i.imgur.com/gpcpzpt.png)|:h36b:|![](https://i.imgur.com/nzmXbdz.png)|:h36c:|![](https://i.imgur.com/szpbVlx.png)|
+|:h37a:|![](https://i.imgur.com/lnckIki.png)|:h37b:|![](https://i.imgur.com/8uqxlDn.png)|:h38a:|![](https://i.imgur.com/JtvLKS1.png)|
+|:h38b:|![](https://i.imgur.com/oRGuXrz.png)|:h39a:|![](https://i.imgur.com/7qOkHkV.png)|:h39b:|![](https://i.imgur.com/l5bJy8I.png)|
+|:h40:|![](https://i.imgur.com/QvmKT4n.png)|||
 
 ## Berserker
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:b0:|![](https://i.imgur.com/omAdwBu.png)|:b1:|![](https://i.imgur.com/63tKOpa.png)|
-|:b2:|![](https://i.imgur.com/WAorpM8.png)|:b3:|![](https://i.imgur.com/aYmehhr.png)|
-|:b4:|![](https://i.imgur.com/TJnDldO.png)|:b5:|![](https://i.imgur.com/zgAmLnD.png)|
-|:b6:|![](https://i.imgur.com/qdEIqxe.png)|:b7:|![](https://i.imgur.com/ASShfPQ.png)|
-|:b8:|![](https://i.imgur.com/SJyjMwm.png)|:b9:|![](https://i.imgur.com/x8rmJ9c.png)|
-|:b10:|![](https://i.imgur.com/O4icDCr.png)|:b11:|![](https://i.imgur.com/WUA9FPE.png)|
-|:b12:|![](https://i.imgur.com/1GWfJeF.png)|:b13:|![](https://i.imgur.com/LTyI30K.png)|
-|:b14:|![](https://i.imgur.com/nKeCHsc.png)|:b15:|![](https://i.imgur.com/lV6HY0K.png)|
-|:b16:|![](https://i.imgur.com/dW86gZK.png)|:b17:|![](https://i.imgur.com/Qt5maBx.png)|
-|:b18:|![](https://i.imgur.com/URfUfMa.png)|:b19:|![](https://i.imgur.com/lC2MxG3.png)|
-|:b20:|![](https://i.imgur.com/N5liKEA.png)|:b21:|![](https://i.imgur.com/mS1SwAe.png)|
-|:b22:|![](https://i.imgur.com/13D1nUr.png)|:b23:|![](https://i.imgur.com/whF5MDU.png)|
-|:b24:|![](https://i.imgur.com/B5PDNDf.png)|:b25:|![](https://i.imgur.com/jpYrpSp.png)|
-|:b26:|![](https://i.imgur.com/YbkokDf.png)|:b27:|![](https://i.imgur.com/N0LYEjN.png)|
-|:b28:|![](https://i.imgur.com/FeIY7FX.png)|:b29:|![](https://i.imgur.com/7I0mzCT.png)|
-|:b30:|![](https://i.imgur.com/hhYDlER.png)|:b31:|![](https://i.imgur.com/ZUD6JEx.png)|
-|:b32:|![](https://i.imgur.com/0KT3NYW.png)|:b33:|![](https://i.imgur.com/mKuU0wp.png)|
-|:b34:|![](https://i.imgur.com/e7UQX3t.png)|:b35:|![](https://i.imgur.com/tlygkdo.png)|
-|:b36:|![](https://i.imgur.com/8zsuAyl.png)|:b37:|![](https://i.imgur.com/qWXTKJL.png)|
-|:b38:|![](https://i.imgur.com/1A1MjD4.png)||
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:b0:|![](https://i.imgur.com/8ij9SiJ.png)|:b1:|![](https://i.imgur.com/EC72POj.png)|:b2:|![](https://i.imgur.com/jpYvaB4.png)|
+|:b3:|![](https://i.imgur.com/oHuESR2.png)|:b4:|![](https://i.imgur.com/wkxtmcq.png)|:b5:|![](https://i.imgur.com/I5rOawQ.png)|
+|:b6:|![](https://i.imgur.com/w4e2zHq.png)|:b7:|![](https://i.imgur.com/pUp3m07.png)|:b8:|![](https://i.imgur.com/Je09OFe.png)|
+|:b9:|![](https://i.imgur.com/ULoalVW.png)|:b10:|![](https://i.imgur.com/Rr2EJ6V.png)|:b11:|![](https://i.imgur.com/ELqUtVA.png)|
+|:b12:|![](https://i.imgur.com/PO570Oy.png)|:b13:|![](https://i.imgur.com/4mR38pu.png)|:b14:|![](https://i.imgur.com/dQi4Gh1.png)|
+|:b15:|![](https://i.imgur.com/yopWRyC.png)|:b16:|![](https://i.imgur.com/hT3AXc6.png)|:b17:|![](https://i.imgur.com/kWDoRD7.png)|
+|:b18:|![](https://i.imgur.com/Kd5RoYM.png)|:b19:|![](https://i.imgur.com/MGn78Kn.png)|:b20:|![](https://i.imgur.com/T0TCvA8.png)|
+|:b21:|![](https://i.imgur.com/pAUUubF.png)|:b22:|![](https://i.imgur.com/oo4kfij.png)|:b23:|![](https://i.imgur.com/pmsSksO.png)|
+|:b24:|![](https://i.imgur.com/gQRDdzT.png)|:b25:|![](https://i.imgur.com/Xl4zVSo.png)|:b26:|![](https://i.imgur.com/kVAIvzr.png)|
+|:b27:|![](https://i.imgur.com/a4g9FVZ.png)|:b28a:|![](https://i.imgur.com/VP84e6o.png)|:b28b:|![](https://i.imgur.com/Iiaxhsc.png)|
+|:b29:|![](https://i.imgur.com/56tuSlg.png)|:b30:|![](https://i.imgur.com/pgxcRWL.png)|:b31a:|![](https://i.imgur.com/sf5PQiJ.png)|
+|:b31b:|![](https://i.imgur.com/8cxIVhz.png)|:b32:|![](https://i.imgur.com/z0vtqcF.png)|:b33:|![](https://i.imgur.com/4gQMECf.png)|
+|:b34:|![](https://i.imgur.com/AiiiGeZ.png)|:b35:|![](https://i.imgur.com/j1sS1BN.png)|:b36:|![](https://i.imgur.com/SlvHaYP.png)|
+|:b37:|![](https://i.imgur.com/YI3BMl4.png)|:b38a:|![](https://i.imgur.com/2jviofV.png)|:b38b:|![](https://i.imgur.com/WenLXGV.png)|
 
 ## Ruler
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:er1:|![](https://i.imgur.com/RQx4Rtf.png)|:er2:|![](https://i.imgur.com/NNahMc3.png)|
-|:er3:|![](https://i.imgur.com/VzPxYwb.png)|:er4:|![](https://i.imgur.com/XA5OfuH.png)|
-|:er5:|![](https://i.imgur.com/Cr3g0e7.png)|:er6:|![](https://i.imgur.com/Sle9hcs.png)|
-|:er7:|![](https://i.imgur.com/4duwBPi.png)|:er8:|![](https://i.imgur.com/yMn5eRR.png)|
-|:er9:|![](https://i.imgur.com/RjELGDp.png)|:er10:|![](https://i.imgur.com/4CrqAFW.png)|
-|:er11:|![](https://i.imgur.com/nJ41Jqd.png)|:er12:|![](https://i.imgur.com/lmM1BsG.png)|
-|:er13:|![](https://i.imgur.com/IxSJJzr.png)|:er14:|![](https://i.imgur.com/SulnEXi.png)|
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:er1:|![](https://i.imgur.com/FeIxDJv.png)|:er2:|![](https://i.imgur.com/af1NpDg.png)|:er3:|![](https://i.imgur.com/rq9LngO.png)|
+|:er4:|![](https://i.imgur.com/SzLvmnM.png)|:er5:|![](https://i.imgur.com/0UKQ6rC.png)|:er6:|![](https://i.imgur.com/AEMCkOW.png)|
+|:er7:|![](https://i.imgur.com/BRhMjCf.png)|:er8:|![](https://i.imgur.com/zBEJJQq.png)|:er9:|![](https://i.imgur.com/pt3JXLz.png)|
+|:er10:|![](https://i.imgur.com/bIc57Zt.png)|:er11:|![](https://i.imgur.com/pSOIcxW.png)|:er12:|![](https://i.imgur.com/4FlAcOr.png)|
+|:er13:|![](https://i.imgur.com/RNz1EBx.png)|:er14:|![](https://i.imgur.com/T4ejww5.png)|||
 
 ## Avenger
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:ea1:|![](https://i.imgur.com/SmznDJt.png)|:ea2:|![](https://i.imgur.com/uzgm5K8.png)|
-|:ea3:|![](https://i.imgur.com/st67oqr.png)|:ea4:|![](https://i.imgur.com/FW2gC5b.png)|
-|:ea5:|![](https://i.imgur.com/xCYtwLp.png)|:ea6:|![](https://i.imgur.com/ErdNhUE.png)|
-|:ea7:|![](https://i.imgur.com/fMfQNI0.png)|:ea8:|![](https://i.imgur.com/9FuILzo.png)|
-|:ea9:|![](https://i.imgur.com/mAt4PdS.png)|:ea10:|![](https://i.imgur.com/lqzxteY.png)|
-|:ea11:|![](https://i.imgur.com/lzDefjQ.png)|:ea12:|![](https://i.imgur.com/TV88ClZ.png)|
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:ea1:|![](https://i.imgur.com/hYIkE5l.png)|:ea2:|![](https://i.imgur.com/R5HO5BG.png)|:ea3a:|![](https://i.imgur.com/aKR4vWl.png)|
+|:ea3b:|![](https://i.imgur.com/PCNc28q.png)|:ea3c:|![](https://i.imgur.com/U4I0lZM.png)|:ea4:|![](https://i.imgur.com/zvlN3Xh.png)|
+|:ea5:|![](https://i.imgur.com/tzsfpgh.png)|:ea6a:|![](https://i.imgur.com/MJxVx2K.png)|:ea6b:|![](https://i.imgur.com/2YAVxSi.png)|
+|:ea7a:|![](https://i.imgur.com/9btD24P.png)|:ea7b:|![](https://i.imgur.com/DQOVCII.png)|:ea7c:|![](https://i.imgur.com/eb6R3GL.png)|
+|:ea8a:|![](https://i.imgur.com/91Ub8SO.png)|:ea8b:|![](https://i.imgur.com/DQOVCII.png)|:ea8c:|![](https://i.imgur.com/eb6R3GL.png)|
+|:ea9a:|![](https://i.imgur.com/cpN3YAg.png)|:ea9b:|![](https://i.imgur.com/LkeYLU2.png)|:ea10:|![](https://i.imgur.com/wf56u1o.png)|
+|:ea11:|![](https://i.imgur.com/6Yz8HAj.png)|:ea12:|![](https://i.imgur.com/MQydCG0.png)|||
 
 ## Mooncancer
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:em1:|![](https://i.imgur.com/YRDXrKj.png)|:em2:|![](https://i.imgur.com/813xuhm.png)|
-|:em3:|![](https://i.imgur.com/3IqjrKC.png)|:em4:|![](https://i.imgur.com/z3t0Djn.png)|
-|:em5:|![](https://i.imgur.com/cGsmgJg.png)||
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:em:|![](https://i.imgur.com/eGo2egW.png)|:em:|![](https://i.imgur.com/2BVHjsq.png)|:em:|![](https://i.imgur.com/wHXTWoN.png)|
+|:em:|![](https://i.imgur.com/uU92QgW.png)|:em:|![](https://i.imgur.com/ii9vYho.png)|||
 
 ## Alter Ego
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:eg1:|![](https://i.imgur.com/i8DImj8.png)|:eg2:|![](https://i.imgur.com/vq7LAJU.png)|
-|:eg3:|![](https://i.imgur.com/CnEbkLV.png)|:eg4:|![](https://i.imgur.com/VhdH0lI.png)|
-|:eg5:|![](https://i.imgur.com/bsTUKkw.png)|:eg6:|![](https://i.imgur.com/1AjDVih.png)|
-|:eg7:|![](https://i.imgur.com/lCd6CQW.png)|:eg8:|![](https://i.imgur.com/kmfysQg.png)|
-|:eg9:|![](https://i.imgur.com/G99w2RD.png)|:eg10:|![](https://i.imgur.com/wgvnyvb.png)|
-|:eg11:|![](https://i.imgur.com/voQx2c8.png)|:eg12:|![](https://i.imgur.com/zAqoWux.png)|
-|:eg13:|![](https://i.imgur.com/brt8CZz.png)||
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:eg1:|![](https://i.imgur.com/CDQQLLZ.png)|:eg2:|![](https://i.imgur.com/Ey7MpdL.png)|:eg3:|![](https://i.imgur.com/UIsbQAg.png)|
+|:eg4:|![](https://i.imgur.com/LdAAyKm.png)|:eg5:|![](https://i.imgur.com/JnTtf08.png)|:eg6:|![](https://i.imgur.com/RxfGCgB.png)|
+|:eg7:|![](https://i.imgur.com/iFJ3gYk.png)|:eg8:|![](https://i.imgur.com/mtaGyX6.png)|:eg9:|![](https://i.imgur.com/YAykwrj.png)|
+|:eg10:|![](https://i.imgur.com/VAJBPHl.png)|:eg11:|![](https://i.imgur.com/b12c4gV.png)|:eg12:|![](https://i.imgur.com/rvOiAVT.png)|
+|:eg13:|![](https://i.imgur.com/Yiy63qB.png)|||||
 
 ## Foreigner
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:ef1:|![](https://i.imgur.com/Dyqvli1.png)|:ef2:|![](https://i.imgur.com/3DU1VSY.png)|
-|:ef3:|![](https://i.imgur.com/V3PRO9q.png)|:ef4:|![](https://i.imgur.com/VYzEm34.png)|
-|:ef5:|![](https://i.imgur.com/pZq5POB.png)|:ef6:|![](https://i.imgur.com/ePC65yl.png)|
-|:ef7:|![](https://i.imgur.com/boEc7iA.png)|:ef8:|![](https://i.imgur.com/HovL4Mb.png)|
-|:ef9:|![](https://i.imgur.com/TZzwH1i.png)|:ef10:|![](https://i.imgur.com/ZTMHcmx.png)|
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:ef1:|![](https://i.imgur.com/aYAfykC.png)|:ef2:|![](https://i.imgur.com/ec7XWmy.png)|:ef3a:|![](https://i.imgur.com/NZALxbX.png)|
+|:ef3b:|![](https://i.imgur.com/kI4AILt.png)|:ef4:|![](https://i.imgur.com/xazp0e6.png)|:ef5:|![](https://i.imgur.com/ugOq7QW.png)|
+|:ef6:|![](https://i.imgur.com/7Guzpqe.png)|:ef7:|![](https://i.imgur.com/SP1MuWB.png)|:ef8:|![](https://i.imgur.com/4adHo5r.png)|
+|:ef9:|![](https://i.imgur.com/gysJGEW.png)|:ef10a:|![](https://i.imgur.com/WUUyX8g.png)|:ef10b:|![](https://i.imgur.com/dMQpECl.png)|
+|:ef10c:|![](https://i.imgur.com/jplaxO8.png)|||||
 
 ## Pretender
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:ep1:|![](https://i.imgur.com/eBLEr87.png)|:ep2:|![](https://i.imgur.com/Hrf4FzU.png)|
-|:ep3:|![](https://i.imgur.com/CX0AkRW.png)|:ep4:|![](https://i.imgur.com/UYUa2Ht.png)|
-
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:ep1a:|![](https://i.imgur.com/bI6ubEc.png)|:ep2:|![](https://i.imgur.com/AHsDsc4.png)|:ep3:|![](https://i.imgur.com/upE8T4o.png)|
+|:ep4:|![](https://i.imgur.com/qxGr8Wg.png)|||||
 
 ## Beast
 
-| Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|
-|:eb1:|![](https://i.imgur.com/W541w63.png)|:eb2:|![](https://i.imgur.com/Z3ynmbv.png)|
-|:eb3:|![](https://i.imgur.com/68BNcF4.png)|:eb4:|![](https://i.imgur.com/U2SF1sE.png)|
-|:eb5:|![](https://i.imgur.com/VgX6wtV.png)||
+::: details Spoilers!
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:eb1:|![](https://i.imgur.com/Eg0lQIZ.png)|:eb2:|![](https://i.imgur.com/diygAjU.png)|:eb3:|![](https://i.imgur.com/cNAsZZk.png)|
+|:eb4:|![](https://i.imgur.com/ET0uZVZ.png)|:eb5:|![](https://i.imgur.com/BjwevKH.png)||
+:::
+
+## People
+
+### Yorokobe / Overarching Characters
+
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p8:|![](https://i.imgur.com/PCYt9Uo.png)|:p40:|![](https://i.imgur.com/d0b1gmL.png)|:p15:|![](https://i.imgur.com/N0B9MFm.png)|
+|:p16:|![](https://i.imgur.com/t9u04Ub.png)|:p24:|![](https://i.imgur.com/dYjPsfY.png)|:p55:|![](https://i.imgur.com/5dFSGo7.png)|
 
 
+### Singularity / Lostbelt
 
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p59:|![](https://i.imgur.com/IFBbgOf.png)|:p50:|![](https://i.imgur.com/vj7LWZU.png)|:p53:|![](https://i.imgur.com/K6gIt1h.png)|
+|:p58:|![](https://i.imgur.com/v6FDs2R.png)|:p62:|![](https://i.imgur.com/bRbIi2X.png)|:p64:|![](https://i.imgur.com/KNDjTHo.png)|
+
+
+### Crypters
+
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p71:|![](https://i.imgur.com/aZA0Z2X.png)|:p72:|![](https://i.imgur.com/lER32hf.png)|:p73:|![](https://i.imgur.com/M8NDimJ.png)|
+|:p74:|![](https://i.imgur.com/pI8fuP8.png)|:p75:|![](https://i.imgur.com/BiTS3mD.png)|:p76:|![](https://i.imgur.com/mDPHnwL.png)|
+
+### Fate/Stay Night
+
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p10:|![](https://i.imgur.com/lSHeSiq.png)|:p11:|![](https://i.imgur.com/65EBgdx.png)|:p14:|![](https://i.imgur.com/vlmuG1o.png)|
+|:p12:|![](https://i.imgur.com/eBogbWn.png)|:p9:|![](https://i.imgur.com/T3J8g1r.png)|:p17:|![](https://i.imgur.com/og0s40L.png)|
+|:p25:|![](https://i.imgur.com/eZCs5rz.png)|:p26:|![](https://i.imgur.com/DeLoMYi.png)|:p34:|![](https://i.imgur.com/9W9rQdp.png)|
+|:p35:|![](https://i.imgur.com/u9fa8jg.png)|:p45:|![](https://i.imgur.com/LvXfuru.png)|:p77:|![](https://i.imgur.com/sejA5t6.png)|
+
+### Fate/Zero
+
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p13:|![](https://i.imgur.com/2GFXadk.png)|:p23:|![](https://i.imgur.com/pnPlNW7.png)|:p37:|![](https://i.imgur.com/1iJdfll.png)|
+|:p38:|![](https://i.imgur.com/qdMY3SP.png)|:p39:|![](https://i.imgur.com/WsSmEds.png)|:p41:|![](https://i.imgur.com/nBTUN6N.png)|
+|:p42:|![](https://i.imgur.com/nYSWw1S.png)|:p46:|![](https://i.imgur.com/HTP2UFk.png)|:p54:|![](https://i.imgur.com/66BmYUi.png)|
+
+
+### Fate/Extra
+
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p18:|![](https://i.imgur.com/rVHxFS4.png)|:p19:|![](https://i.imgur.com/lLuuVs2.png)|:p20:|![](https://i.imgur.com/zNu8wki.png)|
+|:p21:|![](https://i.imgur.com/1u9TxDz.png)|:p32:|![](https://i.imgur.com/w8zh3z9.png)|:p33:|![](https://i.imgur.com/k25ucSc.png)|
+|:p44:|![](https://i.imgur.com/ll48uag.png)|:p51:|![](https://i.imgur.com/GKpo5zm.png)|:p52:|![](https://i.imgur.com/nnUCIoB.png)|
+|:p56:|![](https://i.imgur.com/mOUHhra.png)|||||
+
+### Kara no Kyoukai
+
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p27:|![](https://i.imgur.com/EYqsbus.png)|:p28:|![](https://i.imgur.com/n340gx3.png)|:p29:|![](https://i.imgur.com/6zvvFDP.png)|
+|:p30:|![](https://i.imgur.com/EV64wqM.png)|:p31:|![](https://i.imgur.com/gny8coj.png)|||
+
+### Fate/Apocrypha
+
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p22:|![](https://i.imgur.com/RTImgVK.png)|:p36:|![](https://i.imgur.com/cms9ppT.png)|:p60:|![](https://i.imgur.com/kiCeHSO.png)|
+|:p47:|![](https://i.imgur.com/7HihxDg.png)|:p48:|![](https://i.imgur.com/080wJTc.png)|:p49:|![](https://i.imgur.com/BFGf8LD.png)|
+|:p61:|![](https://i.imgur.com/U3Se3ZE.png)|||||
+
+### Fate/Prisma Illya
+
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p43:|![](https://i.imgur.com/r0zgajf.png)|||||
+
+pls give beatrice or julian ce so tanaka isnt alone ;-;
+
+
+### Fate/Requiem
+
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p66:|![](https://i.imgur.com/GP8Tde0.png)|:p67:|![](https://i.imgur.com/fTvaLnJ.png)|||
+
+### Fate/Prototype
+
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p63:|![](https://i.imgur.com/Ao1CpII.png)|:p68:|![](https://i.imgur.com/EwZMWD3.png)|:p69:|![](https://i.imgur.com/f7LGLH4.png)|
+|:p70:|![](https://i.imgur.com/8BZEMqX.png)||||
