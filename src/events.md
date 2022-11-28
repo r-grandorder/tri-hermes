@@ -27,18 +27,18 @@ Events under years are using NA script. The format is JP/NA for year. The URL us
 
 ## 2016/18
 
-* [SABER WARS](Events/2018/saberwars.md)
+* [![](https://i.imgur.com/qvFPnvl.png)](Events/2018/saberwars.md)
 * [Chocolate Lady's Commotion](Events/2018/valentines2018.md)
 * [Kara no Kyoukai Collab](Events/2018/knk.md)
-* [Vengeful Demon's Wail at the Prison Tower](Events/2018/prisontower.md)
+* [![](https://i.imgur.com/nL82z2Q.png)](Events/2018/prisontower.md)
 * [Da Vinci and the 7 Counterfeit Heroic Spirits](Events/2018/counterfeit.md)
-* [Fate Zero Collab](Events/2018/zero.md)
+* [![](https://i.imgur.com/3lK1QeE.png)](Events/2018/zero.md)
 * [The Demonic Capital: Rashomon](Events/2018/rashomon.md)
-* [Sanzang Coming to the West](Events/2018/jttw.md)
+* [![](https://i.imgur.com/zTiS5Lj.png)](Events/2018/jttw.md)
 * [The Great Tale of Demons: Onigashima](Events/2018/onigashima.md)
 * [Summer 1 Part 1](Events/2018/summer1part1.md)
 * [Summer 1 Part 2](Events/2018/summer1part2.md)
-* [Prillya Collab](Events/2018/prillya.md)
+* [![](https://i.imgur.com/DuZtMi1.png)](Events/2018/prillya.md)
 * [Return of Nerofest - Autumn of 2016/2018](Events/2018/nerofest2018.md)
 * [Halloween 2](Events/2018/halloween2.md)
 * [Christmas 2](Events/2018/christmas2.md)
@@ -46,42 +46,42 @@ Events under years are using NA script. The format is JP/NA for year. The URL us
 ## 2017/19
 
 * [GUDAGUDA 2](Events/2019/gudaguda2.md)
-* [All the Statesmen!](Events/2019/statesmen.md)
-* [Summer 2 Part 1](Events/2019/summer2part1.md)
-* [Summer 2 Part 2](Events/2019/summer2part2.md)
+* [![](https://i.imgur.com/nZQlRuF.png)(Events/2019/statesmen.md)
+* [![](https://i.imgur.com/y3iM62S.png)](Events/2019/summer2part1.md)
+* [![](https://i.imgur.com/5VaJxae.png)](Events/2019/summer2part2.md)
 * [Nerofest Redux](Events/2019/nerofest2019.md)
-* [Halloween 3](Events/2019/halloween3.md)
-* [Christmas 3](Events/2019/christmas3.md)
+* [![](https://i.imgur.com/THu3J4V.png)](Events/2019/halloween3.md)
+* [![](https://i.imgur.com/SMkYk8e.png)](Events/2019/christmas3.md)
 
 ## 2018/20
 
 * [Setsubun Oni Pagoda](Events/2020/setsubun.md)
 * [The Bountiful Chocolate Gardens of Valentine](Events/2020/valentines2020.md)
-* [Apocrypha Collab](Events/2020/apocrypha.md)
-* [Murder at the Kogetsukan](Events/2020/kogetsukan.md)
-* [GUDAGUDA 3](Events/2020/gudaguda3.md)
-* [Summer 3](Events/2020/summer3.md)
-* [Battle in New York](Events/2020/gilfest2020.md)
-* [Halloween 4 - Oniland](Events/2020/oniland.md)
-* [Christmas 4](Events/2020/christmas4.md)
+* [![](https://i.imgur.com/GHBjpu4.png)](Events/2020/apocrypha.md)
+* [![](https://i.imgur.com/nWVmQ74.png)](Events/2020/kogetsukan.md)
+* [![](https://i.imgur.com/krJR5iJ.png)](Events/2020/gudaguda3.md)
+* [![](https://i.imgur.com/noWZcc4.png)](Events/2020/summer3.md)
+* [![](https://i.imgur.com/wpzLoGj.png)](Events/2020/gilfest2020.md)
+* [![](https://i.imgur.com/gBrDd8H.png)](Events/2020/oniland.md)
+* [![](https://i.imgur.com/tuYaeyV.png)](Events/2020/christmas4.md)
 
 ## 2019/21
 
-* [Sparrow's Inn Daily Report](Events/2021/enmatei.md)
-* [Voice and Letters Collection](Events/2021/valentines2020.md)
-* [An Old Spider Spins Webs of Memory](Events/2021/spider.md)
-* [Case Files Collab](Events/2021/casefiles.md)
-* [A Meihousou Most Foul](Events/2021/meihousou.md)
-* [GUDAGUDA Final Honnoji](Events/2021/gudaguda4.md)
-* [Summer 4](Events/2021/summer4.md)
-* [Battle in New York Part 2](Events/2021/gilfest2021.md)
-* [SABER WARS 2](Events/2021/saberwars2.md)
-* [Christmas 5](Events/2021/carol.md)
+* [![](https://i.imgur.com/TV5Db2a.png)](Events/2021/enmatei.md)
+* [![](https://i.imgur.com/P7CtPX5.png)](Events/2021/valentines2020.md)
+* [![](https://i.imgur.com/lqNmbkS.png)](Events/2021/spider.md)
+* [![](https://i.imgur.com/793Q2TG.png)](Events/2021/casefiles.md)
+* [![](https://i.imgur.com/tDO971e.png)(Events/2021/meihousou.md)
+* [![](https://i.imgur.com/ETtGInc.png)](Events/2021/gudaguda4.md)
+* [![](https://i.imgur.com/kXWao2p.png)](Events/2021/summer4.md)
+* [![](https://i.imgur.com/dpaQ4li.png)](Events/2021/gilfest2021.md)
+* [![](https://i.imgur.com/ZjeMsRy.png)](Events/2021/saberwars2.md)
+* [![](https://i.imgur.com/MNwzlEJ.png)](Events/2021/carol.md)
 
 ## 2020/22
 
-* [Amazoness CEO](Events/2022/amazon.md)
-* [Requiem Collab](Events/2022/requiem.md)
+* [![](https://i.imgur.com/xqlHQcV.png)](Events/2022/amazon.md)
+* [![](https://i.imgur.com/dLZ6EYb.png)](Events/2022/requiem.md)
 
 
 ## JP Translated Events
