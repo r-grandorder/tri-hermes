@@ -8,10 +8,27 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 
 | Code | Flair | Code | Flair | Code | Flair
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|:p1:|![](https://i.imgur.com/FQPhE58.png)|:p2:|![](https://i.imgur.com/UCMGEQs.png)|:p3:|![](https://i.imgur.com/jRbRdYk.png)|
+|:g1:|![](https://i.imgur.com/frb1yHT.png)|:g2:|![](https://i.imgur.com/ytmigtt.png)|:p3:|![](https://i.imgur.com/jRbRdYk.png)|
 |:es1:|![](https://i.imgur.com/Wfbg1Vz.png)|:es2:|![](https://i.imgur.com/pY3n8RK.png)|:p4:|![](https://i.imgur.com/0hxp2M8.png)|
 |:p5:|![](https://i.imgur.com/YD6zPm3.png)|:p6:|![](https://i.imgur.com/S5gcmQK.png)|:p7:|![](https://i.imgur.com/T4BfRyf.png)|
 |:p65:|![](https://i.imgur.com/h6bUKR6.png)|||||
+
+:::details Guda Drip
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:g3:|![](https://i.imgur.com/1vjk3R4.png)|:g4:|![](https://i.imgur.com/PcYgoQm.png)|:g5:|![](https://i.imgur.com/LNBf04x.png)|
+|:g6:|![](https://i.imgur.com/ajoXr42.png)|:g7:|![](https://i.imgur.com/XtuHO5G.png)|:g8:|![](https://i.imgur.com/74mQdE3.png)|
+|:g9:|![](https://i.imgur.com/Z6P8xoI.png)|:g10:|![](https://i.imgur.com/bWxuzvS.png)|:g11:|![](https://i.imgur.com/47kqqxt.png)|
+|:g12:|![](https://i.imgur.com/0FHNjX1.png)|:g13:|![](https://i.imgur.com/ZUYqLIW.png)|:g14:|![](https://i.imgur.com/IaRVR48.png)|
+|:g15:|![](https://i.imgur.com/zCeTEOT.png)|:g16:|![](https://i.imgur.com/OQTIA41.png)|:g17:|![](https://i.imgur.com/WeP0mBu.png)|
+|:g18:|![](https://i.imgur.com/EdPwGdq.png)|:g19:|![](https://i.imgur.com/oovMRLJ.png)|:g20:|![](https://i.imgur.com/DRym9Bq.png)|
+|:g21:|![](https://i.imgur.com/GxKoKet.png)|:g22:|![](https://i.imgur.com/s8H5XBL.png)|:g23:|![](https://i.imgur.com/pp0D8St.png)|
+|:g24:|![](https://i.imgur.com/XoCEnZR.png)|:g25:|![](https://i.imgur.com/hEoeKxz.png)|:g26:|![](https://i.imgur.com/1R9IIcY.png)|
+|:g27:|![](https://i.imgur.com/QFje4WV.png)|:g28:|![](https://i.imgur.com/QFunKx3.png)|:g29:|![](https://i.imgur.com/FVglD2I.png)|
+|:g30:|![](https://i.imgur.com/IAQ77Nx.png)|:g31:|![](https://i.imgur.com/xFzH2YF.png)|:g32:|![](https://i.imgur.com/NgSMlyf.png)|
+|:g33:|![](https://i.imgur.com/vyYUqWl.png)|:g34:|![](https://i.imgur.com/quIuQsX.png)|:g35:|![](https://i.imgur.com/qmjMiKR.png)|
+|:g36:|![](https://i.imgur.com/5oD4IiA.png)|:g37:|![](https://i.imgur.com/ucqHSr5.png)|:g38:|![](https://i.imgur.com/yeGCgvo.png)|
+:::
 
 ## Saber
 
@@ -219,8 +236,8 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 ::: details Spoilers!
 | Code | Flair | Code | Flair | Code | Flair
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|:eb1:|![](https://i.imgur.com/Eg0lQIZ.png)|:eb2:|![](https://i.imgur.com/diygAjU.png)|:eb3:|![](https://i.imgur.com/cNAsZZk.png)|
-|:eb4:|![](https://i.imgur.com/ET0uZVZ.png)|:eb5:|![](https://i.imgur.com/BjwevKH.png)||
+|:eb1:|![](https://i.imgur.com/Eg0lQIZ.png)|:eb2a:|![](https://i.imgur.com/diygAjU.png)|:eb2b:|![](https://i.imgur.com/vTHTU9d.png)|
+|:eb3:|![](https://i.imgur.com/cNAsZZk.png)|:eb4:|![](https://i.imgur.com/ET0uZVZ.png)|:eb5:|![](https://i.imgur.com/BjwevKH.png)|
 :::
 
 ## People
