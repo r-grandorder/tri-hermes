@@ -96,8 +96,6 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:r36:|![](https://i.imgur.com/369w216.png)|:r37:|![](https://i.imgur.com/PH8aKJM.png)|:r38:|![](https://i.imgur.com/iDQnvnk.png)|
 |:r39:|![](https://i.imgur.com/pI21G8A.png)|:r40:|![](https://i.imgur.com/lprHRY4.png)|:r41:|![](https://i.imgur.com/I5LBJ7X.png)|
 
-|:r:|![]()|:r:|![]()|:r:|![]()|
-
 ## Caster
 
 | Code | Flair | Code | Flair | Code | Flair
@@ -175,9 +173,9 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 | Code | Flair | Code | Flair | Code | Flair
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |:ea1:|![](https://i.imgur.com/hYIkE5l.png)|:ea2:|![](https://i.imgur.com/R5HO5BG.png)|:ea3a:|![](https://i.imgur.com/aKR4vWl.png)|
-|:ea3b:|![](https://i.imgur.com/PCNc28q.png)|:ea3c:|![](https://i.imgur.com/U4I0lZM.png)|:ea4:|![](https://i.imgur.com/zvlN3Xh.png)|
+|:ea3b:|![](https://i.imgur.com/PCNc28q.png)|:ea3c:|![](https://i.imgur.com/U4I0lZM.png)|:ea4:|![](https://i.imgur.com/19ebHgM.png)|
 |:ea5:|![](https://i.imgur.com/tzsfpgh.png)|:ea6a:|![](https://i.imgur.com/MJxVx2K.png)|:ea6b:|![](https://i.imgur.com/2YAVxSi.png)|
-|:ea7a:|![](https://i.imgur.com/9btD24P.png)|:ea7b:|![](https://i.imgur.com/DQOVCII.png)|:ea7c:|![](https://i.imgur.com/eb6R3GL.png)|
+|:ea7a:|![](https://i.imgur.com/9btD24P.png)|:ea7b:|![](https://i.imgur.com/GkyRL2u.png)|:ea7c:|![](https://i.imgur.com/7YxaZBP.png)|
 |:ea8a:|![](https://i.imgur.com/91Ub8SO.png)|:ea8b:|![](https://i.imgur.com/DQOVCII.png)|:ea8c:|![](https://i.imgur.com/eb6R3GL.png)|
 |:ea9a:|![](https://i.imgur.com/cpN3YAg.png)|:ea9b:|![](https://i.imgur.com/LkeYLU2.png)|:ea10:|![](https://i.imgur.com/wf56u1o.png)|
 |:ea11:|![](https://i.imgur.com/6Yz8HAj.png)|:ea12:|![](https://i.imgur.com/MQydCG0.png)|||
