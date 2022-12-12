@@ -441,7 +441,11 @@ Looking back on it, precisely 10 years have passed between the appearance of the
 
 **Kondou:** The staff has my gratitude.
 
-Bonus: 2nd Season Preview - https://www.youtube.com/watch?v=3BXp3b66XUU
+## Bonus: 2nd Season Preview 
+ 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3BXp3b66XUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 **Kondou:** Happily, ufotable's production department has grown, too, and when I think about what's to come, it makes me want to hand off as much as possible to them. That's why I left this preview in the hands of Production Manager Kondou Ryou. I told him, "Think up a preview that will make people want to watch the 2nd season."
 

@@ -2,7 +2,7 @@
 
 **Translators: Rayshift Team -** Gaius, Fumei, Zaszc, PorksIope, Neo, Louay, Starfire, Miro
 
-**Editors: Rayshift Team -** MaxAkito, Meru, Squishy, Azumi, Udon Emperor
+**Editors: Rayshift Team -** MaxAkito, Meru, Squishy, Azumi, Yusuke
 
 ## Prologue
  
