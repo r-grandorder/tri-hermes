@@ -17,6 +17,8 @@
 
 | Date | Title | Participants | Summary |
 |:--------:|:--------|:--------:|:--------|
+| August 8, 2020 | [Fate/Grand Order 5th Anniversary Q&A With Nasu and Takeuchi](Interviews/5thanni.md) | Nasu Kinoko, Takeuchi Takashi, Famitsu | Famitsu interview regarding FGO's 5th Anniversary | 
+| August 4, 2021 | [Nasu and Takeuchi's 6th Anniversary interview](Interviews/6thanni.md) | Nasu Kinoko, Takeuchi Takashi, Famitsu | Nasu and Takeuchi answering questions about the Avalon le Fae chapter | 
 | May 8, 2021 | [Fate/Grand Order THE MOVIE -Divine Realm of the Round Table-](Interviews/camelot-movies.md) | Nasu Kinoko, Takeuchi Takashi, Fans | Responding to Camelot Movie fan-mail, Camelot Singularity lore | 
 | April 12, 2022 | [TM Ace Vol 14, 2 segments](Interviews/tmace14.md) | Kinoko Nasu, Koyama Hirokazu | Mahoyo Port talk + LB6 Info |
 | August 1, 2022 | [Birth of a Servant](Interviews/birth-of-servant-takeuchi.md) | Takeuchi Takashi | Implementation of Arcueid, Character Design Info, LB7 crumb |
