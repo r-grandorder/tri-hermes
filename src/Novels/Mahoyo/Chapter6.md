@@ -1441,7 +1441,7 @@
 
 |EN|JP|
 |:--------|:--------|
-|(Ye- huh?)|{{{は―――い？}}}|
+|(Ye- huh?)|(は―――い？)|
 |The moment he responded to her whispered call,|<ruby>囁<rt>ささや</rt></ruby>くような有珠の呼びかけに応えた瞬間。|
 |his surroundings began to transform.|<ruby>彼<rt>・</rt></ruby>の周囲の風景は、かくのように一変していた。|
 |The air grew thick; so thick, it took on a color and shape.|空気は色と形を持ったように<ruby>濁<rt>にご</rt></ruby>っている。|
@@ -1451,7 +1451,7 @@
 
 |EN|JP|
 |:--------|:--------|
-|(...!)|{{{、―――、、―――！}}}|
+|(...!)|(、―――、、―――！)|
 |Opening his mouth to gasp for air, the words invaded his lungs.|息を吸う口から、<ruby>文字<rt>いぶつ</rt></ruby>が肺に入る錯覚に襲われる。|
 |Instinctively, he covered his mouth with his right hand, and clutched his chest with his left, both hands appearing clear as mud.|咄嗟に口を<ruby>塞<rt>ふさ</rt></ruby>ぐ右手も、胸を押さえる左手も、きちんと見えるのによく見えない。|
 |Even the thickest of mountain fogs never seized his senses like this.|山で出会った深い霧だって、ここまで意識を<ruby>拐<rt>かどわ</rt></ruby>かす事はなかったはずだ。|
