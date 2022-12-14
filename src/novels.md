@@ -3,6 +3,7 @@
 ## Visual Novels
 
 * [Tsukihime Remake](Novels/tsukire.md) ~ Coming Soon!
+* [Witch on the Holy Night](Novels/witch-on-the-holy-night.md)
 * [Fate/Stay Night](Novels/fsn.md)
 
 ## Light Novels
