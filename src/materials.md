@@ -17,5 +17,7 @@ Below are official materials published by TYPE-MOON to supplement their various 
 * [Fate/stay night - Unlimited Blade Works Animation Material](Materials/ubwanimation.md)
 * [Fate/stay night - Heaven's Feel II lost butterfly Animation Material](Materials/lostbutterfly.md)
 
+## Phamphlets 
 
+* [FGO 6th chapter- Divine Realm of the Round Table: Camelot Films' Pamphlet/Booklet](Materials/camelotbooklet.md)
 
