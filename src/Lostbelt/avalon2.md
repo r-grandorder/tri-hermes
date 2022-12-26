@@ -17926,7 +17926,7 @@ I've only got one condition here. If need be, I want someone who can demolish th
 Ruler Servant, Fairy Queen Morgan, has answered your summons. 
  
 **D：Servant:**
-Heir to the witches of the end. Are you my Master? 
+You, descendant of witch waste. Are you my summoner?
  
 **Beryl:**
 Man, I slept great! It was a good decision to stop here before heading back to Darlington! 

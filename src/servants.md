@@ -192,7 +192,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/XqiWmlp.png) | Achilles | [Material Profile](Servants/Profiles/Achilles.md) | |
 | ![](https://i.imgur.com/px93OvO.png) | Sakamoto Ryouma | [Material Profile](Servants/Profiles/Sakamoto-Ryōma.md) | |
 | ![](https://i.imgur.com/Itd3Anw.png) | Red Hare | [Material Profile](Servants/Profiles/Red-Hare.md) | |
-| ![](https://i.imgur.com/p9qYgfV.png) | Sima Yi (Reines) | [Material Profile](Servants/Profiles/Sima-Yi-Reines.md) | [Interlude](Servants/Interludes/Sima-Yi-Reines.md) |
+| ![](https://i.imgur.com/eakugrI.png) | Sima Yi (Reines) | [Material Profile](Servants/Profiles/Sima-Yi-Reines.md) | [Interlude](Servants/Interludes/Sima-Yi-Reines.md) |
 | ![](https://i.imgur.com/tAK5Ta4.png) | Leonardo da Vinci | [Material Profile](Servants/Profiles/Leonardo-da-Vinci-Rider.md) | |
 | ![](https://i.imgur.com/RaRbED5.png) | Bartholomew Roberts | [Material Profile](Servants/Profiles/Bartholomew-Roberts.md) | |
 | ![](https://i.imgur.com/fGRFGWc.png) | Carmilla | [Material Profile](Servants/Profiles/Carmilla-Rider.md) | |
@@ -302,7 +302,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/78RUiDo.png) | Okita J Sōji | [Material Profile](Servants/Profiles/Okita-J-Sōji.md) | |
 | ![](https://i.imgur.com/otvsbBf.png) | Kiichi Hougen | | | 
 | ![](https://i.imgur.com/XjZPmFs.png) | Koyanskaya of Light | | | 
-| ![](https://i.imgur.com/yquLMv8.png) | Valkyrie | | | 
+| ![](https://i.imgur.com/oRGuXrz.png) | Valkyrie | | | 
 | ![](https://i.imgur.com/U4ZAPET.png) | Huyan Zhuo | | |
 
 ## Berserker

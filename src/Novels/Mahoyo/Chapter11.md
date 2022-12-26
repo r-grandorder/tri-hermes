@@ -86,7 +86,6 @@
 |EN|JP|
 |:--------|:--------|
 |"You're much safer at the church than here. And I need to hurry.|「ここにいるより、教会にいたほうが静希君は安全よ。それに、わたしも急がないといけない。|
-
 |Think you can ride with me on the back?"|……静希君、ふたり乗りできる？」|
 
 ---
