@@ -84,6 +84,10 @@ module.exports = {
                 text: "Feedback",
                 link: "/feedback",
             },
+			{
+                text: "Discord",
+                link: "https://discord.gg/GzxxEwjzpU",
+            },
         ],
         sidebar: 'auto'
     }),
