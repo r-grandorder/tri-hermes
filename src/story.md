@@ -64,9 +64,16 @@
 
 ![](https://i.imgur.com/ADORzGw.png)
 
-* [Smoof's Traum Translation](Lostbelt/traum-TL-Smoof.md)
-* [Fumei's Traum Summary](Lostbelt/traum-summary-fumei.md)
+* [Smoof's Traum Translation](Lostbelt/traum-TL-Smoof.md) - Will complete later
+* [Fumei's Traum Summary](Lostbelt/traum-summary-fumei.md) - Will complete later
+* [Rayshift Traum Translation (Complete)](Lostbelt/traum-rayshift.md)
 * [Post-Traum Speculation Resource](Lostbelt/ayylmao.md)
+
+![](https://static.atlasacademy.io/JP/Banner/questboard_cap317.png)
+
+* [Smoof's LB7 Translation Summary](Lostbelt/mictlan-smoof.md)
+* [Comun's LB7 Summary](Lostbelt/mictlan-comun.md)
+* [Rayshift LB7 Translation](Lostbelt/mictlan-rayshift.md)
 
 ## Anime/Movie/OVA
 
