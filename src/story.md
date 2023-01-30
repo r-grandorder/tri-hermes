@@ -66,7 +66,7 @@
 
 * [Smoof's Traum Translation](Lostbelt/traum-TL-Smoof.md) - Will complete later
 * [Fumei's Traum Summary](Lostbelt/traum-summary-fumei.md) - Will complete later
-* [Rayshift Traum Translation (Complete)](Lostbelt/traum-rayshift.md)
+* Rayshift Traum Translation ~ Experiencing Heap Issues. Available Soon.
 * [Post-Traum Speculation Resource](Lostbelt/ayylmao.md)
 
 ![](https://static.atlasacademy.io/JP/Banner/questboard_cap317.png)
