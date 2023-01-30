@@ -28,6 +28,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:g30:|![](https://i.imgur.com/IAQ77Nx.png)|:g31:|![](https://i.imgur.com/xFzH2YF.png)|:g32:|![](https://i.imgur.com/NgSMlyf.png)|
 |:g33:|![](https://i.imgur.com/vyYUqWl.png)|:g34:|![](https://i.imgur.com/quIuQsX.png)|:g35:|![](https://i.imgur.com/qmjMiKR.png)|
 |:g36:|![](https://i.imgur.com/5oD4IiA.png)|:g37:|![](https://i.imgur.com/ucqHSr5.png)|:g38:|![](https://i.imgur.com/yeGCgvo.png)|
+|:g39:|![](https://i.imgur.com/kYxXrwe.png)|:g40:|![](https://i.imgur.com/DlsBeRZ.png)|||
 :::
 
 ## Saber
@@ -195,7 +196,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:ea7a:|![](https://i.imgur.com/9btD24P.png)|:ea7b:|![](https://i.imgur.com/GkyRL2u.png)|:ea7c:|![](https://i.imgur.com/7YxaZBP.png)|
 |:ea8a:|![](https://i.imgur.com/91Ub8SO.png)|:ea8b:|![](https://i.imgur.com/DQOVCII.png)|:ea8c:|![](https://i.imgur.com/eb6R3GL.png)|
 |:ea9a:|![](https://i.imgur.com/cpN3YAg.png)|:ea9b:|![](https://i.imgur.com/LkeYLU2.png)|:ea10:|![](https://i.imgur.com/wf56u1o.png)|
-|:ea11:|![](https://i.imgur.com/6Yz8HAj.png)|:ea12:|![](https://i.imgur.com/MQydCG0.png)|||
+|:ea11:|![](https://i.imgur.com/6Yz8HAj.png)|:ea12:|![](https://i.imgur.com/MQydCG0.png)|:ea13:|![](https://i.imgur.com/ICFdP6a.png)|
 
 ## Mooncancer
 
@@ -212,7 +213,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:eg4:|![](https://i.imgur.com/LdAAyKm.png)|:eg5:|![](https://i.imgur.com/JnTtf08.png)|:eg6:|![](https://i.imgur.com/RxfGCgB.png)|
 |:eg7:|![](https://i.imgur.com/iFJ3gYk.png)|:eg8:|![](https://i.imgur.com/mtaGyX6.png)|:eg9:|![](https://i.imgur.com/YAykwrj.png)|
 |:eg10:|![](https://i.imgur.com/VAJBPHl.png)|:eg11:|![](https://i.imgur.com/b12c4gV.png)|:eg12:|![](https://i.imgur.com/rvOiAVT.png)|
-|:eg13:|![](https://i.imgur.com/Yiy63qB.png)|||||
+|:eg13:|![](https://i.imgur.com/Yiy63qB.png)|:eg14:|![](https://i.imgur.com/ukKRZWr.png)|:eg15:|![](https://i.imgur.com/drSybp9.png)|
 
 ## Foreigner
 
@@ -241,13 +242,6 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 :::
 
 ## People
-
-### Yorokobe / Overarching Characters
-
-| Code | Flair | Code | Flair | Code | Flair
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|:p8:|![](https://i.imgur.com/PCYt9Uo.png)|:p40:|![](https://i.imgur.com/d0b1gmL.png)|:p15:|![](https://i.imgur.com/N0B9MFm.png)|
-|:p16:|![](https://i.imgur.com/t9u04Ub.png)|:p24:|![](https://i.imgur.com/dYjPsfY.png)|:p55:|![](https://i.imgur.com/5dFSGo7.png)|
 
 
 ### Singularity / Lostbelt
@@ -328,3 +322,10 @@ pls give beatrice or julian ce so tanaka isnt alone ;-;
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |:p63:|![](https://i.imgur.com/Ao1CpII.png)|:p68:|![](https://i.imgur.com/EwZMWD3.png)|:p69:|![](https://i.imgur.com/f7LGLH4.png)|
 |:p70:|![](https://i.imgur.com/8BZEMqX.png)||||
+
+### Overarching Characters
+
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:p15:|![](https://i.imgur.com/N0B9MFm.png)|:p16:|![](https://i.imgur.com/t9u04Ub.png)|:p24:|![](https://i.imgur.com/dYjPsfY.png)|
+|:p55:|![](https://i.imgur.com/5dFSGo7.png)|||||
