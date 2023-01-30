@@ -7,7 +7,7 @@ The following translation is done by [Smoof](https://www.reddit.com/user/Smoof10
 ## Prologue
 
 
-https://reddit.com/link/zuy364/video/y6ybgpq1o18a1/player
+![](https://reddit.com/link/zuy364/video/y6ybgpq1o18a1/player)
 
 ![](https://i.redd.it/o3pnmu7po18a1.png)
 
