@@ -154,11 +154,11 @@ Be warned however that they are only visible in Old Reddit since they use CSS, s
 
 | Command | Face | Command | Face |
 |:--------:|:--------:|:--------:|:--------:|
-|`[](#KEHAHA)`|![](https://i.imgur.com/AVd9XK7.png)|`[](#DubiousCreature)`|![](https://i.imgur.com/bjPqS3F.png)|
+|`[](#KEHAHA)`|![](https://i.imgur.com/AVd9XK7.png)|`[](#JalterWhatever)`|![](https://i.imgur.com/WyEgrbi.png)|
 |`[](#JalterDisgust)`|![](https://i.imgur.com/wo5UWvt.png)|`[](#JalterSmirk)`|![](https://i.imgur.com/aIqAxZY.png)|
-|`[](#Snek)`|![](https://i.imgur.com/bl2zTpX.png)|`[](#IshtarWink)`|![](https://i.imgur.com/inCbcJU.png)|
-|`[](#SalieriDisgust)`|![](https://i.imgur.com/gaQ6SfV.png)|`[](#RanmaruChuuni)`|![](https://i.imgur.com/I9FjrJT.png)|
-|`[](#EriceSmug)`|![](https://i.imgur.com/9sgO0vi.png)|||
+|`[](#DubiousCreature)`|![](https://i.imgur.com/bjPqS3F.png)|`[](#Snek)`|![](https://i.imgur.com/bl2zTpX.png)|
+|`[](#IshtarWink)`|![](https://i.imgur.com/inCbcJU.png)|`[](#SalieriDisgust)`|![](https://i.imgur.com/gaQ6SfV.png)|
+|`[](#RanmaruChuuni)`|![](https://i.imgur.com/I9FjrJT.png)|`[](#EriceSmug)`|![](https://i.imgur.com/9sgO0vi.png)|
 
 ### Mooncancer
 
@@ -172,9 +172,9 @@ Be warned however that they are only visible in Old Reddit since they use CSS, s
 
 | Command | Face | Command | Face |
 |:--------:|:--------:|:--------:|:--------:|
-|`[](#MeltFlustered)`|![](https://i.imgur.com/Wt4ySBe.png)|`[](#LipPout)`|![](https://i.imgur.com/NGG9Pqp.png)|
-|`[](#KiaraJudging)`|![](https://i.imgur.com/8pNCVml.png)|`[](#GAO)`|![](https://i.imgur.com/3GM1hsA.png)|
-|`[](#KPBadGirl)`|![](https://i.imgur.com/PGio0Ha.png)|`[](#SitonaiSmug)`|![](https://i.imgur.com/M32Bswf.png)|
+|`[](#MeltFlustered)`|![](https://i.imgur.com/Wt4ySBe.png)|`[](#LipCryBaby)`|![](https://i.imgur.com/aQAoQ4a.png)|
+|`[](#KiaraJudging)`|![](https://i.imgur.com/8pNCVml.png)|`[](#KPBadGirl)`|![](https://i.imgur.com/PGio0Ha.png)|
+|`[](#KPPout)`|![](https://i.imgur.com/DLSJxrD.png)|`[](#SitonaiSmug)`|![](https://i.imgur.com/M32Bswf.png)|
 |`[](#DoumanEvil)`|![](https://i.imgur.com/lndiyhR.png)|`[](#BazettWorry)`|![](https://i.imgur.com/k0cvp0g.png)|
 |`[](#XuFuNom)`|![](https://i.imgur.com/5qFyD63.png)|`[](#XuFuGetUsedToIt)`|![](https://i.imgur.com/tt23F1N.png)|
 |`[](#Yorokobe)`|![](https://i.imgur.com/JJqVPKb.png)|`[](#TheCoolerYorokobe)`|![](https://i.imgur.com/Gr9E8Gx.png)|
@@ -190,9 +190,9 @@ Be warned however that they are only visible in Old Reddit since they use CSS, s
 
 ### Pretender
 
-| Command | Face |
-|:--------:|:--------:|
-|`[](#OberonWinku)`|![](https://i.imgur.com/99EAqbw.png)|
+| Command | Face | Command | Face |
+|:--------:|:--------:|:--------:|:--------:|
+|`[](#OberonWinku)`|![](https://i.imgur.com/99EAqbw.png)|`[](#TlalocHeh)`|![](https://i.imgur.com/13N5cYY.png)|
 
 ### NPC Jail
 

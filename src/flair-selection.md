@@ -155,7 +155,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:h36a:|![](https://i.imgur.com/gpcpzpt.png)|:h36b:|![](https://i.imgur.com/nzmXbdz.png)|:h36c:|![](https://i.imgur.com/szpbVlx.png)|
 |:h37a:|![](https://i.imgur.com/lnckIki.png)|:h37b:|![](https://i.imgur.com/8uqxlDn.png)|:h38a:|![](https://i.imgur.com/JtvLKS1.png)|
 |:h38b:|![](https://i.imgur.com/oRGuXrz.png)|:h39a:|![](https://i.imgur.com/7qOkHkV.png)|:h39b:|![](https://i.imgur.com/l5bJy8I.png)|
-|:h40:|![](https://i.imgur.com/QvmKT4n.png)|||
+|:h40:|![](https://i.imgur.com/QvmKT4n.png)|:h41:|![](https://i.imgur.com/eUPie3Q.png)|||
 
 ## Berserker
 
@@ -230,7 +230,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 | Code | Flair | Code | Flair | Code | Flair
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |:ep1a:|![](https://i.imgur.com/bI6ubEc.png)|:ep2:|![](https://i.imgur.com/AHsDsc4.png)|:ep3:|![](https://i.imgur.com/upE8T4o.png)|
-|:ep4:|![](https://i.imgur.com/qxGr8Wg.png)|||||
+|:ep4:|![](https://i.imgur.com/qxGr8Wg.png)|:ep5:|![](https://i.imgur.com/ZQ0B68d.png)|||
 
 ## Beast
 

@@ -6,9 +6,6 @@ The following translation is done by [Smoof](https://www.reddit.com/user/Smoof10
 
 ## Prologue
 
-
-![](https://reddit.com/link/zuy364/video/y6ybgpq1o18a1/player)
-
 ![](https://i.redd.it/o3pnmu7po18a1.png)
 
 **Kadoc:**
@@ -586,11 +583,7 @@ Goredolf says that we’re in 2017, but asks why we’re seeing a supercontinent
 
 Mashu deploys “Mold Camelot” and repels it like a tennis ball while U-Olga Marie complements her by telling her that she’s a tennis Heroic Spirit, but Mashu rejects that. With enough time bought, the team is now ready to deploy the holy sword essence incorporated into the Storm Border.
 
-https://reddit.com/link/zv8iu4/video/b78y6450f48a1/player
-
 Professor Nemo states that while the Black Barrel measures the lifespan of a target and converts that into weaponized energy, the holy sword essence measures the threat to humanity but instead of weaponized energy, it’s defensive and does the same thing as the Black Barrel. Now that’s left is to fire it. Captain Nemo fires the Hume Barrel.
-
-https://reddit.com/link/zv8iu4/video/3rj9p5j0f48a1/player
 
 Nemo Marine announces that U-Olga Marie seems to have absorbed it and somehow powered up. This leaves everyone panicked and Goredolf tells the team that even she’s shocked by how she managed to survive. Goredolf assumes that she’ll pull out another gravitational field. Da Vinci and Nemo scramble to produce a second shot. But as Da Vinci is suggesting to switch from a photon reaction shot to an armor piercing shot, Nemo Marine announces something.
 
@@ -1010,3 +1003,4 @@ U-Olga Marie made “this vessel” in order to travel spacetime. She asks for N
 :::tip TL Note
 [1]: The Man refers to Blue in kanji " 青 " instead of " ブルー " if you're getting any ideas.
 :::
+
