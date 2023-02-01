@@ -162,6 +162,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/YIOz88v.png) | Sakamoto Ryouma | | | 
 | ![](https://i.imgur.com/NayjxJ8.png) | Mary Anning | | | 
 | ![](https://i.imgur.com/BGu72A6.png) | Don Quixote | | | 
+| ![](https://i.imgur.com/aSf9yvn.png) | Britomart | | |
 
 ## Rider
 
@@ -304,6 +305,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/XjZPmFs.png) | Koyanskaya of Light | | | 
 | ![](https://i.imgur.com/oRGuXrz.png) | Valkyrie | | | 
 | ![](https://i.imgur.com/U4ZAPET.png) | Huyan Zhuo | | |
+| ![](https://i.imgur.com/eUPie3Q.png) | Tezcatlipoca | | |
 
 ## Berserker
 
@@ -384,6 +386,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/lqzxteY.png) | Kama | | | 
 | ![](https://i.imgur.com/lzDefjQ.png) | Mysterious Ranmaru X | | | 
 | ![](https://i.imgur.com/TV88ClZ.png) | Utsumi Erice | | | 
+| ![](https://i.imgur.com/ICFdP6a.png) | Nitocris Alter | | |
 
 ## Mooncancer
 
@@ -412,6 +415,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/voQx2c8.png) | Taisui Xingjun | | | 
 | ![](https://i.imgur.com/zAqoWux.png) | Super Bunyan | | | 
 | ![](https://i.imgur.com/brt8CZz.png) | Xu Fu | | | 
+| ![](https://i.imgur.com/ukKRZWr.png) | Grigori Rasputin | | |
  
 ## Foreigner
 
@@ -436,6 +440,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/AHsDsc4.png) | Hephaestion | | | 
 | ![](https://i.imgur.com/upE8T4o.png) | Lady Avalon | | | 
 | ![](https://i.imgur.com/qxGr8Wg.png) | Nine-Tattoo Dragon Eliza | | |
+| ![](https://i.imgur.com/ZQ0B68d.png) | Tlaloc | | |
 
 ## Beast
 
