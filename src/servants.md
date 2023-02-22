@@ -369,6 +369,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/lmM1BsG.png) | James Moriarty | | | 
 | ![](https://i.imgur.com/IxSJJzr.png) | Scáthach-Skaði | | | 
 | ![](https://i.imgur.com/SulnEXi.png) | Iyo | | | 
+| ![](https://i.imgur.com/D1TQYnY.png) | Poppess Johanna | | |
 
 ## Avenger
 
@@ -431,6 +432,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/HovL4Mb.png) | Mysterious Idol X (Alter) | | | 
 | ![](https://i.imgur.com/gysJGEW.png) | Jacques de Molay | | | 
 | ![](https://i.imgur.com/jplaxO8.png) | Koyanskaya of Darkness | | | 
+| ![](https://i.imgur.com/P6CMq9Z.png) | Kukulkan | | |
 
 ## Pretender
 
@@ -440,7 +442,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/AHsDsc4.png) | Hephaestion | | | 
 | ![](https://i.imgur.com/upE8T4o.png) | Lady Avalon | | | 
 | ![](https://i.imgur.com/qxGr8Wg.png) | Nine-Tattoo Dragon Eliza | | |
-| ![](https://i.imgur.com/ZQ0B68d.png) | Tlaloc | | |
+| ![](https://i.imgur.com/cxBmVNa.png) | Tlaloc | | |
 
 ## Beast
 

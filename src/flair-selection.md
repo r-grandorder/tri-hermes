@@ -184,7 +184,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:er4:|![](https://i.imgur.com/SzLvmnM.png)|:er5:|![](https://i.imgur.com/0UKQ6rC.png)|:er6:|![](https://i.imgur.com/AEMCkOW.png)|
 |:er7:|![](https://i.imgur.com/BRhMjCf.png)|:er8:|![](https://i.imgur.com/zBEJJQq.png)|:er9:|![](https://i.imgur.com/pt3JXLz.png)|
 |:er10:|![](https://i.imgur.com/bIc57Zt.png)|:er11:|![](https://i.imgur.com/pSOIcxW.png)|:er12:|![](https://i.imgur.com/4FlAcOr.png)|
-|:er13:|![](https://i.imgur.com/RNz1EBx.png)|:er14:|![](https://i.imgur.com/T4ejww5.png)|||
+|:er13:|![](https://i.imgur.com/RNz1EBx.png)|:er14:|![](https://i.imgur.com/T4ejww5.png)|:er15:|![](https://i.imgur.com/D1TQYnY.png)|
 
 ## Avenger
 
@@ -223,14 +223,14 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:ef3b:|![](https://i.imgur.com/kI4AILt.png)|:ef4:|![](https://i.imgur.com/xazp0e6.png)|:ef5:|![](https://i.imgur.com/ugOq7QW.png)|
 |:ef6:|![](https://i.imgur.com/7Guzpqe.png)|:ef7:|![](https://i.imgur.com/SP1MuWB.png)|:ef8:|![](https://i.imgur.com/4adHo5r.png)|
 |:ef9:|![](https://i.imgur.com/gysJGEW.png)|:ef10a:|![](https://i.imgur.com/WUUyX8g.png)|:ef10b:|![](https://i.imgur.com/dMQpECl.png)|
-|:ef10c:|![](https://i.imgur.com/jplaxO8.png)|||||
+|:ef10c:|![](https://i.imgur.com/jplaxO8.png)|:ef11:|![](https://i.imgur.com/P6CMq9Z.png)|||
 
 ## Pretender
 
 | Code | Flair | Code | Flair | Code | Flair
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |:ep1a:|![](https://i.imgur.com/bI6ubEc.png)|:ep2:|![](https://i.imgur.com/AHsDsc4.png)|:ep3:|![](https://i.imgur.com/upE8T4o.png)|
-|:ep4:|![](https://i.imgur.com/qxGr8Wg.png)|:ep5:|![](https://i.imgur.com/ZQ0B68d.png)|||
+|:ep4:|![](https://i.imgur.com/qxGr8Wg.png)|:ep5a:|![](https://i.imgur.com/cxBmVNa.png)|:ep5b:|![](https://i.imgur.com/bpPg5OA.png)|
 
 ## Beast
 

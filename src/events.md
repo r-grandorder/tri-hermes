@@ -108,7 +108,7 @@ Events under years are using NA script. The format is JP/NA for year. The URL us
 
 [![](https://i.imgur.com/TV5Db2a.png)](Events/2021/enmatei.md)
  
-[![](https://i.imgur.com/P7CtPX5.png)](Events/2021/valentines2020.md)
+[![](https://i.imgur.com/P7CtPX5.png)](Events/2021/valentines2021.md)
  
 [![](https://i.imgur.com/lqNmbkS.png)](Events/2021/spider.md)
  

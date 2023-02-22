@@ -10772,7 +10772,7 @@ In essence, we'll all be putting on a performance. Or, in the language of a midd
 ...Fou?
 
  
-## Section 19: "Chaldea Detective Stories -Final Act-"
+## Section 12: "Chaldea Detective Stories -Final Act-"
  
 **Mash:**
 ...
