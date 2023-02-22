@@ -1,4 +1,9 @@
-# 
+# Profile Template
+
+Below is a template you can copy into a new MD file. Once you're done filling it out for a respective servant, you can send the MD file directly to Lib on Discord at Lib#7770.
+
+```
+# ServantName
 
 ## Default
 
@@ -130,3 +135,4 @@
 | About the Holy Grail |  |  |
 | During an Event |  |  |
 | Birthday |  |  |
+```
