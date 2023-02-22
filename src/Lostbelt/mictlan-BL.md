@@ -2,7 +2,7 @@
 
 :::tip Note
 
-[The summary in its original source can be found on Beast Lair.](https://forums.nrvnqsr.com/showthread.php/9383-FGO-JP-Main-Chapter-Lostbelt-7-Nahui-Mictlan-The-One-Who-Rules-the-Planet
+[The summary in its original source can be found on Beast Lair.](https://forums.nrvnqsr.com/showthread.php/9383-FGO-JP-Main-Chapter-Lostbelt-7-Nahui-Mictlan-The-One-Who-Rules-the-Planet)
 
 Summary of Ch 1-10 is done by Comun.
 :::
