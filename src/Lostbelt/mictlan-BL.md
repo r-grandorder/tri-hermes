@@ -2128,14 +2128,11 @@ The deinos have existed for 66 million years, but have not developed at all duri
 
 We see Kukulkan in her spacesuit form, staring out over the city at night with eyes lit green.
 
-<p style="color:green;">
-
 > **Kukulkan:**
 > Indication of anomaly detected within deinos thought patterns. Evaluated as degeneration. However, unrelated to extinction.
 > Fantasy Tree in ninth layer, activity resumed. Due to regrowth of bark, decrease in leakage of cosmic rays.
 > Protection of Fantasy Tree assigned to highest priority. Forbidding all entrance into the ninth layer.
 
-</p>
 
 Her eyes return to normal.
 
