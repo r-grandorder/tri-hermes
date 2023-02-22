@@ -23,7 +23,7 @@ jobs:
 
       - name: Build VuePress site
         env:
-          NODE_OPTIONS: "--max_old_space_size=8192"
+          NODE_OPTIONS: "--max_old_space_size=24576"
         run: npm run build
 
       - name: Deploy to GitHub Pages

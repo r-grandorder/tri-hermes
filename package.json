@@ -10,7 +10,7 @@
   "repository": "https://github.com/r-grandorder/tri-hermes",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src --debug"
   },
   "license": "MIT",
   "devDependencies": {

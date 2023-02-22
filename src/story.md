@@ -72,8 +72,13 @@
 ![](https://static.atlasacademy.io/JP/Banner/questboard_cap317.png)
 
 * [Smoof's LB7 Translation Summary](Lostbelt/mictlan-smoof.md)
-* [Comun's LB7 Summary](Lostbelt/mictlan-comun.md)
-* [Rayshift LB7 Translation](Lostbelt/mictlan-rayshift.md)
+* [Beast Lair's LB7 Summary](Lostbelt/mictlan-BL.md)
+
+## Ordeal Call
+
+![](https://static.atlasacademy.io/JP/Banner/questboard_cap400.png)
+
+* [Ordeal Call: Prologue](Ordeal-Call/prologue-smoof.md)
 
 ## Anime/Movie/OVA
 
