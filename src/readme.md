@@ -1,5 +1,6 @@
 ---
 home: true
+bgImage: '/wallpaper-test.jpg'
 footer: All scripts and images by TYPE-MOON ©
 ---
 

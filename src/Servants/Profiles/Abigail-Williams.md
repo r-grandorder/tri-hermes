@@ -1,7 +1,7 @@
 # Abigail Williams
 
 
-::: tip
+::: tip Credit
 [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/djwq2r/abigail_williams_servant_profile_from_fgo/)
 :::
 
@@ -296,7 +296,11 @@ Tentacles, butterflies and stuffed toys.
 
 
 
-“Honey-coloured pancakes alliance!”[1]
+“Honey-coloured pancakes alliance!”
+
+::: tip TL Note
+Honey-coloured as in the pancakes are drizzled in honey syrup, giving off that honey colour.
+:::
 
 
 
@@ -308,18 +312,11 @@ I tried to design Abigail in a cutely grotesque style for her three stages where
 
 
 
-## TL Notes:
-
-
-
-[1] – Honey-coloured as in the pancakes are drizzled in honey syrup, giving off that honey colour.
-
-
 
 ## Material Images
 
 
-
+::: details Click to view
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-132.jpg?raw=true)
 
 
@@ -373,7 +370,7 @@ I tried to design Abigail in a cutely grotesque style for her three stages where
 
 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VI/i-145.jpg?raw=true)
-
+:::
 
 
 ## Dialogue
