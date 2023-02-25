@@ -73,6 +73,7 @@ Achilles is receiving the affection of his mother, the Goddess Thetis.
 ## Noble Phantasm(s)
 
 # Troias Tragoidia: The Immortal Chariot of Swift Winds and Surging Waves
+
 - Rank: A
 - Classification: Anti-Army Noble Phantasm
 - Range: 2~60
@@ -81,6 +82,7 @@ Achilles is receiving the affection of his mother, the Goddess Thetis.
 Troias Tragoidia (Troy’s Tragedy). A three-horse chariot. Two of the horses are immortal and divine horses that were bestowed to Achilles by the Sea God Poseidon, while the other one horse is a fine horse that was plundered from a city. The chariot tramples down the battleground by means of extreme speed. It can cause increased damage proportional to the rise of the chariot’s velocity. At its maximum speed, it is just like a gigantic lawnmower dashing through the fields.
 
 # Dromos Kometes: Comet Running Style
+
 - Rank: A+
 - Classification: Anti-Personnel (Self) Noble Phantasm
 - Range: 0
@@ -89,6 +91,7 @@ Troias Tragoidia (Troy’s Tragedy). A three-horse chariot. Two of the horses ar
 Dromos Kometes (Running Comet). A Noble Phantasm of the Constantly Invoked-Type that Achilles activates by getting off from “The Immortal Chariot of Swift Winds and Surging Waves” to stand on his feet. It is something that embodies the legend that he is the swiftest hero among all heroes of all eras. He can run through a vast battlefield in a single breath, and even if there are obstacles on the field, they will not reduce his speed. He must expose his weak point – his Achilles tendon – while running, but there are few Heroic Spirits who can catch hold of him while he is running at this speed.
 
 # Andreios Amarantos: The Unfading Flower of the Brave
+
 - Rank: B
 - Classification: Anti-Personnel (Self) Noble Phantasm
 - Range: 0
@@ -97,6 +100,7 @@ Dromos Kometes (Running Comet). A Noble Phantasm of the Constantly Invoked-Type 
 Andreios Amarantos (The Brave and Everlasting One). A blessing of immortality given to Achilles by his mother – the Goddess Thetis – that covers his entire body except one of his heels. It also nullifies any kind of attack done to him, but this ability can be negated by those who possess the personal Skill “Divinity”.
 
 # Diatrekhon Aster Lonkhe: The Spearhead of the Star Dashing Through the Skies
+
 - Rank: B+
 - Classification: Anti-Personnel Noble Phantasm
 - Range: 2~10
@@ -107,6 +111,7 @@ Diatrekhon Aster Lonkhe (Shooting Star Spear). A Noble Phantasm that becomes ava
 Because Achilles was not summoned as a Lancer, the spear has lost some of its abilities, such as a curse of incurability on the wounds it inflicts.
 
 # Akhilleus Kosmos: The Miniature World Enclosed by the Azure Sky
+
 - Rank: A+
 - Classification: Barrier Noble Phantasm
 - Range: 0
@@ -225,15 +230,39 @@ Achilles feels some responsibility as one would expect – the kind of responsib
 
 Hey, please notice the exposed triangular area just under the nape of Achilles’ neck from his initial~2nd Ascension Stages! And then there’s the super-problematic issue about his golden armour. I started from the place of ‘How can he not overlap with the Servants who have characters that already stand out?’
 
-“Trans–form! Are you waiting for the issue of a movable Chogokin[1] toy? Either way, my leg guards are somewhat loose as they’re a hindrance to me even when I’m sprinting, but it seems that it’s not a problem if they aren’t attached in the first place, yeah?” That’s what one who’s full of themselves because of their youth would say. But that’s fine. (Konoe Ototsugu)
+“Trans–form! Are you waiting for the issue of a movable Chogokin toy? Either way, my leg guards are somewhat loose as they’re a hindrance to me even when I’m sprinting, but it seems that it’s not a problem if they aren’t attached in the first place, yeah?” That’s what one who’s full of themselves because of their youth would say. But that’s fine. (Konoe Ototsugu)
 
-## TL Notes
-
-[1] – Chogokin is Japanese for “Superalloy”, which is a fictional metal in the Mazinger Z series, and it later became the name for a series of die-cast metal robots and character toys. What’s being said here is two-fold in its meaning: Achilles wanted to remove his leg guards for practical reasons when he’s actually running, as well as for his Chogokin toy version in order to make it more mobile.
+::: tip TL Note
+Chogokin is Japanese for “Superalloy”, which is a fictional metal in the Mazinger Z series, and it later became the name for a series of die-cast metal robots and character toys. What’s being said here is two-fold in its meaning: Achilles wanted to remove his leg guards for practical reasons when he’s actually running, as well as for his Chogokin toy version in order to make it more mobile.
+:::
 
 ## Material Images
 
-(Lib will add after publish)
+::: details Click to view
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-138.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-139.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-140.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-141.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-142.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-143.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-144.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-145.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-146.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-147.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-148.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-149.jpg?raw=true)
+:::
 
 ## Dialogue
 
