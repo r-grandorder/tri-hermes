@@ -3,10 +3,11 @@
 
 ## About This Wiki
 
-Hello! This wiki is maintained by Lib. For now, we will be hosting the FGO script thanks to files provided by Atlas Academy and hosting translated chapters thanks to the many great translators of our community!
+TRI-HERMES aims to be a resource that values source material above all else. In a community where fanon is embedded in information spaces, TRI-HERMES will be completely transparent and display strictly source material unless said otherwise.
 
-We may gather more information here in the future, so stay tuned! This wiki will be lore-oriented. 
+TYPE-MOON is a Japanese company with quite a lot of restricted content if one wants to learn all of the lore. This website will aim to host all 20+ years worth of content.
 
+Furthermore, the community's great attempts to translate TYPE-MOON content are scattered throughout the internet, simply having it all in one place will be a great convenience.
 
 ![LORE](https://i.imgur.com/jA86J1G.png)
 

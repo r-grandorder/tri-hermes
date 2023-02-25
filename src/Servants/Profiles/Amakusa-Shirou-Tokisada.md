@@ -79,6 +79,7 @@ As it requires such massive amounts of energy, it normally cannot be used as a N
 # Right Arm, Predation of Wickedness — Right Hand, Evil Eater
 
 # Left Arm, Foundation of Heaven’s Blessings — Left Hand, Xanadu Matrix
+
 - Rank: D
 - Type: Anti-Unit
 - Range: 1
@@ -148,8 +149,6 @@ With the Human Order Incineration currently imminent, as of now he kept that wis
 
 ---
 
-[1] Hmmm, I wonder. Are the birds doves?
-
 ## Related Characters
 
 **Jeanne d’Arc**
@@ -170,6 +169,7 @@ There’s this matter where he happens to accidentally resembles someone. Maybe 
 
 ## Material Images
 
+::: details Click to view
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-III/i-176.jpg?raw=true)
 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-III/i-177.jpg?raw=true)
@@ -189,7 +189,7 @@ There’s this matter where he happens to accidentally resembles someone. Maybe 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-III/i-184.jpg?raw=true)
 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-III/i-185.jpg?raw=true)
-
+:::
 
 
 ## Dialogue

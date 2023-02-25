@@ -45,6 +45,7 @@ Nullifies Magecraft spells that were done in one step (a Single Action). A Magic
 **Independent Action: [A]**
 
 The ability to remain independent for a while even when rejecting the Magical Energy supply from one’s Master.
+
 As Anne & Mary have Rank A in this, it is possible for them to maintain materialization in this world for a week even if they are without a Master.
 
 ## Personal Skills
@@ -52,12 +53,15 @@ As Anne & Mary have Rank A in this, it is possible for them to maintain material
 **Beach Flower: [A+]**
 
 How many looks from the opposite sex one can gather at the beach.
+
 Since it is at A+, one has reached the domain of a celebrity.
 
 **Treasure Hunt (Sea): [C]**
 
 “Speaking of the sea, let’s search for treasure!”
+
 Skills equipped with the Sea Attribute are allowed only for those who live at the sea.
+
 There is a medium probability of discovering treasures that were sunk to the bottom of the ocean.
 
 **A Pirate’s Honour: [C+]**
@@ -68,6 +72,7 @@ Because Anne & Mary were not a captain of a ship, the rank drops a little. Howev
 ## Noble Phantasm(s)
 
 # Caribbean Free Bird – Act 2: Wings Abreast as if Trees with Entwined Branches
+
 - Rank: C++
 - Classification: Anti-Personnel Noble Phantasm
 - Range: 1~3
@@ -81,15 +86,15 @@ A combination Noble Phantasm in which Anne, who has equipped a musket, covers fo
 
 **Anne**
 
-First Person Pronoun: watakushi
-Second Person Pronoun: anata
-Third Person Pronouns: kare, kanojo
+- First Person Pronoun: watakushi
+- Second Person Pronoun: anata
+- Third Person Pronouns: kare, kanojo
 
 **Mary**
 
-First Person Pronoun: boku
-Second Person Pronoun: kimi
-Third Person Pronouns: kare, kanojo
+- First Person Pronoun: boku
+- Second Person Pronoun: kimi
+- Third Person Pronouns: kare, kanojo
 
 ## Personality
 
@@ -134,6 +139,7 @@ A musket.
 **Blackbeard**
 
 “Shouldn’t we gouge out his eyes for the duration of the Summer Period?”
+
 “Acknowledged.”
 
 
@@ -155,7 +161,31 @@ Why is that Anne’s established body weight? Because that is how it is posed. O
 
 ## Material Images
 
-(Lib will add after publish)
+::: details Click to view
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-IV/i-194.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-IV/i-195.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-IV/i-196.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-IV/i-197.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-IV/i-198.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-IV/i-199.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-IV/i-200.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-IV/i-201.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-IV/i-202.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-IV/i-203.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-IV/i-204.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-IV/i-205.jpg?raw=true)
+:::
 
 ## Dialogue
 

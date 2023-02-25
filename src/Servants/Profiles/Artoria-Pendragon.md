@@ -274,7 +274,7 @@ With Artoria’s evolutionary design, I thought about various things like plainc
 ## Material Images
 
 
-
+::: details Click to view
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-020.jpg?raw=true)
 
 
@@ -296,3 +296,4 @@ With Artoria’s evolutionary design, I thought about various things like plainc
 
 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-025.jpg?raw=true) 
+:::

@@ -11,3 +11,7 @@ If you'd like to submit articles, please DM Lib#7770 on Discord
 ## Theories
 
 * [FGO - Grand Unified Theory: CHALDEA](https://forums.nrvnqsr.com/showthread.php/9380-Grand-Unified-Theory-CHALDEA) by Petrikow
+
+## Miscallaneous 
+
+* [Servant Places of Birth](map.md)
