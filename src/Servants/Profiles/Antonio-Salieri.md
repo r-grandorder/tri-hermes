@@ -88,6 +88,7 @@ If the targets do not possess magic means of defense, it is even possible for Sa
 ## Noble Phantasm(s)
 
 # Dio Santissimo Misericordia De Mi - To the Great One Up in the Heavens, Please Take Pity on Me
+
 - Rank: C
 - Type: Anti-Army
 - Range: 1~20
@@ -153,7 +154,7 @@ A pitiful man. A furious man. The man who must kill he who was loved by god.
 
 A single innocent monster.
 
-----------------------------------------
+---
 
 Due to his origin, Salieri is a violent and aggressive Servant, and must be treated with care.
 

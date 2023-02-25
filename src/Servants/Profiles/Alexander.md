@@ -186,6 +186,7 @@ I had to look twice the first moment I got the designation. I was worried about 
 
 ## Material Images
 
+::: details Click to view
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-252.jpg?raw=true)
 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-253.jpg?raw=true)
@@ -201,6 +202,7 @@ I had to look twice the first moment I got the designation. I was worried about 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-258.jpg?raw=true)
 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-259.jpg?raw=true)
+:::
 
 ## Dialogue
 

@@ -123,9 +123,9 @@ Akhilleus Kosmos (Achilles’ World). A defensive Barrier Noble Phantasm that is
 
 ## Pronouns
 
-First Person Pronoun: ore
-Second Person Pronouns: temee / anta / kisama
-Third Person Pronouns: kare, etc.
+- First Person Pronoun: ore
+- Second Person Pronouns: temee / anta / kisama
+- Third Person Pronouns: kare, etc.
 
 ## Personality
 

@@ -79,6 +79,12 @@
 
 * [Ordeal Call: Prologue](Ordeal-Call/prologue-smoof.md)
 
+## FGO Arcade
+
+* [Lost Jerusalem](Arcade/jerusalem.md)
+* Babylon - WIP
+* [Lilim Harlot](Arcade/lilim-harlot.md)
+
 ## Anime/Movie/OVA
 
 * [First Order](Anime/First%20Order.md)

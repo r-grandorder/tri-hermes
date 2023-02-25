@@ -197,6 +197,7 @@ Ms. Altera somewhat regrets that she turned into this difficult design where it 
 
 ## Material Images
 
+::: details Click to view
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-070.jpg?raw=true)
 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-071.jpg?raw=true)
@@ -216,6 +217,7 @@ Ms. Altera somewhat regrets that she turned into this difficult design where it 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-078.jpg?raw=true)
 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-079.jpg?raw=true)
+:::
 
 ## Dialogue
 

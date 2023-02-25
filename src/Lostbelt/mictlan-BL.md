@@ -14,8 +14,9 @@ The protagonist trio starts scanning Subject E's room, but it almost immediately
 After we ski away from the space hallway, everyone is regrouped in Chaldea, having already put their uniforms out for cleaning. Goredolf praises the trio's accomplishments and comments that he's confident Holmes will return to them soon enough. They're scheduled to rest for 48 hours to enter the South American Lostbelt in top condition.
 
 Sion also drops by and commends us for performing according to calculation. Kadoc quickly caught on that this meant Sion knew that Holmes was an apostle all along. Sion responds by giving her two reasons why she was so sure of it.
-1) In Camelot, Holmes synchronized with Trihermes to gain information. Trihermes is the brain and heart of the Atlas Institute. He might have been Sherlock Holmes, but that alone wouldn't make it for him to survive the information overload that comes with this kind of access. He would've had to have been a Divine Spirit or a Servant altered to such capacity.
-2) His theories on the Alien God weren't making any progress. He wasn't stuck because he didn't know, he was stuck because knowing was a bad thing. Deceiving himself was the best thing he could have done to keep Chaldea away from getting checkmated. By forgetting he was an apostle, he became an ally of Chaldea.
+
+1. In Camelot, Holmes synchronized with Trihermes to gain information. Trihermes is the brain and heart of the Atlas Institute. He might have been Sherlock Holmes, but that alone wouldn't make it for him to survive the information overload that comes with this kind of access. He would've had to have been a Divine Spirit or a Servant altered to such capacity.
+2. His theories on the Alien God weren't making any progress. He wasn't stuck because he didn't know, he was stuck because knowing was a bad thing. Deceiving himself was the best thing he could have done to keep Chaldea away from getting checkmated. By forgetting he was an apostle, he became an ally of Chaldea.
 
 The only bit Sion is still unclear on is why he consented to become an apostle in the first place. The conclusion here is that the Great Detective Holmes couldn't be trusted, but the ally of Chaldea Holmes could. Kadoc asks about his purpose as an apostle and Sion answers that judging by his actions, it could only have been cooperating with Chaldea. Apostle Holmes and post-amnesia Holmes logically should do the same thing, ergo the Alien God assigned him to the role of helping Chaldea clear the Lostbelts. But then she assigned Moriarty to purge Holmes, so his exact purpose must have been "Help them until point A, then past point B either stop helping or ruin Chaldea from the inside". And so Holmes jumped off the waterfall as his way of choosing Chaldea over the Alien God.
 
@@ -35,17 +36,20 @@ Kadoc and Goredolf have different reactions to ORT's name. Kadoc is from a famil
 
 **Kadoc:**
 
+
 In terms you'd understand, he's a horror story in the world of magecraft. There was this alien organism that flew down to South America long before the Common Era. Everyone who approaches it are killed instantly. No mage has ever stepped into its territory and came back alive. Nonetheless, be it due to it being considered too dangerous to ignore or just pure academic curiosity, a Grand mage led the long-awaited expedition accompanied by 6 Brand fellowmen in the 16th century. The title of Grand is the peak of what a mage can reach. A Grand is a monster capable of taking down a whole nation on their own. Meanwhile, the Brand mages one rank below them are also precious geniuses with abilities comparable to a Grand. Seven of them together on the same quest is a major event never seen again before or after. There's actually a fair deal of commentary on the festive atmosphere in the exploration camp they made in the jungle. But... only one mage came back from the expedition. His last words were "The creature must still not be touched. No life on the planet is up to the task as of now. Wait for the next geologic period. We'll entrust our hope to the newly evolved life that will come after our extinction." Mid-speech, the man became a living crystal before everyone's eyes. The mage's name was Astea. One of the Clock Tower Lords of his time. After this incident, the person at the top position of the Mage's Association, the headmaster of the Clock Tower, announced that the monster would be named ORT. Since then, one specific region of South America became known as a hellhole humanity should never step foot in.
 
 ---
 
 **Goredolf quoting the headmaster of the Clock Tower:**
 
+
 Only the planet's screams will awaken ORT. It's hibernating all nice and cozy in South America's underground. So you keep your hands off it. The planet will lose its anthroposphere if that thing starts moving.
 
 ---
 
 **Mash:**
+
 
 I remembered. Chaldea's library had a page on ORT. ORT is the toughest and most inexplicable creature the world of magecraft currently knows. This giant spider-shaped alien is known for its hard, soft, hot, and cold skin; its energy production via internal nuclear fusion; and for converting every substance it touches into crystal. A threat to humanity. We can only hope that our technology will be able to analyze him somewhere past the year 3000.
 
@@ -75,9 +79,11 @@ Our plan is to enter the Lostbelt with a group of 4 Servants. Out of them, Nitoc
 
 **Habetrot:**
 
+
 Heya! I'm Habetrot! I'm basically a guardian fairy living in Mash's shield!
 
-**Nitocris:** 
+**Nitocris:**
+ 
 
 How courteous of you. I take it you are in god Bastet's service? Pleased to meet you.
 
@@ -100,6 +106,7 @@ As usual, Olga is completely unharmed, and she learns the Skills used against he
 
 **U-Olga Marie:**
 
+
 Agh- you just hit it back like a ball!? This is...tennis! Yes, tennis, I saw it in the records! So you were a Heroic Spirit of tennis!
 
 ---
@@ -121,6 +128,7 @@ In the foggy afterlife, a man (who in a later chapter will be revealed to be Tez
 
 **Man:**
 
+
 Not too shabby for a weapon. Is that thing yours? I like modern weapons. They're cumbersome, tasteless, and above all else, costly. I, for one, welcome 'em. After all, tools of war should evolve. Just as life does. 
 
 ---
@@ -130,6 +138,7 @@ But his positive impression of their weapons absolutely doesn't translate into a
 ---
 
 **Man:**
+
 
 There are no warriors on it. They won't make it here after death either. ...Hmm? Hold on a second, does that mean I've acknowledged you as a warrior? ...I can never tell what Blue's thinking. Oh well, I suppose it's just the usual fluke. 
 
@@ -155,6 +164,7 @@ Olga quickly overpower the jaguar people, claiming it was easy as fixing a typo 
 
 **U-Olga Marie:**
 
+
 Why would the animals of this planet evolve in such a way? There's no practical advantage to this.
 
 ---
@@ -166,6 +176,7 @@ The Marine finds potentially edible vegetables and calls the two to see them. He
 ---
 
 **U-Olga Marie:**
+
 
 Heh heh. It seems like you're starting to understand me now, kid! Yes, I did not come to Earth to exterminate all of its primitive life! I got much better things to do! I've heard screams on this planet, and so I have arrived to improve its management! A dialogue must come first, no matter how ferocious or barbarous the other party is.
 
@@ -186,6 +197,7 @@ The Chaldean confirms himself as someone going by Romani Archaman's name, and th
 
 **Romani Archaman:**
 
+
 One more thing... It's quite awkward that I have to say this, but... If mankind can excise all seven Lostbelts, then I will finally acknowledge you as my enemy ...though I expect that won't be the case. You're up against Daybit Sem Void. Defeating ORT is impossible for you lot.
 
 ---
@@ -202,19 +214,23 @@ Mash and Habetrot come back from the chores they were doing in Tepeu's house. Se
 
 ---
 
-**U-Olga Marie:** 
+**U-Olga Marie:**
+ 
 
 How can you have a conversation when your frequency is completely different?
 
-**Tepeu:** 
+**Tepeu:**
+ 
 
 That is the work of Maia...an alteration in cognition applied by this very world. Earlier, a new culture came to our world. This Crypter fellow. Maia analyzed his language and cognitive standards, then tuned itself so that mutual dialogue became possible. I suppose you could think of this as a universal translator cast on the entire world.
 
-**Marine:** 
+**Marine:**
+ 
 
 I see. Come to think of it, your vocal cords are completely different from ours, Tepeu. So who is this Maia? They sound pretty amazing...
 
-**Tepeu:** 
+**Tepeu:**
+ 
 
 Maia is not a person. It is more of a... life essence. Collective goodwill, as it's called in your world. The sentiment to make the world a better place to live. The source and guiding principle of everything that makes up this underground world, Mictlan. 
 
@@ -226,15 +242,18 @@ The word Ocelotl (plural Ocelomeh, Nahuatl grammar is weird) refers to the Aztec
 
 ---
 
-**Marine:** 
+**Marine:**
+ 
 
 What a savage bunch... But why are they doing this? Are you fighting over territory here in Mictlan?
 
-**Tepeu:** 
+**Tepeu:**
+ 
 
 It's not so much about territory as it is about resources. They're after revenue. They strip off our hides, process our bones, and distribute our hearts as treasure. Maia disapproves of such behavior, but they are a cunning bunch who can escape the eyes of its law. Systematic violence organized as a distributor of goods. That's what the Ocelomeh are.
 
-**Marine:** 
+**Marine:**
+ 
 
 That's just a mafia! Is the jungle really so scary!? 
 
@@ -325,6 +344,7 @@ Mash and Fujimaru then interrupt Olga's presidential duty of assigning names to 
 
 **U-Olga Marie:**
 
+
 Heh! This answer alone dropped humanity's foolishness score to 0! After hearing this, I'm obliged to help you save Earth. Count on me fighting by your side, friends!
 
 ---
@@ -374,6 +394,7 @@ Protea is tanking Black Barrel shots and all the attacks Olga can throw in her c
 
 **U-Olga Marie:**
 
+
 Then it's child's play! As a matter of fact, my luck is galactic-tier! Show me a 99% win rate raffle, and I'm certain to get the 1% loss! Hwahahaha!
 
 ---
@@ -410,6 +431,7 @@ Mash tosses the priest. Spirit surgery time.
 ---
 
 **Rasputin:**
+
 
 Agony. Suffering. On the name of the evil dragon signifying death, I look upon a wellspring of pus. The defilement of death and fevers from ague call upon us all. I will scoop out the mud that splashes into a flood.
 
@@ -448,11 +470,13 @@ We were jumped on really out of nowhere because our recon Marine didn't think to
 
 ---
 
-**Tepeu:** 
+**Tepeu:**
+ 
 
 Driving insects off with repulsive noise... Countermeasures utilizing instinct. Marvelous. So this is how the humanity of Pan-Human History fills the blanks in their world piece by piece.
 
-**U-Olga Marie:** 
+**U-Olga Marie:**
+ 
 
 Hmph. Filling in blanks that should stay untouched makes them a perfect illustration of how actions have consequences. Nuclear fission is the best example of this. For energy, they discharge substances hazardous to their kind. There's something off with humanity's technological development roadmap. No respectable sapient would engage in tests with fission without first establishing a means to dispose of hazardous material. And yet the humans of Pan-Human History always chase after the 'maximum benefit'. 
 
@@ -506,6 +530,7 @@ Tepeu's home is renewed, thanks mostly to the house-cleaning gods Marine and Kot
 ---
 
 **Tepeu:**
+
 
 By firearms, do you mean the tools that the Ocelomeh use? Conquerors from the outside world. The suppression and slaughter of local tribes with firearms. This is identical to Mictlan's current state. So the deeds of Crypter Daybit are a reenactment of Hernan Cortes.
 
@@ -566,6 +591,7 @@ Everyone is at the dinner table. Tepeu will make everyone's xoqqer balls overnig
 
 **U-Olga Marie:**
 
+
 Uttely trifling! And they call themselves Grand Servants? These are what mankind proudly recommended as their ultimate existences? What a horn and a half! Well... to be fair, they did damage the left half of my horns; that much I will admit. I did not come out of this unscathed. However! The result remains the same: flawless victory for me! This battle has made it clear that this Earth's mankind isn't worthy of being unified under me! I won't overlook their survivors any longer! Time to go confiscate that 'Storm Boarder' or whatever it was called! Muahahahahahaha!
 
 ---
@@ -595,6 +621,7 @@ Fujimaru is full of questions but Daybit doesn't have the time to humor them. He
 
 **Daybit:**
 
+
 I don't have a lot of time, but that deserves an answer. Kadoc is doing about as well as he could so far. Ophelia's death was a waste. Akuta's death was inevitable. Peperoncino died alone, bringing an ironic conclusion to his past. Beryl was the only winner in all of this. Kirschtaria's failure happened in the planning stages. Yeah, I know. I will have put an end to Chaldea on my own. I figured from the get-go that I'd have to. But those are just my own impressions. Maybe they helped, maybe not. Next time we meet, ask me a different question.
 
 ---
@@ -605,9 +632,11 @@ Fujimaru is back from their grocery trip with a bag much bigger than expected, b
 
 **Tepeu:**
 
+
 W-We're talking about a sense of fulfillment that comes with achieving the goal of the collective, an individual's feelings are not particularly important.
 
 **Tepeu:**
+
 
 (The reason Marine left the group...the reason he wanted to participate in the ceremony... Did he just want to play xoqqer? No, that can't be it. Marine is gifted with a high intellect. While his emotional fluctuations may be intense, he has always been capable of making the right call. He prioritizes the collective and has been taking the initiative in supporting it. So why did he leave the group, even though we have achieved our shared goal? I don't understand. I don't know why, but I'll follow Marine and... I don't understand the reasoning, but I do know that I have made the wrong call.)
 
@@ -620,6 +649,7 @@ Meanwhile, in the sacred arena, Vucub rules that the forfeit is to be accepted a
 ---
 
 **Dinosaur King:**
+
 
 Damn it, I couldn't see clearly because the veil was in the way. You guys aren't deinos, are you? That disguise is Pan-Human magecraft, eh? You accursed tricksters. Shed those disguises and die.
 
@@ -636,19 +666,23 @@ Wak Chan is the greatest deinos hero, so the damage we inflicted on him in our f
 
 ---
 
-**Priest Vucub:** 
+**Priest Vucub:**
+ 
 
 How can you, born with such great power, say something like that!? Even if the King himself allows it, I will never accept it! If you want to keep your status as a fighter, then you must obey me and kill the Ocelomeh!
 
-**Wak Chan:** 
+**Wak Chan:**
+ 
 
 Didn't you just hear me talking about resignation? Besides, I just found my soulmate.
 
-**U-Olga Marie:** 
+**U-Olga Marie:**
+ 
 
 Hm? What are you doing? Why are you pointing a flower at me? ...is that poisonous?
 
-**Wak Chan:** 
+**Wak Chan:**
+ 
 
 Nice to meet you, somewhat prickly lady! I knew you were the one the instant I was struck by your lighting! Your horns are freaking amazing! After this fight is over, wanna marry me? 
 
@@ -659,24 +693,29 @@ The boy asks to talk somewhere else, away from deinos ears. He wants to have a c
 
 ---
 
-**Dinosaur King:** 
+**Dinosaur King:**
+ 
 
 But why are you helping Pan-Human History? Is Chaldea blackmailing you?
 
-**U-Olga Marie:** 
+**U-Olga Marie:**
+ 
 
 Haah!? Rude! I have no weaknesses they could exploit! I came here to rule the Earth, but there's no point in that if the planet's wiped clean. So I simply decided to cooperate. That's all there is to it. I don't think they're the type to blackmail someone or take a hostage...
 
-**Dinosaur King:** 
+**Dinosaur King:**
+ 
 
 I see. So you're interested not in Chaldea, but in their objectives. That's fine. Better that than some stupid reason like sympathy or friendship. But you, Stargazer Tepeu. This is our first meeting. Why did someone who retired to the first level return to here?
 And in the company of individuals from Pan-Human History. You know what they're up to, right?
 
-**Tepeu:** 
+**Tepeu:**
+ 
 
 Yes. Pan-Human History, Lostbelts, Chaldea, Fantasy Trees... I am still investigating them in my own way.
 
-Dinosaur King:** 
+Dinosaur King:**
+ 
 
 ... And you do it by joining them on their journey, huh? Fine then, got nothing more to say to you.
 You're free to understand everything, be disappointed and die all alone. If you still call yourself a deinos after all that, the Sun will surely be saved. Alongside your foolish dream. 
@@ -689,11 +728,13 @@ He will, however, call a porter to take us to the great plains faster, as the xo
 
 ---
 
-**Mash:** 
+**Mash:**
+ 
 
 Ah, excuse me! You're actually the god Tezcatlipoca, right? Then could you help us restore Pan-Human History?
 
 **Tezcatlipoca:**
+
 
 No way. I don't give a damn about Pan-Human History. Why should I side with the monkeys? Dinosaurs are so much cooler! After all, they're the strongest animals who ever lived, right!? 
 
@@ -722,6 +763,7 @@ Tezcatlipoca taunts Izcalli over his performance against Nitocris, but he insist
 ---
 
 **Tezcatlipoca:**
+
 
 A hierarchy stands, even among family. Those who impede a king's will must offer their lives, even over good advice. That's how your word remains law. A king must be an existence transcending good and evil. Bear that in mind, Izcalli, if you want to remain a human king after becoming a god.
 
@@ -765,6 +807,7 @@ In the present, Izcalli feels everyone's anger and comments about how normal hum
 
 **Izcalli:**
 
+
 For us, death is natural, as it is for all humans. If we didn't believe that, we'd never be able to kill anything. It is because all life has equal value that we are allowed to kill. [...]If we have compassion for our brethren, war is impossible. You people of Pan-Human History treat the mourning for your fallen as if it's expected, or as if it brings you salvation. With your level of intelligence, you'd think the same goes for the enemy side. And that's how you lose the ability to take lives. If all hearts contained compassion, war would stop. It wouldn't even start. But is that how it goes, wretched people of Pan-Human History? You kill despite being capable of empathy. You plunder the lives you revere. How do you resolve this contradiction? The problem with you people is apparent before morality even enters the picture. [...] An Ocelotl is nothing like you Pan-Human History apes. It is to Tezcatlipoca alone that we offer up our feelings. We rejoice at our god's joys. We grief at our god's sorrow. And we tremble at our god's wrath. That is all. No matter how many of our enemies or brethren die, the sin of anger and mourning is for a god to bear. That makes war justifiable. If not, the human way of life would be too ugly and sinful.
 
 ---
@@ -774,6 +817,7 @@ After the speech is over, Olga swiftly annihilates Izcalli's entire squad of Oce
 ---
 
 **U-Olga Marie:**
+
 
 Pathetic. Are you done making your pitch, human? Then die! If you so wish to die by the hands of a god, I will comply!
 
@@ -912,21 +956,26 @@ Fujimaru comes out of the simulation saying it's the shittiest game they've ever
 
 ---
 
-**U-Olga-Marie:** T-That can't be true; I spent all day balancing it! Just exactly what part of it was so bad? I command you explain!
+**U-Olga-Marie:**
+ T-That can't be true; I spent all day balancing it! Just exactly what part of it was so bad? I command you explain!
 
 (choice 1)
 
-**Fujimaru:** It had too much flirting with your highness, the President.
+**Fujimaru:**
+ It had too much flirting with your highness, the President.
 
-**U-Olga Marie:** okfsklvhbseiovas!? T-T-T-T-That c-can't be it, right?! I did it all shounen manga style! I even simulated some enemies for you!
+**U-Olga Marie:**
+ okfsklvhbseiovas!? T-T-T-T-That c-can't be it, right?! I did it all shounen manga style! I even simulated some enemies for you!
 
 ---
 
 (choice 2)
 
-**Fujimaru:** It was shittier than the shittiest movie I've ever seen...
+**Fujimaru:**
+ It was shittier than the shittiest movie I've ever seen...
 
-**U-Olga Marie:** W-Wow, what an incredibly sad color you're emitting... Hmph, just you watch. Next time I'll come up with a much more interesting battle! 
+**U-Olga Marie:**
+ W-Wow, what an incredibly sad color you're emitting... Hmph, just you watch. Next time I'll come up with a much more interesting battle! 
 
 Regardless, the enemy fought in Olga's simulation was Tlaloc, so Fujimaru understands Olga meant this as a practice run for the very likely real Tlaloc battle they would have to face the next day.
 
@@ -937,6 +986,7 @@ The ritual has begun. The Ocelomeh are offering their prayers to the sun and in 
 ---
 
 **Tepeu:**
+
 
 Mythological ideas, elucidated.
 
@@ -997,11 +1047,13 @@ Kukulkan wrecks Huitzilopochtli with a fully animated punch and now she's gunnin
 
 ---
 
-**Daybit:** 
+**Daybit:**
+ 
 
 By my Command Spell, I order you to wield your Authority regardless of the limitations of your human body, Black Tezcatlipoca!
 
-**Tezcatlipoca:** 
+**Tezcatlipoca:**
+ 
 
 And so I will. I pay two of my organs to invoke a solar eclipse. A golden age of prosperity for a single species is a nightmare. Life disappears. Worlds end. Planets burn. Feast your eyes on this extinction. It's time to pass the baton, valiant warriors! 
 
@@ -1012,6 +1064,7 @@ Mash, Nemo, and Olga try to stop Tezca mid-NP chant but it's too late. Mictlan i
 ---
 
 **Tezcatlipoca:**
+
 
 I just switched out our present for the near future, that's all. The Black Tezcatlipoca is an almighty deity who reigns over all creation. Oh, but it doesn't mean my Authority lets me create whatever I want. My Authority lets me manifest anything that could possibly happen within my set of rules. If something will happen in the future, then I can switch the order in which it happens. This scenery you see is the reality that Mictlan will face in a few days. You guys are from the 21st century, right? You've played video games before, haven't you? This is pretty much the demo of your demise. This is something you'll eventually have to face, so enjoy this little sample first.
 
@@ -1026,6 +1079,7 @@ Learning Daybit's goal, Fujimaru calls him out on being no different from the Al
 ---
 
 **Daybit:**
+
 
 I will fulfill my role as a Crypter. I will destroy this planet before everything is hollowed out.
 
@@ -1119,7 +1173,8 @@ The narration in the dream continued describing the evolution of life in those e
 
 Da Vinci likens it to the type of dream shared between Master and Servant, but thinks that since the dream described the Carboniferous period, the scenery must have been that of the Paleozoic era. It was a period which ended with an extinction event, and Da Vinci ponders on these eras a bit further, but also concludes that no Heroic Spirit could have memories this far back. There might be those who belonged to the Precambrian era (an image of Melusine shows here), but generally the Heroic Spirits of mankind belong to other eras. Rather...
 
-> **Da Vinci:**
+**Da Vinci:**
+
 > If there's anyone who could show you such a scenery, Fujimaru.
 > It would be the brain of the planet...the memories of the planet that the world of magecraft refer to as the Archetype.
 
@@ -1131,7 +1186,8 @@ You fight some insects, and Nitocris complains about the wails they emitted. She
 
 The deino are real impressed with the concept of "stories", which apparently didn't really exist among them before, but one thing they're confused about is the concept of "years", or rather, counting time.
 
-> **Tepeu:**
+**Tepeu:**
+
 > ...Yes. I too have felt something off since I started traveling with all of you.
 > Deinos and humans seem to perceive time differently. A "year" is a concept foreign to us.
 > What you call the "past", we call "earlier" as a general rule of thumb.
@@ -1151,7 +1207,8 @@ Meanwhile, in the Border, we see Rasputin skulking around, when he suddenly runs
 
 Kadoc joins the conversation, telling Rasputin to stop sneaking around the Border and go back to orbiting the Alien God. Rasputin urges him to not speak harshly of God, and that the current situation is only possible due to the hard work of Gudao and Mashu, who were much more flexible in their impressions than someone like Kadoc. Of course, Rasputin agrees with this sentiment. He and Olga have currently lent their aid to Gudao, not to Chaldea. Should Olga come to fully realize her position, they will depart at once. At the very least, he won't pull any strings behind the scenes to make this outcome happen.
 
-> **Rasputin:**
+**Rasputin:**
+
 > Of course not. I have no desire to fight. I only wish to witness the birth of the one nearing emergence.
 > ...Although I expect the Heroic Spirit Rasputin's influence is to blame. There are still lingering emotions that a human ought to have.
 > Such as worrying that you must reach out to a soul that has naught but sorrow ahead of them.
@@ -1159,7 +1216,8 @@ Kadoc joins the conversation, telling Rasputin to stop sneaking around the Borde
 > It will only lead to suffering down the line. Apparently, it is time to make a decision.
 > Of course, I trust that you won't stand in the way? After all, the feeling is mutual.
 
-> **Kadoc:**
+**Kadoc:**
+
 > ...Sure. Even if Mash, Fujimaru---
 > and Olga Marie were to hate me for it, they should split up sooner than stick together.
 
@@ -1167,13 +1225,13 @@ Kadoc joins the conversation, telling Rasputin to stop sneaking around the Borde
 
 The next day, the Nemo series need to shut down the engines for maintenance, and it'll take 120 hours to perform an overhaul. In short, you need to get some hydroelectric power to sustain yourself for those 120 hours, and so now you'll go back to the First Underworld. Once again you'll bring Kukulkan just to carry stuff for you. Gudao looks around and asks if anyone's seen Olga, and Tepeu mentions that she left before sunrise this morning. When Mashu says that she's worried about Olga being in a bad mood, Tepeu says that she seemed rather joyous, actually.
 
-> **U-Olga Marie**
+**U-Olga Marie**
 > Hahahahahaha! Rejoice, mankind! For I am finally back in good shape!
 > So I'm off to lay waste to Mexico City! I'm the type of woman to not forget any slights against me!
 
 She had said this, but Tepeu had urged her not to do so. Olga had seemed surprised, considering the Ocelomeh's slaughter and sacrifice of the deino, but he explains their stance on the matter.
 
-> **Tepeu**
+**Tepeu**
 > Well, yes. We are not the aggressors. We will defend ourselves, but we will not initiate aggressions.
 > On the other hand, it is WE who invaded Mexico City earlier and interfered with their rituals.
 > It would be an act of aggression for you to invade Mexico City now. You have no just cause for it.
@@ -1191,7 +1249,8 @@ Since you obviously win, KP helps you set up the power plant. The deino have alr
 
 The next night, you tell the deino about your adventures in Atlantis, which they are of course impressed by. Not only what you did, but the world itself. One of them is most impressed by the fact that Hephaestus, a machine, was BALD too (needs fact-checking)! Tepeu seems very thankful that you agreed to do this, and for having the opportunity to learn about what you've been doing. You thought the deino would be upset at your journey, but Tepeu assures you it is not the case.
 
-> **Tepeu:**
+**Tepeu:**
+
 > You are from the correct history, and we hail from a history that was supposed to have been pruned.
 > But rest assured, we deinos do not possess the concept of comparison.
 > "That other person is better than you are. That other person is more gifted than you are."
@@ -1206,7 +1265,8 @@ In the end, they are most grateful to learn stories of "worlds that no longer re
 
 The Dino King comes and complains that all the deino are here listening to you instead of tending to his needs, and so the deino have to go and actually attend to their duties. Likewise, Kukulkan has been neglecting her duties as the doctrine of the sun since she started hanging out with Chaldea, so she'll sleep at the temple tonight. Da Vinci says the Border has been repaired to the point that you could sleep there again now, but both Gudao and Mashu say they would like to stay at Tepeu's house still, and have a nice dinner with Olga. Hearing Olga's name, Da Vinci takes on a sadder expression. She explains to the other two that the staff held the vote regarding Olga. With consideration that Olga is Chaldea's greatest enemy, but that she also helped you immensely until this point, there wasn't a single vote to exclude her. However, half of them objected to having her board the Storm Border, including Da Vinci. Even so, TRISMEGISTUS has determined that her amnesia is merely temporary, and that she'll eventually return to being the enemy of all of mankind. Since you lack the means to fight her, all you can do is repair the Border before that happens. Actually, what she's saying is that you have an opportunity here: to take Olga out before her full powers return. Needless to say, neither Gudao nor Mashu will turn on a friend, which Da Vinci expected, and so you'll remain cooperative with Olga for the time being, preparing for her return as the Alien God. Da Vinci is sure this is the right course of action, since you went with your "feelings" rather than the "plan".
 
-> **Da Vinci:**
+**Da Vinci:**
+
 > She seems like she's having a ton of fun right now. Kadoc said as much too.
 > "I'm surprised by how Mash changed, but I'm even more surprised by her."
 > "I don't know what kind of connection she has to the real Olga Marie, but I never thought the old her could smash her way to the driver's seat,"
@@ -1224,11 +1284,13 @@ The Dino King comes and complains that all the deino are here listening to you i
 When you return to Tepeu's house, it seems you just missed Olga before she headed out again, and so you run into the streets to fetch her. She says that it's not like she ran off because it was too akward or anything, and that she only wanted to walk around for a bit. There's a bit of an awkward silence, followed by her asking what business you have with her, having called out to her in the street and all. You say that it's just that you haven't talked in a while, to which she mutters to herself in reply:
 
 **U-Olga Marie:**
+
 ...Well, of course. I've been avoiding you, after all.
 
 You ask her to return to the house together, which she seems rather happy about.
 
-> **U-Olga Marie:**
+**U-Olga Marie:**
+
 > ...I see, so my secretary has come to welcome me. How laudable of you. Not too shabby.
 > In that case, I shall wrap up my inspection and head back. I've completely grasped Chichen Itza's layout.
 > I can handle the Ocelomeh whenever they decide to strike. Not that I really have any cause to protect this city.
@@ -1236,33 +1298,39 @@ You ask her to return to the house together, which she seems rather happy about.
 > Each day, the deinos assemble at the Border, learning Pan-Human History technology.
 > You lot sure are good at building friendships. Even though that's how it happened in my case too.
 
-> **Fujimaru:**
+**Fujimaru:**
+
 > The truth is, our operation resumes tomorrow.
 > We assemble in the control room first thing in the morning.
 
-> **U-Olga Marie:**
+**U-Olga Marie:**
+
 > Oh, that bridge I was in that one time! So the power's back on then!
 > While I don't want to see the face of that Gordolf fellow, I do want to see it in action!
 > Tomorrow morning? What are you going to do next when you resume operations!?
 
 But Gudao does not reply, only showing a hurt expression.
 
-> **U-Olga Marie:**
+**U-Olga Marie:**
+
 > ...Fujimaru?
 > ...Just to make sure, am I allowed to accompany you?
 
 Yet again, no response.
 
-> **U-Olga Marie:**
+**U-Olga Marie:**
+
 > ...I guessed as much. So that's how it is. I get it.
 > ---Fine then. I've changed my mind. I don't care about your ship at all.
 > Firstly, I can fly by myself, unlike you. And our promise only lasted until you rendezvous with Chaldea.
 > You head back first, I'll have a longer look at the city. Leave some corn bread for me, I like that.
 
-> **Fujimaru:**
+**Fujimaru:**
+
 > Yeah... I'm sorry.
 
-> **U-Olga Marie:**
+**U-Olga Marie:**
+
 > ...I don't understand why you're apologizing, Fujimaru.
 > If you feel like you owe me something, then repay me with a question.
 > So, do you have anything you'd like to ask me?
@@ -1313,7 +1381,8 @@ Wak Chan talks about its beauty, and the views. He speaks of what he sees, what 
 
 Seeing Olga apparently hurting inside, Wak Chan starts saying stuff like "physical make-up doesn't matter!", trying to convince her, and perhaps most of all himself, that this could work between them. He mentions her unique color, like the stars he witnessed as a kid, and how amazing she is on the inside. But Olga simply hurts more. She knocks Wak Chan away, telling him to get out of her sight.
 
-> **U-Olga-Marie:**
+**U-Olga-Marie:**
+
 > I've always hated lizards! I feel sick just looking at you!
 > And YOU call yourself "mankind"? How insolent! How could creatures as unsightly and stupid as you possibly be considered "mankind"!?
 
@@ -1361,7 +1430,8 @@ And then, Olga stops in the street, hearing a familiar voice call out to her.
 
 Another day comes around, and you meet up with Tepeu in the common room. He mentions that Father Kotomine left a message for you:
 
-> **Tepeu (speaking as Rasputin):**
+**Tepeu (speaking as Rasputin):**
+
 > Dear Chaldeans, this may be sudden to you. However, we have decided to part ways here.
 > The memories of my lady have yet to return, and she herself is uncertain of who she is.
 > "I'm sick and tired of these thick-headed deinos, these frail Earthlings, and the suffocating heat of Mictlan,"
@@ -1374,7 +1444,8 @@ You return to the Border and let the rest of the crew know about Olga and Rasput
 
 Moreover, this requires changes to your plans in this Lostbelt. First, the Alien God has no intention of fusing with ORT due to her amnesia, so that's fine, but now it seems Daybit and Tezcatlipoca instead want to make use of it to destroy the world. If the future you saw is to be reality, you have to stop it. In the first place, Gordolf can't begin to understand how insane Daybit is to want this. Surely, Daybit should want the same thing as the Alien God, right? Gordolf asks Koyanskaya, who previously dealt with the Crypters, for input, but she has none to give.
 
-> **Koyanskaya:**
+**Koyanskaya:**
+
 > Not a clue.
 > And not just me, that person was a complete enigma, even for the Apostles of the Alien God.
 > Prior to incarnating as U-Olga Marie on Earth, Kirschtaria was the sole focus of the Alien God's attention.
@@ -1383,10 +1454,12 @@ Moreover, this requires changes to your plans in this Lostbelt. First, the Alien
 > he was never factored into the plan.
 > He was neither ordered nor coerced. He wasn't even told that he was "insignificant".
 
-> **Nemo:**
+**Nemo:**
+
 > That's not an attitude you take towards your subordinates. On the contrary...
 
-> **Koyanskaya:**
+**Koyanskaya:**
+
 > Indeed. It's an attitude you'd take towards someone who's your equal, or perhaps even above you.
 > I had a pact of non-aggression with the Alien God, so I was able to act with impunity...
 > However, the Alien God had no leverage over Daybit.
@@ -1394,7 +1467,8 @@ Moreover, this requires changes to your plans in this Lostbelt. First, the Alien
 
 This makes Kadoc light up.
 
-> **Kadoc:**
+**Kadoc:**
+
 > ...I see. Wodime's records I saw in Olympus...
 > So that's what it was all about.
 > Kyrielight. Daybit IS a member of the A-Team. That will never change.
@@ -1406,7 +1480,8 @@ This makes Kadoc light up.
 
 Sion then asks what makes one qualify as a Crypter, if it's not simply being part of the A-team. Kadoc reiterates that they heard the term when the Alien God revived them, and that their revival came with a price.
 
-> **Kadoc:**
+**Kadoc:**
+
 > The price is to "resolve the Human Order Incineration incident".
 > Within the confines of the coffin---do what Fujimaru and Mash achieved.
 > The Alien God promised to resuscitate us if we proved ourselves capable of resolving the Human Order Incineration incident.
@@ -1449,7 +1524,8 @@ Since Kukulkan is apparently nowhere to be found, your best bet for reinforcemen
 
 He keeps asking her what it is she did, what the logic behind it was, but she doesn't seem to get what he's really asking. She simply states that she cleansed the spirits, but he keeps repeating the question. Finally, he clarifies.
 
-> **Camazotz:**
+**Camazotz:**
+
 > No, no, no, no, no! Your soldiers! The soldiers you commanded!
 > Those white deceased--- You consider THEM the people you rule?
 > The ones who died! The ones who lost their dreaming souls! Are you telling me---
@@ -1457,7 +1533,8 @@ He keeps asking her what it is she did, what the logic behind it was, but she do
 > I am asking you if you can remember each of their names!
 > If you have to recall the names, the memories, of each corpse you employ!
 
-> **Nitocris:**
+**Nitocris:**
+
 > ---Naturally. Those people were subjects of the Pharaoh.
 > Their fame may have been lost, but my respect for their deeds never wane.
 > An inexperienced Pharaoh like myself could only make it as a Heroic Spirit because I carry their pain with me.
@@ -1470,7 +1547,8 @@ That night, a festival is held to celebrate Nitocris' heroic act. Meanwhile, the
 
 Very conveniently, Kukulkan says if that's all you need to know, there is one deino who could check for that information for you at Metztitlán. Metztitlán in PHH myth is a lunar domain, and the lowest heaven, and so Da Vinci assumes in Mictlan it's some sort of observation facility for this world. There, an existence similar to Kukulkan resides. If Kukulkan is the new sun, then that being would be the new earth, ever unable to leave her place of birth.
 
-> **Kukulkan:**
+**Kukulkan:**
+
 > It's the final destination that a human can reach on foot, an astronomical observatory built on the seventh layer.
 > Its name is the Doomsday Observatory Metztitlán. The incarnation of the planet's soul that has existed since the foundation of Mictlan.
 > It's where the Stargazing Princess Ixquic---Archetype: Earth dwells.
@@ -1485,14 +1563,16 @@ Elsewhere, Tepeu runs into Wak Chan, who's still in the dumps. Wak Chan says he 
 
 In another part of the city, Vucub is speaking to the other priests. He's annoyed at the celebration of Chaldea, at the Dino king, and at the Crypter's poisonous wisdom. He fears the end of Mictlan, seemingly implying it will come sooner rather than later, and that this carefree attitude of the others is a danger to them all. Even Kukulkan seems to do nothing about it. He's sure that she changed as a result of becoming an "ally of the outside world", and he, as the last remaining deino of the sky, believes he stands above all the rest.
 
-> **Vucub:**
+**Vucub:**
+
 > Do you have any idea of the sacrifices I have made for Mictlan in order to get where I am now?
 > The disappointment of it all! That eyesore of a Dinosaur King, and the good-for-nothing Kukulkan!
 > If that Crypter's arrival is all it takes to change our civilization, then it was never worth anything to begin with!
 
 The other priests agree in fear that nobody cares for Mictlan as much as Vucub does, and that he deserves to rule. Thus, Vucub declares his plan.
 
-> **Vucub:**
+**Vucub:**
+
 > I will accept Izcalli's request for a second secret meeting. An operation to take back the sun---Hmph. That man thinks big.
 > But his grandiose tales are worth listening to. His cause couldn't sound more just.
 > Very well, he can have Chichen Itza. If that is what it takes to save our crumbling sun.
@@ -1511,7 +1591,8 @@ While Kukulkan eats enough maize to feed a small village (saying things like PHH
 
 She starts by recapping some stuff. The surface-level relationship between Mayan and Aztec civilization; how when you entered this Lostbelt you didn't see the South American continent, but the Pangean supercontinent; how you crashed in Mictlan after the mysterious light sank the Border. The mention of Mictlan is important, since as is clear from the name, this place has more characteristics from Central America, than South. Da Vinci surmises this is because the basic ideology is based on mythologies of the same region in PHH. Thus, it might be more accurate to call it the Latin American Lostbelt, but since the entry-point coordinates were in South America, we'll keep calling it that.
 
-> **Da Vinci:**
+**Da Vinci:**
+
 > Now for inference #1. We'll thoroughly probe the myths of the American continent.
 > The mythologies of the region identify closely with Earth's nature, but at the same time, lean towards a stellar viewpoint.
 > In fact, there are several murals and artifacts from the American continent depicting what appear to be "rockets aimed at the sky".
@@ -1520,13 +1601,15 @@ She starts by recapping some stuff. The surface-level relationship between Mayan
 
 She is of course talking about alien life. "Something" that came from outer space, but not necessarily in the form of life one would expect. At the time of the fifth mass extinction, 66 million years ago, a massive meteorite fell on the Yucatan peninsula in America, setting the planet ablaze and annihilating the dinosaurs who reigned on the surface. There's a lot of evidence so that we can know this happened, but something interesting is that the impact created a set vast underground cavern system, which later gave rise to the water springs (cenotes) of the peninsula with groundwater coming up. Da Vinci thus infers that the Underworld of Xibalba from the Mayan mythos was a result of living among these vast underground caverns. This was then taken into Aztec myth and became Mictlan. But there's more to those ideas than might seem.
 
-> **Da Vinci:**
+**Da Vinci:**
+
 > Those weren't transmitted just by oral tradition or cultural records, but also a primordial fear remembered in their bodies---
 > The magecraft world's speculation is that the information may be etched into their genes.
 
 And in this case, those genes would not simply be human. These people would definitely be human, but also had non-human factors mixed in.
 
-> **Da Vinci:**
+**Da Vinci:**
+
 > Quite a lot of resources were contained in the meteorite that fell on the Yucatan Peninsula.
 > Rare metals only produced in minute quantities on Earth, to be sure. And things that had never existed on the planet---
 > Extraterrestrial material.r]Possibly even organisms.
@@ -1540,7 +1623,8 @@ So, Tepeu gives the TL;DR: history diverged after the filaments crash landed on 
 
 Now, moving on to the second big lore point, Da Vinci asks what is most special about the deino, and the answer is their skin.
 
-> **Da Vinci:**
+**Da Vinci:**
+
 > Their dinosaur-like physical strength is a given, but they also have chameleon-esque camouflage, and thought-based communication.
 > The diversity of species, all herbivorous, able to nullify physical shocks with biowaves,
 > and their high intelligence, most of all. They couldn't have evolved these traits in Earth's environment.
@@ -1548,10 +1632,12 @@ Now, moving on to the second big lore point, Da Vinci asks what is most special 
 > The energy spent on intelligence and thought can't be met by plant-eating.
 > Which means the deinos are replenishing their energy by a means other than food.
 
-> **Mashu:**
+**Mashu:**
+
 > The Doctrine of the Sun---subsisting only on water and sunlight! So you're saying the deinos are...
 
-> **Da Vinci:**
+**Da Vinci:**
+
 > Yes, they are photosynthesizing. This is how the Divine Filaments evolved them.
 > A plant-animal hybrid. That is dinosaurian mankind, the deinos, and the prime species of this Lostbelt.
 > They are far, far superior to us humanoid mankind, and have stood as the apex species for 66 million years.
@@ -1594,7 +1680,8 @@ He asks you to introduce yourselves, and proceeds to say that Gudao's name sound
 
 Unfortunately, that has made the goddess angry, and so you need to flee with the mysterious man. As he turns around, you just see a familiar sheep, but he just starts talking nonsense when you mention it. He says he doesn't like being subjected to background checks since he has plenty of dirt to uncover, and then, a voice rings out.
 
-> **???:**
+**???:**
+
 > By dirt, you surely mean all the debts you won't pay. You've finally shown the true colors hidden under that fleece, Dumuzid.
 > Are these the ones to be damned for destroying my temple?
 > You should be honored. The goddess of the underworld has come to personally crush you underfoot.
@@ -1615,7 +1702,8 @@ Since you don't exactly have much else in the way of choice, you're just gonna b
 
 You wake up, in cages, way too weak to break out. You'll be worked to the bone: breakfast, labor (mining), lunch, labor (mining), dinner, labor (magical energy extraction), bedtime. Repeat until all her magical energy is back (also no vacation leave). She likens it to the building of the Pyramids, but Nitocris schools her about how that was totally not the case.
 
-> **Ninkigal:**
+**Ninkigal:**
+
 > You're the one not understanding things here, Nitocris. How long do you intend on playing devil's advocate regarding your past?
 > I'm certain now after that battle we just had. You still have yet to realize the true reason behind your summoning.
 > As a fellow netherworld queen, you should be capable of exercising an Authority equal to mine in an Underworld Border.
@@ -1632,7 +1720,8 @@ You wake up, in cages, way too weak to break out. You'll be worked to the bone: 
 
 She then switches the subject, since it appears Gudao isn't with them in the cages. As it turns out, when the others were knocked out, Gudao escaped alongside Kukulkan, somewhere. Actually, two of the legs were stomping off-beat, so you managed to slip under there. Anyway, you got to some cave where you took up shelter. Kukulkan is sad that she's acting so weak when she should be really strong, and so it's time for some trademarked Gudao charm. You say that it's obvious she's holding back, especially since she's not even using her Noble Phantasm. It must be because she's not "allowed" to get along with us or something. Even so, you think she should just say screw it and go for it. She thinks that maybe that's simply too trusting of you.
 
-> **Kukulkan:**
+**Kukulkan:**
+
 > I'm the god of this Lostbelt and you...you're the humans of Pan-Human History.
 > Isn't it more likely that I'm just pretending to get along with you, like I'm doing now, so that I can kill you?
 
@@ -1644,7 +1733,8 @@ You go to confront Eresh, and depending on if you're a guy or girl Dumuzid is ei
 
 This is totally a high-tech spacesuit, and she'll prove to you how strong she is. She blasts off, as you continue to the ground, and land with a forward roll.
 
-> **Ninkigal:**
+**Ninkigal:**
+
 > So you fell from the sky and rolled around! You'll scare someone half to death, so don't do that again!
 > But what game is "on"? You're fighting against me? What can a magus who can't even summon Servants do---!?
 > You're betting it all on that goddess, then? She's a thousand times better than that runaway Dumuzid.
@@ -1678,11 +1768,13 @@ If female: Kukulkan thinks that since Mashu and Da Vinci share a tent, that mean
 
 You finally make it to the observatory, which looks very different from the rest of Mictlan. It's like it's own biosphere/biome, akin to the Cenozoic era of PHH. Kukulkan explains that it's the case because Malla's will has no power here.
 
-> **Kukulkan:**
+**Kukulkan:**
+
 > This is where those dispatched from the Inner Sea of the Planet are born. The planet's sense of touch. Elementals, as Pan-Human History calls them.
 > As such, unlike Mictlan, which was created from the Divine Filaments, it is closer to your Pan-Human environment.
 
-> **Da Vinci:**
+**Da Vinci:**
+
 > The Inner Sea of the Planet is the "place of the mind", said to be sure to exist once the planet starts being treated like a single life form.
 > You remember Reality Marbles, right?
 > It is one of magecraft's greatest techniques: to manifest the magus' mindscape and, even if only temporarily, plaster it on top of reality.
@@ -1693,7 +1785,8 @@ You finally make it to the observatory, which looks very different from the rest
 
 Mashu adds on that most beings like this are born in the Inner Sea, and then leave for the surface, before eventually returning to the Inner Sea. But there are those who cannot return, or maybe simply never do, and on the surface these came to be known as fairies or Elementals, and even sometimes Divine Spirits. However, all three of those can come into being in other ways, so you can't say all of those are born this way.
 
-> **Da Vinci:**
+**Da Vinci:**
+
 > That said, there is an Elemental who can only ever be born in the Inner Sea of the Planet.
 > It's known as the "Brain of the Planet", and is a special type of Elemental. If the planet has a mind, it also stands to reason that it has a brain, right?
 > The one born from, and later set to inherit Earth's memories---the sights it cannot forget. The one constantly dreaming of the planet's surface.
@@ -1702,6 +1795,7 @@ Mashu adds on that most beings like this are born in the Inner Sea, and then lea
 A being created in the image of the current prime species, which knows of history of life from long before mankind was born. Nitocris presumes that since this Lostbelt is still a "what if" based on PHH, the Archetype should be a human like you. Kukulkan directs the question to Tepeu, after all, he used to work here long ago (which you might remember from the very first chapters). That said, he's never heard of her being referred to as the Archetype, so that is no doubt knowledge brought here by the Crypter. Although, Kukulkan seems to have known about it since before then, but she couldn't express it clearly as a representative of Malla's will. Anyway, Ixquic (the Archetype here) is different from other deino, and is most likely different to the one in PHH, he says.
 
 > *Tepeu:**
+
 > Mictlan itself is already a place much like the Inner Sea of the Planet.
 > A world without change, closed off both from the surface and the universe above. The Archetype born here must be very cramped.
 > She cannot ever go outside of here. Never even once.
@@ -1714,7 +1808,8 @@ Anyway, you get on with it, and proceed to ask your questions. The first thing y
 
 Nitocris thinks it's weird that she agreed to the request if she knew about PHH and Crypters even before Daybit coming here, but Ixquic explains that as the Archetype, she understands that Mictlan is not the kind of environment Earth is normally supposed to have. She could foresee all the "bad" things Daybit would do after being given knowledge about this world, but she must treat everyone equally and fair.
 
-> **Ixquic:**
+**Ixquic:**
+
 > All people operate under their own outlook, their own convictions, and their own set of values.
 > Nobody has the same ideas, so people coming to understand one another is practically unheard of. As such, I must treat everyone equally.
 > You ought not take other people's time, ideals, and lives so lightly, because you're far away from them;
@@ -1726,7 +1821,8 @@ Nitocris thinks it's weird that she agreed to the request if she knew about PHH 
 
 This statement seemingly leaves quite an impact on Mashu, who looks rather down. Tepeu is too much on edge from being here again, so he goes to prepare some ritual, and Da Vinci takes over to ask questions. She begins recounting the assumptions she made earlier about the Lostbelt's origins to Ixquic, asking if she has presumed correctly. Ixquic is delighted to see how much work she put into her theory, but there are some minor corrections to the timeline.
 
-> **Ixquic:**
+**Ixquic:**
+
 > The meteor they arrived on in Pan-Human History fell onto the Yucatan peninsula 66 million years ago at the end of the Cretaceous period.
 > But the meteor they arrived on here in this Lostbelt fell down during the end of the Carboniferous period, about 300 million years ago.
 > "They From Afar", the castaways, came down from the cosmos above. The ones we refer to as Malla.
@@ -1737,7 +1833,8 @@ Now it finally makes sense to Da Vinci. In PHH, during the transition between th
 
 Well, Ixquic says they did have a fourth extinction event in this world. 66 million years ago, the same thing as the PHH's fifth extinction event occurred, with a meteor crashing into the yucatan peninsula. The meteor set the world ablaze and it was only thanks to Malla that the dinosaurs survived.
 
-> **Ixquic:**
+**Ixquic:**
+
 > Malla foresaw this meteor collision, and created a shelter underground.
 > The energy used above, on the surface, was all collected in this subterranean world to create a new paradise.
 > The planet's fuel, which would ordinarily be used to restore the surface of Earth, was all used to run Biosphere 3.
@@ -1748,12 +1845,14 @@ In short, that's why the surface was still all messed up when you arrived. The p
 
 That said, if they're talking about invaders from outer space, there's one more relevant. Ixquic mentioned earlier how a meteor forced the creation of Mictlan, and how the timeline of events was shifted around a bit compared to PHH. But just like a slight change in trajectory brought the meteor carrying Malla here much earlier, the same thing happened with another lifeform, which arrived 66 million years earlier than it should have.
 
-> **Ixquic:**
+**Ixquic:**
+
 > From the ends of the galaxy, flying in from the Oort cloud, came a planet-eating monster---
 
 Da Vinci surmises that the only way the deino could've survived the arrival of ORT is if it died from the meteor impacting Earth, and that's why you haven't seen it, because it's dead. Turns out, that's not the case at all. Ixquic explains that it went all crazy, and that it already destroyed Mictlan once.
 
-> **Ixquic:**
+**Ixquic:**
+
 > When ORT descended, it did die, but that thing didn't have the sort of death that life does.
 > It fell down into Mictlan, and after being at a standstill for 60 million years...
 > Just around the time that the deinos' philosophy of life had been realized, ORT resumed activity.
@@ -1783,13 +1882,15 @@ Of course, since it lacks "death", that only means it will revive once more. Als
 
 Da Vinci thinks you're now up to speed on what ORT is, and thinks it's obvious that Daybit would've asked about this when he arrived too, but Ixquic quickly says that he did no such thing. When she began telling him about it, he only said "I've already conjectured as much, you don't need to elaborate". This kills the Da Vinci. The question Daybit asked was actually "Has the sun gone out at some point?" Now the Ocelomeh's sacrifices and beliefs in the sun going out makes a bit more sense too. It's not simply a belief carried over from PHH myth, but the result of such an event perhaps actually happening. Naturally, Ixquic told Daybit the truth:
 
-> **Ixquic:**
+**Ixquic:**
+
 > "When ORT became active 6 million years ago, the sun went out. With it, the other non-deinos civilization..."
 > "The country of the humans, the Ka'an Kingdom, was wiped out."
 
 Plot twist: Ka'an wasn't a deino kingdom. This is why the red text above was important. Ixquic explains that the human kingdom flourished for 100,000 years here in Mictlan, but compared to the deinos they were a weaker form of life, though their technological skills were very advanced. At the end of their life they even created things similar to the Storm Border, apparently. This is the only reason they were able to stave off ORT back then: the Ka'an warriors modified their bodies to the point of immortality, and fought til there were none left. They forced ORT into the lowest layer of Mictlan, where it sank into a sea of magma, and Mictlan's light returned. However, Ka'an was wiped out as a result, and the ruined city they left behind was repurposed as Chichen Itza. Even in death, though, the warriors did not fall apart, because of the strengthening of their bodies, and these were the ghosts/skeletons you saw back in the ruins. Nitocris perks up, and asks Ixquic if there was even a single survivor from the Ka'an kingdom.
 
-> **Ixquic:**
+**Ixquic:**
+
 > Not all. There is still one who remains alive.
 > The last survivor, and the one who defeated ORT six million years ago: the King of the Ka'an.
 > After undergoing such extensive body modifications, he couldn't even die, and succumbed to madness. Even now, this bat continues to soar across the underworld...
@@ -1803,7 +1904,8 @@ No matter what, she cannot leave Metztitlán, and this used to frustrate Tepeu a
 
 This prompts Mashu to ask about Kukulkan's looks. Since she's the representative of Malla in this deino world, wouldn't it make more sense for her to be a deino too? Turns out, before she took this form, she was more like a breeze in the wind which only the deino could perceive, and it was only a year ago, when the knowledge of gods and Kukulkan (of PHH) was brought to this world that she took this singular form.
 
-> **Kukulkan:**
+**Kukulkan:**
+
 > To give form to that which had never been seen. To regale stories of that which previously had only been sensations.
 > To "us", that was enough of a shock to break the boundaries of the world.
 > "God is something that can only be born among an intelligent humanoid mankind. We should should try to learn from such a form as well."
@@ -1820,7 +1922,8 @@ Returning to Ixquic, it's real smoky suddenly. It's part of the ritual prepared 
 
 You first see Daybit in Metztitlán, speaking to Ixquic.
 
-> **Daybit:**
+**Daybit:**
+
 > The sun went out, yet 100,000 years later, it once more returned to Mictlan's skies...
 > Impressive that you'd resort to such extreme action, Malla.
 > There's no benefit to clinging to this subterranean world. This is not a question of logical thinking anymore.
@@ -1828,7 +1931,8 @@ You first see Daybit in Metztitlán, speaking to Ixquic.
 
 He thanks Ixquic, and offers to repair parts of the observatory, before moving on. Next, you see him confronting Camazotz alone in the fourth Underworld, where the Cosmic Tree of Mictlan resides. Camazotz actually seems impressed by Daybit acting alone, saying it is how humans ought to be. Daybit makes use of a Command Spell, causing shadows to manifest behind him. The scene jumps forward, and we see Daybit and Camazotz both seemingly exhausted. Still, Daybit says he can do this two more times, if he must. But Camazotz declines a rematch. Daybit's blood is apparently just awful, but as he defeated Camazotz, he shall be allowed passage to the bottom of Mictlan.
 
-> **Camazotz:**
+**Camazotz:**
+
 > However, a toll must be paid, Crypter Daybit Sem Void.
 > Speak to me of your legends. I wish to know of your mythologies.
 > I am a being of Mictlan legend. The forgotten legend of how ORT was defeated six million years ago.
@@ -1838,7 +1942,8 @@ He thanks Ixquic, and offers to repair parts of the observatory, before moving o
 
 Next, we see Daybit at the bottom of Mictlan, next to the corpse of ORT. He says that it only remains immobile now due to a lack of fuel. If he seals the wound with a large enough quantity of high quality Magic Circuits, it should become active before long. That said, he can't return here until a year later, because of the cosmic rays emenating from the area. While he's here, he says he might as well summon someone.
 
-> **Daybit:**
+**Daybit:**
+
 > It may be a Lostbelt, but it's still Mictlan. It'll prove plenty as far as catalysts go.
 > Even if I don't count among mankind, I'll be able to summon a Servant through the power of the land.
 > One who'll heed the call of a man like me. One who stands above good and evil. And above all, one who deems conflict as virtuous.
@@ -1854,7 +1959,8 @@ You recap what you saw, but unfortunately you still have no idea why Daybit is p
 
 Ixquic says that you're very brave for doing this, but if you lose your lives in the process, then what's the point? Maybe you should just go back and rest in the city. Perhaps Daybit won't succeed in the first place. Mashu starts saying that they can't just sit idly by, since this is a matter of saving the world, but Ixquic retorts with the world ending is hardly anything out of the ordinary.
 
-> **Ixquic:**
+**Ixquic:**
+
 > We do not engage in conflict. We do not resist. We only obey.
 > It's thanks to that, that we've been able to spend our days in peace for the last six million years.
 > If the world goes under, then that's just its lifespan running its course.
@@ -1867,7 +1973,8 @@ Ixquic says that you're very brave for doing this, but if you lose your lives in
 
 Mashu, Gudao, and even Tepeu have a hard time accepting this, even if she might be right. She was actually trying to make you feel better, but her blunt speech had the opposite effect. Well, it doesn't matter anyway, she says.
 
-> **Ixquic:**
+**Ixquic:**
+
 > Even if Daybit doesn't awaken ORT, Mictlan's end is nigh.
 > Uh, big brother Tepeu, did you not tell them?
 > Mictlan's sun will soon reach its limit.
@@ -1878,7 +1985,8 @@ Mashu, Gudao, and even Tepeu have a hard time accepting this, even if she might 
 
 We see Vucub in the jungle, apparently having a meeting with the Ocelomeh and Izcalli. He demands they come out of hiding, saying deinos have the power to wipe out all six of those "filthy monkeys" in the blink of an eye. Izcalli makes himself known, seeing that Vucub came alone, as promised. He tells his warriors to stand down, because this will be a "conversation between kings". Vucub initially seems reluctant to the title, but assures his conversation partner that he is indeed worthy of ruling over the deinos.
 
-> **Vucub:**
+**Vucub:**
+
 > Kukulkan cannot be trusted. The same goes for the king she has chosen.
 > The deinos are Mictlan's most preeminent species. The ideal mankind, created by Malla.
 > You Ocelomeh, on the other hand, are nothing more than sub-humans, receiving not the slightest protection from Malla.
@@ -1897,7 +2005,8 @@ Olga's memories still aren't fully restored, but she understands more of what sh
 
 Olga changes the subject, saying this place feels kinda uncomfortable, and familiar to the Underworld Borders, so she asks what it was Tepeu was really researching here.
 
-> **Rasputin:**
+**Rasputin:**
+
 > In the world of magecraft, there are certain things known as Mystic Eyes.
 > Mystic Eyes can see the flow of magical energy, time, luck, and a variety of other things.
 > But even among them, the most extraordinary ones are the "Mystic Eyes of Death Perception".
@@ -1906,7 +2015,8 @@ Olga changes the subject, saying this place feels kinda uncomfortable, and famil
 
 In that case, Olga says, it doesn't really matter. Deinos ultimately lack the will to fight, and so eyes like that will only bring the owner misery. Suddenly, she starts getting a strange reading from the third layer. The Ocelomeh are forming a large army, and are moving into the third layer. They quickly guess that since Kukulkan is with Gudao, Chichen Itza is left pretty much defenseless, and Tezcatlipoca must have deemed it a golden opportunity.
 
-> **Rasputin:**
+**Rasputin:**
+
 > The hospitality you received at Chichen Itza has in some ways indebted you to them, but that only applies to how you were when you had amnesia.
 > The battle between the deinos and the Ocelomeh has nothing to do with ours.
 > Right now, you are the Alien God. I'm sure you understand that better than anyone else does.
@@ -1931,7 +2041,8 @@ Even seeing their comrades shot to death before their very eyes, the deinos neve
 Even though the Ocelomeh have modified the tanks they got from her, and they number 20 platoons, she is confident she can take on 40% of them even by herself. But then, a familiar voice resounds...
 
 
-> **???:**
+**???:**
+
 > You said you're not gonna be backing both sides? What happened? Did you seriously retire from the business, Beast?
 > For us bad guys, the longer and messier the war, the better.
 > NFF Services are volunteers in service of mankind's desires---warmongerers who provide as many weapons as are in demand.
@@ -1948,13 +2059,15 @@ He continues tearing the fleshy bodies of the Ocelomeh to pieces. He's disgusted
 
 He comes to, finding himself rushing towards the shrine. Non-fighter deinos always take shelter there when they're close to death, since they have no interest in fighting. He ruminates on the fact that a normal deinos will reflexively strike back when stricken, definitely resulting in the dead enemy, should it be an Ocelotl. However, when it comes to those near death, it's a different story. Their weak bodies won't react the same, and they'll simply be chopped to pieces, only being able to think "why?" He needs to stop that from happening. But as he gets closer, he only sees Ocelomeh surrounding the shrine. It's too late for those inside. He knows it well. But still, he has to do something. And that's when he sees it...
 
-> **U-Olga Marie:**
+**U-Olga Marie:**
+
 > Begone, insurgents! You'll never have the honor of being granted suffrage by me!
 
 Lightning strikes the area, annihilating the Ocelomeh without a shred of mercy. There stands someone furious at the situation, even though she was a different being altogether.
 The weaker deinos who remained in the shrine come out to thank their savior. A mother deinos had babies with her who had yet to even open their eyes. Had Olga not been there, they would have drawn their last breath having seen only darkness, and having known only pain.
 
-> **U-Olga Marie:**
+**U-Olga Marie:**
+
 > ...I see. Good for you. It's not like I was trying to save you or anything, though. No need to thank me.
 > Besides... I still hate lizards.
 > I just couldn't stand these people who were trying to slaughter innocent civilians.
@@ -1969,7 +2082,8 @@ Gudao and co. draw closer to Chichen Itza. Even this far away, they can smell th
 
 Your group quickly neutralizes the Ocelomeh on the main street, and you set out towards the altar again, when suddenly all the color disappears, and something comes flying at you. Mashu just manages to dodge, and you see Koyanskaya in a dire state.
 
-> **Tezcatlipoca:**
+**Tezcatlipoca:**
+
 > Huh, so you came this way? Gonna prioritize saving lives over your ship? So that's the kind of man you are?
 > All right. I'll be takin' what you find more important then. People who clamor for life oughta offer up their own. That's how it works in my world.
 
@@ -1981,7 +2095,8 @@ Just before the two boys depart from the ship, Da Vinci contacts them. She and N
 
 Nitocris is the first to confront Tlaloc, insulting the goddesses' whip. Tlaloc retaliates, describing its beauty, and saying Nitocris obviously has no sense for art, to which the latter takes great offense. Da Vinci is just kinda dumbstruck, considering how obvious it is at this point Nitocris wasn't just taunting Tlaloc to get her attention.
 
-> **Tlaloc:**
+**Tlaloc:**
+
 > Okay, so what? Did you come here because you WANTED to get killed?
 > We've been in this situation before, haven't we? You fought to protect the iron ship, nearly dying in the process?
 > Is this thing even that important? Looks like nothing more than a piece of junk to me.
@@ -1990,7 +2105,8 @@ Nitocris is the first to confront Tlaloc, insulting the goddesses' whip. Tlaloc 
 
 Nitocris ponders on the fact that Tlaloc obviously thinks very highly of PHH, and yet she opposes Chaldea, despite being a PHH Heroic Spirit tasked with the safeguarding of the Human Order. Tlaloc is confused, wondering if it's a natural course of actions for Heroic Spirits to act in defense of the Human Order, to which Nitocris say that's a matter of course.
 
-> **Nitocris:**
+**Nitocris:**
+
 > Before arriving here, I witnessed a terrible bloodbath.
 > The cadavers of far too many innocent deinos, slaughtered without ever fighting back. They don't know about war. They won't fight.
 > If the objective that you Ocelomeh have lies in Chichen Itza, the deinos would've surely handed it over without conflict.
@@ -2000,7 +2116,8 @@ Nitocris ponders on the fact that Tlaloc obviously thinks very highly of PHH, an
 > There shouldn't be reason for you to fight to protect this Lostbelt---no, to protect Mictlan.
 > It's still not too late. Join us and---
 
-> **Tlaloc:**
+**Tlaloc:**
+
 > Appalling, isn't it? You, the woman who drowned her treacherous vassals to death, is talking all big about this Human Order nonsense?
 > I was curious, so I asked the Crypter about you.
 > You gave up on your country after your brothers were killed. You disregarded the law, tricked the priests administrating the state, and murdered them.
@@ -2015,7 +2132,8 @@ Nitocris ponders on the fact that Tlaloc obviously thinks very highly of PHH, an
 
 Now you've really got her attention, as she prepares for an all-out battle, but Nitocris seems simply hung up on the idea of shedding blood for one's people. The battle commences, and unsurprisingly to her, Tlaloc is victorious yet again. However, to her dismay, she's now in range of the warhead, and it's a direct hit. She's blown far away from the Border, way into the forest. And despite all that...she's unharmed. The readings do show that there's something off with her Saint Graph, but not in a way favorable to you. Rather, there are several overlapping Saint Graphs (and of note, for the first few lines she speaks next, her nameplate just reads "???"). Tlaloc, or whatever she actually is, stumbles out of the forest, murmuring to herself that this time it actually hurt. Not only is she seemingly fine, but her magical energy is spiking as well. The crew is totally befuddled, but Nitocris seems to get it.
 
-> **Nitocris:**
+**Nitocris:**
+
 > No, that's not it. She's not a Divine Spirit at all.
 > You're wrong... Gods do not cause bloodshed for the sake of man.
 > She's not a Divine Spirit. She's something else. Something which in some cases even exceeds them---
@@ -2031,7 +2149,8 @@ The cloud of shadows goes directly for Tlaloc (who yet again has her nameplate a
 
 Once the shadow stops, Nitocris calls out to it: "Camazotz!" She thinks him saving them here was nothing more than another of his mean pranks. But she is wrong, he refutes. He wasn't trying to save them. In fact, he seems rather angry with Nitocris. He says that she, who is not stupid, should not say such stupid things. However, as she presses him for an answer, she grows more certain he was actually trying to save them, but he won't confess.
 
-> **Camazotz:**
+**Camazotz:**
+
 > Wrong. Dead wrong. How impudent to even consider it! I simply dropped something off to where it belongs.
 > That woman was trying to unveil her true form. Had that occurred, all of you would have surely become sacrifices for her to decorate her altars with.
 > A dull outcome. Especially when there's finally some human blood, and even some Heroic Spirit blood here!
@@ -2047,7 +2166,8 @@ Once the shadow stops, Nitocris calls out to it: "Camazotz!" She thinks him savi
 
 Back with Gudao and co. They give a quick recap of Tezcatlipoca's myth here, about how there are actually four of him in Aztec myth: red, blue, black, and white. The one before you is the black one, while Quetzalcoatl is the white one. Speaking of Quetz, Kukulkan apparently just disappeared before Tezcatlipoca appeared. Tezca says that's only natural. This battle is between two tribes of Mictlan, so she won't get involved. This unlike the battle in Mexico City, which was a battle between two outsiders. At that point, she only really helped you because Malla's pride would be hurt if its "guests" were hurt, basically.
 
-> **Tezcatlipoca:**
+**Tezcatlipoca:**
+
 > That's just how she is. Way more cold-blooded, cruel, and inhuman than lil ol' me.
 > Think about it, has the sun ever aided someone in war in Pan-Human History?
 > Has it ever taken the side of one nation over the other? Course not. The same goes for here in Mictlan.
@@ -2064,7 +2184,8 @@ You thank Olga so much for saving you, but she says she was only having a stroll
 
 Olga doesn't seem to want to believe it. She blames her amnesia, saying she doesn't remember anything but her name and purpose anyway. But Tezca doesn't believe her. He thinks that as soon as they saw each other in Mexico City, she should've remembered everything. All her powers, her true being, and who are her actual enemies. She still can't seem to agree to it, causing Tezca to grow even more annoyed. How can she call herself a god and keep lying to herself like this? He then turns to Gudao and Mashu instead. Both of whom knew the truth about Olga, but kept their mouths shut. How long did they think they could spread their petty lies? Or did they honestly believe it an act of kindness?
 
-> **U-Olga Marie:**
+**U-Olga Marie:**
+
 > ---Did you two...know about it?
 > That I'm...the Alien God. You knew...from the start?
 
@@ -2072,7 +2193,8 @@ You can't muster up the strength to answer her, but your face tells her the whol
 
 The sudden sound of a siren interrupts Tezca, and color returns to the area. Tezca says this means the course of the sun has changed, or, in other words, that Izcalli has killed the Dinosaur King. The flower war has concluded. Now, only ORT's awakening remains. Whether you or Daybit make it there first is yet to see. Then, he disappears, and at the same time, Olga's readings are lost.
 
-> **Mashu:**
+**Mashu:**
+
 > Senpai... Have we perhaps...done something very regrettable?
 
 **--- Section 7 ---*
@@ -2087,7 +2209,8 @@ But the King simply asks what Tlaloc said to Izcalli, or if she said anything at
 
 Izcalli asks one last question: which side is the King on? If he's a PHH god, then he is the enemy, and it would be more than fine to kill him, even though he's a god. He even sided with Chaldea, so it must be the case that he is. But the King berates him again, saying he's stupid for thinking he gives a shit about PHH, claiming he's definitely a Lostbelt god, and that the Tezca on Izcalli's side is the PHH one. Why else would he have brought in those guns and built Mexico City.
 
-> **Dinosaur King:**
+**Dinosaur King:**
+
 > Get this through your head! Black Tezcatlipoca...never had the SLIGHTEST intention of protectin' this Lostbelt!
 
 With those words, Izcalli unloads his bullets into the god in front of him. He orders his henchmen to take the Solar Itinerancy and declare the end of the war. He also considers telling them to keep quiet about what happened here, but ignores his feelings on the matter, as he believes they cannot follow human conversation anyway.
@@ -2128,7 +2251,8 @@ The deinos have existed for 66 million years, but have not developed at all duri
 
 We see Kukulkan in her spacesuit form, staring out over the city at night with eyes lit green.
 
-> **Kukulkan:**
+**Kukulkan:**
+
 > Indication of anomaly detected within deinos thought patterns. Evaluated as degeneration. However, unrelated to extinction.
 > Fantasy Tree in ninth layer, activity resumed. Due to regrowth of bark, decrease in leakage of cosmic rays.
 > Protection of Fantasy Tree assigned to highest priority. Forbidding all entrance into the ninth layer.
@@ -2136,7 +2260,8 @@ We see Kukulkan in her spacesuit form, staring out over the city at night with e
 
 Her eyes return to normal.
 
-> **Kukulkan:**
+**Kukulkan:**
+
 > I see... I didn't mishear. That was the voice of the collective I heard down in Metztitlán.
 > And it's telling me to slaughter all of our guests from Pan-Human History without exception, isn't it...
 > Aww... Malla almost never changes course, so I'd wanted to think it was some kind of mistake...
@@ -2179,7 +2304,8 @@ Elsewhere in the jungle, we see Rasputin and U-Olga conversing. Rasputin conside
 
 Elsewhere in the jungle, we see Rasputin and U-Olga conversing. Rasputin considers that no matter the form of mankind, they can never escape the accumulated weight of their sins, but Olga remarks that the deinos never really accumulated anything, not even Chichen Itza was built by them. Regardless, what remains now is two opposing teams heading for ORT. One to revive it, the other to erase it alongside the Lostbelt. All that's left to decide is what Rasputin and Olga should do now.
 
-> **U-Olga Marie:**
+**U-Olga Marie:**
+
 > It should be obvious. The reason we chose this Lostbelt as our temporary base was to get our hands on a stronger Saint Graph.
 > ORT belongs to me. I won't give it up to an ant-like, powerless---
 > incompetent breed like mankind.
@@ -2188,7 +2314,8 @@ Elsewhere in the jungle, we see Rasputin and U-Olga conversing. Rasputin conside
 > If I fuse with ORT, they'll no doubt flee with their ship.
 > When they do---you know what to do, right? Chasing after them each and every time is a pain. I've already had to do it twice.
 
-> **Rasputin:**
+**Rasputin:**
+
 > Of course. I've already made the preparations.
 > Their lives will end when the Storm Border leaves Mictlan.
 
@@ -2200,9 +2327,870 @@ You head back to Chichen Itza as Tepeu prepares, where you suddenly run into Kuk
 
 Kukulkan doesn't think any of this really matters. Extinction comes to this world, just like it did in PHH. Even after all this ends, a humanoid mankind will surely be born into the world anyway. Life finds a way; PHH and you are proof of this. As such, she asks you to just leave right now. Your ship should be almost fixed, and there's no reason for you to die alongside Mictlan. Of course, you can't do that, and so she spells it out clearly for you.
 
-> **Kukulkan:**
+**Kukulkan:**
+
 > I am Mictlan's arbitrator.
 > Deinos or Ocelomeh. It is my duty to ensure that one goes extinct, and to choose by which means that happens.
 > For that reason, the Lostbelt must survive.
 > The Crypter, who aims to revive ORT. Chaldea, who aims to cut down the Fantasy Tree. Both of you are my enemies.
 > ---I'll see you in Calakmul. That's where we'll part ways.
+
+## Chapter 17: Fourth Underworld Yayauhqui 
+
+After a six hour drive in the Shadow Border, and a bit of traveling on foot, you're almost at the eight layer. Luckily for you, Wak Chan caught up to you and ferried you most of the way after you departed. He carries Gudao, Mashu and Nitocris, while Tepeu carries Da Vinci. You take this time to ask for info about the eight layer. Tepeu explains that it's a sunless underground mountain range, the "Black Border". It looks like a steep mountain at first, but it's actually hollow inside. A mountain range within a mountain range. It's also the lair of the bat of terror, Camazotz. In a sense, he's like the watcher of the fourth Underworld.
+
+By the way, the topic of Kukulkan comes up here, and Wak Chan explains that even if she comes to attack you, he'll still help you. Just because she's their god doesn't mean they can't disagree on objectives, and he might as well help out where he'd actually make some sort of difference. Da Vinci posits that the teachings of Kukulkan are less like that of a strict father ruling over his children, and more of a nurturing mother who protects them. You always knew the Lostbelt King would become your enemy, but you're saddened a bit after having learned just how benevolent she actually is. Sion, back at the Border, also reports to you that it's very likely the "absent" Olga has also begun moving towards the bottom, so your final battle is more likely to be ORT and Olga both.
+
+In the third Underworld, Kadoc has been asking the help of Ereshkigal Alter, but she says she cannot help out that directly. In the first place, the ones there right now haven't actually overcome that Underworld, so they should be lucky they're as free as they are right now, and to make things worse, Daybit actually has cleared it, so she's not allowed to interfere with him directly. She'll still report the path they're taking once they get there, so that Kadoc and the others can set a trap properly.
+
+That was an hour ago now, and Kadoc and Gordolf are conversing about the plan in the Border. As it turns out, Gordolf did get to be the driver after all, since Meuniere still hasn't recovered fully from his wounds. Koyan's also his flirty co-driver, and she's also the one to relate the information sent by Ereshkigal. Daybit and Tezca have made it to the third Underworld, and their route has been plotted for Chaldea. Gordolf has to drive pretty fast to be able to intersect Daybit's path, so he floors it. Once they get there, they'll set up anti-beast magecraft and tons of claymores and bombs to stop Daybit and Tezca.
+
+Now, on the way there, it's time for Kadoc to infodump about whatever information he found about Daybit's past in the Storm Border's library.
+He starts by recapping that there are three parts to the Mage's Association (Atlas, Wandering Sea, Clock Tower), and within the Clock Tower, there are 13 departments (general fundamentals, individual fundamentals, spiritual evocation, mineralogy, zoology, lore, botany, astromancy, creation, hexology, archeology, policies, and modern magecraft). While most of Chaldea, including Kirschtaria, belonged to the astromancy department, Daybit was actually from the department of Lore. You might guess based on the name that it deals with myths and folklore etc, but that's not quite the case. After all, such things are actually part of most of the departments' research. Take Servants, for example, who are literally RECORD BANDS made manifest. The department of Lore was special in that it was governed by the Headmaster of the Clock Tower himself, Brishsan. Gordolf explains that it's a department which researches exoanthropic (that is to say, something outside the scope of humans) angels and demons, with nothing to do with legends of earth, really. Koyanskaya thinks that's not quite true since angels and demons are technically part of legends too, but Kadoc corrects her, saying it's not the same as she's thinking of.
+
+The angels and demons she's thinking of, part of common mythologies, are known by all departments, since they're part of normal legends. That is to say, the department of Lore deals with something truly worthy of being classified as "unique lore": something not from Earth.
+
+**Kadoc:**
+
+> Super-artifacts scattered around Earth since time immemorial, spoken of in no mythologies, and tinctured by unknown laws: Out-of-place artifacts, or OOParts for short.
+> Even within the world of magecraft, where angels and demons are treated as common knowledge, these "angels" and "demons" are treated as taboo.
+> In other words, they're "threats to mankind". It's the Department of Lore that is charged with discovering, investigating, and storing them.
+> The other departments also contribute to mankind, but the Department of Lore exists for the purpose of quarantining things of exoanthropic nature.
+> This is also why the Headmaster is the Lord of Lore.
+> An ordinary mage born in the common era could never hope to control it.
+
+Gordolf mentions that once you join there you're basically stuck, since obviously it would be hard to get out of such a job, so the Animusphere must've pulled some big strings to get Daybit out of there, but Kadoc says they had nothing to do with this case. In fact, neither was he exiled from the department, as commonly believed, he actually left on his own. Kadoc went through the eight years which Daybit spent at the department of Lore, but more importantly is the fact that no records before that time seem to exist. Not even in the mandatory basic classes all magi have to attend did he appear. It is only known that Daybit was a genius who appeared suddenly at the Clock Tower at the age of 10.
+
+To find something more, Kadoc instead starting looking at the general documents of the department, getting help from Sion to unseal them, and then found what he was looking for. A document dated July, 2004, with the only thing written on the file being: "Document: 5 minutes". As for the contents of the file...well, it's most accurate to say that it "had nothing in it". However, there's something they know happened on that day: all across London, an incident of undetermined origin froze all the active magecraft spells in the whole area. It passed so quickly that despite everyone actually noticing it, they just kinda thought it was a fluke, and didn't bother more. That is to say, that incident and what is described in relation to the document he found are related.
+
+**Kadoc:**
+
+> Correct. At this time, in the preparation room of one of the instructors who worked at the Department of Lore, an Angelic Artifact was exposed.
+> The exposure time lasted for only 0.2 seconds in real time. This is most likely the origin of the freeze that happened to all the spells in the Clock Tower.
+> The name of the owner of this preparation room is completely gone. It's been removed not just from all the data, but from everyone's minds as well.
+> So there's no way to investigate it. I suspect the only one who recalls it is the Headmaster.
+> The criminal who, even if only briefly, incurred a loss on all magi in the Clock Tower has literally been "unpersoned".
+> However, the document detailing this incident does say that there was one survivor...
+> Given the circumstances, this survivor was probably the instructor's son. He was 10 years old at the time. His whereabouts are of course unknown after this.
+> A few months after the incident, a prodigy with no history at all suddenly appeared at the Department of Lore on the Headmaster's recommendation.
+> This was Daybit Sem Void, and though his age at the time is unknown, it is stated that his physical body was at the age of 10.
+> My conjecture is that this boy who lost his father through this Angelic Artifact was, in fact, Daybit.
+
+This freaks Gordolf out a bit. Angelic Artifacts are actually kinda insane. He describes them as objects of the type where "a single glance is enough to drive you insane". Some theorize that they vaporize your brain and turn them into a receiver capable of picking up on the signals sent out by the beings who originally dropped the artifact off on Earth. In other words, that's what Daybit would have become. In Kirschtaria's own words: "We're missing something about Daybit Sem Void. The way he thinks and acts is different from how mankind does, and always was." Then, as the receiver for an alien being, was he the pawn of the Alien God all along? Unfortunately, there's no time to consider this possibility right now, as they reach their destination, and have to set up all the traps.
+
+**--- Section 2 ---**
+
+Daybit, Tezca, and Izcalli come driving into the desert in a cool car. There's a sandstorm raging around them that wasn't here last Daybit passed through. He immediately blames Tezca for it (as he should), but the latter concludes it must be Camazotz' doing, using his Command Spells to mess with the Underworlds via Servants. Tezca did pawn them off to him, but he didn't expect him to go so hard on the "Master" thing. Daybit chews him out a bit more, then asks for Tezca's opinion on Camazotz. Tezca says Camazotz is definitely the hottest shit in all the land, even stronger than Tezca himself in this Lostbelt. He also believes that once he's done playing with the Command Spells is when he'll finally show his true form. Daybit considers that an opportunity to pass Chaldea, and that they'll now only really have to worry about Kukulkan catching them. Tezca offers to sacrifice himself if it comes to that, considering their history, even if she's an imitation made by Malla.
+
+All the while, Izcalli is just sitting quietly in the backseat. He's worried about where Tlaloc might have disappeared too, but Tezca thinks she's already served her purpose. The only reason he summoned her was so she could create a truly PHH city for the Ocelomeh. Although he called it Mexico City, its past name would actually have been Metztliapan, the Lake of the Moon; the Floating City, capital of the Aztec kingdom, in which they worshipped two gods. Izcalli seems to sink even further into thought, but there's no time to dwell, as explosions appear all around the car.
+
+Daybit drives around them like some kind of stunt pro (saying he learned that in a "remote course"), and they make it out of the minefield unscathed. There to greet them is Koyanskaya.
+
+**Koyanskaya:**
+
+> ---Welcome, welcome, to my very own Takamagahara. I've been expecting you, war-god.
+> I am pleased to inform you that this minefield is naught but the opening stanza of the opening act, with but enough gunpowder for one of my little fingers.
+> If I'm allowed both Kadoc and Gordolf's magical energy paths, then this is how it turns out.
+> Transfigured before thee stands the Deity of Weaponry, Ikusautsuwa-no-Okami. Allow me to be frank. This will be your burial ground.
+
+Tezca is certain he'll lose if he takes her on the way she is right now, and so Daybit tells him to take Izcalli and proceed to the bottom layer. As long as they make it, it's fine. So they jump out of the car and get a headstart, while Daybit appears to be driving straight towards Koyan in a suicide attack. His enemy is obviously bewildered. What kind of Master does this sort of thing to allow his Servant to escape? It should be the other way around. That's how it would be for any normal person.
+
+**Daybit:**
+
+> "What a normal human would do" is not something I thought I'd hear from you, who had such a good time imitating an Apostle of the Alien God.
+> Though I suppose you're on Chaldea's side now. Even if it's only a temporary contract, Kadoc sure has taken to drastic measures.
+> Providing magical energy to a Beast Candidate, and through two paths at that. Not a new realization---
+> But you mankind never have it easy, do you? And no matter how dangerous it may be, you'll do what you can.
+> Even fully aware of whatever consequences it may bring.
+
+He approaches quickly, and Gordolf is itching to fire up the Border to get them out of there, but Kadoc tells him to sit down for just a minute. He wasn't expecting a simple minefield to stop Daybit, so Koyanskaya is their actual trump card. Right now, she's not only taking in all the magical energy of both Kadoc and Gordolf, but also of all the equipment in the Shadow Border. In this state, she is a Divine Spirit of the highest order. As Daybit draws near, Koyanskaya obliterates the car without as much as a sweat. Now they've surely won. There's no way a single mage without a Servant can stand up to her like this, and they'll be able to use Kadoc's beast-hunting magecraft to track down Tezcatlipoca quickly.
+
+Except, something's not quite right. The instruments are going haywire. Whatever is out there in the smoke and debris of the exploding car, the measured value of the Human Order Foundation is showing strange fluctuations.
+
+**--- Section 3 ---**
+
+Back with Gudao and co, you've made it to the fourth Underworld. It's quite nice-looking, with glimmering metals and whatnot, almost like it's emulating the night sky. It's obvious enough that your goal here should be to make it to the "summit" of inside the mountain. Although the path looks treacherous, Wak Chan doesn't think it'd be a problem, but actually, as it turns out, there are tons of ghosts at the bottom of the cliff who will drag you down forever if you fall. To remedy this, you form a line with Mashu and Habetrot in the front (which helps since Habetrot can levitate for a short while to help anyone who slips), and Wak Chan at the back so no enemies can get through for a sneak attack.
+
+Da Vinci starts talking about how this Underworld probably corresponds to PHH's Teyollocualoyan, which is the seventh level there, where starved beasts live, and those of the dead who lose their footing on the path forward are attacked by a jaguar who devours their heart. This jaguar, by the way, is said to be Tezcatlipoca's tonal (aka an animal with which he's spiritually linked), and it's also said to be as massive as a mountain. Thankfully for you though, since Mictlan's equivalent layer is the lair of Camazotz, the similarities probably end at "you'll fight a big scary thing". That'll probably also be the requirement to overcome this Underworld.
+
+You make sure to check out the goods you got from Daybit beforehand this time: you've got bat repellant and raincoats left. Actually, the raincoats are made of alumite and are actually basically spacesuits. Da Vinci quickly realizes it's because there are cosmic rays all over the place here coming from the lowest layer, so you should put it on quickly to not straight up die from radiation. Mashu takes charge and actually forcefully changes your clothes in 0.7 seconds, so that's something. The bat repellant is also working to keep the super bats living in this mountain off you, but big doubt it'll work on Camazotz.
+
+Speak of the devil, Camazotz appears behind Wak Chan without anyone really noticing, thinking it quite funny you're having a little race with the Crypter. In fact, he's not gonna be unreasonable. If your goal is ORT, then he won't meddle with you. You're glad to hear it, before you suddenly realize Camazotz is literally right behind you, and everyone freaks out. He has a hearty laugh at how utterly naive you are in regards to your enemy's power. In this sense, you are no more than laughing-stock, so really, why should he let you go?
+
+**Camazotz:**
+
+> I am more than willing to deliver you to hell rather than to the underworld.
+> Behold me! Behold my battle! Behold he in which dwells the ferocious blood of those sacrificed at Mictlan's sunset!
+> And now! The time to grovel in reverence before me has come! Grovel before the wellspring of death! Before the King of the Underworld---
+> Before the magnanimous wings in which your fates rest! Grovel before CAMAZOTZ!
+
+He summons a bunch of Ka'an skeleton soldiers for you all to fight.
+
+**--- Section 4 ---**
+
+You defeat his goons, and so he'll offer you a "shortcut" if you want it. After all, your chances of staying ahead of Daybit grow more and more slim the longer you fight Camazotz, and as per his covenant with Daybit, he can't help fight him either. His sole condition for this shortcut is simple: he wants the purple-haired woman. You get to go on without being killed by Camazotz, and he gives up on his dream of becoming mankind's last Master.
+
+**Camazotz:**
+
+> To give up on one's dream is most heart-wrenching. To replace one's dream is most fruitless.
+> You of mankind ought understand the depth of such tremendous sorrow. Show some sympathy. And you may take my word for it.
+> The king deals not in falsehood.
+> If the enemy capitulates, they cannot spill blood, and so, Camazotz shall not desire any.
+> Now, give me your answer. Will you hand her over and avoid bloodshed? Or will you not, and let blood run?
+
+Of course, you refuse, since you cannot just hand over a friend like that. Camazotz hears your answer, and so he shall take, and he shall spill blood, and the woman will be his regardless. You will not reach ORT. You will fall to the bottom of this ravine, and be immersed in a wellspring of death. However, before he can go any further, you actually interject with a single question: "is it true you defeated ORT?"
+Camazotz wonders where you heard that? Was it from Malla? Or from Kukulkan or Ixquic? It doesn't really matter, as the answer is the same.
+
+**Camazotz:**
+
+> Such a question is a challenge to Camazotz. Such a question is an outrageous slight toward the Ka'an.
+> As such...
+> Outrageousness shall be answered by outrage. Were you not prepared for that, never would your words have been so firm.
+> Did Camazotz defeat ORT? Could Camazotz have defeated that planet-eating monster?
+> Hah... hahah... Ahahahahaha! Absolutely! Slaughter and defeat it I did!
+> I held nothing back as I slew the cataclysm that had consumed the Cosmic Tree Ceiba, and was encroaching upon Mictlan.
+> I threw it into the lava, and with my claws, I flayed open its chest, before I gouged out its bizarre entrails, and so fashioned it a lifeless cadaver.
+> And if so be it that you do not believe me, I will demonstrate it to you first-hand.
+
+Something happens. Camazotz turns. His Saint Graph reading spikes, but not in quality, but rather in quantity. It reads 100,000 then 1,000,000 then 100,000,000! This goes beyond any case of having multiple Saint Graphs you've ever even imagined.
+
+**Camazotz:**
+
+> Priest of Chaldea. Your name matters not to me, but I did feel a sense of kinship with you.
+> It appears you are mankind's last Master. I can very much relate to such feelings.
+> No, not anymore... I have forgotten them. There was no need for them in battle. There was no need for them in a king.
+> Feelings are not needed for mankind's final warrior.
+> ---Speak of my name. I am the Champion of the Ka'an. The Spider-Slaying Bat. The King Who Forsook His Crown.
+> Yet also...the weakling who could not save his world other than by sacrificing every last of his subjects.
+
+Mashu confirms what is happening. His Saint Graph pattern reads clearly: Beast.
+
+**Camazotz:**
+
+> Test it, if you will! The lifeblood of Camazotz!
+> Test Xibalba, the depths of hell upon which the people of Ka'an were burned, and the pith of its horror!
+
+
+(The intro cutscene says "Evil of Humanity", but the sin he represents is not visible at this moment. In battle, the Beast class icon is all messed up here and seemingly no dot filled, and his name reads "Beast I", with the "I" also being weird and kinda twisted.)
+
+You try fighting him, but it doesn't go great. You then detect a swarm of bats appearing close to you, which neither repellant or light seems to get rid of. Your only choice is to scatter them with the Black Barrel. You adjust the output to not overdo it, and you fire away. Once you get your bearings, the bats are gone, but so is Camazotz. Tepeu mentions that within all the commotion, he could hear large wings taking off, so perhaps Camazotz went to the summit. Actually, now that you think about it, something's missing. Or someone, rather: Nitocris. In the middle of it all, Camazotz had swept in and snatched his prey.
+
+**--- Section 5 ---**
+
+We see a flashback to Nitocris' past, just when she had cornered the priests who killed her brothers, and is about to take their lives in retaliation. She harbors no forgiveness for them. How could she possibly, after what they did? The priests say it was their doing that put her on the throne to begin with, but she states that everything she's done she did for the sake of this moment. For the sake of the day where she could send them all to their graves. She cast off dignity, her very being, her body, her will, all so they would mistake her for someone they could freely manipulate, and so they would walk into her trap. She had baited them here with offerings, but she cannot possibly imagine what they thought she would have for them here. A revelry of debauchery? A treasure of gold? Or perhaps it was a taste of her body they wanted? Nevertheless, they will all meet their end here, by her hand. For the insolence of plotting against Pharaohs, they will all die. She shall not send them to the land of eternity, but they can rest easy, because neither is she. She is coming with them, so that she may ensnare them even in death; that she may lay opn them neverending suffering.
+
+The flashback ends, moving into a monologue from Nitocris.
+
+> Yes. I have no regrets. I completed my revenge, restored the prestige of the Pharaohs, and then took my own life.
+> Deceased Pharaohs set out on a journey toward a paradise without suffering. I had that right. I had the authority to achieve it.
+> And yet, I did not make such arrangements. I thought myself lacking of that right.
+> My fury. Never did I forget it. My hatred. Never did I forget it.
+> And I...could never forget my sins.
+> No matter how righteous, no matter how justified it might have been... I believed that I must never forget the sins that I had committed.
+
+Nitocris awakens, confused at her whereabouts. She soon spots Camazotz, who is gorging himself on an Ocelotl. Though they may be apes, it seems something has given them more flavor, recently.
+
+Camazotz reveals that the reason he brought Nitocris here was actually out of habit, more than anything else. The first three (Kingprotea, Beni-Enma, Ereshkigal) were all Servants with a scent of the underworld, so he had found joy in abducting them, using his Command Spells on them, and turning them into Watchers of the Underworlds. By impulse, he had chosen Nitocris for the same reason, but he had forgotten he'd already used up all his Command Spells. As such, there's no use for her, and there was no point in him taking her away. In other words, now she is nothing more than a mere captive, all as a result of the impulse Camazotz feels.
+
+She thinks he might live purely on impulse, asking if it was impulse that made him save them from Tlaloc back then, considering he had no real reason to fight then either. His answer is that at that point, he felt something unpleasant emenating from Nitocris; wavelengths grating at his ears. In fact, she emenates much the same thing right now. Nitocris asks what he means, but he becomes suddenly quiet for a moment. Once he speaks again, he has seemingly changed the topic completely. Only fools waste their time, and Camazotz is no fool, so he would have Nitocris answer a question of his to rid him of his doubts.
+
+**Camazotz:**
+
+> Why is it that you cannot forget? Why is it that after the deed was done, you took your own life?
+
+Nitocris is taken aback, as she definitely never told him about this. It's not so strange, though. He has very good ears, and the Ka'an ruins are not far from Chichen Itza. Ever since he heard of this, part of him has constantly been thinking about it, and so he demands an answer.
+
+**Camazotz:**
+
+> You succeeded in your revenge. The liberation after your vengeance ought have been the remuneration for your life.
+> And in spite of it all, you took your own life. You chose to not go to whatever passed for your paradise.
+> The question has been gnawing at me. To deny oneself rightly deserved salvation after overcoming such toil! Then for what did you squander your life?
+
+Nitocris tries to reiterate that she never had time to make preparations for her journey to paradise, but Camazotz calls the blatant lie. After she killed those priests, she should have had all the time in the world, as a ruler without a single enemy. Neither could it have really been for the sake of making those priests suffer for eternity either, because the underworld itself would have taken care of that. It is more likely that she never had any intention of leaving for paradise in the first place. What Camazotz wants to know is why that was. Was it perhaps because, despite her having all the justification and authority in the world to do what she did, she actually considers herself the most sinful of all?
+
+Nitocris remains silent, avoiding having to answer the question. Thus, Camazotz takes her silence as affirmation, laughing it up. All her life she lived as an avenger, and her revenge was a complete success. And yet, she renounced that part of herself, setting herself up for judgement as a sinner. He thinks there could be no woman more foolish. Rather than taking the path towards godhood, she would martyr herself for her own beliefs. With this, Camazotz' curiosity is sated, but Nitocris thinks it unfair only her past is to be probed, and so it's her turn to ask the questions now. Camazotz claims to be the king of the Underworld, or even the true king of Mictlan, so then how does he feel aobut its imminent destruction? Won't he also perish alongside the sun going out?
+
+**Camazotz:**
+
+> Even with the sun gone, Camazotz will remain. Mictlan is the only thing which will meet its end.
+> The deinos will accept their extinction, just as they once did before.
+> But I will not. I will not be extinguished. Even with the sun gone, I can live on with nothing but the heat of the earth.
+> That is how the Ka'an lived for 100,000 years. That's how long it took them to go from their beginning as mammals into man.
+> 100,000 years worth of history and dreams forged this body. And so, 6 million years have passed, but Camazotz lives on.
+> The Authority held by the king is "Imperishability". This is the only weapon Camazotz possesses.
+> And that will never change, even after this.
+> Whether the sun disappears, or the planet is shattered by ORT...
+> If I forget all of the past, nothing will remain of it.
+> The present will continue on forever, without any pain, sorrow, or any trace of me.
+
+Once more, Nitocris is taken aback. To forget everything...to not grant oneself a single thing...
+Camazotz thinks that's more than enough. He tells her that should she leave the summit, he will kill her, but should she stay, he will not. He has no wish for her to fulfill, so she is basically free. However, there is one condition to this: under no circumstances is she to become an Alter. He believes there could be nothing more vile than that, and he wishes not to look upon a Nitocris that is not truly her.
+
+Nitocris thinks him stupid. The rest of Chaldea will surely arrive soon, and letting her go just means increasing the enemies for Camazotz. However, he thinks you couldn't possibly be so stupid that you'd go up against him again. Let alone for a single Servant. But Nitocris is so certain, she offers a bet. Camazotz claims it's not much of a bet when he is already sure to win, but he might as well take her up on it in that case. He is actually the one who puts up the wagers: if Chaldea flees Mictlan, as they will, then Nitocris shall speak her name to Camazotz, and offer herself up to her king; if they come to challenge him, then he shall give her his Underworld, and she might return as queen once more. Nitocris quickly agrees, and good thing that, because obviously right after this, Gudao and company arrives on the scene.
+
+**Camazotz:**
+
+> Refuse to ever give in, and you fear to never show respect. I could think of nothing more pitiful than a champion who has nobody to rein him in.
+> Yet I shall welcome him. I shall slaughter him. Let the sun of my lifeblood rise upon the peak of the Fourth Underworld!
+> Priest of Chaldea. It has been a quite the journey, for the both of us.
+> Once I have severed your head, and bathed in the deluge of your blood, the entertainment will become part of the past, and so be forgotten.
+> The thought tears at my heart. As such, allow me a show of gratitude.
+> Daybit is a mirror image. The more numerous the enemy, the more shadows he calls forth.
+> Is it conveyed? Then let the supper begin!
+> The blood of champions upon the altar! The party of Human Order into the grave!
+> The time has come for thee to kill thy brethren human history!
+
+**--- Section 6 ---**
+
+You try fighting him again, but once more you're unable to defeat him. As the representative of the human history of Mictlan, he's just too strong for you to beat. As long as that remains his duty, and his curse, there's nothing you can do. He will remain imperishable; his final weapon against the planet-eating monster. Nitocris starts thinking to herself about the words he spoke earlier, about how she never had any intention of heading for paradise in the first place. She finally admits that he was right. She considered that even though the priests were bad men, killing them outside the scope of the law is very much a sin. And sins are to be punished. Mistakes are to be atoned for. As such, if her act there was a sin, she thus took her own life. Instead of protecting her chance at entering paradise, she protected her own heart.
+
+She thinks back on her conversation with Ixquic, and now we get to hear it too. Ixquic tells her that an Alter is one who has renounced the core of their Saint Graph. It is for a saint to renounce their sainthood; for a warrior unwilling to become king to become the very king they hated; for a Heroic Spirit to betray their belifs and their lives, of their own volition.
+
+**Ixquic:**
+
+> Kingprotea abandoned the love and adoration she held for humanity, and became a cruel and heartless goddess.
+> Beni-Enma abandoned her vow to remain the children's tale she was, and became an adult.
+> Ereshkigal abandoned her dream of making the underworld into a land of beauty, and became a ruthless goddess.
+
+Nitocris is unsure what it is she's meant to renounce then, but Ixquic can't tell her that, only she can figure that out. However, she says, Nitocris' legend is one not very compatible with Mictlan. Compared to the other Servants, she will have to pay a much steeper price. No doubt, it will prove a point of no return for her. Nitocris thus thought long and hard about this, and arrived at a conclusion.
+
+**Nitocris:**
+
+> I know what it is I have to betray. And also, what offering it is I have to give up to this world.
+> Our underworld is one where the offering is to measure the weight of one's sins after death. The Aztec world is one where it is offered to the gods.
+> "When in Rome, do as the Romans do", wasn't it? I cannot imagine a betrayal greater than this.
+> So much so, that I do not know how long it will be before I can look the many other esteemed Pharaohs in the face again...
+
+**Camazotz:**
+
+> Stop it! Stop, stop, stop!
+> I said I shall not look! Were Camazotz's words forgotten!?
+> Your heart and your pride are not something to be offered up to any other!
+> They are what you offered to yourself! They are what signify your dignity!
+> O, woman. You fierce, tragic woman. Become not some tribute to the gods! Live not for the sake of some other!
+> No further---reduce not your life to ashes any further...!
+
+**Nitocris:**
+
+> I see now... I understand the reason why you impulsively saved me.
+> You've lived on all this time by forgetting all there is to forget, and by granting yourself not a single thing.
+> You kept yourself in control by making sure to never recall the past, so that you would never wish to take your own life.
+> You imposed upon yourself the punishment of undying perpetuity, all in order for your lost human history to be kept safe.
+
+Camazotz refuses to hear this. Nothing could be more foolish. To forget is nothing but trouble, and all that matters is that he remains. This kingly body of his was forged by the Ka'an people offering up their selves. There is no room for a single shred of regret in him. And if that's the case, Nitocris says, she shall offer herself up as well.
+
+**Nitocris:**
+
+> The heart that upon my death is to be measured for my sins, I need no longer!
+> O Anubis, God of the Netherworld, bring judgment upon my soul.
+> Henceforth, I am no Incarnation of the Sky God. I am the one who has embraced vengeance, the manifestation of the one who metes out divine punishment, the God of the Netherworld.
+> ---Neferu Suen Anubis. The Alter of Queen Nitocris.
+
+Naturally, she shall accept the prize from their bet too. This Underworld is now fully her domain, and as such she is quick to enact a new decree: "Those who find themselves in this Underworld are forbidden from forgetting anything". Now, you are ready for battle with the King of Bats, the undying warrior who fled punishment six million years ago. As atonement, Nitocris Alter shall grant him a fitting end.
+
+::: tip TL Note
+(Now we see the sin he represents: Oblivion (忘却). To give some TM context on this if you're not aware, this is a term that comes up in KnK, where it's roughly described as follows, though paraphrased: It is things such as sin, taboo, regret - nothing more than a negative in the intelligence cycle. Oblivion does not come about from memory organization, but it comes from malignant information that is contradictive to the continued survival of humans, causing it to be "intentionally" forgotten. People are able to lead healthy lives by forgetting the inconvenient truths that make up this malignant information.
+
+In other words, it's very much the philosophical idea that says we as human beings need to ignore the obvious facts of life which would otherwise hurt our continued existence as "conscious beings", and here it's taken to the extreme. In that sense, I guess Camazotz represents it truly in the sense of "Beasts are that which humanity must overcome", because it shows how twisted he becomes when it is taken that far, and we let it spiral.
+
+Also might be interesting to consider the connection between oblivion (the accumulation of malignant information) and the Avenger class being born from this concept, even having a resistance to it via the class skill Oblivion Correction.
+
+I also want to point out here that if you look at the FGO wiki, you'll see that under this battle they list him as "Beast I:L", where L stands for "Lost". As far as I remember, this is not shown in game anywhere, and it's just an assumption that he would count as it due to him not being part of the actual "PHH Beast set", sort of like how Koyan was. The difference of course is that for Koyan it was explicitly stated she was a Lost Beast, and here it hasn't been. While it doesn't make much difference, just know the wiki didn't actually take it from the source.)
+:::
+
+You haven't managed to fully neutralize the Beast, but at least you technically beat it this time. Before you can really finish him off, though, Nitocris returns to her normal self, and appears to have fallen unconscious. Since she was hovering over the ravine, she is now in danger of falling right down there, so you beg Wak Chan to get her, but before he can do anything, Camazotz uses his last remaining strength to catch Nitocris in his arms, and swoops downwards from the cliff. Except, to your surprise, the way he looked just now was as if he was defending her.
+
+**???:**
+
+> I was hasty to say that "there could be nothing more foolish". Consequently, I can no longer describe this as above it in foolishness.
+> Pulling out one's own heart is something not even I would dare do. The pain scares me.
+> Queen... I shall correct you on one thing. Whomever may die, I never grieve.
+> A million of my people stood at the precipice of our species' extinction. Tears of sadness, and of happiness. Cries of lamentation, and of exaltation.
+> Crying families threw themselves into the crucible, begging me to not let us die. Laughing warriors threw themselves into the crucible, imploring me to save us all.
+> At the bottom of that crucible, with a body that amounted to no more than a limbless piece of flesh, I had to watch it all unfold.
+> My mind was at ease. "Another one dead" was about the extent of my reactions.
+> Their deaths were their lives.
+> Even with the lives being offered up to me before my very eyes, that was no different from what had played out before me in the life I'd had up until then.
+> It was always the same. Be they parents, wives, or friends---no matter who died, grief never came to me.
+> And yet...I was someone who would shed tears to tales of fiction...
+> Truly, no matter who died, I never felt the weight of my sins.
+> I was indifferent both to the deaths of others, and to the death of myself. And that is why I became king.
+> ---All while wondering... truly, what am I to do so that I may shed tears like a human would?
+> A strange tale, is it not? That someone like that would worry themselves over a single woman.
+> Ahhh... Still, to remember...is a good thing.
+> The time that has passed is now before my eyes. The things that I have lost are brought back in all of their beauty, over and over and over again.
+> ---I understand now.
+> ---It may not be forever...
+> ---But I suppose this is what it means to live on after one's passing.
+
+You make it safely down to the bottom, and find where Nitocris lies. It appears that she is perfectly safe still. She says she woke up mid-fall and landed safely, which is good and all, but you mostly wonder where Camazotz went. However, when she woke up, he was already gone. Or rather, she believes you killed him up at the top already. Tepeu confirms he cannot hear Camazotz' wings anymore, and the bats that filled this mountain also appear to be gone. The greatest threat in Mictlan, the God of Death, Camazotz, has apparently been slain.
+
+Nitocris looks sad at first, but is quick to congratulate you all. After all, even if he was limited to the influence of mankind within Mictlan, he was still a Beast. Da Vinci says it's all thanks to Nitocris becoming an Alter, but also asks why it was so short-lived. Well, turns out that taking Anubis into one's body is something not even Nitocris could endure outside of an Underworld, so it's pretty taxing. You think to yourself that you never wanted her to do something like that, but you can't very well say it to her face, so you only thank her for helping.
+
+Elsewhere, Vucub has "broken" out of prison, since there's no one left in the city at all. He ruminates on the pointlessness of deinos and their intellect and power when they don't use it to protect this world. This world will end, but the deinos ignores it. An intellect that never compares itself to others can never walk the path of progress. Not even time matters to them, but it does to Vucub, who is of a much shorter-lived species. As such, he will survive, and he will innovate. He will go to Mexico City to take the position prepared for him by Izcalli, and he'll do whatever it takes to live on.
+
+## Chapter 18: City By the Water (Aztlan/Calakmul) 
+
+You've reached the end of Mictlan. Before you sits what looks like the Fantasy Tree, except it's...empty. Much like Britain's tree, it's been dessicated. Despite that, Mictlan remains as a Lostbelt, so it's not quite the same. In Britain, Morgan had to turn the land into a Lostworld to get around not having a tree, but Ixquic told you Mictlan has stayed a Lostbelt this entire time, so most likely there exists something else keeping it here, somewhere else? Maybe a different tree? You'll probably find out when you reach the bottom.
+
+You contact the Border one last time while you still can, since the radiation is interfering quite heavily with communications. Sion reports that it's been 14 hours since you departed, which means the Border's engines came online again four hours ago, and it'll be another four until the weapons and equipment are at a usable level (so 2 hours before schedule, actually). She continues by saying that they haven't been able to detect or track Daybit's group, and even worse, they lost contact with Kadoc's party four hours ago. That said, the Shadow Border is still emitting its signal, so she assumes they're just in a position where they can't really report back at the moment. Either way, you can't know for now whether Daybit and Tezca are still on their way, or if they already made it here during the four hours it took you to pass the fourth Underworld. As such, you can't afford to wait for Kadoc's party here, and have to keep heading down.
+
+Mashu is still feeling quite guilty about having to cull the tree and end this world, but Wak Chan is there to console her. He says that no one's really responsible for the end of the world in that sense. It's like how a gust of wind may cause a branch to fall off. If you treat the wind as a bad thing, then that would mean all the works of nature would be bad too. If you treat the branch as a bad thing, then you'd be overlooking the hard work it put in to grow tall. And then, if there was someone who could push aside the wind and kick away the branch, Wak Chan would just see them as someone amazing, even not knowing their circumstances. Living beings may be used to dealing with other living beings, even ones much larger than them, but it's a whole different matter when it comes to dealing with the world. At that point it's not about the individual anymore. Only a world can kill a world, or in other words, you can only kill a world if you've got another world on your side. Tepeu thinks for a second Wak Chan is actually referring to the Counter Force, but drops the prospect just as quickly.
+
+Anyway, you check on your Master status now that Camazotz has been defeated, and while you can still perform summonings, your actual right as a Master still hasn't returned. As such, it seems like you'll have to settle things with the one who traded you for them in the first place. Suddenly, you're beseiged by what appears to be numerous seeds from the Fantasy Tree, and you have to fight through them to reach the temple ahead. 
+
+**--- Section 2 ---**
+
+You manage to make it inside the temple, and luckily, it seems the seeds won't follow you in here. More importantly, the temperature in here is very high. Mictlan is already pretty hot, but even with your Mystic Code protecting you, it's insanely hot in here. Still, this looks like a remnant from the Ka'an, so humans once managed to live here. You ask Tepeu about this place, and while he doesn't know much, he shares what little he has. This place is called Calakmul, and it's where the humanoid mankind of Mictlan originated. This was their capital of sorts, from where they migrated to the higher layers as their civilization grew larger. However, they never had to move because the heat was unbearable. Rather, it was this heat that allowed them to prosper. Tepeu moves to a nearby wall and points to some murals that appear to tell a story. Based on these, it appears the Ka'an kingdom was one built on the use of geothermal energy. The mural also mentions Chiconahualóyan, so you decide to read all of it in case there's anything actually useful. For context, Chiconahualóyan is the lowest level of PHH Mictlan, where the souls of the dead were cleansed and freed. It was basically the "true Mictlan", and its equivalent is exactly where you're headed. You can't understand much of the Mural, but thankfully deinos brains are like supercomputers so it's not really an issue for Tepeu. 
+
+**Tepeu:**
+
+> In the beginning, the world had a tree.
+> The tree connected the land and the cosmos.
+> The cosmos it connected with invited a star.
+> The star shattered, the world burned, and the visitors who fell from the star became Malla and healed the land.
+> An age of peace began for the dragons, with neither natural enemies nor foreign enemies to speak of.
+> The era of the dragons continued on for 100 million years, and then the second star was invited---The star of the end.
+> Malla created a world beneath the land, and made themselves into a miniature sun.
+> Thus began Mictlan.
+
+It's just as Izquic said. Malla was a fibroid life form that came here 300 million years ago from another celestial object, fused with the plants on the surface, fixed the continents in place, and created a supercontinent. The star of the end in the mural would be ORT, who arrived on the later meteor. It was supposed to have wiped the dinosaurs out, but Malla gave them shelter in Mictlan. They then modified the genes of the dinosaurs and had them evolve into a new mankind, creating the deinos. Then, 6 million years ago, ORT would have awakened from its suspended animation, causing the sun to vanish, and Mictlan was pushed to the brink of collapse, before the deinos and ka'an teamed up to defeat it.
+
+Well, that's how it was told to you, but there's something that doesn't really make sense. You stare at the mural, and then Mashu notices it too (because Gudao can't be allowed to talk for that long). The order is in reverse. On the mural, ORT only emerged after the sun had gone dark, meaning Ixquic was wrong. ORT didn't extinguish the sun, it had already gone out by that point. Rather, it was only logical that the sun had reached the end of its natural lifespan. No matter how superior Malla was as a lifeform, they couldn't create a sun that could exist indefinitely. After 60 million years, it had to shut down, plunging Mictlan into darkness, and since deinos need sunlight to survive, they went into hybernation for 100,000 years. It was during this period, in a Mictlan without a prime species, that the Ka'an kingdom prospered. They were never under Malla's protection or the sun's blessing, so they created a civilization that relied on geothermal energy. Nitocris thinks back on what Camazotz said: even with the sun gone, he would live on. Mictlan might meet its end, and the deinos will accept their extinction as they did once already, but he will not. He will never be extinguished, and even with the sun gone he can live on with just the heat of the earth.
+
+This actually presents another twist: the deinos and Malla had nothing to do with stopping ORT at that point. In that world of darkness, only the Ka'an, or rather, one person from there, could fight to protect Mictlan. By their efforts, ORT was defeated, the sun returned to Mictlan, and when the deinos awoke, the kingdom of Ka'an was already gone. Or rather, it would be more accurate to say that the deinos never even got to witness Ka'an, since they were dormant for that whole period. In a sense, this can be said to be the sole myth in Mictlan, which makes Camazotz the denizen of a mythological world.
+
+Before you proceed, the final part of the mural has this to say:
+
+"The king uncovered the star of the end, and thus the star became a seedling of the cosmic tree."
+"Touch not the carcass of the star. For the carcass is already the cornerstone of Mictlan."
+"The star of the end itself is now a seedling of fantasy."
+
+In other words, ORT fused with the Fantasy Tree. Maybe it was driven into a corner by Camazotz and sought to use the Fantasy Tree as a source of energy, or maybe Camazotz used the tree as a means of cornering ORT. Either way, ORT is now fused with it, which explains the tree outside as well. What this means is simple. Your two goals have just become one and the same: annihilate ORT, and cull the Lostbelt.
+
+**--- Section 3 ---**
+
+You descend lower, and see a temple in the midst of lava. No wonder it's so freaking hot here. Basically, this would be the mantle layer of earth itself, except for some reason (probably whatever's under that temple), it's not as solid as the mantle should be. Mashu scans the place using SHEBA, and reports that the cave you're in right now is about 100 meters in height, and there's another 200 meter cavity under the temple. Needless to say, you need to get down there. Unfortunately, Wak Chan has to stay behind cuz he's just too darn big to make it across there. 
+
+You make it down to the temple in one piece, where you immediately run into two others: Tezcatlipoca and Izcalli. Tezca is surprised Daybit even foresaw you making it here at the same time as him, though he's surprised Camazotz didn't take out a single one of you. (I think Tezca actually implies here that using the Command Spells drained Camazotz of even his own energy, so we fought a way weaker version, but it's a bit unclear.) Izcalli simps some more for his god, and asks for the honor of eliminating you. Tezca lets him, saying if he hates PHH so much, he better vent all of that here and now. Having unfinished business won't be good for him. Also, surprise, turns out this is the place where Tlaloc was sent when spirited away by Camazotz. So actually, Izcalli won't get to fight you, because Tlaloc will do it again.
+
+Tlaloc is all covered in blood and wounds after Camazotz manhandled her, and she even had her blood sucked by him, causing her to be "tattered on the inside" even. However, this is where she was summoned, so her wounds will heal down here. In PHH, this would be the place called Aztlan, the land of origin. Tezca tells Tlaloc to cut the crap and show her true self. As long as she keeps hiding her true name, she'll never defeat you properly. He also lets slip that she was always stronger when fighting "for the humans", which Izcalli finds rather weird. He has been taught that gods exist to rule people, meaning if she doesn't do that, but fight for them... Well, Tezca won't reveal more to him for now. He'll take Izcalli to the coffin. Tlaloc can take care of you then go die or whatever.
+
+This will be your third fight against Tlaloc. First in the rainforest, second in Mexico City, and third in Chichen Itza. Not once did you truly win against her. You only evaded death through luck. She beseeches Tlaloc, god of rain, and Huitzilopochtli, god of war. Her Saint Graph becomes riddled with defensive concepts, and there's no way you'll be able to take her on like this. Considering you don't have time to find another way, Nitocris steps up. She'll vindicate herself here. She asks Da Vinci to take care of the rest, tells Mashu she's sorry for bowing out early, and asks Gudao to judge her fairly. She will show you the power of a Pharaoh who once took charge of her country.
+
+Tlaloc is tired of fighting Nitocris over and over, though. If she runs away now, she won't be chased. But Nitocris rejects the offer, calling Tlaloc as generous as a pig, and a despot at heart; avaricious and melancholic.
+
+**Nitocris:**
+
+> It was merely a rival's instinct that spurred your attempt to destroy the Storm Border as well.
+> You sensed that it was superior in both grace and practicality, which made you so eager to destroy it.
+> Any who do not submit to you or who seem greater than you are subjected to thorough criticism.
+> A small-minded creature, no, an artifice merely built small. Am I inaccurate, charlatan to Tlaloc's name?
+
+Tlaloc once again calls Nito out for speaking ill of a god, but Nitocris quickly stops her. This is all a farce. It's already plain to all that Tlaloc is no Divine Spirit. So why not just reveal her true name? Or would she prefer that Nitocris exposes her? Perhaps she's simply too obstinate to do so herself. But Tlaloc would be surprised if she even knew the name. Besides, only gods can judge other gods. Nitocris agrees, especially when it comes to false ones, so if a mere incarnation isn't enough, then she will simply offer up her heart once more. Nitocris assumes her Alter form once more, though this time with cuter, shorter hair.
+
+**Nitocris Alter:**
+
+> Scheme not, for it is blasphemous. No statements of fraud or deceitful forgeries can withstand my scales.
+> Thou art no worshipped god!
+> It is not for divine law, or for the Human Order, but for city-dwelling subjects that thou shed blood!
+> Thy True Name is all too clear! The Lake of the Moon, Metztliapan!
+> Nay, there is a name better suited to thy appearance! The cradle for holy ground, Tenochtitlan!
+> The most prosperous waterside city of Mesoamerica, and enshrined with two gods!
+
+Tlaloc, or should I say, Tenochtitlan's Saint Graph finally stabilizes. Nitocris was right in her guess. After all, nothing goes unseen before her golden eyes. Now, at last, you're ready to fight properly. 
+
+(Obviously, this is where her true name is revealed even for her profile. And yes, she's literally a city made into a Servant.)
+
+You beat up a literal city, and as she's expecting the death blow to come...it never does. Nitocris Alter says she has no need for Tenochtitlan's heart, as she's of the living, nor is she returning the favor of being spared by her before. The only way for Tenochtitlan to make up for what she's done is to be broken thoroughly, but...now that she's sure she didn't overdo it, Nitocris relinquishes her Alter form once more. Once that happens, she begins to disappear as well. It's surprising she made it this far to begin with, but like she said before, she can only become an Alter in the Underworlds, and this is the result of doing it outside. It's unfortunate that the current her has to disappear here, but she doesn't regret it, even if it means Pharaoh Nitocris will no longer be summonable by Chaldea.
+
+Tenochtitlan really doesn't understand what about this was worth sacrificing so much for. You could've killed her, but you didn't. At this point, she's so humiliated that she really wishes you would've. Nitocris puts it forward as feeling a sort of kinship, even if it's to a miserable, stubborn, and melancholic being like Tenochtitlan. She's a queen who only fought for her own vengeance, and was praised by some for her courage and wisdom, but she considered it all proof of her own folly.
+
+**Nitocris:**
+
+> It all happened too late. Those who I wanted to protect were already lost.
+> I didn't realize that the time to show courage and wisdom had long since passed me by.
+> However weak I was, I should have fought to protect my brothers rather than fight to kill the priests who had already slain them.
+> Whatever scars formed on my soul from punishing myself after the fact did nothing to change my regrets.
+> The way you so reluctantly fought reminded me of myself back then, before I lost my brothers.
+> So---while this is a self-serving wish, one only ever meant for my own salvation, I hope it finds its way into your heart.
+> When you should fight, and whom you should fight. Don't deceive yourself when you know the answers to those questions.
+> You promised to shed blood for your people, did you not, beautiful city incarnate?
+> Doesn't some regret still linger in that heart of yours?
+
+With those words, she disappears. Likely, even the original stored at the Border will have been affected as well. No time to dwell on it, though, because the battle made the bridge start to collapse, so you have to hurry towards the temple. 
+
+## Chapter 19: The Cosmic Tree 
+
+Tezcatlipoca and Izcalli have made it down to the "coffin". It's been a year since Tezca was last here, but now he's almost fully healed ORT, who will bore through the entire world and shatter the planet. Izcalli doesn't really get it, and asks if the "weapon" Tezca is after is within this place, but Tezca corrects him and says it's more like it's below them. The hole before them is something Camazotz gouged out of the earth, and the part they're standing on right now is actually part of ORT. In human terms, it's the cranium. The hole, on the other hand, leads straight to its heart. The tree in the background is the Fantasy Tree of this Lostbelt, Quasar. Tezca then recaps the same thing about ORT eating the Fantasy Tree and taking over its function that you already learned before.
+
+Izcalli still doesn't really get how an "imperishable being" can be dead, so Tezca has to explain that too. No matter what kind of lifeform you are, if you lose your vital organs, you'll die. The difference for ORT is what happens after that. It doesn't really have a "biological death", per se. He brings up an example of losing organs or limbs, and how you can technically replace them to get back to "how it was", but in the case of humans, if you cease "activity", then it doesn't matter what part you replace, because you can't come back. "Ceasing to function" even once means organic life ends.
+On the other hand, you have machines, who lack this aspect. Even if you disconnect them, or disassemble them or whatever, they can go back to how they were. To Tezca, living vs machine isn't about natural vs artificial or intelligence vs non-intelligence; it's about whether you reach the final end from just dying once.
+
+Life is something that can die. If it can die, it would be correct to call it alive even if it was a machine (see KnK), but undeath isn't part of this deal. If something refuses to die, it's closer to a phenomenon than it is to life. That's kinda what ORT is: something closer to a phenomenon. As long as its "shape" remains, it'll eventually come back to "life" over and over. What's even scarier is that ORT can repair itself automatically. It doesn't matter what part of him gets blown off, all the cells in its body are equally unimportant parts. Every single cell possesses every one of its functions, and so no matter what, it'll restore itself. The only reason it remains inactive in Mictlan is because Malla actively tricked it into thinking it was already healed or something. Whether they do anything here, it will eventually reactivate on its own, but Daybit's plan is that they would tamper with it before that happens. See, if ORT wakes up on its own, it's just gonna wreak havoc for a bit and then fly off. That's no good. What they are planning to do is to give it a simple "order", and this is the whole purpose of Izcalli: to be raised as a Tezcatlipoca, become a god, and then be sacrificed to ORT.
+
+Something falls from above. It's the arm of Tlaloc (in her city mecha form). Tezca has to wonder how you possibly made this outcome happen. Turns out you actually fell down alongside the arm, and it like softened your landing or something, I don't know. Basically, Tenochtitlan saved you all from a hundred meter drop. She of course says she was just trying to keep herself safe, though. Regardless, Da Vinci points out that Tenochtitlan's body is reaching its limit, so no matter whether she wants to remain an ally or enemy, she should just not move for a while.
+
+Anyway, you're now also at ORT's "coffin", the same thing you saw in your vision at Metztitlán. Tezca asks what profit she sees in saving Chaldea, and since she cannot give an answer, he decides he simply has to cut ties with her from now on. More specifically, he's about to put her down right there and then, but Izcalli stops him, begging him to reconsider. By the way, it doesn't come through in the summaries but the whole story Izcalli refers to Tezca as one would a god, but that goes away here, and he addresses much more casually in comparison. Anyway, Izcalli's reason for stopping him is that Tlaloc (the name he uses, since he presumably doesn't know the true name) is Mexico City's and the Ocelomeh's patron god, so she would never save the PHH invaders. Tezca explains that's bullcrap, since she never even once looked at the Ocelomeh. That woman is a PHH heroic spirit to the bone; someone who would never side with the apes of Mictlan.
+
+Izcalli is finding this hard to believe, but when told that she never even revealed her true name to him, he can't argue back anymore. Still, they have Chaldea to take care of now, and Izcalli, seemingly a lot more riled up than before, states that it is his responsibility, and only his, to do so. Tezca finds that he's dragging this out a bit, but humors Izcalli one last time. Since your last fight was so soon previously, you have to save energy, so this fight is just Mashu and Habetrot. Izcalli talks shit about how he wanted to kill you in Mexico City and in Chichen Itza but didn't get the chance, so he'll do it now and become a true Tezcatlipoca. He says there's no need for you here, and you will perish, still ignorant of your own foolishness. To this, you ask him the obvious question if that means he's aware of his own foolishness, which gets him a bit further pumped.
+
+Both times you've fought him, you were focused on saving your allies. This time, you'll be fully focused on taking him on. He recognizes the fighting spirit in you, and understands. If he brings this monster back to life, he'll have become the invader who destroys your world. But so what? There's nothing he would want from PHH anyway. You stop, and ask him if that's true, considering he's also from PHH. He doesn't really get why you would think he is. Is it just because he looks like you? Or because he knows your language? Or because he acts the same as you? Even so, what's the point? The same species killing each other in PHH is just the normal course. He'll prove here and now which creatures harbor the most hate for their enemies.
+
+**--- Section 2 ---**
+
+You beat Izcalli, quite easily actually. It seems his previous bloodlust is gone. Tezca says playtime's over, and a black smoke starts enveloping the area. The deino hearts they've collected will have restored ORT's body parts, but it still needs the order, and the ignition to the ending. Izcalli approaches the hole, but stops. He can't do it, and he doesn't even know why. He doesn't want to revive ORT, because he feels like that shouldn't be allowed to happen. He begs Tezcatlipoca to reconsider once more. He doesn't care if PHH is destroyed, but there shouldn't be a need to destroy the planet or Mictlan too. He finally sees that Tezca's objective is not for them to be victorious. His divine character is that of destruction and rebirth, so once PHH is gone it would only makes sense that the age of Ocelomeh followed, fulfilling both, but that's obviously not what's happening here. Tezca didn't imagine he'd come all the way down here to be lectured, so he starts dropping some truths on Izcalli.
+
+**Tezcatlipoca:**
+
+> Izcalli---actually, Moctezuma. The king that ruined the Aztecs in Pan-Human History.
+> Had my doubts about the end of your era. Like how whether to start it anew was all that correct a decision.
+> So the one way to determine this was to give you another shot.
+> Call it pity, if you wanna be blunt. What choices would the betrayed soul make when given a second chance?
+> And you did good over this one year.
+> Even if only in soul, you very much did overcome Tezcatlipoca's trials.
+> So if someone like that feels like they can't do it, I'm not gonna protest.
+> Even if I did raise you into a god's heart with great care, I'll give up on offering you to ORT.
+> If the sacrifice himself doesn't have the will to destroy the world, then that future won't be realized.
+
+**Izcalli:**
+
+> Does that mean---
+
+**Tezcatlipoca:**
+
+> Yeah, see ya.
+
+A single bullet. Right in the head. Those are the rules: if you wanna reprimand a god, do so with your life on the line. As if nothing happened, Tezca turns to you, saying he has a favor to ask. Since his last product fell off, he figures the heart of someone who has erased six Lostbelts should do the trick as sacrifice. You're used to destroying worlds, so ORT will probably take kindly to it. You ask why he killed Izcalli, but he just says it was a waste of time. He gave up his right lung for Izcalli to exist, which is quite costly considering he's in a human body right now. Well, either way Izcalli would've been dead in a few minutes no matter what happened. Now, you should have had time enough to rest, so it's time to fight Tezca instead.
+
+(This fight is basically identical to the previous one, except you take out more break bars.)
+
+As it turns out, you can't really do much to him (funny since you take out so many break bars in the battle). The black smoke surrounding you isn't just some sort of smokescreen, it's an Authority of probability manipulation. You can't hit him or anything. Hell, for all you know, even if you beat him he might have manipulated the result of "being defeated" into "not being defeated". As long as the smoke stays up, this battle won't end. You also can't blast it away with the Black Barrel, because the cave would probably collapse. Suddenly, thunder strikes the area. It's Olga, coming to the rescue!
+
+**Habetrot:**
+
+> It's a bird!
+
+**Da Vinci:**
+
+> It's a plane!
+
+**Tepeu:**
+
+> It's the President, of course.
+
+**Fujimaru:**
+
+> No!
+
+**Mashu:**
+
+> It's Director Olga Marie!
+
+**--- Section 3 ---**
+
+Olga says her finger just slipped from the sweat, hence the lightning, but Rasputin feels the need to add that it's unlikely she's even feeling this heat, or has the ability to sweat in the first place. She says she sweats quite a lot when she's in trouble, actually. Anyway, Olga has come to your rescue! Tezcatlipoca only wonders where the hell Kukulkan is hiding, and why she hasn't done anything yet. He addresses Olga as Beast, and tells her to stay out of his way. Is she really gonna pretend to be a regular human again after saying her goodbyes to these people? Of course, she says she's only here sightseeing, and it's all just a big coincidence. It's not like she was trying to save your or anything.
+
+You think back to what Beni-Enma said about friends drifting apart, and immediately feel the need to apologize to Olga for not telling her about everything sooner. She says you can bury the hatchet here, but asks if you even understand why she's helping you here. "Well, that goes without saying," you start, "because we're friends!" Olga chokes up a bit, then begins: "Master of Chaldea, I command you to go all out against this guy!"
+
+You finally manage to beat him! An overwhelming victory, actually, but no surprise when you've got Olga. And so, you exclaim that the plan to revive ORT has failed! Olga perks up, asking if that's really how it works, looking a bit nervous.
+
+**Rasputin:**
+
+> That is how it works, my lady. I told you so, didn't I? That you'd only have things to lose by helping them out?
+> The half-year of hard work we did while hidden away in the South American Lostbelt has now all gone by wayside. Hahaha.
+
+Olga kicks herself but eventually says it's "good" and that she "totally intended" it from the start. Regardless, there's no way left for them to revive ORT, since neither Tezca nor Izcalli is left to be used as a sacrifice. Tezca confirms it, saying there's no using a soul full of regrets, or a damaged heart. Even if they did, ORT wouldn't take any orders from it, and would just snack a bit on the planet before moving on. He's not gonna sacrifice himself in some last ditch effort without even getting any results from it. So, he'll graciously accept defeat and simply bow out from here (no, he doesn't actually disappear, just leaves). His plan has failed, so now Daybit is all on his own. He tells you to do whatever you want, and that he'll see you in the paradise for the dead. With that, you've won! But, these footsteps you hear approaching...
+
+**--- Section 4 ---**
+
+Daybit stares you down. He didn't think you'd be able to beat Tezcatlipoca, so he's almost shocked seeing it happen. He confesses that he was being a bit conceited just because he had done the underworld pilgrimage before. As he continues walking, you yell at him to stop, but he says there's simply no reason to. If you want to stop him, show him that you're able to. He's just arrived here, and ORT's coffin is right behind you. If he just continues walking straight, the planet will meet its end. After all, he's already made preparations on his end to activate ORT himself. Mashu doesn't understand. Isn't he from PHH too? There shouldn't be any reason for them to destroy the world!
+
+**Daybit:**
+
+> ---But there is. And it is for that reason that I infiltrated Chaldea.
+> Still, you really think I'm someone from Pan-Human History? Do you think the same, Fujimaru?
+> Do I look like an Earthling to you?
+
+Unarguably, yes. He thinks that's an uninteresting answer, though, since he's heard it so many times before. Anyway, he has to get a move on. He only has one minute remaining today. He already "minced up" Kadoc and the others, so now he'll just have to "cut you up" as well (no I don't know why he uses so much cooking terminology).
+
+Da Vinci is shocked. He wasn't supposed to be able to summon Servants. However, Olga clarifies those are no Heroic Spirits. In fact, it's not even life from this cosmic sector.
+
+**U-Olga Marie:**
+
+> He's from a place more than 14 billion light years away---the terminal of the dark stars that flew to the outermost realm of the cosmos when the universe was born.
+> But, why?
+> Why is he connected to a past radio source 14 billion light years away, whose light cannot even reach this planet!?
+
+**Daybit:**
+
+> Ever the Alien God, even in your degraded state. You deduced the truth about the things behind me.
+> Or rather, you always were very bright, Olga Marie. The problem was that the director before you was too competent.
+> An incompetent cannot run Chaldea.
+> The fact that you were able to direct Chaldea at such a young age is proof of your talents.
+> It's only because you yourself couldn't believe in that, that this friction occurred between you and your surroundings.
+> Not only that, but there was also Lev Lainur's psychological manipulation. He made you dependent on him, creating a barrier between you and everyone else.
+> Up to that point, Goetia's machinations⁠---the plot of the Demon Pillars⁠---was perfect...
+> Nevertheless, even then, something which could be said to be far more miraculous were the feelings Lev Lainur had towards you.
+> If it wasn't for that, there would've never been a possibility for us to turn the tables. The King of Mages, Solomon⁠---no, the King of the Demon Gods, Goetia.
+> At that time, he not only incinerated the Human Order, he also birthed the Defenders of the Human Order.
+
+Olga is a bit annoyed about how everyone seem to be talking to her like they all know her, so now she's getting riled up to fight. If you let him get any closer to the hole, he'll win for sure. You can't hold anything back here. You can't let him resurrect ORT.
+
+(Fight happens here)
+
+As you strike down more and more of the Angelic Remnants which Daybit summoned, he simply continues walking, and there is nothing to stop him. One step at a time, he draws closer to the end of the planet. As he does, we're treated to quite a long flashback about Daybit
+
+---
+
+In this midst, the past events that led to his decision are put into order.
+
+His father was not a magus, but rather a mere researcher who had devoted himself to the research about the Semitic peoples.
+
+Actually, "mere" is not the correct label.
+
+He excelled on account of his inventiveness, persistence, tenacity, and most importantly, force of fortuity that let him encounter miracles.
+
+In terms of the results of his research, it was enough to put him on par with prestigious magi who had spent centuries developing their Magic Circuits.
+
+Much fieldwork he did, and at the end of it all, he discovered a single circlet. Nothing more than an ordinary wooden halo.
+
+However, when he tried to look through to the other side of the circlet, that which spread across his view was nothingness. It was an Angelic Artifact.
+
+He didn't need to be a magus to understand that this wasn't something that ought to exist on our planet. Just experiencing it was enough.
+
+The father was bestowed with a lab, and from that day forward, he became an observer of this Angelic Artifact.
+
+No matter what he tried, the Angelic Artifact could not be analyzed, and no matter what did, it never changed.
+
+Twenty years after the founding of the lab, the father had been blessed with a child, who had just turned ten.
+
+On that day, the father had invited his son to the lab. And this wasn't due to negligence.
+
+It was because he had already deemed the artifact was nothing more than a totally unchanging gift from God.
+
+And it was then that the light overflowed.
+
+An eternity of 0.2 seconds. Once the brief light abated, the father had vanished from the world.
+
+Both the father's name and his background had vanished from people's memories---from all records in the world.
+
+It actually became as if he had never existed.
+
+There was nothing left but the burnt-in shadow of a person on the floor indicating that someone had once stood there.
+
+
+
+The child saw it all happen clearly.
+
+He saw the shadow burnt into the ground. He knew that it had been his father, that his father was no longer alive, and that he himself was unharmed, but also...
+
+That he himself having been present meant that he had also vanished from the world, much like his father had.
+
+The headmaster had spoken, and so nobody ever stepped foot in the lab again.
+
+Exam results showed that the substances that constituted the boy's body were the exact same as they had been before.
+
+He retained the same memories and personality he'd originally had. In all respects, he was no different from the boy he had been before.
+
+Yet the boy knew better than anyone else that he was something "different".
+
+Whatever he did, he didn't feel like he was truly a part of the world. Whoever he was close to, he didn't feel like he was among the safety of his fellow people.
+
+"He is no longer of this Earth."
+
+So went the thinking of the magi in the Department of Lore. The boy did not disagree.
+
+He lacked a human perspective and sense of distance. Those had been 's, who was now a stain on the floor.
+
+Nevertheless, the boy considered himself part of mankind.
+
+Even if his mind wasn't, the base sequence of his DNA was human in every respect.
+
+He felt that even if he no longer considered himself human, he should still obey the laws---the Order of mankind.
+
+In which case, what defines mankind?
+
+The boy had learned the answer to that ever so elusive question from his father.
+
+"Humans have all sorts of races, and all sorts of mistakes that they commit, but what lies at their core is the same for all of them."
+
+"Even without being taught to do so, all humans strive to do good, in the same way bugs always move towards sources of light."
+
+And that is how the boy would spend his eight years at the Department of Lore.
+
+It was then that he became aware that he had a single defect.
+
+The boy's memory, the system he had for recording events, had changed from how it was before.
+
+He could only record 5 minutes worth of events out of the 24 hours that made up each day. For him, each day had become 5 minutes worth of events.
+
+The reason this discovery came so late was because it caused no anomalies in his daily life.
+
+The theory that the events a human needs to remember in a single day easily fit into five minutes was something the boy had put into practice.
+
+For someone like him who compressed each day into 5 minutes, the 24 hours possessed by ordinary humans were a kind and gentle, yet inefficient amount of time.
+
+A Day's Bit. Daybit. The one born from the artifact of emptiness handed down among the Semites.
+
+As another aside, by the time he left the Department of Lore, Daybit had figured out the conditions necessary to activate the Angelic Artifact.
+
+"When there are zero fatalities within a 20 km radius in one full day."
+
+That was the truth behind the halo that so brimmed with malice towards civilization, and had erased the father and the boy from Earth.
+
+---
+
+We cut to another flashback, a conversation between Daybit and Marisbury. Marisbury is glad to see that Daybit showed up to join of his own initiative.
+
+**Daybit:**
+
+> It seems you're in need of a precise view capable of observing the universe in a way that mankind's current level of technology is incapable of doing so, am I correct?
+
+**Marisbury:**
+
+> Yes. I don't care for its contents, just the shape is enough. I'd like it to be as elaborate as possible.
+> But I don't need it to go outside the universe. 13.8 billion light-years will do, no more.
+> Your findings will be most helpful to me. I'd very much like you to cooperate with securing the Human Order.
+
+**Daybit:**
+
+> Securing the Human Order... the attestation of the future, or perhaps even its determination. That is indeed a righteous Order. But how, specifically?
+
+Marisbury decides to let Daybit in on his plan, as long as he keeps it a secret, but unfortunately we do not get to partake of this info. Still, Daybit seems reluctant it would even succeed. The magi forming the core of the plan are too weak, and should any learn the truth, they'll try to stop it. Not to even mention the Counter Force. He seems certain that nobody but himself and Kirschtaria would survive. But Marisbury simply says that's the whole reason why they're keeping it a secret. From the Mage's Association, from the other Chaldeans, and even from the world.
+
+**Marisbury:**
+
+> In the upcoming Singularities that are part of the Human Order Restoration, the magi of the A-Team will not be Masters.
+> You will be concealers. Crypters. Will you keep that in mind?
+
+It was in that moment that he decided on the Order which he needed ot fulfill. His plan was to destroy Chaldea, even if it meant destroying the planet alongside it. Daybit Sem Void approaches things from a cosmic perspective; he is neither a servant of the Alien God, nor fighting for the sake of the Human Order.
+
+Flashback ends. You finally beat all the enemies, but you lost track of Daybit. When you notice him again, he's right in front of the coffin. You were simply two seconds too late, he says. Olga throws out a bunch of attacks to get him, but they have no effect. He says the reason is simple, and decides to show you: as you can see, he has the Alien God's heart right there.
+
+Olga has a flashback to right before Kukulkan sank the Border, when she was hiding out in that cave. Apparently during that time Olga had inadvertently protected the Border from the attack while trying to protect herself. Either way, as she sits there restoring herself, it seems that Tezcatlipoca had snuck up on her. He straight up pulls the heart out of Olga's weakened body since his specialty is pulling hearts from living bodies, saying his boss needs it to transplant into himself.
+
+Basically, that's the reason for why Olga is so much weaker here. Daybit had figured that just like ORT, the Alien God would have been able to restore a broken heart, so instead, he maintained it in an active state, constantly sending biosignals to trick her into thinking she still had a heart. He definitely didn't expect the trick to last this long, though. But he finally understands why: Olga had thought that she would be better off remaining as her weaker self. Because then, she could still be with the rest of you. What a very silly dream, he exclaims.
+
+You've lost. Your defeat was set in stone the moment you started fighting him. However, before he leaves you, he deems it fitting he should answer Mashu's question first.
+
+**Daybit:**
+
+> My objective is to maintain the balance. That is what I have deemed to be best for mankind.
+> Should all seven Lostbelts be excised, it would mean the completion of his Securing of the Human Order.
+> If that were to happen, it would surely give the Earthlings a bad name across the 13.8 billion light years around us. You'd be known as the most terrible intelligent life born in this universe.
+> Before that happens, I will destroy Earth. That's the only way I can destroy Chaldea---
+> The only way I can destroy the originator of this problem: the alien world known as CHALDEAS.
+
+Mashu isn't following. CHALDEAS is a miniature copy of Earth, not an alien world. Well, no matter how perfect a reacreation it is, the original Earth is still right here. In that case, isn't it more accurate to say CHALDEAS is another planet? The Alien God is alien precisely because she's a god born within CHALDEAS, while the bleaching of the Earth was Chaldea's plan: the Animusphere Grand Order, the Human Order Security Organization. Daybit knows very well that even the A-team were just pawns for that end.
+
+You don't believe this. After all, CHALDEAS was already destroyed, wasn't it? Wrong. It was protected.
+
+**Daybit:**
+
+> Why else do you think Anastasia was chosen for the raid on Chaldea?
+> It was to preserve CHALDEAS within the ice.
+> The renaissance genius Da Vinci might have been able to realize the truth during the raid.
+> In which case, even if destroying CHALDEAS would be out of her reach, she might've been able to cause some kind of malfunction.
+> That in turn, could have served to delay the plan.
+> After all, Chaldea still had the option remaining to Rayshift into CHALDEAS at that time.
+> That was taken into account by CHALDEAS, which is why it was made to appear as if it had ceased functioning by being covered in ice.
+> And you actually did give up on CHALDEAS back then, escaping from the South Pole in the Shadow Border.
+> Thus distancing yourself from the point where the real culprit was located.
+
+Of course, he says if you hadn't done so, you would've just been wiped out. In fact, all your actions have been correct so far, but only insofar as they were answers to questions on an exam prepared by Marisbury. In other words, you are the bad guys, and you've been playing right into the hands of the evil mastermind this whole time. That said, you did indeed save mankind once by taking back the future from the Human Order Incineration, and you should be proud of it. Chaldea might be the cause, but you are not the culprits. For the sake of mankind up to 2017, there could have been no better staff to safeguard it than you.
+
+**Daybit:**
+
+> Neither me nor Wodime would ever deny that. Which is why---
+> If you disapprove of my plan and succeed in stopping ORT, then head for Antarctica.
+> That is where your journey ends. The land where you will part with the Grand Order.
+> There. I said most of what I needed to.
+> That was my agreement with Kirschtaria. We didn't form one per se, but we both had the same idea.
+> That should either one of us be the last man standing, then when we're trying to defeat Chaldea...
+> We should present our enemy, Chaldea, with this information as well.
+
+And so, he simply walks off the ledge.
+
+**--- Section 5 ---**
+
+That's a lot to take in, but you can't stay here and theorize. ORT is coming, and as Daybit said, you need to make it to Antarctica if you want to stop everything. Kirschtaria must have thought the same. While the two of them followed their own ideals, they never once actually denounced you. It wasn't about good or evil, or even duty; it was about doing what one believes is right, and that's what the two of them did til the very end.
+
+Mashu goes to grab Tenochtitlan, while you grab Olga, who's even weaker now that her heart has actually been crushed. It seems like she's trying to regenerate it as fast as she can, but it's no use, as some green alien-like thing comes up and envelops her. It seems that since ORT ate her heart, it now sees her as another part of itself, ready to assimilate. In other words, in a moment, she'll be disassembled completely and absorbed by ORT. However, you can't get close to it. It gives off so much radiation you would die in mere seconds, and not even a Servant could get close. And if it's impossible for a Servant, then no other living organism could do it either. But that doesn't stop some. Wak chan appears, quickly gnawing through the alien structure until Olga is freed.
+
+**Wak Chan:**
+
+> Damn, that was close... Real close... Dammit...
+> Urgh, maybe I lost too much blood...? I'm feelin' dizzy...and...it's gettin'...dark...?
+> Whatever. You good, Olga?
+> You were makin' some crazy noises, so yeah, I hopped down here like my life was on the line.
+> This sucker got his for laying hands on my future wife, right? Though I'm well aware you're way outta my league!
+
+It seems like Olga does try to respond, but it seems he cannot hear her. Maybe she's just tired, he thinks. He's getting pretty tired himself. He's even starting to lose the ability to speak. Maybe he swallowed something bad. He'll just have to puke it up again later.
+
+**Wak Chan:**
+
+> Oh... but before that, there's something I gotta... something I need to say...
+> The reason I stuck together with Fujimaru was 'cause I thought I'd be able to meet you again.
+> It just bothered me all this time, yeah. That I couldn't express myself very well...
+> Stuff like that just ain't part of being a fighter. Maybe I shoulda become a priest like Tepeu, huh?
+> Still, what I said back then was true...
+> Can't see a damn thing anymore, but...Olga, your color at least, I know is as brilliant as the stars that glitter above.
+> ---I'm happy to have met ya. I really do...have a damn fulfilling life.
+
+With that proclamation, another life is lost.
+
+**U-Olga Marie:**
+
+> No way... Earthlings are...evil creatures, aren't they...? They dissected me for years, decades, didn't they...?
+> I screamed, over and over, that I was human. I'm human, and yet...nobody...ever listened...to me.
+> So then, why---why... Why am I being treated so kindly? I don't understand...
+
+You tell Olga you need to get out of here, and Rasputin agrees. ORT has obtained her heart, so it is in control. If the two were to merge now, she would simply become a subsystem. The "what-if" she has been experiencing in this world has come to an end. She must return to being Chaldea's enemy now. And so, they must leave this Lostbelt at once, and return to her homeland: the planet in the south pole. You try to approach her, saying that's not how things have to be, but...
+
+**U-Olga Marie:**
+
+> ---Stop. Don't even come near me with that pathetic human body of yours.
+> You're right, Rasputin. Not just my heart, but about 30% of my body was stolen by ORT.
+> I'm going to need some time to restore myself. I do not intend to watch the Earthlings breathe their last down here.
+> I'm headed for the surface. Come along.
+
+## Section 21: Decisive Battle in the Sea of Fantasy Trees 
+
+Gordolf orders you to stay 700 meters behind ORT as you pursue it up Mictlan. Things aren't really as tough as when you were chasing the Beasts of Calamity in Britain (like how insanely hot it was when Barghest transformed), but you still need to keep a solid distance, and you should be able to command Servants from this range. He also suggests starting out with some less demanding Servants so you can get a feel for its power level. In other words, don't throw your trump cards at it just yet.
+
+The battle goes horribly (at best you can take out its big HP bar, which shatters and reveals nine more, but the battle ends when your party is wiped out). Something strange has happened to the Servants in battle, as well. They can't be recalled. The very information in their Saint Graphs has been stolen in its entirety, and their link to the Throne of Heroes destroyed.
+
+Da Vinci
+Heroic Spirits are Ghost Liners---recorded strips of the limits we achieved.
+They're basically the time period the hero was active, recorded as a phenomenon by our very own universe.
+And that's what ORT just consumed! This is real bad! Not at all like how it played out in the Temple of Time!
+It's quite literally eating human history!
+
+This is actually insane. The Throne is something located in a higher dimension, it shouldn't even be possible to target with any attacks. But ORT's web-like tendrils seem to be stretching all the way into this higher dimension, using the Servants as terminals. In other words, it's likely ORT is able to damage the "main copy" stored in the Throne. What this means in practice is simply that any Servant defeated by ORT her won't be summonable again.
+
+Sion is actively performing analysis to try and find a weak point you can exploit, but for now you just have to keep throwing things at it to slow it down. The one upside is that in all technicality, information cannot be digested. In all likelihood, ORT is simply storing them internally to use itself. Da Vinci likens it to deposits at a bank. The greater the deposits, the more important that customer becomes to the bank, or the cosmos in this case. That's the sort of concept ORT is working on right now, which means that if you can just break the "ORT bank", all those deposits should come pouring out again. As long as you defeat ORT, all your "debts" will be cancelled. And so, you need to keep fighting, to free the Servants, and to gather more data.
+
+**--- Section 2 --- (Plays when one break bar has been taken off from ORT. 8 remaining.)**
+
+You are managing to deal damage to ORT, but it's still a far cry from being able to stop it entirely. Gordolf orders you to rest, while Mashu goes out to clear seeds from the Shadow Border. At first you're a bit surprised the seeds have made it all the way up here, considering you're almost at the Fourth Underworld, but then you realize: Mictlan is now full of Fantasy Trees, meaning the seeds are scattered all over. There is no refuge remaining in Mictlan, no matter where ORT is. All living organisms in this world, be they deinos or ocelomeh will lose their lives. The Storm Border contacts you to tell you this exact thing again, but also that they have calculated the route ORT is taking.
+
+Undeniably, it's actually heading for Mexico City. If it were just heading for the surface, that would be an unnecessary stop, so one has to wonder why it's going there. Even when you fought it in Tezcatlipoca's future, you didn't really think about why it was there in the first place. Nemo is sorry to say that despite how much you're struggling, ORT is actually in an incomplete state right now. As it is right now, all its components are functioning completely independently, because the "central unit" of sorts, or its heart, you could say, is missing. In other words, ORT is currently in what basically amounts to power saving mode, only generating enough energy through the rotation of its disc. Most likely, if it had its main power source, Mictlan would have been annihilated in mere moments.
+
+Kadoc thinks perhaps Camazotz destroyed the heart back during their fight, but you have another idea: it's the sun. You might remember that the sun (or the solar itineracy) was moved from Chichen Itza to Mexico City, so that adds up. Tepeu starts sharing what he knows about this as well. How do you think a new sun came to be when the old one disappeared 6 million years ago? Malla used all their power to create the first sun, leaving them unable to replicate this feat a second time. As such, they had to get it from an external source. Once the Ka'an gave everything they had to defeat ORT, Malla took its heart and fashioned a new sun. It's effectively the exact same scenario as Daybit and Olga had just now. The heart might not be in ORT's body right now, but it is still active somewhere. That's also why ORT never reactivated: it didn't receive a command to restore its heart since it was still intact. For all this time, the energy that nurtured the deinos was the heart of ORT.
+
+Obviously, you must defeat it at all costs before it can retrieve its heart.
+
+**--- Section 3 --- (Plays when three break bars has been taken off from ORT. 6 remaining.)**
+
+We're treated to a monologue by Tenochtitlan.
+
+> The end arrived without mercy. The end arrived without cause.
+> No longer does refuge exist in the underground world.
+> The Fantasy Tree seeds came in droves, ravenously consuming all vegetation as nutrients.
+> They considered all non-plant life as enemies, and attacked them indiscriminately.
+> The animals killed by the seeds were crystallized, and then shattered to become stardust scattering in the winds of Mictlan.
+> Deinos and Ocelomeh alike, all who lived in the forest dwellings lost their lives, powerless to resist.
+> No life could be felt in my soliloquy. My voice sounded demoralized and regretful.
+> Beside me laid a boy's motionless corpse.
+> After Chaldea had headed for the surface, I had intended to be swallowed by Earth's mantle, alongside the crumbling temple.
+> But looking at the boy's corpse which had been left here, an unidentifiable rage welled up inside of me, and I forced my near-broken body back into action.
+> That fire saw its limits here. My rage cooled down, and all felt dreary again. I laid down beside the entrance of the temple.
+
+She thinks herself so stupid. What does it matter where she dies? It's all over anyway. She speaks to Izcalli's corpse, to the replica of the king who caused the city she exists as to crumble. It wasn't an act of malice, but simply that of a foolish king, unable to meet demands. She places her finger on his forehead, and runs her finger along his scar. Those chosen to be one-year Tezcatlipocas weren't allowed a single defect, yet this boy had a great scar on his forehead, and it had been there since the very start. No matter how many times he was reborn or no matter how perfect the spell, it would never heal. It was a scar of the soul, more than anything else.
+
+Izcalli had never once cared to know who he really was. He only needed to serve his god, and he was happy to do so. His resolve had been razor sharp back then. This boy, forever unknowing from whom he had been created, was simply given the name Izcalli, and took it on himself to develop the undiluted vengefulness necessary to overwrite ORT's instincts.
+
+> My brother's choice of person had been correct.
+> Considering who he was---considering that it was the soul of Moctezuma II, he would surely, without fail, reject Pan-Human History.
+> He had been the one who believed in the foreign Spaniards, and welcomed them, only to be betrayed.
+> The disparate tribes of Mesoamerica ought to have come together to fight the foreign threat, but instead betrayed him.
+> In the end, even the nobles abandoned him, and so, he was stoned to death by the people of his own kingdom.
+> He shouldn't want to so much as look at Pan-Human History. He shouldn't want to so much as look at the city which had become his grave.
+> And indeed, the boy who held the soul of Moctezuma II within grew to become a king filled with rage.
+> "If you continue to be a king for this one year, you will become Tezcatlipoca."
+> "Kill the deinos. Offer up their hearts to the sun. The deinos are strong and smart, so you better not falter."
+> "This is a trial, Izcalli. A trial to see if your soul is worthy of putting an end to Pan-Human History."
+> It hadn't been a trial. It was assured to work out.
+> The unhealing wound upon his forehead indicated that Izcalli's hatred was eternal.
+> ---Or so I had thought.
+
+She thinks back to right after the battle in Mexico City, when she had a conversation with Izcalli about their wants. Izcalli had mentioned to her that the destruction he saw of the city in that future had caused him internal pain, though he didn't think it possible. It's not that he particularly feel any connection with the Ocelomeh or the city, seeing as he wasn't an Ocelotl himself, and the city being from PHH, but he felt great pride in the achievements of the Ocelomeh. Likewise, despite his hatred for PHH, he wasn't one to just renounce something so beautiful as this city. He knows he will probably be banished from this city at some point, considering he's an "outsider", but he wants to at least create a great kingdom for the Ocelomeh to live on in. This despite knowing he will be sacrificed at the end of the year. Still, as their king, he wants to see the fate of the Ocelomeh til the very end. Or rather, that's the dream he has, even if he knows it will never come to pass, as he's made for a single purpose. Thinking about those things are the only times when his scar stops hurting.
+
+In the end, he wasn't able to fulfill either his dream nor his objective as Tezcatlipoca, and Tenochtitlan thinks him a kid into the very end. She also thinks back to what Nitocris told her back then: about how she shouldn't deceive herself when you know when and whom you should fight; to promise to shed blood for her people. After all, doesn't some regret still linger in her heart? With a heavy sigh, Tenochtitlan proclaims: "Humans are just so stupid!"
+
+In Chichen Itza, a bunch of deinos have begun gathering. They don't really understand why, but they just feel so connected to this place now. Furthermore, being able to communicate with words and share stories is just too engrossing, so they decide to sit down and talk about PHH stories some more. The fact that so many of them came back to the city in which they once lived shouldn't matter, but it does feel really important to them for some reason. It's something they lost, and for once wanted to take back. In the end, they just hope Chaldea will be able to avoid being dragged down alongside their extinction.
+
+**--- Section 4 ---(Plays when five break bars has been taken off from ORT. 4 remaining.)**
+
+You ask for a time out as you drop to the floor, apologizing. Kadoc helps you into a chair and tells you to rest up for 15 minutes, and try not to think about what's going on. He also says you shouldn't be relying so heavily on energy ampoules, as it appears you've been quite liberal with them. Since you've got a bit of a window, you decide to decelerate and find a safe spot to rest up. You've now been in battle for nearly four hours straight, and it's starting to show on both Gudao and Mashu.
+
+Tepeu is glued to the window, examining the Fantasy Trees. He mentions that he can indeed detect massive energy levels coming from inside them, although not exactly as strong as Mictlan's sun. Kadoc begins saying compared to the real ones (using the one in Russia as example) which are much bigger, these are more like tips of branches, but he quickly stops himself. After all, there's no such thing as a real or fake Fantasy Tree. Rather than a question of being genuine or size, as long as the shape is the same, it works the same. Tepeu continues musing:
+
+**Tepeu:**
+
+> It should be impossible for the galaxies inside of the trees to be real, but we cannot help but recognize them as galaxies.
+> There is a galaxy inside of the tree. No problem with that part. But what makes them serve as the anchor for a Lostbelt?
+> Despite the fact that ORT, the Fantasy Tree, had ceased activity, Mictlan still persisted.
+> The energy of the galaxies isn't actually being used, don't you think? That's purely something secondary---
+> Should the main premise be that they just have to hold a galaxy within? That there's some kind of meaning of there being a galaxy inside of them...?
+
+You're not really sure where he's going with this, but Gordolf has something important to announce anyway. Due to the time constraint, there's no possibility for you to go out of your way to help any other deinos. This includes the one Tepeu cares most about, the one in Metztitlan, which ORT will pass right through. Well, while Tepeu appreciates the sentiment, he doesn't mind it. Even if you could get there in time, Ixquic can't ever leave that place. That's something both she and him accepted long ago.
+
+Cut to Metztitlan, where Kukulkan is visiting Ixquic, telling her that ORT is heading straight there. Kukulkan praises her for her resolution in dying here, and vows as the arbiter who is to determine the fate of Mictlan to ascertain her final moments for herself. She also thinks about how when Chaldea was here before, Malla had already decided that "For as long as ORT is the Fantasy Tree, it must be left be," and "If Chaldea would try to deactivate ORT, then they are to be eliminated at Kukulkan's hand." Ixquic seems to feel kinda bad for Kukulkan, so she starts talking about Quetzalcoatl, who Malla used as the model for Kukulkan. Quetz was such a free being, yet Kukulkan is the opposite. In the end, both Kukulkan and Ixquic were "what ifs" that never managed to become like the real thing. However, Kukulkan is determined in her role as the creator god of this world, and in her responsibility to it. As such, Ixquic thinks there's nothing left to do but to say her farewells.
+
+**Ixquic:**
+
+> Malla. Based on the judgment of nobody but yourselves, you evacuated us underground and kept us alive.
+> You still regret that choice. For tens of millions of years, you tried your best to take responsibility for it.
+> "There must have been some other way." "I should've done the same thing as in Pan-Human History."
+> Thank you. But it's okay, really. We've been more than happy here.
+> Even if you are from a different planet, and are a different life form, you are still our mother.
+> Don't you have the right to mourn the deaths of your children in that what-if dream of an unreachable Pan-Human History?
+> Well, it seems to be just around the corner now. Now please, fly away from here so you don't get caught up in it.
+> I'm happy to have been able to say my final thanks. Farewell, Kukulkan.
+> My only friends were big brother Tepeu and...you, the sun who always watched over me.
+> We've had a dramatic and love-filled life, more so than any other mankind ever did.
+
+**--- Section 5 --- (Plays right after section 4, without further requirements.)**
+
+Rather than continuing to chase after ORT, you rushed ahead to the Third Underworld, where you have to make your final stand, lest ORT makes it to Mexico City. You'll be able to summon more easily here, so this should be fine. You call on Ereshkigal Alter, who already knows exactly what is going on, and is ready to help. Dumuzid says it's time for him to return all the magical energy he embezzled from this Underworld. Turns out, he had just made it seem like all the flowers here died out, while he stored the magical energy elsewhere to prepare just for this moment. As such, you now have a huge surplus of energy, and Ereshkigal has set up an "anti-ORT barrier", which is literally a wall of thousands of Gugalanna legs packed so closely together nothing could get through. Well, ORT arrives and blasts right through the wall. Without barely reacting to Ereshkigal's failure, you realize it's time to summon again. Ereshkigal isn't out of the game yet though, and vows to assist you.
+
+**Ereshkigal Alter:**
+
+> ...Ahem! Ereshkigal, the goddess of the underworld, commands you!
+> From henceforth, you shall summon without limitations! Both myself and the Storm Border shall support you!
+> Gugalanna's legs will be placed throughout the underworld, and by expanding and compressing the territory,
+> we'll increase the spatial density of the sixth layer! It won't be so easy to break through here!
+> Meanwhile, I'll slow down ORT with red lightning, and give your Servants the blessing of the underworld!
+> Let's settle this here and now, Fujimaru! I'll show you who's the real goddess of victory!
+
+**--- Section 6 --- (Plays when eight break bars has been taken off from ORT. 1 remaining.)**
+
+At the Storm Border, they're still under attack by seeds, though it's letting up a bit. They need to start charging the main battery now though, which will take a full four hours given their engine deficiency right now, and as such for that time, they won't be able to provide any backup to Gudao's party. Luckily, you have Ereshkigal's energy to compensate, but she'll need to be the one to maintain all the Saint Graphs. Actually, she's already taking some heavy damage from doing so. She's outputting so much magical energy that she's unravelling physically, starting from the fingertips. Even so, as long as the summoner retains a will to fight, she won't leave this battlefield. The damage to ORT is definitely starting to pile up, and so this battle of wills between the invasive species and the summoner who managed to even suppress Tiamat must be coming to a close.
+
+**--- Section 7 --- (Plays when all break bars has been taken off and ORT is defeated.)**
+
+ORT is starting to crumble. You've done it. You somehow managed to beat it! You go outside to bid Ereshkigal farewell before she disappears. She says all that's left now is Kukulkan, but compared to ORT, she could hardly be much of a problem. Ereshkigal leaves for a bit after apparently noticing something, and Dumuzid is left to convey her final thoughts. She fought as hard as she could, to the point where it was as if she was fighting as the underworld itself. In this state, she could have possibly fought off the civilization-reaping alien as well, but considering ORT is something which eats planets, this was just a bad match-up in the end.
+
+Suddenly, an alarm sounds so loud it's splitting the head of everyone inside the Border. Dumuzid tells you they're all alright, but you should hurry back inside; you won't survive at this distance. Once inside, he bids you take a look a the monitor.
+
+ORT's internal temperature is skyrocketing. It's performing nuclear fusion, producing massive concentrations of cosmic rays and gravitational pull. It's currently at 100,000 degrees celsius, estimated to reach 1 million soon enough, or even higher. It's becoming like a swarm of thunderclouds in outer space: a galactica supercell. Turns out, the "body" you were fighting all this time wasn't exactly that. It was more like "waste parts" left on the outside body after activity, like keratin on a human. As ORT is something which fell from the sky, a true unidentified flying object, its true body is the saucer-like object. Rather than think about this, you just wonder where Ereshkigal went, but Dumuzid says she went and took the full brunt of the space storm to help protect you. He hands you a single remaining flower from the Underworld: the last remains of a goddess who sacrificed her own wish in order to turn the Third Underworld into a decisive battleground. As long as you have that flower, you will have her blessing.
+
+**Dumuzid:**
+
+> And her message. This is why I am here.
+> "I'm sorry I couldn't fight to the end. But at least I went out cool, right?"
+> She wasn't daunted in the slightest while facing that storm.
+> Triumphantly, her Saint Graph crumbled from her fingertips from providing the magical energy for the Heroic Spirit summons.
+> Her smile was as radiant as that scarlet flower. Unfortunately, it could only record one second of audio.
+
+**Fujimaru:**
+
+> ---Yeah. You were cool.
+> ...Thank you, Ereshkigal.
+
+With this, it's time for Dumuzid to disappear as well. Before that happens, he gives you some pointers. It appears the storm extends less far above ground, so you should give chase at a distance of two kilometers from now on. This is gonna increase the burden on you as the summoner fivefold, which will be painful. Dumuzid isn't too worried though. You are the one who reached the abyss and showed it the brilliance of the rainbow. The hero who the goddess of the underworld longer for so much she willingly risked her life for you.
+
+
+(Since ORT reactivated again, the raid interface is replaced with 6 more break bars which need to be dealt with, and the model on the map is replaced with just the golden saucer)

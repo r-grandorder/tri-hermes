@@ -9,7 +9,9 @@ To get started, you can check out how the files are organized on [our Github Pag
 
 ## Formatting
 
-TRI-HERMES is a simple wiki that uses Markdown files, with each file being a basic text file that is saved as `.md`. Markdown is a basic format that you may already be familiar with, such as Reddit and Discord. You also technically use it when using Google Docs/Microsoft Word.
+TRI-HERMES is a simple [Vuepress](https://v2.vuepress.vuejs.org/) wiki that uses Markdown files, with each file being a basic text file that is saved as `.md`
+
+Markdown is a basic format that you may already be familiar with, such as Reddit and Discord. You also technically use it when using Google Docs/Microsoft Word.
 
 [Refer to this page for a simple tutorial on Markdown as it is used on TRI-HERMES pages.](https://markdown-it.github.io/)
 
@@ -52,9 +54,6 @@ In order for images to display on the page, you'll need to use the following for
 
 `![](image URL)`
 
-# HTML and CSS
-
-Inline HTML and CSS can be done on Markdown files.
 
 ## Tools
 
@@ -82,10 +81,6 @@ Our [servants.md](https://tri-hermes.org/servants.html) page is currently in a h
 
 We will be planning to incorporate the In-Game Profile, the Material translation, and Dialogue tables in each servant page.
 
-# Material Profile formatting
-
-You will find that in each material page, certain sections have gotten lumped together. The lines simply need to be spaced out for a cleaner look.
-
 # Dialogue and In-Game Profiles
 
 At the bottom of each Servant page is the beginning of a table for Servant dialogue. Within it will be the label, JP dialogue, and NA/Translated Dialogue.
@@ -96,13 +91,22 @@ For both Dialogue and In-Game Profile, these can be pulled from the FGO Fandom W
 
 ### Scenario Images
 
-For each entry on our [Story](https://tri-hermes.org/story.html) and [Event](https://tri-hermes.org/events.html) pages, it would be nice to include images to accompany the text dumps.
+For each entry on our [Story](https://tri-hermes.org/story.html), [Event](https://tri-hermes.org/events.html), and [Novel](https://tri-hermes.org/novels.html) pages, it would be nice to include images to accompany the text dumps.
 
 The ideal and fastest method would be to take a screenshot of scenes on [Atlas' War viewer](https://apps.atlasacademy.io/db/JP/wars), upload the screenshot to imgur or any other reliable image hosting website, then insert it into the existing MD files for stories and events.
 
 `![](image URL)`
 
 Alternatively, phone or emulator screenshots uploaded to imgur will work just fine.
+
+Generally speaking, we only want the following types of images:
+
+* Background changes
+* Important, distinct CGs
+* Initial character appearances in a scene.
+* Notable character expression changes. (Yes even "It's cute and adds to the scene!" applies)
+
+It is good to maintain a balance however, and not drown the text dump in needless screenshots.
 
 ### Interviews
 
@@ -123,15 +127,16 @@ There are various Drama CDs on Youtube that would be helpful to have in text for
 
 [Transcription of PunPun's translation of Babylon singularity is needed.](https://www.youtube.com/watch?v=NZc-ANQ17gk&t=8s)
 
-### Articles / Theories
+### Articles / Summaries / Theories
 
-And finally, in our [Articles](https://tri-hermes.org/articles.html) page, we'd like to include user-created pages, rather than strictly archived content.
+And finally, in our [Articles](https://tri-hermes.org/articles.html) page, we'd like to include user-created pages, rather than strictly archived content. All pages in this category will be marked as interpretative and will be strictly reviewed upon submission.
 
-This page can include: 
+This category can include: 
 
 * Interpretations of lore mechanics
 * Pages that go over the usage of certain concepts throughout different TM works
 * Plot Summaries of FGO Chapters or summaries of any other work.
+* Character summaries throughout different works.
 * Theories that have considerable research put into them, citing the source text throughout
 * ...and more!
 

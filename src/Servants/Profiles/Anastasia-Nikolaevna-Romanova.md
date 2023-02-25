@@ -69,6 +69,7 @@ Mystic Eyes that descended from Balor and followed a different degenerative line
 ## Noble Phantasm(s)
 
 # Viy, Viy, Viy!: Dash – Elemental Eyeballs
+
 - Rank: EX
 - Classification: Spirit Noble Phantasm
 - Range: ?
@@ -77,6 +78,7 @@ Mystic Eyes that descended from Balor and followed a different degenerative line
 The full power release of Viy’s Mystic Eyes. The eyeballs that see through everything distort even the principle of causality to create weak points.
 
 # Sumerki Kremlin: Afterglow, Citadel of Abominable Blood
+
 - Rank: A+
 - Classification: Fortress Noble Phantasm
 - Range: 1~99
@@ -88,9 +90,9 @@ Sumerki Kremlin (Twilight Fortress inside the City). A recreation of a fortress 
 
 ## Pronouns
 
-First Person Pronouns: watakushi / OTMA (a name made up by using the initials of each name of the four Romanov sisters. Some signatures bearing this name are left behind)
-Second Person Pronoun: anata
-Third Person Pronouns: ano kata / kare / kanojo, etc.
+* First Person Pronouns: watakushi / OTMA (a name made up by using the initials of each name of the four Romanov sisters. Some signatures bearing this name are left behind)
+* Second Person Pronoun: anata
+* Third Person Pronouns: ano kata / kare / kanojo, etc.
 
 ## Personality
 
@@ -175,8 +177,11 @@ Anastasia is being extremely cautious of Rasputin as he dealt the finishing blow
 **Ivan the Terrible**
 
 Ivan was… the Great Tsar who existed long before Anastasia and her family, but…
+
 “Um, excuse me… why are you an elephant?”
+
 “I also do not know. Why am I an elephant?”
+
 An object of fear, rather than say, respect.
 
 **Osakabehime**
@@ -193,7 +198,35 @@ Given that I knew little about the story concerning Anastasia, I aimed at an unh
 
 ## Material Images
 
-(Lib will add after publish)
+::: details Click to view
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-068.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-069.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-070.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-071.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-072.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-073.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-074.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-075.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-076.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-077.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-078.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-079.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-080.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-VII/i-081.jpg?raw=true)
+:::
 
 ## Dialogue
 

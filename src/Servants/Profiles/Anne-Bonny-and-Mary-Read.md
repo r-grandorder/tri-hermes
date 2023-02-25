@@ -101,11 +101,15 @@ A combination Noble Phantasm in which Anne, who is equipped with a musket, cover
 
 **Anne Bonny**
 
-… A passionate, beautiful woman. Regarding Mary, Anne loves her dearly as a close friend, family member and younger sister[1]. Although Anne has a character with a daredevil attitude and is well-versed in being able to deal with men skillfully, it is said that a portion of her “core” is heroic, possessing a courage and liveliness that put men to shame, and is someone who is “not even afraid of death, greeting it with a laugh.”
+… A passionate, beautiful woman. Regarding Mary, Anne loves her dearly as a close friend, family member and younger sister. Although Anne has a character with a daredevil attitude and is well-versed in being able to deal with men skillfully, it is said that a portion of her “core” is heroic, possessing a courage and liveliness that put men to shame, and is someone who is “not even afraid of death, greeting it with a laugh.”
 
 **Mary Read**
 
 … A young woman who talks with her mouth in murmurs and with few words. Mary fundamentally has a maidenly character, but because she was raised as a man, she forcibly puts on a strongly masculine and brave front, hiding that feminine “core”. She is a little rebellious against authority, and fights with a dauntless courage on the battlefield regardless of her relationship to either gender.
+
+::: tip TL Note
+While Anne loves Mary as her younger sister, Mary is actually the older of the two in historical fact.
+:::
 
 ## Attitude Towards Master
 
@@ -160,12 +164,10 @@ Mary’s coat, rather than even calling it clothing, is an article similar to a 
 
 Regarding the bunny suits, they were not in the orders. Naturally, it has no connection to them, not any at all, even if one assesses it historically (Bunny girls were born around the 1960s time period. Even Anne Bonny, who died in the year 1762, would not be at the level of history where she could receive such a thing in advance). The explanation is that, basically, this is my preference. Sorry. Though one should know by now that bunnies are nice, isn’t that right? Just in case, as an excuse, how about I go through with insisting on swimsuits for them? Hey, when I decided to seriously negotiate about that, there was just about no clothing specifications assigned to me when I got the approval. Just that they are fine with them as long as they look like pirates. But look, considering that, there is already elder sister Drake for a proper female pirate I can refer to. (I-IV)
 
-## TL Notes
-
-[1] – While Anne loves Mary as her younger sister, Mary is actually the older of the two in historical fact.
 
 ## Material Images
 
+::: details Click to view
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-242.jpg?raw=true)
 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-243.jpg?raw=true)
@@ -189,6 +191,7 @@ Regarding the bunny suits, they were not in the orders. Naturally, it has no con
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-252.jpg?raw=true)
 
 ![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-253.jpg?raw=true)
+:::
 
 ## Dialogue
 
