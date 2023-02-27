@@ -1097,7 +1097,7 @@ We're beaten by Huitzilopochtli's sturdy skin and fast spinning. Tezcatlipoca is
 
 Kukulkan wrecks Huitzilopochtli with a fully animated punch and now she's gunning for Tezcatlipoca because he and Quetzalcoatl were rivals in Pan-Human History (actually Maia's consensus but she's using her Pan-Human counterpart's mythological background as an excuse). She off-handedly mentions that Tezcatlipoca is human, so he has to explain that he's a Pseudo-Servant. He created a human body for himself and transferred his divine soul to it, so he counts as a living human from the present. Learning that gets Chaldea thinking this is a fight they can win. But they're quickly proven wrong by Tezca ordering Daybit to use a Command Spell.
 
-![](https://static.atlasacademy.io/JP/Movie/talk_mov152.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/talk_mov152.mp4)
 
 ---
 
@@ -2148,7 +2148,7 @@ A being created in the image of the current prime species, which knows of histor
 
 You continue on to the actual observatory, and Tepeu asks Ixquic to stop being such a shy baby and come out of hiding. A voice from the water says she was just preparing herself mentally, and then makes herself known.
 
-![](https://static.atlasacademy.io/JP/Movie/talk_mov155.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/talk_mov155.mp4)
 
 This is Ixquic, the Archetype: Earth who shall see off the fate of Mictlan from this lunar plateau. Da Vinci spergs out about seeing another dinosaur, and Ixquic thanks her, saying she has a very nice voice. As it turns out, she is able to see all the way to the second layer from here, but unlike Kukulkan, she can't hear that far, so she simply imagined what you would sound like. Since she also couldn't make out your names, you introduce yourselves. You then proceed to ask why she uses a cutesy nickname for Tepeu (lit. brother Tepeu), and what the relationship between them is, but as she prepares to answer, Tepeu says they're acquaintances, and nothing more. Or perhaps since he "worked" here before, you could say they are colleagues. Besides, age-wise it makes no sense anyway, because Ixquic is six million years old, and Tepeu is one thousand at best. Anyway, the nickname is because Tepeu was the only deino who came here and seemed to care about her, even though he acts all tough, not wanting to admit it in front of her. Also, since she was born as the planet's sense of touch, her mind can't mature any further, so she's forever one year old, technically.
 
@@ -2626,11 +2626,11 @@ Now you've really got her attention, as she prepares for an all-out battle, but 
 
 She orders the others to evacuate to the Border. She'll deal with Tlaloc here, even if it means ending her own role. But before she can even so much as finish that last sentence, a shriek rings out, and something emerges from the trees.
 
-![](https://static.atlasacademy.io/JP/Movie/talk_mov156.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/talk_mov156.mp4)
 
 The cloud of shadows goes directly for Tlaloc (who yet again has her nameplate as just "???"). She won't stand for her roads being muddied like this, but it's no use, and her reading on the instruments soon disappears. 
 
-![](https://static.atlasacademy.io/JP/Movie/talk_mov157.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/talk_mov157.mp4)
 
 Once the shadow stops, Nitocris calls out to it: "Camazotz!" She thinks him saving them here was nothing more than another of his mean pranks. But she is wrong, he refutes. He wasn't trying to save them. In fact, he seems rather angry with Nitocris. He says that she, who is not stupid, should not say such stupid things. However, as she presses him for an answer, she grows more certain he was actually trying to save them, but he won't confess.
 
@@ -3066,7 +3066,7 @@ Mashu confirms what is happening. His Saint Graph pattern reads clearly: Beast.
 >
 > Test Xibalba, the depths of hell upon which the people of Ka'an were burned, and the pith of its horror!
 
-![](https://static.atlasacademy.io/JP/Movie/battle_mov006.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/battle_mov006.mp4)
 
 (The intro cutscene says "Evil of Humanity", but the sin he represents is not visible at this moment. In battle, the Beast class icon is all messed up here and seemingly no dot filled, and his name reads "Beast I", with the "I" also being weird and kinda twisted.)
 
@@ -3241,7 +3241,7 @@ Camazotz refuses to hear this. Nothing could be more foolish. To forget is nothi
 
 Naturally, she shall accept the prize from their bet too. This Underworld is now fully her domain, and as such she is quick to enact a new decree: "Those who find themselves in this Underworld are forbidden from forgetting anything". Now, you are ready for battle with the King of Bats, the undying warrior who fled punishment six million years ago. As atonement, Nitocris Alter shall grant him a fitting end.
 
-![](https://static.atlasacademy.io/JP/Movie/battle_mov007.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/battle_mov007.mp4)
 
 ::: tip TL Note
 (Now we see the sin he represents: Oblivion (忘却). To give some TM context on this if you're not aware, this is a term that comes up in KnK, where it's roughly described as follows, though paraphrased: It is things such as sin, taboo, regret - nothing more than a negative in the intelligence cycle. Oblivion does not come about from memory organization, but it comes from malignant information that is contradictive to the continued survival of humans, causing it to be "intentionally" forgotten. People are able to lead healthy lives by forgetting the inconvenient truths that make up this malignant information.
@@ -3821,7 +3821,7 @@ And so, he simply walks off the ledge.
 
 That's a lot to take in, but you can't stay here and theorize. ORT is coming, and as Daybit said, you need to make it to Antarctica if you want to stop everything. Kirschtaria must have thought the same. While the two of them followed their own ideals, they never once actually denounced you. It wasn't about good or evil, or even duty; it was about doing what one believes is right, and that's what the two of them did til the very end.
 
-![](https://static.atlasacademy.io/JP/Movie/talk_mov159.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/talk_mov159.mp4)
 
 Mashu goes to grab Tenochtitlan, while you grab Olga, who's even weaker now that her heart has actually been crushed. It seems like she's trying to regenerate it as fast as she can, but it's no use, as some green alien-like thing comes up and envelops her. It seems that since ORT ate her heart, it now sees her as another part of itself, ready to assimilate. In other words, in a moment, she'll be disassembled completely and absorbed by ORT. However, you can't get close to it. It gives off so much radiation you would die in mere seconds, and not even a Servant could get close. And if it's impossible for a Servant, then no other living organism could do it either. But that doesn't stop some. Wak chan appears, quickly gnawing through the alien structure until Olga is freed.
 
@@ -3887,7 +3887,7 @@ You tell Olga you need to get out of here, and Rasputin agrees. ORT has obtained
 
 You desperately want to at least bring Wak Chan's body with you outside, but Tepeu stops you right away. The body is saturated with poison, so you have no way of transporting it back safely. Unfortunately, he has to be left down here. As for Tenochtitlan, she's conscious, but it would be too difficult to get her out of here as well, so she's gonna have to be left to her own devices for now. Tepeu will carry Gudao and Da Vinci out, meaning the only ones you're getting out of here are gonna be Da Vinci, Mashu, Habetrot, Gudao, and Tepeu.
 
-![](https://static.atlasacademy.io/JP/Movie/talk_mov160.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/talk_mov160.mp4)
 
 A tremendous object is rising up from below you, forcing you to set your Mystic Code's temperature regulation to maximum just to remain conscious. SHEBA informs you that this object represents a maximum level of both danger and hostility. Its Saint Graph doesn't match anything found on Earth, with a Saint Graph grade of Satellite-class and rising. In just a few seconds, the object from below has completely risen, and you make contact. Now begins the showdown with ORT.
 
@@ -3909,11 +3909,11 @@ You...actually manage to defeat it? At least, the instruments show that ORT has 
 
 Da Vinci quickly realizes what's going on. You have to get away quickly. ORT wasn't even fully active when you just fought it. It hadn't actually reactivated when it rose from the coffin. Here and now is where you will witness the first reactivation of ORT to its full form.
 
-![](https://static.atlasacademy.io/JP/Movie/talk_mov161.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/talk_mov161.mp4)
 
 Back at the Storm Border, everything is giving off a code red. Gravitational fluctuations have been detected all over Mictlan's lowest layer. The instruments are going berserk. The estimated Saint Graph of whatever this thing is keeps increasing, jumping from satellite-class to stellar-class. Nemo Marine confirms that the very Texture of the world is being overwritten from the lowest layer up. Now, finally, they are able to confirm the existence of the Fantasy Tree, but it's completely immeasurable. That is, until they actually look outside.
 
-![](https://static.atlasacademy.io/JP/Movie/talk_mov162.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/talk_mov162.mp4)
 
 All the trees of Mictlan are turning into Fantasy Trees. This is what the reactivation of ORT has wrought. This is an ORT different from the one in PHH. It has adapted to the "what if" history of the Lostbelt, and though it may be inferior to the PHH one in both output and destructive instinct, to the point of almost being like a "subspecies", it has fed on the Fantasy Tree and altered its Reality Marble for it. An invasive species that transforms Earth's vegetation into Fantasy Trees, creating an environment more suited to itself. That's what this ORT is. This is no longer the Golden Sea of Trees. It has become the greatest, most terrible Lostbelt; a galactic hell forged in the depths of the Earth.
 
@@ -4503,7 +4503,7 @@ Also called the The Type 79 Iz Tula Seven Drive: Mk. Mictlan, it's what Koyanska
 
 20 seconds until ORT enters effective range. All safeties off. Maximum output. Main cannon: fire!
 
-![](https://static.atlasacademy.io/JP/Movie/talk_mov163.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/talk_mov163.mp4)
 
 Too bad, that didn't work either. It somehow generated another space storm, even though you got rid of those organs earlier. It's not that it regenerated them, but that it's somehow recreated itself as what is effectively a whole new concept. That's why its matter increased so much as well, because as a result, it recreated the spider-shaped body. In other words...you have to do it all over again? There's no way you would manage that. Thankfully, it's not that it fully protected itself, but that it used the gravity field to redirect the cannon blast. You simply have to calculate a trajectory which would hit it regardless. Of course, easier said than done considering if ORT closes in any more, you're done for, and it would take at least two minutes to recharge the cannon if you redirect literally all power you have to it, which is simply not enough. Are you gonna have to retreat and leave Mictlan behind after all? Even if you do that, you won't get another chance like this to take out ORT. Thankfully, help does arrive...
 
@@ -4559,7 +4559,7 @@ Olga states that if you have anything to say, you should do so now. There won't 
 >
 > Good grief. I really wish I'd been able to do better.
 
-![](https://static.atlasacademy.io/JP/Movie/talk_mov164.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/talk_mov164.mp4)
 
 
 Annihilation of ORT visually confirmed. Olga did it! But...where is she? Mashu yells at the control room to quickly scan their surroundings, but nothing comes up. Her readings are completely gone. The destruction of her Saint Graph was confirmed alongside the firing of the Rayproof. This is the only natural outcome, doing something like that without a heart. She told you already, didn't she?
@@ -4589,7 +4589,7 @@ You decide to head back inside, considering you can barely walk at this point. B
 
 Crazy as it is, because of how many Servants it ate, right before it died it came to understand the summoning ritual, formulated a virtual future, and summoned itself once it had been designated a Heroic Spirit within that what-if future. Just from existing, it warps the Border's hull. It's preparing to emit what is effectively a solar storm, and at this range you won't survive. You can't even move the Border at this point,since you redirected all the power earlier. You have to at least get inside for a chance at survival. Mashu tells you to grab her shoulder, but when supporting you, Mashu would simply be too slow. You yell at her to leave you behind, but she wasn't asking, she was ordering. And so, ORT fires.
 
-![](https://static.atlasacademy.io/JP/Movie/talk_mov165.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/talk_mov165.mp4)
 
 A new Saint Graph reading has appeared: it's Kukulkan, having made it just in time! She flew here at mach speed while somehow not even breaking the sound barrier, but she is at least firmly intent on defeating ORT.
 
@@ -4727,7 +4727,7 @@ This is an opponent that can seemingly not be defeated no matter what you do. We
 >
 > Your time has come to an end, Ultimate One! There is nothing upon this planet for us to consume!
 
-![](https://static.atlasacademy.io/JP/Movie/talk_mov166.mp4)
+[Click to view Animation](https://static.atlasacademy.io/JP/Movie/talk_mov166.mp4)
 
 
 And so, the sun burned out, its final duty concluded. The Sea of Fantasy Trees vanished, having never become more than a supposition, and upon the plains remained the deinos whose death was fast approaching. In the final moments of his life, the stargazing deinos looked up at the cosmos in the now sunless underground. It had been nothing more than a world of fantasy, the memories of which would fade from all eventually, but still, during that time, it was beautiful. Even if something lacks a happy ending, even if it's fantasy, or fiction, once something's created it can never disappear. Dreams once born forever etch themselves into the boundary. They remain, forever, in this universe. Even if there's no one to recount them, if it has happened, it could not have been meaningless.

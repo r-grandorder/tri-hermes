@@ -91,15 +91,6 @@ module.exports = {
         ],
         sidebar: 'auto'
     }),
-	markdown: {
-		extendMarkdown: md => {
-		  md.use(require('markdown-it-html5-embed'), {
-			html5embed: {
-			  useImageSyntax: true,
-			  useLinkSyntax: false
-			}
-		})
-    }}
     plugins: [
         seoPlugin({
             hostname: "https://r-grandorder.github.io",
