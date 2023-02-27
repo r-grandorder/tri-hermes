@@ -62,11 +62,7 @@ Olga fusing with ORT wasn't part of the calculations. She was already level 1000
 ::: tip Unrelated Clock Tower notes
 ORT survivor Lord Astea is extremely weird to me. The name Astea has been used before as an abbreviation of Meluastea, especially as the title of the Department of Archeology, but in Legacy of the Alchemist more so than ever, it's constantly evidenced that the Department's full name (and therefore its founder's name) is Meluastea. There's a similar precedent with the Department of Hexes being called Zigmarie but often shortened to Zig, but that's a place we know nothing about. Also the Department of Creation being called Valuay while its Lord's name is Valuaylita.
 
-Sanda is probably answering this one still this week while also confirming that the reason why the Meluastea are so important despite being broke is the ORT credits continuing from the 16th century, but until then I'll be assuming that the Meluastea are an Astea branch who took over after ORT left the main line without a heir. Or <ruby>
->Kadoc<rt>
->Nasu</rt>
-></ruby>
-> was just lazy and shortened Lord Meluastea's name, who knows.
+Sanda is probably answering this one still this week while also confirming that the reason why the Meluastea are so important despite being broke is the ORT credits continuing from the 16th century, but until then I'll be assuming that the Meluastea are an Astea branch who took over after ORT left the main line without a heir. Or <ruby>Kadoc<rt>Nasu</rt></ruby> was just lazy and shortened Lord Meluastea's name, who knows.
 :::
 
 
@@ -75,15 +71,7 @@ Sanda is probably answering this one still this week while also confirming that 
 
 Fujimaru debuts Habetrot's new Anti-Alien God Master Mystic Code. The scheduled 2 days of rest were reduced to 2 hours + tea with honey. Mash's Ortinax was also in top condition since it was barely damaged in Traum. That said, da Vinci forbids Mash from weaponizing the concept of death with the Black Barrel. It puts too much strain on Mash's body and threatens Fujimaru's future survival. The compressed mana cannon function is still authorized to use, but not in populated areas since that would harm innocent civilians. Da Vinci also comments on Mash's power-up. Servants don't evolve beyond the abilities of their lifetime because they don't have a body to develop. Their physical form is still ether instead of flesh. But Mash is a Saint Graph transplanted into a human body, so her mental changes trigger physical growth that evolves her Saint Graph accordingly. The drawback here is that if she gets even more powerful, she'll quickly stop being Demi. Da Vinci reminds her that if things get really bad, she can just take off her Ortinax. Chaldea has other options.
 
-We approach the South American Lostbelt. Da Vinci announces that the simulations proved our Holy Sword cannon 99.99% reliable. She named the thing <ruby>
->Hume-Barrel<rt>
->Human Order theorem</rt>
-></ruby>
-> <ruby>
->Rayproof<rt>
->Proof of a future</rt>
-></ruby>
->. Sion also has her report on Subject E. She confirms it was a state-of-the-art operating room within our level of civilization, that there's no lifeform like it in Trismegistus's records, and that blood traces conspicuously distant from the surgery table indicate a murder occurred in that room. Further analysis was discontinued to prioritize clearing the Lostbelt.
+We approach the South American Lostbelt. Da Vinci announces that the simulations proved our Holy Sword cannon 99.99% reliable. She named the thing <ruby>Hume-Barrel<rt>Human Order theorem</rt></ruby> <ruby>Rayproof<rt>Proof of a future</rt></ruby>. Sion also has her report on Subject E. She confirms it was a state-of-the-art operating room within our level of civilization, that there's no lifeform like it in Trismegistus's records, and that blood traces conspicuously distant from the surgery table indicate a murder occurred in that room. Further analysis was discontinued to prioritize clearing the Lostbelt.
 
 Our plan is to enter the Lostbelt with a group of 4 Servants. Out of them, Nitocris, is already summoned and present in the briefing room, but the other 3 will be summoned later. Since she was summoned from Chaldea's suitcase, Nitocris has her Camelot memories. Nito on her own is already adaptable, capable of crowd combat, and has magecraft strong against fever and defilement, but for this mission, she also leveled to her ideal form (3rd Ascension) and added Independent Action functions so she can keep guarding the team even in case Fujimaru dies.
 
@@ -285,8 +273,7 @@ The jungle is so densely packed with information that Olga has to turn off her s
 Marine and Habetrot come back being chased by aggressive deinos. Tepeu explains their brains have deteriorated, reducing them to mindless carnivores. Dialogue is impossible, you either run or stop them. However, Olga is now able to fight the dinosaurs because she has Mash as her tank, keeping them away from her.
 
 
-[ <- Mash/Habetrot/Olga-only battle against jungle snakes an irrational deinos ->
-> ]
+[ <- Mash/Habetrot/Olga-only battle against jungle snakes an irrational deinos -> ]
 
 Out of the jungle, we reach a field of 2-meter-tall corn stalks. Corn is the most popular food among deinos, the only one they eat for flavor rather than nutrition. The Marine mentions the use of corn for ethanol, leaving Tepeu and Olga astonished by the idea of using a source of nutrients as fuel. Why would you prioritize fuel over Earth's natural cycles? Mash explains biofuel agriculture and greenhouse gas emission, leaving Olga all the more convinced her strong leadership is necessary to get humanity out of its losing streak.
 
@@ -333,7 +320,6 @@ The two main cities of Mictlan are:
 2. Mexico City, in level 5. The city of the Ocelomeh. It's a city of death created by Daybit and Tezcatlipoca.
 
 The Storm Boarder's estimated landing point is between these two cities.
-
 :::
 
 5. Crypter
@@ -380,8 +366,7 @@ Olga asks if anyone knows what ORT is since it's one of the few terms she still 
 We get to the river of the Red Underworld Border trial, but it's gotten so wide that it looks more like an ocean with waterfalls than a river. Tepeu freaks out when he sees the river because it's immensely bigger than it was when he last came to Tlatlauhqui. His heart doesn't believe he cleared this trial, so he's as in danger as any of us now. The giant iguana from the trial appears.
 
 
-[ <- Mash/Olga solo battle against Xochitónal and smaller underworld iguanas ->
-> ]
+[ <- Mash/Olga solo battle against Xochitónal and smaller underworld iguanas -> ]
 
 ---
 
@@ -390,8 +375,7 @@ We beat Xochitónal. Olga getting used to the giant lizards. We didn't even need
 Kingprotea overhears us talking about Chaldea and assumes we are the enemy that knocked down the Storm Boarder.
 
 
-[ <- Mash/Habetrot solo battle against Xochitónal and smaller underworld iguanas ->
-> ]
+[ <- Mash/Habetrot solo battle against Xochitónal and smaller underworld iguanas -> ]
 
 The battle stops because Protea saw Fujimaru, which is the only person she recognizes because Mash wasn't in the SE.RA.PH. event. Luckily, one of Protea's components is Airavata. Swimming in the ocean of milk is essentially crossing an ocean of death and Protea is big enough to carry everyone to the other side, so we found out the solution to the trial.
 
@@ -404,8 +388,7 @@ Camazotz (the Camazotz from Pan-Human Aztec and Mayan mythologies, not any Lostb
 Camazotz's last act before disappearing is using one of Fujimaru's Command Spells to force Kingprotea into Xochitónal's position of guardian of this underworld border. Not only that, but he took the Xochitónal we defeated and turned it into a green calavera mask he attached to Kingprotea.
 
 
-[ <- Mash/Habetrot/Olga solo battle against Kingprotea Xochitónal ->
-> ]
+[ <- Mash/Habetrot/Olga solo battle against Kingprotea Xochitónal -> ]
 
 Protea is tanking Black Barrel shots and all the attacks Olga can throw in her current weakened state, so the group decides to hide in the jungle and hope she doesn't crush us. Tepeu explains that since she was made into the guardian of the underworld, she can't pursue us out of the river. We just need to be lucky enough to escape her reach before she squishes us.
 
@@ -439,8 +422,7 @@ And here is where Rasputin brings up the next big underworld border exploit. Fuj
 Our gameplay team is positioned to fight Kingprotea Xochitónal. Mash is positioned to throw Kotomine at the mask once she's in check.
 
 
-[ <-Battle against Kingprotea Xochitónal->
-> ]
+[ <-Battle against Kingprotea Xochitónal-> ]
 
 ::: tip Gameplay gimmicks
 Kingprotea Alter’s battle gimmick is that you can stop her big heal by fielding a goddess, can stop her party shuffle by fielding a defender, and can stop her heal-per-turn by fielding an obstacle-maker.
@@ -455,11 +437,7 @@ Mash tosses the priest. Spirit surgery time.
 
 Agony. Suffering. On the name of the evil dragon signifying death, I look upon a wellspring of pus. The defilement of death and fevers from ague call upon us all. I will scoop out the mud that splashes into a flood.
 
-<ruby>
->Помилуй нас, Господи.<rt>
->Have mercy on my soul</rt>
-></ruby>
->
+<ruby>Помилуй нас, Господи.<rt>Have mercy on my soul</rt></ruby>
 
 
 ---
@@ -467,8 +445,7 @@ Agony. Suffering. On the name of the evil dragon signifying death, I look upon a
 The mask came off and kept fighting, but now that Protea's body is no longer at risk, we can go all out on it.
 
 
-[ <-Battle against the calavera mask->
-> ]
+[ <-Battle against the calavera mask-> ]
 
 When the mask dies, it returns to being one Command Spell and goes to Fujimaru's hand. But this alone doesn't return Fujimaru's full Master rights. They're still limited to only 2 gameplay Servants when outside of the underworld borders.
 
@@ -486,8 +463,7 @@ We also get a flashback to our goodbye with Protea at the underworld border. It 
 Once all the Protea-related dialogue is settled, we're randomly attacked by carnivorous insects that inflict fever on contact. The bugs' neurotoxins make deinos pass out and/or kill themselves from excessive pain, making them the #6 leading cause of death for deinos. This Lostbelt is a world where even the weakest creatures have a way to prey on the strong.
 
 
-[ <-Battle against flesh-eating bugs->
-> ]
+[ <-Battle against flesh-eating bugs-> ]
 
 We were jumped on really out of nowhere because our recon Marine didn't think to keep watch at the sky and the Ortinax radar didn't register the bugs as threats. It won't happen again now that we know. We can also sleep safely knowing that the Ortinax is producing an insect-repelling frequency.
 
@@ -514,8 +490,7 @@ Fujimaru asks why she cares so much if she thinks humanity is so foolish. She as
 We're out of the woods, arriving at a great plain. We're immediately attacked by a pack of deinos under the Dinosaur King's order to let no Ocelotl pass.
 
 
-[ <-Battle against fighter deinos->
-> ]
+[ <-Battle against fighter deinos-> ]
 
 The enemies get really excited at all these Ocelotl weapons they've never seen before. There's no way to hide from them in the big plains, their numbers are too big to fight, and it's impossible to talk with them because deinos grow unreasonably stubborn when they are assigned a task. We also learn here that pain is pleasurable stimuli for deinos and that it can easily get addictive. Tepeu recommends we fall back into the jungle. We then take the route to Chichen Itza, so we can ask the Dinosaur King to let us through.
 
@@ -547,8 +522,7 @@ Out of solutions that can be done overnight, we decide to stay at Tepeu's Chiche
 Olga and Marine managed to enter the city because Olga is visibly not human and Marine was mistaken for Olga's accessory. Since our audience was refused, Olga suggests plan B: destroy the altar so the king will lose his legitimacy and they will be free to do whatever. Rasputin convinces her to avoid diplomatic incidents. We move to Tepeu's house, and it's looking almost like the jungle due to how long it has been abandoned.
 
 
-[ <-Battle against the wild animals that occupied Tepeu's empty house->
-> ]
+[ <-Battle against the wild animals that occupied Tepeu's empty house-> ]
 
 Tepeu's home is renewed, thanks mostly to the house-cleaning gods Marine and Kotomine. After that, Tepeu asks Mash for exposition on the Pan-Human version of Chichen Itza. This is where Fujimaru learns that Mayan and Aztec mythologies are not the same thing. Skipping the parts you can find on Wikipedia and focusing only on the Nasu-original elements, this section tells us that the Mesoamerican Age of Gods ended with the fall of the Mayan civilization in 900CE. The Aztec god Quetzalcoatl is a later development created from an existing prototype: the Mayan god Kukulkan. It's also noteworthy that when Mash gets to the part about the Spanish colonization of the Aztecs, she goes in depth about Hernan Cortes's tactics. His association with Quetzalcoatl feels familiar to Fujimaru because he's also a conqueror from another land being treated as a guest by Tepeu. Tepeu's opinion on the story is quite different though.
 
@@ -581,8 +555,7 @@ Fujimaru and Mash walk around the city, seeing many deinos and their casual conv
 We go to the arena to see all the players warming up. There we meet Team Death Rolling, a team of 11 deinonychus brothers who once won 7 tournaments in a row. Despite claiming to be 11 brothers, Fujimaru notes there are not 11 of them there. The deinos confesses a few team members are suffering from cocoa intoxication. Mash and Fujimaru ask to join their team, but they were originally trained by Tepeu before he left the city, so they can recognize Tepeu's smell in them. They challenge the two to a quick match to determine their mettle.
 
 
-[ <-Xoqqer match against the 7 deinonychus brothers->
-> ]
+[ <-Xoqqer match against the 7 deinonychus brothers-> ]
 
 Our xoqqer skills bring the deinonychus brothers to tears and we get accepted into the team. Turns out the team sucks because they're all offensive players, except for their defenders who happen to be ones who are unable to play because of the aforementioned cocoa intoxication. They're clearly not the kind to think things through. Their default strategy is diving into the enemy team because the deinonychus are small and light, and so get easily sent flying causing the opponent to get a yellow card for it.
 
@@ -599,8 +572,7 @@ The team then warns Mash and Fujimaru that every xoqqer player needs to have the
 Back at Tepeu's house, Tepeu and Marine are home, having already formed Team South American Nautilus before we joined Team Death Rolling. Olga and Rasputin still aren't back from the team-making mission. We remind Tepeu of the participation requirement. Tepeu sends Marine back to pass their strategy to the team while Tepeu goes with Mash and Fujimaru to gather material to make everyone's balls. He guides them to the latex trees, where the group is ambushed by Ocelomeh.
 
 
-[ <-Battle against Ocelomeh->
-> ]
+[ <-Battle against Ocelomeh-> ]
 
 After defeating the Ocelomeh, they hear even more gunshots. Following the sounds, they find a maskless human boy who appears to be a child version of the afterlife man who will later be revealed to be Tezcatlipoca. The boy shoots at the Ocelomeh for putting their fingers on the trigger and then not killing him. The child complains that Daybit is not instructing the jaguar warriors right. He sees Mash and Fujimaru and asks why they aren't wearing their masks. He implies he doesn't need a mask because he's ranked above Ocelotl. Fujimaru and Mash's lack of masks is against the Ocelotl rules, but he lets it slide because they didn't aim their guns at him. He disappears, musing about how Mictlan is doomed because the deinos and Ocelomeh can only think about winning the war. Tepeu later comes back carrying the whole trees we need to make our balls. We tell him about the human boy and he thinks we hallucinated the kid.
 
@@ -612,8 +584,7 @@ Everyone is at the dinner table. Tepeu will make everyone's xoqqer balls overnig
 ## Chapter 6: The Striker Of Burning Flames
 
 
-[ <-Level 150 Olga battle against all Grands->
-> ]
+[ <-Level 150 Olga battle against all Grands-> ]
 
 ---
 
@@ -635,8 +606,7 @@ We're promptly taunted by our first opponent, Great Death Claw, the wacky captai
 Scary Eleven scored 100-0 in the first game thanks to Olga's aggressive playstyle and Coach Kotomine's cold-blooded strategies. All we have to compete against this is... actual knowledge of football tactics. This is the de facto finals of the tournament, as Olga puts it.
 
 
-[ <-Xoqqer match against Olga's Scary Eleven->
-> ]
+[ <-Xoqqer match against Olga's Scary Eleven-> ]
 
 ---
 
@@ -687,8 +657,7 @@ Damn it, I couldn't see clearly because the veil was in the way. You guys aren't
 Priest Vucub panics, mistaking Chaldea for Ocelomeh, and calls his greatest fighter, Wak Chan.
 
 
-[ <-Battle against Wak Chan->
-> ]
+[ <-Battle against Wak Chan-> ]
 
 ---
 
@@ -786,8 +755,7 @@ The team decides to inform Mash they will be noncommunicable for a while, but do
 Tezca shoots Meuniere in the heart, then in the head. Next, he calls in his Ocelomeh, commanded by the Ocelotl King Izcalli.
 
 
-[ <-Kadoc battle using only Nitocris against the Izcalli and his Ocelomeh->
-> ]
+[ <-Kadoc battle using only Nitocris against the Izcalli and his Ocelomeh-> ]
 
 Tezcatlipoca taunts Izcalli over his performance against Nitocris, but he insists he's just getting the hang of how to fight Servants and that he'll kill her soon because he must eventually become Tezcatlipoca. Nitocris taunts Izcalli that he's a measly human trying to fight against an incarnation of a god. Then a new girl appears, asking Nito if the measly incarnation of a god wants to fight against an actual god. The girl introduces herself as Tezcatlipoca's little sister Tlaloc. She readily defeats Nitocris, but doesn't finish her off, instead keeping Nito alive so Nito she can suffer a slow death. Tezcatlipoca says that if she won't take Nito's heart, he will, but Tlaloc warns her brother against unnecessarily coming in contact with the blood of other mythologies. Tezca tells his sister to shut up because she's just a city's local rain god and a Servant summoned by Tezca himself, but Tlaloc insists this would be objectively dumb because while she's still in her divine form, her dear brother Tezca is using a human's body. Tezca agrees, remembering how sick he got after he tasted Hindu flesh. He thanks Tlaloc, calls her a good sister, and shoots her.
 
@@ -807,8 +775,7 @@ He commands Izcalli to retreat leaving Tlaloc behind because some little bullets
 Fujimaru's party is riding Wak Chan, who runs as fast as he can to get them to the Storm Boarder's landing site. Olga checks the Storm Boarder, notices there are more than the 12 people Fujimaru mentioned, including some corpses, and tries to go there ahead of the rest of the group. Fujimaru stops her because she can't meet Goredolf before he's properly informed. We get there and find all the dead bodies.
 
 
-[ <-Battle against the Ocelomeh who killed our staff->
-> ]
+[ <-Battle against the Ocelomeh who killed our staff-> ]
 
 While we were distracted fighting the Ocelomeh, Izcalli took Marine hostage at gunpoint. Izcalli introduces himself as the king of Mexico City and asks for Fujimaru's name in return.
 
@@ -817,8 +784,7 @@ While we were distracted fighting the Ocelomeh, Izcalli took Marine hostage at g
 Izcalli introduces himself as the king of Mexico City and asks for Fujimaru's name in return, but Fujimaru refuses to say it. Izcalli is overjoyed to get no respect because he didn't want to respect us either and only asked their name because Tezcatlipoca's law demands it. If Fujimaru summons a Servant, Izcalli shoots Marine dead, but if the team wins the fight without a summon, he'll free him.
 
 
-[ <-Battle against Izcalli and his Ocelomeh. Using Mash is mandatory but using any other Servant is optional.->
-> ]
+[ <-Battle against Izcalli and his Ocelomeh. Using Mash is mandatory but using any other Servant is optional.-> ]
 
 
 ::: tip If you don't solo Mash
@@ -891,16 +857,14 @@ Koyanskaya has no patience for Camazotz's smug cackling villain antics and gets 
 But enough chit-chat, Camazotz is eager to learn what Servant summons look like and revive his Mictlan with the blood of the Chaldean sinners.
 
 
-[ <-Battle against Camazotz's dead summons and his Boss Ghost form->
-> ]
+[ <-Battle against Camazotz's dead summons and his Boss Ghost form-> ]
 
 ---
 
 Camazotz still hasn't got the hang of Servant summoning, so he is forced to pull the "I turned Chaldea's Servants Alter" card again, this time calling Beni-Enma Alter to challenge us. The proxy judge of hell announces our sins shall be judged by her blade.
 
 
-[ <-Battle against Beni-Enma Alter->
-> ]
+[ <-Battle against Beni-Enma Alter-> ]
 
 Beni Alter's gimmick is that she can use the mountainous terrain as her insta-death swords. U-Olga gets hit, but manages to reboot her brain after shutdown, nevertheless unsure if she'll be able to do it a second time. Beni Alter says she has understood what crimes we're being charged for, hands us a 10 quintillion years sentence, and flies away mid-battle, interrupting it for no discernable reason. Koyanskaya is crying over what happened to her dear sweet Beni.
 
@@ -909,8 +873,7 @@ Beni Alter's gimmick is that she can use the mountainous terrain as her insta-de
 Beni lands atop the tallest mountain waiting for us. We just need to cross the mountain range to clear the trial, so Olga proposes ignoring that one and going across a shorter mountain to get this over with. Kotomine adds that if we ever want a rematch against Beni, we can have it after rescuing Chaldea's hostages. Only Koyanskaya takes Beni-Enma as a priority.
 
 
-[ <-Battle against handmaid and hell guard onis ->
-> ]
+[ <-Battle against handmaid and hell guard onis -> ]
 
 One day later, Fujimaru notices we've been on an endless loop. This whole time, we've been climbing the same mountain six times. Olga expands her sensory range and detects that the mountain has no exit. The Aztec underworld is a set of trials that the dead pass, but Beni-Enma's presence has converted it into the Japanese hell, which is an inescapable prison until the end of their sentence time.
 
@@ -930,8 +893,7 @@ Our team will fight to wear down Beni-Enma Alter so Koyanskaya can force-feed he
 8100kg is the specific weight of Ruyi Jingu Bang in Journey to the West, but I'm not seeing how this correlates to Beni-Enma's character
 :::
 
-[ <-Battle against Beni-Enma Alter->
-> ]
+[ <-Battle against Beni-Enma Alter-> ]
 
 ::: tip Gameplay gimmicks
 Beni-Enma's regular attacks have a chance to insta-kill. Olga has guts that trigger only on insta-kill. There's a surprise King Hassan locked to the last slot for reasons the story doesn't acknowledge in any capacity. Your whole team gains insta-kill resistance when he hits the field.
@@ -944,8 +906,7 @@ Fujimaru confirms the 2nd Command Spell return, but Beni-Enma still has to remai
 ## Chapter 9: The Lost Water Metropolis
 
 
-[ <-Battle against Ocelomeh on the road to Mexico City, accompanied by their tamed deinos and NNF-brand devil hummingbirds->
-> ]
+[ <-Battle against Ocelomeh on the road to Mexico City, accompanied by their tamed deinos and NNF-brand devil hummingbirds-> ]
 
 Mexico City is a busy commercial district with roughly 30k people about on the streets. It has a population of 100k fighters + separate villages of women and children for support. Tezcatlipoca made the place very urban and modern-looking. Kotomine disguises let us infiltrate but we can't make sense of the Ocelotl language. That means we can't talk to the locals and find out where the prisoners are being kept.
 
@@ -988,8 +949,7 @@ Daybit leaves and Sion is impressed at how much the "hole in reality" is exactly
 Another conversation between Fujimaru & Olga. This time because Fujimaru can't sleep before the big operation. Olga mentions the importance of rest and proposes a solution. If Fujimaru can't sleep, she simply has to fatigue them until they can. And so she sends them to her BB Channel rip-off.
 
 
-[ <- Battle against Olga's virtual enemies. Wave 1 is all Servants Olga used in Lostroom. Wave 2 is Tlaloc. ->
-> ]
+[ <- Battle against Olga's virtual enemies. Wave 1 is all Servants Olga used in Lostroom. Wave 2 is Tlaloc. -> ]
 
 ![](https://i.imgur.com/Tg286YD.png)
 
@@ -1039,15 +999,7 @@ Accumulated creeds, established.
 
 To boost the innermost of Heroic Spirit Nemo's convictions, and the most outstanding of his abilities.
 
-Ergo, to revive from fatal injury. <ruby>
->Gradation Air<rt>
->Projection medication</rt>
-></ruby>
-> : <ruby>
->Nemo Origin<rt>
->Indomitable</rt>
-></ruby>
->
+Ergo, to revive from fatal injury. <ruby>Gradation Air<rt>Projection medication</rt></ruby> : <ruby>Nemo Origin<rt>Indomitable</rt></ruby>
 
 ---
 
@@ -1062,8 +1014,7 @@ Anyway, here's the plan: Fujimaru, Nemo, Mash, and U-Olga ride Tepeu and be a bi
 Olga's team interrupts Izcalli's big speech, something he was already expecting. Mexico City's best warriors were in position for this big moment. The Ocelomeh already have all the hearts Xibalba needs, but Chaldea's heads still have value to them.
 
 
-[ <-Battle against Izcalli and his elite warriors->
-> ]
+[ <-Battle against Izcalli and his elite warriors-> ]
 
 ---
 
@@ -1072,8 +1023,7 @@ Izcalli is defeated by our heroes, but he still can't allow a future for our wor
 Izcalli begs Tezcatlipoca to let him finish his job of killing Chaldea, but Tezcatlipoca reminds him that his role is not to kill enemies or to rule the Ocelomeh, it's to survive for a whole year, because his body is Tezcatlipoca's. Tezca then notices Olga on our team. He's surprised she survived, but should have expected it since she calls herself a god. He asks if she wants a rematch and this dialogue gets Olga to remember he's the one who damaged her horn in her fight with the 7 Grands. Tezca says he could take Fujimaru and Kadoc on his own, but since Olga is joining the fight, he's passing the baton to Tlaloc. She arrives, bringing with her a powerful rainstorm. However, thanks to Olga's simulation training, Fujimaru already has a counter-strategy ready for Tlaloc's currents; one which involves using Nemo or any other Servant that floats in the air or can stand against strong currents.
 
 
-[ <-Battle against Tlaloc->
-> ]
+[ <-Battle against Tlaloc-> ]
 
 ::: tip Gameplay gimmicks
 Tlaloc's Savage Metztliapan stuns all Servants every turn, except for floating Servants. The effects of Savage Metztliapan are also offline while Nemo is on the field. She also has Bountiful Rain healing 30k HP every turn.
@@ -1084,8 +1034,7 @@ Tlaloc's Savage Metztliapan stuns all Servants every turn, except for floating S
 We beat Tlaloc and celebrate "avenging Nitocris". Tlaloc corrects us, saying that her river floods didn't affect Nitocris at all. Nito lost to the god of war, not the rain. So Tlaloc changes her Class and True Name, from Ruler Tlaloc to Berserker Huitzilopochtli.
 
 
-[ <-Battle against Huitzilopochtli->
-> ]
+[ <-Battle against Huitzilopochtli-> ]
 
 ::: tip Gameplay gimmicks
 Huitzilopochtli generates 3-times invincibility every turn. Also every turn, she fills her whole NP gauge and gives herself an NP damage buff. But instead of proper Noble Phantasm, Huitzilopochtli uses a defense-lowering attack named Lamentful Coyolxauhqui.
@@ -1142,8 +1091,7 @@ I will fulfill my role as a Crypter. I will destroy this planet before everythin
 Daybit jumps down the falling debris. ORT is now too close to avoid.
 
 
-[ <-Battle against ORT->
-> ]
+[ <-Battle against ORT-> ]
 
 ::: tip Gameplay gimmicks
 You need to break ORT's first gauge to progress but after clearing the win condition, the battle still lasts for as long as you can last. All of ORT's attacks are AoE, including his NP: Cosmic Ray Burst. CRB clears all your buffs, reduces natural NP gain by 200%, and reduces the amount of NP charged by a battery by 100. After hitting the win condition, ORT starts filling his whole NP gauge to spam Cosmic Ray Burst every turn.
@@ -2477,11 +2425,7 @@ Even though the Ocelomeh have modified the tanks they got from her, and they num
 >
 > NFF Services are volunteers in service of mankind's desires---warmongerers who provide as many weapons as are in demand.
 >
-> In other words, the same kind of dealer of death as I am. Ain't that right, <ruby>
->Tochtli<rt>
->bunny</rt>
-></ruby>
->?
+> In other words, the same kind of dealer of death as I am. Ain't that right, <ruby>Tochtli<rt>bunny</rt></ruby>?
 >
 > Think you'll become a good businesswoman by helping people out? Give it up. That's exactly how you lead yourself down the path of a tragic death.
 
@@ -3941,7 +3885,7 @@ Thus begins the final operation: the Decisive Battle in the Sea of Fantasy Trees
 Now, at this point the map screen actually changes to reflect ORT overwriting the texture, but what's more is that technically this is where "Nahui Mictlan" actually ends. More precisely, you're forced to watch a cutscene here of the chapter banner changing to a red colored one, reading "ORT Xibalba".
 :::
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fDkNeaTdwxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>></iframe>>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fDkNeaTdwxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Section 21: Decisive Battle in the Sea of Fantasy Trees 
