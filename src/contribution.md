@@ -127,6 +127,10 @@ There are various Drama CDs on Youtube that would be helpful to have in text for
 
 [Transcription of PunPun's translation of Babylon singularity is needed.](https://www.youtube.com/watch?v=NZc-ANQ17gk&t=8s)
 
+# Chaldea Breakroom
+
+[The *Chaldea Breakroom* series](https://fate-go.us/chaldeabreakroom/) offers some insight into FGO's development. Having them transcribed into a single page will be handy.
+
 ### Articles / Summaries / Theories
 
 And finally, in our [Articles](https://tri-hermes.org/articles.html) page, we'd like to include user-created pages, rather than strictly archived content. All pages in this category will be marked as interpretative and will be strictly reviewed upon submission.
@@ -136,6 +140,7 @@ This category can include:
 * Interpretations of lore mechanics
 * Pages that go over the usage of certain concepts throughout different TM works
 * Plot Summaries of FGO Chapters or summaries of any other work.
+* Literary analysis of TM content.
 * Character summaries throughout different works.
 * Theories that have considerable research put into them, citing the source text throughout
 * ...and more!
