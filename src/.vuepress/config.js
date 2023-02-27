@@ -99,7 +99,7 @@ module.exports = {
 			  useLinkSyntax: false
 			}
 		})
-    }
+    }}
     plugins: [
         seoPlugin({
             hostname: "https://r-grandorder.github.io",
