@@ -3941,9 +3941,7 @@ Thus begins the final operation: the Decisive Battle in the Sea of Fantasy Trees
 Now, at this point the map screen actually changes to reflect ORT overwriting the texture, but what's more is that technically this is where "Nahui Mictlan" actually ends. More precisely, you're forced to watch a cutscene here of the chapter banner changing to a red colored one, reading "ORT Xibalba".
 :::
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fDkNeaTdwxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-></iframe>
->
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fDkNeaTdwxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>></iframe>>
 
 
 ## Section 21: Decisive Battle in the Sea of Fantasy Trees 
