@@ -24,3 +24,4 @@ footer: All scripts and images by TYPE-MOON ©
 * [Drama CDs](drama-cd.md)
 * [Articles](articles.md)
 
+![](https://i.imgur.com/jA86J1G.png)

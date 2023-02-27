@@ -9,5 +9,5 @@ TYPE-MOON is a Japanese company with quite a lot of restricted content if one wa
 
 Furthermore, the community's great attempts to translate TYPE-MOON content are scattered throughout the internet, simply having it all in one place will be a great convenience.
 
-![LORE](https://i.imgur.com/jA86J1G.png)
+![](https://i.imgur.com/lu07Lmz.png)
 
