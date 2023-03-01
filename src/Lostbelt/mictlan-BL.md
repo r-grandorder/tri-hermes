@@ -24,7 +24,7 @@ Da Vinci then arrives with the analysis results of data we scanned from the Spec
 
 ---
 
-**Moriarty:
+**Moriarty:**
 
 [Specimen E] is no lifeform native to Earth. It's the remains of a creature who spent 100 years in that laboratory, concealed, examined, and experimented on. I believe that its death throes called forth its kin, the Alien God, but that's as far as my theory goes. I don't have the numbers I need to solve this equation. Maybe Trismegistus II in the Storm Boarder will be able to reach an answer beyond this. [...] Well, ahem. Let me share one last bonus. After all, if I don't make myself more likable... I mean, if I don't contribute enough to the cause, I'm at risk of Chaldea not wanting to summon me. Let me make this clear: you are very pressed for time. U-Olga Marie, manifested as the Alien God, is plotting to power up her Saint Graph even further. Her current goal is to fuse with the Entity of the Outer Realm slumbering in South America. The absolute taboo that the Mage's Association classifies as exclusive to the Department of Lore. A legitimate space invader on our planet. The alien specimen called ORT. Hahaha, are you surprised? You sure are. Hopefully, your reaction will make my own heartburn pass. We are close to the time limit. There's no time to rest after defeating me. If the Alien God obtains ORT, we Earthlings will have lost. Make all due haste. Unless you want this planet to be split in twain for its potential for evil.
 
@@ -96,8 +96,7 @@ Sion reminds everyone the Fantasy Tree wasn't detected. It could be either dried
 We get our first visuals of the Lostbelt and there Pangea has been turned into a total wasteland. Fou signals us to a fast-approaching object. U-Olga detected us entering her exchange student home and warped to where we were. She could pulverize the Storm Border instantly with her usual gravity manipulation but she's currently feeling great because she's just back from killing all 7 Grand Servants offscreen, so she'll humor us with a hand-to-hand brawl. For Chaldea, the plan is to knock her off the deck with our Servants then shoot the Hume-Barrel on her point-blank.
 
 
-[<- Battle against U-Olga Marie ->
->]
+[<- Battle against U-Olga Marie ->>]
 
 ---
 
@@ -3885,8 +3884,7 @@ Thus begins the final operation: the Decisive Battle in the Sea of Fantasy Trees
 Now, at this point the map screen actually changes to reflect ORT overwriting the texture, but what's more is that technically this is where "Nahui Mictlan" actually ends. More precisely, you're forced to watch a cutscene here of the chapter banner changing to a red colored one, reading "ORT Xibalba".
 :::
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fDkNeaTdwxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[YT Link](https://youtu.be/fDkNeaTdwxU)
 
 ## Section 21: Decisive Battle in the Sea of Fantasy Trees 
 

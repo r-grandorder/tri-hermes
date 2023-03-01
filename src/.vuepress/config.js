@@ -77,12 +77,8 @@ module.exports = {
                 ],
             },
             {
-                text: "About",
-                link: "/about",
-            },
-            {
-                text: "Feedback",
-                link: "/feedback",
+                text: "How to Contribute",
+                link: "/contribution",
             },
 			{
                 text: "Discord",

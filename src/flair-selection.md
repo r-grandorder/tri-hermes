@@ -258,6 +258,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |:p71:|![](https://i.imgur.com/aZA0Z2X.png)|:p72:|![](https://i.imgur.com/lER32hf.png)|:p73:|![](https://i.imgur.com/M8NDimJ.png)|
 |:p74:|![](https://i.imgur.com/pI8fuP8.png)|:p75:|![](https://i.imgur.com/BiTS3mD.png)|:p76:|![](https://i.imgur.com/mDPHnwL.png)|
+|:p77:|![](https://i.imgur.com/AY6vK5Y.png)|||||
 
 ### Fate/Stay Night
 
@@ -266,7 +267,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:p10:|![](https://i.imgur.com/lSHeSiq.png)|:p11:|![](https://i.imgur.com/65EBgdx.png)|:p14:|![](https://i.imgur.com/vlmuG1o.png)|
 |:p12:|![](https://i.imgur.com/eBogbWn.png)|:p9:|![](https://i.imgur.com/T3J8g1r.png)|:p17:|![](https://i.imgur.com/og0s40L.png)|
 |:p25:|![](https://i.imgur.com/eZCs5rz.png)|:p26:|![](https://i.imgur.com/DeLoMYi.png)|:p34:|![](https://i.imgur.com/9W9rQdp.png)|
-|:p35:|![](https://i.imgur.com/u9fa8jg.png)|:p45:|![](https://i.imgur.com/LvXfuru.png)|:p77:|![](https://i.imgur.com/sejA5t6.png)|
+|:p35:|![](https://i.imgur.com/u9fa8jg.png)|:p45:|![](https://i.imgur.com/LvXfuru.png)|:p78:|![](https://i.imgur.com/sejA5t6.png)|
 
 ### Fate/Zero
 

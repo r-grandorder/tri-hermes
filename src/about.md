@@ -1,13 +1,28 @@
 # About Page
 
 
-## About This Wiki
+## About This Website
 
-TRI-HERMES aims to be a resource that values source material above all else. In a community where fanon is embedded in information spaces, TRI-HERMES will be completely transparent and display strictly source material unless said otherwise.
+TRI-HERMES is an ever-growing resource dedicated to hosting all TYPE-MOON content in one convenient place for all your lore needs.
 
-TYPE-MOON is a Japanese company with quite a lot of restricted content if one wants to learn all of the lore. This website will aim to host all 20+ years worth of content.
+Ideally it is intended for users to quickly `ctrl+f` a particular citation they require. It is still highly recommended to consume TYPE-MOON products as they are intended to be. (Playing the VN, reading the LN in a e-book, playing FGO scenarios in-game, etc)
 
-Furthermore, the community's great attempts to translate TYPE-MOON content are scattered throughout the internet, simply having it all in one place will be a great convenience.
+This project started off with some story scripts being parsed in grandorder.wiki. After quickly being limited by that wiki's environment, this Vuepress markdown wiki was devised. Big thanks to Enshael of r/GO and Cereal of Atlas Academy to set this website up. Not to mention all FGO NA scripts are parsed thanks to [Atlas Academy's DB.](https://apps.atlasacademy.io/db/)
+
+While initially meant to be FGO-only, the opportunity was taken to encompass all of TYPE-MOON. 
+
+> "This wiki was made during a spur-of-the-moment decision and has quickly consumed my waking life."
+
+~ Lib
+
+## Coming Soon
+
+* Fate/Hollow Ataraxia Script
+* Lord El Melloi Case Files Section
+* Lost:Einharjar Section
+* Fate/Extella Script
+* Servant Valentines pages
+* JP Scripts of Main FGO Chapters
 
 ![](https://i.imgur.com/lu07Lmz.png)
 
