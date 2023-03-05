@@ -235,7 +235,7 @@ Events under year headings are using NA script, and so use NA years.
 ::: danger bruh
 This won't be formatted for a *long* while, for it is hell to do so.
 
-https://apps.atlasacademy.io/db/NA/war/9076
+[Until then, please use Atlas directly](https://apps.atlasacademy.io/db/NA/war/9076)
 :::
 
 ### Summer 5: Servant Summer Camp

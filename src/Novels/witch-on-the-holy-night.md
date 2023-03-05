@@ -1,6 +1,8 @@
 # Witch on the Holy Night (Aniplex TL)
 
-The pages below are EN/JP script files for Witch on the Holy Night, officially localized by Aniplex. [Be sure to support the release!](https://www.amazon.com/dp/B0BL5XBFHJ/)
+The pages below are EN/JP script files for Witch on the Holy Night, officially localized by Aniplex. 
+
+[Be sure to support the release!](https://www.amazon.com/dp/B0BL5XBFHJ/)
 
 ## Chapter Selection
 

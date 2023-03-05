@@ -23,6 +23,7 @@ While initially meant to be FGO-only, the opportunity was taken to encompass all
 * Fate/Extella Script
 * Servant Valentines pages
 * JP Scripts of Main FGO Chapters
+* Materials with EN/JP Comparison from TMDict
 
 ![](https://i.imgur.com/lu07Lmz.png)
 

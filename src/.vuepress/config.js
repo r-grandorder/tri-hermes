@@ -81,6 +81,10 @@ module.exports = {
                 link: "/contribution",
             },
 			{
+                text: "About",
+                link: "/about",
+            },
+			{
                 text: "Discord",
                 link: "https://discord.gg/GzxxEwjzpU",
             },
