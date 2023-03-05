@@ -1,6 +1,10 @@
 # Fate/Apocrypha
 
+::: tip Source
+[Support the official release!](https://www.amazon.co.jp/-/en/gp/product/B0753GJ5HM?ref_=dbs_p_mng_rwt_ser_shvlr&storeType=ebooks)
+
 [Translation by NanoDesu Translations](https://fateapocryphathetranslation.wordpress.com/)
+:::
 
 * [Act 1](Apocrypha/Act-1.md)
 * [Volume 1](Apocrypha/Vol-1.md)

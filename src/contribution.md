@@ -67,7 +67,7 @@ If notepad++ is not quite your cup of tea, Visual Studio Code also supports mark
 
 * Discord Account
 
-You will need a Discord account and preferrably be in the TRI-HERMES discord server in order to properly communicate, organize, and send over MD files.
+You will need a Discord account and preferrably be in the [TRI-HERMES discord server](https://discord.gg/GzxxEwjzpU) in order to properly communicate, organize, and send over MD files.
 
 While Pull Requests on Github will be reviewed and accepted, handling page files through me directly will be faster and smoother for you.
 
