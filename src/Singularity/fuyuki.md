@@ -1,7 +1,3 @@
----
-image: https://i.imgur.com/I9FV7Kc.png
----
-
 # Singularity F: Flame Contaminated City - Fuyuki
 
 ## Prologue
