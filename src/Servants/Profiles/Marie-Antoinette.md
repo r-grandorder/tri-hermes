@@ -175,21 +175,21 @@ Marie completely recognizes d’Éon as a “woman”. Furthermore, Marie deeply
 
 ## Material Images
 
-![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-260.jpg?raw=true)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-260.jpg?raw=true)
 
-![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-261.jpg?raw=true)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-261.jpg?raw=true)
 
-![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-262.jpg?raw=true)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-262.jpg?raw=true)
 
-![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-263.jpg?raw=true)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-263.jpg?raw=true)
 
-![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-264.jpg?raw=true)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-264.jpg?raw=true)
 
-![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-265.jpg?raw=true)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-265.jpg?raw=true)
 
-![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-266.jpg?raw=true)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-266.jpg?raw=true)
 
-![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-267.jpg?raw=true)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-267.jpg?raw=true)
 
 ## Dialogue
 

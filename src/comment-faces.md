@@ -178,6 +178,7 @@ Be warned however that they are only visible in Old Reddit since they use CSS, s
 |`[](#DoumanEvil)`|![](https://i.imgur.com/lndiyhR.png)|`[](#BazettWorry)`|![](https://i.imgur.com/k0cvp0g.png)|
 |`[](#XuFuNom)`|![](https://i.imgur.com/5qFyD63.png)|`[](#XuFuGetUsedToIt)`|![](https://i.imgur.com/tt23F1N.png)|
 |`[](#Yorokobe)`|![](https://i.imgur.com/JJqVPKb.png)|`[](#TheCoolerYorokobe)`|![](https://i.imgur.com/Gr9E8Gx.png)|
+|`[](#TiamatJudge)`|![](https://i.imgur.com/ADPjB2E.png)|||
 
 
 ### Foreigner
@@ -194,11 +195,11 @@ Be warned however that they are only visible in Old Reddit since they use CSS, s
 |:--------:|:--------:|:--------:|:--------:|
 |`[](#OberonWinku)`|![](https://i.imgur.com/99EAqbw.png)|`[](#TlalocHeh)`|![](https://i.imgur.com/13N5cYY.png)|
 
-### NPC Jail
+### Beast
 
-| Command | Face |
-|:--------:|:--------:|
-|`[](#TakesugiKill)`|![](https://i.imgur.com/eiknJwG.png)|
+| Command | Face | Command | Face |
+|:--------:|:--------:|:--------:|:--------:|
+|`[](#DracoHate)`|![](https://i.imgur.com/LbqiYbN.png)|`[](#DracoUmu)`|![](https://i.imgur.com/errgShc.png)|
 
 ## Graveweaver
 

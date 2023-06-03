@@ -2,6 +2,7 @@
 
 ## Cats and Mistakes. Star and Death.
 
+![](https://i.imgur.com/SKxlW1F.png)
 
 ---
 
@@ -12,6 +13,8 @@
 
 ---
 
+![](https://i.imgur.com/gnanOg1.png)
+
 |EN|JP|
 |:--------|:--------|
 |Her home was nestled on the side of a mountain.|彼女の家は山の<ruby>中腹<rt>ちゅうふく</rt></ruby>にあった。|
@@ -19,7 +22,11 @@
 |She had no neighbors or childhood friends to speak of. Things like traveling to school or playing outside were more trouble than they ought to be.|おとなりに住む<ruby>幼馴染<rt>おさななじ</rt></ruby>みなんて望むべくもなく、学校に通うのも、遊びに出かけるのも不便なコトこの上ない。|
 |Indeed, with its pure water and bright stars, it was a place rich with memories both frustrating and halcyon.|けれど水も星も綺麗な、ちょっとの不満と大きな安らぎのある、思い出の家だった。|
 
+![](https://i.imgur.com/zdM9IML.png)
+
 ---
+
+![](https://i.imgur.com/45sbW4g.png)
 
 |EN|JP|
 |:--------|:--------|
@@ -29,6 +36,8 @@
 |...after waiting ten minutes for the engine to warm up and the iced-over windows to clear.|車の窓はびっしり<ruby>霜<rt>しも</rt></ruby>だらけで、出かける何十分か前にエンジンをかけないと走りだせない。|
 
 ---
+
+![](https://i.imgur.com/PQwZ7bD.png)
 
 |EN|JP|
 |:--------|:--------|
@@ -53,6 +62,8 @@
 |She knew, even though it wasn't human, that the feeble sound was a cry of agony.|彼女は人間の言葉でもないのに、痛いと泣き叫ぶような、小さな小さな<ruby>音<rt>こえ</rt></ruby>を聞いた。|
 
 ---
+
+![](https://i.imgur.com/3lLIwBD.png)
 
 |EN|JP|
 |:--------|:--------|
@@ -114,6 +125,8 @@
 
 ---
 
+![](https://i.imgur.com/45sbW4g.png)
+
 |EN|JP|
 |:--------|:--------|
 |"Hmm? ____, wait!"|「　　……？　待ちなさい、　　―――！」|
@@ -144,6 +157,8 @@
 |"I suppose you want me to alter this kitten's fate,"|『その子猫の運命を変えろと言う』|
 |the cave-dwelling magician said indifferently.|洞窟に<ruby>棲<rt>す</rt></ruby>む魔法使いは、関心のない声で言った。|
 
+![](https://i.imgur.com/uvWyorw.png)
+
 ---
 
 |EN|JP|
@@ -154,6 +169,8 @@
 |He simply granted the girl's childish wish, like a machine.|まるで機械みたいにあっさりと、彼女の身勝手な願いを叶えてやった。|
 
 ---
+
+![](https://i.imgur.com/k3DqYTA.png)
 
 |EN|JP|
 |:--------|:--------|
@@ -178,6 +195,8 @@
 
 ---
 
+![](https://i.imgur.com/QDZVNNH.png)
+
 |EN|JP|
 |:--------|:--------|
 |The last ten minutes were a total blank.|この十分間の空白に何を経験して、|
@@ -189,6 +208,8 @@
 |It was her mistake that gave birth to me.|私という、彼女が生まれた<ruby>過<rt>あやま</rt></ruby>ちだけ。|
 
 ---
+
+![](https://i.imgur.com/xf2XIhX.png)
 
 |EN|JP|
 |:--------|:--------|
