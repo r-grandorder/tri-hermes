@@ -1,4 +1,4 @@
-# Coral of the Moon
+# Tsuki no Sango - Coral of the Moon
 
 ::: tip Credits
 Compiled by Hamon
