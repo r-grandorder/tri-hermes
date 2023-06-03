@@ -48,7 +48,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/1NlO1Nm.png) | Diarmuid Ua Duibhne | [Material Profile](Servants/Profiles/Diarmuid-Ua-Duibhne-Saber.md) | [Interlude](Servants/Interludes/Diarmuid-Ua-Duibhne-Saber.md) |
 | ![](https://i.imgur.com/nUXSm0r.png) | Lanling Wang | [Material Profile](Servants/Profiles/Lanling-Wang.md) | [Interlude](Servants/Interludes/Lanling-Wang.md) |
 | ![](https://i.imgur.com/4K0jcm2.png) | Beni-Enma | [Material Profile](Servants/Profiles/Beni-Enma.md) | [Interlude](Servants/Interludes/Beni-Enma.md) |
-| ![](https://i.imgur.com/3Ho8a9I.png) | Lakshmi Bai | [Material Profile](Servants/Profiles/Lakshmibai.md) | [Interlude](Servants/Interludes/Lakshmi-Bai.md) |
+| ![](https://i.imgur.com/3Ho8a9I.png) | Lakshmi Bai | [Material Profile](Servants/Profiles/Lakshmi-Bai.md) | [Interlude](Servants/Interludes/Lakshmi-Bai.md) |
 | ![](https://i.imgur.com/AqIC4qE.png) | Jason | [Material Profile](Servants/Profiles/Jason.md) | [Interlude](Servants/Interludes/Jason.md) |
 | ![](https://i.imgur.com/Bs5Zkjp.png) | Katsushika Hokusai | [Material Profile](Servants/Profiles/Katsushika-Hokusai-Saber.md) | |
 | ![](https://i.imgur.com/bJ8xSZw.png) | Astolfo |  | |
@@ -66,6 +66,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/6yWODHo.png) | Roland | | | 
 | ![](https://i.imgur.com/GWuMw7a.png) | Gareth | | | 
 | ![](https://i.imgur.com/7jMeU6u.png) | Yamanami Keisuke | | | 
+| ![](https://i.imgur.com/oGAVdnm.png) | Setanta | | |
 
 ## Archer
 
@@ -113,6 +114,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/f6vaFzb.png) | Anastasia & Viy | | | 
 | ![](https://i.imgur.com/jfxefCe.png) | Zenobia | | | 
 | ![](https://i.imgur.com/0jyKW33.png) | Minamoto no Tametomo | | | 
+| ![](https://i.imgur.com/tXr57Ve.png| | Takasugi Shinsaku | | |
 
 ## Lancer
 
@@ -306,6 +308,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/oRGuXrz.png) | Valkyrie | | | 
 | ![](https://i.imgur.com/U4ZAPET.png) | Huyan Zhuo | | |
 | ![](https://i.imgur.com/eUPie3Q.png) | Tezcatlipoca | | |
+| ![](https://i.imgur.com/bQbdypP.png) | Locusta | | |
 
 ## Berserker
 
@@ -417,6 +420,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/zAqoWux.png) | Super Bunyan | | | 
 | ![](https://i.imgur.com/brt8CZz.png) | Xu Fu | | | 
 | ![](https://i.imgur.com/ukKRZWr.png) | Grigori Rasputin | | |
+| ![](https://i.imgur.com/COFBzKt.png) | Tiamat Larva | | |
  
 ## Foreigner
 
@@ -444,7 +448,13 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/qxGr8Wg.png) | Nine-Tattoo Dragon Eliza | | |
 | ![](https://i.imgur.com/cxBmVNa.png) | Tlaloc | | |
 
-## Beast
+## Beast (Playable)
+
+| Thumbnail | Servant | Material / In-Game Profile | Interlude |
+|:--------:|:--------:|:--------:|:--------:|
+| ![](https://i.imgur.com/AKlpw7t.png) | Draco | | |
+
+## Beast (NPC)
 
 | Thumbnail | Name | Material / In-Game Profile | 
 |:--------:|:--------:|:--------:|
