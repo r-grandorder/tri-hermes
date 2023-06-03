@@ -19,7 +19,7 @@
 * [Angel Notes](Novels/notes.md)
 * [Tsukihime Plus Period - Talk](Novels/talk.md)
 * [Tsukihime II - Prelude](Novels/prelude.md)
-* [Coral of the Moon](Novels/coral-of-the-moon.md)
+* [Tsuki no Sango](Novels/tsuki-no-sango.md)
 * [Room of the April Witch](Novels/aprilwitch.md)
 * [Clocktower 2015](Novels/clocktower2015.md)
 * [Garden of Avalon](Novels/GoA.md)

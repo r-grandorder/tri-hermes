@@ -51,7 +51,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:s37:|![](https://i.imgur.com/gk7Npnb.png)|:s38:|![](https://i.imgur.com/KqXD5VV.png)|:s39:|![](https://i.imgur.com/sgvoheP.png)|
 |:s40:|![](https://i.imgur.com/6V0ELjO.png)|:s41:|![](https://i.imgur.com/DdrQjus.png)|:s42:|![](https://i.imgur.com/SZabd6I.png)|
 |:s43:|![](https://i.imgur.com/XV1Ez85.png)|:s44:|![](https://i.imgur.com/EPA79fB.png)|:s45:|![](https://i.imgur.com/uh5VcqB.png)|
-|:s46:|![](https://i.imgur.com/EWgdV0S.png)|||||
+|:s46:|![](https://i.imgur.com/EWgdV0S.png)|:s47:|![](https://i.imgur.com/oGAVdnm.png)|||
 
 ## Archer
 
@@ -71,7 +71,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:a32:|![](https://i.imgur.com/xvOOMBz.png)|:a33:|![](https://i.imgur.com/XDHi3DA.png)|:a34:|![](https://i.imgur.com/P2Uuzq0.png)|
 |:a35:|![](https://i.imgur.com/FjkcbAt.png)|:a36:|![](https://i.imgur.com/EAUiVz4.png)|:a37:|![](https://i.imgur.com/nWsn2V1.png)|
 |:a38:|![](https://i.imgur.com/b2QYe8D.png)|:a39:|![](https://i.imgur.com/JQDzaeA.png)|:a40:|![](https://i.imgur.com/cngsIwB.png)|
-|:a41:|![](https://i.imgur.com/zSNACqi.png)|||||
+|:a41:|![](https://i.imgur.com/zSNACqi.png)|:a42:|![](https://i.imgur.com/tXr57Ve.png)|||
 
 ## Lancer
 
@@ -155,7 +155,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:h36a:|![](https://i.imgur.com/gpcpzpt.png)|:h36b:|![](https://i.imgur.com/nzmXbdz.png)|:h36c:|![](https://i.imgur.com/szpbVlx.png)|
 |:h37a:|![](https://i.imgur.com/lnckIki.png)|:h37b:|![](https://i.imgur.com/8uqxlDn.png)|:h38a:|![](https://i.imgur.com/JtvLKS1.png)|
 |:h38b:|![](https://i.imgur.com/oRGuXrz.png)|:h39a:|![](https://i.imgur.com/7qOkHkV.png)|:h39b:|![](https://i.imgur.com/l5bJy8I.png)|
-|:h40:|![](https://i.imgur.com/QvmKT4n.png)|:h41:|![](https://i.imgur.com/eUPie3Q.png)|||
+|:h40:|![](https://i.imgur.com/QvmKT4n.png)|:h41:|![](https://i.imgur.com/eUPie3Q.png)|:h42:|![](https://i.imgur.com/bQbdypP.png)|
 
 ## Berserker
 
@@ -214,6 +214,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:eg7:|![](https://i.imgur.com/iFJ3gYk.png)|:eg8:|![](https://i.imgur.com/mtaGyX6.png)|:eg9:|![](https://i.imgur.com/YAykwrj.png)|
 |:eg10:|![](https://i.imgur.com/VAJBPHl.png)|:eg11:|![](https://i.imgur.com/b12c4gV.png)|:eg12:|![](https://i.imgur.com/rvOiAVT.png)|
 |:eg13:|![](https://i.imgur.com/Yiy63qB.png)|:eg14:|![](https://i.imgur.com/ukKRZWr.png)|:eg15:|![](https://i.imgur.com/drSybp9.png)|
+|:eg16:|![](https://i.imgur.com/ivRIyty.png)|:eg17:|![](https://i.imgur.com/COFBzKt.png)|||
 
 ## Foreigner
 
@@ -232,7 +233,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:ep1a:|![](https://i.imgur.com/bI6ubEc.png)|:ep2:|![](https://i.imgur.com/AHsDsc4.png)|:ep3:|![](https://i.imgur.com/upE8T4o.png)|
 |:ep4:|![](https://i.imgur.com/qxGr8Wg.png)|:ep5a:|![](https://i.imgur.com/cxBmVNa.png)|:ep5b:|![](https://i.imgur.com/bpPg5OA.png)|
 
-## Beast
+## Beast (NPC)
 
 ::: details Spoilers!
 | Code | Flair | Code | Flair | Code | Flair
@@ -240,6 +241,12 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:eb1:|![](https://i.imgur.com/Eg0lQIZ.png)|:eb2a:|![](https://i.imgur.com/diygAjU.png)|:eb2b:|![](https://i.imgur.com/vTHTU9d.png)|
 |:eb3:|![](https://i.imgur.com/cNAsZZk.png)|:eb4:|![](https://i.imgur.com/ET0uZVZ.png)|:eb5:|![](https://i.imgur.com/BjwevKH.png)|
 :::
+
+## Beast (Playable)
+
+| Code | Flair | Code | Flair | Code | Flair
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:eb6a:|![](https://i.imgur.com/gsMtU6A.png)|:eb6b:|![](https://i.imgur.com/AKlpw7t.png)|||
 
 ## People
 
