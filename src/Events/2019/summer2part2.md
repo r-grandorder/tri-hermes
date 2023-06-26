@@ -1,6 +1,6 @@
 # Dead Heat Summer Race! Death Jail Summer Escape
 
-{Storyheaderchapter=Prologue - Arrest Under the Bridge
+## Prologue - Arrest Under the Bridge
  
 **Nero:**
 Ngh... Well, that was certainly not at all pleasant. Are you all right, Salty Maid? You've not been concussed, have you?

@@ -1984,6 +1984,8 @@ I don't think this sense of solidarity is a bad thing.
 
 "―――That's no good. You don't have to be that strong, Rin."
 
+---
+
 So saying,
 
 Archer takes out the pendant I left at school.

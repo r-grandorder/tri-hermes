@@ -2904,4 +2904,1086 @@ Illya suddenly raises her head as if called by someone.
 
 She jumps off the bench.
 
+<<<<<<< .merge_file_QQkPai
 Illya runs out of the park without saying goodbye and disappears in a blink of an eye.
+=======
+Illya runs out of the park without saying goodbye and disappears in a blink of an eye.
+
+---
+
+## Scene 08 - Life guard & safe
+
+
+
+"I'm going, Shirou. I'll bring you home something, so be good."
+
+Fuji-Nee goes to work, waving goodbye.
+
+---
+
+"I'll get going too. I'll be home a bit later since I'm going by my house, but I'll be home before dinner. Don't do anything careless while I'm gone."
+
+Tohsaka says goodbye with a look and leaves for school.
+
+---
+
+"――Well."
+
+The time is just past 7:30.
+
+I was able to send them off without delay, so there's only one thing to do now.
+
+---
+
+"Well, let's continue from yesterday. Let's go to the dojo, Saber."
+
+"Are we starting the training immediately? We just ate breakfast, so should we not rest for a while?"
+
+---
+
+"There's no need to worry. I've trained enough to be able to move right after eating, and we had toast this morning too. I don't live so unhealthily that bread sits heavy in my stomach."
+
+---
+
+"...Oh. If you say it is fine, I do not mind."
+
+"Then there's no problem. Let's go. I'll show you the results of planning all last night on how to hit you at least once."
+
+---
+
+"...!"
+
+I'm blown to the ground along with my defending shinai, not fully able to dodge Saber's counter-attack.
+
+---
+
+"Ha――kuh..."
+
+The hand holding my shinai is numb.
+
+It was a counterattack received after charging into her with all my might trying to overpower her.
+
+Naturally, I'll drop my shinai and fall on my butt.
+
+---
+
+"――Damn. I thought that would work."
+
+"Your judgments are too optimistic.
+
+Please understand that you cannot defeat a Servant even if you put your life at risk in an attack. It is good to have determination, but please consider your opponent first."
+
+---
+
+"...Hm. You say so, but I'll be beaten eventually if I'm on the defensive. I have to go on the offense if there's a chance."
+
+---
+
+"That is true, but you do not understand how to make use of such a chance. If you are to attack risking your life, you should wait for an appropriate chance."
+
+---
+
+"You don't even need to tell me. You looked away for a bit earlier, right? Something like that only happens maybe once a day, so I thought it was a chance."
+
+---
+
+"It was good that you were able to make that judgment in an instant, but that was an opening I made intentionally.
+
+I averted my gaze to see if you would be agitated by it, but I would never have thought you would come straight for me."
+
+---
+
+"――Ugh. You're mean. It's no good making fun of a beginner."
+
+---
+
+"I am not making fun of you. Even if it is a plot of mine, as long as it is an opening, I bear some risk as well.
+
+But then, the risk I took averting my gaze and the risk you took coming at me with your life do not even need to be scaled."
+
+---
+
+"...Hm. So the point is to softly attack the small openings? A large swing will miss the opportunity... no, I bet you want to say that I should act according to the size of the opening, right?"
+
+---
+
+"Yes. So please try to estimate the size of the opening."
+
+---
+
+"But you are much clearer than yesterday on the line of death. Once you obtain the skill to sense danger, the decisions of whom to fight and what to do naturally become limited."
+
+---
+
+Saber comments happily.
+
+If I'm not imagining things, she might be happy that her student has improved a bit.
+
+---
+
+"It is almost time to take a break. Should I go and get some water, Shirou?"
+
+"Oh, that's fine. I brought a kettle, so I'll drink from that."
+
+---
+
+I pull my tired body over to the wall.
+
+I wipe my sweat off with the towel I prepared and drink the water out of the kettle.
+
+---
+
+"――Phew."
+
+I exhale.
+
+...For three hours since I saw Fuji-Nee and Tohsaka out, I've been fighting Saber.
+
+---
+
+As usual, Saber doesn't explain anything and I don't ask anything as we cross swords.
+
+It's a match with pretty much no chance of my victory, but my body moves better the more I fight Saber.
+
+---
+
+I'm not hoping to improve my fighting techniques.
+
+This is just letting my body, not my mind, get used to battle.
+
+But it's still better than doing nothing, and since I don't have anything, I'll be of no use unless I train this one aspect.
+
+When the time comes for me to face a Master, if I am thinking about how to fight, that'll surely prove fatal.
+
+---
+
+"...Saber's... not sweating, as I expected."
+
+I feel down, but I won't be able to catch up to her in a day or two.
+
+Saber is resting her body, sitting Japanese-style like yesterday.
+
+---
+
+"――――Hm."
+
+It's a waste just sitting here absent-mindedly.
+
+It's break time, so I'll talk to her.
+
+All right, then――
+
+---
+
+## Scene 12 - Hero apocalypse story
+
+
+
+...Before she became a Servant.
+
+I wonder what Saber was like when she was alive as a human.
+
+---
+
+Saber is so beautiful, and I bet everyone liked her.
+
+Though one might misunderstand from the name Saber, she might have been a normal girl who didn't even use a sword.
+
+---
+
+"...Yeah. I wonder what Saber was like before."
+
+I get curious, and I accidentally speak my mind.
+
+---
+
+"――Yes? Did you say something, Shirou?"
+
+"Huh? No, I was just imagining what you were like before. I don't want to know your true name, but I was wondering what kind of a life you led."
+
+---
+
+"What kind of a person I was like...?
+
+You are interested in strange matters, Shirou."
+
+---
+
+"Ignore it if it's a problem. It just popped in my head.
+
+You're the Servant Saber, but I thought you might have been different before you became a Servant."
+
+---
+
+――Yes.
+
+I think that she might have led a calm life suitable for a lovely girl.
+
+---
+
+"――I do not think that is possible.
+
+People do not change their personality when they become a Servant, and I was a knight who was given a sword at birth. Any different self that you talk of never existed."
+
+---
+
+"Whoa, so you always had such a tense personality?
+
+...That's terrible. I sympathize with the people who were around you."
+
+---
+
+"...What do you mean by that?
+
+I am strict, but I do not coerce the people around me."
+
+---
+
+"Don't lie. I know from today's training that you're pitiless and have no mercy.
+
+Look at this welt. You're happy to come pounding on me when I make a mistake, you devilish instructor."
+
+---
+
+"I-I was not happy about it!
+
+I-I feel sorry for Shirou, but it would not be training if I was not strict!"
+
+---
+
+"―――――"
+
+...How unusual.
+
+It's really surprising for Saber to make that kind of an expression.
+
+---
+
+"W-What is with that expression? I think it is unfair to suddenly go silent."
+
+---
+
+"Oh――I wasn't expecting you to get angry like that, so I was surprised."
+
+---
+
+"Eh――i-is that so? I only emphasized what I was thinking."
+
+"That might be why. You don't talk much with your emotions. So that was new."
+
+---
+
+"I-Is that so? I believe I act based on my beliefs."
+
+"I'm saying that it's your thinking, not your feeling.
+
+No, not that. It's that you don't say what you really feel."
+
+---
+
+"That is only natural. What is demanded from me is not an opinion as an individual but an opinion from my position. That does not change even now.
+
+I will protect you as the Servant Saber.
+
+I should not say anything that does not relate to that purpose,[l]
+
+and there is no need to even think about such things."
+
+---
+
+"――That may be true, but that'll be boring for you, Saber.
+
+You have a role, but I don't think you need to devote yourself to it. You have things you want to do too."
+
+---
+
+"As I said, protecting you is what I must do. In addition to being inexperienced as a Master, you do not listen to me and try to fight. That is why I am training you right now!"
+
+---
+
+"――No, that's not it, but... well, I guess it's fine if you say so."
+
+It seems Saber is softer and cheerful right now, so I don't want to ruin this calm mood by continuing this conversation.
+
+---
+
+## Scene 13 - Saber-san angry
+
+
+
+...Um, it's not that I'm giving up my training, but...
+
+It just might be that I'll be more into the fight with Saber if I have some special move that lets me do something just because I know it.
+
+---
+
+"Saber, I want to ask you something."
+
+"What is it, Shirou...? I get the feeling that you are looking at me with a lot of expectation."
+
+---
+
+"Really? Well, if you put it like that, it is a request and I do have expectations. To be frank, I want you to teach me something."
+
+---
+
+"...Okay. Um, I do not quite understand what you are trying to say, but I will instruct you in anything that I am able to."
+
+---
+
+Saber must think it's a serious conversation as she adjusts herself and sits Japanese-style in front of me.
+
+---
+
+"So, what is it that you would like to know? Is it about the Servants?"
+
+Saber looks at me seriously.
+
+---
+
+"―――――Hm."
+
+I feel like I already know what'll happen, but let's not expect anything and just ask her.
+
+---
+
+"Um. I'm not joking around or anything, so I want you to listen to me without getting mad."
+
+---
+
+"Yes, that is why I am listening seriously. Please ask me without reserve."
+
+---
+
+"Then, I'll accept that and ask you.
+
+――Um, well. If there is one, can you teach me an easy special move that'll let me beat a Servant? Ideally something that'll even let me beat you."
+
+---
+
+"―――――"
+
+Saber stops breathing.
+
+---
+
+"―――――"
+
+Saber does not move even an eyebrow.
+
+---
+
+"――I-I guess there isn't anything that convenient, huh...!?
+
+I'm sorry, I'm really sorry...! It was just a joke, so don't take it seriously and just pretend you didn't hear it! That'll really help me... out...."
+
+---
+
+―――Uh.
+
+Saber-san is making an evil smile.
+
+---
+
+"S-Saber...? It may just be me, but you have a really unsuitable evil smile on your face."
+
+---
+
+"It is not just you. Right now, my mind is as wicked as Rin's is."
+
+---
+
+"...!!!!"
+
+I feel a chill, I feel a chill...!
+
+---
+
+"Uh, wa, uh."
+
+"Why are you panicking, Shirou? I have not answered your question yet. If I did not mishear you, I believe you desire a special move that will beat a Servant in one blow?"
+
+---
+
+I retreat, but Saber advances and doesn't let me escape.
+
+---
+
+"Ah――um, well... Saber, you're mad, right?"
+
+"Yes, very."
+
+---
+
+――I'm dead.
+
+If this were a real battle, she would have certainly killed me by now.
+
+---
+
+"―――Calm down, let's calm down Saber.
+
+I've contemplated my actions. I think I know why you're mad too."
+
+"I see. Then please sit there in a Japanese style. I cannot calm down unless I explain things to you."
+
+---
+
+Saber stands up.
+
+I quickly straighten my back and prepare myself.
+
+---
+
+"―――――"
+
+Saber takes a deep breath.
+
+Then.
+
+---
+
+"―――Are you kidding me...!? What are you thinking of, asking for a cheat like a special move to beat an opponent in one blow!?!!!"
+
+---
+
+"Ah―――uh."
+
+My ear canals are panicking.
+
+I never thought I'd collapse just from an angry voice.
+
+That was beyond human abilities.
+
+Does she have a voice as powerful as a beast or a lion?
+
+---
+
+"S-Sorry... so I'm saying I'm contemplating my actions.
+
+You're stronger than me, Saber. So I thought you might know a move that even an unskilled guy could use."
+
+---
+
+"There is nothing convenient like that!
+
+A surprise move is something you use against someone of equal level, and a beginner like you should work thoroughly on your foundations!"
+
+---
+
+"First of all, I already told you not to think about defeating your opponent! Please think first about your protection! If there is a special move for you, it would be enough judgment to stop yourself from getting into a situation that requires you to fight!"
+
+---
+
+"Uh... I understand. I understand, so――lower your voice a little."
+
+I put my hands together to show I'm sorry.
+
+---
+
+"...Geez, I had some expectations of you, but you are so unstable. If you are like this, it is too dangerous for me to leave you alone."
+
+Saber's scolding continues.
+
+---
+
+"...Sigh."
+
+It was my fault for stepping on the lion's tail.
+
+I'll stay quiet and take Saber's scolding until she's satisfied.
+
+---
+
+## Scene 14 - What to pour into the Grail
+
+
+
+...Why does she desire battle so much?
+
+I might be able to understand Saber's mindset if I can find out why she seeks the Holy Grail, the reward of the Holy Grail War.
+
+But, is that really something I can ask her?
+
+---
+
+"...Saber. Can I ask you a question?"
+
+"Yes. What is it, Shirou?"
+
+---
+
+"Um, it's something I forgot to ask.
+
+You're lending me your power because you also want the Holy Grail, right?
+
+So――what do you want from the Holy Grail?"
+
+---
+
+"The reason I seek the Holy Grail? Can it not be because I desire it? The Holy Grail is an almighty vessel. There is no wish that cannot be granted if one possesses it. One needs no reason to seek such a thing."
+
+---
+
+"――No. That's not what I'm asking.
+
+Saber, you're trying not to answer my question, right?"
+
+"Oh――Shirou, that's..."
+
+---
+
+"I don't want to know the reason you seek it. I want to know what the wish you want granted is.
+
+...But if you don't want to say, that's fine. My wishes aren't things I can talk about either."
+
+"―――――"
+
+Saber closes her mouth awkwardly.
+
+---
+
+...Well, it's only natural.
+
+Saber didn't form the contract to help me personally.
+
+Since the only ones who can obtain the Holy Grail are the Masters, she is only helping me to take share in the reward.
+
+---
+
+That is why she must be hesitating to tell her wish, and most of all――I myself don't want to hear Saber describe a selfish wish.
+
+...So I shouldn't have asked.
+
+After all, it's rude for a person without a clear wish to ask other people's wishes.
+
+---
+
+"――Shirou. Is that a command as a Master?"
+
+Suddenly.
+
+Saber asks the question with a serious expression.
+
+---
+
+"Eh... no, it's not. I didn't intend that.
+
+I was just curious about you. Sorry for asking you about it."
+
+---
+
+"...No. As a Servant, I certainly must tell my Master my wish.
+
+Shirou, I seek the Holy Grail to fulfill an obligation. I want the power of the Holy Grail to accomplish a duty I could not accomplish during my lifetime."
+
+Directly.
+
+With honest eyes, she says so.
+
+---
+
+"...Accomplish a duty...? During your lifetime... you mean, before you became a Servant...?"
+
+"...Yes. But I do not know my true intentions myself.
+
+Perhaps I only desire to redo things again."
+
+Saber looks down quietly.
+
+For a moment.
+
+She looks like a repentant lost child.
+
+---
+
+"――I-I see. Anyways, I'm relieved.
+
+I was worried what I should do if you said something like Tohsaka, like your dream is to take over the world."
+
+---
+
+"...Fufu. Rin would be mad if she heard that. She is not someone who would say such a thing. She would use the Holy Grail purely for her own benefit, but it would not be something that would bring chaos to the world."
+
+---
+
+"Really? I think we should never let her have the Holy Grail for a completely different reason."
+
+I nod to myself.
+
+Saber is watching me with a gentle expression.
+
+---
+
+That's the end of the conversation.
+
+It was a subject I should have kept away from.
+
+The atmosphere is softened by talk of Tohsaka, so let's end this conversation right here.
+
+---
+
+"―――――"
+
+But a small pain remains in my chest.
+
+Even though I'm relieved that Saber's wish isn't a vulgar one, I think there's something wrong with that wish of hers.
+
+---
+
+## Scene 15 - Saber-san angry
+
+
+
+...Um, it's not that I'm giving up my training, but...
+
+It just might be that I'll be more into the fight with Saber if I have some special move that lets me do something just because I know it.
+
+---
+
+"Saber, I want to ask you something."
+
+"What is it, Shirou...? I get the feeling that you are looking at me with a lot of expectation."
+
+---
+
+"Really? Well, if you put it like that, it is a request and I do have expectations. To be frank, I want you to teach me something."
+
+---
+
+"...Okay. Um, I do not quite understand what you are trying to say, but I will instruct you in anything that I am able to."
+
+---
+
+Saber must think it's a serious conversation as she adjusts herself and sits Japanese-style in front of me.
+
+---
+
+"So, what is it that you would like to know? Is it about the Servants?"
+
+Saber looks at me seriously.
+
+---
+
+"―――――Hm."
+
+I feel like I already know what'll happen, but let's not expect anything and just ask her.
+
+---
+
+"Um. I'm not joking around or anything, so I want you to listen to me without getting mad."
+
+---
+
+"Yes, that is why I am listening seriously. Please ask me without reserve."
+
+---
+
+"Then, I'll accept that and ask you.
+
+――Um, well. If there is one, can you teach me an easy special move that'll let me beat a Servant? Ideally something that'll even let me beat you."
+
+---
+
+"―――――"
+
+Saber stops breathing.
+
+---
+
+"―――――"
+
+Saber does not move even an eyebrow.
+
+---
+
+"――I-I guess there isn't anything that convenient, huh...!?
+
+I'm sorry, I'm really sorry...! It was just a joke, so don't take it seriously and just pretend you didn't hear it! That'll really help me... out...."
+
+---
+
+―――Uh.
+
+Saber-san is making an evil smile.
+
+---
+
+"S-Saber...? It may just be me, but you have a really unsuitable evil smile on your face."
+
+---
+
+"It is not just you. Right now, my mind is as wicked as Rin's is."
+
+---
+
+"...!!!!"
+
+I feel a chill, I feel a chill...!
+
+---
+
+"Uh, wa, uh."
+
+"Why are you panicking, Shirou? I have not answered your question yet. If I did not mishear you, I believe you desire a special move that will beat a Servant in one blow?"
+
+---
+
+I retreat, but Saber advances and doesn't let me escape.
+
+---
+
+"Ah――um, well... Saber, you're mad, right?"
+
+"Yes, very."
+
+---
+
+――I'm dead.
+
+If this were a real battle, she would have certainly killed me by now.
+
+---
+
+"―――Calm down, let's calm down Saber.
+
+I've contemplated my actions. I think I know why you're mad too."
+
+"I see. Then please sit there in a Japanese style. I cannot calm down unless I explain things to you."
+
+---
+
+Saber stands up.
+
+I quickly straighten my back and prepare myself.
+
+---
+
+"―――――"
+
+Saber takes a deep breath.
+
+Then.
+
+---
+
+"Are you kidding me...!? What are you thinking of, asking for a cheat like a special move to beat an opponent in one blow!?!!!"
+
+---
+
+"Ah―――uh."
+
+My ear canals are panicking.
+
+I never thought I'd collapse just from an angry voice.
+
+That was beyond human abilities.
+
+Does she have a voice as powerful as a beast or a lion?
+
+---
+
+"S-Sorry... so I'm saying I'm contemplating my actions.
+
+You're stronger than me, Saber. So I thought you might know a move that even an unskilled guy could use."
+
+---
+
+"There is nothing convenient like that!
+
+A surprise move is something you use against someone of equal level, and a beginner like you should work thoroughly on your foundations!"
+
+---
+
+"First of all, I already told you not to think about defeating your opponent! Please think first about your protection! If there is a special move for you, it would be enough judgment to stop yourself from getting into a situation that requires you to fight!"
+
+---
+
+"Uh... I understand. I understand, so――lower your voice a little."
+
+I put my hands together to show I'm sorry.
+
+---
+
+"...Geez, I had some expectations of you, but you are so unstable. If you are like this, it is too dangerous for me to leave you alone."
+
+Saber's scolding continues.
+
+---
+
+"...Sigh."
+
+It was my fault for stepping on the lion's tail.
+
+I'll stay quiet and take Saber's scolding until she's satisfied.
+
+---
+
+## Scene 16 - What to pour into the Grail
+
+
+
+...Why does she desire battle so much?
+
+I might be able to understand Saber's mindset if I can find out why she seeks the Holy Grail, the reward of the Holy Grail War.
+
+But, is that really something I can ask her?
+
+---
+
+"...Saber. Can I ask you a question?"
+
+"Yes. What is it, Shirou?"
+
+---
+
+"Um, it's something I forgot to ask.
+
+You're lending me your power because you also want the Holy Grail, right?
+
+So――what do you want from the Holy Grail?"
+
+---
+
+"The reason I seek the Holy Grail? Can it not be because I desire it? The Holy Grail is an almighty vessel. There is no wish that cannot be granted if one possesses it. One needs no reason to seek such a thing."
+
+---
+
+"――No. That's not what I'm asking.
+
+Saber, you're trying not to answer my question, right?"
+
+"Oh――Shirou, that's..."
+
+---
+
+"I don't want to know the reason you seek it. I want to know what the wish you want granted is.
+
+...But if you don't want to say, that's fine. My wishes aren't things I can talk about either."
+
+"―――――"
+
+Saber closes her mouth awkwardly.
+
+---
+
+...Well, it's only natural.
+
+Saber didn't form the contract to help me personally.
+
+Since the only ones who can obtain the Holy Grail are the Masters, she is only helping me to take share in the reward.
+
+---
+
+That is why she must be hesitating to tell her wish, and most of all――I myself don't want to hear Saber describe a selfish wish.
+
+...So I shouldn't have asked.
+
+After all, it's rude for a person without a clear wish to ask other people's wishes.
+
+---
+
+"――Shirou. Is that a command as a Master?"
+
+Suddenly.
+
+Saber asks the question with a serious expression.
+
+---
+
+"Eh... no, it's not. I didn't intend that.
+
+I was just curious about you. Sorry for asking you about it."
+
+---
+
+"...No. As a Servant, I certainly must tell my Master my wish.
+
+Shirou, I seek the Holy Grail to fulfill an obligation. I want the power of the Holy Grail to accomplish a duty I could not accomplish during my lifetime."
+
+Directly.
+
+With honest eyes, she says so.
+
+---
+
+"...Accomplish a duty...? During your lifetime... you mean, before you became a Servant...?"
+
+"...Yes. But I do not know my true intentions myself.
+
+Perhaps I only desire to redo things again."
+
+Saber looks down quietly.
+
+For a moment.
+
+She looks like a repentant lost child.
+
+---
+
+"――I-I see. Anyways, I'm relieved.
+
+I was worried what I should do if you said something like Tohsaka, like your dream is to take over the world."
+
+---
+
+"...Fufu. Rin would be mad if she heard that. She is not someone who would say such a thing. She would use the Holy Grail purely for her own benefit, but it would not be something that would bring chaos to the world."
+
+---
+
+"Really? I think we should never let her have the Holy Grail for a completely different reason."
+
+I nod to myself.
+
+Saber is watching me with a gentle expression.
+
+---
+
+That's the end of the conversation.
+
+It was a subject I should have kept away from.
+
+The atmosphere is softened by talk of Tohsaka, so let's end this conversation right here.
+
+---
+
+"―――――"
+
+But a small pain remains in my chest.
+
+Even though I'm relieved that Saber's wish isn't a vulgar one, I think there's something wrong with that wish of hers.
+
+---
+
+## Scene 17 - Hero apocalypse story
+
+
+
+...Before she became a Servant.
+
+I wonder what Saber was like when she was alive as a human.
+
+---
+
+Saber is so beautiful, and I bet everyone liked her.
+
+Though one might misunderstand from the name Saber, she might have been a normal girl who didn't even use a sword.
+
+---
+
+"...Yeah. I wonder what Saber was like before."
+
+I get curious, so I accidentally speak out my mind.
+
+---
+
+"――Yes? Did you say something, Shirou?"
+
+"Huh? No, I was just imagining what you were like before. I don't want to know your true name, but I was wondering what kind of a life you led."
+
+---
+
+"What kind of a person I was like...?
+
+You are interested in strange matters, Shirou."
+
+---
+
+"Ignore it if it's a problem. It just popped in my head.
+
+You're the Servant Saber, but I thought you might have been different before you became a Servant."
+
+---
+
+――Yes.
+
+I think that she might have led a calm life suitable for a lovely girl.
+
+---
+
+"――I do not think that is possible.
+
+People do not change their personality when they become a Servant, and I was a knight who was given a sword at birth. Any different self that you talk of never existed."
+
+---
+
+"Whoa, so you always had such a tense personality?
+
+...That's terrible. I sympathize with the people who were around you."
+
+---
+
+"...What do you mean by that?
+
+I am strict, but I do not coerce the people around me."
+
+---
+
+"Don't lie. I know from today's training that you're pitiless and have no mercy.
+
+Look at this welt. You're happy to come pounding on me when I make a mistake, you devilish instructor."
+
+---
+
+"I-I was not happy about it!
+
+I-I feel sorry for Shirou, but it would not be training if I was not strict!"
+
+---
+
+"―――――"
+
+...How unusual.
+
+It's really surprising for Saber to make that kind of an expression.
+
+---
+
+"W-What is with that expression? I think it is unfair to suddenly go silent."
+
+---
+
+"Oh――I wasn't expecting you to get angry like that, so I was surprised."
+
+---
+
+"Eh――i-is that so? I only emphasized what I was thinking."
+
+"That might be why. You don't talk much with your emotions. So that was new."
+
+---
+
+"I-Is that so? I believe I act based on my beliefs."
+
+"I'm saying that it's your thinking, not your feeling.
+
+No, not that. It's that you don't say what you really feel."
+
+---
+
+"That is only natural. What is demanded from me is not an opinion as an individual but an opinion from my position. That does not change even now.
+
+I will protect you as the Servant Saber.
+
+I should not say anything that does not relate to that purpose,[l]
+
+and there is no need to even think about such things."
+
+---
+
+"――That may be true, but that'll be boring for you, Saber.
+
+You have a role, but I don't think you need to devote yourself to it. You have things you want to do too."
+
+---
+
+"As I said, protecting you is what I must do. In addition to being inexperienced as a Master, you do not listen to me and try to fight. That is why I am training you right now!"
+
+---
+
+"――No, that's not it, but... well, I guess it's fine if you say so."
+
+It seems Saber is softer and cheerful right now, so I don't want to ruin this calm mood by continuing this conversation.
+
+---
+>>>>>>> .merge_file_rMa1J9

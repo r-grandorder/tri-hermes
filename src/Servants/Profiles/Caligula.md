@@ -1,7 +1,7 @@
 # Caligula
 
 ::: tip
-Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/89lb49/caligulas_servant_profile_from_fgo_material_ii/)
+[This material is translated by u/Kinalvin](https://www.reddit.com/r/grandorder/comments/89lb49/caligulas_servant_profile_from_fgo_material_ii/)
 :::
 
 
@@ -9,21 +9,21 @@ Note: [This material is translated by u/Kinalvin](https://www.reddit.com/r/grand
 
 **Bio-Data**
 
-Class: Berserker
-True Name: Caligula
-Sex: Male
-Source: Historical Fact
-Region: Europe
-Alignment: Chaotic Evil
-Height: 185cm
-Weight: 80kg
+- Class: Berserker
+- True Name: Caligula
+- Sex: Male
+- Source: Historical Fact
+- Region: Europe
+- Alignment: Chaotic Evil
+- Height: 185cm
+- Weight: 80kg
 
 **Meta**
 
-Character Creator: Sakurai Hikaru
-Character Designer: BLACK
-Character Voice: Tsuruoka Satoshi
-Major Appearances in Main Works: Fate/Grand Order
+- Character Creator: Sakurai Hikaru
+- Character Designer: BLACK
+- Character Voice: Tsuruoka Satoshi
+- Major Appearances in Main Works: Fate/Grand Order
 
 ## Stats
 
@@ -63,6 +63,7 @@ The memories of the four-year period when Caligula lived as a wise ruler do not 
 ## Noble Phantasm(s)
 
 # Flucticulus Diana: Devour My Spirit, Moonlight
+
 - Rank: C
 - Classification: Anti-Army Noble Phantasm
 - Range: 1~50
@@ -74,9 +75,9 @@ Flucticulus Diana (Rippling Diana). A wide range Mental Pollution attack that di
 
 ## Pronouns
 
-First Person Pronoun: yo
-Second Person Pronouns: omae / ○○ (without honorifics)
-Third Person Pronouns: yatsu / kano mono / ano mono / ○○ (without honorifics)
+- First Person Pronoun: yo
+- Second Person Pronouns: omae / ○○ (without honorifics)
+- Third Person Pronouns: yatsu / kano mono / ano mono / ○○ (without honorifics)
 
 ## Personality
 
@@ -87,9 +88,12 @@ A complete sadist who is swayed by sadism. All enemies that catch Caligula’s e
 Caligula is thought to be regarding the Protagonist as a Roman citizen. Because he likes Roman citizens, naturally, he likes the Protagonist too. Still, since he lost his reason as he is now, as expected, Caligula cannot come to a mutual understanding with them. Though one can understand to a degree that he is probably not loathing them.
 
 The wish Caligula wants to make on the Holy Grail is “to get rid of his insanity.” If it is possible for it to come true, he wants to return————
-to that time where he was once called a wise ruler,
-to that time when he was reading stories to his younger sister’s beloved child, Nero, who was sitting on his lap————
-a time from even before that moment where the Moon Goddess fell in love with him and overflowed his body with madness.
+
+To that time where he was once called a wise ruler,
+
+To that time when he was reading stories to his younger sister’s beloved child, Nero, who was sitting on his lap————
+
+A time from even before that moment where the Moon Goddess fell in love with him and overflowed his body with madness.
 
 ## Dialogue Examples
 
@@ -103,7 +107,7 @@ a time from even before that moment where the Moon Goddess fell in love with him
 
 “▂▂▃▃▅▅————!!”
 
-※Although he can pretty much enter into a conversation of words, given that it is something like a beast’s roar, coming to a mutual understanding with Caligula is impossible.
+※ Although he can pretty much enter into a conversation of words, given that it is something like a beast’s roar, coming to a mutual understanding with Caligula is impossible.
 
 ## Historical Character and Figure
 
@@ -145,7 +149,25 @@ The Roman Empire’s Third Emperor… Caligula is the uncle who loves Nero. If I
 
 ## Material Images
 
-(Lib will add after publish)
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-128.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-129.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-130.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-131.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-132.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-133.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-134.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-135.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-136.jpg?raw=true)
+
+![](https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-137.jpg?raw=true)
 
 ## Dialogue
 

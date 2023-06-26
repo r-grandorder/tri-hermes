@@ -10,20 +10,19 @@ footer: All scripts and images by TYPE-MOON ©
 * [Main Story](story.md)
 * [Events](events.md)
 * [Servant Materials and Interludes](servants.md) ~ Still WIP
-* [Anime/Movie/OVA](https://tri-hermes.org/story.html#anime-movie-ova)
 
-## FGO Arcade
+## Type-Moon/Fate Source Materials
 
-* [Lost Jerusalem](Arcade/jerusalem.md)
-* Babylon - WIP
-* [Lilim Harlot](Arcade/lilim-harlot.md)
+* [Visual and Light Novels](novels.md)
+* [Games](games.md)
+* [Manga](manga.md)
 
 ## Greater Type-Moon Resources
 
-* [Visual and Light Novels](novels.md)
 * [Materials](materials.md)
 * [Bamboo Broom Diary](bamboo.md)
 * [Interviews](interviews.md)
-* [Fate Map](map.md)
+* [Drama CDs](drama-cd.md)
 * [Articles](articles.md)
 
+![](https://i.imgur.com/jA86J1G.png)

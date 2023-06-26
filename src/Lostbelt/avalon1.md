@@ -2,7 +2,7 @@
 
 **Translators: Rayshift Team -** Gaius, Fumei, Zaszc, PorksIope, Neo, Louay, Starfire, Miro
 
-**Editors: Rayshift Team -** MaxAkito, Meru, Squishy, Azumi, Udon Emperor
+**Editors: Rayshift Team -** MaxAkito, Meru, Squishy, Azumi, Yusuke
 
 ## Prologue
 
@@ -10472,7 +10472,7 @@ If the world believes Annis is the Child of Prophecy, it's over.
 **Winky:**
 She'll be snatched up in a heartbeat, by someone much greedier than us. 
 
-## Section 4: Gluocester (I) 
+## Section 4: Gloucester (I) 
 
 **Oberon:**
 I see...so Tristan stayed behind at the farm. 

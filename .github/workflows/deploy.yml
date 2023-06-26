@@ -23,7 +23,7 @@ jobs:
 
       - name: Build VuePress site
         env:
-          NODE_OPTIONS: "--max_old_space_size=4096"
+          NODE_OPTIONS: "--max_old_space_size=8192"
         run: npm run build
 
       - name: Deploy to GitHub Pages
@@ -31,3 +31,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./src/.vuepress/dist
+          force_orphan: true
+          cname: tri-hermes.org

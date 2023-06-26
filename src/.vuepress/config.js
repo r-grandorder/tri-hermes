@@ -50,6 +50,10 @@ module.exports = {
                         link: "/novels",
                     },
 					{
+                        text: "Manga",
+                        link: "/manga",
+                    },
+					{
                         text: "Materials",
                         link: "/materials",
                     },
@@ -77,12 +81,16 @@ module.exports = {
                 ],
             },
             {
+                text: "How to Contribute",
+                link: "/contribution",
+            },
+			{
                 text: "About",
                 link: "/about",
             },
-            {
-                text: "Feedback",
-                link: "/feedback",
+			{
+                text: "Discord",
+                link: "https://discord.gg/GzxxEwjzpU",
             },
         ],
         sidebar: 'auto'

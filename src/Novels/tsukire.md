@@ -2,6 +2,10 @@
 
 # [This project is translated and managed by Tsukihimates. For the full experience, download the patch and play yourself!](https://tsukihimates.com/)
 
+::: danger
+This project is still WIP. Currently only Glass Moon and Prologue are available.
+:::
+
 ## Common
 
 * [0 / Glass Moon](TsukiRe/glass-moon.md)

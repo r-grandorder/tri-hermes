@@ -2,40 +2,40 @@
 
 ## Prelude
  
-**　:**
+**Narration:**
 ...What is civilization? I suppose you would call it the path every sentient being travels.
 
  
-**　:**
+**Narration:**
 Every single building, every single dish of food... It all contains a vast amount of our ancestors' knowledge.
 
  
-**　:**
+**Narration:**
 In that case, this landscape of destruction represents the end of said path.
 
  
-**　:**
+**Narration:**
 The extravagant buildings, the entertainment, the technology infused within glorious inventions...
 
  
-**　:**
+**Narration:**
 None of that can be found here.
 A 2,000-year-old obsession crushed them all.
 
  
-**　:**
+**Narration:**
 We have no hope.
 
  
-**　:**
+**Narration:**
 We have no heroes, no brave warriors. We have no way to defeat them because the idea of fighting never even occurred to us.
 
  
-**　:**
+**Narration:**
 So all we can do is pray.
 
  
-**　:**
+**Narration:**
 Pray that the Nine Sisters, the goddesses who taught us of civilization and loyalty, visit this world someday.
 
  

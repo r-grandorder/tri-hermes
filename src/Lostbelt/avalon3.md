@@ -2,7 +2,7 @@
 
 **Translators: Rayshift Team -** Gaius, Fumei, Zaszc, PorksIope, Neo, Louay, Starfire, Miro
 
-**Editors: Rayshift Team -** MaxAkito, Meru, Squishy, Azumi, Udon Emperor
+**Editors: Rayshift Team -** MaxAkito, Meru, Squishy, Azumi, Yusuke
 
 ## Intermission 
  
@@ -11549,40 +11549,40 @@ Beryl once asked the “witch” he called Mother this question.
 **Narration:**
 His mother, who in her robes could have been mistaken for a giant toad, said: 
  
-**Witch Gathering Dust:**
+**The Grime Witch:**
 Kihihihihihi, that's simple, kihihihihihihihi! 
  
-**Witch Gathering Dust:**
+**The Grime Witch:**
 Because it dilutes the blood. Because it rots the soul. 
  
-**Witch Gathering Dust:**
+**The Grime Witch:**
 Kihihi, kihihihihihihihi! We are fairies, we do not birth children! 
  
-**Witch Gathering Dust:**
+**The Grime Witch:**
 I am my own daughter! Kihihi, kihihihihihi! Kihihi...hi...hihi...
  
-**Witch Gathering Dust:**
+**The Grime Witch:**
 But I am a hopeless failure! I failed, I failed! 
  
-**Witch Gathering Dust:**
+**The Grime Witch:**
 Aaa, aaaaaaa, aaaaaaaaaaa! How did I even end up like this! 
  
-**Witch Gathering Dust:**
+**The Grime Witch:**
 Please take me back, please take me back! Please take me back to how I used to be! 
  
-**Witch Gathering Dust:**
-I envy Meinster, I envy that girl! What should Yumina's direct line do!? 
+**The Grime Witch:**
+I envy Meinster, I envy that girl! Can Yumina's direct descent get away with anything?!
  
-**Witch Gathering Dust:**
+**The Grime Witch:**
 Even though I failed, even though I was deceived! Aah, if only I had never met a man like that! 
  
-**Witch Gathering Dust:**
+**The Grime Witch:**
 If only I had never gotten involved with humans! I wouldn't have had to give birth to a child like you! 
  
 **Narration:**
 After those words left her mouth, “Mother” hurriedly apologized to Beryl. 
  
-**Witch Gathering Dust:**
+**The Grime Witch:**
 It was a slip of the tongue...it was a mistake. I'm sorry, Beryl. My dear, cherished boy. 
  
 **Beryl as a Boy:**
@@ -11591,10 +11591,10 @@ It's alright, old hag, I understand. I know you didn't mean it.
 **Beryl as a Boy:**
 If you cry that much, your starry eyes will go to waste, you know? That part of you alone is more beautiful than anyone else. 
  
-**Witch Gathering Dust:**
+**The Grime Witch:**
 Beryl...! Thank you, thank you...! 
  
-**Witch Gathering Dust:**
+**The Grime Witch:**
 You're the only one on my side...you're the only one I live for...
  
 **Narration:**
