@@ -4,7 +4,7 @@
 This booklet is summary translated by Deepbluejeer. [Blog](https://oneofepisodes.wordpress.com/2016/04/18/fgo-tm-ace-042016/)
 :::
 
-![](./images/001fgo.webp)
+![](./images/001fgo.png)
 
 (Translator’s note: This is the interview with Kinoko Nasu that came with the April 2016 issue of Type-Moon Ace. Enjoy!)
 
@@ -43,7 +43,7 @@ Is there some deeper meaning to the “Grand Order” in the title that will be 
 
 **Nasu:** “Grand Order” is exactly what it says – there’s no deeper meaning other than “the greatest command given to Magi” that’s been talked about up until now. It’s the first command given to the first ever Magus, a duty that must be kept by all Magi.
 
-![](./images/fgo_op_011.webp)
+![](./images/fgo_op_011.png)
 
 At the end of Chapter 4, Solomon shows up as the mastermind behind all of FGO and introduced himself as “Grand Caster”. Would it be right to say that there are other “Grand” Classes out there?
 
@@ -77,7 +77,7 @@ During the Kara no Kyoukai event [4], a slightly different Shiki Ryougi had appe
 
 **Nasu:** The Shiki in the event is the Shiki after the events of Kara no Kyoukai. But even if the characters of Kara no Kyoukai show up in the world of FGO, the whole city would’ve already been in ruins. But Shiki is special – she’s dead, but not quite. Her body had burned, but it’s yet to completely burn up. She’s there, just right before dying, asleep. The Ogawa Apartments that we see is the dream that Shiki is seeing. During the event, Shiki would say things like, “This is an awful nightmare,” or “I can’t wake up, so come with me,” and if she does wake up, she, like everyone else, would die out along with the time period she’s in. But if she doesn’t wake up, she’ll avoid the destruction of humanity as long as she’s in that dream, and she’ll be able to return to her original world. If she’s in that situation, Shiki Ryougi can show up in the scenario. The collab is between FGO and a previous TYPE-MOON work, so I wrote it so that it’s still FGO without ruining the core of the Kara no Kyoukai series.
 
-![](./images/banner100336879.webp)
+![](./images/banner100336879.png)
 
 The event story stepped pretty deep into the story of Kara no Kyoukai, didn’t it?
 
@@ -109,7 +109,7 @@ Is updating and revising based on the user response also part of the big differe
 
 **Episodes and Mysteries to be Revealed in the Second Half**
 
-![](./images/maxresdefault.webp)
+![](./images/maxresdefault.png)
 
 I’d now like to ask about the scenario writing. Yuuichirou Higashide and Hikaru Sakurai have said, “Nasu’s supervision has increased the Fate/ feel of the story”. How exactly do you put in more of that Fate/ feel?
 
