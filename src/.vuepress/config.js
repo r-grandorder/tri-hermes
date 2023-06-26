@@ -50,6 +50,10 @@ module.exports = {
                         link: "/novels",
                     },
 					{
+                        text: "Manga",
+                        link: "/manga",
+                    },
+					{
                         text: "Materials",
                         link: "/materials",
                     },

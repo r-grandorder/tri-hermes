@@ -135,7 +135,7 @@ Be warned however that they are only visible in Old Reddit since they use CSS, s
 |`[](#NyalterWink)`|![](https://i.imgur.com/FYzvV11.png)|`[](#JalterWhat)`|![](https://i.imgur.com/94GiGLU.png)|
 |`[](#ArjunaKamiDa)`|![](https://i.imgur.com/th8LZSk.png)|`[](#KoyoBlush)`|![](https://i.imgur.com/x8gXopS.png)|
 |`[](#BrynYandere)`|![](https://i.imgur.com/Yp8nahD.png)|`[](#MorganExasperated)`|![](https://i.imgur.com/6awaLYV.png)|
-|`[](#RikyuJii)`|![](https://i.imgur.com/c6uFl9m.png)|||
+|`[](#RikyuJii)`|![](https://i.imgur.com/c6uFl9m.png)|`[](#DuryoCringe)`|![](https://i.imgur.com/G023GOm.png)|
 
 
 ## Extra

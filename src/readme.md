@@ -15,6 +15,7 @@ footer: All scripts and images by TYPE-MOON ©
 
 * [Visual and Light Novels](novels.md)
 * [Games](games.md)
+* [Manga](manga.md)
 
 ## Greater Type-Moon Resources
 

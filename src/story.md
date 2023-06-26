@@ -112,7 +112,9 @@
 
 ### Tunguska Sanctuary
 
-[![](https://i.imgur.com/rXPJbW1.png)](Lostbelt/tunguska.md)
+![](https://i.imgur.com/rXPJbW1.png)
+
+* [Cosmos in the Lostbelt: Tunguska Sanctuary](Lostbelt/tunguska.md)
 
 ### Traum
 

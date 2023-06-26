@@ -19,7 +19,7 @@ It’s probably not true, but my grandmother supposedly came from the moon.
 
 The year was finally nearing its end.
 
-Tonight is the eleventh full moon. After on more month, this year will die away as time embraces the new year, one that offers no promises.
+Tonight is the eleventh full moon. After one more month, this year will die away as time embraces the new year, one that offers no promises.
 
 There was even less guarantee for us than the translucent fish that we would survive to see it.
 

@@ -65,6 +65,10 @@ A very lightweight and simple program that supports Markdown language.
 
 If notepad++ is not quite your cup of tea, Visual Studio Code also supports markdown and may provide a smoother experience.
 
+* [VS Codium](https://vscodium.com/)
+
+Same as Visual Studio Code but FOSS and without Microsoft telemetry.
+
 * Discord Account
 
 You will need a Discord account and preferrably be in the [TRI-HERMES discord server](https://discord.gg/GzxxEwjzpU) in order to properly communicate, organize, and send over MD files.

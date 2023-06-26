@@ -99,7 +99,11 @@
 
 **Caster:** All Sakura did was stand around though~
 
-**Saber:** Umu, this is that so-called “star system”[^first], is it not? Rin lived up to the rumors that preceded her. Sakura was…… hmm, merely the one who passes out items, huh?
+**Saber:** Umu, this is that so-called “star system”/*, is it not? Rin lived up to the rumors that preceded her. Sakura was…… hmm, merely the one who passes out items, huh?
+
+::: tip Note
+Favoritism of popular characters in media
+:::
 
 **Sakura:**———
 
@@ -398,7 +402,7 @@ _Padoru padoru~_ ㅤ(Something-sooomething~)
 
 ---
 
-::: tip
+::: warning Fan Letter
 
 “Saber is supposed to be passing herself off as a guy, but how does that outfit possibly look like male clothing?”
 
@@ -428,7 +432,7 @@ _Padoru padoru~_ ㅤ(Something-sooomething~)
 
 **Sakura:** Yes, here's the next postcard.
 
-::: tip
+::: warning Fan Letter
 
 “Even though he's the boss, he doesn't stand out; he only has a few appearances, yet he talks a ton. I'm fine with all that, but calling him a “peaceful man” is where I draw the line. Could you guys correct that?”
 
@@ -448,7 +452,7 @@ _Padoru padoru~_ ㅤ(Something-sooomething~)
 
 **Caster:** If we really got into this, it might start to foreshadow other things. Okay, let's move on.
 
-::: tip
+::: warning Fan Letter
 
 “Before the game came out, I saw some skills in a magazine that weren't in the game when it came out. What's up with that? Especially for Casko.”
 
@@ -482,7 +486,7 @@ _Padoru padoru~_ ㅤ(Something-sooomething~)
 
 **Sakura:** Umm, let's come back and move on from that. Our next postcard is——*
 
-::: tip
+::: warning Fan Letter
 
 “Just saying, isn't the girl in the Infirmary unnecessary?”
 
@@ -492,7 +496,7 @@ _Padoru padoru~_ ㅤ(Something-sooomething~)
 
 **Sakura:** The next postcard. :)
 
-::: tip
+::: warning Fan Letter
 
 “I'm a Servant that specializes in shooting, but my Master's a huge stick in the mud. I guess it's fine as long as I just follow his orders, but what are you guys' Master like?”
 
@@ -548,7 +552,7 @@ Archer: Two-timing and exes, those kinds of things are for relationships after t
 
 **Caster:** She's enjoying this.
 
-::: tip
+::: warning Fan Letter
 
 “Yo, staff here. This is all just hypothetical, but if there were to be a sequel, what kind of things would you guys want added?”
 
@@ -606,7 +610,11 @@ Archer: Two-timing and exes, those kinds of things are for relationships after t
 
 **Sakura:** O-oh, everyone is here today. Is there something you needed? I'm pretty busy preparing my segment today…
 
-**Saber:** Umu, that's the thing. For some reason my ahoge[^second] is reacting suspiciously to this place. Are you hiding something?*
+**Saber:** Umu, that's the thing. For some reason my ahoge\* is reacting suspiciously to this place. Are you hiding something?*
+
+::: tip Note
+long strand of hair that sticks out of Saber's head
+:::
 
 **Sakura:** U-umm… what were you looking for in particular?
 
@@ -701,7 +709,11 @@ Archer: Two-timing and exes, those kinds of things are for relationships after t
 
 **Archer:** ……… (tears)
 
-**Sakura:** But as a main character, as a Master, I may be able to participate in the War, is what a strange mushroom[^third] told me!
+**Sakura:** But as a main character, as a Master, I may be able to participate in the War, is what a strange mushroom\* told me!
+
+::: tip Note
+Kinoko Nasu (bullying Sakura yet again :'()
+:::
 
 **Sakura:** I'm tired of being “the one who gives out medicine in the Infirmary!” I will become a Master, and reach the ending…!
 
@@ -798,7 +810,11 @@ Archer: Two-timing and exes, those kinds of things are for relationships after t
 ---
 ![HF](https://i.imgur.com/c5kTIRP.png)
 
-**Saber:** Ohh, Ika Musume!?[^fourth]
+**Saber:** Ohh, Ika Musume!?\*
+
+::: tip Note
+Squid Girl
+:::
 
 **Sakura:** A-at least call me a demonic maiden, please!
 
@@ -822,7 +838,11 @@ Archer: Two-timing and exes, those kinds of things are for relationships after t
 
 **Saber:** I'm onboard. It sounds interesting!
 
-**Sakura:** What are you all whispering about…? Come on, hurry up and pick your 6 commands[^fifth]. We're about to start the fight, you know.
+**Sakura:** What are you all whispering about…? Come on, hurry up and pick your 6 commands\*. We're about to start the fight, you know.
+
+::: tip Note
+In Fate/EXTRA, the battle mode consists of selecting three main interactions (“ATTACK”, “BREAK”, “GUARD”) in a sequence of six command slots every 1 turn.
+:::
 
 **Archer:** Yeah, we've kept you waiting. Let's get to it, “Shapeless One”!
 
@@ -896,7 +916,11 @@ Archer: Two-timing and exes, those kinds of things are for relationships after t
 
 **Saber:** What's the meaning of this? Open your eyes, Master—! This has to be some kind of mistake, right? It's a mistake, right!? I'm gonna cry! I'm really gonna start crying!
 
-**Caster:** Oh Honey, I implore you to wake up soon ♥ I would like to hear your excuse on this matter-I've trained and trained this technique[^sixth], and it seems the time has finally come to use it♥
+**Caster:** Oh Honey, I implore you to wake up soon ♥ I would like to hear your excuse on this matter-I've trained and trained this technique\*, and it seems the time has finally come to use it♥
+
+::: tip Note
+Polygamist Castration Fist
+:::
 
 **Hakuno:** (……I don't want to wake up……)
 
@@ -908,16 +932,3 @@ Archer: Two-timing and exes, those kinds of things are for relationships after t
 **THE END**
 
 **Happy New Year**
-
-
-[^first]: Favoritism of popular characters in media
-
-[^second]: long strand of hair that sticks out of Saber's head
-
-[^third]: Kinoko Nasu (bullying Sakura yet again :'()
-
-[^fourth]: Squid Girl
-
-[^fifth]: In Fate/EXTRA, the battle mode consists of selecting three main interactions (“ATTACK”, “BREAK”, “GUARD”) in a sequence of six command slots every 1 turn.
-
-[^sixth]: Polygamist Castration Fist

@@ -5,6 +5,7 @@
 * [Tsukihime Remake](Novels/tsukire.md) ~ Coming Soon!
 * [Witch on the Holy Night](Novels/witch-on-the-holy-night.md)
 * [Fate/Stay Night](Novels/fsn.md)
+* [Fate/Hollow Ataraxia](Novels/hollow-ataraxia.md)
 
 ## Light Novels
 
