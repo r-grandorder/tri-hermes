@@ -165,6 +165,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/NayjxJ8.png) | Mary Anning | | | 
 | ![](https://i.imgur.com/BGu72A6.png) | Don Quixote | | | 
 | ![](https://i.imgur.com/aSf9yvn.png) | Britomart | | |
+| ![](https://i.imgur.com/TYgVCxW.png) | Bhima | | |
 
 ## Rider
 
@@ -200,7 +201,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/RaRbED5.png) | Bartholomew Roberts | [Material Profile](Servants/Profiles/Bartholomew-Roberts.md) | |
 | ![](https://i.imgur.com/fGRFGWc.png) | Carmilla | [Material Profile](Servants/Profiles/Carmilla-Rider.md) | |
 | ![](https://i.imgur.com/VxvwB53.png) | Mandricardo | [Material Profile](Servants/Profiles/Mandricardo.md) | |
-| ![](https://i.imgur.com/Ubr113P.png) | Europa | [Material Profile](Servants/Profiles/Europa.md) | |
+| ![](https://i.imgur.com/Ubr113P.png) | Europa |  | |
 | ![](https://i.imgur.com/lh3QCVu.png) | Odysseus |  | |
 | ![](https://i.imgur.com/UjFczLi.png) | Murasaki Shikibu |  | |
 | ![](https://i.imgur.com/O5qzkCq.png) | Nemo | | | 
@@ -309,6 +310,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/U4ZAPET.png) | Huyan Zhuo | | |
 | ![](https://i.imgur.com/eUPie3Q.png) | Tezcatlipoca | | |
 | ![](https://i.imgur.com/bQbdypP.png) | Locusta | | |
+| ![](https://i.imgur.com/HEWsmqZ.png) | Kashin Koji | | |
 
 ## Berserker
 
@@ -353,6 +355,7 @@ Page still under construction - some links may be broken and not all links conta
 | ![](https://i.imgur.com/8zsuAyl.png) | Kriemhild | | | 
 | ![](https://i.imgur.com/qWXTKJL.png) | Ibuki-Dōji | | | 
 | ![](https://i.imgur.com/1A1MjD4.png) | Sen no Rikyū | | | 
+| ![](https://i.imgur.com/sh3td2Q.png) | Duryodhana | | |
 
 ## Ruler
 
