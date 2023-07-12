@@ -1,6 +1,6 @@
 # Chaldea Breakroom
 
-![](Breakroom/Images/logo_big.png)
+![](Breakroom/Images/breakroom_logo_big.png)
 
 
 [![](Breakroom/Images/menu01.png)](Breakroom/vol1.md)
