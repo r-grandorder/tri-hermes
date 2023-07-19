@@ -386,7 +386,7 @@
 
 “A―――Gi, GI GI, HI HAHAAHAHAHA HA HA HA HAHAHAHAHAHAHA...!!”
 
-　　　　　　　　"<ruby>AVESTA...<rt>of Inscribed Creation!"
+　　　　　　　　"<ruby>AVESTA...<rt>of Inscribed Creation!"</rt></ruby>
 
 　And activating his Noble Phantasm.
 
