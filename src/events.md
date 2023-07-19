@@ -273,7 +273,7 @@ This will be available soon.
 
 ### Spiral Testimonial World - Lilim Harlot
 
-* [![](https://static.atlasacademy.io/JP/Banner/event_war_80409.png)](Events/2023/spiral-testament-rayshift.md)
+* [![](https://static.atlasacademy.io/JP/Banner/event_war_80409.png)](Events/JP/spiral-testament-rayshift.md)
 
 ## JP Events - Summary Translation
 
