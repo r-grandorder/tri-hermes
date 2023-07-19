@@ -10,6 +10,10 @@
 
 ---
 
+**Fate/Unlimited Codes
+
+* [Fate/Unlimited Codes - Entire Script](Fate-Unlimited_Codes.md)
+
 **Capsule Servant**
 
 * [Opening](Games/CapsuleServant/opening.md)

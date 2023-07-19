@@ -2,7 +2,11 @@
 
 Here are the face expressions you can use in your posts and comments! 
 
-Be warned however that they are only visible in Old Reddit since they use CSS, so only a minority can see them.
+Be warned however that by default, this feature will not show on Default New Reddit or on mobile. 
+
+[If you would like to use and see these on New Reddit Desktop however, you can install this plugin, courtesy of Elnareen!](https://www.reddit.com/r/grandorder/comments/14hs9s6/custom_rgrandorder_css_for_new_reddit_now_with/)
+
+
 
 ## Example
 

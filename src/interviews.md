@@ -23,5 +23,9 @@
 | April 12, 2022 | [TM Ace Vol 14, 2 segments](Interviews/tmace14.md) | Kinoko Nasu, Koyama Hirokazu | Mahoyo Port talk + LB6 Info |
 | August 1, 2022 | [Birth of a Servant](Interviews/birth-of-servant-takeuchi.md) | Takeuchi Takashi | Implementation of Arcueid, Character Design Info, LB7 crumb |
 
+## Will Re-Order Later
+
+* [TM Ace 2016](Interviews/tmace-2016.md)
+
 
 
