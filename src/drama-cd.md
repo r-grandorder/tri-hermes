@@ -35,3 +35,4 @@
 * [TYPE-MOON's DJ CD - Ahnenerbe De Omachishiteimasu](https://www.heavens-feel.com/typemoon-djcd-waiting-translation.html)
 * [10th Anniversary Carnival Phantasm](https://www.heavens-feel.com/type-moon-10th-anniversary-carnival-phantasm.html)
 * [TM Ace Omake Theater](Drama-CDs/Misc/tmace-omake-theater.md)
+* [FGO Anthology Drama CD - The Blue Bird](Drama-CDs/Misc/Fate-Grand_Order_Anthology_Drama_CD-_The_Blue_Bird.md)
