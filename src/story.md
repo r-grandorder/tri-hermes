@@ -120,8 +120,8 @@
 
 ![](https://i.imgur.com/ADORzGw.png)
 
-* [Smoof's Traum Translation](Lostbelt/traum-TL-Smoof.md) - Available Soon
-* [Fumei's Traum Summary](Lostbelt/traum-summary-fumei.md) - Available Soon
+* [Smoof's Traum Translation](Lostbelt/traum-TL-Smoof.md) - WIP
+* [Rayshift Full Translation](Lostbelt/traum-rayshift.md)
 * [Post-Traum Speculation Resource](Lostbelt/ayylmao.md)
 
 ### Nahui Mictlan
@@ -130,6 +130,7 @@
 
 * [Smoof's LB7 Translation Summary](Lostbelt/mictlan-smoof.md)
 * [Beast Lair's LB7 Summary](Lostbelt/mictlan-BL.md)
+* [Rayshift Full Translation](Lostbelt/mictlan-rayshift.md)
 
 ## Ordeal Call
 
@@ -138,6 +139,7 @@
 ![](https://static.atlasacademy.io/JP/Banner/questboard_cap400.png)
 
 * [Smoof's Ordeal Call Summary Translation](Ordeal-Call/prologue-smoof.md)
+* [Rayshift's Ordeal Call Prologue Full Translation](Ordeal-Call/prologue-rayshift.md)
 
 ## FGO Arcade
 

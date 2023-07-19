@@ -51,7 +51,7 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:s37:|![](https://i.imgur.com/gk7Npnb.png)|:s38:|![](https://i.imgur.com/KqXD5VV.png)|:s39:|![](https://i.imgur.com/sgvoheP.png)|
 |:s40:|![](https://i.imgur.com/6V0ELjO.png)|:s41:|![](https://i.imgur.com/DdrQjus.png)|:s42:|![](https://i.imgur.com/SZabd6I.png)|
 |:s43:|![](https://i.imgur.com/XV1Ez85.png)|:s44:|![](https://i.imgur.com/EPA79fB.png)|:s45:|![](https://i.imgur.com/uh5VcqB.png)|
-|:s46:|![](https://i.imgur.com/EWgdV0S.png)|:s47:|![](https://i.imgur.com/oGAVdnm.png)|||
+|:s46:|![](https://i.imgur.com/EWgdV0S.png)|:s47:|![](https://i.imgur.com/oGAVdnm.png)|:s48:|![](https://i.imgur.com/qsb1ohS.png)|
 
 ## Archer
 
@@ -71,7 +71,8 @@ Keep in mind that the character limit is 64, and a space counts as a character.
 |:a32:|![](https://i.imgur.com/xvOOMBz.png)|:a33:|![](https://i.imgur.com/XDHi3DA.png)|:a34:|![](https://i.imgur.com/P2Uuzq0.png)|
 |:a35:|![](https://i.imgur.com/FjkcbAt.png)|:a36:|![](https://i.imgur.com/EAUiVz4.png)|:a37:|![](https://i.imgur.com/nWsn2V1.png)|
 |:a38:|![](https://i.imgur.com/b2QYe8D.png)|:a39:|![](https://i.imgur.com/JQDzaeA.png)|:a40:|![](https://i.imgur.com/cngsIwB.png)|
-|:a41:|![](https://i.imgur.com/zSNACqi.png)|:a42:|![](https://i.imgur.com/tXr57Ve.png)|||
+|:a41:|![](https://i.imgur.com/zSNACqi.png)|:a42:|![](https://i.imgur.com/tXr57Ve.png)|:a43:|![](https://i.imgur.com/xyTav4t.png)|
+|:a44:|![](https://i.imgur.com/aDkuOef.png)|||||
 
 ## Lancer
 

@@ -21,6 +21,7 @@
 * [Tsukihime Plus Period - Talk](Novels/talk.md)
 * [Tsukihime II - Prelude](Novels/prelude.md)
 * [Tsuki no Sango](Novels/tsuki-no-sango.md)
+* [Fate/Prototype OVA Script](Fate-Prototype-Script.md)
 * [Room of the April Witch](Novels/aprilwitch.md)
 * [Clocktower 2015](Novels/clocktower2015.md)
 * [Garden of Avalon](Novels/GoA.md)

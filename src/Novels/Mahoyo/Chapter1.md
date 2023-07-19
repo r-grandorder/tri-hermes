@@ -229,6 +229,8 @@
 
 ---
 
+![](https://i.imgur.com/IPwz0eH.png)
+
 |EN|JP|
 |:--------|:--------|
 |Arrogant, greedy, and able only to destroy...|<ruby>傲慢<rt>ごうまん</rt></ruby>で<ruby>貪欲<rt>どんよく</rt></ruby>で、壊すことしか能のない、|
@@ -240,11 +242,15 @@
 
 ---
 
+![](https://i.imgur.com/o5GsmVy.png)
+
 |EN|JP|
 |:--------|:--------|
 |It was a quiet morning.|それは、静かな朝だった。|
 
 ---
+
+![](https://i.imgur.com/VtL5OYr.png)
 
 |EN|JP|
 |:--------|:--------|

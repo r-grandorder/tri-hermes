@@ -269,10 +269,17 @@ This will be available soon.
 [![](https://static.atlasacademy.io/NA/Banner/event_war_80294.png)](Events/2023/valentines2023.md)
 
 
-## JP Translated Events
+## JP Events - Full Translation
+
+### Spiral Testimonial World - Lilim Harlot
+
+* [![](https://static.atlasacademy.io/JP/Banner/event_war_80409.png)](Events/2023/spiral-testament-rayshift.md)
+
+## JP Events - Summary Translation
 
 * [Halloween Rising!](Events/JP/halloweenrising.md)
 * [Nixie Island](Events/JP/nixie.md)
 * [Nanmei Yumihari Hakkenden - The Eight Dog Bowmen At The Southern Sea](Events/JP/hakkenden.md)
 * [Arctic Summer](Events/JP/arcticsummer.md)
 * [GUDAGUDA - Shin Yamataikoku](Events/JP/shin-yamataikoku.md)
+

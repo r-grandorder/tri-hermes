@@ -2,6 +2,11 @@
 
 Below are official materials published by TYPE-MOON to supplement their various works. This page is still WIP. 
 
+## Serial Materials
+
+* [Fate/Prototype Character Material](Materials/Fate-Prototype_Character_Materials.md)
+* [Witch on the Holy Night Material](Materials/The_Magicians_Basic_Rythm.md)
+
 ## Character Materials
 
 * [Fate Character Material II](Materials/cmii.md)

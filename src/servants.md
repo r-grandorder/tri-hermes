@@ -21,7 +21,7 @@ Page still under construction - some links may be broken and not all links conta
 |:--------:|:--------:|:--------:|:--------:|
 | ![](https://i.imgur.com/9ZlzZ5q.png) | Artoria Pendragon | [Material Profile](Servants/Profiles/Artoria-Pendragon.md) | [Interlude](Servants/Interludes/Artoria-Pendragon.md) |
 | ![](https://i.imgur.com/fE2C2sj.png) | Artoria Pendragon (Alter) | [Material Profile](Servants/Profiles/Artoria-Pendragon-Alter.md) | [Interlude](Servants/Interludes/Artoria-Pendragon-Alter.md) |
-| ![](https://i.imgur.com/D9JB46c.png) | Artoria Pendragon (Lily) | [Material Profile](Artoria-Pendragon-Lily.md) | [Interlude](Servants/Interludes/Artoria-Pendragon-Lily.md) |
+| ![](https://i.imgur.com/D9JB46c.png) | Artoria Pendragon (Lily) | [Material Profile](Servants/Profiles/Artoria-Pendragon-Lily.md) | [Interlude](Servants/Interludes/Artoria-Pendragon-Lily.md) |
 | ![](https://i.imgur.com/nPVYu38.png) | Nero Claudius | [Material Profile](Servants/Profiles/Nero-Claudius-Caesar.md) | [Interlude](Servants/Interludes/Nero-Claudius.md) |
 | ![](https://i.imgur.com/r5Rc6ZW.png) | Siegfried | [Material profile](Servants/Profiles/Siegfried.md) | [Interlude](Servants/Interludes/Siegfried.md) |
 | ![](https://i.imgur.com/GL8Zb5K.png) | Gaius Julius Caesar | [Material Profile](Servants/Profiles/Gaius-Julius-Caesar.md) | [Interlude](Servants/Interludes/Gaius-Julius-Caesar.md) |
