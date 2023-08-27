@@ -1,3 +1,4 @@
-<template>
-  <p class="demo">This is another component</p>
-</template>
+<template>  
+  <p class="demo">This is another component</p>  
+</template>  
+  
