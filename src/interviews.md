@@ -26,7 +26,6 @@
 ## Will Re-Order Later  
   
 * [TM Ace 2016](Interviews/tmace-2016.md)  
-* [Fate/The Fact](Interviews/Fate_The_Fact.md)  
   
   
   
