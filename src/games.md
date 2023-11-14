@@ -2,7 +2,8 @@
   
 ## Melty Blood Series  
   
-* [Melty Blood](Games/meltyblood.md)  
+* [Melty Blood](Games/melty-blood.md)  
+* [Melty Blood Re-Act](Games/melty-blood-re-act.md)
   
 ## Fate/EXTRA Games  
   
@@ -16,7 +17,7 @@
   
 **Fate/Unlimited Codes**  
   
-* [Fate/Unlimited Codes - Entire Script](Fate-Unlimited_Codes.md)  
+* [Fate/Unlimited Codes - Entire Script](Games/Fate-Unlimited_Codes.md)  
   
 **Capsule Servant**  
   
