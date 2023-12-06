@@ -1,8 +1,9 @@
 # Compiled Chronological Appearances of the Alien Priestess    
     
-As of the beginning of Ordeal Call, the Alien Priestess remains a complete enigma. Therefore, this page is created to objectively display every single appearance she has made with surrounding context - especially since most of them cannot be recorded in TRI-HERMES due to her not having dialogue.    
+As of the beginning of Ordeal Call, the Alien Priestess remains a complete enigma.  
+Therefore, this page is created to objectively display every single appearance she has made with surrounding context - especially since most of them cannot be recorded in TRI-HERMES due to her not having dialogue.      
     
-NA script will be used up to Heian Kyo, and from LB6 to LB7, Rayshift's translation will be used.    
+NA script will be used up to LB6, while Rayshift's translation will be used for LB7.   
     
 ## LB Prologue    
     
@@ -227,7 +228,7 @@ What will you do, Your Imperial Highness, Grand Duchess Anastasia?
     
 ## Moonlight Lostroom    
     
-::: details Disturbing Scene (Rape TW)    
+::: details Disturbing Scene (Potential Trigger Warning)    
 ![](https://i.imgur.com/Y2DVlpw.png)    
     
 ![](https://i.imgur.com/NIDPON7.png)    
@@ -1853,7 +1854,7 @@ That spell covers way too much ground!
     
 **Meunière:**    
 It doesn't matter how far Fujimaru runs    
-now, it'll still catch both [♂ him /♀️ her] and us! I hate to say    
+now, it'll still catch both [♂ him / ♀️ her] and us! I hate to say    
 it, but I think this might really be curtains for&ndash;    
     
 ![](https://i.imgur.com/Q4gtqxw.png)    
@@ -2039,7 +2040,7 @@ Farewell then, Doctor.
 **Kirschtaria:**    
 I doubt we'll ever see each other again, so let me leave you with one word of caution: this impression of yours is not particularly convincing.    
     
-### Resolve or Hesitation?    
+### Only the Living have the right to decide what will become of the Dead! 
     
 ![](https://i.imgur.com/ACSY1ls.png)    
     
@@ -2172,6 +2173,8 @@ If there wasn't, you'd have already said something.
     
 **Hephaestus:**    
 Then re-extract Hephaestus Klironomia to use again.    
+
+![](https://i.imgur.com/NEhj7HS.png)
     
 **Holmes:**    
 Let me be sure I understand you.    
@@ -2185,6 +2188,8 @@ then re-extract the Hephaestus Klironomia?
     
 **Hephaestus:**    
 Correct.    
+
+![](https://i.imgur.com/sKXqCOl.png)
     
 **Apollo:**    
 ...I'll be blunt.    
@@ -2201,6 +2206,8 @@ Do we really, in your view, have time to go to such lengths for an essentially u
 ...    
     
 ---    
+
+![](https://i.imgur.com/ZdTyv04.png)
     
 **Orion:**    
 I'll figure it out. I'll make it work.    
@@ -2217,9 +2224,13 @@ You know, there's such a thing as being TOO capable!
     
 **Holmes:**    
 Well now. They appear to be on Eris Island, which is just off the coast of Nemesis island. It is, at least, on our way.    
+
+![](https://i.imgur.com/u7IAwVf.png)
     
 **Charlotte Corday:**    
 Please...don't...    
+
+![](https://i.imgur.com/grAf3Qd.png)
     
 **Jason:**    
 ...Hmph.    
@@ -2232,15 +2243,23 @@ Not being useful...is one thing...but I couldn't take it...knowing I was draggin
     
 **Jason:**    
 Master! Now's the time to decide!    
+
+![](https://i.imgur.com/YbZJbiq.png)
     
 **Mandricardo:**    
 Jason, how can you...!?    
+
+![](https://i.imgur.com/tdTZsdR.png)
     
 **Jason:**    
 I know, Mandricardo! But the fact is, only the living have the right to decide what will become of the dead!    
     
 **Jason:**    
 Now, what's it going to be?    
+
+![](https://i.imgur.com/3MAoOa1.png)
+
+![](https://i.imgur.com/ju17XTP.png)
     
 ---    
     
@@ -2279,6 +2298,8 @@ R-right!
 **Charlotte Corday:**    
 Please...don't...!    
 You don't have...to do this...for me!    
+
+![](https://i.imgur.com/33GweGU.png)
     
 **Achilles:**    
 How can we call ourselves heroes if we can't even save one person in trouble!?    
@@ -2289,6 +2310,8 @@ How can we call ourselves heroes if we can't even save one person in trouble!?
 **Achilles:**    
 Don't worry about it. Once you're all better,    
 you can pay us back by saving us yourself!    
+
+![](https://i.imgur.com/Lna021f.png)
     
 **Charlotte Corday:**    
 I can't save you!    
@@ -2303,6 +2326,8 @@ Then don't worry about that, either.
 **Achilles:**    
 We're just gonna save you 'cause    
 it feels better that way!    
+
+![](https://i.imgur.com/sKXqCOl.png)
     
 **Apollo:**    
 You're all very unreasonable creatures, aren't you?    
@@ -2320,6 +2345,8 @@ You're all very unreasonable creatures, aren't you?
 ## Olympus    
     
 ### Grumpy Priestess    
+
+![](https://i.imgur.com/d7vlGQP.png)
     
 **Peperoncino:**    
 You know, I was thinking.    
@@ -2331,6 +2358,8 @@ with the Indian Lostbelt, right?
 **Peperoncino:**    
 So go ahead and punish me however you see fit,    
 Wodime. Whatever it is, I can take it.    
+
+![](https://i.imgur.com/qMcQfZu.png)
     
 **Kirschtaria:**    
 I hope I have not given you cause to mistake me, Pepe.    
@@ -2361,6 +2390,8 @@ the Foreign God or the Alter Egos' good graces.
 **Peperoncino:**    
 So here, hon, you can have my Sirius Light.    
 Make sure you make good use of it.    
+
+![](https://i.imgur.com/gLUroTt.png)
     
 **Kirschtaria:**    
 Thank you, Pepe, but there's no need for that.    
@@ -2373,6 +2404,8 @@ The Sirius Light has not been my responsibility since Team A ceased to be releva
 So no, you should hang onto yours.    
 What you do with it is up to you.    
     
+![](https://i.imgur.com/cLs0ujA.png)
+
 **Peperoncino:**    
 ...I see.    
     
@@ -2382,9 +2415,13 @@ She died BECAUSE she used her Sirius Light.
     
 **Peperoncino:**    
 Would I be right in assuming that's what Marisbury had in mind when he put our team together?    
+
+![](https://i.imgur.com/4YLl7ln.png)
     
 **Kirschtaria:**    
 ...    
+
+![](https://i.imgur.com/YTyUTuN.png)
     
 **Peperoncino:**    
 Not at liberty to answer that, huh?    
@@ -2396,6 +2433,8 @@ more of what your relationship was really like.
 **Kirschtaria:**    
 Despise me if you wish.    
 You are probably right to do so.    
+
+![](https://i.imgur.com/QmcX4rG.png)
     
 **Peperoncino:**    
 Despise you? Now you're just insulting me, Wodime.    
@@ -2415,6 +2454,8 @@ to see how the pieces fit together.
 **Peperoncino:**    
 Teehee! It never really sunk in before, but I guess    
 we really are enemies of humanity after all!    
+
+![](https://i.imgur.com/oSLlK2D.png)
     
 **Kirschtaria:**    
 I have to say, Pepe, your sheer mental fortitude never fails to surprise me. I'm amazed you can still smile like that under these circumstances.    
@@ -2428,6 +2469,8 @@ But hey, the important things are that I'm alive right now, and what it is I nee
 **Peperoncino:**    
 I'd never get anywhere if I spent all my time    
 fretting about a past I can't change.    
+
+![](https://i.imgur.com/moJxQLW.png)
     
 **Peperoncino:**    
 So I'm just going to tell you this, in the hope    
@@ -2453,6 +2496,8 @@ would become the next Proper Human History...
 **Peperoncino:**    
 Hehe. I heard it straight from the Alter Ego's mouth back when he was elated at the prospect of his seemingly assured victory.    
     
+![](https://i.imgur.com/ARA4uiD.png)
+	
 **Peperoncino:**    
 I swear, I never would've guessed his fondness for hearing himself talk would actually work in our favor!    
     
@@ -2496,6 +2541,8 @@ But let me know if you ever need help with anything, all right? I'm not THAT muc
     
 **Kirschtaria:**    
 ...Not that much of an ingrate, huh.    
+
+![](https://i.imgur.com/oSLlK2D.png)
     
 **Kirschtaria:**    
 Of course I know that, Pepe.    
@@ -2504,6 +2551,8 @@ You've been of help to me more often than you realize.
 **Kirschtaria:**    
 You always described yourself as a cold-blooded killer, but in fact, you were always the most humane...always honored your obligations more than any of us.    
     
+![](https://i.imgur.com/ANsLHzF.png)
+	
 **Foreign Priestess:**    
 ...    
     
@@ -2518,9 +2567,13 @@ Nor did I tell the other Crypters any of the Foreign God's secrets.
     
 **Kirschtaria:**    
 So far as I can tell, there have been no breaches of contract here. Am I wrong?    
+
+![](https://i.imgur.com/gUkJoIj.png)
     
 **Foreign Priestess:**    
 ...    
+
+![](https://i.imgur.com/4YLl7ln.png)
     
 **Kirschtaria:**    
 Everything is proceeding according to plan. The Tree of Emptiness is now a fully grown catalyst, ready to bring your true form down to this world.    
@@ -2538,10 +2591,14 @@ We agreed that, though our positions may be very different, Zeus and I would wor
     
 **Kirschtaria:**    
 And I will not be going back on my word.    
+
+![](https://i.imgur.com/oSLlK2D.png)
     
 **Kirschtaria:**    
 Not after he trusted me enough to let    
 me see him in a moment of weakness.    
+
+![](https://i.imgur.com/ANsLHzF.png)
     
 **Foreign Priestess:**    
 ...    
@@ -2579,15 +2636,17 @@ The only unknown factor that could possibly pose an obstacle to either of those 
 chooses to pursue.    
     
 **Kirschtaria:**    
-I only hope [♂ his /♀️ her] spirit isn't yet broken. I'm counting    
-on [♂ him /♀️ her] to make [♂ his /♀️ her] way here and once more throw    
-[♂ himself /♀️ herself] into battle against me...    
+I only hope [♂ his / ♀️ her] spirit isn't yet broken. I'm counting    
+on [♂ him / ♀️ her] to make [♂ his / ♀️ her] way here and once more throw    
+[♂ himself / ♀️ herself] into battle against me...    
     
 **Kirschtaria:**    
 ...so that I can conclusively demonstrate    
-to [♂ him /♀️ her] that [♂ his /♀️ her] efforts were for naught.    
+to [♂ him / ♀️ her] that [♂ his / ♀️ her] efforts were for naught.    
     
 ### She speaks!    
+
+![](https://i.imgur.com/8vMateb.png)
     
 **Narration:**    
 The black beam of light...    
@@ -2652,6 +2711,8 @@ What are you?
 **Narration:**    
 You there, from another planet.    
 You're supposed to be my beloved daughter.    
+
+![](https://i.imgur.com/ytvtPDo.png)
     
 **Foreign Priestess:**    
 Demeter.    
@@ -2660,13 +2721,19 @@ Goddess of the land.
 **Foreign Priestess:**    
 Now that you know you're about to disappear,    
 don't you have any regrets?    
+
+![](https://i.imgur.com/WsQ3kVf.png)
     
 **Demeter:**    
 ...That's very kind of you.    
+
+![](https://i.imgur.com/bQyhBRJ.png)
     
 **Demeter:**    
 I do have one regret.    
 Just one.    
+
+![](https://i.imgur.com/MkCq4B5.png)
     
 **Demeter:**    
 I can only pray that these new,    
@@ -2675,12 +2742,16 @@ tiny, intelligent beings...
 **Demeter:**    
 These ten million of my darling Olympians...    
 are able to find peace.    
+
+![](https://i.imgur.com/yLhY1sZ.png)
     
 **Demeter:**    
 I pray that when their time comes...    
 they are able to go without suffering.    
     
 ### She Speaks (2)!    
+
+![](https://i.imgur.com/SNgXWIe.png)
     
 **Narration:**    
 ...I can see the sky.    
@@ -2727,6 +2798,8 @@ self's love managed to outlive her.
     
 **Narration:**    
 That's so...    
+
+![](https://i.imgur.com/8vMateb.png)
     
 **Narration:**    
 Aphrodite.    
@@ -2741,6 +2814,8 @@ You really are foreign, aren't you?
 **Narration:**    
 Let me guess:    
 Did you do the same thing with Demeter?    
+
+![](https://i.imgur.com/ytvtPDo.png)
     
 **Foreign Priestess:**    
 Aphrodite.    
@@ -2749,13 +2824,19 @@ Goddess of love and beauty.
 **Foreign Priestess:**    
 Now that you know you're about to disappear,    
 don't you have any regrets?    
+
+![](https://i.imgur.com/LzCim3S.png)
     
 **Aphrodite:**    
 Of course not. Why would I?    
 I'm Aphrodite&ndash;a cold, heartless machine.    
+
+![](https://i.imgur.com/VekJzEh.png)
     
 **Aphrodite:**    
 I'm a device for controlling others. A Spiritron information warfare fighter, and intelligent life-form guidance vessel.    
+
+![](https://i.imgur.com/6v4GxL7.png)
     
 **Aphrodite:**    
 I'm not as kind as Demeter was,    
@@ -2764,31 +2845,45 @@ so I won't be giving you the kind of answer you want.
 **Aphrodite:**    
 But you may watch and see how a    
 goddess meets her end, if you like.    
+
+![](https://i.imgur.com/VekJzEh.png)
     
 **Aphrodite:**    
 And to see...what remains...    
+
+![](https://i.imgur.com/LzCim3S.png)
     
 **Aphrodite:**    
 ...after a life of control and arrogance...    
+
+![](https://i.imgur.com/SpCxs1o.png)
     
 **Narration:**    
 Hephaestus... I...    
     
 **Narration:**    
 I...    
-    
-### Embarassed Priestess...?    
+ 
+![](https://i.imgur.com/8vMateb.png)
+ 
+### Embarassed Priestess...?  
+
+![](https://i.imgur.com/DebAFcP.png)  
     
 **Senji Muramasa:**    
 Well, see you 'round.    
 Don't forget to give my regards to the Chaldea kid.    
-    
+
+![](https://i.imgur.com/3i5kxPT.png)
+   
 **Musashi:**    
 ...Uh, yeah, will do.    
 Take care.    
     
 **Musashi:**    
 ...Wait. You mean you're leaving right this second!?    
+
+![](https://i.imgur.com/2smra10.png)
     
 **Senji Muramasa:**    
 Aye. Rasputin's supervising the Crypters, and Ashi&ndash;I mean, Limbo's is to keep an eye on the Lostbelt kings...    
@@ -2807,6 +2902,12 @@ on getting the big god some clothes.
 **Senji Muramasa:**    
 'Cause if what they say is true,    
 they're gonna arrive here buck naked!    
+
+![](https://i.imgur.com/DebAFcP.png)
+
+![](https://i.imgur.com/cdMQ5PS.png)
+
+![](https://i.imgur.com/Ihc7JgT.png)
     
 **Musashi:**    
 !?    
@@ -2816,6 +2917,8 @@ Don't worry, she's just here as an arbiter. She can't do
 anything to you, and she wouldn't even if she could.    
     
 ### An Attempted Message    
+
+![](https://i.imgur.com/j8IesXJ.png)
     
 ---    
     
@@ -2823,7 +2926,9 @@ anything to you, and she wouldn't even if she could.
 What's this place...?    
     
 ---    
-    
+
+![](https://i.imgur.com/jh0Y13B.png)
+   
 **Holmes:**    
 A table that differs significantly from Olympian design... Seven chairs... A modern-day magical circuit in the room...    
     
@@ -2858,20 +2963,32 @@ alive to hear this.
     
 **Mechanical Voice:**    
 I'm sure you have many thoughts, but I hope you can accept the new world that will soon be upon us. Farewell.    
+
+![](https://i.imgur.com/iIK0OiA.png)
     
 **Mash:**    
 That was Kirschtaria! Then that corridor must be    
 the one that leads to the Tree of Emptiness!    
+
+!![](https://i.imgur.com/t6p0YZj.png)
     
 **Foreign Priestess:**    
 ...    
+
+![](https://i.imgur.com/Dcu4lN7.png)
     
 **Mash:**    
 Huh!? Master, the woman we saw in the Russian Lostbelt    
 is standing in front of the corridor&ndash;    
+
+![](https://i.imgur.com/4lMnvQe.png)
     
 **Foreign Priestess:**    
 ...    
+
+![](https://i.imgur.com/atNJ9zs.png)
+
+![](https://i.imgur.com/SIJGNq1.png)
     
 **Macarios:**    
 Huh? What are you talking about, Mash?    
@@ -2879,7 +2996,9 @@ There's no one near the corridor.
     
 **Adele:**    
 Macarios is right. There's no magical energy there, either. Are you okay? Are you sure you're not just exhausted?    
-    
+
+![](https://i.imgur.com/7REEW6x.png)
+   
 **Mash:**    
 Huh? But...I can see her right there, plain as day...    
     
@@ -2894,6 +3013,8 @@ Huh? But...I can see her right there, plain as day...
 Come to think of it, our instruments couldn't observe her in Russia, either...    
     
 ---    
+
+![](https://i.imgur.com/jh0Y13B.png)
     
 **Holmes:**    
 Perhaps she wishes to tell us something, or perhaps she's some kind of random phenomenon.    
@@ -2912,10 +3033,14 @@ Regardless, we have no time to deal with her now. As it seems she won't be getti
 ...Okay. Come on, Mash.    
     
 ---    
+
+![](https://i.imgur.com/mwtTl8e.png)
     
 **Mash:**    
 I... I know you're right, but...    
 She seems like she does want to tell us something...    
+
+![](https://i.imgur.com/BZFVGde.png)
     
 **Macarios:**    
 Forget about the invisible girl and come on!    
@@ -2936,6 +3061,8 @@ Don't you want to return the favor this time!?
     
 **Mash:**    
 R-right! Well said, Master!    
+
+![](https://i.imgur.com/clsbaza.png)
     
 **Mash:**    
 I'm so sorry.    
@@ -2944,9 +3071,13 @@ I wish I knew what it is you want to tell us.
 **Mash:**    
 Next time, I'll make sure to hear what you    
 have to say, but right now, I have to go!    
+
+![](https://i.imgur.com/RLFwjZG.png)
     
 **Foreign Priestess:**    
 ...    
+
+![](https://i.imgur.com/ivP8g71.png)
     
 **Priest:**    
 Hmm. You know, even I can never    
@@ -2955,9 +3086,13 @@ tell what it is you're thinking.
 **Priest:**    
 Tell me, Priestess, did you want to stop them,    
 or did you want to kill them here and now?    
+
+![](https://i.imgur.com/APiKeRJ.png)
     
 **Foreign Priestess:**    
 ...    
+
+![](https://i.imgur.com/yHGezVg.png)
     
 **Priest:**    
 I see. It goes without saying, does it? Then, as I    
@@ -2977,6 +3112,8 @@ Perhaps it will be the daring and unpredictable Chaldeans, who carry the fate of
 **Priest:**    
 Or...perhaps our luck will prevail over them both,    
 even after making enemies of everyone.    
+
+![](https://i.imgur.com/gjB4TPr.png)
     
 **Priest:**    
 Regardless of what happens, as a lone priest,    
@@ -2988,7 +3125,1065 @@ I will simply watch and see...
 ## OP2    
     
 ## LB6    
-    
-## Traum    
+
+### ???
+
+![](https://i.imgur.com/nw3fygY.png)
+
+**Narration:**  
+Several Hours after the Meeting  
+At the Emptied Throne Room  
+
+![](https://i.imgur.com/ch4sZOm.png)
+
+**Morgan:**  
+...Still no sign of movement from the pit.  
+That is concerning.  
+
+**Morgan:**  
+That aside... A great calamity that comes every thousand years, hmm?  
+
+**Morgan:**  
+The sheer idiocy of these faeries never ceases to amaze.  
+
+**Morgan:**  
+At least it is useful. I will use whatever I must to erase Proper Human History forever.  
+
+![](https://i.imgur.com/36NM5KC.png)
+
+**Foreign Priestess:**  
+...  
+
+**Morgan:**  
+...You again. You know that merely observing will resolve nothing.  
+
+**Morgan:**  
+If you are truly the Foreign God's priestess, you should at least try to kill me.  
+
+**Morgan:**  
+Though of course, that assassination attempt by the Disciple of the Foreign God did not go so well for him.  
+
+**Morgan:**  
+No Servant comprised of a Heroic Spirit from Proper Human History can hope to match my Tam Lin.  
+
+**Morgan:**  
+If you will do nothing but stand there and watch, then do not show yourself. I tire of looking at you.  
+
+**Morgan:**  
+If there is something you wish to say it to me, then speak, as he did.  
+
+![](https://i.imgur.com/yPrb2Kp.png)
+
+![](https://i.imgur.com/DAspTtL.png)
+
+**The Chaldean:**  
+Sorry to interrupt your chat. I would have knocked, but there's no door here.  
+
+**Morgan:**  
+Of course not. Why would I welcome guests merely because they come knocking? I do have a waiting room, though, had you cared to use it.  
+
+**The Chaldean:**  
+You mean the ghost ward down below? It is majestic but unnecessary. I don't have time to wait.  
+
+### ??? 2  
+
+![](https://i.imgur.com/CFeZLAl.png)
+
+**Da Vinci:**  
+Hang on, Percival. What's this picture up on that wall?  
+
+![](https://i.imgur.com/iHIBTbA.png)
+
+**Percival:**  
+Picture? ...Oh, that's a mural that was painted during the Fae Era. None of us really know much about it, though.  
+
+![](https://i.imgur.com/cCbO2Bk.png)
+
+**Artoria:**  
+Is that...six faeries dancing around a large beast?  
+It almost looks like they're holding a festival.  
+
+**Artoria:**  
+But I've never seen any beast like that in Britain before.  
+
+**Senji Muramasa:**  
+Looks like some kinda monster to me. Maybe a personification of the calamities.  
+
+**Gareth:**  
+Nnn, I don't know if I agree with that. The beast almost looks like it loves them.  
+
+**Habetrot:**  
+I think so, too. You probably can't feel it 'cause you're a Proper Human History Heroic Spirit, Muramasa, but this beast is definitely depicted as very loving.  
+
+**Habetrot:**  
+No British faerie would be afraid of this mural.  
+If anything, I think it'd be seen as...grand.  
+
+**Senji Muramasa:**  
+Huh? Because I'm a Proper Human History Heroic Spirit?  
+
+**Da Vinci:**  
+...Grand, huh?  
+
+**Da Vinci:**  
+I can't tell how it feels to Gareth and Habetrot since I'm not a faerie myself...  
+
+**Da Vinci:**  
+...but this wouldn't happen to be a religious painting, would it, Percival?  
+
+**Percival:**  
+A... “religious” painting?  
+I'm sorry, I don't know what that word means.  
+
+**Percival:**  
+All I know is that this mural originally belonged to the faeries of Orkney&ndash;the Rain clan.  
+
+**Percival:**  
+It's said that a knight of Londinium brought it here from the ruins of Orkney...  
+
+**Percival:**  
+...while Londinium was still being constructed.  
+
+**Percival:**  
+Apparently, it depicts the creation of Britain,  
+and in old faerie language, it's known as...  
+
+**Percival:**  
+“The Abyssal Worm.”  
+
+---  
+
+**Fujimaru 1:**  
+The Abyssal Worm...  
+
+---  
+
+**Fujimaru 2:**  
+A worm? Even though it looks like a huge beast?  
+
+---  
+
+![](https://i.imgur.com/vnRB9wu.png)
+
+---  
+
+**Fujimaru 1:**  
+!  
+
+---  
+
+![](https://i.imgur.com/Folp7lO.png)
+
+**Percival:**  
+Is something wrong, Fujimaru?  
+Did you see someone suspicious over there?  
+
+---  
+
+**Fujimaru 1:**  
+...(It felt like I was being watched...)  
+
+---  
+
+**Fujimaru 2:**  
+...It's nothing. Just my imagination.  
+
+---  
+
+![](https://i.imgur.com/FOn6J6p.png)
+
+**Senji Muramasa:**  
+Hey, Da Vinci. You said this was a religious painting, right? You mean you think it's a god?  
+
+![](https://i.imgur.com/WoYU1wk.png)
+
+**Da Vinci:**  
+...Yeah, it probably is.  
+
+**Da Vinci:**  
+The six faeries shown here are obviously stand-ins for the six clans&ndash;probably the original forefathers.  
+
+**Da Vinci:**  
+And whatever that big thing is, they're clearly worshiping it.  
+
+**Da Vinci:**  
+That has to mean this creature stands above the faeries, which would make it a god.  
+
+![](https://i.imgur.com/Dg9zxqx.png)
+
+**Oberon:**  
+Hmm. But the thing is, there ARE no gods in Faerie Britain. Like I said, the great cathedral is only for show.  
+
+**Oberon:**  
+I've been to almost every city in Britain looking for information, and I've never seen another mural like that.  
+
+**Da Vinci:**  
+That's my point. This mural's been around since before Morgan's rule. Hell, it's been around since before Faerie Britain was even a thing.  
+
+![](https://i.imgur.com/3K6OBG6.png)
+
+**Gareth:**  
+Oh! So, it's depicting something from the Fae Era, before it became the Era of the High Queen!  
+
+**Gareth:**  
+Wait. Then, does that mean...Queen Morgan doesn't know about this mural?  
+
+![](https://i.imgur.com/3jtMD06.png)
+
+**Senji Muramasa:**  
+Naw, she must. And, it's probably no accident that it was left out of the history books.  
+
+**Senji Muramasa:**  
+Once Morgan became queen, she wanted to be the only power the faeries believed in...  
+
+**Senji Muramasa:**  
+So she erased the concept of godhood from Britain by pretending it never existed. That way, it could never pose a threat to her rule.  
+
+**Da Vinci:**  
+...It may just be that this mural holds part of the answer as to what causes the calamities...  
+
+**Da Vinci:**  
+...and why there are no gods in Britain.  
+
+**Da Vinci:**  
+Too bad the only words on it are written in Old Faerian. I can't make heads or tails of it.  
+
+**Da Vinci:**  
+Can you read it, Oberon?  
+
+**Da Vinci:**  
+Here, look. This part here definitely looks like writing.  
+
+![](https://i.imgur.com/Dg9zxqx.png)
+
+**Oberon:**  
+...I'm sorry, but no.  
+
+**Oberon:**  
+I can kind of read the modern faerie language now, but this is beyond me.  
+
+**Oberon:**  
+I'd guess the only people who can read this are in Camelot's administration.  
+
+**Da Vinci:**  
+I see. Well, that's too bad.  
     
 ## LB7    
+
+### Operating room
+
+![](https://i.imgur.com/aFn4W98.png)
+
+![](https://i.imgur.com/PYsYN7W.png)
+
+**Mash:**   
+This is&mdash; Just what is this place&mdash;   
+
+![](https://i.imgur.com/VB6PmU6.png)
+  
+**Kadoc:**   
+An operating room, and...some kind of life form, or&mdash;a corpse...?   
+  
+---  
+  
+**Fujimaru 1:**   
+...  
+  
+  
+---  
+  
+**Fujimaru 2:**   
+By the look of things, this person was&mdash;
+  
+  
+---  
+  
+**Kadoc:**   
+...Yeah. Seems like this being was the Master of every Servant who was in the Singularity.   
+  
+**Kadoc:**   
+Moriarty called it “Subject: E”.   
+  
+**Mash:**   
+Oh! I'm sorry, my mind went blank. Commencing data collection for the surrounding area!   
+  
+**Kadoc:**   
+I'll do the same. We mustn't leave any stone unturned. I'll check for any signs of magical energy or spells that might be in effect.   
+  
+**Kadoc:**   
+I wouldn't hold my breath, though... Modern equipment of this grade wouldn't share the room with magecra&mdash;   
+
+![](https://i.imgur.com/9A7vKBQ.png)
+
+![](https://i.imgur.com/dZXBlNU.png)
+  
+---  
+  
+**Fujimaru 1:**   
+That was&mdash;  
+  
+  
+---  
+  
+---  
+  
+**Fujimaru 1:**   
+Mash, Kadoc, something's wrong!  
+  
+  
+---  
+
+![](https://i.imgur.com/QlhBCxW.png)
+ 
+**Kadoc:**   
+Don't scare me half to death by yelling all of a sudden! But then again, that look on your face is one I know all too well by now!   
+  
+**Kadoc:**   
+Damn, there's no denying something's amiss. Wrap up the scans, Mash!   
+  
+**Mash:**   
+Right! Just ten more seconds until I've measured and recorded all available information in this space!   
+  
+**Kadoc:**   
+Good, the door is still open! Let's head out the moment Mash's scans are complete!   
+  
+**Kadoc:**   
+Fujimaru! Get over here too&mdash;   
+  
+**Kadoc:**   
+Why are you trying to bring the corpse with you!? Don't go touching things you don't know about, you colossal moron!   
+  
+---  
+  
+**Fujimaru 1:**   
+(...I won't deny the thing is scary...)  
+  
+  
+---  
+  
+---  
+  
+**Fujimaru 1:**   
+But having at least made it here,  
+  
+  
+---  
+  
+**Fujimaru 2:**   
+we should get it outside...  
+  
+  
+---  
+
+![](https://i.imgur.com/bfM6hvH.png)
+  
+**Mash & Kadoc:**   
+Ah...   
+  
+**Mash:**   
+Senpai!?   
+  
+**Kadoc:**   
+Hey, that was a precious sample...!   
+  
+**Kadoc:**   
+Never mind, nothing we can do about it! Are you feeling abnormal in any way!? No? Great!   
+  
+**Kadoc:**   
+Mash, your ten seconds are up! It's not safe here any longer. Hurry!   
+  
+**Mash:**   
+Okay! Data collection completed! Let's hurry, Master!   
+  
+---  
+  
+**Fujimaru 1:**   
+R-Roger!  
+  
+  
+---  
+
+![](https://i.imgur.com/h290ZzS.png)
+  
+---  
+  
+**Fujimaru 1:**   
+Although, that was...  
+  
+  
+---  
+  
+**Fujimaru 2:**   
+(Something very...)  
+  
+  
+---  
+  
+**Kadoc:**   
+Fujimaru! What are you doing? Hurry!   
+ 
+![](https://i.imgur.com/YXviEs9.png)
+
+![](https://i.imgur.com/uBWegEU.png)
+
+![](https://i.imgur.com/PpZsOQp.png)
+
+**Mash:**   
+Subatomic bonds are unraveling!   
+  
+**Mash:**   
+There's also a disturbance in spacetime, but the passage will collapse first!   
+
+### Envy?
+
+![](https://i.imgur.com/A8TkzKe.png)
+
+**Tepeu:**   
+I will take my repose first. I have a great deal of new information to digest this cycle.   
+  
+**Mash:**   
+And with that, Tepeu went to sleep early.   
+
+![](https://i.imgur.com/3bMkYBh.png)
+  
+**U-Olga Marie:**   
+&mdash;   
+
+![](https://i.imgur.com/b1GDX9W.png)
+  
+**Mash:**   
+U-Olga Marie is watching the night sky about twenty meters from us.   
+  
+---  
+  
+**Fujimaru 1:**   
+...Good timing. It's a snub to her, but let's clear things up.  
+  
+  
+---  
+  
+**Mash:**   
+...Yes. Let's talk about how to deal with U-Olga Marie as well as the future of our operation from here.   
+  
+**Mash:**   
+What are you thinking regarding U-Olga Marie, Senpai?   
+  
+**Mash:**   
+The situation is that she's currently suffering from amnesia, only remembering her name and purpose.   
+  
+**Mash:**   
+“U-Olga Marie is a space alien who has come to rule the Earth.”   
+  
+**Mash:**   
+“She has no other personal memories. Only the video records she had watched to understand Earth.”   
+  
+**Mash:**   
+...She's ignorant about Chaldea, about the bleaching of Earth, and about her fight with the Storm Border.   
+  
+**Mash:**   
+I don't...want us to be enemies, even if she is the Alien God.   
+  
+**Mash:**   
+She's been friendly to us these past twelve hours. In which case, if she still doesn't regain her memories...   
+  
+---  
+  
+**Fujimaru 1:**   
+...We'll keep quiet for now about her being the Alien God.  
+  
+  
+---  
+
+![](https://i.imgur.com/U9Uke5g.png)
+  
+**Nemo Marine:**   
+It feels manipulative, but I agree with that. U keeps saying over and over that she's ruling the Earth.   
+  
+**Nemo Marine:**   
+But the nuance is less about “dominating” mankind and more “improving its management”.   
+  
+**Nemo Marine:**   
+That's different from when she was attacking the Storm Border as the Alien God.   
+  
+**Nemo Marine:**   
+I bet she was putting up a facade back then and this is her natural self. So then&mdash;   
+  
+**Habetrot:**   
+She at least won't be the enemy if she can't remember that she's the Alien God, right?   
+
+![](https://i.imgur.com/L5sYuT4.png)
+  
+**Habetrot:**   
+In that case, I'm with you. But you have to promise one thing.   
+  
+**Habetrot:**   
+Let's not hold back anything else. Real friends don't keep each other in the dark about everything.   
+  
+---  
+  
+**Fujimaru 1:**   
+That goes without saying!  
+  
+  
+---  
+  
+**Fujimaru 2:**   
+Now that our minds are made up  
+  
+  
+---  
+  
+---  
+  
+**Fujimaru 1:**   
+Miss President!  
+  
+  
+---  
+  
+**Fujimaru 2:**   
+Miss U!!!  
+  
+  
+---  
+
+![](https://i.imgur.com/8gQx8Mw.png)
+
+![](https://i.imgur.com/qUi1j0a.png)
+
+  
+**U-Olga Marie:**   
+What is it? I've been rather occupied coming up with a presidential astrological sign.   
+
+![](https://i.imgur.com/Pyy87HZ.png)
+  
+**Mash:**   
+E-Excuse us, that is quite a lot of work! I think it's quite romantic to come up with constellations!   
+
+![](https://i.imgur.com/hYEcqbz.png)
+  
+**U-Olga Marie:**   
+The first thing to do when reaching a new celestial body is play at constellations. That's a noble's prerogative, but no matter.   
+  
+**U-Olga Marie:**   
+If you want to talk, then talk. I'm sure it's a subject that will gratify me.   
+  
+---  
+  
+**Fujimaru 1:**   
+...And that about sums up our background.  
+  
+  
+---  
+  
+**U-Olga Marie:**   
+Servants, Masters, magi, Chaldea and the Human Order Incineration, Singularities...   
+  
+**U-Olga Marie:**   
+The bleaching of Earth, Crypters, Fantasy Trees, Pan-Human History, Lostbelts, Earth's many crises...   
+  
+**U-Olga Marie:**   
+Hm. Hmm. Now I clearly see the follies of mankind. You have endured much.   
+
+![](https://i.imgur.com/ISy81FV.png)
+ 
+**U-Olga Marie:**   
+Although&mdash;you did well restoring your future, even if only once.   
+  
+**U-Olga Marie:**   
+I see you in a better light now, Fujimaru. Excellent job, Mash.   
+  
+**U-Olga Marie:**   
+Chaldea is quite the organization.   
+  
+**U-Olga Marie:**   
+Ensuring a future for the people without them even realizing it&mdash;truly a noble job to perform.   
+
+![](https://i.imgur.com/PrF2mwr.png)
+ 
+**Mash:**   
+Director&mdash;   
+  
+**U-Olga Marie:**   
+What is the meaning of this “die-recter” talk?   
+  
+**U-Olga Marie:**   
+Do your kind tend to suffer from bugs that make you spit out nonsense?   
+  
+**U-Olga Marie:**   
+No&ndash;That's not what I should be saying. Right. About your whole story, it's a 90 out of 100.   
+
+![](https://i.imgur.com/XBNGWrV.png)
+ 
+**U-Olga Marie:**   
+I've never heard anything more gratifying, but it's a 90. Do you understand why?   
+  
+**Mash:**   
+N-No, I wouldn't know. Have you ever felt all the way gratified?   
+  
+**U-Olga Marie:**   
+I mean, it's missing something. You see?   
+  
+**U-Olga Marie:**   
+Though I will concede that the both of you gave your all.   
+  
+**U-Olga Marie:**   
+But it's missing one piece of the puzzle. It's well-crafted but that one finishing touch isn't there.   
+  
+**U-Olga Marie:**   
+It could be even better with one light of hope filling that hole. Though I won't say what would that be. I have no idea who would fit that description.   
+  
+**Mash:**   
+Ah&mdash;!   
+  
+---  
+  
+**Fujimaru 1:**   
+We lost 10 points for doing it without Olga Marie!  
+  
+  
+---  
+  
+**Fujimaru 2:**   
+Wanna perform this noble job?  
+  
+  
+---  
+
+![](https://i.imgur.com/OQPdSjd.png)
+  
+**U-Olga Marie:**   
+&mdash;!   
+  
+**U-Olga Marie:**   
+Heh! Mankind is deducted 100 foolishness points from that remark alone!   
+  
+**U-Olga Marie:**   
+After hearing it, I'll help you with your work to save the Earth. Count on me fighting by your side, as friends!   
+  
+---  
+  
+**Fujimaru 1:**   
+All right!  
+  
+  
+---  
+
+![](https://i.imgur.com/WMaAdzG.png)
+
+![](https://i.imgur.com/oRrNoL2.png)
+  
+**Alien Priestess:**   
+&mdash;   
+
+![](https://i.imgur.com/LUxcueC.png)
+  
+**Mash:**   
+Well, it seems to be getting late despite our glad enthusiasm. I think it's time we get into our sleeping bags.   
+  
+**Mash:**   
+Tepeu said that the sun should take about half the daytime hours to arrive.   
+  
+**Mash:**   
+A rough conversion of that interval ought to be about twelve hours.   
+  
+**Mash:**   
+So after seven hours of solid rest, we'll leave the maize field while it's still night.   
+ 
+![](https://i.imgur.com/vfM7OXx.png)
+ 
+**Nemo Marine:**   
+Count on me to keep a lookout at night! You can all sleep in peeeace!   
+  
+---  
+  
+**Fujimaru 1:**   
+Thanks, Marine.  
+  
+  
+---  
+  
+**Fujimaru 2:**   
+I'll take you up on that right away.  
+  
+  
+---  
+
+![](https://i.imgur.com/7kdJfIi.png)
+  
+**U-Olga Marie:**   
+...?   
+
+![](https://i.imgur.com/ujB8XZT.png)
+  
+**Man in Priestly Garb:**   
+...Hmm. What a vexing state of affairs this has become.
+
+### U-Olga Marie of Chaldea
+
+![](https://i.imgur.com/JEIPbCl.png)
+
+**Tepeu:**   
+...   
+
+![](https://i.imgur.com/c5D5LAu.png)
+  
+**U-Olga Marie:**   
+That's not a very cheerful color... The green without a trace of stagnation has ripples forming on it.   
+  
+**U-Olga Marie:**   
+Do you believe we should not head for Mexico City? It appears to be the capital of the Ocelomeh.   
+  
+**Tepeu:**   
+No, I have no objections with their plan. It is only logical to aid your comrades.   
+  
+**Tepeu:**   
+Though I do feel unease at having to cross the Second Underworld.   
+  
+**U-Olga Marie:**   
+Then why?   
+
+![](https://i.imgur.com/v0oYc08.png)
+  
+**Tepeu:**   
+...I wonder?   
+  
+**Tepeu:**   
+It's just like Marine said, these Marines are no different from him.   
+  
+**Tepeu:**   
+They're just like us. The loss of an individual deinos has no bearing on the deinos species as a whole.   
+  
+**Tepeu:**   
+The entities known as the Marines are still extant. They haven't been lost. And yet&mdash;   
+  
+**Tepeu:**   
+I feel extremely sad...   
+  
+**Tepeu:**   
+I will never again be admonished by THAT Marine, will I?   
+
+![](https://i.imgur.com/iNtCdBp.png)
+  
+**U-Olga Marie:**   
+...   
+  
+---  
+  
+**Fujimaru 1:**   
+Tepeu, U-Olga Marie.  
+  
+  
+---  
+  
+**Fujimaru 2:**   
+There you are.  
+  
+  
+---  
+
+![](https://i.imgur.com/gHY36x3.png)
+  
+**Tepeu:**   
+Yes. Professor and I were having a knowledge exchange. I've heard of your plan too.   
+  
+**Tepeu:**   
+You are headed for Mexico City to rescue your comrades. I shall be accompanying you, to the best of my ability, as your guide.   
+  
+**Tepeu:**   
+What about U-Olga Marie? You have achieved your initial objective.   
+  
+**Tepeu:**   
+Fujimaru and Mash have safely arrived at the Border.   
+
+![](https://i.imgur.com/9kkc7wA.png)
+  
+**U-Olga Marie:**   
+Well...that human named Gordolf does get on my nerves...   
+  
+---  
+  
+**Fujimaru 1:**   
+Eh, you're not coming with us!?  
+  
+  
+---  
+  
+**Fujimaru 2:**   
+Please, Miss President!  
+  
+  
+---  
+
+![](https://i.imgur.com/UmsmUf6.png)
+  
+**U-Olga Marie:**   
+Hmph&mdash;I guess you're right! You obviously need my help!   
+
+![](https://i.imgur.com/zcIAPpT.png)
+  
+**U-Olga Marie:**   
+I'll help you, of course! After all, I am U-Olga Marie of Chaldea now!   
+  
+**U-Olga Marie:**   
+Alright, let's resume our rescue efforts! Our objective lies on the fifth layer, at Mexico City!   
+  
+**U-Olga Marie:**   
+Allow the great disaster that is I to lay waste to the city of those insolent Ocelomeh!  
+
+![](https://i.imgur.com/Cna23DX.png)
+
+### Extinction
+
+![](https://i.imgur.com/PS6gSHn.png)
+
+![](https://i.imgur.com/Wmxa57R.png)
+
+**Mash:**   
+I can't find the Deinonychus brothers...   
+  
+**Mash:**   
+It looks like every deinos in town is here...and that they're having a conference.   
+
+![](https://i.imgur.com/cKazBjS.png)
+  
+**Calm Deinos:**   
+Oh, if it isn't Fujimaru and Mash. Have you come to speak about Pan-Human History again?   
+  
+**Calm Deinos:**   
+That would be wonderful. Come to the center of the circle. This time, please tell us about Central America.   
+  
+---  
+  
+**Fujimaru 1:**   
+...Sorry. I'm not really in the mood to talk right now...  
+  
+**Disappointed Deinos:**   
+Is that so? That does happen sometimes. It can be very difficult to describe events with words alone.   
+  
+**Disappointed Deinos:**   
+A slight mistake in either expression or depiction, and the whole imagery is ruined.   
+  
+  
+---  
+  
+**Fujimaru 2:**   
+...Why is nobody upset about this?  
+  
+**Deinos tilting their head:**   
+...? Did something happen that we should be angry about? Ah, that's right, Vucub was imprisoned.   
+  
+**Deinos tilting their head:**   
+We didn't want to do that to one of our own, but we referred to what Pan-Human History used to do.   
+  
+  
+---  
+  
+**Mash:**   
+...Um, what are the deinos going to do now?   
+  
+**Mash:**   
+You know the sun is going to explode, right? What's more, all your friends and your city will be destroyed...   
+  
+**Mash:**   
+And your city's destruction was because of Daybit... no, because of the knowledge of Pan-Human History.   
+  
+**Mash:**   
+Holding us responsible would be entirely justified. So why&mdash;   
+
+![](https://i.imgur.com/UE5rnHw.png)
+  
+**Assembled Deinos:**   
+Hey! What are you doing, Chitam!? You making Mash cry!? That's not cool!   
+  
+**Assembled Deinos:**   
+Did you show her your messed-up equation?   
+
+![](https://i.imgur.com/ymzaNzt.png)
+  
+**Panicked Deinos:**   
+No, that's not it...I'm sorry.   
+  
+**Panicked Deinos:**   
+I didn't mean to bring the both of you so down... I see...   
+
+![](https://i.imgur.com/dhqOclb.png)
+  
+**Smiling Deinos:**   
+The brain patterns the two of you are experiencing right now most likely corresponds to “guilt.”   
+  
+**Smiling Deinos:**   
+This is not the first time you have worried about this. You asked if we harbored any hostility towards Pan-Human History.   
+
+![](https://i.imgur.com/PpeCTIM.png)
+  
+**Smiling Deinos:**   
+We were delighted when you asked us that.   
+  
+**Smiling Deinos:**   
+It was proof that you always paid special attention to the state of things in a Lostbelt even while fighting them, and have never forgotten them.   
+
+![](https://i.imgur.com/UE5rnHw.png)
+  
+**Assembled Deinos:**   
+Yes, that's right. But it was hard on you, wasn't it?   
+  
+**Assembled Deinos:**   
+You linger on those painful memories, despite doing it six times over, right?   
+  
+**Assembled Deinos:**   
+It would have been easier to forget them each time. But you don't, and it's thanks to that that stories exist in Pan-Human History.   
+  
+---  
+  
+**Fujimaru 1:**   
+Stories exist—because we don't want to forget things?  
+  
+  
+---  
+
+![](https://i.imgur.com/cKazBjS.png)
+  
+**Calm Deinos:**   
+Yes. That's the biggest difference between us and Pan-Human History.   
+  
+**Calm Deinos:**   
+We have no history. No stories. That's why we can accept extinction as a daily routine.   
+  
+**Calm Deinos:**   
+Because we don't record it as a bad thing.   
+
+![](https://i.imgur.com/piWK6jB.png)
+  
+**Laughing Deinos:**   
+We really are carefree! I can say that now that I know how a Lostbelt works!   
+
+![](https://i.imgur.com/J7DlUaG.png)
+  
+**Mash:**   
+Um...everyone, could you...   
+  
+**Mash:**   
+It might be somewhat rude to ask this, but...   
+  
+**Mash:**   
+Is it not that Tepeu was particularly special in his comprehension, but all the deinos...   
+
+![](https://i.imgur.com/cKazBjS.png)
+  
+**Calm Deinos:**   
+Have the same brain structure and level of intelligence? Yes, that's the case.   
+  
+**Calm Deinos:**   
+There aren't any “geniuses” or “special individuals” among the deinos, or any individual differences either.   
+  
+**Calm Deinos:**   
+What makes Tepeu different from us isn't how he thinks, but how his perception of things is affected by his physical makeup.   
+  
+**Calm Deinos:**   
+All the deinos understood when we heard you say that Mictlan was a Lostbelt&mdash;a fantasy.   
+  
+**Calm Deinos:**   
+What's more, we were enthralled by your tales. At the same time, it felt desolate.   
+
+![](https://i.imgur.com/piWK6jB.png)
+  
+**Laughing Deinos:**   
+I thought they were great! I want to try swimming in Atlantis!   
+  
+**Laughing Deinos:**   
+And that's why we need you guys to go to the next one! For a world where there's aquatic life!   
+
+![](https://i.imgur.com/wyL1rJW.png)
+  
+**Childhood friend-like Deinos:**   
+Kʼukʼ Moʼ probably couldn't handle being a plesiosaur, since he's too hot-headed. Can't you wait for an evolution with a long neck?   
+
+![](https://i.imgur.com/yAqNzwm.png)
+
+![](https://i.imgur.com/cKazBjS.png)
+  
+**Calm Deinos:**   
+Well then, it's time to go.   
+  
+---  
+  
+**Fujimaru 1:**   
+Where are you going?  
+  
+  
+---  
+  
+**Fujimaru 2:**   
+You mean...  
+  
+  
+---  
+
+![](https://i.imgur.com/svnkzQJ.png)
+  
+**Mash:**   
+&mdash;You're not going back to Chichen Itza, but into the sea of trees&mdash;?   
+
+![](https://i.imgur.com/3HvJuce.png)
+  
+**Serenely smiling Deinos:**   
+Yes. With both the Solar Itinerancy and the Dinosaur King gone, there's no reason for us to stay in Chichen Itza.   
+  
+![](https://i.imgur.com/DUl6cal.png)
+
+**Serenely smiling Deinos:**   
+For the sake of Pan-Human History, I wish you all the best.   
+  
+**Serenely smiling Deinos:**   
+Please don't worry about us. No matter what, our race will die out here.   
+  
+---  
+  
+**Fujimaru 1:**   
+...They're all gone...  
+  
+  
+---  
+  
+**Fujimaru 2:**   
+The city was so full of life, and now it's...  
+  
+  
+---  
+
+![](https://i.imgur.com/v7HrqiT.png)
+  
+**Mash:**   
+...Yes.   
+  
+**Mash:**   
+They were worried about us instead of lamenting their own fate...   
+
+![](https://i.imgur.com/GoIToLa.png)
+  
+**Mash:**   
+They don't hate others, resent their environment, or hoard what happiness they have&mdash;   
+  
+**Mash:**   
+It's such a wonderful thing. And yet&mdash;why does it make me feel so sad?   
+  
+---  
+  
+**Fujimaru 1:**   
+...I know how you feel.  
+  
+![](https://i.imgur.com/XxBs0aK.png)  
+  
+  
+---  
+  
+**Fujimaru 2:**   
+...(Even if their extinction is inevitable...)  
+
+---  
+  
+**Fujimaru:**   
+(&mdash;There has to be something we can do about it.)  
+  
+![](https://i.imgur.com/ImXkpNK.png)

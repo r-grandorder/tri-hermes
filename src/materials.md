@@ -18,7 +18,7 @@ Below are official materials published by TYPE-MOON to supplement their various 
 	* [Rider's Entry](Materials/cmii-rider.md)  
 * [DDD Character Material](Materials/DDD.md)
 * Miscallaenous Material
-	* [Mr.Dawn's entry](Mr-Dawn.md)
+	* [Mr.Dawn's entry](Materials/Mr-Dawn.md)
   
 ## Animation Materials  
   
