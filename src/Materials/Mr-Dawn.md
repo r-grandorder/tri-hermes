@@ -40,7 +40,7 @@ He is considered to be a valuable type of exorcist, currently, no exorcist can r
 
 In the Holy Mother's prophecy, Dawn will exorcise three demons within his lifetime, according to divine revelation.
 
-He is the only one from the church to exorcise a fully-formed victim of demon possession.
+He is the only one from the church to exorcise a **fully-formed** victim of demon possession.
 
 ----
 
