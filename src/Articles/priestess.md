@@ -2340,8 +2340,10 @@ You're all very unreasonable creatures, aren't you?
     
 ![](https://i.imgur.com/ynmnfjm.jpg)    
     
-![](https://i.imgur.com/scCA0Xj.jpg)    
-    
+![](https://i.imgur.com/scCA0Xj.jpg)  
+
+Her eyes harbour galaxies. The being who always approached the tree to gazing at the blink of life that squirms on A Pale Blue Dot. I was mainly attempting to give her body surface an organic velvet feel to it (smooth, soft and cool). I photographed an aurora film that was made into strips of paper as reference for her hair. (Yamanaka Kotetsu)
+      
 ## Olympus    
     
 ### Grumpy Priestess    
