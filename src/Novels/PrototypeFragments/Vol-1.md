@@ -23,6 +23,10 @@
 ![](https://i.imgur.com/4z6N6cc.jpg)
 
 ![](https://i.imgur.com/S8hc1fJ.png)
+
+![](https://i.imgur.com/2OAntzv.png)
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Manaka ???? PoV  
   
@@ -74,7 +78,9 @@ While tearing apart the darkness of the world.
 Clad in blue and silver.  
   
 With your shining sword that is more radiant than anything, in hand.  
-―――――You will come to me, here.  
+―――――You will come to me, here. 
+
+![](https://i.imgur.com/2OAntzv.png) 
   
 ### - Fragment - Prophecy  
   
@@ -95,6 +101,8 @@ Thy praises shall morph into blasphemy and rage over the earth.
   
 In the foundation of a universal miracle.  
 There is no proof of our lost lord’s love, for it is a paradox here.  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1999 PoV 1  
   
@@ -143,6 +151,8 @@ Although there are a lot of things that I don’t remember even now, as I at tha
   
 That’s right, for example.  
 I, have always, about my big sister――――――  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1991 PoV 1  
   
@@ -225,6 +235,8 @@ Ayaka: “Not you guys……”
 Trying to think about it. Was today a day, where her Papa couldn’t see to her black magic studies? Although it didn’t change what she had to do, she had to do it even so. Her training which was her daily routine, basically didn’t exist on mornings where it is was okay to do nothing, and they had even been on her Papa’s orders at the same time. At least there’s no reason for her to get upset with him for having forgotten to tell her beforehand. Therefore, he might’ve said something about it this morning, or last night perhaps.  
   
 Now that she mentioned it――――  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1991 PoV 2  
   
@@ -314,6 +326,8 @@ Ayaka: “I see.”
   
 Ayaka nodded, meekly. Although she thought it was strange and wondering why that was, surely, it was because her big sister had said so. So naturally she thought, now I can show her that can cook perfectly.  
 After all――――  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1991 PoV 3  
   
@@ -404,6 +418,8 @@ Manaka: “It’s more amazing, than any kind of mystery that a Magus uses.”
 ## Act 2  
 
 ![](https://i.imgur.com/n2wIcHG.png)
+
+![](https://i.imgur.com/2OAntzv.png)
  
 ### - Fragment - Arthur 1991 PoV 1  
   
@@ -522,6 +538,8 @@ Manaka: “You know in essence it’s the same as cooking.”
 Before he could ask “What is?” the words were reverberating. From her cherry blossom lips. Quietly, without changing her entire tone. In an extremely natural way. For example, in the same way as a cup whose contents were spilling out as it was being turned over.  
   
 Manaka: “――――The way we do things in the Holy Grail War.”  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Hiroki's Notes 1  
   
@@ -543,6 +561,8 @@ Six of them must be eliminated.
 So prepare yourself, for this is the unavoidable basis of the conflict.  
   
 (An excerpt from an old notebook)  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Arthur 1991 PoV 2  
   
@@ -624,6 +644,8 @@ Manaka: “Because, this binds me to you.”
 ――――Because for now, just this, definitely binds me to you.  
   
 Yes, the girl whispered――――  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Hiroki's Notes 2  
   
@@ -656,6 +678,8 @@ In other words, it can compel a Heroic Spirit three times, or it can strengthen 
 Without this, the Holy Grail War cannot come into existence.  
   
 (An excerpt from an old notebook)  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Arthur 1991 PoV 3  
   
@@ -723,6 +747,8 @@ Manaka:　“Then, I can do anything, I’ll do anything for you.”
 ## Act 3  
 
 ![](https://i.imgur.com/R0c7HFu.png)
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Brynhildr PoV -  
   
@@ -777,6 +803,8 @@ A woman wearing steel armour, holds her excessively long and very large “lance
 Lancer: “Surely, you are a hero with some renown, yes?’  
   
 ――――Yes, she was smiling as she was mumbling it.  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Arthur 1991 PoV 3  
   
@@ -921,6 +949,8 @@ Lancer: “It will bother me.”
   
 Lancer immediately gulped down, the made red liquid which filled the small vial.  
 Quietly. Still with her gaze towards him.  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Arthur PoV 4  
   
@@ -1167,6 +1197,8 @@ Manaka: “May I have a reward―――?”
   
 With a voice brimming with hope, Manaka said it thusly. Quietly.  
 Still with her gaze towards him.  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Arthur PoV 5  
   
@@ -1203,6 +1235,8 @@ Is it an absolute white, that could paint over all of creation?
 ## Act 4  
 
 ![](https://i.imgur.com/lfasWhm.png)
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1991 PoV 4  
   
@@ -1369,6 +1403,8 @@ Ayaka: “Yeah”
   
 Muttering a little.  
 Ayaka, bites into the bread, again.  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Hiroki's Notes 3  
   
@@ -1398,6 +1434,8 @@ The disclosure of mysteries is a taboo for Magi.
 The Holy Grail War, must be carried out in darkness.  
   
 (An extract from an old notebook)  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1991 PoV 5  
   
@@ -1489,6 +1527,8 @@ Despite it being evening.
   
 Even though it’s already dark, dazzling and glittering……  
 My older sister, Manaka, was smiling in her apron-clad figure.  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1991 Pov 6  
 
@@ -1676,6 +1716,8 @@ She stares off to somewhere else, while I …...
 For some reason――――Feel this, indescribable, terribly cold shiver run up my spine at this treasured possession.  
 I, utterly drop the items that I was holding in my hands.  
 Some of the eggs, broke.  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Hiroki's Notes 4  
   
@@ -1709,7 +1751,9 @@ They cannot exist without prana.
 In other words, they cannot exist without a Master.  
 Although as an exception, there are――――  
   
-(An extract from an old notebook)  
+(An extract from an old notebook) 
+
+![](https://i.imgur.com/2OAntzv.png) 
   
 ### - Fragment - Serenity PoV 1
   
@@ -1821,7 +1865,9 @@ Suddenly, the girl asks. It’s as if she’s asking, whether the skinny dog wit
 The woman, opens her lips. But, instead of words, she presents an item that she silently obtained.  
   
 It was lipstick.  
-A deep red lipstick, which had already been completely used up.  
+A deep red lipstick, which had already been completely used up. 
+
+![](https://i.imgur.com/2OAntzv.png) 
   
 ### - Fragment - Hiroki's Notes 5  
   
@@ -1840,6 +1886,8 @@ However, if performed in excess then it can easily lead to the revelation of mys
 So, be careful.  
   
 (An extract from an old notebook)  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Serenity PoV 2  
   
@@ -1904,6 +1952,8 @@ Her shine, her dazzle, stays with me――――
 ## Act 5  
 
 ![](https://i.imgur.com/UlvHMm1.png)
+
+![](https://i.imgur.com/2OAntzv.png)
  
 ### - Fragment - Ayaka 1991 PoV 7  
   
@@ -2089,7 +2139,9 @@ Father.
 He’s become different due to the changes in Big Sis, he’s, become a bit scared of her.  
   
 Papa’s speeches are somewhat―――――  
-Even though I have never heard of it even once, until now…….  
+Even though I have never heard of it even once, until now……. 
+
+![](https://i.imgur.com/2OAntzv.png) 
   
 ### - Fragment - Hiroki's Notes 6  
   
@@ -2128,6 +2180,8 @@ If you feel it is necessary―――――
 Don’t hesitate to use a decoy.  
   
 (An extract from an old notebook)  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment -  Arthur 1991 PoV 7  
   
@@ -2226,6 +2280,8 @@ Saber: “―――――How interesting.”
   
 Prepping his invisible blade again in both hands.  
 Saber mumbles a little.  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Elsa's PoV  
   
@@ -2312,6 +2368,8 @@ Manaka: “So, what will you do about it?”
 I can see something――――  
 
 ![](https://i.imgur.com/aqV7dAe.jpg)
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1991 PoV 8  
   
@@ -2441,6 +2499,8 @@ I didn’t want to hear it.
 Ignoring the me who is right in front of him, the figure of Papa who is muttering and grumbling something, is very……...  
   
 ――――was, very weird after all.  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1991 PoV 9  
   
@@ -2549,6 +2609,8 @@ Papa, my Papa who had become a bit scared, but―――――
 In truth nothing really did change.  
 Surely, it’ll be soon.  
 Once the important ritual ends, then he’ll definitely make sure to return to normal, right?  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Prelude  
   
@@ -2591,6 +2653,8 @@ As many tragedies revolve around it.
 ## Act 6  
 
 ![](https://i.imgur.com/cn4ycrj.png)
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1991 Memory  
   
@@ -2816,6 +2880,8 @@ At least, on this day, morning, and time……
 I hadn’t realized it.  
 
 ![](https://i.imgur.com/4rWS5qw.jpg)
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Hiroki's Notes 7  
   
@@ -2846,6 +2912,8 @@ Without our great ambition being fulfilled, we will wait for our next opportunit
 But―――  
   
 (An extract from an old notebook)  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1999 Recall of 1991 Part 1  
   
@@ -2949,6 +3017,8 @@ She’s been pierced by someone’s sword from behind, Manaka Big Sis.
 In other words, what’s covering my face is, aah aah―――  
   
 Big Sis’―――  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1999 PoV 2  
   
@@ -3169,6 +3239,8 @@ Ayaka: 　　“Saber?”
 Saber: 　　“Ayaka. May I also ask you a question?”  
 Ayaka: 　 “Huh, um, sure.”  
 Saber: 　　 “Your older sister. About Manaka Sajyou, how did you feel about her?”  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1999 Recall of 1991 Part 2  
   
@@ -3218,6 +3290,8 @@ Ayaka: “I loved her.”
 I say it, once more.  
 I try to smile.  
 While praying, that I wasn’t making an awkward face.  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Hiroki's Notes 8  
   
@@ -3236,6 +3310,8 @@ But. If by any chance.
 If it comes to be, then are the words that the Overseer let slip to me the other day the truth?  
   
 (An extract from an old notebook)  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### = Fragment - Ayaka 1999 PoV 3  
   
@@ -3274,6 +3350,8 @@ Towards the Second Holy Grail War being held in this Tokyo again.
 ## Special Act: Servants  
 
 ![](https://i.imgur.com/LC0w5iy.png)
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ayaka 1999 PoV 4  
   
@@ -3426,6 +3504,8 @@ The usual bright look on his face disappears.
 Isemi/Rider: “Do you perhaps hate humans?”  
   
 A feeling of nothingness, filled with a coldness similar to a mask, just like a―――  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - 1999  
   
@@ -3443,7 +3523,7 @@ Under seven Masters, now, seven Servants will gather.
   
 ―――The Second Historical Holy Grail War begins.  
   
----  
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Hiroki's Notes 9  
   
@@ -3470,6 +3550,8 @@ Even if they do possess an appearance that resembles a human, they are not human
 But, they are also―――  
   
 (An extract from an old notebook)  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Proto Cu PoV  
   
@@ -3559,6 +3641,8 @@ While exhaling a sigh, Lancer shrugs his shoulders.
   
 Although he was told by his master, “I don’t mind if you kill him.” He should probably leave it, right here.  
 At the very least, he’s not an opponent to quarrel with in his current state with his Noble Phantasm still sealed.  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - 1991  
   
@@ -3575,6 +3659,8 @@ Only one person must be the victor.
 Under seven Masters, now, seven Servants will gather.  
   
 ―――The First Historical Holy Grail War has begun.  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Arthur 1991 PoV 8  
   
@@ -3762,6 +3848,8 @@ Raising a roar as if he is telling him this, the giant beast merely controls his
 And then―――  
   
 [1] Abū al-Hawl: Father of Terror  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Ozymandias PoV  
   
@@ -3773,6 +3861,8 @@ In a dark room with a giant mysterious ominous orb in it.
 While being illuminated by the pale lights of a few veins which resembles enormous magic circuits, the king smiles.  
   
 Rider: “―――Fine then. In that case show me your struggle to your hearts content, O’ lightless ones.”  
+
+![](https://i.imgur.com/2OAntzv.png)
   
 ### - Fragment - Arthur 1991 PoV 9  
   
