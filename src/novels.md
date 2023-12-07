@@ -11,6 +11,7 @@
   
 * [Fate/Zero](Novels/zero.md)  
 * [Fate/Apocrypha](Novels/apocrypha.md)  
+* [Fate/Prototype Fragments](Novels/prototype-fragments.md)
 * [Fate/Strange Fake](Novels/strangefake.md)  
 * [Fate/Requiem](Novels/requiem.md)  
   
