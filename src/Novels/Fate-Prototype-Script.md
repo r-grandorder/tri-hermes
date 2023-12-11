@@ -1,22 +1,14 @@
 # Fate/Prototype  
   
 ::: tip Credits  
-  
 Translations by food, Lianry, Kotonoha and others, collected from [Beast's Lair](https://forums.nrvnqsr.com/)  
-  
 :::  
   
 ## Script  
   
 ---  
   
----  
-  
 ### Prologue  
-  
----  
-  
----  
   
 The dead cannot return.  
   
@@ -58,13 +50,10 @@ The miracle that nourishes this land shall be the foundation.
 Henceforth I invoke the law of reversed logic,  
   
 and show all the lost love of our Lord.  
-  
-  
-### S00/Heaven's Fall (Part 1)  
-  
+ 
 ---  
   
----  
+### S00/Heaven's Fall (Part 1)   
   
 The scene took place downtown, inside the subway tunnel.  
   
@@ -142,13 +131,10 @@ The glass bottle danced in the air in between the platforms, above the tracks.
 Saber ran quickly to grab the bottle, and Archer wore a fierce smile, like he was waiting for an opportunity to jump and behead Saber.  
   
 The two figures crossed. The battle had begun.  
-  
+
+---  
   
 ### S01/The night before Fate. Early Morning: Ayaka  
-  
----  
-  
----  
   
 __AYAKA__ ___(Monologue, shortened to___ __M__ ___henceforth):___  
   
@@ -182,12 +168,9 @@ Taking in a breath, Ayaka lifted the knife. The fluttering of birds’ wings cou
   
 The camera darkens. Fresh blood.  
   
+---
   
 ### S02/Before the grave  
-  
----  
-  
----  
   
 A school scene. Ayaka, who was going to school alone, looked depressed.  
   
@@ -306,12 +289,10 @@ The ends of the priest’s mouth curved slightly upward in the lifeless graveyar
 __SANCRAID:__  
   
 ㅤ…Because the toughest opponent should be eliminated as soon as possible, right?  
-  
+ 
+---
+ 
 ### S03/Lancer's Attack  
-  
----  
-  
----  
   
 After the sunset, night. Ayaka fled home as fast as she could.  
   
@@ -447,12 +428,10 @@ __LANCER:__
 Ayaka desperately ran out of the house, toward the garden.  
   
 Lancer pursued with airy steps, together with the two remaining hounds.  
+
+---
   
-### S04/The Summoning of Saber  
-  
----  
-  
----  
+### S04/The Summoning of Saber   
   
 Ayaka reached the garden at the inner part of the mansion.  
   
@@ -555,13 +534,10 @@ Lancer retreated after his spear was severed by Saber’s invisible sword.
 Saber turned, reaching out his hand towards Ayaka, who watched the battle in a daze.  
   
 And thus, the Contract was forged in the garden, under the moon.  
-  
+
+---  
   
 ### S05/Misaya (I)  
-  
----  
-  
----  
   
 Following S04.  
   
@@ -598,12 +574,10 @@ Misaya threw her glass at Lancer. After grazing Lancer’s face, the glass abrup
 __MISAYA:__  
   
 ㅤReally, when will my Servant become even less than a guard dog! You’ve discredited the name of wild dog!  
+
+---
   
 ### S06/First Battle with Caster  
-  
----  
-  
----  
   
 A deleted scene. This scene was used as a reference for “what would have happened if the story continued like this”.  
   
@@ -620,13 +594,10 @@ Saber was forced to protect Ayaka while fighting Caster. Eventually, Saber was l
 _(* If we were to animate this scene, Misaya might be used as a substitute for Caster)_  
   
 The conversion of the school into an alien realm was secretly stopped by Rider, who had some connections with Caster. Ayaka merely waited through the whole process.  
-  
+
+---  
   
 ### S07/Sajou residence  
-  
----  
-  
----  
   
 Even though she already summoned Saber, Ayaka still resisted by saying “I don’t want to fight”.  
   
@@ -727,12 +698,10 @@ __SABER:__
 Ayaka blushed angrily.  
   
 When Ayaka wears glasses, she uses a first-rate manner of speaking, but after removing the glasses she has the personality of Rin from Fate/Stay Night.  
+
+---
   
 ### S08/Rider  
-  
----  
-  
----  
   
 Saber and Ayaka received intelligence from Sancraid that there were some suspicious activities in the industrial zone, and thus they went to investigate.  
   
@@ -811,13 +780,10 @@ __AYAKA:__
 ㅤAt that time, if I chose to fight instead of running away, those people would…  
   
 A switch flipped within her, and Ayaka had begun to awaken.  
-  
-  
-### S09/Misaya(II)  
-  
+
 ---  
   
----  
+### S09/Misaya(II)   
   
 The courtyard of the Reiroukan household.  
   
@@ -892,12 +858,10 @@ __MISAYA:__
 ㅤPerhaps it's because they already learned to fear women?  
   
 She smiled coldly, but with great delight.  
+
+---
   
-### S10/About the Holy Grail War  
-  
----  
-  
----  
+### S10/About the Holy Grail War   
   
 In the chapel of the church, someone looking like a priest was talking to a magus-looking person.  
   
@@ -948,12 +912,10 @@ __PRIEST:__
 ㅤAs you have said, heroes are born from good will.  
   
 ㅤ…Unfortunately, what many people wish for is not good will, but an ill will called desire. The Holy Grail… it is mad since the very beginning.  
+
+---
   
 ### S11/Nightmare: Ayaka's Memories  
-  
----  
-  
----  
   
 Ayaka’s memories from about eight years ago. The location was the Greater Grail (giant underground cavern).  
   
@@ -1016,13 +978,10 @@ Ayaka lost her consciousness again.
 Above was the finale of the last Holy Grail War.  
   
 This was the story of Manaka Sajou, who was mere one step away from activating the Greater Grail, but was slain because of her Father’s change of heart.  
-  
+
+---  
   
 ### S12/Sancraid  
-  
----  
-  
----  
   
 The scene was the Reiroukan residence, in the library.  
   
@@ -1086,12 +1045,10 @@ __SANCRAID__ __(M):__
 ㅤThis is to be expected.  
   
 ㅤBecause… animals don’t need a personality, right?  
+
+---
   
-### S13/Ayaka and Misaya  
-  
----  
-  
----  
+### S13/Ayaka and Misaya   
   
 Ayaka and Misaya, Saber and Lancer, the second confrontation.  
   
@@ -1176,12 +1133,10 @@ __LANCER:__
 ㅤHow persistent. But you know, that wasn’t referring to you. That was referring to that guy’s former Master.  
   
 Here, some foreshadowing was shown. Saber saying “you came across a cruel Master indeed” and Lancer’s reply of “to be told that by you is the end” wasn’t directed at Ayaka, but Saber’s former Master.  
+
+---
   
 ### S14/The King of Heroes, Gilgamesh  
-  
----  
-  
----  
   
 The location was a classroom in the setting sun.  
   
@@ -1246,13 +1201,10 @@ Archer drew forth twin golden swords from his treasury.
 __ARCHER:__  
   
 ㅤCome, I will let you see the difference between us. My final weapon, Enki, will grind you into dust.  
-  
-  
-### S15/Rider and Master  
-  
+
 ---  
   
----  
+### S15/Rider and Master   
   
 Rider's memory. This occurred when he was summoned into this World.  
   
@@ -1343,12 +1295,10 @@ The iron mask was covered in tears of blood.
 The merry prince who knew nothing but happiness seemed to swore this while crying tears of blood.  
   
 Yet he knew, his deeds, were precisely the darkest sins that would stain the dream of the youth.  
+
+---
   
 ### S16/Underground Church, Berserker  
-  
----  
-  
----  
   
 Ayaka and Sancraid, Scene 2. This was located at the end of the middle portion of the story.  
   
@@ -1497,12 +1447,10 @@ __SANCRAID:__
 ㅤYou want to ask, ‘Why? Isn’t there no one left?’ I am a monk. I was never a magus!  
   
 Then, the first-ranked one is…?  
+
+---
   
-### S17/Heaven's Fall (Part 2)  
-  
----  
-  
----  
+### S17/Heaven's Fall (Part 2)   
   
 The scene shifted back to Scene 0, the final duel between Saber and Archer.  
   
@@ -1596,11 +1544,9 @@ Facing defeat, Archer sighed with despair.
   
 This one strike of the holy sword not only cleaved the Star of Destruction, but also the arrogant king.  
   
+---
+
 ### S18/Beast  
-  
----  
-  
----  
   
 Camera shifts in atmosphere suddenly, to a scene that looks like it's underground.  
   
@@ -1740,12 +1686,9 @@ __MANAKA:__
   
 Camera blacks out.  
   
+---
   
 ### Epilogue  
-  
----  
-  
----  
   
 The Lord has spoken. "Abundance shall not pile up in the land".  
   
@@ -1769,17 +1712,9 @@ The last miracle, into the hands of the most excellent one.
   
 ㅤ  
   
-## Postscript  
+## Postscript   
   
----  
-  
----  
-  
-### Takeuchi Takashi  
-  
----  
-  
----  
+### Takeuchi Takashi   
   
 This work, Fate/Prototype, was brought up during the production of Fate/Stay Night, an incomplete romance novel that Nasu Kinoko wrote during his high school days. It is the original story of Fate. The setup of the youth, Saber, and the girl magus who uses black magic, together as Master and Servant; the enemy Servant who lives with the protagonist’s friend; the double-sealed holy sword… these are charms unique to the original. Because our reluctance to leave behind the key parts of what was discarded from Fate/Stay Night deepened every year, we thought about how to somehow give it shape…  
   
@@ -1793,11 +1728,7 @@ An episode containing both core fragments and chaotic sections. I would be honor
   
 ---  
   
-### Nasu Kinoko  
-  
----  
-  
----  
+### Nasu Kinoko   
   
 The unbelievable Proto Fate.  
   

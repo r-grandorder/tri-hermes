@@ -1,10 +1,14 @@
 # Fate/Prototype: Fragments of Sky Silver Vol. 1 - Little Lady  
 
+::: tip Credit
+[Translated by PhoenixRising on BL.](https://forums.nrvnqsr.com/showthread.php/7349-Fate-Prototype-Blue-Silver-Fragments-Complete-Version?p=2602242&viewfull=1#post2602242)
+:::
+
 ![](https://i.imgur.com/sPHStfw.jpg)
 
 ## Materials
 
-![](https://i.imgur.com/8JmQmN4.jpg)
+![](https://i.imgur.com/8JmQmN4.jpg) 
 
 ![](https://i.imgur.com/SPCxwBA.jpg)
 
@@ -24,11 +28,9 @@
 
 ![](https://i.imgur.com/S8hc1fJ.png)
 
-![](https://i.imgur.com/2OAntzv.png)
-
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Manaka ???? PoV  
+### - Fragment - Manaka ◼◼◼◼
   
 The omnipotent girl has fallen in love―――――  
   
@@ -80,7 +82,7 @@ Clad in blue and silver.
 With your shining sword that is more radiant than anything, in hand.  
 ―――――You will come to me, here. 
 
-![](https://i.imgur.com/2OAntzv.png) 
+--- 
   
 ### - Fragment - Prophecy  
   
@@ -102,9 +104,9 @@ Thy praises shall morph into blasphemy and rage over the earth.
 In the foundation of a universal miracle.  
 There is no proof of our lost lord’s love, for it is a paradox here.  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Ayaka 1999 PoV 1  
+### - Fragment - Ayaka 1999 [1]
   
 The Holy Grail War.  
 It is, a bloody conflict, where we magi will wager our lives for the sake of a wish.  
@@ -152,9 +154,9 @@ Although there are a lot of things that I don’t remember even now, as I at tha
 That’s right, for example.  
 I, have always, about my big sister――――――  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Ayaka 1991 PoV 1  
+### - Fragment - Ayaka 1991 [1]
   
 The light of the dazzling sun, was flowing in from a gap in the closed curtains. The voices of the songbirds, were telling the time as they perched on the branches of every tree immediately beyond the window. Signs of the morning. Disappearing somewhere like a lie the coldness and darkness of the night, the day which should’ve been “tomorrow” just before she had slept, had come in the form of “today.”  
   
@@ -236,9 +238,9 @@ Trying to think about it. Was today a day, where her Papa couldn’t see to her 
   
 Now that she mentioned it――――  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Ayaka 1991 PoV 2  
+### - Fragment - Ayaka 1991 [2]
   
 Ayaka: “Something…….”  
   
@@ -327,9 +329,9 @@ Ayaka: “I see.”
 Ayaka nodded, meekly. Although she thought it was strange and wondering why that was, surely, it was because her big sister had said so. So naturally she thought, now I can show her that can cook perfectly.  
 After all――――  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Ayaka 1991 PoV 3  
+### - Fragment - Ayaka 1991 [3]
   
 After all, Big Sis is such an amazing person.  
 She’s pretty and smart, and oh yeah cute, a person who can do anything.  
@@ -419,9 +421,9 @@ Manaka: “It’s more amazing, than any kind of mystery that a Magus uses.”
 
 ![](https://i.imgur.com/n2wIcHG.png)
 
-![](https://i.imgur.com/2OAntzv.png)
+---
  
-### - Fragment - Arthur 1991 PoV 1  
+### - Fragment - Arthur 1991 [1]
   
 The person reflected in the girl’s eyes is――  
   
@@ -539,9 +541,9 @@ Before he could ask “What is?” the words were reverberating. From her cherry
   
 Manaka: “――――The way we do things in the Holy Grail War.”  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Hiroki's Notes 1  
+### - Fragment - ◼◼◼◼◼◼ ◼◼◼◼◼◼'s Notes [1]
   
 The Holy Grail War is, in a way a conflict.  
   
@@ -562,9 +564,9 @@ So prepare yourself, for this is the unavoidable basis of the conflict.
   
 (An excerpt from an old notebook)  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Arthur 1991 PoV 2  
+### - Fragment - Arthur 1991 [2]
   
 Manaka: “I understood that cooking, as well as the Holy Grail War, is the same as anything else.”  
   
@@ -645,9 +647,9 @@ Manaka: “Because, this binds me to you.”
   
 Yes, the girl whispered――――  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Hiroki's Notes 2  
+### - Fragment - ◼◼◼◼◼◼ ◼◼◼◼◼◼'s Notes [2]
   
 Master Degrees.  
 An angelic hierarchy.  
@@ -679,9 +681,9 @@ Without this, the Holy Grail War cannot come into existence.
   
 (An excerpt from an old notebook)  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Arthur 1991 PoV 3  
+### - Fragment - Arthur 1991 [3]
   
 Saber:　"Efficient,” you said.  
   
@@ -748,9 +750,9 @@ Manaka:　“Then, I can do anything, I’ll do anything for you.”
 
 ![](https://i.imgur.com/R0c7HFu.png)
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Brynhildr PoV -  
+### - Fragment - Brynhildr [1]
   
 Even a Heroic Spirit in a girl’s love story―――――  
   
@@ -804,9 +806,9 @@ Lancer: “Surely, you are a hero with some renown, yes?’
   
 ――――Yes, she was smiling as she was mumbling it.  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Arthur 1991 PoV 3  
+### - Fragment - Arthur 1991 [4]
   
 ‘I see, so it’s a lance huh?’  
 ‘Let’s see how great this lance is.’  
@@ -950,9 +952,9 @@ Lancer: “It will bother me.”
 Lancer immediately gulped down, the made red liquid which filled the small vial.  
 Quietly. Still with her gaze towards him.  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Arthur PoV 4  
+### - Fragment - Arthur 1991 [5]
   
 One of the multi-residential apartment buildings that is lined up  
 roughly close to the Sunshine 60 building, Toshima prefecture, Ikebukuro.  
@@ -1198,9 +1200,9 @@ Manaka: “May I have a reward―――?”
 With a voice brimming with hope, Manaka said it thusly. Quietly.  
 Still with her gaze towards him.  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Arthur PoV 5  
+### - Fragment - Arthur 1991 [6]
   
 Manaka: “Tha, tha, that’s so mean. You’re not playing fair. Doing such a…….”  
   
@@ -1236,9 +1238,9 @@ Is it an absolute white, that could paint over all of creation?
 
 ![](https://i.imgur.com/lfasWhm.png)
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Ayaka 1991 PoV 4  
+### - Fragment - Ayaka 1991 [4]
   
 The strategy of life never appears out of darkness――――  
   
@@ -1404,9 +1406,9 @@ Ayaka: “Yeah”
 Muttering a little.  
 Ayaka, bites into the bread, again.  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Hiroki's Notes 3  
+### - Fragment - ◼◼◼◼◼◼ ◼◼◼◼◼◼'s Notes [3]
   
 A beast which has been imagined.  
 A being only spoken of in old legends。  
@@ -1435,9 +1437,9 @@ The Holy Grail War, must be carried out in darkness.
   
 (An extract from an old notebook)  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Ayaka 1991 PoV 5  
+### - Fragment - Ayaka 1991 [5]
   
 Later, after school――――  
   
@@ -1528,9 +1530,9 @@ Despite it being evening.
 Even though it’s already dark, dazzling and glittering……  
 My older sister, Manaka, was smiling in her apron-clad figure.  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Ayaka 1991 Pov 6  
+### - Fragment - Ayaka 1991 [6]
 
 ![](https://i.imgur.com/RsZatfe.jpg)
   
@@ -1717,9 +1719,9 @@ For some reason――――Feel this, indescribable, terribly cold shiver run up
 I, utterly drop the items that I was holding in my hands.  
 Some of the eggs, broke.  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Hiroki's Notes 4  
+### - Fragment - ◼◼◼◼◼◼ ◼◼◼◼◼◼'s Notes [4]
   
 Servants.  
 Heroic Spirits who have manifested.  
@@ -1753,9 +1755,9 @@ Although as an exception, there are――――
   
 (An extract from an old notebook) 
 
-![](https://i.imgur.com/2OAntzv.png) 
+--- 
   
-### - Fragment - Serenity PoV 1
+### - Fragment - Serenity [1]
   
 11 P.M.  
 A high-rise street-cornered building situated in West Shinjuku, Shinjuku Prefecture in the Tokyo Metropolitan Area.  
@@ -1867,9 +1869,9 @@ The woman, opens her lips. But, instead of words, she presents an item that she 
 It was lipstick.  
 A deep red lipstick, which had already been completely used up. 
 
-![](https://i.imgur.com/2OAntzv.png) 
+--- 
   
-### - Fragment - Hiroki's Notes 5  
+### - Fragment - ◼◼◼◼◼◼ ◼◼◼◼◼◼'s Notes [5]
   
 They cannot exist without prana.  
 In other words, they cannot exist without a Master.  
@@ -1887,9 +1889,9 @@ So, be careful.
   
 (An extract from an old notebook)  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Serenity PoV 2  
+### - Fragment - Serenity [2]
   
 Manaka: “You seem fine to me. heehee”  
   
@@ -1953,9 +1955,9 @@ Her shine, her dazzle, stays with me――――
 
 ![](https://i.imgur.com/UlvHMm1.png)
 
-![](https://i.imgur.com/2OAntzv.png)
+---
  
-### - Fragment - Ayaka 1991 PoV 7  
+### - Fragment - Ayaka 1991 [7]
   
 A magus who has been loved by mysteries goes to play with their family――――――  
   
@@ -2141,9 +2143,9 @@ He’s become different due to the changes in Big Sis, he’s, become a bit scar
 Papa’s speeches are somewhat―――――  
 Even though I have never heard of it even once, until now……. 
 
-![](https://i.imgur.com/2OAntzv.png) 
+--- 
   
-### - Fragment - Hiroki's Notes 6  
+### - Fragment - ◼◼◼◼◼◼ ◼◼◼◼◼◼'s Notes [6]
   
 The Holy Grail War.  
 This is, a mutual slaughter.  
@@ -2181,9 +2183,9 @@ Don’t hesitate to use a decoy.
   
 (An extract from an old notebook)  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment -  Arthur 1991 PoV 7  
+### - Fragment -  Arthur 1991 [7]
   
 In the mountains of Okutama, Western Tokyo.  
   
@@ -2281,9 +2283,9 @@ Saber: “―――――How interesting.”
 Prepping his invisible blade again in both hands.  
 Saber mumbles a little.  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Elsa's PoV  
+### - Fragment - Elza [1]
   
 I can see a lone girl.  
 I can say that she is adorable, and, possibly beautiful too.  
@@ -2369,9 +2371,9 @@ I can see something――――
 
 ![](https://i.imgur.com/aqV7dAe.jpg)
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Ayaka 1991 PoV 8  
+### - Fragment - Ayaka 1991 [8]
   
 Hiroki Sajyou: “Ayaka. Are you in here?”  
   
@@ -2500,9 +2502,9 @@ Ignoring the me who is right in front of him, the figure of Papa who is mutterin
   
 ――――was, very weird after all.  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Ayaka 1991 PoV 9  
+### - Fragment - Ayaka 1991 [9]
   
 About my Papa, I love him.  
 I love him.  
@@ -2610,31 +2612,40 @@ In truth nothing really did change.
 Surely, it’ll be soon.  
 Once the important ritual ends, then he’ll definitely make sure to return to normal, right?  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
 ### - Fragment - Prelude  
   
-――――――――――――――――――――――――――――――――――――――――  
+---
+ 
 Archer: “A fired arrow won’t return ever again. Though if you nock the arrow onto a bow, draw it to its limit and fire it, it’ll be able to backtrack somewhat.”  
   
 Archer says.  
 To his Master who is repeatedly sobbing even now.  
-――――――――――――――――――――――――――――――――――――――――  
+  
+---
+ 
 Berserker: “Arrrurrruuggggghhhhhh―――!!”  
   
 Berserker howls to the moon floating in the sky.  
 In the middle of a sturdy magical garden that’s like a fortress.  
-――――――――――――――――――――――――――――――――――――――――  
+  
+---
+ 
 Lancer: “Thou art a kind person. An honest person. You who doth adorn yourself in silver armour. Even as I pierce your life with my lance, you probably will not change.”  
   
 Lancer mumbles.  
 While scorching her body in the flames that blaze from within her.  
-――――――――――――――――――――――――――――――――――――――――  
+  
+---
+ 
 Assassin: “My Master. Everything, everything, I do is for your sake…...”  
   
 Assassin whispers.  
 While repeating her deadly dance again, tonight.  
-――――――――――――――――――――――――――――――――――――――――  
+  
+---
+ 
 Rider: “Ha-ha! Flee, run, fly away! Struggle to the best of your ability. Scream. Shout! Either way, the fate of all three of you mongrels, is to burn and vanish by my light!”  
   
 The king sonorously cries.  
@@ -2654,7 +2665,7 @@ As many tragedies revolve around it.
 
 ![](https://i.imgur.com/cn4ycrj.png)
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
 ### - Fragment - Ayaka 1991 Memory  
   
@@ -2881,9 +2892,9 @@ I hadn’t realized it.
 
 ![](https://i.imgur.com/4rWS5qw.jpg)
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Hiroki's Notes 7  
+### - Fragment - ◼◼◼◼◼◼ ◼◼◼◼◼◼'s Notes [7]
   
 The Holy Grail War.  
 It’s about the end of it.  
@@ -2913,7 +2924,7 @@ But―――
   
 (An extract from an old notebook)  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
 ### - Fragment - Ayaka 1999 Recall of 1991 Part 1  
   
@@ -3018,9 +3029,9 @@ In other words, what’s covering my face is, aah aah―――
   
 Big Sis’―――  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Ayaka 1999 PoV 2  
+### - Fragment - Ayaka 1999 [2]
   
 The light of the dazzling sun, shines in through the gap of the closed curtains.  
 The voices of songbirds tell the time, while perching on the branches of the trees right beyond the window.  
@@ -3240,7 +3251,7 @@ Saber: 　　“Ayaka. May I also ask you a question?”
 Ayaka: 　 “Huh, um, sure.”  
 Saber: 　　 “Your older sister. About Manaka Sajyou, how did you feel about her?”  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
 ### - Fragment - Ayaka 1999 Recall of 1991 Part 2  
   
@@ -3291,9 +3302,9 @@ I say it, once more.
 I try to smile.  
 While praying, that I wasn’t making an awkward face.  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Hiroki's Notes 8  
+### - Fragment - ◼◼◼◼◼◼ ◼◼◼◼◼◼'s Notes [8]
   
 Needless concerns. Well, I hope that’s all they are.  
   
@@ -3311,9 +3322,9 @@ If it comes to be, then are the words that the Overseer let slip to me the other
   
 (An extract from an old notebook)  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### = Fragment - Ayaka 1999 PoV 3  
+### = Fragment - Ayaka 1999 [3]
   
 And then―――  
   
@@ -3351,9 +3362,9 @@ Towards the Second Holy Grail War being held in this Tokyo again.
 
 ![](https://i.imgur.com/LC0w5iy.png)
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Ayaka 1999 PoV 4  
+### - Fragment - Ayaka 1999 [4]
   
 The girl is once again being toyed with by the Holy Grail War―――――  
   
@@ -3505,7 +3516,7 @@ Isemi/Rider: “Do you perhaps hate humans?”
   
 A feeling of nothingness, filled with a coldness similar to a mask, just like a―――  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
 ### - Fragment - 1999  
   
@@ -3523,9 +3534,9 @@ Under seven Masters, now, seven Servants will gather.
   
 ―――The Second Historical Holy Grail War begins.  
   
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Hiroki's Notes 9  
+### - Fragment - ◼◼◼◼◼◼ ◼◼◼◼◼◼'s Notes [9]
   
 Servants.  
 Heroic Spirits who have manifested.  
@@ -3551,9 +3562,9 @@ But, they are also―――
   
 (An extract from an old notebook)  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Proto Cu PoV  
+### - Fragment - Cú Chulainn [1]
   
 Same day, Late at night.  
 Shinjuku Prefecture, Tokyo, Shinjuku Central Park.  
@@ -3642,7 +3653,7 @@ While exhaling a sigh, Lancer shrugs his shoulders.
 Although he was told by his master, “I don’t mind if you kill him.” He should probably leave it, right here.  
 At the very least, he’s not an opponent to quarrel with in his current state with his Noble Phantasm still sealed.  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
 ### - Fragment - 1991  
   
@@ -3660,9 +3671,9 @@ Under seven Masters, now, seven Servants will gather.
   
 ―――The First Historical Holy Grail War has begun.  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Arthur 1991 PoV 8  
+### - Fragment - Arthur 1991 [8]
   
 On a certain day in February 1991, early dawn.  
 Chuuouku District, Harumi Pier.  
@@ -3849,9 +3860,9 @@ And then―――
   
 [1] Abū al-Hawl: Father of Terror  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Ozymandias PoV  
+### - Fragment - Ozymandias [1]
   
 Rider: “Ho, ho. How Interesting! Far from 3, do they intend to prove that they can take on our “beast” with just one Servant? Although it’s a mere fragment of my power, my glory, to take on my lion-bodied beast of the hot sands which can massacre even entire armies……”  
   
@@ -3862,9 +3873,9 @@ While being illuminated by the pale lights of a few veins which resembles enormo
   
 Rider: “―――Fine then. In that case show me your struggle to your hearts content, O’ lightless ones.”  
 
-![](https://i.imgur.com/2OAntzv.png)
+---
   
-### - Fragment - Arthur 1991 PoV 9  
+### - Fragment - Arthur 1991 [9]
   
 Harumi, the Tokyo International Trade Fairgrounds.  
 Its premises on Main Street.  
