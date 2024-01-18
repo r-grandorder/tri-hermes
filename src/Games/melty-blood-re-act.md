@@ -862,15 +862,15 @@ __Kohaku__: There. That's a wrap~
 
 ## Nrvnqsr Chaos 
 
----
+----
 
 __Nrvnqsr Chaos__: The banquet still continues? ...... Very well. Even if I am a fake, the fact that I exist here is real. It is only fitting for the method named Chaos.
 
----
+----
 
 ### Ciel Encounter
 
----
+----
 
 __Ciel__: That is as far as you go. Stop, vampire.
 
@@ -880,17 +880,17 @@ __Ciel__: ---No one said anything about business. My purpose is to exterminate h
 
 __Nrvnqsr Chaos__: Heh, like a moth to a flame. Unfortunately for you, I have no qualms about making you a martyr with these teeth. 
 
----
+----
 
 **Nrvnqsr Chaos vs Ciel**
 
 **Nrvnqsr Chaos wins**
 
----
+----
 
 ### Arcueid Encounter
 
----
+----
 
 __Arcueid__: It's been a while. How was nothingness, Nrvnqsr?
 
@@ -900,17 +900,17 @@ __Arcueid__: Oh. That's too bad. I only came to hear your thoughts on the matter
 
 __Nrvnqsr Chaos__: Wasted effort? Do not assume I think in the same mistaken manner as you. However, we are not strangers. If you want a reward, then fight me.
 
----
+----
 
 **Nrvnqsr Chaos vs Arcueid**
 
 **Nrvnqsr Chaos wins**
 
----
+----
 
 ### White Len Encounter
 
----
+----
 
 __White Len__: Nice to meet you, Vampire Chaos. It really is an honor, sir.
 
@@ -920,35 +920,43 @@ __White Len__: Doesn't the same go for you? I don't remember summoning you. Ther
 
 __Nrvnqsr Chaos__: Of course. Here, you can die quickly, miserably, and alone.
 
----
+----
 
 **Nrvnqsr Chaos vs White Len**
 
 **Nrvnqsr Chaos wins**
 
----
+----
 
 ### Aoko Encounter
 
----
+----
 
 __Aoko__: Amazing. There really are a lot of vampires in this town. Since the highest of the royalty is here, it's only natural, though.
 
-__Nrvnqsr Chaos__: The Sorceress of the 5th Sorcery---I see. Your home is this island country after all.
+__Nrvnqsr Chaos__: The Sorceress of the 4th Sorcery----I see. Your home is this island country after all.
+
+::: tip
+The jp here says the 4th Sorceress/Magician likely referring to this entry from Tsukihime Dokuhon PlusPeriod - TSUKIHIME Dictionary: Magic [Term], p.189:
+
+"In the past, when civilization was young, most magi were also magicians, but currently only five remain.
+…Well, that's what they say, but there are actually only four still alive."
+
+:::
 
 __Aoko__: Yes, my place is close to here. Well, that doesn't really matter, but it is a little troublesome to have a Lord of the Dead Apostles running around. I have to take responsibility, so I'll make sure you disappear completely.
 
-__Nrvnqsr Chaos__: Hah--- Being mocked at random like this is amusing. However, it is nothing compared to the thrill of killing a Sorceress or hunting True Ancestors.....!
+__Nrvnqsr Chaos__: Hah---- Being mocked at random like this is amusing. However, it is nothing compared to the thrill of killing a Sorceress or hunting True Ancestors.....!
 
----
+----
 
 **Nrvnqsr Chaos vs Aoko**
 
 **Nrvnqsr Chaos wins**
 
----
+----
 
-"The frenzy is over. As an illusion, shall I disappear-----?
+"The frenzy is over. As an illusion, shall I disappear------?
 
 No, I am chaos.
 
@@ -958,9 +966,11 @@ it will become the true chaos of Tatari.
 
 Until the end of the world, until the system falls to The Sixth.
 
-I will continue living in this system---"
+I will continue living in this system----"
 
 ![End](https://i.imgur.com/bCkLv2T.png)
+
+----
 
 # END
 
