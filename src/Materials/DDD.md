@@ -30,7 +30,7 @@ Once you've used it, the key has served its purpose, so just leave it in your po
 
 DDD's main protagonist, but he isn't the main protagonist of each chapter.
 
-He aims to have a relaxed, carefree demeanor but also lives through each day making each day using abusive language.
+He aims to have a relaxed, carefree demeanor, but he also lives day by day using abusive language.
 
 Although Arika shares the same basic design as the main character of Fate/Hollow Ataraxia, "Avenger", they are exact opposites.
 
