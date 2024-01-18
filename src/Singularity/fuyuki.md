@@ -1,3 +1,7 @@
+---
+<meta content="https://static.atlasacademy.io/NA/Banner/questboard_cap100.png" property="og:image" />
+---
+
 # Singularity F: Flame Contaminated City - Fuyuki  
   
 ## Prologue  
