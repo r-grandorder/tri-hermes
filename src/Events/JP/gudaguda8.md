@@ -316,9 +316,7 @@ Meanwhile, Shinpachi and Hattori are not able to as much as scratch Kenshin, who
 
 The thing on her back begins to glow, and she proclaims she will reduce everything to ashes by means of the sacred flame from the twin towers of Bishamonten. You know she said it was just a storehouse for sacred treasures, but that thing is totally a cannon. You have to retreat immediately. However, there's no time. Kenshin fires off her attack.
 
-<video width="1344" height="576" controls>
-      <source src=”https://static.atlasacademy.io/JP/Movie/talk_mov210.mp4” type=video/mp4>
-</video>
+[Cutscene](https://static.atlasacademy.io/JP/Movie/talk_mov210.mp4)
 
 Somehow, everyone's still alive. And then, they hear Takeda's voice from amidst the smoke.
 
@@ -551,9 +549,7 @@ The Shinsengumi who killed me, Ujizane's lamentable history, everything!
 
 Suddenly, Hattori (who is apparently still alive), stands up, and says he'll act as the middleman here. He then all of a sudden cuts Ito, shocking everyone else, and tells Ujizane to accept his and Ito's Saint Graphs. This is the ultimate loyalty of their unit, wholly unlike the Shinsengumi. Apparently very thankful for getting to serve Ujizane, they are then absorbed.
 
-<video width="1344" height="576" controls>
-      <source src=”https://static.atlasacademy.io/JP/Movie/talk_mov211.mp4” type=video/mp4>
-</video>
+[Cutscene](https://static.atlasacademy.io/JP/Movie/talk_mov211.mp4)
 
 Not only is his energy increasing rapidly, but so is his actual size. This is the proper effects of the castle's amplification. Now Ujizane has surpassed his father, and become the Supreme Leader on the Kaido.
 
