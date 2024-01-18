@@ -60,7 +60,7 @@ By the trucks, an old man is "consoling" a crying child, when some soldiers come
 
 Uttering a classic "who are you calling old man", the obviously old man cuts down a soldier. Then another. And another. He didn't mean to get carried away, but what's done is done. This is the strongest of the Shinsengumi---Nagakura Shinpachi. Turns out the soldiers have no idea who or what a shinsengumi is, which riles up Shinpachi even more. He'll teach these kids who they're messing with. The soldiers have realized he's a stray Servant, which means they get paid more for taking him down, which should be easy since he's alone and also old. Just then, Kagetora jumps into the battle, introducing herself as Bishamonten, and saying "I'll be happy to help out if you'd like! Actually, I'll fight them whether you like it or not!", and so the fight begins. During the fighting, amidst a few occurrences of a soldier calling Shinpachi old and causing him to strike them even harder while yelling "I'm not old!", Kagetora reveals to him that you came from the west, which surprises him, as it would've made more sense to come from the north, I guess. Kagetora points out that one of the soldiers radiates much more energy than the rest, and you prepare for proper battle.
 
-[Battle against <Soldier x2 & Imag(ical)awa Soldier> ] (the enemy name is a pun on <ruby>今川<rt>Imagawa</rt></ruby> and <ruby>今魔川<rt>Imagawa</rt></ruby> but the second one has "magic/demon" thrown in)
+[Battle against Soldier x2 & Imag(ical)awa Soldier ] (the enemy name is a pun on <ruby>今川<rt>Imagawa</rt></ruby> and <ruby>今魔川<rt>Imagawa</rt></ruby> but the second one has "magic/demon" thrown in)
 
 The soldiers are no match for proper Servants, so they realize they have to take out you, the Master. Kagetora feels her wounds catching up to her and is unable to act in time, so Shinpachi makes a dash for it to protect you, but it seems he won't make it in time. You close your eyes, awaiting the inevitable, and then...a gunshot. The enemy before you falls to the ground, and there stands...the shop owner from earlier?
 
@@ -82,7 +82,7 @@ Back with Okita and Saito, they're still fighting Genji from Overwatch. Not only
 
 He says this is all for the sake of getting revenge for acts of the past. He may have been taken by surprise back then, but this time he's fully prepared, and there's no chance of him losing against the two of them.
 
-[Battle against <Hattori Takeo> with solo Okita & Saito]
+[Battle against Hattori Takeo with solo Okita & Saito]
 
 **--- Arrow 2 ---**
 
@@ -94,7 +94,7 @@ Cut to Gudao and company, who are now being changed by a crowd of chibi Nobbus i
 
 Them being here isn't all that surprising, but it does tell you something: Nobunaga is alive, and presumably not far. As the nobbus start catching up, <ruby>Hotaru<rt>Firefly</rt></ruby> tells you to take the wheel, which is apparently fine because you spent the summer learning to drive(?). She then leaps out of your car, and lands on the hood of the frontmost pursuer. The nobbu scolds her for planting her dirty feet on the hood that they washed just yesterday! <ruby>Hotaru<rt>Firefly</rt></ruby> takes aim, fires at the car, and leaps to the next one as the one before spins out and crashes. She repeats this, being told this is excessive road rage each time. You step on the gas to give yourself enough distance to set up an attack front for when the rest of the cars catch up, so that you can avoid leaving <ruby>Hotaru<rt>Firefly</rt></ruby> behind. She says you should've just gone ahead, as good-natured people like that won't make it far, but Kagetora won't have any of that, so now you fight the rest of the nobbus.
 
-[Battle against <Dry Nobbu x9>]
+[Battle against Dry Nobbu x9]
 
 **--- Arrow 3 ---**
 
@@ -246,7 +246,7 @@ Back with Gudao, having now met Saito, he immediately gets into a row with Shinp
 
 You agree to the deal, and before Saito returns to deliver the message, he feels the need to tell Shinpachi that both Ito and Hattori are here with Imagawa. Shinpachi thinks it's not so strange Hattori is to be found with Ito, considering his weird fascination with the guy all the time. Anyway, as Saito heads back, you have to go catch up to Takeda. On a field further ahead, Takeda and Kagetora stop their rides. Takeda says that he needs them to fight here. Sure, getting beat up here will mean not being at full strength for the other Kenshin, but there's something he needs to make sure of before that fight happens: whether the Kagetora here and now is really Kenshin or not.
 
-[Battle against <Takeda Shingen> with solo Kagetora]
+[Battle against Takeda Shingen with solo Kagetora]
 
 When Saito reports back to Ito, all he can say is "What? They said yes? Is the Master of Chaldea a moron?" Turns out Ito thought there was no shot at this deal being accepted, and he just wanted to get a feel for Chaldea's Master based on what they would reply or whatever, but now they're in this situation and since they do want the same thing, Ito figures they have to send some form of reinforcements. Thus, he tells Hattori to head out and help them. Imagawa is immobalized for a while still, so out of the remaining people on their side, Hattori is the only one even close to being able to fight Kenshin. "Oops, don't tell them that, Saito". Saito acts as if he wasn't even listening, and says he'll go lie down. Hattori asks if this is really a good idea, to which Ito replies that this is a perfect opportunity to show everyone what they're working towards. He then says this is all for the sake of their glorious leader, Imagawa, but Hattori initially does not join in on the cheer, staying quiet. There's a very emphasized shot of Ito's eyes opening, which is then followed by Hattori repeating the praise for Imagawa, and Ito thanking his friend for joining him in giving praise.
 
@@ -335,7 +335,7 @@ He has donned his legendary armor, and from hereon, this is his fight.
 
 As it turns out, with all the extra help, Takeda was able to summon his castle to here, and the walls were able to withstand the attack, protecting everyone. Truly, in the Kai province, none can match him. But if it's to be a siege on Takeda's castle, Kenshin says, she'll have to get serious. Hearing this makes Shinpachi pretty scared. She wasn't being serious before? Thus, the battle begins anew.
 
-[Battle against <Northen God of War> with forced Takeda, <ruby>Hotaru<rt>Firefly</rt></ruby>, Shinpachi frontline. Battle ends after taking off her first bar twice.]
+[Battle against Northen God of War with forced Takeda, <ruby>Hotaru<rt>Firefly</rt></ruby>, Shinpachi frontline. Battle ends after taking off her first bar twice.]
 
 Flashback again. We see Seigan-in (Kagetora's mom) talking to Nagao Tamekage (Kagetora's grandpa? no sprite).
 
@@ -502,7 +502,7 @@ Saito joins them, also wearing his haori now. He says that it's funny, but Hijik
 
 Before them stands Nagakura Shinpachi, captain of the Shinsengumi's second unit, and the strongest of the Shinsengumi. Hattori says that it's now time to truly decide who was the strongest of them.
 
-[Battle against <Hattori Takeo> with forced Shinpachi, Saito, and Okita]
+[Battle against Hattori Takeo with forced Shinpachi, Saito, and Okita]
 
 The three of them in unison manage to take down Hattori. Before Hattori collapses, Shinpachi says he has no intention of apologizing, to which Hattori says he doesn't need to, but he's definitely disappointment that he would return to fight under the Shinsengumi banner. Moving on to the next target, there's Imagawa in front of you. That's the last obstacle before reaeching your destination. However, Ito arrives beside him, and says that Hattori has done well, but the time is up now. In the sky above you, the castle has arrived. Imagawa commands the castle to fall, and so the collapse is about to begin.
 
@@ -557,7 +557,7 @@ Suddenly, Hattori (who is apparently still alive), stands up, and says he'll act
 
 Not only is his energy increasing rapidly, but so is his actual size. This is the proper effects of the castle's amplification. Now Ujizane has surpassed his father, and become the Supreme Leader on the Kaido.
 
-[Battle against <Supreme Leader on the Kaido, "Ujizane">, battle ends after 2 break bars]
+[Battle against Supreme Leader on the Kaido, "Ujizane", battle ends after 2 break bars]
 
 **--- Arrow 2 ---**
 
@@ -578,7 +578,7 @@ Seiwa-in disperses, and the scene fades to white. Outside, Ujizane is preparing 
 
 This is Uesugi Kenshin. Ujizane's reaction implies that she has emerged carrying more of the other Kenshin's power within her as well, a sort of fused Saint Graph, if you would. She makes sure Gudao and Takeda are up for fighting, then turns to confront Ujizane, who is boasting that even with this loss he still has more magical energy than the two of them combined. But another voice is suddenly heard, saying "not two". The voice belongs to Hijikata, who is still alive. He immediately yells at Okita and Saito for just lazying around on the ground, and then <ruby>Hotaru<rt>Firefly</rt></ruby> arrives with Ranmaru, Mori, and Mashu in tow, explaining that they've just freed Hijikata. He's still heavily wounded, but he'll fight nonetheless. The shinsengumi won't go out here. Ujizane says it doesn't matter how many you are. The weak remain weak, and only the strong will go down in history. However, Takeda retorts by saying that Ujizane only appears strong because he abuses the powers of those he takes in. Meanwhile, Kenshin says, it is because people are weak on their own that they can band together and work in unison. When Ujizane stands at the end, all by himself, what will remain for him? But he rejects the rhetorics, saying this battle alone will determine the course of history. Here now stand the weak against the strong.
 
-[Battle against <Supreme Leader on the Kaido, "Ujizane"> with forced Kenshin support]
+[Battle against Supreme Leader on the Kaido, "Ujizane" with forced Kenshin support]
 
 You push him back, but he won't relent until he has cleared his father's name in history. <ruby>Hotaru<rt>Firefly</rt></ruby> seems to sense a presence from within Ujizane, which is calling out to her. It's Magoichi, who's telling her that she needs to live according to her own idea of the Saika. Hearing this, she asks Gudao for permission to go all out, and subsequently naming herself Saika Magoichi, "gun god, Yatagarasu!" Energy swells, and a massive bullet hits Ujizane dead center. He says something like that won't stop him but...he's unable to move now. Everyone else takes the opportunity to strike at him, with Takeda unleashing his other Noble Phantasm against him. Finally, Kenshin delivers her single swing of righteousness. With this, Ujizane has lost.
 
@@ -623,7 +623,7 @@ Okuni is in a cave, having Zanzaburo in mining mode getting gold for her. Chacha
   
 You enter the cave with Takeda in tow (whose cave this actually is), startling the girls. When asked what they're doing, Chacha is like "I-it's not like the money I got from His Highness is starting to run out or anything...", while Okuni just says she was tricked by Chacha, and she isn't actually greedy. Takeda says he'll teach them both a lesson for this, to which Chacha says that apparently her hubby had actually promised her the Takeda's gold mines back in the day, so she was just getting a bit of an advance on it. But that's a no-go, so you fight.  
   
-[Battle against <Chacha & Okuni>]  
+[Battle against Chacha & Okuni]  
   
 (Reward is a Saika NP copy)  
   
@@ -631,7 +631,7 @@ You enter the cave with Takeda in tow (whose cave this actually is), startling t
   
 In the mountains, you're told by a Nobbu driver that there's some kind of speed demon with a fancy car that's crushing them all in races and pushing them out of their territory here, so they need your help. Or rather, they need Takeda's help since they've sworn their allegiance to him, which shocks Nobu. Just as you ask when this mosnter usually shows up, you hear the screeching of tires. This monster, calling themselves the "Monster of the Mountain Pass R" is actually just Medusa, who immediately recognizes you. She's here to beat the nobbu in a downhill race, but they swap in Takeda to race for them since he's the fastest man in Kai. And then you race, I guess.  
   
-[Battle against <Monster of the Mountain Pass R & 5x Greece M Drives>]  
+[Battle against Monster of the Mountain Pass R & 5x Greece M Drives]  
   
 (Reward is a Saika NP copy)  
   
@@ -641,7 +641,7 @@ You've entered the Imagawa remodelling factory, a prime location for some hidden
   
 Izo in his third ascension pops out, just shouting "NANJAAAAA!?" (TL note: "NANJAAAA" means roughly "WHAT THE HELL"). So, context for this is that the day before, Takasugi paid for Izo's drinks at the bar, and in exchange Izo signed a contract for undergoing remodelling, so that's how they ended up with this. Takasugi boasts that this new Izo is twice, or even ten times more powerful than before. The only side effect is, of course, that he can only say "NANJAAAA!?" Actually, Takasugi just needs Izo to beat you here so he can go on to build a new giant robot or something cooler, but first thing's first.  
   
-[Battle against <Takasugi & Okada Izo>]  
+[Battle against Takasugi & Okada Izo]  
   
 In this battle, literally all Okada's voice lines, and all his skill names, have been changed to "NANJAAAA!?". Basically, you get to listen to him saying that over, and over, and over again.  
   
@@ -649,7 +649,7 @@ In this battle, literally all Okada's voice lines, and all his skill names, have
   
 Out on the highway, Mori and Ranmaru have taken to motorbikes and flying swords, threatening anyone who gets between them and any treasure. Takeda doesn't waste any time saying he'll kick their asses, when suddenly, Ranmaru stops. She recognizes Takeda, except as the head of "Space Kai Takeda". One thing that remains constant between here and the servantverse, though, is that Takeda is always quick to break his promises. Well, Takeda thinks a beating from the sengoku period's most powerful rider will overshadow this trait as one that goes down in history.  
   
-[Battle against <Mori & Ranmaru>]  
+[Battle against Mori & Ranmaru]  
   
 ### Lone Gunner Saika  
   
@@ -659,7 +659,7 @@ You've gotten back to where Saika's shop was, and so she asks if there's anyone 
   
 Actually, the other clan members took care of this stuff, so she never had to bother. Either way, you go check with the loan shark. He's in the process of scamming some remaining Imagawa soldiers, who will use the money to get a headstart on the treasure hunt. Suddenly, Saika's calling card comes flying through the air, and a hidden Saika explains to the soldiers that the guy is setting them up for a scam. The soldiers are more interested in the fact that they think this is the previous Saika servant who should be dead, and who went against Imagawa, so now they're gonna kill her. Kenshin jumps into the fray, saying some dumb shit when Saika is like "No, please say the lines as we practiced them", followed by Kenshin giving a proper like Sailor Moon-tier intro line for both Gudao and Takeda. Takeda himself isn't even entertaining this whole thing, he's just here to beat up the loan sharks scamming people in his territory. Kenshin, on the other hand, is in full-on killing mode now though.  
   
-[Battle against <Imagawa Remnant Troops x6>]  
+[Battle against Imagawa Remnant Troops x6]  
   
 ### Melancholy of a War God  
   
@@ -670,7 +670,7 @@ Elsewhere, another Imagawa soldier is forcibly collecting a bunch of salt from c
   
 What a tragedy. The man prays to buddha for the sake of his pasta, saying he'll share information about the hidden treasure if he gets help. Kenshin in the form of Bishamonten appears then (reassuring him that she's not the scary lady from earlier), and straight up just blasts the soldier with her totally-not-cannons. As the soldier more or less disintegrates in the explosion, both Kenshin and the old man are left just staring, before the man finally says "I think you blew up the salt too..." Seems Kenshin overdid it. She's still getting used to controlling this thing, after all. Okita Alter who's also here now says she totally knows the feeling, because sometimes when she just has too much to eat, she ends up firing off her beam just because (to which Rengoku says "you definitely don't know that feeling"). Old man Li is also here, saying sometimes when he just lightly touches people, they fall over and die. Naturally, the logical thing to do now is for the two of them to fight Kenshin so that she can get better at gauging her output. As they all get fired up, the old man interrupts, asking them to get off his lawn first.  
   
-[Battle against <Li Shuwen & Okita Alter>]  
+[Battle against Li Shuwen & Okita Alter]  
   
 ### Kōyō Chinbutai Shinsengumi  
   
@@ -682,7 +682,7 @@ The four of them argue a bit over their assigned ranks, with Hajime having becom
   
 Gudao enters the room, apparently a new recruit for the unit. Okita tells them to be careful, because their latest recruit who joined just a couple days ago was already killed in a swordfight. Actually, Hajime interjects, they didn't die, they just packed up their stuff and ran away from the hospital in the middle of the night. Shinpachi laments the youth of today. Yamanami bursts into the room, reporting about some nobbus causing a ruckus up north. Shinpachi and Okita apparently can't really focus on the report, only focusing on Yamanami's outfit. The former thinks it's too "police-y" while the latter thinks it's "like a cool ninja outfit". Meanwhile, Hajime just thinks to himself that the guy wearing a Drive (2011)-style jacket and the girl not even wearing any pants probably shouldn't be ones to talk. Anyway, fight time.  
   
-[Battle against <Careless Drive Nobbu x6> ]  
+[Battle against Careless Drive Nobbu x6 ]  
   
 (Reward is a Saika NP copy)  
   
@@ -697,7 +697,7 @@ The camera cuts to the two of them as they discuss what they're gonna eat first 
   
 And then you beat her up.  
   
-[Battle against <Sen-no-Rikyu> where she's automatically stunned in the first turn]  
+[Battle against Sen-no-Rikyu where she's automatically stunned in the first turn]  
   
 ### GUDAGUDA Bar-Hopping (Final node)  
   
@@ -728,7 +728,7 @@ Anyway, Nobunakatsu reveals all the treasures were actually here in the castle a
 **Nobunakatsu:** "The aura of someone who died on the toilet suddenly disappeared..."  
 **Kenshin:** "No further comments necessary!"  
   
-[Battle against <Demon King of the Seventh Heaven, NobunaKatsu>]  
+[Battle against Demon King of the Seventh Heaven, NobunaKatsu]  
   
 Takeda is throwing a feast for everyone to have fun now that you're all done.  
   
