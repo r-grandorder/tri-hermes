@@ -27,4 +27,5 @@
 * [Clocktower 2015](Novels/clocktower2015.md)  
 * [Garden of Avalon](Novels/GoA.md)  
 * [An Adventure of First Love - Witch on the Holy Night Short Story](Novels/An-Adventure-of-First-Love.md)  
+* [Avalon le Fae Synopsis](Novels/avalon_synopsis.md)
   
