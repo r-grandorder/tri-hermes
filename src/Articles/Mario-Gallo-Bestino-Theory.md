@@ -1,6 +1,6 @@
 # Mario Gallo Bestino's Secrets
 
-::: TIP
+::: tip
 Summarized by [Comun](https://forums.nrvnqsr.com/showthread.php/8969-Super-Tsukihime-Remake-Spoiler-Thread/page80?p=3142834#post3142834)
 :::
 

@@ -6,6 +6,10 @@
   
 ## Prologue  
   
+<audio controls>
+  <source src="https://static.atlasacademy.io/NA/Audio/BGM_EVENT_2/BGM_EVENT_2.mp3" type="audio/mp3">
+</audio> 
+
 **Announcement:**   
 &mdash;Base sequence: human genome confirmed  
 &mdash;Alignment: Lawful-Neutral  
