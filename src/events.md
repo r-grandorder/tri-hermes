@@ -282,7 +282,7 @@ This will be available soon.
 * [Nanmei Yumihari Hakkenden - The Eight Dog Bowmen At The Southern Sea](Events/JP/hakkenden.md)  
 * [Arctic Summer](Events/JP/arcticsummer.md)  
 * [GUDAGUDA - Shin Yamataikoku](Events/JP/shin-yamataikoku.md)  
-* ~~[GUDAGUDA 8 - Super Goryōkaku](Events/JP/gudaguda8.md)~~ - Debugging...
+* [GUDAGUDA 8 - Super Goryōkaku](Events/JP/gudaguda8.md)
 * [Christmas 2023 - 7 Days / 8 Years Snow Carol](Events/JP/christmas2023.md)
   
   

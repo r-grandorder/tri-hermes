@@ -316,7 +316,7 @@ Meanwhile, Shinpachi and Hattori are not able to as much as scratch Kenshin, who
 
 The thing on her back begins to glow, and she proclaims she will reduce everything to ashes by means of the sacred flame from the twin towers of Bishamonten. You know she said it was just a storehouse for sacred treasures, but that thing is totally a cannon. You have to retreat immediately. However, there's no time. Kenshin fires off her attack.
 
-<video width="1344" height="576" controls>
+<video width="500" height="214" controls>
       <source src="https://static.atlasacademy.io/JP/Movie/talk_mov210.mp4" type=video/mp4>
 </video>
 
@@ -539,8 +539,8 @@ Since Ujizane summoned me to this land, I, Ito Koshitaro, have served him single
 
 He says the Shinsengumi, traitors all, have no right to speak of him like this. Ujizane tells him he has served well, and that they indeed have no right to criticize. So in the end, Ujizane was the actual origin point of this singularity. He says that he will not deny the shortcomings of his shortlived rule over the Imagawa clan, however, it pains him that his fater will go down in history as merely someone who lost at Okehazama, and who then had a failure of a son take over. While those facts in and of themselves might be true, is that cause enough for all other facts to be discarded, and to treat his father forever like only a loser, and a clown? That is why he will use the power of the holy grail to create a new history, wherein he can record a true depiction of his father. Ito seems to imply that it was in response to these feelings of indignation that the imperial tomb guards were summoned as well, and they eventually got to have their own wishes fulfilled too, since the inclusion of the Goryoukaku in the plan made it inevitable that the Shinsengumi would show up here. Well, in the end their plan was a failure, but they can just try again. Kill all of you, and try again and again, until next time they manage. However...
 
-<ruby>Hotaru<rt>Firefly</rt></ruby>
-There will be no next time.
+**<ruby>Hotaru<rt>Firefly</rt></ruby>:**  
+There will be no next time.  
 
 She shoots Ito point blank, leaving him gravely wounded. As she cocks her gun again, she asks him what happened to Magoichi. Ito explains that they had tried to convert him to their cause, offering him the restoration of his honor and the Saika clan within their new history, but his reply had been a surprise to them. In response to hearing about the strong nation they would establish, Magoichi had refused, for the sake of fighting for the weak. That's why they had him taken out after his battle with Takeda.
 
@@ -551,7 +551,7 @@ The Shinsengumi who killed me, Ujizane's lamentable history, everything!
 
 Suddenly, Hattori (who is apparently still alive), stands up, and says he'll act as the middleman here. He then all of a sudden cuts Ito, shocking everyone else, and tells Ujizane to accept his and Ito's Saint Graphs. This is the ultimate loyalty of their unit, wholly unlike the Shinsengumi. Apparently very thankful for getting to serve Ujizane, they are then absorbed.
 
-<video width="1344" height="576" controls>
+<video width="500" height="214" controls>
       <source src="https://static.atlasacademy.io/JP/Movie/talk_mov211.mp4" type=video/mp4>
 </video>
 

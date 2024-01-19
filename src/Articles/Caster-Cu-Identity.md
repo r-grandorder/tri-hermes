@@ -1,6 +1,6 @@
 # Summary of the Caster Cu Chulainn=Odin Theory
 
-::: TIP 
+::: tip
 Blog post by [Orafu](https://note.com/orafu_tm/n/n50311f8c847a)
 
 Translated by [u/Kinalvin](https://www.reddit.com/r/grandorder/comments/lkw9xm/summary_of_the_caster_cu_chulainnodin_theory/#:~:text=In%20the%20North%20American%20version,Yggdrasil%20is%20%E2%80%9COdin's%20horse%E2%80%9D)

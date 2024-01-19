@@ -140,6 +140,10 @@
   
 * [Smoof's Ordeal Call Summary Translation](Ordeal-Call/prologue-smoof.md)  
 * [Rayshift's Ordeal Call Prologue Full Translation](Ordeal-Call/prologue-rayshift.md)  
+
+### Paper Moon
+
+[![](https://static.atlasacademy.io/JP/Banner/questboard_cap402.png)](Ordeal-Call/papermoon.md)
   
 ## FGO Arcade  
   
