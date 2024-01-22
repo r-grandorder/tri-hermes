@@ -4,6 +4,7 @@
   
 * [Melty Blood](Games/melty-blood.md)  
 * [Melty Blood Re-Act](Games/melty-blood-re-act.md)
+* [Melty Blood Act Cadenza](Games/melty-blood-act-cadenza.md)
   
 ## Fate/EXTRA Games  
   

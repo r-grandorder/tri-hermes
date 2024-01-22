@@ -1,5 +1,5 @@
 ---
-<meta content="https://static.atlasacademy.io/NA/Banner/questboard_cap100.png" property="og:image" />
+heroImage: https://static.atlasacademy.io/NA/Banner/questboard_cap100.png
 ---
 
 # Singularity F: Flame Contaminated City - Fuyuki  
