@@ -20,5 +20,9 @@
     "vuepress": "^2.0.0-beta.46",
     "vuepress-plugin-seo2": "^2.0.0-beta.79",
     "vuepress-plugin-sitemap2": "^2.0.0-beta.79"
+  },
+  "dependencies": {
+    "vue-tabs-component": "^1.5.0",
+    "vuepress-plugin-tabs": "^0.3.0"
   }
 }

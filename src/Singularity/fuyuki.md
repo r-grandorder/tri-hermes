@@ -10,6 +10,53 @@ heroImage: https://static.atlasacademy.io/NA/Banner/questboard_cap100.png
   <source src="https://static.atlasacademy.io/NA/Audio/BGM_EVENT_2/BGM_EVENT_2.mp3" type="audio/mp3">
 </audio> 
 
+:::: tabs
+
+::: JP
+**アナウンス:**   
+&mdash;塩基配列　　ヒトゲノムと確認  
+&mdash;霊器属性　　善性・中立と確認  
+  
+**アナウンス:**   
+ようこそ、人類の未来を語る資料館へ。  
+ここは<ruby>人理継続保障機関<rt>じんりけいぞくほしょうきかん</rt></ruby>　カルデア。  
+  
+**アナウンス:**   
+指紋認証　声紋認証　遺伝子認証　クリア。  
+魔術回路の測定……完了しました。  
+  
+**アナウンス:**   
+登録名と一致します。  
+貴方を霊長類の一員である事を認めます。  
+  
+**アナウンス:**   
+はじめまして。  
+貴方は本日　最後の来館者です。  
+  
+**アナウンス:**   
+どうぞ、善き時間をお過ごしください。  
+  
+**アナウンス:**   
+……申し訳ございません。  
+入館手続き完了まであと180秒必要です。  
+  
+**アナウンス:**   
+その間、模擬戦闘をお楽しみください。  
+  
+**アナウンス:**   
+レギュレーション：シニア  
+契約サーヴァント：セイバー　ランサー　アーチャー  
+  
+**アナウンス:**   
+スコアの記録はいたしません。  
+どうぞ気の向くまま、自由にお楽しみください。  
+  
+**アナウンス:**   
+英霊召喚システム　フェイト　起動します。  
+180秒の間、マスターとして善い経験ができますよう。  
+:::
+
+::: NA
 **Announcement:**   
 &mdash;Base sequence: human genome confirmed  
 &mdash;Alignment: Lawful-Neutral  
@@ -49,7 +96,10 @@ Please feel free to enjoy.
 **Announcement:**   
 Activating Heroic Spirit Summoning System Fate.   
 We hope you have a good experience as a Master for these 180 seconds.   
-   
+:::
+
+::::
+  
 **--TUTORIAL--**  
    
 **C：???:**  
