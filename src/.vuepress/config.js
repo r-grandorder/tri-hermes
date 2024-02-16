@@ -108,7 +108,7 @@ module.exports = {
         googleAnalyticsPlugin({  
             id: 'G-19VNBHS02E'  
         }),  
-        searchPlugin()
+        searchPlugin(),
     ],  
 };  
   
