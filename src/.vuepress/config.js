@@ -2,8 +2,7 @@ const { defaultTheme } = require("vuepress");
 const { seoPlugin } = require("vuepress-plugin-seo2");  
 const { sitemapPlugin } = require("vuepress-plugin-sitemap2");  
 const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics');  
-const { searchPlugin } = require('@vuepress/plugin-search');  
-const { tabs } = require('@vuepress/plugin-element-tabs')
+const { searchPlugin } = require('@vuepress/plugin-search')
   
 module.exports = {  
     lang: "en-US",  
@@ -109,8 +108,7 @@ module.exports = {
         googleAnalyticsPlugin({  
             id: 'G-19VNBHS02E'  
         }),  
-        searchPlugin(), 
-		tabs()	
+        searchPlugin()
     ],  
 };  
   
