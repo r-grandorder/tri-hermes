@@ -110,7 +110,7 @@ module.exports = {
             id: 'G-19VNBHS02E'  
         }),  
         searchPlugin(), 
-		tabs(),	
+		tabs()	
     ],  
 };  
   
