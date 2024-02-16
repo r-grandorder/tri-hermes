@@ -1,7 +1,18 @@
-# 特異点F - 炎上汚染都市 冬木  
+---
+heroImage: https://static.atlasacademy.io/NA/Banner/questboard_cap100.png
+---
+
+# Singularity F: Flame Contaminated City - Fuyuki  
   
-## プロローグ  
+## Prologue  
   
+<audio controls>
+  <source src="https://static.atlasacademy.io/NA/Audio/BGM_EVENT_2/BGM_EVENT_2.mp3" type="audio/mp3">
+</audio> 
+
+:::: tabs
+
+::: JP
 **アナウンス:**   
 &mdash;塩基配列　　ヒトゲノムと確認  
 &mdash;霊器属性　　善性・中立と確認  
@@ -43,5345 +54,4954 @@
 **アナウンス:**   
 英霊召喚システム　フェイト　起動します。  
 180秒の間、マスターとして善い経験ができますよう。  
+:::
+
+::: NA
+**Announcement:**   
+&mdash;Base sequence: human genome confirmed  
+&mdash;Alignment: Lawful-Neutral  
+   
+**Announcement:**   
+Welcome to the data center for the future of humankind.   
+This is the Security Organization for the Preservation of Humanity, Chaldea.   
+   
+**Announcement:**   
+Fingerprint, voiceprint, and DNA authentication cleared.   
+Magical Circuit assessment complete.   
+   
+**Announcement:**   
+Username matched.   
+You are recognized as a member of the primates.   
+   
+**Announcement:**   
+Nice to meet you.   
+You're our final visitor today.   
+   
+**Announcement:**   
+We hope you enjoy your time here.   
+   
+**Announcement:**   
+We are very sorry. Another 180 seconds is needed to complete the admission process.   
+   
+**Announcement:**   
+Enjoy a simulated battle while you wait.   
+   
+**Announcement:**   
+Regulation: Senior Contract Servants: Saber, Lancer, Archer  
+   
+**Announcement:**   
+There will be no record of your score.   
+Please feel free to enjoy.   
+   
+**Announcement:**   
+Activating Heroic Spirit Summoning System Fate.   
+We hope you have a good experience as a Master for these 180 seconds.   
+:::
+
+::::
   
-  
-**--ARROW--**  
-  
-**C：？？？:**  
-フォウ……？  
-キュウ……キュウ？  
-  
-**C：？？？:**  
-フォウ！  
-フー、フォーウ！  
-  
+**--TUTORIAL--**  
+   
+**C：???:**  
+Fou?   
+Kyuu...Kyuu?   
+   
+**C：???:**  
+Fou!   
+Fou...Fou!   
+   
 ---  
   
 **Fujimaru 1:**   
-……何かの鳴き声……？  
-  
+...What's that sound?   
+   
 ---  
   
 **Fujimaru 2:**   
-……いま、頬を舐められたような……  
+...Feels like something just licked my cheek...  
   
 ---  
-  
-**A：？？？:**  
-………………………。  
-  
-**A：？？？:**  
-………………………あの。  
-朝でも夜でもありませんから、起きてください、先輩。  
-  
+   
+**A：???:**  
+...  
+   
+**A：???:**  
+...Umm. Since it's neither morning nor night, please wake up, Senpai.   
+   
 ---  
   
 **Fujimaru 1:**   
-君は……？  
-  
-**A：？？？:**  
-いきなり難しい質問なので、返答に困ります。  
-名乗るほどのものではない&mdash;とか？  
-  
-**A：？？？:**  
-いえ、名前はあるんです。  
-名前はあるのです、ちゃんと。  
-  
-**A：？？？:**  
-でも、あまり口にする機会がなかったので……  
-印象的な自己紹介ができないというか……  
-  
+Who are you?   
+   
+**A：???:**  
+That's a hard question to answer suddenly. Maybe I'm not important enough for you to know my name?   
+   
+**A：???:**  
+No, I do have a name.   
+I have a proper name.   
+   
+**A：???:**  
+But I never really had the chance to use it...  
+I'm afraid I don't leave a good first impression...  
+   
 ---  
   
 **Fujimaru 2:**   
-ここは……？  
-  
-**A：？？？:**  
-はい。それは簡単な質問です。  
-たいへん助かります。  
-  
-**A：？？？:**  
-ここは正面ゲートから中央管制室に向かう通路です。  
-より大雑把に言うと、カルデア正面ゲート前、です。  
-  
+Where are we?   
+   
+**A：???:**  
+Right. That's a simple question.   
+I really appreciate it.   
+   
+**A：???:**  
+This is the passageway from the front gate to the Central Command Room, which is in front of the Main Chaldea Gate.   
+   
 ---  
-  
-**A：？？？:**  
-……コホン。  
-どうあれ、質問よろしいでしょうか、先輩。  
-  
-**A：？？？:**  
-お休みのようでしたが、通路で眠る理由が、ちょっと。  
-硬い床でないと眠れない性質なのですか？  
+   
+**A：???:**  
+...Ahem. Anyway, can I ask you a question, Senpai?   
+   
+**A：???:**  
+You were asleep, but I don't see why you'd sleep in the hall. Can you not sleep unless you're on a hard bed?   
   
 ---  
   
 **Fujimaru 1:**   
-自分はここで眠っていたのか？  
-  
-**A：？？？:**  
-はい、すやすやと。  
-<ruby>教科書<rt>テキスト</rt></ruby>に載せたい程の熟睡でした。  
-  
+Was I sleeping here?   
+   
+**A：???:**  
+Yes, like a log.   
+It was such a deep sleep, it was almost textbook.   
+   
 ---  
   
 **Fujimaru 2:**   
-実はそうなんだ。畳じゃないと、ちょっと  
-  
-**A：？？？:**  
-ジャパニーズカーペットですね。  
-噂には聞いていました。なるほど……なるほど。  
-  
+Yes. I can't sleep unless I'm on a straw mat.   
+   
+**A：???:**  
+Oh, a Japanese carpet. I've heard of those before.   
+I see...I see.   
+   
 ---  
-  
-**C：？？？:**  
-フォウ！  
-キュー、キャーウ！  
-  
-**A：？？？:**  
-……失念していました。  
-あなたの紹介がまだでしたね、フォウさん。  
-  
-**A：？？？:**  
-こちらのリスっぽい方はフォウ。  
-カルデアを自由に散歩する特権生物です。  
-  
-**A：？？？:**  
-わたしはフォウさんにここまで誘導され、  
-お休み中の先輩を発見したんです。  
-  
-**フォウ:**   
-フォウ。  
-ンキュ、フォーウ！  
-  
-**A：？？？:**  
-……またどこかに行ってしまいました。  
-あのように、特に法則性もなく散歩しています。  
-  
+   
+**C：???:**  
+Fou!   
+Kyuuu! Kyao!   
+   
+**A：???:**  
+...I completely forgot.   
+I still haven't introduced you yet, have I, Fou?   
+   
+**A：???:**  
+This squirrel-like creature is Fou. He's a Privileged Life-Form allowed to freely walk around Chaldea.   
+   
+**A：???:**  
+Fou led me here, and that's how I ran into you, Senpai.   
+   
+**Fou:**   
+Fou.   
+Mmkyu, Fou!   
+   
+**A：???:**  
+He ran off somewhere again.   
+He does that sometimes, just walks around.   
+   
 ---  
   
 **Fujimaru 1:**   
-……見た事のない動物だな……  
-  
+...I've never seen an animal like that.   
+   
 ---  
   
 **Fujimaru 2:**   
-……不思議な生き物だね  
+...What a mysterious creature.   
   
 ---  
-  
-**A：？？？:**  
-はい。わたし以外にはあまり近寄らないのですが、  
-先輩は気に入られたようです。  
-  
-**A：？？？:**  
-おめでとうございます。  
-カルデアで二人目の、フォウのお世話係の誕生です。  
-  
-**D：？？？:**  
-ああ、そこにいたのかマシュ。  
-だめだぞ、断りもなしで移動するのはよくないと……  
-  
-**D：？？？:**  
-おっと、先客がいたんだな。  
-君は……そうか、今日から配属された新人さんだね。  
-  
-**レフ:**   
-私はレフ・ライノール。  
-ここで働かせてもらっている技師の一人だ。  
-  
-**レフ:**   
-君の名前は……？  
-  
-**レフ:**   
-ふむ、藤丸君と。  
-招集された48人の適性者、その最後の一人というワケか。  
-  
-**レフ:**   
-ようこそカルデアへ。歓迎するよ。  
-  
-**レフ:**   
-一般公募のようだけど、訓練期間はどれくらいだい？  
-一年？　半年？　それとも最短の三ヶ月？  
+   
+**A：???:**  
+Yes, normally he doesn't go near anyone aside from me,  
+but he seems to like you, Senpai.   
+   
+**A：???:**  
+Congratulations. Now you shall be the second caretaker of Fou in Chaldea.   
+   
+**D：???:**  
+Ah, there you are, Mash. That won't do, you know,  
+wandering about without permission...  
+   
+**D：???:**  
+Oh, someone's already with you? You're...  
+I see...The rookie who just got assigned here.   
+   
+**Lev:**   
+I'm Lev Lainur, one of the technicians employed here.   
+   
+**Lev:**   
+And your name is?   
+   
+**Lev:**   
+Hmm, Fujimaru.   
+So you're the last of the 48 candidates.   
+   
+**Lev:**   
+Welcome to Chaldea.   
+I'm glad you're here.   
+   
+**Lev:**   
+I heard you were selected out of many public applicants, how long was your training?   
+A year? 6 months? 3 months?   
   
 ---  
   
 **Fujimaru 1:**   
-……ご想像にお任せします。  
-  
-**レフ:**   
-おや、早くも競争意識に目覚めたのかな？  
-他のライバルたちに向けて情報は隠匿するのかい？  
-  
-**マシュ:**   
-レフ教授。藤丸さんの訓練期間は  
-数時間レベルです。単に恥ずかしがっているだけかと。  
-  
-**レフ:**   
-おや。それは……そうか、数合わせのために緊急で  
-採用した一般枠があったな。  
-  
+...I'll leave that to your imagination.   
+   
+**Lev:**   
+I see that you already know how competitive it is in here.   
+You're going to hide your info from your rivals?   
+   
+**Mash:**   
+Dr. Lev, Fujimaru's training was less than a few hours. I think it's from embarrassment.   
+   
+**Lev:**   
+Oh? Well, now...I see. We had an emergency opening for applicants to fill out numbers.   
+   
 ---  
   
 **Fujimaru 2:**   
-いや、訓練はしていません  
-  
-**レフ:**   
-ほう？　という事はまったくの素人なのかい？  
-  
-**レフ:**   
-ああ……そういえば、  
-数合わせに採用した一般枠があるんだっけ。  
-  
+No, I didn't go through any training.   
+   
+**Lev:**   
+Oh? So you're a complete amateur?   
+   
+**Lev:**   
+Right...Come to think of it, we did call for applicants just to fill numbers.   
+   
 ---  
-  
-**レフ:**   
-君はそのひとりだったのか。  
-申し訳ない。配慮に欠けた質問だった。  
-  
-**レフ:**   
-けど一般枠だからって悲観しないでほしい。  
-今回のミッションには君たち全員が必要なんだ。  
-  
-**レフ:**   
-魔術の名門から38人、才能ある一般人から10人……  
-なんとか48人のマスター候補を集められた。  
-  
-**レフ:**   
-これは喜ばしい事だ。この2015年において<ruby>霊子<rt>りょうし</rt></ruby>ダイブが  
-可能な適性者すべてをカルデアに集められたのだから。  
-  
-**レフ:**   
-わからない事があったら私やマシュに  
-遠慮なく声をかけて……おや？  
-  
-**レフ:**   
-そういえば、[♂ 彼 /♀️ 彼女]と何を話していたんだいマシュ？  
-らしくないじゃないか。以前から面識があったとか？  
-  
-**マシュ:**   
-いえ、先輩とは初対面です。  
-この区画で熟睡していらしたので、つい。  
-  
-**レフ:**   
-熟睡していた……？  
-藤丸君が、ここで？  
-  
-**レフ:**   
-ああ、さては入館時にシミュレートを受けたね？  
-<ruby>霊子<rt>りょうし</rt></ruby>ダイブは慣れていないと脳にくる。  
-  
-**レフ:**   
-シミュレート後、表層意識が覚醒しないまま  
-ゲートから開放され、ここまで歩いてきたんだろう。  
-  
-**レフ:**   
-一種の夢遊状態だ。藤丸君が  
-倒れたところで、ちょうどマシュが声をかけたのさ。  
-  
-**レフ:**   
-見たところ異常はないが、万が一という事もある。  
-医務室まで送ってあげたいところなんだが……  
-  
-**レフ:**   
-すまないね、もう少し我慢してくれ。じき所長の  
-説明会がはじまる。君も急いで出席しないと。  
+   
+**Lev:**   
+So you're one of them?   
+Do forgive me, I was inconsiderate.   
+   
+**Lev:**   
+But please don't be discouraged because you're a public applicant. We need all of you for this mission.   
+   
+**Lev:**   
+38 elite mages, plus 10 talented public applicants...  
+Somehow, we were able to gather all possible candidates.   
+   
+**Lev:**   
+That's something to rejoice over. This year, 2017, all possible candidates capable of Spiritron Dives were brought to Chaldea.   
+   
+**Lev:**   
+If there's something you don't understand,  
+feel free to ask Mash or myself anytime...Hmm?   
+   
+**Lev:**   
+Come to think of it, what were you talking about with [♂ him /♀ her], Mash? That's not like you. Did you know each other before?   
+   
+**Mash:**   
+No, I'd never met Senpai before.   
+I saw Senpai sleeping here, so I just...  
+   
+**Lev:**   
+Sleeping?   
+Fujimaru was asleep, here?   
+   
+**Lev:**   
+Ahh, you went through the simulation when you entered, right? Spiritron Dives can get to you if you're not used to them.   
+   
+**Lev:**   
+After the simulation, the gate must've opened and you walked over here before you returned to consciousness.   
+   
+**Lev:**   
+It's a type of sleep-walking. When you fell, Fujimaru, that was when Mash spoke to you.   
+   
+**Lev:**   
+You seem to be fine, but I'd like to take you to the infirmary just in case...  
+   
+**Lev:**   
+Sorry, hang in there a little longer. The Director's orientation is about to start. You should hurry over.   
   
 ---  
   
 **Fujimaru 1:**   
-所長……？  
-  
-**レフ:**   
-所長は所長さ。ここカルデアの責任者にして、  
-<ruby>特務作戦<rt>ミッション</rt></ruby>の司令官だよ。  
-  
-**レフ:**   
-君は一般公募で来た新人だけど、  
-もしかしてパンフレットしか見ていない？  
-  
-**マシュ:**   
-そのようですね。  
-所長のプロフィールは一般公開されていませんから。  
-  
-**マシュ:**   
-先輩と所長に接点はありません。アニムスフィアの名に  
-敬意を表すのは、百年以上の家系の魔術師だけです。  
-  
-**レフ:**   
-そうだね。ま、所長を知っていようが知らなかろうが  
-マスターとしての仕事に影響はないし、問題ないな。  
-  
-**レフ:**   
-だが些細な事で目を付けられるのも良くない。  
-今後、君が平穏な職場を望むなら急ぎたまえ。  
-  
-**レフ:**   
-五分後に中央管制室で所長の説明会がある。  
-君たち<ruby>新人<rt>ニューエイジ</rt></ruby>への、ちょっとしたパフォーマンスだ。  
-  
+Director?   
+   
+**Lev:**   
+The Director's the director. The person in charge of Chaldea, and the commander of our special missions.   
+   
+**Lev:**   
+Since you're a rookie from the public, you may have only seen the pamphlet?   
+   
+**Mash:**   
+It would appear so.   
+Since the Director's profile hasn't been made public.   
+   
+**Mash:**   
+Senpai has no connection to the Director.   
+Only mages from families that have been around for over a century show respect to the Animusphere name.   
+   
+**Lev:**   
+Right. Well, whether you know the Director or not, it doesn't affect your work as a Master, so it's not a problem.   
+   
+**Lev:**   
+But it's good to not get on her bad side. If you wish to work in a peaceful environment, better hurry.   
+   
+**Lev:**   
+There's an orientation by the Director at the Central Command Room in 5 minutes. She's putting on a presentation for the newbies.   
+   
 ---  
   
 **Fujimaru 2:**   
-説明会……？  
-  
-**マシュ:**   
-はい。藤丸さんと同じく、本日付で  
-配属されたマスター適性者の方達へのご挨拶です。  
-  
-**レフ:**   
-ようは組織のボスから、浮ついた新人たちへの  
-はじめの<ruby>挨拶<rt>しつけ</rt></ruby>ってヤツさ。  
-  
-**レフ:**   
-所長は些細なミスも許容できないタイプだからね、  
-ここで遅刻でもしたら一年は睨まれるぞ。  
-  
-**レフ:**   
-五分後に中央管制室で説明会がはじまる。  
-この通路をまっすぐ行けばいい。急ぎなさい。  
-  
+Orientation?   
+   
+**Mash:**   
+Yes, to greet the Master candidates assigned here today like you, Fujimaru.   
+   
+**Lev:**   
+In other words, it's for the big boss to welcome the careless newbies.   
+   
+**Lev:**   
+Since the Director is not the type to forgive and forget, if you show up late, you'll be on her radar for the entire year.   
+   
+**Lev:**   
+The orientation begins in five minutes in the Central Command Room. Go straight down this hall. Hurry.   
+   
 ---  
-  
-**マシュ:**   
-レフ教授。  
-わたしも説明会への参加が許されるでしょうか？  
-  
-**レフ:**   
-うん？　まあ、隅っこで立っているぐらいなら  
-大目に見てもらえるだろうけど……なんでだい？  
-  
-**マシュ:**   
-先輩を管制室まで案内するべきだと思ったのです。  
-途中でまた熟睡される可能性があります。  
-  
-**レフ:**   
-……君をひとりにすると所長に叱られるからなあ……  
-結果的に私も同席する、という事か。  
-  
-**レフ:**   
-まあ、マシュがそうしたいなら好きにしなさい。  
-藤丸君もそれでいいかい？  
-  
-**レフ:**   
-他に質問がなければ管制室に向かうけど。  
-今のうちに訊いておく事はある？  
+   
+**Mash:**   
+Dr. Lev, do you think I'll be allowed to sit in on the orientation, too?   
+   
+**Lev:**   
+Hmm? Well, if you stand way back in a corner,  
+I think she'll look the other way...But why?   
+   
+**Mash:**   
+I just thought I should take Senpai to the Command Room. It's possible that Senpai might fall asleep on the way again.   
+   
+**Lev:**   
+...If I leave you alone like this the Director might yell at me...I should tag along as well, eh?   
+   
+**Lev:**   
+Well, if that's what you want to do, Mash, go ahead.   
+You okay with that Fujimaru?   
+   
+**Lev:**   
+If you have no other questions, let's head to the Command Room. Is there anything else you want to know?   
   
 ---  
   
 **Fujimaru 1:**   
-質問はありません。  
-  
-**レフ:**   
-よし、それじゃあ行こうか。  
-姿勢はピンと正して、でも気持ちは楽にね。  
-  
+I have no questions.   
+   
+**Lev:**   
+All right, let's get going.   
+Stand up straight, but remember to relax, okay?   
+   
 ---  
   
 **Fujimaru 2:**   
-ところで、なんで先輩と呼ぶんですか、この子  
-  
-**マシュ:**   
-………………。  
-  
-**レフ:**   
-ああ、気にしないで。彼女にとって、  
-君ぐらいの年頃の人間はみんな先輩なんだ  
-  
-**レフ:**   
-でも、はっきりと口にするのは珍しいな。  
-いや、もしかして初めてかな。  
-  
-**レフ:**   
-私も不思議になってきたな。ねえマシュ。  
-なんだって[♂ 彼 /♀️ 彼女]が先輩なんだい？  
-  
-**マシュ:**   
-理由……ですか？　藤丸さんは、  
-今まで出会ってきた人の中でいちばん人間らしいです。  
-  
-**レフ:**   
-ふむ。それは、つまり？  
-  
-**マシュ:**   
-まったく脅威を感じません。  
-ですので、敵対する理由が皆無です。  
-  
-**レフ:**   
-なるほど、それは重要だ！  
-カルデアにいる人間は一癖も二癖もあるからね！  
-  
-**レフ:**   
-私もマシュの意見には賛成だな。  
-藤丸君とはいい関係が築けそうだ！  
-  
-**マシュ:**   
-……レフ教授が気に入るという事は、  
-所長がいちばん嫌うタイプの人間という事ですね。  
-  
-**マシュ:**   
-…………あの。このままトイレにこもって説明会を  
-ボイコットする、というのはどうでしょうか？  
-  
-**レフ:**   
-それじゃあますます所長に目を付けられる。  
-ここは運を天に任せて出たとこ勝負だ。  
-  
-**レフ:**   
-<ruby>虎口<rt>ここう</rt></ruby>に飛びこむとしようか藤丸君。  
-なに、慣れてしまえば愛嬌のある人だよ。  
-  
+Why is she calling me Senpai?   
+   
+**Mash:**   
+...  
+   
+**Lev:**   
+Oh, don't worry about it.   
+To her, every human your age is her senpai.   
+   
+**Lev:**   
+But it's unusual to hear her actually call someone that.   
+This might be the first time.   
+   
+**Lev:**   
+Actually, I'm intrigued.   
+Say, Mash, why do you call [♂ him /♀ her] Senpai?   
+   
+**Mash:**   
+The reason? Fujimaru is the most human-like person I've ever met.   
+   
+**Lev:**   
+Hmm. Which means?   
+   
+**Mash:**   
+I don't feel threatened.   
+So there's no reason for me to be hostile.   
+   
+**Lev:**   
+I see, that is important!   
+People at Chaldea are all a piece of work!   
+   
+**Lev:**   
+I agree with you, Mash.   
+I think you two will get along just fine!   
+   
+**Mash:**   
+...If you like Senpai Dr. Lev, the Director will probably hate Senpai.   
+   
+**Mash:**   
+...Well, why don't we hide in the restroom to boycott the orientation, then?   
+   
+**Lev:**   
+That will only make the Director more upset.   
+We're going to have to leave it to fate.   
+   
+**Lev:**   
+Shall we jump into the lions' den, Fujimaru? Hey, once you get used to her, she can be a pretty sweet person.   
+   
 ---  
-  
-**マシュ:**   
-ここが中央管制室です。  
-先輩の番号は……一桁台、最前列ですね。  
-  
-**マシュ:**   
-一番前の列の空いているところにどうぞ。  
-……先輩？　顔の色が優れないようですが？  
-  
+   
+**Mash:**   
+This is the Central Command Room. Your number, Senpai...Single digit, you're in the front row.   
+   
+**Mash:**   
+Take an empty seat in the front row.   
+...Senpai? You're looking a bit pale...  
+   
 ---  
   
 **Fujimaru 1:**   
-……ごめん、まだ頭がぼうっと……  
-  
+Sorry, I'm starting to space out again...  
+   
 ---  
   
 **Fujimaru 2:**   
-……眠い……すごく眠い……  
+...Sleepy ...So sleepy.   
   
 ---  
-  
-**マシュ:**   
-シミュレーターの後遺症ですね。  
-すぐに医務室にお連れしたいのですが……  
-  
-**E：？？？:**  
-………………。  
-  
-**レフ:**   
-無駄口は避けた方がよさそうだ。  
-これ、もう始まっているようだからね。  
-  
-**E：？？？:**  
-時間通りとはいきませんでしたが、  
-全員そろったようですね。  
-  
-**オルガマリー:**   
-特務機関カルデアにようこそ。  
-所長のオルガマリー・アニムスフィアです。  
-  
-**オルガマリー:**   
-あなたたちは各国から選抜、  
-あるいは発見された稀有な&mdash;  
-  
-**マシュ:**   
-……大丈夫ですか先輩？  
-  
+   
+**Mash:**   
+It's an after effect of the simulator.   
+I wish I could take you to the infirmary...  
+   
+**E：???:**  
+...  
+   
+**Lev:**   
+No more small talk.   
+See, the orientation's already begun.   
+   
+**E：???:**  
+Well, that wasn't on time, but looks like we're all here now.   
+   
+**Olga Marie:**   
+Welcome to Special Organization, Chaldea.   
+I'm the director, Olga Marie Animusphere.   
+   
+**Olga Marie:**   
+You have been selected, or discovered from each nation for your rare&mdash;  
+   
+**Mash:**   
+...Are you all right, Senpai?   
+   
 ---  
   
 **Fujimaru 1:**   
-……しまった。  
-  
+...Uh-oh.   
+   
 ---  
   
 **Fujimaru 2:**   
-……もしかして、寝てた？  
+...Wait, was I asleep?   
   
 ---  
-  
-**マシュ:**   
-はい。眠っていたかどうかで言えば、  
-どことなくレム睡眠だった……ような。  
-  
-**マシュ:**   
-ともあれ、所長の平手打ちで  
-完全に覚醒したようで何よりです。  
-  
-**マシュ:**   
-先輩はファーストミッションから外されたので、  
-いま先輩の部屋に案内していた&mdash;きゃっ!?  
-  
-**フォウ:**   
-フォウ！  
-  
+   
+**Mash:**   
+Yes.   
+It seemed like you were in REM sleep...  
+   
+**Mash:**   
+Anyway, the Director's slap seemed to wake you up completely. Thank goodness.   
+   
+**Mash:**   
+You've been left out of the first mission, Senpai.   
+I was taking you back to your room&mdash;Oh!   
+   
+**Fou:**   
+Fou!   
+   
 ---  
   
 **Fujimaru 1:**   
-リスが顔に……！  
-  
+A squirrel on your face!   
+   
 ---  
   
 **Fujimaru 2:**   
-危ない……！  
+Watch out!   
   
 ---  
-  
-**マシュ:**   
-い、いえ、いつもの事です、問題ありません。  
-  
-**マシュ:**   
-フォウさんはわたしの顔に奇襲をかけ、そのまま背中に  
-まわりこみ、最終的に肩へ落ち着きたいらしいのです。  
+   
+**Mash:**   
+No, no, this is normal.   
+No problem at all!   
+   
+**Mash:**   
+Fou likes to attack my face, slide around to my back, and settle on my shoulder.   
   
 ---  
   
 **Fujimaru 1:**   
-慣れているんだね  
-  
-**マシュ:**   
-はい。フォウさんがカルデアに  
-住み着いてから一年ほど経ちますから。  
-  
+So you're used to that, huh?   
+   
+**Mash:**   
+Yes. It's been a year since Fou came to live here.   
+   
 ---  
   
 **Fujimaru 2:**   
-もしかして、名付け親は君？  
-  
-**マシュ:**   
-その通りです。特に理由はありませんが、  
-直感でフォウという単語が浮かんだのです。  
-  
-**マシュ:**   
-ですが、それを見抜くとはさすが先輩。  
-先輩もかなりの直感持ちと見ました。  
-  
+Wait, are you the one who named him?   
+   
+**Mash:**   
+That's right. No special reason, the word "Fou" is the first thing that popped into my mind.   
+   
+**Mash:**   
+I'm impressed you knew that, Senpai.   
+I see you're quite perceptive yourself.   
+   
 ---  
-  
-**フォウ:**   
-フォウ。  
-クー、フォーウ！　フォーウ！  
-  
-**マシュ:**   
-……ふむふむ。どうやらフォウさんは先輩を  
-同類として迎え入れたようですね……。  
-  
-**マシュ:**   
-しかし、人間をライバル視する  
-リスのような生き物はアリなのでしょうか……  
-  
+   
+**Fou:**   
+Fou.   
+Kuuu, Fou! Fou!   
+   
+**Mash:**   
+Hmm, hmm. Apparently, Fou's embraced you as one of his own, Senpai.   
+   
+**Mash:**   
+But can a squirrel who sees humans as rivals exist in this world?   
+   
 ---  
   
 **Fujimaru 1:**   
-ライバル視されてるの？  
-  
+He sees me as a rival?   
+   
 ---  
   
 **Fujimaru 2:**   
-こっちに訊かれても困る  
+Don't look at me, I have no idea  
   
 ---  
-  
-**マシュ:**   
-まあ、フォウさんのことですから明日には  
-忘れているでしょう。それはそれとして、です。  
-  
-**マシュ:**   
-実はもう目的地に着いています。  
-こちらが先輩用の個室となります。  
+   
+**Mash:**   
+Well, knowing Fou as I do, I'm sure he'll forget it by tomorrow.   
+   
+**Mash:**   
+Actually, we've reached our destination.   
+This is your room, Senpai.   
   
 ---  
   
 **Fujimaru 1:**   
-……そうか。ここまでありがとう。  
-  
-**マシュ:**   
-なんの。先輩の頼みごとなら、<ruby>昼食<rt>ランチ</rt></ruby>を  
-おごる程度までなら承りますとも。  
-  
+...I see. Thanks for coming all this way.   
+   
+**Mash:**   
+It's fine. If you ask me, Senpai,  
+I wouldn't mind even if it's treating you to lunch.   
+   
 ---  
   
 **Fujimaru 2:**   
-マシュは何チームなんだ？  
-  
-**マシュ:**   
-ファーストミッション、Ａチームです。  
-ですのですぐに戻らないと。  
-  
+What team are you on, Mash?   
+   
+**Mash:**   
+First Mission, A Team.   
+Speaking of which, I've got to head back now.   
+   
 ---  
-  
-**フォウ:**   
-キュー……キュ！  
-  
-**マシュ:**   
-フォウさんが先輩を見てくれるのですね。  
-これなら安心です。  
-  
-**マシュ:**   
-それでは、わたしはこれで。  
-運が良ければまたお会いできると思います。  
-  
-**B：？？？:**  
-はーい、入ってまー&mdash;って、うぇええええええ!?  
-誰だ君は!?  
-  
-**B：？？？:**  
-ここは空き部屋だぞ、ボクのさぼり場だぞ!?  
-誰のことわりがあって入ってくるんだい!?  
-  
+   
+**Fou:**   
+Kyu...Kyu!   
+   
+**Mash:**   
+Fou says he'll look after you, Senpai.   
+That sets my mind at ease.   
+   
+**Mash:**   
+Now, then, I'm off.   
+If we're lucky, I think we'll meet again.   
+   
+**B：???:**  
+Okay, I'm in here&mdash;Wait?   
+Whaaaaaat? Who are you?   
+   
+**B：???:**  
+This is an empty room! It's where I slack off!   
+Who gave you permission to come in?   
+   
 ---  
   
 **Fujimaru 1:**   
-ここが部屋だと案内されたんですけど……  
-  
-**B：？？？:**  
-君の部屋？　ここが？  
-あー……そっか、ついに最後の子が来ちゃったかぁ……  
-  
+I was told that this was my room...  
+   
+**B：???:**  
+Your room? This place? Oh...  
+I see, so the last one finally showed up, huh?   
+   
 ---  
   
 **Fujimaru 2:**   
-おまえこそ何者だ  
-  
-**B：？？？:**  
-何者って、どこからどう見ても健全な、  
-真面目に働くお医者さんじゃないかな！  
-  
+Well, who are you?   
+   
+**B：???:**  
+Who am I? Isn't it obvious that I'm a healthy, diligent and hard-working doctor?   
+   
 ---  
-  
-**B：？？？:**  
-いやあ、はじめまして藤丸[♂ 君 /♀️ ちゃん]。  
-予期せぬ出会いだったけど、改めて自己紹介をしよう。  
-  
-**Dr.ロマン:**   
-ボクは医療部門のトップ、ロマニ・アーキマン。  
-なぜかみんなからDr.ロマンと略されていてね。  
-  
-**Dr.ロマン:**   
-理由は分からないけど言いやすいし、  
-君も遠慮なくロマンと呼んでくれていいとも。  
-  
-**Dr.ロマン:**   
-実際、ロマンって響きはいいよね。格好いいし、  
-どことなく甘くていいかげんな感じがするし。  
-  
+   
+**B：???:**  
+Well, nice to meet you, Fujimaru. Didn't think I would run into you like this, but let me introduce myself again.   
+   
+**Dr. Roman:**   
+I'm the head of the medical department, Romani Archaman. For some reason, people just call me Dr. Roman.   
+   
+**Dr. Roman:**   
+I don't know why, but it's easier to pronounce, so go ahead and call me Roman.   
+   
+**Dr. Roman:**   
+Fact is, Roman has a nice ring to it, no?   
+It sounds cool and vaguely sweet.   
+   
 ---  
   
 **Fujimaru 1:**   
-はじめまして、ドクター。  
-  
-**Dr.ロマン:**   
-うん、はじめまして。  
-今後ともよろしく。  
-  
+Nice to meet you, Doctor.   
+   
+**Dr. Roman:**   
+Yes, nice to meet you.   
+I look forward to getting to know you.   
+   
 ---  
   
 **Fujimaru 2:**   
-……ああ、ゆるふわ系なんだ……  
-  
-**Dr.ロマン:**   
-ふわふわ？　ああ、髪型のコト？  
-時間がなくてね、いつも適当にセットしてるんだ。  
-  
+...Oh, so you're the fluffy type?   
+   
+**Dr. Roman:**   
+Fluffy? Oh, you mean my hair?   
+I'm normally pretty busy so I just let it grow.   
+   
 ---  
-  
-**フォウ:**   
-…………。  
-  
-**Dr.ロマン:**   
-あれ？　君の肩にいるの、もしかして噂の怪生物？  
-うわあ、はじめて見た！  
-  
-**Dr.ロマン:**   
-マシュから聞いてはいたけど、ほんとにいたんだねぇ……  
-どれ、ちょっと手なずけてみるかな。  
-  
-**Dr.ロマン:**   
-はい、お手。うまくできたらお菓子をあげるぞ。  
-  
-**フォウ:**   
-…………フウ。  
-  
-**Dr.ロマン:**   
-あ、あれ。いま、すごく哀れなものを見るような目で  
-無視されたような……。  
-  
-**Dr.ロマン:**   
-と、とにかく話は見えてきたよ。  
-  
-**Dr.ロマン:**   
-君は今日来たばかりの新人で、  
-所長のカミナリを受けたってところだろ？  
-  
-**Dr.ロマン:**   
-ならボクと同類だ。  
-何を隠そう、ボクも所長に叱られて待機中だったんだ。  
-  
-**Dr.ロマン:**   
-もうすぐレイシフト実験が始まるのは知ってるね？  
-スタッフは総出で現場にかり出されている。  
-  
-**Dr.ロマン:**   
-けどボクはみんなの健康管理が仕事だから。  
-正直、やるコトがなかった。  
-  
-**Dr.ロマン:**   
-<ruby>霊子筐体<rt>コフィン</rt></ruby>に入った魔術師たちの  
-バイタルチェックは機械の方が確実だしね。  
-  
-**Dr.ロマン:**   
-所長に“ロマニが現場にいると空気が緩むのよ！”って  
-追い出されて、仕方なくここで拗ねていたんだ。  
-  
-**Dr.ロマン:**   
-でも、そんな時にキミが来てくれた。  
-地獄に仏、ぼっちにメル友とはこのコトさ。  
-  
-**Dr.ロマン:**   
-所在ない同士、ここでのんびり世間話でも  
-して交友を深めようじゃあないか！  
+   
+**Fou:**   
+...  
+   
+**Dr. Roman:**   
+Huh? On your shoulder - is that the mysterious creature I've heard so much about? Whoa, nice to meet you!   
+   
+**Dr. Roman:**   
+Mash told me a lot about him, but I didn't really think he existed...Hey, why don't I teach him some tricks?   
+   
+**Dr. Roman:**   
+Okay, shake hand.   
+If you do it well, I'll give you a snack.   
+   
+**Fou:**   
+...Fou.   
+   
+**Dr. Roman:**   
+Huh, what? He gave me a really pitying look and then completely ignored me...  
+   
+**Dr. Roman:**   
+A-Anyway, I think I get what's going on.   
+   
+**Dr. Roman:**   
+You're the rookie who just got here then got on the Director's bad side?   
+   
+**Dr. Roman:**   
+Then you and I are alike.   
+Just so you know, I got yelled at by her too.   
+   
+**Dr. Roman:**   
+You know the Rayshift experiment's about to start, right? The entire staff's been sent to help out.   
+   
+**Dr. Roman:**   
+But since my job is to look after everyone's health.   
+I had nothing to do.   
+   
+**Dr. Roman:**   
+The machines are more accurate at reading the vitals of the mages who are in the Coffins.   
+   
+**Dr. Roman:**   
+The Director said, "When you're here, Romani, everyone slacks off! " Then she threw me out. So I've been sulking here.   
+   
+**Dr. Roman:**   
+But that's when you showed up.   
+This is what they called a blessing in disguise right?   
+   
+**Dr. Roman:**   
+Since we both have nowhere to go, why don't we spend some time and deepen our friendship!   
   
 ---  
   
 **Fujimaru 1:**   
-そうですね。そもそもここ[♂ オレ /♀️ わたし]の部屋だし。  
-  
-**Dr.ロマン:**   
-うん。つまりボクは友人の部屋に遊びにきたって事だ！  
-ヤッホゥ、新しい友達ができたぞぅ！  
-  
+Sure. This is my room, anyhow.   
+   
+**Dr. Roman:**   
+Yeah. So that means I'm visiting a friend's room!   
+Woo hoo! I've made a new friend!   
+   
 ---  
   
 **Fujimaru 2:**   
-別に、ぼっちじゃないけど。  
-  
-**Dr.ロマン:**   
-な……来たばかりの新人なのにもう友人がいるなんて、  
-なんてコミュ力なんだ……！　あやかりたい！  
-  
+It's not like I'm a loner.   
+   
+**Dr. Roman:**   
+Hey...You already have a friend even though you just got here...What a people person! I want in!   
+   
 ---  
-  
-**Dr.ロマン:**   
-……とまあ、以上がこのカルデアの構造だ。  
-標高6000メートルの雪山の中に作られた地下工房で……  
-  
-**レフ:**   
-ロマニ、あと少しでレイシフト開始だ。  
-万が一に備えてこちらに来てくれないか？  
-  
-**レフ:**   
-Ａチームの状態は万全だが、Ｂチーム以下、  
-慣れていない者に若干の変調が見られる。  
-  
-**レフ:**   
-これは不安からくるものだろうな。  
-コフィンの中はコクピット同然だから。  
-  
-**Dr.ロマン:**   
-やあレフ。それは気の毒だ。  
-ちょっと麻酔をかけに行こうか。  
-  
-**レフ:**   
-ああ、急いでくれ。いま医務室だろ？  
-そこからなら二分で到着できる筈だ。  
-  
+   
+**Dr. Roman:**   
+...So that's the structure of Chaldea. An underground workshop built on a snowy mountain 6,000 meters above sea level...  
+   
+**Lev:**   
+Romani, we're going to start the Rayshift soon.   
+Could you come in case there's an emergency?   
+   
+**Lev:**   
+The A Team's in perfect condition, but B Team on down is less experienced and they are displaying some slight abnormalities.   
+   
+**Lev:**   
+It probably comes from anxiety.   
+The inside of that Coffin is like a cockpit.   
+   
+**Dr. Roman:**   
+Hey Lev, I feel bad for them.   
+Why don't I give them some anesthesia?   
+   
+**Lev:**   
+Yeah, hurry up, will you? If you're in the infirmary, then you can get here in two minutes.   
+   
 ---  
   
 **Fujimaru 1:**   
-ここ、医務室じゃないですよね？  
-  
+This isn't the infirmary, is it?   
+   
 ---  
   
 **Fujimaru 2:**   
-……隠れてさぼってるから……  
+...but you're just hiding and slacking...  
   
 ---  
-  
-**Dr.ロマン:**   
-……あわわ……それは言わないでほしい……  
-ここからじゃどうあっても五分はかかるぞ……  
-  
-**Dr.ロマン:**   
-ま、少しぐらいの遅刻は許されるよね。  
-Ａチームは問題ないようだし。  
-  
-**Dr.ロマン:**   
-ああ、今の男はレフ・ライノールと言うんだ。  
-  
-**Dr.ロマン:**   
-あの<ruby>疑似天体<rt>カルデアス</rt></ruby>を観るための望遠鏡&mdash;  
-近未来観測レンズ・シバを作った魔術師だ。  
-  
-**Dr.ロマン:**   
-シバはカルデアスの観測だけじゃなく、この施設内の  
-ほぼ全域を監視し、写し出すモニターでもある。  
-  
-**Dr.ロマン:**   
-ちなみにレイシフトの中枢を担う召喚・喚起システムを  
-構築したのは前所長。  
-  
-**Dr.ロマン:**   
-その理論を実現させるための<ruby>疑似霊子演算器<rt>ぎじりょうしえんざんき</rt></ruby>……ようは  
-スパコンだね、これを提供してくれたのがアトラス院。  
-  
-**Dr.ロマン:**   
-このように実に多くの才能が集結して、  
-このミッションは行われる。  
-  
-**Dr.ロマン:**   
-ボクみたいな平凡な医者が立ち会ってもしょうが  
-ないけど、お呼びとあらば行かないとね。  
-  
-**Dr.ロマン:**   
-お喋りに付き合ってくれてありがとう、  
-藤丸[♂ 君 /♀️ さん]。  
-  
-**Dr.ロマン:**   
-落ち着いたら医務室を訪ねに来てくれ。  
-今度は美味しいケーキぐらいはご馳走するよ。  
-  
-**Dr.ロマン:**   
-なんだ？　明かりが消えるなんて、何か&mdash;  
-  
-**アナウンスＡ:**   
-緊急事態発生。緊急事態発生。  
-中央発電所、及び中央管制室で火災が発生しました。  
-  
-**アナウンスＡ:**   
-中央区画の隔壁は90秒後に閉鎖されます。  
-職員は速やかに第二ゲートから退避してください。  
-  
-**アナウンスＡ:**   
-繰り返します。  
-中央発電所、及び中央&mdash;  
-  
-**Dr.ロマン:**   
-今のは爆発音か!?  
-一体なにが起こっている……!?  
-  
-**Dr.ロマン:**   
-モニター、管制室を映してくれ！  
-みんなは無事なのか!?  
-  
+   
+**Dr. Roman:**   
+Whoa...Please don't mention that...  
+It's gonna take five minutes from here, no matter what...  
+   
+**Dr. Roman:**   
+Well, I think they'll forgive me for being a little late.   
+A Team has no issues anyway.   
+   
+**Dr. Roman:**   
+Oh, that guy's named Lev Lainur.   
+   
+**Dr. Roman:**   
+He's the mage who created the Near-Future Observation Lens, Sheba&mdash; A telescope used to observe that pseudo-planet, Chaldeas.   
+   
+**Dr. Roman:**   
+Sheba not only observes Chaldeas, but also serves as a surveillance system for most of this facility.   
+   
+**Dr. Roman:**   
+Also, it was the previous director who built the summoning/unsummoning system, which is the foundation of the Rayshift tech.   
+   
+**Dr. Roman:**   
+To actualize that theory, the Pseudo-Spiritron Calculation Engine, (basically a super computer) was provided by the Atlas Academy.   
+   
+**Dr. Roman:**   
+All these different talents have been gathered to carry out this mission.   
+   
+**Dr. Roman:**   
+It's pointless for an ordinary doctor like me to be there, but if I'm summoned, I must go.   
+   
+**Dr. Roman:**   
+Thanks for chatting with me, Fujimaru!   
+   
+**Dr. Roman:**   
+When you get settled in, come by the infirmary.   
+Next time, I'll treat you to some yummy cake.   
+   
+**Dr. Roman:**   
+What's this?   
+The lights are out. Did something&mdash;  
+   
+**Announcement A:**   
+Emergency. Emergency. A fire has broken out in the Central Power Station and the Central Command Room.   
+   
+**Announcement A:**   
+Central Area's containment wall will activate in 90 seconds. All staff must evacuate from Gate 2 at once.   
+   
+**Announcement A:**   
+Containment wall will close in 40 seconds Those remain in Central Area, evacuate immediately&mdash;  
+   
+**Dr. Roman:**   
+Was that an explosion just now?   
+What on earth is happening?   
+   
+**Dr. Roman:**   
+Monitor, show us the Command Room!   
+Is everybody all right?   
+   
 ---  
   
 **Fujimaru 1:**   
-……ひどい……  
-  
+...So awful...  
+   
 ---  
   
 **Fujimaru 2:**   
-……管制室って、<ruby>あの娘<rt>マシュ</rt></ruby>は……？  
+...Command Room? What about Mash?   
   
 ---  
-  
-**Dr.ロマン:**   
-これは&mdash;  
-  
-**Dr.ロマン:**   
-藤丸、すぐに避難してくれ。  
-ボクは管制室に行く。  
-  
-**Dr.ロマン:**   
-もうじき隔壁が閉鎖するからね。  
-その前にキミだけでも外に出るんだ！  
-  
-**フォウ:**   
-……………  
-  
+   
+**Dr. Roman:**   
+What's this&mdash;  
+   
+**Dr. Roman:**   
+Fujimaru, evacuate right now.   
+I'm going to the Command Room.   
+   
+**Dr. Roman:**   
+The containment wall is about to close.   
+Get yourself out before it's too late!   
+   
+**Fou:**   
+...  
+   
 ---  
   
 **Fujimaru 1:**   
-このまま逃げだすのは……  
-  
+I can't just run away now...  
+   
 ---  
   
 **Fujimaru 2:**   
-わかってる。マシュを助けに行こう！  
+I know. Let's go save Mash!   
   
 ---  
-  
-**フォウ:**   
-フォウ！  
-  
-**Dr.ロマン:**   
-いや、なにしてるんだキミ!?  
-方向が逆だ、第二ゲートは向こうだよ!?  
-  
-**Dr.ロマン:**   
-まさかボクに付いてくるつもりなのか!?  
-そりゃあ人手があった方が助かるけど……  
-  
-**Dr.ロマン:**   
-ああもう、言い争ってる時間も惜しい！  
-隔壁が閉鎖する前に戻るんだぞ！  
-  
-**Dr.ロマン:**   
-………………生存者はいない。  
-無事なのはカルデアスだけだ。  
-  
-**Dr.ロマン:**   
-ここが爆発の基点だろう。  
-これは事故じゃない。人為的な破壊工作だ。  
-  
-**アナウンスＡ:**   
-動力部の停止を確認。  
-発電量が不足しています。  
-  
-**アナウンスＡ:**   
-予備電源への切り替えに異常　が　あります。  
-職員は　手動で　切り替えてください。  
-  
-**アナウンスＡ:**   
-隔壁閉鎖まで　あと　40秒  
-中央区画に残っている職員は速やかに&mdash;  
-  
-**Dr.ロマン:**   
-……ボクは地下の発電所に行く。  
-カルデアの火を止める訳にはいかない。  
-  
-**Dr.ロマン:**   
-キミは急いで来た道を戻るんだ。  
-まだギリギリで間に合う。  
-  
-**Dr.ロマン:**   
-いいな、寄り道はするんじゃないぞ！  
-外に出て、外部からの救助を待つんだ！  
-  
-**藤丸:**   
-………………。  
-  
-**アナウンスＢ:**   
-システム　レイシフト最終段階に移行します。  
-座標　西暦2004年　1月　30日　日本　冬木  
-  
-**アナウンスＢ:**   
-ラプラスによる転移保護　成立。  
-特異点への因子追加枠　確保。  
-  
-**アナウンスＢ:**   
-アンサモンプログラム　セット。  
-マスターは最終調整に入ってください。  
-  
+   
+**Fou:**   
+Fou!   
+   
+**Dr. Roman:**   
+Wait, what are you doing?   
+Wrong way, Gate 2's over there!   
+   
+**Dr. Roman:**   
+Don't tell me you're coming with me?   
+Sure the more helping hands the better, but...  
+   
+**Dr. Roman:**   
+Oh man, there's no time to argue!   
+Make sure you get back before it's too late!   
+   
+**Dr. Roman:**   
+...No survivors.   
+Only Chaldeas is safe.   
+   
+**Dr. Roman:**   
+This was where the explosion originated.   
+This was no accident, it was sabotage.   
+   
+**Announcement A:**   
+Generator operation stopped.   
+Power level critical.   
+   
+**Announcement A:**   
+Switch to the backup generator, error.   
+Please make switch manually.   
+   
+**Announcement A:**   
+Containment wall will close in 40 seconds Those remain in Central Area, evacuate immediately&mdash;  
+   
+**Dr. Roman:**   
+...I'm heading down to the underground power station.   
+We can't let Chaldea's light go out.   
+   
+**Dr. Roman:**   
+Hurry up and go back the way we came.   
+You can still make it.   
+   
+**Dr. Roman:**   
+Listen, don't stop anywhere on the way!   
+Go outside, and wait for help!   
+   
+**Fujimaru:**   
+...  
+   
+**Announcement B:**   
+System switching to the final phase of Rayshift.   
+Coordinates, AD 2004, January, 30th, Fuyuki, Japan.   
+   
+**Announcement B:**   
+Laplace's shifting protection established.   
+Singularity's additional factor slot secured.   
+   
+**Announcement B:**   
+Unsummon Program set.   
+Please start final adjustments.   
+   
 ---  
   
 **Fujimaru 1:**   
-……様子がおかしい。急いで戻らないと……  
-  
+...Something's wrong. Got to hurry back...  
+   
 ---  
   
 **Fujimaru 2:**   
-……ギリギリまで生存者を探すべきでは……  
+...I should look for survivors till the last minute...  
   
 ---  
-  
-**藤丸:**   
-……！  
-  
-**マシュ:**   
-………………、あ。  
+   
+**Fujimaru:**   
+!!!   
+   
+**Mash:**   
+...Oh.   
   
 ---  
   
 **Fujimaru 1:**   
-……しっかり、いま助ける……！  
-  
-**マシュ:**   
-…………いい、です……助かりません、から。  
-それより、はやく、逃げないと。  
-  
+...Hang in there, I'll get you out now!   
+   
+**Mash:**   
+...It's all...right. You can't...save...me.   
+Don't mind me, please...Run.   
+   
 ---  
   
 **Fujimaru 2:**   
-……（この傷じゃ、もう……）  
-  
-**マシュ:**   
-…………はい。ご理解がはやくて、たすかります。  
-だから、藤丸さんもはやく、逃げないと。  
-  
+(With those wounds, she's...)  
+   
+**Mash:**   
+...That's right, thank you...For your understanding.   
+Please Fujimaru, you need to...get out of here.   
+   
 ---  
-  
-**藤丸:**   
-！？  
-  
-**マシュ:**   
-あ………  
-  
-**アナウンスＢ:**   
-観測スタッフに警告。  
-カルデアスの状態が変化しました。  
-  
-**アナウンスＢ:**   
-シバによる近未来観測データを書き換えます。  
-  
-**アナウンスＢ:**   
-近未来百年までの地球において  
-人類の痕跡は　発見　できません。  
-  
-**アナウンスＢ:**   
-人類の生存は　確認　できません。  
-人類の未来は　保証　できません。  
-  
-**マシュ:**   
-カルデアスが……真っ赤に、なっちゃいました……  
-いえ、そんな、コト、より&mdash;  
-  
-**アナウンスＡ:**   
-中央隔壁　封鎖します。  
-館内洗浄開始まで　あと　180秒です  
-  
-**マシュ:**   
-……隔壁、閉まっちゃい、ました。  
-……もう、外に、は。  
-  
+   
+**Fujimaru:**   
+!?   
+   
+**Mash:**   
+Ah...  
+   
+**Announcement B:**   
+Warning all observation staff.   
+Chaldeas' state has changed.   
+   
+**Announcement B:**   
+Now rewriting Sheba's near-future prediction data.   
+   
+**Announcement B:**   
+Unable to detect the existence of mankind 100 years in the near-future on Earth.   
+   
+**Announcement B:**   
+Unable to confirm human survivors.   
+Unable to guarantee mankind's future.   
+   
+**Mash:**   
+Chaldeas...has turned bright red...  
+No, never mind, that&mdash;  
+   
+**Announcement A:**   
+Central Area, sealed.   
+180 seconds till internal containment procedure.   
+   
+**Mash:**   
+...they, shut off, the area.   
+...Now, we can't, get out.   
+   
 ---  
   
 **Fujimaru 1:**   
-……うん、そうだね。一緒だね。  
-  
+...That's right. We're in the same boat now.   
+   
 ---  
   
 **Fujimaru 2:**   
-……なんとかなるさ。  
-  
----  
-  
-**マシュ:**   
-……………。  
-  
-**アナウンスＡ:**   
-コフィン内マスターのバイタル  
-基準値に　達していません。  
-  
-**アナウンスＡ:**   
-レイシフト　定員に　達していません。  
-該当マスターを検索中・・・・発見しました。  
-  
-**アナウンスＡ:**   
-適応番号48　藤丸　を  
-マスターとして　再設定　します。  
-  
-**アナウンスＡ:**   
-アンサモンプログラム　スタート。  
-霊子変換を開始　します。  
-  
-**マシュ:**   
-…………あの……………せん、ぱい  
-  
-**マシュ:**   
-手を、握ってもらって、いいですか？  
-  
-**アナウンス:**   
-レイシフト開始まで　あと３  
-  
-**アナウンス:**   
-２  
-  
-**アナウンス:**   
-１  
-  
-**アナウンス:**   
-全工程　<ruby>完了<rt>クリア</rt></ruby>。  
-ファーストオーダー　実証を　開始　します。  
-  
-## 第1節: 燃える街  
-  
-**？？？:**  
-キュウ……キュウ  
-  
-**？？？:**  
-フォウ……  
-フー、フォーウ……  
-  
+...We'll figure it out.   
+   
+**Mash:**   
+...  
+   
+**Announcement A:**   
+Coffin Vitals: Masters Baseline not reached.   
+   
+**Announcement A:**   
+Rayshift requirement not met.   
+Searching for qualifying Master...Found.   
+   
+**Announcement A:**   
+Candidate No. 48, Fujimaru reset as Master.   
+   
+**Announcement A:**   
+Unsummon Program, start.   
+Spiritron Conversion, start.   
+   
+**Mash:**   
+...Um...Sen...pai?   
+   
+**Mash:**   
+Would you mind...  
+Holding my hand?   
+   
+**Announcement:**   
+Rayshift starting in 3   
+   
+**Announcement:**   
+2   
+   
+**Announcement:**   
+1   
+   
+**Announcement:**   
+All procedures clear.   
+First Order, commencing operation.   
+   
+## Section 1: Burning City  
+   
+**???:**  
+Kyuu...  
+Kyuu.   
+   
+**???:**  
+Fou...  
+Fou...Fou...  
+   
 ---  
   
 **Fujimaru 1:**   
-……この鳴き声は……  
-  
+...This sound...  
+   
 ---  
   
 **Fujimaru 2:**   
-……また、頬を舐められたような……  
+...It's like something licked my cheek again...  
   
 ---  
-  
-**？？？:**  
-先輩。  
-起きてください、先輩。  
-  
-**？？？:**  
-……起きません。  
-ここは正式な敬称で呼びかけるべきでしょうか……  
-  
-**？？？:**  
-&mdash;マスター。  
-マスター、起きてください。起きないと殺しますよ。  
-  
-**藤丸:**   
-………………、&mdash;  
-  
-**マシュ:**   
-良かった。  
-目が覚めましたね先輩。無事で何よりです。  
+   
+**???:**  
+Senpai.   
+Please wake up, Senpai.   
+   
+**???:**  
+...Won't wake up.   
+Maybe I should use the official title...  
+   
+**???:**  
+&mdash;Master, please wake up.   
+If you don't wake up, I will kill you.   
+   
+**Fujimaru:**   
+&mdash;  
+   
+**Mash:**   
+Thank goodness you're awake now, Senpai!   
+I'm so glad you're safe.   
   
 ---  
   
 **Fujimaru 1:**   
-マシュ、そっちこそ無事なのか!?  
-  
-**マシュ:**   
-……………それについては後ほど説明します。  
-その前に、今は周りをご覧ください。  
-  
+Mash, are you okay?   
+   
+**Mash:**   
+...I'll explain later.   
+First, take a look around you, please.   
+   
 ---  
   
 **Fujimaru 2:**   
-いま、殺しますよ、とか言わなかった!?  
-  
-**マシュ:**   
-……言い間違えました。  
-正しくは殺されますよ、でした。  
-  
-**マシュ:**   
-……その、想定外のことばかりで混乱しています。  
-落ち着きたいところですが、今は周りをご覧ください。  
-  
----  
-  
-**？？？:**  
-Ｇｉ&mdash;ＧＡＡＡＡＡＡＡＡＡＡＡＡ！  
-  
-**マシュ:**   
-&mdash;言語による意思の疎通は不可能。  
-&mdash;敵性生物と判断します。  
-  
-**マシュ:**   
-マスター、指示を。  
-わたしと先輩の二人で、この事態を切り抜けます！  
-  
-**--ARROW--**  
-  
-**マシュ:**   
-&mdash;ふう。  
-不安でしたが、なんとかなりました。  
-  
-**マシュ:**   
-お怪我はありませんか先輩。  
-お腹が痛かったり腹部が重かったりしませんか？  
-  
----  
-  
-**Fujimaru 1:**   
-今のは何だったんだ……!?  
-  
-**マシュ:**   
-……わかりません。この時代はおろか、  
-わたしたちの時代にも存在しないものでした。  
-  
-**マシュ:**   
-あれが特異点の原因……のようなもの、  
-と言っても差し違えはないような、あるような。  
-  
----  
-  
-**Fujimaru 2:**   
-マシュ、あんなに強かったのか!?  
-  
-**マシュ:**   
-……いえ、戦闘訓練はいつも居残りでした。  
-逆上がりもできない研究員。それがわたしです。  
-  
-**マシュ:**   
-わたしが今、あのように戦えたのは&mdash;  
-  
----  
-  
-**Dr.ロマン:**   
-ああ、やっと繋がった！  
-もしもし、こちらカルデア管制室だ、聞こえるかい!?  
-  
-**マシュ:**   
-こちらＡチームメンバー、マシュ・キリエライトです。  
-現在、特異点Ｆにシフト完了しました。  
-  
-**マシュ:**   
-同伴者は藤丸一名。  
-心身共に問題ありません。  
-  
-**マシュ:**   
-レイシフト適応、マスター適応、ともに良好。  
-藤丸を正式な調査員として登録してください。  
-  
-**Dr.ロマン:**   
-……やっぱり藤丸[♂ 君 /♀️ ちゃん]も  
-レイシフトに巻きこまれたのか……  
-  
-**Dr.ロマン:**   
-コフィンなしでよく<ruby>意味消失<rt>いみしょうしつ</rt></ruby>に耐えてくれた。  
-それは素直に嬉しい。  
-  
-**Dr.ロマン:**   
-それと、マシュ……君が無事なのも嬉しいんだけど、  
-その格好はどういうコトなんだい!?  
-  
-**Dr.ロマン:**   
-ハレンチすぎる！  
-ボクはそんな子に育てた覚えはないぞ!?  
-  
-**マシュ:**   
-……これは、変身したのです。  
-カルデアの制服では先輩を守れなかったので。  
-  
-**Dr.ロマン:**   
-変身……？　変身って、なに言ってるんだマシュ？  
-頭でも打ったのか？　それともやっぱりさっきので……  
-  
-**マシュ:**   
-&mdash;Dr.ロマン。ちょっと黙って。  
-  
-**マシュ:**   
-わたしの状態をチェックしてください。  
-それで状況は理解していただけると思います。  
-  
-**Dr.ロマン:**   
-キミの身体状況を？  
-お……おお、おおおぉぉおおお!?  
-  
-**Dr.ロマン:**   
-身体能力、魔力回路、すべてが向上している！  
-これじゃ人間というより&mdash;  
-  
-**マシュ:**   
-はい。サーヴァントそのものです。  
-  
-**マシュ:**   
-経緯は覚えていませんが、わたしはサーヴァントと  
-融合した事で一命を取り留めたようです。  
-  
-**マシュ:**   
-今回、特異点Ｆの調査・解決のため、カルデアでは  
-事前にサーヴァントが用意されていました。  
-  
-**マシュ:**   
-そのサーヴァントも先ほどの爆破でマスターを失い、  
-消滅する運命にあった。  
-  
-**マシュ:**   
-ですがその直前、  
-彼はわたしに契約をもちかけてきました。  
-  
-**マシュ:**   
-英霊としての能力と宝具を譲り渡す代わりに、  
-この特異点の原因を排除してほしい、と。  
-  
-**Dr.ロマン:**   
-英霊と人間の融合……デミ・サーヴァント。  
-カルデア六つ目の実験だ。  
-  
-**Dr.ロマン:**   
-そうか。ようやく成功したのか。  
-では、キミの中に英霊の意識があるのか？  
-  
-**マシュ:**   
-……いえ、彼はわたしに戦闘能力を託して消滅しました。  
-  
-**マシュ:**   
-最後まで真名を告げずに。  
-ですので、わたしは自分がどの英霊なのか、  
-  
-**マシュ:**   
-自分が手にしたこの武器がどのような宝具なのか、  
-現時点ではまるで判りません。  
-  
-**Dr.ロマン:**   
-……そうなのか。だがまあ、不幸中の幸いだな。  
-召喚したサーヴァントが協力的とはかぎらないからね。  
-  
-**Dr.ロマン:**   
-けどマシュがサーヴァントになったのなら話は早い。  
-なにしろ全面的に信頼できる。  
-  
-**Dr.ロマン:**   
-藤丸[♂ 君 /♀️ ちゃん]。  
-そちらに無事シフトできたのはキミだけのようだ。  
-  
-**Dr.ロマン:**   
-そしてすまない。  
-何も事情を説明しないままこんな事になってしまった。  
-  
-**Dr.ロマン:**   
-わからない事だらけだと思うが、  
-どうか安心してほしい。  
-  
-**Dr.ロマン:**   
-キミには既に強力な武器がある。  
-マシュという、人類最強の兵器がね。  
-  
-**マシュ:**   
-……最強というのは、どうかと。  
-たぶん言い過ぎです。後で責められるのはわたしです。  
-  
-**Dr.ロマン:**   
-まあまあ。サーヴァントはそういうものなんだって  
-藤丸[♂ 君 /♀️ ちゃん]に理解してもらえればいいんだ。  
-  
-**Dr.ロマン:**   
-ただし藤丸[♂ 君 /♀️ ちゃん]、サーヴァントは頼もしい  
-味方であると同時に、弱点もある。  
-  
-**Dr.ロマン:**   
-それは魔力の供給源となる人間……  
-マスターがいなければ消えてしまう、という点だ。  
-  
-**Dr.ロマン:**   
-現在データを解析中だが、これによるとマシュはキミの  
-<ruby>使い魔<rt>サーヴァント</rt></ruby>として成立している。  
-  
-**Dr.ロマン:**   
-つまり、キミがマシュの<ruby>主<rt>マスター</rt></ruby>なんだ。  
-キミが初めて契約した英霊が彼女、という事だね。  
-  
----  
-  
-**Fujimaru 1:**   
-自分がマシュの、マスター……？  
-  
----  
-  
-**Fujimaru 2:**   
-……あの、話についていけないんですが……  
-  
----  
-  
-**Dr.ロマン:**   
-うん、当惑するのも無理はない。キミにはマスターと  
-サーヴァントの説明さえしていなかったし。  
-  
-**Dr.ロマン:**   
-いい機会だ、詳しく説明しよう。  
-今回のミッションには二つの新たな試みがあって……  
-  
-**マシュ:**   
-ドクター、通信が乱れています。  
-通信途絶まで、あと十秒。  
-  
-**Dr.ロマン:**   
-むっ、予備電源に替えたばかりでシバの出力が安定して  
-いないのか。仕方ない、説明は後ほど。  
-  
-**Dr.ロマン:**   
-二人とも、そこから２キロほど移動した先に  
-霊脈の強いポイントがある。  
-  
-**Dr.ロマン:**   
-何とかそこまで辿り着いてくれ。  
-そうすればこちらからの通信も安定する。  
-  
-**Dr.ロマン:**   
-いいかな、くれぐれも無茶な行動は控えるように。  
-こっちもできるかぎり早く電力を&mdash;  
-  
-**マシュ:**   
-………………。  
-  
----  
-  
-**Fujimaru 1:**   
-……消えちゃったね、通信。  
-  
-**マシュ:**   
-まあ、ドクターのする事ですから。  
-いつもここぞというところで頼りになりません。  
-  
----  
-  
-**Fujimaru 2:**   
-……仕方ない。移動しよう。  
-  
-**マシュ:**   
-はい。頼もしいです、先輩。  
-実はものすごく怖かったので、助かります。  
-  
----  
-  
-**フォウ:**   
-キュ。  
-フー、フォーウ！  
-  
-**マシュ:**   
-そうでした。フォウさんもいてくれたんですね。  
-応援、ありがとうございます。  
-  
-**マシュ:**   
-どうやらフォウさんは先輩と一緒にこちらに  
-レイシフトしてしまったようです。  
-  
-**マシュ:**   
-……あ。  
-でも、ドクターには報告し忘れてしまいました……  
-  
-**フォウ:**   
-キュ。フォウ、キャーウ！  
-  
----  
-  
-**Fujimaru 1:**   
-ドクターなんて気にするな、だってさ  
-  
----  
-  
-**マシュ:**   
-そうですね。フォウさんの事はまた後で、  
-タイミングを見て報告します。  
-  
-**マシュ:**   
-まずはドクターの言っていた<ruby>座標<rt>ポイント</rt></ruby>を目指しましょう。  
-そこまで行けばベースキャンプも作れるはずです。  
-  
-## 第2節: 霊脈地へ  
-  
-**マシュ:**   
-先輩。もうじきドクターに  
-指定されたポイントに到着します。  
-  
-**マシュ:**   
-しかし……見渡すかぎりの炎ですね。  
-資料にあるフユキとはまったく違います。  
-  
-**マシュ:**   
-資料では平均的な地方都市であり、  
-2004年にこんな災害が起きた事はない筈ですが……  
-  
-**マシュ:**   
-大気中の<ruby>魔力<rt>マナ</rt></ruby>濃度も異常です。  
-これではまるで古代の地球のような……  
-  
-**？？？:**  
-キャアーーーーー！  
-  
----  
-  
-**Fujimaru 1:**   
-今の悲鳴は!?  
-  
----  
-  
-**Fujimaru 2:**   
-……イヤな予感がするぞ。  
-  
----  
-  
-**マシュ:**   
-どう聞いても女性の悲鳴です。  
-急ぎましょう、先輩！  
-  
-**オルガマリー:**   
-何なの、何なのよコイツら!?　なんだってわたし  
-ばっかりこんな目に遭わなくちゃいけないの!?  
-  
-**オルガマリー:**   
-もうイヤ、来て、助けてよレフ！  
-いつだって貴方だけが助けてくれたじゃない！  
-  
-**マシュ:**   
-オルガマリー所長……!?  
-  
-**オルガマリー:**   
-あ、貴方たち!?  
-ああもう、いったい何がどうなっているのよーーっ！  
-  
-**--ARROW--**  
-  
-**マシュ:**   
-戦闘、終了しました。  
-お怪我はありませんか、所長。  
-  
-**オルガマリー:**   
-………………。  
-………………どういう事？  
-  
-**マシュ:**   
-所長？　……ああ、わたしの状況ですね。  
-信じがたい事だとは思いますが、実は&mdash;  
-  
-**オルガマリー:**   
-サーヴァントとの融合、デミ・サーヴァントでしょ。  
-そんなの見ればわかるわよ。  
-  
-**オルガマリー:**   
-わたしが訊きたいのは、  
-どうして今になって成功したかって話よ！  
-  
-**オルガマリー:**   
-いえ、それ以上に貴方！  
-貴方よ、わたしの演説に遅刻した一般人！  
-  
-**藤丸:**   
-！？  
-  
-**オルガマリー:**   
-なんでマスターになっているの!?  
-サーヴァントと契約できるのは一流の魔術師だけ！  
-  
-**オルガマリー:**   
-アンタなんかがマスターになれるハズないじゃない！  
-その子にどんな乱暴を働いて言いなりにしたの!?  
-  
----  
-  
-**Fujimaru 1:**   
-[♂ 誤解にも程がある！ /♀️ 誤解にも程があります！]  
-  
----  
-  
-**Fujimaru 2:**   
-そんなこと言われても……  
-  
----  
-  
-**マシュ:**   
-それは誤解です所長。  
-強引に契約を結んだのは、むしろわたしの方です。  
-  
-**オルガマリー:**   
-なんですって？  
-  
-**マシュ:**   
-経緯を説明します。  
-その方がお互いの状況把握にも繋がるでしょう。  
-  
-**マシュ:**   
-……以上です。わたしたちはレイシフトに巻きこまれ、  
-ここ冬木に転移してしまいました。  
-  
-**マシュ:**   
-他に転移したマスター適性者はいません。  
-所長がこちらで合流できた唯一の人間です。  
-  
-**マシュ:**   
-でも希望ができました。所長がいらっしゃるのなら、  
-他に転移が成功している適性者も……  
-  
-**オルガマリー:**   
-……いないわよ。  
-それはここまでで確認しているわ。  
-  
-**オルガマリー:**   
-……認めたくないけど、どうしてわたしとそいつが  
-冬木にシフトしたのかわかったわ。  
-  
-**マシュ:**   
-生き残った理由に説明がつくのですか？  
-  
-**オルガマリー:**   
-消去法……いえ、共通項ね。わたしもあなたもそいつも、  
-<u>コフィンに入っていなかった</u>。  
-  
-**オルガマリー:**   
-生身のままのレイシフトは成功率は激減するけど、  
-ゼロにはならない。  
-  
-**オルガマリー:**   
-一方、コフィンにはブレーカーがあるの。  
-シフトの成功率が95％を下回ると電源が落ちるのよ。  
-  
-**オルガマリー:**   
-だから彼等はレイシフトそのものを行っていない。  
-ここにいるのはわたしたちだけよ。  
-  
-**マシュ:**   
-なるほど……さすがです所長。  
-  
----  
-  
-**Fujimaru 1:**   
-落ち着けば頼りになる人なんですね。  
-  
-**オルガマリー:**   
-それどういう意味!?  
-普段は落ち着いていないって言いたいワケ!?  
-  
----  
-  
-**Fujimaru 2:**   
-あれ？　じゃあ所長はシフト予定になかった？  
-  
-**オルガマリー:**   
-……悪い？　司令官が最前線に出るワケないじゃない。  
-貴方たちはわたしの道具だって言ったでしょ。  
-  
----  
-  
-**オルガマリー:**   
-……フン、まあいいでしょう。  
-状況は理解しました。  
-  
-**オルガマリー:**   
-藤丸。緊急事態という事で、  
-あなたとキリエライトの契約を認めます。  
-  
-**オルガマリー:**   
-ここからはわたしの指示に従ってもらいます。  
-……まずはベースキャンプの作成ね。  
-  
-**オルガマリー:**   
-いい？　こういう時は霊脈のターミナル、  
-魔力が収束する場所を探すのよ。  
-  
-**オルガマリー:**   
-そこならカルデアと連絡が取れるから。  
-それで、この街の場合は……  
-  
-**マシュ:**   
-このポイントです、所長。  
-レイポイントは所長の足下だと報告します。  
-  
-**オルガマリー:**   
-うぇ!?　あ……そ、そうね、そうみたい。  
-わかってる、わかってたわよ、そんなコトは！  
-  
-**オルガマリー:**   
-マシュ。貴方の盾を地面に置きなさい。  
-宝具を触媒にして召喚サークルを設置するから。  
-  
-**マシュ:**   
-……だ、そうです。  
-構いませんか、先輩？  
-  
----  
-  
-**Fujimaru 1:**   
-いいよ、やってくれ。  
-  
----  
-  
-**Fujimaru 2:**   
-武器を手放すのは怖いけどね  
-  
----  
-  
-**マシュ:**   
-……了解しました。  
-それでは始めます。  
-  
-**マシュ:**   
-これは……カルデアにあった召喚実験場と同じ……  
-  
-**Dr.ロマン:**   
-シーキュー、シーキュー。  
-もしもーし！　よし、通信が戻ったぞ！  
-  
-**Dr.ロマン:**   
-ふたりともご苦労さま、空間固定に成功した。  
-これで通信もできるようになったし、補給物資だって  
-  
-**オルガマリー:**   
-はあ!?　なんで貴方が仕切っているのロマニ!?  
-レフは？　レフはどこ？　レフを出しなさい！  
-  
-**Dr.ロマン:**   
-うひゃあぁあ!?  
-  
-**Dr.ロマン:**   
-しょ、所長、生きていらしていたんですか!?  
-あの爆発の中で!?　しかも無傷!?　どんだけ!?  
-  
-**オルガマリー:**   
-どういう意味ですかっ！　いいからレフはどこ!?  
-医療セクションのトップがなぜその席にいるの!?  
-  
-**Dr.ロマン:**   
-……なぜ、と言われるとボクも困る。  
-自分でもこんな役目は向いていないと自覚してるし。  
-  
-**Dr.ロマン:**   
-でも他に人材がいないんですよ、オルガマリー。  
-  
-**Dr.ロマン:**   
-現在、生き残ったカルデアの正規スタッフは  
-ボクを入れて二十人に満たない。  
-  
-**Dr.ロマン:**   
-ボクが作戦指揮を任されているのは、  
-ボクより上の階級の生存者がいないためです。  
-  
-**Dr.ロマン:**   
-レフ教授は管制室でレイシフトの指揮をとっていた。  
-あの爆発の中心にいた以上、生存は絶望的だ。  
-  
-**オルガマリー:**   
-そんな&mdash;レフ、が……？  
-いえ、それより待って、待ちなさい、待ってよね、  
-  
-**オルガマリー:**   
-生き残ったのが二十人に満たない？  
-じゃあマスター適性者は？　コフィンはどうなったの!?  
-  
-**Dr.ロマン:**   
-……47人、全員が危篤状態です。医療器具も足りません。  
-何名かは助ける事ができても、全員は&mdash;  
-  
-**オルガマリー:**   
-ふざけないで、すぐに凍結保存に移行しなさい！  
-蘇生方法は後回し、死なせないのが最優先よ！  
-  
-**Dr.ロマン:**   
-ああ！　そうか、コフィンにはその機能がありました！  
-至急手配します！  
-  
-**マシュ:**   
-……驚きました。凍結保存を  
-本人の許諾なく行う事は犯罪行為です。  
-  
-**マシュ:**   
-なのに即座に英断するとは。所長として責任を  
-負う事より、人命を優先したのですね。  
-  
-**オルガマリー:**   
-バカ言わないで！　死んでさえいなければ後で  
-いくらでも弁明できるからに決まってるでしょう!?  
-  
-**オルガマリー:**   
-だいたい47人分の命なんて、  
-わたしに背負えるハズがないじゃない……！  
-  
-**オルガマリー:**   
-死なないでよ、たのむから……！  
-……ああもう、こんな時レフがいてくれたら……！  
-  
-**Dr.ロマン:**   
-……報告は以上です。  
-  
-**Dr.ロマン:**   
-現在、カルデアはその機能の八割を失っています。  
-残されたスタッフではできる事にかぎりがあります。  
-  
-**Dr.ロマン:**   
-なので、こちらの判断で人材はレイシフトの修理、  
-カルデアス、シバの現状維持に割いています。  
-  
-**Dr.ロマン:**   
-外部との通信が回復次第、補給を要請して  
-カルデア全体の立て直し……というところですね。  
-  
-**オルガマリー:**   
-結構よ。  
-わたしがそちらにいても同じ方針をとったでしょう。  
-  
-**オルガマリー:**   
-……はあ。ロマニ・アーキマン。納得はいかないけど、  
-わたしが戻るまでカルデアを任せます。  
-  
-**オルガマリー:**   
-レイシフトの修理を最優先で行いなさい。  
-  
-**オルガマリー:**   
-わたしたちはこちらでこの街……  
-特異点Ｆの調査を続けます。  
-  
-**Dr.ロマン:**   
-うぇ！？　所長、そんな爆心地みたいな現場、  
-怖くないんですか!?　チキンのクセに!?  
-  
-**オルガマリー:**   
-……ほんっとう、一言多いわね貴方は。  
-  
-**オルガマリー:**   
-今すぐ戻りたいのは山々だけど、レイシフトの修理が  
-終わるまでは時間がかかるんでしょ。  
-  
-**オルガマリー:**   
-この街にいるのは低級な怪物だけだと分かったし、  
-デミ・サーヴァント化したマシュがいれば安全よ。  
-  
-**オルガマリー:**   
-事故というトラブルはどうあれ、与えられた状況で  
-最善を尽くすのがアニムスフィアの誇りです。  
-  
-**オルガマリー:**   
-これより藤丸、マシュ・キリエライト両名を  
-探索員として特異点Ｆの調査を開始します。  
-  
-**オルガマリー:**   
-とはいえ、現場のスタッフが未熟なのでミッションは  
-この異常事態の原因、その発見にとどめます。  
-  
-**オルガマリー:**   
-解析・排除はカルデア復興後、第二陣を送りこんで  
-からの話になります。キミもそれでいいわね？  
-  
----  
-  
-**Fujimaru 1:**   
-発見だけでいいのか……？  
-  
----  
-  
-**Fujimaru 2:**   
-それは楽でいい。  
-  
----  
-  
-**Dr.ロマン:**   
-了解です。健闘を祈ります、所長。  
-  
-**Dr.ロマン:**   
-これからは短時間ですが通信も可能ですよ。  
-緊急事態になったら遠慮なく連絡を。  
-  
-**オルガマリー:**   
-………ふん。  
-ＳＯＳを送ったところで、誰も助けてくれないクセに。  
-  
-**Dr.ロマン:**   
-所長？  
-  
-**オルガマリー:**   
-なんでもありません。  
-通信を切ります。そちらはそちらの仕事をこなしなさい。  
-  
-**マシュ:**   
-……所長、よろしいのですか？  
-ここで救助を待つ、という案もありますが。  
-  
-**オルガマリー:**   
-そういう訳にはいかないのよ。……カルデアに戻った後、  
-次のチーム選抜にどれほどの時間がかかるか。  
-  
-**オルガマリー:**   
-人材集めも資金繰りも一ヶ月じゃきかないわ。  
-その間、協会からどれほど抗議があると思っているの？  
-  
-**オルガマリー:**   
-最悪、今回の不始末の責任として  
-カルデアは連中に取り上げられるでしょう。  
-  
-**オルガマリー:**   
-そんな事になったら破滅よ。手ぶらでは帰れない。  
-わたしには連中を黙らせる成果がどうしても必要なの。  
-  
-**オルガマリー:**   
-……悪いけど付き合ってもらうわよ、  
-マシュ、藤丸。  
-  
-**オルガマリー:**   
-とにかくこの街を探索しましょう。  
-この狂った歴史の原因がどこかにあるはずなんだから。  
-  
-## 第3節: 大橋を調べる  
-  
-**オルガマリー:**   
-ストップ。都市探索を始める前に、  
-わたしに言うべき事があるでしょう、藤丸。  
-  
----  
-  
-**Fujimaru 1:**   
-いえ、特に何も。  
-  
----  
-  
-**Fujimaru 2:**   
-うん、特に何も。  
-  
----  
-  
-**オルガマリー:**   
-……本気で覚えが悪いようね。  
-思い出しなさい。管制室での事よ！  
-  
-**マシュ:**   
-あ。あれですよ先輩。  
-管制室でレムレムしていた時の事です、きっと。  
-  
-**マシュ:**   
-集中すれば思い出せます。  
-あれは、ほら&mdash;  
-  
-**マシュ:**   
-間に合いました。  
-先輩の番号は……一桁台、最前列ですね。  
-  
-**マシュ:**   
-一番前の列の空いているところにどうぞ。  
-所長の真っ正面とは、素晴らしい悪運です。  
-  
-**オルガマリー:**   
-………………。  
-  
-**レフ:**   
-無駄口は避けた方がよさそうだ。  
-これ、もう始まっているようだからね。  
-  
-**オルガマリー:**   
-時間通りとはいきませんでしたが、  
-全員そろったようですね。  
-  
-**オルガマリー:**   
-特務機関カルデアにようこそ。  
-所長のオルガマリー・アニムスフィアです。  
-  
-**オルガマリー:**   
-あなたたちは各国から選抜、発見された  
-稀有な才能を持つ人間です。  
-  
-**オルガマリー:**   
-才能とは霊子ダイブを可能とする適性のこと。  
-魔術回路を持ち、マスターになる資格を持つ者。  
-  
-**オルガマリー:**   
-想像すらできないでしょうが、  
-これからはその事実を胸に刻むように。  
-  
-**オルガマリー:**   
-あなたたちは今まで前例のない、魔術と科学を  
-融合させた最新の魔術師に生まれ変わるのです。  
-  
-**オルガマリー:**   
-とはいえ、それはあくまで特別な才能であって、  
-あなたたち自身が特別な人間という事ではありません。  
-  
-**オルガマリー:**   
-あなたたちは全員が同じスタート地点に立つ、  
-未熟な新人だと理解なさい。  
-  
-**オルガマリー:**   
-特に協会から派遣されてきた魔術師は学生意識が  
-抜けきっていないようですが、すぐに改めるように。  
-  
-**オルガマリー:**   
-ここカルデアはわたしの管轄です。  
-外界での家柄、功績は重要視しません。  
-  
-**オルガマリー:**   
-まず覚える事は、わたしの指示は絶対という事。  
-わたしとあなたたちでは立場も視座も違います。  
-  
-**オルガマリー:**   
-意見、反論は認めません。あなたたちは人類史を  
-守るためだけの、道具にすぎない事を自覚するように。  
-  
-**オルガマリー:**   
-……騒がしいですね。  
-意見は認めないと言ったばかりですが？  
-  
-**オルガマリー:**   
-そこの君。さっき遅れてきた君よ。  
-いま話した心構えについて、何か不満があるのかしら？  
-  
----  
-  
-**Fujimaru 1:**   
-……………。  
-  
----  
-  
-**Fujimaru 2:**   
-……………むにゃむにゃ。  
-  
----  
-  
-**オルガマリー:**   
-……えっと。  
-……目の錯覚……それとも疲れ目かしら……  
-  
-**オルガマリー:**   
-立ったまま寝てる……なんてないわよね、  
-いくらなんでも……  
-  
-**新入員（女性）:**  
-なによそれ、話が違うわ！　私たちは才能を評価されて  
-集められたエキスパートです！  
-  
-**新入員（女性）:**  
-どうしてもと言うからこんな山奥までやってきたのに、  
-絶対服従とかバカじゃないんですか!?  
-  
-**新入員（男性）:**  
-その通りだ、愚弄するにも限度がある！  
-  
-**新入員（男性）:**  
-魔術師にとって血筋は最重視されるものだ、  
-それをないがしろにするなんて！  
-  
-**オルガマリー:**   
-静粛に、私語は控えなさい！　それだから  
-学生気分が抜けていない、なんて言われるのよ！  
-  
-**オルガマリー:**   
-わたしは現状を打破する最適解を口にしているだけ、  
-納得がいかないのなら今すぐカルデアを去りなさい！  
-  
-**オルガマリー:**   
-もっとも、あなたたちを送り返す便はないけどね。  
-  
-**オルガマリー:**   
-標高6000メートルの冬山を裸で下りる気概があるのなら、  
-それはそれで評価しましょう。  
-  
-**オルガマリー:**   
-結構、脱落者はいないようね。  
-まったく、くだらない事に時間を使わせないで。  
-  
-**オルガマリー:**   
-わたしたちの、いえ、人類の置かれた状況がそれぐらい  
-切迫しているものだと理解してほしいものだわ。  
-  
-**オルガマリー:**   
-ほら。そこの[♂ 彼 /♀️ 彼女]を見習いなさい。  
-反論も意見もない。従順で結構です。  
-  
-**オルガマリー:**   
-……では話を続けます。  
-いいですか、今日という&mdash;  
-  
-**マシュ:**   
-思い出しましたか、先輩？  
-  
----  
-  
-**Fujimaru 1:**   
-……なんとなく。  
-  
----  
-  
-**Fujimaru 2:**   
-……それとなく。  
-  
----  
-  
-**オルガマリー:**   
-思い出したって……やっぱりまともに  
-聞いてなかったのね、あなた！  
-  
-**オルガマリー:**   
-ああもう、ちょっとそこに座りなさいッ！  
-事態も使命も知らずに特異点に来るなんて酷い話よ！  
-  
-**オルガマリー:**   
-仕方ないからもう一度、いちから説明してあげます。  
-いい、わたしたちカルデアは&mdash;  
-  
-**マシュ:**   
-所長、お話は後に。  
-敵性反応です！  
-  
----  
-  
-**Fujimaru 1:**   
-よし、ナイスタイミング！  
-  
----  
-  
-**Fujimaru 2:**   
-戦おう、マシュ！  
-  
----  
-  
-**オルガマリー:**   
-ああ、ちょっと―！  
-わたしの話を聞きなさ――――いっ！  
-  
-**--ARROW--**  
-  
-**オルガマリー:**   
-……ふう。ご苦労です、マシュ・キリエライト。  
-邪魔者が消えてようやく話を戻せます。  
-  
-**マシュ:**   
-話を戻す……まだ何かあるのですか、所長？  
-  
-**オルガマリー:**   
-ありますともっ！　藤丸！  
-覚えがないとは言わせないわ！  
-  
-**オルガマリー:**   
-説明会はまだ半分よ！  
-いえ、その後こそ大事だったんだから！  
-  
-**オルガマリー:**   
-思い出しなさい、いますぐ！  
-おーもーいーだーしーなーさーいー！  
-  
----  
-  
-**Fujimaru 1:**   
-……仕方ないなあ。  
-  
----  
-  
-**Fujimaru 2:**   
-……困った人だなあ。  
-  
----  
-  
-**Dr.ロマン:**   
-まあまあそう言わずに。  
-所長の長話はそれなりに役に立つよ、藤丸[♂ 君 /♀️ ちゃん]。  
-  
-**Dr.ロマン:**   
-キミたちマスター候補がなぜカルデアに集められたか？  
-その説明になっているはずだよ。  
-  
-**オルガマリー:**   
-いいですか。今日というこの日、我々カルデアは  
-人類史において偉大な功績を残します。  
-  
-**オルガマリー:**   
-学問の成り立ち。宗教という発明。航海技術の獲得。  
-情報伝達技術への着目。宇宙開発への着手。  
-  
-**オルガマリー:**   
-そんな数多くある『星の開拓』に引けを取らない、  
-いえ、すべての偉業を上回る偉業。  
-  
-**オルガマリー:**   
-文明を発展させる一歩ではなく、  
-文明そのものを守る神の一手。  
-  
-**オルガマリー:**   
-不安定な人類の歴史を安定させ、  
-未来を確固たる決定事項に変革させる。  
-  
-**オルガマリー:**   
-霊長類である人の<ruby>理<rt>ことわり</rt></ruby>&mdash;即ち、  
-<ruby>人理<rt>じんり</rt></ruby>を継続させ、保障すること。  
-  
-**オルガマリー:**   
-それがわたしたちカルデアの、  
-そしてあなたたちの唯一にして絶対の目的です。  
-  
-**オルガマリー:**   
-カルデアはこれまで多くの成果を出してきました。  
-過去を観測する電脳魔ラプラスの開発。  
-  
-**オルガマリー:**   
-地球環境モデル　カルデアスの投影。  
-近未来観測レンズ　シバの完成。  
-  
-**オルガマリー:**   
-英霊召喚システム　フェイトの構築。  
-そして霊子演算機　トリスメギストスの起動。  
-  
-**オルガマリー:**   
-これらの技術をもとに、カルデアでは百年先までの  
-人類史を観測してきました。  
-  
-**オルガマリー:**   
-未来予測ではなく、未来観測です。  
-天体を観るようにカルデアは未来を見守ってきました。  
-  
-**オルガマリー:**   
-その内容がどのようなものであれ、人類史は百年先まで  
-続いている、という保証をし続けてきたのです。  
-  
-**オルガマリー:**   
-頭上を見なさい。  
-これがカルデアが誇る最大の功績&mdash;  
-  
-**オルガマリー:**   
-高度な魔術理論によって作られた地球環境モデル、  
-わたしのカルデアスです。  
-  
-**オルガマリー:**   
-これは惑星に魂があると定義し、  
-その魂を複写して作られた極小の地球です。  
-  
-**オルガマリー:**   
-我々とは異なる位相にあるため、  
-人間の知覚・知識では細かな状況は読み取れません。  
-  
-**オルガマリー:**   
-ですが表層にあるもの、大陸に見られる都市の光だけは  
-専用の観測レンズ・シバによって読み取れます。  
-  
-**オルガマリー:**   
-現在はその状態を百年先に設定しています。  
-このカルデアスは未来の地球と同義なのです。  
-  
-**オルガマリー:**   
-カルデアスに文明の光が灯っているかぎり  
-人類史は百年先の未来まで約束されています。  
-  
-**オルガマリー:**   
-だって光があるかぎり、都市には人間が暮らし、  
-文明が継続している事を証明しているのですから。  
-  
-**オルガマリー:**   
-ですが&mdash;  
-レフ、<ruby>レンズ<rt>シバ</rt></ruby>の偏光角度を正常に戻して。  
-  
-**オルガマリー:**   
-現状は見ての通りです。半年前からカルデアスは変色し、  
-未来の観測は困難になりました。  
-  
-**オルガマリー:**   
-今まで観測の寄る辺になっていた文明の明かり。  
-その大部分が不可視状態になってしまったのです。  
-  
-**オルガマリー:**   
-ふん、いい反応ね。  
-少しは頭の回る子がいて助かるわ。  
-  
-**オルガマリー:**   
-そう。  
-明かりがないという事は文明が途絶えたという事よ。  
-  
-**オルガマリー:**   
-これは極秘事項として秘されていた事ですが、  
-あなたたちには知る権利があります。  
-  
-**オルガマリー:**   
-観測の結果、地球に人類の明かりが確認できるのは  
-2016年まで&mdash;  
-  
-**オルガマリー:**   
-つまり人類は2016年をもって絶滅する事が観測、  
-いえ、証明されてしまったのよ。  
-  
-**オルガマリー:**   
-言うまでもなく、こんな未来はあり得ません。  
-あってはならないものだし、物理的に不可能です。  
-  
-**オルガマリー:**   
-経済崩壊でも地殻変動でもない。  
-ある日突然、人類史が途絶えるなんて説明がつきません。  
-  
-**オルガマリー:**   
-わたしたちはこの半年間、この異常現象&mdash;  
-未来消失の原因を究明しました。  
-  
-**オルガマリー:**   
-現在に理由がないのなら、その原因は過去にある。  
-  
-**オルガマリー:**   
-我々はラプラスとトリスメギストスを用い、  
-過去２０００年まで情報を洗い出しました。  
-  
-**オルガマリー:**   
-今までの歴史になかったもの。  
-今までの地球に存在しなかった異物を発見する試みです。  
-  
-**オルガマリー:**   
-その結果、ついに我々は新たな異変を観測しました。  
-それがここ&mdash;  
-  
-**オルガマリー:**   
-空間特異点Ｆ。  
-西暦2004年、日本のある地方都市です。  
-  
-**オルガマリー:**   
-ここに、2015年までの歴史には存在しなかった、  
-“観測できない領域”が発見されたのです。  
-  
-**オルガマリー:**   
-カルデアはこれを人類絶滅の原因と仮定し、  
-<ruby>霊子転移<rt>レイシフト</rt></ruby>実験を国連に提案、承認されました。  
-  
-**オルガマリー:**   
-<ruby>霊子転移<rt>レイシフト</rt></ruby>とは人間を霊子化させて  
-過去に送りこみ、事象に介入する行為です。  
-  
-**オルガマリー:**   
-端的に言えば過去への時間旅行ですが、  
-これは誰にでも可能な事ではありません。  
-  
-**オルガマリー:**   
-優れた魔術回路を持ち、  
-マスター適性のある人間にしかできない旅路です。  
-  
-**オルガマリー:**   
-さて&mdash;ここまで説明すれば分かるでしょう。  
-あなたたちの役割はこの特異点Ｆの調査。  
-  
-**オルガマリー:**   
-今から12年前の過去の日本に転移し、  
-未来消失の原因を究明、これを破壊する。  
-  
-**オルガマリー:**   
-この作戦はこれまで例のないものです。  
-何が待っているかは予測できません。  
-  
-**オルガマリー:**   
-ですが、世界各国から選抜されたあなたたちなら  
-十分に可能だろう、と多大な期待が寄せられています。  
-  
-**オルガマリー:**   
-上層部は一刻も早い原因究明を求めています。  
-無駄に使う時間はありません。  
-  
-**オルガマリー:**   
-これより一時間後、初のレイシフト実験を行います。  
-仮想訓練はもう十分でしょう。  
-  
-**オルガマリー:**   
-第一段階として成績上位者８名をＡチームとし、  
-特異点Ｆに送りこみます。  
-  
-**オルガマリー:**   
-後発組には伝えてありませんが、  
-彼等はカルデアから選抜されたマスター適性者です。  
-  
-**オルガマリー:**   
-Ａチームは一ヶ月前からチームとして機能しています。  
-一人前の兵士、と言ってもいいでしょう。  
-  
-**オルガマリー:**   
-彼等Ａチームが先行し、特異点Ｆにてベースキャンプを  
-築き、後に続くあなたたちの安全を保証する。  
-  
-**オルガマリー:**   
-Ｂチーム以下は彼等の状況をモニターし、  
-第二実験以降の出番に備えなさい。  
-  
-**オルガマリー:**   
-では人間を霊子に変換し過去に転写する量子の<ruby>筐<rt>はこ</rt></ruby>……  
-クラインコフィンの個人登録に移ります。  
-  
-**オルガマリー:**   
-あれは一人一基のものですから換えはききません。  
-各自、慎重に、丁寧に扱うように。  
-  
-**オルガマリー:**   
-ＢからＤチームは登録が済み次第、コフィン内にて待機。  
-Ａチームに問題が発生した場合に備えます。  
-  
-**オルガマリー:**   
-&mdash;何をしているの。  
-やるべき事は説明したでしょう。  
-  
-**オルガマリー:**   
-マスター適性者として招集に応じた以上、  
-あなたたちはもう軍人のようなものなのよ。  
-  
-**オルガマリー:**   
-命令には従う。どんな時でも戦いに順応する。  
-いちいち言わせないで、こんなこと。  
-  
-**オルガマリー:**   
-それとも、まだ質問があるの？  
-ほら、そこの君！　君よ、遅刻した君！  
-  
-**オルガマリー:**   
-特別に質問を許してあげます。  
-首をかしげているけど、何が不満なの？  
-  
----  
-  
-**Fujimaru 1:**   
-タイムスリップなんて可能なんだろうか……？  
-  
----  
-  
-**Fujimaru 2:**   
-過去を変革して問題はないのだろうか……？  
-  
----  
-  
-**オルガマリー:**   
-……………。  
-あなたね。特異点、と聞いてわからないの？  
-  
-**オルガマリー:**   
-今回発見された特異点は、  
-これまでの観測記録にはなかったものなの。  
-  
-**オルガマリー:**   
-ようは突然現れた穴と同じってコト。  
-穴自体が正常な時間軸から切り離されているのよ。  
-  
-**オルガマリー:**   
-2004年の特異点は過去と未来から独立している。  
-前後の辻褄を合わせる必要はないの。  
-  
-**オルガマリー:**   
-通常の時間旅行より安定してシフトできるし、  
-どのように改変を行っても時間の復元力で影響はないわ。  
-  
-**オルガマリー:**   
-この特異点Ｆは人類史というドレスに染みついた、  
-小さな汚れのようなものよ。  
-  
-**オルガマリー:**   
-あるだけで美しさを損なう毒。  
-あなたたちはこの毒を摘出するだけでいいの。  
-  
-**オルガマリー:**   
-それで人類史はもとの、  
-以前から観測されていた正しいカタチに戻るんだから。  
-  
-**オルガマリー:**   
-……まったく。こんな初歩の時空論も知らない人間を  
-よこすなんて、協会は何を考えているのかしら。  
-  
-**オルガマリー:**   
-この作戦は<ruby>冠位指定<rt>かんいしてい</rt></ruby>、魔術世界において  
-最大級の義務と同じなんだって進言したのに……  
-  
-**オルガマリー:**   
-まあいいわ。君はどこのチーム……  
-……ちょっと。ID、見せて。  
-  
-**オルガマリー:**   
-なにこれ、配属が違うじゃない！  
-一般協力者の、しかも実戦経験も仮想訓練もなし!?  
-  
-**オルガマリー:**   
-わたしのカルデアを馬鹿にしないで！  
-あなたみたいな素人を入れる枠なんてどこにもないわ！  
-  
-**オルガマリー:**   
-レフ！  
-レフ・ライノール！  
-  
-**レフ:**   
-ここにいますよ所長。  
-どうしました、そんな声高に。なにか問題でも？  
-  
-**オルガマリー:**   
-問題だらけよ、いつも！　いいからこの新人を  
-一秒でも早くわたしの前からたたき出して！  
-  
-**レフ:**   
-あー……そういうコトですか。  
-ですが所長、[♂ 彼 /♀️ 彼女]も選ばれたマスター候補です。  
-  
-**レフ:**   
-確かに他に比べて経験はないのでしょうけど、  
-そこまで邪険に扱うこと自体が問題というか……  
-  
-**オルガマリー:**   
-なんの経験もない素人を投入するコト自体が問題よ！  
-わたしのカルデアスに何かあったらどうするの!?  
-  
-**オルガマリー:**   
-いいからロマニにでも預けてきて！  
-せめて最低限の訓練を済ませてきなさい！  
-  
-**レフ:**   
-……むう。これは嫌われたものだね。  
-仕方ない、とりあえず命令には従うか。  
-  
-**レフ:**   
-マシュ、藤丸君を個室に  
-案内してあげてくれ。  
-  
-**マシュ:**   
-了解です、お話は聞いていました。  
-先輩を個室までご案内すればいいのですね？  
-  
-**レフ:**   
-すまないね。  
-私はレイシフトの準備があって同行できないんだ。  
-  
-**レフ:**   
-なに、今回の実験は二時間ほどで終わる。  
-その後に部屋を訪ねさせてもらうよ。  
-  
----  
-  
-**Fujimaru 1:**   
-ありがとうございます。  
-  
-**レフ:**   
-なに、礼には及ばないさ。  
-君は本当に運が良いからね。  
-  
----  
-  
-**Fujimaru 2:**   
-………………………。  
-  
-**マシュ:**   
-レフ教授にしては気が利くのですね。  
-もしや、レフ教授も先輩を先輩と？  
-  
-**レフ:**   
-いやいや、たまたまさ。運命の出会いとか宿命の  
-ライバルとか、そういう数奇を重要視しているんだ。  
-  
----  
-  
-**マシュ:**   
-それでは先輩、こちらへ。  
-先輩用の先輩ルームにご案内しますので。  
-  
-**マシュ:**   
-以上です。先輩が管制室から追い出された<ruby>経緯<rt>いきさつ</rt></ruby>、  
-思い出してもらえましたか？  
-  
----  
-  
-**Fujimaru 1:**   
-なるほど。  
-  
----  
-  
-**Fujimaru 2:**   
-ばっちり。  
-  
----  
-  
-**オルガマリー:**   
-……いけしゃあしゃあと。  
-大人しそうに見えて図太いのね、あなた。  
-  
-**オルガマリー:**   
-とにかく！　大事な作戦前にどれほど迷惑をかけたのか、  
-ちゃんと思い出してくれた!?  
-  
-**Dr.ロマン:**   
-あのー、マリー所長？  
-それは言いがかりなのでは……  
-  
-**オルガマリー:**   
-言いがかりなものですかっ。あの問答に時間をとられた  
-おかげで、着替える時間がなくなったんですから！  
-  
-**マシュ:**   
-?　所長はダイブ予定になかったのですから、  
-別にスーツに着替える必要はなかったような……  
-  
-**オルガマリー:**   
-ありました！　あったの！  
-作戦に備えて特注で作っておいた礼装がっ！  
-  
-**オルガマリー:**   
-……もう。まだ一度も袖を通してなかったのに……  
-まあいいわ。  
-  
-**オルガマリー:**   
-とにかくあなたたちマスター候補の役割、  
-その責任と義務はわかったわね？  
-  
-**オルガマリー:**   
-では藤丸。改めてわたしの<ruby>護衛<rt>ガード</rt></ruby>を任せます。  
-全力で役目を果たすように。  
-  
----  
-  
-**Fujimaru 1:**   
-イエッサー、了解です偉大なるマリー所長。  
-  
-**オルガマリー:**   
-な、なによそれ、気持ち悪いわね。  
-お、おだてようったってそうはいかないんだからっ！  
-  
----  
-  
-**Fujimaru 2:**   
-……無理にキャラ作ってませんか？  
-  
-**オルガマリー:**   
-これが素よ！　さっきまでは慌てていただけよ！  
-アナタ、カルデアに戻ったら覚悟なさい！  
-  
----  
-  
-**マシュ:**   
-……仲が良くて結構です。  
-では、新手が来る前に移動しましょう。  
-  
-**--ARROW--**  
-  
-**オルガマリー:**   
-ところで。キミ、サーヴァントがどういった  
-モノなのか、知識はあるんでしょうね？  
-  
----  
-  
-**Fujimaru 1:**   
-まったく知らない。  
-  
-**オルガマリー:**   
-やっぱり。  
-仕方ないわ、移動がてら教えてあげる。  
-  
-**オルガマリー:**   
-サーヴァントというのは  
-魔術世界における最上級の使い魔と思いなさい。  
-  
-**オルガマリー:**   
-人類史に残った様々な英雄。偉業。概念。  
-そういったものを霊体として召喚したものなのよ。  
-  
-**オルガマリー:**   
-実在した英雄であれ、実在しなかった英雄であれ、  
-彼等が“地球で発生した情報”である事は同じでしょ。  
-  
-**オルガマリー:**   
-英霊召喚とは、この星に蓄えられた情報を  
-人類の利益となるカタチに変換すること。  
-  
-**オルガマリー:**   
-過去の遺産を現代の人間が使うのは当然の権利であり、  
-遺産を使って未来を残すのが生き物の義務でもある。  
-  
-**オルガマリー:**   
-分かる？　キミが契約したモノはそういう、  
-人間以上の存在であるけれど人間に仕える道具なの。  
-  
-**オルガマリー:**   
-だからその呼称をサーヴァントというのよ。たとえ神の  
-一因であろうとマスターに従うものにすぎないんだから。  
-  
-**マシュ:**   
-所長。所長の考えは極端ではないか、と  
-わたしの細胞が抗議しています。  
-  
-**オルガマリー:**   
-……フン。という事は、アナタと融合したサーヴァントは  
-「地」属性の英霊ね、きっと。  
-  
----  
-  
-**Fujimaru 2:**   
-一通りの知識はある。  
-  
-**オルガマリー:**   
-それは結構。英霊とは何か、  
-なんて初歩的な説明をしなくて助かったわ。  
-  
----  
-  
-**オルガマリー:**   
-過去の英雄を使い魔にしたものがサーヴァント。  
-これと契約し、使役するものがマスター。  
-  
-**オルガマリー:**   
-そしてサーヴァントには七つのクラスがあって、  
-英霊たちの逸話・能力によって変化する。  
-  
-**オルガマリー:**   
-英霊をまるごと霊体として再現するのは難しいのよ。  
-人間の魔術師ではリソース、メモリが足りないの。  
-  
-**オルガマリー:**   
-だからその英霊が持つ一部の側面だけを固定化する。  
-それが七つのクラス&mdash;  
-  
-**オルガマリー:**   
-<ruby>剣騎<rt>セイバー</rt></ruby>、<ruby>槍兵<rt>ランサー</rt></ruby>、<ruby>弓兵<rt>アーチャー</rt></ruby>、<ruby>騎兵<rt>ライダー</rt></ruby>、  
-<ruby>魔術師<rt>キャスター:</rt></ruby>、<ruby>狂戦士<rt>バーサーカー</rt></ruby>、<ruby>暗殺者<rt>アサシン</rt></ruby>。  
-  
-**オルガマリー:**   
-どんな英霊であれ、必ず  
-いずれかのクラスになって<ruby>顕現<rt>けんげん</rt></ruby>するわ。  
-  
-**オルガマリー:**   
-それはサーヴァントの正体……英雄としての名前、  
-真名を隠すためのプロテクトでもある。  
-  
-**オルガマリー:**   
-どうして真名を隠すかというと、英雄たちは強力であるが  
-故に有名だから。たとえばギリシャ神話のアキレウスね。  
-  
-**オルガマリー:**   
-アキレウスは無敵の肉体を持っている英霊だけど、  
-その弱点はあまりにも有名でしょ？  
-  
-**オルガマリー:**   
-英霊の再現である以上、弱点も引き継いでしまう。  
-だからサーヴァントはクラス名で名前を隠すの。  
-  
-**オルガマリー:**   
-正体さえ知られなければ、  
-経歴や弱点を知られる可能性が激減するでしょ？  
-  
-**オルガマリー:**   
-それだけじゃないわ。  
-真名を隠すのにはもう一つの理由がある。  
-  
-**オルガマリー:**   
-サーヴァントの切り札にして真骨頂。  
-その英霊が持つ奇跡、存在が結晶化したもの。それが、  
-  
-**マシュ:**   
-所長、お楽しみのところ申し訳ありません。  
-敵性生物を視認しました。戦闘に入ります。  
-  
-**オルガマリー:**   
-ヒッ！？　さ、さっさと片付けなさい！  
-わた、わたしは隠れているからね！  
-  
-**--ARROW--**  
-  
-**オルガマリー:**   
-&mdash;。  
-  
-**Dr.ロマン:**   
-……モニター越しでも感じる、この緊張感……  
-所長はあいかわらずご機嫌ななめのようだね。  
-  
----  
-  
-**Fujimaru 1:**   
-ななめどころか断崖絶壁[♂ だよ /♀️ よ]。  
-  
----  
-  
-**Fujimaru 2:**   
-どうしていつも怒ってるんだろう？  
-  
----  
-  
-**マシュ:**   
-いえ、所長のかんしゃくにも同情の余地ありです。  
-  
-**マシュ:**   
-失礼ながら、藤丸先輩は  
-カルデアについて無知すぎます。  
-  
----  
-  
-**Fujimaru 1:**   
-そ、そうかな……？  
-  
----  
-  
-**Fujimaru 2:**   
-確かに何も知らずにやってきたけど……  
-  
----  
-  
-**マシュ:**   
-まったくもって困りものです。  
-うっかり迷いこんだレベルです。ほぼネコと同義です。  
-  
-**マシュ:**   
-&mdash;まあ、わたしも同じようなものですが。  
-  
-**マシュ:**   
-勤めて二年ほど経過しますが、よくわかりません。  
-のんびり忍びこんだレベルです。ほぼワニと同義です。  
-  
----  
-  
-**Fujimaru 1:**   
-そ、そうなんだ。  
-  
----  
-  
-**Fujimaru 2:**   
-確かにワニは何も知らないな。  
-  
----  
-  
-**マシュ:**   
-はい。わたしの知識もカタログにある程度です。  
-でも先輩のために復唱しますね。  
-  
-**マシュ:**   
-<ruby>人理保障機関<rt>じんりほしょうきかん</rt></ruby>カルデア。  
-正しくは人理継続保障機関フィニス・カルデア。  
-  
-**マシュ:**   
-人類史を長く、何より強く存続させるため、魔術・科学の  
-区別なく研究者が集まった研究所にして観測所。  
-  
-**マシュ:**   
-魔術だけでは見えない世界、  
-科学だけでは計れない世界を観測し、  
-  
-**マシュ:**   
-人類の決定的な<ruby>絶滅<rt>バッドエンド</rt></ruby>を防ぐために  
-各国共同で成立された特務機関なのです。  
-  
----  
-  
-**Fujimaru 1:**   
-おお。マシュは物知りだな。  
-  
----  
-  
-**Fujimaru 2:**   
-うん、そこはなんとなくわかった。  
-  
----  
-  
-**マシュ:**   
-はい。まあ、そんなところです。  
-  
-**フォウ:**   
-フォウ！  
-  
-**マシュ:**   
-カルデア設立の出資金は各国合同となっていますが、  
-その七割はロンドンの魔術協会&mdash;  
-  
-**マシュ:**   
-アニムスフィア家が出資しています。  
-オルガマリー所長のご実家ですね。  
-  
-**マシュ:**   
-カルデアは研究施設となっていますが、  
-その重要性から内部規律レベルは軍隊のそれです。  
-  
-**マシュ:**   
-たいへん厳しい規律と罰則が敷かれていますから、  
-所長の横暴さはむしろ控えめと言えます。  
-  
-**マシュ:**   
-所長は悪党ではありませんが、悪人です。  
-気に入らないスタッフは平気でクビを切ります。  
-  
-**マシュ:**   
-あ、いえ、どうでしょう。  
-性格が悪い人、を悪人と言っていいのでしょうか。  
-  
-**マシュ:**   
-……すみません。先輩を励ましたいのですが、  
-おシャレな台詞回しとか、ちょっと慣れていないので。  
-  
-**フォウ:**   
-キュ。ンキュ、キュ！  
-  
-**オルガマリー:**   
-きゃあぁああああ！？  
-ちょっと、なにしてるのよアナタたち！？  
-  
-**オルガマリー:**   
-うしろうしろ！  
-敵、敵に見つかってるじゃない！  
-  
-**オルガマリー:**   
-戦闘準備、急いで！  
-  
-**マシュ:**   
-！　こんなに近くに……！  
-先輩、指示をお願いします……！  
-  
-**--ARROW--**  
-  
-**オルガマリー:**   
-はあ……ちゃんと周りに気を配りなさい。  
-  
-**オルガマリー:**   
-ロマニがモニターしてるといってもここは特異点なのよ？  
-何が起きるかわからないんだから。  
-  
-**オルガマリー:**   
-ほら、キリエライト。こっち。  
-怪我をしてるんでしょう。それぐらいなら治療できるわ。  
-  
-**マシュ:**   
-あ……はい。  
-ありがとうございます、オルガマリー所長。  
-  
-**Dr.ロマン:**   
-やれやれ。  
-所長も落ち着いていると頼りになるんだけどなぁ……。  
-  
-**Dr.ロマン:**   
-藤丸[♂ 君 /♀️ ちゃん]、ボクからも言わせてくれ。  
-所長……オルガマリーも複雑な立場でね。  
-  
-**Dr.ロマン:**   
-もともとマリーはキミたち同様、  
-マスター候補のひとりだったんだよ。  
-  
-**Dr.ロマン:**   
-でね三年前に前所長……彼女のお父さんが亡くなって、  
-まだ学生だったのにカルデアを引き継ぐ事になった。  
-  
-**Dr.ロマン:**   
-そこからは毎日が緊張の連続だったんだろう。  
-アニムスフィアの家を背負う事になったんだから。  
-  
-**Dr.ロマン:**   
-マリーはカルデアの維持だけで精一杯だった。  
-そんな時、カルデアスに異常が発見された。  
-  
-**Dr.ロマン:**   
-今まで保証されていた百年先の未来が視えなくなった。  
-協会やスポンサーから非難の声は山のように届いた。  
-  
-**Dr.ロマン:**   
-『一刻も早い事態の収束を。』  
-それが彼女に課せられたオーダーになったんだ。  
-  
-**Dr.ロマン:**   
-加えて、ついてない事に彼女には  
-マスター適性がない事も判明した。  
-  
-**Dr.ロマン:**   
-名門中の名門、十二のロードの一家、  
-魔術協会の天体学科を司るアニムスフィア家。  
-  
-**Dr.ロマン:**   
-その当主がマスターになれないなんて、  
-スキャンダルもいいところだろう？  
-  
-**Dr.ロマン:**   
-どれだけ陰口を囁かれた事か想像に難くない。  
-その声はマリー本人の耳にも聞こえていただろうね。  
-  
-**Dr.ロマン:**   
-そんな状況でも彼女は所長として最善を尽くしている。  
-この半年間、ギリギリで踏みとどまっている。  
-  
-**Dr.ロマン:**   
-実際、キャパオーバーしているんでメンタルケアに  
-来てほしいんだけど、中々都合がつかなくてね。  
-  
-**Dr.ロマン:**   
-そんな訳で彼女は心身共に張り詰めている。キミに辛く  
-当たったのは、何もキミが嫌いな訳じゃないさ。  
-  
----  
-  
-**Fujimaru 1:**   
-わかってる。マリー所長は悪人じゃない。  
-  
-**Dr.ロマン:**   
-そう言ってもらえるとボクも嬉しいよ。  
-あ、でも所長は悪人だよ？  
-  
-**Dr.ロマン:**   
-ただ外道とか残忍とか、クズとかゲスじゃないのは  
-保証できる。根はどこまでも真面目だから。  
-  
----  
-  
-**Fujimaru 2:**   
-いや、つい面白くて。  
-  
-**Dr.ロマン:**   
-ひどいなキミは！  
-あ、いや、でもわかる。その気持ち、ちょっとわかる。  
-  
-**Dr.ロマン:**   
-所長は箱入りお嬢様だったからね、いちいち反応が  
-素直というか、スレてないというか……  
-  
-**Dr.ロマン:**   
-でも本人の前でそれを言っちゃダメだぞ。  
-ますます目をつけられるからね。  
-  
----  
-  
-**Dr.ロマン:**   
-ともかく、いま頼れるのはキミたち三人だけなんだ。  
-ケンカせず、仲良く調査を続けてくれ。  
-  
-## 第4節: 港跡を調べる  
-  
-**マシュ:**   
-敵性生物、排除しました。  
-先に進みましょう。  
-  
-**オルガマリー:**   
-あの怪物を見た時はどうなるかと思ったけど、  
-さすがはサーヴァント体、スペックでは圧勝ね。  
-  
-**マシュ:**   
-……姿が怖いのは変わらないのですが……  
-ところで所長。質問があるのですが。  
-  
-**マシュ:**   
-資料にあった冬木の街と、  
-この冬木の街はあまりにも違います。  
-  
-**マシュ:**   
-いったいこの街に何が起きたのか、  
-所長はどうお考えですか？  
-  
-**オルガマリー:**   
-……そうね。きっと歴史がわずかに狂ったのよ。  
-そうとしか思えない。  
-  
-**オルガマリー:**   
-マシュ。それに藤丸。  
-一度しか言わないからよく聞きなさい。  
-  
-**オルガマリー:**   
-カルデアはカルデアスという地球モデルで未来を観る。  
-同時にラプラスという使い魔で過去の記録を集計する。  
-  
-**オルガマリー:**   
-<ruby>公<rt>おおやけ</rt></ruby>にならなかった表の歴史、人知れず闇に葬られた  
-情報を拾ってくるのがラプラスの仕事と思えばいいわ。  
-  
-**オルガマリー:**   
-そのラプラスによる観測で、2004年のこの街で  
-特殊な聖杯戦争が確認されているのよ。  
-  
-**マシュ:**   
-聖杯戦争……？  
-聖杯というのは、その、伝説にいう聖杯ですか？  
-  
-**マシュ:**   
-所有者の願いを叶える万能の力。  
-あらゆる魔術の根底にあるとされる魔法の釜？  
-  
-**オルガマリー:**   
-ええ、その聖杯です。  
-  
-**オルガマリー:**   
-冬木の街にいた魔術師たちが聖杯を完成させ、  
-その起動のために七騎の英霊を召喚した&mdash;  
-  
-**オルガマリー:**   
-それが聖杯戦争の始まり。  
-この街では人知れずサーヴァントが呼ばれていた。  
-  
-**オルガマリー:**   
-冬木の聖杯戦争のシステムは単純よ。  
-  
-**オルガマリー:**   
-七人のマスターがそれぞれ競い合い、  
-最後に残った者が聖杯を手にする、というシステム。  
-  
-**オルガマリー:**   
-カルデアがこの事実を知ったのは2010年。お父さ……  
-いえ、前所長はこのデータを元に召喚式を作った。  
-  
-**オルガマリー:**   
-それがカルデアの英霊召喚システム・フェイト。  
-ラプラス、カルデアスに続く第三の発明ね。  
-  
-**マシュ:**   
-第三？  
-近未来観測レンズ・シバは違うのですか？  
-  
-**オルガマリー:**   
-あれはレフ教授の発明だから。  
-まあ、わたしとの共同開発ではあるけど。  
-  
-**オルガマリー:**   
-ともかく、ここがサーヴァント発祥の地なのよ。  
-  
-**オルガマリー:**   
-かつてここで七騎のサーヴァントが競い合った。  
-結果はセイバーの勝利で終わった。  
-  
-**オルガマリー:**   
-街は破壊される事なく、サーヴァントの活動は  
-人々に知られる事なく終わったはずなの。  
-  
-**オルガマリー:**   
-……なのに、今はこんな事になっている。  
-特異点が生じた事で結果が変わったと考えるべきね。  
-  
-**オルガマリー:**   
-2004年のこの異変が人類史に影響を及ぼして、  
-その結果として百年先の未来が見えなくなった。  
-  
-**オルガマリー:**   
-だから、わたしたちの使命はこの異変の修復よ。  
-この領域のどこかに歴史を狂わせた原因がある。  
-  
-**オルガマリー:**   
-それを解析、ないし排除すればミッション終了。  
-わたしもアナタたちも現代に戻れるわ。  
-  
----  
-  
-**Fujimaru 1:**   
-なるほど、よく分かりました。  
-  
-**マシュ:**   
-はい。事態は不可解なままですが、  
-ミッションはシンプルで良かったですね、先輩。  
-  
----  
-  
-**Fujimaru 2:**   
-カルデアでは英霊を召喚したんですか？  
-  
-**オルガマリー:**   
-もちろんしました。  
-でもうまくいかなくて、成功例は数えるほどです。  
-  
-**オルガマリー:**   
-資料では三体だけ呼び出せたらしいけど、  
-わたしは二体しか知りません。  
-  
-**オルガマリー:**   
-前所長の頃に第一号。  
-わたしが所長になってから第二号、第三号。  
-  
-**オルガマリー:**   
-……その第二号がマシュと融合した英霊よ。  
-第三号はもう知ってるでしょ。  
-  
-**オルガマリー:**   
-カルデアに住み着いたあの変人。  
-レオナルド・ダ・ヴィンチよ。  
-  
----  
-  
-**？？？:**  
-ＧｕＯＯＯＯＯＯＯＯ！！！！！！  
-  
-**オルガマリー:**   
-って、またコイツら……！  
-蹴散らしなさい、マシュ、藤丸！  
-  
-**--ARROW--**  
-  
-**マシュ:**   
-……ふう。戦闘終了です、マスター。  
-今回もなんとかなって、安心です。  
-  
----  
-  
-**Fujimaru 1:**   
-お疲れさま、マシュ  
-  
----  
-  
-**Fujimaru 2:**   
-ありがとう、マシュ  
-  
----  
-  
-**マシュ:**   
-……はい。  
-お役に立てて幸いです。  
-  
-**オルガマリー:**   
-…………ねえマシュ。  
-あなた、もしかして宝具を使えない？  
-  
-**マシュ:**   
-……そのようです。わたしはわたしに融合してくれた  
-英霊が誰なのかもわかりませんし、  
-  
-**マシュ:**   
-その英霊が持つ切り札&mdash;『宝具』と呼ばれる  
-スペシャルアーツの性能を発揮できません。  
-  
-**マシュ:**   
-藤丸先輩。  
-説明が後になって申し訳ありません。  
-  
-**マシュ:**   
-サーヴァントには宝具という  
-固有の特殊技能が備わっています。  
-  
-**マシュ:**   
-英雄たちそれぞれの伝承、偉業にちなんだ、  
-かっこよかったり微妙だったりする切り札です。  
-  
-**マシュ:**   
-ですが、わたしはその宝具をうまく扱えません。  
-  
-**マシュ:**   
-……宝具そのものは何とか使えるのですが、出力は低下  
-していますし、真名解放による真価も発揮できません。  
-  
-**マシュ:**   
-そもそもわたしのこの武器が  
-“何に由来するものなのか”さえ分からないのです。  
-  
-**オルガマリー:**   
-………………。  
-  
-**マシュ:**   
-ですので、わたしの事は欠陥サーヴァント、あるいは  
-成長性と可能性に満ちたできる後輩、とご期待ください。  
-  
-**マシュ:**   
-わたしが融合した英霊の情報をリードできずとも、  
-先輩がマスターとして成長すればおのずと分かります。  
-  
-**オルガマリー:**   
-そうね。マスターは契約したサーヴァントの  
-パラメーターやスキル、<ruby>情報<rt>マトリクス</rt></ruby>を解析できる。  
-  
-**オルガマリー:**   
-藤丸……契約者が一人前になれば  
-マシュのサーヴァント情報も解析できるでしょう。  
-  
-**オルガマリー:**   
-この先、他のサーヴァントと契約した時も同じよ。  
-まずはサーヴァントの宝具と真名を知ること。  
-  
-**オルガマリー:**   
-信頼が増せば増すほど、  
-そのサーヴァントの能力は上がっていくわ。  
-  
-**オルガマリー:**   
-まあ、アンタなんかにそんな才能はないでしょうけど。  
-マシュをうまく使えないのもその証拠よ。  
-  
-**オルガマリー:**   
-カルデアのレイシフト機能が回復すれば  
-一流のマスターをシフトさせるわ。  
-  
-**オルガマリー:**   
-そうなればアンタはお払い箱よ。  
-実戦経験もない素人はカルデアの隅で震えていなさい。  
-  
----  
-  
-**Fujimaru 1:**   
-震えてたのはマリー所長の方では……  
-  
-**オルガマリー:**   
-震えてない！　ちっとも！  
-アナタね、年上を敬いなさいよね!?  
-  
----  
-  
-**Fujimaru 2:**   
-もしかして心配してくれてるんですか？  
-  
-**オルガマリー:**   
-あ、当たり前でしょう、今は唯一の戦力なんだから！  
-アナタがやられたら誰が戦うのよ、誰が！  
-  
----  
-  
-**マシュ:**   
-……互いに理解度が上がったようで結構です。  
-では、新手が来る前に移動しましょう。  
-  
-## 第5節: 教会跡を調べる  
-  
-**オルガマリー:**   
-どこまで行っても焼け野原……  
-住人の痕跡もないし、一体なにがあったのかしら……  
-  
-**オルガマリー:**   
-そもそもカルデアスを灰色にする異変って何なのよ……  
-未来が見えなくなるって事は人類が消えるという事……  
-  
-**オルガマリー:**   
-もしかして……特異点では抑止力が働かない？  
-じゃあやっぱりボルトみたいなものなんだ、ここ……  
-  
-**オルガマリー:**   
-人類史に点在する致命的な滅亡の選択……  
-それを悪い方に間違えちゃったのがこの結果とか……  
-  
-**Dr.ロマン:**   
-おや、所長の独り言が始まったね。  
-そうなると彼女は長いよ。  
-  
-**Dr.ロマン:**   
-藤丸[♂ 君 /♀️ ちゃん]。  
-あたりは安全そうだし、少しは休んだらどうだい？  
-  
-**マシュ:**   
-ドクターに賛成です。  
-先輩、レーション食べますか？  
-  
----  
-  
-**Fujimaru 1:**   
-ありがとう。マシュは疲れてないか？  
-  
----  
-  
-**Fujimaru 2:**   
-いただきます。マシュこそ体は問題ないのか？  
-  
----  
-  
-**マシュ:**   
-体、疲れ……もしかして、サーヴァントになって  
-問題はないのか、という質問ですか？  
-  
-**マシュ:**   
-……それは、なんとか。  
-戦うのが怖いぐらいで、体は万全です。  
-  
----  
-  
-**Fujimaru 1:**   
-というか、自分がマスターでいいのか？  
-  
-**マシュ:**   
-もちろんです。わたしに不満はありません。  
-先輩はこの春ＮＯ．１のベストマスターではないかと。  
-  
----  
-  
-**Fujimaru 2:**   
-サーヴァントになって不満はない？  
-  
-**マシュ:**   
-……それは……うまく言えません。  
-自分が戦闘機になったら……と想像してもらえれば。  
-  
-**マシュ:**   
-空を飛ぶ事ができるようになっても、  
-メンテナンスは自分の手では行えない。  
-  
-**マシュ:**   
-どれほど強い力を有しても『存在する』という  
-根本的な活動にマスターが必要なんです。  
-  
-**マシュ:**   
-……リスクとリターンは合っていますが、  
-先輩に負担をかけているかと思うと、気持ちが曇ります。  
-  
----  
-  
-**Dr.ロマン:**   
-&mdash;！  
-休憩はそこまで、周囲に生体反応がある！  
-  
-**マシュ:**   
-っ……！  
-マスター、指示をお願いします！  
-  
-**--ARROW--**  
-  
-**マシュ:**   
-……ふう。  
-良かった、今回もなんとかなりましたね、マスター。  
-  
-**オルガマリー:**   
-もう完全にサーヴァントとしてやっていけるわね。  
-ここの程度も知れたし、もう怖いものはないんじゃない？  
-  
-**マシュ:**   
-それは……どうでしょうか。  
-どんなにうまく武器を使えても、戦闘そのものは……  
-  
-**Dr.ロマン:**   
-ごめん、話はあと！  
-すぐにそこから逃げるんだ三人とも！  
-  
-**Dr.ロマン:**   
-まだ反応が残っている！  
-しかもこれは&mdash;  
-  
-**オルガマリー:**   
-な&mdash;まさか、あれって!?  
-  
-**Dr.ロマン:**   
-そこにいるのはサーヴァントだ！  
-  
-**Dr.ロマン:**   
-戦うな藤丸、マシュ！  
-君たちにサーヴァント戦はまだ早い……！  
-  
-**オルガマリー:**   
-そんなこと言っても逃げられないわよ！  
-  
-**オルガマリー:**   
-マシュ、戦いなさい！  
-同じサーヴァントよ、なんとかなるでしょう!?  
-  
-**マシュ:**   
-……………はい。  
-最善を尽くします……！  
-  
-**--ARROW--**  
-  
-**マシュ:**   
-ハァ&mdash;ハ、ァ&mdash;  
-勝てた……絶対ダメだと思ったのに、勝てた&mdash;  
-  
-**Dr.ロマン:**   
-……ゴメン、休んでいる暇はないんだマシュ。  
-  
-**Dr.ロマン:**   
-<u>今の反応と同じもの</u>がそちらに向かっている。  
-……どうするべきか、言わなくてもわかるね？  
-  
-**マシュ:**   
-え&mdash;同じ反応って、そんな&mdash;  
-  
-**オルガマリー:**   
-藤丸！　撤退よ、急ぎなさい！  
-とにかくここから離れるの！  
-  
-## 第6節: 影のサーヴァント  
-  
-**オルガマリー:**   
-ハァ、ハァ、ハ&mdash;ああもう、どういう事よ!?  
-なんでサーヴァントがいるの!?  
-  
-**Dr.ロマン:**   
-そうか……聖杯戦争だ！  
-その街では聖杯戦争が行われていた！  
-  
-**Dr.ロマン:**   
-本来なら冬木で召喚された七騎による殺し合いだけど、  
-そこはもう“何かが狂った”状況なんだ！  
-  
-**Dr.ロマン:**   
-マスターのいないサーヴァントがいても不思議じゃない。  
-そもそも、サーヴァントの敵はサーヴァントだ！  
-  
-**マシュ:**   
-……じゃあ……わたしがいるかぎり、  
-他のサーヴァントに狙われる……？  
-  
-**オルガマリー:**   
-マシュは聖杯とは無関係でしょう！  
-アレはただの、理性を亡くした亡霊よ！  
-  
-**F：サーヴァント:**   
-&mdash;見ツケタゾ。  
-新シイ獲物。聖杯ヲ、我ガ手ニ！  
-  
-**Dr.ロマン:**   
-サーヴァント反応、確認！  
-そいつはアサシンのサーヴァントだ！  
-  
-**マシュ:**   
-……！　応戦します！  
-先輩、わたしを使ってください……！  
-  
----  
-  
-**Fujimaru 1:**   
-わかった、絶対に勝たせてみせる！！  
-  
----  
-  
-**Fujimaru 2:**   
-すまない、なんとかしのいでくれ！  
-  
----  
-  
-**マシュ:**   
-&mdash;はい。  
-あなたに勝利を、マスター！  
-  
-**--ARROW--**  
-  
-**マシュ:**   
-ハァ&mdash;これで、どうだっ……！  
-  
-**F：サーヴァント:**   
-&mdash;ドウ　モ　何モ、話ニナラン。  
-コレデハ　私一人デ　十分ダッタカ。  
-  
----  
-  
-**Fujimaru 1:**   
-……どういう意味だ？  
-  
----  
-  
-**Fujimaru 2:**   
-……マシュ、下がれ！  
-  
----  
-  
-**Dr.ロマン:**   
-藤丸、追いつかれた！  
-もう一体、そっちが本命だ！  
-  
-**オルガマリー:**   
-そんな……一体でも負けてるのに、  
-二体同時に襲ってくるの!?  
-  
-**マシュ:**   
-あ&mdash;  
-  
-**F：サーヴァント:**   
-決メルゾ　ランサー。  
-ドコノ英霊カ知ラヌガ、<ruby>御首<rt>ミシルシ</rt></ruby>ニハ違イナイ  
-  
-**G：サーヴァント:**   
-&mdash;ハ。  
-ハハハハハハハハハハハハハハハハ！  
-  
-**Dr.ロマン:**   
-所長、マシュ、しっかりするんだ……！  
-足を止めちゃいけない！  
-  
-**フォウ:**   
-フォウ、フォーウ！  
-  
-**G：サーヴァント:**   
-&mdash;ハ。  
-ハハハハハハハハハハハハハハハハ！  
-  
-**Dr.ロマン:**   
-くそ、二人とも飲まれている……  
-指示を、藤丸[♂ 君 /♀️ ちゃん]！　冷静なのは君だけだ！  
-  
----  
-  
-**Fujimaru 1:**   
-……今は逃げるしかない！  
-  
-**マシュ:**   
-先輩……！  
-  
-**G：サーヴァント:**   
-面白イ　面白イ　面白イ　面白イ！  
-  
-**マシュ:**   
-く、つぁ……！  
-  
-**G：サーヴァント:**   
-面白イ　殺シタイ　逃ゲル背中ホド　美シイ！  
-  
----  
-  
-**Fujimaru 2:**   
-こうなったら戦うしかない！  
-  
-**マシュ:**   
-……了解です。もう、それしかありません……！  
-  
-**F：サーヴァント:**   
-ハ。未熟未熟。戦ウモ死ニ筋、逃ゲルモ無理筋。  
-未熟者ノ末路トハ　ドウアレ無様ヨナ。  
-  
-**G：サーヴァント:**   
-ソレデヨイ。藻掻クガヨイ。無様ナ者ホド面白イ！  
-  
-**オルガマリー:**   
-た、戦うって正気!?  
-どうあっても勝ち目がないじゃない、アレ!?  
-  
-**マシュ:**   
-……それでも戦うしかありません。  
-死中に活を見いだします……！  
-  
-**F：サーヴァント:**   
-ハ&mdash;死ンダゾ、娘……！  
-  
-**？？？:**  
-小娘かと思えばそれなりに<ruby>兵<rt>つわもの</rt></ruby>じゃねえか。  
-なら放っておけねえな。  
-  
----  
-  
-**F：サーヴァント:**   
-ヌゥ……！　何者ダ……!?  
-  
-**？？？:**  
-何者って、見れば分かんだろご同輩。  
-なんだ、泥に飲まれちまって目ん玉まで腐ったか？  
-  
-**--ARROW--**  
-  
-**G：サーヴァント:**   
-貴様、キャスター！  
-ナゼ　漂流者ノ　肩ヲ持ツ……!?  
-  
-**キャスター:**   
-あん？　テメエらよりマシだからに決まってんだろ。  
-それとまあ、見所のあるガキは嫌いじゃない。  
-  
-**キャスター:**   
-そら、構えなそこのお嬢ちゃん。腕前じゃあアンタは  
-ヤツに負けてねえ。気を張れば番狂わせもあるかもだ。  
-  
-**マシュ:**   
-は……はい、頑張ります！  
-  
-**キャスター:**   
-[♂ 坊主 /♀️ お嬢ちゃん]がマスターかい？  
-なら指示はアンタに任せようか。  
-  
-**キャスター:**   
-オレはキャスターのサーヴァント。  
-故あってヤツラとは敵対中でね。  
-  
-**キャスター:**   
-敵の敵は味方ってワケじゃないが、  
-今は信頼してもらっていい。  
-  
-**キャスター:**   
-ひとりで健気に戦ったあのお嬢ちゃんに免じて、  
-仮契約だがアンタのサーヴァントになってやるよ！  
-  
-**--ARROW--**  
-  
-**F：サーヴァント:**   
-グ&mdash;オノレ、聖杯ヲ、目ノ前ニ、シテ&mdash;  
-  
-**マシュ:**   
-あ、あの……ありがとう、ございます。  
-危ないところを助けていただいて……  
-  
-**キャスター:**   
-おう、おつかれさん。  
-この程度貸しにもならねえ、気にすんな。  
-  
-**キャスター:**   
-それより自分の身体の心配だな。ケツのあたり、  
-アサシンのヤロウにしつこく狙われてただろう？  
-  
-**マシュ:**   
-ひゃん……！  
-  
-**キャスター:**   
-おう、なよっとしてるようでいい体してるじゃねえか！  
-役得役得っと。  
-  
-**キャスター:**   
-何のクラスだかまったくわからねえが、その頑丈さは  
-セイバーか？　いや、剣は持ってねえけどよ。  
-  
-**オルガマリー:**   
-………ちょっと、藤丸。  
-アレ、どう思う？  
-  
----  
-  
-**Fujimaru 1:**   
-まごう事なきセクハラオヤジだ。  
-  
----  
-  
-**Fujimaru 2:**   
-……味方、かな……？  
-  
----  
-  
-**Dr.ロマン:**   
-とりあえず事情を聞こう。  
-どうやら彼はまともな英霊のようだ。  
-  
-**キャスター:**   
-おっ、話の早いヤツがいるじゃねえか。  
-なんだオタク？　そいつは魔術による連絡手段か？  
-  
-**Dr.ロマン:**   
-はじめましてキャスターのサーヴァント。御身がどこの  
-英霊かは存じませんが、我々は尊敬と畏怖をもって、  
-  
-**キャスター:**   
-ああ、そういう前口上は結構だ。聞き飽きた。てっとり  
-早く用件だけ話せよ軟弱男。そういうの得意だろ？  
-  
-**Dr.ロマン:**   
-うっ……そ、そうですか、では早速。……軟弱……  
-軟弱男とか、また初対面で言われちゃったぞ……  
-  
-**--ARROW--**  
-  
-**Dr.ロマン:**   
-……以上が我々、カルデアの事情です。  
-  
-**Dr.ロマン:**   
-現在は藤丸がマスターとして  
-現地調査を行っています。  
-  
-**Dr.ロマン:**   
-確認しますが、貴方はこの街で起きた聖杯戦争の  
-サーヴァントであり、唯一の生存者なのですね？  
-  
-**キャスター:**   
-負けてない、という意味ならな。オレたちの聖杯戦争は  
-いつの間にか違うモノにすり替わっていた。  
-  
-**キャスター:**   
-経緯はオレにも分からねえ。街は一夜で炎に覆われ、  
-人間はいなくなり、残ったのはサーヴァントだけだった。  
-  
-**キャスター:**   
-真っ先に聖杯戦争を再開したのはセイバーのヤツだ。  
-<ruby>奴<rt>やっこ</rt></ruby>さん、水を得た魚みてえに暴れ出してよ。  
-  
-**キャスター:**   
-セイバーの手でアーチャー、ランサー、ライダー、  
-バーサーカー、アサシンが倒された。  
-  
-**オルガマリー:**   
-七騎のサーヴァントによるサバイバル……それが  
-この街で起きた聖杯戦争のルールだったわね。  
-  
-**マシュ:**   
-キャスターさんはその中で勝ち残った……  
-いえ、生き残ったサーヴァントというワケですね。  
-  
-**キャスター:**   
-ああ。そしてセイバーに倒されたサーヴァントは  
-さっきの二人よろしく、真っ黒い泥に汚染された。  
-  
-**キャスター:**   
-連中はボウフラみてえに湧いてきやがった怪物どもと  
-一緒に何かを探しだし始めやがった。  
-  
-**キャスター:**   
-んで、面倒な事に探しものにはオレも含まれている。  
-オレを仕留めないかぎり、聖杯戦争は終わらないからな。  
-  
-**Dr.ロマン:**   
-残ったサーヴァントはセイバーと貴方だけ……  
-では貴方がセイバーを倒せば、  
-  
-**キャスター:**   
-おう、この街の聖杯戦争は終わるだろうよ。  
-この状況が元に戻るかどうかまではわからねえがな。  
-  
-**オルガマリー:**   
-なんだ。わたしたちを助けてくれたけど、  
-結局は自分のためだったのね。  
-  
-**オルガマリー:**   
-貴方はセイバーを倒したい。けれど一人では勝ち目がない  
-からわたしたちに目を付けた……違って？  
-  
-**キャスター:**   
-その通りだ。だが悪い話じゃあねえだろ？  
-なにしろ&mdash;そら、お客さんの登場だ。  
-  
-**？？？:**  
-ＧｕＯＯＯＯＯＯＯＯ！！！！！！  
-  
-**オルガマリー:**   
-ひぃ……！  
-  
-**キャスター:**   
-コイツらは無尽蔵に湧いてきやがる。  
-味方は多いに越した事はねえってこった！  
-  
-**--ARROW--**  
-  
-**マシュ:**   
-ふぅ……やっと落ち着きました。  
-確かに、これでは満足に話もできません。  
-  
-**キャスター:**   
-わりぃなあ。オレがランサーとして召喚されていれば、  
-セイバーなんざ一刺しで仕留めていたんだがね。  
-  
-**キャスター:**   
-いやあ、やっぱキャスターは合わないわ。冬木の  
-聖杯戦争でキャスターなんてやってらんねえっての。  
-  
----  
-  
-**Fujimaru 1:**   
-ランサーだったら……？  
-  
----  
-  
-**Fujimaru 2:**   
-キャスターは無理ゲー……？  
-  
----  
-  
-**マシュ:**   
-そういうコトもあるんですよ、先輩。  
-英霊の中には複数のクラス特性を持つものがいます。  
-  
-**マシュ:**   
-この人は槍の使い手でありながら、  
-魔術師の側面も持つ、高レベルの英霊と思われます。  
-  
-**マシュ:**   
-……憶測にすぎませんが、きっとトップサーヴァントの  
-一人です。<ruby>妖精情報誌<rt>ヴィヴィアン</rt></ruby>にも載っていそうな。  
-  
-**キャスター:**   
-そういうこった。アンタらはカルデアって組織のマスター  
-だって言ったが……まあ、そのあたりはいいか。  
-  
-**キャスター:**   
-サーヴァントの鉄則でな、自分の時代以外の事情には  
-深く関わらない。あくまで兵器として協力するだけだ。  
-  
-**キャスター:**   
-アンタらの目的はこの異常の調査。  
-オレの目的は聖杯戦争の幕引き。  
-  
-**キャスター:**   
-利害は一致しているんだ。  
-お互い、陽気に手を組まないか？  
-  
-**オルガマリー:**   
-……それが合理的な判断だけど。  
-その場合、貴方のマスターは誰になるの？  
-  
-**キャスター:**   
-そりゃあそこの[♂ 坊主 /♀️ お嬢ちゃん]だろ。  
-アンタにマスター適性はないしな。  
-  
-**キャスター:**   
-いや、ホントに珍しいな。魔術回路の量も質も一流なのに  
-マスター適性だけ無いなんて。何かの呪いか？  
-  
-**オルガマリー:**   
-うるさいわね、どうでもいいでしょうそんなコト！  
-  
-**オルガマリー:**   
-藤丸、そいつはキミに任せるわ。  
-せいぜいうまく使いなさい。  
-  
-**キャスター:**   
-決まりだな。  
-この街限定の契約だが、よろしく頼むぜ。  
-  
-**キャスター:**   
-となれば、あとは目的の確認だな。  
-アンタらが探しているのは間違いなく大聖杯だ。  
-  
-**Dr.ロマン:**   
-大聖杯……？  
-聞いた事がないけど、それは？  
-  
-**キャスター:**   
-この土地の本当の“心臓”だ。  
-特異点とやらがあるとしたらそこ以外ありえない。  
-  
-**キャスター:**   
-だがまあ、大聖杯にはセイバーのヤロウが居座っている。  
-ヤツに汚染された残りのサーヴァントもな。  
-  
-**オルガマリー:**   
-残っているのはバーサーカーとアーチャー？  
-どうなの、その二体は。強いの？  
-  
-**キャスター:**   
-アーチャーのヤロウはまあ、オレがいればなんとかなる。  
-問題はバーサーカーだな。  
-  
-**キャスター:**   
-アレはセイバーでも手を焼く怪物だ。  
-近寄らなけりゃ襲ってこねえから無視するのも手だな。  
-  
-**Dr.ロマン:**   
-状況は分かりました。  
-我々はMr.キャスターと共に大聖杯を目指します。  
-  
-**Dr.ロマン:**   
-Mr.キャスター、案内は頼めますか？  
-  
-**キャスター:**   
-ミスターはいらねえよ。道筋は教える、  
-いつ突入するかは[♂ 坊主 /♀️ お嬢ちゃん]次第だ。  
-  
-**Dr.ロマン:**   
-助かります。では探索を再開しましょうか。  
-よろしく頼むよ、藤丸[♂ 君 /♀️ ちゃん]。  
-  
-## 第7節: 大聖杯を目指せ  
-  
+Did you just say, "I will kill you? "  
+   
+**Mash:**   
+That came out wrong.   
+What I meant to say was, "you're going to be killed. "  
+   
+**Mash:**   
+Um, I was confused because everything happened so quickly. As much as I want to gather our thoughts, please look around you.   
+   
+---  
+   
+**???:**  
+Gi&mdash;GAAAAAAAAAAAA!   
+   
+**Mash:**   
+&mdash;Linguistic communication impossible.   
+&mdash;Identifying life-form as hostile.   
+   
+**Mash:**   
+Master, your orders, please.   
+You and I will overcome this together!   
+   
 **--BATTLE--**  
-  
-  
-## 第8節: マシュの特訓  
-  
-**マシュ:**   
-………………。  
-  
-**オルガマリー:**   
-ちょっと、キミ。藤丸。  
-キリエライト、見るからに落ちこんでいるわよ。  
-  
-**オルガマリー:**   
-アナタ、一応マスターなんでしょ。  
-何かケアしてあげなさいよ。  
+   
+**Mash:**   
+&mdash;phew.   
+I had my worries, but we made it somehow.   
+   
+**Mash:**   
+Are you hurt Senpai?   
+Does your stomach hurt, or does it feel heavy?   
   
 ---  
   
 **Fujimaru 1:**   
-マシュ、どうかした？  
-  
-**マシュ:**   
-……！　いえ、特に変化はありません、  
-わたしは平常運転です、マスター！  
-  
-**マシュ:**   
-ですが……変化がない、というのが問題で……  
-  
+What was that?   
+   
+**Mash:**   
+...I don't know.   
+Something that doesn't exist in our era, let alone this era.   
+   
+**Mash:**   
+That was the cause of the Singularity, or something like it. I guess calling it that isn't too far off, or maybe it is.   
+   
 ---  
   
 **Fujimaru 2:**   
-……やっぱり……アレ？  
-  
-**マシュ:**   
-……………はい。  
-わたしから宣言するのは情けないのですが……  
-  
+Mash, you're that powerful?   
+   
+**Mash:**   
+...No, in combat training I always had to stay after class.   
+I couldn't even do a pull-up.   
+   
+**Mash:**   
+The reason I was able to fight like that just now&mdash;  
+   
+---  
+   
+**Dr. Roman:**   
+Right, I finally got through! Hello?   
+This is Chaldea Command Room? Do you read me?   
+   
+**Mash:**   
+This is Mash Kyrielight, a member of A Team.   
+At this time, I've completed the shift to Singularity F.   
+   
+**Mash:**   
+My sole companion is Fujimaru.   
+Mind and body both intact.   
+   
+**Mash:**   
+Rayshift compatibility, Master compatibility both satisfactory. Please register Fujimaru as an official researcher.   
+   
+**Dr. Roman:**   
+...So Fujimaru also got dragged into the Rayshift, huh?   
+   
+**Dr. Roman:**   
+I'm impressed you didn't "lose your existence. "  
+I'm really glad.   
+   
+**Dr. Roman:**   
+Also, Mash...Of course I'm glad you're safe, too...  
+But what's up with that outfit?   
+   
+**Dr. Roman:**   
+It's shameless!   
+I didn't raise you to dress like that!   
+   
+**Mash:**   
+I transformed into this.   
+I couldn't protect Senpai wearing Chaldea's uniform.   
+   
+**Dr. Roman:**   
+What do you mean by transformed, Mash?   
+Did you hit your head? Or was it that...  
+   
+**Mash:**   
+&mdash;Dr. Roman. Please be quiet.   
+   
+**Mash:**   
+Please check my condition.   
+I think you'll understand the situation better.   
+   
+**Dr. Roman:**   
+Your physical condition?   
+Wh-Whoa, whoa, whoa, WHOA!   
+   
+**Dr. Roman:**   
+Physical strength, Magical Circuits, everything's improved! You're not so much a human, but&mdash;  
+   
+**Mash:**   
+Yes, I'm a Servant.   
+   
+**Mash:**   
+I don't remember how it happened, but it seems I have survived by fusing with a Servant.   
+   
+**Mash:**   
+To investigate and resolve Singularity F, a Servant was provided in advance at Chaldea.   
+   
+**Mash:**   
+This Servant lost its Master in that explosion, and was doomed to vanish.   
+   
+**Mash:**   
+But at the last second, he offered me a contract.   
+   
+**Mash:**   
+In return for the abilities and Noble Phantasm of a Heroic Spirit, he wanted me to eliminate the cause of this Singularity.   
+   
+**Dr. Roman:**   
+A Heroic Spirit and a human, fused...  
+A Demi-Servant? That's Chaldea's sixth experiment.   
+   
+**Dr. Roman:**   
+I see. So it finally succeeded, huh?   
+Does this Heroic Spirit still have his consciousness?   
+   
+**Mash:**   
+...No, he gave me his combat abilities then vanished.   
+   
+**Mash:**   
+He never revealed his True Name even at the end.   
+So I don't even know whose Heroic Spirit I am...  
+   
+**Mash:**   
+...Nor what kind of Noble Phantasm I'm holding.   
+At this point there's too much I don't know.   
+   
+**Dr. Roman:**   
+Hey, look on the bright side.   
+Not every Servant who gets summoned is cooperative.   
+   
+**Dr. Roman:**   
+Now that you're a Servant, this is in our favor.   
+After all, you're completely trustworthy.   
+   
+**Dr. Roman:**   
+Fujimaru, it looks like you're the only one who Rayshifted there safely.   
+   
+**Dr. Roman:**   
+Also, I am sorry.   
+Forcing you into this without any explanation.   
+   
+**Dr. Roman:**   
+I'm sure you're full of questions, but try not to worry.   
+   
+**Dr. Roman:**   
+You've already got a powerful weapon.   
+Humanity's most powerful weapon - Mash.   
+   
+**Mash:**   
+I don't know about "most powerful. "  
+I'm the one who gets blamed later.   
+   
+**Dr. Roman:**   
+Now, now, as long as Fujimaru understands that's what a Servant is, it'll be fine.   
+   
+**Dr. Roman:**   
+But Fujimaru, while Servants can be reliable allies, they also have a weakness.   
+   
+**Dr. Roman:**   
+They disappear without their magical energy source.   
+Their Master.   
+   
+**Dr. Roman:**   
+I'm still analyzing the data, but it's indicating that Mash has become your Servant.   
+   
+**Dr. Roman:**   
+Meaning that you're Mash's Master. She's the first Heroic Spirit you've entered a contract with.   
+   
 ---  
   
-**マシュ:**   
-………その。わたしは先輩の指示のもと、  
-試運転には十分な経験を積みました。  
+**Fujimaru 1:**   
+I'm Mash's Master?   
+   
+---  
   
-**マシュ:**   
-なのに……わたしはまだ宝具が使えません。  
+**Fujimaru 2:**   
+Uh, I can't keep up with what you're saying...  
   
-**マシュ:**   
-使い方すら分からない、  
-欠陥サーヴァントのようなのです……  
-  
-**フォウ:**   
-フォウ……  
-  
-**Dr.ロマン:**   
-ああ、そこを気にしていたのか。  
-マシュは責任感が強いからなあ……  
-  
-**Dr.ロマン:**   
-でもそこは一朝一夕でいく話じゃないと思うよ？  
-だって宝具だし。  
-  
-**Dr.ロマン:**   
-英霊の奥の手を一日二日で使えちゃったら、  
-それこそサーヴァントたちの面目が立たないというか、  
-  
-**キャスター:**   
-あ？　そんなのすぐに使えるに決まってんじゃねえか。  
-英霊と宝具は同じもんなんだから。  
-  
-**キャスター:**   
-お嬢ちゃんがサーヴァントとして戦えるのなら、  
-もうその時点で宝具は使えるんだよ。  
-  
-**キャスター:**   
-なのに使えないってコトぁ、  
-単に魔力が詰まってるだけだ。  
-  
-**キャスター:**   
-なんつーの、やる気？　いや弾け具合？  
-とにかく、大声をあげる練習をしてねえだけだぞ？  
-  
-**マシュ:**   
-そうなんですか!?  
-そーうーなーんーでーすーかー！？  
-  
-**フォウ:**   
-ファーーーーー!?  
-  
-**オルガマリー:**   
-ちょっと、いきなり大声ださないで！  
-鼓膜が破れかけたわよ、本気で！  
-  
-**マシュ:**   
-ぁ……申し訳ありません、所長。  
-でも、大声をあげればいいとキャスターさんが……  
-  
-**キャスター:**   
-いや、モノの例えだったんだが……  
-まあ、ともあれやる気があるのは結構だ。  
-  
-**キャスター:**   
-藤丸。お嬢ちゃんがこう言ってるんだ。  
-少しばかり寄り道して構わねえな？  
+---  
+   
+**Dr. Roman:**   
+Right, I don't blame you for being confused. I never explained what Masters and Servants are to you, anyway.   
+   
+**Dr. Roman:**   
+Now's a good time, I'll explain it to you in detail.   
+The current mission has two new goals...  
+   
+**Mash:**   
+Doctor, you're breaking up.   
+10 seconds until the connection is lost.   
+   
+**Dr. Roman:**   
+Huh, so Sheba's output is unstable because we switched to the backup generators? Oh well, I'll brief you later.   
+   
+**Dr. Roman:**   
+Both of you, I'm getting a strong leyline reading about 2 km from where you are.   
+   
+**Dr. Roman:**   
+Try to get there somehow.   
+That way, it will stabilize our connection.   
+   
+**Dr. Roman:**   
+Listen, don't do anything reckless, will you?   
+I'll try to bring the power back up as soon as&mdash;  
+   
+**Mash:**   
+...  
   
 ---  
   
 **Fujimaru 1:**   
-寄り道って、どんな？  
-  
+The connection got cut off.   
+   
+**Mash:**   
+Well, that's the Doctor for you.   
+You can't rely on him in situations like this.   
+   
 ---  
   
 **Fujimaru 2:**   
-純真なマシュをからかわない  
-  
+It can't be helped, let's get going.   
+   
+**Mash:**   
+Right, you're so dependable Senpai.   
+I was actually terrified, so thank goodness.   
+   
 ---  
-  
-**キャスター:**   
-なに、ただの特訓だ。すぐに終わる。  
-今のオレはキャスターだぜ？　治療なら任せておけ。  
-  
-**キャスター:**   
-まずは……ちょい、ちょいと。  
-厄寄せのルーンを刻んでだな……よし出来た。  
-  
-**オルガマリー:**   
-え？　なにしてるのアナタ。  
-なんでわたしのコートにルーンを刻んでいるの？  
-  
-**キャスター:**   
-アンタなら狙われても自分でなんとかできるだろ。  
-ほら、来たぜ。  
-  
-**？？？:**  
-Ｇｒｒｒｒｒｒ……  
-Ｚｕａａａａａａａａａ……！  
-  
-**オルガマリー:**   
-意味が分からないんですけどーーー！？  
-  
-**マシュ:**   
-しょ、所長、わたしの後ろに！  
-先輩も、戦闘準備お願いします……！  
-  
-**キャスター:**   
-よしよし、こんだけ集まれば十分だ。  
-  
-**キャスター:**   
-つまるところ、宝具ってのは英霊の本能だ。  
-なまじ理性があると出にくいんだよ。  
-  
-**キャスター:**   
-なーんで、お嬢ちゃんにはまず精も根も使い果たして  
-もらうって寸法さ！　冴えてるな、オレ！  
-  
+   
+**Fou:**   
+Kyu.   
+Fou, Fooou!   
+   
+**Mash:**   
+That's right, you're with us as well, aren't you Fou?   
+Thank you for cheering us up.   
+   
+**Mash:**   
+Apparently, Fou Rayshifted here with you Senpai.   
+   
+**Mash:**   
+...Ah. But I forgot to let the Doctor know...  
+   
+**Fou:**   
+Kyu.   
+Fou, kyaao!   
+   
 ---  
   
 **Fujimaru 1:**   
-これ治療じゃない、ただの荒療治だ！  
+He said, "don't worry about that guy. "  
   
 ---  
-  
-**Fujimaru 2:**   
-もしかしてバカなんですかー！？  
-  
----  
-  
-**--ARROW--**  
-  
-**マシュ:**   
-限界、です&mdash;これ以上の連続戦闘、は&mdash;  
-すみません、キャスター、さん&mdash;  
-  
-**マシュ:**   
-こういった根性論ではなく、  
-きちんと理屈にそった教授、を&mdash;  
-  
-**キャスター:**   
-&mdash;分かってねえなあ。  
-コイツは見込み違いかねぇ。  
-  
-**キャスター:**   
-まあいいか、そん時はそん時だ。  
-んじゃあ次の相手はオレだ。  
-  
-**キャスター:**   
-味方だからって遠慮しなくていいぞ。  
-オレも遠慮なしで藤丸を殺すからよ。  
-  
-**マシュ:**   
-っ……!?  
-  
-**オルガマリー:**   
-なに言ってるのアナタ、正気!?  
-この訓練に藤丸は関係ないでしょう!?  
-  
-**キャスター:**   
-サーヴァントの問題はマスターの問題だ。  
-運命共同体だって言わなかったか、オレ？  
-  
-**キャスター:**   
-おまえもそうだろ、藤丸？  
-お嬢ちゃんが立てなくなった時が<ruby>手前<rt>テメェ</rt></ruby>の死だ。  
-  
-**マシュ:**   
-……！  
-マスター……下がって、ください……！  
-  
-**マシュ:**   
-わたしは&mdash;先輩の足手まといには、  
-なりませんから……！  
-  
-**キャスター:**   
-そうこなくっちゃな。  
-んじゃあまあ、マトモなサーヴァント戦といきますか！  
-  
-**--ARROW--**  
-  
-**マシュ:**   
-ハァ&mdash;ハァ&mdash;ハッ&mdash;！  
-  
-**キャスター:**   
-おう、そろそろ仕上げだ！  
-主もろとも燃え尽きな！  
-  
-**キャスター:**   
-我が魔術は炎の檻、茨の如き緑の巨人。  
-因果応報、<ruby>人事<rt>じんじ</rt></ruby>の<ruby>厄<rt>やく</rt></ruby>を清める<ruby>杜<rt>もり</rt></ruby>&mdash;  
-  
-**キャスター:**   
-倒壊するはウィッカー・マン！  
-オラ、善悪問わず土に還りな&mdash;！  
-  
-**マシュ:**   
-ぁ&mdash;あ、  
-  
-**マシュ:**   
-（守らないと……使わないと、みんな消える&mdash;  
-　偽物でもいい。今だけでもいい。  
-  
-**マシュ:**   
-　わたしが……わたしがちゃんと使わないと、  
-　みんな無くなってしまう&mdash;！）  
-  
-**マシュ:**   
-ああ、ああぁあああ&mdash;！！！！  
-  
-**--ARROW--**  
-  
-**マシュ:**   
-あ……わたし……  
-宝具を、展開できた……んですか……？  
-  
-**キャスター:**   
-&mdash;ヒュウ。なんとか一命だけはとりとめると  
-思ったが、まさかマスターともども無傷とはね。  
-  
-**キャスター:**   
-喜べ……いや、違うか。  
-褒めてやれよ藤丸。  
-  
-**キャスター:**   
-アンタのサーヴァントになったお嬢ちゃんは、  
-間違いなく一線級の英霊だ。  
-  
-**マシュ:**   
-先輩……わたし、いま……！  
-  
+   
+**Mash:**   
+You're right.   
+I'll find the right time to let him know about Fou later.   
+   
+**Mash:**   
+First, let's head to the coordinates he mentioned. Once we get there, we should be able to set up a base camp.   
+   
+## Section 2: To the Spirit Meridian  
+   
+**Mash:**   
+Senpai.   
+We will soon reach the point Doctor specified.   
+   
+**Mash:**   
+There are only flames as far as the eye can see.   
+It's nothing like the Fuyuki in our data.   
+   
+**Mash:**   
+According to our data, it's an average regional city.   
+There's no record of such a disaster occurring in 2004...  
+   
+**Mash:**   
+The Mana density in the atmosphere is also abnormal.   
+In fact, it's a lot like ancient Earth...  
+   
+**???:**  
+Kyaaaaaaaaaaaaa!!!   
+   
 ---  
   
 **Fujimaru 1:**   
-ああ。おめでとう、マシュ。  
-  
+What was that scream?   
+   
 ---  
   
 **Fujimaru 2:**   
-うん。すごかったよ、マシュ。  
+I'm getting a bad feeling.   
   
 ---  
-  
-**マシュ:**   
-っ……！  
-  
-**フォウ:**   
-フォウ、フォーーーーウ！  
-  
-**Dr.ロマン:**   
-……驚いたな、こんなに早く宝具を解放できるなんて。  
-マシュのメンタルはここまで強くなかったのに……  
-  
-**キャスター:**   
-そりゃあアンタのとらえ方が間違ってたんだよ。  
-お嬢ちゃんはアレだ。守る側の人間だ。  
-  
-**キャスター:**   
-鳥に泳ぎ方を教えても仕方がねえだろ？  
-鳥には高く飛ぶ方法を教えないとな。  
-  
-**キャスター:**   
-だがまあ……それでも  
-真名をものにするには至らなかったか。  
-  
-**マシュ:**   
-あ……はい。宝具は使えるようになりましたが、  
-まだ宝具の真名も、英霊の真名も分かりません……  
-  
-**オルガマリー:**   
-……そう。未熟でもいい……  
-仮のサーヴァントでもいい……  
-  
-**オルガマリー:**   
-そう願って宝具を開いたのね、マシュ。  
-  
-**オルガマリー:**   
-あなたは真名を得て、自分が選ばれたものに&mdash;  
-英霊そのものになる欲が微塵もなかった。  
-  
-**オルガマリー:**   
-だから宝具もあなたに応えた。  
-あーあ、とんだ美談ね。御伽噺もいいところだわ。  
-  
-**マシュ:**   
-あの、所長……  
-  
-**オルガマリー:**   
-ただの嫌味よ、気にしないで。  
-宝具が使えるようになったのは喜ばしいわ。  
-  
-**オルガマリー:**   
-でも真名なしで宝具を使うのは不便でしょ。  
-いい<ruby>呪文<rt>スペル</rt></ruby>を考えてあげる。  
-  
-**オルガマリー:**   
-宝具の疑似展開なんだから……そうね、  
-ロード・カルデアスと名付けなさい。  
-  
-**オルガマリー:**   
-カルデアはあなたにも意味のある名前よ。  
-霊基を起動させるには通りのいい呪文でしょう？  
-  
-**マシュ:**   
-は、はい……！  
-ありがとうございます、所長！  
-  
-**Dr.ロマン:**   
-ロード・カルデアス……うん、それはいい。  
-マシュにぴったりだ！  
-  
-**Dr.ロマン:**   
-そうなるとすぐに試したくなるのが人情だよね。  
-キャスター、マシュの相手を頼めるかい？  
-  
-**キャスター:**   
-ああ、もちろんだ。手加減していたとはいえ、  
-さっきは完全に防がれたからな。  
-  
-**キャスター:**   
-先輩として宝具のイロハを叩き込んでやるよ。  
-準備はいいか、藤丸、お嬢ちゃん？  
-  
-**マシュ:**   
-はい！　お願いします！  
-  
-## 第9節: 暗がりの洞窟  
-  
+   
+**Mash:**   
+It was a woman's scream for sure.   
+Let's hurry over, Senpai!   
+   
+**Olga Marie:**   
+Wh-Who are these guys, anyway?   
+Why do these things keep happening to me?   
+   
+**Olga Marie:**   
+I can't take it anymore! Come save me, Lev!   
+You were always there for me right?   
+   
+**Mash:**   
+Director Olga Marie?   
+   
+**Olga Marie:**   
+Y-You two!   
+What in the world is going on here?   
+   
 **--BATTLE--**  
+   
+**Mash:**   
+The battle is over.   
+Are you hurt, Director?   
+   
+**Olga Marie:**   
+...What's going on?   
+   
+**Mash:**   
+Director? About my situation.   
+I know it's hard to believe, but the truth is&mdash;  
+   
+**Olga Marie:**   
+A Demi-Servant, right?   
+It's pretty obvious that you fused with a Servant.   
+   
+**Olga Marie:**   
+What I want to know is why it's successful now all of a sudden!   
+   
+**Olga Marie:**   
+Enough of that. You!   
+The civilian who showed up late to my speech!   
+   
+**Fujimaru:**   
+!?   
+   
+**Olga Marie:**   
+How did you become a Master?   
+Only first-class Mages can enter contracts with Servants!   
+   
+**Olga Marie:**   
+There's no way you could ever become a Master!   
+What did you do to her to have her do your bidding?   
+   
+---  
   
-**キャスター:**   
-大聖杯はこの奥だ。ちぃとばかり  
-入り組んでいるんで、はぐれないようにな。  
+**Fujimaru 1:**   
+You are way off base!   
+   
+---  
   
-**マシュ:**   
-天然の洞窟……のように見えますが、  
-これも元から冬木の街にあったものですか？  
+**Fujimaru 2:**   
+Well, don't look at me...  
   
-**オルガマリー:**   
-でしょうね。これは半分天然、半分人工よ。  
-魔術師が長い年月をかけて拡げた地下工房です。  
+---  
+   
+**Mash:**   
+There's a misunderstanding, Director.   
+I'm actually the one who forced the contract.   
+   
+**Olga Marie:**   
+What did you say?   
+   
+**Mash:**   
+I'll explain how it happened. That way we can understand each other's situation better.   
+   
+**Mash:**   
+...And that's how it happened. We were dragged into a Rayshift, and teleported here to Fuyuki.   
+   
+**Mash:**   
+No other Master candidates shifted with us.   
+You're the only human we've run into, Director.   
+   
+**Mash:**   
+But this gives me hope. If you're here, that means there must be other candidates who got teleported here...  
+   
+**Olga Marie:**   
+...There aren't, actually.   
+That much I'm certain of.   
+   
+**Olga Marie:**   
+...I hate to admit it, but I know why we were shifted to Fuyuki.   
+   
+**Mash:**   
+So you understand why we survived?   
+   
+**Olga Marie:**   
+All of us here share a common denominator. Neither me, nor you, nor that one "were actually inside the Coffins. "  
+   
+**Olga Marie:**   
+Though Rayshifting flesh and blood isn't likely to succeed, it's not impossible.   
+   
+**Olga Marie:**   
+Meanwhile, the coffins have breakers.   
+When the success rate's below 95%, the power's cut off.   
+   
+**Olga Marie:**   
+So they never actually Rayshifted.   
+We're the only ones here.   
+   
+**Mash:**   
+I see. That's why you're the director.   
+   
+---  
   
-**オルガマリー:**   
-それより、キャスターのサーヴァント。  
-大事なことを確認していなかったのだけど。  
+**Fujimaru 1:**   
+You can be reliable when you're calm, I see.   
+   
+**Olga Marie:**   
+What's that supposed to mean?   
+Are you saying I'm not usually calm?   
+   
+---  
   
-**オルガマリー:**   
-セイバーのサーヴァントの真名は知っているの？  
-何度か戦っているような口ぶりだったけど。  
+**Fujimaru 2:**   
+Huh? You weren't planning to shift, Director?   
+   
+**Olga Marie:**   
+...Is that a problem? What commander heads to the front lines? Didn't I tell you that you were my tools?   
+   
+---  
+   
+**Olga Marie:**   
+...Hmmph, whatever.   
+I understand the situation now.   
+   
+**Olga Marie:**   
+Fujimaru, since it's an emergency I'll approve you and Kyrielight's contract.   
+   
+**Olga Marie:**   
+From here on out, you'll follow my commands.   
+First, let's set up a base camp.   
+   
+**Olga Marie:**   
+Listen, this is the time to search for a Leyline Terminal.   
+A place where magical energy converges.   
+   
+**Olga Marie:**   
+There we'll be able to contact Chaldea.   
+So in this town's case...  
+   
+**Mash:**   
+This is the point, Director.   
+The Ley point is at your feet.   
+   
+**Olga Marie:**   
+Whoa! Oh r-right, I knew that, I knew that, of course!   
+   
+**Olga Marie:**   
+Mash, place your shield on the ground. I'm going to set up a summoning circle, with your Noble Phantasm as the catalyst.   
+   
+**Mash:**   
+...So she says.   
+Are you all right with that, Senpai?   
+   
+---  
   
-**キャスター:**   
-ああ、知っている。ヤツの宝具を食らえば誰だって  
-真名……その正体に突き当たるからな。  
+**Fujimaru 1:**   
+Sure, go ahead and do it.   
+   
+---  
   
-**キャスター:**   
-他のサーヴァントが倒されたのも、  
-ヤツの宝具があまりにも強力だったからだ。  
+**Fujimaru 2:**   
+I'm not about letting go of the weapon.   
+   
+---  
+   
+**Mash:**   
+...Understood.   
+Now let us begin.   
+   
+**Mash:**   
+This is...The same as the summoning experiment chamber at Chaldea.   
+   
+**Dr. Roman:**   
+CQ, CQ. Hello, hello?   
+Okay, the connection's back!   
+   
+**Dr. Roman:**   
+Good job, you secured the connection.   
+Now we can communicate again, and even send rations...  
+   
+**Olga Marie:**   
+Huh?! Why are you running the show, Romani?   
+What about Lev? Where's Lev? Put Lev on!   
+   
+**Dr. Roman:**   
+Waaaahhhhhhhhh!   
+   
+**Dr. Roman:**   
+D-Director, you're alive?   
+And you're unharmed? What the...  
+   
+**Olga Marie:**   
+What's that supposed to mean? Where's Lev?   
+What's the head medic doing in charge?   
+   
+**Dr. Roman:**   
+Don't ask me why.   
+I'm fully aware that I'm not cut out for this job.   
+   
+**Dr. Roman:**   
+But there's nobody else, Olga Marie.   
+   
+**Dr. Roman:**   
+Currently, the surviving full time staff of Chaldea is less than twenty people, including me.   
+   
+**Dr. Roman:**   
+The reason I'm in charge of operations is because there's no one ranked higher than me who survived.   
+   
+**Dr. Roman:**   
+Dr. Lev was supervising from the Command Room.   
+There's no way he could survive that blast.   
+   
+**Olga Marie:**   
+No way&mdash;Lev...  
+No, forget that, wait...please wait.   
+   
+**Olga Marie:**   
+Less than 20 survivors?   
+What about the Master candidates...the coffins?   
+   
+**Dr. Roman:**   
+...47, all in critical condition and we're short on medical supplies. We might be able to save a few, but all of them might be&mdash;  
+   
+**Olga Marie:**   
+Don't be ridiculous! Cryopreserve them immediately!   
+Think about reviving them later. Your top priority is to make sure they don't die!   
+   
+**Dr. Roman:**   
+I forgot the coffins had those functions!   
+I'll get on it right away!   
+   
+**Mash:**   
+...That surprises me.   
+Cryopreservation without prior consent is a crime.   
+   
+**Mash:**   
+Yet you made the decision right away. You put human lives ahead of your own reputation as the director.   
+   
+**Olga Marie:**   
+Don't be stupid! As long as they're not dead, I can explain myself later - why else?   
+   
+**Olga Marie:**   
+In the first place, 47 lives...  
+There's no way can I carry that burden!   
+   
+**Olga Marie:**   
+Please don't die...I'm begging you...  
+If only Lev were here!   
+   
+**Dr. Roman:**   
+...This concludes my report.   
+   
+**Dr. Roman:**   
+Chaldea has lost 80% of its functionality.   
+There's only so much that the remaining staff can do.   
+   
+**Dr. Roman:**   
+I'm shifting available manpower to Rayshift repairs, and maintaining Chaldeas' and Sheba's current states.   
+   
+**Dr. Roman:**   
+As soon as external communications are back up, we'll request supplies and start rebuilding Chaldea.   
+   
+**Olga Marie:**   
+That's fine.   
+I would've done the same if I were there.   
+   
+**Olga Marie:**   
+...Ah. Romani Archaman. I don't like it, but until I return you're in charge of Chaldea.   
+   
+**Olga Marie:**   
+Make the Rayshift repairs your top priority.   
+   
+**Olga Marie:**   
+We'll be investigating this town.   
+The Singularity F.   
+   
+**Dr. Roman:**   
+Director, you're not afraid to be at ground zero?   
+Since when did you become so brave?   
+   
+**Olga Marie:**   
+...Seriously, you don't know when to shut up.   
+   
+**Olga Marie:**   
+I'd like nothing better than to go back now, but it's going to take time till you finish the Rayshift repairs.   
+   
+**Olga Marie:**   
+This town only contains low-level monsters, with Mash as a Demi-Servant we'll be safe.   
+   
+**Olga Marie:**   
+Accident or not, we Animuspheres pride ourselves on doing our best in the situations we're given.   
+   
+**Olga Marie:**   
+I'll be looking into Singularity F with Fujimaru and Mash Kyrielight as investigators.   
+   
+**Olga Marie:**   
+That said, since my field staff is inexperienced, the extent of this mission will be to discover the cause of this anomaly.   
+   
+**Olga Marie:**   
+Analysis and eradication will have to wait until after Chaldea's restored, and I can send in a second team. You okay with that?   
+   
+---  
   
-**マシュ:**   
-強力な宝具……ですか。  
-それはどういう？  
+**Fujimaru 1:**   
+Only discover it?   
+   
+---  
   
-**キャスター:**   
-王を選定する岩の剣のふた振り目。  
-おまえさんたちの時代においてもっとも有名な聖剣。  
+**Fujimaru 2:**   
+That would be nice and easy.   
+   
+---  
+   
+**Dr. Roman:**   
+Roger that. Best of luck to you, Director.   
+   
+**Dr. Roman:**   
+We can now communicate in short bursts.   
+Feel free to contact me in an emergency.   
+   
+**Olga Marie:**   
+...Huh! Even if we sent an SOS, nobody would come to our rescue.   
+   
+**Dr. Roman:**   
+Director?   
+   
+**Olga Marie:**   
+Nothing, I'm cutting off the connection.   
+Go do your job.   
+   
+**Mash:**   
+...Director, are you sure about this?   
+There's also the option of waiting here for rescue.   
+   
+**Olga Marie:**   
+I can't afford to do that...After we return to Chaldea, who knows how long it will take to select the next team?   
+   
+**Olga Marie:**   
+A month won't be enough to gather personnel or funds.   
+Do you know how much the Association will harass me in the meantime?   
+   
+**Olga Marie:**   
+Worst case, they'll blame me for mismanagement, and I'll lose Chaldea to them.   
+   
+**Olga Marie:**   
+If that came to pass, I'd be toast. I can't go back empty-handed. I need something that will shut them up!   
+   
+**Olga Marie:**   
+...Sorry, but you're both stuck with me,  
+Mash, Fujimaru.   
+   
+**Olga Marie:**   
+Come on, let's explore this town. The cause of this twisted history must be here somewhere.   
+   
+## Section 3: Investigate the Bridge  
+   
+**Olga Marie:**   
+Stop. Before we start exploring the city,  
+Fujimaru, isn't there something you want to say to me?   
+   
+---  
   
-**キャスター:**   
-その名は、  
+**Fujimaru 1:**   
+No, nothing in particular.   
+   
+---  
   
-**サーヴァント:**   
-<ruby>約束された勝利の剣<rt>エクスカリバー</rt></ruby>。  
-騎士の王と誉れの高い、アーサー王の持つ剣だ。  
+**Fujimaru 2:**   
+Yeah, nothing in particular.   
+   
+---  
+   
+**Olga Marie:**   
+...You're not very smart are you?   
+Remember what happened in the Command Room?   
+   
+**Mash:**   
+Senpai, it's probably about when you dozed off in the Command Room.   
+   
+**Mash:**   
+It'll come back to you if you focus.   
+That was, you know&mdash;  
+   
+**Mash:**   
+We made it in time. Senpai, your number is...  
+A single digit, in the front row.   
+   
+**Mash:**   
+Please take any available seat in the front row.   
+Right in front of the Director, what a bad luck.   
+   
+**Olga Marie:**   
+...  
+   
+**Lev:**   
+Let's cut the chit-chat.   
+It's about to start.   
+   
+**Olga Marie:**   
+Not quite on time, but it looks like everybody's here.   
+   
+**Olga Marie:**   
+Welcome to Special Organization, Chaldea.   
+I'm the director, Olga Marie Animusphere.   
+   
+**Olga Marie:**   
+You have been selected, or discovered from each nation for your rare talents.   
+   
+**Olga Marie:**   
+By talent, I mean your aptitude for Spiritrons. People with magical circuits capable of becoming Masters.   
+   
+**Olga Marie:**   
+I'm sure you can't even imagine it, but be sure to keep this in mind.   
+   
+**Olga Marie:**   
+You are about to be reborn as cutting-edge mages, in an unprecedented fusion of magecraft and science.   
+   
+**Olga Marie:**   
+That said, although all of you possess special talents, none of you are special.   
+   
+**Olga Marie:**   
+Understand that you're all inexperienced rookies, standing at the same starting point.   
+   
+**Olga Marie:**   
+In particular, the mages sent from the Association still seem to be acting like students. Fix that immediately.   
+   
+**Olga Marie:**   
+Chaldea is my domain. Family heritage and personal achievements have no meaning here.   
+   
+**Olga Marie:**   
+Always remember that my orders are absolute.   
+My position is completely different from yours.   
+   
+**Olga Marie:**   
+I won't allow arguments.   
+You're all mere tools to protect humanity, nothing more.   
+   
+**Olga Marie:**   
+...What's that commotion? Didn't I just tell you that I wouldn't allow any arguments?   
+   
+**Olga Marie:**   
+You there. The one who came in late.   
+Do you have a problem with what I just said?   
+   
+---  
   
-**藤丸:**   
-！？  
+**Fujimaru 1:**   
+...  
+   
+---  
   
-**オルガマリー:**   
-アーチャーのサーヴァント……！  
+**Fujimaru 2:**   
+...Yawn.   
+   
+---  
+   
+**Olga Marie:**   
+Uh...Am I seeing this right?   
+Maybe my eyes are playing tricks on me?   
+   
+**Olga Marie:**   
+Sleeping while standing...  
+No way, right? Not in a million years...  
+   
+**New Hire (Female):**  
+Hey, I didn't sign up for this! We're experts who were summoned here because of our skills!   
+   
+**New Hire (Female):**  
+We came all this way on your insistence.   
+Absolute obedience? That's ridiculous!   
+   
+**New Hire (Male):**  
+She's right, you're way overstepping!   
+   
+**New Hire (Male):**  
+Lineage is the most important asset for a mage!   
+How can you brush it off?   
+   
+**Olga Marie:**   
+Quiet! No talking!   
+That's why I say you're still acting like students!   
+   
+**Olga Marie:**   
+I'm only telling you what's going on right now.   
+If you don't like it, leave Chaldea at once!   
+   
+**Olga Marie:**   
+Not that there are flights to send you home.   
+   
+**Olga Marie:**   
+Though if you're ready to trek down a snowy mountain 6,000 meters above sea level, that would be commendable.   
+   
+**Olga Marie:**   
+Very good! Nobody's dropped out. Seriously,  
+don't make me waste my time on such matters.   
+   
+**Olga Marie:**   
+I wish you'd realize that's how dire our, no, humanity's situation is now.   
+   
+**Olga Marie:**   
+Look. [♂ He /♀ She] is a good example.   
+No argument, no opinion. Good and obedient.   
+   
+**Olga Marie:**   
+...Now, then, back to the topic.   
+Are you listening? Today is&mdash;  
+   
+**Mash:**   
+Do you remember now, Senpai?   
+   
+---  
   
-**キャスター:**   
-おう、言ってるそばから信奉者の登場だ。  
-相変わらず聖剣使いを護ってんのか、テメエは。  
+**Fujimaru 1:**   
+...Vaguely, I guess.   
+   
+---  
   
-**アーチャー:**   
-……ふん。信奉者になった覚えはないがね。  
-つまらん来客を追い返す程度の仕事はするさ。  
+**Fujimaru 2:**   
+...In a way.   
+   
+---  
+   
+**Olga Marie:**   
+Remembered...You weren't really listening after all, were you?   
+   
+**Olga Marie:**   
+Honestly! Sit yourself down! How could you come to a Singularity not knowing the situation or your mission?   
+   
+**Olga Marie:**   
+I'm going to have to explain it to you again.   
+Listen up! We at Chaldea&mdash;  
+   
+**Mash:**   
+Director, leave that for later.   
+Enemies are incoming!   
+   
+---  
   
-**キャスター:**   
-ようは門番じゃねえか。何からセイバーを守って  
-いるかは知らねえが、ここらで決着をつけようや。  
+**Fujimaru 1:**   
+All right! Good timing!   
+   
+---  
   
-**キャスター:**   
-永遠に終わらないゲームなんざ退屈だろう？  
-良きにつけ悪しきにつけ、駒を先に進ませないとな？  
-  
-**アーチャー:**   
-その口ぶりでは事のあらましは理解済みか。  
-大局を知りながらも自らの欲望に熱中する……  
-  
-**アーチャー:**   
-魔術師になってもその性根は変わらんと見える。  
-文字通り、この剣でたたき直してやろう。  
-  
-**キャスター:**   
-ハ、弓兵がなに言いやがる。  
-ってオイ、なにぼんやりしてんだお嬢ちゃん。  
-  
-**キャスター:**   
-相手はアーチャーだ。アンタの盾がなきゃ  
-オレはまともに詠唱できねえんだが。  
-  
-**マシュ:**   
-あ……は、はい！  
-すみません、なぜか気が抜けていました。  
-  
-**マシュ:**   
-問題ありません、いけます。  
-ガードならお任せください！  
-  
-**--ARROW--**  
-  
-**アーチャー:**   
-考えたな花の魔術師……！　まさかその宝具に、  
-そんな使い<ruby>途<rt>みち</rt></ruby>があったとは……！  
-  
-**キャスター:**   
-おう、未練なく消えろ消えろ。  
-聖剣攻略はオレとお嬢ちゃんでやってやる。  
-  
-**マシュ:**   
-……信頼していただけるのは嬉しいのですが、  
-わたしに防げるのでしょうか。  
-  
-**マシュ:**   
-……その、音に聞こえたアーサー王の聖剣が。  
-わたしには過ぎた役割のようで、指が震えています。  
-  
-**キャスター:**   
-そこは<ruby>根性<rt>ガッツ</rt></ruby>で乗り切るしかねえわな。  
-だがまあ、オレの見立てじゃ相性は抜群にいい。  
-  
-**キャスター:**   
-その盾が壊される事はない。負けるとしたら、  
-盾を支えるお嬢ちゃんがヘマをした場合だろうよ。  
-  
-**キャスター:**   
-お嬢ちゃんが盾から手を離せば、  
-その後ろにいるマスターは一瞬で蒸発する。  
-  
-**キャスター:**   
-いいか。聖剣に勝つ、なんて考えなくていい。  
-アンタは、アンタのマスターを護る事だけ考えろ。  
-  
-**キャスター:**   
-得意だろ、そういうの？  
-  
-**キャスター:**   
-まあなんだ。セイバーを仕留めるのは  
-オレに任せて、やりたい事をやれって話さ。  
-  
-**マシュ:**   
-……はい。  
-そのアドバイスは、たいへん力になるようです。  
-  
-## 第10節: 大聖杯目前  
-  
+**Fujimaru 2:**   
+Let's go, Mash!   
+   
+---  
+   
+**Olga Marie:**   
+Hey, come back here!   
+Listen to what I have to say!   
+   
 **--BATTLE--**  
-  
-**キャスター:**   
-そろそろ大聖杯だ。  
-ここが最後の一休みになるが、やり残しはないな？  
-  
+   
+**Olga Marie:**   
+...Phew. Good work, Mash Kyrielight.   
+Now I can pick up where I left off.   
+   
+**Mash:**   
+Resume...You mean there's more, Director?   
+   
+**Olga Marie:**   
+Why, certainly! Fujimaru!   
+Don't tell me you forgot already!   
+   
+**Olga Marie:**   
+I'm only half way through!   
+In fact, it's the latter half that's important!   
+   
+**Olga Marie:**   
+Make yourself remember!   
+Make...your...self...re...mem...ber!   
+   
 ---  
   
 **Fujimaru 1:**   
-もちろん、準備万端だ。  
-  
-**キャスター:**   
-そりゃ頼もしい。  
-ここ一番で<ruby>胆<rt>ハラ</rt></ruby>を決めるマスターは嫌いじゃない。  
-  
-**キャスター:**   
-まだまだ新米だが、  
-おまえには航海者に一番必要なものが備わっている。  
-  
-**キャスター:**   
-運命を掴む天運と、それを前にした時の決断力だ。  
-  
-**キャスター:**   
-その向こう見ずさを忘れるなよ？  
-そういうヤツにこそ、星の加護ってヤツが与えられる。  
-  
+...Guess I have no choice.   
+   
 ---  
   
 **Fujimaru 2:**   
-いったんベースに戻ってもいい？  
-  
-**キャスター:**   
-おう、不安材料があるなら戻れ戻れ。  
-穴熊攻めだ、物資はたっぷり仕入れねえとな。  
-  
+...What a piece of work.   
+   
 ---  
-  
-**オルガマリー:**   
-なにを言っているんだか。  
-進むにしろ戻るにしろ、その前に休憩が必要でしょう。  
-  
-**オルガマリー:**   
-ドクター、きちんとバイタルチェックはしているの？  
-藤丸の顔色、通常より良くないわよ。  
-  
-**Dr.ロマン:**   
-え！？　あ……うん、これはちょっとまずいね。  
-突然のサーヴァント契約だったからなあ……。  
-  
-**Dr.ロマン:**   
-使われていなかった<ruby>魔術回路<rt>しんけい</rt></ruby>がフル稼働して、  
-脳に負担をかけている。  
-  
-**Dr.ロマン:**   
-マシュ、キャンプの用意を。  
-温かくて蜂蜜のたっぷり入ったお茶の出番だ。  
-  
-**マシュ:**   
-了解しましたドクター。  
-ティータイムにはわたしも賛成です。  
-  
-**キャスター:**   
-お、決戦前の腹ごしらえかい？  
-んじゃオレはイノシシでも狩ってくるか。  
-  
-**オルガマリー:**   
-いないでしょ、そんな生き物。  
-そもそも肉はやめて肉は。どうせなら果物にしてよね。  
-  
-**マシュ:**   
-……満足です。所長がドライフルーツを隠し持って  
-いるなんて、改めてその周到さに舌を巻きました。  
-  
-**オルガマリー:**   
-たまたま所持していただけよ。  
-頭痛には柑橘系が効くのよ。それより&mdash;  
-  
-**オルガマリー:**   
-……………。  
-…………………………。  
-  
+   
+**Dr. Roman:**   
+Now, now, don't be like that. Director's ramblings can be useful, Fujimaru.   
+   
+**Dr. Roman:**   
+Why were you Master candidates summoned to Chaldea? This will explain that.   
+   
+**Olga Marie:**   
+Listen up. Today of all days, we at Chaldea will achieve something that will be written in history.   
+   
+**Olga Marie:**   
+The science of learning. The invention of religion.   
+The acquisition of navigation. The focus of communication. The voyage into space.   
+   
+**Olga Marie:**   
+Our legacy will be on par with the "Pioneers of the Stars. " No, it will surpass them.   
+   
+**Olga Marie:**   
+Rather than expanding civilization, we will be the hands of God protecting it.   
+   
+**Olga Marie:**   
+Stabilizing human history, we will transform the future into a solid resolution.   
+   
+**Olga Marie:**   
+The principles of mankind&mdash;  
+in other words, to ensure the continuation of humanity.   
+   
+**Olga Marie:**   
+That is Chaldea's, and now your only and absolute purpose.   
+   
+**Olga Marie:**   
+Chaldea has achieved many results to date.   
+The development of observation cyber daemon, Laplace.   
+   
+**Olga Marie:**   
+The Global Environment Model, Chaldeas.   
+Completion of the Near-Future Observation Lens, Sheba.   
+   
+**Olga Marie:**   
+The Heroic Spirit Summoning System, Fate, and the launch of the Spiritron Calculation Engine, Trismegistus.   
+   
+**Olga Marie:**   
+With these technologies, we at Chaldea have observed humanity's progress one hundred years into the future.   
+   
+**Olga Marie:**   
+We do not predict the future, but observe it. Like many who observed celestial bodies, Chaldea has been observing the future.   
+   
+**Olga Marie:**   
+Whatever it sees, our job has been to ensure that humanity will survive 100 years into the future.   
+   
+**Olga Marie:**   
+Look up. That is Chaldea's proudest achievement&mdash;  
+   
+**Olga Marie:**   
+Created with advanced magical theories, the Global Environmental Model, our Chaldeas.   
+   
+**Olga Marie:**   
+Planets have been defined as beings with souls.   
+We copied them into this miniature Earth.   
+   
+**Olga Marie:**   
+Because of the difference in scale, we are unable to read each single human mind.   
+   
+**Olga Marie:**   
+But whatever's on the surface, the city lights that can be seen on land, can be observed through Sheba.   
+   
+**Olga Marie:**   
+Currently, it's been set to reflect the Earth one hundred years from now. Chaldeas may very well be the future of Earth itself.   
+   
+**Olga Marie:**   
+As long as the light of civilization shines within Chaldeas, we can guarantee humans will exist a century further.   
+   
+**Olga Marie:**   
+As long as there's light people will live in cities, and serve as proof of civilization's survival.   
+   
+**Olga Marie:**   
+But&mdash; Lev, could you normalize Sheba's polarization angle?   
+   
+**Olga Marie:**   
+This is the current state. Starting six months ago, Chaldeas changed color, and it's become difficult to observe the future.   
+   
+**Olga Marie:**   
+The light of civilization, our beacon till now, has become largely unobservable to us.   
+   
+**Olga Marie:**   
+Hmph, the right response.   
+Good to see you've got some sense.   
+   
+**Olga Marie:**   
+That's right. The lack of light means that civilization has become extinct.   
+   
+**Olga Marie:**   
+This was considered highly classified, but you have the right to know.   
+   
+**Olga Marie:**   
+Our observations indicate that the light of humanity is only visible up to the year 2018&mdash;  
+   
+**Olga Marie:**   
+In other words, we've observed, no, proved that humanity will become extinct in that year.   
+   
+**Olga Marie:**   
+Obviously, this future is not possible.   
+It cannot happen, and physically speaking, is impossible.   
+   
+**Olga Marie:**   
+There's neither an economic collapse nor some sudden seismic event. We can't explain how humanity would suddenly just disappear.   
+   
+**Olga Marie:**   
+Over the past six months, we've found the cause of this strange phenomenon&mdash;the disappearance of the future.   
+   
+**Olga Marie:**   
+If the reason is not in the present, then it is in the past.   
+   
+**Olga Marie:**   
+Using Laplace and the Trismegistus, we've reviewed all data for the past 2000 years.   
+   
+**Olga Marie:**   
+We tried to find something that didn't exist in history, or was on Earth until this point in time.   
+   
+**Olga Marie:**   
+As a result, we finally found something new.   
+It's this&mdash;  
+   
+**Olga Marie:**   
+Spatial Singularity F, a city in the Japanese countryside in 2004.   
+   
+**Olga Marie:**   
+We discovered an "unobservable zone" that did not exist in history up to the year 2017.   
+   
+**Olga Marie:**   
+Chaldea hypothesizes that this is the cause for humanity's extinction. We proposed the Rayshift experiment to the U. N. and received approval.   
+   
+**Olga Marie:**   
+The Rayshift process transforms a human into spiritrons, sending them into the past and allowing them to alter it.   
+   
+**Olga Marie:**   
+Simply put, it's time travel. But not everyone can do it.   
+   
+**Olga Marie:**   
+Only people with exceptional magical circuits, and the ability to become a Master, can be transformed.   
+   
+**Olga Marie:**   
+Now&mdash; I'm sure that cleared things up.   
+Your task is the investigation of Singularity F.   
+   
+**Olga Marie:**   
+You'll travel 14 years into the past, find Singularity F, and destroy it.   
+   
+**Olga Marie:**   
+We are now entering unknown territory.   
+There's no telling what you might find there.   
+   
+**Olga Marie:**   
+But you've been selected from among people all over the world. You can do this, and we have high expectations for you.   
+   
+**Olga Marie:**   
+The higher-ups want to know the cause of this immediately. We don't have time to waste.   
+   
+**Olga Marie:**   
+We'll be performing the first Rayshift experiment in an hour. I'm sure you've all had enough training.   
+   
+**Olga Marie:**   
+For the first experiment we'll send Team A, the top 8 scorers, to Singularity F.   
+   
+**Olga Marie:**   
+I haven't told the later groups, but they're Master candidates who have been chosen from Chaldea.   
+   
+**Olga Marie:**   
+Team A has been active for a month now.   
+You can call them trained warriors.   
+   
+**Olga Marie:**   
+Team A will go on ahead and establish a base camp at Singularity F, guaranteeing your safety.   
+   
+**Olga Marie:**   
+Teams B and below will monitor their situation and prepare for the next experiment.   
+   
+**Olga Marie:**   
+Let's register your information with the Klein Coffins, the arks that will send you to the past as spiritrons.   
+   
+**Olga Marie:**   
+There's one for each person, and there are no spares.   
+Be very careful with them.   
+   
+**Olga Marie:**   
+Teams B through D will be on standby, in case of trouble with Team A.   
+   
+**Olga Marie:**   
+&mdash;What are you doing?   
+I told you what you have to do.   
+   
+**Olga Marie:**   
+You were brought here as a potential Master.   
+You're practically a soldier now.   
+   
+**Olga Marie:**   
+You will obey orders and be ready for a fight.   
+Do not make me repeat myself.   
+   
+**Olga Marie:**   
+Or do you have more questions?   
+Hey you, the one who was late!   
+   
+**Olga Marie:**   
+You look confused.   
+I'll give you the chance to ask one question.   
+   
 ---  
   
 **Fujimaru 1:**   
-……あの、なんですか所長？  
-  
+Is time travel possible?   
+   
 ---  
   
 **Fujimaru 2:**   
-……おかわりですか、所長？  
-  
-**オルガマリー:**   
-一杯で十分よ！　それと、わたしは紅茶より  
-珈琲派だと覚えておきなさい！  
-  
-**オルガマリー:**   
-い、いえ、そうじゃなくて。  
-そういうコトじゃなくて……ああもう！  
-  
+Is it safe to change the past?   
+   
 ---  
-  
-**オルガマリー:**   
-こ、ここまでの働きは及第点です。  
-カルデア所長として、あなたの功績を認めます。  
-  
-**オルガマリー:**   
-……ふん。なによその顔。  
-どうせまぐれだろうけど、今は貴方しかいないのよ。  
-  
-**オルガマリー:**   
-その調子でうまくやれば褒めてあげてもいいってコト。  
-三流でも一人前の仕事はできるんだって分かったし。  
-  
-**Dr.ロマン:**   
-なんと。藤丸[♂ 君 /♀️ ちゃん]を一人前と  
-認めてくれるなんて、何か甘いものでも食べました？  
-  
-**オルガマリー:**   
-ロマニ。無駄口を叩く余裕があるなら、  
-藤丸に補給物資の一つでも送りなさい。  
-  
-**オルガマリー:**   
-本人が頑張ってるのに、  
-装備不足で失敗するなんて可哀想じゃない。  
-  
-**Dr.ロマン:**   
-おや。可哀想、とはお優しい。  
-これはもしや、所長にもようやく心の雪解けが？  
-  
-**オルガマリー:**   
-バ……！　あ、哀れでみじめって意味よ！  
-そんなコトも分からないの!?  
-  
-**Dr.ロマン:**   
-いやあ、いつ見てもいいものですね、少年少女の交流  
-というものは。少女と言うには所長はちょっとアレですが。  
-  
-**マシュ:**   
-そうでしょうか。所長は確かに年上ですが、趣味嗜好は  
-たいへん近しいものを感じます。親愛を覚えます。  
-  
-**オルガマリー:**   
-なに言ってるのアンタ!?  
-アンタたちなんてわたしの道具だって言ってるでしょう!?  
-  
-**？？？:**  
-&mdash;（うんうん）  
-  
-**オルガマリー:**   
-ほら見なさい、こんな黒っぽくて怪物っぽいのさえ  
-同意してるじゃない！  
-  
-**オルガマリー:**   
-え&mdash;あひぃいいい!?  
-マシュ、早く排除して！　食べられる、食べられる！  
-  
-## 第11節: グランドオーダー  
-  
-**オルガマリー:**   
-これが大聖杯……<ruby>超抜級<rt>ちょうばつきゅう</rt></ruby>の魔術炉心じゃない……  
-なんで極東の島国にこんなものがあるのよ……  
-  
-**Dr.ロマン:**   
-資料によると、制作はアインツベルンという  
-錬金術の大家だそうです。  
-  
-**Dr.ロマン:**   
-魔術協会に属さない、<ruby>人造人間<rt>ホムンクルス</rt></ruby>だけで  
-構成された一族のようですが。  
-  
-**キャスター:**   
-悪いな、お喋りはそこまでだ。  
-<ruby>奴<rt>やっこ</rt></ruby>さんに気付かれたぜ。  
-  
-**セイバー:**   
-&mdash;。  
-  
-**マシュ:**   
-……なんて魔力放出……  
-あれが、本当にあのアーサー王なのですか……？  
-  
-**Dr.ロマン:**   
-間違いない。何か変質しているようだけど、  
-彼女はブリテンの王、聖剣の担い手アーサーだ。  
-  
-**Dr.ロマン:**   
-伝説とは性別が違うけど、何か事情があって  
-キャメロットでは男装をしていたんだろう。  
-  
-**Dr.ロマン:**   
-ほら、男子じゃないと王座にはつけないだろ？  
-お家事情で男のフリをさせられてたんだよ、きっと。  
-  
-**Dr.ロマン:**   
-宮廷魔術師の悪知恵だろうね。  
-伝承にもあるけど、マーリンはほんと趣味が悪い。  
-  
-**マシュ:**   
-え……？　あ、ホントです。  
-女性なんですね、あの方。男性かと思いました。  
-  
-**キャスター:**   
-見た目は華奢だが甘く見るなよ。アレは筋肉じゃなく  
-魔力放出でカッ飛ぶ化け物だからな。  
-  
-**キャスター:**   
-一撃一撃がバカみてぇに重い。  
-気を抜くと上半身ごとぶっ飛ばされるぞ。  
-  
-**マシュ:**   
-ロケットの擬人化のようなものですね。  
-……理解しました。全力で応戦します。  
-  
-**キャスター:**   
-おう。ヤツを倒せばこの街の異変は消える。  
-いいか、<u>それはオレもヤツも例外じゃない</u>。  
-  
-**キャスター:**   
-その後はおまえさんたちの仕事だ。  
-何が起こるかわからんが、できる範囲でしっかりやんな。  
-  
-**セイバー:**   
-&mdash;ほう。  
-面白いサーヴァントがいるな。  
-  
-**キャスター:**   
-なぬ!?　テメエ、喋れたのか!?  
-今までだんまり決め込んでやがったのか!?  
-  
-**セイバー:**   
-ああ。何を語っても見られている。  
-故に<ruby>案山子<rt>カカシ</rt></ruby>に徹していた。  
-  
-**セイバー:**   
-だが&mdash;面白い。その宝具は面白い。  
-  
-**セイバー:**   
-構えるがいい、名も知れぬ娘。  
-その守りが真実かどうか、この剣で確かめてやろう！  
-  
-**マシュ:**   
-来ます&mdash;マスター！  
-  
+   
+**Olga Marie:**   
+...  
+Does the word "Singularity" mean nothing to you?   
+   
+**Olga Marie:**   
+The singularity we found doesn't exist in any of our observation records.   
+   
+**Olga Marie:**   
+It's like a hole that just appeared out of nowhere.   
+The hole itself is cut off from the proper temporal axis.   
+   
+**Olga Marie:**   
+The 2004 singularity exists apart from the past and future. There's no need to connect it to our present.   
+   
+**Olga Marie:**   
+It's more stable than regular time travel, and whatever happens the timeline can still repair itself.   
+   
+**Olga Marie:**   
+Singularity F is like a tiny stain on the dress that is human history.   
+   
+**Olga Marie:**   
+It ruins beauty just by its presence.   
+Your job is to extract it.   
+   
+**Olga Marie:**   
+That's what will return humanity to its proper, observed course of history.   
+   
+**Olga Marie:**   
+...What is the Association thinking, sending me someone who doesn't know basic spacetime theory?   
+   
+**Olga Marie:**   
+I told them this plan was a Grand Order, the highest possible duty in the world of magecraft...  
+   
+**Olga Marie:**   
+Well, it doesn't matter. What team are you with?   
+...Show me your ID.   
+   
+**Olga Marie:**   
+What? You're in the wrong spot!   
+A civilian, and with no combat or training experience?   
+   
+**Olga Marie:**   
+Chaldea is much too important to be wasting valuable slots on people like you!   
+   
+**Olga Marie:**   
+Lev!   
+Lev Lainur!   
+   
+**Lev:**   
+I'm right here, Director.   
+Why the yelling? Is there a problem?   
+   
+**Olga Marie:**   
+There're problems everywhere!   
+Just get this amateur out of my sight!   
+   
+**Lev:**   
+Oh...so that's it?   
+Director, [♂ he /♀ she] is a chosen Master candidate.   
+   
+**Lev:**   
+Sure they lack experience, but it's inappropriate to be that rude...  
+   
+**Olga Marie:**   
+Having an inexperienced amateur here is a problem!   
+What if something happens to my Chaldeas?   
+   
+**Olga Marie:**   
+Let Romani handle this!   
+At least get some basic training in!   
+   
+**Lev:**   
+...Hmm, I don't think she likes you.   
+All right, orders are orders.   
+   
+**Lev:**   
+Mash, show Fujimaru their room.   
+   
+**Mash:**   
+All right, understood.   
+I just need to take Senpai to their room, right?   
+   
+**Lev:**   
+Yes, thanks.   
+I'm busy with the Rayshift experiment and can't.   
+   
+**Lev:**   
+Don't worry. This experiment will be over in 2 hours.   
+I'll drop by your room then.   
+   
 ---  
   
 **Fujimaru 1:**   
-ああ、一緒に戦おう！  
-  
+Thank you.   
+   
+**Lev:**   
+No need to thank me.   
+You're really lucky, after all.   
+   
 ---  
   
 **Fujimaru 2:**   
-ああ、負けるものか！  
-  
+...  
+   
+**Mash:**   
+That's unusually kind of you, Dr. Lev.   
+Do you know each other from somewhere?   
+   
+**Lev:**   
+Not at all. I was just thinking things like eternal rivals and fated encounters are very important.   
+   
+---  
+   
+**Mash:**   
+Come this way.   
+I'll show you to your room.   
+   
+**Mash:**   
+And that's how you were removed from the Command Room. Remember?   
+   
 ---  
   
-**マシュ:**   
-はい！  
-マシュ・キリエライト、出撃します！  
+**Fujimaru 1:**   
+I see.   
+   
+---  
   
+**Fujimaru 2:**   
+Got it.   
+   
+---  
+   
+**Olga Marie:**   
+You little...  
+You look quiet, but you've got some nerve, don't you?   
+   
+**Olga Marie:**   
+Anyway! Do you finally remember how much of a mess you made at that critical moment?   
+   
+**Dr. Roman:**   
+Um, Director Marie?   
+I think that's going a little too far...  
+   
+**Olga Marie:**   
+Like hell it is! Thanks to the time I wasted on your question I didn't have time to change!   
+   
+**Mash:**   
+Uh...You weren't planning to dive, so I'm not sure you needed your suit...  
+   
+**Olga Marie:**   
+I did! I most certainly did!   
+I had a special Mystic Code made for this mission.   
+   
+**Olga Marie:**   
+Jeez, I didn't even get to wear it once...  
+Well, it doesn't matter.   
+   
+**Olga Marie:**   
+Anyway, you understand your responsibilities and duties as a Master candidate now, right?   
+   
+**Olga Marie:**   
+Very well, Fujimaru.   
+I'm ordering you to be my bodyguard. Work hard.   
+   
+---  
+  
+**Fujimaru 1:**   
+Aye-aye, oh great Director Marie!   
+   
+**Olga Marie:**   
+W-What? That's creepy. F-Flattery will get you nowhere!   
+   
+---  
+  
+**Fujimaru 2:**   
+...Are you trying to be someone you're not?   
+   
+**Olga Marie:**   
+This is who I am! I was just in a hurry back there!   
+Once we get back to Chaldea, you're in for it.   
+   
+---  
+   
+**Mash:**   
+...Good to see you two getting along.   
+Let's move before more enemies show up.   
+   
+**--BATTLE--**  
+   
+**Olga Marie:**   
+By the way, the type of being we call Servants, you know what they are, don't you?   
+   
+---  
+  
+**Fujimaru 1:**   
+I have no idea.   
+   
+**Olga Marie:**   
+Just as I thought.   
+It can't be helped. I'll tell you as we move.   
+   
+**Olga Marie:**   
+Think of a Servant as the highest-ranked familiar in the magical world.   
+   
+**Olga Marie:**   
+Various historical heroes. Noble acts. Concepts.   
+They're all summoned as spiritual bodies.   
+   
+**Olga Marie:**   
+Whether or not a hero truly existed, he or she is still "information that was produced on Earth," right?   
+   
+**Olga Marie:**   
+To summon a Heroic Spirit is to convert the information stored on this planet into something for the good of mankind.   
+   
+**Olga Marie:**   
+People today have the right to use legacies of the past, and with that right, the duty to leave behind a future.   
+   
+**Olga Marie:**   
+Do you see? What you made your contract with is greater than a human, and yet is a tool to serve humans.   
+   
+**Olga Marie:**   
+That's why they're called Servants. Even if they're gods, they exist only to serve their Masters.   
+   
+**Mash:**   
+Director. Your line of thinking may be extreme.   
+My cells are not agreeing with what you just said.   
+   
+**Olga Marie:**   
+Hmph. Meaning the Servant you fused with must be an Earth-type Heroic Spirit.   
+   
+---  
+  
+**Fujimaru 2:**   
+I do have some basic knowledge.   
+   
+**Olga Marie:**   
+Glad to hear it. Now I won't have to explain rudimentary things like what a Heroic Spirit is.   
+   
+---  
+   
+**Olga Marie:**   
+Servants are heroes of the past made into familiars.   
+Those who enter into a contract with them and use them are Masters.   
+   
+**Olga Marie:**   
+There are seven classes of Servants, which vary depending on a Servant's legends and abilities.   
+   
+**Olga Marie:**   
+It's incredibly difficult to copy a Heroic Spirit entirely.   
+Human mages do not have enough resources or memory to achieve such feat.   
+   
+**Olga Marie:**   
+That's why only one aspect of a Heroic Spirit is fixed in our world, resulting in the seven classes&mdash;  
+   
+**Olga Marie:**   
+Saber, Lancer, Archer, Rider, Caster, Berserker, Assassin.   
+   
+**Olga Marie:**   
+Every Heroic Spirit will manifest as one of these classes.   
+   
+**Olga Marie:**   
+That's the true nature of Servants...  
+It's also a way to hide their True Names, as well.   
+   
+**Olga Marie:**   
+They hide their names because they are famous.   
+Take Achilles from Greek Mythology.   
+   
+**Olga Marie:**   
+Achilles is an invincible Heroic Spirit, but his weakness is extremely famous, right?   
+   
+**Olga Marie:**   
+When a Heroic Spirit returns, their weakness returns with them. That's why Servants hide their names behind their class names.   
+   
+**Olga Marie:**   
+If you don't know their identity, it's harder to figure out their past or weaknesses, right?   
+   
+**Olga Marie:**   
+That's not all.   
+There's another reason for hiding one's True Name.   
+   
+**Olga Marie:**   
+A Servant has a secret weapon worthy of their legend.   
+The crystallization of that Heroic Spirit's miracle and existence.   
+   
+**Mash:**   
+Director, sorry to interrupt you while you're having fun but we've detected hostiles. Entering combat.   
+   
+**Olga Marie:**   
+What! T-Take them out right now!   
+I-I'll be hiding over here!   
+   
+**--BATTLE--**  
+   
+**Olga Marie:**   
+&mdash;  
+   
+**Dr. Roman:**   
+I can feel the tension across the screen...  
+The Director is grumpy as usual.   
+   
+---  
+  
+**Fujimaru 1:**   
+She's not just grumpy, she's a total crank.   
+   
+---  
+  
+**Fujimaru 2:**   
+Why is she always so mad?   
+   
+---  
+   
+**Mash:**   
+Well, I can feel some sympathy for the Director's ill temper.   
+   
+**Mash:**   
+Excuse me, but Fujimaru Senpai, there's too much about Chaldea you don't know.   
+   
+---  
+  
+**Fujimaru 1:**   
+Y-You really think so?   
+   
+---  
+  
+**Fujimaru 2:**   
+Well, I admit I came here clueless...  
+   
+---  
+   
+**Mash:**   
+I really don't know what to do with you.   
+It's like you're a lost little kitty.   
+   
+**Mash:**   
+&mdash;Well, not that I'm any different.   
+   
+**Mash:**   
+It's been about two years since I started here, and I still don't get it. I kind of sneaked in. Almost like an alligator.   
+   
+---  
+  
+**Fujimaru 1:**   
+I-Is that right?   
+   
+---  
+  
+**Fujimaru 2:**   
+True, alligators have no clue.   
+   
+---  
+   
+**Mash:**   
+Yes, I've learned as much as I can from the database.   
+But I'll share it with you.   
+   
+**Mash:**   
+Chaldea Security Organization. Or more accurately,  
+the Security Organization for the Preservation of Humanity, Fenis Chaldea.   
+   
+**Mash:**   
+A research observatory with the purpose of continuing and strengthening human history, with researchers, scholars, and mages from all around the world.   
+   
+**Mash:**   
+They watch a world that magecraft couldn't observe, and science couldn't measure.   
+   
+**Mash:**   
+We're a special organization with national support, created to prevent humanity from reaching a "bad end. "  
+   
+---  
+  
+**Fujimaru 1:**   
+You sure know a lot, Mash.   
+   
+---  
+  
+**Fujimaru 2:**   
+Yeah, I figured.   
+   
+---  
+   
+**Mash:**   
+Anyway, that's pretty much it.   
+   
+**Fou:**   
+Fou!   
+   
+**Mash:**   
+It's true that Chaldea receives financial support from across the globe, but the majority of that comes from the Mage's Association in London&mdash;  
+   
+**Mash:**   
+From the the Animusphere family.   
+Director Olga Marie's family.   
+   
+**Mash:**   
+Chaldea is a research organization, but due to its importance, it operates on a military level.   
+   
+**Mash:**   
+There are extremely strict rules and punishments for everything, so the Director's attitude is actually reserved.   
+   
+**Mash:**   
+The Director isn't a villain, but she is evil.   
+She'll get rid of any staff member she doesn't like.   
+   
+**Mash:**   
+Well, I'm not sure if it's okay to call someone who's got a bad attitude, evil.   
+   
+**Mash:**   
+...Sorry, I wanted to give you some encouragement, but I'm not used to cheery words.   
+   
+**Fou:**   
+Kyu. Kyu, kyu!   
+   
+**Olga Marie:**   
+Whaaaaaaat?   
+Hey! What are you guys doing?   
+   
+**Olga Marie:**   
+Behind you! Behind you!   
+The e-enemy's found us!   
+   
+**Olga Marie:**   
+Prepare for battle!   
+   
+**Mash:**   
+They're so close!   
+Senpai, give me your orders!   
+   
+**--BATTLE--**  
+   
+**Olga Marie:**   
+Sigh...Please keep an eye on your surroundings.   
+   
+**Olga Marie:**   
+Even if Romani is monitoring us, this is a Singularity.   
+There's no telling what might happen.   
+   
+**Olga Marie:**   
+Come here, Kyrielight.   
+You're hurt, aren't you? I can heal something like that.   
+   
+**Mash:**   
+Oh...right.   
+Thank you very much, Director Olga Marie.   
+   
+**Dr. Roman:**   
+Really, now.   
+When the director is calm, she can be dependable...  
+   
+**Dr. Roman:**   
+Fujimaru, you should know...  
+The director is in a complicated position as well.   
+   
+**Dr. Roman:**   
+Initially, Marie was like you all, a Master candidate.   
+   
+**Dr. Roman:**   
+Three years ago, the previous director, her father, passed away and she had to take over Chaldea when she was just a student.   
+   
+**Dr. Roman:**   
+Since then it's been one tense day after another.   
+She had to take over as head of the Animusphere family.   
+   
+**Dr. Roman:**   
+It was all she could do to keep Chaldea running.   
+Around that time, an anomaly was found in Chaldeas.   
+   
+**Dr. Roman:**   
+We could no longer see into the promised future of 100 years from now. There was huge criticism from the Association and our sponsors.   
+   
+**Dr. Roman:**   
+She was ordered to get the situation back to normal as soon as possible.   
+   
+**Dr. Roman:**   
+To make matters worse, they found that she had no aptitude to be a Master.   
+   
+**Dr. Roman:**   
+The noble Animusphere family, one of the Twelve Lords, the dominating faculty of Astronomy at the Mage's Association.   
+   
+**Dr. Roman:**   
+Oh the scandal that would occur if the head of such a family was found to be unfit to become a Master.   
+   
+**Dr. Roman:**   
+You can imagine the level of gossip happening behind the scenes. I'm sure those rumors reached Marie too.   
+   
+**Dr. Roman:**   
+She still worked to be her absolute best as Director.   
+This last half-year, she's just barely been hanging on.   
+   
+**Dr. Roman:**   
+She's worked herself so hard, I'd like her to come for counseling, but with how things are...  
+   
+**Dr. Roman:**   
+In any event, she's been emotionally stretched to the limit. She doesn't hate you, or anything like that.   
+   
+---  
+  
+**Fujimaru 1:**   
+I know. Director Marie isn't an evil person.   
+   
+**Dr. Roman:**   
+I'm glad you think so.   
+But you know she is evil, right?   
+   
+**Dr. Roman:**   
+She isn't cruel, nefarious, and dishonest, that I can promise you. She's just a rather serious person.   
+   
+---  
+  
+**Fujimaru 2:**   
+I was just having fun.   
+   
+**Dr. Roman:**   
+Hey, that's not nice! But I understand how you feel.   
+   
+**Dr. Roman:**   
+The Director wasn't allowed to go out much growing up, so everything she says is honest and innocent...  
+   
+**Dr. Roman:**   
+But make sure you don't say that in front of her.   
+She'll just hate you more.   
+   
+---  
+   
+**Dr. Roman:**   
+Anyhow, you're the only three I can trust right now.   
+I want you to continue investigating without fighting.   
+   
+## Section 4: Investigate the Port Ruin  
+   
+**Mash:**   
+The hostile lifeform has been removed.   
+Let's move on.   
+   
+**Olga Marie:**   
+I didn't know what would happen with that monster, but I expected nothing less of a Servant's body. Such power.   
+   
+**Mash:**   
+Not that it makes them look any less scary...  
+By the way Director, I have a question for you.   
+   
+**Mash:**   
+The Fuyuki in our data, and this Fuyuki are just too different.   
+   
+**Mash:**   
+What happened in this city, exactly?   
+What are your thoughts, Director?   
+   
+**Olga Marie:**   
+Let's see, history must've been slightly disrupted.   
+That's the only reason I can think of.   
+   
+**Olga Marie:**   
+Mash, Fujimaru.   
+I'm only going to say this once, so listen up.   
+   
+**Olga Marie:**   
+Chaldea observes the future through an Earth model called Chaldeas. At the same time, a familiar called Laplace compiles past records.   
+   
+**Olga Marie:**   
+You can say it is Laplace's job to gather data on history that wasn't made public, and information that was buried in darkness that no one knows.   
+   
+**Olga Marie:**   
+According to Laplace's observations, an unusual Holy Grail War was confirmed in this city in 2004.   
+   
+**Mash:**   
+Holy Grail War?   
+You mean the Holy Grail from the legend?   
+   
+**Mash:**   
+The magical chalice that is the root of all magecraft, the one that is said to grant its holder's wishes?   
+   
+**Olga Marie:**   
+Yes, that's the one.   
+   
+**Olga Marie:**   
+Mages in Fuyuki City competed for the Grail, and in order to activate it summoned seven Heroic Spirits&mdash;  
+   
+**Olga Marie:**   
+That was the beginning of the Holy Grail War. Unknown to anyone, Servants were summoned to this town.   
+   
+**Olga Marie:**   
+The Fuyuki Holy Grail War system is simple.   
+   
+**Olga Marie:**   
+Seven Masters fight each other.   
+The last one standing gets the Grail.   
+   
+**Olga Marie:**   
+Chaldea learned about this in 2010. My father...  
+I mean, the previous director used this data to build the summoning system.   
+   
+**Olga Marie:**   
+That's what makes up Chaldea's Heroic Spirit Summoning System, Fate. Our third invention after Laplace and Chaldeas.   
+   
+**Mash:**   
+Third? Isn't that the Near-Future Observation Lens, Sheba?   
+   
+**Olga Marie:**   
+That was created by Professor Lev.   
+Well, I guess you can say we both worked on it.   
+   
+**Olga Marie:**   
+Anyway, this is where Servants come from.   
+   
+**Olga Marie:**   
+Seven Servants fought here, and in the end, Saber was victorious.   
+   
+**Olga Marie:**   
+The town wasn't destroyed, and the Servants shouldn't have been noticed by anyone, but...  
+   
+**Olga Marie:**   
+Now this is happening. We should assume that the outcome changed due to this Singularity.   
+   
+**Olga Marie:**   
+The anomaly in 2004 brought about an alteration to human history and as a result, we're no longer able to see 100 years into the future.   
+   
+**Olga Marie:**   
+That's why it's our job to repair this anomaly.   
+Somewhere here is the reason history has been disturbed.   
+   
+**Olga Marie:**   
+Once we analyze and eliminate it, that will complete our mission. All of us will be able to return to the present.   
+   
+---  
+  
+**Fujimaru 1:**   
+I see. Got it.   
+   
+**Mash:**   
+Anyway, although we're not sure what's going on, it's good that the mission is simple.   
+   
+---  
+  
+**Fujimaru 2:**   
+Heroic Spirits were summoned at Chaldea?   
+   
+**Olga Marie:**   
+Of course.   
+But it didn't go well, and there weren't many successes.   
+   
+**Olga Marie:**   
+According to the data, three were summoned, but I only know of two.   
+   
+**Olga Marie:**   
+The previous director summoned the first.   
+The second and third arrived after I became Director.   
+   
+**Olga Marie:**   
+...The second fused with Mash.   
+And, well, you know the third.   
+   
+**Olga Marie:**   
+The weirdo that now lives in Chaldea.   
+Leonardo da Vinci.   
+   
+---  
+   
+**???:**  
+GuOOOOOOO!!!!!!   
+   
+**Olga Marie:**   
+Not these guys again!   
+Get rid of them, Mash, Fujimaru!   
+   
+**--BATTLE--**  
+   
+**Mash:**   
+...Phew, the battle is over Master.   
+I'm relieved that we pulled through again.   
+   
+---  
+  
+**Fujimaru 1:**   
+Good work, Mash.   
+   
+---  
+  
+**Fujimaru 2:**   
+Thank you, Mash.   
+   
+---  
+   
+**Mash:**   
+...Yes.   
+I am happy that I can be useful.   
+   
+**Olga Marie:**   
+...Hey, Mash.   
+Is it possible that you can't use your Noble Phantasm?   
+   
+**Mash:**   
+Apparently. I don't even know which Heroic Spirit fused with me...  
+   
+**Mash:**   
+...and I'm unable to use the power of its Special Arts,  
+the Heroic Spirit's secret weapon&mdash;known as a Noble Phantasm.   
+   
+**Mash:**   
+Fujimaru Senpai.   
+I'm sorry for explaining this so late.   
+   
+**Mash:**   
+Servants are equipped with a unique skill called a Noble Phantasm.   
+   
+**Mash:**   
+It's derived from each hero's legend and great deeds, and is a secret weapon.   
+   
+**Mash:**   
+However, I am unable to wield my Noble Phantasm.   
+   
+**Mash:**   
+...I can somehow use it as a weapon, but its output is decreased. I can't even release its True Name.   
+   
+**Mash:**   
+In fact, I don't even know what the origins of this weapon of mine might be.   
+   
+**Olga Marie:**   
+...  
+   
+**Mash:**   
+In any case, you can think of me as a failed Servant.   
+Or maybe just a capable kouhai that can get even stronger.   
+   
+**Mash:**   
+I don't have any leads on the Heroic Spirit that fused with me, but with you as my Master I will figure it out as I grow.   
+   
+**Olga Marie:**   
+That's true. Masters have the ability to analyze their Servants parameters, skills, and matrixes.   
+   
+**Olga Marie:**   
+Fujimaru...As a Master, once you become good enough, you should be able to analyze Mash's Servant data.   
+   
+**Olga Marie:**   
+Any Servants you make a contract with from this point should be the same. First, you need to learn their True Name and Noble Phantasm.   
+   
+**Olga Marie:**   
+As your trust with them grows, your Servant's power will grow too.   
+   
+**Olga Marie:**   
+Well, it's not like you have that much potential in you.   
+The fact that you can't use Mash that well shows that.   
+   
+**Olga Marie:**   
+Once we get Chaldea's Rayshift capability back online, we're going to shift a first-class Master here.   
+   
+**Olga Marie:**   
+Then you're fired. Newbies with no combat experience can spend their time terrified in some corner in Chaldea.   
+   
+---  
+  
+**Fujimaru 1:**   
+Weren't you the one scared, Director Marie?   
+   
+**Olga Marie:**   
+I wasn't! Not in the least!   
+You should be respectful to your elders!   
+   
+---  
+  
+**Fujimaru 2:**   
+Could it be that you're worried about me?   
+   
+**Olga Marie:**   
+O-Of course! You're our only fighting force here!   
+If you get taken out, who's going to fight?   
+   
+---  
+   
+**Mash:**   
+...Anyway, I'm glad you two understand each other better now. Let's move before any more of them show up.   
+   
+## Section 5: Investigate the Church Ruin  
+   
+**Olga Marie:**   
+Everything's burnt down far as the eye can see...  
+There aren't any traces of residents either. What happened here?   
+   
+**Olga Marie:**   
+What could even turn Chaldea gray in the first place?   
+If we can't see the future, that means humanity will vanish...  
+   
+**Olga Marie:**   
+Could that mean the Counter Force doesn't work in a Singularity? Then this place is like a Bolt...  
+   
+**Olga Marie:**   
+The fatal choice of destruction scattered throughout human history...When your choices become mistakes, this is what happens.   
+   
+**Dr. Roman:**   
+Looks like the Director is talking to herself again.   
+This could take a while.   
+   
+**Dr. Roman:**   
+Hey Fujimaru, looks like it's safe over there. Why don't you rest a bit?   
+   
+**Mash:**   
+I agree with you, Doctor.   
+Senpai, would you like some rations?   
+   
+---  
+  
+**Fujimaru 1:**   
+Thanks. Aren't you tired, Mash?   
+   
+---  
+  
+**Fujimaru 2:**   
+Sure, but how are you, Mash?   
+   
+---  
+   
+**Mash:**   
+Tired? Are you asking if I've been having any problems since I became a Servant?   
+   
+**Mash:**   
+...Well, for the most part.   
+It's scary to fight, but I'm doing fine otherwise.   
+   
+---  
+  
+**Fujimaru 1:**   
+Are you okay with me being your Master?   
+   
+**Mash:**   
+Of course.   
+I think you might've been the best Master this summer.   
+   
+---  
+  
+**Fujimaru 2:**   
+Any complaints since you've become a Servant?   
+   
+**Mash:**   
+It's hard to explain.   
+Imagine yourself becoming a jet fighter.   
+   
+**Mash:**   
+You might be able to fly around in the sky, but you can't do your own maintenance.   
+   
+**Mash:**   
+No matter how strong you might be, your existence essentially depends on having a Master.   
+   
+**Mash:**   
+...The risk and reward makes sense here. But I can't be too happy when I think of the burden I'm putting on you.   
+   
+---  
+   
+**Dr. Roman:**   
+&mdash;! That's enough rest!   
+We got incoming!   
+   
+**Mash:**   
+...Master, your commands, please!   
+   
+**--BATTLE--**  
+   
+**Mash:**   
+Phew!   
+Thank goodness, we managed it yet again Master.   
+   
+**Olga Marie:**   
+I see you're getting used to being a Servant.   
+Is it because now that you know what we're up against, you're not afraid anymore?   
+   
+**Mash:**   
+I don't know about that. No matter how good I am with my weapon, when it comes to the battle itself...  
+   
+**Dr. Roman:**   
+Sorry, let's talk later!   
+The three of you need to get out of there now!   
+   
+**Dr. Roman:**   
+I'm still picking up something!   
+And this is&mdash;  
+   
+**Olga Marie:**   
+Wha&mdash;is that...  
+   
+**Dr. Roman:**   
+A Servant is there!   
+   
+**Dr. Roman:**   
+Don't fight it, Fujimaru, Mash!   
+It's too soon for you to fight a Servant!   
+   
+**Olga Marie:**   
+Even so, we can't escape!   
+   
+**Olga Marie:**   
+Mash, prepare for battle!   
+It's a Servant, you can do something about it, right?   
+   
+**Mash:**   
+...Yes.   
+I will do my best!   
+   
+**--BATTLE--**  
+   
+**Mash:**   
+Okay&mdash;okay&mdash;we won...I was sure I didn't stand a chance, but we actually won&mdash;  
+   
+**Dr. Roman:**   
+...Sorry, there's no time to rest Mash.   
+   
+**Dr. Roman:**   
+"A similar signal as before" is heading that way.   
+I don't have to tell you what you need to do, right?   
+   
+**Mash:**   
+What&mdash;Same signal?   
+No way&mdash;  
+   
+**Olga Marie:**   
+Fujimaru! Retreat! Hurry up!   
+We've got to get out of here now!   
+   
+## Section 6: Shadow Servant  
+   
+**Olga Marie:**   
+Okay&mdash;Oh for God's sake, what is happening?   
+Why are Servants here?   
+   
+**Dr. Roman:**   
+I see...A Holy Grail War?   
+A Holy Grail War was going on in that town!   
+   
+**Dr. Roman:**   
+Normally, it would be a battle royale amongst the Seven Servants summoned in Fuyuki. But something's gone terribly wrong.   
+   
+**Dr. Roman:**   
+I'm not surprised there's a Servant without a Master.   
+It's natural for Servants to target other Servants.   
+   
+**Mash:**   
+Then as long as I'm here, we'll be targeted by other Servants?   
+   
+**Olga Marie:**   
+But Mash has nothing to do with the Grail!   
+That's just a wandering phantom gone mad!   
+   
+**F：Servant:**   
+&mdash;I found it.   
+New prey. The Grail shall be mine!   
+   
+**Dr. Roman:**   
+Servant's signal confirmed, it's an Assassin-class Servant!   
+   
+**Mash:**   
+I can fight!   
+Senpai, please give me your orders!   
+   
+---  
+  
+**Fujimaru 1:**   
+All right, I'll have us win no matter what!   
+   
+---  
+  
+**Fujimaru 2:**   
+Sorry, just bear with us a little longer!   
+   
+---  
+   
+**Mash:**   
+&mdash;Okay.   
+I'll bring you victory, Master!   
+   
+**--BATTLE--**  
+   
+**Mash:**   
+All right&mdash;How about that!   
+   
+**F：Servant:**   
+&mdash;This is a waste of time.   
+I could have handled this on my own.   
+   
+---  
+  
+**Fujimaru 1:**   
+...What does that mean?   
+   
+---  
+  
+**Fujimaru 2:**   
+...Mash, fall back!   
+   
+---  
+   
+**Dr. Roman:**   
+Fujimaru, they've caught up!   
+There's one more, that's their main force!   
+   
+**Olga Marie:**   
+No way...We're losing to one already, and now there's one more on the way?   
+   
+**Mash:**   
+Ah&mdash;  
+   
+**F：Servant:**   
+Let's finish this, Lancer. I don't know what kind of Heroic Spirit that is, but I will have her head.   
+   
+**G：Servant:**   
+&mdash;Ha. Hahahahahahahahahaha!   
+   
+**Dr. Roman:**   
+Director, Mash, hang in there!   
+You got to keep moving!   
+   
+**Fou:**   
+Fou! Fou!   
+   
+**G：Servant:**   
+&mdash;Ha. Hahahahahahahahahaha!   
+   
+**Dr. Roman:**   
+Dammit, they both let fear get to them...Give your orders, Fujimaru! You're the only calm one now!   
+   
+---  
+  
+**Fujimaru 1:**   
+...We've got to run for now!   
+   
+**Mash:**   
+Senpai!   
+   
+**G：Servant:**   
+Fun, fun, fun, fun!   
+   
+**Mash:**   
+Ugh...  
+   
+**G：Servant:**   
+This is fun! I want to kill! Yes, run!   
+   
+---  
+  
+**Fujimaru 2:**   
+We have no choice but to fight!   
+   
+**Mash:**   
+...Understood, there's no other option!   
+   
+**F：Servant:**   
+Ha! Futile! Fight, then you die. Run, and you still die.   
+The demise of the futile, oh so miserable.   
+   
+**G：Servant:**   
+Go ahead and struggle.   
+Miserable people are ever so entertaining.   
+   
+**Olga Marie:**   
+F-Fight? Are you serious? We don't stand a chance against something like that, right!?   
+   
+**Mash:**   
+...Even so, we must fight.   
+I will find a way for us to get out of this alive!   
+   
+**F：Servant:**   
+Ha&mdash; You've just killed yourself, girl!   
+   
+**???:**  
+I thought you were just some girl, but it looks like you've got some fight in you. Then I can't leave you like this.   
+   
+---  
+   
+**F：Servant:**   
+Ugh! Who are you?   
+   
+**???:**  
+What do you mean? Can't you tell?   
+Don't tell me the mud got in your eyes too?   
+   
+**--BATTLE--**  
+   
+**G：Servant:**   
+Curse you Caster!   
+Why are you siding with a Wanderer?   
+   
+**Caster:**   
+Huh? Because it's better than siding with you guys.   
+And hey, I don't mind brats with some potential.   
+   
+**Caster:**   
+Young lady, be ready for a fight. Don't worry, you're good. You can turn this around if you just pay attention.   
+   
+**Mash:**   
+R-Right, I'll do my best!   
+   
+**Caster:**   
+Hey [♂ Boy /♀ Lady], are you her Master?   
+Then I'm leaving the orders to you.   
+   
+**Caster:**   
+I'm a Caster-class Servant.   
+They don't really like me right now.   
+   
+**Caster:**   
+Not like the enemy of my enemy is my friend, but for now you can trust me.   
+   
+**Caster:**   
+In honor of the brave young lady there, I'll form a temporary contract with you and fight as your Servant!   
+   
+**--BATTLE--**  
+   
+**F：Servant:**   
+Ugh&mdash; Curse you, with the Holy Grail,  
+before my eyes&mdash;  
+   
+**Mash:**   
+Um, excuse me...  
+Thank you very much, for saving us from danger...  
+   
+**Caster:**   
+Hey, good work.   
+You don't owe me for this, so don't worry about it.   
+   
+**Caster:**   
+You should be more worried about your body.   
+That damn Assassin kept targeting your butt like a pest!   
+   
+**Mash:**   
+Oh!   
+   
+**Caster:**   
+Hey, you look fragile but you have a pretty nice body!   
+Icing on the cake!   
+   
+**Caster:**   
+I have no idea what class you are, but you're pretty sturdy...Maybe Saber? No, you don't have a sword.   
+   
+**Olga Marie:**   
+...Hey Fujimaru, what did you think of that?   
+   
+---  
+  
+**Fujimaru 1:**   
+Without a doubt, he's an old pervert.   
+   
+---  
+  
+**Fujimaru 2:**   
+...He's an ally, maybe?   
+   
+---  
+   
+**Dr. Roman:**   
+For now, let's get some information.   
+He seems to be a decent Heroic Spirit.   
+   
+**Caster:**   
+Oh, so someone who wants to cut to the chase.   
+What is this? Some means of communication through magecraft?   
+   
+**Dr. Roman:**   
+Well met, Caster Servant. I don't know which Heroic Spirit you are, but we have nothing but respect and awe for you.   
+   
+**Caster:**   
+Oh, spare me your remarks. I'm sick of hearing them.   
+State your business, weakling. Isn't that what you're good at?   
+   
+**Dr. Roman:**   
+Uh...I-I see. All right then...Weakling...I got called a weakling from someone I've met for the first time.   
+   
 **--ARROW--**  
-  
-**セイバー:**   
-&mdash;フ。知らず、私も力が緩んでいたらしい。  
-最後の最後で手を止めるとはな。  
-  
-**セイバー:**   
-聖杯を守り通す気でいたが、  
-<ruby>己<rt>おの</rt></ruby>が執着に<ruby>傾<rt>かぶ</rt></ruby>いたあげく敗北してしまった。  
-  
-**セイバー:**   
-結局、どう運命が変わろうと、  
-私ひとりでは同じ末路を迎えるという事か。  
-  
-**キャスター:**   
-あ？　どういう意味だそりゃあ。  
-テメエ、何を知っていやがる？  
-  
-**セイバー:**   
-いずれ貴方も知る、アイルランドの光の御子よ。  
-  
-**セイバー:**   
-グランドオーダー&mdash;聖杯を巡る戦いは、  
-まだ始まったばかりだという事をな。  
-  
-**キャスター:**   
-オイ待て、それはどういう&mdash;おぉお!?  
-やべえ、ここで強制帰還かよ!?  
-  
-**キャスター:**   
-チッ、納得いかねえがしょうがねえ！  
-[♂ 坊主 /♀️ お嬢ちゃん]、あとは任せたぜ！  
-  
-**キャスター:**   
-次があるんなら、  
-そん時はランサーとして喚んでくれ！  
-  
-**マシュ:**   
-セイバー、キャスター、共に消滅を確認しました。  
-……わたしたちの勝利、なのでしょうか？  
-  
-**Dr.ロマン:**   
-ああ、よくやってくれたマシュ、藤丸！  
-所長もさぞ喜んでくれて……あれ、所長は？  
-  
-**オルガマリー:**   
-……<ruby>冠位指定<rt>グランドオーダー</rt></ruby>……  
-あのサーヴァントがどうしてその呼称を……？  
-  
+   
+**Dr. Roman:**   
+...And that's the current situation in Chaldea.   
+   
+**Dr. Roman:**   
+Currently, Fujimaru is the acting Master and in the middle of conducting field research.   
+   
+**Dr. Roman:**   
+Let me confirm something. You're a Servant from the Holy Grail War that broke out in this city, and the sole survivor?   
+   
+**Caster:**   
+If by that you mean I haven't lost. Our Holy Grail War changed to something else entirely along the way.   
+   
+**Caster:**   
+I don't know how it happened either. The city was engulfed in flames, and the humans vanished.   
+Only the Servants remained.   
+   
+**Caster:**   
+Saber was the first to resume the Holy Grail War. That chap began rampaging like a tiger released from a cage.   
+   
+**Caster:**   
+Archer, Lancer, Rider, Berserker,  
+and Assassin were all defeated by Saber.   
+   
+**Olga Marie:**   
+The survival of the Seven Servants...  
+That rule of the Holy Grail War was broken here.   
+   
+**Mash:**   
+And in the end you won, Caster...  
+Or rather, you're the Servant who survived.   
+   
+**Caster:**   
+Yes. Any Servant that was defeated by Saber became like those two, corrupted by the black mud.   
+   
+**Caster:**   
+They, and the monsters that sprung up like maggots, started looking for something together.   
+   
+**Caster:**   
+The troublesome part is that I'm one of the things they're looking for. You see, the Holy Grail War won't end until I'm killed.   
+   
+**Dr. Roman:**   
+You and Saber are the only surviving Servants...  
+Then if you defeat Saber...  
+   
+**Caster:**   
+Yes, that would probably end the Holy Grail War here.   
+But I don't know whether things would return to normal.   
+   
+**Olga Marie:**   
+I see. You helped us, but in the end,  
+it was for your own sake, huh?   
+   
+**Olga Marie:**   
+You want to defeat Saber, but don't stand a chance doing it alone. That's why you zeroed in on us...Right?   
+   
+**Caster:**   
+That's right. But it's not a bad deal, is it?   
+At any rate&mdash;It looks like we've got company.   
+   
+**???:**  
+GuOOOOOOOOO!   
+   
+**Olga Marie:**   
+Yikes!   
+   
+**Caster:**   
+There's no end to these guys.   
+I'm telling you, there's nothing better than having allies!   
+   
+**--BATTLE--**  
+   
+**Mash:**   
+Sigh...Things have settled down at last.   
+True, we can't have a decent conversation like this.   
+   
+**Caster:**   
+My bad. If I'd been summoned as a Lancer,  
+I could've finished off Saber with just one strike.   
+   
+**Caster:**   
+Man, Caster is just not for me.   
+I don't like being a Caster in a Holy Grail War like this.   
+   
 ---  
   
 **Fujimaru 1:**   
-マリー所長、指示を。  
-  
+If you were a Lancer?   
+   
 ---  
   
 **Fujimaru 2:**   
-……なにか気になる事でも？  
-  
+Is it hard being a Caster?   
+   
 ---  
-  
-**オルガマリー:**   
-え……？　そ、そうね。  
-よくやったわ、藤丸、マシュ。  
-  
-**オルガマリー:**   
-不明な点は多いですが、  
-ここでミッションは終了とします。  
-  
-**オルガマリー:**   
-まずあの水晶体を回収しましょう。  
-セイバーが異常をきたしていた理由……  
-  
-**オルガマリー:**   
-冬木の街が特異点になっていた原因は、  
-どう見てもアレのようだし。  
-  
-**マシュ:**   
-はい、至急回収&mdash;な!?  
-  
-**？？？:**  
-いや、まさか君たちがここまでやるとはね。  
-計画の想定外にして、私の寛容さの許容外だ。  
-  
-**？？？:**  
-48人目のマスター適性者。まったく見込みのない  
-子供だからと、善意で見逃してあげた私の失態だよ。  
-  
-**マシュ:**   
-レフ教授!?  
-  
-**Dr.ロマン:**   
-レフ&mdash;!?  
-レフ教授だって!?　彼がそこにいるのか!?  
-  
-**レフ:**   
-うん？　その声はロマニ君かな？  
-君も生き残ってしまったのか。  
-  
-**レフ:**   
-すぐに管制室に来てほしいと言ったのに、  
-私の指示を聞かなかったんだね。まったく&mdash;  
-  
-**レフ:**   
-どいつもこいつも統率のとれていないクズばかりで  
-吐き気が止まらないな。  
-  
-**レフ:**   
-人間というものはどうしてこう、  
-定められた運命からズレたがるんだい？  
-  
-**マシュ:**   
-&mdash;！  
-マスター、下がって……下がってください！  
-  
-**マシュ:**   
-あの人は危険です……あれは、  
-わたしたちの知っているレフ教授ではありません！  
-  
-**オルガマリー:**   
-レフ……ああ、レフ、レフ、生きていたのねレフ！  
-  
-**オルガマリー:**   
-良かった、あなたがいなくなったらわたし、この先  
-どうやってカルデアを守ればいいか分からなかった！  
-  
-**マシュ:**   
-所長……！　いけません、その男は……！  
-  
-**レフ:**   
-やあオルガ。元気そうでなによりだ。  
-君もたいへんだったようだね。  
-  
-**オルガマリー:**   
-ええ、ええ、そうなのレフ！　管制室は爆発するし、  
-この街は廃墟そのものだし、カルデアには帰れないし！  
-  
-**オルガマリー:**   
-予想外の事ばかりで頭がどうにかなりそうだった！  
-でもいいの、あなたがいれば何とかなるわよね？  
-  
-**オルガマリー:**   
-だって今までそうだったもの。  
-今回だってわたしを助けてくれるんでしょう？  
-  
-**レフ:**   
-ああ。もちろんだとも。  
-本当に予想外のことばかりで頭にくる。  
-  
-**レフ:**   
-その中でもっとも予想外なのが君だよ、オルガ。  
-爆弾は君の足下に設置したのに、まさか生きているなんて。  
-  
-**オルガマリー:**   
-&mdash;、え？  
-……レ、レフ？　あの、それ、どういう、意味？  
-  
-**レフ:**   
-いや、生きている、というのは違うな。  
-君はもう死んでいる。肉体はとっくにね。  
-  
-**レフ:**   
-トリスメギストスはご丁寧にも、残留思念になった君を  
-この土地に転移させてしまったんだ。  
-  
-**レフ:**   
-ほら。君は生前、レイシフトの適性がなかっただろう？  
-肉体があったままでは転移できない。  
-  
-**レフ:**   
-わかるかな。君は死んだ事ではじめて、  
-あれほど切望した適性を手に入れたんだ。  
-  
-**レフ:**   
-だからカルデアにも戻れない。だってカルデアに戻った  
-時点で、君のその意識は消滅するんだから。  
-  
-**オルガマリー:**   
-え……え？　消滅って、わたしが……？  
-ちょっと待ってよ……カルデアに、戻れない？  
-  
-**レフ:**   
-そうだとも。だがそれではあまりにも哀れだ。  
-  
-**レフ:**   
-生涯をカルデアに捧げた君のために、  
-せめて今のカルデアがどうなっているか見せてあげよう。  
-  
-**オルガマリー:**   
-な……なによあれ。  
-カルデアスが真っ赤になってる……？  
-  
-**オルガマリー:**   
-嘘、よね？　あれ、ただの虚像でしょう、レフ？  
-  
-**レフ:**   
-本物だよ。君のために時空を繋げてあげたんだ。  
-聖杯があればこんな事もできるからね。  
-  
-**レフ:**   
-さあ、よく見たまえアニムスフィアの末裔。  
-あれがおまえたちの愚行の末路だ。  
-  
-**レフ:**   
-人類の生存を示す青色は一片もない。  
-あるのは燃え盛る<ruby>赤色<rt>せきしょく</rt></ruby>だけ。  
-  
-**レフ:**   
-あれが今回のミッションが引き起こした結果だよ。  
-  
-**レフ:**   
-良かったねぇマリー？　今回もまた、  
-君のいたらなさが悲劇を呼び起こしたワケだ！  
-  
-**オルガマリー:**   
-ふざ&mdash;ふざけないで！  
-  
-**オルガマリー:**   
-わたしの責任じゃない、わたしは失敗していない、  
-わたしは死んでなんかいない……！  
-  
-**オルガマリー:**   
-アンタ、どこの誰なのよ!?  
-わたしのカルデアスに何をしたっていうのよぉ……！  
-  
-**レフ:**   
-アレは君の、ではない。  
-まったく&mdash;最期まで耳障りな小娘だったなぁ、君は。  
-  
-**オルガマリー:**   
-なっ……体が、宙に&mdash;何かに引っ張られて&mdash;  
-  
-**レフ:**   
-言っただろう、そこはいまカルデアに繋がっていると。  
-  
-**レフ:**   
-このまま殺すのは簡単だが、それでは芸がない。  
-最後に君の望みを叶えてあげよう。  
-  
-**レフ:**   
-<u>君の宝物</u>とやらに触れるといい。  
-なに、私からの慈悲だと思ってくれたまえ。  
-  
-**オルガマリー:**   
-ちょ&mdash;なに言ってるの、レフ？  
-わたしの宝物って……カルデアスの、こと？  
-  
-**オルガマリー:**   
-や、止めて。お願い。だってカルデアスよ？  
-高密度の情報体よ？　次元が異なる領域、なのよ？  
-  
-**レフ:**   
-ああ。ブラックホールと何も変わらない。  
-それとも太陽かな。まあ、どちらにせよ。  
-  
-**レフ:**   
-人間が触れれば分子レベルで分解される地獄の具現だ。  
-遠慮なく、生きたまま無限の死を味わいたまえ。  
-  
-**オルガマリー:**   
-いや&mdash;いや、いや、助けて、誰か助けて！  
-わた、わたし、こんなところで死にたくない！  
-  
-**オルガマリー:**   
-だってまだ褒められてない……！  
-誰も、わたしを認めてくれていないじゃない……！  
-  
-**オルガマリー:**   
-どうして!?　どうしてこんなコトばっかりなの!?  
-  
-**オルガマリー:**   
-誰もわたしを評価してくれなかった！  
-みんなわたしを嫌っていた！  
-  
-**オルガマリー:**   
-やだ、やめて、いやいやいやいやいやいやいや……！  
-だってまだ何もしていない！  
-  
-**オルガマリー:**   
-生まれてからずっと、ただの一度も、  
-誰にも認めてもらえなかったのに&mdash;！  
-  
+   
+**Mash:**   
+It's been known to happen, Senpai. Some Heroic Spirits have the attributes of multiple classes.   
+   
+**Mash:**   
+He is not just a spear-wielder, but a high-level Heroic Spirit with qualifications to be a mage.   
+   
+**Mash:**   
+...I'm only speculating, but he must be one of the top Servants. The kind that's featured in the magazine Vivian.   
+   
+**Caster:**   
+Ahh yes, you said you were Masters of an organization called Chaldea...I guess that's all I need to know.   
+   
+**Caster:**   
+In general, Servants tend not to get overly involved in problems outside of their own time period.   
+We ultimately only cooperate as weapons.   
+   
+**Caster:**   
+Your goal is to investigate this anomaly.   
+My goal is to put an end to the Holy Grail War.   
+   
+**Caster:**   
+We share mutual interests.   
+So how about we join forces?   
+   
+**Olga Marie:**   
+...That is a rational proposition.   
+But if we do that, who will be your Master?   
+   
+**Caster:**   
+Well that [♂ kid /♀ young lady] there, of course. It doesn't seem like you have the aptitude to be a Master.   
+   
+**Caster:**   
+I mean you possess high quality magical circuits, yet you don't have the aptitude to be a Master. Is it a curse?   
+   
+**Olga Marie:**   
+Oh, shut up!   
+What do you care?   
+   
+**Olga Marie:**   
+Fujimaru, he's in your hands.   
+Use him wisely.   
+   
+**Caster:**   
+Then it's settled.   
+The contract is only temporary, but I'm counting on ya.   
+   
+**Caster:**   
+That leaves one last thing, your goal.   
+What you're looking for is probably the Greater Grail.   
+   
+**Dr. Roman:**   
+Greater Grail?   
+I'm not familiar with that. What is it?   
+   
+**Caster:**   
+This land's true "heart. "  
+If there is indeed a "Singularity," it has to be that.   
+   
+**Caster:**   
+But Saber is lingering around the Greater Grail.   
+The remaining Servants she contaminated, too.   
+   
+**Olga Marie:**   
+Berserker and Archer are the ones left?   
+What are those two like? Are they strong?   
+   
+**Caster:**   
+Well, Archer can be dealt with if I'm with you.   
+Berserker is the problem.   
+   
+**Caster:**   
+Even Saber had trouble with that monster.   
+But he won't attack unless you get close to him, so ignoring him is one option.   
+   
+**Dr. Roman:**   
+We understand the situation now. We'll team up with Mr. Caster to obtain the Greater Grail.   
+   
+**Dr. Roman:**   
+Mr. Caster, would you show us the way?   
+   
+**Caster:**   
+Skip the "Mister. " I'll take you there.   
+The [♂ kid /♀ young lady] here will decide when to make our move.   
+   
+**Dr. Roman:**   
+Much obliged. Then shall we resume the search?   
+I'm counting on you, Fujimaru.   
+   
+## Section 7: Toward the Greater Grail  
+**--BATTLE--**  
+## Section 8: Mash's Training  
+   
+**Mash:**   
+...  
+   
+**Olga Marie:**   
+Hey, Fujimaru.   
+It's pretty obvious that Kyrielight's looking depressed.   
+   
+**Olga Marie:**   
+You are her Master, aren't you?   
+Do something to cheer her up!   
+   
 ---  
   
 **Fujimaru 1:**   
-所長……！  
-  
+Mash, is something wrong?   
+   
+**Mash:**   
+No! There's nothing different.   
+I'm operating perfectly, Master!   
+   
+**Mash:**   
+But that's the problem, nothing's different...  
+   
 ---  
   
 **Fujimaru 2:**   
-……もう、間に合わない……  
-  
+Could it be...  
+   
+**Mash:**   
+Yes. I'm ashamed to be the one to say this, but...  
+   
 ---  
-  
-**藤丸:**   
-……！  
-  
-**マシュ:**   
-だめです、いけません先輩……！  
-あの男に近づけば、先輩も同じように殺されます！  
-  
-**レフ:**   
-ほう。さすがはデミ・サーヴァント。  
-私が根本的に違う生き物だと感じ取っているな。  
-  
-**レフ:**   
-改めて自己紹介をしようか。  
-私はレフ・ライノール・フラウロス。  
-  
-**レフ:**   
-貴様たち人類を処理するために遣わされた、  
-2015年担当者だ。  
-  
-**レフ:**   
-聞いているなドクター・ロマニ？　共に魔道を研究した  
-学友として、最後の忠告をしてやろう。  
-  
-**レフ:**   
-カルデアは用済みになった。  
-おまえたち人類は、この時点で滅んでいる。  
-  
-**Dr.ロマン:**   
-……レフ教授。  
-いや、レフ・ライノール。  
-  
-**Dr.ロマン:**   
-それはどういう意味ですか。  
-2017年が見えない事に関係があると？  
-  
-**レフ:**   
-関係ではない。  
-もう終わってしまったという事実だ。  
-  
-**レフ:**   
-未来が観測できなくなり、おまえたちは“未来が消失した”  
-などとほざいたな。まさに希望的観測だ。  
-  
-**レフ:**   
-未来は消失したのではない。焼却されたのだ。  
-カルデアスが深紅に染まった時点でな。  
-  
-**レフ:**   
-結末は確定した。  
-貴様たちの時代はもう存在しない。  
-  
-**レフ:**   
-カルデアスの磁場でカルデアは守られているだろうが、  
-外はこの冬木と同じ末路を迎えているだろう。  
-  
-**Dr.ロマン:**   
-……そうでしたか。  
-  
-**Dr.ロマン:**   
-外部と連絡がとれないのは通信の故障ではなく、  
-そもそも受け取る相手が消え去っていたのですね。  
-  
-**レフ:**   
-ふん、やはり貴様は<ruby>賢<rt>さか</rt></ruby>しいな。  
-真っ先に殺しておけなかったのは悔やまれるよ。  
-  
-**レフ:**   
-だがそれも虚しい抵抗だ。カルデア内の時間が2016年を  
-過ぎれば、そこもこの宇宙から消滅する。  
-  
-**レフ:**   
-もはや誰にもこの結末は変えられない。  
-なぜならこれは人類史による人類の否定だからだ。  
-  
-**レフ:**   
-おまえたちは進化の行き止まりで衰退するのでも、  
-異種族との交戦の末に滅びるのではない。  
-  
-**レフ:**   
-自らの無意味さに！　自らの無能さ故に！  
-我らが王の寵愛を失ったが故に！  
-  
-**レフ:**   
-何の価値もない紙クズのように、  
-跡形もなく燃え尽きるのさ！  
-  
-**レフ:**   
-おっと。この特異点もそろそろ限界か。  
-  
-**レフ:**   
-……セイバーめ、おとなしく従っていれば  
-生き残らせてやったものを。  
-  
-**レフ:**   
-聖杯を与えられながらこの時代を維持しようなどと、  
-余計な手間を取らせてくれた。  
-  
-**レフ:**   
-では、さらばだロマニ。  
-そしてマシュ、48人目の適性者。  
-  
-**レフ:**   
-こう見えても私には次の仕事があるのでね。  
-君たちの末路を愉しむのはここまでにしておこう。  
-  
-**レフ:**   
-このまま時空の歪みに呑みこまれるがいい。  
-私も鬼じゃあない。最後の祈りぐらいは許容しよう。  
-  
-**マシュ:**   
-地下空洞が崩れます……！  
-いえ、それ以前に空間が安定していません！  
-  
-**マシュ:**   
-ドクター！  
-至急レイシフトを実行してください！  
-  
-**マシュ:**   
-このままではわたしはともかく、  
-先輩まで……！  
-  
-**Dr.ロマン:**   
-わかってる、もう実行しているとも！  
-でもゴメン、そっちの崩壊の方が早いかもだ！  
-  
-**Dr.ロマン:**   
-その時は諦めてそっちで何とかしてほしい！  
-ほら、宇宙空間でも数十秒なら生身でも平気らしいし！  
-  
-**マシュ:**   
-すみません、黙ってくださいドクター！  
-怒りで冷静さを失いそうです！  
-  
-**Dr.ロマン:**   
-とにかく意識だけは強くもってくれ！  
-意味消失さえしなければサルベージは&mdash;  
-  
-**マシュ:**   
-っ、間に合わない！  
-  
+   
+**Mash:**   
+Um, under your command Senpai, I have gained enough experience...  
+   
+**Mash:**   
+And yet...I'm still unable to unleash my Noble Phantasm.   
+   
+**Mash:**   
+I don't even know how to unleash it...  
+I'm like a defective Servant.   
+   
+**Fou:**   
+Fou...  
+   
+**Dr. Roman:**   
+Oh, so that's what was bothering you.   
+You have such a strong sense of responsibility, Mash...  
+   
+**Dr. Roman:**   
+But I don't think that can be settled overnight.   
+After all, it's a Noble Phantasm.   
+   
+**Dr. Roman:**   
+If a Heroic Spirit's secret weapon can be mastered within a day or two, then Servants wouldn't be that special anymore.   
+   
+**Caster:**   
+Of course we can master something like that immediately. After all, Heroic Spirits and Noble Phantasms are the same thing.   
+   
+**Caster:**   
+If the young lady here can fight as a Servant, that means at that very moment you can use your Noble Phantasm.   
+   
+**Caster:**   
+And yet you can't, which simply means your magical energy is not circulating right.   
+   
+**Caster:**   
+Let's see, maybe enthusiasm? No, perhaps too reserved?   
+Anyway, I'm sure it's because you just don't yell out when you practice.   
+   
+**Mash:**   
+Really? R-E-A-L-L-Y-!?   
+   
+**Fou:**   
+Faaaaaaaaaaa?   
+   
+**Olga Marie:**   
+Hey, don't yell all of a sudden!   
+You're going to burst my eardrums, seriously!   
+   
+**Mash:**   
+Sorry Director.   
+But Caster said we should shout...  
+   
+**Caster:**   
+No, that was a metaphor...  
+Well, at any rate, I see you have enthusiasm.   
+   
+**Caster:**   
+Fujimaru, you heard the young lady.   
+Do you mind if we take a quick detour?   
+   
 ---  
   
 **Fujimaru 1:**   
-マシュ、こっちだ！  
-  
+Detour? What kind?   
+   
 ---  
   
 **Fujimaru 2:**   
-マシュだけでも、せめて……！  
-  
+Don't tease Mash. She's an innocent girl.   
+   
 ---  
-  
-**マシュ:**   
-先輩、手を……！  
-  
-**？？？:**  
-よーし、キミはずいぶん良い子でちゅねー。  
-何か食べる？　木の実？　それとも魚？  
-  
-**？？？:**  
-んー、ネコなのかリスなのかイマイチ不明だね。  
-でもいっか、可愛いから！  
-  
-**フォウ:**   
-フォーウ……  
-ンキュ、キュウぅ……  
-  
-**？？？:**  
-ん？　おっと、本命の目が覚めたね。  
-よしよし、それでこそ主人公というヤツだ。  
-  
-**？？？:**  
-おはよう、こんにちは、藤丸。  
-意識はしっかりしているかい？  
-  
+   
+**Caster:**   
+What? I'm just talking about special training. It won't take long. I'm a Caster right now, so leave the healing to me.   
+   
+**Caster:**   
+First we'll start off small. Let me inscribe some misfortune-bringing runes...Okay, we're done.   
+   
+**Olga Marie:**   
+Huh? What are you doing?   
+Why are you inscribing runes on my coat?   
+   
+**Caster:**   
+Even if something targets you, you can take care of yourself, right? And look, here they come.   
+   
+**???:**  
+Grrrrrr...  
+Zuaaaaaaaa!   
+   
+**Olga Marie:**   
+I don't know what you're talking about!   
+   
+**Mash:**   
+D-Director, get behind me!   
+You too Senpai, prepare for battle!   
+   
+**Caster:**   
+All right, that should be enough.   
+   
+**Caster:**   
+To put it simply, a Noble Phantasm is part of a Heroic Spirit's instinct. It's hard to use it if you think too much.   
+   
+**Caster:**   
+Therefore, you must first use up all of your energy, young lady! Man, I'm a genius!   
+   
 ---  
   
 **Fujimaru 1:**   
-ここは……？  
-  
+That isn't a cure, that's an extreme measure!   
+   
 ---  
   
 **Fujimaru 2:**   
-貴女は……？  
-  
+Maybe you're an idiot?   
+   
 ---  
-  
-**？？？:**  
-んー、まだ思考能力が戻ってないのか。  
-こうして直接話をするのは初めてだね。  
-  
-**？？？:**  
-なに？　目を覚ましたら絶世の美女がいて驚いた？  
-わかるわかる。でも慣れて。  
-  
-**ダ・ヴィンチ:**   
-私はダ・ヴィンチちゃん。カルデアの協力者だ。  
-というか、召喚英霊第三号、みたいな？  
-  
-**ダ・ヴィンチ:**   
-とにかく話は後。キミを待っている人がいるんだから、  
-管制室に行きなさい。  
-  
+   
+**--BATTLE--**  
+   
+**Mash:**   
+I can't, go on&mdash; Any more back-to-back, battles&mdash;  
+I'm sorry, Caster&mdash;  
+   
+**Mash:**   
+Rather than test my will, please teach me some solid theories&mdash;  
+   
+**Caster:**   
+&mdash;You just don't get it, do you?   
+Did I miscalculate?   
+   
+**Caster:**   
+Oh well, let's cross that bridge when we get to it.   
+Okay, I'm your next opponent.   
+   
+**Caster:**   
+You don't have to hold back because we're allies.   
+I'm not gonna hold back when I kill Fujimaru.   
+   
+**Mash:**   
+Wh-!   
+   
+**Olga Marie:**   
+What are you talking about? Are you crazy?   
+What does Fujimaru have to do with this?   
+   
+**Caster:**   
+A Servant's problems are the Master's problems.   
+Didn't I mention that you share the same fate?   
+   
+**Caster:**   
+You've had the same thought, right Fujimaru? When the young lady can't stand anymore, it's your death.   
+   
+**Mash:**   
+...Master, please, stand back!   
+   
+**Mash:**   
+I&mdash;won't be a hindrance for Senpai...  
+I won't!   
+   
+**Caster:**   
+That's what I like to hear.   
+All right, let's have a real Servant battle.   
+   
+**--BATTLE--**  
+   
+**Mash:**   
+(Pant)&mdash;(Pant)&mdash;(Pant)&mdash;  
+   
+**Caster:**   
+Ok, it's time to finish this.   
+Burn to the ground with your Master!   
+   
+**Caster:**   
+My spell is the coffin of flames, a giant of verdant thorn.   
+Retribution, the forest that will purify human misery&mdash;  
+   
+**Caster:**   
+Befall the Wicker Man!   
+And behold, as both good and evil bite the dust&mdash;!   
+   
+**Mash:**   
+Ah&mdash;Ah...  
+   
+**Mash:**   
+(I must protect...I must unleash it, or everyone will&mdash;  
+Even if it's fake, even if it's just for now...  
+   
+**Mash:**   
+...I have to unleash it properly, or everyone will disappear&mdash;! )  
+   
+**Mash:**   
+Ahhhhhhhh&mdash;!   
+   
+**--BATTLE--**  
+   
+**Mash:**   
+Oh...I...  
+Did I, manage to unleash my Noble...Phantasm...  
+   
+**Caster:**   
+&mdash;Whew, I knew you'd survive that. But I never thought both you and your Master would walk out without a scratch.   
+   
+**Caster:**   
+Be happy, wait no...  
+Praise her, Fujimaru.   
+   
+**Caster:**   
+That young lady there is without question, a first-rate Heroic Spirit.   
+   
+**Mash:**   
+Senpai, I...just now!   
+   
 ---  
   
 **Fujimaru 1:**   
-待ってる人って……？  
-  
+Right. Congratulations, Mash.   
+   
 ---  
   
 **Fujimaru 2:**   
-ドクターですか……？  
-  
+Yeah. That was amazing, Mash.   
+   
 ---  
-  
-**ダ・ヴィンチ:**   
-ロマン？　ロマンも待ってるけど、  
-あんなのどうでもいいでしょ。  
-  
-**ダ・ヴィンチ:**   
-まったく。他にもいるだろうに、大事な娘が。  
-まだまだ主人公勘ってヤツがなってないなあ。  
-  
-**フォウ:**   
-フォウ、フォウ！  
-  
-**ダ・ヴィンチ:**   
-ほら、この子だってそう言ってる。  
-いいかげん立ち上がる時だよ藤丸君。  
-  
-**ダ・ヴィンチ:**   
-ここからはキミが中心になる物語だ。  
-キミの判断が我々を救うだろう。  
-  
-**ダ・ヴィンチ:**   
-人類を救いながら歴史に残らなかった  
-<ruby>数多無数<rt>あまたむすう</rt></ruby>の勇者たちと同じように。  
-  
-**ダ・ヴィンチ:**   
-英雄ではなく、ただの人間として星の行く末を定める  
-戦いが、キミに与えられた役割だ。  
-  
-**マシュ:**   
-おはようございます先輩。  
-無事で何よりです。  
-  
+   
+**Mash:**   
+!!   
+   
+**Fou:**   
+Fou, fooooouuuu!   
+   
+**Dr. Roman:**   
+That was surprising. I didn't expect her to unleash her Noble Phantasm that soon. Mash was never someone with a strong will...  
+   
+**Caster:**   
+That's because you got her all wrong.   
+You may call the young lady here, a protector.   
+   
+**Caster:**   
+There's no point in teaching a bird to swim, is there?   
+You have to teach a bird how to fly high.   
+   
+**Caster:**   
+Although...  
+She didn't get to obtain its True Name.   
+   
+**Mash:**   
+Right. Even though I can unleash my Noble Phantasm now, I still don't know its True Name, nor the True Name of the Heroic Spirit...  
+   
+**Olga Marie:**   
+That's fine, even if you are inexperienced...  
+Even if you are only temporary...  
+   
+**Olga Marie:**   
+Your very wish unleashed your Noble Phantasm.   
+   
+**Olga Marie:**   
+You didn't have the slightest desire to obtain a True Name, to become one of the chosen&mdash;  
+To become a true Heroic Spirit.   
+   
+**Olga Marie:**   
+That's why your Noble Phantasm responded.   
+Ahhh, what an inspiring story. Just like a fairy tale.   
+   
+**Mash:**   
+Um, Director...  
+   
+**Olga Marie:**   
+Don't mind me, I'm just teasing. I'm pleased that you're able to use your Noble Phantasm now.   
+   
+**Olga Marie:**   
+But it's inconvenient to use it without a True Name, right? I'll think of a good spell for you.   
+   
+**Olga Marie:**   
+Since it's a pseudo-deployment of Noble Phantasm...  
+Let me see...Yes, let's call it "Lord Chaldeas. "  
+   
+**Olga Marie:**   
+Chaldea is a name that has meaning for you too. So to activate your Spirit Origin, that's a good spell for you, right?   
+   
+**Mash:**   
+Y-Yes...  
+Thank you, Director!   
+   
+**Dr. Roman:**   
+Lord Chaldeas...Yes, I like it.   
+That fits you perfectly, Mash!   
+   
+**Dr. Roman:**   
+And the desire to try it out after getting it is only human nature. Caster, would you be Mash's sparring partner?   
+   
+**Caster:**   
+Yes, of course. I was holding back before, but even so, her defense was impeccable.   
+   
+**Caster:**   
+As someone with more experience, I'll hammer the basics of Noble Phantasms into your head.   
+Fujimaru, young lady, are you ready?   
+   
+**Mash:**   
+Yes, please!   
+   
+## Section 9: The Dark Cave  
+   
+**Caster:**   
+The Greater Grail is back here.   
+It's a little far back, so don't get lost.   
+   
+**Mash:**   
+This place looks like a natural cave...  
+Did this always exist in Fuyuki City?   
+   
+**Olga Marie:**   
+Probably, it's half natural, half man-made. It's the underground workshop expanded by mages over a number of years.   
+   
+**Olga Marie:**   
+Anyway, Caster.   
+I forgot to ask you something important.   
+   
+**Olga Marie:**   
+Do you know Saber's True Name?   
+It sounded like you'd fought several times.   
+   
+**Caster:**   
+Yes, I know it. Anyone who gets hit by Saber's Noble Phantasm will find out that bastard's True Name...  
+   
+**Caster:**   
+The other Servants were all defeated because Saber's Noble Phantasm was that powerful.   
+   
+**Mash:**   
+A powerful Noble Phantasm, is it?   
+What was it like?   
+   
+**Caster:**   
+The sister sword of the Sword in the Stone.   
+It's the most famous sacred sword in your time period.   
+   
+**Caster:**   
+Its name...  
+   
+**Servant:**   
+The Sword of Promised Victory, Excalibur.   
+Wielded by King Arthur, the proud King of Knights.   
+   
+**Fujimaru:**   
+!?   
+   
+**Olga Marie:**   
+Archer!   
+   
+**Caster:**   
+Ah, speak of the devil. Or shall I say, the faithful follower.   
+As always, I see that you're still the loyal knight.   
+   
+**Archer:**   
+...Hmph, I don't remember becoming a follower of anybody. I'm just here to chase away unwanted visitors.   
+   
+**Caster:**   
+In other words, you're the gatekeeper. I don't know why you're protecting Saber, but let's end this here.   
+   
+**Caster:**   
+Isn't a game that never ends boring? For better or worse,  
+we need to move the pieces forward.   
+   
+**Archer:**   
+From the way you talk, I think you understand the circumstances. Yet you are still absorbed by your own desires...  
+   
+**Archer:**   
+You still haven't changed despite being a mage now.   
+In that case, I will knock some sense into you.   
+   
+**Caster:**   
+Ha, big talk for a mere Archer.   
+Hey, why are you just standing there, young lady?   
+   
+**Caster:**   
+He's an Archer. Without your shield,  
+I won't have the time to cast my spells.   
+   
+**Mash:**   
+Ah...R-Right!   
+Sorry, I was out of it for a second there.   
+   
+**Mash:**   
+But no problem, I can do this.   
+When it comes to guarding, leave it to me!   
+   
+**--BATTLE--**  
+   
+**Archer:**   
+Well done, Mage of Flowers! Who knew her Noble Phantasm could be utilized that way!   
+   
+**Caster:**   
+Hey, it's time for you to take a hike!   
+The young lady and I will take down the Sacred Sword!   
+   
+**Mash:**   
+...I'm glad that you trust me, but do you think I can guard against it?   
+   
+**Mash:**   
+...I've heard about the Sword of King Arthur.   
+My fingers are trembling, it seems too much for me...  
+   
+**Caster:**   
+Well, you'll just have to overcome it with courage. But from where I stand, you seem to be perfect for the job.   
+   
+**Caster:**   
+That shield will never shatter, if you were to lose, it would be because the young lady messed it up.   
+   
+**Caster:**   
+If you let go of that shield, your Master behind it will evaporate instantly.   
+   
+**Caster:**   
+Listen, don't think about beating the Sword.   
+All you need to think about is protecting your Master.   
+   
+**Caster:**   
+That's right up your alley, no?   
+   
+**Caster:**   
+Well, anyway. Leave it to me to finish off Saber,  
+and just do what you need to do.   
+   
+**Mash:**   
+...Right. That advice will be of great help.   
+   
+## Section 10: Facing the Greater Grail  
+   
+**Caster:**   
+Time for the Greater Grail. This will be our last break.   
+Is there anything you've left undone?   
+   
 ---  
   
 **Fujimaru 1:**   
-おはよう。ありがとう、マシュ。  
-  
-**マシュ:**   
-お礼を言うのはわたしの方です。  
-先輩がいてくれたので意識を保っていられました。  
-  
+No, I'm ready.   
+   
+**Caster:**   
+That's good to hear. I dislike Masters who can't make up their minds when push comes to shove.   
+   
+**Caster:**   
+You're still a rookie, but you've got the most important thing a pioneer can have.   
+   
+**Caster:**   
+The divine luck to grasp fate, and the ability to make decisions.   
+   
+**Caster:**   
+Don't forget how to be reckless. People like that are the ones who'll get blessed by the stars.   
+   
 ---  
   
 **Fujimaru 2:**   
-おはよう。助かったんだね、マシュ。  
-  
-**マシュ:**   
-はい。先輩が手を握ってくれたおかげです。  
-二度ある事は三度あるという格言を信じたい気持ちです。  
-  
+Can we go back to the base first?   
+   
+**Caster:**   
+If it's necessary, then by all means go back.   
+We're attacking a bear in its hole, so we need plenty of supplies.   
+   
 ---  
-  
-**Dr.ロマン:**   
-コホン。再会を喜ぶのは結構だけど、  
-今はこっちにも注目してくれないかな。  
-  
-**Dr.ロマン:**   
-まずは生還おめでとう藤丸[♂ 君 /♀️ ちゃん]。  
-そしてミッション達成、お疲れさま。  
-  
-**Dr.ロマン:**   
-なし崩し的にすべてを押しつけてしまったけど、  
-君は勇敢にも事態に挑み、乗り越えてくれた。  
-  
-**Dr.ロマン:**   
-その事に心からの尊敬と感謝を送るよ。  
-君のおかげでマシュとカルデアは救われた。  
-  
-**Dr.ロマン:**   
-所長は残念だったけど……今は弔うだけの余裕がない。  
-悼むことぐらいしかできない。  
-  
+   
+**Olga Marie:**   
+I don't know what you're talking about. Whether we forge ahead or go back, we need to rest first.   
+   
+**Olga Marie:**   
+Doctor, are you checking vitals?   
+Fujimaru looks paler than usual.   
+   
+**Dr. Roman:**   
+Huh? Ah...Yeah, this doesn't look very good.   
+It's because of the unexpected Servant contract...  
+   
+**Dr. Roman:**   
+You never used your magic circuits and now they're running at full capacity. It's probably putting stress on your brain.   
+   
+**Dr. Roman:**   
+Mash, set up camp.   
+It's time to make warm tea with plenty of honey.   
+   
+**Mash:**   
+Got it, Doctor.   
+I think tea time is a good idea.   
+   
+**Caster:**   
+Oh, feeding yourselves before the final battle?   
+Then maybe I'll go hunting for some wild boars.   
+   
+**Olga Marie:**   
+I'm sure there aren't any around here. Besides, forget about meat, if you must get something make it fruit.   
+   
+**Mash:**   
+...I'm stuffed. I can't believe you had dried fruits with you, Director. Again, your level of preparation astonishes me.   
+   
+**Olga Marie:**   
+I just happened to have them. Citrus is effective against headaches. But that aside&mdash;  
+   
+**Olga Marie:**   
+...  
+   
 ---  
   
 **Fujimaru 1:**   
-……………。  
-  
+Um, what is it, Director?   
+   
 ---  
   
 **Fujimaru 2:**   
-自分が生きているんだから、所長だって……  
-  
-**Dr.ロマン:**   
-………。  
-  
+Would you like seconds, Director?   
+   
+**Olga Marie:**   
+No, I'm full! But from now on, remember that I like coffee more than tea!   
+   
+**Olga Marie:**   
+N-No, that's not it.   
+That's not what I wanted to...Oh, forget it!   
+   
 ---  
-  
-**Dr.ロマン:**   
-いいかい。ボクらは所長に代わって人類を守る。  
-それが彼女への手向けになる。  
-  
-**Dr.ロマン:**   
-マシュから報告を受けたよ。  
-聖杯と呼ばれた水晶体とレフの言動。  
-  
-**Dr.ロマン:**   
-カルデアスの状況から見るに、レフの言葉は真実だ。  
-外部との連絡は取れない。  
-  
-**Dr.ロマン:**   
-カルデアから外に出たスタッフも戻って来ない。  
-……おそらく、既に人類は滅びている。  
-  
-**Dr.ロマン:**   
-このカルデアだけが通常の時間軸に無い状態だ。  
-崩壊直前の歴史に踏みとどまっている……というのかな。  
-  
-**Dr.ロマン:**   
-宇宙空間に浮かんだコロニーと思えばいい。  
-外の世界は死の世界だ。この状況を打破するまではね。  
-  
+   
+**Olga Marie:**   
+Th-The work you've done so far, has been passable.   
+As the director of Chaldea, I have to give you credit.   
+   
+**Olga Marie:**   
+...Hmph. What's that look for?   
+I'm sure it's a fluke, but right now you're all we've got.   
+   
+**Olga Marie:**   
+What I'm saying is, keep it up and you might hear praise from me yet. I know that even a third-rater can do first-rate work.   
+   
+**Dr. Roman:**   
+Well, well, admitting that Fujimaru did a solid job. Have you eaten something sweet?   
+   
+**Olga Marie:**   
+Romani. If you've got time to be flapping your gums,  
+use it to send Fujimaru a supply or two instead.   
+   
+**Olga Marie:**   
+I would feel bad if someone failed because they were ill-equipped. Especially, when they have been doing their best.   
+   
+**Dr. Roman:**   
+What's this? "Feel bad? " How kind of you. Director,  
+does this mean you're finally opening up your heart?   
+   
+**Olga Marie:**   
+Idio...I-I meant pitiful! Pathetic!   
+You couldn't even tell that?   
+   
+**Dr. Roman:**   
+Well, I never grow tired of watching young men and women interact. Although when it comes to young women, Director, you're not really...  
+   
+**Mash:**   
+Is that right? Certainly, the Director is older, but I feel like we have similar tastes. I feel affection for her.   
+   
+**Olga Marie:**   
+What are you going on about?   
+I told you before that you're all just tools to me!   
+   
+**???:**  
+&mdash;(Mm, hmm)  
+   
+**Olga Marie:**   
+There, see?   
+Even this shadowy-like monster-thing agrees with me!   
+   
+**Olga Marie:**   
+Huh? &mdash;Eeeeek! Mash, hurry up and get rid of it!   
+It's gonna eat me! It's gonna eat me!   
+   
+## Section 11: Grand Order  
+   
+**Olga Marie:**   
+This is the Greater Grail...It's an ultra-superior Magical Reactor...What's it doing on this island nation in the Far East?   
+   
+**Dr. Roman:**   
+According to our data, it was built by an eminent family of alchemists called the Einzberns.   
+   
+**Dr. Roman:**   
+Though apparently they didn't belong to the Mage's Association, and were solely made of homunculi.   
+   
+**Caster:**   
+Sorry, that's it for the chitchat.   
+The lady has noticed us.   
+   
+**Saber:**   
+&mdash;  
+   
+**Mash:**   
+...Unbelievable magical output...  
+Is that really King Arthur?   
+   
+**Dr. Roman:**   
+No question. She seems to have changed somehow but she's the king of Britain, Arthur, wielder of the Sacred Sword.   
+   
+**Dr. Roman:**   
+Her gender's different than the legend, but she had her reasons for dressing like a man in Camelot.   
+   
+**Dr. Roman:**   
+I mean, you can't assume the throne unless you're a man, right? She must've had to pretend to be a guy for family reasons.   
+   
+**Dr. Roman:**   
+I have an idea who's behind that. It's mentioned in the legends, but Merlin really does have a terrible taste.   
+   
+**Mash:**   
+Huh? Ah, you're right.   
+I thought that person was a man, but it's a woman.   
+   
+**Caster:**   
+Don't be fooled by her appearance. She's a monster.   
+Her power is not of muscle, but a ridiculous amount of magical energy.   
+   
+**Caster:**   
+Every single strike is massive. If you're not paying attention, the top half of your body will go flying.   
+   
+**Mash:**   
+Basically, just think of her like a human rocket.   
+...Understood, I'll fight back with everything I've got.   
+   
+**Caster:**   
+Good. If you defeat her, the anomaly in this town will disappear. Listen, that includes both me and her.   
+   
+**Caster:**   
+After that, it's your job.   
+I don't know what will happen, but do the best you can.   
+   
+**Saber:**   
+&mdash;I see.   
+You've got an interesting Servant with you.   
+   
+**Caster:**   
+What! You can talk?   
+You were just maintaining your silence all this time?   
+   
+**Saber:**   
+Yes, and you were being watched the whole time you were chatting. I merely acted as a scarecrow.   
+   
+**Saber:**   
+But&mdash;it's interesting.   
+I'm curious about that Noble Phantasm.   
+   
+**Saber:**   
+Be ready, strange girl.   
+This sword shall test the truth of your shield.   
+   
+**Mash:**   
+Here she comes&mdash;Master!   
+   
 ---  
   
 **Fujimaru 1:**   
-打破できるんですか？  
-  
+Yeah, let's fight together!   
+   
 ---  
   
 **Fujimaru 2:**   
-……解決策があるんですね？  
-  
+Yeah, no way are we gonna lose this!   
+   
 ---  
-  
-**Dr.ロマン:**   
-もちろん。まずはこれを見てほしい。  
-復興させたシバで地球の状態をスキャンしてみた。  
-  
-**Dr.ロマン:**   
-未来じゃなくて過去の地球のね。  
-冬木の特異点は君たちのおかげで消滅した。  
-  
-**Dr.ロマン:**   
-なのに未来が変わらないという事は、  
-他にも原因があるとボクらは仮定したんだ。  
-  
-**Dr.ロマン:**   
-その結果が&mdash;  
-  
-**Dr.ロマン:**   
-この狂った世界地図。新たに発見された、  
-冬木とは比べものにならない時空の乱れだ。  
-  
-**Dr.ロマン:**   
-よく過去を変えれば未来が変わる、というけど、  
-ちょっとやそっとの過去改竄じゃ未来は変革できない。  
-  
-**Dr.ロマン:**   
-歴史には修復力というものがあってね。  
-たしかに人間のひとりやふたりを救う事はできても、  
-  
-**Dr.ロマン:**   
-その時代が迎える結末&mdash;  
-決定的な結果だけは変わらないようになっている。  
-  
-**Dr.ロマン:**   
-でもこれらの特異点は違う。  
-これは人類のターニングポイント。  
-  
-**Dr.ロマン:**   
-“この戦争が終わらなかったら”  
-“この航海が成功しなかったら”  
-  
-**Dr.ロマン:**   
-“この発明が間違っていたら”  
-“この国が独立できなかったら”  
-  
-**Dr.ロマン:**   
-そういった、現在の人類を決定づけた究極の選択点だ。  
-  
-**Dr.ロマン:**   
-それが崩されるという事は、人類史の土台が崩れる事に  
-等しい。この七つの特異点はまさにそれだ。  
-  
-**Dr.ロマン:**   
-この特異点が出来た時点で未来は決定してしまった。  
-レフの言う通り、人類に2017年はやってこない。  
-  
-**Dr.ロマン:**   
-&mdash;けど、ボクらだけは違う。  
-カルデアはまだその未来に到達していないからね。  
-  
-**Dr.ロマン:**   
-分かるかい？　ボクらだけがこの間違いを修復できる。  
-今こうして崩れている特異点を元に戻す<ruby>機会<rt>チャンス</rt></ruby>がある。  
-  
-**Dr.ロマン:**   
-結論を言おう。  
-  
-**Dr.ロマン:**   
-この七つの特異点にレイシフトし、  
-歴史を正しいカタチに戻す。  
-  
-**Dr.ロマン:**   
-それが人類を救う唯一の手段だ。  
-けれどボクらにはあまりにも力がない。  
-  
-**Dr.ロマン:**   
-マスター適性者は君を除いて凍結。  
-所持するサーヴァントはマシュだけだ。  
-  
-**Dr.ロマン:**   
-この状況で君に話すのは強制に近いと理解している。  
-それでもボクはこう言うしかない。  
-  
-**Dr.ロマン:**   
-マスター適性者48番、藤丸。  
-  
-**Dr.ロマン:**   
-君が人類を救いたいのなら。  
-2016年から先の未来を取り戻したいのなら。  
-  
-**Dr.ロマン:**   
-君はこれからたった一人で、  
-この七つの人類史と戦わなくてはいけない。  
-  
-**Dr.ロマン:**   
-その覚悟はあるか？  
-君にカルデアの、人類の未来を背負う力はあるか？  
-  
+   
+**Mash:**   
+Yes! Mash Kyrielight, here I come!   
+   
+**--BATTLE--**  
+   
+**Saber:**   
+&mdash;Hmph. Unbeknownst to me, my power has weakened. I stayed my hand at the very last moment.   
+   
+**Saber:**   
+I was going to defend the Holy Grail to the end, but I lost because my tenacity wavered.   
+   
+**Saber:**   
+Ultimately, no matter how my fate changes, I will always meet the same end if I'm alone.   
+   
+**Caster:**   
+What's that supposed to mean?   
+Bastard, what do you know?   
+   
+**Saber:**   
+Eventually, you too will realize it, Ireland's Child of Light.   
+   
+**Saber:**   
+Grand Order&mdash;the battle to obtain the Holy Grail has only just begun.   
+   
+**Caster:**   
+Hey, wait! What do you mean by&mdash; Whoa!   
+Oh crap, I am getting sent back too?   
+   
+**Caster:**   
+Dammit! I don't like this, but whatever.   
+[♂ Kid /♀ Young Lady], I'm leaving the rest to you!   
+   
+**Caster:**   
+If there's a next time, try to summon me as a Lancer!   
+   
+**Mash:**   
+Confirming both Saber and Caster have vanished.   
+...Does that mean we've won?   
+   
+**Dr. Roman:**   
+Yes, you did a fine job, Mash, Fujimaru! The Director must be so pleased...Hey, where's the Director?   
+   
+**Olga Marie:**   
+Grand Order...  
+How did that Servant know that name?   
+   
 ---  
   
 **Fujimaru 1:**   
-もちろんです。  
-  
+Orders please, Director Marie.   
+   
 ---  
   
 **Fujimaru 2:**   
-……自分に出来る事なら。  
-  
+...Is something the matter?   
+   
+---  
+   
+**Olga Marie:**   
+Huh? O-Oh, right.   
+Well done Fujimaru, Mash.   
+   
+**Olga Marie:**   
+Several points are unclear, but let's call this mission complete.   
+   
+**Olga Marie:**   
+First, let's retrieve that crystal.   
+It's the reason Saber became abnormal...  
+   
+**Olga Marie:**   
+It's clearly the reason why Fuyuki City became a singularity.   
+   
+**Mash:**   
+Yes. An immediate retrieval&mdash;What?   
+   
+**???:**  
+Well, I didn't expect you'd get this far.   
+Beyond my plan's expectations and my own tolerances.   
+   
+**???:**  
+Master Candidate #48. It was my mistake to naively overlook you as an improbable child.   
+   
+**Mash:**   
+Professor Lev?   
+   
+**Dr. Roman:**   
+Lev&mdash;!   
+Professor Lev, you say? He's there?   
+   
+**Lev:**   
+Hm, is that Romani I hear?   
+So, you survived as well.   
+   
+**Lev:**   
+I told you to come to the command room immediately, but it seems you didn't listen. Honestly&mdash;  
+   
+**Lev:**   
+Trash who can't even follow orders.   
+Just the mere sight of it makes me want to throw up.   
+   
+**Lev:**   
+Why is it that humans always try to avoid their preordained destinies?   
+   
+**Mash:**   
+&mdash;!   
+Master, fall back! Fall back, please!   
+   
+**Mash:**   
+That person is dangerous...Th...  
+That isn't the Professor Lev we know!   
+   
+**Olga Marie:**   
+Lev...Oh, Lev! Lev! You're alive!   
+   
+**Olga Marie:**   
+Thank goodness! Without you, I don't know how I could protect Chaldea!   
+   
+**Mash:**   
+Director don't! That man is...  
+   
+**Lev:**   
+Hi, Olga. You seem well.   
+Looks like you had a rough time, too.   
+   
+**Olga Marie:**   
+Yes, yes, that's right, Lev! The command room blew up,  
+the city's in ruins, and I can't return to Chaldea!   
+   
+**Olga Marie:**   
+I'm going crazy from all these unforeseen complications!   
+But it's okay, as long as you're here we'll be fine, right?   
+   
+**Olga Marie:**   
+That's how it's always been, right?   
+You'll help me this time too, won't you?   
+   
+**Lev:**   
+Yes, of course.   
+Honestly, all these complications have irritated me.   
+   
+**Lev:**   
+And the biggest complication is you, Olga.   
+I set the bomb right under your feet, yet you still live.   
+   
+**Olga Marie:**   
+&mdash;What?   
+...L-Lev? Um, wh-what's that supposed to mean?   
+   
+**Lev:**   
+Sorry, you're not actually alive.   
+You're already dead. Your body, at least, long ago.   
+   
+**Lev:**   
+Trismegistus thoughtfully transferred you into this land after you'd become residual thoughts.   
+   
+**Lev:**   
+You had no aptitude for Rayshift while alive, right?   
+You can't teleport while you have a physical body.   
+   
+**Lev:**   
+Understand? You only gained the aptitude you so desired after you died.   
+   
+**Lev:**   
+That's why you can't return to Chaldea.   
+The moment you do, your consciousness will vanish.   
+   
+**Olga Marie:**   
+Wh-What? I'll vanish?   
+Wait...I can't return to Chaldea?   
+   
+**Lev:**   
+Indeed. But that's too sad of a story for you.   
+   
+**Lev:**   
+Let me show you the fate of the Chaldea that you devoted your entire life to.   
+   
+**Olga Marie:**   
+Wh-What is that?   
+Chaldeas is bright red?   
+   
+**Olga Marie:**   
+It's a lie, right? It's just an illusion, right, Lev?   
+   
+**Lev:**   
+It's real. I've connected the dimensions for you.   
+Having the Holy Grail allows me to do so.   
+   
+**Lev:**   
+Now behold, descendant of Animusphere.   
+Behold your folly!   
+   
+**Lev:**   
+Not a sliver of blue representing human survival remains.   
+Nothing but a burning, bright, red.   
+   
+**Lev:**   
+That is the outcome of this mission.   
+   
+**Lev:**   
+Isn't it wonderful, Marie? Once again, your incompetence has brought forth tragedy!   
+   
+**Olga Marie:**   
+Don't&mdash;Don't be absurd!   
+   
+**Olga Marie:**   
+I'm not responsible!   
+I didn't fail! I'm not dead!   
+   
+**Olga Marie:**   
+Who are you?   
+What have you done to my Chaldeas!   
+   
+**Lev:**   
+It isn't "yours. " Honestly&mdash;  
+What an annoying girl you are!   
+   
+**Olga Marie:**   
+Wha...Something's pulling&mdash;  
+my body across space&mdash;  
+   
+**Lev:**   
+I told you. That place is now connected with Chaldea.   
+   
+**Lev:**   
+I could kill you now, but there's no grace to that.   
+I will grant you your final wish, instead.   
+   
+**Lev:**   
+Go ahead and lay hands on your treasure.   
+Think of it as benevolence on my part.   
+   
+**Olga Marie:**   
+Wait&mdash;What do you mean, Lev?   
+My treasure...You mean Chaldeas?   
+   
+**Olga Marie:**   
+No, stop, please! Chaldeas? A high-density body of data? A territory of dimensional anomaly?   
+   
+**Lev:**   
+Yes. No different from a black hole.   
+Or perhaps a sun. Well, either way.   
+   
+**Lev:**   
+A human touching it would be a hellish disintegration on the molecular level. By all means, have a taste of infinite living death!   
+   
+**Olga Marie:**   
+No&mdash;No, no! Someone help me! Help!   
+I...I don't want to die here!   
+   
+**Olga Marie:**   
+Because I've never been praised...  
+I've never been praised by anyone!   
+   
+**Olga Marie:**   
+Why? Why does this always happen to me!?   
+   
+**Olga Marie:**   
+No one ever valued me!   
+Everyone hated me!   
+   
+**Olga Marie:**   
+No! Stop! No, no, no, no, no...  
+I haven't even accomplished anything yet!   
+   
+**Olga Marie:**   
+From the moment I was born,  
+I've never been accepted by anyone&mdash;!   
+   
 ---  
   
-**Dr.ロマン:**   
-&mdash;ありがとう。  
-その言葉でボクたちの運命は決定した。  
+**Fujimaru 1:**   
+Director!   
+   
+---  
   
-**Dr.ロマン:**   
-これよりカルデアは前所長オルガマリー・アニムスフィアが  
-予定した通り、<ruby>人理継続<rt>じんりけいぞく</rt></ruby>の<ruby>尊命<rt>そんめい</rt></ruby>を全うする。  
+**Fujimaru 2:**   
+...It's too late, we can't make it...  
+   
+---  
+   
+**Fujimaru:**   
+!!!   
+   
+**Mash:**   
+No! Don't do it, Senpai!   
+If you approach that man, you'll die the same way!   
+   
+**Lev:**   
+Oh? Impressive, for a Demi-Servant.   
+You sense that I am a fundamentally different life form.   
+   
+**Lev:**   
+Shall I reintroduce myself?   
+My name is Lev Lainur Flauros...  
+   
+**Lev:**   
+...In charge of the year 2017 sent to dispose of you humans.   
+   
+**Lev:**   
+Are you listening, Dr. Romani? As a friend who studied magecraft with you, let me give you some final advice.   
+   
+**Lev:**   
+Chaldea is finished. You humans have reached the moment of your destruction.   
+   
+**Dr. Roman:**   
+...Professor Lev.   
+No. Lev Lainur.   
+   
+**Dr. Roman:**   
+What do you mean?   
+Is it related to being unable to see 2019?   
+   
+**Lev:**   
+It's not "related. "  
+It's the reality that this is the end.   
+   
+**Lev:**   
+Unable to observe the future, you babbled that it had "disappeared. " That was truly wishful thinking.   
+   
+**Lev:**   
+The future didn't disappear. It was incinerated.   
+The moment Chaldeas was dyed crimson.   
+   
+**Lev:**   
+Your end is certain.   
+Your era no longer exists.   
+   
+**Lev:**   
+Chaldeas' magnetic field may be protecting Chaldea,  
+but any outside of it will face the same fate as Fuyuki City.   
+   
+**Dr. Roman:**   
+...So, that was it.   
+   
+**Dr. Roman:**   
+We didn't lose contact with the outside world due to interference, we simply lost the outside world itself.   
+   
+**Lev:**   
+Hmpf, you really are perceptive.   
+A shame I didn't kill you immediately.   
+   
+**Lev:**   
+But that too is futile resistance. If the time within Chaldea passes 2018 it will be wiped from this universe.   
+   
+**Lev:**   
+No one can change the outcome now.   
+This is a rejection of humanity by human history.   
+   
+**Lev:**   
+You didn't perish because your inability to evolve, nor did you perish due to war with foreign species.   
+   
+**Lev:**   
+Rather, it was your own foolishness! Your incompetence!   
+Because you lost the grace of our King!   
+   
+**Lev:**   
+Like a bunch of worthless scrap paper, you'll be burned away without a trace!   
+   
+**Lev:**   
+Ah, is this singularity at its limit?   
+   
+**Lev:**   
+...Cursed Saber. If you'd just obeyed, you would have been allowed to live.   
+   
+**Lev:**   
+Even when given the Holy Grail, she caused trouble by wanting to sustain this era.   
+   
+**Lev:**   
+Farewell, Romani.   
+And you Mash, Candidate #48.   
+   
+**Lev:**   
+Believe it or not, I have other things to do.   
+My enjoyment of your destruction ends here.   
+   
+**Lev:**   
+Now, be swallowed by the dimensional warp. But I'm not that evil, I'll allow you to say a final prayer.   
+   
+**Mash:**   
+The underground cavern's collapsing!   
+No, the cavern wasn't stable in the first place!   
+   
+**Mash:**   
+Doctor!   
+Perform an emergency Rayshift!   
+   
+**Mash:**   
+At any rate, we can at least save Senpai!   
+   
+**Dr. Roman:**   
+Understood! I'm already doing it!   
+But I'm sorry, it may collapse faster than I can fix it!   
+   
+**Dr. Roman:**   
+If it does, then do what you can on your side! I mean,  
+we can survive in space for a few dozen seconds, right?   
+   
+**Mash:**   
+Sorry, but please shut up, Doctor!   
+I'm so mad, I'm about to lose my cool!   
+   
+**Dr. Roman:**   
+Just hang on to your consciousness!   
+If we don't lose that, I might salvage&mdash;  
+   
+**Mash:**   
+We won't make it!   
+   
+---  
   
-**Dr.ロマン:**   
-目的は人類史の保護、および奪還。  
-探索対象は各年代と、原因と思われる聖遺物・聖杯。  
+**Fujimaru 1:**   
+Mash, this way!   
+   
+---  
   
-**Dr.ロマン:**   
-我々が戦うべき相手は歴史そのものだ。  
-君の前に立ちはだかるのは多くの英霊、伝説になる。  
+**Fujimaru 2:**   
+Mash, you at least...  
+   
+---  
+   
+**Mash:**   
+Senpai, your hand!   
+   
+**???:**  
+All right, you're a good boy.   
+Want something to eat? Nuts? Or maybe fish?   
+   
+**???:**  
+Hm, not sure if you are a cat or a squirrel.   
+But that's okay, you are pretty cute!   
+   
+**Fou:**   
+Fou...  
+Kyu, kyu...  
+   
+**???:**  
+Hm? Ah, the hero has awakened.   
+There, there, that's how a main character should be.   
+   
+**???:**  
+Good morning Fujimaru.   
+You're conscious now?   
+   
+---  
   
-**Dr.ロマン:**   
-それは挑戦であると同時に、過去に弓を引く冒涜だ。  
-我々は人類を守るために人類史に立ち向かうのだから。  
+**Fujimaru 1:**   
+Where...  
+   
+---  
   
-**Dr.ロマン:**   
-けれど生き残るにはそれしかない。  
-いや、未来を取り戻すにはこれしかない。  
+**Fujimaru 2:**   
+Who are you?   
+   
+---  
+   
+**???:**  
+Hm, you're not thinking straight yet?   
+This is the first time we've spoken directly like this.   
+   
+**???:**  
+What? Are you shocked that you woke up to the sight of such a beauty? I understand, but I'm used to it.   
+   
+**Da Vinci:**   
+I'm Da Vinci, a Chaldea collaborator.   
+Or perhaps the third summoned Heroic Spirit.   
+   
+**Da Vinci:**   
+Anyway, we'll talk later.   
+Somebody's waiting for you, go to the command room.   
+   
+---  
   
-**Dr.ロマン:**   
-……たとえどのような結末が待っていようとも、だ。  
+**Fujimaru 1:**   
+Someone's waiting?   
+   
+---  
   
-**Dr.ロマン:**   
-以上の決意をもって、  
-作戦名はファーストオーダーから改める。  
+**Fujimaru 2:**   
+Is it the doctor?   
+   
+---  
+   
+**Da Vinci:**   
+Roman?   
+Roman's waiting too, but he's not important.   
+   
+**Da Vinci:**   
+Jeez, there's someone else, she's the important one.   
+Guess you're not used to being the main character yet.   
+   
+**Fou:**   
+Fou, Fou!   
+   
+**Da Vinci:**   
+See? This little one says so, too.   
+Come on, time to get up Fujimaru.   
+   
+**Da Vinci:**   
+From here on, you'll be the center of this story.   
+The choices you make will probably save us all.   
+   
+**Da Vinci:**   
+Just like the multitudes of brave souls who weren't remembered by history as they saved humanity.   
+   
+**Da Vinci:**   
+You've been given a role to fight, not as a hero, but as a human walking a path that was preordained by the stars.   
+   
+**Mash:**   
+Good morning, Senpai.   
+I am glad to see that you're okay.   
+   
+---  
   
-**Dr.ロマン:**   
-これはカルデア最後にして原初の使命。  
-人理守護指定・<ruby>Ｇ<rt>グランド</rt></ruby>．<ruby>Ｏ<rt>オーダー</rt></ruby>。  
+**Fujimaru 1:**   
+Good morning. Thank you, Mash.   
+   
+**Mash:**   
+I should be the one thanking you.   
+I was able to stay conscious, thanks to you.   
+   
+---  
   
-**Dr.ロマン:**   
-魔術世界における最高位の使命を以て、  
-我々は未来を取り戻す！  
+**Fujimaru 2:**   
+Good morning. You were saved, Mash?   
+   
+**Mash:**   
+Yes, thanks to you holding my hand. I now believe that saying "what happens twice will happen thrice. "  
+   
+---  
+   
+**Dr. Roman:**   
+Ahem. I'm all for your reunion, but could you bring your attention here, please.   
+   
+**Dr. Roman:**   
+First of all, congratulations on surviving and completing your mission Fujimaru. Well done.   
+   
+**Dr. Roman:**   
+While the situation was forced on you gradually, you bravely faced the challenges and overcame it.   
+   
+**Dr. Roman:**   
+That earned my respect and appreciation.   
+Thanks to you, Mash and Chaldea were saved.   
+   
+**Dr. Roman:**   
+It's a shame about the Director, but we've no time to hold a service. All we can do is grieve.   
+   
+---  
   
+**Fujimaru 1:**   
+...  
+   
+---  
+  
+**Fujimaru 2:**   
+If I survived, then maybe the Director...  
+   
+**Dr. Roman:**   
+...  
+   
+---  
+   
+**Dr. Roman:**   
+Listen. We must defend humanity in the Director's place. That's how we pay her tribute.   
+   
+**Dr. Roman:**   
+I got the report about the crystal from Mash, and what Lev said.   
+   
+**Dr. Roman:**   
+From Chaldea's state, what Lev said was true.   
+We can't contact the outside world.   
+   
+**Dr. Roman:**   
+The staff who left Chaldea haven't returned.   
+I fear humanity has already been destroyed.   
+   
+**Dr. Roman:**   
+Chaldea seems to be the only place outside of the normal timeline. Perhaps it's staying on the timeline right before the collapse.   
+   
+**Dr. Roman:**   
+Think of it like a colony floating in space. The outside world is dead, until we do something about this situation.   
+   
+---  
+  
+**Fujimaru 1:**   
+Can we even do it?   
+   
+---  
+  
+**Fujimaru 2:**   
+Is there something we can do?   
+   
+---  
+   
+**Dr. Roman:**   
+Of course. First, I want you to see this.   
+We tried scanning Earth with the resurrected Sheba.   
+   
+**Dr. Roman:**   
+It's Earth of the past, not the future.   
+The Fuyuki Singularity was destroyed, thanks to you.   
+   
+**Dr. Roman:**   
+But we hypothesize that the future was unchanged due to another cause.   
+   
+**Dr. Roman:**   
+The result being&mdash;  
+   
+**Dr. Roman:**   
+This distorted world map. A newly-discovered dimensional disturbance against which Fuyuki pales in comparison.   
+   
+**Dr. Roman:**   
+They say changing the past changes the future, but you can't overthrow the future by slightly altering the past.   
+   
+**Dr. Roman:**   
+History has the power to heal itself.   
+You might be able to save a person or two...  
+   
+**Dr. Roman:**   
+...But the end of that era&mdash;  
+Will still end up with its definitive result unchanged.   
+   
+**Dr. Roman:**   
+But these singularities are different.   
+These are humanity's turning points.   
+   
+**Dr. Roman:**   
+"What if this war didn't end? "  
+"What if this naval voyage wasn't successful? "  
+   
+**Dr. Roman:**   
+"What if this discovery was wrong? "  
+"What if this nation couldn't become independent? "  
+   
+**Dr. Roman:**   
+The ultimate decision point to determine the current state of humanity.   
+   
+**Dr. Roman:**   
+Destroying them is like causing the foundation of human history to crumble. That's what these seven singularities are.   
+   
+**Dr. Roman:**   
+The future had already been decided when these seven singularities formed. As Lev said, humanity doesn't make it to 2019.   
+   
+**Dr. Roman:**   
+&mdash;But, we're different.   
+Chaldea has yet to reach that future.   
+   
+**Dr. Roman:**   
+Do you understand? Only we can fix this mistake.   
+Now we have a chance to return the singularities to normal.   
+   
+**Dr. Roman:**   
+So here's the deal.   
+   
+**Dr. Roman:**   
+Rayshift into these seven singularities and get history back on track.   
+   
+**Dr. Roman:**   
+It's the only way to save humanity.   
+However we are still powerless.   
+   
+**Dr. Roman:**   
+All other Master candidates are frozen.   
+Mash is the only Servant we have.   
+   
+**Dr. Roman:**   
+I realize you're being forced into this situation.   
+Even so, I'll still say it.   
+   
+**Dr. Roman:**   
+Master Candidate #48, Fujimaru.   
+   
+**Dr. Roman:**   
+If you wish to save humanity...  
+If you wish to have a future beyond 2018.   
+   
+**Dr. Roman:**   
+Then you alone must go and face these seven singularities in human history.   
+   
+**Dr. Roman:**   
+Are you prepared to do this? Can you shoulder the burden of Chaldea and humanity's future?   
+   
+---  
+  
+**Fujimaru 1:**   
+Of course.   
+   
+---  
+  
+**Fujimaru 2:**   
+If it's something I can do.   
+   
+---  
+   
+**Dr. Roman:**   
+&mdash;Thank you.   
+With those words, our fate has been decided.   
+   
+**Dr. Roman:**   
+We will now carry out the Prevervation of Humanity as laid out by Olga Marie Animusphere, former director of Chaldea.   
+   
+**Dr. Roman:**   
+Our objective is the protection and recovery of human history. Our search target will be each era's relic and Grail.   
+   
+**Dr. Roman:**   
+Our opponent is history itself. Many great Heroic Spirits and legends will stand against you.   
+   
+**Dr. Roman:**   
+Challenging them is an act of blasphemy against the past. To save humanity, we must defy human history.   
+   
+**Dr. Roman:**   
+But this is the only way to survive.   
+No, the only way to take back the future.   
+   
+**Dr. Roman:**   
+...No matter what sort of end awaits us.   
+   
+**Dr. Roman:**   
+To reflect our determination, we shall abandon the original mission name, First Order.   
+   
+**Dr. Roman:**   
+This is now Chaldea's last yet original mission.   
+The Grand Order!   
+   
+**Dr. Roman:**   
+In the name of the magical world's highest order.   
+We will take back the future!   
   
