@@ -15,8 +15,18 @@ module.exports = {
             "meta",  
             { name: "apple-mobile-web-app-status-bar-style", content: "black" },  
         ],  
-		['link', { rel: 'icon', href: 'https://i.imgur.com/kDHyJX2.png' }],  
-    ],  
+		['link', { rel: 'icon', href: 'https://i.imgur.com/kDHyJX2.png', type: 'image/png' }],  
+    
+	],  
+	extendPageData($page) {
+        // Check if the page has a custom embedImage specified in front matter
+        if ($page.frontmatter.embedImage) {
+            // If so, set the favicon to the custom embedImage
+            $page.frontmatter.head = [
+                ['link', { rel: 'icon', href: $page.frontmatter.embedImage, type: 'image/png' }],
+            ];
+        }
+    },
     theme: defaultTheme({  
         smoothScroll: true,  
         repo: "https://github.com/r-grandorder/tri-hermes",  
