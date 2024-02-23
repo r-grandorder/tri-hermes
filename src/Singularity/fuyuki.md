@@ -12,46 +12,46 @@ embedImage: https://static.atlasacademy.io/NA/Banner/questboard_cap100.png
   <source src="https://static.atlasacademy.io/NA/Audio/BGM_EVENT_2/BGM_EVENT_2.mp3" type="audio/mp3">  
 </audio>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">&mdash;Base sequence: human genome confirmed</p>  
-<p style="color: #51d4ff">&mdash;Alignment: Good-Neutral</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">&mdash;Base sequence: human genome confirmed</span>  
+<span style="color: #51d4ff">&mdash;Alignment: Good-Neutral</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">Welcome to the data center for the future of humankind.</p>  
-<p style="color: #51d4ff">This is the Security Organization for the Preservation of Humanity, Chaldea.</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">Welcome to the data center for the future of humankind.</span>  
+<span style="color: #51d4ff">This is the Security Organization for the Preservation of Humanity, Chaldea.</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">Fingerprint, voiceprint, and DNA authentication cleared.</p>  
-<p style="color: #51d4ff">Magical Circuit assessment complete.</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">Fingerprint, voiceprint, and DNA authentication cleared.</span>  
+<span style="color: #51d4ff">Magical Circuit assessment complete.</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">Username matched.</p>  
-<p style="color: #51d4ff">You are recognized as a member of the primates.</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">Username matched.</span>  
+<span style="color: #51d4ff">You are recognized as a member of the primates.</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">Nice to meet you.</p>  
-<p style="color: #51d4ff">You're our final visitor today.</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">Nice to meet you.</span>  
+<span style="color: #51d4ff">You're our final visitor today.</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">We hope you enjoy your time here.</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">We hope you enjoy your time here.</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">We are very sorry. Another 180 seconds is needed to complete the admission process.</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">We are very sorry. Another 180 seconds is needed to complete the admission process.</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">Enjoy a simulated battle while you wait.</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">Enjoy a simulated battle while you wait.</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">Regulation: Senior</p>  
-<p style="color: #51d4ff">Contract Servants: Saber, Lancer, Archer</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">Regulation: Senior</span>  
+<span style="color: #51d4ff">Contract Servants: Saber, Lancer, Archer</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">There will be no record of your score.</p>  
-<p style="color: #51d4ff">Please feel free to enjoy.</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">There will be no record of your score.</span>  
+<span style="color: #51d4ff">Please feel free to enjoy.</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">Activating Heroic Spirit Summoning System Fate.</p>  
-<p style="color: #51d4ff">We hope you have a good experience as a Master for these 180 seconds.</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">Activating Heroic Spirit Summoning System Fate.</span>  
+<span style="color: #51d4ff">We hope you have a good experience as a Master for these 180 seconds.</span>  
   
 # TUTORIAL  
   
@@ -796,14 +796,14 @@ The lights are out. Did something&mdash;
   <source src="https://static.atlasacademy.io/NA/Audio/BGM_EVENT_3/BGM_EVENT_3.mp3" type="audio/mp3">  
 </audio>  
   
-**<p style="color: #51d4ff">Announcement A:</p>**  
-<p style="color: #51d4ff">Emergency. Emergency. A fire has broken out in the Central Power Station and the Central Command Room.</p>  
+**<span style="color: #51d4ff">Announcement A:</span>**  
+<span style="color: #51d4ff">Emergency. Emergency. A fire has broken out in the Central Power Station and the Central Command Room.</span>  
   
-**<p style="color: #51d4ff">Announcement A:</p>**  
-<p style="color: #51d4ff">Central Area's containment wall will activate in 90 seconds. All staff must evacuate from Gate 2 at once.</p>  
+**<span style="color: #51d4ff">Announcement A:</span>**  
+<span style="color: #51d4ff">Central Area's containment wall will activate in 90 seconds. All staff must evacuate from Gate 2 at once.</span>  
   
-**<p style="color: #51d4ff">Announcement A:</p>**  
-<p style="color: #51d4ff">Containment wall will close in 40 seconds Those remain in Central Area, evacuate immediately&mdash;</p>  
+**<span style="color: #51d4ff">Announcement A:</span>**  
+<span style="color: #51d4ff">Containment wall will close in 40 seconds Those remain in Central Area, evacuate immediately&mdash;</span>  
   
 **Dr. Roman:**  
 Was that an explosion just now?  
@@ -874,16 +874,16 @@ Only Chaldeas is safe.
 This was where the explosion originated.  
 This was no accident, it was sabotage.  
   
-**<p style="color: #51d4ff">Announcement A:</p>**  
-<p style="color: #51d4ff">Generator operation stopped.</p>  
-<p style="color: #51d4ff">Power level critical.</p>  
+**<span style="color: #51d4ff">Announcement A:</span>**  
+<span style="color: #51d4ff">Generator operation stopped.</span>  
+<span style="color: #51d4ff">Power level critical.</span>  
   
-**<p style="color: #51d4ff">Announcement A:</p>**  
-<p style="color: #51d4ff">Switch to the backup generator, error.</p>  
-<p style="color: #51d4ff">Please make switch manually.</p>  
+**<span style="color: #51d4ff">Announcement A:</span>**  
+<span style="color: #51d4ff">Switch to the backup generator, error.</span>  
+<span style="color: #51d4ff">Please make switch manually.</span>  
   
-**<p style="color: #51d4ff">Announcement A:</p>**  
-<p style="color: #51d4ff">Containment wall will close in 40 seconds Those remain in Central Area, evacuate immediately&mdash;</p>  
+**<span style="color: #51d4ff">Announcement A:</span>**  
+<span style="color: #51d4ff">Containment wall will close in 40 seconds Those remain in Central Area, evacuate immediately&mdash;</span>  
   
 **Dr. Roman:**  
 ...I'm heading down to the underground power station.  
@@ -900,17 +900,17 @@ Go outside, and wait for help!
 **Fujimaru:**  
 ...  
   
-**<p style="color: #51d4ff">Announcement B:</p>**  
-<p style="color: #51d4ff">System switching to the final phase of Rayshift.</p>  
-<p style="color: #51d4ff">Coordinates, AD 2004, January, 30th, Fuyuki, Japan.</p>  
+**<span style="color: #51d4ff">Announcement B:</span>**  
+<span style="color: #51d4ff">System switching to the final phase of Rayshift.</span>  
+<span style="color: #51d4ff">Coordinates, AD 2004, January, 30th, Fuyuki, Japan.</span>  
   
-**<p style="color: #51d4ff">Announcement B:</p>**  
-<p style="color: #51d4ff">Laplace's shifting protection established.</p>  
-<p style="color: #51d4ff">Singularity's additional factor slot secured.</p>  
+**<span style="color: #51d4ff">Announcement B:</span>**  
+<span style="color: #51d4ff">Laplace's shifting protection established.</span>  
+<span style="color: #51d4ff">Singularity's additional factor slot secured.</span>  
   
-**<p style="color: #51d4ff">Announcement B:</p>**  
-<p style="color: #51d4ff">Unsummon Program set.</p>  
-<p style="color: #51d4ff">Please start final adjustments.</p>  
+**<span style="color: #51d4ff">Announcement B:</span>**  
+<span style="color: #51d4ff">Unsummon Program set.</span>  
+<span style="color: #51d4ff">Please start final adjustments.</span>  
   
 ---  
   
@@ -956,28 +956,28 @@ Please Fujimaru, you need to...get out of here.
 **Mash:**  
 Ah...  
   
-**<p style="color: #51d4ff">Announcement B:</p>**  
-<p style="color: #51d4ff">Warning all observation staff.</p>  
-<p style="color: #51d4ff">Chaldeas' state has changed.</p>  
+**<span style="color: #51d4ff">Announcement B:</span>**  
+<span style="color: #51d4ff">Warning all observation staff.</span>  
+<span style="color: #51d4ff">Chaldeas' state has changed.</span>  
   
-**<p style="color: #51d4ff">Announcement B:</p>**  
-<p style="color: #51d4ff">Now rewriting Sheba's near-future prediction data.</p>  
+**<span style="color: #51d4ff">Announcement B:</span>**  
+<span style="color: #51d4ff">Now rewriting Sheba's near-future prediction data.</span>  
   
-**<p style="color: #51d4ff">Announcement B:</p>**  
-<p style="color: #51d4ff">Unable to detect the existence of mankind</p>  
-<p style="color: #51d4ff">100 years in the near-future on Earth.</p>  
+**<span style="color: #51d4ff">Announcement B:</span>**  
+<span style="color: #51d4ff">Unable to detect the existence of mankind</span>  
+<span style="color: #51d4ff">100 years in the near-future on Earth.</span>  
   
-**<p style="color: #51d4ff">Announcement B:</p>**  
-<p style="color: #51d4ff">Unable to confirm human survivors.</p>  
-<p style="color: #51d4ff">Unable to guarantee mankind's future.</p>  
+**<span style="color: #51d4ff">Announcement B:</span>**  
+<span style="color: #51d4ff">Unable to confirm human survivors.</span>  
+<span style="color: #51d4ff">Unable to guarantee mankind's future.</span>  
   
 **Mash:**  
 Chaldeas...has turned bright red...  
 No, never mind, that&mdash;  
   
-**<p style="color: #51d4ff">Announcement A:</p>**  
-<p style="color: #51d4ff">Central Area, sealed.</p>  
-<p style="color: #51d4ff">180 seconds till internal containment procedure.</p>  
+**<span style="color: #51d4ff">Announcement A:</span>**  
+<span style="color: #51d4ff">Central Area, sealed.</span>  
+<span style="color: #51d4ff">180 seconds till internal containment procedure.</span>  
   
 **Mash:**  
 ...they, shut off, the area.  
@@ -998,21 +998,21 @@ No, never mind, that&mdash;
 **Mash:**  
 ...  
   
-**<p style="color: #51d4ff">Announcement A:</p>**  
-<p style="color: #51d4ff">Coffin Vitals: Masters</p>  
-<p style="color: #51d4ff">Baseline not reached.</p>  
+**<span style="color: #51d4ff">Announcement A:</span>**  
+<span style="color: #51d4ff">Coffin Vitals: Masters</span>  
+<span style="color: #51d4ff">Baseline not reached.</span>  
   
-**<p style="color: #51d4ff">Announcement A:</p>**  
-<p style="color: #51d4ff">Rayshift requirement not met.</p>  
-<p style="color: #51d4ff">Searching for qualifying Master... Found.</p>  
+**<span style="color: #51d4ff">Announcement A:</span>**  
+<span style="color: #51d4ff">Rayshift requirement not met.</span>  
+<span style="color: #51d4ff">Searching for qualifying Master... Found.</span>  
   
-**<p style="color: #51d4ff">Announcement A:</p>**  
-<p style="color: #51d4ff">Candidate No. 48, Fujimaru</p>  
-<p style="color: #51d4ff">reset as Master.</p>  
+**<span style="color: #51d4ff">Announcement A:</span>**  
+<span style="color: #51d4ff">Candidate No. 48, Fujimaru</span>  
+<span style="color: #51d4ff">reset as Master.</span>  
   
-**<p style="color: #51d4ff">Announcement A:</p>**  
-<p style="color: #51d4ff">Unsummon Program, start.</p>  
-<p style="color: #51d4ff">Spiritron Conversion, start.</p>  
+**<span style="color: #51d4ff">Announcement A:</span>**  
+<span style="color: #51d4ff">Unsummon Program, start.</span>  
+<span style="color: #51d4ff">Spiritron Conversion, start.</span>  
   
 **Mash:**  
 ...Um...Sen...pai?  
@@ -1021,18 +1021,18 @@ No, never mind, that&mdash;
 Would you mind...  
 Holding my hand?  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">Rayshift starting in 3</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">Rayshift starting in 3</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">2</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">2</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">1</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">1</span>  
   
-**<p style="color: #51d4ff">Announcement:</p>**  
-<p style="color: #51d4ff">All procedures clear.</p>  
-<p style="color: #51d4ff">First Order, commencing operation.</p>  
+**<span style="color: #51d4ff">Announcement:</span>**  
+<span style="color: #51d4ff">All procedures clear.</span>  
+<span style="color: #51d4ff">First Order, commencing operation.</span>  
   
 ## Section 1: Burning City
   
@@ -2539,8 +2539,8 @@ rudimentary things like what a Heroic Spirit is.
 ---  
   
 **Olga Marie:**  
-<p style="color: #FF0000">Servants</p> are heroes of the past made into familiars.  
-Those who enter into a contract with them and use them are <p style="color: #FF0000">Masters.</p>  
+<span style="color: #FF0000">Servants</span> are heroes of the past made into familiars.  
+Those who enter into a contract with them and use them are <span style="color: #FF0000">Masters.</span>  
   
 **Olga Marie:**  
 There are seven classes of Servants, which vary depending on a Servant's legends and abilities.  
@@ -3044,7 +3044,7 @@ Fujimaru Senpai.
 I'm sorry for explaining this so late.  
   
 **Mash:**  
-Servants are equipped with a unique skill called a <p style="color: #FF0000">Noble Phantasm.</p>  
+Servants are equipped with a unique skill called a <span style="color: #FF0000">Noble Phantasm.</span>  
   
 **Mash:**  
 It's derived from each hero's legend and great deeds, and is a secret weapon.  
