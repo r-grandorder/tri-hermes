@@ -9,7 +9,7 @@ These translations are mainly as preparation for my translation of Decoration Di
 It covers the **mechanics** of the demon lore, so sadly no lengthy Merem Solomon translations here or other showcases of this lore, mainly because of time-budgeting.   
   
 ::: danger Warning  
-Spoilers below for: Tsukihime, Fate/Stay Night, Hollow Ataraxia, DDD.  
+Spoilers below for: Tsukihime, Fate/Stay Night, Hollow Ataraxia, DDD, and Fate/Extra CCC.  
 :::  
   
 ## From the Translator  
