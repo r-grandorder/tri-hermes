@@ -152,7 +152,7 @@ This section will be undergoing a mass overhaul, we apologize for the inconvenie
 | Mysterious Alter Ego Λ | [Material Profile](Servants/Profiles/Mysterious-AlterEgo-Λ.md) | |  
 | Caenis | | |   
 | Romulus=Quirinus | Utsumi Erice | | |   
-| Yu Mei-ren | | |   
+| Yu Mei-ren | [Material Profile](Servants/Profiles/Yu-Mei-ren-Lancer.md) | |   
 | Vritra | | |   
 | Fairy Knight Lancelot | | |   
 | Percival | | |   
@@ -200,7 +200,7 @@ This section will be undergoing a mass overhaul, we apologize for the inconvenie
 | Odysseus |  | |  
 | Murasaki Shikibu |  | |  
 | Nemo | [Material Profile](Servants/Profiles/Nemo.md) | |   
-| Habetrot | | |   
+| Habetrot | [Material Profile](Servants/Profiles/Habetrot.md) | |   
 | Caenis | | |   
 | Elisabeth Báthory (Cinderella) | | |   
 | Taikoubou | | |   
