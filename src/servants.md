@@ -116,6 +116,11 @@ This section will be undergoing a mass overhaul, we apologize for the inconvenie
 | Anastasia & Viy | | |   
 | Zenobia | | |   
 | Minamoto no Tametomo | | |   
+
+## Lancer 
+  
+| Servant | Material / In-Game Profile | Interlude | 
+|:--------:|:--------:|:--------:| 
 | Cú Chulainn | [Material Profile](Servants/Profiles/Cú-Chulainn.md) | [Interlude](Servants/Interludes/Cú-Chulainn.md) |  
 | Elisabeth Báthory | [Material Profile](Servants/Profiles/Elisabeth-Báthory.md) | [Interlude](Servants/Interludes/Elisabeth-Báthory.md) |  
 | Musashibou Benkei | [Material profile](Servants/Profiles/Musashibō-Benkei.md) | [Interlude](Servants/Interludes/Musashibō-Benkei.md) |  
