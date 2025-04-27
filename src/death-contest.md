@@ -35,7 +35,9 @@ Envy : People jealousy over others, “Why didn’t they suffered”
 Wrath : Anger towards others for many reasons.
 
 From 2038 to 2045 , This period of time was called Before The Third World War or B3WW for short 
-===================================================
+
+---
+
 During The 2040 AD, 
 There used to be a farmer who had a happy family 
 Him , his wife and his two child 
@@ -46,8 +48,9 @@ That day, Group of people came. They said they are from The Government.
 I don’t know what convo happened but whatever happened, but it resulted in my parents dying. 
 
 And My Sister being taken by them 
-I later learned that she was sold as a slave.
-—---
+I later learned that she was sold as a slave.  
+
+—--
 
 I quickly enlist in the Military, It was hard to do but I have to do it after all. War is the only way I could find The government responsible for killing my parents. 
 
@@ -226,49 +229,92 @@ Returning to the ruined streets of the city, a one-winged A-Ray noticed on top o
   
 ## Mercu - Side Story A  
   
-—Sakuragawa, we have a body at the Rennes Building, go there ASAP.  
-My superior opened the door to Forensics while giving an order. His direct order was a clear sign that he was uncharacteristically nervous, betraying his usual calm demeanor, which meant that this case was different than usual.  
-I stood up from my desk and started packing up my equipment.  
-—What are the details, Sergeant Mito?  
-—You will see once you get there– He started replying, when suddenly his phone began to ring– Sorry, I’m a bit busy right now, I’ll be expecting your report.  
-Mito picked up the call and walked away from Forensics without giving me time to react. Having finished our short exchange, I finished packing my things and exited the station to get into my car to go to the Rennes Building.  
-The Rennes Building is a large corporate building housing the headquarters of the Japanese branch of the Rennes Corporation, a large international company of French origin which produces and distributes tobacco and different types of cigarettes. During the last three years this branch had grown in profits quite a bit, and it was said that the founder of the company, Jacques Pierre Rennes, would host an event inside that building in a few days to congratulate the branch.  
-—(This may be the reason why Sergeant Mito was so nervous, maybe it involves one of the big shots at the company…) –I thought while driving.  
-Once I reached my destination, despite being so early in the morning, I was greeted by a large group of bystanders and reporters surrounding the building, with some police officers preventing them from getting close to it. I made my way past them and showed my identification to one of the officers, who let me pass through.  
-—Where is it? –I asked, trying to lower my voice to not alert the public.  
-—It’s inside the building, in the entrance hall.  
-Putting on my gloves, I walked towards the front door and made my way inside the enormous building.  
-The hall was large and spacious, with stairs at both sides and a row of elevators behind. It was filled to the brim with works of art, from paintings to sculptures of all kinds, and a large red sign saying “CONGRATULATIONS!” was hung above. Both it and most of the paintings were suspended with steel wires, probably with hooks at the tips which remained obscured behind what they were holding.  
-—(I guess today was meant to be the big day, huh…)  
-Leaving the open door behind me, I started to enter deeper into the hall. I was greeted by a reception desk with two empty chairs, next to which stood an officer, talking to a man. The latter was severely older than the officer and, judging by his uniform, he must have been one of the building’s janitors. I approached them.  
-—Sakuragawa, from Forensics. What is the situation?  
-The janitor stood looking at the floor, silent, while the officer turned towards me. He was a young man in his 30s with short dark hair and an amicable face. Despite being slightly older than me, his uniform showed that his status on the hierarchy was quite low.  
-—My name is Joba Kawachi, from the nearby police box. –He replied politely– I was the first one to arrive at the scene and call for backup. This man right here discovered the body half an hour ago, and immediately called the police.  
-—Thank you, officer Kawachi. Could you lead me to the body? I have to examine the scene.  
-—Of course, it’s further inside the hall –He started walking, but not before directing his attention to the janitor and speaking to him in a calm voice. Sir, you should stay here and don’t move, okay?  
-—Yes, officer…  
-The old janitor replied with a low voice and a defeated expression, still under the influence of what he had previously set his eyes on. It would take a long time for him to forget about this, if ever. Not just anyone can stand being close to a corpse, let alone examining it, which was what my job was for.  
-—By the way, the janitor was not the first person to find the body. He also found another man, a foreigner, unconscious close to it. An ambulance picked him up shortly before you arrived.  
-While following Kawachi down the hall, I started looking at the different works of art spread around the room, when I noticed a particular chalice sitting on top of a pedestal in the center of the entrance hall. It was seemingly carved on white rock, and featured Egyptian motifs on its surface. Noticing my curiosity, Kawachi started giving an explanation.  
-—I heard the founder of the company brought some artifacts from his personal collection here. That chalice must be a replica, because I remember seeing a very similar one on a documentary a while ago.  
-—A friend of mine would love seeing this under different circumstances, he’s a bit of a history fan.  
-As we finished our little exchange, we continued walking towards the end of the hall. From my position I could see a large statue, as well as the cables supporting the final painting hung at the end of the room. Once we passed the statue, I slowed my pace.  
-It was there.  
-Suspended from the cables was not a painting, but the bloated and mangled remains of a man. His arms had been twisted several times in an unnatural position behind his back, with the hooks which were meant to support a painting piercing his wrists. The skin on shoulders and forearms had been ruptured, hanging tattered as macabre feathers. All of his body seemed to have been inflated, leaving him almost unrecognisable as a man were it not for his still visible beard, which appeared to have once been blond, now tainted of the red oozing from all his orifices, including his eye sockets, empty voids without eyes, which dripped on a pool of blood under him.  
-I readied my camera and made a signal to Kawachi so he would stay back while I took wide shots of the scene. Now I understood why sergeant Mito was so worried about back at the station.  
-—Messed up, right? I don’t know who possibly could have done something like this. If you don’t mind, I’ll stay away from it, gives me the creeps.  
-—Don’t worry, I’ll take it from here –I said, trying to calm him down and, in a way, myself too.  
-Camera still in hand, I got closer to the body to take pictures of smaller details, when I noticed an object on the floor, right next to the pool of blood. It was a wallet, stained in red. I quickly marked its location and took a picture of its original position, after which I picked it up and opened it to see the ID.  
-—(Salvador Pallars... Another foreigner. Judging by the beard and hair colour, it must be the victim’s wallet which fell off at some point. The blood on it seems to not have dried long ago.)  
-While I was storing the wallet as evidence, my phone vibrated. It was a message from my superior, telling me an Investigator would be there in ten minutes. I sent a quick reply, my mind completely focused on analysing the scene.  
-Behind the body was a painting, supporting itself next to the back wall. It must have been what was supposed to be hanging from those cables, but a large stain of blood hid what it might have depicted. Most likely it was from the victim, but just in case I took a picture of the painting before taking a sample of the blood to have it analysed back at the lab.  
-With nothing else surrounding the body, I moved my attention to it. Being careful to not damage it, I started taking pictures of its different injuries from up close, starting from the bottom and moving upwards. His left hand had a red tattoo of abstract shape, which stood out from the rest of his skin which, while damaged, did not show any sort of decorative markings. Taking a closer look at his hands also made me realise that it wasn’t just his orifices that were bleeding, but also the tips of his fingers, right under the nails, which dripped down as the body swayed slightly– Wait, bleeding and swaying?  
-I suddenly had a dreadful realisation, and quickly moved my fingers to the mass that used to be his neck… And I sensed something. It was extremely faint, but I was able to pick up on a pulse. Rapidly, I looked behind me in the direction Kawachi was standing.  
-—Call an ambulance, fast! He’s still alive!  
-…  
-…  
-…  
-The ambulance arrived shortly after. With a lot of care, the paramedics unhooked the man and took him away. I tried looking for fingerprints on the statue or the painting, but none were found on the former and only one type in the latter. The janitor told me that yesterday the building had been closed, and he and the rest of the crew had cleaned up the whole building to prepare for the celebration today. However, I managed to get some fingerprints from the front door. They were from the victim, the unconscious man, the janitor, officer Kawachi and a pair of unidentified ones.  
+—Sakuragawa, we have a body at the Rennes Building, go there ASAP.
+
+My superior opened the door to Forensics while giving an order. His direct order was a clear sign that he was uncharacteristically nervous, betraying his usual calm demeanor, which meant that this case was different than usual.
+
+I stood up from my desk and started packing up my equipment.
+
+—What are the details, Sergeant Mito?
+
+—You will see once you get there– He started replying, when suddenly his phone began to ring– Sorry, I’m a bit busy right now, I’ll be expecting your report.
+
+Mito picked up the call and walked away from Forensics without giving me time to react. Having finished our short exchange, I finished packing my things and exited the station to get into my car to go to the Rennes Building.
+
+The Rennes Building is a large corporate building housing the headquarters of the Japanese branch of the Rennes Corporation, a large international company of French origin which produces and distributes tobacco and different types of cigarettes. During the last three years this branch had grown in profits quite a bit, and it was said that the founder of the company, Jacques Pierre Rennes, would host an event inside that building in a few days to congratulate the branch.
+
+—(This may be the reason why Sergeant Mito was so nervous, maybe it involves one of the big shots at the company…) –I thought while driving.
+
+Once I reached my destination, despite being so early in the morning, I was greeted by a large group of bystanders and reporters surrounding the building, with some police officers preventing them from getting close to it. I made my way past them and showed my identification to one of the officers, who let me pass through.
+
+—Where is it? –I asked, trying to lower my voice to not alert the public.
+
+—It’s inside the building, in the entrance hall.
+
+Putting on my gloves, I walked towards the front door and made my way inside the enormous building.
+
+The hall was large and spacious, with stairs at both sides and a row of elevators behind. It was filled to the brim with works of art, from paintings to sculptures of all kinds, and a large red sign saying “CONGRATULATIONS!” was hung above. Both it and most of the paintings were suspended with steel wires, probably with hooks at the tips which remained obscured behind what they were holding.
+
+—(I guess today was meant to be the big day, huh…)
+
+Leaving the open door behind me, I started to enter deeper into the hall. I was greeted by a reception desk with two empty chairs, next to which stood an officer, talking to a man. The latter was severely older than the officer and, judging by his uniform, he must have been one of the building’s janitors. I approached them.
+
+—Sakuragawa, from Forensics. What is the situation?
+
+The janitor stood looking at the floor, silent, while the officer turned towards me. He was a young man in his 30s with short dark hair and an amicable face. Despite being slightly older than me, his uniform showed that his status on the hierarchy was quite low.
+
+—My name is Joba Kawachi, from the nearby police box. –He replied politely– I was the first one to arrive at the scene and call for backup. This man right here discovered the body half an hour ago, and immediately called the police.
+
+—Thank you, officer Kawachi. Could you lead me to the body? I have to examine the scene.
+
+—Of course, it’s further inside the hall –He started walking, but not before directing his attention to the janitor and speaking to him in a calm voice. Sir, you should stay here and don’t move, okay?
+
+—Yes, officer…
+
+The old janitor replied with a low voice and a defeated expression, still under the influence of what he had previously set his eyes on. It would take a long time for him to forget about this, if ever. Not just anyone can stand being close to a corpse, let alone examining it, which was what my job was for.
+
+—By the way, the janitor was not the first person to find the body. He also found another man, a foreigner, unconscious close to it. An ambulance picked him up shortly before you arrived.
+
+While following Kawachi down the hall, I started looking at the different works of art spread around the room, when I noticed a particular chalice sitting on top of a pedestal in the center of the entrance hall. It was seemingly carved on white rock, and featured Egyptian motifs on its surface. Noticing my curiosity, Kawachi started giving an explanation.
+
+—I heard the founder of the company brought some artifacts from his personal collection here. That chalice must be a replica, because I remember seeing a very similar one on a documentary a while ago.
+
+—A friend of mine would love seeing this under different circumstances, he’s a bit of a history fan.
+
+As we finished our little exchange, we continued walking towards the end of the hall. From my position I could see a large statue, as well as the cables supporting the final painting hung at the end of the room. Once we passed the statue, I slowed my pace.
+
+It was there.
+
+Suspended from the cables was not a painting, but the bloated and mangled remains of a man. His arms had been twisted several times in an unnatural position behind his back, with the hooks which were meant to support a painting piercing his wrists. The skin on shoulders and forearms had been ruptured, hanging tattered as macabre feathers. All of his body seemed to have been inflated, leaving him almost unrecognisable as a man were it not for his still visible beard, which appeared to have once been blond, now tainted of the red oozing from all his orifices, including his eye sockets, empty voids without eyes, which dripped on a pool of blood under him.
+
+I readied my camera and made a signal to Kawachi so he would stay back while I took wide shots of the scene. Now I understood why sergeant Mito was so worried about back at the station.
+
+—Messed up, right? I don’t know who possibly could have done something like this. If you don’t mind, I’ll stay away from it, gives me the creeps.
+
+—Don’t worry, I’ll take it from here –I said, trying to calm him down and, in a way, myself too.
+
+Camera still in hand, I got closer to the body to take pictures of smaller details, when I noticed an object on the floor, right next to the pool of blood. It was a wallet, stained in red. I quickly marked its location and took a picture of its original position, after which I picked it up and opened it to see the ID.
+
+—(Salvador Pallars... Another foreigner. Judging by the beard and hair colour, it must be the victim’s wallet which fell off at some point. The blood on it seems to not have dried long ago.)
+
+While I was storing the wallet as evidence, my phone vibrated. It was a message from my superior, telling me an Investigator would be there in ten minutes. I sent a quick reply, my mind completely focused on analysing the scene.
+
+Behind the body was a painting, supporting itself next to the back wall. It must have been what was supposed to be hanging from those cables, but a large stain of blood hid what it might have depicted. Most likely it was from the victim, but just in case I took a picture of the painting before taking a sample of the blood to have it analysed back at the lab.
+
+With nothing else surrounding the body, I moved my attention to it. Being careful to not damage it, I started taking pictures of its different injuries from up close, starting from the bottom and moving upwards. His left hand had a red tattoo of abstract shape, which stood out from the rest of his skin which, while damaged, did not show any sort of decorative markings. Taking a closer look at his hands also made me realise that it wasn’t just his orifices that were bleeding, but also the tips of his fingers, right under the nails, which dripped down as the body swayed slightly– Wait, bleeding and swaying?
+
+I suddenly had a dreadful realisation, and quickly moved my fingers to the mass that used to be his neck… And I sensed something. It was extremely faint, but I was able to pick up on a pulse. Rapidly, I looked behind me in the direction Kawachi was standing.
+
+—Call an ambulance, fast! He’s still alive!
+
+…
+
+…
+
+…
+
+The ambulance arrived shortly after. With a lot of care, the paramedics unhooked the man and took him away. I tried looking for fingerprints on the statue or the painting, but none were found on the former and only one type in the latter. The janitor told me that yesterday the building had been closed, and he and the rest of the crew had cleaned up the whole building to prepare for the celebration today. However, I managed to get some fingerprints from the front door. They were from the victim, the unconscious man, the janitor, officer Kawachi and a pair of unidentified ones.
+
 I heard he died on his way to the hospital. Strangely, the hand tattoo was nowhere to be found when his corpse was examined. Despite my report and the subsequent investigation, we never found out what happened to him.  
   
 ## Aareez - Always With You  
@@ -867,33 +913,33 @@ How do I know this? Well, it’s a Squire’s task to record the great adventure
   
 ## Thorne - The Last Day of Deirdre an Bhróin  
   
-	“A majestic piece of work, isn’t it?” the man across me says, gesturing behind him to the imposing castle our carriage rides to. Less a palace and more a mass of iron and stone, the fortress sits on the edge of a bluff a ways past a lake I forget the name of, its presence far out-shadowing its size. Wicked spires sprout from its innards, glorified birdcages darkening the already cloudy sky. One of them will be mine soon.  
+“A majestic piece of work, isn’t it?” the man across me says, gesturing behind him to the imposing castle our carriage rides to. Less a palace and more a mass of iron and stone, the fortress sits on the edge of a bluff a ways past a lake I forget the name of, its presence far out-shadowing its size. Wicked spires sprout from its innards, glorified birdcages darkening the already cloudy sky. One of them will be mine soon.  
   
-	“I was surprised to hear you took my offer after all, you know,” he continues, ignoring my silence, “I mean, Éoghan mac Durthacht! I figured you’d rather die than spend the rest of your years with him.”  
+“I was surprised to hear you took my offer after all, you know,” he continues, ignoring my silence, “I mean, Éoghan mac Durthacht! I figured you’d rather die than spend the rest of your years with him.”  
   
-	The man’s name is Conchobar mac Nessa, king of Ulster, and for the past year, he has been the foremost object of my hatred. Forced into becoming his unwilling bride, I have experienced first-hand what it means to be a hostage of his wanton lust for control; his desire to grasp what is not his — not anyone’s — in the palm of his hand. Now that he has tired of me and my own unwillingness to play his games, he has found it fit to dispose of me, placing me in the hands of an equally detestable individual: Éoghan mac Durthacht, king of Fernmag, and the one who took *Him* from this world too soon. I ought to strangle him with my bare hands, grant all of them retribution, and yet—  
+The man’s name is Conchobar mac Nessa, king of Ulster, and for the past year, he has been the foremost object of my hatred. Forced into becoming his unwilling bride, I have experienced first-hand what it means to be a hostage of his wanton lust for control; his desire to grasp what is not his — not anyone’s — in the palm of his hand. Now that he has tired of me and my own unwillingness to play his games, he has found it fit to dispose of me, placing me in the hands of an equally detestable individual: Éoghan mac Durthacht, king of Fernmag, and the one who took *Him* from this world too soon. I ought to strangle him with my bare hands, grant all of them retribution, and yet—  
   
-	—And yet, despite how righteous my vengeance burns, a cold seed of doubt nestles itself in my heart.  
-  
----  
-  
-	It is a well-kept secret, one known only to a select few outside of those present at my birth, but since the moment I was born, those around me have been cursed to know naught but pain.  
-  
-	Perhaps it was a punishment from the gods, a cruel trick made to punish my father for a particularly irreverent performance. Perhaps my mother was more than she let on: I would never know, given she died in childbirth. Regardless, I have lived my life burdened by this curse of mine, born to have anyone I know idolize, but never truly love, me. It was for this reason that the sage Cathbad ordered that I be named Deirdre — broken-hearted, for the ruin I would bring should I be let to live, and the hole in my heart that would never be filled. There is a part of me that believes I should have died that night, had they and that bastard king Conchobar advised otherwise. If he had let his mind govern his decree and not his loins, as kings often do, Ulster would not find itself on the brink of undoneness as it does now. The seed whispers to me again, convincing me that if I had never been born, this suffering could have all been avoided.  
-  
-	Perhaps it is so, I think, but were that true, that would mean…  
-  
-	There was a light in my life, once. Back when it was only Leabharcham and I surviving off the land, I was graced with a prophecy that would shape the course of my life thereafter. It told me of a hero with skin as fair as the winter snow, cheeks flushed blood-red, and hair as dark as the raven which supped from it. I begged her with all my heart to meet *Him*, to know *Him*, to hope against hope that if anyone would see me for who I truly was, it was *Him*.  
-  
-	I should have known that convincing her would be all of our undoings.  
-  
-	As promised, I met Him, and alongside His brothers, we eloped on a whirlwind romance far from the clutches of Conchobar and his men. Alas, the mad king eventually found us hidden in Alba, deceiving the great warrior Fergus mac Róich into returning us to him. With my words veiled in song and prophecy, I begged them not to return. That if we stayed here, they would not have to lay down their lives for my sake. Yet despite it all, they—  
+—And yet, despite how righteous my vengeance burns, a cold seed of doubt nestles itself in my heart.  
   
 ---  
   
-	A bump in the road wrests me from my thoughts, the memories fading away as I am brought back to the present. The castle draws near, now. The imposing shadows it casts seem to stop right where the rocky patch of road we ride on ends, as if signaling the point of no return for our carriage; for me. The rocks around us sprout from the ground at jagged, sharp angles, wicked flowers in full bloom. A fitting setpiece for Éoghan, I muse. Gazing upon them fills me with an acute sense of dread, and yet, they almost seem to beckon for me, as if they know the pain of the flesh outweighs the anguish I stand to face. A plan, haphazard yet effective, forms.  
+It is a well-kept secret, one known only to a select few outside of those present at my birth, but since the moment I was born, those around me have been cursed to know naught but pain.  
   
-	Conchobar, miraculously, continues to prattle on, seemingly taunting me about something or other I cannot be bothered to hear anymore. The wheels in my head spin like lightning, a battle raging within as to whether I truly commit to this plan of mine; if death is truly better than chains. I try to reason with myself, the seed of doubt doing its best to justify my so-called penance, but in this moment, it is incinerated by my burning desire to be rid of it all. To be free.   
+Perhaps it was a punishment from the gods, a cruel trick made to punish my father for a particularly irreverent performance. Perhaps my mother was more than she let on: I would never know, given she died in childbirth. Regardless, I have lived my life burdened by this curse of mine, born to have anyone I know idolize, but never truly love, me. It was for this reason that the sage Cathbad ordered that I be named Deirdre — broken-hearted, for the ruin I would bring should I be let to live, and the hole in my heart that would never be filled. There is a part of me that believes I should have died that night, had they and that bastard king Conchobar advised otherwise. If he had let his mind govern his decree and not his loins, as kings often do, Ulster would not find itself on the brink of undoneness as it does now. The seed whispers to me again, convincing me that if I had never been born, this suffering could have all been avoided.  
+  
+Perhaps it is so, I think, but were that true, that would mean…  
+  
+There was a light in my life, once. Back when it was only Leabharcham and I surviving off the land, I was graced with a prophecy that would shape the course of my life thereafter. It told me of a hero with skin as fair as the winter snow, cheeks flushed blood-red, and hair as dark as the raven which supped from it. I begged her with all my heart to meet *Him*, to know *Him*, to hope against hope that if anyone would see me for who I truly was, it was *Him*.  
+  
+I should have known that convincing her would be all of our undoings.  
+  
+As promised, I met Him, and alongside His brothers, we eloped on a whirlwind romance far from the clutches of Conchobar and his men. Alas, the mad king eventually found us hidden in Alba, deceiving the great warrior Fergus mac Róich into returning us to him. With my words veiled in song and prophecy, I begged them not to return. That if we stayed here, they would not have to lay down their lives for my sake. Yet despite it all, they—  
+  
+---  
+  
+A bump in the road wrests me from my thoughts, the memories fading away as I am brought back to the present. The castle draws near, now. The imposing shadows it casts seem to stop right where the rocky patch of road we ride on ends, as if signaling the point of no return for our carriage; for me. The rocks around us sprout from the ground at jagged, sharp angles, wicked flowers in full bloom. A fitting setpiece for Éoghan, I muse. Gazing upon them fills me with an acute sense of dread, and yet, they almost seem to beckon for me, as if they know the pain of the flesh outweighs the anguish I stand to face. A plan, haphazard yet effective, forms.  
+  
+Conchobar, miraculously, continues to prattle on, seemingly taunting me about something or other I cannot be bothered to hear anymore. The wheels in my head spin like lightning, a battle raging within as to whether I truly commit to this plan of mine; if death is truly better than chains. I try to reason with myself, the seed of doubt doing its best to justify my so-called penance, but in this moment, it is incinerated by my burning desire to be rid of it all. To be free.   
   
 I open the carriage door, and as I hang over the edge, wind tousling my once-fiery hair, I remember it all.   
   
@@ -901,9 +947,9 @@ I remember how despite it all, they didn’t listen. They, who insisted that the
   
 Perhaps I should have thrown myself in with them; had the minstrels romanticize our last moments as ones spent together. If for no one else, that would have saved me from the suffering I have endured this arduous year. I was too cowardly to do so back then, but I will not make the same mistake this time.  
   
-	Conchobar’s eyes widen as I fall wordlessly from the carriage, my face as stony as it has been this past year; as the rocks I will surely dash myself across. I will not permit him the mercy of understanding my feelings in these final moments, for those are only for myself and the gods above to know. As I fall, an emotion I have long repressed finally begins to awaken, and I scoff at it in my heart of hearts for having taken so long to blossom.  
+Conchobar’s eyes widen as I fall wordlessly from the carriage, my face as stony as it has been this past year; as the rocks I will surely dash myself across. I will not permit him the mercy of understanding my feelings in these final moments, for those are only for myself and the gods above to know. As I fall, an emotion I have long repressed finally begins to awaken, and I scoff at it in my heart of hearts for having taken so long to blossom.  
   
-	Hate, after all, is but another facet of love.  
+Hate, after all, is but another facet of love.  
   
 Time seems to slow as I remember that fateful day, when I lost everything to the spear of Éoghan mac Durthacht. That man, who killed my love, his brothers, and countless more; who Conchobar ‘entrusted’ me to… I despise him with all my heart. I wish the king he serves one thousand curses, for he let his love for a flower not yet bloomed overtake him, destroying us in his wanton pursuit of it. I hate this country for showering me in what they claim to be love. I take their happiness in its entirety and turn it to scorn for what they have done, what they have let pass and will let pass again. I am not the first that has done so, and I will not be the last.  
   
@@ -929,7 +975,7 @@ the other knocks me down; the blood of my soul pouring out from within en masse.
 can’t die, I can’t die, say this broken mind of mine, as I try to stand; wobbling and seeing red,  
 with a searing on my hand clear as day as the **<span style="color: #FF0021">Command Seal</span>** appears;bringing forth what  
 appears to be a regal woman in red, beauty piercing through the dark as my mind fades asking  
-me a question I had failed to hear from my **<span style="color: #72761D">Servat</span>** earlier “ Now then, I shall ask you once  
+me a question I had failed to hear from my **<span style="color: #72761D">Servant</span>** earlier “ Now then, I shall ask you once  
 more. Answer me. Are you my Master” the beauty in red asks, pulling a nod from me as I fall  
 unconscious into darkness  
   
