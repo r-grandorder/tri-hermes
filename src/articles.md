@@ -17,3 +17,4 @@ If you'd like to submit articles, please DM Lib#7770 on Discord
 ## Miscallaneous   
   
 * [Servant Places of Birth](map.md)  
+* [Type-Moon Asset Folder](https://sites.google.com/view/type-moon-asset-repository/home) by Mercu
