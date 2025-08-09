@@ -27,6 +27,55 @@ module.exports = {
             ];
         }
     },
+
+  markdown: {
+    config: (md) => {
+      md.core.ruler.push("alt_from_nearest_heading", (state) => {
+        let currentHeading = null;
+
+        const humanizeFromSrc = (src) => {
+          try {
+            const file = (src || "").split("/").pop() || "";
+            const base = file.split(".").slice(0, -1).join(".") || "";
+            const cleaned = base.replace(/[-_]+/g, " ").trim();
+            return cleaned || "Image";
+          } catch {
+            return "Image";
+          }
+        };
+
+        for (let i = 0; i < state.tokens.length; i++) {
+          const t = state.tokens[i];
+
+          if (t.type === "heading_open") {
+            const inline = state.tokens[i + 1];
+            if (inline && inline.type === "inline") {
+              const txt = (inline.content || "").trim();
+              if (txt) currentHeading = txt;
+            }
+          }
+
+          if (t.type === "inline" && Array.isArray(t.children)) {
+            for (let j = 0; j < t.children.length; j++) {
+              const c = t.children[j];
+              if (c.type === "image") {
+                let alt = (c.content || "").trim();
+                if (!alt || alt.toLowerCase() === "image") {
+                  const src = c.attrGet("src") || "";
+                  const fallback = currentHeading || humanizeFromSrc(src);
+                  c.attrSet("alt", fallback || "Image");
+                }
+                if (!c.attrGet("loading")) c.attrSet("loading", "lazy");
+                if (!c.attrGet("decoding")) c.attrSet("decoding", "async");
+              }
+            }
+          }
+        }
+        return false;
+      });
+    },
+  },
+
     theme: defaultTheme({  
         smoothScroll: true,  
         repo: "https://github.com/r-grandorder/tri-hermes",  
