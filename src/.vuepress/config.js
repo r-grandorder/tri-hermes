@@ -100,7 +100,7 @@ module.exports = {
             },  
 			{  
                 text: "Discord",  
-                link: "https://discord.gg/GzxxEwjzpU",  
+                link: "https://discord.gg/QkaReepEct",  
             },  
         ],  
         sidebar: 'auto'  
